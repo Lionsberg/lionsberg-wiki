@@ -1,0 +1,2 @@
+# Architect Working Group
+The **Architect working group** reviews all new material added to the [[Suggestion Box]] and has the responsibility to either accept and incorporate the material, modify it, or declare it as incompatible with the Whole. All rejections or modifications will be accompanied by an explanation that helps improve understanding and encourages the contributor's forward momentum.

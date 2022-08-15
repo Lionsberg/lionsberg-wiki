@@ -1,46 +1,51 @@
-# Our Massive Wiki
+# LIONSBERG WIKI
 
-## For Editing Wiki Files
+Hello, world.
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+Welcome to the Lionsberg Wiki. We are glad you are here. 
 
-Use Markdown, or just type text -- either way works.
+Lionsberg is being purpose-built as a system and gathering place where a community of goodwill can work together on the [[One Thing]] that unites us All. 
 
-Use double square brackets around words to make links to other pages in this wiki.
+We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or the [[Meta Game]]. 
 
-## For Publishing Wiki To Website
+Simply, _we are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
 
-### Massive Wiki Builder
+Feel free to explore, recognizing that everything here is being built live and transparently as a [[Work In Progress]]. 
 
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
+## Read About 
+- [[What Is The Lionsberg Meta Project?]]  
+- [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
+- [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
+- [[Requests For Guidance]] - Find the latest Requests for Guidance, which will help get you up to speed on priorities during recent and present cycles.
 
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
+## Lionsberg Community Information
+- [[Frequently Asked Questions]]  
+- [[Groups]]  
+- [[Membership]]  
+- [[Meetings]] - A growing repository of meeting notes and recording links. 
+- [[Community Schedule]] - Draft for Review 
 
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
+## Lionsberg System Design
+- [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Structure]] and [[Provisional Code]] that we are striving to act out and improve. 
+- [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being and doing together. 
+- [[Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
 
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
+## Requests For Guidance
+- [[Requests For Guidance]]
 
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
+## Lionsberg Wiki Books
+- [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
+- [[The Power of Today]] - A guide for individuals to integrate their [[Daily Practice]] in a [[Way]] that helps us All advance towards the Goal. 
+- [[Integrated Delivery Guide]]  
+- [[Martial Arts Guide]]  
 
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
+## Lionsberg  Wiki Blogs
+- [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
 
-The full command:
+## Maps of Content
+- [[Team Jump Page]]  
+- [[Bottom Up Jump Page]]  (Coming Soon)
+- [[Top Down Jump Page]]  (Coming Soon)
 
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
 
-Or, you can clone the submodules with these commands:
 
-```shell
-git submodule init
-git submodule update
-```
-
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
-
-### Themes
-
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
-
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.
