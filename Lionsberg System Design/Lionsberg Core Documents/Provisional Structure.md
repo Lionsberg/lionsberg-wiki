@@ -21,6 +21,6 @@ _All of the levels above happen before any legal structure, and exist purely on 
 
 This is a starting point / prototype for [[Continuous Improvement]].  
 
-The [[Lionsberg System]] is designed to work as a Whole - this structure is purpose-built to protect the DNA and Processes that are bringing [[Intention Into Reality]].   
+The [[Lionsberg System]] is designed to work as a Whole - this structure is purpose-built to protect the DNA and Processes that are bringing intention into reality. 
 
 ![[Lionsberg diagram 8-15-22.png]] 
