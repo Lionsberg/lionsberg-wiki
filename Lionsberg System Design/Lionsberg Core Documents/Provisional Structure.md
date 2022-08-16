@@ -9,9 +9,9 @@ Here is a 30 minute introductory discussion from its creators:
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts: 
-1. At the deepest level, Lionsberg and the Meta Project are Ideas we are trying to bring into reality. 
-2. One level up is the voluntary association or community of people around the world working together towards this end. 
-3. One level up are those formally engaged in federating. 
+1. At the deepest level, [[Lionsberg]] and the [[Meta Project]] are reflections of a [[Meta Idea]] we are trying to bring into reality.  
+2. One level up from Idea is the voluntary association / community of individuals around the world working together towards this end.  
+3. One level up from individuals are those individuals and organizations formally engaged in [[Federating]]  
 
 _All of the levels above happen before any legal structure, and exist purely on the basis of voluntary collaboration, social structure, and governance structure. This is critical to protect the Sovereignty and Independence of the Idea and the Individuals collaborating. All structural elements are merely tools_. 
 
