@@ -2,7 +2,9 @@
 
 For more information on the inception of the Lionsberg | Meta Project Structure, see [[1.2 Background and Context]] in the [[Integrated Delivery Guide]]. 
 
-For a 30 minute introductory discussion from its creators, please see this [video](https://youtu.be/F5MAh4T15_s). 
+Here is a 30 minute introductory discussion from its creators:
+
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F5MAh4T15_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 For a consolidated visual diagram, please see the embedded PDF below. 
 
