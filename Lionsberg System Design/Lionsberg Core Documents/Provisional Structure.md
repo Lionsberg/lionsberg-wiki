@@ -19,6 +19,6 @@ _All of the levels above happen before any legal structure, and exist purely on 
 
 This is a starting point. A Prototype. A hypothesis. 
 
-Please also remember that the Lionsberg System is designed to work as a Whole - this structure is purpose-built to protect the DNA and Processes that are bringing [[Intention Into Reality]].  
+Please also remember that the [[Lionsberg System]] is designed to work as a Whole - this structure is purpose-built to protect the DNA and Processes that are bringing [[Intention Into Reality]].
 
 ![[Lionsberg diagram (c) 6-3-22.pdf]]
