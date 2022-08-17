@@ -180,7 +180,8 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - We had determined the Core Teams that needed to formalized and structured. 
 - We had network nodes representing thousands of incredible people circling, watching, and wondering... 
 - [[Jordan Nicholas Sukut]] was holding space and risk as the sole board member and funding source 
-- Some of the most talented, skilled, and wise people we had ever worked with were surrounding us and investing time, energy, and attention 
+- It was reported that the backbone technological infrastructure we had funded was being leveraged by ~170 impact organizations in ~13 countries  
+- Some of the most talented, skilled, and wise people we had ever worked with were surrounding us and investing time, energy, and attention  
 - And we were ready to advance into the next round of resourcing, partnership and engagement. 
 
 ## Investments Prior to August 2022
