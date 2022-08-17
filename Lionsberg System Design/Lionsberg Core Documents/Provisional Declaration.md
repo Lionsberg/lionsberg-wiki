@@ -7,11 +7,11 @@ In our quest towards a better future, humanity and life on earth are facing an u
 
 We are confronted by:
 
-1.    A total set of challenges to solve  
+1.    A total set of [[Grand Challenges]] to solve  
 
-2.    A total set of goals to accomplish  
+2.    A total set of [[Global Goals]] to accomplish  
 
-3.    A mutual desire and ethical imperative to forge the best possible future for All  
+3.    A mutual desire and ethical imperative to forge the [[Best Possible Future]] for All  
 
 **IMPERATIVE**
 
@@ -55,11 +55,11 @@ We are coming together to inspire a global community community of goodwill to de
 
 **Process**: Our process is the use of Integrated Delivery to bring the total nested hierarchy of goals into reality. 
 
-**Mission**: Our mission is to serve, connect and empower individuals, organizations, and communities around the world. 
+**Mission**: Our mission is to accomplish [[The Goal]] by serving, connecting and empowering individuals, organizations, and communities around the world. 
 
-**Vision**: Our vision is a thriving and abundant world in which every being has the opportunity to develop into the fullness of their potential. It is a flourishing world that is becoming more perfect every day because we are working together to make it so. 
+**Vision**: Our vision is a thriving and abundant world in which every being has the opportunity to develop into the fullness of their potential and flourish in harmony. It is a world that is becoming more perfect every day because we are working together to make it so. 
 
-**Values**: We stand firmly upon the timeless shared values held by all people of goodwill, including Truth, Love, Justice, Stewardship, and Wisdom, and upon the Source and Sustainer from which they are our life are derived. 
+**Values**: We stand firmly upon the timeless shared values held by all people of goodwill, including Truth, Love, Justice, Stewardship, and Wisdom.  
 
 _____
 It is anticipated that this Provisional Declaration will complexify itself over time into a Provisional Constitution. 

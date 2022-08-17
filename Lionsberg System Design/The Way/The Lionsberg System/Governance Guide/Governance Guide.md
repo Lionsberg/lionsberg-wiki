@@ -1,25 +1,25 @@
 # Governance Guide
 In [[A New Sovereignty]], we posited that it is both possible and necessary for us to transcend the divisions and dysfunctions of the Old, in order to forge a New Sovereignty. 
 
-We posited that process would reciprocally unfurl itself through the right balance and combination of being / relationship, and doing / action.  
+We posited that process would reciprocally unfurl itself through the right balance and combination of being / relationship, and doing / action in Community. 
 
-We are forging a [[Meta Community]] because in isolation, it is impossible to do what must be done. 
+We are forging a [[Meta Community]] because in isolation, it is impossible to do what must be done to accomplish [[The Goal]].   
 
-We are forging a [[Meta Project]] because that community must become pragmatically capable of solving the total set of grand challenges, accomplishing the total set of global goals, and forging the [[Best Possible Future]] for [[All]]. 
+We are forging a [[Meta Project]] because that community must become pragmatically capable of solving the total set of [[Grand Challenges]], accomplishing the total set of [[global goals]], and forging the [[Best Possible Future]] for [[All]].   
 
 We are forging a [[Meta Game]] because each and every member of the Community without exception must be able to understand and play the Game. 
 
-The purpose of this Guide is help Sovereign Citizens understand how to rightly [[Navigate]] the [[Vessel of Society]] towards its [[Destiny]]. 
+The purpose of this Guide is help Sovereigns understand how to rightly [[Navigate]] [[Lionsberg]], the [[Vessel of Society]], and their individual Sovereignties towards their [[Destiny]]. 
 
 ## Governance of the Old
-If we were to [[All]] gather in a clean New meeting place and coordinate our activities, over a short period of time we would come to be entirely in possession of all the Old structures and positions of power. This could be accomplished in large part by using their own mechanisms to shine light into all the dark places, expose the corruption, hold them accountable, and vote into power only those true and wise leaders who were fully aligned with the Goal of the New. 
+If we were to [[All]] gather in a clean New meeting place and coordinate our activities, over a short period of time we could  influence and direct all of the [[Old]] structures and positions of governance. This could be accomplished in large part by using their own mechanisms to shine light into all the dark places, expose the corruption, establish transparency and accountability, and vote into authority only those true and wise leaders who were fully aligned with [[The Goal]] and [[Values]].  
 
-If this movement sweeps the globe, this can be accomplished in a single generation. 
+This can be accomplished in a single generation. 
 
 This is going to require concerted effort on two fronts: 
 
 1. Active engagement and participation in every election around the world to get the Old / corrupt voted out, and genuine servant leaders aligned with the New voted in. 
-2. The use of whatever systems of justice are present in each country to charge and hold accountable those who do not honor the New Code. 
+2. The use of whatever systems of justice are present in each domain to hold accountable those who do not honor the Universal Law and Values. 
 
 Action on these two fronts will require the creation of significantly powerful machines / platforms to accomplish each. 
 
@@ -32,7 +32,7 @@ And these platforms must be entirely reflective of the [[Highest Intention and G
 These two platforms will be critical [[Trim Tab|Trim Tabs]] for steering the [[Vessel of Society]] as we navigate the transition from the [[Old]] to the [[New]]. 
 
 ## Governance of the New
-The overwhelmingly more powerful and first condition that makes it possible for us to Navigate the [[Vessel of Society]] towards its [[Destiny]] is to forge a higher order system of governance for the [[New]]. 
+The overwhelmingly more powerful and first condition that makes it possible for us to Navigate the [[Vessel of Society]] towards its [[Destiny]] is to forge a higher order system of [[Governance]] for the [[New]].  
 
 Only the [[New]] is truly capable of the kind of transformational course correction that is required.  The [[Old]] will simply never be able to be turned in time. 
 

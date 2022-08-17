@@ -2,7 +2,9 @@
 
 The **Meta Idea** of the [[Lionsberg System]] and the [[Meta Project]] is that [[All]] things flow from [[One]] thing that contains and orders [[All]] things within Itself. 
 
-This notion points at the same [[Ultimate Reality]] that words like [[One]], [[God]], and [[Absolute]] point to. Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsberg System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of human ideology. 
+This notion points at the same [[Ultimate Reality]] that words like [[One]], [[God]], and [[Absolute]] point to. 
+
+Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsberg System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of human ideology. 
 
 ## Extension 
 
