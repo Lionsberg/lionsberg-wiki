@@ -112,7 +112,15 @@ If you want multiple lines not parsed and in monospaced font, use three backtick
 
 (add something here about double space characters for linebreaks, used on sidebars)
 
-### Misc. Notes
+## Embedding YouTube Videos
+
+Copy the following to embed YouTube videos (but not the lines that start with three backticks), and replace YOUTUBE_VIDEO_ID with the ID of the video you want to embed:
+
+```html
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+```
+
+## Misc. Notes
 - Incipient Links - links to things that don't exist yet... are just as important as a page. You can make them, without stopping your train of thought, and they will be there as placeholders. 
 	- Obsidian knows a link that doesn't exist is still a link. 
 	- If you click on the [[Incipient Link]], then the page exists. 

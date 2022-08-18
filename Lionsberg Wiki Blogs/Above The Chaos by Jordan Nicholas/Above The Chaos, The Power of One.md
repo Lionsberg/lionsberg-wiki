@@ -1,4 +1,4 @@
-# # Above The Chaos,  The Power of One
+# Above The Chaos,  The Power of One
 By [[Jordan Nicholas Sukut]], 2022.08.13 _(updated 2022.08.13)_
 
 A post in [[Above The Chaos By Jordan Nicholas]].

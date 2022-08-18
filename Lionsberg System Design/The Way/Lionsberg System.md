@@ -1,18 +1,24 @@
 # Lionsberg System
-The Lionsberg System is a comprehensive and integrated [[System]] designed to produce [[Throughput]] of our overarching and uniting [[Meta Goal]]. 
+Lionsberg is a mission and values driven community working together to co-create the [[Best Possible Future]] for [[All]]. 
 
-It operates by inviting individual and local elements into the kind of [[Higher Order Functional Unity]] that is actually capable of accomplishing the [[Work]] necessary to: 
+Producing the [[Best Possible Future]] requires a [[System]] that empowers us to [[Co-Operate]] in [[Higher Order Functional Unity]]. 
 
-1. Solve the total set of [[Grand Challenges]]
-2. Accomplish the total set of [[Global Goals]]
-3. Forge the [[Best Possible Future]] for [[All]] 
+The [[Lionsberg System]] is a comprehensive and integrated [[System]] designed to produce [[Throughput]] of our One overarching and uniting [[Meta Goal]]. 
 
-It expresses itself through a [[Way of Being]] and a [[Way of Doing]] that causes that to happen. See [[The Way]]. 
+It is designed to connect, empower, and accelerate All other things moving in service of [[The Goal]]. 
 
-See also: 
-[[The Way]]  
-[[Provisional Structure]]  
-[[Integrated Delivery Guide]]  
-[[A New Sovereignty]]  
+The [[Lionsberg System]] is emerging to address all elements required for this Higher Order Functional Unity to emerge: 
 
-The system, if applied at every fractal level of a Whole, helps integrate and align All things in service of One highest overarching and uniting [[Meta Goal]]. 
+1. History and Trust - See [[Provisional Trust Manifesto]]
+2. Vision & Intention - See [[Provisional Declaration]]  
+3. Values - See [[Values]]  
+4. Community - See [[Lionsberg Community]]  
+5. Action - See the [[Meta Project]]  
+6. Behavioral Code - See [[Provisional Code]]  
+7. Governance - See the [[Governance Guide]]  
+8. Structure - See [[Provisional Structure]]  
+9. Process - See [[The Way]] and [[Integrated Delivery Guide]]  
+10. Economy - Coming Soon 
+11. All Pillars of Society - See [[A New Sovereignty]]  
+
+All elements of the System are designed to integrate and align [[All]] in service of [[The Goal]] that unites us All.   

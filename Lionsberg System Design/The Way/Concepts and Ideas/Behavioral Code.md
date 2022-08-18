@@ -21,7 +21,7 @@ First, starting in unconscious embodiment and progressively "ascending" up into 
 
 Second, starting in Spirit / Consciousness and "descending" down into embodied actions as we figure out how to act out what has been spiritually or intellectually discerned. 
 
-This relates to the fundamental [[Reciprocal Opening]] that is occuring between apparently opposing polar energies of Being and Doing. 
+This relates to the fundamental [[Reciprocal Opening]] that is occurring between apparently opposing polar energies of Being and Doing. 
 
 Generally, these explicit and implicit Codes relate to [[Values]]. 
 

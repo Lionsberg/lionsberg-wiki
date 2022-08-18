@@ -1,7 +1,9 @@
 # Values
 This page is a [[Work In Progress]]. This stream of thought began in a section on [[Behavioral Code]], as we were working to define the [[Provisional Code]]. For this reason, it will start a bit abruply in a context that is highly related to how our Values show up in thought, words, and action. 
 
-Also see [[Core Values]] 
+For a simple statement on the Universal Values that structure the [[Lionsberg System]], see [[Core Values]]. 
+
+For examples of how we hope the [[Core Values]] express themselves in concrete behavioral terms, see [[Provisional Code]]. 
 ___
 
 Generally, our explicit and implicit [[Behavioral Code|Behavioral Codes]] relate to our [[Values]]. 
@@ -27,12 +29,12 @@ Our [[Current Best Understanding]] is that [[Value]] in the New World must be en
 
 It is _only_ by entirely reintegrating our [[Total Nested Hierarchy of Values]], and fundamentally and foundationally realigning our notion of [[Value]] with it, that we can bring forth the New Economy and the New Society of the New World. 
 
-This is a crtical notion _technically_ because we can now demonstrate rigorously using accepted principles such as [[Lean]] that the vast majority of human activity in the Old World produced Waste that actually _inhibited_ [[Value Creation]]. 
+This is a critical notion _technically_ because we can now demonstrate rigorously using accepted principles such as [[Lean]] that the vast majority of human activity in the Old World produced [[Waste]] that actually _inhibited_ [[Value Creation]]. 
 
 ## The Meta Value
 At the absolute top of this [[Total Nested Hierarchy of Values]] is [[One]] [[Meta Value]] that by definition unifies and coheres within Itself All other Values. 
 
-Across multiple traditions, the "Spirit" of the [[Meta Value]] has been most commonly articulated with what in English we might call Unconditional [[Love]]. In other languages, such as Greek that undergird many systems of philsophy and religion, a more accurate and nuanced word might be [[Agape]]. Agape is used in texts such as the Bible for the reciprocal, unconditional, and ultimate Love of [[One]] for [[All]], and [[All]] for [[One]]. Or said differently of a Creator for Its Creation, and of Creation for Its Creator. 
+Across multiple traditions, the "Spirit" of the [[Meta Value]] has been most commonly articulated with what in English we might call Unconditional [[Love]], which is associated with the Spirit or Nature of That Which Creates and Sustains Life and Consciousness. In other languages, such as Greek that undergirds many systems of philosophy and religion, a more accurate and nuanced word might be [[Agape]]. Agape is used in texts such as the Bible for the reciprocal, unconditional, and ultimate Love of [[One]] for [[All]], and [[All]] for [[One]]. Or said differently of a Creator for Its Creation, and of Creation for Its Creator. 
 
 From this single lens of Unconditional, Ultimate, and All-Encompassing Love, every other Universal Value and Good can be articulated, and apparently contradictory or competing Values balanced and held in Harmony. 
 
@@ -42,11 +44,11 @@ It is the Powerful Motive Force and Intention of Unconditional Love, as a Living
 
 ### The Meta Value in Lionsberg  
 
-This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal of the Lionsberg System. It is the One Thing around which All aspects of the System revolve. 
+This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal of the Lionsberg System. It is the [[One Thing]] around which [[All]] aspects of the System revolve. 
 
-One level up the hierachy of abstraction, one understands that [[One]] is [[Love]], and therefore the [[Meta Value]] is [[One]], inclusive of the Spirit of the [[One]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
+One level up the hierarchy of abstraction, one understands that [[One]] is [[Love]], and therefore the [[Meta Value]] is [[One]], inclusive of the Spirit of the [[One]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
 
-Therefore the Foundation, Center, Purpose and Goal of the Lionsberg System and the Universe it serves is One. 
+Therefore the Foundation, Center, Purpose and Goal of the [[Lionsberg System]] and the Universe it serves is [[One]]. 
 
 This is the entire basis of the [[Meta Idea]]. The [[Meta Idea]], the [[Meta Value]], and the [[Meta Goal]] are [[One]] expressed in various abstract ways. 
 
@@ -65,7 +67,7 @@ What is more Valuable, the Golden Egg, or the Goose that Eternally Lays the Gold
 
 One does not need to Understand the Mystery from which Life and Consciousness flows to humbly and reverentially relate to It as the Most Valuable Thing. This is as much of a Logical / Rational / Philosophical conception as it is an idea articulated through religion. 
 
-Secular and religious philosphers alike understand the need for any System to be ordered and cohered by One Thing outside of it. 
+Secular and religious philosophers alike understand the need for any System to be ordered and cohered by One Thing outside of it. 
 
 The [[Absolute]] does not need to be articulated or concretized, and in fact should not be articulated or concretized, in order to be related to as the [[One Thing]] that orders and coheres [[All]] things within Itself. 
 
