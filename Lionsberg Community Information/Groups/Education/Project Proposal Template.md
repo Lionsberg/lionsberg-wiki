@@ -1,6 +1,8 @@
 # Project Proposal Template
+When you write a proposal for your project, the approach most likely to achieve acceptance will include these four sections.
+
 ## Need
-Issue that needs to be resolved or problem solved.
+Issue that needs to be resolved or problem that needs a solution.
 ## Context
 Current socio-economic context in which the need resides.
 ## Implications
