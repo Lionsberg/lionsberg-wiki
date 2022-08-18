@@ -1,12 +1,12 @@
 # Project Proposal Template
 ## Need
-Issue or problem that needs to be solved
+Issue or problem that needs to be solved.
 ## Context
-Current socio-economic context for this proposed effort and the principles that apply
-## Logic
-the rules useful in the case. reasoning on the facts based on the rules to come to a conclusion
+Current socio-economic context for this proposed effort and the principles that apply.
+## Implications
+Implication of the status quo.
 ## Solution
-The proposed solution will resolve the socio-economic issue.
+Describe the proposed solution and how it will improve on the status quo.
 
 IRAC method (**i**ssue, **r**ules, **a**pplication, **c**onclusion) 
 SPIN selling (**s**ituation, **p**roblem, **i***mplications*, **n**eeds fulfillment)
