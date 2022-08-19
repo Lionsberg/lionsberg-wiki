@@ -1,5 +1,20 @@
 # Game Proposal from Bill and Jonathan
-Game questions. Grand Vision of something. Participate. Cos-play, DnD, MineCraft.
+## Need
+As our problems grow in number or difficulty, we need lots of thinkers, of widely varying backgrounds, with lots of energy eager to solve wicked problems.
+
+## Context
+The meta project administers problems and funds. Lots of thinking and decisions are made by lots of people. Profit pays for all of this.
+
+## Implications
+Whenever demands on administration go up beyond existing ability to deal, new people are found and vetted and paid for.
+
+## Solution
+We attract and pay for wildly diverse people to think about and solve problems, within a fun game, at very low extra cost. 
+
+The game promises its players fun quests, cash prizes, skill training in a friendly, helpful setting, with a beautiful grand vision of all of us building a better world for all of us.
+
+---
+## Details
 
 New players need to start out easy. This needs to be explained better. Relationships and problem solving. Competing teams.
 

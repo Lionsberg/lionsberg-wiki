@@ -13,6 +13,7 @@ This page can become an invitation to all people who want to build something and
 As a guide to our design, I propose that the following be built-in at the core of our game, and apparent at every level. Challenges, additions, likes, welcome. 
 
 - Fun
+- Trust
 - Meaningful
 - Useful Skills
 - Relationships
@@ -21,6 +22,9 @@ As a guide to our design, I propose that the following be built-in at the core o
 
 ### Fun
 Scientific experiments have concluded that people of all ages are more productive when what they are doing is fun.
+
+### Trust
+Everyone must be able to trust everyone else to some clearly defined and measurable degree. The mearsuring tools must be deeply built in, their values visible everywhere. We will optimise it to remove fear and paranoia overall. We will measure that, too. 
 
 ### Meaningful
 Most games are merely entertaining or occasionally educational. What can set our game apart is that it means something to the player to play it. Meeting and collaborating with other players, solving real-world problems, learning skills rarely taught in our education system.
