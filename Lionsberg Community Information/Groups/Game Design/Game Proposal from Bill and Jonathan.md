@@ -1,7 +1,7 @@
 # Game Proposal from Bill and Jonathan
 
 ## Need
-As our problems grow in number or difficulty, we need lots of thinkers, of widely varying backgrounds, with lots of energy eager to solve wicked problems.
+As our problems grow in number or difficulty, we need lots of thinkers, of widely varying backgrounds, with lots of energy eager to solve wicked problems. To perform well at this, these people need to master thinking and collaboration skills.
 
 ## Context
 The meta project administers problems and funds. Lots of thinking and decisions are made by lots of people. Profit pays for all of this.
@@ -10,7 +10,7 @@ The meta project administers problems and funds. Lots of thinking and decisions 
 Whenever demands on administration go up beyond existing ability to deal, new people are found and vetted and paid for.
 
 ## Solution
-We attract huge numbers of wildly diverse people to think about and solve our problems, at reasonable low cost. Competing crowd-sourced think tanks.
+Let's attract huge numbers of wildly diverse people to play a game in which they think about and solve our problems, at reasonable low cost. A game composed of competing crowd-sourced think tanks and classrooms for skills needed.
 
 ## Cost
 
@@ -42,6 +42,6 @@ Some players will be good at assigning or assisting with quests. We ought to det
 
 Teams will take on quests to solve problems and resolve issues. If a team succeeds in presenting a winning solution, they win a prize. Sometimes a donated cash prize.
 
-Each presented solution is reviewed by the problem submitter. They determine which team has offered the best solution. Some particular portion of the donation is then given to the winning team.
+Each presented solution is reviewed by the problem submitter. They determine which team has offered the best solution. A specified portion of the donation is then given to the winning team.
 
-Some winning teams can be invited to join the Meta Project directly, outside the context of the game.
+Some winning teams can be invited to join the Meta Project directly, transferred out from within the context of the game.
