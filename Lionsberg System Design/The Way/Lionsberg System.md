@@ -5,6 +5,8 @@ Producing the [[Best Possible Future]] requires a [[System]] that empowers us to
 
 The [[Lionsberg System]] is a comprehensive and integrated [[System]] designed to produce [[Throughput]] of our One overarching and uniting [[Meta Goal]]. 
 
+It is designed to connect, empower, and accelerate All other things moving in service of [[The Goal]]. 
+
 The [[Lionsberg System]] is emerging to address all elements required for this Higher Order Functional Unity to emerge: 
 
 1. History and Trust - See [[Provisional Trust Manifesto]]

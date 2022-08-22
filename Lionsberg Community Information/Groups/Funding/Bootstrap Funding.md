@@ -10,4 +10,4 @@ Furthermore, as we talk with people about bringing their technology into our inf
 
 Probably we wish early stage funds to be donated free of pay back, so as to make them as effective as possible.
 
-All funds eventually are owned by Lionsberg, which has built-in legal bindings to protect it from greed. All funds put in stay in, and with everyone's efforts they grow. Everyone is guaranteed a minimum sustainment stipend as long as they find something to do.
+All funds eventually are owned by Lionsberg, which has built-in legal bindings to protect it from greed. All funds put in stay in, and with everyone's efforts they grow. Everyone is guaranteed a minimum sustainment stipend as long as they find something to do that adds value to lionsberg or to all.

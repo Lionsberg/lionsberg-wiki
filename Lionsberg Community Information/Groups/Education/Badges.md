@@ -6,5 +6,7 @@ On the down side, this can pigeonhole people, ignoring or dismissing valuable po
 - [[Collective Intelligence]]  
 - [[Conflict Resolution]]  
 - [[Conversational Literacy]]  
+- [[Enablers, Advocates and Facilitators]]  
 - [[Passions Identification]]  
+- [[Project Proposal Template]]  
 - [[Skills Evaluation]]  
