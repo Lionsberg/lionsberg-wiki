@@ -16,12 +16,15 @@ Let's attract huge numbers of widely diverse people to play a game in which they
 Development expenses include engineering and infrastructure, covering a period of time that depends on agreed-upon design details. Ongoing operational expenses are intended to be completely covered by voluntary donations from sources who like the idea.
 
 ## Design
-Everything is a guild. The first guilds are: Needs and Game Builders.
+Everything is a guild. The first guilds are: Needs, Game Builders and Guilds. Other guilds will be created by game players once a minimum game platform is built.
 
 I've written extensive, carefully organized details about this at [Civilization 2.0 the Game](http://www.game.civilization2.org). Some of it is out of date or could use editing. I tried my best to be practical and logical.
 
-## Needs Guild
+### Needs Guild
 The first need is to write this proposal. Next, write a business plan. Acquire donors or investers. Hire an engineering team. Build a minimum viable proof of concept. Invite players.
 
-## Game Builders Guild
+### Game Builders Guild
 Members of this guild will build game components that are easy to use by the game builders and by sophisticated game players. Enough components to give the game adequate emmersive experience and means of expanding it.
+
+### Guilds Guild
+Members of this guild will guide players in creating new guilds.
