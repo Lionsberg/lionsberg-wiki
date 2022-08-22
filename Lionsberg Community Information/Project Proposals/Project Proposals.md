@@ -9,7 +9,7 @@ A great deal of the activity of the [[Meta Project]] will be done within project
 5. act out the plan
 6. continuously improve the quality of vision / analysis / engagement / planning / action as you iterate towards the goal
 
-In a conversation separate conversation, Bill Larson helped me write a [[Project Proposal Template]]. Using that as a guide, here are several project proposals.
+In a separate conversation, Bill Larson helped me write a [[Project Proposal Template]]. Using that as a guide, here are several project proposals.
 
 [[Civilization 2.0]]  
 [[Education Stipend]]  
