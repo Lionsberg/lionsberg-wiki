@@ -20,7 +20,7 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 [[Stories]]  
 [[Wiki Gardening]]  
 
-List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Overview) to get current list):
+List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group/lionsberg-meta-project?tab=Overview) to get current list):
 
 Branding and Messaging  
 Call Artifacts Publishing  
