@@ -1,17 +1,23 @@
 # Lionsberg System
-Lionsberg is a mission and values driven community working together to co-create the [[Best Possible Future]] for [[All]]. 
+Lionsberg is a mission and values driven community and system working together to co-create the [[Best Possible Future]] for [[All]]. 
 
-Producing the [[Best Possible Future]] requires a [[System]] that empowers us to [[Co-Operate]] in [[Higher Order Functional Unity]]. 
+Its [[Aim]] is the [[Highest Intention and Greatest Good]] for [[All]]. 
+
+Its Spirit is [[Love]]. 
+
+Producing the [[Best Possible Future]] for [[All]] requires a [[System]] that empowers us to [[Co-Operate]] in [[Higher Order Functional Unity]]. 
 
 The [[Lionsberg System]] is a comprehensive and integrated [[System]] designed to produce [[Throughput]] of our One overarching and uniting [[Meta Goal]]. 
 
-It is designed to connect, empower, and accelerate All other things moving in service of [[The Goal]]. 
+It is designed to connect, empower, and accelerate All other things moving in service of [[The Goal]] and the [[One Thing]] that unites us All. 
 
-It is not a finished answer, blueprint or silver bullet. It is not the one right answer. It is a hypothesis, a Prototype. The only Way we will be able to test how well it conforms to Ultimate Reality will be to experiment, learn, experience, embody and transform it. 
+It is not a finished answer, blueprint or silver bullet. It will eternally remain a [[Work In Progress]]. It is not the one right answer. It is a working Hypothesis and Prototype. 
 
-Therefore at the Core of the System is an identification not with the present embodiment, articulations, or hypotheses,  but with the Spirit and processes guiding our learning, growth, and transformation across Time. 
+The only Way we will be able to test how well it conforms to Ultimate Reality will be to experiment, learn, experience, embody and transform it. 
 
-The [[Lionsberg System]] is emerging to address all elements required for this Higher Order Functional Unity to emerge: 
+Therefore at the Core of the System is an identification not with the present embodiment, articulations, or hypotheses herein,  but with the living Spirit and processes guiding our learning, growth, and transformation across Time. 
+
+The [[Lionsberg System]] is emerging to address all the elements required for this Higher Order Functional Unity to emerge. If you see one missing, let's add it. 
 
 1. History and Trust - See [[Provisional Trust Manifesto]]
 2. Vision & Intention - See [[Provisional Declaration]]  
