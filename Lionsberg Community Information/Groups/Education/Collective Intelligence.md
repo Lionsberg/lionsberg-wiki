@@ -4,4 +4,4 @@ A group of people think together for any of several goals: identify a problem, s
 
 Expertise in these skills takes time to acquire. Can we provide gentle training for them? What does that training look like? How will we measure it? How is it different from [[Conversational Literacy]]?
 
-Perhaps we need a few people who are already expert at inspiring collective intelligence to be present often enough to model how its done?
+Perhaps we need a few people who are already expert at inspiring collective intelligence to be present often enough to model how it is done?
