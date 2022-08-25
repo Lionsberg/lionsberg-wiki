@@ -1,4 +1,5 @@
 # Education Stipend
+What other information would help you consider this proposal? This is a work in progress and will be revised unexpectedly and often.
 
 ## Need 
 Our lives are emmersed in all kinds of invisible hierarchies. New ones are constantly being added. 

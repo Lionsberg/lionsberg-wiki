@@ -16,4 +16,6 @@ On the downside, [[naming]] a topic is challenging, and so is knowing where to p
 
 ### Brevity
 
-On one hand, these synopses need to be brief. On the other, they work best if they are comprehensive enough to capture the intent of the topic. Would you like to become skilled at this and help make our material friendly and attractive?
+On one hand, these synopses need to be brief. On the other, they work best if they are comprehensive enough to capture the intent of the topic. This is a terrific friction.
+
+Would you like to become skilled at this and help make our material friendly and attractive? How would you design the training that helps people prepare, write and speak with brevity?
