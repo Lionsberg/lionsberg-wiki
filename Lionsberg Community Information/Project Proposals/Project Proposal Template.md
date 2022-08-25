@@ -1,11 +1,12 @@
 # Project Proposal Template
+
 When you write a proposal for your project, you can use each of these six sections will help clarify, standardize and simplify the submission process. 
 
 ## Need
 Describe the issue that needs to be resolved or problem that needs a solution. Is it a thing to be added or to be removed? 
 
 ## Context (social and economic)
-Describe the current community (or group) in which the need arises? 
+In what current community (or group) does this issue arise?
 
 ## Implications
 What happens if we don't put effort into addressing this need? What or who is in pain? Describe the pain. 
@@ -45,9 +46,11 @@ SPIN selling (**s**ituation, **p**roblem, **i***mplications*, **n**eeds fulfillm
 
 ***Implications*** are the most important, nearly always neglected component of the sales process. Ask profound questions. What is the impact of the problem? How is this need felt, detected? What is the cost associated with not resolving it? How does that compare with the cost of resolving it?
 
-### Contributors
+---
+## Contributors
+
 - Jonathan Sand
 - Bill Larson
 - Judith Benham
 
-We welcome additions and contributions from the [[Meta Project]] members in our [[Lionsberg Town Square]]. 
+We welcome additions and contributions from every [[Meta Project]] member, posted in our [[Lionsberg Town Square]]. 
