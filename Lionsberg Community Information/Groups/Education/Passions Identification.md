@@ -1,9 +1,11 @@
 # Passions Identification
 
-Our industry standards have identified skills and provide training and creditation for them. This hugely misses passions, in the sense that some people pursue skills that satisfy their passions, but most people don't and lots of people do not even know what their passions are. 
+In modern life, we identify industry standard skills and provide training and creditation for them followed by jobs that require them. This is a top down approach that serves the needs of employers more than those of the rest of us.
 
-To give a sense of how passions differ from skills, being a doctor is a skill, enjoying restoring health and delighting at seeing someone recover is a passion.
+Passions are largely ignored. A passion drives us from the inside to do outstanding work that is satisfying. To give a sense of how passions differ from skills, being a doctor is a skill, enjoying restoring health and delighting at seeing someone recover is a passion. How much would global productivity increase if all our passions were engaged?
 
-Most people have passions for which they either have not developed a skill or for which no specific skill exists. They can still contribute a lot, but most others would not understand that such an "unskilled" person would reliably do so.
+Do you feel that your passions are engaged? Do you know in detail what your passions are?
 
-We could train people to work with others to help them discover and understand their passions. What would this training include and how will we measure it?
+A person whose passions have no industry standard skill can still contribute a lot. How do we help such an "unskilled" person establish their reliability and contributions?
+
+We could train people to work with others to help them discover, understand and articulate their passions. What would this training include and how will we measure it?
