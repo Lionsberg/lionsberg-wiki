@@ -50,4 +50,4 @@ SPIN selling (**s**ituation, **p**roblem, **i***mplications*, **n**eeds fulfillm
 - Bill Larson
 - Judith Benham
 
-We welcome additions and contributions from the [[Meta Project]] members in our [[town square]]. 
+We welcome additions and contributions from the [[Meta Project]] members in our [[Lionsberg Town Square]]. 
