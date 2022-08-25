@@ -1,9 +1,9 @@
 # Education and Training
-Students who work hard at learning will probably absorb most of the material made freely available (or reasonably priced) through high-quality training. This can be made more personal and effective with the following.
+Students who work hard at learning will probably absorb most of whatever high-quality training material is freely available (or reasonably priced). Expanding on this, mentors or classrooms can offer something more personal and effective, such as the following.
 
-Within each sovereign, **specialized skills** are worth a lot. Who better than a member of the sovereign can provide the insight and experience to describe the skill, explain how to measure it, prepare teaching materials and train the teachers? 
+Within each sovereign, **specialized skills** are worth a lot. Who better than a member of the sovereign can provide the insight and experience to describe these skills, explain how they are measured, prepare teaching materials and train the teachers? 
 
-Occasionally a sovereign may ask for general guidance. For this, the **education and training group** may choose to assemble guidelines and train **facilitators** ... meta-level trainers.
+As a common resource, an **education and training group** could assemble guidelines and train **facilitators** ... meta-level trainers.
 
 Some skills have universal value. **Empathy**, the ability to accurately guess another's feelings or needs, is one of them. **Tolerance** of difference, dissent, disagreement is another. The rewards that accrue from learning these skills are easily discerned and felt. The training programs offered by the center for non-violent communication are excellent resources.
 
