@@ -1,6 +1,7 @@
 # Education, Training, Onboarding
- [!Info] - Questionnaire
- This is a mixture of explanation and questionnaire.
+Note: This is a mixture of explanation and questionnaire. It is also a mixture of design and of possible final content.
+
+People newly arriving into the [[Meta Project]] will be curious about it and about where and how they can contribute. Once they feel oriented enough, they may wish to maximize their ability to contribute by learning relevant new skills.
 
 Students who work hard at learning will probably absorb most of whatever high-quality training material is freely available (or reasonably priced). Expanding on this, mentors or classrooms can offer something more personal and effective, such as the following.
 
