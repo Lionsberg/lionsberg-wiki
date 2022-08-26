@@ -13,3 +13,5 @@ Would you be more inclined to pursue training if upon completion you received a 
 - [[Passions Identification]]  
 - [[Writing Project Proposals]]  
 - [[Skills Evaluation]]  
+
+Furthermore, these badges have two levels. One held by facilitators essentially states that the holder can train other or help instill a group. The other form is held by anyone and states that the holder can be relied upon to uphold as best they can that particular skill.

@@ -1,7 +1,7 @@
 # Conversational Literacy
 As I understand it, please correct my errors, conversational literacy in a group allows it to accomplish more with more delight and less effort.
 
-Along side [[Collective Intelligence]], it's really two facets of the same thing.
+Along side [[Collective Intelligence]], we have two facets of the same thing.
 
 In simplest terms, it's just an **etiquette**. Still, it's a big ask. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant.
 
