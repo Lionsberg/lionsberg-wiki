@@ -1,4 +1,4 @@
-# Education and Training
+# Education, Training, Onboarding
 Students who work hard at learning will probably absorb most of whatever high-quality training material is freely available (or reasonably priced). Expanding on this, mentors or classrooms can offer something more personal and effective, such as the following.
 
 Within each sovereign, **specialized skills** are worth a lot. Who better than a member of the sovereign can provide the insight and experience to describe these skills, explain how they are measured, prepare teaching materials and train the teachers? 
