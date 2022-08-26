@@ -9,6 +9,11 @@ Through many discussions and much offline effort, the following six components o
 6. [[Invite or Train Facilitators for Key Roles]]  
 
 ---
+### Notes
+
+[[Social Architecture 2022-08-16]]  
+
+---
 ### Contributors
 - Wendy McLean
 - Jonathan Sand
