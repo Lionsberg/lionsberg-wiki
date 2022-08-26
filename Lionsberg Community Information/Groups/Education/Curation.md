@@ -10,12 +10,14 @@ Skil at [[Curating]] has at least two components: organization and brevity. We n
 
 Would you like this wiki to have a [[Landing Page Group|landing page]] containing a brief synopsis of the [[meta project]] and a short table of top-level topic [[linking|links]]? Each link pointing to a similar page regarding its topic, and so on?
 
-Of course, some topics need to appear in multiple such tables, this is natural and unliktly to be a problem.
+Of course, some topics need to appear in multiple such tables, this is natural. Do you think it is unlikely to be a problem?
 
-On the downside, [[naming]] a topic is challenging, and so is knowing where to put it.
+Do you like the challenge of [[naming]] a topic? of sorting out where to put it? Is this too easy to be worth training?
 
 ### Brevity
 
 On one hand, these synopses need to be brief. On the other, they work best if they are comprehensive enough to capture the intent of the topic. This is a terrific friction.
 
 Would you like to become skilled at this and help make our material friendly and attractive? How would you design the training that helps people prepare, write and speak with brevity?
+
+Plenty of courses in writing exist. Do they teach how to shrink material down to its essense?
