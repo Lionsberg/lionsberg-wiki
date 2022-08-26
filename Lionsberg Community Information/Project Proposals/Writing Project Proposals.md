@@ -1,6 +1,6 @@
-# Project Proposal Template
+# Writing Project Proposals
 
-When you write a proposal for your project, you can use each of these six sections will help clarify, standardize and simplify the submission process. 
+When you write a proposal for your project, you can use each of these six sections will help clarify, standardize and simplify the submission process. Would you like to learn how to best help people write and submit such?
 
 ## Need
 Describe the issue that needs to be resolved or problem that needs a solution. Is it a thing to be added or to be removed? 

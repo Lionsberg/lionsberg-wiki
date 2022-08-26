@@ -11,5 +11,5 @@ Would you be more inclined to pursue training if upon completion you received a 
 - [[Curation]]  
 - [[Enablers, Advocates and Facilitators]]  
 - [[Passions Identification]]  
-- [[Project Proposal Template]]  
+- [[Writing Project Proposals]]  
 - [[Skills Evaluation]]  
