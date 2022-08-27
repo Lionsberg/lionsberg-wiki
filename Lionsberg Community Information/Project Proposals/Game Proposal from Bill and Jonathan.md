@@ -1,4 +1,5 @@
 # Game Proposal from Bill and Jonathan
+What other information would help you consider this proposal? This is a work in progress and will be revised unexpectedly and often.
 
 ## Need
 As our problems grow in number or difficulty, we need lots of thinkers, of widely varying backgrounds, with lots of energy eager to solve wicked problems. To perform well at this, these people need to master thinking and collaboration skills.
@@ -10,7 +11,7 @@ The meta project administers problems and funds. Lots of thinking and decisions 
 Whenever demands on administration go up beyond existing ability to deal, new people are found and vetted and paid for.
 
 ## Solution
-Let's attract huge numbers of widely diverse people to play a game in which they think about and solve our problems, at reasonable low cost. A game composed of competing crowd-sourced think tanks and classrooms for skills needed. It gives us onboarding, experimentation with processes, data about healthy human activity, learning best practices without erecting all the attendant real world infrastructure and acceptance. 
+Let's attract huge numbers of widely diverse people to play a game in which they think about and solve our problems, at reasonable low cost. A game composed of competing crowd-sourced think tanks and classrooms for skills needed. It gives us onboarding, observing and experimentation with processes, data about healthy human activity, learning best practices without erecting all the attendant real world infrastructure and acceptance. We will welcome input from players on improving the game.
 
 ## Cost
 Development expenses include engineering and infrastructure, covering a period of time that depends on agreements about design details. Ongoing operational expenses are partly covered by voluntary donations from sources who like the idea.

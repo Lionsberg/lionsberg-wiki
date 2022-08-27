@@ -9,7 +9,7 @@ This site is a [[Work In Progress]]
 [[Bottom Up Jump Page]]    
 [[Top Down Jump Page]]  
 [[Groups]]  
-[[Project Proposals]]  (new)
+[[Project Proposals]]  (new)  
 [[Frequently Asked Questions]]  
 [[Admin and Help]] 
 

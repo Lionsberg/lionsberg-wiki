@@ -24,11 +24,11 @@ This world is not set up for most of us to thrive. This strikes me as dumb. We c
 
 So here I am. The Meta Project feels like it could be home. Hesitantly, I am adding some of my ideas to this wiki. I'd love feedback and collaboration.
 
-[[Education and Training]]  
+[[Invite or Train Facilitators for Key Roles]]  
 [[Guilds]]  
 [[Meta Goal]]  
 [[Needs Tracker]]  
-[[Onboarding Process]]  
+[[Provide Orientation]]  
 
 I'm also working with Bill Larson on an idea:
 

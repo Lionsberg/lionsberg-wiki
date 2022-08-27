@@ -1,22 +1,34 @@
 # Conversational Literacy
-When all people in a meeting have high conversational literacy, they tend to accomplish a lot together. In contrast, when all people have low conversation literacy, squabbles erupt and ideas are barely heard. So the question becomes how do we train for and measure conversational literacy? How do we train people to do the training and measuring? Do we need facilitators, and how do we train them?
+As I understand it, please correct my errors, conversational literacy in a group allows it to accomplish more with more delight and less effort.
 
-### Important and perhaps vital:
+Along side [[Collective Intelligence]], we have two facets of the same thing.
 
-[[Collective Intelligence]] is a big component. The Game B concept of Rule Omega is hugely valuable. Listen for "the signal in the noise" and contribute only what the group needs. Agree when you can and disagree only when you must. Debate is a lot less useful than people think.
+In simplest terms, it's just an **etiquette**. Still, it's a big ask. When to talk and when to go quiet. How to listen. Be respectful. Stay relevant.
 
-### The friction between we and me:
+It's a **philosophy** as well. An attitude that we are all creating the same single thing, knowing exactly what it is.
 
-Most of us want to contribute our creativity, insight and passion, assuming that it is either vital to the group or to ourself. Can we train ourselves to refine our discernment of the two and favor the group's needs? It helps to have a clear goal for the group.
+Do we want some **facilitators** to guide us and encourage us to mimic them?
 
-### Single topic:
+### Listening and talking
 
-Focusing on one topic at a time helps us feel complete about it. Any single topic can get bogged down in contention and unnecessary detail. A facilitator role may be needed to gently guide the conversation away from tangents and such, towards resolution. Brevity and pauses for reflection are good ways to avoid over-stimulation.
+The Game B concept of Rule Omega is hugely valuable. Do you find it easy to listen for "the signal in the noise" and contribute only what the group needs? Do you agree when you can and disagree only when you must? Do you like the idea of doing these things? Does it seem to you that debate is a lot less useful than people think? Would you like to cultivate a preference for curiosity over certainty?
 
-### Vulnerability and honesty:
+### We
 
-Occasionally, sensitive topics arise because some of the problems we wish to resolve have deep roots in our psyche. Refreshing insight can sometimes come from deep honesty and some of that is vulnerable to social judgement. We may find it important to know how to request safety and also know how to provide it.
+Of course you'd like to contribute your creativity, insight and passion, right? Do you know how your piece fits what is being created? Do you want it to fit? Is it clearly stated what is being created?
 
-### Recovering from a breakdown:
+### Topic
 
-The term "breakdown" refers to an observation by anyone that things have gone off track. All of the above are suggestive examples. Although egregious breakdowns are rare, would we be more resilient if we knew how to detect, report and resolve them?
+Focusing on one topic at a time helps us finish it. Any single topic can get bogged down in contention and unnecessary detail. A facilitator role may be needed to gently guide the conversation away from tangents and such, towards resolution. Are you keen to learn to spontaneously be brief and pause so others can reflect? Do you want to find out if these are good ways to avoid over-stimulating the group?
+
+### Vulnerability
+
+Occasionally, sensitive topics arise because some of the problems we wish to resolve have deep roots in our psyche. Refreshing insight can sometimes come from deep honesty and some of that is vulnerable to social judgement. Would you like to know how to request safety and also know how to provide it?
+
+### Breakdown
+
+The term "breakdown" refers to an observation by anyone that things have gone off track. All of the above are suggestive examples. Do you think we might be more resilient if we knew how to detect, report and resolve them?
+
+### Weaponizing
+
+Do you find it really easy to weaponize it? :) Ever felt disappointed when someone is breaking the rules? Does not calling them on it feel upsetting? As far as I know, all of this is natural and normal. Would you like to become vigilant about your feelings?

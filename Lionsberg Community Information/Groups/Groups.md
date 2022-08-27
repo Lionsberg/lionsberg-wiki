@@ -6,7 +6,7 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 [[Architect Working Group]]  
 [[Bootstrap Funding]]  
 [[Declaration and Constitution Group]]  
-[[Education and Training]]  
+[[Invite or Train Facilitators for Key Roles]]  
 [[Funding Group]]  
 [[Game Design]]  
 [[Guilds]]  
@@ -15,9 +15,10 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 [[Map Weavers Group]]  
 [[Metrics of Progress and Contribution]]  
 [[Needs Tracker]]  
-[[Onboarding Process]]  
+[[Provide Orientation]]  
 [[Ontology]]  
 [[Stories]]  
+[[Social Architecture]]  
 [[Wiki Gardening]]  
 
 List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group/lionsberg-meta-project?tab=Overview) to get current list):

@@ -1,4 +1,5 @@
 # Civilization 2.0
+What other information would help you consider this proposal? This is a work in progress and will be revised unexpectedly and often.
 
 ## Need
 Nearly everyone takes money for granted and few can imagine that any other form of currency will produce a thriving society. 

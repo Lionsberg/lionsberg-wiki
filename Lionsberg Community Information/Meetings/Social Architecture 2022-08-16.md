@@ -30,7 +30,7 @@
     - Inspired by the need to make tech usable, also UI, branding, comms, community, network - the core idea is "Usability", and specific _design_ to make it more usable 
     - the "user experience" for everyone involved
     - includes "Onboarding Architecture"
-        - see [[Onboarding Process]]
+        - see [[Provide Orientation]]
     - making sure that the whole system is well designed for people - for an entire society of individuals using it - productive and inspirational to one another, and not destructive... 
     - usability high
     - friction low
