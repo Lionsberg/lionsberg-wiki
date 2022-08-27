@@ -11,6 +11,7 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 
 ## August 2022
+- [[Above The Chaos, How To Design And Build A Better World, Part I]]
 - [[Above The Chaos, The Power of One]]  
 - [[Above The Chaos, Another Quick Orientation]]  
 
