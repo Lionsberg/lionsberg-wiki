@@ -3,7 +3,7 @@ We started small with a few dozen people from around the world coming together t
 
 - Bill Larson
 - Erik
-- Forrist Lytehause
+- Forrist Lytehausse
 - Hank Kune
 - [[Jerry Michalski]]  
 - [[Jonathan Sand]]  
@@ -19,3 +19,4 @@ We started small with a few dozen people from around the world coming together t
 - Vincent Arena
 - Wendy McLean
 - Wendy Elford
+- Plus a few dozen more 

@@ -1,9 +1,5 @@
 # Total Nested Hierarchy of Values
-Coming soon. 
-
 For a discussion on Values, see [[Values]]. 
-
-Briefly: 
 
 To harmonize ourselves with One Another, the Living System, and the One Thing that unites All things, we pledge to do our best to uphold our shared universal values. 
 
