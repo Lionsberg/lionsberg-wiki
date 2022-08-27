@@ -1,17 +1,20 @@
-# Social Architecture
-Through many discussions and much offline effort, the following six components of our social architecture will hopefully fulfill all our needs.
+# Social Architecture7
+Everyone who is involved in the [[Meta Project]] can expect an extraordinary social experience. We want to be happy, productive, fast, easy, flourishing, friendly; everyone. 
 
-1. [[Identify New Connections]]  
-2. [[Recognize Potential Value]]  
-3. [[Listen]]  
-4. [[Offer Support and Guidance]]  
-5. [[Provide Orientation]]  
-6. [[Invite or Train Facilitators for Key Roles]]  
+Why? Well, why not? It's not that hard to pull off. Social architecture is about designing our social experience. How we will go about being human together.
+
+- [[Identify New Connections]]  
+- [[Recognize Potential Value]]  
+- [[Listen]]  
+- [[Offer Support and Guidance]]  
+- [[Provide Orientation]]  
+- [[Invite or Train Facilitators for Key Roles]]  
 
 ---
 ### Notes
 
-[[Social Architecture 2022-08-16]]  
+- [[Social Architecture 2022-08-16]]  
+- [Miro map of processes, stages and designs](https://miro.com/app/board/uXjVOq3BPYQ=/?share_link_id=723517619133)  
 
 ---
 ### Contributors
