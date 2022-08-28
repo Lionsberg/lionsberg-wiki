@@ -7,9 +7,9 @@ Training for this top-most role will ideally give people and councils the skills
 
 Can we assemble here some good training content? At minimum, some guidelines for such content?
 
-### Facilitators:
+### Facilitators
 
-During meetings, do we want to keep the topic focused and ensure its efficient closure? Do we want the goal (agenda, framing, purpose) to be scintilating and clearly stated, at the start or any time it fails to give us focus? Would we be well served with a concise purpose statement for all of the following?
+During meetings, they can help keep the topic focused and ensure its efficient closure. Assure that the goal (agenda, framing, purpose) to be scintilating and clearly stated, at the start or any time it fails to give us focus. Will we want a concise purpose statement for each of the following?
 
 1. the overall [[meta project]]
 2. each individual project
@@ -17,15 +17,15 @@ During meetings, do we want to keep the topic focused and ensure its efficient c
 4. each asynchronous message channel
 5. each wiki page
 
-### Advocates:
+### Advocates
 
 As each of pursue whatever we are called to, would we appreciate the assistance of someone who could aid us, help us connect to or acquire resources?
 
-### Enablers:
+### Enablers
 
 Do you know how to assemble a pragmatic plan to carry out your intentions? Do you know what resources will be needed? Do you have anyone who can advise you to improve your plan, vision, activity? Do you know how to measure your progress?
 
-### These six steps are from Jordan about leadership:
+### These six steps are from Jordan about leadership
 
 1. Articulate the Vision / Intention
 2. Analyze existing reality / forces / conditions

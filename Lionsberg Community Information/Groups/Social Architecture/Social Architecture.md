@@ -1,13 +1,13 @@
 # Social Architecture
 Everyone who is involved in the [[Meta Project]] can expect an extraordinary social experience. We want to be happy, productive, fast, easy, flourishing, friendly; everyone. 
 
-Why? Well, why not? It's not that hard to pull off. Social architecture is about designing our social experience. How we will go about being human together.
+Why? Well, why not? It's not that hard to pull off. Social architecture is about designing our social experience, processes, guidance. How will we design things so we can best go about being human together?
 
 - [[Identify New Connections]]  
 - [[Recognize Potential Value]]  
 - [[Listen]]  
 - [[Offer Support and Guidance]]  
-- [[Provide Orientation]]  
+- [[Onboarding|Provide Orientation]]  
 - [[Enablers, Advocates and Facilitators|Invite or Train Facilitators for Key Roles]]  
 
 ---

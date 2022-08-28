@@ -6,7 +6,7 @@ On the down side, this can pigeonhole people, ignoring or dismissing valuable po
 ### Badges
 We can offer people a quest to acquire a badge in a specific skill.
 
-Badges have two levels. A mentor or facilitator badge essentially states that the holder can be relied upon to model or to help someone develop the skill. A regular badge states that the holder can be relied upon to uphold the skill as best they can.
+Badges have two levels. A mentor or facilitator badge essentially states that the holder can be relied upon to model the skill or to help someone develop it. A regular badge states that the holder can be relied upon to perform the skill as best they can.
 
 Does this list of possible badges and their detailed description and training look reasonable? What's missing?
 
@@ -15,6 +15,8 @@ Does this list of possible badges and their detailed description and training lo
 - [[Conversational Literacy]]  
 - [[Curation]]  
 - [[Enablers, Advocates and Facilitators]]  
+- [[Greeter]]  
+- [[Mentor]]  
 - [[Passions Identification]]  
 - [[Writing Project Proposals]]  
 - [[Skills Evaluation]]  

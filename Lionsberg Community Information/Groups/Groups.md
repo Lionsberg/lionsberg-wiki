@@ -15,7 +15,7 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 [[Map Weavers Group]]  
 [[Metrics of Progress and Contribution]]  
 [[Needs Tracker]]  
-[[Provide Orientation]]  
+[[Onboarding]]  
 [[Ontology]]  
 [[Stories]]  
 [[Social Architecture]]  
