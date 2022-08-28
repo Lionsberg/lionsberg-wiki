@@ -8,7 +8,7 @@ Why? Well, why not? It's not that hard to pull off. Social architecture is about
 - [[Listen]]  
 - [[Offer Support and Guidance]]  
 - [[Onboarding|Provide Orientation]]  
-- [[Enablers, Advocates and Facilitators|Invite or Train Facilitators for Key Roles]]  
+- [[Facilitator|Invite or Train Facilitators for Key Roles]]  
 
 ---
 ### Notes

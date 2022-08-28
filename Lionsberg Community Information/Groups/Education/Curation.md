@@ -4,7 +4,7 @@ A great number of words have been uttered by a lot of smart people. They are hea
 
 The drawback is its enormity. Nobody yet has claimed to read, much less digest, all of it. Most of our potential readers and contributors have plates too full to spare time for more than a synopsis. Another drawback is repetition. We easily lose interest when we encounter the same idea many times. A third drawback is disorganization. This makes understanding a challenge in that a lot must be read without a basis of understanding. It makes finding specific material a chore that all of us must do every time we desire it.
 
-Skil at [[Curating]] has at least two components: organization and brevity. We need to define them, and search for a way to train people to do it. Both require unusual skill.
+Skill at [[Curating]] has at least two components: organization and brevity. We need to define them, and search for a way to train people to do it. Both require unusual skill.
 
 ### Organization
 

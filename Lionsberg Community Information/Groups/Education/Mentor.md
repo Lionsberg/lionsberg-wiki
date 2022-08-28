@@ -7,3 +7,14 @@ Along the way, a **mentor** may notice that their **apprentice** is showing inte
 
 Above all else, the **mentor** will likely be most effective and well received when they focus on the relationship with their **apprentice** and the latter’s life goals.
 
+### Variations on mentoring
+
+A mentor can **advocate** on your behalf to help you connect to or acquire resources.
+
+An **enabler** can help you to
+
+- assemble a pragmatic plan to carry out your intentions
+- identify the resources needed
+- advise improvements to your plan, vision, activity
+- measure your progress
+- learn a new skill
