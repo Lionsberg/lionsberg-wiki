@@ -1,7 +1,7 @@
 # Helping Our Youth Learn
 By [[Jordan Nicholas Sukut]], 2022.06.30 _(updated 2022.06.30)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 We have been working with a few organizations who are passionate about how we raise up the rising generations. 
 

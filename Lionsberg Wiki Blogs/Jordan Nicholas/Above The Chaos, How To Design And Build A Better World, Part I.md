@@ -2,7 +2,7 @@
 
 by [[Jordan Nicholas Sukut]], 2022.08.27 _(updated 2022.08.27)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 ___
 

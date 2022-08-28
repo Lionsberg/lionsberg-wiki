@@ -1,7 +1,7 @@
 # Above The Chaos, Introducing The Meta Game 
 By [[Jordan Nicholas Sukut]], 2022.07.26 _(updated 2022.07.26)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 Hello Friends and Allies, 
 

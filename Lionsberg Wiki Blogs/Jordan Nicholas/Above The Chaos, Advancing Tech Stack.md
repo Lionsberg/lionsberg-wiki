@@ -1,7 +1,7 @@
 # Above The Chaos,  Advancing Tech Stack
 By [[Jordan Nicholas Sukut]], 2022.08.15 _(updated 2022.08.15)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 Hello Friends and Allies, 
 

@@ -1,7 +1,7 @@
 # Above the Chaos, Hello Capital 
 By [[Jordan Nicholas Sukut]], 2022.07.30 _(updated 2022.07.30)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 This post is written to lay down some opening thoughts on [[Capital]], specifically as it relates to the [[Meta Crisis]] and the [[Meta Project]].  
 

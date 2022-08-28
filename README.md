@@ -40,7 +40,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 - [[Martial Arts Guide]]  
 
 ## Lionsberg  Wiki Blogs
-- [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
+- [[Above The Chaos]] - A creative stream from the co-creator of Lionsberg
 
 ## Maps of Content
 - [[Team Jump Page]]  

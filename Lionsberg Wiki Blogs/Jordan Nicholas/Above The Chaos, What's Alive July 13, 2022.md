@@ -1,7 +1,7 @@
 # Above The Chaos, What's Alive July 13, 2022
 By [[Jordan Nicholas Sukut]], 2022.07.13 _(updated 2022.07.13)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 Today we had our weekly navigation meeting. 
 

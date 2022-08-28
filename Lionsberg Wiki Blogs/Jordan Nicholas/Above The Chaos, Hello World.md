@@ -2,7 +2,7 @@
 
 By [[Jordan Nicholas Sukut]], 2022.06.25 _(updated 2022.06.25)_
 
-A post in [[Above The Chaos By Jordan Nicholas]].
+A post in [[Above The Chaos]].
 
 Hello World. 
 
