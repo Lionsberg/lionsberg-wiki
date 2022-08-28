@@ -1,5 +1,7 @@
 # Enablers, Advocates and Facilitators
-Hierarchal organizations with a commander or leader in the top-most position are standard for the old world way of organizing human activity. It has many drawbacks. Such a top-most person can be creul, unethical, myopic, unimaginative, impractical, selfish. As we build our social interactions and processes, we want to avoid such disasters. On the other hand, councils can be slow to make decisions and may not guarantee all relevant ideas will be given due consideration.
+Hierarchal organizations with a commander or leader in the top-most position are standard for the old world way of organizing human activity. It has many drawbacks. Such a top-most person can be creul, unethical, myopic, unimaginative, impractical, selfish. As we build our social architecture, we want to avoid such disasters.
+
+Are councils a good alternative? They can be slow to make decisions and may not guarantee all relevant ideas will be given due consideration.
 
 Training for this top-most role will ideally give people and councils the skills and insights to enable individuals, advocate for them (resources and connections), and facilitate group discussions and activities.
 

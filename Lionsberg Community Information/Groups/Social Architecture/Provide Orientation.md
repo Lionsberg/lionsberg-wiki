@@ -4,7 +4,7 @@ People working in a **sovereign** depend on relationships with others in that **
 1.  invitation or referral
 2.  watch a video of (or read about) the big picture
 3.  meet with a **greeter** who answers initial questions and helps select a long-term **mentor**
-4.  the **mentor** helps with coming up to speed and [[Invite or Train Facilitators for Key Roles|training for mastery]]  
+4.  the **mentor** helps with coming up to speed and [[Education|training for mastery]]  
 5.  eventually acquire the expertise to be a **mentor** or a **greeter**
 
 Perhaps the most important relationship that a person can have when newly joining a sovereign is with an **expert** who enjoys offering guidance and nurture. This as hugely missing in modern life, and those who are lucky enough to have such a relationship speak of it in glowing praise. Let's create a world in which all of us have at least one such **mentor** throughout most of our lives.

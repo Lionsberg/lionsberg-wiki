@@ -1,6 +1,6 @@
 # Writing Project Proposals
 
-When you write a proposal for your project, you can use each of these six sections will help clarify, standardize and simplify the submission process. Would you like to learn how to best help people write and submit such?
+When you write a proposal for your project, these six sections help us all clarify, standardize and simplify the submission process. Would you like someone to guide you? Would you like to guide?
 
 ## Need
 Describe the issue that needs to be resolved or problem that needs a solution. Is it a thing to be added or to be removed? 
@@ -50,7 +50,7 @@ SPIN selling (**s**ituation, **p**roblem, **i***mplications*, **n**eeds fulfillm
 ## Contributors
 
 - Bill Larson
-- Jonathan Sand
 - Judith Benham
+- Jonathan Sand
 
 We welcome additions and contributions from every [[Meta Project]] member, posted in our [[Lionsberg Town Square]]. 

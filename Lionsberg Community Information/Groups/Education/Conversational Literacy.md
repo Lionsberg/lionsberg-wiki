@@ -13,9 +13,13 @@ Do we want some **facilitators** to guide us and encourage us to mimic them?
 
 The Game B concept of Rule Omega is hugely valuable. Do you find it easy to listen for "the signal in the noise" and contribute only what the group needs? Do you agree when you can and disagree only when you must? Do you like the idea of doing these things? Does it seem to you that debate is a lot less useful than people think? Would you like to cultivate a preference for curiosity over certainty?
 
-### We
+We all want to contribute your creativity, insight and passion. Do you know how your piece fits what is being created? Do you want it to fit? Is it clearly stated what is being created?
 
-Of course you'd like to contribute your creativity, insight and passion, right? Do you know how your piece fits what is being created? Do you want it to fit? Is it clearly stated what is being created?
+**Empathy**, the ability to accurately guess another's feelings or needs, is one of them. **Tolerance** of difference, dissent, disagreement is another. The rewards that accrue from learning these skills are easily discerned and felt. The following training programs are excellent:
+
+- [center for non-violent communication](http:www.cnvc.org) 
+
+Focus on **relationship** and **connection** is of similar high worth. We are much more than our passions and skills. We have unique experiences, childhood traumas, medical histories. Each time we meet, we learn more about these individual facets. The more we pay attention, the deeper our connections and the more valuable and mature our relationships.
 
 ### Topic
 
