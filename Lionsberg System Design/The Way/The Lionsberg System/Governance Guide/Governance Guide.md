@@ -11,7 +11,17 @@ This page is a [[Work In Progress]].
 [[3.6 Human Development]]  
 [[3.7 The Limitations of the Old Systems]]  
 [[3.8 How Now Shall We Govern Our Selves?]]  
-[[3.9 Timeless Wisdom, Principles, and Values]]  
+[[4.0 Sovereignty, Autonomy, and Authority]]  
+[[4.1 Problems and Needs]]  
+[[4.2 Goals and Aspirations]]  
+[[4.3 The Universal Meta Aspiration]]  
+[[4.4 Navigation FROM TO]]  
+
+Advancing on to... 
+
+Co-operation (can't do it alone)
+Rights and responsibilities in that context 
+Minimum viable standards of interoperability... 
 
 [[Work In Progress]] - [[Left Off Here]] 
 

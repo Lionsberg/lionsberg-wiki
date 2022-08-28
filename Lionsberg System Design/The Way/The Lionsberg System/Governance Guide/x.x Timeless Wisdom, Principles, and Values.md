@@ -25,11 +25,12 @@ Together they forge a very strong energetic field holding the space for what we 
 From these Values we can derive [[Principles]] that we believe will help bring into Reality [[That Which The Community Values]]. 
 
 ## Principles of Governance We Believe to be Approximately Wise
+
 ### 1. Our System of Governance should harmonize the Human System with the Living System 
 
 ### 2. The Logos of the System should progressively conform itself to the Logos of the Universe 
 
-### 3. Our System of Governance should organically complexify itself from the bottom up, according to the guiding Logos of the System. 
+### 3. Our System of Governance should organically complexify itself from the bottom up, according to the guiding Logos. 
 
 ### 4. Everything is a System 
 
@@ -57,10 +58,9 @@ By forming Sub-Circles, Super-Circles, and Collaboratory Circles
 ### 15. Immediately Related Circles Should Be Double Linked 
 Doubling linking creates connection, energy and information flow, and equilibrium / balance in the System. 
 
-### 16. The Total Nested Set of Circles Should be Unified by One Thing, at the Absolute / Highest Level of Abstraction 
+### 16. The Total Nested Set of Circles Should be Unified by One Thing at the Absolute / Highest Level of Abstraction 
 
 ### 17. The One Thing Should Not Be Concretized 
-
 
 ### 18. Decisions Should Be Make Through a Process of Discernment and Consent in Each Circle 
 

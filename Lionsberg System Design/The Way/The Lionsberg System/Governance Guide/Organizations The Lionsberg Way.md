@@ -1,5 +1,5 @@
 # Organizations The Lionsberg Way
-**Organizations The Lionsberg Way** describes pattens, processes, and tools that help independent and autonomous [[Indivual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
+**Organizations The Lionsberg Way** describes pattens, processes, and tools that help independent and autonomous [[Individual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
 We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
