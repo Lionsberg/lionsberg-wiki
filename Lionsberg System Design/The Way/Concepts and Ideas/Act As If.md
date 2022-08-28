@@ -1,4 +1,7 @@
 # Act As If
+Acting As If... is akin to running an experiment to test whether a hypothesis is True. 
+___
+
 In the [[Lionsberg System]], the fundamental condition that is assumed is that [[We Do Not Know]], and we are on an eternal Quest to search out Wisdom and Truth together. 
 
 This is akin to the [[Scientific Method]], in which our [[Current Best Understanding]] is presented in the form of a [[Hypothesis]] for testing, disproving, and improving over time. 

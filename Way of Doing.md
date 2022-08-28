@@ -1,2 +1,0 @@
-# Way of Doing
-

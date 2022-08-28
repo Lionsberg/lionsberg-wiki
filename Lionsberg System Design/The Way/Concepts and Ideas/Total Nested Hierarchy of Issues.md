@@ -16,15 +16,17 @@ This is not an Absolute list, but the general themes are obvious. If we loved so
 12. Sickness  
 13. Want  
 14. Ignorance  
-15. Disempowerment  
-16. Meaningless or Demeaning Work  
-17. Unsustainability  
-18. Irresponsible Production and Consumption  
-19. Addiction  
-20. Actions that Harm or Degenerate Life in the Water, on Land, or in the Air  
-21. Lack of accountability, transparency, and truth  
-22. Weak / corrupt institutions  
-23. Lack of coherence, cooperation, and continuity 
+15. Fear
+16. Disempowerment  
+17. Meaningless or Demeaning Work  
+18. Unsustainability  
+19. Irresponsible Production and Consumption  
+20. Addiction  
+21. Actions that Harm or Degenerate Life in the Water, on Land, or in the Air  
+22. Lack of accountability, transparency, and truth  
+23. Weak / corrupt institutions  
+24. Lack of coherence, cooperation, and continuity 
+25. Lack of Spiritual Realization 
 
 These issues, and their corresponding Goals, have been nearly universally validated by 193 nations and the vast majority of international organizations and institutions through frameworks such as the United Nations Sustainable Development Goals. 
 

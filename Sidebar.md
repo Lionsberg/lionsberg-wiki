@@ -14,7 +14,7 @@ This site is a [[Work In Progress]]
 [[Admin and Help]] 
 
 # Blogs
-[[Above The Chaos By Jordan Nicholas]]  
+[[Above The Chaos]]  
 [[Pete's Journal]]  
 [[Jonathan's Blog]]  
 

@@ -6,6 +6,8 @@ Therefore the **Meta Intention** is the highest universal overarching and unitin
 
 The idea of the **Meta Intention** is critical because it provides a framework in which to stack up and align our individual intentions, with the various intentions we participate in, with the **Meta Intention** that is big enough to unite [[All]].  
 
-The [[Lionsberg System]] considers the [[Meta Intention]] to be the Intention of the Spirit from which  boundless and unconditional [[Love]] flows. 
+The [[Lionsberg System]] considers the [[Meta Intention]] to be the Intention of the Spirit of boundless and unconditional [[Love]]. 
 
 Or simply, [[Love]]. 
+
+See also [[Highest Intention and Greatest Good]]. 
