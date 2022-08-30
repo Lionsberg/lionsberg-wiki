@@ -8,14 +8,3 @@ Training for this top-most role will ideally give people and councils the skills
 Can we assemble here some good training content? At minimum, some guidelines for such content?
 
 In brief, facilitators can foster [[Collective Intelligence]] and [[Conversational Literacy]]. During meetings, they can help keep the topic focused and ensure its efficient closure. Assure that the goal (agenda, framing, purpose) to be scintilating and clearly stated, at the start or any time it fails to give us focus. Any single topic can get bogged down in contention and unnecessary detail. A facilitator can gently guide the conversation away from tangents and such, towards resolution.
-
-### Leadership
-
-These six steps are from Jordan.
-
-1. Articulate the Vision / Intention
-2. Analyze existing reality / forces / conditions
-3. Identify and contact WHO you need to help cross the chasm between step 2 and the better and higher future state?
-4. Write a Plan of Action, vett this plan with wise advisors
-5. Act out the plan
-6. Continuously improve the Quality of Vision / Analysis / Engagement / Planning / Action as you iterate towards the Goal
