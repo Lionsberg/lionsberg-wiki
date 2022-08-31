@@ -2,6 +2,8 @@
 
 When you write a proposal for your project, these six sections help us all clarify, standardize and simplify the submission process. Would you like someone to guide you? Would you like to guide?
 
+We want a group into which to submit these proposals. This group may need to pass a submission onto a more specific group. For now we will hold onto these proposals.
+
 ## Need
 Describe the issue that needs to be resolved or problem that needs a solution. Is it a thing to be added or to be removed? 
 

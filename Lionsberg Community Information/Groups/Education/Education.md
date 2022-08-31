@@ -22,7 +22,7 @@ Does this list of possible badges look reasonable? What's missing?
 
 Badges for these roles convey ability and passion for assisting individuals and groups in their efforts and plans.
 
-- [[Enabler]]  
+- [[Advocate]]  
 - [[Facilitator]]  
-- [[Greeter]]  
+- [[Welcomer]]  
 - [[Mentor]]  
