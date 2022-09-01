@@ -1,5 +1,12 @@
 # Meta Project Navigation, 2022.08.31
 
+## Artifacts
+
+- video: [The Meta Project Navigation, 2022-08-31 (speaker) - YouTube](https://www.youtube.com/watch?v=-y5P0F84aGQ)
+- video: [The Meta Project Navigation, 2022-08-31 (gallery) - YouTube](https://www.youtube.com/watch?v=n21iMLuIUoo)
+- chat: [[Meta Project Navigation, 2022-08-31 zoom chat.txt]]
+- transcript: [[Meta Project Navigation, 2022-08-31 uncorrected machine transcription.cc.vtt.txt]]
+
 ## Topics
 
 - [x] General Updates
