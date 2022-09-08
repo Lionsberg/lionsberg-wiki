@@ -1,5 +1,12 @@
 # Meta Project Navigation, 2022-09-07
 
+## Artifacts
+
+- video: [The Meta Project Navigation, 2022-09-07 (speaker) - YouTube](https://www.youtube.com/watch?v=m1WeexMt0oA)
+- video: [The Meta Project Navigation, 2022-09-07 (gallery) - YouTube](https://www.youtube.com/watch?v=qFrXT32iaXs)
+- chat: [[Meta Project Navigation, 2022-09-07 zoom chat.txt]]
+- transcript: [[Meta Project Navigation, 2022-09-07 uncorrected machine transcription.cc.vtt.txt]]
+
 ## Topics
 
 - sort of a "mid-six week" retro
