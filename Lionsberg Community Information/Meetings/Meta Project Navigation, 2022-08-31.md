@@ -1,4 +1,4 @@
-# Meta Project Navigation, 2022.08.31
+# Meta Project Navigation, 2022-08-31
 
 ## Artifacts
 
