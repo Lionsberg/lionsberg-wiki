@@ -2,16 +2,22 @@ This site is a [[Work In Progress]]
 
 # Site Navigation
 [[Your Starting Point]]   
+  
 [[0.4 The Meta Story|The Meta Story]]  
 [[The Book of Lionsberg|The Book of Lionsberg]]  
 [[The Way]]  
+  
 [[Integrated Delivery Guide]]  
+  
+[[Groups]]  
+[[Meetings]]  
+[[Project Proposals]]  (new)  
+  
 [[Bottom Up Jump Page]]    
 [[Top Down Jump Page]]  
-[[Groups]]  
-[[Project Proposals]]  (new)  
+  
 [[Frequently Asked Questions]]  
-[[Admin and Help]] 
+[[Admin and Help]]
 
 # Blogs
 [[Above The Chaos]]  
