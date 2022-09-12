@@ -1,6 +1,6 @@
 # Meetings
 
-_This list is manually updated periodically. Check your file navigation or All Files link to see all the files in this folder._
+_This list of meeting pages is manually updated periodically, and may not include all meeting pages. Check your file navigation or the All Pages link to see all the pages in the Meetings folder._
 
 ## Navigation
 
