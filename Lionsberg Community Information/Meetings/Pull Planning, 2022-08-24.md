@@ -1,4 +1,14 @@
-# Pull Planning 2022.08.24
+# Pull Planning, 2022-08-24
+
+## Artifacts
+
+- miro: [Pull Planning Board](https://miro.com/app/board/uXjVPc2HLgQ=/?share_link_id=633454288237)
+- video: [Pull Planning, 2022-08-24 (speaker) - YouTube](https://www.youtube.com/watch?v=-7uhwFyKRv4)
+- video: [Pull Planning, 2022-08-24 (gallery) - YouTube](https://www.youtube.com/watch?v=CBNsW13uAGk)
+- chat: [[Pull Planning, 2022-08-24 zoom chat.txt]]
+- transcript: [[Pull Planning, 2022-08-24 uncorrected machine transcription.cc.vtt.txt]]
+
+## Lean Philosophy
 
 Lean philosophy identifies 60-70% waste across all industries. We want to be best, most efficient. Begins by aligning on the overall vision and goal, coarsely stated and then gradually filling in details.
 
