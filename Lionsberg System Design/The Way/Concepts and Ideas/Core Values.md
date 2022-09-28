@@ -31,12 +31,15 @@ ___
 ### Ten More Words 
 - Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, Humility, Self-Control, Non-Harm.  
 ___
+### Additional Universal Values
 - Agency, Autonomy, Competence, Conscientiousness, Respect for [[One]] and [[All]], Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Enjoyment, Freedom from Fear, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
 ___
 #### On Power and Resources
 Various lists of universal values also often contain references to leadership, power, and resources. 
 
-In the [[Lionsberg System]], these are not viewed as values or goals in and of themselves, but rather as neutral and subordinate tools / Potential that can be developed wisely and as necessary to produce [[Throughput]] of [[The Goal]].   
+In the [[Lionsberg System]], these are not viewed as values or goals in and of themselves, but rather as neutral and subordinate tools / Potential that can be developed wisely and as necessary to produce [[Throughput]] of [[The Goal]]. 
+
+Power must always be exercised in service of, and not over others. Power may never be used violate the free will of others in their domains of authority. 
 
 See [[Integration And Alignment Of Resources And Power]]. 
 ____

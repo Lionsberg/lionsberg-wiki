@@ -43,9 +43,15 @@ This page is a [[Work In Progress]].
 [[6.7 Circles]]  
 [[6.8 Organizations]]  
 [[6.9 Communities]]  
-[[6.10 Structure]]  
-[[6.11 Integrated Delivery]]  
-[[6.12 Functional Accountability]]  
+[[6.10 Roles]]  
+[[6.11 Meetings]]  
+[[6.12 Structure]]  
+[[6.13 Integrated Delivery]]  
+[[6.14 Functional Accountability]]  
+[[6.15 Levels of Abstraction]]  
+[[6.17 Executive Branch]]  
+[[6.18 Servant Leadership]]  
+
 
 ## 7. Minimum Standards of Interoperability
 
@@ -55,6 +61,7 @@ This page is a [[Work In Progress]].
 
 ## 9. The Starting Point 
 
+## 10. Common Governance Issues 
 
 
 
