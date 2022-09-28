@@ -191,9 +191,6 @@ For a discussion on this topic, see [[Value]].
 The [[Lionsberg System]] was established to realign and optimie these various resource flows in a multi-side economy and system _aimed at_ The Goal, and recognizing Value on that basis. 
 
 ## The Critical Path Fund
-Systems entrepreneurs
+ 
 
-take organizations through the full stack of infrastructure... 
-
-## What other Funds? 
-Relationship fund
+## Global Goals Funds 

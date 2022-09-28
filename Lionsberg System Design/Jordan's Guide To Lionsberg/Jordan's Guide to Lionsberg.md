@@ -9,7 +9,7 @@ In a time of deepening polarization and division, my [[Current Best Understandin
 
 To aid in that process, I am offering up my life and my story in service of [[One]] and [[All]]. 
 
-I was also led to begin co-creating a mythical [[New World]] called [[Lionsberg]], including its inherent [[Lionsberg System|Systems]]. 
+I was also led to begin co-creating a mythical [[New World]] called [[Lionsberg]], including its inherent [[Lionsberg System|Systems]], and attempting to progressively bring that New World into Reality. 
 
 ## A Personal Story As A Bridge
 If you'd like to know more about where the story originates from, my life is an open book, and I would be happy to share it with you. It may be that the more you get to know me, the more the mythical story I am living in and telling will make sense. 
