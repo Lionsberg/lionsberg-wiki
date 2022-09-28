@@ -49,9 +49,10 @@ This page is a [[Work In Progress]].
 [[6.13 Integrated Delivery]]  
 [[6.14 Functional Accountability]]  
 [[6.15 Levels of Abstraction]]  
+[[6.16 Federal Governance of the Whole]]  
 [[6.17 Executive Branch]]  
 [[6.18 Servant Leadership]]  
-
+[[6.19 Provisional Legal and Governance Structure]]  
 
 ## 7. Minimum Standards of Interoperability
 
@@ -62,12 +63,8 @@ This page is a [[Work In Progress]].
 ## 9. The Starting Point 
 
 ## 10. Common Governance Issues 
-
-
-
-
-
-Minimum viable standards of interoperability... 
+[[10.1 Campaigning and Making Promises]]  
+ 
 
 [[Work In Progress]] - [[Left Off Here]] 
 
