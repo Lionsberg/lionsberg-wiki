@@ -2,8 +2,8 @@
 
 ## Artifacts
 
-- video: [The Meta Project Navigation, 2022-09-28 (speaker) - YouTube]()
-- video: [The Meta Project Navigation, 2022-09-28 (gallery) - YouTube]()
+- video: [The Meta Project Navigation, 2022-09-28 (speaker) - YouTube](https://www.youtube.com/watch?v=O2IlPw_zANQ)
+- video: [The Meta Project Navigation, 2022-09-28 (gallery) - YouTube](https://www.youtube.com/watch?v=9CKgBw6i4mA)
 - chat: [[Meta Project Navigation, 2022-09-28 zoom chat.txt]]
 - transcript: [[Meta Project Navigation, 2022-09-28 uncorrected machine transcription.cc.vtt.txt]]
 
