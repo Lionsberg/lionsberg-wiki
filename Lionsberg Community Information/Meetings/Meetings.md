@@ -4,6 +4,7 @@ _This list of meeting pages is manually updated periodically, and may not includ
 
 ## Navigation
 
+- [[Meta Project Navigation, 2022-09-28]]
 - [[Meta Project Navigation, 2022-09-07]]
 - [[Meta Project Navigation, 2022-08-31]]
 - [[Pull Planning, 2022-08-24]]
