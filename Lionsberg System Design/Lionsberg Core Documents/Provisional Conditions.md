@@ -1,7 +1,19 @@
 # Provisional Conditions
 In order to understand whether it is true that there are near-infinite resources that could be matched to [[Wise Right]] plan of action capable of meeting the needs and solving the problems inherent in this moment in history... 
 
-We are striving to articulate and co-create the total set of [[Conditions]] necessary for [[Resources]], [[Energy]], and [[Attention]] to flow. 
+We are striving to articulate and co-create the total set of conditions necessary for resources, energy, and attention to align and flow. 
+
+If anything is missing, or anything below is inadequate, please let us know and help us improve it. 
+
+## Self-Evidency
+We believe the needs and solutions outlined below are self-evident, flowing from Love in response to the problems, needs and opportunities inherent in this moment in history. 
+
+## A Federation / Tribe / Community of Sovereigns
+The purpose of this effort is to convene, connect, and empower a federation / tribe / community of sovereign individuals, organizations, and communities into a functioning, self-sustaining, and self-replicating global body transcendent of the dysfunctional structures of the Old World. 
+
+## Clear Platform and Creed
+
+
 
 ## Clear Written Descriptions 
 - Simple Website - [Lionsberg Website](https://www.lionsberg.org)  
