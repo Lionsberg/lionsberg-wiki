@@ -20,5 +20,4 @@
 
 ## Other Pages I Love
 
-- [[Linda Genson's Landing Page]]
-
+- [[Jordan's Guide to Lionsberg]] 

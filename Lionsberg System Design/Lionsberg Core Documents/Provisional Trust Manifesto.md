@@ -20,7 +20,7 @@ For information on how we use the word [[Meta]] in the [[Lionsberg System]], see
 Whereas the [[Meta Project]] refers to the Absolute / highest level of abstraction, [[Lionsberg]] is being co-created to Instantiate / Embody the [[Meta Idea]] here in our place and time on earth. 
 
 ## Source Idea  
-[[Jordan Nicholas Sukut]] is the primary steward of the Source Idea. 
+[[Jordan Nicholas Sukut]] is the primary steward of the Source Idea, in concert with dozens of co-creators. 
 
 ## Genesis of the Source Idea
 Jordan has been consistently advancing towards this idea since a very young age. Because it points to the [[One Thing]] that all the Golden Threads laid through history originate from and lead back to, it has not changed. 
@@ -185,8 +185,9 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - And we were ready to advance into the next round of resourcing, partnership and engagement. 
 
 ## Investments Prior to August 2022
+The development work through August 2022 has been financed solely by [[Jordan Nicholas Sukut]] through the Lionsberg 501(c)(3) public charity, resulting in a pure, transparent, and publicly accountable structure with no obligations to anyone but [[One]] and [[All]]. 
 
-
+Dozens of people have invested time, ideas, and expertise to help advance the platform and community. 
 
 [[Left Off Here]] 
 

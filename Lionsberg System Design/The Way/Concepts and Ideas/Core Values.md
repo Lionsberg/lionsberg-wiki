@@ -9,7 +9,7 @@ Justice
 Stewardship
 Wisdom  
 
-The entire set of Values, or the [[Total Nested Hierarchy of Values]], can be derived from the Spirit or Essence of Unconditional Love. 
+The entire set of Values, or the [[Total Nested Hierarchy of Values]], can be derived from the Spirit or Essence of Unconditional [[Love]]. 
 
 For an articulation of concrete behaviors and ways these Core Values show up in our lives and our work, see the [[Provisional Code]]. 
 

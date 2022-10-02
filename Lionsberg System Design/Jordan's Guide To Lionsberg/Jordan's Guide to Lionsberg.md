@@ -7,9 +7,7 @@ I am writing this Guide from my personal perspective as one of the primary Autho
 
 In a time of deepening polarization and division, my [[Current Best Understanding]] is that bridging divides and forging the [[Best Possible Future]] will require that we find ways to move beyond the triggering and emotionally charged language we are divided by, into a realm of story, experience, community, and action that can begin to bring us back together. 
 
-To aid in that process, I am offering up my life and my story in service of [[One]] and [[All]]. 
-
-I was also led to begin co-creating a mythical [[New World]] called [[Lionsberg]], including its inherent [[Lionsberg System|Systems]], and attempting to progressively bring that New World into Reality. 
+To aid in that process, I was also led to begin co-creating a mythical [[New World]] called [[Lionsberg]], including its inherent [[Lionsberg System|Systems]], and attempting to progressively bring that New World into Reality. 
 
 ## A Personal Story As A Bridge
 If you'd like to know more about where the story originates from, my life is an open book, and I would be happy to share it with you. It may be that the more you get to know me, the more the mythical story I am living in and telling will make sense. 
