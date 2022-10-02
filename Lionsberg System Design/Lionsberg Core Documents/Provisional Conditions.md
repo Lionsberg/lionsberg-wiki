@@ -37,6 +37,9 @@ The Lionsberg | Meta Project is rooted in the concepts of both [[Being]] in [[Co
 - [[Integrated Delivery Guide]]  
 - [[Lionsberg System]] 
 
+## Clear Phases, Milestones, and Work Breakdown Structure 
+- (Next step to import into this wiki) 
+
 ## Videos 
 - 2 Minute - Coming Soon 
 - 12 Minute - Coming Soon 
