@@ -15,3 +15,5 @@ Specifically, the Meta Project could be conceptualized as the total program of a
 1. Solve the [[Grand Challenges]] 
 2. Accomplish the [[Global Goals]] 
 3. Forge the [[Best Possible Future]] for [[All]] 
+
+The Lionsberg | Meta Project is unique in that it specifically creates a place and forum where we can focus on the Whole / [[Total Nested Hierarchy of Goals]]. 

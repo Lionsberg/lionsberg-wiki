@@ -13,6 +13,7 @@ We are striving to articulate and co-create the total set of [[Conditions]] nece
 - [[Core Vision]] - Briefly paints a picture of the outcome  
 - [[Core Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
 - [[Provisional Trust Manifesto]] - Briefly outlines the inception, history, and resourcing of the initiative to date to create transparency into origins  
+- [[Provisional Declaration]] 
 - [Lionsberg Wiki](https://www.Lionsberg.wiki) - Portal to hundreds pages of supporting content, details, and concepts  
 
 ## Clear Legal and Governance Structure 
@@ -23,18 +24,24 @@ The core ideas, platform, and technology are stewarded by the Lionsberg 501(c)(3
 - [[Provisional Structure]]  
 - [[Governance Guide]] 
 
+## Clear Focus For Action / Doing 
+- The Lionsberg | [[Meta Project]] 
+- The Lionsberg | [[Meta Game]] 
+- The Lionsberg | [[Elevation Initiative]] 
+- The Lionsberg | [[Meta Community]]  
+
 ## Clear System and Methodology 
 The Lionsberg | Meta Project is rooted in the concepts of both [[Being]] in [[Community]], as well as [[Doing]] in an effective way through the [[Lionsberg Integrated Delivery System]]. 
 
 - [[Lionsberg Integrated Delivery System]]  
 - [[Integrated Delivery Guide]]  
+- [[Lionsberg System]] 
 
 ## Videos 
 - 2 Minute - Coming Soon 
 - 12 Minute - Coming Soon 
 - Topics 1 - 10 - Coming Soon 
-
-
+ 
 
 
 

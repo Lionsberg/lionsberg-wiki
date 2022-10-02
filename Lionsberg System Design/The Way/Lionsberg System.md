@@ -21,7 +21,7 @@ The [[Lionsberg System]] is emerging to address all the elements required for th
 
 1. History and Trust - See [[Provisional Trust Manifesto]]
 2. Vision & Intention - See [[Provisional Declaration]]  
-3. Values - See [[Values]]  
+3. Core Values - See [[Core Values]]  
 4. Community - See [[Lionsberg Community]]  
 5. Action - See the [[Meta Project]]  
 6. Behavioral Code - See [[Provisional Code]]  
