@@ -7,7 +7,7 @@ In other words, in order for us to experience _the total integrated wellbeing, d
 
 While this is intentionally left abstract and not concretized, a close approximation can be found in articulations like the United Nations Sustainable Development Goals that were ratified by 193 member nations, and represent broad human consensus. 
 
-They include articulations like: 
+They include articulations like those agreed upon by 195 nations via the UN: 
 
 1. No Poverty  
 2. Zero Hunger  
@@ -28,6 +28,7 @@ They include articulations like:
 17. Partnerships For The Goals  
 
 We could add to these Goals a few more obvious ones precluded by political process, such as: 
+
 18. Elimination of Corruption, Injustice, and Oppression   
 19. Accountability and Transparency  
 20. Elimination of Toxins and Pollution  of Air, Water, and Land  
@@ -50,4 +51,4 @@ It would also require liberation from inadquate definitions and standards of Pov
 
 This higher order framework and philosophy is critically lacking in current international efforts to measure progress towards the [[Total Nested Hierarchy of Goals]].  
 
-To our [[Current Best Understanding]], this has not yet been accomplished, which is why we are developing the [[Lionsberg System]] as a Prototype. 
+Very critical to progress is root cause analysis associated with each of the issues and goals, which points back to the concept of a [[Meta Crisis]] rooted in our way of being and organizing ourselves as a human species on planet earth. 

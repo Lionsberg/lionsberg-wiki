@@ -13,7 +13,7 @@ As a quick placeholder / [[Work In Progress]]...
 ## Basic Values
 We honor the [[Universal and Eternal]] [[Wisdom, Principles, and Values]] that help people, organizations, and societies flourish in harmony. 
 
-Our [[Current Best Understanding]] of the [[Wise Right]] [[Way of Being]] is that it is rooted in timeless articulated values such as [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. From these, or from [[One]], the [[Total Nested Hierarchy of Values]] can be derived. 
+Our [[Current Best Understanding]] of the [[Wise Right]] [[Way of Being]] is that it is rooted in timeless articulated values such as [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. From these, the [[Total Nested Hierarchy of Values]] can be derived. 
 
 ## Basic Terms 
 1. Resources will initially be transparently stewarded through the [[Provisional Structure]] via the Lionsberg 501(c)(3) or one of its special purpose vehicles 
