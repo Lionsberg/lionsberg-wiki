@@ -1,5 +1,5 @@
 # Above The Chaos, Another Quick Orientation
-By [[Jordan Nicholas Sukut]], 2022.08.09 _(updated 2022.08.09)_
+By [[Jordan Nicholas Sukut]], 2022.08.09 _(updated 2022.10.09)_
 
 A post in [[Above The Chaos]].
 
@@ -29,6 +29,8 @@ The next steps (regardless of who takes them) are (something like): 
 4.  Set up **x-prize-like contests** around each (SDG / Domain of Action)
 5.  Set up **marketplaces** to efficiently match (all forms of capital) with the best leaders / opportunities / solutions. 
 6.  Set up a **mission control / program management** function to coordinate, communicate, and integrate across networks / themes / goals. 
+
+For these to work, my hypothesis is that this all needs to be done in the context of a uniting [[Integrated Delivery System]] that includes a [[Prototype]] that contains within itself and orders all elements of the System, and which can be localized and instantiated in any domain, learning each time it is deployed. This is why we are co-creating the [[Lionsberg System]]. 
 
 Between our lifetimes of work and networks, we can accomplish all of the above. 
 

@@ -13,4 +13,3 @@ Additionally, we received the good news from the Open Future Coalition team that
 
 Additionally, teams like Catalist and Map Weavers are continuing to advance powerful collaboration tools that will bringing new information to light in new ways. 
 
-[[All]] 

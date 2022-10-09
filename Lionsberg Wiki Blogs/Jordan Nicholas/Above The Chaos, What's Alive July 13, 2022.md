@@ -3,6 +3,8 @@ By [[Jordan Nicholas Sukut]], 2022.07.13 _(updated 2022.07.13)_
 
 A post in [[Above The Chaos]].
 
+Hello Friends and Allies,
+
 Today we had our weekly navigation meeting. 
 
 Some very fascinating things emerged as "alive" across many domains. 
