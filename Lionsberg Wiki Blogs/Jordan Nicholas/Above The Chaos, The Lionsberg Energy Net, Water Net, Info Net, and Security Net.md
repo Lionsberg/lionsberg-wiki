@@ -5,7 +5,7 @@ A post in [[Above The Chaos]].
 
 Hello Friends and Allies, 
 
-I wrote previously in [[Above The Chaos, Basic Income Security and Income]] about the need to set a  near-term milestone to lift up the ~70% of the world that doesn't presently have it to a universal basic level of income of at least $5,000 / year, in a safe and secure local community. 
+I wrote previously in [[Above The Chaos, Basic Income and Security]] about the need to set a  near-term milestone to lift up the ~70% of the world that doesn't presently have it to a universal basic level of income of at least $5,000 / year, in a safe and secure local community. 
 
 This post briefly outlines a Vision for designing and building a series of distributed networks addressing the Energy, Water, Information, and Security needs present in every community of life, and necessary for subsequent development steps. 
 

@@ -11,7 +11,7 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 ## October 2022
 - [[Above The Chaos, Raising Up The Rising Generations]]  
 - [[Above The Chaos, The Lionsberg Energy Net, Water Net, Info Net, and Security Net]]  
-- [[Above The Chaos, Basic Income Security and Income]]  
+- [[Above The Chaos, Basic Income and Security]]  
 - [[Above The Chaos, We Have Work To Do]]  
 - [[Above The Chaos, 2022 Q4 Update]] 
 
