@@ -2,11 +2,9 @@
 
 Hello, world.
 
-Welcome to the Lionsberg Wiki. We are glad you are here. 
+Welcome. We are glad you are here. 
 
-Lionsberg is being purpose-built as a system and gathering place where a community of goodwill can work together on the [[One Thing]] that unites us All. 
-
-We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or the [[Meta Game]]. 
+We are co-creating a system and gathering place where individuals, organizations, and communities can work together twoards the [[One Thing]] that unites us All. 
 
 Simply, _we are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
 

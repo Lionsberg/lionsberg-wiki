@@ -95,7 +95,24 @@ Enjoy! Be encouraged, and be inspired!
 [[3.25 The Girl and The Bee]]  
 
 ### Chapter Four - The Quest To Navigate
-[[Chapter Four - Coming Soon]]  
+[[4.1 The Navigation Issue]]  
+[[4.2 Continually Transforming Conscious Agents]]  
+[[4.3 Transforming The Product Of The Previous Transformation]]  
+[[4.4 Navigating Towards Better Or Worse]]  
+[[4.5 Without A Shared Vision and Structure of Values, We Perish]]  
+[[4.6 Goods and Anti-Goods]]  
+[[4.7 The First Moral Decision]]  
+[[4.8 The Conscious Choice of One's Intention and Goal]]  
+[[4.9 Who We Are]]  
+[[4.10 Where We Are]]  
+[[4.11 How We Got Here]]  
+[[4.12 Where We Are Going]]  
+[[4.13 The Meta Goal of the Meta Quest]]  
+[[4.14 Why?]]  
+[[4.15 How Can They Be One?]]  
+[[4.16 Towards Oneness Through Love]]  
+[[4.17 Moving Through Love]]  
+[[4.18 The Reciprocal Opening of Being and Doing]]  
 
 ### Chapter Five - The Quest For Purpose and Meaning
 [[Chapter Five - Coming Soon]]  
