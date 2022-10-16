@@ -5,7 +5,7 @@ This is a living [[Work In Progress]]... maybe it always should be...
 
 Dive in! Each page contains a link to the page before and after it, so you can navigate it like a book. You can also navigate it like pieces of interwoven modular content.
 
-Enjoy! Be encouraged, and be inspired! 
+If it is helpful to you, be encouraged and inspired. 
 
 ## Table of Contents
 
@@ -112,16 +112,28 @@ Enjoy! Be encouraged, and be inspired!
 [[4.15 How Can They Be One?]]  
 [[4.16 Towards Oneness Through Love]]  
 [[4.17 Moving Through Love]]  
-[[4.18 The Reciprocal Opening of Being and Doing]]  
+[[4.18 Remembering, Perceiving, Orienting, Engaging, Planning, Adapting, Moving, Learning]]  
+[[4.19 Orienting]]  
+[[4.20 Engaging]]  
+[[4.21 Planning and Adapting]]  
+[[4.22 Moving]]  
+[[4.23 Learning and Improving]]  
+[[4.24 The Reciprocal Opening of Being and Doing]]  
+[[4.25 Navigating and Becoming]]  
+[[4.26 Every Defect Is A Gift]]  
+[[4.27 Away From Pain, Towards Flourishing]]  
+[[4.28 Towards Perfect Oneness, Through Perfect Love]]  
 
 ### Chapter Five - The Quest For Purpose and Meaning
 [[Chapter Five - Coming Soon]]  
+[[5.1 The Quest For Purpose and Meaning]] 
 
 ### Chapter Six - The Quest of the Creative One
 [[Chapter Six - Coming Soon]]  
 
 ### Chapter Seven - The Quest of the Living System
 [[Chapter Seven - Coming Soon]]  
+
 ### Chapter Eight - The Quest of Humanity
 [[Chapter Eight - Coming Soon]]  
 
