@@ -179,6 +179,8 @@ Beyond learning is the total context and culture in which life long individual, 
 
 Lionsberg is a System and Community in which any individual, organization, or community who ascribes to universal intention and values can develop towards the fullness of their potential, flourish, and pass the baton. 
 
+[[Lionsberg System]]  
+
 ## Stage 5: Continuous Learning and Improvement
 
 This is all a [[Work In Progress]]. From this basic starting point, we will work to learn, improve, and [[Get A Little Better Every Day]].  
