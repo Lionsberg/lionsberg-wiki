@@ -47,12 +47,13 @@ The basic idea for adults is:
 - Use a free online learning platform to support your learning journey - we currently recommend [Duolingo](https://www.duolingo.com)
 
 ### Free Tool 1: Duolingo
-Duolingo uses short bite-sized lessons, points, and levels to guide you through 
+[Duolingo](https://www.duolingo.com) uses short bite-sized lessons, points, and levels to guide you through 
 
 
 ### Free Tool 2: BBC Courses
 The BBC has set up a Learning English series: 
-- [BBC Learning English Home](https://www.bbc.co.uk/learningenglish/english/)  
+
+- [BBC Learning English Home](https://www.bbc.co.uk/learningenglish/english/)   
 - [Easy Courses](https://www.bbc.co.uk/learningenglish/english/easy_course)  
 - [Medium Courses](https://www.bbc.co.uk/learningenglish/english/medium_course)  
 - [Hard Courses](https://www.bbc.co.uk/learningenglish/english/hard_course)  
