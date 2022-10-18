@@ -125,10 +125,39 @@ If it is helpful to you, be encouraged and inspired.
 [[4.28 Towards Perfect Oneness, Through Perfect Love]]  
 
 ### Chapter Five - The Quest For Purpose and Meaning
-[[Chapter Five - Coming Soon]]  
+
 [[5.1 The Quest For Purpose and Meaning]] 
+[[5.2 Higher Purpose and Meaning]]  
+[[5.3 The Purpose And Meaning Of Life]]  
+[[5.4 Quality and Quantity of Service]]  
+[[5.5 Quality and Quantity of Meaning]]  
+[[5.6 Choosing the Meta Goal]]  
+[[5.7 Advancing in Relationship]]  
+[[5.8 All For One, And One For All]]  
+[[5.9 Acting As If We Are Individually And Solely Responsible]]  
+[[5.10 Experiencing the Greatest Possible Purpose and Meaning]]  
+[[5.11 Who Is The One We Must Learn Love?]]  
+[[5.12 The True Self]]  
+[[5.13 The False Self]]  
+[[5.14 Human Being, Doing, and Becoming]]  
+[[5.15 Transformation and Emergence]]  
+[[5.16 Becoming And Doing Are One]]  
+[[5.17 The Inbreaking New World]]  
+[[5.18 The Inbreaking True Self]]  
+[[5.19 The Fount Of Being And Becoming]]  
+[[5.20 The Fallacy of 90-10]]  
+[[5.21 The Truth Of The 10-90]]  
+[[5.22 Starting With The Source Of Time And Energy]]  
 
 ### Chapter Six - The Quest of the Creative One
+
+[[6.1 The Quest Of The Creative One]]  
+[[6.2 Returning To The Uncaused Cause]]  
+[[6.3 In The Beginning]]  
+[[6.4 The Song Of Creation]]  
+[[6.5 The Ground of Being]]  
+[[6.6 The Pinnacle Of Being]]  
+
 [[Chapter Six - Coming Soon]]  
 
 ### Chapter Seven - The Quest of the Living System
