@@ -157,6 +157,10 @@ If it is helpful to you, be encouraged and inspired.
 [[6.4 The Song Of Creation]]  
 [[6.5 The Ground of Being]]  
 [[6.6 The Pinnacle Of Being]]  
+[[6.7 The Golden Thread]]  
+[[6.8 The Failed Institutionalization of Truth]]  
+[[6.9 What Is Better? What Is Good?]]  
+[[6.10 From Good to God]]  
 
 [[Chapter Six - Coming Soon]]  
 
