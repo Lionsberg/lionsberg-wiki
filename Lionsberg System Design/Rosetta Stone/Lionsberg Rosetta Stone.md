@@ -37,9 +37,13 @@
 - Amharic Welcome - 
 - Bhojpuri Welcome - 
 - Eastern Punjabi Welcome - 
+___
 
+## Rosetta Stone Idea
 
-In 2022, the populations below were estimated by language (temporarily limited to the 36 languages with over 50 million speakers):
+In 2022, the populations below were estimated by language (temporarily limited to the 36 languages with over 50 million speakers). 
+
+Our current idea is to create simple welcome pages in each of these languages, so that anyone hearing of our message has an entry point... through which they can access a free way to learn English... through which they can access pathways for lifelong learning, development, and self-governance in community. 
 
 - English - 1.45 Billion  
 - Mandarin Chinese - 1.12 Billion  
