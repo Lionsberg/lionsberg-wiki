@@ -121,8 +121,14 @@ If it is helpful to you, be encouraged and inspired.
 [[4.24 The Reciprocal Opening of Being and Doing]]  
 [[4.25 Navigating and Becoming]]  
 [[4.26 Every Defect Is A Gift]]  
-[[4.27 Away From Pain, Towards Flourishing]]  
-[[4.28 Towards Perfect Oneness, Through Perfect Love]]  
+[[4.27 Navigating Towards Truth And Reality]]  
+[[4.28 Truth Beyond The Horizon Of Perception]]  
+[[4.29 The Terrifying Existential Awe And Fear Of Not Knowing]]  
+[[4.30 I Do Not Know, But I Will Search It Out]]  
+[[4.31 The Marvelous Possibility Of Knowing]]  
+[[4.32 Take Your Shoes Off]]  
+[[4.33 Away From Pain, Towards Flourishing]]  
+[[4.34 Towards Perfect Oneness, Through Perfect Love]]  
 
 ### Chapter Five - The Quest For Purpose and Meaning
 
