@@ -91,8 +91,9 @@ If it is helpful to you, be encouraged and inspired.
 [[3.21 The One We Love Is Suffering]]  
 [[3.22 Moving Heaven And Earth]]  
 [[3.23 The Logical End Of Love Is The Goal]]  
-[[3.24 Complacency]]  
-[[3.25 The Girl and The Bee]]  
+
+[[3.x25 Complacency]]  
+[[3.x26 The Girl and The Bee]]  
 
 ### Chapter Four - The Quest To Navigate
 [[4.1 The Navigation Issue]]  
@@ -236,6 +237,15 @@ If it is helpful to you, be encouraged and inspired.
 [[7.36 One Living System]]  
 
 ### Chapter Eight - The Quest of Humanity
+
+History... 
+Enslavement... 
+Liberation... 
+
+[[8.x1 Living In An Illusion]]  
+
+[[Left Off Here]]
+
 [[Chapter Eight - Coming Soon]]  
 
 ### Chapter Nine - The Quest for Sovereignty
