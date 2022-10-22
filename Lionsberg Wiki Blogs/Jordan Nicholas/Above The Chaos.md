@@ -4,11 +4,9 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## Featured Posts
 
-- [[Above The Chaos,  2022.07.16 Public Update]]  
-- [[Above The Chaos, Hello World]]
-- [[Above The Chaos, Cycle 2 Update]]
 
 ## October 2022
+- [[Above The Chaos, Processing, Anxiety, And Discovering A Way Forward]] 
 - [[Above The Chaos, Raising Up The Rising Generations]]  
 - [[Above The Chaos, The Lionsberg Energy Net, Water Net, Info Net, and Security Net]]  
 - [[Above The Chaos, Basic Income and Security]]  
