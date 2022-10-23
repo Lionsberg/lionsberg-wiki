@@ -173,7 +173,7 @@ This allows our dysfunctional stories to fail and die instead of us.
 
 As a human species, we have come to the edge of the [[Chasm]], and we are faced with whether we continue accelerating along our present trajectory and fail / die... 
 
-...or whether we allow some of the storeis we are telling our selves to die instead, so that we can progress onwards together towards [[Flourishing And Abundant Life]].  
+...or whether we allow some of the stories we are telling our selves to die instead, so that we can progress onwards together towards [[Flourishing And Abundant Life]].  
 
 ## The Individual And The Collective 
 
