@@ -2,6 +2,11 @@
 
 By [[Jordan Nicholas Sukut]]  
 
+## About  
+[[0.1 About]]  
+
+## One - A Way Beyond
+
 [[1.1 The Intention of This Book]]  
 [[1.2 You Are Not Alone]]  
 [[1.3 Elevated Heart Rate, Shallow Breathing, Uneasiness in the Gut]]  
@@ -22,4 +27,13 @@ By [[Jordan Nicholas Sukut]]
 [[1.18 Consciously Conducting]]  
 [[1.19 Stories]]  
 [[1.20 What Comes Next]]  
+[[1.21 Making Our Selves Strong]]  
+
+## Two - An Individual And Local Way Forward
+
+[[2.0 An Individual And Local Way Forward]]  
+
+## Three - A Collective Way Forward 
+
+[[3.0 A Collective Way Forward]]  
 
