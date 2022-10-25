@@ -10,7 +10,7 @@ I know that many people have looked on with confusion over the last 5 years as I
 
 6 months into the social experiment we launched in April, we have reached the end of the first season of exploring these concepts in the abstract with a growing network, and arrived back at a fresh point of clarity regarding what comes next. 
 
-It seems that what wants to emerge next is a small core group and core system / platform, that reciprocally relates to a diverse and growing "group of groups". 
+It seems that what wants to emerge next is a small core group and core system / platform, that operates in service of a diverse and growing "group of groups". 
 
 Nearly all the [[Work]] required to meet the needs, solve the problems, and forge our future will be done in small groups of 3 to 20 people. Each of these groups will have its own unique language, culture, social norms, mission, and story. It would not be possible or wise to control or manage thousands of groups around the world from above. 
 
@@ -48,15 +48,21 @@ We have spent the last 5 bringing together and integrating lifetimes of work int
 
 ...that we have full authority within... and that we can immediately activate... that is entirely self-governing beyond any existing authority or institution on earth... yet can compliantly interface with will all institutions on earth...
 
-...and its mythical name I call it by is Lionsberg. 
+...and the mythical name I call it by is Lionsberg. 
 
 You have your own Starting Points and groups and things that are within your own immediate sphere of authority and responsibility - let's explore how to bring them into right relationship, and help one another as we each strive to Love and Serve One and All in our own ways. 
 
-What is right relationship between you and me? As individuals? What is right relationship between Lionsberg and your domains of authority? What would I and Lionsberg need to provide for you and your projects to be who you are being called to be at this unique moment in history? What help could you use? How can I best serve? 
+What is right relationship between you and me? As individuals? 
+
+What is right relationship between my domain of authority in Lionsberg and your domains of authority? 
+
+What would I and Lionsberg need to provide for you and your projects to be who you are being called to be at this unique moment in history? 
+
+What help could you use? How can I best serve? 
 
 ## A Non-Zero Probability of Systems Collapse
 
-This starting point of a clearly defined and universal Intention, Vision, Set of Values, [[Total Nested Hierarchy of Goals]], and presence of 100s or groups who are already in motion and willing to gradually align and advance towards greater collaboration comes at the same time that evidence is growing that we face a [[Non-Zero Probability of Systems Collapse]] on multiple fronts, which could easily shatter the existing order. 
+This starting point of a clearly defined and universal Intention, Vision, Set of Values, [[Total Nested Hierarchy of Goals]], and presence of hundreds of groups who are already in motion and willing to gradually align and advance towards greater collaboration comes at the same time that evidence is growing that we face a [[Non-Zero Probability of Systems Collapse]] on multiple fronts, which could easily shatter the existing order. 
 
 While a massive number of voices believe the [[Old System]] is so fundamentally broken and corrupted that its collapse is inevitable... 
 
