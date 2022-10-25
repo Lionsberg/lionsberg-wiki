@@ -8,6 +8,8 @@ Dear Friends and Allies,
 
 Welcome, for those of you who desire to enter it together, into Season Two. 
 
+We have learned from our indigenous elders about the importance of honoring the opening and closing of seasons and cycles. 
+
 In April, we set out on a social experiment to explore the idea and reality that we are all, as a human species, engaged in a Meta Project that is bigger than any of us. 
 
 Over four 6 week cycles, two quarters, we learned a massive amount, advanced some critical infrastructure, and came to relative consensus on the wise right patterns of action, principles, and values to guide the way forward. We broadened and deepened relationships in the network, traveled and spoke internationally, and came to the point where we now have the opportunity to engage in many projects with many groups at many levels of scale - from sectors like regenerative agriculture, to water, to hard hit communities like Pokot Kenya, to nation states like Estonia and Scotland, to international convening in partnership with Future Capital and the UN. 
@@ -66,12 +68,14 @@ Train the groups on a basic internal communication system that brings the group 
 
 ### Step 5: Minimum Viable Broadcasting System 
 
-Establish a basic external broadcasting system to tell stories, celebrate successes and learnings, raise awareness, and identify new groups to invite into relationship. 
+Establish a basic external broadcasting system to tell stories, celebrate successes and learnings, raise awareness, and identify new groups to invite into relationship. This also eventually becomes the tool to drive awareness, public engagement, crowd funding, etc. 
 
 ___
 ## Outcome And Value Creation 
 
 These next 5 steps would “pull” into existence a confederation / voluntary association of groups in minimum viable form, around a continuously improving community / platform / system stewarded in common for All, whose role was to love, serve, and empower by helping groups meet their needs, solve their problems, and capture the opportunities inherent in their unique story. 
+
+If we do a great job serving and empowering them, and inspiring more leaders and groups to connect, we will soon have a backlog of "demand" that we can progressively onboard at the [[Wise Right]] pace. 
 
 ### Value Created In Season One
 

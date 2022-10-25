@@ -7,6 +7,8 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## October 2022
 
+- [[Above The Chaos, Why I Am Risking Everything To Build Lionsberg In Service Of The Meta Project]]  
+- [[Above The Chaos, The Lionsberg Meta Academy]]  
 - [[Above The Chaos,  Closing Season One, Entering Season Two]]  
 - [[Above The Chaos, Co-Creating The Conditions For a New Sovereignty To Emerge]]  
 - [[Above The Chaos, Processing, Anxiety, And Discovering A Way Forward]] 

@@ -13,7 +13,7 @@ I do not know what the right answer is, but here is my hypothesis:
 4. This lifelong process should be rooted in the development and transformation of the whole being - spiritually, intellectually, and physically. 
 5. The [[Purpose]] of this lifelong development of the Whole being is to help each individual discover and realize their unique potential by helping All others realize theirs. 
 
-In the past our placeholder name for this has been the Lionsberg [[Elevation Initiative]]... which encompasses not only individual development, but also the organizational and community development objectives that shape the environment and conditions in which individual development occurs. 
+In the past our placeholder name for this has been the Lionsberg | [[Elevation Initiative]]... which encompasses not only individual development, but also the organizational and community development objectives that shape the environment and conditions in which individual development occurs. 
 
 What if... we co-created a [[System]], that helped every individual, organization, community, and ecosystem on earth develop towards the fullness of their unique potential and flourish in harmony. 
 
