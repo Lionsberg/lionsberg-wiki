@@ -1,9 +1,10 @@
-# Above the Chaos, Hello Capital 
+# Above the Chaos, Stewarding And Allocating Capital 
+
 By [[Jordan Nicholas Sukut]], 2022.07.30 _(updated 2022.07.30)_
 
 A post in [[Above The Chaos]].
 
-This post is written to lay down some opening thoughts on [[Capital]], specifically as it relates to the [[Meta Crisis]] and the [[Meta Project]].  
+This post is written to lay down some opening thoughts on stewarding and allocating [[Capital]], specifically as it relates to the [[Meta Crisis]] and the [[Meta Project]].  
 
 In the same way that the total set of all human activity that is succeding or failing in its Quest towards the [[Meta Goal]] can be considered as one overarching and uniting [[Meta Project]]... 
 
@@ -34,19 +35,20 @@ In a moment when a [[Meta Crisis]] is stalking Life on Earth, this has to rapidl
 
 If instead of looking at the total set of all human beings, we look at a single human being, we can gain an intuition for this happens. 
 
-We never what kinds of resources, attention, and strength are available to us until someting calls them forth and demands that they be organized and focused. 
+We never know what kinds of resources, attention, and strength are available to us until something calls them forth and demands that they be organized and focused. 
 
 This can occur for instance if we are walking through a dark [[Unknown]] place, and we hear an unusual and ominous sound. 
 
-The Anomoly triggers an Orienting Response, our Attention narrows, and we Focus. In this state of [[Fight or Flight]], everything within us is primed and ready to respond to the Existential Threat. 
+The [[Anomaly]] triggers an [[Orienting Response]], our [[Attention]] narrows, and we [[Focus]]. In this state of [[Fight or Flight]], everything within us is primed and ready to respond to the Existential Threat. 
 
 Humanity and Life on Earth, in aggregate, are in just awakening to the Reality that we are in such a moment in history. We have begun to hear the creaks, groans, and rumblings of a quantum tectonic shift... yet we do not yet know what it means.
 
 There is a non-zero probability that an Existential Threat is at hand and may burst in upon us. 
 
-If we were wise, we would be marshalling the fullness of our attention and resources, focusing, and developing a plan. 
+If we were wise, we would be marshaling the fullness of our attention and resources, focusing, and developing a plan. 
 
 ### Signs of Existential Threat 
+
 Wars. Injustice. Polarization. Propaganda. Division. Collapsing populations of vulnerable animals. Collapsing populations of insects. Collapsing quality of soil. Shaking supply chains. Willful blindness and corruption of those in power. Plummeting trust in existing systems and institutions. Loss of the stories, customs, and traditions that hold societies together. 
 
 ###  Waste Vs. Value

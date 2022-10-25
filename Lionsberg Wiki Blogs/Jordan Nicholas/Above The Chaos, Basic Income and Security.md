@@ -1,4 +1,5 @@
 # Above The Chaos, Basic Income and Security
+
 By [[Jordan Nicholas Sukut]], 2022.10.09 _(updated 2022.10.09)_
 
 A post in [[Above The Chaos]].
