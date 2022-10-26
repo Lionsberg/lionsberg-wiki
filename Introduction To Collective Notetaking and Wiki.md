@@ -1,0 +1,47 @@
+# Introduction To Collective Notetaking and Wiki
+
+- One of our core competencies should become [[Collective Notetaking]] using open source tools, which we then load into the [[Lionsberg Wiki]], which acts as our [[Collective Memory]].  
+- Collective Notetaking creates the superpower / ability to capture all relevant information from many people and perspectives all at once _as events occur._ 
+- Millions of people are using this technology for software development. 
+- We are leveraging those deep capabilities, by attempting to make it as technically shallow as we can while gaining a lot of capability.  
+- Reason we are not using Google Docs and Google Sites 
+	- Get more done faster
+	- Scales much bigger
+	- Not on proprietary and therefore cancelable third party software
+- Failure modes of large platforms
+    - Google decides what is allowable and can make the decision to shut you out. 
+    - Government decides what is allowable and can make the decision to shut you out. 
+    - Acquisition... future acquiring company makes a decision 
+    - Solar storms take out electronics... 
+    - Natural disasters take out electronics... 
+    - This technology _does not require a functioning cloud_ - this is a super critical design element for certain parts of the Lionsberg platform. In particular our collective memory. 
+    - It does not require internet... 
+    - If the entire internet falls down... everyone has a copy of the whole wiki on their computer... which will contain the complete plans, specifications, and solutions for how to rebuild or advance society. 
+	    - See [[Above The Chaos, Curating Solutions To Build (Or Rebuild) Life And Society]]. 
+    - If many computers broken due to solar storm or war - everyone has a copy of the entire thing... 
+    - can rebuild in local community even without reaching the rest of the world. 
+    - we are building security from collapse or attack type scenariors. 
+- The markdown file can be easily downloaded for a local copy and is accessible in the wiki
+- There is a pattern of moving between HackMD and the faces as suits the pattern of the meeting and the need of the group and the issues.
+- HackMD and markdown allows the cooperative, collaborative thinking in real-time.
+- Another mode for writing a document is asynchronous typing directly on the wiki (Obsidian) and this will allow links and more.
+- Why not Google Docs? 
+    - More decentralized
+    - different tools can collaborate 
+    - More cancel / war / solar flare resistant
+    - We already have simple tools like word etc yet these don't help with connection
+    - another level is to use notepad or text editor 
+    - Obsidian is another option which uses markdown and connects to Wiki
+- Same tech can be used for personal writing, knowledge management
+- Two parts of wiki
+    - One - cohesive and fairly architected content
+    - Two - free form, group knowledge individual perspectives on Lionsberg / Meta Project etc., 
+    - Also - a PROCESS for moving from individual blogs up into the group brain part of the wiki. 
+    - Think of the more fluid section to be a scaffold to develop material to bring to more formal architected section
+    - There is a social process for accepting content to transfer
+- How do we comment on the core material - TRANSFERED TO ISSUE TRACKER
+    - This will likely be branching and issues... 
+    - longer comments can be put in your own wiki and then addressed as there is a link
+- What is compatible? 
+    - The simplest things like notepad... important because it helps in dire situations
+    - Obsidian gives you a lot more power, but is not necessary

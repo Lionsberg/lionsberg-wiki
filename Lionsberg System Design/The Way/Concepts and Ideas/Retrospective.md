@@ -1,4 +1,5 @@
 # Retrospective
+
 A core element of the [[Lionsberg System]] is the mandate to [[Get A Little Better Every Day]]. 
 
 This is the basic principle behind [[Continuous Learning]] / [[Continuous Improvement]] / [[Continous Elevation]]. 

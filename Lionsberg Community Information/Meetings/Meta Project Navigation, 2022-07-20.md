@@ -98,6 +98,7 @@ And so the issue solving process needs to scrub it and get it to the point where
 And then, then, when the team says okay, i'll do that by this date they have a clean line to do that.
 
 ## Intro To Wiki, Collective Notetaking and HackMD
+- [[Introduction To Collective Notetaking and Wiki]]
 - Open Source collective note taking capability. 
 - The ability to capture all relevant information from many people all at once. 
 - Millions of people are using this tech for software development. We are leveraging that, while attempting to make it as technically shallow as we can while gaining a lot of capability. 
