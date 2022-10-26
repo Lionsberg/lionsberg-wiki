@@ -4,11 +4,7 @@ This site is a [[Work In Progress]]
 [[Your Starting Point]]   
   
 [[0.4 The Meta Story|The Meta Story]]  
-[[The Book of Lionsberg|The Book of Lionsberg]]  
-[[The Way]]  
-  
-[[Integrated Delivery Guide]]  
-  
+
 [[Groups]]  
 [[Meetings]]  
 [[Project Proposals]]  (new)  
@@ -23,6 +19,12 @@ This site is a [[Work In Progress]]
 [[Above The Chaos]]  
 [[Pete's Journal]]  
 [[Jonathan's Blog]]  
+
+# Books
+[[The Book of Lionsberg]]   
+[[A Way Beyond Fear, Anxiety, And Depression]]   
+[[Integrated Delivery Guide]]   
+[[Governance Guide]]   
 
 <!-- Comment not rendered visibly to web
 
