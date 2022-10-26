@@ -1,5 +1,9 @@
 # Above The Chaos, The Story I Am Telling My Self About Where We Are, Where We Are Going, And Why It Matters So Damn Much
 
+By [[Jordan Nicholas Sukut]], 2022.10.26 _(updated 2022.10.26)_
+
+A post in [[Above The Chaos]].
+
 Hello Friends and Allies, 
 
 I would like to illuminate and make visible the invisible [[Story]] I am telling my self [[Self]] about [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it matters so damn much that I am willing to risk my life, finances, and reputation to try to publicly figure out how to do "this". 
