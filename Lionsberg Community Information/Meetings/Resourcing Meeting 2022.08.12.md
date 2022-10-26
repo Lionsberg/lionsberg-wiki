@@ -47,7 +47,7 @@
 - Not easy to get out of - has to be entirely recirpical outcome to practice ourselves into a new playing field. 
 
 ## Existing Organizations in the Space Wanting to Operate in Harmony
-- Need in the network: Offering helping hand in the storm of FP / NP / Co-Op - entity issues of people growing beyond an entity face - wantitng to not set up in compensation but cooperation. 
+- Need in the network: Offering helping hand in the forming of FP / NP / Co-Op - entity issues of people growing beyond an entity face - wantitng to not set up in competition but cooperation. 
     - Michael - I don't know too many organizations who aren't having this issue. 
     - Venture Capital concerns / co-ops concerns 
     - Catalist, CTA, Factr, etc. 

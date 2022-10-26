@@ -1,4 +1,5 @@
 # One Page
+
 **A Platform, a Community, and a shared Meta Project**
 
 What is [[The Goal]]? And how do we measurably bring it into reality for the good of [[All]] generations of life?
@@ -29,7 +30,7 @@ The **protocols** of the platform(s) will help ensure that local progress toward
 
 **Who?** Sovereign individuals, organizations, and communities who are passionate about helping one another discern and achieve local goals, while replicating and scaling global solutions, infrastructure, and learning. 
 
-**Why us?** Because there is no “them” coming to solve our problems and save society. It is up to us. 
+**Why us?** Because there is no “them” coming to solve our problems and save society. It is up to us. All of us. 
 
 **What is possible if we succeed?** Meta success: All communities helping one another confront and overcome the complex of existential social, economic, political, and ecological threats stalking society.
 

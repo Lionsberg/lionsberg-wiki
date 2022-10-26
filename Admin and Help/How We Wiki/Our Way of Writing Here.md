@@ -63,7 +63,7 @@ We also gratefully accept and appreciate any new suggestions that affect core de
 - When / why / how to write in an existing file?
 - When / why / how to create new files?
 - When and how do we use folders in this wiki?
-	- Discussed on [[Wiki Posse - Lionsberg_Meta Project, 2022-05-27]] call, and on the recording
+	- Discussed on [[Wiki Posse, 2022-05-27]] call, and on the recording
 - When and how do we use tags (aka #hashtag )
 
 ## Wiki Concepts

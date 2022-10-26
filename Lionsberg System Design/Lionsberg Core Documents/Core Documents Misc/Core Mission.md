@@ -1,4 +1,5 @@
 # Core Mission
+
 [[Mission]] - What we do to [[Realize]] our Vision, Intention, and Goal. 
 
 Our Mission is to progressively [[Realize]] the [[Meta Goal]]. 

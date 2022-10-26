@@ -3,8 +3,7 @@
 ## Topics
 
 ### Update from Jordan
-- Half of Jordan's time organizing impact projecs and initiatives present, half with [Future Capital](https://www.futureofcapital.org/) (connection to UN and major capital flows - idea to not compete but collaborate with synergies on a major level). it is not a divided effort, rather, Future Capital is folded into Lionsberg structure so they benefit from LB, and bring the benefit of Future Capital works - still in service of the single meta goal. Not a pivot. Lawrence Ford founder of https://www.consciouswealth.global/
-
+- Half of Jordan's time organizing impact projecs and initiatives present, half with capital - and potentially [Future Capital](https://www.futureofcapital.org/) (connection to UN and major capital flows - idea to not compete but collaborate with synergies on a major level). it is not a divided effort, rather, Future Capital is considering folding into Lionsberg structure so they benefit from LB, and bring the benefit of Future Capital works - still in service of the single meta goal. Not a pivot. Lawrence Ford founder of https://www.consciouswealth.global/. We'll see what happens. 
 - In Lionsberg structure that no one owns, set up to support many initiatives
 
 

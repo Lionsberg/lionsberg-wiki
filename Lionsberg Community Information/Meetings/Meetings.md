@@ -37,5 +37,5 @@ _This list of meeting pages is manually updated periodically, and may not includ
 ## Wiki Posse
 
 - [[Wiki Posse, 2022-07-15]]
-- [[Wiki Posse - Lionsberg_Meta Project, 2022-05-27]]
+- [[Wiki Posse, 2022-05-27]]
 - [[Lionsberg-Meta Project Wiki Posse, 2022-05-20]]
