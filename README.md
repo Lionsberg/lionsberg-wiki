@@ -31,6 +31,12 @@ Feel free to explore, recognizing that everything here is being built live and t
 ## Requests For Guidance
 - [[Requests For Guidance]]
 
+## Presentations of Value Creation 
+
+- [[2022.Q3 Presentation of Value Creation]]  
+- [[2022.Q2 Presentation of Value Creation]]  
+- [[Value]]  
+
 ## Lionsberg Wiki Books
 - [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[The Power of Today]] - A guide for individuals to integrate their [[Daily Practice]] in a [[Way]] that helps us All advance towards the Goal. 
