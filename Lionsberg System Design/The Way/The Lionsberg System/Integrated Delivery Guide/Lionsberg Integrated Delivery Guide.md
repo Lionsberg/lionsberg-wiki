@@ -1,5 +1,6 @@
 # Integrated Delivery Guide
-This [[Integrated Delivery Guide]] is a [[Work In Progress]]. Please enjoy and utilize it if it is helpful as we evolve it!
+
+This [[Lionsberg Integrated Delivery Guide]] is a [[Work In Progress]]. Please enjoy and utilize it if it is helpful as we evolve it!
 
 If you are finding this early on, start with the [[0.0 Warning]] and [[0.2 Minimum Viable Version]] pages, and then dive into the other sections if you want more depth.  
 

@@ -9,7 +9,7 @@
 - Book In Progress - [[The Book of Lionsberg]] - 13% complete - follow along as it unfolds!  
 - Book In Progress - [[The Power of Today]]  - 70% complete - follow along as it unfolds! 
 - Book In Progress - [[Martial Arts Guide]] - 50% complete - follow along as it unfolds!  
-- Book In Progress - [[Integrated Delivery Guide]] - 60% complete - follow along as it unfolds!  
+- Book In Progress - [[Lionsberg Integrated Delivery Guide]] - 60% complete - follow along as it unfolds!  
 - Writings on the Way - [[The Way]]  
 - Jordan's Short Story - [[Jordan's Short Story]]  
 - Jordan's Experience with Faith - [[Jordan and Faith]]  

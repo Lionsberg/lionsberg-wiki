@@ -26,7 +26,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 ## Lionsberg System Design
 - [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Structure]] and [[Provisional Code]] that we are striving to act out and improve. 
 - [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being and doing together. 
-- [[Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
+- [[Lionsberg Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
 
 ## Requests For Guidance
 - [[Requests For Guidance]]
@@ -40,7 +40,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 ## Lionsberg Wiki Books
 - [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[The Power of Today]] - A guide for individuals to integrate their [[Daily Practice]] in a [[Way]] that helps us All advance towards the Goal. 
-- [[Integrated Delivery Guide]]  
+- [[Lionsberg Integrated Delivery Guide]]  
 - [[Martial Arts Guide]]  
 - [[A Way Beyond Fear, Anxiety, And Depression]]  
 

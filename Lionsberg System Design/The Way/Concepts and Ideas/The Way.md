@@ -40,7 +40,7 @@ Without a shared intention, vision, and goal, it will be impossible to align our
 - [[Organize and Federate]] - Work in progress  
 - [[Organizations The Lionsberg Way]] - Work in progress  
 - [[Governance Guide]] - Work in progress 
-- [[Integrated Delivery Guide]] - Work in progress  
+- [[Lionsberg Integrated Delivery Guide]] - Work in progress  
 - [[Agreements]] - Work in progress  
 
 ## Community Resources

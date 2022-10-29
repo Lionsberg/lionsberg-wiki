@@ -32,7 +32,7 @@ How do we organize ourselves, and how do we organize our resources, so that they
 ____
 ## Other Resources and Guides
 
-This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The Lionsberg Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[Provisional Structure]]. 
+This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The Lionsberg Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[Lionsberg Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[Provisional Structure]]. 
 
 ___
 

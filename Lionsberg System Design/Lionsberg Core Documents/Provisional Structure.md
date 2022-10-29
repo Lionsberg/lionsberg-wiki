@@ -1,6 +1,6 @@
 # Provisional Structure 
 
-For more information on the inception of the Lionsberg | Meta Project Structure, see [[1.2 Background and Context]] in the [[Integrated Delivery Guide]]. 
+For more information on the inception of the Lionsberg | Meta Project Structure, see [[1.2 Background and Context]] in the [[Lionsberg Integrated Delivery Guide]]. 
 
 Here is a 30 minute introductory discussion from its creators:
 
@@ -23,7 +23,7 @@ This is a starting point and [[Prototype]] for [[Continuous Improvement]].
 
 The [[Lionsberg System]] is designed to work as a Whole - this structure is purpose-built to protect the DNA and Processes that are bringing intention into reality. 
 
-The Process elements are being outlined in the [[Integrated Delivery Guide]], and will be subsequently clarified in the [[Meta Project Plans and Specifications]].  
+The Process elements are being outlined in the [[Lionsberg Integrated Delivery Guide]], and will be subsequently clarified in the [[Meta Project Plans and Specifications]].  
 
 See [[Lionsberg System]] for other elements beyond the [[Provisional Structure]].  
 

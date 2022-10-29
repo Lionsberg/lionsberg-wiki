@@ -47,7 +47,7 @@ The entire [[Meta Philosophy]] is meant to be operationalized through a comprehe
 For a personal view of how you can begin to elevate and transform your life, starting with [[Today]], see [[The Power of Today]]. 
 
 ## The Integrated Delivery Guide
-For a look at how the total System contemplates empowering [[All]] to align their time, energy, and resources in service of our highest shared goals, see the [[Integrated Delivery Guide]]. 
+For a look at how the total System contemplates empowering [[All]] to align their time, energy, and resources in service of our highest shared goals, see the [[Lionsberg Integrated Delivery Guide]]. 
 
 ## The Book of Lionsberg
 If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please follow along as [[The Book of Lionsberg]] writes itself. 

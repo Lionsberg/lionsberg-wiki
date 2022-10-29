@@ -182,7 +182,7 @@ When the Team to Team commitment is Accepted, and the Commitment thereby fulfill
 ## Everything Is A Project / Everything Is A Story
 Applying the [[Everything Is A Project]] framework, or [[Everything Is A Story]] framework, these Packages or Stories of Work need to be aggregated up into higher level stories and projects that are accomplishing the [[Meta Project]] / [[Meta Story]]. 
 
-The mechanics of how this can be accomplished can be found in the [[Integrated Delivery Guide]] - the project based langauge can be transformed to simple Game / Quest based language. 
+The mechanics of how this can be accomplished can be found in the [[Lionsberg Integrated Delivery Guide]] - the project based langauge can be transformed to simple Game / Quest based language. 
 
 ## Markup
 Each Team is entitled to 10% "markup" on its [[Package of Work]] in order to create a pool of [[Time Currency]] to accomplish its Overhead and Administration Function. 

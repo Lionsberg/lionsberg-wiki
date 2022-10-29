@@ -25,7 +25,7 @@ This site is a [[Work In Progress]]
 
 [[A Way Beyond Fear, Anxiety, And Depression]]   
 
-[[Integrated Delivery Guide]]   
+[[Lionsberg Integrated Delivery Guide]]   
 [[Governance Guide]]   
 
 [[Lionsberg Wiki Books]]  

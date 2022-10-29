@@ -11,7 +11,7 @@ I am taking the risk of totally overwhelming everyone in order to pull what I ca
 
 For some thoughts on where we are, where we are going, and why, see the reflections in the [[2022.07.05 Request For Guidance]]. This is a richly linked document that links many concepts and reflections out in many directions. 
 
-For some thoughts on how we can integrate and align our activities across time into a coherent Whole, there is a book in progress called the Lionsberg [[Integrated Delivery Guide]]. 
+For some thoughts on how we can integrate and align our activities across time into a coherent Whole, there is a book in progress called the Lionsberg [[Lionsberg Integrated Delivery Guide]]. 
 
 For some thoughts on Structure, see [[Provisional Structure]], which includes a video of Bill Larson and I discussing some of what was designed and built as a starting point and why.
 

@@ -1,5 +1,6 @@
-# Guilds
-Eventually, as sovereigns (groups, organizations, integrated product teams) mature, they will combine autonomy and tradecraft with education. For the simple reason that each guild may prefer specialized in-house training for a lot of its skills. Generic education can then focus on a smaller set of common material. I call them guilds.
+# Guilds 
+
+Eventually, as sovereigns (groups, organizations, integrated delivery teams) mature, they will combine autonomy and tradecraft with education. For the simple reason that each guild may prefer specialized in-house training for a lot of its skills. Generic education can then focus on a smaller set of common material. I call them guilds.
 
 Since we plan to have a core advisory execution team, one of its roles can be to guide the formation and development of each sovereign into a mature guild.
 

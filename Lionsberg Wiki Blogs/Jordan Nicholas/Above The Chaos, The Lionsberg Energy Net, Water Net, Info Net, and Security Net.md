@@ -20,7 +20,7 @@ This is actually relatively straightforward to accomplish based on existing reso
 
 Each of the following Systems are subcomponents of the [[Lionsberg System]], which aims to localize and instantiate a continuously learning [[Prototype]] capable of meeting the needs and solving the problems inherent in every community of life, and lifting [[All]] up towards [[The Goal]].   
 
-To reiterate, they will not work unless deployed in harmony with all other elements of the [[Lionsberg System]] in accordance with the approximate logic of the [[Integrated Delivery Guide]] and [[Governance Guide]]. 
+To reiterate, they will not work unless deployed in harmony with all other elements of the [[Lionsberg System]] in accordance with the approximate logic of the [[Lionsberg Integrated Delivery Guide]] and [[Governance Guide]]. 
 
 ### Energy
 

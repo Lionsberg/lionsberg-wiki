@@ -27,7 +27,7 @@ The [[Lionsberg System]] is emerging to address all the elements required for th
 6. Behavioral Code - See [[Provisional Code]]  
 7. Governance - See the [[Governance Guide]]  
 8. Structure - See [[Provisional Structure]]  
-9. Process - See [[The Way]] and [[Integrated Delivery Guide]]  
+9. Process - See [[The Way]] and [[Lionsberg Integrated Delivery Guide]]  
 10. Lifelong Learning and Development - See [[Lionsberg Academy]]  
 11. Economy - Coming Soon 
 12. All Pillars of Society - See [[A New Sovereignty]]  

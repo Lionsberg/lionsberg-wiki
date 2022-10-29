@@ -46,7 +46,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 6. The initial legal infrastructure instantiated in the United States as a [[Starting Point]] is outlined in the [[Provisional Structure]] section. 
 
 ## Basic Process
-The Lionsberg System is built to transform human action into a [[Goal Delivery System]]. We will be continously improving our ability to "pull plan" the [[Milestones]] leading to The Goal, then articulate and coordinate a [[Network of Commitments]] that iteratively and measurably brings The Goal into reality. For more technical background, see the [[Integrated Delivery Guide]]. 
+The Lionsberg System is built to transform human action into a [[Goal Delivery System]]. We will be continously improving our ability to "pull plan" the [[Milestones]] leading to The Goal, then articulate and coordinate a [[Network of Commitments]] that iteratively and measurably brings The Goal into reality. For more technical background, see the [[Lionsberg Integrated Delivery Guide]]. 
 
 ## Basic Mindset
 [[We Do Not Know]] whether this will work. We are therefore attempting to embody our [[Current Best Understanding]] in a series of short term 6 week [[Social Experiment|Social Experiments]], with the expectation that we will learn and [[Get A Little Better Every Day]]. 

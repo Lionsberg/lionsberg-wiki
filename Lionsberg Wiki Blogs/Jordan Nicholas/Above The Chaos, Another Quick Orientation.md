@@ -42,7 +42,7 @@ It became clear we would need a governance and legal system that no one owned, w
 
 It became clear we would need an Integrated Delivery System... 
 
-...so we adapted an [[Integrated Delivery Guide]].  
+...so we adapted an [[Lionsberg Integrated Delivery Guide]].  
 
 It became clear we would need some backbone Technology Infrastructure...
 

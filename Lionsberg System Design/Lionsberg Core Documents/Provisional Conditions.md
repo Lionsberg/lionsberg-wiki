@@ -60,7 +60,7 @@ The core ideas, platform, and technology are stewarded by the Lionsberg 501(c)(3
 The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Community]], and [[Doing]] in an effective way through the [[Lionsberg Integrated Delivery System]]. 
 
 - [[Lionsberg Integrated Delivery System]]  
-- [[Integrated Delivery Guide]]  
+- [[Lionsberg Integrated Delivery Guide]]  
 - [[Lionsberg System]] 
 
 ## Videos 
