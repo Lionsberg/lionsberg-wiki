@@ -25,21 +25,45 @@ By [[Jordan Nicholas Sukut]]
 [[1.16 Accessing Alternate Futures, Selves, and Rule Sets]]  
 [[1.17 Regaining Consciousness]]  
 [[1.18 Consciously Conducting]]  
+
+## Two - In Progress
+
+
+## Three - In Progress  
+
 [[3.1 Forward Looking Stories]]  
-[[2.20 What Comes Next]]  
-[[2.21 Making Our Selves Strong]]  
+[[3.2 Which Forward Looking Stories Are Possible?]]  
+[[3.3 Backwards Looking Stories]]  
+[[3.4 Which Backward Looking Stories Are True?]]  
+[[3.5 What Limits The Stories We Tell Our Selves?]]  
+[[3.6 The Girl And The Boundary]]  
+[[3.7 What Boundaries Are Limiting Your Stories]]  
+[[3.8 Self Limiting Beliefs]]  
+[[3.9 Who We Are Becoming]]  
+[[3.10 Who And Where We Are]]  
+[[3.11 Clarity On Past, Present, And Future]]  
+[[3.13 The Poles Of Mania And Depression]]  
+[[3.14 Enthusiasm]]  
+[[3.15 The Quality And Quantity Of Pleasure And Positive Emotion]]  
 
-## Two - A Way To Energize? 
+## Four - In Progress
+
+[[4.1 How To Navigate And Move]]  
+[[4.2 Dopamine]]  
+[[4.3 Rewiring Our Brain]]  
+
+[[4.5 The Proper Orientation And Stance]]  
+[[4.6 The Improper Orientation And Stance]]  
+
+[[4.10 That Which We Fear]]  
 
 
-## Two - An Individual And Local Way Forward
+
+
+## Five - An Individual And Local Way Forward
 
 [[2.0 An Individual And Local Way Forward]]  
 
-## Three - A Collective Way Forward 
+## Six - A Collective Way Forward 
 
 [[3.0 A Collective Way Forward]]  
-
-has to be unified... there is a vague satisfaction in being able to say - yea, i am doing that too... that i entirely different than being meaningfully engaged together... 
-
-Jordan's relationships...
