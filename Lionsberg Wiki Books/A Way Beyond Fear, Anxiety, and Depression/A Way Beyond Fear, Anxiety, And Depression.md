@@ -25,9 +25,12 @@ By [[Jordan Nicholas Sukut]]
 [[1.16 Accessing Alternate Futures, Selves, and Rule Sets]]  
 [[1.17 Regaining Consciousness]]  
 [[1.18 Consciously Conducting]]  
-[[1.19 Stories]]  
-[[1.20 What Comes Next]]  
-[[1.21 Making Our Selves Strong]]  
+[[3.1 Forward Looking Stories]]  
+[[2.20 What Comes Next]]  
+[[2.21 Making Our Selves Strong]]  
+
+## Two - A Way To Energize? 
+
 
 ## Two - An Individual And Local Way Forward
 
@@ -37,3 +40,6 @@ By [[Jordan Nicholas Sukut]]
 
 [[3.0 A Collective Way Forward]]  
 
+has to be unified... there is a vague satisfaction in being able to say - yea, i am doing that too... that i entirely different than being meaningfully engaged together... 
+
+Jordan's relationships...
