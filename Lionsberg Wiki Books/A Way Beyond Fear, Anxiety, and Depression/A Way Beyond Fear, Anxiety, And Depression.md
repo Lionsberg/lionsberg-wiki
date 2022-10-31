@@ -26,27 +26,27 @@ By [[Jordan Nicholas Sukut]]
 [[1.17 Regaining Consciousness]]  
 [[1.18 Consciously Conducting]]  
 
-## Two - In Progress
+## Two - In Progress  
 
+[[2.1 Forward Looking Stories]]  
+[[2.2 Which Forward Looking Stories Are Possible?]]  
+[[2.3 Backwards Looking Stories]]  
+[[2.4 Which Backward Looking Stories Are True?]]  
+[[2.5 What Limits The Stories We Tell Our Selves?]]  
+[[2.6 The Girl And The Boundary]]  
+[[2.8 What Boundaries Are Limiting Your Stories]]  
+[[2.7 Self Limiting Beliefs]]  
+[[2.9 Who We Are Becoming]]  
+[[2.10 Who And Where We Are]]  
+[[2.11 Clarity On Past, Present, And Future]]  
+[[2.12 Co-Creating Our Forward Looking Story]]  
+[[2.13 The Poles Of Mania And Depression]]  
+[[2.14 Enthusiasm]]  
+[[2.15 The Quality And Quantity Of Pleasure And Positive Emotion]]  
 
-## Three - In Progress  
+## Three - In Progress
 
-[[3.1 Forward Looking Stories]]  
-[[3.2 Which Forward Looking Stories Are Possible?]]  
-[[3.3 Backwards Looking Stories]]  
-[[3.4 Which Backward Looking Stories Are True?]]  
-[[3.5 What Limits The Stories We Tell Our Selves?]]  
-[[3.6 The Girl And The Boundary]]  
-[[3.7 What Boundaries Are Limiting Your Stories]]  
-[[3.8 Self Limiting Beliefs]]  
-[[3.9 Who We Are Becoming]]  
-[[3.10 Who And Where We Are]]  
-[[3.11 Clarity On Past, Present, And Future]]  
-[[3.13 The Poles Of Mania And Depression]]  
-[[3.14 Enthusiasm]]  
-[[3.15 The Quality And Quantity Of Pleasure And Positive Emotion]]  
-
-## Four - In Progress
+## Four - In Progress 
 
 [[4.1 How To Navigate And Move]]  
 [[4.2 Dopamine]]  
@@ -58,11 +58,9 @@ By [[Jordan Nicholas Sukut]]
 [[4.10 That Which We Fear]]  
 
 
-
-
 ## Five - An Individual And Local Way Forward
 
-[[2.0 An Individual And Local Way Forward]]  
+[[5.0 An Individual And Local Way Forward]]  
 
 ## Six - A Collective Way Forward 
 
