@@ -1,0 +1,28 @@
+# System Values 
+The [[Core Values]] of any System are like the guard rails or boundaries that prevent us from getting swept off course as we [[Navigate]] towards [[The Goal]]. 
+
+The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
+
+They also must be integrated by a [[Total Nested Hierarchy of Values]], which must be unified and integrated by a single highest overarching and uniting [[Meta Value]]. 
+
+The [[Meta Value]] of the [[Lionsberg System]] is the [[One]] [[Deepest Thing]]. 
+
+Described in terms of Universal Values, we might use the English word [[Love]]. 
+
+The [[Meta Value]] by definition contains within itself and orders all other [[Values]]. 
+
+By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
+
+In English, the [[Meta Value]] has been articulated into a basic set of universal [[Core Values]]: 
+
+1. [[Truth]]  
+2. [[Love]]  
+3. [[Justice]]  
+4. [[Stewardship]]  
+5. [[Wisdom]]  
+
+See [[Total Nested Hierarchy of Values]] for more detail, and [[Values]] for a deeper discussion. 
+
+From a Governance standpoint, the [[Lionsberg System]] views the [[Meta Value]] as Absolute, and therefore does not concretize it. At the same time, it establishes [[Core Values]] that point to or represent the [[Meta Value]]. 
+
+The [[Core Values]] of the System "hold the space" around the [[Meta Value]], are immutable, and may not be changed or replaced. 

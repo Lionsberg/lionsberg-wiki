@@ -67,7 +67,7 @@
     - Maybe good learnings on how people enjoy being together and "rallying"... that could be pointed towards better direction
 
 ## Quick Detour Into Neuroscience 
-- Pete brought in a theory of how brains work (William Calvin's [[How Brains Think]], etc.)
+- Pete brought in a theory of how brains work (William Calvin's How Brains Think, etc.)
 - Ringing in response to the stimulus 
 - neighbors get a little of the signal from that... 
 - they try to harmonize / resonate... 

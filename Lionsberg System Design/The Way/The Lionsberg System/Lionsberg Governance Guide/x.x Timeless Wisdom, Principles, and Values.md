@@ -18,7 +18,7 @@ Yet nevertheless we can begin to articulate and illuminate elements of the Whole
 Following is a short start to hold the field. 
 
 ## Values 
-First, if you have not already read it, read [[3.3 Values]], [[Values]], and [[Core Values]]. 
+First, if you have not already read it, read [[System Values]], [[Values]], and [[Core Values]]. 
 
 Together they forge a very strong energetic field holding the space for what we Value and consider Good. 
 

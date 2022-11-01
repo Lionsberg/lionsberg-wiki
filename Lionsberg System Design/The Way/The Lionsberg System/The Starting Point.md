@@ -31,7 +31,7 @@ The near term mission of [[Jordan Nicholas Sukut|J]] and [[Lionsberg]] is to ser
 
 ## A Progression Towards Oneness Through Love
 
-We have [[Realize|Realized]] that the [[Group Of Groups]] must progress through a series of developmental phases before it can [[Co-Operate]] as one. 
+We have [[Realize|Realized]] that the [[Group Of Groups]] must progress through a series of developmental phases before it can [[Co-Operation|Co-Operate]] as one. 
 
 These may be something like: 
 

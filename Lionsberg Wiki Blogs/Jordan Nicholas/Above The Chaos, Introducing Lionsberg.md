@@ -63,7 +63,7 @@ Those who do not want to honor and uphold the [[Lionsberg Code]] are welcome to 
 ___
 Invitations and voluntary consent from the bottom up. 
 
-No [[Old]] / existing organization, institution, or system of governance can impose the [[Lionsberg System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individual|Individuals]]. 
+No [[Old]] / existing organization, institution, or system of governance can impose the [[Lionsberg System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individuals]]. 
 
 However any existing organizations, institution, or system of governance can _invite_ its constituents to, in addition to their citizenship(s) in whatever existing forms, also take up their universal citizenship in [[Lionsberg]]. 
 

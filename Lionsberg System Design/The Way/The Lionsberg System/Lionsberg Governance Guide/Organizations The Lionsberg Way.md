@@ -1,5 +1,5 @@
 # Organizations The Lionsberg Way
-**Organizations The Lionsberg Way** describes pattens, processes, and tools that help independent and autonomous [[Individual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
+**Organizations The Lionsberg Way** describes pattens, processes, and tools that help [[Sovereign]] and [[Autonomous]] [[Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
 We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
@@ -60,7 +60,8 @@ Establish how people will participate in the Organization, and how the Organizat
 
 ### Align Goals with the Goals of One or More Federations
 We would highly recommend that: 
-1. Each [[Individual]] align their [[Goal|Goals]] with the [[Goal|Goals]] of one or more [[Group|Groups]] or [[Organization|Organizations]]  
+
+1. Each [[Individuals|Individual]] align their [[Goal|Goals]] with the [[Goal|Goals]] of one or more [[Group|Groups]] or [[Organization|Organizations]]  
 2. Each Group and Organization align its Goals with the Goals of one or more Federation.  
 3. All Federations align their Goals with the [[Meta Goal]] of the [[Meta Federation]].  
 

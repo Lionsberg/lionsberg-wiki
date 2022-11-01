@@ -1,2 +1,3 @@
 # Autonomy
-[[Autonomy]] refers to the capacity of an Agent to in accordance with the dictates of their own self-government. 
+
+[[Autonomy]] refers to the capacity of an Agent to think, speak, and act in accordance with the dictates of their own [[Self Governance]]. 

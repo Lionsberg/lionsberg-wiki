@@ -1,9 +1,23 @@
 # Values
-This page is a [[Work In Progress]]. This stream of thought began in a section on [[Behavioral Code]], as we were working to define the [[Provisional Code]]. For this reason, it will start a bit abruply in a context that is highly related to how our Values show up in thought, words, and action. 
 
-For a simple statement on the Universal Values that structure the [[Lionsberg System]], see [[Core Values]]. 
+[[TKTK]] - [[Work In Progress]] - Clean this up. 
+___
+Without an overarching and uniting [[Total Nested Hierarchy of Values]], any element will disintegrate. 
 
-For examples of how we hope the [[Core Values]] express themselves in concrete behavioral terms, see [[Provisional Code]]. 
+All elements of the [[Lionsberg System]] are unified by the [[Meta Value]] and the [[Meta Goal]], which are [[One]]. 
+
+The System is further unified by the articulated [[Universal Values]], including [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
+
+Each Individual, Group, and Community in the System is encouraged to adopt the Lionsberg [[Universal Values]], or to articulate their own unique statement of Values. 
+
+[[Template For Values]] 
+___
+
+The stream of thought below began in a section on [[Behavioral Code]], as we were working to define the [[Provisional Code]]. For this reason, it will start a bit abruply in a context that is highly related to how our Values show up in thought, words, and action. 
+
+For a simple statement on the Universal Values that structure the [[Lionsberg System]], see [[Universal Values]]. 
+
+For examples of how we hope the [[Universal Values]] express themselves in concrete behavioral terms, see [[Provisional Code]]. 
 ___
 
 Generally, our explicit and implicit [[Behavioral Code|Behavioral Codes]] relate to our [[Values]]. 

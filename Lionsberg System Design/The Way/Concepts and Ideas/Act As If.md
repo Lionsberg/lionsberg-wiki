@@ -1,4 +1,5 @@
 # Act As If
+
 Acting As If... is akin to running an experiment to test whether a hypothesis is True. 
 ___
 
@@ -16,14 +17,8 @@ Despite the fact that [[We Do Not Know]], we are forced to grapple with How We O
 
 This forces us to articulate a [[Philosophy]] and a [[Narrative Framework]] in which to exist, and to discover what happens if we [[Act As If]] it were True. 
 
-Acting As If... is akin to running an experiment to test whether our hypothesis is True. 
-
-**Experimentation / Embodiment**: There is a certain class of things, which we will never know whether they are True, unless we attempt to act them out / [[Embody]] them to see if they work. 
+**Experimentation / Embodiment**: There is a certain class of things, which we will never know whether they are True, unless we attempt to [[Enact]] and [[Embody]] them to see if they work. 
 
 **Games, Rules, Laws**: There is another class of things, such as the rules of a game, that can be our Reality if we choose to [[Act As If]] it were so with those around us. 
 
-**Universal Wisdom, Principles, and Values**: There is another class of things, such as widely validated wisdom, principles, and values tested and verified across mulitple sacred traditions over thousands of years, that we ignore to our peril. 
-
-
-
-
+**Universal Wisdom, Principles, and Values**: There is another class of things, such as widely validated wisdom, principles, and values tested and verified across multiple sacred traditions over thousands of years, that we ignore to our peril. 

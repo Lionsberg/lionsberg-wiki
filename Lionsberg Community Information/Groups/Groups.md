@@ -1,4 +1,29 @@
-# Groups / Teams
+# Groups
+
+To accomplish things they cannot do in isolation, Individuals [[Organize and Federate]] into [[Groups]].  
+
+Small, effective groups and teams are the basis of execution in the System. Small groups, generally of 3 to 20, are the core nodes of community, life, and action in the [[Lionsberg System]].  
+
+Groups inalienably possess all inherent [[Rights And Responsibilities]] of [[Individuals]] via the [[Individuals]] that compose them.  
+
+Each Group should do their best to [[Co-Operation|Co-Operate]] a [[Group Instance]] of the [[Lionsberg System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
+
+The [[Group Instance]] is critical to ensuring that the Whole has Integrity, as a result of the Core System Components co-operating with [[Integrity]] at every [[Fractal]] level. 
+
+To accomplish things they cannot do on their own, [[Circles]] [[Organize and Federate]] by forming [[Sub Groups]] and [[Super Groups]].  
+
+In general, Groups: 
+
+- Have a defined Aim / Goal  
+- Have responsibility and authority in a [[Domain]]  
+- Have defined [[Roles]]  
+- Process and Solve [[Issues]]  
+- Make decisions based on [[Discernment]] and [[Consent]]  
+- Have [[Links]] to other [[Groups]] that produce energy and information flow, and alignment.   
+
+___
+## Snapshot of Lionsberg | Meta Project Groups
+
 Gradually all our groups/sovereigns/teams will begin to appear here ... all those to which people wish to contribute, or in which people have expressed interest.
 
 [Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Groups) (catalist.network) 

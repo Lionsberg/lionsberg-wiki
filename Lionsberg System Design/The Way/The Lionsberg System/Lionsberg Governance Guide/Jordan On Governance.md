@@ -12,7 +12,7 @@ ___
 
 After studying this issue for many years and incorporating lifetimes of work from many diverse perspectives, I do not actually think it is possible to manifest the kind of future we all desire without a comprehensive solution  that addresses all elements of the human system (governance, society, economy, spirituality) in an integrated and comprehensive [[Way]]. 
 
-To truly flourish, each [[Individual]] must of their own freewill integrate each of their [[Motivational States]] / [[Primordial Drives]] into a single, integrated, higher order functioning [[Personality]] that is actually capable of rightly relating to the world around. 
+To truly flourish, each [[Individuals|Individual]] must of their own freewill integrate each of their [[Motivational States]] / [[Primordial Drives]] into a single, integrated, higher order functioning [[Personality]] that is actually capable of rightly relating to the world around. 
 
 In turn, for a [[Family]] to truly flourish, each family member must of their own freewill integrate them [[Selves]] into a single, integrated, functioning family that is capable of rightly relating, internally to one another, and externally to the society and environment that contains them. 
 
@@ -59,7 +59,7 @@ What matters is the relationship _among_ the "group of groups" that is trying to
 
 ___
 
-From my perspective, what needs to happen next is that [[Individual|Individuals]] who want to engage in this collective emergence should forge or join a group or team - see [[Forging Or Joining A Team]]. 
+From my perspective, what needs to happen next is that [[Individuals]] who want to engage in this collective emergence should forge or join a group or team - see [[Forging Or Joining A Team]]. 
 
 Those teams and groups should then [[Organize and Federate]] to accomplish together what they cannot accomplish in isolation. 
 

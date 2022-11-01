@@ -1,41 +1,46 @@
-# Meetings
+# Past Meetings
 
-_This list of meeting pages is manually updated periodically, and may not include all meeting pages. Check your file navigation or the All Pages link to see all the pages in the Meetings folder._
+For the list of past Meetings, notes, and recordings that formerly resided here, see [[Past Meetings]]. 
 
-## Navigation
+## Kinds of Meetings
 
-- [[Meta Project Navigation, 2022-09-28]]
-- [[Meta Project Navigation, 2022-09-07]]
-- [[Meta Project Navigation, 2022-08-31]]
-- [[Pull Planning, 2022-08-24]]
-- [[Meta Project Navigation, 2022-08-10]]
-- [[Meta Project Navigation, 2022-08-03]]
-- [[Meta Project Navigation, 2022-07-27]]
-- [[Meta Project Navigation, 2022-07-20]]
+- [[Fellowship Meetings]]
+- Program and Project Management 
+	- Kick-Start  
+	- Design Review  
+	- Strategy / Planning
+	- PM Navigation 
+	- Status / Reporting 
+	- Portfolio Review 
+	- Kick-Finish ~ 80% Completion 
+	- [[Retrospective]] / After Action Review
+- Standup / Checkin  
+- Brainstorming  
+- Healing After Trauma (Internal or External)  
+- Informal / Being Human Together 
+- Celebration  
+- Changing of the Seasons  
 
-## Other Various
+## Agendas
 
-- [[Lionsberg Africa 2022.08.25]]
-- [[Retro for needs and offers market, 2022-08-22]]
-- [[Social Architecture 2022-08-16]]
-- [[Currency and Measurement, 2022-07-25]]
-- [[Map Weavers, 2022-07-19]]
+[[Groups]] use [[Decision Making Process]] rooted in Discernment and Consent to agree on topics and durations for each meeting. 
 
-## Resourcing
+## Rounds
 
-- [[Resourcing Meeting 08.19.2022]]
-- [[Resourcing Meeting 2022.08.12]]
-- [[Resourcing Meeting 2022.07.29]]
+When appropriate, each individual in the circle should be given the opportunity to speak, one by one, until all have spoken. 
 
-## Small Meetings
+When appropriate, physical or metaphorical [[Talking Stick|Talking Sticks]] can be used to help facilitate this type of [[Dialogue]] and deep listening, and ensure that each person can fully process and express their perspective. 
 
-- [[Wendy and Jordan 2022.08.15]]
-- [[Jordan Sukut and Peter Kaminski, 2022-08-15]]
-- [[Jordan Sukut and Peter Kaminski, 2022-07-15]]
-- [[Jordan Sukut and Peter Kaminski, 2022-06-14]]
+## Unity of Spirit / Sense of the Meeting
 
-## Wiki Posse
+As the meeting progresses, pay close attention to what arises and emerges. 
 
-- [[Wiki Posse, 2022-07-15]]
-- [[Wiki Posse, 2022-05-27]]
-- [[Lionsberg-Meta Project Wiki Posse, 2022-05-20]]
+This is sometimes referred to as the "spirit" or "sense" of the meeting. 
+
+It often is experienced as if something (thoughts, feelings, impressions) are "bursting in" upon meeting participants, in a way that resonates and can be recognized by all. 
+
+Often these impressions contain very valuable [[Wisdom]] that is crucial for Governance / Navigation towards the Goal. 
+
+[[Template For PM Navigation Meeting]]  
+
+
