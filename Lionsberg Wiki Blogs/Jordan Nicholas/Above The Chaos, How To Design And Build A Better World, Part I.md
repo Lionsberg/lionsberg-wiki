@@ -101,7 +101,7 @@ Engage the Wise Right People and resources, at the Wise Right Time, for the Wise
 Act out the Plan with courage, perseverance, and agility, continuously working to better map planning and action to the Reality you are transforming. 
 
 ### Part 6: Continuous Elevation 
-Continuously elevate and improve the [[Quality]] of your Intention, Analysis, Engagement, Planning, and Action. [[Get A Little Better Every Day]]. 
+Continuously elevate and improve the [[Quality]] of your Intention, Analysis, Engagement, Planning, and Action. [[A Little Better Every Day]]. 
 
 ## Step 5: Tell Stories to Fuel the Movement of All Things Towards The Goal
 Collect stories in stride and broadcast them to the world to inspire hope, restore agency, and fuel the movement of All things towards [[The Goal]]. 

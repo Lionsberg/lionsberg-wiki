@@ -1,4 +1,5 @@
 # Work
+
 _noun_
 
 Activity, involving effort, done to progressively achieve a result / [[Goal]]. 
@@ -9,7 +10,7 @@ To effectively engage in such activity.
 
 _physics_
 
-The [[Energy]] transfered, via the application of [[Force]], along a dispacement / vector. 
+The [[Energy]] transferred, via the application of [[Force]], along a displacement / vector. 
 
 ___
 

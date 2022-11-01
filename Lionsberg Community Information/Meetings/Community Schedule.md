@@ -1,5 +1,5 @@
 # Community Schedule
-We are working to grow and [[Get A Little Better Every Day]]. 
+We are working to grow and [[Become]] [[A Little Better Every Day]]. 
 
 July 2022 Update: 
 

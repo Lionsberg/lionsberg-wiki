@@ -47,7 +47,7 @@ We have instantiated an innovative hybrid legal and governance structure capable
 The core ideas, platform, and technology are stewarded by the Lionsberg 501(c)(3) non-profit. 
 
 - [[Provisional Structure]]  
-- [[Governance Guide]] 
+- [[Lionsberg Governance Guide]] 
 
 ## Clear Focus For Action / Doing 
 - Lionsberg | [[Meta Project]] 

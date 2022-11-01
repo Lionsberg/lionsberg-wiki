@@ -14,7 +14,7 @@ But what comes next in the story is incredible.
 
 From around the world, out of seemingly nowhere, a universal [[Force For Good]] hears the call, awakens, arises, and unites to turn the tide of the battle and secure victory for [[One]] and [[All]]. 
 
-This ushers in an entirely [[New World]] that is not only perfect, but is continuing to [[Get A Little Better Every Day]] because we are all striving together to make it so. 
+This ushers in an entirely [[New World]] that is not only perfect, but is continuing to [[Become]] [[A Little Better Every Day]] because we are all [[Working Together To Make It So]]. 
 
 ___
 This is no longer a [[Story]] of any one tribe, people, or nation. 

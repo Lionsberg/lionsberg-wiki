@@ -28,7 +28,7 @@ Our [[Current Best Understanding]] of the [[Wise Right]] [[Way of Being]] is tha
 2. We called the idea that there is One highest thing that unites us All other things the [[Meta Idea]]. 
 3. We called the effort to [[Act As If]] if the [[Meta Idea]] were true the [[Meta Project]], or the [[Meta Game]]. 
 4. The [[Meta Project]] by definition involves the total set of all potential and actual human activity through the lens of [[Everything Is A Project]]. 
-5. We are trying to [[Get A Little Better Every Day]] at acting out the [[Meta Project]] with greater coordination and competence. 
+5. We are trying to get [[A Little Better Every Day]] at acting out the [[Meta Project]] with greater coordination and competence. 
 7. We [[Realize|Realized]] that in order to be able to better See / [[Perceive]] / Act on the abstract notion of the [[Meta Project]], we needed to Instantiate an embodied version of it in our time and place. 
 8. This required the creation of a defensible New [[Identity]] that could be legally registered in order to provide the New [[Structure]] necessary to facilitate emergence. 
 
@@ -49,9 +49,9 @@ _All of the levels above happen before any legal structure, and exist purely on 
 The Lionsberg System is built to transform human action into a [[Goal Delivery System]]. We will be continously improving our ability to "pull plan" the [[Milestones]] leading to The Goal, then articulate and coordinate a [[Network of Commitments]] that iteratively and measurably brings The Goal into reality. For more technical background, see the [[Lionsberg Integrated Delivery Guide]]. 
 
 ## Basic Mindset
-[[We Do Not Know]] whether this will work. We are therefore attempting to embody our [[Current Best Understanding]] in a series of short term 6 week [[Social Experiment|Social Experiments]], with the expectation that we will learn and [[Get A Little Better Every Day]]. 
+[[We Do Not Know]] whether this will work. We are therefore attempting to embody our [[Current Best Understanding]] in a series of short term 6 week [[Social Experiment|Social Experiments]], with the expectation that we will learn and [[Become]] [[A Little Better Every Day]]. 
 
-Aiming at the [[Highest Intention and Greatest Good]], we will take incremental steps towards The Goal and [[Get A Little Better Every Day]]. 
+Aiming at the [[Highest Intention and Greatest Good]], we will take incremental steps towards The Goal and [[Become]] [[A Little Better Every Day]]. 
 
 ## Success
 [[Success]] in the System is defined in terms of [[Progressive Realization]] of [[The Goal]].  

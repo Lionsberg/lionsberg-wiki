@@ -7,11 +7,11 @@ And even at the out edges of our imagination, we can be certain that what is pos
 
 But let's explore the [[Configuration Space]] / [[Creative Field]] to see what might be possible. 
 
-If we can develop a conceptul intuition for it that is at least close to the Goal, and then Aim unwaveringly at it and begin progressing towards it, we can improve our Vision and Aim over time as we [[Get A Little Better Every Day]].  
+If we can develop a conceptul intuition for it that is at least close to the Goal, and then Aim unwaveringly at it and begin progressing towards it, we can improve our Vision and Aim over time as we get [[A Little Better Every Day]].  
 
 If on the other hand we fail to develop a Vision and Aim for it, we will perish wandering in the desert that lies between [[Where We Are]] and [[Where We Are Going]]. 
 
-This is an opening Vision that we can begin to improve together as discover how to [[Fill Up What Is Lacking]], and [[Remove What Does Not Belong]]. 
+This is an opening Vision that we can begin to improve together as discover how to [[Filling Up What Is Lacking|Fill Up What Is Lacking]], and [[Removing What Does Not Belong|Remove What Does Not Belong]]. 
 
 ## A Working Vision For The Best Possible Future 
 One of the first ways we can begin developing our Vision of the Best Possible Future for All is to remember what the prophets and sages have aleady imagined or been shown. 
@@ -137,13 +137,13 @@ As we gaze out into the Best Possible Future... What do we see? What do we hear?
 - We know in our Minds what we once knew in our Bodies  
 - We know in our Hearts what we once knew in our Minds     
 - We see each of the billions of us walking together in the Way that causes the New World to in-break and become our present Reality. 
-- We see an entirely renewed society and world, that continues to [[Get A Little Better Every Day]]  
+- We see an entirely renewed society and world, that continues to [[Become]] [[A Little Better Every Day]]  
 
 What are some of the evils that you would like to see abolished in the New World? 
-- What pragmatic steps might we take to [[Remove What Does Not Belong]]? 
+- What pragmatic steps might we take to [[Removing What Does Not Belong|Remove What Does Not Belong]] ? 
 
 What are some of the Goods that you long to see burst forth? 
-- What pragmatic steps might we take to [[Fill Up What Is Lacking]]? 
+- What pragmatic steps might we take to [[Filling Up What Is Lacking|Fill Up What Is Lacking]]? 
 
 Let's build our Vision together and align, as we labor together to Co-Create the New World. 
 ___

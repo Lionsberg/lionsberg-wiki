@@ -13,3 +13,5 @@
 11. [[Process For Onboarding]] 
 12. [[Process For Submittals]] 
 13. [[Process For Requests For Guidance]] 
+14. [[Process For Filling Up What Is Lacking]]  
+15. [[Process For Removing What Does Not Belong]] 

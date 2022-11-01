@@ -1,35 +1,60 @@
 # Lionsberg System
-Lionsberg is a mission and values driven community and system working together to co-create the [[Best Possible Future]] for [[All]]. 
 
-Its [[Aim]] is the [[Highest Intention and Greatest Good]] for [[All]]. 
+The core [[Intention]] of the [[Lionsberg System]] is to enable [[Higher Order Functional Unity]] among [[One]] and [[All]]. 
 
-Its Spirit is [[Love]]. 
+This [[Higher Order Functional Unity]] is a perquisite condition to progressively accomplishing [[The Goal]]. 
 
-Producing the [[Best Possible Future]] for [[All]] requires a [[System]] that empowers us to [[Co-Operate]] in [[Higher Order Functional Unity]]. 
+[[Progressive Realization]] can be likened to a [[System]] purpose-built to create [[Throughput]] of a [[Worthy Goal]]. 
 
-The [[Lionsberg System]] is a comprehensive and integrated [[System]] designed to produce [[Throughput]] of our One overarching and uniting [[Meta Goal]]. 
+In the case of [[Lionsberg]], [[The Goal]] of the [[System]] is the [[Meta Goal]] - the [[Highest Intention and Greatest Good]] for [[All]]. 
 
-It is designed to connect, empower, and accelerate All other things moving in service of [[The Goal]] and the [[One Thing]] that unites us All. 
+Accomplishing the [[Meta Goal]] and thereby forging the [[Best Possible Future]] for [[All]] requires a massive amount of [[Work]]. 
 
-It is not a finished answer, blueprint or silver bullet. It will eternally remain a [[Work In Progress]]. It is not the one right answer. It is a working Hypothesis and Prototype. 
+[[Work]] requires the transfer of [[Energy]] via the application of [[Force]] along a vector / towards an [[Aim]]. 
 
-The only Way we will be able to test how well it conforms to Ultimate Reality will be to experiment, learn, experience, embody and transform it. 
+Recognizing that none of us can hit [[The Aim]] alone, how could a universal [[Force For Good]] arise and unite to do the [[Work]] required to accomplish [[The Goal]]? 
+
+The [[Lionsberg System]] is being Continuously Improved as a reflection of our [[Current Best Understanding]] of the Answer. 
+
+## One System of Systems To Connect and Empower All 
+
+It is self-evident that any form of [[Life]] of [[Society]] divided against itself will suffer and eventually die. 
+
+Therefore there is no viable alternative but to rise into [[Higher Order Functional Unity]] with [[One]] and [[All]].  
+
+Our [[Current Best Understanding]] is that we should build one [[System of Systems]] that [[All]] tribes, nations, and peoples can connect to, which will connect them to [[One Another]] and enable [[All]] to communicate and [[Help One Another]] flourish in harmony. 
+
+This [[System of Systems]] should not be a monolith, but a tapestry of a diverse array of unique and localized systems, that collectively and voluntarily rise up to the [[Minimum Standards of Interoperability]] that enable [[All]] to flourish as one. 
+
+## A Starting Point For Continuous Improvement
+
+Recognizing that [[We Do Not Know]] and could not and should not over design such a System, we have forged a [[Wise Right]] [[Starting Point]] by [[Doing Our Best]] to co-create the [[Total Nested Hierarchy of Conditions]] that enable [[Emergence]] among a massive, distributed, and unique [[Group Of Groups]].  
+
+By creating a Mythical Story and Name whose [[Embodiment]] can eternally transform in response to its [[Central Animating Spirit]], we, as a human species, have the complete flexibility to [[Do The Wise Right Thing, At The Right Time, For The Right Reasons, To Progress Towards The Goal]] of [[The Story]]. 
+
+We absolutely know that in 7 generations none of our current platforms or technology will be the same, so everything is being designed to die, transform, and be reborn endlessly across [[Time]]. 
+
+What can remain is (something like) a continuously improving [[Culture]], [[Wisdom]], [[Knowledge]], and [[System]] / [[Process]] that we pass on as the [[Collective Inheritance]] and [[Starting Point]] of each subsequent generation throughout the millennia. 
+
+Among the [[Conditions of Satisfaction]] for the System of Systems is that it must work for [[All]] past, present, and future generations of [[Life]] and [[Consciousness]]. 
+
+## A Work In Progress 
+
+[[Lionsberg]] and the [[New World]] _must_ eternally remain a living, transforming, improving [[Work In Progress]]. 
+
+It can never become a finished Answer, blueprint, or perceived silver bullet. 
+
+The moment is no longer a working [[Prototype]] and [[Hypothesis]] that is being Continuously Improved, it will have begun to die. 
+
+No matter how skilled and proficient it becomes, it, and we, must always remain white belts in the Academy of Life and Reality. 
+
+## Development Through Progress and Transformation 
+
+The only [[Way]] to develop the [[System]] towards its [[Potential]] is through [[Progress]] towards [[The Goal]]. 
+
+The only Way we will be able to test how well [[Lionsberg]] as an [[Embodiment]] conforms to Ultimate Reality will be to experiment, learn, experience, embody and transform. 
 
 Therefore at the Core of the System is an identification not with the present embodiment, articulations, or hypotheses herein,  but with the living Spirit and processes guiding our learning, growth, and transformation across Time. 
 
-The [[Lionsberg System]] is emerging to address all the elements required for this Higher Order Functional Unity to emerge. If you see one missing, let's add it. 
+In fact, the ability of the [[Central Animating Spirit]] to guide the subsequent transformations of its [[Embodiment]] across [[Time]] and [[Space]] is the central [[Way]] the [[System]] works. 
 
-1. History and Trust - See [[Provisional Trust Manifesto]]
-2. Vision & Intention - See [[Provisional Declaration]]  
-3. Core Values - See [[Core Values]]  
-4. Community - See [[Lionsberg Community]]  
-5. Action - See the [[Meta Project]]  
-6. Behavioral Code - See [[Provisional Code]]  
-7. Governance - See the [[Governance Guide]]  
-8. Structure - See [[Provisional Structure]]  
-9. Process - See [[The Way]] and [[Lionsberg Integrated Delivery Guide]]  
-10. Lifelong Learning and Development - See [[Lionsberg Academy]]  
-11. Economy - Coming Soon 
-12. All Pillars of Society - See [[A New Sovereignty]]  
-
-All elements of the System are designed to integrate and align [[All]] in service of [[The Goal]] that unites us All.   

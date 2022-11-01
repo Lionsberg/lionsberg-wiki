@@ -11,7 +11,7 @@ To create a starting point that we can continuously improve together, I wrote ab
 
 I look forward to discussing and improving it together. 
 
-As you read, think about how we might be able to [[Fill Up What Is Lacking]] and [[Remove What Does Not Belong]] from the Old World in order to help make it more like the New World. 
+As you read, think about how we might be able to [[Filling Up What Is Lacking|Fill Up What Is Lacking]] and [[Removing What Does Not Belong|Remove What Does Not Belong]] from the Old World in order to help make it more like the New World. 
 
 Some might regard this kind of writing as foolish utopian nonsense. However there _might_ be a reason this kind of imagery has been passed down in sacred writings for thousands of years. 
 

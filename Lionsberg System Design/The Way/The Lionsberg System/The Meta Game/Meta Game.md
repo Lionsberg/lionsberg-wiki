@@ -330,7 +330,7 @@ In other words, the Core DNA and mechanics of the Meta Game, if it works, will b
 Because the New World by definition belongs to each one of its past, current, and future inhabitants, if every being on earth can't or doesn't want to play the Game, it is still not designed properly.  
 
 ## Continuous Improvement and Tipping Point Strategy
-Because we will not be able to get it right at first, and because we need to learn how to play, and because social dynamics follow natural tipping point / user adoption patterns, all we need is to get a play group of us playing the Game, and [[Get A Little Better Every Day]] so that it attracts and can grow by the [[Wise Right]] next 62% expansion. 
+Because we will not be able to get it right at first, and because we need to learn how to play, and because social dynamics follow natural tipping point / user adoption patterns, all we need is to get a play group of us playing the Game, and get [[A Little Better Every Day]] so that it attracts and can grow by the [[Wise Right]] next 62% expansion. 
 
 ## Timing
 It only takes 33 to 50 expansion cycles of 62% percent (Fiboacci), depending on loss rates, for each of 8 or 9 billiion people on earth to receive an invitation to the Game. 

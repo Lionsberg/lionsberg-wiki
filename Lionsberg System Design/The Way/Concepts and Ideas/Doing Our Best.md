@@ -14,4 +14,4 @@ For example:
 
 2. As you evaluate [[Progress]], do not measure yourself against the Absolute. Rather, measure your [[Progress]] and [[Continuous Improvement]] over time. 
 
-These two paradigms, [[Doing Our Best]] and [[Get A Little Better Every Day]], result in the aggregation of maginal gains over time to reap the exponential benefits of compounding. 
+These two paradigms, [[Doing Our Best]] and [[Becoming]] [[A Little Better Every Day]], result in the aggregation of marginal gains over time to reap the exponential benefits of compounding. 

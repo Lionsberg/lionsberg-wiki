@@ -51,7 +51,7 @@ It also made it entirely clear that the fundamental transformation of Life and C
 
 Jordan wrote frantically for about two hours, downloading the essence of the revelation and its general contours and plan. 
 
-It was akin to the first "back of the napkin" sketch an Architect might do, before progressively creating the [[Meta Project Plans and Specifications|Plans and Specifications]] over the coming years, and then overseeing their implementation into Reality. 
+It was akin to the first "back of the napkin" sketch an Architect might do, before progressively creating the [[Lionsberg Plans and Specifications|Plans and Specifications]] over the coming years, and then overseeing their implementation into Reality. 
 
 After 33 years of building Consciousness and pondering, there was finally a tangible and concrete [[Path]], [[Milestones]], and [[Program of Action]] that _might work_. 
 
@@ -155,7 +155,7 @@ It might look, feel, and smell something like the Vision described in the [[Best
 
 The [[Universal Symphony]] will sound, as all Creation harmonizes their unique instruments to the [[Fundamental Tone]]. 
 
-It will be something like [[Heaven]] on Earth, and although it already feels perfect, it will be continuing to [[Get A Little Better Every Day]] because we are all striving together in harmony to make it so. 
+It will be something like [[Heaven]] on Earth, and although it already feels perfect, it will be continuing to [[Become]] [[A Little Better Every Day]] because we are all striving together in harmony to make it so. 
 
 The [[Best Possible Future]] is here and already at hand, the moment that all humanity decides to lay down its arms and work together to co-create it for the the Good of [[All]] past, present, and future generations of Life and Consciousness. 
 

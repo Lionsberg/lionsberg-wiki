@@ -184,4 +184,4 @@ Lionsberg is a System and Community in which any individual, organization, or co
 
 ## Stage 5: Continuous Learning and Improvement
 
-This is all a [[Work In Progress]]. From this basic starting point, we will work to learn, improve, and [[Get A Little Better Every Day]].  
+This is all a [[Work In Progress]]. From this basic starting point, we will work to learn, improve, and get [[A Little Better Every Day]].  

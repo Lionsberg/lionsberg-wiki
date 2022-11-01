@@ -84,7 +84,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 17. We will [[Doing Our Best|Do Our Best]] to Leave Every Thing and Every One a Little Better than we Found them   
 
-### 18. We will [[Doing Our Best|Do Our Best]] to [[Get A Little Better Every Day]]   
+### 18. We will [[Doing Our Best|Do Our Best]] to [[Become]] [[A Little Better Every Day]]   
 
 ### 19. We will [[Doing Our Best|Do Our Best]] to Speak Truth in Love  
 

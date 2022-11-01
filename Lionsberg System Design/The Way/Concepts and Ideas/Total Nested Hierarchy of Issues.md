@@ -38,7 +38,7 @@ In short, a heart of Love would want for all things to develop into the fullness
 
 The vast majority of Issues that any Individual, Organization, or Community faces are [[General Issues]] and [[General Problems]] common to All. 
 
-If we developed [[General Solutions]] to these issues, problems, and challenges we would not need to continually "reinvent the wheel", and could instead cause the solutions available to All to [[Get A Little Better Every Day]]. 
+If we developed [[General Solutions]] to these issues, problems, and challenges we would not need to continually "reinvent the wheel", and could instead cause the solutions available to All to [[Become]] [[A Little Better Every Day]]. 
 
 The Total Nested Hierarchy of Issues gives rise to a [[Total Nested Hierarchy of Goals]]. Goals are the positive expression of what can or should be done in response to the problems or desires we are facing. 
 

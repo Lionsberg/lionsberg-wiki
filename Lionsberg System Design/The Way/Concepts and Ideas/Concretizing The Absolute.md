@@ -12,4 +12,4 @@ We can participate in, relate to, and experience the [[Meta]] level, however the
 
 [[Knowledge]] in the [[Lionsberg System]] System is organized through the lens of a [[Meta Science]] that reflects our [[Current Best Understanding]], with the humble acknowledgement that it is partial and incomplete at best. 
 
-Grappling with the [[Absolute]] as an eternal and ineffable mystery, while still aiming at it and trying to [[Get A Little Better Every Day]] as we progress towards It, is the antidote to this [[Patterns of Failure|Pattern of Failure]]. 
+Grappling with the [[Absolute]] as an eternal and ineffable mystery, while still aiming at it and trying to [[Become]] [[A Little Better Every Day]] as we progress towards It, is the antidote to this [[Patterns of Failure|Pattern of Failure]]. 

@@ -24,7 +24,7 @@ Critically, we are avoiding some of the known methods that harm / fail by:
 11. Working to strengthen and empower the individual and local. 
 12. Working to build the shared infrastructure and solutions that no individual or locality can possess or create in isolation. 
 
-Most of all, we are attempting to thoughtfully articulate a [[Way of Being]] that is as wise, as competent, and as good as we possibly can, and to ensure that we [[Get A Little Better Every Day]] as we advance towards the Goal, and help All things advance with us. 
+Most of all, we are attempting to thoughtfully articulate a [[Way of Being]] that is as wise, as competent, and as good as we possibly can, and to ensure that we [[Become]] [[A Little Better Every Day]] as we advance towards the Goal, by [[Helping All Do The Same]].  
 
 We are doing our best in service to accomplish the [[Meta Goal]] in service of [[One]] and [[All]], and we believe that is the safest, most helpful, and most powerful paradigm through which we could perceive and act in this moment in history. 
 

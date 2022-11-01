@@ -34,7 +34,7 @@ Mountains are easy to move by Faith, and with Unity. If 8 billion of us simply d
 
 ...all things would be possible... exceedingly and abundantly beyond all we could ask or imagine. 
 
-It might not be enough, but I have a reasonable idea of how we can accomplish this. It contains a thousand holes, and it requires your unique insights and help. Yet it is a [[Starting Point]], and [[It Might Work]] if we simply began and committed [[Get A Little Better Every Day]].  
+It might not be enough, but I have a reasonable idea of how we can accomplish this. It contains a thousand holes, and it requires your unique insights and help. Yet it is a [[Starting Point]], and [[It Might Work]] if we simply began and committed to [[Becoming]] [[A Little Better Every Day]].  
 
 "All" we have to do, is build a Philosophy, a Community, and a System, and a properly ordered [[Way of Being]], all defined and cohered by Love, purpose-built to create [[Throughput]] of the [[Work]] that must be done to accomplish the [[Total Nested Hierarchy of Goals]] and solve the [[Total Nested Hierarchy of Issues]], all of which are part of one continuously improving thing. 
 
