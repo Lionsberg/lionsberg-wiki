@@ -52,10 +52,10 @@ By [[Jordan Nicholas Sukut]]
 [[4.2 Dopamine]]  
 [[4.3 Rewiring Our Brain]]  
 
-[[4.5 The Proper Orientation And Stance]]  
-[[4.6 The Improper Orientation And Stance]]  
+[[4.4 The Proper Orientation And Stance]]  
+[[4.5 The Improper Orientation And Stance]]  
 
-[[4.10 That Which We Fear]]  
+[[4.19 That Which We Fear]]  
 
 
 ## Five - An Individual And Local Way Forward
