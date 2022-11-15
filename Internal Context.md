@@ -21,6 +21,8 @@ To date, we have created an integrated an comprehensive [[Story]], [[System]], [
 
 We are now inviting a [[Group Of Groups]] into Communication and Community so that we can [[Deep Listening|Listen Deeply]] to [[One Another]] and [[Help One Another]]. 
 
+We are doing this in the form of a [[Game]]. 
+
 Our approximate near term [[Aim]] is to connect 1 billion groups to the Lionsberg [[Platform]] and [[Community]] within 7 years, by Q4 2029. 
 
 This [[Milestones|Milestone]] will place us in a position to accomplish the 2040 and 2050 Goals, and pass the baton. 

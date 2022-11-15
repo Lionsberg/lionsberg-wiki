@@ -5,9 +5,13 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 ## Featured Posts
 
 
+## November 2022
+
+- [[Above The Chaos, The Great Game of Lionsberg]] - rough draft in progress
+- [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
+
 ## October 2022
 
-- [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
 - [[Above The Chaos, The Story I Am Telling My Self About Where We Are, Where We Are Going, And Why It Matters So Damn Much]]  
 - [[Above The Chaos, Why I Am Risking Everything To Build Lionsberg In Service Of The Meta Project]]  
 - [[Above The Chaos, Curating Solutions To Build (Or Rebuild) Life And Society]]  

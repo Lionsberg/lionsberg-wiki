@@ -1,4 +1,6 @@
 # Provisional Trust Manifesto
+_Drafted August 2022. Updated November 2022_
+
 Hello Friends and Allies, 
 
 This document is being written in response to requests from the field for a "Trust Manifesto". 

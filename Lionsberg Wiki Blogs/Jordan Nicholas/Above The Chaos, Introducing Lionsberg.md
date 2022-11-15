@@ -1,5 +1,9 @@
 # Above The Chaos, Introducing Lionsberg
 
+By [[Jordan Nicholas Sukut]], 2022.11.01 _(updated 2022.11.01)_
+
+A post in [[Above The Chaos]].
+
 This week marks a turning point. 
 
 We have been thinking about this moment since waking consciousness. 

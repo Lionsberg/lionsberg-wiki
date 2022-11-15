@@ -8,5 +8,5 @@ It affords [[Autonomy]], which in conjunction with [[Agency]] is crucial to the 
 
 The locus of [[Sovereignty]] and inherent Divine worth lies inalienably with the [[Individuals|Individual]]. 
 
-The [[Lionsberg System]] dispenses with the abstractions, [[Categories]], [[Classes]] and power structures of the [[Old World]], and recognizes the inherent worth, dignity, and Sovereignty of each Individual and locality. 
+The [[Lionsberg System]] dispenses with the abstractions, [[Categories]], [[Classes]] and power structures of the [[Old World]], and begins with the inherent worth, dignity, and Sovereignty of each Individual and locality. 
 

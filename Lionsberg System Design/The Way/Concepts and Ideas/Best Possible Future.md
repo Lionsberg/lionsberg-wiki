@@ -1,15 +1,15 @@
 # Best Possible Future
-Of all the potential Futures that we could pull into Reality, which one lies at the absolute top, as the Best Possible Future, or what we might call the Meta Future in the Lionsberg System? 
+Of all the potential Futures that we could pull into Reality, which one lies at the absolute top, as the Best Possible Future? 
 
 Like everything else at this [[Meta Level]] of abstraction, this takes us into the realm beyond concrete propositions and knowledge. It takes us into the realm of images, dreams, and imaginations. 
 
-And even at the out edges of our imagination, we can be certain that what is possible is _exceedingly and abundantly beyond all we could ask or imagine._ 
+We can be certain that what is possible is _exceedingly and abundantly beyond all we could ask or imagine._ 
 
-But let's explore the [[Configuration Space]] / [[Creative Field]] to see what might be possible. 
+Let's explore the [[Configuration Space]] / [[Creative Field]] to see what might be possible. 
 
-If we can develop a conceptul intuition for it that is at least close to the Goal, and then Aim unwaveringly at it and begin progressing towards it, we can improve our Vision and Aim over time as we get [[A Little Better Every Day]].  
+If we can develop a conceptual intuition for it that is at least close to [[The Goal]], and then Aim unwaveringly at it and begin progressing towards it, we can improve our [[Vision]], our [[Aim]], and our [[Reality]] over time as we get [[A Little Better Every Day]].  
 
-If on the other hand we fail to develop a Vision and Aim for it, we will perish wandering in the desert that lies between [[Where We Are]] and [[Where We Are Going]]. 
+If we fail to develop a Vision and Aim for it, we will perish wandering in the desert that lies between [[Where We Are]] and [[Where We Are Going]]. 
 
 This is an opening Vision that we can begin to improve together as discover how to [[Filling Up What Is Lacking|Fill Up What Is Lacking]], and [[Removing What Does Not Belong|Remove What Does Not Belong]]. 
 
@@ -26,14 +26,15 @@ As we gaze out into the Best Possible Future... What do we see? What do we hear?
 - We see a world that is perfect, and yet it continues to get better every day as we all strive in harmony to make it so  
 - We see Restoration and Justice for the exploited, oppressed, and dispossessed  
 - We see the spoils extracted from the weak returned and divided up among them, creating a New Era of abundance  
-- We see a Great Forgiveness and Jubilee  
+- We see a [[Great Forgiveness]] and Jubilee  
 - We see pure living waters flowing throughout the earth  
-- We see liberation from every corrupt and oppressive authority on earth, and New government that is Just and Good  
-- We see the Highest Will and Intention of the One being actually done, on Earth as it is in Heaven  
-- We see All dwelling in peace, security, and abundance, liberated from the fear of violence, warfare, and oppression  
+- We see liberation from every corrupt and oppressive authority on earth
+- We see a [[New]] [[Governance]] that is Just and Good  
+- We see the Highest Will and Intention of the [[One]] being done [[On Earth As it Is In Heaven]]   
+- We see [[All]] dwelling in peace, security, and abundance, liberated from the fear of violence, warfare, and oppression  
 - We see renewal, restoration, and regeneration  
-- We see a remembrance of the ancient ceremonies, feasts, and traditions  
-- We see a world in harmony under the Authority of the Universal Law of Love  
+- We see A [[Great Remembrance]] of the ancient ceremonies, feasts, and traditions  
+- We see a world in [[Harmony]] under the Authority of the Universal Law of Love  
 - We see mediation, justice, and peace between the tribes and nations that were formerly at war  
 - We see our weapons transformed into tools that cultivate flourishing and abundant life  
 - We see a permanent enduring peace in which we no longer train our children to war against and destroy one another  
@@ -145,7 +146,7 @@ What are some of the evils that you would like to see abolished in the New World
 What are some of the Goods that you long to see burst forth? 
 - What pragmatic steps might we take to [[Filling Up What Is Lacking|Fill Up What Is Lacking]]? 
 
-Let's build our Vision together and align, as we labor together to Co-Create the New World. 
+Let's build our Vision together and align, as we labor together to Co-Create the [[New World]]. 
 ___
 
 So given [[Where We Are]], how do we get to [[Where We Are Going]]? How can we possibly cross the chasm that lies between the Old World of captivity and the Land of Promise? 

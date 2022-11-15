@@ -14,12 +14,6 @@ The degree to which [[The Story of Lionsberg]]  will become [[True]] and Embodie
 
 Because we are [[Co-Creating]] our [[Reality]], right [[Here]] and [[Now]]. 
 
-
-
-
-
-It is [[True]] in the sense that 
-
 [[One]] and [[All]] are the conceptual limits of the [[Highest Order Functional Unity]] that encompasses [[All]] things.  
 
 We are [[All]], individually and collectively, part of this Fundamental Unity, whether we acknowledge and act like it or not. 

@@ -11,4 +11,7 @@ Remember, the entire [[Lionsberg System]] is designed to function as an Integrat
 
 So We strongly encourage [[All]] to follow the [[Standards Of Interoperability]] that allow the Whole to emerge and function properly. 
 
-[[Superlative of Superlatives]]
+[[Team of Teams]]  
+[[Group Of Groups]]  
+[[Community of Communities]] 
+[[Superlative of Superlatives]]  
