@@ -1,11 +1,12 @@
-# 6.14 Functional Accountability
+# Functional Accountability
+
 The [[Lionsberg System of Governance]] is rooted in Functional Accountability across levels of abstraction, rather than hierarchy. 
 
 It views the entire Human System and Living System as one Whole / Body, with each element of the System responsible and accountable to certain functions within the System. 
 
 Each Circle, Organization, and Community should develop a Functional Accountability Chart. 
 
-While Circles necessarily delegate Functional Accountability to Individuals, they should retain full Accountability and Responsibility for All Functions at the Circle Level. 
+While Groups necessarily delegate Functional Accountability to Individuals, they should retain full Accountability and Responsibility for All Functions at the Group Level. 
 
 Organizations should delegate functional accountability to [[Groups]], not Individuals. 
 
@@ -15,6 +16,6 @@ This prevents the entire weight of the Whole from every resting on a single poin
 
 ___
 
-Forward to [[6.15 Levels of Abstraction]]  
+Forward to [[Levels of Abstraction]]  
 Back to [[6.13 Integrated Delivery]]  
 Back to Table of Contents [[Lionsberg Governance Guide]]

@@ -1,4 +1,4 @@
-# 6.12 Structure
+# Structure
 Each Individual, Circle, Organization, and Community should adopt a [[Wise Right]] [[Structure]] that is appropriate for their current [[State of Being]], and development towards their [[Potential]].  
 
 It is very difficult to model the principles and behaviors of the New World in the antiquated structures of the Old World, so it is our duty to design and build the best New structures we can. 
@@ -14,22 +14,6 @@ Over time, all structures should strive to conform themselves towards the Most F
 A legally federated [[Stewardship Structure]] is the [[Ideal]], and should be activated in all areas where possible as a pragmatic aid to governance. 
 
 For an example of a federated Stewardship Structure, see [[Provisional Structure]].  
-
-## Flexibility and Compatibility 
-
-Any form of Structure can be made compatible with the [[Lionsberg System]] through the use of Voluntary [[Agreements]]. 
-
-For example, even a group of physicians, attorneys, or other licensed professionals who are prohibited from co-operating in a [[Stewardship Structure]] can [[Act As If]] they were operating on the basis of Federated Stewardship by Integrating themselves with the System through [[Agreements]].  
-
-There is nothing that prevents any individual, circle, tribe, state, nation or association from voluntarily choosing to play the Meta Game.  
-
-Over time, _many_ different structures of _many_ different types will need to [[Organize and Federate]] in order for us to accomplish [[The Goal]]. 
-
-## Legal Infrastructure 
-
-To facilitate this, and lower the legal and compliance costs for [[All]], [[Lionsberg]] establishes Prototypical Structures as shared [[Infrastructure]] that can be leveraged by those advancing together towards [[The Goal]]. 
-
-See [[Provisional Structure]].  
 
 
 ___

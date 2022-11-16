@@ -1,4 +1,5 @@
-# 6.15 Levels of Abstraction
+# Levels of Abstraction
+
 While systems of hierarchy are often misunderstood, misused, and abused, Systems must be understood and operated with a reasonable understanding of [[Depth]] and [[Levels Of Abstraction]].  
 
 In complex adaptive Systems such a Body or a Tree, Decisions must be made and the System must be structured according to Depth, such that the System prioritizes the Trunk of the Tree over a Leaf, and the Heart of the Body over the hair.  
@@ -13,16 +14,16 @@ Where hierarchy and differentiated levels of abstraction can be misused is when 
 
 If instead ontologies and levels of abstraction are productively used to differentiate out and organize understanding and action, such as in an outline, the Dewey Decimal System or the Work Breakdown Structure in a Project Plan, they can be extremely useful in terms of organizing and prioritizing energy and action. 
 
-In its best and highest use, the Whole is perceived and related to first in its entirety, prior to being broken down into various levels of analysis that create the ability to relate to the Whole through the relative simplicity of headings and categories, without mistaking the Map for the Territory. 
+In its best and highest use, the [[Whole]] is perceived and related to first in its entirety, prior to being broken down into various levels of analysis that create the ability to relate to the Whole through the relative simplicity of headings and categories, without mistaking the Map for the Territory. 
 
 The categories and differentiated levels of abstraction / analysis allow for the mass of details, processes, and steps to be managed and understood in an organized way, without losing the ability to relate to the System _first_ and primarily as a Whole. 
 
-Properly viewed, the Left Hemisphere / Analytical / Differentiated view affords the opportunity to serve and support by aligning and supporting each element of the Whole correctly and usefully for All, without losing the Right Hemisphere / Intuitive / Receptive perception of the Whole as the interexistent Mystery that it is. 
+Properly viewed, the [[Left Hemisphere]] / Analytical / Differentiated view affords the opportunity to serve and support by aligning and supporting each element of the Whole correctly and usefully for All, without losing the [[Right Hemisphere]] / Intuitive / Receptive perception of the Whole as the interexistent Mystery that it is. 
 
 The Lionsberg System attempts to afford a useful philosophical and conceptual hierarchy to promote understanding and organization, while protecting the primacy of right relationship in the Whole.  
 
 ___
 
-Forward to [[6.16 Federal Governance of the Whole]]  
-Back to [[6.14 Functional Accountability]]  
+Forward to [[Federal Governance]]  
+Back to [[Functional Accountability]]  
 Back to Table of Contents [[Lionsberg Governance Guide]]

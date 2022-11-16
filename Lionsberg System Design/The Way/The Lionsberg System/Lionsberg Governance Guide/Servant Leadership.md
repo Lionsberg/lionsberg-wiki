@@ -1,11 +1,9 @@
-# 6.18 Servant Leadership
+# Servant Leadership
 The Lionsberg System is rooted in the understanding that [[Leadership]] is in service of, rather than in power over. 
 
 This is often called [[Servant Leadership]]. 
 
 ## How Leaders Are Recognized 
-
-
 
 
 ## Founding Leaders 
@@ -14,14 +12,14 @@ This is often called [[Servant Leadership]].
 ## Intrapreneurs 
 
 
-## Team Leaders 
+## Group Leaders 
 
-
+[[TKTK]] 
 
 ___
 
-Forward to [[6.19 Provisional Legal and Governance Structure]]
-Back to [[6.17 Executive Branch]]  
+Forward to [[Provisional Legal and Governance Structure]]
+Back to [[Executive Branch]]  
 Back to Table of Contents [[Lionsberg Governance Guide]]
 
 

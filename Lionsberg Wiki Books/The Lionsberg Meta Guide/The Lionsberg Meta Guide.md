@@ -84,6 +84,17 @@ Some of the tones, tenses, and voices may be discordant as we work to synergize 
 [[Organize and Federate]]   
 [[Co-Operation]]  
 [[Fractal Sovereignty]] 
+[[Organizations The Lionsberg Way]]  
+
+## Roles
+[[Roles]]  
+[[Functional Accountability]]  
+[[Levels of Abstraction]]  
+[[Servant Leadership]]  
+
+## Meetings
+
+[[Meetings]] 
 
 ## Projects and Programs  
 
@@ -106,12 +117,13 @@ Some of the tones, tenses, and voices may be discordant as we work to synergize 
 [[Meta Goal]]  
 [[Total Nested Hierarchy of Goals]]  
 
-[[Left Off Here]]  
-
 ## Transformation And Development  
 
 [[Transformation]]  
 [[Human Development]]  
+[[Group Development]] 
+[[Community Development]]
+[[Elevation Initiative]]  
 
 ### Rights and Responsibilities 
 [[Rights and Responsibilities]]  
@@ -125,28 +137,44 @@ Some of the tones, tenses, and voices may be discordant as we work to synergize 
 [[Enact|Enacting]]  
 [[Embody|Embodying]]  
 
-### Elements of the Lionsberg Governance System 
+### Decision Making  
+
+[[Decision Making]] 
+[[Proposals]]  
+[[Consent]]  
+[[Objection]] 
+[[Delegation]] 
+
+### Federal Governance 
 
 [[6.0 Components of The Lionsberg Governance System]]  
+
 [[Constitution]]  
+[[Structure]]  
+[[Flexibility And Compatibility]] 
+[[Legal Infrastructure]] 
 [[Transparency and Accountability]]  
-[[Participatory Governance]]   
-[[Roles]] 
-[[Meetings]]  
-[[6.12 Structure]]  
-[[6.13 Integrated Delivery]]  
-[[6.14 Functional Accountability]]  
-[[6.15 Levels of Abstraction]]  
-[[6.16 Federal Governance of the Whole]]  
-[[6.17 Executive Branch]]  
-[[6.18 Servant Leadership]]  
-[[6.19 Provisional Legal and Governance Structure]]  
+[[Federal Governance]]  
+[[Power Of The Republic]] 
+[[Universal Rule Of Law]]  
+[[Local Rule Of Law]] 
+[[Separation Of Power]]  
+[[Executive Branch]]  
+[[Legislative Branch]] 
+[[Judicial Branch]]  
+[[Regulatory Branch]]  
+[[Core, Official, and Ancillary Groups]] 
+[[Wisdom Council]]  
+[[Provisional Structure]]  
+[[Provisional Legal and Governance Structure]]  
+[[Founding Leaders]] 
+[[Founding Leader Phase At Federal Level]]  
+[[A New Sovereignty]] 
 
 ### Minimum Standards of Interoperability
 [[Minimum Standards of Interoperability]] 
 
 ### The Ideal  
-
 
 ### Common Governance Issues 
 [[Campaigning and Making Promises]]  
@@ -189,8 +217,6 @@ Also See [[Organizations The Lionsberg Way]]
 [[BIM And Real Time Estimating]] 
 [[Target Value Design (TVD)]]  
 [[The Economic Case For IPD]]  
-
-
 [[Work]]  
 [[Lionsberg Integrated Delivery System]]  
 [[Value]]  
@@ -255,7 +281,8 @@ Also See [[Organizations The Lionsberg Way]]
 [[System Wide Master Plan]]  
 [[Living System Alignment]] 
 [[Program Services And Support]]  
-
+[[Guilds]] 
+[[Program and Process Management Guild]] 
 
 ## 1. Introduction
 

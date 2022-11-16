@@ -1,9 +1,9 @@
 # Organizations The Lionsberg Way
 **Organizations The Lionsberg Way** describes pattens, processes, and tools that help [[Sovereign]] and [[Autonomous]] [[Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
-We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
+We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continuously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
-In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Program Delivery Teams [[IPD Teams]]. These are relatively interchangable [[Word Tool|Word Tools]] meant to point at autonomous groups collaborating in service of a Goal. 
+In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Program Delivery Teams [[IPD Teams]]. These are relatively interchangeable [[Word Tool|Word Tools]] meant to point at autonomous groups collaborating in service of a Goal. 
 
 ## Purpose of Organizations
 Organizations emerge to help groups of people accomplish what individuals cannot accomplish in isolation. 
@@ -57,6 +57,8 @@ Three can break a tie vote. A third perspective adds depth.
 
 ### Establish Rules of Participation
 Establish how people will participate in the Organization, and how the Organization will participate with other Organizations. 
+
+[[Rules of Participation]] 
 
 ### Align Goals with the Goals of One or More Federations
 We would highly recommend that: 

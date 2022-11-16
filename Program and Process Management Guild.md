@@ -1,21 +1,10 @@
-# 1.5 Guilds
-The large scale decentralized and coordinated activity required necessitated that the [[Federation]] discern how it would organize itself to train, equip, and empower the vast array of [[Functions]] that would be required for it to succeed as a [[Whole]] in its [[Mission]]. 
+# Program and Process Management Guild
 
-## 1.5.1 Capacity Building 
-One core function of the [[Guilds]] would be to build capacity in key functional areas across the distributed network of [[Sovereigns]] in the [[Federation]]. 
-
-## 1.5.2 Functional Accountability
-A second core function of the [[Guilds]] would be to establish [[Core Team|Core Teams]] who would be accountable for the proper functioning of their unique part of the [[Whole]].  
-
-## 1.5.3 Organs in a Body
-A metaphor was established to reflect that the [[Whole]] needed to operate as if it were a single body. In this metaphor, each guild would represent the [[Functions|Function]] of a particular organ or organ system. 
-
-## 1.5.4 The Program and Process Management Guild
 Given the scope and complexity of the total [[Program of Action]] that the [[Receiver]] needed to undertake, it was apparent early on that one of the core functions that would need to emerge early was [[Program and Process Management]]. 
 
 The [[Core Team]] of the [[Program and Process Management Guild]] would be responsible for acting as an agent and liason of the [[Receiver]] to integrate and coordinate the diverse [[Functions]], [[Process|Processes]], and activities of the [[Whole]] as it worked together to produce [[Throughput]] of the [[Goal]]. 
 
-### 1.5.4.1 Program Management Responsibilities Include
+## Program Management Responsibilities Include
 
 - **Program Management** - Overall management of the Receiver's [[Meta Improvement Program]]. 
 - **Management Policies and Procedures** - Facilitate development of appropriate standards, policies, and procedures to guide the safe, cost-effective, values-driven, and coordinated design and implementation of the total [[Program of Action]]. 
@@ -30,7 +19,7 @@ The [[Core Team]] of the [[Program and Process Management Guild]] would be respo
 - **Conferences, Research, and Learning** - attend to technical learning opportunities to develop and maintain expertise, share knowledge, and further the global network of program participants. 
 - **Integrating Design, Implementation, and Operations** - Establish policies and procedures for seamlessly llinking together design, implementation, and operations phases, including the use of technology such as BIM to assist in [[Integrated Project Delivery]] and technical coordination between phases. 
 
-### 1.5.4.2 Program Development Responsibilities
+## Program Development Responsibilities
 The Program Manager will also work with the [[Receiver]] to fulfill various remaining and ongoing [[Program Development]] responsibilities. 
 
 These include: 
