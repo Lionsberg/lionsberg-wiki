@@ -273,6 +273,8 @@ Also See [[Organizations The Lionsberg Way]]
 [[Cooperation Vs. Competition]] 
 [[Core Enterprise]]  
 
+[[2.0 Program Development]] - Coming Soon  (Breaking down and incorporating into the above) 
+
 ### Program Delivery 
 
 [[Instantiation Of The Prototype]] 
@@ -284,21 +286,13 @@ Also See [[Organizations The Lionsberg Way]]
 [[Guilds]] 
 [[Program and Process Management Guild]] 
 
-## 1. Introduction
+(Coming Soon - Breaking Down and Incorporating Into The Above) 
+[[3.0 Program Delivery]]   
+[[3.1 Project Delivery Guide]]   
+[[3.2 Template For Project]]   
+[[3.3 Communications and Reporting]]   
 
-[[1.5 Guilds]]  
-
-
-## 2. Program Development
-[[2.0 Program Development]] - Coming Soon  
-
-## 3. Project Delivery
-[[3.0 Program Delivery]]  
-[[3.1 Project Delivery Guide]]  
-[[3.2 Template For Project]]  
-[[3.3 Communications and Reporting]]  
-
-## 4. Conclusion
+### Integrated Delivery Conclusion
 [[4.0 Conclusion]]  
 
 

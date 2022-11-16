@@ -238,6 +238,9 @@ If it is helpful to you, be encouraged and inspired.
 
 ### Chapter Eight - The Quest of Humanity
 
+[[Odysseus And Adverse Winds]] 
+
+
 History... 
 Enslavement... 
 Liberation... 
