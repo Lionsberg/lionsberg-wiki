@@ -21,10 +21,10 @@ In general, Individuals:
 
 - Have a defined Aim / Goal  
 - Have responsibility and authority in a [[Domain]]  
-- Participate in one or more [[Circles]] 
+- Participate in one or more [[Groups]]  
 - Have one or more defined [[Roles]]  
 - Process and Solve [[Issues]]  
 - Make decisions based on [[Discernment]] and [[Consent]]   
 
-To accomplish things they cannot do on their own, Individuals [[Organize and Federate]] into [[Circles]] and [[Communities]].   
+To accomplish things they cannot do on their own, Individuals [[Organize and Federate]] into [[Groups]] and [[Communities]].   
 

@@ -7,3 +7,5 @@ The idea of the [[Meta Fund]] is critical because it provides a framework in whi
 
 All of our resources, whether we acknowledge it or not, are part of the total set of resources available to humanity and the Living System. The question is how consciously and competently we are deploying them, individually and collectively. 
 
+___
+The successful completion of the [[Meta Project]] requires the co-creation of a [[Meta Fund]] to resource [[Throughput]] of the [[Meta Goal]].  

@@ -9,3 +9,7 @@ A close approximation can be found in articulations like the United Nations Sust
 [[All]] [[Life]] is longing for a [[Better World]] in which we are liberated from unnecessary suffering, and have the opportunity to develop into our potential and flourish. 
 
 See [[Total Nested Hierarchy of Goals]].  
+
+The [[Total Nested Hierarchy of Goals]] is unified by [[One]] overarching and uniting [[Meta Goal]].  
+
+The Purpose of the [[System]] is to bring the [[Total Nested Hierarchy of Goals]] into [[Reality]]. 

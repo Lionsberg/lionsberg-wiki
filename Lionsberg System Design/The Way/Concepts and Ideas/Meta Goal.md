@@ -12,6 +12,6 @@ It could be described as (something like):
 
 _The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._  
 
-Making this Goal a Reality would require solving the total set of problems and accomplishing the total set of goals. 
+Making this Goal a Reality would require solving the [[Total Nested Hierarchy of Issues]] and accomplishing the [[Total Nested Hierarchy of Goals]]. 
 
 This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect [[Unity]] that lies at the end of the [[Logic of Love]].  

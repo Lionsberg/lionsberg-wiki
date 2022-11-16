@@ -20,6 +20,6 @@ The combination of these three levels of analysis should:
 
 ___
 
-Forward to [[System Values]]  
+Forward to X  
 Back to [[3.1 The Function of Governance]]  
 Back to Table of Contents [[Lionsberg Governance Guide]]

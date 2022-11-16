@@ -66,7 +66,7 @@ Hello! We are excited to announce that we have begun migration of the Lionsberg 
 ## 9. The Starting Point 
 
 ## 10. Common Governance Issues 
-[[10.1 Campaigning and Making Promises]]  
+[[Campaigning and Making Promises]]  
  
 
 [[Work In Progress]] - [[Left Off Here]] 

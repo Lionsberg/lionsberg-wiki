@@ -10,7 +10,7 @@ In the case of [[Lionsberg]], [[The Goal]] of the [[System]] is the [[Meta Goal]
 
 Accomplishing the [[Meta Goal]] and thereby forging the [[Best Possible Future]] for [[All]] requires a massive amount of [[Work]]. 
 
-[[Work]] requires the transfer of [[Energy]] via the application of [[Force]] along a vector / towards an [[Aim]]. 
+[[Work]] requires the transfer of [[Energy]] via the application of [[Force]] along a [[Vector]] towards an [[Aim]]. 
 
 Recognizing that none of us can hit [[The Aim]] alone, how could a universal [[Force For Good]] arise and unite to do the [[Work]] required to accomplish [[The Goal]]? 
 
@@ -24,7 +24,7 @@ Therefore there is no viable alternative but to rise into [[Higher Order Functio
 
 Our [[Current Best Understanding]] is that we should build one [[System of Systems]] that [[All]] tribes, nations, and peoples can connect to, which will connect them to [[One Another]] and enable [[All]] to communicate and [[Help One Another]] flourish in harmony. 
 
-This [[System of Systems]] should not be a monolith, but a tapestry of a diverse array of unique and localized systems, that collectively and voluntarily rise up to the [[Minimum Standards of Interoperability]] that enable [[All]] to flourish as one. 
+This [[System of Systems]] should not be a monolith, but a tapestry of a diverse array of unique and localized systems, that collectively and voluntarily rise up to the [[Minimum Standards of Interoperability]] that enable [[All]] to flourish as one, without becoming over-centralized and therefore fragile. 
 
 ## A Starting Point For Continuous Improvement
 

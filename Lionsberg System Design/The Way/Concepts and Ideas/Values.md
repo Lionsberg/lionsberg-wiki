@@ -12,6 +12,20 @@ Each Individual, Group, and Community in the System is encouraged to adopt the L
 
 [[Template For Values]] 
 ___
+The [[Core Values]] of any System are like the guard rails or boundaries that prevent us from getting swept off course as we [[Navigate]] towards [[The Goal]]. 
+
+The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
+
+They also must be integrated by a [[Total Nested Hierarchy of Values]], which must be unified and integrated by a single highest overarching and uniting [[Meta Value]]. 
+
+The [[Meta Value]] by definition contains within itself and orders all other [[Values]]. 
+
+By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
+
+In English, the [[One]] [[Meta Value]] has been articulated into a basic set of [[Universal Values]]. 
+
+The articulated [[Universal Values]] of the System "hold the space" around the [[Meta Value]]. 
+___
 
 The stream of thought below began in a section on [[Behavioral Code]], as we were working to define the [[Provisional Code]]. For this reason, it will start a bit abruply in a context that is highly related to how our Values show up in thought, words, and action. 
 

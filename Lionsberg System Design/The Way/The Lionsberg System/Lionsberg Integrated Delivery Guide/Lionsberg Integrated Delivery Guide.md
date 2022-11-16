@@ -16,11 +16,11 @@ And don't forget to review [[Organizations The Lionsberg Way]] to help ensure yo
 ## 1. Introduction
 [[1.0 Introduction]]  
 [[1.1 About This Guide]]  
-[[1.2 Background and Context]]  
-[[1.3 Proposed Systems, Facilities, Services, and Infrastructure]]  
+[[Background and Context]]  
+[[Proposed Systems, Facilities, Services, and Infrastructure]]  
 [[1.4 Time]]  
 [[1.5 Guilds]]  
-[[1.6 Critical First Steps Towards the Goal]]  
+[[Critical First Steps Towards the Goal]]  
 [[1.7 Integrated Delivery]]  
 
 ## 2. Program Development

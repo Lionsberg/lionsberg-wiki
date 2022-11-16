@@ -181,7 +181,7 @@ If it is helpful to you, be encouraged and inspired.
 [[6.21 The Simple Message Of The Quest Towards Oneness Through Love]]  
 [[6.22 Air, Water, Love, and Unity]]  
 [[6.23 There Is Only One]]  
-[[6.24 Retrospectives]]  
+[[Retrospectives]]  
 [[6.25 Hemlock And The Gods Of The State]]  
 [[6.26 The Tsunami]]  
 [[6.27 Love, Compassion, and Floodwaters]]  

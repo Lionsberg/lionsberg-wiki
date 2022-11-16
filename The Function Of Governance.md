@@ -4,7 +4,7 @@ In the context of a Mythical Story about a global community that awakened, arose
 
 ...what is the Function of Governance? 
 
-The function of a Governance System is to Navigate the Vessel towards its Destiny / Goal.  
+The function of a Governance System is to [[Navigate]] the Vessel towards its Destiny / Goal.  
 
 The word “Govern” derives from the Latin meaning “To Steer”. 
 

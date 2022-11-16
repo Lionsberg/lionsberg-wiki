@@ -1,6 +1,14 @@
 # Lionsberg Integrated Delivery System
 The Lionsberg Integrated Delivery System is Way for individuals, organizations, and communities to transform their energy and action into a _Goal Delivery System._ 
 
-This is critical to producing [[Throughput]] of the [[Total Nested Hierarchy of Goals]] required for life to develop towards the fullness of its [[Potential]] and flourish. 
+This is critical to producing [[Throughput]] of the [[Total Nested Hierarchy of Goals]] contained in the [[Meta Goal]]. 
 
-The articulation of the System is a [[Work In Progress]]. For now, see the [[Lionsberg Integrated Delivery Guide]] and the [[Lionsberg System]]. 
+The [[Lionsberg System]] is one integrated [[System of Systems]], that must be co-operated in its entirety to produce [[Throughput]] of [[The Goal]].  It is not possible for the [[Group Of Groups]] to accomplish [[The Goal]] without this element of the [[System of Systems]]. 
+
+The [[Lionsberg Integrated Delivery System]] is an [[Ideal]] that the [[Group Of Groups]] can [[Help One Another]] rise towards over [[Time]]. 
+
+Due to the wide range of experience in [[Program and Process Management]] across the [[Confederation]], we will have to bootstrap this up from a [[Minimum Viable]] [[Starting Point]]. 
+
+Like all other elements of the [[Lionsberg System]], the Integrated Delivery System will need to be brought into Reality in [[Minimum Viable]] form, and then progressively grown, [[Organically Complexified]], and continuously improved over [[Time]].
+
+As a [[Starting Point]], [[Groups]] can begin [[Acting As If]] [[Everything Is A Project]]. 

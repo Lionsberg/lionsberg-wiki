@@ -10,7 +10,7 @@ Each Group should do their best to [[Co-Operation|Co-Operate]] a [[Group Instanc
 
 The [[Group Instance]] is critical to ensuring that the Whole has Integrity, as a result of the Core System Components co-operating with [[Integrity]] at every [[Fractal]] level. 
 
-To accomplish things they cannot do on their own, [[Circles]] [[Organize and Federate]] by forming [[Sub Groups]] and [[Super Groups]].  
+To accomplish things they cannot do on their own, [[Groups]] [[Organize and Federate]] by forming [[Sub Groups]] and [[Super Groups]].  
 
 In general, Groups: 
 

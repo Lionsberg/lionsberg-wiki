@@ -32,11 +32,15 @@ The [[Aim]] is the [[Meta Goal]].
 
 The [[Spirit]] of [[Lionsberg]] is [[Absolute And Unconditional Love]] for [[One]] and [[All]].  
 
+Its Spirit is [[Truth]] and [[Love]].  
+
 ### Mission
 Our overarching and uniting Mission is to Progressively [[Realize]] [[The Goal]]. 
 
 ### Quest
-The Mission unfolds like a [[Quest]] towards a [[Worthy Goal]].  
+The Mission unfolds like a [[Quest]] towards the [[Most Worthy Goal]].  
+
+This allows each [[Individual And Local]] element to [[Choosing A Worthy Aim|Choose An Aim]] and embark on a Quest that stacks up and aligns the [[Energy]] [[Vector]] with the Whole [[Group Of Groups]] that is advancing together towards [[The Goal]]. 
 
 ### Personality 
 - Servant of All 

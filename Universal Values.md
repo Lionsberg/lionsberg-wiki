@@ -4,13 +4,13 @@ The entire [[Lionsberg System]] and [[Meta System]] are centered around self-evi
 
 In English, their underlying reality can be pointed towards with [[Word Tool|Word Tools]] such as: 
 
-Truth  
-Love  
-Justice  
-Stewardship
-Wisdom  
+[[Truth]]  
+[[Love]]  
+[[Justice]]  
+[[Stewardship]]
+[[Wisdom]]  
 
-The entire set of Values, or the [[Total Nested Hierarchy of Values]], can be derived from the Spirit or Essence of Absolute and Unconditional [[Love]]. 
+The entire set of [[Values]], or the [[Total Nested Hierarchy of Values]], can be derived from the Spirit or Essence of [[Absolute And Unconditional Love]]. 
 
 For an articulation of concrete behaviors and ways these Core Values show up in our lives and our work, see the [[Provisional Code]]. 
 

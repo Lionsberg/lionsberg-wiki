@@ -10,6 +10,10 @@ As the [[New]] Inbreaks, small [[Pockets Of Coherence, Integrity, and Proper Ord
 
 Pockets of [[Space]], [[Time]], [[Being]], and [[Doing]], that when we experience them, we say with our whole heart "This is [[Good]]."  
 
+One [[Way]] this occurs when the [[Lionsberg System]] is [[Instantiation|Instantiated]] in a new [[Domain]]. 
+
 Each one of these [[Pockets Of Coherence, Integrity, and Proper Order]] can be told as a [[Story]], and [[Every Story Is A Prophesy]] of something even Greater that is [[Possible]]. 
 
 Let us nurture, cultivate, and co-create ever more Pockets of Coherence, and begin to watch as they connect together in [[Right Relationship]] with [[One]] and [[All]]. 
+
+The first place every individual can establish [[Coherence]] and [[Integrity]] is in their Self, and their [[Small Groups]].  
