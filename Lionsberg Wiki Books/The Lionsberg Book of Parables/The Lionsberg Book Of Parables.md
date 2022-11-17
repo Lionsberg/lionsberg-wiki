@@ -4,5 +4,6 @@
 [[The Girl And The Boundary]]  
 [[The Rocket Ship]]  
 [[The Pastor And The Building]] 
-[[Odysseus And Adverse Winds]] 
+[[Odysseus And Adverse Winds]]  
+[[Israel's Desire For A King]]  
 

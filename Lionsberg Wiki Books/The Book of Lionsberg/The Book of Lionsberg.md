@@ -335,6 +335,22 @@ Liberation...
 [[9.19 Rules And Sacrifice]]  
 [[9.20 Rules And Power]]  
 [[9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State]]  
+[[9.22 All Generations Of Life Are Sacred And Sovereign]]  
+[[9.23 Sentience, Consciousness, And Sovereignty]]  
+[[9.24 Right Relationship And Inter-Existence]]  
+[[9.25 Our Supreme Identify And Citizenship]]  
+[[9.26 Incentives And The Battle Of Good And Evil]]  
+[[9.27 Collective Reflection On Culture]]  
+[[9.28 The Invitation To Sovereignty]]  
+[[9.29 Humanity's Desire For A King]]  
+[[9.30 Awakening To The Truth Of Right Relationship And Authority]]  
+[[9.31 Breaking The Rules To Do What Is Right]]  
+[[9.32 Legality Does Not Determine What Is Right]]  
+[[9.33 Society Does Not Determine What Is Right]]  
+[[9.34 Rules Must Only Be Broken With Great Caution]]  
+[[9.35 Government And Religion Get Authority Backwards]]  
+
+
 
 ### Chapter Ten - The Quest for Unity
 [[Chapter Ten - Coming Soon]]  
