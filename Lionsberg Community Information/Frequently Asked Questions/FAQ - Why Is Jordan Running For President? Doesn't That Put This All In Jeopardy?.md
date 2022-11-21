@@ -1,4 +1,4 @@
-# Why Is Jordan Running For President? Doesn't That Put This All In Jeopardy?
+# FAQ - Why Is Jordan Running For President? Doesn't That Put This All In Jeopardy?
 [[Jordan Nicholas Sukut|Jordan]] is running for President because he is attempting to live out with integrity what it would mean to [[Act As If]] it were our responsibility to solve the total set of problems, forge the total set of solutions, and accomplish the total set of goals inherent in this moment in the [[Story]]. 
 
 Jordan realized that even if a global community of good will arose and united, they would come face to face with tragedy and malevolence that would require global logistical capabilities to address. 

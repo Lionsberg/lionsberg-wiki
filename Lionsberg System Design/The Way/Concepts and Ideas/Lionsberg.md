@@ -1,12 +1,10 @@
 # Lionsberg
 
-Lionsberg is a Mythical Story and Place where [[All]]  who desire can [[Work Together]] to [[Enact]] and [[Embody]] the [[Meta Story]], right here in our own [[Space and Time]]. 
+Lionsberg is first an Idea of a New World and New Way of Being. 
 
-On [[Earth]]. At the outset of the [[New Millennium]]. 
+[[The Idea]] is being concretely expressed through a Community, System, Platform, and Experience purpose-built to bring [[The Idea]] into [[Reality]]. 
 
-It is a [[Way]] for the [[Meta Story]] to descend and [[Incarnate]] itself in [[Structure]], [[Space]] and [[Time]] so that we can [[All]] see it, touch it, and [[Interact]] with its [[Spirit]].  
-
-If it is of service to you, it can show you the [[Way]] towards [[The Goal]] of the [[Universal Quest]].  
+[[The Idea]] is expressed in the form of a Mythical Story about a group of people who, at the most critical inflection point in human history, arose and united to confront and overcome the grand challenges, and Co-Create The New World. 
 
 It 8 billion people decide to [[Enact]] the [[Story of Lionsberg]], the [[New World]] is already at hand, and it will be [[Becoming]] [[A Little Better Every Day]] because [[All]] will be [[Working Together To Make It So]]. 
 

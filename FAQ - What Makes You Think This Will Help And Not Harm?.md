@@ -1,21 +1,37 @@
-# What Makes You Think This Will Help And Not Harm? 
+# FAQ - What Makes You Think This Will Help And Not Harm?
+
 Recognizing that the most significant crisis and opportunity in history is at hand, the question is how we should be and act in the face of that reality. 
 
-Recognizing that the existing institutions have grown far too corrupted and willfully blind to coordinate their efforts to solve the [[Meta Crisis]] and accomplish the [[Meta Goal]], we believe that we, all of us, have the ethical duty to [[Act As If]] it were our responsibility. 
+Doing nothing is likely the most risky / harmful course of action. 
 
-If we are going to take responsiblity and act, and since no individual or organization or institution can accomplish the Goal in isolation, we logically must [[Organize and Federate]]. 
+Hoping that the existing organizations and institutions will suddenly reform themselves, come back to life, and coordinate themselves in service of [[One]] and [[All]] is not realistic. 
 
-Because no existing institution could accomplish the Goal, and because of the history, boards, bureaucracies, and divisions between existing organizations and institutions, we had to forge a clean New structure / community / gathering place that is transcendent of the past. 
+Top down / overly centralized / authoritarian solutions are highly likely to fail, or devolve into extended authoritarian control. 
 
-And we are doing that in the most thoughtful, comprehensive way we possibly can given the resources and relationships we have at each stage of the journey. 
+Our [[Current Best Understanding]] is that connecting, equipping, and empowering a distributed global array of sovereign, autonomous small groups is the only potential solution powerful enough that it might work. 
 
-Critically, we are avoiding some of the known methods that harm / fail by: 
+It also appears the least likely to cause harm, by encouraging each [[Self Governing]] individual and locality to think clearly, independently, and truthfully for them selves, based on the best cumulative wisdom and knowledge we can collectively gather up and present. 
+
+It might be that a global network of enlightened and empowered individuals and small groups will determine to use their newfound power to tear down society, the Living System, and One Another - but we have to take that chance, and trust that humanity will not decide to consciously pursue the hell of [[Mutually Assured Destruction]]. 
+
+This is why everything is lead with Philosophy and [[Universal Goals and Values]]. 
+
+Articulated [[Patterns of Life]] / [[Patterns of Success]] help guide the way. 
+
+Articulated [[Patterns of Death]] / [[Patterns of Failure]] help us avoid the pits and snares that mark the way. 
+
+And humility reminds us that [[We Do Not Know]], and we are searching out [[Wisdom]] and [[Truth]] and trying to get [[A Little Better Every Day]]. 
+
+____
+
+
+We are avoiding some of the known methods that harm / fail by: 
 
 1. Avoiding over-centralization by protecting the sovereignty and autonomy of each individual and group
 2. Making progress through voluntary collaboration among sovereign and autonomous agents reflective of their [[Current Best Understanding]], rather than top down command and control 
 3. Building shared infrastructure and services to meet needs and solve problems that are shared by All
 4. Treating each and every individual as if they were uniquely created in the image of God, loved by God, and therefore equal before God and One Another in rights and responsibilities. 
-5. Building the System and Community as if it had to optimize for All over the course of millennia, vs. one provencial group over the short term. 
+5. Building the System and Community as if it had to optimize for All over the course of millennia, vs. one provincial group over the short term. 
 6. Building the System and Community based on sovereignty and interoperability among a diverse multitude of perspectives and solutions. 
 7. Continuously improving our [[Current Best Understanding]] via a Prototype, and the shared infrastructure and services required to localize, adapt, and deploy that prototype to millions of localities. 
 8. Rooting the movement in individual agency and responsibility, rather than dependency on external forces. 

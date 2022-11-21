@@ -7,6 +7,7 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## November 2022
 
+- [[Above The Chaos, A Simple Invitation]] 
 - [[Above The Chaos, The Great Game of Lionsberg]] - rough draft in progress
 - [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
 - Surprise trip to Egypt for Pyramids + COP27 + Israel 

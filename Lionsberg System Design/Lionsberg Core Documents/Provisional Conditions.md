@@ -33,7 +33,8 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 - One Word: [[Love]] - Sums up the entire System / Platform / Community in one word   
 - [[One Sentence]]  - Sums up the entire System / Platform / Community in one sentence  
 - [[One Page]]  - Sums up the entire System / Platform / Community in one page  
-- [[Core Intention and Goal]] - Briefly articulates the Aim  
+- [[Core Intention]] - The Intention  
+- [[Core Goal]] - The Aim
 - [[Core Values]] - Briefly outlines the foundation in universal / core Values  
 - [[Core Vision]] - Briefly paints a picture of the outcome  
 - [[Core Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
