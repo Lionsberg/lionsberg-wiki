@@ -1,6 +1,6 @@
 # Lionsberg
 
-Lionsberg is first an Idea of a New World and New Way of Being. 
+Lionsberg is an Idea of a New World and New Way of Being. 
 
 [[The Idea]] is being concretely expressed through a Community, System, Platform, and Experience purpose-built to bring [[The Idea]] into [[Reality]]. 
 

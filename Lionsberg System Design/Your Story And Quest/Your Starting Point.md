@@ -2,9 +2,7 @@
 
 Hello, welcome to Lionsberg. 
 
-Lionsberg is mythical place where a Community of Sovereign Individuals, Organizations, and Communities are attempting to [[Help One Another]] learn how to act out and embody the [[Meta Idea]] that we are [[All]] part of a [[Meta Community]], a [[Meta Project]], and a [[Meta Game]] that is bigger than any of us. And the only way we can 'win' the Game and accomplish [[The Goal]] is if we do it together in the [[Wise Right]] [[Way]]. 
-
-We are glad you are here, and happy to be of service to you if you find it useful. 
+We are attempting to [[Help One Another]] learn how to act out and embody the [[Meta Idea]] that we are [[All]] part of a [[Meta Community]], a [[Meta Project]], and a [[Meta Game]] that is bigger than any of us. And the only way we can 'win' the Game and accomplish [[The Goal]] is if we do it together. 
 
 Until we have a better [[Orientation and Onboarding Process]] up and running, this page is intended as a simple way to help you get quickly oriented and connected. 
 

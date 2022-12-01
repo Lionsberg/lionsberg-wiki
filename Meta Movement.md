@@ -1,3 +1,5 @@
 # Meta Movement
 
-The total set of [[All]] [[Group Of Groups]] working together towards a shared [[Goal]].  
+The total set of [[All]] things advancing together towards [[The Goal]]. 
+
+See also [[Meta]]. 

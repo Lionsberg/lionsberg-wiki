@@ -4,13 +4,18 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## Featured Posts
 
+## December 2022
+
+- [[Above The Chaos, What Is The Constraint?]] 
+
 
 ## November 2022
 
+- [[Above The Chaos, Provisional Platform For Action]]  
 - [[Above The Chaos, A Simple Invitation]] 
-- [[Above The Chaos, The Great Game of Lionsberg]] - rough draft in progress
+- [[Above The Chaos, The Great Game of Lionsberg]] 
 - [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
-- Surprise trip to Egypt for Pyramids + COP27 + Israel 
+- Surprise trip to Egypt + COP27 + Israel + Illness
 
 ## October 2022
 

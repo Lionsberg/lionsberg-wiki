@@ -80,7 +80,7 @@ Any group of at least 3 qualifies as a [[Small Groups|Small Group]]. [[Small Gro
 
 [[Individuals]] [[Organize and Federate]] into [[Small Groups]] to [[Help One Another]] [[Progress]], and accomplish things that individuals cannot accomplish in isolation. 
 
-[[Small Groups]] in turn [[Organize and Federate]] into [[Groups Of Groups]] to [[Help One Another]] [[Progress]], and accomplish things that [[Small Groups]] cannot accomplish in isolation. 
+[[Small Groups]] in turn [[Organize and Federate]] into [[Group Of Groups|Groups Of Groups]] to [[Help One Another]] [[Progress]], and accomplish things that [[Small Groups]] cannot accomplish in isolation. 
 
 Every Small Group is [[Sovereign]] and [[Autonomous]] and focuses 90% of its available [[Flow]] of [[Energy]] and [[Resources]] on meeting needs, solving problems, and accomplishing goals in its own unique locality / niche.
 

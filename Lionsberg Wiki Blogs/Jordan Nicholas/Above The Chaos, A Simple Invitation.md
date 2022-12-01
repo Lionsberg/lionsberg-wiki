@@ -12,21 +12,23 @@ Over the last ~5 years, we have brought together lifetimes of work to co-create 
 
 Over the last 6 to 8 months, we have improved the platforms, tested them with ~170 impact orgs in ~17 countries, and reevaluated the plans, patterns, and critical path to advance. 
 
+The near term objective is to forge, out of the many enlightened individuals around the world, a [[Higher Order Functional Unity]] that is actually capable of meeting the needs and solving the problems inherent in this moment in the Story. 
+
 Next step is for Lionsberg to engage several **Pilot Groups** in the next social experiment to begin learning how to fuel the movement. 
 
-**Action**: Please respond by Monday November 28th and let me know how / whether you would like to participate (options below under Action). 
+**Action**: Please let me know how / whether you would like to participate. 
 ____
 ## Learnings: 
 
 In our experiment evaluating the idea of a "Meta Project" over the last months, three key learnings / hypotheses emerged: 
  
-1. The critical path runs through co-creating a movement that will connect and empower a distributed network of groups around the world to make local progress towards our overarching and uniting shared goals and values. 
+1. The critical path runs through co-creating a movement that will connect and empower a distributed network of groups around the world to make local progress towards our [[Universal Goals and Values]]. 
 2. This will require a concrete / actual / structural / embodied form, and cannot remain an abstract idea  
 3. Lionsberg remains the most comprehensive and flexible starting point we can identify 
-4. The emergence towards higher order functional unity can't be forced or "project managed" - it has to emerge organically and inspirationally from the bottom up. 
+4. The emergence towards higher order functional unity can't be forced top down - it has to emerge organically and inspirationally from the bottom up. 
 5. The only path forward is through action / doing / learning / continuously improving from a starting point, no matter how feeble or inadequate it may seem.  
 
-If we can get extraordinarily good at inspiring, connecting, aligning, and empowering small groups, every other good goal and objective we could imagine becomes possible via the collective potential that grows each time a new group connects. 
+If we can get extraordinarily good at inspiring, connecting, aligning, and empowering small groups to make local progress towards [[Universal Goals and Values]], every other good goal and objective we could imagine becomes possible via the collective potential that grows each time a new group connects. 
 ____
 ## Next Step - Pilot Groups
 
@@ -36,7 +38,7 @@ I intend to personally participate in up to 12 groups to hold space for the move
 ___
 ## Action
 
-Please reply to Jordan by Monday November 28th with one or more of the options below: 
+Please reply to Jordan with one or more of the options below: 
 
 1. I would like to participate in a Pilot Group 
 2. I would like to be part of one of the Core Groups (Key functional areas such as Governance, Branding, Process, Communications, Admin, Etc.)

@@ -4,17 +4,18 @@ Hello, world.
 
 Welcome. We are glad you are here. 
 
-We are co-creating a system and gathering place where individuals, organizations, and communities can work together twoards the [[One Thing]] that unites us All. 
+We are co-creating a system and gathering place where individuals, organizations, and communities can work together twoards the [[One Thing]] that unites us [[All]]. 
 
-Simply, _we are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
+_We are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
 
 Feel free to explore, recognizing that everything here is being built live and transparently as a [[Work In Progress]]. 
 
 ## Read About 
-- [[What Is The Lionsberg Meta Project?]]  
+- [[Frequently Asked Questions]]  
+- [[The Book of Lionsberg]]  
+- [[The Lionsberg Meta Guide]]  
 - [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
 - [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
-- [[Requests For Guidance]] - Find the latest Requests for Guidance, which will help get you up to speed on priorities during recent and present cycles.
 
 ## Lionsberg Community Information
 - [[Frequently Asked Questions]]  

@@ -1,16 +1,12 @@
 # Above The Chaos, The Great Game of Lionsberg
 
-By [[Jordan Nicholas Sukut]], 2022.11.2 _(updated 2022.11.2)_
+By [[Jordan Nicholas Sukut]], 2022.11.2 _(updated 2022.11.30)_
 
 A post in [[Above The Chaos]].
 
 As you are aware, we have been working with a network of allies around the world on a secret plan to meet the needs, solve the problems, and capture the opportunities inherent in this moment of the epic Story of Life aboard Vessel: Earth.  
 
-Today - The Great Game of Lionsberg begins. 
-
-## Tuesday November 2, 2022 - Liftoff
-
-After bringing lifetimes of work and preparation together, last week the total set of conditions aligned, and we scheduled the launch for this week. Today, November 2, 2022, we have liftoff. 
+The Great Game of Lionsberg is about to begin. 
 
 ## The Plan 
 
@@ -24,9 +20,9 @@ If we start with 3 to 20 groups in Q4 2022, our calculations show that if we exp
 
 This is possible to launch today because over the last 5 years we synergized lifetimes of work and technology together, and worked with a global Force For Good to evaluate the plans and strategies in great detail and prepare the necessary legal, governance, and technological infrastructure to forge a Starting Point. 
 
-## The Next Two Weeks
+## The Next Weeks
 
-Over the coming two weeks, we are preparing the final technology settings and training to begin onboarding small groups. 
+Over the coming weeks, we are preparing the final technology settings and training to begin onboarding small groups. 
 
 The System has already been vetted by 100s of organizations around the world, with 170+ in 17 countries already onboarded to the "public facing" side. 
 
@@ -57,7 +53,7 @@ During that time, I am I am going to reach out to network allies and see who is 
 
 ### 1. Pilot Groups
 
-To successfully take the next step, I need 3 to 20 groups willing to be pioneers and learn how to play The Game together. 
+To successfully take the next step, we need 3 to 20 groups willing to be pioneers and learn how to play The Game together. 
 
 I can personally participate in up to 12 groups, meeting for 2 hours every two weeks. 
 
@@ -65,9 +61,9 @@ I can personally participate in up to 12 groups, meeting for 2 hours every two w
 
 If it works, over the coming years this will get billions of dollars of resources into self-sustaining flow, ~10% of which will be used to sustainably fund the core team and infrastructure of the confederation. 
 
-In the meantime, I would like to secure a bridge so I can can work closely with a core team of 5 to 12 to advance the critical infrastructure and technology. 
+In the meantime, I would like to secure bridge funding so I can can work closely with a core team of 5 to 12 to advance the critical infrastructure and technology. 
 
-While it is not required for the plan to succeed, if I were the world I would take ~$10 Million of the _already existing flow of $500 Billion of philanthropic spending each year_ and contribute it to the Lionsberg 501(c)(3) so I can get the right world class talent working on this. 
+While it is not required for the plan to succeed, if I were the world I would take ~$10 Million of the _already existing flow of $500 Billion of philanthropic spending each year_ and contribute it to the Lionsberg 501(c)(3) so that we can get the right world class talent working on this. 
 
 ### 3. Solutions
 

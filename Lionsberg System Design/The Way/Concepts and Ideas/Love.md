@@ -1,11 +1,11 @@
 # Love
 In the [[Lionsberg System]], Love is used as a [[Word Tool]] to point towards the [[Ineffable]], Ultimate, [[Absolute]], Highest Unconditional energetic relationship possible between two things. 
 
-It is akin to the use of [[Agape]] Love in Christian theology, or the Jewish notion of [[Chesed]], which describe the ultimate and uncondictional Love of [[One]] for [[All]]. 
+It is akin to the use of [[Agape]] Love in Christian theology, or the Jewish notion of [[Chesed]], which describe the ultimate and unconditional Love of [[One]] for [[All]]. 
 
 It is differentiated from and transcendent of the sexual, brotherly, or romantic loves we often associate the [[Word Tool]] with.  
 
-Beyond these, it points to a [[Frequency of Being]] that regards the [[One We Love]] with (something like) unconditional affection, [[Goodwill]], and positive desire directed towads the fullness of their unique [[Potential]]. 
+Beyond these, it points to a [[Frequency of Being]] that regards the [[One We Love]] with (something like) unconditional affection, [[Goodwill]], and positive desire directed towards the fullness of their unique [[Potential]]. 
 
 Love longs for the [[One We Love]] to develop into the fullness of their [[Potential]] and flourish. 
 

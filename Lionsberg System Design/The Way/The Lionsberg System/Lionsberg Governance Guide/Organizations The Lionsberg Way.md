@@ -3,7 +3,7 @@
 
 We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continuously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
-In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Program Delivery Teams [[IPD Teams]]. These are relatively interchangeable [[Word Tool|Word Tools]] meant to point at autonomous groups collaborating in service of a Goal. 
+In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Delivery Teams. These are relatively interchangeable [[Word Tool|Word Tools]] meant to point at autonomous groups collaborating in service of a Goal. 
 
 ## Purpose of Organizations
 Organizations emerge to help groups of people accomplish what individuals cannot accomplish in isolation. 

@@ -1,11 +1,11 @@
 # Total Nested Hierarchy of Values
 For a discussion on Values, see [[Values]]. 
 
-To harmonize ourselves with One Another, the Living System, and the One Thing that unites All things, we pledge to do our best to uphold our shared universal values. 
+To harmonize ourselves with [[One]], [[One Another]], and [[All]], we pledge to do our best to honor and uphold our shared universal values. 
 
 At various levels of detail and abstraction, these can be described with words like: 
 
-- The [[Meta Value]] / One / Love  
+- [[One]] / [[Love]]  
 ____
 - Truth, Love, Justice, Stewardship, and Wisdom. 
 ___
