@@ -237,4 +237,25 @@ We agree that without a guiding philosophy that informs our goals, our values, a
 
 I will work to reintroduce a comprehensive philosophy to guide and inform us as we grapple with how to leverage new tools and technologies to help carry our culture and society towards the best possible future for all. 
 
-This will include laying out frameworks for truthful dialogue, shared goals and values, and the overarching and uniting principles that guide right relationship and wise governance. 
+This includes laying out frameworks for truthful dialogue, shared goals and values, and the overarching and uniting principles that guide right relationship and wise governance. 
+
+## 28. Spirituality And Religion
+
+We agree that a properly ordered society cannot exist without properly ordered and integrated spirituality and religion. 
+
+I will work to celebrate and uphold the spiritual foundations enshrined in our constitution,  while protecting freedom of religion and expression for every individual and community. 
+
+This includes doing my best to ensure that every decision is guided by the spirit of truth and love, and that corrupt religious and political entanglements are brought to light. 
+
+## 29. The Sacredness Of Life 
+
+We agree that all life is sacred and precious, from conception until death. 
+
+I will work to establish policies and programs of action that seek to support and nurture the development of all generations of life, from conception to death. 
+
+This includes ensuring that every woman and child has access to all the resources and support needed to bring forth life and help both women and children develop towards their potential and flourish. This includes programs and support to help pregnant women make wise informed decisions about the life within them, the provision of generous maternity leave and support, and access to systems of support during pregnancy and throughout childhood development. This lifelong care and compassion extends from reexamining how we care for women and children, all the way through reexamining the way that we relate to and care for our elders through the end of their lives. 
+
+## 30. Homelessness 
+
+Root causes. 
+Comprehensive solutions. 
