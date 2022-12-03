@@ -1,5 +1,11 @@
 # Above The Chaos, My Current Best Understanding November 2022
 
+By [[Jordan Nicholas Sukut]], 2022.11.25 _(updated 2022.11.25)_
+
+A post in [[Above The Chaos]]. 
+
+Esteemed Friend,  
+
 My [[Current Best Understanding]] of [[Where We Are]]: 
 
 We are in the opening stages of a battle for the future of life and society. 

@@ -12,4 +12,4 @@ It is always tempting for us to think that it is money, but I am reminded over a
 
 The constraint is a small, passionate, dedicated, focused Team willing to take the risk and make "it" happen. 
 
-I am not actually sure that team could be "hired" with money. It is probably composed of the people who are already out there, sacrificing and doing it anyway, who finally decide to come together to accomplish what is impossible for any of us in isolation. 
+I am not actually sure that team could be "hired" with money. It is probably composed of the people who are already out there, sacrificing and doing the hard work anyway, who finally decide to come together to accomplish what is impossible for any of us in isolation. 
