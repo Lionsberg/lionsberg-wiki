@@ -15,6 +15,7 @@ _This list of meeting pages is manually updated periodically, and may not includ
 
 ## Other Various
 
+- [[Lionsberg Special Session on Flow, 2022-12-07]]
 - [[Lionsberg Africa 2022.08.25]]
 - [[Retro for needs and offers market, 2022-08-22]]
 - [[Social Architecture 2022-08-16]]
