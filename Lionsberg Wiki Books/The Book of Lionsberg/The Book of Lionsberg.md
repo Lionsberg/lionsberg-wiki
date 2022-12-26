@@ -312,7 +312,6 @@ Liberation...
 [[Left Off Here]]
 
 ### Chapter Nine - The Quest for Sovereignty
-[[Chapter Nine - Coming Soon]]  
 
 [[9.1 The Subversive Nature Of The Meta Game]]  
 [[9.2 Navigating Through The Unknown]]  
@@ -349,11 +348,54 @@ Liberation...
 [[9.33 Society Does Not Determine What Is Right]]  
 [[9.34 Rules Must Only Be Broken With Great Caution]]  
 [[9.35 Government And Religion Get Authority Backwards]]  
-
-
+[[9.36 False Leaders And Authorities]]  
+[[9.37 The Propagation Of Evil Intent Through A System]]  
+[[9.38 Commanders Intent]]  
+[[9.39 The Order Of Intent]]  
+[[9.40 Voluntary Alignment To Higher Intention, Goals, and Values]]  
+[[9.41 The Alternatives To Voluntary Alignment Of Sovereignty]]  
+[[9.42 Using Our Best Judgment And Doing Our Best To Bring The Highest Intention Into Reality]]  
+[[9.43 The Sovereignty, Autonomy And Responsibility Of Every Individual Soldier, Officer, And Wielder Of Force]]  
+[[9.44 The Sovereignty, Authority, and Loyalty of Every Individual Institutional Leader or Member]]  
+[[9.45 The Sovereignty, Authority, and Loyalty of Every Individual Political Leader or Member]]  
+[[9.46 The Sovereignty, Authority, and Loyalty of Every Individual Citizen or Member of Any Old World Structure]]  
+[[9.47 The Sovereignty, Authority, and Loyalty of Every Individual Gang or Cartel Leader or Member]]  
+[[9.48 Indifference and Non-Involvement]]  
+[[9.49 Our Relationship To Systems of Injustice]]  
+[[9.50 But Look at All the Good!]]  
+[[9.51 Charity Vs. Justice Along The Pathways of Life]]  
+[[9.52 Who Has The Authority And Responsibility To Fix It?]]  
+[[9.53 We Come In the Name and Power of One and All]]  
 
 ### Chapter Ten - The Quest for Unity
-[[Chapter Ten - Coming Soon]]  
+[[Chapter Ten - Coming Soon]]  - [[Work In Progress]] 
+
+[[10.1 Sovereignty And Unity]]  
+[[10.2 Sovereignty Leads To Action, Action Leads To Community]]  
+[[10.3 Functional Rather Than Dysfunctional Community]]  
+[[10.4 Functional Community Is Functional Unity]]  
+[[10.5 The Needs And Problems Inherent In All Individuals, Organizations, And Communities]]  
+[[10.6 Suffering From Lack Of Solutions To Inherent Problems And Needs]]  
+[[10.7 Unrealized Potential Due To Lack Of Access To Inherent Problems And Needs]]  
+[[10.8 The Duty Of The Individual]]  
+[[10.9 The Duty Of The Community]]  
+[[10.10 Coherent And Enlightened Systems]]  
+[[10.11 Enlightened Beings Create Enlightened Systems, And Vice Versa]]  
+[[10.12 Arising And Transforming From The Bottom Up]]  
+[[10.13 The Infrastructure Of Arising And Becoming]]  
+[[10.14 Higher Order Systems Which Integrate Lower Order Systems Into Functional Unity]]  
+[[10.15 The Order Of Systems And The Meta System]]  
+[[10.16 The Reintegration Of The Human System And The Living System]]  
+[[10.17 Higher Order Sub-Systems]]  
+[[10.18 Over-Centralization And Monoliths]]  
+[[10.19 The Infrastructure Of The Meta System Becomes The Infrastructure Of The New World]]  
+[[10.20 The Elevation Initiative - A Higher Order System Of Total Integrated Wellness And Development]]  
+[[10.21 A Higher Order System Of Total Integrated Wellness]]  
+[[10.22 A Higher Order System Of Community Flourishing]]  
+[[10.23 Wisely Choosing Hospitable Environments To Begin]]  
+[[10.24 Individuals And Systems]]  
+
+
 
 ### Chapter Eleven - The Anti-Quest
 [[Chapter Eleven - Coming Soon]]  

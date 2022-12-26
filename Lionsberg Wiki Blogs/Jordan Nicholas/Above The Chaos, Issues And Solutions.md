@@ -2,7 +2,7 @@
 
 By [[Jordan Nicholas Sukut]], 2022.12.03 _(updated 2022.12.03)_
 
-A post in [[Above The Chaos]].
+A post in [[Above The Chaos]]  
 
 As an independent candidate for President of the United States in 2024, I believe that it is time for fresh, independent vision and leadership that is focused on forging transformational common-sense solutions to the most pressing issues facing our country and our world. 
 
