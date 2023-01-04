@@ -2,32 +2,17 @@ This site is a [[Work In Progress]]
 
 # Site Navigation
 [[Your Starting Point]]   
-  
-[[0.4 The Meta Story|The Meta Story]]  
-
-[[Groups]]  
-[[Meetings]]  
-[[Project Proposals]]  (new)  
-  
-[[Bottom Up Jump Page]]    
-[[Top Down Jump Page]]  
-  
-[[Frequently Asked Questions]]  
-[[Admin and Help]]
+[[Frequently Asked Questions]]   
+[[Admin and Help]]   
 
 # Blogs
-[[Above The Chaos]]  
-[[Pete's Journal]]  
-[[Jonathan's Blog]]  
+[[Above The Chaos]]   
+[[Pete's Journal]]   
 
 # Books
 [[The Book of Lionsberg]]   
-
 [[A Way Beyond Fear, Anxiety, And Depression]]   
-
-[[Lionsberg Integrated Delivery Guide]]   
-[[Lionsberg Governance Guide]]   
-
+[[The Lionsberg Meta Guide]]   
 [[Lionsberg Wiki Books]]  
 
 <!-- Comment not rendered visibly to web
