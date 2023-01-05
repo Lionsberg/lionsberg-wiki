@@ -4,7 +4,7 @@ This is a [[Work In Progress]] that Aims to bring together the various Guides in
 
 ## Introduction
 
-Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of Systems]] to empower humanity to bring it into reality. 
+Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of Systems]] to empower humanity (10 billion people, 1 billion groups, 10 million communities) to bring it into reality. 
 
 In religious language, it is a system purpose-built to bring Heaven to Earth ([[The Goal]]). 
 
@@ -56,7 +56,7 @@ Having inspired, aligned, and empowered sovereign autonomous groups to progress 
 
 [[Lionsberg Principles and Values]] 
 
-## Self-Governance 
+## The Lionsberg System of Self-Governance 
 
 The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
 
@@ -120,13 +120,20 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 [[The Harsh Reality of Where We Are]]  
 [[Universal Responsibilities]]  
 
+#### Wisdom 
+
+[[Wisdom Council]]  
+[[Coaching and Mentoring]]  
+
 #### Minimum Standards of Interoperability
 [[Minimum Standards of Interoperability]] 
 
 #### Federal Governance 
 
 [[Constitution]]  
+[[Lionsberg Constitution]]  
 [[Structure]]  
+[[Lionsberg Structure]]  
 [[Flexibility And Compatibility]] 
 [[Legal Infrastructure]] 
 [[Transparency and Accountability]]  
@@ -146,11 +153,21 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 [[Founding Leaders]] 
 [[Founding Leader Phase At Federal Level]]  
 [[A New Sovereignty]] 
+Interoperation among a diverse array of structures and approaches 
 
 ### Common Governance Issues 
 [[Campaigning and Making Promises]]  
- 
-## Integrated Delivery Of Shared Goals And Values 
+
+## The Lionsberg Economic System 
+
+The [[Lionsberg Economic System]]  
+
+## The Lionsberg System of Justice 
+
+The [[Lionsberg System of Justice]] 
+The [[Lionsberg System of Reconciliation]] 
+
+## The Lionsberg Integrated Delivery System 
 
 The [[Lionsberg System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
@@ -161,12 +178,23 @@ The [[Lionsberg System]] includes an [[Integrated Delivery System]] purpose-buil
 The [[Meta Project]]  
 [[The Prototype]]  
 
-## Culture And Community 
+## The Lionsberg System of Culture And Community 
 
+[[Lionsberg System of Culture and Community]]  
 [[Lionsberg Community]]  
-[[Lionsberg Code]]  - [[TKTK]] 
-[[Lionsberg Culture]]  - [[TKTK]]  
-[[Group Of Groups]]  
+[[Lionsberg Culture]]  
+[[Lionsberg Code]]  
+
+## The Lionsberg System of Flow 
+
+Flow State 
+Individual Flow 
+Group Flow 
+Community Flow 
+Resource Flow 
+Information Flow (Data Structure to Facilitate) 
+Knowledge Flow 
+Wisdom Flow 
 
 
 ## Problems, Needs, and Issues 
@@ -176,6 +204,10 @@ The [[Meta Project]]
 [[General Issues]]  
 [[General Solutions]]  
 [[Specific Issues]] 
+[[Specific Solutions]] 
+[[Identifying And Solving Issues]]  
+[[Issues and Solutions Marketplaces]]  
+[[Offers and Needs Marketplaces]] 
 
 ## Goals And Aspirations  
 
@@ -192,6 +224,10 @@ The [[Meta Project]]
 [[Community Development]]
 [[Elevation Initiative]]  
 
+## Shared Infrastructure, Services, and Support 
+
+[[Lionsberg System of Infrastructure, Services, and Support]]    
+ 
 
 ## The Lionsberg Integrated Delivery System 
 
@@ -328,4 +364,9 @@ The [[Meta Project]]
 
 [[False Dichotomies]]  
 [[Lionsberg Lexicon]]  
+
+
+
+
+
 

@@ -6,3 +6,5 @@ While that [[Meta Community]] is eternal, universal, and beyond any name, down h
 This requires that the eternal / universal / highest level of abstraction / most fundamental [[Meta Level]] be brought down to earth and [[Incarnates|Incarnated]] in our time and place. 
 
 The [[Lionsberg Community]] is our attempt to incarnate and [[Enact]] / [[Operationalize]] the idea of the [[Meta Community]]. 
+
+[[Lionsberg System of Culture and Community]]  

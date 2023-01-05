@@ -33,3 +33,4 @@ A typical sequence might be:
 [[Template For Assent]]  
 [[Template For Declaration]]  
 [[Template For Constitution]]  
+[[Provisional Declaration]]  
