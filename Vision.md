@@ -4,4 +4,4 @@ Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] wit
 
 ___
 
-A more articulated version of the Vision of Lionsberg can be found in [[Core Vision]], and [[Best Possible Future]]. 
+A more articulated version of the Vision of Lionsberg can be found in [[Lionsberg Vision]], and [[Best Possible Future]]. 

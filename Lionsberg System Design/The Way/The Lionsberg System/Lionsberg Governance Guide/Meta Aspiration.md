@@ -13,9 +13,3 @@ Beyond that, we could say it is simply [[One]].
 It is at this One [[Aim]] that the entire [[Lionsberg System]] is pointed. 
 
 It is our System of Governance that helps us Navigate towards it. 
-
-___
-
-Forward to [[Navigation]]  
-Back to [[Goals and Aspirations]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]

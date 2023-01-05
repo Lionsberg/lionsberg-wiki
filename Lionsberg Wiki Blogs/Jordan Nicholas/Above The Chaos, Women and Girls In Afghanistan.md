@@ -1,4 +1,4 @@
-# Women and Girls In Afghanistan
+# Above The Chaos, Women and Girls In Afghanistan
 
 Social media post of the rights of women and children. 
 
@@ -13,8 +13,6 @@ Slide 4: "I believe it is our job to "Act As If" it were our responsibility to w
 Slide 5: "The Lionsberg Vision and Plan calls for the participation and engagement of individuals, organizations, and governments at all levels to bring this shared vision to fruition. This includes encouraging people to get involved in their local communities and to support initiatives that promote social justice and equality of opportunity for all. It also involves working with policy makers and other decision makers to implement policies and programs that reflect these principles and values.
 
 Slide 6: "The situation in Afghanistan is a stark reminder of the importance of upholding the fundamental human right to education and the need to combat gender discrimination and oppression. In every country, including the United States, we must remember that oppression and injustice are not just "out there". Right here at home, many are struggling to gain access to the basic infrastructure, services, and opportunities needed for them to flourish. This has to change. Now. 
-
-Slide 7: "
 
  #StandWithAfghanWomen #EducationForAll #LionsbergVision #GenderEquality #HumanRights   #JustSociety #StrongCommunities #SocialResponsibility  #CommunityEngagement #PolicyChange #Values #VisionForTheFuture #TogetherWeCan #Equality #EqualOpportunity   #SocialJustice #Freedom 
 

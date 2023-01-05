@@ -4,9 +4,13 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## Featured Posts
 
+## January 2023 
+- 
+
 ## December 2022
 
-- [[Interrelated Issues Demand Comprehensive Solutions]] 
+- Christmas and New Years Holidays, Reset, and Preparation  
+- [[Above The Chaos, Women and Girls In Afghanistan]]  
 - [[Above The Chaos, Issues And Solutions]]  
 - [[Above The Chaos, Agreement With The United States And The World]]  
 - [[Above The Chaos, What Is The Constraint?]] 

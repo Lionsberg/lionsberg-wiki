@@ -14,11 +14,3 @@ Over time, all structures should strive to conform themselves towards the Most F
 A legally federated [[Stewardship Structure]] is the [[Ideal]], and should be activated in all areas where possible as a pragmatic aid to governance. 
 
 For an example of a federated Stewardship Structure, see [[Provisional Structure]].  
-
-
-___
-
-Forward to [[6.13 Integrated Delivery]]  
-Back to [[6.11 Meetings]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]
-

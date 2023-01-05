@@ -1,4 +1,4 @@
-# A Day Worth Thinking, November 22
+# A Day Worth Thinking, Day 1
 
 Every day is [[A Day Worth Thinking]]. 
 

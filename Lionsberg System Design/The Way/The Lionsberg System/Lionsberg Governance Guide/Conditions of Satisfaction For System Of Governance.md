@@ -22,4 +22,4 @@ ___
 
 Forward to X  
 Back to [[3.1 The Function of Governance]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]
+Back to Table of Contents [[The Lionsberg Meta Guide]]  

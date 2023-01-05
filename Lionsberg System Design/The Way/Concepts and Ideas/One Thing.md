@@ -2,7 +2,7 @@
 
 The [[Meta Idea]] of the [[Lionsberg System]] and the [[Meta Project]] is that there is **One Thing** that unites us [[All]]. 
 
-There is only [[One]] [[Meta Aim]]. There is only [[One]] [[Meta Goal]]. There is only one [[Most Worthy Goal]]. 
+There is only [[One]] [[Meta Aim]]. There is only [[One]] [[Meta Goal]]. There is only [[One]] [[Meta Vision]]. There is only one [[Most Worthy Goal]]. 
 
 We intentionally leave the Meta Level abstract rather than concretizing it, but we all have an innate intuition for what it is. 
 

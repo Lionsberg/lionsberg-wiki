@@ -12,6 +12,4 @@ The [[New World]] was at hand. It was already perfect, and it continued to becom
 
 It 8 billion people decide to [[Enact]] the Vision and [[Story of Lionsberg]], it will become [[True]]. 
 
-To help all humanity [[Enact]] the [[Vision]] and [[Story]], we have created a Game so simple and powerful, that as we learn how to play it together, our world will actually transform around us. 
-
-Welcome to [[The Great Game of Lionsberg]]. 
+To help all humanity [[Enact]] the [[Vision]] and [[Story]], we have created a System and Game so simple and powerful, that as we learn how to play it together, our world will actually transform around us.  

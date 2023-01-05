@@ -8,7 +8,3 @@ Decisions are made on the basis of Discernment and Consent around Proposals.
 
 
 ___
-
-Forward to [[6.6 Individuals]]  
-Back to [[Transparency and Accountability]]       
-Back to Table of Contents [[Lionsberg Governance Guide]]

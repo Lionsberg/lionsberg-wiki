@@ -1,12 +1,11 @@
 # Story of Lionsberg
-The [[Story of Lionsberg]] is the story of an epic Quest out of the bondage and suffering of the [[Old World]], into an entirely regenerated [[New World]]. 
+
+The [[Story of Lionsberg]] is the story of an epic Quest out of the bondage and suffering of the [[Old World]], into an entirely regenerated [[New World]].  
 
 To dive into the mythical Story, and find your place in it, see [[The Book of Lionsberg]]. 
 
 ___
 For more information on [[Where We Are]] and [[How We Got Here]], see the [[Provisional Trust Manifesto]]. 
-
-In short: 
 
 ## Who We Are 
 
@@ -50,7 +49,7 @@ The good news is that in partnership with [[One]] and [[All]], we can change tha
 
 From [[Where We Are]], it is possible for things to get unimaginably better, approaching a [[Heaven On Earth]] that is already perfect, and continuing to get better every day as we work together to make it so. 
 
-See [[Core Vision]] and [[Best Possible Future]] for more articulated information on our [[Aim]]. 
+See [[Lionsberg Vision]] and [[Best Possible Future]] for more articulated information on our [[Aim]]. 
 
 ## How We Will Get There 
 

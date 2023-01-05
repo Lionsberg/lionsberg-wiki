@@ -14,6 +14,3 @@ And recognizing that [[We Do Not Know]], we built it to eternally elevate and tr
 
 ___
 
-Forward to [[4.0 Sovereignty, Autonomy, and Authority]]  
-Back to [[Limitations of the Old Systems]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]

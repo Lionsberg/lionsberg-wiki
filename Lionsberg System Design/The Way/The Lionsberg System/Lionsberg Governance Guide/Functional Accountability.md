@@ -13,9 +13,3 @@ Organizations should delegate functional accountability to [[Groups]], not Indiv
 This prevents the entire weight of the Whole from every resting on a single point of potential failure, and fosters a [[Zero Blame Environment]]. 
 
 [[Template For Functional Accountability]] 
-
-___
-
-Forward to [[Levels of Abstraction]]  
-Back to [[6.13 Integrated Delivery]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]

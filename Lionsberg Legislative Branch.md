@@ -1,6 +1,6 @@
-# Legislative Branch
+# Lionsberg Legislative Branch
 
-At the highest level of abstraction, with strict focus on the wellbeing and development of the [[Whole]], is the Lionsberg [[General Assembly]]. 
+At the highest level of abstraction, with strict focus on the wellbeing and development of the [[Whole]], is the [[Lionsberg General Assembly]]. 
 
 The Lionsberg General Assembly is composed of wise representatives nominated to the General Assembly by the members of the [[Domain Assemblies]]. 
 

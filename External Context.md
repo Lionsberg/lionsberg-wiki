@@ -52,14 +52,10 @@ The [[Meta Project]] is universal, eternal, and Absolute. No one owns, controls,
 
 To accomplish it, we must pragmatically organize ourselves so that we can govern our Selves, make decisions, navigate, allocate resources, transfer funds, and remain in compliance with rule of law around the globe. 
 
-Because we could not identify a System and Structure capable of accomplishing this, we are doing our best to co-create one in service of [[One]] and [[All]]. 
+Because we could not identify a System and Structure capable of accomplishing this, we are doing our best to co-create one in service of [[One]] and [[All]]. This is the purpose and intent of the [[Lionsberg System]].  
 
 ### The Meta Game 
 
 Since children, families, and adults of all capabilities around the world will need to participate, our hypothesis is that a Story and a Game are the only containers of the logic that can actually scale quickly enough to accomplish [[The Goal]] within the amount of [[Time]] available. 
 
 ___
-
-Forward to [[2. Lionsberg System Overview]] 
-Back to [[Lionsberg Governance Guide]]      
-Back to Table of Contents [[Lionsberg Governance Guide]]

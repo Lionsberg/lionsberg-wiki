@@ -351,7 +351,7 @@ Liberation...
 [[9.36 False Leaders And Authorities]]  
 [[9.37 The Propagation Of Evil Intent Through A System]]  
 [[9.38 Commanders Intent]]  
-[[9.39 The Order Of Intent]]  
+[[9.39 The Order Of Intentions And The Meta Intention]]  
 [[9.40 Voluntary Alignment To Higher Intention, Goals, and Values]]  
 [[9.41 The Alternatives To Voluntary Alignment Of Sovereignty]]  
 [[9.42 Using Our Best Judgment And Doing Our Best To Bring The Highest Intention Into Reality]]  

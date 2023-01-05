@@ -4,7 +4,7 @@
 
 1. [[The Book of Lionsberg]]  - by [[Jordan Nicholas Sukut]]  
 2. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]]  
-3. [[Lionsberg Governance Guide]]  - by [[Jordan Nicholas Sukut]]  
+3. [[The Lionsberg Meta Guide]] - by [[Jordan Nicholas Sukut]]  
 4. [[Lionsberg Integrated Delivery Guide]]  - by [[Jordan Nicholas Sukut]] 
 6. [[The Power of Today]]  - by [[Jordan Nicholas Sukut]]  
 7. [[Martial Arts Guide]]  - by [[Jordan Nicholas Sukut]]  

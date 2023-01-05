@@ -21,9 +21,3 @@ The categories and differentiated levels of abstraction / analysis allow for the
 Properly viewed, the [[Left Hemisphere]] / Analytical / Differentiated view affords the opportunity to serve and support by aligning and supporting each element of the Whole correctly and usefully for All, without losing the [[Right Hemisphere]] / Intuitive / Receptive perception of the Whole as the interexistent Mystery that it is. 
 
 The Lionsberg System attempts to afford a useful philosophical and conceptual hierarchy to promote understanding and organization, while protecting the primacy of right relationship in the Whole.  
-
-___
-
-Forward to [[Federal Governance]]  
-Back to [[Functional Accountability]]  
-Back to Table of Contents [[Lionsberg Governance Guide]]

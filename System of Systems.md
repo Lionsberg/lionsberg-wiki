@@ -1,0 +1,3 @@
+# System of Systems
+
+A system of systems is a collection of interconnected systems that operate together in order to achieve a common goal or purpose. These systems can be connected in a hierarchical, networked, or decentralized manner, and may have varying levels of independence and interdependence. The goal of a system of systems is to **optimize the performance and efficiency of the individual systems** in order to achieve a desired outcome at the higher, overall system of systems level. This approach is often used in complex and dynamic environments where multiple, interconnected factors need to be considered and coordinated in order to achieve a desired result.

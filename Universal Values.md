@@ -43,9 +43,9 @@ Beyond [[One]] word and five words, are 10 words that illuminate various element
 ___
 ### Forty Four Words
 
-Beyond [[One]] word and fifteen words, are 44 words that illuminate various elements of it. 
+Beyond one, five and ten words, are 44 words that illuminate various elements of it. 
 
-- Agency, Autonomy, Competence, Collaboration, Conscientiousness, Respect, Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Romance, Enjoyment, Freedom, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
+- Agency, Autonomy, Competence, Collaboration, Conscientiousness, Respect, Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Romance, Enjoyment, Freedom, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Interdependence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
 ___
 #### On Power and Resources
 
