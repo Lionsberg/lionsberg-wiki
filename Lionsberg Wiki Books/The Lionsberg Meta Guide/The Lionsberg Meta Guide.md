@@ -1,106 +1,173 @@
 # The Lionsberg Meta Guide
 
-This is a [[Work In Progress]] that Aims to bring together the various Guides into a comprehensive Meta Guide that reduces redundancy and provides greater clarity. 
-
-Some of the tones, tenses, and voices may be discordant as we work to synergize various works into one. 
+This is a [[Work In Progress]] that Aims to bring together the various Guides into a comprehensive Meta Guide. Please be patient with tones, tenses and voices that are discordant or repetitive. 
 
 ## Introduction
+
+Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of Systems]] to empower humanity to bring it into reality. 
+
+In religious language, it is a system purpose-built to bring Heaven to Earth ([[The Goal]]). 
 
 [[Introduction To Lionsberg]]  
 [[Story of Lionsberg]]  
 [[External Context]]  
 [[Internal Context]] 
 
-## A Vision Of A More Perfect World 
+### System Overview 
+
+The Lionsberg System is a [[System of Systems]], purpose-built to create [[Throughput]] of [[The Goal]]. 
+
+[[Lionsberg System]]  
+
+### A Vision Of A More Perfect World  
+
+Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]]. 
 
 [[Vision]] 
-[[Core Vision]]  
+[[Lionsberg Vision]]  
+[[Lionsberg Mandate]]  
 [[Best Possible Future]]  
 [[On Earth As it Is In Heaven]]  
 
-## Aiming At The Goal 
+### Aiming At The Goal 
+
+It then sets this [[Vision]] and [[Goal]] as the [[Aim]] of the [[System]], and empowers individuals and groups around the world to align their vision and aim with the [[Meta Aim]] of [[All]]. 
 
 [[Aim]] 
-[[The Goal]]  
-[[Meta Intention]]  
-[[Meta Aim]] 
+[[Meta Aim]]  
 [[Goal]]  
 [[Meta Goal]]  
 [[One Thing]]  
+[[Aligning]] 
+[[Stacking Up And Aligning]]  
 
-## Progressing Towards The Goal
+### Progressing Towards The Goal
+
+Having aligned our [[Aim]], the system then connects and empowers sovereign autonomous individuals, organizations and groups to [[Help One Another]] progress towards [[The Goal]].  
 
 [[Progress]]  
 [[Navigation]]  
 [[FROM -> TO]]  
 [[Navigation Issue]]  
 
-## Self Governance And Transformation From The Bottom Up 
+### Universal Principles and Values 
+
+Having inspired, aligned, and empowered sovereign autonomous groups to progress towards [[The Goal]], the System then sets out universal [[Principles]] and [[Values]] to create the boundaries in which creative progress can occur. 
+
+[[Lionsberg Principles and Values]] 
+
+## Self-Governance 
+
+The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
+
+### Governance Basics 
 
 [[Governance]]  
 [[The Function Of Governance]]  
 [[Limitations of the Old Systems]]  
 [[How Now Shall We Govern Our Selves?]]  
 [[Conditions of Satisfaction For System Of Governance]]  
-[[Lionsberg System of Governance]] 
+
+### Self Governance 
+
 [[Self Governance]]  
-
-## Lionsberg System Logic 
-
-[[Lionsberg]] 
-[[Lionsberg Community]]  
-[[Lionsberg System]]  
-[[Group Of Groups]]  
-[[The Prototype]]  
-[[Inbreaking And Displacing]]  
-
-## Values 
-
-[[Values]]  
-[[Universal Values]] 
-[[Universal Goals and Values]]  
-
-### Alignment
-
-[[Aligning]] 
-[[Stacking Up And Aligning]]  
-
-### Sovereignty, Autonomy, Authority 
-
 [[Sovereignty]]  
 [[Autonomy]]  
 [[Authority]]  
 [[Freedom]]  
 [[Conscious Agency]]  
 
-## Individuals, Groups, and Communities 
+### The Lionsberg System of Governance 
+
+[[Lionsberg System of Governance]]   
+
+#### Individuals, Groups, and Communities 
 
 [[Individuals]]  
 [[Groups]]  
 [[Communities]]  
 
-## Organization, Federation, and Co-Operation  
+#### Organization, Federation, and Co-Operation 
 
 [[Organize and Federate]]   
 [[Co-Operation]]  
 [[Fractal Sovereignty]] 
 [[Organizations The Lionsberg Way]]  
 
-## Roles
+#### Roles 
+
 [[Roles]]  
 [[Functional Accountability]]  
 [[Levels of Abstraction]]  
 [[Servant Leadership]]  
 
-## Meetings
+#### Meetings 
 
-[[Meetings]] 
+[[Meetings]]  
 
-## Projects and Programs  
+#### Decision Making  
 
+[[Decision Making]] 
+[[Proposals]]  
+[[Consent]]  
+[[Objection]] 
+[[Delegation]] 
+
+#### Rights and Responsibilities 
+
+[[Rights and Responsibilities]]  
+[[Universal Rights]]  
+[[The Harsh Reality of Where We Are]]  
+[[Universal Responsibilities]]  
+
+#### Minimum Standards of Interoperability
+[[Minimum Standards of Interoperability]] 
+
+#### Federal Governance 
+
+[[Constitution]]  
+[[Structure]]  
+[[Flexibility And Compatibility]] 
+[[Legal Infrastructure]] 
+[[Transparency and Accountability]]  
+[[Federal Governance]]  
+[[Power Of The Republic]] 
+[[Universal Rule Of Law]]  
+[[Local Rule Of Law]] 
+[[Separation Of Power]]  
+[[Executive Branch]]  
+[[Lionsberg Legislative Branch]] 
+[[Judicial Branch]]  
+[[Regulatory Branch]]  
+[[Core, Official, and Ancillary Groups]] 
+[[Wisdom Council]]  
+[[Provisional Structure]]  
+[[Provisional Legal and Governance Structure]]  
+[[Founding Leaders]] 
+[[Founding Leader Phase At Federal Level]]  
+[[A New Sovereignty]] 
+
+### Common Governance Issues 
+[[Campaigning and Making Promises]]  
+ 
+## Integrated Delivery Of Shared Goals And Values 
+
+The [[Lionsberg System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
+
+[[Lionsberg Integrated Delivery System]]  
 [[Projects]] 
 [[Program]] 
 [[Everything Is A Project]]  
+The [[Meta Project]]  
+[[The Prototype]]  
+
+## Culture And Community 
+
+[[Lionsberg Community]]  
+[[Lionsberg Code]]  - [[TKTK]] 
+[[Lionsberg Culture]]  - [[TKTK]]  
+[[Group Of Groups]]  
+
 
 ## Problems, Needs, and Issues 
 
@@ -124,63 +191,6 @@ Some of the tones, tenses, and voices may be discordant as we work to synergize 
 [[Group Development]] 
 [[Community Development]]
 [[Elevation Initiative]]  
-
-### Rights and Responsibilities 
-[[Rights and Responsibilities]]  
-[[Universal Rights]]  
-[[The Harsh Reality of Where We Are]]  
-[[Universal Responsibilities]]  
-
-### Enacting and Embodying 
-
-[[Act As If]]  
-[[Enact|Enacting]]  
-[[Embody|Embodying]]  
-
-### Decision Making  
-
-[[Decision Making]] 
-[[Proposals]]  
-[[Consent]]  
-[[Objection]] 
-[[Delegation]] 
-
-### Federal Governance 
-
-[[6.0 Components of The Lionsberg Governance System]]  
-
-[[Constitution]]  
-[[Structure]]  
-[[Flexibility And Compatibility]] 
-[[Legal Infrastructure]] 
-[[Transparency and Accountability]]  
-[[Federal Governance]]  
-[[Power Of The Republic]] 
-[[Universal Rule Of Law]]  
-[[Local Rule Of Law]] 
-[[Separation Of Power]]  
-[[Executive Branch]]  
-[[Legislative Branch]] 
-[[Judicial Branch]]  
-[[Regulatory Branch]]  
-[[Core, Official, and Ancillary Groups]] 
-[[Wisdom Council]]  
-[[Provisional Structure]]  
-[[Provisional Legal and Governance Structure]]  
-[[Founding Leaders]] 
-[[Founding Leader Phase At Federal Level]]  
-[[A New Sovereignty]] 
-
-### Minimum Standards of Interoperability
-[[Minimum Standards of Interoperability]] 
-
-### The Ideal  
-
-### Common Governance Issues 
-[[Campaigning and Making Promises]]  
- 
-
-Also See [[Organizations The Lionsberg Way]] 
 
 
 ## The Lionsberg Integrated Delivery System 
@@ -297,7 +307,7 @@ Also See [[Organizations The Lionsberg Way]]
 
 
 
-## Zero - Genesis 
+## Misc
 
 [[In The Beginning...]] 
 [[A True Myth]]  
@@ -305,10 +315,6 @@ Also See [[Organizations The Lionsberg Way]]
 [[Working Together To Make It So]]  
 [[Who We Are]]  
 [[Who We Are Becoming]]  
-
-
-## One - The Emergence Of The New 
-
 [[New Language]]  
 [[Progressive Articulation]]   
 [[Progressive Realization]]  
@@ -320,26 +326,6 @@ Also See [[Organizations The Lionsberg Way]]
 [[That Which Is Longing To Emerge]]  
 [[Inbreaking And Displacing]]  
 
-## Two - Co-Creation 
-
-[[Co-Creating The New]]  
-
-## Three - The Lionsberg System of Systems
-
-[[Lionsberg System]] - System Intent  
-[[Provisional Trust Manifesto]] - History & Inception  
-[[Provisional Declaration]] - Vision & Intention 
-[[Universal Values]] - Overarching & Uniting Values 
-[[Lionsberg Community]] - Community 
-[[Meta Project]] - Overarching & Uniting Project 
-[[Meta Story]] - Overarching & Uniting Story 
-[[Provisional Code]] - Behavioral Code  
-[[Lionsberg Governance Guide]] - Lionsberg System of Governance  
-[[Provisional Structure]] - Structure to Facilitate Emergence  
-[[Lionsberg Integrated Delivery Guide]] - Lionsberg Integrated Delivery System  
-[[Lionsberg Academy]] - Lifelong Learning 
-[[Elevation Initiative]] - Lifelong Human, Organizational, and Community Development 
-[[Lionsberg Economy]] - Coming Soon 
-[[A New Sovereignty]] - Geopolitical Framework 
-
+[[False Dichotomies]]  
+[[Lionsberg Lexicon]]  
 
