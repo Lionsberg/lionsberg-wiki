@@ -56,6 +56,23 @@ Having inspired, aligned, and empowered sovereign autonomous groups to progress 
 
 [[Lionsberg Principles and Values]] 
 
+## A Comprehensive System of Systems 
+
+1. The [[Lionsberg System of Governance]]  
+2. The [[Lionsberg Economic System]]  
+3. The [[Lionsberg System of Culture and Community]] 
+4. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
+5. The [[Lionsberg Energy System]]  
+6. The [[Lionsberg Water System]]  
+7. The [[Lionsberg Information System]]  
+8. The [[Lionsberg Integrated Wellbeing and Development System]]  
+9. The [[Lionsberg House of Wisdom]]    
+10. The [[Lionsberg House of Culture]]  
+11. The [[Lionsberg Academy]]  
+12. The [[Lionsberg Integrated Wellbeing and Development System]]  
+13. The [[Lionsberg Human System Living System Interface]]
+14. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)
+
 ## The Lionsberg System of Self-Governance 
 
 The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
@@ -132,26 +149,32 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 
 [[Constitution]]  
 [[Lionsberg Constitution]]  
+
 [[Structure]]  
 [[Lionsberg Structure]]  
-[[Flexibility And Compatibility]] 
-[[Legal Infrastructure]] 
+[[Flexibility And Compatibility]]   
+[[Legal Infrastructure]]  
+
 [[Transparency and Accountability]]  
+
 [[Federal Governance]]  
 [[Power Of The Republic]] 
 [[Universal Rule Of Law]]  
 [[Local Rule Of Law]] 
+
 [[Separation Of Power]]  
 [[Executive Branch]]  
 [[Lionsberg Legislative Branch]] 
 [[Judicial Branch]]  
 [[Regulatory Branch]]  
 [[Core, Official, and Ancillary Groups]] 
+
 [[Wisdom Council]]  
-[[Provisional Structure]]  
 [[Provisional Legal and Governance Structure]]  
+
 [[Founding Leaders]] 
 [[Founding Leader Phase At Federal Level]]  
+
 [[A New Sovereignty]] 
 Interoperation among a diverse array of structures and approaches 
 
