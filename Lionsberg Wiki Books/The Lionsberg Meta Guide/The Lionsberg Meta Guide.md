@@ -72,9 +72,10 @@ Having inspired, aligned, and empowered sovereign autonomous groups to progress 
 12. The [[Lionsberg House of Wisdom]]    
 13. The [[Lionsberg House of Culture]]  
 14. The [[Lionsberg Academy]]  
-15. The [[Lionsberg Integrated Wellbeing and Development System]]  
-16. The [[Lionsberg Human System Living System Interface]]
-17. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it) 
+15. The [[Lionsberg Outreach and Broadcast System]] 
+16. The [[Lionsberg Integrated Wellbeing and Development System]]  
+17. The [[Lionsberg Human System Living System Interface]]
+18. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
 ## The Lionsberg System of Self-Governance 
 
