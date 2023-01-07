@@ -15,8 +15,9 @@ It is a meta solution created in response to the [[Meta Crisis]].
 ## Read About 
 - [[Jordan Nicholas Sukut]] or [[Jordan's Short Story]]  
 - The [[Lionsberg System]]  
-- [[The Book of Lionsberg]]  
 - [[The Lionsberg Meta Guide]]  
+- [[The Book of Lionsberg]]  
+- [[Ideas and Inspiration to Become More Involved]]  
 - [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
 - [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
 
