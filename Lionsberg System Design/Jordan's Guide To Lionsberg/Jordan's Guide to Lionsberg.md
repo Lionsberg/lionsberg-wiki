@@ -104,6 +104,9 @@ Over time Lionsberg will begin functioning in all the ways that any community or
 If you would like to know more about how I personally think about this, see [[Lionsberg And Religion]]. 
 
 ## My Faith 
-If you are curious about my personal journey and experience with Faith, please see [[Jordan and Faith]]. And please know that whatever your background and beliefs, I love you and I appreciate you because God loves and appreciates you. You are my family. We [[All]] flow from [[One]] [[Source and Sustainer]] of our life, our breath, and our consciousness. Everyone who wants to be here is welcome to the banquet table that has been prepared, regardless of where any of us are on our [[Quest]]. [[Jordan and Faith]]. 
+
+If you are curious about my personal journey and experience with Faith, please see [[Jordan and Faith]]. And please know that whatever your background and beliefs, I love you and I appreciate you because God loves and appreciates you. You are my family. We [[All]] flow from [[One]] [[Source and Sustainer]] of our life, our breath, and our consciousness. Everyone who wants to be here is welcome to the banquet table that has been prepared, regardless of where any of us are on our unique [[Quest]]. See [[Jordan and Faith]]. 
 ___
-## Introduction to the Language and Concepts of Lionsberg
+## Introduction to the Language and Concepts of Lionsberg 
+
+See [[Beyond The Meta Crisis - A Blueprint for a Better Future]]

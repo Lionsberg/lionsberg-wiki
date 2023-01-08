@@ -152,7 +152,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 [[Lionsberg Story System]]  
 [[Lionsberg System of Continuous Improvement]]  
 [[Lionsberg System of Communication]]  
-[[Lionsberg System Of Purpose And Meaning]]  
+[[Lionsberg System Of Spirituality, Purpose And Meaning]]  
 [[Lionsberg System of Governance]]  
 [[Lionsberg Academy]] - Lifelong Learning 
 [[Elevation Initiative]] - Lifelong Human, Organizational, and Community Development 
