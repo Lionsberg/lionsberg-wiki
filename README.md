@@ -6,11 +6,11 @@ As we face into the [[Meta Crisis]], Lionsberg is putting forward a [[New Vision
 
 Our mission is to connect and inspire a diverse global community to design and build itself so that together we can design and build a better world. 
 
-This wiki is a powerful and detailed back-end for more user-friendly and polished front end that is in development.   This wiki contains thousands of interrelated pages and topics that are being progressively articulated. If you click a link and it doesn't work it is not an error, it is a feature and inner look into the ongoing development of this cultural artifact. 
+This wiki is a powerful and detailed back-end for more user-friendly and polished front end that is in development. This wiki contains thousands of interrelated pages and topics that are being progressively articulated. If you click a link and it doesn't work it is not an error, it is a feature and inner look into the ongoing development of this cultural artifact. 
 
 [[Jordan Nicholas Sukut]] is the founder and architect of Lionsberg and the [[New Vision and Plan]]. Understanding him will help you understand Lionsberg. [[Above The Chaos]] is Jordan's blog and a place to find some narrative content. 
 
-Jordan's Vision and Goal and Lionsberg's Vision and Goal are to confront and overcome the [[Meta Crisis]] and accomplish the [[Meta Goal]] in service of [[One]] and [[All]]. 
+Jordan's Vision and Goal and Lionsberg's Vision and Goal are to confront and overcome the [[Meta Crisis]] and accomplish the [[Meta Goal]] in service of [[One]] and [[All]]. The central animating Spirit is [[One]], and the uniting principle is [[Love]]. 
 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]] offers the most user friendly and accessible outline to New Vision and Plan currently available. 
 
