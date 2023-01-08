@@ -8,17 +8,20 @@ In order for our [[Agreements]] to properly stack up and align, they must start 
 These agreements are all elements of one overarching and uniting [[Meta Agreement]], which contains and orders within itself the [[Total Nested Hierarchy of Agreements]]. 
 
 ## The [[Meta Agreement]]  / Agreement With [[One]] and [[All]]  
+- [[Template For Agreement With One And All]]  
 
+## Agreement With Self
+- [[Template For Agreement With Self]]  
 
-## Agreement With [[Self]]  
-
-## Agreements With [[Direct Relationship|Direct Relationships]] 
-
-## Agreement With [[Indirect Relationship|Indirect Relationships]] / [[All]]  
+## Agreements With Groups 
+- [[Template For Agreement With Group]]  
+- [[Template For Agreement Between Groups]]  
 
 ## Transactional Agreements  
 
+
 ## Integrated Delivery Agreements  
+
 Integrated Delivery agreements routinely include the following elements: 
 
  1. A legal relationship
@@ -26,6 +29,6 @@ Integrated Delivery agreements routinely include the following elements:
  3. An incentive pool
  4. A no-blame working environment
  5. Design assistance from the entire team
- 6. Collaboration software such as BIM or social networking software
- 7. Lean delivery elements, and 
- 8. Integrated leadership
+ 6. Collaboration software 
+ 7. Lean delivery elements   
+ 8. Leadership, authority, and responsibility 

@@ -2,42 +2,28 @@
 
 Welcome. We are glad you are here. 
 
-You have arrived in an interesting place that is a [[Work In Progress]], and may seem confusing at first. But you've come to the right place. 
+As we face into the [[Meta Crisis]], Lionsberg is [[New Vision and Plan]] for humanity, and a system of systems purpose-built to bring the vision into reality. 
 
-_We are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
+We are working to inspire a diverse global community to design and build itself so that together we can design and build a better world. 
 
-Feel free to explore, recognizing that everything here is being built live and transparently as a [[Work In Progress]]. 
+This wiki is a powerful and detailed back-end for more user-friendly and polished front end that is in development. 
 
-The best way to understand Lionsberg for now is as the convergence of the lifetimes of work from [[Jordan Nicholas Sukut]] and a network of allies, purpose-built to connect and empower individuals, organizations, and communities around the world to meet needs, solve problems, and collaborate together for the good of all. 
+Our Aim is to connect and empower individuals, organizations, and communities around the world to meet needs, solve problems, and collaborate together for the good of all. 
 
-It is a meta solution created in response to the [[Meta Crisis]]. 
-
-## Read About 
-- [[Jordan Nicholas Sukut]] or [[Jordan's Short Story]]  
-- The [[Lionsberg System]]  
-- [[The Lionsberg Meta Guide]]  
-- [[The Book of Lionsberg]]  
-- [[Ideas and Inspiration to Become More Involved]]  
-- [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
-- [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
-
-## Lionsberg System Design
-- [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Structure]] and [[Provisional Code]] that we are striving to act out and improve. 
-- [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being and doing together. 
-- [[Lionsberg Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
+## Some Starting Places 
+- [[Jordan Nicholas Sukut]] is the founder of Lionsberg, understanding him will help you understand Lionsberg.  
+- [[Jordan's Guide to Lionsberg]]  
+- [[Above The Chaos]] - Jordan's blog 
+- [[The Lionsberg Meta Guide]] will give you a sense of the overall system 
+- [[The Book of Lionsberg]] is a full length exploration. 
+- [[Ideas and Inspiration to Become More Involved]] - ideas on actions you can immediately take to begin participating in the movement towards the New Vision and Plan.  
+- [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.  
 
 ## Presentations of Value Creation 
 
 - [[2022.Q3 Presentation of Value Creation]]  
 - [[2022.Q2 Presentation of Value Creation]]  
 - [[Value]]  
-
-## Lionsberg Wiki Books
-- [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
-- [[The Power of Today]] - A guide for individuals to integrate their [[Daily Practice]] in a [[Way]] that helps us All advance towards the Goal. 
-- [[The Lionsberg Meta Guide]] 
-- [[Martial Arts Guide]]  
-- [[A Way Beyond Fear, Anxiety, And Depression]]  
 
 ## Lionsberg  Wiki Blogs
 - [[Above The Chaos]] - A creative stream from [[Jordan Nicholas Sukut]], founder and co-creator of Lionsberg

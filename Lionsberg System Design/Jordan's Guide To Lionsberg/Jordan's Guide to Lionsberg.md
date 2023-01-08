@@ -4,11 +4,49 @@ Hello friends,
 
 Welcome to a bridge between worlds. 
 
-I am writing this Guide from my personal perspective as one of the primary Authors of Lionsberg, so that if anyone gets lost or confused in the mythical story they can directly know what I have in mind instead of guessing. 
+The depth and breadth of the concept of Lionsberg can be confusing and overwhelming at times, so I am writing this guide from my perspective as the co-creator of Lionsberg. 
 
-In a time of deepening polarization and division, my [[Current Best Understanding]] is that bridging divides and forging the [[Best Possible Future]] will require that we find ways to move beyond the triggering and emotionally charged language we are divided by, into a realm of story, experience, community, and action that can begin to bring us back together. 
+I say co-creator because everything here has been inspired by and accomplished in partnership with the Creator and dozens of other contributors. 
 
-To aid in that process, I was also led to begin co-creating a mythical [[New World]] called [[Lionsberg]], including its inherent [[Lionsberg System|Systems]], and attempting to progressively bring that New World into Reality. 
+## The Quest Towards Our Destiny 
+
+Each of us, and all of us together as a human species aboard planet Earth, are on an epic [[Quest]] towards our best and highest destiny. We have made great progress, suffered tragedies and setbacks, and learned and grown along the way. 
+
+## Something Is Deeply Wrong 
+
+As we evaluate [[Where We Are]] and [[Where We Are Going]], we all can sense that [[Something Is Deeply Wrong]]. The vast majority of humanity understands that [[We Are On The Wrong Track]] and headed in the wrong direction. [[What got us here will not get us to where we want to go]]. 
+
+## We Are Facing a Meta Crisis 
+
+We are sensing this because it is true. Humanity is facing an unprecedented [[Meta Crisis]]. The coming 7 to 10 years may be among the most challenging in history as we grapple with centuries of dysfunction and mismanagement of the human enterprise. 
+
+## Humanity is Deeply Divided
+
+At a time when we need to be working together more than every to [[Confront And Overcome The Meta Crisis]] and [[Forge A Flourishing Future]] for [[All]], [[Humanity Is Deeply Divided]]. 
+
+Yet in isolation, our siloed and fragmented activities all lack the true transformational power required to avoid failure, and succeed. 
+
+## The Chasm 
+
+The result is that we are hurtling towards a great chasm that stands between [[Where We Are]], and the flourishing, abundant, and secure future we all desire for our loved ones. 
+
+## Lionsberg 
+
+We have co-created [[Lionsberg]] as a [[Way]] for humanity to leap across the chasm into a flourishing and abundant [[New Era]], and to avoid being dashed upon the rocks of [[Chaos]] that lie at the end of our present trajectory. 
+
+Lionsberg is simply a mythical name that brings together powerful spiritual symbolism into a [[New Vision and Plan]] for humanity. 
+
+At present, it is a [[New Story]] and a [[New Vision and Plan]], as well as a concrete and pragmatic New System to empower humanity to bring the Vision and Story into Reality. 
+
+## The Plan 
+
+The plan is to: 
+
+1. Speak Truth and Wisdom and broadcast the [[New Vision and Plan]] for humanity   
+2. Awaken and inspire the global community  
+3. Connect and empower the global community 
+4. Elect an Independent US President in 2024  
+5. Work together to design and build a flourishing and abundant [[New World]] for all  
 
 ## A Personal Story As A Bridge
 If you'd like to know more about where the story originates from, my life is an open book, and I would be happy to share it with you. It may be that the more you get to know me, the more the mythical story I am living in and telling will make sense. 
@@ -22,16 +60,19 @@ The more I grew to understand the eternal and universal Story, the more I came t
 
 Because it cannot be told or understood literally, the Story has to be told mythologically.  
 
-While it is an extraordinary challenge, I was deeply compelled to begin co-creating a mythical place called Lionsberg in which we could begin to act out the propositions, Logic, and Way of Being in the [[New World]]. 
+While it is an extraordinary challenge, I was deeply compelled to begin co-creating a mythical place called Lionsberg in which we could begin to act out and [[Embody]] the [[Logos]] and [[Way of Being]] of the [[New World]]. 
 
-If enough people simply decided to act it out, as if it were a game we could voluntarily choose to play together, it would actually in-break, displace the [[Old]], and become our present Reality. 
+If enough people simply decided to act it out, as if it were a game we could voluntarily choose to play together, the [[New World]] would progressively in-break, displace the [[Old World]], and becomes our present Reality. This is because we are the ones who are creating our existing reality. We therefore have the power, authority, and responsibility to change it. 
 
 The [[Story of Lionsberg]] is the story of an epic Quest out of the bondage and suffering of the [[Old World]], into an entirely regenerated [[New World]].  
 
-It is an experiment. It might work. 
+It is an experiment. It might work. The future might hinge on it. 
 
 ## Your Story
-If it is going to work, I am going to need your help, and I am going to need you to creatively weave your own story into the [[Meta Story]] that is unfolding through us. 
+
+If this is going to work, we are going to have to work on it together. I need your help. 
+
+This means that we are going to need to see if we can [[Align]] [[Your Story]] with the [[Meta Story]].  
 
 Would you be willing to in engage in an experiment with me and see what happens? The world needs you, and you have a unique and important role to play. The [[New World]] cannot become our Reality until we [[All]] decide to play the same overarching and uniting Game, and live in the same overarching and uniting Story. 
 
