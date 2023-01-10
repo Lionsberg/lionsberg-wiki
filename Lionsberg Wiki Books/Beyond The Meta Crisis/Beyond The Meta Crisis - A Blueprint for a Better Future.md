@@ -109,23 +109,35 @@
 
 ### Chapter 15: Introduction to the New Vision and Plan 
 
-#### 15.1 The need for a new vision and plan for humanity 
-#### 15.2 The purpose of the New Vision and Plan 
-#### 15.3 The key elements of the New Vision and Plan
+#### [[15.1 The need for a new vision and plan for humanity]]
+#### [[15.2 The purpose of the New Vision and Plan ]]
+#### [[15.3 The key elements of the New Vision and Plan]]
 
 ### Chapter 16: The Key Elements of the New Vision and Plan 
 
-#### 16.1 The values of the New Vision and Plan 
-#### 16.2 The goals of the New Vision and Plan 
-#### 16.3 The strategies of the New Vision and Plan 
-#### 16.4 The guiding principles of the New Vision and Plan
+#### [[16.1 The principles and values that guide the New Vision and Plan]] 
+#### [[16.2 The goals of the New Vision and Plan ]]
+#### [[16.3 The scope and scale of the New Vision and Plan]]  
+#### [[16.4 The strategies of the New Vision and Plan ]] 
+#### 16.5 The Components of the New Vision and Plan  
+##### 16.5.1 Economic Justice and Reform 
+##### 16.5.2 Social Justice and Reform 
+###### 16.5.3 Environmental Justice and Reform 
+##### 16.5.4 Governance and Political Reform 
+##### 16.5.5 Development and Wellbeing Justice and Reform
+##### 16.5.6 Energy Justice and Reform 
+##### 16.5.7 Infrastructure Justice and Reform 
+##### 16.5.8 A Comprehensive Approach to the Global Goals 
+##### 16.5.9 A Comprehensive Approach to the Grand Challenges 
+##### 16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth
+
 
 ### Chapter 17: The Impact of the New Vision and Plan 
 
 #### 17.1 The potential impact of the New Vision and Plan on individuals, communities, and the world 
 #### 17.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
 #### 17.3 The potential for the New Vision and Plan to address the root causes of the Meta Crisis and prevent future crises 
-#### 17.4 The potential for the New Vision and Plan to create a more sustainable, equitable, and harmonious world
+#### 17.4 The potential for the New Vision and Plan to create a more sustainable, just, and harmonious world
 
 ## Section VIII: Implementing the New Vision and Plan
 

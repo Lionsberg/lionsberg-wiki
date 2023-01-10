@@ -2,15 +2,23 @@
 
 Welcome. We are glad you are here. 
 
-As we face into the [[Meta Crisis]], Lionsberg is putting forward a [[New Vision and Plan]] for humanity, and a system  purpose-built to bring the vision into reality. 
+As we face into the [[Meta Crisis]], [[Jordan Nicholas Sukut]] and Lionsberg are putting forward a [[New Vision and Plan]] for humanity, and a system purpose-built to bring the vision into reality. 
 
-Our mission is to connect and inspire a diverse global community to design and build itself so that together we can design and build a better world. 
+Our mission is to connect and inspire a diverse global community to design and build itself so that together we can design and build the better future we all desire. 
 
-This wiki is a powerful and detailed back-end for more user-friendly and polished front end that is in development. This wiki contains thousands of interrelated pages and topics that are being progressively articulated. If you click a link and it doesn't work it is not an error, it is a feature and inner look into the ongoing development of this cultural artifact. 
+The [[New Vision and Plan]] is articulated the form of a [[Pattern Language]] for the [[New World]], that can be be easily understood and replicated by anyone who wishes to apply it. 
+
+The [[Lionsberg System]] was purpose-built to enable and empower humanity to [[Embody]] the Pattern Language of the New World. 
+
+This wiki is a powerful and detailed back-end for more user-friendly and polished front end that is in development. it contains thousands of interrelated pages and topics that are being progressively articulated. If you click a link and it doesn't work it is not an error, it is a feature and inner look into the ongoing development of this cultural artifact. 
+
+[[Fractal]] 
+
+
 
 [[Jordan Nicholas Sukut]] is the founder and architect of Lionsberg and the [[New Vision and Plan]]. Understanding him will help you understand Lionsberg. [[Above The Chaos]] is Jordan's blog and a place to find some narrative content. 
 
-Jordan's Vision and Goal and Lionsberg's Vision and Goal are to confront and overcome the [[Meta Crisis]] and accomplish the [[Meta Goal]] in service of [[One]] and [[All]]. The central animating Spirit is [[One]], and the uniting principle is [[Love]]. 
+Our Mission is to confront and overcome the [[Meta Crisis]] and accomplish the [[Meta Goal]] in service of [[One]] and [[All]]. The central animating Spirit is [[One]], and the uniting principle is [[Love]]. 
 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]] offers the most user friendly and accessible outline to New Vision and Plan currently available. 
 
