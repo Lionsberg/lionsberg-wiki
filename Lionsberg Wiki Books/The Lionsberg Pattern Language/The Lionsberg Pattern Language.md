@@ -330,6 +330,25 @@ Here is a possible interrelated set of 144 patterns that if followed at every fr
 
 **144.** **Recognition and Rewards** 
 
+## Fractal Levels of Application 
+
+1.     Energy
+2.     Microbiome
+3.     Plants
+4.     Animals
+5.     Humans
+6.     Families
+7.     Tribes
+8.     Communities
+9.     Bio Regions
+10.  Geographic Regions
+11. Nations 
+12. The Human System  
+13. The Living System 
+14. The Lionsberg System 
+15. The Meta System 
+
+
 These patterns are designed to be interrelated and fractally consistent, meaning that the concepts learned in one area can be applied to other levels of analysis. The use of a holistic systems thinking approach, incorporating feedback loops, using a pattern language, involving experts from different fields, involving citizens in data collection and program design and using visual representation, will help in creating interoperability across all instances of the language.
 
 It is also important to note that this list of patterns is not exhaustive and can be adjusted and expanded as necessary to suit the specific context and needs of a community. The key is to adopt a practically consistent pattern language that harmonizes human development with the development and well-being of communities, society, and the living system that contains them.
