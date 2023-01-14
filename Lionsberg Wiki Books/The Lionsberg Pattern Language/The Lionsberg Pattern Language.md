@@ -330,7 +330,7 @@ Here is a possible interrelated set of 144 patterns that if followed at every fr
 
 **144.** **Recognition and Rewards** 
 
-## Fractal Levels of Application 
+## Fractal Levels of Abstraction and Application 
 
 1.     Energy
 2.     Microbiome
