@@ -1,10 +1,12 @@
 # Lionsberg
 
-Lionsberg is an Idea of a New World and New Way of Being. 
+Lionsberg is a mythical name for the New World we are designing and building. 
 
-[[The Idea]] is being concretely expressed through a Community, System, Platform, and Experience purpose-built to bring [[The Idea]] into [[Reality]]. 
+The guiding philosophy of Lionsberg is expressed concretely through a community, system, platform and experience purpose-built to help humanity design and build a flourishing and abundant world that works for all its inhabitants. 
 
-[[The Idea]] is expressed in the form of a Mythical Story about a group of people who, at the most critical inflection point in human history, arose and united to confront and overcome the grand challenges, and Co-Create The New World. 
+The Spirit and [[Logos]] of Lionsberg is expressed through a [[Pattern Language]] that can be easily understood and adapted by individuals, organizations, tribes and nations around the world. 
+
+It is also expressed in the form of a Mythical Story about a group of people who, at the most critical inflection point in human history, arose and united to confront and overcome the grand challenges, and Co-Create The New World. 
 
 It 8 billion people decide to [[Enact]] the [[Story of Lionsberg]], the [[New World]] is already at hand, and it will be [[Becoming]] [[A Little Better Every Day]] because [[All]] will be [[Working Together To Make It So]]. 
 
@@ -43,6 +45,7 @@ This allows each [[Individual And Local]] element to [[Choosing A Worthy Aim|Cho
 ### Personality 
 - Servant of All 
 - Elevate, Equip, and Empower Others 
+- Truthful  
 - Loving  
 - Just  
 - Kind  
