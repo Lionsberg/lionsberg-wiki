@@ -14,11 +14,11 @@ This is a book of words spoken from the Spirit that impels us to confront and ov
 
 “Truth never damages a cause that is just." - [[Mahatma Gandhi]]  
 
-"A true revolution of values will soon cause us to question the fairness of justice of many of our past and present policies." - [[Martin Luther King Jr.]]  
+"A true revolution of values will soon cause us to question the fairness and justice of many of our past and present policies." - [[Martin Luther King Jr.]]  
 
 "I tremble for my country when I reflect that God is just; that His justice cannot sleep forever." - [[Thomas Jefferson]]
 
-"We must learn to live together as brother or perish together as fools." - [[Martin Luther King Jr.]]  
+"We must learn to live together as brothers or perish together as fools." - [[Martin Luther King Jr.]]  
 
 "Seek first the Kingdom of God, and all these things will be added unto you as well." - [[Jesus]]   
 
@@ -150,7 +150,7 @@ This is a book of words spoken from the Spirit that impels us to confront and ov
 
 “We shall overcome because the arc of the moral universe is long but it bends toward justice.” - [[Martin Luther King Jr.]] 
 
-"The potential for love and the potential for fear are present in every soul, but the potential of love is exceedingly and abundantly greater" - J 
+"The potential for love and the potential for fear are present in every soul, but the potential of love is exceedingly and abundantly greater." - J 
 
 “Prisons do not disappear social problems, they disappear human beings. Homelessness, unemployment, drug addiction, mental illness, and illiteracy are only a few of the problems that disappear from public view when the human beings contending with them are relegated to cages.” - Angela Davis
 
@@ -162,7 +162,7 @@ This is a book of words spoken from the Spirit that impels us to confront and ov
 
 “When you see something that is not right, not fair, not just, you have to speak up. You have to say something; you have to do something.” - John Lewis
 
-“Justice will not be served until those who are unaffected are as outraged as those who are.” - Benjamin Franklin
+“Justice will not be served until those who are unaffected are as outraged as those who are.” - Unknown
 
 “It is not possible to be in favor of justice for some people and not be in favor of justice for all people.” - [[Martin Luther King Jr.]]
 
