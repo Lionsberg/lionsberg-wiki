@@ -1,9 +1,7 @@
 # FAQ - Why?
 
-A [[Meta Crisis]] / [[Meta Opportunity]] demands a [[Meta Solution]]. 
+An unprecedented [[Meta Crisis]] demands an unprecedented [[Meta Solution]]. 
 
-A [[Meta Solution]] demands a [[Meta Community]]. 
+The heart and spirit of Love is impelled to move powerfully to meet needs, solve problems, relieve suffering, and secure the future for its loved ones. 
 
-A [[Meta Community]] demands that consciously choose what it is that we will unite ourselves around. 
-
-The only possible solution is the [[Meta Intention]] / [[Meta Goal]] / [[One Thing]], which is [[Absolute And Unconditional Love]] for [[One]] and [[All]]. 
+If one extends their Love to All, a system and approach is required that can forge the higher order functional unity required to help All meet their needs, solve their problems, and accomplish their goals in a way that helps All others do the same. 
