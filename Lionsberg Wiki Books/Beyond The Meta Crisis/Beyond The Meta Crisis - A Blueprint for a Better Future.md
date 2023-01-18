@@ -1,13 +1,15 @@
 # Beyond the Meta Crisis: A Blueprint for a Better Future 
 
+This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator. 
+
 ## Section I: Introduction 
 
-#### [[0.1 About the Architect]]  
-#### [[0.2 Orientation]]  
+#### 0.1 About the Architect  
+#### 0.2 Orientation  
 
 ### Chapter 1: The Meta Crisis
 
-#### [[1.1 What is the Meta Crisis?]] 
+#### 1.1 What is the Meta Crisis?  
 #### 1.2 Examples of the Meta Crisis 
 #### 1.3 The Meta Crisis as an unprecedented challenge
 
@@ -66,8 +68,7 @@
 
 #### 9.1 The events and forces that have led to the awakening of humanity 
 #### 9.2 The motivations and values of the awakened generation 
-#### 9.3 The difference between woke and awakened
-#### 9.4 The differences between the awakened generation and previous generations
+#### 9.3 The differences between the awakened generation and previous generations
 
 ### Chapter 10: The Quest for the Best and Highest Destiny 
 
