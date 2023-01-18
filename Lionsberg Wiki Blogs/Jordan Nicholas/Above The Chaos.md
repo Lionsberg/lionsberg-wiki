@@ -7,6 +7,9 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## January 2023 
 - [[Above The Chaos, The Vision of the New World]]  
+- [[Above The Chaos, A Clear Strategy and Plan For The New Year]]  
+- [[Above The Chaos, What I Have Heard Asked Of Me]]  
+- [[Above The Chaos, Frequently Asked Questions]]  
 
 ## December 2022
 
