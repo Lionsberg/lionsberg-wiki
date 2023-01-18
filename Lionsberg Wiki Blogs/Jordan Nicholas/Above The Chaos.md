@@ -3,9 +3,10 @@
 Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder / co-creator of Lionsberg.
 
 ## Featured Posts
+- [[Above The Chaos, The Vision of the New World]]  
 
 ## January 2023 
-- 
+- [[Above The Chaos, The Vision of the New World]]  
 
 ## December 2022
 
