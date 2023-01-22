@@ -6,7 +6,7 @@ The [[Lionsberg System]] operates on a [[Narrative Framework]] married up to Sys
 
 It precedes vision / intention / goal by ensuring those are aligned at the deepest level with [[Purpose]]. 
 
-It invokes the [[Lionsberg System Of Purpose And Meaning]]. 
+It invokes the [[Lionsberg System Of Spirituality, Purpose And Meaning]]. 
 
 Narrative Framework: 
 1. [[Where We Are Going]] and [[Why]]  

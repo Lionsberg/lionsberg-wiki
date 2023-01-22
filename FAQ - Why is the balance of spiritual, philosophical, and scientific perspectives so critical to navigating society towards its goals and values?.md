@@ -1,0 +1,11 @@
+# FAQ - Why is the balance of spiritual, philosophical, and scientific perspectives so critical to navigating society towards its goals and values?
+
+The balance of spiritual, philosophical, and scientific perspectives is critical to navigating society towards its goals and values for several reasons.
+
+First, spiritual perspectives offer a sense of meaning, purpose, and values that help guide individuals and communities in their decision making. They promote a sense of connection to something greater than ourselves, and give us a sense of direction and motivation in our actions. They encourage us to look beyond our own limited time and space, to the universal and eternal perspective. They can also provide a sense of inner guidance and wisdom that can be invaluable in making decisions that align with our deepest values, beliefs, and understanding of the wisdom, nature, and intention of God.
+
+Second, philosophical perspectives offer a framework for understanding the nature of reality and the human experience. They provide us with a way to think about the world, and to make sense of the complex issues and problems that we face. They also provide us with a way to make ethical and moral decisions, and to consider the impact of our thoughts, words, and actions on the human, social and living systems we inter-exist with. 
+
+Third, scientific perspectives offer a way to understand the natural world, and to make evidence-based decisions. They provide us with a way to gather and analyze data, and to make predictions about the future. They also provide us with a way to test and validate our assumptions and hypotheses, which is critical for decision making that is grounded in reality as best we currently understand it. 
+
+In summary, the balance of spiritual, philosophical, and scientific perspectives is critical to navigating society towards its goals and values because it allows us to make informed decisions that are grounded in the realities of our own time and place, guided by our deepest values, and that also take into account the impact of our actions on others in the broadest universal and eternal sense. By integrating these three perspectives, we can make decisions that are wise, ethical, and effective, and that lead to a more just, sustainable, and prosperous world for all.

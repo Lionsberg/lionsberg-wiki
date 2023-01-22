@@ -8,9 +8,13 @@ The idea of the **Meta Goal** is critical because it provides a framework in whi
 
 Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid the [[Patterns of Failure|Pattern of Failure]] that occurs when we [[Concretizing The Absolute|Concretize The Absolute]]. 
 
-It could be described as (something like): 
+The Meta Goal could be described as (something like): 
 
 _The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._  
+
+One level of abstraction up from that, it could be said that the Meta Goal is the will and intention of [[One]] / God. 
+
+At the highest level of abstraction, the Meta Goal *is* [[One]]. 
 
 Making this Goal a Reality would require solving the [[Total Nested Hierarchy of Issues]] and accomplishing the [[Total Nested Hierarchy of Goals]]. 
 

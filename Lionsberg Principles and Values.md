@@ -38,7 +38,7 @@ These ten words represent additional values and principles that are central to t
 
 [[Humility]]: The value of humility represents a commitment to modesty, self-awareness, and self-control. It means recognizing one's limitations and being open to learning from others, rather than trying to assert one's own ego or self-importance.
 
-[[Self-Control]]: The value of self-control represents a commitment to discipline, self-regulation, and self-mastery. It means being able to resist temptation and control one's own actions, thoughts, and emotions in a healthy and constructive manner.
+[[Self Control]]: The value of self-control represents a commitment to discipline, self-regulation, and self-mastery. It means being able to resist temptation and control one's own actions, thoughts, and emotions in a healthy and constructive manner.
 
 [[Non-Harm]]: The value of non-harm represents a commitment to non-violence, non-aggression, and respect for the rights of others. It means seeking to do no harm to others, and working to create a world that is free from violence, conflict, and suffering.  
 

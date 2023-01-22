@@ -58,7 +58,7 @@ In [[Mondragon]], the elders say _"We are going to help God finish our world."_
 
 [[Arizmendi]] believed that education, along with meaningful work, were the core elements that transformed human beings. 
 
-In Mondragon, [[Sirimiri]] is a [[Word Tool]] they use to point to a light little rain. [[Arizmendi]] used this as a metaphor for teaching, and would give little [[20 Minute Talk Every Day]]. A little rain, a little enlightenment at a time, recognizing that the seeds of Wisdom and Knowledge take many years to grow. 
+In Mondragon, [[Sirimiri]] is a [[Word Tool]] they use to point to a light little rain. [[Arizmendi]] used this as a metaphor for teaching, and would give little [[Fireside Chats]]. A little rain, a little enlightenment at a time, recognizing that the seeds of Wisdom and Knowledge take many years to grow. 
 
 - Meta Skills - training series 
 	- Future proofing through meta skills training 
@@ -304,7 +304,7 @@ In Mondragon, [[Sirimiri]] is a [[Word Tool]] they use to point to a light littl
 - [[Arizmendi]] spent 10 years speaking and giving conferences. People agreed with the ideas, but no one changed. Bad strategy. 
 
 ## Mondragon Learnings 
-- [[20 Minute Talk Every Day]] - [[Sirimiri]]  
+- [[Fireside Chats]] - [[Sirimiri]]  
 - Don't transform the [[Old]], [[Co-Create]] the [[New]] 
 - Need for an internal [[Bank]] 
 - Mondragon Experience - Not Mondragon Model 

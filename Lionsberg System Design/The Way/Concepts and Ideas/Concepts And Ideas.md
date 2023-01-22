@@ -32,3 +32,6 @@ This is a 2% list that is just a placeholder...
 - [[The "Way"]]
 - [[Universal and Eternal]]
 
+Patterns 
+
+[[Fireside Chats]]

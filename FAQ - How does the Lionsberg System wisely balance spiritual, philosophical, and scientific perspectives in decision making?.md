@@ -1,0 +1,11 @@
+# FAQ - How does the Lionsberg System wisely balance spiritual, philosophical, and scientific perspectives in decision making?
+
+The Lionsberg System balances spiritual, philosophical, and scientific perspectives in decision making by incorporating a holistic approach that takes into account the wisdom, knowledge, and evidence from all three perspectives.
+
+Firstly, the Lionsberg System recognizes the importance of spiritual wisdom and inner guidance in decision making. By encouraging individuals to tap into their own inner wisdom and listen to their own higher inner guidance, the Lionsberg System promotes personal growth, self-awareness, and the development of spiritual practices that are vital for the health and well-being of all living things.
+
+Secondly, the Lionsberg System incorporates the philosophical perspective of looking at the world holistically from the highest possible perspective, and taking into account the interconnectedness and interdependence of all living things. This helps to ensure that decisions are made with the long-term well-being of all living things in mind, rather than just short-term gains for any one aspect or element of society.
+
+Thirdly, the Lionsberg System utilizes the scientific perspective of evidence-based decision making, which is vital for understanding the facts and data that inform decisions and actions. By encouraging the use of data and research to inform decision making, the Lionsberg System promotes the use of objective, verifiable evidence to guide actions, in addition to wisdom and intuition.
+
+In summary, the Lionsberg System balances spiritual, philosophical, and scientific perspectives in decision making by incorporating a holistic approach that takes into account the wisdom, knowledge, and evidence from all three perspectives. This ensures that decisions are made with the long-term well-being of all living things in mind, utilizing both spiritual wisdom and inner guidance, and evidence-based decision making. This approach promotes personal growth, self-awareness, and the development of spiritual practices while staying grounded in facts and evidence, which is vital for the health and well-being of all living things.

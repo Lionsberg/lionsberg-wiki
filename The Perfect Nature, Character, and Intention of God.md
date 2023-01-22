@@ -1,8 +1,8 @@
 # The Perfect Nature, Character, and Intention of God
 
-The bible teaches that God is perfect, and that we are to be perfect, as God is perfect (Matthew 5:48). Jesus's words in Matthew parallel the injunction in Leviticus 19:2 "You shall be holy; for I the Lord your God am holy." 
+The bible teaches that God is perfect, and that we are to be perfect as God is perfect (Matthew 5:48). Jesus's words in Matthew parallel the injunction in Leviticus 19:2 "You shall be holy; for I the Lord your God am holy." 
 
-By definition, God must always remain a mystery that is beyond our comprehension (Job 11:7). Yet glimpses of His perfect nature, character, and intention are revealed throughout scripture and throughout creation (Romans 1:20). 
+By definition, God must always remain a mystery that is beyond our comprehension (Job 11:7). Yet glimpses of His perfect nature, character, and intention are revealed throughout scripture and throughout creation (Romans 1:20) such that we can all understand His character, nature, essence, and intention. 
 
 God is the creator of the universe, eternal, all-powerful, all-knowing, all-present, and holy. God is loving, just, kind, merciful, gracious, faithful, sovereign, and the redeemer. God is the sustainer of life, the source of truth, wisdom, hope, peace, joy, strength, comfort, guidance, protection, salvation, righteousness, sanctification, holiness, and glory. God is righteous, just, merciful, loving, compassionate, faithful, long-suffering, good, and wise. God is the ruler of all, the Lord of lords, the King of kings, the Almighty, the Most High, the Ancient of Days, the Rock, the Fortress, the Deliverer, the Savior, the Redeemer, the Mediator, the Lawgiver, and the Judge. God is the owner of the earth, the King, the Lord, the Master, the Potentate, the Shepherd, and the Teacher. God is the Word, the Light, the Way, the Truth, the Life, the Door, the Bread, the Water, the Vine, the First and the Last, the Alpha and the Omega, the Beginning and the End, the Author and the Finisher. God is in all, and through all, and in Him we live and move and breathe and have our very being. 
 
@@ -144,9 +144,9 @@ God is the creator of the universe, eternal, all-powerful, all-knowing, all-pres
 
 69.  God is the Avenger (Psalm 94:1, Romans 12:19)
 
-70.  God is the Righteousness (Jeremiah 23:6, 1 Corinthians 1:30)
+70.  God is Righteousness (Jeremiah 23:6, 1 Corinthians 1:30)
 
-71.  God is the Holiness (1 Peter 1:15-16, Isaiah 6:3)
+71.  God is Holiness (1 Peter 1:15-16, Isaiah 6:3)
 
 72.  God is the Sanctification (1 Thessalonians 4:3, 1 Corinthians 1:30).
 
@@ -205,3 +205,9 @@ God is the creator of the universe, eternal, all-powerful, all-knowing, all-pres
 99.  God is the one who is sovereign (Psalm 115:3, Daniel 4:35)
 
 100.                 God is the one who is omnipotent (Revelation 19:6, Isaiah 40:28)
+
+___
+
+Forward to [[Transforming Our Lives Towards Perfection]]  
+Back to [[The Story Of The Bible]]    
+Back to table of contents [[Lionsberg - A Biblical Perspective]]    
