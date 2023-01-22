@@ -5,6 +5,7 @@
 [[Template For Pattern Language (Simple)]] 
 [[Action Domains]] 
 [[Integration Domains]]  
+[[Lionsberg Lexicon]]  
 
 Here is a possible interrelated set of 144 patterns that if followed at every fractal level of the human systems, would cause all people and all creation to develop towards the fullness of thier potential and flourish in harmony:
 
@@ -26,7 +27,7 @@ Here is a possible interrelated set of 144 patterns that if followed at every fr
 
 **8.**       **The One and All**
 
-**9.**       **The Arichitecture, Structure and Design**
+**9.**       **The Architecture, Structure and Design**
 
 **10.**    **The Operating System**
 
@@ -147,10 +148,8 @@ Here is a possible interrelated set of 144 patterns that if followed at every fr
 **62.**    **Citizen Led Infrastructure and Utilities (Energy, Water, Sanitation, Information, Recycling, Roadways, Bridges, etc.)**
 
 **63.**    **Citizen Led Transportation and Logistics** 
-
 **64.**    **Citizen Led Technology** 
-
-**65.**    **Citizen Led Agricutlure and Food Systems**
+**65.**    **Citizen Led Agriculture and Food Systems**
 
 **66.**    **Citizen Led Energy**
 

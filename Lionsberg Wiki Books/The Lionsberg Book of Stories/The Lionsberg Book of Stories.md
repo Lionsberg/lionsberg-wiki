@@ -56,8 +56,6 @@ This is a quick mini-book being drafted in partnership with AI with minimal edit
 50.  Amos and the Sheep: The story of the prophet Amos being told to go and speak out against the injustice and corruption in Israel.
 51.  Abraham and the Covenant: The story of Abraham, the first patriarch of Judaism, and his covenant with God.
 
-
-
 ## Stories From The Muslim Tradition 
 
 
@@ -71,6 +69,8 @@ This is a quick mini-book being drafted in partnership with AI with minimal edit
 
 
 ## Stories From Indigenous Traditions 
+
+## Stories From Scientific and Agnostic Traditions 
 
 
 
