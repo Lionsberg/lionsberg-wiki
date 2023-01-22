@@ -35,22 +35,23 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator.
 
 #### [[4.1 Historical context for the Meta Crisis]]   
 #### [[4.2 Structural and systemic causes of the Meta Crisis]] 
-#### 4.3 The role of human behavior in the Meta Crisis 
+#### [[4.3 The role of human behavior in the Meta Crisis]] 
 
 ### Chapter 5: The Consequences of the Meta Crisis
 
-#### 5.1 The impact on individuals, communities, and the world 
-#### 5.2 The long-term consequences of the Meta Crisis 
-#### 5.3 The urgency of addressing the Meta Crisis
+#### [[5.1 The impact on individuals, organizations, communities, and the world]] 
+#### [[5.2 The long-term consequences of the Meta Crisis]] 
+#### [[5.3 The urgency of addressing the Meta Crisis]] 
 
 ## Section III: The Need for a New Vision and Plan
 
 ### Chapter 6: The Limitations of Current Approaches 
 
-#### 6.1 The ineffectiveness of current approaches 
-#### 6.2 The reasons for the limitations of current approaches 
-#### 6.3 The need for a new vision and plan 
-#### 6.4 The Need for a comprehensive system and approach 
+#### [[6.1 The ineffectiveness of current approaches]] 
+#### [[6.2 The reasons for the limitations of current approaches]] 
+#### [[6.3 The need for a new vision and plan]]
+#### [[6.4 The need for a comprehensive New System and Approach]]  
+#### [[6.5 Acceptance criteria for the New System and Approach]] 
 
 ### Chapter 7: The Benefits of a New Vision and Plan
 
