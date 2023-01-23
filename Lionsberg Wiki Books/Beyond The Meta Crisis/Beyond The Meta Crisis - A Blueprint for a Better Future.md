@@ -92,15 +92,16 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator.
 
 ### Chapter 12: The Early Efforts of the Rising Movement 
 
-#### 12.1 The early efforts of the rising movement to confront the grand challenges and co-create a better future 
-#### 12.2 The challenges and successes of these early efforts 
-#### 12.3 The potential of the rising movement to create meaningful and lasting change
+#### [[12.1 The early efforts of the rising movement to confront the grand challenges and co-create a better future]] 
+#### [[12.2 The challenges and successes of these early efforts]] 
+#### [[12.3 The potential of the rising movement to create meaningful and lasting change]]  
 
 ### Chapter 13: The Lionsberg System 
 
-#### 13.1 The concept of the Lionsberg System as a new operating system for humanity 
-#### 13.2 How the Lionsberg System will empower individuals and communities to address their specific issues and pain points 
-#### 13.3 The potential for the Lionsberg System to create a more united and harmonious world
+#### [[13.1 The need for a new operating system and approach]]
+#### [[13.2 The concept of the Lionsberg System as a new operating system for humanity]] 
+#### [[13.3 How the Lionsberg System will empower individuals and communities to address their specific issues and pain points]] 
+#### 13.4 The potential for the Lionsberg System to create a more united and harmonious world
 
 ### Chapter 14: The United Front
 
