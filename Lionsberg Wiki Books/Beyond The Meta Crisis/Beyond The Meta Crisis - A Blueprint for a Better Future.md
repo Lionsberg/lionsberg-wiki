@@ -101,17 +101,13 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator.
 #### [[13.1 The need for a new operating system and approach]]
 #### [[13.2 The concept of the Lionsberg System as a new operating system for humanity]] 
 #### [[13.3 How the Lionsberg System will empower individuals and communities to address their specific issues and pain points]] 
-#### 13.4 The potential for the Lionsberg System to create a more united and harmonious world
+#### [[13.4 The potential for the Lionsberg System to create a more united and harmonious world]] 
 
 ### Chapter 14: The United Front
 
-#### 14.1 The formation of the united front in response to the need for a more comprehensive approach to the Meta Crisis 
-#### 14.2 The role of the united front in driving the rising movement 
-#### 14.3 The potential for the united front to create meaningful and lasting change 
-#### 14.4 The structure and organization of the united front 
-#### 14.5 The principles and values of the united front 
-#### 14.6 The key stakeholders and partners of the united front 
-#### 14.7 The strategy and tactics of the united front
+#### [[14.1 The formation of the united front in response to the need for a more comprehensive approach to the Meta Crisis]]  
+#### [[14.2 The role of the united front in driving the rising movement]] 
+#### [[14.3 The potential for the united front to create meaningful and lasting change]]  
 
 ## Section VII: The New Vision and Plan for Humanity
 
