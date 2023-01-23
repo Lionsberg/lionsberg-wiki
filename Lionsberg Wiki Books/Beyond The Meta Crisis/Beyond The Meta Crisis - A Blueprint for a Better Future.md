@@ -1,6 +1,6 @@
 # Beyond the Meta Crisis: A Blueprint for a Better Future 
 
-This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator. 
+This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and accelerate progress. 
 
 ## Section I: Introduction 
 
@@ -117,23 +117,23 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator.
 #### [[15.2 The purpose of the New Vision and Plan ]]
 #### [[15.3 The key elements of the New Vision and Plan]]
 
-### Chapter 16: The Key Elements of the New Vision and Plan 
+### Chapter 16: The New Vision and Plan 
 
 #### [[16.1 The principles and values that guide the New Vision and Plan]] 
 #### [[16.2 The goals of the New Vision and Plan ]]
 #### [[16.3 The scope and scale of the New Vision and Plan]]  
 #### [[16.4 The strategies of the New Vision and Plan ]] 
 #### 16.5 The Components of the New Vision and Plan  
-##### 16.5.1 Economic Justice and Reform 
-##### 16.5.2 Social Justice and Reform 
-###### 16.5.3 Environmental Justice and Reform 
-##### 16.5.4 Governance and Political Reform 
-##### 16.5.5 Development and Wellbeing Justice and Reform
-##### 16.5.6 Energy Justice and Reform 
-##### 16.5.7 Infrastructure Justice and Reform 
-##### 16.5.8 A Comprehensive Approach to the Global Goals 
-##### 16.5.9 A Comprehensive Approach to the Grand Challenges 
-##### 16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth
+##### [[16.5.1 Economic Justice and Reform]] 
+##### [[16.5.2 Social Justice and Reform]] 
+###### [[16.5.3 Environmental Justice and Reform]] 
+##### [[16.5.4 Governance and Political Reform]] 
+##### [[16.5.5 Integrated Development and Wellbeing Justice and Reform]]  
+##### [[16.5.6 Energy Justice and Reform]] 
+##### [[16.5.7 Infrastructure Justice and Reform]] 
+##### [[16.5.8 A Comprehensive Approach to the Global Goals]] 
+##### [[16.5.9 A Comprehensive Approach to the Grand Challenges]] 
+##### [[16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth]]
 
 
 ### Chapter 17: The Impact of the New Vision and Plan 
