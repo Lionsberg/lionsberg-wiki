@@ -74,19 +74,19 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as a translator.
 #### [[9.1 The Awakening of Humanity]]
 #### [[9.2 The events and forces that have led to the awakening of humanity]]  
 #### [[9.3 The motivations and values of the awakened generation]] 
-#### 9.4 The differences between the awakened generation and previous generations
+#### [[9.4 The differences between the awakened generation and previous generations]]
 
 ### Chapter 10: The Quest for the Best and Highest Destiny 
 
-#### 10.1 The concept of the Quest for the best and highest Destiny 
-#### 10.2 The motivations for the Quest 
-#### 10.3 The guiding principles and values of the Quest
+#### [[10.1 The concept of the Quest for the best and highest Destiny]] 
+#### [[10.2 The motivations for the Quest]]   
+#### [[10.3 The guiding principles and values of the Quest]]  
 
 ### Chapter 11: The Role of the Awakened Generation
 
-#### 11.1 The importance of the awakened generation in driving the Quest and the rising movement 
-#### 11.2 The ways in which the awakened generation can contribute to the creation of a better future 
-#### 11.3 Ideas and inspiration for readers to become more involved in the Quest and the rising movement
+#### [[11.1 The importance of the awakened generation in driving the Quest and the rising movement]]  
+#### [[11.2 The ways in which the awakened generation can contribute to the creation of a better future]] 
+#### [[11.3 Ideas and inspiration for readers to become more involved in the Quest and the rising movement]]  
 
 ## Section VI: The Rising Movement
 
