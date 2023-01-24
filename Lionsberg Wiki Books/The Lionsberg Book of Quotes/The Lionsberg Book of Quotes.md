@@ -4,6 +4,8 @@ This is a book of words spoken from the Spirit that impels us to confront and ov
 
 "In the beginning, God..." - Genesis 1
 
+"I have the audacity to believe that peoples everywhere can have three meals a day for their bodies, education and culture of their minds, and dignity, equality, and freedom for their spirits. I believe that what self-centered men have torn down, men other-centered can build up I still believe that one day mankind will bow before the altars of God and be crowned triumphant over war and bloodshed, and nonviolent redemptive goodwill will proclaim the rule of the land." - [[Martin Luther King Jr.]]  
+
 "We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.” — [[Martin Luther King Jr.]]
 
 "I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities." - [[Nelson Mandela]]
