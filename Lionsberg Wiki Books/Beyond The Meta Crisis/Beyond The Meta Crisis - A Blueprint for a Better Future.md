@@ -224,9 +224,10 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 28: The Future We Seek  
 
-#### [[28.1 A vision of the future as envisioned by the New Vision and Plan]] 
-#### 28.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
-#### 28.3 The role of the rising movement in co-creating the future we seek
+#### 28.1 The Importance of Vision and Imagination
+#### [[28.2 A vision of the future as envisioned by the New Vision and Plan]] 
+#### 28.3 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
+#### 28.4 The role of the rising movement in co-creating the future we seek
 
 ### Chapter 29: The Way Forward 
 
