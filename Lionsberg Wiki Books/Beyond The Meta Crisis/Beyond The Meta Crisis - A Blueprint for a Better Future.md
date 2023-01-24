@@ -138,10 +138,9 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 17: The Impact of the New Vision and Plan 
 
-#### 17.1 The potential impact of the New Vision and Plan on individuals, communities, and the world 
-#### 17.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
-#### 17.3 The potential for the New Vision and Plan to address the root causes of the Meta Crisis and prevent future crises 
-#### 17.4 The potential for the New Vision and Plan to create a more sustainable, just, and harmonious world
+#### [[17.1 The potential impact of the New Vision and Plan on individuals, communities, and the world]] 
+#### [[17.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth]] 
+#### [[17.3 The potential for the New Vision and Plan to address the root causes of the Meta Crisis and prevent future crises]]  
 
 ## Section VIII: Implementing the New Vision and Plan
 
@@ -225,7 +224,7 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 28: The Future We Seek  
 
-#### 28.1 A vision of the future as envisioned by the New Vision and Plan 
+#### [[28.1 A vision of the future as envisioned by the New Vision and Plan]] 
 #### 28.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
 #### 28.3 The role of the rising movement in co-creating the future we seek
 
