@@ -236,23 +236,22 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 #### [[29.3 The role of partnerships and alliances in moving forward]] 
 #### [[29.4 The role of education and outreach in advancing the New Vision and Plan]]  
 
-
 ### Chapter 30: Reflections on the Journey So Far  
 
 #### [[30.1 The progress made towards implementing the New Vision and Plan]] 
 #### [[30.2 The challenges faced and overcome]] 
-#### [[30.3 Lessons learned and insights gained]] 
+#### [[30.3 Lessons learned and insights gained]]  
 
 ### Chapter 31: Next Steps for the Rising Movement
 
 #### 31.1 The priorities and focus areas for the rising movement 
 #### 31.2 The strategies and tactics for advancing the New Vision and Plan 
-#### 31.3 The role of partnerships and alliances in supporting the rising movement 
-#### 31.4 The role of education and outreach in advancing the rising movement
+#### 31.3 The role of education, outreach and engagement in advancing the rising movement 
+#### [[31.4 Resourcing the New Vision, System and Plan]] 
 
 ### Chapter 32: The Rising Movement: A Call To Action 
 
-#### 32.1 A call to action for individuals and communities to join the rising movement 
+#### [[32.1 A call to action for individuals and communities to join the rising movement]] 
 #### 32.2 The ways in which individuals and communities can get involved and support the New Vision and Plan 
 #### 32.3 The potential for the rising movement to create a better future for humanity and all life on Earth
 
