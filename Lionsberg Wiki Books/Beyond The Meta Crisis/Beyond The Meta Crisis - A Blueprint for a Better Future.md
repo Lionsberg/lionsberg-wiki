@@ -234,7 +234,7 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 #### [[29.1 The challenges and opportunities ahead]] 
 #### [[29.2 The strategies and tactics for overcoming challenges and seizing opportunities]] 
 #### [[29.3 The role of partnerships and alliances in moving forward]] 
-#### 29.4 The role of education and outreach in advancing the New Vision and Plan  
+#### [[29.4 The role of education and outreach in advancing the New Vision and Plan]]  
 
 
 ### Chapter 30: Reflections on the Journey So Far  
