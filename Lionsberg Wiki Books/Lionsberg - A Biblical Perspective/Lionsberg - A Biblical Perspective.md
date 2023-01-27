@@ -1,6 +1,6 @@
 # Lionsberg - A Biblical Perspective
 
-This is about a 20,000 word "book" outlining a biblical perspective and defense of the Lionsberg system. The Summary in section one is a 4,500 word starting point that can be read in 10 to 15 minutes. 
+This is about a 20,000 word "book" outlining a biblical perspective and defense of the Lionsberg system. The Summary in section one is a 4,500 word starting point that can be read in 10 to 20 minutes. 
 
 ## 1. Introduction & Summary
 

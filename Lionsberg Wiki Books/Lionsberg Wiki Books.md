@@ -12,6 +12,7 @@
 8. [[The Power of Today]]  - by [[Jordan Nicholas Sukut]]   
 9. [[Martial Arts Guide]]  - by [[Jordan Nicholas Sukut]]    
 10. [[The Lionsberg Book of Stories]]  - by [[Jordan Nicholas Sukut]]  
+11. [[The Lionsberg Pattern Language]] - by [[Jordan Nicholas Sukut]]  
 
 ## Essays That Might Become Books (Draft Works in Progress)
 1. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  

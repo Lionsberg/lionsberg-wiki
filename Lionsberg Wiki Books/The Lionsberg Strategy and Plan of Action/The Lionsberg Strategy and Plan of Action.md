@@ -13,13 +13,16 @@
 ### Chapter 2: Introduction to the Lionsberg System and Approach
 
 -   [[2.1 The Origins of the Lionsberg System and Approach]]
--   2.2 The Purpose and Goals of the Lionsberg System and Approach
--   2.3 The Key Principles and Values of the Lionsberg System and Approach  
--   2.4 The Relationship between the Lionsberg System and Approach and the New Vision and Plan]]
+-   [[2.2 The Purpose and Goals of the Lionsberg System and Approach]]
+-   [[2.3 The Key Principles and Values of the Lionsberg System and Approach]]  
+-   [[2.4 The Relationship between the Lionsberg System and Approach and the New Vision and Plan]]
 
 ### Chapter 3: The Lionsberg System in Detail
 
--   3.1 The Components of the Lionsberg System  
+-   [[3.1 The Components of the Lionsberg System]]  
+-   3.2 One System Purpose-Built to Produce Throughput of the Goal 
+-   [[3.2 Time Energy Accounting]]  
+- 3.2 Citizen Led, Mission Driven Public Private Partnerships
 -   3.2 The Lionsberg System's Approach to Environmental Stewardship 
 -   3.3 The Lionsberg System's Approach to Economic Justice and Equity  
 -   3.4 The Lionsberg System's Approach to Social Justice and Inclusion  
@@ -39,7 +42,29 @@
 
 ## Section III: The Lionsberg Strategy
 
--   A detailed plan of action for the implementation of the Lionsberg System and Approach
+-  [[6.1 The Lionsberg Strategy - A Detailed Plan of Action]]  
+- [[6.2 The Gradual Rise towards Highest Order Functional Unity]]  
+- [[6.3 Key Steps and Milestones for the 7-year Window of Opportunity]] 
+- [[6.4 What Happens if we Miss the Window?]] 
+
+The Lionsberg Strategy outlines the key steps and milestones for the 7-year window of opportunity. These steps and milestones include:
+
+-   Developing the New Vision and Plan
+-   Building a global coalition of stakeholders
+-   Identifying and prioritizing key issues and challenges
+-   Developing and implementing solutions
+-   Measuring and monitoring progress
+-   Continuously updating and refining the New Vision and Plan
+
+# 3.4 Roles and Responsibilities of Different Stakeholders
+
+The Lionsberg Strategy recognizes that the implementation of the Lionsberg System and Approach will require the active participation and engagement of all stakeholders, including individuals, communities, organizations, and governments. The strategy outlines the roles and responsibilities of different stakeholders in the implementation of the strategy, including the importance of citizen engagement and participation.
+
+# 3.5 Citizen Engagement and Participation
+
+The Lionsberg Strategy places a strong emphasis on citizen engagement and participation. It recognizes that creating a better future for humanity and all life on Earth requires the active participation and engagement of all citizens. The strategy outlines specific mechanisms and processes for citizen engagement and participation, such as citizen assemblies, participatory budgeting, and online platforms for consultation and feedback.
+-   A detailed plan of action for the implementation of the Lionsberg System and Approach 
+- The gradual rise towards highest order functional unity 
 -   The key steps and milestones for the 7-year window of opportunity
 -   The roles and responsibilities of different stakeholders in the implementation of the strategy
 -   The importance of citizen engagement and participation

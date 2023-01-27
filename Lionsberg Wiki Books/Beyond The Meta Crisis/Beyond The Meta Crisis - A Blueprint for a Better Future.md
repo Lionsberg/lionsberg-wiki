@@ -224,16 +224,16 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 28: The Future We Seek  
 
-#### 28.1 The Importance of Vision and Imagination
+#### [[28.1 The Importance of Vision and Imagination]]
 #### [[28.2 A vision of the future as envisioned by the New Vision and Plan]] 
-#### 28.3 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
-#### 28.4 The role of the rising movement in co-creating the future we seek
+#### [[28.3 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth]] 
+#### [[28.4 The role of the rising movement in co-creating the future we seek]] 
 
 ### Chapter 29: The Way Forward 
 
-#### 29.1 The challenges and opportunities ahead 
-#### 29.2 The strategies and tactics for overcoming challenges and seizing opportunities 
-#### 29.3 The role of partnerships and alliances in moving forward 
+#### [[29.1 The challenges and opportunities ahead]] 
+#### [[29.2 The strategies and tactics for overcoming challenges and seizing opportunities]] 
+#### [[29.3 The role of partnerships and alliances in moving forward]] 
 #### 29.4 The role of education and outreach in advancing the New Vision and Plan  
 
 
