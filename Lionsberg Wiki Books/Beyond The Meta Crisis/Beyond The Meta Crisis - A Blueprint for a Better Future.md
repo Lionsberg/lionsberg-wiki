@@ -239,16 +239,16 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 30: Reflections on the Journey So Far  
 
-#### 30.1 The progress made towards implementing the New Vision and Plan 
-#### 30.2 The challenges faced and overcome 
-#### 30.3 Lessons learned and insights gained 
-#### 30.4 The potential for the implementation of the New Vision and Plan to create a better future for humanity and all life on Earth
+#### [[30.1 The progress made towards implementing the New Vision and Plan]] 
+#### [[30.2 The challenges faced and overcome]] 
+#### [[30.3 Lessons learned and insights gained]] 
 
 ### Chapter 31: Next Steps for the Rising Movement
 
 #### 31.1 The priorities and focus areas for the rising movement 
 #### 31.2 The strategies and tactics for advancing the New Vision and Plan 
-#### 31.3 The role of partnerships and alliances in supporting the rising movement #### 31.4 The role of education and outreach in advancing the rising movement
+#### 31.3 The role of partnerships and alliances in supporting the rising movement 
+#### 31.4 The role of education and outreach in advancing the rising movement
 
 ### Chapter 32: The Rising Movement: A Call To Action 
 
