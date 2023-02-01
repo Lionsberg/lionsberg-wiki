@@ -1,5 +1,11 @@
 # Above The Chaos, Wake Up! The Building Is On Fire!
 
+By [[Jordan Nicholas Sukut]], 2023.01.30  _(updated 2023.01.30)_
+
+A post in [[Above The Chaos]]. 
+
+Esteemed Friend,  
+
 Wake Up! The Building Is On Fire! 
 
 I know you may not be able to hear me *yet*, but please, wake up! 

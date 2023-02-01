@@ -68,6 +68,7 @@ ___
 - Rebooting society's operating system 
 - Designing and building (the New World) 
 - Co-creating (the New World) 
+- New Vision and Plan 
 - New Vision, System and Plan 
 
 ___
@@ -93,11 +94,12 @@ ___
 - the people involved are just a bunch of xyz 
 - etc. 
 
-## The Observers, The Engaged, and The Citizens
+## The Observers, The Engaged, The Members, and The Citizens
 
 - The role of Untitled is to create observers and engage them  
 - The trick is to map the point at which someone who has engaged with Untitled in a more passive way... transitions to active engagement with Lionsberg  
-- Then to map the point at which someone who has actively engaged with Lionsberg and proven their commitment to the universal principles and values formally becomes a universal citizen  
+- Then to map the point at which someone who has actively engaged with Lionsberg and proven their commitment to the universal principles and values formally becomes a member 
+- Then to map the point at which a member becomes a citizen  
 - The walled city of Lionsberg must have many gates, depending on whether people have come from North, South, East, or West  
 - And a process for a nearly seamless transition from first seeing the movement / fireworks / lights from afar... to consciously engaging.... to adopting and advocating the New citizenship and operating system. 
 
