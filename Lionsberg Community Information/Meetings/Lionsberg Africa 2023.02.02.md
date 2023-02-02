@@ -118,3 +118,6 @@
 - Moses - I am now thinking of things from a systems view - thinking of cars - really enlightened - can't wait to see waht is next
 - The principle of self-awareness, I am here, part of a solution... that God put me here - as part of a solution and not part of the problem... here to complement... 
 - Start with what we are already doing... 
+
+## Resources
+- [[Systems Thinking]] 
