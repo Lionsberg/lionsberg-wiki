@@ -121,3 +121,5 @@
 
 ## Resources
 - [[Systems Thinking]] 
+- [[Pattern Language]]  
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]    
