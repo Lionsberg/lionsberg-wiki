@@ -4,4 +4,6 @@ The Right Relationship between our spirit, its Creator, and All creation is not 
 
 ___
 
+Forward to [[Meditation 55]]  
+Back to [[Meditation 53]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
