@@ -2,6 +2,8 @@
 
 This is a book of things that are important to think deeply about. I pray they will spark inner dialogue, and help illuminate your Way and liberate your soul.  
 
+~ J 
+
 [[Meditation 1]]  
 [[Meditation 2]]  
 [[Meditation 3]]  
