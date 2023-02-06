@@ -1,6 +1,6 @@
 # Meditation 2
 
-Are we conforming our will to the will of That Which Is Creating and Sustaining Us?  
+Are we conforming our will and intention to the will and intention of That Which Is Creating and Sustaining Us?  
 
 ___
 
