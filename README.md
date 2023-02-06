@@ -16,7 +16,8 @@ This wiki is a powerful and detailed back-end for more user-friendly and polishe
 
 - [[Jordan Nicholas Sukut]] is the founder and architect of Lionsberg and the [[New Vision and Plan]].  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]] offers the most user friendly and accessible outline to New Vision and Plan currently available. 
-- [[The Lionsberg Book of Quotes]] is a book of words spoken about the same vision and Goal  
+- [[The Lionsberg Book of Quotes]] is a book of words spoken about the same Vision and Goal  
+- [[The Lionsberg Book of Meditations]] is a book of thoughts worth thinking 
 - [[Above The Chaos]] is Jordan's blog and a place to find some narrative content.   
 - [[The Lionsberg Meta Guide]] is the most comprehensive overview of the entire [[Lionsberg System]]. 
 - [[Jordan's Guide to Lionsberg]] is another starting point. 
