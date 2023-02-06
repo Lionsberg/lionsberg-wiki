@@ -11,7 +11,7 @@ This is a quick mini-book being drafted in partnership with AI with minimal edit
 5.  [[The Story of Noah's Ark]]: The story of Noah building an ark and saving his family and the animals from a great flood.  
 6.  [[The Story of the Tower of Babel]]: The story of humanity's attempt to build a tower to reach heaven and the confusion of languages that resulted.
 7.  [[The Story of Abraham and the Covenant]]: The story of Abraham, the first patriarch of Judaism, and his covenant with God.
-8.  [[The Story of the Binding of Isaac]]: The story of Abraham being willing to sacrifice his son Isaac at God's command.
+8.  The Story of the Binding of Isaac: The story of Abraham being willing to sacrifice his son Isaac at God's command.
 9.  Joseph and his Brothers: The story of Joseph, the favorite son of Jacob, and his brothers.
 10.  Moses and the Ten Commandments: The story of Moses leading the Israelites out of slavery in Egypt and receiving the Ten Commandments from God on Mount Sinai.
 11.  The Exodus: The story of the Israelites' escape from slavery in Egypt and their journey to the Promised Land.
