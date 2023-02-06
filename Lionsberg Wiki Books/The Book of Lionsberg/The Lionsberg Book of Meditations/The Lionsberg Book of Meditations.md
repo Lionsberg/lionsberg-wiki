@@ -2,13 +2,13 @@
 
 This is a book of things that are important to think deeply about. If you have not already thought these thoughts, I pray  they will help illuminate your Way and liberate your soul.  
 
-[[Meditation 1]] 
+[[Meditation 1]]  
 [[Meditation 2]]  
-[[Meditation 3]] 
+[[Meditation 3]]  
 [[Meditation 4]]  
-[[Meditation 5]] 
-[[Meditation 6]] 
-[[Meditation 7]]   
+[[Meditation 5]]  
+[[Meditation 6]]  
+[[Meditation 7]]    
 [[Meditation 8]]     
 [[Meditation 9]]   
 [[Meditation 10]]   
