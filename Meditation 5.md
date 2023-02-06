@@ -1,6 +1,6 @@
 # Meditation 5
 
-We now know that we all have One uniting Source of origin, One uniting mission for our lives, and One uniting Ultimate Goal. We should [[Act As If]] that were True. 
+We now know that we all have One uniting Source of origin, One uniting mission for our lives, and One uniting Ultimate Goal. What if we were to [[Act As If]] that were True? 
 
 ___
 
