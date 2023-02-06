@@ -4,4 +4,6 @@ The spiritual teachings of Jesus and the prophets were simple and Light. They we
 
 ___
 
+Forward to [[Meditation 95]]  
+Back to [[Meditation 93]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
