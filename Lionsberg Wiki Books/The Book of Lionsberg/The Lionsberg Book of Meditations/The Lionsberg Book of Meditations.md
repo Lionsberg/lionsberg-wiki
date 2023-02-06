@@ -1,6 +1,6 @@
 # The Lionsberg Book of Meditations
 
-This is a book of things that are important to think deeply about. If you have not already thought these thoughts, I pray  they will help illuminate your Way and liberate your soul.  
+This is a book of things that are important to think deeply about. I pray they will spark inner dialogue, and help illuminate your Way and liberate your soul.  
 
 [[Meditation 1]]  
 [[Meditation 2]]  
