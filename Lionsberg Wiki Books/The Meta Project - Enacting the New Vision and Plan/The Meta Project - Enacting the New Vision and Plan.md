@@ -1,5 +1,32 @@
 # The Meta Project - Enacting the New Vision and Plan
 
+## Table of Contents 
+
+- [[#Abstract]]  
+- [[#Introduction]]  
+- [[#The Meta Crisis]] 
+- [[#Failure of Existing Institutions To Address the Grand Challenges and Global Goals]]  
+- [[#Denial, Anger and Fear]] 
+[[#Taking Responsibility]]  
+- [[#Heroes and Solutions]]  
+- [[#A Backbone and a Mind]]  
+- [[#A Vision and a Goal]]  
+- [[#A Navigation System]]  
+- [[#An Integrated Delivery System]]  
+- [[#A Meta Project to Deliver the Meta Goal]]  
+- [[#Conditions of Acceptance for a New Operating System]]  
+- [[#The Search]]  
+- [[#The Lionsberg System]]  
+- [[#Retaining The Best of the Old, While Gaining the New]]  
+- [[#Learning to Co-Operate the New System]]  
+- [[#Organizing and Structuring the Joint Venture / Public Private Partnership]]  
+- [[#The 7 Year Window]]  
+- [[#Resourcing the Critical Path, and Establishing Mission Control]]  
+- [[#The Reciprocating Top Down and Bottom Up Funding Strategies]]  
+- [[#The 120 Day Plan]]  
+- [[#The Tipping Point Strategy]]  
+- [[#Gravitational Attraction + Invitation To Migrate Towards the New]]  
+
 ## Abstract 
 
 In 2023, as humanity faced into the unprecedented uncertainty and risk of the [[Meta Crisis]], something extraordinary happened. Suddenly, around the world, the citizens of Earth arose and united to confront and overcome the crisis, and forge from its ashes the better future they all desired. This book tells how they did it. 
