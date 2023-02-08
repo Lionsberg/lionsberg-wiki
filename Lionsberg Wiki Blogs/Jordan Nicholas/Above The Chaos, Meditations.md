@@ -17,3 +17,5 @@ I pray this effort will be of service to our journey.
 Blessings, 
 
 ~ J 
+
+P.S. if you want to know more of what I have in mind, feel free to explore the other [[Lionsberg Wiki Books]]. 

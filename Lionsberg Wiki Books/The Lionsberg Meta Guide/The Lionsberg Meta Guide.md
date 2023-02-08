@@ -223,6 +223,11 @@ Information Flow (Data Structure to Facilitate)
 Knowledge Flow 
 Wisdom Flow 
 
+## The Lionsberg System of Story
+
+[[Forward Looking Story]] 
+[[Backward Looking Story]] 
+
 
 ## Problems, Needs, and Issues 
 

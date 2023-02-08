@@ -8,7 +8,7 @@ All elements of the [[Lionsberg System]] are unified by the [[Meta Value]] and t
 
 The System is further unified by the articulated [[Universal Values]], including [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
 
-Each Individual, Group, and Community in the System is encouraged to adopt the Lionsberg [[Universal Values]], or to articulate their own unique statement of Values. 
+Each Individual, Group, and Community in the System is encouraged to articulate and adopt their own unique statement of Values. 
 
 [[Template For Values]] 
 ___

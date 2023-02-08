@@ -8,6 +8,4 @@ The global complex of governments, corporations, and institutions responsible fo
 
 By 2020, humanity was beginning to simultaneously awaken and understand that millions of people were suffering, dying, and enduring injustice unnecessarily every month due to the corruption and inaction of the global power structures that depended on their poverty and suffering.  
 
-The global community therefore determined that the global system of systems needed to be fundamentally transformed.
-
-See also [[0.4 The Meta Story]]. 
+The global community therefore began to realize that the global system of systems needed to be fundamentally transformed, and that they had the responsibility to consciously choose how that would occur. 

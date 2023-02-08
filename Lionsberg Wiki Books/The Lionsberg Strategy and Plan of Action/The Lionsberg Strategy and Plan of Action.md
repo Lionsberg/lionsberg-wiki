@@ -22,10 +22,10 @@
 -   [[3.1 The Components of the Lionsberg System]]  
 -   3.2 One System Purpose-Built to Produce Throughput of the Goal 
 -   [[3.2 Time Energy Accounting]]  
-- 3.2 Citizen Led, Mission Driven Public Private Partnerships
--   3.2 The Lionsberg System's Approach to Environmental Stewardship 
--   3.3 The Lionsberg System's Approach to Economic Justice and Equity  
--   3.4 The Lionsberg System's Approach to Social Justice and Inclusion  
+- 3.3 Citizen Led, Mission Driven Public Private Partnerships
+-   3.4 The Lionsberg System's Approach to Environmental Justice and Stewardship 
+-   3.5 The Lionsberg System's Approach to Economic Justice and Stewardship  
+-   3.4 The Lionsberg System's Approach to Social Justice and Stewardship   
 -   3.5 The Lionsberg System's Approach to Governance and Political Reform  
 
 ### Chapter 4: The Benefits of the Lionsberg System and Approach

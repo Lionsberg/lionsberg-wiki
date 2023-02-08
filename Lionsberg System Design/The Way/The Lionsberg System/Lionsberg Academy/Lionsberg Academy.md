@@ -2,7 +2,7 @@
 
 # Introduction
 
-Believe it or not, this is a portal to a world class education for anyone in the world that can access an internet connection. For free. 
+Believe it or not, this is an elementary portal to a world class education for anyone in the world that can access an internet connection. For free. 
 
 The Aim of the Lionsberg | Academy is to ensure that every person on earth has access to a world-class lifelong program of  learning and human development. 
 
