@@ -2,7 +2,9 @@
 
 Welcome. We are glad you are here. 
 
-As we face into the [[Meta Crisis]], [[Jordan Nicholas Sukut]] and Lionsberg are putting forward a [[New Vision and Plan]] for humanity, and a system purpose-built to bring the vision into reality. See [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
+This is an unusual cultural artifact. It is kind of like a series of densely interlinked books. It is a [[Work In Progress]].  
+
+As we face into the [[Meta Crisis]], [[Jordan Nicholas Sukut]] and Lionsberg are putting forward a [[New Vision and Plan]] for humanity, and a system purpose-built to bring the vision into reality. See [[Beyond The Meta Crisis - A Blueprint for a Better Future]] as a starting point. 
 
 Our mission is to connect and inspire a diverse global community to design and build itself so that together we can design and build the better future we all desire. 
 
@@ -17,11 +19,12 @@ This wiki is a powerful and detailed back-end for more user-friendly and polishe
 - [[Jordan Nicholas Sukut]] is the founder and architect of Lionsberg and the [[New Vision and Plan]].  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]] offers the most user friendly and accessible outline to New Vision and Plan currently available. 
 - [[The Lionsberg Book of Quotes]] is a book of words spoken about the same Vision and Goal  
-- [[The Lionsberg Book of Meditations]] is a book of thoughts worth thinking 
+- [[The Lionsberg Book of Meditations]] is a book of thoughts worth thinking  
 - [[Above The Chaos]] is Jordan's blog and a place to find some narrative content.   
+- [[The Meta Project - Enacting the New Vision and Plan]] - is a Forward Looking Story of how we did it  
 - [[The Lionsberg Meta Guide]] is the most comprehensive overview of the entire [[Lionsberg System]]. 
 - [[Jordan's Guide to Lionsberg]] is another starting point. 
-- [[The Book of Lionsberg]] is another work in progress that provides expansive insights into the New Vision and Plan. 
+- [[The Book of Lionsberg]] is another work in progress that provides expansive insights into the New Vision and Plan  
 - [[Ideas and Inspiration to Become More Involved]] is a simple starting point on things that you can immediately take action on if you would like to begin finding your unique areas of greatest purpose, passion, and contribution. 
 - A couple other pragmatic resources you might benefit from are works in progress: [[A Way Beyond Fear, Anxiety, And Depression]], and [[The Power of Today]]. 
 
