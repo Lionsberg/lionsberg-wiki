@@ -20,17 +20,43 @@
 
 ## II. The American Dream: The Pursuit of the Ideal 
 
-### A. The Founding Principles of Liberty, Justice, and Equality 
-### B. The American Spirit: A Legacy of Honor, Integrity, and Enterprise 
-### C. The Early Rise of America as a Global Leader 
+### A. The Uniting Spirit: One Nation Under God 
+
+[[II.A. The Uniting Spirit - One Nation Under God]]  
+
+### B. The Founding Principles of Liberty, Justice, and Equality 
+
+[[II.B. The Founding Principles of Liberty, Justice, and Equality]]  
+
+### C. The American Spirit: A Legacy of Honor, Integrity, and Enterprise 
+
+[[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]
+
+### D. The Early Rise of America as a Global Leader 
+
+[[II.D. The Early Rise of America as a Global Leader]]  
+
+### E. Progressing Towards the Ideal
+
+getting clsoer to the ideal every day in partnership with God and one another  
 
 ## III. The Disillusionment: Where America Has Failed 
 
-### A. Political Division and Socioeconomic Inequality 
-### B. Corruption and Exploitation 
-### C. The Hypocrisy of American Idealism 
-### D. Decline in Global Influence 
-### E. A Crisis of Culture and Values 
+### A. God's Name in Vain: The Misrepresentation of God's Name in Religion, Politics, and Culture 
+
+### B. The Hypocrisy of American Idealism  
+
+women couldn't vote, italians, irish, black 2/3, asians way later, then maybe women, then maybe black people... less than 100 years ago... 1950s different drinking fountains, differenet pools, differnet bathrooms, different school systems, and religious christian people fighting to maintain segregation of schools My grndparents were taight these things... 
+
+so when middle class wealthy white people hav 
+
+### C. Political Division and Socioeconomic Inequality 
+
+### D. Corruption and Exploitation 
+
+### E. Decline in Global Influence 
+
+### F. A Crisis of Culture and Values 
 
 ## IV. The Road to Recovery: Resurrecting the American Spirit 
 
@@ -59,7 +85,11 @@
 
 ### B. A Final Word of Encouragement
 
-### C. A Final Call to Action
+### C. A Final Call to Action 
+
+### D. Inspiring Quotes on America
+
+[[VII.D. Inspiring Quotes on America]]  
 
 ## VIII. References
 
