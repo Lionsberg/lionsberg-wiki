@@ -3,5 +3,7 @@
 What is to be done with a society that has lost its understanding of God? 
 
 ___
-This is the end of the [[Work In Progress]]  
+
+Forward to [[Meditation 172]]  
+Back to [[Meditation 170]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
