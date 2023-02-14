@@ -1,5 +1,7 @@
 # Buckminster Fuller
 
+See [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) on Wikipedia. 
+
 Buckminster Fuller's "Design Science Revolution" and the Lionsberg System and Approach both advocate for a fundamental transformation and redesign of the societal, economic, and political systems that currently exploit and oppress certain groups, particularly the poor and disadvantaged.
 
 Fuller's vision called for a "Design Science Decade" in which all physical and metaphysical resources and capacities would be realigned solely and entirely in service of every member of society, such that every person would enjoy a standard of living greater than any member of society had enjoyed in the past. He called this a transition from "exploitation and weaponry" to "livingry". He believed that this could be achieved through a systems-based approach, in which all aspects of society, including technology, architecture, education, and governance, were re-designed from the ground up with the goal of creating a more equitable and sustainable future.
