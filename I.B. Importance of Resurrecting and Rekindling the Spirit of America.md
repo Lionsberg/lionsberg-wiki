@@ -13,3 +13,9 @@ It is imperative that we resurrect and rekindle the spirit of America, not just 
 Therefore, it is essential that we reclaim our heritage as a beacon of hope, freedom, and strength in the world. We must come together as one people, bound together by our love for all people and all creation, and our commitment to the values that have guided us in our best moments.
 
 This campaign is a call to action. Only by rediscovering the very best of what the spirit of America aspires to represent can we hope to overcome the challenges we face and create a brighter future for ourselves and for generations to come. 
+
+___
+
+Forward to [[I.C. Thesis Statement]]      
+Back to [[I.A. America's Crisis of Confidence and Faith]]      
+Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

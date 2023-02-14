@@ -1,6 +1,4 @@
-# Forging Or Joining A Team
-
-Text below copied from [[II.A. Importance of forming or joining teams]] 
+# II.A. Importance of forming or joining teams
 
 In order to effectively accomplish work, it is important for individuals, organizations, and communities to form or join teams. Teams provide a structure for individuals to work together towards a common goal or objective, leveraging the skills and strengths of each team member to achieve outcomes that would not be possible for any one person to achieve alone.
 

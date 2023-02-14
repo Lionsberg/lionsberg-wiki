@@ -1,5 +1,7 @@
 # A New American Revolution - A Vision for a Stronger, Freer, and More United Nation
 
+By [[Jordan Nicholas Sukut]], with AI as translator 
+
 ## Preface
 
 [[Preface to A New American Revolution]]  
@@ -38,23 +40,29 @@
 
 ### E. Progressing Towards the Ideal
 
-getting clsoer to the ideal every day in partnership with God and one another  
+[[II.E. Progressing Towards the Ideal]] 
 
 ## III. The Disillusionment: Where America Has Failed 
 
-### A. God's Name in Vain: The Misrepresentation of God's Name in Religion, Politics, and Culture 
+### A. God's Name in Vain: The Misrepresentation of God in Religion, Politics, and Culture 
+
+[[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]
 
 ### B. The Hypocrisy of American Idealism  
 
-women couldn't vote, italians, irish, black 2/3, asians way later, then maybe women, then maybe black people... less than 100 years ago... 1950s different drinking fountains, differenet pools, differnet bathrooms, different school systems, and religious christian people fighting to maintain segregation of schools My grndparents were taight these things... 
-
-so when middle class wealthy white people hav 
+[[III.B. The Hypocrisy of American Idealism]]  
 
 ### C. Political Division and Socioeconomic Inequality 
 
+[[III.C. Political Division and Socioeconomic Inequality]]  
+
 ### D. Corruption and Exploitation 
 
+[[III.D. Corruption and Exploitation]]  
+
 ### E. Decline in Global Influence 
+
+
 
 ### F. A Crisis of Culture and Values 
 

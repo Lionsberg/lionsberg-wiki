@@ -4,7 +4,7 @@ This [[Lionsberg Integrated Delivery Guide]] is a [[Work In Progress]]. Please e
 
 If you are finding this early on, start with the [[0.0 Warning]] and [[0.2 Minimum Viable Version]] pages, and then dive into the other sections if you want more depth.  
 
-Also feel free to skip down to [[3.1 Project Delivery Guide]] and [[3.2 Template For Project]], and [[3.3 Communications and Reporting]] if you would like to quick start a project.
+Also feel free to skip down to [[Project Delivery Guide]] and [[Template For Project]], and [[3.3 Communications and Reporting]] if you would like to quick start a project.
 
 And don't forget to review [[Organizations The Lionsberg Way]] to help ensure your team gets off on the right track.
 
@@ -28,8 +28,8 @@ And don't forget to review [[Organizations The Lionsberg Way]] to help ensure yo
 
 ## 3. Project Delivery
 [[3.0 Program Delivery]]  
-[[3.1 Project Delivery Guide]]  
-[[3.2 Template For Project]]  
+[[Project Delivery Guide]]  
+[[Template For Project]]  
 [[3.3 Communications and Reporting]]  
 
 ## 4. Conclusion

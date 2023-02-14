@@ -6,8 +6,6 @@ This is a [[Work In Progress]] that Aims to bring together the various Guides in
 
 Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of Systems]] to empower humanity (10 billion people, 1 billion groups, 10 million communities) to bring it into reality. 
 
-In religious language, it is a system purpose-built to bring Heaven to Earth ([[The Goal]]). 
-
 [[Introduction To Lionsberg]]  
 [[Story of Lionsberg]]  
 [[External Context]]  
@@ -59,23 +57,24 @@ Having inspired, aligned, and empowered sovereign autonomous groups to progress 
 ## A Comprehensive System of Systems 
 
 1. The [[Lionsberg System of Governance]]  
-2. The [[Lionsberg Economic System]]  
-3. The [[Lionsberg System of Culture and Community]] 
-4. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
-5. The [[Lionsberg Energy System]]  
-6. The [[Lionsberg Water System]]  
-7. The [[Lionsberg Information System]]  
-8. The [[Lionsberg Intellectual Content System]]  
-9. The [[Lionsberg Publishing System]] 
-10. The [[Lionsberg Dynamic Exchange System]]
-11. The [[Lionsberg Integrated Wellbeing and Development System]]  
-12. The [[Lionsberg House of Wisdom]]    
-13. The [[Lionsberg House of Culture]]  
-14. The [[Lionsberg Academy]]  
-15. The [[Lionsberg Outreach and Broadcast System]] 
-16. The [[Lionsberg Integrated Wellbeing and Development System]]  
-17. The [[Lionsberg Human System Living System Interface]]
-18. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
+2. The [[Lionsberg System of Work]]  
+3. The [[Lionsberg Economic System]]  
+4. The [[Lionsberg System of Culture and Community]] 
+5. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
+6. The [[Lionsberg Energy System]]  
+7. The [[Lionsberg Water System]]  
+8. The [[Lionsberg Information System]]  
+9. The [[Lionsberg Intellectual Content System]]  
+10. The [[Lionsberg Publishing System]] 
+11. The [[Lionsberg Dynamic Exchange System]]
+12. The [[Lionsberg Integrated Wellbeing and Development System]]  
+13. The [[Lionsberg House of Wisdom]]    
+14. The [[Lionsberg House of Culture]]  
+15. The [[Lionsberg Academy]]  
+16. The [[Lionsberg Outreach and Broadcast System]] 
+17. The [[Lionsberg Integrated Wellbeing and Development System]]  
+18. The [[Lionsberg Human System Living System Interface]]
+19. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
 ## The Lionsberg System of Self-Governance 
 
@@ -111,6 +110,7 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 #### Organization, Federation, and Co-Operation 
 
 [[Organize and Federate]]   
+[[Forging Or Joining A Team]]  
 [[Co-Operation]]  
 [[Fractal Sovereignty]] 
 [[Organizations The Lionsberg Way]]  
@@ -193,6 +193,10 @@ The [[Lionsberg Economic System]]
 
 The [[Lionsberg System of Justice]] 
 The [[Lionsberg System of Reconciliation]] 
+
+## The Lionsberg System of Work 
+
+The [[Lionsberg System of Work]] 
 
 ## The Lionsberg Integrated Delivery System 
 
@@ -366,8 +370,8 @@ Wisdom Flow
 
 (Coming Soon - Breaking Down and Incorporating Into The Above) 
 [[3.0 Program Delivery]]   
-[[3.1 Project Delivery Guide]]   
-[[3.2 Template For Project]]   
+[[Project Delivery Guide]]   
+[[Template For Project]]   
 [[3.3 Communications and Reporting]]   
 
 ### Integrated Delivery Conclusion

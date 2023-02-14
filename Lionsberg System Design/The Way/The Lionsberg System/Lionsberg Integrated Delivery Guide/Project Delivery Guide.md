@@ -1,15 +1,15 @@
-# 3.1 Project Delivery Guide
+# Project Delivery Guide
 ## 3.1.1 Context
 
 Individuals are moved to do something. 
 
-They recognize they cannot do it alone. So they gather a couple other people, read [[Organizations The Lionsberg Way]], and establish an Organization. 
+They recognize they cannot do it alone. So they gather a couple other people, read [[Organizations The Lionsberg Way]], and [[Forging Or Joining A Team|Forge or Join a Team]]. 
 
 They [[Federate With Lionsberg]] as a Whole, and with one or two other groups or federations to extend their access, resources, and capabilities. 
 
 Now - it is time to get to work. 
 
-Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[Lionsberg Integrated Delivery System]]. 
+Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[Lionsberg Integrated Delivery System]] and the [[Lionsberg System of Work]].  
 
 As a quick refresher, the core innovation of Integrated Delivery is that it transforms any program of action into a [[Goal Delivery System]]. 
 
@@ -21,7 +21,7 @@ Viewing everything through the lens or framework of project helps everyone, both
 It also dramatically increases the probability that the Organization will [[Success|Succeed]]. 
 
 ## 3.1.3 Project Process
-The project proccess through which [[1. Intention]] is brought into [[Reality]] can be thought of as encompassing 6 basic steps: 
+The project process through which [[1. Intention]] is brought into [[Reality]] can be thought of as encompassing 6 basic steps: 
 
 1. Intention
 2. Analysis

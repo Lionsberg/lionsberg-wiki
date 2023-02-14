@@ -1,5 +1,5 @@
 # (Name Of Project Goes Here) Plan
-_See [[3.1 Project Delivery Guide]] for instructions_ 
+_See [[Project Delivery Guide]] for instructions_ 
 
 ## Status
 ___

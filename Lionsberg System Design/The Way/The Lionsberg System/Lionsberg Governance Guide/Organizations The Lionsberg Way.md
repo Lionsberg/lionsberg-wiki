@@ -13,7 +13,7 @@ Like an individual or other living being, once established organizations can mov
 ## Mechanisms of Organization
 1. An organization has a [[Purpose]], [[Principles]], [[Values]], and [[Goal|Goals]]. 
 2. An organization should establish a basic system of [[Governance]] to steer itself towards its goals, solve problems, and make decisions. This can be formal or informal. 
-3. An organization should define its [[Organizational Boundary]]. Organizations define their boundaries by creating rules of [[Participation]]. 
+3. An organization should define its [[Organizational Boundary]]. Organizations define their boundaries by creating [[Rules of Participation]]. 
 4. An organization should define its [[Rules of Participation]]. These can be formal or informal. 
 5. An organization should define its [[Agreements]] that guide its internal and external relationships. These can be formal or informal. 
 6. An organization should consider collaborating with other organizations to accomplish things that it cannot accomplish in isolation. This is a core behavior involved in [[Federating]]. 
@@ -96,7 +96,7 @@ We would recommend the steps above be followed so that it gets the green shoot o
 
 ## How to Operate and Organization
 
-[[3.1 Project Delivery Guide]]
+[[Project Delivery Guide]]
 [[Process|Processes]]  
 
 ## Organizational Lifecycle
