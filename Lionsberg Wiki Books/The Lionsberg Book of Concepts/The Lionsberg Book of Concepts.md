@@ -1,5 +1,7 @@
 # The Lionsberg Book of Concepts
 
+This is a placeholder / [[Work In Progress]]. The [[The Lionsberg Meta Guide]] is a good overview. As is [[Lionsberg System]]... as is [[Beyond The Meta Crisis - A Blueprint for a Better Future]]... as is [[The Lionsberg Book of Quotes]]... as is [[The Lionsberg Book of Meditations]]... as is [[The Book of Lionsberg]]. 
+
 ## Lionsberg 
 [[Lionsberg]]  
 [[Lionsberg System]]  
@@ -34,8 +36,6 @@
 [[Internal Context]]  
 [[Forward Looking Story]]  
 [[Backward Looking Story]]  
-
-
 
 ## Time and Space
 [[Time]]  
