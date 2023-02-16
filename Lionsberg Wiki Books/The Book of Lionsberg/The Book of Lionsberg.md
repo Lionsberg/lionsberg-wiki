@@ -5,7 +5,7 @@ This is a living [[Work In Progress]]... maybe it always should be...
 
 Dive in! Each page contains a link to the page before and after it, so you can navigate it like a book. You can also navigate it like pieces of interwoven modular content.
 
-If it is helpful to you, be encouraged and inspired. 
+I hope it is helpful to you. Be encouraged and inspired!
 
 ## Table of Contents
 
@@ -394,16 +394,35 @@ Liberation...
 [[10.22 A Higher Order System Of Community Flourishing]]  
 [[10.23 Wisely Choosing Hospitable Environments To Begin]]  
 [[10.24 Individuals And Systems]]  
+[[10.25 Individuals Inform And Transform Systems And Structure]]  
+[[10.26 Systems And Structure Inform And Transform Individuals]]  
+[[10.27 Properly Ordered Beings In A Properly Ordered Structure In A Properly Ordered Living System]]  
+[[10.28 Protecting The Individual From The Structural]]  
+[[10.29 Stacking Up And Aligning Sovereignty]]  
+[[10.30 Family Sovereignty]]  
+[[10.31 Community Sovereignty]]  
+[[10.32 First, Second, Third... And Tenth Degree Sovereignties]]  
+[[10.33 The Total Nested Hierarchy Of Sovereignties]]  
+[[10.34 The Nation States Of The Old World]]  
+[[10.35 The Order Of Communities And The Meta Community]]  
+[[10.36 The Meta Community]]  
+[[10.37 Protecting the Individual and the Local from the Power of the Meta Community]]  
+[[10.38 Functionally Unified Sovereigns Without a Ruler]]  
+[[10.39 What Binds Us Together?]]  
+[[10.40 Embodying the Spirit Before Hardening the Systems]]  
+[[10.41 What Would Sovereigns In Right Relationship Would Do Together?]]  
 
-
-### Chapter Eleven - The Anti-Quest
+### Chapter Eleven - The Meta Quest. The Meta Project. The Meta Game. The Meta Goal. 
 [[Chapter Eleven - Coming Soon]]  
 
-### Chapter Twelve - The Quest of the Heroes
+### Chapter Twelve - The Anti-Quest
 [[Chapter Twelve - Coming Soon]]  
 
-### Chapter Thirteen - The Art and Science of the Way
+### Chapter Thirteen - The Quest of the Heroes
 [[Chapter Thirteen - Coming Soon]]  
+
+### Chapter Fourteen - The Art and Science of the Way
+
 
 ### Chapter X - Musings From Along the Way
 [[Chapter X - Coming Soon]]  
