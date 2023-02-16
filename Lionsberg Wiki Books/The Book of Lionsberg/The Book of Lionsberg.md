@@ -368,7 +368,6 @@ Liberation...
 [[9.53 We Come In the Name and Power of One and All]]  
 
 ### Chapter Ten - The Quest for Unity
-[[Chapter Ten - Coming Soon]]  - [[Work In Progress]] 
 
 [[10.1 Sovereignty And Unity]]  
 [[10.2 Sovereignty Leads To Action, Action Leads To Community]]  
@@ -413,7 +412,24 @@ Liberation...
 [[10.41 What Would Sovereigns In Right Relationship Would Do Together?]]  
 
 ### Chapter Eleven - The Meta Quest. The Meta Project. The Meta Game. The Meta Goal. 
-[[Chapter Eleven - Coming Soon]]  
+
+This chapter is a [[Work In Progress]]
+
+[[11.1 A Dark Tale of Old]]  
+[[11.2 A Light Tale of New]]  
+[[11.3 The Meta Quest. The Meta Game. The Meta Project. The Meta Goal.]]  
+[[11.4 Acceptance Criteria for the Meta Game]]  
+[[11.5 Analyzing the Existing Options For Fit Against the Acceptance Criteria]]  
+[[11.6 The Old, the New, and the Feminine]]  
+[[11.7 Rediscovering the Divine Feminine]]  
+[[11.8 Revivifying the Divine Masculine]]  
+[[11.9 The Great Reunion]]  
+[[11.10 The New World Requires a New Game]]  
+[[11.11 The New Game Requires an Ancient and Eternal Foundation]]  
+[[11.12 The Ordo Amoris - The Order of Loves]]  
+[[11.13 The Order of Responsibilities]]  
+[[11.14 The Order of Goals]]  
+[[11.15 But What Will We Eat, What Will We Wear, Where Will We Live?]]  
 
 ### Chapter Twelve - The Anti-Quest
 [[Chapter Twelve - Coming Soon]]  
