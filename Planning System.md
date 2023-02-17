@@ -12,4 +12,6 @@ Another example is the [[Last Planner System]] (LPS), which organizes production
 
 This makes each Actor the "last planner" before work is accepted and taken up by the Actor.  Both systems are described in more depth later in this Guide. 
 
+The [[Lionsberg Planning System]] attempts to integrate the best features and benefits of various systems into a wise and comprehensive Way that integrates planning with the rest of the Lionsberg System in order to accelerate [[Throughput]] of [[The Goal]]. 
+
 These systems dovetail into one another, and can be iterated upon and used in conjunction. 

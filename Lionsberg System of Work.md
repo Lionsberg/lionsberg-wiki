@@ -24,6 +24,8 @@
 [[IV.B. Steps for aligning intention and vision]] 
 [[IV.C. How aligning intention and vision relates to the Lionsberg System]]  
 
+Note: Update this to [[Vision and Purpose]] instead of Intention and vision so it ties better into other writing. 
+
 ## V. Analyzing What Needs to be Done
 
 [[V.A. Importance of analyzing what needs to be done]] 
@@ -60,10 +62,17 @@ A. Overview of the Lionsberg Integrated Delivery System
 B. Steps for integrating into the Lionsberg Integrated Delivery System 
 C. How the Lionsberg Integrated Delivery System relates to the Lionsberg System
 
-## XI. Conclusion
+## XI. Your Personal System of Work 
+
+A. Importance of a Personal System For Accomplishing Meaningful Work 
+B. Steps for Designing and Operating Your Personal System of Work  
+C. How Your Personal System of Work relates to the Lionsberg System and the New World 
+D. [[Prototype for Your Personal System of Work]]
+
+## XII. Conclusion
 
 A. Recap of the Lionsberg System of Work 
 B. Final thoughts and recommendations
 
-## XII. Templates, Tools, and Current Best Understandings
+## XIII. Templates, Tools, and Current Best Understandings
 - [[Everything Is A Project]]  
