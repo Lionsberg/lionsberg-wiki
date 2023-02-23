@@ -1,4 +1,4 @@
-# VII.D. Inspiring Quotes on America
+# VII.D. Inspiring Reflections on America
 
 1.  "I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.'" - Martin Luther King Jr.
 2. 1.  "America is not just a country, it's an idea." - Bono

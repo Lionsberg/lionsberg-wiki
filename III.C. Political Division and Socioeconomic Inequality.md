@@ -9,3 +9,9 @@ Economic inequality is another major challenge facing America today. Despite bei
 The political division and socioeconomic inequality that exist in America today are a betrayal of the basic ideals of the American Dream and a failure of the American Spirit. The American Spirit, rooted in the unifying spirit of "One Nation Under God," is a spirit of compassion, justice, and equality. It is this spirit that must be restored if America is to overcome the challenges of political division and socioeconomic inequality and to achieve its full potential. 
 
 In order to move forward, Americans must work together across political and economic divides, to build bridges of understanding and cooperation. This requires a commitment to the ideals of the unifying American Dream, and a willingness to put aside personal and short term interests in order to create a better future for all. By working together in partnership with God and one another, we can overcome the challenges of political division and socioeconomic inequality, and co-create a nation and a world that works for all people, and all generations of life. 
+
+___
+
+Forward to [[III.D. Corruption and Exploitation]]          
+Back to [[III.B. The Hypocrisy of American Idealism]]          
+Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

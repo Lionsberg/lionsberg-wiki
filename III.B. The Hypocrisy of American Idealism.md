@@ -12,9 +12,8 @@ The hypocrisy of American idealism is a stain on the nation's history and a chal
 
 The American Dream is not a destination, but an eternal journey. The ideals of liberty, justice, and equality must be constantly fought for, defended, and reattained each day in each time and in each place if they are to become a reality for All. It is only by acknowledging and overcoming the hypocrisy of American idealism that this nation can renew its courageous moral effort to truly live up to the ideals of that have made it a city on a hill, and a source of hope and inspiration for those struggling in the darkness of tyranny, poverty, and oppression around the world. 
 
-
 ___
 
-Temporary stop point - this is a [[Work In Progress]] 
-See [[VII.D. Inspiring Quotes on America]]  
+Forward to [[III.C. Political Division and Socioeconomic Inequality]]          
+Back to [[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]          
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
