@@ -6,4 +6,4 @@ In the context of the [[Lionsberg System]], and in particular the [[Lionsberg In
 
 Bringing a Vision into Reality requires a deep understanding of the context and circumstances surrounding the Vision, as well as the resources and capabilities available to bring the Vision to life. It also requires a commitment to continuous improvement, and a willingness to adjust the Plan as necessary based on changing circumstances and new information.
 
-By bringing a Vision into Reality, individuals, teams, and the Team of Teams can work together effectively towards a common Goal, and create a tangible and lasting impact that aligns with the shared Vision and Goals of the Lionsberg System.
+Through the process and discipline of bringing Vision into Reality, individuals, teams, and the Team of Teams can work together effectively towards a common Goal, and create a tangible and lasting impact that aligns with the shared Vision and Goals of the Lionsberg System.

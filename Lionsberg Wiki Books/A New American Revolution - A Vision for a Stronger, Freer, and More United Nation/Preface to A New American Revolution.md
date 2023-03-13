@@ -6,7 +6,7 @@ In this book, I lay out a vision for a stronger, freer, and more united nation. 
 
 This is not a partisan vision. It transcends political labels and speaks to the heart of what it means to be an American. It is a vision of a nation where all citizens have equal opportunity to pursue their dreams, where our government serves the people, and where America leads and serves with strength, confidence, and honor.
 
-It is time for a new American revolution. It is time to put aside our differences, to come together as one people, and to create a brighter future for ourselves and for generations to come. I hope that you will join us in this effort to reclaim the spirit, principles and values of America, and make it an honorable nation once again. 
+It is time for a new American revolution. It is time to put aside our differences, to come together as one people, and to create a brighter future for ourselves and for generations to come. I hope that you will join us in this effort to reclaim the spirit, principles and values of America, and make it an honorable and inspiring nation once again. 
 
 ___
 
