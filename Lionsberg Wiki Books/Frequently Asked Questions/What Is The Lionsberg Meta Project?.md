@@ -1,4 +1,5 @@
 # What Is The Lionsberg Meta Project?
+
 Hello! We are glad you asked. 
 
 This is a massive concept with many moving parts. We understand that it can be confusing. 
@@ -35,7 +36,3 @@ The basic idea is to [[Act As If]] we were all working towards one [[Meta Goal]]
 The Lionsberg Meta Project is a place where we can gather and coordinate to attempt to act out our program of human action more competently. 
 
 Both Lionsberg and the Meta Project flow from one [[Spirit]] and [[Mind]], and speak to different levels of abstraction. 
-
-[[Meta Project]] as a concept is eternal and universal and conceptual, and not defensible or interactable or identifiable. 
-
-[[Lionsberg]] is an idea, system, structure, community, and gathering place purpose built to incarnate the Meta Project and act it out here in our time and place as one human species on planet Earth.  

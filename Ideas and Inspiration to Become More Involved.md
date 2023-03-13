@@ -1,6 +1,6 @@
 # Ideas and Inspiration to Become More Involved
 
-1. 1. Join a local group or organization that is working towards positive change in your community or on a global issue. 
+1. Join a local group or organization that is working towards positive change in your community or on a global issue. 
 2. Start a [[Discussion Group]] with friends or colleagues to share ideas and brainstorm solutions to the challenges facing humanity. 
 3. As the group gains clarity on issues and potential solutions, consider transforming into an [[Action Group]]. 
 4. Volunteer your time or resources to [[Identify And Support A Cause You Believe In]]   

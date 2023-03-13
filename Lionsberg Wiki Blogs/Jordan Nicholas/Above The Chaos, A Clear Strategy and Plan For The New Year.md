@@ -63,18 +63,18 @@ ___
 ## Potential Memes 
 
 - Universal Citizenship  
-	- The idea of Universal Citizenship allows us to dial up almost any aspect of the human system, human life, and capture someone’s mind somewhere… film, telling stories, creative endeavors and pursuits, entrepreneurship, art, science… and along the way can capture the imagination of the 16 to 34%
-- Citizen Led
+	- The idea of [[Universal Citizenship]] allows us to dial up almost any aspect of the human system, human life, and capture someone’s mind somewhere… film, telling stories, creative endeavors and pursuits, entrepreneurship, art, science… and along the way can capture the imagination of the 16 to 34%
+- [[Citizen Led]]
 - Rebooting society's operating system 
 - Designing and building (the New World) 
 - Co-creating (the New World) 
-- New Vision and Plan 
+- [[New Vision and Plan]] 
 - New Vision, System and Plan 
 
 ___
 ## Groundswell / Tipping Point Strategy 
 
-- 8 to 10 billion people on earth 
+- 8 to 10 billion people on earth by 2030 
 - Adoption curve key points 
 	- 3% enthusiastic early adopters pull the next 13%
 	- 16% - pulls the next 18% 
@@ -88,8 +88,8 @@ ___
 
 - just another network 
 - just another version of the SDGs 
-- just another version of (Game B (or whatever))
-- I be they will host another stupid conference 
+- just another version of (whatever))
+- I bet they will host another stupid conference 
 - you will never be able to deal with the governments 
 - the people involved are just a bunch of xyz 
 - etc. 
