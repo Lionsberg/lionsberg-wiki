@@ -76,3 +76,6 @@ B. Final thoughts and recommendations
 
 ## XIII. Templates, Tools, and Current Best Understandings
 - [[Everything Is A Project]]  
+- [[3.4 Project Management Foundations]] 
+- [[Project Management]] 
+

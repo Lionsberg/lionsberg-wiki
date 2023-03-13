@@ -54,27 +54,14 @@ Having inspired, aligned, and empowered sovereign autonomous groups to progress 
 
 [[Lionsberg Principles and Values]] 
 
+## Levels of Abstraction 
+
+The Lionsberg System sets out a sophisticated and differentiated view of the various levels of abstraction, starting with and ending with pure consciousness. This understanding is critical to informing where and how perception, thought, analysis and action are occurring. 
+
+[[Levels of Abstraction]]  
+
 ## A Comprehensive System of Systems 
 
-1. The [[Lionsberg System of Governance]]  
-2. The [[Lionsberg System of Work]]  
-3. The [[Lionsberg Economic System]]  
-4. The [[Lionsberg System of Culture and Community]] 
-5. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
-6. The [[Lionsberg Energy System]]  
-7. The [[Lionsberg Water System]]  
-8. The [[Lionsberg Information System]]  
-9. The [[Lionsberg Intellectual Content System]]  
-10. The [[Lionsberg Publishing System]] 
-11. The [[Lionsberg Dynamic Exchange System]]
-12. The [[Lionsberg Integrated Wellbeing and Development System]]  
-13. The [[Lionsberg House of Wisdom]]    
-14. The [[Lionsberg House of Culture]]  
-15. The [[Lionsberg Academy]]  
-16. The [[Lionsberg Outreach and Broadcast System]] 
-17. The [[Lionsberg Integrated Wellbeing and Development System]]  
-18. The [[Lionsberg Human System Living System Interface]]
-19. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
 ## The Lionsberg System of Self-Governance 
 
@@ -377,7 +364,29 @@ Wisdom Flow
 ### Integrated Delivery Conclusion
 [[4.0 Conclusion]]  
 
+## Systems
 
+
+1. The [[Lionsberg System of Governance]]  
+2. The [[Lionsberg Integrated Delivery System]]  
+3. The [[Lionsberg System of Work]]  
+4. The [[Lionsberg Economic System]]  
+5. The [[Lionsberg System of Culture and Community]] 
+6. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
+7. The [[Lionsberg Energy System]]  
+8. The [[Lionsberg Water System]]  
+9. The [[Lionsberg Information System]]  
+10. The [[Lionsberg Intellectual Content System]]  
+11. The [[Lionsberg Publishing System]] 
+12. The [[Lionsberg Dynamic Exchange System]]
+13. The [[Lionsberg Integrated Wellbeing and Development System]]  
+14. The [[Lionsberg House of Wisdom]]    
+15. The [[Lionsberg House of Culture]]  
+16. The [[Lionsberg Academy]]  
+17. The [[Lionsberg Outreach and Broadcast System]] 
+18. The [[Lionsberg Integrated Wellbeing and Development System]]  
+19. The [[Lionsberg Human System Living System Interface]]
+20. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
 ## Misc
 

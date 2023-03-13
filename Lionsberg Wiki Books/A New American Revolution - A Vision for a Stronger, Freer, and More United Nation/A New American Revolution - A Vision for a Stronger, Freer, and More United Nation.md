@@ -105,21 +105,50 @@ By [[Jordan Nicholas Sukut]], with AI as translator
 [[V.B. Real Solutions To Universal Problems And Needs]]  
 
 ### C. Real Pathways Towards Universal Aspirations 
+
+[[V.C. Real Pathways Towards Universal Aspirations]]
+
 ### D. Equal Opportunity and Access for All Citizens  
+
+[[V.D. Equal Opportunity and Access for All Citizens]] 
+
 ### E. Freedom, Agency, and Responsibility  
-### F. America as a Beacon of Hope, Freedom, and Strength In the World  
+
+[[V.E. Freedom, Agency, and Responsibility]]
+
+### F. America as a Beacon of Hope, Freedom, and Strength In the World
+
+[[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]] 
+
+### G. A New Vision For America
+
+[[V.G. A New Vision For America]] 
 
 ## VI. Conclusion 
 
-### A. Recap of the American Crisis of Confidence and Faith 
-### B. The Power and Potential of the American Spirit 
+### A. Recap of the American Crisis of Confidence and Faith
+
+[[VI.A. Recap of the American Crisis of Confidence and Faith]] 
+
+### B. The Power and Potential of the American Spirit
+
+[[VI.B. The Power and Potential of the American Spirit]] 
+
 ### C. The Non-Inevitability of Failure and Decline 
+
+[[VI.C. The Non-Inevitability of Failure and Decline]]
+
 ### D. A Call to Action for a New American Revolution
+
+[[VI.D. A Call to Action for a New American Revolution]] 
+
+### E. Continuously Improving the New Vision and Plan
+
+[[VI.E. Continuously Improving the New Vision and Plan]] 
+
 
 ## VII. Epilogue
 
-### A. Reflections on the American Spirit
+### A. Inspiring Voices and Reflections on America
 
-### B. Inspiring Reflections on America
-
-[[VII.D. Inspiring Reflections on America]]  
+[[VII.A. Inspiring Voices and Reflections on America]]  

@@ -16,7 +16,7 @@ By March 1, 2023 the allies had worked together to articulate:
 - [[The New System and Approach]] 
 - [[The New Structure]] 
 
-They then presented these to the world through [[Beyond The Meta Crisis - A Blueprint for a Better Future]], [[The Meta Project - Enacting the New Vision and Plan]], and other publications. 
+They then presented these to the world through [[Beyond The Meta Crisis - A Blueprint for a Better Future]], [[The Meta Project - Enacting the New Vision and Plan]], [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]], and other publications. 
 
 Through March and April, Jordan and others held a series of highly targeted meetings with allies and potential resourcing and funding sources. 
 
