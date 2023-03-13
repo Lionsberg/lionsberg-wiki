@@ -16,6 +16,7 @@ To get started, please explore the links below:
 - Book 3: [[The Lionsberg Book of Meditations]] is a book of ideas to mediate on  
 - Book 4: [[The Lionsberg Book of Quotes]] is a book of famous words spoken about the same Vision and Goal  
 - Book 5: [[The Book of Lionsberg]] is another work in progress that provides more expansive insights into the New Vision and Plan  
+- Book 6: [[Lionsberg - A Biblical Perspective]] offers a defense of Lionsberg from the perspective of the Bible and Christianity  
 - [[Above The Chaos]] is Jordan's blog and a place to find narrative content.   
 - [[Jordan's Guide to Lionsberg]] is another starting point. 
 - [[Ideas and Inspiration to Become More Involved]] is a simple starting point on things that you can immediately take action on if you would like to begin finding your unique areas of greatest purpose, passion, and contribution. 
