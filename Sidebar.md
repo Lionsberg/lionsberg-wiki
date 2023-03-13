@@ -7,13 +7,12 @@ This site is a [[Work In Progress]]
 
 # Blogs
 [[Above The Chaos]]   
-[[Pete's Journal]]   
 
 # Books
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-[[The Book of Lionsberg]]   
-[[A Way Beyond Fear, Anxiety, And Depression]]   
-[[The Lionsberg Meta Guide]]   
+[[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+[[The Book of Lionsberg]]  
+[[The Lionsberg Book of Meditations]]  
 [[Lionsberg Wiki Books]]   
 
 <!-- Comment not rendered visibly to web
