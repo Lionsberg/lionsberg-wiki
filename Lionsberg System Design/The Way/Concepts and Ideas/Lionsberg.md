@@ -8,7 +8,7 @@ The Spirit and [[Logos]] of Lionsberg is expressed through a [[Pattern Language]
 
 It is also expressed in the form of a Mythical Story about a group of people who, at the most critical inflection point in human history, arose and united to confront and overcome the grand challenges, and Co-Create The New World. 
 
-It 8 billion people decide to [[Enact]] the [[Story of Lionsberg]], the [[New World]] is already at hand, and it will be [[Becoming]] [[A Little Better Every Day]] because [[All]] will be [[Working Together To Make It So]]. 
+It 8 billion people decide to [[Enact]] the [[Story of Lionsberg]], the [[New World]] is already at hand, and getting [[A Little Better Every Day]] because [[All]] will be [[Working Together To Make It So]]. 
 
 See [[The Lionsberg Meta Guide]], [[The Book of Lionsberg]], or [[Your Starting Point]].  
 
