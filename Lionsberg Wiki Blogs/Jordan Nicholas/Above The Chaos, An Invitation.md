@@ -83,3 +83,8 @@ With Love, In Community,
 ~ J
 
 [[Jordan Nicholas Sukut]]  
+
+For further reading and insight, please see: 
+
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
+- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
