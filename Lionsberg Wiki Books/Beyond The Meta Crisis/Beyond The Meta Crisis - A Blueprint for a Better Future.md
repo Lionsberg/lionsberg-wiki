@@ -1,6 +1,6 @@
 # Beyond the Meta Crisis: A Blueprint for a Better Future 
 
-This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and accelerate progress. 
+This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and accelerant. 
 
 ## Section I: Introduction 
 
@@ -208,23 +208,164 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI to translate and ac
 
 ### Chapter 31: Next Steps for the Rising Movement
 
-#### 31.1 The priorities and focus areas for the rising movement 
-#### 31.2 The strategies and tactics for advancing the New Vision and Plan 
-#### 31.3 The role of education, outreach and engagement in advancing the rising movement 
+#### [[31.1 The priorities and focus areas for the rising movement]] 
+#### [[31.2 The strategies and tactics for advancing the New Vision and Plan]] 
+#### [[31.3 The role of education, outreach and engagement in advancing the rising movement]] 
 #### [[31.4 Resourcing the New Vision, System and Plan]] 
 
 ### Chapter 32: The Rising Movement: A Call To Action 
 
 #### [[32.1 A call to action for individuals and communities to join the rising movement]] 
-#### 32.2 The ways in which individuals and communities can get involved and support the New Vision and Plan 
-#### 32.3 The potential for the rising movement to create a better future for humanity and all life on Earth
+#### [[32.2 The ways in which individuals and communities can get involved and support the New Vision and Plan]] 
+#### [[32.3 The potential for the rising movement to create a better future for humanity and all life on Earth]] 
 
 ## Section X: Conclusion
 
 ### Chapter 33: Conclusion
 
-#### 33.1 A summary of the key points and themes of the book 
-#### 33.2 The potential for the New Vision and Plan to create a better future for humanity and all life on Earth 
-#### 33.3 A call to action for readers to join the rising movement and support the implementation of the New Vision and Plan.
+#### [[33.1 A summary of the key points and themes of the book]] 
+#### [[33.2 A final call to action for readers to join the rising movement and support the implementation of the New Vision and Plan]] 
+#### [[33.3 Questions To Guide Vision, Analysis, and Planning]] 
 
 ## Section XI: Tools and Resources For Action 
+
+**COMING SOON!** 
+
+### Chapter 34: The Lionsberg System Toolkit
+
+#### 34.1 Overview of the Lionsberg System
+
+#### 34.2 Introduction to the Lionsberg System Toolkit
+
+#### 34.3 The key components of the Lionsberg System Toolkit
+
+#### 34.4 How to use the Lionsberg System Toolkit for personal, group, community, and systemic transformation
+
+#### 34.5 Adapting the Lionsberg System for Different Contexts and Cultures
+
+#### 34.6 Accessing and contributing to the Lionsberg System Toolkit
+
+#### 34.7 Training, Mentoring, and Support For Your Quest
+
+### Chapter 35: Lionsberg Tools for Personal Transformation
+
+#### 35.1 Implementing the Lionsberg System at the Individual Level
+
+#### 35.2 The Six Step Process For Individuals
+
+#### 35.3 The Individual Prototype and Pattern Language
+
+#### 35.4 Integrating the Individual Level with the Group, Community, and System Levels
+
+#### 35.5 Tools and Techniques for Personal Transformation
+
+-   Transforming Individual Consciousness
+-   Developing Individual Capacity for Creativity, Communication, and Collaboration
+-   Embracing a Regenerative and Just Lifestyle and Culture
+-   The Individual as a System of Systems
+-   Envisioning, Prioritizing and Implementing Individual-Based Projects and Initiatives
+-   Personal assessment and transformation tools
+
+### Chapter 36: Lionsberg Tools for Group Transformation
+
+#### 36.1 Implementing the Lionsberg System at the Group Level
+
+#### 36.2 The Six Step Process For Groups
+
+#### 36.3 The Group Prototype and Pattern Language
+
+#### 36.4 Integrating the Group Level with the Individual, Community, and System Levels
+
+#### 36.5 Tools and Techniques for Group Transformation
+
+-   Transforming Group Consciousness
+-   Developing Group Capacity for Creativity, Communication, and Collaboration
+-   Building a Regenerative and Just Group Culture
+-   The Group as a System of Systems
+-   Envisioning, Prioritizing and Implementing Group-Based Projects and Initiatives
+-   Group assessment and transformation tools
+
+### Chapter 37: Lionsberg Tools for Community Transformation
+
+#### 37.1 Implementing the Lionsberg System at the Community Level
+
+#### 37.2 The Six Step Process For Communities
+
+#### 37.3 The Community Prototype and Pattern Language
+
+#### 37.4 Integrating the Community Level with the Individual, Group, and System Levels
+
+#### 37.5 Tools and Techniques for Community Transformation
+
+-   Transforming Community Consciousness
+-   Developing Community Capacity for Creativity, Communication, and Collaboration
+-   Building a Regenerative and Just Community Culture
+-   The Community as a System of Systems
+-   Envisioning, Prioritizing and Implementing Community-Based Initiatives and Projects
+-   Community assessment and transformation tools
+
+### Chapter 38: Lionsberg Tools for Systemic Transformation
+
+#### 38.1 Implementing the Lionsberg System at the Systems Level
+
+#### 38.2 The Six Step Process For Systems
+
+#### 38.3 The Systems Prototype and Pattern Language
+
+#### 38.4 Integrating the Systems Level with the Individual, Group, and Community Levels
+
+#### 38.5 Tools and Techniques for Systemic Transformation
+
+-   Transforming System Consciousness
+-   Developing Systemic Capacity for Creativity, Communication, and Collaboration
+-   Building a Regenerative and Just Systemic Culture
+-   The System as a System of Systems
+-   Envisioning, Prioritizing and Implementing System-Based Initiatives and Projects
+-   Systems assessment and transformation tools
+-   Tools for Advocacy and Systemic Change
+-   Building Alliances and Networks for Systemic Transformation
+
+### 39 Additional Tools
+
+#### 39.1 Vision and Story Tools
+
+#### 39.2 Analysis and Understanding Tools
+
+-   Identifying, Analyzing and Solving Issues
+
+#### 39.3 Engagement and Community Building Tools
+
+-   Communication and outreach tools
+-   Networking and Collaboration Tools
+
+#### 39.4 Strategy and Planning Tools
+
+#### 39.5 Action Tools
+
+#### 39.6 Monitoring, Evaluation, and Continuous Improvement Tools
+
+-   Monitoring and Evaluation Tools  
+-   Retrospective Tools  
+-   Reflection and Growth tools  
+
+#### 39.7 Capacity Building Tools
+
+-   Resources for learning and education
+
+#### 39. Policy and Advocacy Tools 
+
+
+## Section XII: Appendices
+
+### Appendix A: Glossary of Key Terms
+
+#### A.1 Definitions of key terms used throughout the book
+
+#### A.2 Clarification of concepts and ideas
+
+### Appendix B: Frequently Asked Questions
+
+#### B.1 Answers to common questions about the Meta Crisis, New Vision and Plan, and the rising movement
+
+#### B.2 Additional resources and information for further exploration  
+
