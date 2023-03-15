@@ -10,11 +10,6 @@ It is [[True]] not in the sense that is accurately represents what is actually h
 
 It is intended to become a Faithful [[Embodiment]] of the [[Meta Story]]. 
 
-The degree to which [[The Story of Lionsberg]]  will become [[True]] and Embodied in your specific [[Time]] and [[Space]] depends on us together. 
+The degree to which [[The Story of Lionsberg]]  will become [[True]] and Embodied in your specific [[Time]] and [[Space]] depends on us, together. 
 
 Because we are [[Co-Creating]] our [[Reality]], right [[Here]] and [[Now]]. 
-
-[[One]] and [[All]] are the conceptual limits of the [[Highest Order Functional Unity]] that encompasses [[All]] things.  
-
-We are [[All]], individually and collectively, part of this Fundamental Unity, whether we acknowledge and act like it or not. 
-
