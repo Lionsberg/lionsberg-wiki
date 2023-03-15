@@ -1,5 +1,8 @@
 # Meta Crisis
 
+The collective term for the complex, interconnected challenges facing humanity and the planet, including social injustice, environmental degradation, political and economic instability, and more. The Meta Crisis requires a comprehensive and systemic response to address these issues effectively.
+___
+
 What if... each of the individual and local crises we were facing, were flowing from the mouth of one overarching and uniting **Meta Crisis**? 
 
 What if... the individual and local crises we are all facing are not the deepest issues, but symptoms of a deeper root cause, what is the deepest root cause? 

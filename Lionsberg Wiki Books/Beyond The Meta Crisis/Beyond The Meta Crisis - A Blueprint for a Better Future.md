@@ -359,13 +359,17 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 
 ### Appendix A: Glossary of Key Terms
 
-#### A.1 Definitions of key terms used throughout the book
-
-#### A.2 Clarification of concepts and ideas
+#### [[A.1 Definitions of key terms used throughout the book]]
 
 ### Appendix B: Frequently Asked Questions
 
-#### B.1 Answers to common questions about the Meta Crisis, New Vision and Plan, and the rising movement
+[[Frequently Asked Questions]]  
 
 #### B.2 Additional resources and information for further exploration  
+
+[[Jordan Nicholas Sukut]]  
+[[Lionsberg Wiki Books]] 
+[[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+[[The Book of Lionsberg]]  
+[[The Lionsberg Meta Guide]]  
 

@@ -1,5 +1,8 @@
 # Lionsberg System
 
+ The Lionsberg System is a powerful system and toolkit designed to support the implementation of the [[New Vision and Plan]]. It includes a wide array of tools, resources, and strategies that empower individuals and communities to take effective action to transform their own lives and the world around them.
+___
+
 See also [[The Lionsberg Meta Guide]] 
 
 ## I. Introduction

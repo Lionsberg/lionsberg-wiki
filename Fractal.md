@@ -1,8 +1,7 @@
 # Fractal
 
-
+A geometric or mathematical concept characterized by self-similar patterns that repeat at different scales or levels of magnification. In the context of the [[New Vision and Plan]] and the [[Lionsberg System]], the term "fractal" is used to describe the scalable and adaptable nature of the framework, which can be applied at different levels of society, from the individual, to the local, to the global.
 ___
-
 The fractal nature of the New Vision and Plan means that the same principles, values, goals, and strategies that guide the implementation of the plan at the global level also guide the implementation of the plan at the regional, national, and local levels. Each fractal [[Instance]] of the New Vision and Plan is designed to be self-sufficient and self-governing to the extent possible, while also being connected to and supported by the larger network.
 
 To ensure that each fractal instance can continue to follow the pattern language of the New Vision and Plan, even if disconnected from the network for an extended period of time, several measures can be taken.

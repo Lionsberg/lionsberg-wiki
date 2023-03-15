@@ -1,6 +1,9 @@
 # Collaboration
 
-Given the [[Shift In Mindset]] from “silo” to “system,” lean requires collaboration between all the parties involved with a [[Program of Action]].  **_There is only one program, one intention, one vision, one system, and one goal_**. 
+The process of working together with others to achieve a shared goal, create something new, or solve a problem. Collaboration involves open communication, trust, and a willingness to contribute and learn from one another.
+___
+
+[[Systems Thinking]] and [[Integrated Delivery]] require a [[Shift In Mindset]] from “silo” to “system.” This requires collaboration between all the parties involved with a [[Program of Action]].  **_There is only one program, one intention, one vision, one system, and one goal_**. 
 
 This includes the owner, receiver, program manager, IPD Teams, trade partners, operational personnel, and **_the global community that will inherit and operate the System_**. 
 

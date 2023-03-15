@@ -1,5 +1,7 @@
 # Pattern Language
 
+A structured method of communicating and sharing solutions to complex problems, consisting of a collection of patterns that describe best practices, good design, or effective solutions to recurring challenges.
+____
 A pattern language is a structured method of describing good design solutions to recurring problems. The patterns are organized in a hierarchical manner, such that the patterns at the lower levels of the hierarchy are more specific, while the patterns at the higher levels are more general and overarching. The goal of a pattern language is to provide a shared vocabulary and a set of guidelines that can be used to improve the quality of design, and to make the design process more efficient, effective, and collaborative. The pattern language also allows for design to be more easily and effectively evaluated, as it establishes a standard that can be used to assess the [[Quality]] of a design or local instantiation. 
 
 In architecture, urban design, and software engineering, it describes a practical method for creating coherent, sustainable and livable structures, systems, and communities. In the [[New Vision and Plan]], the pattern language describes a coherent and holistic approach to addressing the [[Meta Crisis]], and creating a more just, sustainable, and harmonious world for all people and all life on Earth. 
