@@ -6,6 +6,7 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 
 #### [[0.1 About the Architect]]  
 #### [[0.2 Orientation ]] 
+#### [[0.3 Abstract]] 
 
 ### Chapter 1: The Meta Crisis
 
