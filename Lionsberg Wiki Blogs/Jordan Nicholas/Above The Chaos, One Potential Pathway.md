@@ -9,6 +9,8 @@ This is of course just one ridiculously over simplified path, that *might work*,
 
 I haven't even read every line, so I might not agree with AI - but it is a starting point and a vision of what might be possible. 
 
+The inspirational point is that whatever we want to achieve, is merely a total nested hierarchy of logically ordered steps that must be advanced through. 
+
 ## Monthly Summary
 
 **March 15 - 31, 2023** The global campaign launches, centered around Jordan Nicholas and Lionsberg's shared mission to address the meta crisis. The initial phase focuses on building a strong foundation for both campaigns, including establishing clear goals, assembling dedicated teams, and developing initial strategies. Outreach efforts begin with a series of articles, podcasts, and social media posts outlining the [[New Vision and Plan]] and inviting citizens from around the world to participate.
