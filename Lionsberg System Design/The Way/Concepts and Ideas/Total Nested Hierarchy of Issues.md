@@ -27,6 +27,7 @@ This is not an Absolute list, but the general themes are obvious. If we loved so
 23. Weak / corrupt institutions  
 24. Lack of coherence, cooperation, and continuity 
 25. Lack of Spiritual Realization 
+26. Supply Chains, extraction, oppression, and abuse 
 
 These issues, and their corresponding Goals, have been nearly universally validated by 193 nations and the vast majority of international organizations and institutions through frameworks such as the United Nations Sustainable Development Goals. 
 
@@ -44,4 +45,4 @@ The Total Nested Hierarchy of Issues gives rise to a [[Total Nested Hierarchy of
 
 The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Nested Hierarchy of Goals]] is accomplished for the Good of All. 
 
-The [[Lionsberg System]] is being co-created to instanitate / embody these solutions. 
+The [[Lionsberg System]] is being co-created to instantiate / embody these solutions. 

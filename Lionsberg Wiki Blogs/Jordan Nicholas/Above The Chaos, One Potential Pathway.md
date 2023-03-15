@@ -9,7 +9,7 @@ This is of course just one ridiculously over simplified path, that *might work*,
 
 I haven't even read every line, so I might not agree with AI - but it is a starting point and a vision of what might be possible. 
 
-The inspirational point is that whatever we want to achieve, is merely a total nested hierarchy of logically ordered steps that must be advanced through. 
+The inspirational point is that whatever we want to achieve is merely a total nested hierarchy of logically ordered steps that must be advanced through. 
 
 ## Monthly Summary
 
