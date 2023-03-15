@@ -1,5 +1,9 @@
 # Above The Chaos, An Invitation
 
+By [[Jordan Nicholas Sukut]], 2023.03.14 _(updated 2023.03.14)_
+
+A post in [[Above The Chaos]].
+
 Dear fellow Citizens, 
 
 ## The Crossroads
