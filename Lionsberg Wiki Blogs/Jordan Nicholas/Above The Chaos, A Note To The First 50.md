@@ -29,6 +29,7 @@ Your ongoing support and dedication are the lifeblood of our shared vision. Toge
 Thank you for your commitment and belief in our mission. With your help, we will secure the resources necessary to catapult our movement forward and make a lasting, transformative impact on the world.
 
 I have recently published a couple books - please feel free to explore and forward: 
+
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 - [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
 
