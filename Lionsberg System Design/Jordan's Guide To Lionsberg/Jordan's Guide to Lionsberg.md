@@ -14,7 +14,7 @@ Each of us, and all of us together as a human species aboard planet Earth, are o
 
 ## Something Is Deeply Wrong 
 
-As we evaluate [[Where We Are]] and [[Where We Are Going]], we all can sense that [[Something Is Deeply Wrong]]. The vast majority of humanity understands that [[We Are On The Wrong Track]] and headed in the wrong direction. [[What got us here will not get us to where we want to go]]. 
+As we evaluate [[Where We Are]] and [[Where We Are Going]], we all can sense that [[Something Is Deeply Wrong]]. The vast majority of humanity understands that [[We Are On The Wrong Track]] and headed in the wrong direction. [[What Got Us Here Will Not Get Us To Where We Want To Go]]. 
 
 ## We Are Facing a Meta Crisis 
 

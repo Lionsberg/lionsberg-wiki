@@ -149,12 +149,4 @@ What are some of the Goods that you long to see burst forth?
 Let's build our Vision together and align, as we labor together to Co-Create the [[New World]]. 
 ___
 
-So given [[Where We Are]], how do we get to [[Where We Are Going]]? How can we possibly cross the chasm that lies between the Old World of captivity and the Land of Promise? 
-
-Simply, we _choose_. We _decide_ to insist upon and Aim unwaveringly at the Best Possible Future for All, and we strive together daily towards that end in partnership with [[One]] and [[One Another]]. 
-
-If it is what [[One]] intends, and we Aim for it and align the fullness of our Being with it, what could possibly stand in our Way? 
-
-More pragmatically, we are doing our best to Co-Create a Meta Community, a Meta Project, and a Meta Game to help guide and empower you on our shared Quest towards the [[Most Worthy Goal]].  
-
-[[Your Starting Point]] is [[Your Starting Point|Here]]. 
+So given [[Where We Are]], how do we get to [[Where We Are Going]]? How can we possibly cross the chasm that lies between the Old World and the [[New World]]? 

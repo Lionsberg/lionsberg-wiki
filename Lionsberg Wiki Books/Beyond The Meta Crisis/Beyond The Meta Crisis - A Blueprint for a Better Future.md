@@ -134,7 +134,8 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 ##### [[16.5.7 Infrastructure Justice and Reform]] 
 ##### [[16.5.8 A Comprehensive Approach to the Global Goals]] 
 ##### [[16.5.9 A Comprehensive Approach to the Grand Challenges]] 
-##### [[16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth]]
+##### [[16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth]]  
+#### [[16.7 A Vision of the New Earth]] 
 
 
 ### Chapter 17: The Impact of the New Vision and Plan 

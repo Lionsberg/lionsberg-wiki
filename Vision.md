@@ -1,9 +1,13 @@
 # Vision
 
-Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] with Clarity and  [[Wisdom]]. 
+Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] with clarity, and to select from among them with [[Wisdom]]. 
 
 ___
-A more articulated version of the Vision of Lionsberg can be found in [[Lionsberg Vision]], and [[Best Possible Future]]. 
+See also: 
+- [[Lionsberg Vision]]  
+- [[New Vision and Plan]] 
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
+- [[Best Possible Future]]  
 ___
 ## On The Importance of Vision
 

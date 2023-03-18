@@ -16,9 +16,9 @@ The Lionsberg System is a work in progress, and is designed to be continuously i
 The Lionsberg System is composed of a number of core components, which work together to create a comprehensive, modular, and interoperable framework that enables individuals and communities to take ownership of their own development and co-create solutions to the challenges they face, in a way that is aligned with the wisdom and knowledge of God and nature, as best we currently understand it. These components include:
 
 1.  A legal and governance infrastructure to facilitate emergence
-2.  A story big enough to reunite humanity and God, and a way for all individuals, tribes, and nations to find their place in it 
+2.  A story big enough to reunite humanity, the [[Living System]], and its [[Source]], and a way for all individuals, tribes, and nations to find their place in it 
 3.  A technological platform to connect and empower individuals, organizations, and communities around the world 
-4.  An integrated delivery system to measure and align progress towards The Goal
+4.  An [[Integrated Delivery System]] to align, resource and monitor progress towards The Goal
 5.  A code to guide behavior in community
 6.  A constitution or declaration that establishes the values and principles of the system
 7.  A conceptual System of Systems to connect and empower all tribes, nations, and peoples.

@@ -2,11 +2,7 @@
 
 ## The Lionsberg Vision:
 
-To co-create a world in which all people have the opportunity to thrive and reach their full potential, and in which the natural environment is regenerated and and restored for future generations. 
-
-This can occur through a system in which [[All Generations of Life]] [[Help One Another]] develop towards the fullness of their [[Potential]] and flourish. 
-
-The [[Lionsberg System]] was created to connect and empower a diverse [[Group Of Groups]] to embody this Vision and Goal. 
+We envision a world in which all individuals, localities, and ecosystems have the opportunity to help one another develop towards the fullness of their unique potential and flourish in harmony. 
 
 For a fuller and more vivid description of what this might look like, see [[Best Possible Future]]. 
 
