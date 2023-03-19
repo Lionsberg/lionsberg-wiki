@@ -1,8 +1,8 @@
-# Feature of Work
+# Features of Work
 
-A Feature of Work is a distinct aspect of a project or system that is defined by its specific purpose, goals, and deliverables. They are the component parts of the [[Work Breakdown Structure (WBS)]] of a project. 
+Features of Work are distinct aspects of a project or system that are defined by their specific purpose, goals, and deliverables. They are the component parts of the [[Work Breakdown Structure (WBS)]] of a project. 
 
-In the context of the Lionsberg System, a Feature of Work refers to a particular area of work or focus that contributes to the shared Vision and Goals of the Lionsberg System. 
+In the context of the Lionsberg System, a Feature of Work refers to a particular area of work or focus that contributes to the shared Vision and Goals of the Lionsberg System and the [[New Vision and Plan]]. 
 
 Features of Work are the building blocks of a project or system, and help to break down the work into smaller, more manageable components. When developing a Work Breakdown Structure (WBS), it is important to identify and define the Features of Work in order to effectively plan, prioritize, and execute the work.
 

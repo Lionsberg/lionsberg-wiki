@@ -51,7 +51,7 @@ I hope it is helpful to you. Be encouraged and inspired!
 [[1.28 Warning 2]]  
 [[1.29 Becoming]]  
 [[1.30 Warning 3]]  
-[[1.31 The Physics Of The Threshhold]]  
+[[1.31 The Physics Of The Threshold]]  
 [[1.32 The Fear Of Hell]]  
 [[1.33 First Light Beyond The Boundary]]  
 
