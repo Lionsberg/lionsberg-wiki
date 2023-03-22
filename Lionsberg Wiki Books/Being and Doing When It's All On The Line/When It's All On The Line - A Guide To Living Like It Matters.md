@@ -100,11 +100,11 @@
 
 ### 3.25 How To Transcend When It's All On The Line 
 
-## Chapter 4 - The Great Unending 
+## Chapter 4 - The Dawn of the New World 
 
 ### 4.1 The Great Unending 
 
-### 4.2 A New Dawn Of A New Era 
+### 4.2 The Dawn of the New World  
 
 ### 4.3 Five Steps Across The Chasm 
 
