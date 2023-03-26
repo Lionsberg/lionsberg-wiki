@@ -4,7 +4,7 @@ _(2023.03.26 Draft For Review and Improvement)_
 
 Dear Friends and Allies, 
 
-Greetings. I am writing to invite you to embark with me on the next phase of our epic [[Quest]] towards our ultimate shared Goal. 
+Greetings. I am writing to invite you to embark with me on the next phase of our [[Quest]] towards [[The Goal]]. 
 
 Succeeding and overcoming the challenges ahead will demand resources, sacrifice, and dedication. We now must forge enduring connections that unite and sustain us through the obstacles that lie ahead.
 
@@ -12,51 +12,25 @@ There is a famous myth that when Ernest Shackleton was organizing his historic A
 
 "_**Men Wanted** for hazardous **journey**, small wages, bitter cold, long months of complete darkness, constant danger, safe return doubtful, honor and recognition in case of success._"  
 
-In this spirit, I extend this invitation and proposal to those few courageous individuals who know they were born for this moment in history, who resonate with the Spirit that impels me, and who are willing to sacrifice for the opportunity to strive together toward a [[Worthy Goal]] that has not yet been achieved. This is your invitation to the adventure of a lifetime.
-
-While I cannot guarantee success, my commitment to those pioneering trailblazers who embark on this noble Quest is that I will dedicate myself to working together discover and become who we are uniquely created to be in service of One and All, as we progress together on this epic [[Quest]] toward [[The Goal]].
-
-## The Quest 
-
-On our [[Quest]] towards [[The Future We Seek]], our collective [[Force For Good]] stands at a crossroads. After journeying a long [[Way]], many of us are weary, nearing the end of our resources, confronting our own limitations, and unsure whether it is possible to [[Cross The Chasm]] the lies ahead. We occasionally glimpse the [[Land Of Promise]], abundant with resources and opportunities beyond our imagination, only for it to vanish like a mirage in the desert.  
-
-## The Context 
-
-Our [[External Context]] is spiraling towards chaos. Global alliances are shifting, banks are failing, inflation is surging, currencies are crumbling, diseases are spreading, tens of millions are displaced, superpowers are edging toward WWIII, artificial intelligence is emerging, corruption is being exposed, and the leaders and institutions we once relied on are paralyzed, blind, and unable to respond with courage and wisdom to the meta-crisis at hand.
-
-In reaction to the unfolding chaos and their own pursuit of power, authoritarian forces are consolidating their [[Fascist]] collusion, eroding the hard-earned freedoms secured by our ancestors and drifting toward a tyrannical order that we do not want, did not choose, and will not consent to.  
-
-## The 7 Year Period of Crisis and Opportunity 
-
-Although we cannot be certain, we [[Hypothesize]] that we are now in a critical [[The 7 Year Window of Crisis and Opportunity]], the outcome of which will impact the lives of our children, grandchildren, and their descendants for generations to come.
-
-To get to [[Where We Are Going]], we must carefully navigate the [[Challenges]] at hand and thread the needle between tyranny and chaos to discover and co-create the [[New World]]. 
-
-## Citizen Heroes 
-
-Against this stark backdrop, the light of Citizen Heroes on the frontlines of every battle to make our world a better place shines brilliantly. Yet divided and isolated, all of us who are striving towards The Goal lack the total resources, relationships, and transformational power required to genuinely address the [[Root Causes]] of the [[Meta Crisis]] and turn the tide.
+In this spirit, I extend this invitation and proposal to those few courageous individuals who know they were born for this moment in history, who resonate with the Spirit that impels us, and who are willing to sacrifice for the opportunity to strive together toward a [[Worthy Goal]] that has not yet been achieved. This is your invitation to what I hope will become the adventure of a lifetime.
 
 ## Lionsberg 
 
-Over the last five years, we have sacrificed our growing wealth and position in the [[Old World]], journeying through the underworld and forging an [[Ark]] and a [[Way]] through this pivotal moment in history.
+Over the last five years, we have done our best to assemble an [[Ark]] and [[Way]] to get through this crucial moment in history. 
 
 **It is called [[Lionsberg]], and this is your formal invitation to become its [[Co-Creators]].** 
 
-## An Invitation to The Great Game of Lionsberg 
+## An Invitation 
 
 **Welcome to Lionsberg** – a system and place designed to serve and empower us to work and play together toward the **One Goal** that unites us **All** at this critical moment in history.
 
-Lionsberg is a community of communities, a platform of platforms, a project of projects, a team of teams, a game of games, a business of businesses, a battle of battles, a campaign of campaigns, and a quest of quests.  
-
-My hope is that we can co-create a Great Game so powerful that as we [[Play]] it together, we and the world actually and measurably can transform. 
+The purpose of Lionsberg is to forge a platform, system and community to connect, serve, and empower the [[Force For Good]]. It is designed as a servant of All. 
 
 ## How It Works 
 
 ### I. Structure & Ecosystem
 
-The Game exists within the Context of **a shared multi-generational legal and governance commons** *that no one owns*, which we steward and cultivate together for the benefit of our future [[Selves]] and [[Future Generations]]. 
-
-As a [[Participant]], and eventually a Member and Citizen, you will become a co-creator and co-steward of a shared Movement, a Community, a Vision, a System, a Structure, and a Plan. 
+We have forged **a shared multi-generational legal and governance commons** *that no one owns*, which we will steward and cultivate together for the benefit of our future [[Selves]] and [[Future Generations]]. 
 
 This unifying structure and commons allows for the entire cycle of emergence and co-creation to manifest in a safe, secure, and properly structured ecosystem that can benefit both us and the future generations we [[Pass The Baton]] to. 
 
@@ -127,9 +101,9 @@ Over the years, I have assembled an opening collection of gifts that I freely of
 12. The Gift of Fiscal Sponsorships and Special Purpose Vehicles 
 13. A small collection of inter-linked books - these are a [[Work In Progress]]: 
 	1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-	2. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
-	3. [[The Lionsberg Book of Meditations]]  
-	4. [[The Book of Lionsberg]]  
+	2. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+	3. More to come soon 
+
 
 ## Co-Creation and Learning to Play Together
  
