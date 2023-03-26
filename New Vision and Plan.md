@@ -1,10 +1,12 @@
 # New Vision and Plan - A Pathway to a Thriving, Regenerative Future
 
-The [[New Vision and Plan]] is a holistic framework that presents a bold and captivating vision for a just, regenerative, and flourishing future for [[All]]. This roadmap addresses the r[[Root Causes]] of our global challenges and offers practical guidance on catalyzing transformative change at the individual, organizational, community, national, and systemic levels. 
+_(2023.03.26 Draft For Review and Improvement)_
+
+The [[New Vision and Plan]] is a holistic framework that presents a bold and captivating vision for a just, regenerative, and flourishing future for [[All]]. This roadmap addresses the [[Root Causes]] of our global challenges and offers practical guidance on catalyzing transformative change at the individual, organizational, community, national, and systemic levels. 
 
 To explore aspects of the New Vision and Plan in more detail, see: 
-- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
+- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
 
 ## Context 
 
@@ -12,7 +14,7 @@ As we navigate the complexity of the interrelated spiritual, cultural, values, p
 
 ## Vision
 
-Beyond the precise language in [[Beyond The Meta Crisis - A Blueprint for a Better Future]], people of goodwill share a united vision of a world that embodies abundance, balance, and right relationships among all. In this [[New World]], every individual, community, and ecosystem can realize their full potential and thrive in harmony. We call this highest aspiration the [[Designer's Intent]] for [[Worksite Earth]], or simply [[The Goal]]. 
+Beyond the precise language in [[Beyond The Meta Crisis - A Blueprint for a Better Future]], people of goodwill share a united vision of a world that embodies flourishing, balance, and right relationships among all. In this [[New World]], every individual, community, and ecosystem can realize their full potential and thrive in harmony. We often refer to this highest aspiration the [[Designer's Intent]] for [[Worksite Earth]], or simply [[The Goal]]. 
 
 ## Analysis
 
@@ -30,11 +32,11 @@ United by a shared set of [[Universal Values]] aligned with [[Truth]], [[Love]],
 
 Our strategy is to forthrightly launch a historic, [[Citizen Led]] effort to confront and overcome the [[Meta Crisis]] in all its dimensions, while simultaneously co-creating the [[New World]].
 
-This requires breaking down the [[Meta Crisis]] into a [[Total Nested Hierarchy of Issues]] that can be identified, analyzed, and overcome, as well as deconstructing the [[New Vision and Plan]] into a [[Total Nested Hierarchy of Goals]] that can be progressively realized.
+This requires breaking down the [[Meta Crisis]] into a [[Total Nested Hierarchy of Issues]] that can be identified, analyzed, and overcome, as well as deconstructing the New Vision and Plan into a [[Total Nested Hierarchy of Goals]] that can be progressively realized.
 
-The strategy then calls for a transformative global movement to awaken and unite humanity, elevate consciousness, and empower citizens towards coordinated individual and local action that advances humanity towards its shared goals and values. Our hypothesis is that Story serves as the most potent vehicle to achieve this progressive awakening and reunification. 
+The strategy then calls for a **transformative global movement** to awaken and unite humanity, elevate consciousness, and empower citizens towards coordinated individual and local action that advances humanity towards its shared goals and values. Our hypothesis is that Story serves as the most potent vehicle to achieve this progressive awakening and reunification. 
 
-The strategy calls for establishing an agile [[Core Enterprise]] [[Co-Operating]] an instance of the [[Lionsberg System]] to connect, serve, and empower the decentralized [[Federation]] of rising [[Citizen Impact Groups]]. This will serve as a prototype of a transparent, accountable, and effective [[New Operating System]] for the [[New World]].
+The strategy calls for establishing an agile [[Core Enterprise]] within the [[Lionsberg System]] to connect, serve, and empower the decentralized [[Federation]] of rising [[Citizen Impact Groups]], organizations, and institutions. This will serve as a prototype of a transparent, accountable, and effective [[New Operating System]] of the [[New World]].
 
 With this Vision and Strategy in mind, we outline the following 15 primary strategy points:
 
@@ -54,7 +56,7 @@ With this Vision and Strategy in mind, we outline the following 15 primary strat
     
 8.  **Harness technology and creativity**: Tap into the power of technology, innovation, and imagination to develop and implement tools, platforms, and approaches that drive profound systemic change..
     
-9. **Champion diversity and justice**: Ensure diverse representation and participation in decision-making, prioritizing marginalized voices, nature, and others who are often unheard.
+9. **Build a regenerative ecosystem / federation of groups, organizations, and institutions**: Merge / Acquire / Initiate an ecosystem of citizen groups, businesses, non-profits, and institutions that can inter-exist as a multi-generational federation or commonwealth. 
     
 10.  **Implement distributed and adaptive governance**: Employ agile and responsive governance structures of self-governance that promote collaboration, learning, and adaptation to navigate the complex challenges of the Meta Crisis. 
     
@@ -98,7 +100,7 @@ Each of these phases is broken down into key [[Features of Work]], each of which
 
 ### Phase II: Overcoming the Meta Crisis and Co-Creating the New World
 
-1.  **Local and Global Action**: Facilitate the formation and growth of Citizen Impact Groups focused on addressing specific aspects of the Meta Crisis, fostering resilience, and driving systemic change from the ground up.
+1.  **Local and Global Action**: Facilitate the formation and growth of [[Citizen Impact Groups]] focused on addressing specific aspects of the Meta Crisis, fostering resilience, and driving systemic change from the ground up.
     
 2.  **Education, Training, and Capacity Building**: Develop and disseminate transformative educational resources and training programs that empower individuals and groups to effectively tackle the Meta Crisis and contribute to the New World.
     
@@ -106,9 +108,11 @@ Each of these phases is broken down into key [[Features of Work]], each of which
     
 4.  **Innovation and Scaling of Solutions**: Identify, pilot, and champion groundbreaking, adaptable, and scalable solutions that can be applied across diverse contexts, effectively addressing the multifaceted challenges of the Meta Crisis and accelerating progress towards the New World.
     
-5.  **Policy Advocacy and Systemic Change**: Engage with policymakers, influencers, and decision-makers at all levels to advocate for transformative policy changes that support the transition to the New World.
+5. **Build a Portfolio of Regenerative Businesses, Technologies, and Non-Profits**: Identify and start / merge / acquire for-profit and non-profit organizations and intellectual property into a regenerative ecosystem of organizations that create meaningful and impactful opportunities and solutions for the rising generation. 
     
-6.  **Monitoring, Evaluation, and Learning**: Implement robust monitoring and evaluation systems to track progress, learn from successes and failures, and adapt the Plan of Action as needed to optimize impact.
+6.  **Policy Advocacy and Systemic Change**: Engage with policymakers, influencers, and decision-makers at all levels to secure transformative policy changes that support the transition to the New World.
+    
+7.  **Monitoring, Evaluation, and Learning**: Implement robust monitoring and evaluation systems to track progress, learn from successes and failures, and adapt the Plan of Action as needed to optimize impact.
     
 
 ### Phase III: Passing the Baton to Future Generations
@@ -117,13 +121,13 @@ Each of these phases is broken down into key [[Features of Work]], each of which
     
 2.  **Legacy Building**: Document and share the successes, learnings, and wisdom gained through the Lionsberg Meta Project, creating a rich legacy that can inspire and guide future generations in their quest to build a just, regenerative, and flourishing world.
     
-3.  **Continuity and Succession Planning**: Develop and implement succession planning strategies to ensure that leadership, knowledge, and expertise are smoothly transferred from one generation to the next, maintaining momentum and progress towards the New World.
+3.  **Continuity and Succession Planning**: Develop and implement succession planning strategies to ensure that leadership, knowledge, expertise, organizations, and institutions are smoothly transferred from one generation to the next, maintaining momentum and progress towards the New World. Succession planning will inherently forge the pipeline of businesses, non-profits, and institutions that can be merged and acquired to forge the ecosystem. 
     
 4.  **Ongoing Mentorship and Support**: Establish a global mentorship network that connects experienced leaders and changemakers with emerging talent, fostering lifelong learning and development across generations.
     
 5.  **Celebration and Acknowledgment**: Honor the contributions, achievements, and sacrifices of those who have come before us, celebrating the progress made and acknowledging the collective efforts of all involved in the Lionsberg Meta Project.
 
-6.  **Global Movement Sustenance**: Ensure the ongoing sustenance of the global movement by continuously adapting strategies and approaches to address emerging challenges, leveraging new technologies, and cultivating a vibrant multigenerational community committed to the New World's vision and values.
+6.  **Global Movement Sustenance**: Ensure the ongoing sustenance of the global movement by continuously adapting strategies and approaches to address emerging challenges, leveraging new technologies, and cultivating a vibrant multigenerational community committed to the New World's vision and values, and to ongoing and reciprocal Right Relationship.
     
 7.  **Cultural Transformation**: Engage in long-term efforts to shift cultural norms and values towards those that prioritize the well-being of people and the planet, fostering a global culture of compassion, cooperation, and stewardship.
     
@@ -134,5 +138,5 @@ Each of these phases is broken down into key [[Features of Work]], each of which
 10.  **Local and Universal Citizenship and Stewardship**: Cultivate a sense of local and universal citizenship, stewardship and responsibility among people worldwide, empowering them to work together as stewards of our shared home and guardians of future generations.
     
 
-By continuing to implement and improve this comprehensive and compelling Plan, we can mobilize a global movement that overcomes the Meta Crisis, fosters unity, and propels humanity towards a just, regenerative, and flourishing future for all.
+By continuing to implement and improve this plan, we can mobilize a global movement that overcomes the Meta Crisis, fosters diverse unity, and propels humanity towards a just, regenerative, and flourishing future for all.
 

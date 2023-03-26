@@ -1,4 +1,4 @@
-# Objection
+# Meaningful Objection
 
 Individuals have the moral obligation to Object if they reasonably believe that the Group will be unable to achieve its [[Aim]] if the Proposal is Enacted.
 

@@ -118,7 +118,7 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 [[Decision Making]] 
 [[Proposals]]  
 [[Consent]]  
-[[Objection]] 
+[[Meaningful Objection]] 
 [[Delegation]] 
 
 #### Rights and Responsibilities 

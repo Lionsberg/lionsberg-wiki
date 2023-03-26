@@ -1,0 +1,3 @@
+# Force For Good
+
+The "Force For Good" refers to individuals, groups, organizations, or movements that actively contribute to the betterment of society, the environment, and the overall well-being of all living beings. Rooted in the principles of the [[Lionsberg Manifesto]] and the [[New Vision and Plan]], the Force For Good seeks to create a more harmonious, just, and regenerative world by engaging in actions that align with the shared [[Values]] and [[Vision]] of a brighter future for [[All]].

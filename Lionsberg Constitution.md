@@ -180,6 +180,3 @@
 -   -   Summary of the Lionsberg System and its Constitution
 -   Call to action for individuals and organizations to join and support Lionsberg in building a more truthful, loving, just, wise, and good world for all people.
 
-
-
-[[Critical Path]] 

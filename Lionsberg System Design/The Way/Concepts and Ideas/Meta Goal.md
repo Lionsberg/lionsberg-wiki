@@ -1,21 +1,19 @@
 # Meta Goal
 
-The word [[Meta]] as it is used in the [[Lionsberg System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
+In the [[Lionsberg System]], the term [[Meta]] signifies the eternal, universal, ultimate, self-referential, highest order, and most transcendent conception of an idea. Consequently, the **Meta Goal** represents the supreme, overarching, and unifying "Goal of goals" that inherently contains and organizes all other possible goals.
 
-Therefore the **Meta Goal** is the highest universal overarching and uniting "Goal of goals", that by definition contains within itself and orders all other possible goals.
+The concept of the **Meta Goal** is crucial as it establishes a framework for aligning our individual goals with the goals of various things we participate in and the **Meta Goal** that is expansive enough to unite [[All]].
 
-The idea of the **Meta Goal** is critical because it provides a framework in which to stack up and align our individual goals, with the goals of the various things we participate in, with the **Meta Goal** that is big enough to unite [[All]].  
+Since the term [[Meta]] in the System refers to the [[Absolute]], it is purposefully left abstract to circumvent the [[Patterns of Failure|Pattern of Failure]] that arises when we [[Concretizing The Absolute|Concretize The Absolute]].
 
-Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid the [[Patterns of Failure|Pattern of Failure]] that occurs when we [[Concretizing The Absolute|Concretize The Absolute]]. 
+The Meta Goal could be described as (something like):
 
-The Meta Goal could be described as (something like): 
+_The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._
 
-_The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._  
+At a higher level of abstraction, it could be stated that the Meta Goal is the *will and intention* of [[One]] / God.
 
-One level of abstraction up from that, it could be said that the Meta Goal is the will and intention of [[One]] / God. 
+At the highest level of abstraction, the Meta Goal _is_ [[One]] / God. 
 
-At the highest level of abstraction, the Meta Goal *is* [[One]]. 
+Realizing this Goal would necessitate solving the [[Total Nested Hierarchy of Issues]] and achieving the [[Total Nested Hierarchy of Goals]].
 
-Making this Goal a Reality would require solving the [[Total Nested Hierarchy of Issues]] and accomplishing the [[Total Nested Hierarchy of Goals]]. 
-
-This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect [[Unity]] that lies at the end of the [[Logic of Love]].  
+This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect diverse [[Unity]] and [[Harmony]] that resides at the End of the [[Logic of Love]].

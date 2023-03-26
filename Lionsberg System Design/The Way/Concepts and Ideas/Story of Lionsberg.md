@@ -5,7 +5,6 @@ The [[Story of Lionsberg]] is the story of an epic Quest out of the bondage and 
 To dive into the mythical Story, and find your place in it, see [[The Book of Lionsberg]]. 
 
 ___
-For more information on [[Where We Are]] and [[How We Got Here]], see the [[Provisional Trust Manifesto]]. 
 
 ## Who We Are 
 
@@ -17,11 +16,9 @@ We chose a mythical name because a Story is the only thing capable of scaling to
 
 ## Where We Are
 
-As of winter 2022, we are shifting FROM building the Lionsberg platform and infrastructure while exploring the [[Meta Project]] in the abstract, TO beginning to identify, connect, and empower small groups around the world. 
+As of spring 2023, we are shifting FROM building the Lionsberg platform and infrastructure while exploring the [[Meta Project]] in the abstract, TO beginning to identify, connect, and empower small groups around the world. 
 
 Our hypothesis is that this should be done in the form of a Game so simple and powerful, everyone can help one another play it. 
-
-Therefore in November 2022, we introduced [[The Great Game of Lionsberg]]. 
 
 ## How We Got Here 
 

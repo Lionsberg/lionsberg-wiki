@@ -24,7 +24,7 @@ In general, Groups:
 ___
 ## Snapshot of Lionsberg | Meta Project Groups
 
-Gradually all our groups/sovereigns/teams will begin to appear here ... all those to which people wish to contribute, or in which people have expressed interest.
+To date, people have expressed interest in the following groups, which may emerge as resources, time, and attention are available to devote to them. 
 
 [Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Groups) (catalist.network) 
 

@@ -1,4 +1,5 @@
 # Way
+
 The Way is the Path we travel on our [[Quest]] towards [[The Goal]]. 
 
 It is our [[Way of Being]] as we walk it. 

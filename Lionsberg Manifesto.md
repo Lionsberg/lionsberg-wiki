@@ -1,5 +1,7 @@
 # Lionsberg Manifesto
 
+_(2023.03.26 Draft For Review and Improvement)_
+
 ## Standing at the Crossroads of History   
 
 We, the [[Citizens]] of the world, stand at the crossroads of history. As one era comes to an end a New Era emerges, it is clear that we are on the verge of profound transformation. It is self-evident that what brought us here will not carry us forward to where we want to go, and our future will be unlike our past. 

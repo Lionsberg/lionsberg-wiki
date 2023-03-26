@@ -30,8 +30,8 @@ Thank you for your commitment and belief in our mission. With your help, we will
 
 I have recently published a couple books - please feel free to explore and forward: 
 
-- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
+- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
 
 With heartfelt gratitude and unwavering determination,
 
