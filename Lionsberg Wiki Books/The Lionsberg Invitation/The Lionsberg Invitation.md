@@ -36,12 +36,7 @@ Please provide your response by **Saturday April 1st**, and consider inviting th
 
 [[New Vision and Plan]]  
 
-## VII. Transparency and Disclosures 
-
-[[Jordan's Disclosures]]  
-[[Lionsberg's Disclosures]]  
-
 ## Appendices 
 
-[[Lionsberg One Pager]]  
-[[Lionsberg 3 Pager]]
+Lionsberg One Pager  
+Lionsberg Three Pager  

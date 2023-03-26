@@ -14,7 +14,7 @@ There is a famous myth that when Ernest Shackleton was organizing his historic A
 
 In this spirit, I extend this invitation and proposal to those few courageous individuals who know they were born for this moment in history, who resonate with the Spirit that impels me, and who are willing to sacrifice for the opportunity to strive together toward a [[Worthy Goal]] that has not yet been achieved. This is your invitation to the adventure of a lifetime.
 
-While I cannot guarantee success, my commitment to those pioneering trailblazers who embark on this noble Quest is that I will dedicate myself to helping you discover and become who you were uniquely created to be in service of One and All, as we progress together on this epic [[Quest]] toward [[The Goal]].
+While I cannot guarantee success, my commitment to those pioneering trailblazers who embark on this noble Quest is that I will dedicate myself to working together discover and become who we are uniquely created to be in service of One and All, as we progress together on this epic [[Quest]] toward [[The Goal]].
 
 ## The Quest 
 
@@ -40,15 +40,15 @@ Against this stark backdrop, the light of Citizen Heroes on the frontlines of ev
 
 Over the last five years, we have sacrificed our growing wealth and position in the [[Old World]], journeying through the underworld and forging an [[Ark]] and a [[Way]] through this pivotal moment in history.
 
-**It is called [[Lionsberg]], and this is your formal invitation to become its [[Co-Creators]] and heirs.** 
+**It is called [[Lionsberg]], and this is your formal invitation to become its [[Co-Creators]].** 
 
 ## An Invitation to The Great Game of Lionsberg 
 
-**Welcome to Lionsberg** – an immense system and place of epic, mythical, and magical proportions designed to serve and empower us to work and play together toward the **One Goal** that unites us **All** at this critical moment in history.
+**Welcome to Lionsberg** – a system and place designed to serve and empower us to work and play together toward the **One Goal** that unites us **All** at this critical moment in history.
 
-Lionsberg is a community of communities, a platform of platforms, a project of projects, a team of teams, a game of games, a business of businesses, a battle of battles, a campaign of campaigns, and a quest of quests. It is also the seed of a regenerated and flourishing [[New World]]. 
+Lionsberg is a community of communities, a platform of platforms, a project of projects, a team of teams, a game of games, a business of businesses, a battle of battles, a campaign of campaigns, and a quest of quests.  
 
-We have invented a Great Game so mysterious and powerful that as we [[Play]] it together, we and the world actually and measurably will transform. 
+My hope is that we can co-create a Great Game so powerful that as we [[Play]] it together, we and the world actually and measurably can transform. 
 
 ## How It Works 
 
@@ -56,7 +56,7 @@ We have invented a Great Game so mysterious and powerful that as we [[Play]] it 
 
 The Game exists within the Context of **a shared multi-generational legal and governance commons** *that no one owns*, which we steward and cultivate together for the benefit of our future [[Selves]] and [[Future Generations]]. 
 
-As a [[Participant]], and eventually a Member and Citizen, you will become a co-creator and co-steward of a Movement, a Community, a Vision, a System, a Structure, and a Plan bigger than us all. 
+As a [[Participant]], and eventually a Member and Citizen, you will become a co-creator and co-steward of a shared Movement, a Community, a Vision, a System, a Structure, and a Plan. 
 
 This unifying structure and commons allows for the entire cycle of emergence and co-creation to manifest in a safe, secure, and properly structured ecosystem that can benefit both us and the future generations we [[Pass The Baton]] to. 
 
@@ -76,16 +76,16 @@ We will do our best to fuel **A Global Movement** to awaken and inspire humanity
 4. Citizens  
 5. Stewards  
 
-Additionally, we have established three basic categories of non-participation: 
+Additionally, we have established two basic categories of non-participation: 
 
 1. The unaware  
 2. The opposed  
 
-Individuals who hear the [[Story of Lionsberg]], and who share their own Story, will be invited to invited to advance towards ever [[More Meaningful Participation, Responsibility, and Stewardship]] within the System. 
+Individuals who hear the [[Story of Lionsberg]], and who share their own Story, will be invited to advance towards ever [[More Meaningful Participation, Responsibility, and Stewardship]] within the shared Movement and System. 
 
 ### IV. Purpose and Goals 
 
-The [[Purpose]] of The Game is to work together accomplish [[The Goal]], which is to bring Heaven to Earth. 
+The [[Purpose]] of The Game is to work together to accomplish [[The Goal]]. 
 
 This Ultimate Goal integrates a [[Total Nested Hierarchy of Goals]], informing the measurable quarterly [[Objectives]] we will stack up and align to advance together towards The Goal. 
 
@@ -97,9 +97,9 @@ Nearly all [[Work]] required to advance towards our shared Goals and Values will
 
 To Resource the Work, the Lionsberg Community has established a 501(c)(3), as well as the legal and governance architecture for influencing future flows of political, investment, and public capital. 
 
-For this phase, we believe the [[Wise Right]] way to resource the next steps is entirely through philanthropic and participant contributions, to ensure complete freedom to advance together towards The Goal without compromise. 
+For this phase, we believe the [[Wise Right]] way to resource the next steps is entirely through philanthropic and participant contributions, to ensure complete freedom to advance together towards The Goal without compromise or expectations of financial return. 
 
-Each Citizen Impact Group must remain autonomous, self-governing, and self-resourcing. Each eligible Group is free to forge a Fiscal Sponsorship agreement with the Lionsberg 501(c)(3), and to develop a Strategy, Plan, and Proposal for its work, that can then be resourced through philanthropic capital in support the Vision, Mission, and Values of Lionsberg and as set forth in the [[New Vision and Plan]]. 
+Each Citizen Impact Group must remain autonomous, self-governing, and self-resourcing. Each eligible Group is free to forge a Fiscal Sponsorship agreement with the Lionsberg 501(c)(3), and to develop a Strategy, Plan, and Proposal for its work, that can then be resourced through philanthropic capital in support of the [[New Vision and Plan]]. 
 
 ### VI. The Tithe 
 
@@ -107,7 +107,7 @@ Each Citizen Impact Group must remain autonomous, self-governing, and self-resou
 
 To accomplish this, each participant is expected to voluntary and honestly give back, out of the [[Value]] they freely receive from The Game, a [[Meaningful Monthly Tithe]] that will enable us to continuously improve the Quality and Reach of The Game. 
 
-For this initial stage, the minimum tithe is 1/10th of your Time, Attention, and the Flow of Value you receive from The Game. This ensures that all participants can make and keep the [[Minimum Commitments]] that sustain [[The Movement]] towards [[The Goal]]. 
+This ensures that all participants can make and keep the [[Minimum Commitments]] that sustain [[The Movement]] towards [[The Goal]]. 
 
 ## Starting Gifts 
 
@@ -124,40 +124,35 @@ Over the years, I have assembled an opening collection of gifts that I freely of
 9. The Gift of a New System and Process  
 10. The Gift of a New Way  
 11. The Gift of a New Platform of Platforms 
-12. The Gift of a New Love 
-13. The Gift of Fiscal Sponsorships and Special Purpose Vehicles 
-14. The Gift of a New Me, in service of a New You, for whatever that might be worth  
-15. A small collection of inter-linked books - these are a [[Work In Progress]]: 
+12. The Gift of Fiscal Sponsorships and Special Purpose Vehicles 
+13. A small collection of inter-linked books - these are a [[Work In Progress]]: 
 	1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 	2. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
 	3. [[The Lionsberg Book of Meditations]]  
 	4. [[The Book of Lionsberg]]  
 
 ## Co-Creation and Learning to Play Together
-
+ 
 It is not yet possible to convey all that I have in mind, so we must collaborate and cooperate with [[Trust]] as we learn and grow together. 
 
-I therefore propose that we drop all pretenses of knowing or capability, and enter a sacred environment of [[Continuous Learning And Improvement]], leading towards long term [[Covenant Relationship]] as [[Citizens]] of the [[New World]] we are co-creating. 
+I therefore propose that we drop all pretenses of knowing or capability, and enter a sacred environment of [[Continuous Learning And Improvement]], leading towards long term right relationship as [[Citizens]] of the [[New World]] we are co-creating. 
 
 ## The Next 5 Steps 
 
 The Next 5 Steps Are As Follows: 
 
-1. Determine if [[Jordan]] and the [[Lionsberg System and Approach]] are within your [[Range of Tolerance]]:   
+1. Determine if this Invitation and Proposal are within your [[Range of Tolerance]]:   
 	1. Determine if the [[Lionsberg Manifesto]] is within your [[Range of Tolerance]].   
 	2. Determine if the [[New Vision and Plan]] are within your [[Range of Tolerance]].  
-	3. Determine if [[The Great Game of Lionsberg]] is within your [[Range of Tolerance]].   
-	4. Determine if Jordan is *personally* within your [[Range of Tolerance]]. Lionsberg *must* grow into a mythical system and structure far beyond Jordan, however you will not like Lionsberg if you don't like its source, or are scared by the risks Jordan must take. 
+	3. Determine if [[The Great Game of Lionsberg]] is within your [[Range of Tolerance]].    
 2. Complete and the return the [[Lionsberg Subscription Agreement]].  
 3. **Help spread awareness, recruit members, and gather resources in April 2023**. 
-4. May 1st 2023: Provided that adequate [[Opening Resources]] have been gathered for stewardship by the [[Lionsberg System]], the [[Core Enterprise]] and [[Mission Control]] will be established and begin onboarding prior to our collective departure on the [[Quest]] towards [[The Goal]]. 
-5. In May, every Participant will be invited into a comprehensive and ongoing Orientation, Integration and Training process to help ensure that each of us, and all of us, avoid failure and achieve success on our [[Quest]] towards [[The Goal]].  
+4. May 1st 2023: Provided that adequate [[Opening Resources]] have been gathered for stewardship by the [[Lionsberg System]], the [[Core Enterprise]] and [[Mission Control]] will be established. 
+5. In mid May, each Participant will be invited into an orientation process. 
 
 ## Onwards Towards The Goal! 
 
-It has been a deep honor getting to know you over the years. Regardless of how you would like to participate, I am grateful for the Time and Attention you have invested in our relationship, and in stewarding the emergence towards this crucial moment. 
-
-If you choose not to embark with us as we set sail on this [[Quest]], we will see less of one another, but I will hold you in my heart, wish you my best, and do my best to send notes and maps back from afar, and build infrastructure along the [[Way]] to benefit you should you choose to join [[The Movement]] FROM the [[Old World]] TO the [[New World]] in the future. 
+It has been a deep honor getting to know you over the years. Regardless of how you would like to participate, I am grateful for the time and attention you have invested in our relationship, and in stewarding the emergence towards this crucial moment. 
 
 It would be a deep honor to progress forward with you. The world needs you. The world needs us. 
 
