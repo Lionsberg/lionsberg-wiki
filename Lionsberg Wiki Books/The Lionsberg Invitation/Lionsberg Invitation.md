@@ -70,7 +70,7 @@ To Resource the Work, the Lionsberg Community has established a 501(c)(3), as we
 
 Each Participant and each Group must remain autonomous, self-governing, and self-resourcing. To gain resources, Participants forge or join [[Groups]] and develop [[Proposals]] in support of the [[New Vision and Plan]]. Valid proposals that support Vision and Values and advance the [[Critical Path]] can then be resourced through the funds we gather through the Lionsberg 501(c)(3) and the growing movement. 
 
-We also intend to build, merge, and acquire a **for-profit portfolio of businesses and real property** to serve as the long term economic engine and endowment of the multi-generational Community. 
+To forge the long term economic engine and endowment, the strategy calls for building, merging, and acquiring a **for-profit portfolio of businesses, technology, "intellectual property" and "real property"** to serve as the long term economic engine and endowment of the multi-generational Community. 
 
 ### VI. A Meaningful Contribution 
 
@@ -106,9 +106,7 @@ Over the several years, we have assembled a [[Meaningful Initial Contribution]] 
 
 ## Co-Creation and Learning to Play Together
  
-It is not yet possible to convey all that I have in mind, so we must collaborate and cooperate with [[Trust]] as we learn and grow together. 
-
-I therefore propose that we drop all pretenses and enter a sacred environment of [[Continuous Learning And Improvement]], leading towards long term right relationship as [[Citizens]] of the [[New World]] we are co-creating. 
+[[We Do Not Know]] all the details of how this will work or unfold. Therefore we will drop all pretenses and enter a sacred environment of Continuous Learning And Improvement, leading towards long term right relationship as Citizens of the New World we are co-creating. 
 
 ## The Next 5 Steps 
 
@@ -118,11 +116,11 @@ The Next 5 Steps Are As Follows:
 	1. Determine if the [[Lionsberg Manifesto]] is within your [[Range of Tolerance]].   
 	2. Determine if the [[New Vision and Plan]] are within your [[Range of Tolerance]].  
 	3. Determine if the [[Lionsberg Subscription Agreement]] is within your [[Range of Tolerance]]  
-	4. Determine if you would like to be included in the emerging Lionsberg Community working together towards the [[New Vision and Plan]]. 
+	4. Determine if and how you would like to be included in the emerging Lionsberg Community working together towards the [[New Vision and Plan]]. 
 2. Complete and the return the [[Lionsberg Response Form]].  
 3. **Help spread awareness, recruit members, and gather resources in April 2023**. 
-4. May 1st 2023: Provided that adequate [[Opening Resources]] have been gathered for stewardship by the [[Lionsberg System]], the [[Core Enterprise]] and [[Mission Control]] will be established. 
-5. In mid May, each Participant will be invited into an orientation process. 
+4. May 1st 2023: Provided that adequate [[Opening Resources]] have been secured for stewardship by the [[Lionsberg System]], the [[Core Enterprise]] and [[Mission Control]] will be established. 
+5. In mid May, each Participant will be invited into an orientation process, and The Great Game of Lionsberg will begin. 
 
 From there - we will begin working together to 1) build the movement 2) build the community and platform 3) enact the Lionsberg Strategy and Plan  4) progress together towards concrete milestones, goals and objectives that advance the Critical Path towards The Goal. 
 
