@@ -14,4 +14,4 @@ By making a Meaningful Initial Contribution, new members can build trust, earn r
 
 In the context of the Lionsberg System, each new Participant is expected to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
 
-The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Meaningful Monthly Tithe]]. 
+The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Meaningful Monthly Contribution]]. 

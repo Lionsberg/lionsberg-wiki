@@ -14,5 +14,5 @@ For definitions of terms used in the form, see:
 [[Observer]]  
 [[Participant]]  
 [[Meaningful Initial Contribution]]  
-[[Meaningful Monthly Tithe]]  
+[[Meaningful Monthly Contribution]]  
 

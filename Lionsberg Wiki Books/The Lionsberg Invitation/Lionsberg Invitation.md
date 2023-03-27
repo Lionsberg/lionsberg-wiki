@@ -14,7 +14,7 @@ There is a famous myth that when Ernest Shackleton was organizing his historic A
 
 "_**Men Wanted** for hazardous **journey**, small wages, bitter cold, long months of complete darkness, constant danger, safe return doubtful, honor and recognition in case of success._"  
 
-In this spirit, I extend this invitation and proposal to those few courageous individuals who know they were born for this moment in history, who resonate with the Spirit that impels us, and who are willing to sacrifice for the opportunity to strive together toward a [[Worthy Goal]]. This is your invitation to what I hope will become the adventure of a lifetime.
+In this spirit, I extend this invitation and proposal to those few courageous individuals who know they were born for this moment in history, who resonate with the Spirit that impels us, and who are willing to sacrifice for the opportunity to strive together toward a [[Worthy Goal]]. This is your invitation to what I hope will become the adventure of a lifetime. 
 
 ## Lionsberg 
 
@@ -24,7 +24,7 @@ Over the last five years, we have done our best to assemble an [[Ark]] and [[Way
 
 ## An Invitation 
 
-**Welcome to Lionsberg** – a system and place designed to serve and empower us to work and play together toward the **One Goal** that unites us **All** at this critical moment in history.
+**Welcome to Lionsberg** – a system, structure and place designed to serve and empower us to work and play together toward the **One Goal** that unites us **All** at this critical moment in history.
 
 The purpose of Lionsberg is to forge a continuously improving platform, system and community to connect, serve, and empower the [[Force For Good]]. It's purpose and role is to be a servant and empowerer of All. 
 
@@ -68,15 +68,15 @@ Nearly all [[Work]] required to advance towards our shared Goals and Values will
 
 To Resource the Work, the Lionsberg Community has established a 501(c)(3), as well as the legal and governance architecture for influencing future flows of political, investment, and public capital. See [[Provisional Structure]].  
 
-Each Citizen Impact Group must remain autonomous, self-governing, and self-resourcing. Each eligible Group is free to forge a Fiscal Sponsorship agreement with the Lionsberg 501(c)(3), and to develop a Strategy, Plan, and Proposal for its work, that can then be resourced through philanthropic capital in support of the [[New Vision and Plan]]. 
+Each Participant and each Group must remain autonomous, self-governing, and self-resourcing. To gain resources, Participants forge or join [[Groups]] and develop [[Proposals]] in support of the [[New Vision and Plan]]. Valid proposals that support Vision and Values and advance the [[Critical Path]] can then be resourced through the funds we gather through the Lionsberg 501(c)(3) and the growing movement. 
 
-Over the medium term, we also intend to build a for-profit portfolio of businesses and real property to serve as the long term economic engine and endowment of the community. 
+We also intend to build, merge, and acquire a **for-profit portfolio of businesses and real property** to serve as the long term economic engine and endowment of the multi-generational Community. 
 
-### VI. A Meaningful Tithe 
+### VI. A Meaningful Contribution 
 
 [[Success]] requires that The Game eternally regenerates and sustains itself ***from within***.
 
-To accomplish this, each participant is invited to voluntary give back, out of the [[Value]] they freely receive from the Community and System, a [[Meaningful Monthly Tithe]] that will enable us to continuously improve the Quality and Reach of the Lionsberg Community and System. 
+To accomplish this, each participant is invited to voluntary give back, out of the [[Value]] they freely receive from the Community and System, a [[Meaningful Monthly Contribution]] that will enable us to continuously improve the Quality and Reach of the Lionsberg Community and System. 
 
 This ensures that all participants can make and keep the [[Minimum Commitments]] that sustain [[The Movement]] towards [[The Goal]]. 
 

@@ -8,13 +8,15 @@ To explore aspects of the New Vision and Plan in more detail, see:
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
 - [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
 
+## Summary 
+
 ## Context 
 
 As we navigate the complexity of the interrelated spiritual, cultural, values, political, economic, ecological, and geopolitical crises confronting humanity, we recognize that we face an unprecedented threat. This collective understanding is deeper than the specific words articulated in [[Beyond The Meta Crisis - A Blueprint for a Better Future]], bringing us together to address these challenges.
 
 ## Vision
 
-Beyond the precise language in [[Beyond The Meta Crisis - A Blueprint for a Better Future]], people of goodwill share a united vision of a world that embodies flourishing, balance, and right relationships among all. In this [[New World]], every individual, community, and ecosystem can realize their full potential and thrive in harmony. We often refer to this highest aspiration the [[Designer's Intent]] for [[Worksite Earth]], or simply [[The Goal]]. 
+Beyond the precise language in [[Beyond The Meta Crisis - A Blueprint for a Better Future]], people of goodwill share a united vision of a world that embodies flourishing, balance, and right relationships among all. In this [[New World]], every individual, community, and ecosystem has the opportunity to realize their full potential and thrive in harmony. We often refer to this highest aspiration the [[Designer's Intent]] for [[Worksite Earth]], [[Heaven On Earth]], or simply [[The Goal]]. 
 
 ## Analysis
 
@@ -32,13 +34,27 @@ United by a shared set of [[Universal Values]] aligned with [[Truth]], [[Love]],
 
 Our strategy is to forthrightly launch a historic, [[Citizen Led]] effort to confront and overcome the [[Meta Crisis]] in all its dimensions, while simultaneously co-creating the [[New World]].
 
-This requires breaking down the [[Meta Crisis]] into a [[Total Nested Hierarchy of Issues]] that can be identified, analyzed, and overcome, as well as deconstructing the New Vision and Plan into a [[Total Nested Hierarchy of Goals]] that can be progressively realized.
+Conceptualizing the scope of this approach requires breaking down the [[Meta Crisis]] into a [[Total Nested Hierarchy of Issues]] that can be identified, analyzed, and overcome, as well as deconstructing the [[New Vision and Plan]] into a [[Total Nested Hierarchy of Goals]] that can be progressively realized.
 
-The strategy then calls for a **transformative global movement** to awaken and unite humanity, elevate consciousness, and empower citizens towards coordinated individual and local action that advances humanity towards its shared goals and values. Our hypothesis is that Story serves as the most potent vehicle to achieve this progressive awakening and reunification. 
+The strategy then calls for a **transformative global movement** to awaken and unite humanity, elevate consciousness, and empower citizens towards coordinated individual and local action that advances humanity towards its shared goals and values. 
 
-The strategy calls for establishing an agile [[Core Enterprise]] within the [[Lionsberg System]] to connect, serve, and empower the decentralized [[Federation]] of rising [[Citizen Impact Groups]], organizations, and institutions. This will serve as a prototype of a transparent, accountable, and effective [[New Operating System]] of the [[New World]].
+Our hypothesis is that Inspiration and Story serve as the most potent tip of the spear to achieve this progressive awakening and reunification. 
 
-With this Vision and Strategy in mind, we outline the following 15 primary strategy points:
+Citizens who awaken and respond to the Story will be invited to 1) share their own unique story, and 2) **connect to the Lionsberg System, Platform, and Community.**  
+
+The role of the Lionsberg System, Platform, and Community is to continuously transform and improve itself in service of All Citizens. This means continuously improving the resources, benefits, infrastructure, tools, services, and technologies available to Citizens. 
+
+Recognizing our fundamental need for belonging and our ability to be and do more together than we can insolation, Citizens will be invited to forge or join [[Groups]], which constitute the core of community life and progress. 
+
+The Lionsberg Platform has been purpose-built to empower Individuals to organize into groups, for groups and individuals to engage in time bound, measurable, and resouceable [[Projects]]. 
+
+To serve and empower this emergent decentralized [[Federation]] of [[Citizen Impact Groups]], the strategy calls for establishing an agile [[Core Enterprise]] whose role is to connect, serve, and empower All citizens, groups, and institutions. 
+
+This will serve as a prototype of a transparent, accountable, and effective [[New Operating System]] of the [[New World]]. If properly adopted and continuously improved, it has the potential to *become* the operating system of the New World, empowering all to help one another progress wisely towards The Goal. 
+
+## 15 Key Strategy Points
+
+With this Vision and Strategy in mind, we outline the following 15 key strategy points:
 
 1.  **Continuously improve a comprehensive and inspiring Meta Story**: Craft and continuously improve a compelling, inclusive, and inspiring story that communicates our shared vision and goals, resonating with diverse audiences worldwide and enabling them to align their [[Individual and Local Stories]] with the [[Meta Story]]..
     
@@ -75,11 +91,17 @@ By pursuing these strategic objectives, we can mobilize a global movement that o
 
 ## Plan 
 
-Based on this [[Context]], [[Vision]], [[Analysis]], [[Engagement]], and [[Strategy]], we are continuously improving a detailed and comprehensive [[Plan of Action]] as part of the [[New Vision and Plan]].
+Based on this [[Context]], [[Vision]], [[Analysis]], [[Engagement]], and [[Strategy]], we are continuously improving a detailed and comprehensive [[Plan of Action]] as part of the [[New Vision and Plan]]. 
+
+## System Wide Master Plan 
+
+At the highest level, the [[Lionsberg Integrated Delivery System]] operates in service of [[The Goal]] based on a [[System Wide Master Plan]]. 
+
+The System Wide Master Plan encompasses the [[Total Nested Hierarchy of Goals]], and is unified by the [[Meta Goal]]. The [[Total Nested Hierarchy of Goals]] is further broken down into a [[Work Breakdown Structure (WBS)]]. 
 
 The [[Work Breakdown Structure (WBS)]] is organized around three high-level phases of the [[New Vision and Plan]]:
 
-1.  Lionsberg Meta Project Initiation and Implementation
+1.  Program Initiation and Implementation
 2.  Overcoming the [[Meta Crisis]] and co-creating the [[New World]]
 3.  Passing the Baton to Future Generations
 
@@ -110,7 +132,7 @@ Each of these phases is broken down into key [[Features of Work]], each of which
     
 5. **Build a Portfolio of Regenerative Businesses, Technologies, and Non-Profits**: Identify and start / merge / acquire for-profit and non-profit organizations and intellectual property into a regenerative ecosystem of organizations that create meaningful and impactful opportunities and solutions for the rising generation. 
     
-6.  **Policy Advocacy and Systemic Change**: Engage with policymakers, influencers, and decision-makers at all levels to secure transformative policy changes that support the transition to the New World.
+6.  **Policy Transformations and Systemic Change**: Engage with policymakers, influencers, and decision-makers at all levels to secure transformative policy changes that support the transition to the New World, and create transparent, accountable, and aligned institutions around the world. 
     
 7.  **Monitoring, Evaluation, and Learning**: Implement robust monitoring and evaluation systems to track progress, learn from successes and failures, and adapt the Plan of Action as needed to optimize impact.
     
@@ -140,3 +162,20 @@ Each of these phases is broken down into key [[Features of Work]], each of which
 
 By continuing to implement and improve this plan, we can mobilize a global movement that overcomes the Meta Crisis, fosters diverse unity, and propels humanity towards a just, regenerative, and flourishing future for all.
 
+## High Level CPM Planning 
+
+At the highest level, planning is accomplished by transforming the [[Strategy]] into a high level [[Critical Path]] schedule.  
+
+This guides the overall understanding of the relative importance, timing, and sequencing of each component of the [[Program of Action]]. 
+
+## Quarterly 12 Week Plans 
+
+The high level CPM is used to inform the development of more detailed 12 week plans of action, which are distributed across the array of groups to inform and align the Federation of key goals, milestones, and objectives. 
+
+## 6 Week Look-Aheads 
+
+The quarterly plans inform rolling 6 week look-ahead schedules, which document what happened last week, what is planned for the current week, and provide a rough glimpse of the coming 4 weeks. 
+
+## 2 Week Plans 
+
+Teams then execute and pulse on the basis of rapidly adapting 2 week plans, that lead towards the accomplishment of the quarterly objectives, which advance the [[Critical Path]] of the [[System Wide Master Plan]], which leads towards [[The Goal]]. 
