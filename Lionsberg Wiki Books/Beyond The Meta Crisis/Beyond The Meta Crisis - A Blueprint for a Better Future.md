@@ -12,9 +12,10 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 
 #### [[1.1 What is the Meta Crisis?]]  
 #### [[1.2 Examples of the Meta Crisis]] 
-#### [[1.3 The Meta Crisis as an unprecedented challenge]] 
-#### [[1.4 The New Vision and Plan as an unprecedented solution]]
-#### [[1.5 What Got Us Here Will Not Get Us To Where We All Want To Go]] 
+#### [[1.3 Questions to Explore the Meta Crisis]]  
+#### [[1.4 The Meta Crisis as an unprecedented challenge]] 
+#### [[1.5 The New Vision and Plan as an unprecedented solution]]
+#### [[1.6 What Got Us Here Will Not Get Us To Where We All Want To Go]] 
 
 ### Chapter 2: The Purpose of the Book
 
@@ -136,6 +137,8 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 ##### [[16.5.9 A Comprehensive Approach to the Grand Challenges]] 
 ##### [[16.5.10 A Measurable and Accountable Way To Bring Heaven to Earth]]  
 #### [[16.7 A Vision of the New Earth]] 
+#### [[16.8 Questions to Explore the New Vision and Plan]]  
+#### [[16.9 Questions for Citizens to Forge Their Own Visions of the Best Possible Future]]
 
 
 ### Chapter 17: The Impact of the New Vision and Plan 
@@ -231,131 +234,7 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 
 ## Section XI: Tools and Resources For Action 
 
-**COMING SOON!** 
-
-### Chapter 34: The Lionsberg System Toolkit
-
-#### 34.1 Overview of the Lionsberg System
-
-#### 34.2 Introduction to the Lionsberg System Toolkit
-
-#### 34.3 The key components of the Lionsberg System Toolkit
-
-#### 34.4 How to use the Lionsberg System Toolkit for personal, group, community, and systemic transformation
-
-#### 34.5 Adapting the Lionsberg System for Different Contexts and Cultures
-
-#### 34.6 Accessing and contributing to the Lionsberg System Toolkit
-
-#### 34.7 Training, Mentoring, and Support For Your Quest
-
-### Chapter 35: Lionsberg Tools for Personal Transformation
-
-#### 35.1 Implementing the Lionsberg System at the Individual Level
-
-#### 35.2 The Six Step Process For Individuals
-
-#### 35.3 The Individual Prototype and Pattern Language
-
-#### 35.4 Integrating the Individual Level with the Group, Community, and System Levels
-
-#### 35.5 Tools and Techniques for Personal Transformation
-
--   Transforming Individual Consciousness
--   Developing Individual Capacity for Creativity, Communication, and Collaboration
--   Embracing a Regenerative and Just Lifestyle and Culture
--   The Individual as a System of Systems
--   Envisioning, Prioritizing and Implementing Individual-Based Projects and Initiatives
--   Personal assessment and transformation tools
-
-### Chapter 36: Lionsberg Tools for Group Transformation
-
-#### 36.1 Implementing the Lionsberg System at the Group Level
-
-#### 36.2 The Six Step Process For Groups
-
-#### 36.3 The Group Prototype and Pattern Language
-
-#### 36.4 Integrating the Group Level with the Individual, Community, and System Levels
-
-#### 36.5 Tools and Techniques for Group Transformation
-
--   Transforming Group Consciousness
--   Developing Group Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Group Culture
--   The Group as a System of Systems
--   Envisioning, Prioritizing and Implementing Group-Based Projects and Initiatives
--   Group assessment and transformation tools
-
-### Chapter 37: Lionsberg Tools for Community Transformation
-
-#### 37.1 Implementing the Lionsberg System at the Community Level
-
-#### 37.2 The Six Step Process For Communities
-
-#### 37.3 The Community Prototype and Pattern Language
-
-#### 37.4 Integrating the Community Level with the Individual, Group, and System Levels
-
-#### 37.5 Tools and Techniques for Community Transformation
-
--   Transforming Community Consciousness
--   Developing Community Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Community Culture
--   The Community as a System of Systems
--   Envisioning, Prioritizing and Implementing Community-Based Initiatives and Projects
--   Community assessment and transformation tools
-
-### Chapter 38: Lionsberg Tools for Systemic Transformation
-
-#### 38.1 Implementing the Lionsberg System at the Systems Level
-
-#### 38.2 The Six Step Process For Systems
-
-#### 38.3 The Systems Prototype and Pattern Language
-
-#### 38.4 Integrating the Systems Level with the Individual, Group, and Community Levels
-
-#### 38.5 Tools and Techniques for Systemic Transformation
-
--   Transforming System Consciousness
--   Developing Systemic Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Systemic Culture
--   The System as a System of Systems
--   Envisioning, Prioritizing and Implementing System-Based Initiatives and Projects
--   Systems assessment and transformation tools
--   Tools for Advocacy and Systemic Change
--   Building Alliances and Networks for Systemic Transformation
-
-### 39 Additional Tools
-
-#### 39.1 Vision and Story Tools
-
-#### 39.2 Analysis and Understanding Tools
-
--   Identifying, Analyzing and Solving Issues
-
-#### 39.3 Engagement and Community Building Tools
-
--   Communication and outreach tools
--   Networking and Collaboration Tools
-
-#### 39.4 Strategy and Planning Tools
-
-#### 39.5 Action Tools
-
-#### 39.6 Monitoring, Evaluation, and Continuous Improvement Tools
-
--   Monitoring and Evaluation Tools  
--   Retrospective Tools  
--   Reflection and Growth tools  
-
-#### 39.7 Capacity Building Tools
-
--   Resources for learning and education
-
-#### 39. Policy and Advocacy Tools 
-
+[[The Lionsberg System Toolkit]] is coming soon! 
 
 ## Section XII: Appendices
 
@@ -365,7 +244,7 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 
 ### Appendix B: Frequently Asked Questions
 
-[[Frequently Asked Questions]]  
+#### [[Frequently Asked Questions]]  
 
 #### B.2 Additional resources and information for further exploration  
 
@@ -373,5 +252,6 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 [[Lionsberg Wiki Books]] 
 [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
 [[The Book of Lionsberg]]  
+[[The Lionsberg Book of Meditations]]  
 [[The Lionsberg Meta Guide]]  
 
