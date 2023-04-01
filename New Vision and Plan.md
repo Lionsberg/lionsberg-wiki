@@ -6,7 +6,7 @@ The [[New Vision and Plan]] is a holistic framework that presents a bold and cap
 
 To explore aspects of the New Vision and Plan in more detail, see: 
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
-- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]   
+- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]    
 
 ## Summary 
 
