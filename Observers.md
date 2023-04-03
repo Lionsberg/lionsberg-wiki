@@ -1,6 +1,6 @@
-# Observer
+# Observers
 
-The term "Observer" in the context of the Lionsberg System refers to individuals or organizations who are interested in following the progress and activities of Participants in the system, but who are not actively involved in contributing their skills, knowledge, or expertise to advancing the shared Vision, Goals, and Values.
+The term "Observers" in the context of the Lionsberg System refers to individuals or organizations who are interested in following the progress and activities of Participants in the system, but who are not actively involved in contributing their skills, knowledge, or expertise to advancing the shared Vision, Goals, and Values.
 
 Observers in the Lionsberg System may be interested in the progress and outcomes of the system, but may not have the capacity or resources to actively participate in the work. They may also be interested in learning about the Lionsberg System and its approach to collaboration, vision, analysis, planning, execution and continuous improvement in a multi-generational stewardship context.
 

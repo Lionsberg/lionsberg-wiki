@@ -16,7 +16,7 @@ As a quick refresher, the core innovation of Integrated Delivery is that it tran
 ## 3.1.2 Everything Is A Project
 The activities of an organization should be performed with the understanding that [[Everything Is A Project]]. 
 
-Viewing everything through the lens or framework of project helps everyone, both [[Participant|Participants]] and [[Observer|Observers]], know what is going and why. 
+Viewing everything through the lens or framework of project helps everyone, both [[Participants]] and [[Observers]], know what is going and why. 
 
 It also dramatically increases the probability that the Organization will [[Success|Succeed]]. 
 

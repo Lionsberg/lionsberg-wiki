@@ -18,7 +18,7 @@ Yet even at this late hour, amidst these tribulations, there is cause for hope. 
 
 The [[Meta Crisis]] and the Crisis of Faith in our leaders and institutions underscore the urgent necessity for a united, [[Citizen Led]] response to this pivotal moment in history.
 
-The Lionsberg Manifesto is a rallying cry, an impassioned call to action for each of us to join forces and work together to forge a brighter, more prosperous future for ourselves and generations to come. This requires healing and strengthening the regenerative capacity of our selves, our society and our planet, while forging a future that serves not not just one tribe or nation today, but all tribes and all peoples throughout the ages. 
+The Lionsberg Manifesto is a rallying cry, an impassioned call to action for each of us to join forces and work together to forge a brighter, more prosperous future for ourselves and generations to come. This requires healing and strengthening the regenerative capacity of our selves, our society and our planet, while forging a future that serves not just one tribe or nation today, but all tribes and all peoples throughout the ages. 
 
 We acknowledge the gravity of these circumstances and we recognize the enormity of our task. We call upon every Citizen to arise, unite, and take action. The time has come to awaken, arise, assume responsibility, to take control of the helm of our collective destiny as we navigate towards the Future We Seek. It is time to forge a New Path that resurrects our shared Vision and Values, upholds our common humanity, and regenerates our society and our planet for all current and future generations. 
 
@@ -42,19 +42,19 @@ We hereby call on all [[Citizens]] to:
 1. Awaken, Arise, and Unite Beyond the Structures and Ideologies That Have Divided Us in the Past 
 2. Embrace and amplify the [[New Vision and Plan]]  
 3. Share Your Story 
-4. Forge or Join [[Citizen Impact Groups]]  
-5. Connect and Empower One Another Through the Lionsberg Platform  
-6. Accelerate Individual and Local Actions Aligned with Our Shared Goals and Values  
-7. Cultivate a Global Movement  
-8. Recognize our Interconnectedness  
-9. Embody the Spirit of Truth and Love  
-10. Forgive, Reconcile, and Atone  
-11. Champion Courageous Servant Leadership  
-12. Unleash the Potential of Education and Enlightenment  
-13. Curate and Cross Pollinate Solutions to Challenges and Opportunities  
-14. Prepare for the Great Transformation  
-15. Seek, Discern, and Embody Wisdom   
-
+4. Sign the [[Lionsberg Treaty]]  
+5. Forge or Join [[Citizen Impact Groups]]  
+6. Connect and Empower One Another Through the Lionsberg Platform  
+7. Curate and Cross Pollinate Solutions to Challenges and Opportunities  
+8. Accelerate Individual and Local Initiatives Aligned with Our Shared Goals and Values  
+9. Cultivate a Global Movement  
+10. Gather Resources and Support  
+11. Recognize our Interconnectedness  
+12. Embody the Spirit of Truth and Love  
+13. Forgive, Reconcile, and Atone  
+14. Unleash the Potential of Education and Enlightenment    
+15. Prepare and Help Others Prepare for the Great Transformation  
+  
 ## Our Collective Pledge 
 
 As free [[Citizens]] of the world, united in Vision, Purpose, and Values, we commit ourselves to the principles and actions outlined in the Lionsberg Manifesto. We pledge our talents, time, and energy to the pursuit of a brighter, more prosperous future, standing shoulder to shoulder, helping one another, and not harming one another as we forge ahead on this transformative journey.
@@ -66,5 +66,7 @@ We, the free and united [[Citizens]] of the world, acknowledge the monumental ta
 Together, let use arise and unite to forge the Better Future we all desire - a world that thrives on the principles of Truth, Love, Justice, Stewardship, Wisdom, and Liberty for All. Let us vanquish corruption, injustice, and oppression in all their forms, and lift one another up towards our highest shared Destiny. May the Lionsberg Manifesto and our [[New Vision and Plan]] rekindle the flame of faith and hope within us all, as we take action to progress together towards a Future that can be brighter, more flourishing, and more regenerative in every way than the past we are leaving behind. 
 
 We have assembled an entirely independent [[Citizen Led]] gathering place at www.Lionsberg.org. We'll see you there. 
+
+____
 
 To explore the [[New Vision and Plan]] in more detail, see [[Beyond The Meta Crisis - A Blueprint for a Better Future]], and [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]. 

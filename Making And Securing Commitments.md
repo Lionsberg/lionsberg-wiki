@@ -1,6 +1,6 @@
 # Making And Securing Commitments
 
-Fundamental to the success of Lean Integrated Delivery is the willingness and ability of all [[Participant|Participants]] to make and secure reliable [[Commitments]] as the basis for planning and executing the [[Program of Action]]. 
+Fundamental to the success of Lean Integrated Delivery is the willingness and ability of all [[Participants]] to make and secure reliable [[Commitments]] as the basis for planning and executing the [[Program of Action]]. 
 
 In a [[Zero Blame Environment]] in which [[All]] elements are optimizing for [[Throughput]] of the [[Goal]], everyone, both those who [[Securing A Commitment|Secure A Commitment]], and those who [[Making A Commitment|Make A Commitment]], are 100% jointly responsible for the outcome and its affect on the Whole.
 

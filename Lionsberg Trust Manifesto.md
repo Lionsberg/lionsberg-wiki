@@ -62,7 +62,7 @@ The [[Best Possible Future]] is within reach, awaiting humanity's collective dec
 
 ## Where We Are 
 
-We will do our best to keep updated with [[Where We Are]] on the [[Lionsberg History]] page. 
+We will do our best to keep updated with [[Where We Are]] on the [[Lionsberg History and Inception]] page. 
 
 ## Investments Prior to  2023
 
