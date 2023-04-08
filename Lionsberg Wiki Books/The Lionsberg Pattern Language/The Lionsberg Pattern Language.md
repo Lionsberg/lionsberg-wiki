@@ -7,7 +7,7 @@
 [[Integration Domains]]  
 [[Lionsberg Lexicon]]  
 
-Here is a possible interrelated set of 144 patterns that if followed at every fractal level of the human systems, would cause all people and all creation to develop towards the fullness of thier potential and flourish in harmony:
+Here is one possible interrelated set of 144 patterns that if followed at every fractal level of the human systems, would cause all people and all creation to develop towards the fullness of their potential and flourish in harmony. This is a rough [[Work In Progress]]:
 
 ## **The Conceptual and Narrative Framework**
 
