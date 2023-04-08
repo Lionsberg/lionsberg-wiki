@@ -1,4 +1,4 @@
-Absolutely everything without exception required for the manifestion of Heaven or Hell on Earth is at hand. 
+Absolutely everything without exception required for the manifestation of Heaven or Hell on Earth is at hand. 
 
 ___
 

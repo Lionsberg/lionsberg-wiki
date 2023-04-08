@@ -56,22 +56,17 @@
 
 #### [[3.6 Local Community-Level Gameplay]]
 
-
-
-___
- [[Left Off Here]] - sections below are a [[Work In Progress]]. 
-
 #### [[3.7 Bioregional-Level Gameplay]]
 
-#### [[3.8 Tribal-Level Gameplay]]
+#### 3.8 Tribal-Level Gameplay
 
-#### [[3.9 National-Level Gameplay]]
+#### 3.9 National-Level Gameplay
 
-#### [[3.10 Global-Level Gameplay]]
+#### 3.10 Global-Level Gameplay
 
-#### [[3.11 Universal-Level Gameplay]]
+#### 3.11 Universal-Level Gameplay
 
-#### [[3.12 Levels of Participation]]  
+#### 3.12 Levels of Participation  
 
 
 ## Section III: Participating in The Great Game of Lionsberg
@@ -80,159 +75,161 @@ ___
 
 #### [[4.1 Joining the Great Game of Lionsberg]]
 
-#### [[4.2 Embracing the Vision, Principles and Values of the Game]]
+#### [[4.2 Embracing the Vision, Principles and Values of the Game]] 
 
-#### [[4.3 Developing the Skills and Capacities for Effective Gameplay]]
+#### [[4.3 Developing the Skills and Capacities for Effective Gameplay]] 
 
 ### Chapter 5: Engaging in Individual-Level Gameplay
 
-#### [[5.1 The Role of Individuals in The Great Game of Lionsberg]]
+#### [[5.1 The Role of Individuals in The Great Game of Lionsberg]] 
 
-#### [[5.2 Playing the Game as an Individual]]
+#### [[5.2 Playing the Game as an Individual]] 
 
-#### [[5.3 Individual-Level Challenges and Objectives]]
+#### [[5.3 Individual-Level Challenges and Objectives]] 
 
-#### [[5.4 Fostering a Culture of Stewardship and Collaboration within the Individual]]
+#### [[5.4 Fostering a Culture of Stewardship and Collaboration within the Individual]] 
 
 
 ### Chapter 6: Engaging in Family-Level Gameplay
 
-#### [[6.1 The Role of Families in The Great Game of Lionsberg]]
+#### 6.1 The Role of Families in The Great Game of Lionsberg
 
-#### [[6.2 Playing the Game as a Family Unit]]
+#### 6.2 Playing the Game as a Family Unit
 
-#### [[6.3 Family-Level Challenges and Objectives]]
+#### 6.3 Family-Level Challenges and Objectives
 
-#### [[6.4 Fostering a Culture of Stewardship and Collaboration within the Family]]
+#### 6.4 Fostering a Culture of Stewardship and Collaboration within the Family
 
 ### Chapter 7: Engaging in Group-Level Gameplay
 
-#### [[7.1 The Role of Groups in The Great Game of Lionsberg]]
+#### 7.1 The Role of Groups in The Great Game of Lionsberg
 
-#### [[7.2 Playing the Game as a Group]]
+#### 7.2 Playing the Game as a Group
 
-#### [[7.3 Group-Level Challenges and Objectives]]
+#### 7.3 Group-Level Challenges and Objectives
 
-#### [[7.4 Fostering a Culture of Stewardship and Collaboration within the Group]]
+#### 7.4 Fostering a Culture of Stewardship and Collaboration within the Group
 
 ### Chapter 8: Engaging in Project-Level Gameplay
 
-#### [[8.1 The Role of Projects in The Great Game of Lionsberg]]
+#### 8.1 The Role of Projects in The Great Game of Lionsberg
 
-#### [[8.2 Playing the Game as a Project Team]]
+#### 8.2 Playing the Game as a Project Team
 
-#### [[8.3 Project-Level Challenges and Objectives]]
+#### 8.3 Project-Level Challenges and Objectives
 
-#### [[8.4 Fostering a Culture of Stewardship and Collaboration within the Projects Team]]
+#### 8.4 Fostering a Culture of Stewardship and Collaboration within the Projects Team
 
 ### Chapter 9: Engaging in Local Community-Level Gameplay
 
-#### [[9.1 The Role of Local Communities in The Great Game of Lionsberg]]
+#### 9.1 The Role of Local Communities in The Great Game of Lionsberg
 
-#### [[9.2 Playing the Game as a Local Community]]
+#### 9.2 Playing the Game as a Local Community
 
-#### [[9.3 Community-Level Challenges and Objectives]]
+#### 9.3 Community-Level Challenges and Objectives
 
-#### [[9.4 Fostering a Culture of Collaboration and Unity within the Community]]
+#### 9.4 Fostering a Culture of Collaboration and Unity within the Community
 
 ### Chapter 10: Engaging in Bioregional-Level Gameplay
 
-#### [[10.1 The Role of Bioregions in The Great Game of Lionsberg]]
+#### 10.1 The Role of Bioregions in The Great Game of Lionsberg
 
-#### [[10.2 Playing the Game as a Bioregion]]
+#### 10.2 Playing the Game as a Bioregion
 
-#### [[10.3 Bioregional-Level Challenges and Objectives]]
+#### 10.3 Bioregional-Level Challenges and Objectives
 
-#### [[10.4 Fostering a Culture of Collaboration and Unity within the Bioregion]]
+#### 10.4 Fostering a Culture of Collaboration and Unity within the Bioregion
 
 ### Chapter 11: Engaging in Tribal-Level Gameplay
 
-#### [[11.1 The Role of Tribes in The Great Game of Lionsberg]]
+#### 11.1 The Role of Tribes in The Great Game of Lionsberg
 
-#### [[11.2 Playing the Game as a Tribe]]
+#### 11.2 Playing the Game as a Tribe
 
-#### [[11.3 Tribal-Level Challenges and Objectives]]
+#### 11.3 Tribal-Level Challenges and Objectives
 
-#### [[11.4 Fostering a Culture of Collaboration and Unity within the Tribe]]
+#### 11.4 Fostering a Culture of Collaboration and Unity within the Tribe
 
 #### Chapter 12: Engaging in National-Level Gameplay
 
-#### [[12.1 The Role of Nations in The Great Game of Lionsberg]]
+#### 12.1 The Role of Nations in The Great Game of Lionsberg
 
-#### [[12.2 Playing the Game as a Nation]]
+#### 12.2 Playing the Game as a Nation
 
-#### [[12.3 National-Level Challenges and Objectives]]
+#### 12.3 National-Level Challenges and Objectives
 
-#### [[12.4 Fostering a Culture of Collaboration and Unity within the Nation]]
+#### 12.4 Fostering a Culture of Collaboration and Unity within the Nation
 
 ### Chapter 13: Engaging in Global-Level Gameplay
 
-#### [[13.1 The Role of Global Collaboration in The Great Game of Lionsberg]]
+#### 13.1 The Role of Global Collaboration in The Great Game of Lionsberg
 
-#### [[13.2 Playing the Game on a Global Scale]]
+#### 13.2 Playing the Game on a Global Scale
 
-#### [[13.3 Global-Level Challenges and Objectives]]
+#### 13.3 Global-Level Challenges and Objectives
 
-#### [[13.4 Fostering a Culture of Collaboration and Unity among Tribes and Nations]] 
+#### 13.4 Fostering a Culture of Collaboration and Unity among Tribes and Nations 
 
 ### Chapter 14: Engaging in Domain-Level Gameplay
 
-#### [[14.1 The Role of Domains in The Great Game of Lionsberg]]
+#### 14.1 The Role of Domains in The Great Game of Lionsberg
 
-#### [[14.2 Playing the Game at the Domain Level]]
+#### 14.2 Playing the Game at the Domain Level
 
-#### [[14.3 Domain-Level Challenges and Objectives]]
+#### 14.3 Domain-Level Challenges and Objectives
 
-#### [[14.4 Fostering a Culture of Collaboration and Unity within the Domain]] 
+#### 14.4 Fostering a Culture of Collaboration and Unity within the Domain
 
 ### Chapter 15: Engaging in Universal-Level Gameplay
 
-#### [[15.1 The Role of the Universal Level in The Great Game of Lionsberg]]
+#### 15.1 The Role of the Universal Level in The Great Game of Lionsberg
 
-#### [[15.2 Playing the Game at the Universal Level]]
+#### 15.2 Playing the Game at the Universal Level
 
-#### [[15.3 Universal Level Challenges and Objectives]]
+#### 15.3 Universal Level Challenges and Objectives
 
-#### [[15.4 Fostering a Culture of Harmony and Unity within the Universe]]
+#### 15.4 Fostering a Culture of Harmony and Unity within the Universe
 
 ## Section IV: The Impact of The Great Game of Lionsberg
 
-### Chapter 16: The Impact on Individuals, Families, Communities, Tribes, and Nations
+### [[16 The Impact on Individuals, Families, Communities, Tribes, and Nations]]
 
 
-### Chapter 17: The Impact on the Economy
+### [[17 The Impact on the Economy]]
 
 
-### Chapter 18: The Impact on the Environment
+### [[18 The Impact on the Living System]] 
 
 
-### Chapter 19: The Impact on Society 
+### [[19 The Impact on Society]] 
 
 
-### Chapter 20: The Impact on Governance  
+### [[20 The Impact on Governance]]  
 
 
-### Chapter 21: The Impact on Spirituality and the Human Spirit  
+### [[21 The Impact on Spirituality and the Human Spirit]]  
 
 ## Section V: Tools and Resources for Players
 
-### Chapter 22: The Great Game of Lionsberg Toolkit
+### [[22 The Great Game of Lionsberg Toolkit]] 
 
 
-### Chapter 23: Training and Capacity Building 
+### [[23 Shared Services, Infrastructure, and Support]]
+
+### [[24 Training and Capacity Building]] 
 
 
-### Chapter 24: The Lionsberg Super Mind and Knowledge Repository
+### [[25 The Lionsberg Super Mind and Knowledge Repository]]
 
 ## Section VI: Conclusion and Next Steps
 
-### Chapter 25: The Future of The Great Game of Lionsberg
+### Chapter 26 - The Future of The Great Game of Lionsberg
 
 
-### Chapter 26: A Call to Action for Players
+### Chapter 27: A Call to Action for Players
 
 
-### Chapter 27: Final Reflections and Words of Encouragement
+### Chapter 28: Final Reflections and Words of Encouragement
 
 
 
