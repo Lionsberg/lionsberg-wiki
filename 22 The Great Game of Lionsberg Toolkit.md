@@ -31,3 +31,9 @@ A set of metrics and indicators designed to help players track their progress, a
 A network of experienced coaches, mentors, and facilitators who are available to support players in their gameplay, providing guidance, advice, and encouragement along the way. These experts help players to overcome challenges, unlock their potential, and maximize their impact in The Great Game of Lionsberg.
 
 The Great Game of Lionsberg Toolkit is a dynamic and evolving resource, continuously updated and expanded to meet the changing needs of players and the wider game. By equipping players with the tools, knowledge, and support they need to succeed, the toolkit helps to ensure that The Great Game of Lionsberg remains an effective, engaging, and transformative experience for all who participate.
+
+____
+
+Forward to [[23 Shared Services, Infrastructure, and Support]]    
+Back to [[21 The Impact on Spirituality and the Human Spirit]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

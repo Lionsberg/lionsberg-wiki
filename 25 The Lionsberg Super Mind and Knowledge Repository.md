@@ -18,3 +18,9 @@ The Lionsberg Super Mind and Knowledge Repository serves as a central hub for in
     
 
 By tapping into the wealth of resources, knowledge, and expertise available through the Lionsberg Super Mind and Knowledge Repository, players can enhance their gameplay, accelerate their progress, and contribute more effectively to the collective quest for the [[New World]].
+
+____
+
+Forward to [[26 The Future of The Great Game of Lionsberg]]    
+Back to [[24 Training and Capacity Building]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

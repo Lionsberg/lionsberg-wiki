@@ -30,3 +30,9 @@ Support refers to the various forms of assistance, guidance, and encouragement p
 4.  **Recognition and Rewards**: Systems for acknowledging and celebrating the achievements, contributions, and progress of players, fostering a sense of pride, motivation, and commitment to the game.
 
 By providing shared services, infrastructure, and support, The Great Game of Lionsberg enables players to leverage collective resources, knowledge, and connections in their pursuit of the [[New World]]. This collaborative approach helps to build a strong foundation for transformative change, ensuring that players have the tools, resources, and support they need to succeed in their gameplay journey.
+
+____
+
+Forward to [[24 Training and Capacity Building]]     
+Back to [[22 The Great Game of Lionsberg Toolkit]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

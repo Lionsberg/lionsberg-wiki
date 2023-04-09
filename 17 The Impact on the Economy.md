@@ -18,3 +18,9 @@ The Great Game of Lionsberg has profound implications for the economy, as it aim
     
 
 The economic impact of The Great Game of Lionsberg is vast, touching on numerous aspects of the way we generate, allocate, and use resources to produce Throughput of our shared Goals and Values. By engaging players in the pursuit of a more wise, just, and regenerative economy, the game offers a powerful platform for transformative change, driving progress towards the [[New World]].
+
+____
+
+Forward to [[18 The Impact on the Living System]]    
+Back to [[16 The Impact on Individuals, Families, Communities, Tribes, and Nations]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

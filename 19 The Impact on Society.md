@@ -20,3 +20,9 @@ The Great Game of Lionsberg has a profound impact on society, fostering a cultur
     
 
 The impact of The Great Game of Lionsberg on society is both deep and far-reaching, touching on numerous aspects of our collective experience and identity. By engaging players in the co-creation of a more wise, just, and resilient world, the game offers a powerful platform for transformative change, driving progress towards the [[New World]].
+
+____
+
+Forward to [[20 The Impact on Governance]]    
+Back to [[18 The Impact on the Living System]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

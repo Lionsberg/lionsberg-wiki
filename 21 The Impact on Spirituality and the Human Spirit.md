@@ -18,3 +18,9 @@ The Great Game of Lionsberg has a profound impact on spirituality and the human 
     
 
 The impact of The Great Game of Lionsberg on spirituality and the human spirit is both profound and far-reaching, fostering a deeper sense of interconnectedness, purpose, and meaning in the lives of its players. By engaging individuals in the co-creation of a [[New World]], the game helps to unlock the full potential of the human spirit in partnership with the Divine, empowering players to become active co-creative agents of change in their own lives and in the world at large.
+
+____
+
+Forward to [[22 The Great Game of Lionsberg Toolkit]]    
+Back to [[20 The Impact on Governance]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

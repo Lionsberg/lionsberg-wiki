@@ -16,3 +16,9 @@ The Great Game of Lionsberg aims to create positive change at multiple levels, f
     
 
 The impact of The Great Game of Lionsberg is both deep and far-reaching, touching and transforming the lives of players and their communities in countless ways from the inside out and bottom-up. As the game continues to grow and evolve, it offers a powerful platform for transformative change, driving progress towards a brighter, more hopeful future for All.
+
+____
+
+Forward to [[17 The Impact on the Economy]]    
+Back to [[15.4 Fostering a Culture of Harmony and Unity within the Universe]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

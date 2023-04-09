@@ -18,3 +18,9 @@ The Great Game of Lionsberg has a significant impact on the Living System, encom
     
 
 The impact of The Great Game of Lionsberg on the living system is far-reaching, touching on numerous aspects of our relationship with the natural world. By engaging players in the pursuit of a more harmonious, sustainable, and regenerative relationship with the environment, the game offers a powerful platform for transformative change, driving progress towards the [[New World]].
+
+____
+
+Forward to [[19 The Impact on Society]]    
+Back to [[17 The Impact on the Economy]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  

@@ -20,3 +20,9 @@ The Great Game of Lionsberg has a transformative impact on governance at every l
     
 
 The impact of The Great Game of Lionsberg on governance is profound, fostering a more wise, just, and responsive approach to decision-making and navigation that empowers citizens and communities to shape their own futures. By engaging players in the co-creation of a [[New World]], the game helps to build more effective and resilient governing structures that serve the needs and aspirations of all.
+
+____
+
+Forward to [[21 The Impact on Spirituality and the Human Spirit]]    
+Back to [[19 The Impact on Society]]  
+Back to Table of Contents [[The Great Game of Lionsberg]]  
