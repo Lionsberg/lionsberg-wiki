@@ -4,10 +4,8 @@ Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] wit
 
 ___
 See also: 
-- [[Lionsberg Vision]]  
 - [[New Vision and Plan]] 
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-- [[Best Possible Future]]  
 ___
 ## On The Importance of Vision
 

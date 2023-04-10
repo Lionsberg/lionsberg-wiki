@@ -1,6 +1,6 @@
 # Meaningful Initial Contribution
 
-Meaningful Initial Contribution refers to the act of providing valuable input, ideas, or resources when joining a group, project, or organization. It is a way to establish oneself as a committed and engaged member, demonstrating a genuine interest in contributing to the collective effort and success.
+Meaningful Initial Contribution refers to the act of providing valuable input, ideas, or resources when joining a group, project, or organization. It is a way to establish oneself as a committed and engaged member, demonstrating a genuine interest in contributing to the collective effort and success, and establishing a basic reciprocity at the outset.
 
 A Meaningful Initial Contribution can take various forms, such as:
 
@@ -12,6 +12,8 @@ A Meaningful Initial Contribution can take various forms, such as:
 
 By making a Meaningful Initial Contribution, new members can build trust, earn respect, and create a positive impression among their peers. This sets the stage for ongoing collaboration, cooperation, and success as the group or organization works together to achieve its collective aims.
 
-In the context of the Lionsberg System, each new Participant is expected to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
+In the context of the [[Lionsberg System]] and [[The Great Game of Lionsberg]], each new Participant is invited to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
 
 The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Meaningful Monthly Contribution]]. 
+
+The idea of voluntary Meaningful Contribution is illuminated by a Story called [[The Widow's Mite]].

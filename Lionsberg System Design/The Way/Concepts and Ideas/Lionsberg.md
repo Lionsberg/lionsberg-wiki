@@ -2,7 +2,7 @@
 
 Lionsberg is a mythical name for the New World we are designing and building. 
 
-The guiding philosophy of Lionsberg is expressed concretely through a community, system, platform and experience purpose-built to help humanity design and build a flourishing and abundant world that works for all its inhabitants. 
+The guiding philosophy of Lionsberg is expressed concretely through a community, system, platform and gamified experience purpose-built to help humanity design and build a flourishing and abundant world that works for all its inhabitants without exception. 
 
 The Spirit and [[Logos]] of Lionsberg is expressed through a [[Pattern Language]] that can be easily understood and adapted by individuals, organizations, tribes and nations around the world. 
 
@@ -10,15 +10,13 @@ It is also expressed in the form of a Mythical Story about a group of people who
 
 It 8 billion people decide to [[Enact]] the [[Story of Lionsberg]], the [[New World]] is already at hand, and getting [[A Little Better Every Day]] because [[All]] will be [[Working Together To Make It So]]. 
 
-See [[The Lionsberg Meta Guide]], [[The Book of Lionsberg]], or [[Your Starting Point]].  
-
 ## Metaphors
 
 Lionsberg is... a mission and values driven Community working together to [[Co-Create]] the [[Best Possible Future]] for [[All]].    
 
 Lionsberg is... a Mythical Name for the [[New World]] we are [[Co-Creating]].  
 
-Lionsberg is... A Vessel purpose-built to carry us [[All]], FROM the [[Old]] TO the [[New]]  
+Lionsberg is... An Ark purpose-built to carry us [[All]], FROM the [[Old]] TO the [[New]]  
 
 ## Characteristics 
 
@@ -35,12 +33,12 @@ The [[Spirit]] of [[Lionsberg]] is [[Absolute And Unconditional Love]] for [[One
 Its Spirit is [[Truth]] and [[Love]].  
 
 ### Mission
-Our overarching and uniting Mission is to Progressively [[Realize]] [[The Goal]]. 
+Our overarching and uniting Mission is to Progressively Realize [[The Goal]]. 
 
 ### Quest
 The Mission unfolds like a [[Quest]] towards the [[Most Worthy Goal]].  
 
-This allows each [[Individual And Local]] element to [[Choosing A Worthy Aim|Choose An Aim]] and embark on a Quest that stacks up and aligns the [[Energy]] [[Vector]] with the Whole [[Group Of Groups]] that is advancing together towards [[The Goal]]. 
+This allows each [[Individual And Local]] element to [[Choosing A Worthy Aim|Choose An Aim]] and embark on individual and local Quests that stack up and align across [[The Movement]] that is advancing together towards [[The Goal]]. 
 
 ### Personality 
 - Servant of All 

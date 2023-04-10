@@ -1,38 +1,41 @@
 # Values
 
-[[TKTK]] - [[Work In Progress]] - Clean this up. 
-___
-Without an overarching and uniting [[Total Nested Hierarchy of Values]], any element will disintegrate. 
+[[Values]] form the foundation of the [[Lionsberg Manifesto]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative movement that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
-All elements of the [[Lionsberg System]] are unified by the [[Meta Value]] and the [[Meta Goal]], which are [[One]]. 
+The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[One]] Absolute Meta Value. 
 
-The System is further unified by the articulated [[Universal Values]], including [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
+Some of the core values underpinning the [[New Vision and Plan]] and [[The Great Game of Lionsberg]] include:
 
-Each Individual, Group, and Community in the System is encouraged to articulate and adopt their own unique statement of Values. 
+1.  **Unity**: Recognizing the interconnectedness of all life and the need for collective action to address the challenges of the [[Meta Crisis]] and co-create the [[New World]].
+2. **Truth**: A commitment to seeking and upholding accurate and verifiable information, understanding, and wisdom, fostering honest communication and informed decision-making.
+3. **Love**: Embracing the power of connection, empathy, selflessness, and right relationship to strengthen relationships and inspire actions that support the wellbeing of [[All]].
+4.  **Compassion**: Cultivating empathy, understanding, and care for all beings, fostering a sense of shared purpose and community within [[The Movement]] and [[The Battle]].
+5. **Justice**: Upholding the principles of wisdom, fairness, and universal human rights and responsibilities, ensuring that all [[Citizens]] have an equal opportunity to participate in and benefit from the co-creation of the [[New World]].
+6. **Stewardship**: Taking responsibility for the care and preservation our communities, our society, our planet, its resources, and All its inhabitants, ensuring a sustainable, regenerative, and thriving future for [[All]].
+7.  **Integrity**: Upholding honesty, transparency, and accountability in all actions and decisions, ensuring that [[The Movement]] remains aligned with its guiding principles, values and [[Goals]].
+8.  **Courage**: Embracing vulnerability, risk, and discomfort as opportunities for growth, transformation, and innovation in the pursuit of systemic change.
+9.  **Resilience**: Cultivating adaptability, flexibility, and perseverance in the face of adversity and uncertainty, empowering [[Citizens]] to respond effectively to the evolving challenges of the [[Meta Crisis]] and [[The Advance of The Giants]].
+10.  **Regeneration**: Prioritizing the health and wellbeing of ecosystems, communities, and individuals, promoting holistic and sustainable solutions that support the co-creation of the [[New World]].
+11.  **Wisdom**: Valuing diverse perspectives, knowledge, and experiences, fostering a culture of learning, curiosity, and growth within [[The Movement]] and [[The Battle]].
+12. **Hope**: Nurturing a sense of optimism and confidence in the ability of [[Citizens]] in partnership with God and One Another to confront and overcome the [[Meta Crisis]] and co-create a brighter, more flourishing future for [[All]].
+13. **Faith**: Steadfast belief and commitment in the inherent goodness and potential of God in partnership with humanity to create positive and transformational change and a bright Future, despite the challenges and uncertainties that define the [[Meta Crisis]] and our existence here on Earth. 
 
-[[Template For Values]] 
+These values serve as a compass for [[Citizens]] as they navigate the complex landscape of the [[Meta Crisis]], guiding their actions, decisions, and interactions within the [[Lionsberg Platform]] and [[The Great Game of Lionsberg]]. By embodying these values and integrating them into their daily lives, [[Citizens]] play a vital role in the co-creation of the [[New World]], working together to confront and overcome the [[Meta Crisis]] and bring about a brighter, more flourishing future for [[All]].
 ___
 The [[Core Values]] of any System are like the guard rails or boundaries that prevent us from getting swept off course as we [[Navigate]] towards [[The Goal]]. 
 
 The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
 
-They also must be integrated by a [[Total Nested Hierarchy of Values]], which must be unified and integrated by a single highest overarching and uniting [[Meta Value]]. 
-
-The [[Meta Value]] by definition contains within itself and orders all other [[Values]]. 
+They also must be integrated by a [[Total Nested Hierarchy of Values]], which must be unified and integrated by a single highest overarching and uniting [[Meta Value]]. In the [[Lionsberg System]], this is the [[One]] that transcends and generates [[All]]. 
 
 By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
 
-In English, the [[One]] [[Meta Value]] has been articulated into a basic set of [[Universal Values]]. 
+## A Template For Values
 
-The articulated [[Universal Values]] of the System "hold the space" around the [[Meta Value]]. 
+[[Template For Values Pattern Language]] 
+
 ___
-
-The stream of thought below began in a section on [[Behavioral Code]], as we were working to define the [[Provisional Code]]. For this reason, it will start a bit abruply in a context that is highly related to how our Values show up in thought, words, and action. 
-
-For a simple statement on the Universal Values that structure the [[Lionsberg System]], see [[Universal Values]]. 
-
-For examples of how we hope the [[Universal Values]] express themselves in concrete behavioral terms, see [[Provisional Code]]. 
-___
+## A Few Notes on Values and Their Expression 
 
 Generally, our explicit and implicit [[Behavioral Code|Behavioral Codes]] relate to our [[Values]]. 
 

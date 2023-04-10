@@ -1,6 +1,8 @@
 # The Lionsberg Book of Quotes
 
-This is a book of words spoken from the Spirit that impels us to confront and overcome suffering and injustice, and to work together in partnership with God and one another to design and build a better future for All. Be inspired! ~ J 
+This is a book of words spoken from the Spirit that impels us to confront and overcome [[Suffering]], [[Injustice]], and [[Oppression]] in all their forms, and to work together in partnership with God and One Another to co-create a better future for All. Be inspired! ~ J 
+
+____
 
 "In the beginning, God..." - Genesis 1
 
