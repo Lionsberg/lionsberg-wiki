@@ -249,9 +249,4 @@ This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and a
 #### B.2 Additional resources and information for further exploration  
 
 [[Jordan Nicholas Sukut]]  
-[[Lionsberg Wiki Books]] 
-[[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
-[[The Book of Lionsberg]]  
-[[The Lionsberg Book of Meditations]]  
-[[The Lionsberg Meta Guide]]  
-
+[[Read The Books]] 

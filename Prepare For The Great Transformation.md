@@ -18,7 +18,7 @@ Here are some key steps to prepare for [[The Great Transformation]]:
     
 7.  **Localize Food Systems**: Support and promote local, sustainable, and regenerative food systems that prioritize the health and well-being of people, the local environment, and the planet. Develop contingency plans for the provision of food and water in the event globalized food supply systems falter or are intentionally disrupted. 
     
-8.  **Diversify and Strengthen Supply Chains**: Encourage diverse and resilient supply chains that minimize vulnerabilities, support local businesses, and promote environmental stewardship. Develop contingency plans for the provision of basic supplies in the event global supply systems falter or are intentionally disrupted. 
+8.  **Diversify, Strengthen, and Localize Supply Chains**: Encourage diverse, resilient, and relocalized supply chains that minimize vulnerabilities, support local businesses, and promote environmental stewardship. Develop contingency plans for the provision of basic supplies in the event global supply systems falter or are intentionally disrupted. 
     
 9.  **Build Capacity**: Develop the skills, knowledge, and resources needed to confront and overcome the [[Meta Crisis]] and thrive in the midst of disruption and chaos, empowering individuals and communities to take meaningful action and take control of their own destinies.
     
