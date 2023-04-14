@@ -1,9 +1,12 @@
 # Love
-In the [[Lionsberg System]], Love is used as a [[Word Tool]] to point towards the [[Ineffable]], Ultimate, [[Absolute]], Highest Unconditional energetic relationship possible between two things. 
+
+In the [[Lionsberg System]], Love is used as a [[Word Tool]] to point towards the [[Ineffable]], Ultimate, [[Absolute]], Highest Unconditional relationship between two things. 
+
+This Value impels us to seek the true, highest, and most beautiful good for our Selves, for others, and for All Creation. Arising from the Source and Sustainer of Life, Love leads us to honor the inherent dignity and worth of all beings, and treat All Creation with honor and respect as the basis for community and [[Right Relationship]]. 
 
 It is akin to the use of [[Agape]] Love in Christian theology, or the Jewish notion of [[Chesed]], which describe the ultimate and unconditional Love of [[One]] for [[All]]. 
 
-It is differentiated from and transcendent of the sexual, brotherly, or romantic loves we often associate the [[Word Tool]] with.  
+It is differentiated from the sexual, brotherly, or romantic loves we often associate the [[Word Tool]] with.  
 
 Beyond these, it points to a [[Frequency of Being]] that regards the [[One We Love]] with (something like) unconditional affection, [[Goodwill]], and positive desire directed towards the fullness of their unique [[Potential]]. 
 
@@ -19,7 +22,7 @@ It gives freely of itself, expecting nothing in return. It gives without precond
 
 It longs for but is not conditional upon reciprocity. 
 
-The natural response to this kind of Absolute and Unconditional Love is to reciproctate it. 
+The natural response to this kind of Absolute and Unconditional Love is to reciprocate it. 
 
 Therefore, as [[One]] Loves [[All]], so too should [[All]] strive to embody One's Love in return towards [[One]], [[One Another]], and [[All]]. 
 

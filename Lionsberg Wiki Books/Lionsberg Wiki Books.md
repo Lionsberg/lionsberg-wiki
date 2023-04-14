@@ -4,18 +4,19 @@
 
 1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
 2. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]] 
-3. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]  
-4. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
-5. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
-6. [[The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]  
-7. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
-8. [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
-9. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]]  
-10. [[The Lionsberg Meta Guide]] - by [[Jordan Nicholas Sukut]]  
-11. [[The Power of Today]]  - by [[Jordan Nicholas Sukut]]   
-12. [[Martial Arts Guide]]  - by [[Jordan Nicholas Sukut]]    
-13. [[The Lionsberg Book of Stories]]  - by [[Jordan Nicholas Sukut]]  
-14. [[Frequently Asked Questions]] - by [[Jordan Nicholas Sukut]]  
+3. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+4. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]  
+5. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
+6. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
+7. [[The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]  
+8. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
+9. [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
+10. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]]  
+11. [[The Lionsberg Meta Guide]] - by [[Jordan Nicholas Sukut]]  
+12. [[The Power of Today]]  - by [[Jordan Nicholas Sukut]]   
+13. [[Martial Arts Guide]]  - by [[Jordan Nicholas Sukut]]    
+14. [[The Lionsberg Book of Stories]]  - by [[Jordan Nicholas Sukut]]  
+15. [[Frequently Asked Questions]] - by [[Jordan Nicholas Sukut]]  
 
 ## Essays That Might Become Books (Draft Works in Progress)
 1. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  
@@ -24,8 +25,6 @@
 4. [[Jordan's Guide to Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 5. [[The Lionsberg Pattern Language]] - by [[Jordan Nicholas Sukut]]  
 
-
 ## Also See
-1. [[Lionsberg Wiki Blogs]] 
-2. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
+1. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
 

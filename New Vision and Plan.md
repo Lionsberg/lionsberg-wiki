@@ -5,9 +5,11 @@ _(2023.03.26 Draft For Review and Improvement)_
 The [[New Vision and Plan]] is a holistic framework that presents a bold and captivating vision for a just, regenerative, and flourishing future for [[All]]. This roadmap addresses the [[Root Causes]] of our global challenges and offers practical guidance on catalyzing transformative change at the individual, organizational, community, national, and systemic levels. 
 
 To explore aspects of the New Vision and Plan in more detail, see: 
+
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
 - [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]    
-- [[The Lionsberg Strategy and Plan - Summary]]  
+- [[Lionsberg, Simple and Clear]]  
+- [[The Great Game of Lionsberg]]  
 
 ## Summary 
 

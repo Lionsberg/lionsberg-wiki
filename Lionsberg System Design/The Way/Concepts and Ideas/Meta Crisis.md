@@ -16,6 +16,7 @@ The **Meta Crisis** is the comprehensive, interconnected set of challenges that 
 -   Economic issues such as inequality, instability, supply chains, demand chains, economic slavery, waste, and unsustainable practices. These challenges are resulting in social, political, and environmental injustices and unrest.  
 -   Political and governmental issues such as instability, corruption, division, deceit, dysfunction and lack of transparency. These challenges can undermine the ability of governments to effectively address other crises and can also contribute to social, economic, religious, and environmental inequality and instability.  
 -   Spiritual and cultural crises such as a lack of meaning and purpose, loss of a sense of hope and agency, and the erosion of traditional religious and cultural practices and values. These challenges can have negative impacts on social cohesion, vision, and values, and thus dramatically exacerbate the crises. 
+- [[The Advance of The Giants]]  
 
 The Meta Crisis is not a single, isolated crisis, but rather a complex, interconnected web of challenges that are interdependent and mutually reinforcing. Addressing one challenge may have unintended consequences on another, or may be insufficient to address the root causes of a given problem, or the [[Total Nested Hierarchy of Issues]].  
 

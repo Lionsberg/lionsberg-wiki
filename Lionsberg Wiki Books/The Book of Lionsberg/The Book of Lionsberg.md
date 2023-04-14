@@ -1,11 +1,7 @@
 # The Book of Lionsberg
 By [[Jordan Nicholas Sukut]]  
 
-This is a living [[Work In Progress]]... maybe it always should be... 
-
-Dive in! Each page contains a link to the page before and after it, so you can navigate it like a book. You can also navigate it like pieces of interwoven modular content.
-
-I hope it is helpful to you. Be encouraged and inspired!
+This is a living [[Work In Progress]]... 
 
 ## Table of Contents
 
@@ -434,7 +430,7 @@ This chapter is a [[Work In Progress]]
 ### Chapter Twelve - The Anti-Quest
 [[Chapter Twelve - Coming Soon]]  
 
-### Chapter Thirteen - The Quest of the Heroes
+### Chapter Thirteen - The Quests of the Heroes
 [[Chapter Thirteen - Coming Soon]]  
 
 ### Chapter Fourteen - The Art and Science of the Way

@@ -10,6 +10,6 @@ By putting our Selves in service of [[One]] and [[All]], we are compelled to ali
 
 WARNING: Do not attempt to [[Concretizing The Absolute|Concretize The Absolute]] or the System will fail! In religious terms, reducing [[Ultimate Reality]] to a human-made set of forms or propositions is akin to [[Idolatry]]. 
 
-In the [[Old World]] humanity devolved into ridiculous debates and warfare over whose God was the One. In the [[New World]] we can see that this is ridiculous, and that we [[All]] flow from [[One]] eternal and universal [[Source]]. 
+In the [[Old World]] humanity devolved into ridiculous debates and warfare over whose god was **The One**. In the [[New World]] we can see that this is ridiculous, and that we [[All]] flow from [[One]] eternal and universal [[Source]], which in English we call [[God]]. 
 
 By placing our Selves in service of [[One]] and [[All]], we place our Selves in service of the [[One Thing]] that unites us All, and we [[Help One Another]] progress towards Unity and Wholeness through Love. 

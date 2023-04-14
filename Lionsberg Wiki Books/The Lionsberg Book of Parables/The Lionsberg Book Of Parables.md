@@ -8,3 +8,4 @@
 - [[Israel's Desire For A King]]  
 - [[The Commander And The Soldier]] 
 - [[The Widow's Mite]]  
+- [[The Story of the Builder]]  

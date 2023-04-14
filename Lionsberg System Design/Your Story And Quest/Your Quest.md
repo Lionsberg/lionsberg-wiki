@@ -6,3 +6,5 @@ Each and every [[Individuals|Individual]] is here for a unique reason, a unique 
 To understand [[Your Quest]], you need to articulate and understand [[Your Story]]. 
 
 To articulate and understand [[Your Story]], you can begin with [[Your Story]] or [[Your Starting Point]].  
+
+To advance more powerfully your [[Quest]] towards [[The Goal]], we invite you to [[Join The Platform]] and begin playing [[The Great Game of Lionsberg]]. 

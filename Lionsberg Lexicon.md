@@ -1,4 +1,4 @@
 # Lionsberg Lexicon
 
-For now - see [[Concepts And Ideas]]... 
+Coming soon..
 

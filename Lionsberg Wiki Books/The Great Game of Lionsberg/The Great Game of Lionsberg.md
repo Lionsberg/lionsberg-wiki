@@ -23,7 +23,7 @@ This Book is a [[Work In Progress]]
 
 #### [[1.8 The Governance Model - Citizen Led and Locally Driven]]  
 
-#### [[1.9 The Educational Model - Transformative Learning and Holistic Development]]  
+#### [[1.9 The Educational Model - Transformative Experiential Learning and Holistic Development]]  
 
 #### [[1.10 The Spiritual Approach - Right Relationship Between One and All]] 
 
