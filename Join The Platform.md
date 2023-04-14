@@ -12,6 +12,6 @@ The Lionsberg Platform is ***invitation only*** for now so we can manage the qua
 2. Fill out the [[Manifesto Response Form]] 
 3. On the Manifesto Response Form, click "yes" to joining the platform to request an invitation code 
 
-From there, we will add you to the onboarding queue and send you a invitation code when The Platform is ready to welcome you in. 
+From there, we will add you to the onboarding queue and send you a invitation code when The Platform is ready to welcome you in. The Platform is open to contributing [[Participants]] and [[Members]]. 
 
 As you become an active member of the [[Lionsberg Community]] and Platform, you'll play a vital role in the co-creation of the [[New World]], working alongside fellow [[Citizens]] in the pursuit of a more just, regenerative, and thriving future for all.

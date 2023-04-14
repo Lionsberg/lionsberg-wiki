@@ -1,10 +1,12 @@
 # Lionsberg Manifesto
 
-_(2023.04.10 Draft For Continuous Inspiration and Improvement)_
+_(2023.04.14 Draft For Continuous Inspiration and Improvement)_
 
 ## Standing at the Crossroads of History   
 
-We, the [[Citizens]] of the world, stand at the crossroads of history. A New Era is emerging as another fades, signaling that an unprecedented transformation is at hand. In light of this quantum tectonic shift, it is self-evident that the systems and approaches that brought us here will not carry us forward to where we want to go, and our future will be unlike our past. 
+Fellow Citizens,
+
+We, the free [[Citizens]] of the world, stand at the crossroads of history. A New Era is emerging as another fades, signaling that an unprecedented transformation is at hand. In light of this quantum tectonic shift, it is self-evident that the systems and approaches that brought us here will not carry us forward to where we want to go, and our future will be unlike our past. 
 
 From every corner of the Earth, tribes and nations face a myriad of complex challenges that threaten our way of life, our economies, our institutions, our environments, and the very fabric of our shared existence. These crises have culminated in an interconnected and unparalleled [[Meta Crisis]] that threatens the security and wellbeing of every Citizen on Earth. 
 

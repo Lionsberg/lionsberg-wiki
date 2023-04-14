@@ -14,15 +14,14 @@ To complete the [[Manifesto Response Form]], please provide the following inform
 2. Preferred Name 
 3.  Email Address  
 4.  Country of Residence  
-5.  How would you like to participate? ([[3.12 Levels of Participation]]) 
+5.  How would you like to participate? ([[Levels of Participation]]) 
 6.  Who invited you to participate? 
 7.  Briefly describe your personal motivation for joining [[The Movement]] and how you can contribute your skills, knowledge, and passion to [[The Battle]]. 
-8.  Please indicate what [[Meaningful Initial Contribution]] you can commit to. 
-9.  Please indicate what [[Meaningful Monthly Contribution]] you can commit to. 
-10.  Please confirm your commitment to [[Read The Books]] and deepen your understanding of the core ideas, principles, and strategies underpinning the [[New Vision and Plan]] and [[The Great Game of Lionsberg]].
-11.  Please confirm your commitment to [[Join The Platform]].
-12.  Please confirm your commitment to [[Spread The Word]]. 
-13.  Please share any additional thoughts or. questions you have about the [[New Vision and Plan]] or [[The Great Game of Lionsberg]].
+8.  Please indicate what [[Meaningful Initial Contribution]] you can commit to.This will help generate the Catalytic Resources necessary to advance.
+9.  Please indicate what [[Meaningful Monthly Contribution]] you can commit to. This can change any time. This will help generate committed runway for the movement.
+10.  If you would like to participate and **Join The Platform,** please check "yes" and we will send you an invitation code. 
+11. Are you interested in leveraging the Lionsberg Infrastructure, Platform, and Network to raise funds for your aligned initiatives via Fiscal Sponsorship or Equity Stewardship? If Yes, we will contact you to follow up.
+12.  Please share any additional thoughts or. questions you have about the [[New Vision and Plan]] or [[The Great Game of Lionsberg]].
 
 Once you have completed and submitted the [[Manifesto Response Form]], you will be added to the onboarding queue. Our team will review your submission and follow up with further information on how to become an active participant in [[The Movement]] and fully engage with the resources, tools, and community available through the [[Lionsberg Platform]] and [[The Great Game of Lionsberg]].
 

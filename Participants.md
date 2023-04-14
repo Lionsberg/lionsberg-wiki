@@ -5,7 +5,7 @@ The term "Participants" in the context of the Lionsberg System refers to the ind
 This term is differentiated from: 
 1. [[Observers|Observers]], who are interested and following along from a distance
 2. [[Members]], who have committed to longer term rights and responsibilities within the system 
-3. [[Citizens]], who have entered into longer term covenant relationship 
+3. [[Citizens]], who have entered into long term relationship and taken up civic and governance responsibilities within Lionsberg   
 4. [[Stewards]], who have taken on primary responsibility for the stewardship and governance of the community. 
 
 In the Lionsberg System, Participants come together from diverse backgrounds, experiences, and perspectives, and work together in a highly collaborative and adaptive way. Participants are united by a shared Vision of a better future, and by a shared commitment to work together effectively towards that Vision.
