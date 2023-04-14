@@ -7,8 +7,8 @@ ____
 This is an invitation to the inception of the Lionsberg Platform and The Great Game of Lionsberg. 
 
 1. Read the [[Lionsberg Manifesto]]  
-2. Explore the [[New Vision and Plan]]  
-3. Fill out the [[Manifesto Response Form]]  
+2. Fill out the [[Manifesto Response Form]]    
+3. Explore the [[New Vision and Plan]]  
 4. [[Join The Platform]]  
 5. [[Prepare For The Great Transformation]]  
 6. [[Spread The Word]]  
