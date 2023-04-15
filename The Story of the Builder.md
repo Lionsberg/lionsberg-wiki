@@ -32,9 +32,9 @@ The local pastor came by a few days later, and asked "Where will the church be i
 
 "A wonderful question," the builder said. "Let us review the plans and specifications together and see, perhaps you could help improve them." They reviewed the plans, and agreed that the Corner of Faith and Hope right along the Town Square would be a perfect location. 
 
-The pastor was delighted, and a week later he brought back some volunteers to review the plans, and see if they could begin laying foundations for the Corner of Faith and Hope. They were truly eager to begin building the church. 
+The pastor was delighted, and a week later he brought back some volunteers to review the plans, and to ask the Builder if they could begin laying foundations for the Corner of Faith and Hope. They were truly eager to begin building the church. 
 
-"That is a wonderful idea," the Builder replied. "We will just need a surveyor to lay out the streets and the boundaries around Town Square." 
+"That is a wonderful idea," the Builder replied. "It would definitely help progress to begin laying the foundations for the Corner of Faith and Hope. We will just need a surveyor to lay out the streets and the boundaries around Town Square." 
 
 "My uncle is a surveyor," one of the young men replied. "I am sure he would be delighted to come lay out the Town Square and the Corner of Faith and Hope so we could begin."
 
