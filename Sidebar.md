@@ -1,7 +1,6 @@
 This site is a [[Work In Progress]]
 
 # Site Navigation
-[[Your Starting Point]]   
 [[Frequently Asked Questions]]   
 [[Jordan Nicholas Sukut]]  
 
@@ -9,11 +8,10 @@ This site is a [[Work In Progress]]
 [[Above The Chaos]]   
 
 # Books
+[[Lionsberg, Simple and Clear]] 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
-[[The Book of Lionsberg]]  
-[[The Lionsberg Book of Meditations]]  
-[[Lionsberg Wiki Books]]   
+[[The Great Game of Lionsberg]]  
 
 <!-- Comment not rendered visibly to web
 
