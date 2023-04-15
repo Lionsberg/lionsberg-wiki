@@ -60,11 +60,11 @@ The Builder put his hand on his friends back. His friend was angry and stiff. "I
 
 The friend fell silent and thought. He had not considered that both could happen simultaneously. 
 
-As they were talking, the little girl came up out of breath after climbing up the mountain and was amazed to see all the progress. "Wow! Your pile of rubble is really coming to life! What are you doing now?" she asked.  
+As they were talking, the little girl and some of her friends came up out of breath after climbing up the mountain. She was amazed to see all the progress. "Wow! Your pile of rubble is really coming to life! What are you doing now?" she asked.  
 
 "We are co-creating a Great City on a Hill, that will serve as a light, a fortress, and an inspiration for The Valley for generations to come. Would you like to see the plans for the school and playground?" 
 
-The little girl hesitated and then came over, and began imagining and dreaming with the Builder about what kind of school and playground they might be able to co-create. As she talked and dreamed, the Builder wrote her ideas down in the plans and specifications, and modified the designs to reflect her creativity and insight. "That will be a great improvement to the design," the Builder told her. "I can't believe I left out the swings. Thank you very much for helping me design and build this City on a Hill."
+The little girl was intrigued, and began imagining and dreaming with the Builder about what kind of school and playground they might be able to co-create. As she talked and dreamed, the Builder wrote her ideas down in the plans and specifications, and modified the designs to reflect her creativity and insight. "That will be a great improvement to the design," the Builder told her. "I can't believe I left out the swings. Thank you very much for helping me design and build this City on a Hill."
 
 After the little girl skipped away, the Builder turned back to his childhood friend, who was glaring at him with a hard look on his face. "I just don't think we can trust you. Remember in our youth when you had the bright of idea of building a cart to help us carry our supplies? I still remember the lashing my father gave me after the wheels fell right off and all our hard earned supplies tumbled down into the river. What makes you think that you can build an entire City on a Hill? I wouldn't be surprised if the whole damn thing tumbled down the mountain after the first little storm. Just think of how disappointed everyone will be in you then. When that happens, I'll tell them I warned them, and say "I was right about him all along.""
 
