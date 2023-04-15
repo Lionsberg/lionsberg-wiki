@@ -63,7 +63,7 @@ We call on every Citizen to join [[The Movement]] and [[The Battle]] for [[The F
 
 ## What We Need 
 
-To advance meaningfully, we need to secure the [[Catalytic Resources]] required to forge a core team, continue development, and empower [[The Movement]] to advance. Our Ideal Target is $10M to $20M in philanthropic capital raised in April 2023 to enable [[The Game]] and [[The Battle]] to begin in earnest in May 2023. 
+To advance meaningfully, we need to secure the [[Catalytic Resources]] required to forge a core team, continue development, and empower [[The Movement]] to advance. Our Ideal Target is $10M to $20M in philanthropic capital raised in April and May 2023 to enable [[The Game]] and [[The Battle]] to begin. 
 
 We recognize that this is an audacious target, however with life and society on the line integrity demands that we try. 
 
