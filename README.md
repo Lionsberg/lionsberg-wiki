@@ -2,6 +2,8 @@
 
 Welcome. We are glad you are here. 
 
+As told in [[The Story of the Builder]], everything about [[Lionsberg]] is a [[Work In Progress]]. 
+
 As we face into the [[Meta Crisis]], [[Jordan Nicholas Sukut]] and Lionsberg are putting forward the [[Lionsberg Manifesto]], a [[New Vision and Plan]] for humanity, and a [[Lionsberg System]] purpose-built to bring the [[Vision Into Reality]]. 
 
 Our mission is to connect, inspire, and empower a diverse global community to design and build the brighter future we all desire. 
