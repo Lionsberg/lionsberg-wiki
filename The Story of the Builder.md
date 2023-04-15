@@ -26,7 +26,7 @@ Another villager came by and said "Where is the well? How will the Great City ge
 
 The next day the villager came back with the local well expert. They reviewed the plans and specifications, made some improvements, and fixed the location of the well. 
 
-"Wonderful,"" the builder said. "Now we have a wise design for nourishing the Great City with Living Water."
+"Wonderful," the builder said. "Now we have a wise design for nourishing the Great City with Living Water."
 
 The local pastor came by a few days later, and asked "Where will the church be in the Great City?"
 
