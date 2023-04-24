@@ -10,6 +10,9 @@ To explore aspects of the New Vision and Plan in more detail, see:
 - [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]    
 - [[Lionsberg, Simple and Clear]]  
 - [[The Great Game of Lionsberg]]  
+- [[The Lionsberg Strategy and Plan of Action]]  
+
+___
 
 ## Summary 
 
@@ -182,3 +185,5 @@ The quarterly plans inform rolling 6 week look-ahead schedules, which document w
 ## 2 Week Plans 
 
 Teams then execute and pulse on the basis of rapidly adapting 2 week plans, that lead towards the accomplishment of the quarterly objectives, which advance the [[Critical Path]] of the [[System Wide Master Plan]], which leads towards [[The Goal]]. 
+
+For current status and plans in more detail, see [[The Lionsberg Strategy and Plan of Action]]. 
