@@ -1,11 +1,11 @@
-# Above The Chaos - WikiCast
+# Above The Chaos - A Lionsberg WikiCast
 
 Join [[Jordan Nicholas Sukut]] as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]], halt [[The Advance of The Giants]], and [[Forge The New World]]. 
 
 ___
 ## Above The Chaos Overview 
 
-**Purpose**: Inspire, inform, connect and empower the Force For Good. 
+**Purpose**: Inspire, inform, connect and empower the [[Force For Good]]. 
 
 **Niche**: [[Citizens of Goodwill]] engaged in [[The Battle]] to [[Confront And Overcome The Meta Crisis]], halt [[The Advance of The Giants]], and Co-Create the [[New World]] 
 
@@ -22,11 +22,18 @@ ___
 **Format**: A blend of interviews, panel discussions, and solo commentary 
 
 **Hosting and Distribution**:
-1. YouTube 
-2. Google Podcasts 
-3. Apple Podcasts 
-4. Spotify 
-5. Lionsberg Wiki 
+1. YouTube  
+2. YouTube Music  
+3. Google Podcasts  
+4. Apple Podcasts  
+5. Spotify  
+6. iHeartRadio  
+7. Amazon Music  
+8. Castbox  
+9. Overcast  
+10. Radio Public  
+11. Stitcher  
+12. Lionsberg Wiki  
 
 **Guest Selection**: We work with the audience to identify and invite world-class guests with diverse backgrounds and expertise in areas related to podcast's unique purpose. 
 

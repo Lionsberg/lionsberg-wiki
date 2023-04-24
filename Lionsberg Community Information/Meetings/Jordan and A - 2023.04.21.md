@@ -398,7 +398,7 @@ I received many heart emojis, "thanks", "wow that is a lot I'll get to it when I
 
 ## Celebration 
 
-**So let's celebrate this milestone and initial activation!** We have moved from **zero to one** successfully, and we are now a potent small army of ~10 to 12 people who have wrestled with the [[New Vision and Plan]] and the proposed pathway of action and are committed to be a part of its unfolding. 
+**So let's celebrate this milestone and initial activation!** We have moved from **zero to one** successfully, and we are now a potent small army who have wrestled with the [[New Vision and Plan]] and the proposed pathway of action and are committed to be a part of its unfolding. 
 
 ## Still Too Complex 
 

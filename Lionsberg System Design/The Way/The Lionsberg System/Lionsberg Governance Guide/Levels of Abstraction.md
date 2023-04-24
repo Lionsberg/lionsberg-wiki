@@ -17,45 +17,46 @@ At the level of conceptualization, we are engaging with ideas and concepts to de
 
 And at the level of action, we are taking concrete steps to achieve our goals.
 
-## Levels of Abstraction in More Detail
+## Levels of Abstraction - Thought and Action 
 
-1.  Pure Consciousness
-2.  Being 
-3.  Direct Experience 
-4.  Perception
+1.  Source
+2.  Pure Consciousness
+3.  Being 
+4.  Direct Experience 
+5.  Perception
     -   Observation
     -   Sensation
     -   Attention
     -   Awareness
-5.  Intuition
+6.  Intuition
     -   Insights
     -   Hunches
     -   Inspiration
-6.  Conceptualization
+7.  Conceptualization
     -   Abstraction
     -   Imagination
     -   Creativity
     -   Models
     -   Systems Thinking
-7.  Reasoning
+8.  Reasoning
     -   Analysis
     -   Frameworks
-8.  Philosophy
+9.  Philosophy
     -   Ontology
     -   Epistemology
     -   Ethics
     -   Aesthetics
-9.  Theory
+10.  Theory
     -   Environmental Theories
     -   Scientific Theories
     -   Mathematical Theories
     -   Social Theories
     -   Economic Theories
     -   Hypothesis Generation
-10.  Strategy
+11.  Strategy
     -   Strategic Thinking 
     -   Strategic Planning 
-11.  Planning
+12.  Planning
     -   Decision-making
     -   Problem-solving
     -   Goal-setting
@@ -65,7 +66,7 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Delegation
     -   Contingency Planning
     -   Risk Management
-12.  Execution
+13.  Execution
     -   Tactics
     -   Action Steps
     -   Implementation
@@ -73,32 +74,56 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Hypothesis Testing
     -   Skill Development
     -   Performance Improvement
-13.  Impact
+14.  Impact
     -   Outcomes
     -   Effects
     -   Consequences
     -   Results
     -   Data Collection and Analysis
-14.  Context
+15.  Context
     -   Environment
     -   Culture
     -   Society
     -   History
-15.  Learning and Improvement
+16.  Learning and Improvement
     -   Continuous Learning
     -   Continuous Improvement
     -   Adjustment and Adaptation
-16.  Integration
+17.  Integration
     -   Synthesis
     -   Synergy
     -   Interdisciplinarity
     -   Connectedness
     -   Holistic Thinking
-17.  Transcendence
+18.  Transcendence
     -   Transpersonal Psychology
     -   Mysticism
     -   Spirituality
     -   Universal Consciousness
+- 19. Source 
+
+## Levels of Abstraction - Existence 
+
+1. Source  
+2. Logos    
+3. Energy  
+4. Matter  
+5. Microbiome  
+6. Plants  
+7. Animals  
+8. Humans  
+9. Families  
+10. Tribes  
+11. Communities  
+12. Bio Regions  
+13. Geographic Regions  
+14. Nations  
+15. The Human System  
+16. The Living System  
+17. The Lionsberg System  
+18. The Meta System  
+19. Source  
+
 
 ## Levels of Abstraction in Practice
 

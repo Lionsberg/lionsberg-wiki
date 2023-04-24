@@ -6,7 +6,7 @@ Key features of the Lionsberg Platform include:
 
 1.  **Knowledge Repository**: The platform is capable of hosting a vast collection of articles, research, case studies, and other resources covering various aspects of the Meta Crisis, potential solutions, and the [[New Vision and Plan]]. Users can contribute their own insights and expertise to the repository, fostering a collaborative and dynamic learning environment.
     
-2.  **Networking and Collaboration**: The Lionsberg Platform enables users to connect with like-minded individuals, communities, and organizations from around the world. Through various communication channels, such as forums, chat rooms, and direct messaging, users can collaborate on projects, share ideas, and support one another in their collective efforts towards a better future.
+2.  **Networking and Collaboration**: The Lionsberg Platform enables users to connect with like-minded individuals, communities, and organizations from around the world. Through various communication channels, such as forums, groups, and threaded dialogue, users can collaborate on projects, share ideas, and support one another in their collective efforts towards a better future.
     
 3.  **Project Showcase and Support**: The platform provides a space for users to showcase their initiatives, projects, and innovations that contribute to the [[New Vision and Plan]]. This allows users to gain inspiration, learn from others' experiences, and potentially join forces on shared initiatives. The platform also provides resources, tools, and guidance to support project development and implementation.
     
