@@ -17,7 +17,7 @@ To get started, please explore the links below:
 - **Book 2**: [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] is a vision and call to action for America  
 - **Book 3**: [[Lionsberg, Simple and Clear]] offers a comforting and inspiring guide to overcoming the [[Meta Crisis]] and forging a better future  
 - **Book 4**: [[The Great Game of Lionsberg]] offers a gamified substructure for [[The Movement]], and a starting point so simple any individual or family can play  
-- **Book 5**: [[Lionsberg - A Biblical Perspective]] offers an overview of Lionsberg from the perspective of the Bible and Christianity  
+- **Book 5**: [[The Lionsberg Approach to Citizen Led Governance]]   
 - [[Above The Chaos]] is Jordan's blog and a place to find narrative content  
 - [[Jordan's Guide to Lionsberg]] is another starting point. 
 - [[Ideas and Inspiration to Become More Involved]] is a simple starting point on things that you can immediately take action on if you would like to begin finding your unique areas of greatest purpose, passion, and contribution. 

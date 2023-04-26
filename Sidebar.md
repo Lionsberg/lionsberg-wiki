@@ -7,11 +7,8 @@ This site is a [[Work In Progress]]
 # Blogs
 [[Above The Chaos]]   
 
-# Books
-[[Lionsberg, Simple and Clear]] 
-[[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-[[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
-[[The Great Game of Lionsberg]]  
+# Books 
+[[Read The Books]]    
 
 <!-- Comment not rendered visibly to web
 
