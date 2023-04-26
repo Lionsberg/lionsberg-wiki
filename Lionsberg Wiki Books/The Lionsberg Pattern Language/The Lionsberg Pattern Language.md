@@ -1,5 +1,6 @@
 # The Lionsberg Pattern Language
 
+This is a massive [[Work In Progress]]... 
 
 [[Template For Pattern Language (Detailed)]] 
 [[Template For Pattern Language (Simple)]] 
@@ -18,16 +19,17 @@ ___
 
 I. The Universal and Eternal Connection
 
-1.  [[The Mystery of the Creator]]  
-2.  The Divine Intention  
-3.  The Divine Plan  
-4.  The Sacred Balance   
-5.  The Interconnected Web of Life  
-6.  Timelessness and Transcendence  
-7.  The Cosmic Dance  
-8.  Right Relationship Between One and All  
-9.  The Total Nested Hierarchy of Loves 
-10. The Way 
+1.  The Living System 
+2.  The Creator    
+3.  The Divine Intention  
+4.  The Divine Plan  
+5.  The Sacred Balance   
+6.  The Interconnected Web of Life  
+7.  Timelessness and Transcendence  
+8.  The Cosmic Dance  
+9.  Right Relationship Between One and All  
+10.  The Total Nested Hierarchy of Loves 
+11. The Way 
 
 II. The Essence of Being
 

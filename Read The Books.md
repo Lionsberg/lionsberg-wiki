@@ -13,5 +13,6 @@ It also creates an accessible starting point to interacting with the depth of th
 1. [[Lionsberg, Simple and Clear]] - by [[Jordan Nicholas Sukut]]  
 2. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]  
 3. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
-4. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]
-5. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]] 
+4. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
+5. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]] 
+6. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]] 
