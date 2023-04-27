@@ -27,6 +27,7 @@ By [[Jordan Nicholas Sukut]], with AI as translator and accelerant
 [[2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation]]  
 [[2.11. The Pattern for Transforming Towards a Wisdom and Stewardship Based System]]  
 [[2.12. The Pattern for Transforming Towards a Wisdom and Stewardship Based System]]  
+[[2.13. The Pattern For Integrated Delivery of Shared Goals and Values]]  
 
 ## 3.  Implementing Citizen Led Governance 
 
