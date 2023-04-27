@@ -4,7 +4,7 @@ Note: This is a [[Work In Progress]] - the links below the line do not yet work.
 
 The [[New Vision and Plan]] is attached to a rigorous strategy and plan of action. 
 
-[[The Lionsberg Strategy and Plan - Summary]]  is summarized here at a high level. 
+[[The Lionsberg Strategy and Plan - Summary]] summarizes it at a high level. 
 
 The high level plan is broken down into short term quarterly plans targeting [[Milestones]], which inform rapidly iterating weekly cycles. 
 

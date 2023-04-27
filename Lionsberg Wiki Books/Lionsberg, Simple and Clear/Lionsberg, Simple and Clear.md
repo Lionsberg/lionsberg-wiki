@@ -1,6 +1,8 @@
 # Lionsberg, Simple and Clear
 ## A Comforting and Inspiring Guide to Overcoming the Meta Crisis and Co-Creating the New World
 
+By [[Jordan Nicholas Sukut]]  
+
 ## Table of Contents
 
 [[1.  Introduction]]  
@@ -22,3 +24,4 @@
 [[17.  Conclusion - The Power of Unity and Shared Values on Our Collective Journey]]  
 
 [[Read The Books]] 
+Discover other [[Lionsberg Wiki Books]] 

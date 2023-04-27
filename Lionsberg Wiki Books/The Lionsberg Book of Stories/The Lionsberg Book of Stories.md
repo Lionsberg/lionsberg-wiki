@@ -1,6 +1,6 @@
 # The Lionsberg Book of Stories
 
-This is a quick mini-book being drafted in partnership with AI with minimal editing. It is is elementary form and analysis of each story. 
+This is a quick mini-book that is a [[Work In Progress]]. It is is elementary form and analysis of each story. 
 
 ## Stories From The Judeo-Christian Tradition 
 

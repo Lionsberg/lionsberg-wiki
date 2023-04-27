@@ -8,7 +8,7 @@ A facilitator for such a safe place will need to have some unusual skills:
 - insightful reflections
 - asking dignifying questions
 
-A skill badge for conflict resolution would indicate a high likelyhood that the bearer can tame conflict and bring the parties into harmony and trust.
+A skill badge for conflict resolution would indicate a high likelihood that the bearer can tame conflict and bring the parties into harmony and trust.
 
 An excellent and well-developed training is widely available through the [Center for Non-Violent Communication](https://www.cnvc.org/). 
 

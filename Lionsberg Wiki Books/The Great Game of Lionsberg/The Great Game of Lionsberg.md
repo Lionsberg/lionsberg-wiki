@@ -1,6 +1,6 @@
 # The Great Game of Lionsberg
 
-By [[Jordan Nicholas Sukut]] with AI as translator and accelerant 
+By [[Jordan Nicholas Sukut]] 
 This Book is a [[Work In Progress]] 
 
 ## Section I: Introduction

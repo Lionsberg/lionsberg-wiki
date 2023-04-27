@@ -1,6 +1,6 @@
 # The Lionsberg Approach to Citizen Led Governance
 
-By [[Jordan Nicholas Sukut]], with AI as translator and accelerant
+By [[Jordan Nicholas Sukut]]  
 
 ## Table of Contents
 

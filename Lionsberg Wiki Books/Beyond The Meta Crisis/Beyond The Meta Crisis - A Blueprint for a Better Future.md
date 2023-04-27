@@ -1,6 +1,6 @@
 # Beyond the Meta Crisis: A Blueprint for a Better Future 
 
-This is a collaboration of [[Jordan Nicholas Sukut]] with AI as translator and accelerant. 
+By [[Jordan Nicholas Sukut]] 
 
 ## Section I: Introduction 
 

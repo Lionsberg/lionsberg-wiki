@@ -1,6 +1,6 @@
 # A New American Revolution - A Vision for a Stronger, Freer, and More United Nation
 
-By [[Jordan Nicholas Sukut]], with AI as translator 
+By [[Jordan Nicholas Sukut]]  
 
 ## Preface
 
