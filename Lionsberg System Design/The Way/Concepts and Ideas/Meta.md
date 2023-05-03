@@ -12,7 +12,7 @@ The [[Meta Goal]]: the highest universal overarching and uniting "Goal of goals"
 
 The [[Meta Project]]: the highest universal overarching and uniting "project of projects", that by definition contains within itself and orders all other possible projects.
 
-The [[The Way/Concepts and Ideas/Meta Game]]: the highest universal overarching and uniting "Game of games", that by definition contains within itself and orders all other possible games.
+The [[Meta Game]]: the highest universal overarching and uniting "Game of games", that by definition contains within itself and orders all other possible games.
 
 It is critical to note that *by definition*, the intention, object, or goal of the [[Meta Project]] or [[The Way/Concepts and Ideas/Meta Game]] could not be anything other than the [[Meta Goal]].
 

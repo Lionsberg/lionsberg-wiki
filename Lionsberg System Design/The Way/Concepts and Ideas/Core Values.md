@@ -1,3 +1,3 @@
 # Core Values
 
-See [[Universal Values]] and [[Lionsberg Principles and Values]]  
+See [[The Lionsberg Book of Values]]. 

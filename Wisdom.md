@@ -1,7 +1,9 @@
 # Wisdom
 
-[[Wisdom]] is the ability to perceive, orient and act from the highest place; from the place of [[God]], for the purposes of [[God]]. 
+[[Wisdom]] is the ability to perceive, orient and act from the Highest Place. 
 ___
-The deep understanding, insight, and knowledge that arises from intuition, experience, reflection, and learning. In the context of the [[New Vision and Plan]], wisdom is a guiding principle that helps inform decision-making and cultivate discernment in addressing complex challenges.
+The deep understanding, insight, and knowledge that arises from intuition, experience, reflection, learning, and Divine revelation. 
 
-This value impels us to apply knowledge, principles, and values in the [[Wise Right]] Way to our lives and circumstances. 
+In the context of the [[Lionsberg System and Approach]], Wisdom is a guiding principle that helps inform decision-making and cultivate discernment in addressing complex challenges.
+
+This value impels us to apply knowledge, principles, and [[Values]] in the [[Wise Right]] Way to our lives and circumstances. 

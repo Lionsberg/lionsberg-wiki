@@ -1,8 +1,10 @@
 # Values
 
-[[Values]] form the foundation of the [[Lionsberg Manifesto]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative movement that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
+[[Values]] form the foundation of the [[Lionsberg System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative movement that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
 The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[One]] Absolute Meta Value. 
+
+These are reflected in [[The Lionsberg Book of Values]]. 
 
 Some of the core values underpinning the [[New Vision and Plan]] and [[The Great Game of Lionsberg]] include:
 

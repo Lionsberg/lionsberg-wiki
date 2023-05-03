@@ -1,6 +1,8 @@
 # Collaboration
 
 The process of working together with others to achieve a shared goal, create something new, or solve a problem. Collaboration involves open communication, trust, and a willingness to contribute and learn from one another.
+
+The value of collaboration represents a commitment to working together towards a common goal. It means seeking out and valuing the unique contributions of others, and being willing to compromise and negotiate in order to achieve shared objectives.
 ___
 
 [[Systems Thinking]] and [[Integrated Delivery]] require a [[Shift In Mindset]] from “silo” to “system.” This requires collaboration between all the parties involved with a [[Program of Action]].  **_There is only one program, one intention, one vision, one system, and one goal_**. 

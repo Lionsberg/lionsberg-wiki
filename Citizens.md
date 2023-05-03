@@ -1,6 +1,6 @@
 # Citizens
 
-[Citizens]] refers to the members of a political community, such as a city, nation or state, who enjoy certain [[Rights and Responsibilities]] within that community. Citizenship typically implies a legal status conferred by a structure of governance, granting individuals the right to participate in the civic process, access social services, and enjoy other benefits. It also implies a responsibility to abide by the laws and norms of the community, contribute to its well-being, and engage in civic activities that help the community flourish. 
+[Citizens]] refers to the members of a political community, such as a city, nation or state, who enjoy certain [[Rights and Responsibilities]] within that community. Citizenship typically implies a status conferred by a structure of governance, granting individuals the right to participate in the civic process, access social services, and enjoy other benefits. It also implies a responsibility to abide by the laws and norms of the community, contribute to its well-being, and engage in civic activities that help the community flourish. 
 
 The [[New Vision and Plan]] is based on a [[Citizen Led]] response to the [[Meta Crisis]], enabled and empowered by a Citizen Led Lionsberg. Citizens play a crucial role in driving transformative change at all levels of the plan, from individual and local to collective and  global. 
 

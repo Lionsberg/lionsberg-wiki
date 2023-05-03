@@ -1,8 +1,10 @@
 # Courage
 
-  **Pattern Name:** Courage
+**Pattern Name:** Courage
 
 **Description:** Courage is the ability to face difficult or challenging situations with bravery and determination. It involves taking action even when there is a risk of failure or harm.
+
+The value of courage represents the ability to face and overcome fear, and to take action despite uncertainty or risk. It involves being brave and standing up for what one believes in, even in the face of challenges or opposition.
 
 **Values and Virtues:**
 
