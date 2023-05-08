@@ -28,9 +28,9 @@ Our [[Aim]] is for every human to receive an invitation from someone they know a
 
 As part of joining [[The Movement]], they will receive a 3 year period of training, mentoring, and support to learn and practice how to be and collaborate in this [[New]] Way. 
 
-We are going 
-
 The [[2023 Q2 60 Day Plan]] presents a rough outline of what's next, and will be refined in community over the coming weeks. 
+
+We will continue to operate a System Wide Master Plan, tied to Quarterly Plans, against which the decentralized array of Groups can make sprints. 
 
 ## Schedule 
 
@@ -58,14 +58,14 @@ ____
 
 ### Resources Raised and Allocated 
 
-### During The Lionsberg Experience (May 8, 2023 and Beyond)
+#### During The Lionsberg Experience (May 8, 2023 and Beyond)
 
 - Cash: 0 
 - Pledges: 0 
 - In Kind Contributions: ~ $50,000 (Procore, Capo Projects Group)
 - Participant Hours: ~ 15
 
-### By Jordan and early Participants (Pre-May 8, 2023)
+#### By Jordan and early Participants (Pre-May 8, 2023)
 
 - Cash: ~ $ 2 Million (Pre-May 2023) 
 - In Kind Contributions: $ 10M to 20M (Pre-May 2023)  
