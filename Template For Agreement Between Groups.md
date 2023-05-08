@@ -28,8 +28,8 @@ We commit to open and honest communication, mutual support, and shared decision-
 
 To facilitate this, we agree to the following rhythm of communication, check-ins, and [[Retrospective]] between the groups:
 
--   Frequency and method of communication: [Description]
--   Frequency and method of check-ins: [Description]
+-   Frequency and method of **communication**: [Description]
+-   Frequency and method of **check-ins**: [Description]
 -   Frequency and method of [[Retrospective]]: [Description]
 
 To ensure progress towards our shared goals and to maintain harmony within our collaboration, we agree to:

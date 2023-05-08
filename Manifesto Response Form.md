@@ -18,7 +18,7 @@ To complete the [[Manifesto Response Form]], please provide the following inform
 6.  Who invited you to participate? 
 7.  Briefly describe your personal motivation for joining [[The Movement]] and how you can contribute your skills, knowledge, and passion to [[The Battle]]. 
 8.  Please indicate what [[Meaningful Initial Contribution]] you can commit to.This will help generate the Catalytic Resources necessary to advance.
-9.  Please indicate what [[Meaningful Monthly Contribution]] you can commit to. This can change any time. This will help generate committed runway for the movement.
+9.  Please indicate what [[Reciprocal Monthly Contribution]] you can commit to. This can change any time. This will help generate committed runway for the movement.
 10.  If you would like to participate and **Join The Platform,** please check "yes" and we will send you an invitation code. 
 11. Are you interested in leveraging the Lionsberg Infrastructure, Platform, and Network to raise funds for your aligned initiatives via Fiscal Sponsorship or Equity Stewardship? If Yes, we will contact you to follow up.
 12.  Please share any additional thoughts or. questions you have about the [[New Vision and Plan]] or [[The Great Game of Lionsberg]].
@@ -37,4 +37,4 @@ For definitions of terms used in the form, see:
 [[Members]] 
 
 [[Meaningful Initial Contribution]]  
-[[Meaningful Monthly Contribution]]  
+[[Reciprocal Monthly Contribution]]  

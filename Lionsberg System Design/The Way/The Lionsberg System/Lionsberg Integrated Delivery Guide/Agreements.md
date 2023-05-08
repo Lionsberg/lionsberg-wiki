@@ -28,12 +28,19 @@ Recognizing we cannot accomplish [[The Goal]] alone, the third imperative is to 
 
 [[Template For Agreement to Collaborate]]  
 
-## Agreements With Groups 
+## Agreements With Groups - First Degree Collaboration 
 
 Collaboration often will evolve out of or into a more persistent group. Participation in a group will often lead into collaboration between groups. 
 
 - [[Template For Agreement With Group]]  
+
+## Agreements Between Groups - Second Degree Collaboration 
+
 - [[Template For Agreement Between Groups]]  
+
+## Agreement with Lionsberg - Federal Agreement
+
+- [[Lionsberg Membership Agreement]]  
 
 ## Integrated Delivery Agreements  
 

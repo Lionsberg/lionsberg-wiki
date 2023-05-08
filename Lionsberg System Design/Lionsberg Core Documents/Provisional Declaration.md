@@ -1,6 +1,8 @@
 # Provisional Declaration
 This is a living document that is a [[Work In Progress]]. 
 
+It is updated in the [[Lionsberg Manifesto]]. 
+
 **CONTEXT**
 
 In our quest towards a better future, humanity and life on earth are facing an unprecedented complex of challenges and opportunities.

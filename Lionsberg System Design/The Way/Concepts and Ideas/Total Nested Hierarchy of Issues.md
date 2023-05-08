@@ -125,3 +125,193 @@ Challenges identified included issues such as:
 84. **Disproportionate influence of national superpowers in international institutions**: The disproportionate power of national superpowers in international institutions, such as the United Nations (UN), World Trade Organization (WTO), World Bank, International Monetary Fund (IMF) and others, can prevent other countries from effectively participating in global decision-making and can perpetuate inequalities. Ensuring that the power and influence is properly balanced in international institutions is key to addressing global challenges and promoting equitable and sustainable governance and development for all communities. 
 85. **Corruption of religious leaders**: The corruption of religious leaders by governmental and economic forces, who encourage them to use their positions of religious authority to unduly influence the thinking of the populations, can undermine the integrity of religious institutions and hinder the promotion of ethical values. Protecting the independence and integrity of religious leaders and institutions from outside interference can be important in addressing global challenges and promoting just and fair societies. 
 86. **Supply chain challenges**: There are many challenges and issues related to supply chains that can impact their sustainability and effectiveness. These include environmental impacts, social impacts, lack of transparency and accountability, risk and resilience, and inefficiency and waste. Ensuring that supply chains are sustainable, transparent, and efficient can be important in addressing global challenges and promoting just and fair societies.
+
+____
+
+## The Top Issues Dividing the United States and the World, by Category 
+
+The government should never compel any individual or locality to act in a manner that is contrary to their conscience. 
+
+### 1. Vision and Values  
+1. Vision  
+2. Wisdom, Principles, and Values  
+
+### 2. Culture and Society 
+
+1.	The function and role of culture and society  
+2.	Polarization and Division   
+3.	Social Justice   
+4.	Income Justice    
+5.	Racial Justice   
+6.	Identity Justice    
+7.	Gender Justice  
+8.	Marriage and Family  
+9.	Drugs and Alcohol  
+
+
+### 3. Government and Politics
+
+1.	The function and role of government  
+2.	The proper role of individual government  
+3.	The proper role of local government  
+4.	The proper role of regional government  
+5.	The proper role of federal government  
+6.	The proper role of politics  
+7.	Political Parties  
+8.	Infrastructure  
+9.	Security     
+10.	Social Safety Nets  
+11.	Election Integrity  
+12.	Election Interference  
+13.	Election Finance    
+14.	Government Surveillance and Privacy  
+
+### 4. Economy 
+
+1.	The function and role of the economy  
+2.	Employment  
+3.	Inflation  
+4.	Taxation   
+5.	Private Deficit and Debt  
+6.	Monetary Policy  
+7.	The Federal Reserve  
+8.	Economic Justice  
+9.	Equal Opportunity  
+10.	Socioeconomic Mobility  
+11.	AI, Robotics, and Advanced Technologies  
+
+### 5. Religion  
+
+1. The function and role of religion  
+2. Religious Freedom   
+3. Religious Tension   
+4. Religious Harmony   
+  
+###  6. Environment 
+
+1. The function and role of the environment  
+2. Stewardship of Natural Resources  
+3. Climate Change  
+4. Biodiversity  
+5. Environmental Collapse  
+6. Pollution  
+7. Micro Plastics and Toxins  
+8. Munitions  
+9. Healthy Soil  
+10. Healthy Air  
+11. Healthy Water  
+12. Environmental Regeneration  
+13. Parks and Reserves  
+14. Regenerative Society and Economy   
+15. Animal Rights  
+16. Animal Testing  
+
+### 7. Energy 
+
+1. The function and role of energy  
+2. The energy ladder  
+3. Fossil fuels  
+4. Renewable Energy  
+5. Nuclear and Plasma  
+6. Responsible Energy Transition  
+7. Energy Policy  
+
+### 8. Security and Defense
+
+1. The function and role of security and defense  
+2. Family security & arms   
+3. Community security & policing   
+4. National security & military   
+5. Control of Advanced Tools and Technologies   
+6. Cybersecurity  
+7. Violence Prevention  
+8. Veterans Affairs  
+
+### 9. Technology and Communication
+
+1. Internet access  
+2. Internet censorship  
+3. Privacy and Surveillance    
+4. Data Sovereignty  
+5. Social media  
+
+### 10. Justice and Law 
+
+1. Universal Justice and Law  
+2. Criminal Justice Reform  
+3. Restorative Justice  
+4. Incarceration  
+5. Recidivism   
+
+### 11. Foreign policy: 
+
+1. Foreign Relationships  
+2. The Role of Nations in the World  
+3. The Role of the United States in the World  
+4. The Role of the United Nations in the World  
+5. The Role of Lionsberg in the World   
+6. Trade Policy  
+7. Foreign Aid  
+8. Immigration  
+
+
+### 12. Human Rights and Responsibilities 
+
+1. Rights and Responsibilities of All  
+2. Rights and Responsibilities of Women   
+3. Rights and Responsibilities of Men  
+4. Rights and Responsibilities of Children  
+5. Rights and Responsibilities of the Unborn  
+
+### 13. Environmental Rights and Responsibilities  
+
+1. Natural Rights and Responsibilities  
+2. Soil Rights and Responsibilities   
+3. Water Rights and Responsibilities   
+4. Air Rights and Responsibilities   
+5. Plant Rights and Responsibilities   
+6. Animal Rights and Responsibilities   
+
+### 14. Human Needs 
+
+1. Air  
+2. Water  
+3. Food  
+4. Shelter  
+5. Security  
+6. Sleep  
+7. Clothing  
+8. Freedom  
+9. Family Planning and Assistance  
+10. Heath and Wellbeing  
+11. Love and Belonging   
+12. Esteem  
+13. Learning and Education   
+14. Economy  
+15. Infrastructure  
+16. Technology  
+17. Physical Mobility 
+18. Socioeconomic Mobility  
+19. Justice  
+20. Purpose and Meaning  
+21. Self Actualization  
+22. Self Transcendence  
+23.  Oneness  
+
+### 15. A Whole Systems Approach 
+
+1. Systems Thinking  
+2. Throughput of The Goal  
+3. Value  
+4. Waste  
+5. The Critical Chain  
+
+### 16. Government Funding and Spending 
+
+1. Taxation  
+2. Public Deficit and Debt  
+3. Fiscal Stewardship   
+4. Prioritizing Spending    
+ 
+
+

@@ -18,10 +18,11 @@ The Lionsberg System is composed of a number of core components, which work toge
 1.  A legal and governance infrastructure to facilitate emergence
 2.  A story big enough to reunite humanity, the [[Living System]], and its [[Source]], and a way for all individuals, tribes, and nations to find their place in it 
 3.  A technological platform to connect and empower individuals, organizations, and communities around the world 
-4.  An [[Integrated Delivery System]] to align, resource and monitor progress towards The Goal
-5.  A code to guide behavior in community
-6.  A constitution or declaration that establishes the values and principles of the system
-7.  A conceptual System of Systems to connect and empower all tribes, nations, and peoples.
+4.  A [[Lionsberg Integrated Delivery System]] to align, resource and monitor progress towards [[The Goal]] 
+5. A [[Lionsberg Navigation System]] to orient and navigate along the [[Critical Path]] towards [[The Goal]]
+6.  A code to guide behavior in community
+7.  A constitution or declaration that establishes the values and principles of the system
+8.  A conceptual System of Systems to connect and empower all tribes, nations, and peoples.
 
 The Lionsberg System is not a monolithic solution, but rather a set of modular solutions that can be adopted in the wise right order by any individual or locality, based on their unique context and needs. It is continually improved as a reflection of our current best understanding of how to create the conditions for emergence among a massive, diverse, and distributed group of groups. 
 
@@ -154,7 +155,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 [[Lionsberg Engagement System]]  
 [[Lionsberg Story System]]  
 [[Lionsberg System of Continuous Improvement]]  
-[[Lionsberg System of Communication]]  
+[[Lionsberg Communications System]]  
 [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
 [[Lionsberg System of Governance]]  
 [[Lionsberg Academy]] - Lifelong Learning 

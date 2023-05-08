@@ -1,46 +1,38 @@
 # Introduction To Integrated Delivery
 
-Hello. We are glad you are here. 
+This guide exists to empower humanity to solve our global challenges and design and build a flourishing [[New World]]. On time. On budget. On quality. For the benefit of [[All]]. 
 
-This guide is written to help guide humanity through how to solve our global challenges and design and build a flourishing [[New World]]. On time. On budget. On quality. For the multi-generational benefit of all life.
-
-WARNING - THIS INTEGRATED DELIVERY SYSTEM WILL BRING WHATEVER YOU POINT IT AT INTO REALITY, SO BE CAREFUL WHAT YOU AIM AT! 
+WARNING - THIS INTEGRATED DELIVERY SYSTEM WILL BRING WHATEVER YOU POINT IT AT INTO REALITY. BE CAREFUL WHAT YOU [[AIM]] AT! 
 
 This [[Lionsberg Integrated Delivery Guide]] outlines leading thinking from the architecture, engineering, and construction industry on how to merge thousands of years of industry experience with modern lean and agile methodologies developed through manufacturing and technology, into a new paradigm of Lean Integrated Delivery. 
 
-It explains how this methodology can be used to unite a global community of sovereign individuals, organizations, institutions and communities into a functional and coherent [[Group Of Groups]] working together to transparently and effectively solve the problems we are facing and forge the better world we all desire. 
+It explains how this methodology can be used to unite a global community of sovereign individuals, organizations, institutions and communities into a functional and coherent [[Group Of Groups]] working together to transparently and effectively solve the problems we are facing and forge the better future we all desire. 
 
 It explains how this effort can leave in it’s a wake a [[Common Inheritance]] of infrastructure, systems, ideas, culture, and technology that can empower humanity and the entire living system towards a future that is better in every way than the past we are leaving behind. 
 
-It is intended as an accompaniment to [[The Book of Lionsberg]], [[The Way]], and the [[The Lionsberg Meta Guide]] which lay out other critical elements of the [[Lionsberg System]], including structure, governance, culture, and values. 
+It is intended as part of the [[The Lionsberg Meta Guide]] which lays out other critical elements of the [[Lionsberg System]], including structure, governance, culture, and values. 
 
 In places, this document may feel a bit awkward, because it is written over a technical base document that represents tens of millions of dollars of thought and effort towards a specific goal. 
 
-The underlying technical work was commissioned and paid for by the US Federal Government in partnership with the State of California in order to determine the leading edge thought and process for setting up **seven billion dollar programs of action** under a single **Lean Integrated Program Delivery umbrella**. It outlines the concept of a system so off track, that the court ordered a Receiver to take control of it, and create a coordinated program of action to get it back on track. Sounds a bit like our [[Old World]]. 
+The underlying technical work was commissioned and paid for by the US Federal Government in partnership with the State of California in order to determine the leading edge thought and process for setting up **seven billion dollar programs of action** under a single **Lean Integrated Program Delivery umbrella**. It outlines the concept of a system so off track, that the court ordered a [[Receiver]] to take control of it, and create a coordinated program of action to get it back on track. Sounds a bit like our world. 
 
 When the global economy collapsed in 2009, the project was shelved, and the document never reached the public domain. However, because it was paid for federal and state government through a court ordered process, it was not copyrighted and was free to be adapted, modified and used. Members of our coalition that participated in its inception made it available to us as a baseline. 
 
 Through extensive research, we had previously identified a hypothesis that an elevated and adapted version of Lean Integrated Program Delivery would be the most appropriate and proven methodology to:
 
-1. Solve the total set of grand challenges  
-2. Accomplish the total set of global goals  
-3. Design and build the best possible future for [[All]].  
+1. Solve the total set of [[Grand Challenges]]   
+2. Accomplish the total set of [[Global Goals]]  
+3. Design and build the [[Best Possible Future]] for [[All]].  
 
 As we began to articulate the [[Lionsberg Integrated Delivery System]], our friends alerted us that tens of millions of dollars and many years had been invested into this system, and that it was available for our use and adaptation. 
 
-We therefore used it as a **starting point** for the [[Lionsberg Integrated Delivery System]]. 
-
-As we have worked to help the [[Meta Project]] and [[Meta Community]] recognize and organize itself, we have found that time and time again the resources and elements that we need have been provided to us, in far better ways than we could have imagined, from totally unexpected sources. We have discovered that people have spent lifetimes and tremendous resources creating pieces of the puzzle that are provided just-in-time when they are needed. This is a marker that we are on the right track.
+We therefore used it as a **starting point**.  
 
 What is presented in this Delivery Guide is not a “project” – it is an **Integrated Delivery System** designed to bring [[Intention Into Reality]] at scale in massively complex environments. 
 
-Holding the keys to such a system, towards what [[Intention]] and [[Goal]] shall we direct it? 
+Holding the keys to such a system, what shall we [[Aim]] it at? 
 
-It will bring whatever we point it at into [[Reality]]. It is that powerful. So what shall we aim at?
-
-It cn be expressed in many different ways, but there is only one answer: 
-
-The [[Meta Goal]] - _[[The Highest Intention and Greatest Good of Which We Can Presently Conceive]]._ 
+There is only [[One]] answer, and that is [[The Goal]]. 
 
 How? 
 

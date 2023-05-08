@@ -2,6 +2,8 @@
 
 This is a [[Work In Progress]] that Aims to bring together the various Guides into a comprehensive Meta Guide. Please be patient with tones, tenses and voices that are discordant or repetitive. 
 
+
+
 ## Introduction
 
 Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of Systems]] to empower humanity (10 billion people, 1 billion groups, 10 million communities) to bring it into reality. 
@@ -13,9 +15,7 @@ Lionsberg is a mythical name for the [[Best Possible Future]], and a [[System of
 
 ### System Overview 
 
-The Lionsberg System is a [[System of Systems]], purpose-built to create [[Throughput]] of [[The Goal]]. 
-
-[[Lionsberg System]]  
+The [[Lionsberg System]] is a [[System of Systems]], purpose-built to create [[Throughput]] of [[The Goal]]. 
 
 ### A Vision Of A More Perfect World  
 
@@ -52,7 +52,7 @@ Having aligned our [[Aim]], the system then connects and empowers sovereign auto
 
 Having inspired, aligned, and empowered sovereign autonomous groups to progress towards [[The Goal]], the System then sets out universal [[Principles]] and [[Values]] to create the boundaries in which creative progress can occur. 
 
-[[Lionsberg Principles and Values]] 
+[[The Lionsberg Book of Values]]  
 
 ## Levels of Abstraction 
 
@@ -62,6 +62,7 @@ The Lionsberg System sets out a sophisticated and differentiated view of the var
 
 ## A Comprehensive System of Systems 
 
+[[Lionsberg System]]  
 
 ## The Lionsberg System of Self-Governance 
 

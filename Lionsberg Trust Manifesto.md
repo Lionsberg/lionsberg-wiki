@@ -1,6 +1,6 @@
 # Lionsberg Trust Manifesto
 
-_Updated March 2023_
+_Updated May 2023_
 
 This document serves as a "Trust Manifesto" in response to requests from the community. It aims to establish a comprehensive source of information addressing the core questions people have when encountering something new. For additional information, see also [[Frequently Asked Questions]]. 
 
@@ -10,40 +10,62 @@ This document is a [[Work In Progress]].
 
 [[Lionsberg]] symbolizes the [[New World]] we are co-creating, the Community nurturing it, and the System bringing our shared Vision into Reality. 
 
-The [[Meta Project]] describes the all-encompassing Program of Action required for humanity to manifest this vision.
-
-## Differentiation 
-
-While the [[Meta Project]] refers to the highest universal level of abstraction, [[Lionsberg]] focuses on embodying the [[Meta Idea]] in our time and place on Earth.
+The [[Meta Project]] describes the all-encompassing Program of Action required for humanity to progressively realize the [[New Vision and Plan]]. 
 
 ## Source Idea  
 
-[[Jordan Nicholas Sukut]] is the primary steward of the Source Idea, supported by dozens of co-creators. 
+[[Jordan Nicholas Sukut]] is the primary steward of the Source Idea, supported by dozens of co-creators over the last several years. 
 
 ## Genesis of the Source Idea
 
-Jordan's pursuit of this idea began at a young age. The Source Idea seeks to realize the [[Highest Intention and Greatest Good]] for All - a goal that has remained constant throughout his journey.
+Jordan's pursuit of this idea and Ideal began at a young age. The Source Idea seeks to progressively realize the [[Highest Intention and Greatest Good]] for [[All]] - a goal that has remained constant throughout his journey.
 
-Jordan's background in heavy civil infrastructure provided him with valuable experience in understanding an architect's intent, analyzing forces and conditions, and transforming the physical world to bring intentions into reality. 
+Jordan's background in heavy civil infrastructure provided him with valuable experience in understanding an architect's intent and the [[Total Nested Hierarchy of Goals]] it implies, analyzing forces and conditions, and transforming the physical world to bring intentions into reality. 
 
-We are applying this same approach towards the transformation of [[Worksite Earth]]. 
+In 2016 and 2017, [[Jordan]] began discussing the concept of an overarching and uniting [[Designer's Intent]] for [[Worksite Earth]] with a small circle of people, and conceptualizing a strategy, platform, and plan of action big enough that it might work to transform our lives and our world within a single generation. 
 
+## Foundation of Lionsberg 
+
+Unable to identify any existing effort or institution, that if driven to its logical end would accomplish [[The Goal]], Jordan and his allies determined that a [[New]] platform was required. 
+
+After years of legal, governance, and organizational research with dozens of advisors, this eventually led to the founding of [[Lionsberg]]. The Lionsberg [[Provisional Structure]] was approved by the IRS in 2019. 
+
+[[Lionsberg]] was purpose-built with the solve intention of manifesting the [[Highest Intention and Greatest Good]], [[On Earth As it Is In Heaven]]. 
 
 ## Corruption and Injustice 
 
-Jordan faced challenges when his naïveté clashed with corrupt power structures within church and state. This confrontation resulted in personal loss and the loss of the companies he was building. 
+In 2019, Jordan faced challenges when his naïveté clashed with corrupt power structures within church and state on two significant infrastructure and building projects. This confrontation resulted in the loss of his home, wealth, and companies in 2021 and 2022. 
 
-## The Reemergence of Lionsberg
+## The Reemergence of Lionsberg and the Meta Project
 
-By early 2022, Jordan and his family had recovered, and the necessary technological backbone was developed to commence the social experiment through Lionsberg. 
+By early 2022, Jordan and his family had recovered, the dust had settled from the destruction of the previous season, and the necessary technological backbone and network was developed enough to commence the social experiment. 
 
-In Q1 2022, Jordan began convening meetings to begin to explore the concept of an all-encompassing [[Meta Project]] larger than any one movement, group, or nation. 
+In Q1 2022, Jordan began convening meetings to begin to explore the concept of an all-encompassing [[Meta Project]] larger than any one movement, group, or nation, while teams continued to improve the core infrastructure and articulation of the ideas. 
+
+By late 2022, the pattern for organizing and federating such an effort was becoming clear, and the need to move from the abstraction of the [[Meta Project]] into its concrete expression through [[Lionsberg]] was clear. Because the [[Provisional Structure]] established Lionsberg as a self-governing voluntary association, initially stewarding resources through a 501(c)(3) public charity, it emerged from the two previous years of testing stronger than ever. 
+
+## Foundational Literature 
+
+In Q1 2023, [[Jordan]] finished roughing out the foundational literature, including: 
+
+1. [[Lionsberg Manifesto]] 
+2. [[Lionsberg, Simple and Clear]] 
+3. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] 
+4. [[The Great Game of Lionsberg]] 
+5. [[The Lionsberg Approach to Citizen Led Governance]] 
+6. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] 
+7. [[The Lionsberg Book of Quotes]] 
+8. [[The Book of Lionsberg]] 
+
+## The Lionsberg Experience Begins 
+
+In May 2023, [[The Lionsberg Experience]] began. 
 
 ## Pattern Integrity
 
-The [[Fundamental Tone]], which unifies all aspects of the System, Pattern, and Community, is [[Love]]. [[Love]] encompasses all other [[Values]], such as Truth, Justice, Stewardship, Wisdom, Goodness, and Beauty.
+The [[Fundamental Tone]], which unifies all aspects of the System, Pattern, and Community, is [[Love]], flowing from [[Source]].  [[Absolute And Unconditional Love]] encompasses and calls forth all other [[Values]], such as Truth, Justice, Stewardship, Wisdom, Goodness, and Beauty.
 
-A level deeper, it is ultimately the Spirit  or Source of [[Love]], or [[God]]. 
+At the deepest level, it is ultimately the Spirit or Source of [[Love]] and [[Life]], which in English we call [[God]]. 
 
 ## Transformations Over Time 
 
@@ -51,8 +73,7 @@ The [[Meta Idea]] is eternal and unchanging, while the universe and our understa
 
 ## Evolutionary / Transformational Purpose
 
-Lionsberg's purpose is to invite [[All]] things into [[Higher Order Functional Unity]] in partnership with [[One]] and [[All]]. The evolutionary goal is the reintegration of the entire human species with the [[Living System]] and its [[Source]].
-
+Lionsberg's purpose is to invite and empower [[All]] beings to rise towards [[Higher Order Functional Unity]] in partnership with [[One]] and [[All]]. The evolutionary goal is the reintegration of the entire human species with the [[Living System]] and [[Source]] that give rise to and sustain us [[All]]. 
 
 ## Vision of the Future 
 
@@ -60,13 +81,21 @@ As a result of our collective efforts, we envision a future where humanity has t
 
 The [[Best Possible Future]] is within reach, awaiting humanity's collective decision to work together for the good of [[All]] generations of life and consciousness.
 
+## Process For Progressive Realization 
+
+We will progressively realize this Vision and Ideal by inviting individuals and groups to federate with Lionsberg, thereby connecting them to a continuously improving set of resources, benefits, and value provided by the Lionsberg Community, System, and Platform. 
+
+Every individual and group that connects with Lionsberg will gain equal access to the [[Lionsberg Commons]], which will host an ecosystem of continuously improving resources, tools, services, and technologies to help participants rise towards the fullness of their potential and flourish. 
+
+Individuals and Groups will work together to steward and continuously improve The Movement and The Commons that is helping All rise towards their potential and flourish. 
+
 ## Where We Are 
 
-We will do our best to keep updated with [[Where We Are]] on the [[Lionsberg History and Inception]] page. 
+We will do our best to keep updated with [[Where We Are]] on the [[Lionsberg History and Inception]] page, and through [[The Lionsberg Experience]]. 
 
-## Investments Prior to  2023
+## Investments Prior to Q2 2023
 
-The development work through 2022 has been financed solely by [[Jordan Nicholas Sukut]] through the Lionsberg 501(c)(3) public charity, resulting in a pure, transparent, and publicly accountable structure with no obligations but to [[One]] and [[All]]. 
+The development work through Q1 2023 was financed by [[Jordan Nicholas Sukut]] through the Lionsberg 501(c)(3) public charity, resulting in a pure, transparent, and publicly accountable structure with no obligations but to [[One]] and [[All]]. 
 
 Dozens of people have invested time, ideas, and expertise to help advance the platform and community. 
 
@@ -74,7 +103,7 @@ Dozens of people have invested time, ideas, and expertise to help advance the pl
 
 The journey towards the [[Best Possible Future]] is paved with transformation, collaboration, and unity. It will require the collective effort of every individual, every community, and every nation, as we walk the path together, hand in hand, guided by our shared principles and values.
 
-For more detail on the [[New Vision and Plan]], see [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
+For more detail on the [[New Vision and Plan]], see [[Beyond The Meta Crisis - A Blueprint for a Better Future]], and [[Read The Books]]. 
 
 ## Conclusion
 

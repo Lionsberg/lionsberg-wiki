@@ -33,11 +33,11 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 - One Word: [[Love]] - Sums up the entire System / Platform / Community in one word   
 - [[One Sentence]]  - Sums up the entire System / Platform / Community in one sentence  
 - [[One Page]]  - Sums up the entire System / Platform / Community in one page  
-- [[Core Intention]] - The Intention  
+- [[Lionsberg Intention]] - The Intention  
 - [[Core Goal]] - The Aim
 - [[Core Values]] - Briefly outlines the foundation in universal / core Values  
 - [[Lionsberg Vision]] - Briefly paints a picture of the outcome  
-- [[Core Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
+- [[Lionsberg Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
 - [[Provisional Trust Manifesto]] - Briefly outlines the inception, history, and resourcing of the initiative to date to create transparency into origins  
 - [[Provisional Declaration]] - Placeholder as Constitution is developed 
 - [Lionsberg Wiki](https://www.Lionsberg.wiki) - Portal to hundreds pages of supporting content, details, and concepts  

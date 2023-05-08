@@ -19,7 +19,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ### Social Media Strategy
 
--   Post 6 days a week, starting the first week of May
+-   Post 6 days a week, starting the third week of May (based on Above The Chaos first episode published by third week of May)
 -   Content centered around "Above the Chaos" interviews and episodes
 
 ### Email List Strategy
@@ -34,9 +34,9 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ### The Lionsberg Experience
 
--   Begin unfolding "The Lionsberg Experience" week of May 1st
+-   Begin unfolding "The Lionsberg Experience" week of May 8th
 -   Connect, empower, and enlighten the Force For Good
--  Create a continuously improving experience / experiment  
+-   Create a continuously improving experience / experiment  
 
 ### The Message / Communications Strategy
 
@@ -46,14 +46,15 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ### A Core Group of Members / Servant Leaders
 
--   Work with a small, committed group of members
+-   Work with a small, **committed group** of members
 -   Establish and track agreements to advance the critical path
 
 ### Continuously Improving Resourcing and Support
 
 -   Set up crowdfunding and member contributions
 -   Engage high net worth patrons and foundations
--   Encourage self-resourcing and mutual support
+-   Encourage self-resourcing and mutual support 
+-   Begin pursuing key grant opportunities with prequalified partner organizations 
 
 ### Continuously Improving Citizen Engagement
 
@@ -65,14 +66,14 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ## Tools for This Quarter
 
--   Establish simple agreements and tracking mechanisms
--   Set up communication tools (e.g., Mattermost)
--   Utilize task management tools (e.g., Asana)
+-   Establish simple agreements and tracking mechanisms (e.g., Lionsberg Membership Agreement, 1st Degree Group Agreements, and Lionsberg Units of Value)
+-   Set up communication tools (e.g., Chat.Lionsberg.org) 
+-   Set up groups on platform (e.g., Community.Lionsberg.org)
+-   Utilize task management tools (e.g., Procore, P6, and Airtable) 
 
 ## Agreements
 
 -   Structure an initial set of agreements for ongoing improvements
--   Draft a subscription agreement or evolve the Manifesto Response Form for those interested in participating
 
 
 # 2023 Q2 Plan - Detailed
@@ -80,13 +81,19 @@ It also contains a brief look-back on the plan and work accomplished in January 
 ## 2023 Q1 120 Day Plan January through April (Recap for Context)
 
 - Break the momentum on abstract Meta Project discussions 
-- Shift to focus in on the [[Critical Path]] we can control through [[Jordan]] and [[Lionsberg]] 
+- Shift to focus in on the [[Critical Path]] we can control through [[Lionsberg]] 
 	- Speak, inspire, and connect up the Force For Good 
-	- Focus on Communication rather than coordination among the network - Decentralized and self-organizing action so Jordan and Lionsberg do not become a bottleneck 
-	- Jordan focuses on inspiring and finding new people and resources, and bringing them together through the Lionsberg Platform 
+	- Focus on Communication rather than coordination among the network - Decentralized and self-organizing action so Jordan / Core Teams / Lionsberg do not become a bottleneck 
+	- Jordan focuses on inspiring and finding new people and resources, and bringing them together through the Lionsberg Platform / Community / System / Approach
 	- Two way Request For Guidance navigation system can then begin operating. 
 - Free up meeting schedules until we can meaningfully engage next steps 
 - **Hypothesis** - a well resourced core team working full time with Jordan is the critical path that makes subsequent steps possible. Secure the runway. 
+	- Donations 
+		- High Net Worth Individuals and Foundations
+		- Crowd Funding and Support 
+	- Grants for Core Team and Infrastructure 
+	- Grants for Related Projects w/ 10% to Core Team and Infrastructure 
+	- Establish Resourcing Function 
 - **Issue** - People are having difficulty perceiving a coherent strategy and plan. 
 - Secure Resources to Establish a Core Team to work with Jordan to serve and empower the network, and continue development of infrastructure, resources, groundswell and support. 
 - Publish the [[New Vision and Plan]] - complete April 2023
@@ -99,7 +106,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 - Publish another few hundred additional  [[Lionsberg Wiki]] pages to clarify linked topics - complete April 2023
 - Visit the Amazon with Amazon Sacred Headwaters Alliance - March 2023 
 - Develop the [[Lionsberg Platform]] into minimum viable form - complete April 2023 
-- Send out first new invitational pulse indicating Jordan and Lionsberg's pathway forward. Complete April 14 - see [[Raising A Standard]]. 
+- Send out first new invitational pulse indicating our pathway forward. Complete April 14 - see [[Raising A Standard]]. 
 - Receive responses via [[Manifesto Response Form]] - Complete April 21 
 - Establish Public Broadcasting capabilities via [[Above the Chaos - WikiCast]] - Complete April 24 
 - Clean out Lionsberg Asana to prepare for new project and program management - Complete April 
@@ -114,7 +121,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 	- A channel for Jordan to speak and inspire publicly 
 	- A chance to "open source" the process of getting the community up to speed on all the various issues and opportunities. 
 - Plan: 
-	- Jordan to begin lining up guests, and publish first episode by first week of May 
+	- Jordan to begin lining up guests, and publish first episode by third week of May 
 	- Record first 10 episodes by end of Q2 
 	- Publish first 8 episodes by end of Q2 
 	- Guests scheduled out 6 weeks in advance by end of Q2 
@@ -122,7 +129,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ### Public Speaking 
 
-- In addition to hosting the [[Above the Chaos - WikiCast]], we should get Jordan on other podcasts, panels, and relevant stages  
+- In addition to hosting the [[Above the Chaos - WikiCast]], we should get Jordan (++ others) on other podcasts, panels, and relevant stages  
 - Plan 
 	- Develop a list of High Value Targets 
 	- Begin outreach / pipeline 
@@ -132,7 +139,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 ### Social Media Strategy 
 
-- We have set up a basic social media strategy around [[Jordan]] for now, with [[Lionsberg]] to follow. 
+- We have set up a basic social media strategy - starting with our individual voices, building towards our collecting voice through [[Lionsberg]].
 - The [[Above the Chaos - WikiCast]] will generate weekly long-form content to distribute, along with shorter clips. 
 - This should ensure content for at least 3 to 6 posts a week, with the Ideal being content 6 days a week Sunday - Friday 
 - Plan 
@@ -158,7 +165,7 @@ It also contains a brief look-back on the plan and work accomplished in January 
 
 - We have built a brand, infrastructure and platform around Lionsberg for the purpose of connecting and empowering the Force For Good  
 - We have set up a minimum viable [[Lionsberg Platform]] - see [[Join The Platform]]  
-- Starting May 1st, we will begin unfolding [[The Lionsberg Experience]], creating an array of different ways for people of Goodwill to engage with [[Jordan]], the ideas, the platform, and others who respond to [[The Message]]. 
+- Starting May 8th, we will begin unfolding [[The Lionsberg Experience]], creating an array of different ways for people of Goodwill to engage with [[Jordan]], the ideas, the platform, and others who respond to [[The Message]]. 
 - Connect, Empower, and Enlighten the Force For Good
 
 ### The Message / Communications Strategy 
@@ -206,6 +213,25 @@ It also contains a brief look-back on the plan and work accomplished in January 
 - There are a group of leaders and initiatives (Mark, Penelope, Ben, Tim, Atossa, Jordan, Pete, Jason, Vincent, Geo, Elliot, Olivier, Ava, Kenya etc. etc. who may want to leverage the platform for fiscal sponsorship, citizen assemblies, citizen groups, crowd funding, impact projects etc. )
 - Continue to develop pathways to support, engage,  connect, serve.  
 
+### Groups / Businesses 
+
+- Start the first few functional "groups", some of which may develop into federated businesses 
+- Service Team 
+- Publishing 
+- Above The Chaos 
+- Groundswell 
+- ++ 
+
+### Grant Pursuits 
+
+- Develop a grant pursuits team 
+- Prequalify grant pursuit partners 
+- Set up grant pursuit platform via Procore 
+- May - vet and prequalify initial partner list for NSF opportunity 
+- June and July - Develop NSF plan, and list of additional HVTs 
+- August - Write NSF Grant Proposal 
+- September - Red Team and Submit NSF Proposal 
+
 ## Tools For This Quarter 
 
 - Set up simple [[Agreements]] - formal or informal 
@@ -228,4 +254,3 @@ It also contains a brief look-back on the plan and work accomplished in January 
 ## Agreements 
 
 - Structure an initial set of [[Agreements]] that can be evolved and improved later 
-- Draft a subscription agreement for people who may want to be a part of the unfolding (if required, or just evolve successors to the Manifesto Response Form)
