@@ -1,6 +1,6 @@
 # Wisdom
 
-[[Wisdom]] is the ability to perceive, orient and act from the Highest Place. 
+[[Wisdom]] is the ability to perceive, orient and act from the Highest Place, rightly understanding and applying [[Values]] and knowledge to the circumstances of life. 
 ___
 The deep understanding, insight, and knowledge that arises from intuition, experience, reflection, learning, and Divine revelation. 
 

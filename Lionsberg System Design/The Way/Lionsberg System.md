@@ -118,7 +118,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 	- [[Lionsberg Vision]]  
 	- [[Lionsberg Roadmap]]  
 -   A set of core values and principles to guide the behavior and decision-making of individuals and organizations within Lionsberg, and ensure that they are aligned with the Meta Goal. 
-	- [[The Lionsberg Book of Values]]   
+	- [[The Lionsberg System of Values]]   
 -   A governance structure to facilitate decision-making and resource allocation within Lionsberg, designed to be transparent, accountable, and representative of the community.  
 	- [[Lionsberg System of Governance]] 
 -   A system for continuous learning and improvement, including processes for gathering and analyzing data, as well as mechanisms for sharing knowledge and best practices.

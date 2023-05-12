@@ -4,7 +4,7 @@
 
 The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[One]] Absolute Meta Value. 
 
-These are reflected in [[The Lionsberg Book of Values]]. 
+These are reflected in [[The Lionsberg System of Values]]. 
 
 Some of the core values underpinning the [[New Vision and Plan]] and [[The Great Game of Lionsberg]] include:
 
