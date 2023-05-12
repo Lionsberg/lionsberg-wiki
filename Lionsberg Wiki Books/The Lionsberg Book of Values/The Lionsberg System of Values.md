@@ -1,7 +1,13 @@
-# The Lionsberg Book of Values
+# The Lionsberg System of Values
 
 ## Introduction 
 
+This book is a [[Work In Progress]]. As we discover universal [[Values]]: 
+
+1. We are listing them here 
+2. We are working on simple descriptions 
+3. We are working towards a full Values [[Pattern Language]] 
+4. We are working to translate Values into Principles and Practices that can guide our lives and society  
 
 ## Values Pattern Language
 
@@ -10,114 +16,114 @@
 ## The Values 
 
 - The [[One]] overarching and uniting [[Meta Value]] 
-- [[Acceptance]]  
-- [[Accountability]] 
-- [[Accuracy]]  
-- [[Adaptability]]  
+- Acceptance
+- Accountability
+- Accuracy    
+- Adaptability  
 - [[Adventure]]  
 - [[Agency]]  
-- [[At-One-Ment]]  
-- [[Authenticity]]  
+- At-One-Ment  
+- Authenticity  
 - [[Autonomy]]  
-- [[Awareness]]  
-- [[Balance]]
+- Awareness  
+- Balance  
 - [[Beauty]]  
 - [[Belonging]]  
-- [[Caring]] 
-- [[Clarity]] 
+- Caring  
+- Clarity  
 - [[Cleanliness]]  
-- [[Coherence]]  
+- Coherence  
 - [[Community]]  
 - [[Compassion]]  
 - [[Competence]]  
 - [[Conscientiousness]] 
-- [[Consistency]] 
-- [[Cooperation]] 
+- Consistency  
+- Cooperation  
 - [[Courage]]  
 - [[Creativity]]  
 - [[Creation]]  
 - [[Creator]]  
 - [[Curiosity]]  
 - [[Dignity]]  
-- [[Diversity]]
+- Diversity  
 - [[Discernment]]  
 - [[Enjoyment]]  
-- [[Enoughness]]  
-- [[Enthusiasm]]  
-- [[Equality]]  
-- [[Fairness]] 
-- [[Faith]]  
-- [[Faithfulness]]  
+- Enoughness  
+- Enthusiasm  
+- Equality  
+- Fairness 
+- Faith  
+- Faithfulness  
 - [[Fellowship]]  
-- [[Fidelity]]  
-- [[Flexibility]] 
-- [[Focus]] 
+- Fidelity  
+- Flexibility  
+- Focus  
 - [[Forgiveness]]  
-- [[Free Will]]  
+- Free Will  
 - [[Freedom]]  
-- [[Freedom From Fear]]  
-- [[Freedom From Pain]]  
-- [[Freedom From Suffering]]  
+- Freedom From Fear  
+- Freedom From Pain  
+- Freedom From Suffering  
 - [[Friendship]]  
 - [[Generosity]]  
-- [[Gentleness]]  
+- Gentleness  
 - [[God]]  
 - [[Goodness]]  
-- [[Grace]]
+- Grace  
 - [[Gratitude]]  
 - [[Happiness]]  
 - [[Harmony]]  
 - [[Honesty]]  
 - [[Hope]]  
-- [[Hospitality]]  
-- [[Humility]]  
-- [[Humor]]  
-- [[Inclusion]] 
+- Hospitality  
+- Humility  
+- Humor   
+- Inclusion 
 - [[Independence]]  
-- [[Inspiration]]  
+- Inspiration  
 - [[Integrity]] 
 - [[Interdependence]]  
-- [[Joy]]  
+- Joy  
 - [[Justice]] 
-- [[Kindness]]  
-- [[Leadership]]  
+- Kindness  
+- Leadership  
 - [[Liberty]]  
 - [[Love]]
 - [[Loyalty]]  
 - [[Meaning]]  
-- [[Mercy]]  
+- Mercy  
 - [[Moderation]]  
-- [[Non-Harm]]  
-- [[Non-Violence]]  
-- [[Non-Stealing]]  
+- Non-Harm  
+- Non-Violence  
+- Non-Stealing  
 - [[Openness]]  
-- [[Patience]]  
-- [[Peace]]  
+- Patience  
+- Peace  
 - [[Perseverance]]  
-- [[Purity]]  
+- Purity  
 - [[Purpose]]  
-- [[Quality]]  
+- Quality  
 - [[Reciprocity]]  
 - [[Recreation]]  
 - [[Regenerativity]]  
-- [[Resilience]] 
-- [[Resourcefulness]]  
-- [[Resources]]  
+- Resilience 
+- Resourcefulness  
+- Resources  
 - [[Respect]]  
 - [[Responsibility]]  
 - [[Right Relationship]]  
 - [[Security]]  
 - [[Service]]  
 - [[Self Control]]  
-- [[Self Discipline]]  
-- [[Sexuality]]  
-- [[Simplicity]]  
+- Self Discipline  
+- Sexuality  
+- Simplicity  
 - [[Sovereignty]] 
 - [[Spirituality]]  
 - [[Stewardship]]  
 - [[Tradition]]  
-- [[Transcendence]]  
-- [[Transparency]] 
+- Transcendence  
+- Transparency  
 - [[Truth]] 
 - [[Understanding]]  
 - [[Unity]] 

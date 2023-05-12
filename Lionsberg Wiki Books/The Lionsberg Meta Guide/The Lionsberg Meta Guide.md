@@ -52,7 +52,7 @@ Having aligned our [[Aim]], the system then connects and empowers sovereign auto
 
 Having inspired, aligned, and empowered sovereign autonomous groups to progress towards [[The Goal]], the System then sets out universal [[Principles]] and [[Values]] to create the boundaries in which creative progress can occur. 
 
-[[The Lionsberg Book of Values]]  
+[[The Lionsberg System of Values]]  
 
 ## Levels of Abstraction 
 

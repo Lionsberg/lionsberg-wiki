@@ -40,7 +40,7 @@ Collaboration often will evolve out of or into a more persistent group. Particip
 
 ## Agreement with Lionsberg - Federal Agreement
 
-- [[Lionsberg Membership Agreement]]  
+- [[Lionsberg Membership Agreement (v.0.1)]]  
 
 ## Integrated Delivery Agreements  
 
