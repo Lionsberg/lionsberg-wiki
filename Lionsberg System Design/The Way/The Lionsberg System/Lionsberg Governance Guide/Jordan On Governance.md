@@ -63,7 +63,7 @@ From my perspective, what needs to happen next is that [[Individuals]] who want 
 
 Those teams and groups should then [[Organize and Federate]] to accomplish together what they cannot accomplish in isolation. 
 
-This should be accompanied by the development of the basic [[Lionsberg System of Communication]] that will make the "group of groups" aware of one another, provide the ability to communicate offers and needs, and open up the potential for deepening coordination and collaboration at the [[Wise Right]] pace over time. 
+This should be accompanied by the development of the basic [[Lionsberg Communications System]] that will make the "group of groups" aware of one another, provide the ability to communicate offers and needs, and open up the potential for deepening coordination and collaboration at the [[Wise Right]] pace over time. 
 
 As the deepening of relationship occurs, the "group of groups" can share among itself what is working and what is not working in order co-create a continuously improving conceptual [[Prototype]] that any new group can evaluate, localize, and instantiate. 
 

@@ -11,9 +11,25 @@ This book is a [[Work In Progress]]. As we discover universal [[Values]]:
 
 ## Values Pattern Language
 
+We are establishing a Values Pattern Language to interrelate the [[Total Nested Hierarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 
+
 [[Template For Values Pattern Language]]  
 
+## The Spirit and Way 
+
+These enumerated values are reflective of a unified and coherent [[Central Animating Spirit]], whose nature is [[Absolute And Unconditional Love]]. 
+
+This Spirit results in our attempt to embody a non-propositional [[Way of Being]], rooted in Love and guided by Truth.  
+
+## The Universal Core Values 
+
+Among the [[Deepest]] Values on the list are [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Beauty]]. 
+
+From [[Love]], and from these additional Core Values, all other values can be derived. 
+
 ## The Values 
+
+Without attempting to reduce the ineffable to human words, we offer up the following enumerated values as a proxy for the [[Central Animating Spirit]] that impels us. 
 
 - The [[One]] overarching and uniting [[Meta Value]] 
 - Acceptance

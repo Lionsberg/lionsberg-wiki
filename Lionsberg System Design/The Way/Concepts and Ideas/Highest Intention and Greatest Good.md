@@ -6,3 +6,5 @@ This [[Word Tool]] is used to point at the Intention of [[One]]; the fullness of
 For visual imagery and descriptors, see [[Best Possible Future]]. 
 
 As an object to [[Aim]] at, see [[Meta Goal]]. 
+
+As the highest guiding and aligning intention, see [[Creator's Intent]]. 
