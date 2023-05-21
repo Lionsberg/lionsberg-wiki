@@ -1,9 +1,5 @@
 # Lionsberg Roadmap
 
-Sure! Here is a revised version of the Lionsberg Roadmap:
-
-# Lionsberg Roadmap
-
 To achieve the [[Lionsberg Vision]], the Lionsberg System will follow a set of guiding principles and practices, including:
 
 -   Fostering a culture of trust, transparency, and accountability
@@ -29,3 +25,5 @@ To achieve these goals, the Lionsberg System will work to build a global network
 The Lionsberg System will also strive to continuously learn and improve, and will encourage all members of the community to engage in ongoing learning and personal development. This may include opportunities for training, mentorship, and experiential learning.  
 
 Overall, the Lionsberg Roadmap is designed to be a flexible and adaptable framework for guiding progress towards the Meta Goal, and will be regularly reviewed and updated to ensure that it is meeting the needs and aspirations of the community.  
+
+[[Lionsberg System]] 

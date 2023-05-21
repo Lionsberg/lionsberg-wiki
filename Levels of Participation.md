@@ -15,4 +15,5 @@ In the Lionsberg System, there are different levels of participation depending o
 6.  **Steward**: Stewards are individuals who have dedicated their lives to the pursuit of our shared mission and values. They are committed to creating a more harmonious, just, and regenerative future for All, and are responsible for guidance and navigation of the Movement and Community at higher levels of abstraction. They use their skills, knowledge, and resources to actively promote and facilitate participation and community building at all fractal levels, while guiding and navigating the Lionsberg Community towards The Goal.
     
 
+
 By engaging in clearly defined levels while advancing towards ever [[More Meaningful Participation, Responsibility, and Stewardship]], participants in Lionsberg can contribute to the co-creation of a more harmonious, unified, and prosperous future for All. Whether as an Observer, Supporter, Participant, Member, Citizen, or Steward, everyone has a role to play in our collective effort to co-create a brighter future.

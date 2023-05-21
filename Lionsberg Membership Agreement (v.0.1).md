@@ -22,16 +22,15 @@ Guided by the Spirit of [[Truth]] and [[Love]], our Intention and Aim is flouris
 
 ## Unique Focus
 
-Our unique focus is on connecting, serving, and empowering humanity to progress together towards [[The Goal]]. 
+Our unique focus is on inspiring, connecting, serving, and empowering humanity to progress together towards [[The Goal]]. 
 
 ## **Membership Eligibility and Admission:**
 
-1. **Eligibility**: Membership in the Lionsberg Community is open to individuals, organizations, and communities who resonate with and commit to aligning with and upholding the shared Intention, Values, Principles, and Practices of the Lionsberg System and Approach.  
-2. **Foundational Values**: These foundational values include [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Beauty]]. A fuller articulation can be found in [[The Lionsberg System of Values]]. 
-3. Foundational Principles: 
-4. **Process**: Prospective members must complete the [[Lionsberg Membership Process]], which helps ensure a comprehensive understanding and alignment with the Lionsberg Principles and Values, as well as an assessment of willingness, skills, and capacity to contribute, as the member is able, to the collective well-being of the Lionsberg Community. 
-5.  **Approval and Mutual Consent**: The Lionsberg Community, collectively or through its designees, reserves the right to approve or deny membership applications based on the assessment of alignment, capacity for contribution, and the community's capacity to support new members in a way that is regenerative and maintains balance and harmony. Once formally approved for membership and issued [[Lionsberg Identity]], a member may refer to themselves as a Lionsberg Community Member. 
-6. **Continuing Membership**: Continued membership requires the ongoing consent of both the member and the Lionsberg Community. 
+1. **Eligibility**: Membership in the Lionsberg Community is open to individuals, organizations, and communities who resonate with and commit to aligning with and upholding the shared Intention, Values, Principles, and Practices of the Lionsberg System and Approach, and who have been invited to join by an existing Lionsberg Community Member. 
+2. **Foundational Values**: These foundational values include [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Beauty]]. A fuller articulation can be found in [[The Lionsberg System of Values]].  
+3. **Process**: Prospective members must complete the [[Lionsberg Membership Process]], which helps ensure a comprehensive understanding and alignment with the Lionsberg Principles and Values, as well as an assessment of willingness, skills, and capacity to contribute, as the member is able, to the collective well-being of the Lionsberg Community. 
+4.  **Approval and Mutual Consent**: The Lionsberg Community, collectively or through its designees, reserves the right to approve or deny membership applications based on the assessment of alignment, capacity for contribution, and the community's capacity to support new members in a way that is regenerative and maintains balance and harmony. Once formally approved for membership and issued [[Lionsberg Identity]], a member may refer to themselves as a Lionsberg Community Member. 
+5. **Continuing Membership**: Continued membership requires the ongoing consent of both the member and the Lionsberg Community. 
 
 ## **Rights and Responsibilities of Members:**
 
@@ -44,7 +43,6 @@ Our unique focus is on connecting, serving, and empowering humanity to progress 
 
 1. All members are invited and encouraged to become co-creators of Lionsberg and The Future. 
 2. Members will be encouraged to express their unique skills and passions as a gift to the community and world around them, and to explore and discover new ways to create lasting and transformational value at all levels of engagement. 
-3. 
 
 ## **Economy**: 
 
@@ -53,10 +51,24 @@ Our unique focus is on connecting, serving, and empowering humanity to progress 
 3. **Free Market Stewardship**: Members will be encouraged to establish and structure economic entities on the basis of decentralized free market stewardship and collaborative governance, as a way beyond the false dichotomies of state control and provincial self-interest. 
 4. **Federation**: Members will be encouraged to structurally federate all emergent economic activity with the Lionsberg Community, in order to ensure transparency, accountability, reciprocity, and functional unity across the federation. 
 5. **Voluntary Group Tithe**: All federated groups will contribute ~10% of their available flow of time, energy, attention, and resources to the Lionsberg Community for the purpose of continuously improving the Lionsberg Commons of infrastructure, resources, ideas, services, and supports helping all members rise towards their potential and flourish in harmony. 
-6. **Mercy and Justice**: Groups will be encouraged to use the second tenth of their available flow of value to do mercy and justice by addressing the root causes of suffering, dysfunction, and injustice around them. 
+6. **Charity and Justice**: Groups will be encouraged to use the second tenth of their available flow of value to do charity and justice by addressing the root causes of suffering, dysfunction, and injustice around them. 
 7. **Profit Sharing:** Groups will be encouraged to share ~30% of profits among stakeholders to incentive and reward contributions. 
 8. **Reinvestment**: Groups will be encouraged to reinvest the remaining ~50% into the ongoing development and flourishing of the economy and community for current and future generations. 
 9. **Legacy and Passing The Flame**: Groups will be encouraged to continually be Passing The Flame to future generations by encouraging, mentoring, and developing the next generations of participants. 
+
+## Ideas and Opportunities 
+
+As a result of the synergies of ideas and relationship among a carefully curated and invitation-based Community, many ideas and opportunities will organically arise. 
+
+Aligned Ideas and Opportunities that arise as a result of Participation in Lionsberg or its relationships must be pursued through new or existing ***stewardship based*** groups ***structurally federated*** with Lionsberg, and should be ***coordinated with Lionsberg*** to optimally support the emergence of the Federation and Progress along the Critical Path. 
+
+The Lionsberg System is designed to co-operate on the basis of generating and cultivating emergent ideas and opportunities, co-creating Value, and contributing 1/10th of the Flow of Value back to the Lionsberg Federation to continuously enrich and improve the shared infrastructure, technology, community, culture, and commons. 
+
+Dispersing energy by separating emergent energy or information from the Lionsberg Ecosystem violates the basic Design Intent, which calls for a interconnected, interexistent, and continuously improving multi-generational ecosystem and approach. 
+
+As ideas and opportunities arise, they should be registered with the Lionsberg Commons and acted upon in a transparent and accountable way for the good of the Lionsberg Community, society, and nature as a Whole. 
+
+The decentralized pursuit of emergent ideas and opportunities in a structurally connected federation occurs on the basis of the [[Lionsberg Honor System]], and is crucial to the Designer's Intent. 
 
 ## **Reciprocity**: 
 

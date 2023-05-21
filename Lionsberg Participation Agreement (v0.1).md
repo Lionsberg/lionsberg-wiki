@@ -8,7 +8,7 @@ This participation agreement (the “Agreement”) outlines the terms, condition
 
 The Purpose of Lionsberg is to facilitate the transformative Quest of humanity FROM the Old World TO the New World. 
 
-We accomplish this by inspiring, connecting, and empowering humanity to work together to co-create the better future we all aspire to. 
+We accomplish this by **inspiring, connecting, serving, and empowering** humanity to work together to co-create [[The Future]] we all aspire to. 
 
 ## The Lionsberg System of Values
 
@@ -30,7 +30,7 @@ All Participants are required to adhere to the [[Lionsberg Code of Conduct]].
 
 In accordance with our commitment to [[Transparency and Accountability]], as a general rule meetings and other interactions within the Lionsberg System are recorded, and recordings are generally published.  
 
-Making our participation, activities and progress publicly visible has a number of benefits, including building [[Groundswell]] by engaging new [[Observers]] and [[Supporters]], and building [[Trust]] through demonstrating [[Transparency]] and [[Traction]]. 
+Making our participation, activities and progress publicly visible has a number of benefits, including building [[Groundswell]] by engaging new [[Observers]] and [[Supporters]], and building [[Trust]] through demonstrating Transparency and [[Traction]]. 
 
 ## Intellectual Property 
 
@@ -50,6 +50,8 @@ The Lionsberg System is designed to co-operate on the basis of generating and cu
 
 Dispersing energy by separating emergent energy or information from the Lionsberg Ecosystem violates the basic Design Intent, which calls for a interconnected, interexistent, and continuously improving multi-generational ecosystem and approach. 
 
+As ideas and opportunities arise, they should be registered with the Lionsberg Commons and acted upon in a transparent and accountable way for the good of the Lionsberg Community, society, and nature as a Whole. 
+
 ## Collaboration and Cooperation, Not Competition
 
 Within the Domain of Lionsberg, all Participants should collaborate and cooperate as One Body, and not compete with One Another, recognizing that what we do to each other, we do to our Selves and the Whole. 
@@ -66,19 +68,19 @@ Participants are encouraged to withdraw their Participation and return to the Ob
 
 ## Termination of Participation 
 
-Participation in the Lionsberg Community is a privilege and not a right. All relationships in the Lionsberg Community require the ongoing voluntary consent of both parties. In the event the Lionsberg Community collectively, or its designated [[Accountability Committee]], determine the ongoing participation of an participant is not in the best interest of the community and The Goal, they reserve the right to termination the participatory relationship. This will occur if the individual fails to uphold the [[Lionsberg Code of Conduct]] and the [[The Lionsberg System of Values]], or becomes disruptive to Progress towards The Goal. 
+Participation in the Lionsberg Community is a privilege and not a right. All relationships in the Lionsberg Community require the ongoing voluntary consent of both parties. In the event the Lionsberg Community collectively, its Founder, or its designated Accountability Committee determine the ongoing participation of an participant is not in the best interest of the community and The Goal, they reserve the right to termination the participatory relationship. This will occur if the individual fails to uphold the [[Lionsberg Code of Conduct]] and the [[The Lionsberg System of Values]], or becomes disruptive to Progress towards The Goal. 
 
 ## **Reciprocity**
 
-Participants are requested to a make a [[Reciprocal Monthly Contribution]] that reflects the value they receive from participating. 
+Participants are invited to a make a [[Reciprocal Monthly Contribution]] that reflects the value they receive from participating. All reciprocity occurs voluntarily within the context of the [[Lionsberg Honor System]]. 
 
-Participants have the responsibility to help one another create and maintain balance, flow, and reciprocity across all relationships within the System. 
+Participants have the responsibility to proactively and generously help one another create and maintain balance, flow, and reciprocity across all relationships within the System. 
 
 ## Term 
 
 This agreement shall be valid for 90 days from the date a Lionsberg representative countersigns it. After 90 days, the participant is invited to begin the [[Lionsberg Membership Process]], or return to the level of Observer or Supporter. 
 
-This 90 Day Window of Participation is necessary to ensure that the Community and System are concentrating Energy on those who truly want to progress and collaborate. 
+This delineated 90 Day Window of Participation is necessary to ensure that the Community and System are concentrating Energy on those who truly want to progress and collaborate. 
 
 ## Conclusion
 
