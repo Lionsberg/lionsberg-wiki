@@ -1,112 +1,118 @@
 # Lionsberg Constitution
 
-[[LC 1.  Introduction]] 
-[[LC2.  The Lionsberg Story]] 
-[[LC3.  Guiding Spirit and Philosophy]]
-[[LC4.  Core Principles and Values]] 
-[[LC5.  The Inherent Worth, Dignity, and Sovereignty of All]]  
-[[LC6.  The Sovereignty of God, Lionsberg, and All Citizens]]
-[[LC7.  Conformance to Universal and Eternal Law]]
-[[LC8.  The Lionsberg System of Governance]] 
-[[LC9. The Lionsberg Economic System]] 
-[[LC10. The Lionsberg Social and Cultural System]] 
-[[LC11. The Lionsberg Education System]] 
-[[LC12. The Lionsberg System of Integrated Wellbeing]]  
-[[LC13. Rights and Responsibilities]] 
-[[LC14.  Freedom of Thought, Speech, and Belief]] 
-[[LC15. Tools and Technologies]] 
-[[LC16.  The Lionsberg Legal Structure]]  
+*2024.05.17 Draft For Review and Improvement*
+
+## Introduction 
+
+[[LC 1. Preamble - A New Covenant Relationship Between One and All]]    
+[[LC 2.  Introduction]] 
+
+## The Story of Lionsberg 
+
+[[LC 3.  The Lionsberg Story]] 
+
+## One Creation, One Creator 
+
+[[LC 4. One Creation]]  
+[[LC 5. Placing the Creator at the Center]]  
+[[LC 6. Basing Everything Upon Love]]  
+[[LC 7. Creator's Intent]]  
+[[LC 8. Covenant Relationship]]  
+[[LC 9. Reintegration, Realignment, and Regenerativity]]
+
+## Sovereignty, Self-Governance, and Universal Law 
+
+[[LC 10. The Locus of Sovereignty]]  
+[[LC 11.  The Inherent Worth, Dignity, and Sovereignty of All]]  
+[[LC 12. The Right and Responsibility to Organize and Govern Our Selves]]  
+[[LC 13. The Inherent Sovereignty of Lionsberg]]  
+[[LC 14.  Conformance to Universal and Eternal Law]] 
+[[LC 15. Discernment and Autonomy]]  
+
+## Guiding Spirit, Philosophy, Principles, and Values
+
+[[LC 16.  Guiding Spirit and Philosophy]] 
+[[LC 17.  Guiding Principles and Values]] 
+
+## The Lionsberg System & Approach 
+
+[[LC 18.  The Lionsberg System of Governance]]    
+LC 19. Domains of Responsibility and Authority  
+[[LC 20. The Lionsberg Citizen Assembly System]] 
+[[LC 21. The Lionsberg Executive System]]  
+[[LC 22. The Lionsberg Legislative System]]  
+[[LC 23. The Lionsberg Regulatory System]] 
+[[LC 24. The Lionsberg System of Justice]]  
+[[LC 25. The Lionsberg System of Reconciliation]] 
+[[LC 26. Vertical Structures and Protections]] 
+[[LC 27. Horizontal Structures and Protections]] 
+[[LC 28. The Lionsberg Economic System]]  
+[[LC 29. The Lionsberg Integrated Delivery System]]  
+[[LC 30. The Lionsberg Communications System]] 
+[[LC 31. The Lionsberg Social and Cultural System]]  
+[[LC 32. The Lionsberg System of Integrated Wellbeing and Development]]  
+[[LC 33. The Lionsberg Learning System]]  
+[[LC 34. The Lionsberg System of Spirituality, Purpose, and Meaning]]  
+[[LC 35. The Lionsberg Legal System]]  
+
+Core Enterprise
+LC21. Citizen Led Joint Ventures
+
+## Citizenship, Rights, and Responsibilities
+
+[[LC 36. One Citizenship Under God, Indivisible, With Liberty and Justice For All]]  
+[[LC 37. Multi-Generational Stewardship]]  
+[[LC 38. Rights and Responsibilities]] 
+[[LC 39.  Freedom of Thought, Speech, and Belief]]  
+[[LC 40. Freedom of Practice]] 
+[[LC 41. Freedom of Assembly]] 
+[[LC 42. The Right to Keep and Bear Arms]] 
+[[LC 43. The Right to Privacy]] 
+[[LC 44. Prohibition of Unreasonable Surveillance, Search, or Seizure]]  
+[[LC 45. The Right to Due Process and Justice]]  
+[[LC 46. Rights and Responsibilities in Times of Crisis or Emergency]] 
+[[LC 47. Perpetuity and Secession]] 
+
+## Social, Economic, and Civic Justice 
+
+[[LC 48. Social and Economic Justice]]  
+[[LC 49.  Permissible Use of System Power]]  
+
+## Tools and Technologies 
+
+[[LC 50. Tools and Technologies]] 
+
+## Communication and Collaboration
+
 [[LC17.  Communication and Information Sharing]] 
-[[LC18. Collaboration and Cooperation]] 
-[[LC19. Relationships and Partnerships]]
-[[LC20. The Lionsberg Integrated Delivery System]]
-[[LC21. Citizen Led Joint Ventures]] 
+[[LC18. Collaboration and Cooperation]]
+
+## Relationship Development 
+
+[[LC19. Relationships and Partnerships]] 
+
+## Culture, Creativity, Science, and Arts 
+
+[[LC25.  Culture, Creativity And Arts]] 
 [[LC22.  Research, Development, and Cross Pollination]] 
 [[LC23. Science, Technology, Engineering, and Mathematics]] 
-[[LC24. Social and Economic Justice]]  
-[[LC25.  Culture, Creativity And Arts]] 
+
+## Recognition and Rewards 
+
 [[LC26.  Recognition and Rewards]] 
-[[LC27.  Surfacing and Resolving Conflict]] 
-[[LC28.  Permissible Use of System Power]]  
-[[LC29.  Leadership Development, Succession Planning, and Passing the Flame]] 
-[[LC30.  Continuous Learning and Improvement]] 
-[[LC31.  Mechanisms for Transformation]] 
-[[LC32. The Total Integrated Development and Wellbeing of All Levels and Aspects of Life, Society and Environment]] 
-[[LC33. Regenerativity and Resource Stewardship]] 
+
+## Evolution and Transformation 
+
+[[LC30.  Continuous Learning and Improvement]]  
+[[LC31.  Mechanisms for Transformation]]  
+[[LC29.  Leadership Development, Succession Planning, and Passing the Flame]]  
+
+## Conclusion
+ 
 [[LC34. Addressing Potential Failure Modes]] 
 [[LC35.  Conclusion]]  
 
 
-
-
-
-
-
-
-
-
-
-
-
-19.  Introduction
-
--   The Story of Lionsberg 
--   The Purpose of the Lionsberg System
--   The Purpose of the Lionsberg Constitution
--   The Scope of the Lionsberg Constitution 
-
-20. Guiding Spirit and Philosophy 
-
--  Statement on the Central Animating Spirit of Lionsberg 
--  Statement on the guiding philosophy of the Lionsberg System
-
-21. Core Principles and Values and Principles
-
--   Statement of core values and principles
--   Role of core values and principles in shaping the Lionsberg System
--   Role of core values and principles in guiding behavior and decision making within Lionsberg
-- [[Truth]] [[Love]] [[Justice]] [[Stewardship]] [[Wisdom]] [[Liberty]] 
-[[Success]] [[Right Relationship Between One and All]] 
-
-4.  The Inherent Worth, Dignity, and Sovereignty of All
-
--   Statement on the inherent worth and dignity of all human beings
--   Statement on the inherent worth and dignity of all past and present generations
--   Statement on the inherent worth and dignity of all life and consciousness 
--   Statement on the universal nature of Lionsberg and the right of all citizens and creatures on earth to participate if they honor and uphold the Spirit, principles, and values. 
-
-5.  The Sovereignty of God, Lionsberg, and All Its Citizens
-
--   Statement on the Sovereignty of God
--   Statement on the Sovereignty of all citizens of Lionsberg 
--   Statement on voluntary participation and free will  
--   Statement on the Sovereignty of Lionsberg
-
-6.  Conformance to Universal and Eternal Law
-
--   Statement on the self-evident universal and eternal law
--   Statement on the responsibility of systems of law to progressively conform themselves towards the perfection of the Absolute universal and eternal law
--   Statement that Lionsberg is designed to progressively improve its fit and conformance to the truth and wisdom of the universal ideal across time 
-
-7.  Governance System
-
--   The purpose of governance
--   Overview of the Lionsberg System of Governance
--   Domains of Responsibility and Authority 
--   Self-governance and sovereignty  
--   Voluntary Collaboration and Cooperation 
--   Minimum standards of interoperability 
--   The benefits and necessity of federal government 
--   The limited role of the Lionsberg federal government
--   Vertical Structure - Right Relationship Among Fractal Elements 
--   Horizontal Structure - Right Relationship Among Functions of the Body 
--   The Quest towards Voluntary Higher Order Functional Unity 
--   Separation of powers
--   Checks and balances
--   Decision-making processes
--   Resource allocation processes 
--   Transparency and accountability
--   Representation of the community
 
 8. Economic System 
 
@@ -126,12 +132,6 @@
 -   The promotion of social cohesion and harmony  
 -   The Lionsberg Code of Conduct 
 
-10. Freedom of Thought, Speech, and Belief
-
-- Statement on the freedom of thought 
-- Statement on the freedom of speech 
-- Statement on the freedom of religion and belief 
-- Statement on the Quest to Navigate in Community towards Truth, Wisdom, and Understanding 
 
 11. Rights and Responsibilities  
 
@@ -190,9 +190,7 @@
 -   Description of the Integrated Delivery System
 -   Role of the Integrated Delivery System in measuring and aligning progress towards The Goal
 
-22. Surfacing and Resolving Conflict 
 
-- Process for resolving conflict within the Lionsberg Community 
 
 23. Research and Development
 
@@ -206,9 +204,7 @@
 
 -   Description of the system for health and wellness within Lionsberg
 
-26. Social and Economic Justice 
 
-- Provision for the promotion of social and economic justice, including the protection and support of the vulnerable and marginalized  
 
 27. Culture, Creativity And Arts 
 
@@ -221,24 +217,6 @@
 -   Description of the function of servant leadership 
 - Description of the system for leadership development and succession planning within Lionsberg 
 
-29. Sustainability and Resource Management
-
--   Description of the system for sustainability and resource management within Lionsberg 
-- Description of the system for sustainability and resource management of the natural environment 
-
-30. Mechanisms For Change 
-
-- Statement on the intent of the system to elevate and transform itself over time 
-- Process of amending the Lionsberg Constitution  
-- Impossibility of altering the Spirit
-- Difficulty of altering articulated principles and values 
-- Ease of improving 
-- Process for maintaining alignment with the central guiding Spirit 
-
 31. Additional Provisions For The Effective and Sustainable Operation of Lionsberg as a Global Community 
 
-32. Conclusion
-
--   -   Summary of the Lionsberg System and its Constitution
--   Call to action for individuals and organizations to join and support Lionsberg in building a more truthful, loving, just, wise, and good world for all people.
 
