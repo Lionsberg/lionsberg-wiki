@@ -16,10 +16,14 @@ Acknowledging this essential aspect of consciousness, Lionsberg has intricately 
 
 In the days and weeks to come, you'll venture through this emerging narrative, encountering groundbreaking ideas and concepts, engaging in in thought-provoking discussions, and participating in activities designed to promote introspection and personal and collective growth. This transformative journey will not only enrich your understanding of the world but also challenge you to reexamine and refine your own personal narrative. Through the process, you will be strengthened and equipped with the essential skills and tools needed to successfully navigate our collective transformational Quest towards The Goal at this crucial moment in history.  
 
-## Video
+[[Provisional Structure]] 
 
+## Video 
+
+Please excuse the elementary production quality and performance.  
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://youtu.be/Ywfit_fQTPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 [[Week 1 Day 1 Video Transcript]] 
 
