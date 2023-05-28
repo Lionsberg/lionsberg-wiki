@@ -20,7 +20,7 @@ In the days and weeks to come, you'll venture through this emerging narrative, e
 
 Please excuse the elementary quality. We will improve the video content over time.   
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://youtu.be/Ywfit_fQTPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ywfit_fQTPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 [[Week 1 Day 1 Video Transcript]] 
