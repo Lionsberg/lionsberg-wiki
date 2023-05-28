@@ -16,7 +16,7 @@ Applications are reviewed by a dedicated team within the Lionsberg community. Th
 
 ## Introduction to Lionsberg and Orientation 
 
-Once the initial screening is complete, prospective members are invited into an orientation program with a cohort of fellow applicants. This program introduces them to Lionsberg's history, constitution, values, systems, and procedures. This includes a detailed understanding of the Lionsberg Honor System and the Lionsberg System of Values, while providing pathways for meaningful growth and engagement in the community.
+Once the initial screening is complete, prospective members are invited into an orientation and training program with a cohort of fellow applicants. This program introduces them to Lionsberg's history, constitution, values, systems, and procedures. This includes a detailed understanding of the Lionsberg Honor System and the Lionsberg System of Values, while providing pathways for meaningful growth and engagement in the community.
 
 ## The Lionsberg Pledge 
 

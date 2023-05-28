@@ -12,13 +12,13 @@ We accomplish this by **inspiring, connecting, serving, and empowering** humanit
 
 ## The Lionsberg System of Values
 
-Lionsberg invites and supports the Participation of Citizens of Earth who resonate with the Spirit of Truth and Love, and who commit to honor and uphold the [[The Lionsberg System of Values]]. 
+Lionsberg invites and supports the Participation of citizens who resonate with the Spirit of Truth and Love, and who commit to honor and uphold the [[The Lionsberg System of Values]]. 
 
 ## Levels of Participation
 
 Participation in Lionsberg is delineated by [[Levels of Participation]]. 
 
-This agreement is for those progressing from observing or supporting from afar, to active participation in the Lionsberg Community. 
+This agreement is for those progressing from observing or supporting, to active participation in the Lionsberg Community. 
 
 The purpose of Participating is to explore the potential for more meaningful participation, responsibility, and stewardship in the system as a member or citizen. 
 
@@ -34,9 +34,7 @@ Making our participation, activities and progress publicly visible has a number 
 
 ## Intellectual Property 
 
-In the Lionsberg System, everything that is wise, right, true, and good belongs to One and All, and should be accessible to all in the commons.
-
-To embody this, we have established a [[Lionsberg Commons]]. 
+In the Lionsberg System, everything that is wise, right, true, and good belongs to One and All, and should be accessible to all in the commons. To embody this, we have established a [[Lionsberg Commons]]. 
 
 Ideas expressed in Lionsberg become part of the [[Lionsberg Commons]], and are governed by the [[Lionsberg Intellectual Content System]] and the [[Lionsberg Intellectual Property Agreement]]. 
 
@@ -84,14 +82,16 @@ This delineated 90 Day Window of Participation is necessary to ensure that the C
 
 ## Conclusion
 
-It is a great honor to participate together in such a worthy cause. We understand that your [[Time, Energy, and Attention (TEA)]] is limited and valuable, and we are deeply grateful that you are choosing to spend the next 90 days with us. 
+It is a great honor to participate together in such a worthy cause. We understand that your Time, Energy, and Attention is limited and valuable, and we are deeply grateful that you are choosing to spend the next 90 days with us. 
 
 By signing this Agreement, the undersigned (1) commits to become a Participant in the Lionsberg community, (2) acknowledges and accepts the rights and responsibilities outlined in this Agreement, (3) pledges to uphold the shared Intention, Principles and Values of the Lionsberg Approach, (4) commits to contribute to the collective well-being, growth, and development of the community, (5) commits to contribute to the collective well-being, growth, and development of society and the Living System that sustains it (6) determines to engage in a process of ongoing learning, collaboration, and personal and collective transformation, (7) understands that participation in the Lionsberg Community is a privilege and not a right, and that it may be terminated upon failure to uphold the Lionsberg Principles and Values, and (7) acknowledges the importance of open communication, mutual respect, and accountability within the Lionsberg Community (8) commits to engaging in the Community in a spirit of Truth, Love, and Reciprocity.  
 
 Signed: 
-Print [Member Name] Date: [Date]
+Print [Participant Name] Date: [Date]
 
 By signing this agreement, the Lionsberg Community welcomes you into participation and commits to (1) support your growth, development, and contributions within the community, (2) provide access to opportunities to explore the meaningful resources, relationships, opportunities, and collaborative projects that exist within the Community, (3) engage together in a process of ongoing learning, innovation, and collective evolution in service of the well-being, empowerment, and the flourishing of Community members, Life, and Society, and (4) cultivate a culture of reciprocity, collaboration, and mutual support that enables every participant to thrive, grow, and contribute to the fullest extent of their unique potential.
 
 Signed: 
 Print [Lionsberg Community Representative Name] Date: [Date]
+
+To Sign the form, please use the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6)

@@ -60,6 +60,9 @@ Establish how people will participate in the Organization, and how the Organizat
 
 [[Rules of Participation]] 
 
+## Establish a Field of Agreements 
+Establish a [[Field of Agreements]] to govern the Domain. 
+
 ### Align Goals with the Goals of One or More Federations
 We would highly recommend that: 
 
@@ -121,4 +124,4 @@ It is cyclical and recursive process, but the patterns are often something like:
 The desire of the Lionsberg System is to move towards a future in which these cycles are occurring in a [[Way]] that benefits [[All]], and in which each birth and dissolution enriches the topsoil of the ecosystem from which diverse [[New]] forms of life continually emerge. 
 
 ## Rebirth
-People and resources are recycled into other organizations within the [[Meta Federation]]. This makes dissolution a happy and reasonable phase of an organization, rather than a tragedy followed by abandonment.
+People and resources are recycled and reborn into other organizations within the Lionsberg Community and Commons. This makes dissolution a happy and generative phase of an organization, rather than a tragedy. 

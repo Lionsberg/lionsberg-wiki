@@ -11,6 +11,6 @@ Over time, all structures should strive to conform themselves towards the Most F
 
 ## Federated Stewardship Structure 
 
-A legally federated [[Stewardship Structure]] is the [[Ideal]], and should be activated in all areas where possible as a pragmatic aid to governance. 
+A federated [[Stewardship Structure]] is the [[Ideal]], and should be activated in all areas where possible as a pragmatic aid to governance. 
 
 For an example of a federated Stewardship Structure, see [[Provisional Structure]].  
