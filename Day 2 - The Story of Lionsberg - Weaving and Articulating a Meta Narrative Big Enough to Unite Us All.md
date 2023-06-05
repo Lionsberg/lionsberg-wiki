@@ -21,6 +21,8 @@ It is a story of the unsung heroes on the front lines of every battle to make ou
 
 It is the story of how, at a moment that seemed like it was almost too late, we awakened, arose, and united to liberate one another from the bondage, suffering, and isolation of the Old World, and co-create the The Future. 
 
+It is a story of our collective Exodus, FROM the Old World TO the New World. 
+
 It's a story of unity amidst diversity, of collective wisdom and strength, and of the audacious quest towards our highest overarching and uniting common Goal. Our story is one of transformation, growth, and a shared desire for a better, more loving and just world.
 
 This isn't a story that's already been fully written. Rather, it's a story that's being co-authored by all of us, every moment of every day. It is a Story vast enough to hold our individual stories, our dreams, and our ambitions. It's a meta-narrative that transcends the confines of culture, geography, and time. It's an incarnation in this time and place of the universal and eternal story that's big enough to unite us all.
