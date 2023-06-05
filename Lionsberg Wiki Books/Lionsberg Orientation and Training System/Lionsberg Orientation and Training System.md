@@ -2,11 +2,11 @@
 
 ## Week 1: Awakening and Calling 
 
-[[Day 1 Sunday - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]] 
-Day 2 Monday: The Story of Lionsberg 
-Day 3 Tuesday: Being Alive Without Truly Living - The Darkness and Exploitation of The Caves 
-Day 4 Wednesday: The Phenomenal Calling - The Voice and Vision that Awakens 
-Day 5: Thursday: Shock and Horror - Grappling with the Sobering Realization of Who We Had Become  
+[[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]] 
+[[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]] 
+Day 3 Tuesday: Your Story 
+Day 4 Wednesday: Being Alive Without Truly Living - The Darkness and Exploitation of The Caves 
+Day 5: Thursday: The Phenomenal Calling - The Voice and Vision that Awakens 
 Day 6 Friday: The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony 
 Day 7 Saturday: Rest, Regeneration, and Retrospection 
 

@@ -1,4 +1,4 @@
-# Day 1 Sunday - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal
+# Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal
 
 ## Welcome Pioneers! 
 
