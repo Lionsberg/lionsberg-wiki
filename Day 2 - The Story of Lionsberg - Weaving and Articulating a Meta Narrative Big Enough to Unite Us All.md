@@ -13,7 +13,7 @@ Today, we'll focus on the articulation and understanding of this collective narr
 
 ## The Story of Lionsberg
 
-Just as we each have our own stories, so too does Lionsberg. 
+Just as we each have our own stories, so too does Lionsberg.  
 
 The Story of Lionsberg is a story of the human species and life on planet earth at this unique and unparalleled moment in history, and our sacred quest to forge a wise right pathway into the coming millennia. 
 
@@ -23,7 +23,7 @@ It is the story of how, at a moment that seemed like it was almost too late, we 
 
 It is a story of our collective Exodus, FROM the Old World TO the New World. 
 
-It's a story of unity amidst diversity, of collective wisdom and strength, and of the audacious quest towards our highest overarching and uniting common Goal. Our story is one of transformation, growth, and a shared desire for a better, more loving and just world.
+It's a story of unity amidst diversity, of collective wisdom and strength, and of the audacious quest towards our highest overarching and uniting common [[The Goal|Goal]]. Our story is one of transformation, growth, and a shared desire for a better, more loving and just world.
 
 This isn't a story that's already been fully written. Rather, it's a story that's being co-authored by all of us, every moment of every day. It is a Story vast enough to hold our individual stories, our dreams, and our ambitions. It's a meta-narrative that transcends the confines of culture, geography, and time. It's an incarnation in this time and place of the universal and eternal story that's big enough to unite us all.
 
@@ -32,6 +32,8 @@ This isn't a story that's already been fully written. Rather, it's a story that'
 The Story of Lionsberg isn't static. It's a living, evolving narrative that changes and grows with every participant who joins us, with every dialogue, and with every transformative idea that takes root in our individual and collective consciousness.
 
 We are not merely the readers of this story; we are its authors. We shape it and steer it with our actions, our intentions, our aspirations, and our goals. Our challenge - and our privilege - is to weave our individual threads into the larger tapestry of emerging Story of Lionsberg, which will become whatever we co-create it to be. 
+
+Yet we are not co-creating from scratch. The foundations, boundaries, systems, and guidelines are strong, forged from the synthesis of lifetimes of wisdom and experience. This gives us all the features and benefits of framework, system and structure that can be continuously improved, while also affording us the opportunity to continuously shape and improve it every day. 
 
 ## Video
 
