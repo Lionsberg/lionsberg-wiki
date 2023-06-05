@@ -7,7 +7,7 @@ After a short break, we're moving into our second day of exploration and discove
 
 As we proceed in our thread on Story, remember that we are not just individuals navigating our own personal narratives, but co-creators of a larger, collective narrative. The one we are presently co-creating is called The Story of Lionsberg. 
 
-In a sense it is a myth... but it might also be or become True. Whether it is True depends on what we mean by True, and our conscious choices, words, and actions co-creators.
+In a sense it is a myth... but it might also be or become True. Whether it is True depends on what we mean by True, and our conscious choices, words, and actions as co-creators.
 
 Today, we'll focus on the articulation and understanding of this collective narrative, and explore how it's expansive enough to unite us all in our shared pursuit of [[The Goal]], regardless of our backgrounds and individual stories.
 
