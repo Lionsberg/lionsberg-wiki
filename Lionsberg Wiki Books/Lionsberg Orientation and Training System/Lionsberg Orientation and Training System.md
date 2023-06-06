@@ -18,17 +18,17 @@ Day 2 Monday: The World We Leave Behind - Understanding the Old World
 Day 3 Tuesday: The Meta Crisis - The Patterns of Failure Inherent in the Old World  
 Day 4 Wednesday: The Necessity of Change - Why We Must Move On, and the Danger of Looking Back   
 Day 5 Thursday: Signs and Wonders - The Promises and Premonitions of the New World  
-Day 6 Friday: Committing to the Journey  
+Day 6 Friday: Updating Our Story, and Committing to the Journey  
 Day 7: Saturday: Rest, Regeneration, and Retrospection  
 
 ## Week 3: The Vision of the New World 
 
 Day 1 Sunday: Remembering Who We Are - Rediscovering our True Identity  
-Day 2 Monday: The Vision of the New World - Resurrecting our True Destiny, Aim and Goal  
+Day 2 Monday: The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal  
 Day 3 Tuesday: Facing the Wilderness - Challenges and Fears in the Transition from Old to New  
 Day 4 Wednesday: The Leap of Faith - Trusting in the Process, the Pathway, and Providence   
 Day 5 Thursday: The Army of the Empire - Freedom Isn't Free  
-Day 6 Friday: Walking in the Way of Faith and Miracles  
+Day 6 Friday: Walking in the Way of Freedom, Faith and Miracles  
 Day 7 Saturday: Rest, Regeneration, and Retrospection  
 
 ## Week 3: Life in the Wilderness  - Part I 
@@ -57,7 +57,7 @@ Day 1 Sunday: The Moral Compass - Reestablishing and Embodying the Wisdom, Princ
 Day 2 Monday: The Universal Covenant Between the Creator and All Creation  
 Day 3 Tuesday: Creating a Sacred Space - Spiritual Connection and Right Relationship Between One and All  
 Day 4 Wednesday: Purging the Parasitical Remnants of the Old  
-Day 5 Thursday: A New Way of Being  
+Day 5 Thursday: A New Way of Being - Choosing the Patterns of Life and Avoiding the Patterns of Death   
 Day 6 Friday: Struggles with Faith - Navigating Through Doubts and Uncertainty  
 Day 7 Saturday: Rest, Regeneration, and Retrospection  
 
