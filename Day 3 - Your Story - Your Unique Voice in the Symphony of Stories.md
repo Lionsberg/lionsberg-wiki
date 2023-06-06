@@ -59,7 +59,7 @@ Today we are going to begin the ongoing spiritual, intellectual, and moral effor
 		1. Divide your past life up into 5 to 7 Epochs (periods of [[Time]]), **Name** them, **Describe** them, and reflect on the Story of each individually. 
 		2. What defining experiences, dreams, challenges, and fears shaped each one? **Name** them, **describe** them, and reflect on the Story of each individually. 
 		3. How did each experience shape your perception of your Self, other people, and the world? What is the place (literally and metaphorically) that those experiences have brought you to?  
-	2. **[[Where You Are Going]]**: What is the overarching and uniting **Goal** you are moving towards? How does it align with [[The Goal]]?  
+	2. **[[Where You Are Going]] and [[Why]]**: What is the overarching and uniting **Goal** you are moving towards? Why? How does it align with [[The Goal]]?  
 	3. **Who You Are and Who You Are Becoming**: Who are you? Who are you becoming? How is the Quest towards Where You Are Going aligned with and informed by Who You Are Becoming and Why? How does Where You Are Going relate to Who You Are Becoming? Are they aligned?  
 	
 2. **Articulating Your Story**: As you think, [[Writing|Write]].  Writing is a structured form of thinking that lets you enter into a state of Dialogue (Dia-Logos) with your Self. As you write, write as Truthfully and Courageously as you can.  
