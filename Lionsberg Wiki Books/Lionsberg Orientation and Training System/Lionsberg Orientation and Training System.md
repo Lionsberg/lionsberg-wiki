@@ -4,7 +4,7 @@
 
 - [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
 - [[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
-- [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]] 
+- [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
 
 Day 4 Wednesday: Being Alive Without Truly Living - The Darkness and Exploitation of The Caves  
 Day 5: Thursday: The Phenomenal Calling - The Voice and Vision that Awakens  
