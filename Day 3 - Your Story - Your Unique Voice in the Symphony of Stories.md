@@ -2,9 +2,9 @@
 
 ## Welcome, Pioneers!
 
-Welcome to day three of our collective Lionsberg journey. With each small step, our Quest gains momentum, and we are grateful for your ongoing commitment and contribution to this grand adventure.
+Welcome to day three of our collective Lionsberg journey. With each small step, our [[Quest]] gains momentum, and we are grateful for your ongoing commitment and contribution to this grand adventure.
 
-So far, we've explored the importance of Story as a fundamental force of cognitive structure, co-creation and unity, and how the Story of Lionsberg is a Meta Narrative big enough to unite us all in our quest towards [[The Goal]].
+So far, we've explored the importance of Story as a fundamental force of cognitive structure, co-creation and unity, and how the Story of Lionsberg is an incarnation of the Meta Narrative big enough to unite us [[All]] in our [[Quest]] towards [[The Goal]].
 
 Today, we turn our focus inward. To understand the Story of Lionsberg, we need to surface, recognize and honor the individual stories that give our collective story life. So let's dive into the story closest to each one of us: Your Story.
 
@@ -12,15 +12,15 @@ Today, we turn our focus inward. To understand the Story of Lionsberg, we need t
 
 Your Story is as unique as you are. It's a tapestry woven from the threads of your experiences, aspirations, successes, failures, insights, hopes, and dreams. It's the narrative of existence you've been shaping and have been shaped by, consciously and unconsciously, throughout your life.
 
-[[Your Story]] gives unique depth and richness to the collective Story of Lionsberg. As we each bring our Selves and our unique Stories into the collective, we create a symphony of Stories, with each voice contributing to a harmonious whole that's far greater than the sum of its parts.
+[[Your Story]] gives unique depth and richness to the collective Story of Lionsberg. As we each bring our Selves and our unique Stories into the collective, we create a symphony of Stories, with each voice complementing and contributing to a harmonious whole that's far greater than the sum of its parts.
 
-Understanding Your Story is not just about tracing your past or outlining your future. It's about acknowledging your power to consciously shape and transform your narrative, and in doing so, influence the larger narrative we are co-creating through Lionsberg and in the world. 
+Understanding Your Story is not just about tracing your past or outlining your future. It's about acknowledging your power to consciously shape and transform your narrative, and in doing so, influence the larger Story we are co-creating through Lionsberg and in the world. 
 
 ## The Power of Your Story
 
-Your Story has incredible power. It fundamentally shapes how you perceive the world and how you interact with it. *It is prior even to perception itself.* It can inspire, motivate, and guide you in your quest towards The Goal. It can help you find your purpose and place within the Story of Lionsberg and the Meta Narrative unfolding around us.
+Your Story has incredible power. It fundamentally shapes how you perceive the world and how you interact with it. *It is prior even to perception itself.* It can inspire, motivate, and guide you in your quest towards The Goal. It can give you vision and help you find your purpose and place within the Story of Lionsberg and the Meta Narrative unfolding around us.
 
-Your Story also can hold you, and therefore us all, back from [[Potential]] and [[Progress]], for we are all part of one body moving towards One Goal, and none of us can Realize The Goal unless and until All of us Realize The Goal. Far too many times, the Story we are telling our Selves about [[Who We Are]], [[Where We Are]], [[Where We Are Going]], and [[Why]] has been shaped, shrunken, or twisted by life, society, and trauma. This can create Self-Limiting Beliefs, harmful patterns, and cognitive structures that limit our ability to Progress and Flourish. 
+Your Story also can blind you and hold you, and therefore us all, back from [[Potential]] and [[Progress]], for we are all part of one body moving towards One Goal, and none of us can Realize The Goal unless and until All of us Realize The Goal. Far too many times, the Story we are telling our Selves about [[Who We Are]], [[Where We Are]], [[Where We Are Going]], and [[Why]] has been shaped, shrunken, or twisted by life, society, and trauma. This can create Self-Limiting Beliefs, harmful patterns, and cognitive structures that limit our ability to Progress and Flourish. 
 
 It is our spiritual and moral duty to work together to liberate our Selves and One Another from these binds. 
 
@@ -50,6 +50,8 @@ Coming Soon.
     
 
 ## Activity for Today
+
+Today we are going to begin the ongoing spiritual, intellectual, and moral effort required to surface, examine, and transform the Story that is shaping our lives and our world. The pathway below should be started today and progressed through over the coming weeks. 
 
 1. **Understanding Your Story**: Reflect on your personal narrative. What experiences, aspirations, and dreams have shaped your story? How has your story evolved over time?   
     
