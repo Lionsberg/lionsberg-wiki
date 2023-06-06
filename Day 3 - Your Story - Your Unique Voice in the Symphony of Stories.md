@@ -82,7 +82,7 @@ Today we are going to begin the ongoing spiritual, intellectual, and moral effor
     
 4. **The Power of Your Story**: Consider the transformative power of your narrative. How has your story shaped your perceptions, guided your interactions, and inspired, aided, or hindered you in your journey towards The Goal? How might transforming your Story transform your ability to help your Self and other people progress towards [[The Goal]]?  
     
-5. **Your Story within The Story of Lionsberg**: Envision your personal narrative as part of the collective Story of Lionsberg. How does your story contribute to the richness and depth of our shared narrative? How can you use your story as a tool for personal and collective transformation within Lionsberg, in service of the elevation and transformation of our lives and our world?  
+5. **Your Story within The Story of Lionsberg**: Envision your personal narrative as part of the collective Story of Lionsberg. How does your story contribute to the richness and depth of our shared narrative? Why, at the deepest level, have you chosen to be here and engage in this Quest? How can you use your story as a tool for personal and collective transformation within Lionsberg, in service of the elevation and transformation of our lives and our world?  
     
 
 ## Take Your Time 
