@@ -9,7 +9,7 @@
 
 Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens  
 Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony  
-Day 7 - Rest, Regeneration, and Retrospection  
+Day 7 - Rest, Regeneration, and Retrospection   
 
 ## Week 2: Departure From The Old World 
 
