@@ -2,7 +2,7 @@
 
 ## Welcome, Pioneers!
 
-Congratulations on arriving at day five of our transformative journey. With each day of hard-fought Practice and [[Progress]], we get a little nearer to [[The Goal]]. Your commitment, courage, and engagement are truly appreciated and are at the heart of this emerging community's collective power and potential. Yesterday we faced into the imprisonment of the caves and started to understand the invisible chains that hold us within the dark recesses of the [[Old World]]. Today, we will shift our focus to the remarkable phenomenon that breaks through the illusions and delusions of the caves, shaking us awake and summoning us toward a brighter reality – The Phenomenal Calling, the Voice and Vision that Awakens.
+Congratulations on arriving at day five of our transformative journey. With each day of hard-fought Practice and [[Progress]], we get a little nearer to [[The Goal]]. Your commitment, courage, and engagement are truly appreciated and are at the heart of this emerging community's collective power and potential. Yesterday we faced into the imprisonment of the caves and started to understand the invisible chains that hold us within the dark recesses of the [[Old World]]. Today, we will shift our focus to the remarkable phenomenon that breaks through the illusions and delusions of the caves, shaking us awake and summoning us toward a brighter reality – **The Phenomenal Calling, the Voice and Vision that Awakens**.
 
 In the grand narrative of Lionsberg, this is the moment of The Call, the inciting incident that inbreaks and disrupts the delusive status quo, and sets us on the path of our individual and collective [[Quest]] toward [[The Goal]].
 
