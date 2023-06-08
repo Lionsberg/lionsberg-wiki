@@ -6,8 +6,8 @@
 - [[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
 - [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
 - [[Day 4 - Being Alive Without Truly Living - The Darkness and Exploitation of The Caves]]  
+- [[Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens]]  
 
-Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens  
 Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony  
 Day 7 - Rest, Regeneration, and Retrospection   
 
