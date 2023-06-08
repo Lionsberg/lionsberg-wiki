@@ -107,9 +107,9 @@ As previously noted, [[The Gate]] will close behind the Pioneer Cohort after Day
 
 For those who may need to step back, we respect your decision. You will be celebrated, honored, and welcomed to join [[The Queue]] for Future Cohorts when you're ready. 
 
-## Governance Proposal For Collective Discernment
+## Governance Consideration For Collective Discernment
 
-As of Day 4, We are up to **10 signatures** so far between the two Pioneer Cohorts out of ~24 invited. If we have fewer than 16 total who are willing and able to respond by Day 7, we should consider consolidating to one International Cohort to unite our wisdom and efforts. This would force us to change up our rhythms and comfort zones a bit, but could open up powerful new synergies among the most committed and passionate few. Please mediate and pray on this as we watch and see what happens in the Lionsberg Experience over the next few days. 
+As of Day 4, We are up to **12 signatures** so far between the two Pioneer Cohorts out of ~24 invited. If we have fewer than 16 total who are willing and able to respond by Day 7, we should consider consolidating to one International Cohort to unite our wisdom and efforts. This would force us to change up our rhythms and comfort zones a bit, but could open up powerful new synergies among the most committed and passionate few. Please mediate and pray on this as we watch and see what happens in the Lionsberg Experience over the next few days. 
 
 ## Closing
 
