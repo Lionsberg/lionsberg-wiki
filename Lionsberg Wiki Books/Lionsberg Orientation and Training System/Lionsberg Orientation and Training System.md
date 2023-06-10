@@ -7,19 +7,19 @@
 - [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
 - [[Day 4 - Being Alive Without Truly Living - The Darkness and Exploitation of The Caves]]  
 - [[Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens]]  
+- [[Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony]]  
 
-Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony  
 Day 7 - Rest, Regeneration, and Retrospection   
 
 ## Week 2: Departure From The Old World 
 
-Day 8 - Out of The Caves and Into the Blinding Light    
+Day 8 - Out of The Caves and Into the Blinding Light
 Day 9 - The World We Leave Behind - Understanding the Old World  
 Day 10 - The Meta Crisis - The Patterns of Failure Inherent in the Old World  
 Day 11 - The Necessity of Change - Why We Must Move On, and the Danger of Looking Back   
 Day 12 - Signs and Wonders - The Promises, Premonitions, and Bridge Towards the New World  
 Day 13 - Updating Our Story, and Committing to the Journey  
-Day 14: Saturday: Rest, Regeneration, and Retrospection  
+Day 14 - Rest, Regeneration, and Retrospection  
 
 ## Week 3: The Vision of the New World 
 
