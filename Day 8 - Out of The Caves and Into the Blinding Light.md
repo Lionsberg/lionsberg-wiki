@@ -2,7 +2,9 @@
 
 ## Welcome, Pioneers!
 
-Congratulations for making it to Day 8 of our transformative journey. Your unwavering commitment and participation are essential to the collective evolution and progress of our emerging community. By now, we have begun to Identify the imprisoning shadows and Caves of the [[Old World]], discovered The Phenomenal Calling that awakens us from our illusion and deception, and begun to recognize and articulate our shared [[Quest]] towards [[The Goal]] that overarches and unites All Creation. Today, we are poised to take our first daring steps out of the deceptive "comfort" and "security" of the [[The Caves]] and towards the overpowering and disorienting, but liberating brilliance of Wisdom and Truth, into the blinding light of [[Ultimate Reality]].
+Congratulations for making it to Day 8 of our transformative journey. Your unwavering commitment and participation are essential to the collective evolution and progress of our emerging community. By now, we have begun to Identify the imprisoning shadows and Caves of the [[Old World]], discovered The Phenomenal Calling that awakens us from our illusion and deception, and begun to recognize and articulate our shared [[Quest]] towards [[The Goal]] that overarches and unites All Creation. Today, we are poised to take our first daring steps out of the deceptive "comfort" and "security" of the [[The Caves]] and towards the overpowering and disorienting, but liberating brilliance of Wisdom and Truth, into the blinding light of [[Ultimate Reality]]. 
+
+The theme of this week is **Week 2: Departure From The Old World**, and todays lesson is entitled "**Day 8 - Out of The Caves and Into the Blinding Light.**"
 
 ## The Dawning of a New Day
 
