@@ -140,3 +140,7 @@ P.S. if you are frustrated that "we" are not "beyond mere words" into more actio
 You were chosen as a Pioneer, and it is your Destiny to lead the empowered co-creative effort that brings into being all that is lacking, removes everything that does not belong, and transforms and refines all that must be transformed and refined. 
 
 There is no "them" out there to govern us, provision us, or permission us. We are out Beyond The Boundary now, and we must learn to embody and enact our New System of self-governance and co-creation. You are hereby empowered to get into co-creative action. Honor the Rule of Three, grab a couple others, [[Forge or Join a Group]], govern your Selves, and get moving. We are here to serve, support, connect, and empower your emergent calling. 
+
+___
+
+Return to [[Lionsberg Orientation and Training System]]  

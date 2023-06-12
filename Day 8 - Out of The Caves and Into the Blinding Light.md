@@ -91,3 +91,5 @@ Onward and upward, Pioneers!
 With Love, In Community, 
 
 ~ J 
+
+Return to [[Lionsberg Orientation and Training System]]  
