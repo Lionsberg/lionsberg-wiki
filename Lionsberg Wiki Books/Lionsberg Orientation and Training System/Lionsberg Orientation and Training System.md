@@ -14,8 +14,8 @@
 
 - [[Day 8 - Out of The Caves and Into the Blinding Light]]  
 - [[Day 9 - The World We Leave Behind - Examining and Understanding the Old World]]  
+- [[Day 10 - The Meta Crisis - The Patterns of Failure Inherent in the Old World]]  
 
-Day 10 - The Meta Crisis - The Patterns of Failure Inherent in the Old World  
 Day 11 - The Necessity of Change - Why We Must Move On, and the Danger of Looking Back   
 Day 12 - Signs and Wonders - The Promises, Premonitions, and Bridge Towards the New World  
 Day 13 - Updating Our Story, and Committing to the Journey  
