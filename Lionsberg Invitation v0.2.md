@@ -1,6 +1,6 @@
 # Lionsberg Invitation v0.2
 
-### Subject: A Special Invitation to Co-Create a Brighter Future 
+### **Subject: A Special Invitation to Co-Create a Brighter Future** 
 
 Dear (insert name), 
 
