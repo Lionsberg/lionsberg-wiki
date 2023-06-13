@@ -1,4 +1,4 @@
 # Lionsberg Invitation
 
-[[Lionsberg Invitation v.01]] 
-[[Lionsberg Invitation v0.2]] 
+[[Lionsberg Invitation v.01]]  
+[[Lionsberg Invitation v0.2]]  
