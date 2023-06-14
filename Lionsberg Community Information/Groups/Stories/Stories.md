@@ -29,12 +29,8 @@ Our personal stories, also known as narrative identities, significantly shape ou
 
 Therapeutic approaches like Narrative Therapy harness the power of stories to promote psychological healing and growth. These approaches help individuals reframe their stories in empowering ways, shifting from narratives of despair to narratives of resilience and hope.
 
-## Lionsberg and Stories
-
-Lionsberg leverages the power of stories to create transformative learning experiences. In our experiential journey, stories are not just told; they're lived, explored, and co-created. Each participant, through their engagement and contribution, becomes a part of the collective Lionsberg story.
-
 ## Stories in Lionsberg
 
-In the Lionsberg Experience, stories serve as powerful tools for learning, transformation and growth. Lionsberg embraces the power of storytelling to inspire, educate, and facilitate change. The experiences, learning, and transformations in the Lionsberg journey are woven into a rich narrative that guides and motivates participants.
+In the Lionsberg Experience, stories serve as powerful tools for learning, transformation and growth. Lionsberg embraces the power of storytelling to inspire, educate, and facilitate change. The experiences, learning, and transformations in the Lionsberg journey are woven into a rich narrative that guides participants.
 
 Stories in Lionsberg are not just told; they are lived. Participants engage in their own personal and collective narratives, experiencing first-hand the profound impact that stories can have on their understanding, emotions, and actions. Through this immersive storytelling, Lionsberg aims to foster deep, lasting transformations that resonate far beyond the bounds of the experience itself.

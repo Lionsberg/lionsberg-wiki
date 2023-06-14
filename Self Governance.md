@@ -4,6 +4,8 @@
 
 [[Self Governance]] is the act of navigating and steering your [[Self]]. 
 
+Self Governance is closely related to the concepts of [[Sovereignty]], [[Autonomy]], and [[Freedom]]. 
+
 ___
 In the [[Lionsberg System of Governance]], [[All]] entities are [[Sovereign]], [[Autonomous]], [[Self Governing]], and [[Free]]. 
 
