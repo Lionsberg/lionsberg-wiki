@@ -17,26 +17,26 @@ Eventually, you may find here a directory of some of our co-creators around the 
 ## Phase I: Preparatory Phase
 
 **Legal and Governance Work**: 
-- [[Jordan Nicholas Sukut]], 
-- Bill Larson 
+- [[Jordan Nicholas Sukut]]   
+- Bill Larson  
 
 **Organizing and Federating Patterns**: 
-- Jordan Nicholas Sukut 
-- Bill Larson 
-- Peter Kaminski 
-- Social Dimensions Group (~7 participants)
+- Jordan Nicholas Sukut  
+- Bill Larson  
+- Peter Kaminski  
+- Social Dimensions  Group (~7 participants)  
 
 **Technological Backbones**: 
-- Lionsberg 
-- Open Future Coalition 
-- Collective Sense Commons 
-- Massive Wiki Posse 
+- Lionsberg  
+- Open Future Coalition  
+- Collective Sense Commons  
+- Massive Wiki Posse  
 
 ## Phase II: 2022 Meta Project Exploration 
 
-- Two weekly calls, each with average 6 to 15 participants 
-- A few dozen active observers and occasional participants 
-- A few dozen more observers 
+- Two weekly calls, each with average 6 to 15 participants  
+- A few dozen active observers and occasional participants  
+- A few dozen more observers  
 
 ## Phase III: 2023 Lionsberg Launch 
 
