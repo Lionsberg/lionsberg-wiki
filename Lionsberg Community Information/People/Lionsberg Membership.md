@@ -70,5 +70,6 @@ The United States and Kenya are disproportionately represented due to those bein
 
 ## Target June 25 2023 - Second Wave Cohort 
 
-- Queue in formation, invitation only, based on 62% to 100% expansion, 11 to 18 slots. 
+- Queue in formation, invitation only, based on 62% to 100% expansion, 13 to 23 slots available. 
+
 
