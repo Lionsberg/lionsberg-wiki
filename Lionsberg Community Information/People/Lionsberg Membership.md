@@ -1,4 +1,4 @@
-# Membership
+# Lionsberg Membership
 
 We started with eternal and universal Inspiration and Vision, that progressed towards an articulated Idea. 
 
@@ -42,26 +42,31 @@ Eventually, you may find here a directory of some of our co-creators around the 
 
 ## June 2023 - Pioneer Cohort 
 
-1. [[Jordan Nicholas Sukut]] - California, Idaho, World
-2. Bill Larson - California 
-3. Christine Mboya - Kenya 
-4. Daniel Musembi - Kenya 
-5. Ed Ober - US 
-6. Estelle Kabithi - Kenya 
-7. Forrist Lytehaause - Colorado 
-8. Jacqueline Sarange - Kenya 
-9. Jason Schulist - Wisconsin 
-10. Kyler Hanson - California 
-11. Mark Beam - Missouri 
-12. Moses Odhiambo - Kenya 
-13. Patrick Aseli - Kenya 
-14. Paul Mehl - California 
-15. Penelope Douglas - California 
-16. Tobby Kirigo - Kenya 
-17. Vinent Odhiambo - Kenya 
-18. Wendy Elford - Australia 
+1. [[Jordan Nicholas Sukut]] - California, Idaho, World  
+2. Bill Larson - California  
+3. Christine Mboya - Kenya  
+4. Daniel Musembi - Kenya  
+5. Ed Ober - North Carolina  
+6. Estelle Kabithi - Kenya  
+7. Forrist Lytehaause - Colorado  
+8. Jacqueline Sarange - Kenya  
+9. Jason Schulist - Wisconsin  
+10. Kyler Hanson - California  
+11. Mark Beam - Missouri  
+12. Moses Odhiambo - Kenya  
+13. Patrick Aseli - Kenya  
+14. Paul Mehl - California  
+15. Penelope Douglas - California  
+16. Tobby Kirigo - Kenya  
+17. Vinent Odhiambo - Kenya  
+18. Wendy Elford - Australia  
+19. George Orbelian - California  
+20. Waswala Brian Olewe - Kenya 
+21. Hank Kune - Netherlands  
+22. Michael Grossman - New York 
+23. Helene Lindmark - Sweden  
 
-The United States and Kenya are disproportionately represented due to those being the two primary places of Jordan's initial explorations and work during the Preparatory Phase. 
+The United States and Kenya are disproportionately represented due to those being the two primary places of Jordan's initial explorations and work during the Preparatory Phase. We will endeavor through each round of invitations to expand the representativeness of The Movement overall. 
 
 ## Target June 25 2023 - Second Wave Cohort 
 
