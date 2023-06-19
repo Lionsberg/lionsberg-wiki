@@ -23,8 +23,8 @@
 ## Week 3: The Vision of the New World 
 
 - [[Day 15 - Remembering Who We Are - Rediscovering our True Identity]]  
+- [[Day 16 - The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal]]  
 
-Day 16 - The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal  
 Day 17 - Facing the Wilderness - Challenges and Fears in the Transition from Old to New  
 Day 18 - The Leap of Faith - Trusting in the Process, the Pathway, and Providence   
 Day 19 - The Army of the Empire - Freedom Isn't Free  
