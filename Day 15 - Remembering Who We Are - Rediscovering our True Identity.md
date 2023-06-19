@@ -98,6 +98,24 @@ As we strive to understand and embody Who We Are Becoming, we will undoubtedly f
 2. **Affirmation:** Create a brief affirmation that reflects your [[Current Best Understanding]] of Who You Are Becoming, and the Inalienable Rights and Responsibilities that come with it. For example, "I am a member of the One Family and One Body of the Creator, I interexist with All Creation, and I possess all the inalienable Rights and Responsibilities that accompany this Highest Ultimate Citizenship. I am becoming a Co-Creator of a world that reflects this Highest Intention and Goal." or "I am a child of the Creator, Who is inviting me to become a conscious and engaged Co-Creator of a Better World." or (fill in your emerging New words and language, even if it feels awkward). 
      
 3. **Enact and Embody:** Throughout the day, make conscious choices that align with your Highest Identity, your understanding of Who You Are Becoming and Why, and your [[Current Best Understanding]] of the Highest Intention and Greatest Good. This could be as simple as expressing kindness to a stranger, picking up some litter, helping an elderly person lift their groceries, catching a spider and helping it out of the house instead of crushing it, or as profound as recognizing that who you became in the Old World and the way you have been existing is not fit for the New World, and making a significant life change that reflects your True and Higher Identity, Purpose, Destiny, and Goal. 
+     
+4. **Update Your Story - Part I**: How does the issue of Identity play into **Your Story** and **Our Story**? How does Who We Are, Who We Are Becoming, and Why inform our Purpose, our Mission, and our Goal? Send some time incorporating the concepts of Identity, Being, and Becoming into Your Story. 
+     
+5. **Update Your Story - Part II**: Part of Your Story is a Forward Looking Story about Who You Are Becoming, Where You Are Going, and Why. As we develop and clarity our Vision of the New World over the coming days, develop and clarity a Vision of your New Life within. An overarching and uniting Vision / Forward Looking Story for your life must be composed of numerous clearly articulated sub-visions. Start by creating some categories for your life, and jotting down notes about what your aspirational and desired life might be like. If you were loved and could become and have all you need to develop towards your unique potential and flourish, what might the following areas of your life look like? This will take some meaningful time. At a minimum, jot down the categories in a way you can add notes and bullet points as vision and inspiration for each area emerge over the coming days and weeks. 
+
+	1. Relationship to the Creator / God / Source / Ultimate Reality 
+	2. Relationship to Creation / Nature / Reality 
+	3. Relationship to Self 
+	4. Romantic Relationship  
+	5. Family Relationships (Immediate) 
+	6. Family Relationships (Extended)  
+	7. Meaningful Friendships  
+	8. Meaningful Work  
+	9. Civic Responsibility and Community Development  
+	10. Lifelong Learning and Development 
+	11. Productive, Generous, and Aligned Use of Free Time  
+	12. Economic Development, Alignment, and Wellbeing 
+	13. Spiritual, Intellectual, and Physical Development and Wellbeing  
 
 
 ## Closing 
