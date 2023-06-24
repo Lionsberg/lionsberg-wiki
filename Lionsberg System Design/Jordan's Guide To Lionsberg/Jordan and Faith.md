@@ -5,13 +5,13 @@ Grappling with the [[One]] [[Deepest]] thing, upon which [[All]] else depends, c
 
 If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from my direct personal relationship with the eternal and universal "I Am" that is the Source and Sustainer of my being and consciousness. 
 
-From the mysteries of how the universe was brought into being, to the dawn of humanity and our earliest glimpses of consciousness, to the legends of those who wrestled with the Spirit and incarnation God, to the burning bush that demanded Moses liberate God's children from slavery and oppression, through the epic saga of the nations and peoples of the earth struggling to grope and feel their way forward, to the life of Jesus, and the hope that one glorious morning, every prophesy would be fulfilled and all the nations and peoples of the earth would dwell together in harmony and right relationship with the One true King of All... 
+From the mysteries of how the universe was brought into being, to the dawn of humanity and our earliest glimpses of consciousness, to the legends of those who wrestled with God, to the burning bush that demanded Moses liberate God's children from slavery and oppression, through the epic saga of the nations and peoples of the earth struggling to grope and feel their way forward, to the life of Jesus, and the hope that one glorious morning, every prophesy would be fulfilled and all the nations and peoples of the earth would dwell together in harmony and right relationship with the One true King of All... 
 
-This is the great mystery and romance that informs all that I do and am. 
+This is the great mystery and romance that informs all that I do and am.
 
 For me, this journey is rooted in Love and in my personal, direct relationship and connection to That Which Is Creating and Sustaining me, which I often call God, Father, Source, or One. 
 
-This personal quest to align the depths of my being as closely as I can with the Source of Being is by far the most profound and important part of my existence. 
+This personal quest to align the depths of my being as closely as I can with the Source of Being, with God, is by far the most profound and important part of my existence. 
 
 It is my purpose, my destiny, and my Why. 
 
@@ -21,13 +21,13 @@ I do not contextualize or experience my spirituality through the lens of religio
 
 It has often been said that one of the most important steps on our spiritual journey is the liberation from our childhood religion. 
 
-While this is a scary statement for parents or spiritual leaders, it is true in the same way that every parent longs for their children to ultimately surpass elementary educational and disciplinary structures to achieve thier own unique, creative mastery. 
+While this is a scary statement for parents or spiritual leaders, it is true in the same way that every parent longs for their children to ultimately surpass elementary educational and disciplinary structures to achieve their own unique, creative mastery. 
 
 Liberation from our childhood religions does not mean that we necessarily leave them behind. We can still identify with them as long as they are useful. However the true and ultimate security that cannot be faked or substituted comes from direct personal experience with and knowledge of God. 
 
 Religions are often good. They are often useful. They are often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
 
-Yet they also often grow corrupted and harden into stifling forms of false authority, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever closer personal relationship with God. 
+Yet they also often grow corrupted and harden into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever closer personal relationship with God. 
 
 Jesus spoke to this when he railed at the religious leaders and teachers of his day, saying 
 
@@ -39,15 +39,15 @@ The most pivotal figures in history seem to have universally had this experience
 
 Jesus is a great example of someone who is now the single most widely admired and emulated figure in history, who at the time was continually criticized for hanging out with people that the prevailing religion of the time would reject as unclean or unholy. 
 
-At the same time, he spoke out Truthfully against the corrupted religious structures of his day, ultimately resulting in his character being slanderred and his physical body being murdered. 
+At the same time, he spoke out Truthfully against the corrupted religious structures of his day, ultimately resulting in his character being slandered and his physical body being murdered. 
 
-My family was deeply steeped in this Judeo Christian tradition that undergirds much of the thought of the Western world. My father was a builder, who left that profession to start a non-denominational Christian church. 
+My family was deeply steeped in this Judaeo Christian tradition that undergirds much of the thought of the Western world. My father was a builder, who left that profession to start a non-denominational Christian church. 
 
 I also had the deep honor of getting to explore Christian perspectives around the world that, while generally agreeing on the [[Deepest]] things, differed greatly in their understanding, ideas, and application. 
 
 I was quite surprised, growing up in the United States, in a Christian home, surrounded by primarily Republicans, when I was abroad and discovered wise good-hearted people who looked at the American / Political / Religious complex with confusion and could not understand how anyone proclaiming to be a follower of Jesus could support what they viewed as an unholy and corrupted religious nationalism. 
 
-The more Christians I met who accused other Christians of not being "true Christians", and the more Muslims I met who accused other Muslims of not being "true Muslims", and the more I discovered how internally inconsistent and contradictory different deonominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
+The more Christians I met who accused other Christians of not being "true Christians", and the more Muslims I met who accused other Muslims of not being "true Muslims", and the more I discovered how internally inconsistent and contradictory different denominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
 
 ...the more and more my Faith became an intensely personal Quest to directly experience right relationship with God and those around me. 
 
@@ -127,4 +127,8 @@ Who knows if we were not born for such a time as this!
 
 So with that background behind us, let's dive into an introduction to the Language and Concepts of the mythical [[New World]] of Lionsberg. 
 
-If you would ever like to discuss my Faith and explore together how we can [[Help One Another]] learn and grow, I am here to serve and would be delighted to walk with you on our Way towards the Goal. 
+If you would ever like to discuss my Faith and explore together how we can [[Help One Another]] learn and grow, I am here to serve and would be delighted to walk with you on our Way towards [[The Goal]].
+
+With Love, In Community, 
+
+~ J 
