@@ -27,26 +27,26 @@ Among the [[Deepest]] Values on the list are [[Truth]], [[Love]], [[Justice]], [
 
 From [[Love]], and from these additional Core Values, all other values can be derived. 
 
-## The Values 
+## The Universal Derivative Values 
 
 Without attempting to reduce the ineffable to human words, we offer up the following enumerated values as a proxy for the [[Central Animating Spirit]] that impels us. 
 
 - The [[One]] overarching and uniting [[Meta Value]] 
-- Acceptance
-- Accountability
-- Accuracy    
-- Adaptability  
+- [[Acceptance]]  
+- [[Accountability]] 
+- [[Accuracy]]    
+- [[Adaptability]]  
 - [[Adventure]]  
 - [[Agency]]  
-- At-One-Ment  
-- Authenticity  
+- [[At-One-Ment]]  
+- [[Authenticity]]  
 - [[Autonomy]]  
-- Awareness  
-- Balance  
+- [[Awareness]]  
+- [[Balance]]  
 - [[Beauty]]  
 - [[Belonging]]  
 - Caring  
-- Clarity  
+- [[Clarity]]  
 - [[Cleanliness]]  
 - Coherence  
 - [[Community]]  
@@ -65,14 +65,14 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Discernment]]  
 - [[Enjoyment]]  
 - Enoughness  
-- Enthusiasm  
+- [[Enthusiasm]]  
 - Equality  
 - Fairness 
-- Faith  
+- Faith
 - Faithfulness  
 - [[Fellowship]]  
 - Fidelity  
-- Flexibility  
+- [[Flexibility]]  
 - Focus  
 - [[Forgiveness]]  
 - Free Will  
@@ -92,7 +92,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Honesty]]  
 - [[Hope]]  
 - Hospitality  
-- Humility  
+- [[Humility]]  
 - Humor   
 - Inclusion 
 - [[Independence]]  
@@ -102,7 +102,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - Joy  
 - [[Justice]] 
 - Kindness  
-- Leadership  
+- [[Leadership]]  
 - [[Liberty]]  
 - [[Love]]
 - [[Loyalty]]  
@@ -110,7 +110,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - Mercy  
 - [[Moderation]]  
 - Non-Harm  
-- Non-Violence  
+- [[Non-Violence]]  
 - Non-Stealing  
 - [[Openness]]  
 - Patience  
@@ -131,7 +131,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Security]]  
 - [[Service]]  
 - [[Self Control]]  
-- Self Discipline  
+- [[Self Discipline]]  
 - Sexuality  
 - Simplicity  
 - [[Sovereignty]] 
@@ -139,7 +139,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Stewardship]]  
 - [[Tradition]]  
 - Transcendence  
-- Transparency  
+- [[Transparency]]  
 - [[Truth]] 
 - [[Understanding]]  
 - [[Unity]] 
