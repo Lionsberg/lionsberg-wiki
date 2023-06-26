@@ -44,11 +44,7 @@ Out here, face to face with Reality As It Actually Is, there is no "them" coming
 
 ## **The Social Cost of Breaking Free**
 
-Breaking free from The Caves and venturing into The Wilderness often invites social repercussions. As social creatures, we instinctively and rightfully fear **Ostracization**, and the prospect of challenging established language and norms and facing potential **Exclusion** can be daunting. In many arrogant, judgmental, and toxic Caves of the Old World, even the smallest break from **Their Language** can lead you to be **Canceled**. Yet, embracing and integrating this **Fear** is a crucial part of our journey towards the [[New World]]. It requires standing against the tide, questioning accepted narratives, and braving the risk of Rejection for the pursuit of a Greater Wisdom and Truth. 
-
-The truthfulness of this pattern is universally recognized - to cite the words of Jesus, "If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple." These words are difficult to accept, until one was walked in the Way and experienced the cost of Freedom, that sometimes requires us to lay down not only Old relationships, but even our Old lives. As Jesus experienced, it is often the most religious and political who seek first to kill those who speak the Truth that threatens the imprisoning Linguistic Construct of Their Cave. 
-
-There is a reason it has been said, "You shall know the Truth, and the Truth shall set you free." 
+Breaking free from The Caves and venturing into The Wilderness often invites social repercussions. As social creatures, we instinctively and rightfully fear **Ostracization**, and the prospect of challenging established language and norms and facing potential **Exclusion** can be daunting. In many arrogant, judgmental, and toxic Caves of the Old World, even the smallest break from **Their Language** can lead one to be **Canceled**. Yet, embracing and integrating this **Fear** is a crucial part of our journey towards the [[New World]]. It requires standing against the tide, questioning accepted narratives, and braving the risk of Rejection for the pursuit of a Greater Wisdom and Truth. 
 
 ## **Reflections on Division and Unity**
 
