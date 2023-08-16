@@ -1,6 +1,13 @@
 # The Lionsberg System Toolkit
 
-**COMING SOON!** 
+## Misc Tools
+- [[Everything Is A Process]]  
+- [[Everything Is A Project]]  
+- [[Template For Group]]  
+- [[Template For Pattern Language (Detailed)]] 
+
+
+## **COMING SOON!** 
 
 ### Chapter 34: The Lionsberg System Toolkit
 
