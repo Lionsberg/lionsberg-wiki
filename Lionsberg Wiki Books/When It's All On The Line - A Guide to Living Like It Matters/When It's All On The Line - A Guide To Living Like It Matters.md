@@ -68,8 +68,6 @@
 
 ### 3.11 How To Work When It's All On The Line
 
-[[3.11 How To Work When It's All On The Line]] 
-
 ### 3.11 How To Collaborate When It's All On The Line
 
 ### 3.12 How To Recreate When It's All On The Line
