@@ -40,7 +40,6 @@
 
 **Cultural considerations**: Describes how to take into account cultural differences and ensure that the pattern is culturally appropriate for the community where it is being implemented. This section should be detailed, providing a clear understanding of how to ensure cultural awareness and appropriateness.
 
-
 **Policies and Procedures**: This section describes the policies and procedures that can be put in place to support the implementation of the pattern. This can consider legal and regulatory requirements that need to be met, as well as internal policies and procedures that support the implementation of the pattern. 
 
 **Measurement and Data Collection**: Describes how to measure the success of the pattern and what data needs to be collected to evaluate its effectiveness. This section should be detailed, including key metrics and success indicators. 
