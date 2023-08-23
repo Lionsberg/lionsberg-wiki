@@ -33,7 +33,7 @@ Without a shared intention, vision, and goal, it will be impossible to align our
 - [[Your Team]] - Work in progress  
 - [[Your Story]] - Work in progress  
 - [[The Power of Today]]  - Work in progress  
-- [[Martial Arts Guide]] - Work in progress  
+- [[Rediscovering The Way - A Guide For The Warrior Spirit]] - Work in progress  
 
 ## Team / Group / Organization Resources
 - [[Your Team]] - Work in progress  
