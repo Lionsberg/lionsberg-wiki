@@ -50,3 +50,5 @@ This allows each [[Individual And Local]] element to [[Choosing A Worthy Aim|Cho
 - Good  
 - Faithful  
 - Wise  
+
+[[Lionsberg System]] 

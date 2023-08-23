@@ -15,7 +15,7 @@ Because Lionsberg is being co-created as a coherent System, words and concepts m
 
 ### Imagery
 
-If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[Membership]] pages, and [[Lionsberg Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
+If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[Lionsberg Membership]] pages, and [[Lionsberg Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
 
 You could also imagine that if someone changed a definition in the main body of work, or set of plans and specifications, without fully understanding the total philosophy and system architecture, it could potentially "break" the integrity of the system or confuse other co-creators. 
 
