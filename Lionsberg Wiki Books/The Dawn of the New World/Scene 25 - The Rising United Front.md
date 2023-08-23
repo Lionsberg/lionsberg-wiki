@@ -1,0 +1,13 @@
+# Scene 25 - The Rising United Front
+
+As the New Vision and Plan continued to spread, the old authorities grew increasingly desperate to stop it. They conducted violent raids on known gathering places, arresting and beating anyone found in possession of the Vision and Plan. Intent on maintaining their grip on power and preventing their corruption and injustices from being exposed, they mobilized their forces and launched a campaign of propaganda and violence against the Force For Good. They issued decrees and orders, threatening punishment and death to anyone who dared listen to the broadcasts from Xion or other members of the Force For Good. They sent out enforcers to arrest, detain, and silence anyone who spoke out in support of the Vision and Plan.
+
+Despite the best efforts of the authorities, the message continued to spread. The Old leaders had lost all credibility and respect in the eyes of the people, and their violent tactics only served to further alienate them and galvanize The Movement. 
+
+Xion and the Force For Good remained undaunted, gaining momentum each day as they grew in number and prepared for battle. They knew they were on the side of Truth and Justice and that they had the backing of the Spirit and all the Forces of Heaven. They persisted in speaking out and inviting others to join the movement. Despite the risks and dangers, the tipping point strategy continued to unfold, attracting more and more people to the message of hope and unity and the promise of a brighter future.
+
+As more small groups met and discussed the Vision and Plan, they began organizing and federating into a united front. They shared their stories and experiences of repression and violence at the hands of the authorities, vowing to stand together against them and the Forces Of Darkness. They drew strength from one another and from their shared commitment to the Vision and Plan.
+
+As days passed, the groups grew larger and more organized. They began to coordinate their actions, sharing information and resources with one another. They continued developing the network of underground channels through which they could communicate and support one another, and they began to understand the strengths and capabilities of each small group. 
+
+Even as the Old World seemed to crumble and fail, the Force For Good could see that the Pattern Language of the New World was  already emerging and coming into form. Day by day, then drew closer to the moment of Truth, when everything they were becoming would be tested in The Great Battle.   

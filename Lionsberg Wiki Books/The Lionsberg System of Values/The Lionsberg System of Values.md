@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This book is a [[Work In Progress]]. As we discover universal [[Values]]: 
+This book is a [[Work In Progress]]. As we discover the universal [[Values]] that cause people, society, and nature to flourish: 
 
 1. We are listing them here 
 2. We are working on simple descriptions 

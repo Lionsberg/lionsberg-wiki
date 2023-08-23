@@ -5,6 +5,7 @@
 - [[Everything Is A Project]]  
 - [[Template For Group]]  
 - [[Template For Pattern Language (Detailed)]] 
+- [[Tool For Aiming]]  
 
 
 ## **COMING SOON!** 
