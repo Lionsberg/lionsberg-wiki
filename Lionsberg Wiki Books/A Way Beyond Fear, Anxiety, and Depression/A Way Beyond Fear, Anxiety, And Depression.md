@@ -37,7 +37,7 @@ This [[Lionsberg Wiki Book]] is a [[Work In Progress]].
 [[2.6 Regaining Consciousness]]  
 [[2.7 Consciously Conducting]]  
 
-## Three - Stories   
+## Three - The Stories We Tell Our Selves    
 
 [[3.0 Stories]]  
 [[3.1 Avatars]]  

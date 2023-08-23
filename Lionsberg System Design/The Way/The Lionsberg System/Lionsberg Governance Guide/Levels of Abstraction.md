@@ -19,88 +19,89 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 
 ## Levels of Abstraction - Thought and Action 
 
-1.  Source
-2.  Pure Consciousness
-3.  Being 
-4.  Direct Experience 
-5.  Perception
-    -   Observation
-    -   Sensation
-    -   Attention
-    -   Awareness
-6.  Intuition
-    -   Insights
-    -   Hunches
-    -   Inspiration
-7.  Conceptualization
-    -   Abstraction
-    -   Imagination
-    -   Creativity
-    -   Models
-    -   Systems Thinking
-8.  Reasoning
-    -   Analysis
-    -   Frameworks
-9.  Philosophy
-    -   Ontology
-    -   Epistemology
-    -   Ethics
-    -   Aesthetics
-10.  Theory
-    -   Environmental Theories
-    -   Scientific Theories
-    -   Mathematical Theories
-    -   Social Theories
-    -   Economic Theories
-    -   Hypothesis Generation
-11.  Strategy
-    -   Strategic Thinking 
-    -   Strategic Planning 
-12.  Planning
-    -   Decision-making
-    -   Problem-solving
-    -   Goal-setting
-    -   Prioritization
-    -   Resource Allocation and Optimization
-    -   Scheduling
-    -   Delegation
-    -   Contingency Planning
-    -   Risk Management
-13.  Execution
-    -   Tactics
-    -   Action Steps
-    -   Implementation
-    -   Coordination
-    -   Hypothesis Testing
-    -   Skill Development
-    -   Performance Improvement
-14.  Impact
-    -   Outcomes
-    -   Effects
-    -   Consequences
-    -   Results
-    -   Data Collection and Analysis
-15.  Context
-    -   Environment
-    -   Culture
-    -   Society
-    -   History
-16.  Learning and Improvement
-    -   Continuous Learning
-    -   Continuous Improvement
-    -   Adjustment and Adaptation
-17.  Integration
-    -   Synthesis
-    -   Synergy
-    -   Interdisciplinarity
-    -   Connectedness
-    -   Holistic Thinking
-18.  Transcendence
-    -   Transpersonal Psychology
-    -   Mysticism
-    -   Spirituality
-    -   Universal Consciousness
-- 19. Source 
+1.  Source  
+2.  Pure Consciousness  
+3.  Being  
+4.  Direct Experience   
+5.  Perception  
+    -   Observation  
+    -   Sensation  
+    -   Attention  
+    -   Awareness  
+6.  Intuition  
+    -   Insights  
+    -   Hunches  
+    -   Inspiration  
+7.  Conceptualization  
+    -   Abstraction  
+    -   Imagination  
+    -   Creativity  
+    -   Models  
+    -   Systems Thinking  
+8.  Reasoning  
+    -   Analysis  
+    -   Frameworks  
+9.  Philosophy  
+    -   Ontology  
+    -   Epistemology  
+    -   Ethics  
+    -   Aesthetics  
+10.  Theory  
+    -   Environmental Theories  
+    -   Scientific Theories  
+    -   Mathematical Theories  
+    -   Social Theories  
+    -   Cultural Theories  
+    -   Economic Theories  
+    -   Hypothesis Generation  
+11.  Strategy  
+    -   Strategic Thinking   
+    -   Strategic Planning  
+12.  Planning  
+    -   Decision-making  
+    -   Problem-solving   
+    -   Goal-setting  
+    -   Prioritization  
+    -   Resource Allocation and Optimization  
+    -   Scheduling  
+    -   Delegation  
+    -   Contingency Planning  
+    -   Risk Management  
+13.  Execution  
+    -   Tactics  
+    -   Action Steps  
+    -   Implementation  
+    -   Coordination  
+    -   Hypothesis Testing   
+    -   Skill Development  
+    -   Performance Improvement  
+14.  Impact  
+    -   Outcomes  
+    -   Effects  
+    -   Consequences  
+    -   Results  
+    -   Data Collection and Analysis  
+15.  Context  
+    -   Environment  
+    -   Culture  
+    -   Society  
+    -   History  
+16.  Learning and Improvement  
+    -   Continuous Learning  
+    -   Continuous Improvement  
+    -   Adjustment and Adaptation   
+17.  Integration  
+    -   Synthesis  
+    -   Synergy  
+    -   Interdisciplinarity  
+    -   Connectedness  
+    -   Holistic Thinking  
+18.  Transcendence. 
+    -   Transpersonal Psychology  
+    -   Mysticism  
+    -   Spirituality  
+    -   Universal Consciousness  
+- 19. Source   
 
 ## Levels of Abstraction - Existence 
 
@@ -108,21 +109,23 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 2. Logos    
 3. Energy  
 4. Matter  
-5. Microbiome  
-6. Plants  
-7. Animals  
-8. Humans  
-9. Families  
-10. Tribes  
-11. Communities  
-12. Bio Regions  
-13. Geographic Regions  
-14. Nations  
-15. The Human System  
-16. The Living System  
-17. The Lionsberg System  
-18. The Meta System  
-19. Source  
+5. Chemical Origins of Life 
+6. Microbiome  (Monera Kingdom + Protista Kingdom + Archaebacteria + Viruses ++)  
+7. Fungi Kingdom 
+8. Plant Kingdom  
+9. Animal Kingdom 
+10. Humans  
+11. Families  
+12. Tribes  
+13. Communities  
+14. Bio Regions  
+15. Geographic Regions  
+16. Nations  
+17. The Human System  
+18. The Living System  
+19. The Lionsberg System  
+20. The Meta System  
+21. Source  
 
 
 ## Levels of Abstraction in Practice

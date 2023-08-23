@@ -1,2 +1,2 @@
 # Martial Arts
-See [[Martial Arts Guide]]. 
+See [[Rediscovering The Way - A Guide For The Warrior Spirit]]. 
