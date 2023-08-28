@@ -1,6 +1,6 @@
 # The MP - Resourcing the Critical Path, and Establishing Mission Control
 
-The [[Critical Path]] objective for Spring 2023 was to gather abundant resources to equip and empower the distributed [[Team of Teams]] that would [[Co-Operate]] the [[Lionsberg System]]. 
+The [[Critical Path]] objective was to gather abundant resources to equip and empower the distributed [[Team of Teams]] that would [[Co-Operate]] the [[Lionsberg System]]. 
 
 The Resources were necessary to establish the [[Mission Control]] center from which [[The Great Battle]] to confront and overcome the [[Meta Crisis]] and forge the [[New World]] would be waged. 
 

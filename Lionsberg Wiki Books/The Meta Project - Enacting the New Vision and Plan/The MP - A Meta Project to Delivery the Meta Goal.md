@@ -1,6 +1,6 @@
 # The MP - A Meta Project to Deliver the Meta Goal
 
-Among the many metaphors, The [[Meta Project Framework]] was forged upon the [[Meta Idea]] that All human endeavor could be viewed as a single [[Program of Action]]. 
+Among the many metaphors, The [[Meta Project Framework]] was forged upon the [[Meta Idea]] that All human endeavor could be viewed as a single [[Program of Action]] to accomplish the [[Creator's Intent]] on [[Worksite Earth]]. 
 
 This overarching and uniting view would allow Earth to be considered as a single worksite, to be elevated and transformed FROM its current state of being, TOWARDS its best and highest possible state of being. 
 
