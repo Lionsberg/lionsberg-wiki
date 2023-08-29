@@ -6,11 +6,12 @@ They are each a [[Work In Progress]].
 ## Start Here 
 
 1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
-2. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]   
-3. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
-4. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
-5. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
-6. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
+2. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
+3. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
+4. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
+5. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
+6. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
+7. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
 
 ## A Larger Work In Progress
 1. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
@@ -24,7 +25,7 @@ They are each a [[Work In Progress]].
 4. [[The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]   
 5. [[The Power of Today]]  - by [[Jordan Nicholas Sukut]]   
 6. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
-7. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  - by [[Jordan Nicholas Sukut]]   
+7. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  - by [[Jordan Nicholas Sukut]]  
 8.  [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
 9. [[Frequently Asked Questions]] - by [[Jordan Nicholas Sukut]]  
 
