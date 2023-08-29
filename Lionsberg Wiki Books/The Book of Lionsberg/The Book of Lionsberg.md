@@ -494,14 +494,55 @@ This chapter is a [[Work In Progress]]
 [[11.84 Work That Lacks Quality is not Neutral - It is Harmful Waste]]
 [[11.85 What is the Budget for the Meta Project?]]  
 
-
-
 ### Chapter Twelve - The Anti-Quest
-[[Chapter Twelve - Coming Soon]]  
 
+This chapter is a [[Work In Progress]]
+
+[[12.1 The Quest of the Anti-Hero]]  
+[[12.2 The Nature and Reality of Evil]]  
+[[12.3 The Knowledge of Anti-Goodness]]  
+[[12.4 Pain, Suffering, and Death]]  
+[[12.5 The Causes of Pain, Suffering, and Death]]  
+[[12.6 The Gift and Curse of Fear and Anxiety]]  
+[[12.7 Ignorance and Unintentional Harm]]  
+[[12.8 Evil, Malevolence, and Intentional Harm]]  
+[[12.9 Evil, Malevolence, and Fear]]  
+[[12.10 Forsaking One and All, in Service of Self]]  
+[[12.11 Anti-Good in Good's Clothing]]  
+[[12.12 The Supreme Anti-Good]]  
+[[12.13 The Spirit of Evil]]  
+[[12.14 The Abyss]]  
+Malevolence and Relative Power 
 ### Chapter Thirteen - The Quests of the Heroes
-[[Chapter Thirteen - Coming Soon]]  
 
+This chapter is a [[Work In Progress]]
+
+[[13.1 The Logos That Brings Forth The World]]  
+[[13.2 The Quest of the Heroes]]  
+[[13.3 What Beckons Beyond]]  
+[[13.4 Moving, Rising, and Falling]]  
+[[13.5 The Call and Embarkation]]  
+[[13.6 Completion, Fulfillment, and Shalom]] 
+[[13.7 The Serpent in the Garden, Part II]]  
+[[13.8 The Generation of Transformation]]  
+[[13.9 Nothing Can Come First]]  
+[[13.10 There is no Turning Back]]  
+[[13.11 Courage and Perseverance]]  
+[[13.12 The Spirit of Wisdom, Courage, and Perseverance Through the Generations]]  
+[[13.13 The Wilderness Between Captivity and the Promised Land]]  
+[[13.14 Sacrificing Others Instead of Your Self]] 
+[[13.15 The Giants Guarding the Land of Promise]]  
+[[13.16 Waiting For A Meta Hero]]  
+[[13.17 Becoming a Hero]]  
+[[13.18 What Do I Do and Where Do I Begin?]]  
+[[13.19 The Embarrassing Shadows of Our Past]]  
+[[13.20 Fear, Mistakes, and Shame]]  
+[[13.21 Embracing and Acknowledging the Light and the Darkness]]  
+[[13.22 Integrating All We Are in Service of the One]]  
+[[13.23 Freedom and Forgiveness]]  
+[[13.24 Liberation From Propositional Knowing and Form]]  
+[[13.25 Rediscovering the Transcendent and Non-Propositional Ultimate Reality]] 
+[[13.26 Re-Anchoring Identity, Knowledge, Loyalty, and Faith in God]]  
 ### Chapter Fourteen - The Art and Science of the Way
 
 
