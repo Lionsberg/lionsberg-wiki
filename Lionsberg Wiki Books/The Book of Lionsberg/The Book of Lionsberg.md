@@ -515,8 +515,6 @@ This chapter is a [[Work In Progress]]
 Malevolence and Relative Power 
 ### Chapter Thirteen - The Quests of the Heroes
 
-This chapter is a [[Work In Progress]]
-
 [[13.1 The Logos That Brings Forth The World]]  
 [[13.2 The Quest of the Heroes]]  
 [[13.3 What Beckons Beyond]]  
@@ -543,8 +541,26 @@ This chapter is a [[Work In Progress]]
 [[13.24 Liberation From Propositional Knowing and Form]]  
 [[13.25 Rediscovering the Transcendent and Non-Propositional Ultimate Reality]] 
 [[13.26 Re-Anchoring Identity, Knowledge, Loyalty, and Faith in God]]  
+[[13.27 Loving Right Relationship]]  
+[[13.28 Cleaning Up the Messes We Have Made]]  
+[[13.29 The Infinite Walk of Faith]]  
+[[13.30 Lanterns in the Darkness]]  
+[[13.31 No Excuses - It is Absolutely and Inevitably Possible]]  
+[[13.32 The Choice is Ours]]  
+[[13.33 Why Us?]]  
+[[13.34 The Power of God]]  
+[[13.35 Failure is Not an Option]]  
+[[13.36 Everything is Impossible Until it Happens]]  
+[[13.37 Something For Everyone To Do]] 
+[[13.38 Co-Creation with the Best Partner We Could Ever Hope For]]  
+
 ### Chapter Fourteen - The Art and Science of the Way
 
+[[14.1 To Know the Way One Must Live It]]  
+[[14.2 A Simple Recipe For Beginning]]  
+[[14.3 Rediscovering Our True Selves]]  
+[[14.4 Creative Right Action Expecting Nothing in Return]] 
+[[Pain, Perceived Pain, and Change]]  
 
 ### Chapter X - Musings From Along the Way
 [[Chapter X - Coming Soon]]  
