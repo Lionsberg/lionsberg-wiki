@@ -31,13 +31,13 @@ If you resonate, please show your support!
 
 **Podcast Links**: 
 
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-[Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-[Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
-[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)  
-[iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
-[Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
-[Castbox](https://castbox.fm/vc/5414089)   
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
+- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)   
+- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+- [Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
 
