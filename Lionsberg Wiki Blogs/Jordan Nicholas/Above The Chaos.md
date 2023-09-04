@@ -3,7 +3,35 @@
 Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder / co-creator of Lionsberg.
 
 ## Featured Posts
+
 - [[Above The Chaos, The Vision of the New World]]  
+
+## September 2023  
+- [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
+
+- ## April / May / June 2023
+
+April / May / June 2023 were spent preparing for the Pioneer cohort to embark. Part of that was drafting an orientation and training program, which took the majority of writing time. A sample is below. 
+
+- [[Lionsberg Orientation and Training System]]  
+- [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
+- [[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
+- [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
+- [[Day 4 - Being Alive Without Truly Living - The Darkness and Exploitation of The Caves]]  
+- [[Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens]]  
+- [[Day 6 - The Whisper Campaign - Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony]]  
+- [[Day 7 - Rest, Regeneration, and Retrospection]]    
+- [[Day 8 - Out of The Caves and Into the Blinding Light]]  
+- [[Day 9 - The World We Leave Behind - Examining and Understanding the Old World]]  
+- [[Day 10 - The Meta Crisis - The Patterns of Failure Inherent in the Old World]]  
+- [[Day 11 - The Necessity of Change - Why We Must Move On, and the Danger of Looking Back]]   
+- [[Day 12 - Signs and Wonders - The Promises, Premonitions, and Bridge Towards the New World]] 
+- [[Day 13 - Committing To Our Co-Creation - Taking Up The Pen That Writes And Rights Our Future]]  
+- [[Day 14 - Rest, Regeneration, and Retrospection]]  
+- [[Day 15 - Remembering Who We Are - Rediscovering our True Identity]]  
+- [[Day 16 - The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal]]  
+- [[Day 17 - Facing the Wilderness - Confronting and Overcoming Challenges and Fears in the Transition from Old to New]]  
+- More to come soon! 
 
 ## March 2023
 
@@ -48,7 +76,7 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 - [[Above The Chaos, A Simple Invitation]] 
 - [[Above The Chaos, The Great Game of Lionsberg]] 
 - [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
-- Surprise trip to Egypt + COP27 + Israel + Illness
+- Surprise trip to Egypt + COP27 + Israel  
 
 ## October 2022
 
