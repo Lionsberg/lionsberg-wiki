@@ -6,8 +6,8 @@ A WikiCast post in [[Above The Chaos]]
 
 **Duration**: 01:40:23
 
-**Host**: [[Jordan Nicholas Sukut]] 
-**Guest(s)**: Bill Larson - Attorney & Strategic Advisor 
+**Host**: [[Jordan Nicholas Sukut]]  
+**Guest(s)**: Bill Larson - Attorney & Strategic Advisor  
 
 
 
@@ -17,7 +17,7 @@ A WikiCast post in [[Above The Chaos]]
 
 If you resonate, please show your support! 
 
-**1. Engage on Social Media**
+**1. Engage on Social Media**  
 - [Jordan Nicholas on Instagram](**[https://www.instagram.com/jnicholasone/](https://www.instagram.com/jnicholasone/)**)   
 - [Jordan Nicholas on X (Twitter)](**[https://twitter.com/JNicholasOne](https://twitter.com/JNicholasOne)**)  
 - [Jordan Nicholas on LinkedIn](www.linkedin.com/in/jordannicholasone)  
@@ -25,43 +25,44 @@ If you resonate, please show your support!
 
 ## Platform Links 
 
-**Video Links**
+**Video Links**  
 [YouTube Link](https://www.youtube.com/watch?v=XrRHtNxu38Y)  
 [X Link](https://twitter.com/JNicholasOne/status/1697908352561349025?s=20)  
 
 **Podcast Links**: 
 
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-[Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-[Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)   
-[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)  
-[iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)  
-[Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV](https://radiopublic.com/above-the-chaos-GOLpjV)  
-[Castbox](https://castbox.fm/vc/5414089](https://castbox.fm/vc/5414089)  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
+[Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+[Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)  
+[iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+[Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+[Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
-Briefly describe the main topics and key points discussed in the episode, along with any relevant highlights or takeaways.
+
+For our pilot episode we reversed the roles. Bill Larson is interviewing our podcast host Jordan Nicholas. Bill Larson is an attorney and a friend of Jordans.
 
 **Timestamps**:
 
-00:00 The first profound question  
-01:44 Soft launch  
-07:24 What kind of a world you want to leave behind?  
-14:17 Sharp edges of life  
-24:29 Don’t set goals if you’d rather solve problems  
-37:58 Character development  
-40:00 Mondragon co-operation  
-01:01:08 True Legacy  
-01:14:38 Just tuned in  
-01:20:25 Extended discussion  
+- 00:00 The first profound question  
+- 01:44 Soft launch  
+- 07:24 What kind of a world you want to leave behind?  
+- 14:17 Sharp edges of life  
+- 24:29 Don’t set goals if you’d rather solve problems  
+- 37:58 Character development  
+- 40:00 Mondragon co-operation  
+- 01:01:08 True Legacy  
+- 01:14:38 Just tuned in  
+- 01:20:25 Extended discussion  
 
 
-**Key Concepts and Ideas**:
-- Coming Soon 
-- Legacy 
-- Profound Questions  
-- Sharp Edges 
-- Vision 
+**Key Concepts and Ideas**:  
+  
+- Legacy  
+- Profound Questions   
+- Sharp Edges  
+- Vision  
 - Character  
 - Mondragon  
 - Social Justice  
