@@ -12,6 +12,7 @@ They are each a [[Work In Progress]].
 5. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
 6. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
 7. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
+8. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
 
 ## A Larger Work In Progress
 1. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  

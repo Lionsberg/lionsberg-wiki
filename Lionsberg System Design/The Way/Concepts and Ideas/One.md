@@ -1,6 +1,6 @@
 # One
 
-In the [[Lionsberg System]], [[One]] is used as a [[Word Tool]] to point to the same [[Ultimate Reality]] that English word tools such as [[God]], [[Source]], [[Absolute]], [[Creator]], etc. point to. 
+In the [[Lionsberg System]], [[One]] is used as a [[Word Tool]] to point to the same [[Ultimate Reality]] that English word tools such as [[God]], [[Source]], [[Absolute]], [[Creator]], Holy One, etc. point to. 
 
 It refers to the [[One]] thing from, through, and to which [[All]] other things arise and return. 
 
