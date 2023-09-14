@@ -64,3 +64,5 @@ We are Praying Love and Inspiration Over Your Day Today.
 [[4.5 Closing Reflection]]
 
 The End
+
+Onward to other [[Lionsberg Wiki Books]]  
