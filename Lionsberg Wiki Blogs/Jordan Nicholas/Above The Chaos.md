@@ -1,17 +1,48 @@
 # Above The Chaos by Jordan Nicholas
 
-Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder / co-creator of Lionsberg.
+Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder & Co-Creator of Lionsberg.
+
+Above The Chaos is a podcast, blog, and video series intended to inspire and unite the Force For Good. 
+
+Join us as we rise up, hover over the roiling waters of chaos and darkness, and articulate the Truthful words that bring forth the future that is most Good. 
+
+For links to podcast, video, and social platforms see [[Above The Chaos - Link Tree]]  
 
 ## Featured Posts
 
 - [[Above The Chaos, The Vision of the New World]]  
 
 ## September 2023  
-- [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
 
-- ## April / May / June 2023
+- **Above The Chaos Podcast Episode 4** is live - [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]  
+- **Above The Chaos Podcast Episode 3** is live - [[Our Journey Towards Lionsberg - Jordan Nicholas and Bill Larson - EP 3]]  
+- Update to - [[Lionsberg Wiki Books]]  
+- Progress published - [[The Book of Lionsberg]]  
+- New Wikibook published - [[Jordan's Voice Notes]]    
+- New Wikibook published - [[The Way of God]]   
+- New Wikibook published - [[An Alternative to Apocalypse - The New Covenant]]  
+- New Wikibook published - [[Most People Have No Idea What Is Coming]]  
+- **Above The Chaos Podcast Episode 2** is live - [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
+- **Above The Chaos Podcast Episode 1** is live - [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
+- [www.JordanNicholas.org](https://jordannicholas.org) website created, with Join The Movement page linked to donor relationship system. 
 
-April / May / June 2023 were spent preparing for the Pioneer cohort to embark. Part of that was drafting an orientation and training program, which took the majority of writing time. A sample is below. 
+## July and August 2023 
+
+- [[Above The Chaos, 2023 August Update From Jordan]]  
+- **The Reset**: Reset experiment to focus on broadcasting and publishing leading with Jordan's personal voice instead of Lionsberg (speaking, podcasting, writing), and working to progressively unite and empower those who respond.  
+	- Establish [[Above the Chaos - WikiCast]] and [[Lionsberg WikiCast Episode Template]]  
+	- Build minimum workflows 
+	- Establish local recording tech 
+	- Establish online recording studio and transcription workflows 
+	- Establish online distribution on YouTube, X, Apple Podcasts, Spotify, iHeartRadio, etc. 
+- **The Home Base**: Interstate move, establish new homestead / base of operations in Idaho
+- **The Lawsuit**: Filed corruption lawsuit Jordan Nicholas Sukut v. County of San Bernardino et al in Federal Court - complaint can be downloaded and viewed [Here](https://www.courtlistener.com/docket/67647282/jordan-nicholas-sukut-v-county-of-san-bernadino/)    
+- **The Books:** Advanced the series of [[Lionsberg Wiki Books]] to provide additional written backbone for The Movement  
+- **The Podcast**: Record and produce first two podcast episodes  
+- **The Next Experiment** - Launch next social experiment September 1 with release of first two podcasts  
+## April / May / June 2023
+
+April / May / June 2023 were spent preparing two Pioneer cohorts to embark and see if we could spark a chain reaction. Below is a sample of orientation materials we were working through. Based on our learnings and discernment, we reset the experiment in July and August towards reaching a larger audience with a more decentralized model, and then launched the next experiment September 1st. 
 
 - [[Lionsberg Orientation and Training System]]  
 - [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
@@ -31,7 +62,7 @@ April / May / June 2023 were spent preparing for the Pioneer cohort to embark. P
 - [[Day 15 - Remembering Who We Are - Rediscovering our True Identity]]  
 - [[Day 16 - The Vision and Values of the New World - Resurrecting our True Destiny, Aim and Goal]]  
 - [[Day 17 - Facing the Wilderness - Confronting and Overcoming Challenges and Fears in the Transition from Old to New]]  
-- More to come soon! 
+- Experiment too slow and heavy, terminated. 
 
 ## March 2023
 
