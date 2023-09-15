@@ -31,7 +31,7 @@
 ### **Conclusion - A Choice for Humanity**
 
 [[Conclusion - A Choice for Humanity]]
-
+[[Chapter 15 - Immediate Next Steps]]  
 ### **Appendices**
 
 - **Appendix A**: The New Covenant between the Creator, Humanity, and All Creation

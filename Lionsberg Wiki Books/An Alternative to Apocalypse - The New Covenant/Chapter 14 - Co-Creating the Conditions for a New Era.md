@@ -10,14 +10,14 @@ As we stand on the precipice of a New Era, we are not merely passive observers b
     
 2. **The Human Role**: As beings made in the image of the Creator, humans have the unique ability to bring forth new realities through conscious intention and collaboration, guided by Wisdom and aligned with the Spirit of God.
     
-3. **The Collective Mind**: The power of collective consciousness cannot be underestimated. When a critical mass of individuals aligns with the Highest Divine principles, a tipping point is reached that can usher in transformative change at a pace far more rapid than we understand.
+3. **The Collective Spirit and Mind**: The power of collective consciousness cannot be underestimated. When a critical mass of individuals aligns with the Highest Divine principles, a tipping point is reached that can usher in transformative change at a pace far more rapid than we understand, arising from the deeper levels of Spirit and Consciousness.
     
 
 #### **III. Guidelines for Wise Co-Creation**
 
-1. **Alignment with Divine Principles**: Any endeavor must be aligned with the eternal principles of Truth, Love, Justice, Wisdom, Stewardship and Unity Under God, as these are the foundational building blocks of a harmonious and flourishing world.
+1. **Alignment with Divine Principles**: Any endeavor must be aligned with the eternal principles of Truth, Love, Justice, Wisdom, Stewardship, Beauty, Liberty and Unity Under God, as these are the foundational building blocks of a harmonious and flourishing world.
     
-2. **Inclusivity and Participation**: The process of co-creation must be inclusive, allowing for the diverse gifts, perspectives, and talents of all God's children to contribute to the co-creation of the New Era.
+2. **Inclusivity and Participation**: The process of co-creation must be inclusive, allowing for the diverse gifts, perspectives, and talents of all God's children to contribute to the co-creation of the New Era, with no one involuntarily left behind.
     
 3. **Transparency and Accountability**: Co-creation requires a level of transparency and mutual accountability that ensures the integrity of the process and the outcome.
     
