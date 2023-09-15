@@ -126,7 +126,8 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## September 2022  
 
-- Surprise trips to Estonia and New York
+- Surprise trips to Estonia and New York  
+- [Tallinn University of Technology Panel](https://estonianworld.com/videos/open-lecture-future-capital-rebuilding-the-economy-for-the-future/)  
 - [[Jordan's Short Story]]  
 
 ## August 2022
