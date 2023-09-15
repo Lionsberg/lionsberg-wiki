@@ -10,9 +10,9 @@ Our mission is to connect, inspire, and empower a diverse global community to va
 
 ## To Get Started
 
-To get started with the Lionsberg Wiki, we would recommend that you visit the [[Above The Chaos]] series, and choose a [[Lionsberg Wiki Books|Lionsberg Wiki Book]] to explore. 
+To get started with the Lionsberg Wiki, we would recommend that you visit the [[Above The Chaos]] series, or choose a [[Lionsberg Wiki Books|Lionsberg Wiki Book]] to explore. 
 
-Exploring one of [[Jordan]]'s books will give you a sense for both both work, and the way the Lionsberg Wiki operates. 
+Exploring one of the books will give you a sense for both the work we are engaged in, and the way the Lionsberg Wiki operates. 
 
 [[Jordan's Guide to Lionsberg]] is another starting point, and feel free to also explore [[Ideas and Inspiration to Become More Involved]]. 
 
