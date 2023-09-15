@@ -44,6 +44,6 @@ They are each a [[Work In Progress]].
 4. [[Jordan's Guide to Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 5. [[The Lionsberg Pattern Language]] - by [[Jordan Nicholas Sukut]]  
 
-## Also See
+## Also See Jordan's Podcast and Blog Series 
 1. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
 

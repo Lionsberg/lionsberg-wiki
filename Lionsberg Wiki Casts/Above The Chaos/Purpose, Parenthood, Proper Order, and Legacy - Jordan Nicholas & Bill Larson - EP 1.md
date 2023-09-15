@@ -18,8 +18,8 @@ A WikiCast post in [[Above The Chaos]]
 If you resonate, please show your support! 
 
 **1. Engage on Social Media**  
-- [Jordan Nicholas on Instagram](**[https://www.instagram.com/jnicholasone/](https://www.instagram.com/jnicholasone/)**)   
-- [Jordan Nicholas on X (Twitter)](**[https://twitter.com/JNicholasOne](https://twitter.com/JNicholasOne)**)  
+- [Jordan Nicholas on Instagram](https://www.instagram.com/jnicholasone/)   
+- [Jordan Nicholas on X / Twitter](https://twitter.com/JNicholasOne)  
 - [Jordan Nicholas on LinkedIn](www.linkedin.com/in/jordannicholasone)  
 - [Jordan Nicholas on Facebook](https://www.facebook.com/jnicholasone?mibextid=LQQJ4d)  
 

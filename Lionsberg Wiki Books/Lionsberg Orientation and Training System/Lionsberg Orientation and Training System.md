@@ -31,6 +31,8 @@ Day 19 - The Army of the Empire - Freedom Isn't Free
 Day 20 - Walking in the Way of Freedom, Faith and Miracles  
 Day 21 - Rest, Regeneration, and Retrospection  
 
+[[Week 4 - Pause, Retrospect and Regroup]]     
+
 ## Week 3: Life in the Wilderness  - Part I 
 
 Day 22 - Rediscovering what it means to be Sovereign, Autonomous, and Free  
