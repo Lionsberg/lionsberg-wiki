@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-[[1.1 Brief Introduction of the Participants]]  
-[[1.2 Setting the Context]] 
-[[1.3 Objectives of the Dialogue]]  
+[[1.1 Brief Introduction of the Participants]]   
+[[1.2 Setting the Context]]  
+[[1.3 Objectives of the Dialogue]]   
 
 ## 2. The Current State of Affairs
 
