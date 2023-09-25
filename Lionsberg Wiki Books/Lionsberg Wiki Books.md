@@ -8,27 +8,29 @@ They are each a [[Work In Progress]].
 1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
 2. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
 3. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
-4. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
-5. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
-6. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
-7. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
-8. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
-9. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
-10. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
-11. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
+4. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]  
+5. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
+6. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
+7. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
+8. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
+9. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
+10. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
+11. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
+12. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
 
 ## A Larger Work In Progress
 1. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
 
 ## Tier 2 Sketches 
 
-1. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+1. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
+2. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 3. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
 4. [[The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]   
 5. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
-7. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  - by [[Jordan Nicholas Sukut]]  
-8.  [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
-9. [[Frequently Asked Questions]] - by [[Jordan Nicholas Sukut]]   
+6. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  - by [[Jordan Nicholas Sukut]]  
+7.  [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
+8. [[Frequently Asked Questions]] - by [[Jordan Nicholas Sukut]]   
 
 ## Even More Drafty and In Progress  
 
