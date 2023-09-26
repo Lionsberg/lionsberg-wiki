@@ -15,7 +15,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## September 2023  
 
 - New Wikibook published - [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - an interview with AI  
-- **Above The Chaos Podcast Episode 4** is live - [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]  
+- **Above The Chaos Podcast Episode 4** is live - [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]    
 - **Above The Chaos Podcast Episode 3** is live - [[Our Journey Towards Lionsberg - Jordan Nicholas and Bill Larson - EP 3]]  
 - **Above The Chaos Podcast Episode 2** is live - [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
 - **Above The Chaos Podcast Episode 1** is live - [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
