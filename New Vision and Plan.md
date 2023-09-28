@@ -8,12 +8,7 @@ The [[New Vision and Plan]] is a holistic framework that presents a bold and cap
 
 To explore aspects of the New Vision and Plan in more detail, see: 
 
-- [[Beyond The Meta Crisis - A Blueprint for a Better Future]]   
-- [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]    
-- [[Lionsberg, Simple and Clear]]  
-- [[The Great Game of Lionsberg]]  
-- [[The Lionsberg Approach to Citizen Led Governance]]  
-- [[The Lionsberg Strategy and Plan of Action]]  
+- [[Beyond The Meta Crisis - A Blueprint for a Better Future]] and the other [[Lionsberg Wiki Books]]. 
 
 ___
 
@@ -29,7 +24,7 @@ Beyond the precise language in [[Beyond The Meta Crisis - A Blueprint for a Bett
 
 ## Analysis
 
-We acknowledge that the existing systems and structures of the [[Old World]] are inadequate, corrupt, and both unwilling and unable to effectively address the [[Meta Crisis]]. As such, we require a [[Citizen Led]] [[Meta Solution]] to transform our world and co-create a brighter future for [[All]].
+We acknowledge that the existing systems and structures of the [[Old World]] are inadequate, corrupt, and both unwilling and unable to effectively address the [[Meta Crisis]]. As such, we require a [[Citizen Led]] solution to transform our world and co-create a brighter future for [[All]].
 
 ## Engagement
 

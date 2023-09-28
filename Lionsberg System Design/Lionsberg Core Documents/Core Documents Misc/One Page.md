@@ -24,7 +24,7 @@ The **protocols** of the platform(s) will help ensure that local progress toward
 
 **Individual & Local Initiative**: Empowered local initiative -> measurable local solutions and successes.  
 
-**Scalable Global Solutions**: Best local solutions packaged, improved, replicated, and scaled as elements of a continuously improving [[Prototype]].  
+**Scalable Global Solutions**: Best local solutions packaged, improved, replicated, and scaled as elements of a continuously improving [[Prototype]].    
 
 **Adaptation & Interoperability**: Prototype components constitute a “kit of parts” for local and cultural adaptation.  
 

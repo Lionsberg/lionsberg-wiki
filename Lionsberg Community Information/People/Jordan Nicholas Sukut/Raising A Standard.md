@@ -13,7 +13,7 @@ This is an invitation to the inception of the Lionsberg Platform and The Great G
 5. [[Prepare For The Great Transformation]]  
 6. [[Spread The Word]]  
 
-If you get lost or don't have time, see the [[Lionsberg One Pager]]  
+If you get lost or don't have time, see the [[One Page Introduction to Lionsberg]]  
 
 As reflected in [[The Story of the Builder]], everything about Lionsberg is a collaborative [[Work In Progress]]. There are gaps, oversights, and missing pieces. We hope you will be willing to contribute your unique perspective and expertise to help improve and advance things. 
 

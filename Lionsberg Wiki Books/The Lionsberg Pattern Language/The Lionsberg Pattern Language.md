@@ -43,7 +43,7 @@ II. The Essence of Being
 8.  Wisdom and Enlightenment  
 9.  The Entropic and Anti-Entropic Forces  
 10. The Human Mind and its Tendencies 
-11. Transformation Towards The Ideal  
+11. Continual Transformation Towards The Ideal  
 
 III. The Narrative Structure 
 
@@ -57,17 +57,20 @@ IV: The Pursuit of Wisdom and Truth
 
 1. The Philosophical Enterprise 
 2. The Scientific Enterprise  
-3. Balancing Wisdom and Knowledge 
-4. Understanding Cognitive Biases and Heuristics 
-5. Transcending Cognitive Biases and Heuristics 
-6. Navigating towards Wisdom and Truth 
-7. Ethics in the Pursuit of Knowledge 
+3. Balancing Wisdom and Knowledge  
+4. From Wisdom and Knowledge, to Theory and Practice  
+5. Understanding Cognitive Biases and Heuristics 
+6. Transcending Cognitive Biases and Heuristics 
+7. Navigating towards Wisdom and Truth 
+8. Ethics in the Pursuit of Wisdom and Knowledge 
+9. Humility in the Pursuit of Wisdom and Knowledge  
 
 V. Universal Wisdom, Principles, and Values 
 
 1.  Placing the Creator at the Center 
-2.  Progressing Towards Unity Through Love    
-3.  Universal Wisdom, Principles, and Values 
+2.  Creator's Intent
+3.  Progressing Towards Unity Through Love    
+4.  Universal Wisdom, Principles, and Values 
 5.  Diverse Unity   
 6.  Interdependence and Interexistence  
 7.  Co-Creation  
@@ -78,15 +81,16 @@ V. Universal Wisdom, Principles, and Values
 12.  Service and Stewardship  
 13.  Conduitship and Flow  
 14.  Flourishing and Abundant Life 
+15. The Lionsberg System of Values  
 
 VI. Holistic Human Development
 
-1.  Physical Well-being and Health  
+1.  Physical Wellbeing and Development    
 2.  Intellectual Growth and Creativity  
 3.  Emotional Intelligence and Empathy  
 4.  Family Formation and Flourishing  
 5.  Social Connection and Cooperation  
-6.  Cultural Intelligence and Appreciation 
+6.  Cultural Intelligence and Appreciation  
 7.  Spiritual Awakening and Transformation  
 8.  Environmental Harmony and Regeneration  
 
@@ -102,6 +106,7 @@ VII. Ethical and Moral Foundations
 8.  Stewardship and Cultivation 
 9.  Hospitality and Inclusion  
 10.  Loving and Fearing One above All  
+11.  The Lionsberg System of Values  
 
 VIII. Cultures and Societies
 
@@ -115,45 +120,47 @@ VIII. Cultures and Societies
 8.  Regenerating the Fabric of Society  
 9.  Liberation from Ideology  
 10.  Liberation from Oppression and Injustice  
-11. Celebrating Cultural and Cognitive Diversity 
+11. Celebrating Cultural and Cognitive Diversity  
 
 IX. Sustainable and Regenerative Systems
 
 1.  Systemic Thinking 
 2.  The Universe as a System of Systems  
-3.  The Human System as a System of Systems 
-4.  Nature as a Living System   
-5.  The Lionsberg System as a New Operating System for Humanity 
-6.  Environmental Impact Assessment 
-7.  Social Impact Assessment 
-8.  Regenerative Architecture and Design  
-9.  Continuously Improving the Built Environment  
-10.  Natural Resource Stewardship  
-11.  Ethical Mining and Extraction 
-12.  Chemical and Pollutant Management 
-13.  Ecological Balance and Regeneration    
-14.  Environmental Stability and Resilience  
-15.  Cultivating and Stewarding Biodiversity 
-16.  Cultivating and Stewarding Forests 
-17.  Cultivating and Stewarding Wetlands 
-18.  Cultivating and Stewarding Plains  
-19.  Cultivating and Stewarding Oceans 
-20.  Cultivating and Stewarding Rivers and Lakes 
-21.  Cultivating and Stewarding Deserts 
-22.  Cultivating and Stewarding Coastlines 
-23.  Renewable and Regenerative Energy  
-24.  Regenerative Agriculture and Food Sovereignty    
-25.  Circular and Zero-Waste Economies  
-26.  Just, Inclusive, and Harmonious Communities  
-27.  Regenerative Stewardship of Water 
-28. Regenerative Stewardship of Air 
-29. Regenerative Stewardship of Land  
-30. Regenerative Stewardship of Soil 
-31. Regenerative Stewardship of the Microbiome  
-32. Regenerative Stewardship of the Web of Life  
-33. Environmental Wellbeing Indicators 
-34. Social and Cultural Wellbeing Indicators 
-35. Sabbath, Rest, and Jubilee  
+3.  The Human System as a System of Systems  
+4.  The Reintegration of Human and Natural Systems  
+5.  Nature as a Living System   
+6.  The Lionsberg System as a New Operating System for Humanity  
+7.  Environmental Impact Assessment  
+8.  Social Impact Assessment  
+9.  Regenerative Architecture and Design  
+10.  Continuously Improving the Built Environment  
+11.  Continuously Improving the Living Environment  
+12.  Ethical Mining and Extraction 
+13.  Chemical and Pollutant Management  
+14.  Ecological Balance and Regeneration    
+15.  Environmental Stability and Resilience  
+16.  Cultivating and Stewarding Biodiversity  
+17.  Cultivating and Stewarding Forests  
+18.  Cultivating and Stewarding Wetlands  
+19.  Cultivating and Stewarding Plains   
+20.  Cultivating and Stewarding Oceans  
+21.  Cultivating and Stewarding Rivers and Lakes  
+22.  Cultivating and Stewarding Deserts  
+23.  Cultivating and Stewarding Coastlines  
+24.  Renewable and Regenerative Energy   
+25.  Regenerative Agriculture and Food Sovereignty    
+26.  Circular and Zero-Waste Economies  
+27.  Just, Inclusive, and Harmonious Communities  
+28.  Regenerative Stewardship of Energy  
+29.  Regenerative Stewardship of Air  
+30.  Regenerative Stewardship of Water  
+31. Regenerative Stewardship of Land  
+32. Regenerative Stewardship of Soil  
+33. Regenerative Stewardship of the Microbiome   
+34. Regenerative Stewardship of the Web of Life  
+35. Environmental Wellbeing Monitoring, Measurement, and Communication      
+36. Social and Cultural Wellbeing Monitoring, Measurement, and Communication    
+38. Sabbath, Rest, and Jubilee   
 
 X. Governance and Leadership
 
@@ -165,32 +172,32 @@ X. Governance and Leadership
 6.  Citizenship  
 7.  Citizen Led Governance      
 8.  Citizen Led Impact  
-9.  Collaborative Decision-Making  
+9.  Collaborative Decision Making  
 10.  Collaborative Resource Stewardship and Allocation  
 11.  Collaborative Talent Stewardship and Allocation 
 12.  Rights and Responsibilities
 13.  Rule of Law, Social Contracts, and Fields of Agreement  
 14.  Branches of Governance  
 15.  Citizen Led Execution 
-16.  Citizen Led Legislation 
+16.  Citizen Led Legislation  
 17.  Citizen Led Monitoring and Regulation  
 18.  Citizen Led Restorative Justice  
 19.  Citizen Led Intelligence  
 20.  Tithes and Taxation  
-21.  Visionary and Transformative Leadership 
+21.  Visionary and Transformative Leadership  
 22.  Servant Leadership  
-23.  Ethical Leadership and Governance 
-24.  Leadership Development 
+23.  Ethical Leadership and Governance  
+24.  Leadership Development  
 25.  Transparency and Accountability   
 26.  Peace and Conflict Resolution  
 27.  Non-Violence, Self-Defense and War  
-28. Free Will and the Use of Force  
+28.  Free Will and the Use of Force  
 29.  Policing and Enforcement  
 30.  Global Cooperation and Diplomacy  
 31.  Governance at the Highest Level of Abstraction  
-32.  Protecting Individual and Local Sovereignty, Autonomy, and Self-Governance 
-33. Addressing and Mitigating Human Cognitive Limitations in Governance
-34. Succession Planning and Passing the Torch 
+32.  Protecting Individual and Local Sovereignty, Autonomy, and Self-Governance  
+33. Addressing and Mitigating Human Cognitive Limitations in Governance  
+34. Succession Planning and Passing the Torch  
 
 XI. Economic and Technological Innovation
 
@@ -199,13 +206,13 @@ XI. Economic and Technological Innovation
 3.  Multi-Generational Stewardship of Equity and Property  
 4.  Valuing and Rewarding the Entire Cycle of Emergence 
 5.  Defining and Producing Value, and Eliminating Waste  
-6.  The Proper Use of Currency and Money 
-7.  The Proper Use of Debt 
+6.  The Proper Role of Currency and Money 
+7.  The Proper Role of Debt 
 8.  Regenerative Work, Meaningful Livelihoods, and Purposeful Engagement  
 9.  Technological Advancement and Human Flourishing  
-10.  Harnessing Technology in Service of The Goal 
+10.  Harnessing and Aligning Technology in Service of The Goal 
 11.  Ethical and Responsible Use of Technology 
-12.  Digital and Information Literacy  
+12.  Digital and Information Literacy and Accessibility    
 13.  Regenerative and Conscious Production 
 14.  Regenerative and Conscious Consumption  
 15.  Regenerative and Conscious Tourism 
@@ -213,36 +220,37 @@ XI. Economic and Technological Innovation
 
 XII. Citizen Led Infrastructure, Services, and Support 
 
-1. Co-creating the Ladders for each Individual and Locality to Climb 
-2. Continuously Improving Shared Infrastructure 
-3. Continuously Improving Shared Services and Support 
-4. Energy Systems 
-5. Water Systems 
-6. Sanitation Systems 
-7. Information Systems 
-8. Recycling and Waste Systems 
-9. Transportation Systems  
-10. Logistics Systems  
-11.  Supply Chain Systems 
-12. Roadway and Bridge Systems 
-13. Agriculture, Aquaculture and Food Systems  
-14. Regenerative Livestock, Wildlife, and Fishery Stewardship 
-15. Industrial and Manufacturing Systems 
-16. Health and Wellbeing Systems 
-17. Education Systems 
-18. Communications Systems 
-19. Trade Systems 
-20. Housing Systems  
-21. Human Development Systems 
-22. Integrated Organizational Development Systems 
-23. Integrated Community Development Systems  
-24. Immigration Systems 
-25. Social Safety Nets 
-26. Social Justice, Access, and Equality 
-27. Environmental Justice 
-28. Disaster Preparedness and Emergency Response 
-29. Journalism and Story Telling  
-30. Giving, Volunteering, and Social Engagement 
+1. Co-creating the Ladders for Each Individual, Team and Locality to Climb 
+2. Continuously Improving Shared Infrastructure  
+3. Continuously Improving Shared Services and Support  
+4. Continuously Enriching The Commons  
+5. Energy Systems 
+6. Water Systems 
+7. Sanitation Systems 
+8. Information Systems 
+9. Recycling and Waste Systems 
+10. Transportation Systems  
+11. Logistics Systems  
+12.  Supply Chain Systems 
+13. Roadway and Bridge Systems 
+14. Agriculture, Aquaculture and Food Systems  
+15. Regenerative Livestock, Wildlife, and Fishery Stewardship 
+16. Industrial and Manufacturing Systems 
+17. Health and Wellbeing Systems 
+18. Education Systems 
+19. Communications Systems 
+20. Trade Systems 
+21. Housing Systems  
+22. Human Development Systems 
+23. Integrated Organizational Development Systems 
+24. Integrated Community Development Systems  
+25. Immigration Systems 
+26. Social Safety Nets 
+27. Social Justice, Access, and Equality 
+28. Environmental Justice 
+29. Disaster Preparedness and Emergency Response 
+30. Journalism and Story Telling  
+31. Giving, Volunteering, and Social Engagement 
 
 XIII. Meeting Needs, Solving Problems, and Accomplishing Goals
 
@@ -250,20 +258,22 @@ XIII. Meeting Needs, Solving Problems, and Accomplishing Goals
 2. The Total Nested Hierarchy of Goals  
 3. Filling Up What is Lacking  
 4. Removing What Does Not Belong  
-5. Healing, Restoring and Regenerating 
-6. Identifying and Solving Issues 
-7. Leveraging Cultural and Cognitive Diversity in Problem Solving
-8. Transforming Issues and Goals into Projects 
-9. Transforming Projects into an Integrated Program 
-10. The Lionsberg System of Integrated Delivery 
-11. The Six Step Navigation Process  
-12. Integrating and Aligning Progress 
-13. Navigating in Unity Towards The Goal 
-14. Liberating the Oppressed 
-15. Healing the Sick 
-16. Clothing the Naked 
-17. Water for the Thirsty and Food for the Hungry 
-18. Starting with the Most Vulnerable 
+5. Healing, Restoring and Regenerating  
+6. Tools and Anti-Tools  
+7. Opportunities and Obstacles  
+8. Identifying and Solving Issues 
+9. Leveraging Cultural and Cognitive Diversity in Problem Solving
+10. Transforming Issues and Goals into Projects 
+11. Transforming Projects into an Integrated Program 
+12. The Lionsberg System of Integrated Delivery 
+13. The Six Step Navigation Process  
+14. Integrating and Aligning Progress 
+15. Navigating in Unity Towards The Goal 
+16. Liberating the Oppressed 
+17. Healing the Sick 
+18. Clothing the Naked 
+19. Water for the Thirsty and Food for the Hungry 
+20. Starting with the Most Vulnerable 
 
 XIV. Holistic Development 
 

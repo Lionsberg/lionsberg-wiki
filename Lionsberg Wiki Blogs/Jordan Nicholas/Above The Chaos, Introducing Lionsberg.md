@@ -179,7 +179,7 @@ Meaningful Relationship:
 Meaningful Support: 
 
 - Access to a dynamic knowledge repository / memory that is relatively attack and crisis proof - [[Lionsberg Wiki]]  
-- Access to the [[Lionsberg System of Communication]] to create awareness across the field 
+- Access to the [[Lionsberg Communications System]] to create awareness across the field 
 - Access to the [[Lionsberg Town Square]]  
 - Help with [[Organizing And Federating]]  
 - Help with [[Structure]]  

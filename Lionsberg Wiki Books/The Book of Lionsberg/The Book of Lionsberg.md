@@ -512,6 +512,11 @@ This chapter is a [[Work In Progress]]
 [[12.12 The Supreme Anti-Good]]  
 [[12.13 The Spirit of Evil]]  
 [[12.14 The Abyss]]  
+[[12.15 A Meta Punishment and Dwelling Place Suitable for the Meta Villain]]  
+[[12.16 Liberating Humanity From The Fear Of Hell]]  
+[[12.17 The Arbitrary And Abusive Hell Of Religion And Empire Is Abolished]]   
+
+
 Malevolence and Relative Power 
 ### Chapter Thirteen - The Quests of the Heroes
 

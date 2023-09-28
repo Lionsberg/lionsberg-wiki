@@ -4,10 +4,10 @@
 
 This book is a [[Work In Progress]]. As we discover the universal [[Values]] that cause people, society, and nature to flourish: 
 
-1. We are listing them here 
-2. We are working on simple descriptions 
-3. We are working towards a full Values [[Pattern Language]] 
-4. We are working to translate Values into Principles and Practices that can guide our lives and society  
+1. We are identifying them here
+2. We are starting with simple descriptions 
+3. We are progressing towards a full Values [[Pattern Language]] 
+4. We are working to translate Values into Principles and Practices that can guide our lives, society and human operating system 
 
 ## Values Pattern Language
 
@@ -19,17 +19,23 @@ We are establishing a Values Pattern Language to interrelate the [[Total Nested 
 
 These enumerated values are reflective of a unified and coherent [[Central Animating Spirit]], whose nature is [[Absolute And Unconditional Love]]. 
 
-This Spirit results in our attempt to embody a non-propositional [[Way of Being]], rooted in Love and guided by Truth.  
+This Spirit of God results in our attempt to embody a non-propositional [[Way of Being]], rooted in Love and guided by Truth.  
 
 ## The Universal Core Values 
 
-Among the [[Deepest]] Values on the list are [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Beauty]]. 
+Among the [[Deepest]] Values on the list are: 
+- [[Truth]]  
+- [[Love]]  
+- [[Justice]]  
+- [[Stewardship]]  
+- [[Wisdom]]  
+- [[Beauty]]  
 
 From [[Love]], and from these additional Core Values, all other values can be derived. 
 
 ## The Universal Derivative Values 
 
-Without attempting to reduce the ineffable to human words, we offer up the following enumerated values as a proxy for the [[Central Animating Spirit]] that impels us. 
+Without reducing the ineffable unity of Value to human words and categories, we offer up the following identifiable values as a proxy for the [[Central Animating Spirit]] that impels us. 
 
 - The [[One]] overarching and uniting [[Meta Value]] 
 - [[Acceptance]]  
@@ -38,6 +44,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Adaptability]]  
 - [[Adventure]]  
 - [[Agency]]  
+- [[Art]]  
 - [[At-One-Ment]]  
 - [[Authenticity]]  
 - [[Autonomy]]  
@@ -56,17 +63,23 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - Consistency  
 - Cooperation  
 - [[Courage]]  
+- [[Courtesy]]  
 - [[Creativity]]  
 - [[Creation]]  
 - [[Creator]]  
+- [[Culture]]  
 - [[Curiosity]]  
+- [[Depth]]  
 - [[Dignity]]  
 - Diversity  
 - [[Discernment]]  
+- [[Drama]]  
+- [[Energy]]  
 - [[Enjoyment]]  
 - Enoughness  
 - [[Enthusiasm]]  
 - Equality  
+- [[Etiquette]]  
 - Fairness 
 - Faith
 - Faithfulness  
@@ -84,9 +97,13 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Generosity]]  
 - Gentleness  
 - [[God]]  
+- [[Golden Rule]]  
+- [[Golden Thread]]  
 - [[Goodness]]  
+- [[Good Faith]]  
 - Grace  
 - [[Gratitude]]  
+- [[Greatness]]  
 - [[Happiness]]  
 - [[Harmony]]  
 - [[Honesty]]  
@@ -94,10 +111,12 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - Hospitality  
 - [[Humility]]  
 - Humor   
+- [[Imagination]]  
 - Inclusion 
 - [[Independence]]  
 - Inspiration  
 - [[Integrity]] 
+- [[Intelligence]]  
 - [[Interdependence]]  
 - Joy  
 - [[Justice]] 
@@ -106,6 +125,7 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Liberty]]  
 - [[Love]]
 - [[Loyalty]]  
+- [[Manners]]  
 - [[Meaning]]  
 - Mercy  
 - [[Moderation]]  
@@ -116,6 +136,8 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - Patience  
 - Peace  
 - [[Perseverance]]  
+- [[Play]]  
+- [[Poise]]  
 - Purity  
 - [[Purpose]]  
 - Quality  
@@ -137,6 +159,9 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Sovereignty]] 
 - [[Spirituality]]  
 - [[Stewardship]]  
+- [[Temperance]]  
+- [[Tenderness]]  
+- [[Toughness]]  
 - [[Tradition]]  
 - Transcendence  
 - [[Transparency]]  
@@ -144,5 +169,14 @@ Without attempting to reduce the ineffable to human words, we offer up the follo
 - [[Understanding]]  
 - [[Unity]] 
 - [[Wellbeing]]  
+- [[Zeal]]  
 
+## Anti-Values 
+
+This section is a [[Work In Progress]] - just beginning to drop in the Field of Anti-Values 
+
+[[Crime]]  
+[[Dishonesty]]  
+[[Dishonest Gain]]  
+[[Dissoluteness]]  
 

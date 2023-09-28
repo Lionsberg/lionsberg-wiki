@@ -1,10 +1,6 @@
-# Lionsberg One Pager
+# Lionsberg One Pager (v.04)
 
 Welcome to Lionsberg. 
-
-## Metaphor
-
-Lionsberg represents an emerging [[City on a Hill]], inspired by scripture and [[The Story of the Builder]]. It remains a continuous [[Work In Progress]]. 
 
 ## The Quest of Humanity 
 
