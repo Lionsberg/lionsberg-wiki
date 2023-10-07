@@ -1,6 +1,7 @@
 # One Sentence 
 
 ## One Sentence  
+
 We are inspiring and empowering a movement to confront and overcome the [[Meta Crisis]], and forge a better world. 
 
 
