@@ -8,7 +8,7 @@ We are at a historic crossroads: our existing systems are disintegrating, societ
 
 ### Our Strategy: A Meta-Project for a Meta-Crisis
 
-The Lionsberg Initiative is a spiritually-guided Meta Project designed to tackle systemic corruption, ignorance, and decay, while enlightening and empowering humanity to forge a New Era of human existence and holistic flourishing. It aims to forge a self-governing, self-sustaining, and self-replicating Higher Order Functional Unity, independent of existing societal structures yet united and aligned towards the [[Creator's Intent]].
+The Lionsberg Initiative is a spiritually-guided Meta Project designed to tackle systemic corruption, ignorance, and decay, while enlightening and empowering humanity to forge a New Era of human existence and holistic flourishing. It aims to forge a self-governing, self-sustaining, and self-replicating Higher Order Functional Unity among Citizens of Goodwill, independent of existing societal structures, and united towards the [[Creator's Intent]].
 
 ### Key Components and Phases
 
