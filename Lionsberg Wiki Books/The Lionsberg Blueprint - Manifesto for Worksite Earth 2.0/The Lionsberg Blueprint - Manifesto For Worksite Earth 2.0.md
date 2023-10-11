@@ -2,7 +2,7 @@
 
 Welcome to the [[Force For Good]]. We The People are glad you are here. 
 
-**A brief orientation**: 
+## A Brief Orientation
 
 1. For a brief overview of the Lionsberg System and Approach, the following are the best starting points: 
 	1. The [[One Sentence]] question
