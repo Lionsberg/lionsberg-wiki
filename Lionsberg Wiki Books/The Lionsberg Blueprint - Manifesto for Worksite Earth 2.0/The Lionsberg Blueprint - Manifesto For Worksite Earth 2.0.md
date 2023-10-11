@@ -1,14 +1,36 @@
 # The Lionsberg Blueprint - Manifesto For Worksite Earth v.2.0
 
-## Preface
+Welcome to the [[Force For Good]]. We The People are glad you are here. 
 
-### [[Preface to the Lionsberg Blueprint]]
-## One Page Summary 
+**A brief orientation**: 
 
-### [[One Page Summary of the Lionsberg Blueprint]]
-## Executive Summary and Call to Action 
+1. For a brief overview of the Lionsberg System and Approach, the following are the best starting points: 
+	1. The [[One Sentence]] question
+	2. The [[Lionsberg Introduction]]
+	3. The [[Lionsberg Manifesto]]
+	4. The One Page and Executive Summaries below.
+2. This longer **Manifesto v2.0** expands upon the original significantly, delving deeper into context, strategy, structure, planning, resourcing and operationalization, with the Aim of serving as a more comprehensive Blueprint for The Movement. 
+3. This [[Lionsberg Wiki Book]] is a [[Work In Progress]]. The live links are to the chapters that have already been published. They provide an overview of: 
+	1. The **Meta Crisis** and proposed **Meta Solution** (Chapters 1-10)
+	2. The **Genesis** and **Mission** of **Lionsberg** (Chapters 16 and 17)
+	3. The **Lionsberg Strategy** and **Work Breakdown Structure** (Chapters 24 and 25). 
+	4. The other sections are coming soon; a quick skim of their titles will give you a sense of what lies ahead. 
+4. For a deeper dive, visit the [[Lionsberg Wiki Books]] bookshelf, where you will find thousands of interlinked pages circumambulating these issues from a variety of angles, including [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
+5. If you are not accustomed to Spiritual and Religious Language, please read the Note On Spiritual and Religious Language as an orientation to our use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
 
-### [[Executive Summary and Call to Action]]  
+## Introduction and Summaries
+### Spiritual Langauge 
+
+#### [[A Note On Spiritual and Religious Language]]
+### Preface
+
+#### [[Preface to the Lionsberg Blueprint]]
+### One Page Summary 
+
+#### [[One Page Summary of the Lionsberg Blueprint]]
+### Executive Summary and Call to Action 
+
+#### [[Executive Summary and Call to Action]]  
 
 ---
 ## Part I: The Meta Crisis and The Meta Solution - Navigating the Crossroads of History 

@@ -45,6 +45,8 @@ We extend an invitation to every citizen—every son and daughter of God—to pa
 
 ## Final Charge
 
-We conclude with a final call to your higher Self, a summons to Spirit and Divine Nature within you. The time for observing from the sidelines is over. The era for decisive action, aligned with Divine Will and Creator's Intent, is now. Let's embark together on this sacred Mission to vanquish corruption, restore justice, and establish the Kingdom of God on Earth. Become a part of the Lionsberg Movement and Community—a living, breathing tapestry of Divine Intent manifesting through collective human action.
+We conclude with a final call to your higher Self, a summons to the Spirit and Divine Nature within you. The time for observing from the sidelines is over. As we face into genuine evil, silence and complacency are complicity. The era for decisive action, aligned with Divine Will and Creator's Intent, is now. Let's embark together on this sacred Mission to vanquish corruption, restore justice, and establish the Kingdom of God on Earth. Become a part of the Lionsberg Movement and Community—a living, breathing tapestry of Divine Intent manifesting through collective human action, and let us know how we can serve, support, and empower you in your unique and important fronts of the universal battle. 
 
 May our united actions resound as a clarion call to awaken humanity to the Spirit of God present within their hearts, and beckoning us All to become Co-Creators of a New Era. Let us strive with unfaltering resolve to manifest the Creator’s Intent—on Earth as it is in Heaven. Amen.
+
+If you'd like to structurally connect now, visit [www.JordanNicholas.org](https://jordannicholas.org) and click Join The Movement. 

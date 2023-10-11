@@ -54,6 +54,8 @@ We have assembled an entirely independent [[Citizen Led]] gathering place at Lio
 
 ## Next Steps
 
-To add your energy to The Movement, visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement). 
+To add your energy to The Movement, visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement), or reach out to Jordan at J@Lionsberg.org. 
+
+To learn more, visit [[Lionsberg Wiki Books]] to view the foundational literature. 
 
 ***It's time to move.*** 
