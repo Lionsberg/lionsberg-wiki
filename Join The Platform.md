@@ -2,7 +2,7 @@
 
 "Join The Platform" is a crucial call to action for [[Citizens]] eager to actively participate in the global effort to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. By joining the [[Lionsberg Platform]], individuals will connect with a diverse and unified network of like-minded people dedicated to tackling the challenges of our time and building a better future for all.
 
-The [[Lionsberg Platform]] is a virtual hub designed to facilitate collaboration, resource sharing, and mutual support among [[Citizens]] engaged in [[The Movement]] and [[The Great Game of Lionsberg]]. As a member, you'll gain access to valuable tools, resources, and opportunities, allowing you to contribute your unique skills, knowledge, and passion to the collective mission.
+The [[Lionsberg Platform]] is a virtual hub designed to facilitate collaboration, resource sharing, and mutual support among [[Citizens]] engaged in [[The Movement]]. As a member, you'll gain access to valuable tools, resources, and opportunities, allowing you to contribute your unique skills, knowledge, and passion to the collective mission.
 
 Becoming a part of the [[Lionsberg Platform]] not only empowers you to make a meaningful impact on the world but also enables you to grow personally and professionally, as you collaborate with others, develop new skills, and gain insights from the global community.
 

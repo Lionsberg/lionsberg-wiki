@@ -5,11 +5,11 @@ ___
 ## The Provisional Code
 This is a simple Provisional Code to guide [[Wise Right]] Action during emergence. 
 
-Do the wise right thing. 
+Do the [[Wise Right Thing]]. 
 
-Do the wise right thing, at the right time, for the right reasons, to accomplish the [[Meta Goal]].  
+Do the wise right thing, at the right time, for the right reasons, to accomplish [[The Goal]]
 
-Wise right things are things that are done in a spirit of Love to help, and not harm. 
+[[Wise Right]] things are things that are done in a spirit of Love to help, and not harm, and which create Value, and avoid Waste. 
 ____
 Do not do the wrong thing. 
 
@@ -23,8 +23,16 @@ Love [[One]] and Love [[All]] as your Self.
 ___
 From any of these simple word tools, the entire Universal Law and Code can be derived. 
 ___
+
+## Spirit 
+
+The entire [[Lionsberg System]] is moved by the [[Central Animating Spirit]] of God, and operates in service of the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 
+
+This Spirit is the basis of the [[New Covenant]] that unites us [[All]] in Spirit, heart, and interexistence on a level far deeper than words. 
+
 ## Universal and Eternal Core Values 
-The entire [[Lionsberg System]] and [[Meta System]] are centered around universal and eternal [[Core Values]] flowing from [[One]] and known to [[All]]. 
+
+The Lionsberg System is centered around universal and eternal [[Core Values]] flowing from [[One]] and known to [[All]]. 
 
 In English, they can be pointed towards with words such as: 
 
@@ -33,10 +41,15 @@ Love
 Justice  
 Stewardship
 Wisdom  
+
+The Spirit is more fully reflected in [[The Lionsberg System of Values]]. 
 ___
 
 ## The Lionsberg | Meta Code
-The Question that leads to the articulation of the Code / Way of Being is something like: What would the Spirit of That Which Creates, Sustains, and Enlightens Life and Consciousness _Do_? How would It show up in our Time and Place? How would It Be [[Here]] and [[Now]]? How would It Act [[Here]] and [[Now]]? What would It Do?  
+
+The Questions that lead to the articulation of the Code / Way of Being are something like: 
+
+What would the Spirit of That Which Creates, Sustains, and Enlightens Life and Consciousness [[Be]] and [[Do]]? How would It show up in this Time and Place? How would It Be and Act [[Here]] and [[Now]]? 
 
 Because Values are abstract, and we have difficulty translating them into the concrete behaviors and Patterns of Thought, Speech, and Action that cause them to manifest, humanity has discovered that it is (at least initially) necessary to translate our shared Values into an explicit [[Behavioral Code]]. 
 

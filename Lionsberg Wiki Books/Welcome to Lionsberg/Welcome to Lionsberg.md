@@ -9,7 +9,7 @@ Welcome to [[Lionsberg]].
 The [[New Vision and Plan]] lays out the context, need, and Vision. 
 [[Lionsberg Vision]] 
 
-## The Lionsberg One Pager
+## The Lionsberg One Page Introduction 
 
 [[One Page Introduction to Lionsberg]] 
 

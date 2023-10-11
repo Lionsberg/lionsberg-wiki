@@ -7,13 +7,13 @@ That Crisis contains within itself the greatest [[Meta Opportunity]] in history.
 
 This demands an unprecedented [[Meta Solution]] that is actually capable of solving the Meta Crisis and capturing the Meta Opportunity. 
 
-Lionsberg is rising because we believe that a tremendous amount of suffering and death lies and at the logical end of humanity's current trajectory, and we are compelled to [[Act As If]] it were our responsiblity organize ourselves to do something about it. 
+Lionsberg is rising because we believe that a tremendous amount of suffering and death lies and at the logical end of humanity's current trajectory, and we are compelled to [[Act As If]] it were our responsibility organize ourselves to do something about it. 
 
 While it may not be enough, and while we may need to develop new and better ways of organizing ourselves, we know for certain that _it will require no less_ than the basic levels of competency that we use to organize any other significant human endeavor. 
 
 We are therefore making an effort to encourage ourselves and our networks to rapidly level up to at least a basic level of aggregate coordinated competence. 
 
-It is going to take legal infrstructure, process infrastructure, social infrastructure, technological infrastructure, communications and coordination infrastructure, and an absolutely world class effort to create a field of shared culture and values powerful enough to unite us above the lines that formerly divided us. 
+It is going to take legal infrastructure, process infrastructure, social infrastructure, technological infrastructure, communications and coordination infrastructure, and an absolutely world class effort to create a field of shared culture and values powerful enough to unite us above the lines that formerly divided us. 
 
 We have been working at that the last several years, and places like the [[2022.07.05 Request For Guidance]], [[Provisional Structure]], and [[2022.Q2 Presentation of Value Creation]] contain information and links to get up to speed on some of the foundational work that has been going on below the ground.
 

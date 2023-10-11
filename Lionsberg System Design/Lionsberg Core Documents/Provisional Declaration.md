@@ -37,9 +37,9 @@ What got us to this point is insufficient to get us to where we want to go.
 
 This demands the emergence of something massive, positive, and good that inspires the hope and courage that cause people to rise. 
 
-The only force on earth capable of meeting this moment in history is a higher order and more perfect union among people of goodwill at the individual and local level. 
+The only force on earth capable of meeting this moment in history is a higher order and more perfect union among people of goodwill at the individual and local level, connected around the world. 
 
-This higher functional unity must be forged such that it is actually capable of meeting the needs, accomplishing the goals, and solving the problems we face. 
+This higher functional unity must be forged such that it is actually capable of meeting the needs, solving the problems, and accomplishing the goals we face. 
 
 **THE CHASM**
 
@@ -61,7 +61,7 @@ We are coming together to inspire a global community community of goodwill to de
 
 **Vision**: Our vision is a thriving and abundant world in which every being has the opportunity to develop into the fullness of their potential and flourish in harmony. It is a world that is becoming more perfect every day because we are working together to make it so. 
 
-**Values**: We stand firmly upon the timeless shared values held by all people of goodwill, including Truth, Love, Justice, Stewardship, and Wisdom.  
+**Values**: We stand firmly upon the timeless shared values held by all people of goodwill, including Truth, Love, Justice, Stewardship, and Wisdom, more fully reflected in the [[The Lionsberg System of Values]], and unified by the Supreme Value of the Creator.  
 
 _____
 It is anticipated that this Provisional Declaration will complexify itself over time into a Provisional Constitution. 
