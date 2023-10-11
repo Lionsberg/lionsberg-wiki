@@ -37,3 +37,5 @@ The road to realizing Lionsberg's vision is fraught with challenges—from the c
 #### Conclusion: The Future Awaits its Creators
 
 The birth of Lionsberg aims not at the inception of another new institution; it aims towards seismic shift in human and spiritual evolution. In co-creating Lionsberg, we are not just building an organization; we are endeavoring to participate in Divine Co-Creation itself, aligning our wills and actions with the Creator's Intent to the very best of our ability, to bring forth, cultivate, and empower only that which is in service to the Highest Intention and Greatest Good for All. The future awaits its Co-Creators, and in taking this unprecedented step, we become pioneers of a New Era, on Earth as it is in Heaven.
+
+For a deeper dive into inception, feel free to explore the [[Jordan's Short Story]] and [[Lionsberg Trust Manifesto]].  
