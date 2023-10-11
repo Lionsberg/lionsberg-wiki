@@ -44,25 +44,12 @@ The entire [[Meta Philosophy]] is meant to be operationalized through a comprehe
 
 For a personal view of how you can begin to elevate and transform your life, starting with [[Today]], see [[The Power of Today]]. 
 
-## The Integrated Delivery Guide
-For a look at how the total System contemplates empowering [[All]] to align their time, energy, and resources in service of our highest shared goals, see the [[Lionsberg Integrated Delivery Guide]]. 
+## The Books of Lionsberg
 
-## The Book of Lionsberg
-If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please follow along as [[The Book of Lionsberg]] writes itself. 
-
-## Links and Resources
-
-Also see [live version of 000-Start Here (Links and Resources)](https://docs.google.com/document/d/1UBjUBBxMkEhI5rg9VzFgdrOT6-xm_0yE6Lk2h8jFAEc/edit?usp=sharing) (Google Docs) for the most up-to-date information.
-
-[Your Starting Point](https://lionsberg.wiki/your_story_and_quest/your_starting_point) (Lionsberg Wiki) - *This page is intended as a simple way to help you get quickly oriented and connected to The Meta Project.*
-
-[\[Lionsberg\] Town Square channel](https://chat.collectivesensecommons.org/agora/channels/lionsberg-town-square) (CSC Mattermost) - *This is our main chat channel. Free account registration required, create an account if you don't have one. If you have questions or problems, email [support@collectivesensecommons.org](mailto:support@collectivesensecommons.org).*
-
-[Meta Project Shared Folder - Public](https://drive.google.com/drive/folders/1Tx8FAe678MQvEifNdlhVn8mQ9jz8fuzf?usp=sharing) - *This is a publicly shared Google Drive folder, where you'll find documents and files, can edit shared documents, and put files you want to share with everyone.*
-
-Map Weavers - *(needs link and description)*
+If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please visit [[Lionsberg Wiki Books]] and follow along as the series writes itself.
 
 ## Help 
+
 If you get lost at any point, please visit the [[Admin and Help]] page, where you will find a way to reorient and get found. 
 
 With Love, In Community, 
