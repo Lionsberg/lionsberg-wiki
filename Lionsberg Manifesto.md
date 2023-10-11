@@ -1,6 +1,6 @@
 # Lionsberg Manifesto
 
-_(2023.04.14 Draft For Continuous Inspiration and Improvement)_
+_(2023.010.10 Draft For Continuous Inspiration and Improvement)_
 
 ## Standing at the Crossroads of History   
 
@@ -39,29 +39,11 @@ As we gather beyond the ideologies and structures that have separated us in the 
 
 ## Our Offering and Invitation 
 
-As we enter [[The 7 Year Window of Crisis and Opportunity]], we are inviting the public to review the Lionsberg Manifesto and the [[New Vision and Plan]] - a bold, transformative strategy that empowers [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global scales, charting a Way toward a regenerative, just, and flourishing future. We are also unveiling a gamified substructure for [[The Movement]] called [[The Great Game of Lionsberg]], along with the [[Lionsberg Platform]] to strengthen, equip and unite the [[Force For Good]].
+As we enter [[The 7 Year Window of Crisis and Opportunity]], we are inviting the public to review the Lionsberg Manifesto and the [[New Vision and Plan]] - a bold, transformative strategy that empowers [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global scales, charting a Way toward a regenerative, just, and flourishing future. 
 
-## A Call to Action 
+Our Aim is to coalesce Citizens of Goodwill into an independent, self-sustaining, and self-replicating Higher Order Functional Unity capable of meeting the needs and solving the problems at hand. 
 
-We hereby call on all [[Citizens]] to: 
-
-1. [[Respond to The Invitation]]  
-2. [[Read The Books]]  
-3. [[Join The Platform]]  
-4. [[Play The Game]]  
-5. [[Prepare For The Great Transformation]]  
-6. [[Spread The Word]]  
-
-## Our Collective Pledge 
-
-As free [[Citizens]], united in Vision, Purpose, and Values, and recognizing our interconnectedness and shared destiny, we hereby:
-
-1. Agree to the [[Lionsberg Treaty]]  
-2. Ask God's forgiveness, and forgive One Another over the harms we have inflicted and suffered in the past 
-3. Commit ourselves to the principles, values and actions outlined in the [[Lionsberg Manifesto]] and the [[New Vision and Plan]]. 
-4. Pledge our talents, time, and energy to the pursuit of a brighter, more prosperous future for [[All]], standing shoulder to shoulder, helping one another, and not harming one another as we forge ahead on this transformative Quest.
-5. Resolve to arise and unite to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and forge a flourishing and abundant Future for [[All]]. 
-
+If you are one of us, please join us. 
 ## Our Shared Destiny 
 
 We acknowledge the monumental task that lies ahead. May the Lionsberg Manifesto and the [[New Vision and Plan]] serve as a beacon of hope and inspiration, a guiding light to illuminate the path forward as we embark on this Quest together. Guided by the hand of Providence and armed with the [[Lionsberg System]] and the Word of Truth, we are the architects of our own Destiny and the co-creators of our Future. 
@@ -72,11 +54,6 @@ We have assembled an entirely independent [[Citizen Led]] gathering place at Lio
 
 ## Next Steps
 
-1. To add your energy to The Movement and The Manifesto, [[Respond to The Invitation]]. 
-2. To explore the New Vision and Plan, [[Read The Books]]. 
-3. To connect with the Force For Good, [[Join The Platform]]. 
-4. To transform your life and your world, [[Play The Game]]. 
-5. To survive and thrive through the potential chaos ahead, [[Prepare For The Great Transformation]]. 
-6. To amplify The Movement and help others, [[Spread The Word]]. 
+To add your energy to The Movement, visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement). 
 
 ***It's time to move.*** 
