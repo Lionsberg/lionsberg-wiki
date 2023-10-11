@@ -8,7 +8,8 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 	1. The [[One Sentence]] question
 	2. The [[Lionsberg Introduction]]
 	3. The [[Lionsberg Manifesto]]
-	4. The One Page and Executive Summaries below.
+	4. The One Page and Executive Summaries below. 
+	5. Skimming the chapter titles on this page to catch the essence  
 2. This longer **Manifesto v2.0** expands upon the original significantly, delving deeper into context, strategy, structure, planning, resourcing and operationalization, with the Aim of serving as a more comprehensive Blueprint for The Movement. 
 3. This [[Lionsberg Wiki Book]] is a [[Work In Progress]]. The live links are to the chapters that have already been published. They provide an overview of: 
 	1. The **Meta Crisis** and proposed **Meta Solution** (Chapters 1-10)
