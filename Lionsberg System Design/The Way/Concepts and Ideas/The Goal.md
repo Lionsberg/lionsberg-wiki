@@ -4,9 +4,12 @@ The Goal refers to the single highest overarching and uniting [[Meta Goal]] that
 
 It can be articulated in terms such as: 
 
+*[[Creator's Intent]]*, or  
+
 _The total integrated wellbeing, development, and [[Right Relationship]] of [[All]] generations of Life and Consciousness._ 
 
-This is our [[Current Best Understanding]] of the [[Creator's Intent]]. The perfect [[Higher Order Functional Unity]] and [[Coherence]] that lies at the end of the [[Logic of Love]].  
+Ultimately, [[The Goal]] is [[God]]. 
+
 ____
 The biggest single idea to grasp in [[Integrated Program Delivery]] is there is only [[One]] overarching and uniting [[Goal]] of the [[System]].
 

@@ -13,7 +13,7 @@ The [[Lionsberg Trust Manifesto]] describes the origin of the Source Idea for Li
 As we began the third 6 week cycle in August 2022, the state was as follows: 
 
 - The [[Provisional Structure]] was in place. 
-- The [[Core Documents]] were in a Provisional State. 
+- The [[Lionsberg Core Documents]] were in a Provisional State. 
 - The Patterns of [[Organize and Federate|Organizing and Federating]] had been established. 
 - A few dozen people were actively participating, and several dozen more attending, following along, and waiting.  
 - Numerous partnership discussions and expansion opportunities were in play  
@@ -35,7 +35,7 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 
 ## State as of April 2023 
 
-- Over the next 8 months, we released the energy swirling around the [[Meta Project]] abstraction, and focused energy on finishing enough foundational groundwork that [[The Lionsberg Experience]] could begin. 
+- Over the last 8 months, we released the energy swirling around the [[Meta Project]] abstraction, and focused energy on finishing enough foundational groundwork that [[The Lionsberg Experience]] could begin. 
 - In January, we set a 120 day plan that involved raising funds and resourcing a core team by April 2023. We chose not to begin fundraising, and instead focused on continuing to prepare infrastructure and articulate enough of the Lionsberg Vision, System, and Plan so that a team could begin building and resourcing The Movement starting in May. 
 - Drafted Foundational Literature, Including: 
 	1. [[Lionsberg Manifesto]]  
@@ -50,7 +50,6 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - Established donation capabilities on The Platform. 
 - Established the **Lionsberg Communications System** (invitation only) 
 - Refreshed the **Lionsberg Website** 
-- Established the **Above The Chaos** podcast and broadcasting capability 
 - Traveled to New York during UN General Assembly Week 
 - Traveled to Egypt during UN Conference of the Peoples Week 
 - Traveled to Austin for Independent Convention 
@@ -58,12 +57,43 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - Extended an invitation to a small group of allies 
 - Received enough of a response to begin connecting and empowering The Movement. 
 
-## May 2023
+## Q2 and Q3 2023 
 
-- May 3, 2023 - Introductory Meeting 
-- May 8, 2023 - [[The Lionsberg Experience]] begins! 
+Published additional works, such as: 
+
+1. [[Most People Have No Idea What Is Coming]]  
+2. [[An Alternative to Apocalypse - The New Covenant]]  
+3. [[The Dawn of the New World]]  
+4. Other [[Lionsberg Wiki Books]] 
+
+Ran an additional social experiment. 
+
+Constructed broadcast capability by connecting an online recording studio out to Youtube, X, and the leading podcast platforms. 
+
+We recorded the first 4 sample episodes and launched them in September 2023 as part of the [[Above The Chaos]] series. 
+
+- [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
+- [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
+- [[Our Journey Towards Lionsberg - Jordan Nicholas and Bill Larson - EP 3]]  
+- [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]  
+
+## Wrapping Up the Old Life, and Beginning the New
+
+In Q3 2023, as Jordan approached the statute of limitations on the civil rights and corruption claims arising from the destruction of 2019 through 2021 and prepared to weather the storms ahead, he moved his family to a new home base in the mountains of North Idaho, filed a civil rights and corruption lawsuit against the County in federal court, prepared to file bankruptcy to wrap the tens of millions of dollars of claims and counter claims from his old life in a transparent public container, and looked ahead to public broadcasting and resource raising in Q4 2023.   
 
 ## What's Next 
 
-- Now, we simply measure the rate at which we are able to connect up, resource and empower [[The Movement]] towards [[The Goal]]. 
-- To create measurability and process, we have established [[Levels of Participation]]. 
+In Q4 2023, we begin measuring the rate at which we are able to connect up, resource and empower [[The Movement]] towards [[The Goal]]. 
+
+We aim to progressively realize this Vision and Ideal by: 
+
+1. Progressively discerning, articulating, and embodying the Spirit, Will, and Intention of God  
+2. Broadcasting [[The Message]] to create a field of gravitational attraction 
+3. Inviting individuals and groups to federate via Lionsberg (Every individual receiving up to 20 invitations during [[The 7 Year Window of Crisis and Opportunity]])  
+4. Connecting, equipping, and empowering [[The Community]] of those who respond via a continuously improving set of infrastructure, resources, services, and support   
+5. Creating measurable Impact / Value in service of [[The Goal]]   
+6. Broadcasting [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]] and grow [[The Movement]]  
+
+Every individual and group that connects with Lionsberg will gain equal access to the [[Lionsberg Commons]], which will host an ecosystem of continuously improving resources, tools, services, and technologies to help participants rise towards the fullness of their potential and flourish. 
+
+Individuals and Groups will work together to steward and continuously improve The Movement and The Commons that is helping All rise towards their potential and flourish. 

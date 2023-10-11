@@ -1,9 +1,9 @@
 # Lionsberg Mission
 
-Our Mission during [[The 7 Year Window of Crisis and Opportunity]] is to:  
+Our Mission is threefold: 
 
-1. Confront and overcome the [[Meta Crisis]] 
-2. Halt [[The Advance of The Giants]] 
-3. Co-create the [[New World]]. 
+1. Confronting and Overcoming the [[Meta Crisis]]  
+2. Forging the [[New World]]  
+3. Awakening and Uniting Citizens of Goodwill - the one thing that makes everything else possible  
 
-We do this by continuously improving a **platform** and **global community** that empowers sovereign individuals, organizations and communities to rise towards the fullness of their potential and flourish in harmony.
+We do this by coalescing enlightening individuals into a independent, self-sustaining, and self-replicating body, and pursuing increasingly more meaningful objectives that advance us towards [[The Goal]]. 
