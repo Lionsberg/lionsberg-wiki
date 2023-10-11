@@ -16,7 +16,7 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 	3. The **Lionsberg Strategy** and **Work Breakdown Structure** (Chapters 24 and 25). 
 	4. The other sections are coming soon; a quick skim of their titles will give you a sense of what lies ahead. 
 4. For a deeper dive, visit the [[Lionsberg Wiki Books]] bookshelf, where you will find thousands of interlinked pages circumambulating these issues from a variety of angles, including [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
-5. If you are not accustomed to Spiritual and Religious Language, please read the Note On Spiritual and Religious Language as an orientation to our use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
+5. If you are not accustomed to Spiritual and Religious Language, please read [[A Note On Spiritual and Religious Language]] below as an orientation to our intentional use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
 
 ## Introduction and Summaries
 
