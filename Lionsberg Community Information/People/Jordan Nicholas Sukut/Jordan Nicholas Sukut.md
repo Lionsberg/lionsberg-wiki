@@ -6,12 +6,7 @@
 - Instagram - [Jordan's Instagram](https://www.instagram.com/jnicholasone)    
 - Twitter - [Jordan's Twitter](https://www.twitter.com/jnicholasone)     
 - YouTube - [Jordan's YouTube](https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w)    
-- Book In Progress - [[The Book of Lionsberg]] - 50% complete - follow along as it unfolds!  
-- Book In Progress - [[A Way Beyond Fear, Anxiety, And Depression]] - 70% complete - follow along as it unfolds! 
-- Book In Progress - [[The Power of Today]]  - 70% complete - follow along as it unfolds! 
-- Book In Progress - [[Rediscovering The Way - A Guide For The Warrior Spirit]] - 50% complete - follow along as it unfolds!  
-- Book In Progress - [[Lionsberg Integrated Delivery Guide]] - 50% complete - follow along as it unfolds!  
-- Writings on the Way - [[The Way]]  
+- Jordan's Writing - [[Lionsberg Wiki Books]] 
 - Jordan's Short Story - [[Jordan's Short Story]]  
 - Jordan's Experience with Faith - [[Jordan and Faith]]  
 
@@ -23,11 +18,11 @@ I am a co-creator. I am passionate about bringing Intention Into Reality.
 
 Before founding Lionsberg, I practiced that by building projects, portfolios of projects, organizations that built projects, and portfolios of non-profit and for-profit organizations. 
 
-After having my naïveté shattered by confronting the corruption and injustice of the [[Old World]] and losing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build a [[New]] / More Perfect one. 
+After having my naïveté shattered by confronting the corruption and injustice of the [[Old World]] and sacrificing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build the Best Possible Future for All. 
 
 This is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
 
-If we are going to pull this off, I need your help. And I would like to help you. Neither of us can succeed in isolation. 
+If we are going to pull this off, we need your help. And we would like to help you. None of us can succeed in isolation. 
 
 ## Where To Go From Here: 
 1. Connect on the social media links above  

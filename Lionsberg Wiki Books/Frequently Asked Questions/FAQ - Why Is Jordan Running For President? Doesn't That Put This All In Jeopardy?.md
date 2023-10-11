@@ -19,7 +19,7 @@ Although it seems impossible, when Jordan and advisors looked at a total program
 
 ...we realized that _it might work_, and that if it did, by the start of 2025 we could actually be in a place where we possessed the pragmatic functional capability to execute towards the [[Meta Goal]] through the second half of the decade, in order to accomplish the critical [[2030 Milestones]] that mark the Way towards the [[Goal]]. 
 
-We also realized that if the United States, as the most powerful structure currently in the world, continued to be divided against itself and fell, much of the world might collapse into Chaos along with it. This outcome would lead to so much suffering, that it would be unethical to not attempt to avert it.  
+We also realized that if the United States, as the most powerful structure currently in the world, continued to be divided against itself and fell, much of the world might collapse into Chaos along with it. This outcome would lead to so much suffering, that it would be unethical to not attempt to avert it.  See [[Most People Have No Idea What Is Coming]] for more on this. 
 
 Lastly, we realized that the unfolding of the coming crises we have created as a consequence of our [[Old]] way of being would likely require unprecedented global emergency relief operations in order to minimize suffering and death. We realized that pragmatically the US military and its allies around the world were likely the only place this level of coordinated logistical ability currently existed, and that the weapons could be forged into tools of life and aid for the Good of All in response to the disasters that will likely unfold. 
 

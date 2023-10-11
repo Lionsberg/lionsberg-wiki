@@ -19,6 +19,9 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 5. If you are not accustomed to Spiritual and Religious Language, please read the Note On Spiritual and Religious Language as an orientation to our use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
 
 ## Introduction and Summaries
+
+### About the Author / Founder
+#### [[Jordan Nicholas Sukut]] 
 ### Spiritual Langauge 
 
 #### [[A Note On Spiritual and Religious Language]]
