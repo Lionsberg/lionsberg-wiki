@@ -64,11 +64,11 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ### Coming Soon  
 
-Chapter 11: What Brought Us Here Won’t Lead Us There: The Inadequacies of Current Systems
+### [[Chapter 11 - What Brought Us Here Won’t Lead Us There - The Inadequacies of Current Systems]]
 
-Chapter 12: Systemic Corruption: The Inherent and Accelerating Failure of Existing Institutions
+### [[Chapter 12 - Systemic Corruption - The Inherent and Accelerating Failure of Existing Institutions]]
 
-Chapter 13: The Rise of Enlightened Individual and Local Agency - Why a Citizen Led Response is Required 
+Chapter 13 - The Rise of Enlightened Individual and Local Agency - Why an Unprecedented Citizen Led Response is Required 
  
 Chapter 14: There is No "Them" Coming to Save Us - We Are the Ones We've Been Waiting For 
 
