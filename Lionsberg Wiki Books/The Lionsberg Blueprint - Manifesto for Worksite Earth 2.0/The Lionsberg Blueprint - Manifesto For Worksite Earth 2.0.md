@@ -81,19 +81,19 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ## Part III: The Foundations and Pillars of Lionsberg 
 
-### **Coming Soon**
+### [[Chapter 18 - The Historical Context and Inception of Lionsberg]] 
 
-Chapter 18: The Historical Context and Inception of Lionsberg 
+### [[Chapter 19 - The New Covenant and Universal Principles - Spiritual and Philosophical Foundations]]
 
-Chapter 19: The New Covenant and Universal Principles: Spiritual and Philosophical Foundations
+### [[Chapter 20 - The Rule of Law and Governance - Co-Operating Beyond While Interfacing With And Transforming Existing Legal and Institutional Frameworks]] 
 
-Chapter 20: The Rule of Law and Governance: Co-Operating Beyond While Interfacing With And Transforming Existing Legal and Institutional Frameworks 
+### Coming Soon 
 
-Chapter 21: The Theses of Lionsberg - Touchstones for the Transformation FROM Old TO New
+Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action
 
-Chapter 22: The Twelve Pillars of Lionsberg - a Framework for Thought and Action 
+Chapter 22 - The Theses of Lionsberg - Touchstones for the Transformation FROM Old TO New
 
-Chapter 23: The Lionsberg Approach - Citizen-Led Transformation and Renewal Beyond the Failing Systems of the Old World  
+Chapter 23: The Lionsberg Approach - Citizen-Led Transformation - An Ark and Bridge Beyond the Failing Systems of the Old World  
 
 
 ---
