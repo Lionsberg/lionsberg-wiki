@@ -16,7 +16,7 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 	2. The **imperative** for a **New System and Approach** (Chapters 11-15)
 	3. The **Genesis** and **Mission** of **Lionsberg** (Chapters 16 and 17)
 	4. The **Lionsberg Strategy** and **Work Breakdown Structure** (Chapters 24 and 25). 
-	5. The other sections are coming soon; a quick skim of their titles will give you a sense of what lies ahead. 
+	5. And more, with other sections coming soon; a quick skim of their titles will give you a sense of what lies ahead. 
 4. For a deeper dive, visit the [[Lionsberg Wiki Books]] bookshelf, where you will find thousands of interlinked pages circumambulating these issues from a variety of angles, including [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
 5. If you are not accustomed to Spiritual and Religious Language, please read [[A Note On Spiritual and Religious Language]] below as an orientation to our intentional use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
 
@@ -87,13 +87,11 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ### [[Chapter 20 - The Rule of Law and Governance - Co-Operating Beyond While Interfacing With And Transforming Existing Legal and Institutional Frameworks]] 
 
-### Coming Soon 
+### [[Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action]]
 
-Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action
+### [[Chapter 22 - The Theses of Lionsberg - Touchstones for the Transformation FROM Old TO New]]
 
-Chapter 22 - The Theses of Lionsberg - Touchstones for the Transformation FROM Old TO New
-
-Chapter 23: The Lionsberg Approach - Citizen-Led Transformation - An Ark and Bridge Beyond the Failing Systems of the Old World  
+### [[Chapter 23 - The Lionsberg Approach - Citizen-Led Transformation - An Ark and Bridge Beyond the Failing Systems of the Old World]]  
 
 
 ---
