@@ -5,19 +5,20 @@ The books below all wander around the same core Mission, Vision, and Goal, exami
 They are each a [[Work In Progress]]. 
 ## Start Here 
 
-1. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
-2. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
-3. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
-4. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]   
-5. [[The Theses of Lionsberg]] - by [[Jordan Nicholas Sukut]]
-6. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
-7. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
-8. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
-9. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
-10. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
-11. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
-12. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
-13. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
+1. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
+2. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
+3. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
+4. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
+5. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]   
+6. [[The Theses of Lionsberg]] - by [[Jordan Nicholas Sukut]]
+7. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
+8. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]   
+9. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
+10. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
+11. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
+12. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
+13. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
+14. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
 
 ## A Larger Work In Progress
 1. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
