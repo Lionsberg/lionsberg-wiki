@@ -108,13 +108,14 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ### [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Hierarchy of Goals]]
 
+### [[Chapter 29 - The Lionsberg System and Platform - Enabling Rapid Global Implementation and Learning]] 
+
+### [[Chapter 30 - The Lionsberg Pattern Language - A Field Guide for Local Implementation of the New Vision and Plan]] 
+
+### [[Chapter 31 - The Lionsberg Prototype - A Living Laboratory for Continuous Improvement]] 
+
+
 ### Coming Soon
-
-Chapter 29: The Lionsberg System and Platform - Enabling Rapid Global Implementation and Learning 
-
-Chapter 30: The Lionsberg Pattern Language: A Field Guide for Local Implementation of the New Vision and Plan 
-
-Chapter 31: The Lionsberg Prototype - A Living Laboratory for Continuous Improvement 
 
 Chapter 32: Phases of Implementation 
 
