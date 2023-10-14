@@ -61,41 +61,36 @@ The task ahead is nothing short of monumental: translating an intricate, deeply 
 **Social and Ecological Regeneration**: The very nature of the Lionsberg Strategy and Approach, rooted in spiritual transformation and regenerative systems, ensures that as The Movement spreads across the globe, society and environment are simultaneously healed, regenerated, and renewed. 
 ##### A. The Phased Roll-Out: Unleashing Epochal Waves of Transformation
 
-###### Phase 1: **The Genesis Phase** - Prior to 2023
+Described in more detail in Part IV, the 10 Year Grand Strategy calls for a progressive roll-out in measurable phases towards structured milestones. 
+###### Phase 1: **The Genesis Phase** - Timeless - 2023
 
-During this seminal period, an intensive groundwork was laid, spanning the spiritual, intellectual, legal, governance, and infrastructural realms. Foundational literature was composed, a compendium of vital knowledge curated, core systems and methodologies developed, and backbone technology designed and built. This foundational work serves as the structural scaffolding for future transformative action. The linchpin is the articulation of a grand narrative, vision, strategy, and plan that not only informs but deeply inspires and orients humanity for a generational Quest towards Liberty and Justice for All. It functions as both a compass and a roadmap, signaling the crucial milestones that lie ahead.
+This phase lays the foundational groundwork across multiple domains—spiritual, intellectual, legal, governance, and infrastructure. Core methodologies, systems, and technologies are developed to provide a structural scaffold for future action. A grand narrative is articulated to serve as both a compass and roadmap for humanity's Quest towards Liberty and Justice for All.
+###### Phase 2: **The Initiation and Nucleation Phase** - 2023 - 2024 
 
+A core tribe commits to the Lionsberg Vision and Plan, marking the Mission's formal commencement. Small groups form as initial nodes for action, embodying a Team of Teams structure. Proof-of-concept models and Stories of Transformation are generated through application in various settings.
 
-###### Phase 2: **The Nucleation Phase** - 2023 - 2024 
+###### Phase 3: **The Field of Attraction Phase** - 2024 - Ongoing  
 
-Emerging from a core of a few individuals, small autonomous groups of resonant, enlightened, highly committed individuals form the initial nodes for action, forging the initial Center of Gravity. Their role is to test the waters, applying the principles in various contexts, from small communities to institutions and organizations, to generate proof-of-concept models. This phase establishes the initial base of commitment and demonstrates the practical viability of implementing the Lionsberg Principles. Concurrently, a three-year Healing, Onboarding, and Orientation program is conceptualized and its initial 90-day module piloted.
-
-
-###### Phase 3: **The Field of Attraction Phase** - 2023 Q4 - Ongoing  
-
-This phase extends the magnetic reach of the Center of Gravity, broadcasting a Field of Attraction and drawing in likeminded entities and resources into an ever-expanding sphere of influence. It serves as a continuous layer, operating parallel to the subsequent phases, enhancing their efficiency and scope by providing a constant influx of support, ideas, and participants. The Field of Attraction includes 1. The Messengers 2. The Messages 3. Stories of Transformation 4. Broadcasts Systems and Processes (Podcasts, Speaking, Social Media, Traditional Media, Workshops, Conferences, Summits, Local Chapters, etc.)
-
+This phase broadens the initiative's sphere of influence, drawing likeminded individuals and organizations. A magnetic Field of Attraction is broadcasted through various media and communication channels. This phase runs in parallel with subsequent phases, continually expanding the network of supporters, ideas, and participants.
 ###### Phase 4: **The Pilot Phase** - 2024 - 2028
 
-Building upon previous learnings, this phase focuses on scaling the nascent nodes into demonstrable pilot projects that span various community, organizational, and institutional settings. These pilots serve as real-world crucibles and living labs for refining the Lionsberg System and Strategy. Moreover, each pilot becomes a Story, and each Story of Transformation becomes a harbinger and prophesy, foreshadowing greater possibilities in the Future as The Movement grows. In this stage, the three-year Healing, Onboarding, and Orientation program is fully deployed as the bedrock module of the Lionsberg Elevation Initiative, which offers an actionable gateway for widespread participation in the dawn of the New Era.
-
+This phase is focused on implementing pilot projects in various community settings to validate and refine the Lionsberg System and Prototype. Customization to local needs occurs, and data and experiences from the pilots are channeled back into refining the model. Each pilot project also contributes to a growing repository of Stories of Transformation, that strengthen the Field of Attraction.
 ###### Phase 5: **The Amplification Phase** - 2026 - 2030
 
-At this juncture, the learnings and successes from the pilot phase are analyzed, documented, and packaged into Stories of Transformation. These stories are then strategically disseminated through multiple channels—social media, academic publications, grassroots community events, podcasts, radio and tv shows, legacy media—to reach wider audiences and strengthen the Field of Attraction. This is where the power of network effects is harnessed, magnifying the Strategy's impact and drawing more participants and localities into The Movement. 
+Successes and learnings from pilots are analyzed and repackaged for wider dissemination through diverse channels. This phase leverages the power of network effects to expand the strategy's impact and reach. It serves as a crucial link in strengthening the ongoing Field of Attraction, and expanding the wave of instantiations of the Lionsberg System and Approach. 
 
 ###### Phase 6: **The Saturation Phase - by Domain** - 2028 - 2033
 
-This phase aims to reach critical mass one by one throughout the various domains of society. To do this, a series of tipping points are identified—first node, first thousand, first 1%, first 3%, and first 13%—each marking a threshold beyond which the implementation of the Lionsberg Strategy in that domain becomes self-perpetuating and irreversible. These tipping points serve as both milestones and triggers for expanding the Strategy into adjacent domains, thereby facilitating global saturation. As critical mass is reached in each domain, constitutional amendments are adopted to formally realign the Old Systems with the New Covenant. The fullness of the saturation phase occurs when the Knowledge of God covers the Earth like floodwaters, paving the Way for the lion to lie down with the lamb, and the New Era to manifest. 
-
+The Lionsberg initiatives and instantiations begin to scale around the world, aiming for critical mass in all relevant societal and geographic domains. Tipping points are identified for self-perpetuating and irreversible impact. As critical masses are reached, constitutional amendments are adopted to formally align Old systems with the with New Covenant, Vision, System, and Plan. 
 ###### Phase 7: **The New Era Phase** - Passing The Flame - 2033 - 3,000 and Beyond 
 
-Graduates from the three-year Healing, Onboarding, and Orientation program, who have successfully navigated the Tests, ascend to full Citizenship in the New Era. Here, the New Era doesn't merely commence as a hypothetical construct but as a tangible reality, manifested through the actions and lived experiences of its co-creators. This inaugurates the New Era and the process of Passing The Flame through subsequent generations over the millennia to come. 
-
+Participants who successfully complete the first levels of the Elevation Initiative ascend to full citizenship in the New Era, marking the tangible commencement of a New epoch. Knowledge and wisdom from the journey are formalized into stories and instructional guides. Ceremonial practices are established to ensure the wisdom is passed down to future generations, and multigenerational commitment is upheld.
 ###### Phase X: **20 Year Generational Contingency** - 2033 - 2053 As Required
 
-In acknowledgment of the profound uncertainties and risks that come with this groundbreaking transformation, a contingency has been established that is 200% the length of the 10-Year Grand Strategy, 20 years in length. This contingency serves as a buffer to recalibrate and adapt the Strategy in response to unforeseen challenges and opportunities, while ensuring that the generational transformation is comprehensively measured and managed from the outset. 
+This is a buffer phase designed to adapt the Strategy to unforeseen challenges and opportunities, while ensuring it succeeds within a single generation. It is twice the length of the 10-Year Grand Strategy to allow for comprehensive recalibration as we venture out into the Unknown. This contingency ensures that the transformation is aggressively and accurately measured and managed from the start.
+###### Phase Z: Spiritual, and Possibly Physical, War
 
-With this phased approach, buttressed by contingencies, the Lionsberg Strategy is not merely a vision but a living, evolving framework. It places humanity at the cusp of a new epoch, fusing divine inspiration with earthly pragmatism in a harmonious symphony of transformation.
+This phase prepares for spiritual and potentially physical opposition, guided by a robust ethical framework. Alliances are formed, and spiritual disciplines are employed to combat malevolent forces. Defensive and cybersecurity measures are heightened, with preparations made for contingencies in both spiritual and physical realms at various fractal levels across The Movement / Federation.
 
 ##### B. Aggregation of Initial Resources 
 
