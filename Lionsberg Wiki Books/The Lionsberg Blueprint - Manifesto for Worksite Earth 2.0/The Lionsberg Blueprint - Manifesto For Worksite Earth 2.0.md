@@ -102,15 +102,15 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ### [[Chapter 25 - The Lionsberg Work Breakdown Structure - From Strategy to Execution]] 
 
+### [[Chapter 26 - Identifying the Problems and Needs - The Total Nested Hierarchy of Issues]]
+
+### [[Chapter 27 - Recognizing Positive Pathways - The Total Nested Hierarchy of Opportunities]]
+
+### [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Hierarchy of Goals]]
+
 ### Coming Soon
 
-Chapter 26: Identifying the Problems and Needs: The Total Nested Hierarchy of Issues
-
-Chapter 27: Recognizing Positive Pathways: The Total Nested Hierarchy of Opportunities
-
-Chapter 28: Mapping Solutions and Objectives: The Total Nested Hierarchy of Goals
-
-Chapter 29: The Lionsberg Platform - Enabling Rapid Global Implementation and Learning 
+Chapter 29: The Lionsberg System and Platform - Enabling Rapid Global Implementation and Learning 
 
 Chapter 30: The Lionsberg Pattern Language: A Field Guide for Local Implementation of the New Vision and Plan 
 
