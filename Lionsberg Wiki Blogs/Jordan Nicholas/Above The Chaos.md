@@ -10,7 +10,9 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## Featured Posts
 
-- [[Above The Chaos, The Vision of the New World]]  
+## October 2023
+
+- New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
 
 ## September 2023  
 
