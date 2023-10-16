@@ -114,14 +114,12 @@ Welcome to the [[Force For Good]]. We The People are glad you are here.
 
 ### [[Chapter 31 - The Lionsberg Prototype - A Living Laboratory for Continuous Improvement]] 
 
+### [[Chapter 32 - Phases of Implementation]] 
 
-### Coming Soon
-
-Chapter 32: Phases of Implementation 
-
-Chapter 33: Measurement the Movement / Exodus FROM the Old TO the New 
+### [[Chapter 33 - Measurement the Exodus FROM the Old TO the New]] 
 
 ---
+### Coming Soon
 
 ## Part V: Systemic Integration and Iterative Execution 
 
