@@ -26,6 +26,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - New Wikibook published - [[An Alternative to Apocalypse - The New Covenant]]  
 - New Wikibook published - [[Most People Have No Idea What Is Coming]]  
 - [www.JordanNicholas.org](https://jordannicholas.org) website created, with Join The Movement page linked to donor relationship system. 
+- [[Above The Chaos, The Meta Project - Enacting the New Vision and Plan]]  
 
 ## July and August 2023 
 
