@@ -99,7 +99,7 @@ ____
 
 The approach above enabled the Amazon Sacred Headwaters bioregional plan to succeed, as capacities and partnerships scaled up from the $10M Pilot Fund, to the $100M Phase II Fund, to the $300M Phase III Fund, to the $500M Finishing Fund, after which the array of projects were self-sustaining. 
 
-Simultaneously, the successful demonstration of the Pilot in the Amazon Headwaters bioregion encourage the rapid cross pollination of the model into other bioregions around the world, that began their own decentralized bioregional processes. 
+Simultaneously, the successful demonstration of the Pilot in the Amazon Headwaters bioregion encouraged the rapid cross pollination of the model into other bioregions around the world, that began their own decentralized bioregional processes. 
 
 Because the success of the Amazon Sacred Headwaters plan was forged through strengthening the skills and capacities for coordinated delivery via partnerships, these partnerships and processes were rapidly deployed in support of the emerging array of bioregional projects. 
 
