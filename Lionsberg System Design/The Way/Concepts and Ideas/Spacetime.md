@@ -1,3 +1,3 @@
-# Spacetime
+# SpaceTime
 
 See [[Space and Time]]. 

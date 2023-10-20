@@ -22,9 +22,11 @@ Let us immerse our [[Selves]] every deeper into the [[Way of God]] and the [[Kno
 This is the [[Way]], walk ye in it. 
 
 ___
+This concludes Part I - The Lens of Isaiah 
+_____
 
-The End, and The Beginning  
-Back to [[Introduction To The Way Of God]]  
+Forward to [[Part II - The Lens of Jesus]]  
+Back to [[The New Covenant Between God And Humanity]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
 

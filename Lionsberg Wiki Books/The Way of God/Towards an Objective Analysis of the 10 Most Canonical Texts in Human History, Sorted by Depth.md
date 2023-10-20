@@ -144,7 +144,7 @@ We look forward to seeing You on the Way towards The Goal.
 
 _____
 
-Forward to [[A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study]]  
+Forward to [[Parsing the Conceptual Meta Canon from the Wisdom and Perspective of God - An Ontological Exploration]]  
 Back to [[The Quest for Wisdom and Truth - The Canonical Lens]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  

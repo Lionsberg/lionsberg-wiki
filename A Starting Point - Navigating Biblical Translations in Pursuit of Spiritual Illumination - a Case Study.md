@@ -15,7 +15,7 @@ As we approach the Word, we are transformed, and we go back out into Reality cha
 _____
 
 Forward to [[In the Beginning, God - The Fount of Scripture]]  
-Back to [[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
+Back to [[Dealing with Inconsistencies, Human Error, and Contradictions in the Meta-Canon - A Dialectical and Ontological Approach]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
 

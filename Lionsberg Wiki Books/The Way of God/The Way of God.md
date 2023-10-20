@@ -44,6 +44,8 @@
 [[Part III - The Canonical Lens]]  
 [[The Quest for Wisdom and Truth - The Canonical Lens]]  
 [[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
+[[Parsing the Conceptual Meta Canon from the Wisdom and Perspective of God - An Ontological Exploration]]  
+[[Dealing with Inconsistencies, Human Error, and Contradictions in the Meta-Canon - A Dialectical and Ontological Approach]]  
 [[A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study]]  
 [[In the Beginning, God - The Fount of Scripture]]  
 [[The Logos - The Eternal, Universal and Unwritten Word of God]]  
@@ -56,3 +58,7 @@
 [[From the Vast Array of Translations to a Trinity of Approximate Fidelity]]  
 [[Why the Founder of Lionsberg Begins with the NASB]]  
 [[Circumambulation and Progressive Illumination - The Benefits of Multiple Lamps]]  
+
+## Part IV: The Lens of the New Covenant
+
+[[A Transcendent New Covenant Mediated by the Spirit and Knowledge of God - Harmonizing the Discordant Melodies of Human Understanding]]  
