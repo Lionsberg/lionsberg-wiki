@@ -1,6 +1,11 @@
 # The Way of God
 
+## Introduction
+
 [[Introduction To The Way Of God]]  
+
+## Part I: The Lens of Isaiah
+
 [[The One That Unites The Many]]   
 [[Our Shared Mission and Goal]]   
 [[Getting To Know God]]  
@@ -29,3 +34,25 @@
 [[The New Covenant Between God And Humanity]]  
 [[Our Response To The Goodness Of God]]  
 
+## Part II: The Lens of Jesus 
+
+[[Part II - The Lens of Jesus]]  
+
+
+## Part III: The Canonical Lens 
+
+[[Part III - The Canonical Lens]]  
+[[The Quest for Wisdom and Truth - The Canonical Lens]]  
+[[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
+[[A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study]]  
+[[In the Beginning, God - The Fount of Scripture]]  
+[[The Logos - The Eternal, Universal and Unwritten Word of God]]  
+[[Spiritual Inspiration - The Experience of Those Who Write the Sacred Words]]  
+[[Word Tools - Our Feeble Attempts to Describe the Underlying Realities]]  
+[[Culture and Context - The Time and Place in Which Word Tools are Articulated]]  
+[[Wisdom, Principles, and Values - the Universal and Eternal Truths Applicable in any Time and Space]]  
+[[Avoiding Idolatry - Worshiping and Seeking in Spirit and Truth]]  
+[[No Translation is Perfect]]  
+[[From the Vast Array of Translations to a Trinity of Approximate Fidelity]]  
+[[Why the Founder of Lionsberg Begins with the NASB]]  
+[[Circumambulation and Progressive Illumination - The Benefits of Multiple Lamps]]  
