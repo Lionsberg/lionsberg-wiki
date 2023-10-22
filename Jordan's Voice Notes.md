@@ -3328,8 +3328,267 @@ The strength is that we are a coordinated body with diverse gifts and skills set
 Staying lean, keeping expenses low, constantly eliminating Waste. 
 Valuing earnings at 7x, even though we are not for sale, gives us a rough idea of the economic value of operations. 
 
+_____
+We all need coaching and accountability, yet we cannot wait for the coaches to emerge, or others to hold us accountable. The true coaching and accountability must come within and from our peers. We therefore engage in a culture of continuous peer coaching and retrospection, learning from one another, and helping one another progress. 
+___
+Members - get access to everything we do, in exchange for a monthly donation that reflects the value they are receiving from the community. 
+___
+A key aspect that drives is the creation of self-sustaining and self-replicating transformational communities around the world. We call these (New Dawn Communities). 
 
+_____
+(New Daw) brings in donations to catalyze economic development in a region around education, healthcare, vocational training, and basic infrastructure like water, sanitation, and clean energy. 
 
+We then use proven economic community development principles and models to develop follow-on construction, business, and other economic activity within the Lionsberg System. 
+
+These profits are in turn shared with those creating them, and reinvested to start the subsequent community. 
+
+The transformational individuals, organizations, and communities formed become part of the growing network effects of the international Lionsberg Community. 
+____
+First Fridays - Dinner Series - video shown giving a monthly update, posted online with hosting toolkits so that anyone can host a dinner, show the video, field questions, and pull from and feed into FAQs. 
+
+First Friday's Toolkit. 
+____
+Building industry coalitions and advisory circles by Domain. 
+___
+A Process - of discovering what is possible - ceasing harm - cleaning up the damage of the past - and regenerating and bringing forth the New. 
+____
+Progressively Discover and Achieve our best and highest potential through a Process of Continuous Elevation. 
+
+Based on the Timeless Wisdom, Principles, and Values that cause people and societies to flourish. 
+___
+What are the key drivers of Value and Cost - and how do we continuously increase Throughput of Value while eliminating Waste? 
+
+Focus on eliminating Waste and increasing Throughput of Value, rather than decreasing Cost. 
+
+____
+Our Success is not measured against what we have have accomplished, but what we Should / Could have accomplished had we humbly arisen, united, and collaborated to transform our lives and our world towards the fullness of their potential in concert with the very best partners we could find. 
+___
+Always seek the Highest Value Deployment for every Resource. 
+
+Opportunity Cost. 
+____
+In order for an Enterprise to best determine how to allocate Resources to create Value, it should be organized into functional Domains, or Value Centers. Value Centers can be created anywhere there is a Good. 
+____
+Value Centers should be identified and created at the Lowest Optimal Level in accordance with the Principle of Subsidiarity. 
+___
+If a Value Center cannot be made profitable, it should be sold or closed rather than subsidized. 
+
+If a Valued Center is unprofitable, it may be because the Value has not been made visible and known. This often requires that the Value Chain be mapped, and that the Invisible be made Visible, so that those benefitting can reward the Value Center. 
+___
+Each Co-Worker is a Value Center. Positive Contributions and Negative Contributions should be tracked through the year, with an annual 360 Degree Retrospective to help gauge holistic impact on the System of Systems they are a part of. 
+___
+[[The Rules]] need to be understood and promoted [[In General]], to prevent their subversion and erosion [[In Particular]].
+____
+[[The Rules]] need to protect and preserve each aspect of [[The Practice]] / [[Way]]. 
+
+- Theology 
+- Philosophy 
+- Science 
+- Theory 
+- Practice 
+____
+Society should be anchored in Wisdom before than Knowledge, Knowledge before Information, and Information before Data. 
+___
+
+New Knowledge should be challenged, tested, and validated before it comes into public acceptance and use. 
+____
+Markets - theoretically, but not in actuality, function efficiently because they have a shared way to Understand, Measure, and Reward Value. 
+
+There is more than Monetary Value. The Monetary System was established to enable and support the creation of something more important, which was a functioning society and the ability of people to live better and more fulfilling lives. 
+
+The living of better and more fulfilling lives does not come solely, or even primarily, through the aggregation of Money or Economic Value. It comes through bringing our Society into Harmony with the timeless Wisdom, Principles, and Values that cause individuals, families, organizations,  communities, and ecosystems to flourish. 
+
+We are therefore setting out to create a more accurate System for allocating Value based on the total True Value created for Society and the Planet by Centers of Value over the long term. 
+
+For instance, we can create false economic value by exploiting resources that have no cost in the market, but which leave the earth depleted for future generations. 
+
+The social and ecological damage of such activities far outweighs the measurable Economic Value rewarded by the Markets, therefore there is not only no True Value Creation, but in fact Negative Value Creation for Society and the Planet. In a [[Lionsberg System of Value]] where costs cannot be externalized across [[SpatioTemporal]] boundaries, these would be negative on the Balanced Statement of Profit and Loss.  
+
+By coming up with a Way to measure Social and Ecological Value that can operate in parallel with the way we measure Economic Value, we could have a more wise and balanced approach to creating the Value we truly seek; therefore aligning the co-creation of Economic Value with the Higher Goal of Co-Creation a flourishing and functioning Society and Planet that continues to get a little better ever day in service of One and All. 
+___
+It is important that the supporting structure is not a guarantor. 
+
+If the Old World requires guarantors for certain functionality to occur, this should be accomplished via secondary series of designated Asset pools; however it is likely that we want to fully liberate our Selves from Guarantor / Surety relationships. 
+
+Even our largest organizations and activities need to be able to die without affecting the rest of the ecosystem. 
+___
+By owning nothing we can gain access to the abundance of All Creation. 
+
+Regenerative economy. Services not products. The continuously improving fulfillment of the functional necessities of life at ever higher Quality and ever lower marginal Cost. 
+
+Via - Citizen Led Joint Ventures dedicated to this cause, composed of a decentralized array of partners trained in the continuously improving Pattern Language of the Domain. 
+____
+A section in the schedule for backlog - things waiting in the wings that we can pull in when the time is right. 
+____
+We are a Society of Explorers on an Epic Adventure into a Future that is Unknown, yet which we can Co-Create. 
+
+We do not merely have to Progress into the Unknown and see what befalls us. We can actually Co-Create our Destiny by the Way in which we Progress towards The Goal. 
+____
+A Future that we are Co-Creating through our Thoughts, Words, and Actions in each moment. 
+
+The Practice. 
+___
+A Future that we are Co-Creating through our Vision and Ideals, and the Way those are translated into wise Plans and Priorities, that in turn inform our moment by moment thoughts, words, and actions, that we reap the fruit of in the subsequent moments. 
+____
+The Future is a Harvest of the seeds we sow in the Present through our Thoughts, Words, and Actions, and Who We Are Becoming as a result of them. 
+
+This is true individually, for a family, for a tribe, for a nation, and for humanity. 
+
+The spiritual and natural laws do not regard whether you are acting alone, in a group of 5, or a group of 100 million encompassed by a line on a map that your ancestors waged war to establish. The Principles apply at all fractal levels, because everything is interconnected and interexistent. 
+
+We cannot allow a part of our body to remain sick and have the whole body function well. It is only when all parts of the body are healed, elevated, and functioning at their best and highest that we are capable of the heroic and olympic feats for which we are destined. 
+
+_____
+Christ - as the Supreme Example of the Way. 
+
+The Spirit of Christ - as one with the Spirit of God - doing what God would do incarnate in a Space and Time. 
+___
+Governance... for instance a Center serving 700 disadvantaged clients... when there are 70 Thousand that need to be served in the Region, and 70 Million that need to be served in the world. 
+
+A New Blank Space is needed - only 4 of 15 board members at the Center would get it, the rest would be scared to death. 
+
+Those who can see need to establish the Citizen Led Joint Venture to address the Whole issue; those need to be stacked up and aligned; and then others simply invited to connect, be empowered, share templates, processes, best practices, cross-pollinate solutions, technology, and knowledge, so that their valuable work can be replicated. 
+
+A Pattern Language for each Domain. 
+
+A Citizen Led Joint Venture for each Domain. 
+
+Interoperability across Domains. 
+____
+
+We are all Explorers and Entrepreneurs. 
+
+____
+When incentivizing, for instance in sales, incentives should be based not on total sales, but on (something like) sales over opportunity cost. 
+_____
+The Science of Human Action. The Science of Duty. 
+_____
+What if we ran society like a cruise ship... respecting that people of different backgrounds and faiths were assembled for a common journey... not requiring conversion as an entry point... and that we are all committed to seeking Meaning and Truth in the best way we presently and humbly know how. 
+
+A Chapel on a cruse ship or air craft carrier, has multiple chaplains that can engage and support the variety of communities of faith. 
+____
+We must be able to labor alongside all sincere and open minded seekers of Truth. 
+____
+Measurement against, and Progressive Realization of, an Ideal... not a budget. 
+____
+We must start from [[Where We Are]], and see our Current State for what it is. 
+
+Advancing towards Vision, Intention, and Goal (step 1), we must rigorously analyze and examine (step 2). 
+
+This set Point A and Point B - FROM / TO. 
+____
+The Goal of a business community, when it comes to "sales", is actually relationship development, and understanding how we can best Serve those we relate to, as each element of the community advances towards its unique part of the Total Nested Hierarchy of Goals. 
+
+Selling to someone, in order to induce them to consume something they do not need, that does not help them meet their goals, is unethical. 
+
+You would not want it done unto you, so neither should you do it unto others. 
+
+If an individual or organization would not like to be sold something that did not meet its needs in the best and most valuable way, that it should not do that to others. Like the movie scene where the Santa at Gimbels refers a woman to a competitors store that could better serve her family. 
+
+We therefore strive for Relationship Development, understanding: 
+1. The various Constituencies we relate to
+2. Who the High Value Relationships are 
+3. What their High Value Needs are 
+4. How we can construct a world class service to genuinely meet the Highest Value Needs of our Highest Value Relationships 
+
+We look at Relationship Development along at least three dimensions 
+1. Current and Future Co-Laborators 
+2. Consultants, Trade Partners, and External Organizations that help us Meet Needs and Solve Problems for our High Value Relationships
+3. Clients / End Users 
+
+Our goal is to develop Meaningful Relationships with each basic constituency, which are growing deeper, more meaningful, with greater Value Exchange over Time. 
+___
+The passion, excitement, activation and ease of sharing of Members already in our community... and the ongoing deepening of those relationships... must be a central aim. 
+
+It takes a tremendous amount of effort to identify, onboard, and train great Members. 
+
+The most likely source of the future people and resources we need are the Engaged Networks of our Engaged Members. 
+
+___
+The issue is not a lack of Knowledge at the aggregate level. 
+
+Our Collective Inheritance is tremendous and contains everything we need to know to Progressively Realize Heaven on Earth. 
+
+The issue is that we do not do it, because the Wisdom, Knowledge, and Practice of the Way is not widely (disseminated).
+
+The Knowledge is hidden. 
+
+We must educate, elevate, and empower humanity, individually, familialy, and in small teams, organizaitons, and communities at all levels, to do what is Wise Right and Good for them in that local situation, in the Context of a broader universal Vision, Strategy, Plan, and Rules of Engagement. 
+
+Education and Elevation - should consist in the growth and learning of the basic Principles and Values of Spirituality, Philosophy, Society, Science, and Technology - and growing Personal Wisdom and Knowledge through applied experience - the genuine understanding of how to apply the Principles and Values to an increasing series of meaningful challenges, or Quests, undertaken in community. 
+
+This can be greatly facilitated through the creation of simple Tools, that get appropriately more complex at each Stage of Development, that bring the right Principles and Values to bear, in the Wise Right Proportion, at the Wise Right Time, as a consequence of their use. 
+
+Wisdom, Principles, and Values should be incorporated into Tools, that when used, bring them to bear.
+___
+We want to teach people to grow in their ability to intuitively apply the Way, and to understand what aspects of their natural tendencies need to be brought forth and accentuated, and what parts need to honed and integrated in a different way in order to achieve The Goal. 
+___
+Many times people mistake their flaws, blockers, and blind spots as the reason for their success; not understanding that they are succeeding in spite of them, not because of them. 
+
+What got us here, will not get us to where we are going. 
+ 
+___
+There is now a revolution and regeneration under way, which will continue to break forth and transform the world. 
+___
+Create diagrams of the evolving arc of human religion and ideology; its major figures; across time and around the world. 
+
+Create a visual infographic representation of the spread of the various religions and ideologies over time. 
+
+Point out that the mechanism of At-One-Ment is not as it is often presented, for in some Way it must deal with the billions of people who never heard about (Christ). 
+
+Come up with an approximate mathematical representation of the numbers and percentages of people over time, what their religious views were, and forecast those trends into the future towards the Realization of the Knowledge of God and the Universal Law - where the doers of Justice co-operate according to the Wisdom, Principles, and Values - and where the greedy, violent, exploitative, and oppressive remain outside the walls of the (Divine City). 
+____
+It is about our own spiritual formation and transformation - to become the kind of people - from whom flow the Quality and fruit of the New World naturally manifests. 
+
+it is not about being a good Christian, a good Muslim, or a good Hindu, but rather about the genuine, inner, personal spiritual transformation and journey to bring our Selves into harmony with God and the Way, so that the fruit flowing from our lives resembles the words of the great prophets and teachers who were examples to us. 
+___
+The selection of the Imagery of the Kingdom of God. 
+
+The Culture. 
+
+The Values. 
+
+The Traditions. 
+
+The Rituals. 
+
+The Rites. 
+
+_____
+Progressively replacing destructive Ideas and Images - with more and more True Ideas and Images. 
+
+Allowing our False Ideas and Images to die - so that we do not have to. 
+___
+A way to make visible - the invisible narratives, images, and ideas driving us... 
+
+A way to examine them. 
+
+A way to upgrade them. 
+
+A way to progressively transform and conform them towards The Ideal of God. 
+___
+A decentralized and empowered network with strong centralized resources to draw on. 
+
+Local empowerment, decision making, and progress. 
+
+The system is designed fractally around common Systems and DNA - just like Nature or a Body. 
+
+A given local system, such as finance, has trifold responsibilities, one to the local team (Integration Domain), one to the 'organ system' it is a part of us (Guild), and ultimately to the Body (Whole). 
+
+Every organization must have the same elements present, functionally and fractally. They can draw on the Center, or establish their own local instance, provided that the local instantiation is interoperable with the Whole. 
+
+This means common DNA, common Systems, and common Procedures - up to the [[Minimum Standards of Interoperability]]. 
+
+Because the Learning often happens at the fringes of the organization and not the Center, there are mechanisms for the continuous adaptation and elevation of every system based on the learning, growth, and local responses at the edges. 
+
+As Information and Knowledge come towards the Center - the System relies on broad and universal Principles and Values that hold things in balance - as it gets towards the edges - finer and finer details emerge. 
+
+Because every part of every system at every level fits in to something greater than it, the body can send and receive information and signals, that enable it to function as a coordinated Whole. 
+
+___
+Wisdom - there is a rhythm and seasonality to life in every unique location that must be respected. 
+
+If we live somewhere it is frozen in the winter, and hot in the summer, we can't just set a goal for the year. We must really understand, quarter by quarter, month by month, season by season, over the course of years, what must happen, in what order, in order to reach our Goal. 
 _____
 Therefore, we are going to execute on the [[New Vision and Plan]]. 
 
