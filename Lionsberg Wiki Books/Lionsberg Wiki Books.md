@@ -1,6 +1,6 @@
 # Lionsberg Wiki Books 
 
-The books below all wander around the same core Mission, Vision, and Goal, examining it from a variety of angles and possibilities. 
+The books below all explore the same core Mission, Vision, and Goal, examining it from a variety of angles and possibilities. 
 
 They are each a [[Work In Progress]]. 
 ## Start Here 
@@ -28,7 +28,7 @@ They are each a [[Work In Progress]].
 1. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
 2. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 3. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
-4. [[The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]   
+4. [[Above The Chaos, The Meta Project - Enacting the New Vision and Plan]] - by [[Jordan Nicholas Sukut]]   
 5. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
 6. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  - by [[Jordan Nicholas Sukut]]  
 7.  [[The Lionsberg Book Of Parables]] - by [[Jordan Nicholas Sukut]]  
