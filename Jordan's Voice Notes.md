@@ -3239,13 +3239,19 @@ Because we do not try to claim ownership of the forests, the oceans, the lakes, 
 We think that we want to own everything, because that is how you gain access to resources in the fraudulent game. What we really want is a flourishing and abundant community and environment, life-giving places to live, meaningful work, meaningful relationships, access to the joys, goods, and services we need to flourish, and the knowledge that our future, and or grandchildren's future, is secure. What if the fraudulent and unjust game we are presently playing was not the best way to achieve that? 
 
 A section in the schedule for backlog, things waiting in the wings, ideally prepackaged as projects, that we can pull into the program when the Time is right. 
+___
 
 We are a society of explorers on an epic adventure into a future which is unknown, but which we can be the co-creators of. 
 We do not just have to travel and see what happens. We can actually consciously co-create our destination by the Way in which we navigate towards it. 
+___
 
 A society of explorers on an epic adventure into a future we are co-creating through our thoughts, words, and actions in each moment. 
+____
 
-Through of Vision and Ideals, translated into wisely designed priorities, that in turn inform our moment by moment thoughts, words, and actions that we subsequently reap the fruit of. 
+Through of Vision and Ideals, translated into wisely designed priorities, that in turn inform our quarter by quarter and moment by moment thoughts, words, and actions that we subsequently reap the fruit of. 
+
+When we bear good fruit, we tithe the first 1/10th back to the Deepest Node to enrich the environment that is making the divers and abundant harvest possible. 
+___
 
 The Future is like a harvest of the seeds we have sown through what we think, speak, do, and become. This is true individually, it is true for a nation, and it is true for humanity. The Spiritual, natural, and human laws do not regard whether you are acting alone, in a group of 5 or 50, or in a group of 330 million bounded by a line on a map that reflects the outcome of the last war. The principles that are True apply fractally at all levels, because everything is interconnected. We cannot allow one part of our body to remain sick, and hope that our body will be well. It is only when all parts of our body are healed, well, and functioning at their best and highest that we are capable of the heroic feats for which we are destined. 
 
@@ -3589,6 +3595,744 @@ ___
 Wisdom - there is a rhythm and seasonality to life in every unique location that must be respected. 
 
 If we live somewhere it is frozen in the winter, and hot in the summer, we can't just set a goal for the year. We must really understand, quarter by quarter, month by month, season by season, over the course of years, what must happen, in what order, in order to reach our Goal. 
+____
+When Cycles are taken into account, whether seasonal or economic, it creates the need to forge meaningful opportunities for meaningful work and relationship outside of the high cycles. 
+___
+We are removing our False Lenses and our False Self and putting our on True Lenses and True Self to see things as they really are, from the perspective of God. 
+___
+We are placing our feet on the High Road of spiritual transformation in partnership with God. 
+___
+We are progressively understanding and applying the Wisdom, Principles, and Values of the Way to every aspect and detail of our existence. 
+___
+All things work together for Good, for those who Love God and are called into the [[Fulfillment]] of His Purposes and Plan. 
+___
+The reinforcing and reciprocating cycle between elevating our Selves and our Work to be of ever greater Service to Humanity, Creation, and the Creator. 
+
+Work is the major calling - but not in distorted way we were taught to think about. Not going to work, for a misaligned company, that extracts most of the Value, and pays us via Wage slavery. 
+
+Each day we grow in strength, capability and talent, we can render a higher Quality and Quantity of Service to the Creator and All Creation. 
+
+It begins with a baby channeling Joy into the world. A two year old picking up a spider and walking it outside to safety. We can demonstrate the Value of a being to Society and the Living System through each stage of their existence. 
+
+However at some point we tolerated the rise of companies that abstracted and extracted [[Ownership]] of our labor away from Us. 
+
+We were captured inside of soulless Giants who compete with One Another by proxy at the expense of humanity and the other sub-systems that are a part of them, and the super systems they are a part of. 
+
+It is time to arise, unite, and liberate our Selves into an Ecosystem that we Steward for the Good of the All its Current and Future Inhabitants, the Living System, and the Source and Sustainer of Life. 
+
+The Value we Co-Create for Society should be captured by a Commons that exists for the Common Good. 
+
+____
+When non-profit money flows, there are three basic options:
+
+1. Channel it to individual organizations or causes, thereby dispersing it. 
+2. Channel it into the sectoral impact funds     
+3. Invest in the growth and sustainability of the Lionsberg Regenerative Economy (or better), compounding returns to Society over many years and creating sustained action in pursuit of shared Goals and Values  
+
+Here is the net return on investment for each of the courses of action. 
+____
+The strength of Lionsberg is that it is a coordinated body of individuals, organizations and communities with diverse skill sets in many areas, acting in unison as a coordinated body touching all domains of Society and the Living System. 
+___
+We value our for-profit and non-profit flows on a basis of 7x, giving us a comparative measure to the markets, and serving as a starting point for conversations with the institutions of the Old World. 
+____
+The Great Game of Lionsberg
+___
+Lionsberg is a guided Open Source System for individual, local, and global transformation. Its creators have given it away as a gift to humanity, the Creator, and All Creation, with the seeds of the New World embedded within it.
+___
+I have decided to lay down my life and all my creation for the sake of humanity and All Creation. 
+___
+Lionsberg is like a Society of Explorers - navigating towards Wisdom , Truth, and The Goal.  
+___
+Lionsberg is like small Seed, that contains the DNA to grow into a Mighty Forest. 
+___
+Lionsberg is like a vine, growing across the Earth and establishing new and unique root structures in each locality it touches, each bearing uniquely Good Fruit. If even one small node remains, though the rest of the structure be destroyed, the Whole can always reemerge.  
+___
+As people use the internet to find things, search results about self-aggrandizing people and companies get pushed further and further down. Interlinked ecosystems in which the Participants talk with and about One Another become more and more valuable. It is the interlinking, networking and synergy that unleashes the Network Effects. 
+___
+There is not a single "right" or "best" martial art. There is only principles, wisdom, understanding, theory, and practice that over thousands of years has resulted in the best martial artists living our a Way of life and being that works. 
+
+We teach the Way of martial arts. The timeless and distilled Wisdom underlying the various forms and systems. We teach you to find your own unique expression and embodiment of those universal principles. 
+
+The result is a Diversity of individual and local styles, all operating according to the same basic Principles and Patterns. 
+
+Whether spirituality, martial arts, economy, business, society, culture, arts, governance, or any other aspect of the Art and Science of the Way, the logic holds. 
+___
+We are All apprentices of the Way; Explorers of the Truth; Seekers of the Life. 
+___
+The House, or Temple, of Wisdom
+
+The House, or Temple, of Reason
+____
+Much of the problems between us come from mistaking the outer body of someone as the person, rather than the True Eternal Self within, which God generates and sees, and which exists beyond the apparent categories of race, ability, beauty, and every other dimension. 
+___
+
+The Divine Spark within us All is an aspect of the One.
+___
+Our only Safety and Success lies in Solidarity with other, not going it alone and trying to be everything. 
+
+God gave each of us gifts, skills, and talents, but it is only when we come together in humility as unique and individuated aspects of One Body that we begin to see the fullness of what we are intended to Become Together. 
+
+## October 2019 
+
+Each organization should be a Center of Distribution and be held accountable for the amount of Resources it Accumulates. Excess resources should be released so that the Whole can apply them to the Bottleneck of the System of Systems. 
+
+Likewise by overly centralizing Resources, we fragilize the entire System. 
+
+Any part of the One Body must be able to fail on its own, without pulling the Whole or the other Systems of the Body down with it, and the remaining parts must be able to Regenerate that which was lost. 
+____
+Some things may not be able to Realized until the New Era dawns, however we do not know what those are, and we are tasked with doing what God would have done, and Continuous Elevation towards The Goal. 
+___
+Those with whom we share Common Goods or Resources are Comm-Unity. This implies that All Creation is our Comm-Unity. 
+___
+Spiritual Transformation is profoundly Social. It is not just between us and God. It is between us and God and all other individuated aspects of the Divine in and around us, and ultimately throughout the Cosmos. 
+___
+There is a non-physical non-gravitational Force in the world, that is Energy, that can be channeled to great effect and Power. 
+
+A body part can be lighter or heavier depending on the Flow of Energy. Steam can rise and expand, or condense and Freeze. 
+
+So too can we channel great Energy through our Body in a Way that defies the apparent laws of traditional physics. 
+
+This should be discovered in ever greater Depth. 
+___
+As you begin to gain Power, you understand that you can profoundly shape the world around you, either for Good or for Evil; for your own selfish gain, or for the Gain of the Whole. 
+
+If you are striving towards your own selfish gain, you will try to grasp, you will try to obtain, you will try to own, you will try to capture, you will try to possess to forge your own small or large version of the [[The Game of Empire and Oligarcy]]. Even if your tiny little empire is hundreds of billions of dollars, it is still a tiny little empire. 
+
+The things that are Significant are the transformation and elevation of humanity and the Living System, and the Values and Goods we Co-Create together. 
+
+When each of us exercises their unique strengths, within a Co-Ordinated Whole... 
+
+We may have different SpatioTemporal structures for the segregation of risk and the protection of emergence... 
+
+Yet... what is being created is One Kingdom Economy, isolated from the ability of any individual or locality to control or exploit it or sell it. 
+
+Then - we are liberated from the need to centrally control, and each Locality can retain Sovereignty and Autonomy while Co-Operating an Instance of the System / Pattern Language. 
+
+Interoperability is forged by the purity of Intention, the Faithfulness of the Instantiation, and the shared drive towards Unity through Love. 
+
+Once the Way is articulated in Spirit and Pattern Language rather than Law or Form, it becomes universal and eternal - capable of being Progressively Realized in any [[SpatioTemporal]] domain. 
+
+Recognizing that The Goal by definition is a Higher Order Functional Unity between One and All, between One and Its Body, all Instances of the System understand that they are destined, commanded, and impelled to climb the Ladder towards every greater [[Collaboration]] and [[Cooperation]]. 
+
+We must create something that will Serve humanity over multiple generations, so that they do not exist under the control of others, *because* they are voluntarily taking up the [[Responsibility and Authority]] for governing them Selves as One Under God. 
+
+We Protect the emergence by setting up the Structure, Principles, and Values in advance, so that we are not tempted to deviate from our Values. 
+
+We align and coordinate our Strategic Plans. 
+
+We bring organizations together into Joint Ventures. 
+
+The requirement is that the Value is transparently stewarded to Lift humanity and the Living system up towards The Goal. 
+
+Think about the next generation structures - that silo out the risks - empower the Agents  - and offer the Commons of Brand, Platform, Resources, Relationships, Community, Coordination - that it takes to flourish and grow. 
+
+___
+The historic viewpoint many of us were taught is that if we each seek our own benefit the world will become a better place, and we will achieve the greatest outcome for our selves. 
+
+All of our wisdom literature tells us that this is not True, and that it is only through us each playing our unique role in service of a story so much greater than our selves that we can achieve what is best for our selves and others. 
+
+The ends never justify the means. The means are the ends. We reap what we sow. 
+
+If our Aim is to get what is ours, we will reap of society of self-optimizing selfish individuals, organizations, and communities that cause the Whole to Suffer and Perish. 
+
+If we sow Service, Community, and Collaboration in Service of the Highest Intention and Greatest Good which is God, we will reap a Society that continuously approaches Heaven on Earth. 
+___
+A good test of how Wise, Right, and True something is is to consider what would happen if all people, in all times and places, simultaneously pursued the [[Pattern Of Action]] you are considering. 
+
+It turns out there is only One logical solution to the problem, which is collaborating to Serve and Elevate the world around us. 
+
+As we Progress down this Path, we discover that the world around is not separate from us, and that we are All part of One Body. 
+____
+In Partnership with God and One Another
+___
+Because shareholders are not pulling the Value we create together out of the System, we can be more generous - both to those within the System and to those without. 
+
+Some people assume that as an organization grows a bigger heart, it might cause our wallets to grow more thin. 
+
+We believe the opposite is True - by wisely stewarding the Resources and Value we Co-Create towards the Highest Intention and Greatest Good - we open a door to the accumulation of True [[Wealth]], enabling us to be more generous towards One Another and All. 
+___
+We consider it a sacred honor and privilege to be able to be generous - to those in our Community and around the globe. 
+____
+Trading in shareholders and capital overlords for Community Stewardship... 
+___
+Accountable to the Highest Authority and Highest Standard. 
+
+Going above and beyond what is required by Law, to try to truly fulfill the Spirit. 
+____
+Every Partner is a Customer
+
+Just as we do customer service, so too should we establish service, accountability, and transparency around how we serve our Trade Partners and Collaborators - Log of requests, themes, root causes, response, and continuous systematic improvements made in response to the problems and needs. 
+
+Becoming the preferred (Platform) for Collaboration. 
+
+___
+Lionsberg is about discovering and Progressively Realizing our best and highest potential at every level of individual, family, and community Life. 
+___
+Business and Economy should be built in service to people, communities, and the environment. 
+
+People, communities, and the environment should never serve or be exploited by Soulless Corporations that occupy them. 
+
+___
+Comprehensive Integrated Delivery... 
+
+Integrated Project Delivery
+___
+We MUST be Accountable for achieving our Goals and Objectives... no matter if we are too busy and overwhelmed. 
+___
+We MUST be Accountable for executing in a controlled and accountable manner... no matter if we are too busy and overwhelmed. 
+____
+We MUST be Accountable for executing across all functions of the Body... no matter if we are too busy and overwhelmed. 
+___
+We MUST be firm in our insistence upon The Essentials, or they will never occur. 
+____
+We can for years go through the self-perpetuating loops of always being, or seeming, too "busy" to execute the Way. 
+
+This always puts the Whole in jeopardy. 
+
+If you accept a Domain of Responsibility and Accountability, you will be expected to Co-Operate it in the Way. 
+
+If you are not willing, able, and passionate about doing so in service of The Mission and Goal - do not accept the Domain. We will find another position for you that matches the level of capability and effort you are willing and able to contribute. 
+
+We need passionate and capable Leaders producing Results in the Way. 
+___
+How do you forge the ties across levels of abstraction - the local leadership that understands everything that is going on in a Domain, and the global leadership that understands the Whole? 
+____
+The Co-Creation of franchise enterprises to serve those in need by meeting needs and solving problems. 
+____
+Adventure - motorcycle tours - ascents - with key allies and contributors. 
+___
+A pool of emergency reserves - several allies, committed in advance to contributing resources - if we get into a tight spot. 
+___
+Good people - coming together not around Religion, nationality, or politics - but around the shared timeless Wisdom, Principles, and Values we celebrate at the heart of our diverse cultures and traditions. 
+___
+Philosophy - The study of the underlying Nature and Reality of Existence - inevitably leads to a discovery of the Spiritual Realm - that the vast majority of great thinkers have discovered. 
+
+This spirituality does not need in turn to become a Religion. The open minded search for Truth and for God, doing our best to live a life of Integrity, in accordance with our Current Best Understanding of God and Who He Has Created Us To Be is the path. 
+
+The New Era is not a result of the conquest of one religion over all the others. It is when humanity comes to humble understanding of Truth, and the Knowledge of God covers the Earth like floodwaters. 
+___
+Our job is to build a global Community. 
+
+Of individuals, organizations, and communities collaborating to transform our lives and our world. 
+____
+We are transforming our lives and our world through the meaningful work and relationships we invest in each day. 
+___
+## November 2019 
+
+The Way is a complete science, philosophy, theory, practice and Way of Life... 
+
+...rooted in the Progressive Realization of our Best and Highest Potential... 
+
+... Individually and Collectively... 
+
+...Through the discover and application of the timeless Wisdom, Principles, and Values that cause people, societies, and ecosystems to flourish in harmony. 
+___
+Dialogue... 
+
+We have in kind services, in kind products, relationships, and reosurces / money. Each of which we can attract and deploy. 
+
+Our pitch, to those who hold these types of resources, will need to be clear. 
+
+We have a simple goal for the program in the next phase - which is to the to develop 1. The Lionsberg Intrapreneur Program, and 2. The Lionsberg Elevation Initiative. 
+
+Here is what the [[Values]] are. 
+
+Here is what the [[Elevation Initiative]] looks like sequentially for these people, in two tiers - 1. The 15% of the population most suited to transformational leadership, and 2. Everyone else that needs to be met exactly where they are, starting with the least of these. 
+
+For the Intrapreneurs - It is the training program, and then it is the funding to support them as they get into the program and emerge from it.  
+
+We can get 
+1. donors
+2. lenders (5% returns) 
+3. crowd funding 
+4. sponsorships and getting major granting organizations to embrace this. 
+
+As we said with Mergers and Acquisitions - there is no shortage of money in the world. There is a shortage of good deals, and entrepreneurial operators to actualize them.  
+
+If we are raising money from business sources and people who "get it" - we can say - we need to train, develop, and launch the Lionsberg Intrapreneur cadre of people across the world - and here is how we are going to do it. 
+
+More attractive than something more vague and abstract... 
+
+The decisive pitch that gains commitment has to have teeth, edge, credibility, tangibility... 
+
+Coupled with genuine Story. 
+
+Part of the story - I was in Kenya... I was in Asia. I was in South America...  I met with the following people... here they are... names and faces... compelling stories... 
+
+All Lionsberg intrapreneur candidates - we could almost treat it as if it were scholarships, or fellowships. 
+
+We are building a System to support a school for transformational intrapreneurship - and paying the tuition for the students to help train them and launch their businesses - and become part of the self-sustaining and self-replicating Lionsberg Community. 
+
+For example - non-profit marketing people find they can attract donor money by having people attach a face to the donation - specific stories. Sponsor Rose... not sponsor "a child" in the abstract. 
+
+We may not want to do it so literally... However we can replicate the success conceptually.
+
+When you put money into the System - you are helping us build this cadre of Leaders around the world... such as x, y, and z. 
+
+When someone does business with the Lionsberg company - part of that money goes to support the continual expansion of this cadre of Lionsberg Intrapreneurs and businesses. 
+
+And they can help shape the expansion - Would you like to have it go to Healthcare, Agriculture, Logistics, Kenya? 
+
+A tangible and compelling story to tell. 
+
+We have learned through experience and market research - that donor and investor people - when it becomes more personalized - they are more compelled to commit. Abstractions don't compel people to write out checks and support with investment. 
+
+Something specific, concrete, and tangible - like the project you are doing in (Domain X) - with the specific leaders (x, y, and z) - profile sheets on the people - profile sheets on the projects... 
+
+Here is the one doing logistics... the one making sure medical supplies getting back and forth from port and airport to the rural areas... the one doing doctor and nurse training and clinics... 
+
+So you have real faces, real businesses, stacking up to the real Mission - and people can see exactly what they are supporting... 
+
+AND - here is the transformational effect - because it is truly a New Dawn - truly a New Way of going business and creating impact in the world. 
+
+From the standpoint of attracting people to support financially and get involved, people are desperately in agony... not just the poor people in prison, but the dwindling middle class desperately looking for something like this as well. If done properly this can and should have a very broad appeal. 
+
+We have to forge the Starting Point - that aggregates the Committed Individuals and Resources. 
+
+The FOCUS - is that one of the fungible dimensions of the Story - is to FOCUS it in on the Lionsberg Entrepreneurs - you have done the analysis - you know what the needs are - you are vetting the intrapreneurs - they know what the Values are - they are committed to Justice not Charity - they are committed to Self Realization - Self Sustaining - Self Replicating - holding to these Values... 
+
+Creates the compelling Story that people can get behind. 
+
+That is the Economic Side. 
+
+Then there is the other side - which is the other 85% of the world - that is inviting all people everywhere to set their feet on the path of the Elevation Initiative. A massive number of people want to do that.
+
+And as they are transformed they will likely have opportunities for meaningful work and relationships via the businesses and initiatives the Lionsberg Intrapreneurs are originating. 
+
+The broad path is parallel to and separate from - the more rigorous track for the Lionsberg Intrapreneurs. 
+
+So we have the two things moving in parallel - both transparent - both fungible - 
+1. Provide some support - to use the money to leverage - supporting and developing the Lionsberg Intrapreneurs 
+2. Come on down and join in the Lionsberg Elevation Initiative your Self 
+
+Invest in your own personal transformation - for your Self and the world around you - even your family. 
+
+Another parallel and compelling story... 
+
+"Well show me what that means" 
+
+We would be glad to - here is the curriculum of the transformational experience of putting your feet on this path with us, in terms of your spiritual development, your intellectual development, physical development - here is how it works. 
+
+And here is the augmented version specifcally geared towards the leadership and intrapreneurial capacity necessity to fuel the self-sustainence and self-replication of the System. 
+
+Through this process, we will also be preparing the cadre of operators that are needed for the inter-generational transfer of leadership and stewardship responsibility in the trillions of dollars of existing businesses and non-profits that have been forged over the previous decades. 
+
+If you offer those two things to the world, we may get a very warm response. 
+___
+If New Dawn Schools are part of this community... 
+
+A New Dawn School is a Lionsberg Intrapreneur venture - if they are not run by, producing, and surrounded by Lionsberg Intrapreneurs they are not going to work... 
+
+We have an educational division, agriculture, education, healthcare, logistics... Lionsberg Intrapreneurs leading New Dawn Schools - and because we are doing economic development connected to the schools - we have other Lionsberg Intrapreneurs coming out of those schools and working with those schools to develop businesses around them, and contributing money back to support - replicating more schools and intrapreneurs... 
+
+Then people can understand how it works - how the pieces fit together. 
+
+And all of those Intrapreneurs and Collaborators in the businesses - all members of the Lionsberg Community - and all with their feet on the path of the Lionsberg Elevation Initiative. 
+
+Brings disparate pieces into a communicable structure that people can understand. 
+
+Standing in front of potential donor / investors / crowd funders ... what are you guys going... something really transformational... what is it... 
+
+This is what it is... two dimensions... 
+
+Lionsberg Intrapreneurs - 15% of the population really cut out to lead businesses - and by building businesses and growing them over time... in a Mondragon like federation - hope that someday reach the point we have multi-billion dollar businesses operating in these countries - turning the economies of these countries upside down - reversing the pyramid - elevating people out of the bottom up to the top - and someday if we were really successful in Kenya - we would have a reverse pyramid - very few at the bottom and a lot at the top... 
+
+At the same time - we are doing the elevation initiative for everyone - not just intrapreneurs - to come and work on their own personal transformation towards their best and highest potential, whatever that might be. 
+
+And here is what constitutes that... 
+
+All these things are designed to become self-sustaining and self-replicating - none of these designed to be permanently dependent or subsidized - Lionsberg is not based on that... Not based on charity - but Justice - that demands a self-sufficient, self-replicating model. 
+
+What we need is capital and resources for priming the pump to help get these intrapreneurs and social communities off the ground. 
+
+To get the Elevation Initiative assembled and made available to a large number of people across the technological platform that is state of the art... 
+
+We have two schools - a school for Lionsberg Intrapreneurs - and another Elevation Initiative personal transformation school for everyone to be involved... 
+
+They both have shared values, but distinct curricula. The technological content is a bit different. 
+
+Then peer groups... 
+
+We are trying to transform and support everyone on their collective journey... and transform and support Lionsberg Intrapreneurs as part of that Community to build the leadership and Lionsberg Economic System. 
+
+Clear and compelling story... 
+
+The Story telling part of our organization - will be so critical on an ongoing basis. We can outline this - we know what it is... we write so much... and then fall down getting it into the presentable format... 
+
+Those who can get these things written up and told... short videos... little case studies... ongoing series of stories that is unfolding... as each business launches it is its own fascinating story to follow along with... engaging... and having them longitudinally engaged. 
+
+_____
+The structuring of Time - and organizational structure to keep things moving... 
+
+Domain leaders... 
+
+Jordan's Time needs to shift to make this happen... 
+
+How to get current commercial business entities running smoothly in such a way they don't consume an excessive amount of time... getting good CEOs in place to run them - to get me back in a chairman of the board type position that enables simultaneous progress across the array. 
+____
+At a small scale - it can feel as if - the leader can do things best... and you are looking down at things happening in the domain that are not at the standard you could do... 
+
+...however one of the goals we have - is to identify and hire people that are better than us for each differentiated function - such that you are looking down at things genuinely co-operating better than you could do it. 
+
+We try to get to a point - where we are not accepting substandard execution - but rather finding the top general managers, who can embrace the values, take the plans, and make them happen better than we can. 
+
+Getting out there - networking with entrepreneurs - solidifying the story - getting the right people and resources in the right places. 
+___
+Setting finish lines. Enoughness. Not eternal expansion of lifestyle with income. 
+
+We tend to live within our means, such that no matter how much our income goes up, we increase our spending. 
+___
+The Consciousness individuated within you is experiencing your Mental Model of Reality - and not Reality itself. 
+___
+We perpetually Narrate the world around us, fitting it within the beliefs, perceptions, and value system contained in our Narrative Structure. 
+___
+Our current legal system is built largely around protecting the rights of equity and property holders. While this has been important to the cause of Freedom and preventing government overreach, the world has awakened to the fact that tolerating the exercise of Rights at the expense of other people, Society, or the Living System is not healthy, sustainable, wise, right, or good. 
+
+The Lionsberg Economy replaces the sole metric of shareholder profit with a holistic basket of metrics that fundamentally redefine the Way that Value is measured. 
+___
+Lionsberg was born out of the simple and profound observation that the world was not operating in accordance with the Wisdom, Principles, and Values found at the heart of nearly all cultures and wisdom traditions. 
+
+Rather than accept and conform to this subpar Reality... 
+
+...we set out to conform Reality to the Wisdom, Principles, and Values... 
+
+... which necessitated a New Operating System that would harmonize human being and doing with the Logos of the universe - 24 hour a day, 7 day a week lives in full accordance with our shared Values. 
+
+___
+On our lifelong Quest towards Truth and Meaning - we are guided by timeless Wisdom, Principles and Values that inform us how not only to avoid failure and survive, but truly thrive towards our highest potential on this lifelong adventure... 
+
+called by many names in many languages - but the important part is the heart and spirit the Word Tools point towards - words like Spirit, Truth, Love, Justice, Stewardship and Wisdom... 
+
+The totality of the path we walk, the destination of the path, the Way we walk, and the results of our Progress... has been called by many traditions simply the Way... 
+
+Each day as we progress in our understanding of the Way - getting a little bit better in the Practice of the Way... 
+
+Our learning of the deepest Truths and values of life - not as head knowledge - but as transformational realization that brings our lives and our world into harmony with it. 
+
+___
+Our bodies, minds, and spirit - go through being tested with ever more difficult challenges and obstacles. 
+
+Through lifting heavier things, our spiritual, mental, and emotional structure become stronger. 
+
+As we Progress in the Way, we will inevitably face larger and more challenging Obstacles - these are not meant for our destruction - these are meant as the very seeds of our Progress... for every perceived obstacle or difficulty contains within itself an equal and opposite Opportunity for growth... for transformation... for becoming. 
+
+Therefore all things, all challenges, all trials, work together for Good if we are walking in the Way... 
+
+Our best understanding of Nature is that it is continually evolving and adapting as it faces various challenges and configurations of Reality. in the same way that a tree must survive many storms, which strenghten it and cause it to sink its roots deeper, so are our lives, our souls, and our work constantly being tested by the storms and realities of our Life. 
+
+If our lives or our work are built on poor foundations, or with shoddy materials or workmanship, they will simply be wiped away and we must start over... 
+
+When we finally found our life and our work on a rock solid foundation and build with care and quality materials in accordance with the Design of the Supreme Architect - our work is tested continually and continually passes the test... and we are entrusted with more and more responsiblity... 
+
+Thus we are faithful with the small things - the moment currently in front of us - on the current phase of our Journey. 
+
+As we Build, our work is tested, and it passes, or must begin again... 
+
+We are a community - with our feet set firmly on the path of individual and collective transformation. 
+____ 
+We recognize the immense debt of gratitude that each generation owes to the generations that have gone before... 
+
+...bringing our world to the place they are today. 
+
+We recognize the wars, the sacrifices, the charity, and the unearned privilege we enjoy as a result of the blood, sweat, and tears poured forth by billions to forge a better world for their children and grandchildren. 
+___
+When a far greater Awareness of Truth, the Way, and the Source - covers the Earth like floodwaters - Right, Just, Loving, Good thought, speech and action will flow from the elevated collective consciousness, and the world will be transformed. 
+
+## December 2019 
+
+My people perish for lack of Knowledge. 
+
+Without a Vision, the people perish. 
+
+Our enemies are isolation and ignorance. 
+
+When we are united by the Knowledge and Image of God, All things can flourish as One Body. 
+___
+At the core - perhaps it is about Identity. 
+
+[[Who We Are]]. 
+[[Who We Are Becoming]]   
+[[False Self]]  
+[[True Self]]  
+
+When I come to Know Who We are, detached from the past forms, hurts, and egoic layers, then we find Freedom and Power in Unity with our Creator. 
+____
+Lionsberg is our humble attempt to distill the Timeless Wisdom, Principles, and Values that God has revealed through cultures and traditions around the world, and to apply those to a wise and transcendent New Operating System for humanity, beyond the current corporate and national systems. 
+____
+Transcending religion, ideology and culture are universal and eternal laws that govern the world, revealed by the Spirit of God to All who listen and obey. 
+___
+
+A non-religious yet spiritually grounded System and Practice of right relationship with God, Self, One Another, and All Creation. 
+___
+Specific Steps / Process / Practice... 
+
+Integrated by a System Wide Master Plan. 
+___
+A Community... engaged in The Movement... towards the universal and eternal principles and values... 
+
+Working to Align every aspect of our lives, relationships, and work with the Highest Intention and Greatest Good. 
+___
+The primary organizing relationship of our lives is not work, money, a political party, or a nation... but rather our relationship with God and One Another as One Family, each created with inherent dignity and worth, and deserving all the rights, opportunities, and responsibilities that should be rightfully accorded to a child of God. 
+___
+A Quest - towards a Time - when Right Relationship with the Creator, One Another, and All Creation - becomes our lived Reality. 
+___
+Our Project is rooted in Who We Are Becoming, individually and collectively, as a result of our Conscious Decision to make our relationship with God the Central Organizing Principle of our Lives, Relationships,  Work, and World. 
+___
+The Totality of God, Natural Law, Spiritual Law, and the Path we walk on our Pilgrimage is the Way. 
+
+Virtue is Right Wise Action in Harmony with the Way. 
+
+Sin is an action that violates the Way, or separates other from the Way. 
+
+The Way is the Way of Wisdom, Love, and Justice. A deep Love for God, our fellow humanity, and All Creation, and a deep Wisdom of how to manifest that Love properly moment by moment to create Justice. 
+
+Co-Creation - made in the Image and Likeness of God, we are constantly creating and manifesting things into Reality. The vast majority of what human beings create violates the Way. 
+
+The constant Question - What is the Wise, Loving, Right thing to Do? 
+
+Is it Loving, Wise, Right and Good to produce billions of tons of plastic? 
+___
+Under the New Covenant, there is neither Jew nor Greek; we are All One. 
+___
+Our primary Identity is as One Family, or Body, of God. 
+___
+There is no politics; no factions or divisions; for we All seek God. 
+___
+When our primary Identity becomes One; 
+
+When our relationship with God becomes our primary organizing relationship, and the basis for all our decisions; 
+
+When we do not have work that is separate from life or spiritual practice; 
+
+When we live integrated lives of Spiritual Practice, continually applying our best understanding of God and the Way to the meaningful Work and Relationships we invest in each day, as an act of service to God and One Another; 
+
+When we are not building organizations but Community, and the Purpose of that Community is to place the Creator at the Center, reviving the timeless Wisdom, Principles, Values, and our Common Journey; 
+
+When we share resources and platforms; 
+
+When we have solidarity in our resource distribution; 
+
+When we invest in education, learning, healthcare, and healing; 
+
+When the Divine Spark in every being becomes the basis for our mutual respect; 
+
+When our service to One Another is joined to our service to God;
+
+The New World is at hand. 
+____
+A global community of voluntarily consenting socioeconomic units joined together and co-operating as a co-ordinated Whole; each exercising its unique gifts and talents as part of One Body.
+___
+If we are looking to Christ as our example, should not our view encompass both the first phase of embodied existence, as well as the second phase to come? If we are to do as Christ would do, we must imitate the entire Spirit of Christ, and become both the lion and the lamb. 
+___
+A ministry, supported financially by those healed by it. 
+___
+Integrating all the details of our small reign into the broader reign of God - bringing our small System into the Greater Divine System - our small order into the Greater Divine Order. 
+
+Founded on the Rock of the the Kingdom of God - enabling people to live lives of seamless integrity with the Wisdom, Principles, and Values they are encountering on their transformational spiritual journey. 
+___
+Rather than blindly accepting the status quo of broken and corrupt systems and institutions, we are prayerfully conceptualizing a different and higher Reality, and then partnering with God and One Another to translate that Higher Reality into our Reality. 
+___
+We are flawed. Lionsberg is flawed. However we are attempting to take a substantial step forward from the existing systems and institutions. 
+Were this system to be implemented at global scale, it would be absolutely transformational. 
+___
+A System, a Community, a Philosophy, and a Way of life aimed at the total transformation of our Lives and our World. 
+
+A New fractal operating system and Way of governing our lives that can be implemented at any scale, from our individual lives, to our families, to our businesses and non-profits, to our tribes and nations, and ultimately to the world. 
+___
+This requires becoming the types of people for whom Heaven becomes our Reality. 
+___
+The world and society around us is a product of our collective consciousness. 
+
+As we elevate, transform, and reunite our Consciousness, an entirely New World will unfurl itself. 
+
+A New Reality will supplant our Old Reality. 
+
+___
+We can begin individually, however Success requires that we manifest it collectively, recognizing that we are All One Body. 
+___
+By transforming our Consciousness, we will naturally bring into existence a New World that reflects Who We Are Becoming. 
+
+This is a Project about becoming the type of people, around the world, for whom Heaven progressively becomes our Reality. 
+
+It is all about a transformational individual and collective Quest to become our best and highest Selves. 
+
+This is the journey we would like to invite every being in the world to join us on. To become, individually and collectively, the absolute best we are capable of becoming. 
+
+We do this through a process of Co-Creation in partnership with God and One Another... 
+
+Elevating and transforming FROM our current state TO the best and highest state we can discover and achieve - this is why we call it the Elevation Initiative. 
+
+The Elevation Initiative is designed to help us, individually and collectively, discover and achieve our best and highest potential. 
+
+___
+If we take one thing, and make it the thing, and that one thing is anything other than God, we are fundamentally doomed to fail. 
+
+There is no other logic that reconciles all things. 
+
+If we take capital and make that the ruler and organizing system, we will fail. 
+
+If we take the state and make that the ruler and organizing system, we will fail. 
+
+____
+Organizations with Lionsberg are voluntary associations of business and non-profit entities of all types, stewarded in trust for the multi-generational benefit of humanity and the Living System. 
+___
+Organizations must succeed on their own merits, and become self-sustaining and self-replicating. 
+___
+Saying - Your system is perfectly designed to get the result you are getting. 
+
+Lionsberg is a New System designed to get a New Result. 
+
+The Result we want is the Kingdom of God, on Earth as it is in Heaven. 
+
+It doesn't matter if we can get there - the idea is to Progress towards The Goal, recognizing that there will always be another step to take. 
+___
+Transcendence rather than war and revolution. 
+___
+Constructing a life, such that if everyone followed our example, the world would flourish in harmony. 
+
+Our individual actions matter far more than we think, because our actions influence Who We Are Becoming, and Who We Are Becoming shapes our Destiny and the world around us. Culture, the Way We Do Things Around Here, is forged through our actions. What we do, and what we tolerate. 
+
+The power of Truth and Love in Action, not words, is the Logic we can All apply to create the End we desire. 
+___
+What Aramaic words did Jesus use for God? 
+
+And for the other key terms? How do those differ in context and understanding from what we have inherited in English today? 
+___
+The heart and message of God to humanity... 
+
+If we look across our prophets, traditions, and teachers, and dissect their saying piece by piece, we can quickly misinterpret and begin moving in different directions. 
+
+It is not about parsing words, but about understanding the Character and Nature of God, and becoming imitators of God, on our Way towards Unity with God. 
+
+It is about becoming One with the Perfect Character and Nature of God. Being Perfect, as God is Perfect. 
+
+That Perfect Nature shines forth through the diversity of cultures and traditions, weaving a rich tapestry of understanding of the Good, Loving, Wise, Just, and True Nature of God. 
+
+Arrogant theological and ideological camps are entirely opposed to the character and nature of God, who desires for us to humbly learn and Help One Another grow in Wisdom, Knowledge, and Understanding as we unite our Selves to our Source, and therefore to One Another. 
+
+When we allow the Character, Nature, Authority, and Power of God to permeate every aspect of the Domains we are entrusted with Stewarding, starting with our Selves, our Families, our Organizations, or Roles, our Communities, our Tribes, our Nations. All are places where we have some degree of Responsibility and Authority. 
+
+God invites us to bring that over which we have Authority into Alignment with His Ultimate Authority. 
+
+As we are transformed and conformed towards the Perfect Image of God, we simultaneously lift up every Domain we are entrusted with towards its own unique Perfection, Progressively Realizing its Potential and presenting it unto our Selves, God, and the World without any spot or blemish. 
+
+Thus we have the transformational Spirit and Power of God living and working both in us and through us, simultaneously transforming both us, our domains, and our world, individually and collectively, towards That Which Reveals God's Ideal State, which some have called Heaven. 
+
+___
+
+
+Heaven or Hell is a Reality we progressively attain, or rather become. It is not a distant bliss and suffering, but a permeation and transformation of our being and character that makes us day by day, moment by moment, more heavenly or hellish creatures, in a more heavenly or hellish existence. 
+___
+Reconciliation and Redemption of people of Goodwill from every tribe and nation into One Family of God, with One Central Organizing Relationship. 
+
+Truth, Love, Justice, Stewardship, and Wisdom, flowing from God into our Right Relationships with One Another, the Creator, and All Creation. 
+___
+Our Definite Supreme Aim is the Kingdom of God. 
+____ 
+All things are Sacred. 
+___
+The only Way to ensure the flourishing of the seventh generation is Progress beyond mere sustainability into a genuinely regenerative socioeconomy. 
+
+Laboring side by side with the great regenerative powers of the Creator and Creation, in a Way that allows both us and Nature to flourish side by side, as constituent elements of One body, working together towards every more flourishing and diverse life, culture, color, people, plants, animals - organized around the only Logic that solves the Question - which is the reconciliation and At-One-Ment of All people and All Creation under a Loving, Just, and Good God. 
+___
+Harnessing and challenging the creative and regenerative energy of life, love, sex, thought, speech, creation, community. 
+What are each of these, lifted up to their best and highest form? 
+How do we use the inherent motivational and energetic drives within us towards each of these things to bring forth their best and highest form in service of The Goal? 
+___
+An opening glimpse of the Science of Duty. 
+
+A look at the Fork in the Road we are facing, and where the status quo trajectory leads us. 
+
+A look at the fallacy of domination, uprooting, and conversion, vs. locally instantiating and adapting the Pattern Language of the Way as we All grow in our Knowledge and Understanding of God. 
+
+A look at how empire, power, and oligarchy create and feed off of enemies and poverty. 
+
+The difference between spiritual freedom and love, vs. religious oppression and fear. 
+
+Exchanging dead religions for the living Spirit of God. 
+___
+The immense power of united energies of Thought and Prayer. 
+____
+If we are All aspects of One Consciousness - things can shift far more rapidly than we can perceive. 
+____
+The overthrow of the Western false dichotomies. 
+
+All things are Whole and Sacred. 
+
+All things are a Sacred Whole. 
+
+All sciences are merely chapters of the great Science of Duty... revealing the great spiritual and natural laws, and how we must live in harmony with them. Understanding the natural and spiritual laws that undergird the Universe, so that we can align our actions and existence in harmony with them. 
+
+Not so we can exploit them to make nuclear bombs and destroy one another. 
+
+The great spiritual and natural laws of the universe will prevail - we would be wise to understand and harmonize with them. 
+
+All things will be brought into order. Justice will be served. Our choice is whether we place our Selves on the side of the Logos, the only logic that works, or whether we continue to remain separate, exploiting our environment and each other, allowing greed and fear to drive our lives, scattering our energies without Unity of Purpose, and destroy our world until Nature and God forcibly realign things. 
+
+It is a Good, brilliant, and amazing world. We should fall down in awe and wonder at the prospect that we have been invited to partner and participate by adding our energy and capacity to the Master Plan at this crucial moment in history. 
+
+What is the Master Plan? The reunification of the Creator, Humanity, and All Creation into a flourishing and harmonious Whole, where the spiritual, natural, and human realms manifest the Divine Symphony. 
+
+___
+We are being liberated from the childish views of heaven as a place of clouds and harps in the sky, and heaven as a place of fire and pitchforks in the underworld, and we are emerging into the Higher Understanding that the Creator of the Universe is inviting us, moment by moment, to Co-Create and Become; that the Ultimate Reality, the Supreme Architect, the Creator, the Sustainer, the Upholder, the Great Spirit, the Supreme Being by All of Its Names, is Good; and is wooing us across the millennia and inviting us in the here and now to add our individual and collective energy of thought, action, being and consciousness into the Universal Plan to reunite Heaven and Earth. 
+
+We are free to choose whether we get there through Armageddon, Tribulation, and War, or whether we get there through Love, Justice, and Unity that overcomes Evil with Good. 
+
+The Good News is that God loves us All, and the inexorable arc will end with the reign of Love, Justice, Peace, Prosperity and Harmony, on Earth as it is in Heaven. 
+
+Individually and collectively, we are becoming, and the world around us in a reflection of Who We Are. 
+
+When we are cynical, isolated, fearful, greedy, closed, hard, fractured beings, cut off from One Another and Nature, and allowing empires and oligarchs to ravish and exploit the beautiful people, plans, animals, and minerals of the Earth, we will reap a literal Hell on Earth. 
+
+When we Realize that the collective Thought and Prayer energy of billions of people is capable of moving any mountain; when we recognize the natural and spiritual laws; when we rise up above our current circumstances and say to nation and empire Thou Shalt Not Steal, Thou Shalt Not Kill, Thou Shalt Not Exploit, Thou Shalt Not Oppress; when we usher in the year of Jubilee; when we restore the Rights of oppressed and afflicted; when we look upon the immigrants and indigenous peoples and the elderly and the children and the women and the poor and every vulnerable group with immense compassion and fight for their welfare and equality and liberation and flourishing; then will a New Day rise like a brilliant New Dawn.   
+___
+We are transcending our elementary understanding of religion. 
+
+We are transcending our elementary understanding of nations. 
+
+We are subverting the failing Old World Order that sets its self up in opposition to God, Nature, and the Vulnerable. 
+
+We are organizing, in Power, a shift of the Thought, Prayer, and Action energies of the world, individually and collectively, into creative and regenerative harmony with God, Nature, and One Another. 
+
+___
+A radical and subversive movement to transcend the broken institutions of nation and religion, in favor of the Unity of humanity, God, and Nature in true spiritual understanding of the sacred harmony of All things flowing from the One, and the immutable spiritual and natural laws that sustain, permeate, and uphold all life. 
+
+The most conservative thing you could possibly do, because it is returning to the ancient wisdom revealed over millennia, and our most Trusted prophets, spiritual, and scientific leaders from around the world. , who give us the same advice, that we ignore at our peril. 
+___
+We are One. I am member of every religion that seeks the One True Creator, God. I am a member of every nation, every tribe, and every people. I am a member of the Supreme Whole that upholds and sustains the life and breath of every living being. So are you. 
+
+In the end state, we are One Family and Body of God, indivisible, seeking Liberty and Justice for All. 
+___
+Redefining terms. 
+
+Relative - one we are related to. Who is our relative? We are related to all things, therefore all things are our relatives. 
+
+Tribes and clans who watched out for elements of creation, the wolf, the lion, the hyena, the water, the sky, for as it goes with any aspect of Creation, so it will go with us. 
+____
+Humanity has collapsed 2/3 of insect and animal populations. What does humanity expect will happen to it? Does it expect it can destroy 2/3 of the substructure of its existence, without destroying 2/3 of its Self? 
+___
+There was deep Wisdom in the ancient practices; in the ceremonies and rituals that reminded us, kept our Culture and Values intact, and brought our children and grandchildren up in the Way. 
+___
+Remember, reconcile, align, and teach the basic festivals of humanity. 
+___
+Rediscover the most important cultural elements of each group, and receive permission from the elders to practice and raise awareness. 
+___
+A Community of Communities working together to design and build a Better World. A System, a Philosophy, and a Way of Life. 
+___
+Because this concept is in direct opposition to the oligarchs, politicians, shareholders, and religious leaders presently dominating and controlling our lives and our world, I am setting our a fairly complete plan, in detail, to show how a New System based on eternal Wisdom, Principles and Values can be translated into Reality, transforming the Earth within a single generation. 
+
+Should the powers that be destroy me, I pray that some brave souls will discover and carry forward the lifetimes of work coalesced into this historic project. 
+___
+Because time is short, and because the full development of the New World will be a Meta Project carried on by billions of people transforming their own lives and world, we will begin by laying out a basic Roadmap, through which we can operationalize this New System and Philosophy into Reality, transforming, regenerating, and restoring the world within a single generation. 
+
+The System... is basically about becoming the kinds of people we need to be in order to manifest the type of world we want for our Selves and Future Generations. It is about planting the seeds that will grow into the type of fruit we want our grandchildren's grandchildren to harvest. 
+
+It is essentially a project to shift human Consciousness and Culture - transforming the Way we do things around here as a human species on planet Earth. 
+
+This involves education and shifting consciousness, which can only be achieved through a systematic program of human, organizational, and community transformation. 
+
+(left off mid way through note) 
+
 _____
 Therefore, we are going to execute on the [[New Vision and Plan]]. 
 

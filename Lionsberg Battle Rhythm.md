@@ -30,7 +30,6 @@ Group Work will be integrated and aligned through the [[Lionsberg Integrated Del
 
 ## Communications Rhythms and Functions 
 
-Monthly: [[The Lionsberg Gazette]] 
 Monthly: [[The Stories of Lionsberg]]  
 
 Weekly: [[Requests For Guidance]]  Or Bi-Weekly... 

@@ -1,4 +1,4 @@
-# Above The Chaos by Jordan Nicholas
+# Above The Chaos 
 
 Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder & Co-Creator of Lionsberg.
 
@@ -13,6 +13,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## October 2023
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+- [[Above The Chaos, Phase 2 Resourcing Proposal]]  
 
 ## September 2023  
 

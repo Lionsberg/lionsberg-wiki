@@ -134,3 +134,9 @@
 #### 39. Policy and Advocacy Tools 
 
 
+### Notes 
+- Outreach and Engagement Guide 
+- Individual Transformation Handbook 
+- Group Transformation Handbook  
+- Community / Bioregion Transformation Handbook 
+- National and Global Transformation Framework

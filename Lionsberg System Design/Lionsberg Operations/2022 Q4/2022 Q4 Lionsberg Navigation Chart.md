@@ -14,7 +14,7 @@
 
 **Goal**: [[The Goal]] - The total integrated wellbeing, development, and right relationship of all generations of life and consciousness. 
 
-**Mission**: [[Core Mission]] - To Progressively Realize [[The Goal]] by designing and building the best possible Future for All. 
+**Mission**: [[Lionsberg Mission]] - To Progressively Realize [[The Goal]] by designing and building the best possible Future for All. 
 
 **Method**: Continuously improving a **platform and global community** that empowers **sovereign individuals, organizations and communities** to help one another develop towards the fullness of their potential and flourish in harmony. 
 
@@ -45,6 +45,6 @@ The critical path is a tipping point strategy rooted in a change of paradigm, th
 
 1. **Movement Building**: Speak, Broadcast, Inspire 
 2. **Onboard**: Identify and Onboard 100+ small groups   
-3. **Communication**: Establish the basic [[Lionsberg System of Communication]] and [[Lionsberg Super Mind]]   
+3. **Communication**: Establish the basic [[Lionsberg Communications System]] and [[Lionsberg Super Mind]]   
 4. **Funding**: Raise $5M+ in bridge funding via philanthropic donations 
 5. **Continuous Improvement**: Make the Quality of the Community, System, Platform and Experience A Little Better Every Day. 

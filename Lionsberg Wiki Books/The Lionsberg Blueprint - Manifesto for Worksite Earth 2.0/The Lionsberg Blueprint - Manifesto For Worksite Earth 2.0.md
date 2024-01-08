@@ -170,7 +170,8 @@ ___
 
 ## Appendices
 
+- Outreach and Engagement Guide 
 - The Lionsberg System Toolkit 
 - The Lionsberg Lexicon: Glossary of Key Terminology
-- FAQs
-
+- FAQs and Myth-Busting 
+- Impact Assessments, Progress Reporting, and Continuous Improvement 
