@@ -11,6 +11,8 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## Featured Posts
 
 ## January 2024
+
+- [[Above The Chaos, Jordan's January 2024 Manifesto]]  
 - [[Above The Chaos, What I Really Think]]  
 
 ## October 2023
