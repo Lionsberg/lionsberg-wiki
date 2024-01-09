@@ -22,8 +22,6 @@ The Lionsberg Strategy and Plan is a response to this urgency, a [[Roadmap]] to 
 
 We must act now, for the stakes have never been higher, and the consequences of inaction have never been more dire. Together, we can create a world that is worthy of our aspirations, our potential, and our shared humanity.
 
-Now is the time to commit ourselves to the work of transforming our lives and our world. Let us seize this moment, and let us rise to the challenge of our time with courage, determination, and unwavering resolve. For in unity, there is strength, and in action, there is hope. 
-
 ### II. The Great Game of Lionsberg
 
 #### A. Gamification as a Tool for Transformation

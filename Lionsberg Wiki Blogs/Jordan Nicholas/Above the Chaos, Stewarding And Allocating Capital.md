@@ -111,7 +111,7 @@ They actually destory and inhibit the Value from being created. They get in the 
 They get in the way and prohibit [[Throughput]] of [[The Goal]]. 
 
 ## Stewardship of Capital, Resources, and Attention 
-Every [[Participant]] in the [[Human System]] has been entrusted as a Steward over some level of capital, resources, and attention, however small. 
+Every [[Participants|Participant]] in the [[Human System]] has been entrusted as a Steward over some level of capital, resources, and attention, however small. 
 
 Stewardship implies careful and responsible management of something that has been entrusted to us, that does not belong to us. 
 

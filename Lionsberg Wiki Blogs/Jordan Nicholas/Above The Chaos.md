@@ -10,10 +10,12 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## Featured Posts
 
+## January 2024
+- [[Above The Chaos, What I Really Think]]  
+
 ## October 2023
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
-- [[Above The Chaos, Phase 2 Resourcing Proposal]]  
 
 ## September 2023  
 

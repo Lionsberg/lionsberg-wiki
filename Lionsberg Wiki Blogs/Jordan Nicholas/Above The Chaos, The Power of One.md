@@ -11,7 +11,7 @@ Let me explain.
 
 Despite having a profound Spiritual experience and calling from waking moments of consciousness, I have also plunged myself into years of unconscious engagement in a broken society and economy, and lost the true experiential intimacy with the Ultimate Reality of [[What Matters]] most. 
 
-These periods have inevitably led to foolish decisons from lower places of consciousness, relationship damage from the "smallness" of Being I was manifesting, and unnecessary confusion, strain, and suffering in my Life and Relationships. 
+These periods have inevitably led to foolish decisions from lower places of consciousness, relationship damage from the "smallness" of Being I was manifesting, and unnecessary confusion, strain, and suffering in my Life and Relationships. 
 
 Sometimes these holes can feel profoundly lonely. Lost. Mired in Chaos of our own creation. Suffering because of our own failures and inadequacies. Separated from the depths of purpose and meaning. Battling hopelessness. Unsure how we can Forgive or Be Forgiven as a result of the damage that has been done. 
 
@@ -21,7 +21,7 @@ As our lives and our world have been shaken the last couple years, I find myself
 
 If it would be useful for anyone, I will make myself available over the coming 6 weeks for an experiment. 
 
-During the experiement, I will do my best to share with you a [[Way]] in which, using just **One Hour a Day**, one can ascend up out of the depths of the underworld, rise above the Chaos, and rediscover the fullness of meaning, purpose, and connection. 
+During the experiment, I will do my best to share with you a [[Way]] in which, using just **One Hour a Day**, one can ascend up out of the depths of the underworld, rise above the Chaos, and rediscover the fullness of meaning, purpose, and connection. 
 
 My commitment to you is as follows: 
 
@@ -41,7 +41,7 @@ Our commitment to each other:
 
 My time: I offer up my Life as a free gift that you can engage with if it is helpful and meaningful. 
 
-Value Reciprocity: Each [[Participant]] will contribute an amount weekly to a [[Power of One Fund]] hosted by the Lionsberg 501(c)(3) public charity. The amount of the contribution should reflect the value of the experience / experiment to you, and your desire to see it expanded to serve others. 
+Value Reciprocity: [[Participants]] will contribute weekly to fund hosted by the Lionsberg 501(c)(3) public charity. The amount of the contribution should reflect the value of the experience / experiment to you, and your desire to see it expanded to serve others. 
 
 If, after the 6 week experiment, we decide to expand it, the accumulated resources will be transparently used to improve or expand the Program in accordance with a strategic plan we will develop together. 
 
