@@ -12,9 +12,12 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## January 2024
 
-- [[Above The Chaos, Jordan's January 2024 Manifesto]]  
-- [[Above The Chaos, What I Really Think]]  
-- [[Above The Chaos, Grunch of Giants]]  
+- [[Above The Chaos, Jordan's January 2024 Manifesto]]   
+- [[Above The Chaos, What I Really Think]]   
+- [Fireside Chat 1 - The State of Our World](https://youtu.be/UFLKfZlGi08?si=ataOdvzSScwB_ate)  
+- [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)  
+- [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)  
+- [[Above The Chaos, Grunch of Giants]]   
 
 ## October 2023
 
@@ -82,7 +85,6 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 - [[Above The Chaos, Materiality]]  
 - [[Above The Chaos, Data, Information, Knowledge, Wisdom]]  
 - [[Above The Chaos, Intelligibility]]  
-- [[Above The Chaos, One Potential Pathway]]  
 - [[Above The Chaos, An Invitation]]  
 - [[Above The Chaos, A Note To The First 50]] 
 
