@@ -2,7 +2,7 @@
 
 By [[Jordan Nicholas]], 2024.01.01 _(updated 2024.01.01)_
 
-A post in [[Above The Chaos]].
+A post in [[Above The Chaos]]
 
 At times when we ostracize and cancel One Another for speaking what we believe to be True... it is especially crucial that we speak what we believe to be True.  
 

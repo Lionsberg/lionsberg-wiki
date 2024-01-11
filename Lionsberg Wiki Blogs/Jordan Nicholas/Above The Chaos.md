@@ -14,6 +14,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]  
 - [[Above The Chaos, What I Really Think]]  
+- [[Above The Chaos, Grunch of Giants]]  
 
 ## October 2023
 

@@ -1,35 +1,50 @@
 # Above The Chaos, Jordan's January 2024 Manifesto
 
-By [[Jordan Nicholas]], 2024.01.08 _(updated 2024.01.08)_
+By [[Jordan Nicholas]], 2024.01.08 _(updated 2024.01.10)_
 
-A post in [[Above The Chaos]].
+A post in [[Above The Chaos]]
 
-Greetings One and All, 
+Greetings loved ones and allies, 
 
-As we look ahead into 2024 and beyond, it is evident that we stand at a historic crossroads. 
+As another year in the epic story of the human species aboard planet Earth slips into history, it is more evident than ever that despite our best efforts and progress to date, what got us here will not carry us forward to the Better Future we all desire. 
 
-Until a few years ago, it was still possible to argue that humanity was making progress, that our world was as safe, as strong, and as free as it had ever been, and that if we simply kept at it, a brighter future would emerge. Over the last years, deep cracks in the foundations of our existing order have increasingly been revealed. Cultural degradation, a loss of shared vision and values, debt, overspending, inflation, internal conflict and division, external conflict and war, scientific and technological revolution, ideological possession, environmental degradation, mass migration, deep systematic corruption and injustice, and the polar forces of chaos and tyranny all reveal a society divided against itself that cannot stand, and is rapidly failing. 
+My current best understanding is that there is an 80% to 90% plus probability that the current order is on the brink of a disorderly collapse. Our house divided against itself will not stand. 
 
-From where we are today, it is evident that what got us here will not carry us forward to the Future we all desire. We can all see that we are headed in the wrong direction, and that the end of our current trajectory is a world that none of us desires our loved ones to inhabit.
+The solution is to forthrightly arise, unite, wage the battle for the future of our civilization, and establish the Kingdom of God on Earth as it is in Heaven. 
 
-However there is cause for immense hope, because we are the co-creators of our reality. The good news is that because we, the human species, are causing these issues, We have the power to fix them in partnership with God and One Another. With the suffering or flourishing of generations to come hanging in the balance, it is time to awaken, arise, unite, rediscover and reveal who we are, and alter the trajectory of our lives and society. Before it is too late. 
+This involves assembling an unprecedented global Force For Good to  vanquish corruption and injustice, solve the grand challenges, accomplish the global goals, and forge the Best Possible Future for All. 
 
-None of us can accomplish this in isolation. I am done dancing around the issues. I am done being thwarted by fears and governance. I am seeking allies. Passionate comrades in arms who want what I want and believe what I believe. Warriors. Intercessors. Designers. Builders. Stewards. Merchants. Artisans. Creators. Guides. Bridge Builders. Healers. Artists. Teachers. Elders. Mothers. Fathers. Children. Servants. Leaders. It is time to build a community, an army, a global Force For Good, to wage war for the future of our civilization and live out an epic adventure with God and One Another. Who is prepared to awaken and truly live?
+Over the last 7 years, we have laid the groundwork and built the systems and technology to enable such an unprecedented Citizen Led response. We are now assembling a perpetual community for this definite purpose. 
 
-Rediscovering our true identities, fixing our eyes on the Vision and Goal, perfecting our strategies and plans, forging the culture and code, aligning our actions, and venturing together into the Unknown, it is possible for us, in partnership with God and One Another, to design-build a Future that is better in every way than the past we are leaving behind. I and my tribe are here on Earth to embody and enact the Mission of Christ, to vanquish corruption and injustice, and to establish the Kingdom of God on Earth as it is in Heaven. We are assembling a perpetual Community and Force For Good for this definite purpose. 
+To start the year, I spent some time alone in the mountains in dialogue with God and recorded three fireside chats that cover: 
 
-If you are one of us, visit [www.JordanNicholas.org](http://www.jordannicholas.org/) and click Join The Movement. Your opening tithe / donation helps establish public support for the mission and adds you to the emerging community. 
+1. The State of Our World - [Fireside Chat 1 - The State of Our World](https://youtu.be/UFLKfZlGi08?si=ataOdvzSScwB_ate)
+2. The Probability of Collapse - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)
+3. A Positive Vision, Strategy and Plan to forge the Best Possible Future - [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)
 
-In January, we will be assessing interest and resources. Once we know what people and resources we have to work with, we will design the next steps and begin the next stages of the adventure February 1st. 
+Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[Lionsberg Wiki Books]] and the [[Lionsberg Manifesto]]. 
 
-#### P.S. ...On The US Presidency 
+The only Way to advance from here is to forge, out of the many amazing individuals in the network, a higher order functional unity actually powerful enough to meet the needs and solve the challenges at hand. Our audacious goal is to connect, equip and empower 3% of the population, ~240 million leaders, by 2026. We can't do it alone. 
 
-If you are wondering about the US Presidency in 2024, as we have said from the outset it is not possible to reclaim our democracy by “running for President” in our presently corrupt, deceitful and failing system. Any such effort is dead on arrival. However it is possible for the wise critical mass of a tribe or nation to arise, unite and sweep a transformative [[New Vision and Plan]] into being. I am not campaigning for the US Presidency. I am campaigning for the Kingdom of God. Because I believe that life or death for hundreds of millions or billions of people depends upon the existing systems not collapsing into chaos or rising into totalitarian order, I will continue advocating for a constitutional amendment in the United States that would shrink the federal government by at least 80%, decentralize and redistribute power and authority back to states and localities, and make the US among the first nations to join the emergent Lionsberg Federation. If the people of the United States decide this plan is superior to the current trajectory, I am willing to serve as chief executive to implement the plan. We can accomplish this by [[Citizen Led]] organizing in each state, and a coordinated write-in campaign with front and back end blockchain-based audits on the corrupt electoral system. If God and We The People will it to be, it is entirely socially and mathematically possible to accomplish this. But we must move Now. 
+As for me and my tribe, we are sacrificing everything and acting as if the suffering or flourishing for generations to come were at stake. 
 
-Because the Mission of the Kingdom involves the total realignment of power and authority on Earth, realigning the world’s existing center of power and gaining access to our common storehouse of resources and capabilities laid up in the United States would be a substantial boon and accelerant to the Mission. Additionally, it is likely that the spiritual war will continue to spill over into the physical world, and We The People will need substantial military and logistical capabilities which at present exist only in sufficiently organized quantities in the United States. 
+If you are one of Us, visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  A donation of any amount will ensure that you are connected to the emerging community, and help accomplish the crucial next milestone of establishing public support for the mission.  
 
-Even, or especially, if Americans decide to forgo the final opportunity to reset the American experiment before it ceases to exist, our efforts to co-create a perpetual global Community whose definite purpose is the Kingdom of God will be of immense value as we work together to navigate the collapse of the existing order and establish the Kingdom out of its ashes. 
+We will send out an update on next steps by early February based on the individuals and resources who assemble in January. 
 
-I believe it would be incredibly foolish to allow the American Order to undergo a disorderly collapse, and that a voluntary and consciously designed transcendence into an intentionally designed Future is a far superior and less risky strategy. However it is up to We The People to decide whether it is time to forge a More Perfect Union. Those of us who desire to do so can immediately begin to do so, regardless of the outcome for any specific tribe or nation.
+It is all on the line. You are here for a reason. The world needs you. 
 
-If you are with us, [Join The Movement](https://jordannicholas.org/join_the_movement).  
+Onward in Faith, Hope, and Love, 
+
+~ J 
+
+##### P.S. On the 2024 United States Presidential Election 
+
+If you are wondering about the US Presidency in 2024, as we have said from the outset it is not possible to reclaim our democracy by “running for President” in our presently corrupt, deceitful and failing system. Any such effort is dead on arrival. However it is possible for the wise center two thirds of a tribe or nation to arise, unite and sweep a transformative [[New Vision and Plan]] into being. I am not campaigning for the US Presidency. I am campaigning for the Kingdom of God. Because I believe that life or death for hundreds of millions or billions of people depends upon the existing systems not collapsing into chaos or rising into totalitarian order, I will continue advocating for a constitutional amendment in the United States that would reset the American Experiment, shrink the federal government by at least 80%, decentralize and redistribute power and authority back to states and localities, and make the US among the first nations to join the emergent Lionsberg Federation. If the people of the United States decide this plan is superior to status quo, I am willing to serve as chief executive to implement the plan. We can accomplish this by Citizen Led organizing in each state, and a coordinated write-in campaign with front and back end block chain audits on the apparently corrupt electoral system. I recognize this rate of adoption would be unprecedented in US or human history. However if God and We The People will it to be, it is entirely socially and mathematically possible. Because the Mission of the Kingdom involves the total realignment of power and authority on Earth, realigning the world’s existing center of power and gaining access to our common storehouse of resources and capabilities laid up in the United States government would be a substantial boon and accelerant to the Mission. Additionally, it is likely that the spiritual war will continue to spill over into the physical world, and We The People will need substantial military and logistical capabilities which at present exist only in sufficiently organized quantities in the United States. 
+
+In the event Americans decide to forgo the final opportunity to reset the American experiment before it ceases to exist, our efforts to co-create a perpetual global Community whose definite purpose is the Kingdom of God will be of immense value as we work together to navigate the collapse of the existing order and establish the Kingdom out of its ashes. The creation of a coordinated, millions-strong Force For Good grows even more important to survival and success if Americans do not wake up and act before the existing system collapses or is further co-opted. 
+
+It would be incredibly foolish to allow the American Order to undergo a disorderly collapse. A voluntary and consciously designed transcendence into an intentionally designed Future is a far superior and less risky strategy. However it is up to We The People to decide whether it is time to forge a More Perfect Union. Those of us who desire to do so can immediately find One Another and begin regardless of the outcome for any specific tribe or nation. 
+
+Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).
+
