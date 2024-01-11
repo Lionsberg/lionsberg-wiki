@@ -6,7 +6,7 @@ A post in [[Above The Chaos]].
 
 *This is a work in progress, intended to provide the conceptual outlines of a book that will eventually write itself.*
 
-**Bottom line up front**: Everything is one interexistent Living System. Humanity, imbued with creative consciousness and the Spirit of God, has a duty and responsibility to co-create in partnership with God and One Another. All existence should be explored through the lens of interexistence and co-creation as individuated aspects of One Living System arising from, animated by, and existing in One Source and Sustainer of All. This understanding of interexistence and ultimate unity is crucial to consciously reintegrating and realigning the Human System within the Living System that contains and sustains it. 
+**Bottom line up front**: Everything is one interexistent Living System. Humanity, imbued with creative consciousness and the Spirit of God, has a duty and responsibility to co-create in partnership with God and One Another. All existence should be explored through the lens of interexistence and co-creation as individuated aspects of One Living System arising from, animated by, and existing in One Source and Sustainer of All. This view requires reintegrating the spiritual and scientific domains by developing a unified theory of existence. This understanding of interexistence and ultimate unity arising from One Creatively Conscious Source is crucial to consciously reintegrating and realigning the Human System with the Living System that contains and sustains it. 
 
 ## 1. Why A Theory of Everything
 
