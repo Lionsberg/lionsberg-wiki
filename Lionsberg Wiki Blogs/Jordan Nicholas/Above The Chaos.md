@@ -10,6 +10,8 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## Featured Posts
 
+- [[Above The Chaos, Jordan's January 2024 Manifesto]]  
+
 ## January 2024
 
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]   
@@ -17,6 +19,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [Fireside Chat 1 - The State of Our World](https://youtu.be/UFLKfZlGi08?si=ataOdvzSScwB_ate)  
 - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)  
 - [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)  
+- [[Above The Chaos, The Lionsberg Theory of Everything]]  
 - [[Above The Chaos, Grunch of Giants]]   
 
 ## October 2023
