@@ -1,3 +1,0 @@
-# FAQ - Where Have The Resources Come From To Get To Where We Are?
-
-The resources required to get to the starting point of the 7 year plan in January 2023 were generated through the personal contributions of the founder of Lionsberg, Jordan Nicholas Sukut. This ensures that the system is not beholden to any external financial or special interests, allowing it to operate independently and solely in service to the shared goals and values of One and All.

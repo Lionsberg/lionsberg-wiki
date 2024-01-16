@@ -1,3 +1,0 @@
-# Free
-
-See [[Freedom]]  

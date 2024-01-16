@@ -1,3 +1,0 @@
-# Sovereign
-
-See [[Sovereignty]] 

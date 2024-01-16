@@ -1,3 +1,0 @@
-# Complexity
-
-See [[Complex]]

@@ -1,1 +1,0 @@
-# Recognize Potential Value

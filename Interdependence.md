@@ -1,3 +1,0 @@
-# Interdependence
-
-The value of interdependence represents the idea that we are all connected and dependent on one another for our wellbeing and success. It emphasizes the importance of collaboration and mutual support within communities, and recognizes that we are all part of a larger whole. In the Lionsberg System, this value promotes the idea of working together towards common goals, and recognizes that the well-being of the individual is inextricably linked to the well-being of the community.

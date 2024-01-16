@@ -1,3 +1,0 @@
-# Lionsberg Lexicon
-
-Coming soon..

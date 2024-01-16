@@ -1,5 +1,0 @@
-# Meta Value
-
-The word **Meta** as it is used in the [[Lionsberg System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent conception of an idea. 
-
-In the [[Lionsberg System]], the Meta Value that contains and unites all other values within itself is [[One]] / [[Creator]] / [[God]]. 

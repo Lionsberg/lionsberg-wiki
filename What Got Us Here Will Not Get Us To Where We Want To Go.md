@@ -1,3 +1,0 @@
-# What Got Us Here Will Not Get Us To Where We Want To Go
-
-[[What Got Us Here Will Not Get Us To Where We Want To Go]] is a powerful statement that captures the essence of the need for change and transformation in order to address the complex challenges we are facing, and get to [[Where We Are Going]]. This concept highlights the fact that the methods, mindsets, patterns, and systems that have contributed to the current problems cannot be relied upon to solve them. Instead, new ways of thinking, innovative approaches, and a shift in mindset and approach is required to overcome these challenges and create a better future..  

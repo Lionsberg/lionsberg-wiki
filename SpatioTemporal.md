@@ -1,3 +1,0 @@
-# SpatioTemporal
-
-Belonging to [[Spacetime]]

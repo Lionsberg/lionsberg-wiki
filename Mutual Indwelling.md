@@ -1,5 +1,0 @@
-# Mutual Indwelling
-
-The notion of Mutual Indwelling captures the mystical union where human individuals are not only vessels for the Divine presence, but are also enveloped by It and exist within It. Just as we live, move, and have our being in God, so too does the Spirit of God indwell us. Our existence in God, and the existence of the Spirit of God within us, is an invitation to become co-participants in the ongoing process of creation and transformation. 
-
-This ontological relational dynamic serves as a conduit for the transference of Divine Wisdom, Love, Justice, Spirit, and Intention, urging humanity towards a state of complete spiritual and moral alignment with  Ultimate Reality. Through this mutual indwelling, individuals find their truest Selves actualized as they become Co-Creators in the establishment of a Just and Harmonious Divine Order order that echoes the eternal Wisdom, Principles, and Values flowing from the Source of Being.

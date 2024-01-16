@@ -1,2 +1,0 @@
-# Pattern of Death
-

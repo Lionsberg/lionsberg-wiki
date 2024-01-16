@@ -1,5 +1,0 @@
-# One Citizenship, Under God, Indivisible, with Liberty and Justice For All
-
-"One Citizenship, Under God, Indivisible, with Liberty and Justice For All" is a phrase that encapsulates the ideal of unity, justice, and and freedom in a diverse society. It suggests that despite differences in race, religion, culture, and background, all individuals inherently share in a just distribution of rights, responsibilities, opportunities, and protection under the both human law and natural law. This concept emphasizes the importance of a unified society that upholds shared principles and values, ensuring that no one is left behind or marginalized, and that all members of society have the opportunity to develop towards the fullness of their unique potential and flourish in harmony. 
-
-This phrase is an unofficial motto of Lionsberg. 

@@ -1,135 +1,0 @@
-00:28:16	Killu Sanborn:	The Singing Revolution https://www.amazon.com/Singing-Revolution-Estonian-Chorus/dp/B003PH3RY6
-00:31:15	Killu Sanborn:	https://www.youtube.com/watch?v=hytsXhfzCzY our seminar in Estonia
-00:33:59	Pete Kaminski:	[Green Turn \- Accelerate Estonia](https://accelerateestonia.ee/green-turn/)
-00:35:07	Pete Kaminski:	"AIRE – AI & Robotics Estonia"
-https://aire-edih.eu/en/
-00:35:20	Killu Sanborn:	Pete!!! Thank you!
-00:35:27	Pete Kaminski:	:-)
-00:48:32	Killu Sanborn:	Egge from Estonia was adviser to prime minister on population and social matters, maybe would be useful to engage at some point?
-00:48:56	Killu Sanborn:	(She helped us with events and connections especially on the art, culture side)
-00:49:52	Wendy McLean, NY:	+1 Judy!
-00:50:17	Phil Stien:	Dendritic: having a branched form resembling a tree
-00:51:09	Pete Kaminski:	also compare: "Nerve cells (neurons) have extensive processes called dendrites. These occupy a large surface area of a neuron. They receive many signals from other neurons and contain specialized proteins that receive, process, and transfer these to the cell body."
-00:51:39	Jason Schulist:	need to balance program management with complex adaptive systems management
-00:51:52	Wendy McLean, NY:	+1 Jason
-00:52:14	Wendy McLean, NY:	Thank you Pete!
-00:53:47	Wendy Elford:	Yes - ++ Jason
-00:57:19	Killu Sanborn:	Complex systems notions kept coming up in Estonia as well, including at TalTech where we had our seminar and where I spent more time later in the week.
-00:57:32	Killu Sanborn:	And in context of working well together
-00:57:52	Judith Benham:	I’ve some questions about pace of quarterly meetings in the context of rapidly changing situations, numbers of people, broadening issues, etc. Can there be some other processes to assist?
-00:58:18	Forrist Lytehaause:	+1 Wendy E
-00:58:36	Pete Kaminski:	https://en.wikipedia.org/wiki/Cynefin_framework - differentiating clear, complicated, complex, chaotic, and confusion
-00:59:09	Jason Schulist:	+1 Wendy E - cynefin is a great framework to understand
-00:59:22	Killu Sanborn:	+1 WE
-00:59:53	Forrist Lytehaause:	https://en.wikipedia.org/wiki/Cynefin_framework
-01:04:11	Killu Sanborn:	Good point Pete to not rush to define what we are not ready to define yet even as it is a question for me, too, that keeps coming up to grapple with - what is Meta Project exactly?
-01:05:10	Wendy Elford:	Learn by doing in smaller projects
-01:05:24	Wendy Elford:	... and have a way to track what is going on
-01:05:50	Killu Sanborn:	"Overbuilding because we don't know what we need" ...
-01:06:10	Killu Sanborn:	Keep it simple - directory of projects and people
-01:06:12	Wendy Elford:	Can we invite Jason to say what, for example, what his project needs as an exercise in serving a project
-01:07:44	Killu Sanborn:	Spending time together that humans need and like and enjoy - hanging out to learn about each other, have fun; and finding a task that needs more than a pair of hands, to work together on, confronting challenges together
-01:08:58	Michael Grossman (Factr):	Let’s distinguish more clearly, too, between Lionsberg, which has some existing structure; and The Metaproject, which we here (and many, many others) trying to recognize, be part of, and contribute to—both through Lionsberg and completely independent of it.
-01:09:18	Wendy McLean, NY:	+1 Michael
-01:09:53	Wendy Elford:	also helps reinforce our deeper understanding of culture and timezones and our personal strengths and interests
-01:10:03	Killu Sanborn:	[We haven't spent that much time together, feeling like we haven't been productive good to take in that context] really resonates
-01:10:04	Wendy Elford:	... our contexts
-01:11:34	Wendy Elford:	We have fallen into a maximum group size - eg 16 people - there is a rhythm and pattern already
-01:11:48	Wendy Elford:	Safe to fail experiments
-01:12:15	Jason Schulist:	+1 Wendy E - small safe to fail experiments...
-01:15:20	Wendy Elford:	Stories and narrative as feedback loop - what is going on here?
-01:15:42	Jason Schulist:	Chaos Theory - Finding the Attractors that structure can be built around...
-01:15:50	Forrist Lytehaause:	+1 Wendy M
-01:16:26	Pete Kaminski:	@Wendy E, @Jason, i'd like to pick up "safe to fail experiments" again someday. i don't disagree, but i think of it a little differently, and would like to discuss (some day).
-01:16:34	Killu Sanborn:	How to create feedback loops is key also in my experience, as it impacts energy and how we work with it. If we are to become ever more skilled at engaging with each other and reality in active present productive ways, we need loops to cycle not ends to drop. But I don't know how to do this - have been thinking of it - yet it is likely very much solvable between us by agreement and decision.
-01:17:49	Pete Kaminski:	i'm going to say we don't have the structure yet for implementing feedback *loops*, because we haven't been setting small achievable goals (in a project plan / project proposal).  feedback needs to be in relationship to a goal.
-01:19:08	Killu Sanborn:	TY Pete. Also feedback loops between ideas and energies shared between people, as energy is held, cycled and increased in these loops as they go between people. And then poured into projects, creating more concrete feedback loops based on project results.
-01:19:31	Pete Kaminski:	+1 Killu :-)
-01:22:09	Wendy McLean, NY:	+1 Killu & Pete!
-01:23:46	Pete Kaminski:	as an aside, we have various information systems to hold directories and profiles, etc. they may be good enough, they may not, we'll see.  but the blocker right now is that we haven't decided yet as a group to *use* them. that's what we'd have to work on next, if we want them to be used.
-01:24:28	Wendy McLean, NY:	+1 Pete, and a group of people to be the “deciders”, because right now, who's accountable for that decision?
-01:25:11	Killu Sanborn:	+1 Forrist on healthy ecosystem notion, modeling after that
-01:25:24	Michael Grossman (Factr):	Our experiment might be simply describing both the metaproject and our relationship(S) to it. What are the roles of Lionsberg, PlatetaryCare, OpenImpact, Massive Wiki, WINfinity, Catalist, FutureCapital, The UN, etc….? Not to mention other entities that unkown to us, but contributing already.
-01:25:40	Killu Sanborn:	+1 MG sounds very doable
-01:28:57	Pete Kaminski:	@Michael, I like the general idea, but it seems too meta and not "productive" enough.  Maybe I'm wrong (maybe I'm not), but a way to think through the question is thinking through, "who is the customer for those descriptions?" and "if they have those descriptions, how is their world better for it?"
-01:28:57	Forrist Lytehaause:	+1 MG
-01:29:32	Wendy McLean, NY:	+1 MG!!!!
-01:30:52	Killu Sanborn:	Super cool Jason!!!
-01:32:09	Pete Kaminski:	listening but walking around the house, it's time to open some windows
-01:34:20	Michael Grossman (Factr):	Agree @Pete that it shouldn’t be “meta”
-01:34:36	Michael Grossman (Factr):	I’m imagining that we be very practical.
-01:35:02	Michael Grossman (Factr):	1. “This is a description of the movement we see ourselves as part of”
-01:35:09	Michael Grossman (Factr):	2. “this are some entities that have signed on, and here is what they do in service to that movement”
-01:35:40	Pete Kaminski:	+1 for practical. would like to talk more through goals and who needs it.
-01:39:02	Wendy Elford:	Thanks Pete - would want specific questions to approach the data from - not just look for interesting things
-01:39:24	Wendy Elford:	What is going on here meets who needs what
-01:42:03	Michael Grossman (Factr):	The customers for “1” (the movement) are orgs and individuals who see themselves as part of it. A generalized “are we on the same page?”
-01:42:14	Michael Grossman (Factr):	The customers for “2” (the participating entities) are individuals who might be more likely to participate in the specific actions of sovereigns when they know that those sovereigns are part of the larger movement.
-01:44:46	Pete Kaminski:	Thank you, Michael!  I feel like the "1" customers gets too meta, and the "2" customers we're not mature enough for.  I am currently uncertain that we can do anything productive together, and personally, i would pick 1-2 projects that we all do together that are *not* self-reflective, but rather, productive and of a help to someone other than ourselves.
-01:45:46	Wendy Elford:	Can we ask you, Jason, to give us a full presentation of what your project is faced with?
-01:46:27	Wendy Elford:	Can anyone share some resources on the M model please
-01:46:48	Pete Kaminski:	what M model, Wendy E?
-01:46:59	Wendy Elford:	MOndragon?
-01:47:16	Pete Kaminski:	https://en.wikipedia.org/wiki/Mondragon_Corporation
-01:47:57	Pete Kaminski:	it's a primary example of a  few examples in the world of coops at scale
-01:48:14	Jason Schulist:	I can definitely give an overview of the generative local community model
-01:48:26	Wendy Elford:	.... Telling a story1
-01:49:51	Jason Schulist:	and I also can share the model for the community of the Fox Cities for addressing well being (different than the generative local community model).  Both are relevant to this work, I think
-01:50:04	Pete Kaminski:	https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op  https://medium.com/fifty-by-fifty/mondragon-through-a-critical-lens-b29de8c6049
-01:50:16	Wendy Elford:	Everywhere - change works at regional city / community level
-01:50:18	Wendy McLean, NY:	Thank you Michael!  I really like what you've put.  I dropped it on a Miro here, alongside some ideas I've had around how Meta could structure itself.  This is my latest thinking…. anyone can comment.  https://miro.com/app/board/uXjVOuxqpFM=/?share_link_id=731920237744
-01:51:01	Pete Kaminski:	from Bill L: "Civil law is the balancing of competing social values."
-01:53:16	Wendy Elford:	There are specific needs that I recognise for specific people in our group right here.
-01:53:17	Killu Sanborn:	Bill, thank you - you move my heart with what you say, how you say it, where you come from and what you offer. I'd love to join and learn more from you.
-01:53:50	Phil Stien:	Aaand I'm recharged.. thanks Bill and everyone!
-01:54:08	Judith Benham:	Might be helpful to talk about the dynamics and specifics of change.  Type, process, goal(s), measurement, results /measure, learnings, what worked &N why, challenges/mistakes, etc.If we could template this in some way wed be better able to determine next steps.
-01:55:14	Wendy Elford:	Honoured to have the support (specific) for challenges of today / now for me just as a fellow human - Judy in particular and Pete and Jonathan
-01:56:06	Jordan Nicholas Sukut:	Forr
-01:57:26	Pete Kaminski:	https://cobudget.com/
-01:58:28	Michael Grossman (Factr):	Pete, “1” is an initial statement of shared intent. Almost as if we were making a declaration, staking a position, and starting a petition. Not created as a brand we seek to own.
-01:58:39	Michael Grossman (Factr):	“2" is not for us to do, other than (for instance) you saying this is what CSC does in support of “1” (the movement currently known at MetaProject)
-01:58:58	Killu Sanborn:	+1 Forrist - would be nice!
-01:58:59	Wendy McLean, NY:	+1 Forrist!  A tool for values-based collaborative decision making (including and beyond traditional funding) is Flint.  https://www.winfinityframework.com/flint
-01:59:11	Michael Grossman (Factr):	To go back to analogy, “1” is, say, the environmental movement, “2” is the everything from the EPA, to the Sierra Club, to Greenpeace, to solar power farms, to individual consumers paying attention to labels, etc. etc.
-01:59:12	Wendy McLean, NY:	Flint is now an app in alpha
-01:59:33	Pete Kaminski:	Thanks, Michael.  We should discuss more!
-01:59:34	Michael Grossman (Factr):	The participants are not “run” from on high by the Environmental Movement, they support it, power it, and respond to its values.
-01:59:44	Wendy McLean, NY:	I have access to Flint and am happy to facilitate this conversation for this group.
-02:00:10	Killu Sanborn:	+Jonathan what an interesting idea!
-02:01:05	Wendy McLean, NY:	Love the sentiment, Jonathan, but wholeheartedly disagree that love should be translated into fiat $.  However, recognizing and giving it value is awesome!
-02:02:01	Wendy McLean, NY:	A good book here, with research backing - Love 2.0 by Barbara Fredrickson
-02:02:12	Killu Sanborn:	Jordan what you just said belongs in these soundbites on the opening page!
-02:02:58	Wendy McLean, NY:	Link for Love 2.0 https://www.amazon.com/Love-2-0-Finding-Happiness-Connection/dp/0142180475/
-02:03:28	Killu Sanborn:	+1 Pete for recognizing "we are doing too much work individually and not enough together", Pretending, Makes everybody Sad. Someday we will be working together on stuff. - so beautiful and right on.
-02:04:17	Wendy McLean, NY:	+1 Pete!  Thank you for articulating this.
-02:05:10	Killu Sanborn:	"We are going to have to slow down, and figure out how to do these things together, it is going to be uncomfortable" PK Until we are, we are not working together...
-02:05:27	Jonathan Sand:	work together and follow through on our favorite best-of-harvest ideas and regularly report on them
-02:05:36	William Larson:	+1 Pete; as children mature they get past parallel play.
-02:07:50	Forrist Lytehaause:	+1 WM & Winfinity - key being adoption process and experience. Wonderful that it is coming via an internal team members. do we have a proposal, clarifying questions, consent vote process?
-02:09:35	Wendy McLean, NY:	Yes Forrist, that's exactly what Flint is.  for clarifying questions, values, potential actions and then decentralized ratings to come to a consensus.
-02:09:59	Wendy Elford:	am willing to practice being broken and recover over a project - specific - where change can happen
-02:11:30	Jonathan Sand:	embodying and behaving consistent with intellectual understanding is very hard, a life's work, and imho the only game worth playing
-02:11:32	Forrist Lytehaause:	WM - I guess that would be true of the platform. I'm more wondering about where we are in MetaProject and when might any method such as this be invoked such that a proposal might be made to use WinFinity.
-02:12:54	Pete Kaminski:	regarding currency, tracing energy flows, etc., i note that the purpose of those kinds of things are governance  i think we actually need some simple governance (as Wendy M. said, "we need a structure, we need governance right in this room"), even before we get to economically-oriented allocation and governance.
-02:14:38	Forrist Lytehaause:	+1 Pete - strong agree. and then this needs to address who has standing, what does it mean to be a member of ? lionsberg, MetaProject something else?
-02:15:28	Wendy McLean, NY:	@Forrist.  Ah!  Flint isn't a platform, it's an app supported process.  Still, even with that, we need to form a team first. And your right, that team would then need to review and agree to 'try' flint (or not). The process of deciding, on Flint could in itself be a version of the flint decision-making process which I could facilitate if that was required.  (almost a chicken or egg problem). lol
-02:17:00	Pete Kaminski:	Agreed, Forrist, and I think there's a step before *that*, even -- we who are on this call obviously want to be here, and want to work together, even without understanding who has standing, whether or what we're a member of, etc.  So I think we can defer most of that for the nonce, and just talk about "what will we do together in the next few weeks?" (or, decide that we *won't* do projects together yet.)
-02:17:46	Jonathan Sand:	+1 pete, regarding currency, here is a wonderful progressive expansive new definition: https://www.artbrock.com/metacurrency
-02:18:17	Pete Kaminski:	thx Jonathan :-)
-02:22:33	Killu Sanborn:	To add to Judy's comment - AND, we COULD also practice "becoming of one mind", phrase used yesterday by Gil in reference to "Braiding Sweetgrass" about holding meetings between different stakeholders in indigenous context where they engaged in a scripted specific process that got them there (around gratitude). We could practice doing those types of things, where we all join the field in ways we have spoken before, vs speaking from where we are at, but not in "one mind". Both have value, but feel different and lead to different potential outcomes.
-02:24:18	Wendy Elford:	Can we apply the questions to a specific scenario / project to test our questions
-02:24:36	Wendy McLean, NY:	Thank you everyone!  Bye!
-02:27:08	Jason Schulist:	When do we test... Assumptions? Governance? Hypotheses?
-02:27:08	Wendy Elford:	What is the simplest way I can ask and make sense / meaning of the responses to "What is going on here?" to stay curious and in agency. Then ask "what next?"
-02:27:08	Pete Kaminski:	I'm going to abstain from coming up with questions because I don't feel we have a shared goal in doing the exercise.  We need to practice coming up with and negotiating to shared goals we all agree with.
-02:27:09	Killu Sanborn:	What would bring us in felt coherence? What is Meta Project for you, and why is it important, what does it have potential to accomplish? What do you Feel that is supporting you being here, or not? Do you feel lost, or on the path well, or something else (without making it true or mean anything, just what does it feel like)? What is alive for you now?
-02:27:09	Phil Stien:	What problems are we solving?
-02:27:10	Jonathan Sand:	what structure would encourage love, passion, effort and collaboration? do we need a structure or a process or a project or a measurement system or a points awarded alternative form of wealth?
-02:27:11	Jordan Nicholas Sukut:	What is my Aim? What is our Aim? How can we develop towards the fullness of our potential BY helping all others moving in the same direction do the same? What are we capable of doing, that we see needs to be done, that no one seems to be doing?
-02:27:12	William Larson:	What is the most effective way for us to make a genuine and unique difference when there are so many efforts n the world, often siloed, that are trying to do good in their own way? (i.e., what's missing that we cha provide?)
-02:27:28	Michael Grossman (Factr):	Even if this [meta] movement needs to be way WAY more diverse in its representation, in every way (age, gender, geography, ethnicity, education, income, on and on), can we privileged few move forward in a way that invites far wider group and individual participation?
-02:28:08	Judith Benham:	How best can I / we be of service?
-02:28:28	Forrist Lytehaause:	How do we make and record collaborative consent decision making ?   beginning when about what?About what - what is currently in the "field" of doability that results in something measurable as an outcome and seed funded for the practical efforts being invested
-02:30:10	Killu Sanborn:	+1 Jordan "it's us", it's words we invent to communicate something between us
-02:32:42	Killu Sanborn:	+1 We should act as if it is us until we find the "them" who have it handled.
-02:34:43	Jason Schulist:	thanks for what everyone is doing!

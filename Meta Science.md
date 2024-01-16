@@ -1,3 +1,0 @@
-# Meta Science
-
-In the context of the [[Lionsberg System]], Meta Science is an approach to organizing and understanding knowledge that transcends traditional disciplinary boundaries. It acknowledges the interconnectedness of all fields of study in One universal Whole and seeks to synthesize diverse perspectives in order to develop a more comprehensive and holistic understanding of the world and our place and duty within it. This approach is grounded in the principles of [[Current Best Understanding]] and [[We Do Not Know]], which encourage openness, humility, continuous learning, critical thinking, and transformation.
