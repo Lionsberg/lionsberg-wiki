@@ -2,7 +2,7 @@
 
 Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder & Co-Creator of Lionsberg.
 
-Above The Chaos is a podcast, blog, and video series intended to inspire and unite the Force For Good. 
+Above The Chaos is a podcast, blog, and video series intended to inspire and unite the Force For Good.
 
 Join us as we rise up, hover over the roiling waters of chaos and darkness, and articulate the Truthful words that bring forth the future that is most Good.  
 
