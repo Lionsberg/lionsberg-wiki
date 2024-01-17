@@ -1,0 +1,5 @@
+# Anti-Fragility
+
+Anti-Fragility is the quality of benefitting from exposure to [[Chaos]] or [[Disorder]]. 
+
+Going beyond resilience, the concept of "anti-fragility" is central to the Lionsberg System's approach to governance, economics, and social structures. While resilience refers to the ability to withstand and recover from shocks and disturbances, anti-fragility implies that a system actually benefits and grows stronger from such disruptions. Unlike merely resilient systems that aim to return to a baseline level of functionality after a disturbance, anti-fragile systems evolve and improve. They learn from stressors, adapting in ways that make them not only resistant to the same kind of stress in the future but also better equipped to deal with new and unforeseen challenges. By weaving anti-fragility into its foundational principles, the Lionsberg System aims to catalyze not just stability but ongoing evolution and improvement in the face of an ever-changing landscape.

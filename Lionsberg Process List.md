@@ -1,0 +1,17 @@
+# Lionsberg Process List
+
+1. [[The Way]]
+2. [[Process of Processes]] 
+3. [[Process For Meeting]] 
+4. [[Process For Post-Processing Meetings]] 
+5. [[Process For Podcasting]]  
+6. [[Process For Videocasting]] 
+7. [[Process For Social Media]]  
+8. [[Process For Crowdfunding]] 
+9. [[Process For Tracking And Resolving Issues]] 
+10. [[Process For Tracking And Resolving Commitments]]  
+11. [[Process For Onboarding]] 
+12. [[Process For Submittals]] 
+13. [[Process For Requests For Guidance]] 
+14. [[Process For Filling Up What Is Lacking]]  
+15. [[Process For Removing What Does Not Belong]] 

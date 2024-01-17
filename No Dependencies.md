@@ -1,0 +1,9 @@
+# No Dependencies
+
+The concept of "No Dependencies" refers to the idea that the Great Game of Lionsberg is designed to operate independently of existing power structures and institutions, relying solely on the voluntary participation of individual [[Citizens]] to drive progress towards the [[New Vision and Plan]]. This approach is intended to promote a decentralized, bottom-up approach to transformation across all [[Pillars of Society]] that empowers individuals and communities to take ownership of their own futures. 
+
+By removing dependencies on existing institutions and power structures, The Great Game of Lionsberg can advance more nimbly and flexibly, adapting to emerging challenges and opportunities in real-time. This approach also helps to foster a sense of agency and empowerment among individual Citizens, enabling them to take on leadership roles and actively shape the direction of The Movement.
+
+At the same time, the Great Game of Lionsberg recognizes the importance of collaboration and partnership in achieving [[The Goal]]. The movement welcomes engagement and collaboration with other groups and movements that share its spirit, vision and values, recognizing that a truly global transformation is universal in nature and requires the collective efforts of a diverse array of different actors working in concert.
+
+In this way, the concept of "No Dependencies" represents a core tenet of [[The Great Game of Lionsberg]], reflecting its commitment to decentralized, voluntary, participatory social change that puts power back in the hands of individual [[Citizens]] and [[Localities]].

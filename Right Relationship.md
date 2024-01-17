@@ -1,0 +1,3 @@
+# Right Relationship
+
+A state of harmony, balance, and mutual respect between individuals, communities, the natural world, and Source, rooted in a recognition of the interconnectedness and interdependence of all life. Right relationship is a guiding principle of the [[New Vision and Plan]] and the [[Lionsberg System]], and involves fostering a deep commitment to justice, compassion, and social, economic, and ecological stewardship.

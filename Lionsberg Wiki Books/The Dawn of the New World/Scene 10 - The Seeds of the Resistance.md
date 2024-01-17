@@ -1,0 +1,9 @@
+# Scene 10 - The Seeds of the Resistance
+
+In various corners of the community, groups of young people began to gather and discuss how their lives were unfolding within The Boundary. They shared stories of injustice, the heavy hand of the corrupt and impotent leaders, and the mounting darkness that threatened to consume their world. Though still in their youth, their eyes were open to the suffering around them, and they longed for something better.
+
+The rising youth would huddle together in secret, daring to voice their concerns and dreams of a brighter future. They questioned the power structure, the actions of the leaders, and the status quo that had been ingrained in their society for so long. Their courage and determination were planting the seeds of the coming uprising, as more and more bright young minds began to question the world around them.
+
+The shared feeling of discontent among the youth fueled their passion to make a change. They started to organize themselves, forming a loose network of resistance groups. They pledged to support each other and to stand together in their quest towards a Better Future. The bonds they formed in these secret meetings were unbreakable, and the Spirit of their determination began to grow stronger with each passing day.
+
+The youth also began to seek out information and knowledge that had been kept hidden from them. They discovered ancient texts and stories of a time when Earth was full of love, hope, harmony, and courage. The more they learned, the more they were convinced that their future was being betrayed by the corrupted leaders, that a Brighter Future was not only possible, but their Destiny and Birthright, and that it was their duty to fight for it. 
