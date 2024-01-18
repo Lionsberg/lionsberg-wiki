@@ -1,5 +1,6 @@
 # The Lionsberg Constitution - a New Covenant 
 
+*This is far short of even a draft - just some basic notes and potential structure.*
 ## Part I: Foundational Principles
 
 1. **Preamble: The New Covenant**
