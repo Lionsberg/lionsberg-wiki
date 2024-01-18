@@ -10,7 +10,7 @@ Today we did some work fixing issues that required uploading a batch of files re
 
 However - life is too short and there is too much at stake to be embarrassed about [[Work In Progress]]. 
 
-The wiki currently stands at 3,326 interlinked files, and 1,348,424 words. 
+The [[Lionsberg Wiki]] currently stands at 3,326 interlinked files, and 1,348,424 words. 
 
 For comparison, the Bible is about 1,189 chapters and 780,000 words, so it is a substantial work to grapple with. 
 
