@@ -11,9 +11,11 @@ In 2024, I am shifting focus from hoping the leaders and networks can self-organ
 
 ...to focusing on everyday people like Us, who understand that none of Us like the way things are going, that radical change is required, and that it is up to Us.
 ____
-The simple plan is to focus on identifying and onboarding Citizens who resonate with the message to [[The Movement]] and the [[Lionsberg]] Community / Army / Force For Good.  
+The simple plan is to focus on identifying and onboarding Citizens who resonate with [[The Message]] to [[The Movement]] and the [[Lionsberg]] Community / Army / Force For Good.  
 
 And making our shared community, systems, capabilities and experience a little better every day. 
+____
+The simple plan is to [[Seek First The Kingdom Of God]], and trust that everything else will be accomplished and realized as a result. 
 ___
 By separating out those who resonate with The Message and want to move, train and practice together from those who don't, we gain the opportunity to continuously improve a [[System]] purpose-built to create [[Throughput]] of [[The Goal]]. 
 _____
