@@ -1,5 +1,9 @@
 # Above The Chaos, A Simplified Way Towards The Goal 
 
+By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.17)_
+
+A post in [[Above The Chaos]]. 
+
 Having learned a lot the last two years, we are simplifying ***focus*** for 2024. 
 
 Our ***Mission*** is the Kingdom of God, on Earth as it is in Heaven. This is not a matter of religious belief; it is a matter of uniting around the highest Spirit, Intention, and Goal, vanquishing corruption and injustice, and reestablishing proper order and right relationship out of the present chaos. 
