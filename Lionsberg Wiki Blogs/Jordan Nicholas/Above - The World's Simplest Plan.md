@@ -1,3 +1,0 @@
-# Above - The World's Simplest Plan
-
-2023 felt a little like the parable of the wedding feast. Found in Matthew 22, the parable is about a king who prepares a great wedding feast, and sends his servants out to invite everyone, saying "Behold... I have prepared my dinner;.... everything is ready. Come to the wedding feast!" But everyone was too busy and went their separate ways, to their farm, their business, a family funeral, etc., and they abuse the servants. So the king sends his armies, destroys them, burns their city, and then sends his servants out to the main roads to invite whoever they find. And the wedding hall is filled with guests. 

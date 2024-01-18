@@ -1,5 +1,6 @@
 # Above - Greatest Minds and Ideas
 
+*Note in progress - just some rough notes aggregating ideas on greatest minds in history from Will Durant*
 ## Chapter Two - The Ten "Greatest" Thinkers
 
 Will Durant, Historian, 1968 - "The basic phenomenon of our time is not Communism; it's the decline of religious belief..."
