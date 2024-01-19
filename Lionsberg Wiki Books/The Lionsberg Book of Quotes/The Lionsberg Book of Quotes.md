@@ -311,3 +311,16 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 "You may not know it, my friends, but it is estimated that we spend $500,000 to kill each enemy soldier, while we spend only fifty-three dollars for each person classified as poor, and much of that fifty-three dollars goes for salaries to people that are not poor. So I was increasingly compelled to see the war as an enemy of the poor, and attack it as such." - [[Martin Luther King Jr.]]
 
 "Any religion that professes to be concerned about the souls of men and is not concerned about the slums that damn them, the economic conditions that strangle them and the social conditions that cripple them is a spiritually moribund religion awaiting burial." - [[Martin Luther King Jr.]]  
+
+“Make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone.” - [[Buckminster Fuller]]  
+
+“You must do the thing you think you cannot do.” 
+– Eleanor Roosevelt 
+
+"Do one thing every day that scares you." - Eleanor Roosevelt 
+
+"Do what you feel in your heart to be right – for you’ll be criticized anyway.” - Eleanor Roosevelt 
+
+"The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt
+
+
