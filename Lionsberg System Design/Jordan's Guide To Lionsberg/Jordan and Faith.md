@@ -1,15 +1,18 @@
 # Jordan and Faith
+
 Thank you for the honor of being able to share in such an intimate subject together. 
 
 Grappling with the [[One]] [[Deepest]] thing, upon which [[All]] else depends, can be triggering and overwhelming for many. I hope that we can begin a long journey of helping one another, learning together, and discovering with ever greater clarity how to rightly relate to One Another, the world around us, and the Source from which it all flows. 
 
-If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from my direct personal relationship with the eternal and universal "I Am" that is the Source and Sustainer of my being and consciousness. 
+If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from direct relationship with the One "I Am" that is the Source and Sustainer of All being and consciousness. 
+
+My Mission is the Mission of [[Christ]]. To embody and enact the spirit, will, and intention of [[God]], right here [[On Earth As it Is In Heaven]]. 
 
 From the mysteries of how the universe was brought into being, to the dawn of humanity and our earliest glimpses of consciousness, to the legends of those who wrestled with God, to the burning bush that demanded Moses liberate God's children from slavery and oppression, through the epic saga of the nations and peoples of the earth struggling to grope and feel their way forward, to the life of Jesus, and the hope that one glorious morning, every prophesy would be fulfilled and all the nations and peoples of the earth would dwell together in harmony and right relationship with the One true King of All... 
 
 This is the great mystery and romance that informs all that I do and am.
 
-For me, this journey is rooted in Love and in my personal, direct relationship and connection to That Which Is Creating and Sustaining me, which I often call God, Father, Source, or One. 
+This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining me, which I often call God, Father, Source, Ultimate Reality, or One. 
 
 This personal quest to align the depths of my being as closely as I can with the Source of Being, with God, is by far the most profound and important part of my existence. 
 
@@ -17,7 +20,8 @@ It is my purpose, my destiny, and my Why.
 
 ___
 ## Religion vs. Relationship
-I do not contextualize or experience my spirituality through the lens of religion. I experience it as a embodied reality that is a direct personal relationship. 
+
+I do not contextualize or experience my spirituality through the lens of religion. I experience it as an embodied reality that is a direct personal relationship, a communion between the Spirit within me and its Source. 
 
 It has often been said that one of the most important steps on our spiritual journey is the liberation from our childhood religion. 
 
@@ -25,9 +29,9 @@ While this is a scary statement for parents or spiritual leaders, it is true in 
 
 Liberation from our childhood religions does not mean that we necessarily leave them behind. We can still identify with them as long as they are useful. However the true and ultimate security that cannot be faked or substituted comes from direct personal experience with and knowledge of God. 
 
-Religions are often good. They are often useful. They are often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
+Properly understood and practiced, religion can be useful and good. It is often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
 
-Yet they also often grow corrupted and harden into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever closer personal relationship with God. 
+Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever closer personal relationship with God, by the Spirit of God. 
 
 Jesus spoke to this when he railed at the religious leaders and teachers of his day, saying 
 
@@ -45,33 +49,13 @@ My family was deeply steeped in this Judaeo Christian tradition that undergirds 
 
 I also had the deep honor of getting to explore Christian perspectives around the world that, while generally agreeing on the [[Deepest]] things, differed greatly in their understanding, ideas, and application. 
 
-I was quite surprised, growing up in the United States, in a Christian home, surrounded by primarily Republicans, when I was abroad and discovered wise good-hearted people who looked at the American / Political / Religious complex with confusion and could not understand how anyone proclaiming to be a follower of Jesus could support what they viewed as an unholy and corrupted religious nationalism. 
+I was quite surprised, growing up in the United States, in a Christian home, surrounded by primarily Republicans, when I was abroad and discovered wise good-hearted people who looked at the American / Political / Religious complex with confusion and could not understand how anyone proclaiming to be a follower of Jesus could possibly support what they viewed as an unholy and corrupted religious nationalism. 
 
-The more Christians I met who accused other Christians of not being "true Christians", and the more Muslims I met who accused other Muslims of not being "true Muslims", and the more I discovered how internally inconsistent and contradictory different denominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
+The more Christians I met who accused other Christians of not being "true Christians", and the more I discovered how internally inconsistent and contradictory different denominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
 
-...the more and more my Faith became an intensely personal Quest to directly experience right relationship with God and those around me. 
+...the more and more my Faith became an intensely personal Quest to directly experience right relationship with God and those around me. The simple Quest towards Unity through Love. The Quest of [[All]] back towards the [[One]]. 
 
-At the core of Christian teaching are the ideas that: 
-
-1. There is [[One]] [[Source and Sustainer]] of [[All]] things  
-2. This [[One]] is conscious, intelligent, and has a will and intention  
-3. Its Spirit and Nature is Love, and It / He loves All, equally and without exception 
-4. All other teachings and commandments can be summed up in a single statement: "Love God, and Love Your Neighbor As Yourself".
-5. The actual person of Jesus was the son of God / had the Mind of God / had the Spirit of God, and therefore was like a Most Faithful Prototype or Instantiation of what God would be like in human form. Christians and Muslims alike agree that this provided an [[Ideal]] that should be looked to and imitated as closely as possible.  
-6. Jesus taught that the same Spirit that was alive in Him, is also alive in us, and that through that same Spirit we are to continue to do what God has in Mind, and to do _even greater things_ than Jesus did.  
-
-It is such a beautiful and simple idea: Love [[One]], Love [[All]], and become a living embodiment of the Spirit and Nature of God. 
-
-I continue to strive towards this [[Ideal]], and it is my deep personal relationship with God that, to the best of my limited human ability, is the sole driving force for all that I do. 
-
-## Acting As If It Were True
-What would happen if we were to all actually act as if those stories and scriptures and encouragements and paradigms we read growing up were true? 
-
-What if we truly were created in the image of God? What if the Spirit of God was truly alive within us? What if we were All truly capable and called of heeding the words of Jesus and doing evern _greater_ things? 
-
-What would actually happen if we All acted as if the sacred and epic stories were True? 
-
-The Spirit of God, since my waking consciousness, has compelled me to try to discover and find out.  
+Despite the profound brokenness of religion in our world today, I continue to strive towards embodying the Ideal of Christ, which is to become a living embodiment, here and now, of the universal and eternal Spirit and Nature of God. 
 
 ## In Pursuit of Wisdom
 
@@ -111,21 +95,17 @@ Extensive study of martial arts ultimately resulted in a deep body of knowledge 
 
 This is all to say that while Lionsberg very intentionally does not adopt or mandate any [[State Religion]], my [[Current Best Understanding]] is that the concepts are entirely consistent and in harmony with the scriptures, the words of Jesus, and all that has been spoken by the various messengers of God throughout the millennia. 
 
-Because they are not attempting to conform themselves to the langauge of one religion or ideology, it creates the freedom to speak as truthfully and as accurately as I possibly can. This has been both an immense challenge, and an immense gift, as it has forced me to grapple with the [[Most Important Things]] and absorb them as my own to the point of being able to freely express them using entirely different words. It has been among the greatest tests and challenges of my life. 
+Because they are not attempting to conform themselves to the language of one religion or ideology, it creates the freedom to speak as truthfully and as accurately as I possibly can. This has been both an immense challenge, and an immense gift, as it has forced me to grapple with the [[Most Important Things]] and absorb them as my own to the point of being able to freely express them using entirely different words. It has been among the greatest tests and challenges of my life. 
 
-While the corruption of the religous systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of it is simple, true, and living within us. 
+While the corruption of the religious systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of it is simple, true, and living within us. 
 
-It all comes back to [[One]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, and our Deepest Foundation and Goal, we will not err in our [[Aim]]. 
+It all comes back to [[One]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, and our Deepest Foundation and Goal, we will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
 
-And when the abstract notion of God gets hard to relate to and we are struggling to find our Way, we can individually and directly relate to the very best and most pure examples that ever lived, like the person of Jesus and each of the Prophets in each of the sacred stories, to see how the Spirit lived out the principles and values in a particular time and place. 
+And when the abstract notion of God gets hard to relate to and we are struggling to find our Way, we can individually and directly relate to the very best and most pure examples that ever lived, like the person of Jesus and each of the Prophets in each of the sacred stories, to see how One Spirit lived out the principles and values in a particular time and place. 
 
-All that we are attempting to express is not a new teaching or revelation in any way, but a rememberance, reassembly, and return to the Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and their Source, which I call God, and the [[Language of Lionsberg]] calls [[One]]. 
+All that we are attempting to express is not a new teaching or revelation in any way, but a remembrance, reassembly, and return to the Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and God. 
 
 It is also an attempt to see if we can finally operationalize and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[One]], [[One Another]], and [[All]]. 
-
-Who knows if we were not born for such a time as this! 
-
-So with that background behind us, let's dive into an introduction to the Language and Concepts of the mythical [[New World]] of Lionsberg. 
 
 If you would ever like to discuss my Faith and explore together how we can [[Help One Another]] learn and grow, I am here to serve and would be delighted to walk with you on our Way towards [[The Goal]].
 
