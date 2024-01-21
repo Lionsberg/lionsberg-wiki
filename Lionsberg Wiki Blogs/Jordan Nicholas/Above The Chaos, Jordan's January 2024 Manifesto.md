@@ -1,6 +1,6 @@
 # Above The Chaos, Jordan's January 2024 Manifesto
 
-By [[Jordan Nicholas Sukut]], 2024.01.08 _(updated 2024.01.10)_   
+By [[Jordan Nicholas Sukut]], 2024.01.08 _(updated 2024.01.20)_   
 
 A post in [[Above The Chaos]]
 
@@ -8,15 +8,15 @@ Greetings loved ones and allies,
 
 As another year in the epic story of the human species aboard planet Earth slips into history, it is more evident than ever that despite our best efforts and progress to date, what got us here will not carry us forward to the Better Future we all desire. 
 
-My current best understanding is that there is an 80% plus probability that the current order is on the brink of a disorderly collapse. Our house divided against itself will not stand. 
+My current best understanding is that there is a significant probability that the current order is on the brink of a disorderly collapse. Our house divided against itself will not stand. 
 
-The solution is to forthrightly arise, unite, wage the battle for the future of our civilization, and establish the Kingdom of God on Earth as it is in Heaven. 
+The solution is to forthrightly arise, unite, wage the battle for the future of our civilization, and Seek First the Kingdom of God on Earth as it is in Heaven. 
 
 This involves assembling an unprecedented global Force For Good to vanquish corruption and injustice, solve the grand challenges, accomplish the global goals, and forge the Best Possible Future for All. 
 
 Over the last 7 years, we have laid the groundwork and built the systems and technology to enable such an unprecedented Citizen Led response. We are now assembling a perpetual community for this definite purpose. 
 
-To start the year, I spent some time alone in the mountains in dialogue with God and recorded three fireside chats: 
+To start the year, I spent some time alone in the mountains and recorded three fireside chats: 
 
 1. The State of Our World - [Fireside Chat 1 - The State of Our World](https://youtu.be/UFLKfZlGi08?si=ataOdvzSScwB_ate)
 2. The Probability of Collapse - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)

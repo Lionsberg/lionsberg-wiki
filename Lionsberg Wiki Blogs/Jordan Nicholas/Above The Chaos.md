@@ -14,6 +14,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## January 2024
 
+- [[Above The Chaos, ~80% of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]   
 - [[Above The Chaos, What I Really Think]]   
 - [[Above The Chaos, Becoming An Army]]  
@@ -26,9 +27,10 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, The Lionsberg Theory of Everything]]  
 - [[Above The Chaos, Grunch of Giants]]   
 
-## October 2023
+## October 2023 - December 2023 
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+- Barcelona, South Africa, Dubai  
 
 ## September 2023  
 
