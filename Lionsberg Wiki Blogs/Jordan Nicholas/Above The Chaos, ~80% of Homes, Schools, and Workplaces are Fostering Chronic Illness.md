@@ -94,3 +94,4 @@ Third, by climbing the ladder of healing and regeneration from the inside out.
  
 ______
 
+If you would like to join a movement to heal, regenerate, and transform our lives and our world, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement).  
