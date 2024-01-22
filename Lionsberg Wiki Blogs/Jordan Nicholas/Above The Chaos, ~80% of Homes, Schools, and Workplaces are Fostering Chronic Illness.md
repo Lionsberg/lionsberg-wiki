@@ -12,21 +12,27 @@ This is being increasingly linked to an array of devastating chronic disease, fr
 
 We are now understanding that [[Chronic Inflammation]] is the core driver of [[Chronic Disease]], and that [[Chronic Inflammation]] is occurring as a result of the response of our immune systems to toxins in our built environment and food systems.
 
-In this brief post, I link the learnings out to other ongoing conversations with experts on food systems and brain disease. 
+In this post, I link the learnings out to other ongoing conversations with experts on food systems and brain disease. 
+
+To join us on a transformative path towards the fullness of wellbeing, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement)
 ___
 ## Environmental Toxins 
 
 Jordan Peterson recently published a podcast titled "[80% of Homes are Fostering Chronic Illness](https://podcasts.apple.com/us/podcast/the-jordan-b-peterson-podcast/id1184022695?i=1000642148908)" with Dr. Scott McMahon and Dr. Ritchie Shoemaker. 
 
-In an interview focused on the specific issue of biotoxins in the [[Built Environment]], Drs. McMahon and Shoemaker present overwhelming evidence that the root cause of a variety of [[Chronic Disease]] is [[Chronic Inflammation]], or [[Chronic Immune Response Syndrome (CIRS)]]. 
+In an interview focused on the specific issue of biotoxins in the [[Built Environment]], Drs. McMahon and Shoemaker present overwhelming evidence that the core driver of a variety of [[Chronic Disease]] is [[Chronic Inflammation]], or [[Chronic Immune Response Syndrome (CIRS)]]. 
 
-Recently I was talking with Dr. Dung Trinh, a leading expert on brain disease, who also stated that his career of study has revealed that the core driver behind [[Chronic Disease]], generally, and brain disease, specifically, is [[Chronic Inflammation]]. 
+Recently I was talking with Dr. Dung Trinh, a leading expert on brain disease, whose findings arrived at the same basic conclusion: the core driver behind [[Chronic Disease]], generally, and brain disease, specifically, is [[Chronic Inflammation]]. 
 
-Dr. Trinh and other medical professionals have estimated that approximately 80% of all health issues are lifestyle related, and within this category we can include [[Environmental Toxicology]].  
+And the core driver of [[Chronic Inflammation]] is the immunological response to toxins in our food and environment. 
 
-Even for disease that has its roots in genetic factors, we are discovering that lifestyle and environmental factors can turn on or off, activate or deactivate, the genes controlling the expression of various diseases. 
+Dr. Trinh and other medical professionals have estimated that approximately 80% of all health issues are lifestyle related, and therefore unnecessary, treatable, and preventable. Within this category we can include [[Environmental Toxicology]].  
 
-When the issue of Environmental Toxicology is finally is understood by the public, it will become one of the greatest and most devastating scandals and remediation projects in history. Imagine waking up one day to find out that the vast majority of the disease and suffering we and our loved ones are experiencing is not only unnecessary, but being knowing inflicted upon us as a consequence of conscious acts and omissions.
+Even for disease that has its roots in genetic factors, we are discovering that lifestyle, mindset and environmental factors can turn on or off, activate or deactivate, the genes controlling the expression of various diseases and potentials. 
+
+When the issue of Environmental Toxicology is finally is understood by the public, particularly as it relates to food systems and the built environment, it will become one of the greatest and most devastating scandals and remediation projects in history. 
+
+Imagine waking up one day to find out that the vast majority of the disease and suffering we and our loved ones are experiencing is not only unnecessary, but being driven by conscious and alterable acts and omissions. If you haven't already awakened to this, I pray that [[Today Is The Day]].   
 
 ____
 ## Chronic Inflammation
@@ -36,13 +42,13 @@ Chronic Inflammatory Response Syndrome (CIRS) is a complex and multi-faceted con
 The basic mechanism can be conceptualized as: 
 
 1. Prolonged exposure to Toxins (Biotoxins, Chemicals, etc.) 
-2. From our food and environment  
-3. Triggering Activation of the Immune System in those who are genetically susceptible 
+2. Primarily from our food and environment  
+3. Triggering Activation of the Immune System, especially in those who are most genetically susceptible 
 4. Leading to the release of inflammatory molecules called Cytokines  
 5. Leading to [[Chronic Inflammation]] 
-6. Leading to a range of symptoms, health issues and [[Chronic Disease]], from depression, to fatigue, to cognitive impairment, to digestive issues, musculoskeletal pain, obesity, Parkinson's, Alzheimers, etc. 
+6. Leading to a range of symptoms, health issues and [[Chronic Disease]], from depression, to fatigue, to cognitive impairment, to digestive issues, heart issues, musculoskeletal pain, obesity, Parkinson's, Alzheimers, etc. 
 
-In simple terms, the core driver of an array of chronic disease and suffering is inflammation resulting from the response of the immune system to toxins in our food, drink, and environment. 
+In simple terms, the core driver of an array of chronic disease and [[Suffering]] is inflammation resulting from the response of the immune system to toxins in our food, drink, and environment. 
 ____
 ## Sources of Toxins
 

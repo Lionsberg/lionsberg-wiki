@@ -11,9 +11,11 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## Featured Posts
 
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]  
+- [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]   
 
 ## January 2024
 
+- [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]  
 - [[Above The Chaos, ~80% of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]   
 - [[Above The Chaos, What I Really Think]]   
