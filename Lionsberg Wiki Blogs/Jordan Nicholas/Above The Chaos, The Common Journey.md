@@ -1,6 +1,6 @@
 # Above The Chaos, The Common Journey
 
-By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.17)_
+By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.21)_
 
 A post in [[Above The Chaos]]  
 
@@ -66,7 +66,8 @@ _____
 
 ## Conceptualizing the Common Journey of Billions of Heroes 
 
-![[The Common Journey Sketch.pdf]] 
+![[The Common Journey Sketch.png]]
+*For a higher resolution image see [[The Common Journey Sketch.pdf]]*
 
 So we are conceptualizing [[The Common Journey]] or [[The Epic Quest]] FROM the [[Old]], TO the [[New]]. 
 
