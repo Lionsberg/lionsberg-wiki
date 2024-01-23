@@ -64,7 +64,7 @@ There are a few obvious categories:
 For example: 
 - **Biotoxins in the Built Environment**: The interview with Drs. McMahon and Shoemaker focused on the presence of biotoxins in up to 80% of buildings. 
 - **Chemical Toxins in the Built Environment**: Dr. Shoemaker mentioned plasticizers and other chemical toxins used in building materials (think paint, drywall, pipes, water systems, air systems, etc.)  
-- **Chemical Toxins (generally)**: The cognitive impairment that resulted around the world from lead in paints and fuels was mentioned in the interview. 
+- **Chemical Toxins (generally)**: The cognitive impairment that resulted around the world from lead in paints and fuels was mentioned in the interview. Another emerging example is plastics and microplastics, especially food containers, food packaging, drink containers, filtering processes prior to packaging, etc. 
 - **Chemical Toxins in Food Systems**: Dr. Trinh discusses how the immune system is concentrated in the gut, because that is where majority of toxins / pathogens enter the system. The persistent presence of toxins in the food system, such as glyphosate and other industrial agriculture products, damages the gut and microbiome and triggers continual immune system response, leading to [[Chronic Inflammation]], [[Chronic Disease]], and an array of physical and mental health issues.  
 
 _____
