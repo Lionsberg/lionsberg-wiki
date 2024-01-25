@@ -15,7 +15,10 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## January 2024
 
-- [[Above The Chaos, Sovereignty At Every Level]]  
+- [[Above The Chaos, Rediscovering God Beyond Religion]]   
+- [[Above The Chaos, Rediscovering Christ Beyond Religion]]  
+- [[Above The Chaos, Rediscovering the Kingdom of God Beyond Religion]]  
+- [[Above The Chaos, Sovereignty At Every Level]]   
 - [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]  
 - [[Above The Chaos, 80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]   

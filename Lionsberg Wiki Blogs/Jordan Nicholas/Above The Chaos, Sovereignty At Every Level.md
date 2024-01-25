@@ -14,7 +14,7 @@ And another in which Sovereignty is vested in individual beings, and [[Ultimatel
 
 Over the coming years, it is likely that this [[Spiritual War]] will increasingly spill over into the physical realm. 
 
-The [[New Vision and Plan]] is one centered around the realignment of [[Sovereignty]], [[Power]], and [[Authority]] "[[On Earth As it Is In Heaven]]", or in other words, Under God. 
+The [[New Vision and Plan]] is one centered around the realignment of [[Sovereignty]], [[Power]], and [[Authority]] "[[On Earth As it Is In Heaven]]", or in other words, United Under God. 
 
 Under this [[Ethos]], individual beings, created in the image of God, enjoy [[Sovereignty]] at every level, as [[One Citizenship Under God]]. 
 
