@@ -323,4 +323,10 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 
 "The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt
 
+"It's a poor sort of memory that only works backward." - Lewis Carroll 
+
+"Imagination Is the Only Weapon in the War Against Reality." - Lewis Carroll 
+
+
+
 

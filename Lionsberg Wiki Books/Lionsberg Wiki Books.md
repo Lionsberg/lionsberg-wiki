@@ -1,8 +1,10 @@
 # Lionsberg Wiki Books 
 
-The books below all explore the same core Mission, Vision, and Goal, examining it from a variety of angles and possibilities. 
+The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. 
 
-They are each a [[Work In Progress]]. 
+They are each a [[Work In Progress]]. Some areas have been accelerated or roughed in using AI. All True ideas are contributed by and belong to the body of human thought to date. No ownership or originality is asserted. The entire body of work is freely released under the Creative Commons license cited on the page in hopes that it might aid humanity in arising, uniting, and overcoming this crucial moment in history. I pray you find it helpful. 
+
+If you Value the work and would like to see it advanced, please visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to contribute. If you would like to collaborate and advance together, email me at J@Lionsberg.org. 
 ## Start Here 
 
 1. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
