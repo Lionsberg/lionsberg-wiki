@@ -19,7 +19,13 @@ ___
 
 From Greg: 
 
-*What if, right about now, every human soul were to answer one little question it seems we've never considered:*
+*Ourself or our world, it gets Better as we begin to believe it can and act like it...*
+
+*...this is the key to it all. We can only Believe what we can first Imagine.*
+
+*So let's Image it!* 
+
+*Let us hear each ohter answer, bravely and from the heart, one little question it seems we've never considered:*
 
 ***HOW WOULD YOU LIKE THIS WORLD TO BE?***
 
