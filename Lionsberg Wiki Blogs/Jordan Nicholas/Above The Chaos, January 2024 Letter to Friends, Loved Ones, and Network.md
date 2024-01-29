@@ -16,10 +16,12 @@ I am writing this letter to reconnect with old and new relations, share my heart
 
 To hear more about my best understanding of where we are, what is at stake, and the pathway into the future I have been attempting to forge, please see [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]]. It covers the risks I perceive, the difficult struggles and learning process over the last years, and an invitational vision, strategy, and plan for the future. 
 
-I am deeply concerned and am sacrificing everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families unless we change course. I hope you are willing to take the time to read, listen, and consider for yourself and your family what is required. For the few who may want to read more beyond the manifesto, I have articulated more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available free online. 
+I am deeply concerned and am sacrificing everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families unless we change course. I hope you are willing to take the time to read, listen, and consider for yourself, your family, and your community what is required in response. For the few who may want to read more beyond the manifesto, I have articulated more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available free online. 
 ## Action 
 
-If you would like to stay in relationship and help one another progress into 2024, please respond to me via email at J@Lionsberg.org, or better yet visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and help establish public support for the Vision and Mission. 
+If you would like to stay in relationship and help one another as we progress into 2024, please respond to me via email at J@Lionsberg.org, or better yet visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and help establish public support for the Vision and Mission. 
+
+My deep desire is to forge out of those who resonate a persistent and growing community, advancing together towards [[The Goal]]. 
 
 Because we are rapidly approaching the end of our personal resources, the response to our outreach and prayers week by week will determine our next steps, and we will look forward to sharing those with you as they become visible. 
 
