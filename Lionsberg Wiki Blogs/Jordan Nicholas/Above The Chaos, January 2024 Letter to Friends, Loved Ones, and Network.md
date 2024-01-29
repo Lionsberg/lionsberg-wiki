@@ -1,6 +1,6 @@
 # Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network
 
-By [[Jordan Nicholas Sukut]], 2024.01.26 _(updated 2024.01.26)_
+By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.01.29)_
 
 A post in [[Above The Chaos]]  
 
@@ -14,14 +14,14 @@ As we wake up in January 2024, we find ourselves still alive, refined by fire, a
 
 I am writing this letter to reconnect with old and new relations, share my heart, vision and passion, and invite those who resonate into a new season of community and right relationship. 
 
-To hear more about my best understanding of where we are, what is at stake, and the pathway into the future I have been attempting to forge, please see [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]]. It attempts to express the risks I perceive, the difficult struggles and learning process over the last years, and an invitational vision, strategy, and plan for the future. 
+To hear more about my best understanding of where we are, what is at stake, and the pathway into the future I have been attempting to forge, please see [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]]. It covers the risks I perceive, the difficult struggles and learning process over the last years, and an invitational vision, strategy, and plan for the future. 
 
-I am deeply concerned and have sacrificed everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families without exception unless we act now. I hope you are willing to take the time to read, listen, and consider for yourself and your family what is required. For the few who may want to read more beyond the manifesto, I have laid things out in far more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available for free online. 
+I am deeply concerned and am sacrificing everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families without exception unless we act now, together. I hope you are willing to take the time to read, listen, and consider for yourself and your family what is required. For the few who may want to read more beyond the manifesto, I have laid things out in far more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available for free online. 
 ## Action 
 
 If you would like to stay in relationship and help one another progress into 2024, please respond to me via email at J@Lionsberg.org, or better yet visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and help establish public support for the Vision and Mission. 
 
-Because we are at the end of our personal resources, the response to our outreach and prayers the next couple weeks will determine our next steps, and we will look forward to sharing those with you in February as they become visible. 
+Because we are rapidly approaching the end of our personal resources, the response to our outreach and prayers week by week will determine our next steps, and we will look forward to sharing those with you as they become visible. 
 
 Come what may, it is a joy and an honor to know you. 
 

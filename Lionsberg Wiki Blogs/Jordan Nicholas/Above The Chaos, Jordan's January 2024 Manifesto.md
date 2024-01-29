@@ -1,6 +1,6 @@
 # Above The Chaos, Jordan's January 2024 Manifesto
 
-By [[Jordan Nicholas Sukut]], 2024.01.26 _(updated 2024.01.26)_   
+By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.01.29)_   
 
 A post in [[Above The Chaos]]
 
