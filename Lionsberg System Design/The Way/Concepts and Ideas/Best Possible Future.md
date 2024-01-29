@@ -1,4 +1,5 @@
 # Best Possible Future
+
 Of all the potential Futures that we could pull into Reality, which one lies at the absolute top, as the Best Possible Future? 
 
 Like everything else at this [[Meta Level]] of abstraction, this takes us into the realm beyond concrete propositions and knowledge. It takes us into the realm of images, dreams, and imaginations. 

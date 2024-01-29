@@ -14,7 +14,23 @@ Warm, wise, and right on time, How the World Got Better calls to the hero in e
 
 None of us like the way things are going. We all know that [[What Got Us Here Will Not Get Us To Where We Want To Go]]. One of the first steps towards change is to Imagine something [[Better]]. 
 
-Greg and I would like to invite you into our ongoing conversation. To join us, simply: 
+Greg and I would like to invite you into our ongoing conversation. 
+___
+
+From Greg: 
+
+*What if, right about now, every human soul were to answer one little question it seems we've never considered:*
+
+***HOW WOULD YOU LIKE THIS WORLD TO BE?***
+
+*Please, just imagine it, bravely and from the heart... speak it, write it, sign it, share it...*
+
+*What if we the listen to each other, all the world around, starting with the kids?*
+
+*What if, one what's important, we find agreement enough to finally* ***believe*** *our world can get better? So we act like it, and so it does... What if?*  
+____
+
+To join us, simply: 
 
 1. Answer The Question on [The Survey](https://docs.google.com/forms/d/1Z9dLB9XQI3k6G7BVfenGELL76fVeFsMgkYrQg4O2NY0/edit) and view responses from others  
 2. Share the link to this page, and invite your network to answer The Question  
