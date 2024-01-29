@@ -10,11 +10,11 @@ As another year in the epic story of the human species aboard planet Earth slips
 
 My current best understanding is that there is a significant nonzero probability that the current order is on the brink of a disorderly collapse. Our house divided against itself will not stand. And it is not obvious that what might arise to take the place of the failing post-WWII American Order will better. It is clear that forces of malevolence are consciously accelerating events towards that end. 
 
-The simple solution is Unity Under God. To arise, unite, Seek First The Kingdom of God, and forthrightly wage the war for the future of our civilization. I remain prepared to give my life towards this End. 
+The simple solution is Unity. To arise, unite, Seek First The Kingdom of God, and forthrightly wage the war for the future of our civilization. I remain prepared to give my life towards this End. 
 
 This involves reuniting as One Citizenship Under God and assembling an unprecedented global Force For Good to vanquish corruption and injustice, solve the grand challenges, accomplish the global goals, and forge the Best Possible Future for All. 
 
-This Body would self-assemble from the bottom up on the basis of voluntary consent, with individuals and small-groups coming together to form a self-sustaining, self-replicating, and self-governing new polity.  
+This Body must self-assemble from the bottom up on the basis of voluntary consent, with individuals and small-groups coming together to form a self-sustaining, self-replicating, and self-governing new polity.  
 
 Over the last 7 years, we have curated together tens of millions of dollars of value, laid the groundwork and built the systems and technology to enable such an unprecedented Citizen Led response to the present [[Meta Crisis]]. It will require a tremendous amount of training, discipline, and practice. However it must be done. 
 
@@ -26,11 +26,11 @@ To start the year, I spent some time alone in the mountains and recorded three f
 
 Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[Lionsberg Wiki Books]] and the [[Lionsberg Manifesto]]. 
 
-And now let me offer a humble and candid assessment of where we stand now in January 2024. 
+And now let me offer a humble and candid assessment of the efforts to date and where we stand now in January 2024. 
 
 Despite the efforts of many wonderful allies and advisors, my efforts over the last 24 months to catalyze an inter-network [[Meta Project]] in response to previously-looming-and-now-apparent [[Meta Crisis]] have been unsuccessful. My assessment is that this is due to a combination of my own inadequacies and limitations, the inadequacies and limitations of the current organizational and governance structures, and the sheer fact that we are attempting something New, which has not previously been done, and for which no roadmap or proven recipe exists. I take full responsibility for the improvements that must be made, and am transforming and learning as rapidly as I can. 
 
-I remain convinced that none of us can succeed in isolation, and the only Way to advance from here is to forge, out of the many amazing individuals of Goodwill, a higher order functional unity actually powerful enough to meet the needs and solve the challenges at hand. I remain convinced that Unity, true Spiritual collaboration with God and One Another, is the One Thing that makes all other things possible. I continue to believe that it is necessary to connect, equip and empower 3% of the population, ~240 million leaders, as rapidly as possible, nominally by 2026. I continue to believe our families, communities, tribes, and nations require a massive reset and jubilee, with constitutional amendments that push power back out to individuals and localities and forge a New Covenant as One Citizenship Under God. And I continue to believe that 2024 may be the last opportunity for humanity to prevent a disorderly collapse of the American Order as we thought we knew it.  
+I remain convinced that none of us can succeed in isolation, and the only Way to advance from here is to forge, out of the many amazing individuals of Goodwill, a higher order functional unity actually powerful enough to meet the needs and solve the challenges at hand. I remain convinced that Unity, true Spiritual collaboration with God and One Another, is the One Thing that makes all other things possible. I continue to believe that it is necessary to connect, equip and empower 3% of the population, ~240 million leaders, as rapidly as possible, nominally by 2026. I continue to believe our families, communities, tribes, and nations require a massive reset and jubilee, with constitutional amendments that reset systems and push power back out to individuals and localities and forge a New Covenant as One Citizenship Under God. And I continue to believe that 2024 may be the last opportunity for humanity to prevent a disorderly collapse of the Existing Order as we thought we knew it.  
 
 We are rapidly approaching the end of our personal resource runway and continuing to do our best to Seek First The Kingdom of God and trust that all other provision will follow. The Critical Path of the universal project can advance in proportion to the time, energy, attention, and resources directed at it. 
 

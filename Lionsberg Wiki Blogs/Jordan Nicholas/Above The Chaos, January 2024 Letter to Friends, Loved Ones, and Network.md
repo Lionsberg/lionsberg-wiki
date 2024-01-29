@@ -16,7 +16,7 @@ I am writing this letter to reconnect with old and new relations, share my heart
 
 To hear more about my best understanding of where we are, what is at stake, and the pathway into the future I have been attempting to forge, please see [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]]. It covers the risks I perceive, the difficult struggles and learning process over the last years, and an invitational vision, strategy, and plan for the future. 
 
-I am deeply concerned and am sacrificing everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families without exception unless we act now, together. I hope you are willing to take the time to read, listen, and consider for yourself and your family what is required. For the few who may want to read more beyond the manifesto, I have laid things out in far more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available for free online. 
+I am deeply concerned and am sacrificing everything because I believe that we are collectively accelerating down a trajectory that will devastate every one of our families unless we change course. I hope you are willing to take the time to read, listen, and consider for yourself and your family what is required. For the few who may want to read more beyond the manifesto, I have articulated more detail in the series of [[Lionsberg Wiki Books]] that are in progress and available free online. 
 ## Action 
 
 If you would like to stay in relationship and help one another progress into 2024, please respond to me via email at J@Lionsberg.org, or better yet visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and help establish public support for the Vision and Mission. 
@@ -29,4 +29,4 @@ With Love, Passion, and Conviction,
 
 ~ J 
 
-To respond, email me at J@Lionsberg.org or visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and support the mission.  
+**Please respond** to J@Lionsberg.org or visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and support the Mission.  
