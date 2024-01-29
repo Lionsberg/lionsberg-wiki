@@ -16,7 +16,7 @@ None of us like the way things are going. We all know that [[What Got Us Here Wi
 
 Greg and I would like to invite you into our ongoing conversation. To join us, simply: 
 
-1. Answer [The Question](https://docs.google.com/forms/d/1Z9dLB9XQI3k6G7BVfenGELL76fVeFsMgkYrQg4O2NY0/edit) on the survey and view responses from others  
+1. Answer The Question on [The Survey](https://docs.google.com/forms/d/1Z9dLB9XQI3k6G7BVfenGELL76fVeFsMgkYrQg4O2NY0/edit) and view responses from others  
 2. Share the link to this page, and invite your network to answer The Question  
 
 If you put your email address into the form, I will do my best to keep you up to date on our efforts to reimagine, redesign, and rebuild a [[Better World]].  
