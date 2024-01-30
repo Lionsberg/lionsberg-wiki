@@ -40,7 +40,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## October 2023 - December 2023 
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
-- Traveled to Barcelona, South Africa, Dubai, reassessing ways for the [[Meta Project]] to advance and reconciling strategic plans and milestones with network elements. 
+- Traveled to Barcelona, South Africa, Dubai, exploring ways for the [[Meta Project]] to advance and reconciling strategic plans and milestones with network elements. 
 
 ## September 2023  
 
