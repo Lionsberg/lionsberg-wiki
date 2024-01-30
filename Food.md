@@ -19,3 +19,5 @@ In the Lionsberg System, Food is contrasted with [[Anti-Food]].
 - **Holistic Wellbeing**: Emphasizing the balance of physical, mental, emotional, energetic and spiritual nourishment.
 - **Personal Development**: Guiding individuals towards sources of 'Food' that contribute to their overall well-being and growth.
 - **Community and Infrastructure Building**: Encouraging societal structures that provide 'Food' in all forms to its members.
+
+For the systematic side, see [[Food Systems]]. 
