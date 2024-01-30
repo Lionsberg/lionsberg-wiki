@@ -19,7 +19,7 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 
 ## Levels of Abstraction - Thought and Action 
 
-1.  Source  
+1.  Source / Ultimate Reality 
 2.  Pure Consciousness  
 3.  Being  
 4.  Direct Experience   
@@ -101,7 +101,7 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Mysticism  
     -   Spirituality  
     -   Universal Consciousness  
-- 19. Source   
+- 19. Source / Ultimate Reality  
 
 ## Levels of Abstraction - Existence 
 

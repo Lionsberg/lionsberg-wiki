@@ -16,4 +16,6 @@ Anti-Food is contrasted with [[Food]], its [[Positive]] counterpart.
 
 - **Holistic Health and Wellness**: Identifying and addressing 'Anti-Food' in all aspects of life for better health and well-being. First [[Do Not Harm]]. 
 - **Awareness Campaigns**: Educating on the diverse impacts of Food and Anti-Food and methods to counteract them.
-- **cultural and Systemic Improvements**: Instantiating changes that reduce the presence of and incentives towards 'Anti-Food' in society.
+- **Cultural and Systemic Improvements**: Instantiating changes that reduce the presence of and incentives towards 'Anti-Food' in society.
+
+See also [[Food Systems]]. 
