@@ -15,6 +15,8 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## January 2024
 
+- [[Above The Chaos, Food And Anti-Food]]  
+- [[Above The Chaos, How Would You Like the World to Be?]]  
 - [[Above The Chaos, Rediscovering God Beyond Religion]]   
 - [[Above The Chaos, Rediscovering Christ Beyond Religion]]  
 - [[Above The Chaos, Rediscovering the Kingdom of God Beyond Religion]]  

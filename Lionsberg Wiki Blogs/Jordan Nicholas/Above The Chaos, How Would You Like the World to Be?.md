@@ -25,7 +25,7 @@ From Greg:
 
 *So let's Image it!* 
 
-*Let us hear each ohter answer, bravely and from the heart, one little question it seems we've never considered:*
+*Let us hear each other answer, bravely and from the heart, one little question it seems we've never considered:*
 
 ***HOW WOULD YOU LIKE THIS WORLD TO BE?***
 
