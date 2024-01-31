@@ -2,13 +2,13 @@
 
 One of the most helpful practices for navigating the complexities of existence has proven to be journaling. 
 
-In [[The Power of Today]], we laid out a section called [[4.4 Your New Daily Practice]] for those who have not developed a powerful and transformative [[Daily Practice]]. 
+In [[The Power of Today]], we laid out a section called [[4.4 A New Daily Practice]] for those who have not developed a powerful and transformative [[Daily Practice]]. 
 
 The Practice contains a powerful subset of journaling questions and prompts. 
 
 Here are the basics. Remember, these are meant to be part of an integrated Way of Being and Daily Practice as outline in [[The Power of Today]], and integrated via the [[Lionsberg System and Approach]]. 
 
-These questions should be kept integrated and mutually updated with [[4.4 Your New Daily Practice]]. 
+These questions should be kept integrated and mutually updated with [[4.4 A New Daily Practice]]. 
 
 ## Morning Journaling 
 

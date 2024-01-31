@@ -60,7 +60,7 @@ We are Praying Love and Inspiration Over Your Day Today.
 [[4.1 Community]]
 [[4.2 Organizing The Force For Good]]
 [[4.3 Recap]]
-[[4.4 Your New Daily Practice]]
+[[4.4 A New Daily Practice]]
 [[4.5 Closing Reflection]]
 
 The End
