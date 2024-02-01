@@ -14,11 +14,11 @@ In the realm of [[Discipline]], there is found at its extreme a pure structured 
 
 As in all [[Apparent Polarities]], there exists a [[Higher Perspective]] that properly integrates and orders them both, in right [[Balance]] and [[Proportion]], within itself. From this [[Highest Perspective]], Discipline is an aspect of Freedom, Freedom is an aspect of Discipline, and both are an aspect of and unified by the [[Spirit]] of the [[One]]. 
 
-The [[Way]], always and eternally, is mediated by the [[Spirit]] that enables us to [[Walk The Line]] between opposing forces towards [[Heaven]], while avoiding the [[Hell]] that lies in an excess of either. 
+The [[Way]], always and eternally, is mediated by the [[Spirit]] that enables us to [[Walk The Line]] between opposing forces towards [[Heaven]], while avoiding the [[Hell]] that lies in an excess of deviation off the Path in any direction. 
 
 ____
 
-In 2022 and 2023, I manifested an imbalance of Freedom at the expense of Discipline as I grappled with the trauma, healing, and redemptive goodness of our descent through the Underworld and reemergence. 
+In 2022 and 2023, I manifested an imbalance of Freedom at the expense of Discipline as I grappled with the pain, healing, and redemptive goodness of our descent through the Underworld and reemergence. 
 
 In 2024, my Intention is to manifest a greater degree of Discipline, Structure, Order and [[Daily Practice]] to anchor individual and collective [[Progress]] in the [[Way]] towards [[The Goal]]. 
 

@@ -21,7 +21,7 @@ I am deeply concerned and am sacrificing everything because I believe that we ar
 
 If you would like to stay in relationship and help one another as we progress into 2024, please respond to me via email at J@Lionsberg.org, or better yet visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and help establish public support for the Vision and Mission. 
 
-My deep desire is to forge out of those who resonate a persistent and growing community, advancing together towards [[The Goal]]. 
+My deep desire is to forge out of those who resonate a persistent and growing community / Force For Good, advancing together towards [[The Goal]]. 
 
 Because we are rapidly approaching the end of our personal resources, the response to our outreach and prayers week by week will determine our next steps, and we will look forward to sharing those with you as they become visible. 
 
