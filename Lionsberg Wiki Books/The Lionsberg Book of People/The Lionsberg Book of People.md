@@ -1,6 +1,9 @@
 # The Lionsberg Book of People
 
-[[God]] / [[One]]  
 [[Jesus]] 
 [[Buckminster Fuller]] 
-[[Martin Luther King Jr.]] 
+[[Martin Luther King Jr.]]  
+[[Mahatma Gandhi]]  
+[[Nelson Mandela]]  
+[[Aristotle]]  
+[[Desmond Tutu]]  
