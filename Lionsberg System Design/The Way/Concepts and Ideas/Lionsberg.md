@@ -37,3 +37,6 @@ It 8 billion people decide to [[Enact]] [[The Story of Lionsberg]], the [[New Wo
 
 [[Lionsberg Strategy and Plan]]  
 
+## Invitation 
+
+[[Lionsberg Invitation]]  

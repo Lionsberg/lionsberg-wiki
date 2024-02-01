@@ -13,10 +13,16 @@ We envision a freely independent, self-governing, self-sustaining, and self-repl
 
 To enable progress towards this Aim, over the last 7 years Jordan and a network of allies have co-created a platform of empowering resources, infrastructure, systems and technology through [[Lionsberg]]. 
 
+The next step is to invite a growing wave of citizens to forge or join self-governing small groups to learn [[The System]] and begin progressing together towards [[The Goal]]. 
+
 If you resonate and would like to [[Join Us]], email J@Lionsberg.org or visit [Jordan's Website](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  
 
 Onward Towards [[The Goal]], 
 
 ~ J 
 
-To learn more, dive into the [[Lionsberg Wiki Books]], or visit [[Above The Chaos]].  
+To learn more: 
+
+- See [[Above The Chaos, Jordan's January 2024 Manifesto]]  
+- Dive into the [[Lionsberg Wiki Books]]  
+- Visit [[Above The Chaos]].  
