@@ -8,5 +8,6 @@ Sitting in a coffee shop this week, I overhead some people comparing [[Journalin
 
 I thought I would both join and invite you into the dialogue. If you have any ideas to improve these questions and their place in [[Daily Practice]] and the [[Lionsberg System]], please let know. 
 
+You can find the journaling questions I have developed over the years here: [[Journaling Questions]] 
 
 ![[Journaling Questions]]  
