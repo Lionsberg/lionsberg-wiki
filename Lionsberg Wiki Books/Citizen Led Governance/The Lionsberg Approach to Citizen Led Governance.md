@@ -22,11 +22,11 @@ By [[Jordan Nicholas Sukut]]
 [[2.5. The Pattern for Stewarding the Commons]]  
 [[2.6. The Pattern for Citizen Led Self-Governance]]  
 [[2.7. The Pattern for Voluntarily Organizing and Federating]]  
-[[2.8. The Pattern for Voluntary Taxation and Resource Allocation]]  
+[[2.8. The Pattern for Voluntary Tithing and Resource Allocation]]  
 [[2.9 The Pattern for Measuring and Quality and Quantity of Service, and Originating Units of Value]]  
 [[2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation]]  
 [[2.11. The Pattern for Transforming Towards a Wisdom and Stewardship Based System]]  
-[[2.12. The Pattern for Transforming Towards a Wisdom and Stewardship Based System]]  
+[[2.12. The Pattern for Individual and Local Sovereignty and Universal Citizenship]]  
 [[2.13. The Pattern For Integrated Delivery of Shared Goals and Values]]  
 
 ## 3.  Implementing Citizen Led Governance 
