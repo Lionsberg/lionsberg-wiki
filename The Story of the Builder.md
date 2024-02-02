@@ -77,6 +77,6 @@ Day after day, week after week, more and more people streamed up the Sacred Moun
 
 While there were plentiful trials, tribulations, and conflicts along the Way, the City on a Hill offered the [[Citizens]] of The Valley an inspiration and Hope that had been missing for generations. 
 
-In partnership with God and One Another, they were co-creating a truly Magnificent City, that was rising up day by day before their eyes. 
+In partnership with God and One Another, they were co-creating a truly Magnificent City. It was rising up before their eyes, and getting [[A Little Better Every Day]] as they worked together in [[Harmony]] to cause it to be so. 
 
 The End. And The Beginning. 
