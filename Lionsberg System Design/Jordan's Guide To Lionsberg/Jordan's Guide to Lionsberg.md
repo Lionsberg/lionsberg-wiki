@@ -32,7 +32,7 @@ The result is that we are hurtling towards a great chasm that stands between [[W
 
 ## Lionsberg 
 
-We have co-created [[Lionsberg]] as a [[Way]] for humanity to leap across the chasm into a flourishing and abundant [[New Era]], and to avoid being dashed upon the rocks of [[Chaos]] that lie at the end of our present trajectory. 
+We have co-created [[LIONSBERG]] as a [[Way]] for humanity to leap across the chasm into a flourishing and abundant [[New Era]], and to avoid being dashed upon the rocks of [[Chaos]] that lie at the end of our present trajectory. 
 
 Lionsberg is simply a mythical name that brings together powerful spiritual symbolism into a [[New Vision and Plan]] for humanity. 
 

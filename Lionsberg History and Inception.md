@@ -31,7 +31,7 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - We had network nodes representing hundreds of people watching and wondering.
 - It was reported that the backbone technological infrastructure we had funded was being leveraged by ~170 impact organizations in ~13 countries  
 - Some of the most talented, skilled, and wise people we had ever worked with were surrounding us and investing time, energy, and attention  
-- We realized that in order to have a chance to succeed, we need to move beyond the abstraction of the [[Meta Project]] into actually living it out and embodying it through [[Lionsberg]] 
+- We realized that in order to have a chance to succeed, we need to move beyond the abstraction of the [[Meta Project]] into actually living it out and embodying it through [[LIONSBERG]] 
 
 ## State as of April 2023 
 
@@ -62,11 +62,14 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 Published additional works, such as: 
 
 1. [[Most People Have No Idea What Is Coming]]  
-2. [[An Alternative to Apocalypse - The New Covenant]]  
-3. [[The Dawn of the New World]]  
-4. Other [[Lionsberg Wiki Books]] 
+2. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]
+3. [[An Alternative to Apocalypse - The New Covenant]]  
+4. [[The Dawn of the New World]]  
+5. Other [[Lionsberg Wiki Books]] 
 
-Ran an additional social experiment. 
+Traveled to Barcelona, South Africa, and Dubai. 
+
+Ran a couple more social experiments. 
 
 Constructed broadcast capability by connecting an online recording studio out to Youtube, X, and the leading podcast platforms. 
 
@@ -79,21 +82,25 @@ We recorded the first 4 sample episodes and launched them in September 2023 as p
 
 ## Wrapping Up the Old Life, and Beginning the New
 
-In Q3 2023, as Jordan approached the statute of limitations on the civil rights and corruption claims arising from the destruction of 2019 through 2021 and prepared to weather the storms ahead, he moved his family to a new home base in the mountains of North Idaho, filed a civil rights and corruption lawsuit against the County in federal court, prepared to file bankruptcy to wrap the tens of millions of dollars of claims and counter claims from his old life in a transparent public container, and looked ahead to public broadcasting and resource raising in Q4 2023.   
+In Q3 2023, as Jordan approached the statute of limitations on the civil rights and corruption claims arising from the destruction of 2019 through 2021 and prepared to weather the storms ahead, he moved his family to a new home base in the mountains of North Idaho, filed a civil rights and corruption lawsuit against the County in federal court, prepared to file bankruptcy to wrap the tens of millions of dollars of claims and counter claims from his old life in a transparent public container, and looked ahead to public broadcasting and resource raising. 
 
 ## What's Next 
 
-In Q4 2023, we begin measuring the rate at which we are able to connect up, resource and empower [[The Movement]] towards [[The Goal]]. 
+Next, we intend to begin measuring the rate at which we are able to connect up, resource and empower [[The Movement]] towards [[The Goal]]. 
+
+The simplest way to measure [[The Movement]] will be to monitor membership in [[LIONSBERG]]. 
+
+Our audacious target is to connect and empower roughly 3% of the population, 267 Million people, by 2026.
 
 We aim to progressively realize this Vision and Ideal by: 
 
-1. Progressively discerning, articulating, and embodying the Spirit, Will, and Intention of God  
+1. Progressively discerning, articulating, and embodying the [[Creator's Intent]] for [[Worksite Earth]]    
 2. Broadcasting [[The Message]] to create a field of gravitational attraction 
-3. Inviting individuals and groups to federate via Lionsberg (Every individual receiving up to 20 invitations during [[The 7 Year Window of Crisis and Opportunity]])  
-4. Connecting, equipping, and empowering [[The Community]] of those who respond via a continuously improving set of infrastructure, resources, services, and support   
-5. Creating measurable Impact / Value in service of [[The Goal]]   
-6. Broadcasting [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]] and grow [[The Movement]]  
+3. Extending [[The Invitation]] to those who resonate  (Every individual receiving up to 20 invitations during [[The 7 Year Window of Crisis and Opportunity]])  
+4. Connecting, equipping, and empowering [[The Community]] of those who respond via [[The Lionsberg Experience]] and a continuously improving set of infrastructure, resources, services, and support     
+5. Forging [[Teams]] around [[Projects]] / [[Quests]]  
+6. Co-Creating measurable Impact / Value / Progress in service of [[The Goal]]   
+7. Broadcasting [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]] and grow [[The Movement]]  
+8. Ultimately moving the entire population [[FROM the Old TO the New]] within a single generation 
 
-Every individual and group that connects with Lionsberg will gain equal access to the [[Lionsberg Commons]], which will host an ecosystem of continuously improving resources, tools, services, and technologies to help participants rise towards the fullness of their potential and flourish. 
-
-Individuals and Groups will work together to steward and continuously improve The Movement and The Commons that is helping All rise towards their potential and flourish. 
+Every individual and group that connects with Lionsberg will gain equal access to [[The Lionsberg Experience]] and the [[Lionsberg Commons]], which will host an ecosystem of continuously improving resources, tools, services, and technologies to help participants rise towards the fullness of their potential and flourish in harmony. 

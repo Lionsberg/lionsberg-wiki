@@ -1,6 +1,6 @@
-# Lionsberg
+# LIONSBERG
 
-Lionsberg is a mythical name for the [[New World]] we are designing and building, and the System purpose-built to bring it into Reality. 
+Lionsberg is a mythical name for the [[New World]] we are designing and building, and the System / Ark purpose-built to bring it into Reality. 
 
 The guiding vision and philosophy of Lionsberg is expressed concretely through a community, system, platform and gamified experience purpose-built to help humanity design and build a flourishing and abundant world that works for all its inhabitants without exception. 
 

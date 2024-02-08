@@ -6,7 +6,7 @@ By [[Jordan Nicholas Sukut]]
 ## Table of Contents
 
 [[1.  Introduction]]  
-[[2. Trigger Warning]] 
+[[2. Warning]] 
 [[3. The Story of Lionsberg - A Tale of Unity and Transformation]]  
 [[4.  The Meta Crisis - Understanding Our Shared Challenges]]  
 [[5.  The New Vision and Plan - Charting a Path Towards a Better Future]]  

@@ -27,7 +27,7 @@ Therefore, we are going to strive to connect and empower a [[Group Of Groups]] f
 
 Because it is not possible or desirable to get everyone in one group, we are facilitating the [[Emergence]] of a [[Group Of Groups]] that protects Individual and Local Sovereignty, Culture, and Identity, while affording the opportunity to Co-Operate where that is the [[Wise Right]] thing to do. 
 
-The near term mission of [[Jordan Nicholas Sukut|J]] and [[Lionsberg]] is to serve, connect, empower, and align the distributed [[Group Of Groups]] advancing towards [[The Goal]]. 
+The near term mission of [[Jordan Nicholas Sukut|J]] and [[LIONSBERG]] is to serve, connect, empower, and align the distributed [[Group Of Groups]] advancing towards [[The Goal]]. 
 
 ## A Progression Towards Oneness Through Love
 
@@ -51,7 +51,7 @@ Each of these stages requires a System and Infrastructure to support it, before 
 
 Our next learning exploration will be invite 5 to 20 groups to come into greater awareness and communication with [[One Another]]. 
 
-[[Jordan Nicholas Sukut|J]] and [[Lionsberg]] will do their best to create the set of conditions in which the possibility of advancing towards higher stages of [[Oneness]] can occur. 
+[[Jordan Nicholas Sukut|J]] and [[LIONSBERG]] will do their best to create the set of conditions in which the possibility of advancing towards higher stages of [[Oneness]] can occur. 
 
 
 

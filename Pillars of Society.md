@@ -12,3 +12,5 @@ The Pillars of Society refer to the four interconnected pillars that make up the
     
 
 Together, the Pillars of Society provide the foundation for a healthy and thriving society, one that is able to meet the needs of all its members and foster a sense of connection, purpose, and meaning. By prioritizing the well-being of all individuals and communities, and ensuring that each of the Pillars is strong and functional, we can create a world that works for all.
+
+This concept is expanded into [[The 12 Pillars of Lionsberg]]. 

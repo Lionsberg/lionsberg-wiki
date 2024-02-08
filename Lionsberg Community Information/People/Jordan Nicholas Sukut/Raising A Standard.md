@@ -26,7 +26,7 @@ We stand at a pivotal moment in history, facing the unparalleled threat of the [
 
 In these decisive moments, it is our sacred responsibility as [[Citizens]] to rise as a diverse yet united [[Force For Good]], safeguarding the freedom and prosperity of our families, communities, society, and our precious planet.
 
-Acknowledging that solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures that are creating it, we have diligently spent the last years laying the foundations for a historic [[Citizen Led Response]] through a purpose-built platform known as [[Lionsberg]].
+Acknowledging that solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures that are creating it, we have diligently spent the last years laying the foundations for a historic [[Citizen Led Response]] through a purpose-built platform known as [[LIONSBERG]].
 
 Now, as we enter [[The 7 Year Window of Crisis and Opportunity]], we are inviting the public to review the **[[Lionsberg Manifesto]]** and the **[[New Vision and Plan]]** - a bold, transformative and comprehensive strategy that empowers [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global scales, charting a [[Way]] toward a regenerative, just, and thriving future. We are also unveiling a gamified substructure for [[The Movement]] called [[The Great Game of Lionsberg]], along with the [[Lionsberg Platform]] designed and built to serve, strengthen, equip and unite the [[Force For Good]].
 

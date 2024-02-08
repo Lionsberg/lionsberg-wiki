@@ -10,8 +10,8 @@ ___
 
 What elements of our current [[Reality]] are incompatible with the Massive, Positive, and Good [[Forward Looking Story]] of  [[Where We Are Going]] and [[Who We Are Becoming]] (Individually, Family, Community, Society, Living System)? 
 
-In any element of our current [[Reality]] does not belong in [[Lionsberg]] / the [[New World]], we [[Work Together]] to remove it. 
+In any element of our current [[Reality]] does not belong in [[LIONSBERG]] / the [[New World]], we [[Work Together]] to remove it. 
 
-If it does not belong in the [[New World]], it does not belong in [[Lionsberg]]. #principle 
+If it does not belong in the [[New World]], it does not belong in [[LIONSBERG]]. #principle 
 
 If we see anything that does not belong, we add it to the [[Issue Tracker]].  

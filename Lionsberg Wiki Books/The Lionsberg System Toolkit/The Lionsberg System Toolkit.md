@@ -6,6 +6,8 @@
 - [[Template For Group]]  
 - [[Template For Pattern Language (Detailed)]] 
 - [[Tool For Aiming]]  
+- [[Organizations The Lionsberg Way]]  
+- [[Project Delivery Guide]]  
 
 
 ## **COMING SOON!** 

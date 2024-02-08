@@ -1,6 +1,6 @@
 # Level Of Commitment
 
-Our [[Current Best Understanding]] is that [[Lionsberg]] should instantiate a [[Lionsberg Currency]].  
+Our [[Current Best Understanding]] is that [[LIONSBERG]] should instantiate a [[Lionsberg Currency]].  
 
 This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[Lionsberg Goals]]. 
 
@@ -111,4 +111,4 @@ The voluntary effort towards shared goals will be measured based on a [[Level Of
 
 
 ## Get Stuff Done
-- Via self-organizing and federating small teams, in agreement on [[Level Of Commitment]], who routinely submit and incorporate the [[Value]] they create into [[Lionsberg]]. 
+- Via self-organizing and federating small teams, in agreement on [[Level Of Commitment]], who routinely submit and incorporate the [[Value]] they create into [[LIONSBERG]]. 

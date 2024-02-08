@@ -3696,7 +3696,7 @@ This should be discovered in ever greater Depth.
 ___
 As you begin to gain Power, you understand that you can profoundly shape the world around you, either for Good or for Evil; for your own selfish gain, or for the Gain of the Whole. 
 
-If you are striving towards your own selfish gain, you will try to grasp, you will try to obtain, you will try to own, you will try to capture, you will try to possess to forge your own small or large version of the [[The Game of Empire and Oligarcy]]. Even if your tiny little empire is hundreds of billions of dollars, it is still a tiny little empire. 
+If you are striving towards your own selfish gain, you will try to grasp, you will try to obtain, you will try to own, you will try to capture, you will try to possess to forge your own small or large version of the [[The Game of Empire and Oligarchy]]. Even if your tiny little empire is hundreds of billions of dollars, it is still a tiny little empire. 
 
 The things that are Significant are the transformation and elevation of humanity and the Living System, and the Values and Goods we Co-Create together. 
 

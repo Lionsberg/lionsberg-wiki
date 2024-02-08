@@ -31,7 +31,7 @@ Among the [[Deepest]] Values on the list are:
 - [[Wisdom]]  
 - [[Beauty]]  
 
-From [[Love]], and from these additional Core Values, all other values can be derived. 
+From [[One]] whose nature is [[Love]], and from these additional Core Values, all other values can be derived. 
 
 ## The Universal Derivative Values 
 

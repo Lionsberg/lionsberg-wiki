@@ -70,7 +70,7 @@ The three fronts of battle described in last summer's [public update](https://li
 
 We hope this crucial adjustment will speed the process by forcing citizens to accept or reject me on the basis of Spiritual discernment and resonance, rather than a set of abstract ideas on the basis of intellect. 
 
-Everything we have discussed around [[Lionsberg]] and the [[Meta Project]] still needs to happen, and will happen as our transforming Spirit and consciousness impels us towards Unity with God and One Another through Love. 
+Everything we have discussed around [[LIONSBERG]] and the [[Meta Project]] still needs to happen, and will happen as our transforming Spirit and consciousness impels us towards Unity with God and One Another through Love. 
 
 When the Mission and Goal is the [[Kingdom of God]], [[On Earth As it Is In Heaven]], it is eternal and unchanging. 
 

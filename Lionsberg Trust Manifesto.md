@@ -1,14 +1,14 @@
 # Lionsberg Trust Manifesto
 
-_Updated May 2023_
+_Updated February 2024_
 
-This document serves as a "Trust Manifesto" in response to requests from the community. It aims to establish a comprehensive source of information addressing the core questions people have when encountering something new. For additional information, see also [[Frequently Asked Questions]]. 
+This document serves as a provisional "Trust Manifesto" in response to requests from the community. It aims to establish a comprehensive source of information addressing the core questions people have when encountering something new. For additional information, see also [[Frequently Asked Questions]]. 
 
 This document is a [[Work In Progress]].
 
 ## Name 
 
-[[Lionsberg]] symbolizes the [[New World]] we are co-creating, the Community nurturing it, and the System bringing our shared Vision into Reality. 
+[[LIONSBERG]] symbolizes the [[New World]] we are co-creating, the Community nurturing it, and the System bringing our shared Vision into Reality. 
 
 The [[Meta Project]] describes the all-encompassing Program of Action required for humanity to progressively realize the [[New Vision and Plan]]. 
 
@@ -28,9 +28,9 @@ In 2016 and 2017, [[Jordan]] began discussing the concept of an overarching and 
 
 Unable to identify any existing effort or institution, that if driven to its logical end would accomplish [[The Goal]], Jordan and his allies determined that a [[New]] platform was required. 
 
-After years of legal, governance, and organizational research with dozens of advisors, this eventually led to the founding of [[Lionsberg]]. The Lionsberg [[Provisional Structure]] was approved by the IRS in 2019, and then used to fund the co-creation of the [[Lionsberg Platform]] between 2020 and 2023.
+After years of legal, governance, and organizational research with dozens of advisors, this eventually led to the founding of [[LIONSBERG]]. The Lionsberg [[Provisional Structure]] was approved by the IRS in 2019, and then used to fund the co-creation of the [[Lionsberg Platform]] between 2020 and 2023.
 
-[[Lionsberg]] was purpose-built with the sole intention of manifesting the [[Highest Intention and Greatest Good]], or the [[Kingdom of God]], [[On Earth As it Is In Heaven]]. 
+[[LIONSBERG]] was purpose-built with the sole intention of manifesting the [[Highest Intention and Greatest Good]], or the [[Kingdom of God]], [[On Earth As it Is In Heaven]]. 
 
 ## Corruption and Injustice 
 
@@ -42,13 +42,13 @@ By early 2022, Jordan and his family were recovering, the dust was settling from
 
 In Q1 2022, Jordan began convening meetings to begin to explore the concept of an all-encompassing [[Meta Project]] larger than any one movement, group, or nation, while teams continued to improve the core infrastructure and articulation of the ideas. 
 
-By late 2022, the pattern for organizing and federating such an effort was becoming clear, and the need to move from the abstraction of the [[Meta Project]] into its concrete expression through [[Lionsberg]] was clear. Because the [[Provisional Structure]] established Lionsberg as a self-governing voluntary association, initially stewarding resources through a 501(c)(3) public charity, it emerged from the two previous years of testing relatively unscathed.
+By late 2022, the pattern for organizing and federating such an effort was becoming clear, and the need to move from the abstraction of the [[Meta Project]] into its concrete expression through [[LIONSBERG]] was clear. Because the [[Provisional Structure]] established Lionsberg as a self-governing voluntary association, initially stewarding resources through a 501(c)(3) public charity, it emerged from the two previous years of testing relatively unscathed.
 
-As we moved into 2023, Jordan published the foundational literature, context, and lexicon on the [[Lionsberg Wiki]], set up the Lionsberg Chat System, ran a couple additional social experiments, and prepared for broadcasting and fundraising. 
+As we moved into 2023, Jordan published the foundational literature, context, and lexicon on the [[Lionsberg Wiki]], set up the Lionsberg Communication System, established broadcast capabilities and recorded pilot episodes, ran a couple additional social experiments, and prepared for broadcasting and fundraising. 
 
 ## Foundational Literature 
 
-In Q1 2023, [[Jordan]] finished roughing out the foundational literature, including: 
+In 2023, [[Jordan]] finished roughing out the foundational literature, including: 
 
 1. [[Lionsberg Manifesto]] 
 2. [[Lionsberg, Simple and Clear]] 
@@ -64,9 +64,10 @@ In Q1 2023, [[Jordan]] finished roughing out the foundational literature, includ
 In Q2 and Q3 2023 as the time grew closer, Jordan published additional works, such as: 
 
 1. [[Most People Have No Idea What Is Coming]]  
-2. [[An Alternative to Apocalypse - The New Covenant]]  
-3. [[The Dawn of the New World]]  
-4. Other [[Lionsberg Wiki Books]] 
+2. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+3. [[An Alternative to Apocalypse - The New Covenant]]  
+4. [[The Dawn of the New World]]  
+5. Other [[Lionsberg Wiki Books]] 
 ## Broadcast Capability 
 
 In Q3, we constructed broadcast capability by connecting an online recording studio out to Youtube, X, and the leading podcast platforms. 
@@ -80,7 +81,7 @@ We recorded the first 4 sample episodes and launched them in September 2023 as p
 
 ## Wrapping Up the Old Life, and Beginning the New
 
-In Q3 2023, as Jordan approached the statute of limitations on the civil rights and corruption claims arising from the destruction of 2019 through 2021 and prepared to weather the storms ahead, he moved his family to a new home base in the mountains of North Idaho, filed a civil rights and corruption lawsuit against the County in federal court, prepared to file bankruptcy to wrap the tens of millions of dollars of claims and counter claims from his old life in a transparent public container, and looked ahead to public broadcasting and resource raising in Q4 2023.   
+In Q3 2023, as Jordan approached the statute of limitations on the civil rights and corruption claims arising from the destruction of 2019 through 2021 and prepared to weather the storms ahead, he moved his family to a new home base in the mountains of North Idaho, filed a civil rights and corruption lawsuit against the County in federal court, prepared to file bankruptcy to wrap the tens of millions of dollars of claims and counter claims from his old life in a transparent public container, and looked ahead to public broadcasting and resource raising.   
 ## Pattern Integrity
 
 The [[Fundamental Tone]], which unifies all aspects of the System, Pattern, and Community, is [[Love]], flowing from the [[Spirit of God]].  [[Absolute And Unconditional Love]] encompasses and calls forth all other [[Values]], such as Truth, Justice, Stewardship, Wisdom, Goodness, and Beauty, and the full panoply reflected in the [[The Lionsberg System of Values]].
@@ -122,15 +123,15 @@ Individuals and Groups will work together to steward and continuously improve Th
 
 We will do our best to keep updated with [[Where We Are]] on the [[Lionsberg History and Inception]] page, and through [[The Lionsberg Experience]]. 
 
-## Investments Prior to Q3 2023
+## Investments Through 2023
 
-The development work through Q3 2023 was financed by [[Jordan Nicholas Sukut]] through the Lionsberg 501(c)(3) public charity, resulting in a pure, transparent, and publicly accountable structure with no obligations but to [[One]] and [[All]]. 
+The development work through 2023 was financed by [[Jordan Nicholas Sukut]] through the Lionsberg 501(c)(3) public charity, resulting in a pure, transparent, and publicly accountable structure with no obligations but to [[One]] and [[All]]. 
 
 Dozens of people have invested time, ideas, and expertise to help advance the platform and community. 
 
 ## The Path Forward
 
-The journey towards the [[Best Possible Future]] is paved with transformation, collaboration, and unity. It will require the collective effort of every individual, every community, and every nation, as we walk the path together, hand in hand, guided by our shared principles and values.
+The journey towards the [[Best Possible Future]] is paved with transformation, collaboration, and unity. It will require the collective effort of every individual, every community, and every nation, as we walk the [[Path]] together [[FROM the Old TO the New]], hand in hand, guided by our shared principles and values.
 
 For more detail on the [[New Vision and Plan]], see [[Beyond The Meta Crisis - A Blueprint for a Better Future]], and [[Read The Books]]. 
 

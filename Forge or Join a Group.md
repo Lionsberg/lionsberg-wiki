@@ -4,6 +4,6 @@
 
 By forging or joining a group, individuals can leverage their collective power, knowledge, and resources to take on challenges and Quests that would be impossible to tackle alone. These groups can be local or global, and can take many different forms, from grassroots movements to established organizations to online communities.
 
-[[The Great Game of Lionsberg]] provides a platform for individuals and groups to connect, share knowledge and resources, and collaborate on common goals. By forging or joining groups and connecting with [[Lionsberg]], individuals can find support, inspiration, and strategic partnerships that can help them achieve their goals and contribute to the broader movement towards a more just and flourishing future.
+[[The Great Game of Lionsberg]] provides a platform for individuals and groups to connect, share knowledge and resources, and collaborate on common goals. By forging or joining groups and connecting with [[LIONSBERG]], individuals can find support, inspiration, and strategic partnerships that can help them achieve their goals and contribute to the broader movement towards a more just and flourishing future.
 
 For next steps, see [[Forging or Joining a Group]]

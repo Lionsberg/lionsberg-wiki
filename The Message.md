@@ -1,5 +1,5 @@
 # The Message
 
-The Message refers to the simple good news - we are on a mission to invite and inspire all 8 to 10 billion people on earth to become co-creators of a better future for [[All]], within [[The 7 Year Window of Crisis and Opportunity]]. 
+The Message refers to the simple good news - we are on a mission to invite and inspire all 8 to 10 billion people on earth to become co-creators of the [[Best Possible Future]] for [[All]], within [[The 7 Year Window of Crisis and Opportunity]]. 
 
-Our Purpose, Aim, and Goal is the [[Kingdom of God]], [[On Earth As it Is In Heaven]]. 
+Our Purpose, Aim, and Goal is [[Heaven On Earth]].  

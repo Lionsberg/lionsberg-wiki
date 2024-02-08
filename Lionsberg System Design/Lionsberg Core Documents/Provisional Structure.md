@@ -9,7 +9,7 @@ Here is a 30 minute introductory discussion from its creators:
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts: 
-1. At the deepest level, [[Lionsberg]] and the [[Meta Project]] are reflections of a [[Meta Idea]] we are trying to bring into reality.  
+1. At the deepest level, [[LIONSBERG]] and the [[Meta Project]] are reflections of a [[Meta Idea]] we are trying to bring into reality.  
 2. One level up from [[Meta Idea]] is the voluntary association / community of individuals around the world working together towards this end.  
 3. One level up from individuals are those individuals and organizations formally engaged in [[Federating]].    
 

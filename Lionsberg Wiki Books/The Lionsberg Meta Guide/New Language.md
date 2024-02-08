@@ -22,7 +22,7 @@ Thus, the first thing that was created was the [[Idea]] of a sovereign and right
 
 We called this the [[Meta Goal]]. 
 
-Being so constituted, [[Lionsberg]] began to discern in community what was the highest intention and greatest good, and to establish practices for such discernment.
+Being so constituted, [[LIONSBERG]] began to discern in community what was the highest intention and greatest good, and to establish practices for such discernment.
 
 After numerous iterations, a placeholder description was established as a North Star / Ideal / [[Meta Goal]] to guide the community:
 

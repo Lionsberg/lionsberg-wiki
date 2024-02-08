@@ -10,9 +10,9 @@ ___
 
 What elements of the Massive, Positive, and Good [[Forward Looking Story]] of  [[Where We Are Going]] and [[Who We Are Becoming]] (Individually, Family, Community, Society, Living System) are missing? 
 
-If [[Lionsberg]] / the [[New World]] is lacking in anything, we work together to fill it up. 
+If [[LIONSBERG]] / the [[New World]] is lacking in anything, we work together to fill it up. 
 
-If it belongs in the [[New World]], it belongs in [[Lionsberg]].  
+If it belongs in the [[New World]], it belongs in [[LIONSBERG]].  
 
 If we see anything that is missing, we check to see if it in already contained in the [[Lionsberg Plans and Specifications]]. If it is, we make sure it is appropriately prioritized and linked in the [[System Wide Master Plan]]. 
 

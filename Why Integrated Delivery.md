@@ -13,7 +13,7 @@ The general answer is simple:
 
 These results have been demonstrated around the world on projects large and small. These practices rest on solid, tested, conceptual and pragmatic foundations that lead to [[Continuous Improvement]], cost savings, time savings, and better [[Quality]].  
 
-This guide is being developed as a living document that describes how the [[Lionsberg]] Meta Project and associated infrastructure and systems will be designed, built, and operationalized. It also describes how any [[Sovereign]] individual, organization, or community can [[Participation|Participate]] as a free, autonomous and empowered agent of transformation.
+This guide is being developed as a living document that describes how the [[LIONSBERG]] Meta Project and associated infrastructure and systems will be designed, built, and operationalized. It also describes how any [[Sovereign]] individual, organization, or community can [[Participation|Participate]] as a free, autonomous and empowered agent of transformation.
 
 The Guide is divided into four main sections that discuss: 
 

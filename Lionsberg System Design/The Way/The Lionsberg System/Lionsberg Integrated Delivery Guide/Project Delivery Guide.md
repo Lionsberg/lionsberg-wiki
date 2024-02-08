@@ -23,12 +23,12 @@ It also dramatically increases the probability that the Organization will [[Succ
 ## 3.1.3 Project Process
 The project process through which [[1. Intention]] is brought into [[Reality]] can be thought of as encompassing 6 basic steps: 
 
-1. Intention
-2. Analysis
-3. Engagement
-4. Planning
-5. Action
-6. Continuous Learning and Improvement
+1. Intention / Vision  
+2. Analysis  
+3. Engagement  
+4. Planning  
+5. Action  
+6. Continuous Learning and Improvement. 
 
 ### 3.1.3.1 Step 1: Intention
 The first step is to ensure that all Participants share the same vision, intention, and goal. If the project were a Quest, this would be akin to understanding [[Where We Are Going]] and [[Why]].  
