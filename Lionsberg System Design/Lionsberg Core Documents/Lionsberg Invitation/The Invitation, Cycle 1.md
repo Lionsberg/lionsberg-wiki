@@ -13,13 +13,13 @@ Because Lionsberg is *invitation only*, the first members will be absolutely cru
 
 Like the Fellowship of the Ring, this invitation to the first few is a daring call to adventure into the [[Unknown]],  to do what has not been done before in service of [[One]] and [[All]]. 
 
-Members will need to demonstrate, enact, and embody the [[Way]] we want humanity to be. This [[Path]] will require Discipline, Learning, Growth, Sacrifice, and Hard Work. It will require that we learn to co-operate and continuously improve. The farther we [[Progress]], the more dangerous, challenging, and exciting it will become.
+Members will need to demonstrate, enact, and embody the [[Way]] we want the future to be. This [[Path]] will require Discipline, Learning, Growth, Sacrifice, and Hard Work. It will require that we learn to co-operate and continuously improve. The farther we [[Progress]], the more dangerous, challenging, and exciting it will become.
 
 And together we can make it the most meaningful, joyful, fulfilling experience of our lives. 
 
 With the future of humanity and life on earth hanging in the balance, I am inviting you to join me for the adventure of a lifetime. 
 
-Please let me know if you are in as a founding member by Sunday the February 11th. 
+Please let me know if you are in as a founding member ASAP, no later than Sunday February 11th. 
 
 Since the first cycle requires only one person to accept the invitation, and since my wife has agreed, next week we will begin Cycle 2 no matter what with whoever is willing to join us :) 
 
