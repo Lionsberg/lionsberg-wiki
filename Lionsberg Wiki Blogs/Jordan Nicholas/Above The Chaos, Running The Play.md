@@ -23,9 +23,9 @@ It simply requires that enough people *believe*.
 - Over the next seven years, every human on Earth will be invited to join. Membership requires: 
 	1. Invitation  
 	2. Acceptance  
-	3. Ongoing commitment to The Rules / Principles / Values of Lionsberg  
+	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
 - After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members earn Citizenship.  
-- Citizenship in Lionsberg = Citizenship and Self-Governance in the New World.  
+- *If enough people believe*: Citizenship in Lionsberg = Citizenship and Self-Governance in the New World.  
 - Initial Target: connect and empower 3% of the world's population / 40 growth cycles / 267 Million People by 2026.  
 ## Cycles of Expansion 
 
