@@ -1,6 +1,6 @@
 # Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network
 
-By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.01.29)_
+By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.02.14)_
 
 A post in [[Above The Chaos]]  
 
