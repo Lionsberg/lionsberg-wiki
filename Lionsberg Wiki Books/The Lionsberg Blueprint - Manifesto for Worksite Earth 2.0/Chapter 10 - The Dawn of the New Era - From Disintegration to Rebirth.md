@@ -31,7 +31,7 @@ The New Era is sustained by pillars that are essentially the applied aspects of 
 
 Just as the pragmatic mind, body, and wings of the butterfly must actually and pragmatically be built according to the Divine Blueprint, so too must we consciously Co-Create the structures and pillars of the New Era. 
 
-While they could be expressed in thousands of different ways, [[The 12 Pillars of Lionsberg]], discussed more full elsewhere in the Blueprint, aim to provide a pragmatic and actionable guide for implementation of the essentials and main organ systems that allow our New Life to function and flourish. 
+While they could be expressed in thousands of different ways, [[The Twelve Pillars of Lionsberg]], discussed more full elsewhere in the Blueprint, aim to provide a pragmatic and actionable guide for implementation of the essentials and main organ systems that allow our New Life to function and flourish. 
 
 The pillars are: 
 

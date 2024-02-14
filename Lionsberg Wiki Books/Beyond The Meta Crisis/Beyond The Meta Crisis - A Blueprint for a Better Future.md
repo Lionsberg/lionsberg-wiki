@@ -234,7 +234,7 @@ By [[Jordan Nicholas Sukut]]
 
 ## Section XI: Tools and Resources For Action 
 
-[[The Lionsberg System Toolkit]] is coming soon! 
+[[The Lionsberg Toolkit]] is coming soon! 
 
 ## Section XII: Appendices
 

@@ -6,7 +6,7 @@ A post in [[Above The Chaos]]
 
 ## Introduction
 
-Ok, after 7 years of concentrated preparation, my [[Current Best Understanding]] is that the [[The 7 Year Window of Crisis and Opportunity]] is upon us and it is time to run [[The Play]], or [[Die Trying]]. 
+Ok, after 7 years of concentrated preparation, my [[Current Best Understanding]] is that the [[The 7 Year Window of Crisis and Opportunity]] is upon us and it is time to run [[The Play]]. 
 
 The [[Lionsberg Trust Manifesto]] and [[Lionsberg History and Inception]] detail [[How We Got Here]].  
 
@@ -20,11 +20,12 @@ It simply requires that enough people *believe*.
 
 - We built a clean, independent new container with the systems and infrastructure to facilitate [[The Movement]] - [[FROM the Old TO the New]].  
 - The container was given the mythical name of [[LIONSBERG]].  
-- Over the next seven years, every human on Earth will be invited to join. Membership requires: 
+- Over the next seven years, every human on Earth will be invited by someone they know and love to join. 
+- Membership requires: 
 	1. Invitation  
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
-- After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members earn Citizenship.  
+- After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.  
 - *If enough people believe*: Citizenship in Lionsberg = Citizenship and Self-Governance in the New World.  
 - Initial Target: connect and empower 3% of the world's population / 40 growth cycles / 267 Million People by 2026.  
 ## Cycles of Expansion 
@@ -91,7 +92,7 @@ The succeed in [[The Quest]], members present in each Cycle must discern, embody
 3. Jordan will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
 4. Those who resonate will be encouraged to [Join The Movement](https://jordannicholas.org/join_the_movement) via Jordan's website (*not Lionsberg, which must remain invitation only*)  
 5. In February 2024, Jordan will invite a select few to become founding members of Lionsberg   
-6. The **Lionsberg Members** in each Cycle will all extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
+6. The **Lionsberg Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
 7. We will attempt to progress through the Milestones as quickly as possible without sacrificing [[Quality]] to [[Quantity]]  
 8. The Lionsberg Members in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
 9. [[Everything Is A Project]]  

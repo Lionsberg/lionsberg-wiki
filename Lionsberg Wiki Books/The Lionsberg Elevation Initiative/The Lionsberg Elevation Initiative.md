@@ -100,4 +100,4 @@ By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and App
 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 [[The Lionsberg Pattern Language]]  
-[[The Lionsberg System Toolkit]]  
+[[The Lionsberg Toolkit]]  

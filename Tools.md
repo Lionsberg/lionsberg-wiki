@@ -20,7 +20,7 @@ Tools also facilitate the elimination of [[Waste]].
 
 [[Tools]] used improperly or merely for form usually create [[Waste]] rather than [[Value]]. 
 
-Tools are stored and continuously improved in the [[The Lionsberg System Toolkit]]. 
+Tools are stored and continuously improved in the [[The Lionsberg Toolkit]]. 
 
 Tools help individuals, groups, and localities embody [[The Lionsberg Pattern Language]]
 

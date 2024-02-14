@@ -28,7 +28,7 @@ To provide clarity and understanding, this section outlines key terms and concep
 
 **[[Capacity Building]]**: The process of developing and strengthening the skills, abilities, resources, and processes that individuals, organizations, and communities need to survive, adapt, and thrive in a changing world.
 
-**[[Six Step Process]]**: A structured approach to transformation that can be applied at any level of analysis (individual, group, community, or systemic). The Six Step Process consists of: 1. Vision and Story, 2. Analysis and Understanding, 3. Engagement, 4. Strategy and Planning, 5. Action, and 6. Measurement, Evaluation, and Continuous Improvement.
+**[[The Seven Steps of Transformation]]**: A structured approach to transformation that can be applied at any level of analysis (individual, group, community, or systemic). The Six Step Process consists of: 1. Vision and Story, 2. Analysis and Understanding, 3. Engagement, 4. Strategy and Planning, 5. Action, and 6. Measurement, Evaluation, and Continuous Improvement.
 
 **[[Right Relationship]]**: A state of harmony, balance, and mutual respect between individuals, communities, the natural world, and Source, rooted in a recognition of the interconnectedness and interdependence of all life. Right relationship is a guiding principle of the [[New Vision and Plan]] and the [[Lionsberg System]], and involves fostering a deep commitment to justice, compassion, and social, economic, and ecological stewardship.
 

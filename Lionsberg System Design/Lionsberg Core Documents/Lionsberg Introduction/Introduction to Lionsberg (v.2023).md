@@ -96,7 +96,7 @@ Additionally, by investing the resources generated in the co-creation and streng
 
 ### 6. A New Operating System 
 
-Ultimately, the Lionsberg System is designed as a comprehensive new human operating system, serving and enabling transformative collaboration and resource flows across [[The 12 Pillars of Lionsberg]], while solving the problem of ***Individual and Local Agency, Empowerment, and Collaboration*** in the face of the [[Meta Crisis]].  
+Ultimately, the Lionsberg System is designed as a comprehensive new human operating system, serving and enabling transformative collaboration and resource flows across [[The Twelve Pillars of Lionsberg]], while solving the problem of ***Individual and Local Agency, Empowerment, and Collaboration*** in the face of the [[Meta Crisis]].  
 
 ### 7. Emergence, Transformation, and Continuous Improvement 
 

@@ -116,16 +116,19 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 9. Animal Kingdom 
 10. Humans  
 11. Families  
-12. Tribes  
-13. Communities  
-14. Bio Regions  
-15. Geographic Regions  
-16. Nations  
-17. The Human System  
-18. The Living System  
-19. The Lionsberg System  
-20. The Meta System  
-21. Source  
+12. Groups  
+13. Tribes  
+14. Communities  
+15. Bio Regions  
+16. Geographic Regions  
+17. Nations  
+18. Planets  
+19. Solar Systems  
+20. The Human System  
+21. The Living System  
+22. The Lionsberg System  
+23. The Meta System  
+24. Source  
 
 
 ## Levels of Abstraction in Practice
