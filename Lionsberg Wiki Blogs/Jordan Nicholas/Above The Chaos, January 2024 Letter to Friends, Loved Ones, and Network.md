@@ -23,6 +23,8 @@ If you would like to stay in relationship and help one another as we progress in
 
 My deep desire is to forge out of those who resonate a persistent and growing community / Force For Good, advancing together towards [[The Goal]]. 
 
+I will most likely attempt this by establishing a simple membership organization to connect and empower those who resonate.  
+
 Because we are rapidly approaching the end of our personal resources, the response to our outreach and prayers week by week will determine our next steps, and we will look forward to sharing those with you as they become visible. 
 
 Come what may, it is a joy and an honor to know you. 
