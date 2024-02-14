@@ -1,6 +1,6 @@
 # Above The Chaos, Jordan's January 2024 Manifesto
 
-By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.01.29)_   
+By [[Jordan Nicholas Sukut]], 2024.01.29 _(updated 2024.02.14)_   
 
 A post in [[Above The Chaos]]
 
@@ -10,7 +10,7 @@ As another year in the epic story of the human species aboard planet Earth slips
 
 My current best understanding is that there is a significant nonzero probability that the current order is on the brink of a disorderly collapse. Our house divided against itself will not stand. And it is not obvious that what might arise to take the place of the failing post-WWII Order will better. It is clear that forces of malevolence are consciously accelerating events towards that end. 
 
-The simple solution is Unity. To arise, unite, Seek First The Kingdom of God, and forthrightly wage the war for the future of our civilization. I remain prepared to give my life towards this End. 
+The simple solution is Unity. To arise, unite, Seek First [[The Goal]], and forthrightly wage the war for the future of our civilization. I remain prepared to give my life towards this End. 
 
 This involves reuniting as One Citizenship Under God and assembling an unprecedented global Force For Good to vanquish corruption and injustice, solve the grand challenges, accomplish the global goals, and forge the Best Possible Future for All. 
 
@@ -51,7 +51,7 @@ However it is possible for the wise center two thirds of a tribe or nation to ar
 
 If the citizens of America so desired, we could accomplish this by Citizen Led organizing in each state, and a coordinated write-in campaign with front and back end block chain audits on an electoral system that both parties have claimed is corrupt. I recognize this sounds ridiculous at first, and would be unprecedented in US or human history. However if God and We The People will it to be, it is entirely socially and mathematically possible. Because the Mission of the Kingdom involves the total realignment of power and authority on Earth, realigning the world’s existing center of power and gaining access to our common storehouse of resources and capabilities laid up in the United States government would be a substantial boon and accelerant to the Mission. Additionally, it is likely that the spiritual war will continue to spill over into the physical world, and We will need substantial military and logistical capabilities which at present exist only in sufficiently organized quantities in the United States and its alliances. 
 
-In the event Americans decide to forgo  what is likely the final opportunity to reset the American experiment before it ceases to exist, our efforts to co-create a perpetual global Community / Force For Good whose definite purpose is the Kingdom of God will be of immense value as we work together to navigate the reset of the existing order. 
+In the event Americans decide to forgo  what is likely the final opportunity to reset the American experiment before it ceases to exist, our efforts to co-create a perpetual global Community / Force For Good will be of immense value as we work together to navigate the reset of the existing order. 
 
 It would be incredibly foolish and likely genocidal to consciously allow the existing order to undergo a disorderly collapse. A voluntary and consciously designed transcendence into an intentionally designed Future is a far superior and less risky strategy. However it is up to Us, the people, to decide. Those of us who desire to do so can immediately find One Another and begin regardless of the outcome for any specific tribe or nation. I will be on the battlefield if you would like to join us. 
 
