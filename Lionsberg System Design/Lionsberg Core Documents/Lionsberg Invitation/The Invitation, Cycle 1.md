@@ -87,9 +87,9 @@ All Progress will be made by decentralized, self-governing and autonomous Teams 
 ____
 ## Conclusion and Call to Action
 
-With the future of humanity and life on earth hanging in the balance, I am inviting you to join me for the adventure of a lifetime. 
+With the future of humanity and life on earth hanging in the balance, I invite you to join me for the adventure of a lifetime. 
 
-Please let me know via email or text if you would like to play ASAP. As soon as the first individual accepts The Invitation, The Great Game will begin. I would love to start playing Monday February 19th if you are willing. 
+Please let me know via email or text if you would like to play ASAP. As soon as the first individuals accept The Invitation, The Great Game will begin. I would love to start playing Monday February 19th if you are willing. 
 
 It is all on the line. This may be our last shot. Let's not fail. 
 
@@ -99,6 +99,3 @@ Onward Towards [[The Goal]],
 
 P.S. if you would like to catch up in more detail, see [[Above The Chaos]], or in particular [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]] and [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network|January 2024 Letter to Friends, Loved Ones, and Network]]. 
 
-I am doing my best to have a consolidated book out by early March that brings together the core concepts the [[Lionsberg Wiki Books]] in less than 30,000 words. 
-
-I look forward to seeing you soon! 
