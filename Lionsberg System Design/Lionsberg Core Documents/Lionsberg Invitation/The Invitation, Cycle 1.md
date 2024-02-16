@@ -35,6 +35,8 @@ Over the next seven years, as the world shakes and transforms in unprecedented w
 
 The New Game will retain the best features of our existing world, while affording the significant new benefits, capabilities, and higher order functional unity required to meet the needs, solve the problems, and accomplish the goals at hand in this New Millennium. 
 
+If we [[All]] decided to play The Game, it would simply become the New Way we worked together, made decisions, solved problems, accomplished goals, and governed our selves as a human species. 
+
 _____
 
 ## The Quest Towards The Goal 
@@ -52,6 +54,8 @@ Succeeding in The Quest requires that we work together to awaken and liberate ev
 ...confront and overcome [[The Giants]]... 
 
 ...prevail in [[The War]]... 
+
+...transform our weapons into tools of life... 
 
 ...and co-create a thriving society and flourishing world that continues to get a little better every day as we work together in harmony to make it so. 
 
