@@ -15,6 +15,8 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## February 2024 
 
+- [[Above The Chaos, The Invitation]]  
+- [[Above The Chaos, Reconciling the Critical Path]]  
 - [[Above The Chaos, Running The Play]]  
 ## January 2024
 
@@ -77,7 +79,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - **The Next Experiment** - Launch next social experiment September 1 with release of first two podcasts  
 ## April / May / June 2023
 
-April / May / June 2023 were spent preparing two Pioneer cohorts to embark and see if we could spark a chain reaction. Below is a sample of orientation materials we were working through. Based on our learnings and discernment, we reset the experiment in July and August towards reaching a larger audience with a more decentralized model, and then launched the next experiment September 1st. 
+April / May / June 2023 were spent preparing two Pioneer cohorts to embark and see if we could spark a chain reaction. Below is a sample of orientation materials we were working through. Based on our learnings and discernment, we reset the experiment in July and August towards reaching a larger audience with a more decentralized model. 
 
 - [[Lionsberg Orientation and Training System]]  
 - [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
