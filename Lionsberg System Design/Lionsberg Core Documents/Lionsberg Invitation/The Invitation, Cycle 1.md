@@ -9,7 +9,7 @@ As you know from [[Above The Chaos]] and the [[Lionsberg Wiki Books]], my [[Curr
 
 In 10 years, our lives and our world will look dramatically different. Armed with tools 10x more powerful than anything humanity has possessed in history, the vessel of society will rapidly accelerate towards the logical end of the trajectory *we choose.*
 
-I am deeply concerned that our current trajectory is fundamentally defined by deep patterns of failure, including abjectly corrupt power structures weaponizing deceit and ever-more-powerful force to keep humanity and our planet divided, conquered, and exploited. 
+I am deeply concerned that our current trajectory is fundamentally defined by deep patterns of failure, including abjectly corrupt power structures weaponizing deceit and ever-more-powerful tools and technologies to keep humanity and our planet divided, conquered, and exploited. 
 
 There is a significant non-zero probability that the corrupted existing Order is failing, and that what is rising to take its place on the other side of [[Collapse]] and [[World War]] will be *far worse*. 
 
@@ -27,7 +27,7 @@ _____
 
 Anticipating this moment, over the last seven years, I worked with allies around the world to forge a vision, system, platform, strategy, and plan to ***invite*** humanity to wake up, change course, avert catastrophe, and work together to co-create the best possible future for All.
 
-The last two years, the technological backbone was tested with hundreds of groups in dozens of countries, and I experimented and learned that the only unit of agency on earth that can move and respond quickly and wisely enough is ***The Individual***. 
+The last two years, the technological backbone was tested with hundreds of groups in dozens of countries, and we experimented and learned that the only unit of agency on earth that can move and respond quickly and wisely enough is ***the Individual***. 
 
 ## Where We Are Going 
 
@@ -62,7 +62,7 @@ Succeeding in The Quest requires that we work together to awaken and liberate ev
 ____
 ## Milestones and Measurement 
 
-Because none of us aboard Earth can reach the [[The Promised Land]] unless and until we [[All]] do, the [[Milestones]] that mark the Way are determined by how far how many individuals have progressed on [[The Quest]] towards [[The Goal]].  
+Because none of us aboard Earth can reach [[The Goal]] unless and until we [[All]] do, the [[Milestones]] that mark the Way are determined by how far how many individuals have progressed on [[The Quest]] towards [[The Goal]].  
 
 _____
 ## An Invitation To Play 
@@ -78,11 +78,11 @@ This invitation to *The Fellowship of The Quest* is a daring call to adventure i
 ___
 ## An Offer, and Request 
 
-What I have to offer each Player in The Great Game is all that I am, the adventure of a lifetime, and a transformational program of personal development that will not leave any of us the same. Additionally, I can offer membership in Lionsberg, and thereby access to the Community and Commons of resources, relationships, infrastructure, and technology we have curated together as an empowering starting point. We have invested and sacrificed millions of dollars and far more blood, sweat and tears to create the starting point. It is my gift to you. 
+What I have to offer each Player in The Great Game is all that I am, the adventure of a lifetime, and a transformational program of personal development that will not leave any of us the same. Additionally, I can offer membership in Lionsberg, and thereby access to the Community and Commons of resources, relationships, infrastructure, and technology we have curated together as an empowering starting point. We have invested and sacrificed millions of dollars and far more blood, sweat and tears to create the starting point. It is my opening gift. 
 
-What I request of each Player is a Commitment to play by The Rules, to co-operate in a Spirit of Power and Love, and to reciprocally contribute a predictable amount of time and resources each week to help advance the Critical Path towards The Goal. 
+What I request of each Player is a Commitment to play by The Rules, to co-operate in a Spirit of Power and Love, and to reciprocally contribute a reliable percentage of your available flow of time and resources to help advance the Critical Path towards The Goal. 
 
-All Progress will be made by decentralized, self-governing and autonomous Teams that Players are responsible for self-organizing. Teams can leverage the Lionsberg infrastructure to raise funds and resource aligned Quests. All Teams are expected to share the first 1/10th of their available flow of time and resources to coordinating with, governing and empowering the Whole as we advance together in harmony towards The Goal. 
+All Progress will be made by decentralized, self-governing and autonomous Teams that Players are responsible for self-organizing. Teams can leverage the Lionsberg infrastructure to raise funds and resource aligned Quests. Teams will share the first 1/10th of their available flow of time and resources to coordinating with, governing and empowering the Whole as we advance together in harmony towards The Goal. 
 
 ____
 ## Conclusion and Call to Action
