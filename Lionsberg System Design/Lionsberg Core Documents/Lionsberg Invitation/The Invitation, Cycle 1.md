@@ -62,7 +62,7 @@ Succeeding in The Quest requires that we work together to awaken and liberate ev
 ____
 ## Milestones and Measurement 
 
-Because none of us aboard Earth can reach the [[The Promised Land]] unless and until we [[All]] do, the [[Milestones]] that mark the Way towards [[The Goal]] are determined by how far how many individuals have progressed on [[The Quest]]. 
+Because none of us aboard Earth can reach the [[The Promised Land]] unless and until we [[All]] do, the [[Milestones]] that mark the Way are determined by how far how many individuals have progressed on [[The Quest]] towards [[The Goal]].  
 
 _____
 ## An Invitation To Play 
@@ -71,7 +71,7 @@ In [[Above The Chaos, Running The Play|Running The Play]], I laid out a simple p
 
 It simply requires that a wise right group of initial players commit to working together to do *whatever is required to iterate the next cycle and advance the play*. Come what may. 
 
-Because The Game is *invitation only*, the first players will be absolutely crucial in shaping the Culture, forming the early Teams, inviting in subsequent Players, and ensuring that The Quest progresses, avoids failure, and succeeds. 
+Because The Game is *invitation only*, the first players will be crucial in shaping the Culture, forming the early Teams, inviting in subsequent Players, and ensuring that The Quest progresses, avoids failure, and succeeds. 
 
 This invitation to *The Fellowship of The Quest* is a daring call to adventure into the [[Unknown]], to Progress towards [[The Goal]], and to do what has not been done before in service of [[One]] and [[All]]. 
 
