@@ -44,3 +44,7 @@ Milestones are significant markers that represent progress towards a goal or obj
 ## Conclusion
 
 Milestones are an important component of the Personal Planning Tool in the Lionsberg System, and are used to help individuals track progress towards the shared Vision and Goals, and their personal vision and purpose. By using the Milestone Template and Tracking Tool, individuals can define, track, and measure progress towards their goals, and continuously improve their Personal System of Work.
+
+## The Critical Path Towards The Goal 
+
+For The Great Game / Meta Project as a Whole, the milestones are based on how many people are helping one another progress along the Critical Path towards [[The Goal]]. See [[Cycles of Expansion]] for the sequence of Milestones. 

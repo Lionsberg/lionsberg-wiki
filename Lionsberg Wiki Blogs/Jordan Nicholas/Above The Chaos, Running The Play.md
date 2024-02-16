@@ -1,6 +1,6 @@
 # Above The Chaos, Running The Play
 
-By [[Jordan Nicholas Sukut]], 2024.02.08 _(updated 2024.02.08)_
+By [[Jordan Nicholas Sukut]], 2024.02.08 _(updated 2024.02.16)_
 
 A post in [[Above The Chaos]]  
 
@@ -19,20 +19,18 @@ It simply requires that enough people *believe*.
 [[The Play]] is simple. 
 
 - We built a clean, independent new container with the systems and infrastructure to facilitate [[The Movement]] - [[FROM the Old TO the New]].  
-- The container was given the mythical name of [[LIONSBERG]].  
-- Over the next seven years, every human on Earth will be invited by someone they know and love to join. 
-- Membership requires: 
+- Over the next seven years, every human on Earth will be invited by someone they know and love to Join Us in playing a New Game. 
+- Playing the Game / Membership requires: 
 	1. Invitation  
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
-- After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.  
-- *If enough people believe*: Citizenship in Lionsberg = Citizenship and Self-Governance in the New World.  
-- Initial Target: connect and empower 3% of the world's population / 40 growth cycles / 267 Million People by 2026.  
+- After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.   
+- Initial Target: connect and empower 3% of the world's population / 40 [[Cycles of Expansion]] / 267 Million People by 2026.   
 ## Cycles of Expansion 
 
 We have mapped 50 [[Milestones]] based on cyclical expansion of [[The Movement]] along the [[Fibonacci]] sequence.  
 
-The succeed in [[The Quest]], members present in each Cycle must discern, embody, and enact whatever is required to reach the next Milestone, building the infrastructure, resources, and support as they go. 
+To progress and succeed in [[The Quest]], the Players present in each Cycle must discern, embody, and enact whatever is required to reach the next Milestone, building the infrastructure, resources, and support as they go. 
 
 - Cycle 1: 2 Members  
 - Cycle 2: 3 Members  
@@ -87,6 +85,8 @@ The succeed in [[The Quest]], members present in each Cycle must discern, embody
 
 ## How The Play Works 
 
+Now that the [[7 Year Window of Preparatory Work and Learning]] are complete and the [[7 Year Window of the Crisis and Opportunity]] is at hand: 
+
 1. The Advisory Council will coach, advise, monitor progress, and help resource the [[Critical Path]]  
 2. Jordan will quarterback [[The Play]]  
 3. Jordan will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
@@ -94,23 +94,26 @@ The succeed in [[The Quest]], members present in each Cycle must discern, embody
 5. In February 2024, Jordan will invite a select few to become founding members of Lionsberg   
 6. The **Lionsberg Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
 7. We will attempt to progress through the Milestones as quickly as possible without sacrificing [[Quality]] to [[Quantity]]  
-8. The Lionsberg Members in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
-9. [[Everything Is A Project]]  
-10. [[Every Project Is A Quest]]  
-11. [[Quests Are Undertaken By Teams]]  
-12. Because [[The Means Are The Ends]], each Cycle must imagine, embody and enact the [[Way]] they would like the world to be, so that as we invite [[All]] to [[Join Us]], day by day we are actively co-creating the [[New World]].  
+8. The Players / Lionsberg Members in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
+9. [[Everything Is A Project]], and every Project is a Quest 
+10. Quests are undertaken by self-governing, self-sustaining, and self-replicating teams   
+11.  Teams spend 1/10th of their time and resources governing and coordinating the Whole 
+12. Because [[The Means Are The Ends]], each Cycle must imagine, embody and enact the [[Way]] they would like the world to be, so that as we progressively invite [[All]] to [[Join Us]], day by day we are actively co-creating the [[New World]].  
 
 ## Baseline Actions For Every Cycle 
 
 - Create a [[Plan]]  
 - Perform a [[Retrospective]]  
-- Issue a [[Request For Guidance]]  
-- Improve [[The Messenger(s)]]  
-- Improve [[The Message]]  
-- Improve [[The Story]]  
-- Improve [[The Invitation]]  
-- Improve [[The Lionsberg Experience]]  
+- Issue a [[Request For Guidance]] to existing Players and Teams  
+- Tell [[The Story]]  
 - Update [[Lionsberg History and Inception]]  
+
+Additional items for continuous improvement: 
+- [[The Messenger(s)]]  
+- [[The Message]]  
+- [[The Story]]  
+- [[The Invitation]]  
+- [[The Lionsberg Experience]]  
 
 
 

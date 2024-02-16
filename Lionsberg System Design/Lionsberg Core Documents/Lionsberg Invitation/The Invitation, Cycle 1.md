@@ -99,4 +99,6 @@ Onward Towards [[The Goal]],
 
 P.S. if you would like to catch up in more detail, see [[Above The Chaos]], or in particular [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]] and [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network|January 2024 Letter to Friends, Loved Ones, and Network]]. 
 
-I hope you see you soon. 
+I am doing my best to have a consolidated book out by early March that brings together the core concepts the [[Lionsberg Wiki Books]] in less than 30,000 words. 
+
+I look forward to seeing you soon! 
