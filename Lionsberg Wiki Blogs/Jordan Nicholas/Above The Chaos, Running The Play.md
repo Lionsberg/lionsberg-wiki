@@ -1,6 +1,6 @@
 # Above The Chaos, Running The Play
 
-By [[Jordan Nicholas Sukut]], 2024.02.08 _(updated 2024.02.16)_
+By [[Jordan Nicholas Sukut]], 2024.02.08 _(updated 2024.02.19)_
 
 A post in [[Above The Chaos]]  
 
@@ -19,8 +19,8 @@ It simply requires that enough people *believe*.
 [[The Play]] is simple. 
 
 - We built a clean, independent new container with the systems and infrastructure to facilitate [[The Movement]] - [[FROM the Old TO the New]].  
-- Over the next seven years, every human on Earth will be invited by someone they know and love to Join Us in playing a New Game. 
-- Playing the Game / Membership requires: 
+- Over the next seven years, every human on Earth will be invited by someone they know and love to Join Us on our Quest towards [[The Goal]]. 
+- Membership requires: 
 	1. Invitation  
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
@@ -88,13 +88,13 @@ To progress and succeed in [[The Quest]], the Players present in each Cycle must
 Now that the [[7 Year Window of Preparatory Work and Learning]] are complete and the [[7 Year Window of the Crisis and Opportunity]] is at hand: 
 
 1. The Advisory Council will coach, advise, monitor progress, and help resource the [[Critical Path]]  
-2. Jordan will quarterback [[The Play]]  
-3. Jordan will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
-4. Those who resonate will be encouraged to [Join The Movement](https://jordannicholas.org/join_the_movement) via Jordan's website (*not Lionsberg, which must remain invitation only*)  
+2. I will do my best to lead and inspire 
+3. [[The Messenger(s)]] will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
+4. Those who resonate will be encouraged to [Join The Movement](https://jordannicholas.org/join_the_movement)     
 5. In February 2024, Jordan will invite a select few to become founding members of Lionsberg   
 6. The **Lionsberg Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
 7. We will attempt to progress through the Milestones as quickly as possible without sacrificing [[Quality]] to [[Quantity]]  
-8. The Players / Lionsberg Members in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
+8. The participants in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
 9. [[Everything Is A Project]], and every Project is a Quest 
 10. Quests are undertaken by self-governing, self-sustaining, and self-replicating teams   
 11.  Teams spend 1/10th of their time and resources governing and coordinating the Whole 
@@ -106,6 +106,7 @@ Now that the [[7 Year Window of Preparatory Work and Learning]] are complete and
 - Perform a [[Retrospective]]  
 - Issue a [[Request For Guidance]] to existing Players and Teams  
 - Tell [[The Story]]  
+- Extend [[The Invitation]]  
 - Update [[Lionsberg History and Inception]]  
 
 Additional items for continuous improvement: 
