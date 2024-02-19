@@ -377,13 +377,13 @@ Gradually, from myriad perspectives, they pieced together the grim reality. With
 
 An awakened scientist revealed that even the rainwater in Earth's most remote areas was tainted with toxic chemicals.
 
-An awakened politician warned that the Keepers of the Caves were steering their captives toward a global war.
+An awakened politician warned that the Keepers of the Caves were steering their captives toward a global war. 
 
 An awakened pastor informed the others that spiritual leaders were being silenced, beaten, ostracized, and even killed if they did not parrot the lines of the [[Power Structures]]. 
 
-An awakened economist informed the others that the financial and monetary systems had come unmoored from [[Reality]], and were floating away towards failure and collapse. 
+An awakened economist informed the others that the financial, debt, and monetary systems had come unmoored from [[Reality]], and were floating away towards failure and collapse. 
 
-An awakened teacher revealed the school curriculums' deep corruption, indoctrinating children into failure, division, dysfunction, and despair.
+An awakened teacher revealed the school curriculums' deep corruption, indoctrinating children into failure, division, dysfunction, despair, and false ideologies. 
 
 An awakened worker highlighted the widening opportunity gap between the many and the few reaching a critical breaking point. 
 
@@ -421,14 +421,18 @@ An awakened juror informed the others about the extraordinary rates of instituti
 
 An awakened senior informed the others about the degree of elder abuse and neglect, and the tremendous suffering, loneliness, and alienation of the older generations. 
 
+An awakened technologist sounded the alarms about the accelerating efforts to deploy artificial intelligence and robotics in war, and the numerous existential threats and opportunities posed by AI. 
+
 And it was evident to All that after generations imprisoned in [[The Caves]], any semblance of uniting [[Vision]] and [[Values]] had been destroyed. Society was divided against itself and the Earth, and rapidly failing. 
 
 These are but a small sampling of the stories that specialists in a diverse array of [[Domains]] told one another. The varied reports from different perspectives wove together a tapestry of crises, each thread revealing more and more of the underlying [[Meta Crisis]].  
 
-In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing [[Human System]] would survive rapidly approached zero. 
+In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing Order would survive rapidly approached zero. 
 ### The Meta Crisis 
 
-Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. The [[Meta Crisis]] was an unprecedented [[Existential Threat]] that nearly disqualified humanity from ongoing existence aboard Earth. It was a universal challenge that threatened the very fabric of [[Society]], and the [[Living System]] that contained it. 
+Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared lexicon began to emerge, the words progressively illuminating complexities that they previously lacked the language to articulate. 
+
+The [[Meta Crisis]] was an unprecedented [[Existential Threat]] that nearly disqualified humanity from ongoing existence aboard Earth. It was a universal challenge that threatened the very fabric of [[Society]], and the [[Living System]] that contained it. 
 
 Arising from the [[Way of Being]] of the Human Species aboard Planet Earth, they came to understand that the [[Meta Crisis]] demanded a profound and historic [[Citizen Led Response]]. Before it was too late. 
 
@@ -444,23 +448,25 @@ It was as if the overwhelming intensity of the Cold and Darkness of The Caves, c
 
 The awakening was exponential, and spread far more rapidly than anyone would have imagined. It was As If something Deeper was on the move, shaking humanity one by one out of their near-fatal slumber. 
 
-Awakening in the Darkness, feeling the searing Cold and the chilling heat, hearing the chains, and catching flickering glimpses of [[The Chasm]], it was obvious to each as they awakened that it was time to arise, liberate One Another, and *Move*, *NOW.*
+Awakening in the Darkness, feeling the searing Cold and the chilling heat, hearing the chains, and catching flickering glimpses of [[The Chasm]], it was obvious to each as they awakened that it was time to arise, liberate One Another, and *Move, Together, NOW. 
 
 They may not have known yet Where [[They Were Going]] or [[Why]], but it was exceedingly obvious that [[They Could Not Stay Here]]. 
 
-It was also self-evident that What Had Got Them To Where They Were, Divided and Enslaved In The Caves, Would Not Carry Them Forward To Where They Wanted To Go. 
+It was also self-evident that What Had Got Them To Where They Were, Would Not Carry Them Forward To Where They Wanted To Go. 
+
+The conditions were perfectly ripe for a quantum phase shift in the patterns of human existence aboard [[Worksite Earth]]. 
 
 ### Reconstructing The Story 
 
-The Guides among them were wise enough to understand that without a uniting [[Vision]], people perish. 
+The Guides among them were wise enough to understand that without a uniting [[Vision]], they would all perish in [[The Wilderness]] that separated [[The Old]] from [[The New]]. 
 
-They were also wise enough to understand that [[Consciousness]] fundamentally lays its Self out in a [[Narrative Framework]], such that the [[Vision]] had to be contextualized within a uniting [[Story]].  
+They were also wise enough to understand that [[Consciousness]] fundamentally lays its Self out in a [[Narrative Framework]], such that the [[Vision]] had to be contextualized within an overarching and uniting [[Story]].  
 
 The Project of reconstructing [[The Story]] of humanity aboard [[Vessel Earth]] was one of the most profound early challenges of [[The Quest]]. 
 
-After generations enslaved in [[The Caves]], humanity had entirely lost the plot. It had forgotten Who It Was. It had forgotten Where It Was. It had forgotten Where It Was Going. It had forgotten Why. It had lost the Sacred Vision. 
+After generations enslaved in [[The Caves]], humanity had entirely lost the plot. It had forgotten Who It Was. It had forgotten Where It Was. It had forgotten How It Had Got Here. It had forgotten Where It Was Going. It had forgotten Why. It had lost the Sacred Vision. It had lost The Plot. 
 
-The vast majority of them had spent their entire lives asleep in [[The Caves]], mindlessly repeating, day after day, the words of the Keepers of their cave. 
+The vast majority of them had spent their entire lives asleep in [[The Caves]], mindlessly repeating, day after day, the words of the Keepers of whatever Cave they had been born into. 
 
 The words of [[Keepers of The Caves]] had been progressively weaponized over the generations, growing ever more insidious and neurotoxic, warping the [[Neural Architecture]] of the captives with one primary goal: 
 
@@ -468,23 +474,22 @@ The words of [[Keepers of The Caves]] had been progressively weaponized over the
 
 Above all, the warping of the [[Neural Architecture]] was *consciously designed* to prevent humanity from being able to [[Know]] the [[Truth]] that would inevitably set them free. 
 
-Fortunately, [[The Spirit]] was on the move, revealing [[Truth]] and shattering [[The Chains]]. 
+Fortunately, [[The Spirit]] was on the move, revealing [[Truth]], healing [[Trauma]] and shattering [[The Chains]]. 
 
-With each subtle realization and death of a falsehood, each being was being transformed from within. 
+With each subtle realization and death of a falsehood, each awakening being was being healed and transformed from within. 
 
 ### The New Story 
 
-Understanding the the [[Old Stories]] were inherently false, divisive, and incompatible with [[Where They Were Going]], the early awakeners began co-creating a [[New Story]]. 
+Understanding the the [[Old Stories]] repeated in [[The Caves]] had become corrupted, divisive, and incompatible with [[Where They Were Going]] and [[Why]], the early awakeners began co-creating a [[New Story]]. 
 
-They understood that they would need to reconstruct a shared [[Backward Looking Story]] that contextualized Who They Were, Where They Were, and How They Got There. 
+They understood that the [[Meta Story]] they would need to reconstruct a shared [[Backward Looking Story]] that contextualized Who They Were, Where They Were, and How They Got There. 
 
-Rediscovering Who and Where They Were, they also understood that they would need to reconstruct a shared [[Forward Looking Story]] that contextualized Who They Were Becoming, Where They Were Going, With Who, How, and Why. 
-
+Rediscovering Who and Where They Were, they also understood that the [[Meta Story]] would need to include a shared [[Forward Looking Story]] that contextualized Who They Were Becoming, Where They Were Going, With Who, How, and Why. 
 ### The Story of Stories 
 
-[[The Spirit]] helped them understand that [[The Story]] would need to be both a [[Unity]] and a [[Diversity]]. 
+[[The Spirit]] helped them understand that [[The Story]] would need to be both a [[Unity]] and a [[Diversity]]. And in fact that the closer The Story came to Absolute Unity at the Highest Level of Abstraction, the vaster an array of diversity could flourish within it. 
 
-They began to refer to it as a [[Story of Stories]]. 
+They began to refer to the [[Meta Story]] as a [[Story of Stories]]. 
 
 It would be co-created and [[Emerge]] as each individual, family, group, tribe, and nation awakened, arose, rearticulated their own [[Individual And Local Story]], and wove their unique threads into [[The Story]] that was progressively reorienting and reuniting them [[All]]. 
 
@@ -492,11 +497,33 @@ Day by day, as the [[Individual And Local]] threads of [[The Story]] were woven 
 
 The clearer the [[Image]] became, the more their [[Imagination]] opened, and the more [[Wisdom]], [[Courage]], and [[Strength]] they gained. 
 
-After generations and generations of isolation and conflict, they were discovering that they were no longer alone. 
+After generations and generations of Darkness, Isolation, and Conflict, they were discovering that they were no longer alone. 
 
-As they reconstructed [[The Story]], everyone was consciously aware that they were constructing a Myth. 
+As they reconstructed [[The Story]], everyone was consciously aware that what they were constructing was in essence a Myth. For a soon as they articulated a Word and began to Concretize an aspect of The Story, it fell at least slightly short of the ineffable and Absolute Perfection the Spirit was revealing to them. 
 
-However they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew. 
+However at the same time they understood, that the New Words they were articulating were only an [[Icon]] pointing towards something ineffably Deep, they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew. 
+
+The Story, composed of the Individual and Local Stories of the billions who were awakening, and unified by [[One]] and [[All]], empowered children and adults around the world to once again Dream. 
+
+As each awakening individual and locality came to the point of articulating their own Forward Looking Story, they were, for the first time, truly free and responsible to try to reimagine the way their lives and their world Should Be. They way they would like it to be. The playful energy of a return towards childlike Faith and Imagination swept across [[The Movement]] as individuals began sharing and deeply listening to One Another's hopes, dreams, and aspirations. One beautiful imagination fueled the next, ideas began remixing and recomposing themselves, spiraling upward towards Unity, Harmony, Coherence and Perfection, and soon, [[The Vision]] of [[Heaven On Earth]] was Real in the Minds of All those Awakening. 
+
+For the first time in history, they realized that they All wanted the same thing, and that together, it was possible. All Creation was longing and crying out together for the revelation of How Things Should, and now Could, Be. 
+
+### The One Thing
+
+The Vision of [[Heaven On Earth]], and the billions of people dreaming it together, was as vast and diverse as the world. 
+
+They were delighted to discover that [[The Vision]] of [[Heaven]] looked dramatically different for the Achuar tribes of the Amazon, than it did for the Masai tribes of Kenya, than it did for the tribes of the Levant, than it did for the farmers in the plains of Turtle Island, than it did for the grandmothers of the North and the grandchildren of the South. 
+
+Yet the [[Deepest]] level, it was clearly [[One]] logical, coherent, harmonious [[Whole]]. 
+
+Time and time again, the question arose: What is the [[One Thing]] that united the diverse many? What was the [[Essence]], or [[Central Animating Spirit]], that [[All]] the diverse expressions of [[Heaven On Earth]] shared in common? 
+
+They [[All]] knew that it was something beyond simple human will or desire. Some thought at first that it was an expression of reunification with [[Nature]]. Yet Nature was constantly transforming, ever changing, and continually threatening and testing the Order they were working together to forge. 
+
+As they continued to look [[Deeper]], they Ultimately rediscovered the [[One]] that united [[All]] of its expressions. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The generative [[Source and Sustainer]]. The Ultimate Unity giving rise to inexhaustible Creative Diversity. 
+
+The [[One]]. The Supreme Author of [[The Story]] writing its Self through them. 
 
 ## V. The Ten Realizations
 
@@ -719,18 +746,33 @@ In this part of [[The Story]], the adventure required attempting to [[Move]] the
 
 The Epic Quest Towards Destiny, towards [[The Goal]] of Greatest Worth, was already under [[Way]]. 
 
-It was an invitation from [[One]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Abundance]] through [[Love]].  
+It was an invitation from [[One]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
 
 ### Epiphany Nine: One Universal War 
 
+As much as they [[All]] hated to admit it, the stories from around the world made it clear that like it or not, they had all been born into a world at war. They had not started the war, but if they ever wanted Peace and Harmony, they would have to finish it. 
 
+While [[The War]] was manifesting in many diverse ways around the world, they came to understand that it was one. While the specific instances all had their unique local flavors, the Patterns that were warring with one another were [[Domain Independent]]. The actors in each locality were different, but the axes of battle were shocking similar. 
+
+The ancient stories that were being resurrected and brought together with the New reminded them [[The War]] threatening to engulf the world was not primarily physical or local in nature. 
+
+The [[Domain Independent Patterns]] at war were [[Deeper]] Spiritual Realities, pulling the strings of the various [[SpatioTemoral]] embodiments they were puppeting. Behind the [[Visible Power Structures]] were [[Invisible Power Structures]], and behind the [[Invisible Power Structures]] were deep, archetypical Spiritual Realities. 
+
+While very much a physical Reality on Earth, [[The War]] was not primarily physical or local. It was primarily Metaphysical and Universal, 'spilling over' into this Realm of [[SpaceTime]]. 
+
+To prevail, they would have to wage the war as such and fight it *On Earth As It Is In Heaven*. [[The Victory]] could only be attained in partnership with [[God]] and the Forces of Heaven. 
 
 ### Epiphany Ten: One Victory and Best Possible Future For All 
 
+As terrifying as the prospect of an Epic Quest and Universal Spiritual War was to Many, the silver lining was that *when* the [[Force For Good]] prevailed and Realized [[The Goal]], [[The Victory]] would Unite humanity as One, and usher in the [[Best Possible Future]] for [[All]]. 
 
+They discovered a Deep concept in The Story of Stories regarding the idea of a Meta War, a Meta Project, or a Meta Game. The basic Idea behind the Meta Game was that while [[All]] other [[Sub Games]] were playing themselves out in the various [[Domains]] of Time and Space, there was an Omni-Encompassing Universal and Eternal Game that was also being played on [[Deeper]] and [[Higher]] planes of [[Reality]]. 
 
+If the Highest Meta Game could be won, then [[All]] other [[Sub Games]] would also be won simultaneously. [[The Victory]] would become a [[Meta Victory]] for [[One]] and [[All]]. 
 
+At the Highest and Deepest [[Levels of Analysis]], The Story, The Quest, The Game, The War... they were all inextricably and ineffably aspects of One. 
 
+And so it was established [[The Goal]] of [[The Quest]] and [[The Victory]] of [[The War]] could only be accomplished by [[All]] for [[One]], and [[One]] for [[All]].  
 ## VI. A New System, Strategy, and Plan 
 
 Having recaptured [[The Plot]] of [[The Story]] and reunited around the [[Most Important Things]], it was time to embark on the Epic [[Quest]] towards [[Destiny]]. 
@@ -767,26 +809,24 @@ The strategy and plan for a [[Whisper Campaign]] to catalyze [[The Movement]] FR
 
 An early Milestone was established, to Move 3% Beyond The Boundary by 2026. 
 
-There would be many later challenges and battles to confront and overcome as they ventured into the [[Unknown]], but for now the [[Next Steps]] were clear. 
-
-Unbeknownst to the [[Old Authorities]], those who had first awakened and escaped from [[The Caves]] had left a series of [[Milestones]] that marked the [[Way]] towards [[The Boundary]], and beyond the Boundary, towards [[The Goal]]. 
+There would be many later challenges and battles to confront and overcome as they ventured into the [[Unknown]], but for now the [[Next Steps]] were clear.  
 ### Awakening, Inspiring, and Inviting One By One
 
 As the awakened whispered and moved together, those who were ready to awaken would hear and begin stirring. As the stirred, those already [[On The Path]] would hear the rustling of chains, attend to the awakening, and do whatever was required to inspire and breathe life and hope back into the individual. 
 
 At the [[Wise Right]] Time, they would extend [[The Invitation]] to join [[The Movement]]. 
 
-Upon accepting [[The Invitation]], the individual would be led through an [[Orientation and Onboarding Process]] to ensure they understood the rules of the [[New Game]], and knew how to follow the [[Milestones]] towards [[Freedom]]. 
+Upon accepting [[The Invitation]], the individual would be led through an [[Orientation and Onboarding Process]] to ensure they understood [[The Rules]] of the [[New Game]], and knew how to follow the [[Milestones]] that marked the Way towards [[Freedom]]. 
 
-To our astonishment and joy, it began working! As the awakened simply whispered and made their way towards The Boundary, those who were ready to hear heard.  
+To their astonishment and joy, it began working! As the awakened simply whispered and made their way towards The Boundary, those who were ready to hear heard.  
 
 When they heard, they would partially awaken, cease chattering, and begin moving. 
 
 As those making their way out of the [[Darkness]] of [[The Caves]] heard the rustling of chains from others who were awakening and beginning to Move, they would stop and liberate the newly awakened, orient them, set their feet [[On The Path]], and welcome them into the procession.  
 
-It was like water when it pierces a dam. Just a few drops at first, sneaking their way through the smallest cracks. But once the first 1 made it out of The Caves, it was easier for the 2nd... and the 3rd... and the 5th... and the 8th... and the 13th... and the 55th... and the 144th... and the 144,000th...
+It was like water when it pierces a dam. Just a few drops at first, sneaking their way through the smallest cracks. But once the first one made it out of The Caves, it was easier for the 2nd... and the 3rd... and the 5th... and the 8th... and the 13th... and the 55th... and the 144th... and the 144,000th...
 
-It was a motley procession. Pale grey bodies, atrophied and weak on the outside but illuminated with strength and power by [[The Spirit]] rising within, began to stream past the Milestones that marked the [[Way]] beyond [[The Boundary]] and towards [[The Goal]]. It was immeasurably beautiful. We were rising. We would often have to stop and rest. When one stumbled, the others would steady her. When one fell, the others would lift him up.  
+It was a motley procession. Pale grey bodies, atrophied and weak on the outside but illuminated with strength and power by [[The Spirit]] rising within, began to stream past the Milestones that marked the [[Way]] beyond [[The Boundary]] and towards [[The Goal]]. It was immeasurably beautiful. They were rising. They would often have to stop and rest. When one stumbled, the others would steady her. When one fell, the others would lift him up.  
 
 One by one, the movement had begun, and it was now only a matter of time until [[All]] who desired had awakened, arisen, united, and progressed [[FROM the Old TO the New]]. 
 ### Reestablishing Identity, Sovereignty, and Autonomy 
@@ -795,13 +835,15 @@ After generations in the slavery and oppression of [[The Caves]], one of the fir
 
 This was not an easy or self-evident task. 
 
-To formalize the [[Process]], each individual articulated a basic [[Identity]], [[Constitution]] and [[Field of Agreements]] to establish the boundaries of their first [[Domain Of Responsibility And Authority]]: their [[Self]]. 
+To formalize the [[Process]], each individual articulated a basic [[Story]], [[Identity]], [[Constitution]] and [[Field of Agreements]] to establish the boundaries of their first [[Domain Of Responsibility And Authority]]: their [[Self]]. 
+
+The [[Story]] provided an articulated understanding for them and others of Where They Were, How They Got There, Who They Were, Where They Were Going, and Why. 
 
 The [[Identity]] helped them and others remember Who They Are. 
 
 The [[Constitution]] reestablished their a priori [[Sovereignty]], [[Freedom]] and [[Independence]]. 
 
-The [[Field of Agreements]] established the [[Rules]] by which they agreed to conduct their [[Self]]. 
+The [[Field of Agreements]] established the [[Rules]] by which they agreed to conduct their [[Self]].  
 
 Together, these documents formalized the first act of [[Self Governance]], reestablishing a Sovereign, [[Autonomous]] [[Conscious Agent]], liberated to move and advance towards [[The Goal]] of their own [[Free Will]] and [[Volition]]. 
 
@@ -817,53 +859,309 @@ As opposed to the lower order transactional and temporary relationships that mar
 
 The [[New Covenant]], unlike the written laws and constitutions that governed the [[Old World]], was unwritten and mediated by [[The Spirit]]. 
 
-It was a matter of Spirit, Intention, and Heart rather than mere compliance with the written word. 
+It was a matter of being impelled from deep within by Spirit, Intention, and Heart, rather than merely complying with the written word. 
 
 Although it was unwritten, everyone knew what it meant and required, because it was written on the hearts of all people of [[Goodwill]]. 
 
-The Spirit and Essence of it were reflected as closely as possible in what came to be known as the [[Lionsberg Constitution]]. 
+Their individual Stories and Fields of Agreement illuminated it. 
 
-The [[Lionsberg Constitution]] reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was arising into, and established a [[Commons]] where infrastructure, resources, and support could be aggregated and stewarded in service of [[One]] and [[All]]. 
+The Spirit and Essence of the [[New Covenant]] were reflected as closely as possible in what came to be known as the [[Lionsberg Constitution]]. 
 
-All individuals, as a first act of emerging out of isolation and into community, were invited to incorporate by reference the Lionsberg Constitution into their Individual Constitution, thereby formally agreeing to [[The Rules]] of the [[New Game]] and the [[New Covenant]] that enabled [[All Creation]] to advance together in [[Harmony]] towards [[The Goal]]. 
+The sole purpose of what they eventually came to call by mythical name of [[LIONSBERG]] was to progressively Realize the New World they were progressing towards in partnership with [[God]] and [[One Another]]. 
+
+The [[Lionsberg Constitution]] reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established a [[Commons]] where infrastructure, resources, and support could be aggregated and stewarded in service of [[One]] and [[All]]. 
+
+All individuals, as a first act of emerging out of isolation and into community, were invited to incorporate by reference the Lionsberg Constitution into their Individual and local Constitutions, thereby voluntarily agreeing to [[The Rules]] of the [[New Game]] and the [[New Covenant]] that enabled [[All Creation]] to advance together in [[Harmony]] towards [[The Goal]]. 
 ### Forging and Joining Groups 
-After reestablishing Soveriegnty, Self Governance, and agreeing to [[The Rules]] of the [[New Game]], it was time to 
 
+After reestablishing Sovereignty, Self Governance, Independence, and agreeing to [[The Rules]] of the [[New Game]], it was time for each awakening individual to forge or join a group. 
+
+The surest way to fail and die in [[The Wilderness]] that separated the [[Old]] from the [[New]] was to attempt to struggle through it in isolation. 
+
+[[The Wilderness]] would have to be crossed as a [[Team of Teams]], as a [[Tribe Of Tribes]]. 
+
+Forging and strengthening groups that would adventure together on [[The Quest]] towards [[The Goal]] was one of the most important functions of The Movement as a Whole. 
+
+This Pattern of organizing required that small groups continually reach [[Agreements]] on overarching and uniting [[Purpose]] and [[Identity]], along with the next set of pragmatic [[Goals]] and [[Objectives]] that they could tackle together to help them and the Whole advance towards the next [[Milestones]] that marked the [[Way]] towards [[The Goal]].  
+
+Each Team was encouraged to become [[Self Governing]], [[Self Sustaining]] and [[Self Replicating]]. Forged with at least three members to start, successful teams would grow as they tackled more meaningful [[Quarterly Quests]] in their [[Zone Of Optimum Development]]. As the groups approached ten or twelve members, they would begin preparing to Self Replicate, and then they would split into two Autonomous Teams before they exceeded sixteen members. 
+
+This ensured that the most successful teams were continually training and developing [[New Members]], and replicating themselves to help [[The Movement]] become as capable and powerful as possible. 
+### Quarterly Quests 
+
+To allow for flexibility and continual reformation of Teams based on the next [[Wise Right Thing]] to do, The Movement agreed to synchronize their local and collective [[Progress]] and [[Navigation]] around a quarterly [[Battle Rhythm]].  
+
+The quarterly [[Battle Rhythm]] enabled [[The Movement]] to rest into a comfortable [[90 Day World]] that was long enough to tackle meaningful Quests and make meaningful Progress, and short enough to be reasonably predictable and not overwhelming as they ventured into the [[Unknown]].  
+
+Each [[Autonomous]] Individual, Team, and Locality, understanding the overarching and uniting Vision, Strategy, and Plan, would discern, negotiate, and choose its own [[Quarterly Quests]]. 
+
+Each one was encouraged to choose a [[Quarterly Quest]] that would keep them, individually and as teams, in their [[Zone Of Optimum Development]]. 
+
+If they chose a [[Quarterly Quest]] that was too difficult, they would be unable to keep the [[Commitments]] they made to one another and to other [[Teams]] they were coordinating with. 
+
+If they chose a [[Quarterly Quest]] that was too easy, they would be failing to learn, grow, and develop, thereby robbing them Selves and the Whole of the latent Gifts and [[Potential]] within them. 
+
+Crucially, having all [[Progress]] occur via Teams enabled the [[Lionsberg System of Governance]] to function. 
 
 ### Progressing as a Tribe of Tribes 
 
+Progressing as a [[Tribe Of Tribes]] in this fashion was crucial for solving the mysteries of [[Unity]] and [[Diversity]]. 
 
+United by [[One]] overarching and uniting [[Meta Goal]], and understanding the shared [[Vision]], [[Strategy]], and [[Plan]], each Team / Tribe / Locality was free to speak their own unique language, embody their own unique culture, manifest their own unique values, create their own unique processes, and be and do what they wished. Every one was [[Sovereign]], [[Autonomous]] and [[Free]]. 
 
+Because all [[Collaboration]] was voluntarily forged from the bottom up, groups that did not resonate with or understand one another were free to choose to keep some distance, while ensuring that fear, factions, and divisions were not permitted to seep into [[The Movement]] towards [[Unity]] through [[Love]]. 
+
+As diverse cultures, patterns, and practices flourished across the growing Family of [[One]], they began to share with [[One Another]] their most sacred writings, rituals, traditions, and practices. 
+
+Liberated from [[Fear]] and [[United As One]], the vast [[Diversity]] was free to learn from [[One Another]], and to search for the [[Golden Thread]] of [[Spirit]], [[Wisdom]], and [[Truth]] that inevitably wove its Self through each of the diverse cultures, languages and perspectives. 
+
+[[The Movement]] as a [[Whole]] was tremendously strengthened as the most Wise, Right, True and Good Ideas and Practices cross-pollinated themselves across the ecosystem. 
+
+The [[Minimum Standards of Interoperability]] embodied by each individual, team, and locality in [[The Movement]] ensured that energy, communication, resources, and most importantly, [[Trust]] were able to [[Flow]] throughout the [[Whole]] as they progressed as a diverse [[Tribe Of Tribes]] towards [[The Goal]]. 
+
+### Challenges, Obstacles, Issues, and Opportunities 
+
+As the first Teams ventured out into the [[Unknown]] and began tackling [[Quests]], they immediately began encountering the [[Obstacles]], [[Issues]] and [[Challenges]] that stood in their [[Way]]. 
+
+As Teams set out on their [[Quests]] they would inevitably have a member fall into a Pit, get caught by a Trap, or be swept away as they tried for cross a river. 
+
+They would inevitably encounter [[Conflicts]], either internally, or with hostile tribes in [[The Wilderness]]. 
+
+They would inevitably have to figure out what [[Roles]] they each were going to Play, and how they were going to practically divide up the [[Work]] and function as Team. 
+
+They would inevitably have difficulty agreeing on the next [[Goals]] and [[Objectives]] they were going to tackle, or their order, priority, and sequence. 
+
+They inevitably would fear running out of [[Resources]], and have to discern how to Resource their [[Work]]. 
+
+They inevitably would struggle to follow [[The Rules]] and embody [[The Practices]] that they had agreed to. 
+
+They inevitably would struggle with [[Accountability]] to One Another and the Whole. 
+
+They inevitably would struggle to request, secure, and make the necessary [[Commitments]] required to [[Succeed]] in their [[Quests]]. 
+
+They inevitably would have to figure out how they were going to [[Solve Issues]] and [[Make Decisions]].  
+
+They inevitably would have to figure out how they were going to Govern them Selves, and participate in the [[Governance]] of the [[Whole]]. 
+
+They inevitably would have to figure out how they were going to cross the rivers, scale the mountains, and navigate through the jungles. 
+
+They inevitably would have to figure out how they were going to respond to [[Targets of Opportunity]].  
+
+They progressively came to Realize that ninety percent of the [[Challenges]], [[Obstacles]], [[Issues]], and [[Opportunities]] they faced were common to [[All]]. 
+
+As they began to build their shared [[Lionsberg Lexicon]], they called the issues they [[All]] shared in common [[General Issues]], [[General Needs]], and, [[General Problems]]. 
+
+And they began to refer to those very few issues that were truly unique to a given team, time, or place as [[Specific Issues]], [[Specific Needs]], and [[Specific Problems]].  
+
+It was similar for [[General Opportunities]] and [[Specific Opportunities]]. 
 ### Shared Infrastructure, Resources, and Support 
 
+After growing frustrated watching each Team fall into the same pits and struggle in isolation to [[Reinvent The Wheel]], [[The Movement]] determined that one of the most important determinants of [[Success]] would be the [[Continuous Improvement]] of [[The Commons]] of shared infrastructure, resources, and support that connected, equipped and empowered [[All]] Individuals, Teams, and Localities. 
 
+They further resolved to [[Do The Hard Work Our Selves To Make It Easier For Those Who Come After Us]]. 
 
+Because [[No One Could Enter The Promised Land Unless And Until All Could Enter The Promised Land]], there was no reason for the early Teams to race ahead into [[The Wilderness]]. That would only serve to isolate them as other Teams struggled to Follow. 
+
+Instead, as each of the early Teams encountered a General Obstacle or Issue, they would slow down and Do Their Best to forge a General Solution. 
+
+For instance, when [[The Pioneers]] came to a river, understanding that millions would be coming after them, including many who were young, old, mothering, sick, or requiring extra support for any number of reasons, instead of powering across the river because they were able to, they would slow down and use their strength to build at least a rudimentary bridge that could be Continuously Improved by each Team who came along after them. 
+
+This benefited [[The Pioneers]] by establishing stronger [[Supply Lines]] and [[Communication Lines]] between [[The Vanguard]] and rear of [[The Movement]], while saving the blood, sweat, energy, and tears of the following Teams for the new challenges to be confronted and overcome as they ventured deeper into [[The Wilderness]]. 
+
+While the going was rough for [[The Pioneers]], each of the subsequent [[Cycles of Expansion]] found the [[Way]] to be easier and more clearly marked. 
+
+The Teams in each Cycle developed a Practice of deep [[Gratitude]] for the hard work and effort of [[The Pioneers]] who had paved the [[Way]] for them, and reciprocated by [[Doing Their Best]] to leave every aspect of the Journey [[A Little Better]] than they found it. As the [[Supply Lines]] opened up, they also made sure to push knowledge, resources and support ahead to [[The Pioneers]] who were still leading the [[Way]] out into [[Unknown]]. 
+
+Based on the timeless [[Wisdom]] of the [[Tithe]], a [[Culture]] developed in which each Team would dedicate at least the first tenth of its available [[Flow]] of Time, Energy, Resources, and Attention to strengthening, empowering, coordinating, and improving the Whole, while focusing the remaining ninety percent on its own individual and local Progress. 
+
+This creating exponential cascading benefits for each Individual, Team, and Locality as The Movement grew, as the small [[Sacrifice]] of each Team was reciprocated by a growing Commons of infrastructure, resources, and support far beyond what they could have ever accessed in isolation.  
+
+With each Cycle of Expansion, [[The Commons]] of shared infrastructure, resources, and support Flowing across [[The Movement]] grew richer and more empowering for [[All]]. 
+
+Day by day, the [[Path]] towards [[The Goal]] opened up, welcoming the subsequent wave of [[The Movement]] into its growing embrace. 
 ### Governance and Navigation 
 
+One of the most significant [[Challenges]] and [[Opportunities]] on [[The Quest]] was Governance. 
 
+Liberated from [[The Caves]] and out in [[The Wilderness]] with [[Life]] and [[Death]], [[Success]] and [[Failure]] at stake, the day to day [[Process]] of [[Governance]] and [[Navigation]] became crucial. 
+
+[[Out Here]], there were no Keepers to tell them [[What To Think]] and [[What To Do]]. [[Freedom]], [[Sovereignty]], and [[Autonomy]] came with a Cost. 
+
+As they deeply considered the issue of [[Governance]], they remembered that the word “Govern” derived from the Latin meaning “To Steer”. 
+
+It begged a very literal question: _How do we [[Individually And Collectively]] navigate and steer our Vessel(s) towards [[The Goal]]?_  
+
+*Having fixed our [[Aim]], how do we get from [[Where We Are]] to [[Where We Are Going]]*? 
+
+Having learned from the Story of [[The Exodus]], they knew that they had to [[Walk The Line]] between [[Chaos]] and [[Order]]. An excess of either could prove fatal. 
+
+They also knew that their System of Governance would need to transform and continually improve to [[Meet The Needs, Solve The Problems, and Accomplish The Goals]] at hand as [[The Movement]] grew and advanced towards [[The Goal]]. 
+
+[[The Pioneers]] had it easy. Alone in [[The Wilderness]], the first few teams could govern them Selves, communicate, and navigate together by intuition and on an ad hoc basis. 
+
+However as [[The Movement]] grew from dozens, to hundreds, to thousands, and eventually to millions and beyond, any system that was either too centralized or too decentralized would be doomed to failure and collapse. 
+
+In [[The Wilderness]] with life and death [[At Stake]], the shared System of Governance was perhaps the most crucial aspect of their shared infrastructure. 
+
+The [[Lionsberg System of Governance]] was designed to emerge and evolve from the bottom up in response to the realities of [[The Quest]]. 
+
+Fractal in nature, it was rooted in the fundamental understanding of the [[Sovereignty]] and [[Autonomy]] of each Individual, Group, and Locality.  
+
+In accordance with the principle of [[Subsidiarity]], it required that every [[Decision]] be made at the least-centralized level possible. 
+
+#### The Individual 
+
+The first level of fractal governance in the system was rooted in the Self Governance, Sovereignty, and Autonomy of every Individual. 
+
+#### First Degree Groups 
+
+Following the [[Rule Of Three]], it encouraged Individuals to self-organize into [[First Degree Groups]] of at least Three. 
+
+Following the [[Rule of Sixteen]], it encouraged Groups to split and Self Replicate prior to exceeding sixteen members. 
+
+Bounding the fundamental unit of Decision Making, Questing, and Progress in [[Self Sustaining]], [[Self Governing]], and [[Self Replicating]] Teams of 3 to 16 established the basic framework for decentralization, empowerment, and subsidiarity. 
+
+#### Second Degree Groups 
+
+Following the same logic, it encouraged Groups to self-organize into [[Second Degree Groups]]. 
+
+Whereas [[First Degree Groups]] were composed of Individuals, [[Second Degree Groups]] (and higher order groups) were Groups of Groups. 
+
+Like [[First Degree Groups]], [[Second Degree Groups]] were also encouraged to follow the [[Rule Of Three]] and the [[Rule of Sixteen]], meaning that a Second Degree Group should contain at least three, and no more than sixteen, First Degree Groups. 
+
+The [[Governance Circle]] of each second and higher degree group was composed of one representative nominated by each of the lower degree groups that composed it. This ensured that the governance circle at each level of analysis was composed of a circle of the three to sixteen individuals considered most wise and capable of higher order wisdom, discernment, and governance by the members of each constituent group. 
+
+#### Third and Higher Degree Groups 
+
+This fractal organizing principle continued all the way up to the highest levels of analysis, with the [[Whole]] of [[The Movement]] at any given point in time being composed of no less than three, and no more than sixteen Groups of Groups advancing as One Body towards [[The Goal]]. 
+
+Assuming approximately 10 per group, this meant that: 
+
+- First Degree Groups were composed of approximately 10 individuals  
+- Second Degree Groups were composed of approximately 100 individuals  
+- Third Degree Groups were composed of approximately 1,000 individuals  
+- Fourth Degree Groups were composed of approximately 10,000 individuals  
+- Fifth Degree Groups were composed of approximately 100,000 individuals  
+- Sixth Degree Groups were composed of approximately 1,000,000 individuals  
+- Seventh Degree Groups were composed of approximately 10,000,000 individuals  
+- Eighth Degree Groups were composed of approximately 100,000,000 individuals  
+- Ninth Degree Groups were composed of approximately 1,000,000,000 individuals  
+
+Because the sizes of the tribes varied, the Tenth Degree Group ended up composing the Whole of Humanity into Twelve Tribes.  
+#### The Highest Level of Analysis 
+
+At the Highest Level of Analysis, the Whole was continually United As One Tribe of Tribes / Group of Groups, progressing towards [[One]] Vision and Goal. 
+
+The establishment of Highest Order Functional Unity from the outset ensured that [[The Movement]] could never fracture or fragment. No matter how the [[Tribe Of Tribes]] morphed and reconfigured itself as [[The Movement]] grew, [[Unity]] eternally remained the essential requirement. 
+
+The Fractal arrangement ensured that legislative, judicial, and executive functioning were distributed in an optimally decentralized way throughout The Movement, helping each Individual, Group, and Locality grow as strong and functional as it possibly could. 
+#### Communicating, Making Decisions, and Solving Issues 
+
+The various levels of organization were double linked to one another by the Systems of communication and coordination. 
+
+In the event that a First Degree Group could not solve an issue, the issue would be elevated up the [[Escalation Ladder]] to a Second Degree Group it was a part of. 
+
+In the even that the Second Degree Group could not solve the issue, it would continue to be elevated to higher level Governance Circles until it was finally resolved. 
+
+The System of Communication ensured that information regularly and systematically flowed across The Movement, keeping everyone informed and ensuring optimum [[Decision Making]] at every level of analysis. 
 
 ### Co-Creating the Systems and Structures of the New World 
 
+As the advancing [[Teams]] encountered issues, needs, and opportunities, they were solved systematically, and the solutions were cross-pollinated across The Movement. 
 
+Soon, the Lionsberg System of Systems began to take shape. 
 
-### Phases of Implementation 
+From basic needs like food, water, and shelter, to more complex systems of economic provisioning, governance, justice, society, and culture, and Lionsberg System and Toolkit ensured that each Individual, Group, and Locality was fully empowered to help one another flourish. 
 
+Each and every issue and challenge they encountered in [[The Wilderness]] was a Gift, for it called forth a carefully crafted Solution that solved the issue not only for those who encountered it, but for [[All]] who would come after. 
 
+Liberated from the false constructs of division, separation, competition, and [[Us vs. Them]], the most advanced ideas, solutions, and technologies were rapidly cross-pollinated across The Movement as they emerged. Unexpected Synergies continually surprised and delighted, unleashing new benefits and capabilities that accelerated [[Progress]]. 
 
-### Measuring Progress
+Issue by issue, obstacle by obstacle, they co-created the Systems and Structures required for helping [[One Another]] flourish, even in [[The Wilderness]] that separated the [[Old]] from the [[New]]. 
 
+The Systems were constructed around [[The Twelve Pillars of Lionsberg]], ensuring that every aspect of Life and Society was properly attended to. 
 
+Soon, they began to forget about the defunct systems of governance, economy, society, and ideology they had suffered under in [[The Caves]] of the [[Old World]]. 
+
+By [[Identifying And Solving Issues]] and [[Opportunities]], they were co-creating the Systems and Structures of the New World as they progressed, and learning how to co-operate them as they advanced. 
 
 ## VII. Confronting and Overcoming The Giants 
 
-There will be a vast array of [[Challenges]] and [[Obstacles]] that mark the [[Way]] towards [[The Goal]].  
+### Grappling with Obstacles in the Way 
 
-Each will have to be forthrightly confronted and overcome in order to [[Progress]]. In fact, we might even say that our [[Progress]] will be directly proportional to our willingness to confront and overcome [[Obstacles]]. 
+As [[The Movement]] advanced they encountered a vast array of [[Challenges]] and [[Obstacles]] that marked the [[Way]] towards [[The Goal]]. 
 
-However one obstacle in particular requires some special attention. This is the Issue of [[The Giants]]. 
+Far from growing discouraged when [[Obstacles]] manifested, they came consider each one a unique Gift and a marker [[Progress]]. 
 
+In fact, over time they discovered that their [[Progress]] was directly proportional to their willingness to forthrightly confront and overcome the [[Obstacles]] that stood in their [[Way]].  
+
+The magic in the [[Obstacles]] was that they called forth not only the coordinated [[Work]] required to address them, but they also required that [[The Movement]] *become* the kind of Body capable of confronting and overcoming such a Challenge. 
+
+The learning and growth did not primarily occur on the bright and sunny days when the Universe was at rest and the wind was at their backs, but when they were forced to grapple together with the most difficult Realities that manifested in the [[Way]], objected to their [[Progress]], and threatened their ruin. 
+
+The full array of Challenges, Obstacles, and Existential Threats they had to overcome will told in other sagas to come. 
+
+For now, we will focus on one of the most frightening and daunting episodes; which is the Story of The Giants.
+
+### The Giants - Fear and Trembling in The Wilderness 
+
+The further they ventured into [[The Wilderness]], the more Perspective they gained and the clearer they were able to see the dynamics of [[The Caves]] and the [[Meta Crisis]] they were liberating themselves from. 
+
+From inside the Systems of the [[Old World]], it was nearly impossible to see what was happening. 
+
+However looking back at them from [[Beyond]], things became more clear. 
+
+In fact, the Higher they ascended towards the [[New]], the more clearly they could see back down to specifics and features of the [[Old]] that had kept them and their ancestors imprisoned and enslaved for so many generations. 
+
+The [[Keepers of The Caves]] had constituted the [[Visible Power Structures]] of the [[Old World]]. Sometimes they had called themselves Kings, sometimes Presidents, sometimes Prime Ministers, sometimes Pastors, sometimes Priests, sometimes Professors, sometimes Parliament...
+
+...however as they ventured out [[Deeper]] into [[The Wilderness]], they discovered to their horror that what they actually had been were Puppets. 
+
+While at the time the Puppets had seemed intimidating and threatening enough in their own right, a far more intimidating structure of Power was pulling their strings. 
+
+As [[The Movement]] gathered momentum, the last holdouts began to exit [[The Caves]], and [[The Pioneers]] began to catch glimpses of [[The Promised Land]], there was a moment when the strings connecting the Puppets to their Puppeteers became visible. 
+
+The strings led all the Way from [[The Caves]], through [[The Wilderness]], and to the boundaries of [[The Promised Land]], which The Pilgrims discovered to their horror was Possessed by [[The Giants]]. 
+
+[[The Giants]] were a class of soulless abstractions, who had grown exceedingly powerful by dwelling beyond the Realities of the Old World, and parasitically preying on its inhabitants. 
+
+The [[Invisible Power Structures]] puppeted the [[Keepers of The Caves]] from afar, pulling their strings, feeding them words to speak, and parasitically siphoning off energy, attention, and resources from those held captive in [[The Caves]] they had constructed. 
+
+It was an ingenious and frightening system of exploitation. 
+
+From within [[The Caves]], it had appeared that there were hundreds of competing nations, thousands of competing tribes, and millions of competing businesses. 
+
+Looking back down from the boundaries of [[The Promised Land]], it became clear to [[The Pioneers]] that [[The Cacophony]] of [[The Caves]] was a surficial construct meant to keep the afraid, divided, and conquered. 
+
+The [[Invisible Power Structures]] were far Deeper and more united than they could have imagined. 
+
+And [[The Giants]] were preparing for War. 
+
+With fear and trembling, [[The Pioneers]] reported what they were discovering, and shockwaves began to ripple through [[The Movement]].  
+
+### The War 
+
+There is not room in this first short story to tell the tale of [[The War]]. That will come later in the Trilogy. 
+
+For now, remember to always look Deeper. 
+
+Beyond the [[Visible Power Structures]] are the [[Invisible Power Structures]], and beyond the [[Invisible Power Structures]] is the Spiritual War. 
+
+The Spiritual War can only be waged and prevailed in at the Deepest Level; in the metaphysical realm; in partnership with God. 
+
+The perceived enemies in any domain are mere Puppets of the [[Domain Independent]] Spirits and Patterns possessing them. 
+
+Remember the Meta Game. The Meta War. The Domain Independent Victory that brings simultaneous Victory in All other Domains. 
+
+Look Deeper. 
 
 ## VIII. A Vision of the World To Come 
+
+With each step further into [[The Wilderness]] they became more Free, and the more Free they became, the clearer the [[Vision]] of the [[New World]] became. 
+
+The Intention 
+The Vision 
+The 12 Pillars 
 
 ## IX: Embarking on The Quest - Next Steps
 
