@@ -327,6 +327,9 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 
 "Imagination Is the Only Weapon in the War Against Reality." - Lewis Carroll 
 
+“The survival of mankind cannot be secured in isolation from other living beings, such as crawling, swimming, winged and four-legged relatives, as well as plants, trees and minerals. In order to achieve the much needed and desired balance of peace, universal love must be allowed to grow. A love that literally allows every person and thing to blossom, as the power of the sun’s rays helps. So the survival of mankind depends on everyone – not just us natives. Only when we realize that we cannot separate from other living beings on earth do we bring about positive change.   
+We have to include the unborn up to the seventh generation in our deliberations in advance in order to find our way.”  - Reymundo Tigre Perez, medicine man from the Purépechas
+
 
 
 
