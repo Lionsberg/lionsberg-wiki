@@ -144,7 +144,7 @@ Jordan's Notes:
 - Again, the conversion of high technology from weaponry to livingry, and the establishment of the joint ventures required to design, build, deliver, operate, maintain, recycle and continuously improve the artifacts, requires a system. 
 - The Lionsberg System establishes a legal and technological Commons, into which the most advanced technologies, patents, inventions, templates, learnings, etc. can be populated. 
 - The Lionsberg System establishes a Prototype, into which such technologies can be integrated as interoperable components of the Human System that addresses all the [[General Problems]] and [[General Needs]] of humanity. 
-- The Lionsberg System provides the means for the establishment of [[Citizen Led Joint Ventures]] around each of [[The Twelve Pillars of Lionsberg]], and the myriad of sub-goals and values implied. 
+- The Lionsberg System provides the means for the establishment of [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]], and the myriad of sub-goals and values implied. 
 - The Lionsberg System provides the means for shared backend infrastructure and technology, which enables each of the industries and artifacts to bootstrap and tool itself up from the bottom up, without reinventing the wheel on the [[General Needs]] inherent in all joint ventures. 
 
 ## Power Structures 
@@ -255,11 +255,11 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg Strategy and Plan treats this as a pragmatic imperative to be accomplished in the wise right way as part of the "Abundant Clean Energy" pillar - see [[The Twelve Pillars of Lionsberg]]  
+- The Lionsberg Strategy and Plan treats this as a pragmatic imperative to be accomplished in the wise right way as part of the "Abundant Clean Energy" pillar - see [[The 12 Pillars of Lionsberg]]  
 - This would be accomplished as the primary mission of one of the [[Citizen Led Joint Ventures]]  
 - The Citizen Led Joint Venture in turn would empower a vast array of hundreds or thousands of different organizations to actually design, build, and localize the solutions... 
 - Solutions will be nested in [[The Prototype]] to ensure they are designed to be interoperable *within* a given [[Instantiation]], and between [[Instantiation Sites]]. 
-- This interconnected energy grid is one aspect of [[The Prototype]], which also encompasses each of [[The Twelve Pillars of Lionsberg]].  
+- This interconnected energy grid is one aspect of [[The Prototype]], which also encompasses each of [[The 12 Pillars of Lionsberg]].  
 ## Beyond Corruptible Currencies - The Time Energy Value System  
 
 Bucky's Notes: 
@@ -356,7 +356,7 @@ Bucky's Notes:
 
 Jordan's Notes
 
-- The transformation of our Way of lifelong learning and development is addressed as one of [[The Twelve Pillars of Lionsberg]]. 
+- The transformation of our Way of lifelong learning and development is addressed as one of [[The 12 Pillars of Lionsberg]]. 
 - This will be addresssed va another Citizen Led Joint Venture. 
 ## Beyond Homelessness  
 
@@ -369,7 +369,7 @@ Bucky's Notes
 Jordan's Notes
 
 - Reference also [[Above The Chaos, 80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
-- The built environment is addressed via [[The Twelve Pillars of Lionsberg]]  
+- The built environment is addressed via [[The 12 Pillars of Lionsberg]]  
 - Again, this will be accomplished via a Citizen Led Joint Venture that aggregates the leading resources and technologies into [[The Prototype]], and in turn empowers a decentralized array of thousands of teams to localize, adapt, and instantiate 
 ## The Role of Humanity and the Final Exam 
 

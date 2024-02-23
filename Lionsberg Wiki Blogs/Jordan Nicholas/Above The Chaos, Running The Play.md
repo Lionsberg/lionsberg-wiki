@@ -117,5 +117,7 @@ Additional items for continuous improvement:
 - [[The Lionsberg Experience]]  
 
 
+## Retrospection and Continuous Improvement 
 
+Because this is Quest into the Unknown, [[We Do Not Know]] how it will go. Therefore the [[Way]] will have to be determined day by day, cycle by cycle by those committed to doing whatever is required to help One Another and All Creation advance together towards [[The Goal]]. 
 

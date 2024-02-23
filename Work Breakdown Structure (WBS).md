@@ -22,3 +22,5 @@ Here are the steps to creating a WBS:
 It is important to note that the WBS should be reviewed and updated regularly throughout the project to ensure that it remains accurate and relevant.
 
 By using a WBS, project managers and teams can ensure that all project activities are properly defined and accounted for, and that the project is delivered within the desired time, budget, and quality constraints.
+
+The first level of the Lionsberg Work Breakdown Structure is [[The 12 Pillars of Lionsberg]]. 

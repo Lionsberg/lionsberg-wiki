@@ -1,4 +1,4 @@
-# The Twelve Pillars of Lionsberg
+# The 12 Pillars of Lionsberg
 
 If all generations of life and consciousness are to develop towards the fullness of their potential and flourish in harmony, a Total Nested Hierarchy of Issues and Goals logically present themselves. 
 

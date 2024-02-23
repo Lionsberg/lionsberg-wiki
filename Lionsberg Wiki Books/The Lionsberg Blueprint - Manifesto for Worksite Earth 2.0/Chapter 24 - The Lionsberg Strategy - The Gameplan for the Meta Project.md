@@ -25,7 +25,7 @@ Vertical Alignment ensures that each level of societal organization—from unive
 
 ##### C. Horizontal Alignment
 
-Whereas the vertical is the domain of Integration, the horizontal entails the various disciplines, specializations, and domains that must be cultivated and integrated for the Whole to flourish. [[The Twelve Pillars of Lionsberg]] forge an elementary structural framework, touching domains like education, governance, economics, and healthcare, each representing a critical aspect of societal functioning. They are equivalent to the organs in a body; when effectively orchestrated, these organs yield a thriving, robust system.
+Whereas the vertical is the domain of Integration, the horizontal entails the various disciplines, specializations, and domains that must be cultivated and integrated for the Whole to flourish. [[The 12 Pillars of Lionsberg]] forge an elementary structural framework, touching domains like education, governance, economics, and healthcare, each representing a critical aspect of societal functioning. They are equivalent to the organs in a body; when effectively orchestrated, these organs yield a thriving, robust system.
 
 ---
 #### II. Overarching Strategies, Interactions Among Components, and Refinement Through Interactions

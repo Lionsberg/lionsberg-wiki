@@ -1,5 +1,6 @@
 # Human System
-The total set of all Human Beings and Human activity. 
+
+The total set of all Human Beings and Human activity, conceptualized as a [[System]]. 
 
 The Human System is nested within the higher order [[Living System]], or Natural System. 
 
