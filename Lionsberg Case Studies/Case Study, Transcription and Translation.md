@@ -1,4 +1,4 @@
-# Case Study, Transcription
+# Case Study, Transcription and Translation
 
 Jordan is starting to work with indigenous elders around the world. 
 
