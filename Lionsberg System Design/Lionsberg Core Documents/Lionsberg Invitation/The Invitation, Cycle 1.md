@@ -1,75 +1,34 @@
 # The Invitation
-*Cycle 1, February 2024*
+*Cycle 1, March 2024*
 
-I would like to invite you to the adventure of a lifetime. 
+If you are receiving this, you are one of a select group of people I am inviting to join me for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. At any rate, we will learn and grow *a lot* by attempting the experiment. 
 
-## A Context of Crisis and Change 
+As you know, everything is on the line, and it is up to [[Us]] to take responsibility, commit, and do all that is required to meet the needs, solve the challenges, and accomplish the goals at hand. 
 
-As you know from [[Above The Chaos]] and the [[Lionsberg Wiki Books]], my [[Current Best Understanding]] is that we are facing a [[Meta Crisis]] of unprecedented proportion. 
+This is the start of a simple-yet-sophisticated tipping-point-strategy to invite humanity to collaborate and transform its Way of Being as a human species aboard [[Worksite Earth]] over the next 10 years. 
 
-In 10 years, our lives and our world will look dramatically different. Armed with tools 10x more powerful than anything humanity has possessed in history, the vessel of society will rapidly accelerate towards the logical end of the trajectory *we choose.*
+You probably have a good idea of what you are getting into knowing me, but I have written some more detail at the links below. The first two provide some thoughts heading into the New Year. **Running The Play** outlines the simple path forward to begin inviting Individuals of Goodwill to Join The Movement. 
 
-I am deeply concerned that our current trajectory is fundamentally defined by deep patterns of failure, including abjectly corrupt power structures weaponizing deceit and ever-more-powerful tools and technologies to keep humanity and our planet divided, conquered, and exploited. 
+And the **Game Plan for March** lays out the specific steps and goals to activate the next phase of the Strategy and Plan in March 2024. Each also contains an abundance of links to explore various elements of the [[10 Year Grand Strategy]] to meet this moment in history. 
 
-There is a significant non-zero probability that the corrupted existing Order is failing, and that what is rising to take its place on the other side of [[Collapse]] and [[World War]] will be *worse*. 
+Here are the links: 
 
-## Good News 
+- [[Above The Chaos, Jordan's January 2024 Manifesto]]  
+- [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]  
+- [[Above The Chaos, Running The Play]]  
+- [[Above The Chaos, Game Plan For March]]  
 
-But there is good news. 
+If you really want to dive into more detail, explore: 
 
-If *we choose* to Love One Another, Help One Another, and Aim Up at the Highest Intention and Greatest Good, in partnership with [[One]] and [[All]] we can confront and overcome the challenges at hand and forge ***a future for [[All]] that is better than Any has enjoyed in the past***. 
+- [[Above The Chaos]] for a stream of posts, interviews, etc.  
+- [[Lionsberg Wiki Books]] for more formalized and structured presentations  
 
-It simply requires that enough people *believe* and *unite*. Quickly enough. 
+This invitation is going to several select several individuals globally, as well as here locally in Sandpoint, Idaho. If a few Individuals in each group accept, we will be on the Path, and will work together to craft an invitation to subsequent Individuals in our networks. 
 
-## How We Got Here 
+To accept this invitation, visit my website and [Join The Movement](https://jordannicholas.org/join_the_movement). The form will gather an opening tithe (crucial for legally establishing public support for The Mission), along with your contact information (crucial for our Communication System). 
 
-Anticipating this moment, over the last seven years, I worked with allies around the world to forge a vision, system, platform, strategy, and plan to ***invite*** humanity to wake up, change course, avert catastrophe, and work together to co-create the best possible future for All.
+I look forward to working together with you to make our Community and our World as much like [[Heaven On Earth]] as we possibly can, while Passing The Flame to the rising generations. 
 
-The last two years, the technological backbone was tested with hundreds of groups in dozens of countries, and we experimented and learned that the only unit of agency on earth that can move and respond quickly and wisely enough is ***the Individual***. 
+With Love, In Community, 
 
-## Where We Are Going 
-
-Over the next seven years, as the world shakes and transforms in unprecedented ways, the simple plan is for each individual on earth to receive an invitation (or 10) from those they know and love to voluntarily join us on a **Quest** towards the Best Possible Future For All. 
-
-Along the Way, we will work to forge New Systems that retain the best features of our existing world, while affording the significant new benefits, capabilities, and higher order functional unity required to meet the needs, solve the problems, and accomplish the goals at hand as we face into a New Millennium. 
-
-The Journey will require that we pass through a series of gates, learning how to make decisions together, resource and provision one another, leverage our most advanced knowledge and technology, and forge regenerative New Culture and Norms, while passing the flame to the rising generations. 
-
-Progress will be made via a decentralized array of self-governing, self-sustaining, and self-replicating teams, advancing and navigating together as a Tribe of Tribes / Group of Groups. 
-
-Succeeding in The Quest requires that we work together to awaken and liberate every individual and locality from all forms of suffering, injustice, and oppression... and venture together through the [[Milestones]] and [[Challenges]] that mark the Way towards [[The Goal]]. 
-
-## An Invitation to the Adventure of a Lifetime 
-
-In [[Above The Chaos, Running The Play|Running The Play]], I laid out a simple way to begin.  
-
-It simply requires that a wise right group of initial individuals commit to working together to do *whatever is required to iterate the next cycle and advance the play*. Come what may. 
-
-Because the Lionsberg domain is *invitation only*, the first participants will be crucial in shaping the Culture, forming the early Teams, inviting in subsequent members, and ensuring that The Quest progresses, avoids failure, and succeeds. 
-
-This invitation to *The Fellowship of The Quest* is a daring call to adventure into the [[Unknown]], to Progress towards [[The Goal]], and to do what has not been done before in service of [[One]] and [[All]]. 
-
-___
-## An Offer, and Request 
-
-What I have to offer each participant is all that I am, the adventure of a lifetime, and a transformational program of personal development that will not leave any of us the same. Additionally, I can offer membership in Lionsberg, and thereby access to the Community and Commons of resources, relationships, infrastructure, and technology we have curated together as an empowering starting point. We have invested and sacrificed millions of dollars and far more blood, sweat and tears to create the starting point. It is my free gift to you. 
-
-What I request of each Player is a Commitment to play by The Rules, to co-operate in a Spirit of Power and Love, and to reciprocally contribute a reliable percentage of your available flow of time and resources to help advance the Critical Path towards The Goal. 
-
-All Progress will be made by decentralized, self-governing and autonomous Teams that Players are responsible for self-organizing. Teams can leverage the Lionsberg infrastructure to raise funds and resource aligned Quests. Teams will share the first 1/10th of their available flow of time and resources to coordinating with, governing and empowering the Whole as we advance together in harmony towards The Goal. 
-
-____
-## Conclusion and Call to Action
-
-With the future of humanity and life on earth hanging in the balance, I invite you to join me for the adventure of a lifetime. 
-
-Please let me know via email or text if you would like to play ASAP. As soon as the first individuals accept The Invitation, The Quest will begin. 
-
-It is all on the line. This may be our last shot for generations to come. Let's not fail. 
-
-Onward Towards [[The Goal]], 
-
-~ J 
-
-P.S. if you would like to catch up in more detail, see [[Above The Chaos]], or in particular [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]] and [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network|January 2024 Letter to Friends, Loved Ones, and Network]]. 
-
+~ J  
