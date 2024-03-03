@@ -47,4 +47,4 @@ Milestones are an important component of the Personal Planning Tool in the Lions
 
 ## The Critical Path Towards The Goal 
 
-For The Great Game / Meta Project as a Whole, the milestones are based on how many people are helping one another progress along the Critical Path towards [[The Goal]]. See [[Cycles of Expansion]] for the sequence of Milestones. 
+For The Great Game / Meta Project as a Whole, the milestones are based on how many people are helping one another progress along the Critical Path towards [[The Goal]]. See [[Lionsberg Cycles of Growth]] for the sequence of Milestones. 

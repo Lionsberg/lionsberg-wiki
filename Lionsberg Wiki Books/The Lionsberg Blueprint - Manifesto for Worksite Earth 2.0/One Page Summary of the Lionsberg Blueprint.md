@@ -37,7 +37,7 @@ At its core, the Blueprint operates within three pivotal timeframes:
 
 1. **The 90-Day Revolutionary Sprint**: An immediate call to action, this phase is about connecting the scattered efforts and resources of our lifetimes into a unified force. It aims to mobilize resources and intentions to lay the foundational pillars for the grander vision.
     
-2. **The 10-Year Grand Strategy**: Encompassing the immediate [[7 Year Window of the Crisis and Opportunity]] and the 3 years beyond, this is our roadmap for the coming decade, devised to guide us away from societal chaos and tyranny and towards the Best Possible Future. 
+2. **The 10-Year Grand Strategy**: Encompassing the immediate [[The 7 Year Window of Crisis and Opportunity]] and the 3 years beyond, this is our roadmap for the coming decade, devised to guide us away from societal chaos and tyranny and towards the Best Possible Future. 
     
 3. **Millennial Continuity**: Beyond the 10-Year Grand Strategy lies the long arc of Millennial Continuity, a timeframe that transcends the immediacy of a decade and stretches into a vista that captures the unfolding of centuries and millennia. It is here that we place our highest aspirations, our enduring legacies, and our deepest commitments to the [[Divine Purpose]] and Ideal. This long-term view serves as the eternal flame guiding our actions throughout the generations, ensuring that each decade becomes a stepping stone of progress toward an ever-expanding realization of the [[Kingdom of God]] on Earth.
 

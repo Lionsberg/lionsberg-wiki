@@ -144,7 +144,7 @@ The Strategy and Plan designates a series of milestones across time:
 
 #### 1970s to 2010s 
 
-#### [[7 Year Window of Preparatory Work and Learning]] (2017 to 2023) 
+#### [[The 7 Year Window of Preparatory Work and Learning]] (2017 to 2023) 
 
 ### The 10 Year Grand Strategy 
 
@@ -232,7 +232,7 @@ Because the [[Critical Path]] runs through the tipping points strategy rooted in
 
 ...[[Throughput]] can be measured by (something like) how many Individuals, have progressed how far, on [[The Quest]] [[FROM the Old TO the New]]. 
 
-The Lionsberg [[Cycles of Expansion]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence. 
+The Lionsberg [[Lionsberg Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence. 
 
 The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]]. 
 
@@ -289,7 +289,7 @@ The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to ho
 
 The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[Lionsberg System]] produces [[Throughput]] of [[The Goal]]. 
 
-Whereas the [[Cycles of Expansion]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
+Whereas the [[Lionsberg Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
 
 These two dimensions create the basis for [[Measurement]] and [[Continuous Improvement]].  
 

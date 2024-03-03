@@ -1,6 +1,6 @@
-# Cycles of Expansion
+# Lionsberg Cycles of Growth
 
-The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]]. 
+The Lionsberg Cycles of Growth chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]]. 
 
 - Cycle 1: 2 Members  
 - Cycle 2: 3 Members  
@@ -50,5 +50,5 @@ The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to ho
 - Cycle 46: 4,807,526,976 Members (Center Mass)  
 - Cycle 47: 7,778,742,049 Members (Last 1/3)  
 - Cycle 48: All Who Desire in Perpetuity (Holdouts + Future Generations)  
-- Cycle 49: 3 Year Trailing Citizenship (Joining + 3 Years, or Age 15 + 3 Years)  
+- Cycle 49: [[The 3 Year Lag]] to full Citizenship (Joining + 3 Years, or Age 15 + 3 Years)  
 - Cycle 50: The New Era Begins  

@@ -48,7 +48,7 @@ This is a [[Work In Progress]] that Aims to bring together various guides into a
 ## The Playbook 
 
 1. [[The Seven Steps of Transformation]]  
-2. [[The Twelve Pillars of Lionsberg]]  
+2. [[The 12 Pillars of Lionsberg]]  
 
 ### A Vision Of A More Perfect World  
 

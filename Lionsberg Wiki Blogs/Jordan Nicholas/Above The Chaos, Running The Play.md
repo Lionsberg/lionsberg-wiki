@@ -25,7 +25,7 @@ It simply requires that enough people *believe*.
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
 - After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.   
-- Initial Target: connect and empower 3% of the world's population / 40 [[Cycles of Expansion]] / 267 Million People by 2026.   
+- Initial Target: connect and empower 3% of the world's population / 40 [[Lionsberg Cycles of Growth]] / 267 Million People by 2026.   
 ## Cycles of Expansion 
 
 We have mapped 50 [[Milestones]] based on cyclical expansion of [[The Movement]] along the [[Fibonacci]] sequence.  
@@ -85,7 +85,7 @@ To progress and succeed in [[The Quest]], the Players present in each Cycle must
 
 ## How The Play Works 
 
-Now that the [[7 Year Window of Preparatory Work and Learning]] are complete and the [[7 Year Window of the Crisis and Opportunity]] is at hand: 
+Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete and the [[The 7 Year Window of Crisis and Opportunity]] is at hand: 
 
 1. The Advisory Council will coach, advise, monitor progress, and help resource the [[Critical Path]]  
 2. I will do my best to lead and inspire 

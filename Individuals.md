@@ -4,7 +4,7 @@ An Individual is a single, unique [[Being]].
 
 The [[Lionsberg System]] is rooted first in the Sovereignty, Autonomy, [[Authority]], and Voluntary Association among Individuals. 
 
-Individuals inalienably possess all of their inherent [[Rights And Responsibilities]].  
+Individuals inalienably possess all inherent [[Rights And Responsibilities]].  
 
 Individuals are regarded as: 
 
@@ -13,13 +13,17 @@ Individuals are regarded as:
 3. Free  
 4. Conscious Agents  
 
-Each Individual should do their best to [[Co-Operation|Co-Operate]] an [[Individual Instance]] of the [[Lionsberg System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
+To establish [[The Movement]], Individuals, of their own [[Free Will]], voluntary come into resonance and coherence, and accept The Invitation. 
 
-The [[Individual Instance]] is critical to ensuring that the Whole has Integrity, as a result of the Core System Components co-operating at every [[Fractal]] level. 
+Individuals self-organize into [[First Degree Groups]] of 3 to 16 individuals. 
+
+Groups organize and federate into Groups of Groups / Teams of Teams to tackle larger goals, cover more ground, or Steward larger [[Domains]]. 
+
+The [[Lionsberg System]], co-operating at each [[Fractal]] level, enables the Diverse Whole to Move as One. 
 
 In general, Individuals: 
 
-- Have a defined Aim / Goal  
+- Have a defined Purpose / Aim / Goal  
 - Have responsibility and authority in a [[Domain]]  
 - Participate in one or more [[Groups]]  
 - Have one or more defined [[Roles]]  

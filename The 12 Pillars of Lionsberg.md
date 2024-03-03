@@ -10,13 +10,13 @@ From the Supreme Foundation of the Creator's Intent arise The 12 Pillars of Lion
     
 2. **Self Governance and Civic Engagement**: An urgent call to reconstruct our social and political institutions under the mandate of Divine Sovereign Citizenship. Transparency, accountability, and participation aren't just procedural necessities but sacred tenets to foster a united front in fulfilling the Divine Mandate on Earth.
     
-3. **Economic Justice and Transformation**: A directive to establish economic systems that reflect the Divine Principles of justice and abundance, championing the dignity of all beings and empowering every family, community, and ecosystem to flourish materially in social and ecological balance.
+3. **Economic Justice, Regenerativity, and Abundance**: A directive to establish economic systems that reflect the Divine Principles of justice, regenerativity and abundance, championing the dignity of all beings and empowering every family, community, and ecosystem to flourish materially in social and ecological balance.
     
 4. **Holistic Education and Lifelong Learning**: A mission to create New frameworks of lifelong learning and education that recognize the Divine Potential in every child and Citizen, and reposition teachers and technologies as guides to aid in the transformative journey of each individual and community towards their Destiny and Potential.
     
 5. **Holistic Health and Integrated Wellness**: An invitation to adopt  paradigms of integrated spiritual, intellectual, emotional, physical, and environmental wellbeing that view the individual as a holistic entity that must flourish in harmony with family, community and nature.
     
-6. **Regenerative Agriculture and Supply Chains**: A mandate to engage in agricultural practices and supply chain management that respect the sanctity of the Earth and its ecosystems as a Living System, while fostering bioregional and local strength, integrity, and resiliency.
+6. **Regenerative Agriculture, Supply, and Transportation Chains**: A mandate to engage in agricultural practices, supply chain management, and transportation systems that respect the sanctity of the Earth and its ecosystems as a Living System, while fostering bioregional and local strength, integrity, resiliency, and interconnectivity.
     
 7. **Abundant Clean Energy**: A charge to responsibly transition to regenerative energy models that honor the Creator's gifts of natural resources, while providing abundantly for all and prioritizing the upliftment of the poor, vulnerable, and marginalized.
     
