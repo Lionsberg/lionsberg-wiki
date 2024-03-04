@@ -54,7 +54,7 @@ The case study envisions a phased approach:
 
 #### Improving the Commons of Shared Systems and Infrastructure
 
-Lionsberg operates in a unique way, bringing its systems and resources to bear without cost to groups and projects engaged in our collective Mission to design and build a better world. The System sustains itself by leveraging 1/10th of the resource flow we co-create to continuously improve the shared systems and infrastructure being made available to projects and groups around the world. 
+Lionsberg operates in a unique way, bringing its systems and resources to bear without cost to groups and projects engaged in our collective Mission to design and build a better world. The System sustains itself by leveraging 1/10th of the resource flow we co-create through fundraising to cover operational expenses and to continuously improve the shared systems and infrastructure being made available to projects and groups around the world. In this way, all individuals, groups, and projects leveraging the platform strengthen and benefit from one another. 
 #### Conclusion and Invitation 
 
 The Lionsberg System offers a comprehensive solution and framework to the myriad challenges faced by the Kiva Family as it looks towards the Kiva 2025 Pilgrimage and beyond. By leveraging its innovative approach to fundraising, program management, logistics, and political compliance, the pilgrimage can focus on its mission of weaving spiritual unity and love across continents, while ensuring that they are standing upon firm organizational ground with international support. This case study not only illustrates a pathway to success for the Kiva 2025 Pilgrimage but also sets a precedent for how ambitious global initiatives can be empowered to achieve their goals.
