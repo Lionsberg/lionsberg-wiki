@@ -7,7 +7,7 @@ If you are receiving this, you are among the first I am inviting to formally joi
 
 As you know, everything is on the line, and it is up to [[Us]] as [[Individuals]] to take responsibility, commit, and do all that is required to meet the needs, solve the challenges, and accomplish the goals at hand. Together. 
 
-Out of the Diverse Many of [[Us]], it is time to begin Uniting As One. 
+Out of the Diverse Many of [[Us]], to begin to Unite As One. 
 
 ## After Years of Preparation, It is Time to Run The Play 
 

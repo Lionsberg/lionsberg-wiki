@@ -1,3 +1,4 @@
 # Lionsberg Case Studies 
 
-[[Case Study, Transcription]]  
+[[Case Study - Kiva Pilgrimage 2025]]  
+[[Case Study - Transcription and Translation]]  

@@ -1,4 +1,4 @@
-# Case Study, Transcription and Translation
+# Case Study - Transcription and Translation
 
 Jordan is starting to work with indigenous elders around the world. 
 
@@ -104,7 +104,30 @@ DeepL translation quality
 - It read out accurately that 500k or 500k characters remaining  
 - Translated to Spanish in less than 10 seconds. 
 
+## Things to Check Out / Notes From Pete and Jordan 
 
+- When you export text - export to VTT or SRT 
+	- These preserve timecodes  
+	- Clumsy, but still text format so if you had to you could read it. 
+	- There are converter programs that will strip out time codes 
+- VTT or SRT will be read by YouTube and things like that... 
+- As well as video player called VLC - free high quality useful, and put closed captions on the screen.  
+- Can we provide simple instructions so that someone in Mexico can take a video meeting in English, and sync up the Spanish translation with time codes or even closed captions. 
+	- If you export to VTT, save with same file name, different extension 
+	- Instructions: 
+		- Go to Google Drive link 
+		- Download the video file and your preferred transcript language 
+			- Or can you have all in a package? 
+- What are rules on Google for when YouTube transcribes and when it doesn't 
+	- and how it translates, and into what languages?  
+	- Can we upload multiple transcripts in different langauges to Google
+		- and then instruct people how to select? 
+
+## Next Steps
+
+- Maybe Jordan and Pete will figure out the work flow from a Zoom or RiversideFM recording, to transcripts in multiple language, uploaded YouTube or other than enables viewers in different languages to display closed captions from the translated transcript in their own language
+
+[[Spirit]] 
 
 
 

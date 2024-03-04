@@ -16,6 +16,6 @@ Having forged a bounded Domain that can only be entered through voluntary mutual
 
 In other words, to play a New Game together. 
 
-[[The Invitation]] to the first few players in Cycle 1 is drafted, and will be continuously improved by the Players in each of the [[Cycles of Expansion]] as we progress through the [[Milestones]] that mark the Way towards [[The Goal]]. 
+[[The Invitation]] to the first few players in Cycle 1 is drafted, and will be continuously improved by the Players in each of the [[Lionsberg Cycles of Growth]] as we progress through the [[Milestones]] that mark the Way towards [[The Goal]]. 
 
 If you would like to follow along or join the movement as it unfolds, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement).  
