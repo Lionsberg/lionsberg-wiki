@@ -1,7 +1,5 @@
 # Case Study - Kiva Pilgrimage 2025
 
-This Case Study is written to demonstrate a way to structure a significant spiritual project and its significant structural, logistical, and cultural challenges. 
-
 ### Background
 
 The Kiva 2025 Pilgrimage is a global initiative spearheaded by the Kiva Family, representing a diverse group of organizations and wisdom keepers from around the world. The pilgrimage aims to enable a contingency of 50 to 70 individuals to traverse five continents over two months, engaging in ceremonies and cultural exchanges to weave a tapestry of spiritual unity and love. 
