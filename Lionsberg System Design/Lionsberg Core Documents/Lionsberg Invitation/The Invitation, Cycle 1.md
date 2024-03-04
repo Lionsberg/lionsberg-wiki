@@ -1,7 +1,7 @@
 # The Invitation
 *Cycle 1, March 2024*
 
-If you are receiving this, you are one of a select group of people I am inviting to join me for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. At any rate, we will learn and grow *a lot* by attempting the experiment. 
+If you are receiving this, you are among the first I am inviting to formally join me for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. 
 
 As you know, everything is on the line, and it is up to [[Us]] as [[Individuals]] to take responsibility, commit, and do all that is required to meet the needs, solve the challenges, and accomplish the goals at hand. Together. 
 
