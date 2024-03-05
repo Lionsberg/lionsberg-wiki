@@ -2,7 +2,7 @@
 
 ### Background
 
-The Kiva 2025 Pilgrimage is a global initiative spearheaded by the Kiva Family, representing a diverse group of organizations and indigenous wisdom keepers from around the world. The pilgrimage aims to enable a contingency of 50 to 70 individuals to traverse five continents over two months, engaging in ceremonies and cultural exchanges to weave a tapestry of spiritual unity and love. 
+The Kiva 2025 Pilgrimage is a global initiative spearheaded by the Kiva Family, representing a diverse group of organizations and indigenous wisdom keepers from around the world. The pilgrimage aims to enable a group of 30 to 50 elders and a support contingency to traverse five continents over two months, engaging in ceremonies and cultural exchanges to weave a tapestry of spiritual unity and love. In each location, the ceremony will include an array of local elders and representative in addition to the core group. 
 
 Alongside the noble intentions and global significance of the project, the team faces multifaceted challenges: fundraising, program management, logistics, and navigating political landscapes and international travel requirements. 
 
