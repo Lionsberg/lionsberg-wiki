@@ -3,7 +3,7 @@
 # The Invitation
 *Cycle 3, March 2024*
 
-If you are receiving this, you are among the first I am inviting to formally join me, my wife, and my daughter for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. 
+If you are receiving this, you are among the first I am inviting to formally join us for what I hope and pray evolves into a history-making-adventure-of-a-lifetime. 
 
 As you know, everything is on the line, and it is up to [[Us]] as [[Individuals]] to take responsibility, commit, and do all that is required to meet the needs, solve the challenges, and accomplish the goals at hand. Together. 
 
@@ -13,7 +13,7 @@ Out of the Diverse Many of [[Us]], to begin to Unite As One.
 
 March marks the inflection point between the end of [[The 7 Year Window of Preparatory Work and Learning]], and the beginning of the [[10 Year Grand Strategy]]. 
 
-This is the start of a tipping-point-strategy through which all humanity will be invited to collaborate to transform its Way of Being as a human species aboard [[Worksite Earth]], while ensuring that [[The Transformation]] occurs within a single generation. 
+This is the start of a tipping-point-strategy through which humanity will be invited to collaborate to transform its Way of Being as a human species aboard [[Worksite Earth]], co-creating a New Normal while ensuring that [[The Transformation]] occurs within a single generation. 
 
 ## The Spirit and the Written Word
 
@@ -49,8 +49,6 @@ All that is required in the next few [[Lionsberg Cycles of Growth]] is to expand
 That critical first group creates the critical mass to then discern and accomplish the next cycles. 
 
 Our Mission is to transform our lives and our world towards Heaven on Earth by forging the [[Higher Order Functional Unity]] pragmatically required to meet the needs, solve the problems, and accomplish the goals at hand. 
-
-All [[Progress]] will be made in self-governing, self-sustaining, and self-replicating [[Groups]] / [[Teams]] of 3 to 16 individuals. 
 
 To accept this invitation and join the Adventure, visit my website and [Join The Movement](https://jordannicholas.org/join_the_movement). The form will gather an opening tithe (crucial for establishing commitment and public support for The Mission), along with your contact information (crucial for populating our Communication System). 
 
