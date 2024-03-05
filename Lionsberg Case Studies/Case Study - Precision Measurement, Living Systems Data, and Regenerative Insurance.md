@@ -1,4 +1,4 @@
-# Case Study - Precision Measurement, Living Systems Data, and Insurance
+# Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance
 
 #### The Quest for Global Transformation
 
