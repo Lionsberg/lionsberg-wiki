@@ -31,7 +31,7 @@ As we began the third 6 week cycle in August 2022, the state was as follows:
 - We had network nodes representing hundreds of people watching and wondering.
 - It was reported that the backbone technological infrastructure we had funded was being leveraged by ~170 impact organizations in ~13 countries  
 - Some of the most talented, skilled, and wise people we had ever worked with were surrounding us and investing time, energy, and attention  
-- We realized that in order to have a chance to succeed, we need to move beyond the abstraction of the [[Meta Project]] into actually living it out and embodying it through [[LIONSBERG]] 
+- We realized that in order to have a chance to succeed, we need to move beyond the abstraction of the [[Meta Project]] into actually living it out and embodying it through [[Lionsberg]] 
 
 ## State as of April 2023 
 
@@ -88,7 +88,7 @@ In Q3 2023, as Jordan approached the statute of limitations on the civil rights 
 
 Next, we intend to begin measuring the rate at which we are able to connect up, resource and empower [[The Movement]] towards [[The Goal]]. 
 
-The simplest way to measure [[The Movement]] will be to monitor membership in [[LIONSBERG]]. 
+The simplest way to measure [[The Movement]] will be to monitor membership in [[Lionsberg]]. 
 
 Our audacious target is to connect and empower roughly 3% of the population, 267 Million people, by 2026.
 

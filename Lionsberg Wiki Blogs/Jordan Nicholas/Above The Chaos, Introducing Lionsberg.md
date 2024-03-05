@@ -31,7 +31,7 @@ As [[Conscious Agents]] in a universal [[Meta Story]], each of us has a unique a
 ___
 In preparation for this moment, we have been preparing. 
 
-That preparation included co-creating an incarnation of the [[Meta Idea]] called [[LIONSBERG]].  
+That preparation included co-creating an incarnation of the [[Meta Idea]] called [[Lionsberg]].  
 
 Lionsberg is a mythical [[Word Tool]] we use to point at three deeper realities: 
 
@@ -52,7 +52,7 @@ This week is significant because after an absolutely excruciating effort to give
 ___
 There is only one possible outcome that constitutes [[Success]] for this very unusual [[New]] form of [[Life]], and that is to progressively [[Realize]] the [[Meta Goal]] within this generation. 
 
-We will know the [[Meta Goal]] has been accomplished and can continue to be accomplished throughout the [[New Millennium]] when each of 8 billion individuals has been invited, 7 times if necessary, by someone they love and trust, to take up their citizenship in the [[New World]] [[LIONSBERG]] is co-creating and becoming, and 97% acceptance has been achieved. 
+We will know the [[Meta Goal]] has been accomplished and can continue to be accomplished throughout the [[New Millennium]] when each of 8 billion individuals has been invited, 7 times if necessary, by someone they love and trust, to take up their citizenship in the [[New World]] [[Lionsberg]] is co-creating and becoming, and 97% acceptance has been achieved. 
 ____
 Why 97%? While we hope it is not true and [[All]] will voluntarily take up their citizenship in the [[New World]], because the [[Lionsberg System of Governance]] is entirely based on [[Consent]] and Voluntary  [[Participation]], our [[Current Best Understanding]] is that there are some who are so corrupted by the [[Old World]] that they will decline the offer and die while bitterly and resentfully clinging to the [[Old]]. 
 
@@ -60,7 +60,7 @@ This is ok, and must be tolerated, as the [[Lionsberg System of Governance]] doe
 
 No matter what other [[Responsibility]] and [[Authority]] is withdrawn from a [[Conscious Agent]] by other Conscious Agents, the Responsibility, Authority and Freedom to Govern ones Self is inalienable. 
 
-Those who wish to reap the benefits, abundance, and joy that come from the New [[Way of Being]] within the boundaries of [[LIONSBERG]] are welcome.  
+Those who wish to reap the benefits, abundance, and joy that come from the New [[Way of Being]] within the boundaries of [[Lionsberg]] are welcome.  
 
 Those who do not want to honor and uphold the [[Lionsberg Code]] are welcome to remain outside the [[Lionsberg Boundary]].  
 
@@ -69,12 +69,12 @@ Invitations and voluntary consent from the bottom up.
 
 No [[Old]] / existing organization, institution, or system of governance can impose the [[Lionsberg System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individuals]]. 
 
-However any existing organizations, institution, or system of governance can _invite_ its constituents to, in addition to their citizenship(s) in whatever existing forms, also take up their universal citizenship in [[LIONSBERG]]. 
+However any existing organizations, institution, or system of governance can _invite_ its constituents to, in addition to their citizenship(s) in whatever existing forms, also take up their universal citizenship in [[Lionsberg]]. 
 
-The degree to which any [[Old]] system or domain is participating in [[LIONSBERG]] can be judged by evaluating where its population is at along the [[Lionsberg Adoption Curve]]. 
+The degree to which any [[Old]] system or domain is participating in [[Lionsberg]] can be judged by evaluating where its population is at along the [[Lionsberg Adoption Curve]]. 
 
 ___
-The short term objective between Q4 2022 and Q4 2029 is to continuously improve the [[Quality]] of [[LIONSBERG]] as a 1. Community 2. Platform and 3. Experience that connects and empowers the universal "group of groups" / [[Force For Good]] as we advance together towards our overarching and uniting [[Meta Goal]] within the boundaries of our overarching and uniting [[Universal Values]]. 
+The short term objective between Q4 2022 and Q4 2029 is to continuously improve the [[Quality]] of [[Lionsberg]] as a 1. Community 2. Platform and 3. Experience that connects and empowers the universal "group of groups" / [[Force For Good]] as we advance together towards our overarching and uniting [[Meta Goal]] within the boundaries of our overarching and uniting [[Universal Values]]. 
 
 ____
 As outlined on the [[Lionsberg Adoption Curve]] page, 

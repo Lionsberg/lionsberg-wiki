@@ -8,7 +8,7 @@ This document is a [[Work In Progress]].
 
 ## Name 
 
-[[LIONSBERG]] symbolizes the [[New World]] we are co-creating, the Community nurturing it, and the System bringing our shared Vision into Reality. 
+[[Lionsberg]] symbolizes the [[New World]] we are co-creating, the Community nurturing it, and the System bringing our shared Vision into Reality. 
 
 The [[Meta Project]] describes the all-encompassing Program of Action required for humanity to progressively realize the [[New Vision and Plan]]. 
 
@@ -28,9 +28,9 @@ In 2016 and 2017, [[Jordan]] began discussing the concept of an overarching and 
 
 Unable to identify any existing effort or institution, that if driven to its logical end would accomplish [[The Goal]], Jordan and his allies determined that a [[New]] platform was required. 
 
-After years of legal, governance, and organizational research with dozens of advisors, this eventually led to the founding of [[LIONSBERG]]. The Lionsberg [[Provisional Structure]] was approved by the IRS in 2019, and then used to fund the co-creation of the [[Lionsberg Platform]] between 2020 and 2023.
+After years of legal, governance, and organizational research with dozens of advisors, this eventually led to the founding of [[Lionsberg]]. The Lionsberg [[Provisional Structure]] was approved by the IRS in 2019, and then used to fund the co-creation of the [[Lionsberg Platform]] between 2020 and 2023.
 
-[[LIONSBERG]] was purpose-built with the sole intention of manifesting the [[Highest Intention and Greatest Good]], or the [[Kingdom of God]], [[On Earth As it Is In Heaven]]. 
+[[Lionsberg]] was purpose-built with the sole intention of manifesting the [[Highest Intention and Greatest Good]], or the [[Kingdom of God]], [[On Earth As it Is In Heaven]]. 
 
 ## Corruption and Injustice 
 
@@ -42,7 +42,7 @@ By early 2022, Jordan and his family were recovering, the dust was settling from
 
 In Q1 2022, Jordan began convening meetings to begin to explore the concept of an all-encompassing [[Meta Project]] larger than any one movement, group, or nation, while teams continued to improve the core infrastructure and articulation of the ideas. 
 
-By late 2022, the pattern for organizing and federating such an effort was becoming clear, and the need to move from the abstraction of the [[Meta Project]] into its concrete expression through [[LIONSBERG]] was clear. Because the [[Provisional Structure]] established Lionsberg as a self-governing voluntary association, initially stewarding resources through a 501(c)(3) public charity, it emerged from the two previous years of testing relatively unscathed.
+By late 2022, the pattern for organizing and federating such an effort was becoming clear, and the need to move from the abstraction of the [[Meta Project]] into its concrete expression through [[Lionsberg]] was clear. Because the [[Provisional Structure]] established Lionsberg as a self-governing voluntary association, initially stewarding resources through a 501(c)(3) public charity, it emerged from the two previous years of testing relatively unscathed.
 
 As we moved into 2023, Jordan published the foundational literature, context, and lexicon on the [[Lionsberg Wiki]], set up the Lionsberg Communication System, established broadcast capabilities and recorded pilot episodes, ran a couple additional social experiments, and prepared for broadcasting and fundraising. 
 

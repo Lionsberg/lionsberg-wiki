@@ -32,7 +32,7 @@ Our [[Current Best Understanding]] of the [[Wise Right]] [[Way of Being]] is tha
 7. We [[Realize|Realized]] that in order to be able to better See / [[Perceive]] / Act on the abstract notion of the [[Meta Project]], we needed to Instantiate an embodied version of it in our time and place. 
 8. This required the creation of a defensible New [[Identity]] that could be legally registered in order to provide the New [[Structure]] necessary to facilitate emergence. 
 
-To protect the emerging New Life, a [[LIONSBERG]] identity and [[Provisional Structure]] was established. 
+To protect the emerging New Life, a [[Lionsberg]] identity and [[Provisional Structure]] was established. 
 
 The [[Provisional Structure]] established:   
 	1. Lionsberg first as a mythical name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Game]] points at. 

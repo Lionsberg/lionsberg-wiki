@@ -26,4 +26,4 @@ Then we can begin to [[Circumambulation|Circumambulate]] around it, exploring it
 
 Eventually, having perceived and received various elements with the [[Right Hemisphere]] and passed those over to the [[Left Hemisphere]] to [[Map]], we can return to the [[Whole]] with a far better [[Understanding]] and [[Perception]] of That Which Is Revealing / Disclosing Itself To us. 
 
-This is the reason [[LIONSBERG]] had to be first an [[Idea]] and a Mythical Story. By creating a [[Metaphors|Metaphor]] that gave a Mythical Name to the [[New]], it created the [[Space]] for individuals to each [[Progressive Realization|Progressively Realize]] and [[Wrestle With]] what it pointed at over [[Time]]. 
+This is the reason [[Lionsberg]] had to be first an [[Idea]] and a Mythical Story. By creating a [[Metaphors|Metaphor]] that gave a Mythical Name to the [[New]], it created the [[Space]] for individuals to each [[Progressive Realization|Progressively Realize]] and [[Wrestle With]] what it pointed at over [[Time]]. 

@@ -13,7 +13,7 @@ If this book resonated with you, the time for action is now. Every day is crucia
 - [Jordan Nicholas on LinkedIn](www.linkedin.com/in/jordannicholasone)  
 - [Jordan Nicholas on Facebook](https://www.facebook.com/jnicholasone?mibextid=LQQJ4d)  
 
-**Step 4: Forge or Join a Group** - None of us can do it alone. [[Forging or Joining a Group]] to continue your education and transformation is key. [[LIONSBERG]] is developing a variety of tools, resources, and technologies to support and empower groups around the world. 
+**Step 4: Forge or Join a Group** - None of us can do it alone. [[Forging or Joining a Group]] to continue your education and transformation is key. [[Lionsberg]] is developing a variety of tools, resources, and technologies to support and empower groups around the world. 
 
 **Step 5: Federate With Lionsberg** - To structurally connect your group and gain access to resources, community and support, [[Federate With Lionsberg]]. 
 

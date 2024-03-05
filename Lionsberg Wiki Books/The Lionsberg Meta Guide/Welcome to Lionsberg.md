@@ -1,6 +1,6 @@
 # Welcome to Lionsberg 
 
-Greetings, and welcome to [[LIONSBERG]]. 
+Greetings, and welcome to [[Lionsberg]]. 
 
 We are glad you are here. 
 

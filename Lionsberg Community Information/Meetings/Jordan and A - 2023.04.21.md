@@ -26,7 +26,7 @@
 ## 3. Will require differentiating out brand / identify for Jordan and Lionsberg 
 - [[Citizens]] as the empowered heroes 
 - [[Jordan]] as a servant leader / guide 
-- [[LIONSBERG]] as enabling platform / community / gathering place / game / place of voluntary organizing and federating (also servant leader / guide) 
+- [[Lionsberg]] as enabling platform / community / gathering place / game / place of voluntary organizing and federating (also servant leader / guide) 
 - Every Citizen finding their own heroic place / role in [[The Story]]
 
 ## 4. Story based messaging and progressive enlightenment 

@@ -2,7 +2,7 @@
 
 Welcome. We are glad you are here. 
 
-As told in [[The Story of the Builder]], everything about [[LIONSBERG]] is a [[Work In Progress]]. 
+As told in [[The Story of the Builder]], everything about [[Lionsberg]] is a [[Work In Progress]]. 
 
 As we face into the [[Meta Crisis]], this wiki presents a [[New Vision and Plan]] for humanity, and a [[Lionsberg System]] purpose-built to bring the [[Vision Into Reality]]. 
 

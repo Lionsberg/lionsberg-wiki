@@ -145,7 +145,7 @@ To the extent that is a faithful prototype as it strives to continuously improve
 It is just a seed... it is just a green shoot... but although small, if we cultivate it, it has the DNA to become a mighty forest, in which [[All Generations of Life]] can find refuge and abundance. 
 
 ## Lionsberg 
-To begin to incarnate the Spirit of this Way into words, systems, and structures that we could actually implement and enact together, we forged a mythical [[New World]] and System named [[LIONSBERG]]. 
+To begin to incarnate the Spirit of this Way into words, systems, and structures that we could actually implement and enact together, we forged a mythical [[New World]] and System named [[Lionsberg]]. 
 
 Lionsberg is first [[Word Tool]] that points at the [[Meta Idea]]. 
 

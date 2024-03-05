@@ -8,7 +8,7 @@
 - [[Where We Are Going]] - Towards [[The Goal]]! 
 - [[How We Are Going To Get There]] - By progressively connecting up and empowering 1 billion small groups within 7 years to a [[New]] Lionsberg Platform / System / Community / Way. 
 
-**Group / Organization**: [[LIONSBERG]]  
+**Group / Organization**: [[Lionsberg]]  
 
 **Purpose**: To help humanity and the living system [[Progress]] towards [[The Goal]]  
 

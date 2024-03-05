@@ -15,7 +15,7 @@ We have reached a hypothesis on a three pronged approach for our next steps:
 	- CANNOT BE STRUCTURED OR ORGANIZED
 2. **Sovereign Autonomous Citizens and Groups**: Existing people, institutions, organizations, networks, tribes, nations, etc. The "heroes" already on the front lines of every battle to make our world a better place. 
 	- MUST BE SELF-STRUCTURING AND SELF-ORGANIZING 
-3. **New System / Vision / Structure / Strategy / Plan** - [[LIONSBERG]] - as the **structured and organized** place and system attempting to progressively embody universal citizenship, governance, trust, economy, and integrated delivery.  Where we can actually organize the work, define and secure the boundaries, gather and allocate resources, and all have a stake in the value of our being and doing together. Purpose: to provide a **structural framework** that connects and empowers Citizen Led Impact.
+3. **New System / Vision / Structure / Strategy / Plan** - [[Lionsberg]] - as the **structured and organized** place and system attempting to progressively embody universal citizenship, governance, trust, economy, and integrated delivery.  Where we can actually organize the work, define and secure the boundaries, gather and allocate resources, and all have a stake in the value of our being and doing together. Purpose: to provide a **structural framework** that connects and empowers Citizen Led Impact.
 	- REQUIRES VISION, ANALYSIS, SYSTEMS, STRUCTURE, PLANNING, ORGANIZATION, EXECUTION, CONTINUOUS IMPROVEMENT
 
 The common meme linking and uniting layers 1, 2, and 3 will be (something like) [[Citizen Led Impact]].  

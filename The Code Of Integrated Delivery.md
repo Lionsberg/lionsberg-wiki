@@ -26,7 +26,7 @@ These two go together, as ongoing [[Reliability]] in the [[Network of Commitment
 
 Integrated Delivery requires people to focus on **_system performance_**, not just siloed performance.  
 
-The [[LIONSBERG]] [[Meta Project]] is focused on the total performance of the [[Human System]] and [[Living System]] at the highest possible level. 
+The [[Lionsberg]] [[Meta Project]] is focused on the total performance of the [[Human System]] and [[Living System]] at the highest possible level. 
 
 [[Reliability]] is created by people making and keeping commitments to get work done within a properly designed system and structure; Lean Integrated Delivery views a project as a **_network of commitments_**, the fulfillment of each making the follow-on performance possible.
 

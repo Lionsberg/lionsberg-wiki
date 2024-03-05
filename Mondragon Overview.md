@@ -1,6 +1,6 @@
 # Mondragon Overview
 
-[[LIONSBERG]] is working to create a [[New]] Operating System for Humanity that enables a [[New]] [[Way of Being]] that balances all economic, social, political, spiritual, and environmental pillars. 
+[[Lionsberg]] is working to create a [[New]] Operating System for Humanity that enables a [[New]] [[Way of Being]] that balances all economic, social, political, spiritual, and environmental pillars. 
 
 One example of an instantiation of such a Model is [[Mondragon]]. 
 

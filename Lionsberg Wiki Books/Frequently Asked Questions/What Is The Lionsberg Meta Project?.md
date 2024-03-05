@@ -4,7 +4,7 @@ Hello! We are glad you asked.
 
 This is a massive concept with many moving parts. We understand that it can be confusing. 
 
-[[LIONSBERG]] is a mythical name for the better world we are working to bring into reality. 
+[[Lionsberg]] is a mythical name for the better world we are working to bring into reality. 
 
 It is an _idea_ of a different and better [[New World]], which includes a Community and a System purpose-built to bring the [[Best Possible Future]] into reality. 
 
