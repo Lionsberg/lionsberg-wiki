@@ -37,7 +37,7 @@ It's looking good. Shall we keep nurturing this?
 	- Agreed to join Lionsberg Critical Path team, working with Jordan and Massive Wiki team on core technological infrastructure   
 - 5. George Orbelian
 	- Invited by: Jordan 
-	- Introduced to Jordan by: Klaus 
+	- Introduced to Jordan by: Kaitlin Archambault and Jamaica Stevens  
 	- Working with Jordan on [[Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance]]   
 - Cycle Completed March 4, 2024
 - Cycle Time - 1 Day 
