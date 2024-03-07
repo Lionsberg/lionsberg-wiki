@@ -2,6 +2,10 @@
 
 The Lionsberg Cycles of Growth chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]]. 
 
+- Source
+- Spirit 
+- Incarnation 
+- Inception
 - Cycle 1: 2 Co-Creators  
 - Cycle 2: 3 Co-Creators  
 - Cycle 3: 5 Co-Creators  
