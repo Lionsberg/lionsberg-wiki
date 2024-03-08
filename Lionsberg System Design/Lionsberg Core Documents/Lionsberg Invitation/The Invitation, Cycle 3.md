@@ -57,3 +57,5 @@ I look forward to working together with you to make our Community and our World 
 With Love, In Community, 
 
 ~ J  
+
+Welcome to Our New Family.  
