@@ -78,7 +78,8 @@ It's looking good. Shall we keep nurturing this?
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Klaus Mager  
 	- Program management for Bioregional Demonstration project, helping Jordan raise $100k funds for the project + $2M to $10M working capital for Lionsberg 
-
+Cycle Completed March 7, 2024  
+- Cycle Time - 1 Day
 ## Joined In Cycle 6 - 21 Co-Creators (In Progress)
 
 - 14. Maya  
@@ -89,6 +90,18 @@ It's looking good. Shall we keep nurturing this?
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Ana Marshall  
 	- Volunteered to lead first communications team 
+- 16. Donovan Bishop 
+	- Invited by: Jordan
+	- Introduced to Jordan by: Ron Sukut  
+	- Interested in US Political front, the future of Church, and embodying a new way of being as One Body  
+- 17. Daniel Jones 
+	- Invited by: Jordan  
+	- Introduced to Jordan by: RockForce  
+	- Working with Jordan to build a Team of Teams in the heavy civil construction industry  
+- 18. Caleb Reynoldson 
+	- Invited by: Jordan  
+	- Introduced to Jordan by: RockForce  
+	- Working with substance abuse, rehabilitation, and suicide prevention in the construction industry.  
 
 
 
