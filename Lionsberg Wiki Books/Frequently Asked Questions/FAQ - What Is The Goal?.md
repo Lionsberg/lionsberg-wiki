@@ -4,4 +4,6 @@
 
 [[The Goal]] is the [[Kingdom Of God]], [[On Earth As it Is In Heaven]]. 
 
+[[The Goal]] is [[Heaven On Earth]]. 
+
 See more [[Frequently Asked Questions]]  

@@ -1,6 +1,6 @@
 # FAQ - What Is Lionsberg?
 
-Lionsberg is a visionary, innovative, and comprehensive system and plan that aims to solve the challenges of our time and create a better future for all. 
+Lionsberg is a visionary, innovative, and comprehensive system, story, platform and plan that aims to solve the challenges of our time and create a better future for all. 
 
 See [[Lionsberg]]  
 
