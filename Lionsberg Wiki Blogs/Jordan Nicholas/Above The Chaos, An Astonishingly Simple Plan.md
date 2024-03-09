@@ -24,7 +24,7 @@ ____
 
 ## The Power of Exponential Patterns 
 
-If you are willing to Join Us, our emerging movement would grow from 16 to 17 co-creators today. Actually, it just did so you would be 18. Our little emerging creation is as tiny as the sprout emerging from a mustard seed. 
+If you are willing to Join Us, our emerging movement would grow from 16 to 17 co-creators today. Actually, it just did so you would be 18. Just grew again. So you would be 19. Our little emerging creation is as tiny as the sprout emerging from a mustard seed. But it is growing and gaining momentum even as I write this. 
 
 Yet just like a living organism, if we were each to simply find one other person to [[Pass The Flame]] to each week, The Body of Vision, Love, Light, and Unity that is emerging would double in size each week. Or at whatever Rate we [[Consciously Decide]]. 
 
