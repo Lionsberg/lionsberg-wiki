@@ -1,6 +1,6 @@
 # Above The Chaos, Reconciling the Critical Path 
 
-A post in [[Above The Chaos]]  
+A post in [[Above The Chaos]]   
 
 March 10, 2024   
 
