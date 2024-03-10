@@ -4,7 +4,7 @@ A post in [[Above The Chaos]]
 
 March 10, 2024  
 
-I have recently been rereading Critical Path by Buckminster Fuller, one of the few I have discovered who have also truly attempted to grapple with an Omni-Considerate plan for Worksite Earth. I have also been synthesizing the learnings from Grunch of Giants. 
+I have recently been rereading Critical Path by Buckminster Fuller, one of the few I have discovered who have also truly attempted to grapple with an Omni-Considerate plan for Worksite Earth. I have also been synthesizing the learnings from Grunch of Giants.  
 
 Not unlike Bucky, I am setting out to see what an unknown individual, operating only on behalf of all humanity, the Creator, and All Creation, might accomplish in advancing Creation towards its Best and Highest Destiny.  
 
