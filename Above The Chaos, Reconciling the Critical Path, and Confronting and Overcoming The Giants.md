@@ -16,6 +16,10 @@ This is a long post, but I believe crucial reading to anyone who wants to unders
 
 For more on the role of the [[Invisible Power Structures]] and [[The Giants]] see [[Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It]].  It is crucial to link the "Deep State" elements in with the issues below, and that post traces the rise of The Blob of state actors post [[World War II]].  
 
+For a far simpler take on how we as individuals can rapidly connect to meet this moment in history, see [[Above The Chaos, An Astonishingly Simple Plan]]. Then [[Light Your Candle]], and [[Pass The Flame]]. 
+
+## The Multi-Generational Strategy and Plan 
+
 Whereas the first 50 years (and the millennia beforehand) required primarily the co-creation of the Knowledge and Technology that make the implementation possible, the [[10 Year Grand Strategy]] requires the co-creation of the systems and structure required to “pull” the entire human population through the transformation [[FROM the Old TO the New]], and to ensure that each and every family on Earth is abundantly provisioned by the poly-centric implementation, localization and instantiation of the [[The Prototype]], which orders within itself as a “kit of parts” the artifacts, tools, technologies, systems, and processes required for life and society to flourish. 
 
 Bucky’s insight into the English Empire as the first closed-loop world system, and his insight into the requirement for a post-nation-state Omni-Integration of all localities, tribes, and nations into some form of [[Higher Order Functional Unity]], points the way towards the co-creation of a closed-loop [[Human System]] co-operating in support of the eternally regenerative flourishing of the [[Living System]]. 
@@ -24,7 +28,7 @@ The [[Lionsberg System]] is purpose built for this objective.
 
 Everything else becomes possible as reunite and become [[One Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
 
-Most of the words below are Becky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. 
+Most of the words below are Bucky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. This is the [[Way]] we Co-Create the [[New]]. 
 
 ## Building The Movement, and Transforming The World 
 
@@ -40,6 +44,12 @@ As we become [[One Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg
 This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand. 
 
 The resulting pattern is the local and bioregional poly-centric implementation and adaptation of shared solutions and technologies. This ensures the sovereignty, autonomy, and local relevancy of each instance of [[The System]], while eliminating the need for each locality to reinvent the wheel, and enabling [[Interoperability]] and Resource Flows across [[The Body]]. 
+
+Bucky focused less on building [[The Movement]], and more on the 10 Year Grand Strategy to transform our Weapons into tools of Life. 
+
+Below is the beginning of reconciliation and synergy of key ideas, bringing everything up to date for the present moment. 
+
+Note that the fraudulent and corrupted nature of the Collapsing Existing Order demands a holistic and rapid transformation [[FROM the Old TO the New]]. 
 ## Reconciling and Synergizing Key Ideas
 
 ### Context: The Meta Crisis 
