@@ -97,11 +97,15 @@ Cycle Completed March 7, 2024
 - 17. Daniel Jones 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
-	- Working with Jordan to build a Team of Teams in the heavy civil construction industry  
+	- Working with Jordan to build a Team of Teams in the heavy civil construction industry - first company in the Lionsberg North America Federation  
 - 18. Caleb Reynoldson 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
 	- Working with substance abuse, rehabilitation, and suicide prevention in the construction industry.  
+- 19. Daniel Musembi  
+	- Invited by: Jordan  
+	- Introduced to Jordan by: Estelle Kabithi  
+	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
 
 
 

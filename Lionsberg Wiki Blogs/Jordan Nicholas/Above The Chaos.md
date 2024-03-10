@@ -16,6 +16,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## March 2024 
 
+- [[Above The Chaos, Reconciling the Critical Path]]  
 - [[Above The Chaos, An Astonishingly Simple Plan]]  
 - [[Above The Chaos, Next Steps]]  
 - [[Above The Chaos, Game Plan For March]]  
@@ -54,6 +55,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
 - Traveled to Barcelona, South Africa, Dubai, exploring ways for the [[Meta Project]] to advance and reconciling strategic plans and milestones with network elements. 
+- Progressively realized that it is not feasible to execute the [[Meta Project]] through a joint venture of existing organizations or networks, and that something entirely [[New]] must emerge, rooted in Individual Agency and Free Will. 
 
 ## September 2023  
 
