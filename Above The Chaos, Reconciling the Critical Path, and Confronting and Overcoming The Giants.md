@@ -114,11 +114,14 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 	- 2. Stacks up and aligns efforts across the [[Team of Teams]] to create [[Critical Path]] [[Progress]], or said in another way, [[Throughput]] of [[The Goal]], these being technically identical from the standpoint of an Omni-Considerate [[Meta System]] purpose-built to facilitate the Omni-Considerate [[Meta Project]].  
 - This allows for the poly-centric localization, adaption, and instantiation of an Interoperable Solutions Set being continuously improved to [[Meet The Needs, Solve The Problems, and Accomplish The Goals]] at hand in each community, watershed, bioregion, etc. 
 
+### The Role of Living Systems Data 
+
+- [[Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance]]  
 ### Education and Awareness 
 
 - 99% of humanity ***Does Not Know*** that [[We All]] have the option to “make it” socially and economically on this planet. 
 - We therefore must transmit the minimum information and experiential learning… 
-- …leading to ultimate comprehension of the fact that humanity now, for the first time in [[The Story]], has the realistic opportunity to collaborate to transform our lives and our world into one omniconsiderate harmonious family that is sustainingly successful. 
+- …leading to ultimate comprehension of the fact that humanity now, for the first time in [[The Story]], has the realistic opportunity to collaborate to transform our lives and our world into one omni-considerate harmonious family that is sustainingly successful. 
 
 ### Is There Enough? 
 
