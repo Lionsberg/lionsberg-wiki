@@ -1,4 +1,4 @@
-# Above The Chaos, Reconciling the Critical Path 
+# Above The Chaos, Reconciling the Critical Path, and Confronting and Overcoming The Giants 
 
 A post in [[Above The Chaos]]   
 
@@ -46,7 +46,6 @@ The resulting pattern is the local and bioregional poly-centric implementation a
 
 - Humanity is moving deeper into a [[Crisis]] without precedent.  
 - As individuals and society more vividly realize the arrival of historically unprecedented and ever-more-frequently-occurring crises, there will be a dawning [[Awareness]] of the availability of a [[Potentially Effective Yet Unfamiliar]] means of confronting and overcoming them, [[Together]]. 
-
 ### The Grand Strategy
 
 #### The Apollo Project - A Metaphor for the 10 Year Grand Strategy
@@ -291,8 +290,6 @@ The resulting pattern is the local and bioregional poly-centric implementation a
 #### Politics 
 
 - It is hopefully becoming obvious why humanity’s most fundamental problems cannot be solved by [[Politics]] within the Invisible-Power-Structure-Puppeted systems creating them. 
-# Grunch Break
-Here are some key points and quick notes I took in 2023: 
 
 #### Land, Reintegration, and Emergence Through Emergency 
 
@@ -553,7 +550,7 @@ Here are some key points and quick notes I took in 2023:
 	- if Gov used same CPI as carter in 70s... 
 	- a lot of inflation adjusted responsiblites government has - if they keep inflation low according to own stats, paying out less 
 - ***Countries can arbitrarily debase currencies, making industries more competitive, causing entire manufacturing to move overseas...*** 
-- When you print money, nothing backing it, and debase it... you have all these problems and many more, because you put yourself inside of a ponzie scheme that will eventually [[Collapse]].  
+- When you print money, nothing backing it, and debase it... you have all these problems and many more, because you put yourself inside of a ponzie scheme that will eventually [[Collapse]]. 
 - People demonstrating against the economy, and demanding more state spending... 
 - Until 2008 - borrowing more to try to maintain standard of living.
 - In 2012 - seeing deleveraging... 
@@ -781,9 +778,6 @@ ____
 
 - I sought to discover what, if anything, can be effectively accomplished by a penniless, unknown individual—operating only on behalf of all humanity—in attempting to produce sustainingly favorable physical and metaphysical advancement of the integrity of all human life on our planet,  which omnihuman advantaging task, attemptable by the  individual, is inherently impossible of accomplishment by any nation, private enterprise, religion, or other multipeopled, bias-fostering combination thereof. 
 - A poet is somebody who feels, and who **expresses** his **feelings through words**. This may sound easy. It isn’t. 
-
-____
-## Misc Notes
 
 ## Speculative Prehistory of Humanity 
 
