@@ -2,7 +2,7 @@
 
 A post in [[Above The Chaos]]  
 
-March 10, 2024  
+March 10, 2024   
 
 I have recently been rereading Critical Path by Buckminster Fuller, one of the few I have discovered who have also truly attempted to grapple with an Omni-Considerate plan for Worksite Earth. I have also been synthesizing the learnings from Grunch of Giants.  
 
