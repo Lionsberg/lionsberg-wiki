@@ -140,6 +140,8 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 ### A New Human Operating System 
 
+- This calls forth an entirely New Human Operating System, totally reharmonized with the [[Living System]], and the [[Wisdom, Principles, and Values]] that cause people, societies, and ecosystems to flourish in harmony.  
+- The [[Lionsberg System]] was created for this purpose.  
 
 ### Why Now? 
 
@@ -163,12 +165,13 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - All the other world-power-stature individuals who vied for supreme mastery of the world’s high seas lines of supply ***also operated invisibly through monarchs and nations over whom they had sufficient influence***. 
 - Through such behind-the-throne influence, the influenced nation’s resources could be politically maneuvered through the [[Visible Power Structures]] into paying for the building and operation of the navies and armies that would seek to establish and protect the privately owned enterprises of the [[Invisible Power Structures]].  
 - With the Battle of Trafalgar in 1805 the British Empire  won “the world’s power structures championship” and became historically the first empire “upon which,” it was said, “the sun never sets.” 
-- This is because it was the first  empire in history to embrace the entire spherical planet Earth’s 71-percent maritime, 29-percent landed, wealthproducing activities.  
+- This is because it was the first  empire in history to embrace the entire spherical planet Earth’s 71-percent maritime, 29-percent landed, wealth-producing activities.  
 - All earlier empires were infinite systems - open systems.  
 - The British Empire was history’s first spherically closed, finite system.  
 - Building and maintaining the world’s  most powerful navy, the 1805 supremely victorious British Empire was to maintain its sovereignty over the world’s oceans and seas for 113 years until the end of World War I in 1918, when its dominions signed the peace treaties and joined the new League of Nations as independent states.  
 - The League of Nations was the first worldwide intergovernmental organization, operating until 1946 when many of its components were relocated into the new United Nations, and the current World Order morphed into its present form…
 - …which now appears to be entering a phase of [[Collapse]].  
+- [[Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It]] picks up here with the formation of [[The Blob]] of Invisible-Power-Structure-Backed-National-And-Supranational Governments, Institutions, Agencies, Departments, and NGOs, colluding to implement the Agenda of the [[Invisible Power Structures]].  
 
 ### Perceived Scarcity, and Us vs. Them 
 
