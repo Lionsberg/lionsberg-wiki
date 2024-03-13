@@ -4,7 +4,7 @@ This is a book of words spoken from the Spirit that impels us to confront and ov
 
 ____
 
-"In the beginning, God..." - Genesis 1
+"In the beginning, [[God]]..." - Genesis 1
 
 "I have the audacity to believe that peoples everywhere can have three meals a day for their bodies, education and culture of their minds, and dignity, equality, and freedom for their spirits. I believe that what self-centered men have torn down, men other-centered can build up I still believe that one day mankind will bow before the altars of God and be crowned triumphant over war and bloodshed, and nonviolent redemptive goodwill will proclaim the rule of the land." - [[Martin Luther King Jr.]]  
 
@@ -330,6 +330,33 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 “The survival of mankind cannot be secured in isolation from other living beings, such as crawling, swimming, winged and four-legged relatives, as well as plants, trees and minerals. In order to achieve the much needed and desired balance of peace, universal love must be allowed to grow. A love that literally allows every person and thing to blossom, as the power of the sun’s rays helps. So the survival of mankind depends on everyone – not just us natives. Only when we realize that we cannot separate from other living beings on earth do we bring about positive change.   
 We have to include the unborn up to the seventh generation in our deliberations in advance in order to find our way.”  - Reymundo Tigre Perez, medicine man from the Purépechas
 
+In order that men should embrace the truth—not in the vague way they did in childhood, nor in the one-sided and perverted way presented to them by their religious and scientific teachers, but embrace it as their highest law—the complete liberation of this truth from all and every superstition (both pseudo-religious and pseudo-scientific) by which it is still obscured is essential. - Leo Tolstoy 
+
+When an individual passes from one period of life to another a time comes when he cannot go on in senseless activity and excitement as before, but has to understand that although he has outgrown what before used to direct him, this does not mean that he must live without any reasonable guidance, but rather that he must formulate for himself an understanding of life corresponding to his age, and having elucidated it must be guided by it. And in the same way a similar time must come in the growth and development of humanity. I believe that such a time has now arrived. - Leo Tolstoy 
+
+A commercial company enslaved a nation comprising two hundred millions. Tell this to a man free from superstition and he will fail to grasp what these words mean. What does it mean that thirty thousand men, not athletes but rather weak and ordinary people, have subdued two hundred million vigorous, clever, capable, and freedom-loving people? Do not the figures make it clear that it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves? - Leo Tolstoy 
+
+New justifications have now appeared in place of the antiquated, obsolete, religious ones. These new justifications are just as inadequate as the old ones, but as they are new their futility cannot immediately be recognized by the majority of men... But by the term 'scientific' is understood just what was formerly understood by the term 'religious': just as formerly everything called 'religious' was held to be unquestionable simply because it was called religious, so now all that is called 'scientific' is held to be unquestionable. - Leo Tolstoy 
+
+Be not the destroyers of yourselves. Arise to your true Being, and then you will have nothing to fear. - Krishna 
+
+People saw more and more clearly, and now the majority see quite clearly, the senselessness and immorality of subordinating their wills to those of other people just like themselves, when they are bidden to do what is contrary not only to their interests but also to their moral sense. - Leo Tolstoy 
+
+For a long time people lived in this obvious contradiction without noticing it. - Leo Tolstoy 
+
+..but this truth was so interwoven everywhere with all kinds of falsehoods which distorted it, that finally nothing of it remained but words. - Leo Tolstoy 
+
+Of what use is superior knowledge in the one, if he does not endeavour to relieve his neighbour's want as much as his own? - The Hindu Kural 
+
+Amid this life based on coercion, one and the same thought constantly emerged among different nations, namely, that in every individual a spiritual element is manifested that gives life to all that exists, and that this spiritual element strives to unite with everything of a like nature to itself, and attains this aim through love. - Leo Tolstoy 
+
+Thus the truth—that his life should be directed by the spiritual element which is its basis, which manifests itself as love, and which is so natural to man—this truth, in order to force a way to man's consciousness, had to struggle not merely against the obscurity with which it was expressed and the intentional and unintentional distortions surrounding it, but also against deliberate violence, which by means of persecutions and punishments sought to compel men to accept religious laws authorized by the rulers and conflicting with the truth. - Leo Tolstoy 
+
+All that exists is One. People only call this One by different names. - The Vedas 
+
+God is love, and he that abideth in love abideth in God, and God abideth in him. - I John 
+
+## Selah 14 
 
 
 
