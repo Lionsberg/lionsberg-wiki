@@ -107,6 +107,58 @@ Cycle Completed March 7, 2024
 	- Introduced to Jordan by: Estelle Kabithi  
 	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
 
+## Tentative to Round Out Cycle 6: 
+- 20. Estelle Kabithi 
+- 21. John Kabithi 
+- 22. Yanik Silver 
+
+## Cycle 7 Invitations: Expansion Out to 34 Co-Creators 
+
+- Acceptance rate was 80% + in first 6 cycles 
+- Expect that to drop as cycles expand, perhaps 50% for cycle 7? 
+- Therefore - may need to invite 26 to gain 13 additional co-creators - there is a pool of 40 carefully vetted names below as a starting point  
+
+- 23. Gil F  
+- 24. Hank K  
+- 25. Jerry M   
+- 26. Maya  
+- 27. Edu 
+- 28. Moses 
+- 29. Tom C  
+- 30. Joseph C 
+- 31. Joshua P 
+- 32. Michael G 
+- 33. Jahn 
+- 34. Amy 
+- 35. Greg F 
+- 36. Jamaica S 
+- 37. Gary G 
+- 38. Kaiti A 
+- 39. Vincent A 
+- 40. Forrist L 
+- 41. Lenna G
+- 42. Andrew B 
+- 43. John C  
+- 44. Killu S  
+- 45. Stefan V  
+- 46. Stuart L
+- 47. David W 
+- 48. Doug B 
+- 49. Greg and Emily 
+- 50. Greg and Emily 
+- 51. Piff 
+- 52. Virginia 
+- 53. Virginias kids 1
+- 54. Virginias kids 2 
+- 55. Jen 
+- 56. Ian 
+- 57. Phillip 
+- 58. Paul R 
+- 59. Bob K 
+- 60. Elliot B 
+- 61. Wendy E 
+- 62. Wendy M 
+- 63. Sasha S 
 
 
 

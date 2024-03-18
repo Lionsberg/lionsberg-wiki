@@ -158,7 +158,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 
 If we can achieve these 5 goals over the coming 30 days: 
 
-- Jordan will not be homeless, and will be able to continue to Focus on this full time on serving and supporting The Movement   
+- We will be able to continue to Focus full time on serving and supporting The Movement   
 - Lionsberg will Live    
 - We will have the initial critical mass to carefully selected Individuals advance towards 50 to 100 Individuals engaged by the end of Q2  
 - 50 to 100 carefully selected individuals engaged within 4 months:

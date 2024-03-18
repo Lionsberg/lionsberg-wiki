@@ -143,6 +143,10 @@ The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [
 [[Levels of Abstraction]]  
 [[Servant Leadership]]  
 
+#### Proposals and Quests 
+
+- [[Quests]]  
+- [[Proposals]]  
 #### Meetings 
 
 [[Meetings]]  

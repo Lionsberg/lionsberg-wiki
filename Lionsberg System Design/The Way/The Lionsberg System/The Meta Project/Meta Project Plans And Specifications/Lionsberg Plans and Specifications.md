@@ -1,32 +1,15 @@
 # Lionsberg Plans and Specifications
 
-## Genesis
-[[0.1 Title Page]]  
-[[0.2 Introduction]]  
-[[0.4 Lionsberg]]  
+The [[Lionsberg Wiki Books]] and the [[Lionsberg Wiki]] as a whole provide a detailed conceptual overview of the [[Lionsberg System]] and the [[New World]] it aims to bring into Reality. 
 
-## Part 1: Designer's Intent
-[[1.1 Designer's Intent]]  
-[[Requests For Guidance]] 
-[[1.3 The Meta System]]  
-[[1.4 The Living System]] 
-[[1.5 The Human System]] 
-[[1.6 The Lionsberg System]] 
-[[1.7 Everything Is A Client]] 
-[[1.8 Everyone Is A Steward]] 
+Because humanity has not yet Embodied this kind of [[Higher Order Functional Unity]], [[Lionsberg]] is an ongoing act of Co-Creation, and will remain so throughout the [[New Millennium]] and Beyond. 
 
+The Lionsberg System is purpose-built to [[Progressively Realize]] and "pull" the [[Creator's Intent]] into Reality by connecting, equipping, and empowering Individuals to do so together while [[Passing The Flame]] to [[The Rising Generations]]. 
 
+Part of this effort require the [[Progressive Articulation]] and [[Continuous Improvement]] of more detailed Plans and Specifications as We discover and Co-Create the [[Pattern Language]] of the [[New World]].
 
-## Part 2: Analysis of Existing Forces and Conditions
+We intend to do that here. 
 
+Recognizing that [[We Do Not Know]] precisely the optimal Way to Collaborate as One, [[The 7 Year Window of Preparatory Work and Learning]] aimed to co-create [[The Conditions]] and build the core systems and infrastructure to enable [[The Body]] to emerge and Co-Create ItSelf. 
 
-## Part 3: Engaging the Global Community
-
-
-## Part 4: Planning 
-
-
-## Part 5: Action
-
-
-## Part 6: Performance Management and Continuous Improvement 
+The Emergence began March 1, 2024, and is being monitored via the [[Lionsberg Cycles of Growth]]. 

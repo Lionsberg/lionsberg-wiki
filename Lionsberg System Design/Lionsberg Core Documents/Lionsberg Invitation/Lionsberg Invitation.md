@@ -2,9 +2,11 @@
 
 ## Current Version
 
-[[The Invitation, Cycle 3]]  
+[[The Invitation, Cycle 7]]  
+
 ## Previous Versions 
 
+[[The Invitation, Cycle 3]] 
 [[The Invitation, Cycle 1]]  
 [[The Invitation, Cycle 1 (draft not sent)]]  
 [[The Invitation, v.0.4]]  
