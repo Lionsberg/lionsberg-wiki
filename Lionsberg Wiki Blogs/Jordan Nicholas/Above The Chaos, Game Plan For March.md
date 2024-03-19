@@ -141,7 +141,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 
 ### Goal 3: Lionsberg Co-Creator Handbook
 
-3. Complete and distribute v0.1 of the [[Lionsberg Co-Creator Handbook (v.0.1)]]  
+3. Complete and distribute v0.1 of [[The Lionsberg Co-Creator Handbook]]  
 	1. Bonus - 2 or 3 co-creators provide feedback, incorporate, and publish v0.2
 
 ### Goal 4: Publish a Book 

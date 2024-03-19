@@ -12,5 +12,7 @@ Attempt 5: We are arising and uniting to [[Pass The Flame]] and illuminate the p
 
 Attempt 6: In partnership with the Creator, One Another, and All Creation, we are Co-Creating the Best Possible Future For All. 
 
+Attempt 7: We are Co-Creating a growing array of infrastructure, services, and support to facilitate the poly-centric localization and adaptation of the [[General Solutions]] necessary to enable every individual, family, community, and bioregion of the world to flourish in harmony, and ensuring that every community and bioregion on Earth is regenerated within a single generation. 
+
 The Creator is inviting us All to become [[Co-Creators]] of an entirely [[New World]].  
 
