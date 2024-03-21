@@ -16,11 +16,13 @@ If any part of you resonates and can hear what I am trying to communicate, I beg
 
 As World War III intensifies, supply lines are attacked, food prices skyrocket, currencies falter, ecosystems are destroyed, Values are sacrificed, populations are divided and conquered, and the [[Invisible Power Structures]] plot their final moves while the Good People Sleep, the time is short to [[Awaken, Arise, and Unite]] for the Adventure and Opportunity of a lifetime. 
 
-Over the coming months, we will discover we are all billionaires, all Children of the King, whose [[Collective Inheritance]] and Identity has been robbed and concealed. 
+Over the coming months, we will discover we are all billionaires, all Children of The King, whose [[Collective Inheritance]] and Identity has been robbed and concealed. 
 
-It is not too late. There is still hope. But we have to awaken and move together. Now. 
+It is not too late. There is still [[Hope]]. The Future can and should be Better for every family on Earth than it has ever been for Any in the past. 
 
-To save time and conserve resources, I am publishing this first sampling of the broader writings found in the Lionsberg Wiki Books without the usual time and resources that would go into editing and professional design. The downside is that you will find embarrassing errors and insufficiencies in the Work. The Good News is that we can fix them together. 
+But we have to awaken and move together. Now. Before it is too late. The Existing Order is Collapsing, and it is not obvious how much longer The Window will remain open. 
+
+To save time and conserve resources, I am publishing this first sampling of the broader writings found in the Lionsberg Wiki Books without the usual professional oversight and assistance that would go into editing and design. The downside is that you will find embarrassing errors and insufficiencies in the Work. The Good News is that we can fix them together as we Move. 
 
 I look forward to collaborating to make Future Versions of this Work, and Our World, Better. 
 
@@ -32,15 +34,17 @@ There came a time in its history when the community was mired in conflict, confu
 
 In a small corner of the community, there was a Builder named Nicholas. 
 
-His greatest heart's desire was to design and build a beautiful [[City on a Hill]], that would lift people up out of the darkness and despair of life in [[The Valley]], and serve as a Fortress of [[Hope]] and [[Inspiration]] for generations to come. 
+His greatest heart's desire was to design and build a Beautiful and Coherent [[City on a Hill]], that would lift people up out of the Darkness and Despair of life in [[The Valley]], and serve as a Fortress of [[Hope]] and [[Inspiration]] for generations and millennia to come. 
 
-He spent decades thinking, praying, discerning, and designing the intricate details of a [[Community]] where people could [[Flourish in Harmony]] with the Creator, One Another, and All Creation. 
+He spent decades thinking, praying, discerning, and designing the intricate details of a [[Community]] where people could [[Flourish in Harmony]] and Right Relationship with the Creator, One Another, and All Creation. 
 
-Many in the community of The Valley thought it was a preposterous idea. The more The Valley drifted towards [[Chaos]] and confusion, the more abstract and out of touch the Idea of a flourishing and vibrant [[City on a Hill]] became. They called him a madman and a dreamer, they rejected and slandered him, and the authorities of The Valley sought to tear down his resources and reputation.  
+He imagined a [[New Covenant]] that would reunite Humanity as One Family of God. 
+
+Many in the community of The Valley thought it was a preposterous idea. The more The Valley drifted towards [[Chaos]] and confusion, the more abstract and out of touch [[The Idea]] of a flourishing and vibrant [[City on a Hill]] became. They called him a madman and a dreamer, they rejected and slandered him, and the authorities of The Valley sought to tear down his resources and reputation.  
 
 Despite the hardship, Nicholas knew that he would be betraying his soul and purpose if he did not work tirelessly to realize what the Creator had placed on his heart since his earliest memories. 
 
-After many years of designing, the plans were laid, the [[Meta Crisis]] was on the horizon, and Nicholas climbed up to the heights of the [[Sacred Mountain]] to begin work on the Magnificent City he had been shown, for the benefit, inspiration, and protection of the community of The Valley. 
+After many years of designing, the plans were laid, the [[Meta Crisis]] was on the horizon, and Nicholas climbed up to the heights of the [[Sacred Mountain]] to begin work on the Magnificent City reflected in the [[Divine Blueprints]] he had been shown, for the benefit, inspiration, and protection of the Community of The Valley. 
 
 He knew that they would need an [[Ark]] to carry them through the [[Chaos]] that lay ahead. 
 
@@ -72,31 +76,31 @@ A respected older man in the community approached the Builder out of the crowd. 
 
 With a disgusted and cynical look, he turned and began to make his way back down the [[Way]] towards [[The Valley]]. 
 
-The Builder called out after him "Please Good Sir, are you willing to help me? I do not pretend to know how to create the best roads, but if you are willing to share your [[Wisdom]] I am willing to [[Listen]]. Would you please take a few moments to explain to me how the roads are inadequate, and what changes we might be able to make to bring them to within your [[Range of Tolerance]]?"
+The Builder called out after him "Please Good Sir, are you willing to help me? I do not pretend to know how to create the best roads, but if you are willing to share your [[Wisdom]] I am willing to [[Listen]], and see how we might be able to [[Embody And Enact]] it together. Would you please take a few moments to explain to me how the roads are inadequate, and what changes we might be able to make to bring them to within your [[Range of Tolerance]]?"
 
-The elder paused, and then reluctantly agreed that he could take a few minutes to point out the inadequacies in more detail. 
+The elder paused, and then reluctantly agreed that he could take a few minutes to point out the inadequacies and insufficiencies in more detail. 
 
-The Builder knew he would need the [[Wisdom]] of [[The Elders]], with the exuberance of [[The Youth]], and the strength of [[The Adults]] in order to [[Avoid Failure]] and [[Succeed]], no matter how difficult it was to get everyone working together. It would take the collaboration of all generations to [[Co-Create]] something truly [[Ideal]]. 
+The Builder knew he would need the [[Wisdom]] of [[The Elders]], with the exuberance of [[The Youth]], and the strength of [[The Adults]] in order to [[Avoid Failure]] and [[Succeed]], no matter how difficult it was to get everyone working together. None of them could do it alone, so there was no other [[Way]].  It would take the collaboration of all generations to [[Co-Create]] something that Truly reflected [[The Ideal]]. 
 
 One of the members working on the layout of the church was a local grocer. "Where are you planning to set up the local shops?" he asked. 
 
-"That is a wonderful question," the Builder replied. "Let us review the plans and specifications together and see, perhaps you could help improve them." They explored the design for a large cobblestone Main Street coming off Town Square, with local shops to provision the families of [[The Great City]]. As they talked, the grocer and the Builder began excitedly drawing plans for the layout of the store, the discussing the [[Supply Chains]] that would provision it. 
+"That is a wonderful question," the Builder replied. "Let us review the [[Plans and Specifications]] together and see, perhaps you could help improve them." They explored the design for a large cobblestone Main Street coming off Town Square, with local shops to provision the families of [[The Great City]]. As they talked, the grocer and the Builder began excitedly drawing plans for the layout of the store, the discussing the [[Supply Chains]] that would provision it. 
 
-The next day the Builder climbed the [[Way]] up to the [[Sacred Mountain]] as he did every day, studying and praying over the plans and [[Progress]], and asking God to reveal and direct their [[Next Steps]]. As he was praying, a childhood friend from The Valley who had grown up alongside the Builder approached him and startled him out of his prayers. "I have been praying on [[The Mountain]] this morning," the friend said abruptly. "I hoped I would find you here. I am deeply troubled by your dangerous plan to build this City." He also cared deeply about the town, but felt strongly that any plan for Hope needed to involve working to transform The Valley below from within. "Your creative ideas are dangerous. You are up here trying to build a City in the clouds, while we are down in the trenches of The Valley fighting the true battle. God did not tell me to build a City on a Hill, God told me we need to build boundaries and protections against the threats [[At Hand]]." 
+The next day the Builder climbed the [[Way]] up to the [[Sacred Mountain]] as he did every day, studying and praying over the Plans and [[Progress]], and asking God to reveal and direct their [[Next Steps]]. As he was praying, a childhood friend from The Valley who had grown up alongside the Builder approached him and startled him out of his prayers. "I have been praying on [[The Mountain]] this morning," the friend said abruptly. "I hoped I would find you here. I am deeply troubled by your dangerous plan to build this City." He also cared deeply about the town, but felt strongly that any plan for Hope needed to involve working to transform The Valley below from within. "Your creative ideas are dangerous. You are up here trying to build a City in the clouds, while we are down in the trenches of The Valley fighting the true battle. God did not tell me to build a City on a Hill, God told me we need to rebuild Boundaries and Protections against the threats [[At Hand]]. We should not be wasting Time even thinking about the [[New]] until the [[Existing Order]] is secure." 
 
-The Builder put his hand on his friends back. His friend was angry and stiff. "I agree with you brother that we must build boundaries for The Valley below. The threats at hand are indeed Great. I am a Builder and I know well how to build boundaries. Perhaps God has laid a [[Diversity]] of plans on the hearts of those uniquely called to [[Embody]] and [[Enact]] them. Perhaps what God has shown you is Wise, Right, and Good and needs to happen, and what God has shown me is right and good too. I bear witness with the Wisdom of your plan and would be glad to [[Help]] you. Would you be willing to help me as well? Perhaps we could share teams and logistics as we work to fortify the Old and build the New together."
+The Builder put his hand on his friends back. His friend was angry and stiff. "I agree with you brother that we must build boundaries for The Valley below. The threats at hand are indeed Great. I am a Builder and I know well how to build boundaries. Perhaps God has laid a [[Diversity]] of plans on the hearts of those uniquely called to [[Embody]] and [[Enact]] them. Perhaps what God has shown you is Wise, Right, and Good and needs to happen, and what God has shown me is Right and Good too. I bear witness with the Wisdom of your plan and would be glad to [[Help]] you. Would you be willing to help me as well? Perhaps we could share teams and logistics as we work to fortify the Old and build the New together."
 
 The friend fell silent and thought. He had not considered that both could happen simultaneously. 
 
 As they were talking, the little girl and some of her friends ran up out of breath after climbing up the mountain. She was amazed to see all the [[Progress]]. "Wow! Your pile of rubble is really coming to life! What are you doing now?" she asked.  
 
-"We are co-creating a Great [[City on a Hill]], that will serve as a light, a fortress, and an inspiration for The Valley for generations to come. Would you like to see the plans for the school and playground?" 
+"We are co-creating a Great [[City on a Hill]], that will serve as a light, a fortress, and an inspiration above The Valley for generations to come. Would you like to see the Plans for the school and playground? We are entirely reimagining the Way we learn, play and grow. How would you like school and play to be in The New City? " 
 
-The little girl was intrigued, and began imagining and dreaming with the Builder about what kind of school and playground they might be able to co-create. As she talked and dreamed, the Builder wrote her ideas down in the plans and specifications, and modified [[The Design]] to reflect her creativity and insight. "That will be a great improvement to The Design," the Builder told her. "I can't believe I left out the swings. What a silly mistake. Thank you very much for helping me design and build this City on a Hill."
+The little girl was intrigued, and began imagining and dreaming with the Builder about what kind of school and playground they might be able to co-create. As she talked and dreamed, the Builder wrote her ideas down in the plans and specifications, and modified [[The Design]] to reflect her creativity and insight. "That will be a great improvement to The Design," the Builder told her. "I can't believe I left out the swings. What a silly mistake. It is very easy to overlook critical elements of the [[Divine Blueprints]]. Thank you very much for helping me imagine, design and build this City on a Hill."
 
 After the little girl and her friends scampered away, the Builder turned back to his childhood friend, who was glaring at him with a hard look on his face. "I just don't think we can trust you. Remember in our youth when you had the bright of idea of building a cart to help us carry our supplies? I still remember the lashing my father gave me after the wheels fell right off and all our hard earned supplies tumbled down into the river. What makes you think that you can build an entire City on a Hill? I wouldn't be surprised if the whole damn thing tumbled down the mountain after the first little storm. Just think of how disappointed everyone will be in you then. When that happens, I'll tell them I warned them, and say "I was right about him all along."
 
-The Builder grew thoughtful. "You are absolutely right. I am completely unqualified. I have never built a City on a Hill. No one has. I can only do my best, and hope that the other qualified members of the community will help. I never said I could build a City on my own. Fortunately, the well expert has fixed the well, the road expert has fixed the roads, the grocer has fixed the shops, and the little girl has fixed the playground. Because of all their help, I am confident that the City is growing sound and strong."
+The Builder grew thoughtful. "You are absolutely right. I am completely unqualified. I have never built a City on a Hill. No one has. I can only do my best, and hope that the other qualified members of the community will help. I never said I could build a City on my own. We have to do it together. As One Body, everything becomes possible. Fortunately, the well expert has fixed the well, the road expert has fixed the roads, the grocer has fixed the shops, and the little girl has fixed the playground. Because of all their help, I am confident that the City is growing sound and strong. What insufficiencies have you noticed so far in the Plans? Can we look at them together?"
 
 Day after day, week after week, more and more people streamed up the Sacred Mountain, studied the plans and specifications, and began to dream and design and build together around the parts of The City they each cared about and valued the most.
 
@@ -152,7 +156,7 @@ If we stop. If we [[Pray]]. If we [[Meditate]]. If we [[Listen]] deeply enough. 
 
 _We were created and destined for so much more than this._  
  
-There has never been a more important moment in history to stop and ask. To stop and listen. To open our ears to what the Spirit is saying. To ask ourselves individually and collectively the great questions of life:  
+There has never been a more important moment in history to stop and ask [[The Right Questions]]. To stop and listen. To open our ears to what [[The Spirit]] is speaking in [[Silence]]. To ask ourselves individually and collectively the great questions of life:  
  
 “Who am I?”  
  
@@ -199,8 +203,12 @@ There has never been a more important moment in history to stop and ask. To stop
 “What is my relationship to structures of injustice?”  
  
 “What is the meaning of this?”  
+
+"What do I long for?"
+
+"How would l like my life and my world to Be?"
  
-The questions and the answers are eternal and universal.  
+The questions and the answers are eternal and universal. And local and Diverse. 
  
 They hold the keys to our survival and [[Success]].  
  
@@ -211,19 +219,6 @@ They can be summarized in a single word, because they reflect aspects of an [[Ul
 Yet that single word is only a sound. It is only a tool. It sounds different in every language. Yet all the words point to [[One]] so much deeper and so much more profound that no words could ever fully articulate It.  
 
 Follow the [[Right Questions]], and you will always arrive back to the [[One]].  
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Unmoored in the Seas of Chaos 
 
 You are asleep.
@@ -248,15 +243,15 @@ _"Wake up! It is not real. You have been dreaming. You have been asleep for a ve
 
 _"Awaken and grab the helm!"_  
 
-_"Arise, and remember who you are!"
+_"Arise, and remember who you are!"_
   
-_"Take up your rightful [[Authority]], and [[Navigate]] towards [[Life]] and [[Light]]!" 
+_"Take up your rightful [[Authority]], and [[Navigate]] towards [[Life]] and [[Light]]!" _
 
 The whisper is shattering. It roars like thunder. It hurts. 
 
 _"You are in great danger. We must go! Quickly now!"_
 
-One eye half opens, then closes. There is little difference. It is dark. It is wet. It is cold. It is stagnant. It smells like death. 
+One eye half opens, then closes. There is little difference. What does it matter? It is dark. It is wet. It is cold. It is stagnant. It smells like death. 
 
 You start to drift back into the coma. 
 
@@ -278,9 +273,9 @@ What is this madness? Is it a dream?
 
 The Voice grows firm. 
 
-_"Now."_
+_"NOW."_
 
-The Spoken Word sounds like the _roar of many waters_, echoing through the depths of the Earth. 
+The Spoken Word sounds like The Roar Of Many Waters, echoing through the Depths of the Earth and Beyond. 
 
 It finally startles you awake into a nightmare. 
 
@@ -294,13 +289,13 @@ _"Could you please speak more softly? Your voice is hurting my ears."_
 
 _"I am whispering as softly as I can. Your ears will soon attune to My Voice. It has been a long time since they have heard."_
 
-As the energy of the Voice permeates your [[Consciousness]], your [[Embodiment]] slowly comes back towards life. 
+As the energy of the Voice permeates your [[Consciousness]], your [[Embodiment]] slowly floats back towards life. 
 
-*"Open your eyes."
+_"Open your eyes."_
 
 With tremendous effort, first one eyelid opens, then the other. 
 
-As your eyes strain to adjust to the darkness and you try to move, the first subtle movement brings the sound of chains to your ears. Your body feels sore, weak, and cold, and you soon realize you are helpless. 
+As your eyes strain to adjust to the darkness and you try to move, the first subtle movement brings the sound of chains to your ears. Your body feels sore, weak, and cold. You limbs feel heavy. You soon realize you are helpless. 
 
 It is quiet, except for an eerie mechanical din, and a strange sort of cacophonous chanting. 
 
@@ -312,15 +307,15 @@ _"But how will I stand?"_
 
 _"Do not fear. I will carry you."_
 
-At once, you are swept up into the air and your chains rip free of the wall.
+At once, you are swept up into the air and your chains rip free from the wall.
 
-_"Quickly now, the Authorities will be along soon, and it is not yet time to wake the others. We have much work to do, and much to prepare for."_
+_"Quickly now, the Authorities will be along soon, and it is not yet time to wake the others. We have much [[Work]] to do, and much to prepare for."_
 
 ### The Caves
 
-Covered in the enveloping cloak of the Spirit, you are swept along through the cool damp air, a tangible contrast to the enveloping warmth embracing you. 
+Covered in the enveloping cloak of [[The Spirit]], you are swept along through the cool damp air, a tangible contrast to the enveloping warmth embracing you. 
 
-An occasional fire casts flickers of light onto the walls, and you begin to make out figures. 
+An occasional fire casts flickers of [[Light]] onto the walls, and you begin to make out figures. 
 
 Millions of them. Billions of them. 
 
@@ -336,58 +331,55 @@ _"Beyond the [[Boundary]]."_
 
 _"What [[Boundary]]?"_
 
-_"My Voice will wake the others if I speak, and what I am about to show you is beyond your ability to conceive of it. Be quiet and try to [[Perceive]], and we will discuss it when we are out safely Beyond."_
+_"My Voice will wake the others if I speak, and what I am about to show you is beyond your ability to conceive of it. Be quiet and try to [[Perceive]], and we will discuss it when we are out safely [[Beyond]]."_
 
-The nightmare you witness as your soar through the cavernous darkness stands in stark contrast to the grey dreams that are your only recent memories. 
+The nightmare you witness as your soar through the cavernous [[Darkness]] stands in stark contrast to the grey dreams that are your only recent memories. 
 
-Pale bodies, billions of them, chained in the darkness. Shallowly breathing. Scarcely alive. 
+Pale bodies, billions of them, chained in the [[Darkness]]. Shallowly breathing. Scarcely alive. 
 
 As your eyes adjust to seeing for the first time, you begin to [[Perceive]] the terrain. 
 
-It becomes apparent that you are making your way through some kind of vast network of caves. Some are so enormous that the sea of bodies they hold fades out beyond view, and others are tiny, containing a single human in tormented isolation. 
+It becomes apparent that you are making your way through some kind of vast network of Caves. Some are so enormous that the sea of bodies they hold fades out beyond view, and others are tiny, containing a single human in tormented isolation. 
 
 Strange beings stand guard at the mouth of each cave. As you look more closely at the beings, you can see that although they wear clothes, they are decaying, as if their very essence is rotting from within. They speak incessantly, uttering the same words that strangely seem to be flowing in response from the mouth of the cave. 
 
 Are [[The Caves]] speaking? 
 
-As your ears continue to discover how to hear, they gradually attune to the cacophony, each sound becoming magnified - a relentless assault on senses newly awakened to the din of chaos and despair.
+As your ears gradually rediscover how to hear, they slowly attune to the cacophony, each sound becoming magnified - a relentless assault on senses newly awakened to the din of [[Chaos]] and [[Despair]].
 
 Descending through a narrow pass, you come close enough to the mouth of a cave to get a better glimpse of the captives within. 
 
-They are asleep, but they are speaking! The words coming from the mouths of the caves are the words coming from the mouths of their inhabitants in unison, and the words coming from the mouths of the captives are the mindless repetition of the incessant chatter of the Keepers of that cave. 
+They are asleep, but they are speaking! The words coming from the mouths of the caves are the words coming from the mouths of their inhabitants in unison, and the words coming from the mouths of the captives are the mindless repetition of the incessant chatter of the [[Keepers of The Caves]].  
 
-Involuntarily, you suddenly find yourself vomiting out pale grey liquids, that cascade down onto the pale grey bodies uttering the pale grey words into the pale grey expanse of the caves.
+Involuntarily, you suddenly find yourself vomiting out pale grey liquids, that cascade down onto the pale grey bodies uttering the pale grey words into the pale grey expanse of [[The Caves]].
 
-The Spirit grips you tighter and you feel... something that you have no words for. 
+[[The Spirit]] grips you tighter and you feel... something that you have no words for. 
 
 _"Am I... one of those?"_ you ask the Spirit with horror...
 
-_"No."_ The Spirit whispers firmly. _"You were one of those, but now you are awake. That is why it was so hard to wake you. It is nearly impossible to hear My Voice while you are mindlessly repeating the empty words of the Keeper of your [[Cave]]."_
+_"No."_ The Spirit whispers firmly. _"You were formerly one of those, but now you are awake. That is why it was so hard to wake you. It is nearly impossible to hear My Voice while you are mindlessly repeating the empty words of the Keeper of your Cave."_
 
 Confronted with a terror so profound, a realization so appalling, and a cacophony so deafening, your body rejects the overwhelming horror with another wave of nausea and vomiting, before darkness claims you, and you succumb once again to unconsciousness.
 
 _To Be Continued..._
 
-
-
-
-
-
-
-
 ## III. Our Story 
 
-Upon hearing what follows, some people have asked how we came to such a vantage point in [[The Story]]. 
+Upon hearing what follows, some people have asked how we came to such an unusual vantage point in [[The Story]]. 
 
-So... I will share with you Our Story, as an invitation to share yours. As you will see soon, The Story is a [[Story of Stories]], and it includes yours. 
+So... I will somewhat reluctantly share with you Our Story, as an invitation to share yours. As you will see soon, [[The Story]] is a [[Story of Stories]], and it includes yours. 
 
 In some ways, Our Story is important because it is unique, and may help you understand [[Who We Are]], [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and most importantly, [[Why]]. It may be that relatively few have had the combination of privilege and luxury, loss and suffering, triumph and tragedy that have marked our Way. Understanding the [[Path]] we are walking may be important to understanding our Perspective, Vision, Strategy, and Plan. 
 
-In other ways, Our Story is important because if the tragedies of Our Story can happen to us in the [[Reality]] we inhabit, it can happen to you, your children, or your grandchildren. And no heart of Love would desire for others to repeat our experience. 
+In other ways, Our Story is important because if the tragedies of Our Story can happen to us in the [[Reality]] we inhabit, it can happen to you, your children, or your grandchildren. 
+
+No heart of Love would desire for others to repeat our experience. 
 
 ### In the Beginning... 
 
-In the beginning, God created the heavens and the Earth.
+In the beginning, [[God]] created the Heavens and the Earth.
+
+What a shame that we have lost the Meaning of those [[Word Tools]]. 
 
 A little while later, I found my Self thrown down to [[Worksite Earth]].
 
@@ -395,91 +387,101 @@ I woke up in a tiny body in San Clemente, California, in the United States, on D
 
 San Clemente is one of the unique gems of the world, historically a small beach town with some of the best weather in the world, gradually being transformed by the throngs desiring to live in such a place, and the developers enticing them. 
 
-It was still small enough that my mother grew up on a street that was called by their name, and could ride horses to the beach. Her father was a builder who served in World War II as her mother riveted planes. After the war, they ran a small restaurant called The Galley on the end of the San Clemente pier that served the fisherman before the Dana Point Harbor was constructed. Their family lineage traced all the way back to one of the Founding Fathers of America and signers of the Declaration of Independence. A great great grandmother had made the journey West on a covered wagon. A great great grandfather married a Native American woman along the way. 
+It was still small enough that my mother grew up on a street that was called by their name, and could ride horses to the beach. As I recall The Story, her father was a builder who served in World War II as her mother riveted planes. After the war, they ran a small restaurant called The Galley on the end of the San Clemente pier that served the fisherman before the Dana Point Harbor was constructed. Their family lineage traced all the way back to one of the Founding Fathers of America and signers of the Declaration of Independence. A great great grandmother had made the journey West on a covered wagon. A great great grandfather married a Native American woman along the way, gracing me with the small fragment of Native American blood I cherish as Sacred. 
 
-My Earth-father's side was also a family of builders. His father started one of the largest earthmoving companies on the West Coast, expanding it into a significant construction and real estate operation that reshaped over a billion cubic yards of Earth as Southern California boomed from the 1970's into the 2000's. In my pre-school years, we built a beautiful Cape Cod style house high on a hill with an ocean view, and built play lofts into the high vaulted ceilings. Things were secure inside The Bubble. Life was good. 
+My Earthly Father's side was also a family of builders. His father started one of the largest earthmoving companies on the West Coast, expanding it into a significant construction and real estate operation that reshaped over a billion cubic yards of Earth as Southern California boomed from the 1970's into the 2000's. He started his own company, and in my pre-school years, we built a beautiful Cape Cod style house high on a hill with an ocean view, and built play lofts into the high vaulted ceilings. I was walking Worksites from the time I could walk. Things were secure inside The Bubble. Life was good. 
 
-It was a classic beginning to the story. 
+It was a classic beginning to our part of The Story. 
 
 ### God and Country 
 
 Southern California in the 1980s was a fascinating place to enter the scene on Earth. 
 
-Perhaps in response to the excesses of Hippie freedom, the Jesus People Movement, Bill Graham, the Harvest Crusades, Republican Politics, and Family Values saved a generation from the sins of their youth, creating a very insular flavor of White, Conservative, Republican, Christian, Nationalism that bordered on cultish in many of its expressions.  My wife half-jokes that it wasn't until University that she learned that one could be both a Christian *and* a Democrat, and it wasn't until I spent my second year of University in Europe during America's unjust warring in the Middle East in the early 2000's that I began to truly understand how all-encompassing and deceitful the unholy alliance of Religion, Politics, Capital, Weapons, and War in America had become. 
+Perhaps in response to the excesses of Hippie freedom, the Jesus People Movement, Bill Graham, the Harvest Crusades, Republican Politics, and Family Values saved a generation from the sins of their youth, creating a very insular flavor of White, Conservative, Republican, Christian, Nationalism that bordered on cultish in many of its expressions.  My wife half-jokes that it wasn't until University that she learned that one could be both a Christian *and* a Democrat, and it wasn't until I spent my second year of University in Europe during America's unjust warring in the Middle East in the early 2000's that I began to truly understand how all-encompassing and deceitful the unholy alliance of Religion, Politics, Capital, Weapons, University, and War in America had become. 
 
-In stark contrast to The Bubble in which the "good / chosen" people (as regarded by themselves) were generally American Christian Republicans, venturing out beyond The Boundary I began to encounter people who seemed to have to restrain themselves from spitting on me when they found out I was American, and didn't understand how anyone could possibly be moral, let alone truly love God, *and* consider themselves a Republican-Christian-American. It was a fascinating revelation to find a diverse array of amazing, kind, virtuous, God-Loving Citizens beyond The Boundary who were aghast at immorality and oppression of the American Empire. 
+In stark contrast to The Bubble in which the "good / chosen" people (as regarded by themselves) were generally American Christian Republicans, venturing out Beyond The Boundary I began to encounter people who seemed to have to restrain themselves from spitting on me when they found out I was American, and didn't understand how anyone could possibly be moral, let alone truly Love God, *and* consider themselves a Republican-Christian-American. It was a fascinating revelation to find a diverse array of amazing, kind, virtuous, God-Loving Citizens Beyond The Boundary who were aghast at immorality and oppression of the American Empire. 
+
+It was quite I shock the first time I heard God's Country called The Great Satan. 
 
 I later came to understand that there was a vast Chasm between the good hearted Citizens of America, and the deceitful treachery committed around the world by The Giants in their name. 
 
-But let's not skip too far ahead. There is something important about that upbringing in The Bubble, because while the Culture I was thrown into was flawed, arrogant, blind, oppressive and unjust in so many ways, it also sheltered my emerging consciousness in a cocoon of Freedom and Security in which I could truly taste some aspects of the Ideal. In so many ways, it was an extraordinary gift, and something that I am so blessed to have experience as a contrast to Life Beyond The Bubble. 
+But let's not skip too far ahead. There is something important about that upbringing in The Bubble, because while the Culture I was thrown into was flawed, arrogant, blind, oppressive and unjust in so many ways, it also sheltered my emerging [[Consciousness]] in a cocoon of [[Freedom]] and [[Security]] in which I could truly taste some aspects of the Ideal. In so many ways, it was an extraordinary gift, and something that I am so blessed to have experience as a contrast to Life Beyond The Bubble. 
 
-I was taught what to believe by people who truly believed in the greatness and moral righteousness of what America, in their minds, once was, and could be. It was not a fake patriotism. It was a true pride in the greatness of the Country and Divine Right they thought they were living in. The Propaganda worked, and The Ideal was alive in their minds. In The Bubble, there was what seemed like true freedom of commerce, an apparently booming economy, in-rushing resources, safe streets, abundant infrastructure and public services, and an enveloping narrative that really made people feel like they were part of the greatest experiment in human freedom, morality, spirituality and democracy in human history. And perhaps in some ways, they were. 
+I was taught what to believe by people who truly believed in the greatness and moral righteousness of what America, in their minds, once was, and perhaps still could be. It was not a fake patriotism. It was a true pride in the greatness of the Country and Divine Right they thought they were living in. [[The Propaganda]] worked, and The Ideal was alive in their minds. In The Bubble, there was what seemed like true Freedom of commerce, an apparently booming economy, in-rushing resources, safe streets, abundant infrastructure and public services, and an enveloping narrative that really made people feel like they were part of the greatest experiment in human freedom, morality, spirituality and democracy in human history. And perhaps in some ways, they were. 
 
-That Domain of SpaceTime existed for an important reason. And so, there I stood a as young one, trying to believe what I was told, and pledging allegiance to the flag of Righteous, Strong, Just, and Free America The Great without exactly understanding why it felt so uncomfortable at times. 
+That [[Domain]] of [[SpaceTime]] existed for an important reason. And so, there I stood a as young one, trying to believe what I was told, and pledging allegiance to the flag of Righteous, Strong, Just, and Free America The Great without exactly understanding why it felt so uncomfortable at times. 
 
-Hanging next to the American flag in some of the schools was the Christian Flag. After pledging allegiance to the American Flag, the kids would pledge allegiance to the Christian Flag. Some schools would also pledge allegiance to the Bible. I remember being bussed to Christian museums, which presented us as elementary school children with "definitive scientific proof" that the Universe could not be more than 6,000 years old, "confirming" the literal inerrancy of the biblical genealogies and timelines tracing back to Creation. I remember real rumors circulating that scientists were fabricating fossils of the dinosaurs to attack the validity of the Scriptures. I remember books depicting dinosaurs as having lived millions of years ago being banned. These perceived attacks on Righteousness often narratively intertwined Country, Christ, Bible and the Republican Party in very strange ways, that I later learned reached right into the halls of a corrupted American Empire. So insular were many of the teachings on who would go to Heaven and who would go to Hell that even Catholics were often excluded from the self-defined Boundary of Heaven-Worthiness the narrow sub-culture circumscribed around itself. This created an extraordinary degree of unearned psychological and spiritual confidence, security, and moral superiority for those within The Boundary acting out The Game. As we went to school, and Church, and work, and play on the soil of God Blessed America, looking down on and judging those poor souls outside The Boundary of The Cave we were trapped in, we were right, and secure, and it was sunny and warm out in our beach town. 
+Hanging next to the American flag in some of the schools was the Christian Flag. After pledging allegiance to the American Flag, the kids would pledge allegiance to the Christian Flag. Some schools would also pledge allegiance to the Bible. I remember being bussed to Religious museums, which presented us as elementary school children with "definitive scientific proof" that the Universe could not be more than 6,000 years old, "confirming" the literal inerrancy of the biblical genealogies and timelines tracing back to Adam, Even, and the Creation of the Universe 5 days before. I remember real rumors circulating that scientists were fabricating fossils of the dinosaurs to attack the validity of the Scriptures. I remember books depicting dinosaurs as having lived millions of years ago being banned. 
 
-It is almost impossible to describe The Bubble of of psychological, social, and environmental safety this wrapped the young inhabitants of that Paradise in. In the Environmental Bubble of Southern California there was no real danger from Nature. In the Social Bubble there was no real danger or uncertainty, as long as you didn't "backslide" or violate the Religious Norms. In the Economic Bubble there was no real danger or uncertainty. In the Governmental Bubble there was no real danger or uncertainty. In the Geopolitical Bubble there was no real danger or uncertainty. In the Religious Bubble there was no real danger or uncertainty. In the Existential Bubble there was no real danger or uncertainty. We knew exactly Who We Were, Where We Where, How We Got Here, Where We Were Going, and Why. Until we didn't. 
+These perceived attacks on Righteousness often narratively intertwined Country, Christ, Bible, America and the Republican Party in very strange ways, that I later learned reached right into the halls of a corrupted American Empire. So insular were many of the teachings on who would go to Heaven and who would go to Hell that even Catholics were often excluded from the self-defined Boundary of Heaven-Worthiness the narrow sub-culture circumscribed around itself. This created an extraordinary degree of unearned psychological and spiritual confidence, security, and moral superiority for those within The Boundary acting out The Game they were a part of. As we went to school, and Church, and work, and play on the soil of God Blessed America, looking down on and judging those poor souls outside The Boundary of The Cave we were trapped in, we were right, and secure, and it was sunny and warm out in our beach town. 
 
-Not only was there no real danger or existential uncertainty in The Bubble on Earth, but The Bubble also afforded its inhabitants an extraordinary degree of Spiritual Shelter, coupling a secure existence in the Here and Now with The Promise of spending eternity in Paradise. Until that Bright Day, we were sheltered by the Nuclear Umbrella of America, and rose to our feet and cheered as the fighter jets screamed over the stadiums. Although The Construct was in so many ways false, corrupted, built on the sand, and failing... for decades the structure of that Cave actually worked, providing its inhabitants with the illusion of Paradise in the here and now, as well as the there and after. As we reimagine the way we want our lives and our world to be over the coming decade, it will be important to remember the small glimpses of Heaven and Hell on Earth we have caught in the past. 
+It is almost impossible to describe The Bubble of of psychological, social, and environmental safety this wrapped the young inhabitants of that Paradise in. In the Environmental Bubble of Southern California there was no real danger from Nature. In the Social Bubble there was no real danger or uncertainty, as long as you didn't "backslide" or violate the Religious Norms. In the Economic Bubble there was no real danger or uncertainty. In the Governmental Bubble there was no real danger or uncertainty. In the Geopolitical Bubble there was no real danger or uncertainty. In the Religious Bubble there was no real danger or uncertainty. In the Existential Bubble there was no real danger or uncertainty. We knew exactly Who We Were, Where We Where, How We Got Here, Where We Were Going, and Why. 
 
-Being young, naive, and open, with limited exposure outside The Bubble, I had the immense privilege of getting to actually exist, learn, succeed, and grow in that paradisal state of conscious experience for many years. The anomalies that showed up in my Map of Reality when we had homeless people sleeping in our home in the room next door to me, or when we went down to Mexico to build a school, or when we drove through Los Angeles, or when the Terrorists attacked, could be reasonably explained away, and even served to strengthen the narrative inside The Bubble against the increasingly threatening forces Out There that were threatening to tear down the Habitable Order we thought we were living in and protected by. When the gaps between Reality and the Narrative Structure of our existence grew too large for the adults to explain, we had the absolute knowledge of the perfection of our Faith and God's Holy Word to fall back on, coupled to the world's most powerful military and economy, and our brainwashing pledges of unconditional allegiance to them both.  
+Until we didn't. 
+
+Not only was there no real danger or existential uncertainty in The Bubble on Earth, but The Bubble also afforded its inhabitants an extraordinary degree of Spiritual Shelter, coupling a secure existence in the [[Here]] and [[Now]] with The Promise of spending eternity in Paradise. Until that Bright Day, we were sheltered by the Nuclear Umbrella of America, and rose to our feet and cheered as the fighter jets screamed over the stadiums. Although The Construct was in so many ways false, corrupted, built on the sand, and failing... for decades the structure of that Cave actually worked, providing its inhabitants with the illusion of Paradise both in the Here and now, as well as the There and After. As we reimagine the way we want our lives and our world to be over the coming decade, it will be important to remember the small glimpses of Heaven and Hell on Earth we have caught in the past. 
+
+Being young, naive, and open, with limited exposure outside The Bubble, I had the immense privilege of getting to actually exist, learn, succeed, and grow in that paradisal state of conscious experience for many years. The anomalies that showed up in my Map of Reality when we had homeless people sleeping in our home in the room next door to me, or when we went down to Mexico to build a school, or when we drove through Los Angeles, or when the Terrorists attacked, could be reasonably explained away, and even served to strengthen the narrative inside The Bubble against the increasingly threatening forces of [[The Barbarians]] Out There that were threatening to tear down the [[Habitable Order]] we thought we were living in and protected by. 
+
+When the gaps between [[Reality]] and the [[Narrative Structure]] of our existence grew too large for the adults to explain, we had the absolute knowledge of the perfection of our Faith and God's Holy Word to fall back on, coupled to the world's most powerful military and economy, and our brainwashing pledges of unconditional allegiance to both.  
 
 ### Calling 
 
-There is probably no way for you to understand the Path I am walking and the decisions I am making without me confessing that for as long as I can remember, I have been consciously aware of Why I am here on Earth, and engaged in the Metaphysical and Physical training required to accomplish The Mission. This is not unique. I have encountered many others who share the experience, and we are finding one another at an accelerating rate in recent years. I can't wait to meet you and share our experiences. 
+There is probably no way for you to understand [[The Path]] I am walking and the decisions I am making without me confessing that for as long as I can remember, I have been consciously aware of Why I am here on Earth, and engaged in the Metaphysical and Physical training required to accomplish [[The Mission]]. This is not unique. I have encountered many others who share the experience, and we are finding one another at an accelerating rate in recent years. I can't wait to meet you and share our experiences. 
 
-As things began to get more clear around 10 or 12 years old, the calling laid it Self out me as via the Realization that during my lifetime, All Creation would be swept up into an epic Battle for the Future of Life and Society as we know it. I deeply understood that The War was primarily Spiritual in nature, and would merely "spill over" into the Physical realm at some point. And so I understood that after some period of growth and development, at an Unknown Time in The Future, the systems and structures of the world would shake and begin to transform, and We would be called upon to build an army / Force For Good and wage The War. 
+As things began to get more clear around 10 or 12 years old, the calling laid it Self out me as via the Realization that during my lifetime, All Creation would be swept up into an epic Battle for the Future of Life and Society as we know it. I deeply understood that The War was primarily Spiritual in nature, and would merely "spill over" into the Physical realm at some point. And so I understood that after some period of growth and development, at an Unknown Time in The Future, the systems and structures of the world would shake and begin to transform, and We would be called upon to build an army / Force For Good and wage [[The War]]. 
 
 The Giants enslaving us and concealing our [[True Identity]] and [[Collective Inheritance]] would have to be forthrightly confronted and overcome. 
 
-When one attempts to walk a primarily Spiritual Path in a Physical Embodiment, they must continually struggle to stay oriented in Reality. Physical Reality is so apparent, and Metaphysical Reality so Deep, that it is sometimes difficult to remember which Realm you are in and what is most Real. This is why the Path can only be walked in Partnership-Continually-Approaching-Unity with God. God was kind enough to regularly send strong reminders and prophesies along the Way to keep me relatively oriented through my journey, sometimes through trusted elders who would receive a Word for me while Praying and be brave enough to share it, and other times when a stranger would grab my shoulders on the street, look into my eyes, and deliver a Message or tell me what they Saw that confirmed The Message and Vision within.  
+When one attempts to walk a primarily Spiritual Path in a Physical Embodiment, they must continually struggle to stay oriented in [[Reality]]. [[Physical Reality]] is so apparent, and [[Metaphysical Reality]] so Deep, that it is sometimes difficult to remember which Realm you are in and what is most Real. This is why the Path can only be walked in Partnership-Continually-Approaching-Unity with [[God]]. [[God]] was kind enough to regularly send strong reminders and [[Prophesies]] along the [[Way]] to keep me relatively oriented through my Journey, sometimes through trusted elders who would receive a Word for me while Praying and be brave enough to share it, and other times when a stranger would grab my shoulders on the street, look into my eyes, and deliver a Message or tell me what they Saw that confirmed The Message and Vision within.  
 
 ### Relative Riches and Security, Shattered
 
-One of the important early experiences that began to burst the Bubble occurred when I was in first or second grade, as my dad realized that as he was building peoples houses, the lives and relationships within the houses were far too often falling apart. The expensive houses and landscaping concealed lives plagued by substance abuse, addiction, conflict, divorce, and all the various forms of suffering human beings tend to inflict on themselves and [[One Another]]. 
+One of the important early experiences that began to burst The Bubble occurred when I was in first or second grade, as my [[Earthly Father]] realized that as he was building peoples houses, the lives and relationships within the houses were far too often disintegrating. The expensive houses and landscaping concealed lives plagued by substance abuse, addiction, conflict, divorce, and all the various forms of [[Suffering]] human beings tend to inflict on themselves and [[One Another]]. 
 
-Eventually, he felt the deep [[Calling]] to go into full time ministry building people's lives and relationships with God and One Another rather than their homes. 
+Eventually, he felt the deep [[Calling]] to go into full time ministry to begin building people's lives and relationships with God and One Another rather than their homes. 
 
-The transition wasn't easy. Many people didn't understand. We sold the custom house. We sold the nice cars. We struggled to make ends meet. We had some false starts. For my young heart and mind, it felt like loss. If you asked me at 10 years old what I was going to "do", my answers drifted towards things would bring abundance, and anything but scarcity-and-luxury-depriving full time ministry. 
+The transition wasn't easy. Many people didn't understand. We sold the custom house. We sold the nice cars. We struggled to make ends meet. We had some false starts. For my young heart and mind, it felt like loss. If you asked me at 10 years old what I was going to "do for a living", my answers drifted towards things would bring abundance, and anything but scarcity-and-luxury-depriving full time ministry. 
 
-And yet God still provided more than everything we needed. As I explored a vast array of other domains beyond the Boundary later in life, I more fully realized that while I had occasionally spent time being embarrassed about the cheap clothes, shoes, backpacks, and bikes that were different than what many of my friends had, there were billions for whom those items would have been sheer heavenly luxury. There was a strange sense of shame I had to reconcile, wanting so much more, and Knowing that was not unreasonable, while understanding that what I felt dissatisfied with was far more than most of the world had. It confirmed that something was wrong, and while I knew that I wanted and perhaps even deserved More, and that things could be Better, I also knew The Future of More and Better needed to somehow lift up every child and family on Earth into its embrace. Love and the genuine longing to flourish in harmony, beauty, coherence, and abundance knows no bounds, and longs to elevate and transform the world. 
+And yet God still provided more than everything we needed. As I explored a vast array of other domains beyond the Boundary later in life, I more fully realized that while I had occasionally spent time being embarrassed about the cheap clothes, shoes, backpacks, and bikes that were different than what many of my friends had, there were billions for whom those items would have been sheer heavenly luxury. It is hard to understand this before you spend a few weeks living out of a small backback surrounded by people who survive on a a few dollars a day. 
 
-Later, I observed more about the very strange role that material possessions played in perceived social status and emotional / motivational states, and how domain dependent those states were. It later struck me that within a single day, it was possible to drive a work truck into a Domain in which it felt somewhat embarrassing to drive because it wasn't an expensive Mercedes or BMW, and then later than same day to drive through a different domain in which it felt somewhat embarrassing to drive because it seemed uncomfortably luxurious and ostentatious in the midst of hunger, poverty, homelessness, addiction, and suffering. 
+There was a strange sense of shame I had to reconcile, wanting so much more, and Knowing that was not unreasonable, while understanding that what I felt dissatisfied with was far more than most of the world had, or had ever had. It confirmed that something was wrong, and while I knew that I wanted and perhaps even deserved More, and that things could be Better, I also knew The Future of More and Better needed to somehow lift up every child, family, community, and ecosystem on Earth into its embrace. Love and the genuine longing to flourish in harmony, beauty, coherence, and abundance knows no bounds, and longs to elevate and transform the world. 
 
-In hindsight, it was an amazing gift to me at that young age our relative riches shattered for the first time, and I was blessed with needing to think about how to work, create value for others, attain resources, and afford what I desired. The day the state would let me work legally, I graduated from lemonade stands and lawn mowing and got a job, and then two jobs. During high school it was often mornings at the bagel store, afternoons at the ice cream store, and seeing how quickly I could get promoted since even at 15, minimum wage was painful. 
+Later, I observed more about the very strange role that material possessions played in perceived social status and emotional / motivational states, and how domain dependent those states were. It later struck me that within a single day, it was possible to drive a work truck into a Domain in which it felt somewhat embarrassing to drive because it wasn't an expensive Mercedes or BMW, and then later than same day to drive through a different domain in which it felt somewhat embarrassing to drive because it seemed uncomfortably luxurious and ostentatious in the midst of hunger, poverty, homelessness, addiction, and suffering. Some of my friends around the world still make fun of me for the varying states of luxury they first met me in. 
+
+In hindsight, it was an amazing gift to me at that young age our relative riches shattered for the first time, and I was blessed with needing to think about how to work, create value for others, attain resources, and afford what I desired. The day The State would permit me to work legally, I graduated from lemonade stands and lawn mowing and got a job, and then two jobs. During high school it was often mornings at the bagel store, afternoons at the ice cream store, and seeing how quickly I could get promoted since even at 15, minimum wage was painful when trying to afford gas, food, and a guitar. 
 
 ### Relative Physicality, Shattered 
 
-Innate personality plus environment and incentives meant that even through elementary school, I worked hard at whatever I put my mind to. For the early years, that was academics and sports. 
+Innate personality plus environment and incentives meant that even through elementary school, I worked hard at whatever I put my [[Mind]] to. For the early years, that was academics and sports. 
 
-In elementary school and junior high I poured hours most days into the basketball court. We had no TV in the house and no screens, and school was easy, so my life was outside, active, and physical. 
+In elementary school and junior high I poured hours most days into the basketball court. We had no TV in the house, no cell phones, no screens, and school was easy, so my life was outside, active, and physical. 
 
-My grandparents were very skilled at giving me subtle and not-so-subtle boosts. A little professional coaching in basketball, coupled with the willingness to do drills for hours a day and a reasonably tall and coordinated physical embodiment meant that I could play pickup games with the big kids a few grades beyond me. 
+My grandparents were very skilled at giving me subtle and not-so-subtle boosts. A little professional coaching in basketball, coupled with my innate willingness to do drills for hours a day and a reasonably tall and coordinated physical embodiment meant that I could soon play pickup games with the big kids a few grades beyond me. 
 
-I made and started on the varsity team my freshman year in high school, and a reasonable part of my ego and identity were wrapped up in the social status and physical strength sports afforded me. 
+I made and started on the varsity team my freshman year at our small high school, and a reasonable part of my ego and identity were wrapped up in the social status and physical strength sports afforded me. 
 
-A few games into my sophomore year, I found myself laying on a court after one of the games in so much pain I knew it might be the end. Soon, I couldn't even jog. The MRI technician told me at 15 my spine looked like that of an unhealthy 50 or 60 year old man, and would keep getting worse until I had to start having surgeries. With a long string of major back surgeries in the family line, it was a depressing blow. 
+A few games into my sophomore year, I found myself laying on a court after one of the games in so much pain I knew it was the end. Soon, I couldn't even jog. The MRI technician told me at 15 years old that my spine looked like that of an unhealthy 50 or 60 year old man, and would keep getting worse until I had to start having surgeries. With a long string of major back surgeries in the family line, it was a depressing blow. 
 
 So with that, the physical strength and competence that had defined many hours of my daily life and society vanished. 
 
 ### Spirituality, Wisdom and Music 
 
-After a few months of depression and pain, I decided to try to work my way out of it. It was the first of many times where I learned that magical things happen if you get up early. I got a gym membership and began getting up at 5AM or so to go work out before school and see if there was some way to train my body back to health. One of the personal trainers at the gym was an ex-army ranger who had broken his back in a parachuting accident and been told he would never walk again. He had figured out the mechanics of how to leverage mind over body to train and will himself back into action. He saw I was working hard, was in pain, and couldn't afford help, so he offered to work out with me and train me for free, if I would try to send other people to him who asked about my progress. He was the first of a series of warriors that would teach me a lot. 
+After a few months of depression and pain, I decided to try to work my way out of it. It was the first of many times where I learned that magical things happen if you get up early. I got a gym membership and began getting up at 4 or 5AM or so to go work out before school. I wanted to discover if there was some way to train my body back to health. One of the personal trainers at the gym was an ex-army ranger who had broken his back in a parachuting accident and been told he would never walk again. He had figured out the mechanics of how to leverage [[Mind]] over [[Embodiment]] to train and will himself back into action. He saw I was working hard, was in pain, and couldn't afford help, so he offered to work out with me and train me for free, if I would refer other people to him who asked about my [[Progress]]. He was the first of a series of warriors that would teach me a lot, as physical strength blended in with my first basic training in weapons. 
 
-Being unable to play sports or express my self in the same way externally, my life turned inward to spirituality. I dove deeper into the Scriptures. Solomon's words on the Quest towards Wisdom, a Goal more valuable that gold, silver, or precious stones, had first gripped me a few years earlier, and set me on a Path that would define my life. Now, I was liberated to pursue Wisdom more intently. Wisdom - the Quest to see, as fully as it was possible, from the Perspective of God. I am eternally grateful that God woke me up to this Quest at 10 or 12 years old, because it takes lifetimes and The Goal recedes as you approach it. Young man, young woman - above All, seek Wisdom and its Source. Nothing you could possibly desire could compare with Her. 
+Being unable to play sports or express my self in the same way externally, my life turned inward to spirituality. I dove deeper into the Scriptures. Solomon's words on the Quest towards [[Wisdom]], a Goal more valuable that gold, silver, or precious stones, had first gripped me a few years earlier, and set me on a [[Path]] that would define my life. Now, I was liberated to pursue [[Wisdom]] more intently. Wisdom - the Quest to see, as fully as it was possible, from the Perspective of [[God]]. I am eternally grateful that God woke me up to this Quest at 10 or 12 years old, because it takes lifetimes and The Goal recedes as you approach it. Young man, young woman - above All, seek Wisdom and its Source. Nothing you could possibly desire could compare with Her. 
 
-I started playing the guitar a bit more, and there were definite gaps in music and leadership around me at youth group and school. So I began practicing the art of leading Worship. I am not a natural musician or vocalist, so this was a stretching and somewhat embarrassing process. Leading worship forces one to attempt to leave all that behind, and exist in such a way, on stage in front of people, that they are spiritually inspired, fed, and able to have a transcendent experience of leaving the world behind and consciously communing with God. Worship is amazing in so many ways. And so foreign to many. We should rediscover the Art. By my last couple years of high school, I was usually leading or playing in 3 to 5 worship services a week. 
+I started playing the guitar a bit more and awkwardly learning to sing, and there were definite gaps in music and leadership around me at youth group and school. So I began practicing the Art of leading Worship. I am not a natural musician or vocalist, so this was a stretching and somewhat embarrassing process. Leading worship forces one to attempt to leave all that behind, and exist in such a way, on stage in front of people, that they are spiritually inspired, fed, and able to have a transcendent experience of leaving the world behind and consciously communing with God. Worship is amazing in so many ways, and so foreign to many. In the [[World To Come]], we will rediscover the Art. By my last couple years of high school, I was usually leading or playing in 3 to 5 worship services a week. 
 
 With that experience, my identity, society and sense of purpose and calling shifted profoundly towards the Spiritual. I can see in so many ways what a gift it was to suffer the physical pain and loss that drove me deeper into the Metaphysical Realm, and recentered my life and routines around reimmersing my Self in God, and doing my best to help others do the same. 
 
 ### The Academy and Beyond
 
-My mind is open and expands readily, so school was easy for me. I got straight A's, took advanced courses, determined I wanted to go to Pepperdine, applied to only that school, was accepted early with a scholarship, and began University. 
+My mind is open and expands readily, so school was easy for me. I got straight A's, took advanced courses, determined Pepperdine was the right University to attend, applied to only that school, was accepted early with a scholarship, and began University. 
 
-Some amazing teachers along the Way seemed to find reciprocal joy in helping me learn and grow, and went far out of their way, in unusual ways, to invest in my development. I am eternally grateful for all those little nudges, extra coaching and mentoring, and immense unpaid time invested that so few are blessed to experience. Because of how human consciousness exponentially develops, those experiences snowball in such profound ways. I wish every child the same joy and advantage of reciprocal relationship and growth with mentors who care. 
+Some amazing teachers along the Way seemed to find reciprocal joy in helping me learn and grow, and went far out of their way, in unusual ways, to invest in my development. I am eternally grateful for all those little nudges, extra coaching and mentoring, and immense unpaid time invested that so few are blessed to experience. Because of how human consciousness exponentially develops, those experiences snowball in profound ways. I wish every child the same joy and advantage of reciprocal relationship and growth with mentors who care. 
 
-I spent my freshman year in Malibu, and my sophomore year in Germany. It was an extraordinary experience. I had school 4 days a week, and my grandparents blessed me with a gift of immense worth: an unlimited Eurail pass. I immersed myself into European culture and was able to travel to dozens of countries, learning to walk through Foreign Domains alone, and discovering how to navigate and survive in the Unknown on a shoestring budget. 
+I spent my freshman year in Malibu, and my sophomore year in Germany. It was an extraordinary experience. In Heidelberg, Germany I had school 4 days a week, and my grandparents blessed me with a gift of immense worth: an unlimited Eurail pass. I immersed myself into European culture and was able to travel to dozens of countries, learning to walk through Foreign Domains alone, and discovering how to navigate and survive in the Unknown on a shoestring budget. 
 
 ### Love 
 
@@ -487,17 +489,17 @@ No part of my journey has been more of an extraordinary mystery and joy than my 
 
 I met my Love when she was 13 and I was 14. Our older siblings dated one another for a few months, so we met the summer before high school in passing a few times, and then ended up at the same school together in the fall. 
 
-By September our freshman year, we were inseparable. At 15, I told her mother I was going to marry her, and my dad told me I was insane. When she first saw me, she was behind me, in a worship service. God essentially told her, "that is your person, you guys have a mission to go on, go."
+By September our freshman year, we were inseparable. At 15, I told her mother I was going to marry her, and my [[Earthly Father]] told me I was insane. When she first saw me, she was behind me, in a worship service. God essentially told her, "that is your person, you guys have a mission to go on, go."
 
-And so, this absolutely amazing and archetypically feminine creature entered my life, captured my heart and love as I captured hers, and we are somehow still doing our best to progress towards Destiny and continue to fall more deeply in Love with one another. 
+And so, this absolutely amazing and archetypically feminine creature entered my life, captured my heart and love as I captured hers, and we are somehow still doing our best to progress towards Destiny and continue to fall ever more deeply in Love with one another. 
 
 One of the most amazing characteristics of Caity is that she is something like conscience incarnate. Caitlyn means "The Pure", and I do not know if I have ever met another creature so deeply devoted to being Good. My personality and nature seems built to explore Beyond The Boundary, so having such a deeply Spiritual and Moral Being continually by side shielded me from so many experiences and temptations that would otherwise have likely led me off The Path and harmed The Mission. 
 
-Beyond the Spirit of God, there may be no stronger strengthening and refining fire than discovering how to be with a highly sensitive, beautiful, deeply Spiritual woman. The depths, and gifts, and struggles can only be comprehended through experience. Every day, I have had to transform to be and become worthy of Caity's ongoing Faith. Many times, I have lost it for a while along the Way. And yet she has always remained Faithful, even as she knows me deeper than anyone, and bears the brunt of co-existing with my deepest flaws and imperfections. 
+Beyond the Spirit of God, there may be no stronger strengthening and refining fire than discovering how to be with a highly sensitive, beautiful, deeply Spiritual woman. The depths, and gifts, and struggles can only be comprehended through experience. Every day, I have had to transform to be and become worthy of Caity's ongoing Faith. Many times, I have lost it along the Way. And yet she has always remained Faithful, even as she knows me deeper than anyone, and bears the brunt of co-existing with my deepest flaws, insufficiencies and imperfections. 
 
 Young man, find a worthy woman. 
 
-Caity, I love you so much, I am so proud of you, I am so grateful for you. I am so sorry for all the hurt you have suffered and I have caused you along our journey together. You are the most amazing gift, and it is a true and deep honor to be one with you. 
+Caity, I love you so much, I am so proud of you, I am so grateful for you. I am so sorry for all the hurt you have suffered and I have caused you along our Journey together. You are the most amazing gift, and it is a true and deep honor to be one with you. 
 
 Come what may, I will always and eternally Love you, and do my best to Cherish and Protect you. 
 
@@ -505,9 +507,11 @@ Come what may, I will always and eternally Love you, and do my best to Cherish a
 
 Knowing that someday I would be called upon to help build the Force For Good and wage war for the future of life and society, I resolved at an early age to prepare generally for the Unknown Future by lifting the heaviest burdens I could bear and taking on as much responsibility as anyone would entrust me with. At first, that was selling and trading, or mowing a lawn. Then, it was bagels and ice cream. Then, it was discovering that my Mind was a more valuable asset than my physical strength or food service ability, and that high school parents would pay me 7x minimum wage to teach their children mathematics and music. $40 or $50 an hour in high school was a lot better than $5 or $7. 
 
-Towards the end of high school, my grandfather approached me and suggested that it might be time to get something real on my resume. He wasn't working for the construction company he founded any more, but our last name was still on the building and he suggested that he would be willing to give the employee-owners a call and see if they would let me come in and intern. 
+Towards the end of high school, my grandfather approached me and suggested that it might be time to get something real on my resume. He was no longer working for the construction company he founded, but our last name was still on the building and he suggested that he would be willing to give the employee-owners a call and see if they would let me come in and intern. 
 
 Sacrificing money to the opportunity to take on responsibility, learn, and grow, I made a fateful decision to take a 7x paycut, and start doing plan takeoffs for minimum wage. Summers, spring break, Christmas break, anytime I had a week free I would go into the office and attempt to be useful. 
+
+Plan takeoffs were an amazing thing to learn, because they involved taking hundreds of pages and plans and specifications reflecting a [[Designer's Intent]], and decomposing them into their constituent elements in a Way that could be analyzed, estimated, and built. 
 
 And so it was that I found myself faced with a decision. 
 
@@ -515,25 +519,25 @@ I had come back from spending my sophomore year in Europe and was hard at work a
 
 Following the 'taking on as much responsibility as anyone would entrust me with' heuristic, I reasoned that while it was a significant sacrifice to give up university life and its "fun", if this job required a university degree and 5 to 7 years of experience, and I was being offered it now, that could cut 7 to 9 years off my career and responsibility trajectory. So I dropped my classes, became the lowest paid Project Engineer in recent memory, and starting working 50+ hours a week while taking classes on nights and weekends to finish my degree. 
 
-I was given a small salary and an old work truck, which provided enough of a resource base for me to rent a small condo and ask Caity to marry me. At 20, she was still too young to legally sip the champagne at our wedding. It was maybe the only time I have seen her break the law. 
+I was given a small salary and an old work truck caked in dirt, sunflower seeds and cigarette smoke, which provided enough of a resource base for me to rent a small condo and ask Caity to marry me. At 20, she was still too young to legally sip the champagne at our wedding. It was maybe the only time I have seen her break the law. 
 
-Shortly thereafter, the Project Manager who had hired me was given the opportunity to open up a new geographical division for the company. Already 7 to 9 years out beyond the [[Age Responsibility Gradient]], I ended up taking on way more responsibility on a far more complex job that I could have ever expected, and was soon dealing with complex engineering challenges, landslides, and negotiating millions of dollars of changes. 
+Shortly thereafter, the Project Manager who had hired me was given the opportunity to open up a new geographical division for the company. Already 7 to 9 years out beyond the [[Age Responsibility Gradient]], I ended up taking on way more responsibility on a far more complex job that I could have ever expected, and was soon dealing with complex engineering challenges, landslides, excavation below sea level, and negotiating millions of dollars of changes. 
 
-There was an unspoken rule in the company that if you brought a job to the company, bid it, and won it, you got to run it. I wasn't a "real" project manager or estimator yet, but I was starting to figure out that you just had to look ahead and become / competently [[Embody And Enact]] what you were Aiming at, and eventually years later they would catch up with the title and money. I was at the gym one day and I ran into a grade checker, who lived in the area and heard they were going to be constructing a large reservoir the following year. He asked me if I had heard about, and if the company was going to pursue it. I didn't know, but for some reason the opportunity captivated me, so I decided to search it out. 
+There was an unspoken rule in the company that if you brought a job to the company, bid it, and won it, you got to run it. I wasn't a "real" project manager or estimator yet, but I was starting to figure out that you just had to look ahead and competently [[Embody And Enact]] what you were Aiming at, and eventually years later they would catch up with the title and money. I was at the gym one day and I ran into a grade checker, who lived in the area and heard they were going to be constructing a large reservoir the following year. He asked me if I had heard about, and if the company was going to pursue it. I didn't know, but for some reason the opportunity captivated me, so I decided to search it out. 
 
 I drove into the office and checked the bid sheet, and it wasn't on the company's radar yet. So I went to the water district website, found all the information and maps I could, printed them out on the big plotter, and plastered them all over the walls of my office. I told the Chief Estimator about the project and asked if I could try to bid it. He chuckled and dryly said maybe. 
 
 To bid a project, one has to wrap their mind around the Designer's Intent for a worksite, analyze the existing conditions, and understand in very nuanced detail The Gap that exists between Intention and Reality, and all the challenges that stand in the Way. One then has to imagine the entire detailed sequence of events required to transform the Domain [[FROM]] What Is, [[TO]] What Is Intended To Be. That sequence often spans multiple years and thousands of activities, which have to be first conceptualized and then progressively articulated in terms on feet and yards of materials, types and hours of equipment, and types and hours of human time required to accomplish The Goal. For each of the specialized sub-systems and scopes, third party companies have to be recruited and informed, subcontractor bids reconciled and compared, and a team bound together and committed to the bid. It is a phenomenal skill to learn. 
 
-Long story short, with a lot of help I worked as hard as I could to understand the job, spending hours sitting on hills overlooking the work site, walking the deer trails to learn how to move through the Domain, imagining how the machines would move, and trying to really see in my mind what would happen week by week over the course of the two year project. We won the project, I reminded the powers that be of the unspoken rule, and as reluctantly as I had been allowed to bid the project, they reluctantly agreed to let me try to manage the project with some strict guard rails and oversight that never materialized. 
+Long story short, with a lot of help I worked as hard as I could to understand the job, spending hours sitting on hills overlooking the work site, walking the deer trails to learn how to move through the Domain, imagining how the machines would move, and trying to really see in my mind what would happen week by week over the course of the two year project. We won the project, I reminded the powers that be of the unspoken rule, and as reluctantly as I had been allowed to bid the project, they agreed to let me try to manage the project with some strict guard rails and oversight that never materialized. 
 
 I remember showing up to the pre-construction meeting with the City and County officials, members of the water board, environmentalists and engineers. I was 25 at the time, now perhaps 15 to 20 years ahead of the [[Age Responsibility Gradient]] on my career path. They asked me where the Project Manager was, and I awkwardly let them know that I was it. 
 
-Mid-way through that project, the company was growing, the economy was booming, and along came an opportunity and imperative too big for any one company to tackle in isolation. It was the reconstruction of an Earthen dam that at the time of its construction in the early 1900s was considered the largest in the world. It was at risk of failing in a seismic event, putting thousands of families at risk. It turned out that I was now the only Project Manager / Estimator in the company outside of the C-Level executive staff with experience building dams, so I began bidding the dirt work on the project and flying out to meet with the international partners that were assembling the joint venture. 
+Mid-way through that project, the company was growing, the economy was booming, and along came an opportunity and imperative too big for any one company to tackle in isolation. It was the reconstruction of an Earthen dam that at the time of its construction in the early 1900s was considered the largest in the world. It was at risk of failing in a seismic event, putting thousands of families at risk. It turned out that I was now the only Project Manager / Estimator in the company outside of the C-Suite with experience building dams, so I began bidding the dirt work on the project and flying out to meet with the international partners that were assembling the joint venture. 
 
-We won the project. The project was for the City of San Francisco, and I had a feeling the company was going to try to get me to go up and run the earthwork package for the join venture. I had resolved that it wasn't a significant enough opportunity to disrupt my family, so I was going to turn it down. The CEO of the company invited me to lunch, and after some talk informed me that they were setting up the Executive Council for the Joint Venture, and each of the three companies involved was going to fill one of the top three positions. The Spanish company financially backing, one of the largest construction consortiums in the world, would put a figure head project manager on the project. Our concrete and bridge building partners would put a Deputy PM on the project who would be primarily responsible for Administration. And our company would provide the Construction Manager to lead the Team of Teams building the project. Each of the three would be a part of the Executive Team for the new company being established to carry out the Joint Venture. He offered me the job. 
+We won the project. The project was for the City of San Francisco, and I had a feeling the company was going to try to get me to go up and run the $100 Million + earthwork package for the join venture. I had resolved that it wasn't a significant enough opportunity to disrupt my family, so I was going to turn it down. The CEO of the company invited me to lunch, and after some small talk informed me that they were setting up the Executive Council for the Joint Venture, and each of the three companies involved was going to fill one of the top three positions. The Spanish company financially backing the project, one of the largest construction consortiums in the world, would put a figure head project manager on the project. Our concrete and bridge building partners would put a Deputy PM on the project who would be primarily responsible for Administration. And our company would provide the Construction Manager to lead the Team of Teams building the project. Each of the three would be a part of the Executive Team for the new company being established to carry out the Joint Venture. He offered me the job. 
 
-A position on the executive committee coupled to overseeing all the Work across teams from dozens of companies on an international joint venture encompassing years and hundreds of millions of dollars is something that very few Project Managers get to experience in their careers. 
+A position on the executive committee coupled to overseeing all the Work across teams from dozens of companies on an international joint venture encompassing years and hundreds of millions of dollars is something that very few get to experience in their careers. 
 
 And so, again following the 'taking on as much responsibility as anyone would entrust me with' heuristic, I moved my family up to the bay area and started the project. 
 
@@ -547,11 +551,11 @@ Whereas a few years ago I was learning to navigate changes involving months and 
 
 ### Love Over Opportunity 
 
-Another aspect of the plan that collided with Reality in unexpected ways regarded family and marriage. It turns out that pulling a highly introverted and sensitive woman and our 2 year old daughter away from their support structure, placing them in an apartment in a foreign place without a social system, and then leaving that apartment at 4 or 5 AM every morning and returning at 7 or 9 PM every evening exhausted from trying to tackle a massive scope of work and political machination is not a recipe for success and stability on the front of family and Love. 
+Another aspect of the plan that collided with Reality in unexpected ways regarded family and marriage. It turns out that pulling a highly sensitive and introverted woman and our 2 year old daughter away from their support structure, placing them in an apartment in a foreign place without a social system, and then leaving that apartment at 4 or 5 AM every morning and returning at 7 or 9 PM every evening exhausted from trying to tackle a massive scope of work and political machination is not a recipe for success and stability on the front of family and Love. 
 
-After two or three years, the changes had been negotiated, the strategy and plan was recreated, the project was set, the politicians and constituencies were all happy, and it was evident that the project would be an overwhelming success, my marriage was falling apart, and all that would be happening the next year or two was the slow, steady and somewhat boring work of moving a mountain, which would have been far below my [[Zone Of Optimum Development]]. 
+After two or three years, the changes had been negotiated, the strategy and plan was recreated, the project was set, the politicians and constituencies were happy, it was evident that the project would be an overwhelming success, my marriage was falling apart, and all that would be happening the next year or two was the slow, steady and somewhat boring work of moving a mountain, which was far from my [[Zone Of Optimum Development]]. 
 
-And so I returned with my family to Southern California just in time to do the exceedingly hard work of learning to fall back into the feelings of Love from the brink of chaos and divorce, before it was too late. It got dark enough for a while that I don't think either of us thought we would make it through. I later came to understand than my more honest mentors all had a story or five of the times they couldn't see a way out, almost got divorced, and somehow overcame. Somehow, by the grace of God, we succeeded, and soon, we were not only able to be in the same room without conflict, but we could also laugh and play again. 
+So I returned with my family to Southern California just in time to do the exceedingly hard work of learning to fall back into the feelings of Love from the brink of chaos and divorce, before it was too late. It got dark enough for a while that I don't think either of us thought we would make it through. I later came to understand than my more honest mentors all had a story or five of the times they couldn't see a way out, almost got divorced, and somehow overcame. Somehow, by the grace of God, we succeeded, and soon, we were not only able to be in the same room without conflict, but we could also laugh and play again. I am so glad that we stuck it out. 
 
 I was 30, waking up from a 10 year time-warp tunnel of growth and development and maturation, and finally beginning to feel ready to Begin. One of my mentors who was part of a multi-generational family business said that their family rule of thumb was that managers weren't worth a damn until they were 30 and been through some hard knocks. It's only kind of True, but there is a Principle there. 
 
@@ -559,19 +563,19 @@ I was 30, waking up from a 10 year time-warp tunnel of growth and development an
 
 To continue learning and making progress, I researched the top 10 graduate universities, applied to UCLA, was accepted, and began working on my Masters Degree in Business Administration as I returned to estimating and managing portfolios of projects. I was bored. 
 
-The logical next step was to take on running a company, and the board encouraged me to hang in there and wait. The CEO of company told me he probably had another 5 or 10 years remaining before retirement, and had been saying that for a few years. A mentor advised me that often people in those positions of luxury and power say they "probably have 5 to 10 years remaining", they are still there in 20. While a very easy and secure path towards life as multi-millionaire, it would have violated my System of Values on multiple levels, and therefore Betrayed the Spirit within. 
+The logical next step was to take on running a company, and the board encouraged me to hang in there and wait. The CEO of company told me he probably had another 5 or 10 years remaining before retirement. While a very easy and secure path towards life in the 1%, it would have violated my System of Values on multiple levels, and therefore Betrayed the Spirit within. 
 
-So, I left and started a competing company from scratch. 
+So, I left and started a company from scratch. 
 
 It is an amazing thing to sit in one's living room, without a computer, without a Contractor's License, and ponder how to build a Company that is capable of building teams and projects. It is kind of like imagining and building a project, but at a higher level of abstraction, because instead of building a given portfolio of projects, you now have to build a Culture and System capable of organizing the surrounding world and successfully building an unspecified set of projects indefinitely into the Future. 
 
 The Project Manager who had hired me, now Chief Estimator and on the board of directors, joined me. Our partnership lasted two years before we separated into two different companies. It was difficult to separate, however I am so thankful we did so that he and his family did not have to endure the journey through hell that followed. 
 
-The company was was reasonably successful, rapidly growing into one of the largest non-union contractors in the hyper-competitive and union-dominated heavy civil industry of Southern California. We won $130 Million of work of so in our first few years in business. Had we applied for awards, it would likely have been one of the fastest growing privately funded, solely owned ventures at the time. 
+The company was was reasonably successful, rapidly growing into one of the largest non-union contractors in the hyper-competitive and union-dominated heavy civil industry of Southern California. We won $130 Million of work of so in our first few years in business. Had we applied for awards, it would likely have been among the fastest growing privately funded, solely owned ventures at the time. 
 
-I acquired a couple other companies and began to learn how to (and how not to) assemble portfolios of companies, executing portfolios of projects. 
+I acquired a couple other companies and began to learn how to (and how not to) assemble portfolios of companies capable of executing portfolios of projects. 
 
-We began to solve larger challenges with more at stake, gaining recognition and earning favor and awards at higher levels up to the California State Senate and the California State Assembly, which if it were a country, would be the 5th largest economy in the world. 
+We began to solve larger challenges with more at stake, gaining formal recognition and earning favor at higher levels up to the California State Senate and the California State Assembly. 
 
 By 2019, after 5 years in business, we had won around $40 million of work two years in a row as we reinvested everything into building the systems and infrastructure for expansion. We expanded our bonding capacity out towards $100 Million in preparation, and were ready to begin scaling up. 
 
@@ -580,15 +584,15 @@ I had watched and invested with my grandfather as he built a reciprocating real 
 
 Around 2017, after separating from my partner, I began working on how to give the portfolio of companies away into a multi-generational holding structure, that would exist for the benefit of current and future generations of stakeholders in a multi-sided ecosystem. 
 
-We have now made massive progress legally and conceptually on these fronts over the last 7 years, however back in 2017, the first dozens of attorneys and advisors I and my counselors consulted all essentially told informed us that was not the way the United States system constructed. Companies were owned by shareholders, and the companies operated with a fiduciary duty to maximize shareholder return. 
+We have collectively made massive progress legally and conceptually on these fronts over the last 7 years with special purpose trusts, decentralized autonomous organizations, and other stewardship innovations, however back in 2017, the first dozens of attorneys and advisors we consulted all essentially informed us that was not the way the United States system constructed. Companies were owned by shareholders, and the companies operated with a fiduciary duty to maximize shareholder return. This subordinated our entire ecosystem system, which dominates the political system, to capital, concentrating wealth and power in the hands of a few. 
 
-On my Quest for Wisdom, it was evident how fundamentally flawed the subjection of human capacity and consciousness to either central government or capital was. Just because I was blessed enough to have the capital, relationships, capacity, and courage to risk everything to start the company, that did not Spiritually imply that I or my family "owned" the fruit of the labor of others.  
+On my Quest for Wisdom, it was evident how fundamentally flawed the subjection of human capacity and consciousness to either central government or capital was. Just because I was blessed with the capital, relationships, capacity, and courage to risk everything to start a company, that did not Spiritually imply that I or my family "owned" the fruit of the labor of others. 
 
-I had watch many families, and family companies, be destroyed when a generation passed on unearned wealth and power to the next. Studying the patterns, it seemed to seldom last more than a few generations. 
+I had watch many families, and family companies, be destroyed when a generation passed on unearned wealth and power to the next. Studying the patterns, it seemed to seldom last more than a few generations without corrupting and growing corrupted. 
 
-So I jumped up another level of abstraction, hired an attorney full time, and went to work on the legal and governance systems that could steward portfolios of federated companies for the good of future generations. 
+So I jumped up another level of abstraction, hired an attorney full time, and went to work on designing and building the framework for a set of interoperable global legal and governance systems that could steward portfolios of federated companies for the good of future generations. 
 
-Our prototype structure of a hybrid legal infrastructure to empower a blended ecosystem of for-profit and non-profit activities, that could fractally replicated and federated around the world, was instantiated and received IRS approval in 2019. 
+Our prototype hybrid legal infrastructure to empower a blended ecosystem of for-profit and non-profit activities, that could be fractally replicated and federated around the world, was instantiated and received IRS approval in 2019. 
 
 The economic engine was built. 
 
@@ -598,54 +602,66 @@ The legal and governance infrastructure were built.
 
 After a lifetime of work, by 35 all the pieces of something no one yet understood seemed to be in place. 
 
-And then the strangest thing happened... 
+And then in 2020 the strangest thing happened... 
 
 ### Worksite Earth 
 
-As I was preparing the legal and governance structure to steward "our own" portfolio of companies as a seed, we were simultaneously measuring the legal and governance infrastructure against the requirements for the universal joint venture to confront and overcome The Giants and regenerate society and our planet in the 2020s and 2030s. 
+As I was preparing the legal and governance structure to steward "our own" portfolio of companies as a seed, we were simultaneously measuring the legal and governance infrastructure against the requirements for the Universal Joint Venture to confront and overcome [[The Giants]] and the [[Grand Challenges]], and regenerate society and our planet within a single generation. 
 
-As I mentioned above, if California were a country, it would rank as the 5th largest economy in the world. It also has one of the most complex, dysfunctional, and corrupt political and employment landscapes, coupled to one of the most competitive and well-developed construction ecosystems. And a fascinating religious and ideological landscape. In hindsight, it was the optimum training ground. So by the time I had engaged a major joint venture for the City of San Francisco, ran dozens of government funded projects, built companies there, and created enough value for the community to win awards from County and State, I had a reasonably deep view into a reasonably large microcosm of our world at a high enough level that I could start to see what was going on. And what was going wrong. Terribly wrong. 
+If California were a country, it would rank as the 5th largest economy in the world. It also has one of the most complex, dysfunctional, and corrupt political and employment landscapes, coupled to one of the most competitive and well-developed construction ecosystems. And a fascinating and disturbing religious and ideological landscape. In hindsight, it was the optimum training ground. 
 
-I began to more openly discuss how and why the corrupted systems of government, society, economy, and religion were cracking, the likelihood and imminence of their failure, and the inability of the willfully blind existing systems exploiting the populations for their own positions and power to take action to address the impending crisis of crises before it was too late. 
+So by the time I had engaged in a major joint venture for the City of San Francisco, ran dozens of government funded projects, built companies there, and created enough value for the community to win recognition from County and State, I had a reasonably deep view into a reasonably large microcosm of our world at a high enough level that I could start to see what was going on. 
 
-Because very few people at that time had any desire to attempt to undergo the brain damage of genuinely grappling with the Creator's Intent for Worksite Earth, a thorough analysis of the Existing Forces and Conditions, an understanding The Gap between What Is and What Ought To Be, and the conceptualization of a potentially viable Strategy and Plan of Action to transform and regenerate the Earth within a single generation... 
+And what was going wrong. Terribly wrong. 
+
+I began to more openly discuss how and why the corrupted systems of government, society, economy, and religion were cracking, the likelihood and imminence of their failure, and the inability of the willfully blind existing systems exploiting the populations for their own positions and power to take action to address the impending [[Crisis of Crises]] before it was too late. 
+
+Because very few people at that time had any desire to attempt to undergo the brain damage of genuinely grappling with the [[Creator's Intent]] for [[Worksite Earth]], a thorough analysis of the [[Existing Forces and Conditions]], an understanding [[The Gap]] between [[What Is]] and [[What Ought To Be]], and the conceptualization of a potentially viable Strategy and Plan of Action to transform and regenerate [[Society]] and the Earth within a single generation... 
 
 ...I was introduced in relatively short form to the relatively few people that were attempting to think and engage in conversations at that level. 
 
-We began having hours of weekly discussion attempting to grapple with the issues, and discern a Critical Path FROM Where We Were TO The Goal of a flourishing and abundant world that worked for All its current and future inhabitants. 
+By 2016, we were having hours of weekly discussion attempting to grapple with the [[Total Nested Hierarchy]] of issues, needs, and aspirations on [[Earth]] and Beyond, and discern a [[Critical Path]] [[FROM]] Where We Were [[TO]] The Goal of a flourishing and abundant world, or set of worlds, that worked for [[All]] their current and future inhabitants. 
 
-Within the first year or two, we discerned that the most difficult challenge of a universal joint venture to regenerate Worksite Earth would be legal and governance systems and structure, because such a project would have to be initiated by Us, The People, *yet no one could own it.* Because the New supranational Structure would have to connect and empower hundreds of millions or billions of people, it would be akin to forging a New Nation, or a New Covenant. 
+Within the first year or two, we discerned that the most difficult challenge of a [[Universal Joint Venture]] to regenerate Worksite Earth and Beyond would be legal and governance systems and structure, because such a project would have to be initiated by Us, The People, relatively simultaneously around the world, *yet no one could own it.* Because the New supranational Structure would have to connect and empower billions of people, leaving no one involuntarily behind, it would be akin to forging a New Tribe of Tribes or Nation of Nations, unified around a New Covenant. 
 
-So we set about ensuring that the legal and governance commons we were establishing for Us The People to steward our companies, could also work as a commons for Us The People to govern our Selves indefinitely into The Future as we reunited as One Family in service of One and All. 
+A [[New Human Operating System]] would be required that balanced connection, unity, and interoperability among the parts of [[The Body]], with the imperative to protect the Sovereignty, Autonomy, and Agency of each Individual, Group, and Locality. 
 
-Eventually we had to incarnate the System legally and set up bank accounts, which required a name. After spending over a hundred thousand dollars with branding companies and considering thousands of names strategically, spiritually it was revealed that what needed to be constructed was something like a Myth, and the mythical name of Lionsberg was given. 
+So we set about ensuring that the legal and governance Commons we were establishing for Us The People to steward Our companies, could also work as a commons for Us The People to govern Our Selves indefinitely into The Future as We reunited as One Family in service of One and All. 
 
-What would have to unfold would be a Story of Stories. The Story of humanity aboard Earth. And The Myth would have to be big enough to invite and weave in the Individual and Local Stories of every Individual, Family, Community, Bioregion, Tribe, Nation and People on Earth. 
+Eventually we had to incarnate the System legally and set up bank accounts, which required a [[Name]]. After spending over a hundred thousand dollars with branding companies and considering thousands of names strategically, spiritually it was revealed that what needed to be constructed was something like a Myth, and the mythical name of Lionsberg was revealed. 
+
+What would have to unfold would be a Story of Stories. The Great and Tragic Story of humanity aboard Earth, and now venturing Beyond. And The Myth would have to be big enough to invite and weave in the Individual and Local Stories of every Individual, Family, Community, Bioregion, Tribe, Nation and People on Earth. 
 
 And so, The Myth of Lionsberg was born. 
+
+Welcome to [[The Story]]. 
 ### Martial Arts, Malevolence, and War 
 
-I mentioned that when it was first presented to me Spiritually, the moment in history it appears we are now in laid itself out as something like an epic Spiritual War for the future of life and society. 
+I mentioned that when it was first presented to me Spiritually, the moment in history we are now in laid itself out as something like an epic Spiritual War for the future of life and society. 
 
-And so I knew that I needed to somehow understand the spirit, theory, strategy, and tactics of combat. 
+I therefore knew that I needed to somehow understand the spirit, theory, strategy, and tactics of combat. 
 
-By the time I was in my early 20s, I was watching youth who had already been in martial arts since they were 5, and convinced that it was too late to seriously Practice. 
+By the time I was in my early 20s, I was watching youth who had already been in martial arts since they were 5, and convinced that it was too late to seriously begin Practicing. 
 
-Nevertheless, I swallowed my pride, searched around, and was lucky enough to be in the same town as the founder of Gracie Barra North America. So I got on the mat and began training in Brazilian Jiu Jitsu a few times a week as I was accelerating my career, supporting a new wife and family, and going to school nights and weekends. I will always be grateful for the training and instruction they provided. 
+Nevertheless, I swallowed my pride, searched around, and discovered that I was blessed to be in the same town as the founder of Gracie Barra North America. So I got on the mat and began training in Brazilian Jiu Jitsu a few times a week as I was accelerating my career, supporting a new wife and family, and going to school nights and weekends. I will always be grateful for the training and instruction that family of practitioners provided. 
 
 A few years later, a very unexpected and archetypical figure showed up in the back row of a church my wife's family had been attending for years. He was an enigmatic short round man in his 70s who walked with a cane, and spoke with a gruff voice and heavy Syrian accent. One day the pastor of the church, who we will see again later in our story, suggested that if anyone in the church had any hidden gifts or talents, they should offer to share them with the congregation. 
 
 And so Kamil Al-Hakim quietly let him know that he carried a body of martial arts knowledge that he would be wiling to share if anyone wanted to learn. It turns out he was one of two seventh degree black belts in the world in a traditional Japanese martial art called Inyo Ryu, and had been studying and teaching a variety of arts for 50 years. He had suffered a dissection of the the main artery feeding his heart, was in a coma for 21 days, died and fought back to life, and now couldn't lift his arms over his shoulders without risking bursting his heart. But he was Wise. I began simultaneously training with him while continuing with Jiu Jitsu. Within a few weeks, I came to understand that this old man with a cane was operating in an entirely different realm of forces, and could kill any of the toughest young Jiu Jitsu guys I was training with in seconds. So I dropped Jiu Jitsu and began training in group classes and personally with him at his house several times a week, a pattern that would last until his death. 
 
-His personality was gruff, his teachings sometimes seemingly sporadic, redundant or mundane. Most students came for a while, and then left. He said he usually didn't pay too much attention to students for the first several years, until they had proven themselves. Yet for those who were loyal and could see through the rough and confusing exterior, he insisted that the secrets of martial arts were best taught over the dinner table, and welcomed us into his home.
+His personality was gruff, his teachings sometimes seemingly sporadic, redundant or mundane. Most students came for a while, and then left. He said he usually didn't pay too much attention to students for the first several years, until they had proven themselves. The Way of a master is lonely, and he had been hurt and disappointed many times. Yet for those who were loyal and could see through the rough and confusing exterior, he insisted that the secrets of martial arts were best taught over the dinner table, and welcomed us into his home.
 
-He coached me through my third degree black belt in the dogma of the structured art of Inyo Ryu Karate, corresponding to obtain my higher certificates and degrees from Japan. However there was something profoundly Deeper that gripped his primary attention, that grew stronger as he approached the end of his time on Earth. Over the last 7 years or so of his life, I watched his struggle, and wrestled with him, through the spiritual, philosophical and moral ramifications of *transcending a dogmatic system*. When one obtains high level knowledge in the traditional arts, it is accompanied by strict promises of loyalty and fidelity, and a commitment to continue to develop and transmit the Knowledge until death. However on the other side of death and rebirth, with his life force waning and Wisdom rising, he came to understand that the dogmatic and structured system, along with its forms and practice, had become corrupted from the Founder's Intent and lost its Way. He had converted and sworn loyalty to a System and way of being that he later came to understand was corrupted and inadequate to grapple with the true forces of tragedy, malevolence, and suffering that mark our present Reality. 
+He coached me through my third degree black belt in the dogma of the structured art of Inyo Ryu Karate, corresponding to obtain my higher certificates and degrees from Japan. However there was something profoundly Deeper that gripped his primary attention, that grew stronger as he approached the end of his time on Earth. Over the last 7 years or so of his life, I watched his struggle, and wrestled with him, through the spiritual, philosophical and moral ramifications of *transcending a dogmatic system*. When one obtains high level knowledge in the traditional arts, it is accompanied by strict promises of loyalty and fidelity, and a commitment to continue to develop and transmit the Knowledge until death. However on the other side of death and rebirth, with his physical life force waning and Wisdom rising, he came to understand that the dogmatic and structured system, along with its forms and practice, had become corrupted from the Founder's Intent and lost its Way. He had converted and sworn loyalty to a System and way of being that he later came to understand was corrupted and inadequate to grapple with the true forces of tragedy, malevolence, and suffering that mark our present Reality. 
 
-Over the last 5 years before his death, we spent countless hours together, attempting to articulate, in English, a return to the core essence and timeless Wisdom of the Way. Beyond form. Beyond technique. Beyond dogma. Only pure, spontaneous, right action. 
+There are only so many [[Body Weapons]], only so many ways to strike, only so many ways to stand and move. Underneath a thousand named arts, forms, and katas, is simply the [[Collective Inheritance]] of Wisdom, Knowledge, Theory, and Practice. The aspects that are most True show up in every True Art, just like the [[Golden Thread]]. The Masters often end up having to name their System in order to differentiate and [[Incarnate]] it into their fractal of [[SpaceTime]], but the true Masters understand that it is simply the [[Way]], localized and adapted to their Embodiment, Resources, Space, and Time in a [[Way]] that can be explained and transmitted to others. It is only the later generations who forget the Spirit and the Way, and instead cling to the [[Name]] and imitate the Master, instead of becoming a Master them Selves and allowing the Way to flow through them. A few generations later, children are shaped and taught to [[Embody And Enact]] forms and dogma, rather than experientially rediscovering the [[Spirit]] of the [[Way]] along their own [[Path]] towards [[Mastery]]. If the Founders of many Arts walked into the [[Place of Practice|Places of Practice]] bearing their names, they would be aghast. 
 
-Through this process, one of the most profound learnings that I discovered was the Art and Science of [[Transformational Experiences]]. There are certain classes of things that simply cannot be known, or even really conceived of, until you are on the other side of a Transformational Experience that reveals it to you. 
+This is a story about the Institutionalization and distortion of the Way of martial arts, however the parallels to governance, religion, culture, and society exquisitely illuminate the issue. 
 
-Before he died, he placed the mantle of his experience and legacy of thousands of years of accumulated knowledge on my shoulders, and asked me to become Keeper of the Way. However in the Realm beyond dogmatic hierarchy and authority, we come to understand that we are All Keepers of the Way. We are all the High Priests and Kings. And so, all that has been laid upon me, I freely offer to you. If you would like to join me, I have some very interesting and deep Knowledge to share that might prove helpful to surviving the coming battles. 
+Over the last 5 years before his death, we spent countless hours together, attempting to articulate, in English, a return to the core essence and timeless Wisdom of the Way. Beyond form. Beyond technique. Beyond dogma. Only pure, spontaneous, right action. Like a Spirit flowing through your [[Embodiment]] into [[Reality]]. 
+
+Through this process, one of the most profound learnings that I discovered was the Art and Science of [[Transformational Experiences]]. There are certain classes of things that simply cannot be known, or even really conceived of, until you are on the other side of a Transformational Experience that reveals it to you. There are some things that you cannot Know until you Become them, and experience what it is like to Embody them. 
+
+Before he died, he placed the mantle of his experience and legacy of thousands of years of accumulated knowledge on my shoulders, and asked me to become Keeper of the Way. However in the Realm beyond dogmatic hierarchy and authority, we come to understand that we are All Keepers of the Way. We are all the High Priests and Kings. And so, all that has been laid upon me, I freely offer to you if it of [[Value]]. If you would like to join me, I have some very interesting and deep Knowledge to share that might prove useful in surviving the coming battles. 
 
 However I have to warn you. It is a Way of Transformational Experiences that cannot be conceived of or explained in advance. You will only be able to know that "it is working" as a consequence of Who We Are Becoming as we Practice the Way. 
 
@@ -655,31 +671,39 @@ In bold letters near the top of the final certificate he passed to me along with
 
 After 15 years of studying martial arts in a Way that very few will ever experience, I finally began to sense I had a vague understanding of Malevolence, and how to face down the Darkness. 
 
-As much as we hate to admit it, their are vicious monsters at the gates, licking their lips and salivating as they wait for the walls of Society to finish crumbling. While we sleep, they are awake, coordinating, and planning. 
+As much as we hate to admit it, their are vicious monsters at the gates, licking their lips, salivating, and prodding for weaknesses in the Order as they wait for the walls of Society to finish crumbling. While we sleep, they are awake, coordinating, and planning. 
 
 The War is already raging in the Metaphysical Realm, and starting to spill over onto the Earth. Are you and your family prepared? We are going to have to fight this battle together. 
 
 ### Using Creative Energy to Heal and Destroy 
 
-The deeper I got into advanced Martial Arts training, the more I came to understand how relatively worthless any form expressed through physical strength is. 
+The deeper I got into advanced Martial Arts training, the more I came to understand how relatively worthless any form expressed through physical strength is. Because [[SpaceTime]] is an illusion. 
 
-The Art and Science I was really learning was how to cultivate in my physical Embodiment the Creative Energy of the Universe, and channel it to Protect and Destroy when required. There is no comparison in attempting to strike someone with your body, versus striking them with the energy of the Earth and Universe Beyond. 
+The Art and Science I was really learning was how to cultivate in my physical Embodiment the Creative Energy of the Universe, and channel it to Protect and Destroy when required. There is no comparison in attempting to strike someone with your body, versus utilizing the Creative Energy of the Earth and Universe Beyond to strike someone *through* your [[Embodiment]]. 
 
-It was along this Path that another archetypical teacher entered my life with a series of excruciatingly painful lessons that purged more of the dross out of me. 
+It was along this Path that another archetypical teacher entered my life with a series of excruciatingly painful lessons that purged more of the [[Dross]] out of me. 
 
 My introduction to the Martial Arts of the East led me deep into the study of Energy cultivation and transmission, and my study of Energy led to beginning to Understand the use of Energy not only to Destroy, but also to Heal and Co-Create.
 
 For years, as I was engaged in the weekly Practice of cultivating and transmitting Energy to Destroy, I was also laying on the table of a supremely gifted Chinese-Korean woman who had gently mastered the Art and Science of using the Energy of the Universe to Heal. 
 
-I learned that we do not need to fear cancer. We do not need to fear sickness. We do not need to fear heart attack. We do not need to fear death. Well beyond 90% of our suffering we inflict upon our selves, and can Heal One Another of without the use of Western Medicine. 
+I learned that we do not need to fear cancer. We do not need to fear sickness. We do not need to fear heart attack. We do not need to fear death. Well beyond 90% of our suffering we inflict upon our selves, and we can Heal One Another of without the use of Western Medicine. 
 
-90% of our Western [[Medical Industrial Complex]] is [[Waste]]. 
+90% of our Suffering, and the Western [[Medical Industrial Complex]], is [[Waste]]. 
 
-Unfortunately after 33 years of not understanding Energy and polluting my body, even with the reasonably healthy lifestyle I lived, it was an excruciating process to layer by layer, darkness by darkness, purge the corners of cold energy out of my body. 
+Unfortunately after decades of not understanding Energy and polluting my Embodiment with the toxic food, drink and chemicals of [[The Caves]], even with the reasonably healthy lifestyle I lived, it was an excruciating process to layer by layer, dross by dross, impurity by impurity, progressively purge the dark corners of cold energy out of my body. 
 
-After about 5 years of regular work and suffering on the table, questing and learning and writhing in pain through so many experiences, while working martially to cultivate energy, it became difficult for my healer to work on me, as the Energy my Embodiment was composed of was gradually Transformed. 
+After about 5 years of regular work and suffering on the table, questing and learning and writhing in pain through so many experiences, while working martially to cultivate energy, it became more difficult for my healer to work on me, as the Energy my Embodiment was composed of was gradually Transformed. 
 
-I wish I could tell you what I experienced, and Who I Became as a result of all this, but it is all a pathway of [[Transformational Experiences]] that cannot be Known unless the Path is walked. 
+I wish I could tell you what I experienced, and Who I Became as a result of all this, but it is all a pathway of [[Transformational Experiences]] that cannot be Known unless the Path is walked. There is no Way someone could have explained the Way to me in advance. 
+
+When one are unconscious in [[The Matrix]] of [[The Caves]], the experience of true [[Freedom]], [[Light]], [[Liberty]], and [[Love]] in an alternative [[Reality]] cannot be conceived of. I trust that many who are destined to hold this text will Understand, and hopefully have Progressed farther along the Way than I have. It will be a true joy and honor to humbly share Knowledge and learn from One Another, and to [[Help One Another]] Progress Beyond. 
+
+### Coaching and Mentoring 
+
+Along the [[Way]] I was blessed with some of the best coaching, mentoring, and peer support available. For most of the last 5 or 6 years of my life in the Old World, I had world class personal weekly coaching, was blessed to meet for a full day each month with a high performing peer group of 20 other CEOs to identify, discuss, and solve our most pressing issues, and had a variety of mentors take time to help guide my [[Path]]. 
+
+As we Venture together towards the [[New World]], let us work together to ensure that every individual is blessed with such a gift of coaching and mentorship. 
 
 ### The Shaping of a Unique Lens
 
@@ -697,13 +721,11 @@ I was transformed by 5 years of deep painful energetic purging and healing.
 
 I was transformed by experiencing the power of creation and destruction simultaneously, week by week, in my own body and on the domains I was transforming. 
 
-I was transformed by 30 years of seeking and assimilating Wisdom and Knowledge as rapidly as I could with a specific view towards the Meta Crisis and Spiritual War that define our era. 
+I was transformed by 30 years of seeking and assimilating Wisdom and Knowledge as rapidly as I could with a specific view towards assembling the Force For Good to confront and overcome the Meta Crisis and Spiritual War that define our era. 
 
 I was transformed by education in the best schools of the West. 
 
 I was transformed by education in the deep arts of the East. 
-
-I was transformed by walking with indigenous elders around the world. 
 
 I was transformed by being united with a deeply spiritual and sensitive woman from the time I was 14. 
 
@@ -713,17 +735,19 @@ I was transformed by personal encounters with an array of archetypical figures, 
 
 I was transformed by being entrusted with carefully guarded ancient and modern Knowledge. 
 
-I was transformed by being invited into the hearts and homes of indigenous communities and tribes in the Americas, Europe, Africa, and Asia. 
+I was transformed by being invited into the hearts and lives of indigenous individuals, communities and tribes in the Americas, Europe, Africa, and Asia. 
 
-I was also transformed by being betrayed and left for dead by those who Society had always assured me were there to aid and protect me, a story which I will briefly relate next. 
+I was transformed by the vivid dichotomy of living through times of both tremendous unearned wealth, privilege, and favor, and times of suffering, injustice, and ostracization. 
+
+I was transformed by being betrayed and left for dead by those who Society had always assured me were there to aid and protect me. 
 
 I was transformed by the journey through the absolute Underworld that followed. 
 
-I was transformed by fighting Hell and not allowing it swallow me on the many, many days and nights of terror where death beckoned as the sweetest and most merciful release. 
+I was transformed by fighting through the Underworld and not allowing it swallow me or my family on the many, many days and nights of terror where death beckoned as the sweetest and most merciful release. 
 
-And I was transformed by the process of having to experientially discover how to reemerge from the Depths with clarity, conviction, and the willingness to sacrifice it all again, in service of One and All, without bitterness, resentment, or envy, our of Love and Compassion for All Creation. 
+And I was transformed by the process of having to experientially discover how to reemerge from the Depths with clarity, conviction, and the willingness to suffer and sacrifice it all again, in service of One and All, without bitterness, resentment, or envy, out of Love and Compassion for All Creation. 
 
-And so I ask that if I share a Perspective that seems foreign to you, please stop and listen and discern. Maybe there is something in it of [[Value]]. And I commit to honor and do the same with you. 
+And so I ask that if I share a Perspective that seems foreign to you, please stop and listen and discern. Maybe there is something in it of [[Value]], that may be useful or even crucial to our Survival and Success. And I commit to honor and do the same with you, for I know that [[The Spirit]] that creates and sustains the Universe is living within you. 
 
 ### Pain, Suffering, and Betrayal
 
@@ -731,49 +755,53 @@ I came to Understand some very interesting things about Pain, Suffering, and Bet
 
 It helped me flesh out a Deeper theory of pain, suffering, evil and malevolence than I had previously been forced to conceptualize. 
 
+I often am reluctant to talk about Our Story and Our Suffering, because I know that for many around the world living in the various forms of the Hell we have created for one another, Our Story of suffering, loss, and betrayal may not even qualify as a minor footnote in The Story compared to the magnitude of pain they have lived through, or died under. Today, we are still here. We are still alive. We are still free to write and publish this. We still have food, water, and shelter. Our powerful global network of allies has grown even stronger. I understand that many others are still withering in prison or other forms of captivity. I understand that many others are still enslaved. I understand that many others are still starving. I understand that many others are still displaced. I understand that many others are still alone. I understand that many others are still hopeless. I understand that many others are still in the Underworld. I understand that many others are still being violated and betrayed in far more profound and shattering ways. And I understand that as a formerly wealthy white male growing up in The Bubble, my battles with Malevolence may seem laughably small in comparison to my friends around the world whose families have dispossessed, ostracized, and oppressed for generations. 
+
+So as I share what I have learned about Suffering, I am sharing from and on behalf of the Deep Collective, and not my perceived individuality.  
+
 There are levels of pain and suffering. 
 
-Pain and suffering hurts. 
+Pain and suffering hurts. It is a common experience of Reality that binds us All together. 
 
 Pain and suffering hurts, even when it can be ascribed to the randomness of Reality. 
 
-Knowing what causes pain and suffering in us and therefore other sentient beings, pain and suffering becomes [[Worse]] when it is consciously inflicted. 
+Knowing what causes pain and suffering in us and therefore other sentient beings, pain and suffering is [[Worse]] when it is consciously inflicted, than if it is accidental or random. 
 
 Consciously inflicted pain and suffering becomes even worse when it is inflicted by those in relative positions of power, upon those in relative positions of weakness. 
 
-Consciously inflicted pain and suffering inflicted by those in relative positions of power upon those in relative positions of weakness becomes even worse if it is inflicted by those in positions of Trust, who are supposed to be there to aid, help, and not harm you. Such as parents, religious leaders, or government officials. 
+Consciously inflicted pain and suffering inflicted by those in relative positions of power upon those in relative positions of weakness becomes even worse if it is inflicted by those in positions of Trust, who are supposed to be there to aid, help, and not harm you, such as parents, teachers, peace officers, religious leaders, or government officials. 
 
 Consciously inflicted pain and suffering, inflicted by those in positions of relative power, who were supposed to aid, help, and not harm you is even worse if as you are suffering it, you are blamed or abandoned by friends, family, or loved ones. Such as in the story of Job, or Jesus. 
 
 Consciously inflicted pain and suffering, accompanied by disparate power, betrayal, blame, slander, and abandonment, is even worse in proportion to the innocence of the one suffering. 
 
-Through my own experience, I came to understand the Stories of Jesus and Job in such a deeper and more profound Way. 
+The stories of Jesus and Job resonate through the ages because they are [[Limit Stories]]. They are stories of worst possible suffering imaginable, consciously inflicted by overwhelming power on the most innocent possible person, who is also slandered, betrayed, blamed and abandoned by their loved ones in the midst of their suffering. 
 
-They anchor the Old and New Testament writings with archetypical conceptions of the worst possible suffering, brought upon by betrayal the most innocent person who least deserved that level of suffering, who are then subsequently blamed, ostracized, and abandoned by their loved ones and society in their suffering. 
+In such a state, one seemingly would have every reason and right to shake their fist at the Heavens and curse God. And yet we are challenged by the archetypical stories to discover how to retain our Hope and Faith in the essential Goodness of God and Being, and to remain Faithful and Hopeful even when our world seems Faithless and Hopeless. 
 
-I am in no way comparing Our Story to the Stories of Jesus or Job. Unlike them, I am guilty in shades of every vice and sin, and can gaze back across a stunning array of naive mistakes, traps, and pitfalls that I obviously in retrospect could have avoided in light of what I have now come to be and know. 
-
-I am simply relating the psychology of suffering and betrayal that I experientially came to understand, step by step. I hope Our Story, and the insights and perspective gleaned from it, is useful and healing to others who are trying to make sense of the chaos, suffering, and evil they are enveloped by. I Understand that so many are suffering in ways so much worse than I have. I love you, and I am so sorry for your pain. 
+Following is The Story of how I experientially came to understand this, step by step. I hope Our Story, and the insights and perspective gleaned from it, is useful and healing to others who are trying to make sense of the chaos, suffering, and evil they are enveloped by. I Understand that so many are suffering in ways so much worse than we have. I love you, and I am so sorry for your pain. 
 
 ### Betrayal By The Religious and Political Elite 
 
-My dad being a minister and helping lead the local Pastor's Fellowship, my wife and I moved freely through the local churches, worshipping and learning with different congregations. 
+My [[Earthly Father]] being a minister and helping lead the local Pastor's Fellowship, my wife and I moved freely through the local churches, worshipping and learning with different congregations. 
 
-One of the wealthiest churches in the area sat on a prominent hill overlooking some of the most expensive real estate and resorts in the world. My wife's family felt called to work in ministry near the time we met, and ended up working full time at South Shores Church in Dana Point, California for many years. Despite some reg flags, Caity's parents were employed there, and we attended and contributed regularly for 20 years, leading worship to help revive the youth group during our high school years, and going on numerous service trips with church leadership. As I got older and wealthier, I was invited by the church leaders to golfing, drinking, tennis, poker playing, reserved seats at the front of the men's breakfasts, and all sort of other favor-cultivating social perks. I was later told by one of them that God had provided instruction to mentor me. I was told I was like a son. I was invited to explore business and investment opportunities. 
+One of the wealthiest churches in the area sat on a prominent hill overlooking some of the most expensive real estate and resorts in the world. My wife's family felt called to work in ministry near the time we met, and ended up working full time at South Shores Church in Dana Point, California for many years. Despite some reg flags, Caity's parents were employed there, and we attended and contributed regularly for 20 years, leading worship to help revive the youth group during our high school years, and going on numerous service trips with church leadership. As I got older and wealthier, I was invited by the church leaders into their inner-circle-country-club of golfing, drinking, tennis, poker playing, reserved seats at the front of the men's breakfasts, and all sort of other favor-cultivating social perks. I was later told by one of them that God had provided instruction to mentor me. I was told I was like a son. I was invited to explore business and investment opportunities, and introduced to the right people. 
 
-As time progressed, the church was contemplating a master plan for the campus and ~$30 to $40 Million grand building project. Because of my expertise in geotechnical remediation, I was asked to get involved. I brought industry resources to bear, and we redesigned and value-engineered the landslide remediation, shaving millions of dollars of cost off the project. I was asked to help push back on the overly ambitious plans the senior pastor had in mind, and we ended up redesigning and scaling back the project to a somewhat more reasonable scope. 
+As time progressed, the church was contemplating a master plan for the campus and a ~$30 to $40 Million grand building project. As a resident builder in the church with particular expertise in geotechnical remediation, I was asked to get involved. I brought industry resources to bear, and we redesigned and value-engineered the landslide remediation, shaving millions of dollars of cost off the project. I was asked by elders to help push back on the overly ambitious plans the senior pastor had in mind, and we ended up redesigning and scaling back the project to a somewhat more reasonable scope. 
 
-Along the Way, my wife's grandfather and others who had anchored the building team and selected the design-builder passed away or retired, and a new guard took over. The design builder they had retained, who had successfully completed hundreds of church project over previous decades purely through word of mouth, grew so frustrated with the new committee and leadership that he was preparing to shut down his company, retire, and walk away from the project. 
+Along the Way, my wife's grandfather and others who had anchored the building committee and selected the design-builder passed away or retired, and a new guard took over. The design-builder, who had successfully completed hundreds of church project over previous decades purely through word of mouth and was now 70 years old, grew so frustrated with the new committee and leadership that he was preparing to shut down his company, retire, and walk away from the project. 
 
-One day the builder called me, conveyed his respect for me and my work, told me about the issues with the church and his plans to retire and close it down, and suggested that he would make it easy for me to buy his company and build the job for the church. 
+One day the builder called me, conveyed his respect for me and my work, told me about the issues with church leadership and his plans to retire and close it down, and suggested that he would make it easy for me to buy his company and build the job for the church. 
 
 Recognizing that the church was on the brink of a setback that would cost the congregation multiple years and millions of dollars to redesign the project, and needing to learn, I was impelled to say yes. 
 
-What followed the most toxic, ungoldly project environment I have ever been a part of. A little financial pressure, a little political fear, and the church leadership revealed its true colors, and as they did, more and more families spoke up about their own experiences, confirming a long pattern of deceit, abuse, and threats to silence dissenters. 
+What followed the most toxic, ungoldly project environment I have ever been a part of. A little financial pressure, a little political fear, and the church leadership revealed its true colors. As they did, more and more families spoke up about their own experiences, confirming a long pattern of deceit, abuse, and threats to silence dissenters. 
 
-By the time I was being coerced by the leaders into questionable financial arrangements to intentionally conceal things from the congregation in order to protect the leaders positions and power, I started reaching out to other elders and current and former staff for insight and assistance. The warnings I received from multiple people who would know were things like "be careful Jordan, you may not know what you are dealing with. I have come to the conclusion that these guys are evil..." and "I would have absolutely no hesitation to take these guys to court. Don't be confused and think you are dealing with a church or a spiritual organization. You are dealing with a corrupt business..." etc. 
+By the time I was being coerced by the leaders into questionable financial arrangements to intentionally conceal things from the congregation in order to protect the positions and power of the leaders, I started reaching out to other elders and current and former staff for insight and assistance. The warnings I received from multiple people with personal experience were things like "be careful Jordan, you may not know what you are dealing with. I have come to the conclusion that these guys are evil..." and "I would have absolutely no hesitation to take these guys to court. Don't be confused and think you are dealing with a church or a spiritual organization. You are dealing with a corrupt family business..." etc. 
 
-A little while later, now caught in the financial stranglehold they immorally and illegally devised, I had the senior pastor visit me at my house, and sit down in my backyard. After a long conversation in which I reiterated how much damage they were causing, how many families they were harming, and the profound injustice of the course of dealings, the simple remedies, and my basic request for relief, he asked me the strangest question I have ever heard. My best recollection is: 
+By the time I realized I was dealing with wolves in sheep's clothing were actively betraying Spirit, Truth, and Justice and taking advantage of the innocent and unaware for their own positions and power, it was too late. 
+
+Now caught in the financial stranglehold they immorally and illegally devised to deceive the congregation, I had the senior pastor visit me at my house, and sit down in my backyard. After a long conversation in which I reiterated how much damage they were causing, how many families they were harming, and the profound injustice of the course of dealings, the simple remedies, and my basic request for relief, he asked me the strangest question I have ever heard. My best recollection is: 
 
 _"Jordan, when Jesus stood before Pontius Pilate, do you think he was treated fairly?"_
 
