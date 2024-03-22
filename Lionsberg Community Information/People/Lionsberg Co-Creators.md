@@ -106,10 +106,11 @@ Cycle Completed March 7, 2024
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Estelle Kabithi  
 	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
+- 20. Stuart Levine 
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Jerry Michalski 
+- 21. 
 
-## Rounding Out Cycle 6: 
-
-- Invitations extended to several on the list below. 
 ## Cycle 7 Invitations: Expansion Out to 34 Co-Creators 
 
 - Acceptance rate was 80% + in first 6 cycles 
