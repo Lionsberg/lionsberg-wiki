@@ -838,103 +838,175 @@ We have some deep, deep institutional cleansing to do. I am afraid the infestati
 *"...and they love the place of honor at banquets, and the seats of honor in the synagogues, and personal greetings in the marketplaces, and being called Rabbi by the people. But as for you, do not be called Rabbi; for only One is your Teacher... But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven in front of people; for you do not enter it yourselves, nor do you allow those who are entering to go in."*
 ### Part II: The CEO of the Largest County in the Great Empire 
 
-As The Story goes, as the self-proclaimed religious elite gnashed their teeth, threatened, and tried to strangle us into silence, it was ultimately the Chief Executive of the largest County in the Great Empire of America, who I had aided into his position, who personally delivered the final blow. 
+As The Story goes, as the self-proclaimed religious elite gnashed their teeth, threatened, and tried to strangle us into silence, it was ultimately the Chief Executive of the largest County in the Greatest Empire of History who personally ordered the final blow and liberated us from our Old Life. 
 
-Early in the history of our young company, I found myself in the extraordinary position of being entrusted with a first-of-its-kind project to stabilize an existing dam in the mountains of California whose potential failure threatened the communities below. The project was unique in that it was a relatively high risk operation to attempt the stabilization while the water was still in the reservoir. 
+Early in the history of our young company, I found myself in the extraordinary position of being entrusted with a project to stabilize an existing dam in the mountains of California whose potential failure threatened the communities below and above. The project was unique in that it was a relatively high risk and technical operation to attempt the stabilization while the water was still in the reservoir. This was the first attempt of its kind, bringing a high level of local and State scrutiny. 
 
-Details aside, as our team got into the project we discovered some significant flaws in the County's pre-construction work that put the project at risk. It was election season, and in a very unusual turn of events, the County Chief Operating Officer was assigned personal responsibility for its successful resolution. He in turn reached out to me personally, acknowledging the deep problems and corruption in the County bureaucracy, outlining the changes he was going to be making, and requesting my personal support to work with him to solve the problems. Since I had a President and executive staff running the company, it was quite unusual for a public official in his position to go over the head of my staff, and instruct me to ignore his staff, which he said would be changing, and collaborate to solve the issues. 
+Technical details aside, as our team got into the project we discovered some significant flaws in the County's pre-construction work that put the project at risk. It was election season, and in a very unusual turn of events, the County Chief Operating Officer was assigned personal responsibility for its successful resolution. He in turn reached out to me personally, acknowledging the deep problems and corruption in the County bureaucracy, outlining the changes he was going to be making, and requesting my personal support to work with him to solve the problems. Since I had a President and executive staff running the company, it was quite unusual for a public official in his position to go over the head of my staff, and instruct me to ignore his staff, which he said would be changing, in order to collaborate to solve the issues. I had heard that he sometimes held himself out as a pastor or Christian leader of some kind, and he claimed he was cleaning up the issues and fighting corruption, and so I decided to trust him. 
 
-It is not up to me to say whether we succeeded, but the outcome was that he was promoted to CEO, and the powers that be were impressed enough that we received formal recognition from the County board of supervisors, the California State Assembly, and the California State Legislature. 
+It is not up to me to say whether we succeeded, but the outcome was that he was promoted to CEO, the County Supervisor was reelected, the community was happy, and the powers that be were impressed enough that we stood together, spoke together, prayed together, and received formal recognition from the County board of supervisors, the California State Assembly, and the California State Legislature in a ceremony on top of the dam to mark its completion. 
 
-What I was naively unaware of at the time was that this County was one of the most notoriously corrupt in the Empire, and that by cooperating at the highest executive levels in service of the public good, we had shown Light into the Darkness and created enemies within the Deep Bureaucracy. 
+What I was naively unaware of at the time was that this County was one of the most notoriously corrupt in the Empire. In my class on pledging allegiance to the flag and swallowing national propaganda, they had forgotten to inform me that our government was abjectly corrupted throughout, from local levels all the way up to the [[Invisible Power Structures]] puppeting the [[Visible Power Structures]] and colluding at the highest imaginable levels. By cooperating at the highest executive levels in service of the public good, we had shown Light into the Darkness and created enemies within the layers of Deep Bureaucracy below. It turns out that forces of Darkness hiding below are not fond of the Light. 
 
-Unaware, encouraged by the success, and now having great relationships at the highest levels, we bid on and won the next local reservoir project. 
+Unaware of our hidden self-proclaimed adversaries, encouraged by the success, and now having great what appeared to be extraordinary relationships at the highest levels, we bid on and won the next local reservoir project. 
 
 Upon the arrival of the triumphant team from the first project onto the second, we were informed by County agents that it would be our last project, and that we would never work in the industry again. 
 
-They fulfilled their promise. 
+After a long and torturous course of events, they eventually fulfilled their promise. 
 
-Our people were threatened. Our work was obstructed. Evidence was fabricated. Scientific information manipulated. Losses snowballed, and the company slowly began to bleed out. In what advisors later concluded was likely an attempt to entrap and imprison, bribes were solicited on multiple occasions, even in writing. 
+Our people were threatened. Our work was obstructed. Evidence was fabricated. Scientific data manipulated and concealed. Losses snowballed, and the company slowly began to bleed out. In what advisors later concluded was likely an attempt to entrap and imprison, bribes were solicited multiple times, with County staff inquiring how big my pocket book was as the pressure was ratcheted up. 
 
 I naively anticipated that the now CEO would of course come to our aid and set things right. 
 
-Numerous meetings. The torture continued, and we continued to financially bleed out. 
+Numerous meetings. The torture continued, and we continued to financially bleed out, now under the full personal knowledge and oversight of the CEO and COO of the County. 
 
-We retained an ex Federal Judge who had recently won a separate judgment of tens of millions of dollars for another local developer who ended up on the wrong side of the bureaucracy, and in jail on false charges. 
+We eventually located and retained an ex Federal Judge who was an expert in corruption and civil rights, and had recently won a separate judgment of tens of millions of dollars for another local developer who ended up on the wrong side of the same bureaucracy, and in jail on false charges. 
 
-As we bled out, we sold our home and liquidated all our investments, and poured everything into attempting to stay alive long enough to articulate the claims and save as many jobs of our co-workers as we could. Surely the County Chief Executive would not let them take us out. 
+As we bled out financially, we sold our home and liquidated all our investments, and poured everything into attempting to stay alive long enough to articulate the claims and save as many jobs of our co-workers as we could. Surely the County Chief would save us. 
 
-County agents publicly slandered and taunted us for our lack of performance as we struggled for air. 
+It was Enlightening to experience County agents publicly slandering and taunting us for our lack of performance as they stood on our neck and we struggled for air. 
 
-After hundreds of thousands of dollars in legal fees to prepare the case, we finally formally presented the claims, any form of relief as the corruption, obstruction, and bribery claims were mediated. 
+After hundreds of thousands of dollars in legal fees to prepare the case on top of millions of dollars of devastating losses, we finally formally presented the claims, seeking any small form of relief as the corruption, obstruction, and bribery claims were mediated. 
 
 We waited. 
 
-Despite the knowledge of the entire course of events at the highest levels of the County, all we received was a short letter denying all responsibility and rejecting the claims 100%. No discussion. No negotiation. I had never experienced anything like it in my career. 
+Despite the personal knowledge of the entire course of events at the highest levels of the County, all we received was a short letter denying all responsibility and rejecting the claims 100%. No discussion. No negotiation. No offer to meet and confer. 
 
-In a state of disbelief, we scrambled looking for any kind of avenue to survival as we continued to bleed out week by week with millions and millions of dollars of intentionally inflicted damages sucking the last of the life out of the company. 
+I had never experienced anything like it in my career. I couldn't believe it was happening. They were actually going to take us out, with full personal knowledge and consent at the highest levels. 
 
-When we finally reached the end of our resources, we advised our clients of what was happening, and implemented and emergency furlough of the workforce to coincide with emergency negotiations with the CEO, COO, and Council for the County. 
+In a state of disbelief, we scrambled looking for any kind of avenue to survival as we continued to bleed out week by week as the consciously inflicted damages drained the last of the life out of our young company. 
 
-Some people believe I am a reasonably gifted strategist. I laid out in great detail for the County an array of creative proposals, any of which would have been adequate to resurrect the dying company. 
+As we neared the end of our resources, we advised our clients of what was happening, and implemented an emergency furlough of the workforce across all projects to coincide with emergency negotiations with the CEO, COO, and Council for the County. 
 
-I also was impelled to do something very strange. I explained in detail to the County team the details of our structure, the way the bonds and personal guarantees worked, and described precisely how, if they were actually trying to take us out in the worst and most comprehensive manner, they could go about doing that. Along side the several viable options to get out of the situation, I wanted to make sure that they understood precisely how to destroy us entirely. 
+Some people believe I am a reasonably gifted strategist. I laid out in great detail for the County an array of creative proposals and alternatives, any of which would have been adequate to resurrect the dying company. 
+
+All we needed was compensation for ten or twenty percent of the damages while we responsibly mediated the rest, and the harm to hundreds of local families and dozens of local businesses could have bee avoided. 
+
+I also was impelled to do something very strange. I explained in detail to the executives of the County the details of our structure, the way the bonds and personal guarantees worked, the corporate and personal financial states, and described precisely how, if they were actually trying to take us out in the worst and most comprehensive manner, they could go about doing that in the effective and complete way possible. Along side the several viable options to get out of the situation, I wanted to make sure that they understood precisely how to destroy us entirely. 
 
 Multiple meetings unfolded, and then silence. 
 
 We got a phone call from the CEO explaining how difficult the political situation was. 
 
-The former Federal Judge explained to me the impossible position of the executive team trying to explain to the County Supervisors why I was owed $10+ Million in damages, and why that shouldn't cost them their jobs. 
+In our last meeting with the CEO, I handed him a short personal letter and plea, again laying out the position we were in, appealing to his personal sense of integrity, and his representations that he was there to do the hard work of solving the problems in the County and cleaning up the corruption. I told him that I was also called to the battle field against corruption and injustice, and I sure hoped we were on the same side. It was the kind of letter I hoped he would have to read and agonize over a bit with his wife if he had any kind of conscience. 
 
-The call explaining the political difficulties was the last I heard before we received a short letter, exactly executing the plan I had laid out to destroy us in the most complete manner possible. 
+The former Federal Judge representing us explained to me the impossible position of the executive team trying to explain to the County Supervisors why I was owed millions of dollars in damages due to the illegal actions of the County staff they supervised, and simultaneously trying to explain why that shouldn't cost them their jobs. 
 
-That day, the multiple projects we had going all went silent, the 100+ remaining families we were working alongside lost their livelihoods, the dozens of local companies engaged in our projects all had their payments thrown into a legal and insurance process, causing massive waves of rippling damage. 
+The call explaining the political difficulties was the last I heard from the County CEO. 
+
+Shortly thereafter, we received a short one page letter, precisely executing the plan I had laid out for them to destroy our Old Life in the most complete manner possible. 
+
+That day, the faint gasps from the life and world we thought we were living in ceased, the projects we had going all went silent, the hundreds of local families engaged in our projects had their livelihoods and finances thrown into a multi-year legal and insurance catastrophe, and the waves of damage began rippling out from the scene of the crime. 
 
 The slanderous and defaming story that went out was that we had failed to adequately perform, and had been Terminated For Cause. With a massive legal cleanup involving $10s of Millions of dollars of claims and counter claims among dozens of parties now on our hands, resolvable only through the Federal Courts, we couldn't publicly defend our selves as the rumors spread. Decades of effort to take on as much responsibility as we could to learn how to build the infrastructure that society needed to flourish, the home we created, the company we created, the industry relationships we created, the reputation we created... 
 
-...our Old Life closed its eyes, and faded into the Darkness that consciously sought its Demise. 
+...our Old Life closed its eyes, and was swallowed up by the Darkness that consciously sought its Demise. 
 
 ### Recourse, and Structures of Justice 
 
-We discovered that there was indeed recourse available to us via the Federal Courts. However we learned that standing up the government in federal court would likely require 3 to 5 years, and 3 to 5 million dollars. 
+Even as the crime unfolded, I retained hope that one way or another, in this great nation, Justice would be available. 
 
-So Justice was only available to the 1/100th of 1% of richest people in the richest country in the world, who, after having the power structures of society try to destroy them, still somehow had the luxury of 3 to 5 years, and 3 to 5 million dollars remaining to get to where a decision could even be rendered. So much for a swift and public trial. We discovered that 99.9% of Citizens can simply be taken out in the Darkness. 
+I began to learn more about corruption, civil rights, and Right Relationship between Citizens and Government. 
+
+We discovered that there was indeed potential recourse available to us via the United States Federal Court System, where Civil Rights issues are litigated. 
+
+However there was a problem. 
+
+The former Federal Judge representing us informed us that in his experience, it would take another $3 Million to $5 Million and 3 to 5 years to get to a judgment (beyond the year + and hundreds of thousands of dollars in legal fees already spent), and that unless we could demonstrate we had that financial capacity, he could not in good conscience represent us.
+
+He also told us that the government had virtually unlimited resources and loopholes to defend itself and endlessly appeal, so even after $3M to $5M in legal fees a just ruling, or the ability to collect, was far from certain. 
+
+I researched legal aid organizations, and discovered that whereas there were large pools of money on the Left and Right to pursue politically charged cases for political purposes, there was a gap in the financing market for every day Citizens deprived of their Civil Rights by corrupt government forces. 
+
+Whereas the intention of the United States Constitution is to protect Citizens from the Power of Government by ensuring Due Process and the right to a speedy and public trial, the Reality in the American Empire of 2022 was that the Deep Bureaucracy could simply choose to take a Citizen out in the Darkness, and Justice and Protection was only available to the richest 1/10th or 1/100th of 1% of Americans. 
 
 Under such a structure, who can possibly stand? Was not the entire purpose of our Constitution to ensure that no Citizen could ever again end up in a position like this? Hadn't we already learned The Lesson of this Story before? 
 
-The pathway to justice with the Church... was strangely even worse. I allowed the church to choose a mediator, who guided me through a process of "submitting to Scripture", searching my heart before God for all I had done wrong, because we all sin and all short of the Glory of God, and then crafting an apology / confession of sins in a specified form. They claimed they were having the church leaders do the same. When the day of mediation arrived, I was asked to read my confession first. In good faith, I did. The next hour or two was spent with the religious leaders raking me over the coals, with the strangely stone cold religious elite tearing at my confession like hyenas over a fresh kill, informing me of the different and deeper ways in which I should have confessed and repented to them. It was so dysfunctional that the mediator called it off mid way through, and I never got to hear the confessions the false leaders may or may not have written. 
+This struck me a unacceptable. The flag of an abjectly corrupted Empire where the Deep Bureaucracy could exercise Force to destroy the lives of 99.99% of Citizens with impunity was not the one I had been taught to pledge allegiance to. 
+
+The pathway to justice with the Church... was very strangely even worse, because the sham trial was conducted in the name of God. 
+
+Like I did with the the County, I followed a path of deep curiosity with the Church, choosing not to protect myself and allowing the religious leaders to call the shots so I could experience what would happen if I simply followed their process. 
+
+We had signed a binding mediation and arbitration agreement, so I asked to begin the process. 
+
+I got a message from one of the elders saying they had identified a mediator. I chose to not research who the mediator was, and trust the process. 
+
+I was instructed to pay money to the mediator, who then led me through a process of "submitting to Scripture" (reading a long sampling of scriptures about how guilty we all are), searching my heart before God for all I had done wrong, because we all sin and all short of the Glory of God, and then *crafting an apology / confession of my sins in a specific format*. They claimed they were having the church leaders do the same. I went along with it, and did my best to search my heart, discover its next layers of impurities, and write *the confession to the religious leaders of my sins against them* in the format their chosen mediator instructed me. 
+
+When the day of mediation arrived, I was asked to read my confession first. 
+
+It was Enlightening and expanding to experience what it felt like to be fraudulently induced into a financial stranglehold by false religious leaders, threatened and instructed by them to suffer in silence like Jesus before Pontius Pilate if I wanted their mercy and relief, and then brought in front a mediator of their choosing *to confess my sins against them*.  
+
+I followed the instructions, and read my confession. The next hour or two was spent with the strangely stone cold religious elite tearing at my confession like hyenas over a fresh kill, while informing me of the different and deeper ways in which I should have confessed and repented to them. 
+
+I asked for a break, and cried. It was one of the most profoundly disturbing experiences of my life. The tears were not my own, they were the tears of the collective over the centuries of abuse that God's children have suffered in God's name at the hands of the self-proclaimed religious leaders. 
+
+My experience does not come close to the stories my indigenous friends have told me of their family members who were kidnapped from their tribes, beaten for speaking their language, stripped of their hair and clothes, and placed in cages by pastors and priests backed by the Force of the American Empire, and claiming to operate in service of God. 
+
+The mediation was so dysfunctional that the mediator called it off mid way through, and I never got to hear the confessions of the pharisees.  
+
+For the first 30 some years of my life, I was complicit in participating in, supporting, and adding energy to the the abjectly corrupt structures of Institutionalized Church and State that have destroyed so many lives in the name of God and Country. As such, share in the guilt for every crime they committed against me and all God's children around the world. 
+
+I am truly, deeply, sorry. 
 
 ### Our Relationship to Structures of Injustice 
 
-During those countless dark and hellish sleepless nights, I was forced to grapple with many strange foes. 
+During the countless dark, hellish, and sleepless nights I endured as the Old World crumbled, I was forced to grapple with many strange foes. 
 
-One of the questions that would not let me go was something like: 
+One of the questions that would not let me go was: 
 
-*What is Our relationship to Structures of Injustice?*
+*What is Our relationship to Structures of Injustice?* It felt like one of the [[Right Questions]] to keep asking my Self. 
 
 When I started sharing my story about the church, I started to hear stories from an array of other families who had been harmed, threatened, slandered, ostracized, or paid for silence. The more stories surfaced, the more additional stories echoed back in confirming return. It started to become clear that there were wolves shepherding the flock, masquerading under the guise of religion. I was later informed how common that was, and how institutional religious structures actually disproportionately attract predators and parasites into positions of leadership, since once exposed, the churches are often too embarrassed to publicly admit it or press charges. So they brush the destruction under the rug, and the perpetrators slink back off into the Darkness.  
 
 When I started sharing my story about the government, I started to hear stories from an array of other citizens who had been harmed, threatened, slandered, jailed, or otherwise silenced. The more stories surfaced, the more additional stories echoed back in confirming return. It started to become clear that there were wolves shepherding the flock, masquerading under the guise of public service. I was later informed how common that was, and how institutional government structures actually disproportionately attract predators and parasites into positions of leadership. 
 
-It was strange to sit their in the midst of hundreds of families being damaged or losing their livelihoods in our case alone, out of a home, out of an industry, out of a reputation, out of a church... and to ponder... 
+One story about a corrupt institution may be an anomaly. Maybe the lies and slander the religious and government officials publicly spread about me to tear down my reputation and credibility and protect their positions and power was true. Maybe I was just a bad and incompetent contractor making up stories. The public and congregation should perhaps just ignore my Voice and go about their business, because everything is fine, and their children and elders are not actually being watched over by Wolves. 
 
-To some of the older men who told me their stories, I wanted to say:
+When two similar stories about the same institution emerge, we should start to pay attention. There may be a pattern. 
 
-_You knew this all along and did nothing? Because you were scared, you refused to take down the evil that confronted you, and left it to grow stronger to victimize my family and community, and the youth and the elders, in the future? And you never warned us?_
+When three similar stories about the same institution emerge, a serious investigation is warranted. 
 
-There were many moments were a combination of lies, bribes, and silence could have saved my family's wealth, home, and reputation. If I had just fed The Dragon and left it with a little more Treasure to hoard, I could have slipped back into the safety of The Village. 
+When 5 or 10 similar stories about the same institution emerge, there is enough smoke that there is almost certainly a fire in the midst of it. 
+
+By the time I heard 5 or 10 confirming stories about other families harmed by the County, and 5 or 10 confirming stories about other families harmed by the Church, I was able to begin to tamp down the raging voice of [[The Accuser]] tormenting me in the Darkness of the sleepless nights.
+
+I cannot begin to communicate the suffering that my beautiful wife, Conscience Incarnate, went through, as countless tears, trembles, and nightmares asked her if perhaps the [[The Accuser]] was right about her husband, and by extension her. How could it be possible that we, once seated at the tables of honor in Church and State, were now out of home, out of work, out of reputation, and alone? Maybe they were right. Maybe we screwed everything up. Maybe it was our fault. Maybe we deserved this. Maybe we were on the wrong side of God's plan, and this was our just punishment. 
+
+Through countless tearful conversations, we searched and searched our souls, surfacing every misstep, every mistake, every place we should have Known and Done Better. 
+
+I prayed numerous times sincerely asking God to immediately strike me dead if [[The Accuser]] was right and it was the case that I had led us that far off the [[Path]], and was so warped in my [[Consciousness]] that I couldn't see it clearly.
+
+As things decayed, the hyenas and jackels plucked the carcass of our Old Life, looting our jobsites, stealing the last of our assets, making threats and demands, and pumping the rumor mill to hasten the process. 
+
+Some very religious friends and family became convinced that this had all happened because we had been deceived by Satan and joined the forces of Darkness, and discussed it openly among themselves. One suggested that I was possessed by the spirit of the Anti-Christ. Even my [[Earthly Father]] lost faith in me for a while, began having nightmares about me, and threw fuel onto the flames consuming us. 
+
+My mother sat by me and wept, begging my [[Earthly Father]] to tell me he did not actually believe the things he was saying about me. Despite her tears and mine, he could not for a long while until the Darkness finally released his mind and dreams, and he could finally begin to see me and embrace me again. 
+
+My grandfather, like a second father, called me on one of the Darkest winter days and told me that he had been hearing the rumors circulating about me, and while he might always love me, respect was something that I had to earn every day, and one way to earn respect was to not put our business partners in danger. He told me he no longer saw me being a part of the partnership, and that he was writing me out. The next Christmas, he did not speak to me, and when I rose to give him a hug goodbye, he turned and walked away. 
+
+My wife trembled, sobbed, and lay awake at night as the The Accuser raged, and I continued to search my soul and pray that my [[Heavenly Father]] would immediately strike me dead if the things being spoken about me were even close to True.
+
+It was strange to sit their in the midst of hundreds of families being damaged or losing their livelihoods, alone, out of a home, out of an industry, out of a reputation, out of a church... and to ponder and pray.  
+
+To some of the older men who told me stories about how these same Power Structures had harmed them and their families, I wanted to say:
+
+_You knew this all along and did nothing? Because you were scared, you refused to take down the [[Evil]] that confronted you and harmed your family, and left it to grow stronger to victimize my family and community, and the innocent youth and the elders, in the future? You let us pledge allegiance to the Corruption, and you never warned us?_
+
+There were many moments were a combination of lies, bribes, and silence could have saved my family's wealth, home, and reputation. If I had just fed The Dragon and left it with a little more Treasure to hoard, I could have slipped back into the perceived safety of The Village it was ruling over, been blessed and forgiven by the pharisees, been placed in a high paid job in its System of Injustice, and tried to keep my head down among the rest of the [[Employee Consumer Slaves]]. 
 
 However there is an old principle that we seem to have forgotten: 
 
 *If you must slay a Dragon, the best day to do it is today, for each day you cower in fear it grows stronger.*
 
-An elder with the wealth and power to solve it all told me, "Well laddy, I am just glad my time is over and I don't have to deal with all this. I am really concerned. Good luck."
+An elder with the wealth and power to solve it all told me, "Well laddy, I am just glad my time is over and I don't have to deal with all this. I am really concerned about the state of our Country and Society. Good luck."
 
 So there I lay, alone. 
 
 Night after night, at 2 AM, alone in the Darkness, up against power structures with comparatively infinite resources. 
 
-How would it feel to seek my own safety, and tell my young daughter "I am sorry honey. The Dragon is too scary. I am just glad that I don't have to deal with it. Good luck. Pledge allegiance to The Dragon and keep your head down. Maybe you will survive."
+How would it feel to seek my own safety, and tell my young daughter "I am sorry honey. The Dragon is too scary. The reputational cost is too high. The risk is too great for me. I am just glad that I don't have to deal with it. Good luck. Pledge allegiance to The Dragon and keep your head down. Maybe you will survive."
 
 Over the next few years, I would come to find out that The Dragon was puppeting far more of the institutions of Church and State than I had ever dreamed was possible, while those who Knew were cowering in silence as 99% of Citizens, Unaware, continued to pledge allegiance within the Dark confines of [[The Caves]]. 
 
@@ -942,29 +1014,39 @@ Over the next few years, I would come to find out that The Dragon was puppeting 
 
 There is a principle in martial arts that when you are on the edge of combat, the most dangerous time is before you have engaged. I was taught that the greatest gift is when your opponent touches you, for then you can feel and begin to work with its Energy. 
 
-Yes, the Puppet Leaders inhabiting the Visible Power Structures of South Shores Church and the County were the ones who consciously inflicted the suffering on us and slandered and cheered as we bled out. But what we were actually encountering was the domain-independent spirit puppeting them and a thousand other Visible Power Structures for its own benefit. 
+Yes, the Puppet Leaders inhabiting the Visible Power Structures of South Shores Church and the County were the ones who consciously inflicted the suffering on us and slandered and assented as we bled out. But what we were actually encountering was the domain-independent spirit puppeting them and a thousand other Visible Power Structures for its own benefit. 
 
-What I mean by [[Domain Independent]] is that there is a common pattern of behavior, manifest in various places, institutions, and contexts around the world, that "possesses" religious, government, academic, and corporate leaders, causing them to behave in a uniform and predictable way. 
+What I mean by [[Domain Independent]] is that there is a common pattern of behavior, manifest in various places, institutions, and contexts around the world, that "possesses" religious, government, academic, and corporate leaders, causing them to behave in a uniform and predictable way. If a bunch of people behave in the same antithetical way in a wide variety of contexts, you could characterize what they have in common as something like a spirit that possesses them. 
 
-There is nothing scary or special about the Tyrants possessed and puppeted by this spirit. They are weak little pawns who have surrendered their souls to The Dragon in exchange for a little Pyramid to sit at the top of. 
+There is nothing scary or special about the Tyrants possessed and puppeted by this spirit. They are weak little pawns who surrender their souls to Darkness in exchange for a little Pyramid in The Village to sit at the top of. 
 
 There is a recurring Vision of a battlefield, in which an endless stream of thousands of little dragons are flowing from the mouth of a Meta Dragon. 
 
 Faced with this situation, what is a Warrior to do? 
 
-If we try to go fight all the little dragons, it is only a matter of time before one of the endless stream destroys us. 
+If we try to go fight all the little dragons, it is only a matter of time before one of the endless stream of Existential Threats destroys us. 
 
-The only Way to prevail is to forthrightly confront and overcome the Meta Dragon. 
+The only [[Way]] to prevail is to forthrightly confront and overcome the Meta Dragon. 
 
-Mired in a sea of little demons, once must identify, confront, and overcome their source. 
+Mired in a sea of little demons, once must identify, confront, and overcome their generative source. 
 
 Once the spirit corrupting our religious and political institutions manifested itself, attacked us, and left us for dead... 
 
 ...it was clearly time to Rise and go to War. 
 
-If ever I had to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon, I wanted to make damn sure I had died trying to slay it, and wasn't cowering ashamed in some Dark corner. 
+After all, this is purpose here on Earth, known since waking consciousness. 
 
-For God's sake, please stand and join me. 
+If ever I have to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon, I want to make damn sure I died trying to slay it, and wasn't cowering ashamed in some Dark corner of The Village. 
+
+I am heading out Beyond The Boundary to go confront and overcome The Dragon in its lair, liberate the captives it holds, and release the Treasure it guards, which is the Collective Inheritance of humanity. 
+
+We can use it to regenerate and renew the Earth. 
+
+We are all billionaires who could be living in [[Heaven On Earth]], we just don't know it yet, because The Dragon and [[The Giants]] are concealing our Treasure and enslaving us in [[The Caves]]. 
+
+I will do this alone or die trying if necessary, but for God's sake and for the sake of your children and every generation of children to come, please stand and join me. 
+
+The Dragon is growing stronger by the day, and the Final Order of Self-Serving Chaos and Tyranny it seeks to establish is almost complete. 
 ## IV. The Meta Crisis 
 
 ### Awakening to the Dreadful Realization 
@@ -977,9 +1059,11 @@ Alarmingly, with each piece of [[Information]] shared and every truth uncovered,
 
 It was bad enough that billions were held captive and asleep in [[The Caves]]. 
 
+It was bad enough that humanity had forgotten who it was, and was estranged from its Collective Inheritance. 
+
 Yet, an even more alarming realization dawned: the entire [[Human System]] and [[Living System]] had suffered such profound abuse and exploitation by the Keepers of The Caves that a systemic collapse was imminent. 
 
-The proverbial building was not just on fire—it was ablaze, with the vast majority still obliviously slumbering within its walls.
+The existing [[Habitable Order]] was not just on fire—it was ablaze, with the vast majority still obliviously slumbering within its walls.
 
 ### The Array of Crises 
 
@@ -987,7 +1071,7 @@ Gradually, from myriad perspectives, they pieced together the grim reality. With
 
 An awakened scientist revealed that even the rainwater in Earth's most remote areas was tainted with toxic chemicals.
 
-An awakened politician warned that the Keepers of the Caves were steering their captives toward a global war. 
+An awakened politician warned that the Keepers of the Caves were steering their captives deeper into World War. 
 
 An awakened pastor informed the others that spiritual leaders were being silenced, beaten, ostracized, and even killed if they did not parrot the lines of the [[Power Structures]]. 
 
@@ -995,9 +1079,9 @@ An awakened economist informed the others that the financial, debt, and monetary
 
 An awakened teacher revealed the school curriculums' deep corruption, indoctrinating children into failure, division, dysfunction, despair, and false ideologies. 
 
-An awakened worker highlighted the widening opportunity gap between the many and the few reaching a critical breaking point. 
+An awakened worker highlighted the widening opportunity gap between the many and the few that was approaching a critical breaking point. 
 
-An awakened farmer exposed how [[The Giants]] were intentionally devastating bioregional food systems and production capacity. 
+An awakened farmer exposed how [[The Giants]] for decades had been intentionally devastating bioregional food systems and systematically stripping out local production capacity. 
 
 An awakened lawyer informed the others that the courts had become so corrupted that they only offered respite to those wealthy enough to be able to manipulate them. 
 
@@ -1009,11 +1093,15 @@ An awakened zoologist informed the others that two thirds of many animal populat
 
 A reproductive specialist informed the others that the sperm counts of human males had also collapsed by nearly 2/3rds over recent decades. 
 
-An awakened doctor informed the others that the food and drink being provided to the [[Employee Consumer Slaves]] in [[The Caves]] was full of toxic chemicals that inhibited key biological functions and triggered [[Chronic Inflammation]], leading to skyrocketing [[Chronic Disease]]. 
+An awakened doctor informed the others that the food and drink being provided to the [[Employee Consumer Slaves]] in [[The Caves]] was full of toxic chemicals that inhibited key biological functions and triggered [[Chronic Inflammation]], leading to widespread [[Chronic Disease]].  
+
+An awakened oceanographer informed that others that [[The Giants]] had been dumping their old weapons into the ocean, and that the metal cases were now rusting away, threatening to further poison the waters of Earth. 
+
+An awakened geologist informed the others of vast sites of super-pollution, where military and industrial waste was seeping into the groundwater. 
 
 An awakened microbiologist informed the others that much of the collapse in health and life in insects, plants, animals, and humans was actually the result of the destruction of the [[Microbiome]]. 
 
-An awakened supply chain manager outlined how global supply chains had become critically fragile, teetering on the brink of collapse from minor disruptions.
+An awakened supply chain manager outlined how global supply chains had become critically fragile, teetering on the brink of collapse from minor disruptions, and increasingly coming under attack.
 
 An awakened banker illuminated the historic rates of debt after thousands of years without a [[Jubilee]], and the essential bankruptcy of various tribes and nations. 
 
@@ -1021,30 +1109,36 @@ An awakened psychologist informed the others of skyrocketing rates of mental hea
 
 An awakened aid worker informed the others of skyrocketing rates of mass migration, and the attendant risks of disease, conflict, and war. 
 
-An awakened social scientist informed the others of the degree to which the schools, universities, governments, and other civic institutions had fallen prey to ideological capture. 
+An awakened social scientist informed the others of the degree to which the schools, universities, governments, and other civic institutions had fallen prey to ideological and special-interest capture. 
 
 An awakened voter informed the others of the thousands of dollars being spent by the [[Invisible Power Structures]] on every vote, the predatory presence of multiple lobbyists for every official, the extent of [[Regulatory Capture]], and the unholy alliances between religious denominations and political parties. 
 
 An awakened student informed the others of the youth of the nations being coerced into student debt spirals and lifelong debt slavery in return for failed educations. 
 
-An awakened juror informed the others about the extraordinary rates of institutionalization and incarceration in the empires of the Earth, and profound perversions of Justice. 
+An awakened juror informed the others about the extraordinary rates of institutionalization and incarceration in the empires of the Earth, and profound perversions of Justice that disproportionately targeted the poor. 
 
 An awakened senior informed the others about the degree of elder abuse and neglect, and the tremendous suffering, loneliness, and alienation of the older generations. 
 
+An awakened social worker informed the others about the catastrophic plight of orphans and the foster systems.  
+
 An awakened technologist sounded the alarms about the accelerating efforts to deploy artificial intelligence and robotics in war, and the numerous existential threats and opportunities posed by AI. 
 
-And it was evident to All that after generations imprisoned in [[The Caves]], any semblance of uniting [[Vision]] and [[Values]] had been destroyed. Society was divided against itself and the Earth, and rapidly failing. 
+An awakened cyber security expert warned that the Infrastructure of the Habitable Order was operating on vulnerable systems that had already been infiltrated by enemy actors, who could rapidly cause widespread Chaos, panic and shortages. 
+
+It was evident to All that after generations imprisoned in [[The Caves]], any semblance of uniting [[Vision]] and [[Values]] had been destroyed. Society was divided against itself and the Earth, and rapidly failing. 
 
 These are but a small sampling of the stories that specialists in a diverse array of [[Domains]] told one another. The varied reports from different perspectives wove together a tapestry of crises, each thread revealing more and more of the underlying [[Meta Crisis]].  
 
-In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing Order would survive rapidly approached zero. 
+In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing Habitable Order would survive rapidly approached zero. 
 ### The Meta Crisis 
 
-Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared lexicon began to emerge, the words progressively illuminating complexities that they previously lacked the language to articulate. 
+Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared [[Lionsberg Lexicon|Lexicon]] began to emerge, with New [[Word Tools]] progressively illuminating complexities that they previously lacked the language to articulate. 
 
 The [[Meta Crisis]] was an unprecedented [[Existential Threat]] that nearly disqualified humanity from ongoing existence aboard Earth. It was a universal challenge that threatened the very fabric of [[Society]], and the [[Living System]] that contained it. 
 
-Arising from the [[Way of Being]] of the Human Species aboard Planet Earth, they came to understand that the [[Meta Crisis]] demanded a profound and historic [[Citizen Led Response]]. Before it was too late. 
+Arising from the [[Way of Being]] of the Human Species imprisoned in [[The Caves]] aboard Planet Earth, they came to understand that the [[Meta Crisis]] demanded a profound and historic [[Citizen Led Response]]. Before it was too late. 
+
+The [[Meta Crisis]] demanded a [[Meta Project]] in response. 
 
 By the early 2020s, [[The Story]] escalated to a climactic tension, teetering on the edge of absurd comedy and despair, with the fate of our heroes—and the human species aboard Earth itself—shrouded in uncertainty. 
 
@@ -1052,13 +1146,15 @@ By the early 2020s, [[The Story]] escalated to a climactic tension, teetering on
 
 ### Time To Awaken, Arise, and Move
 
-Finding them Selves on the brink of catastrophic failure, mired in [[Chaos]] and [[Division]], and hurtling towards [[Collapse]] and [[World War]],  something strange happened to humanity. 
+Finding them Selves imprisoned in a System on the brink of catastrophic failure, mired in [[Chaos]] and [[Division]], and hurtling towards [[Collapse]] and [[World War]],  something strange happened to humanity. 
 
-It was as if the overwhelming intensity of the Cold and Darkness of The Caves, contrasted with the searing heat of the wildfire slowly consuming Society, inadvertently conspired to awaken the Citizens as the [[Vessel of Society]] accelerated towards [[The Chasm]]. 
+It was as if the overwhelming intensity of the Cold and Darkness of The Caves, contrasted with the searing heat of the wildfire slowly consuming the [[Habitable Order]], inadvertently conspired to awaken the Citizens as the [[Vessel of Society]] accelerated towards [[The Chasm]]. 
 
-The awakening was exponential, and spread far more rapidly than anyone would have imagined. It was As If something Deeper was on the move, shaking humanity one by one out of their near-fatal slumber. 
+One awakened, and then two. 
 
-Awakening in the Darkness, feeling the searing Cold and the chilling heat, hearing the chains, and catching flickering glimpses of [[The Chasm]], it was obvious to each as they awakened that it was time to arise, liberate One Another, and *Move, Together, NOW. 
+The awakening was exponential, and spread far more rapidly than anyone would have imagined. It was As If something Deeper was on the move, a [[Central Animating Spirit]] sweeping through [[The Caves]] and shaking humanity one by one out of their near-fatal slumber. 
+
+Awakening in the Darkness, feeling the Searing Cold and the Chilling Heat, hearing [[The Chains]], and catching flickering glimpses of [[The Chasm]], it was obvious to each as they awakened that it was time to arise, liberate One Another, and *Move, Together, NOW. 
 
 They may not have known yet Where [[They Were Going]] or [[Why]], but it was exceedingly obvious that [[They Could Not Stay Here]]. 
 
@@ -1066,15 +1162,17 @@ It was also self-evident that What Had Got Them To Where They Were, Would Not Ca
 
 The conditions were perfectly ripe for a quantum phase shift in the patterns of human existence aboard [[Worksite Earth]]. 
 
+It was time to [[Light Up The Darkness]], exit [[The Caves]], and begin Walking One Another Home. 
+
 ### Reconstructing The Story 
 
 The Guides among them were wise enough to understand that without a uniting [[Vision]], they would all perish in [[The Wilderness]] that separated [[The Old]] from [[The New]]. 
 
 They were also wise enough to understand that [[Consciousness]] fundamentally lays its Self out in a [[Narrative Framework]], such that the [[Vision]] had to be contextualized within an overarching and uniting [[Story]].  
 
-The Project of reconstructing [[The Story]] of humanity aboard [[Vessel Earth]] was one of the most profound early challenges of [[The Quest]]. 
+The Project of resurrecting and reconstructing [[The Story]] of humanity aboard [[Worksite Earth]] was one of the most profound early challenges of [[The Quest]]. 
 
-After generations enslaved in [[The Caves]], humanity had entirely lost the plot. It had forgotten Who It Was. It had forgotten Where It Was. It had forgotten How It Had Got Here. It had forgotten Where It Was Going. It had forgotten Why. It had lost the Sacred Vision. It had lost The Plot. 
+After generations enslaved in [[The Caves]], humanity had entirely lost the plot. It had forgotten Who It Was. It had forgotten Where It Was. It had forgotten How It Had Got Here. It had forgotten Where It Was Going. It had forgotten Why. It had lost the Sacred [[Vision]]. It had lost the Sacred [[Values]]. It had lost the [[Divine Blueprints]]. It had lost [[The Plot]]. 
 
 The vast majority of them had spent their entire lives asleep in [[The Caves]], mindlessly repeating, day after day, the words of the Keepers of whatever Cave they had been born into. 
 
@@ -1084,15 +1182,15 @@ The words of [[Keepers of The Caves]] had been progressively weaponized over the
 
 Above all, the warping of the [[Neural Architecture]] was *consciously designed* to prevent humanity from being able to [[Know]] the [[Truth]] that would inevitably set them free. 
 
-Fortunately, [[The Spirit]] was on the move, revealing [[Truth]], healing [[Trauma]] and shattering [[The Chains]]. 
+Fortunately, miracles happen and [[The Spirit]] was on the move, revealing [[Truth]], healing [[Trauma]] and shattering [[The Chains]]. 
 
 With each subtle realization and death of a falsehood, each awakening being was being healed and transformed from within. 
 
 ### The New Story 
 
-Understanding the the [[Old Stories]] repeated in [[The Caves]] had become corrupted, divisive, and incompatible with [[Where They Were Going]] and [[Why]], the early awakeners began co-creating a [[New Story]]. 
+Understanding that the [[Old Stories]] repeated in [[The Caves]] had become deeply corrupted, divisive, and incompatible with [[Where They Were Going]] and [[Why]], the early awakeners began co-creating a [[New Story]]. 
 
-They understood that the [[Meta Story]] they would need to reconstruct a shared [[Backward Looking Story]] that contextualized Who They Were, Where They Were, and How They Got There. 
+They understood that the [[Meta Story]] they would need to reconstruct included a shared [[Backward Looking Story]] that contextualized Who They Were, Where They Were, and How They Got There. 
 
 Rediscovering Who and Where They Were, they also understood that the [[Meta Story]] would need to include a shared [[Forward Looking Story]] that contextualized Who They Were Becoming, Where They Were Going, With Who, How, and Why. 
 ### The Story of Stories 
@@ -1101,39 +1199,41 @@ Rediscovering Who and Where They Were, they also understood that the [[Meta Stor
 
 They began to refer to the [[Meta Story]] as a [[Story of Stories]]. 
 
-It would be co-created and [[Emerge]] as each individual, family, group, tribe, and nation awakened, arose, rearticulated their own [[Individual And Local Story]], and wove their unique threads into [[The Story]] that was progressively reorienting and reuniting them [[All]]. 
+It would be co-created and [[Emerge]] as each individual, family, group, tribe, and nation awakened, arose, rearticulated their own [[Individual And Local Story]], and wove their unique [[Golden Thread]] of all that was most Wise, Right, Good and True into [[The Story]] that was progressively reorienting and reuniting them [[All]]. 
 
 Day by day, as the [[Individual And Local]] threads of [[The Story]] were woven into [[The Tapestry]], a clearer and clearer [[Image]] began to [[Emerge]]. 
 
-The clearer the [[Image]] became, the more their [[Imagination]] opened, and the more [[Wisdom]], [[Courage]], and [[Strength]] they gained. 
+The clearer the [[Image]] became, the more their [[Imagination]] opened, and the more [[Wisdom]], [[Courage]], and [[Strength]] [[The Movement]] gained. 
 
 After generations and generations of Darkness, Isolation, and Conflict, they were discovering that they were no longer alone. 
 
 As they reconstructed [[The Story]], everyone was consciously aware that what they were constructing was in essence a Myth. For a soon as they articulated a Word and began to Concretize an aspect of The Story, it fell at least slightly short of the ineffable and Absolute Perfection the Spirit was revealing to them. 
 
-However at the same time they understood, that the New Words they were articulating were only an [[Icon]] pointing towards something ineffably Deep, they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew. 
+However at the same time they understood that the New Words they were articulating were only an [[Icon]] pointing towards something ineffably and Ultimately Deep, they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew, for while it did not precisely and factually reflect the exact experience of each Family, it captured The Essence of the Universal Experience of All Families, Tribes, and Nations. 
 
-The Story, composed of the Individual and Local Stories of the billions who were awakening, and unified by [[One]] and [[All]], empowered children and adults around the world to once again Dream. 
+The Story, composed of the Individual and Local Stories of the billions who were awakening, and unified by [[One]] and [[All]], empowered children and adults around the world to once again Dream, Imagine, Hope, and Believe. 
 
-As each awakening individual and locality came to the point of articulating their own Forward Looking Story, they were, for the first time, truly free and responsible to try to reimagine the way their lives and their world Should Be. They way they would like it to be. The playful energy of a return towards childlike Faith and Imagination swept across [[The Movement]] as individuals began sharing and deeply listening to One Another's hopes, dreams, and aspirations. One beautiful imagination fueled the next, ideas began remixing and recomposing themselves, spiraling upward towards Unity, Harmony, Coherence and Perfection, and soon, [[The Vision]] of [[Heaven On Earth]] was Real in the Minds of All those Awakening. 
+As each awakening individual and locality came to the point of articulating their own Forward Looking Story, they were, for the first time, truly free and responsible to reimagine the Way their lives and their world Should Be. They way they would like it to be. The playful energy of a return towards childlike Faith and Imagination swept across [[The Movement]] as individuals began sharing and deeply listening to One Another's hopes, dreams, and aspirations. One beautiful imagination fueled the next, ideas began remixing and recomposing themselves, spiraling upward towards Unity, Harmony, Coherence and Perfection, and soon, [[The Vision]] of [[Heaven On Earth]] was becoming a [[Progressive Realization]] in the Minds of All those Awakening. 
 
-For the first time in history, they realized that they All wanted the same thing, and that together, it was possible. All Creation was longing and crying out together for the revelation of How Things Should, and now Could, Be. 
+For the first time in history, they Realized that they All wanted the same essential things, in a vast diversity of unique local ways, and that together, it was entirely possible to [[Progressively Realize]] [[Heaven On Earth]]. All Creation was longing and crying out together for the revelation of How Things Should, and now Could, Be, and the United Force For Good capable of bringing the Universal Vision into Reality. 
 
 ### The One Thing
 
 The Vision of [[Heaven On Earth]], and the billions of people dreaming it together, was as vast and diverse as the world. 
 
-They were delighted to discover that [[The Vision]] of [[Heaven]] looked dramatically different for the Achuar tribes of the Amazon, than it did for the Masai tribes of Kenya, than it did for the tribes of the Levant, than it did for the farmers in the plains of Turtle Island, than it did for the grandmothers of the North and the grandchildren of the South. 
+They were delighted to discover that [[The Vision]] of [[Heaven On Earth]] looked beautifully different for the Achuar tribes of the Amazon, than it did for the Masai tribes of Kenya, than it did for the tribes of the Levant, than it did for the farmers in the plains of Turtle Island, than it did for the grandmothers of the North and the grandchildren of the South. 
 
-Yet the [[Deepest]] level, it was clearly [[One]] logical, coherent, harmonious [[Whole]]. 
+Yet at the [[Deepest]] level, it was clearly [[One]] logical, coherent, harmonious [[Whole]]. The [[Divine Blueprints]] were clearly from [[One]] Source, and being brought to Mind and Life by One [[Central Animating Spirit]]. 
 
-Time and time again, the question arose: What is the [[One Thing]] that united the diverse many? What was the [[Essence]], or [[Central Animating Spirit]], that [[All]] the diverse expressions of [[Heaven On Earth]] shared in common? 
+Time and time again, the [[Right Questions]] arose: What is the [[One Thing]] that unites [[The Diverse Many]]? What is the [[Essence]], or [[Central Animating Spirit]], that [[All]] the diverse expressions of [[Heaven On Earth]] share in common? What is the [[Golden Thread]] that weaves together every Wise, Right, and Good Vision of The Future?
 
-They [[All]] knew that it was something beyond simple human will or desire. Some thought at first that it was an expression of reunification with [[Nature]]. Yet Nature was constantly transforming, ever changing, and continually threatening and testing the Order they were working together to forge. 
+They [[All]] knew that it was something beyond simple human will or desire. Some thought at first that it was an expression of reunification with [[Nature]]. Yet Nature was constantly transforming, ever changing, and continually threatening and testing the Order they were working together to forge. It was true that humanity would need to reintegrate itself harmoniously and coherently within the [[Living System]] it was a part of, but there was something even [[Deeper]]. [[Deeper]]. [[Deeper]]. 
 
-As they continued to look [[Deeper]], they Ultimately rediscovered the [[One]] that united [[All]] of its expressions. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The generative [[Source and Sustainer]]. The Ultimate Unity giving rise to inexhaustible Creative Diversity. 
+As they continued to look [[Deeper]], they Ultimately rediscovered the [[One]] that united [[All]] of its expressions. If you looked Deep enough into any aspect of Creation, you could eventually rediscover It at its Beginning and End. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The Transcendent Generative [[Source and Sustainer]] of the Manifest Universe. The Ultimate Unity giving rise to inexhaustible Creative Diversity that existed through Its [[Central Animating Spirit]]. 
 
 The [[One]]. The Supreme Author of [[The Story]] writing its Self through them. 
+
+The Creator was inviting them [[All]] to become [[Co-Creators]] of a Better World. 
 
 ## VI. The Ten Realizations
 
@@ -1142,13 +1242,13 @@ As [[The Image]] of [[The Story]] became progressively clearer in everyone's Min
 Among the hundreds of epiphanies, a small handful began to rise to the top as the [[Deepest]] and [[Most Essential]].  
 ### Epiphany One: In The Beginning, One
 
-Despite the vast diversity of origin stories among the tribes and nations, the awakened were delighted to discover that nearly all of their stories started with a humble recognition of the Divine Beginning. 
+Despite the vast diversity of origin stories among the tribes and nations, the awakened were delighted to discover that nearly all of their stories started with a humble recognition of their Divine Beginning and End. 
 
-As they wove the threads of the [[New Story]], they came to understand that this was not an elementary religious proposition. It was a statement of humility, an acknowledgement that beyond "our tribe" is humanity, beyond humanity is Earth, beyond Earth is Universe, and beyond Universe is the Ineffable Mystery that is creating, sustaining, permeating, and breathing life and breath into All things. 
+As they wove the [[Golden Thread]] of the [[New Story]], they came to understand that this was not an elementary religious proposition. It was a statement of humility, an acknowledgement that beyond "our tribe" is humanity, beyond humanity is Earth, beyond Earth is Universe, and beyond Universe is the Ineffable Mystery that is creating, sustaining, permeating, and breathing life and breath into All things. 
 
-The [[Ultimate Reality]] guiding the subsequent transformations of [[Reality]] across Space and Time. 
+The [[Ultimate Reality]] guiding the subsequent transformations of [[Reality]] across [[Space]] and [[Time]]. 
 
-That which in English we point towards with [[Word Tools]] such as [[God]], [[Creator]], [[Ultimate Reality]].  
+That which in English we point towards with [[Word Tools]] such as [[God]], [[Creator]], [[Ultimate Reality]], [[Absolute]], [[Source]], [[One]].  
 
 The beginning of [[The Story]] was different different across the diversity of tribes, and nations, yet [[All]] pointed back to [[One]]. 
 
@@ -1180,31 +1280,37 @@ _…something formless yet complete, born before heaven and earth; silent and am
    
 In the beginning…
 
-...*transcendent of every Story, Theology, Philosophy, and Logic is One Absolute, Primordial, First, Deepest, Ultimate Fact, whose Supreme Nature is a Mystery.* 
+...*transcendent of every Story, Theology, Philosophy, and Logic is One Absolute, Primordial, First, Deepest, Ultimate Fact, whose Supreme Nature is the Ultimate Ineffable Mystery.* 
 
 Before and beyond every name; before and beyond every attempt to grasp and comprehend; before and beyond every attempt to institutionalize; before and beyond every temple, idol and representation…
  
-…from the [[One]], [[All]] things come into Being, and nothing comes into Being except through the [[One]]. 
+…from the [[One]], [[All]] things come into Being, and nothing Exists except through the [[One]]. 
 
 *I Am.* 
 
-They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], [[The Story]] was [[One]]. 
+They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], and [[In The End]], [[The Story]] was [[One]]. 
 
-The rediscovery of the [[Knowledge of God]] beyond religion paved the Way towards the [[New Covenant]]. 
+The rediscovery of the [[Knowledge of God]] beyond religion swept the Earth like floodwaters, paving the Way towards the [[New Covenant]]. 
 
 ### Epiphany Two: One Interexistence 
 
 The second great epiphany from [[The Story]] was that [[All]] things arising from the [[One]] were ultimately interconnected and interexistent. 
 
-While the Song of Creation was subtly different in every tribe, those awakening could recognize that the variations were all harmonies in [[One]] [[Divine Symphony]]. 
+All things were ultimately [[One Body]] of Co-Creation. 
+
+While [[The Song of Creation]] was subtly different in every tribe, those awakening could recognize that the variations were all harmonies in [[One]] [[Divine Symphony]]. 
 
 In each Song of Creation, from [[One]] the [[Creative Field]] emerges into view, the primordial fabric of unstructured [[Potential]] from which, upon which, and through which [[All]] things arise. 
 
-Every transcending and hovering over the [[Chaos]] of unstructured [[Potential]] was something like the [[Central Animating Spirit]]. 
+Ever transcending and hovering over the [[Chaos]] of unstructured [[Potential]] was something like the [[Central Animating Spirit]]. 
 
 And in-forming the animation of [[Potential]] into [[Form]] was something like the [[Logos]], or articulated Word and Logic of [[God]]. 
 
-They came to understand that Creation was neither an random accident or a past event, but an ongoing Co-Creative [[Process]]. 
+The Living [[Embodiment]] of the Spirit and Logos of God were [[All]] [[One]]. 
+
+They finally understood the Mysteries of Incarnation and Trinity. 
+
+They came to understand that Creation was neither a random accident or a past event, but an ongoing Co-Creative [[Process]] that they were being invited to Consciously Participate in. 
 
 As if commanded by a Word, the [[Anti-Entropic]] Force is set into motion, the formless begins to coalesce into [[Form]], [[Chaos]] begins to ascend into [[Order]], and the elementary particles of the universe begin to assemble themselves.
 
@@ -1212,135 +1318,151 @@ Great processes of clustering, merging, synthesis, and fusion are unleashed. 
 
 The [[Creative Field]] is moved into its subtlest forms, the subtle forms periodically gravitating into subatomic particles, subatomic particles uniting into nuclei, nuclei into atoms, atoms unite into stars, stars unite into galaxies, galaxies unite into clusters, galactic clusters uniting into galactic superclusters, and the galactic superclusters remaining interexistent aspects of One Body of Co-Creation. 
 
-Over epochs and across the infinite field, One universal flower was unfurling its Self in obedience to its [[Metaphysical DNA]], each of its constituents alternately gravitating into Form, radiating back into Potential, and continuously spiraling up towards Higher Form. 
+Over epochs and across the infinite field, One universal flower was unfurling its Self in obedience to its [[Metaphysical DNA]], each of its constituents alternately Gravitating into Form, Radiating into Potential, and continuously spiraling up towards Higher Forms of Life and Consciousness. 
 
-Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was co-evolving in pursuit of the [[Logos]] and [[The Goal]] of the [[One]]. 
+Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was Co-Evolving in pursuit of the Spirit, The [[Logos]] and [[The Goal]] of the [[One]]. 
 
-Among the billions of galaxies was one whose humans named it Milky Way; among whose billions of stars was one whose humans named it Sun; among whose many orbiting objects was one whose humans named it [[Earth]]. 
+Among the billions of galaxies was one whose humans named it Milky Way...
+
+...among whose billions of stars was one whose humans named it Sun...
+
+...among whose many orbiting objects was one whose humans named it [[Earth]]. 
 
 Among the trillions of planets manifest throughout the [[Creative Field]], the conditions on [[Earth]] were perfect for [[Life]]. 
 
-Graduating from the endarkened understanding of previous centuries in [[The Caves]], awakening humanity came to deeply and progressively Realize that Earth, and all its inhabitants, were interexistent constituents of One Interexisting [[Living System]]. 
+Graduating from the endarkened understanding of the previous centuries in [[The Caves]], awakening humanity came to deeply and progressively Realize that Earth, and all its inhabitants, were interexistent constituents of [[One]] Ultimately Interexisting [[Living System]]. 
 
-The [[Logos]] and the [[Conditions]] of [[Earth]] had conspired with Spirit to breathe forth a vast diversity of [[Life]].  
+The [[Logos]] and the [[Conditions]] of [[Earth]] had conspired with Spirit to Speak and Breathe forth a vast [[Diversity]] of [[Life]].  
 
 Among the [[Diversity]] emerged a unique being unlike any other, and yet one with them. 
 
 Human Beings. Conscious cultivators, guardians, stewards, and [[Co-Creators]] of their experience aboard Earth. 
 
-Endowed with creative [[Consciousness]], they shared with the [[One]] the Image and Power to consciously create and destroy by aggregating and channeling [[Energy]] towards consciously chosen goals and objectives, in response to consciously perceived issues, challenges, needs, threats, fears, and desires. 
+Endowed with creative [[Consciousness]], they shared with the [[One]] the Image and Power to consciously create and destroy by aggregating and channeling [[Energy]] towards Consciously Chosen [[Goals]] and [[Objectives]], in response to consciously perceived issues, challenges, needs, threats, fears, desires, and Spiritual Impulses.  
 
-For the first time, all those who were awakening to the [[New Story]] came to understand their Ultimate Interexistence as incarnate local aspects of One [[Living System]] that contained, sustained, and ultimately United them [[All]]. 
+For the first time, all those who were awakening to the [[New Story]] came to understand their Ultimate Interexistence as incarnate local aspects of One Universal [[Living System]] that contained, sustained, and Ultimately United them [[All]]. 
 
-From this epiphany of interexistence, awakening humanity began to reconceptualize its unique role and [[Way of Being]] aboard [[Vessel Earth]], understanding that what each human being did or did not do unto any aspect of the Living System, it did or did not do unto its [[Self]], [[One]], and [[All]]. 
+From this epiphany of interexistence, awakening humanity began to reconceptualize its unique role and [[Way of Being]] aboard [[Worksite Earth]], understanding that what each human being did or did not do unto any aspect of the Living System, it did or did not do unto its [[Self]], [[One]], and [[All]]. 
+
+Finally, the Words of the Prophets and Teachers were being Understood, Embodied, and Enacted. 
 
 ### Epiphany Three: Billions of Backward and Forward Looking Stories 
 
-As humanity reconstructed [[The Story]], rediscovered their [[One]] Divine Beginning, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before. 
+As humanity reconstructed [[The Story]], rediscovered their [[One]] Divine Beginning and End, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before. 
 
-Far from suppressing their [[Diversity]], the dawning realization of their Ultimate Unity created the fundamental [[Conditions]] within which each [[Individual]] and [[Locality]] could freely express their unique [[Story]] without fear, for the first time. 
+Far from suppressing their [[Diversity]], the dawning realization of their Ultimate Unity created the fundamental [[Conditions]] within which each [[Individual]] and [[Locality]] could freely express their unique [[Story]] without fear, and be Heard, for the first time. 
 
-Whereas [[The Illusion of Separation]], the environment of [[Fear]], and the [[Us vs. Them]] mentalities fostered by the Keepers of [[The Caves]] had suppressed Diversity of expression, the Epiphany of Intereexistence and the co-creation of a [[New Story]] inherently contained within itself the invitation for every individual and locality to freely and truly express their unique individual and local [[Story]]. 
+Whereas [[The Illusion of Separation]], the environment of [[Fear]], and the [[Us vs. Them]] mentalities fostered by the [[Keepers of The Caves]] had suppressed [[Diversity]] of [[Individual And Local]] expression, the Epiphany of Intereexistence and the Co-Creation of a [[New Story]] inherently contained within itself the invitation for every individual and locality to freely and truly express their unique individual and local [[Story]] as a valuable and essential part of the [[Story of Stories]]. 
 
-As more and more individuals, families and tribes awakened and began articulating their Stories, and as those stories began to be deeply listened to for the first time, humanity was shocked to realize that beyond the whitewashed histories and propaganda they had been force-fed in [[The Caves]], billions of unique stories and perspectives longed to be told. 
+As more and more individuals, families and tribes awakened and began articulating their Stories, and as those stories began to be deeply listened to for the first time, humanity was delighted to realize that beyond the whitewashed histories and propaganda they had been force-fed in [[The Caves]], a rich [[Collective Inheritance]] of billions of unique stories and perspectives longed to be told and heard. 
 
-With a [[New Story]] big enough to embrace them [[All]], the vast diversity was finally free to truly articulate Who They Were, and their unique backwards and forward looking Stories. 
+With a [[New Story]] big enough to reunite and embrace them [[All]], the vast [[Diversity]] was finally free to truly articulate Who They Were, and their unique backwards and forward looking Stories. 
 
 ### Epiphany Four: One Uniting Story 
 
-As the vast diversity of individual and local stories poured forth from [[All]] those awakening, they were continually reminded that without a [[New Story]] big enough to reunite them [[All]], the emerging Movement would tear itself asunder. 
+As the vast diversity of individual and local stories poured forth from [[All]] those awakening, they were continually reminded that without a [[New Story]] and Vision big enough to reunite them [[All]], the emerging Movement would tear itself apart. 
 
 As they worked to find out what was Common among their Stories, they discovered that the Deepest and Highest elements of their stories were shared, and that the Deeper and Higher the element was, the more Universally and Eternally it applied. 
 
+The began to understand the concepts of Depth and Domain Independence, which in turn Progressively Revealed [[All]] they shared [[In Common]]. 
+
 They progressively realized that they were interexisting within One Living System that co-operated according to a set of Universal and Eternal Principles and Patterns. 
 
-The Highest and Deepest Principles, Patterns, and Values showed up over and over again throughout the diverse array of [[Special Case]] individual and local instances. 
+The Highest and Deepest Principles, Patterns, and Values showed up over and over again as the [[Golden Thread]] that United the diverse array of [[Special Case]] individual and local instances. 
 
 They discovered that the Personalities reflected in their stories arrayed themselves around a diverse-yet-finite set of [[Archetypes]]. The [[Archetypes]] were like [[Ideals]] that defined [[The Essence]] of a [[Category]]. 
 
-They discovered that the Personalities in their stories were motivated by a set of [[Goals]] and [[Values]] that were shared at the Highest and Deepest levels. 
+They discovered that the [[Personalities]] in their stories were motivated by a set of [[Goals]] and [[Values]] that were shared at the Highest and Deepest levels. 
 
 And they discovered that the Experiences reflected in their stories arrayed themselves around a set of [[Principles]] and [[Patterns]] that revealed the Nature of Society and the Living System. 
 
-The more they articulated and listened to their Stories, the more they came to understand [[The Story]] of the interexistence of humanity and All Creation aboard [[Vessel Earth]]. 
+The more they articulated and listened to their Stories, the more they came to understand [[The Story]] of the interexistence of humanity and All Creation aboard [[Worksite Earth]]. 
 
-They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared was something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] seemed to be interexisting in [[One]] Coherent and Intelligible [[Narrative Universe]]. 
+They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common was also something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[One]] Coherent and Intelligible [[Narrative Universe]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]]. 
 
-The Deeper they came to understand [[The Story]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed they were the only ones who harbored these deep fears and desires. They had assumed they were the only ones who longed for a [[Better World]]. 
+The Deeper they came to understand [[The Story]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed that they were the only ones who dreaded their existence in [[The Caves]]. They had assumed they were the only ones who harbored these deep [[Fears]], [[Desires]], and [[Aspirations]]. They had assumed they were the only ones who longed for a [[Better World]] in which they were Free. 
 
-However as they shared, and as they listened, they realized that they were profoundly united not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, and fears. And beyond this, as [[The Story]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared a Destiny; they would either succeed or fail together as one. 
+As they shared, and as they listened, they realized that they were profoundly United not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, fears, and desires. And beyond this, as [[The Story]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared One Destiny; they would either succeed or fail [[Together As One]]. 
 
-The Image of [[The Story]] grew more beautiful and clear day by day, as more and more individuals, families, tribes, and nations awakened, shared, listened, and wove [[The Tapestry]] back together. 
+The Image of [[The Story]] grew more beautiful and clear day by day, as more and more individuals, families, tribes, and nations awakened, shared, listened, and wove the [[Golden Thread]] of [[The Tapestry]] back together. 
 
-As [[The Story]] illuminated [[The Narrative Universe]] big enough to encompass and unite them [[All]], it became easier and easier to orient, navigate, and move together. 
+As [[The Story]] illuminated [[The Narrative Universe]] big enough to encompass and unite them [[All]], it became easier and easier to orient, navigate, and advance together towards [[The Goal]], and to [[Help One Another]] along the [[Way]]. 
 
 ### Epiphany Five: One Highest Identity 
 
-One of the most profound realizations that emerged from [[The Story]] related to [[Identity]]. 
+One of the most profound Realizations that emerged from [[The Story]] related to the Deep concept of [[Identity]]. 
 
 As [[The Narrative Universe]] unveiled itself, they realized that after generations enslaved in [[The Caves]], they had forgotten Who They Were. 
 
-One of the main features of [[The Game of Empire and Oligarchy]] played by the [[Keepers of The Caves]] was [[Divide and Conquer]]. Part of the logic was to Keep Divided To Keep Conquered. 
+One of the main features of [[The Game of Empire and Oligarchy]] played by the [[Keepers of The Caves]] was [[Divide and Conquer]]. Part of the logic was to [[Keep Divided To Keep Conquered]]. 
 
-The two main tools of [[Divide and Conquer]] were [[Fear]] and [[Identity]], and they worked together. The Wolves would divide the sheep up into groups, categorize and name them, and pit them against one another. The more [[Fear]] they could sow along the lines of [[Us vs. Them]], the stronger the [[Hatred]] and [[Division]] between the groups grew. 
+The two main tools of [[Divide and Conquer]] were [[Fear]] and [[Identity]], and they worked together. The Wolves would divide the sheep up into groups, categorize and name them, and pit them against one another via weaponized [[Identity Politics]]. The more [[Fear]] they could sow along the lines of [[Us vs. Them]], the stronger the [[Hatred]] and [[Division]] between the groups grew, and the more and more enslaved the captives became. 
 
-The stronger the fear, hatred, and division between groups grew, the more they dissociated from [[One Another]] and That Which They Shared In Common, and the more the Identified with their differences. 
+The stronger the fear, hatred, and division between groups grew, the more they dissociated from [[One Another]] and That Which They Shared In Common, and the more they Identified primarily with their differences. 
 
-Over the generations, this had resulted in the primary [[Identity]] of humanity shifting further and further away from [[Unity]], and growing more and more polarized and divided along a vast array of fractures and fault lines. 
+Over the generations, this had resulted in the Primary [[Identity]] of humanity shifting further and further away from [[Unity]], and growing more and more polarized and divided along a vast array of chaotic fractures and fault lines. 
 
-As [[The Story]] came back together, so too did the memories of humanity about Who They Were. They remembered that [[In The Beginning]], [[One]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
+As [[The Story]] came back together, so too did [[The Memories]] of humanity about Who They Were. They remembered that [[In The Beginning]], and [[In The End]], they were [[All]] [[One]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
 
-One [[Family of Families]]. One [[Tribe Of Tribes]]. One [[Nation of Nations]]. 
+One [[Family of Families]]. One [[Tribe Of Tribes]]. One [[Nation of Nations]]. One [[Story of Stories]]. 
 
-As they looked back towards the [[Highest]] and [[Deepest]] thing they [[All]] shared in common, the [[One Thing]] that United the vast [[Diversity]], it always and inevitably came back to the [[One]]. [[God]]. [[Creator]]. The Alpha and the Omega. The Beginning and the End. The Source and Sustainer. [[I Am]]. 
+As they looked back towards the [[Highest]] and [[Deepest]] thing they [[All]] shared in common, the [[One Thing]] that United the vast [[Diversity]], it always and inevitably came back to the [[One]]. [[God]]. [[Creator]]. The Alpha and the Omega. The Beginning and the End. The Source and Sustainer. The [[I Am]]. 
 
-The remembrance of their [[One]] [[Highest Identity]] was a crucial turning point in [[The Story]]. The memory felt like coming home. 
+The remembrance of their [[One]] [[Highest Identity]] was a crucial turning point in [[The Story]]. The memory felt like coming home, and rediscovering the Love and Belonging they had all so desperately been longing for without knowing it. 
 
-The revelation of their [[One]] [[Highest Identity]] as [[One Family]] of [[God]] did not require that they abandon any of their other [[Lower Order]] Names. They had individual names. Team names. Local names. Bioregional names. Tribal names. Group names. Company names. National names. And they could keep them all. 
+The revelation of their [[One]] [[Highest Identity]] as [[One Family]] of [[God]] did not require that they abandon any of their other [[Lower Order]] Names. They had beautiful and treasured individual names. Team names. Local names. Bioregional names. Tribal names. Group names. Company names. National names. And they could keep them all, and celebrate them all, and help each one Arise and Become all it was Uniquely Created to Be. 
 
-It was as if everyone who awakened was being simultaneously welcomed home and adopted by The Great Father back into [[One Family]]. They could all retain their individual and local names and affiliations, while joyfully taking back up their Highest [[New Name]] and the vast sovereignty, authority, and inheritance that was their as Children of The [[One]] King of Kings. 
+It was as if everyone who awakened was being simultaneously welcomed home and adopted by The Great Father back into [[One Family]]. It was if [[All]] peoples, tribes, and nations were streaming back [[The Great Banquet Table]] at the top of the [[Sacred Mountain]]. They could all retain their individual and local names and affiliations, while joyfully taking back up their Highest [[New Name]] and the vast sovereignty, authority, and inheritance that was their as Children of The [[One]] King of Kings, from whose gaze the little tyrants being puppeted by the [[Invisible Power Structures]] fled and hid themselves. 
 
 ### Epiphany Six: One Highest Citizenship 
 
 As the remembrances of the [[New Story]] revealed to them their [[Highest Identity]] and [[New Name]], it became clear to them simultaneously that their [[Highest Citizenship]] was not in any of the [[SpatioTemporal]] Earthly tribes, kingdoms, or nations, but in the Universal and Eternal [[Kingdom of God]] that United [[All Creation]] as [[One]]. 
 
-Like their [[Highest Identity]], being adopted back into their shared [[Highest Citizenship]] did not require that they cancel or revoke any of the lower order affiliations or citizenships they had previously attained. 
+Like their [[Highest Identity]], being adopted back into the [[Highest Citizenship]] they all shared [[In Common]] did not require that they cancel or revoke any of the [[Lower Order]] affiliations or citizenships they had previously attained. 
 
-It only required that they joyfully take up the [[New]] and Higher Citizenship. 
+It only required that they joyfully and voluntarily take up the [[New]] and Highest Citizenship that was the centerpiece of their [[Collective Inheritance]], and all the [[Rights and Responsibilities]] associated therewith. 
 
-Unlike the previous revolutions that pit [[Us vs. Them]] and destroyed the [[Old]] in order to bring forth the [[New]], this was not a revolution. It was a transcendence. 
+Unlike the previous revolutions that pit [[Us vs. Them]] and tore down the [[Old]], this was not a Manifest Revolution. It was a Transcendent Revelation. 
 
-As they [[Voluntarily]] adopted, and were adopted back into, a [[New]] and [[Highest Citizenship]], they discovered that the [[New Citizenship]] allowed them to retain the very best features of all that humanity had built over the millennia, while also affording the [[Higher Order Functional Unity]] required to partner with [[One]] and [[One Another]] to meet the needs and solve the problems at hand. 
+As they [[Voluntarily]] adopted, and were adopted back into, a [[New]] and [[Highest Citizenship]], they discovered that the [[New Citizenship]] allowed them to retain the very best features of all that humanity had built over the previous millennia, while also affording the [[Higher Order Functional Unity]] required to partner with [[One]] and [[One Another]] to meet the needs and solve the problems at hand, and Co-Create [[Heaven On Earth]]. 
 
-It was as simple as voluntarily taking up a [[New Name]], and voluntarily beginning to act out a [[New Game]], together. 
+It was as simple as voluntarily taking up a [[New Name]], and voluntarily beginning to act out a [[New Game]], together, for the Good of One and All. 
 
 ### Epiphany Seven: One Highest Vision, Aim, and Goal 
 
-[[The Story]] had revealed Who They Were, Where They Were, and How They Got There. The [[Backward Looking Story]] was nearly complete. 
+Before long, [[The Story]] had revealed Who They Were, Where They Were, and How They Got There. The [[Backward Looking Story]] was nearly complete. 
 
-As they began weaving their individual and local stories into a shared [[Forward Looking Story]], they discovered a treasure of immeasurable worth. 
+As they began weaving their individual and local stories into a shared [[Forward Looking Story]], they discovered a Treasure of Immeasurable Worth. 
 
-With each individual and local thread woven, an [[Image]], or [[Vision]], began to appear. As the Vision grew ever more clear, the excitement rippled throughout [[The Movement]]. 
+With each individual and local [[Golden Thread]] woven, an [[Image]], or [[Vision]], began to appear in [[The Tapestry]]. As [[The Vision]] grew ever more clear, excitement rippled throughout [[The Movement]]. 
 
-It turned out that at the [[Deepest]] and [[Highest]] level, they all longed for and desired the same [[Future]]. In their heart of hearts, they all shared the [[Vision]] of [[What Should Be]]. 
+It turned out that at the [[Deepest]] and [[Highest]] level, they all longed for and desired the same [[Future]]. In their heart of hearts, they all shared [[The Vision]] and the [[Divine Blueprints]] of [[What Should Be]]. 
 
-[[The Narrative Universe]] was composed of a diverse array of metaphors, prophesies, hopes, and warnings about the future. On one hand, there were warnings about ending up in places that approached [[Hell On Earth]], imprisoned in Darkness and Oppression for generations. Their ancestors had been warned about the [[Hell]] they were now awakening from, and had proceeded into it anyway. Yet on the other hand, there was a positive and hopeful [[Vision]] of [[Heaven On Earth]] that permeated throughout the prophesies. It leapt off the pages, the Light of Heaven even brighter when contrasted against the Darkness of Hell. 
+[[The Narrative Universe]] was composed of a diverse array of metaphors, prophesies, hopes, and warnings about the future. 
 
-It was a [[Vision]] of [[Perfection]]. The [[Ideal]]. The way things should be. It was as if it were written by Love on the hearts of every being. 
+On one hand, there were warnings about ending up in places that approached [[Hell On Earth]], imprisoned in Darkness and Oppression for generations. Their [[Ancestors]] had been warned about the [[Hell]] they were now awakening from, and had proceeded into it anyway. 
 
-From tribes around the world, the prophesies all pointed to a time when humanity would awaken from a time of deep Darkness, the young and the old would reembrace one another, the masculine and feminine would heal one another, the eagle and the condor would fly together, and from North, South, East and West, people from every tribe, nation and people would return to [[The Great Banquet Table]] at the top of the [[Sacred Mountain]] to rediscover the [[Way]] of the [[One]]. 
+Yet on the other hand, there was a positive and hopeful [[Vision]] of [[Heaven On Earth]] that permeated throughout the prophesies. It leapt off the pages, and the Light of Heaven was even Brighter when contrasted against the Darkness of Hell. 
 
-And it was prophesied that when the [[Knowledge of God]] covered the Earth like floodwaters, the lion would lie down with the lamb, they would beat their weapons into tools of life, and no longer would they train their children to war. 
+It was a [[Vision]] of [[Perfection]]. The [[Ideal]]. The way things [[Should Be]]. It was [[As If]] it were written by Love on the Hearts of every Being. 
+
+From tribes around the world, the prophesies all pointed to a time when humanity would awaken from a time of deep Darkness, the young and the old would reembrace one another, the masculine and feminine would heal one another, the Eagle and the Condor would fly together, and from North, South, East and West, people from every tribe, nation and people would return to [[The Great Banquet Table]] at the top of the [[Sacred Mountain]] to rediscover the [[Way]] of the [[One]]. 
+
+And it was prophesied that when the [[Knowledge of God]] [[Covers The Earth Like Floodwaters]], the lion would lie down with the lamb, they would beat their weapons into tools of life, and no longer would they train their children to war. 
 
 Reunited as [[One Citizenship Under God]], there would be no room for factions, division, or war. [[United As One]], there would be no "them" to war with. 
 
-Perhaps the most magical part of the [[Universal and Eternal]] [[Vision]] of [[Heaven On Earth]] was that it was not only perfect, but it continued to get [[A Little Better Every Day]] as [[All Creation]] worked together in [[Harmony]] to cause it to be so. 
+War would be obsolete. 
+
+Perhaps the most magical part of the [[Universal and Eternal]] [[Vision]] of [[Heaven On Earth]] was that it was not only already perfect, but it continued to get [[A Little Better Every Day]] as [[All Creation]] worked together in [[Harmony]] to cause it to be so. 
 
 And so it was that they rediscovered the [[Creator's Intent]] for [[Worksite Earth]], and adopted it as their one Highest Overarching and Uniting Vision, Aim, and Goal. 
 
 All those who awakened and emerged from [[The Caves]] came to share a deep understanding of Where They Were Going, and [[Why]].  
 
 [[The Promised Land]] beckoned. 
+
+And for the first time in history, it became possible to conceptualize a System purpose-built to bring [[The Vision]] in to Reality. 
 
 ### Epiphany Eight: One Epic Quest Towards Destiny 
 
@@ -1350,7 +1472,7 @@ They also came to understand that [[The Quest]] towards [[The Goal]] Of Greatest
 
 One of the final and most dreadful Challenges was the [[Existential Threat]] posed by [[The Giants]] who guarded [[The Promised Land]]. 
 
-Based on the conditions of those in [[The Caves]], the realities of the [[Meta Crisis]], and the heart of [[Love]] that desired for none to suffer in slavery or perish in [[The Fire]], they patterned [[The Story]] after the idea of One human species aboard [[Vessel Earth]], traveling together through the generations on an epic [[Quest]] towards [[Destiny]]. 
+Based on the conditions of those in [[The Caves]], the realities of the [[Meta Crisis]], and the heart of [[Love]] that desired for none to suffer in slavery, perish in [[The Fire]], or be [[Involuntarily Left Behind]], they patterned [[The Story]] after the idea of One human species aboard [[Vessel Earth]], navigating together through the generations on an epic [[Quest]] towards [[Destiny]]. 
 
 In this part of [[The Story]], the adventure required attempting to [[Move]] the entire human population, [[FROM the Old TO the New]], within a single generation. 
 
@@ -1358,11 +1480,13 @@ The Epic Quest Towards Destiny, towards [[The Goal]] of Greatest Worth, was alre
 
 It was an invitation from [[One]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
 
+It was an Divine Invitation from the Creator to arise, reunite as [[One Body]], and Co-Create the [[Best Possible Future]] for [[All]]. 
+
 ### Epiphany Nine: One Universal War 
 
-As much as they [[All]] hated to admit it, the stories from around the world made it clear that like it or not, they had all been born into a world at war. They had not started the war, but if they ever wanted Peace and Harmony, they would have to finish it. 
+As much as they [[All]] hated to admit it, the Stories from around the world made it clear that like it or not, they had all been born into a world at war. They had not started [[The War]], but if they ever wanted [[Peace]] and [[Harmony]], they would have to finish it. 
 
-While [[The War]] was manifesting in many diverse ways around the world, they came to understand that it was one. While the specific instances all had their unique local flavors, the Patterns that were warring with one another were [[Domain Independent]]. The actors in each locality were different, but the axes of battle were shocking similar. 
+While [[The War]] was manifesting in many diverse ways around the world, they came to understand that it was one [[War of Wars]]. While the specific instances all had their unique local flavors, the Patterns that were warring with one another were [[Domain Independent]]. The Actors in each locality were different, but the axes of battle were shocking similar. 
 
 The ancient stories that were being resurrected and brought together with the New reminded them [[The War]] threatening to engulf the world was not primarily physical or local in nature. 
 
