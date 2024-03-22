@@ -12,7 +12,7 @@ Not unlike Bucky, I am setting out to see what an unknown individual, operating 
 
 I deeply value the ability to cross-check and triangulate logic. 
 
-This is a long post, but I believe crucial reading to anyone who wants to understand the [[New Vision and Plan]].  Without understanding the the entire current order is fraudulent and about to [[Collapse]], a [[10 Year Grand Strategy]] to move All Humanity [[FROM the Old TO the New]] will not make any sense, and some might be tempted to waste time looking for political or economic solutions within the Existing Order that is Collapsing on them. 
+This is a long post, but I believe crucial reading to anyone who wants to understand the [[New Vision and Plan]].  Without understanding that the entire current order is fraudulent and about to [[Collapse]], a [[10 Year Grand Strategy]] to move All Humanity [[FROM the Old TO the New]] will not make any sense, and some might be tempted to waste time looking for political or economic solutions within the Existing Order that is Collapsing on them. 
 
 For more on the role of the [[Invisible Power Structures]] and [[The Giants]] see [[Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It]].  It is crucial to link the "Deep State" elements in with the issues below, and that post traces the rise of The Blob of state actors post [[World War II]].  
 
@@ -26,7 +26,7 @@ Bucky’s insight into the English Empire as the first closed-loop world system,
 
 The [[Lionsberg System]] is purpose built for this objective. 
 
-Everything else becomes possible as reunite and become [[One Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
+Everything else becomes possible as we reunite and become [[One Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
 
 Most of the words below are Bucky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. This is the [[Way]] we Co-Create the [[New]]. 
 
@@ -39,7 +39,7 @@ The [[10 Year Grand Strategy]] can be thought of in two parallel streams:
 
 To build [[The Movement]], [[Light Your Candle]], [[Pass The Flame]], and illuminate the Darkness. 
 
-As we become [[One Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. 
+As we become [[One Body]] and [[Progress]] out of [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. 
 
 This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand. 
 
@@ -97,7 +97,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 	- 2. The Individual’s comprehensive informedness   
 	- 3. The individual’s integrity of speaking and acting only on the individual’s own self-intuited-and-reasoned [[Initiative]]  
 	- 4. The Individual’s joining action with others, as motivated only by the individually conceived consequences of so doing.  
-	- 5. The Individual’s never-joining action with others, as motivated by crowdgenered emotionalism, political or ideological propaganda, or in fear of holding to the course of one’s own Spiritual and Intellectual convictions. 
+	- 5. The Individual’s never-joining action with others, as motivated by crowd-generated emotionalism, political or ideological propaganda, or in fear of holding to the course of one’s own Spiritual and Intellectual convictions. 
 - We are seeking to discover what can be accomplished by relatively penniless, unknown Individuals, co-operating only on behalf of and in service to the Creator, All Humanity, and All Creation…
 - …Which Omni-Considerate advantaging task, attemptable by us as individuals, is inherently impossible of accomplishment by any nation, enterprise, religion, or other multi-peopled, bias-fostering combination thereof. 
 - To be our Selves, and nobody else, in a world which is doing its best day and night to make you everybody else, means to fight the hardest battle which any human being can fight, and to never stop fighting. 
@@ -129,7 +129,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - The answer is absolutely yes. It is entirely possible for every family on Earth in the [[New Era]] to enjoy a [[Standard Of Living]] and [[Quality Of Life]] that is [[Better]] than what *Any* has enjoyed in the past.  
 - The overall design of humanity’s present social, economic, and political structuring and the physical technology it uses ***wastes 90 to 95 out of every 100 units of the energy it consumes***.
 - Neither the great political and financial power structures of the world, nor the specialization-blinded professionals, nor the population in general realize that sumtotally the omni-engineering-integratable, invisible revolution in the metallurgical, chemical, and electronic, and energetic arts now makes it possible to do so much more with ever fewer pounds and volumes of material, ergs of energy, and seconds of time per given technological function that... 
-- ...***it is now highly feasible to take care of everybody on Earth at  a “higher standard of living than any have ever known.***  
+- ...***it is now highly feasible to take care of everybody on Earth at  a higher standard of living than any have ever known.***  
 - It no longer has to be you or me. It no longer *can* be you or me. It is [[Everything For Everyone Or Oblivion]]. [[War Is Obsolete]]. 
 
 ### Weaponry to Livingry 
@@ -276,7 +276,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - Because of ancient arms-accomplished seizure of land by the most physically powerful... and the subsequent arms-induced blessing of the seizures by power-ordained "ministers of God," royal deeds to land were written as assumedly God-approved and guaranteed covenants. 
 - Landlordism has become an accepted phenomenon as seemingly inevitable as the weather. 
 - ***“Land “ownership” and its omni-dependent comprehensive thing-ownership involvements and their legal-documents-perpetuations constitute the largest socioeconomic custom error presently being maintained by a large world affairs-affecting segment of humanity.”***
-- ***“What is new is that humanity has gone as far as it can go with this significant error and is in final examination as to whether it can free itself from its misconditioned reflex straightjacket in time to pull out of its greatest-in-all-history, error-occasioned tailspinning into eternity. We do have both the knowledge and the technical means to do so if we do it quickly enough.”***
+- ***“What is new is that humanity has gone as far as it can go with this significant error and is in final examination as to whether it can free itself from its misconditioned reflex straitjacket in time to pull out of its greatest-in-all-history, error-occasioned tailspinning into eternity. We do have both the knowledge and the technical means to do so if we do it quickly enough.”***
 - In non-coincidental timing laying another piece of groundwork for the [[10 Year Grand Strategy]], on March 30, 2023, the Vatican formally repudiated the [[Doctrine Of Discovery]] upon which North Americans came to dispossess the Native American stewards of God’s land. 
 - While the Vatican had no jurisdiction over [[Turtle Island]] then, or now, the only apparent source of authority justifying the American confiscation of [[Turtle Island]] from the Indigenous tribes has now been invalidated, which invalidates the Supreme Court decisions based upon it. 
 - The Vatican said in the statement: “The Catholic Church therefore repudiates those concepts that fail to recognize the inherent human rights of Indigenous peoples, including what has become known as the legal and political [[Doctrine Of Discovery]].”
