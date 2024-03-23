@@ -5,7 +5,7 @@ Okay, **you are a brand new person arriving here** in the [[Meta Project]] and w
 Let's provide a badge for each skill and a mastery badge to indicate an eagerness to train the skill. Here is an initial list. What's missing?
 
 - [[Collective Intelligence]]  
-- [[Conflict Resolution]]  
+- [[Transforming Conflict]]  
 - [[Conversational Literacy]]  
 - [[Curation]]  
 - [[Passions Identification]]  

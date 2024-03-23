@@ -1,5 +1,7 @@
 # Tools
 
+See also [[The Lionsberg Toolkit]]. 
+
 In the context of the Lionsberg System, [[Tools]] are objects, concepts, or systems that serve to facilitate the achievement of individual or collective goals. They provide specific [[Affordances]], or opportunities for action, that enable individuals and groups to navigate the various dimensions of their lives, including physical, mental, social, and spiritual aspects.
 
 Tools within the Lionsberg System can be categorized in various ways, such as:

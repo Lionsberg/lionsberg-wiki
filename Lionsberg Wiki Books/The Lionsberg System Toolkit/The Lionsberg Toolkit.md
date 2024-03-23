@@ -1,19 +1,52 @@
 # The Lionsberg Toolkit
 
+This page is a placeholder / [[Work In Progress]]. 
+
+If you need a Tool or a Solution to a problem or challenge you are facing, email J@Lionsberg.org. We likely have something available. 
 ## Misc Tools
-- [[Everything Is A Process]]  
+
+- [[Above The Chaos]]  
+- [[The Lionsberg Co-Creator Handbook]]  
+- [[Lionsberg Wiki Books]]  
+- [[The Book of Lionsberg]]  
+- [[Lionsberg Invitation|The Invitation]]   
+- [Join The Movement](https://jordannicholas.org/join_the_movement)  
+- [[Frequently Asked Questions]]  
+- [[Lionsberg Case Studies]]  
 - [[Everything Is A Project]]  
+- [[Forge or Join a Group]]  
 - [[Template For Group]]  
+- [[Domains of Responsibility and Authority]]  
+- [[Roles]]  
+- [[Template For Roles]]  
+- [[Functional Accountability]]  
+- [[Functional Accountability Chart]]  
+- [[Decision Making]] 
+- [[Proposals]] 
+- [[Template For Proposals]]  
+- [[Range of Tolerance]]  
+- [[Consent]]  
+- [[Meaningful Objection]]  
+- [[Quests]]  
+- [[Quarterly Quests]]  
+- [[Everything Is A Project]]   
+- [[Template For Project]]  
+- [[Project Delivery Guide]]  
+- [[Project Management Hygiene]]  
+- [[Identifying And Solving Issues]]  
+- [[Issue Tracker]]  
+- [[Transforming Conflict]]    
 - [[Template For Pattern Language (Detailed)]] 
 - [[Tool For Aiming]]  
 - [[Organizations The Lionsberg Way]]  
 - [[Project Delivery Guide]]  
+- [[Your Story]] 
 
+## The Lionsberg System Toolkit
 
-## **COMING SOON!** 
+Below is (something like) where we might want to go as we develop. 
 
-### Chapter 34: The Lionsberg System Toolkit
-
+### The Lionsberg System Toolkit - Overview 
 #### 34.1 Overview of the Lionsberg System
 
 #### 34.2 Introduction to the Lionsberg System Toolkit
@@ -28,7 +61,7 @@
 
 #### 34.7 Training, Mentoring, and Support For Your Quest
 
-### Chapter 35: Lionsberg Tools for Personal Transformation
+## Tools for Personal Transformation
 
 #### 35.1 Implementing the Lionsberg System at the Individual Level
 
@@ -47,7 +80,7 @@
 -   Envisioning, Prioritizing and Implementing Individual-Based Projects and Initiatives
 -   Personal assessment and transformation tools
 
-### Chapter 36: Lionsberg Tools for Group Transformation
+## Tools for Group Transformation
 
 #### 36.1 Implementing the Lionsberg System at the Group Level
 
@@ -66,7 +99,7 @@
 -   Envisioning, Prioritizing and Implementing Group-Based Projects and Initiatives
 -   Group assessment and transformation tools
 
-### Chapter 37: Lionsberg Tools for Community Transformation
+## Tools for Community Transformation
 
 #### 37.1 Implementing the Lionsberg System at the Community Level
 
@@ -85,7 +118,7 @@
 -   Envisioning, Prioritizing and Implementing Community-Based Initiatives and Projects
 -   Community assessment and transformation tools
 
-### Chapter 38: Lionsberg Tools for Systemic Transformation
+## Tools for Systemic Transformation
 
 #### 38.1 Implementing the Lionsberg System at the Systems Level
 
@@ -106,7 +139,7 @@
 -   Tools for Advocacy and Systemic Change
 -   Building Alliances and Networks for Systemic Transformation
 
-### 39 Additional Tools
+## Additional Tools
 
 #### 39.1 Vision and Story Tools
 
