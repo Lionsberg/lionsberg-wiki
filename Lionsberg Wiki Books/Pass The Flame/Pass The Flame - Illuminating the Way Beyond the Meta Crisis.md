@@ -6,9 +6,9 @@ By [[Jordan Nicholas Sukut]]
 
 Look. There is no easy Way to tell you The Story that follows. 
 
-I beg you to listen. Everything is at stake. I cannot bear to look ahead and see the Vision of our children or grandchildren suffering in the [[Chaos]] that lies at the end of our current trajectory. The default outcome of our present course of horrific. 
+I beg you to listen. Everything is at stake. I cannot bear to look ahead and see the Vision of our children or grandchildren suffering in the [[Chaos]] that lies at the end of our current trajectory. The default outcome of our present course is horrific. 
 
-Any System divided against itself cannot stand, and the existing [[Order]] we thought we were living in is failing. 
+Any System divided against itself cannot stand, and the existing [[Order]] we thought we were living in is accelerating towards [[Collapse]]. 
 
 But the Good News is there is Hope. 
 
