@@ -1364,11 +1364,13 @@ As the vast diversity of individual and local stories poured forth from [[All]] 
 
 As they worked to find out what was Common among their Stories, they discovered that the Deepest and Highest elements of their stories were shared, and that the Deeper and Higher the element was, the more Universally and Eternally it applied. 
 
-The began to understand the concepts of Depth and Domain Independence, which in turn Progressively Revealed [[All]] they shared [[In Common]]. 
+They began to better understand the concepts of Depth and Degree Of Domain Independence, which in turn Progressively Revealed [[All]] they shared [[In Common]]. 
 
-They progressively realized that they were interexisting within One Living System that co-operated according to a set of Universal and Eternal Principles and Patterns. 
+As they traced the [[Golden Thread]] ever Deeper and Higher, they progressively realized that they were interexisting within One Living System that co-operated according to a set of Universal and Eternal Principles and Patterns as [[One Body]]. 
 
 The Highest and Deepest Principles, Patterns, and Values showed up over and over again as the [[Golden Thread]] that United the diverse array of [[Special Case]] individual and local instances. 
+
+From [[One]], the array of [[Archetypes]]. From the Archetypical, the Prototypical. From the Prototypical, the various Instantiations and Incarnations, localized and adapted.  
 
 They discovered that the Personalities reflected in their stories arrayed themselves around a diverse-yet-finite set of [[Archetypes]]. The [[Archetypes]] were like [[Ideals]] that defined [[The Essence]] of a [[Category]]. 
 
@@ -1378,11 +1380,11 @@ And they discovered that the Experiences reflected in their stories arrayed them
 
 The more they articulated and listened to their Stories, the more they came to understand [[The Story]] of the interexistence of humanity and All Creation aboard [[Worksite Earth]]. 
 
-They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common was also something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[One]] Coherent and Intelligible [[Narrative Universe]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]]. 
+They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common reflected something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[One]] Coherent and Intelligible [[Archetypical Narrative Structure]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]]. 
 
 The Deeper they came to understand [[The Story]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed that they were the only ones who dreaded their existence in [[The Caves]]. They had assumed they were the only ones who harbored these deep [[Fears]], [[Desires]], and [[Aspirations]]. They had assumed they were the only ones who longed for a [[Better World]] in which they were Free. 
 
-As they shared, and as they listened, they realized that they were profoundly United not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, fears, and desires. And beyond this, as [[The Story]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared One Destiny; they would either succeed or fail [[Together As One]]. 
+As they shared, and as they listened, they realized that they were profoundly United not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, fears, and desires. And beyond this, as [[The Story]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared One [[Destiny]]; they would either succeed or fail [[Together As One]]. 
 
 The Image of [[The Story]] grew more beautiful and clear day by day, as more and more individuals, families, tribes, and nations awakened, shared, listened, and wove the [[Golden Thread]] of [[The Tapestry]] back together. 
 
