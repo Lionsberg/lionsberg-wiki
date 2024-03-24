@@ -87,7 +87,7 @@ One of the members working on the layout of the church was a local grocer. "Wher
 
 "That is a wonderful question," the Builder replied. "Let us review the [[Plans and Specifications]] together and see, perhaps you could help improve them." They explored the design for a large cobblestone Main Street coming off Town Square, with local shops to provision the families of [[The Great City]]. As they talked, the grocer and the Builder began excitedly drawing plans for the layout of the store, the discussing the [[Supply Chains]] that would provision it. 
 
-The next day the Builder climbed the [[Way]] up to the [[Sacred Mountain]] as he did every day, studying and praying over the Plans and [[Progress]], and asking God to reveal and direct their [[Next Steps]]. As he was praying, a childhood friend from The Valley who had grown up alongside the Builder approached him and startled him out of his prayers. "I have been praying on [[The Mountain]] this morning," the friend said abruptly. "I hoped I would find you here. I am deeply troubled by your dangerous plan to build this City." He also cared deeply about the town, but felt strongly that any plan for Hope needed to involve working to transform The Valley below from within. "Your creative ideas are dangerous. You are up here trying to build a City in the clouds, while we are down in the trenches of The Valley fighting the true battle. God did not tell me to build a City on a Hill, God told me we need to rebuild Boundaries and Protections against the threats [[At Hand]]. We should not be wasting Time even thinking about the [[New]] until the [[Existing Order]] is secure." 
+The next day the Builder climbed the [[Way]] up to the [[Sacred Mountain]] as he did every day, studying and praying over the Plans and [[Progress]], and asking God to reveal and direct their [[Next Steps]]. As he was praying, a childhood friend from The Valley who had grown up alongside the Builder approached him and startled him out of his prayers. "I have been praying on [[The Mountain]] this morning," the friend said abruptly. "I hoped I would find you here. I am deeply troubled by your dangerous plan to build this City." He also cared deeply about the town, but felt strongly that any plan for Hope needed to involve working to transform The Valley below from within. "Your creative ideas are dangerous. You are up here trying to build a City in the Clouds, while we are down In The Trenches of The Valley fighting the true battle. God did not tell me to build a City on a Hill, God told me we need to rebuild the Boundaries and Protections against the [[Existential Threats]] [[At Hand]]. We should not be wasting Time even thinking about the [[New]] until the [[Existing Order]] is secure." 
 
 The Builder put his hand on his friends back. His friend was angry and stiff. "I agree with you brother that we must build boundaries for The Valley below. The threats at hand are indeed Great. I am a Builder and I know well how to build boundaries. Perhaps God has laid a [[Diversity]] of plans on the hearts of those uniquely called to [[Embody]] and [[Enact]] them. Perhaps what God has shown you is Wise, Right, and Good and needs to happen, and what God has shown me is Right and Good too. I bear witness with the Wisdom of your plan and would be glad to [[Help]] you. Would you be willing to help me as well? Perhaps we could share teams and logistics as we work to fortify the Old and build the New together."
 
@@ -434,7 +434,7 @@ As things began to get more clear around 10 or 12 years old, the calling laid it
 
 The Giants enslaving us and concealing our [[True Identity]] and [[Collective Inheritance]] would have to be forthrightly confronted and overcome. 
 
-When one attempts to walk a primarily Spiritual Path in a Physical Embodiment, they must continually struggle to stay oriented in [[Reality]]. [[Physical Reality]] is so apparent, and [[Metaphysical Reality]] so Deep, that it is sometimes difficult to remember which Realm you are in and what is most Real. This is why the Path can only be walked in Partnership-Continually-Approaching-Unity with [[God]]. [[God]] was kind enough to regularly send strong reminders and [[Prophesies]] along the [[Way]] to keep me relatively oriented through my Journey, sometimes through trusted elders who would receive a Word for me while Praying and be brave enough to share it, and other times when a stranger would grab my shoulders on the street, look into my eyes, and deliver a Message or tell me what they Saw that confirmed The Message and Vision within.  
+When one attempts to walk a primarily Spiritual Path in a Physical Embodiment, they must continually struggle to stay oriented in [[Reality]]. [[Physical Reality]] is so apparent, and [[Metaphysical Reality]] so much Deeper, that it is sometimes difficult to remember which Realm you are in and what is most Real. This is why the Path can only be walked in Partnership-Continually-Approaching-Unity with [[God]]. My[[Heavenly Father]] was kind enough to regularly send strong reminders and [[Prophesies]] along the [[Way]] to keep me relatively oriented through my Journey, sometimes through trusted elders who would receive a Word for me while Praying and be brave enough to share it, and other times when a stranger would grab my shoulders on the street, look into my eyes, and deliver a Message or tell me what they Saw that confirmed The Message and Vision within.  
 
 ### Relative Riches and Security, Shattered
 
@@ -796,17 +796,17 @@ One day the builder called me, conveyed his respect for me and my work, told me 
 
 Recognizing that the church was on the brink of a setback that would cost the congregation multiple years and millions of dollars to redesign the project, and needing to learn, I was impelled to say yes. 
 
-What followed the most toxic, ungoldly project environment I have ever been a part of. A little financial pressure, a little political fear, and the church leadership revealed its true colors. As they did, more and more families spoke up about their own experiences, confirming a long pattern of deceit, abuse, and threats to silence dissenters. 
+What followed the most toxic, ungoldly project environment I have ever been a part of. A little financial pressure, a little political fear, and the church leadership revealed its true colors. As they did, more and more families spoke up about their own experiences, eventually revealing a long pattern of deceit, abuse, threats, and ostracization to silence dissenters. 
 
-By the time I was being coerced by the leaders into questionable financial arrangements to intentionally conceal things from the congregation in order to protect the positions and power of the leaders, I started reaching out to other elders and current and former staff for insight and assistance. The warnings I received from multiple people with personal experience were things like "be careful Jordan, you may not know what you are dealing with. I have come to the conclusion that these guys are evil..." and "I would have absolutely no hesitation to take these guys to court. Don't be confused and think you are dealing with a church or a spiritual organization. You are dealing with a corrupt family business..." etc. 
+By the time I was being induced and coerced by the leaders into questionable financial arrangements to intentionally conceal things from the congregation in order to protect the positions and power of the leaders, I started reaching out to other elders and current and former staff for insight and help. The warnings I received from multiple people with personal experience were things like "be careful Jordan, you may not know what you are dealing with. I have come to the conclusion that these guys are evil..." and "I would have absolutely no hesitation to take these guys to court. Don't be confused and think you are dealing with a church or a spiritual organization. You are dealing with a corrupt business..." etc. 
 
-As more and more stories and warnings poured forth, I realized I was dealing with wolves in sheep's clothing who were actively betraying Spirit, Truth, and Justice and taking advantage of the innocent and unaware for their own positions and power. 
+As more and more stories and warnings poured forth, I realized I was dealing with wolves in sheep's clothing who were actively betraying Spirit, Truth, and Justice and taking advantage of the innocent and unaware to buttress their own positions and power. 
 
-Now caught in the financial stranglehold they devised to deceive the congregation, I had the senior pastor visit me at my house, and sit down in my backyard. After a long conversation in which I reiterated how much damage they were causing, how many families they were harming, and the profound injustice of the course of dealings, the simple remedies, and my basic request for relief, he asked me the strangest question I have ever heard. My best recollection is: 
+Now caught in the financial stranglehold they devised to deceive the congregation, and in conversation with other senior congregants about what to do about it, I had the senior pastor visit me at my house and sit down in my backyard. After a long conversation in which we discussed how much damage they were causing to the congregation and our business, co-workers, and trade partners, how many families they were harming, and the profound deceit and injustice of the course of dealings, he asked me the strangest question I have ever heard. My best recollection is: 
 
 _"Jordan, when Jesus stood before Pontius Pilate, do you think he was treated fairly?"_
 
-Stunned, I paused for a while, before saying, "No, I don't think Jesus was treated fairly by Pontius Pilate."
+Stunned, I paused for a while. The question hit shockingly deep. I finally said, "No, I don't think Jesus was treated fairly by Pontius Pilate."
 
 _"And how did he handle it?"_
 
@@ -814,90 +814,98 @@ Blank stare.
 
 _"He suffered in silence."_
 
-_"And I would suggest you do the same. You are right. You are not being treated fairly. We have already told you that we can make this go away, but that is going to be pretty difficult if you are going around telling people you were treated unfairly."_
+_"And I would suggest you do the same. You are right. You are not being treated fairly. We have already told you that we can make this go away, but that is going to be pretty difficult for us to do if you are going around telling people you were treated unfairly. So I would suggest you silence yourself."_
 
-I was later offered financial relief in exchange for silence. I declined, for the simple reason that I could sacrifice thousands of families who would continue to be harmed and deceived in the future by this particular Nest of Vipers, in exchange for my own family's security and relief. 
+I was later presented a formal offer of complete financial relief, in exchange for silence and taking on a $250,000 tax liability so they could keep the lies straight on their books. I declined, for the simple reason that I could not through my silence sacrifice thousands of families who would continue to be harmed and deceived in the future by this particular Nest of Vipers, in exchange for my own family's security and relief. 
 
-Not surprisingly, as I refused to be silent, the relief never came, the pressure got worse, and the Vipers got colder. After 20 years of service and "friendship" with the leaders, my wife's father was abruptly fired by the "church" and had his health insurance terminated in the midst of a major health crisis. My wife's mother was asked to stop teaching the bible study she had taught for 20 years. We were publicly slandered and defamed. 
+Not surprisingly, the pressure got worse, and the Vipers got colder. After 20 years of service and "friendship" with the leaders, my wife's father was abruptly fired by the church oligarchs and had his health insurance terminated in the midst of a major health crisis. My wife's mother was asked to stop teaching the bible study she had taught for 20 years. We were slandered and defamed. 
 
 No number of pleas on behalf of the many impacted families and businesses could break the stone cold hearts of those publicly masquerading on top of the hill as spiritual leaders and exemplars, drawing in the unaware, and fleecing the young and the elderly in their flock. 
 
-It turns out that our family was not the only one to be hit up for money on the deathbed or at the funeral of a wealthy relative. It turns out our family was not the only one bullied, threatened or offered money in exchange for silence. It turns out our family was not the only one publicly slandered and defamed. It turns our our family was not the only one betrayed. It turns out our family was not the only one unaware the "pastor" was taking many tens of thousands of dollars in personal fundraising bonuses and illegally expensing personal luxuries, perks and educational expenses for his family, while suggesting we forgo our daily cup of coffee to find more money to chip in. It turns out that the staff lived in fear and wouldn't speak up because in addition to their pay packages, the Church held mortgages on most of their homes, and controlled the insurance paying for treatment of sick family members. Many staff knew and confessed their awareness of the corruption they were a part of and benefitting from, while remaining in silence. Former staff expressed shame for participating in the past. In the pews each Sunday, the congregation of sheep were unaware they were being shepherded by Wolves. 
+It turns out that our family was not the only one to be hit up for money on a deathbed or at the funeral of a wealthy relative. It turns out our family was not the only one bullied, threatened or offered money in exchange for silence. It turns out our family was not the only one publicly slandered and defamed. It turns our our family was not the only one betrayed. It turns out our family was not the only one unaware the "pastor" was taking many tens of thousands of dollars in personal fundraising bonuses and illegally expensing personal luxuries, perks and educational expenses for his family, while suggesting we forgo our daily cup of coffee to find more money to chip in. It turns out that the staff lived in fear and wouldn't speak up because in addition to their pay packages, the Church held mortgages on most of their homes, and controlled the insurance paying for treatment of sick family members. Many knew and confessed their awareness of the corruption of the system they were a part of and benefitting from, while the combination of dependency and fear kept them co-operating the system in silence. Former staff expressed shame for participating in the past. In the pews each Sunday, the congregation of sheep were unaware they were being shepherded by Wolves. 
 
-As we spoke, the stories of multiple other families echoed back, gradually illuminating the Darkness concealing itself under the cloak of "church."
+As we spoke up about our own experiences, the stories of multiple other families echoed back, gradually illuminating the Darkness and Corruption concealing itself under the cloak of "church," and continuing to draw in visitors and members unaware. 
 
-The good news is that through our story, Darkness and Deceit were exposed, families and friendships broken and confused over Time by the lies and slander of the leaders were healed, and eventually, the congregation will liberate them Selves. 
+The good news is that through our story, Darkness and Deceit were exposed, and some families and friendships broken and confused over Time by the lies and slander of the leaders were healed as the Truth came to light. 
 
-To this day, the Wolves still hide and stand guard behind the gates at the shiny new building on top of the hill, constructed upon the foundation of toxic ungodliness, manipulation, and deceit they laid, and permeated by the ill-gotten resources they gathered from the youth and widows they plundered, and the congregations they deceived and betrayed. I say congregations because there was more than one. Their time is soon coming to an end, along with the spirit possessing them and inducing them to deceive and oppress the weak and vulnerable in the name of God. We The People will no longer stand for it.  
+To this day, the Wolves still hide and stand guard behind the gates of the shiny new building on top of the hill, constructed upon the foundation of toxic ungodliness, manipulation, and deceit they laid, and permeated by the ill-gotten resources they gathered from the youth and widows they plundered, and the congregations they deceived and betrayed. I say congregations because there was more than one. 
 
-I am deeply ashamed I ever sat at their tables of honor, and I apologize for being complicit in inadvertently propping up their structure of injustice through my time, tithes, and participation. My naive consciousness was unaware. I am learning, and will do better. Perhaps it was necessary to intimately watch for 20 years a spirit of Darkness conceal itself in plain sight underneath the cloak of Religion. It is so obvious in hindsight, and so many red flags and strange conversations and occurrences now make sense. Pay attention to the red flags, and may the cleansing Light of Our Story and the stories of others courageous enough to Speak rid South Shores Church of the predators and parasites still deceitfully nested within. 
+The time of such such false religious leadership is now coming to an end, along with the spirit possessing them and inducing them to deceive and oppress the weak and vulnerable in the name of God. We The People will no longer stand for it.  
+
+I am deeply ashamed I ever sat at their tables of honor, and I apologize to the other families who were harmed for being complicit in inadvertently propping up their structure of injustice through my time, tithes, and participation. I am sorry I believed the slander they spread about you without personally inquiring and clearing things up. 
+
+My naive consciousness was unaware. I am learning, and will do better. Perhaps it was necessary to intimately watch for 20 years a spirit of Darkness conceal itself in plain sight underneath the cloak of Religion. It is so obvious in hindsight, and so many red flags and strange conversations and occurrences now make sense. 
+
+I pray that the cleansing Light of Our Story and the stories of others will begin to rid our churches and institutions of the predators and parasites still deceitfully nested within. 
 
 I always wondered how a coach at a university, or a pastor at a church, or a politician in an office, could go on for so many years abusing and exploiting people. How could it be possible for such a thing to last for so many years, and victimize such a long stream of families? Why don't people speak up? Why are they threatened and ostracized by the Institution when they do? Why do institutional immune systems tend to reject speakers of Light and Truth, while protecting the predators and parasites within? 
 
-We have some deep, deep institutional cleansing to do. I am afraid the infestation of our systems and structures of governance and religion are far deeper and more encompassing than we want to admit. Not just in one domain, but via the permeating spirit of Darkness and Deceit infecting countless domains. Massive Light, and massive decentralization and purging of the centers of falsely accumulated religious, political, and socioeconomic Authority is required. The vast majority of the institutions of the Old World are corrupted beyond repair, and already passing away. A New Spirit and a New Era is emerging, whose Aim is Elevate and Enlighten, Regenerate and Renew, the world. 
+We have some deep, deep institutional cleansing to do. I am afraid the infestation of our systems and structures of governance and religion are far deeper and more encompassing than we want to admit. Not just in one domain, but via the permeating spirit of Darkness and Deceit infecting countless domains. Massive Light, and massive decentralization and purging of the centers of falsely accumulated religious, political, and socioeconomic power is required. The vast majority of the institutions of the Old World are corrupted beyond repair, and already passing away. 
 
-*"...and they love the place of honor at banquets, and the seats of honor in the synagogues, and personal greetings in the marketplaces, and being called Rabbi by the people. But as for you, do not be called Rabbi; for only One is your Teacher... But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven in front of people; for you do not enter it yourselves, nor do you allow those who are entering to go in."*
+The good news is that a New Spirit and a New Era is rising, whose Aim is to Elevate and Enlighten, Regenerate and Renew, the world. 
+
+*"...And they do all their good deeds to be noticed by other people...and they love the place of honor at banquets, and the seats of honor in the synagogues, and personal greetings in the marketplaces, and being called Rabbi by the people. But as for you, do not be called Rabbi; for only One is your Teacher, and you are all brothers and sisters... But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven in front of people; for you do not enter it yourselves, nor do you allow those who are entering to go in... Woe to you blind guides... you fools and blind men!... for you tithe (herbs)... and neglect... Justice and Mercy and Faithfulness... You blind guides, who strain out a gnat and swallow a camel! Hypocrites! For you clean the outside of the cup... but inside are full of robbery and self-indulgence...Hypocrites! You are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and uncleanliness... You snakes, you brood of Vipers, how will you escape the sentence of hell?"*
 ### Part II: The CEO of the Largest County in the Great Empire 
 
 As The Story goes, as the self-proclaimed religious elite gnashed their teeth, threatened, and tried to strangle us into silence, it was ultimately the Chief Executive of the largest County in the Greatest Empire of History who personally ordered the final blow and liberated us from our Old Life. 
 
-Early in the history of our young company, I found myself in the extraordinary position of being entrusted with a project to stabilize an existing dam in the mountains of California whose potential failure threatened the communities below and above. The project was unique in that it was a relatively high risk and technical operation to attempt the stabilization while the water was still in the reservoir. This was the first attempt of its kind, bringing a high level of local and State scrutiny. 
+Early in the history of our young company, I found myself in the extraordinary position of being entrusted with a project to stabilize an existing dam in the mountains of California whose potential failure threatened the safety of communities below and above. The project was unique in that it was a relatively high risk and technical operation to attempt the stabilization while the water was still in the reservoir. This was the first attempt of its kind, which brought a high level of local and State scrutiny. 
 
-Technical details aside, as our team got into the project we discovered some significant flaws in the County's pre-construction work that put the project at risk. It was election season, and in a very unusual turn of events, the County Chief Operating Officer was assigned personal responsibility for its successful resolution. He in turn reached out to me personally, acknowledging the deep problems and corruption in the County bureaucracy, outlining the changes he was going to be making, and requesting my personal support to work with him to solve the problems. Since I had a President and executive staff running the company, it was quite unusual for a public official in his position to go over the head of my staff, and instruct me to ignore his staff, which he said would be changing, in order to collaborate to solve the issues. I had heard that he sometimes held himself out as a pastor or Christian leader of some kind, and he claimed he was cleaning up the issues and fighting corruption, and so I decided to trust him. 
+Technical details aside, as our team got into the project we discovered some significant flaws in the County's pre-construction work that put the project at risk. It was election season, and in a very unusual turn of events, the County Chief Operating Officer was assigned personal responsibility for its successful resolution and began attending the weekly project meetings. He in turn reached out to me personally, acknowledging the deep problems and corruption in the County bureaucracy, outlining the changes he was going to be making, and requesting my personal support to work with him to solve the problems. Since I had a President and executive staff running the company, it was quite unusual for a public official in his position to go over the head of my staff, and instruct me to ignore his staff, which he said would be changing, in order to collaborate to solve the issues. I had heard that he sometimes held himself out as a pastor or Christian leader of some kind, and he claimed he was cleaning up the issues and fighting corruption. I decided to trust him and do my best to help ensure a successful outcome. 
 
 It is not up to me to say whether we succeeded, but the outcome was that he was promoted to CEO, the County Supervisor was reelected, the community was happy, and the powers that be were impressed enough that we stood together, spoke together, prayed together, and received formal recognition from the County board of supervisors, the California State Assembly, and the California State Legislature in a ceremony on top of the dam to mark its completion. 
 
-What I was naively unaware of at the time was that this County was one of the most notoriously corrupt in the Empire. In my class on pledging allegiance to the flag and swallowing national propaganda, they had forgotten to inform me that our government was abjectly corrupted throughout, from local levels all the way up to the [[Invisible Power Structures]] puppeting the [[Visible Power Structures]] and colluding at the highest imaginable levels. By cooperating at the highest executive levels in service of the public good, we had shown Light into the Darkness and created enemies within the layers of Deep Bureaucracy below. It turns out that forces of Darkness hiding below are not fond of the Light. 
+What I was naively unaware of at the time was that this County was one of the most notoriously corrupt in the Empire. In my class on pledging allegiance to the flag and swallowing national propaganda, they had forgotten to inform me that our government was abjectly corrupted throughout, from local levels all the way up to the [[Invisible Power Structures]] puppeting the [[Visible Power Structures]] and colluding at the highest imaginable levels supranationally. By cooperating at the highest executive levels in service of the public good, we had shown Light into the Darkness and created enemies within the layers of Deep Bureaucracy below. It turns out the corrupt and unfaithful Actors hiding in the Darkness below are not fond of the Light. 
 
-Unaware of our hidden self-proclaimed adversaries, encouraged by the success, and now having great what appeared to be extraordinary relationships at the highest levels, we bid on and won the next local reservoir project. 
+Unaware of our hidden self-proclaimed adversaries, encouraged by the tremendous success, and now having great what appeared to be extraordinary relationships at the highest levels, we bid on and won the next reservoir project. 
 
 Upon the arrival of the triumphant team from the first project onto the second, we were informed by County agents that it would be our last project, and that we would never work in the industry again. 
 
 After a long and torturous course of events, they eventually fulfilled their promise. 
 
-Our people were threatened. Our work was obstructed. Evidence was fabricated. Scientific data manipulated and concealed. Losses snowballed, and the company slowly began to bleed out. In what advisors later concluded was likely an attempt to entrap and imprison, bribes were solicited multiple times, with County staff inquiring how big my pocket book was as the pressure was ratcheted up. 
+Our people were threatened. Our work was obstructed. Evidence was fabricated. County agents conspired. Scientific data manipulated and concealed. Losses snowballed, and the company slowly began to bleed out. In what advisors later concluded was likely an attempt to entrap and imprison me, bribes were solicited multiple times, with County staff inquiring how big my pocket book was as they ratcheted up the pressure. 
 
-I naively anticipated that the now CEO would of course come to our aid and set things right. 
+I naively anticipated that the CEO I had helped boost into his position would of course come to our aid and set things right. 
 
-Numerous meetings. The torture continued, and we continued to financially bleed out, now under the full personal knowledge and oversight of the CEO and COO of the County. 
+Numerous meetings. Numerous promises to help. The torture continued, and we continued to financially bleed out, now under the full personal knowledge and oversight of the CEO, COO, and Human Resources Director of the County. 
 
-We eventually located and retained an ex Federal Judge who was an expert in corruption and civil rights, and had recently won a separate judgment of tens of millions of dollars for another local developer who ended up on the wrong side of the same bureaucracy, and in jail on false charges. 
+After a lengthy struggle to find someone qualified to help us navigate the complex civil rights and corruption issues, we eventually located and retained an ex Federal Judge who had recently won a separate judgment of tens of millions of dollars for another local developer who ended up on the wrong side of the same bureaucracy, and in jail on false charges. 
 
-As we bled out financially, we sold our home and liquidated all our investments, and poured everything into attempting to stay alive long enough to articulate the claims and save as many jobs of our co-workers as we could. Surely the County Chief would save us. 
+As we bled out financially, we sold our home and liquidated all our investments, and poured everything into attempting to stay alive long enough to articulate the claims and save as many jobs of our co-workers as we could. Surely the County Chief would not allow them to take us out. 
 
-It was Enlightening to experience County agents publicly slandering and taunting us for our lack of performance as they stood on our neck and we struggled for air. 
+It was Enlightening to experience County agents publicly slandering and taunting us for our lack of performance as they sliced deep wounds, stood on our neck and we struggled for lifeblood and air. 
 
-After hundreds of thousands of dollars in legal fees to prepare the case on top of millions of dollars of devastating losses, we finally formally presented the claims, seeking any small form of relief as the corruption, obstruction, and bribery claims were mediated. 
+After hundreds of thousands of dollars in legal fees to prepare the case on top of millions of dollars of spiraling losses, we finally formally presented the claims, seeking any small form of relief as the corruption, obstruction, and bribery claims were mediated. 
 
 We waited. 
 
-Despite the personal knowledge of the entire course of events at the highest levels of the County, all we received was a short letter denying all responsibility and rejecting the claims 100%. No discussion. No negotiation. No offer to meet and confer. 
+Despite the personal knowledge of the course of events at the highest levels of the County and the CEO's personal instruction to submit the claims for review and relief, what we received in reply was a short letter denying all responsibility and rejecting the claims 100%. No discussion. No negotiation. No offer to meet and confer. 
 
 I had never experienced anything like it in my career. I couldn't believe it was happening. They were actually going to take us out, with full personal knowledge and consent at the highest levels. 
 
-In a state of disbelief, we scrambled looking for any kind of avenue to survival as we continued to bleed out week by week as the consciously inflicted damages drained the last of the life out of our young company. 
+In a state of disbelief, we scrambled looking for any kind of avenue to survival as we continued to bleed out week by week from the consciously inflicted wounds draining the last of the life out of our young company. 
 
 As we neared the end of our resources, we advised our clients of what was happening, and implemented an emergency furlough of the workforce across all projects to coincide with emergency negotiations with the CEO, COO, and Council for the County. 
 
-Some people believe I am a reasonably gifted strategist. I laid out in great detail for the County an array of creative proposals and alternatives, any of which would have been adequate to resurrect the dying company. 
+I am a reasonably gifted strategist, and I laid out in great detail for the County an array of creative proposals and alternatives, any of which would have been adequate to resurrect the dying company. 
 
-All we needed was compensation for ten or twenty percent of the damages while we responsibly mediated the rest, and the harm to hundreds of local families and dozens of local businesses could have bee avoided. 
+All we needed was compensation for a small fraction of the clearest damages while we responsibly mediated the rest. With a couple million dollars and some good faith mediation, tens of millions of dollars of damages and harm to hundreds of local families and dozens of local businesses could have been avoided. 
 
-I also was impelled to do something very strange. I explained in detail to the executives of the County the details of our structure, the way the bonds and personal guarantees worked, the corporate and personal financial states, and described precisely how, if they were actually trying to take us out in the worst and most comprehensive manner, they could go about doing that in the effective and complete way possible. Along side the several viable options to get out of the situation, I wanted to make sure that they understood precisely how to destroy us entirely. 
+Alongside the several alternative courses of action I presented to the County executives, I also was impelled to do something very strange. I explained in detail to the executives of the County the details of our personal and company structure, the way the bonds and personal guarantees worked, the corporate and personal financial states, and precisely how, if they were actually trying to take us out in the worst and most comprehensive manner, they could go about doing that in the most effective and complete way possible. Along side the several viable options to get out of the situation, I wanted to make sure that they understood consciously and precisely how to destroy us entirely, and what its effect would be. In advance of any decision.  
 
 Multiple meetings unfolded, and then silence. 
 
 We got a phone call from the CEO explaining how difficult the political situation was. 
 
-In our last meeting with the CEO, I handed him a short personal letter and plea, again laying out the position we were in, appealing to his personal sense of integrity, and his representations that he was there to do the hard work of solving the problems in the County and cleaning up the corruption. I told him that I was also called to the battle field against corruption and injustice, and I sure hoped we were on the same side. It was the kind of letter I hoped he would have to read and agonize over a bit with his wife if he had any kind of conscience. 
+In our last meeting with the CEO, I handed him a short personal letter and plea, again laying out the position we were in, appealing to his personal sense of integrity, and his representations that he was there to do the hard work of solving the problems in the County and cleaning up the corruption. I told him that I was also called to the battle field against corruption and injustice, and I sure hoped we were on the same side. It was the kind of letter I hoped he would have to read and agonize over a bit with his wife if he had any kind of a remaining conscience. 
 
 The former Federal Judge representing us explained to me the impossible position of the executive team trying to explain to the County Supervisors why I was owed millions of dollars in damages due to the illegal actions of the County staff they supervised, and simultaneously trying to explain why that shouldn't cost them their jobs. 
 
 The call explaining the political difficulties was the last I heard from the County CEO. 
 
-Shortly thereafter, we received a short one page letter, precisely executing the plan I had laid out for them to destroy our Old Life in the most complete manner possible. 
+Shortly thereafter, we received a short one page letter, precisely executing the plan I had laid out for them to end our Old Life in the most comprehensive manner possible. 
 
-That day, the faint gasps from the life and world we thought we were living in ceased, the projects we had going all went silent, the hundreds of local families engaged in our projects had their livelihoods and finances thrown into a multi-year legal and insurance catastrophe, and the waves of damage began rippling out from the scene of the crime. 
+That day, the faint gasps from the life and world we thought we were living in ceased, the projects we had going all went simultaneously silent, the hundreds of local families engaged in our projects had their livelihoods and finances thrown into a multi-year legal and insurance catastrophe, and the waves of damage began rippling out from the scene of the crime. 
 
 The slanderous and defaming story that went out was that we had failed to adequately perform, and had been Terminated For Cause. With a massive legal cleanup involving $10s of Millions of dollars of claims and counter claims among dozens of parties now on our hands, resolvable only through the Federal Courts, we couldn't publicly defend our selves as the rumors spread. Decades of effort to take on as much responsibility as we could to learn how to build the infrastructure that society needed to flourish, the home we created, the company we created, the industry relationships we created, the reputation we created... 
 
@@ -909,13 +917,13 @@ Even as the crime unfolded, I retained hope that one way or another, in this gre
 
 I began to learn more about corruption, civil rights, and Right Relationship between Citizens and Government. 
 
-We discovered that there was indeed potential recourse available to us via the United States Federal Court System, where Civil Rights issues are litigated. 
+We discovered that there was indeed potential recourse available to us via the United States Constitution and Federal Court System, where Civil Rights issues are litigated. 
 
 However there was a problem. 
 
-The former Federal Judge representing us informed us that in his experience, it would take another $3 Million to $5 Million and 3 to 5 years to get to a judgment (beyond the year + and hundreds of thousands of dollars in legal fees already spent), and that unless we could demonstrate we had that financial capacity, he could not in good conscience represent us.
+The former Federal Judge representing us informed us that in his experience, it would take another $3 Million to $5 Million and 3 to 5 years to get to a judgment (beyond the year + and hundreds of thousands of dollars in legal fees already spent), and that unless we could demonstrate we had that financial capacity, he could not in good conscience file the suit.
 
-He also told us that the government had virtually unlimited resources and loopholes to defend itself and endlessly appeal, so even after $3M to $5M in legal fees a just ruling, or the ability to collect, was far from certain. 
+He also educated us that the government had virtually unlimited resources and loopholes to defend itself and endlessly appeal, so even after $3M to $5M in legal fees a just ruling, or the ability to collect, was far from certain. 
 
 I researched legal aid organizations, and discovered that whereas there were large pools of money on the Left and Right to pursue politically charged cases for political purposes, there was a gap in the financing market for every day Citizens deprived of their Civil Rights by corrupt government forces. 
 
@@ -923,93 +931,124 @@ Whereas the intention of the United States Constitution is to protect Citizens f
 
 Under such a structure, who can possibly stand? Was not the entire purpose of our Constitution to ensure that no Citizen could ever again end up in a position like this? Hadn't we already learned The Lesson of this Story before? 
 
-This struck me a unacceptable. The flag of an abjectly corrupted Empire where the Deep Bureaucracy could exercise Force to destroy the lives of 99.99% of Citizens with impunity was not the one I had been taught to pledge allegiance to. 
+How was it possible that two millennia after the liberating story and words of Jesus, humanity still allowed itself to exist under corrupt religious and political authorities that conspired against them and valued their own positions and power over the lives and wellbeing of those they were mandated to serve? 
+
+The flag of an abjectly corrupted Empire where the Deep Bureaucracy could exercise Force to destroy the lives of 99.99% of Citizens with impunity, both here in the United States and abroad, was not The Ideal I had been taught to pledge allegiance to. 
 
 The pathway to justice with the Church... was very strangely even worse, because the sham trial was conducted in the name of God. 
 
-Like I did with the the County, I followed a path of deep curiosity with the Church, choosing not to protect myself and allowing the religious leaders to call the shots so I could experience what would happen if I simply followed their process. 
+Like I did with the the County, I followed a path of deep curiosity and surrender with the Church, choosing not to protect myself and allowing the religious leaders to call the shots so I could experience what would happen if I simply followed their process and direction. 
 
-We had signed a binding mediation and arbitration agreement, so I asked to begin the process. 
+We had signed a binding mediation and arbitration agreement at the outset, so I asked to begin the process. 
 
-I got a message from one of the elders saying they had identified a mediator. I chose to not research who the mediator was, and trust the process. 
+We were supposed to jointly select a mediator. I got a message from one of the elders saying they had identified a one. I chose to not research who the mediator was, and trust the process. 
 
-I was instructed to pay money to the mediator, who then led me through a process of "submitting to Scripture" (reading a long sampling of scriptures about how guilty we all are), searching my heart before God for all I had done wrong, because we all sin and all short of the Glory of God, and then *crafting an apology / confession of my sins in a specific format*. They claimed they were having the church leaders do the same. I went along with it, and did my best to search my heart, discover its next layers of impurities, and write *the confession to the religious leaders of my sins against them* in the format their chosen mediator instructed me. 
+I was instructed to pay money to the mediator to be led through a process of "submitting to the Authority of Scripture" (reading a long sampling of Biblical excerpts about how guilty we all are), searching my heart before God for all I had done wrong (because we all sin and fall short of the Glory of God), and then *crafting an apology / confession of my sins in a specific format to present to the religious leaders*. They claimed they were having the church leaders do the same. Although it felt distinctly like a sham process in an authoritarian country before a show trial, I went along with it, and did my best to search my heart, discover its next layers of impurities, burn off some more dross, and write *the confession to the religious leaders of my sins against them* in the format their chosen mediator instructed me. 
 
-When the day of mediation arrived, I was asked to read my confession first. 
+The day of mediation arrived. In a strange order of events for a congregant alleging that unethical church leaders had deceived me and the congregation, likely committed fraud, and were causing mounting damages to me, my family, co-workers, and trade partners while slandering me and attempting to coerce me into silence, the proceeding started with me *being asked to read my confession.* 
 
-It was Enlightening and expanding to experience what it felt like to be fraudulently induced into a financial stranglehold by false religious leaders, threatened and instructed by them to suffer in silence like Jesus before Pontius Pilate if I wanted their mercy and relief, and then brought in front a mediator of their choosing *to confess my sins against them*.  
+It was Enlightening and expanding to experience what it felt like to be fraudulently induced into a financial stranglehold by false religious leaders, threatened and instructed by them to suffer in silence like Jesus before Pontius Pilate if I wanted their mercy, and then brought in front a mediator of their choosing *to confess my sins against them*.  
 
-I followed the instructions, and read my confession. The next hour or two was spent with the strangely stone cold religious elite tearing at my confession like hyenas over a fresh kill, while informing me of the different and deeper ways in which I should have confessed and repented to them. 
+I breathed deeply, followed the instructions, and read my confession. The next hour or two was spent with the strikingly stone cold religious elite tearing at my confession like hyenas over a fresh kill, while informing me of the different and deeper ways in which I should have confessed and repented to them. 
 
-I asked for a break, and cried. It was one of the most profoundly disturbing experiences of my life. The tears were not my own, they were the tears of the collective over the centuries of abuse that God's children have suffered in God's name at the hands of the self-proclaimed religious leaders. 
+I finally asked for a break, and broke down in tears. It was one of the most profoundly disturbing experiences of my life. The tears were not my own, they were the tears of the collective over the centuries of abuse that God's children have suffered in God's name at the hands of the Religious Wolves who terrorize, deceive, and exploit them. 
 
-My experience does not come close to the stories my indigenous friends have told me of their family members who were kidnapped from their tribes, beaten for speaking their language, stripped of their hair and clothes, and placed in cages by pastors and priests backed by the Force of the American Empire, and claiming to operate in service of God. 
+My experience of betrayal and harm does not come close to the stories my indigenous friends have told me of their family members who were kidnapped from their tribes, beaten for speaking their language, stripped of their hair and clothes, forbidden to practice their sacred traditions, and placed in cages by pastors and priests backed by the Force of the American Empire, claiming to operate in service of God. 
 
-The mediation was so dysfunctional that the mediator called it off mid way through, and I never got to hear the confessions of the pharisees.  
+The mediation was so dysfunctional that the mediator called it off mid way through, and I never got to hear the confessions the pharisees were supposedly also going to write.  
 
 For the first 30 some years of my life, I was complicit in participating in, supporting, and adding energy to the the abjectly corrupt structures of Institutionalized Church and State that have destroyed so many lives in the name of God and Country. As such, share in the guilt for every crime they committed against me and all God's children around the world. 
 
 I am truly, deeply, sorry. 
 
+I will do my best to rise from the ashes, vanquish corruption and injustice, and set things back in [[Proper Order]] for the Good of [[One]] and [[All]] I exist in service to. 
 ### Our Relationship to Structures of Injustice 
 
-During the countless dark, hellish, and sleepless nights I endured as the Old World crumbled, I was forced to grapple with many strange foes. 
+During the countless dark, hellish, and sleepless nights I endured as our Old World crumbled, I was forced to grapple with many strange beneficial adversaries. 
 
 One of the questions that would not let me go was: 
 
-*What is Our relationship to Structures of Injustice?* It felt like one of the [[Right Questions]] to keep asking my Self. 
+*What is Our relationship to Structures of Injustice?* 
 
-When I started sharing my story about the church, I started to hear stories from an array of other families who had been harmed, threatened, slandered, ostracized, or paid for silence. The more stories surfaced, the more additional stories echoed back in confirming return. It started to become clear that there were wolves shepherding the flock, masquerading under the guise of religion. I was later informed how common that was, and how institutional religious structures actually disproportionately attract predators and parasites into positions of leadership, since once exposed, the churches are often too embarrassed to publicly admit it or press charges. So they brush the destruction under the rug, and the perpetrators slink back off into the Darkness.  
+It felt like one of the [[Right Questions]] to keep asking my Self. 
+
+When I started sharing my story about the church, I started to hear stories from an array of other families who had been harmed, threatened, slandered, ostracized, or paid for silence. The more stories surfaced, the more additional stories echoed back in confirming return. It started to become clear that there were wolves shepherding the flock, masquerading under the guise of religion. I was later informed how common that was, and how institutional religious structures actually disproportionately attract predators and parasites into positions of leadership, since once exposed, the churches are often too embarrassed to publicly admit it or press charges. So they brush the devastation under the rug, and the perpetrators slink back off quietly into the Darkness.  
 
 When I started sharing my story about the government, I started to hear stories from an array of other citizens who had been harmed, threatened, slandered, jailed, or otherwise silenced. The more stories surfaced, the more additional stories echoed back in confirming return. It started to become clear that there were wolves shepherding the flock, masquerading under the guise of public service. I was later informed how common that was, and how institutional government structures actually disproportionately attract predators and parasites into positions of leadership. 
 
-One story about a corrupt institution may be an anomaly. Maybe the lies and slander the religious and government officials publicly spread about me to tear down my reputation and credibility and protect their positions and power was true. Maybe I was just a bad and incompetent contractor making up stories. The public and congregation should perhaps just ignore my Voice and go about their business, because everything is fine, and their children and elders are not actually being watched over by Wolves. 
+As a result of my journey through the Underworld, I discovered the deep, collusive, and unholy alliances between Politics, Capital and Religion that defined and deceived many inhabitants of The Bubble I developed in. I was able to trace those collusive structures all the way up to the highest levels of the US Federal Government, and beyond the [[Visible Power Structures]] into the [[Invisible Power Structures]] puppeting governments, churches, mosques, ashrams, schools, universities, corporations, and armies around the world.   
 
-When two similar stories about the same institution emerge, we should start to pay attention. There may be a pattern. 
+I was able to trace them back through history to begin to understand how [[The Caves]] had been forged and strengthened by [[The Giants]] to keep their [[Employee Consumer Slaves]] asleep, confused, divided and conquered. 
+
+The public should rightfully be careful and suspicious and Our Story. One story about a corrupt institution may be an anomaly. Maybe the lies and slander the religious and government officials publicly spread about me to tear down my reputation and credibility and protect their positions and power was true. Maybe I am just an incompetent builder who failed spectacularly, making up stories as excuses. 
+
+The public and the congregations should perhaps just ignore my Voice and go about their business and continue pledging allegiance to the Government and Religious Officials shepherding them, because everything is fine, and their children are not actually being watched over by Structures of Injustice infested with Vipers and Wolves. 
+
+However when two similar stories about the same institution emerge, we should start to pay attention. There may be a pattern. 
 
 When three similar stories about the same institution emerge, a serious investigation is warranted. 
 
 When 5 or 10 similar stories about the same institution emerge, there is enough smoke that there is almost certainly a fire in the midst of it. 
 
-By the time I heard 5 or 10 confirming stories about other families harmed by the County, and 5 or 10 confirming stories about other families harmed by the Church, I was able to begin to tamp down the raging voice of [[The Accuser]] tormenting me in the Darkness of the sleepless nights.
+By the time I heard 5 or 10 confirming stories about other families harmed by the County, and 5 or 10 confirming stories about other families harmed by the Church, I was able to begin to tamp down the raging voice of [[The Accuser]] tormenting me in the Darkness of the sleepless nights, echoing and expanding on the slander of the [[Government and Religious Officials]]. 
 
-I cannot begin to communicate the suffering that my beautiful wife, Conscience Incarnate, went through, as countless tears, trembles, and nightmares asked her if perhaps the [[The Accuser]] was right about her husband, and by extension her. How could it be possible that we, once seated at the tables of honor in Church and State, were now out of home, out of work, out of reputation, and alone? Maybe they were right. Maybe we screwed everything up. Maybe it was our fault. Maybe we deserved this. Maybe we were on the wrong side of God's plan, and this was our just punishment. 
+I cannot begin to communicate the suffering that my beautiful wife, Conscience Incarnate, went through, as countless tears, trembles, and nightmares asked her if perhaps the [[The Accuser]] was right about the man she had loved since she was 13, and by extension her. 
 
-Through countless tearful conversations, we searched and searched our souls, surfacing every misstep, every mistake, every place we should have Known and Done Better. 
+How could it be possible that we, once seated at the tables of honor in Church and State, were now out of home, out of work, out of reputation, and alone? Maybe they were right. Maybe we screwed everything up. Maybe it was our fault. Maybe we deserved this. Maybe we were on the wrong side of God's plan, had wandered off the Path, and the loss of everything we held dear was our fitting punishment. 
 
-I prayed numerous times sincerely asking God to immediately strike me dead if [[The Accuser]] was right and it was the case that I had led us that far off the [[Path]], and was so warped in my [[Consciousness]] that I couldn't see it clearly.
+Through countless tearful conversations, we searched and searched our souls, surfacing and scrutinizing every misstep, every mistake, every place we should have Known and Done Better. The interrogation and refining fire we put our Selves through was far beyond the elementary work of the Religious Mediator who helped us structure our confession of guilt. 
 
-As things decayed, the hyenas and jackels plucked the carcass of our Old Life, looting our jobsites, stealing the last of our assets, making threats and demands, and pumping the rumor mill to hasten the process. 
+I prayed numerous times sincerely pleading with God to immediately strike me dead if [[The Accuser]] was right and it was the case that I had led my family and tribe that far off the [[Path]], and was simultaneously so warped in my [[Consciousness]] and [[Neural Architecture]] that I could no longer see Wisdom, Truth and Justice clearly. 
 
-Some very religious friends and family became convinced that this had all happened because we had been deceived by Satan and joined the forces of Darkness, and discussed it openly among themselves. One suggested that I was possessed by the spirit of the Anti-Christ. Even my [[Earthly Father]] lost faith in me for a while, began having nightmares about me, and threw fuel onto the flames consuming us. 
+As things decayed, the hyenas and jackels plucked the carcass of our Old Life, with even some of those I had tried to help and serve looting our jobsites, stripping the last of our assets, sowing fear among the last few standing with us, making threats and demands, and pumping the rumor mill to hasten the process of demise. 
 
-My mother sat by me and wept, begging my [[Earthly Father]] to tell me he did not actually believe the things he was saying about me. Despite her tears and mine, he could not for a long while until the Darkness finally released his mind and dreams, and he could finally begin to see me and embrace me again. 
+Some very religious friends and family in The Bubble actually became sincerely convinced...
 
-My grandfather, like a second father, called me on one of the Darkest winter days and told me that he had been hearing the rumors circulating about me, and while he might always love me, respect was something that I had to earn every day, and one way to earn respect was to not put our business partners in danger. He told me he no longer saw me being a part of the partnership, and that he was writing me out. The next Christmas, he did not speak to me, and when I rose to give him a hug goodbye, he turned and walked away. 
+...that this had all happened because we had been deceived by Satan and joined the forces of Darkness without knowing it, and they discussed it openly enough among themselves that the rumors could filter back to us, deepening my wife's torment and confusion. 
 
-My wife trembled, sobbed, and lay awake at night as the The Accuser raged, and I continued to search my soul and pray that my [[Heavenly Father]] would immediately strike me dead if the things being spoken about me were even close to True.
+As I was expressing a passionate desire for Truth, Justice, and Unity among God's Family as [[One Body]] so that we could confront and overcome the corrupt power structures and take back responsibility for governing our Selves, another person deeply bound in a Religious Cave went so far as to openly speculate to others that I might be possessed by the spirit of the Anti-Christ. 
 
-It was strange to sit their in the midst of hundreds of families being damaged or losing their livelihoods, alone, out of a home, out of an industry, out of a reputation, out of a church... and to ponder and pray.  
+Perhaps that was related to concerns swirling in The Bubble that maybe I was being secretly funded by George Soros, Klaus Schwab and the World Economic Forum to implement an evil agenda of one world government. It felt exceedingly surreal to try to reassure The Bubble that I was not being secretly resourced by an Evil Empire. 
+
+The Darkness seeking to Deceive, [[Divide and Conquer]] was successful enough that even my [[Earthly Father]] was swept into it and began having nightmares about me and throwing fuel onto the flames consuming us. 
+
+My mother sat by me and wept, begging my [[Earthly Father]] to tell me he did not actually believe the things he was saying about me. Despite her tears and mine, he could not for a long while until the Darkness finally released his mind and dreams, and he could begin to see me and embrace me again. 
+
+My grandfather, who I always regarded like a second father, was surrounded by the industry rumor mill. He called me on one of the Darkest winter days and told me that he had been hearing the rumors circulating about me, and while he might always love me, respect was something that I had to earn every day, and one way to earn respect was to not put our business partners in danger. After decades of special relationship and discussing how I might help carry his legacy into the future, that night he told me he no longer saw me being a part of his partnerships, and that he was writing me out. With a crash, another pillar of the life I thought I was living collapsed. 
+
+As the [[Chaos]] and Darkness encroached and picked off my loved ones one by one, I learned how to cry even deeper tears. I continued to search my soul and pray that my [[Heavenly Father]] would immediately strike me dead if I really had become such an anathema.
+
+My wife trembled, sobbed, and lay awake at night as the The Accuser raged and the  perceived support structure we thought we had transformed itself into the most painful part of the hellish ongoing experience. 
+
+Piece by piece, it was all stripped away. 
+
+It was strange to sit their in the midst of hundreds of families being damaged or losing their livelihoods, alone, out of a home, out of an industry, out of a reputation, out of a church, out of relationships I cherished... and to ponder and pray.  
 
 To some of the older men who told me stories about how these same Power Structures had harmed them and their families, I wanted to say:
 
-_You knew this all along and did nothing? Because you were scared, you refused to take down the [[Evil]] that confronted you and harmed your family, and left it to grow stronger to victimize my family and community, and the innocent youth and the elders, in the future? You let us pledge allegiance to the Corruption, and you never warned us?_
+_You knew this all along and did nothing? Because you were scared, you refused to take down the [[Evil]] that confronted you and harmed your family, and left it to grow stronger to victimize my family and community, and the innocent youth and the elders, in the future? You let us pledge allegiance to the Corruption and strengthen it with our participation, and you never warned us?_
 
-There were many moments were a combination of lies, bribes, and silence could have saved my family's wealth, home, and reputation. If I had just fed The Dragon and left it with a little more Treasure to hoard, I could have slipped back into the perceived safety of The Village it was ruling over, been blessed and forgiven by the pharisees, been placed in a high paid job in its System of Injustice, and tried to keep my head down among the rest of the [[Employee Consumer Slaves]]. 
+There were many moments were a combination of lies, bribes, and silence could have saved my family's wealth, home, and reputation. If I had just fed The Dragon and left it with a little more Treasure to hoard, I could have slipped back into the perceived safety of The Village it was ruling over, been blessed and forgiven by the pharisees, earned greater riches in its System of Injustice, and tried to keep my head down among the rest of the [[Employee Consumer Slaves]]. 
 
 However there is an old principle that we seem to have forgotten: 
 
 *If you must slay a Dragon, the best day to do it is today, for each day you cower in fear it grows stronger.*
 
-An elder with the wealth and power to solve it all told me, "Well laddy, I am just glad my time is over and I don't have to deal with all this. I am really concerned about the state of our Country and Society. Good luck."
+An elder with the enough wealth and power to solve it all told me, "Well laddy, I am just glad my time is over and I don't have to deal with all this. I am really concerned about the state of our Country and Society. Good luck."
+
+Day after day, the Corrupt Goliaths came out to the battle field, taunted, and destroyed. 
+
+Separated and divided, what was supposed to be God's Army cowered in fear. 
 
 So there I lay, alone. 
 
-Night after night, at 2 AM, alone in the Darkness, up against power structures with comparatively infinite resources. 
+Night after night, at 2 AM, alone in the Darkness, up against power structures with comparatively infinite earthly resources and power. 
 
 How would it feel to seek my own safety, and tell my young daughter "I am sorry honey. The Dragon is too scary. The reputational cost is too high. The risk is too great for me. I am just glad that I don't have to deal with it. Good luck. Pledge allegiance to The Dragon and keep your head down. Maybe you will survive."
 
-Over the next few years, I would come to find out that The Dragon was puppeting far more of the institutions of Church and State than I had ever dreamed was possible, while those who Knew were cowering in silence as 99% of Citizens, Unaware, continued to pledge allegiance within the Dark confines of [[The Caves]]. 
+By the time she grew up, the Tyranny of The Dragon would be complete. 
+
+Over the next few years, I would come to find out that The Dragon was puppeting far more of the institutions of Church and State than I had ever dreamed was possible, while those who Knew were cowering in silence as 99% of Citizens, Unaware, continued to pledge allegiance to the corrupted Governments and Religions keeping them Divided and Conquered within the Dark confines of [[The Caves]]. 
 
 ### Going to War 
 
@@ -1017,7 +1056,7 @@ There is a principle in martial arts that when you are on the edge of combat, th
 
 Yes, the Puppet Leaders inhabiting the Visible Power Structures of South Shores Church and the County were the ones who consciously inflicted the suffering on us and slandered and assented as we bled out. But what we were actually encountering was the domain-independent spirit puppeting them and a thousand other Visible Power Structures for its own benefit. 
 
-What I mean by [[Domain Independent]] is that there is a common pattern of behavior, manifest in various places, institutions, and contexts around the world, that "possesses" religious, government, academic, and corporate leaders, causing them to behave in a uniform and predictable way. If a bunch of people behave in the same antithetical way in a wide variety of contexts, you could characterize what they have in common as something like a spirit that possesses them. 
+What I mean by [[Domain Independent]] is that there is a common pattern of behavior, manifest in various places, institutions, and contexts around the world, that "possesses" religious, government, academic, and corporate leaders, causing them to behave in a uniform and predictable way. If a bunch of people behave in the same antithetical way in a wide variety of contexts around the world, you could characterize what they have in common as something like a spirit that possesses them. 
 
 There is nothing scary or special about the Tyrants possessed and puppeted by this spirit. They are weak little pawns who surrender their souls to Darkness in exchange for a little Pyramid in The Village to sit at the top of. 
 
@@ -1031,13 +1070,13 @@ The only [[Way]] to prevail is to forthrightly confront and overcome the Meta Dr
 
 Mired in a sea of little demons, once must identify, confront, and overcome their generative source. 
 
-Once the spirit corrupting our religious and political institutions manifested itself, attacked us, and left us for dead... 
+Once the spirit corrupting our religious, political, and corporate institutions manifested itself, attacked us, and left us for dead... 
 
 ...it was clearly time to Rise and go to War. 
 
-After all, this is purpose here on Earth, known since waking consciousness. 
+After all, this is our purpose here on Earth, known since waking consciousness. 
 
-If ever I have to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon, I want to make damn sure I died trying to slay it, and wasn't cowering ashamed in some Dark corner of The Village. 
+If ever I have to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon and The Giants, I want to make damn sure I died trying to slay them, and wasn't cowering ashamed in some Dark corner of The Village. 
 
 I am heading out Beyond The Boundary to go confront and overcome The Dragon in its lair, liberate the captives it holds, and release the Treasure it guards, which is the Collective Inheritance of humanity. 
 
@@ -1045,7 +1084,7 @@ We can use it to regenerate and renew the Earth.
 
 We are all billionaires who could be living in [[Heaven On Earth]], we just don't know it yet, because The Dragon and [[The Giants]] are concealing our Treasure and enslaving us in [[The Caves]]. 
 
-I will do this alone or die trying if necessary, but for God's sake and for the sake of your children and every generation of children to come, please stand and join me. 
+I will die trying to do this alone if necessary, but for God's sake and for the sake of your children and every generation of children to come, please stand and join me. 
 
 The Dragon is growing stronger by the day, and the Final Order of Self-Serving Chaos and Tyranny it seeks to establish is almost complete. 
 ## IV. The Meta Crisis 
