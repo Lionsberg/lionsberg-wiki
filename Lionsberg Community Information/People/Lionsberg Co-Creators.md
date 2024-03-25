@@ -109,9 +109,20 @@ Cycle Completed March 7, 2024
 - 20. Stuart Levine 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jerry Michalski 
-- 21. 
+- 21. Yanik Silver 
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Steve Schwarz  
+	- 1,000 Suns Project, One Degree Network, Maverick 
 
-## Cycle 7 Invitations: Expansion Out to 34 Co-Creators 
+## Cycle 7: Expansion Out to 34 Co-Creators 
+
+22. Daniel Friedman 
+	- Invited by: Jordan 
+	- Introduced to Jordan by: ? 
+	- Active Inference 
+
+
+## Invitations
 
 - Acceptance rate was 80% + in first 6 cycles 
 - Expect that to drop as cycles expand, perhaps 50% for cycle 7? 
@@ -119,7 +130,7 @@ Cycle Completed March 7, 2024
 
 1. Estelle Kabithi 
 2. John Kabithi 
-3. Yanik Silver 
+3.  
 4. Gil F  
 5. Hank K  
 6. Jerry M   
