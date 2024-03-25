@@ -2,6 +2,7 @@
 
 By **Jordan Nicholas Sukut**  
 
+<div style="page-break-before: always;"></div>
 ## 0. Pass The Flame - Prologue
 
 Look. There is no easy Way to tell you The Story that follows. 
@@ -27,6 +28,7 @@ To save time and conserve resources, I am publishing this first sampling of the 
 I look forward to collaborating to make Future Versions of this Work, and Our World, Better. 
 
 It is Time. Let The Movement Begin. 
+<div style="page-break-before: always;"></div>
 ## I. The Story of The Builder, Part I
 
 Once upon a time, there was a community not unlike our own nestled in a valley at the foot of a tall **Sacred Mountain**. 
@@ -111,6 +113,7 @@ In partnership with God and One Another, they were co-creating a truly Magnifice
 
 _To Be Continued..._
 
+<div style="page-break-before: always;"></div>
 ## II. The Story of The Caves, Part I
 
 ### Wisdom Cries Out 
@@ -364,6 +367,7 @@ Confronted with a terror so profound, a realization so appalling, and a cacophon
 
 _To Be Continued..._
 
+<div style="page-break-before: always;"></div>
 ## III. Our Story 
 
 Upon hearing what follows, some people have asked how we came to such an unusual vantage point in **The Story**. 
@@ -1114,6 +1118,7 @@ As we awaken and depart **The Caves** that kept us divided and conquered in the 
 
 This New Understanding and New Covenant does not in any way abolish or diminish the Sacred Words that have been written in the past. It fulfills them. 
 
+<div style="page-break-before: always;"></div>
 ## IV. The Meta Crisis 
 
 ### Awakening to the Dreadful Realization 
@@ -1209,6 +1214,7 @@ The **Meta Crisis** demanded a **Meta Project** in response.
 
 By the early 2020s, **The Story** escalated to a climactic tension, teetering on the edge of absurd comedy and despair, with the fate of our heroes—and the human species aboard Earth itself—shrouded in uncertainty. 
 
+<div style="page-break-before: always;"></div>
 ## V. The Story of Stories 
 
 ### Time To Awaken, Arise, and Move
@@ -1302,6 +1308,7 @@ The **One**. The Supreme Author of **The Story** writing its Self through them.
 
 The Creator was inviting them **All** to become **Co-Creators** of a Better World. 
 
+<div style="page-break-before: always;"></div>
 ## VI. The Ten Realizations
 
 As **The Image** of **The Story** became progressively clearer in everyone's Minds, a series of Profound Realizations began to dawn on them. 
@@ -1590,6 +1597,7 @@ And so it was established **The Goal** of **The Quest** and **The Victory** of *
 **United As One**, they would prevail. 
 
 The Reunification of **All Creation** with **One Another** and its **Source** was the only **Way** towards Victory.  
+<div style="page-break-before: always;"></div>
 ## VII. A New System, Strategy, and Plan 
 
 Having recaptured **The Plot** of **The Story** and reunited around the **Most Important Things**, they were now progressively illuminating the **Darkness** of **The Caves**, and embarking on the Epic **Quest** towards **Destiny**. 
@@ -1984,6 +1992,7 @@ By the time they reached **The Promised Land** and inaugurated the **New Era**, 
 
 Day by Day, Heaven was coming to Earth. 
 
+<div style="page-break-before: always;"></div>
 ## VIII. Confronting and Overcoming The Giants 
 
 ### Grappling with Obstacles in the Way 
@@ -2074,6 +2083,7 @@ _"Beyond what?"_
 
 _"Beyond the **Boundary**."_
 
+<div style="page-break-before: always;"></div>
 ## IX: Embarking on The Quest - Next Steps
 
 If you can hear Us, wake up and arise. It is time to Move. 
@@ -2101,6 +2111,7 @@ It is that easy. Simply [Join The Movement](https://jordannicholas.org/join_the_
 
 Stay tuned... you won't believe what happens next in The Story. 
 
+<div style="page-break-before: always;"></div>
 ## X: Tools For The Journey 
 
 We are assembling an array of infrastructure, tools, and technology in **The Commons** to help Individuals, Groups, and Localities **Progress** along the **Way** towards the Fullness of Individual, Local, and Collective Potential. 

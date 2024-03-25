@@ -129,8 +129,11 @@
 - Existential Threats
 - Existing Forces and Conditions
 - Existing Order
+- FROM
+- FROM the Old TO the New
 - Failure
 - Family of Families
+- Family of God
 - Fear
 - Fears
 - Field of Agreements
@@ -146,8 +149,6 @@
 - Free
 - Free Will
 - Freedom
-- FROM
-- FROM the Old TO the New
 - Future
 - General Issues
 - General Needs
@@ -300,6 +301,7 @@
 - New World
 - Next Steps
 - No One Could Enter The Promised Land Unless And Until All Could Enter The Promised Land
+- Non-Propositional Knowledge
 - Now
 - Objectives
 - Obstacles
@@ -346,6 +348,8 @@
 - Proper Order
 - Prophesies
 - Prophesy
+- Propositional Idols
+- Propositional Knowledge
 - Purpose
 - Quarterly Quest
 - Quarterly Quests
@@ -357,6 +361,7 @@
 - Reciprocal
 - Regulatory Capture
 - Reinvent The Wheel
+- Religion
 - Resource Flows
 - Resources
 - Resourcing and Engagement Flywheel
@@ -367,8 +372,8 @@
 - Righteousness
 - Rights and Responsibilities
 - Roles
-- Rule of Sixteen
 - Rule Of Three
+- Rule of Sixteen
 - Rules
 - Sacred
 - Sacred Mountain
@@ -416,6 +421,7 @@
 - Supply Chains
 - Supply Lines
 - Supreme
+- TO
 - Tao
 - Targets of Opportunity
 - Team of Teams
@@ -500,7 +506,6 @@
 - Time
 - Tipping Point Strategy
 - Tithe
-- TO
 - Together
 - Together As One
 - Tools
@@ -518,8 +523,8 @@
 - Understanding
 - United As One
 - Unity
-- Universal and Eternal
 - Universal Joint Venture
+- Universal and Eternal
 - Unknown
 - Us vs. Them
 - Value
