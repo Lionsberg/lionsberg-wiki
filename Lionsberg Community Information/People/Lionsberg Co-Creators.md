@@ -14,9 +14,11 @@ It's looking good. Shall we keep nurturing this?
 - Spirit 
 - The Spiritual Force For Good
 ## Joined in Cycle 0 
+
 - 1. [[Jordan Nicholas Sukut]]  
 
 ## Joined in Cycle 1 - 2 Co-Creators 
+
 - 2. Caity Sukut 
 	- Invited by: Jordan
 	- Introduce to Jordan by: Harvest 
@@ -24,6 +26,7 @@ It's looking good. Shall we keep nurturing this?
 - Cycle Time - 1 Day 
 
 ## Joined in Cycle 2 - 3 Co-Creators  
+
 - 3. Emma Joy Sukut 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Caity
@@ -31,6 +34,7 @@ It's looking good. Shall we keep nurturing this?
 - Cycle Completed March 3, 2024  
 - Cycle Time - 1 Day
 ## Joined in Cycle 3 - 5 Co-Creators 
+
 - 4. [[Peter Kaminski]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jerry Michalski 
@@ -42,6 +46,7 @@ It's looking good. Shall we keep nurturing this?
 - Cycle Completed March 4, 2024
 - Cycle Time - 1 Day 
 ## Joined in Cycle 4 - 8 Co-Creators 
+
 - 6. Helene Lindmark
 	- Invited by: Jordan
 	- Introduced to Jordan by: Yanik
@@ -58,6 +63,7 @@ It's looking good. Shall we keep nurturing this?
 - Cycle Time - 2 Days 
 
 ## Joined in Cycle 5 - 13 Co-Creators 
+
 - 9. Ken Homer
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jerry Michalski and Judy Bentham 
@@ -80,7 +86,7 @@ It's looking good. Shall we keep nurturing this?
 	- Program management for Bioregional Demonstration project, helping Jordan raise $100k funds for the project + $2M to $10M working capital for Lionsberg 
 Cycle Completed March 7, 2024  
 - Cycle Time - 1 Day
-## Joined In Cycle 6 - 21 Co-Creators (In Progress)
+## Joined In Cycle 6 - 21 Co-Creators 
 
 - 14. Maya  
 	- Invited by: Emma Joy Sukut 
@@ -106,21 +112,25 @@ Cycle Completed March 7, 2024
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Estelle Kabithi  
 	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
-- 20. Stuart Levine 
+- 20. Daniel Friedman 
 	- Invited by: Jordan 
-	- Introduced to Jordan by: Jerry Michalski 
+	- Introduced to Jordan by: ? 
+	- Active Inference
 - 21. Yanik Silver 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Steve Schwarz  
 	- 1,000 Suns Project, One Degree Network, Maverick 
+- Cycle Completed March 12, 2024  
+- Cycle Time - 5 Days
+## Gap Week 
 
+Note: Week of March 18, Jordan largely paused invitations and regrouped, and resumed invitations week of March 25. 
 ## Cycle 7: Expansion Out to 34 Co-Creators 
 
-22. Daniel Friedman 
+22. Stuart Levine 
 	- Invited by: Jordan 
-	- Introduced to Jordan by: ? 
-	- Active Inference 
-
+	- Introduced to Jordan by: Jerry Michalski 
+23. 
 
 ## Invitations
 

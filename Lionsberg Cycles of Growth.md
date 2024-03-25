@@ -4,6 +4,8 @@ The Lionsberg Cycles of Growth chart the fibonacci sequence, and relate to how m
 
 To watch the Cycles of Growth progress in realtime, see [[Lionsberg Co-Creators]]. 
 
+To track progress along the [[Milestones]], see also [[Lionsberg Cycle Time]]. 
+
 - Source
 - Spirit 
 - Incarnation 
