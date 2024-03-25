@@ -122,7 +122,7 @@ Because we do not yet have a formal Team structure, Jordan is going to break the
 
 The individuals accepting [[The Invitation]] and helping accomplish The Goals for March will together, in [[Teams]], then formulate [[Quarterly Quests]] for Q2 2024. 
 
-### Goal 1: Invitation, Inception, and 3 to 5 Cycles of Growth
+### Goal 1: Invitation, Inception, and 3 to 5 Cycles of Growth (Complete) 
 
 1. Plant [[The Golden Seed]] via [[The Invitation]], and complete the first three to five [[Lionsberg Cycles of Growth]].  
 	1. Bonus: Complete three to five cycles locally, AND three to five cycles universally, so two parallel starting points are growing.  
@@ -134,25 +134,25 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 		5. Cycle 5: 13 Co-Creators  
 	3. This secures the first 12+1 fractal  
 
-### Goal 2: Sandpoint Community Meeting #1
+### Goal 2: Sandpoint Community Meeting #1 (Scheduled Week of 3/25) 
 
 2. Host the first Sandpoint Community Meeting  
 	1. Bonus - with at least 3 co-creators present 
 
-### Goal 3: Lionsberg Co-Creator Handbook
+### Goal 3: Lionsberg Co-Creator Handbook (Complete) 
 
 3. Complete and distribute v0.1 of [[The Lionsberg Co-Creator Handbook]]  
 	1. Bonus - 2 or 3 co-creators provide feedback, incorporate, and publish v0.2
 
-### Goal 4: Publish a Book 
+### Goal 4: Publish a Book (Scheduled Week of 3/25) 
 
 4. Finish consolidating a summary of Jordan's writing on [[Lionsberg Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[The Invitation]] in future cycles to help [[Individuals]] get up to speed. 
 	1. Bonus - Get one local store in Sandpoint to agree to carry physical copies 
 
-### Goal 5: Resource Runway
+### Goal 5: Resource Runway 
 
 5. Resource Runway: Secure the first donations from beyond Jordan, and the $30k / month runway required to sustain System Startup through Q2: $100,000. 
-	1. Bonus - building on the millions of dollars of value Jordan has previously invested and curated together, the team building the backbone Technology Platform for The Movement secured a $400,000 grant, which will advance construction of our shared infrastructure. 
+	1. Bonus - building on the millions of dollars of value Jordan has previously invested and curated together, the team building a backbone Technology Platform for The Movement secured a $400,000 grant, which will advance construction of our shared infrastructure. 
 
 ## What This Makes Possible If We Succeed
 

@@ -115,54 +115,64 @@ Cycle Completed March 7, 2024
 
 - Acceptance rate was 80% + in first 6 cycles 
 - Expect that to drop as cycles expand, perhaps 50% for cycle 7? 
-- Therefore - may need to invite 26 to gain 13 additional co-creators - there is a pool of 40+ well qualified individuals below as a starting point  
+- Therefore - may need to invite 26 to gain 13 additional co-creators - there is a pool of 50+ well qualified individuals below as a starting point  
 
-- 20. Estelle Kabithi 
-- 21. John Kabithi 
-- 22. Yanik Silver 
-- 23. Gil F  
-- 24. Hank K  
-- 25. Jerry M   
-- 26. Maya  
-- 27. Edu 
-- 28. Moses 
-- 29. Tom C  
-- 30. Joseph C 
-- 31. Joshua P 
-- 32. Michael G 
-- 33. Jahn B
-- 34. Amy 
-- 35. Greg F 
-- 36. Jamaica S 
-- 37. Gary G 
-- 38. Kaiti A 
-- 39. Vincent A 
-- 40. Forrist L 
-- 41. Lenna G
-- 42. Andrew B 
-- 43. John C  
-- 44. Killu S  
-- 45. Stefan V  
-- 46. Stuart L (Invited 3/18)
-- 47. David W (Invited 3/18) 
-- 48. Doug B (Invited 3/18)
-- 49. Greg and Emily 
-- 50. Greg and Emily 
-- 51. Piff 
-- 52. Virginia 
-- 53. Virginias kids 1
-- 54. Virginias kids 2 
-- 55. Jen 
-- 56. Ian 
-- 57. Phillip 
-- 58. Paul R 
-- 59. Bob K 
-- 60. Elliot B 
-- 61. Wendy E 
-- 62. Wendy M 
-- 63. Sasha S  
-- 64. Kevin J 
-- 65. Terry D  
+1. Estelle Kabithi 
+2. John Kabithi 
+3. Yanik Silver 
+4. Gil F  
+5. Hank K  
+6. Jerry M   
+7. Maya  
+8. Edu 
+9. Moses 
+10. Tom C  
+11. Joseph C 
+12. Joshua P 
+13. Michael G 
+14. Jahn B
+15. Amy 
+16. Greg F 
+17. Jamaica S 
+18. Gary G 
+19. Kaiti A 
+20. Vincent A 
+21. Forrist L 
+22. Lenna G
+23. Andrew B 
+24. John C  
+25. Killu S  
+26. Stefan V  
+27. 
+28. David W (Invited 3/18) 
+29. Doug B (Invited 3/18)
+30. Greg and Emily 
+31. Greg and Emily 
+32. Piff 
+33. Virginia 
+34. Virginias kids 1 & 2 
+35. Jen 
+36. Ian 
+37. Phillip 
+38. Paul R 
+39. Bob K 
+40. Elliot B 
+41. Wendy E 
+42. Wendy M 
+43. Sasha S  
+44. Kevin J 
+45. Terry D  
+46. Ron S  
+47. Mark L 
+48. Ernie H 
+49. Russ C  
+50. Russ (ND)  
+51. Harvest S  
+52. Adane C 
+53. Dan F 
+54. Dan L 
+55. James Z 
+56. Daniel AI (March) 
 
 
 

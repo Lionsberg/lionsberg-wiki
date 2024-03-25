@@ -1087,6 +1087,33 @@ We are all billionaires who could be living in [[Heaven On Earth]], we just don'
 I will die trying to do this alone if necessary, but for God's sake and for the sake of your children and every generation of children to come, please stand and join me. 
 
 The Dragon is growing stronger by the day, and the Final Order of Self-Serving Chaos and Tyranny it seeks to establish is almost complete. 
+
+### In the End... God 
+
+Like [[The Story]], Our Story begins and ends with [[God]]. 
+
+The [[Keepers of The Caves]] intentionally confused the [[Ultimate Reality]] of [[God]] with [[Religion]] and Politics in strange ways, and did their best to make humanity forget that God does not dwell in and is not contained by the little religions, dogmas, institutions, buildings, ideologies, and Caves built in The Name.
+
+The divisive religious dogmas, denominations, and statements of faith that the [[Keepers of The Caves]] propagated and induced their congregants to bow down to are False Idols, the mere work of human minds and hands who are Absolutely incapable of reducing The Ultimate Mystery Creating and Sustaining the Universe to words. 
+
+The [[Propositional Idols]] keeping the [[Family of God]] divided and conquered must be torn down. 
+
+Each one of us could continue nailing the next 95 religious theses to the door of the next religious denomination, but that will only fuel the cacophonous and mind numbing pharisaical debate among the [[Keepers of The Caves]] and their various committees. 
+
+It is Time to leave all that behind. 
+
+The [[New Covenant]] of Eternal and Universal Right Relationship between the Creator and All Creation is mediated not by the written letter of The Law, but by The Spirit through which every heartbeat, life, and breath exists, and through the [[Golden Thread]] of all that is Wise, Right, True and Good has been written. 
+
+In that Deeper Understanding, we are [[All]] United as One. 
+
+In that Deeper Understanding, we are [[All]] moved towards Right Relationship, Right Thought, Right Speech, and Right Action as [[One Body]] by One Spirit. 
+
+Whereas the thousands of [[Propositional Idols]] created by humanity over the last millennia were attempts to base Right Relationship on [[Propositional Knowledge]], the [[New Covenant]] is Ultimately Unwritten, and rooted in the Spirit and [[Non-Propositional Knowledge]] of an Ultimately Ineffable God. 
+
+As we awaken and depart [[The Caves]] that kept us divided and conquered in the past, We All now Know, with a Knowing Deeper than words, in the depths of Spirit and Soul, that [[God]] is [[One]]. The Absolute Unity that Creates and Sustains our Interexistence, our heartbeat, our breath, and our shared Life. 
+
+This New Understanding and New Covenant does not in any way abolish or diminish the Sacred Words that have been written in the past. It fulfills them. 
+
 ## IV. The Meta Crisis 
 
 ### Awakening to the Dreadful Realization 
