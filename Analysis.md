@@ -8,4 +8,8 @@ The information gathered during the Analysis process is used in conjunction with
 
 In summary, Analysis is an essential step in the [[Lionsberg System of Work]] at all fractal levels, and is critical to the success of the Plan of Action and the achievement of the shared Vision and Goals of the Lionsberg System.
 
+Analysis relates to Step 3 of [[The Seven Steps of Transformation]] 
+
+![[The Seven Steps of Transformation]]
+
 [[Template For Analysis]] 

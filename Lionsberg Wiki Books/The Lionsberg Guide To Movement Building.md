@@ -100,7 +100,7 @@ Beginning:
 Then: 
 - Raising [[Awareness]] 
 - To Generate [[Support]] 
-- For the [[Benefiit]] of the [[Cause]]  
+- For the [[Benefit]] of the [[Cause]]  
 
 Pattern: 
 - Growing [[Support]] until the [[Transformation]] is achieved. 

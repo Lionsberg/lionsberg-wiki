@@ -38,7 +38,7 @@ Critical behaviors necessary for Integrated Delivery to be successful include:
 
 -   [[Collaboration]]
 -   [[Trust]]
--   [[Commitment-Based Management]]
+-   [[Commitment Based Management]]
 -   [[Continuous Improvement]]
 
 See [[Provisional Code]]. 

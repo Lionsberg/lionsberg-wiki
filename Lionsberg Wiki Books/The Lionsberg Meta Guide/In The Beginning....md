@@ -18,6 +18,6 @@ As it began speaking the [[Logos]] in [[Truth]] and [[Love]], the waters began t
 
 As the [[New Vessel]] approach, a Loving Hand reached out and began lifting us up, one by one, out of the seas of [[Chaos]], and into an ark that was Strong and Good, purpose-built to carry us up out of the waters on [[Forward]] towards our [[Destiny]]. 
 
-[[Lionsberg]] was [[One The Move]]. 
+[[Lionsberg]] was [[On The Move]]. 
 
 
