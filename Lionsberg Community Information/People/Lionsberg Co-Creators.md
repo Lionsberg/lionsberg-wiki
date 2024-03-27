@@ -88,7 +88,7 @@ Cycle Completed March 7, 2024
 - Cycle Time - 1 Day
 ## Joined In Cycle 6 - 21 Co-Creators 
 
-- 14. Maya  
+- 14. Mia  
 	- Invited by: Emma Joy Sukut 
 	- Introduced by: Emma Joy Sukut  
 	- Volunteered to help Emma organize youth in Sandpoint 

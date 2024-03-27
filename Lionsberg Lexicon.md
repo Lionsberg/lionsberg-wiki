@@ -150,9 +150,14 @@ These concepts are explored in further detail and different formats in the [[The
 10. [[Roles]]  
 11. [[Decision Making]]  
 12. [[Identifying And Solving Issues]]  
-13. [[Lionsberg Integrated Delivery System]]  
-14. [[Integration And Alignment Of Resources And Power]]  
-15. [[The Lionsberg Co-Creator Handbook]]  
+13. [[Project Management]] 
+14. [[Project Management Hygiene]]  
+15. [[Project Management Debt]]  
+16. [[Communication]]  
+17. [[Communication Debt]]  
+18. [[Lionsberg Integrated Delivery System]]  
+19. [[Integration And Alignment Of Resources And Power]]  
+20. [[The Lionsberg Co-Creator Handbook]]  
 
 ## The Elevation Initiative 
 
