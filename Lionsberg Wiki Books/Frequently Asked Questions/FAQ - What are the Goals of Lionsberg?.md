@@ -8,6 +8,6 @@ The supporting goals of Lionsberg are to connect and empower people and communit
 
 The [[Total Nested Hierarchy of Goals]] required to accomplish [[The Goal]] are all included. 
 
-These are mapped against [[The 12 Pillars of Lionsberg]] as a [[Work Breakdown Structure (WBS)]] for organization and collective action. 
+These are mapped against [[The 12 Pillars of Lionsberg]] as a [[Work Breakdown Structure]] for organization and collective action. 
 
 See more [[Frequently Asked Questions]]  

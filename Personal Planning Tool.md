@@ -10,7 +10,7 @@ The Personal Action Plan Template is a comprehensive tool that guides individual
     
 2.  Review your [[Personal Analysis Tool]]: Assess your current situation, resources, constraints, and opportunities to set achievable milestones and goals.
     
-3.  Develop a [[Work Breakdown Structure (WBS)]]: Break down your goals into smaller, manageable components and develop a WBS that outlines the scope of work for each component.
+3.  Develop a [[Work Breakdown Structure]]: Break down your goals into smaller, manageable components and develop a WBS that outlines the scope of work for each component.
     
 4.  Define [[Milestones]]: Identify roughly five top-level milestones that lie between your current Reality and future Vision in each [[Features of Work]].
     

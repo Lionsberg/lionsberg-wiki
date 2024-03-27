@@ -698,7 +698,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 ### Living Systems Data, and Regenerative Insurance and Finance
 
 - Similarly, the Human-Computer capabilities now make possible a Living Systems Data paradigm, where we can continually measure the health and the flourishing of the Living System, and the impact of the Human System in any bioregion or locality upon it, and vice versa.
-- [[Lionsberg Human System Living System Interface]]. 
+- [Human System Living System Interface]]. 
 - [[Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance]] 
 - The knowledge, in advance, of how proposed human activities impact the regenerative capacity of the local ecosystem and the Earth for current and [[Future Generations]] will bring into existence an entirely new paradigm of regenerative insurance and finance, where costs cannot be externalized, and resources cannot [[Flow]] unless proposed activities are [[Regenerative]] in nature. 
 

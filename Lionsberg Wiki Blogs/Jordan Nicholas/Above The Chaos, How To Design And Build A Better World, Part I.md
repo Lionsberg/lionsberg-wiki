@@ -90,8 +90,8 @@ Analyze the [[Existing Forces and Conditions]] bearing upon the domain to be tra
 Engage the Wise Right People and resources, at the Wise Right Time, for the Wise Right Reason, to accomplish [[The Goal]]. 
 
 ### Part 4: Planning 
-- Differentiate the [[Meta Goal]] into a [[Total Nested Hierarchy of Goals]] reflected in a [[Work Breakdown Structure (WBS)]]. 
-- Use Pull Planning to break each element of the [[Work Breakdown Structure (WBS)]] into executable tasks. 
+- Differentiate the [[Meta Goal]] into a [[Total Nested Hierarchy of Goals]] reflected in a [[Work Breakdown Structure]]. 
+- Use Pull Planning to break each element of the [[Work Breakdown Structure]] into executable tasks. 
 - Forge the tasks into a logical [[Network of Commitments]]. 
 - Discern the [[Critical Path]] / [[Critical Chain]] 
 - Direct Resources at the [[Bottleneck]]  

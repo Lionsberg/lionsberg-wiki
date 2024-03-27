@@ -423,7 +423,7 @@ Wisdom Flow
 16. The [[Lionsberg Academy]]  
 17. The [[Lionsberg Outreach and Broadcast System]] 
 18. The [[Lionsberg Integrated Wellbeing and Development System]]  
-19. The [[Lionsberg Human System Living System Interface]]
+19. The [[Human System Living System Interface]]
 20. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
 ## Misc

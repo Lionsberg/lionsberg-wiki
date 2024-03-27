@@ -168,7 +168,7 @@ We start with the [[Overarching and Uniting]] notion of [[Creator's Intent]] for
 
 We then begin to build out our [[Plans and Specifications]] for the [[New World]] we are Co-Creating. 
 
-This necessitates identifying the primary [[Features of Work]] via a [[Work Breakdown Structure (WBS)]]. 
+This necessitates identifying the primary [[Features of Work]] via a [[Work Breakdown Structure]]. 
 
 The first level of the Lionsberg Work Breakdown Structure is [[The 12 Pillars of Lionsberg]]. 
 
