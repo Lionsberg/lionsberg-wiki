@@ -1,6 +1,8 @@
-# Above The Chaos, 2024.03.39 Lionsberg Dispatch
+# Above The Chaos, 2024.03.31 Lionsberg Dispatch
 
 Hello everyone, 
+
+Happy Easter. It is time to rise and move as One Body. 
 
 We are starting up a new aspect of the the [[Lionsberg Battle Rhythm]] - the [[Lionsberg Dispatch]]. 
 
