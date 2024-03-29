@@ -134,7 +134,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 		5. Cycle 5: 13 Co-Creators  
 	3. This secures the first 12+1 fractal  
 
-### Goal 2: Sandpoint Community Meeting #1 (Scheduled Week of 3/25) 
+### Goal 2: Sandpoint Community Meeting #1 (Complete) 
 
 2. Host the first Sandpoint Community Meeting  
 	1. Bonus - with at least 3 co-creators present 
@@ -144,7 +144,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 3. Complete and distribute v0.1 of [[The Lionsberg Co-Creator Handbook]]  
 	1. Bonus - 2 or 3 co-creators provide feedback, incorporate, and publish v0.2
 
-### Goal 4: Publish a Book (Scheduled Week of 3/25) 
+### Goal 4: Publish a Book (Scheduled For First Week of April) 
 
 4. Finish consolidating a summary of Jordan's writing on [[Lionsberg Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[The Invitation]] in future cycles to help [[Individuals]] get up to speed. 
 	1. Bonus - Get one local store in Sandpoint to agree to carry physical copies 
