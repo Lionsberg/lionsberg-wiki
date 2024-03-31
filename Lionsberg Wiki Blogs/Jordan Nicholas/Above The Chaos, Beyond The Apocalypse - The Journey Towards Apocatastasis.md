@@ -37,3 +37,5 @@ This prophesy and promise has proved illusive over [[Time]]. Yet this Easter, in
 With Love, In Unity, 
 
 ~ J  
+
+If you resonate and feel the call, [Join Us](https://jordannicholas.org/join_the_movement)
