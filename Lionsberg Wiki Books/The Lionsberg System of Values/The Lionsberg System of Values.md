@@ -49,6 +49,7 @@ Without reducing the ineffable unity of Value to human words and categories, we 
 - [[Authenticity]]  
 - [[Autonomy]]  
 - [[Awareness]]  
+- [[Awe]]  
 - [[Balance]]  
 - [[Beauty]]  
 - [[Belonging]]  
@@ -169,6 +170,7 @@ Without reducing the ineffable unity of Value to human words and categories, we 
 - [[Understanding]]  
 - [[Unity]] 
 - [[Wellbeing]]  
+- [[Wonder]]  
 - [[Zeal]]  
 
 ## Anti-Values 
