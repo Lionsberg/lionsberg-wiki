@@ -1561,7 +1561,7 @@ While [[The War]] was manifesting in many diverse ways around the world, they ca
 
 The ancient stories that were being resurrected and brought together with the New reminded them that [[The War]] beginning to engulf the world was not primarily physical or local in nature. 
 
-The [[Domain Independent Patterns]] at war were [[Deeper]] Spiritual Realities, pulling the strings of the various [[SpatioTemoral]] embodiments they were puppeting. 
+The [[Domain Independent Patterns]] at war were [[Deeper]] Spiritual Realities, pulling the strings of the various [[SpatioTemporal]] embodiments they were puppeting. 
 
 Behind the [[Visible Power Structures]] were [[Invisible Power Structures]], and behind the [[Invisible Power Structures]] were deep, archetypical Spiritual Realities. 
 

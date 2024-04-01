@@ -46,7 +46,7 @@ These concepts are explored in further detail and different formats in the [[The
 
 ## Perception 
 
-1. [[SpatioTemoral]] / [[SpaceTime]] / [[Spacetime User Interface]]  
+1. [[SpatioTemporal]] / [[SpaceTime]] / [[Spacetime User Interface]]  
 2. [[Narrative Lens]]  
 3. [[Perception]] / [[Perceive]] / [[Perceived Reality]]  
 

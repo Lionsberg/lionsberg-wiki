@@ -40,5 +40,6 @@ Some of the Right Questions to ask our Selves might be:
 33. "What is the energy of this?"  
 34. "What is the spirit of this?"  
 35. "Who must I become in order to become a Co-Creator of the Best Possible Future for All?"
+36. "How are we as a human species Co-Operating the SpatioTemporal Domain we call [[Earth]]?" 
 
 See also [[Journaling Questions]]. 
