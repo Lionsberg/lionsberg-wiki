@@ -123,7 +123,7 @@ The most relevant repositories of translational experience may be found in:
 
 Administrative and procedural requirements for the Project
 #### Decentralization  
-#### Governance  
+#### Self-Governance  
 #### Minimum Standards of Interoperability  
 
 #### Program Management / Mission Control  
@@ -139,50 +139,57 @@ Administrative and procedural requirements for the Project
 - **Regulatory Requirements**: Compliance with local, state, national, and international regulations.
 
 ## 3. Conceptual Framework 
-## 3. Plans and Drawings 
-### 3.1 Existing Conditions 
 
-### 3.2 Future Conditions 
+The poly-centric localization and adaptation of shared wisdom, knowledge, and solutions via a New [[Pattern Language]].  
 
-## 4. Technical Specifications 
+## 4. Shared Services, Infrastructure, and Support 
 
-### 4.1 Technical Specifications  
+## 5. Plans and Drawings 
+### 5.1 Existing Conditions 
 
-### 4.2 Quality Standards and Workmanship 
+### 5.2 Future Conditions 
 
-### 4.3 Quality Assurance, Testing, and Inspection 
+## 6. Technical Specifications 
 
-## 5. Proposals and Agreements 
+### 6.1 Technical Specifications  
 
-### 5.1 Instructions for Proposals 
+### 6.2 Quality Standards and Workmanship 
 
-### 5.2 The Field of Agreements 
+### 6.3 Quality Assurance, Testing, and Inspection 
 
-## 5. Environmental Considerations 
+## 7. Proposals and Agreements 
 
-### 5.1 Regenerativity  
+### 7.1 Instructions for Proposals 
 
-### 5.2 Living Systems Data  
+### 7.2 The Field of Agreements 
 
-### 5.3. Regenerative Underwriting and Resourcing Criteria  
+## 8. Environmental Considerations 
 
-### 5.4 Guidelines For Regenerativity 
+### 8.1 Regenerativity  
 
-## 6. Strategy and Plan 
+### 8.2 Living Systems Data  
 
-### 6.1 Strategy 
+### 8.3. Regenerative Underwriting and Resourcing Criteria  
 
-### 6.2 Work Breakdown Structure 
+### 8.4 Guidelines For Regenerativity 
 
-### 6.3 Planning Process  
+## 9. Strategy and Plan 
 
-### 6.4 Phases and Milestones 
+### 9.1 Strategy 
 
-## 7. Program Management and Administration 
+### 9.2 Work Breakdown Structure 
 
-### 7.1 Schedule - Timeline for Phases and Milestones 
+### 9.3 Planning Process  
 
-### 7.2 Budget - Sources and Uses of Resources 
+### 9.4 Phases and Milestones 
 
-### 7.3 Communications System and Plan 
+## 10. Program Management and Administration 
+
+### 10.1 Schedule - Timeline for Phases and Milestones 
+
+### 10.2 Budget - Sources and Uses of Resources 
+
+### 10.3 Communications System and Plan  
+
+### 10.4 Contingency Management  
 
