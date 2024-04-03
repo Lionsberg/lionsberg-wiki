@@ -1,0 +1,82 @@
+# Lionsberg Resource Runway
+
+Financial models for movements are tricky. 
+
+The [[Provisional Structure]] of Lionsberg enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 
+
+_____
+## Baseline Runway 
+
+The Lionsberg System is designed to be co-operated indefinitely into the future with essentially zero overhead. 
+
+During the [[10 Year Grand Strategy]], a nominal baseline runway of ~$50,000 / month is required to secure baseline legal, compliance, administration, and technology stack, plus Jordan's full time focus. 
+
+___
+## Source 1: Membership / Tithes 
+
+At the simplest level, The Movement and the Platform are designed to be self-sustaining based on the monthly membership contributions of the individual [[Lionsberg Co-Creators]]. 
+
+These will come in initially as tax deductible donations to the Lionsberg 501(c)(3) non-profit. 
+
+The [[Lionsberg Cycles of Growth]] charts the basic growth pattern for the movement, and the [[Lionsberg Cycle Time]] measures the time for each cycle. 
+
+The Cycles of Growth follow the Fibonacci sequence as follows. 
+
+Each Co-Creator will make a meaningful monthly tithe / contribution, with a nominal minimum of $10 / month. 
+
+Assuming an average of $20 / month, monthly revenues are as follows out to the first milestone of connecting and empowering 3% of the population: 
+
+- Cycle 1: 2 Co-Creators  - $40 / month  
+- Cycle 2: 3 Co-Creators - $60 / month  
+- Cycle 3: 5 Co-Creators - $100 / month    
+- Cycle 4: 8 Co-Creators (0.0000001%) - $160 / month  
+- Cycle 5: 13 Co-Creators - $260 / month  
+- Cycle 6: 21 Co-Creators  - $420 / month 
+- Cycle 7: 34 Co-Creators  - $680 / month 
+- Cycle 8: 55 Co-Creators  - $110 / month 
+- Cycle 9: 89 Co-Creators (0.000001%) - $1,780 / month 
+- Cycle 10: 144 Co-Creators - $2,880 / month  
+- Cycle 11: 233 Co-Creators - $4,660 / month   
+- Cycle 12: 377 Co-Creators - $7,540 / month  
+- Cycle 13: 610 Co-Creators - $12,220 / month  
+- Cycle 14: 987 Co-Creators (0.00001%)   - $19,740 / month 
+- Cycle 15: 1,597 Co-Creators - $31,940 / month  
+- Cycle 16: 2,584 Co-Creators - $51,680 / month  
+
+At just 2,500 Co-Creators, The Movement becomes indefinitely self-sustaining. 
+
+- Cycle 20: 17,711 Co-Creators - $354,220 / month  
+- Cycle 25: 196,418 Co-Creators - $3,928,360 / month  
+- Cycle 30: 2,178,309 Co-Creators - $43,566,180 / month  
+- Cycle 35: 24,157,817 Co-Creators  - $483,156,340 / month 
+- Cycle 40: 267,914,296 Co-Creators (3%)  - $5,358,285,920 / month 
+
+By the time we hit the first 3% of the population, revenue is > $5 Billion / month  
+
+The first 6 cycles were accomplished in 2 weeks at 1 to 2 days each - see [[Lionsberg Co-Creators]]. 
+
+Allowing 2 weeks for each of the cycles 7 through 16, the movement should reach Cycle 16 and be indefinitely self-sustaining by: 
+
+- 10 cycles x 2 weeks = 20 weeks ~ August 2024
+
+## Source 2: 10% of Project / Business / Ecosystemic Flow 
+
+The second primary source of funds will be 10% of the flow from the projects and regenerative businesses we are co-creating / incubating / accelerating / replicating...  
+
+Assuming the first 3% are organized into Teams averaging 6 individuals tackling meaningful [[Quarterly Quests]] valued at an average of at least $10,000 / quarter, that is an additional $1,000 / quarter ($333 / month) of revenue per Team. 
+
+- Cycle 20: 17,711 Co-Creators / 6 = 2,951 Teams x $333 / month = $982,000 / month 
+- Cycle 25: 196,418 Co-Creators / 6 = 32,736 Teams x $333 / month = $11 Million / month  
+- Cycle 30: 2,178,309 Co-Creators / 6 = 363,051 Teams x $333 / month = $120 Million / month  
+- Cycle 35: 24,157,817 Co-Creators / 6 = 4,026,302 Teams x $333 / month = $1.3  Billion / month 
+- Cycle 40: 267,914,296 Co-Creators (3%) / 6 = 44.6 Million Teams x $333 / month = $14 Billion / month 
+## Startup Capital
+
+Whereas the membership contributions and tithe of project flow are the "thruster engines" that indefinitely propel the movement into a self-sustaining future via millions / billions in monthly flows, the startup can and should be significantly accelerated by capital from visionary high net worth individuals, organizations, and foundations. 
+
+Our near term Aim is to aggregate $2M to $10M in initial working capital to fuel The Movement and ensure we get successfully off the ground. 
+
+Our hypothesis is that this should be secured from stewards of more significant resource pools who are able to contribute $10k to $20k / month for the next 12 months, alongside the everyday heroes contributing $10 to $20 a month. 
+
+Just 3 to 5 of such individuals can ensure that The Movement has the opportunity to succeed. 
+

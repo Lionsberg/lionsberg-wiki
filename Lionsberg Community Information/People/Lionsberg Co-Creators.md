@@ -122,9 +122,9 @@ Cycle Completed March 7, 2024
 	- 1,000 Suns Project, One Degree Network, Maverick 
 - Cycle Completed March 12, 2024  
 - Cycle Time - 5 Days
-## Gap Week 
+## Gap Weeks 
 
-Note: Week of March 18, Jordan largely paused invitations and regrouped, and resumed invitations March 29 with the start of the Above The Chaos Tour. 
+Note: Week of March 18, Jordan largely paused invitations and regrouped, and resumed invitations April 1 with the start of the Above The Chaos Tour. 
 ## Cycle 7: Expansion Out to 34 Co-Creators 
 
 22. Stuart Levine 
