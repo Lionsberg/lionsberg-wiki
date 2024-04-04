@@ -767,7 +767,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - The invisibly tensive straws that can save us are those  of individual human integrities—in daring to steer the individual’s course only by truth, strange as the realized truth  may often seem—wherever and whenever the truths are  evidenced to the individual—wherever they may lead, unfamiliar as the way may be. 
 - …humans have learned scientifically that the exact truth can never be attained or told. We can reduce the degree of [[Residual Error]], but we have learned physically… that exactitude is prohibited… 
 - We can sense that only [[God]] is the perfect—the exact  [[Truth]]. 
-- We can come ever nearer to [[God]] by progressively eliminating [[Resididual Error]]. 
+- We can come ever nearer to [[God]] by progressively eliminating [[Residual Error]]. 
 - The nearest each of us can  come to [[God]] is by loving the [[Truth]]. 
 - If we don’t program  the computer truthfully with all the truth and nothing but the truth, we won’t get the answers that allow us to  “make it.” 
 - In speaking of [[Truth]] we are not talking about the position to take that seems to put you in the most favorable light. We are not talking about political correctness, or bending our speech to the dictates of dogmatic religion or ideology. 

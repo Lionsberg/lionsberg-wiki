@@ -8,7 +8,7 @@ Humanity is at a pivotal point in its Journey. The path we're on isn't working. 
 
 ### The Dawn of a Movement
 
-On March 1st, we transitioned from [[The 7 Year Window of Preparatory Work and Learning|seven years of preparation]] to a [[10 Year Grand Strategy]] to catalyze a worldwide movement towards [[The Future]] we seek. This movement aims to reunite humanity in transforming our society and healing our planet by inviting each person, one by one, to awaken, arise, and become [[Co-Creators]] of the [[Better World]] we know is possible and intended to be. Our goal is to engage at least 3% of the global population by 2026, creating for the first time in history a powerful, decentralized [[Force For Good]] capable of working together to meet the needs, solve the problems, and accomplish the goals at hand. 
+On March 1st, we transitioned from [[The 7 Year Window of Preparatory Work and Learning|seven years of preparation]] to a [[10 Year Grand Strategy]] to rebuild the foundations of our society and catalyze a movement towards [[The Future]] we seek. This movement aims to reunite citizens in transforming our society and healing our planet by inviting each person, one by one, to awaken, arise, and become [[Co-Creators]] of the [[Better World]] we know is possible and intended to be. Our goal is to engage at least 3% of the global population by 2026, creating for the first time in history a powerful, decentralized [[Force For Good]] capable of working together to meet the needs, solve the problems, and accomplish the goals at hand. 
 
 ### Your Role in This Epic Journey
 
@@ -16,7 +16,7 @@ You have been chosen to be among the first to lead this change and shape [[The F
 
 ### The Growing Wave
 
-In just two weeks, we ignited [[The Flame]] with 21 [[Lionsberg Co-Creators|Co-Creators]]. Now, it is time to [[Pass The Flame]] and begin building [[The Movement]] towards [[The Goal]]. With everything at stake, we are aiming for a rapid invitation-only growth that could rapidly unite billions in [[The Cause]]. We are at the beginning of something extraordinary, with the potential to reshape our future.
+In just two weeks, we ignited [[The Flame]] with 21 [[Lionsberg Co-Creators|Co-Creators]]. After pausing to regroup, it is time to [[Pass The Flame]] and begin building [[The Movement]] towards [[The Goal]]. With everything at stake, we are aiming for a rapid invitation-only growth that could rapidly unite billions in [[The Cause]]. We are at the beginning of something extraordinary, with the potential to reshape our future.
 
 ### The Invitation: Join Us in Shaping the Future
 
