@@ -7,11 +7,11 @@
 
 We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[One Body]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
 
-Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] *is* [[One Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Understanding for the Greatest Good of All Current and Future Generations of Life. 
+Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[One Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Understanding for the Greatest Good of All Current and Future Generations of Life. 
 
 As a human species, we Reacknowledge that [[All Creation]] is One Living and Interexistent System, and that [[What We Do Or Do Not Do To Any, We Do Or Do Not Do Unto One, Our Selves, And All]]. 
 
-We therefore recognize that it is our Purpose, Role and Responsibility, as a human species endowed with [[Creative Consciousness]], to [[Co-Operate]] Competently, Continuously and Courageously *in service of* [[One]] and [[All]]. 
+We therefore recognize that it is our Purpose, Role and Responsibility, as a human species endowed with [[Creative Consciousness]], to continually refresh the foundations of our Society and [[Co-Operate]] Competently, Continuously and Courageously *in service of* [[One]] and [[All]]. 
 
 We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between the [[Creator]], Humanity, and [[All Creation]]. 
 
@@ -19,12 +19,12 @@ We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relat
 
 Our Purpose, Aim, and Goal is to Progress towards universal and eternal Right Relationship between [[One]] and [[All]]; Creator and All Creation. 
 
-It has now been variously revealed to all tribes and peoples that this Covenantal Relationship is One of Love, Harmony, Coherence, and Ultimately, Unity. It is for this reason that we say, "in order to forge [[An Ever More Perfect Union]]."
+It has now been variously revealed to all tribes and peoples that this Covenantal Relationship is One of Love, Harmony, Coherence, and Ultimately, Unity. 
 
 Desiring for none to suffer and for All to develop towards the fullness of their unique [[Potential]] and [[Flourish in Harmony]], we establish as our Goal _the total integrated wellbeing, development, and right relationship of All Generations of Life and Consciousness._
 ## The Spirit and The Letter of The Law
 
-Whereas our former existence in the [[Old World]] was governed by [[The Letter Of The Law]], We commit to a [[New Covenant]] governed by [[The Spirit]], [[Wisdom]], [[Principles]], and [[Values]] that cause people, societies, and the Living System [[We]] are a part of to [[Flourish]] in [[Harmony]] and [[Coherence]].    
+Whereas our former existence in the [[Old World]] was governed by [[The Letter Of The Law]], We hereby commit to a [[New Covenant]] governed by [[The Spirit]], [[Wisdom]], [[Principles]], and [[Values]] that cause people, societies, and the Living System [[We]] are a part of to [[Flourish]] in [[Harmony]] and [[Coherence]].    
 
 Whereas [[The Letter Of The Law]] became burdensome and degenerated into a mere restraint on the worst tendencies of humankind, we hereby voluntary commit Our [[Selves]], of our own [[Free Will]], to Do Our Best to enact and embody [[The Spirit]] that not only fulfills the Word of [[The Law]], but actively creates, sustains, and regenerates Life and Society, and is even willing to lay down its own Life out of [[Love]] in service to [[One]] and [[All]]. 
 
@@ -38,11 +38,11 @@ In this Spirit, We hereby voluntarily adopt this Responsibility, and proclaim a 
 
 ## Transforming The Living Word  
 
-In this [[New Millennium]] and Millennia To Come, humanity will gain [[New Light]] as its Consciousness is Progressively Enlightened. 
+In this [[New Millennium]] and the thousands of Millennia To Come, humanity will gain [[New Light]] as its Consciousness is Progressively Enlightened. 
 
 The words in this [[New Covenant]] and throughout [[Lionsberg]] therefore should be continually revivified, refreshed, and transformed by [[The Spirit]] of the [[One]] beckoning [[All Creation]] to [[Progressively Realize]] a [[An Ever More Perfect Union]] through [[Love]]. 
 
-These words could be expressed in a thousand different ways, in a thousand different languages, appropriate to a thousand different localities and cultural contexts. It is the Spirit of the [[One]] that Creates and Sustains the Universe that Reigns Supreme, to Whom We are All Ultimately Accountable, and to Whom we Reunite Our Selves in this [[New Covenant]] Relationship. 
+The words to express the [[Central Animating Spirit]] of this [[New Covenant]] vary across a thousand different localities and cultural contexts. It is the Spirit of the [[One]] that Creates and Sustains the Universe that Reigns Supreme, to Whom We are All Ultimately Accountable, and to Whom we Reunite Our Selves in this [[New Covenant]] Relationship. 
 
 ## The Lionsberg System 
 
@@ -74,7 +74,7 @@ We The People are Embodying and Enacting this New Covenant and Forging this [[Hi
 
 We acknowledge the Self-Evident, Universal, and Eternal Right and Responsibility of Individuals of Good Intent to freely exist, associate, think, speak, and act, individually and collectively, in accordance with the dictates of Our own Spirit, Conscience, and Moral Convictions, in order to secure the Best Possible Future for Our Selves and All. 
 
-Organizing our Selves as Individuals of Goodwill around the world voluntarily in partnership with the Creator and All Creation, we reassert Our Self-Evident and [[Ultimately Ineffable]] Rights and Responsibilities as Individuals and members of One Human Family. 
+Organizing Our Selves as Individuals of Goodwill around the world voluntarily in partnership with the Creator and All Creation, we reassert Our Self-Evident and [[Ultimately Ineffable]] Rights and Responsibilities as Individuals and members of One Human Family. 
 
 Co-Creating in Partnership with [[One]], One Another, and [[All Creation]], no existing institution or authority shall have [[Power Over]], or the right to interfere with, the Co-Operation of this Universal Body of Goodwill. 
 
@@ -84,17 +84,19 @@ Additionally, the Lionsberg System is eternally prohibited from making any Agree
 
 We recognize [[All Creation]] as One [[Living System]] We are a part of. 
 
-While taking back up Our Sovereignty, Responsibility and Authority Individually and Collectively in service of One and All, we acknowledge our interexistence with the Living System we exist within, the sacredness of every aspect of The Body of Creation, and Our Spiritual and Moral Duty to Co-Operate as Guardians and Stewards of Creation. 
+While taking back up Our Sovereignty, Responsibility and Authority Individually and Collectively in service of One and All, we acknowledge our interexistence with the Living System we are a part of, the sacredness of every aspect of The Body of Creation, and Our Spiritual and Moral Duty to Co-Operate as Guardians and Stewards of Creation. 
 
-We resolve to Become a truly Regenerative species, to Reintegrate the Human System within the Living System that contains and sustains it, and to ensure that our actions and existence perennially leave every locality and bioregion a better, more flourishing, and more biodiverse place for All Future Generations to enjoy. 
+We resolve to Become a fully Regenerative species, to Reintegrate the Human System within the Living System that contains and sustains it, and to ensure that our actions and existence perennially leave every locality and bioregion a better, more flourishing, and more biodiverse place for All Future Generations to enjoy. 
 
-We recognize that The Transformation of our Way of Being as a Human Species towards True Regenerativity, Harmony, and Coherence requires a fundamental realignment of our systems, structures, and ways. It is for this reason we are Co-Creating the Lionsberg System and entering into this New Covenant, and We commit our Selves to this comprehensive Transformation, within a single generation, in All its requisite dimensions, no matter where this Way of Truth and Love may lead. 
+We recognize that The Transformation of our Way of Being as a Human Species towards Regenerativity, Harmony, and Coherence requires a fundamental realignment of our systems, structures, values and ways. It requires nothing less than a Great ReFounding of our society. 
+
+It is for this reason we are Co-Creating the Lionsberg System and entering into this New Covenant. We commit our Selves to this comprehensive Transformation, within a single generation, in All its requisite dimensions, no matter where this Way of Truth and Love may lead. 
 
 ## Governance 
 
 All Governance, Authority, and Responsibility shall be Progressively Decentralized to the greatest degree possible. 
 
-The Lionsberg System is designed to be implemented Fractally via a [[Pattern Language]] that affords [[Interoperability]] among an infinite decentralized array of voluntarily co-operating Individuals, Groups, Organizations, Localities, Bioregions, Planets, and Star Systems. 
+The Lionsberg System is designed to be implemented Fractally via a [[Pattern Language]] that affords [[Interoperability]] among an infinite decentralized array of voluntarily co-operating Individuals, Groups, Organizations, Localities, Bioregions, Planets, and other Domains. 
 
 All Association is Voluntary and requires ongoing [[Mutual Consent]]. 
 

@@ -130,7 +130,13 @@ Note: Week of March 18, Jordan largely paused invitations and regrouped, and res
 22. Stuart Levine 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jerry Michalski 
-23. 
+23. Rob Mayer 
+	- Invited by: Jordan
+	- Introduced to Jordan by: Jordan 
+24. Ernie Hernandez 
+	- Invited by: Jordan
+	- Introduced to Jordan by: Ron Sukut 
+
 
 ## Invitations
 
