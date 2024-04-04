@@ -131,7 +131,7 @@ Note: Week of March 18, Jordan largely paused invitations and regrouped, and res
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jerry Michalski 
 23. Rob Mayer 
-	- Invited by: Jordan
+	- Invited by: Jordan  
 	- Introduced to Jordan by: Jordan 
 24. Ernie Hernandez 
 	- Invited by: Jordan
@@ -200,6 +200,7 @@ Note: Week of March 18, Jordan largely paused invitations and regrouped, and res
 54. Dan L 
 55. James Z 
 56. Daniel AI (March) 
+57. Se
 
 
 

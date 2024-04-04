@@ -7,9 +7,7 @@ The [[Provisional Structure]] of Lionsberg enables us to bring in resources in a
 _____
 ## Baseline Runway 
 
-The Lionsberg System is designed to be co-operated indefinitely into the future with essentially zero overhead. 
-
-During the [[10 Year Grand Strategy]], a nominal baseline runway of ~$50,000 / month is required to secure baseline legal, compliance, administration, and technology stack, plus Jordan's full time focus. 
+During the [[10 Year Grand Strategy]], a nominal baseline runway of ~$50,000 / month is required to secure baseline legal, compliance, administration, technology stack, and Jordan's focus. 
 
 ___
 ## Source 1: Membership / Tithes 
@@ -90,13 +88,12 @@ Assuming a [[Lionsberg Cycle Time]] of 2-3 weeks, the System and Movement will b
 
 Whereas the membership contributions and tithe of project flow are the "thruster engines" that indefinitely propel the movement into a self-sustaining Future via millions / billions in monthly flows, the startup can and should be significantly accelerated by capital from visionary high net worth individuals, organizations, and foundations. 
 
-Jordan put in the first couple million to build the Commons and Platform and forge the Starting Point. 
+Jordan put in the first ~ couple million and curated together tens of millions of dollars of value to build the Commons and Platform and forge the Starting Point. 
 
 Our near term Aim is now to aggregate $2M to $10M in initial working capital to fuel The Movement and ensure we get it successfully and powerfully off the ground. 
 
+Working Capital beyond the baseline runway of $50k / month will stewarded in a Critical Path Fund and used to resource Teams handling various functions and Quests that advance the Critical Path towards The Goal. 
 
+Emphasis will be placed on resourcing and accelerating regenerative self-sustaining businesses that can handle key functions indefinitely into the future. 
 
-Our hypothesis is that this should be secured from stewards of more significant resource pools who are able to contribute $10k to $20k / month for the next 12 months, alongside the everyday heroes contributing $10 to $20 a month. 
-
-Just 3 to 5 of such individuals can ensure that The Movement has the opportunity to succeed. 
-
+Our hypothesis is the baseline runway may be secured from several stewards of more significant resource pools who are able to commit to leadership contributions of $10k to $20k / month for the next 12 months, alongside the everyday heroes contributing $10 to $20 a month. 
