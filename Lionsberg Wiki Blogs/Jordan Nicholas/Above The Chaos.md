@@ -14,6 +14,10 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]   
 - [[Above The Chaos, Game Plan For March]]  
 
+## April 2024 
+
+- [[Above The Chaos, 2024 Elections]]  
+
 ## March 2024 
 
 - [[Above The Chaos, Culture, Onboarding, Training, and Development]]  
