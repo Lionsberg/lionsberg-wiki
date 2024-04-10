@@ -41,6 +41,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing, email
 - [[Organizations The Lionsberg Way]]  
 - [[Project Delivery Guide]]  
 - [[Your Story]] 
+- [[3.2 Crowdfunding Overview]]  
 
 ## The Lionsberg System Toolkit
 

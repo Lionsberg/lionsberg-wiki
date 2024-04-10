@@ -135,7 +135,20 @@ Note: Week of March 18, Jordan largely paused invitations and regrouped, and res
 	- Introduced to Jordan by: Jordan 
 24. Ernie Hernandez 
 	- Invited by: Jordan
-	- Introduced to Jordan by: Ron Sukut 
+	- Introduced to Jordan by: Ron Sukut  
+- 25. Steve Schwarz 
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Sasha Strauss  
+	- Art of Tea  
+- 26. Justin LeBlanc 
+	- Invited by: Jordan
+	- Introduced to Jordan by: Jahn Ballard 
+- 27. Jahn Ballard
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Rob Farjado 
+- 28. Warren Linney 
+	- Invited by: Jahn Ballard 
+	- Introduced to Jordan by: Jahn Ballard 
 
 
 ## Invitations
