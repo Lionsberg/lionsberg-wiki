@@ -16,6 +16,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## April 2024 
 
+- [[Above The Chaos, Jordan and AI Discuss a Theory of Everything, a Universal Movement, Interstellar Expansion, and the US Elections]]  
 - [[Above The Chaos, 2024 Elections]]  
 
 ## March 2024 
