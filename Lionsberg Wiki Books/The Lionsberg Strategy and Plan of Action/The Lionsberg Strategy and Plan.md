@@ -311,21 +311,9 @@ These two dimensions create the basis for [[Measurement]] and [[Continuous Impro
 
 
 
-## Unified Vision, Strategy, and Planning at the Highest Level
+## Unified Vision, Values and Strategy at the Highest Level
 
 
-
-
-
-
-
-
-
-
-
-## Domain: Worksite Earth
-
-The Lionsberg 
-
+## Decentralized Governance, Planning, and Action 
 
 
