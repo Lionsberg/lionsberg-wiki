@@ -1,2 +1,0 @@
-# Lionsberg Membership
-
