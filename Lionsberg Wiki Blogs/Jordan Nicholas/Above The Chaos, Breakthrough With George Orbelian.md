@@ -8,7 +8,7 @@ A post in [[Above The Chaos]]
 
 Below I begin to weave and interlink the solutions and concepts with the [[Lionsberg System and Approach]], and make the combination available to the public for the first time. 
 
-The post below is at present 7% complete - and already brimming with useful information for [[The Movement]]. 
+The post below is at present 7% complete - and already brimming with useful information for [[The Movement]]. (Note to self - left off at page 6 of 84). 
 
 ## Selected Quotes 
 
@@ -26,11 +26,8 @@ The post below is at present 7% complete - and already brimming with useful info
 
 "We have four ways through which we can see and interact with the world: through the physical / body, intelligence / mind, emotion / sentience, transformation / energy - memory can influence intent, logic is a foundation of our constantly developing awareness. [[Awareness]] is a consequence of [[Consciousness]]" - Sadhguru – Is Consciousness a Miracle Harvard’s Cognitive Scientist Professor Steven Pinker & Sadhguru - [https://www.youtube.com/watch?v=pCGDQPZYmQM](https://www.youtube.com/watch?v=pCGDQPZYmQM)  
 
-Life is social. It exists in communities and collectives. You and I are both composed of a collection of organs and tissues: the organs are made-up of billions of living cells, each of which can also live independently. Then the cells themselves, as Lynn Margulis has shown, are communities of micro-organisms that once lived free. The energy transforming entities of animal cells, the mitochondria, and of plants, the mitochondria, and chloroplasts, both were once bacteria living independently.” - James Lovelock, _The Ages of Gaia_ 
-[Tim Lenton Interviews James Lovelock](https://www.youtube.com/watch?v=MGziItCwDJA)
-
-  
-
+"Life is social. It exists in communities and collectives. You and I are both composed of a collection of organs and tissues: the organs are made-up of billions of living cells, each of which can also live independently. Then the cells themselves, as Lynn Margulis has shown, are communities of micro-organisms that once lived free. The energy transforming entities of animal cells, the mitochondria, and of plants, the mitochondria, and chloroplasts, both were once bacteria living independently.” - James Lovelock, _The Ages of Gaia_ 
+- [Tim Lenton Interviews James Lovelock](https://www.youtube.com/watch?v=MGziItCwDJA)
 
 ## Selected Links 
 
