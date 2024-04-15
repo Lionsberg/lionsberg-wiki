@@ -4,9 +4,9 @@ By [[Jordan Nicholas Sukut]], 2024.04.14 _(updated 2024.04.14)_
 
 A post in [[Above The Chaos]]  
 
-[[George Orbelian]] has spent the last 10 years attempting to curate and map together the people and solutions required to accomplish [[The Goal]]. He has assembled these in a monster document he calls BREAKTHROUGH. 
+[[George Orbelian]] has spent the last 10 years curating and mapping the people and solutions required to accomplish [[The Goal]]. He has assembled these in an epic document he calls BREAKTHROUGH. 
 
-Below I begin to weave and interlink the solutions and concepts with the [[Lionsberg System and Approach]], and make the combination available to the public for the first time. 
+Below we begin to weave and interlink the solutions and concepts with the [[Lionsberg System and Approach]], and make the combination available to the public for the first time. 
 
 The post below is at present 7% complete - and already brimming with useful information for [[The Movement]]. (Note to self - left off at page 6 of 84). 
 
