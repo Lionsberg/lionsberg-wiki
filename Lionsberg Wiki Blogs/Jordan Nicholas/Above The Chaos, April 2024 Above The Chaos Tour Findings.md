@@ -24,7 +24,7 @@
 - [[Marion Rockefeller Weber]] - via [[George Orbelian]]  
 - [Kinship Earth](https://kinshipearth.org) - inspired by Susan Davis Moora, connected to [[Marion Rockefeller Weber]] - via [[George Orbelian]]    
 - [[Daniel Friedman]] - Active Inference - via [[Jordan]]   
-- [[Samantha Power]] - via [[Day]] - bioregional financing facilities - Finance For Gaia   
+- [[Samantha Power]] - via [[Day Waterbury]] - bioregional financing facilities - Finance For Gaia   
 - [[Seth Blaustein]] - [Dollar Donation Club](https://dollardonationclub.com - via [[George Orbelian]]  
 - [[Brooke Darshana]] - via [[George Orbelian]]  
 - Connecting the power women of tech 
@@ -35,37 +35,37 @@
 - National Geographic Photographers Project 
 	- Tag and SpatioTemporally locate photos and make visible  
 	- Surfacing cultures and biodiversity from around the world  
-- [[Zachary Marley]] - via [[Day]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
+- [[Zachary Marley]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
 - Planet.com - via [[George Orbelian]]  
 - Planetlive.at - via [[George Orbelian]]   
 - [[Barbara Merz]] - via [[George Orbelian]]  
-- [[Filecoin Foundation for the Decentralized Web]] - https://ffdweb.org - via [[Day]]   
+- [[Filecoin Foundation for the Decentralized Web]] - https://ffdweb.org - via [[Day Waterbury]]   
 - [[Jahn Ballard]] - via [[Rob Farjado]]  
 - [[Chris Bui]] - via [[Jahn Ballard]]  
-- [[Kaitlin Donovan]] - [[Filecoin Foundation for the Decentralized Web]] - via [[Day]]    
+- [[Kaitlin Donovan]] - [[Filecoin Foundation for the Decentralized Web]] - via [[Day Waterbury]]    
 - [[Phil Dillard]] - Thruline Networks - via [[Jahn Ballard]]  
-- [[Noah Thorpe]] - via [[Day]] 
-- [[Brigham]] - Goodly Labs - via [[Day]]  
+- [[Noah Thorpe]] - via [[Day Waterbury]] 
+- [[Brigham]] - Goodly Labs - via [[Day Waterbury]]  
 	- Public Editor - information labeler. Community navigation towards [[Truth]]. 3 annotators label every piece of [[Information]] in an article or post. Measuring how often each given [[Annotator]] is in [[Consensus]] (interesting [[Apparent Polarities]])  
 	- [[Mapping Decision Points]] in [[Experiential Processes]] such as police / protester interactions. [[Primes]]. 
 	- Same Page Project  
 	- Governance Garden  
 	- [[Jordan Nicholas Sukut]] and [[Brigham]] need to follow up. 
-- [[David Hodgson]] - connected to [[Jordan Nicholas Sukut]], [[Day]], and many others. Key in early [[Weaving]] of relationships in [[The Movement]] 
+- [[David Hodgson]] - connected to [[Jordan Nicholas Sukut]], [[Day Waterbury]], and many others. Key in early [[Weaving]] of relationships in [[The Movement]] 
 - [[Benjamin Life]] - via [[Jordan]]  
-- [[Matt Prewitt]] - RadicalXChange - via [[Day]] 
+- [[Matt Prewitt]] - RadicalXChange - via [[Day Waterbury]] 
 - [[Josh Whiton]] - MakeSoil - via [[Jordan]] 
 - [[Kathryn Langstaff]] - https://www.linkedin.com/in/kathrynlangstaff/ - via [[Jordan]]  
 - [[Gregory Landua]] - Regen Network - via [[David Casey]]    
 - [[Tibet Sprague]] - Collaborative Tech Alliance - https://www.collaborative.tech  
-- [[Robert (Bobby) Fishkin]] - Reframeit - via [[Day]]  
+- [[Robert (Bobby) Fishkin]] - Reframeit - via [[Day Waterbury]]  
 - [[Arthur Brock]] - Holochain - via [[Jordan]]  
 - [[Abu Samra]] - urban renewal - via [[Jordan]]  
 - [[Sadie Adams]] - World Systems Solutions - https://wssnow.org/about/board-of-directors/ - via [[George Orbelian]]  
 - [[Michael Irish]] - Sedo Gravitas - https://www.linkedin.com/in/michael-irish-02451b1/  
 - [[James Canton]] - via [[George Orbelian]]  
 - [[Yaro Kramer]] - via [[Scott Broomfield]] and [[Yanik Silver]]  
-- [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day]]'s invitation to conference  
+- [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day Waterbury]]'s invitation to conference  
 - [[Hael Kobayashi]] - via [[George Orbelian]] - https://www.linkedin.com/in/hael-kobayashi/  
 - [[Kris M]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
 - [[Bill Reed]] - via [[George Orbelian]] - https://regenesisgroup.com/team/bill-reed 
@@ -75,6 +75,8 @@
 - [[Nik Bertulis]] - http://www.nikbertulis.com - via [[Jordan]]  
 - [[Steve Schwarz]] - Art of Tea - via [[Jordan]]  
 - [[Sasha Strauss]] - Innovation Protocol - via [[Jordan]]  
+- [[Michael Likosky]] - https://www.governing.com/authors/michael-likosky.html - via [[George Orbelian]]  
+- 
 
 
 [[Lionsberg Co-Creators]]
@@ -166,11 +168,11 @@
 - [[The Feed]]  
 	- What ends up in [[Your Feed]]? 
 	- Where is [[Your Feed]] from? 
-- [[Filecoin Foundation for the Decentralized Web]] - Filecoin may be like InterPlanetary File System - Filecoin may be the utility token for IPFS / the fuel (per [[Day]]). 
+- [[Filecoin Foundation for the Decentralized Web]] - Filecoin may be like InterPlanetary File System - Filecoin may be the utility token for IPFS / the fuel (per [[Day Waterbury]]). 
 	- [[Protocol Labs]] incubated IPFS and Filecoin, along with both conferences
 - [[Funding]]  
 	- [[Funding Cycles]] - challenges with short funding cycles that leave teams spending inordinate [[Time]] searching for [[Resources]].  
-- [[Day]] mentioned [Camp Navarro](https://www.campnavarro.com/cn-festivals) as a potentially worthwhile connecting location / event  
+- [[Day Waterbury]] mentioned [Camp Navarro](https://www.campnavarro.com/cn-festivals) as a potentially worthwhile connecting location / event  
 - [[Health Insurance]] 
 	- Disconnecting Health Insurance from Jobs  
 	- Escaping from existence as [[Employee Consumer Slaves]]  
@@ -223,7 +225,7 @@
 	- [[Jordan Nicholas Sukut]]  
 	- Education and guidance on Critical Path, Waste, Value, et al 
 - Further Refine and Embody Communications System 
-	- [[Jordan Nicholas Sukut]], [[Justin LeBlanc]], [[Peter Kaminski]], [[Day]] 
+	- [[Jordan Nicholas Sukut]], [[Justin LeBlanc]], [[Peter Kaminski]], [[Day Waterbury]] 
 	- Groups communicate in small groups... 
 	- Groups slow down to [[Harvest, Curate, and Push]] Signal to the [[Lionsberg Wiki]]  
 	- A group synthesizes, composts, and sends the synthesis back out to The Whole  
@@ -280,6 +282,6 @@
 - An ancient grandmother was asked, "*What is [[Tradition]]?*". The grandmother replied, "[[Tradition]] is What Works." She was then asked, "*What is [[Sacred]]?*". She replied, "[[Sacred]] is connection."  
 
 ## Miscellaneous 
-- [[Day]] brought up an [[Autonomous]] region in Northeast Syria that he wants to weave into the [[Dialogue]]  
-- [[Duke]] suggested that [[Pom]] and [[Day]] connect. 
+- [[Day Waterbury]] brought up an [[Autonomous]] region in Northeast Syria that he wants to weave into the [[Dialogue]]  
+- [[Duke]] suggested that [[Pom]] and [[Day Waterbury]] connect. 
 - [LittleSis](https://littlesis.org) - public accountability initiative 
