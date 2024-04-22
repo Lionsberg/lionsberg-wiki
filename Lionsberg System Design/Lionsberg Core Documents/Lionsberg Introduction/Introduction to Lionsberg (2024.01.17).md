@@ -10,7 +10,7 @@ As we face collectively into the [[Meta Crisis]], there is a self-evident need f
 
 In 2017, [[Jordan Nicholas Sukut]] and allies began building the infrastructure and laying the groundwork for an unprecedented [[Citizen Led Response]] to the crises and opportunities that are now at hand. 
 
-After millions of dollars, millions of words, thousands of hours, and dozens of convenings invested, we believe it is time to coalesce the human and capital commitments required to spread the message publicly and enact the [[New Vision and Plan]]. 
+After millions of dollars, millions of words, thousands of hours, and dozens of convenings invested during [[The 7 Year Window of Preparatory Work and Learning]], in March 2024 we launched the [[10 Year Grand Strategy]] and began to coalesce the human and capital commitments required to spread the message publicly and enact the [[New Vision and Plan]]. 
 
 We are seeking a courageous tribe of Individuals to ***commit*** the human and financial capital required to advance [[The Quest]], come what may.
 ## Context 
@@ -43,6 +43,8 @@ Because the solutions must emerge from the bottom up through the voluntary colla
 
 Rather than trying to predict *how* to solve every problem facing humanity, we are focused on progressively uniting ***the right individuals*** to work together in ***autonomous, self-sustaining and self-replicating teams*** to build meaningful relationships, forge meaningful teams, solve meaningful problems, and accomplish meaningful goals in service of our overarching and uniting [[Meta Goal]]. 
 
+Committed individuals become [[Lionsberg Co-Creators]]. 
+
 ## How 
 
 ### 1. The Whole 
@@ -51,15 +53,15 @@ As a Whole, Lionsberg is responsible for inspiring, enlightening, and coalescing
 
 This includes widespread campaigns to ***educate and enlighten*** a growing percentage of the free thinking population about the crises facing humanity, the erosive threats to individual and local values and freedoms, and the Lionsberg alternative. This creates a [[Tipping Point]] strategy centered around a shift in paradigm / narrative / story, leading to passionate and engaged action across a growing movement. 
 
-### 2. Individuals, Teams, and Localities
+### 2. Fractal Implementation - Individuals, Teams, and Localities
 
 Each autonomous and self-sustaining individual, team, and locality is responsible for their own self-governance, progress, and self-replication, and for contributing back more than they receive from The Commons. 
 
 This structurally connected team of teams approach goes beyond merely calling for transformation, into the pragmatic training, equipping, and replicating of aligned individuals, teams, and localities. 
 
-It is expected that individuals, teams, and localities will spend 10 to 20% of their Time, Energy, and Attention communicating, coordinating and strengthening the Whole, and 80% to 90% of their attention on their local quarterly goals and [[Quests]]. 
+It is anticipated that individuals, teams, and localities will spend 10 to 20% of their Time, Energy, and Attention communicating, coordinating and strengthening the Whole, and 80% to 90% of their attention on their local quarterly goals and [[Quests]]. 
 
-### 3. Goals, Impact, and Incentive  
+### 3. Goals, Impact, and Incentives  
 
 The [[Meaningful Work]] we accomplish via the growing [[Team of Teams]] is aligned, measured, and validated by the [[Lionsberg Integrated Delivery System]]. It is designed to eventually be quantified and rewarded via the revolutionary [[Lionsberg Currency]] that fundamentally redefines and aligns the notion of Value beyond the failing fiat currencies. 
 
@@ -75,7 +77,7 @@ Additionally, by investing the resources generated in the co-creation and streng
 
 ### 6. A New Operating System 
 
-Ultimately, the Lionsberg System is designed as a comprehensive new human operating system, serving and enabling transformative collaboration and resource flows across [[The 12 Pillars of Lionsberg]], while solving the problem of ***Individual and Local Agency, Empowerment, and Collaboration*** in the face of the [[Meta Crisis]].  
+Ultimately, the Lionsberg System is designed as a comprehensive [[New Human Operating System]], serving and enabling transformative collaboration and resource flows across [[The 12 Pillars of Lionsberg]], while solving the problem of ***Individual and Local Agency, Empowerment, and Collaboration*** in the face of the [[Meta Crisis]].  
 
 ### 7. Emergence, Transformation, and Continuous Improvement 
 
@@ -83,7 +85,7 @@ Humbly understanding that [[We Do Not Know]], the entire Lionsberg structure and
 
 ## The 7 Year Window of Crisis and Opportunity
 
-[[The 7 Year Window of Crisis and Opportunity]] from 2023 to 2030 may be the last opportunity in generations to vanquish the rising forces of chaos and totalitarian control threatening society. During this period of time, we have the opportunity *pre-collapse* to voluntarily arise and unite to win the spiritual battle for our collective soul, to transcend and transform existing laws and institutions, to reestablish the individual, community, and locality as the [[Locus of Sovereignty]] and authority on Earth, and to forge a [[Higher Order Functional Unity]] among people of [[Goodwill]] as [[One Citizenship Under God]]. 
+[[The 7 Year Window of Crisis and Opportunity]] we are now in may be the last opportunity in generations to vanquish the rising forces of conflict, chaos and totalitarian control threatening society. During this period of time, we have the opportunity *pre-collapse* to voluntarily arise and unite to win the spiritual battle for our collective soul, to transcend and transform existing laws and institutions, to reestablish the individual, community, and locality as the [[Locus of Sovereignty]] and authority on Earth, and to forge a [[Higher Order Functional Unity]] among people of [[Goodwill]] as [[One Citizenship Under God]]. 
 
 ## An Unprecedented Citizen Led Response
 
@@ -95,7 +97,7 @@ With generations of flourishing or suffering hanging in the balance, this is not
 
 We are seeking ***committed individuals and resources*** for the battles and pathway that lie ahead. It is time for a ***passionately committed tribe*** to embark on The Quest towards The Goal. 
 
-If you believe you are a match for this courageous, dangerous and visionary undertaking, please reach out to J@Lionsberg.org and we will open a three-way dialogue with the person who referred you. 
+If you believe you are a match for this courageous, dangerous and visionary undertaking, please reach out to J@Lionsberg.org or one of the current [[Lionsberg Co-Creators]] and we will open a three-way dialogue with the person who referred you. 
 
 With Love, In Community, 
 

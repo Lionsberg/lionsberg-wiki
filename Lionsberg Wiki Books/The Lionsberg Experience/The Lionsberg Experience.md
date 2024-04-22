@@ -4,9 +4,9 @@ The Lionsberg Experience is intended to guide members on a quarter by quarter Qu
 
 Goal - to make every player, team, as strong, competent, and resilient as possible. 
 
+Below is a start to brainstorming on the [[3 Year Healing, Orientation, and Empowerment Process]] that precedes [[Citizenship]] in the [[New Era]].   
 
-
-
+[[The Lionsberg Co-Creator Handbook]] will accompany [[The Experience]]. 
 
 ## One: Onboarding and Orientation
 

@@ -2,7 +2,7 @@
 
 We are monitoring the growth of [[The Tree]] of Lionsberg that is emerging from [[The Golden Seed]]. The [[Lionsberg Cycles of Growth]] are like growth rings on a tree that help us measure and monitor [[Progress]] towards [[The Goal]]. 
 
-The [[Emergence]] unfurls itself along the [[Fibonacci]] sequence found throughout the [[Living System]]. Notice that the number of [[Co-Creators]] in each Cycle is equal to the two previous numbers combined together. See [[Lionsberg Cycles of Growth]] for the full sequence. 
+The [[Emergence]] unfurls itself along the [[Fibonacci]] sequence found throughout the [[Living System]]. The number of [[Co-Creators]] in each Cycle is equal to the two previous numbers combined together. See [[Lionsberg Cycles of Growth]] for the full sequence. 
 
 We are monitoring the [[Lionsberg Cycle Time]] to gauge how efficiently we can [[Progress]] through the **50 Cycles** required to move the entire human population [[FROM the Old TO the New]], ensuring that this occurs within [[The 7 Year Window of Crisis and Opportunity]]. 
 
@@ -92,31 +92,31 @@ Cycle Completed March 7, 2024
 	- Invited by: Emma Joy Sukut 
 	- Introduced by: Emma Joy Sukut  
 	- Volunteered to help Emma organize youth in Sandpoint 
-- 15. Alec Marshall 
+- 15. [[Alec Marshall]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Ana Marshall  
 	- Volunteered to lead first communications team 
-- 16. Donovan Bishop 
+- 16. [[Donovan Bishop]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Ron Sukut  
 	- Interested in US Political front, the future of Church, and embodying a new way of being as One Body  
-- 17. Daniel Jones 
+- 17. [[Daniel Jones]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
 	- Working with Jordan to build a Team of Teams in the heavy civil construction industry - first company in the Lionsberg North America Federation  
-- 18. Caleb Reynoldson 
+- 18. [[Caleb Reynoldson]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
 	- Working with substance abuse, rehabilitation, and suicide prevention in the construction industry.  
-- 19. Daniel Musembi  
+- 19. [[Daniel Musembi]]  
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Estelle Kabithi  
 	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
-- 20. Daniel Friedman 
+- 20. [[Daniel Friedman]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: ? 
 	- Active Inference
-- 21. Yanik Silver 
+- 21. [[Yanik Silver]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Steve Schwarz  
 	- 1,000 Suns Project, One Degree Network, Maverick 
@@ -124,96 +124,132 @@ Cycle Completed March 7, 2024
 - Cycle Time - 5 Days
 ## Gap Weeks 
 
-Note: Week of March 18, Jordan largely paused invitations and regrouped, and resumed invitations April 1 with the start of the Above The Chaos Tour. 
-## Cycle 7: Expansion Out to 34 Co-Creators 
+Note: Week of March 18, Jordan largely paused invitations, regrouped, and prepared for travel, then resumed invitations April 1 with the start of the Above The Chaos Tour. 
+## Above The Chaos Tour - Segment 1 
 
-22. Stuart Levine 
+In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identified, and 50+ names surfaced to extend the Cycle 8 invitations to - see [[Above The Chaos, April 2024 Above The Chaos Tour Findings|April 2024 Above The Chaos Tour Findings]]).
+## Joined in Cycle 7 - 34 Co-Creators 
+
+22. [[Stuart Levine]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jerry Michalski 
-23. Rob Mayer 
+23. [[Rob Mayer]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Jordan 
-24. Ernie Hernandez 
+24. [[Ernie Hernandez]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Ron Sukut  
-- 25. Steve Schwarz 
+- 25. [[Steve Schwarz]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Sasha Strauss  
 	- Art of Tea  
-- 26. Justin LeBlanc 
+- 26. [[Justin LeBlanc]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jahn Ballard 
-- 27. Jahn Ballard
+- 27. [[Jahn Ballard]]
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Rob Farjado 
-- 28. Warren Linney 
+- 28. [[Warren Linney]] 
 	- Invited by: Jahn Ballard 
-	- Introduced to Jordan by: Jahn Ballard 
+	- Introduced to Jordan by: Jahn Ballard  
+(Tentative Pending Formal Acceptance)  
+- 29. [[Simon Peter Phillips]] 
+	- Invited by: Jordan  
+	- Introduced to Jordan by: Jordan  
+- 30. [[David Anderson]]  
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Jahn via Justin  
+- 31. [[David Blume]]  
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Jahn via Justin  
+- 32. [[Day Waterbury]] 
+	- Invited by: Jordan 
+	- Introduced to Jordan by: Jahn 
+- 33. [[Zachary Marlow]] 
+	- Invited by: [[Jordan]] 
+	- Introduced to Jordan by: [[Day Waterbury]] 
+- 34. [[Rick Lukens]] 
+	- Invited by [[Jordan]]   
+	- Introduced to Jordan by: [[Jahn Ballard]]  
+- Cycle Completed April 19, 2024 
+- Cycle Time (2 Weeks of Active Invitations, 3 Gap Integration Weeks)  
+- Invitation acceptance rate remained 80% plus 
 
+## Cycle 8: Expansion Out To 55 Co-Creators   
 
-## Invitations
+- Completing [[Lionsberg Cycles of Growth]] **Cycle 8** requires adding 21 additional co-creators. 
+- Prepare for acceptance rate to drop towards 30% to 50%. 
+- Against the ~40 to 60 invitations required, we now have a running list of ~100 well qualified candidates and a compelling center of gravity.   
+- Goal for Cycle 8: Decentralize invitations based on individual discernment.   
 
-- Acceptance rate was 80% + in first 6 cycles 
+## Invitation Pool 
+
+- Acceptance rate was 80% + in first 7 cycles 
 - Expect that to drop as cycles expand, perhaps 50% for cycle 7? 
 - Therefore - may need to invite 26 to gain 13 additional co-creators - there is a pool of 50+ well qualified individuals below as a starting point  
 
 1. Estelle Kabithi 
 2. John Kabithi 
-3.  
-4. Gil F  
-5. Hank K  
-6. Jerry M   
-7. Maya  
-8. Edu 
-9. Moses 
-10. Tom C  
-11. Joseph C 
-12. Joshua P 
-13. Michael G 
-14. Jahn B
-15. Amy 
-16. Greg F 
-17. Jamaica S 
-18. Gary G 
-19. Kaiti A 
-20. Vincent A 
-21. Forrist L 
-22. Lenna G
-23. Andrew B 
-24. John C  
-25. Killu S  
-26. Stefan V  
-27. 
-28. David W (Invited 3/18) 
-29. Doug B (Invited 3/18)
-30. Greg and Emily 
+3.  Amy (D)
+4. Sean Dilweg 
+5. Gil F  
+6. Hank K  
+7. Jerry M   
+8. Maya  
+9. Edu 
+10. Moses 
+11. Tom C  
+12. Joseph C 
+13. Joshua P 
+14. Michael G 
+15. Jahn B
+16. Amy 
+17. Greg F 
+18. Jamaica S 
+19. Gary G 
+20. Kaiti A 
+21. Vincent A 
+22. Forrist L 
+23. Lenna G
+24. Andrew B 
+25. John C  
+26. Killu S  
+27. Stefan V  
+28. 
+29. David W (Invited 3/18) 
+30. Doug B (Invited 3/18)
 31. Greg and Emily 
-32. Piff 
-33. Virginia 
-34. Virginias kids 1 & 2 
-35. Jen 
-36. Ian 
-37. Phillip 
-38. Paul R 
-39. Bob K 
-40. Elliot B 
-41. Wendy E 
-42. Wendy M 
-43. Sasha S  
-44. Kevin J 
-45. Terry D  
-46. Ron S  
-47. Mark L 
-48. Ernie H 
-49. Russ C  
-50. Russ (ND)  
-51. Harvest S  
-52. Adane C 
-53. Dan F 
-54. Dan L 
-55. James Z 
-56. Daniel AI (March) 
-57. Se
+32. Greg and Emily 
+33. Piff 
+34. Virginia 
+35. Virginias kids 1 & 2 
+36. Jen 
+37. Ian 
+38. Phillip 
+39. Paul R 
+40. Bob K 
+41. Elliot B 
+42. Wendy E 
+43. Wendy M 
+44. Sasha S  
+45. Kevin J 
+46. Terry D  
+47. Ron S  
+48. Mark L 
+49. Ernie H 
+50. Russ C  
+51. Russ (ND)  
+52. Harvest S  
+53. Adane C 
+54. Dan F 
+55. Dan L 
+56. James Z 
 
+## Postponed Invitation 
 
+1. Matt Saiia (reach back out in June)  
 
+## Declined First Invitation 
+
+1. Doug Breitbart  
+2. 

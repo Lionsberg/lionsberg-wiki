@@ -1,5 +1,11 @@
 # Above The Chaos, Road Trip Findings
 
+## Purpose 
+
+Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the Lionsberg Movement out to at least 34 committed [[Lionsberg Co-Creators]].
+
+With that [[Milestones|Milestone]] now completed, it is our hope that the tipping point strategy can become self-sustaining as each Co-Creator invites in the right people at the right time as the epic Story unfolds. 
+
 ## Allies Connected / To Connect
 
 - [[Joshua Pang]] - [[Buckminster Fuller]] expert, key bridge between BFI and the Fuller family - via [[George Orbelian]]    
@@ -7,6 +13,7 @@
 - [[Warren Linney]] - via [[Jahn Ballard]]  
 - [[Justin LeBlanc]] - via [[Jahn Ballard]]  
 - [[David Anderson]] - Working with Blume, and interested in the higher levels of abstraction and the Lionsberg System as a Whole - via [[Justin LeBlanc]]  
+- Karen 
 - [[David Milarch]]  - [Arch Angel Ancient Tree Archive](https://www.ancienttreearchive.org) - Tree restoration is essential to success - via [[George Orbelian]]  
 - [[Tyler Milarch]] - David's Grandson focused on tissue cultivation and propagation - [Arch Angel Ancient Tree Archive](https://www.ancienttreearchive.org) - via [[George Orbelian]]   
 - [[Griff]] - Via [[Scott Broomfield]] - Africa project children's fund  
@@ -76,10 +83,15 @@
 - [[Steve Schwarz]] - Art of Tea - via [[Jordan]]  
 - [[Sasha Strauss]] - Innovation Protocol - via [[Jordan]]  
 - [[Michael Likosky]] - https://www.governing.com/authors/michael-likosky.html - via [[George Orbelian]]  
-- 
-
-
-[[Lionsberg Co-Creators]]
+- Chris Bui 
+	- Tom Agramonte  
+	- Nicholas Churchilio  
+- Rick Lukens - United Earth Networks, produced Live Aid etc. 
+	- Jack Healy - former amnesty president 
+	- Danny Sheehan  
+	- Michael Jensen  
+	- Carlos Santana  
+	- Guys that did the Las Vegas dome (tour + geoscopes)
 
 ## Themes 
 
@@ -115,12 +127,14 @@
 	- [[Food]]  
 		- First stop poisoning our selves with toxic [[Anti-Food]]  
 		- Eat real [[Food]]  
+	- Martial Arts / Yoga / Breath / Exercise 
 	- [[Purpose]], [[Intention]], and [[Aim]]  
 	- [[Vision]] and [[Values]]  
 	- [[Thought]], [[Speech]], [[Action]]  
 	- [[Work]]  
 		- Removing our selves and our attention from [[Degenerative]] Systems  
 		- Refocusing our selves and our [[Attention]] on [[Regenerative]] Systems  
+		- [[Meaningful Conversations and Quests]] that advance the [[Critical Path]] towards [[The Goal]]   
 - Connecting and Empowering the [[Force For Good]]  
 	- Help people recognize Who They Are, Why They Are Here  
 	- Give people permission to exist in that Way  
@@ -204,12 +218,23 @@
 - [[Minga]] - South American term which means "coming together for the common good", or "cooperative work in community to achieve a common goal". 
 	- Similar to the world [[Harambee]] is Swahili - "all pull together". 
 
-## Findings 
-
-- 
-
 ## Potential Action Items and Next Steps 
 
+- Unfold an epic movement / story / series of events  
+	- With Rick Lukens and Michael Jensen 
+		- Epic music / speaking / inspirational tour  
+		- Influence 24 part PBS series  
+	- With Zachary and (production company that starts with a P that Chris Bui knows) 
+		- 4 part film series  
+	- Documentary series tracking the unfolding of the movement  
+	- Invite 10 billion people in 10 years to move [[FROM the Old TO the New]]  
+	- 2033 / 2024 - Greatest celebration in history -> Jubilee + Ushering in the New Era 
+- Living Systems Data Model -> Making Possible -> World Game, Scenario Planning, Geoscope (Digital + Physical), Regenerative Insurance and Finance 
+	- With George, Joshua Pang 
+- Fractal AI 
+	- Create fractal AI that allows each member of The Movement to surface and share their Wisdom, Knowledge, and Perspective to the network of other agents  
+- Headquarters 
+	- Consider establishing an Earth Situation Center at Fort Townsend 
 - Partnership with [[Buckminster Fuller]] community and other legacy communities to bring in [[General Solutions]] and [[Intellectual Property]] to [[The Commons]]   
 	- Synergize the [[General Solutions]] into [[The Prototype]] 
 		- Train [[Teams]] to implement the [[General Solutions]]  
@@ -255,7 +280,7 @@
 	- 2. Articulation of Divine connection, philosophy, theory, and practice via the [[Lionsberg Wiki]] and [[Lionsberg Wiki Books]]   
 	- 3. Years of full time legal and governance work with dozens of advisors resulting in the instantiation of the Lionsberg [[Provisional Structure]]. 
 	- 4. Creation of a backbone platform to connect and empower the [[Force For Good]]. ~10% of the capabilities surfaced into a user interface under the brand Open Impact brand, and tested with several hundreds groups in 50+ countries in MVP, Alpha, and Beta Phases. Public facing version can be seen at [Open Future Coalition](https://impact.openfuturecoalition.org/marketplace/card-grid). A clean, unpopulated Lionsberg version exists and will be populated in a few weeks when we hit 30 to 40 co-creators and the next major update is pushed. 
-	- 5. Creation of the beginning of a collective brain via a Memory for [[The Movement]]. This technology underlying the [Lionsberg Wiki](https://lionsberg.wiki) is built intentionally simple and "low to the ground" in anticipation of large sections of the internet being taken down or fire walled. It allows for the decentralized storage, retrieval, and updating of our collective memory of the [[New Vision and Plan]], even during times of crisis. 
+	- 5. Creation of the beginning of a collective brain via a Memory for The Movement. This technology underlying the [Lionsberg Wiki](https://lionsberg.wiki) is built intentionally simple and "low to the ground" in anticipation of large sections of the internet being taken down or fire walled. It allows for the decentralized storage, retrieval, and updating of our collective memory of the [[New Vision and Plan]], even during times of crisis. 
 	- 6. Travel to dozens of countries and convening of dozens of advisors for over a thousand human-hours of discernment around the [[New Pattern Language]] and the [[New Operating System]].  
 - What pieces are still missing? 
 - Key Questions 
