@@ -1,24 +1,26 @@
 # Lionsberg Metaphors
 
+Lionsberg is like... 
 ## 1
 
-Lionsberg is... a mission and values driven Community working together to [[Co-Create]] the [[Best Possible Future]] for [[All]].    
+...a Movement / Force For Good uniting to confront and overcome the [[Meta Crisis]] and [[Co-Create]] the [[Best Possible Future]] for [[All]].    
 
 ## 2. 
 
-Lionsberg is a [[City on a Hill]], inspired by the biblical parable and [[The Story of the Builder]].  
+...a [[City on a Hill]].  
 
 ## 3. 
 
-Lionsberg is... a Mythical Name for the [[New World]] we are [[Co-Creating]].  
+...a Mythical Name for the [[New World]] we are [[Co-Creating]].  
 
 ## 4. 
 
-Lionsberg is... An Ark purpose-built to carry us [[All]], FROM the [[Old]] TO the [[New]]  
+...an Ark purpose-built to carry us [[FROM the Old TO the New]]  
 
-[[The Golden Seed]]  
-[[Golden Thread]]  
-[[The Body]]  
-[[The Tree]]  
-[[City on a Hill]]  
+## 5. 
 
+...a Sacred Tree emerging from [[The Golden Seed]].  
+
+____
+
+See also [[The Lionsberg Book of Metaphors]]  

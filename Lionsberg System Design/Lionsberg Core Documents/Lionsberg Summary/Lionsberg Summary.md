@@ -22,6 +22,8 @@ The [[Lionsberg Constitution]] lays the foundations for governance.
 
 The [[Provisional Structure]] establishes a shared legal and governance framework and commons.  
 
+The [[The Lionsberg System of Values]] articulates the Spirit and Values that guide us.  
+
 The [[Lionsberg Resource Runway]] provides a basic look at the resources required to catalyze and sustain [[The Movement]].  
 
 [[The 12 Pillars of Lionsberg]] articulates a basic [[Work Breakdown Structure]] for the [[Meta Project]].  
@@ -33,5 +35,7 @@ The [[Lionsberg Invitation]] can be shared to [[Pass The Flame]] and invite the 
 The [[The Lionsberg Co-Creator Handbook]] can help get you up to speed once you join. 
 
 The [[Lionsberg Lexicon]] is a starting point for redeveloping a shared language.  
+
+[[Lionsberg Metaphors]] 
 
 [[The Summary]] links here. 

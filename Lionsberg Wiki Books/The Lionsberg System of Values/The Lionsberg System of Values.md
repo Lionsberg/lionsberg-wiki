@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This book is a [[Work In Progress]]. As we discover the universal [[Values]] that cause people, society, and nature to flourish: 
+This book is a [[Work In Progress]]. As we rediscover the universal [[Values]] that cause people, society, and nature to flourish in harmony and coherence: 
 
 1. We are identifying them here
 2. We are starting with simple descriptions 
@@ -11,19 +11,36 @@ This book is a [[Work In Progress]]. As we discover the universal [[Values]] tha
 
 ## Values Pattern Language
 
-We are establishing a Values Pattern Language to interrelate the [[Total Nested Hierarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 
+Our Aim is to continuously improve a Values Pattern Language to interrelate the [[Total Nested Hierarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 
 
 [[Template For Values Pattern Language]]  
 
-## The Spirit and Way 
+## The Highest Uniting Value / The Meta Value 
 
-These enumerated values are reflective of a unified and coherent [[Central Animating Spirit]], whose nature is [[Absolute And Unconditional Love]]. 
+By definition, the ultimately ineffable [[Meta Value]] we point to with [[Word Tools]] such as [[God]] / [[Creator]] / [[One]] is what balances, orders and coheres the [[Total Nested Hierarchy of Values]] within Itself; the [[Central Animating Spirit]] that creates, sustains, and orders the [[Universe]]. 
 
-This Spirit of God results in our attempt to embody a non-propositional [[Way of Being]], rooted in Love and guided by Truth.  
+## The Spirit and The Way of the One
+
+In nearly all spiritual, religious, and wisdom traditions, the [[One]] is described as the [[Central Animating Spirit]] of the Universe; the Source, Author and Perfecter of Life and Consciousness. 
+
+Our relationship to the [[One]] Spirit that creates and sustains [[All]] interexistent Life and Consciousness  is one of eternal and universal [[Covenant Relationship]], which beckons [[All Creation]] towards [[Omniconsiderate]] [[Right Relationship]] rooted in [[Absolute And Unconditional Love]]. 
+
+As our Highest Aim, we are invited to Progress [[Towards Oneness Through Love]], progressively enlightening and reuniting our Spirit with its Source by helping All Creation do the same. 
+
+This leads to [[Way of Being]] that is ultimately [[Non-Propositional]] in nature, where we exist and move in and according to the [[Ultimately Ineffable]] Spirit of God, and not the written word. 
+
+When we exist in this [[Way]], we discover that we naturally co-operate to fulfill not merely the letter, but the Spirit and Logos of the Universal Law. 
+
+[[All]] Values can therefore best be understood in the context of the [[One]] they all share in common. They can best be understood as reflections or facets of the [[One]] Uniting [[Meta Value]] of Greatest Worth. 
+
+## The Deepest Value 
+
+- [[One]], whose nature is [[Love]] 
 
 ## The Universal Core Values 
 
-Among the [[Deepest]] Values on the list are: 
+From [[One]], we can derive the [[Deepest]] Universal Values, such as:  
+
 - [[Truth]]  
 - [[Love]]  
 - [[Justice]]  
@@ -31,13 +48,10 @@ Among the [[Deepest]] Values on the list are:
 - [[Wisdom]]  
 - [[Beauty]]  
 
-From [[One]] whose nature is [[Love]], and from these additional Core Values, all other values can be derived. 
-
 ## The Universal Derivative Values 
 
-Without reducing the ineffable unity of Value to human words and categories, we offer up the following identifiable values as a proxy for the [[Central Animating Spirit]] that impels us. 
+Without reducing the [[Ultimately Ineffable]] Unity of Value to human words and categories, the following Icons reflect various additional facets of the [[Meta Value]]. 
 
-- The [[One]] overarching and uniting [[Meta Value]] 
 - [[Acceptance]]  
 - [[Accountability]] 
 - [[Accuracy]]    
@@ -53,16 +67,16 @@ Without reducing the ineffable unity of Value to human words and categories, we 
 - [[Balance]]  
 - [[Beauty]]  
 - [[Belonging]]  
-- Caring  
+- [[Caring]]  
 - [[Clarity]]  
 - [[Cleanliness]]  
-- Coherence  
+- [[Coherence]]  
 - [[Community]]  
 - [[Compassion]]  
 - [[Competence]]  
 - [[Conscientiousness]] 
-- Consistency  
-- Cooperation  
+- [[Consistency]]  
+- [[Cooperation]]  
 - [[Courage]]  
 - [[Courtesy]]  
 - [[Creativity]]  
@@ -72,82 +86,84 @@ Without reducing the ineffable unity of Value to human words and categories, we 
 - [[Curiosity]]  
 - [[Depth]]  
 - [[Dignity]]  
-- Diversity  
+- [[Diversity]]  
 - [[Discernment]]  
 - [[Drama]]  
 - [[Energy]]  
 - [[Enjoyment]]  
-- Enoughness  
+- [[Enoughness]]  
 - [[Enthusiasm]]  
-- Equality  
+- [[Equality]]  
 - [[Etiquette]]  
-- Fairness 
-- Faith
-- Faithfulness  
+- [[Fairness]] 
+- [[Faith]]
+- [[Faithfulness]]  
 - [[Fellowship]]  
-- Fidelity  
+- [[Fidelity]]  
 - [[Flexibility]]  
-- Focus  
+- [[Focus]]  
 - [[Forgiveness]]  
-- Free Will  
+- [[Free Will]]  
 - [[Freedom]]  
-- Freedom From Fear  
-- Freedom From Pain  
-- Freedom From Suffering  
+- [[Freedom From Fear]]  
+- [[Freedom From Injustice]]  
+- [[Freedom From Oppression]]  
+- [[Freedom From Pain]]  
+- [[Freedom From Suffering]]  
 - [[Friendship]]  
 - [[Generosity]]  
-- Gentleness  
+- [[Gentleness]]  
 - [[God]]  
 - [[Golden Rule]]  
 - [[Golden Thread]]  
 - [[Goodness]]  
 - [[Good Faith]]  
-- Grace  
+- [[Grace]]  
 - [[Gratitude]]  
 - [[Greatness]]  
 - [[Happiness]]  
 - [[Harmony]]  
 - [[Honesty]]  
 - [[Hope]]  
-- Hospitality  
+- [[Hospitality]]  
 - [[Humility]]  
-- Humor   
+- [[Humor]]   
 - [[Imagination]]  
-- Inclusion 
+- [[Inclusion]] 
 - [[Independence]]  
-- Inspiration  
+- [[Inspiration]]  
 - [[Integrity]] 
 - [[Intelligence]]  
 - [[Interdependence]]  
-- Joy  
+- [[Joy]]  
 - [[Justice]] 
-- Kindness  
+- [[Kindness]]  
 - [[Leadership]]  
 - [[Liberty]]  
 - [[Love]]
 - [[Loyalty]]  
 - [[Manners]]  
 - [[Meaning]]  
-- Mercy  
+- [[Mercy]]  
 - [[Moderation]]  
-- Non-Harm  
+- [[Non-Harm]]  
 - [[Non-Violence]]  
-- Non-Stealing  
+- [[Non-Stealing]]  
 - [[Openness]]  
-- Patience  
-- Peace  
+- [[Patience]]  
+- [[Peace]]  
 - [[Perseverance]]  
 - [[Play]]  
 - [[Poise]]  
-- Purity  
+- [[Purity]]  
 - [[Purpose]]  
-- Quality  
+- [[Quality]]  
 - [[Reciprocity]]  
 - [[Recreation]]  
 - [[Regenerativity]]  
-- Resilience 
-- Resourcefulness  
-- Resources  
+- [[Resilience]] 
+- [[Resourcefulness]]  
+- [[Resources]]  
 - [[Respect]]  
 - [[Responsibility]]  
 - [[Right Relationship]]  
@@ -155,16 +171,18 @@ Without reducing the ineffable unity of Value to human words and categories, we 
 - [[Service]]  
 - [[Self Control]]  
 - [[Self Discipline]]  
-- Sexuality  
-- Simplicity  
+- [[Sexuality]]  
+- [[Simplicity]]  
+- [[Solidarity]]  
 - [[Sovereignty]] 
 - [[Spirituality]]  
 - [[Stewardship]]  
+- [[Strength]]  
 - [[Temperance]]  
 - [[Tenderness]]  
 - [[Toughness]]  
 - [[Tradition]]  
-- Transcendence  
+- [[Transcendence]]  
 - [[Transparency]]  
 - [[Truth]] 
 - [[Understanding]]  

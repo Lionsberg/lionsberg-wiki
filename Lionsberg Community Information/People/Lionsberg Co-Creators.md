@@ -182,6 +182,11 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 - Against the ~40 to 60 invitations required, we now have a running list of ~100 well qualified candidates and a compelling center of gravity.   
 - Goal for Cycle 8: Decentralize invitations based on individual discernment.   
 
+35. Erik Willekens 
+	1. Invited by [[Jordan]]  
+	2. Introduced to Jordan by [[Matt Saiia]]  
+36. 
+
 ## Invitation Pool 
 
 - Acceptance rate was 80% + in first 7 cycles 

@@ -70,7 +70,7 @@ For our pilot episode we reversed the roles. Bill Larson is interviewing our pod
 
 **Resources and Links**:
 - [Mondragon Corporation](www.wikipedia.org/wiki/Mondragon_Corporation) - Wikipedia 
-- [[Mondragon Overview]] - Lionsberg Wiki 
+- [[The Prophesy of Mondragon]] - Lionsberg Wiki 
 
 ### Rough Transcript  - Auto Generated
 
