@@ -12,7 +12,9 @@ Here is the Story of Mondragon as a example of what is possible in every bioregi
 
 Historically, life in the Mondragon region was dominated by a few rich industrialists, who paid the workers little and provided only minimal basic services. 
 
-- 1936 to 1939 - Civil War 
+A priest name Jose Maria Arizmendiarietta began advocating for change. 
+
+- 1936 to 1939 - Civil War. A time of deep strife and division.  
 - In 1943, [[Arizmendi]] raised money from the local townspeople to start a school. 
 - Convinced 11 local students to study engineering via correspondence, visiting [[Arizmendi]] to take the exams. 
 - [[Arizmendi]] spent 10+ years traveling, speaking and giving conferences. People agreed with the ideas, but no one changed. Bad strategy. 
@@ -20,7 +22,7 @@ Historically, life in the Mondragon region was dominated by a few rich industria
 - Instead, they would need to create our own [[New]] companies. 
 - 1956 - Convinced 5 guys to quit and start the first [[Cooperative]] - ULGOR. 
 	- [[Arizmendi]] did not take a position in any of the co-ops 
-	- "Organize a group to do something - elect two coordinators, and I'll be back to check on you"
+	- He encouraged self-government and self-organization - "Organize a group to do something - elect two coordinators, and I'll be back to check on you"
 - 1959 - Discovered that existing financial mechanisms were not suited to the new paradigm, and started their own Bank   
 - Throughout the inception, three primary elements were present: 
 	- Daily sermons from Arizmendi / Religion  
