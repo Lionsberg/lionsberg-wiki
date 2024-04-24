@@ -2,6 +2,8 @@
 
 For more information on the inception of the Lionsberg | Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
+Simply, it is designed and built as a [[New Human Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the Creator and All Creation.  
+
 Here is a 30 minute introductory discussion:
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F5MAh4T15_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -9,11 +11,11 @@ Here is a 30 minute introductory discussion:
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts: 
-1. At the deepest level, [[Lionsberg]] and the [[Meta Project]] are reflections of a Spirit /  [[Meta Idea]] we are trying to bring into reality.  
-2. One level up from the overarching and uniting [[Meta Idea]] is the voluntary association of individuals around the world working together towards this end.  
-3. One level up from individuals are those individuals and organizations Organizing, [[Federating]], Helping One Another, and continuously improving and enriching The Commons of shared tools, resources, and relationships.    
-4. The [[Lionsberg Constitution]] and other foundational writings help hold the space for this higher order, multi-generational, covenantal relationship among Citizens of goodwill around the world. 
-5. The Lionsberg System has been designed to enable all human beings to voluntarily take up an equal Citizenship in the New Era we are co-creating. 
+1. At the deepest level, [[Lionsberg]] and the [[Meta Project]] are reflections of the Highest Order Spirit /  [[Meta Idea]] we are working to progressively realize.  
+2. One level up from the overarching and uniting Spirit / [[Meta Idea]] is the voluntary association of individuals around the world working together towards this end.  
+3. One level up from individuals are those individuals, teams, and groups actively Organizing, [[Federating]], Helping One Another, and continuously improving and enriching [[The Commons]] of shared tools, resources, and relationships.    
+4. The [[Lionsberg Manifesto]], [[Lionsberg Constitution]] and other foundational writings such as the [[Lionsberg Wiki Books]] help hold the space for this higher order, omniconsiderate, covenantal relationship among all Citizens of goodwill. 
+5. The Lionsberg System has been designed to empower all human beings to voluntarily take up an equal Citizenship in the New Era we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 
 _All of the levels above happen before any legal structure, and exist purely on the basis of voluntary collaboration, culture, social structure, and governance structure. This is critical to protect the Sovereignty and Independence of the [[Meta Idea]] and the Individuals collaborating, and ensure that there is no Central Node or Dependency, that if attacked or compromised, can bring down the Whole. All structural elements are merely tools and supports for the Sovereignties co-operating them_. 
 
