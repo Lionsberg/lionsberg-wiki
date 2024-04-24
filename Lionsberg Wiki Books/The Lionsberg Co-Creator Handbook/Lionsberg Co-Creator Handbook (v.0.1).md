@@ -48,37 +48,39 @@ The moment you find your Self stuck, or wondering what the [[Next Steps]] are, r
 
 Look within. Talk to your Group or Team. If you don't yet have a group or a team, your first task is to forge or join one. 
 
-Every Group of Team should be engaged in the most meaningful Quest they can design and undertake for that quarter. If you are talking with your Group or Team and things aren't clear, go back to the drawing board, clarify your [[Quarterly Quests]] or choose a new one, and get moving. 
+Every Group of Team should be engaged in the most meaningful Quest they can design and undertake for that season / quarter. If you are talking with your Group or Team and things aren't clear, go back to the drawing board, clarify your [[Quarterly Quests]] or choose a new one, and get moving. 
 
 As you get into motion and being communicating to [[The Movement]] about what you are doing and Why, The Movement will be able to help you and your Team better [[Navigate]] and Steer. 
 
 ### III: A Few Orienting Facts
 
-**Lionsberg is self-funded**: To ensure freedom, sovereignty, and autonomy, Lionsberg is entirely self-funded. This is crucial to preserving our freedom, and with that freedom comes the responsibility of One and All to continue resourcing the mission. 
+**Lionsberg is self-funding**: To ensure freedom, sovereignty, and autonomy, Lionsberg is self-funding and augmented by public support. There are no "investors". This is crucial to preserving our freedom, and with that freedom comes the responsibility to continue discovering creative ways of resourcing The Mission. 
 
-**Lionsberg is self-governing**: The freedom of life [[Beyond The Boundary]] comes with the responsibility and authority for self-governance at every fractal level, from the individual, to the group, to the local, to the tribe, and all the Way up to the broadest Whole. 
+**Lionsberg is self-governing**: The freedom of life [[Beyond The Boundary]] comes with the responsibility and authority for self-governance at every fractal level, from the individual, to the group, to the local, to the tribe, to the bioregion, and all the Way up to the broadest Whole. 
 
 **Lionsberg is self-sustaining**: Every self-governing fractal level is also self-sustaining. Unlike the [[Old World]] of employee-consumer-slavery, Out Here we are all responsible for our own flourishing, and for the flourishing of [[All]] those around us.
 
 **Lionsberg is self-replicating**: On the epic Quest towards Destiny, none of us can reach [[The Goal]] unless and until all of us reach [[The Goal]]. This means that the core function of every group is to flourish, self-replicate, and help new groups emerge, progress, and self-replicate. We monitor self-replication and growth via the [[Lionsberg Cycles of Growth]] and the [[Lionsberg Cycle Time]]. 
 
-**Lionsberg is a True Myth**: Lionsberg is an incarnation of the archetypical story about We The People, who in a moment of [[Meta Crisis]], arose and united to confront and overcome the grand challenges, accomplish the global goals, journey towards [[The Promised Land]], and forge the [[Best Possible Future]] for [[All]]. It is a myth, but it is True, because we are causing it to be so. 
+**Lionsberg is a True Myth**: Lionsberg is an incarnation of the archetypical story about We The People, who in a moment of [[Meta Crisis]], arose and united to confront and overcome the grand challenges, accomplish the global goals, journey towards [[The Promised Land]], while forging the [[Best Possible Future]] for [[All]]. It is a myth, but it is True, because we are causing it to be so. 
 
 ### IV: Life as a Sovereign, Autonomous Agent 
 
-While the [[Power Structures]] of the [[Old World]] were exceptionally effective at keeping everyone divided, conquered, and optimally disempowered, the universe of [[Lionsberg]] is different. 
+While the [[Power Structures]] of the [[Old World]] were exceptionally effective at keeping everyone divided, conquered, siloed, and optimally disempowered, the universe of [[Lionsberg]] is different. 
 
-Every Member of Lionsberg eternally becomes ever more [[Sovereign]], [[Autonomous]] and [[Free]]. We sometimes call this [[Conscious Agency]]. 
+Every Citizen of Lionsberg eternally becomes ever more [[Sovereign]], [[Autonomous]] and [[Free]]. We sometimes call this [[Conscious Agency]]. 
 
-The [[Pattern Language]] of the [[New World]] calls for individual and local self-governance, agency, and flourishing, in the context of [[Higher Order Functional Unity]]. So on our [[Quest]] towards that [[Destiny]], we [[Practice]] acting that out. 
+The [[Pattern Language]] of the [[New World]] calls for individual and local self-governance, agency, and flourishing, in the context of [[Higher Order Functional Unity]]. We progress on our [[Quest]] towards that [[Destiny]] through our [[Practice]] of acting that out. 
 
 This means that you have no "manager". No "boss". No external Authority but [[One]] and [[All]]. No accountability except to [[God]] and those who you voluntarily choose to collaborate with towards shared [[Goals]] and [[Values]]. 
 
 Your life, your groups, your community, your bioregion, your world, and Lionsberg as a Whole are All yours to navigate towards [[The Goal]]. 
 
-So figure out what [[One]] and [[All]] want, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
+So figure out what [[One]] and [[All]] desire, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
 
 And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating the [[Vessel]] towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[Lionsberg System]]. 
+
+While every individual and group is Sovereign and Free, if we do not wisely collaborate to [[Navigate]] [[The Vessel]] towards [[The Goal]] in a Spirit of Unity, Harmony, and Coherence, we will tear it apart and find our Selves once again enslaved in the [[Old World]]. 
 
 ## Part II: Welcome to Life Beyond The Boundary 
 
@@ -86,13 +88,13 @@ And as you Move and Progress towards [[The Goal]], remember that because [[Out H
 
 Life, Community, and Collaboration [[Beyond The Boundary]] revolve around voluntary [[Agreements]] and [[Commitments]]. 
 
-There are Three Supreme Agreements that ensure that the Great Game of Lionsberg can be played indefinitely into the future, across all conceivable domains, in a [[Way]] that continuously improves, enhances, and enriches life for [[All]]. 
+There are Three Supreme Agreements that ensure that The Game can be played indefinitely into the future, across all conceivable domains, in a [[Way]] that continuously improves, enhances, and enriches life for [[All]]. 
 
 1. [[Love One]]  
 2. [[Love One Another]]  
 3. [[Love All]]   
 
-The Three Supreme Agreements establish the [[Love]] of [[One]] and [[All]] as the foundational principle and defining essence of all interaction in the Domain of Lionsberg. 
+The Three Supreme Agreements establish the [[Love]] of [[One]], [[One Another]], and [[All]] as the foundational principle and defining essence of all interaction in the Domain of Lionsberg. 
 
 From these, the entire [[The Lionsberg System of Values|Lionsberg System of Values]] is derived. 
 
@@ -103,7 +105,7 @@ The Three Supreme Agreements are the backbone of the basic Covenant, or Field of
 
 Now that you are settling into life [[Beyond The Boundary]] as a [[Sovereign]] and [[Autonomous]] [[Conscious Agent]] co-operating in a Spirit of [[Love]] with your fellow travelers on our shared [[Quest]] towards [[The Goal]] of Greatest Worth...
 
- ...it is time to begin being and doing in Community. 
+ ...it is time to begin Being and Doing in Community. 
  
 [[The Lionsberg Experience]] is designed to help guide you through this over the course of your first quarter.
 
@@ -114,16 +116,18 @@ After life in [[The Caves]], it is important to remember that the most important
 
 We cannot [[Progressively Realize]] the [[New World]] without [[Becoming]] the kinds of people for whom that is a Reality.  
 
-So the first thing to *do*, is to relax and to *be*. Together. In Community. Helping One Another Heal, Transform, and Become. 
+So the first thing to *do*, is to relax and to *be*. Together. In Community. Helping One Another Heal, Transform, and Become who we are each uniquely created to Be. 
 ### Deciding What to Do 
 
-In order for the Great Game of Lionsberg to function properly, everyone needs to continually choose their own Projects / Quests to advance. No one can tell you what to do. 
+In order for the Lionsberg System to function properly in service of [[One]] and [[All]], every individual and team must become [[Self-Governing, Self-Sustaining, and Self-Replicating]], continually choosing their own [[Meaningful Conversations and Quests]] to advance. No one can tell you what to do. 
 
-Unlike the companies of the [[Old World]], where "employees" were typically hired to fulfill specific roles, life as a [[Sovereign]] [[Conscious Agent]] requires that you are continually observing the world around you, reorienting, dialoging, negotiating, and engaging in the most [[Valuable]] work that you and those around you are capable of doing in service of [[One]] and [[All]]. 
+Unlike the companies of the [[Old World]], where "employees" were typically hired to fulfill specific roles, life as a [[Sovereign]] [[Conscious Agent]] requires that you are continually observing the world around you, reorienting, dialoging, negotiating, and engaging in the most [[Valuable]] and [[Meaningful Work]] that you and those around you are capable of doing in service of [[One]] and [[All]]. 
 
 [[The Right Questions]] contains some helpful guiding questions as you decide [[What To Do]], such as: 
 
-- What projects are on or near the [[Critical Path]]?  
+- What projects are on or near our shared [[Critical Path]] towards [[The Goal]]?  
+- What upcoming [[Milestones]] could I and my Teams help make progress towards? 
+- What other Teams would we need to collaborate with to ensure that the next [[Milestones]] are reached within the [[Critically Effective Time Limit]]? 
 - What should we be doing, that is not currently being done, that I am able to do and passionate about doing?  
 - What project could be accomplished in the next 90 days that would produce the highest quality and quantity of service to One and All? 
 - What valuable project is most likely to keep me and my team(s) in our [[Zone Of Optimum Development]]? 
@@ -134,20 +138,22 @@ Unlike the companies of the [[Old World]], where "employees" were typically hire
 
 As you discover [[What To Do]], remember that everything in the Great Game of Lionsberg, including our being and becoming, is a project. 
 
-The [[Total Nested Hierarchy of Projects]] that we (and [[All Creation]]) are engaged in is united by the conceptual [[Meta Project]]. 
+The [[Total Nested Hierarchy of Projects]] that we (and [[All Creation]]) are engaged in is united by the conceptual (and [[Ultimately Ineffable]]) [[Meta Project]]. 
 
-Treating everything as a project is a core [[Discipline]] and [[Practice]] that enables us, over the course of quarters, years, and generations, to progressively develop our capacity to accomplish ever greater things in community. 
+Treating everything as a project is a core [[Discipline]] and [[Practice]] that enables us, over the course of quarters, years, and generations, to progressively develop our capacity to accomplish ever greater things in community, and to ensure that those [[Ever Greater Things]] can be systematically resourced across the ecosystem. 
 
-It also ensures that as we and future generations choose new Quarterly Quests and engage with new teams in new places and times, everyone can get up to speed quickly. 
+It also ensures that as we and future generations continually choose new [[Quarterly Quests]] and engage with new teams in new places and times, everyone can get up to speed quickly. 
 
 This is a cornerstone of the [[Lionsberg System and Approach]]. 
 ### Forging or Joining Teams
 
 [[Everything Is A Project]], and all [[Quests Are Undertaken By Teams]]. 
 
-Ideally, teams should be at least 3, and no more than 16 people. As teams approach 10 to 12 people, they should begin cross-training, recruiting, and preparing to split into two co-operative teams. 
+Ideally, teams should be at least 3, and no more than 16 people. [[We Have Heard]] that 4 to 6 or 5 to 7 individuals is often optimal. As teams approach 10 to 12 people, they should begin cross-training, recruiting, and preparing to split into two co-operative teams. 
 
-Teamwork is crucial to ensure that no one is operating in isolation, and that the success or failure of any given Project does not rest on one person. 
+This is how the most excellent Teams become [[Self Replicating]]. 
+
+Teamwork is crucial to ensure that no one is operating in isolation, and that the success or failure of any given Project / Quest does not rest on one person. 
 
 This is also crucial to the self-sustenance, self-replication, and growth of [[The Movement]] towards [[The Goal]]. 
 
@@ -155,35 +161,43 @@ The twin conventions that [[Everything Is A Project]], and that [[Quests Are Und
 
 ### Finding Out What Is Happening 
 
-To find out [[What Is Happening]], you can reference the lists of [[Active Teams]] and [[Active Projects]], but a far [[Better]] way is to talk with other humans. [[Projects]] 
+To find out [[What Is Happening]], you can reference the [[Lionsberg Dispatch]], the [[Above The Chaos]] channel, or the lists of [[Active Teams]] and [[Active Projects]], but a far [[Better]] way is to talk with other humans. 
 
-Talking with other humans is [[Better]] than solely looking at lists, because it opens up [[Dialogue]], builds relationships, and helps people get to know you. 
+Talking with other humans is [[Better]] than solely looking at lists, because it opens up [[Dialogue]], builds relationships, helps people get to know you, and folds your wisdom, insights, and questions into the collective dialogue. 
 
 By asking around, and sharing with others [[Who You Are]], [[Your Story]], [[Your Purpose]], [[Your Calling]], [[Your Concerns]], [[Your Capabilities]], etc., the Community will be able to help match you up to other people, opportunities, needs, and ideas in ways that a list never could. 
 
+The [[10 Year Grand Strategy]] cannot actually succeed unless We truly become a Community. 
+
 ### Progress and Throughput of The Goal
 
-As a [[Conscious Agent]] with [[Responsibility and Authority]] to choose your own Quests, you will notice that you and your teams will be continually presented with an array of [[Opportunities]],  [[Threats]], and [[Temptations]]. 
+As a [[Conscious Agent]] with [[Responsibility and Authority]] to [[Consciously Choose]] your own [[Teams]] and [[Quests]], you will notice that you and your teams will be continually presented with an array of [[Opportunities]],  [[Threats]], and [[Temptations]]. 
 
 One of the most important concepts of the [[Lionsberg System]] is the notion of [[Critical Path]] [[Progress]] towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
 
-Always remember [[Where We Are Going]] and [[Why]], and focus [[Time, Energy, and Attention (TEA)]] on the [[Critical Path]].  
+Always remember [[Where We Are Going]] and [[Why]], and focus [[Time, Energy, and Attention (TEA)]] on [[Milestones]] that mark the [[Critical Path]] towards [[The Goal]].  
 
-Whatever you do, before you undertake a Project, ensure that it is not tying up [[Resources]] that could be allocated to [[Teams]] advancing the [[Critical Path]]. It might be that you have a brilliant idea that should definitely be done, in a quarter or three. 
+Whatever you do, before you undertake a Project, ensure that it is not tying up [[Resources]] that could be allocated to [[Teams]] advancing the [[Critical Path]]. It might be that you have a brilliant idea that should definitely be done, not now, but rather in a quarter or three at the [[Wise Right Time]]. Always remember that we are walking in the [[Way]] of [[Kairos]], not merely [[Chronos]]. 
 
-### How Lionsberg Decides What Is Most Important and Valuable to Do Next
+### How Lionsberg Collectively Decides What Is Most Important and Valuable to Do Next
 
 Lionsberg does not make governance and resource allocation decisions centrally, but rather relies on the distributed intelligence of the Community. 
 
 What Lionsberg as a Whole is working on at any given time is the sum total of all the [[Projects]] being done by the distributed array of [[Teams]] to advance along the [[Critical Path]]. 
 
-This process co-operates similar to the way that bees and ants scout out the most [[Valuable]] opportunities and threats, dance and dialogue, and then allocate collective energy towards the Highest and Best available options. 
+This process co-operates similar to the way that bees and ants scout out the most [[Valuable]] opportunities and threats, dance and dialogue, and then allocate collective energy towards the Highest and Best available options surfaced in Community.
+
+More concretely, this process occurs through the mechanism of Discernment and Consent around [[Proposals]].  
+
+Individuals may make [[Proposals]] to the Groups / Teams they are engaged in, and Groups / Teams may make [[Proposals]] to the Whole. 
 
 Once decisions are made, they are constantly tested against [[Reality]] to ensure that they continue to be correct, and to see whether they can be improved. The Whole is constantly shifting and morphing as a consequence of the daily, weekly, and quarterly micro-decisions being made by [[Autonomous]] Individuals and Teams. 
 
-Lionsberg collectively is responsible for maintaining the uniting Vision, Principles, and Values, and Co-Creating the Conditions within which the emergent process of venturing together into the [[Unknown]] and towards [[The Goal]] can succeed. 
+As we navigate through [[The Wilderness]] on our Quest towards [[The Promised Land]], we do not pretend that [[Reality]] will be easy or smooth to traverse. It requires constant [[Discernment]], [[Wisdom]], [[Governance]] and [[Navigation]].  
 
-It also continuously improves the shared Strategy and Plan so that all individuals and [[Teams]] have a clear picture of the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
+Lionsberg collectively as [[One Body]] is responsible for maintaining the uniting Vision, Principles, and Values, and Co-Creating and Continuously Improving [[The Conditions]] and [[The Commons]] within which the emergent process of venturing together into the [[Unknown]] and towards [[The Goal]] can manifest and succeed. 
+
+It also continuously improves the shared Strategy and Plan via the [[System Wide Master Planning Process]] so that all individuals and [[Teams]] have a clear picture of the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
 
 The role of Lionsberg collectively is simply to serve and empower [[All]] those who have their feet on the [[Path]] towards [[The Goal]] as we learn together how to Embody and Enact the [[Pattern Language]] of the [[New World]] we are co-creating. 
 
@@ -193,48 +207,72 @@ Everyone on the [[Path]] is committed to co-operate in a Spirit of Love and do t
 
 In general the expectation is that we all do our best to learn [[The Rules]] of [[The Game]], and become the best players / practitioners / teammates / citizens / community members we are capable of becoming. 
 
+As we look over the millennia towards the horizon of destiny, it is the Culture, Processes, Norms, and Values that persist, not the individuals, projects, or teams. 
+
+Culture, the Way we do things around here as a human species, trumps everything. It became the [[Root Cause]] of the [[Meta Crisis]], and it is The Key to [[The Promised Land]]. 
 
 ## Part III: The Lionsberg Experience
 
-Now that we have solved the basics of getting up and running, in [[Teams]], engaged in [[Quests]], on the [[Path]], towards [[The Goal]], it is time to discover how we [[Help One Another]] discover and achieve the fullness of our [[Potential]]. 
+Now that we have solved the basics of getting up and running, in [[Teams]], engaged in [[Meaningful Conversations and Quests]], that advance us collectively through the [[Milestones]] that mark the [[Way]] towards [[The Goal]], it is time to discover how we [[Help One Another]] discover and achieve the fullness of our [[Potential]], at each fractal level of analysis. 
 
 The Lionsberg Experience is not just about elevating and transforming our world; it is about elevating and transforming all aspects of our lives. 
 
-[[Out Here]] [[Beyond The Boundary]], every aspect of the development and progression of your Self, your [[Families]], your [[Teams]], your [[Communities]], your [[Bioregions]], your [[Tribes]], your [[Nations]], and Lionsberg as a Whole are now under your agency. 
+[[Out Here]] [[Beyond The Boundary]], every aspect of the development and progression of your Self, your [[Families]], your [[Teams]], your [[Communities]], your [[Bioregions]], your [[Tribes]], your [[Nations]], and Lionsberg as a Whole are now under your [[Conscious Agency]], [[Responsibility]], and [[Authority]]. 
 
-You are the Author of [[(Y)Our]] Future. 
+You are the Author of [[(Y)Our]] Future. [[You Are The First Agent]]. 
 
-[[The Lionsberg Experience]] aims to continually meet every member right where they are on the [[Path]], and help them rise towards the fullness of their unique potential. 
+[[There Is No Them]] "out there". We are responsible, together, for every aspect of our existence, flourishing, and success, for our Selves, and for All. 
+
+[[The Lionsberg Experience]] aims to continually meet every individual, team, and locality right where they are on the [[Path]], and help them stay in the [[Zone Of Optimum Development]] that empowers them to rise towards the fullness of their unique potential. 
 
 ### Personal Development 
 
-Discuss personal development here
+Coming Soon
 ### Team Development 
 
-Discuss team development here
+Coming Soon
 ### Community Development 
 
-Discuss community development here
+Coming Soon 
 ### Lionsberg Development 
 
-Discuss the development of Lionsberg as a Whole here
+Coming Soon 
 
+### Global, Interplanetary, and Interstellar Development  
+
+Coming Soon 
 
 ## Part IV: Integrating Our Quests and Progress 
 
 ### Stacking Up and Aligning Quests 
 
-Individual and Local Quests are (ideally) stacked up and aligned through the various [[Levels of Analysis]] to produce [[Throughput]] of our shared [[Goals]] and [[Values]]. 
+Individual and Local Quests are (ideally) stacked up and aligned through the various [[Levels of Analysis]] to produce [[Throughput]] of our shared [[Goals]] and [[Values]] via the [[Critical Path]] revealed by the [[System Wide Master Planning Process]].  
 
-Our shared [[Goals]] and [[Values]] lead us towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
+Our shared [[Goals]] and [[Values]] reveal and lead us through the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
 
 ### Minimum Standards of Interoperability 
 
 In order for the [[Work]] done in Teams to be Integrated into the Whole, all Teams must honor the [[Minimum Standards of Interoperability]].  
 
+### Proposals 
+
+Coming Soon 
+
+### Requests For Information / Guidance 
+
+Coming Soon 
+
+### Submittals 
+
+Coming Soon 
+
 ### Integrating and Shipping Work
 
-Coming Soon. 
+Coming Soon   
+
+### Quality Assurance   
+
+Coming Soon 
 
 ### Co-Creating as a Team of Teams 
 
@@ -252,6 +290,18 @@ Progress is monitored against the [[Milestones]] that mark the [[Way]] towards [
 
 ### Your Most Important Role
 
-Remember, none of us can accomplish [[The Goal]] unless and until we [[All]] Progress [[FROM the Old TO the New]].  
+Remember, We are [[One Body]]. None of us can realize [[The Goal]] unless and until we [[All]] Progress [[FROM the Old TO the New]].  
 
 Your most important role is to [[Pass The Flame]] to those who awaken and are ready. 
+
+Every individual may invite up to one individual a week to [[Join The Movement]], and may nominate additional individuals for consideration by others with available invitations. 
+
+### Successful Integration 
+
+We will know The Flame has been successfully passed when each new co-creator: 
+
+1. Accepts [[The Invitation]] to [[Join The Movement]]  
+2. Forges or Joins a Group / Team  
+3. Initiates a [[Quarterly Quest]]  
+4. Contributes - Time / Energy / Resources / Relationships 
+5. Passes The Flame to the next Wise Right Individual 

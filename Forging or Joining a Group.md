@@ -14,8 +14,8 @@ Forging or joining a group can be a powerful way to engage in the [[Citizen Led 
     
 6.  **Stay engaged and committed**: Remain committed to your personal vision and the group's purpose, and stay engaged in its activities and initiatives. Be open to feedback and constructive criticism, and be willing to adjust your approach or perspective as needed. Stay connected with other members, attend meetings and events, and continue to contribute your time, skills, and resources to the group's mission.
     
-7. **Understand the [[New Vision and Plan]]**: Read and discuss the materials as a group, and explore how you can meaningfully engage within your own group, as well as connecting and federating with other groups who are also playing [[The Game]]. 
+7. **Understand the [[New Vision and Plan]]**: Read and discuss the materials as a group, and explore how you can meaningfully engage within your own group, as well as connecting and federating with other groups to tackle every larger challenges. 
 
-By forging or joining a group, you can contribute to the larger effort of the [[Citizen Led Response]] and work towards a more just and regenerative future for all.
+By forging or joining a group, you can contribute to the larger effort of the [[Citizen Led Response]] and work towards co-creating a Just and Regenerative future for All.
 
 See also [[Template For Group]] 
