@@ -139,36 +139,36 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 24. [[Ernie Hernandez]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Ron Sukut  
-- 25. [[Steve Schwarz]] 
+25. [[Steve Schwarz]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Sasha Strauss  
 	- Art of Tea  
-- 26. [[Justin LeBlanc]] 
+26. [[Justin LeBlanc]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jahn Ballard 
-- 27. [[Jahn Ballard]]
+27. [[Jahn Ballard]]
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Rob Farjado 
-- 28. [[Warren Linney]] 
+28. [[Warren Linney]] 
 	- Invited by: Jahn Ballard 
 	- Introduced to Jordan by: Jahn Ballard  
-(Tentative Pending Formal Acceptance)  
-- 29. [[Simon Peter Phillips]] 
+29. [[Simon Peter Phillips]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Jordan  
-- 30. [[David Anderson]]  
+(Tentative Pending Formal Acceptance)  
+30. [[David Anderson]]  
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jahn via Justin  
-- 31. [[David Blume]]  
+31. [[David Blume]]  
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jahn via Justin  
-- 32. [[Day Waterbury]] 
+32. [[Day Waterbury]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Jahn 
-- 33. [[Zachary Marlow]] 
+33. [[Zachary Marlow]] 
 	- Invited by: [[Jordan]] 
 	- Introduced to Jordan by: [[Day Waterbury]] 
-- 34. [[Rick Lukens]] 
+34. [[Rick Lukens]] 
 	- Invited by [[Jordan]]   
 	- Introduced to Jordan by: [[Jahn Ballard]]  
 - Cycle Completed April 19, 2024 
