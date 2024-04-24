@@ -12,10 +12,12 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]  
 - [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]   
-- [[Above The Chaos, Game Plan For March]]  
+- [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]  
+- [[Lionsberg Invitation]]  
 
 ## April 2024 
 
+- [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]  
 - [[Above The Chaos, Breakthrough With George Orbelian]]  
 - [[Above The Chaos, April 2024 Above The Chaos Tour Findings]]  
 - [[Above The Chaos, Jordan and AI Discuss a Theory of Everything, a Universal Movement, Interstellar Expansion, and the US Elections]]  
