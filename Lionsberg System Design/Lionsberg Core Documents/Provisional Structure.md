@@ -1,6 +1,6 @@
 # Provisional Structure 
 
-For more information on the inception of the Lionsberg | Meta Project Structure, see [[Background and Context]] in the [[Lionsberg Integrated Delivery Guide]]. 
+For more information on the inception of the Lionsberg | Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
 Here is a 30 minute introductory discussion:
 
