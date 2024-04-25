@@ -6,9 +6,17 @@ This presentation aims to approach (the whole) from the lens of a unified strate
 
 It is intentionally designed to remain an eternally incomplete [[Work In Progress]], designed to be continuously improved by each individual and locality that joins [[The Quest]] towards [[The Goal]]. 
 
+## If One and All Wills It To Be
+
+Obviously any such plan to regenerate the world and co-create a flourishing and abundant [[New Era]] can only occur if [[One]] and [[All]] will and intend for it to be, and co-create the miracles along the Way. 
+
+As it has been said, *if God wills, we will live, and also (enact the plan).*
+
 ## History and Inception 
 
 In 2017, [[Jordan Nicholas Sukut]] began discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. 
+
+It took a nation 10 years to land a man on the moon. We now have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. 
 
 ## Context 
 
@@ -450,6 +458,7 @@ If we imagine the distributed array of 500 [[Self-Governing, Self-Sustaining, an
 Beyond the Spaces required or aspired, there will be common sets of functional needs, such as: 
 
 - Facilitation and Community Engagement Systems and Expertise  
+- Livings Systems Data and Analysis Systems and Expertise 
 - Regenerative Insurance and Financing Systems and Expertise   
 - Learning, Education, and Developmental Systems and Expertise  
 - Vocational Training and Development Systems and Expertise  
@@ -470,7 +479,7 @@ If [[The Goal]] requires that we inspire and move [[10 Billion People In 10 Year
 
 ...[[Success]] requires co-creating something like 100,000 Interlinked [[Local Instantiation Hubs]] over the next 10 years, with each one serving as a [[Commons]] of core services, tools, technologies, and capabilities for the surrounding community / [[Locality]]. 
 
-These ~100,000 interlinked [[Local Hubs]] would connect and support a network of ~1,000,000 Community Hubs, and would be connected to and supported by a network of ~150 to 200 [[Bioregional Hubs]], which in turn would be connected to and supported by a network of 12 to 24 [[Georegional Hubs]].    
+These ~100,000 interlinked [[Local Hubs]] would connect and support a network of ~1,000,000 [[Community Hubs]], and would be connected to and supported by a network of ~150 to 200 [[Bioregional Hubs]], which in turn would be connected to and supported by a network of 12 to 24 [[Georegional Hubs]].    
 
 Assuming a nominal average cost of $1 Million to $2 Million per Community Hub, this is approximately a $ 1 Trillion to $2 Trillion program of action, less than what humanity spends each year on military and defense expenses alone.
 
@@ -482,7 +491,7 @@ The [[Georegional Hubs]] would need to ensure full interoperability and freedom 
 
 The design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion. 
 
-## Financing The Instantiation Hubs During The 10 Year Grand Strategy 
+## Financing The Instantiation Hubs During The 10 Year Grand Strategy - Swords to Ploughshares 
 
 Assuming humanity is presently spending ~$2.4 Trillion / Year on military and defense spending (likely a significant underestimate), and that military and defense costs would rise at a nominal rate of 5% / year due to inflation and the WWIII that is breaking out, military and defense spending would be approximately as follows: 
 
@@ -522,7 +531,27 @@ Total 10 year anticipated military and defense spending ([[New Vision and Plan]]
 
 This single redirection of funds [[FROM Weaponry TO Livingry]] frees up $17 Trillion to accomplish the $15 Trillion [[New Vision and Plan]], with a 13.3% Contingency. 
 
-This very elementary analysis of how we can afford the [[New Vision and Plan]] illustrates the ridiculous point that for less than 1/2 of what we are currently on track to spend to wage WWIII and risk destroying 2/3 to 3/4 of the human population, we could beat our swords into tools of life and co-create [[A Future For All That Is Better Than Any Has Enjoyed In The Past]]. 
+Note that this can be accomplished without dismantling the militaries, by simply training and deploying the existing forces and resources to co-create rather than destroy using a decentralized [[Team of Teams]] approach. 
+
+Beyond the military transition, there is already $500 Billion + / year of annual philanthropic flows that can be gradually redirected towards the [[Critical Path]].  
+
+Additionally, there is $100 Billion + present in the Community Foundations network that could be leveraged to build [[Local Hubs]], [[Community Hubs]], and the [[Regenerative Finance and Insurance]] mechanisms. 
+
+Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource government to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).
+
+This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]]. 
+
+The [[Lionsberg System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).
+
+Beyond the ~30% of global GDP being allocated to government waste, there likely exists another 30%+ of global GDP that is being allocated to economic waste (another $30 Trillion / Year), that could also be redirected towards the [[Critical Chain]]. 
+
+It thus becomes apparent that the savings of *a single year of government waste* could finance the co-creation of the decentralized, self-governing, and self-sustaining hubs that enable humanity to flourish and usher in the [[New Era]]. 
+
+Beyond that perhaps absurb realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]]. 
+
+These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[Lionsberg System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered. 
+
+This very elementary analysis of how we can afford the entire $15 Trillion Grand Strategy / [[New Vision and Plan]] illustrates the ridiculous point that for less than 1/2 of what we are currently on track to spend to wage WWIII and risk destroying 2/3 to 3/4 of the human population over the coming years, and for less *a single year of government waste*, we could take back up responsibility and authority over our lives and our world, embody and enact the [[New Covenant]], beat our swords into tools of life, and co-create [[A Future For All That Is Better Than Any Has Enjoyed In The Past]]. 
 
 All it requires is enough people [[Believing It Is Possible]], Joining The Movement, and taking up their equal [[New Citizenship]] in the [[New Covenant]] and [[New World]] we are embodying, enacting, and co-creating. 
 
@@ -566,6 +595,8 @@ There of course will need to be a new [[Lionsberg Alliance]] forged to succeed N
 There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of Lionsberg]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities. 
 
 There of course will need to be 12,000 Individuals trained in each of 12 Core Functions of The Body just as a starting point to support the emergence of 50 Million connected and empowered Teams. 
+
+There of course will need to be unprecedented efforts to stop pollutant flows at their sources, clean up the most polluted sites of the world, and transform our landfills and oceanic dumping grounds into sources of energy and raw materials until they are cleansed from the earth. 
 
 There of course will need to be [[Stories of Transformation]] told to inspire, engage, and fuel the [[Resourcing and Engagement Flywheel]].  
 
