@@ -1,5 +1,7 @@
 # The Lionsberg Strategy and Plan
 
+*Updated April 2024*
+
 In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] in detail from various angles. 
 
 This presentation aims to approach (the whole) from the lens of a unified strategy and plan to meet this moment in history. 
@@ -118,7 +120,7 @@ The first part involves Co-Creating the [[Environment]], [[Conditions]], Infrast
 
 This was the purpose of [[The 7 Year Window of Preparatory Work and Learning]].  
 
-The second part involves awakening and uniting humanity for the opportunity and adventure of the lifetime - the Epic Quest to depart from [[The Caves]] of the [[Old World]], progress through [[The Wilderness]] that always separates the [[Old]] form the [[New]], and Co-Create the [[New World]] / [[The Promised Land]]. 
+The second part involves awakening and uniting humanity for the opportunity and adventure of a lifetime - the Epic Quest to depart from [[The Caves]] of the [[Old World]], progress through [[The Wilderness]] that always separates the [[Old]] form the [[New]], and Co-Create the [[New World]] / [[The Promised Land]]. 
 
 This involves reimagining, redesigning, rebuilding, and continuously improving the [[New Norms and Values]] - the [[New Pattern Language]] - we are Progressing Towards. 
 
@@ -244,7 +246,7 @@ The [[New Human Operating System]] must also be conceptually universal and etern
 - Interstellar System  
 - etc. etc. 
 
-For those who have not thought beyond the limits of their locality or planet, the idea of a operating system designed and built to co-operate across millions of years and countless planets and star systems may seem far fetched or incredible. However it is suicidal not to think of the long term - we know that this star system will become uninhabitable in just a few short galactic years (a galactic year is 230,000,000 years, the amount of time it takes the sun to orbit the Black Hole at the center of the Milky Way). Beyond that known naturally end point, numerous [[Existential Threats]] could conceivably set back the experiment of Life and Consciousness aboard Earth by millions, hundreds of millions, or billions of years (degeneration, nuclear war, AI, asteroids, pandemics, etc.). 
+For those who have not thought beyond the limits of their locality or planet, the idea of an operating system designed and built to co-operate across millions of years and countless planets and star systems may seem far fetched or incredible. However it is suicidal not to think of the long term - we know that this star system will become uninhabitable in just a few short galactic years (a galactic year is 230,000,000 years, the amount of time it takes the sun to orbit the Black Hole at the center of the Milky Way). Beyond that known natural end point, numerous [[Existential Threats]] could conceivably set back the experiment of Life and Consciousness aboard Earth by millions, hundreds of millions, or billions of years (degeneration, nuclear war, AI, asteroids, pandemics, etc.). 
 
 Because the [[Creator's Intent]] is Omniconsiderate, Universal, and Eternal, so too must our thinking become about how to Progressively Realize The Goal. 
 ### Waste, Value, and Throughput of The Goal 
@@ -590,9 +592,15 @@ There of course will need to be a world class messaging and communication platfo
 
 There of course will need to be a world class tour bringing together leading figures of our time to touch the hearts and minds of billions of human beings. 
 
-There of course will need to be the co-creation of the systems and mechanisms to enable hundreds of billions of dollars of flow each quarter to the Teams advancing the Critical Path. 
+There of course will need to be training on the new system of governance and decision making that families, neighborhoods, communities, and bioregions can co-operate. 
+
+There of course will need to be the co-creation of the systems and mechanisms to redirect resources [[FROM Waste TO Value]] and enable hundreds of billions of dollars of flow each quarter to the Teams advancing the Critical Path. 
+
+There of course will need to be interoperable sets of local community currencies that enable decentralized, local, and global freedom of exchange before the fiat currencies of the [[Old World]] collapse.  
 
 There of course will need to be strategies around the political systems and election cycles of each of 200 nations on Earth. 
+
+We of course might want to sweep the executive branch in the 2024 and 2026 US elections. 
 
 There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal security, and oversee the responsible and balanced redirection of military and defense flows. 
 
