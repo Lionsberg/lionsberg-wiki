@@ -14,9 +14,9 @@ As it has been said, *if God wills, we will live, and also (enact the plan).*
 
 ## History and Inception 
 
-In 2017, [[Jordan Nicholas Sukut]] began discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. 
+In 2017, [[Jordan Nicholas Sukut]] began discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story.
 
-It took a nation 10 years to land a man on the moon. We now have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. 
+It took a nation 10 years to land a man on the moon. We now have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. As of Spring 2024, the [[10 Year Grand Strategy]] is underway.  
 
 ## Context 
 
