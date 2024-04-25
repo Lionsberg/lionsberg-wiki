@@ -475,6 +475,16 @@ Beyond the Spaces required or aspired, there will be common sets of functional n
 Additionally, we can imagine that there will be many significantly beneficial tools and technologies that would aid any community that had them, but may be very difficult for Teams of Communities to afford in isolation. 
 
 We therefore imagine a [[Fractal Commonsing]] approach, where basic necessities like energy production, clean water production, sanitation, major farming and construction tools, additive manufacturing capabilities, learning and wellness tools and facilities, etc. would be housed in locally stewarded [[Commons]] providing equal access to every community of ~100,000 Citizens (or as locally appropriate, wise, right and good). 
+
+## The Lionsberg Commons 
+
+Linking the [[Fractal Commonsing]] approach would be a highest order [[Lionsberg Commons]] (variously called [[The Commons]]), that would aggregate the leading wisdom, knowledge, solutions, technologies, templates, and patterns from each Fractal Georegional / Bioregional / Local / Community Commons. 
+
+[[Data, Information, Knowledge, and Wisdom Sovereignty]], like the System as a Whole, is designed to co-operate and self-organize from the bottom up, so that each Individual, Team, and Locality can [[Consciously Choose]] what resources, information, and knowledge they share, with which other fractal levels of organization and analysis. 
+
+The best solutions would be reconciled and reconfigured into [[The Prototype]], designed and built as an interoperable [[Kit of Parts]]. 
+
+This approach ensures that any Georegion, Bioregion, or Locality that prioritizes, localizes, and adapts any solution from [[The Prototype]] is co-creating a cohesive and ultimately interoperable node of The Network, while gaining access to the continuous improvement and learnings from all Instantiations across The System as a Whole. 
 ## Regional, Bioregional, and Local Instantiation Hubs 
 
 If [[The Goal]] requires that we inspire and move [[10 Billion People In 10 Years]], and that a functional federated system addressing all aspects of society such as the one described in [[The Prophesy of Mondragon]] might serve nominally 100,000 people... 
