@@ -537,7 +537,7 @@ Beyond the military transition, there is already $500 Billion + / year of annual
 
 Additionally, there is $100 Billion + present in the Community Foundations network that could be leveraged to build [[Local Hubs]], [[Community Hubs]], and the [[Regenerative Finance and Insurance]] mechanisms. 
 
-Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource government to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).
+Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource "government" to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).
 
 This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]]. 
 
@@ -547,9 +547,13 @@ Beyond the ~30% of global GDP being allocated to government waste, there likely 
 
 It thus becomes apparent that the savings of *a single year of government waste* could finance the co-creation of the decentralized, self-governing, and self-sustaining hubs that enable humanity to flourish and usher in the [[New Era]]. 
 
-Beyond that perhaps absurb realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]]. 
+Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]]. 
 
 These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[Lionsberg System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered. 
+
+As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[Lionsberg System]], after which it should be essentially self-funding and self-sustaining. 
+
+**Achieving this milestone merely requires more efficiently allocating *less than 1% of existing philanthropic capital flows* that are currently funding [[Waste]].** 
 
 This very elementary analysis of how we can afford the entire $15 Trillion Grand Strategy / [[New Vision and Plan]] illustrates the ridiculous point that for less than 1/2 of what we are currently on track to spend to wage WWIII and risk destroying 2/3 to 3/4 of the human population over the coming years, and for less *a single year of government waste*, we could take back up responsibility and authority over our lives and our world, embody and enact the [[New Covenant]], beat our swords into tools of life, and co-create [[A Future For All That Is Better Than Any Has Enjoyed In The Past]]. 
 
