@@ -18,6 +18,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## April 2024 
 
+- [[Above The Chaos, The Greatest Minds and Ideas]]  
 - [[Above The Chaos, The Lionsberg Alliance]]  
 - [[Above The Chaos, The Lionsberg Strategy and Plan]]  
 - [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]  

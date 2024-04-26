@@ -1,6 +1,15 @@
-# Above - Greatest Minds and Ideas
+# Above The Chaos, The Greatest Minds and Ideas
 
-*Note in progress - just some rough notes aggregating ideas on greatest minds in history from Will Durant*
+By [[Jordan Nicholas Sukut]], 2024.04.26 _(updated 2024.04.26)_
+
+A post in [[Above The Chaos]]  
+
+*Note in progress - these are merely some rough notes aggregating ideas on greatest minds in history from Will Durant*. 
+
+I thought it worth surfacing these rough notes and scribbles as a leaping off point for self-learning and inspiration among those who desire to grapple with the thinkers and doers who have shaped history.
+
+As we seek [[Wisdom]] and [[Truth]] to liberate our Selves, remember [[Who We Are]], and usher in the [[New Era]], we have as our riches and our guide [[Our Collective Inheritance]] of ideas laid up, synergized, and developed by the greatest minds and thinkers who have gone before us. 
+
 ## Chapter Two - The Ten "Greatest" Thinkers
 
 Will Durant, Historian, 1968 - "The basic phenomenon of our time is not Communism; it's the decline of religious belief..."
@@ -11,11 +20,11 @@ In the end men began to write history as if it had never been lived at all, as i
 
 No, the real history of man is not in prices and wages, nor in elections and battles, nor in the even tenor of the common man; it is in the lasting contributions made by geniuses to the sum of human civilization and culture.
 
-Therefore I see history not as a dreary scene of politics and carnage, but as the struggle of man through genius with the obdurate inertia of matter and the baffling mystery of mind; the struggle to understand, control, and remake himself and the world. I see men standing on the edge of knowledge, and holding the light a little farther ahead; men carving marble into forms ennobling men; men molding peoples into better instruments of greatness; men making a language of music and music out of language; men dreaming of finer lives-and living them. Here is a process of creation more vivid than in any myth; a godliness more real than in any creed.
+Therefore I see history not as a dreary scene of politics and carnage, but as **the struggle of man through genius with the obdurate inertia of matter and the baffling mystery of mind**; the struggle to understand, control, and remake himself and the world. I see men **standing on the edge of knowledge**, and **holding the light a little farther ahead**; men carving marble into forms ennobling men; men molding peoples into **better instruments of greatness**; men making a language of music and music out of language; men dreaming of finer lives-and living them. Here is **a process of creation more vivid than in any myth**; a godliness more real than in any creed.
 
-...to watch them at their work and warm ourselves at the fire that consumes them, this is to recapture some of the thrill that youth gave us when we thought, at the altar or in the confessional, that we were touching or hearing God.
+...to watch them at their work and **warm ourselves at the fire that consumes them**, this is to recapture some of the thrill that youth gave us when we thought, at the altar or in the confessional, that we were touching or hearing God.
 
-Let us change the icons, and light the candles again.
+**Let us change the icons, and light the candles again**.
 
 What is [[Thought]]? 
 
@@ -38,7 +47,7 @@ Leonardo
 Shakespeare
 Goethe 
 
-religion and passion 
+Religion and passion 
 
 Jesus 
 Buddha 
@@ -57,13 +66,13 @@ Lincoln
 
 Thinkers, philosophers, scientists 
 
-[[Confucius]] - a moral philospher, whose call to the noble life. rooted in secular, rather than religious, considerations. (J) 
+[[Confucius]] - a moral philosopher, whose call to the noble life was rooted in secular, rather than religious, considerations. 
 
 Born (552 B.C.) in an age of confusion, in which the old power and glory of China had passed into feudal disintegration and factional strife, Kung-fu-tse undertook to restore health and order to his country.
 
-*The illustrious ancients, when they wished to make clear and to propagate the highest virtues in the world, put their states in proper order. Before putting their states in proper order, they regulated their families. Before regulating their families, they cultivated their own selves. Before cultivating their own selves, they perfected their souls. Before perfecting their souls, they tried to be sincere in their thoughts. Before trying to be sincere in their thoughts, they extended to the utmost their knowledge. Such investigation of knowledge lay in the investigation of things, and in seeing them as they really were. When things were thus investigated, knowledge became complete. When knowledge was complete, their thoughts became sincere. When their thoughts were sincere, their souls became perfect.When their souls were perfect, their own selves became cultivated. When their selves were cultivated, their families became regulated.When their families were regulated, their states came to be put into proper order.When their states were in proper order, then the whole world became peaceful and happy.* - Confucius 
+*The illustrious ancients, when they wished to make clear and to propagate **the highest virtues** in the world, put their states in **proper order**. Before putting their states in proper order, they regulated their families. Before regulating their families, they cultivated their own selves. Before cultivating their own selves, they perfected their souls. Before perfecting their souls, they tried to be sincere in their thoughts. Before trying to be sincere in their thoughts, they extended to the utmost their knowledge. Such investigation of knowledge lay in the investigation of things, and in seeing them as they really were. When things were thus investigated, knowledge became complete. When knowledge was complete, their thoughts became sincere. When their thoughts were sincere, their souls became perfect.When their souls were perfect, their own selves became cultivated. When their selves were cultivated, their families became regulated. When their families were regulated, their states came to be put into proper order. When their states were in proper order, then the whole world became peaceful and happy.* - Confucius 
 
-I would add only to Confucius that knowledge can never be complete until it transcends the realm of [[Things]], and touches the hem of the garment of the [[One Thing]] that unites and orders them within Itself. (J) 
+I would add only to Confucius that knowledge can never be complete until it transcends the realm of [[Things]], and touches the hem of the garment of the [[One Thing]] that unites and orders them within Itself. ~ [[Jordan]] 
 
 [[Manners]]  
 [[Etiquette]]  
@@ -76,12 +85,13 @@ I would add only to Confucius that knowledge can never be complete until it tran
 Clear enunciation of the [[Golden Rule]]
 
 [[Plato]]  
+[[Jesus]]  
 
 Figures that voicing and forming people with thought. 
-[[Buddha]] in Asaia 
-[[Isaiah]] 
+[[Buddha]]  
+[[Isaiah]]  
 [[Jesus]]  
-[[Mohammed]]  
+[[Mohammed]]   
 
 Plato... was a lover... a passionate seeker of the elusive reality behind thoughts and things. 
 
@@ -89,7 +99,7 @@ We love him because of his high passion for social reconstruction through intell
 
 We love him because... because he retained throughout his eighty years that zeal for human improvement... because he conceived philosophy as an instrument not merely for the interpretation but for the remolding of the world.
 
-We love him because he worshiped beauty as well as truth, and gave to ideas the living movement of drama, and clothed them in all the radiance of art.
+We love him because he worshiped [[Beauty]] as well as [[Truth]], and gave to ideas the living movement of [[Drama]], and clothed them in all the radiance of [[Art]].
 
 [[Socrates]] - the reader must not be shocked to learn that Socrates is half a myth, and only half a man. 
 
@@ -107,9 +117,9 @@ The [[Lionsberg House of Culture]]
 
 But let us once overcome this barrier of scholastic terminology and scornfully concentrated thought, and we shall find ourselves in the presence of an intellect of almost unbelievable depth and range. Here is a circumnavigation of the globe such as no mind has accomplished since; here every problem in science and philosophy has its consideration, its illumination, and a defensible solution; here knowledge is brought together as if through a thousand spies, and coordinated into a united vision of the world.
 
-Confucius alone has had as great an influence. Everybody knows how, at Alexandria and in Imperial Rome, the work of Aristotle became the foundation of advancing science; how in the thirteenth century his philosophical writings, brought by the invading Moors to reawakened Europe, played a fertilizing role in the development of scholastic philosophy; how the great Summae of that virile age were only adaptations of the Metaphysics and the Organon; how Dante placed Aristotle first among all thinkers—“master of those who know” how Constantinople brought the last lost treasures of his thought to the eager students of the Renaissance; and how this quiet sovereignty of one man over a millennium of intellectual history came to an end only with the audacious irreverence of Occam and Ramus, the experimental science of Roger Bacon, and the innovating philosophy of Francis Bacon.
+Confucius alone has had as great an influence. Everybody knows how, at Alexandria and in Imperial Rome, the work of [[Aristotle]] became the foundation of advancing science; how in the thirteenth century his philosophical writings, brought by the invading Moors to reawakened Europe, played a fertilizing role in the development of scholastic philosophy; how the great Summae of that virile age were only adaptations of the Metaphysics and the Organon; how Dante placed Aristotle first among all thinkers—“master of those who know” how Constantinople brought the last lost treasures of his thought to the eager students of the Renaissance; and how this quiet sovereignty of one man over a millennium of intellectual history came to an end only with the audacious irreverence of Occam and Ramus, the experimental science of Roger Bacon, and the innovating philosophy of Francis Bacon.
 
-[[Thomas Aquinas]] - 
+[[Thomas Aquinas]] 
 
 So Greece flits by, and we come to Rome. Who were the great thinkers there? [[Lucretius]] first and finest of all. Yet... his philosophy was not his own, but with modest candor was ascribed to [[Epicurus]]... and ...his influence... (touched) only the topmost minds... 
 
@@ -121,10 +131,10 @@ It began again when the [[Church]] healed the strife of factions with the mystic
 
 When the work of preparation was complete another Aristotle came, Saint Thomas of Aquino, a man who took the universe for his specialty, and flung a frail bridge of reason across the chasms between knowledge and belief... unifying knowledge, interpreting it, and focusing it all upon the great problems of life and death.
 
-[[Spinoza]]  
-[[Nietzsche]]  
+[[Spinoza]]   
+[[Nietzsche]]   
+[[Copernicus]]  
 
-[[Copernicus]] 
 And then came a voice out of Poland, saying that this earth, footstool of God and home of his redeeming pilgrimage, was a minor satellite of a minor sun.
 
 It seemed so simple a thing to say...but to the medieval world... this new astronomy was an atheistic blasphemy, a ruthless blow that seemed to overthrow the Jacob’s ladder which faith had built between angels and men.
@@ -135,8 +145,9 @@ And so, by the magic of his mathematics, he transformed a geocentric and anthrop
 
 With him modernity begins. With him secularism begins. With him reason makes its French Revolution against a faith immemorially enthroned, and man commences his long effort to rebuild with thought the shattered palace of his dreams.
 
-[[Francis Bacon]] - 
-...the century that followed Copernicus was one of youthful audacity and courage in every field. 
+[[Francis Bacon]] 
+
+...the century that followed [[Copernicus]] was one of youthful audacity and courage in every field. 
 
 The flash of those alert eyes, the rich blood in those strong frames, the warm color of their luxurious raiment, the spontaneous poetry of that impassioned speech, the creative insatiable desires, the search and sweep and fearlessness of newly liberated minds—shall we ever know such days again?
 
@@ -144,7 +155,7 @@ The flash of those alert eyes, the rich blood in those strong frames, the warm c
 
 [[Giordano Bruno]], that forever seeking soul, unsatisfied with the finite, hungry for an immeasurable unity, impatient of divisions, sects, dogmas, and creeds, only less controllable than the winter’s winds, only less fiery than Etna, and doomed by his own turbulent spirit to a martyr’s death?
 
-Bacon - “the man who rang the bell that called the wits together” who sent out a challenge to all the lovers and servants of truth everywhere to bind themselves together in the new order and ministry of science;
+[[Francis Bacon]]  - “the man who rang the bell that called the wits together” who sent out a challenge to all the lovers and servants of [[Truth]] everywhere to bind themselves together in the new order and ministry of science;
 
 ...the inductive inquiry into nature’s laws, the resolute extension of the mastery of man over the conditions of his life...
 
@@ -152,13 +163,13 @@ Bacon - “the man who rang the bell that called the wits together” who sent o
 
 ...who inspired the Royal Society of Great Britain and the great Encyclopedie of France...
 
-[[Isaac Newton]] - 
+[[Isaac Newton]] 
 
 From that day to ours the history of the European intellect has been predominantly the progress of the Baconian as against the medieval conception of the world.
 
 In [[Descartes]] the new struggles in the arms of the old, and never quite liberates itself; in the great unifying soul of [[Leibnitz]] the medieval tradition is still powerful enough to turn a mathematician into a precarious theologian; and in [[Immanuel Kant]] the voice of ancestral faith speaks amid the skepticism of the Enlightenment.
 
-Strangely bridging these two streams of thought—the scientific and the religious—stands the figure of Spinoza: polisher of lenses and God-intoxicated man; silent devotee of lonely speculation, and formulator of the metaphysics of modern science; lover of mechanics and geometry, and martyr equally with Bruno to philosophy, dying only a slower and obscurer death. He belongs to the islanded aristocracy of thought, and the world has not mounted to him yet.
+Strangely bridging these two streams of thought—the scientific and the religious—stands the figure of [[Spinoza]]: polisher of lenses and God-intoxicated man; silent devotee of lonely speculation, and formulator of the metaphysics of modern science; lover of mechanics and geometry, and martyr equally with Bruno to philosophy, dying only a slower and obscurer death. He belongs to the islanded aristocracy of thought, and the world has not mounted to him yet.
 
 Newton’s Principia marked the quiet assumption, by science, of its now unchallenged mastery over modern thought; ... the laws of motion and mechanics as established by Newton became the basis of all later practical advance.
 
@@ -188,7 +199,7 @@ Matter, as known to us, is but a form of mind.
 
 ...it...seemed to offer a splendid exit from the infidelity of the Enlightenment. Here was a chance to reassert the primacy of mind, to reduce its threatening enemy to a mere province in its realm, and so to restore the philosophical bases of religious belief and immortal hope.
 
-The supreme figure in this idealistic development was Immanuel Kant, perfect archetype of the abstract philosopher; 
+The supreme figure in this idealistic development was [[Immanuel Kant]], perfect archetype of the abstract philosopher; 
 
 ...It was Kant who labored best to rescue mind from matter;
 
@@ -218,9 +229,9 @@ The Centuries of world transforming inventions
 - Printing 
 - Steam Engine 
 - Electricity  
-- Discovery of America 
+- "Discovery" of America 
 
-Centuries of the world's greatest statesmen 
+Centuries of the world's greatest statesmen - say - 
 
 - Hammurabi, 
 - Moses, 
@@ -258,7 +269,7 @@ of the world’s greatest scientists and philosophers—say -
 - Schopenhauer, and 
 - Darwin; 
 
-of the world’s greatest saints—say 
+of the world’s greatest saints—say - 
 - lknaton, 
 - Lao-tzu, 
 - Isaiah, 
@@ -271,7 +282,7 @@ of the world’s greatest saints—say
 - Luther, and 
 - Gandhi.
 
-know the centuries of the world’s greatest poets—say 
+know the centuries of the world’s greatest poets—say - 
 - Homer, 
 - the Psalmist, 
 - Euripides, 
@@ -291,7 +302,7 @@ know the centuries of the world’s greatest poets—say
 - Whitman, and 
 - Tagore; 
 
-of the world’s greatest makers of music—say 
+of the world’s greatest makers of music—say - 
 - Palestrina, 
 - Bach, 
 - Handel, 
@@ -307,7 +318,7 @@ of the world’s greatest makers of music—say
 - Paderewski, and 
 - Stravinsky; 
 
-and of the world’s greatest artists or works of art—say 
+and of the world’s greatest artists or works of art—say - 
 - Karnak and 
 - Luxor
 - and the Pyramids, 
@@ -339,6 +350,6 @@ and of the world’s greatest artists or works of art—say
 
 Asoka 
 Akbar 
-T'ang Dynasy - an age as great in China as hte Enlightenment in France 
+T'ang Dynasy - an age as great in China as the Enlightenment in France 
 
-Durant, Will. The Greatest Minds and Ideas of All Time.
+From - *Durant, Will. The Greatest Minds and Ideas of All Time.*
