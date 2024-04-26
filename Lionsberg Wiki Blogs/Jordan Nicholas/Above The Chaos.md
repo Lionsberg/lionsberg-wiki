@@ -25,7 +25,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, Breakthrough With George Orbelian]]  
 - [[Above The Chaos, April 2024 Above The Chaos Tour Findings]]  
 - [[Above The Chaos, Jordan and AI Discuss a Theory of Everything, a Universal Movement, Interstellar Expansion, and the US Elections]]  
-- [[Above The Chaos, 2024 Elections]]  
+- [[Above The Chaos, 2024 and 2026 Elections]]  
 
 ## March 2024 
 

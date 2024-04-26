@@ -24,7 +24,7 @@ Despite years of careful preparation, this is more than a strategy and plan; it'
 
 To be part of this historic movement, visit [Join The Movement](https://jordannicholas.org/join_the_movement) and contribute to the mission. By joining, you will be stepping into a transformative community dedicated to creating a world that mirrors our highest aspirations and brings Heaven to Earth. 
 
-One of the first hills we aim to take as we commence The Battle relates to the executive branches of the United States. For a brief overview, see [[Above The Chaos, 2024 Elections]]. 
+One of the first hills we aim to take as we commence The Battle relates to the executive branches of the United States. For a brief overview, see [[Above The Chaos, 2024 and 2026 Elections]]. 
 
 With hope and unity,
 
