@@ -2,23 +2,35 @@
 
 *Updated April 2024*
 
-In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] in detail from various angles. 
+In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] in detail from various angles, in more detail. 
 
-This presentation aims to approach (the whole) from the lens of a unified strategy and plan to meet this moment in history. 
+This shorter presentation aims to approach (the whole) from the lens of a unified strategy and plan to meet this moment in history. 
 
 It is intentionally designed to remain an eternally incomplete [[Work In Progress]], designed to be continuously improved by each individual and locality that joins [[The Quest]] towards [[The Goal]]. 
 
 ## If One and All Wills It To Be
 
-Obviously any such plan to regenerate the world and co-create a flourishing and abundant [[New Era]] can only occur if [[One]] and [[All]] will and intend for it to be, and co-create the miracles along the Way. 
+Any such plan to regenerate the world and co-create a flourishing and abundant [[New Era]] can only occur if [[One]] and [[All]] will and intend for it to be, and co-create the miracles along the Way. 
 
 As it has been said, *if God wills, we will live, and also (enact the plan).*
 
+## Our Highest Duty to One, All, Wisdom, and Truth 
+
+This New Vision, Strategy, and Plan is made as a humble offering in service of [[One]] and [[All]]. As illuminated in [[The Story of the Builder]], we expect that it contains many gaps and insufficiencies which will need to be remediated by unique gifts, talents, and experiences of those who join togethers as Co-Creators. In the [[Lionsberg System]], [[Every Defect Is A Gift]]. It would be a great relief if you could find and remedy as many errors as possible. [[Like Gold Refined Seven Times]], eventually the [[Dross]] will be burned off and only that which approaches [[Wisdom]] and [[Truth]] will remain. 
+
+## Uniting Aim and Goal
+
+Rooted in the [[Absolute And Unconditional Love]] of [[One]] for [[All]], the Uniting Aim and Goal of the New Vision, Strategy, and Plan is the total integrated wellbeing, development, and right relationship of [[All]] generations of life and consciousness. As the [[Old]] systems and structures fail, the Aim is move the entire population out of [[The Caves]] separating and imprisoning us, through [[The Wilderness]], and towards [[The Promised Land]] within a single generation, with no one [[Involuntarily Left Behind]]. 
+
 ## History and Inception 
 
-In 2017, [[Jordan Nicholas Sukut]] began discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story.
+Since as early as he can remember, [[Jordan]] has been aware this moment was coming and attempting to prepare for it. 
 
-It took a nation 10 years to land a man on the moon. We now have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. As of Spring 2024, the [[10 Year Grand Strategy]] is underway.  
+This led to a basic ethos of taking on as much responsibility as anyone would entrust him with, leading to a 25 year sprint that led from early entrepreneurial activity and service jobs, to building heavy civil infrastructure projects, portfolios of projects, companies that build projects, joint ventures that built projects too complex for any one company to tackle in isolation, multiple university and martial arts degrees, etc. 
+
+In ~2017, [[Jordan Nicholas Sukut]] began weekly discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story.
+
+It took a nation 10 years to land a man on the moon. As of Spring 2024, we have now entered the [[10 Year Grand Strategy]] and have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. 
 
 ## Context 
 
@@ -28,13 +40,20 @@ It was presumed that the existing trajectory was towards [[Collapse]], but that 
 
 ## Scope of Work
 
-The scope of work inherently encompasses the entirety of the human species and [[Worksite Earth]] without exception, and the expansion of the human species beyond Earth into inter-planetary and eventually inter-stellar configurations. 
+The scope of work inherently encompasses the entirety of the human species and [[Worksite Earth]] without exception, and the expansion of the human species beyond Earth into inter-planetary and eventually inter-stellar configurations over the next hundreds of millions of years. 
 
 It involves inviting inviting all humanity, roughly [[10 Billion People In 10 Years]], to make their [[Way]] [[FROM the Old TO the New]], and take up an [[Equal Citizenship]] in a fully regenerating, flourishing, and abundant Future. 
 
+Accomplishing this while preventing the suffering and death of 2/3 to 3/4 of the human population requires that instead of stumbling headlong into an apocalyptic AI and Nuclear World War III / IV against [[One Another]] and our Planet (along with associated Civil Wars, Chaos, and Tyranny), we beat our [[Weapons Into Tools of Life]], work together, and reallocate our [[High Science Technology]] and $10 to $20 Trillion of the $30 Trillion+ of expected military expenditures over the next 10 years towards the greatest Joint Venture in human history, while fundamentally reorienting and realigning our Way of Being and Interacting as a human species aboard [[Worksite Earth]]. 
+
+This ~$15 Trillion of nominal resource reallocation to the [[New Vision and Plan]] enables humanity to gather up its [[Collective Inheritance]] in [[The Commons]], and co-create a backbone to equip and empower a decentralized array of the first 3% of the human population, organized into ~50 million connected and empowered small teams around the world, to poly-centrically prioritize, localize, and adapt the best solutions and technologies to meet the needs, solve the problems, and accomplish the goals and aspirations inherent in every community on Earth. 
+
+Additionally, it decentralizes and democratizes power, authority, opportunity, knowledge, and technology around the world, rendering war and involuntary migration obsolete, while ensuring that every tribe, tongue, and people has a free and secure place to call home. 
+
+Lastly, it reintegrates the human population in service of [[One Another]], All [[Life]], and its [[Generative Source]].  
 ## Reintegration of the Human System and Living System 
 
-Encompassing [[All]] Creation, the strategy and plan calls for the reintegration of the [[Human System]] *in service of* the eternally regenerative [[Living System]], or Universe, it is a part of. 
+Encompassing [[All]] Creation, the strategy and plan calls for the reintegration of the [[Human System]] *in service of* the eternally regenerative [[Living System]], or Universe, it is a part of, and the [[One]] Source and Sustainer of All. 
 
 This requires that the [[Human System]] *itself* be transformed FROM [[Degenerative]] TO [[Regenerative]], empowered by a [[New Human Operating System]]. 
 

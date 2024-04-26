@@ -4,4 +4,7 @@ The [[New Vision and Plan]] is a holistic framework that presents a bold and cap
 
 In essence, it is a vision and plan for [[Heaven On Earth]].  
 
-To explore aspects of the New Vision and Plan in more detail, see the [[Lionsberg Wiki Books]]. 
+To explore aspects of the New Vision and Plan in more detail, see: 
+
+- The [[Lionsberg Wiki Books]]  
+- [[The Lionsberg Strategy and Plan]]  
