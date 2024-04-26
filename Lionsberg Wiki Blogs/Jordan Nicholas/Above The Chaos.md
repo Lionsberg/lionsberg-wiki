@@ -18,6 +18,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## April 2024 
 
+- [[Above The Chaos, Cycle 8 Invitation and New Video]]  
 - [[Above The Chaos, The Greatest Minds and Ideas]]  
 - [[Above The Chaos, The Lionsberg Alliance]]  
 - [[Above The Chaos, The Lionsberg Strategy and Plan]]  
@@ -67,11 +68,12 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, The Lionsberg Theory of Everything]]  
 - [[Above The Chaos, Grunch of Giants]]   
 
-## October 2023 - December 2023 
+## Fall and Winter 2023 / 2024 
 
 - New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
 - Traveled to Barcelona, South Africa, Dubai, exploring ways for the [[Meta Project]] to advance and reconciling strategic plans and milestones with network elements. 
-- Progressively realized that it is not feasible to execute the [[Meta Project]] through a joint venture of existing organizations or networks, and that something entirely [[New]] must emerge, rooted in Individual Agency and Free Will. 
+- Progressively realized (again) that it is not feasible to execute the [[Meta Project]] through a joint venture of existing organizations or networks, and that something entirely [[New]] must emerge, rooted in Individual Agency and Free Will. 
+- Allowed accumulated energy from [[The 7 Year Window of Preparatory Work and Learning]] to finish falling to the ground and passing away, while preparing for [[The 7 Year Window of Crisis and Opportunity]] to open. 
 
 ## September 2023  
 
