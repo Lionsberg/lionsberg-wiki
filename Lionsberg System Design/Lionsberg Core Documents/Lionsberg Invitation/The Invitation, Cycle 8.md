@@ -43,4 +43,7 @@ For updates on [[The Movement]] please stay tuned to [[Above The Chaos]].
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/O5l--cZPFa0?si=2B1YS0fXZYHozVbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
+## Recent Podcast Outlining Movement Buildings, Groups, Quests, and the 10 Year Grand Strategy
+
+<div style="text-align:center"><iframe width="560" height="315" src="https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=Ix9fyN76SS-ERrEqMMBZIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
