@@ -6366,8 +6366,6 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - AUGUST DUNNING – ORGANIC CONSUMERS ASSOCIATION: [https://www.organicconsumers.org/news/how-improve-soil-health-and-boost-yield-ocean-minerals](https://www.organicconsumers.org/news/how-improve-soil-health-and-boost-yield-ocean-minerals)
 
-- SADHGURU ON BATHING: [https://www.youtube.com/watch?v=Xk3_03LrrM0](https://www.youtube.com/watch?v=Xk3_03LrrM0)
-
 - SADHGURU SOLVES LIFE’S MOST CHALLENGING QUESTIONS – FULL INTERVIEW & INFLUENCER Q & A: [https://www.youtube.com/watch?v=tIzvd2z7b-c](https://www.youtube.com/watch?v=tIzvd2z7b-c)
 
 - NEUROSCIENTIST DAVID EAGLEMAN WITH SADHGURU – IN CONVERSATION WITH THE MYSTIC: [https://www.youtube.com/watch?v=Vn_eBgF9R7Y](https://www.youtube.com/watch?v=Vn_eBgF9R7Y)
@@ -6378,11 +6376,14 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - SADHGURU’S LATEST BOLD SPEECH ON RUSSIA – UKRAINE & WORLD PEACE / MYSTICS OF INDIA: [https://www.youtube.com/watch?v=nxv8-qnYuPg](https://www.youtube.com/watch?v=nxv8-qnYuPg)
 
-- SADHGURU: MUST DO THESE TWO THINGS WITH YOUR FEET & INCREASE YOUR BRAIN POWER 500%: [https://www.youtube.com/watch?v=UQ39-Qhc1ZM](https://www.youtube.com/watch?v=UQ39-Qhc1ZM)
 
-- SADHGURU: EAT LESS, WALK BAREFOOT: [https://www.youtube.com/watch?v=sIyb89oN9ZM](https://www.youtube.com/watch?v=sIyb89oN9ZM)
+- SADHGURU: EAT LESS, WALK BAREFOOT: [https://www.youtube.com/watch?v=sIyb89oN9ZM](https://www.youtube.com/watch?v=sIyb89oN9ZM)  
+- [How Walking Barefoot Improves Your Health](https://www.youtube.com/watch?v=Prsysbl_P0E)
 
 - SADHGURU: THE SECRET OF SADHGURU’S LEFT HEEL / ACHILLES HEEL / LEFT HEEL: [https://www.youtube.com/watch?v=HLQ3Fg30bDw](https://www.youtube.com/watch?v=HLQ3Fg30bDw)
+
+- [Sadhguru on Squatting and Sitting]([https://www.youtube.com/watch?v=UQ39-Qhc1ZM](https://www.youtube.com/watch?v=UQ39-Qhc1ZM))  
+
 
 - SADHGURU: YOU CAN ADD 26 YEARS IN YOUR LIFE BY DOING THIS ONE THING 9 TIMES EVERYDAY: [https://www.youtube.com/watch?v=KrMNzufc82w](https://www.youtube.com/watch?v=KrMNzufc82w)
 
