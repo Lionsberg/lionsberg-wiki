@@ -185,7 +185,9 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 35. Erik Willekens 
 	1. Invited by [[Jordan]]  
 	2. Introduced to Jordan by [[Matt Saiia]]  
-36. 
+36. Rico Veskiavali 
+	1. Invited by [[Jordan]]  
+	2. Introduced to Jordan by [[Killu Sanborn]]. 
 
 ## Invitation Pool 
 

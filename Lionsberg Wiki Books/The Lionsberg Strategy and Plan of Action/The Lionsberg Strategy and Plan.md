@@ -8,45 +8,98 @@ This shorter presentation aims to approach (the whole) from the lens of a unifie
 
 It is intentionally designed to remain an eternally incomplete [[Work In Progress]], designed to be continuously improved by each individual and locality that joins [[The Quest]] towards [[The Goal]]. 
 
+## Executive Society 
+
+The Lionsberg Strategy and Plan centers around [[The Great Refounding]] of our civilization, via the progressive reinvitation and reorientation of humanity into a [[New Covenant]] of omniconsiderate right relationship with the Creator, One Another, and All Creation. We do not use these words lightly or in a elementary religious manner, but rather technically as Word Tools to point to the Manifest Universe / Nature / Living System and Society we are a part of, and its Transcendent Generative Source. 
+
+The basic strategy is to Move the entire human population, during the course of the [[10 Year Grand Strategy]], out of [[The Caves]] of the [[Old World]], from the omnicidal [[Old Paradigm]] and [[Old Pattern Language]] into a fully regenerative [[New Paradigm]] and [[New Pattern Language]]. 
+
+As we redesign, reimagine, and rebuild [[The New]] (Paradigm / Norms / Pattern Language / Way), we are simultaneously co-creating the infrastructure, pathways, and support to pave the Way and make [[The Quest]] [[FROM the Old TO the New]] as navigable as possible for [[All Humanity]], while ensuring that no one is [[Involuntarily Left Behind]]. 
+
+The Strategy and Plan includes: 
+1. **A New Story** (to reunite the narrative structure of human consciousness)  
+2. **A New Alliance / Federation** (to connect us across the lines that separated us in the past and provide equal Citizenship / Rights / Responsibilities in the New)  
+3. **A New Commons** (to gather up, integrate, and cohere our collective inheritance of wisdom, knowledge, information, data, resources, solutions, and technologies)
+4. **A New Human Operating System** (to connect, empower, and enable interoperability among the diverse array of individuals, groups, and localities as unique parts of One Body)   
+5. **A New Platform** (to make The Movement visible to itself, and provide equal access to The Commons for all participating citizens and localities)  
+6. **A New Infrastructure Network** (Georegional Hubs, Bioregional Hubs, Local Hubs, Community Hubs, Micro Hubs to decentralize and relocalize all pillars of life and society)  
+7. **A New Paradigm Tour** (to reach out and touch the hearts and minds of billions, and reach the First 3%)
+8. **Inviting, Connecting and Empowering The First 3% (~250 million leaders) by 2026** (To create the distributed leadership across ~50 million teams required to help humanity meet the needs, solve the problems, and accomplish the goals at hand in every domain and locality)   
+9. **Inviting, Connecting and Empowering All Humanity** (to create equal access and citizenship for All, and ensure no one is involuntarily left behind)  
+10. **3 Years of Healing, Reorientation, and Onboarding** (to prepare every individual and locality for full participation, belong, and co-creation in the New)  
+11. **Transforming our Weapons into Tools of Life** (to repurpose our militaries and high science technology FROM mutual destruction TO omniconsiderate co-creation)
+12. **The Greatest Celebration and Jubilee In History** (to celebrate success, reset debts, liberate the captives, restore ancestral lands, and usher in the New Era)
+
+**Timing**: We propose to accomplish this during the [[10 Year Grand Strategy]] that began March 1, 2024. We have established and are carefully managing a [[20 Year Generational Contingency]] to ensure completion within a single generation. 
+
+**Investment**: The entire program of action can be accomplished by simply redirecting ***already budgeted resource flows*** away from mutual destruction and [[Waste]]. Successfully completing this historic transformation requires that we progressively redirect about 1/2 of the planned $30 Trillion in military and defense spending throughout the course of the [[10 Year Grand Strategy]], while repurposing our militaries and [[High Science Technology]] from mutual destruction to mutual aid and co-creation in a wise and responsible manner. It further requires that we progressively redirect existing flows of governmental, philanthropic, and economic [[Waste]] towards Value Creating small teams advancing the [[Critical Path]] towards [[The Goal]]. 
+
+**Expected Returns**: The expected return on investment is essentially infinite, as expected returns dwarf any conceivable discount rate. Following the Jubilee and inauguration of equal citizenship in the New Covenant / New Era, every citizen on earth will have an equal interest and stake in the most valuable (federation, co-operative, "company") ever created, and will be able to enjoy a standard of living and quality of life better than anyone has enjoyed in the past. 
+
+**Working Capital**: Working capital will be aggregated through a continually re-optimized combination of [[Mission-And-Values-Aligned-Non-Recourse-Loans]], philanthropic capital, grants from public and private agencies, and profitability of for-profit federated organizations. Working capital will be scaled up from an initial $10 Million in 2024, to $100 Million in 2025, to $1 Billion + in 2026. 
+
+**Interest on Non-Recourse Loans and Capital**: [[Mission-And-Values-Aligned-Non-Recourse-Lenders]] and Capital Holders in The System will be paid a variable rate of return from 0% to 7% per year, depending on performance of The System as a Whole, as determined by Lionsberg Governance System. 
+
+Welcome to the adventure and opportunity of a lifetime. 
 ## If One and All Wills It To Be
 
 Any such plan to regenerate the world and co-create a flourishing and abundant [[New Era]] can only occur if [[One]] and [[All]] will and intend for it to be, and co-create the miracles along the Way. 
 
-As it has been said, *if God wills, we will live, and also (enact the plan).*
+As it has been said, *if God wills, we will live, and also (succeed in our plans).*
 
 ## Our Highest Duty to One, All, Wisdom, and Truth 
 
-This New Vision, Strategy, and Plan is made as a humble offering in service of [[One]] and [[All]]. As illuminated in [[The Story of the Builder]], we expect that it contains many gaps and insufficiencies which will need to be remediated by unique gifts, talents, and experiences of those who join togethers as Co-Creators. In the [[Lionsberg System]], [[Every Defect Is A Gift]]. It would be a great relief if you could find and remedy as many errors as possible. [[Like Gold Refined Seven Times]], eventually the [[Dross]] will be burned off and only that which approaches [[Wisdom]] and [[Truth]] will remain. 
+This New Vision, Strategy, and Plan is made as a humble offering in service of [[One]] and [[All]]. As illuminated in [[The Story of the Builder]], we expect that it contains many gaps and insufficiencies which will need to be remediated by unique gifts, talents, and experiences of those who join togethers as [[Lionsberg Co-Creators]]. In the [[Lionsberg System]], [[Every Defect Is A Gift]]. It would be a great relief if you could find and remedy as many errors and insufficiencies as possible. [[Like Gold Refined Seven Times]], eventually the [[Dross]] will be burned off and only that which approaches [[Wisdom]] and [[Truth]] will remain. 
 
 ## Uniting Aim and Goal
 
 Rooted in the [[Absolute And Unconditional Love]] of [[One]] for [[All]], the Uniting Aim and Goal of the New Vision, Strategy, and Plan is the total integrated wellbeing, development, and right relationship of [[All]] generations of life and consciousness. As the [[Old]] systems and structures fail, the Aim is move the entire population out of [[The Caves]] separating and imprisoning us, through [[The Wilderness]], and towards [[The Promised Land]] within a single generation, with no one [[Involuntarily Left Behind]]. 
 
+## What This Makes Possible 
+
+By reorganizing and reoptimizing our activity and way of being as a human species, ***every*** human being on Earth can enjoy a higher standard of living and quality of life than virtually ***any*** human enjoyed in the past. 
+
+Beyond this, our standard of living, quality of life, and planetary flourishing will continue to get [[A Little Better Every Day]] for ages to come as all creation works together in harmony to cause it to be so.  
+
+## What is at Stake if we Fail? 
+
+Because a house divided against itself cannot stand, the existing order has failed and is on the verge of [[Collapse]]. If the existing order collapses, there is a significant non-zero probability of the suffering and death of a significant portion of the inhabitants of Earth. 
+
+## A Historic Opportunity 
+
+When [[Complex Adaptive Systems]] have been pushed to the brink *but have not yet collapsed*, it remains possible for them to leap into a Higher Order State. For the first time in history, it is possible for humanity to forge a [[Higher Order Functional Unity]] capable of co-creating [[Heaven On Earth]]. 
+
+## Timing
+
+We aim to accomplish this transformative refounding as quickly as possible without harm or disadvantage to any. We are targeting a [[10 Year Grand Strategy]], backed by a [[20 Year Generational Contingency]].   
+
 ## History and Inception 
 
-Since as early as he can remember, [[Jordan]] has been aware this moment was coming and attempting to prepare for it. 
+The [[New Vision and Plan]] are universal and eternal in nature and reflected in prophetic and visionary traditions around the world. 
 
-This led to a basic ethos of taking on as much responsibility as anyone would entrust him with, leading to a 25 year sprint that led from early entrepreneurial activity and service jobs, to building heavy civil infrastructure projects, portfolios of projects, companies that build projects, joint ventures that built projects too complex for any one company to tackle in isolation, multiple university and martial arts degrees, etc. 
+This incarnation was conceived by [[Jordan]] and an array of co-creators who brought together lifetimes of work to forge a vision, strategy, plan, and infrastructural and technological backbone to serve as an invitational starting point for humanity. 
 
-In ~2017, [[Jordan Nicholas Sukut]] began weekly discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story.
+[[Jordan]] has been aware this moment was coming and attempting to prepare for it since as long as he can remember, and verbally since 10 or 12 years old. This led to a basic ethos of taking on as much responsibility as anyone would entrust him with, leading to a 25 year sprint that led from early entrepreneurial activity and service jobs, to building heavy civil infrastructure projects, portfolios of projects, companies that build projects, joint ventures that built projects too complex for any one company to tackle in isolation, multiple university and martial arts degrees, etc. 
+
+In ~2017, [[Jordan Nicholas Sukut]] began weekly discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story. We sometimes refer to this as the [[Meta Project]], encompassing [[Worksite Earth]] as a finite domain to be comprehensively regenerated and positively transformed within a single generation. 
 
 It took a nation 10 years to land a man on the moon. As of Spring 2024, we have now entered the [[10 Year Grand Strategy]] and have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. 
 
 ## Context 
 
-The context was presumed to be a time of [[Meta Crisis]] in the 2020s, where the systems and existing order would shake and reorder in unprecedented ways. 
+At inception, the context was presumed to be a time of [[Meta Crisis]] in the 2020s, where the systems and existing order would shake and reorder in unprecedented ways. 
 
 It was presumed that the existing trajectory was towards [[Collapse]], but that *before* the existing order collapsed, there was a brief period of [[Time]] during which the [[Human System]] could potentially leap forward into some kind of Higher Order Functional Unity that would enable it to meet the needs, solve the problems, and accomplish the goals at hand. 
 
 ## Scope of Work
 
-The scope of work inherently encompasses the entirety of the human species and [[Worksite Earth]] without exception, and the expansion of the human species beyond Earth into inter-planetary and eventually inter-stellar configurations over the next hundreds of millions of years. 
+The scope of work inherently encompasses the entirety of the human species and [[Worksite Earth]] without exception, and the expansion of the human species beyond Earth into inter-planetary and eventually inter-stellar configurations over the next hundreds of millions of years prior to this star system becoming uninhabitable. 
 
 It involves inviting inviting all humanity, roughly [[10 Billion People In 10 Years]], to make their [[Way]] [[FROM the Old TO the New]], and take up an [[Equal Citizenship]] in a fully regenerating, flourishing, and abundant Future. 
 
-Accomplishing this while preventing the suffering and death of 2/3 to 3/4 of the human population requires that instead of stumbling headlong into an apocalyptic AI and Nuclear World War III / IV against [[One Another]] and our Planet (along with associated Civil Wars, Chaos, and Tyranny), we beat our [[Weapons Into Tools of Life]], work together, and reallocate our [[High Science Technology]] and $10 to $20 Trillion of the $30 Trillion+ of expected military expenditures over the next 10 years towards the greatest Joint Venture in human history, while fundamentally reorienting and realigning our Way of Being and Interacting as a human species aboard [[Worksite Earth]]. 
+Accomplishing this while preventing the suffering and death of 2/3 to 3/4 of the human population requires that instead of stumbling headlong into an apocalyptic AI and Nuclear World War III / IV against [[One Another]] and our Planet (along with associated Civil Wars, Chaos, and Tyranny), we beat our [[Weapons Into Tools of Life]], work together, and reallocate our [[High Science Technology]] and $15 to $20 Trillion of the $30 Trillion+ of expected military expenditures over the next 10 years towards the greatest Joint Venture in human history, while fundamentally reorienting and realigning our Way of Being and Interacting as a human species aboard [[Worksite Earth]]. 
 
-This ~$15 Trillion of nominal resource reallocation to the [[New Vision and Plan]] enables humanity to gather up its [[Collective Inheritance]] in [[The Commons]], and co-create a backbone to equip and empower a decentralized array of the first 3% of the human population, organized into ~50 million connected and empowered small teams around the world, to poly-centrically prioritize, localize, and adapt the best solutions and technologies to meet the needs, solve the problems, and accomplish the goals and aspirations inherent in every community on Earth. 
+This ~$15 Trillion of nominal resource reallocation to the [[New Vision and Plan]] enables humanity to gather up its [[Collective Inheritance]] into [[The Commons]], and co-create a backbone to equip and empower a decentralized array of the first 3% of the human population, organized into ~50 million connected and empowered small teams around the world, to poly-centrically prioritize, localize, and adapt the best solutions and technologies to meet the needs, solve the problems, and accomplish the goals and aspirations inherent in every community on Earth. 
 
 Additionally, it decentralizes and democratizes power, authority, opportunity, knowledge, and technology around the world, rendering war and involuntary migration obsolete, while ensuring that every tribe, tongue, and people has a free and secure place to call home. 
 
@@ -67,13 +120,13 @@ On any Worksite, this is legally and philosophically the notion of [[Designer's 
 
 For this [[Meta Project]] encompassing [[All Creation]], it is the notion of [[Creator's Intent]]. 
 
-By [[Creator]], we are referring to [[Ultimate Reality]], or what in English we often call [[God]]; the Generative Source and Sustainer of the [[Universe]] of [[All Creation]]. 
+By [[Creator]], we are referring to [[Ultimate Reality]], or what in English we often call [[God]]; the Generative Source and Sustainer of the [[Universe]] / [[Living System]] we are a part of.  
 
 ## Patterns of Success, and a Pattern Language of Success
 
 The successful and proper co-operating of the human species in service of eternally regenerative Universe requires a shift in our Way, or Pattern, of Being. 
 
-A Way of being that remains consistent and modulates itself across Time and Space is perhaps best conceptualized as a set of [[Domain Independent]] Patterns. 
+A Way of being that remains consistent and modulates itself across Time and Space is perhaps best conceptualized as a set of [[Domain Independent]] Patterns, unified by a [[Central Animating Spirit]]. 
 
 Sets of Domain Independent Patterns are most coherently integrated and composed via a [[Pattern Language]]. 
 
@@ -99,7 +152,9 @@ We understand from centuries of spiritual work, coaching, and mentoring, and fro
 
 ...you can't begin by trying to transform human behavior. 
 
-Human behavior flows from a complex substructure, conscious, subconscious and unconscious. It rises primarily from below the level of conscious thought and understanding. This means that it cannot readily be transformed from the exterior. 
+Human behavior flows from a complex substructure, conscious, subconscious and unconscious. It rises primarily from below the level of conscious thought and understanding. It is deeply informed by [[Inter-Generational]] / ancestral programming and trauma that exists at deeply unconscious levels. 
+
+This means that it cannot readily be transformed from the exterior. 
 
 However we have also discovered that [[Genuine Transformation of Spirit and Consciousness]] *naturally* leads to the manifestation of entirely New Patterns of thought, speech, and action, and that even highly intractable patterns of negative conduct can suddenly pass away. 
 
@@ -136,6 +191,8 @@ The highest desire for everyone to find their [[Way]] to the [[New World]], with
 The core of the Lionsberg Strategy is therefore a tipping point strategy, led by the [[Genuine Transformation of Spirit and Consciousness]] and the fractal adoption of the [[New Norms and Values]], leading to the ongoing regeneration and Co-Creation of the [[New World]]. 
 
 The first part involves Co-Creating the [[Environment]], [[Conditions]], Infrastructure and [[Experience]] to enable the transformation of Consciousness, the embodiment of the [[New Norms and Values]], and the co-creation of the [[New]]. 
+
+It also requires to co-creation of [[New Story]] big enough to encompass and unite us [[All]]. 
 
 This was the purpose of [[The 7 Year Window of Preparatory Work and Learning]].  
 
@@ -191,7 +248,7 @@ The Strategy and Plan designates a series of milestones across time:
 
 #### [[The 7 Year Window of Preparatory Work and Learning]] (2017 to 2023) 
 
-### The 10 Year Grand Strategy 
+### The [[10 Year Grand Strategy]]   
 
 #### The 90 Day Sprint (2024)
 
@@ -291,6 +348,10 @@ Such a universally and eternally conceptualized System and Approach must Incarna
 The act of Incarnation requires a concrete and pragmatic structure to house and protect its emergence. 
 
 For this reason, the Lionsberg [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another. 
+
+## A System of Systems / Structure of Structures 
+
+Further, we understand that the system and structure cannot be a monolith, but rather need to emerge as something like a [[United Yet Optimally Decentralized]] federation of federations / ecosystem of ecosystems / system of systems / structure of structures, etc. 
 ## A System and a Structure Require a Selectively Permeable Membrane 
 
 Any living organism (which an emerging body of co-creators is), requires a [[Selectively Permeable Membrane]], which protects the finite System and Structure within from the infinite Universe of things without. 
@@ -445,10 +506,14 @@ For comparison, some mapping sources have located approximately 4 million discre
 
 Accomplishing this milestone would mean that by 2026, 50 Million teams, composed of the most [[Enlightened]] and Ready leaders we can identify, would be distributed as follows: 
 
+- ~50 Million Teams across The Whole  
 - ~2 Million to 4 Million Teams Per Georegion  
-- ~270,000 Teams Per Bioregion 
-- 500 Teams per Community of 100,000 Citizens 
-- 50 Teams per Community of 10,000 Citizens  
+- ~270,000 Teams Per Bioregion  
+- ~50,000 Teams Per Ecoregion   
+- ~5,000 Teams Per Major Population Center of 1,000,000 
+- ~500 Teams per Locality of 100,000 Citizens 
+- ~50 Teams per Community of 10,000 Citizens  
+- ~5 Teams per Microlocality of 1,000 Citizens 
 
 If we imagine a given physical place and time, with 10,000 Citizens, we could imagine that group determining, season by season, quarter by quarter, its most important priorities, challenges, needs, and opportunities... 
 
@@ -512,15 +577,22 @@ If [[The Goal]] requires that we inspire and move [[10 Billion People In 10 Year
 
 These ~100,000 interlinked [[Local Hubs]] would connect and support a network of ~1,000,000 [[Community Hubs]], and would be connected to and supported by a network of ~150 to 200 [[Bioregional Hubs]], which in turn would be connected to and supported by a network of 12 to 24 [[Georegional Hubs]].    
 
-Assuming a nominal average cost of $1 Million to $2 Million per Community Hub, this is approximately a $ 1 Trillion to $2 Trillion program of action, less than what humanity spends each year on military and defense expenses alone.
+The [[Bioregional Hubs]] would house more major capabilities such as chip / semiconductor manufacturing, spacefaring activities, larger scale energy generation and exchange, etc., and would therefore likely be in the range of $10 to $20 Billion. 
 
-Assuming a nominal average cost of $10 Million to $20 Million per Local Hub, this is approximately a $1 Trillion to $2 Trillion program of action. 
+The [[Georegional Hubs]] would need to ensure full interoperability and freedom of ecosystemic resource flows across all [[Bioregional Hubs]] and [[Local Hubs]], as well as hosting the most advanced technological and manufacturing operations being conducted by the human species. The estimated cost for these hubs is likely an order of magnitude higher, in the range of $100 Billion to $200 Billion per Georegion. 
 
-The [[Bioregional Hubs]] would house more major capabilities such as chip / semiconductor manufacturing, spacefaring activities, larger scale energy generation and exchange, etc., and would therefore likely be in the range of $10 to $20 Billion / Bioregional Hub, resulting in an approximately $3 Trillion program of action. 
+Assuming the nominal budgets per hub below, the design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion to ~$20 Trillion depending on how much existing infrastructure and built environment can be repurposed and incorporated into the network. 
 
-The [[Georegional Hubs]] would need to ensure full interoperability and freedom of ecosystemic resource flows across all [[Bioregional Hubs]] and [[Local Hubs]], as well as hosting the most advanced technological and manufacturing operations being conducted by the human species. The estimated cost for these hubs is likely to be in the range of $100 Billion to $200 Billion per Georegion, again an approximately $3 Trillion program of action. 
+Budgets include the resources to network and interconnect the hubs, and will be continuously refined as [[The Prototype]] is continuously improved. 
 
-The design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion. 
+- 1 [[Core Hub]] x $500 Billion 
+- 12 to 24 [[Georegional Hubs]] x $100 Billion to $200 Billion = $2 Trillion to $4 Trillion  
+- 150 to 200 [[Bioregional Hubs]] x $10 Billion to $20 Billion = $2 Trillion to $4 Trillion   
+- 750 to 1,000 [[Ecoregional Hubs]] x $1 Billion to $2 Billion = $1 Trillion to $2 Trillion 
+- 1,000 [[City Hubs]] x $ 100 Million x $200 Million = $1 Trillion to $2 Trillion 
+- 100,000 [[Local Hubs]] x $10 Million to $20 Million = $1 Trillion to $2 Trillion  
+- 1,000,000 [[Community Hubs]] x $3 Million = $3 Trillion  
+- 2,000,000 [[Micro Hubs]] x $2 Million = $4 Trillion  
 
 ## Financing The Instantiation Hubs During The 10 Year Grand Strategy - Swords to Ploughshares 
 
@@ -546,21 +618,21 @@ To accomplish the $10 to $15 Trillion implementation of the [[New Vision and Pla
 Revised military and defense resource flows would then be as follows, with a wise, responsible, and balanced redirected of resources occurring in a phased manner, simultaneously around the world. 
 
 - 2024 - $2.4 Trillion (assume budgets already set, political will lacking) 
-- 2025 - $2.27 Trillion 
-- 2026 - $2.12 Trillion  
-- 2027 - $1.94 Trillion 
-- 2028 - $1.75 Trillion 
-- 2029 - $1.53 Trillion 
-- 2030 - $1.29 Trillion 
-- 2031 - $1.01 Trillion 
-- 2032 - $0.71 Trillion 
-- 2033 - $0.37 Trillion 
+- 2025 - $2.27 Trillion - 90% of planned total 
+- 2026 - $2.12 Trillion - 80% of planned total  
+- 2027 - $1.94 Trillion - 70% of planned total  
+- 2028 - $1.75 Trillion - 60% of planned total  
+- 2029 - $1.53 Trillion - 50% of planned total  
+- 2030 - $1.29 Trillion - 40% of planned total  
+- 2031 - $1.01 Trillion - 30% of planned total  
+- 2032 - $0.71 Trillion - 20% of planned total 
+- 2033 - $0.37 Trillion - 10% of planned total  
 
 Total 10 year anticipated military and defense spending ([[New Vision and Plan]])
 
 - *$12.99 Trillion*
 
-This single redirection of funds [[FROM Weaponry TO Livingry]] frees up $17 Trillion to accomplish the $15 Trillion [[New Vision and Plan]], with a 13.3% Contingency. 
+This single redirection of funds [[FROM Weaponry TO Livingry]] frees up $17 Trillion to accomplish the ~$15 Trillion [[New Vision and Plan]], with a 13.3% Contingency. 
 
 Note that this can be accomplished without dismantling the militaries, by simply training and deploying the existing forces and resources to co-create rather than destroy using a decentralized [[Team of Teams]] approach. 
 
@@ -599,11 +671,13 @@ The [[10 Year Grand Strategy]] is composed of [[The 7 Year Window of Crisis and 
 Every Individual who Joins The Movement will be invited to set their feet on a path of healing, growth, development, and co-creation via [[The Lionsberg Experience]]. After approximately 3 years and the successful completion of all orientation and onboarding requirements, and successfully demonstrating their commitment to embodying and enacting the Spirit and Values of the [[New Vision and Plan]], each individual will earn their [[New Citizenship]]. 
 
 The youth of Earth will be invited to begin [[The Lionsberg Experience]] when they turn 15 years old, such that they graduate into their [[New Citizenship]] at 18 years old. 
+
+This enables the Orientation and Onboarding into the New Pattern Language to continue indefinitely into the future, ensuring that every child born is fully connected, prepared, and empowered for positive participation, self-governance, and co-creation in the [[New Era]]. 
 ## Why A Named System? Why Not Merely A Pattern, Coupled With Templates and Tools? 
 
-The last issue I want to address is [[Why Lionsberg?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement? 
+The last issue to address is [[Why Lionsberg?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement? 
 
-In short, the One Thing that makes this possible is Unity. 
+In short, the One Thing that makes this possible is Unity. Without Unity, the Diverse Parts of the Body cannot co-operate and co-create as One. 
 
 Without a single Unifying Vision, System, and Goal, there is no possible way that we can avoid further fragmenting and fracturing our attention and interactions, especially as the systems and structures of the [[Old World]] increasingly shake, and in some cases fail, throughout [[The 7 Year Window of Crisis and Opportunity]]. 
 
@@ -613,8 +687,7 @@ My [[Current Best Understanding]] is that it would take at least 5 years and $50
 
 I have sacrificed all my former wealth and security, and am acting as if I believe everything is at stake, for everyone, and that the only way I can keep my loved ones safe is if we land humanity and our planet towards a safe trajectory towards the [[Best Possible Future]] for [[All]].  For the first time in history, it is possible, and everything we could ever need is at hand. 
 
-I beg you to Join Us for the opportunity and adventure of a lifetime. 
-
+I invite you to Join Us for the opportunity and adventure of a lifetime. 
 ## Details 
 
 There of course will need to be a world class messaging and communication platform that reaches out invitationally to every family and tribe, in all 1,000 languages. 
