@@ -44,6 +44,12 @@ These concepts are explored in further detail and different formats in the [[The
 3. [[Goal]] / [[Goals]] / [[Most Worthy Goal]] / [[Total Nested Hierarchy of Goals]]  
 4. [[Where We Are Going]]  
 
+## Alignment and Coherence 
+
+1. [[Prayer]]  
+2. [[Meditation]]  
+3. [[Coherence]]  
+4. [[Align]] / [[Aligning Energy]] / [[Aligning Commitments]]  
 ## Perception 
 
 1. [[SpatioTemporal]] / [[SpaceTime]] / [[Spacetime User Interface]]  

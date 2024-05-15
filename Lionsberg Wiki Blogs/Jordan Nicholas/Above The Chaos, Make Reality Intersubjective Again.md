@@ -18,7 +18,7 @@ Through the door of religion, we discover from some of the earliest revelations 
 
 Through the door of a spiritual teacher, we discover that although he has known people for 40 or 50 years, he still tries to have no opinion or judgement about them, and to discover and collaborate with them anew each day. This avoids [[Wave Function Collapse]].  
 
-Through the door of neuropsychology, down the hallway of [[Hemispheric Specialization]], we discover that whereas the [[Right Hemisphere]] is concerned with *completeness*, the [[Left Hemisphere]] is concerned with *consistency*, and there significant resources are expended to *actively inhibit* communication between the hemispheres. 
+Through the door of neuropsychology, down the hallway of [[Hemispheric Specialization]], we discover that whereas the [[Right Hemisphere]] is concerned with [[Omniconsiderate Completeness]], the [[Left Hemisphere]] is concerned with [[Internal Consistency]], and there significant resources are expended to *actively inhibit* communication between the hemispheres. 
 
 Further down the pathway of meaningful encoded in our most sacred stories, we discover that that the sin of idolatry applies not only to [[One]], but also to [[All]]. When we say that [[Everything Is A Burning Bush]], we mean that any aspect of Reality, if we pause, **attend**, and investigate it deeply enough, will ultimately lead us back to the [[One]]. 
 

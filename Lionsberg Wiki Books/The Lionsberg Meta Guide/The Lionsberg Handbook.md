@@ -268,7 +268,7 @@ Wisdom Flow
 [[Specific Solutions]] 
 [[Identifying And Solving Issues]]  
 [[Issues and Solutions Marketplaces]]  
-[[Offers and Needs Marketplaces]] 
+[[Offers and Requests Marketplaces]] 
 
 ## Goals And Aspirations  
 

@@ -156,6 +156,9 @@ Challenges identified included issues such as:
 73. **Disproportionate influence of national superpowers in international institutions**: The disproportionate power of national superpowers in international institutions, such as the United Nations (UN), World Trade Organization (WTO), World Bank, International Monetary Fund (IMF) and others, can prevent other countries from effectively participating in global decision-making and can perpetuate inequalities. Ensuring that the power and influence is properly balanced in international institutions is key to addressing global challenges and promoting equitable and sustainable governance and development for all communities. 
 74. **Corruption of religious leaders**: The corruption of religious leaders by governmental and economic forces, who encourage them to use their positions of religious authority to unduly influence the thinking of the populations, can undermine the integrity of religious institutions and hinder the promotion of ethical values. Protecting the independence and integrity of religious leaders and institutions from outside interference can be important in addressing global challenges and promoting just and fair societies. 
 75. **Supply chain challenges**: There are many challenges and issues related to supply chains that can impact their sustainability and effectiveness. These include environmental impacts, social impacts, lack of transparency and accountability, risk and resilience, and inefficiency and waste. Ensuring that supply chains are sustainable, transparent, and efficient can be important in addressing global challenges and promoting just and fair societies.
+76. Predatory Marketing 
+	1. Junk food / processed food marketing and packaging 
+	2. Advertising human and environmental harms to children 
 
 ____
 

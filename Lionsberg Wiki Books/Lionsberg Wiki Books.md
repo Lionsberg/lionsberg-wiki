@@ -26,7 +26,9 @@ Each is a [[Work In Progress]]...
 15. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
 16. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
 17. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
-18. [[Frequently Asked Questions]] 
+18. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
+19. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
+20. [[Frequently Asked Questions]] 
 
 ## The Larger Work In Progress
 
@@ -34,8 +36,7 @@ Each is a [[Work In Progress]]...
 
 ## Tier 2 Sketches (Draft Works in Progress)
 
-1. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
-2. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+1. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 
 ## Essays That Might Become Books (Draft Works in Progress)
 

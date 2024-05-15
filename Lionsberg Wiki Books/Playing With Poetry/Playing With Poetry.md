@@ -4,18 +4,20 @@
 
 I am frozen in Time, drifting in Space;
 
-the world swirls and roils, society crumbles;
+the world swirls and roils; 
 
-and as the building groans and falls;
+society crumbles;
+
+as the building groans and falls;
 
 society sleeps.
 
 _______________
 ## 2. 
 
-Insanity prevails, chaos emerges;
+Insanity prevails, [[Chaos]] emerges;
 
-through the cracks in the walls of the Order, the serpent slithers in. 
+through the cracks in the walls of the Order, [[The Serpent]] slithers in. 
 
 ________________  
 ## 3. 
@@ -27,7 +29,7 @@ How do you raise the dead, before they die?
 _________________
 ## 4. 
   
-Listen to the Voice, crying out in the Wilderness;
+Listen to The Voice, crying out in The Wilderness;
 
 it is your Salvation, longing to be heard.
 
@@ -78,7 +80,9 @@ What kind of Art might the blind See?
 
 What kind of Sound might the deaf Hear?
 
-What kind of Sensation might the numb Feel?
+What kind of Sensation might the numb Feel?  
+
+What kind of Light might the unconscious Perceive? 
 
 ____________________
 ## 9. 
@@ -89,7 +93,7 @@ little by little, we are encouraged on in the wrong direction;
 
 step by step, we approach the Abyss;
 
-we progress towards the wrong milestones, not realizing that they mark the way towards Death.
+we faithfully progress towards the wrong milestones, not realizing that they mark the way towards Death.
 
 _____________________
 ## 10. 
@@ -121,9 +125,9 @@ _________________________
 ## 12. 
   
 
-It is lonely in the Wilderness.
+It is lonely in The Wilderness.
 
-Beyond The Boundary, the cold wind sweeps away the words before they can be heard.
+[[Beyond The Boundary]], the cold wind sweeps away the words before they can be heard.
 
 _________________________
 ## 13. 
@@ -148,11 +152,11 @@ day by day, their living hell approaches.
 _________________________
 ## 15. 
 
-_"The building is on fire, and our room is getting smoky,_
+_"The building is on fire, and our room is getting smoky..._
 
-_quick, let us move to the next room, so that we can comfortably resume our slumber."_
+_...quick, let us move to the next room, so that we can comfortably resume our slumber."_
 
-Meanwhile, the foundations wither under the heat, the supporting beams prepare their collapse, and the Fire begins to reign. 
+Meanwhile, the foundations wither under the heat, the supporting beams prepare their collapse, and the Fire ushers in the reign of [[Chaos]]. 
 
 _________________________
 ## 16. 
@@ -186,7 +190,9 @@ Knowing they are destroying themselves, people smoke until they have cancer, and
 
 Knowing they are destroying their society, people tear down the Ideals until Chaos reigns, and it is too late to restore Order. 
 
-Knowing they are destroying their world, people pollute the air, water, and soil, until two thirds of life is destroyed, and it is too late to stop the Destroyer. 
+Knowing they are destroying their world, people pollute the air, water, and soil, until two thirds of life is destroyed, and it is too late to stop the march of the Destroyer. 
+
+In the Intelligible Universe, there is a reason the [[Four Horsemen]] of the Apocalypse ride together. 
 ______
 ## 19. 
 
@@ -218,7 +224,7 @@ Our ruin is certain;
 
 generations of suffering inevitable and hand; 
 
-hopelessness and despair our lot; 
+hopelessness and despair is our lot; 
 
 **UNLESS**...  
 _____
@@ -250,11 +256,11 @@ They marveled at the arrogance of one speaking with authority;
 
 they mocked him, they beat him, and they left him for dead;  
 
-and so they perished in Hell.
+and so they perished in the Hell they co-created.
 ______
 ## 26. 
 
-As the shaking grew stronger, and the explosions grew louder,  the people rushed through the streets; 
+As the shaking grew stronger, and the explosions grew louder, the people rushed through the streets; 
 
 beset by false prophets and proclamations of doom on every corner; 
 
@@ -264,7 +270,7 @@ A thousand wolves in sheep's clothing drove the frightened flocks into their pen
 _____
 ## 27. 
 
-As the End of the Order drew near; 
+As the End of the Old Order drew near; 
 
 the Sane became pariahs; 
 
@@ -276,7 +282,7 @@ the Wise became abhorrent;
 
 they were rounded up and exterminated, and for generations society was free from the inconvenient affliction of Wisdom, Truth, and Justice. 
 
-As the Light receded, the Parasites rejoiced and flourished in the enduring Darkness that now enveloped the Earth and blinded their hosts. 
+As the Light receded, the Parasites rejoiced and flourished in the enduring Darkness that now enveloped the Earth and blinded their hosts.  
 ____
 ## 28. 
 
@@ -308,7 +314,7 @@ living or dying for eternity;
 
 conquering the illusion of Time;  
 
-laboring and laying down one's life, expecting nothing but Heaven in return. 
+laboring and laying down one's apparently individuated life, expecting nothing but [[One]] in return. 
 _____
 ## 29. 
 
@@ -316,13 +322,13 @@ Walking in the Way, one tastes the Valley of the Shadow of Death;
 
 Walking in the Way, one cries tears of blood. 
 
-We journey through the underworld, so that others can walk through the fields. 
+We journey through the underworld below, so that others can walk through the heavenly fields above. 
 
 We cry the existential tears, so that others can laugh and play. 
 
 We extend the Path into the Unknown, so that those who come after us can walk in a Way that has been illuminated. 
 
-We pass the baton, to those brave souls destined for even greater things. 
+We [[Pass The Flame]], to those brave souls destined for ever greater things. 
 
 Bloodied, bruised, and betrayed, we rest in eternal peace with God. 
 _____
@@ -333,4 +339,67 @@ Who is to Say what Poetry is?
 As we write it, it writes us. 
 
 Perhaps one day, we will be nothing but what the Supreme Poet writes. 
+___
+## 31. 
 
+A glimmer of [[Hope]] on the Horizon; 
+
+A wisp of [[Inspiration]] in the Air; 
+
+A vapor of [[Life]] to be Lived. 
+___
+## 32. 
+
+Having been Hardened, become Soft.  
+
+Having been Shaped, become Formless.  
+
+Having been Whittled, become Whole.  
+
+Having been Harmed, become Naive.  
+
+Having been Judged, become Justice.  
+
+Having been Robbed, become Generosity.  
+
+Having been Slandered, become Truth.  
+
+Having been Betrayed, become Loyalty.  
+
+Having been Rejected, become Love.  
+
+Having been Killed, become Resurrection.  
+
+Having been Individuated, become One. 
+
+Having been [[Thrown]], return. 
+
+Behold, we are making All Things New. 
+____
+## 33. 
+
+Pure Light, streaming through Pure Water, into Pure Being. 
+
+Be still, and everything will Flow. 
+
+Be still, and the Dust will settle. 
+
+Be still, and the Pollution will subside.  
+____
+## 34. 
+
+Walk without casting dust into the Air. 
+
+Wade without disturbing the Water. 
+
+Cultivate without tearing the Soil. 
+
+Exist without harming the Sacred. 
+___
+## 35. 
+
+Look closer. 
+
+Every blade of grass is a burning bush. 
+
+Each living cell points the Way back to the One. 

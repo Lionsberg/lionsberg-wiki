@@ -358,5 +358,11 @@ God is love, and he that abideth in love abideth in God, and God abideth in him.
 
 ## Selah 14 
 
+"The Dark Ages still reign over all humanity, and the depth and persistence of this domination are only now becoming clear. This prison has no steel bars, chains, or locks. Instead, it is locked by misorientation and built of misinformation. We are powerfully imprisoned ... by the terms in which we have been conditioned to think." - [[Buckminster Fuller]]  
 
+"There is now plenty for all. War is obsolete. It is imperative that we get the word to all humanity — RUSH — before someone ignorantly pushes the button that provokes pushing of all the buttons." - [[Buckminster Fuller]]  
+
+"In its complexities of design integrity, the Universe is technology. The technology evolved by man is thus far amateurish compared to the elegance of nonhumanly contrived regeneration. Man does not spontaneously recognize technology other than his own, so he speaks of the rest as something he ignorantly calls nature." - [[Buckminster Fuller]]  
+
+"Amongst other grand strategies for making the world work and taking care of everybody is the design science revolution of providing ever more effective tools and services with ever less, real resource investment per each unit of end performance. For instance, a communications satellite, weighing only one-quarter of a ton, is now out-performing the transoceanic communication capabilities of 175 thousand tons of copper cable." - [[Buckminster Fuller]]  
 

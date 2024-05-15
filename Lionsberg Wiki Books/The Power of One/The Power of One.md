@@ -18,3 +18,4 @@ We are Praying Love and Inspiration Over Your Day Today.
 [[1.7 Application]]  
 [[1.8 Aligning Vision, Intention, and Analysis]]  
 [[1.9 Freedom, Sovereignty, and Autonomy]]  
+[[1.10 Stories of Transformation]]  
