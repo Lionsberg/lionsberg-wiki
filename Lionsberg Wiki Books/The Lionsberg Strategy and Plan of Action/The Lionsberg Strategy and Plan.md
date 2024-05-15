@@ -741,15 +741,100 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### A Shift of Spirit, Consciousness, and Paradigm  
 
 1. We recognize that the [[Meta Crisis]] cannot be solved by the same [[Level of Consciousness]] that is co-creating it.  
-2. We recognize that an unenlightened human species cannot co-create an enlightened and flourishing society and world  
-3. We guide our Selves, our Families, our Communities, our Tribes, and our Species through a transformational [[Shift In Spirit, Consciousness, and Paradigm]]  
+2. We recognize that an [[Unenlightened]] human species cannot co-create an [[Enlightened]] and [[Flourishing]] society and world.  
+3. We guide our Selves, our Families, our Communities, our Tribes, and our Species through a transformational [[Shift In Spirit, Consciousness, and Paradigm]].  
+4. We recognize that [[SpaceTime]] and [[Physicality]] as we perceive them are an illusion, and that [[SpaceTime]] and [[Materiality]] are not fundamental. 
+5. We recognize that [[You Are Not Your Body or Your Mind]]   
+6. We recognize that Spirit and Consciousness, flowing from their Source, are fundamental  
+7. We recognize that Spirit and Consciousness permeate and sustain the [[Living System]] / [[All Creation]]  
+8. We recognize the [[Divine Element]] / [[Spiritual Element]] in each [[Apparently Individuated]] aspect of Creation  
+9. We recognize that All Creation is [[Sacred]]  
+10. We progress towards omniconsiderate, omniloving, universal, and eternal [[Right Relationship]] / [[Covenant Relationship]] between all Spirit, Consciousness, and Life, flowing from One Source; We progress [[Towards Oneness Through Love]].  
+
+### The Universe / Living System 
+
+1. We recognize that the entire Universe is one interexistent [[Living System]] / One Body of Co-Creation  
+2. We understand that everything is interrelated and [[Ultimately Interexistent]], and that the essence of [[Right Existence]] is [[Right Relationship]] and [[Co-Creative Flow]]    
+3. We [[Continuously Improve]] and embrace the most expansive view of the Macro and the Micro available 
+4. We understand Energy and Mass Energy Equivalence  
+5. We understand that the Universe is Intelligible, and consider what the Intelligibility of the Universe implies about Reality and Ultimate Reality  
+6. We understand the [[Logos]] / Logic and Generalized Principles that  inform / instruct how Energy associates and dissociates into and out of Form throughout the Universe  
+7. We understand that the Living System is in a continual state of transformation and flow 
+	1. Associative energies  
+	2. Dissociative energies  
+	3. Vibrations  
+	4. Tones  
+	5. Harmonics  
+	6. Sounds  
+	7. Wavelengths  
+	8. Continually flowing and transforming 
+8. We remember that We are part of the [[Living System]], and not separate or distinct from it  
+9. We rediscover our Role as human beings in Universe  
+10. Resources 
+	1. Buckminster Fuller 
+	2. James Webb Space Telescope 
+	3. SETI 
+	4. NASA 
+	5. NOAA  
+	6. EAMES Powers of 10 
+	7. Forsight Institute 
+	8. Biomimicry  
+	9. Spatial Web 
+
+### Human Beings 
+
+1. We understand that human beings are microcosms of the macrocosm of Universe  
+2. We understand that all humans are related   
+	1. Genetics / AI 
+3. We understand that all life is related as one interconnected / interdependent / interexistent family 
+4. We reeducate our Selves on physical, cultural, and cognitive differences  
+	1. And we celebrate and embrace our [[Diversity]]  
+5. We understand the implications of our [[Ultimate Interrelationship]] and [[Ultimate Interexistence]]  
+	1. Harmony, Coherence, Alignment, and Flow throughout the Living System is key 
+	2. Collaboration trumps Competition  
+	3. Conflict / War is Omnicide  
+6. We recognize that every being is unique, and capable of living primarily from the Spiritual / Metaphysical Realm in [[Flow]] and service to the [[Highest Intention and Greatest Good]]
+7. We recognize that there is no known upper limit to our [[Potential]]  
+8. We recognize that every being is born with unique Genius to cultivate and offer to the world  
+9. We recognize our individual, local and collective responsibility to develop and rise towards the fullness of our potential, *by helping all others do the same*  
+
+### Right Relationships - Everything is Interconnected 
+
+1. We acknowledge that everything is interconnected 
+2. We understand that human beings are interexistent with and related to every other creature and aspect of creation  
+3. We understand that our [[First Relationship]] is between the individual being, the [[Living System]], and its [[Source]]  
+4. We understand that a fragment of the Spirit and Consciousness that creates and sustains the [[Living System]] is incarnate in every living being  
+5. We understand that this [[First Relationship]] is best conceived of as a [[Covenant Relationship]]
+6. Right Relationship with Source / Ultimate Reality / God (Transcendent)
+7. Right Relationship with the Living System / Nature / Reality (Manifest)  
+8. Right Relationship with Family, Community, Locality, SpaceTime  
+9. We embrace comprehensive Stoichiometry beyond the boundaries of chemistry - beginning to understand and respect the complex interplay of relationships we are engaging with and influencing with our thoughts, words, and actions 
+
+### From Primarily Physical to Primarily Metaphysical Existence 
+
+1. We recognize the transition from a primarily [[Physical Reality]] to a primarily [[Metaphysical Reality]]   
+2. We embrace transformation / change at the speed of [[Collective Learning]], shortening the lag between learning, embracing change, and shifting consciousness, supporting previously "impossible" breakthroughs.  
+### The Locus of Sovereignty, Responsibility, and Authority 
+
+1. We recognize that the [[Locus of Sovereignty]] lies with the Individual in direct [[Right Relationship]] with [[Source]], and not any [[SpatioTemporal]] human institution or authority  
+2. We recognize that our [[Primary Citizenship]] is an inherent and inalienable birthright derived directly from the Creator / Source / One / God and our equal status of members of One Body of Creation, and not from any SpatioTemporal human institution or authority.
+3. We recognize and reclaim our [[Highest Identity]]  
+4. We recognize and reclaim our [[Highest Citizenship]]  
+5. We recognize and reclaim our [[Sovereignty]], [[Responsibility]], and [[Authority]]  
+6. We ensure that every human on Earth has equal access to a [[Primary Identity]] and [[Primary Citizenship]] that directly connects them to [[The System]], [[The Commons]], and [[Our Collective Inheritance]], regardless of what locality they happened to be born into. 
 
 ### Taking Responsibility for the Whole 
 
-1. We understand that [[There Is No Them]] "Out There" - We are the ones we have been waiting for  
-2. We take responsibility for the wellbeing, development and right relationship of The Whole  
-3. We think and co-operate from as close to the Wisdom and Perspective of God as we can - over the largest conceivable SpatioTemporal expanse 
+1. We understand that [[There Is No Them]] "Out There" 
+2. We remember the words of the elders - "We are the ones we have been waiting for"  
+3. We take responsibility for the wellbeing, development and right relationship of The Whole  
+4. We think and co-operate from as close to the Omniconsiderate Wisdom and Perspective of God as we can - Consciously Co-Operating over the largest SpatioTemporal expanse we can conceive of  
+5. While taking [[Responsibility]] for The Whole in service of [[One]] and [[All]], we humbly remember that only [[One]] is perfectly [[Wise]] and [[True]]  
 
+### Refounding Civilization 
+
+1. We understand that nothing short of [[The Great Refounding]] of our Civilization is sufficient to prevent a [[Collapse]] of the [[Existing Order]]    
+2. We collectively forge a historic Foundational moment in [[The Story]], paving the [[Way]] for Life and Society to flourish through the Millennia to come. 
 ### Mission Control and the 10 Year Grand Strategy  
 
 1. Zooming back in, we recognize our [[SpatioTemporal Location]] aboard Earth  
@@ -762,11 +847,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	2. Able to be Instantiated via any of the [[Instantiation Hubs]]  
 7. We organize around the Grand Challenges, Global Goals, and [[The 12 Pillars of Lionsberg]]   
 		1. Rapid Prototyping + Soft Franchising + Planetary Scale Criteria - Tom Chi   
-8. Resources 
 
-### A New Experience 
-
-1. We co-create an experience, that is technically a [[Process]], to *move* the entire human population [[FROM the Old TO the New]]  
 ### A New Story of Stories 
 
 1. Recognizing that Consciousness lays it Self out via a [[Narrative Framework]]: 
@@ -783,16 +864,72 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### A New Vision, System, Strategy, and Plan 
 
-1. We forge a massive, positive, and good Vision for the [[Best Possible Future]] for [[All]]  
-2. We forge a purpose-built [[System]], [[Strategy]], and [[Plan]] to bring our shared [[Intention Into Reality]]    
-3. [[New Vision and Plan]]  
+1. Co-Creating The New 
+	1. We forge a massive, positive, and good Vision for the [[Best Possible Future]] for [[All]]  
+	2. We forge a purpose-built [[System]], [[Strategy]], and [[Plan]] to bring our shared [[Intention Into Reality]]    
+	3. [[New Vision and Plan]]  
+
+### Acknowledging and Making Sense of The Old 
+
+1. We validate the deep knowing among humanity that [[Something Is Deeply Wrong]]  
+2. We educate and provide language to help humanity understand what is wrong, and how to set things right   
+3. We recognize that every being is stuck to some degree in [[The Caves]] and [[Employee Consumer Debt Slavery]] of the [[Old World]], and that we all need to help one another liberate our Selves and rise towards our [[Potential]].  
+
+### What Got Us Here Will Not Get Us To Where We Want to Go 
+
+1. We recognize that [[What Got Us Here Will Not Get Us To Where We Want To Go]]  
 
 ### An Invitational Tipping Point Strategy 
 
 1. Via an invitational [[Tipping Point Strategy]], every human being on Earth is invited by someone they know and love to [[Join The Movement]] during [[The 7 Year Window of Crisis and Opportunity]].   
 2. Recognizing the amount of trauma and noise present in the [[Old World]], we prepare for each individual to be invited up to 20 times before they hear, attend, and respond.  
 
-### Broadcast, Outreach, and Movement Building - Creating a Historic Cultural Moment  
+### A New Experience 
+
+1. We co-create a New Experience, that is technically a [[Process]], to *move* the entire human population [[FROM the Old TO the New]] 
+	- FROM: All destructive or inhibiting aspects of the [[Old]]  
+	- TOWARDS: The fullness of [[Potential]], [[Flow]], Co-Creation, the [[New]]    
+2. We [[Reimagine, Redesign, and Rebuild]] the [[New Norms]] and [[Values]]  
+3. We Co-Create the physical and metaphorical infrastructure, roadways, and bridges to empower humanity to rapidly embrace and advance towards the [[New Paradigm]]   
+4. We celebrate and foster the power of collective spiritually, environmentally and socially aligned thought, speech, and action.  
+
+### No One Involuntarily Left Behind 
+
+1. We resolve to consider the wellbeing and development of every individual, family, community, and bioregion on Earth, and leave no one involuntarily behind.  
+2. We invite every inhabitant of Earth to take up an [[Equal Citizenship]] in [[The New]].  
+
+### Stuckness, Trauma, and Inhibition 
+
+1. We recognize that every being is inhibited by various levels of experiential programming, trauma, and accumulated negative energy.  
+2. We co-create a lifelong journey of healing, wellness, learning, and development towards the fullness of [[Potential]]   
+
+### Reuniting The Apparent Polarities 
+
+1. We reconcile, [[At-One]], and reunite the [[Apparent Polarities]] 
+2. [[Masculine]] and [[Feminine]]  
+3. [[Yin]] and [[Yang]]  
+4. [[Boundaries]] and [[Boundlessness]]  
+5. [[Centralization]] and [[Decentralization]]  
+6. [[Left Hemisphere]] and [[Right Hemisphere]]  
+7. [[Indigenous]] and [[Non-Indigenous]], [[The Eagle and The Condor]]  
+8. [[Ancient]] and [[Modern]]  
+9. [[The East]] and [[The West]], [[The North]] and [[The South]]  
+10. [[The Drive Towards Survival and Self-Preservation]] and [[The Drive Towards Exploration and Expansion]]  
+11. etc. 
+
+### Honoring Ancient and Indigenous Wisdom and Knowledge 
+
+1. We honor and equally empower native / indigenous / original peoples  
+2. We invite every individual to equal citizenship 
+3. We ensure that indigenous representatives have an equal seat at the table  
+4. We support traditional practices with scientific validation  
+5. We learn how to augment scientific inquiry with indigenous wisdom and intuition. 
+6. We support indigenous communities who so desire with modern science, solutions, and practices  
+7. We share local geo-located best practices globally  
+8. We invite indigenous wisdom to rediscover optimal ways to restore lands key to optimal bio-diversity (dynamics of the lands / waters / oceans of the planet).  
+9. We connect all vital areas and their peoples with their own, private, secure social network so they can document wisdom and knowledge, share best practices, and enable sorting and filtering of Wisdom and Knowledge as groups are ready to share it to the broader network or general public  
+10. As a united [[Force For Good]], we stand up together against [[The Giants]] and ensure that indigenous peoples are not corrupted, divided, and dispossessed of the land and resources they steward. 
+### Broadcast, Outreach, and Movement Building - Creating a Historic Cultural Moment   
 
 1. Drawing inspiration from Live Aid and other uniting cultural events that captured the imagination, hearts, and minds of billions, we engage the leading voices and cultural icons of our time in a historic broadcast, outreach, and movement building series of events.  
 2. Culture, arts, music, speeches, arenas, cathedrals, etc. 
@@ -825,15 +962,31 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We resurrect and celebrate the universal [[Values]], [[Rights]], and [[Responsibilities]] that unite us.   
 3. We remember the traditions and rituals that keep us oriented and advancing in the right direction throughout the generations.  
 
+### Celebrating and Embracing Diversity 
+
+1. Recognizing the vast diversity of human culture and experience, we celebrate and embrace the Diversity, Uniqueness, and Potential of each individual, group, community, bioregion, culture, and tribe. 
+2. We rediscover what it means to co-exist in [[Diverse Unity]]  
+### Unity and a New Covenant 
+
+1. We rediscover what it means to exist in [[Omniconsiderate]] universal and eternal [[Covenant Relationship]] / [[Right Relationship]] with [[One]], [[One Another]], and [[All]].   
+2. Recognizing that the alternative to Diverse Unity is fragmentation, suffering, and decay, We reorient and reunite as [[One Family of Families]], [[One Tribe of Tribes]], [[One Body of Co-Creation]]. 
+3. Recognizing the need to forge some kind of [[Higher Order Functional Unity]] among us, we voluntarily of our own [[Free Will]] and [[Mutual Consent]] enter into an omniconsiderate [[New Covenant]] between our Selves, our Families, our Tribes, our Localities, All Creation, and the Creator. 
+4. Recognizing that there is One [[Ultimate Reality]] generating and sustaining [[The Diverse Many]] manifestations throughout the Universe, we place ([[God]] / [[Creator]] / [[One]] / [[Ultimate Reality]]) back at [[The Center]], and base everything on [[Love]]. 
+5. While honoring and respecting the most [[Wise]], [[Right]], [[True]] and [[Good]] aspects of our various Religious Traditions and Denominations, we remember that the [[One]] is transcendent of every name, religious container, or semantic proposition. 
+6. We remember that true spirituality and spiritual development is about the common journey towards individual and collective [[Right Relationship]] with the Divine, and that [[Religion]] is merely a means towards [[The Goal]], and not an End in and of itself.  
+7. We remember that the [[Knowledge of God]] is ultimately [[Non-Propositional]] in nature.  
+8. We tear down the [[Propositional Idols]] we have created and the arrogantly constructed [[Religious Denominations]] that separate and divide us, and return towards [[Omniconsiderate]] [[Right Relationship]] / [[Covenant Relationship]] with [[One]], [[One Another]], and [[All]].  
+
 ### A Self-Governing, Self-Sustaining, and Self-Replicating Team of Teams 
 
 1. We empower [[The First Three Percent]] to self-organize into [[Self-Governing, Self-Sustaining, and Self-Replicating]] teams. 
 2. We empower the Teams to stack up and align their activities as a [[Team of Teams]] via the [[Lionsberg System]].  
 3. We Co-Operate as [[One Team of Teams]]  
-4. We empower and align all [[Teams]] with all the solutions, tools, resources, and support necessary to enable us to co-operate in optimal / system-wide / flow enabling states that push the perceived boundaries of [[Potential]].   
-5. We ensure that every team owns / stewards the product of their [[Co-Operation]]  
-6. We ensure that teams [[Organize and Federate]] into [[Higher Degrees]] of Functional Unity 
-7. We leverage 1/10th of the Flow of resources and energy we co-create to continously improve The Commons that is lifting up and empowering all teams and localities.  
+4. We honor the principle of [[Subsidiarity]] to keep the [[Diverse Unity]] / [[The System]] [[Optimally Decentralized]]  
+5. We empower and align all [[Teams]] with all the solutions, tools, resources, and support necessary to enable us to co-operate in optimal / system-wide / flow enabling states that push the perceived boundaries of [[Potential]].   
+6. We ensure that every team owns / stewards the product of their [[Co-Operation]]  
+7. We ensure that teams [[Organize and Federate]] into [[Higher Degrees]] of Functional Unity 
+8. We leverage 1/10th of the Flow of resources and energy we co-create to continously improve The Commons that is lifting up and empowering all teams and localities.  
 ### Quarterly / Seasonal Quests 
 
 1. We empower every individual and team to engage in [[Meaningful Conversations and Quests]] that bring our shared goals and values into reality.  
@@ -1049,6 +1202,14 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	14. Shelter  
 	15. Infrastructure Investment, Maintenance, and Upcycling 
 	16. etc. 
+
+### We First Do Not Harm 
+
+1. As we intervene in complex natural and social systems beyond our comprehension, we strive to act with Wisdom and Integrity, and [[First, Do No Harm]]  
+2. We identify, perform root cause analysis, and stop harm, toxicity and pollution of all kinds at their source   
+	1. We prioritize our efforts by [[Pareto Analysis]], repeatedly identifying the 10% to 20% of sources causing 80% to 90% of the outcomes, and forthrightly addressing them
+		1. For example, identifying the 10% to 20% of rivers generating 80% to 90% of lake and ocean pollution, and the 10% to 20% of sources causing 80% to 90% of the pollution in those rivers   
+3. We remove our energy, attention, and resources from systems that are causing harm, toxicity, or pollution  
 ### We Heal and Clean Up The Mess 
 
 1. We recognize and celebrate the valuable and irreplaceable role of human creativity and agency in [[Cleaning Up The Mess]]  
@@ -1609,10 +1770,10 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 ### Microbiome 
 
-
+1. We protect and cultivate the [[Microbiome]]  
 ### Biodiversity 
 
-
+1. We protect and cultivate [[Biodiversity]]  
 ### Health and Wellbeing 
 
 1. We recognize the relationship between environmental health / flourishing and human health / flourishing  
@@ -1629,26 +1790,6 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 		3. Sound Healing 
 			1. David Gibson - Sound Healing Center  
 			2. [Shattering Cancer With Resonant Frequencies - Anthony Holland]((https://www.youtube.com/watch?v=1w0_kazbb_U)  
-### Breath 
-  
-1. We honor, cherish, and protect our [[Sacred Air]]  
-2. We recognize that by changing the way we breathe, we can change the way our mind, body, and emotions work  
-3. We breath through our nose 
-	1. The nose is our first line of immune defense  
-	2. The nose heats up, pressurizes, moisturizes, and conditions the air
-	3. Even for peak athletic performance, you get more oxygen, more efficiently, by breathing through your nose  
-4. We slow down our breath
-	1. Buddhist, Yogic, and Catholic prayer traditions all arrived at a respiration rate of about 5.5 seconds in, and 5.5 seconds out, 5.5 breaths per minute. 
-5. We improve our lung capacity to improve our lives and longevity 
-	1. Exercise 
-	2. Meditate with proper posture while controlling your breath 
-	3. We don't work out harder than we can breathe correctly  
-6. We pause, breathe, say grace, and express gratitude before we eat  
-7. We consider periodic over-breathing and breath holding practices to consciously take control of our subconscious breath functions  
-	1. Sudarshan Kriya / Wim Hof et al 
-8. Resources 
-	1. Breath - Stig Severinsen - Breathology 
-	2. James Nestor 
 
 ### Food and Nutrition For Optimal Health and Flow 
 
@@ -1776,16 +1917,160 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 2. We celebrate and build on what we do well - improving every aspect of our shared systems, standards, culture, and norms at every opportunity  
 3. We continually identify what we would like to do better in the future, and come up with concrete strategies and plans to continuously improve  
 
-
 ## Individual Flourishing and Flow 
 
+On [[The Quest]] towards [[The Goal]], it will be crucial that every Individual stays connected and in [[Flow]]. 
+
+We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]. We want to flourish through it, together. 
+
+### Individual Stories 
+
+1. We invite each individual to progressively articulate their [[Individual Stories]]  
+2. We ensure that every individual is clear on Where They Are, How They Got Here, Where They Are Going, With Who, and Why.  
+3. We invite each individual to weave their [[Individual Story]] into [[The Tapestry]] / [[The Story]].   
+### Daily Practice 
+
+1. Recognizing [[The Power of Today]], we forge a new [[Daily Practice]] and set of [[Protocols For Flourishing]]  
+
+### Rediscovering How to Drink  
+
+1. We recognize that over half of our [[Embodiment]] is composed of [[Water]].  
+2. We stop drinking toxic [[Anti-Drink]]  
+3. We test our water before we drink it  
+4. Resources 
+	1. Gina Bria - Hydration Foundation 
+
+### Rediscovering How to Eat  
+
+1. We pause, breathe, pray, and express gratitude before we eat  
+2. We identify and stop consuming toxic [[Anti-Food]]  
+	1. Highly processed foods  
+	2. Cold energy foods  
+3. We identify and stop consuming products from degenerative food systems  
+4. We stop producing and consuming via systems that create existential pandemic risks   
+5. We remove our resources and consumption from [[The Giants]] and from other [[Degenerative Systems]], and we reallocate our resources and consumption to [[Regenerative Systems]] that make our bodies, our communities, our lives, and our environments [[Better]]   
+6. We use the necessary [[Flow]] of Resources produce by our [[Consumption]] to relocalize and revitalize our Food Systems 
+
+### Rediscovering How to Sleep  
+
+1. 1. Aim for 7-8 hours of sleep a night, and 5 hours of REM / Deep Sleep  
+	1. The more we are in [[Flow State]], the more deep [[Recovery]] time is needed 
+2. REM / Deep Sleep is where: 
+	1. Physiological Cleansing, Resetting, Repair 
+	2. Psychological / Cognitive Cleansing, Resetting, Repair  
+	3. Generating 95% of growth hormones 
+3. Resources 
+	1. [Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity](https://www.youtube.com/watch?v=ClxRHJPz8aQ)  
+	2. [Optimize Sleep, Enhance Performance, and More | Dr. Andrew Huberman](https://www.youtube.com/watch?v=Ojkh7qV-OoA)  
+	3. [Dr. Matthew Walker: The Science & Practice of Perfecting Your Sleep](https://www.youtube.com/watch?v=gbQFSMayJxk&t=164s)  
+	4. [Dr. Matt Walker: The Science & Practice of Perfecting Your Sleep](https://www.youtube.com/watch?v=gbQFSMayJxk&t=280s)  
+
+	5. Dr. Matthew Walker – THE SLEEP DIPLOMAT: [https://www.sleepdiplomat.com/](https://www.sleepdiplomat.com/)  
+	6. Dr. Bob Arnot - [Flip The Youth Switch](https://bionicoldguy.home.blog/2020/12/07/flip-the-youth-switch/)  
+	7. [BBC – Why healthy sleep is the key to ‘great sex’](https://www.bbc.com/reel/video/p0c7rpjl/why-healthy-sleep-is-the-key-to-great-sex-)  
+
+### Rediscovering How to Breathe 
+
+1. We honor, cherish, and protect our [[Sacred Air]]  
+2. We recognize that by changing the way we breathe, we can change the way our mind, body, and emotions work  
+3. We breath through our nose 
+	1. The nose is our first line of immune defense  
+	2. The nose heats up, pressurizes, moisturizes, and conditions the air
+	3. Even for peak athletic performance, you get more oxygen, more efficiently, by breathing through your nose  
+4. We slow down our breath
+	1. Buddhist, Yogic, and Catholic prayer traditions all arrived at a respiration rate of about 5.5 seconds in, and 5.5 seconds out, 5.5 breaths per minute. 
+5. We improve our lung capacity to improve our lives and longevity 
+	1. Exercise 
+	2. Meditate with proper posture while controlling your breath 
+	3. We don't work out harder than we can breathe correctly  
+6. We pause, breathe, say grace, and express gratitude before we eat  
+7. We consider periodic over-breathing and breath holding practices to consciously take control of our subconscious breath functions  
+	1. Sudarshan Kriya / Wim Hof et al 
+8. Resources 
+	1. Breath - Stig Severinsen - Breathology 
+	2. James Nestor 
+### Rediscovering How to Ground 
+
+1. We reconnect our body to the Living System daily via [[Grounding]]  
+### Rediscovering How to Walk 
+
+1. We walk barefoot every day to ground and connect our Embodiment to the Living System  
+2. We walk with our feet pointed straight ahead and properly aligned  
+3. We walk with proper [[Posture]], [[Presence]], and [[Poise]]  
+4. Resources 
+	1. Vivo Barefoot - Dulma and Galahad Clark 
+	2. Zero 
+	3. [Shoespiracy Movie, Vivo Barefoot](https://www.youtube.com/watch?v=x_rDFa6kZfI)
+### Rediscovering How to Play 
+
+1. We rediscover how to [[Play]]  
+2. We rediscover the connection between [[Play]], [[Presence]], and [[Flow]]  
+3. We celebrate [[Sports]] as a way to connect and [[Play]] across the lines that divided us in the past  
+4. We rediscover how to Organize our selves around Games on the basis of [[Voluntary Consent]]  
+5. Resources 
+	1.  Evo Sports Collective  
+	2. Michael Murphy 
+	3. Esalen 
+
+### Rediscovering How to Flow 
+
+1. We recognize that Flow is a State of Consciousness, marked by rapt [[Attention]] and total [[Focus]] in the [[Present Moment]], that enables peak performance  
+	1. Our sense of self and self consciousness vanishes 
+	2. Time transforms 
+	3. Boundary between Work and Play dissolves  
+		1. We are happiest when we are most engaged  
+	4. The Path becomes what we most enjoy doing  
+	5. Neurochemical coctail release 
+		1. enables us to experience perhaps the most feel good and addictive state on Earth    
+		2. Causes learning to accelerate by up to ~500%  
+		3. Causes performance / productivity to accelerate by up to ~500% 
+	6. Reduces [[Time To Mastery]] by half 
+2. We recognize that we can [[Structure Our Lives]] and use [[Triggers]] / [[Primes]] to help us access [[Flow State]]  
+	1. Creativity  
+	2. Pattern Recognition and Linking Ideas  
+	3. Risk  
+	4. [[Challenge Skills Balance]] / [[Zone Of Optimum Development]] - Challenge slightly exceeds our skill (by ~4%), stretching without breaking us.  
+	5. [[Flow Follows Focus]] - long periods of uninterrupted [[Focus Time]] where we can [[Pat Attention]]    
+		1. Minimum 90 minute blocks 
+3. We recognize that enabling and empowering our individual, local, and collective states of Alignment and Flow is key to a regenerative and flourishing future  
+4. We recognize that this individual, local, and collective Flow and Flourishing are inherently interdependent with Socioeconomic, Environmental, and Planetary Flow and Flourishing  
+5. We create a world where humanity serves and empowers Nature as a co-creative of human potential and flow states   
+6. We recognize Flow states as a necessary aspect and standard of health, wellbeing, and accessing the fullness of human potential  
+7. We set the standard for life as the continuous evolution of flow states across all individual, family, community, social, ecosystemic levels - all systems in flow helping all other systems in flow rise towards the fullness of potential  
+8. We visualize the adjacent impossible, and imagine how it would feel when we accomplish it    
+9. Resources: 
+		1. Steven Kotler - [The Art of the Impossible](https://www.theartofimpossible.com)  
+### Rediscovering How to Transition 
+
+1. We rediscover how to Transition between [[SpatioTemporal Domain]]s 
+2. We [[Breathe, Presence, and Cohere]] each time we transition between Domains   
+3. We transition between times and spaces with presence, awareness, pause, prayer, and breath  
+### Rediscovering How to Age 
+
+1. We rediscover how to continually expand our abilities as we age 
+2. We rediscover how to continually attenuate our disabilities as we age  
+### Rediscovering How to Transition Beyond Our Bodies 
+
+1. We rediscover that death is not the end, but a transition beyond the limitations of our physical [[Embodiment]]  
+2. We learn to understand and embrace [[Death]] as an integral part of the eternally regenerative Living System we are a part of  
+3. We eliminate the [[Fear Of Death]]   
+4. We ensure that every elder is honored and cared for in their old age, while surrounded by Community, Love, Honor, and Compassion  
+5. We ensure that every elder has access to hospice and palliative care 
+6. We ensure that every being has access to a decent, peaceful, and honoring transition beyond their physical body  
+7. We learn together about the best ways to perform burial in a regenerative and honoring way, and we ensure that every being has access to a decent and honoring burial  
+## Team Flourishing and Flow 
+
+Coming Soon. 
+## Community Flourishing and Flow 
+
+Coming Soon
 
 
-
+## Closing Thoughts 
 
 We of course might want to sweep the executive branch in the 2024 and 2026 US elections. 
 
-There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal security, and oversee the responsible and balanced redirection of military and defense flows. 
+There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]]. 
 
 There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of Lionsberg]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities. 
 
@@ -1801,19 +2086,19 @@ And we will of course need to start planning [[The Greatest Celebration and Jubi
 
 Now that we have a New Vision, System, Strategy, and Plan - everything is possible if we simply arise and unite in partnership with the Creator and All Creation. 
 
-Etc. Etc. 
-
 The [[Lionsberg Wiki Books]] cover this all in more detail. 
 
 The [[New Pattern Language]] is clear. 
 
-Now, it purely comes down to the successful execution of the $15 Trillion [[10 Year Grand Strategy]]. 
+The [[Divine Blueprints]] are revealing themselves.  
+
+Now, it purely comes down to the successful execution of the [[10 Year Grand Strategy]]. 
 
 We started the [[10 Year Grand Strategy]] March 1st. The [[Lionsberg Co-Creators]] are arising and uniting as a Force For Good to meet this moment in history. We need you. The world needs you. 
 
 The Creator is inviting us to become Co-Creators of the [[Best Possible Future]] for All. 
 
-With Love and Respect for All Creation in All Places and Times, 
+With Deep Love and Respect for All Life in All Places and Times, in service of [[One]] and [[All]], 
 
 ~ J 
 
@@ -1831,6 +2116,9 @@ Partial / Repetitive List In Progress:
 - Joshua Hughes - https://weareblacksheep.org   
 - Tom Chi - [At One Ventures - Portfolio](https://www.atoneventures.com/portfolio)  
 	- [Tom Chi - Future Skills](https://futureskills.mystrikingly.com)  
+	- 1. Tom Chi - Every Is Connected 
+	- [Tom Chi - Making Humanity Net Positive to Nature - Video](https://vimeo.com/294975140)  
+	- [Tom Chi - Making Humanity Net Positive to Nature - Podcast](https://www.youtube.com/watch?v=Gl6_G4Giteo)  
 
 - Michael Charles Tobias - https://en.wikipedia.org/wiki/Michael_Tobias  
 - George Jacob - https://www.linkedin.com/in/dr-george-jacob-frcgs-188b143/ 
@@ -1936,5 +2224,26 @@ Partial / Repetitive List In Progress:
 - Global Regen Colab Participants  
 - Future Capital Participants  
 - Open Global Mind Participants 
-- [r3.0 - Redesign, Resilience, Regeneration](https://www.r3-0.org/)
- 
+- [r3.0 - Redesign, Resilience, Regeneration](https://www.r3-0.org/)   
+- Exterminate All The Brutes - Raoul Peck 
+- Goldman Environmental Prize 
+- Population Media Center 
+- Planet Home / Antony Randall 
+- Disaster Preparedness Community 
+- Dr. James Canton 
+- Emerson Collective 
+- Laurene Powell Jobs 
+- Mark Benieff 
+- Henk Rogers 
+- Ayman Hariri 
+- Christine Gulbranson 
+- Victoria Shoewald 
+- Stan Rowland 
+- Tetiaroa Society  
+- The Brando 
+- Mary Munk 
+- [FAKE: Fake Money, Fake Teachers, Fake Assets: How Lies Are Making the Poor and Middle Class Poorer (Book)](https://www.amazon.com/dp/1612680844/ref=aod_recs_desktop_prsubs_1) - follow up to [[Grunch of Giants]]  
+1. - [Time - How Baby Boomers Broke America](https://time.com/5280446/baby-boomer-generation-america-steve-brill/) 
+2. [Seed - The Untold Story - In the last century, 94% of our seed varieties have disappeared](https://www.youtube.com/watch?v=vKyC5b6u-f4)
+- [The Evolution and Meanings of Human Skin Color | Nina Jablonski](https://www.youtube.com/watch?v=sc4OFcT5m1Y)  
+1. [The Human Race vs Races of Humans: Facts and Fantasies about Genes and Evolution](https://www.youtube.com/watch?v=M0PZo5IKne4)
