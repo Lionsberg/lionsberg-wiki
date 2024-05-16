@@ -1210,6 +1210,77 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	1. We prioritize our efforts by [[Pareto Analysis]], repeatedly identifying the 10% to 20% of sources causing 80% to 90% of the outcomes, and forthrightly addressing them
 		1. For example, identifying the 10% to 20% of rivers generating 80% to 90% of lake and ocean pollution, and the 10% to 20% of sources causing 80% to 90% of the pollution in those rivers   
 3. We remove our energy, attention, and resources from systems that are causing harm, toxicity, or pollution  
+
+### We Identify, Dialogue, and Solve Issues and Threats 
+
+1. We forge a [[Total Nested Hierarchy of Issues]]  
+2. We identify and prioritize the [[Existential Threats]] 
+	1. [[Collapse]] 
+	2. [[Pollution]] - Valuable chemicals and compounds in the wrong places 
+		1. Carbon 
+		2. Methane 
+		3. Industrial Waste 
+	3. [[Water]] - poisoning of our lifeblood 
+		1. Underwater munitions 
+		2. Fukushima (requires investigation)  
+		3. Military installations 
+		4. Industrial installations 
+		5. Groundwater 
+	4. Deforestation 
+	5. Ocean Acidification 
+	6. Biodiversity Loss  
+	7. Microbiome Destruction 
+	8. Pandemic 
+		1. Food Systems 
+		2. Mass Migration 
+		3. War 
+		4. Environmental Degeneration 
+		5. [[Gain of Function Research]] 
+	9. War 
+		1. AI 
+		2. Nuclear 
+		3. Energy / Communications / Supply Chain / Food Systems Collapse 
+	10. Antibiotic Resistance 
+	11. Resource Depletion 
+		1. Fresh, Clean Water 
+		2. Arable Land 
+		3. Minerals 
+	12. Artificial Intelligence  
+	13. Cybersecurity / Grid Security 
+		1. Critical Infrastructure 
+		2. Financial Infrastructure 
+		3. Information Infrastructure 
+	14. Political Instability 
+		1. Political Polarization 
+		2. Anarchy / Authoritarianism 
+		3. Failed States 
+	15. Economic Collapse 
+		1. Debt-Based Fiat Monetary Systems 
+		2. Debt 
+		3. Socioeconomic Inequality 
+		4. Opportunity Gap 
+		5. AI + Robotics Replace 2/3 of Jobs 
+		6. Social Unrest 
+	16. Food Prices and Availability 
+		1. Degenerative Agriculture Practices 
+		2. Soil Degradation 
+		3. Chemical Fertilizers and Pesticides 
+	17. Mass Migration 
+		1. Cultural Strain 
+		2. Socioeconomic Strain 
+		3. Pandemics / Disease 
+		4. Conflict 
+		5. Democratic Process 
+	18. Psychological Stability 
+		1. Individual 
+		2. Family 
+		3. Collective  
+	19. Religious and Ideological Extremism 
+	20. Terrorism and the [[Progressive Ephemeralization]] of superweapons 
+	21. Weaponized Propaganda and [[Anti-Truth]]  
+	22. Biotechnology 
+	23. The Giants 
+
 ### We Heal and Clean Up The Mess 
 
 1. We recognize and celebrate the valuable and irreplaceable role of human creativity and agency in [[Cleaning Up The Mess]]  
@@ -1313,6 +1384,21 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 3. We establish a universal [[Elevation Initiative]] through which all things [[Help One Another]] rise towards the fullness of their unique [[Potential]] and [[Flourish in Harmony]] by [[Helping All Do The Same]].  
 4. We ensure that everything we do is done in service of [[One]] and [[All]] and lifts up All Creation towards the fullness of [[Potential]] - Flow / Flourishing / Expanding / Optimizing 
 
+### Interoperable Technology Stack 
+
+1. We design and build an interoperable technology stack that is built to transform and evolve over Time 
+2. We anticipate that each functional system in the [[System of Systems]] will be swapped out every 2 to 10 years as technology transforms at an accelerating rate 
+3. Data architecture and interoperability are key 
+4. Human culture and processes are key 
+
+### Backbone Technology Platform 
+
+1. We design and build a platform that makes [[Self-Governing, Self-Sustaining, and Self-Replicating]] 1. People 2. Groups and 3. Projects visible to one another - see the [[Lionsberg Platform]]  
+2. We connect and empower [[The Diverse Many]] parts of [[The Body]]  
+3. We continuously improve the [[Service and Support System]] available to each participant  
+4. We empower groups to undertake meaningful [[Projects]] and [[Quests]] that can be measured and funded in stride 
+5. We enable [[Ecosystemic Flows]] of resources 
+6. We establish secure and measured compute across the vast array of known human and technological sensors  
 ### The Living Systems Data Model, Precision Measurement, Citizen Science and Relational AI 
 
 1. We imagine, design, and build a [[Living Systems Data Model]] that enables:  
@@ -1652,7 +1738,9 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 2. We recognize that all of our [[Materiality]] is composed of chemicals and compounds that have the potential to create [[Value]] for Society and the Living System. 
 3. We recognize that what we consider [[Pollution]] is actually chemicals or compounds present in inappropriate places. 
 4. We shift our focus from externalizing [[Waste]] for our narrow individual or local benefit, to becoming [[Centers of Distribution]] that redistribute valuable resources in service of [[One]] and [[All]]  
-5. Preliminary Vision Statement for the [[Lionsberg Resource ReCirculation System]]: 
+5. We design and build into the network of [[Instantiation Hubs]] local and regional recycling, processing, resource allocation hubs  
+6. We design and roll out to all businesses and manufacturing operations [[Resource Capture Systems]] that empower each Domain to [[Externalize Waste and Byproducts]] in a way that creates [[Value]] for the Whole  
+7. Preliminary Vision Statement for the [[Lionsberg Resource ReCirculation System]]: 
 
 *Imagine a world where every entity, from individual households to sprawling cities, operates as a harmonious cog in a planetary resource intake and allocation system. At its core, this system embodies a holistic approach to resource management, founded on the principle of waste capture and redistribution for collective benefit.*
 
@@ -1869,6 +1957,60 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 		10. [Hank Patten](https://www.linkedin.com/in/hank-patton-69002b17/) - World Steward 
 		11. [Robert Greene: A Process for Finding & Achieving Your Unique Purpose](https://www.youtube.com/watch?v=50BZQRT1dAg)  
 		12. etc.
+
+### Rule of Law 
+
+1. We reestablish, Value, and uphold [[The Rules]] of [[The Game]]  
+2. We [[Break The Rules In Order To Do What Is Right]]  
+3. We ensure that all citizens have knowledge of their foundational [[Rights and Responsibilities]]  
+4. We ensure that all citizens have equal access to Systems of Justice  
+5. We ensure that all citizens have equal access to Representation 
+6. We decentralize and democratize legal knowledge so that individuals are empowered to collaborate and represent themselves 
+7. Resources and Examples 
+	1. [Safesign](https://www.safesigntechnologies.com) - AI LLM trained by attorneys to democratize legal knowledge 
+
+### Stewardship of Real Property 
+
+1. We reexamine the process whereby indigenous communities were dispossessed of their land by force 
+2. We reexamine the legitimacy of the Papacy and the [[15th Century Papal Bulls]], and their use as a basis for Property Rights   
+3. We reexamine the paradigm of Ownership vs. multi-general Stewardship for the benefit of all current and future generations  
+4. We declare a [[Jubilee]] and reexamine and restore the ancient boundaries  
+5. We ensure that every family and tribe has a [[Domain Of Responsibility And Authority]] to Steward and Flourish upon, where their [[Free Will]] cannot be violated.    
+6. We reexamine the ownership and stewardship of agricultural lands  
+7. We reexamine the meaning and roles of Debt and Equity relative to Real Property  
+8. We reexamine the paradigms of real property insurance, especially in the face of the risks associated with the [[Meta Crisis]]  
+9. We extract the tentacles of [[The Giants]] from real property  
+10. We extract the tentacles of [[The Game of Empire and Oligarchy]] from real property 
+11. We ensure that it is legal and encouraged for families and local co-operatives to produce, trade, and exchange [[Food]]  
+12. We cultivate [[Food Forests]] everywhere  
+13. We recognize that ~ [[Above The Chaos, 80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness|80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
+14. We recognize that 90+% of the [[Built Environment]] will need to be reimagined, redesigned, and rebuilt over the next 100 to 200 years. 
+15. We recognize that 90%+ of the Human Population will need to be rehoused over the next 100 to 200 years.  
+16. We recognize that the existing fragmented systems that pit debt holders, insurance holders, owners, regulators, and contractors against one another are woefully insufficient to meet the challenge  
+17. We use [[Comprehensive Anticipatory Design Science]] to reimagine, redesign, and rebuild the world, and steward it in common as the [[Collective Inheritance]] of all current and future generations of life. 
+### Stewardship of Intellectual Property and Ideas
+
+1. We reimagine, redesign, and rebuild [[The Rules of The Game]] relating to [[Intellectual Property]]  
+	1. [[Lionsberg Intellectual Content System]]  
+
+2. We reexamine the origin of some of the most valuable corporations in the world through taxpayer funded breakthroughs that may belong to [[We The People]]   
+3. We reexamine the origin of the some of the most valuable ideas, technologies, and corporations in the world via the legacy of Rome -> illegitimate Co-Option of the legacy of Christ -> Papacy -> Feudalism -> Colonialism -> English Crown -> East India Company -> Modern Banking -> World Wars -> Taxpayer Funded Weaponization of High Science Technology -> Emergence of [[The Giants]]   
+4. We reexamine to whom the [[Real Wealth]] belongs, which ultimately consists of [[Energy]], which cannot be destroyed, and [[Wisdom]] / [[Knowledge]] / [[Information]], which always increases. 
+5. As we [[Progressively Realize]] that every Wise, Good, Right, and True idea belongs to Us All as an aspect of our Divine Origin, Legacy, and Collective Inheritance, we gather up our [[Collective Inheritance]] of Wisdom, Knowledge, and Ideas into [[The Commons]]  
+	1. [[Lionsberg Commons]]  
+6. We synergize our ideas, technologies, and IP via [[The Prototype]] into an interoperable [[Kit of Parts]], that can be localized, adapted, and poly-centrically rolled out across the planet via the distributed array of networked [[Instantiation Hubs]].   
+
+### Stewardship of Water 
+
+1. We recognize Water as a sacred healing and life-giving force that belongs to us All  
+2. We remember that no one "owns" the water  
+3. We undo the corrupt deals that sold our water  
+4. We steward and continuously improve the quality, quantity, and Flow of clean, fresh water available to All 
+
+### Stewardship of Meters 
+
+1. We reexamine who stewards the the [[Meters]]  
+2. We stop the [[Piped, Wired, and Metered Exploitation]] of humanity  
 
 ## Military, Defense, and War 
 
