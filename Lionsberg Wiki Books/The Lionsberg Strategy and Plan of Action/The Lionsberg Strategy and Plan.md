@@ -1045,6 +1045,12 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 4. This provides the digital infrastructure for an emergent and self-learning ecosystem to flourish  
 5. This ensures that for the first time in human history, every human that accepts [[The Invitation]] has equal access to a pathway of lifelong learning, wellbeing, and development, along with the leading tools and technologies to facilitate their [[Quest]] towards [[The Goal]]  
 
+### The Lexicon 
+
+1. We identify the 200 to 500 most important [[Word Tools]] to enable genuine communication and co-creation across all [[Levels of Abstraction]]  
+2. We translate these [[Primary Word Tools]] into their nearest equivalent in every vital language 
+3. We recognize that language shapes our perceptions and actions  
+4. We consider and learn together across cultures about the concepts, wisdom, principles, and values most fundamental to the flourishing of human, social, and living systems  
 ### The New Social Network 
 
 1. We create a [[New]], non-extractive [[Social Network]] that enables: 
@@ -1094,12 +1100,19 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 4. We cross pollinate learnings, systems, processes, [[Best Practices]], and technologies across the array of [[Soft Franchises]]  
 5. We Federate all emergent small businesses via the [[Lionsberg System]]  
 
-### OmniFederation 
+### We Omni-Federate  
 
 1. We federate all emergent organisms into an interoperable ecosystem via the [[Lionsberg System]] - [[Federating]]  
 2. We co-create ~100,000 Mondragon's, each serving ~100,000 Citizens, connecting every citizen on earth to [[Meaningful Work]], [[Meaningful Relationships]], and a network of [[Services, Support, and Safety Nets]]  
 3. We ensure that the each of the 100,000 federations is interconnected and interoperable at the mycelial level, enabling planetary [[Ecosystemic Flows]] in response to the [[Offers and Requests]] of each organism.  
 
+### We Don't Sell Out - Designing and Building for Multi-Generational Ecosystemic Value Creation
+
+1. As we co-create [[Value]], systems, organizations, and structures, we stop selling out to [[The Giants]], private equity, etc.   
+2. We resist the urge of small groups to [[Abdicate Responsibility]], sell out and get rich at the expense of The Whole  
+3. We design and build for multi-generational, ecosystemic, federated co-creation of Value 
+4. We establish a System, Process, and Flow for connecting and integrating millions of non-profits, for-profits, and assets of various kinds into [[The Ecosystem]]   
+	1. [[List of Companies That Have Sold Out to The Giants]]
 ### The Voice of Nature  
 
 1. We learn to listen to [[The Voice of Nature]]  
@@ -1324,12 +1337,17 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 5. We ensure that every individual is connected to [[Meaningful Work]] and [[Meaningful Relationships]]  
 6. We ensure that every individual is part of the distributed [[Team of Teams]] that is [[Progressing Towards The Goal]]   
 
-### Local Sovereignty, Strength, Resiliency, and Adaptability 
+### Community and Bioregional Sovereignty, Strength, Resiliency, and Adaptability 
 
 1. We recognize that the systems and structures of the world may profoundly shake and possibly [[Collapse]] during [[The 7 Year Window of Crisis and Opportunity]]  
 2. We rapidly empower [[Localities]] to relocalize the [[Core Functions of Life and Society]], while retaining [[Interoperability]] and [[Flow]] between [[Domains]]    
 3. We recognize that environmental degeneration may result in less predictable weather and seasonal normalcy, and we create real time monitoring to enable localities and the collective to adapt to the Unknown as we navigate into it.  
 4. We proactively practice and prepare to assist and accommodate large scale human, animal, plant, and tree migration, recovery and adaptation  
+
+### Community and Bioregional Economic Stability 
+
+1. We rapidly relocalize our [[New Economy]]  
+2. We ensure that every community and bioregion has the means to provision and feed itself indefinitely into the future 
 
 ### Disaster Preparedness and Response, and Local / Collective Resilience 
 
@@ -1620,6 +1638,8 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 4. By sharing fleets of vehicles and resources via [[The Commons]], we dramatically increase the quality and reduce the cost of transportation options  
 5. We reevaluate the Costs of our existing and future modalities of transport without the ability of individuals and localities to [[Externalize Risk and Harm]] to other communities or the environment. 
 6. We reevaluate the true Costs of rare Earth minerals, metals, petrochemicals, etc.  
+
+
 ### Interoperable Local Currencies 
 
 1. To liberate our Selves from the failing fiat currencies of the [[Old World]], we co-create an interoperable network of [[Local Currencies]]  
@@ -2000,6 +2020,13 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	1. [[Lionsberg Commons]]  
 6. We synergize our ideas, technologies, and IP via [[The Prototype]] into an interoperable [[Kit of Parts]], that can be localized, adapted, and poly-centrically rolled out across the planet via the distributed array of networked [[Instantiation Hubs]].   
 
+### Stewardship of Data  
+
+1. We ensure that every Citizen has full stewardship, responsibility, and authority over their own [[Data]]  
+	1. [[Data, Information, Knowledge, and Wisdom Sovereignty]]  
+2. We enable Citizens to [[Consciously Choose]] what data and information about their [[Domains of Responsibility and Authority]] they share, with whom, for what reasons  
+3. We identify and stop the extraction and exploitation of Citizen Data by [[The Giants]]  
+4. We prohibit the use of Data or Information about a Citizen or Domain from being used to exploit, extract, oppress, deceive, or mislead in any way  
 ### Stewardship of Water 
 
 1. We recognize Water as a sacred healing and life-giving force that belongs to us All  
@@ -2031,6 +2058,31 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 1. We disempower corruption via radical truth, transparency, and accountability  
 2. With everything traceable and all parties visible, theft, corruption, exploitation, etc. becomes massively costly / risky / disincentivized 
 
+### Parasites and Pathogens 
+
+1. We recognize the harsh reality that there exists in the [[Living System]] we are a part of an array of [[Parasites and Pathogens]] that must be forthrightly dealt with    
+2. We recognize that biologically speaking, billions of humans are presently infected with parasites, including varies that affect mental and behavioral processes   
+3. Recognizing the infection of a significant percentage of the human population, we implement some form of a [[Baptism and Cleansing]] protocol as part of the journey [[FROM the Old TO the New]]  
+
+### Sociopathology 
+
+1. Socially speaking, we recognize the harsh reality that a reasonably significant percentage of the human species at present, perhaps 3% to 5%, is essentially sociopathic and willing to abuse, harm and prey upon others for their own narrow gain.    
+2. We recognize the harsh reality that sociopathic personalities are often disproportionately drawn to positions of religious and political authority.  
+3. We recognize that the way we have been conducting many of our religious and political institutions has been conducive to their corruption and infection by sociopaths and narcissists who are willing to abuse power and harm and exploit others for their own narrow gain. 
+4. We forthrightly develop protocols for addressing sociopathic behavioral patterns, and preserving the [[Proper Order]] of society.  
+5. We recognize, confront, disempower, and dissolve stealth siloes of parasitic dynamics that are killing life and our collective future. 
+
+### Chaos, Crime, and a Properly Ordered Society 
+
+1. We commit to uphold the [[Rule Of Law]] and reestablish a [[Properly Ordered]] society. 
+2. We recognize that an excess of either [[Chaos]] or [[Order]] leads towards [[Hell On Earth]], and that a [[Proper Balance]] among [[Apparent Polarities]] is key. 
+3. We recognize that 5% to 10% of individuals in many populations are responsible for over half of the [[Chaos, Crime, and Disorder]]  
+4. We recognize that 5% to 10% of [[Domains of Responsibility and Authority]] are often responsible for over half of the [[Chaos, Crime, and Disorder]]  
+5. We recognize that if we deal properly and forthrightly with the most sociopathic ~5% of the population, the next 10% most prone to follow the leadership of that ~5% can be pulled into the Light and reintegrated into a [[Properly Ordered]] society.  
+6. We develop a transformational paradigm of [[Restorative Justice]]  
+7. We [[Liberate]] the captives and those falsely incarcerated by [[Old Paradigm]] 
+8. We recognize the role that [[Mental Illness]] plays in [[Chaos, Crime, and Disorder]], and we ensure that those suffering from [[Mental Illness]] are treated with the requisite love, compassion, and care, while protecting them selves and society from harm. 
+9. We develop protective and meaningful pathways through life, especially for the first 30 years, for the few percentage of the population that are unwilling or unable to play by [[The Rules]] that enable us [[All]] to flourish in harmony.  
 ## The Giants 
 
 1. We map and analyze the impact of [[The Giants]] on Society and the Environment 
@@ -2044,13 +2096,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 8. We leverage our democratic voices to transform and leverage institutions towards the [[New Vision and Plan]]   
 9. Recognizing that a true accounting of the damage and destruction inflicted by [[The Giants]] upon humanity and the planet vastly outweighs their worth or potential to repay in a majority of cases, we progressively turn them over to a Receiver(s), cease all harmful operations, place all their [[High Science Technology]] into The Commons, liberate all their captives, and reassign all their economic, technological, scientific, and logistical might towards the regeneration and [[At-One-Ment]] of the world.
 
-## We Don't Sell Out - Designing and Building for Multi-Generational Ecosystemic Value Creation
 
-1. As we co-create [[Value]], systems, organizations, and structures, we stop selling out to [[The Giants]], private equity, etc.   
-2. We resist the urge of small groups to [[Abdicate Responsibility]], sell out and get rich at the expense of The Whole  
-3. We design and build for multi-generational, ecosystemic, federated co-creation of Value 
-4. We establish a System, Process, and Flow for connecting and integrating millions of non-profits, for-profits, and assets of various kinds into [[The Ecosystem]]   
-	1. [[List of Companies That Have Sold Out to The Giants]]
 ## Retrospection, Continuous Learning and Improvement 
 
 1. We review the last centuries and reexamine every aspect of [[Where We Are]] and [[How We Got Here]] - life, consciousness, air, water, soil, microbiome, food, shelter, education, wellness, opportunity, relationships, governance, society, economy, jobs, energy, transportation, culture, values, beliefs, etc. - every aspect of existence gets examined and brought into the Light    
