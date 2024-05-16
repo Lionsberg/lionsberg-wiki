@@ -1600,15 +1600,16 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 1. We launch the greatest [[Infrastructure]] joint venture in human history as an alternative to [[World War III]]  
 2. We invest in regenerative infrastructures  
-3. We create a planetary network of [[Instantiation Hubs]] that network together and cross-pollinate solutions to the [[General Needs, Issues, and Aspirations]] of all localities  
-4. We build to last with long term perspectives instead of planned obsolescence 
+3. Over the next 100 to 200 years, we reimagine, redesign, and rebuild the [[Built Environment]] in an entirely regenerative way that realigns the human species in service the [[Living System]] we are a part of and its Source. 
+4. We create a planetary network of [[Instantiation Hubs]] that network together and cross-pollinate solutions to the [[General Needs, Issues, and Aspirations]] of all localities  
+5. We build to last with long term perspectives instead of planned obsolescence 
 	1. Improves disaster preparedness / community resilience / economic stability / environmental stewardship  
-5. [[Lionsberg Energy System]]  
-6. [[Lionsberg Information System]]  
-7. [[Lionsberg Water System]]  
-8. [[Lionsberg Food System]]  
-9. [[Lionsberg Transportation System]]  
-10. [[Lionsberg Resource ReCirculation System]]  
+6. [[Lionsberg Energy System]]  
+7. [[Lionsberg Information System]]  
+8. [[Lionsberg Water System]]  
+9. [[Lionsberg Food System]]  
+10. [[Lionsberg Transportation System]]  
+11. [[Lionsberg Resource ReCirculation System]]  
 ### Energy 
 
 1. We empower the world with regenerative energy through: 
