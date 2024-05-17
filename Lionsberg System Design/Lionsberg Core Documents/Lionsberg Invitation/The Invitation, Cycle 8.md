@@ -1,13 +1,13 @@
 # # The Invitation, A Call To Action
 
-***Cycle 8, April 2024***
+***Cycle 8, Spring 2024***
 
 *For those who prefer speech / video to text, feel free to start with the video at the bottom of the page. It was unscripted and shot in a single take, please pardon the rough edges and dust as we co-create.* 
 
 If you get lost, simply [Join The Movement Here](https://jordannicholas.org/join_the_movement).  
 ### A Moment of Destiny
 
-Humanity is at a pivotal point in its Journey. The path we are collectively on isn't working. As we face into the [[Meta Crisis]], it is apparent that the systems, institutions, and ways of being that led us here can't carry us forward to [[The Future]] we dream of—a world filled with peace, justice, abundance, opportunity and freedom for our children and future generations. Despite our vast diversity, we share a common [[Vision]] for [[The Future We Seek]], and understand the [[Wisdom, Principles, and Values]] that must guide us there.
+Humanity is at a pivotal point in its Journey. The path we are collectively on isn't working. As we face into the [[Meta Crisis]], it is apparent that the systems, institutions, and ways of being that led us here can't carry us forward to [[The Future]] we dream of—a world filled with peace, love, justice, abundance, opportunity and freedom for our children and future generations. Despite our vast diversity, we share a common [[Vision]] for [[The Future We Seek]], and understand the [[Wisdom, Principles, and Values]] that must guide us there.
 
 ### The Dawn of a Movement
 
