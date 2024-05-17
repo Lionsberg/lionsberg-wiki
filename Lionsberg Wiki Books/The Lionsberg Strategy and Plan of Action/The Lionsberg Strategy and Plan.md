@@ -2,15 +2,17 @@
 
 *Updated April 2024*
 
-In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] in detail from various angles, in more detail. 
+In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] from various angles in more detail. 
 
 This shorter presentation aims to approach (the whole) from the lens of a unified strategy and plan to meet this moment in history. 
 
-It is intentionally designed to remain an eternally incomplete [[Work In Progress]], designed to be continuously improved by each individual and locality that joins [[The Quest]] towards [[The Goal]]. 
+It is designed to remain an eternally incomplete [[Work In Progress]] - a living document that is continuously improved as new co-creators join [[The Movement]] and bring their unique [[Puzzle Pieces]] to the banquet table. 
 
-It is an opening Future Story to hold the place for the Future Stories that will emerge from millions of groups, teams, and localities around the world. 
+It is an opening Vision to hold the place for the [[Future Stories]] that will emerge from millions of groups, teams, and localities around the world. 
 
-In fact, if you are reading this, you likely will discover that something is missing, and that you are holding a unique piece of [[The Divine Puzzle]]. Every time new [[Puzzle Pieces]] are discovered that fill in a [[Hole In Our Map]], we are elated. That is process of emergence and co-creation. 
+In fact, if you are reading this, you likely will discover that something is missing, and that you are holding a unique piece of [[The Divine Puzzle]]. Every time new [[Puzzle Pieces]] are discovered that fill in a [[Hole In Our Map]], we are elated. [[Every Defect Is A Gift]]. [[Like Gold Refined Seven Times]], eventually only what is most Wise, Right, True and Good will remain. 
+
+Our adventure into the [[Unknown]] is a process of emergence and co-creation. 
 
 ## Executive Summary  
 

@@ -204,8 +204,9 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 47. [[Scott Broomfield]] - via [[George Orbelian]]  
 48. Frank Dixon - via [[George Orbelian]] 
 49. Claudine Perlet - via [[Frank Dixon]]  
+50. Joshua Pang - via [[George Orbelian]]  
 
-### Emergent Partnerships 
+### Emergent Partnerships / Potentials 
 
 1. United Earth Networks 
 2. Buckminster Fuller Institute 
@@ -213,6 +214,10 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 4. Wholistic Haven 
 5. Earthrise Collective 
 6. Roots of the Earth 
+7. Open Future Coalition 
+8. World Water Council  
+9. The Production Co-Op 
+10. Whiskey Hill Farms  
 ## Invitation Pool 
 
 - Against the 21 additional co-creators required to complete Cycle 8 ([[Lionsberg Cycles of Growth]]), the [[Above The Chaos, April 2024 Above The Chaos Tour Findings|Above The Chaos Tour]] surfaced 70+ of the [[Wise Right People]] to invite in next, which expands the Invitation Pool out to ~130 qualified individuals already identified. 
