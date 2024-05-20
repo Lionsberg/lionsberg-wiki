@@ -8,9 +8,11 @@ It can be articulated in terms such as:
 
 _The total integrated wellbeing, development, and [[Right Relationship]] of [[All]] generations of Life and Consciousness._ 
 
-It is a [[Vision]] and [[Aim]] of [[Perfection]]; the [[Ideal]]. 
+It is a [[Vision]] and [[Aim]] of [[Perfection]]; the [[Ideal]]; the will and intention of the [[One]]. 
 
-Theologically, ultimately [[The Goal]] is [[God]] (transcendent / eternal / universal), or the Kingdom of God, on Earth as it is in Heaven (manifest / temporal / local). 
+At the [[Highest Level of Abstraction]], [[The Goal]] is Ultimately [[God]] (transcendent / eternal / universal), or a few [[Levels of Abstraction]] down, the Kingdom / Will / Intention of God, manifest here on Earth as it is in Heaven (manifest / temporal / local). 
+
+We are progressing towards [[Heaven On Earth]]. 
 
 ____
 The biggest single idea to grasp in [[Integrated Program Delivery]] is there is only [[One]] overarching and uniting [[Goal]] of the [[System]].

@@ -1,277 +1,32 @@
 # The Lionsberg Strategy and Plan
 
-*Updated April 2024*
-
-In the various [[Lionsberg Wiki Books]], we have circumambulated the [[New Vision and Plan]] from various angles in more detail. 
-
-This shorter presentation aims to approach (the whole) from the lens of a unified strategy and plan to meet this moment in history. 
-
-It is designed to remain an eternally incomplete [[Work In Progress]] - a living document that is continuously improved as new co-creators join [[The Movement]] and bring their unique [[Puzzle Pieces]] to the banquet table. 
-
-It is an opening Vision to hold the place for the [[Future Stories]] that will emerge from millions of groups, teams, and localities around the world. 
-
-In fact, if you are reading this, you likely will discover that something is missing, and that you are holding a unique piece of [[The Divine Puzzle]]. Every time new [[Puzzle Pieces]] are discovered that fill in a [[Hole In Our Map]], we are elated. [[Every Defect Is A Gift]]. [[Like Gold Refined Seven Times]], eventually only what is most Wise, Right, True and Good will remain. 
-
-Our adventure into the [[Unknown]] is a process of emergence and co-creation. 
-
-## Executive Summary  
-
-The Lionsberg Strategy and Plan centers around [[The Great Refounding]] of our civilization, via the progressive reinvitation and reorientation of humanity into a [[New Covenant]] of omniconsiderate right relationship with the Creator, One Another, and All Creation. We do not use these words lightly or in a elementary religious manner, but rather technically as Word Tools to point to the Manifest Universe / Nature / Living System and Society we are a part of, and its Transcendent Generative Source. 
-
-The basic strategy is to Move the entire human population, during the course of the [[10 Year Grand Strategy]], out of [[The Caves]] of the [[Old World]], from the omnicidal [[Old Paradigm]] and [[Old Pattern Language]] into a fully regenerative [[New Paradigm]] and [[New Pattern Language]]. 
-
-As we redesign, reimagine, and rebuild [[The New]] (Paradigm / Norms / Pattern Language / Way), we are simultaneously co-creating the infrastructure, pathways, and support to pave the Way and make [[The Quest]] [[FROM the Old TO the New]] as navigable as possible for [[All Humanity]], while ensuring that no one is [[Involuntarily Left Behind]]. 
-
-The Strategy and Plan includes: 
-1. **A New Story** (to reunite the narrative structure of human consciousness)  
-2. **A New Alliance / Federation** (to connect us across the lines that separated us in the past and provide equal Citizenship / Rights / Responsibilities in the New)  
-3. **A New Covenant** (to invite all humanity back into Right Relationship with the Creator and All Creation) 
-4. **A New Commons** (to gather up, integrate, and cohere our collective inheritance of wisdom, knowledge, information, data, resources, solutions, and technologies)
-5. **A New Human Operating System** (to connect, empower, and enable interoperability among the diverse array of individuals, groups, and localities as unique parts of One Body)   
-6. **A New Platform** (to make The Movement visible to itself, and provide equal access to The Commons for all participating citizens and localities)  
-7. **A New Infrastructure Network** (Georegional Hubs, Bioregional Hubs, Local Hubs, Community Hubs, Micro Hubs to decentralize and relocalize all pillars of life and society)  
-8. **A New Paradigm Tour** (to reach out and touch the hearts and minds of billions, and reach the First 3%)
-9. **Inviting, Connecting and Empowering The First 3% (~250 million leaders) by 2026** (To create the distributed leadership across ~50 million teams required to help humanity meet the needs, solve the problems, and accomplish the goals at hand in every domain and locality)   
-10. **Inviting, Connecting and Empowering All Humanity** (to create equal access and citizenship for All, and ensure no one is involuntarily left behind)  
-11. **3 Years of Healing, Reorientation, and Onboarding** (to prepare every individual and locality for full participation, belong, and co-creation in the New)  
-12. **Transforming our Weapons into Tools of Life** (to repurpose our militaries and high science technology FROM mutual destruction TO omniconsiderate co-creation)
-13. **The Greatest Celebration and Jubilee In History** (to celebrate success, reset debts, liberate the captives, restore ancestral lands, and usher in the New Era)
-
-**Timing**: We propose to accomplish this during the [[10 Year Grand Strategy]] that began March 1, 2024. We have established and are carefully managing a [[20 Year Generational Contingency]] to ensure completion within a single generation. 
-
-**Investment**: The entire program of action can be accomplished by simply redirecting ***already budgeted resource, energy, and attention  flows*** away from mutual destruction and [[Waste]]. Successfully completing this historic transformation requires that we progressively redirect about 1/2 of the planned $30 Trillion in military and defense spending throughout the course of the [[10 Year Grand Strategy]], while repurposing our militaries and [[High Science Technology]] from mutual destruction to mutual aid and co-creation in a wise and responsible manner. It further requires that we progressively redirect existing flows of governmental, philanthropic, and economic [[Waste]] towards Value Creating small teams advancing the [[Critical Path]] towards [[The Goal]]. 
-
-**Expected Returns**: The expected return on investment is essentially infinite, as expected returns dwarf any conceivable rate that could be used to discount them. Following the Jubilee and inauguration of equal citizenship in the New Covenant / New Era, every citizen on earth will have an equal interest and stake in the most valuable (federation, co-operative, "company", body) ever created, and will be able to enjoy a standard of living and quality of life better than anyone has enjoyed in the past. 
-
-**Working Capital**: Working capital will be aggregated through a continually re-optimized combination of [[Mission-And-Values-Aligned-Non-Recourse-Loans]], philanthropic capital, grants from public and private agencies, and profitability of for-profit federated organizations. Working capital will be scaled up from an initial $10 Million in 2024, to $100 Million in 2025, to $1 Billion + in 2026. 
-
-**Interest on Non-Recourse Loans and Capital**: [[Mission-And-Values-Aligned-Non-Recourse-Lenders]] and Capital Holders in The System will be paid a variable rate of return from 0% to 7% per year, depending on performance of The System as a Whole, as determined by Lionsberg Governance System. 
-
-***Welcome to the adventure and opportunity of a lifetime.*** 
-## If One and All Wills It To Be
-
-Any such plan to regenerate the world and co-create a flourishing and abundant [[New Era]] can only occur if [[One]] and [[All]] will and intend for it to be, and co-create the miracles along the Way. 
-
-As it has been said, *if God wills, we will live, and also (succeed in our plans).*
-
-## Our Highest Duty to One, All, Wisdom, and Truth 
-
-This New Vision, Strategy, and Plan is made as a humble offering in service of [[One]] and [[All]]. As illuminated in [[The Story of the Builder]], we expect that it contains many gaps and insufficiencies which will need to be remediated by unique gifts, talents, and experiences of those who join togethers as [[Lionsberg Co-Creators]]. In the [[Lionsberg System]], [[Every Defect Is A Gift]]. It would be a great relief if you could find and remedy as many errors and insufficiencies as possible. [[Like Gold Refined Seven Times]], eventually the [[Dross]] will be burned off and only that which approaches [[Wisdom]] and [[Truth]] in the eyes of [[One]] and [[All]] will remain. 
-
-## Uniting Aim and Goal
-
-Rooted in the [[Absolute And Unconditional Love]] of [[One]] for [[All]], the Uniting Aim and Goal of the New Vision, Strategy, and Plan is the total integrated wellbeing, development, and right relationship of [[All]] generations of life and consciousness. 
-
-This uniting [[Creator's Intent]] for [[Worksite Earth]] and Beyond fulfills the same role that the [[Designer's Intent]] plays on any worksite. 
-
-As the [[Old]] systems and structures fail, the Aim is move the entire population out of [[The Caves]] separating and imprisoning us, through [[The Wilderness]], and towards [[The Promised Land]] within a single generation, with no one [[Involuntarily Left Behind]]. 
-
-## What This Makes Possible 
-
-By reorganizing and reoptimizing our activity and way of being as a human species, ***every*** human being on Earth can enjoy a higher standard of living and quality of life than virtually ***any*** human enjoyed in the past. 
-
-Beyond this, our standard of living, quality of life, and planetary flourishing will continue to get [[A Little Better Every Day]] for ages to come as all creation works together in harmony to cause it to be so.  
-
-## What is at Stake if we Fail? 
-
-Because a house divided against itself cannot stand, the existing order has failed and is on the verge of [[Collapse]]. If the existing order collapses, there is a significant non-zero probability of the suffering and death of a significant portion of the inhabitants of Earth. 
-
-## A Historic Opportunity 
-
-When [[Complex Adaptive Systems]] have been pushed to the brink *but have not yet collapsed*, it remains possible for them to leap into a Higher Order State. For the first time in history, it is possible for humanity to forge a [[Higher Order Functional Unity]] capable of co-creating [[Heaven On Earth]]. 
-
-## Timing
-
-We aim to accomplish this transformative refounding as quickly as possible without harm or disadvantage to any. We are targeting a [[10 Year Grand Strategy]], backed by a [[20 Year Generational Contingency]].   
-
-## History and Inception 
-
-The [[New Vision and Plan]] are universal and eternal in nature and reflected in prophetic and visionary traditions around the world. 
-
-This incarnation was conceived by [[Jordan]] and an array of co-creators who brought together lifetimes of work to forge a vision, strategy, plan, and infrastructural and technological backbone to serve as an invitational starting point for humanity. 
-
-[[Jordan]] has been aware this moment was coming and attempting to prepare for it since as long as he can remember, and verbally since 10 or 12 years old. This led to a basic ethos of taking on as much responsibility as anyone would entrust him with, leading to a 25 year sprint that led from early entrepreneurial activity and service jobs, to building heavy civil infrastructure projects, portfolios of projects, companies that build projects, joint ventures that built projects too complex for any one company to tackle in isolation, multiple university and martial arts degrees, etc. 
-
-In ~2017, [[Jordan Nicholas Sukut]] began weekly discussions with advisors regarding an Omni-Considerate and Omni-Encompassing Vision, Strategy, and Plan to meet this moment in [[The Story]], and usher humanity safely into a [[New Era]]. The [[Lionsberg Summary]] provides links to more details and back story. We sometimes refer to this as the [[Meta Project]], encompassing [[Worksite Earth]] as a finite domain to be comprehensively regenerated and positively transformed within a single generation. 
-
-It took a nation 10 years to land a man on the moon. As of Spring 2024, we have now entered the [[10 Year Grand Strategy]] and have 10 years to land humanity and our planet on a safe trajectory towards a flourishing and abundant future for [[All]]. 
-
-## Context 
-
-At inception, the context was presumed to be a time of [[Meta Crisis]] in the 2020s, where the systems and existing order would shake and reorder in unprecedented ways. 
-
-It was presumed that the existing trajectory was towards [[Collapse]], but that *before* the existing order collapsed, there was a brief period of [[Time]] during which the [[Human System]] could potentially leap forward into some kind of Higher Order Functional Unity that would enable it to meet the needs, solve the problems, and accomplish the goals at hand. 
-
-## Scope of Work
-
-The scope of work inherently encompasses the entirety of the human species and [[Worksite Earth]] without exception, and the expansion of the human species beyond Earth into inter-planetary and eventually inter-stellar configurations over the next hundreds of millions of years prior to this star system becoming uninhabitable. 
-
-It involves inviting inviting all humanity, roughly [[10 Billion People In 10 Years]], to make their [[Way]] [[FROM the Old TO the New]], and take up an [[Equal Citizenship]] in a fully regenerating, flourishing, and abundant Future. 
-
-Accomplishing this while preventing the suffering and death of 2/3 to 3/4 of the human population requires that instead of stumbling headlong into an apocalyptic AI and Nuclear World War III / IV against [[One Another]] and our Planet (along with associated Civil Wars, Chaos, and Tyranny), we beat our [[Weapons Into Tools of Life]], work together, and reallocate our [[High Science Technology]] and $15 to $20 Trillion of the $30 Trillion+ of expected military expenditures over the next 10 years towards the greatest Joint Venture in human history, while fundamentally reorienting and realigning our Way of Being and Interacting as a human species aboard [[Worksite Earth]]. 
-
-This ~$15 Trillion of nominal resource reallocation to the [[New Vision and Plan]] enables humanity to gather up its [[Collective Inheritance]] into [[The Commons]], and co-create a backbone to equip and empower a decentralized array of the first 3% of the human population, organized into ~50 million connected and empowered small teams around the world, to poly-centrically prioritize, localize, and adapt the best solutions and technologies to meet the needs, solve the problems, and accomplish the goals and aspirations inherent in every community on Earth. 
-
-Additionally, it decentralizes and democratizes power, authority, opportunity, knowledge, and technology around the world, rendering war and involuntary migration obsolete, while ensuring that every tribe, tongue, and people has a free and secure place to call home. 
-
-Lastly, it reintegrates the human population in service of [[One Another]], All [[Life]], and its [[Generative Source]].  
-## Reintegration of the Human System and Living System 
-
-Encompassing [[All]] Creation, the strategy and plan calls for the reintegration of the [[Human System]] *in service of* the eternally regenerative [[Living System]], or Universe, it is a part of, and the [[One]] Source and Sustainer of All. 
-
-This requires that the [[Human System]] *itself* be transformed FROM [[Degenerative]] TO [[Regenerative]], empowered by a [[New Human Operating System]]. 
-
-The [[Lionsberg System]] was created to serve this purpose. 
-
-## Designer's Intent, and Creator's Intent
-
-Like any System or Project, Lionsberg is created *in service of* an Overarching and Uniting Intention, Vision, and Goal. 
-
-On any Worksite, this is legally and philosophically the notion of [[Designer's Intent]]. 
-
-For this [[Meta Project]] encompassing [[All Creation]], it is the notion of [[Creator's Intent]]. 
-
-By [[Creator]], we are referring to [[Ultimate Reality]], or what in English we often call [[God]]; the Generative Source and Sustainer of the [[Universe]] / [[Living System]] we are a part of.  
-
-## Patterns of Success, and a Pattern Language of Success
-
-The successful and proper co-operating of the human species in service of eternally regenerative Universe requires a shift in our Way, or Pattern, of Being. 
-
-A Way of being that remains consistent and modulates itself across Time and Space is perhaps best conceptualized as a set of [[Domain Independent]] Patterns, unified by a [[Central Animating Spirit]]. 
-
-Sets of Domain Independent Patterns are most coherently integrated and composed via a [[Pattern Language]]. 
-
-In this case, we are searching for the most Timeless and Universal [[Domain Independent]] [[Wisdom, Principles, and Values]] that *cause* people, families, communities, and ecosystems to succeed and flourish in harmony. 
-
- These [[Patterns of Success]] / [[Patterns of Life]] would be contrasted with their [[Antitheses]], which we could term [[Patterns of Failure]] / [[Patterns of Death]] - the most Timeless and Universal Domain Independent [[Anti-Wisdom]], [[Anti-Principles]], and [[Anti-Values]] that cause unnecessary pain, suffering, corruption, injustice, and death. 
-
-## Transforming the Human Pattern Language: FROM The Old, TO The New 
-
-Understanding that the [[Root Cause]] of the [[Meta Crisis]] is our way of being and doing as a human species aboard [[Worksite Earth]]...
-
-...and that our Way is something like a [[Pattern Language]]... 
-
-...we understand that the [[Meta Opportunity]] is to transform our [[Way]]...
-
-...[[FROM the Old TO the New]]...
-
-...so that Truth, Love, Justice, Stewardship, and Wisdom reign, [[On Earth As it Is In Heaven]]. 
-
-## Transforming Human Thought, Speech, and Behavior 
-
-We understand from centuries of spiritual work, coaching, and mentoring, and from decades of clinical psychology, that if you want to transform human behavior...
-
-...you can't begin by trying to transform human behavior. 
-
-Human behavior flows from a complex substructure, conscious, subconscious and unconscious. It rises primarily from below the level of conscious thought and understanding. It is deeply informed by [[Inter-Generational]] / ancestral programming and trauma that exists at deeply unconscious levels. 
-
-This means that it cannot readily be transformed from the exterior. 
-
-However we have also discovered that [[Genuine Transformation of Spirit and Consciousness]] *naturally* leads to the manifestation of entirely New Patterns of thought, speech, and action, and that even highly intractable patterns of negative conduct can suddenly pass away. 
-
-We further have come to understand that the deep human desire for belonging can drive people to cling to, or shift, Patterns of Speech and Behavior in response to Cultural [[Norms]] and [[Values]]. 
-
-This leads to an understanding of a three part basic process: 
-
-1. [[Genuine Transformation of Spirit and Consciousness]]  
-2. [[Progressive Articulation]] of the [[New Norms and Values]]  
-3. Co-Creation of the [[Path]], infrastructure, and bridges that pave the Way for the Common Transformative Journey - [[FROM the Old TO the New]]  
-
-## No One Involuntarily Left Behind 
-
-From the standpoint of Creator's Intent and Love, the desire is for no one to perish, suffer, or be involuntarily left behind. 
-
-From the standpoint of an interexistent crisis of crises / [[Meta Crisis]], we understand that only a widespread, *nearly universal* shift in our Way of being can prevent [[Collapse]]. 
-
-From the standpoint of the Living System, we understand that the Energetics, Air, Water, and Microbiome are all interconnected and globally flowing, such that what we do to the energy, air, water, soil and microbiome in any area, we do to the Manifest Spirit of the Creator and All Creation. 
-
-## A Universal Movement
-
-And so we end up with the grand challenge: 
-
-*How do we **Move** the **Whole Population***?
-
-[[FROM]] the degenerative omnicidal patterns of failure and death that define and are destroying the [[Old World]]... 
-
-[[TO]] the regenerative patterns of success and life that define the [[New World]] we are being invited to continually Co-Create in partnership with the Creator and All Creation? 
-
-The highest desire for everyone to find their [[Way]] to the [[New World]], with no one [[Involuntarily Left Behind]]. 
-
-## A Tipping Point Strategy Led By Transforming Consciousness and Cultural Norms
-
-The core of the Lionsberg Strategy is therefore a tipping point strategy, led by the [[Genuine Transformation of Spirit and Consciousness]] and the fractal adoption of the [[New Norms and Values]], leading to the ongoing regeneration and Co-Creation of the [[New World]]. 
-
-The first part involves Co-Creating the [[Environment]], [[Conditions]], Infrastructure and [[Experience]] to enable the transformation of Consciousness, the embodiment of the [[New Norms and Values]], and the co-creation of the [[New]]. 
-
-It also requires to co-creation of [[New Story]] big enough to encompass and unite us [[All]]. 
-
-This was the purpose of [[The 7 Year Window of Preparatory Work and Learning]].  
-
-The second part involves awakening and uniting humanity for the opportunity and adventure of a lifetime - the Epic Quest to depart from [[The Caves]] of the [[Old World]], progress through [[The Wilderness]] that always separates the [[Old]] form the [[New]], and Co-Create the [[New World]] / [[The Promised Land]]. 
-
-This involves reimagining, redesigning, rebuilding, and continuously improving the [[New Norms and Values]] - the [[New Pattern Language]] - we are Progressing Towards. 
-
-This second phase composes the [[10 Year Grand Strategy]] that began Spring 2024, during which [[10 Billion People In 10 Years]] will be invited to progress [[FROM the Old TO the New]], and take up their [[New Citizenship]] in the [[New World]] we are co-creating in partnership with [[One]] and [[All]].  
-
-## Pathways, Bridges, and Infrastructure 
-
-Recognizing that billions of Citizens are going to need to undertake [[The Quest]] [[FROM the Old TO the New]], the need to invest heavily in the Pathways, Bridges, and Infrastructure that mark the Way becomes self-evident. 
-
-The heart of Love desires to make it as easy as possible for every family and tribe to make the journey. 
-
-## The Story - The Quest Towards The Goal of Greatest Worth 
-
-Our [[Current Best Understanding]] is that 1) Consciousness lays fundamentally lays itself out according to a [[Narrative Framework]], and 2) A Story is the only vessel capable of holding something with the sheer scope and complexity of what we are contemplating, in a Way that can be eternally passed on through subsequent generations. 
-
-The concept of archetypical stories that both fit and shape human consciousness is deeply rooted in the study of mythology, psychology, and literature. These stories, often referred to as archetypes, are patterns or motifs that recur across cultures and time periods, reflecting universal elements of the human experience. They resonate because they reflect fundamental aspects of the human journey, our struggles, dreams, fears, and desires. 
-
-Some of the most prominent archetypical stories that have been identified include:
-
-1. **The Hero's Journey**: Perhaps the most well-known archetype, this pattern describes a cycle where a hero ventures out from the ordinary world into an Unknown region of supernatural wonder, encounters fabulous forces, wins a decisive victory, and then returns from this mysterious adventure with the power to bestow boons on their fellow man. This journey can be seen in stories ranging from ancient myths like Gilgamesh, to modern tales such as "The Lord of the Rings" or "Star Wars."
-    
-2. **The Quest**: This archetype involves a search for something valuable, whether it be a tangible object, knowledge, or personal transformation. The quest narrative drives the protagonist and often a group of companions through a series of challenges and adventures towards a significant goal or destination.
-    
-3. **The Transformation or Metamorphosis**: This theme revolves around the profound change or transformation of the main character(s), often involving a descent into darkness or chaos and emerging renewed or reborn. This can be seen in religious narratives like the death and resurrection of Christ, or literary works like Kafka’s "The Metamorphosis."
-    
-4. **The Initiation**: This archetype represents a coming-of-age story where the protagonist undergoes trials or a series of tests to transition from one phase of life to another, often from adolescence into adulthood. This can include physical, mental, or spiritual challenges.
-    
-5. **The Fall**: This narrative archetype involves a descent from a higher to a lower state of being, characterized by the loss of innocence, grace, or status. It often explores themes of temptation, sin, and the potential for redemption.
-    
-6. **The Battle Between Good and Evil**: This universal theme portrays the conflict between the forces of good and the forces of evil, often with the fate of the world in balance. It is a reflection of the moral and ethical struggles within human nature and society.
-
-The Lionsberg Strategy embraces this understanding by contextualizing [[The Quest]] towards [[The Goal]] within an archetypical [[Narrative Universe]] designed to unfold as a [[Story of Stories]] as [[The Movement]] progresses. 
-
-## Timing - The 10 Year Grand Strategy
-
-[[We Do Not Know]], however our [[Current Best Understanding]] is that this decade, and perhaps the progress made in the next 24 months, will determine whether we succeed or fail on our quest. The Lionsberg Strategy calls for us to [[Act As If]] that were true. 
-
-The Strategy and Plan designates a series of milestones across time: 
-
-#### All prehistory 
-
-#### -1,000 BC to 1800 AD
-
-#### 1800 to 1900 
-
-#### 1900 to 1960s 
-
-#### 1970s to 2010s 
-
-#### [[The 7 Year Window of Preparatory Work and Learning]] (2017 to 2023) 
-
-### The [[10 Year Grand Strategy]]   
-
-#### The 90 Day Sprint (2024)
-
-#### 3 Years, 3% (2024 to 2026) 
-
-#### [[The 7 Year Window of Crisis and Opportunity]]
-
-#### The Trailing Three Year Reorientation, Regeneration, and Relearning  
-
-#### The 20 Year Generational Contingency 
-
-#### The New Millennium and Beyond 
+*Updated May 2024*
+
+*This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*
+
+[[1. Introduction to the Lionsberg Strategy and Plan]]  
+[[2. Executive Summary]] 
+[[3. If One and All Will It to Be]]  
+[[4. Our Highest Duty to One, All, Wisdom, and Truth]]  
+[[5. Our Overarching and Uniting Aim and Goal]]  
+[[6. What Is At Stake If We Fail]]  
+[[7. A Historic Opportunity]]  
+[[8. Timing]]  
+[[9. History and Inception]]  
+[[10. Planetary Context]]  
+[[11. Scope of Work]]  
+[[12. Reintegration of the Human System and Living System]] 
+[[13. Designer's Intent and Creator's Intent]] 
+[[14. Patterns of Success, and a Pattern Language of Success]]  
+[[15. Transforming the Human Pattern Language - FROM The Old, TO The New]]  
+[[16. Transforming Human Consciousness, Thought, Speech, Behavior]]  
+[[17. A Universal Movement]]  
+[[18. No One Involuntarily Left Behind]]  
+[[19. None Of Us Until All Of Us]]  
+[[20. A Tipping Point Strategy Led By Transforming Consciousness and Cultural Norms]]  
+[[21. Pathways, Bridges, and Infrastructure]] 
+[[22. The Story - The Quest Towards The Goal of Greatest Worth]]  
+[[23. How Much Time Do We Have?]]  
 
 ## Work Breakdown Structure - The 12 Pillars
 

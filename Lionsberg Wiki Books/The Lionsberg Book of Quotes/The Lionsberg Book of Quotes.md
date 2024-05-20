@@ -366,3 +366,6 @@ God is love, and he that abideth in love abideth in God, and God abideth in him.
 
 "Amongst other grand strategies for making the world work and taking care of everybody is the design science revolution of providing ever more effective tools and services with ever less, real resource investment per each unit of end performance. For instance, a communications satellite, weighing only one-quarter of a ton, is now out-performing the transoceanic communication capabilities of 175 thousand tons of copper cable." - [[Buckminster Fuller]]  
 
+“This is what man tends to call utopia. It's a fairly small word, but inadequate to describe the extraordinary new freedom of man in a new relationship to the universe – the alternative of which is oblivion.” - [[Buckminster Fuller]]  
+
+“Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment…. Humanity is in a final exam as to whether or not it qualifies for continuance in the Universe” - [[Buckminster Fuller]]  
