@@ -27,32 +27,12 @@
 [[21. Pathways, Bridges, and Infrastructure]] 
 [[22. The Story - The Quest Towards The Goal of Greatest Worth]]  
 [[23. How Much Time Do We Have?]]  
+[[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World]]  
+[[25. The Art and Science of Co-Creation]]  
+[[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]   
+[[27. We Have a Lot of Work to Do]]  
 
-## Work Breakdown Structure - The 12 Pillars
 
-[[The Quest]] towards [[The Goal]] involves [[Co-Creating The New]]. We must co-create and continuously improve [[The Promised Land]].  
-
-We start with the [[Overarching and Uniting]] notion of [[Creator's Intent]] for [[Worksite Earth]]. 
-
-We then begin to build out our [[Plans and Specifications]] for the [[New World]] we are Co-Creating. 
-
-This necessitates identifying the primary [[Features of Work]] via a [[Work Breakdown Structure]]. 
-
-The first level of the Lionsberg Work Breakdown Structure is [[The 12 Pillars of Lionsberg]]. 
-
-![[The 12 Pillars of Lionsberg]]
-
-Around each of The 12 Pillars, [[Citizen Led Joint Ventures]] are designed to be formed, which in turn connect and empower a distributed array of millions of [[Teams]] that compose the [[Team of Teams]].  
-
-The [[Citizen Led Joint Ventures]], and the decentralized array of small [[Teams]] they empower, are connected and empowered themselves by the core elements of the Lionsberg System and Commons, that address the [[General Issues]] that each of them, and all the [[Teams]] they support, face. 
-
-## This Much Work Requires a System
-
-### We Have Work To Do
-
-Awakening, inspiring, uniting, and moving [[All Humanity]] FROM the [[Old]], to the [[New]] we are co-creating, in a single generation, is a lot of work. 
-
-It represents the greatest joint venture in human history, requiring  trillions of dollars and hours of coordinated flow across the entire human species. 
 ### This Much Work Requires a Purpose-Built System 
 
 Even the simple work we have learned to do our past, like co-creating bridges, roadways, and cathedrals, requires a basic System of Work. 

@@ -1,8 +1,8 @@
 # Provisional Structure 
 
-For more information on the inception of the Lionsberg | Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
+For more information on the inception of the Lionsberg / Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
-Simply, it is designed and built as a [[New Human Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the Creator and All Creation.  
+Simply, it is designed and built as a [[New Human Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the [[One]] and [[All]].  
 
 Here is a 30 minute introductory discussion:
 
@@ -11,29 +11,33 @@ Here is a 30 minute introductory discussion:
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts: 
-1. At the deepest level, [[Lionsberg]] and the [[Meta Project]] are reflections of the Highest Order Spirit /  [[Meta Idea]] we are working to progressively realize.  
-2. One level up from the overarching and uniting Spirit / [[Meta Idea]] is the voluntary association of individuals around the world working together towards this end.  
-3. One level up from individuals are those individuals, teams, and groups actively Organizing, [[Federating]], Helping One Another, and continuously improving and enriching [[The Commons]] of shared tools, resources, and relationships.    
-4. The [[Lionsberg Manifesto]], [[Lionsberg Constitution]] and other foundational writings such as the [[Lionsberg Wiki Books]] help hold the space for this higher order, omniconsiderate, covenantal relationship among all Citizens of goodwill. 
-5. The Lionsberg System has been designed to empower all human beings to voluntarily take up an equal Citizenship in the New Era we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
+1. At the deepest level, [[Lionsberg]] exists as a Spiritual Body, co-creating in service of [[One]] and [[All]]; the [[Creator]] and [[All Creation]].  
+2. The [[Meta Project]] and [[The Grand Collaboration]] are examples of [[Word Tools]] that point towards the overarching and uniting spiritual and moral imperative to [[Progressively Realize]] ([[Creator's Intent]] / [[Heaven On Earth]]).  
+3. One level up from the overarching and uniting Spirit / Intention / Goal is the overarching and uniting [[Voluntary Association]] of individuals around the world co-operating together towards [[The Goal]] - we often simply refer to this as [[Lionsberg]], or [[The Lionsberg Alliance]]. 
+	1. This [[Association of Associations]] is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion. While transcending legal categorization *inherently and by definition*, it is tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]]. 
+4. One level up from individuals are [[Sovereign]] and  [[Autonomous]] [[Teams]], [[Groups]], and [[Communities]]. Each is considered a [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]] by default unless otherwise organized and differentiated.     
+5. The [[Lionsberg Manifesto]], [[Lionsberg Constitution]] and other foundational writings such as the [[Lionsberg Wiki Books]] help hold the space for this higher order, omniconsiderate, covenantal relationship among Citizens of goodwill. 
+6. The Lionsberg System is designed to invite and empower each human to voluntarily take up an equal [[New Citizenship]] in the [[New Association]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 
-_All of the levels above happen before any legal structure, and exist purely on the basis of voluntary collaboration, culture, social structure, and governance structure. This is critical to protect the Sovereignty and Independence of the [[Meta Idea]] and the Individuals collaborating, and ensure that there is no Central Node or Dependency, that if attacked or compromised, can bring down the Whole. All structural elements are merely tools and supports for the Sovereignties co-operating them_. 
+_All of the levels above happen before any legal structure, and exist purely on the basis of Spiritual Unity and voluntary association, collaboration, culture, social structure, and governance structure. This transcendent understanding of our Divine Right and Responsibility to Self-Organize and Self-Govern as a Tribe of Tribes / Group of Groups is critical to protect the Sovereignty and Independence of the Individuals collaborating, and ensure that there is no overly-centralized node or dependency, that if attacked or compromised, can bring down the Whole. All following and future structural elements are merely tools and supports for the Sovereignties co-operating them_. 
 
-6. From time to time, in various domains, [[Lionsberg]] will need to instantiate various forms of legal infrastructure to interface with the various existing systems around the world, and accomplish its various goals.  
-7. Drawing on examples such as Mondragon and the United States, these legal instantiations will be blended ecosystems / federations of all the for-profit and non-profit entities required for a given bioregion / locality to flourish.  
-8. [[The Lionsberg Strategy and Plan]] calls for the co-creation of ~100,000 local socioeconomic federations / ecosystems, each serving ~100,000 citizens, and co-operating around a shared Commons and New Operating System that enables ecosystemic resource and knowledge flows across the Federation.   
-9. To support the emergence of these federations, [[The Lionsberg Strategy and Plan]] calls for reallocating ~2/3 of the $30 Trillion in planned military and defense expenditures during the 10 Year Grand Strategy to instead co-create  ~12 to 24 [[Georegional Hubs]], 150 to 200 [[Bioregional Hubs]], ~100,000 [[Local Hubs]], and ~1,000,000 [[Community Hubs]].  
-10. Each fractal hub, commons, organization, and federation will be [[Self-Governing, Self-Sustaining, and Self-Replicating]], and will choose its own locally and culturally appropriate legal instances that most faithfully reflect the Vision, Principles, and Values in that specific domain. 
-11. The diagram below illustrates the configuration of the first set of legal instantiations. The core infrastructure elements are already in existence. These include the red boxes (related to the non-profit) and the dark blue boxes (related to for-profit entities stewarded In Common).  
-12. This first provisional structure was designed and built to enable the first substantial ecosystemic resource flows, through which the full ecosystem can emerge during the 10 Year Grand Strategy.   
-13. The Community will need to establish and federate conceptually similar structures polycentrically around the world, and connect those structures together at the mycelial level to allow for the free exchange of resources and information between all fractal levels and localities. 
-14. It is anticipated that there may ultimately be 12 to 24 Regional Hubs, that in turn support a decentralized array of hundreds of self-sustaining bioregional hubs, that in turn support tens of thousands of localities, and approximately 1 million communities of ~10,000 Citizens each that embrace the Whole of the human family. 
+7. From time to time, in the various [[SpatioTemporal Domains]] of this planet and beyond, [[Lionsberg]] will instantiate various forms of legal and governance infrastructure to interface with the various existing political systems, and accomplish its various goals.  
+8. Drawing on examples such as Mondragon and the United States, these legal instantiations will be blended ecosystems / federations of the for-profit and non-profit entities required for each bioregion / locality to flourish.  
+9. To support this emergence, [[The Lionsberg Strategy and Plan]] calls for the co-creation of ~100,000 local socioeconomic federations / ecosystems, each serving ~100,000 citizens, and co-operating around [[The Commons]] and the [[New Human Operating System]], enabling ecosystemic resource and knowledge flows across the Federation.  
+10. These local ecosystems will self-organize and federate into self-governing [[Bioregions]], which in turn will self-organize and federate into [[Georegions]] and then up into The Whole.  
+11. To support the emergence of these federations, [[The Lionsberg Strategy and Plan]] calls for reallocating ~2/3 of the $30 Trillion in planned military and defense expenditures during the [[10 Year Grand Strategy]] to instead co-create an interlinked network of [[Lionsberg Instantiation Hubs]]: 
+	1. ~12 to 24 [[Georegional Hubs]]
+	2. ~150 to 200 [[Bioregional Hubs]]  
+	3. ~100,000 [[Local Hubs]]  
+	4. ~1,000,000 [[Community Hubs]]    
+12. Each fractal hub, commons, organization, and federation will be [[Self-Governing, Self-Sustaining, and Self-Replicating]], and will choose its own locally and culturally appropriate legal instances that most faithfully reflect the Vision, Principles, and Values in that specific domain. Each of these will be considered by default a [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]] unless otherwise self-organized.  
+13. The diagram below illustrates the configuration of the first legal instantiation planted in the United States to support the emergence of [[The Federation]]. 
+14. This provisional structure was designed and built to enable the first substantial ecosystemic resource flows around the world, through which the full ecosystem will emerge and instantiate itself in all localities that voluntarily so choose during the [[10 Year Grand Strategy]] and Beyond.   
+15. The Community will establish and federate conceptually similar yet culturally-and-contextually-appropriate structures polycentrically around the planet, connected together at the mycelial level to allow for the [[Voluntary Exchange]] of resources, information, and ideas between all fractal levels and localities. 
 
-This is a starting point and [[Prototype]] for [[Continuous Improvement]].  
+This structure is designed for [[Rapid Prototyping]] and  [[Continuous Improvement]].  
 
-The [[Lionsberg System]] is designed to work as a Whole - as One Body. This structure is purpose-built to protect the DNA, Processes, and [[Pattern Language]] of the Golden Seed that spreads around the world and brings our shared Intention into Reality. 
-
-See [[Lionsberg System]] for other elements beyond the [[Provisional Structure]].  
+The [[Lionsberg System]] is designed to enable [[The Whole]] to co-operate as [[One Body]]. The [[Provisional Structure]] is purpose-built to protect the DNA, Processes, and [[Pattern Language]] of the Golden Seed / Divine Blueprints. 
 
 For summarized learnings from Mondragon that helped inform key elements of the conceptual structure and design, see [[The Prophesy of Mondragon]]. 
 
