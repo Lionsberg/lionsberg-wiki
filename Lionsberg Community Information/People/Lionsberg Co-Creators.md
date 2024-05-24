@@ -285,7 +285,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 55. [[Sadie Adams]] - World Systems Solutions - https://wssnow.org/about/board-of-directors/ - via [[George Orbelian]]  
 56. [[Michael Irish]] - Sedo Gravitas - https://www.linkedin.com/in/michael-irish-02451b1/  
 57. [[James Canton]] - via [[George Orbelian]]  
-58. [[Yaro Kramer]] - via [[Scott Broomfield]] and [[Yanik Silver]]  
+58. (Redundant) 
 59. [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day Waterbury]]'s invitation to conference  
 60. [[Hael Kobayashi]] - via [[George Orbelian]] - https://www.linkedin.com/in/hael-kobayashi/  
 61. [[Kris M]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
