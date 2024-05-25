@@ -18,13 +18,13 @@ The [[Lionsberg Co-Creators]] page shows who is involved.
 
 The [[Lionsberg Cycles of Growth]] page charts the growth of [[The Movement]].  
 
+The [[The Lionsberg System of Values]] articulates the Spirit and Values that guide us.  
+
 [[The Lionsberg Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
 
 The [[Lionsberg Constitution]] lays the foundations for governance.   
 
 The [[Provisional Structure]] establishes a shared legal and governance framework and commons.  
-
-The [[The Lionsberg System of Values]] articulates the Spirit and Values that guide us.  
 
 The [[Lionsberg Resource Runway]] provides a basic look at the resources required to catalyze and sustain [[The Movement]].  
 
