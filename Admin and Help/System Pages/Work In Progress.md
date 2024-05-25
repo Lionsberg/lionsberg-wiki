@@ -9,3 +9,9 @@ Expect changes, and big ones! Expect unfinished links, untied loose ends, gaps i
 For now, think of this as a joining an unfolding effort to design and build a [[City on a Hill]]. Pardon our dust, and don't forget your boots and hard hat. 
 
 To join us on this transformative Quest, read the [[Lionsberg Manifesto]], fill out the [[Manifesto Response Form]], and [[Join The Platform]]. 
+
+[[Like Gold Refined Seven Times]], eventually the best and most pure will emerge as the [[Dross]] is burned away. 
+
+All that is [[Dross]] can be attributed to [[Jordan Nicholas Sukut]]. 
+
+All that is [[Wise, Right, and True]] can be attributed to [[One]], [[All]], and the emergent network of co-creators. 
