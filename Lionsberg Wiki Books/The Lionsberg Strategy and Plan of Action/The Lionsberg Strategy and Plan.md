@@ -31,46 +31,12 @@
 [[25. The Art and Science of Co-Creation]]  
 [[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]   
 [[27. We Have a Lot of Work to Do]]   
+[[28.  This Much Work Requires a Purpose-Built System]] 
+[[29. A New System of Systems]]  
+[[30. Unified by The Goal]]  
+[[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]] 
 
-
-### This Much Work Requires a Purpose-Built System 
-
-Even the simple work we have learned to do our past, like co-creating bridges, roadways, and cathedrals, requires a basic System of Work. 
-
-An unprecedented [[Meta Project]] will required an unprecedented System and Approach, purpose-built to produce [[Throughput]] of [[The Goal]]. 
-### The System of Systems
-
-In this case, what is called forth is an entire System of Systems; in effect, a [[New Human Operating System]]. 
-
-The [[New Human Operating System]] must be composed of interoperable sub-systems that address each of [[The 12 Pillars of Lionsberg]], while integrating itself within the interoperable super-systems of Nature that compose the [[Living System]] we are part of. 
-### The System Must Be Unified by The Goal 
-
-The entire [[System of Systems]] must be integrated and cohered into [[Highest Order Functional Unity]] by [[The Goal]] of the [[One]] that unites us [[All]]. 
-
-For the first time in history, this will enable us to measure progress and allocate resources collectively towards the [[Critical Path]] / [[Critical Chain]]. 
-
-### The System Must Be Conceptually Universal and Eternal, and Fractally Localizable, Adaptable, and Implementable  
-
-The [[New Human Operating System]] must also be conceptually universal and eternal, while also fractally localizable and implementable, so that it can be localized, adapted, and instantiated poly-centrically and interoperably, across all [[Levels of Analysis]] both within our current planet, and beyond it. 
-
-- Individual  
-- Family  
-- Team  
-- Organization  
-- Federation  
-- Community  
-- Watershed  
-- Tribe  
-- Bioregion  
-- Region  
-- Planet  
-- Star System  
-- Interstellar System  
-- etc. etc. 
-
-For those who have not thought beyond the limits of their locality or planet, the idea of an operating system designed and built to co-operate across millions of years and countless planets and star systems may seem far fetched or incredible. However it is suicidal not to think of the long term - we know that this star system will become uninhabitable in just a few short galactic years (a galactic year is 230,000,000 years, the amount of time it takes the sun to orbit the Black Hole at the center of the Milky Way). Beyond that known natural end point, numerous [[Existential Threats]] could conceivably set back the experiment of Life and Consciousness aboard Earth by millions, hundreds of millions, or billions of years (degeneration, nuclear war, AI, asteroids, pandemics, etc.). 
-
-Because the [[Creator's Intent]] is Omniconsiderate, Universal, and Eternal, so too must our thinking become about how to Progressively Realize The Goal. 
+(The sections below are being gradually folded into the emergent table of contents above)
 ### Waste, Value, and Throughput of The Goal 
 
 The co-creation of a conceptually unified System purpose-built to [[Progressively Realize]] the [[The Goal]] ([[Creator's Intent]] / [[On Earth As it Is In Heaven]]), enables us to technically redefine our understanding of [[Waste]] and [[Value]] relative to [[The Goal]] we are co-operating in pursuit of. 

@@ -74,7 +74,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 - [[Yaro Kramer]] - via [[Scott Broomfield]] and [[Yanik Silver]]  
 - [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day Waterbury]]'s invitation to conference  
 - [[Hael Kobayashi]] - via [[George Orbelian]] - https://www.linkedin.com/in/hael-kobayashi/  
-- [[Kris M]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
+- [[Kris Messdaghi]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
 - [[Bill Reed]] - via [[George Orbelian]] - https://regenesisgroup.com/team/bill-reed 
 - [[Stephen Gomes]] - Kinship Earth Flow Fund - continuation of [[Marion Rockefeller Weber]]'s flow fund
 	- Hanman Lou? - working in china town documenting 30 years of flow fund - most detailed knowledge of data surfaces when analyzing people [[Susan Davis Moora]] funded… independent thinkers - /“see what needs to be done and get going
