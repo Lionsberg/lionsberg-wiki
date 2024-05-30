@@ -4,4 +4,4 @@ Lionsberg is structured as a transcendent, self-governing voluntary association 
 
 Its participants incarnate and federate appropriate structures in each time and place as necessary to [[Progress]] along the [[Critical Path]] towards [[The Goal]]. 
 
-The first structure was the [[Provisional Structure]] instantiated in the United States to enable hybrid ecosystemic resource flows. 
+The [[Provisional Structure]] was initially instantiated in the United States to facilitate emergence and enable hybrid ecosystemic resource flows. 

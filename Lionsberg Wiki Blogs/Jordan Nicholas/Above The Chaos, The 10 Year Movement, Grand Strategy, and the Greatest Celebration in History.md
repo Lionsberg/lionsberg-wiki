@@ -1,6 +1,6 @@
 # Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History 
 
-By [[Jordan Nicholas Sukut]], 2024.04.24 _(updated 2024.04.24)_  
+By [[Jordan Nicholas Sukut]], 2024.04.24 _(updated 2024.05.30)_  
 
 A post in [[Above The Chaos]]  
 
@@ -63,17 +63,27 @@ We are in dialogue about a future of education and lifelong learning that can be
 ___
 Which brings us to looking ahead towards planning the greatest Celebration and Jubilee in human history no later the Spring Equinox of 2024 to celebrate the completion of the [[10 Year Grand Strategy]], as we usher in the [[New Era]]. 
 ____
-It has been just 7 weeks since we called the end to the [[The 7 Year Window of Preparatory Work and Learning]], and began to execute the [[10 Year Grand Strategy]]. 
-
-After just [[Lionsberg Cycles of Growth|7 Cycles of Growth]], we are now ahead of schedule, and it already appears that anything is possible. 
-
-If we can complete [[Lionsberg Cycles of Growth|Cycles 8 and 9]] over the next couple weeks, we will have connected the Wise Right First Millionth of the human population, decentralized the discernment and invitational process, and be well on our Way. 
-
-Just imagine the gifts, talents, and relationships that the next hundred co-creators will bring to the banquet table. 
 
 Standing together, in Unity, as [[One Body]], All Good Things Become Possible. 
 
 We can now see that we are not alone, and that lifetimes of work and preparation from individuals around the world can coalesce into possibility and potential beyond our wildest dreams. None of us can do this in isolation. It is time to arise and unite, as One. 
+
+## Timing  
+
+1. Last 7 years: governance, legal, systems, technology, and network foundations; tech testing with ~400+ groups in ~50+ countries.  
+2. March to June 2024: Complete the first 8 to 10 [[Lionsberg Cycles of Growth]], identifying and onboarding the first 55 to 144 [[Lionsberg Co-Creators]].  
+3. June: Respond to the Kogi and other first nations with [[The Lionsberg Strategy and Plan]] to heal and generate society and the earth. 
+4. Early July: Convene the first [[Quarterly Summit]]; 10 to 30 individuals sync on the [[10 Year Grand Strategy]], initiate the [[System Wide Master Planning Process]], and pull-plan Q3 objectives 
+5. July – September: Complete the next several cycles of growth, identifying and orienting representatives from each bioregion and critical domain, and forging a functioning cabinet / executive function prior to the first [[Lionsberg General Assembly]] in late September. 
+	1. Cycle 11: 233 Co-Creators  
+	2. Cycle 12: 377 Co-Creators  
+	3. Cycle 13: 610 Co-Creators  
+	4. Cycle 14: 987 Co-Creators (0.00001%)   
+	5. Cycle 15: 1,597 Co-Creators  
+6. Late September: First General Assembly, ~ 140 to 400 representatives from bioregions / tribes / nations. Ratify [[The Grand Strategy]] and [[The Governance System]] for [[The Grand Collaboration]]  
+7. October: Massive planetary scale outreach / awareness (Rick Lukens et al, drawing on Live Aid for inspiration) 
+8. November: Sweep an independent candidate, cabinet, and aligned governors into office in the US. Write in candidate with front and back end citizen-led auditing / quality assurance process.    
+9. 2025 and beyond – 10 year grand strategy to heal and regenerate society and the planet. If one of “Us” is in the executive function in the US, it makes the path a LOT easier. And it is entirely possible.
 
 ## Everyone's Most Important Job 
 

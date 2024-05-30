@@ -1,6 +1,8 @@
 # Join The Movement
 
-Joining the Lionsberg movement is an opportunity to become part of a global network of individuals, groups, and organizations committed to co-creating a regenerative, just, and flourishing world for [[All]]. Here are some ways to get involved:
+To join us for the adventure and opportunity of a lifetime, visit Jordan's website and [Join The Movement](https://jordannicholas.org/join_the_movement).  
+
+Joining [[The Movement]] is an opportunity to become part of a global network of individuals, groups, and organizations committed to co-creating a regenerative, just, and flourishing world for [[All]]. Here are some ways to get involved:
 
 1.  **Forge or Join a Group:** Join an existing Lionsberg group in your community or area of passion, or start your own starting with the [[Forge or Join a Group]] page. Connect with like-minded individuals and work together to tackle [[Meaningful Conversations and Quests]] to confront and overcome the Meta Crisis and forge the Best Possible Future in your local area and areas of expertise.
     

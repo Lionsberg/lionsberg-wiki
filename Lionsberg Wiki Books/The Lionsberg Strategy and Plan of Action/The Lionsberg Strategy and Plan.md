@@ -34,7 +34,7 @@
 [[28.  This Much Work Requires a Purpose-Built System]] 
 [[29. A New System of Systems]]  
 [[30. Unified by The Goal]]  
-[[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]] 
+[[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]]   
 
 (The sections below are being gradually folded into the emergent table of contents above)
 ### Waste, Value, and Throughput of The Goal 

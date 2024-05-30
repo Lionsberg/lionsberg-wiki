@@ -4,4 +4,4 @@ For more information on the Lionsberg System and Approach, see:
 
 - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]], particularly Chapter 13 
-- [[Lionsberg System]]  
+- [[The Lionsberg Strategy and Plan]]  

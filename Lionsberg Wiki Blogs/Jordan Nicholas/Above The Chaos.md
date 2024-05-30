@@ -18,8 +18,11 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## May 2024 
 
-- [[Above The Chaos, A Letter To Mother Earth]]  
-- [[Above The Chaos, Make Reality Intersubjective Again]]  
+- [[Above The Chaos, Lionsberg Strategy and Plan Updates]]   
+- [[Above The Chaos, Cycle 9 Invitation Is Live]]  
+- [[Above The Chaos, A Letter To Mother Earth]]   
+- [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]   
+- [[Above The Chaos, Make Reality Intersubjective Again]]   
 ## April 2024 
 
 - [[Above The Chaos, Cycle 8 Invitation and New Video]]  
