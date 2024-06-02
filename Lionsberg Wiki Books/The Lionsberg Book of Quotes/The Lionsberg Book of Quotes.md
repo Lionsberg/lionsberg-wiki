@@ -369,3 +369,22 @@ God is love, and he that abideth in love abideth in God, and God abideth in him.
 “This is what man tends to call utopia. It's a fairly small word, but inadequate to describe the extraordinary new freedom of man in a new relationship to the universe – the alternative of which is oblivion.” - [[Buckminster Fuller]]  
 
 “Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment…. Humanity is in a final exam as to whether or not it qualifies for continuance in the Universe” - [[Buckminster Fuller]]  
+
+"How would you like this world to be? We have been here a long time as human beings, and we have never listened to one another answer this question." - Gregory Flint 
+
+"We can only believe what in we can first imagine." - Gregory Flint 
+
+"If we don't believe that our world can get better, it probably won't. What would it take for you to begin to believe?" - [[Gregory Flint]] 
+
+"Logic will get you from A to B. Imagination will take you everywhere." - [[Albert Einstein]]  
+
+"Reality is merely an illusion, albeit a very persistent one." - [[Albert Einstein]]  
+
+"We cannot solve our problems with the same thinking we used when we created them." - [[Albert Einstein]]  
+
+"No problem can be solved from the same level of consciousness that created it." - [[Albert Einstein]]  
+
+"An obvious but hidden insight is that unenlightened beings cannot create enlightened systems. Creation begins with Consciousness." 
+
+
+

@@ -7,7 +7,7 @@
 If you get lost, simply [Join The Movement Here](https://jordannicholas.org/join_the_movement).  
 ### A Moment of Destiny
 
-Humanity is at a pivotal point in its Journey. The path we are collectively on isn't working. As we face into the [[Meta Crisis]], it is apparent that the systems, institutions, and ways of being that led us here will not carry us forward to [[The Future]] we dream of—a world filled with peace, love, justice, abundance, opportunity and freedom for our children and future generations. Despite our vast diversity, we share a common [[Vision]] for [[The Future We Seek]], and understand the [[Wisdom, Principles, and Values]] that must guide us there.
+Humanity is at a pivotal point in its Journey. The path we are collectively on isn't working. As we face into the [[Meta Crisis]], it is apparent that the systems, institutions, and ways of being that led us here will not carry us forward to [[The Future]] we dream of—a world filled with peace, love, justice, abundance, opportunity and freedom for our children, grandchildren, and future generations. Despite our vast diversity, we share a common [[Vision]] for [[The Future We Seek]], and understand the [[Wisdom, Principles, and Values]] that must guide us there.
 
 ### The Dawn of a Movement
 

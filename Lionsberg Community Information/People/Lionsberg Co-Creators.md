@@ -222,6 +222,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 61. [[Allen Lundell]] - via [[Jahn Ballard]]  
 62. [[Bruce Erickson]] - via [[Sun and Allen Lundell]] 
 63. [[Gabrielle Cianfrani]] - via [[Sun and Allen Lundell]]  
+64. [[Gregory Flint]] - via [[Jordan Nicholas Sukut]]  
 
 
 ### Emergent Partnerships / Potentials 
@@ -370,7 +371,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 121. Phillip 
 122. Paul R 
 123. Bob K 
-124. Elliot B 
+124. Elliot Bayev 
 125. Wendy E 
 126. Wendy M 
 127. Sasha S  
