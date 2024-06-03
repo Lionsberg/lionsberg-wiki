@@ -1,12 +1,13 @@
 # Jordan Nicholas Sukut
 
 ## Links
-- Jordan's Blog - [[Above The Chaos]]    
+- Jordan's Email - J@Lionsberg.org  
+- Jordan's Notes - [[Above The Chaos]]    
 - LinkedIn - [Jordan's LinkedIn](https://www.linkedin.com/in/jordannicholassukut)    
 - Instagram - [Jordan's Instagram](https://www.instagram.com/jnicholasone)    
 - Twitter - [Jordan's Twitter](https://www.twitter.com/jnicholasone)     
 - YouTube - [Jordan's YouTube](https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w)    
-- Jordan's Writing - [[Lionsberg Wiki Books]] 
+- Jordan's Writing - [[Lionsberg Wiki Books]]  
 - Jordan's Short Story - [[Jordan's Short Story]]  
 - Jordan's Experience with Faith - [[Jordan and Faith]]  
 

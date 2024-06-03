@@ -21,6 +21,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 
 ## Completed 
 
+- [[Lionsberg History and Inception]]  
 - Cycle 1: 2 Co-Creators - 1 Day  
 - Cycle 2: 3 Co-Creators  - 1 Day  
 - Cycle 3: 5 Co-Creators - 1 Day  
@@ -28,33 +29,31 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - Cycle 5: 13 Co-Creators - 1 Day  
 - Cycle 6: 21 Co-Creators - 5 Days  
 - Integration (No Invitations): 3 Weeks 
-- Cycle 7: 34 Co-Creators - 2 Weeks (7 Cycles in 7 Weeks)
-[[Lionsberg History and Inception]] 
+- Cycle 7: 34 Co-Creators - 2 Weeks (7 Cycles in 7 Weeks) 
+- Cycle 8: 55 Co-Creators - 4 Weeks 
+ 
 ## In Progress 
 
-Cycle 8: In Progress  
-
-Successful completion requires adding 21 Co-Creators  
-Invitation Pool: ~100 
+Cycle 9: In Progress - See [[Lionsberg Co-Creators]]  
+Successful completion requires adding 34 Co-Creators (89 Co-Creators (0.000001%))   
+Invitation Pool: ~140 +  
 
 ## Remaining 
 
-**As of the completion of Cycle 7**: 
-- Remaining Cycles to 3% (~250 Million): 33 Cycles      
-- Remaining Weeks: 146 - 7 = 139 Weeks  
-- Minimum Required Cycle Time = 4.2 Weeks  
+**As of the completion of Cycle 8**: 
+- Remaining Cycles to 3% (~250 Million): 32 Cycles      
+- Remaining Weeks: 146 - 11 = 135 Weeks  
+- Minimum Required Cycle Time = ~4.2 Weeks  
 
 **2024 Opportunity**
-- Weeks to 2024 Election = 28.5... Opportunity - if we pulsed the movement at a weekly + rate, we could have ~30 million enlightened co-creators standing behind the [[New Vision and Plan]] by November 2024 and sweep the executive branch in the United States Election. 
-	- This would leave 24 months to complete the remaining 5 cycles of growth to hit 3% by 2026, virtually ensuring success    
-	- We would have an independent US President and 11 governors among The Movement  
+- If we pulse the movement quickly, we can have enough enlightened co-creators standing behind the [[New Vision and Plan]] by November 2024 to sweep the executive branch in the United States Election.  
+	- We would have an independent US President and several governors among The Movement  
 	- We could dramatically mitigate the existential threat of an AI + Thermonuclear WWIII, and leverage the logistical capacity of the United States and allies for aid and relief efforts instead (swords to ploughshares / weaponry to livingry)     
 	- By 2026 we will have 250 Million connected and empowered co-creators standing behind the [[New Vision and Plan]], enabling the next round of realignment in the United States and around the world.       
 	- By 2027 (1/2 way through [[The 7 Year Window of Crisis and Opportunity]]) we would have access to the constitutional amendment mechanisms to reset the American Experiment, disband the corrupt bureaucracies, decentralize power, and realign it in service of [[The Goal]]     
 	- This would enable us to structurally solve many issues at the root of corruption and mis-incentives around the world, while mitigating the risk of a [[Collapse]] into world war, [[Chaos]], or [[Tyranny]]    
-- This merely requires that each person identify and onboard one other person a week to The Movement. It is entirely possible. Do we care enough to cause this to happen? 
+- This merely requires that each person begin identifying and onboarding one other person a week to The Movement. It is entirely possible. Do we care enough to cause this to happen? 
 
-- Cycle 9: 89 Co-Creators (0.000001%) 
 - Cycle 10: 144 Co-Creators  
 - Cycle 11: 233 Co-Creators  
 - Cycle 12: 377 Co-Creators  
