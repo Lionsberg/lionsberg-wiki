@@ -6,6 +6,9 @@ An entry in [[Above The Chaos]].
 
 For a scannable Lionsberg table of contents, see [[Lionsberg Summary]]. 
 
+## Abstract 
+
+This 3-4 page working document outlines the transition from the self-funded aggregation of tens of millions of dollars of Value into the Lionsberg Commons during [[The 7 Year Window of Preparatory Work and Learning]] (2017-2024 Q1), towards raising a $10 Million [[Resource Tranche 2]] as we commence the [[10 Year Grand Strategy]] to avert world war, overcome the [[Meta Crisis]], and land humanity and our planet on a safe trajectory towards the [[Best Possible Future]] for [[All]].  
 ## Introduction and Context 
 
 Hello friends, allies, and co-creators, 
