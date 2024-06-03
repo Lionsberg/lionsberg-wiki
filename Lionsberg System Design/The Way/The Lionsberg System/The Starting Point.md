@@ -12,11 +12,9 @@ For a more articulated version of what this might look, smell, and feel like, se
 
 ## Learnings  
 
-After bringing together lifetimes of preparation, process and infrastructure, we began with a social experiment, followed by three six-week cycles of emergence. 
+After bringing together lifetimes of preparation, process and infrastructure, in ~2021 we began with a series of social experiments, through which we learned that it would not be possible to accomplish the [[Meta Project]] in the abstract, or within any one group.   
 
-We [[Realized]] that it actually will not work to work on the Universal and Eternal [[Meta Project]] in the abstract, or within one group.   
-
-Therefore, we are going to strive to connect and empower a [[Group Of Groups]] from the standpoint of a minimum viable: 
+We therefore resolved to connect and empower an [[Optimally Decentralized]] [[Force For Good]], starting with [[The First Three Percent]], beginning with a minimum viable: 
 
 1. Identity  
 2. Structure / Container  
@@ -25,13 +23,13 @@ Therefore, we are going to strive to connect and empower a [[Group Of Groups]] f
 5. Infrastructure and Technology Platform   
 6. Set of Conditions to Facilitate [[Emergence]]  
 
-Because it is not possible or desirable to get everyone in one group, we are facilitating the [[Emergence]] of a [[Group Of Groups]] that protects Individual and Local Sovereignty, Culture, and Identity, while affording the opportunity to Co-Operate where that is the [[Wise Right]] thing to do. 
+By Spring 2024, the infrastructure and conditions appeared sufficient to support the emergence of a more structured movement. 
 
-The near term mission of [[Jordan Nicholas Sukut|J]] and [[Lionsberg]] is to serve, connect, empower, and align the distributed [[Group Of Groups]] advancing towards [[The Goal]]. 
+Our near term Mission is to serve, connect, empower, and align a distributed [[Group Of Groups]] / [[Team of Teams]] advancing towards [[The Goal]], starting with [[The First Three Percent]]. 
 
 ## A Progression Towards Oneness Through Love
 
-We have [[Realize|Realized]] that the [[Group Of Groups]] must progress through a series of developmental phases before it can [[Co-Operation|Co-Operate]] as one. 
+The [[Group Of Groups]] will need to progress through a series of developmental phases before it can [[Co-Operation|Co-Operate]] as one. 
 
 These may be something like: 
 
@@ -49,10 +47,6 @@ Each of these stages requires a System and Infrastructure to support it, before 
 
 ## Next Learning Exploration  
 
-Our next learning exploration will be invite 5 to 20 groups to come into greater awareness and communication with [[One Another]]. 
-
-[[Jordan Nicholas Sukut|J]] and [[Lionsberg]] will do their best to create the set of conditions in which the possibility of advancing towards higher stages of [[Oneness]] can occur. 
-
-
+Having closed [[The 7 Year Window of Preparatory Work and Learning]] and opened the [[10 Year Grand Strategy]] in March 2024, [[The Invitation]] is now circulating to invite a growing network of [[Lionsberg Co-Creators]] to explore how we can unite as One Body and help one another [[Progress]] towards [[The Goal]].  
 
 

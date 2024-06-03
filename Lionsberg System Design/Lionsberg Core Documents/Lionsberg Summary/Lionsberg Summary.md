@@ -28,7 +28,9 @@ The [[Provisional Structure]] establishes a shared legal and governance framewor
 
 The [[Lionsberg Resource Runway]] provides a basic look at the resources required to catalyze and sustain [[The Movement]].  
 
-[[The 12 Pillars of Lionsberg]] articulates a basic [[Work Breakdown Structure]] for the [[Meta Project]].  
+[[Above The Chaos, Request For Resources - Tranche 2]] places the resource runway in the form of distributable request. 
+
+[[The 12 Pillars of Lionsberg]] articulates a basic [[Work Breakdown Structure]] for the omniconsiderate [[Meta Project]].  
 
 The [[Lionsberg Wiki Books]] provide foundational literature and address [[The Movement]] towards [[The Goal]] comprehensively from a number of different angles. 
 

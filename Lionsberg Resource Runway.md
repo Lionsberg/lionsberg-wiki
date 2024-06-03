@@ -102,7 +102,7 @@ Whereas the membership contributions and tithe of project flow are the "thruster
 
 Jordan put in the first ~ couple million and curated together tens of millions of dollars of value to build the Commons and Platform and forge the Starting Point. 
 
-Our near term Aim is now to aggregate $2M to $10M in initial working capital to fuel The Movement and ensure we get it successfully and powerfully off the ground. 
+Our near term Aim for [[Resource Tranche 2]] is to aggregate $10M in initial working capital to fuel The Movement and ensure we get it successfully and powerfully off the ground. 
 
 As the federation grows and we approach the first major global cultural events, additional working capital will be required. Our [[Current Best Understanding]] is that (something like) $100 Million of working capital may be required to facilitate the first $1 Billion of resource flow, after which [[The Movement]] will be indefinitely self-sustaining. 
 
