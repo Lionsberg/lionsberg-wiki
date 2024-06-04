@@ -18,6 +18,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## June 2024 
 
+- [[Above The Chaos, Why I Am Risking and Sacrificing Everything]]  
 - [[Above The Chaos, Request For Resources - Tranche 2]]  
 - [[Above The Chaos, Bioregions, Ecoregions, Watersheds, and Tribal Lands]]  
 
