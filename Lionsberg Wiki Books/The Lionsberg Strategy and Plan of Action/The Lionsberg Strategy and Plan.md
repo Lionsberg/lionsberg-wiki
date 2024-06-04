@@ -5,8 +5,8 @@
 *This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*
 
 [[1. Introduction to the Lionsberg Strategy and Plan]]  
-[[2. Executive Summary]]   
-[[3. If One and All Will It to Be]]   
+[[2. Executive Summary]]  
+[[3. If One and All Will It to Be]]  
 [[4. Our Highest Duty to One, All, Wisdom, and Truth]]   
 [[5. Our Overarching and Uniting Aim and Goal]]   
 [[6. What Is At Stake If We Fail]]   

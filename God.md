@@ -8,4 +8,6 @@ It refers to That Which Lies At The Absolute Top of the Total Nested Hierarchy o
 
 It refers to That Which Is In The Highest Place. 
 
-Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsberg System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of all human ideology, and so that people from many different perspectives and systems of belief can relate to it and wrestle with it eternally. 
+It refers to the [[One]] [[Deepest]] Thing. 
+
+Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsberg System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of all human ideology and religion, and so that people from many different perspectives and systems of belief can relate to it and wrestle with it eternally. 

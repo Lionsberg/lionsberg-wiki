@@ -6,4 +6,6 @@ In the [[Lionsberg System]], [[The Movement]] refers to the universal drive of [
 
 In the context of the [[New Vision and Plan]], "The Movement" plays a crucial role in driving the change needed to realize the New Vision and Plan. By building a strong, diverse, and united global body, "The Movement" can help create the momentum and collective will needed to transform our world for the better.
 
+The [[Lionsberg System]] exists to convene, connect, and empower this [[Optimally Decentralized]] Force For Good. 
+
 To join Us, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement). 
