@@ -12,7 +12,7 @@ It's looking good. Shall we keep nurturing this?
 ## Spirit and Source 
 - Source / Creator / Absolute / Ultimate Reality / One 
 - Spirit 
-- The Spiritual Force For Good
+- The Nameless Force For Good
 ## Joined in Cycle 0 
 
 - 1. [[Jordan Nicholas Sukut]]  
