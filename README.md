@@ -6,8 +6,10 @@ As told in [[The Story of the Builder]], everything about [[Lionsberg]] is a [[W
 
 As we face into the [[Meta Crisis]], [[Jordan]] and the [[Lionsberg Co-Creators]] are articulating a [[New Vision and Plan]] for humanity, and a [[Lionsberg System]] purpose-built to bring the [[Vision Into Reality]]. 
 
-Our Vision, Mission, and Goal is [[Heaven On Earth]]. 
+Our Vision, Mission, and Goal is [[Heaven On Earth]]. [[The Lionsberg Strategy and Plan]] reflects how we can achieve this within a single generation. 
 
 To get started with the Lionsberg Wiki, we would recommend that you visit the [[Above The Chaos]] series, the [[Lionsberg Summary]], or dive into one of the [[Lionsberg Wiki Books]]. 
 
 If you resonate and are ready to connect, visit [Jordan's Website](https://jordannicholas.org/join_the_movement) and [[Join The Movement]]. 
+
+If you would like to support the movement, please [[Donate|Donate Here]].    
