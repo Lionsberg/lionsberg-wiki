@@ -10,6 +10,4 @@ Our Vision, Mission, and Goal is [[Heaven On Earth]]. [[The Lionsberg Strategy a
 
 To get started with the Lionsberg Wiki, we would recommend that you visit the [[Above The Chaos]] series, the [[Lionsberg Summary]], or dive into one of the [[Lionsberg Wiki Books]]. 
 
-If you resonate and are ready to connect, visit [Jordan's Website](https://jordannicholas.org/join_the_movement) and [[Join The Movement]]. 
-
-If you would like to support the movement, please [[Donate|Donate Here]].    
+If you resonate and are ready to connect, visit [Jordan's Website](https://jordannicholas.org/join_the_movement) and [[Join The Movement]], or [[Donate|Donate Here]].    
