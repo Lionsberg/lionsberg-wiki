@@ -8,7 +8,7 @@ Whereas the Old World celebrated individual entrepreneurs who “went out” and
 
 From systems theory and the immutable principles governing nature and society, we understand that true potential and power lie in the **Synergy** between elements of the system, not in the elements themselves.
 
-## **Training the First Three Percent**
+## **Training, Equipping, and Empowering the First Three Percent**
 
 As we work to train and equip [[The First Three Percent]] of the population—roughly 250 million leaders—we aim to foster a collaborative ecosystem. Instead of creating 50 million businesses and non-profits competing with one another, we envision 50 million entities collaborating to co-create a new world and paradigm.
 
