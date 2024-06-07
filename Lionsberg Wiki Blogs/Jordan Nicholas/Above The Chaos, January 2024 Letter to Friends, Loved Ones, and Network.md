@@ -33,4 +33,4 @@ With Love, Passion, and Conviction,
 
 ~ J 
 
-**Please respond** to J@Lionsberg.org or visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to structurally connect and support the Mission.  
+**Please respond** to J@Lionsberg.org or visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to connect and support the Mission.  

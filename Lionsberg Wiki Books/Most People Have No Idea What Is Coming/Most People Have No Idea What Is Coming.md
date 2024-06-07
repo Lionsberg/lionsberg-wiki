@@ -2,8 +2,6 @@
 
 By [[Jordan Nicholas Sukut]]
 
-I was inspired to compile some thoughts around this by a video by the same title. Perhaps we should build on this over time. 
-
 Please, the building is on fire, let's wake up move. 
 
 ## 1. Sounding the Alarms
