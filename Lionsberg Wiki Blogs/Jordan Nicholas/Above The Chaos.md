@@ -11,7 +11,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## Featured Posts
 
 - [[Above The Chaos, Jordan's January 2024 Manifesto]]  
-- [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network]]   
+- [[Above The Chaos, WAKE UP!!!]]  
 - [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]  
 - [[Above The Chaos, The Lionsberg Strategy and Plan]]  
 - [[Lionsberg Invitation]]  

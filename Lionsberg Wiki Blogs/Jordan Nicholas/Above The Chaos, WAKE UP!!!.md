@@ -54,7 +54,7 @@ I understand that it has been confusing watching or ignoring a builder from nowh
 
 ***TO TRANSFORM OUR WEAPONS INTO TOOLS OF LIFE, THE AMERICAN EXPERIMENT MUST BE SAVED.***
 
-To avert a collapse of the Existing Order, the world must promptly ratify, embody and enact [[The Lionsberg Strategy and Plan]], and aggregate the virtually unlimited resources that will be required to successfully achieve it. 
+To avert a collapse of the Existing Order, the world must promptly ratify, embody and enact [[The Lionsberg Strategy and Plan]] or a genuinely superior alternative, and aggregate the virtually unlimited time, energy, and resources that will be required to successfully achieve it. 
 
 We plan to convene the first [[Lionsberg General Assembly]] on or about Sunday September 22, 2024 towards this Aim. 
 
