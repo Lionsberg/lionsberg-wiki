@@ -81,8 +81,6 @@ Please, the building is on fire, let's wake up move.
 
 [[8.1 Navigating Towards Heaven or Hell]]  
 
-## 9. My Offering, Warning, Acknowledgement, and Call to Action
+## 9. A Final Call to Action
 
-[[9.1 My Offering]]  
-[[9.2 Warning and Acknowledgement]]  
-[[9.3 A Final Call To Action]]
+[[9.1 A Final Call To Action]]
