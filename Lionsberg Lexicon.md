@@ -8,19 +8,23 @@ These concepts are explored in further detail and different formats in the [[The
 
 ## Boundaries and Limits of Conception  
 
-1. [[One]] / [[God]] / [[Creator]] / [[Source and Sustainer]] / [[Transcendent]] / [[Absolute]]  
-2. [[All]] / [[Universe]] / [[Nature]] / [[Living System]] / [[Creation]] / [[All Creation]] / [[Manifest]]  
+1. [[One]] / [[God]] / [[Creator]] / [[Source and Sustainer]] / [[Absolute]]  
+2. [[All]] / [[Universe]] / [[Nature]] / [[Living System]] / [[Creation]] / [[All Creation]]  
 3. [[Spirit]] / [[Spirit of God]] / [[Central Animating Spirit]] / [[The Spirit]] 
-4. [[Incarnate]] / [[Incarnation]] / [[Instance]] / [[Instantiation]] / [[Any]] 
-5. [[Beginning]] / [[End]] / [[In The Beginning]] / [[In The End]]  
-6. [[Limit Statement]] / [[Limit Stories]] 
-7. [[Good]] / [[Better]] / [[Best]] / [[Best And Highest]] / [[Heaven]] / [[Heaven On Earth]]  
-8. [[Anti-Good]] / [[Worse]] / [[Worst]] / [[Hell]] / [[Hell On Earth]]  
-9. [[Deep]] / [[Deeper]] / [[Deepest]] / [[Deepest Thing]] / [[Deepest One]]   
-10. [[Higher]] / [[Highest]] / [[Highest Thing]] / [[Highest One]]   
-11. [[Abstract]] / [[Abstracting Out]] / [[Levels of Abstraction]] / [[Levels of Analysis]]  
-12. [[Individual And Local]] / [[Individuals and Localities]] / [[Universal and Eternal]]  
-13. [[Meta]] / [[Meta Idea]] / [[Meta Project]] / [[Meta Game]] / [[Meta Goal]] / [[Meta Law]] / [[Meta Lens]] / [[Meta Value]] / [[Meta Story]] / [[Meta Quest]]  
+4. [[Transcendent]] / [[Manifest]]  
+5. [[Incarnate]] / [[Incarnation]]  
+6. [[Archetype]]  
+7. [[Prototype]]  
+8. [[Instance]] / [[Instantiation]] / [[Any]] 
+9. [[Beginning]] / [[End]] / [[In The Beginning]] / [[In The End]]  
+10. [[Limit Statement]] / [[Limit Stories]] 
+11. [[Good]] / [[Better]] / [[Best]] / [[Best And Highest]] / [[Heaven]] / [[Heaven On Earth]]  
+12. [[Anti-Good]] / [[Worse]] / [[Worst]] / [[Hell]] / [[Hell On Earth]]  
+13. [[Deep]] / [[Deeper]] / [[Deepest]] / [[Deepest Thing]] / [[Deepest One]]   
+14. [[Higher]] / [[Highest]] / [[Highest Thing]] / [[Highest One]]   
+15. [[Abstract]] / [[Abstracting Out]] / [[Levels of Abstraction]] / [[Levels of Analysis]]  
+16. [[Individual And Local]] / [[Individuals and Localities]] / [[Universal and Eternal]]  
+17. [[Meta]] / [[Meta Idea]] / [[Meta Project]] / [[Meta Game]] / [[Meta Goal]] / [[Meta Law]] / [[Meta Lens]] / [[Meta Value]] / [[Meta Story]] / [[Meta Quest]]  
 
 ## Story 
 
@@ -198,6 +202,10 @@ These concepts are explored in further detail and different formats in the [[The
 
 1. [[Continuous Learning]] / [[Continuous Elevation]] / [[Continuous Improvement]] / [[Continuous Transformation]] / [[Continuous Evolution]] / [[Continuous Learning And Improvement]]    
 2. [[Retrospective]] / [[Retrospectives]] 
+
+## Working Exploration of Concepts Missing From English 
+
+1. 
 
 ## Misc / Uncategorized (A - C Only) 
 
@@ -429,3 +437,4 @@ These concepts are explored in further detail and different formats in the [[The
 226. [[Cultivate]] / [[Cultivating]] / [[Cultivating The Green Shoots]] 
 227. [[Captivity]]  
 228. [[Continual]] 
+

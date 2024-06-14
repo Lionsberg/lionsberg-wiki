@@ -1,5 +1,9 @@
 # Above The Chaos, WAKE UP!!!   
 
+By [[Jordan Nicholas Sukut]], 2024.06.07 _(updated 2024.06.07)_
+
+An entry in [[Above The Chaos]]. 
+
 Dear Loved Ones,  
 
 If you can finally hear me, please listen. We are in grave danger, time is short, and we have to move.  
