@@ -1,5 +1,6 @@
 # A Letter To Mother Earth
 *A draft for review by the Elders, Tribes, and First Nations*
+(_Traducción al español al final de la página_)
 
 *Version 0.2, May 29, 2024*
 *To be finalized and presented to the Elder Brothers and Sisters by June 2024*
