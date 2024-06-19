@@ -266,146 +266,150 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 20. John Fullerton - Capital Institute (economics) - via [[Scott Broomfield]]
 21. Lawrence Ford - Conscious Capital (economics) - via [[Scott Broomfield]] 
 22. Jacqueline Corbelli - SustainChain (tech) - via [[Scott Broomfield]] 
-23. Peter Lupoff - Net Impact - now part of Good/Upworthy (network) - via [[Scott Broomfield]] 
-24. John Schull - via [[Camara Cassin]] 
-25. John P. Milton - via Camara Cassin
-26. Terry Mollner - Kinship Earth Flow Fund ++ - via [[George Orbelian]]  
-27. Willem Ferwerda - COMMONLAND (practical execution) - via Scott Broomfield 
-28. Yarrow Kramer - The Hatch Experience and Hatch 360 (network and tech) - via Scott Broomfield 
-29. Scott Vineberg - by [[Jordan]] via [[Zachary Marlow]] and Benjamin Life 
-30. Benjamin Life 
-31. Christopher Life 
-32. Mike Costache 
-33. [[Gil Friend]] - Via [[Jordan]]  
-34. [[Atossa Soltani]] - Via [[Jordan]]  
-35. [[Frank Dixon]] - [Global Systems Change](https://globalsystemchange.com/about/) - via [[George Orbelian]]  
-36. [[Evan Harvey]] - Sustainability, strategy, measurement, delivery at Deloitte / NASDAQ - via [[George Orbelian]]  
-37. [[Tom Chi]] - [At One Ventures](https://www.atoneventures.com) - New $375 Million climate tech fund - Air, Water, Soil, Biodiversity - via [[George Orbelian]]   
-38. [[Scott Broomfield]] - via [[George Orbelian]] - Sustainable Brands   
-39. [Thirteen Indigenous Grandmothers](https://www.grandmotherswisdom.org) - via [[Scott Broomfield]]  
-40. [[Peter Lupoff]]? - https://www.linkedin.com/in/peter-lupoff-b73766b/ - via [[Scott Broomfield]]? - family office   
-41. [[James E Hughes]] - https://www.jamesehughes.com - via [[George Orbelian]] - family office  
-42. [[Michael Hartley]] and [[Bonnie Hartley]] - Transition Dynamics - introduced to one another by [[James E Hughes]] - via [[George Orbelian]]  
-43. [[Marion Rockefeller Weber]] - via [[George Orbelian]]  
-44. [Kinship Earth](https://kinshipearth.org) - inspired by Susan Davis Moora, connected to [[Marion Rockefeller Weber]] - via [[George Orbelian]]    
-45. [[Daniel Friedman]] - Active Inference - via [[Jordan]]   
-46. [[Samantha Power]] - via [[Day Waterbury]] - bioregional financing facilities - Finance For Gaia   
-47. Or Katzman - via [[Jordan]]  
-48. [[Seth Blaustein]] - [Dollar Donation Club](https://dollardonationclub.com - via [[George Orbelian]]  
-49. [[Brooke Darshana]] - via [[George Orbelian]]  
-50. Connecting the power women of tech 
+23. [[Brandon Norgaard]] - via [[Jahn Ballard]] - The Enlightened Worldview Project  
+24. Nick Hedlund - via [[Brandon Norgaard]] - Eudaimonia Institute 
+25. Jim Rough - via [[Allen Lundell]] - Center For Wise Democracy 
+26. Gerry Aab - via [[Camara Cassin]] - Hubtropolis  
+27. Peter Lupoff - Net Impact - now part of Good/Upworthy (network) - via [[Scott Broomfield]] 
+28. John Schull - via [[Camara Cassin]] 
+29. John P. Milton - via Camara Cassin
+30. Terry Mollner - Kinship Earth Flow Fund ++ - via [[George Orbelian]]  
+31. Willem Ferwerda - COMMONLAND (practical execution) - via Scott Broomfield 
+32. Yarrow Kramer - The Hatch Experience and Hatch 360 (network and tech) - via Scott Broomfield 
+33. Scott Vineberg - by [[Jordan]] via [[Zachary Marlow]] and Benjamin Life 
+34. Benjamin Life 
+35. Christopher Life 
+36. Mike Costache 
+37. [[Gil Friend]] - Via [[Jordan]]  
+38. [[Atossa Soltani]] - Via [[Jordan]]  
+39. [[Frank Dixon]] - [Global Systems Change](https://globalsystemchange.com/about/) - via [[George Orbelian]]  
+40. [[Evan Harvey]] - Sustainability, strategy, measurement, delivery at Deloitte / NASDAQ - via [[George Orbelian]]  
+41. [[Tom Chi]] - [At One Ventures](https://www.atoneventures.com) - New $375 Million climate tech fund - Air, Water, Soil, Biodiversity - via [[George Orbelian]]   
+42. [[Scott Broomfield]] - via [[George Orbelian]] - Sustainable Brands   
+43. [Thirteen Indigenous Grandmothers](https://www.grandmotherswisdom.org) - via [[Scott Broomfield]]  
+44. [[Peter Lupoff]]? - https://www.linkedin.com/in/peter-lupoff-b73766b/ - via [[Scott Broomfield]]? - family office   
+45. [[James E Hughes]] - https://www.jamesehughes.com - via [[George Orbelian]] - family office  
+46. [[Michael Hartley]] and [[Bonnie Hartley]] - Transition Dynamics - introduced to one another by [[James E Hughes]] - via [[George Orbelian]]  
+47. [[Marion Rockefeller Weber]] - via [[George Orbelian]]  
+48. [Kinship Earth](https://kinshipearth.org) - inspired by Susan Davis Moora, connected to [[Marion Rockefeller Weber]] - via [[George Orbelian]]    
+49. [[Daniel Friedman]] - Active Inference - via [[Jordan]]   
+50. [[Samantha Power]] - via [[Day Waterbury]] - bioregional financing facilities - Finance For Gaia   
+51. Or Katzman - via [[Jordan]]  
+52. [[Seth Blaustein]] - [Dollar Donation Club](https://dollardonationclub.com - via [[George Orbelian]]  
+53. [[Brooke Darshana]] - via [[George Orbelian]]  
+54. Connecting the power women of tech 
 	1. [[Laurene Powell Jobs]] - Emerson Collective 
 	1. [[MacKenzie Scott]]  
 	1. [[Melinda Gates]]  
 	1. [[Wendy Schmidt]]  
-51. National Geographic Photographers Project - via [[George Orbelian]]  
+55. National Geographic Photographers Project - via [[George Orbelian]]  
 	1. Tag and SpatioTemporally locate photos and make visible  
 	1. Surfacing cultures and biodiversity from around the world  
-52. Nobel Peace Prize photographer - via [[Rick Lukens]]  
-53. [[Zachary Marley]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
-54. Planet.com - via [[George Orbelian]]  
-55. Planetlive.at - via [[George Orbelian]]   
-56. [[Barbara Merz]] - via [[George Orbelian]]  
-57. [[Filecoin Foundation for the Decentralized Web]] - https://ffdweb.org - via [[Day Waterbury]]   
-58. [[Chris Bui]] - via [[Jahn Ballard]]  
-59. [[Kaitlin Donovan]] - [[Filecoin Foundation for the Decentralized Web]] - via [[Day Waterbury]]    
-60. [[Phil Dillard]] - Thruline Networks - via [[Jahn Ballard]]  
-61. Michael Moore - via [[Sun and Allen Lundell]]  
-62. Kevin Shin 
-63. Mike Almeraris 
-64. Barton Christ 
-65. [[Noah Thorpe]] - via [[Day Waterbury]] 
-66. [[Brigham]] - Goodly Labs - via [[Day Waterbury]]  
-67. [[David Hodgson]] - connected to [[Jordan Nicholas Sukut]], [[Day Waterbury]], and many others. Key in early [[Weaving]] of relationships in [[The Movement]] 
-68. [[Benjamin Life]] - via [[Jordan]]  
-69. [[Matt Prewitt]] - RadicalXChange - via [[Day Waterbury]] 
-70. [[Josh Whiton]] - MakeSoil - via [[Jordan]] 
-71. [[Kathryn Langstaff]] - https://www.linkedin.com/in/kathrynlangstaff/ - via [[Jordan]]  
-72. [[Gregory Landua]] - Regen Network - via [[David Casey]]    
-73. [[Tibet Sprague]] - Collaborative Tech Alliance - https://www.collaborative.tech  
-74. [[Robert (Bobby) Fishkin]] - Reframeit - via [[Day Waterbury]]  
-75. [[Arthur Brock]] - Holochain - via [[Jordan]]  
-76. [[Abu Samra]] - urban renewal - via [[Jordan]]  
-77. [[Sadie Adams]] - World Systems Solutions - https://wssnow.org/about/board-of-directors/ - via [[George Orbelian]]  
-78. [[Michael Irish]] - Sedo Gravitas - https://www.linkedin.com/in/michael-irish-02451b1/  
-79. [[James Canton]] - via [[George Orbelian]]  
-80. (Redundant) 
-81. [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day Waterbury]]'s invitation to conference  
-82. [[Hael Kobayashi]] - via [[George Orbelian]] - https://www.linkedin.com/in/hael-kobayashi/  
-83. [[Kris Messdaghi]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
-84. [[Bill Reed]] - via [[George Orbelian]] - https://regenesisgroup.com/team/bill-reed 
-85. [[Stephen Gomes]] - Kinship Earth Flow Fund - continuation of [[Marion Rockefeller Weber]]'s flow fund
+56. Nobel Peace Prize photographer - via [[Rick Lukens]]  
+57. [[Zachary Marley]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
+58. Planet.com - via [[George Orbelian]]  
+59. Planetlive.at - via [[George Orbelian]]   
+60. [[Barbara Merz]] - via [[George Orbelian]]  
+61. [[Filecoin Foundation for the Decentralized Web]] - https://ffdweb.org - via [[Day Waterbury]]   
+62. [[Chris Bui]] - via [[Jahn Ballard]]  
+63. [[Kaitlin Donovan]] - [[Filecoin Foundation for the Decentralized Web]] - via [[Day Waterbury]]    
+64. [[Phil Dillard]] - Thruline Networks - via [[Jahn Ballard]]  
+65. Michael Moore - via [[Sun and Allen Lundell]]  
+66. Kevin Shin 
+67. Mike Almeraris 
+68. Barton Christ 
+69. [[Noah Thorpe]] - via [[Day Waterbury]] 
+70. [[Brigham]] - Goodly Labs - via [[Day Waterbury]]  
+71. [[David Hodgson]] - connected to [[Jordan Nicholas Sukut]], [[Day Waterbury]], and many others. Key in early [[Weaving]] of relationships in [[The Movement]] 
+72. [[Benjamin Life]] - via [[Jordan]]  
+73. [[Matt Prewitt]] - RadicalXChange - via [[Day Waterbury]] 
+74. [[Josh Whiton]] - MakeSoil - via [[Jordan]] 
+75. [[Kathryn Langstaff]] - https://www.linkedin.com/in/kathrynlangstaff/ - via [[Jordan]]  
+76. [[Gregory Landua]] - Regen Network - via [[David Casey]]    
+77. [[Tibet Sprague]] - Collaborative Tech Alliance - https://www.collaborative.tech  
+78. [[Robert (Bobby) Fishkin]] - Reframeit - via [[Day Waterbury]]  
+79. [[Arthur Brock]] - Holochain - via [[Jordan]]  
+80. [[Abu Samra]] - urban renewal - via [[Jordan]]  
+81. [[Sadie Adams]] - World Systems Solutions - https://wssnow.org/about/board-of-directors/ - via [[George Orbelian]]  
+82. [[Michael Irish]] - Sedo Gravitas - https://www.linkedin.com/in/michael-irish-02451b1/  
+83. [[James Canton]] - via [[George Orbelian]]  
+84. (Redundant) 
+85. [[David Casey]] - via [[Jordan]] - via [[Jahn Ballard]] - via [[Day Waterbury]]'s invitation to conference  
+86. [[Hael Kobayashi]] - via [[George Orbelian]] - https://www.linkedin.com/in/hael-kobayashi/  
+87. [[Kris Messdaghi]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
+88. [[Bill Reed]] - via [[George Orbelian]] - https://regenesisgroup.com/team/bill-reed 
+89. [[Stephen Gomes]] - Kinship Earth Flow Fund - continuation of [[Marion Rockefeller Weber]]'s flow fund
 	1. Hanman Lou? - working in china town documenting 30 years of flow fund - most detailed knowledge of data surfaces when analyzing people [[Susan Davis Moora]] funded… independent thinkers - /“see what needs to be done and get going
-86. [[Rick Barrows]] - via [[George Orbelian]] - https://www.linkedin.com/in/rick-barrows-378b8aa4/ - Fish Nutritionist (conceptually crucial to healthy farmed fish and eliminating ocean overfishing)  
-87. [[Nik Bertulis]] - http://www.nikbertulis.com - via [[Jordan]]  
-88. [[Steve Schwarz]] - Art of Tea - via [[Jordan]]  
-89. [[Sasha Strauss]] - Innovation Protocol - via [[Jordan]]  
-90. [[Michael Likosky]] - https://www.governing.com/authors/michael-likosky.html - via [[George Orbelian]]  
-91. Robert - via [[Stessa Thompson]] 
-92. Tom Agramonte - via Chris Bui 
-93. Nicholas Churchilio - via Chris Bui 
-94. Jack Healy - former amnesty president - Via Rick Lukens
-95. Danny Sheehan - via Rick Lukens and Jahn Ballard 
-96. Michael Jensen - via Rick Lukens  
-97. Carlos Santana - via Rick Lukens 
-98. Travis + Guys that did the Las Vegas dome (tour + geoscopes) - via Rick Lukens  
-99. Estelle Kabithi 
-100. John Kabithi 
-101.  Amy (D)
-102. Sean Dilweg 
-103. Gil F  
-104. Hank K  
-105. Jerry M   
-106. Maya  
-107. Edu 
-108. Moses 
-109. Tom C  
-110. Joseph C 
-111. Joshua P 
-112. Michael G 
-113. Jahn B
-114. Amy 
-115. Greg F 
-116. Jamaica S 
-117. Gary G 
-118. Kaiti A 
-119. Vincent Arena  
-120. Forrist L 
-121. Lenna G
-122. Andrew B 
-123. John C  
-124. Killu S  
-125. Stefan V  
-126. David W (Invited 3/18) 
-127. Doug B (Invited 3/18)
-128. Greg and Emily 
-129. Greg and Emily 
-130. Piff 
-131. Virginia 
-132. Virginias kids 1 & 2 
-133. Jen 
-134. Ian 
-135. Phillip 
-136. Paul R 
-137. Bob K 
-138. Elliot Bayev 
-139. Wendy E 
-140. Wendy M 
-141. Sasha S  
-142. Kevin J 
-143. Terry D  
-144. Ron S  
-145. Mark L 
-146. Ernie H 
-147. Russ C  
-148. Russ (ND)  
-149. Harvest S  
-150. Adane C 
-151. Dan F 
-152. Dan L 
-153. James Z  
-154. Janet Na 
-155. Jon Crabtree  
+90. [[Rick Barrows]] - via [[George Orbelian]] - https://www.linkedin.com/in/rick-barrows-378b8aa4/ - Fish Nutritionist (conceptually crucial to healthy farmed fish and eliminating ocean overfishing)  
+91. [[Nik Bertulis]] - http://www.nikbertulis.com - via [[Jordan]]  
+92. [[Steve Schwarz]] - Art of Tea - via [[Jordan]]  
+93. [[Sasha Strauss]] - Innovation Protocol - via [[Jordan]]  
+94. [[Michael Likosky]] - https://www.governing.com/authors/michael-likosky.html - via [[George Orbelian]]  
+95. Robert - via [[Stessa Thompson]] 
+96. Tom Agramonte - via Chris Bui 
+97. Nicholas Churchilio - via Chris Bui 
+98. Jack Healy - former amnesty president - Via Rick Lukens
+99. Danny Sheehan - via Rick Lukens and Jahn Ballard 
+100. Michael Jensen - via Rick Lukens  
+101. Carlos Santana - via Rick Lukens 
+102. Travis + Guys that did the Las Vegas dome (tour + geoscopes) - via Rick Lukens  
+103. Estelle Kabithi 
+104. John Kabithi 
+105.  Amy (D)
+106. Sean Dilweg 
+107. Gil F  
+108. Hank K  
+109. Jerry M   
+110. Maya  
+111. Edu 
+112. Moses 
+113. Tom C  
+114. Joseph C 
+115. Joshua P 
+116. Michael G 
+117. Jahn B
+118. Amy 
+119. Greg F 
+120. Jamaica S 
+121. Gary G 
+122. Kaiti A 
+123. Vincent Arena  
+124. Forrist L 
+125. Lenna G
+126. Andrew B 
+127. John C  
+128. Killu S  
+129. Stefan V  
+130. David W (Invited 3/18) 
+131. Doug B (Invited 3/18)
+132. Greg and Emily 
+133. Greg and Emily 
+134. Piff 
+135. Virginia 
+136. Virginias kids 1 & 2 
+137. Jen 
+138. Ian 
+139. Phillip 
+140. Paul R 
+141. Bob K 
+142. Elliot Bayev 
+143. Wendy E 
+144. Wendy M 
+145. Sasha S  
+146. Kevin J 
+147. Terry D  
+148. Ron S  
+149. Mark L 
+150. Ernie H 
+151. Russ C  
+152. Russ (ND)  
+153. Harvest S  
+154. Adane C 
+155. Dan F 
+156. Dan L 
+157. James Z  
+158. Janet Na 
+159. Jon Crabtree  
 
 [[Above The Chaos, April 2024 Above The Chaos Tour Findings]] 
 ## Postponed Invitation 
