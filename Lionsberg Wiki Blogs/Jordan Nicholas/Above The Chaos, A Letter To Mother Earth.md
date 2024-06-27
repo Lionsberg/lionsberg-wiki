@@ -69,7 +69,8 @@ With deep love and respect to Our Father, Our Mother, the Elders, and all our re
 ~ Jordan on behalf of the rising Body of Lionsberg Co-Creators 
 
 ____
-Spanish Translation 
+### Traducción Al Español 
+
 La traducción que figura a continuación se ha creado utilizando AI y debe modificarse para mayor precisión. 
 
 Carta a la Madre Tierra
