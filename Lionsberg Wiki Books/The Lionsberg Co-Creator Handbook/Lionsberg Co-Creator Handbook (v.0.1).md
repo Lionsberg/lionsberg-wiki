@@ -222,7 +222,7 @@ While Teams are free to default to the simple "employee ownership" paradigm of t
 
 By choosing from the outset to co-operate on the basis of shared stewardship of the Domains we establish, we open up the possibility for Infinite Games that can be played indefinitely into The Future We Seek. 
 
-### Intrapreneurship vs. Entrepreneurship - Federating Everything
+#### Intrapreneurship vs. Entrepreneurship - Federating Everything
 
 The Lionsberg System is created as a bounded ecosystem in which we [[Federate  Everything]] around The Commons. 
 
