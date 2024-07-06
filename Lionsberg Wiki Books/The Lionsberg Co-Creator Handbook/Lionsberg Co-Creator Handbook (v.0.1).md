@@ -204,15 +204,19 @@ Popular legal structures include:
 
 #### Leveraging The Commons To Begin 
 
-The Lionsberg [[Provisional Structure]] was created as a legal Commons that acts like a Mother Tree to facilitate and nurture the emergence of Federated Stewardship Structures.
+The Lionsberg [[Provisional Structure]] was created as a legal Commons that acts like a Mother Tree to facilitate and nurture the emergence of Federated Stewardship Structures. The first Mother Tree was planted in North America. Soon, additional Mother Trees will be planted in Europe, Africa, Asia, South America, Oceana, etc. 
+
+Each unique creation requires a uniquely appropriate Structure to facilitate its emergence. Further, Structures should be built to evolve and transform over Time and Subsequent Generations as the organism within it grows. 
 
 Even if a Team / Group imagines that eventually it would like to undertake the effort and expense to administer an independent 501(c)(3) non-profit, We highly recommend leveraging the Lionsberg Legal Commons to begin with a simple fiscal sponsorship. 
 
-Even if a Team / Group imagines that eventually it would like to establish a Perpetual Purpose Trust or Multi-Stakeholder Co-Operative to steward its value creating activities, leveraging the Lionsberg Legal Commons to spin up a simple federated LLC is an easy and low cost way to begin. The Stewards of the LLC can "Act As If" they are a co-op for as long as it is the Wise Right Thing to do, before spending the Time, Energy, and Resources to organically complexify their legal structure. 
+Even if a Team / Group imagines that eventually it would like to establish a Perpetual Purpose Trust or Multi-Stakeholder Co-Operative to steward its value creating activities, leveraging the Lionsberg Legal Commons to spin up a simple federated LLC is an easy and low cost way to begin. The Stewards of the LLC can "Act As If" they are a co-op for as long as it is the Wise Right Thing to do, before spending the Time, Energy, and Resources to organically complexify their legal structure over Time. 
 
-By far the easiest way to establish a [[Federated Stewardship Structure]] is via an LLC stewarded within the Lionsberg Commons. Such vehicles can be launched by The Commons within days, and remain Self-Governing and Free to evolve into any other appropriate structure as they mature. 
+By far the easiest way to establish a [[Federated Stewardship Structure]] is via an LLC stewarded within the Lionsberg Commons. Such [[Special Purpose Vehicles]] can be launched by The Commons within days, and remain Self-Governing and Free to evolve into any other appropriate structure as they mature. 
 
 For example, a group starting a company to design and build physical facilities for ecosystem restoration communities might start out as an LLC stewarded within The Commons, and then choose to evolve into a multi-stakeholder co-operative ecosystem once the network of co-operators, clients, trade partners, and physical communities begins to mature. 
+
+Because most of our activities are international, stewarding the Equity of the enterprise in this way dramatically simplifies a multitude of issues relative to taxes, international ownership, differences 
 
 #### Stewardship vs. Ownership, Influence vs. Control, and Infinite vs. Finite Games  
 

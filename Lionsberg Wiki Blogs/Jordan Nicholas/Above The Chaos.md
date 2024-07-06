@@ -16,6 +16,9 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, The Lionsberg Strategy and Plan]]  
 - [[Lionsberg Invitation]]  
 
+## July 2024 
+
+- [[Above The Chaos, Life In A Lionsberg World]]  
 ## June 2024 
 
 - [[Above The Chaos, WAKE UP]]  

@@ -20,12 +20,14 @@ The [[Central Animating Spirit]] of the Universe is that which rises [[Above The
 - [[Boundaries]] and [[Boundlessness]]  
 - [[SpatioTemporal]] and [[OmniSpatioTemporal]]  
 - Manifest and Transcendent  
-- Individuation and Unity 
+- Individuation and Unity  
+- Sovereignty and Higher Order Functional Unity  
 - [[Centralization]] and [[Decentralization]]  
 - [[Left Hemisphere]] and [[Right Hemisphere]]  
-- [[Indigenous]] and [[Non-Indigenous]], [[The Eagle and The Condor]]  
+- [[Indigenous]] and [[Non-Indigenous]]  
 - [[Ancient]] and [[Modern]]  
-- [[The East]] and [[The West]], [[The North]] and [[The South]]  
+- [[The East]] and [[The West]]  
+- [[The North]] and [[The South]]  
 - [[The Drive Towards Exploration and Expansion]]  and [[The Drive Towards Survival and Self-Preservation]] 
 - [[The Drive to Expand Beyond The Boundary]] and [[The Drive to Build and Remain Within The Boundary]]   
 
