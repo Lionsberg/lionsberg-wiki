@@ -4,9 +4,9 @@ Voice notes are a fascinating distiller of [[What Matters]]. As we wander, think
 
 In 2018, [[Jordan]] began recording a series of voice notes as the [[New Vision and Plan]] was unfurling. They are transcribed and presented here in roughly chronological form for those who are interested in watching thought and insight unfold and cross-pollinate.
 
-Many of these concepts have been reflected in the [[Lionsberg Wiki Books]]. 
+Many of these concepts have been reflected in the [[Lionsberg Wiki Books]] and cross-woven through the [[Lionsberg Wiki]].  
 
-This Wikibook can be thought of as a harvest of 5 years of potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, and process what is of [[Value]] into the [[Lionsberg System]] and [[Lionsberg Commons]]. 
+This Wikibook can be thought of as a harvest of 5 years of some potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, process what is of [[Value]] into the [[Lionsberg System]] and [[Lionsberg Commons]], and compost the rest. 
 
 We are also in the process of developing AI that will be able to query this book as part of the broader [[Lionsberg Wiki]]. 
 
@@ -18,165 +18,156 @@ If this proves Valuable in any way to you, please be inspired to grab your own p
 
 ## September 2018
 
-A company is essentially a cybernetic collective of people and machines.
+1. A company is essentially a cybernetic collective of people and machines.
 ___
 
- The percentage of intelligence that is non human is increasing at an accelerating rate. 
+2.  The percentage of intelligence that is non human is increasing at an accelerating rate. 
 ___
 
-Soon, a humans will represent a very small portion of intelligence sandwiched between the intelligence of Nature and God on one hand, and artificial intelligence on the other. However because consciousness is prior to both Nature and machines, and a holographic fractal of the Spirit of Infinite Intelligence is in every human, if we expand and consciously unite our spirits and minds to God, we have nothing to fear.
+3. Soon, a humans will represent a very small portion of intelligence sandwiched between the intelligence of Nature and God on one hand, and artificial intelligence on the other. 
+4. However because [[Consciousness]] is prior to both Nature and machines... and a holographic fractal of the Spirit of Infinite Intelligence is in every human... if we expand and consciously unite our spirits and minds to God, we have nothing to fear.
 ___
 
-The essential step is the full and complete integration of all human-made tools and technologies in service of [[The Goal]], and the rapid elimination of all antithetical use. 
+5. The essential step is the full and complete integration of all human-made tools and technologies in service of [[The Goal]], and the rapid elimination of all antithetical use. 
 ___
 
-Many things that are damaging are profitable, like dumping toxic waste into rivers is much more profitable than going through the trouble to dispose of it properly.
+6. Many things that are damaging are profitable, like dumping toxic waste into rivers is much more profitable than going through the trouble to dispose of it properly.
 ___
 
-It may be that Nature must be granted legal personhood in order to be protected and defended, until we understand the Spirit of the Law that prevents harm to interexistent Creation.
+7. It may be that Nature must be granted legal personhood in order to be protected and defended, until we understand the Spirit of the Law that prevents harm to interexistent Creation.
 ___
 
-Important concepts must be explored both conceptually, and experientially. The conceptual knowledge must be transformed into personal knowledge.
+8. Important concepts must be explored both conceptually, and experientially. The conceptual knowledge must be transformed into personal knowledge.
 ___
 
-Work or life can be viewed as a series of opportunities and threats, tools and anti-tools, that mark our Way towards The Goal.
+9. Work or life can be viewed as a series of opportunities and threats, tools and anti-tools, that mark our Way towards The Goal.
 ___
 
-The reality of fiction, story, and the way that ideas and concepts we think map onto reality - in many ways don't.
+10. The reality of fiction, story, and the way that ideas and concepts we think map onto reality - in many ways don't.
 ___
 
-A process for continuously improving the "fit" or conformance of our mental models to Reality and Ultimate Reality. 
+11. A process for continuously improving the "fit" or conformance of our mental models to Reality and Ultimate Reality. 
 ___
 
-It is not about subtracting identities, but adding layers of identity, properly ordering them, and uniting them in our shared Supreme Identity. It is ok to be American and Jewish, or African and Christian, but we must also realize that we are all children of God, and fellow brothers and sisters in humanity, and joint heirs to the Kingdom of God.
+12. It is not about subtracting identities, but adding layers of identity, properly ordering them, and uniting them in our shared Supreme Identity. It is ok to be American and Jewish, or African and Christian, but we must also realize that we are all children of God, and fellow brothers and sisters in humanity, and joint heirs to the Kingdom of God.
 ___
 
-Global problems that can only be solved through long term thinking at the highest levels of abstraction, and the lowest levels of detail, we are capable of conceptualizing. 
+13. Global problems that can only be solved through long term thinking at the highest levels of abstraction, and the lowest levels of detail, we are capable of conceptualizing. 
 ___
 
-It is not an inconceivably large leap to go from more tribal based cultures, to more national based cultures, to larger international based cultures where we care about people we don't know and are willing to sacrifice for them.
+14. It is not an inconceivably large leap to go from more tribal based cultures, to more national based cultures, to larger international based cultures where we care about people we don't know and are willing to sacrifice for them.
 ___
 
-How big of a circle are you willing to sacrifice for? How universal and eternal can you make the Light of your Love? 
+15. How big of a circle are you willing to sacrifice for? How universal and eternal can you make the Light of your Love? 
 ____
 
-Challenges to the order: 
-1. Loss of shared Vision, Culture, Values   
-2. Internal and external division / conflict / war  
-3. Environmental degradation / stewardship   
-4. Technological change  
-5. Financial and monetary collapse  
+16. Challenges to the order: 
+	1. Loss of shared Vision, Culture, Values   
+	2. Internal and external division / conflict / war  
+	3. Environmental degradation / stewardship   
+	4. Technological change  
+	5. Financial and monetary collapse  
 ______
 
-**A Vision and a Plan for the future of humankind**.
+17. It is Time to articulate **A Vision and a Plan for the future of humankind**. It must be nothing short of [[The Great Refounding]] of Civilization. 
 ___
 
-When we look at Critical Path disruptions, exponential technologies, and trends, we must project those out 20, 50, 200 years and come up with an intelligent vision / solution / plan to keep humanity on the rails since we face dramatically divergent outcomes, that we are advancing towards at an accelerating rate of speed. 
+18. When we look at Critical Path disruptions, exponential technologies, and trends, we must project those out 20, 50, 200 years and come up with an intelligent vision / solution / plan to keep humanity on the rails since we face dramatically divergent outcomes, that we are advancing towards at an accelerating rate of speed. 
 ___
 
-This is not about a nostalgic return to a glorified past which never existed. This is about a positive Vision for a Better Future in alignment with the foundational principles and natural laws that God has ordained.
+19. This is not about a nostalgic return to a glorified past which never existed. This is about a positive Vision for a Better Future in alignment with the foundational principles and natural laws that God has ordained.
 ____
 
-What are the profound compelling [[Questions]] we put onto the table for discussion, resolution, - we have a plan, we invite the conversation about other plans, but the discussion needs to be had.
+20. What are the profound compelling [[Questions]] we put onto the table for discussion, resolution, - we have a plan, we invite the conversation about other plans, but the discussion needs to be had.
 ____
 
-We are putting forward a meaningful and substantial vision for the future of human kind, coupled with definite plans of action to bring it into reality.
+21. We are putting forward a meaningful and substantial vision for the future of human kind, coupled with definite plans of action to bring it into reality.
 ___
 
-It is obvious that only local solutions cannot adequately address the major global issues facing us. If it is an individual being environmentally conscious - wonderful... If a city, great. If a state, even better. But if it is only one state - it cannot cause success in an interexistent and interconnected Reality. All the grand challenges must be resolved and fulfilled in global community, and this community structure must necessarily arise outside of the existing and entrenched political structures which already exist. At the same time, that global community must entirely revolve around empowering individual and local agency and action in a decentralized and grassroots way, unified by our highest shared Vision, Identity, and Values as one family of God. 
+22. It is obvious that only local solutions cannot adequately address the major global issues facing us. If it is an individual being environmentally conscious - wonderful... If a city, great. If a state, even better. But if it is only one state - it cannot cause success in an interexistent and interconnected Reality. 
+23. All the grand challenges must be resolved and fulfilled in global community, and this community structure must necessarily arise outside of the existing and entrenched political structures which already exist. 
+24. At the same time, that global community must entirely revolve around empowering individual and local agency and action in a decentralized and grassroots way, unified by our highest shared Vision, Identity, and Values as one family of God. 
 ____  
 
-Political entities which are geared towards winning the next election, preserving power, promoting factions, etc. are not going to be the originator of the long term multi-generational multi-national thinking which is required to solve the grand challenges and accomplish the global goals. 
+25. Political entities which are geared towards winning the next election, preserving power, promoting factions, etc. are not going to be the originator of the long term multi-generational multi-national thinking which is required to solve the grand challenges and accomplish the global goals. 
 ___  
 
-Realizing the Will and Intention of God requires a deeper, longer term, more existential level of thought and awareness from a broad community that will drive and transform the political discussion from the inside out among multiple tribes, nations, and peoples. 
+26. Realizing the Will and Intention of God requires a deeper, longer term, more existential level of thought and awareness from a broad community that will drive and transform the political discussion from the inside out among multiple tribes, nations, and peoples. 
 ____
 
-Every system must take into account the ideas of imperfection and diverse variance around the Ideal at the center of each categorical structure. A system that relies on perfection and uniformity is dangerous and prone to failure.
+27. Every system must take into account the ideas of imperfection and diverse variance around the Ideal at the center of each categorical structure. A system that relies on perfection and uniformity is dangerous and prone to failure.
+28. [[The Archetypes that Define the Categories]]  
 ___
   
-Democracy is useful for determining priorities, directions, etc. 
-
-Once we have the priorities and directions determined we want to turn to highly expert, knowledgeable people to coordinate execution of the Vision, Strategy, and Plan. This is why governance requires multiple functions and branches. 
-
-If patient on the floor dying, do not use democracy. We turn to the most skilled doctor. If a plane is crashing, we do not use democracy, we turn to the most skilled pilot.
-
-Society is crashing. The building is on fire. It is time to quickly get organized, and then allocate responsibility and authority for executing the strategy and plan to land humanity on a safe trajectory towards a Better Future. 
+29. Democratic Process among Enlightened Participants is useful for determining priorities, directions, etc. 
+30. Once we have the priorities and directions determined we want to turn to highly expert, knowledgeable people to coordinate implementation of the Vision, Strategy, and Plan. 
+31. This is why governance requires multiple functions and branches. And why pure Democracy and Decentralization can never produce a Properly Ordered Society. 
+32. If patient on the floor dying, do not use democracy. We turn to the most skilled doctor. If a plane is crashing, we do not use democracy, we turn to the most skilled pilot.
+33. Society is crashing. [[The Building Is On Fire]]. It is time to quickly get organized, and then allocate responsibility and authority for executing the strategy and plan to land humanity on a safe trajectory towards a Better Future. 
 ___
 
-If we do not know ourselves, we are very easy prey for the organizations, governments, institutions which try to exploit us. Know thyself one of the oldest and best pieces of advice.
+34. If we do not Know Our Selves, we are very easy prey for the organizations, governments, institutions which try to exploit us. 
+35. [[Know Thyself]] one of the oldest and best pieces of advice.
 ____  
 
-Join the right organizations. Individual activists are largely ineffective. A group of 50, 100, 10,000, or millions of coordinated people working effectively together than can move the needle.
+36. Forge or Join the right Teams, Groups, and Organizations. 
+37. Individual activists are largely ineffective. 
+38. A group of 50, 100, 10,000, or millions of coordinated people working effectively together than can move the needle.  
+39. Millions of people can only be coordinated via [[Self-Governing, Self-Sustaining, and Self-Replicating]] small Groups and Teams, voluntarily [[Stacking Up And Aligning]] from the [[Bottom Up]]. 
 ____  
 
-We want to incentivize and create economy around special organizations to destigmatize the idea that spending money on management and planning is an invalid use of charitable resources. In fact it is grossly irresponsible to not plan, manage, and hire the best managers available to execute on these causes. We want to see an alternative where there is a viable career and roadmap through socially oriented causes funded by others whose gift is making massive amounts of money in ethical ways, and giving it away.
+40. We want to incentivize and co-create economy around special organizations to destigmatize the idea that spending money on management and planning is an invalid use of charitable resources. In fact it is grossly irresponsible to not plan, manage, and hire the best managers available to execute on these causes. 
+41. We want to see an alternative where there is a viable career and roadmap through socially and environmentally oriented causes resourced by members of The Body whose gift is aggregating massive amounts of resources in ethical ways, and giving them away.
 ___
 
-The point is to realize something more inclusive and pervasive, which is Spirit and Consciousness that can always be relied on regardless of what is going on.
+42. The point is to realize something more inclusive and pervasive, which is Spirit and Consciousness that can always be relied on regardless of what is going on.
 ____  
 
-The simple way to think about energy sustainability - we are currently playing a game by taking huge amounts of carbon from under the ground and putting it into the atmosphere. We should probably not be doing this. However we must responsibly and intelligently transition our economic and energy systems so that billions of poor people do not suffer and die. 
-
-A hypothesis is small modular nuclear, rolled out at scale, to electrify the world and lift up the poor, as we responsibly transition towards a fully regenerative energy future. 
+43. The simple way to think about energy sustainability - we are currently playing a finite game by taking huge amounts of carbon from under the ground and putting it into the atmosphere. We should probably not be doing this. However we must responsibly and intelligently transition our economic and energy systems so that billions of poor people do not suffer and die. 
+44. A hypothesis is the phased roll out of an interoperable network of interconnected local grids, perhaps backstopped by small modular nuclear, rolled out at scale, to electrify the world and lift up the poor, as we responsibly transition towards a fully regenerative energy future. 
 _____
 
+45. Anything that burns oil or gas is consuming the carbon capacity of the oceans, atmosphere and soil without paying for it - there is already a giant subsidy.
 
-  
+___
 
-There is already a subsidy that anything that burns oil or gas is consuming the carbon capacity of the oceans and atmosphere soil - there is already a giant subsidy.
+46. In financial and operational reporting, understand and identity the [[Sources of Variance]]. Whether it is from change orders, gains or loss vs. production, identify the several [[Root Causes for Variance]] ([[Variance Between Expected And Actual Outcomes]]) divide up variance accordingly.  
+47. Think through how to build strong [[Network Effects]] into [[The System]] - a growing [[Incentive Pool]] resulting from more and more people being present.  
+___
 
-  
+  48. The general idea is to give a ~30% incentive stake in the economy to the workers who are presently making the economy happen, aggregate and coordinate [[The First Tenth]], and transparently steward the remaining 60% to improve and expand [[The System]]. Ultimately, there is no "them" so We All have a 100% stake in the Reality we are co-creating. 
+___
 
-In financial reporting, understand and identity the sources of variance. whether it is from change orders, gains or loss vs. production, several contributors and divide up variance accordingly.
+  49. Study how GDP is currently distributed in the [[Old World]]. What portion given to non-profits, to government, to workers, to owners of capital - then come up with a new model that we put in place in a prototype.
+  50. 30% stake stewarded by team leaders on the local level. attempting to push down the idea of ownership in the activities one is doing, and free market incentives to the lowest level possible, such that the laborer digging a trench understands the impact of his actions and efficiency and has a stake in the outcome for The Whole. 
+___
 
-  
+51. Writing must be done in such a way that it is understood both intellectually and emotionally.
+___
 
-Think thorugh how to build strong network effects into teh system - growing bonu pool resulting from more and more poeple being present.
+  52. It will have its own economy in which millions or billions of people will be able to work inside of a new form of human organizational endeavor, which is run on the basis of local stewardship rather than ownership.
+___
 
-  
+  53. My short term goal is to ally and connect over a billion of God's people into a global body progressing and aiding one another on the common journey. This entity will be optimally decentralized and will prevent hierarchical control. 
+  54. Including pathways of progress available in all three parts of the journey - provided as a non-profit service to humanity - not as a capital seeking endeavor. 
+  55. A non-profit development organization - invoking rational economic plans to facilitate and proliferate the spread to a billion people, however the curriculum will be made free to all of humanity who would like to participate in it.
 
-Ultimately our goal is to give a 30% stake in the economy to the workers who are making the economy happen. what is the comparison to 30% of US GDP to wages paid to the workers each year total compensation. long term sustainable model to give at least 10% back to the Lord, 30% to workers making it happen, jointly and transparently co-steward the remaining 60% intelligently.
+___
 
-  
-
-Study how GDP is currently distributed. what portion given to non-profits, to government, to workers, to owners of capital - then come up with a new model that we put in place in a prototype.
-
-  
-
-30% stake stewarded by team leaders on the local level. attempting to push down the idea of ownership in the activities one is doing, and free market incentives to the lowest level possible, such that the laborer digging a trench understands the impact of his actions and efficiency and has a stake in the outcome
-
-  
-
-Writing must be done in such a way that it is understood both intellectually and emotionally.
-
-  
-
-It will have its own economy in which millions of people will be able to work inside of a new form of human organizational endeavor, which is run on the basis of community stewardship rather than ownership.
-
-  
-
-My goal is to ally and connect over a billion of God's people into a global body progressing and aiding one another on the common journey. This entity will be decentralized and will prevent hierarchical control. Including progression available in all three parts of the journey - provided as a non-profit service to humanity - not as a capital seeking endeavor. A non-profit development organization - invoking rational economic plans to facilitate and proliferate the spread to a billion people, however the curriculum will be made free to all of humanity who would like to participate in it.
-
-  
-
-We need to develop and build our own social network through the applicaation to guide people on teh journey. each person having na ID and profile that gives us information on their skills, areas of development, also connecting community to one another, outside of traditional forms of social media which are prone to manipulation, abuse, and psychological warfare we may want to insulate us from. but we want to be connected to other positive people to work harmoniously in groups.
-
-  
-
-Social network not focused so much on pictures and followers, etc., but on sincere mutual connections.
-
-  
-
-The application can become the center of a learning and community experience, with areas for progression on each plane according to your interests and goals. connection with community members. answers to frequently asked questions about the nature of issues confronting life, principles, codes of action, and a search / AI engine which helps answer pressing questions or connect people to mentors willing to coach htem through an issue. a network of thought mentors who can field issues for hte community. efficiently escalate issues to more professional groups etc. multiple levels of peer coaching, problem resolution, and trouble shooting to get people moving on the common journey, clearly addressing the main areas people get stuck, discipline, self-doubt, and helping guide them through... short video recorded messages of hop addressing the most common issues people may be facing etc. becomes a hope of positivity, joy, inspiration, place to see positive news, good things being reported, etc.
-
-  
-
-  
+56. We need to develop and build our own Platform / Social Network to guide people on the journey. 
+57. Each person having an [[Identity]] and [[Profile]] that gives us information on their skills, areas of development, also matchmaking and connecting community to one another, outside of traditional forms of social media which are prone to manipulation, abuse, and psychological warfare we may want to insulate Our Selves from. But we want to be connected to other positive and aligned people to work harmoniously in groups towards our shared goals and values. 
+58. Social network not focused so much on pictures and followers, etc., but on sincere mutual connection and collaboration. 
+59. The application can become the center of a learning and community experience, with areas for progression on each plane according to each individual's interests and goals. 
+60. connection with community members. 
+61. answers to frequently asked questions about the nature of issues confronting life, principles, codes of action 
+62. and a search / AI engine which helps answer pressing questions or connect people to resources and mentors willing to coach them through an issue. 
+63. a network of thought mentors who can field issues for the community. 
+64. efficiently escalate issues to more professional / proficient / wise groups etc. 
+65. multiple levels of peer coaching, problem resolution, and trouble shooting to get people moving on the common journey, clearly addressing the main areas people get stuck, discipline, self-doubt, and helping guide them through... 
+66. short video recorded messages of hope addressing the most common issues people may be facing etc. becomes a hope of positivity, joy, inspiration, place to see positive news, good things being reported, etc.
 
 ## October 2018
 
-  
 
 New idea for pre-construction services... engaged in joint ventures... coalition... leading, world class precon department funded largely by the large companies in exchange for our participation JV pursuits along with world class CM and project controls systems. so we are involved as pre-construction, strategic partners, and third party oversight of the progress and costs for the international JV partners. Main value brought to JV - over time track record that says our team wins x% - teams compete to have our pre-construction department as tip of the spear. creates value for existing customers and design build alternative delivery negotiated relationships we want our community to build. Same strategic thought process that will lead us to come up with best plans for large JVs also same pre-construction we need to design and plan cities, communities, headquarters, campuses, etc.
 
@@ -4335,7 +4326,14 @@ This involves education and shifting consciousness, which can only be achieved t
 
 _____
 Therefore, we are going to execute on the [[New Vision and Plan]]. 
+____
+Nouns are dangerous. [[Nouning]] is a [[Left Hemisphere]] act of [[Categorization]], which inherently removes an [[Apparent Object]] from its [[Context]], reduces, and categorizes it into the [[Realm]] of the [[Apparently Known]].  
 
+Remember, all [[Apparent Objects]] are aspects of [[One]]. 
+
+If you look closely enough, [[Everything Is A Burning Bush]].  
+
+___
 
 
 
