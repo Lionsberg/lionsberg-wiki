@@ -21,32 +21,33 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 
 1.  Source / Ultimate Reality 
 2.  Pure Consciousness  
-3.  Being  
-4.  Direct Experience   
-5.  Perception  
+3.  Energy and Information   
+4.  Embodied / Incarnate Being  
+5.  Direct Experience   
+6.  Perception  
     -   Observation  
     -   Sensation  
     -   Attention  
     -   Awareness  
-6.  Intuition  
+7.  Intuition  
     -   Insights  
     -   Hunches  
     -   Inspiration  
-7.  Conceptualization  
+8.  Conceptualization  
     -   Abstraction  
     -   Imagination  
     -   Creativity  
     -   Models  
     -   Systems Thinking  
-8.  Reasoning  
+9.  Reasoning  
     -   Analysis  
     -   Frameworks  
-9.  Philosophy  
+10.  Philosophy  
     -   Ontology  
     -   Epistemology  
     -   Ethics  
     -   Aesthetics  
-10.  Theory  
+11.  Theory  
     -   Environmental Theories  
     -   Scientific Theories  
     -   Mathematical Theories  
@@ -54,10 +55,10 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Cultural Theories  
     -   Economic Theories  
     -   Hypothesis Generation  
-11.  Strategy  
+12.  Strategy  
     -   Strategic Thinking   
     -   Strategic Planning  
-12.  Planning  
+13.  Planning  
     -   Decision-making  
     -   Problem-solving   
     -   Goal-setting  
@@ -67,7 +68,7 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Delegation  
     -   Contingency Planning  
     -   Risk Management  
-13.  Execution  
+14.  Execution  
     -   Tactics  
     -   Action Steps  
     -   Implementation  
@@ -75,28 +76,28 @@ And at the level of action, we are taking concrete steps to achieve our goals.
     -   Hypothesis Testing   
     -   Skill Development  
     -   Performance Improvement  
-14.  Impact  
+15.  Impact  
     -   Outcomes  
     -   Effects  
     -   Consequences  
     -   Results  
     -   Data Collection and Analysis  
-15.  Context  
+16.  Context  
     -   Environment  
     -   Culture  
     -   Society  
     -   History  
-16.  Learning and Improvement  
+17.  Learning and Improvement  
     -   Continuous Learning  
     -   Continuous Improvement  
     -   Adjustment and Adaptation   
-17.  Integration  
+18.  Integration  
     -   Synthesis  
     -   Synergy  
     -   Interdisciplinarity  
     -   Connectedness  
     -   Holistic Thinking  
-18.  Transcendence. 
+19.  Transcendence. 
     -   Transpersonal Psychology  
     -   Mysticism  
     -   Spirituality  

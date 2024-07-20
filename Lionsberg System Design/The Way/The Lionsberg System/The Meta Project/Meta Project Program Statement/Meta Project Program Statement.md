@@ -50,7 +50,7 @@ The latest edition of the living [[Meta Project Program Statement]] can be found
 ____
 ## The Meta Project Program Statement
 
-[[0. Introduction]]  
+[[Lionsberg System Design/The Way/The Lionsberg System/The Meta Project/Meta Project Program Statement/0. Introduction]]  
 [[1. Intention]]  
 [[2. Analysis]]  
 [[3. Engagement]]  
