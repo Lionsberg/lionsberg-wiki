@@ -1,6 +1,6 @@
 # Beings From Beyond - Humanity's Greatest Opportunity and Threat
 
-This book is a [[Work In Progress]], being progressively revealed and articulated. Please excuse our dust. 
+This book is a [[Work In Progress]], being progressively revealed and articulated. Please excuse our dust.  
 
 [[Lionsberg Wiki Books/Beings From Beyond/0. Introduction|0. Introduction]]  
 [[1. The Bad News]]  
