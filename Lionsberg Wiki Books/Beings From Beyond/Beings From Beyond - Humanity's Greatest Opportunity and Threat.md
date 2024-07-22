@@ -26,4 +26,4 @@ This book is a [[Work In Progress]], being progressively revealed and articulate
 [[21. Ancient Records]]   
 [[22. Aliens and Fascists In the 21st Century]]  
 [[23. What's Next]]  
-
+[[24. For Further Investigation]]  
