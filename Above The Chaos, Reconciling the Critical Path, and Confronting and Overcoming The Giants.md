@@ -208,7 +208,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 - The problem of [[Socioeconomic Inequality]] is far more difficult to deal with than it appears on the surface. 
 - For a variety of reasons, something like the [[Pareto Principle]] tends to guide the distribution of productive capacity in many systems. 
-- The principle is so named because of an Italian Mr. Pareto who noticed that 20% of his pea plants were producing 80% of his fees. 
+- The principle is so named because of an Italian Mr. Pareto who noticed that 20% of his pea plants were producing 80% of his peas. 
 - Likewise in many companies, 80% to 90% of the results in an array of areas are accomplished by 10% to 20% of the people. 
 - 80% to 90% of pollution caused by 10% to 20% of the polluters, etc. 
 - Over time, there also tends to be a small percentage of the population capable of outsized entrepreneurial productivity. 
@@ -301,7 +301,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 #### Taxes
 
-- While “death and taxes” seem eternal, in Reality there were no federal income taxes until after World War I, when the publicly-espoused Founding Principles of the United States began to be abandoned at an accelerating rate, and the the American Imperial World Order began to rise in service of the [[Invisible Power Structures]]. 
+- While “death and taxes” seem eternal, in Reality there were little to no federal income taxes until after World War I, when the publicly-espoused Founding Principles of the United States began to be abandoned at an accelerating rate, and the the American Imperial World Order began to rise in service of the [[Invisible Power Structures]]. 
 
 #### Politics 
 
@@ -519,6 +519,9 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - ***As a consequence of this never-ceasing technological increase in overall efficiency, the actual overall cosmically predicated costs of energy generation have always and only decreased, and cost increases have been the consequence of those in top power-positions contriving through pricing to be able to pay ever greater dividends to shareholders and thus to increase the stockmarket value of their own shares, thus in turn to increase their power to control the amassed money of others as capital. Such capital power manipulation is intoxicating and seemingly unchallengeable.***”
 - “After [[World War II]], the electric power industry’s three-quarters-of-a-century-accumulated wealth ***successfully combined its political power with that of the oil giants to “take over for nothing” the total atomic-energy program assets***. 
 - ***This included all of the know-how and production apparatus of the U.S. government’s military atomic-energy program, for which development the U.S. citizens had paid $150 billion.***”
+
+
+
 - “To initiate ***his wired and metered electric-energy-power monopoly*** in the “gay nineties”—1890—which three-fourths of a century later became ***an overwhelming socioeconomic power***, the elder J. P. Morgan used the earlier formula of issuing bonds and preferred stocks on each of his enterprises as soon as they were paying dividends. ***He was thus provided with additional free capital to initiate other branches of the power-structure system***: for example, in copper mining (for use in the generation and conduction of electric power), steel manufacture (for the high-line masts and structural housings of the electric equipment), etc. 
 - He used his engineering firm of Stone-Webster to design and build ***his foreign-country power systems*** operated by Electric Bond and Share Company—EBASCO. ***His price-increasing by the power companies was automatically matched by increase in the stock-market sale of his companies’ shares***. These share values increased with his own equities’ advance. ***Using these equities as capital, he opened his own banks.*** 
 
@@ -555,7 +558,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - Value measured only relative to each other. 
 - Countries intentionally devalue currency to make themselves good trading partners 
 - In the current debt-denominated system, ***we borrow all currency into existence*** 
-	- it is a ***classic ponzie scheme*** 
+	- it is a ***classic ponzi scheme*** 
 	- ***the more money they loan us, the more money they have to loan us in the future, and if they ever stop, the whole thing collapses and we can't pay them back***
 - With creation of all this [[Currency]], it dilutes the value of all dollars that were out there before. This is what we call [[Inflation]]. It is created by [[The Giants]] and the [[Invisible Power Structures]] ***intentionally*. 
 - In 90s, savings rate got down to zero 
@@ -817,7 +820,7 @@ ____
 - Mind possibly may  serve as the essential, anti-entropic (syntropic) function  for eternally conserving the omni-interaccommodative,  nonsimultaneous, and only partially overlapping, omniintertransforming, self-regenerating scenario—which We speak of as Universe.  
 - Mind, operative aboard our planet Earth and probably  elsewhere in Universe in a myriad of effective circumstances, can and may perform the paramount function of  conserving the scenario “Universe.” If so, it will have to  be accomplished by apprehending, comprehending, and  teleologically employing the metaphysical, weightless,  omni-intercooperative generalized principles of Universe  in strategically effective degree and within a critical time  limit. 
 - This can be accomplished in progressively more effective ways—for instance, by Earthians competently “fielding” all those physical energy increments entropically  broadcast by the stars, which happen to impinge kinetically upon our Earth as it orbits the Sun. Employing the  appropriate biological and physiological principles, these  receipts must be collected, sorted, analyzed, synergetically comprehended, and symmetrically combined into  complex but orderly, macro-and-micro-cohering aggregates.
-- Systems always divide all Universe outside the system from  all of the Universe inside the system. All systems are finite subdividers of macro- and micro-Universe.
+- [[Systems]] always divide all Universe outside the system from  all of the Universe inside the system. All systems are finite subdividers of macro- and micro-Universe.
 
 
 

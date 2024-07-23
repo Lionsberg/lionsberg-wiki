@@ -381,6 +381,7 @@ ______
 	- The two most censored events in US history - 2020 election, and covid 19 pandemic 
 - 2020 Election 
 	- determined by mail in ballots 
+		- AP - Fewer than one-third of voters casting ballots in last year’s U.S. presidential election did so at a polling place on Election Day
 	- censorship issue was extraordinary 
 	- plot within department of homeland of security.
 	- grouped with Atlantic Council and foreign policy establishment 
