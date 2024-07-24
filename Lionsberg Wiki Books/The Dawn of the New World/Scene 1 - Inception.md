@@ -21,3 +21,8 @@ The spark of Divine Imagination continued to grow, speak, and create, giving bir
 And then there came the beings, great and small, each possessing its own unique spirit, thoughts, hopes, fears and dreams. Some were meek and unassuming, while others were mighty and awe-inspiring. They inhabited a universe of wonders, brought to life by the Divine Spark of Imagination, woven together into the Cosmic Tapestry of Emergent Coherence, struggling against the forces of Entropy continually threatening to tear then asunder.
 
 The radiance of Spirit and Imagination from the Creator was the source of All [[Creation]], forever inspiring and guiding the universe towards its [[Destiny]]. 
+
+___
+Forward to: [[Scene 2 - Humanity Awakens]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

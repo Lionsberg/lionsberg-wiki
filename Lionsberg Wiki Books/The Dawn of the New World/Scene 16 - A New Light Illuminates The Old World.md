@@ -9,3 +9,9 @@ Having been enraptured in a Divine Vision of the emerging New World, Xion was di
 As Xion traversed the community, he was filled with sorrow. The streets were littered with trash, needles, and debris, the homeless and the hopeless slumped over in drugged stupor, and Earth's people hid in their homes, frightened and confused. Even worse was the terror in the eyes of those lying in the streets and sidewalks, who lacked even a shelter to hide in from the terrible sensations that assaulted them. 
 
 As Xion continued, he saw Earth's people suffering, their pain palpable. His heart broke for them. With each step and new sight, his resolve intensified. He felt himself tingling and transforming as his DNA activated the New coding prepared in advance for this moment in Time.   
+
+___
+Forward to: [[Scene 17 - The Corrupt Priest]]  
+Back to: [[Scene 15 - Writing In The Spirit]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

@@ -7,3 +7,9 @@ Xion's heart raced as he questioned Zaya's presence in the room. She looked back
 Xion hesitated before revealing his vision to Zaya, not wanting to put her in harm's way. However, he knew that he could not remain hidden forever and needed someone to confide in.
 
 Zaya listened intently as Xion recounted his experience and the Spirit's guidance. Overwhelmed with emotion, Zaya pledged to stand by Xion and help him carry out the Plan. Xion, feeling a surge of hope and courage, knew that he had found a trusted ally, friend, and partner for this perilous journey.  
+
+___
+Forward to: [[Scene 22 - A Shared Plan Takes Shape]]  
+Back to: [[Scene 20 - The Spirit Reveals Next Steps]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

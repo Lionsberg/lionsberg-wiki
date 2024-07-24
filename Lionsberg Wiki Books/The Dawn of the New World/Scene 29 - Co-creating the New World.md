@@ -11,3 +11,9 @@ As they worked together, day by day they began to co-create the New World. They 
 The celebration and joy continued hand in hand with work. Smiles and laughter echoed through the valley, replacing the shrieks and groans that had besieged their ears over the previous weeks. They had never experienced such great joy and meaning. It was truly a joy to work together to rebuild and restore Earth. Tirelessly, they labored together to create a world of peace and abundance for every member of their society, without exception.
 
 Every moment, and every stone they laid to build the New World was guided by the Spirit, and in harmony with the Vision and Plan that was growing clearer day by day through their collective discernment and co-creation. They were inspired and motivated by their love for each other and God, their deep gratitude for the opportunity to forge a New Era, and their desire to co-create a world of beauty, harmony, and prosperity for All. 
+
+___
+Forward to: [[Scene 30 - The New World in Harmony]]  
+Back to: [[Scene 28 - Discovering the Hidden Treasure]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

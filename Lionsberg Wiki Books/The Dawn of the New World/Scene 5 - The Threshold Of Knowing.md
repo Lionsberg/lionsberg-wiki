@@ -12,3 +12,8 @@ Those who crossed the Threshold of Knowing faced countless challenges and danger
 
 The few valiant souls who returned were hailed as [[Heroes]]. Celebrations erupted in the streets, and holidays and festivals were declared in their honor. Each time valuable Gifts, Boons and [[Information]] were brought back from beyond The Boundary, it invigorated and revitalized the community.
 
+___
+Forward to: [[Scene 6 - Progress And Trouble In Paradise]]  
+Back to: [[Scene 4 - Life Within The Boundary]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

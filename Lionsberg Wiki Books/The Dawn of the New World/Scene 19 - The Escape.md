@@ -9,3 +9,9 @@ As Xion continued to outpace the guards, he made his way to one of these secret 
 Entering the hidden room, Xion quickly shut the door behind him and lit a candle. With the soft glow of the candlelight, Xion took a deep breath, and he began to pray. He asked the Spirit to protect, shield and guide him. As he prayed, he felt the power of the Spirit flowing through him, and he knew that he was not alone. The strange, seemingly ancient hieroglyphic writings on the walls danced and appeared to glow in the candlelight, longing to reveal the powerful secrets they had obscured for millennia.    
 
 Outside the Secret Place, the guards grew increasingly irate as they searched for Xion in vain. 
+
+___
+Forward to: [[Scene 20 - The Spirit Reveals Next Steps]]  
+Back to: [[Scene 18 - The Corrupt Governor]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

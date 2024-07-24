@@ -9,3 +9,9 @@ Faced with these options, the Old leaders vowed to abide by the New Law and pled
 As the day drew to a close, Xion and the Force For Good surveyed the state of Earth. By taking the risk of crossing the Threshold into the Unknown to confront and overcome the Forces Of Darkness outside their walls, the town had largely been spared. That first night of the New Era, they ensured that everyone had a safe place to sleep, they stationed guards and watchmen on The Walls, and for the first time in years, the families slept with their gates and shutters open. 
 
 As the sun set, Xion made his way back up to the highest place on the ramparts, where the Spirit had brought him and lifted him alone. Alone, he fell on his knees, wept, and prayed. He knew that great challenges and opportunities still lay ahead, but that the Spirit would always be with them to show them the Way towards [[Heaven On Earth]]. 
+
+___
+Forward to: [[Scene 28 - Discovering the Hidden Treasure]]  
+Back to: [[Scene 26 - The Day of Battle]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

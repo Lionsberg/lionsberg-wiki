@@ -13,3 +13,9 @@ Yet they remained cautious, aware of the dangers lurking within the valley. Dist
 Undeterred by the dangers, the man and woman resolved to make the most of their new home. They gathered fruit, nuts, and berries, and hunted animals when necessary. They built a shelter from sticks, stones, and leaves and collected firewood to stay warm at night.
 
 As they settled into their new life and grew secure in their basic needs, their [[SpatioTemporal Domain]] of Concern began to expand, and they began to consider their [[Future]]. Knowing they needed to [[Co-Operate]] to survive, they imagined and formed a [[Society]] centered around a loving [[Family]]. They divided tasks and responsibilities, working tirelessly to improve their environment. Facing the [[Challenges]] and [[Opportunities]] of their [[New Territory]], the man and the woman remained hopeful and optimistic. They knew they possessed the strength and determination to overcome [[Obstacles]] and were committed to forging a bright and prosperous future for themselves and the society [[Emergence|Emerging]] through them.
+
+___
+Forward to: [[Scene 3 - The Boundary]]  
+Back to: [[Scene 1 - Inception]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

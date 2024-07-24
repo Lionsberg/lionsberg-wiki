@@ -12,3 +12,9 @@ As they learned to place the Creator at The Center and base everything on Love, 
 
 [[Heaven On Earth]] was at hand. 
 
+___
+
+Back to: [[Scene 30 - The New World in Harmony]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  
+

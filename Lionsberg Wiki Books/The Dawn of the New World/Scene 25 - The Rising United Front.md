@@ -11,3 +11,9 @@ As more small groups met and discussed the Vision and Plan, they began organizin
 As days passed, the groups grew larger and more organized. They began to coordinate their actions, sharing information and resources with one another. They continued developing the network of underground channels through which they could communicate and support one another, and they began to understand the strengths and capabilities of each small group. Soon, the teams began to transform into a [[Team of Teams]], capable of engaging in larger Missions, and stacking up and aligning their efforts to accelerate [[Critical Path]] Progress towards [[The Goal]]. 
 
 Even as the Old World seemed to shake, crumble, and fail, the Force For Good could see that the [[New Pattern Language]] of the New World was  already emerging and coming into form. Day by day, they drew closer to the moment of Truth, when everything they were Becoming would be tested and forged in The Great Battle.   
+
+___
+Forward to: [[Scene 26 - The Day of Battle]]  
+Back to: [[Scene 24 - The New Vision Spreads]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

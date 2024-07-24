@@ -11,3 +11,9 @@ The governor abruptly stood up and walked towards Xion. With a gesture, he summo
 Xion understand the situation exactly. He locked eyes with the governor and saw the fear and weakness hidden there. The same reptilian coldness he had witnessed in the priest betrayed him, and Xion could feel the lower energies radiating from the governor's veins. "I understand clearly," Xion said, his voice calm and resolute. "You are deceitful and ravenous wolves, intertwined in an unholy alliance of church and state. You live in luxury and security with your corrupt elite, while the poor suffer in the streets, and Evil prowls just outside the gates. Your heart has strayed far from the Spirit, so much so that you would betray the Spirit of Truth and forsake the Logos to maintain your own position and power. Your downfall is imminent, you serpent, and no one will come to your rescue. You think I fear you and the other Monsters like you, but I only fear the One who is God. I will go forth and speak, and I will Voice the Truthful words that will awaken and unite the Citizens, and usher in the New. Your time in power is over, along with all of your kind. Power and Authority on Earth belongs to God, and to Us, The People."
 
 As the governor's face flushed red and then a strange ominous green, Xion turned towards the door. He would speak the Logos of the Vision and Plan, no matter the consequences. 
+
+___
+Forward to: [[Scene 19 - The Escape]]  
+Back to: [[Scene 17 - The Corrupt Priest]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

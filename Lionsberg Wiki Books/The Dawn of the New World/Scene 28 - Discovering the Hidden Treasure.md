@@ -11,3 +11,9 @@ As the people once again grew angry and threatened to kill the Old leaders, Xion
 That evening, they held a great feast to commemorate the passing away of the Old and the birth of the New. Xion's speech resonated with everyone, inspiring them to let go of their anger and look together towards the Brighter Future that was now within reach. They raised their glasses in unity, pledging to work together in partnership with God and One Another towards the [[Best Possible Future]] for All.
 
 From the top of the Boundary, Xion looked down over the people, and looked out across the vast expanse of the Unknown, now clear of the Chaos he had witnessed before. He raised his glass and shouted down to the people, "Forward, into the Unknown, and may the Spirit be with us All as we navigate towards our Destiny and [[The Goal]]!"
+
+___
+Forward to: [[Scene 29 - Co-creating the New World]]  
+Back to: [[Scene 27 - The Cowardly Leaders]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

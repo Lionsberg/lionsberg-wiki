@@ -10,3 +10,8 @@ Once finished, Xion set down his pen and examined the paper. He marveled at the 
 
 With the Spirit's help, Xion had documented the Logos of the Vision and the Plan. Now, he simply had to speak and trust, and allow the New World to manifest itself through the Spirit and Power of God. 
 
+___
+Forward to: [[Scene 16 - A New Light Illuminates The Old World]]  
+Back to: [[Scene 14 - Speaking The Impossible]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

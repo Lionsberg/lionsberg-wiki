@@ -10,3 +10,9 @@ Xion was appalled and disheartened by the leader's reaction. "How can you say su
   
 
 Xion was shocked and disgusted by the false leader's words. "I hope and pray for your own sake," he replied, "that you do not realize how Evil and opposed to the Spirit of Christ the words you speak are. May God have mercy on your soul." He stormed out of the temple, ever more resolute to continue the Mission and help the Citizens of Earth save themselves from the Monsters and Demons that lurked both inside and outside the walls of their society, within their temples, and within their own souls.
+
+___
+Forward to: [[Scene 18 - The Corrupt Governor]]  
+Back to: [[Scene 16 - A New Light Illuminates The Old World]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

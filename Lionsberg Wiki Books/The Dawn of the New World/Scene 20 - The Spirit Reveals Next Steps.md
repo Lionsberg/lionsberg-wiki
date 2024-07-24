@@ -9,3 +9,9 @@ Xion spent hours devising a system that would allow him to broadcast the Words o
 Xion spent the rest of the day in his secret room, carefully planning out his strategy. He knew that the Vision and Plan would be rejected by the vast majority of society at first, perhaps over 99%, but he also knew that there were a few who could hear and see and understand. If he could reach those few, and they Resonated with The Spirit and Vibration of his message, then they could find the words to spread the message to [[The First 1,000]], and The First 1,000 could reach [[The First Three Percent]] of society who would be able to listen and hear.  If 3% could listen and hear, then 13% would be able to listen and hear. And if 13% could listen and hear, then the majority of the society, those who were not entirely corrupted, would follow quickly. 
 
 As night fell, Xion could hear the guards still searching for him, but he knew that he was safe in his secret room. He continued to pray and plan, waiting for the opportune moment to begin his mission. He worked, he prayed, he wrote, and eventually, he slept. 
+
+___
+Forward to: [[Scene 21 - An Intruder in the Secret Place]]  
+Back to: [[Scene 19 - The Escape]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

@@ -10,4 +10,9 @@ Within The Boundary there was a gate known as the [[Gate Of Knowledge]] that all
 As Earth's community grew and prospered, the people became increasingly isolated from the world outside The Boundary. Each subsequent generation knew less about what lay [[Beyond]]. This did not concern them, and they lived in happiness and contentment within their protected community. 
 
 Unbeknownst to them, a dark shadow was growing in the vast expanses Beyond The Boundary. A terrible threat was approaching, one that would challenge the people of Earth like never before.
-  
+
+___
+Forward to: [[Scene 4 - Life Within The Boundary]]  
+Back to: [[Scene 2 - Humanity Awakens]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]    

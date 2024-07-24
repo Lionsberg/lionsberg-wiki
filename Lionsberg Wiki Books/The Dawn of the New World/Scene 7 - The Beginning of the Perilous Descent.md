@@ -11,3 +11,9 @@ For the first time anyone could remember, people began to close their shutters a
 As things grew darker, some of the elders began being reminded in their dreams of the frightening stories brought back by ancient heroes who had ventured beyond The Boundary, warning of entire civilizations consumed by the Downward Spiral, never to be seen again. The people of Earth had never thought such a tragedy could befall their walled sanctuary. Now, parents feared for the future of their children, their grandchildren, and the generations to come. 
 
 Inside the walls of The Boundary, a dark and sinister power had taken root and was growing. The deaths and suffering were not just inflicted from without. Suicides, substance abuse, and depression ran rampant through the streets, seizing the innocent. But the people of Earth were not just facing problems within. An even greater threat was looming on the horizon. No matter how much they tried to distract themselves and ignore it, every cell of every body could feel that something was wrong, and growing wronger.  
+
+___
+Forward to: [[Scene 8 - The Forces of Darkness]]  
+Back to: [[Scene 6 - Progress And Trouble In Paradise]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

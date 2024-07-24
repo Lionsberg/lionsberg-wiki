@@ -25,3 +25,9 @@ The monetary system was realigned with universal values, liberating the communit
 The arts and sciences flourished, as people were free to pursue their passions and talents without fear of persecution or suppression.
 
 The New World was a place where everyone had the opportunity to develop towards their full potential and to live a life of meaning, purpose, and fulfillment. It was a world that was free from the corruption and evil of the Old World, and one that was truly worth fighting for.
+
+___
+Forward to: [[Scene 31 - A Bright Future]]  
+Back to: [[Scene 29 - Co-creating the New World]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  

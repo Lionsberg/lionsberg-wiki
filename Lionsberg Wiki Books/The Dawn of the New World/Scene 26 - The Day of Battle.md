@@ -9,3 +9,9 @@ As the battle commenced, the Forces of Darkness unleashed their might, a sight b
 Over several brutal days and nights, the battle raged on, with moments of despair when the Forces of Darkness seemed to prevail. Yet, the people of the Community fought with newfound determination, shocking the corrupt leaders who had stayed behind the safety of the Boundary. As the tide turned, Xion saw an opportunity to strike at the heart of the enemy forces. Leading a charge that pierced the Darkness, Xion and the One Body they had Become engaged the leader of the Forces Of Darkness in a fierce duel. In the end, the laser-sharp Light of the Sword of Truth glowed with the Light of Heaven and cut the Anti-One in two, and the Forces of Darkness were vanquished. As their leader fell, the Fascist Spell binding them together was broken, and their dissolving remnants scattered like dust in the wind. A sulfuric stench filled the air as the monstrous beings dissolved. 
 
 With the battle won, the people rejoiced and vowed to rebuild their society and co-create the New World revealed by the Spirit's Vision and Plan.
+
+___
+Forward to: [[Scene 27 - The Cowardly Leaders]]  
+Back to: [[Scene 25 - The Rising United Front]]  
+Back to Table of Contents: [[The Dawn of the New World]]  
+Onward to Other [[Lionsberg Wiki Books]]  
