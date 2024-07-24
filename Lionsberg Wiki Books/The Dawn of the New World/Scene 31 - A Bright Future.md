@@ -8,5 +8,7 @@ In the New World, the people were free to pursue their dreams, passions, and int
 
 In the New World, the people were connected to the Creator, to each other, and to all of creation. They understood that they were part of something larger than themselves, and they were grateful for the blessings that they had been given. They lived in gratitude, love, and joy. The people of the New World were at peace, and they were happy and free. 
 
-As they learned to place the Creator at The Center and base everything on Love, day by day, Earth grew ever more perfect and Good.
+As they learned to place the Creator at The Center and base everything on Love, day by day, hour by hour, minute by minute, Earth was transforming and Becoming ever more perfect and Good.
+
+[[Heaven On Earth]] was at hand. 
 

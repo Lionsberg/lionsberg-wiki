@@ -50,8 +50,6 @@ By [[Jordan Nicholas Sukut]]
 
 ### [[Scene 24 - The New Vision Spreads]]
 
-### Scene 23x - The Youth of the Resistance
-
 ### [[Scene 25 - The Rising United Front]]
 
 ### [[Scene 26 - The Day of Battle]]
