@@ -663,6 +663,11 @@ This is a book of things to meditate on. I pray these aphorisms will spark inner
 [[Meditation 656]]  
 [[Meditation 657]]  
 [[Meditation 658]]  
+[[Meditation 659]]  
+[[Meditation 660]]  
+[[Meditation 661]]  
+[[Meditation 662]]  
+[[Meditation 663]]  
 
 This is a [[Work In Progress]] - More to come. 
 

@@ -2,7 +2,7 @@ When we speak of Death, Resurrection, and Renewal, we are speaking of a continuo
 
 ___
 
-The End For Now. More to Come Soon. 
+Forward to [[Meditation 659]]   
 Back to [[Meditation 657]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
 Read other [[Lionsberg Wiki Books]] 
