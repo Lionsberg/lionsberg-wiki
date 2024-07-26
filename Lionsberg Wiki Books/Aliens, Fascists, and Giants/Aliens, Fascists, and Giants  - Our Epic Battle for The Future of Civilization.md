@@ -1,0 +1,33 @@
+# Aliens, Fascists, and Giants - Our Epic Battle for The Future of Civilization
+
+This book is a [[Work In Progress]], being progressively revealed and articulated. Please excuse our dust.  
+
+[[Lionsberg Wiki Books/Aliens, Fascists, and Giants/0. Introduction|0. Introduction]]  
+[[1. The Bad News]]  
+[[2. The Good News]]  
+[[3. Remembering]]  
+[[4. The War]]  
+[[5. The First Three Percent]]  
+[[6. Navigating Towards Wisdom and Truth]]  
+[[7. The Opportunity and Adventure of a Lifetime]]  
+[[8. Translation Across Languages and Levels of Abstraction]]  
+[[9. The Lionsberg Strategy and Plan]]  
+[[10. Grappling With Beings From Beyond]]  
+[[11. Human Beings on Earth]]  
+[[12. In The Beginning, We Do Not Know]]  
+[[13. In The Beginning, God]]  
+[[14. From One, One Body of Co-Creation]]  
+[[15. The Observable Universe and Beyond]]  
+[[16. Beyond The Limitations of SpaceTime]]  
+[[17. Conscious Influence]]  
+[[18. The Panoply of Beings From Beyond]]  
+[[19. Consciousness and Free Will]]  
+[[20. What We Know]]  
+[[21. Ancient Records]]   
+[[22. Aliens and Fascists In the 21st Century]]  
+[[23. The Corrupt, Fraudulent, and Deceitful Existing Order]]  
+[[24. Conclusions]]  
+[[25. What's Next]]  
+[[26. For Further Investigation]]  
+
+See other [[Lionsberg Wiki Books]] 
