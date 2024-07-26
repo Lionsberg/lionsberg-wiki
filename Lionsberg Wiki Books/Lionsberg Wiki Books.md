@@ -7,7 +7,7 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 If you Value the work and would like to see it advanced, please visit www.JordanNicholas.org and click [Join The Movement](https://jordannicholas.org/join_the_movement) to connect, contribute, and co-create.  
 ## Start Here 
 
-Each is a [[Work In Progress]]... 
+Each is a [[Work In Progress]]...  
 
 1. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] - by [[Jordan Nicholas Sukut]]  
 2. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] - by [[Jordan Nicholas Sukut]]  
