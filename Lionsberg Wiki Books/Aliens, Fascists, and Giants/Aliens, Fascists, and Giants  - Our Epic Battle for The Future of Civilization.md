@@ -1,6 +1,6 @@
 # Aliens, Fascists, and Giants - Our Epic Battle for The Future of Civilization
 
-This book is a [[Work In Progress]], being progressively revealed and articulated. Please excuse our dust.   
+This book is a [[Work In Progress]]. Please excuse our dust.   
 
 [[Lionsberg Wiki Books/Aliens, Fascists, and Giants/0. Introduction|0. Introduction]]  
 [[1. The Bad News]]  
