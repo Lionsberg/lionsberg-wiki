@@ -14,7 +14,7 @@ Here are some key points and quick notes I took in 2023:
 - For all of its history, humanity's groups have existed in remote locations as separate tribes and nations, with ways of life approximately unknown to one another. 
 - 1927, the first year a human flew alone across the ocean in a day, marked the beginning of the **swift integration of all humanity**. 
 - This would likely involve humanity entering a period of **total crisis**. 
-- As an alternative to politics and its ever more wasteful, warring, and incoherent attempts to solve humanity's socioeconomic problems... humanity could choose to design, build, and continuously improve a complete interoperable set of solutions to our basic needs and desires, that could sustain **a quality of life for All beyond that ever experienced by anyone in history**. 
+- As an alternative to politics and its ever more wasteful, warring, and incoherent attempts to solve humanity's socioeconomic problems... humanity could choose to design, build, and continuously improve a complete interoperable set of solutions to our basic needs and desires, that could sustain **a quality of life for All beyond that ever experienced by anyone in history**. (TKTK)
 - This advanced aerospace level of living can be sustained by our daily income of energy from the sun, and its many derivatives. 
 - This would allow humanity to emancipate itself from piped, wired, and metered exploitation of the many by the few. 
 - Fuller called this interoperable family of artifacts [[Livingry]], in contrast to the [[Weaponry]] our most advanced technology is currently being used to produce. 
@@ -83,7 +83,8 @@ Here are some key points and quick notes I took in 2023:
 
 ## Corporations
 - “Corporations are neither physical nor metaphysical phenomena. They are socioeconomic ploys—legally enacted game-playing—agreed upon only between overwhelmingly powerful socioeconomic individuals and by them imposed upon human society and its all unwitting members”
-- “How can little humans successfully cope with this greatest of all history’s invisible Grunch of nonhuman Giants? First of all, we humans must comprehend the giants’ games and game-playing equipment, rules and scoring systems. But before we can comprehend their game-playing, we must study the history and development of giants themselves.”
+- “How can little humans successfully cope with this greatest of all history’s invisible Grunch of nonhuman Giants? 
+- First of all, we humans must comprehend the giants’ games and game-playing equipment, rules and scoring systems. But before we can comprehend their game-playing, we must study the history and development of giants themselves.”
 - In the middle ages, Supreme horse-mounted monarchs in the days of Roland could and did award vast hunting and farming lands to their horse-mounted blood kin and military henchmen, who together hunted their lands and had them cultivated by on-foot, tithe-paying tenant farmers
 - The man, with a club, on a horse could assert his ownership, and the shepherd could not realistically contradict him.
 - The most powerful amongst the leaders of gangs of horsemen became the emperor. 

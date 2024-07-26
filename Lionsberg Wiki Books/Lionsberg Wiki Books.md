@@ -9,7 +9,7 @@ If you Value the work and would like to see it advanced, please visit www.Jordan
 
 Each is a [[Work In Progress]]... 
 
-1. [[Beings From Beyond - Humanity's Greatest Opportunity and Threat]] - by [[Jordan Nicholas Sukut]]  
+1. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] - by [[Jordan Nicholas Sukut]]  
 2. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] - by [[Jordan Nicholas Sukut]]  
 3. [[The Lionsberg Strategy and Plan]] - by [[Jordan Nicholas Sukut]]  
 4. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
