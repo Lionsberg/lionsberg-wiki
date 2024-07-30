@@ -18,7 +18,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 ## July 2024 
 
-- 
+- [[Above The Chaos, Grappling With Aliens, Fascists, and Giants]]  
 - [[Above The Chaos, Vision, Strategy, and Next Steps]]  
 - [[Above The Chaos, Life In A Lionsberg World]]  
 ## June 2024 
