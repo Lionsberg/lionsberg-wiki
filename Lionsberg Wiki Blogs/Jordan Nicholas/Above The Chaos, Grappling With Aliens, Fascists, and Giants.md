@@ -62,9 +62,7 @@ From there, we Aim to spread [[The Message]] as broadly as we can in October, wr
 
 [[The Lionsberg Strategy and Plan]] has a multitude of additional details, and the [[Lionsberg Co-Creator Handbook (v.0.1)]] is a resource for those wondering how to get involved and engage. 
 
-## Next Steps 
-
-
+Please [[Join The Movement]] to be connected to the rest of the Force For Good, and kept apprised of progress and next steps. 
 
 
 
