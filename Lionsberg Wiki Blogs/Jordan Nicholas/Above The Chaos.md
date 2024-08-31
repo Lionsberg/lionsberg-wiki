@@ -19,7 +19,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## August 2024 
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
-- 
+- [[Above The Chaos, Invitation to Federate]]  
 ## July 2024 
 
 
