@@ -20,6 +20,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
 - [[Above The Chaos, Invitation to Federate]]  
+- [[Above The Chaos, Missing English Words]]  
 ## July 2024 
 
 
