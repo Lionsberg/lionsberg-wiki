@@ -16,6 +16,10 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 - [[Above The Chaos, The Lionsberg Strategy and Plan]]  
 - [[Lionsberg Invitation]]  
 
+## August 2024 
+
+- [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
+- 
 ## July 2024 
 
 
