@@ -9,7 +9,7 @@ Had I escaped from their talons and the fires of hell with more than my life, br
 
 But as it is, the army of Evil is hot on Our tail, and I am stumbling back through The Gates of The Community cold, naked, bloodied, and scarred, with nothing to offer but my heart and breath, and the unedited and unscripted Story that follows. 
 
-Please forgive my errors. 
+Please forgive my errors.  
 
 I beg you to gather your Loved Ones and hear. Your lives are in grave danger. 
 
@@ -39,6 +39,7 @@ Please share this Story and the vital information it exposes with your Loved One
 [[8. What Will Humanity Do In Light Of All It Is Coming To Know?]]  
 [[9. The Insatiable Thirst For Blood, Fear, and Full Spectrum Dominance]]  
 [[10. Extraterrestrial Intervention and Forced Disclosure]]  
+[[11. The Prosaic Reality of Extraterrestrial and Ultradimensional Life and Consciousness On And Beyond Earth]]  
 [[12. From the Lips of the Authorities Themselves]]  
 [[13. How Jordan Came To Know This Information]]  
 [[14. What Jordan Learned As He Suffered And Died]]  
@@ -47,7 +48,7 @@ Please share this Story and the vital information it exposes with your Loved One
 [[17. Crimes Against Humanity, the Creator, and All Creation]]  
 [[18. The Exodus]]  
 [[19. Co-Creating The New World]]  
-[[20. A Call To Arms and Action]]  
+[[20. A Call To Arms and Action]]   
 
 What Now Shall We Be and Do In Light of All We Are Coming to Know?
 
