@@ -39,7 +39,15 @@ Please share this Story and the vital information it exposes with your Loved One
 [[8. What Will Humanity Do In Light Of All It Is Coming To Know?]]  
 [[9. The Insatiable Thirst For Blood, Fear, and Full Spectrum Dominance]]  
 [[10. Extraterrestrial Intervention and Forced Disclosure]]  
-[[11. From the Lips of the Authorities Themselves]]  
+[[12. From the Lips of the Authorities Themselves]]  
+[[13. How Jordan Came To Know This Information]]  
+[[14. What Jordan Learned As He Suffered And Died]]  
+[[15. Not Merely Human]]  
+[[16. Jordan's Interpretation and Hypothesis]]  
+[[17. Crimes Against Humanity, the Creator, and All Creation]]  
+[[18. The Exodus]]  
+[[19. Co-Creating The New World]]  
+[[20. A Call To Arms and Action]]  
 
 What Now Shall We Be and Do In Light of All We Are Coming to Know?
 
