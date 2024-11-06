@@ -21,14 +21,15 @@ If even 10% of what follows is True, it is perhaps the most shocking revelation 
 
 For generations it has been concealed in the 21+ levels of above-top-secrecy that exist beyond the grasp of even the Presidents, Kings, and Priests. 
 
-It is my honor to suffer and die to bring this information to you. 
+The person who grew up among you as Jordan suffered and died to bring this information back to you from Beyond The Boundary of what most in The Community have experienced. 
 
 If you are curious what lurks Beyond The Veil, the links below are a gateway to the shocking adventure of a lifetime. 
 
-Please share this Story and the vital information it exposes with your Loved Ones while We still can. We are preparing for large sections of internet and communications to be taken offline as the battle for the future of humanity and the Earth intensifies. 
+Please share this Story and the vital information it exposes with your Loved Ones as quickly as possible while We still can. We are preparing for large sections of internet and communications to be taken offline as the battle for the future of humanity and the Earth intensifies, and Chaos and Tyranny vie for Kontrolle. 
 
 **Time Is Of The Essence**. 
 
+[[Existential Threat - An Introduction]]  
 [[1. You Will Never Believe What Happened...]]  
 [[2. The Mysterious Year of 2017]]  
 [[3. A Cold and Pitiless Force]]  
