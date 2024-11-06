@@ -50,6 +50,7 @@ Please share this Story and the vital information it exposes with your Loved One
 [[18. The Exodus]]  
 [[19. Co-Creating The New World]]  
 [[20. A Call To Arms and Action]]   
+[[21. The Bottom Line]]  
 
 What Now Shall We Be and Do In Light of All We Are Coming to Know?
 
