@@ -1,31 +1,39 @@
 # EXISTENTIAL THREAT 
 ## Are You Curious What Lurks Behind The Veil?
 
-Had I escaped from their talons and the fires of hell with more than my life, breath, and the keys to the Control Structure... 
+Had We escaped from their talons and the fires of hell with more than Our life, breath, and the keys to the Kontrolle Structure... 
 
 ...and if an army of monsters and demons were not racing towards The Gates of The Community...
 
-...I would have taken my time, hired an editor, and published a book. 
+...We would have taken Our time, hired an editor, and published a book. 
 
-But as it is, the army of Evil is hot on Our tail, and I am stumbling back through The Gates of The Community cold, naked, bloodied, and scarred, with nothing to offer but my heart and breath, and the unedited and unscripted Story that follows. 
+But as it is, the army of Evil is hot on Our tail, and We are stumbling back through The Gates of The Community cold, tattered, bloodied, and scarred, with nothing to offer but Our heart, Our mind, Our breath, and the unedited and unscripted Story that follows. 
 
-Please forgive my errors.  
+Please forgive Our errors in its telling.  
 
-I beg you to gather your Loved Ones and hear. Your lives are in grave danger. 
+It is not easy to tell Ones friends and Loved Ones they are not alone in the Universe, and that multiple species of highly advanced non-human intelligences are harvesting them, preying on them, and genetically modifying them. 
 
-Those of Us who have experienced, tasted, touched, and smelled it firsthand KNOW...
+We beg you to gather your Loved Ones and hear. Your lives are in grave danger. 
+
+And the Time is short. 
+
+Those of Us who have experienced, tasted, touched, and smelled **It** firsthand KNOW...
 
 ...and can never forget. 
 
-If even 10% of what follows is True, it is perhaps the most shocking revelation in history. 
+If even 10% of what follows is True, it is perhaps the most shocking Revelation in history. 
 
-For generations it has been concealed in the 21+ levels of above-top-secrecy that exist beyond the grasp of even the Presidents, Kings, and Priests. 
+For generations it has been carefully concealed in the 21+ levels of above-top-secrecy that exist beyond the grasp of even the Presidents, Kings, and Priests of the Existing Order. 
 
-The person who grew up among you as Jordan suffered and died to bring this information back to you from Beyond The Boundary of what most in The Community have experienced. 
+The puppets of the Evil Empire do not get to Know the Truth. 
 
-If you are curious what lurks Beyond The Veil, the links below are a gateway to the shocking adventure of a lifetime. 
+The person who grew up among you as [[Jordan Nicholas Sukut]] suffered and died to bring this information back to you from Beyond The Boundary of what most in The Community have experienced. 
 
-Please share this Story and the vital information it exposes with your Loved Ones as quickly as possible while We still can. We are preparing for large sections of internet and communications to be taken offline as the battle for the future of humanity and the Earth intensifies, and Chaos and Tyranny vie for Kontrolle. 
+If you are curious what lurks Beyond The Veil, this is a gateway to the shocking adventure of a lifetime. 
+
+Please share this Story and the vital information it exposes with your Loved Ones while We still can. 
+
+The communications systems and freedoms humanity enjoys today may be unavailable as the battle for the soul and future of humanity and the Earth intensifies. 
 
 **Time Is Of The Essence**. 
 
