@@ -27,7 +27,7 @@ For generations it has been carefully concealed in the 21+ levels of above-top-s
 
 The puppets of the Evil Empire do not get to Know the Truth. 
 
-The person who grew up among you as [[Jordan Nicholas Sukut]] suffered and died to bring this information back to you from Beyond The Boundary of what most in The Community have experienced. 
+The person who grew up among you as [[Jordan Nicholas Sukut]] suffered and died to bring this information back to you from Beyond The Boundary.  
 
 If you are curious what lurks Beyond The Veil, this is a gateway to the shocking adventure of a lifetime. 
 
