@@ -4,7 +4,7 @@ This booklet is designed to provide Full Disclosure of The Greatest Secret and F
 
 Lurking behind The Veil of that deception and fraud lies the The Greatest Existential Threat in human history. 
 
-In this book, you will be introduced to a shocking array of non-human characters, and thousands of credible and official human voices who testify to their Reality. 
+In this book, you will be introduced to a shocking array of non-human characters, and a sampling of dozens of the thousands of credible and official human voices who testify to their Reality. 
 
 Through Jordan's Story, you will come to understand the Invisible forces that have been corrupting and puppetting "our" "democratic" institutions for generations. 
 
@@ -24,11 +24,15 @@ Our militaries are powerless in their sight.
 
 According to numerous government officials and witnesses our governments have surrendered to them, signed agreements with them, and sold out their citizens in exchange for advanced technology that they are concealing and weaponizing as rapidly as possible. 
 
-On his Journey Jordan discovered that for decades government officials have been talking about a "return of the gods" around 2027, a time frame which they anticipated would also precipitate a series of events they expected to reduce the human population by 7/8ths, down into the hundreds of millions.  
+On his Journey Jordan discovered that for decades government officials have been talking about **a "return of the gods" around 2027**, a time frame which they anticipated would also precipitate a series of events they expected to **reduce the human population by 7/8ths, down into the hundreds of millions**.  
 
-Don't take Our word for it. Chapter [[12. From the Lips of the Authorities Themselves]] contains hundreds of testimonies, which collectively point to thousands more. The evidence, official witnesses, presence of alien bodies, beings, and craft, and face to face contact with multiple advanced non-human intelligences cannot be ignored. 
+Chapter [[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations, From the Lips of the Authorities Themselves]] contains hundreds of testimonies, which collectively point to thousands more. The evidence, official witnesses, presence of alien bodies, beings, and craft, and face to face contact with multiple advanced non-human intelligences cannot be ignored. 
 
-We are standing at a threshold of history that will change *everything.*
+They are real. 
+They are here. 
+And Reality as you thought you knew it is about to shift. 
+
+We are standing at a threshold and crossroads of history that will change *everything.*
 
 Only God knows exactly what lies on the other side of this unique moment in history, because The Future is being shaped by the Free Will and Consciousness of trillions of Conscious Agents. 
 
