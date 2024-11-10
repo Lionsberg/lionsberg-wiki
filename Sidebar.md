@@ -1,14 +1,13 @@
 This site is a [[Work In Progress]]
 
-# Site Navigation
-[[Frequently Asked Questions]]   
+# Author 
 [[Jordan Nicholas Sukut]]  
 
 # Blogs
 [[Above The Chaos]]   
 
 # Books 
-[[Read The Books]]    
+[[Lionsberg Wiki Books]]  
 
 <!-- Comment not rendered visibly to web
 
