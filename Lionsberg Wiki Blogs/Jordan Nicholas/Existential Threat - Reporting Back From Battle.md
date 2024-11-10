@@ -17,21 +17,21 @@ And the governments, administrations, presidents, kings, and priests of the worl
 ____
 US Navy Admiral Timothy Gallaudet: "If you were Biden would you want to tell the public, "Hey, I can't keep our air space safe, **it is being visited by entities whose intent I don't understand and I cannot control**... same for our water space." Do you think you would want to announce that on the verge of the election and say "I am not doing my job, **I can't keep you all safe**?" I don't think so."  
 
-Haim Eshed, Former Head and "Grandfather" of Israel’s Space Security Program: "The (UFOs / ET Civilizations) asked not to advertise that they are here. Humanity is not ready yet... There is an agreement between the U.S. government and the aliens. They signed a contract with us to do experiments here."
+Haim Eshed, Former Head and "Grandfather" of Israel’s Space Security Program: "The (UFOs / ET Civilizations) asked not to advertise that they are here. Humanity is not ready yet... **There is an agreement between the U.S. government and the aliens. They signed a contract with us to do experiments here**."
 
 Paul Hellyer, Former Canadian Minister of Defense and Deputy Prime Minister: "UFOs are as real as the airplanes that fly over your head... **They have been visiting our planet for thousands of years**."  
 
 Interviewer: "Why do you say that UFOs are as real as the airplanes flying over our heads?"
 
-Response: "Well, because I know that they are, and they have been visiting this planet for **thousands of years**. And there is what is called **a federation** of these people." - [[Paul Hellyer]]  
+Response: "Well, because I know that they are, and they have been visiting this planet for **thousands of years**. And **there is what is called a federation of these people**." - [[Paul Hellyer]]  
 
 ...After "an armada" of alien craft flew over Europe... "The Supreme Commander of the Allied Forces in Europe... ordered a study to be done, and it took three years. And what the study concluded was that there had been **at least four species, *at least four*, visiting Earth for thousands of years**. This is not a new phenomenon... and **predates what we call our modern history of the last ten or fifteen thousand years**." - [[Paul Hellyer]]  
 
-In Jordan's final report, you will be introduced to these four species, the existence of hundreds more, and their role and interests in human beings and the ongoing development of life on Earth. 
+In [[Jordan's Final Report]], you will be introduced to these four species, the existence of hundreds more, and their role and interests in human beings and the ongoing development of life on Earth. 
 
 Facing an **advanced non-human threat** operating with impunity far beyond the reaches of any government, technology, or authority on Earth, every President, King, and Priest on Earth is powerless. And complicit in the deception. 
 
-The aim of Jordan's final report is to provide full disclosure of what he learned on his five year Journey through the underworld, so that We can can Help One Another strengthen and prepare for ***what lies ahead***. 
+The aim of [[Jordan's Final Report]] is to provide full disclosure of what he learned on his five year Journey through the underworld, so that We can can Help One Another strengthen and prepare for ***what lies ahead***. 
 ___
 
 The last time many of you saw [[Jordan]], he was battling the Forces of Darkness that had beset him, and heading out in an old fighter with a small rogue squadron towards the center of power of the SS America to find out what the hell was going on, and whether the American Experiment could be salvaged. 
@@ -51,7 +51,7 @@ He grew up within The Boundary and norms of The Community, generally stayed out 
 
 In 2017, along with so many others around the world, he was alerted that it was Time to begin preparations. 
 
-He ventured out Beyond The Boundary, confusing many of his friends, loved ones, and colleagues who were still immersed in their regular lives. 
+He ventured out Beyond The Boundary, confusing many of his friends, loved ones, and colleagues. 
 
 In 2019, as he progressed along the Way, he was attacked by a force of Darkness, Corruption, and Evil that simultaneously manifested within multiple political, religious, and social structures. 
 
