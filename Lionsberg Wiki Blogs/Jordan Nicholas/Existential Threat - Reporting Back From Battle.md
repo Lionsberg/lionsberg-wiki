@@ -55,17 +55,17 @@ He ventured out Beyond The Boundary, confusing many of his friends, loved ones, 
 
 In 2019, as he progressed along the Way, he was attacked by a force of Darkness, Corruption, and Evil that simultaneously manifested within multiple political, religious, and social structures. 
 
-It sought out and hunted down those who threatened to expose It. 
+**It** sought out and hunted down those who threatened to expose **It**. 
 
-As soon as it touched him, he felt a strange Cold Darkness, and Knew that what had beset him was *not merely local*, and *not merely human.*
+As soon as **It** touched him, he felt a strange Cold Darkness, and Knew that **What Had Beset Him** was *not merely local*, and *not merely human.*
 
-Over 5 torturous years he wrestled with it, allowing it to drag him all the way down towards the depths of its lair, through the streets and halls of Washington DC, into the secret underground chambers, and deep beyond the reaches of any constitutional authority on Earth.  
+Over 5 torturous years he wrestled with **It**, allowing **It** to drag him all the way down towards the depths of **Its** lair, through the streets and halls of Washington DC, into the secret underground chambers, and deep beyond the reaches of any constitutional authority on Earth.  
 
-As he neared the ends of the Earth... he discovered that it went far Beyond... 
+As he neared the ends of the Earth... he discovered that **It** went far Beyond... 
 
-...and so he followed it further... and further... and further... 
+...and so he followed **It** further... and further... and further... 
 
-It was there, in the depths of its lair, that he was witness to the stories, strategies, plans, and realities that had festered for generations in the 21+ levels of secrecy beyond the United States President, and the far Deeper and more ancient levels beyond that. 
+It was there, in the depths of **Its** lair, that he was witness to the stories, strategies, plans, and realities that had festered for generations in the 21+ levels of secrecy beyond the United States President, and the far Deeper and more ancient levels beyond that. 
 
 At first he did not believe his eyes. 
 
@@ -75,19 +75,19 @@ Extraterrestrials and hybrids in the White House, the Pentagon, NATO, the United
 
 Then, in a flash, The Memories came flooding back, and he Remembered. 
 
-It was worse than he thought. 
+**It** was worse than he thought. 
 
 Humanity was not Alone in the Universe.
 
 ...and it was not *anywhere near* the top of the galactic food chain. 
 
-Looking back from Beyond the Earth he was aghast to see humanity being progressively endarkened, enslaved, and harvested. 
+Looking back from Beyond the Earth he was aghast to see humanity being progressively endarkened, enslaved, and harvested... by **It**.
 
-By something intensely anti-human preying upon it, and slowly tightening its grip. 
+By something intensely anti-human preying upon it, and slowly tightening **Its** grip. 
 
 Time was terribly short. 
 
-The doors of the the fascist alien Kontrolle Structure were about to permanently slam shut. After the genetic modifications, humanity would never be the same. Humanity would no longer be... human. 
+The doors of the the fascist [[Alien Kontrolle Structure]] were about to permanently slam shut. After the genetic modifications, humanity would never be the same. Humanity would no longer be... human. 
 
 Congressional hearings on UFOs, their extraterrestrial pilots, and the crafts, bodies, and beings in government bases were publicly underway. Ministers of defense, heads of security, deputy prime ministers, constitutional authorities, heads of space programs, abductees, and representatives of the Catholic church publicly hinted at, or outrightly disclosed, the existence a "galactic federation" of multiple advanced alien civilizations that was secretly interacting and collaborating with human governments and militaries around the world and across planets and star systems. 
 
@@ -97,9 +97,9 @@ Government agents began discussing a "return of the gods" in 2027.
 
 A non-coincidental revival of the "world's fair" was scheduled for the same year, promising to disclose shocking new technologies to humanity. 
 
-In the depths of their lair, Jordan discovered plans for forthcoming disasters, famines, plagues, hunger, chaos, tyranny and war, which indicated a potential reduction of the human population *down into the hundreds of millions.*
+In the depths of **Its** lair, Jordan discovered plans for forthcoming disasters, famines, plagues, hunger, chaos, tyranny and war, which indicated a potential reduction of the human population *down into the hundreds of millions.*
 
-By October 2024, as the Invisible Power Structures pulled the strings of their political puppets and accelerated human civilization towards Collapse, World War, and permanent enslavement, Jordan had seen enough, and the last remnants of his Old Life was fading fast...
+By October 2024, as the Invisible Power Structures pulled the strings of their political puppets and accelerated human civilization towards Collapse, Civil and World Wars, and permanent enslavement, Jordan had seen enough, and the last remnants of his Old Life was fading fast...
 
 He finally grasped the keys to the Kontrolle Structure, allowed the last of his Old life to bleed through the punctures of their cruel talons, and died. 
 
@@ -138,7 +138,7 @@ Time is *very* short. At any moment, The Window could close, and it could be too
 
 Some genetic and psychic manipulations cannot be undone. 
 
-Our last encouragement, in case you do not read Jordan's Story and We do not speak again, is this: a **tsunami of cold, pitiless Evil is racing towards The Boundary of The Community. Please prepare your Self and your Loved Ones, do not panic, do not fragment and close down, and Let Us Help One Another to Safety.** 
+Our last encouragement, in case you do not read [[Jordan's Final Report]] and We do not speak again, is this: a **tsunami of cold, pitiless Evil is racing towards The Boundary of The Community. Please prepare your Self and your Loved Ones, do not panic, do not fragment and close down, and Let Us Help One Another to Safety.** 
 
 We can only do this Together, As One. 
 
