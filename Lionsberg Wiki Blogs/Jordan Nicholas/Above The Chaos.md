@@ -1,12 +1,8 @@
 # Above The Chaos 
 
-Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder of Lionsberg.
+Hello world. June 2022 to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]], Founder of Lionsberg.
 
-Above The Chaos is a podcast, blog, tour, and video series intended to inspire and unite the Force For Good.
-
-Join us as we rise up, hover over the roiling waters of chaos and darkness, and articulate the Truthful words that bring forth the future that is most Good.  
-
-For links to podcast, video, and social platforms see [[Above The Chaos - Link Tree]].  
+November 2024 posts and beyond are by whatever is rising from the ashes of his life, suffering, and death. 
 
 ## Featured Posts
 
@@ -15,6 +11,7 @@ For links to podcast, video, and social platforms see [[Above The Chaos - Link T
 ## November 2024
 
 - [[Existential Threat - Reporting Back From Battle]]  
+
 ## August 2024 
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
