@@ -1,17 +1,19 @@
 # Above The Chaos 
 
-Hello world. June 2022 to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]], Founder of Lionsberg.
+Hello world. Posts prior to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 
 
 November 2024 posts and beyond are by whatever is rising from the ashes of his life, suffering, and death. 
 
 ## Featured Posts
 
+- [[November 2024 Update From J]]  
 - [[Existential Threat - Reporting Back From Battle]]  
 
 ## November 2024
 
-- [[What's Next For J?]]   
+- [[November 2024 Update From J]]  
 - [[Existential Threat - Reporting Back From Battle]]   
+- [[What's Next For J?]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 
 ## September and October 2024
