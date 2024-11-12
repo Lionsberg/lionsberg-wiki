@@ -2,7 +2,7 @@
 
 Welcome. We are glad you are here. 
 
-Before his death in October 2024, [[Jordan Nicholas Sukut]] created the Lionsberg Wiki. 
+Before his death in October 2024, [[Jordan Nicholas Sukut]] drafted the bulk of the Lionsberg Wiki. 
 
 We are doing Our best to continue to build upon it. 
 
@@ -14,6 +14,6 @@ Jordan's final report from the battlefield is here: [[EXISTENTIAL THREAT - Are Y
 
 Time is short. Everything is on the line. 
 
-Let's awaken, arise, unite, exit the Kontrolle Structure, and Co-Create The New.  
+Let's awaken, arise, unite, exit the Kontrolle Structure, and Co-Create Heaven On Earth.  
 
 ~ J 
