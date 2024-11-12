@@ -8,9 +8,9 @@ Hello World.
 
 If you are new here and wondering what is going on, why, and whether or how you might want to engage, we created a page called [[Your Starting Point]]. 
 
-Like [[Worksite: Earth]], this is all a [[Work In Progress]], so please be patient and excuse our dust. 
+Like [[Worksite Earth]], this is all a [[Work In Progress]], so please be patient and excuse our dust. 
 
-After decades building infrastructure and superstructure for humanity, we have realized that we need to recognize and help organize the [[Meta Project]] that encompasses all Life on [[Worksite: Earth]] at this unique moment in history.
+After decades building infrastructure and superstructure for humanity, we have realized that we need to recognize and help organize the [[Meta Project]] that encompasses all Life on [[Worksite Earth]] at this unique moment in history.
 
 We spent a few lifetimes thinking about the state of our world, this moment in history, what needed to be done, and what was required of us relative to it all. 
 

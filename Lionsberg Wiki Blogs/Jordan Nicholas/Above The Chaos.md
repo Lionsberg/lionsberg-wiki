@@ -10,8 +10,13 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 ## November 2024
 
-- [[Existential Threat - Reporting Back From Battle]]  
+- [[What's Next For J?]]   
+- [[Existential Threat - Reporting Back From Battle]]   
+- [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 
+## September and October 2024
+
+- 
 ## August 2024 
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
@@ -234,4 +239,8 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## June 2022
 
-- [[Above The Chaos, Hello World]]  
+- [[Above The Chaos, Hello World]]    
+
+## 2017 
+
+- Commence [[The 7 Year Window of Preparatory Work and Learning]]  
