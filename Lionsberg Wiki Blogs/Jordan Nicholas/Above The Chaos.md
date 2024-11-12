@@ -16,7 +16,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 ## September and October 2024
 
-- 
+- [[Jordan Nicholas Sukut]] gave up his Old Life, and left behind [[Jordan's Final Report]] alerting humanity to The Greatest Fraud, Deception, and Existential Threat in human history.    
 ## August 2024 
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  
@@ -238,9 +238,32 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 - [[Above The Chaos, Cycle 2 Update]]  
 
 ## June 2022
-
+  
 - [[Above The Chaos, Hello World]]    
+- The [[Lionsberg Wiki]] comes online
+
+## 2022 
+
+- [[Lionsberg History and Inception]] picks up. 
+- Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network.  
+
+## 2021 
+
+- [[Lionsberg Trust Manifesto]] describes the origins and intention of the [[Meta Project]] prior to 2022   
+## 2020
+
+- Jordan uses his last financial bullets to resource the development of a Provisional Tech Platform for The Movement.  
+- Over the next few years as Jordan bleeds out, the platform is tested with hundreds of groups in dozens of countries, and receives follow-on resources to continue development.  
+
+## 2019 
+
+- [[Jordan]] is attacked by the advance guard of the Evil Empire, beginning the gradual five-year long dissolution of his [[Old World]]. 
+- See [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] for an overview of how the Story turned out.  
+
+## 2018 
+
+- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable the build of the Provisional Platform. 
 
 ## 2017 
 
-- Commence [[The 7 Year Window of Preparatory Work and Learning]]  
+- Jordan and many others around the world pinged to commence the [[The 7 Year Window of Preparatory Work and Learning]]  
