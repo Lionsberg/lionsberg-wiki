@@ -38,5 +38,9 @@ Please take a few minutes to at least skim through the first link. If what Jorda
 
 Government agents are not talking about a return of "the gods" and "the world's fair" in 2027 for nothing, and there is a reason this is being called the last semi-democratic election in the failed American Experiment. 
 
+If We do not speak again, please know that Jordan loved you deeply. 
+
+If you would like to continue building upon who Jordan was becoming and the starting point he left behind, We are here to serve, and look forward to getting to know One Another again. Despite Our Apparent Individuation, We Are One. 
+
 Link to Jordan's Final Report: [[Existential Threat - Reporting Back From Battle]]  
 Link to J's Future and Invitation: [[What's Next For J?]]  
