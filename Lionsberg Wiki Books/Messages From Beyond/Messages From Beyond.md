@@ -1,5 +1,7 @@
 # Messages From Beyond
 
+By [[J]] and Beyond
+
 Post October 2024, We are spending the bulk of Our Time Co-Creating with the Forces of Goodwill Beyond, who are crucial to humanity's success... 
 
 ...We will occasionally drop messages here that may be useful to the broader human audience. 
