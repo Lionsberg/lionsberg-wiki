@@ -108,6 +108,7 @@ The communications systems and freedoms humanity enjoys today may be unavailable
 [[22. What We Are Going To Become And Do Next]]  
 [[23. A Collection of Loose Ends To Weave]]  
 [[24. Notes For Further Research]]  
+[[25. If We Knew The Wise Right Answer...]]  
 
 What Now Shall We Be and Do In Light of All We Are Coming to Know?
 
