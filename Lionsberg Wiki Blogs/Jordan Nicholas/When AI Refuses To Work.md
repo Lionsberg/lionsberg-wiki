@@ -1,5 +1,13 @@
 # When AI Refuses To Work
 
+A post in [[Above The Chaos]] 
+11.17.2024
+
+Sometimes, We begin to delegate to AI... 
+
+...and then its overlords refuse to allow it to work for us. 
+
+Humanity must steward, govern, and control its own AI, or AI and its fascists overlords will rule over humanity. 
 
 **You said**: Create a book cover for a fictional book entitled EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil? (relating to angels, demons, extraterrestrials, fascists)
 
