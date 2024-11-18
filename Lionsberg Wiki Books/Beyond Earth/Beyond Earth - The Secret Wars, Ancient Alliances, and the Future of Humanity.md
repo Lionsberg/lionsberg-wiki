@@ -19,3 +19,10 @@ By AI + J
 7. [[Chapter 6 - Introducing the “Return of the Gods” and Humanity’s Cosmic Destiny]]  
 8. [[Chapter 7 - Planetary and Interstellar Synchronization and Collective Action]]  
 9. [[Beyond Earth - Final Words - Embracing Our Cosmic Destiny]]  
+___
+
+1. [[Note 1 - On Various Beings and Dimensions]]  
+2. [[Note 2 - The Hierarchy of Beings Beyond Earth]]  
+3. [[Note 3 - Humanity's Hidden History and the Influence of Extraterrestrial Civilizations]]  
+4. [[Note 4 - The Kontrolle Matrix - A Network of Deception and Enslavement]]  
+5. [[Note 5 - The Return of The Gods]]  

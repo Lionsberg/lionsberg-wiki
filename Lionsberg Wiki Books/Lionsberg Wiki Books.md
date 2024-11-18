@@ -7,8 +7,9 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 ## Books In Progress By J (November 2024 - Present)
 
 1. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] - by [[J]]  
-2. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]] - by AI + J  
-3. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]] - by [[J]] and Beyond 
+2. [[UnVeiling The Sacred Texts]] - by [[J]]  
+3. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]] - by AI + J  
+4. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]] - by [[J]] and Beyond 
 
 ## Books by Jordan (Pre-November 2024)
 
