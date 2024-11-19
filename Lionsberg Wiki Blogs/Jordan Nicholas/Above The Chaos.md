@@ -21,6 +21,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Existential Threat - Reporting Back From Battle]]   
 - [[What's Next For J?]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
+- [[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]  
 
 ## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
 
