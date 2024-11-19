@@ -10,6 +10,9 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Existential Threat - Reporting Back From Battle]]  
 - [[Restructuring Our Co-Creation]]  
 
+## December 2024 
+
+- Advancing into the [[Winter 2024 Experiment]]  
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
 - [[Restructuring Our Co-Creation]]  
