@@ -15,13 +15,13 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - Advancing into the [[Winter 2024 Experiment]]  
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
+- [[November 2024 Update From J]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Some New Lionsberg Wiki Books]]  
 - [[A Note To The Tech Stewards]]   
 - [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
 - [[Soft Disclosure Via Film and TV]]  
-- [[November 2024 Update From J]]  
 - [[Existential Threat - Reporting Back From Battle]]   
 - [[What's Next For J?]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  

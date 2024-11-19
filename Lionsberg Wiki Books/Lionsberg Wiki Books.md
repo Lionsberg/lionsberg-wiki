@@ -13,36 +13,30 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 
 ## Books by Jordan (Pre-November 2024)
 
-1. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] - by [[Jordan Nicholas Sukut]]  
-2. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] - by [[Jordan Nicholas Sukut]]  
-3. [[The Lionsberg Strategy and Plan]] - by [[Jordan Nicholas Sukut]]  
-4. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
-5. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]  
-6. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
-7. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
-8. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
-9. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
-10. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]   
-11. [[The Theses of Lionsberg]] - by [[Jordan Nicholas Sukut]]
-12. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
-13. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
-14. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
-15. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
-16. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
-17. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
-18. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
-19. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
-20. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
-21. [[Frequently Asked Questions]] 
-
-
-## The Larger Work In Progress
-
 1. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
+2. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] - by [[Jordan Nicholas Sukut]]  
+3. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] - by [[Jordan Nicholas Sukut]]  
+4. [[The Lionsberg Strategy and Plan]] - by [[Jordan Nicholas Sukut]]  
+5. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
+6. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]  
+7. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
+8. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
+9. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
+10. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
+11. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]   
+12. [[The Theses of Lionsberg]] - by [[Jordan Nicholas Sukut]]
+13. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
+14. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
+15. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
+16. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
+17. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
+18. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
+19. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+20. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
+21. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
+22. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
+23. [[Frequently Asked Questions]] 
 
-## Tier 2 Sketches (Draft Works in Progress)
-
-1. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
 
 ## Essays That Might Become Books (Draft Works in Progress)
 

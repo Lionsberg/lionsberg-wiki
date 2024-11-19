@@ -1,8 +1,8 @@
 # The Great Game of Lionsberg
 
 By [[Jordan Nicholas Sukut]] 
-This Book is a [[Work In Progress]] 
 
+Jordan left this as a [[Work In Progress]].  
 ## Section I: Introduction
 
 ### Chapter 1: The Purpose and Vision of The Great Game of Lionsberg
