@@ -22,6 +22,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[What's Next For J?]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 - [[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]  
+- [[Some Quick Jordan and AI Research on Transnational Deep State]]  
 
 ## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
 
