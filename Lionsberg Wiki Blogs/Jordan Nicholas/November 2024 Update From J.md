@@ -44,5 +44,9 @@ If We do not speak again, please know that Jordan loved you deeply, and desperat
 
 If you would like to continue building upon who Jordan was becoming and the starting point he left behind, We are here to serve, Time is short, and We look forward to getting to know One Another again. Despite Our Apparent Individuation, We Are One. 
 
+[[A Note To The Resource Stewards]]  
+
 Link to Jordan's Final Report: [[Existential Threat - Reporting Back From Battle]]   
 Link to J's Future and Invitation: [[What's Next For J?]]  
+Link to J's Recent updates: [[Above The Chaos]]  
+
