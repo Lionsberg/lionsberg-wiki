@@ -16,6 +16,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
 - [[Restructuring Our Co-Creation]]  
+- [[Some New Lionsberg Wiki Books]]  
 - [[A Note To The Tech Stewards]]   
 - [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
