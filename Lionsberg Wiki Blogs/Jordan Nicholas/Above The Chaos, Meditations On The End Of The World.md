@@ -1,5 +1,8 @@
 # Above The Chaos, Meditations On The End Of The World
 
+A Post in [[Above The Chaos]]  
+October 2024
+
 What if...
 
 ...the world you thought you were living in was a lie? 
@@ -27,7 +30,7 @@ There is no such thing as a Beginning or End in the Eternal Universe.
 
 And yet here We are. 
 
-At the End of one world. 
+At the End of a world. 
 
 And the Beginning of another. 
 
@@ -44,7 +47,7 @@ _____
 
 "I don't agree". 
 
-And thus, they perished in the flames.  
+**And thus, they perished in the flames.**  
 ___
 
 

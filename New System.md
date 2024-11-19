@@ -1,5 +1,5 @@
 # New System
 
-The New System is a [[Word Tool]] that points at the New Operating System that humanity chooses embody in the New Era. It stands in contrast to and beyond the [[Old System]] in the same way that the [[New World]] stands in contrast to and beyond the [[Old World]]. 
+The New System refers to the New Operating System that humanity is co-creating as part of refounding of civilization aboard Earth.
 
-See also how the Word Tools [[New]] and [[Old]] are used in the [[Lionsberg System]].  
+[[Jordan]] co-created the [[Lionsberg System]] as a working Prototype for humanity to evaluate, and implement if it was the [[Wise Right]] thing to do. 

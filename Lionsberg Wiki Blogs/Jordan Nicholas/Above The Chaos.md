@@ -9,9 +9,11 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[November 2024 Update From J]]  
 - [[Existential Threat - Reporting Back From Battle]]  
 
-## November 2024
+## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
-- [[A Note To The Resource Stewards]]  
+- [[Restructuring Our Co-Creation]]  
+- [[A Note To The Tech Stewards]]   
+- [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
 - [[Soft Disclosure Via Film and TV]]  
 - [[November 2024 Update From J]]  
@@ -19,7 +21,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[What's Next For J?]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 
-## September and October 2024
+## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
 
 - [[Jordan Nicholas Sukut]] gave up his Old Life, and left behind [[Jordan's Final Report]] alerting humanity to The Greatest Fraud, Deception, and Existential Threat in human history.    
 - [[Above The Chaos, Meditations On The End Of The World]] 
@@ -29,7 +31,6 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Above The Chaos, Invitation to Federate]]  
 - [[Above The Chaos, Missing English Words]]  
 ## July 2024 
-
 
 - [[Above The Chaos, Grappling With Aliens, Fascists, and Giants]]  
 - [[Above The Chaos, Vision, Strategy, and Next Steps]]  

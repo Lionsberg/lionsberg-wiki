@@ -122,3 +122,22 @@ We aim to progressively realize this Vision and Ideal by:
 
 Every individual and group that connects with Lionsberg will gain equal access to [[The Lionsberg Experience]] and the [[Lionsberg Commons]], which will host an ecosystem of continuously improving resources, tools, services, and technologies to help participants rise towards the fullness of their potential and flourish in harmony. 
 
+## Spring 2024 Experiment 
+
+The [[Spring 2024 Experiment]] proved that [[The Invitation]] was resonant (80%+ [[Lionsberg Acceptance Rate]], only one firm "no"), and that the requisite [[Lionsberg Cycle Time]] could be achieved. 
+
+Nevertheless the [[Lionsberg Co-Creators]] did not become adequately [[Self-Governing, Self-Sustaining, and Self-Replicating]], and since [[Jordan]] had restricted himself to only extending the first ~100 invitations, he allowed the energy to dissociate ([[Associative and Dissociative Energy]]). 
+
+## Summer 2024 Processing, UnVeiling and Death 
+
+Through the rest of the summer of 2024, Jordan's Journey finally UnVeiled [[The Greatest Fraud, Deception, and Existential Threat in History]]. 
+
+By October 2024, his [[Old Life]] was over. 
+
+[[Jordan's Final Report]] is here: [[Existential Threat - Reporting Back From Battle]]. 
+
+## November Resurrection and Rebirth 
+
+In November 2024, What We Are Becoming rose from The Ashes... 
+
+And the [[Winter 2024 Experiment]] began. 

@@ -1,4 +1,5 @@
 # Universal Law
+
 The Universal Law is [[Love]]. 
 
 [[One]] is [[Love]]. 
