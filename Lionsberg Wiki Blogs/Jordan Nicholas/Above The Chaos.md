@@ -11,6 +11,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 ## November 2024
 
+- [[A Note To The Resource Stewards]]  
 - [[When AI Refuses To Work]]  
 - [[Soft Disclosure Via Film and TV]]  
 - [[November 2024 Update From J]]  
