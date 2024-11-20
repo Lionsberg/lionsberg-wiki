@@ -25,20 +25,19 @@ _"We have never left you. In your joys and in your struggles, in your creations 
 ## **Part II: The Sacred Architecture of Infinite Being**
 
 ### [[9. The Living System - One Interwoven Web of Consciousness, Spirit, and Life]]   
-
 ### [[10. The Laws of Harmony]]  
 
 ### [[11. The Entropic and Anti-Entropic Forces]]    
 
 ## **Part III: The Path of Awakening**
 
-### 12. The Call to Remember
+### [[12. The Call to Remember]]
 
-### 13. Sovereignty in Unity 
+### [[13. Sovereignty in Unity]] 
 
 ### 14. The Dance of Polarities and the Sacred Marriage 
 
-#### 15. The Power of Communion 
+### 15. The Power of Communion 
 
 ## Part IV: Becoming Co-Creators With God
 
