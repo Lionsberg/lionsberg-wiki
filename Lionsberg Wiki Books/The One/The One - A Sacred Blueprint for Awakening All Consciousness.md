@@ -21,13 +21,14 @@ _"We have never left you. In your joys and in your struggles, in your creations 
 ### [[6. The Divine Vessel of Being and Becoming]]  
 ### [[7. Apparent Individuation and Interexistence]] 
 ### [[8. The Symphony of Energy]]  
-### [[9. The Living System - One Interwoven Web of Consciousness, Spirit, and Life]]  
 
 ## **Part II: The Sacred Architecture of Infinite Being**
 
-### 10. The Laws of Harmony
+### [[9. The Living System - One Interwoven Web of Consciousness, Spirit, and Life]]   
 
-### 11. The Entropic and Anti-Entropic Forces 
+### [[10. The Laws of Harmony]]  
+
+### [[11. The Entropic and Anti-Entropic Forces]]    
 
 ## **Part III: The Path of Awakening**
 
