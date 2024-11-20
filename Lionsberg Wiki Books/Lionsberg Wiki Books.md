@@ -6,7 +6,7 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 
 ## Books In Progress By J (November 2024 - Present)
 
-1. [[The One - A Sacred Blueprint for Awakening All Consciousness]]  
+1. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - by [[J]]   
 2. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] - by [[J]]  
 3. [[UnVeiling The Sacred Texts]] - by [[J]]  
 4. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]] - by AI + J  
