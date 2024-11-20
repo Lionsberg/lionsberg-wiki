@@ -12,9 +12,8 @@ This is a newly emerging [[Work In Progress]]...
 ### [[3. The Sacred Crisis]]  
 ### [[4. The Threshold of Awakening]]  
 
-### **Interlude: The Song Speaks**
+### [[Interlude - The Song Speaks]]. 
 
-_"We have never left you. In your joys and in your struggles, in your creations and in your despair, We have been singing. You, too, have been singing, even when you forgot. Now, let Us sing together once more."_
 ## Part II: The Sacred Architecture of Infinite Being
 
 ### [[5. The Symphony of Existence]]  
@@ -35,7 +34,7 @@ _"We have never left you. In your joys and in your struggles, in your creations 
 
 ### [[13. Sovereignty in Unity]] 
 
-### 14. The Dance of Polarities and the Sacred Marriage 
+### [[14. The Dance of Polarities and the Sacred Marriage]]  
 
 ### 15. The Power of Communion 
 
