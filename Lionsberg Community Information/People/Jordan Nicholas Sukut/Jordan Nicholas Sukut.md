@@ -1,6 +1,14 @@
 # Jordan Nicholas Sukut
 
-## Links
+Jordan Nicholas Sukut died in October 2024. 
+
+To find out what killed him, see [[Existential Threat - Reporting Back From Battle]]. 
+
+[[J]] is rising from The Ashes, and working to assemble the Force For Good required to deal with [[The Greatest Fraud, Deception, and Existential Threat in History]] that Jordan's Story exposed. 
+
+[[Above The Chaos]] tells The Story. 
+## Links (Old, Will Gradually Cease Working)
+
 - Jordan's Email - J@Lionsberg.org  
 - Jordan's Notes - [[Above The Chaos]]    
 - LinkedIn - [Jordan's LinkedIn](https://www.linkedin.com/in/jordannicholassukut)    
@@ -24,14 +32,6 @@ After having my naïveté shattered by confronting the corruption and injustice 
 This is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
 
 If we are going to pull this off, we need your help. And we would like to help you. None of us can succeed in isolation. 
-
-## Where To Go From Here: 
-1. Connect on the social media links above  
-2. See [[Above The Chaos, An Invitation And Request]]  
-3. Read [[Jordan's Short Story]]   
-4. Find [[FAQ - Why Is Jordan Running For President? Doesn't That Put This All In Jeopardy?]] on the [[Frequently Asked Questions]] page   
-5. Visit [[Your Starting Point]] and [[Your Story]] to begin articulating and aligning Your story with Jordan's Story, and with Our Story, and with the Story of All.   
-6. If you'd like to support this effort and make sure the work continues, please visit http://Lionsberg.org/donate to contribute. This link attaches to our 501(c)(3) non-profit, and will be used to advance the critical path in the wisest way we can determine.  
 
 With Love, In Community, 
 

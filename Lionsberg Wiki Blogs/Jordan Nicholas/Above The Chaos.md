@@ -17,6 +17,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 - [[November 2024 Update From J]]  
 - [[Restructuring Our Co-Creation]]  
+- [[Vision For A Transcendent Spiritual Community]]  
 - [[Some New Lionsberg Wiki Books]]  
 - [[A Note To The Tech Stewards]]   
 - [[A Note To The Resource Stewards]]   
