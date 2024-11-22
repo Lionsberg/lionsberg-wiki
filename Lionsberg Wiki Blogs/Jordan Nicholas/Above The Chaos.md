@@ -12,9 +12,12 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
 
+## January 2025 
+
+- [[2025 - Season 1]]: Practicing the Art and Science of Co-Creation.   
 ## December 2024 
 
-- Advancing towards **December 18, 2024 Party** and [[2025 - Season 1]]  
+- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**.   
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
 - [[The Invitation - 2025 - Season 1]]  
@@ -31,6 +34,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]  
 - [[Some Quick Jordan and AI Research on Transnational Deep State]]  
 - [[Existential Threat - Reporting Back From Battle]]   
+- [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
 
 ## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
 
@@ -191,6 +195,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 - [[Above The Chaos, A Vision, Plan, and Future So Big Only a Story Can Hold It]]  
 
 ## January 2023 
+
 - [[Above The Chaos, A Clear Strategy and Plan For The New Year]]  
 - [[Above The Chaos, Day 31 of 2,555 - Another Attempt To Illuminate What "We" Are Doing]]  
 - [[Above The Chaos, Wake Up! The Building Is On Fire!]]  
@@ -258,16 +263,16 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## June 2022
   
 - [[Above The Chaos, Hello World]]    
-- The [[Lionsberg Wiki]] comes online
+- The [[Lionsberg Wiki]] comes online. Over the next 24 months, a transformative Library of interlinked articulations emerge. See [[Lionsberg Wiki Books]] as a starting point. 
 
 ## 2022 
 
 - [[Lionsberg History and Inception]] picks up. 
-- Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network.  
+- Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network of allies.  
 
 ## 2021 
 
-- [[Lionsberg Trust Manifesto]] describes the origins and intention of the [[Meta Project]] prior to 2022   
+- [[Lionsberg Trust Manifesto]] describes the origins and intention of Lionsberg and the [[Meta Project]] prior to 2022   
 ## 2020
 
 - Jordan uses his last financial bullets to resource the development of a Provisional Tech Platform for The Movement.  
@@ -280,7 +285,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2018 
 
-- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable the build of the Provisional Platform. 
+- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable the resourcing and build of the Provisional Platform. 
 
 ## 2017 
 
