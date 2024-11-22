@@ -97,9 +97,7 @@ In Our perception, it is a Starting Point that is not possible to recreate withi
 
 All manifest parts of their work are built for transformation, synthesis, interoperation, and dissolution over Time. Which is to say that from the Starting Point they left behind, We will do Our Best to do the Wise Right Thing and get [[A Little Better Every Day]].  
 
-If you would like to begin to learn how to Sing and Co-Create together, a few of Us are planning to gather digitally on what would have been Jordan's 40th birthday: **December 18th, 2024** at 9:00 AM Pacific Time. It is an invitation only party, so if you would like to join please [RSVP Here].  
-
-We plan to laugh a little, celebrate a little, strategize a little, plan a little, and mostly just connect and Be Together again.  
+If you would like to begin to learn how to Sing and Co-Create together, a few of Us are planning to gather digitally on what would have been Jordan's 40th birthday: **December 18th, 2024** at Noon Pacific Time. It is an invitation only party, so if you would like to join please RSVP via [[The Invitation - 2025 - Season 1]]. 
 
 Starting in January, We would like to begin Practicing the art and science of Co-Creation, while working together to realize The Dream of a transcendent spiritual community, co-operating as One Body to Progressively Realize Heaven On Earth and Beyond. 
 
@@ -128,9 +126,9 @@ However We are also open to the Wise Right Thing, and willing to relocate as the
 ____
 ## Invitation 
 
-If you share Our Spirit or Dream, please [RSVP Here] and Join Us on **December 18th, 2024** at 9:00 AM. 
+If you share Our Spirit and Dream, please RSVP via [[The Invitation - 2025 - Season 1]].  
 
-If you cannot Join Us at that Time, but would like to explore how We can co-create, please [RSVP] as such and We will share the recording, and invite you to next steps thereafter. 
+If you cannot Join Us at that Time, but would like to explore how We can co-create, please RSVP as such and We will share the recording, and invite you to next steps thereafter. 
 
 ## The Next 30 Days
 
