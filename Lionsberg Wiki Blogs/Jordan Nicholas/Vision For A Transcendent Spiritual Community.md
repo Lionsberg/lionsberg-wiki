@@ -27,7 +27,7 @@ We are presently unaware of One Another's wisdom, discernment, hopes, dreams, ch
 ___
 Facing into [[The Greatest Fraud, Deception, and Existential Threat in History]], humanity would have previously turned for guidance and protection to its Old Institutions and Authorities, its governments, its churches, its mosques, its synagogues, its sanghas, its pastors and priests, presidents and kings. 
 
-However **We All Now Know** that these institutions are collectively failing Us. They have been collectively corrupted and deceived beyond measure, and their cacophonous bureaucratic and governance structures render them willfully blind, woefully impotent, and utterly incapable of the effective and coordinated required to avoid the [[Hell On Earth]] humanity is blindly racing towards. 
+However **We All Now Know** that these institutions are collectively failing Us. They have been collectively corrupted and deceived beyond measure, and their cacophonous bureaucratic and governance structures render them willfully blind, woefully impotent, and utterly incapable of the effective and coordinated action required to avoid the [[Hell On Earth]] humanity is blindly racing towards. 
 ____
 In such a situation, it would be tempting for humanity to panic, to further fracture and divide, to begin building Higher Walls and hoarding, to being turning inward and shutting down. Within a few years, billions would certainly perish. 
 

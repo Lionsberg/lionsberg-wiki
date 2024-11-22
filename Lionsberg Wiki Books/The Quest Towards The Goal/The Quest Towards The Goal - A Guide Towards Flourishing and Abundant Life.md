@@ -132,7 +132,7 @@ federate companies
 regulate 
 homeostasis 
 ranges of tolerance 
-differenitate and align theology, philosphy, science, theory, technique and practice etc. 
+differentiate and align theology, philosophy, science, theory, technique and practice etc. 
 think and act from Universally and Eternally (the wisdom and perspective of God ) 
 think and act SpatioTemporally  
 network 

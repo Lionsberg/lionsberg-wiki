@@ -2,10 +2,12 @@
 
 ## Current Version
 
-[[The Invitation, Cycle 9]]  
-
+[[The Invitation - 2025 - Season 1]]  
 ## Previous Versions 
 
+### Spring 2024 Experiment 
+([[Spring 2024 Experiment]] report for reference)  
+[[The Invitation, Cycle 9]]  
 [[The Invitation, Cycle 8]]  
 [[The Invitation, Cycle 7]]  
 [[The Invitation, Cycle 7 (old)]]  

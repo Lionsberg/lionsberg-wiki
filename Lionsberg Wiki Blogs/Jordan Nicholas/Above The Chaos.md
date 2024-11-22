@@ -7,27 +7,30 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 ## Featured Posts
 
 - [[November 2024 Update From J]]  
+- [[What's Next For J?]]  
 - [[Existential Threat - Reporting Back From Battle]]  
 - [[Restructuring Our Co-Creation]]  
+- [[Vision For A Transcendent Spiritual Community]]  
 
 ## December 2024 
 
-- Advancing into the [[Winter 2024 Experiment]]  
+- Advancing towards **December 18, 2024 Party** and [[2025 - Season 1]]  
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
+- [[The Invitation - 2025 - Season 1]]  
 - [[November 2024 Update From J]]  
+- [[What's Next For J?]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
 - [[Some New Lionsberg Wiki Books]]  
 - [[A Note To The Tech Stewards]]   
 - [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
-- [[Soft Disclosure Via Film and TV]]  
-- [[Existential Threat - Reporting Back From Battle]]   
-- [[What's Next For J?]]   
+- [[Soft Disclosure Via Film and TV]]   
 - [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 - [[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]  
 - [[Some Quick Jordan and AI Research on Transnational Deep State]]  
+- [[Existential Threat - Reporting Back From Battle]]   
 
 ## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
 
