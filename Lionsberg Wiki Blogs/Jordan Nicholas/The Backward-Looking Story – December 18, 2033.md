@@ -105,15 +105,17 @@ This brief Story creates a narrative arc of How We Did It.
 
 But it leaves out the unique and valuable role that each one of Us played in the transformation. 
 
+Only you can tell [[Your Story]]. 
+
 **Personal Invitation**: 
-1. Looking back from December 2033, write a personal Story of how you showed up and Who You Became through the transformation of your life and your world. What were 5 to 7 of the major milestones and commitment points along the Way? 
+1. **Looking back from December 2033**, write a personal [[Backward Looking Story]] of how you showed up and Who You Became through the transformation of your life and your world - [[FROM the Old TO the New]]. What were 5 to 7 of the major milestones and commitment points along your Way? 
 2. Place approximate dates on each of the 5 to 7 major milestones, so that [[Your Story]] has an approximate timeline and flow. 
 3. Now, look back from the first one or two milestones that lie within the first 2 years of [[Your Story]]. Try to deeply envision and feel what is like to have successfully accomplished them. 
-4. From that place of experiential vision, craft one more backward looking story, imagining in more detail how you got there. 
+4. From that place of experiential vision, craft one more backward looking story, imagining in more detail how you got to the first milestone or two. 
 5. Crossing The Chasm To Your First Milestone: 
 	1. Imagine a Chasm separating [[Where You Are]] from The Celebration in December 2033. 
-	2. Imagine that each of the 5 to 7 milestones in [[Your Story]] are like safe, tangible stepping stones that you can land on to Cross The Chasm. 
-	3. Now, looking back from the first milestone, and studying [[Your Story]] about how you got there, articulate 5 to 7 concrete Steps that you can take to reach Your First Milestone. 
+	2. Imagine that each of the 5 to 7 major milestones in [[Your Story]] are like safe, tangible stepping stones that you can land on to Cross The Chasm. 
+	3. Now, looking back from the first milestone, and studying [[Your Story]] about how you got there, articulate 5 to 7 concrete Steps that you can take to reach Your First Milestone on schedule. 
 6. Now that you have an approximate Vision, Strategy, and Plan for your unique Pathway across The Chasm, form or join a Team, and choose a [[Seasonal Quest]] that will advance you along your steps, in a Way that helps your Team advance along their steps, in a Way that helps The Whole progress towards [[The Goal]]. 
 
 For more guidance on forming teams, choosing quests, and progressing towards [[The Goal]], see [[The Lionsberg Co-Creator's Handbook]].  
