@@ -11,6 +11,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Existential Threat - Reporting Back From Battle]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
+- [[The Invitation - 2025 - Season 1]]  
 
 ## January 2025 
 
