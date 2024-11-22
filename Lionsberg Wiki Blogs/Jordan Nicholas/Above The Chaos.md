@@ -13,6 +13,9 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Vision For A Transcendent Spiritual Community]]  
 - [[The Invitation - 2025 - Season 1]]  
 
+## December 2023 
+
+- [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 
 
 - [[2025 - Season 1]]: Practicing the Art and Science of Co-Creation.   

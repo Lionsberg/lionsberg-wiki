@@ -4,7 +4,7 @@ This page is a [[Work In Progress]].
 
 It has been said that any given System can usually be described by under 150 key terms. Below is a sampling of key concepts in [[Lionsberg Narrative Universe]]. 
 
-These concepts are explored in further detail and different formats in the [[The Lionsberg Co-Creator Handbook]], the [[Lionsberg Wiki Books]], and the [[Above The Chaos]] series. 
+These concepts are explored in further detail and different formats in the [[The Lionsberg Co-Creator's Handbook]], the [[Lionsberg Wiki Books]], and the [[Above The Chaos]] series. 
 
 ## Boundaries and Limits of Conception  
 
@@ -107,7 +107,7 @@ These concepts are explored in further detail and different formats in the [[The
 9. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]  
 10. [[Domains of Responsibility and Authority]]  
 11. [[Field of Agreements]]  
-12. [[The Lionsberg Co-Creator Handbook]]  
+12. [[The Lionsberg Co-Creator's Handbook]]  
 13. [[Constitutional Amendments]]  
 
 ## The Meta Project 
@@ -170,7 +170,7 @@ These concepts are explored in further detail and different formats in the [[The
 20. [[Communication Debt]]  
 21. [[Lionsberg Integrated Delivery System]]  
 22. [[Integration And Alignment Of Resources And Power]]  
-23. [[The Lionsberg Co-Creator Handbook]]  
+23. [[The Lionsberg Co-Creator's Handbook]]  
 
 ## The Elevation Initiative 
 

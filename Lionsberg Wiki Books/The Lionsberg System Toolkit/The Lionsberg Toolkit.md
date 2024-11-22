@@ -6,7 +6,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing, email
 ## Misc Tools
 
 - [[Above The Chaos]]  
-- [[The Lionsberg Co-Creator Handbook]]  
+- [[The Lionsberg Co-Creator's Handbook]]  
 - [[Lionsberg Wiki Books]]  
 - [[The Book of Lionsberg]]  
 - [[Lionsberg Invitation|The Invitation]]   

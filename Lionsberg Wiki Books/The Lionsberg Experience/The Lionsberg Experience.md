@@ -6,7 +6,7 @@ Goal - to make every player, team, as strong, competent, and resilient as possib
 
 Below is a start to brainstorming on the [[3 Year Healing, Orientation, and Empowerment Process]] that precedes [[Citizenship]] in the [[New Era]].   
 
-[[The Lionsberg Co-Creator Handbook]] will accompany [[The Experience]]. 
+[[The Lionsberg Co-Creator's Handbook]] will accompany [[The Experience]]. 
 
 ## One: Onboarding and Orientation
 

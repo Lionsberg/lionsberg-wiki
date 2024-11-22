@@ -1,4 +1,4 @@
-# Lionsberg Co-Creator Handbook 
+# Lionsberg Co-Creator's Handbook 
 *(v.0.1 Updated June 2024)*
 
 ## Part I: Welcome to Lionsberg
