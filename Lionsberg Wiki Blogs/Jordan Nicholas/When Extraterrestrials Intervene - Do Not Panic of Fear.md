@@ -128,6 +128,8 @@ For an example of an AI holographic Jesus in present use: [Deus In Machina? This
 For an example of holographic whales flying through the air (think aliens and UFOs): 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Holographic technology ready for the false flag alien invasion and false flag return of the messiah. Don’t panic. <a href="https://t.co/yVwRNTZPGA">pic.twitter.com/yVwRNTZPGA</a></p>&mdash; Jordan Nicholas Sukut (@JordanNSukut) <a href="https://twitter.com/JordanNSukut/status/1860353798109298974?ref_src=twsrc%5Etfw">November 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Such holographic technologies could be used to simulate planes or UFOs crashing into buildings that subsequently explode, giant craft in the sky, or fearsome alien beings in the streets of New York, Los Angeles, and Washington DC. 
+Such holographic technologies could be used to simulate planes or UFOs crashing into buildings that subsequently explode, giant craft in the sky, or fearsome alien beings in the streets of New York, Los Angeles, and Washington DC. Coupled with real and reverse engineered craft, it could be quite a convincing show. 
 
-They could also be used to simulate the events, for instance, in the Book of Revelation, which notably relate to Israel. 
+They could also be used to simulate the events, for instance, in the Book of Revelation, which notably relate to Israel, and Jerusalem, which Trump recently recognized as Israel's capital. 
+
+All that remains is Armageddon, nuclear annihilation of Israel's enemies, rebuilding the temple, establishing a tyrannical "peace", and faking some prophesied events, and [[The Final Order]] will be in place. 
