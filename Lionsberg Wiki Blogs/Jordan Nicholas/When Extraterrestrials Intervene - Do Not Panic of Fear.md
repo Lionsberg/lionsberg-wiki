@@ -132,4 +132,5 @@ Such holographic technologies could be used to simulate planes or UFOs crashing 
 
 They could also be used to simulate the events, for instance, in the Book of Revelation, which notably relate to Israel, and Jerusalem, which Trump recently recognized as Israel's capital. 
 
-All that remains is Armageddon, nuclear annihilation of Israel's enemies, rebuilding the temple, establishing a tyrannical "peace", and faking some prophesied events, and [[The Final Order]] will be in place. 
+All that remains is Armageddon, nuclear annihilation of Israel's enemies, rebuilding the temple, establishing a tyrannical "peace", reducing the human population by 3/4 to 7/8ths, and faking some prophesied events, and [[The Final Order]] will be in place. 
+
