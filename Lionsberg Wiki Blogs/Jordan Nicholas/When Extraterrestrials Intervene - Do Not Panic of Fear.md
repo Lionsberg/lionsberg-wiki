@@ -119,8 +119,15 @@ They sometimes refer to this as [[The Return of The gods]].
 
 Not coincidentally, Trump and others have recently been discussing [[The Return of The World's Fair]] in 2027 as well. 
 
-For example: [Deus In Machina? This Swiss Church is Using an AI Jesus in Confessionals](https://relevantmagazine.com/culture/deus-in-machina-this-swiss-church-is-using-an-ai-jesus-in-confessionals/)  
+The public will be shocked and awed by new marvels and technology... controlled by the [[Fascist Security State]] and their corporations. 
 
-[Holographic Projection Floor](https://x.com/mychinatrip/status/1312982991828738048?s=46&t=6Tqe5bY9704fmywTF-3e6A)  
+Using AI + Holographic technologies, personalities can be injected into AI agents, injected into robotic or holographic bodies, mimicking, for instance, Jesus. 
 
+For an example of an AI holographic Jesus in present use: [Deus In Machina? This Swiss Church is Using an AI Jesus in Confessionals](https://relevantmagazine.com/culture/deus-in-machina-this-swiss-church-is-using-an-ai-jesus-in-confessionals/)  
+  
+For an example of holographic whales flying through the air (think aliens and UFOs): 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Holographic technology ready for the false flag alien invasion and false flag return of the messiah. Don’t panic. <a href="https://t.co/yVwRNTZPGA">pic.twitter.com/yVwRNTZPGA</a></p>&mdash; Jordan Nicholas Sukut (@JordanNSukut) <a href="https://twitter.com/JordanNSukut/status/1860353798109298974?ref_src=twsrc%5Etfw">November 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Such holographic technologies could be used to simulate planes or UFOs crashing into buildings that subsequently explode, giant craft in the sky, or fearsome alien beings in the streets of New York, Los Angeles, and Washington DC. 
+
+They could also be used to simulate the events, for instance, in the Book of Revelation, which notably relate to Israel. 
