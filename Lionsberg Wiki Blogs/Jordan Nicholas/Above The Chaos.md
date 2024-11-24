@@ -11,6 +11,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Existential Threat - Reporting Back From Battle]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
+- [[When Extraterrestrials Intervene - Do Not Panic of Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 
 ## December 2023 
@@ -24,6 +25,11 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**.   
 ## November 2024 - UnVeiling The Existential Threat and Restructuring Our Co-Creation
 
+- [[The Chronicles of Lionsberg]]  
+- The Chronicles of Lionsberg: [[The Sacred Flame]]  
+- The Chronicles of Lionsberg: [[The Birth of the Eternal Citadel]]  
+- The Chronicles of Lionsberg: [[The Story of the Cosmic Stone]]   
+- [[When Extraterrestrials Intervene - Do Not Panic of Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[November 2024 Update From J]]  
 - [[What's Next For J?]]  
