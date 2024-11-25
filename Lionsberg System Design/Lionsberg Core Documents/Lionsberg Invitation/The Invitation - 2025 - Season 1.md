@@ -92,3 +92,4 @@ With Love,
 ~ **[[J]]**
 
 _**P.S. To ensure We are prepared for What Lies Ahead, the December gathering will include a monumental revelation about the extraterrestrial forces among Us. It is rapidly becoming one of the most shocking and transformative Stories in history. Are you curious what lurks behind The Veil?**_   
+***P.S.S. To catch up on [[Jordan's Journey]] and [[The Chronicles of Lionsberg]] in more detail, see the [[Above The Chaos]] series.*** 
