@@ -19,7 +19,7 @@ Facing forthrightly the existential threats at hand, We are preparing to embark 
 **Explore the full invitation here:**  
 [[The Invitation - 2025 - Season 1]]  
 
-If this resonates with you, I hope you’ll RSVP to Join Us. Whether live or by recording, your voice and presence matter deeply in this unfolding Story.
+If this resonates with you, We hope you’ll RSVP to Join Us. Whether live or by recording, your voice and presence matter deeply in this unfolding Story.
 
 With Love,  
 ~ [[J]]
