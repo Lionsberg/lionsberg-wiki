@@ -25,6 +25,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**  
 ## Late November 2024 - UnVeiling Next Steps
 
+- [[An Invitation to Transform Our Future]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[The Chronicles of Lionsberg]]  
 - The Chronicles of Lionsberg: [[The Sacred Flame]]  

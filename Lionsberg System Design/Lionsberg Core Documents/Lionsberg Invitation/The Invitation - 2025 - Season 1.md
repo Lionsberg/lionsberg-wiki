@@ -2,7 +2,7 @@
 
 ### **Rising From the Ashes**
 
-[[Jordan's Journey]] and the shocking revelations of [[Jordan's Final Report]] have unveiled what many could scarcely imagine:
+[[Jordan's Journey]] and the shocking revelations of his [[Jordan's Final Report|Final Report]] have unveiled what many could scarcely imagine:  
 
 **[[We Are Not Alone in the Universe]].**
 
@@ -15,7 +15,7 @@ And now, as the [[Old]] fades and something [[New]] rises from The Ashes, **We 
 
 Awakening to [[The Greatest Fraud, Deception, and Existential Threat in History]], humanity now stands at a crossroads, facing [[The Final Test]]:
 
-Will We rise together as a mature, enlightened species, **ReMembering Our Unity** and co-creating a boundless future far **beyond the walls of Our nursery on Earth?**
+Will We rise together as a mature, enlightened species, **ReMembering Our Unity** and co-creating a boundless future far **beyond the walls of Our nursery here on Earth?**
 
 Or will only a fragmented remnant survive—genetically modified, shackled, and enslaved in **[[The Final Order]]**, a distant shadow of humanity’s infinite co-creative potential?
 
@@ -29,7 +29,7 @@ But now, **We see clearly**:
 **Here is the stark truth:**  
 
 > None of Us can face this moment alone.  
-> If We are to avoid failure and succeed, We must forge a **New and Higher Order Unity**, one that transcends every power and authority on Earth.
+> If We are to avoid failure and succeed, We must forge a **New and Higher Order Unity**, one that transcends every institution, power and authority on Earth.
 
 **And time is running out.**
 ## **A Call From The Creator**
@@ -76,7 +76,7 @@ This process is designed to ignite [[The First Three Percent]] of humanity by 20
 Though the challenge is immense and Time is short, **success is possible—and required.**
 
 > The beauty of Heaven on Earth lies in this:  
-> It is already perfect, and yet it grows **a little better every day** as We work together in harmony to make it so.
+> It is already perfect, and yet it grows **a little better every day** as We work together in harmony to cause it to be so.
 
 ## **The Sacred Mountain Calls**
 
