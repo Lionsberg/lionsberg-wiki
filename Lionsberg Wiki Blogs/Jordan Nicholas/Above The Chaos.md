@@ -22,19 +22,17 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation.   
 ## December 2024 
 
-- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**.   
-
-## November 2024 - UnVeiling Next Steps
+- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**  
+## Late November 2024 - UnVeiling Next Steps
 
 - [[The Invitation - 2025 - Season 1]]  
 - [[The Chronicles of Lionsberg]]  
 - The Chronicles of Lionsberg: [[The Sacred Flame]]  
 - The Chronicles of Lionsberg: [[The Birth of the Eternal Citadel]]  
 - The Chronicles of Lionsberg: [[The Story of the Cosmic Stone]]   
+- [[Ontological Shock]]  
 
-
-
-## November 2024 - UnVeiling The Existential Threat, Extraterrestrials, and Restructuring Our Co-Creation
+## Early November 2024 - UnVeiling The Existential Threat, Extraterrestrials, and Restructuring Our Co-Creation
 
 - [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[November 2024 Update From J]]  
