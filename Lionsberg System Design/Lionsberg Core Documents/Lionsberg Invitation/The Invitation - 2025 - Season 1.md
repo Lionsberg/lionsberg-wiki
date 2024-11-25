@@ -6,7 +6,7 @@
 
 **[[We Are Not Alone in the Universe]].**
 
-This Story is becoming a beacon, reigniting the Divine Spark of Purpose, Potential, and Justice within Us—a spark emerging from [[The Sacred Flame]] that has quietly burned within **Us All**. These sparks are being fanned into Flame as new revelations pierce through humanity’s fractured forgetting, tearing at [[The Veil]] that obscures Our true Purpose:
+This Story is becoming a beacon, reigniting the Divine Spark of Purpose, Potential, and Justice within Us—a spark emerging from [[The Sacred Flame]] that has quietly burned within **Us All**. These sparks are being fanned into Flame as new revelations pierce through humanity’s fractured forgetting, tearing at [[The Veil]] that obscures Our true Purpose and Destiny:
 
 > To Awaken, to ReMember, and to Co-Create Heaven on Earth and Beyond.
 
