@@ -19,7 +19,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 
 
-- [[2025 - Season 1]]: Practicing the Art and Science of Co-Creation.   
+- [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation.   
 ## December 2024 
 
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**.   
