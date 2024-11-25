@@ -11,7 +11,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[Existential Threat - Reporting Back From Battle]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
-- [[When Extraterrestrials Intervene - Do Not Panic of Fear]]  
+- [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 
 ## December 2023 
@@ -36,7 +36,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 ## November 2024 - UnVeiling The Existential Threat, Extraterrestrials, and Restructuring Our Co-Creation
 
-- [[When Extraterrestrials Intervene - Do Not Panic of Fear]]  
+- [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[November 2024 Update From J]]  
 - [[What's Next For J?]]  
 - [[Restructuring Our Co-Creation]]  
