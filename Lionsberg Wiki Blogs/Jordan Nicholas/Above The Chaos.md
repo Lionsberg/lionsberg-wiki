@@ -31,6 +31,8 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - The Chronicles of Lionsberg: [[The Sacred Flame]]  
 - The Chronicles of Lionsberg: [[The Birth of the Eternal Citadel]]  
 - The Chronicles of Lionsberg: [[The Story of the Cosmic Stone]]   
+- [[Threads of Eternity]]  
+- [[Tao Te Ching]]  
 - [[Ontological Shock]]  
 
 ## Early November 2024 - UnVeiling The Existential Threat, Extraterrestrials, and Restructuring Our Co-Creation
