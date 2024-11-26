@@ -13,6 +13,8 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 5. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]] - by [[J]] and Beyond  
 6. Pathways Towards Potential - In Progress  
 7. [[The Chronicles of Lionsberg]] - [[Work In Progress]]   
+8. [[Threads of Eternity]] - by [[J]] + AI  
+9. [[Tao Te Ching]] - by [[J]] + AI. 
 
 ## Books by Jordan (Pre-November 2024)
 
