@@ -2,7 +2,7 @@
 
 Hello world. Posts prior to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 
 
-November 2024 posts and beyond are by whatever is rising from the ashes of his life, suffering, and death. 
+November 2024 posts and beyond are by What We Are Becoming as We Rise together from The Ashes.  
 
 ## Featured Posts
 
