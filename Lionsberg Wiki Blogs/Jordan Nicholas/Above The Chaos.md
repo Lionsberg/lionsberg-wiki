@@ -14,7 +14,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 - [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 
-## December 2023 
+## December 2033 
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 
@@ -27,6 +27,7 @@ November 2024 posts and beyond are by whatever is rising from the ashes of his l
 
 - [[An Invitation to Transform Our Future]]  
 - [[The Invitation - 2025 - Season 1]]  
+- [[Tuning Our Frequency to the One]]  
 - [[The Chronicles of Lionsberg]]  
 - The Chronicles of Lionsberg: [[The Sacred Flame]]  
 - The Chronicles of Lionsberg: [[The Birth of the Eternal Citadel]]  

@@ -4,17 +4,18 @@ The books below all explore the same core Challenges, Mission, Vision, and Goal,
 
 They are each a [[Work In Progress]]. Some areas have been accelerated or roughed in using AI. Others are channeled. All True ideas are contributed by and belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
 
-## Books In Progress By J (November 2024 - Present)
+## Books In Progress By Us (November 2024 - Present)
 
-1. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - by [[J]] + AI   
-2. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] - by [[J]]  
-3. [[UnVeiling The Sacred Texts]] - by [[J]]  
-4. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]] - by AI + J  
-5. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]] - by [[J]] and Beyond  
+1. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - [[Work In Progress]]   
+2. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
+3. [[UnVeiling The Sacred Texts]]  
+4. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]  
+5. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 6. Pathways Towards Potential - In Progress  
-7. [[The Chronicles of Lionsberg]] - [[Work In Progress]]   
-8. [[Threads of Eternity]] - by [[J]] + AI  
-9. [[Tao Te Ching]] - by [[J]] + AI. 
+7. [[The Chronicles of Lionsberg]]  
+8. [[Threads of Eternity]]  
+9. [[Tao Te Ching]]  
+10. [[Adventures With Penny]]  
 
 ## Books by Jordan (Pre-November 2024)
 

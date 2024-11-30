@@ -42,31 +42,35 @@ This is a newly emerging [[Work In Progress]]...
 
 ### 16. The Art and Science of Divine Collaboration
 
-### 17. Wrestling with God 
+### 17. Wrestling with the One  
 
-### 18. The Power of Sacred Intention
+### 18. Wrestling with the All  
 
-### 19. The Power of Sacred Attention
+### 19. ReMembering - How All Become One Again
 
-### 20. The Language of Co-Creation
+### 20. The Power of Sacred Intention
 
-### 21. Through the Eye of the Needle
+### 21. The Power of Sacred Attention
 
-### 22. Living as Divine Aspects of One Symphony
+### 22. The Language of Co-Creation
 
-### 23. The Dance of Heaven and Earth
+### 23. Through the Eye of the Needle
+
+### 24. Living as Divine Aspects of One Symphony
+
+### 25. The Dance of Heaven and Earth
 
 ## Part V: Co-Creating Heaven Everywhere
 
-### 24. Heaven on Earth
+### 26. Heaven on Earth
 
-### 25. The Divine Blueprints
+### 27. The Divine Blueprints
 
-### 26. The Cosmic Destiny and Mandate of Humanity
+### 28. The Cosmic Destiny and Mandate of Humanity
 
-### 27. The Embodied Path
+### 29. The Embodied Path
 
-### 28. Dancing With The Eternal Now
+### 30. Dancing With The Eternal Now
 
 ### Closing Vision: The Eternal Song and Symphony
 

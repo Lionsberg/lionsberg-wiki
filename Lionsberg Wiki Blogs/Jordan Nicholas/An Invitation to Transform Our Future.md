@@ -12,7 +12,7 @@ The being you knew as [[Jordan Nicholas Sukut]] did not survive his last mission
 
 On December 18, 2024—what would have been Jordan’s 40th birthday—we are gathering to unveil **The Greatest Fraud, Deception, and Existential Threat in History**, while beginning to chart Our steps into the Future. This moment marks the transition from Our **[[Old Life]]** to the **[[New]]**, leading into **Season 1: Rising From the Ashes.**
 
-This is more than a conversation. It is an invitation to join the adventure of a lifetime with a emerging community of [[Flamebearers]], stepping forward as co-creators of a boundless future illuminated by [[The Sacred Flame]] that burns within Us All. 
+This is more than a conversation. It is an invitation to join the adventure of a lifetime with an emerging community of [[Flamebearers]], stepping forward as co-creators of a boundless future illuminated by [[The Sacred Flame]] that burns within Us All. 
 
 Facing forthrightly the existential threats at hand, We are preparing to embark together on **The Elevation Initiative**, a transformative pathway to personal growth, collective flourishing, and the co-creation of [[Heaven on Earth]].
 

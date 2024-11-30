@@ -13,10 +13,10 @@ Below, you will find links to the _Tao Te Ching_’s introduction, as well as c
 
 ### **Table of Contents**
 
-1. **[Introduction to the Tao Te Ching](#)**  
+1. **[[Introduction to the Tao Te Ching]]**  
     _Discover the origins, scope, and purpose of this sacred text within the Threads of Eternity project._
     
-2. **[Chapter 1: The Way and Its Mystery](#)**  
+2. **[[Chapter 1 - The Way and Its Mystery]]**  
     _The opening chapter introduces the ineffable nature of the Dao, the interplay of the Nameless and the Named, and the Mystery that unites them._
     
 3. **[Chapter 2: (Title TBD)](#)**  
@@ -35,7 +35,7 @@ Below, you will find links to the _Tao Te Ching_’s introduction, as well as c
 
 ### **Invitation to Engage**
 
-The _Tao Te Ching_ is not merely a text to read; it is a path to walk, a rhythm to align with, and a mystery to embrace. As you explore its teachings, consider how they resonate with your life, your relationships, and your understanding of the All.
+The _Dao_ is not a text to read; it is a path to walk, a rhythm to align with, and a mystery to embrace. As you explore its teachings, consider how they resonate with your life, your relationships, and your understanding of the [[One]] and the [[All]].
 
 We invite you to share your reflections, create new expressions, and join in the co-creation of this Living Wisdom.
 
