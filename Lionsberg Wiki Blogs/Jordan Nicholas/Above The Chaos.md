@@ -24,6 +24,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]]. And perhaps a **December 18, 2024 Gathering**.  
 - [[The Trouble With The Matrix]]  
+- [[Evidence of Progress - Towards An Open Civics]]  
 ## Late November 2024 - UnVeiling Next Steps
 
 - [[An Invitation to Transform Our Future]]  
