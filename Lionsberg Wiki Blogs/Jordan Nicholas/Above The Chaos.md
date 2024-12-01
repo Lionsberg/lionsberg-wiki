@@ -228,7 +228,6 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 - Christmas and New Years Holidays, Reset, and Preparation  
 - [[Above The Chaos, Women and Girls In Afghanistan]]  
 - [[Above The Chaos, Issues And Solutions]]  
-- [[Above The Chaos, Agreement With The United States And The World]]  
 - [[Above The Chaos, What Is The Constraint?]] 
 
 
@@ -286,8 +285,9 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2022 
 
-- [[Lionsberg History and Inception]] picks up. 
+- [[Lionsberg History and Inception]] picks up where the [[Lionsberg Trust Manifesto]] left off. 
 - Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network of allies.  
+- From 2022 to 2024, hundreds of meetings with a diverse network of hundreds of people from around the world ensue. 
 
 ## 2021 
 
@@ -295,7 +295,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## 2020
 
 - Jordan uses his last financial bullets to resource the development of a Provisional Tech Platform for The Movement.  
-- Over the next few years as Jordan bleeds out, the platform is tested with hundreds of groups in dozens of countries, and receives follow-on resources to continue development.  
+- Over the next few years as Jordan bleeds out, the platform is independently developed and tested with ~500 groups in ~50 countries, leading to follow-on resources in 2024 to continue development.  
 
 ## 2019 
 
@@ -304,7 +304,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2018 
 
-- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable the resourcing and build of the Provisional Platform. 
+- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable resourcing and build of the Provisional Platform. 
 
 ## 2017 
 

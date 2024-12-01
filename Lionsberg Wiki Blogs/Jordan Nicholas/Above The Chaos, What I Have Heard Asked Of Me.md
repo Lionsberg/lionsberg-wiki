@@ -14,7 +14,7 @@ I am writing this post to be transparent and accountable to what I have heard, t
 3. Create a patterned structure for the various types of meetings we engage in based on the principles of the Lionsberg System  
 4. Define concrete milestones and goals for the movement and for Lionsberg, and then figure out how to organize and accomplish the associated work. 
 5. Help make visible what (everyone) is doing now and into the future 
-6. Help make visible what (everyone) wants to do to advance the emergence and work on layers 1) the movement and layer 3) Lionsberg vision / system / structure / strategy / platform / plan 
+6. Help make visible what (everyone) wants to do to advance the emergence and work on layers 1) the movement, 2) the Meta Project, and 3) Lionsberg vision / system / structure / strategy / platform / plan 
 7. Figure out how to reduce the number of paths where I am the bottleneck 
 8. Create a map with action potentials around people I know, in the context of the 3 layers of analysis, and articulate how I see "us" fitting, and where there are matches and disconnects. 
 9. Improve your communication, feedback, and tracking and closing of loops that you open. 
@@ -51,4 +51,4 @@ In response to these requests, I commit to the following in 2023:
 15. I will do my best to gather together educators to develop a basic citizen led educational system 
 16. I will do my best to speak, inspire, and serve the emerging movement with the fullness of my being, resources, and relationships in a transparent and accountable way 
 
-I will do my best in all these areas, and I will absolutely fail unless we do all of this together. We are made to function in community, and I confess that need your help in order to avoid failure and succeed :) 
+I will do my best in all these areas, and I will absolutely fail unless We do all of this together. We are made to function in community, and I confess that I need your help in order to avoid failure and succeed. None of Us can do this alone :) 
