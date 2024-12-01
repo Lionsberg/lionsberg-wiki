@@ -19,10 +19,11 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 
 
-- [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation.   
+- [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 ## December 2024 
 
-- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards **December 18, 2024 Gathering**  
+- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]]. And perhaps a **December 18, 2024 Gathering**.  
+- [[The Trouble With The Matrix]]  
 ## Late November 2024 - UnVeiling Next Steps
 
 - [[An Invitation to Transform Our Future]]  
