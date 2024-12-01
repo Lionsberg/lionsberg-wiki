@@ -41,7 +41,11 @@ We are here to serve.
 ____
 For cross-mapping purposes: 
 
-People of influence to Open Civics: 
+**Emerging Language**: 
+
+
+
+**People of influence to Open Civics**: 
 
 [[Spencer Saar Cavanaugh]]   
 [[Richard Flyer]]  
@@ -52,11 +56,13 @@ People of influence to Open Civics:
 [[Cameron Murdock]]  
 [[Sheri Herndon]]  
 [[Nathan Suits]]  
+[[Nathan Schneider]]  
 [[Ted Grand]]  
 [[Tracey Abbot]]  
 [[Eric Lohela]]  
 [[Joanna Macy]]  
 [[Vandana Shiva]]  
+[[Audrey Tang]]  
 [[Buckminster Fuller]]  
 [[Barbara Marx Hubbard]]  
 [[Kevin Owocki]]  
@@ -155,6 +161,7 @@ People of influence to Open Civics:
 [[Gary Sheng]]  
 [[Jeff Emmett]]  
 [[Phoebe Tickell]]  
+[[Donella Meadows]]  
 
 
 Movements and Works of Influence: 
@@ -167,8 +174,62 @@ Movements and Works of Influence:
 - [[Ada'itsx - Fair Creek Blockade]]  
 - [[Standing Rock]]  
 - [[Sarvodaya Shramadana]] - Sri Lanka 
-- Black Panther Party free breakfast program  
+- [[Black Panther Party Free Breakfast Program]]  
 - [[Elinor Ostrom]] - Governing the Commons  
 - [[Bhutanese National Happiness Index]]  
+- [[Gross National Happiness]]  
 - [[Kyle Kowalski]] - Meta Crisis  
 - [[Charles Eisenstein]] - Sacred Economics  
+- [[Radicle Civics]]  
+- [[RadicalXChange]]  
+- [[Design Science Studio]]  
+- [[Moral Imaginations]]  
+- [[BioFi Project]]  
+- [[Buen Vivir]] - Bolivia and Ecuador  
+
+**Concepts**
+- [[Protopia]] 
+- [[Systems Thinking]]  
+- [[Whole Systems Design]]  
+- [[Systemic Failure Modes]]  
+- [[Pluralism]]  
+- [[Polycentric]]  
+- [[Superorganism]]  
+- [[Civilization]]  
+- [[Feedback Loops]]  
+- [[Exponential Feedback Loops]]  
+- [[Meta Crisis]]  
+- [[Omnicidal]]  
+- [[Ecocidal]]  
+- [[Capitalism]]  
+- [[Emergent]]  
+- [[Ontology]]  
+- [[Ontological Shock]]  
+- [[Risk]]  
+- [[Existential Risk]]  
+- [[Risk Management]]  
+- [[Interbeing]]  
+- [[Interexistence]]  
+- [[Zero Sum]]  
+- [[Commons]]  
+- [[Tragedy of the Commons]]  
+- [[Islands of Coherence]]  
+- [[Network Effects]]  
+- [[Trim Tab]]  
+- [[Stigmergy]]  
+- [[COINTELPRO]]  
+- [[CosmoLocalism]] 
+- [[Regulatory Capture]]  
+- [[Multi-Polar Traps]]  
+- [[Game Theory]]  
+- [[Attractors]]  
+- [[Self Organizing]]  
+- [[Agent Centric]]  
+- [[Regenerative]]  
+- [[Living Systems Principles]]  
+- [[Overton Window]]  
+- [[Synergy]]  
+- [[Post-Capitalist]]  
+
+Next Up: Open Civic Culture 
+Find and fork this work from : [go.opencivics.co/wiki](http://go.opencivics.co/wiki) and [github.com/opencivics/wiki](http://github.com/opencivics/wiki)  

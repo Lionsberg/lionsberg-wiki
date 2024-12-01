@@ -1,6 +1,6 @@
 # Buckminster Fuller
 
-See [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) on Wikipedia. 
+See [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller) on Wikipedia, and https://www.bfi.org. 
 
 Buckminster Fuller's "Design Science Revolution" and the Lionsberg System and Approach both advocate for a fundamental transformation and redesign of the societal, economic, and political systems that currently exploit and oppress certain groups, particularly the poor and disadvantaged.
 
