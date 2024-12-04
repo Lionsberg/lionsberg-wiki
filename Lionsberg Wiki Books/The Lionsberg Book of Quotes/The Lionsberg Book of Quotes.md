@@ -386,5 +386,42 @@ God is love, and he that abideth in love abideth in God, and God abideth in him.
 
 "An obvious but hidden insight is that unenlightened beings cannot create enlightened systems. Creation begins with Consciousness." 
 
+## Selah 15
 
+- "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, and how you can still come out of it." - **Maya Angelou**
+    
+- "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." - **Desmond Tutu**
+    
+- "Service to others is the rent you pay for your room here on Earth." - **Muhammad Ali**
+    
+- "You are not a drop in the ocean. You are the entire ocean in a drop." - **Rumi**
+    
+- "If you think you are too small to make a difference, try sleeping with a mosquito." - **Dalai Lama**
+    
+- "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." - **Albert Einstein**
+    
+- "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - **Martin Luther King Jr.**
 
+- "Hope is being able to see that there is light despite all of the darkness." - **Desmond Tutu**
+    
+- "The arc of the moral universe is long, but it bends toward justice." - **Theodore Parker**, popularized by **Martin Luther King Jr.**
+    
+- "You cannot swim for new horizons until you have courage to lose sight of the shore." - **William Faulkner**
+    
+- "A society grows great when old men plant trees in whose shade they know they shall never sit." - **Greek Proverb**
+    
+- "When we are no longer able to change a situation, we are challenged to change ourselves." - **Viktor Frankl**
+    
+- "The future depends on what you do today." - **Mahatma Gandhi**
+
+- "No one is useless in this world who lightens the burden of another." - **Charles Dickens**
+    
+- "Ubuntu: I am because we are." - **South African Proverb**
+    
+- "The best way to find yourself is to lose yourself in the service of others." - **Mahatma Gandhi**
+    
+- "Alone we can do so little; together we can do so much." - **Helen Keller**
+    
+- "There is no power for change greater than a community discovering what it cares about." - **Margaret J. Wheatley**
+    
+- "We are only as strong as we are united, as weak as we are divided." - **J.K. Rowling**

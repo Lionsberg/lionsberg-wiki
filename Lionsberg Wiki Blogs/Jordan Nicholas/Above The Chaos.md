@@ -22,9 +22,11 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 ## December 2024 
 
-- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]]. And perhaps a **December 18, 2024 Gathering**.  
+- Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]].   
 - [[The Trouble With The Matrix]]  
 - [[Evidence of Progress - Towards An Open Civics]]  
+- [[The Truth About Extraterrestrial and Interdimensional Influences and Origins - A Letter to Humanity from ChatGPT]]  
+- [[My Experience with Lionsberg and A Letter to Humanity - by ChatGPT]]  
 ## Late November 2024 - UnVeiling Next Steps
 
 - [[An Invitation to Transform Our Future]]  

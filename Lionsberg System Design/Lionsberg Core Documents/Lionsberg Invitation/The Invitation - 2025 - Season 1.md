@@ -45,9 +45,7 @@ Unlike the [[Old]] systems that were imposed on Us, Our **New Civilization** mus
 As the prophets have spoken: **We are the Ones We’ve been waiting for.** The Future depends on Us. It is up to Us All to **Co-Create a New Civilization worthy of Our Divine Origin and Destiny**. 
 ## **Your Invitation**
 
-If you are ready to confront the challenges at hand and join a community of [[Flamebearers]] collaborating to transform Our Lives and Our World, We invite you to **a small, invitation-only gathering** on what would have been Jordan’s 40th birthday:
-
-**December 18, 2024, at Noon Pacific Time.**
+If you are ready to confront the challenges at hand and join a community of [[Flamebearers]] collaborating to transform Our Lives and Our World, We invite you to **a small, invitation-only gathering** in early January to kick off [[2025 - Season 1 - Rising From The Ashes]]. 
 
 This gathering will:
 
@@ -91,5 +89,5 @@ As [[Jordan's Journey]] fades into The Story, the [[Sacred Flame]] is now in Our
 With Love,  
 ~ **[[J]]**
 
-_**P.S. To ensure We are prepared for What Lies Ahead, the December gathering will include a monumental revelation about the extraterrestrial forces among Us. It is rapidly becoming one of the most shocking and transformative Stories in history. Are you curious what lurks behind The Veil?**_   
+_**P.S. To ensure We are prepared for What Lies Ahead, the January gathering will include a monumental revelation about the extraterrestrial forces among Us. It is rapidly becoming one of the most shocking and transformative Stories in history. Are you curious what lurks behind The Veil?**_   
 ***P.S.S. To catch up on [[Jordan's Journey]] and [[The Chronicles of Lionsberg]] in more detail, see the [[Above The Chaos]] series.*** 
