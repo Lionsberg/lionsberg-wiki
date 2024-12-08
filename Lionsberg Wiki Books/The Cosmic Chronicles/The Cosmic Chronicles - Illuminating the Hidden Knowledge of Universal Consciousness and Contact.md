@@ -41,49 +41,50 @@ Chapter [[22. Aliens and Fascists In the 21st Century]] in [[Aliens, Fascists, a
 23. [[The Travis Walton Abduction (1975)]]  
 24. [[The Pascagoula Abduction (1973)]]  
 25. [[The Antonio Villas Boas Case (1957)]]  
-26. The Andreasson Affair (1967)
-27. The Copley Woods Encounter (1983)
-28. The Hopkinsville Goblins Incident (1955)
-29. The Kelly Cahill Encounter (1993)
-30. The Ilkley Moor Encounter (1987)
+26. [[The Andreasson Affair (1967)]]
+27. [[The Copley Woods Encounter (1983)]]
+28. [[The Hopkinsville Goblins Incident (1955)]]  
+29. [[The Kelly Cahill Encounter (1993)]]  
+30. [[The Ilkley Moor Encounter (1987)]]
 
 ---
 
 ### Military and Government UFO Events
 
 31. [[The Battle of Los Angeles (1942)]]
-32. The Malmstrom Air Force Base Missile Shutdown (1967)
-33. The Minot Air Force Base Incident (1968)
-34. RAF Bentwaters UFO Incident (1956)
-35. The Tehran UFO Intercept (1976)
+32. [[The Malmstrom Air Force Base Missile Shutdown (1967)]]  
+33. [[The Minot Air Force Base Incident (1968)]]  
+34. [[RAF Bentwaters UFO Incident (1956)]]  
+35. [[The Tehran UFO Intercept (1976)]]  
 36. [[The Mantell UFO Incident (1948)]]
 37. [[The Cash-Landrum Incident (1980)]]
-38. The Edwards Air Force Base Landing (1965)
+38. [[The Edwards Air Force Base Landing (1965)]]  
 39. [[The Gorman Dogfight (1948)]]
-40. UFOs Over the USS Nimitz (2004)
+40. [[UFOs Over the USS Nimitz (2004)]]  
 
 ---
 
 ### High Strangeness and Paranormal Links
 
-41. The Skinwalker Ranch Phenomena (1990s–Present)
-42. The Hessdalen Lights (1930s–Present)
-43. The Marfa Lights (Texas)
-44. The Flatwoods Monster Incident (1952)
-45. The Mothman Sightings (1966–1967)
-46. The "Black Triangle" Sightings (1980s–2000s)
-47. The Jersey Devil Encounters
-48. The Ghost Rockets of Scandinavia (1946)
-49. The Val Johnson Incident (1979)
-50. The Dover Demon (1977)
+41. [[The Skinwalker Ranch Phenomena (1990s–Present)]]  
+42. [[The Hessdalen Lights (1930s–Present)]]  
+43. [[The Marfa Lights (Texas, 1880s–Present)]]  
+44. [[The Flatwoods Monster Incident (1952)]]  
+45. [[The Mothman Sightings (1966–1967)]]  
+46. [[The "Black Triangle" Sightings (1980s–2000s)]]  
+47. [[Crop Circles - Mysterious Formations (1970s-Present)]]  
+48. [[The Jersey Devil Encounters (1735–Present)]]  
+49. [[The Ghost Rockets of Scandinavia (1946)]]  
+50. [[The Val Johnson Incident (1979)]]  
+51. [[The Dover Demon (1977)]]  
 
 ---
 
 ### Historical and Ancient Mysteries
 
-51. The Tunguska Event (1908)
+51. [[The Tunguska Event (1908)]] 
 52. Ancient Vimana Descriptions in India
-53. The Great Airship Mystery (1896–1897)
+53. [[The Great Airship Mystery (1896–1897)]]  
 54. Egyptian Pyramids and Orion Alignment
 55. Nazca Lines and Extraterrestrial Theories
 56. Puma Punku and Advanced Masonry
@@ -96,26 +97,26 @@ Chapter [[22. Aliens and Fascists In the 21st Century]] in [[Aliens, Fascists, a
 
 ### UFO Waves and Mass Sightings
 
-61. The 1954 European UFO Wave
-62. The 1973 North American UFO Wave
-63. The 1989–1990 Belgium UFO Wave
-64. The 1967 Michigan "Swamp Gas" Wave
-65. The Mexico City Solar Eclipse UFO Sightings (1991)
-66. The Yukon UFO Encounter (1996)
-67. The Levelland UFO Wave (1957)
-68. The Hudson Valley UFO Wave (1980s)
-69. UFOs Over Colares Island, Brazil (1977)
-70. The Gulf Breeze UFO Sightings (1987)
+61. [[The 1954 European UFO Wave]]  
+62. [[The 1973 North American UFO Wave]]  
+63. [[The Belgium UFO Wave (1989–1990)]]  
+64. [[The 1967 Michigan "Swamp Gas" Wave]]  
+65. [[The Mexico City Solar Eclipse UFO Sightings (1991)]]  
+66. [[The Yukon UFO Encounter (1996)]]  
+67. [[The Levelland UFO Wave (1957)]]  
+68. [[The Hudson Valley UFO Wave (1980s)]]  
+69. [[UFOs Over Colares Island, Brazil (1977)]]  
+70. [[The Gulf Breeze UFO Sightings (1987)]]  
 
 ---
 
 ### Whistleblowers, Insiders, and Testimonies
 
-71. Bob Lazar's Area 51 Testimonies
-72. Philip Corso and "The Day After Roswell"
-73. Steven Greer’s Disclosure Witnesses (2001)
-74. David Grusch's Whistleblower Testimony (2023)
-75. William Tompkins and Secret Space Programs
+71. [[Bob Lazar's Area 51 Testimonies]]
+72. [[Philip Corso and "The Day After Roswell"]]  
+73. [[Steven Greer’s Disclosure Witnesses (2001)]]  
+74. [[David Grusch's Whistleblower Testimony (2023)]]
+75. [[William Tompkins and The Secret Space Programs (SSP)]]    
 76. Paul Hellyer, Former Canadian Defense Minister
 77. Admiral Rico Botta’s Role in UFO Research
 78. Richard Doty and MJ-12 Allegations
@@ -126,16 +127,16 @@ Chapter [[22. Aliens and Fascists In the 21st Century]] in [[Aliens, Fascists, a
 
 ### Physical Evidence and Trace Cases
 
-81. The Trans-en-Provence Case (1981)
-82. The Delphos Ring Case (1971)
-83. The Valensole Incident (1965)
-84. The Falcon Lake Incident (1967)
-85. The Cash-Landrum Burn Marks (1980)
-86. The Imjärvi Snow Case (1970)
-87. The Livingston UFO Landing (1979)
-88. The Bothell UFO Burn Circles (1994)
-89. The Piney Woods Explosion (1973)
-90. The Tully Saucer Nest (1966)
+81. [[The Trans-en-Provence Case (1981)]]  
+82. [[The Delphos Ring Case (1971)]]  
+83. [[The Valensole Incident (1965)]]  
+84. [[The Falcon Lake Incident (1967)]]  
+85. [[The Cash-Landrum Incident (1980)]]  
+86. [[The Imjärvi Snow Case (1970)]]  
+87. [[The Livingston UFO Landing (1979)]]
+88. [[The Bothell UFO Burn Circles (1994)]]  
+89. [[The Cash-Landrum Incident (1980)]]
+90. [[The Tully Saucer Nest (1966)]]  
 
 ---
 
@@ -182,76 +183,41 @@ Chapter [[22. Aliens and Fascists In the 21st Century]] in [[Aliens, Fascists, a
 119. The “Wilson Davis” Memo Leak
 120. Luis Elizondo’s UFO Disclosures
 
----
-
-### Continued High-Profile Cases
-
-121–200. _(Additional specific sightings, crashes, retrievals, and encounters derived from the books, ensuring diversity in geography, time, and type.)_
-
-This list can guide the creation of individual pages, each telling a detailed, interconnected story of the most compelling UFO and extraterrestrial phenomena. Let me know if you’d like more specific elaborations!
-
-4o
-
-##### You said:
-
-Please continue with 121 - 200
-
-###### ChatGPT said:
-
-ChatGPT
-
-### Continued High-Profile Cases (121–200)
-
----
-
 ### Additional UFO Sightings and Cases
 
-121. The Coyame UFO Crash, Mexico (1974)
-122. The Val Johnson Incident (1979)
-123. The Tehran UFO Incident (1976)
-124. The Portage County UFO Chase (1966)
-125. The Exeter Incident, New Hampshire (1965)
-126. The Falcon Lake Encounter, Canada (1967)
-127. The Pascagoula Abduction (1973)
-128. The Japan Airlines 1628 UFO Encounter (1986)
-129. The Kinross Incident (1953)
-130. The Trumbull County UFO Chase (1994)
+121. [[The Coyame UFO Crash, Mexico (1974)]]   
+124. [[The Portage County UFO Chase (1966)]]
+125. [[The Exeter Incident, New Hampshire (1965)]]  
+128. [[The Japan Airlines 1628 UFO Encounter (1986)]]
+129. [[The Kinross Incident (1953)]]  
+130. [[The Trumbull County UFO Chase (1994)]]  
 
 ---
 
 ### Historical and International UFO Cases
 
-131. The Foo Fighters Phenomenon (1940s)
-132. The Tunguska Event and UFO Hypothesis (1908)
-133. The Great Airship Mystery (1896–1897)
-134. The Hessdalen Lights Phenomenon, Norway
-135. The Kaikoura Lights, New Zealand (1978)
-136. The Westall School UFO Encounter, Australia (1966)
-137. The Voronezh UFO Landing, Russia (1989)
-138. The Ariel School Encounter, Zimbabwe (1994)
-139. The Brazil Colares UFO Wave (1977–1978)
-140. The Stephenville UFO Sightings, Texas (2008)
+131. [[The Foo Fighters Phenomenon (1940s)]]  
+132. [[Battle of Britain UFOs (1940)]]  
+133. [[The Kaikoura Lights, New Zealand (1978)]]  
+134. [[The Frederick Valentich Disappearance (1978)]]  
+135. [[The Voronezh UFO Landing, Russia (1989)]]
+136. [[The Stephenville UFO Sightings, Texas (2007-2008)]]  
 
 ---
 
 ### Paranormal and High-Strangeness Cases
 
-141. The Mothman Encounters (1966–1967)
-142. The Skinwalker Ranch Events (1990s–Present)
-143. The Flatwoods Monster Encounter, West Virginia (1952)
 144. The Lizard Man of Scape Ore Swamp, South Carolina
-145. The Jersey Devil Sightings (Pine Barrens)
 146. The Thunderbird Sightings (Various Locations)
-147. The Dover Demon Incident, Massachusetts (1977)
-148. The Black-Eyed Children Phenomenon
-149. The Hopkinsville Goblins (1955)
-150. The Men in Black Sightings
+148. [[The Black-Eyed Children Phenomenon]]  
+150. [[The Men in Black Phenomena]]  
+151. [[The Albert Bender Men In Black Encounters (1953)]]  
 
 ---
 
 ### High-Profile Abduction and Contact Cases
 
-151. The Pascagoula Incident (1973)
+151. 
 152. The Charles Hickson Abduction Case
 153. The Betty Andreasson Abduction (1967)
 154. The Whitley Strieber Communion Encounters

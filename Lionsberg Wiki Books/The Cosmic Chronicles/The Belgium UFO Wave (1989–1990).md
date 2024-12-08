@@ -1,7 +1,7 @@
 # The Belgium UFO Wave (1989–1990)
 
 **Summary:**  
-The Belgium UFO Wave refers to a series of highly credible UFO sightings that occurred from late 1989 through early 1990, involving thousands of witnesses, military personnel, and law enforcement. The most notable events included reports of massive, triangular-shaped craft with bright lights moving silently across the sky. The sightings peaked on the night of March 30–31, 1990, when Belgian Air Force F-16 jets scrambled to intercept one of these objects, which displayed extraordinary flight maneuvers recorded on radar. Despite extensive investigations, no conventional explanation has been provided, and the events remain a hallmark of modern UFO phenomena.
+The Belgium UFO Wave refers to a series of highly credible UFO sightings that occurred from late 1989 through early 1990, involving thousands of witnesses, military personnel, and law enforcement. The most notable events included reports of massive, triangular-shaped craft with bright lights moving silently across the sky. The sightings peaked on the night of March 30–31, 1990, when Belgian Air Force F-16 jets scrambled to intercept one of these objects, which displayed extraordinary flight maneuvers recorded on radar, which defied known aerodynamics. Despite extensive investigations, no conventional explanation has been provided, and the events remain a hallmark of modern UFO phenomena.
 
 ---
 
