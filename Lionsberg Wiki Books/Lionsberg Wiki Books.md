@@ -9,14 +9,15 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 1. [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
 2. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - [[Work In Progress]]   
 3. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
-4. [[UnVeiling The Sacred Texts]]  
-5. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]  
-6. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
-7. Pathways Towards Potential - In Progress  
-8. [[The Chronicles of Lionsberg]]  
-9. [[Threads of Eternity]]  
-10. [[Tao Te Ching]]  
-11. [[Adventures With Penny]]  
+4. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+5. [[UnVeiling The Sacred Texts]]  
+6. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]  
+7. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
+8. Pathways Towards Potential - In Progress  
+9. [[The Chronicles of Lionsberg]]  
+10. [[Threads of Eternity]]  
+11. [[Tao Te Ching]]  
+12. [[Adventures With Penny]]  
 
 ## Books by Jordan (Pre-November 2024)
 
