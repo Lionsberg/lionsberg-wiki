@@ -95,7 +95,7 @@ One of the most famous incidents occurred on April 10, 1897, in Aurora, Texas. R
 ### **Related Topics**
 
 - [[Pre-20th Century UFO Phenomena]]
-- [[The Aurora UFO Incident (1897)]]
+- [[The Aurora UFO Crash, Texas (1897)]]
 - [[Historical Accounts of Advanced Technology]]
 - [[Humanoid Encounters in UFO Reports]]
 

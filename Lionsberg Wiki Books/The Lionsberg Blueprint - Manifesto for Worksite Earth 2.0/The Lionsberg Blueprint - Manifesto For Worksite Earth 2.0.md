@@ -1,6 +1,6 @@
 # The Lionsberg Blueprint - Manifesto For Worksite Earth v.2.0
 
-Welcome to the [[Force For Good]]. We The People are glad you are here. 
+Welcome to the [[Force For Good]]. We are glad you are here. 
 
 ## A Brief Orientation
 

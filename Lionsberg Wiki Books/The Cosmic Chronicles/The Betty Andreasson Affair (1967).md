@@ -1,4 +1,4 @@
-# The Andreasson Affair (1967)
+# The Betty Andreasson Affair (1967)
 
 **Summary:**  
 The Andreasson Affair is one of the most detailed and enigmatic alien abduction cases ever recorded. On the evening of January 25, 1967, Betty Andreasson, a deeply religious woman living in South Ashburnham, Massachusetts, claimed to have been taken aboard an alien craft during a surreal encounter in her home. The beings, described as small and gray with large heads and mesmerizing eyes, communicated telepathically and conducted examinations on Betty. The experience was replete with vivid, spiritual overtones, including visions of otherworldly landscapes and profound symbolic imagery. The case is remarkable for its extensive documentation, including over 12 hours of hypnosis sessions and polygraph tests, and its unique blend of the spiritual and the extraterrestrial.
