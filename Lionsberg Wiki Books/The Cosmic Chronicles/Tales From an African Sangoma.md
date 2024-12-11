@@ -24,9 +24,15 @@ ____
 Here, Credo Mutwa, one of the last great African Sangomas, a keeper of the ancient wisdom and stories, reveals depths normally reserved for only the deepest initiates. 
 ____
 
+Interview Part I: https://www.youtube.com/watch?v=FXOuppaH5Mo
+
+Interview Part II: 
+___
+
+
 8:15 When the white man started destroying our religion, when he started demonizing our gods, when he started ridiculing what we believed in and actually using educated africans to destroy that ancient african religion, in many parts of africa our ancient religion went underground, and there were constant secret societies all over south africa and central africa and east africa and west africa where this knowledge was was stored and kept by aging guardians, many many of whom did not know that in other parts of the land there were other guardians were doing exactly as they were doing. 
 
-9:26 Now when i first became a Sangoma, I was already saying a person of education, I had entered school as a child of 14 years and when i became a Sangoma I was a youth of 16 years; and what what my aunt, my grandma, my grandfather, as well as my maternal grandmother taught me shook me to the core of my soul. I found that the mission schools had been teaching me lies about my people. All along missionaries had told us as children that the only light came to africa with white people but before the white men came we black people had no idea about god we had no belief in a life after death and that our people were just a race of savages who used to lie around in the sun womanize fight and drink beer every day. 
+9:26 Now when i first became a Sangoma, I was already a person of education, I had entered school as a child of 14 years and when i became a Sangoma I was a youth of 16 years; and what what my aunt, my grandma, my grandfather, as well as my maternal grandmother taught me shook me to the core of my soul. I found that the mission schools had been teaching me lies about my people. All along missionaries had told us as children that the only light came to africa with white people but before the white men came we black people had no idea about god we had no belief in a life after death and that our people were just a race of savages who used to lie around in the sun womanize fight and drink beer every day. 
 
 11:02 I was suddenly awakened to the fact that africans had in fact been far greater intellectually than the missionaries way when willing to give them credit for; that like the white men we had astrology, astronomy, we had the surgery... 
 

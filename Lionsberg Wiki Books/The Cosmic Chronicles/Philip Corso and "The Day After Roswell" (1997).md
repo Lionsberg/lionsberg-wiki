@@ -1,4 +1,4 @@
-# Philip Corso and "The Day After Roswell"
+# Philip Corso and "The Day After Roswell" (1997)
 
 **Summary:**  
 In _The Day After Roswell_ (1997), retired U.S. Army Lieutenant Colonel Philip J. Corso revealed astonishing claims about his involvement in the reverse-engineering of alien technology recovered from the 1947 Roswell UFO crash. Corso asserted that these technological breakthroughs, including fiber optics, integrated circuits, and night vision, were covertly introduced into the private sector through military contractors. His testimony remains one of the most detailed insider accounts of extraterrestrial technology influencing modern advancements.
