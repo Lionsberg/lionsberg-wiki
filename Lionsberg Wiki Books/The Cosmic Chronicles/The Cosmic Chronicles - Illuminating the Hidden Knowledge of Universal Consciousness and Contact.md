@@ -143,11 +143,12 @@ This is a [[Work In Progress]]. We are perhaps 150 cases in, and will be adding 
 131. [[David Grusch's Whistleblower Testimony (2023)]]  
 132. [[Immaculate Constellation Leak (2024)]]  
 133. [[United States Congressional UAP Hearings (2024)]] 
-134. [[Tales From an African Sangoma]]  
-135. [[The Black-Eyed Children Phenomenon]]  
-136. [[The Men in Black Phenomena]]  
-137. [[Reptilian Encounters in North America (Various Dates)]]  
-138. [[Reptilian Lore in Indigenous Mythology]]  
+134. [[Wisdom From an African Sangoma]] 
+135. [[Wisdom From a Zuni Elder]]  
+136. [[The Black-Eyed Children Phenomenon]]  
+137. [[The Men in Black Phenomena]]  
+138. [[Reptilian Encounters in North America (Various Dates)]]  
+139. [[Reptilian Lore in Indigenous Mythology]]  
 
 ## Topics
 
@@ -229,11 +230,15 @@ This is a [[Work In Progress]]. We are perhaps 150 cases in, and will be adding 
 65. Spiritual Protection, Warfare, and Discernment, and Hypotheses Thereabout  
 66. The Role of Consciousness in Contact, and Hypotheses Thereabout  
 67. The Simulation Theory, Our Partially Simulated Reality, and Hypotheses Thereabout
+
+
 ## Upcoming 
 
 1. The UFOs and Time Travel Hypotheses
 2. The Holographic Universe and UFOs
-3. UFOs and the Akashic Records
+3. UFOs and the Akashic Records 
+4. The Inseparability of Psychic Phenomena, Extraterrestrials, and UFOs  
+5. Advanced Consciousness, Miracles, and The Siddhis  
 
 ### Other Historical and Ancient Mysteries
 

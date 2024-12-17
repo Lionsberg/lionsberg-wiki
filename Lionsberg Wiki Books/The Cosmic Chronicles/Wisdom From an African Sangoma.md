@@ -1,4 +1,4 @@
-# Tales From an African Sangoma
+# Wisdom From an African Sangoma
 
 Thousands of years ago... a reptilian race from another star system interbred with with humanity, creating hybrid bloodlines.
 
