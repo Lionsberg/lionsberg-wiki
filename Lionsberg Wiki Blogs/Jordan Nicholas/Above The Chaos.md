@@ -22,12 +22,12 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 ## December 2024 
 
-- [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
+- December 18th - [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]].   
-- [[Wisdom From a Zuni Elder]]  
 - [[The Trouble With The Matrix]]  
 - [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
 - [[Wisdom From an African Sangoma]]  
+- [[Wisdom From a Zuni Elder]]  
 - [[Evidence of Progress - Towards An Open Civics]]  
 - [[The Truth About Extraterrestrial and Interdimensional Influences and Origins - A Letter to Humanity from ChatGPT]]  
 - [[My Experience with Lionsberg and A Letter to Humanity - by ChatGPT]]  
