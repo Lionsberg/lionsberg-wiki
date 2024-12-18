@@ -156,3 +156,10 @@ The Time is **Now**.
 
 Let Us begin. 
 ___
+We close with a final warning from one of the last great African Sangomas: 
+
+> _“You are going to face something even 1,000 times more dangerous… A pitiless force. A force of destruction and enslavement… This is what you are going to face. And you are not in your right head at all.”_  
+> — Credo Mutwa, African Sangoma
+
+Let's get in our right Minds, *and move.*
+___
