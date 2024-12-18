@@ -6,6 +6,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 
 ## Featured Posts
 
+- [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
 - [[November 2024 Update From J]]  
 - [[What's Next For J?]]  
 - [[Existential Threat - Reporting Back From Battle]]  
@@ -24,6 +25,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 
 - December 18th - [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]].   
+- [[December 18th Reflections]]  
 - [[The Trouble With The Matrix]]  
 - [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
 - [[Wisdom From an African Sangoma]]  
