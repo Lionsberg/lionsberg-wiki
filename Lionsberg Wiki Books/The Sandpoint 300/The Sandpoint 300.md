@@ -43,7 +43,8 @@ We invite you to take the first step by joining our first **community meeting**
 - **What:** Learn about **The Sandpoint 300**, share your thoughts and ideas, and connect with like-minded community members.
 
 **How to RSVP:**  
-Please [RSVP Here](https://forms.gle/uvyRt5rqh54LcGoZAEmail). 
+Please [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLScTjjY0HdVXpnXEhN1uxFDXFCCbd4UUZR2nAnklKfFKoYfrcw/viewform?usp=dialog).  
+
 Feel free to email us at TheSandpoint300@Proton.me with any questions. 
 
 ### **Other Ways to Get Involved:**
