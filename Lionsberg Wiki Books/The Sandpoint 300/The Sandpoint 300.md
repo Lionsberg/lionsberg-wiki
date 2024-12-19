@@ -45,7 +45,7 @@ We invite you to take the first step by joining our first **community meeting**
 **How to RSVP:**  
 Please [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLScTjjY0HdVXpnXEhN1uxFDXFCCbd4UUZR2nAnklKfFKoYfrcw/viewform?usp=dialog).  
 
-Feel free to email us at TheSandpoint300@Proton.me with any questions. 
+Feel free to email us at TheSandpoint300@Proton.me with any questions.  
 
 ### **Other Ways to Get Involved:**
 
