@@ -1,7 +1,7 @@
 This site is a [[Work In Progress]]
 
 # Author 
-[[Jordan Nicholas Sukut]]  
+[[J]]  
 
 # Blogs
 [[Above The Chaos]]   

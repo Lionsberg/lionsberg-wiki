@@ -1,12 +1,12 @@
 # Jordan Nicholas Sukut
 
-Jordan Nicholas Sukut died in October 2024. 
+Jordan Nicholas Sukut lived from 1984 to 2024. 
 
 To find out what killed him, see [[Existential Threat - Reporting Back From Battle]]. 
 
-[[J]] is rising from The Ashes, and working to assemble the Force For Good required to deal with [[The Greatest Fraud, Deception, and Existential Threat in History]] that Jordan's Story exposed. 
-
 [[Above The Chaos]] tells The Story. 
+
+We are rising from the ashes. 
 ## Links (Old, Will Gradually Cease Working)
 
 - Jordan's Email - J@Lionsberg.org  

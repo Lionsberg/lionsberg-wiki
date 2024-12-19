@@ -58,4 +58,6 @@ We look forward to seeing you in January and embarking on this journey together.
 
 With hope and determination,  
 
-~ J 
+~ J  
+
+[[Sandpoint Links and Resources]]  
