@@ -12,6 +12,7 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 3. [[The Chronicles of Lionsberg]]  
 4. [[The Chronicles of J]]  
 5. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
+6. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]   
 
 
 ## Books by Jordan (Pre-November 2024)
@@ -53,7 +54,7 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 8. [[Messages From Beyond]]  
 9. [[Threads of Eternity]]  
 10. [[Tao Te Ching]]  
-11. [[Adventures With Penny]]  
+11. [[Adventures With Penny]]    
 ## Also See Jordan's Podcast and Blog Series 
 
 1. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
