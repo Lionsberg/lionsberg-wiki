@@ -1,6 +1,6 @@
 # The Chronicles of J
 
-On what would have been Jordan's 40th birthday, We received a beautiful leather journal from Our daughter Emma, with the following note on the first page: 
+On what would have been Jordan's 40th birthday, We received a beautiful leather journal from Our daughter Emma Joy, with the following note written on the first page: 
 ___
 
 *To my Dadzie,* 
@@ -19,6 +19,8 @@ ____
 What follows is a [[Work In Progress]] being written in response to Our daughter's beautiful invitation. 
 
 We tell Our [[Stories of Transformation]] as an invitation for you to share yours. 
+
+May this be an encouragement to any of God's children desiring to hear from the heart and experiences of a father on Earth.  
 
 1. [[Thank You Dearest Daughter. I Love You.]]  
 2. [[In Case I Don't Finish]]  
