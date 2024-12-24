@@ -9,13 +9,13 @@ See also [[The Lionsberg Handbook]]
 
 The Lionsberg System is a platform, system, and community designed to empower individuals, organizations, and communities around the world to rise into a higher order functional unity, and co-create a truly flourishing and abundant world within this generation. The System is grounded in the belief that a universal partnership between God and humanity is necessary to accomplish the Meta Goal - the highest universal overarching and uniting "Goal of goals" that by definition contains within itself and orders all other possible goals. This Goal is the total integrated wellbeing, development, and right relationship of all generations of life and consciousness.
 
-The Lionsberg System is a work in progress, and is designed to be continuously improved as a reflection of our current best understanding of how to enable emergence among a massive, distributed, and unique group of groups. It is intended to be a starting point for continuous improvement, rather than a finished answer, blueprint, or perceived silver bullet.
+The Lionsberg System is designed to be continuously improved as a reflection of our current best understanding of how to enable emergence among a massive, distributed, and unique [[Group Of Groups]]. It is intended to be a starting point for continuous improvement, rather than a finished answer, blueprint, or perceived silver bullet.
 
 ### Core Components 
 
 The Lionsberg System is composed of a number of core components, which work together to create a comprehensive, modular, and interoperable framework that enables individuals and communities to take ownership of their own development and co-create solutions to the challenges they face, in a way that is aligned with the wisdom and knowledge of God and nature, as best we currently understand it. These components include:
 
-1.  A legal and governance infrastructure to facilitate emergence
+1.  A legal and governance framework to facilitate emergence
 2.  A story big enough to reunite humanity, the [[Living System]], and its [[Source]], and a way for all individuals, tribes, and nations to find their place in it 
 3.  A technological platform to connect and empower individuals, organizations, and communities around the world 
 4.  A [[Lionsberg Integrated Delivery System]] to align, resource and monitor progress towards [[The Goal]] 

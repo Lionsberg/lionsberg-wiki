@@ -1,0 +1,100 @@
+# Notes From O'Brien to Integrate or Discard
+
+
+- General Russel Bowen - one of originators - set up Operation Watchtower - CIA drugs... 
+- Guy Vanderjack, who went on to head RNC that put Bush into the Presidency 
+- Regan / Bush  
+- First communion in Catholic Church... 
+	- Followed by the "Rite to Remain Silent" ritual  
+	- Occult blood ritual  
+	- Reversal of Catholic Mass into occultism...  
+	- Lost capacity for free will thinking  
+- Triggers to access compartmentalized memories associated with trauma 
+	- Hypnotic codes, keys and triggers  
+	- Hand signals 
+	- Phone tones  
+- Catholic High School - Catholic Central 
+	- Catholic church had learned about and kept records of effects of trauma on the Mind for centuries  
+	- Spanish Inquisition  
+	- Crusaders  
+	- Merged with Hitler / Himmler research  
+- "No place to run, no place to hide" 
+	- Parents, church, local politicians, senators, and President of United States all complicit  
+- Nashville 
+	- Mind Kontrolle and cocaine distribution through country music industry 
+	- CIA's war on drugs was simply eliminating competition  
+- Forced to watch the wealthy and powerful murder the innocent and vulnerable 
+	- homeless 
+	- women 
+	- children  
+- Wayne Cox - musician - handler  
+- Jay Bennet Johnston? Louisiana Senator... Mind Kontrolle... band of mercenaries in and out of South America... 
+- Abused by Bill and Hillary Clinton 
+- Alien theme... 
+	- The elite claiming to be gods, demons, aliens in order to keep them submitted...  
+	- abusers masquerading at aliens and gods... 
+- At scale, the plan being to make humanity feel totally helpless, that what is happening is beyond our ability to affect because Earth has been taken over by aliens, "Independence Day" is dawning... 
+- Breakaway civilizations... 
+	- Advanced technologies... 
+		- generations more advanced than what public can see. 
+- AGENCY... 
+- Children born into The Program 
+	- Harmonic Mind Kontrolle programming on NASA installations since before birth... 
+	- Shaping the formation of the brain and neural pathways  
+- Alex Houston - Magician, music industry, CIA operative carrying out operations to fund [[The Black Budget]]  
+- President of Mexico - De La Madrid  
+	- VP Salinas 
+- 1984 - CIA Trauma Base - Lampey Missouri... Bill Clinton's cocaine operations... 
+	- George Bush and Bill Clinton... exactly the same agenda for [[New World Order]]  
+	- In 1984 - discussed as a fact that after Americans tired of Republicans leading into the [[New World Order]], Clinton would take over. 
+	- Also discussed that Salinas would lead Mexico, and they would bring in NAFTA together - beginning of [[New World Order]] controls 
+	- Opened border for free trade of drugs and children  
+- Good people don't think to look. Blinded from criminal activity and evil 
+- George Bush near the top of US [[New World Order]] operations, respected by Reagan... 
+	- Bush began with UN  
+	- went on to head CIA 
+	- then ran multiple administrations: 
+		- Regan  
+		- Bush administration    
+		- Clinton administration  
+		- Bush / Cheney administration  
+		- Mexican President de la Madrid answered to him, all knew Salinas was coming into power...
+		- Saudi Arabian king taking order 
+		- Canadian PM taking orders 
+- Reagan told Malrooney he believed the only way to world peace was through [[Mind Kontrolle]] of the masses  
+- Under [[Mind Kontrolle]], no free thought... without free thought... no [[Free Will]]... without [[Free Will]]... no soul expression... 
+- Torturing and killing of animals and pets as another means of punishment, trauma, and control  
+- Most [[Mind Kontrolle]] slaves scheduled to be killed at age of 30... 
+- writing memories... instead of speaking them... uses a different part of the brain that can bypass [[Emotions]]. 
+- Can program not only subconsciously, but the deep levels of the primitive mind that control core functions like heartbeat, breath, blinking... 
+- Programmed respiratory and circulatory failure... 
+- Judge: Laws do not apply in this case for reasons of [[National Security]]  
+	- Rape, sexual abuse, molestation, mind kontrolle, the most egregious violations of human rights and dignity not pursuable in court because of [[National Security]]  
+- [[National Security]] being used to conceal [[The Greatest Fraud, Deception, and Existential Threat in History]]  
+- Jonestown was an [[MKUltra]] project. 
+	- Biological weapons project. 
+	- Two other projects twice the size... 
+	- Houses of prostitution using little children - members of congress 
+	- Wayne Cox - occult serial killer immune from prosecution for reasons of [[National Security]]  
+	- Jim Jones 
+- Jesuits - The Order of the Rose  
+- [[Information Kontrolle]] is [[Mind Kontrolle]]  
+	- School systems 
+	- Histories altered  
+	- News and media altered  
+- Project Monarch  
+- Victims then diagnosed with demonic possession or insanity.... 
+	- subjected to exorcisms... 
+- The traumas to make humans more susceptible and receptive to the [[The Kontrolles]] they want to implement.  
+- Mormons just coming off their missions recruited by CIA with favoritism... 
+	- highly suggestible, highly receptive to orders  
+	- Disproportionate number of mormons in both FBI and CIA, being manipulated 
+- Michael Aquino another core programmer - Linda Blood book The New Satanists  
+	- Founder of the Occult Temple of Set proliferating on military bases 
+	- Psychological warfare division  
+	- Trauma, high voltage stun guns, abuse... 
+	- Ancient egyptian practices for carving and mutilating genitals... 
+- Under [[Mind Kontrolle]], you don't think... you are a reactionary robot... you cannot perceive the enslavement, or think to get out of it... 
+- [[Project Bluebird]] 
+- [[Project Artichoke]] - "Can we get control of an individual to the point where he will do our bidding against his will and even against fundamental laws of nature, such as self-preservation" 
+- [[MKUltra]]  
