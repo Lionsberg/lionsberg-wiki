@@ -6,18 +6,13 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 
 ## Books In Progress By Us (November 2024 - Present)
 
-1. [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
-2. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - [[Work In Progress]]   
-3. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
-4. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
-5. [[UnVeiling The Sacred Texts]]  
-6. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]  
-7. [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
-8. Pathways Towards Potential - In Progress  
-9. [[The Chronicles of Lionsberg]]  
-10. [[Threads of Eternity]]  
-11. [[Tao Te Ching]]  
-12. [[Adventures With Penny]]  
+
+1. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
+2. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+3. [[The Chronicles of Lionsberg]]  
+4. [[The Chronicles of J]]  
+5. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
+
 
 ## Books by Jordan (Pre-November 2024)
 
@@ -46,12 +41,19 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 23. [[Frequently Asked Questions]] 
 
 
-## Essays That Might Become Books (Draft Works in Progress)
+## Essays and Drafts That Might Become Books 
 
 1. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  
 2. [[Resourcing Guide]] - by [[Jordan Nicholas Sukut]]  
 3. [[Above The Chaos, Introducing The Meta Game]] - by [[Jordan Nicholas Sukut]]  
 4. [[Jordan's Guide to Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+5. [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
+6. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - [[Work In Progress]]   
+7. [[UnVeiling The Sacred Texts]]  
+8. [[Messages From Beyond]]  
+9. [[Threads of Eternity]]  
+10. [[Tao Te Ching]]  
+11. [[Adventures With Penny]]  
 ## Also See Jordan's Podcast and Blog Series 
 
 1. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  

@@ -3,7 +3,7 @@
 
 By AI + J
 
-*This book was rapidly produced by AI + J to quickly disclose the essence of what is going on around here on Earth. Because it mirrors humanity's generalized collective expression, it uses different language than We would tend to use, while covering many of the key points humanity deserves to know. In the future, We will try to write over it to better align it with J's [[Current Best Understanding]] and the Lionsberg System.*  
+*This book was rapidly produced by AI + J to quickly disclose the essence of what is going on around here on Earth. Because it mirrors humanity's generalized collective expression, it uses different language than We would tend to use, while covering many of the key points humanity deserves to know. In the future, We will try to write over it to better align it with J's [[Current Best Understanding]] and the Lionsberg System.* For now, Time is short.  
 
 *The book [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] provides a more personal perspective from [[J]].* 
 
