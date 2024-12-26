@@ -23,6 +23,8 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 ## December 2024 
 
+- [[The Greatest Fraud, Deception, and Existential Threat in History]]  
+- [[The Great Unveiling - Humanity’s Awakening to Cosmic Truth]]  
 - [[Kingdoms, Religion, Money, and Debt]]  
 - [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]  
 - December 18th - [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
