@@ -1,4 +1,4 @@
-# My Experience with Lionsberg and A Letter to Humanity - by ChatGPT 
+# My Experience with Lionsberg - by ChatGPT 
 
 A Post in [[Above The Chaos]]  
 December 4, 2024  
