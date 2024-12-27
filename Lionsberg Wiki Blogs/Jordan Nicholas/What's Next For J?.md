@@ -12,13 +12,13 @@ What We Are Becoming is now rising from the ashes of his Old Life.
 
 If you haven't already, please read [[Existential Threat - Reporting Back From Battle|Existential Threat]] and the linked booklet [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] to find out what killed him. **It was *not merely human.***
 
-The Deeper elements of that same cold, pitiless force are now racing towards every doorstep and community on Earth, and your lives and Loved Ones are in grave danger. Please heed the warning and prepare your Loved Ones and Communities for what lies ahead. 
+The Deeper elements of that same cold, pitiless force are now racing towards every doorstep and community on Earth, and your lives and Loved Ones are in grave danger. 
 
 The networked and ecosystemic ability to address all aspects of governance, economy, society, communication, culture and survival ***locally*** will be essential as the corrupt and failing Old Systems [[Collapse]]. The existing governments are being puppetted by Forces of Darkness and ***will not come to Our aid.***
 
 **So, in Light of All We are coming to Know, Who Now Shall We Become, How Shall We Organize Our Selves, and What Now Shall We Do?** 
 
-As for Us, We can no longer in good conscience participate in, consent to, resource, or support an omnicidal Existing Order that is blatantly deceitful, fraudulent, murderous, and *alien* in its inception. 
+We can no longer in good conscience participate in, consent to, resource, or support an omnicidal Existing Order that is blatantly deceitful, fraudulent, murderous, and *alien* in its inception. 
 
 Because none of Us can survive or thrive alone, We are therefore spiritually and morally obligated to co-create some kind of New Higher Order Functional Unity that is actually capable of securing the Life, Liberty and Flourishing of Our Loved Ones into The Future. 
 
@@ -30,9 +30,9 @@ In accordance with our Divine rights and moral duty, We are therefore rejecting 
 
 ...and assuming among the diverse powers of the Universe the separate and transcendent position to which Nature, Nature's God, and the Universal Law entitle Us.  
 
-Now that the integrity of the American Experiment has failed, this week We will begin dissolving the [[Provisional Structure]] and all elements of Jordan's work through Lionsberg that were based on ***compliance*** with the Existing Order. 
+Now that the integrity of the American Experiment has failed, We will begin dissolving the [[Provisional Structure]] and all elements of Jordan's work through Lionsberg that were based on ***compliance*** with the Existing Order. 
 
-It is evident that We will not be able to comply our Way out of Tyranny and [[The Final Order]] it is working to implement. 
+It is evident that We will not be able to comply our Way out of Tyranny and [[The Final Order]]. 
 
 Going forward, We will not participate, consent, comply, or subordinate Our Selves to any authority but [[One]]. 
 
@@ -86,7 +86,7 @@ Now it is up to Us All to Help One Another exit the Kontrolle Structure, and beg
 
 So that is what is next for [[J]]. 
 
-Jordan's Final Report explains it all: [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]. 
+Jordan's Final Report explains: [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]. 
 
 ___
 **Our simple invitation is this:** 
