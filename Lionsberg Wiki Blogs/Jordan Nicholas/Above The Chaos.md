@@ -19,6 +19,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 ## December 2024 
 
+- [[Disruptive Energy Technologies]]  
 - See updates to [[Lionsberg Wiki Books]]  
 - [[The Greatest Fraud, Deception, and Existential Threat in History]]  
 - [[The Great Unveiling - Humanity’s Awakening to Cosmic Truth]]  
