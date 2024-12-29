@@ -51,7 +51,7 @@ In fact, it was in the depths of **their** hellish and alien lair where Jordan l
 
 ...**"they"**... *Who or What are these genetic engineering overlords? Why are **they** in power? Why are **they** invisible? And where did **they** get this technology?* 
 
-It was there in hell that Jordan personally heard the Dark officials discussing their last decades of alien collaborations and technologies, the foreknown "return of the gods" and "world's fair" 2027, and the earthquakes, fires, floods, famines, wars, and plagues that would soon be unleashed across the Earth. 
+It was there in hell that Jordan personally heard the Dark officials discussing their last decades of alien collaborations and technologies, the foreknown "return of the gods" and "world's fair" in 2026 and 2027, and the earthquakes, fires, floods, famines, wars, and plagues that would soon be unleashed across the Earth. 
 
 Jordan would not have believed it either, unless he had personally heard it, saw it, tasted it, smelled it, touched it, and experienced **it** as **it** tortured and killed him. 
 

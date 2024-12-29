@@ -36,7 +36,11 @@ Historically, regions have passed through a [[Development Curve]] of energy sour
 6. Natural gas power  
 7. Nuclear power 
 8. Solar / Wind / Water / Gravity power 
-9. Stable and Regenerative Energy System (very few in the world)
+9. Stable and Regenerative Energy Systems, such as:  
+	1. Plasma  
+	2. Fusion  
+	3. Zero Point Energy  
+	4. Anti-gravitics      
 
 In general, regions have had to progress through this entire developmental curve, for the simple reason that each level has been more expensive and technologically demanding than the levels before it. 
 

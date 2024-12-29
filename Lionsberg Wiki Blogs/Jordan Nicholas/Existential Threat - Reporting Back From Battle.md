@@ -93,9 +93,7 @@ Congressional hearings on UFOs, their extraterrestrial pilots, and the crafts, b
 
 And kidnapping, torturing, harvesting, and genetically mutilating humans and animals here on Earth. 
 
-Government agents began discussing a "return of the gods" in 2027. 
-
-A non-coincidental revival of the "world's fair" was scheduled for the same year, promising to disclose shocking new technologies to humanity. 
+Government agents began discussing a "return of the gods" and the "world's fair" in 2026 and 2027, which would disclose shocking new technologies to humanity. 
 
 In the depths of **Its** lair, Jordan discovered plans for forthcoming disasters, famines, plagues, hunger, chaos, tyranny and war, which indicated a potential reduction of the human population *down into the hundreds of millions.*
 
