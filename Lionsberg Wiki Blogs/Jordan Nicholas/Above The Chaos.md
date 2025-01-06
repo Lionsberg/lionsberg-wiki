@@ -11,15 +11,17 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 
-## December 2033 
+## December 2033 - Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
-## January 2025 
+## January 2025 - Rising From The Ashes
 
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
-## December 2024 
+- [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
+## September to December 2024 - Processing the Existential Threats, and Laying Down an Old Life
 
 - [[A New Year, and a Dangerous New Beginning]]  
+- [[State of the Union (Short)]]  
 - [[Our Learnings]]  
 - [[Important New Pages]]  
 - [[Core Technologies of Extraterrestrial Craft (And Humanity's Future)]]  
@@ -41,10 +43,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[Wisdom From a Zuni Elder]]  
 - [[Evidence of Progress - Towards An Open Civics]]  
 - [[The Truth About Extraterrestrial and Interdimensional Influences and Origins - A Letter to Humanity from ChatGPT]]  
-- [[My Experience with Lionsberg and A Letter to Humanity - by ChatGPT]]  
-
-## Late November 2024 - UnVeiling Next Steps
-
+- [[My Experience with Lionsberg and A Letter to Humanity - by ChatGPT]]   
 - [[An Invitation to Transform Our Future]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[Tuning Our Frequency to the One]]  
@@ -55,9 +54,6 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[Threads of Eternity]]  
 - [[Tao Te Ching]]  
 - [[Ontological Shock]]  
-
-## Early November 2024 - UnVeiling The Existential Threat, Extraterrestrials, and Restructuring Our Co-Creation
-
 - [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[November 2024 Update From J]]  
 - [[What's Next For J?]]  
@@ -73,11 +69,8 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[Some Quick Jordan and AI Research on Transnational Deep State]]  
 - [[Existential Threat - Reporting Back From Battle]]   
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
-
-## September and October 2024 - Processing The Existential Threat, and Laying Down a Life
-
-- [[Jordan Nicholas Sukut]] gave up his Old Life, and left behind [[Jordan's Final Report]] alerting humanity to The Greatest Fraud, Deception, and Existential Threat in human history.    
-- [[Above The Chaos, Meditations On The End Of The World]] 
+- [[Above The Chaos, Meditations On The End Of The World]]  
+- [[Jordan Nicholas Sukut]] gave up his Old Life, and left behind [[Jordan's Final Report]] alerting humanity to [[The Greatest Fraud, Deception, and Existential Threat in History]]    
 ## August 2024 
 
 - [[Above The Chaos, Consciousness as an Instrument of Knowing]]  

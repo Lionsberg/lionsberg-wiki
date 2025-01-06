@@ -1,6 +1,6 @@
 # Wisdom From a Zuni Elder
 
-My name is Clifford Mahooty. I am a Zuni Pueblo Elder. 
+My name is [[Clifford Mahooty]]. I am a Zuni Pueblo Elder. 
 
 I come from the Zuni Indian tribe from New Mexico, and I have an extensive background in my teachings about the star people, the priesthood of the sky, and all the different activities related by them or for them with the humans and the planet. 
 

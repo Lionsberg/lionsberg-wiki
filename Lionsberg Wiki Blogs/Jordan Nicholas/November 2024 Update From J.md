@@ -42,7 +42,7 @@ Whether We Become a mighty army, confront and overcome the existential threat at
 
 Please take a few minutes to at least skim through [[Jordan's Final Report]]. If what Jordan discovered is True, it might save your life and your Loved Ones. 
 
-Government agents are not talking about a return of "the gods" and "the world's fair" in 2027 for nothing, and there is a reason this is being called the last semi-democratic election in the failed American Experiment. 
+Government agents are not talking about a return of "the gods" and "the world's fair" in 2026 and 2027 for nothing, and there is a reason this is being called the last semi-democratic election in the failed American Experiment. 
 
 What Comes Next is *[[Not Merely Human]]*.   
 
