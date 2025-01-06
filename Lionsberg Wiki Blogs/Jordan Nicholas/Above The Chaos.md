@@ -1,4 +1,4 @@
-# Above The Chaos 
+ # Above The Chaos 
 
 Hello world. Posts prior to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 
 
@@ -19,6 +19,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[A New Cosmic Narrative]]  
+- Updates to [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
 ## September to December 2024 - Processing the Existential Threats, and Laying Down an Old Life
 
 - [[A New Year, and a Dangerous New Beginning]]  
