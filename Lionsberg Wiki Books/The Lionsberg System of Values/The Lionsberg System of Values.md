@@ -167,6 +167,7 @@ Without reducing the [[Ultimately Ineffable]] Unity of Value to human words and 
 - [[Respect]]  
 - [[Responsibility]]  
 - [[Right Relationship]]  
+- [[Safety]]  
 - [[Security]]  
 - [[Service]]  
 - [[Self Control]]  
