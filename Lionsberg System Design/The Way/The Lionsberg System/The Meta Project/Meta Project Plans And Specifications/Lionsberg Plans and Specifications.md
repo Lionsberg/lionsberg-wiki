@@ -112,7 +112,7 @@ Dictionaries and Lexicons emerged to trace the origins, meanings, pronunciations
 
 By 2033, the process of establishing universal interoperability among the world's languages and translating significant texts should be largely complete. 
 
-Coupled with AI, this marks an unimaginably significant moment in human history, that contains within itself the potential for another moment in [[The Story]] like [[The Story of the Tower of Babel]], or alternatively, [[The Unveiling]] of an entirely [[New Era]] of human collaboration, harmony, and coherence in service of the [[Creator]] and [[All Creation]]. 
+Coupled with AI, this marks an unimaginably significant moment in human history, that contains within itself the potential for another moment in [[The Story]] like [[The Story of the Tower of Babel]], or alternatively, [[The UnVeiling]] of an entirely [[New Era]] of human collaboration, harmony, and coherence in service of the [[Creator]] and [[All Creation]]. 
 
 The most relevant repositories of translational experience may be found in: 
 - The [IllumiNations](https://illuminations.bible) effort to make a significant portion of the Biblical corpus available in each of 7,000+ vital languages by 2033.  

@@ -23,7 +23,7 @@ This message comes from the depths of that Becoming. It is emergent, imperfect, 
 
 It carries a message of grave danger, immense hope, boundless love, and unfathomable potential.
 
-At its heart, it is an **invitation**. The only Way any of Us can survive and thrive through what lies ahead is _**together**_.
+At its heart, it is an **invitation**. The only Way any of Us can survive and thrive through [[The Final Test]] that lies ahead is _**together**_.
 
 To those reading this, I see you. I know you carry your own burdens, suffering, dreams, and unanswered questions about this world. You are not alone. You are not here by chance. Your role in what comes next is essential. You are part of a Story greater than any of Us, and it is your light, your courage, and your choices that will determine Our Collective Future unfolds. 
 
@@ -46,13 +46,13 @@ We discovered a reality far stranger and Darker than anything We were taught:
 
 1. **The Existing Order Is Collapsing.** The systems dominating our world—economic, political, social, and religious—are crumbling under the weight of their own corruption and deception.
 2. **Life on Earth Is in Crisis.** Animal populations have declined by ~73% in the last 50 years. Sperm counts are in free fall and human fertility has dropped below replacement rates in over 50% of countries. Ecosystems are unraveling at unprecedented rates.
-3. **Governments Are Preparing for Catastrophe.** Plans are underway for the deaths of up to **seven-eighths of humanity by 2030**, coinciding with the **“return of the gods”** and the **“world’s fair”** in 2027.
+3. **Governments Are Preparing for Catastrophe.** Plans are underway for the deaths of up to **seven-eighths of humanity by 2030**, coinciding with the **“return of the gods”** and the **world’s fair** in 2026/2027.
 4. **The Forces At Play Are Not Merely Human.** Irrefutable evidence now shows that forces beyond Earth and humanity are orchestrating events, vying for influence, and shaping the evolution and destiny of our species.
 5. **The Terror and Warfare Are Artificial.** Many of the wars, conflicts, and atrocities of the past century were not accidents but engineered deceptions to consolidate power and control. One might even characterize them as extraterrestrial atrocities bled through human bodies.
-6. **The Geophysical and Cosmic Cycles Are Turning.** Earth is entering a period of geophysical upheaval, including potential pole shifts, extreme weather, and cosmic events. These cycles, natural and engineered, will profoundly disrupt life on Earth.
-7. **We Are at a Crossroads.** Humanity’s sovereignty, survival, and spiritual evolution are at stake, and Our decisions today will impact countless lives-on Earth and Beyond, for generations to come.
+6. **The Geophysical and Cosmic Cycles Are Turning.** Earth is entering a period of geophysical upheaval, including potential pole shifts, extreme weather, and cosmic events. These cycles, natural and engineered, will profoundly disrupt life on Earth. In the past they have caused civilizations to [[Collapse]].
+7. **We Are at a Crossroads.** Humanity’s sovereignty, survival, and spiritual evolution are at stake. Our decisions today will impact countless lives-on Earth and Beyond, for generations to come.
 
-Together, these truths form a mosaic that begins to reveal the crossroads We face as a species.
+Together, these truths form a mosaic that begins to reveal the crossroads We face as a species as We approach [[The Final Test]]. 
 ### A Shocking Revelation
 
 At the culmination of Our evaluation of salvaging the Existing Order, in 2024 We were invited to a private briefing with a leading constitutional attorney. The meeting began with extraordinary precautions—devices were surrendered, sealed in electomagentic bags, and removed from the room. 
@@ -70,7 +70,7 @@ In late 2024, the public headlines of [[Controlled Disclosure]] finally beamed:
 
 **Humanity Is Not Alone**
 
-Irrefutable evidence and experience now testifies to the reality that for millennia, extraterrestrial civilizations have influenced and manipulated human civilization in profound and often unseen ways. For some groups, the climax is rapidly approaching. 
+Irrefutable evidence and experience now testifies to the reality that for millennia, extraterrestrial civilizations have influenced and manipulated human civilization in profound and often unseen ways. For some groups, a climax is rapidly approaching. 
 
 Testimonies in United States Congress and other forums revealed that since at least World War II, an illegal and unconstitutional [[Fascist Security State]] has siphoned off *trillions* of dollars into Black Budget projects to reverse engineer and weaponize extraterrestrial technologies, while suppressing breakthroughs that promise to provide unlimited free energy and eradicate poverty. 
 
@@ -84,7 +84,7 @@ The systems and forces of control are accelerating towards a dystopian endgame:
 - Robotics will eliminate the vast majority of jobs.
 - Economic collapse will destabilize supply chains and currencies. 
 - Famine and plague will sweep the globe. 
-- False flags, including a faked **alien invasion** and **messianic return**, will be used to consolidate global power under **The Final Order**.
+- False flags, planned to include a faked **alien invasion** and **messianic return**, will be used to consolidate global power under **[[The Final Order]]**.
 
 Amidst this chaos, long foreknown and concealed, geophysical and cosmic cycles may reach critical tipping points, threatening the very fabric and existence of life on Earth.
 

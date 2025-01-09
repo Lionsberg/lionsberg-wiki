@@ -60,3 +60,7 @@ To track progress along the [[Milestones]], see also [[Lionsberg Cycle Time]].
 - Cycle 48: All Who Desire in Perpetuity (Holdouts + Future Generations)  
 - Cycle 49: [[The 3 Year Lag]] to full Citizenship (Joining + 3 Years, or Age 15 + 3 Years)  
 - Cycle 50: The New Era Begins  
+
+For comparison of the size of various sovereignties on Earth, see: 
+	1. [Cartogram of World Population](https://ourworldindata.org/world-population-cartogram)  
+	2. [List of Countries by Population](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population)  

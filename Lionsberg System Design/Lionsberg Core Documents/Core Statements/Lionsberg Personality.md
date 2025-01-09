@@ -8,6 +8,7 @@
 - Kind  
 - Good  
 - Faithful  
+- Powerful 
 - Wise  
 - Strong  
 - Fierce  

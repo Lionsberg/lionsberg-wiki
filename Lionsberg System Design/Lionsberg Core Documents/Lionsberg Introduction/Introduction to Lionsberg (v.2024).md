@@ -1,6 +1,6 @@
 # Introduction to Lionsberg 
 
-_(v.2024.01.17)_
+_(v.2024)_
 
 Welcome to Lionsberg. 
 
@@ -97,13 +97,11 @@ With generations of flourishing or suffering hanging in the balance, this is not
 
 We are seeking ***committed individuals and resources*** for the battles and pathway that lie ahead. It is time for a ***passionately committed tribe*** to embark on The Quest towards The Goal. 
 
-If you believe you are a match for this courageous, dangerous and visionary undertaking, please reach out to J@Lionsberg.org or one of the current [[Lionsberg Co-Creators]] and we will open a three-way dialogue with the person who referred you. 
+If you believe you are a match for this courageous, dangerous and visionary undertaking, please reach out and we will open a three-way dialogue with the person who referred you. 
 
 With Love, In Community, 
 
 ~ J 
-
-[[Jordan Nicholas Sukut]]  
 
 
 
