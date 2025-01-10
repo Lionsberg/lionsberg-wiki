@@ -7,13 +7,14 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 ## Books In Progress By Us (November 2024 - Present)
 
 
-1. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
-2. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
-3. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
-4. [[The Chronicles of Lionsberg]]  
-5. [[The Chronicles of J]]  
-6. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
-7. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]   
+1. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
+2. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
+3. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
+4. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+5. [[The Chronicles of Lionsberg]]  
+6. [[The Chronicles of J]]  
+7. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
+8. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]   
 
 
 ## Books by Jordan (Pre-November 2024)
