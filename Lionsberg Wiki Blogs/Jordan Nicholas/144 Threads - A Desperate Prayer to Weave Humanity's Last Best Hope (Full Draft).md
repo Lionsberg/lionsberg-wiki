@@ -267,7 +267,7 @@ For the New to thrive, it must co-operate on clear principles, shared standards,
 
 #### **40. Celebrating Our Diverse Unity**
 
-Unity is not the erasure of difference but its harmonious celebration. Diversity is a source of strength, creativity, and resilience, and it must be honored as We forge a shared future. Just as a symphony is enriched by the depth and breadth of unique instruments, so too is Our interexistence as [[One Body]] the diversity of [[All]] its members. By embracing, celebrating, and aligning Our unique contributions, We co-create a sacred melody that is dynamic, vibrant, and alive.
+Unity is not the erasure of difference but its harmonious celebration. Diversity is a source of strength, creativity, and resilience, and it must be honored as We forge a shared future. Just as a symphony is enriched by the depth and breadth of unique instruments, so too is Our interexistence as [[One Body]] enriched by the diversity of [[All]] its members. By embracing, celebrating, and aligning Our unique contributions, We co-create a sacred melody that is dynamic, vibrant, and alive.
 
 ---
 
@@ -315,7 +315,7 @@ Trust is the foundation of unity and the lubricant of [[Progress]] and [[Flow]].
 
 #### **48. Avoiding Divisions, Factions, and Fragmentation**
 
-The greatest threat to unity is fragmentation. Divisions, factions, and power struggles can derail even the most inspired movements. To succeed, We must cultivate humility, empathy, and a shared commitment to the greater good, continually realigning with Our Selves with the [[Divine Blueprints]] and [[Universal Principles and Values]] that transcend ego and agenda.
+The greatest threat to unity is fragmentation. Staying together long enough to succeed is not a trivial matter. Divisions, factions, and power struggles can derail even the most inspired movements. To succeed, We must cultivate humility, empathy, and a shared commitment to the greater good, continually realigning with Our Selves with the [[Divine Blueprints]] and [[Universal Principles and Values]] that transcend ego and agenda.
 
 
 ---
