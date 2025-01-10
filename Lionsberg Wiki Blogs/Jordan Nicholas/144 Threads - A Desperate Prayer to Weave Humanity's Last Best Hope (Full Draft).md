@@ -140,7 +140,7 @@ The next decade is pivotal, with critical [[Milestones]] shaping Our trajectory.
 
 #### **18. The Final Test**
 
-This is humanity’s crucible: the Final Test of Our worthiness to endure. Will We awaken to Our Ultimate Unity, transcend fear, and rise together to co-create [[Heaven On Earth]]? This [[Final Test]] demands a [[Shift In Spirit, Consciousness, and Paradigm]]—an entirely [[New]] [[Way of Being]] as a human species. Without this spiritual transformation, We risk succumbing to division and self-destruction, fragmenting into [[Chaos]] and [[Tyranny]]. The cosmos watches with bated breath as We stand on the edge of ascension or oblivion. The choice is Ours.
+This is humanity’s crucible: [[The Final Test]] of Our worthiness to endure. Will We awaken to Our Ultimate Unity, transcend fear, and rise together to co-create [[Heaven On Earth]]? This Final Test demands a [[Shift In Spirit, Consciousness, and Paradigm]]—an entirely [[New]] [[Way of Being]] as a human species. Without this spiritual transformation, We risk succumbing to division and self-destruction, fragmenting into [[Chaos]] and [[Tyranny]]. The cosmos watches with bated breath as We stand on the edge of ascension or oblivion. The choice is Ours.
 
 #### **19. Universal Citizenship and Sovereignty**
 
@@ -148,13 +148,13 @@ The era of top-down subjugation, division, and conquest must end. Universal citi
 
 #### **20. Withdrawing Participation and Consent from the Old Order**
 
-The old order persists because We tolerate and perpetuate it. Every dollar, every vote, every act of compliance strengthens it. As We co-create the [[New]], We must withdraw Our consent from the [[Old]]. Every act of non-compliance weakens its grip and strengthens the foundation of a just and harmonious future.
+The [[Old]] order persists because We tolerate and perpetuate it. Every dollar, every vote, every act of compliance strengthens it. As We co-create the [[New]], We must withdraw Our consent from the [[Old]]. Every act of non-compliance weakens its grip and strengthens the foundation of a just and harmonious future.
 
-#### **21. What Is At Stake If We Fail: Hell on Earth**
+#### **21. What Is At Stake If We Fail - Hell on Earth**
 
 Failure is not theoretical—it is the default trajectory We are already on. Picture cities choked by polluted air, oceans overrun with plastic and acid, and barren fields where food once grew. Envision a society of perpetual surveillance, where every movement is tracked, every thought controlled, every transaction approved, and freedom reduced to memory. This is not dystopian fiction; it is the logical outcome of inaction and apathy. Hell on Earth is not prophecy—it is gradually unfolding before Our eyes. To resist this descent is to fight not only for survival but for humanity’s soul, its Divine destiny, and the sacred future of All life. Our legacy is not yet written—if We rise now, We can still script a future of Light and Love.
 
-#### **22. What Is Possible If We Succeed: Heaven on Earth**
+#### **22. What Is Possible If We Succeed - Heaven on Earth**
 
 [[Heaven on Earth]] is not a fantasy; it is the natural result of aligning with truth, love, and life’s [[Universal Principles and Values]]. Imagine a world of harmony, abundance, unity, and coherence, where all beings [[Help One Another]] thrive. This vision is within reach—if We have the courage to design and build it together.
 
