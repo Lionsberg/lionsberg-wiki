@@ -100,7 +100,7 @@ As we journey along the **Critical Path** into 2025, these threads weave the f
 ## **Section V: Systems Transformation**
 
 [[97. The Living Systems Framework]]  
-[[98. The Human System / Living System Interface]]  
+[[98. The Human System - Living System Interface]]  
 [[99. Transforming Education Systems]]  
 [[100. Transforming Wellness Systems]]  
 [[101. Transforming Economic Systems]]  
