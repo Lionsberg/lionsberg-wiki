@@ -28,7 +28,8 @@ This is not an Absolute list, but the general themes are obvious. If we loved so
 24. Weak / corrupt institutions  
 25. Lack of coherence, cooperation, and continuity 
 26. Lack of Spiritual Realization 
-27. Supply Chains, extraction, oppression, and abuse 
+27. Supply Chains, extraction, oppression, and abuse  
+28. Cyclical catastrophes that render much of Earth uninhabitable.  
 
 These issues, and their corresponding Goals, have been nearly universally validated by 193 nations and the vast majority of international organizations and institutions through frameworks such as the United Nations Sustainable Development Goals. 
 
