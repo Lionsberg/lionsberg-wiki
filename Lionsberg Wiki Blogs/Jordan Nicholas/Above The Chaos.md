@@ -16,7 +16,10 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 - Rising From The Ashes
 
+- [[2025 - The Call to Rise and Co-Create]]  
 - [[Invitation to Join the Lionsberg Alliance]]  
+- [[Agreement to Join The Lionsberg Alliance]]  
+- [[The Invitation - 2025 - Season 1]]  
 - [[Sounding The Alarm]]   
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 - Update to [[The Lionsberg Strategy and Plan]]  
@@ -24,6 +27,7 @@ November 2024 posts and beyond are by What We Are Becoming as We Rise together f
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[A New Cosmic Narrative]]  
 - Updates to [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+
 ## September to December 2024 - Processing the Existential Threats, and Laying Down an Old Life
 
 - [[A New Year, and a Dangerous New Beginning]]  

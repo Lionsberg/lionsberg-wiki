@@ -18,11 +18,11 @@ ____
 
 ### **The Lionsberg Alliance**
 
-This is your invitation to step out of isolation and join a framework of unity and co-creation. The Lionsberg Alliance is a voluntary federation of sovereign individuals, communities, and organizations, built to connect and empower [[The First Three Percent]] to meet this historic moment.
+This is your invitation to step out of isolation and join an evolving framework of unity and co-creation. The Lionsberg Alliance is a voluntary federation of sovereign individuals, communities, and organizations, built to connect and empower [[The First Three Percent]] as they guide humanity through this historic moment.
 
 This is not about centralization or control. It is about voluntarily weaving together Our diverse strengths, wisdom, resources, and relationships into a powerful and united [[Force For Good]]—a body far greater than the sum of its parts. It is about rising into a [[New Paradigm]] of co-creation and collaboration, becoming Stronger Together than any of Us can be in isolation. It is about building resilience and interoperability into an ecosystem diverse and powerful enough to not only survive, but thrive through all that lies ahead.
 
-The Alliance is invitation-only and entirely voluntary. Every individual, team, and organization remains sovereign and autonomous, free to exit at any time.
+The Alliance is invitation-only and entirely voluntary. Every individual, team, and organization remains sovereign and autonomous, free to exit at any time. Critically, **each ally joins as an individual first**, ensuring personal sovereignty and the freedom to learn, grow, and evolve within The Alliance as Our unique pathways unfold. Individuals are free to align with different teams, communities, and organizations over time, as they discover where their unique gifts can best serve the Whole. No one is permanently bound to a specific team—each individual’s journey is honored, and their path is respected.
 
 ___
 
@@ -31,7 +31,7 @@ ___
 Together, We can: 
 
 1. **Unite Strengths**  
-    Alone, no team can overcome the enormity of the challenges We face. Together, We form an unbreakable, decentralized web of support, innovation, and shared power.
+    Alone, no individual, team or locality can overcome the enormity of the challenges We face. Together, We form an unbreakable, decentralized web of support, innovation, and shared power.
     
 2. **Retain Sovereignty**  
     By voluntarily uniting as [[One Body]], We gain the collective strength to resist Tyranny while maintaining Our local autonomy and uniqueness. No coercion, no penalties—only the power of mutual aid and voluntary collaboration.
@@ -50,35 +50,39 @@ Together, We can:
 
 ### **What the Lionsberg Alliance Offers**
 
-While models like [[Mondragon]] in Spain offer glimpses of what is possible, We must co-create the future Ourselves. The Lionsberg Alliance offers:
+While models like [[Mondragon]] in Spain offer glimpses of what is possible at scale, We must co-create Our future Our Selves. The Lionsberg Alliance offers:
 
 - **Mutual Empowerment**: Autonomous teams united in shared wisdom and strength.
 - **Offers and Needs Exchange**: A dynamic marketplace of resources, skills, and support.
 - **Peer Coaching Circles**: Leaders growing together through dialogue, problem-solving, and knowledge-sharing.
 - **Diversity and Resilience**: Unique gifts woven into a [[Whole]] far greater than the sum of its parts.
+- **The Lionsberg System**: A New Operating System enabling interoperability and resource flow across the emerging ecosystem / [[Team of Teams]]. 
 - **Mentorship**: J will personally mentor the top 12 team leaders in 90-day [[Seasonal Quests]], deepening relationships and empowering aligned collective action.
 
 ---
 ### **How to Join**
 
-1. **Align With Universal Values**  
+1. **Join as an Individual First**  
+    Each person joins The Alliance as a sovereign individual, free to engage with different teams and communities as [[The Journey]] unfolds. This ensures personal freedom and growth while strengthening the collective body.
+    
+2. **Align With Universal Values**  
     Reflect on whether you resonate with principles of truth, love, justice, stewardship, wisdom, and co-creation.
     
-2. **Engage in Dialogue**  
-    Schedule a conversation with [[J]] to explore alignment between your unique mission and The Alliance’s Vision.
+3. **Engage in Dialogue**  
+    Schedule a conversation with J to explore alignment between your unique mission and The Alliance’s Vision.
     
-3. **Step Forward**  
+4. **Step Forward**  
     Join via simple agreement to embrace the vision, collaborate as part of the larger body, and contribute The First Tenth to The Commons, while retaining full self-governance, autonomy, and freedom to exit at any time.
     
-4. **Co-Create Abundance**  
+5. **Co-Create Abundance**  
     Begin integrating your strengths into The Alliance through aligned 90-day [[Seasonal Quests]], receiving coaching and support to overcome challenges and succeed.
     
-5. **Evolve the System**  
+6. **Evolve the System**  
     The Lionsberg System is a living, emergent body of wisdom and action. Help continuously improve and expand it as We transform together towards [[The Goal]].
-     
-6. **Federate Everything and Thrive Together**  
-    Have fun, federate everything, and [[Help One Another]] flourish in harmony. 
-     
+    
+7. **Federate Everything and Thrive Together**  
+    Have fun, federate everything, and [[Help One Another]] flourish in harmony.
+
 ---
 
 ### **The Call**
@@ -91,3 +95,6 @@ The path forward begins with a single step that is yours to take. Will you walk 
 
 In Service of [[One]] and [[All]],  
 ~ [[J]]
+____
+Please review the [[Agreement to Join The Lionsberg Alliance]]  
+____
