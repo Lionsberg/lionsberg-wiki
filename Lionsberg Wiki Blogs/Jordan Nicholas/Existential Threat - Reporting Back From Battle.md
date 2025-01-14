@@ -10,7 +10,7 @@ Now that the fraudulent local theater of the disUnited States election is behind
 
 ...let's talk. Quickly. Before it is too late. 
 
-**The building is on fire, and every life and family on Earth is in danger if it collapses.** 
+**The [[Existing Order]] is on fire, and every life and family on Earth is in danger if it collapses.** 
 
 And the governments, administrations, presidents, kings, and priests of the world are powerless against the existential threat We are facing. And complicit in its inception and deception. 
 
@@ -57,7 +57,7 @@ In 2019, as he progressed along the Way, he was attacked by a force of Darkness,
 
 **It** sought out and hunted down those who threatened to expose **It**. 
 
-As soon as **It** touched him, he felt a strange Cold Darkness, and Knew that **What Had Beset Him** was *not merely local*, and *not merely human.*
+As soon as **It** touched him, he felt a strange Cold Darkness, and Knew that **What Had Beset Him** was *[[Not Merely Local]]*, and *[[Not Merely Human]].*
 
 Over 5 torturous years he wrestled with **It**, allowing **It** to drag him all the way down towards the depths of **Its** lair, through the streets and halls of Washington DC, into the secret underground chambers, and deep beyond the reaches of any constitutional authority on Earth.  
 
@@ -73,7 +73,7 @@ Aliens? Fascists? Demons? Genetic engineering? Extraterrestrial human hybrids? C
 
 Extraterrestrials and hybrids in the White House, the Pentagon, NATO, the United Nations, the World Health Organization, the World Bank, our militaries, weapons industries, and Beyond? 
 
-Then, in a flash, The Memories came flooding back, and he Remembered. 
+Then, in a flash, The Memories came flooding back, and he ReMembered. 
 
 **It** was worse than he thought. 
 
@@ -87,7 +87,7 @@ By something intensely anti-human preying upon it, and slowly tightening **Its**
 
 Time was terribly short. 
 
-The doors of the the fascist [[Alien Kontrolle Structure]] were about to permanently slam shut. After the genetic modifications, humanity would never be the same. Humanity would no longer be... human. 
+The doors of the the fascist [[Alien Kontrolle Structure]] were about to permanently slam shut, bringing [[The Final Order]] to life. After the genetic modifications, humanity would never be the same. Humanity would no longer be... human. 
 
 Congressional hearings on UFOs, their extraterrestrial pilots, and the crafts, bodies, and beings in government bases were publicly underway. Ministers of defense, heads of security, deputy prime ministers, constitutional authorities, heads of space programs, abductees, and representatives of the Catholic church publicly hinted at, or outrightly disclosed, the existence a "galactic federation" of multiple advanced alien civilizations that was secretly interacting and collaborating with human governments and militaries around the world and across planets and star systems. 
 
@@ -95,7 +95,7 @@ And kidnapping, torturing, harvesting, and genetically mutilating humans and ani
 
 Government agents began discussing a "return of the gods" and the "world's fair" in 2026 and 2027, which would disclose shocking new technologies to humanity. 
 
-In the depths of **Its** lair, Jordan discovered plans for forthcoming disasters, famines, plagues, hunger, chaos, tyranny and war, which indicated a potential reduction of the human population *down into the hundreds of millions.*
+In the depths of **Its** lair, Jordan discovered plans for forthcoming disasters, famines, plagues, hunger, chaos, tyranny and war, which indicated a potential reduction of the human population *down into the hundreds of millions.* Some called it a "managed extinction."
 
 By October 2024, as the Invisible Power Structures pulled the strings of their political puppets and accelerated human civilization towards Collapse, Civil and World Wars, and permanent enslavement, Jordan had seen enough, and the last remnants of his Old Life was fading fast...
 
@@ -114,6 +114,8 @@ The battle is already raging and the liberation is already well underway...
 
 ...but humanity must choose its Future of its own Free Will and Consent. 
 
+Humanity must confront and overcome [[The Final Test]]. 
+
 Jordan's final report from the battlefield, entitled ***EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil*** is linked below. 
 
 It includes hundreds of pieces of evidence tied to thousands of credible witnesses, unveiling for All to see **The Greatest Fraud, Deception, and Existential Threat in human history**. 
@@ -122,7 +124,7 @@ It includes hundreds of pieces of evidence tied to thousands of credible witness
 
 We would like to discuss in Community the revelation that Jordan's life, suffering, and death Unveiled, so that We can discern together the Wise Right strategy, plan, and next steps. 
 
-We would like to strengthen an army of Light and Love, confront and overcome the challenges and threats at hand, fundamentally refound human civilization by strengthening and connecting Our local watersheds, bioregions, communities and capacities, and co-create a flourishing and abundant New Era out of The Ashes of The Old. 
+We would like to build and strengthen an [[Army of Leadership, Light, and Love]], confront and overcome the challenges and threats at hand, fundamentally refound human civilization by strengthening and connecting Our local watersheds, bioregions, communities and capacities, and co-create a flourishing and abundant New Era out of The Ashes of The Old. 
 
 The coming millennia can continually bring Heaven to Earth... if humanity so chooses. 
 
@@ -146,7 +148,7 @@ Together, anything is possible.
 
 As We make Our Way towards The Exits of the Kontrolle Structure, please carefully avoid getting genetically modified, implanted, or misled by the Old Authorities and False Guides. 
 
-The political solutions. The new "leaders". The new media sensations. The new technologies. The world fair. The implants. The biometrics. The mRNA platforms. The pandemic treaties. The brain / machine interfaces. The consciousness-directed technologies. The next generation of the United Nations. The fomented chaos. The weather manipulation. The earthquakes. The fires. The terror attacks. The civil and world wars. The martial law. The faked alien invasion. The holographic false gods and crafts...
+The political solutions. The new "leaders". The new media sensations. The new technologies. The world fair. The implants. The biometrics. The mRNA platforms. The pandemic treaties. The brain / machine interfaces. The consciousness-directed technologies. The next generation of the United Nations. The fomented chaos. The weather manipulation. The earthquakes. The fires. The terror attacks. The civil and world wars. The martial law. The faked alien invasion. The false saviors and false peace. The holographic false gods and crafts...
 
 ...beware. They are all part of the plan. 
 

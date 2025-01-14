@@ -36,6 +36,8 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[State of the Union (Short)]]  
 - [[Our Learnings]]  
 - [[Important New Pages]]  
+- Perhaps something like [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
+- Perhaps something like [[A New Starting Point]]  
 - [[Core Technologies of Extraterrestrial Craft (And Humanity's Future)]]  
 - [[Disruptive Energy Technologies]]  
 - See updates to [[Lionsberg Wiki Books]]  
