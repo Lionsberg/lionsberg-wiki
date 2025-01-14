@@ -18,6 +18,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Sounding The Alarm]]  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]]  
 - [[2025 - The Call to Rise, Unite and Co-Create]]  
+- [[The Sandpoint 300]]  
 - [[Invitation to Join the Lionsberg Alliance]]  
 - [[Agreement to Join The Lionsberg Alliance]]  
 - [[The Seven Commitments of Every Co-Creator]]  
@@ -45,7 +46,6 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[The False Flag Alien Invasion]]  
 - [[The False Flag Messianic Return]]  
 - December 18th - [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
-- [[The Sandpoint 300]]  
 - Distributing [[The Invitation - 2025 - Season 1]] and Advancing towards [[2025 - Season 1 - Rising From The Ashes]].   
 - [[December 18th Reflections]]  
 - [[The Trouble With The Matrix]]  

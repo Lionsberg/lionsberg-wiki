@@ -3,8 +3,27 @@
 For more information on the inception of the Lionsberg / Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
 Simply, it is designed and built as a [[New Human Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the [[One]] and [[All]].  
+_____
+## 2025 Update
 
-Here is a 30 minute introductory discussion:
+Having exposed [[The Greatest Fraud, Deception, and Existential Threat in History]], We understand that We cannot comply Our Way out of Tyranny. 
+
+Our structure for 2025 onward is rooted in the rapid transcendence of the [[Existing Order]]. 
+
+[[The Lionsberg Alliance]] is a voluntary spiritual association of individuals, teams, and communities co-operating towards [[The Goal]]. 
+
+This [[Association of Associations]] is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
+
+While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]]. 
+____
+## 2024 and Before 
+
+While rooting itself in transcendence, the **provisional structure** for [[The 7 Year Window of Preparatory Work and Learning]] sought to comply with the [[Existing Order]]. 
+
+From 2025 on - We are closing down the legal infrastructure and seeking to rapidly transcend the [[Existing Order]] entirely. 
+___
+
+30 minute introductory discussion of the logic for the formational 2017 to 2024 period:
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F5MAh4T15_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
