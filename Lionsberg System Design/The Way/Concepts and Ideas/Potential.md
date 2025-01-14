@@ -2,7 +2,7 @@
 
 Unrealized or latent possibility / capability / capacity. 
 
-[[Potential]] is (something like) the total set of all possibilities that could be [[Realized]]. 
+[[Potential]] is (something like) the total set of [[All]] possibilities that could be [[Realized]]. 
 
 The [[Lionsberg System]] is specifically built to produce [[Throughput]] of the [[Meta Goal]], or the [[Best Possible Future]], or the [[Highest Intention and Greatest Good]]. 
 

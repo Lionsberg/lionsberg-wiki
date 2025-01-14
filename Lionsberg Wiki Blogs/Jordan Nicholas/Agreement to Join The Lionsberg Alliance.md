@@ -97,7 +97,7 @@ Humanity’s future depends on what We co-create together. Your journey begins h
 
 Will you walk with Us?
 
-To take the first step, [RSVP Here](x).
+To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header).
 
 In Service of [[One]] and [[All]],  
 ~ [[J]]

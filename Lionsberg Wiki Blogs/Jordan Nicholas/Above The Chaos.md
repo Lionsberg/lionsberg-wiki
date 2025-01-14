@@ -1,21 +1,19 @@
- # Above The Chaos 
+# Above The Chaos 
 
-Hello world. Posts prior to October 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 
-
-November 2024 posts and beyond are by What We Are Becoming as We Rise together from The Ashes.  
+Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by What We Are Becoming as We Rise together from The Ashes of one [[Old Life]] destroyed.  
 
 ## Featured Posts
 
 - [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
 - [[Existential Threat - Reporting Back From Battle]]  
-- [[When Extraterrestrials Intervene - Do Not Panic or Fear]]  
 - [[The Invitation - 2025 - Season 1]]  
 
-## December 2033 - Looking Back From The Future
+## December **2033** - Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 - Rising From The Ashes
 
+- [[Beloved Friends, Family, and Allies... (January 2025)]] 
 - [[A Letter to Our Loved Ones (January 2025)]]  
 - [[Sounding The Alarm]]  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]]  

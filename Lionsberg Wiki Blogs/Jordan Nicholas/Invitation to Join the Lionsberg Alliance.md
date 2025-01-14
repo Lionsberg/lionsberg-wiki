@@ -4,11 +4,11 @@
 
 Humanity stands at a pivotal moment. The flames of conflict and division marking the start of this year are not the end but the beginning—a profound turning point that will echo across generations and worlds. The [[Existing Order]], with its corrupted systems and failing structures, has led humanity and Earth to the brink. Its [[Collapse]] is both inevitable and by design—and rapidly approaching.
 
-As this [[Existing Order]] begins to fall, the forces behind its [[Visible Power Structures]] seek to deepen division, consolidate [[Full Spectrum Dominance]], and establish [[The Final Order]]. But their designs are not the only story. Together, We can rise beyond their illusions of dominance and [[Kontrolle]] to co-create a [[New Era]]—one rooted in [[Sovereignty]], [[Autonomy]], Freedom, and Flourishing.
+As this [[Existing Order]] begins to fall, the forces behind its [[Visible Power Structures]] seek to deepen division, consolidate [[Full Spectrum Dominance]], and establish [[The Final Order]]. But their designs are not the only story. Together, We can rise beyond their illusions of dominance and [[Kontrolle]] to co-create a flourishing [[New Era]]—one rooted in [[Sovereignty]], [[Autonomy]], Freedom, and Abundance.
 
 This is the paradox of [[The Final Test]]: to preserve Our individuality, uniqueness, and freedom, We must voluntarily weave them into a [[Higher Order Functional Unity]] capable of confronting and overcoming the immense challenges ahead.
 
-Our mission is clear and unwavering. We are here to unite and empower those awakening to meet this moment in history. We are here in service of [[One]] and [[All]].
+Our mission is clear and unwavering. We are here to unite, serve and empower those awakening to meet this moment in history. We are here in service of [[One]] and [[All]].
 
 Across the world, a small but vital portion of humanity—[[The First Three Percent]]—is already arising. These awakening souls are [[ReMembering]] their purpose, their calling, and their destiny as co-creators of a [[New Civilization]]. Together, they form a planetary grid of leadership, light, and love—250 million strong—capable of transforming humanity’s trajectory within a single generation. If you are receiving this message, you are likely one of them.
 
@@ -91,7 +91,7 @@ This is more than an invitation. It is a call to awaken, arise, and unite to mee
 
 The path forward begins with a single step that is yours to take. Will you walk with Us? 
 
-**To learn more, schedule a conversation, or take the first step, contact Us at JNicholasOne@Proton.me—or reach out directly if already connected.**
+To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header).    
 
 In Service of [[One]] and [[All]],  
 ~ [[J]]
