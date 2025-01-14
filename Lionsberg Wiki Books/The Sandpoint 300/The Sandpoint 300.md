@@ -11,7 +11,7 @@ Today, the stakes are higher, and the need is greater than ever. As national and
 
 ## **What Is The Sandpoint 300?**
 
-**The Sandpoint 300** is a movement to unite and empower an initial group of **three hundred individuals**—**the first three percent**—to lay the foundations for a resilient, thriving Sandpoint that can meet any challenge. 
+**The Sandpoint 300** is a locally focused initiative to unite and empower an initial group of **three hundred individuals**—**the first three percent**—to lay the foundations for a resilient, thriving Sandpoint that can meet any challenge. Inspired and guided by the shared wisdom of [[The Lionsberg Alliance]]—a collaborative effort dedicated to strengthening communities and inspiring unity worldwide—this movement is designed to ensure that Sandpoint becomes a model of hope, resilience, and connection.
 
 This initiative focuses on three pillars:
 
@@ -61,7 +61,7 @@ Have questions or ideas? Email us at TheSandpoint300@Proton.me.
 
 Sandpoint is more than just a town—it’s a special community filled with extraordinary people. By coming together now, we can ensure that our families, neighbors, and future generations not only endure but flourish—come what may. 
 
-This isn’t just about preparing for challenges—it’s about transforming them into opportunities. Together, we can create a legacy of resilience, hope, and inspiration that will uplift Sandpoint and set an example for the world.
+This isn’t just about preparing for challenges—it’s about transforming them into opportunities. It’s about honoring what makes Sandpoint exceptional and building a future grounded in unity, resilience, and shared purpose. Together, we can create a legacy of hope and inspiration that will uplift Sandpoint and serve as an example to the world.
 
 We look forward to seeing you in January and beginning this journey together.
 
