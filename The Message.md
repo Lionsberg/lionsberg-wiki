@@ -1,5 +1,7 @@
 # The Message
 
-The Message refers to the simple good news - we are on a mission to invite and inspire all 8 to 10 billion people on earth to become co-creators of the [[Best Possible Future]] for [[All]], within [[The 7 Year Window of Crisis and Opportunity]]. 
+The Message is threefold: 
 
-Our Purpose, Aim, and Goal is [[Heaven On Earth]].  
+1. As the [[Meta Crisis]] accelerates the [[Existing Order]] towards [[Collapse]], humanity is facing [[The Final Test]].  
+2. [[The Key]] to avoiding failure, and achieving success, is [[Unity]] between [[One]] and [[All]]. 
+3. Lionsberg is on a [[Mission]] to invite and inspire [[All]] to awaken, arise, and unite to overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. Starting with [[The First Three Percent]] by 2026. 

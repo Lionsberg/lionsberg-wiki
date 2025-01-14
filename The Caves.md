@@ -4,11 +4,8 @@ In the [[Myth Of Lionsberg]], **The Caves** are the starting point of the [[Ques
 
 For generations, nearly all humanity has been separated, divided, and held captive unaware in a massive labyrinth of caves. 
 
-To escape, they must hear [[The Whispers]], wake up, and join [[The Great Movement]] out of The Caves, beyond [[The Boundary]], and through the [[The Waters And Deserts Of Chaos]] towards the [[New]].  
+To escape, they must hear [[The Whispers]], awaken, arise, and join [[The Great Movement]] out of The Caves, beyond [[The Boundary]], through [[The Wilderness]], and towards the [[New]].  
 
-The Caves is a concept from [[The Book of Lionsberg]] - see [[1.5 The Caves]]).  
-
-___
 **An Excerpt From The Myth** 
 
 Covered in the enveloping cloak of the Spirit, you are swept along through the cool damp air, a tangible contrast to the enveloping warmth embracing you. 
@@ -60,3 +57,7 @@ _"No."_ The Spirit whispers firmly. _"You were one of those, but now you are awa
 Confronted with a terror so profound, a realization so appalling, and a cacophony so deafening, your body rejects the overwhelming horror with another wave of nausea and vomiting, before darkness claims you, and you succumb once again to unconsciousness.
 
 _To Be Continued..._
+____
+
+The Caves is a concept from [[The Book of Lionsberg]] - see [[1.5 The Caves]].  
+

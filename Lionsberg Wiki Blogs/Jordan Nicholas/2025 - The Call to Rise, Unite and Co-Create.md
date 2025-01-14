@@ -1,4 +1,4 @@
-# 2025 - The Call to Rise and Co-Create
+# 2025 - The Call to Rise, Unite and Co-Create
 
 **Beloved Allies,**
 
@@ -59,7 +59,8 @@ ___
 - [[Invitation to Join the Lionsberg Alliance]] (For existing teams)
 - [[The Invitation - 2025 - Season 1]] (For individuals)  
 - [[Agreement to Join The Lionsberg Alliance]] (Principles and Rules of Engagement)  
-- [[Sounding The Alarm]] (Because _**the building is on fire**_ and all life on Earth is at stake)
+- [[Sounding The Alarm]] (Because _**the building is on fire**_ and all life on Earth is at stake)  
+- [[The Bottom Line - Humanity's Final Test, and the Path to Unity]] (5 minutes of clarity)
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] (For a more complete picture of what We have been contemplating)
 
 ---
