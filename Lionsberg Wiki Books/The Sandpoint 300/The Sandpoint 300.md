@@ -11,7 +11,7 @@ Today, the stakes are higher, and the need is greater than ever. As national and
 
 ## **What Is The Sandpoint 300?**
 
-**The Sandpoint 300** is a locally focused initiative to unite and empower an initial group of **three hundred individuals**—**the first three percent**—to lay the foundations for a resilient, thriving Sandpoint that can meet any challenge. Inspired and guided by the shared wisdom of [[The Lionsberg Alliance]]—a collaborative effort dedicated to strengthening communities and inspiring unity worldwide—this movement is designed to ensure that Sandpoint becomes a model of hope, resilience, and connection.
+**The Sandpoint 300** is a locally focused initiative to unite and empower an initial group of **three hundred individuals**—**the first three percent**—to lay the foundations for a resilient, thriving Sandpoint that can meet any challenge. Inspired and guided by the shared wisdom of [[The Lionsberg Alliance]]—a collaborative effort dedicated to uniting leaders and strengthening communities and worldwide—this movement is designed to ensure that Sandpoint becomes a model of hope, resilience, and connection.
 
 This initiative focuses on three pillars:
 
