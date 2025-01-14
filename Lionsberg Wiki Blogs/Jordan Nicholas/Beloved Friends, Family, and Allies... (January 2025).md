@@ -1,6 +1,6 @@
 # Beloved Friends, Family, and Allies...
-*January 2025*
 
+*January 2025*
 _A two-minute invitational read._
 
 Happy New Year.
@@ -43,7 +43,7 @@ As We face together into a New Year, We invite you to take five steps with Us:
 
 We love you. We miss you. And we hope to see you on [[The Path]]. 
 
-Whenever you are ready, you can find a Way forward below, or simply respond to the [RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header). If not now, We hope these words stay with you for the days ahead, and are recalled when the Time is right.
+Whenever you are ready, you can find a Way forward below, respond to the [RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header) to join The Alliance, or simply reach out to engage. If not now, We hope these words stay with you for the days ahead, and are recalled when the Time is right.
 
 In Service of [[One]] and [[All]],
 
