@@ -1,6 +1,6 @@
 # Behold, A New Earth
 
-Earth, It Self a Conscious Being, periodically cleanses and renews It Self. 
+Earth, Its Self a Conscious Being, periodically cleanses and renews It Self. 
 
 Just as advanced beings periodically put them Selves through the discomfort of fasting, deprivation, or harsh changes to force their body to reset, cleanse and renew, so too do aspects of the One Living System at Higher Levels of Abstraction. 
 
@@ -18,7 +18,7 @@ When they appear with their advanced spacecraft and technologies, they appear to
 
 This is why so many diverse "religious" traditions include the notion of "a return of the gods" who imparted to them the Knowledge they are guarding and propagating. 
 
-As officials from the Visible Power Structures of Earth begin to gently and deceitfully acclimate humanity to the idea of a "return of the gods" and a return of the "world's fair" in 2027, this is The Secret they are concealing. 
+As officials from the Visible Power Structures of Earth begin to gently and deceitfully acclimate humanity to the idea of a "return of the gods" and a return of the "world's fair" in 2026 and 2027, this is The Secret they are concealing. 
 
 Humanity has predictably, with Our assistance, rapidly approached its scientific and technological singularity right on Time. 
 
@@ -114,6 +114,6 @@ And the technology it uses to advance Beyond the planet it was raised on will no
 
 Do not fall for the fraud of Elon and Mars. It was all seen and warned of in advance. 
 
-Humanity is already there and Beyond.  
+Humanity is already there and Beyond. 
 
 Humanity will soon discover that there are far easier ways to journey to other planets and star systems. 
