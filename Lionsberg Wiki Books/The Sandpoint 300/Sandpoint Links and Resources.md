@@ -1,6 +1,6 @@
 # Sandpoint Links and Resources
 
-This page is a [[Work In Progress]] by [[The Sandpoint 300]] 
+This page is a [[Work In Progress]] by [[The Sandpoint 300]]. 
 
 1. [[The Sandpoint 300]]   
 2. [Sandpoint Current Events](https://www.sandpointonline.com/current/index.shtml)  
