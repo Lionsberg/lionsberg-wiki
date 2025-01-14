@@ -62,9 +62,10 @@ ____
 1. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 2. [[State of the Union (Short)]]  
 3. [[2025 - The Call to Rise, Unite and Co-Create]]  
-4. [[Invitation to Join the Lionsberg Alliance]]  
-5. [[Above The Chaos]]  
-6. [[Lionsberg Wiki Books]]  
+4. [[The Sandpoint 300]] (local case study)  
+5. [[Invitation to Join the Lionsberg Alliance]]  
+6. [[Above The Chaos]]  
+7. [[Lionsberg Wiki Books]]  
 
 ### **Invitation**
 
