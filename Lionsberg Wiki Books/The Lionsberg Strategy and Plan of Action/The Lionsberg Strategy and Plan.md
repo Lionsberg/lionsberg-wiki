@@ -32,7 +32,7 @@
 [[25. The Art and Science of Co-Creation]]  
 [[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]   
 [[27. We Have a Lot of Work to Do]]   
-[[28.  This Much Work Requires a Purpose-Built System]] 
+[[28.  This Much Work Requires a Purpose-Built System]]  
 [[29. A New System of Systems]]  
 [[30. Unified by The Goal]]  
 [[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]]   
