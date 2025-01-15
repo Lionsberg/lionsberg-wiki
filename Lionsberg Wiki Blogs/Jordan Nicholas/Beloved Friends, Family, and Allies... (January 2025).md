@@ -39,7 +39,7 @@ As We face together into a New Year, We invite you to take five steps with Us:
 2. **Discovery**: Explore the linked resources below with an open mind, follow the threads, and discern for yourself whether these shocking revelations are [[True]].
 3. **Preparation**: Strategize how to position and prepare your loved ones in advance of the coming [[Collapse]].
 4. **Collaboration**: Join with others, for none of Us can endure or thrive through [[The Collapse-Ascension Nexus]] alone.
-5. **Join Us**: If this resonates, join a movement dedicated to overcoming the [[Meta Crisis]] and forging a [[New Civilization]] out of the ashes of the [[Old]].
+5. **Join Us**: If this resonates and you would like to collaborate, join a movement dedicated to overcoming the [[Meta Crisis]] and forging a [[New Civilization]] out of the ashes of the [[Old]].
 
 We love you. We miss you. And we hope to see you on [[The Path]]. 
 
