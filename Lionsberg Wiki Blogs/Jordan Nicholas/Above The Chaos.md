@@ -13,6 +13,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 - Rising From The Ashes
 
+- [[The Time is Now - Humanity's Call to Action]]  
 - [[Beloved Friends, Family, and Allies... (January 2025)]] 
 - [[A Letter to Our Loved Ones (January 2025)]]  
 - [[Sounding The Alarm]]  
