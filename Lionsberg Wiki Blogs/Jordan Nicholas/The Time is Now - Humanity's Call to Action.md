@@ -50,7 +50,7 @@ _**The future is not written—it is ours to consciously co-create.**_
 
 ## A Path Forward 
 
-While much of humanity slept, some of Us prepared. Through years of sacrifice, We have woven lifetimes of wisdom into a pathway toward [[Heaven on Earth]].
+While much of humanity slept, some of Us prepared. Through years of sacrifice, We have woven lifetimes of wisdom into a pathway toward [[Heaven on Earth]]. Many of you carry crucial pieces to the puzzle. 
 
 The next milestone is clear:  
 
@@ -62,11 +62,13 @@ This milestone will forge a decentralized, 250 million-strong grid of leadership
 
 From there, the mandate is simple: _**help every individual and community become as strong, resilient, and capable as possible—before the [[Collapse]].**_ 
 
+Then, out of the ashes of the [[Old]], We will co-create the [[New]]. 
+
 ### **The Time Is Now**
 
 This is the most important moment in 10,000 years. And _**you**_ are here for a reason. Your loved ones, your communities, and your world need you more than ever.
 
-If you feel called to join this sacred endeavor—or have resources, relationships, or wisdom to contribute—please [RSVPHere](x). Together, We will co-create the path forward and [[Help One Another]] through whatever lies ahead.
+If you feel called to join this sacred endeavor—or have resources, relationships, or wisdom to contribute—please [RSVP Here](x). Together, We will co-create the path forward and [[Help One Another]] through whatever lies ahead.
 
 We will assess responses to this message for seven days and begin the next phase Together on **February 3rd.**
 
@@ -77,5 +79,3 @@ With love, hope, and unwavering faith that Together we can overcome,
 P.S. P.S. Once the tsunami arrives, [[The Window]] to build the network of Arks will have closed. **The Time is Now.**
 
 P.P.S. For deeper insight, explore the **[[Above The Chaos]]** series and **[[Lionsberg Wiki Books]]**—resources designed to inspire and inform action.
-
-[[Lionsberg Cycles of Growth]] 
