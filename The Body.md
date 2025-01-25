@@ -8,4 +8,4 @@ It calls forth the [[New Covenant]] of Universal and Eternal Right Relationship 
 
 Lionsberg is attempting to [[Incarnate]] this idea, and invite [[The Body]] into [[Higher Order Functional Unity]] through [[Love]]. 
 
-For another similar metaphor, see [[The Tree]] and [[The Golden Seed]]. 
+For another similar metaphor, see [[The Sacred Tree]] and [[The Golden Seed]]. 

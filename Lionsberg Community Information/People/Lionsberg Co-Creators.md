@@ -1,6 +1,6 @@
 # Lionsberg Co-Creators
 
-We are monitoring the growth of [[The Tree]] of Lionsberg that is emerging from [[The Golden Seed]]. The [[Lionsberg Cycles of Growth]] are like growth rings on a tree that help us measure and monitor Our [[Progress]] in moving All humanity together towards [[The Goal]]. 
+We are monitoring the growth of [[The Sacred Tree]] of Lionsberg that is emerging from [[The Golden Seed]]. The [[Lionsberg Cycles of Growth]] are like growth rings on a tree that help us measure and monitor Our [[Progress]] in moving All humanity together towards [[The Goal]]. 
 
 The [[Emergence]] unfurls itself along the [[Fibonacci]] sequence found throughout the [[Living System]]. The number of [[Co-Creators]] in each Cycle is equal to the two previous numbers combined together. See [[Lionsberg Cycles of Growth]] for the full sequence. 
 

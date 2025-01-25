@@ -80,13 +80,13 @@ The [[Way]] towards [[The Goal]] is [[The Quest]] towards Unity through Love.
 
 The Quest [[Towards Oneness Through Love]] is measured by a set of [[Milestones]] that mark the [[Way]]. 
 
-The Highest Order set of Milestones are the [[Lionsberg Cycles of Growth]]. These follow the Fibonacci sequence, and serve like growth rings on [[The Tree]] that is growing out of [[The Golden Seed]]. 
+The Highest Order set of Milestones are the [[Lionsberg Cycles of Growth]]. These follow the Fibonacci sequence, and serve like growth rings on [[The Sacred Tree]] that is growing out of [[The Golden Seed]]. 
 
 March 1, 2024 marks the pivotal point where everything in [[The 7 Year Window of Preparatory Work and Learning]] is put behind us, [[The Conditions]] are considered adequate, [[The Golden Seed]] is planted invitationally, and we begin to Cultivate, Measure, and Monitor the [[Lionsberg Cycles of Growth]], and the [[Lionsberg Cycle Time]]. Together, these two simple metrics help us to understand at any given time whether we are on track with the [[10 Year Grand Strategy]]. 
 
 ## The Unity That Makes Everything Else Possible 
 
-The [[Lionsberg Cycles of Growth]] mark the [[Progress]] along the Path [[Towards Oneness Through Love]]. They measure the growth of [[The Tree]] springing up from [[The Golden Seed]]. 
+The [[Lionsberg Cycles of Growth]] mark the [[Progress]] along the Path [[Towards Oneness Through Love]]. They measure the growth of [[The Sacred Tree]] springing up from [[The Golden Seed]]. 
 
 *As [[The Body]] grows and becomes more capable, everything else becomes [[Possible]].* 
 

@@ -11,7 +11,7 @@ We are glad you are here.
 
 As you embark on this epic [[Quest]] towards [[Destiny]], each week you will reach new junctures that will require you to make important and transformational choices. 
 
-Our individual and collective ability to [[Avoid Failure]] and [[Succeed]] on [[The Quest]] towards [[The Goal]] will rest largely on the quality of the conscious decisions we make. 
+Our individual and collective ability to [[Avoid Failure]] and [[Succeed]] on [[The Quest]] towards [[The Goal]] will rest largely on the quality of the [[Conscious Decisions]] we make—individually, and collectively. 
 
 Because [[The Means Are The Ends]], the [[New World]] we [[All]] inherit will be the product of what we [[Embody]] and [[Enact]] along the [[Way]]. So however we would like our life and our world to be, today is the day to begin partnering with those around us to embody it. We are all here for that shared mission. 
 
@@ -24,6 +24,8 @@ If you find something missing, co-create it.
 If you can improve something, transform it. 
 
 If you see something that doesn't belong, remove it. 
+
+If you see something that should be done, that is not being done, that you are willing and able do, it is likely yours to do! 
 
 We are All Co-Creators of The New. 
 ### II. Your First Day 
@@ -40,51 +42,51 @@ The biggest difference is that Out Here, you are [[Sovereign]], [[Autonomous]] a
 
 Out here, we are all equal Co-Creators and Co-Stewards of our individual and collective Destiny. 
 
-Out Here, you are the captain of the Vessel of your Existence, and your Experience will be exactly and precisely what you cause it to be in partnership with your fellow travelers. There is no "them" "out there" who can walk the [[Path]] for us, or [[Confront and Overcome]] the [[Challenges]] and [[Obstacles]] that lie in our [[Way]]. It is All up to Us. 
+Out Here, you are the captain of the Vessel of your Existence, and **your Experience will be exactly and precisely what you cause it to be in partnership with your fellow travelers**. There is no "them" "out there" who can walk the [[Path]] for us, or [[Confront and Overcome]] the [[Challenges]] and [[Obstacles]] that lie in our [[Way]]. It is All up to Us, The People. 
 
 If something is broken, fix it. If something is lacking, fill it up. If something doesn't belong, remove it. If someone is hurting or stuck, help them. If you are hurting or stuck, ask for help. If you have something to offer, offer it. If you have a need, ask.  
 
 It is up to Us. All of it. [[We Are The Ones We Have Been Waiting For]].  
 
-The moment you find your Self stuck, or wondering what the [[Next Steps]] are, remember not to look to Authority. That was the pattern of life in [[The Caves]], but it is deadly Out Here [[Beyond The Boundary]]. There are no Employees Out Here. 
+The moment you find your Self stuck, or wondering what the [[Next Steps]] are, **remember not to look to Authority**. That was the pattern of life in [[The Caves]], but it is deadly Out Here [[Beyond The Boundary]]. There are no Employees Out Here. 
 
-Look Within. Talk to your Group or Team. If you don't yet have a group or a team, your first task is to forge or join one. 
+**Look Within. Talk to your Group or Team.** If you don't yet have a group or a team, **your first task is to forge or join one**. 
 
-Every Group / Team should be engaged in the most meaningful Quest they can design and undertake for that season / quarter. If you are talking with your Group or Team and things aren't clear, go back to the drawing board, clarify your [[Quarterly Quests]] or choose a new one, and get moving again. 
+Every Group / Team should be engaged in the most meaningful Seasonal Quest they can design and undertake for that season. If you are talking with your Group or Team and things aren't clear, go back to the drawing board, clarify your [[Seasonal Quests]] or choose a new one, and get moving again. **Together**. 
 
 As you get into motion and begin communicating to [[The Movement]] about what you are doing and Why, The Movement will be able to help you and your Team better [[Navigate]] and Steer. [[We Have Heard]] it said that [[It Is Difficult To Steer A Parked Vehicle]]. 
 
 ### III: A Few Orienting Facts
 
-**Lionsberg is self-funding**: To ensure freedom, sovereignty, and autonomy, Lionsberg is self-funding and augmented by public support. In the Lionsberg System, capital is viewed as a subordinated tool that we use when and as necessary to accomplish [[The Goal]]. This is crucial to preserving our freedom, and with that freedom comes the responsibility to continue discovering creative ways of resourcing The Mission. 
+**Lionsberg is self-funding**: To ensure freedom, sovereignty, and autonomy, Lionsberg is self-funding and augmented by public support. In the Lionsberg System, **capital is viewed as a subordinated tool** that we use when and as necessary to create [[Progress]] towards [[The Goal]]. This is crucial to preserving our freedom. With that freedom comes the responsibility to continue discovering creative ways of resourcing our [[Seasonal Quests]], and The Mission as a Whole. 
 
-**Lionsberg is self-governing**: The freedom of life [[Beyond The Boundary]] comes with the responsibility and authority for self-governance at every fractal level, from the individual, to the group, to the local, to the tribe, to the bioregion, and all the Way up to the broadest Whole. 
+**Lionsberg is self-governing**: The freedom of life [[Beyond The Boundary]] comes with the responsibility and authority for self-governance at every fractal level, from the individual, to the group, to the local, to the tribe, to the bioregion, and all the Way up to the broadest cosmic Whole. 
 
-**Lionsberg is self-sustaining**: Every self-governing fractal level is also self-sustaining. Unlike the [[Old World]] of employee-consumer-slavery, Out Here we are all responsible for our own flourishing, and for the flourishing of [[All]] those around us.
+**Lionsberg is self-sustaining**: Every self-governing fractal level is also self-sustaining. Unlike the [[Old World]] of employee-consumer-slavery, Out Here we are all responsible for our own flourishing, and for the flourishing of [[All]] those around us. Each individual, team, and locality is responsible for their own resourcing and self-sustainance. 
 
-**Lionsberg is self-replicating**: On the epic Quest towards Destiny, none of us can reach [[The Goal]] unless and until all of us reach [[The Goal]]. This means that the core function of every group is to flourish, self-replicate, and help new groups emerge, progress, and self-replicate. We monitor self-replication and growth via the [[Lionsberg Cycles of Growth]] and the [[Lionsberg Cycle Time]]. Remember, our near term target is to connect and empower [[The First Three Percent]] by 2026. 
+**Lionsberg is self-replicating**: On the epic Quest towards Destiny, ***none of us can reach [[The Goal]] unless and until all of us reach [[The Goal]]***. This means that the core function of every group is to flourish, self-replicate, and help new groups emerge and self-replicate. We monitor self-replication and growth via the [[Lionsberg Cycles of Growth]] and the [[Lionsberg Cycle Time]]. Remember, our near term target is to connect and empower [[The First Three Percent]] by 2026. 
 
-**Lionsberg is a True Myth**: Lionsberg is an incarnation of the archetypical story about We The People, who in a moment of [[Meta Crisis]], arose and united to confront and overcome the grand challenges, accomplish the global goals, journey towards [[The Promised Land]], while forging the [[Best Possible Future]] for [[All]]. It is a myth, but it is True, because we are causing it to be so. 
+**Lionsberg is a True Myth**: Lionsberg is an incarnation of the archetypical story about We The People, who in a moment of [[Meta Crisis]], arose and united to confront and overcome the grand challenges, accomplish the global goals, and co-create [[Heaven On Earth]]. It is a myth, but it is True, because we are causing it to be so. 
 
 ### IV: Life as a Sovereign, Autonomous Agent 
 
 While the [[Power Structures]] of the [[Old World]] were exceptionally effective at keeping everyone divided, conquered, siloed, and optimally disempowered, the universe of [[Lionsberg]] is different. 
 
-Every Citizen of Lionsberg eternally becomes ever more [[Sovereign]], [[Autonomous]] and [[Free]]. We sometimes call this [[Conscious Agency]]. 
+Every New Citizen of Lionsberg eternally becomes ever more [[Sovereign]], [[Autonomous]] and [[Free]]. We sometimes call this [[Conscious Agency]]. 
 
 The [[Pattern Language]] of the [[New World]] calls for individual and local self-governance, agency, and flourishing, in the context of [[Higher Order Functional Unity]]. We progress on our [[Quest]] towards that [[Destiny]] through our [[Practice]] of acting that out. 
 
-This means that you have no "manager". No "boss". No external Authority but [[One]] and [[All]]. No accountability except to [[God]] and those who you voluntarily choose to collaborate with towards shared [[Goals]] and [[Values]]. 
+**This means that you have no "manager". No "boss". No external Authority but [[One]] and [[All]].** No accountability except to [[God]] and those who you voluntarily choose to collaborate with towards shared [[Goals]] and [[Values]]. 
 
 Your life, your groups, your community, your bioregion, your world, and Lionsberg as a Whole are All yours to navigate towards [[The Goal]]. 
 
 So figure out what [[One]] and [[All]] desire, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
 
-And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating the [[Vessel]] towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[Lionsberg System]]. 
+And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating Together towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[Lionsberg System]]. 
 
 While every individual and group is Sovereign and Free, if we do not wisely collaborate to [[Navigate]] [[The Vessel]] towards [[The Goal]] in a Spirit of Unity, Harmony, and Coherence, we will tear it apart and find our Selves once again enslaved in the [[Old World]]. 
 
-This means that we must balance our Liberty with the pragmatic necessity of functionally and effectively organizing ourselves in [[Higher Order Functional Unity]] as a Body that can actually meet needs, solve problems, accomplish goals, and [[Progress]] on [[The Quest]].  
+This means that we must balance our Liberty with the pragmatic necessity of functionally and effectively organizing ourselves in [[Higher Order Functional Unity]] as [[One Body]] that can actually meet needs, solve problems, accomplish goals, and [[Progress]] on [[The Quest]].  
 
 ## Part II: Welcome to Life Beyond The Boundary 
 

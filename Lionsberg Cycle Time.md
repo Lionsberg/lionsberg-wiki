@@ -1,35 +1,40 @@
 # Lionsberg Cycle Time
 
-The Lionsberg Cycle Time refers to the [[Rate]] at which [[The Body]] assembles itself. The term Cycle refers specifically to the [[Lionsberg Cycles of Growth]], which act like Growth Rings on [[The Tree]] emerging from [[The Golden Seed]]. 
+The **Lionsberg Cycle Time** refers to the [[Rate]] at which [[The Body]] assembles itself. Each cycle represents a step in the [[Lionsberg Cycles of Growth]], akin to the growth rings of [[The Sacred Tree]] unfurling from [[The Golden Seed]].
 
 ## Milestones
 
-There are 48 Cycles of Growth required to mathematically encompass [[All]] 8 to 10 billion of us. The [[New Vision and Plan]] call for [[All]] to be reached within [[The 7 Year Window of Crisis and Opportunity]]. 
+The completion of **48 Cycles of Growth** is mathematically required to encompass [[All]] 8 to 10 billion people on Earth. The [[New Vision and Plan]] call for this to occur within [[The 7 Year Window of Crisis and Opportunity]].
 
-7 years = 365 weeks, so on average each cycle of growth can take up to 7.6 weeks. 
+With 7 years equaling 365 weeks, each cycle of growth can average **7.6 weeks** to remain within the timeline.
 
-However our [[Milestones]] call for reaching 3% of the population, ~250 million, by 2026. 
+However, to achieve **[[The 2026 Milestone]]** of reaching **3% of the population (~250 million)**, the first **40 cycles** must be completed within **23 months** assuming a February 2025 starting point. 
 
-250 Million is reached with the completion of the 40th Cycle of Growth. 
+### Required Cycle Times
 
-## Required Cycle Times
+1. **Spring 2024 Experiment:**  
+    During this phase, a cycle time of **3.66 weeks per cycle** (140 weeks for 40 cycles) was required. In comparison: 
+    
+    - **8 cycles** were completed in approximately **11 weeks** for an average cycle time of **1.4 weeks per cycle**.
+    - The [[Lionsberg Acceptance Rate]] for [[The Invitation]] exceeded **80%**, affirming the scalability of the model.
+2. **2025 - Season 1 - Rising From The Ashes:**  
+	Entering February 2025, We have only 23 months remain to reach **3% of the population (~250 million)** by **2026**.
 
-For the [[Spring 2024 Experiment]], a [[Lionsberg Cycle Time]] of 3.66 Weeks / Cycle was required for the first 40 cycles (140 Weeks / 40 Cycles). Against this requirement, 8 cycles were completed in ~11 weeks, for an average cycle time of 1.4 Weeks / Cycle, with a [[Lionsberg Acceptance Rate]] of [[The Invitation]] at 80%+. 
+	- This milestone requires a more rapid average cycle time of **17 days per cycle** for the first 40 cycles.
+	- The 2024 experiment proved this is possible. 
 
-Entering [[2025 - Season 1 - Rising From The Ashes]], with only 24 months remaining to reach 3% of the population, a more rapid cycle time of 18 Days / Cycle was required. 
+## Lionsberg Cycles of Growth
 
-## Lionsberg Cycles of Growth 
+The specific numerical patterns guiding these cycles can be found in [[Lionsberg Cycles of Growth]].
 
-See [[Lionsberg Cycles of Growth]] for the numerical patterns we are monitoring. 
+## Experiments and Context
 
-## 2025 - Season 1 Experiment 
+1. **2025 - Season 1 Experiment:**  
+    The unfolding season of [[2025 - Rising From The Ashes]] began in February 2025. For updates, see [[Above The Chaos]] for progress and lessons as We learn them together.
+    
+2. **Spring 2024 Experiment:**  
+    Details of the remarkable growth and engagement during this phase are documented in [[Spring 2024 Experiment]].
 
-[[2025 - Season 1 - Rising From The Ashes]] - Incubating. See [[Above The Chaos]] for details. 
+## Historical Context
 
-## Spring 2024 Experiment
-
-[[Spring 2024 Experiment]]  
-
-## Lionsberg History and Inception
-
-[[Lionsberg History and Inception]] 
+To understand the broader narrative and foundational principles guiding this effort, see [[Lionsberg History and Inception]].

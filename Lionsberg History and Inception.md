@@ -97,7 +97,7 @@ We closed [[The 7 Year Window of Preparatory Work and Learning]] on February 29,
 
 After the first [[Lionsberg Invitation]] extended met with a 70% to 80% acceptance rate in early March, a [[New]] starting point was at hand and [[Jordan]] went on the first segment of the Above The Chaos tour to gather additional commitments and support.  
 
-By mid April 2024, Cycle 7 of the [[Lionsberg Cycles of Growth]] was completed, demonstrating the viability of [[The Tree]] / [[The Body]] that was emerging from [[The Golden Seed]]. 
+By mid April 2024, Cycle 7 of the [[Lionsberg Cycles of Growth]] was completed, demonstrating the viability of [[The Sacred Tree]] / [[The Body]] that was emerging from [[The Golden Seed]]. 
 
 From that point on, [[The Story]] will evolve into a [[Story of Stories]] as the [[Lionsberg Co-Creators]] coalesce into a unified [[Force For Good]] and collaborate to transform their lives and their world, while [[Passing The Flame]] to [[Future Generations]]. 
 

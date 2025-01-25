@@ -14,7 +14,7 @@ I spent the last 7 years discerning, designing, and building, with dozens of all
 
 Things finally appear ready as spring approaches after the long cold winter, and March 1st, a small green shoot emerged from [[The Golden Seed]] that had been planted. 
 
-In the first 7 days of March, [[The Tree]] went through 6 cycles of growth, uniting 16 of the people that I would most desire to design and build the Best Possible Future with. 
+In the first 7 days of March, [[The Sacred Tree]] went through 6 cycles of growth, uniting 16 of the people that I would most desire to design and build the Best Possible Future with. 
 
 So finally, after bringing together lifetimes of preparation and value, we have an living organism emerging, that although tiny, contains within ItSelf the DNA and Potential to enable Us to confront and overcome the [[Grand Challenges]], take up our [[Collective Inheritance]], and pass on to [[Future Generations]] an entirely healed, regenerated and renewed world. 
 
