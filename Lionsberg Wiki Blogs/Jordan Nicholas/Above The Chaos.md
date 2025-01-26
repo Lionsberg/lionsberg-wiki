@@ -19,7 +19,9 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Sounding The Alarm]]  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]]  
 - [[2025 - The Call to Rise, Unite and Co-Create]]  
+- [[One of a Thousand Letters Lining the Wastebasket]]  
 - Updates to [[LIONSBERG]]  
+- Updates to [[Lionsberg Summary]]  
 - Updates to [[The Lionsberg Co-Creator's Handbook]]  
 - [[Tracking Loose Threads (January 2025)]]  
 - [[The Fibonacci Unfolding Model]]  
@@ -43,6 +45,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[A New Cosmic Narrative]]  
 - Updates to [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]   
+- [[Psychic and Religious Abuse - The Engine of Mind Kontrolle]]  
 
 
 ## September to December 2024 - Processing the Existential Threats, and Laying Down an Old Life
