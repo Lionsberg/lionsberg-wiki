@@ -19,6 +19,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Sounding The Alarm]]  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]]  
 - [[2025 - The Call to Rise, Unite and Co-Create]]  
+- Updates to [[LIONSBERG]]  
 - Updates to [[The Lionsberg Co-Creator's Handbook]]  
 - [[Tracking Loose Threads (January 2025)]]  
 - [[The Fibonacci Unfolding Model]]  
