@@ -1,4 +1,4 @@
-# The Birth of the Eternal Citadel
+# The Birth of The Eternal Citadel
 
 _In the beginning, before the illusion of Time and Space, there was One._
 

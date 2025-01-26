@@ -1,7 +1,7 @@
-# Lionsberg Mission
+# LIONSBERG Mission
 
-Our Mission is guide and empower humanity in its Quest to confront and overcome the [[Meta Crisis]], and co-create [[Heaven On Earth]].
+The mission of **[[LIONSBERG]]** is to bring **[[Heaven]]** to every realm it touches.
 
-We do this by coalescing enlightening individuals into [[Self-Governing, Self-Sustaining, and Self-Replicating]] small groups and localities, and aligning [[Seasonal Quests]] that advance the [[Critical Path]] towards [[The Goal]].  
+As Earth enters the **[[New Era]]**, **LIONSBERG** seeks to guide and empower humanity in its Quest to overcome the **[[Meta Crisis]]**, forge a **[[New Civilization]]**, and co-create **[[Heaven on Earth]]**.
 
-An early milestone is to connect and empower [[The First Three Percent]] by 2026. 
+The next milestone on this sacred mission is to connect and empower **[[The First Three Percent]]** by 2026, igniting a global transformation through unity, vision, and action.

@@ -1,6 +1,5 @@
-# Lionsberg Spirit
+# LIONSBERG Spirit
 
-The [[Central Animating Spirit]] of [[Lionsberg]] is [[One]] with the [[Central Animating Spirit]] that creates and sustains the [[Universe]]; the [[Spirit of God]]. 
+The **[[Central Animating Spirit]]** of **[[LIONSBERG]]** is [[One]] with the **[[Spirit of God]]**, the essence that creates and sustains the **[[Universe]]**.
 
-It is characterized by [[Absolute And Unconditional Love]], [[Wisdom]], Justice, and Co-Creativity.   
-
+It radiates **[[Absolute and Unconditional Love]]**, infinite **[[Wisdom]]**, **[[Justice]]**, and **[[Divine Co-Creativity]]**, calling **[[All]]** to reawaken and ReMember with the **[[ONE]]**. 

@@ -90,7 +90,9 @@ As 2024 fades into The Story and 2025 begins, the [[Sacred Flame]] is now in Our
 **[RSVP Here](x)** **to take your place in this unfolding Journey.**
 
 With Love,  
+
 ~ **[[J]]**
 
-_**P.S. To ensure We are prepared for What Lies Ahead, the January gathering will include a monumental revelation about the extraterrestrial forces among Us. It is rapidly becoming one of the most shocking and transformative Stories in history. Are you curious what lurks behind The Veil?**_   
-***P.S.S. To catch up on [[Jordan's Journey]] and [[The Chronicles of Lionsberg]] in more detail, see the [[Above The Chaos]] series.*** 
+***P.S. To catch up on [[Jordan's Journey]] and [[The Chronicles of Lionsberg]] in more detail, see the [[Above The Chaos]] series.*** 
+
+[[The Fibonacci Unfolding Model]] 

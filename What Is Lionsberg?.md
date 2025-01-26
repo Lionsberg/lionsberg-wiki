@@ -56,7 +56,7 @@ To truly understand Lionsberg, one must experience it. Begin by exploring the *
 This is Lionsberg: not just a name or a system, but a living beacon for humanity’s journey Home.
 ___
 
-For a more mythical exploration of Lionsberg, see [[The Birth of the Eternal Citadel]] 
+For a more mythical exploration of Lionsberg, see [[The Birth of The Eternal Citadel]] 
 
 ___
 Onward to: [[The Invitation - Co-Creating Heaven on Earth]]  

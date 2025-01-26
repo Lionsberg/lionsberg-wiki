@@ -8,6 +8,8 @@ Lionsberg is like...
 ## 2. 
 
 ...a [[City on a Hill]].  
+[[The Sacred Mountain]]  
+[[The Eternal Citadel]]  
 
 ## 3. 
 
@@ -20,6 +22,7 @@ Lionsberg is like...
 ## 5. 
 
 ...a Sacred Tree emerging from [[The Golden Seed]].  
+[[The Sacred Tree]]  
 
 ____
 
