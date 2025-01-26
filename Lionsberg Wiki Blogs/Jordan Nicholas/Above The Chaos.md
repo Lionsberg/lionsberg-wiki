@@ -14,7 +14,6 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 ## January 2025 - Rising From The Ashes
 
 - [[The Time is Now - Humanity's Call to Action]]  
-- [[Beloved Friends, Family, and Allies... (January 2025)]] 
 - [[A Letter to Our Loved Ones (January 2025)]]  
 - [[Sounding The Alarm]]  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]]  
