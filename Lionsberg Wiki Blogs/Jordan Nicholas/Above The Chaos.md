@@ -13,6 +13,8 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[The Backward-Looking Story – December 18, 2033]]  
 ## January 2025 - Rising From The Ashes
 
+- Final Work in Progress for January: [[The Final Call - A Proclamation to Awaken the World]]   
+- [[The LIONSBERG Declaration of Interdependence]]  
 - [[The Time is Now - Humanity's Call to Action]]  
 - [[The "Tick" of Time]]  
 - [[Space and Time in the LIONSBERG Theory of Everything]]  
