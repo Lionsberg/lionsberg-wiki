@@ -195,5 +195,8 @@ If We do not build **Our Own**, we will be at **their mercy.**
 This is **The Joseph Plan**.
 
 The time to act is **now**.
+___
+Additional details can be found in the [[The Lionsberg Strategy and Plan]] and other [[Lionsberg Wiki Books]]. 
+____
 
 P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIONSBERG System for interoperable use by the [[Force For Good]]. 
