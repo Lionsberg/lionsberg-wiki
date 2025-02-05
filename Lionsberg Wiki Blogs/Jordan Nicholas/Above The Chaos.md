@@ -14,10 +14,12 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## February 2025 - Biding The Time and UnVeiling Truth
 
+- [[Why 2025 Has Long Been Known As The Disclosure Year - The Final Unveiling of Humanity’s Hidden Reality]]  
 - [[The Veiled Disclosure - How Humanity Has Been Told the Truth—But Never Shown It]]  
 - [[Game of Thrones and Three Body Problem - 15 Years of Soft Disclosure]]  
 - [[The Grand Unveiling - The Cosmic War, Earth’s Hidden History, and The Final Test]]  
 - [[The Ultimate Disclosure - The Forbidden Truths That Shape Reality]]  
+- [[Earth is Shifting into the Next Phase of Its Cosmic Cycle - The Return of the Great Transition]]  
 - [[The Manufactured Apocalypse - The Falsified Fulfillment of Prophecy and the Final Deception]]  
 - [[Getting a Feel for the Reptilians]]  
 - [[Getting a Feel for The Orion Group]]  
