@@ -9,6 +9,7 @@
 - [[LIONSBERG - History, Inception, and Trust Manifesto]] documents [[How We Got Here]] and [[Where We Are]]. 
 - After millennia of deceit, centuries of sabotage, and generations of neglect, the foundations of the [[Existing Order]] are crumbling.  
 - [[Rediscovering Humanity's Cosmic Narrative - Ancient Myths, Sacred Texts, and the Modern Disclosure Movement]] needs more work. 
+- [[The Final Call - A Proclamation to Awaken the World]] - update sections VII and VIII and appendices. 
 ___
 The roots of this philosophy and system of [[Kontrolle]] trace back much further than the 20th century. They are easily traced through World War I, the American Civil and Revolutionary Wars, the architectural layout of Washington D.C., and into the preceding colonial and imperial systems that enslaved and erased cultures and peoples worldwide under the banner of "God and King." Even deeper, they extend into the ancient systems of Rome, Babylon, Sumer, Africa, Asia, and the Americas. 
 
