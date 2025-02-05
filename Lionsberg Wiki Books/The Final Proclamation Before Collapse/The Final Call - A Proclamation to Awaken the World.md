@@ -103,7 +103,7 @@ A curated collection of **whistleblower testimonies, declassified documents, in
 🔹 **Investigations into the Global Power Structure**
 
 - **The Banking Cartel & The Fiat Currency Debt System** – How centralized banking enslaves nations and funds global wars.
-- **The Vatican Archives & Suppressed Religious Texts** – The hidden history of altered scriptures and stolen spiritual knowledge.
+- **The Vatican Archives & Suppressed / Corrupted Religious Texts** – The hidden history of altered scriptures and stolen spiritual knowledge.
 - **Operation Paperclip & The Fourth Reich** – How thousands of Nazi scientists were imported into US military, aerospace, and intelligence programs.
 
 🔹 **Ancient & Indigenous Accounts of Extraterrestrial Contact & Interference**
@@ -155,12 +155,12 @@ A **step-by-step guide** for individuals, families, and communities to withdra
 ## **Appendix D: A Declaration of Interdependence for The New Civilization**
 
 🔹 **[[The LIONSBERG Declaration of Interdependence]]** – The foundational document declaring the birth of the [[New Civilization]], its principles, and its path forward.  
-🔹 **The LIONSBERG Cosmic Invitation – ReJoining the Greater Cosmic Community as a Sovereign, Co-Creative Species** – The requirements for humanity to emerge as a self-governing, sovereign, interstellar civilization beyond planetary enslavement.
+🔹 **The LIONSBERG Invitation – ReJoining the Greater Cosmic Community as a Sovereign, Co-Creative Species** – The requirements for humanity to emerge as a self-governing, sovereign, interstellar civilization beyond planetary enslavement.
 
 ---
 
 ## **Appendix E: Further Reading & Expanded Teachings**
 
-🔹 **Sacred Texts in Their Original Meanings** – Exploring the unredacted teachings of Yeshua, the Tao, the Vedas, Indigenous Wisdom, and more.  
+🔹 **Sacred Texts in Their Original Meanings** – Exploring the unredacted teachings of Yeshua, the Torah, the Tao, the Vedas, Indigenous Wisdom, and more.  
 🔹 **Key Books, Articles, and Research to Deepen Understanding**  
 🔹 **Organizations & Networks Already Working Towards Liberation**
