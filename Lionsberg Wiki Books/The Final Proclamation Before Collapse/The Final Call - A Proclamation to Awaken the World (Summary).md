@@ -30,7 +30,7 @@ This [[Existing Order]]—which masquerades as democracy, free markets, capitali
 -  **Manufacture terror, wars, and crises** to keep populations in fear  
 - **Consolidate power into fewer and fewer hands**  
 -  **Exploit human labor, creativity, consciousness, and suffering** as a resource  
--  **Enforce obedience through economic, mental, and spiritual bondage and abuse**
+-  **Enforce obedience through economic, mental, and spiritual bondage, abuse, and kontrolle.**
 
 This agenda is now rapidly entering its **Final Phase**.
 
@@ -40,9 +40,9 @@ This agenda is now rapidly entering its **Final Phase**.
 
 ### **The Coming Collapse: Why Billions Are in Danger**
 
-🔹 **90%+ Probability of Global Collapse** – The trajectory of civilization has been **deliberately steered** toward chaos, financial ruin, war, transhumanism, hybridization, and technological enslavement.
+🔹 **90%+ Probability of Global Collapse** – The trajectory of civilization has been **deliberately steered** toward chaos, financial ruin, war, transhumanism, hybridization, and psychic / genetic / technological enslavement.
 
-🔹 **Massive Depopulation Events Are Already Underway** – War, famine, economic disaster, biological weapons, forced sterilization, and digital ID tracking are being deployed **in coordinated waves** - and coming soon to a community near you. 
+🔹 **Massive Depopulation Events Are Already Underway** – War, famine, genocide, economic disaster, biological weapons, forced sterilization, and digital ID tracking are being deployed **in coordinated waves** - and coming soon to a community near you. 
 
 🔹 **The Rise of [[The Final Order]]** – A global surveillance and control grid is being constructed under the guise of "safety", "national security", and "progress." This will enable **permanent, unbreakable tyranny.**  If We do not rapidly change course, the Matrix of Kontrolle will become virtually absolute and inescapable. Its essence is already here.  
 
@@ -56,11 +56,11 @@ This is **not just local, national, or global corruption.**
 
 This is **a spiritual, existential war**—one that spans **nations, timelines, planets,  dimensions, and species.**
 
-🔹 **The Forces behind the Third and Fourth Reichs** – The **same forces that funded and enabled Hitler, Stalin, and Mao in their slaughter of tens of millions, puppeted Churchill and Truman, financed and kontrolled both sides of the world wars, and exterminated millions – never disappeared.** They **remained in secret societies, migrated into black-budget projects, initiated deep-state military programs, and co-opted transnational organizations—always operating beyond the jurisdiction of any government or authority on Earth.** They are the ones who puppet the [[Visible Power Structures]] of Earth. 
+🔹 **The Forces behind the Third and Fourth Reichs** – The **same forces that funded and enabled Hitler, Stalin, and Mao in their slaughter of tens of millions, puppeted Churchill and Truman, Clinton and Bush, Biden and Trump, financed and kontrolled both sides of the world wars, and exterminated millions – never disappeared.** They **remained in secret societies, migrated into black-budget projects, initiated deep-state military programs, and co-opted transnational organizations—always operating beyond the jurisdiction of any government or authority on Earth.** They are the ones who puppet the [[Visible Power Structures]] of Earth. 
 
 🔹 **The Human-Extraterrestrial Alliance** – For decades, factions within Earth’s ruling elite have been **collaborating with non-human intelligences**, trading human lives, genetics, souls, and planetary resources in exchange for power, wealth, and the science and technology of [[Kontrolle]].
 
-🔹 **The Ritual Sacrifice and Trafficking of Millions** – The global elite and their kontrollers **do not merely exploit humanity; they systematically harvest and consume it.** Children, women, and men are **trafficked, tortured, raped, sacrificed, and ritualistically murdered** to feed the insatiable hunger of the [[Invisible Power Structures]]. These forces *feed upon* the suffering and anguish of the domains they kontrolle. 
+🔹 **The Ritual Sacrifice and Trafficking of Millions** – The global elite and their kontrollers **do not merely exploit humanity; they systematically harvest and consume it.** Children, women, and men are **trafficked, hunted, tortured, raped, systematically abused, and ritualistically sacrificed** to feed the insatiable hunger of the [[Invisible Power Structures]] - often *literally* with their terrorized flesh and blood. These forces *feed upon* the suffering and anguish of the domains they kontrolle. 
 
 🔹 **The Suppression of Free Energy, Longevity, and Advanced Consciousness Technologies** – Everything humanity needs to **thrive without scarcity, disease, or suffering** _already exists_—but is actively suppressed.
 
@@ -85,7 +85,7 @@ Governments, media, and religious institutions **will present humanity with an 
 
 **This is a trap.**
 
-***Those who are returning are not “gods.”***  
+***Those who may be returning are not “gods.”***  
 
 They are **the same forces that have ruled from the shadows for millennia—the fallen ones of the archetypal stories—now reemerging for their Final Play of this Cycle—[[The Final Test]] that will determine the future of Life on Earth for millennia to come.**  
 
@@ -130,7 +130,7 @@ The steps are simple and self-evident, yet not easy:
 🔹 **Unite in Wisdom and Truth, while rejecting false ideologies.**  
 🔹 **Prepare for the coming years of dissolution, transformation, and rebirth with wisdom, foresight, and action.**
 
-This is **not a passive revolution.**  
+This is **not a revolution.**  
 This is **not a rebellion.**  
 This is **a total transcendence of the [[Existing Order]] itself.**
 
@@ -166,7 +166,7 @@ If you are reading this, ***you are here for a reason, and you are being called
 🔹 **To break free of The Illusion.**  
 🔹 **To refuse to participate or consent to the omnicidal [[Existing Order]].**  
 🔹 **To prepare yourself and those around you—for [[Collapse]], Transformation, and ReBirth.**  
-🔹  **To ReImagine, ReDesign, and ReBuild what comes next.**
+🔹  **To ReImagine, ReDesign, and ReBuild the [[New]] that comes next.**
 
 ### **We were sent here to Earth, for such a Time as this, to ReBring this perennial message from the Creator:**
 

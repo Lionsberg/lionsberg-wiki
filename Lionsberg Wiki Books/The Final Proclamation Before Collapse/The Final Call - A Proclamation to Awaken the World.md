@@ -1,7 +1,17 @@
-# The Final Proclamation - Awakening, LIberation, and The New Civilization
+# The Final Proclamation - Awakening, Liberation, and The New Civilization
 _A Declaration of Revelation, Warning, and Awakening_
 
 This Wiki Book is intended to serve as both a **historical proclamation** and an **ongoing living document**, providing **the a concise and precise articulation of what is at stake and the powers in play as humanity faces together into [[The Final Test]]**. 
+
+We have already endured suffering far worse than death in the past, and are risking it again in the future, to reach this moment and present you with this information. Please rest assured We would not repeatedly place Our Selves in the cross hairs of the most malevolent forces in in play if your Life and Loved Ones were not in grave danger. 
+
+Below is 1,500 word summary you can read in 5 to 10 minutes. 
+
+Beyond that is a short book designed to be read in a single sitting, within an hour. The table of contents can also be quickly scanned to warn you what lies within. 
+
+If what Our Spirit, Story, Intuition, and Journey through Earth unveils is True, your immediate awareness of and action upon this information may constitute the difference between life and death not only for you and your loved ones, but for billions of people over millennia to come. 
+
+Make no mistake - Our Journey reveals that humanity has not a functioning system of freedom, democracy, and justice for generations, and We are advocating for the co-creation of an entirely [[New Civilization]] before Our Loved Ones are consumed by the [[Collapse]]. 
 
 ## **Table of Contents**
 
@@ -22,7 +32,7 @@ This Wiki Book is intended to serve as both a **historical proclamation** and 
 - The **Historical Continuity of Control** – From Ancient Empires, to Modern Wars, to the Rise of the Third and [[Fourth Reich]]s
 - The **Hidden Hand Behind Global Events & The Timeline of the [[Final Order]]**
 
-### **III. The Hidden War: Earth as a Battleground**
+### **[[III. The Hidden War – Earth as a Battleground]]**
 
 - **The History of Earth Before the Last 10,000 Years**  
 - **The Non-Human Intelligences Vying For Influence and Control**  
@@ -35,15 +45,15 @@ This Wiki Book is intended to serve as both a **historical proclamation** and 
 - **The Systematic Suppression of Consciousness, Knowledge, Energy, and Technology**  
 - **The Hybridization and Genetic Engineering of Earth – and Humanity**
 
-### **IV. The Disclosure Deception: The Last Great Lie**
+### **[[IV. The Disclosure Deception - The Last Great Lie]]**
 
 - **The Controlled Disclosure Process (2017-2027)**  
 - **2025 - a Disclosure Date Known For Decades - *at least***
 - **The False (and Real) “Return of the gods” – Preparing Humanity for Submission and Slavery**  
 - **The Final Order - Continuity of Governance Provisions, Manufactured Crisis, Artificial Peace, and the Plan for Permanent Tyranny**  
-- **The 2027 to 2030 Event Horizon – What Comes Next? The Choice is Ours.**   
+- **The 2025 to 2030 Event Horizon – What Comes Next? The Choice is Ours.**   
 
-### **V. The Crimes Against Humanity**
+### **[[V. The Crimes Against Humanity]]**
 
 - **The Global Trafficking, Sacrifice, and Ritual Abuse of Women & Children**  
 - **The Manufactured Wars and Depopulation Programs**  
@@ -53,7 +63,7 @@ This Wiki Book is intended to serve as both a **historical proclamation** and 
 - **The Fraudulent Taxation of Land, and Metering of Energy and Water**  
 - **The Persecution, Imprisonment and Murders of Truth-Tellers, Whistleblowers, and Healers**  
 
-### **VI. The Final Test of Humanity**
+### **[[VI. The Final Test of Humanity]]**
 
 - **The Impending Choice: Liberation or Enslavement, Heaven or Hell on Earth**
 - **The Great Deception vs. The Great Awakening, The Great Endarkenment vs. The Great Enlightenment**
