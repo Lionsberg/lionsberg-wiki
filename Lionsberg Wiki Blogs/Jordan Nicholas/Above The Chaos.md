@@ -11,6 +11,10 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 ## December **2033** - Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
+
+## February 2025 - Biding The Time
+
+- [[Another Discarded Draft]]  
 ## January 2025 - Rising From The Ashes
 
 - Final Work in Progress for January: [[The Final Call - A Proclamation to Awaken the World]]   
