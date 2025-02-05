@@ -12,7 +12,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 
-## February 2025 - Biding The Time and UnVeiling the Truth
+## February 2025 - Biding The Time and UnVeiling Truth
 
 - [[The Veiled Disclosure - How Humanity Has Been Told the Truth—But Never Shown It]]  
 - [[Game of Thrones and Three Body Problem - 15 Years of Soft Disclosure]]  
@@ -22,6 +22,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Getting a Feel for the Reptilians]]  
 - [[Getting a Feel for The Orion Group]]  
 - [[Getting a Feel For the Greys]]  
+- [[Getting a Feel for the Vast Diversity of Cosmic Wildlife]]  
 - [[Tik Tok]]  
 - [[Another Discarded Draft]]  
 ## January 2025 - Rising From The Ashes

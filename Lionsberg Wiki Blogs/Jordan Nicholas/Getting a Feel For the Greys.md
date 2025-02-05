@@ -1,4 +1,4 @@
-# Getting a Feel For the Greys
+# **Getting a Feel For the Greys**
 *AI Approximately Knows*
 *AI is not providing full disclosure here* 
 *Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*
