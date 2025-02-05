@@ -71,6 +71,8 @@ The [[The First Three Percent]] must recognize their role as stewards of humanit
 - **Physical Preparation**: Develop self-sustaining communities capable of withstanding grid-down scenarios and climate disruptions. Underground shelters, renewable energy systems, and permaculture are essential tools.
 - **Technological Empowerment**: Leverage suppressed knowledge of energy and resonance to create decentralized, resilient infrastructures.
 - **Spiritual Leadership**: Foster unity and higher consciousness through practices that align with cosmic and terrestrial energies. Teach the principles of harmony, resonance, and co-creation to guide humanity through the coming challenges.
+- Rapidly co-create [[The Arks]]. 
+- Rapidly co-create [[The Hubs]]. 
 
 ---
 

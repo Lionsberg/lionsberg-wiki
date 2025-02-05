@@ -14,6 +14,11 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## February 2025 - Biding The Time and UnVeiling Truth
 
+- [[Pole Shift Tracker is Down]]  
+- [[Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It]]  
+- [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
+- [[The Noah Plan - Building the Network of Arks]]  
+- [[The Joseph Plan - Building the Network of Hubs]]  
 - [[Why 2025 Has Long Been Known As The Disclosure Year - The Final Unveiling of Humanity’s Hidden Reality]]  
 - [[The Veiled Disclosure - How Humanity Has Been Told the Truth—But Never Shown It]]  
 - [[Game of Thrones and Three Body Problem - 15 Years of Soft Disclosure]]  
