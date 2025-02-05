@@ -15,6 +15,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 ## February 2025 - Biding The Time and UnVeiling Truth
 
 - [[Pole Shift Tracker is Down]]  
+- [[ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER]]  
 - [[Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It]]  
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[The Noah Plan - Building the Network of Arks]]  
