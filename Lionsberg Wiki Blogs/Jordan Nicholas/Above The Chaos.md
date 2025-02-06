@@ -4,8 +4,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## Featured Posts
 
-- [[A New Beginning at 40 - Grave Danger, Immense Hope, and a Path Forward]]  
-- [[Existential Threat - Reporting Back From Battle]]  
+- [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[The Invitation - 2025 - Season 1]]  
 
 ## December **2033** - Looking Back From The Future
@@ -14,6 +13,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## February 2025 - Biding The Time and UnVeiling Truth  
 
+- [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Pole Shift Tracker is Down]]  
 - [[ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER]]  

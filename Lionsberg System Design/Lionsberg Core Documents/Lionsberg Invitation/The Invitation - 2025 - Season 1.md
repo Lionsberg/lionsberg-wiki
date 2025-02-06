@@ -57,7 +57,7 @@ This gathering will:
 
 **The Elevation Initiative** is more than a framework—it is a transformative pathway inviting each Individual and Locality to rediscover its innate potential, rekindle the Light within, and rise together as Co-Creators of a **[[New Civilization]]**. By integrating practical wisdom, cutting edge solutions, and spiritual depth, it offers a clear yet profound journey toward personal growth, collective flourishing, and the embodiment of Heaven on Earth.
 
-Even if you cannot join Us live, please [RSVP Here](x) to receive the recording and remain part of this unfolding Journey.
+Even if you cannot join Us live, please [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header) to receive the recording and remain part of this unfolding Journey.
 
 ## **A Glimpse of What’s Ahead**
 
@@ -95,4 +95,4 @@ With Love,
 
 ***P.S. To catch up on [[Jordan's Journey]] and [[The Chronicles of Lionsberg]] in more detail, see the [[Above The Chaos]] series.*** 
 
-[[The Fibonacci Unfolding Model]] 
+P.P.S. ***See also [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]] for crucial additional information***   
