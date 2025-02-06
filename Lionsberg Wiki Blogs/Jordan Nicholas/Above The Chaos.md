@@ -12,10 +12,12 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 
-## February 2025 - Biding The Time and UnVeiling Truth
+## February 2025 - Biding The Time and UnVeiling Truth  
 
+- [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Pole Shift Tracker is Down]]  
 - [[ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER]]  
+- [[The LIONSBERG Declaration of Interdependence]]  
 - [[Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It]]  
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[The Noah Plan - Building the Network of Arks]]  

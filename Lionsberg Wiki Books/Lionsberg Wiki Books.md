@@ -4,8 +4,7 @@ The books below all explore the same core Challenges, Mission, Vision, and Goal,
 
 They are each a [[Work In Progress]]. Some areas have been accelerated or roughed in using AI. Others are channeled. All True ideas are contributed by and belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
 
-## Books In Progress By Us (November 2024 - Present)
-
+## Works In Progress 
 
 1. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 2. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
@@ -19,29 +18,29 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 
 ## Books by Jordan (Pre-November 2024)
 
-1. [[The Lionsberg Co-Creator's Handbook]]  
-2. [[The Book of Lionsberg]] -  by [[Jordan Nicholas Sukut]]  
-3. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] - by [[Jordan Nicholas Sukut]]  
-4. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] - by [[Jordan Nicholas Sukut]]  
-5. [[The Lionsberg Strategy and Plan]] - by [[Jordan Nicholas Sukut]]  
-6. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] - by [[Jordan Nicholas Sukut]] 
-7. [[The Dawn of the New World]] - by [[Jordan Nicholas Sukut]]  
-8. [[The Lionsberg Book of Meditations]] - by [[Jordan Nicholas Sukut]]   
-9. [[Beyond The Meta Crisis - A Blueprint for a Better Future]] - by [[Jordan Nicholas Sukut]]    
-10. [[Most People Have No Idea What Is Coming]] - by [[Jordan Nicholas Sukut]]  
-11. [[An Alternative to Apocalypse - The New Covenant]] - by [[Jordan Nicholas Sukut]]  
-12. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - by [[Jordan Nicholas Sukut]]   
-13. [[The Theses of Lionsberg]] - by [[Jordan Nicholas Sukut]]
-14. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] - by [[Jordan Nicholas Sukut]]   
-15. [[The Lionsberg Approach to Citizen Led Governance]] - by [[Jordan Nicholas Sukut]]  
-16. [[A Way Beyond Fear, Anxiety, And Depression]]  - by [[Jordan Nicholas Sukut]] 
-17. [[The Way of God]] - by [[Jordan Nicholas Sukut]]  
-18. [[Lionsberg - A Biblical Perspective]] - by [[Jordan Nicholas Sukut]]  
-19. [[The Lionsberg Book of Quotes]] - by [[Jordan Nicholas Sukut]]  
-20. [[The Great Game of Lionsberg]] - by [[Jordan Nicholas Sukut]]  
-21. [[The Power of Today]] - by [[Jordan Nicholas Sukut]]  
-22. [[The Power of One]] - by [[Jordan Nicholas Sukut]]  
-23. [[Playing With Poetry]] - by [[Jordan Nicholas Sukut]]  
+1. [[The Lionsberg Co-Creator's Handbook]]   
+2. [[The Book of Lionsberg]]  
+3. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]  
+4. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]  
+5. [[The Lionsberg Strategy and Plan]]  
+6. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+7. [[The Dawn of the New World]]  
+8. [[The Lionsberg Book of Meditations]]  
+9. [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
+10. [[Most People Have No Idea What Is Coming]]  
+11. [[An Alternative to Apocalypse - The New Covenant]]  
+12. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]]  
+13. [[The Theses of Lionsberg]]  
+14. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+15. [[The Lionsberg Approach to Citizen Led Governance]]  
+16. [[A Way Beyond Fear, Anxiety, And Depression]]   
+17. [[The Way of God]]  
+18. [[Lionsberg - A Biblical Perspective]]  
+19. [[The Lionsberg Book of Quotes]]  
+20. [[The Great Game of Lionsberg]]  
+21. [[The Power of Today]]  
+22. [[The Power of One]]  
+23. [[Playing With Poetry]]  
 24. [[Frequently Asked Questions]] 
 
 
@@ -50,9 +49,9 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 1. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  
 2. [[Resourcing Guide]] - by [[Jordan Nicholas Sukut]]  
 3. [[Above The Chaos, Introducing The Meta Game]] - by [[Jordan Nicholas Sukut]]  
-4. [[Jordan's Guide to Lionsberg]] - by [[Jordan Nicholas Sukut]]  
+4. [[Jordan's Guide to Lionsberg]]  
 5. [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
-6. [[The One - A Sacred Blueprint for Awakening All Consciousness]] - [[Work In Progress]]   
+6. [[The One - A Sacred Blueprint for Awakening All Consciousness]]  
 7. [[UnVeiling The Sacred Texts]]  
 8. [[Messages From Beyond]]  
 9. [[Threads of Eternity]]  

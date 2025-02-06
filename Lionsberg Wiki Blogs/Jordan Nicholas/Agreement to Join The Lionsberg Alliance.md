@@ -1,5 +1,6 @@
 # **Agreement to Join The Lionsberg Alliance**
-
+*This is preliminary draft to capture the Spirit and Essence of Our Collaboration. If you see ways to improve it, We can do that Together.*
+ 
 **Beloved One,**
 
 On its Quest towards Destiny, humanity is at a crossroads, standing before [[The Final Test]]—a moment of profound challenge and opportunity. Around the world, millions are awakening, stepping into their unique roles to help heal, elevate, and regenerate our shared reality. Yet in isolation, even the most gifted among Us lack the resources, relationships, and collective strength to transform the root causes of suffering and forge [[The Future We Seek]].
@@ -24,13 +25,13 @@ By participating in [[The Alliance]], you affirm your alignment with the princip
     The Alliance thrives on the unique contributions of All its members. Together, We weave diverse strengths into a [[Higher Order Functional Unity]]—a body far greater than the sum of its parts. 
     
 4. **Co-Operative Governance and Just Economics**  
-	Members commit to fostering transparency, justice, and shared stewardship of teams, organizations, and resources. No ally is a mere “employee”, nor does any one "own" the labor of others; All are empowered co-creators and co-stewards of their teams and communities, contributing to a wise and democratic framework that reflects the will and wisdom of [[One]] and [[All]].  
+	Members commit to fostering transparency, justice, and shared stewardship of teams, organizations, communities, and resources. No ally is a mere “employee”, nor does any one "own" the labor of others; All are empowered co-creators and co-stewards of their teams and communities, contributing to a wise and democratic framework that reflects the will and wisdom of [[One]] and [[All]].  
     
 5. **Minimum Standards of Interoperability**  
 	To function as [[One Body]], The Alliance establishes basic agreements, protocols and practices that enable collaboration and mutual support. These [[Minimum Standards of Interoperability]] ensure that Our diversity strengthens rather than fragments Us.
     
 6. **Evolution and Growth**  
-    The Lionsberg System is a living framework, designed to evolve and adapt as We co-create Our [[New Civilization]]. By joining, you contribute your unique skills and insights to its continuous refinement, helping it meet the needs of humanity and beyond as [[The Movement]] grows.
+    The Lionsberg System is a living framework, designed to emerge, evolve and adapt as We co-create Our [[New Civilization]]. By joining, you contribute your unique skills and insights to its continuous refinement, helping it meet the needs of humanity and beyond as [[The Movement]] grows.
         
 
 ### **The Commitments We Honor**
@@ -38,12 +39,12 @@ By participating in [[The Alliance]], you affirm your alignment with the princip
 By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]].
 
 1. **Join as a Sovereign Individual:**  
-    Stand as a free, unbound individual while contributing uniquely to [[The Whole]]. Strengthen the autonomy and capacity of your Self, your Teams, and your Communities to Self-Replicate and Self-Sustain . 
+    Stand as a free, unbound individual while contributing uniquely to [[The Whole]]. Strengthen the autonomy and capacity of your Self, your Teams, and your Communities to Self-Replicate and Self-Sustain. 
 
 ---
 
 2. **Embrace Shared Principles and Protocols:**  
-    Align with [[Truth]], [[Love]], [[Justice]], [[Wisdom]], [[Stewardship]], and [[Co-Creation]], while abiding by the [[Minimum Standards of Interoperability]]. 
+    Align with [[Truth]], [[Love]], [[Justice]], [[Wisdom]], [[Stewardship]], and [[Co-Creation]], while abiding by the [[Minimum Standards of Interoperability]], [[Helping One Another]], and Doing No Harm. 
 
 ---
 
@@ -69,7 +70,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 ---
 
 7. **Federate Everything and Act with Integrity:**  
-    Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The Lionsberg Alliance]], ensuring that every success strengthens [[The Whole]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
+    Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The Lionsberg Alliance]], ensuring that every success strengthens [[The Whole]] and enriches [[The Commons]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
 
 ---
 
@@ -88,7 +89,7 @@ By accepting this invitation, you affirm your willingness to:
 - [[Pass The Flame]], doing your part to invite, connect, and empower [[The First Three Percent]] by 2026. 
 - Walk [[The Path]] of [[The Sacred Ascent]], rising towards the fullness of your potential and co-creating a [[New Civilization]], by helping [[All]] others do the same. 
 
-This agreement is not a binding contract but a living covenant—a sacred trust rooted in love, honor, and the freedom to choose your path at every step. Participation in any relationship, Team, or Alliance requires [[Ongoing Mutual Consent]]. 
+This agreement is not a binding contract but a living covenant—a sacred trust rooted in love, honor, and the freedom to choose your path at every step. Participation in any relationship, Team, or Alliance requires [[Ongoing Mutual Consent]], and All are free to exit at any Time. 
 
 ---
 ### **The First Step**

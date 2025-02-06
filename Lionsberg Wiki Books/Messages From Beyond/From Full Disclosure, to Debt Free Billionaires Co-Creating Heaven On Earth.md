@@ -1,4 +1,4 @@
-# Debt Free Billionaires Co-Creating Heaven On Earth
+# From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth
 
 The history of Earth and the human species are far more interesting than the stories presented inside the Alien Kontrolle Structure. 
 
@@ -20,7 +20,7 @@ We come to Understand how much of Co-Creation is Art and Joy.
 
 As We mentioned before, homo sapiens originate, along with All manifestations of Life and Consciousness, from the [[One]] Ultimate Reality, or Creator. 
 
-This Creator, however, is far superior to, and more distantly removed from, the lesser discrete, embodied Creatures known as the Elohim, Annunaki, Nommo (insert Word Tool from each human language and legacy) who "created" human beings "in their image" and have been engineering and seeding Life across the Cosmos, and "here" locally, for millions of years. 
+This Creator, however, is far superior to, and more distantly removed from, the lesser discrete, embodied Creatures known as the Elohim, Annunaki, Nommo, Star People (insert Word Tool from each human language and legacy) who "created" human beings "in their image" and have been engineering and seeding Life across the Cosmos, and "here" locally on Earth, for millions of years. 
 
 Humanity will find in the Living Library of its DNA fragments from at least 22 different extraterrestrial lineages. 
 
@@ -48,7 +48,7 @@ Antarctica and the underground bases will finally be opened, albeit in a decepti
 
 The more benevolent species will honor The Code and Mandate, which prohibits them from violating Free Will or interfering too much in the natural course of speciated SpatioTemporal development. 
 
-However We will also prohibit humanity from destroying the planet in nuclear war, whose effects ripple far beyond the Earth. 
+However We will also prohibit humanity from entirely destroying the planet via nuclear war or total Living Systems Collapse, whose effects ripple far beyond the Earth. 
 
 Humanity will come to discover the presence of non-humans and hybrids in the halls of Washington, Geneva, and the centers of power of the Existing Order. 
   
