@@ -7,7 +7,9 @@ I love you. I miss you. I hope this letter finds you well, though I know that ma
 
 It has come to my attention that some potentially very disorienting information will be soon be released to the public, perhaps as early as next week. ***If you fall for the government's version of this, you and your Loved Ones will perish.*** Plain and simple. 
 
-This letter is a longer than I would have liked, but the information contained herein could be lifesaving. I tried to keep it under a 10 minute read. 
+This letter is a longer and stronger than I would have liked, but the information contained herein could be lifesaving. I tried to keep it under a 10 minute read. 
+
+If you haven't heard from me for a while or are just going about "normal life," the contents of this may be disorienting and concerning. Topics will introduced that defy belief for many. I assure you I am sane, and nothing would make me happier than to find out that I am wrong, everything is actually ok, and your lives are not in danger. ***Either way, Our lives are in danger, and We need your help.*** 
 
 Our ongoing efforts to **integrate and transform** in the aftermath of what Our hellish journey through the last five years revealed feels incomplete. **Nevertheless, We are out of Time, and it would be unforgivable if We did not speak Now.** 
 
