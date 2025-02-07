@@ -3,9 +3,7 @@
 
 ## Part I: Welcome to Lionsberg
 
-Welcome to Lionsberg, and to the [[Opportunity and Adventure of a Lifetime]]. 
-
-We are glad you are here. 
+First, read [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
 
 ### I. How to Use This Book
 

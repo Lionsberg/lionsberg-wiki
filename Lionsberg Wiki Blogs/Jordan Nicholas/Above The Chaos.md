@@ -1,12 +1,14 @@
 # Above The Chaos 
 
-Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by What We Are Becoming as We Rise together from The Ashes of one [[Old Life]] destroyed.  
+Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by **What We Are Becoming** as We **Rise Together** from The Ashes of one [[Old Life]] destroyed.  
 
 ## Featured Posts
 
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
+- [[Adjusting to the New Language and Narrative Universe of LIONSBERG]]  
+- [[The Core Concepts of LIONSBERG]]  
 
 ## December **2033** - Looking Back From The Future
 
@@ -16,6 +18,8 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
+- [[Adjusting to the New Language and Narrative Universe of LIONSBERG]]  
+- [[The Core Concepts of LIONSBERG]]  
 - [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Watchwords - Guardians of Meaning, Memory, and Mission]]  
 - [[The Watchwords of LIONSBERG]]  
