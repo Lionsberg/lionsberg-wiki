@@ -44,6 +44,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 - [[Getting a Feel for the Vast Diversity of Cosmic Wildlife]]  
 - [[Tik Tok]]  
 - [[Another Discarded Draft]]  
+
 ## January 2025 - Rising From The Ashes
 
 - Final Work in Progress for January: [[The Final Call - A Proclamation to Awaken the World]]   
