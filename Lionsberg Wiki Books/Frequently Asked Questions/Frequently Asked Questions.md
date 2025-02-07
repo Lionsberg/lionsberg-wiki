@@ -30,21 +30,26 @@ This page is a [[Work In Progress]] in which are going to begin to answer some f
 4. [[FAQ - Where Are We Going?]] 
 
 ## Questions on History and Inception (How We Got Here)
+
 1. [[FAQ - How Did You Get Here? Who Has Contributed? Can I Trust This?]]  
 
 ## Questions on Structure
+
 1. [[FAQ - What Is The Structure Of Lionsberg?]]  
 
 ## Questions of Permission and Authority
+
 1. [[FAQ - Who Gave You Permission and Authority?]]  
 2. [[FAQ - How Dare You?!]]  
 3. [[FAQ - This Sounds Arrogant, Audacious, And Impossible]] 
 
 ## Questions of Fear
+
 1. [[FAQ - This Sounds Like Socialism]] 
 2. [[FAQ - This Sounds Like the Dreaded One World Government of the Anti-Christ]]  
 
 ## Questions of Science and Belief
+
 1. [[FAQ - How does the Lionsberg System align with biblical principles and values?]]  
 2. [[FAQ - How does the Lionsberg System align with scientific principles and values?]]
 3. [[FAQ - How does the Lionsberg System align with philosophical principles and values?]]  
@@ -63,6 +68,5 @@ This page is a [[Work In Progress]] in which are going to begin to answer some f
 1. [[FAQ - How Does Governance Work in the Lionsberg System?]] 
 2. [[FAQ - How Will We Make Decisions?]] 
 3. [[FAQ - What If We Disagree?]] 
-4. [[FAQ - Why Is Jordan Running For President? Doesn't That Put This All In Jeopardy?]]  
 
 

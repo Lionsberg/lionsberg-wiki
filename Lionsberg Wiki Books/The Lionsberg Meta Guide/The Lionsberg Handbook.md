@@ -4,7 +4,7 @@ This is a [[Work In Progress]] that Aims to bring together various guides into a
 
 ## Welcome 
 
-[[Welcome to Lionsberg]]  
+[[Welcome to LIONSBERG, We Are Glad You Are Here]]  
 [[Lionsberg Manifesto]]   
 [[Lionsberg Introduction]]   
 [[Lionsberg Invitation]]  

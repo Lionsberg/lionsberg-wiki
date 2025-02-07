@@ -256,7 +256,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- A group synthesizes, composts, and sends the synthesis back out to The Whole  
 	- An AI agent is able to aid humans in searching across The Whole for specific topics and themes, spot emergent patterns, etc.  
 - Jordan and a small team to curate and send out a Dispatch every one to two weeks with a status update, and [[Needs]] required to advance the [[Critical Path]].  
-- Create a [[Welcome to Lionsberg]] page (templatize this so any group can use it) 
+- Create a [[Welcome to LIONSBERG, We Are Glad You Are Here]] page (templatize this so any group can use it) 
 	- One Word 
 	- Elevator Pitch / Essence 
 	- 3 to 5 key points  

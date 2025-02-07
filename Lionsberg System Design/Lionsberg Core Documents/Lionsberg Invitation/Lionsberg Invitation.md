@@ -1,6 +1,6 @@
 # Lionsberg Invitation
 
-## Current Version
+## Current Iteration
 
 [[The Invitation - 2025 - Season 1]]  
 ## Previous Versions 
