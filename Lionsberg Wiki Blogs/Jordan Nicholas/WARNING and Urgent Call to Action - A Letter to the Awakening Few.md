@@ -1,15 +1,15 @@
 # **WARNING and Urgent Call to Action - A Letter to the Awakening Few**
-*2025.02.025*
+*2025.02.05*
 
 **Dear Loved Ones and Allies,**
 
 I love you. I miss you. I hope this letter finds you well, though I know that many of Us are facing the hardest trials of Our lives.
 
-It has come to my attention that some potentially very disorienting information will be soon be released to the public, perhaps as early as next week. ***If you fall for the government's version of this, you and your Loved Ones will perish.*** Plain and simple. 
+It has come to my attention that some potentially very disorienting information will be soon be released to the public, perhaps as early as this week. ***If you fall for the government's version of this, you and your Loved Ones will perish.*** Plain and simple. 
 
 This letter is a longer and stronger than I would have liked, but the information contained herein could be lifesaving. I tried to keep it under a 10 minute read. 
 
-If you haven't heard from me for a while or are just going about "normal life," the contents of this may be disorienting and concerning. Topics will introduced that defy belief for many. I assure you I am sane, and nothing would make me happier than to find out that I am wrong, everything is actually ok, and your lives are not in danger. ***Either way, Our lives are in danger, and We need your help.*** 
+If you haven't heard from me for a while or are just going about "normal life," the topics discussed may be disorienting and concerning. Concepts will be introduced that defy belief for many. Nothing would make me happier than to find out that I am wrong, everything is actually ok, and your lives are not in danger. ***Either way, Our lives are in danger, and We need your help.***  
 
 Our ongoing efforts to **integrate and transform** in the aftermath of what Our hellish journey through the last five years revealed feels incomplete. **Nevertheless, We are out of Time, and it would be unforgivable if We did not speak Now.** 
 
@@ -19,7 +19,7 @@ On some level, We **All Knew** something was deeply wrong. And We refused to a
 
 ##### ***Something is very, very wrong.***  
 
-***Starting with this letter, and accelerating next week, Our individual and collective perceptions of Reality will begin to Shift, and will never be the same. Sadly, after generations of propaganda and [[Mind Kontrolle]], only a few percent of the population will immediately awaken and believe, even when the Truth hits them square between the eyes.***  
+***Starting with this letter, and accelerating over the coming weeks, Our individual and collective perceptions of Reality will begin to Shift, and will never be the same. Sadly, after generations of propaganda and [[Mind Kontrolle]], only a few percent of the population will immediately awaken and believe, even when the Truth hits them square between the eyes.***  
 
 This is a matter of life and death, heaven and hell *right here on Earth*, for billions. 
 
@@ -41,12 +41,12 @@ There is no "Freedom and Justice for All."
 There is no "Constitutional Protection" for those the **Invisible Power Structures** seek to destroy.  
 And the Dark Forces in Kontrolle *are **[[Not Merely Human]].**  
 
-***Trust Us. We know first-hand.***
+***Trust Us. We know first-hand.***  
 
 The narratives of God, Science, War, Country, and Cosmos that humanity has been divided and conquered by **are a carefully constructed lie.** They reflect a **sinister and unholy alliance, co-operating at a depth and scale beyond what most dare to imagine.**
 
 What if **most of what your favorite politicians, pastors, professors, and priests have been teaching Us for generations is a lie?**  
-And _**what if they knew it?**_
+And _**what if they knew it?**_  
 
 Our journey—alongside countless others across the world—is simultaneously unveiling **the greatest fraud, deception, and existential threat in human history.**
 
@@ -88,7 +88,7 @@ And leaving Our Loved Ones unaware and unprepared would be the **far greater si
 ____
 ## **So What Do We Do?**
 
-If what We have discovered is *even approximately* True, then billions of lives are at risk, and the existing institutions of **government, economy, religion, and society are being puppeted *by the very Forces of Darkness* driving humanity toward death and permanent genetic and psychic enslavement.** Read that again. 
+If what We have discovered is *even approximately* True, then billions of lives are at risk, and the existing institutions of **government, economy, religion, and society are being puppeted *by the very Forces of Darkness* driving humanity toward death and permanent genetic and psychic enslavement.** 
 
 That means there is **no time** for complaining.  
 No time for advocating.  

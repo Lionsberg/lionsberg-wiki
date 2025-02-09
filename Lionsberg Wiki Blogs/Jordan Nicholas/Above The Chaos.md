@@ -16,10 +16,12 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## February 2025 - Biding The Time and UnVeiling Truth  
 
+- [[February 2025 - A Letter to Our Loved Ones and Allies]] 
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
 - [[Adjusting to the New Language and Narrative Universe of LIONSBERG]]  
 - [[The Core Concepts of LIONSBERG]]  
+- [[The LIONSBERG Operating System (LIOS)]]  
 - [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Watchwords - Guardians of Meaning, Memory, and Mission]]  
 - [[The Watchwords of LIONSBERG]]  
