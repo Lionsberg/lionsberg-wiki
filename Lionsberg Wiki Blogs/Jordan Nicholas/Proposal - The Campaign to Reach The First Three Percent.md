@@ -6,7 +6,7 @@
 
 The world stands at the precipice of **The Final Test**—a moment of **unparalleled transformation or irreversible collapse**. Those who hold power have hidden the Truth for generations, but **J’s shocking journey has unveiled what has been concealed**, at great personal cost.
 
-**Now, as J's life hangs in the balance, The War for The Future rages and The Final Test approaches, the world must know what it is up against, and what is at stake.**
+**Now, as J's life hangs in the balance, The War for The Future rages, and The Final Test approaches, the world must know what it is up against, and what is at stake.**
 
 ***It is time to tell The Story***. 
 
@@ -188,7 +188,7 @@ We have just **22.5 months remaining** to complete **The First Three Percent 
 
 The world is already awakening. **J can unveil, inspire and invite with a vision and voice.** But **this sacred mission belongs to humanity and The First Three Percent.**
 
-🔥 **This is the moment. If humanity wants this revelation and opportunity, it must respond. Now, before it is too late.**
+🔥 **This is the moment. If humanity wants this revelation and opportunity, it must respond. Before it is too late.**
 
 From here, **everything becomes possible.**
 
