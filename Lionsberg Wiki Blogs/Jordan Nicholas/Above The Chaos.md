@@ -1,6 +1,6 @@
 # Above The Chaos 
 
-Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by **What We Are Becoming** as We **Rise Together** from The Ashes of one [[Old Life]] destroyed.  
+Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by **What We Are Becoming** as We **Rise Together** from The Ashes of an [[Old Life]] destroyed.  
 
 ## Featured Posts
 
@@ -13,9 +13,11 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 ## December **2033** - Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
+- [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
 ## February 2025 - Biding The Time and UnVeiling Truth  
 
+- [[Proposal - The Campaign to Reach The First Three Percent]]  
 - [[February 2025 - A Letter to Our Loved Ones and Allies]] 
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
