@@ -170,12 +170,18 @@ To launch LIONSBERG and execute at the scale required, we are deploying a **dua
 🔥 **Starter Engine: The Atlas Shrugged Plan (High-Net-Worth and Foundation Funding)**
 
 - **$3M to $20M raised through 20-30 major backers.**  
+- **$100,000+ leadership contributions.**  
 
 This ensures **stability, credibility, acceleration, and momentum toward The First Three Percent.**  
 
+### **IV. The Next Step**
+
+To secure immediate resources, support, and runway, we will kick off crowdfunding in February 2025 around the first book, while inviting those who respond to begin engaging in dialogue, planning, and action through LIONSBERG. 
+
+
 ---
 
-### **IV. The Conclusion: The Final Invitation**
+### **V. The Conclusion: The Final Invitation**
 
 🚀 **This is the Path. This is the Plan. Designed to evolve as we learn together.**  
 We have just **22.5 months remaining** to complete **The First Three Percent Milestone.**
