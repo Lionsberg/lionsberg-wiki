@@ -6,7 +6,7 @@
 
 The world stands at the precipice of **The Final Test**—a moment of **unparalleled transformation or irreversible collapse**. Those who hold power have hidden the Truth for generations, but **J’s shocking journey has unveiled what has been concealed**, at great personal cost.
 
-**Now, as The War for The Future rages and The Final Test approaches, the world must know what it is up against, and what is at stake.**
+**Now, as J's life hangs in the balance, The War for The Future rages and The Final Test approaches, the world must know what it is up against, and what is at stake.**
 
 ***It is time to tell The Story***. 
 
@@ -20,7 +20,7 @@ With just **22.5 months remaining**, our mission is clear:
 
 - **Tell J's Story and Expose the Truth about Humanity's Story (Book 1).** 
 - **Reveal the Blueprints for a New Civilization (Book 2).** 
-- **Connect and Empower The First Three Percent through LIONSBERG (Book 3).**  
+- **Connect and Empower The First Three Percent through LIONSBERG by 2026 (Book 3).**  
 - **Activate the Planetary Transformation Flywheel.**
 	- Unveil and Inspire    
 	- Connect and Empower  
