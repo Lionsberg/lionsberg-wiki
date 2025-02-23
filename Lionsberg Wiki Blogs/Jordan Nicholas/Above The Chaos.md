@@ -17,6 +17,7 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## February 2025 - Biding The Time and UnVeiling Truth  
 
+- [[UFO-UAP Disclosure Milestone with Daniel Sheehan (Jeffrey Mishlove)]]  
 - [[Proposal - The Campaign to Reach The First Three Percent]]  
 - [[Transparent Impact - Resourcing The LIONSBERG Alliance]]  
 - [[February 2025 - A Letter to Our Loved Ones and Allies]] 
