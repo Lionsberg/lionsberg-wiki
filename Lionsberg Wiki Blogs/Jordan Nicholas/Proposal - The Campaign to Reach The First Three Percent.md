@@ -33,7 +33,7 @@ Once **The First Three Percent are fully mobilized**, they will progressively e
 
 ### **II. The Strategy: A Full-Spectrum Global Campaign, Starting Small**
 
-To deliver this **epoch-defining revelation and invitation** to the world, we are deploying a **multi-pronged engagement strategy** designed to **reach, awaken, and empower millions** while simultaneously scaling a LIONSBERG ark capable of carrying humanity through the storms of **collapse**, and into the future it seeks.
+To deliver this **epoch-defining revelation and invitation** to the world, we are deploying a **multi-pronged engagement strategy** designed to **reach, awaken, and empower millions** while simultaneously scaling LIONSBERG into a Mighty Ark capable of carrying humanity through the storms of **collapse**, and into **the future We seek**.
 
 Each component is designed to **interlock into a self-sustaining transformation flywheel**, accelerating awareness, engagement, and resourcing.
 
