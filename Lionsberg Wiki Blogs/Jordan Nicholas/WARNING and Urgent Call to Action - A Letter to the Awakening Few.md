@@ -5,7 +5,7 @@
 
 I love you. I miss you. I hope this letter finds you well, though I know that many of Us are facing the hardest trials of Our lives.
 
-It has come to my attention that some potentially very disorienting information will be soon be released to the public, perhaps as early as this week. ***If you fall for the government's version of this, you and your Loved Ones will perish.*** Plain and simple. 
+It has come to my attention that some potentially very disorienting information will be soon be released to the public, perhaps as early as this week. ***If you fall for the official version of this, you and your Loved Ones may perish.*** Plain and simple. 
 
 This letter is a longer and stronger than I would have liked, but the information contained herein could be lifesaving. I tried to keep it under a 10 minute read. 
 
@@ -19,7 +19,7 @@ On some level, We **All Knew** something was deeply wrong. And We refused to a
 
 ##### ***Something is very, very wrong.***  
 
-***Starting with this letter, and accelerating over the coming weeks, Our individual and collective perceptions of Reality will begin to Shift, and will never be the same. Sadly, after generations of propaganda and [[Mind Kontrolle]], only a few percent of the population will immediately awaken and believe, even when the Truth hits them square between the eyes.***  
+***Accelerating over the coming weeks, Our individual and collective perceptions of Reality will begin to Shift, and will never be the same. Sadly, after generations of propaganda and [[Mind Kontrolle]], only a few percent of the population will immediately awaken and believe, even when the Truth hits them square between the eyes.***  
 
 This is a matter of life and death, heaven and hell *right here on Earth*, for billions. 
 
