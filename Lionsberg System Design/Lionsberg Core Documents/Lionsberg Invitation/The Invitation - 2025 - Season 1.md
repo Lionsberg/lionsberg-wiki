@@ -1,4 +1,5 @@
 # The Invitation - 2025 - Season 1
+*(December / January Draft - Never Distributed).* 
 
 ### **Rising From the Ashes**
 
