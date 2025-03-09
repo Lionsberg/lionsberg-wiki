@@ -8,7 +8,7 @@ We **Love You**. We **Miss You**. Welcome **HOME**.
 
 Everything about [[LIONSBERG]] is, as told in **[[The Story of the Builder]]**, a **[[Work In Progress]]**. This is not a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to Earth**, one **step, one decision, one life, one community at a time**. 
 
-We have **downloaded and printed [[The Divine Blueprints]]**, analyzed the **[[Existing Forces and Conditions]]**, and mapped out a **[[The Lionsberg Strategy and Plan}Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Here, Now, on Earth**.
+We are doing Our best to **download [[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Here, Now, on Earth**.
 
 But make no mistake—**the Reality of Heaven on Earth is not something handed down to us from Above.**  
 It is something that must be **co-created**, lived, and embodied **Together**.
@@ -34,7 +34,7 @@ Most entities will leave you alone. But there are **predators, parasites, and s
 
 Everything in LIONSBERG operates on **Sovereignty and Free Will**. Every **Individual, Team, and Community** is **self-governing**, free to act as they see fit **within the bounds of [[Love]], [[Universal Law]]**.
 
-That being said, **we strongly recommend that you wear your [[Personal Protective Equipment (PPE)]] at all times** here on **[[Worksite Earth]]** and become highly proficient with **[[Your Weapons]]**.
+That being said, **we strongly recommend that you wear your [[Personal Protective Equipment (PPE)]] at all times** here on **[[Worksite Earth]]** and become highly proficient with **[[Your Weapons]]**. 
 
 Throughout the **[[10 Year Grand Strategy]]**, We can expect to **Co-Create with one hand, while Protecting, Defending, and Destroying in Love with the other.**
 
