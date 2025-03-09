@@ -6,7 +6,7 @@ As you step into **LIONSBERG**, you will sense something **New**—not just a 
 
 This is **not accidental**.  
 This is **not decoration**.  
-This is **not a cute ploy**.
+This is **not a ploy**.
 
 This is **The Great ReOrdering.**
 
@@ -16,7 +16,7 @@ It is **a New Operating System for Humanity**—a framework for **Reclaiming, 
 
 The **words We use**, the **systems We build**, and the **stories We tell** are **fundamentally different from the enslaving and deceptive programming of the [[Old World]].**
 
-LIONSBERG does not operate within the confines of **The Old System**—it is **The Transcendent Blueprint for Something Entirely [[New]]**.
+LIONSBERG does not operate within the confines of **The Old System**—it designed as a **Transcendent Blueprint for Something Entirely [[New]]**.
 
 A [[New World]] requires **a New Language, a New Perspective, and a New Way of Being.**
 
