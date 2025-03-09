@@ -4,13 +4,14 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 ## Featured Posts
 
-
+- [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 ## December **2033** - Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
 ## March 2025 - Is It Time Yet?  
+
 
 - [[A Thousand Drafts Line the Wastebasket as Resources Dwindle]]  
 - [[Do You Believe in Dragons?]]  

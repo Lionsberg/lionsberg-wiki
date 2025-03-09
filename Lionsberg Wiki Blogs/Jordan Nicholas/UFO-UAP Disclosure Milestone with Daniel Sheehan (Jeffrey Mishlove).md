@@ -1,4 +1,9 @@
 # UFO/UAP Disclosure Milestone with Daniel Sheehan
+*February 22, 2024*
+
+Danny Sheehan is an interesting guy, one of the leading minds on the process of controlled disclosure. 
+
+Just wanted to introduce him here with an update, and some notes that can be quickly scanned below. 
 
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vihhg0H8pPE?si=xNP0x8o8GNjM5BTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
