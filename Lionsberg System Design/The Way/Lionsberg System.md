@@ -21,9 +21,10 @@ The Lionsberg System is composed of a number of core components, which work toge
 4.  A [[Lionsberg Integrated Delivery System]] to align, resource and monitor progress towards [[The Goal]] 
 5. A [[Lionsberg Navigation System]] to orient and navigate along the [[Critical Path]] towards [[The Goal]]
 6.  A code to guide behavior in community 
-7. A Lionsberg Governance System 
-8.  A constitution or declaration that establishes the values and principles of the system
-9.  A conceptual System of Systems to connect and empower all tribes, nations, and peoples.
+7. A system of martial, healing, and energetic arts  
+8. A Lionsberg Governance System 
+9.  A constitution or declaration that establishes the values and principles of the system
+10.  A conceptual System of Systems to connect and empower all tribes, nations, and peoples.
 
 The Lionsberg System is not a monolithic solution, but rather a set of modular solutions that can be adopted in the wise right order by any individual or locality, based on their unique context and needs. It is continually improved as a reflection of our current best understanding of how to create the conditions for emergence among a massive, diverse, and distributed group of groups. 
 

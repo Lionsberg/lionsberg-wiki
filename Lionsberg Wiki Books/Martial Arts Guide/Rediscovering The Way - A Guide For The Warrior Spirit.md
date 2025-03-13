@@ -44,6 +44,8 @@ See also other [[Lionsberg Wiki Books]].
 [[1.23 Inexhaustible Individuals]]  
 [[1.24 The Beginner's Mind]]  
 
+## PLEASE EXCUSE OUR DUST. IGNORE EVERYTHING BELOW. 
+
 ## 2. Energy
 ### Energy Fundamentals 
 
@@ -69,14 +71,7 @@ The Microbiome
 
 ## X. How To 
 
-How to Create 
-How to Sustain  
-How to Heal  
-How to Destroy  
-How to Eat  
-How to Sleep  
-How to Walk  
-How to Fight  
+
 
 ____
 ## I. Introduction: The Importance of Martial Arts and Their Connection to Universal Truths 
