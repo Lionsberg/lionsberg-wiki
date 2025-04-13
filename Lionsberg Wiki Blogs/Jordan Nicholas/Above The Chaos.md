@@ -1,7 +1,5 @@
 # Above The Chaos 
 
-Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Sukut]]. 2025 and beyond are by **What We Are Becoming** as We **Rise Together** from The Ashes. 
-
 ## Featured Posts
 
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
@@ -9,6 +7,10 @@ Hello. Posts through 2024 posts are a creative stream from [[Jordan Nicholas Suk
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
+
+## April 2025 - The Green Shoots of Spring
+
+- [[Because You Are Loved]]  
 
 ## March 2025 - Is It Time Yet?  
 
