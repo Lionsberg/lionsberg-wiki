@@ -10,7 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
-- [[Because You Are Loved]]  
+- [[At the Crossroads - Humanity’s Final Choice]]  
 
 ## March 2025 - Is It Time Yet?  
 
