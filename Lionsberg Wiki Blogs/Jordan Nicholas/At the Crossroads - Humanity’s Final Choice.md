@@ -36,7 +36,7 @@ The Creator—the Ultimate Source of Love, Truth, Beauty, and Wisdom—is callin
 
 Towards this sacred purpose, we have spent recent years carefully integrating lifetimes of wisdom and experience into a comprehensive **New Vision** and actionable platform, strategy, and plan. Our next immediate milestone is crystal clear: to rapidly unite, align, and empower **The First Three Percent** of our human family—approximately 250 million souls—by the end of 2026. Together, this awakened, empowered core can decisively shift humanity’s trajectory from suffering to thriving, chaos to harmony, tyranny to true freedom.
 
-Over the next 60 days, we warmly invite you to participate in private small-group briefings and dialogues designed explicitly to:
+Over the next 60 days, we warmly invite you to participate in private small-group briefings and dialogues designed to:
 
 - Build a deeply shared understanding of the profound threats and extraordinary opportunities before us.  
     
