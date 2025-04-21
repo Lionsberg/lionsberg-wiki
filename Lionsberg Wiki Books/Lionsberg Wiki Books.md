@@ -46,18 +46,17 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 
 ## Essays and Drafts That Might Become Books 
 
-1. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  
-2. [[Resourcing Guide]] - by [[Jordan Nicholas Sukut]]  
-3. [[Above The Chaos, Introducing The Meta Game]] - by [[Jordan Nicholas Sukut]]  
-4. [[Jordan's Guide to Lionsberg]]  
-5. [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
+1. [[Transmedium Ark Exploration]] - by [[J]] + AI
+2. [[A New Sovereignty]] - by [[Jordan Nicholas Sukut]]  
+3. [[Resourcing Guide]] - by [[Jordan Nicholas Sukut]]  
+4. [[Above The Chaos, Introducing The Meta Game]] - by [[Jordan Nicholas Sukut]]  
+5. [[Jordan's Guide to Lionsberg]]  
 6. [[The One - A Sacred Blueprint for Awakening All Consciousness]]  
 7. [[UnVeiling The Sacred Texts]]  
 8. [[Messages From Beyond]]  
 9. [[Threads of Eternity]]  
-10. [[Tao Te Ching]]  
-11. [[Adventures With Penny]]    
+10. [[Tao Te Ching]]    
 ## Also See Jordan's Podcast and Blog Series 
 
-1. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
+11. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
 
