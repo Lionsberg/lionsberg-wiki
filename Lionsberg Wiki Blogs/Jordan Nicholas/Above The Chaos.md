@@ -10,8 +10,9 @@
 
 ## April 2025 - The Green Shoots of Spring
 
-- [[At the Crossroads - Spoken Word Version]]  
 - [[At the Crossroads - Humanity’s Final Choice]]  
+	- ([[At the Crossroads - Spoken Word Version]])  
+- [[Transmedium Ark Exploration]]  
 
 ## March 2025 - Is It Time Yet?  
 

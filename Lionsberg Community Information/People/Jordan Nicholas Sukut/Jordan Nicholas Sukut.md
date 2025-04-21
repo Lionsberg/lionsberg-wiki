@@ -2,22 +2,20 @@
 
 Jordan Nicholas Sukut lived from 1984 to 2024. 
 
-To find out what killed him, see [[Existential Threat - Reporting Back From Battle]]. 
+To find out what happened, see [[Existential Threat - Reporting Back From Battle]]. 
 
-[[Above The Chaos]] tells The Story. 
+[[Above The Chaos]] follows The Story in realtime. 
 
-We are rising from the ashes. 
+We are rising together from the ashes. 
 ## Links (Old, Will Gradually Cease Working)
 
-- Jordan's Email - J@Lionsberg.org  
+- Jordan's Email - N/A  
 - Jordan's Notes - [[Above The Chaos]]    
-- LinkedIn - [Jordan's LinkedIn](https://www.linkedin.com/in/jordannicholassukut)    
-- Instagram - [Jordan's Instagram](https://www.instagram.com/jnicholasone)    
-- Twitter - [Jordan's Twitter](https://www.twitter.com/jnicholasone)     
+- LinkedIn - [Jordan's LinkedIn](https://www.linkedin.com/in/jordannicholassukut)   
+- X - [Jordan's X](https://www.twitter.com/jnicholasone)     
 - YouTube - [Jordan's YouTube](https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w)    
 - Jordan's Writing - [[Lionsberg Wiki Books]]  
 - Jordan's Short Story - [[Jordan's Short Story]]  
-- Jordan's Experience with Faith - [[Jordan and Faith]]  
 
 ## One Minute Summary 
 
@@ -36,6 +34,3 @@ If we are going to pull this off, we need your help. And we would like to help y
 With Love, In Community, 
 
 ~ J 
-
-Forward to: [[README|Lionsberg Wiki]]  
-Forward to: [[The Way]]  
