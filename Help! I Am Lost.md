@@ -4,7 +4,7 @@ Hello Dear Reader,
 
 Welcome to the [[Lionsberg Wiki]]. We know it can be overwhelming, and difficult to learn to navigate. 
 
-If you ever get lost, simply click this link in the [[Sidebar]], and come back. 
+If you ever get lost, simply click this [[Help! I Am Lost]] link in the sidebar, and come back. 
 
 If you fall down a rabbit hole and want to get back to Where You Where, you can use the "back button" on your internet browser and begin clicking back through the pages you recently visited. 
 
