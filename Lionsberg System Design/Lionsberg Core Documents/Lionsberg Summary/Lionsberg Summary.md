@@ -4,7 +4,6 @@ One Sentence:
 
 *What if... a global community arose and united as [[One Body]] to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]?*  
 
-
 [[LIONSBERG]] provides an overview. 
 
 [[The Story of Lionsberg]] provides the narrative context. 

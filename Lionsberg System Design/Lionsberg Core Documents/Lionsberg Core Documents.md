@@ -3,7 +3,7 @@
 All Provisional Documents are a [[Work In Progress]]  designed to be continually improved and evolved towards official adoption. 
 
 [[Lionsberg Manifesto]]  
-[[Lionsberg Trust Manifesto]]  
+[[LIONSBERG - History, Inception, and Trust Manifesto]]    
 [[Provisional Declaration]]   
 [[The Lionsberg System of Values]]  
 [[Provisional Code]]  
