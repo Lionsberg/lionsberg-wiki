@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[Things We Should Dialogue About]]  
 - [[At the Crossroads - Humanity’s Final Choice]]  
 	- ([[At the Crossroads - Spoken Word Version]])  
 - [[Transmedium Ark Exploration]]  
