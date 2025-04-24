@@ -32,7 +32,7 @@ The LIONSBERG OS is designed according to **Universal Laws** and **[[Holofrac
 1. **Enables self-governance at every scale—from individuals to planets to galactic federations.**
 2. **Ensures interoperability across all domains—spiritual, technological, economic, social, and beyond.**
 3. **Functions independently of the collapsing [[Existing Order]].**
-4. **Aligns with The [[Creator’s Intent]] and [[The Divine Blueprints]], ensuring the manifestation of Heaven wherever it is applied.**
+4. **Aligns with The [[Creator's Intent]] and [[The Divine Blueprints]], ensuring the manifestation of Heaven wherever it is applied.**
 5. **Can be rapidly adopted, poly-centrically instantiated, and replicated anywhere—ensuring interoperability on Earth and Beyond.**
 
 This is **not just a political, economic, and social system**.  

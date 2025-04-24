@@ -15,7 +15,7 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 2. In a Lionsberg World, the One (Ultimate Reality / Source / Creator / God) unites, coheres, orders, and harmonizes the Diverse Many. 
 3. In a Lionsberg World, We are One Body, Under God, Indivisible.  
 4. In a Lionsberg World, We are All Co-Creators of our Reality.    
-5. In a Lionsberg World, We collaborate to bring the [[Creator’s Intent]] into [[Reality]].   
+5. In a Lionsberg World, We collaborate to bring the [[Creator's Intent]] into [[Reality]].   
 6. In a Lionsberg World, We are working together in partnership with [[One]] and [[One Another]] to heal, regenerate and perfect our lives and our world.
 7. In a Lionsberg World, All Things are Helping One Another Rise towards the fullness of their Unique Potential and [[Flourish in Harmony]].  
 8. In a Lionsberg World, We and All Future Generations have an equal citizenship and stake in the Reality We co-create. 

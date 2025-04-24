@@ -8,7 +8,7 @@ These are not **theories**.
 These are not **philosophies**.  
 These are **Reality-aligned Truths**—the **Living Code** from which We **restore, rebuild, and co-create** the world as it was always meant to be.
 
-By integrating these principles into **thought, word, and action**, We align with the **[[Creator’s Intent]]** and activate **Heaven on Earth.**
+By integrating these principles into **thought, word, and action**, We align with the **[[Creator's Intent]]** and activate **Heaven on Earth.**
 
 The following are among the **Core Concepts of LIONSBERG.**
 
