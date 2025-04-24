@@ -6,7 +6,7 @@ The [[Emergence]] unfurls itself along the [[Fibonacci]] sequence found througho
 
 We are monitoring the [[Lionsberg Cycle Time]] to gauge how efficiently we can [[Progress]] through the **50 Cycles** required to move the entire human population [[FROM the Old TO the New]], ensuring that this occurs within [[The 7 Year Window of Crisis and Opportunity]]. 
 
-The measurement of the [[Lionsberg Cycle Time]] begins from March 1, 2024, and follows [[The 7 Year Window of Preparatory Work and Learning]], during which dozens of allies around the world contributed to the Co-Creation of [[The Conditions]] for for an entirely unprecedented Movement of Co-Creation to emerge. 
+The measurement of the [[Lionsberg Cycle Time]] begins with each new social experiment, and follows [[The 7 Year Window of Preparatory Work and Learning]], during which dozens of allies around the world contributed to the Co-Creation of [[The Conditions]] for for an entirely unprecedented Movement of Co-Creation to emerge. 
 
 # Spring 2025 Experiment
 

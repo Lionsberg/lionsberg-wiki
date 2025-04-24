@@ -31,5 +31,5 @@ A metaphor was established to reflect that the [[Whole]] needed to operate as if
 	- attract, onboard and train apprentices
 
 ## Threshold of Need
-We anticipate having more needs than we can pursue. This requires a system to [[Prioritize The Issues]] so they can be addressed in the [[Wise Right]] order. 
+We anticipate continually having more needs than we can pursue during each 90 day [[Seasonal Quest]]. This requires a system to [[Prioritize The Issues]] so they can be addressed in the [[Wise Right]] order. 
 
