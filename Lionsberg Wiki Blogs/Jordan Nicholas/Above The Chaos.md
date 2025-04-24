@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[The Sacred Ascent]] - The start of a new book   
 - [[Help! I Am Lost]] - A table of contents for new readers   
 - [[Things We Should Dialogue About]]  
 - [[At the Crossroads - Humanity’s Final Choice]]  
@@ -56,6 +57,9 @@
 - [[Getting a Feel for The Orion Group]]  
 - [[Getting a Feel For the Greys]]  
 - [[Getting a Feel for the Vast Diversity of Cosmic Wildlife]]  
+- [[First Things First]]  
+- [[Behold, A New Earth]]  
+- [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Tik Tok]]  
 - [[Another Discarded Draft]]  
 

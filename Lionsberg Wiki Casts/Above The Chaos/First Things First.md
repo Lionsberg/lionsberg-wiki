@@ -26,7 +26,7 @@ All dimensions, all parallel Realities, and all "universes" exist within [[One]]
 
 The physical Universe you perceive your [[Apparently Individuated]] Self inhabiting is not the only one, nor the first one. 
 
-What you perceive as the "starting point" of the "Big Bang" or spoken Word of God that brought forth "your universe" was merely the birth of one life form in the Infinite Sea of the Cosmos. 
+What you perceive as the "starting point" of the "Big Bang" or spoken Word of God that brought forth "your universe" was merely the birth of one Living System in the Infinite Sea of the Cosmos. 
 
 Across the infinite sea of the continually ongoing co-creation of dimensions and universes that enable [[One]] and [[All]] to experience them Selves, there is a Universal and Ultimate Substrate, upon which all layers and dimensions of Reality arise. 
 
