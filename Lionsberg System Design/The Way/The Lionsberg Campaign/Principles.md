@@ -1,10 +1,10 @@
 # Guiding Principles
 
-This thread is a [[Work In Progress]] being co-created / drafted in partnership with AI. 
+This thread is a [[Work In Progress]]. 
 
 The Lionsberg System is rooted in universal principles. 
 
-Principles, not politics, should guide our lives and society. 
+Principles, not politics, will guide our lives and society from hence forth. 
 
 There is no definitive list of guiding principles for life and society. A proper mode of being and doing must be guided not by a fixed dogmatic articulation, but by Spirit. 
 
