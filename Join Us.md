@@ -1,3 +1,3 @@
 # Join Us
 
-To join us, email JNicholasOne@Proton.me to schedule a conversation. 
+To **Join Us**, email JNicholasOne@Proton.me to schedule a conversation. 
