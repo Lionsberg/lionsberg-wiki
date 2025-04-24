@@ -9,38 +9,38 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 
 ---
 
-2. **Embrace Shared Principles and Protocols:**  
+1. **Embrace Shared Principles, Protocols, and Values:**  
     Align with [[Truth]], [[Love]], [[Justice]], [[Wisdom]], [[Stewardship]], and [[Co-Creation]], while abiding by the [[Minimum Standards of Interoperability]]. 
 
 ---
 
-3. **Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
+2. **Form Teams, Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
     Forge autonomous teams, participate in aligned 90-day [[Seasonal Quests]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
 
 ---
 
-4. **Contribute [[The First Tenth]] to [[The Commons]]:**  
-    Dedicate 10% of your time and resources to [[The Commons]] (4-5 hours weekly, and a meaningful monthly resource contribution), empowering mutual aid and collective flourishing. 
+3. **Contribute [[The First Tenth]] to [[The Commons]]:**  
+    Dedicate the first tenth of your time and resources to [[The Commons]] (4-5 hours weekly, and a meaningful monthly resource contribution), empowering mutual aid and collective flourishing. 
 
 ---
 
-5. **[[Pass The Flame]]:**  
-    Actively identify others who are awakening, share this Vision, and invite them to join [[The Lionsberg Alliance]]. Commit to empowering [[The First Three Percent]] by 2026, multiplying Our collective strength and reach within the [[Critically Effective Time Limit]].
+4. **[[Pass The Flame]]:**  
+    Actively identify others who are awakening, share this Vision, and invite them to join [[The Lionsberg Alliance]]. Understanding the [[Critical Path]] and the [[Milestones]] that mark the [[Way]], commit to connecting and empowering [[The First Three Percent]] by 2026, multiplying Our collective strength and reach within the [[Critically Effective Time Limit]].
 
 ---
 
-6. **Walk [[The Path of The Sacred Ascent]]:**  
+5. **Walk [[The Path of The Sacred Ascent]]:**  
     Rise to your highest potential by helping [[All]] others do the same, co-creating a [[New Civilization]] founded on [[Wisdom]] and [[Unity]] while embodying a [[New Way of Being]] aboard Earth.
 
  
 ---
 
-7. **Federate Everything and Act with Integrity:**  
+6. **Federate Everything and Act with Integrity:**  
     Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The Lionsberg Alliance]], ensuring that every success strengthens [[The Whole]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
 
 ---
 
-_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[One Body]]._
+_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[One Body]]._  
 
 ---
 
@@ -48,5 +48,5 @@ _These commitments are not burdens but sacred invitations to rise together. Lion
 
 The Seven Commitments unite individuals, teams, and communities into a harmonious whole. They serve as a foundation for collaboration, reciprocity, and shared purpose, ensuring that every effort contributes to [[The Goal]] while empowering each member to thrive.
 
-By embracing these commitments, you join a [[Force For Good]] far greater than the sum of its parts. Together, We rise.
+By embracing these commitments, you join a [[Force For Good]] far greater than the sum of its parts. Together, We Rise.
 
