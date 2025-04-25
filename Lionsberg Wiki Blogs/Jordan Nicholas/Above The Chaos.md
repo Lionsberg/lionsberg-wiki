@@ -10,7 +10,8 @@
 
 ## April 2025 - The Green Shoots of Spring
 
-- [[Time, Chronos, and Kairos]]  
+- [[The Goal (Book)]]  
+- [[Time, Chronos, Kairos, and Now]]  
 - [[The Sacred Ascent]] - The start of a new book   
 - [[EuCatastrophe]] 
 - [[Help! I Am Lost]] - A table of contents for new readers   
