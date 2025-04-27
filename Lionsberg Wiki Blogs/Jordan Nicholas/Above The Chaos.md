@@ -10,6 +10,9 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[Principles]]  
+- [[Values]]  
+- [[Protocols]]    
 - [[The Goal (Book)]]  
 - [[Time, Chronos, Kairos, and Now]]  
 - [[The Sacred Ascent]] - The start of a new book   
