@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[Living Life From a Set of Principles and Values]]  
 - [[Principles]]  
 - [[Values]]  
 - [[Protocols]]    
