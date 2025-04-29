@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[A Poetic Map of Content]]  
 - [[Above the Chaos - WikiCast]]  
 - [[Living Life From a Set of Principles and Values]]  
 - [[Principles]]  
