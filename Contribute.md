@@ -2,7 +2,7 @@
 
 The Lionsberg Community collectively thrives on the voluntary association and contributions of its members. 
 
-As you engage and receive [[Value]], please make a meaningful weekly or monthly contribution of Time, Energy, and Resources to strengthen The Commons and uplift The Whole. 
+As you engage and receive [[Value]], please make a meaningful weekly or monthly reciprocal contribution of Time, Energy, and Resources to strengthen The Commons and uplift The Whole. 
 
 It is Time to Rise Together. To contribute, simply click below. 
 
