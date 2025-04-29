@@ -20,4 +20,4 @@
 
 ## Other Pages I Love
 
-- [[Jordan's Guide to Lionsberg]] 
+- [[J's Guide to Lionsberg]] 

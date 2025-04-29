@@ -6,11 +6,11 @@
 
 Fellow Citizens,
 
-We, the free [[Citizens]] of the world, stand at the crossroads of history. A New Era is emerging as another fades, signaling that an unprecedented transformation is at hand. In light of this quantum tectonic shift, it is self-evident that the systems and approaches that brought us here will not carry us forward to where we want to go, and our future will be unlike our past. 
+We, the free [[Citizens]] of the world, stand at the crossroads of history. A New Era is emerging as another fades, signaling that an unprecedented transformation is at hand. In light of this quantum tectonic shift, it is self-evident that the systems and approaches that brought us here will not carry us forward to where we want to go, and that [[Our Future]] will be unlike [[Our Past]]. 
 
 From every corner of the Earth, tribes and nations face a myriad of complex challenges that threaten our way of life, our economies, our institutions, our environments, and the very fabric of our shared existence. These crises have culminated in an interconnected and unparalleled [[Meta Crisis]] that threatens the security and wellbeing of every Citizen on Earth. 
 
-At this critical moment, the leaders and institutions we once trusted have faltered and revealed their corruption, collusion and willful blindness, lacking the courage, wisdom, and integrity to confront and overcome the urgent crises we face.
+At this critical moment, the leaders and institutions we once trusted have faltered, revealing their corruption, collusion, and willful blindness, lacking the courage, wisdom, and integrity to confront and overcome the urgent crises we face.
 
 From our present vantage point, we can see clearly the perilous path towards failure and decline that lies along our current trajectory, and the looming specters of chaos and oppression that lie in wait should we remain complacent and divided, or stumble and fall. 
 

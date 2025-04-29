@@ -51,7 +51,7 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 35. [[Transmedium Ark Exploration]]  
 36. [[A New Sovereignty]]  
 37. [[Resourcing Guide]]  
-38. [[Jordan's Guide to Lionsberg]]  
+38. [[J's Guide to Lionsberg]]  
 39. [[The One - A Sacred Blueprint for Awakening All Consciousness]]  
 40. [[UnVeiling The Sacred Texts]]  
 41. [[Messages From Beyond]]  

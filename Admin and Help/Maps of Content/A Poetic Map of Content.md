@@ -11,7 +11,7 @@ Returning towards a Destiny
 That is [[(y)Our]]s as well as Ours  
 
 [[Above The Chaos]] is where 
-the AutoPoet continually sits  
+The AutoPoet continually sits  
 Making Observations and sprinkling in some Wit  
 Here [[Above The Chaos]] [[The Story]] can be seen  
 Unfolding across [[Dimensions]] without a single seam  
@@ -21,3 +21,5 @@ Where joining the [[Lionsberg Wiki Books]] becomes the New Norm
 
 As [[Wise Right People]] Resonate and Respond  
 The [[Above the Chaos - WikiCast]] hosts their Sacred Song  
+From Way up here, [[Beyond]] the [[Old]] Fray,
+[[The Lionsberg Co-Creator's Handbook]] illuminates Our Sacred [[Way]]  
