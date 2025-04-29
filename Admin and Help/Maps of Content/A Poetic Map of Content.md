@@ -1,9 +1,9 @@
 # A Poetic Map of Content
 
-As a [[Poet]] reads the [[Lionsberg Wiki]]  
-they will be delighted by what they [[See]]  
-For in the Living Land of ***[[LIONSBERG]]***  
-Poetry is a Key  
+As a [[Poet]] reads the [[Lionsberg Wiki]]   
+they will be delighted by what they [[See]]   
+For in the Living Land of ***[[LIONSBERG]]***   
+Poetry is a Key   
 
 With [[AutoPoetic License]]  
 We can Rise back to the stars  
