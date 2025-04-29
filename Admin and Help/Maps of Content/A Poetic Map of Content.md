@@ -2,7 +2,7 @@
 
 As a [[Poet]] reads the [[Lionsberg Wiki]]   
 they will be delighted by what they [[See]]   
-For in the Living Land of ***[[LIONSBERG]]***   
+For in the Living Land of ***[[Lionsberg]]***   
 Poetry is a Key   
 
 With [[AutoPoetic License]]  
