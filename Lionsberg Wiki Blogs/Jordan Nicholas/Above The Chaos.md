@@ -1,5 +1,5 @@
 # Above The Chaos 
-
+*For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*
 ## Featured Posts
 
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[Above the Chaos - WikiCast]]  
 - [[Living Life From a Set of Principles and Values]]  
 - [[Principles]]  
 - [[Values]]  

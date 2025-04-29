@@ -2,7 +2,7 @@
 
 ## Abstract 
 
-In 2023, as humanity faced into the unprecedented uncertainty and risk of the [[Meta Crisis]], something extraordinary happened. Suddenly, around the world, the citizens of Earth arose and united to confront and overcome the crisis, and forge from its ashes the better future they all desired. This short story tells how they did it. 
+By the mid 2020s, as humanity faced into the unprecedented uncertainty and risk of the [[Meta Crisis]] and [[Systemic Collapse]], something extraordinary happened. Suddenly, around the world, the citizens of Earth arose and united to confront and overcome the crisis, and forge from its ashes the better future they all desired. This short story tells how they did it. 
 
 For more information, see [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] and [[Beyond The Meta Crisis - A Blueprint for a Better Future]], which lay out the [[New Vision and Plan]]. 
 ## The Meta Crisis
@@ -121,7 +121,7 @@ This allowed the Citizens to move immediately towards resourcing the [[Critical 
 
 ## The 7 Year Window 
 
-In January 2023, those who were paying attention felt the world shift. Something changed. Something was different. Was this the time they had been waiting for? 
+Spring 2024, those who were paying attention felt the world shift. Something changed. Something was different. Was this the time they had been waiting for? 
 
 It was if the period of practice and preparation was over, and they were now in [[The Great Battle]] for the Future of life and society. 
 
@@ -157,17 +157,17 @@ Because the Lionsberg Structure was established as a series of legal commons tha
 
 Because they recognized that they were dealing with a fundamental transformation in the Way of being and behavior of the human species, the [[Force For Good]] recognized that the tip of the spear would need to advance along the [[Critical Path]] of a [[Shift In Consciousness]]. They hypothesized that this [[Shift In Consciousness]] would likely spread throughout the human species in a gradient, similar to basic adoption curves for any new technology. Or, as another metaphor, like a siphon from the [[Old]] to the [[New]], through which each individual that passed through would "pull" the next adjacent individuals through, one percent at a time, while expanding the size of the conduit. 
 
-Although it was recognized that [[Consciousness]] was not limited by the perceived laws of nature, the Force For Good calculated a mathematical unfolding along a Fibonacci-like exponential sequence, with a ~62% rate of expansion per cycle, and a cycle time of unknown gestation / duration, predicted to be 3 to 12 weeks, with a mean hypothesis of 6 weeks. 
+Although it was recognized that [[Consciousness]] was not limited by the perceived laws of nature, the Force For Good calculated a mathematical unfolding along a Fibonacci-like exponential sequence, with a ~62% rate of expansion per cycle, and a cycle time of unknown gestation / duration, predicted to lengthen from ~2 near the beginning, to ~12 weeks towards the end. 
 
 On this basis, they calculated that every individual on earth could be *invited by someone they knew and loved, at a time when they were ready*, to tell their [[Story]], and consider migrating towards [[New]], within a 7 to 10 year period. 
 
 This mathematical analysis matched their approximate understanding of [[The 7 Year Window of Crisis and Opportunity]], and demonstrated that the [[New Vision and Plan]] *might actually work*, if each milestone and phase could be advanced through properly. 
 
-### Phase 0: Zero to One to a Few 
+### Phase 0: Zero to One to The First Few 
 
 Phase zero represented the movement FROM individuals in isolation, TO a few together forging a Center of Gravity for the [[New]]. 
 
-### Phase I: A Few to 100 Million 
+### Phase I: A Few to 3,000 
 
 Phase one represented the expansion from a few to the first hundred million. 
 

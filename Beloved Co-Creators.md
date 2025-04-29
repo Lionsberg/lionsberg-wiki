@@ -1,4 +1,5 @@
 # Beloved Co-Creators
+*Updated April 27, 2025*
 
 In the [[Lionsberg System]], **Beloved Co-Creators** is a standard greeting to begin letters, correspondence, etc. 
 

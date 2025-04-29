@@ -42,7 +42,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 - National Geographic Photographers Project 
 	- Tag and SpatioTemporally locate photos and make visible  
 	- Surfacing cultures and biodiversity from around the world  
-- [[Zachary Marley]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
+- [[Zachary Marlow]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
 - Planet.com - via [[George Orbelian]]  
 - Planetlive.at - via [[George Orbelian]]   
 - [[Barbara Merz]] - via [[George Orbelian]]  

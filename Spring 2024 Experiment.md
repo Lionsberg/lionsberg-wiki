@@ -339,7 +339,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 	1. Tag and SpatioTemporally locate photos and make visible  
 	1. Surfacing cultures and biodiversity from around the world  
 56. Nobel Peace Prize photographer - via [[Rick Lukens]]  
-57. [[Zachary Marley]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
+57. [[Zachary Marlow]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
 58. Planet.com - via [[George Orbelian]]  
 59. Planetlive.at - via [[George Orbelian]]   
 60. [[Barbara Merz]] - via [[George Orbelian]]  

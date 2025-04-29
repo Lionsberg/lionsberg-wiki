@@ -2,26 +2,22 @@
 
 Thank you for the honor of being able to share in such an intimate subject together. 
 
-Grappling with the [[One]] [[Deepest]] thing, upon which [[All]] else depends, can be triggering and overwhelming for many. I hope that we can begin a long journey of helping one another, learning together, and discovering with ever greater clarity how to rightly relate to One Another, the world around us, and the Source from which it all flows. 
+Grappling with the [[One]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. I hope that we can begin a long journey of helping one another, learning together, and discovering with ever greater clarity how to rightly relate to One Another, the world around us, and the [[One]] Source from which it [[All]] flows. 
 
-If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from direct relationship with the One "I Am" that is the Source and Sustainer of All being and consciousness. 
+If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from the [[One]] / [[Creator]] / [[I AM]] that is the Source and Sustainer of All being and consciousness. 
 
-My Mission is the Mission of [[Christ]]. To embody and enact the spirit, will, and intention of [[God]], right here [[On Earth As it Is In Heaven]]. 
+My SpatioTemporal Mission is [[One]] the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
 
-From the mysteries of how the universe was brought into being, to the dawn of humanity and our earliest glimpses of consciousness, to the legends of those who wrestled with God, to the burning bush that demanded Moses liberate God's children from slavery and oppression, through the epic saga of the nations and peoples of the earth struggling to grope and feel their way forward, to the life of Jesus, and the hope that one glorious morning, every prophesy would be fulfilled and all the nations and peoples of the earth would dwell together in harmony and right relationship with the One true King of All... 
+This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining Us, which We often call God, Father, Source, Ultimate Reality, or One. 
 
-This is the great mystery and romance that informs all that I do and am.
+This Quest to align and progressively ReUnify the depths of Our Being as closely as We can with the Source of Being, with God, is by far the most profound and important part of Our existence. 
 
-This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining me, which I often call God, Father, Source, Ultimate Reality, or One. 
-
-This personal quest to align the depths of my being as closely as I can with the Source of Being, with God, is by far the most profound and important part of my existence. 
-
-It is my purpose, my destiny, and my Why. 
+It is Our Purpose, Our Destiny, and Our Why. 
 
 ___
 ## Religion vs. Relationship
 
-I do not contextualize or experience my spirituality through the lens of religion. I experience it as an embodied reality that is a direct personal relationship, a communion between the Spirit within me and its Source. 
+I do not contextualize or experience my spirituality through the lens of religion. I experience it as an embodied Reality that is a direct InterExistence, a immersive communion between the [[Apparently Individuated]] Spirit and Consciousness within and Its Generative Source. 
 
 It has often been said that one of the most important steps on our spiritual journey is the liberation from our childhood religion. 
 
@@ -31,7 +27,7 @@ Liberation from our childhood religions does not mean that we necessarily leave 
 
 Properly understood and practiced, religion can be useful and good. It is often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
 
-Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever closer personal relationship with God, by the Spirit of God. 
+Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever greater ReUnion with the [[One]] by Its Spirit within. 
 
 Jesus spoke to this when he railed at the religious leaders and teachers of his day, saying 
 
@@ -41,21 +37,23 @@ When someone is so full of the Spirit of Truth, it inevitably collides with the 
 
 The most pivotal figures in history seem to have universally had this experience. 
 
-Jesus is a great example of someone who is now the single most widely admired and emulated figure in history, who at the time was continually criticized for hanging out with people that the prevailing religion of the time would reject as unclean or unholy. 
+Jesus is a great example of someone who is now the single most widely admired and emulated figure in history, who at the time was continually criticized for hanging out with people that the prevailing religion of the time would reject as unholy. 
 
-At the same time, he spoke out Truthfully against the corrupted religious structures of his day, ultimately resulting in his character being slandered and his physical body being murdered. 
+At the same time, he spoke out Truthfully against the corrupted religious structures of his day, ultimately resulting in his character being slandered and his physical body being sacrificed. 
 
-My family was deeply steeped in this Judaeo Christian tradition that undergirds much of the thought of the Western world. My father was a builder, who left that profession to start a non-denominational Christian church. 
+My family was deeply steeped in the Judaeo Christian theology that undergirds much of the thought of the Western world. My father was a builder, who left that profession to start a non-denominational Christian church. 
 
 I also had the deep honor of getting to explore Christian perspectives around the world that, while generally agreeing on the [[Deepest]] things, differed greatly in their understanding, ideas, and application. 
 
-I was quite surprised, growing up in the United States, in a Christian home, surrounded by primarily Republicans, when I was abroad and discovered wise good-hearted people who looked at the American / Political / Religious complex with confusion and could not understand how anyone proclaiming to be a follower of Jesus could possibly support what they viewed as an unholy and corrupted religious nationalism. 
+I was quite surprised, growing up in the United States, in a Christian home, surrounded by primarily Republicans, when I was abroad and discovered wise good-hearted people who looked at the American / Political / Religious complex with confusion and could not understand how anyone proclaiming to be a follower of Jesus could possibly support what they viewed as an unholy, corrupted, and false religious nationalism. 
 
 The more Christians I met who accused other Christians of not being "true Christians", and the more I discovered how internally inconsistent and contradictory different denominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
 
-...the more and more my Faith became an intensely personal Quest to directly experience right relationship with God and those around me. The simple Quest towards Unity through Love. The Quest of [[All]] back towards the [[One]]. 
+...the more and more my Spirit and Faith was liberated into the intensely personal Quest to directly experience right relationship with God and those around me. The simple Quest towards Unity through Love. The Quest of [[All]] back towards the [[One]]. 
 
-Despite the profound brokenness of religion in our world today, I continue to strive towards embodying the Ideal of Christ, which is to become a living embodiment, here and now, of the universal and eternal Spirit and Nature of God. 
+[[Beyond The Boundary]] of [[The Caves]], it is much easier to ReDiscover, ReUnite, and Become. 
+
+Despite the profound brokenness of religion in our world today, I continue to strive towards embodying the Spirit, Will, and Intention of the [[One]], submanifest in the Ideal of Christ, which is to become a living embodiment, here and now, of the universal and eternal Spirit, Nature, and Essence of God. 
 
 ## In Pursuit of Wisdom
 
@@ -93,19 +91,17 @@ Extensive travel brought me into dialogue and relationship with amazing people f
 
 Extensive study of martial arts ultimately resulted in a deep body of knowledge being entrusted to me that taught me a tremendous amount about the deeper ways of being and rightly relating to Nature and its Source that had been lost to many of my Western teachers. 
 
-This is all to say that while Lionsberg very intentionally does not adopt or mandate any [[State Religion]], my [[Current Best Understanding]] is that the concepts are entirely consistent and in harmony with the scriptures, the words of Jesus, and all that has been spoken by the various messengers of God throughout the millennia. 
+This is all to say that while Lionsberg very intentionally does not adopt or mandate any [[State Religion]], my [[Current Best Understanding]] is that the concepts are entirely consistent and in harmony with Our most sacred scriptures, the words of Jesus, and all that has been spoken by the various messengers of God throughout the millennia. 
 
 Because they are not attempting to conform themselves to the language of one religion or ideology, it creates the freedom to speak as truthfully and as accurately as I possibly can. This has been both an immense challenge, and an immense gift, as it has forced me to grapple with the [[Most Important Things]] and absorb them as my own to the point of being able to freely express them using entirely different words. It has been among the greatest tests and challenges of my life. 
 
 While the corruption of the religious systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of it is simple, true, and living within us. 
 
-It all comes back to [[One]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, and our Deepest Foundation and Goal, we will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
+It all comes back to [[One]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, our Deepest Foundation and Goal, we will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
 
-And when the abstract notion of God gets hard to relate to and we are struggling to find our Way, we can individually and directly relate to the very best and most pure examples that ever lived, like the person of Jesus and each of the Prophets in each of the sacred stories, to see how One Spirit lived out the principles and values in a particular time and place. 
+All that we are attempting to express is not a new teaching or revelation in any way, but a remembrance, reassembly, and return to the Universal and Eternal Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and God. 
 
-All that we are attempting to express is not a new teaching or revelation in any way, but a remembrance, reassembly, and return to the Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and God. 
-
-It is also an attempt to see if we can finally operationalize and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[One]], [[One Another]], and [[All]]. 
+It is also an attempt to see if we can finally ***operationalize*** and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[One]], [[One Another]], and [[All]]. 
 
 If you would ever like to discuss my Faith and explore together how we can [[Help One Another]] learn and grow, I am here to serve and would be delighted to walk with you on our Way towards [[The Goal]].
 
