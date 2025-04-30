@@ -49,7 +49,7 @@ One large or two smaller meals a day within [[The Fueling Window]].
 
 ---
 
-### **Example Daily Schedule (Solar-Aligned)**
+### **Example Daily Schedule**
 
 - **06:00 – 12:00**  
     Morning hydration (spring/mineral water, optionally warm lemon water, Celtic or Himalayan Sea salt, coffee or tea)  
@@ -161,7 +161,8 @@ In the [[Lionsberg System]], everyone is Sovereign and Free. There is no Law but
 
 This Protocol is not one-size-fits-all. It is a sacred rhythm to be **tuned to your unique Being, season**, **mission**, and **constitution**. Observe your body. Listen to Spirit. Fell your Energy. Adapt in Wisdom and Strength.
 
-Remember [[Rule Number 2]]: 
+Remember [[Rule Number 2]]:  
+
 *Do [[The Wise Right Thing]]  
 at [[The Wise Right Time]]  
 with [[The Wise Right People]]  
