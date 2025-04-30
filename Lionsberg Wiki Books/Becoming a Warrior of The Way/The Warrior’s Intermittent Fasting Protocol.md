@@ -2,8 +2,7 @@
 _An Energetic, Metabolic, and Spiritual Optimization Protocol for Warriors on The Sacred Ascent_
 
 ---
-
-### **Purpose**
+## **Purpose**
 
 The Warrior’s Intermittent Fasting Protocol is designed to:
 
