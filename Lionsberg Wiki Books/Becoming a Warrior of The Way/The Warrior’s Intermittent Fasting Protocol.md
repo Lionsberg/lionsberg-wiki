@@ -171,3 +171,4 @@ You are not enslaved to appetite or habit.
 You are a Warrior of the Way.  
 You feast only when it serves the Quest.  
 You fast *because* you are Free.
+

@@ -10,6 +10,7 @@
 
 ## April 2025 - The Green Shoots of Spring
 
+- [[The Warrior’s Intermittent Fasting Protocol]]  
 - [[Is The Covert Establishment of ET Governance Protocols For The Next 10,000 Years Enough?]]  
 - [[Catherine Austin Fitts - Is $21 Trillion of Fraud Enough?]]  
 - [[Contribute]]  
