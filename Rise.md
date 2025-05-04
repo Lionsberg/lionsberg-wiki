@@ -1,8 +1,8 @@
 # It is Time to Rise Together
 
-To **Join Us**, simply click below and make a meaningful opening contribution. 
+To **Join Us**, simply click below and make a meaningful opening contribution to the Lionsberg Founders Fund. 
 
-Welcome to the Challenge, Opportunity, and Adventure of a Lifetime. 
+Welcome to the Opportunity, and Adventure of a Lifetime. 
 
 You are here for a reason.
 
