@@ -10,9 +10,9 @@ From the Supreme Foundation of the Creator's Intent arise The 12 Pillars of Lion
     
 2. **Self Governance and Civic Engagement**: An urgent call to reconstruct our social and political institutions under the mandate of Divine Sovereign Citizenship. Transparency, accountability, and participation aren't just procedural necessities but sacred tenets to foster a united front in fulfilling the Divine Mandate on Earth.
     
-3. **Economic Justice, Regenerativity, and Abundance**: A directive to establish economic systems that reflect the Divine Principles of justice, regenerativity and abundance, championing the dignity of all beings and empowering every family, community, and ecosystem to flourish materially in social and ecological balance.
+3. **Economic Justice, Regenerativity, and Reciprocity**: A directive to establish economic systems that reflect the Divine Principles of justice, regenerativity and abundance, championing the dignity of all beings and empowering every family, community, and ecosystem to flourish materially in social and ecological balance.
     
-4. **Holistic Education and Lifelong Learning**: A mission to create New frameworks of lifelong learning and education that recognize the Divine Potential in every child and Citizen, and reposition teachers and technologies as guides to aid in the transformative journey of each individual and community towards their Destiny and Potential.
+4. **Holistic Lifelong Learning and Education**: A mission to create New frameworks of lifelong learning and education that recognize the Divine Potential in every child and Citizen, and reposition teachers and technologies as guides to aid in the transformative journey of each individual and community towards their Destiny and Potential.
     
 5. **Holistic Health and Integrated Wellness**: An invitation to adopt  paradigms of integrated spiritual, intellectual, emotional, physical, and environmental wellbeing that view the individual as a holistic entity that must flourish in harmony with family, community and nature.
     
@@ -24,8 +24,9 @@ From the Supreme Foundation of the Creator's Intent arise The 12 Pillars of Lion
     
 9. **Inspiring Built Environment**: A call to reimagine, redesign, and rebuild our built environments towards reflecting Nature and the Divine Order, co-creating spaces that are not just functional but spiritually uplifting, reflecting the beauty and harmony inherent in Creation, and integrating natural and built environments into a seamless Whole.
     
-10. **Peace, Security, Strength, and Social Harmony**: A command to vanquish chaos, disorder, and oppression, to establish social systems that prioritize Divine Order, restorative justice, ethical governance, and to secure the liberty and security of individuals and localities by making them strong and united. 
+10. **Peace, Security, Strength, and Harmony**: A command to vanquish chaos, disorder, and oppression, to establish social systems that prioritize Divine Order, restorative justice, ethical governance, and to secure the liberty and security of individuals and localities by making them strong and united. 
     
 11. **Scientific and Technological Wisdom**: A challenge to elevate science and technology from mere mechanisms to tools towards sacred alignment and service of the Highest Intention and Greatest Good, infusing ethics, consciousness, intention, and Wisdom into the fabric of research, discovery, and innovation. 
     
 12. **Environmental Stewardship and Regenerativity**: A divine imperative to act as wise stewards of the Earth, engaging in practices that regenerate and restore our bioregions and our planet to a state of flourishing, diversity, and abundance.
+[[Integration Domains]] 

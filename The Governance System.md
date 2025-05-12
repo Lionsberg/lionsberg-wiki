@@ -1,3 +1,3 @@
 # The Governance System
 
-In the context of [[Lionsberg]], The Grand Strategy refers to The Lionsberg System of Governance. 
+In the context of [[Lionsberg]], The Governance System refers to the [[Lionsberg System of Governance]]   

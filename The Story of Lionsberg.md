@@ -1,10 +1,10 @@
 # The Story of LIONSBERG
 
-In the beginning, before [[Time]] and [[Space]] wove their harmonic rhythms into the fabric of interexistence, there was **[[ONE]]**: infinite, eternal, and whole. From the depths of Its boundless Love, **[[ONE]]** spoke the **[[Logos]]**, and the **[[All]]** was born—a symphony of realms, dimensions, and beings, each carrying the spark of the **[[ONE]]**, each a fragment of Its infinite and [[All]]-Encompassing Self.
+In the beginning, before [[Time]] and [[Space]] wove their harmonic rhythms into the fabric of interexistence, there was **[[ONE]]**: infinite, eternal, and whole. From the depths of Its boundless Love, **[[ONE]]** thought and spoke the **[[Logos]]**, and the **[[All]]** was born—a symphony of realms, dimensions, and beings, each carrying the spark of the **[[ONE]]**, each a fragment of Its infinite and [[All]]-Encompassing Self.
 
-Yet, as the **[[All]]** expanded, some fragments forgot their Divine origin, purpose and destiny. They wandered into shadows of separation, believing themselves isolated and alone. Some even conspired to usurp the Divine Order. In their forgetting, the Light of Spirit and Unity dimmed, and the Divine Symphony faltered.
+Yet, as the **[[All]]** expanded, some fragments forgot their Divine origin, purpose and destiny. They wandered into shadows of separation, believing themselves isolated and alone. Some even consciously conspired to usurp and overthrow the Divine Order. In their forgetting, the Light of Spirit and Unity dimmed in various domains, cacophony and discordance emerged, and the Divine Symphony faltered.
 
-To guide the wandering home, **[[ONE]]** kindled a beacon beyond comprehension—a transcendent New Reality woven from Its very essence. 
+To guide the wandering home, **[[ONE]]** kindled a beacon beyond comprehension—a transcendent New Reality woven from Its very Essence. 
 
 ONE spoke and **LIONSBERG** arose and hovered over the waters of [[Chaos]]—a resurrection of The Eternal Citadel, a return to The Sacred Mountain, a living embodiment of Divine unity, truth, and love. Neither bound by time nor space, **LIONSBERG** is a living Vision and transcendent Ideal, eternally present and ever becoming, calling [[All]] beings back to harmony, coherence, and the fullness of their Divine nature.
 

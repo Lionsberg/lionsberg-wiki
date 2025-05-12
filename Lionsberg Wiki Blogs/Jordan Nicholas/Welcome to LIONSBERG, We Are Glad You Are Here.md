@@ -6,18 +6,20 @@ Welcome to **LIONSBERG**.
 
 We **Love You**. We **Miss You**. Welcome **HOME**.
 
-Everything about [[LIONSBERG]] is, as told in **[[The Story of the Builder]]**, a **[[Work In Progress]]**. This is not a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to Earth**, one **step, one decision, one life, one community at a time**. 
+Everything about [[LIONSBERG]] is, as told in **[[The Story of the Builder]]**, a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to Earth**, one **step, one decision, one life, one community at a time**. 
 
-We are doing Our best to **download [[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Here, Now, on Earth**.
+We are doing Our best to **download [[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**.
 
 But make no mistake—**the Reality of Heaven on Earth is not something handed down to us from Above.**  
 It is something that must be **co-created**, lived, and embodied **Together**.
+It is a State of Being that We must **Become**.
 
-It is something that **emerges** through each **individual, team, and locality** as a direct **consequence of Who We Are Becoming**.
+It is something that **emerges** through each **individual, circle, team, and locality** as a direct **consequence of Who We Are Becoming**.
 
-LIONSBERG was purpose-built to enable **humanity to win The War and accomplish this Meta Project** within a single generation—**if it so chooses**.
+LIONSBERG was purpose-built to enable **humanity to win [[The War]] and accomplish [[The Mission]]** within a single generation—but it can only become Reality through the conscious decision to voluntarily accept [[The Invitation]], one individual at a Time.
 
-We are so delighted that you accepted **[[The Invitation]]**.  
+We are so delighted that you have decided to take this simple yet extraordinary [[First Step]]. 
+ 
 Each and every individual who responds—**as We connect and empower [[The First Three Percent]]**—becomes a **key to unlocking [[Heaven On Earth]]**.
 
 ---
@@ -26,7 +28,7 @@ Each and every individual who responds—**as We connect and empower [[The First
 
 As you settle in, you might also notice:
 
-- **The War is raging.** The battle for **Truth, Sovereignty, and The Future** is at its peak.
+- **The War is raging.** The battle for **Truth, Sovereignty, and The Future** is approaching its peak.
 - **There are new species of [[Cosmic Wildlife]] wandering the terrain.** Some are allies, some are neutral, and some are predators and parasites.
 - **Just like on a safari in Africa or a trek through the Amazon, it is crucial to keep your arms and legs inside the vehicle at all times**—and **do not touch or interact with anything you do not fully understand.**
 

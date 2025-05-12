@@ -15,7 +15,7 @@ Now, We are **closing down the non-profit entity and top-level legal infrastruc
 1. **The Existing Order is Corrupt and Unredeemable.**
     - We have **seen firsthand the impossibility of complying our way out of tyranny.**  
     - The Old legal systems are being abused **to entrap, limit, surveil, and kontrolle.**
-    - **[[The LIONSBERG Declaration of Interdependence]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
+    - **[[The LIONSBERG Declaration of InterDependence]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
 2. **We Must Build the New, Not Reform the Old.**
     - LIONSBERG is a [[New]] **self-governing, self-sustaining, self-replicating force.**  
     - It cannot be contained within the failing legal, governance, and financial structures of the old world.  

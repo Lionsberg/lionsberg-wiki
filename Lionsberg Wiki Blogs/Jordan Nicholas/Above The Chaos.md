@@ -53,7 +53,7 @@
 - [[The Watchwords of LIONSBERG]]  
 - [[Pole Shift Tracker is Down]]  
 - [[ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER]]  
-- [[The LIONSBERG Declaration of Interdependence]]  
+- [[The LIONSBERG Declaration of InterDependence]]  
 - [[Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It]]  
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[The Noah Plan - Building the Network of Arks]]  
@@ -79,7 +79,7 @@
 ## January 2025 - Rising From The Ashes
 
 - Final Work in Progress for January: [[The Final Call - A Proclamation to Awaken the World]]   
-- [[The LIONSBERG Declaration of Interdependence]]  
+- [[The LIONSBERG Declaration of InterDependence]]  
 - [[The Time is Now - Humanity's Call to Action]]  
 - [[The "Tick" of Time]]  
 - [[Space and Time in the LIONSBERG Theory of Everything]]  

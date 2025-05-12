@@ -34,4 +34,33 @@ The entire [[System]], like any System, is designed to [[Interoperate]] as a uni
 
 The **Lionsberg System of Governance** is inherently designed to interoperate with the [[Lionsberg Economic System]], the [[Lionsberg Community and Culture System]], the [[Lionsberg Integrated Delivery System]], and the [[Lionsberg Integrated Development System]], and other core elements of the System and Structure. 
 
-More information on the how the entire [[System of Systems]] interoperates to empower the community to progress towards [[The Goal]] can be found in [[The Lionsberg Handbook]]. 
+____
+
+The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
+
+___
+
+### Governance Basics 
+
+[[Governance]]  
+[[The Function Of Governance]]  
+[[Limitations of the Old Systems]]  
+[[How Now Shall We Govern Our Selves?]]  
+[[Conditions of Satisfaction For System Of Governance]]  
+[[Domains]]  
+[[Domains of Responsibility and Authority]]  
+
+### Self Governance 
+
+[[Self Governance]]  
+[[Sovereignty]]  
+[[Autonomy]]  
+[[Authority]]  
+[[Freedom]]  
+[[Conscious Agency]]  
+
+#### Individuals, Groups, and Communities 
+
+[[Individuals]]  
+[[Groups]]  
+[[Communities]]  

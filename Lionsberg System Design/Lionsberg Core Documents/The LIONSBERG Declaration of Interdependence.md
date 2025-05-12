@@ -1,8 +1,8 @@
-# The LIONSBERG Declaration of Interdependence
+# The LIONSBERG Declaration of InterDependence
 
 ### **A More Contemporary Draft:**  
 
-*A Proclamation of the Sovereign People of Earth*
+*A Proclamation of the Sovereign Citizens of LIONSBERG*
 
 #### **PREAMBLE**
 

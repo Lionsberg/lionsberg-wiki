@@ -2,175 +2,104 @@
 
 This is a [[Work In Progress]] that Aims to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
 
+*The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.*
+
 ## Welcome 
 
-[[Welcome to LIONSBERG, We Are Glad You Are Here]]  
-[[Lionsberg Manifesto]]   
-[[Lionsberg Introduction]]   
-[[Lionsberg Invitation]]  
+*Migrated to [[The LIONSBERG Way]]*
 
 ## The Story 
 
-[[The Story]]  
-[[The Story of Lionsberg]]  
-[[The Book of Lionsberg]]  
-
+*Migrated to [[The LIONSBERG Way]]*
 ## The Context 
 
-[[Context]]  
-[[The Context]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The Solution 
 
-[[The Solution]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The Structure 
 
-[[The Structure]]
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The System 
 
-[[The System]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The Strategy
 
-[[The Strategy]]
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The Plan 
 
-[[The Plan]]
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## Your Starting Point and Role 
 
-
+*Migrated to [[The LIONSBERG Way]]*  
 
 
 ## The Playbook 
 
-1. [[The Seven Steps of Transformation]]  
-2. [[The 12 Pillars of Lionsberg]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ### A Vision Of A More Perfect World  
 
-Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]]. 
-
-[[Vision]] 
-[[Lionsberg Vision]]  
-[[Lionsberg Mandate]]  
-[[Best Possible Future]]  
-[[On Earth As it Is In Heaven]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ### Aiming At The Goal 
 
-It then sets this [[Vision]] and [[Goal]] as the [[Aim]] of the [[System]], and empowers individuals and groups around the world to align their vision and aim with the [[Meta Aim]] of [[All]]. 
-
-[[Aim]] 
-[[Meta Aim]]  
-[[Goal]]  
-[[Meta Goal]]  
-[[One Thing]]  
-[[Aligning]] 
-[[Stacking Up And Aligning]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ### Progressing Towards The Goal
 
-Having aligned our [[Aim]], the system then connects and empowers sovereign autonomous individuals, organizations and groups to [[Help One Another]] progress towards [[The Goal]].  
-
-[[Progress]]  
-[[Navigation]]  
-[[FROM -> TO]]  
-[[Navigation Issue]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ### Universal Principles and Values 
 
-Having inspired, aligned, and empowered sovereign autonomous groups to progress towards [[The Goal]], the System then sets out universal [[Principles]] and [[Values]] to create the boundaries in which creative progress can occur. 
-
-[[The Lionsberg System of Values]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## Levels of Abstraction 
 
-The Lionsberg System sets out a sophisticated and differentiated view of the various levels of abstraction, starting with and ending with pure consciousness. This understanding is critical to informing where and how perception, thought, analysis and action are occurring. 
-
-[[Levels of Abstraction]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## A Comprehensive System of Systems 
 
-[[Lionsberg System]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 ## The Lionsberg System of Self-Governance 
 
-The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
-
-### Governance Basics 
-
-[[Governance]]  
-[[The Function Of Governance]]  
-[[Limitations of the Old Systems]]  
-[[How Now Shall We Govern Our Selves?]]  
-[[Conditions of Satisfaction For System Of Governance]]  
-
-### Self Governance 
-
-[[Self Governance]]  
-[[Sovereignty]]  
-[[Autonomy]]  
-[[Authority]]  
-[[Freedom]]  
-[[Conscious Agency]]  
-
-### The Lionsberg System of Governance 
-
-[[Lionsberg System of Governance]]   
-
-#### Individuals, Groups, and Communities 
-
-[[Individuals]]  
-[[Groups]]  
-[[Communities]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 #### Organization, Federation, and Co-Operation 
 
-[[Organize and Federate]]   
-[[Forging Or Joining A Team]]  
-[[Co-Operation]]  
-[[Fractal Sovereignty]] 
-[[Organizations The Lionsberg Way]]  
-
+*Migrated to [[The LIONSBERG Way]]*  
 #### Roles 
 
-[[Roles]]  
-[[Functional Accountability]]  
-[[Levels of Abstraction]]  
-[[Servant Leadership]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 #### Proposals and Quests 
 
-- [[Quests]]  
-- [[Proposals]]  
+*Migrated to [[The LIONSBERG Way]]*  
 #### Meetings 
 
-[[Meetings]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 #### Decision Making  
 
-[[Decision Making]] 
-[[Proposals]]  
-[[Consent]]  
-[[Meaningful Objection]] 
-[[Delegation]] 
+*Migrated to [[The LIONSBERG Way]]*  
 
 #### Rights and Responsibilities 
 
-[[Rights and Responsibilities]]  
-[[Universal Rights]]  
-[[The Harsh Reality of Where We Are]]  
-[[Universal Responsibilities]]  
+*Migrated to [[The LIONSBERG Way]]*  
 
 #### Wisdom 
 
 [[Wisdom Council]]  
 [[Coaching and Mentoring]]  
 
+(Junctures) 
 #### Minimum Standards of Interoperability
 [[Minimum Standards of Interoperability]] 
 

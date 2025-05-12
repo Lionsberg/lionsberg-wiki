@@ -1,48 +1,25 @@
 # The Lionsberg Constitution - a New Covenant 
 
-*Draft Under Review and Provisional Enaction - Version 03.13.2024*
-## Preamble 
+*Draft Under Review and Provisional Enaction - Version 03.13.2024.*  
+*This is very insufficient drafting that will be refined.* 
+*Some of the ideas around which phrases and paragraphs may form might be [[Something Like]]:*
 
-[[We The People]], in Order to forge [[An Ever More Perfect Union]], hereby ordain and establish this Lionsberg Constitution. 
+## Ideas
 
-We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[One Body]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
-
-Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[One Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Understanding for the Greatest Good of All Current and Future Generations of Life. 
-
-As a human species, we Reacknowledge that [[All Creation]] is One Living and Interexistent System, and that [[What We Do Or Do Not Do To Any, We Do Or Do Not Do Unto One, Our Selves, And All]]. 
-
-We therefore recognize that it is our Purpose, Role and Responsibility, as a human species endowed with [[Creative Consciousness]], to continually refresh the foundations of our Society and [[Co-Operate]] Competently, Continuously and Courageously *in service of* [[One]] and [[All]]. 
-
-We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between the [[Creator]], Humanity, and [[All Creation]]. 
-
-## Our Purpose, Aim, and Goal 
-
-Our Purpose, Aim, and Goal is to Progress towards universal and eternal Right Relationship between [[One]] and [[All]]; Creator and All Creation. 
-
-It has now been variously revealed to all tribes and peoples that this Covenantal Relationship is One of Love, Harmony, Coherence, and Ultimately, Unity. 
-
-Desiring for none to suffer and for All to develop towards the fullness of their unique [[Potential]] and [[Flourish in Harmony]], we establish as our Goal _the total integrated wellbeing, development, and right relationship of All Generations of Life and Consciousness._
-## The Spirit and The Letter of The Law
-
-Whereas our former existence in the [[Old World]] was governed by [[The Letter Of The Law]], We hereby commit to a [[New Covenant]] governed by [[The Spirit]], [[Wisdom]], [[Principles]], and [[Values]] that cause people, societies, and the Living System [[We]] are a part of to [[Flourish]] in [[Harmony]] and [[Coherence]].    
-
-Whereas [[The Letter Of The Law]] became burdensome and degenerated into a mere restraint on the worst tendencies of humankind, we hereby voluntary commit Our [[Selves]], of our own [[Free Will]], to Do Our Best to enact and embody [[The Spirit]] that not only fulfills the Word of [[The Law]], but actively creates, sustains, and regenerates Life and Society, and is even willing to lay down its own Life out of [[Love]] in service to [[One]] and [[All]]. 
-
-While we intend to comply with the aspects of the body of accumulated Law that Order Our Civilization and are Wise, Right, and Good, we also recognize that many existing laws have been surreptitiously instituted by corrupt actors and special interests in various Domains to intentionally subvert the cause of Justice, and that it is Our Moral Obligation to [[Break The Rules In Order To Do What Is Right]] before the Highest Authority and Universal Law, and to proactively transform or abolish accumulated laws that are antithetical to [[The Goal]] in an intentional and responsible manner. 
-
-We hereby reassert the Self-Evident Realization that the [[Locus of Sovereignty]], [[Authority]], and [[Responsibility]] lies with [[Individuals]], Who are Responsible before [[God]] and [[All]] these witnesses to do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons in their own Time and Space, which only they can fully Know. 
-
-This understanding inherently cannot be legislated or compelled. It can only be voluntarily adopted and Embodied by Individuals, In Spirit, of their own [[Free Will]]. 
-
-In this Spirit, We hereby voluntarily adopt this Responsibility, and proclaim a [[New Covenant]] of Universal, Eternal, and Omni-Considerate Right Relationship between the Creator, Humanity, and All Creation, mediated by [[The Spirit]] and the Unwritten and [[Ultimately Ineffable]] [[Universal Law]] of [[Love]]. 
-
-## Transforming The Living Word  
-
-In this [[New Millennium]] and the thousands of Millennia To Come, humanity will gain [[New Light]] as its Consciousness is Progressively Enlightened. 
-
-The words in this [[New Covenant]] and throughout [[Lionsberg]] therefore should be continually revivified, refreshed, and transformed by [[The Spirit]] of the [[One]] beckoning [[All Creation]] to [[Progressively Realize]] a [[An Ever More Perfect Union]] through [[Love]]. 
-
-The words to express the [[Central Animating Spirit]] of this [[New Covenant]] vary across a thousand different localities and cultural contexts. It is the Spirit of the [[One]] that Creates and Sustains the Universe that Reigns Supreme, to Whom We are All Ultimately Accountable, and to Whom we Reunite Our Selves in this [[New Covenant]] Relationship. 
+- [[We The People]], in Order to forge [[An Ever More Perfect Union]], hereby ordain and establish this Lionsberg Constitution. 
+- We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[One Body]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
+- Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[One Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Reality in [[Enlightened Service to One and All]].  
+- We ReAcknowledge that [[All Creation]] is One Living and Interexistent System, and that [[What We Do Or Do Not Do To Any, We Do Or Do Not Do Unto One, Our Selves, And All]]. 
+- We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between [[One]], [[One Another]], and [[All]]. 
+- Our Overarching and Uniting Purpose, Aim and Goal 
+- The Spirit and The Letter of The Law
+- Whereas our former existence in the [[Old World]] was governed by [[The Letter Of The Law]], We hereby commit to a [[New Covenant]] governed by [[The Spirit]], [[Wisdom]], [[Principles]], and [[Values]] that cause people, societies, and the Living System [[We]] are a part of to [[Flourish]] in [[Harmony]] and [[Coherence]].    
+- Whereas [[The Letter Of The Law]] became burdensome and degenerated into a mere restraint on the worst tendencies of humankind, we hereby voluntary commit Our [[Selves]], of our own [[Free Will]], to Do Our Best to enact and embody [[The Spirit]] that not only fulfills the Word of [[The Law]], but actively creates, sustains, and regenerates Life and Society, and is even willing to lay down its own Life out of [[Love]] in service to [[One]] and [[All]]. 
+- In the New World, there is only [[One]] Supreme Law. 
+- While we intend to comply with the aspects of the body of accumulated Law that Order Our Civilization and are Wise, Right, and Good, we also recognize that many existing laws have been surreptitiously instituted by corrupt actors and special interests in various Domains to intentionally subvert the cause of Justice, and that it is Our Moral Obligation to [[Break The Rules In Order To Do What Is Right]] before the Highest Authority and Universal Law, and to proactively transform or abolish accumulated laws that are antithetical to [[The Goal]] in an intentional and responsible manner. 
+- We hereby reassert the Self-Evident Realization that the [[Locus of Sovereignty]], [[Authority]], and [[Responsibility]] lies with [[Individuals]], Who are Responsible before [[God]] and [[All]] these witnesses to do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons in their own Time and Space, which only they can fully Know. 
+- This understanding inherently cannot be legislated or compelled. It can only be voluntarily adopted and Embodied by Individuals, In Spirit, of their own [[Free Will]]. 
+- In this Spirit, We hereby voluntarily adopt this Responsibility, and proclaim a [[New Covenant]] of Universal, Eternal, and Omni-Considerate Right Relationship between the Creator, Humanity, and All Creation, mediated by [[The Spirit]] and the Unwritten and [[Ultimately Ineffable]] [[Universal Law]] of [[Love]]. 
 
 ## The Lionsberg System 
 
