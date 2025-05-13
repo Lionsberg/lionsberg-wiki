@@ -4,7 +4,7 @@
 
 In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly [[New]] yet timeless. **[[LIONSBERG]]** is one such moment—a transcendent Ideal, an eternal beacon, empowering a living embodiment of humanity’s highest potential in service to [[ONE]] and [[All]].
 
-This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of **[[ONE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
+This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of **[[ONE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
 See also [[The Story of Lionsberg]] and [[The Birth of The Eternal Citadel]]. 
 
@@ -59,13 +59,13 @@ In 2025, efforts began to connect and empower [[The First Three Percent]]—**a 
 
 #### **30 Years of Preparation**
 
-- Jordan takes on as much responsibility as society will entrust him with, running hundreds of millions of dollars of infrastructure projects, earning multiple degrees (bachelors, masters, and martial arts), conducting thousands of hours of independent research, writing, and synthesis, and gaining recognition from the Senate and Assembly of the fifth largest economy on Earth.
+- Jordan takes on as much responsibility as society will entrust him with, running hundreds of millions of dollars of infrastructure projects, earning multiple degrees, conducting thousands of hours of independent research, writing, and synthesis, and gaining recognition from the Senate and Assembly of the fifth largest economy on Earth.
 
 #### **2015: Planning For the Meta Project Begins**
 
 - [[Jordan]] begins discussions of an [[Omniconsiderate]] joint venture for [[Worksite Earth]] with a small network of advisors. 
 - Unable to identify any existing organization or institution that if driven to its logical end would accomplish [[The Goal]], and ReMembering that [[New Wine]] requires [[New Wineskins]], Jordan and advisors determine that a [[New]] Vision, Strategy, Platform and Plan are required.   
-- It is determined that the [[Critical Path]] of this [[Meta Project]] runs through several years of legal, governance, systems, process, and technological infrastructure. 
+- It is determined that the [[Critical Path]] of this [[Meta Project]] runs through at least several years of legal, governance, systems, process, and technological infrastructure. 
 
 #### **January 2019: LIONSBERG Provisional Structure Approved, Platform Development Begins**
 
@@ -132,10 +132,10 @@ In 2025, efforts began to connect and empower [[The First Three Percent]]—**a 
 - In this season of death, the remaining energies of the **Old Order** were released. It was a time of mourning and release, but also a time of anticipation. Like the winter that precedes spring, this period marked the preparation for a profound rebirth.
 - The groundwork for **[[LIONSBERG]]** was solidified, ensuring that the **[[New World]]** would not repeat the errors of the past. The **[[10-Year Grand Strategy]]** narrowed its focus to transcending the [[Old]] and fully embodying the **[[New]]**.  
 - [[Existential Threat - Reporting Back From Battle]] published. 
-- Jordan dies. 
-- **[[J]] and [[LIONSBERG]] rise**. 
+- Jordan dies along with the [[Old World]]. 
+- **[[J]] and [[LIONSBERG]] begin to rise**. 
 
-#### **February 2025: Connecting and Empowering The First Three Percent**
+#### **Spring 2025: Connecting and Empowering The First Three Percent**
 
 As the **New Year** dawned, **LIONSBERG** entered its next phase: the active connection and empowerment of **[[The First Three Percent]]**—those destined to ignite humanity's path toward **Heaven on Earth and Beyond**—by 2026.
 
@@ -222,3 +222,5 @@ ______
 5. Measure [[Impact]] / [[Value Creation]]  
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  
+
+The full strategy is reflected [[The Lionsberg Strategy and Plan]]. 

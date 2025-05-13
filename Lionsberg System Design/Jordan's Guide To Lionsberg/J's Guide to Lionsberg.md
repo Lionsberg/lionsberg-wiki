@@ -8,7 +8,7 @@ Welcome to [[The Bridge Between Worlds]].
 
 Our Mission is simple: We have only a few years remaining to move humanity FROM the [[Old World]] TO the [[New World]], with no one [[Involuntarily Left Behind]].  
 
-Our [[Tipping Point Strategy]] begings with [[The First Three Percent]]. 
+Our [[Tipping Point Strategy]] begins with [[The First Three Percent]]. 
 
 How many of Us, how quickly, can exit [[The Caves]] and [[Cross The Chasm]]? How many of Us will make it through [[The Wilderness]] and into [[The Promised Land]]? 
 

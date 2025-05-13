@@ -4,6 +4,14 @@ The books below all explore the same core Challenges, Mission, Vision, and Goal,
 
 They are each a [[Work In Progress]]. Some areas have been accelerated or roughed in using AI. Others are channeled. All True ideas are contributed by and belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
 
+## Featured Works
+
+1. [[The Lionsberg Book of Meditations]]  
+2. [[The Lionsberg Co-Creator's Handbook]]  
+3. [[The Book of Lionsberg]]  
+4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
+5. [[The Lionsberg Strategy and Plan]]  
+
 ## Works In Progress 
 
 1. [[Above The Chaos]] - A Stream of Writing that tells The Story  
@@ -54,10 +62,9 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 38. [[J's Guide to Lionsberg]]  
 39. [[The One - A Sacred Blueprint for Awakening All Consciousness]]  
 40. [[UnVeiling The Sacred Texts]]  
-41. [[Messages From Beyond]]  
-42. [[Threads of Eternity]]  
-43. [[Tao Te Ching]]    
+41. [[Threads of Eternity]]  
+42. [[Tao Te Ching]]    
 ## Also See Jordan's Podcast and Blog Series 
 
-44. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
+43. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
 

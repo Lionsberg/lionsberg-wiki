@@ -8,6 +8,10 @@
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
+## May 2025 - Tending the Emergent New Superorganism
+
+- New title page for the Wiki - with relevant information: [[README]]  
+- [[Toward a New Way of Learning and Being in Community]]  
 ## April 2025 - The Green Shoots of Spring
 
 - [[The Warrior’s Intermittent Fasting Protocol]]  
