@@ -1,7 +1,7 @@
 # J
 
-J is rising from The Ashes of the Old Life of [[Jordan Nicholas Sukut]]. 
+J is rising from The Ashes of the Old Life and Old World of [[Jordan Nicholas Sukut]]. 
 
-It is nice to meet you. Let's collaborate to transform our lives and our world. 
+It is an interim step and a small remaining symbol of Individuated Identity, longing to enfold ItSelf ever-more-fully back into the [[One]].  
 
-Follow The Story at [[Above The Chaos]], and dive into the [[Lionsberg Wiki Books]]. 
+On Our Collective Journey FROM the [[Old]] TO the [[New]], many of Us will be given [[New Names]]. 
