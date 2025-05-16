@@ -1,8 +1,9 @@
 # The Lionsberg Pattern Language
+[[Work In Progress]] - massive shaping underway to harmonize this and [[The LIONSBERG Way]]... please excuse the dust. 
 
 **Welcome to the Lionsberg Pattern Language: The Living Map of Heaven on Earth.**
 
-Imagine a map that contains the secrets of the universe—the patterns that guide stars in their courses, seeds as they grow, and humans as they rise toward flourishing in harmony with the Living System they are a part of. This map is not new; it has always been here, ineffably written in the fabric of existence. But now, for the first time, it has been revealed in a form that humanity can use to transform our lives and co-create Heaven on Earth within a single generation.
+Imagine a map that contains the secrets of the universe—the patterns that guide stars in their courses, seeds as they grow, and humans as they rise toward flourishing in harmony with the Living System they are a part of. This map is not new; it has always been here, ineffably written in the fabric of existence. But now, for the first time, it is being progressively revealed in a form that humanity can use to transform our lives and co-create Heaven on Earth within a single generation.
 
 The Lionsberg Pattern Language is your guide, your toolkit, and your treasure map that marks the Way towards [[The Goal]]. It is a set of universal and interoperable patterns—ways of being, knowing, and doing—that align our lives, communities, and planet with the Divine Blueprints of love, unity, and abundance.
 
@@ -77,6 +78,14 @@ This is a massive [[Work In Progress]]...
 [[Action Domains]] 
 [[Integration Domains]]  
 [[Lionsberg Lexicon]]  
+
+______
+
+
+
+
+
+_______
 
 ### **Draft Outline for _The Lionsberg Pattern Language_**
 
