@@ -1,6 +1,6 @@
 # **Towards a New Way of Learning and Being in Community**
 
-**A Reflection on Our Gathering**
+**A Reflection on Our Gathering**  
 *May 12, 2025*
 
 Dear Community,
@@ -44,7 +44,7 @@ Alongside the challenges, we heard clear signals of profound possibility and des
     
 
 Beneath it all, there was a deep shared understanding:  
-We are not just talking about education. We’re talking about **culture**. About **community**. About a way of being, living and learning that is more whole, more human, more balanced, and more aligned with how we actually want to raise our children and live our lives.
+We are not just talking about education. We’re talking about **culture**. About **community**. About **a way of being, living and learning** that is more whole, more human, more balanced, and more aligned with how we actually want to raise our children and live our lives.
 
 This is not about replacing the beautiful work already happening locally—it’s about filling critical gaps and meeting needs while honoring, uplifting, integrating, and cohering what exists into something even stronger. Together.
 
@@ -56,8 +56,8 @@ Less stress, scarcity, and tears.
 More connection.  
 More rhythm.  
 More devotion and freedom, side by side.  
-More skills, stories, movement, music, and shared meals.  
-More opportunities for our children to learn through play and doing, guided by people they trust.  
+More skills, stories, movement, music, and shared events.  
+More opportunities for our children to learn through play and doing, guided by inspiring people they trust.  
 More ways for parents and mentors to step into meaningful roles—without burning out.  
 More hands-on, project-based, spiritually grounded, intergenerationally enriched learning.  
 More guilds, guides, apprenticeships, initiations, accountability, and vocational learning integrated into the fabric of daily life. 
@@ -76,7 +76,7 @@ This was more than a brainstorming session. It was a point of convergence. A mom
 
 ## The Path Forward
 
-With foundational puzzle pieces already in place and numerous families indicating strong desire to move forward together, we have enough critical mass to initiate a structured process to **reimagine**, **redesign**, and **rebuild** how we and our children live, learn, work, and grow in community. This is about much more than schooling—it’s about building a foundation for the kind of **regenerative culture** and **flourishing future** we know is possible. It’s also the surest way to prepare ourselves and our children to thrive through the storms and transitions ahead.
+With foundational puzzle pieces already in place and numerous families indicating strong desire to move forward together, we have enough critical mass to initiate a structured process to **reimagine**, **redesign**, and **rebuild** how we and our children live, learn, work, and grow in community. This is about much more than schooling—it’s about building a foundation for the kind of **regenerative culture** and **flourishing future** we know is possible. It’s also the surest way to prepare ourselves and our children to thrive through the profound storms and transitions ahead.
 
 Here’s what’s next for those desiring to continue along this Path:
 
