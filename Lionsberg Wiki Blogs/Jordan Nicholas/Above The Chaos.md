@@ -12,6 +12,7 @@
 
 - New title page for the Wiki - with relevant information: [[README]]  
 - [[Toward a New Way of Learning and Being in Community]]  
+- [[The 12 Pillars of Lionsberg]]  
 ## April 2025 - The Green Shoots of Spring
 
 - [[The Warrior’s Intermittent Fasting Protocol]]  
