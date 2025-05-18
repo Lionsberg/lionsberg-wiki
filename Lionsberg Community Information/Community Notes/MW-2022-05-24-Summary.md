@@ -39,16 +39,6 @@ Outputs: What do we want to do with the data and/or what visualizations would we
   
 
 ## CREATED SO FAR
-
-### SUMMARY
-
--   Infrastructure for Group Communication
-    
--   AirTable Base 
-    
--   A few Maps for Meta
-    
-
   
 
 ### DETAILS
@@ -56,79 +46,11 @@ Outputs: What do we want to do with the data and/or what visualizations would we
 -   [Vision in Flow Chart in Miro](https://miro.com/app/board/uXjVO7FQ1M0=/) - all possible inputs / outputs for Airtable 
     
 
-  
-
 -   [Map Weavers Group page](https://www.catalist.network/group-public/map-weavers) - on Catalist
     
 
--   Check out our call repo ‘Calls’
-    
-
-  
-
--   [Map Weavers Channel](https://chat.collectivesensecommons.org/agora/channels/map-weavers) - in Mattermost; for chatting and asynchronous discussion
-    
-
-  
-
--   [AirTable Base](https://airtable.com/appko2bcl1RgoQXsK/tblVlTLiFpfQjAJ33/viwZIwJYRpZFipWMg?blocks=hide) - specifically to experiment with data for Meta
-    
-
-  
-
--   [Member Directory](https://airtable.com/shrjruQHdL4zgLjIL) for Meta to allow people to connect
-    
-
--   Information from the chat streams where people have shared info, and from people completing profiles in other groups on Catalist
-    
--   Also created views for [editing](https://airtable.com/shr084SZHlBmic0ci) your record, and a [form for adding](https://airtable.com/shrR3U91JJ6hUGNPy) a profile
-    
--   Next: Add clips of the 2 min shares to each project / person
-    
-
-  
-
--   [Project Gallery](https://airtable.com/shrUVDr1aaIOcten9)  
-    
-
--   Information from the 2-min shares during a Wednesday meeting and related projects shared in other groups on Catalist
-    
--   Each person has access, can edit or update, can easily add through a form
-    
--   Next: Allow members to add and edit their projects 
-    
-
-  
-
--   Inter-connections - mostly assigned manually within Airtable
-    
-
--   People are connected to Projects
-    
--   Both are connected to all comments by others, during and after the 2-min share
-    
--   Projects are connected to Societal Sectors (Main, and some subsectors) 
-    
--   Projects are tagged with Type of Contribution
-    
--   Next: Allow people to edit Sectors, Types and other tags to their Projects
-    
-
-  
-
--   [Data Types / Schema](https://www.catalist.network/explore-data-types)
-    
-
--   Each distinct from the other, Interoperable
-    
--   With a Kumu showing their interrelationships
-    
-
-  
-
 -   [Kumu Map of Project & People](https://kumu.io/vincentarena/map-weavers-v1) 
     
-
 -   Image of [First Kumu Map of Projects](https://drive.google.com/file/d/1093tKedM0I_DfOmSU3SMVfO5-wKdb4On/view?usp=sharing), organized by [Societal Sectors](https://drive.google.com/file/d/1zTwDrVgJFhbqY7R-3vWiLmTCEeF105JM/view?usp=sharing), so we can see what we have and what is missing from major sectors in society
     
 
@@ -145,8 +67,7 @@ Outputs: What do we want to do with the data and/or what visualizations would we
     
 -   Next Focus: Add more detail to the card for each project within Kumu 
     
-
-  
+- [Catalist Projects](https://www.catalist.network/explore-projects)  
 
 -   [Tapestry Map of Projects & People](https://www.catalist.network/tapestry-type/map-weavers)
     
