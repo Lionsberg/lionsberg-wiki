@@ -1,4 +1,6 @@
-# Past Meetings
+# Meetings
+
+## Past Meetings
 
 For the list of past Meetings, notes, and recordings that formerly resided here, see [[Past Meetings]]. 
 
