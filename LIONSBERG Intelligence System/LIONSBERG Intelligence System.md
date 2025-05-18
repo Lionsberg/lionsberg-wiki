@@ -1,4 +1,4 @@
-# The LIONSBERG Intelligence System
+# LIONSBERG Intelligence System
 
 ## Summary
 
