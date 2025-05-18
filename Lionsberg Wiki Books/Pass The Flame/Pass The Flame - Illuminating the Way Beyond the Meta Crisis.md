@@ -1722,7 +1722,7 @@ The [[New Covenant]], mediated by [[The Spirit]] was what enabled [[The Whole]] 
 
 The Spirit and Essence of the [[New Covenant]] were reflected as closely as possible in what came to be known as the [[Lionsberg Constitution]]. 
 
-The sole purpose of what they eventually came to call by mythical name of [[Lionsberg]] was to Progressively Realize, or Incarnate, [[The Vision]] they were progressing towards in partnership with [[God]] and [[One Another]]. 
+The sole purpose of what they eventually came to call by mythical name of [[LIONSBERG]] was to Progressively Realize, or Incarnate, [[The Vision]] they were progressing towards in partnership with [[God]] and [[One Another]]. 
 
 The [[Lionsberg Constitution]] reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established [[The Commons]] where infrastructure, resources, services, and support could be aggregated, stewarded, and continuously improved in service of [[One]] and [[All]]. 
 

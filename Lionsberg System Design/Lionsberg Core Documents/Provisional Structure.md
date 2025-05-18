@@ -30,7 +30,7 @@ ___
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts: 
-1. At the deepest level, [[Lionsberg]] exists as a Spiritual Body, co-creating in service of [[One]] and [[All]]; the [[Creator]] and [[All Creation]].  
+1. At the deepest level, [[LIONSBERG]] exists as a Spiritual Body, co-creating in service of [[One]] and [[All]]; the [[Creator]] and [[All Creation]].  
 	1. This is *essential* to ensure that [[The Grand Collaboration]] required to succeed is not subordinate to the authority or permission of any existing system, but rather is an outward expression of our spiritual and moral obligation to move together at local and planetary scale to meet this moment in history.  
 2. The [[Meta Project]] and [[The Grand Collaboration]] are examples of [[Word Tools]] that point towards the overarching and uniting spiritual and moral imperative to [[Progressively Realize]] ([[Highest Intention and Greatest Good]] / [[Creator's Intent]] / [[Heaven On Earth]]).  
 3. One level up from the overarching and uniting Spirit / Intention / Goal is the overarching and uniting [[Voluntary Association]] of individuals around the world actively co-operating together towards [[The Goal]] - we often simply refer to this as [[The Lionsberg Alliance]]. 

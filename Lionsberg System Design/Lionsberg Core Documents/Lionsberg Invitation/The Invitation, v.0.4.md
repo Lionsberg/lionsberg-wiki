@@ -11,7 +11,7 @@ We recognize that no individual, group, or locality can succeed in these objecti
 
 We envision a freely independent, self-governing, self-sustaining, and self-replicating [[Group Of Groups]], co-operating around the world as [[One Citizenship Under God]] towards our shared Goals and Values. 
 
-To enable progress towards this Aim, over the last 7 years Jordan and a network of allies have co-created a platform of empowering resources, infrastructure, systems and technology through [[Lionsberg]]. 
+To enable progress towards this Aim, over the last 7 years Jordan and a network of allies have co-created a platform of empowering resources, infrastructure, systems and technology through [[LIONSBERG]]. 
 
 The next step is to invite a growing wave of citizens to forge or join self-governing small groups to learn [[The System]] and begin progressing together towards [[The Goal]]. 
 

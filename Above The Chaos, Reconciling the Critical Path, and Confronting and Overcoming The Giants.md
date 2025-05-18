@@ -338,7 +338,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - As of the 1970s, after 50 years of gestation, the total set of conditions requisite for the world-around livingry service industry had been met
 - Technologically, humanity now has the opportunity, ***for the first time in history, to co-operate our planet in such a manner as to support and accommodate all humanity at a substantially more advanced standard of living than any humans have ever experienced in the past***.
 - We have always had enough [[Physical Resources]]. What has happened is that we have vastly increased our [[Know How]] of specialized innovations, all of which invisible realization integrates to make possible **success of All**. 
-- This can only be realized by a technological revolution involving **total Spaceship Earth**, using [[All]] the [[Resources]] and [[Know How]] as an **integrated regenerative system** (herein called the [[Lionsberg System]]), as in the design of any successful seagoing ship or biological organism. (Sometimes we use the metaphor of an [[Ark]] for [[Lionsberg]]). 
+- This can only be realized by a technological revolution involving **total Spaceship Earth**, using [[All]] the [[Resources]] and [[Know How]] as an **integrated regenerative system** (herein called the [[Lionsberg System]]), as in the design of any successful seagoing ship or biological organism. (Sometimes we use the metaphor of an [[Ark]] for [[LIONSBERG]]). 
 
 #### The Puppet Governments of the Invisible Power Structures 
 

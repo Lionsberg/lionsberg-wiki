@@ -75,7 +75,7 @@ These concepts are explored in further detail and different formats in the [[The
 
 ## Lionsberg 
 
-1. [[Lionsberg]]  
+1. [[LIONSBERG]]  
 2. [[Lionsberg Narrative Universe]]  
 3. [[Lionsberg Lexicon]]  
 4. [[Lionsberg System]]  

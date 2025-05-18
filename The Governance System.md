@@ -1,3 +1,3 @@
 # The Governance System
 
-In the context of [[Lionsberg]], The Governance System refers to the [[Lionsberg System of Governance]]   
+In the context of [[LIONSBERG]], The Governance System refers to the [[Lionsberg System of Governance]]   

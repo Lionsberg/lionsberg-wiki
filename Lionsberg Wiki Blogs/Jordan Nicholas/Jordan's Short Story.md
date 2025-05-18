@@ -78,7 +78,7 @@ We could not identify any existing institution, organization, political party, o
 
 So we began working towards designing and building one that, although as tiny as a mustard seed to begin, contained within itself the right DNA and [[Potential]] to grow into a mighty forest. 
 
-This ultimately led to [[Lionsberg]], the container co-created to hold and protect the DNA of the emerging [[New World]]. 
+This ultimately led to [[LIONSBERG]], the container co-created to hold and protect the DNA of the emerging [[New World]]. 
 
 By 2019 we had built a [[Provisional Structure]] that we could leverage to resource the curation and co-creation of the systems, infrastructure, and technology that would be required to reimagine, redesign, and rebuild the world. By 2021, the systems were ready for testing with pilot groups. 
 

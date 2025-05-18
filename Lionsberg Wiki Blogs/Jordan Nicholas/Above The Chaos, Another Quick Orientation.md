@@ -52,7 +52,7 @@ It became that we would need a complete philosophy, language, system, community,
 
 ...so we combined lifetimes of work and resources to co-create the [[Lionsberg Community]] and the [[Lionsberg System]].  
 
-[[Lionsberg]] has been convening around the idea of a “Meta Project” (the universal ethical imperative at this moment of history that is bigger than any one organization / institution). Including the themes above. 
+[[LIONSBERG]] has been convening around the idea of a “Meta Project” (the universal ethical imperative at this moment of history that is bigger than any one organization / institution). Including the themes above. 
 
 Yet we understand that the [[Meta Project]] is universal and encompasses al such efforts everywhere. Our desire is not to 'own' or 'control' it, but to do our best to serve, connect up, and empower All who are participating in it. 
 

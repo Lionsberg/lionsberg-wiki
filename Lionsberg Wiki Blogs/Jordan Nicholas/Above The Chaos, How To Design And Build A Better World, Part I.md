@@ -41,7 +41,7 @@ We brought together lifetimes of work to co-create a [[Provisional Structure]] a
 ### Part 3: Create a Mythical Name, and Descriptive Names
 Setting up structures, bank accounts, and relating to the world requires a Name. 
 
-We chose a combination of a mythical / imaginative name for the [[Meta Idea]] and called it [[Lionsberg]]. We then coupled Lionsberg with descriptive names for the various things it would need to accomplish, such as the Lionsberg | Meta Project and Lionsberg | Meta Game.  
+We chose a combination of a mythical / imaginative name for the [[Meta Idea]] and called it [[LIONSBERG]]. We then coupled Lionsberg with descriptive names for the various things it would need to accomplish, such as the Lionsberg | Meta Project and Lionsberg | Meta Game.  
 
 ### Part 4: Design and Build a System / Machine that Produces Throughput of the Goal into Reality 
 When any significant [[Work]] needs to be accomplished, it makes sense to build a [[System]] or Machine to accomplish it. 

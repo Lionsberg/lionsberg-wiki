@@ -57,7 +57,7 @@ It is the eternal [[Fundamental Tone]], revealing [[The Cacophony]] of division 
 **Can you hear [[The Call]]? Will you [[ReMember]] and [[ReTurn]]?**
 ### **Lionsberg, a Servant of All**
 
-If you are awakening and longing to join a [[Force For Good]] far greater than the sum of its parts, [[Lionsberg]] was **Purpose-Built** to guide and empower humanity in this Mission.
+If you are awakening and longing to join a [[Force For Good]] far greater than the sum of its parts, [[LIONSBERG]] was **Purpose-Built** to guide and empower humanity in this Mission.
 
 - Lionsberg offers the protocols, patterns, and [[Minimum Standards of Interoperability]] needed to unite [[The First Three Percent]] into [[One Body]].
 - It provides the tools, relationships, and frameworks required to overcome the [[Meta Crisis]], pass [[The Final Test]], and co-create [[Heaven On Earth]].

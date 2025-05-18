@@ -15,7 +15,7 @@ Because [[The Means Are The Ends]], the [[New World]] we [[All]] inherit will be
 
 This book is meant to serve as a helpful [[Guide]] for our journey. It anticipates some of the [[Obstacles]], [[Challenges]] and [[Goals]] that lie ahead. 
 
-As you read it and [[Progress]] on [[The Quest]], please help improve it for [[All]] those will follow in your footsteps. [[Every Defect Is A Gift]]. Everything about [[Lionsberg]] is a [[Work In Progress]], and is built to transform and get [[A Little Better Every Day]]. 
+As you read it and [[Progress]] on [[The Quest]], please help improve it for [[All]] those will follow in your footsteps. [[Every Defect Is A Gift]]. Everything about [[LIONSBERG]] is a [[Work In Progress]], and is built to transform and get [[A Little Better Every Day]]. 
 
 If you find something missing, co-create it. 
 
@@ -68,7 +68,7 @@ As you get into motion and begin communicating to [[The Movement]] about what yo
 
 ### IV: Life as a Sovereign, Autonomous Agent 
 
-While the [[Power Structures]] of the [[Old World]] were exceptionally effective at keeping everyone divided, conquered, siloed, and optimally disempowered, the universe of [[Lionsberg]] is different. 
+While the [[Power Structures]] of the [[Old World]] were exceptionally effective at keeping everyone divided, conquered, siloed, and optimally disempowered, the universe of [[LIONSBERG]] is different. 
 
 Every New Citizen of Lionsberg eternally becomes ever more [[Sovereign]], [[Autonomous]] and [[Free]]. We sometimes call this [[Conscious Agency]]. 
 
@@ -108,7 +108,7 @@ The Three Supreme Agreements are the backbone of the basic [[Covenant]], or [[Fi
 
 ### Domains and Fields of Agreement 
 
-Everything within [[Lionsberg]] is divided up into [[SpatioTemporal Domains]], or [[Domains of Responsibility and Authority]]. Each Domain has an Identity, a Purpose, a [[Selectively Permeable Membrane]], and is covered by a [[Field of Agreements]].  
+Everything within [[LIONSBERG]] is divided up into [[SpatioTemporal Domains]], or [[Domains of Responsibility and Authority]]. Each Domain has an Identity, a Purpose, a [[Selectively Permeable Membrane]], and is covered by a [[Field of Agreements]].  
 
 The [[Selectively Permeable Membrane]] of each Domain can be crossed on the basis of [[Voluntary Mutual Consent]].
 

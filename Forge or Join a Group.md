@@ -6,6 +6,6 @@ By forging or joining a group, individuals can leverage their collective power, 
 
 The important uniting factor is that each individual is actively engaged in one or more [[Self-Governing, Self-Sustaining, and Self-Replicating]] small [[Groups]] / [[Teams]] of 3 to 16 individuals (we recommend 5 to 7 as a good practice), and that the [[Groups]] / [[Teams]] are engaged in [[Meaningful Conversations and Quests]] that advance our shared [[Critical Path]] towards [[The Goal]]. 
 
-[[Lionsberg]] provides a platform for individuals and groups to connect, share knowledge and resources, and collaborate on common goals. By forging or joining groups and connecting with [[Lionsberg]], individuals can find support, inspiration, and strategic partnerships that can help them achieve their goals and contribute to [[The Common Journey]] towards a more just and flourishing future.
+[[LIONSBERG]] provides a platform for individuals and groups to connect, share knowledge and resources, and collaborate on common goals. By forging or joining groups and connecting with [[LIONSBERG]], individuals can find support, inspiration, and strategic partnerships that can help them achieve their goals and contribute to [[The Common Journey]] towards a more just and flourishing future.
 
 For next steps, see [[Forging or Joining a Group]]

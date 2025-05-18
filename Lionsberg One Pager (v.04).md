@@ -28,7 +28,7 @@ In these crucial moments, it is our sacred responsibility as [[Citizens]] to ari
 
 ## An Unprecedented Citizen Led Response
 
-Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures causing it, we have diligently spent the past years laying the foundations for a historic [[Citizen Led Response]] through a new purpose-built platform known as [[Lionsberg]]. The platform is intended to serve and a backbone and neural network to connect and empower the [[Force For Good]]. 
+Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures causing it, we have diligently spent the past years laying the foundations for a historic [[Citizen Led Response]] through a new purpose-built platform known as [[LIONSBERG]]. The platform is intended to serve and a backbone and neural network to connect and empower the [[Force For Good]]. 
 
 ## Raising a Standard 
 

@@ -32,7 +32,7 @@ Because the [[Meta Project]] is Universal and Eternal in scope, this set of Plan
 
 Because the [[Creator's Intent]] for [[What Should Be]] is exceedingly and abundantly Beyond all we could ask or imagine, and because humanity is fundamentally incapable of fully comprehending [[Reality]] or [[Ultimate Reality]], these plans and specifications will eternally be beset by [[Residual Error]]. 
 
-[[Lionsberg]] is merely an [[Icon]] pointing towards the [[Creator's Intent]] and the corresponding [[Divine Blueprints]], which are them Selves [[Ultimately Ineffable]]. This understanding is key to upholding the Value of [[Humility]], and avoiding the [[Sin]] of [[Idolatry]]. 
+[[LIONSBERG]] is merely an [[Icon]] pointing towards the [[Creator's Intent]] and the corresponding [[Divine Blueprints]], which are them Selves [[Ultimately Ineffable]]. This understanding is key to upholding the Value of [[Humility]], and avoiding the [[Sin]] of [[Idolatry]]. 
 
 [[Like Gold Refined Seven Times]], every aspect of our lives, our world, and these Plans and Specifications should continually be exposed to the [[Refining Fire]] and [[Light]], and all that is not Perfect improved. 
 

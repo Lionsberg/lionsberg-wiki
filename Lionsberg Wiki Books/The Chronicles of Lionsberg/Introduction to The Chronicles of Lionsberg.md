@@ -10,7 +10,7 @@ Yet, within the vast tapestry of existence, a Song has always echoed—a Song of
 
 > “ReMember. You are not alone. You are not lost. The Light is within you, and together, We will return Home. We Are One.”
 
-This Eternal Song of the [[One]] is the heartbeat of [[Lionsberg]], the foundation of the unfolding [[Lionsberg Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[Lionsberg]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
+This Eternal Song of the [[One]] is the heartbeat of [[LIONSBERG]], the foundation of the unfolding [[Lionsberg Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[LIONSBERG]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
 
 ---
 

@@ -80,7 +80,7 @@ The Chronicles tell us this truth:
 
 > “Lionsberg was never lost, nor can it ever be lost. Beyond Name or Form, it eternally arises within from One Spirit. Though called by a thousand names in a thousand tongues, It has always been here, and will always be here, waiting for us to ReMember. Its gates are open, its Flame Eternal. Come Home, children of the Earth. The Sacred Mountain calls you Higher.”
 
-And so, [[The Story]] begins anew. Will you answer [[The Call]]? Will you carry [[The Flame]]? Will you join [[The Journey]] towards [[Lionsberg]], and help build [[Heaven On Earth]]? 
+And so, [[The Story]] begins anew. Will you answer [[The Call]]? Will you carry [[The Flame]]? Will you join [[The Journey]] towards [[LIONSBERG]], and help build [[Heaven On Earth]]? 
 
 The Sacred Flame is already within you.  
 **Come, and ReMember.**

@@ -1,6 +1,6 @@
 # The Path of The First Flames
 
-In the Age of Awakening, when [[The Sacred Flame]] had only just begun its resurgence and the vision of [[Lionsberg]] was still a faint glimmer in the hearts of humanity, there arose a small but determined fellowship—those who would become known as [[The First Flames]].
+In the Age of Awakening, when [[The Sacred Flame]] had only just begun its resurgence and the vision of [[LIONSBERG]] was still a faint glimmer in the hearts of humanity, there arose a small but determined fellowship—those who would become known as [[The First Flames]].
 
 They were neither kings nor conquerors, neither politicians nor billionaires, nor were they untouched by fear, doubt, or the weight of their own lives. Yet something within them stirred Deeply—a resounding resonance with the eternal call of [[The One]], a yearning to rise, to ReMember, and to rekindle [[New Light]] in the areas dominated for far too long by the shadows of [[Old]]. They would carry [[The Sacred Flame]] where others hesitated, walking paths others dared not tread, forging a way through The Wilderness beyond the [[Old World]], and toward [[The Promise]] of the [[New]].
 

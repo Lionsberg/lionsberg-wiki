@@ -1,5 +1,5 @@
 # FAQ - What Is Lionsberg?
 
-See [[Lionsberg]]  
+See [[LIONSBERG]]  
 
 See more [[Frequently Asked Questions]]  

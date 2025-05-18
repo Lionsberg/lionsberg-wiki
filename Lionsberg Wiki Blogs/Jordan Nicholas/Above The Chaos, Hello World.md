@@ -22,7 +22,7 @@ We brought together lifetimes of work and insight to create what we hope will be
 2. Accomplish the [[Global Goals]]
 3. Forge the [[Best Possible Future]] for [[All]].
 
-The solution is called [[Lionsberg]], and it was purpose-built to accomplish the one [[Meta Goal]] that unites us [[All]]. 
+The solution is called [[LIONSBERG]], and it was purpose-built to accomplish the one [[Meta Goal]] that unites us [[All]]. 
 
 For the sake of all generations of life to come, we hope it works. 
 

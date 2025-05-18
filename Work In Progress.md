@@ -1,6 +1,6 @@
 # Work In Progress
 
-As reflected in [[The Story of the Builder]], everything about [[Lionsberg]] is a **Work In Progress**. 
+As reflected in [[The Story of the Builder]], everything about [[LIONSBERG]] is a **Work In Progress**. 
 
 We are discerning, designing, and building at the same time, as we labor in partnership with the [[Creator]], [[One Another]], and [[All Creation]] to co-create the [[Best Possible Future]] for [[All]]. 
 
