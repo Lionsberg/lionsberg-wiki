@@ -10,6 +10,7 @@
 
 ## May 2025 - Tending the Emergent New Superorganism
 
+- [[Update—Using AI to Speed and Buffer the Process]]  
 - New title page for the Wiki - with relevant information: [[README]]  
 - [[Toward a New Way of Learning and Being in Community]]  
 - [[The 12 Pillars of Lionsberg]]  
