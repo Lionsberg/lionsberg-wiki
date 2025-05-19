@@ -35,7 +35,7 @@ Below, you will find links to the _Tao Te Ching_’s introduction, as well as c
 
 ### **Invitation to Engage**
 
-The _Dao_ is not a text to read; it is a path to walk, a rhythm to align with, and a mystery to embrace. As you explore its teachings, consider how they resonate with your life, your relationships, and your understanding of the [[One]] and the [[All]].
+The _Dao_ is not a text to read; it is a path to walk, a rhythm to align with, and a mystery to embrace. As you explore its teachings, consider how they resonate with your life, your relationships, and your understanding of the [[ONE]] and the [[All]].
 
 We invite you to share your reflections, create new expressions, and join in the co-creation of this Living Wisdom.
 

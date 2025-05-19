@@ -48,7 +48,7 @@ It is time for a **Citizen-Led Investigation** into these matters—and a **C
 
 The search for Truth will reveal that the [[Existing Order]] has committed heinous atrocities, betrayed Life, Liberty, and Justice, and violated the sacred covenant between Creation and its Source. 
 
-It is therefore Our Divine Right—and Sacred Duty—to **alter or abolish** it and establish **New Governance** on Earth, founded on Truth, Love, and Justice, co-operating in service of [[One]] and [[All]].
+It is therefore Our Divine Right—and Sacred Duty—to **alter or abolish** it and establish **New Governance** on Earth, founded on Truth, Love, and Justice, co-operating in service of [[ONE]] and [[All]].
 
 Just as principled individuals pledged their lives, fortunes, and sacred honor in 1776, so too must We, The People of Earth, arise and unite to forge a **[[New Civilization]]** and usher in a [[New Era]].
 

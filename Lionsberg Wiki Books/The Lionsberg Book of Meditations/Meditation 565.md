@@ -2,7 +2,7 @@ People often [[Fear]] that the Higher Order [[Unity]] found in [[God]] will swal
 
 This could not possible be further from the [[Truth]]. It is precisely the [[Realization]] of the underlying [[Unity]] that dispels [[Fear]], and creates the [[Conditions]] for Flourishing and Abundant Diversity to not only Manifest, but also be celebrated and embraced. 
 
-The [[One]] Image we are conforming our [[Selves]] towards contains within Itself the fullness of [[All]] past, present, and future manifestations of [[Life]].
+The [[ONE]] Image we are conforming our [[Selves]] towards contains within Itself the fullness of [[All]] past, present, and future manifestations of [[Life]].
 
 ___
 

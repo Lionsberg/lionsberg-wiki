@@ -19,7 +19,7 @@ Do no harm.
 _____
 Love.
 
-Love [[One]] and Love [[All]] as your Self. 
+Love [[ONE]] and Love [[All]] as your Self. 
 ___
 From any of these simple word tools, the entire Universal Law and Code can be derived. 
 ___
@@ -32,7 +32,7 @@ This Spirit is the basis of the [[New Covenant]] that unites us [[All]] in Spiri
 
 ## Universal and Eternal Core Values 
 
-The Lionsberg System is centered around universal and eternal [[Core Values]] flowing from [[One]] and known to [[All]]. 
+The Lionsberg System is centered around universal and eternal [[Core Values]] flowing from [[ONE]] and known to [[All]]. 
 
 In English, they can be pointed towards with words such as: 
 
@@ -59,7 +59,7 @@ From the One Spirit behind the list of Universal Values above, we have articulat
 
 It is called the Lionsberg | Meta Code to different our articulation of it from the Absolute / Eternal / Universal / Transcendent understanding of It that cannot be reduced to words. 
 
-This Meta Code is only a shallow and surficial articulation of the Spirit that impells us to do our best to act perfectly, wisely, and rightly in service of [[One]] and [[All]]. 
+This Meta Code is only a shallow and surficial articulation of the Spirit that impells us to do our best to act perfectly, wisely, and rightly in service of [[ONE]] and [[All]]. 
 
 Nevertheless, recognizing the need to forge a basis for continuously improving our articulation and embodiment of it, we establish the following as a [[Starting Point]] and approximation: 
 
@@ -264,7 +264,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 ### 100. We will [[Doing Our Best|Do Our Best]] to Learn How to Partner with One and All to accomplish The Goal of One and All  
 
 ## A Return to Simplicity 
-The [[Meta Code]] can be described in one word like [[One]] or [[Love]]. 
+The [[Meta Code]] can be described in one word like [[ONE]] or [[Love]]. 
 
 In can be described in Five words like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
 

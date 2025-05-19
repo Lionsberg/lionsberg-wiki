@@ -1,6 +1,6 @@
 # The Lionsberg Book of People
 
-All Great Spirits Arise From [[One]], Speak to [[All]], and return to [[One]]. 
+All Great Spirits Arise From [[ONE]], Speak to [[All]], and return to [[ONE]]. 
 
 [[Jesus]]  
 [[Buckminster Fuller]] 

@@ -43,7 +43,7 @@ But no matter what happens or doesn't happen, would it not be one of the greates
 
 With everyone busy over the holidays and requiring Time to reflect, meditate, and pray on All that is being UnVeiled, We are taking some Time to [[Fasting|Fast]], regenerate, and seek the next Wisdom and Revelations. Wherever in the world you might be, please Join Us in your own Way. 
 
-As the crumbling of the [[Old]] accelerates, [[2025 - Season 1 - Rising From The Ashes]] is scheduled to begin in January if [[One]] wills it to Be. 
+As the crumbling of the [[Old]] accelerates, [[2025 - Season 1 - Rising From The Ashes]] is scheduled to begin in January if [[ONE]] wills it to Be. 
 
 The Next Step is to connect and empower [[The First Three Percent]] to channel the [[Power]] of [[God]] to do the Will of [[God]]; right here [[On Earth As it Is In Heaven]]. 
 

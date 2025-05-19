@@ -2,9 +2,9 @@
 
 As you embark on the Way towards Mastery, we invite you to join us in a journey of continuous learning, growth, and transformation. This journey will guide you through the realms of Spirit, Philosophy, Theory, Technique, Practice, and Continuous Improvement, enabling you to become a true Warrior of the Way, embodying the principles of Truth, Love, Justice, and the Highest Intention in every aspect of your life.
 
-1.  **Spirit:** Embrace the power and wisdom of the Spirit within you, connecting deeply to the universal Energy that permeates All Creation and its Source. Cultivate your inner Spirit and Energy, develop a deep knowledge and understanding of the Self, Others, [[One]] and [[All]], and master your thoughts and emotions to become an ever more present and powerful conduit of the Spirit.
+1.  **Spirit:** Embrace the power and wisdom of the Spirit within you, connecting deeply to the universal Energy that permeates All Creation and its Source. Cultivate your inner Spirit and Energy, develop a deep knowledge and understanding of the Self, Others, [[ONE]] and [[All]], and master your thoughts and emotions to become an ever more present and powerful conduit of the Spirit.
     
-2.  **Philosophy:** Explore and integrate the core philosophical principles that flow from [[One]] Spirit and underlie the Way, such as Truth, Love, Justice, Unity, and Harmony. Develop an ethical and moral compass that guides your actions and decisions, and apply ancient wisdom in modern contexts to navigate the challenges and opportunities of your [[Quest]] towards [[The Goal]].
+2.  **Philosophy:** Explore and integrate the core philosophical principles that flow from [[ONE]] Spirit and underlie the Way, such as Truth, Love, Justice, Unity, and Harmony. Develop an ethical and moral compass that guides your actions and decisions, and apply ancient wisdom in modern contexts to navigate the challenges and opportunities of your [[Quest]] towards [[The Goal]].
     
 3.  **Theory:** Transform your philosophical understanding into a coherent and practical theoretical framework that informs your martial arts practice, spiritual transformation, and daily life. Analyze and synthesize various concepts, ideas, and principles to create a dynamic and adaptable understanding of the Way.
     

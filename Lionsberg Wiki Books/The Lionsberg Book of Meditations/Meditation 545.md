@@ -1,8 +1,8 @@
-Treat your [[Self]] and [[All]] beings as if there is an individuated element of the [[One]] within you and [[All]]. 
+Treat your [[Self]] and [[All]] beings as if there is an individuated element of the [[ONE]] within you and [[All]]. 
 
-When you [[Love]] any, you Love [[One]] and [[All]]. 
+When you [[Love]] any, you Love [[ONE]] and [[All]]. 
 
-When you [[Harm]] any, you Harm [[One]] and [[All]]. 
+When you [[Harm]] any, you Harm [[ONE]] and [[All]]. 
 
 ___
 

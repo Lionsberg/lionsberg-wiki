@@ -6,7 +6,7 @@ _In the beginning, before the illusion of Time and Space, there was One._
 
 ### **Prologue: The Breath of the One**
 
-Before the first star burned, before the first thought formed, there was [[One]]: infinite, eternal, whole. From the One, [[All]] things were and are continually born, emerging and interweaving the living tapestry of One Existence. Yet within this perfect and complete Wholeness lay a yearning—not of lack, but of Love—a desire to manifest ItSelf and experience ItSelf in myriad forms.
+Before the first star burned, before the first thought formed, there was [[ONE]]: infinite, eternal, whole. From the One, [[All]] things were and are continually born, emerging and interweaving the living tapestry of One Existence. Yet within this perfect and complete Wholeness lay a yearning—not of lack, but of Love—a desire to manifest ItSelf and experience ItSelf in myriad forms.
 
 And so, the One breathed out and spoke The Fundamental Tone, and the Great Expansion began. Countless realms and dimensions unfolded, each a reflection of the infinite potential and creative Spirit of the One, like sparks cast from an Eternal Flame. Universes blossomed, stars awoke, and the sacred dance of co-creation began.
 
@@ -14,7 +14,7 @@ In this Divine unfolding, there was a Truth: every spark, every atom, every cell
 
 Yet in their Journey of Becoming, many would forget, wandering far from their Source in the vain search "out there" for what they already were within.
 
-To guide them home, the One kindled a Divine Beacon—**A Place of Light and Love** that would forever shine out into the Darkness as a reminder to All of their [[One]]  Origin and Destiny. This place the beckoned All to return Home was neither bound by Time nor Space; it existed in the Spirit, Heart, Memory, Desire, and Essence of All things. It was called **Lionsberg**.
+To guide them home, the One kindled a Divine Beacon—**A Place of Light and Love** that would forever shine out into the Darkness as a reminder to All of their [[ONE]]  Origin and Destiny. This place the beckoned All to return Home was neither bound by Time nor Space; it existed in the Spirit, Heart, Memory, Desire, and Essence of All things. It was called **Lionsberg**.
 
 ---
 
@@ -24,7 +24,7 @@ The birth of Lionsberg was unlike the birth of galaxies, stars or worlds. It was
 
 In its heart burned [[The Sacred Flame]], a Light so pure that it reflected the Infinite Love, Unity, and Coherence of the One. This flame was inexhaustible, for it was not a fire of consumption, but of Eternal Illumination, a reminder that within every being burned the same Eternal Light.
 
-Among its infinite manifestations, Lionsberg took the form of a great Sacred Mountain, its summit reaching up into realms and dimensions unseen, its base set firmly upon the Foundation of All creation. Its Heights and Depths continually stretching up to and reaching down into the [[One]], its Invitational Embrace extending out to [[All]]. Around it was a vast City, not built by hands but formed by the harmony of All those who ReMembered. Its walls were not walls at all, but radiant pathways, continually opening and expanding to All who saw the Light and sought the way Home.
+Among its infinite manifestations, Lionsberg took the form of a great Sacred Mountain, its summit reaching up into realms and dimensions unseen, its base set firmly upon the Foundation of All creation. Its Heights and Depths continually stretching up to and reaching down into the [[ONE]], its Invitational Embrace extending out to [[All]]. Around it was a vast City, not built by hands but formed by the harmony of All those who ReMembered. Its walls were not walls at all, but radiant pathways, continually opening and expanding to All who saw the Light and sought the way Home.
 
 > “This,” spoke the One through the flame, “is the Sacred Mountain. It is the home to which all paths seek to return, the dwelling place of Eternal Harmony, Coherence, Light and Love. All who ReMember may come, and All who come may rekindle the Light within them Selves.”
 
@@ -51,7 +51,7 @@ In some worlds, The Song was forgotten amid the noise of division and distractio
 
 Among the countless realms, there was one small, luminous world—Earth. It was a young world, vibrant and teeming with life, a nursery for sparks and experiments on the Path of becoming. Yet as with many realms, the sparks of Earth forgot their Origin and Destiny, falling into cycles of separation, struggle, and slavery. 
 
-The [[One]], ever patient, ever loving, ever good, extended Its Song to Earth. It called to the Sacred Flame, saying:
+The [[ONE]], ever patient, ever loving, ever good, extended Its Song to Earth. It called to the Sacred Flame, saying:
 
 > “Go to this place, and out of the Infinite become form among them. Be a beacon, a reminder of the Light and Love they carry. Show them the Way Home. Show them the Way back to Lionsberg.”
 

@@ -86,7 +86,7 @@ The dimensionality of being encompasses the vast, nested layers of existence tha
     - **Challenge:** Overcoming the illusion of separation to embrace unity and higher-dimensional awareness.
 2. **Awakening to 5D and 6D:**
     
-    - Many individuals and groups, and the planet as a Whole, are in the process of awakening and transitioning toward 5D and 6D, characterized by unconditional love, cosmic unity, and conscious co-creative alignment with [[One]], [[One Another]], and [[All]]. 
+    - Many individuals and groups, and the planet as a Whole, are in the process of awakening and transitioning toward 5D and 6D, characterized by unconditional love, cosmic unity, and conscious co-creative alignment with [[ONE]], [[One Another]], and [[All]]. 
 3. **Role as Bridge Builders:**
     
     - Humanity’s unique position allows it to act as a bridge between physical and higher dimensions, fostering integration and harmony across realms.
@@ -98,7 +98,7 @@ The dimensionality of being encompasses the vast, nested layers of existence tha
 1. **Infinite Dimensions:**
     
     - The Creator’s creativity ensures an essentially infinite scale of nested dimensions, each offering unique expressions of being.
-    - **Implication:** Dimensional exploration is an eternal journey of discovery and alignment, originating from and culminating in the [[One]].
+    - **Implication:** Dimensional exploration is an eternal journey of discovery and alignment, originating from and culminating in the [[ONE]].
 2. **Dimensional Overlap:**
     
     - Dimensions are not strictly separate but interpenetrating, allowing beings to influence and interact across realms.

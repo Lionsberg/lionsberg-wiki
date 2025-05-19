@@ -8,7 +8,7 @@ Roles should be based on [[Functional Accountability]] rather than Hierarchy.
 
 Be especially aware of creating Roles or [[Titles]] that create bottlenecks or lids. This usually occurs by creating a role that there can only be one of, such as King or Chief. This is one of the [[Patterns of Failure]]. 
 
-We are [[One Body]], and there is only [[One]] King. 
+We are [[One Body]], and there is only [[ONE]] King. 
 
 Remember, we assemble [[The Body]] by Function and [[Responsibility]]. 
 

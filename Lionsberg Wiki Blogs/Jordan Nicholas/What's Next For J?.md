@@ -34,13 +34,13 @@ Now that the integrity of the American Experiment has failed, We will begin diss
 
 It is evident that We will not be able to comply our Way out of Tyranny and [[The Final Order]]. 
 
-Going forward, We will not participate, consent, comply, or subordinate Our Selves to any authority but [[One]]. 
+Going forward, We will not participate, consent, comply, or subordinate Our Selves to any authority but [[ONE]]. 
 
 We are reorganizing as a transcendent and Sovereign spiritual body, entirely Beyond all power and authority on Earth. 
 
-This will enable Us to advance and co-create freely in partnership with [[One]] and [[All]]. 
+This will enable Us to advance and co-create freely in partnership with [[ONE]] and [[All]]. 
 
-From that clean New starting point, We The People will begin instituting a New form of governance, economy, spirituality, justice, security, and society, laying its Foundation upon the [[One]], and co-operating in service of [[All]] past, present, and future generations of Life and Consciousness. 
+From that clean New starting point, We The People will begin instituting a New form of governance, economy, spirituality, justice, security, and society, laying its Foundation upon the [[ONE]], and co-operating in service of [[All]] past, present, and future generations of Life and Consciousness. 
 
 For the first Time in Earth's history, We are conceiving a New System and Way of Being not for the benefit of any one group, but for the Good of All throughout the coming millennia. 
 

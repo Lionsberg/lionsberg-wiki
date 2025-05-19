@@ -41,7 +41,7 @@
 	- How did we become this? 
 	- Who are we becoming? 
 	- What higher levels of identity do we need to rediscover in order to rediscover who we truly are beyond the shallower divisive labels we attach to ourselves 
-	- Ultimately rediscovering our ultimate identity as one "family of God"... [[All]] things arising from [[One]] Generative Source. 
+	- Ultimately rediscovering our ultimate identity as one "family of God"... [[All]] things arising from [[ONE]] Generative Source. 
 - Jordan and Lionsberg (together and separately) as one potential path / way to choose 
 	- via the role of the guide in the archetypical journey 
 - The Story Pattern
@@ -73,7 +73,7 @@
 - Possible meme: One Citizenship, Under God
 - The pros / cons / necessity of invoking God and rediscovering the [[One Thing]] that unites [[All]] things. 
 	- "What if put God back at the center and based everything on Love?" 
-	- Not religiously, but mathematically and technically, there must be a central organizing principle and relationship, and there must be a guiding Spirit. Those are [[One]] whose nature is [[Love]]. 
+	- Not religiously, but mathematically and technically, there must be a central organizing principle and relationship, and there must be a guiding Spirit. Those are [[ONE]] whose nature is [[Love]]. 
 - **Who is a stakeholder in the 2024 US Election?** *The whole world* has a vested interest in the US avoiding failure and catastrophe - "when the US sneezes, the world catches a cold." If the US grows terminally ill, it will affect nearly every Citizen on earth, and every plant, animal, and microbe. 
 - Everyone has a vested interest in the last ditch effort, *even if impossible*, to help America rediscover its freedom, independence, and entrepreneurial spirit and elect and independent in 2024 that is willing to give their life in service of attempting to implement the [[New Vision and Plan]]. 
 	- (probably fake) Ernest Shackleton ad: *Men wanted, for hazardous journey, small wages, bitter cold, long months of complete darkness, constant danger, safe return doubtful, honor and recognition in case of success.*
@@ -117,10 +117,10 @@
 ## 11. "Nature and Nature's God" / Resurrecting God 
 
 - Neitzsche said that when humanity killed God, it would be the greatest crime in history, and nothing could remove the blood from our hands. 
-- What is the [[One]] thing that unites us [[All]]?  
+- What is the [[ONE]] thing that unites us [[All]]?  
 - beyond tribe and nation, we have nature... 
 - beyond nature (the manifest) we have its universal and eternal Generative Source... which in English we call "God". 
-- "God" has become one of the most problematic words... we have no idea what it means... people might say "I don't believe in God" as a proxy for the religion of their youth they are rejecting... but it is a grave mistake to fail to acknowledge that there is an Generative Source of our existence that is beyond space and time... and it is that [[One]] thing that we must principally and rightly relate to if we are to avoid failure and achieve success... 
+- "God" has become one of the most problematic words... we have no idea what it means... people might say "I don't believe in God" as a proxy for the religion of their youth they are rejecting... but it is a grave mistake to fail to acknowledge that there is an Generative Source of our existence that is beyond space and time... and it is that [[ONE]] thing that we must principally and rightly relate to if we are to avoid failure and achieve success... 
 - Powerful voices like MLK, Ghandi and others have successfully catalyzed large social movements for change while unashamedly calling upon God and the highest principles and aspirations and moral imperatives of the human Spirit. 
 - In the midst of all the political BS and lies - we can appeal back to God, unity, our highest shared aspirations and values, and the interconnectedness of the Destiny of every one of our grandchildren's grandchildren. 
 
@@ -130,12 +130,12 @@
 
 We The People, in order to establish a More Perfection Union: 
 
-1. Are going to place [[God]] / [[One]] back at The Center of [[All]]
+1. Are going to place [[God]] / [[ONE]] back at The Center of [[All]]
 2. Are going to base everything on Light and Love (do no evil or harm, and help)
 3. Are going to lay down deceit and ideologies and navigate towards [[Wisdom]] and [[Truth]] 
 4. Are going to take back up our rightful responsibility and authority over our lives, our families, our communities, and our world via [[Citizen Led]] governance and impact 
 5. Are going to connect and empower one another through the [[Lionsberg System and Approach]] 
-6. Are going to resurrect the Spirit of America, and place her back in service of [[One]] and [[All]]. 
+6. Are going to resurrect the Spirit of America, and place her back in service of [[ONE]] and [[All]]. 
 
 ## 13. Challenge: Reaching the ears of the deaf instead of preaching to the Choir
 - How do we avoid "preaching to the choir" 
@@ -158,7 +158,7 @@ We The People, in order to establish a More Perfection Union:
 - The single greatest threat may be if America succumbs to its corruption and disease and fails, and the strongest and most viscous powers scramble to the top of its heaps of weapons and power... 
 - The single greatest opportunity is to get a wise, independent and visionary leader into the executive position in the US in 2024 with an unprecedented (US + global) mandate to implement the [[New Vision and Plan]]. 
 - That is a threat to the largest and most vicious power structures on earth, and will be incredibly difficult to survive... 
-- Therefore - to lead by example I am going to demonstrate my willingness to stand up, speak truth, and lay down my life if necessary in service of [[One]] and [[All]]. 
+- Therefore - to lead by example I am going to demonstrate my willingness to stand up, speak truth, and lay down my life if necessary in service of [[ONE]] and [[All]]. 
 - "I am going to battle... and I need your help, your covering, and your support..."  
 - Then the question becomes - how to Jordan into a position of responsibility and authority... form which the full plan plan can be unveiled and executed... the only seat on earth is the US Presidency. 
 - This becomes a means to [[The Goal]]... a Milestone along the Way... rather than a goal in and of itself... 
@@ -236,7 +236,7 @@ How do we know if:
 
 - If we believe that getting Jordan into a position to implement the [[New Vision and Plan]] is the more direct route towards [[The Goal]]...
 - Then we must generate a social movement that can translate into political power independent of the corrupt existing structures. 
-- So that the political power can be used to execute on the [[New Vision and Plan]] in service of [[One]] and [[All]]. 
+- So that the political power can be used to execute on the [[New Vision and Plan]] in service of [[ONE]] and [[All]]. 
 - Then the critical path runs through messaging and broadcasting... 
 	- How to get the message differentiated out and understood (the best and highest use of propaganda)
 	- The simplest statements that forge The Platform of Ideas and enable their memetic spread  
@@ -329,7 +329,7 @@ How do we know if:
 	- Not demanding conversion away from your religion or party or affiliations or citizenships that may have served you well in the past and be a part of your future... 
 	- You can stay connected and identified with those terms... 
 	- And at the same time, recognizing those terms are not serving us well, and are in fact dividing us and leading to our destruction... 
-	- We are proposing that we rediscover a new and higher order alternative around the [[One]] thing that unites us [[All]]. 
+	- We are proposing that we rediscover a new and higher order alternative around the [[ONE]] thing that unites us [[All]]. 
 	- A new and higher order understanding of how we are going to move forward as a diverse and rightly related unity. 
     
 ## Closing 
@@ -345,7 +345,7 @@ How do we know if:
 
 - [[The 7 Year Window of Crisis and Opportunity]]
 - Requires that by January 2025... we are ready to execute on the next 5 years... need to be in full scale execution mode to meet the needs, solve the problems, and capture the opportunities at hand. 
-- That mandates that within 18 months, we arise and unite to take back the center of our nation... and put it back in service of [[One]] and [[All]]
+- That mandates that within 18 months, we arise and unite to take back the center of our nation... and put it back in service of [[ONE]] and [[All]]
 
 ### The simple Call to Action 
 

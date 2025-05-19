@@ -3,7 +3,7 @@
 
 [[Values]] form the foundation of the [[Lionsberg System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
-The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[One]] Absolute [[Meta Value]]. 
+The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ONE]] Absolute [[Meta Value]]. 
 
 These are reflected in [[The Lionsberg System of Values]]. 
 
@@ -11,7 +11,7 @@ Some of the core values underpinning the [[New Vision and Plan]] and the [[Lions
 
 1.  **[[Unity]]**: Recognizing the Ultimate InterExistence of All life and the need for coordinated collective action to address the [[Challenges]] of the [[Meta Crisis]] and co-create the [[New World]].
 2. **[[Truth]]**: A commitment to seeking and upholding accurate and verifiable information, understanding, and wisdom, fostering honest communication and informed decision-making.
-3. **[[Love]]**: Embracing the power of [[Connection]], [[Compassion]], [[Care]], [[Empathy]], [[Selflessness]], and omniconsiderate [[Right Relationship]] to strengthen relationships and inspire actions that support the wellbeing of [[All]] in service of [[One]].
+3. **[[Love]]**: Embracing the power of [[Connection]], [[Compassion]], [[Care]], [[Empathy]], [[Selflessness]], and omniconsiderate [[Right Relationship]] to strengthen relationships and inspire actions that support the wellbeing of [[All]] in service of [[ONE]].
 4.  **[[Compassion]]**: Cultivating empathy, understanding, and care for all beings, fostering a sense of shared [[Purpose]], [[Belonging]], and [[Community]]. 
 5. **[[Justice]]**: Upholding the principles of [[Wisdom]], [[Fairness]], and universal [[Rights and Responsibilities]], ensuring that all [[Citizens]] have an [[Equal Opportunity]] to [[Participate In and Benefit From]] the Co-Creation of the [[New World]].
 6. **[[Stewardship]]**: Taking responsibility for the care and preservation our communities, our society, our planet, our universe, its resources, and All its inhabitants, ensuring a sustainable, regenerative, and flourishing future for [[All]].
@@ -20,8 +20,8 @@ Some of the core values underpinning the [[New Vision and Plan]] and the [[Lions
 9.  **[[Resilience]]**: Cultivating [[Adaptability]], [[Flexibility]], and [[Perseverance]] in the face of [[Adversity]] and [[Uncertainty]], empowering [[Citizens]] to respond [[Effectively]] to the evolving [[Challenges]] of the [[Meta Crisis]].  
 10.  **[[Regeneration]]**: Prioritizing the [[Health]] and [[Wellbeing]] of ecosystems, communities, and individuals, promoting [[Holistic]] and [[Regenerative]] solutions that support the co-creation of the [[New World]].
 11.  **[[Wisdom]]**: Valuing diverse perspectives, knowledge, and experiences, fostering a culture of [[Continuous Learning]], [[Curiosity]], and [[Growth]] within [[The Movement]].
-12. **[[Hope]]**: Nurturing a sense of [[Optimism]] and [[Confidence]] in the ability of [[Citizens]] in partnership with [[One]] and [[One Another]] to confront and overcome the [[Meta Crisis]] and co-create a brighter, more flourishing future for [[All]].
-13. **[[Faith]]**: Steadfast belief and commitment in the inherent goodness and potential of [[One]] in partnership with [[All]] to create positive and transformational change and a bright Future, despite the challenges and uncertainties that define the [[Meta Crisis]] and our [[InterExistence]] here on Earth. 
+12. **[[Hope]]**: Nurturing a sense of [[Optimism]] and [[Confidence]] in the ability of [[Citizens]] in partnership with [[ONE]] and [[One Another]] to confront and overcome the [[Meta Crisis]] and co-create a brighter, more flourishing future for [[All]].
+13. **[[Faith]]**: Steadfast belief and commitment in the inherent goodness and potential of [[ONE]] in partnership with [[All]] to create positive and transformational change and a bright Future, despite the challenges and uncertainties that define the [[Meta Crisis]] and our [[InterExistence]] here on Earth. 
 
 These values serve as a compass for [[Citizens]] as they navigate the complex landscape of the [[Meta Crisis]], guiding their actions, decisions, and interactions within the [[Lionsberg System]]. By embodying these values and integrating them into Our daily lives, [[Citizens]] play a vital role in the co-creation of the [[New World]], working together to confront and overcome the [[Meta Crisis]] and bring about a brighter, more flourishing future for [[All]].
 
@@ -31,7 +31,7 @@ The [[Core Values]] of any System are like the guard rails or boundaries that pr
 
 The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
 
-They also must be integrated and cohered by a [[Total Nested Hierarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[Lionsberg System]], this is the [[One]]. 
+They also must be integrated and cohered by a [[Total Nested Hierarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[Lionsberg System]], this is the [[ONE]]. 
 
 By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
 
@@ -68,9 +68,9 @@ It is _only_ by entirely reintegrating our [[Total Nested Hierarchy of Values]],
 This is a critical notion _technically_ because we can now demonstrate rigorously using accepted principles such as [[Lean]] that the vast majority of human activity in the Old World produced [[Waste]] that actually _inhibited_ [[Value Creation]]. 
 
 ## The Meta Value
-At the absolute top of this [[Total Nested Hierarchy of Values]] is [[One]] [[Meta Value]] that by definition unifies and coheres within Itself All other Values. 
+At the absolute top of this [[Total Nested Hierarchy of Values]] is [[ONE]] [[Meta Value]] that by definition unifies and coheres within Itself All other Values. 
 
-Across multiple traditions, the "Spirit" of the [[Meta Value]] has been most commonly articulated with what in English we might call Unconditional [[Love]], which is associated with the Spirit or Nature of That Which Creates and Sustains Life and Consciousness. In other languages, such as Greek that undergirds many systems of philosophy and religion, a more accurate and nuanced word might be [[Agape]]. Agape is used in texts such as the Bible for the reciprocal, unconditional, and ultimate Love of [[One]] for [[All]], and [[All]] for [[One]]. Or said differently of a Creator for Its Creation, and of Creation for Its Creator. 
+Across multiple traditions, the "Spirit" of the [[Meta Value]] has been most commonly articulated with what in English we might call Unconditional [[Love]], which is associated with the Spirit or Nature of That Which Creates and Sustains Life and Consciousness. In other languages, such as Greek that undergirds many systems of philosophy and religion, a more accurate and nuanced word might be [[Agape]]. Agape is used in texts such as the Bible for the reciprocal, unconditional, and ultimate Love of [[ONE]] for [[All]], and [[All]] for [[ONE]]. Or said differently of a Creator for Its Creation, and of Creation for Its Creator. 
 
 From this single lens of Unconditional, Ultimate, and All-Encompassing Love, every other Universal Value and Good can be articulated, and apparently contradictory or competing Values balanced and held in Harmony. 
 
@@ -82,18 +82,18 @@ It is the Powerful Motive Force and Intention of Unconditional Love, as a Living
 
 This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal of the Lionsberg System. It is the [[One Thing]] around which [[All]] aspects of the System revolve. 
 
-One level up the hierarchy of abstraction, one understands that [[One]] is [[Love]], and therefore the [[Meta Value]] is [[One]], inclusive of the Spirit of the [[One]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
+One level up the hierarchy of abstraction, one understands that [[ONE]] is [[Love]], and therefore the [[Meta Value]] is [[ONE]], inclusive of the Spirit of the [[ONE]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
 
-Therefore the Foundation, Center, Purpose and Goal of the [[Lionsberg System]] and the Universe it serves is [[One]]. 
+Therefore the Foundation, Center, Purpose and Goal of the [[Lionsberg System]] and the Universe it serves is [[ONE]]. 
 
-This is the entire basis of the [[Meta Idea]]. The [[Meta Idea]], the [[Meta Value]], and the [[Meta Goal]] are [[One]] expressed in various abstract ways. 
+This is the entire basis of the [[Meta Idea]]. The [[Meta Idea]], the [[Meta Value]], and the [[Meta Goal]] are [[ONE]] expressed in various abstract ways. 
 
 The Spirit / Logos / Logic of the One is the Spirit / Logos / Logic of the System, to extent that our [[Current Best Understanding]] is capable of reflecting that Ultimate Value and Good. 
 
 ### The Total Nested Hierarchy of Values
 Cohered and ordered within the [[Meta Value]] is the [[Total Nested Hierarchy of Values]], or what we could consider "Universal Values." The total ordered set of All that is Good. 
 
-Humans [[Act As If]] what they value most (aside from [[One]] / [[God]]) is Consciousness, and then Life. 
+Humans [[Act As If]] what they value most (aside from [[ONE]] / [[God]]) is Consciousness, and then Life. 
 
 The only thing that Humans [[Act As If]] they Value more than Life and Consciousness is the Source / Mystery that is creating and sustaining Life and Consciousness. 
 
@@ -130,9 +130,9 @@ In a complex adaptive System of Systems, this question must be answered in terms
 
 Something is Good which Helps, and Does Not Harm, every higher order System that it is a part of, and every lower order System that is a part of it. 
 
-At a minimum, this creates an affirmative duty of every Individual to Love, Help, and Not Harm every element of ones Self, as well as all Relations, Society, the Living System, and the [[One]] from which [[All]] these elements flow. 
+At a minimum, this creates an affirmative duty of every Individual to Love, Help, and Not Harm every element of ones Self, as well as all Relations, Society, the Living System, and the [[ONE]] from which [[All]] these elements flow. 
 
-Simply it creates an affirmative duty of every individual to Love, Help, and Not Harm [[One]] and [[All]]. 
+Simply it creates an affirmative duty of every individual to Love, Help, and Not Harm [[ONE]] and [[All]]. 
 
 Other areas in [[The Book of Lionsberg]] deal more technically and in detail with the interexistence of [[All]]. 
 

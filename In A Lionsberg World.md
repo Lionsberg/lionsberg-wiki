@@ -16,11 +16,11 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 3. In a Lionsberg World, We are One Body, Under God, Indivisible.  
 4. In a Lionsberg World, We are All Co-Creators of our Reality.    
 5. In a Lionsberg World, We collaborate to bring the [[Creator's Intent]] into [[Reality]].   
-6. In a Lionsberg World, We are working together in partnership with [[One]] and [[One Another]] to heal, regenerate and perfect our lives and our world.
+6. In a Lionsberg World, We are working together in partnership with [[ONE]] and [[One Another]] to heal, regenerate and perfect our lives and our world.
 7. In a Lionsberg World, All Things are Helping One Another Rise towards the fullness of their Unique Potential and [[Flourish in Harmony]].  
 8. In a Lionsberg World, We and All Future Generations have an equal citizenship and stake in the Reality We co-create. 
 9. In a Lionsberg World, there is no “them” “out there”; there is only Us.  
-10. In a Lionsberg World, [[One]] integrates, orders, and coheres within Itself every [[Total Nested Hierarchy of Goods]].  
+10. In a Lionsberg World, [[ONE]] integrates, orders, and coheres within Itself every [[Total Nested Hierarchy of Goods]].  
 11. In a Lionsberg World, We balance and uphold the [[Total Nested Hierarchy of Values]].  
 12. In a Lionsberg World, We advance towards the [[Total Nested Hierarchy of Goals]].  
 13. In a Lionsberg World, We confront and overcome the [[Total Nested Hierarchy of Challenges]].  
@@ -64,7 +64,7 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 51. In a Lionsberg World, [[Intellect]] is [[A Servant, Not A Master]].   
 52. In a Lionsberg World, [[Capital]] is [[A Servant, Not A Master]]. 
 53. In a Lionsberg World, [[Technology]] is [[A Servant, Not A Master]].  
-54. In a Lionsberg World, All Things Co-Operate in Service of [[One]] and [[All]].  
+54. In a Lionsberg World, All Things Co-Operate in Service of [[ONE]] and [[All]].  
 55. In a Lionsberg World, We [[Stack Up And Align]] All things to produce [[Throughput]] of [[The Goal]].  
 56. In a Lionsberg World, We ensure that All have [[Meaningful Work]].  
 57. In a Lionsberg World, We ensure that All have [[Meaningful Relationships]].  

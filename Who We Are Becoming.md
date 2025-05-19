@@ -2,7 +2,7 @@
 
 We are becoming [[Whole]]. We are becoming [[Wellness|Well]]. We are becoming one. We are gathering our [[Selves]] up and integrating our [[Selves]] into [[Higher Order Functional Unity]]. We are moving towards [[Oneness]] through [[Love]]. 
 
-[[That Which Is Longing To Emerge]] is (something like) [[Higher Order Functional Unity]] among [[One]] and [[All]]. 
+[[That Which Is Longing To Emerge]] is (something like) [[Higher Order Functional Unity]] among [[ONE]] and [[All]]. 
 
 [[That Which Is Longing To Emerge]] is (something like) a universal body, in which each part is playing its unique role as the [[Whole]] advances towards [[The Goal]]. 
 

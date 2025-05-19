@@ -42,7 +42,7 @@ The result: fragmented resistance unable to transform the root causes of sufferi
 
 What is the [[One Thing]]—seen as impossible—that, if achieved, would change everything and pave the [[Way]] toward [[The Goal]]?
 
-The answer is clear: _**UNITY between [[One]] and [[All]].**_
+The answer is clear: _**UNITY between [[ONE]] and [[All]].**_
 
 This is [[The Answer]] to [[The Great Question]]. 
 It is [[The Key]] to [[The Final Test]]. 
@@ -111,7 +111,7 @@ Your unique gifts, vision, and courage are vital to this Mission. The [[Force Fo
 
 The time is now, and the future awaits Us. [[Together, We Rise]].
 
-In Service of [[One]] and [[All]],  
+In Service of [[ONE]] and [[All]],  
 ~ [[J]]
 
 See Also: [[2025 - The Call to Rise, Unite and Co-Create]] 

@@ -1,6 +1,6 @@
 # Scene 1 - Inception
 
-In the beginning, the universe was an immense void, a vast expanse filled with only darkness, silence, and the [[One]] uncaused cause of [[All]] that was to come. 
+In the beginning, the universe was an immense void, a vast expanse filled with only darkness, silence, and the [[ONE]] uncaused cause of [[All]] that was to come. 
 
 [[All]] things had yet to come into existence, and nothing existed except the boundless [[Potential]] within the [[Mind]] of the [[Creator]].
 

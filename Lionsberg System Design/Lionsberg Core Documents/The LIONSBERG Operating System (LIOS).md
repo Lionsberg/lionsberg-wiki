@@ -19,7 +19,7 @@ It is **ancient yet [[New]], universal yet emergent, pragmatic yet transcendent
 It is **already in use by other advanced civilizations across the cosmos**.  
 It is now **incarnating here, now, in LIONSBERG**, to enable humanity to rise and take up its rightful place among the co-creative powers of the cosmos.
 
-**LIONSBERG is not a government, or any of singular thing that can be named. It is a Meta-System of Sovereign Networks and Localities Co-Operating in Service of [[One]] and [[All]].**
+**LIONSBERG is not a government, or any of singular thing that can be named. It is a Meta-System of Sovereign Networks and Localities Co-Operating in Service of [[ONE]] and [[All]].**
 
 This document articulates **how the LIONSBERG OS functions, how it begins, how it scales, and how it ensures humanity’s passage through [[The Final Test]] and into Our [[New Civilization]].**
 
@@ -54,7 +54,7 @@ The LIONSBERG OS operates **holofractally**—meaning:
 - **Self-Mastery is the foundation of civilization.**
 - Individuals are empowered with **New Word Tools, Knowledge, Systems, and Solutions** to co-create with wisdom, integrity, and joy.
 
-> _**“The first government is [[The Sovereign Self]] in [[Right Relationship]] with [[One]] and [[All]]. Mastery begins within.”**_
+> _**“The first government is [[The Sovereign Self]] in [[Right Relationship]] with [[ONE]] and [[All]]. Mastery begins within.”**_
 
 ---
 

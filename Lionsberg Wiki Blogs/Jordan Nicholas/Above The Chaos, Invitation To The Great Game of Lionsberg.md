@@ -106,13 +106,13 @@ From that [[Milestones|Milestone]], every other Good Goal humanity could imagine
 
 ## Every Story A Prophesy - Movement Building 
 
-As [[Small Groups]] make Local progress towards our Universal Goals, we will aggregate up and report out to [[One]] and [[All]] on the total [[Progress]] and [[Value]] being co-created. 
+As [[Small Groups]] make Local progress towards our Universal Goals, we will aggregate up and report out to [[ONE]] and [[All]] on the total [[Progress]] and [[Value]] being co-created. 
 
 Each story of hope, transformation, and progress will become a prophesy of even greater things to come in the future as the movement grows, and can fuel the inspiration and crowd funding that powers the movement. 
 
 ## What Becomes Possible If This Succeeds 
 
-_When_ this succeeds, for this first time in history all humanity and the entire [[Living System]] will be liberated to govern itself in service of and right relationship to [[One]] and [[All]]. 
+_When_ this succeeds, for this first time in history all humanity and the entire [[Living System]] will be liberated to govern itself in service of and right relationship to [[ONE]] and [[All]]. 
 
 When [[All]] of us are connected to a shared Platform of resources and solutions that empowers us [[All]] to [[Help One Another]] develop towards the fullness of our [[Potential]] and flourish in harmony, we will be in a world that is becoming more Perfect every day because we are [[All]] working together to make it so. 
 

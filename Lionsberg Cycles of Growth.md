@@ -6,7 +6,7 @@ This model not only symbolizes natural growth and harmony but also serves as a s
 
 ## **How It Works**
 
-- **Source:** The [[One]] origin of [[All]]—the Divine emanation of Spirit and Incarnation.
+- **Source:** The [[ONE]] origin of [[All]]—the Divine emanation of Spirit and Incarnation.
 - **Cycles:** Each cycle represents an increasing number of Co-Creators joining and contributing to the [[New Civilization]] as [[The Vision]] unfolds.
 
 ---

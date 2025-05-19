@@ -4,7 +4,7 @@ Because progressive enlightenment involves the transformation of consciousness i
 
 Even the most endarkened person has within them the seed and Potential of Light, and even the most enlightened person has an infinite journey ahead of them. 
 
-When the [[Christ Consciousness]] manifest in Jesus, it still pointed towards greater Wisdom and Knowledge that were Beyond it in the [[One]] who Jesus called His Heavenly Father. 
+When the [[Christ Consciousness]] manifest in Jesus, it still pointed towards greater Wisdom and Knowledge that were Beyond it in the [[ONE]] who Jesus called His Heavenly Father. 
 
 ___
 

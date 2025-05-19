@@ -1,6 +1,6 @@
 We call the Mystery that is creating, sustaining, and dissolving the universe "[[God]]." At the same time, we know that the moment we name That Which Transcends, Includes, and Gives Rise to All Names, it ceases to be the Ultimate and Absolute thing. 
 
-Only the very arrogant and ignorant argue over the name of The [[One]] Who Is Beyond All Names.
+Only the very arrogant and ignorant argue over the name of The [[ONE]] Who Is Beyond All Names.
 
 ___
 

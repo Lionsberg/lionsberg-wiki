@@ -14,8 +14,8 @@ This may be something like the fundamental creative movement of the universe tha
 
 The spiraling of apparently polar energy around a centerline or [[Phi Line]] (referring to the Golden Ratio of math, architecture, and art) or [[Source Line]] may be what causes the emergence of Life and structure to manifest from the [[Creative Field]] of [[Potential]]. 
 
-It may be that all these Phi Lines / Source Lines are ultimately connected back to [[One]] Thing that ultimately orders the Universe of [[All]] within ItSelf. 
+It may be that all these Phi Lines / Source Lines are ultimately connected back to [[ONE]] Thing that ultimately orders the Universe of [[All]] within ItSelf. 
 
-It may also be that we are experientially situated right in the center of something trying to emerge through us. If this is the case, our job is to stay perfectly centered on the [[Phi Line]], to the very best holding [[One]] intention as the New Life that is trying to emerge reciprocally unfolds / spirals up around the Center Line we are All connecting to and Co-Creating. 
+It may also be that we are experientially situated right in the center of something trying to emerge through us. If this is the case, our job is to stay perfectly centered on the [[Phi Line]], to the very best holding [[ONE]] intention as the New Life that is trying to emerge reciprocally unfolds / spirals up around the Center Line we are All connecting to and Co-Creating. 
 
 See also [[Apparent Polarities]], and [[Balancing On The Tip Of The Needle]]. 

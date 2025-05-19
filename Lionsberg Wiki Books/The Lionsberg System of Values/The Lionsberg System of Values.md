@@ -17,13 +17,13 @@ Our Aim is to continuously improve a Values Pattern Language to interrelate the 
 
 ## The Highest Uniting Value / The Meta Value 
 
-By definition, the ultimately ineffable [[Meta Value]] we point to with [[Word Tools]] such as [[God]] / [[Creator]] / [[One]] is what balances, orders and coheres the [[Total Nested Hierarchy of Values]] within Itself; the [[Central Animating Spirit]] that creates, sustains, and orders the [[Universe]]. 
+By definition, the ultimately ineffable [[Meta Value]] we point to with [[Word Tools]] such as [[God]] / [[Creator]] / [[ONE]] is what balances, orders and coheres the [[Total Nested Hierarchy of Values]] within Itself; the [[Central Animating Spirit]] that creates, sustains, and orders the [[Universe]]. 
 
 ## The Spirit and The Way of the One
 
-In nearly all spiritual, religious, and wisdom traditions, the [[One]] is described as the [[Central Animating Spirit]] of the Universe; the Source, Author and Perfecter of Life and Consciousness. 
+In nearly all spiritual, religious, and wisdom traditions, the [[ONE]] is described as the [[Central Animating Spirit]] of the Universe; the Source, Author and Perfecter of Life and Consciousness. 
 
-Our relationship to the [[One]] Spirit that creates and sustains [[All]] interexistent Life and Consciousness  is one of eternal and universal [[Covenant Relationship]], which beckons [[All Creation]] towards [[Omniconsiderate]] [[Right Relationship]] rooted in [[Absolute And Unconditional Love]]. 
+Our relationship to the [[ONE]] Spirit that creates and sustains [[All]] interexistent Life and Consciousness  is one of eternal and universal [[Covenant Relationship]], which beckons [[All Creation]] towards [[Omniconsiderate]] [[Right Relationship]] rooted in [[Absolute And Unconditional Love]]. 
 
 As our Highest Aim, we are invited to Progress [[Towards Oneness Through Love]], progressively enlightening and reuniting our Spirit with its Source by helping All Creation do the same. 
 
@@ -31,15 +31,15 @@ This leads to [[Way of Being]] that is ultimately [[Non-Propositional]] in natur
 
 When we exist in this [[Way]], we discover that we naturally co-operate to fulfill not merely the letter, but the Spirit and Logos of the Universal Law. 
 
-[[All]] Values can therefore best be understood in the context of the [[One]] they all share in common. They can best be understood as reflections or facets of the [[One]] Uniting [[Meta Value]] of Greatest Worth. 
+[[All]] Values can therefore best be understood in the context of the [[ONE]] they all share in common. They can best be understood as reflections or facets of the [[ONE]] Uniting [[Meta Value]] of Greatest Worth. 
 
 ## The Deepest Value 
 
-- [[One]], whose nature is [[Love]] 
+- [[ONE]], whose nature is [[Love]] 
 
 ## The Universal Core Values 
 
-From [[One]], we can derive the [[Deepest]] Universal Values, such as:  
+From [[ONE]], we can derive the [[Deepest]] Universal Values, such as:  
 
 - [[Truth]]  
 - [[Love]]  

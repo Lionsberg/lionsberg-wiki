@@ -1,4 +1,4 @@
-Everything [[True]], [[Wise]], [[Right]] and [[Good]] is inherently universal and eternal in nature, flowing from [[One]] for the benefit of [[All]]. 
+Everything [[True]], [[Wise]], [[Right]] and [[Good]] is inherently universal and eternal in nature, flowing from [[ONE]] for the benefit of [[All]]. 
 
 ___
 

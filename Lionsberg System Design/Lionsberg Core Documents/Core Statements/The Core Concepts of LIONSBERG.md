@@ -21,7 +21,7 @@ The following are among the **Core Concepts of LIONSBERG.**
 - **The First Principle. The Final Truth.**
 - We are **individually sovereign** yet **eternally interconnected**.
 - **There is no separation—only interexistence and illusion.**
-- To serve **[[One]] is to serve [[All]].**
+- To serve **[[ONE]] is to serve [[All]].**
 
 > _**"One for All, and All for One."**_
 
@@ -39,7 +39,7 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **3. Love is Law. Truth is Power.**
 
-- **Love is the Prime Directive**—it is the essence of the **[[One]]** force that sustains and harmonizes **All**.
+- **Love is the Prime Directive**—it is the essence of the **[[ONE]]** force that sustains and harmonizes **All**.
 - **Truth is the Sword**—it is the force that shatters illusions and liberates the soul.
 - **We wield both, with wisdom,  discipline, and courage.**
 
@@ -142,7 +142,7 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 - **We are not passive. We are not weak.**
 - **We are strong, disciplined, and capable of great power.**
-- But that power is **only used in service of Truth, Love, Justice, and the [[One]].**
+- But that power is **only used in service of Truth, Love, Justice, and the [[ONE]].**
 - **A lion does not need to prove it is a lion. But when it rises, the world takes notice and shakes.**
 
 > _**"We do not seek to destroy. We are here to co-create [[Heaven On Earth]]. But if they force Our hand, they will remember why We are cosmically feared."**_  

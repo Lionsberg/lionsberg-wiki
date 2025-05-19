@@ -20,7 +20,7 @@ they have despised the Holy One of Israel, they are **utterly estranged**."*
 
 As we get to [[Know God]], we should discover that the word [[LORD]] in all capitals in scripture is the English translation of the the Hebrew tetragrammaton, usually transliterated as YHWH, the proper name for [[God]] in the Jewish Torah. Because many Jewish people hold the name of [[God]] as too sacred to speak, it is often replaced in speech with [[HaShem]] (literally, The Name). 
 
-The many "names of God" describe many aspects of the [[Absolute]], and point back to the [[One]] [[Ultimate Reality]] - the Creator and Sustainer of the Universe, Who guides the subsequent transformations of Reality over Time. 
+The many "names of God" describe many aspects of the [[Absolute]], and point back to the [[ONE]] [[Ultimate Reality]] - the Creator and Sustainer of the Universe, Who guides the subsequent transformations of Reality over Time. 
 
 The basic spiritual impulse, or [[Spiritual Element]] in the universe, manifests in the deep desire for [[Progress]] towards [[Unity]] through [[Love]]. The progression towards Unity through [[Love]] is the polar opposite movement of *estrangement.* The essence of the [[Way]] is [[The Movement]] of [[All Creation]] *towards* its [[Source]]. The essence of [[The Anti-Movement]] is the divisive movement away from [[Unity]], towards [[Estrangement]]. 
 

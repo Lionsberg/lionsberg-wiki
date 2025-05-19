@@ -14,7 +14,7 @@ There is no other [[Time]] to act, to love, to be, to heal, to transform, to co-
 
 ### **Now and The One**
 
-**Now** is where the **[[One]]** perpetually dwells. It is the **Divine Threshold** where the **Infinite** touches the **Finite**, where **Eternity** breathes into **Temporality**.
+**Now** is where the **[[ONE]]** perpetually dwells. It is the **Divine Threshold** where the **Infinite** touches the **Finite**, where **Eternity** breathes into **Temporality**.
 
 To awaken to **[[The Power of Now]]** is to awaken to **Unity with the One**, to participate consciously in the unfolding of **Creation**, and to become a **Co-Creator** of **[[Heaven on Earth and Beyond]]**.
 

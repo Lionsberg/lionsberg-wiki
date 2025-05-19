@@ -13,7 +13,7 @@ On Our Pathway towards the [[Progressive Realization]] of Heaven On Earth and Be
 
 ...We are All aware that none of Us can do this alone. 
 
-Only [[One]] in co-creative partnership with [[All]] can fulfill [[The Dream]]. 
+Only [[ONE]] in co-creative partnership with [[All]] can fulfill [[The Dream]]. 
 
 This is The Invitation: The Creator is inviting Us All to awaken, arise, and unite as Co-Creators of Heaven On Earth and Beyond. 
 ___

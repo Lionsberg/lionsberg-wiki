@@ -6,7 +6,7 @@ The Lionsberg System is a citizen-led initiative, meaning it is not based on any
 
 This is philosophically based on the principle that when we all seek first right relationship with one another, the earth, and the mystery of the Creator, everything else will be added unto us.
 
-Our [[Authority]] to act comes from the [[Responsibility]] we have to [[One]] and [[All]] to do the [[Wise Right Thing]] to organize ourselves to meet the needs, solve the problems, and accomplish the goals inherent in this moment in history.  
+Our [[Authority]] to act comes from the [[Responsibility]] we have to [[ONE]] and [[All]] to do the [[Wise Right Thing]] to organize ourselves to meet the needs, solve the problems, and accomplish the goals inherent in this moment in history.  
 
 Over time, Lionsberg will gain authority and capability to act on greater scales in direct proportion to the number of citizens participating in it. 
 

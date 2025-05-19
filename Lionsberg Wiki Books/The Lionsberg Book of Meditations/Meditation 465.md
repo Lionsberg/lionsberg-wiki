@@ -1,4 +1,4 @@
-There can only be [[One]] center of [[Attention]]. 
+There can only be [[ONE]] center of [[Attention]]. 
 
 ___
 

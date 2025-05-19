@@ -1,4 +1,4 @@
-Just as each person has a unique fingerprint, so too does each person have a unique understanding and [[Perception]] of [[God]]. This does not mean that there are actually billions of gods, but rather that there are billions of different perceptions of the [[One]] [[Generative Source]] of [[All]] Creation. 
+Just as each person has a unique fingerprint, so too does each person have a unique understanding and [[Perception]] of [[God]]. This does not mean that there are actually billions of gods, but rather that there are billions of different perceptions of the [[ONE]] [[Generative Source]] of [[All]] Creation. 
 
 Only the very arrogant and ignorant mistake their feeble understanding of [[Ultimate Reality]] for God. 
 

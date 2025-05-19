@@ -1,4 +1,4 @@
-All Creation is the externalization, or outward manifestation, of [[One]] transcendent Creator. 
+All Creation is the externalization, or outward manifestation, of [[ONE]] transcendent Creator. 
 
 ___
 

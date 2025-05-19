@@ -1,6 +1,6 @@
 # Meditation 219
 
-When one fears [[One]] the most, it vanquishes the lesser fears of [[All]] other things. 
+When one fears [[ONE]] the most, it vanquishes the lesser fears of [[All]] other things. 
 
 ___
 

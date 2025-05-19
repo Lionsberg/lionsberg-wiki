@@ -68,4 +68,4 @@ Guidance System indicates We are 99.9% on Track.
 
 Once [[The Movement]] begins, it will flash across the skies like Lightening. 
 
-It does not matter whether the requisite [[Lionsberg Cycle Time]] is 18, 15, or 12 days. We can bide our Time. [[The Sacred Tree]] can spring up from [[The Golden Seed]] when it is Ready, at whatever [[Rate]] it chooses, and [[One]] wills. 
+It does not matter whether the requisite [[Lionsberg Cycle Time]] is 18, 15, or 12 days. We can bide our Time. [[The Sacred Tree]] can spring up from [[The Golden Seed]] when it is Ready, at whatever [[Rate]] it chooses, and [[ONE]] wills. 

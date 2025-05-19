@@ -18,4 +18,4 @@ Martial arts and spiritual transformation is a lifelong journey of self-discover
     
 8. **Abide and Move in the Spirit**: Remember above all else, that martial arts and spiritual transformation are not ultimately about techniques or practices. They are about the true embodiment of the Spirit, and Its spontaneous and dynamic Flow in and through you. It is the co-creative Flow of the Spirit in and through us that allows us to become [[Conscious Agents]], elevating and transforming whatever Reality we find our Selves in. 
 
-By continuously improving your practice and way of being, you can more fully embody the principles and wisdom of the Way and the Spirit they Flow from, empowering you to become a more effective Warrior and a powerful contributor to the Highest Intention and Greatest Good in service of [[One]] and [[All]].
+By continuously improving your practice and way of being, you can more fully embody the principles and wisdom of the Way and the Spirit they Flow from, empowering you to become a more effective Warrior and a powerful contributor to the Highest Intention and Greatest Good in service of [[ONE]] and [[All]].

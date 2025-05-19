@@ -83,7 +83,7 @@ We can imagine as a starting point that there is no less diversity among the tri
 
 1. **Infinite Diversity:**
     
-    - The Creator’s infinite creativity ensures an essentially limitless range of interdimensional beings across trillions of star systems and an infinite gradient of dimensions, each uniquely reflecting aspects of the [[One]] and the [[One Body]] they are a part of. 
+    - The Creator’s infinite creativity ensures an essentially limitless range of interdimensional beings across trillions of star systems and an infinite gradient of dimensions, each uniquely reflecting aspects of the [[ONE]] and the [[One Body]] they are a part of. 
 2. **Dimensional Resonance:**
     
     - Interdimensional beings are drawn to vibrational states that resonate with their own frequency, influencing their relationships with humanity, and eventually culminating in the Divine Symphony.

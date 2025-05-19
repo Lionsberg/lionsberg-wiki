@@ -1,4 +1,4 @@
-There is [[One]] who takes responsiblity for the wellbeing of [[All]]. When we [[All]] become like this One, we shall dwell together in [[Paradise]]. 
+There is [[ONE]] who takes responsiblity for the wellbeing of [[All]]. When we [[All]] become like this One, we shall dwell together in [[Paradise]]. 
 
 ___
 

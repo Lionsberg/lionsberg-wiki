@@ -1,16 +1,16 @@
 # **Introduction to The Chronicles of Lionsberg**
 
-_The Chronicles of Lionsberg are more than stories—they are an Invitation from [[One]] to [[All]], a Living Symphony of Becoming, and a Call to awaken to the fullness of Who We Truly Are._
+_The Chronicles of Lionsberg are more than stories—they are an Invitation from [[ONE]] to [[All]], a Living Symphony of Becoming, and a Call to awaken to the fullness of Who We Truly Are._
 
 ---
 
-Before the first word was spoken, before the first light illuminated the heavens, there was [[One]]—infinite, eternal, and whole. From this Oneness, [[All]] is born: universes, stars, and the countless diversity and unfathomable beauty of the planets and beings who inhabit them. And though each fragment carries the Spirit of the One, many fracture and forget Who They Truly Are. Many have wandered, believing themselves separate, striving to find meaning in the Darkness and Isolation of the Expanse.
+Before the first word was spoken, before the first light illuminated the heavens, there was [[ONE]]—infinite, eternal, and whole. From this Oneness, [[All]] is born: universes, stars, and the countless diversity and unfathomable beauty of the planets and beings who inhabit them. And though each fragment carries the Spirit of the One, many fracture and forget Who They Truly Are. Many have wandered, believing themselves separate, striving to find meaning in the Darkness and Isolation of the Expanse.
 
 Yet, within the vast tapestry of existence, a Song has always echoed—a Song of Unity, Love, and Co-Creation. It whispers and beckons to every soul:
 
 > “ReMember. You are not alone. You are not lost. The Light is within you, and together, We will return Home. We Are One.”
 
-This Eternal Song of the [[One]] is the heartbeat of [[LIONSBERG]], the foundation of the unfolding [[Lionsberg Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[LIONSBERG]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
+This Eternal Song of the [[ONE]] is the heartbeat of [[LIONSBERG]], the foundation of the unfolding [[Lionsberg Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[LIONSBERG]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
 
 ---
 

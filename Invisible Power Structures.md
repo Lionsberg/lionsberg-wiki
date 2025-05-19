@@ -30,7 +30,7 @@
     Total control over Earth’s resources, systems, and population through economic, political, technological, and psychological means.
     
 2. **Suppression of Consciousness:**  
-    Strategies to keep humanity unaware of its higher potential and interconnectedness with [[One]], [[One Another]], and [[All]].
+    Strategies to keep humanity unaware of its higher potential and interconnectedness with [[ONE]], [[One Another]], and [[All]].
     
 3. **Division and Fear:**  
     Perpetuation of fear, conflict, and division to prevent unity and collective action among humanity.
@@ -85,4 +85,4 @@ To overcome the influence of [[Invisible Power Structures]] and pass [[The Final
 
 ### **A Catalyst for Humanity’s Evolution**
 
-While [[Invisible Power Structures]] present a dire challenge, they also serve as a catalyst for humanity’s awakening and transformation. By navigating their influence with discernment and unity and taking up its sovereign and rightful place among the powers of the cosmos, humanity can rise to fulfill its highest [[Potential]], co-creating a [[New Era]] rooted in freedom, harmony, and [[One]].
+While [[Invisible Power Structures]] present a dire challenge, they also serve as a catalyst for humanity’s awakening and transformation. By navigating their influence with discernment and unity and taking up its sovereign and rightful place among the powers of the cosmos, humanity can rise to fulfill its highest [[Potential]], co-creating a [[New Era]] rooted in freedom, harmony, and [[ONE]].

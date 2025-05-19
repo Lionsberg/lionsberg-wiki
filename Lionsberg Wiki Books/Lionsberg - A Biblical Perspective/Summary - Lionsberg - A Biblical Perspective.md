@@ -130,7 +130,7 @@ The idea of a totalitarian and controlling "one world government" and "one world
 
 In stark contrast to this hellish vision, the Lionsberg System aims to elevate and empower a decentralized network of individuals and communities to voluntarily work together towards shared goals and values that are entirely consistent with biblical principles and values. Far from being a centralized system that seeks to exert control over all people, resources, and transactions, it instead aims to push power and authority away from centralizing systems and back to the people. As an entirely voluntary and citizen led system and movement, it is the diametric opposite and antidote to any attempted centralizing or totalitarian state. 
 
-The Lionsberg System is based on principles of citizen-led impact in society, guided by values of truth, love, justice, stewardship and wisdom in service of [[One]] and [[All]]. It empowers individuals and communities to take control of their own development and to work together to create a more just, sustainable, and prosperous world for all. 
+The Lionsberg System is based on principles of citizen-led impact in society, guided by values of truth, love, justice, stewardship and wisdom in service of [[ONE]] and [[All]]. It empowers individuals and communities to take control of their own development and to work together to create a more just, sustainable, and prosperous world for all. 
 
 Lionsberg is aiming towards the type of renewed world prophesied by Isaiah and others, who foretell of the time when the wisdom and knowledge of God will cover the earth like floodwaters, ushering in a new era of harmony, prosperity, and right relationship between the Creator and all creation. 
 
@@ -138,7 +138,7 @@ The Lionsberg System aligns with the teachings of Jesus, who encouraged us to se
 
 The Lionsberg System endeavors only to align itself with the Spirit of God and the perfect and eternal Kingdom of God. As an entirely voluntary system of alignment, empowerment, and self-governance, the Lionsberg System is diametrically opposed to any form of governance that would violate the freedom, dignity, sovereignty, or autonomy of human beings created in the image of God. 
 
-In summary, the Lionsberg System is not a one world government, but a decentralized and empowered system and network of individuals and communities working together towards a common goal guided by principles of truth, love, justice, stewardship and wisdom in service of [[One]] and [[All]]. As such, it does not seek to exert control over all people and resources, but rather to empower citizens and communities to take charge of their own development and help one another progress towards their shared goals and values.
+In summary, the Lionsberg System is not a one world government, but a decentralized and empowered system and network of individuals and communities working together towards a common goal guided by principles of truth, love, justice, stewardship and wisdom in service of [[ONE]] and [[All]]. As such, it does not seek to exert control over all people and resources, but rather to empower citizens and communities to take charge of their own development and help one another progress towards their shared goals and values.
 
 ## 13. Conclusion
 

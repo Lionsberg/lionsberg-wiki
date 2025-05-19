@@ -20,7 +20,7 @@ What that means is that We are going to ***restructure Our Co-Creation transcend
 ___
 Citizens of Goodwill have the inherent right and responsibility under Universal Law (and many [[Local Laws]]) to: 
 
-1. Voluntarily associate and advance together towards the [[Highest Intention and Greatest Good]] in service of [[One]] and [[All]]  
+1. Voluntarily associate and advance together towards the [[Highest Intention and Greatest Good]] in service of [[ONE]] and [[All]]  
 2. Aggregate and allocate Time, Energy, Attention, and Resources towards shared Goals and Values   
 3. And to do so in any Way the Spirit and dictates of their own Conscience lead them, in obedience to the Spirit of the [[Universal Law]], and regardless of [[Local Laws]]
 

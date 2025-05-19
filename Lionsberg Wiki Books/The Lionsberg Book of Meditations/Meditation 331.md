@@ -1,4 +1,4 @@
-Eternal treasure comes from working [[In Service To]] [[One]] and [[All]] to strengthen the [[Regenerative]] capacity of Life and Society, while meeting the needs and solving the problems at hand. This [[Work]] must always begin with the most vulnerable, in need, and least able to transactionally reciprocate or repay. 
+Eternal treasure comes from working [[In Service To]] [[ONE]] and [[All]] to strengthen the [[Regenerative]] capacity of Life and Society, while meeting the needs and solving the problems at hand. This [[Work]] must always begin with the most vulnerable, in need, and least able to transactionally reciprocate or repay. 
 
 ___
 

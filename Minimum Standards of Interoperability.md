@@ -19,7 +19,7 @@ Overall, the minimum standards of interoperability help to ensure that participa
 ____
 For the [[New System]] to function as designed, *something like* the following constitute the basic Minimum Standards of Interoperability. 
 
-1. Love [[One]]. Love [[One Another]]. Love [[All]].  
+1. Love [[ONE]]. Love [[One Another]]. Love [[All]].  
 2. [[Help One Another]], and [[Do Not Harm]]  
 3. Resources may only be applied to [[Value]] Producing and Aligned [[Quarterly Quests]]  
 4. [[Quarterly Quests]] must [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]]  

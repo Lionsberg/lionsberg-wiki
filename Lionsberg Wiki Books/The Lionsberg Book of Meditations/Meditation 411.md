@@ -1,4 +1,4 @@
-The only Answer is Supreme Love for [[One]], above [[All]] else. 
+The only Answer is Supreme Love for [[ONE]], above [[All]] else. 
 
 ___
 

@@ -31,7 +31,7 @@ As we gaze out into the Best Possible Future... What do we see? What do we hear?
 - We see pure living waters flowing throughout the earth  
 - We see liberation from every corrupt and oppressive authority on earth
 - We see a [[New]] [[Governance]] that is Just and Good  
-- We see the Highest Will and Intention of the [[One]] being done [[On Earth As it Is In Heaven]]   
+- We see the Highest Will and Intention of the [[ONE]] being done [[On Earth As it Is In Heaven]]   
 - We see [[All]] dwelling in peace, security, and abundance, liberated from the fear of violence, warfare, and oppression  
 - We see renewal, restoration, and regeneration  
 - We see A [[Great Remembrance]] of the ancient ceremonies, feasts, and traditions  
@@ -44,7 +44,7 @@ As we gaze out into the Best Possible Future... What do we see? What do we hear?
 - We see a New Dawn that dispels the gloom and anguish, and shines Light into every dark place  
 - We see freedom and release from every yoke of burden  
 - We see every rod of oppression shattered  
-- We see a New Order that is Good and entirely centered on [[Right Relationship]] between [[One]] and [[All]]. It is an Order of Peace. An Order of Justice. An Order of Righteousness. An Order of Wisdom. An Order of Understanding. An Order of Counsel and Strength. An Order of Knowledge. An Order of Humility. An Order which lifts up the weak and the poor. And Order which honors and upholds and decides with Justice in service of the humble and the meek. An Order which liberates the oppressed.  
+- We see a New Order that is Good and entirely centered on [[Right Relationship]] between [[ONE]] and [[All]]. It is an Order of Peace. An Order of Justice. An Order of Righteousness. An Order of Wisdom. An Order of Understanding. An Order of Counsel and Strength. An Order of Knowledge. An Order of Humility. An Order which lifts up the weak and the poor. And Order which honors and upholds and decides with Justice in service of the humble and the meek. An Order which liberates the oppressed.  
 - We see the universal Wisdom, Knowledge, Logos, and Law of the One covering the earth like floodwaters  
 - We see the lion lying down beside the lamb, and grazing on grass and straw  
 - We see freedom from harm and destruction  

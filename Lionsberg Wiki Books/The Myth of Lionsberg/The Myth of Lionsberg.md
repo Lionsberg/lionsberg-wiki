@@ -4,9 +4,9 @@
 
 In the beginning, there is no beginning. 
 
-In the beginning, [[God]], [[One]], is [[Eternal]]. 
+In the beginning, [[God]], [[ONE]], is [[Eternal]]. 
 
-From Eternity, [[God]], the [[One]], is creating [[Universe]], the [[All]]. 
+From Eternity, [[God]], the [[ONE]], is creating [[Universe]], the [[All]]. 
 ## Universe 
 
 [[Universe]] is the manifest and experiential embodiment of [[All]] that [[God]] is creating. 

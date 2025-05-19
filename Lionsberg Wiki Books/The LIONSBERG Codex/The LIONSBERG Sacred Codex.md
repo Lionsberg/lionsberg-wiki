@@ -1,6 +1,6 @@
 # The LIONSBERG Sacred Codex
 
-**The LIONSBERG Sacred Codex** binds together the vast Diversity of [[The LIONSBERG Universe]] into One Ultimate Unity. Reflecting and pointing back to the [[One]], its Intention to to embrace and properly order the [[All]] within ItSelf. 
+**The LIONSBERG Sacred Codex** binds together the vast Diversity of [[The LIONSBERG Universe]] into One Ultimate Unity. Reflecting and pointing back to the [[ONE]], its Intention to to embrace and properly order the [[All]] within ItSelf. 
 
 It Is and Will Always Be a Living and Co-Creative [[Work In Progress]]. 
 
@@ -84,7 +84,7 @@ And the Divine ReMembrance of Who We Are, Always Have Been, and Always Will Be.
 
 You are part of an Eternal Lineage,  
 A Universal Pattern,  
-A Sovereign Soul Divinely seeded with the Spirit and Logos of the [[One]].
+A Sovereign Soul Divinely seeded with the Spirit and Logos of the [[ONE]].
 
 This Codex is **not a book of beliefs**.  
 There is no religion, politics, ideology, orthodoxy, or dogma.  

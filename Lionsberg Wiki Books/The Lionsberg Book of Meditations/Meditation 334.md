@@ -1,4 +1,4 @@
-The [[Quest]] towards [[God]] is not secondary. It is the [[One]], only and primary [[Purpose]] of existence. 
+The [[Quest]] towards [[God]] is not secondary. It is the [[ONE]], only and primary [[Purpose]] of existence. 
 
 ___
 

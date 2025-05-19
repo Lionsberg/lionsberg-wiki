@@ -1,6 +1,6 @@
 # Logic of Love
 
-In the context of the [[Lionsberg System]], the "Logic of Love" refers to a guiding principle and decision-making framework based on [[Absolute And Unconditional Love]], compassion, empathy, and an unwavering commitment to the wellbeing and flourishing of [[All]] living beings. This logic transcends self-interest and narrow perspectives, seeking to foster [[Harmony]], [[Unity]], and [[Right Relationship]] among [[Individuals]], [[Communities]], the natural world, and the [[One]] [[Source and Sustainer]] of [[All]] Life and Consciousness. 
+In the context of the [[Lionsberg System]], the "Logic of Love" refers to a guiding principle and decision-making framework based on [[Absolute And Unconditional Love]], compassion, empathy, and an unwavering commitment to the wellbeing and flourishing of [[All]] living beings. This logic transcends self-interest and narrow perspectives, seeking to foster [[Harmony]], [[Unity]], and [[Right Relationship]] among [[Individuals]], [[Communities]], the natural world, and the [[ONE]] [[Source and Sustainer]] of [[All]] Life and Consciousness. 
 
 The Logic of Love promotes actions that:
 

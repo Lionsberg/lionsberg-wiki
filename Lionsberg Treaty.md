@@ -36,7 +36,7 @@ Article 5: Continuous Learning and Improvement
 Article 6: Forgiveness, Reconciliation, and Atonement
 
 1.  We commit to forgive one another for past harms, recognizing that healing and reconciliation are essential for the well-being and progress of our global community.
-2.  We pledge to actively work towards atonement, seeking to address and redress the consequences of past actions and to foster healing, understanding, unity and [[Right Relationship]] between [[One]] and [[All]]. 
+2.  We pledge to actively work towards atonement, seeking to address and redress the consequences of past actions and to foster healing, understanding, unity and [[Right Relationship]] between [[ONE]] and [[All]]. 
 
 By signing this Treaty, we, the [[Citizens]] of the world, affirm our allegiance to the ideals and aspirations set forth in the **Lionsberg Manifesto** and the [[New Vision and Plan]], and pledge our individual and collective energies, talents, and resources to the pursuit of a brighter, more prosperous, and regenerative future for all.
 

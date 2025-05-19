@@ -1,6 +1,6 @@
 # Journey
 
-The [[Journey]] represents Our individual and collective [[Path]] through [[Time]], [[Space]], and [[Consciousness]] toward the fulfillment of Our highest [[Potential]]. It encompasses the struggles, discoveries, and transformations We face as We strive to align with [[One]], [[One Another]], and [[All]].
+The [[Journey]] represents Our individual and collective [[Path]] through [[Time]], [[Space]], and [[Consciousness]] toward the fulfillment of Our highest [[Potential]]. It encompasses the struggles, discoveries, and transformations We face as We strive to align with [[ONE]], [[One Another]], and [[All]].
 
 ### Key Aspects of the Journey
 
@@ -17,7 +17,7 @@ The [[Journey]] represents Our individual and collective [[Path]] through [[Time
     Like any great story, the [[Journey]] is marked by crucibles—moments of crisis that test Our resolve, unity, and creativity. These trials are catalysts for growth and transformation.
     
 5. **Ultimate Destination:**  
-    The ultimate Aim of the [[Journey]] is not a fixed point in [[Time]] or [[Space]] but the infinite co-creative unfolding of being in partnership with [[One]] and [[All]]. The ultimate Aim is always the Ultimate [[One]].  
+    The ultimate Aim of the [[Journey]] is not a fixed point in [[Time]] or [[Space]] but the infinite co-creative unfolding of being in partnership with [[ONE]] and [[All]]. The ultimate Aim is always the Ultimate [[ONE]].  
 
 ### A Narrative of Transformation
 

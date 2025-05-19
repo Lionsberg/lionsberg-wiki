@@ -51,7 +51,7 @@ The time to rise is now. Will you take your place among those who will shape the
 
 To begin this profound Quest, take the first step and [RSVP Here](x).
 
-This is more than an invitation—it is the opportunity and adventure of a lifetime. Even if direct participation is not possible, your unique gifts—relationships, resources, wisdom—are vital threads in the tapestry We are weaving. Reach out to [[J]] directly or at JNicholasOne@Proton.me, and let Us align your contributions with this shared Mission for the sake of [[One]] and [[All]].
+This is more than an invitation—it is the opportunity and adventure of a lifetime. Even if direct participation is not possible, your unique gifts—relationships, resources, wisdom—are vital threads in the tapestry We are weaving. Reach out to [[J]] directly or at JNicholasOne@Proton.me, and let Us align your contributions with this shared Mission for the sake of [[ONE]] and [[All]].
 
 ___
 ### **Related Materials**
@@ -64,6 +64,6 @@ ___
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] (For a more complete picture of what We have been contemplating)
 
 ---
-In Service of [[One]] and [[All]],  
+In Service of [[ONE]] and [[All]],  
 ~ [[J]]  
 ___

@@ -121,12 +121,12 @@ During this infinitely short time in the span of eternity, we are "Thrown" into 
 
 The energy, resources, and attention we posses at any given time are in a state of transformation, and soon, during life or at death, will dissociate from us and be entrusted to one who will come after us. 
 
-From every possible level of analysis, the proper view of any resources, authority, or attention that we are entrusted with is that they belong to [[One]] and [[All]], and that we are merely temporary caretakers or stewards for a short period of time. 
+From every possible level of analysis, the proper view of any resources, authority, or attention that we are entrusted with is that they belong to [[ONE]] and [[All]], and that we are merely temporary caretakers or stewards for a short period of time. 
 
 ### What One And All Would Want Done
-If we are stewards of energy, resources, and attention that ultimately belong not to us, but to [[One]] and [[All]], what would [[One]] and [[All]] want done with them? 
+If we are stewards of energy, resources, and attention that ultimately belong not to us, but to [[ONE]] and [[All]], what would [[ONE]] and [[All]] want done with them? 
 
-It seems intuitively obvious that the [[Meta Goal]] of [[One]] and [[All]] is exactly the same; it is simply what the heart of Love would desire for Any one that it Loved - for [[All]] things to develop into the fullness of their potential and flourish in harmony. 
+It seems intuitively obvious that the [[Meta Goal]] of [[ONE]] and [[All]] is exactly the same; it is simply what the heart of Love would desire for Any one that it Loved - for [[All]] things to develop into the fullness of their potential and flourish in harmony. 
 
 ### Our Ethical and Fiduciary Imperative As Stewards of Resources and Authority 
 Therefore, our ethical and fiduciary imperative as temporary Stewards of Energy, Resources and Authority ultimately belonging to One and All is to deply them in the [[Wise Right]] Way to produce [[Throughput]] of the highest overarching and uniting intention and goal. 
@@ -138,7 +138,7 @@ The [[Meta Level]] understanding and Reality is eternal, universal, and transcen
 
 Yet this highest and deepest level of abstraction can be very difficult to grapple with. 
 
-Therefore we have taken the great risk of attempting to Incarnate an Instantiation of Its Spirit or Essence that [[One]] and [[All]] can judge in terms of its faithfulness. 
+Therefore we have taken the great risk of attempting to Incarnate an Instantiation of Its Spirit or Essence that [[ONE]] and [[All]] can judge in terms of its faithfulness. 
 
 To the extent that is a faithful prototype as it strives to continuously improve itself to become the [[Most Faithful Prototype]], it can be emulated and implemented broadly. 
 
@@ -160,7 +160,7 @@ From those starting points, we began to actually design and build physical commu
 ## Deploying Energy to Accomplish the Goal 
 Lionsberg can be thought of as a System that helps Sovereign Individuals, Organizations, and Communities deploy Energy in a Way that produces [[Throughput]] of [[The Goal]]. 
 
-This is especially critical to you, the stewards of significant capital belonging to [[One]] and [[All]]. 
+This is especially critical to you, the stewards of significant capital belonging to [[ONE]] and [[All]]. 
 
 If it is useful, the following five steps can be taken to Incarnate the System into your Sovereign and Autonomous Stewardship Fund. 
 

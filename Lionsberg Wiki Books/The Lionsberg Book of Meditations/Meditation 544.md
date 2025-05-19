@@ -2,7 +2,7 @@
 
 God desires beings who are progressively unifying their [[Selves]] with their [[Source]].  
 
-This manifests not in a few ritual prayers that punctuate our day, but in thoughts, words, and actions that reflect what the Perfect [[One]] would think, speak, and do.
+This manifests not in a few ritual prayers that punctuate our day, but in thoughts, words, and actions that reflect what the Perfect [[ONE]] would think, speak, and do.
 
 ___
 

@@ -12,7 +12,7 @@ In the realm of [[Freedom]], there is found at its extreme pure unstructured [[P
 
 In the realm of [[Discipline]], there is found at its extreme a pure structured rigidity of [[Purpose]], [[Intention]], and [[Goal]]. Striving beyond [[What Is]] towards [[What Should Be]]. It is on tends towards the pole of [[Order]]. 
 
-As in all [[Apparent Polarities]], there exists a [[Higher Perspective]] that properly integrates and orders them both, in right [[Balance]] and [[Proportion]], within itself. From this [[Highest Perspective]], Discipline is an aspect of Freedom, Freedom is an aspect of Discipline, and both are an aspect of and unified by the [[Spirit]] of the [[One]]. 
+As in all [[Apparent Polarities]], there exists a [[Higher Perspective]] that properly integrates and orders them both, in right [[Balance]] and [[Proportion]], within itself. From this [[Highest Perspective]], Discipline is an aspect of Freedom, Freedom is an aspect of Discipline, and both are an aspect of and unified by the [[Spirit]] of the [[ONE]]. 
 
 The [[Way]], always and eternally, is mediated by the [[Spirit]] that enables us to [[Walk The Line]] between opposing forces towards [[Heaven]], while avoiding the [[Hell]] that lies in an excess of deviation off the Path in any direction. 
 

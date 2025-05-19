@@ -4,13 +4,13 @@ Apparently Polarities must be [[Consciously Mediated]], integrated, balanced, an
 
 In the [[Lionsberg System]] we refer to this as [[Balancing On The Tip Of The Needle]].  
 
-This is ultimately a process of [[Progressive Transcendence]] of [[Physical]], [[Mental]] and [[SpatioTemporal]] limitations and illusions that moves us Deeper towards a Primary Identification with the [[One]] [[Ultimate Reality]] that creates, sustains, destroys, encompasses, orders, and coheres [[All]] things (associative and dissociative energy) within ItSelf. 
+This is ultimately a process of [[Progressive Transcendence]] of [[Physical]], [[Mental]] and [[SpatioTemporal]] limitations and illusions that moves us Deeper towards a Primary Identification with the [[ONE]] [[Ultimate Reality]] that creates, sustains, destroys, encompasses, orders, and coheres [[All]] things (associative and dissociative energy) within ItSelf. 
 
 As a side note, or perhaps centrally, the flower of the Universe unfurls itself along the vortices created by the synergetic [[Reciprocal Opening]] that can *only* occur through the dance / play / harmony of the apparently polar forces that compliment and complete one another and bring forth Life. 
 
 The [[Central Animating Spirit]] of the Universe is that which rises [[Above The Chaos]] and Wisely and Consciously mediates between the apparent polarities to bring forth The Future That Is Most Good. 
 
-- [[One]] and [[All]]  
+- [[ONE]] and [[All]]  
 - [[Masculine]] and [[Feminine]]  
 - [[Yang]] and [[Yin]]   
 - Light and Dark    

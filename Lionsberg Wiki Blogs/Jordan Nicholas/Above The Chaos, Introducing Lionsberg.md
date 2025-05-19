@@ -10,20 +10,20 @@ We have been thinking about this moment since waking consciousness.
 
 It is the moment where, in response to the impending collapse of an [[Old World]], the Spirit of Absolute and Unconditional Love and its Antithesis battle for the future of the world. 
 
-We already know the outcome. [[Love]] wins. [[Love]] rises up and hovers over the chaos, confronts and overcomes the totalitarian, oppressive, and deceitful spirit that attempts to place itself above [[One]] and [[All]], and establishes a [[New Era]] and a [[New Order]] that is [[Good]]. 
+We already know the outcome. [[Love]] wins. [[Love]] rises up and hovers over the chaos, confronts and overcomes the totalitarian, oppressive, and deceitful spirit that attempts to place itself above [[ONE]] and [[All]], and establishes a [[New Era]] and a [[New Order]] that is [[Good]]. 
 
 At present, it appears bleak. The Four Horsemen are already on the run, and Hades is following them. Even greater [[Darkness]] and suffering will manifest before the [[New Dawn]]. 
 
 But what comes next in the story is incredible. 
 
-From around the world, out of seemingly nowhere, a universal [[Force For Good]] hears the call, awakens, arises, and unites to turn the tide of the battle and secure victory for [[One]] and [[All]]. 
+From around the world, out of seemingly nowhere, a universal [[Force For Good]] hears the call, awakens, arises, and unites to turn the tide of the battle and secure victory for [[ONE]] and [[All]]. 
 
 This ushers in an entirely [[New World]] that is not only perfect, but is continuing to [[Become]] [[A Little Better Every Day]] because we are all [[Working Together To Make It So]]. 
 
 ___
 This is no longer a [[Story]] of any one tribe, people, or nation. 
 
-It is a story of [[All]] tribes, [[All]] peoples, and [[All]] nations, rising up into [[Right Relationship]] with [[One]], [[One Another]], and [[All]].  
+It is a story of [[All]] tribes, [[All]] peoples, and [[All]] nations, rising up into [[Right Relationship]] with [[ONE]], [[One Another]], and [[All]].  
 
 Each and every human being alive on earth at this moment in the [[Story]] is here for a reason. Out the billions of potentials that could have manifested, you did. We did. We [[All]] did. 
 
@@ -37,7 +37,7 @@ Lionsberg is a mythical [[Word Tool]] we use to point at three deeper realities:
 
 1. The [[New World]] we are co-creating and "pulling" into [[Reality]]. 
 2. The Platform and System that connects, elevates, and empowers [[Conscious Agents]] in the [[Story]].  
-3. The Community working together to co-create the [[Best Possible Future]] in service of [[One]] and [[All]]. 
+3. The Community working together to co-create the [[Best Possible Future]] in service of [[ONE]] and [[All]]. 
 
 ___
 Right now, each of these three elements is merely a [[Starting Point]]. 

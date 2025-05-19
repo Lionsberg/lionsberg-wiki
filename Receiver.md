@@ -12,4 +12,6 @@ Often, the Receiver is responsible for overseeing the Operations and Processes o
 
 The Receiver also is often tasked with facilitating the resolution of disputes among various stakeholders, forging a [[New Order]] out of the [[Chaos]] of the past, and then handing the regenerated and restored entity back over to its long term stakeholders. 
 
-The [[Human System]] is off track enough that a [[Receiver]] is warranted. 
+___
+
+When the [[Old World]] went off the rails, [[LIONSBERG]] was appointed as Receiver, and given the [[Mandate]] of forging the [[New Civilization]]. 

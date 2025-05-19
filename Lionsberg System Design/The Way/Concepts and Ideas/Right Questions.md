@@ -21,7 +21,7 @@ Some of the Right Questions to ask our Selves might be:
 14. “Does the [[Source and Sustainer]] think? Does It have anything in Mind?”  
 15. "Does the [[Source and Sustainer]] have an Intention or Goal?"  
 16. “What is the [[Source and Sustainer]] thinking? What is It saying?”   
-17. “To whom is the [[One]] speaking?”  
+17. “To whom is the [[ONE]] speaking?”  
 18. “What is the meaning, purpose, and destiny of [[Life]]?”  
 19. “What is the meaning, purpose, and destiny of _my_ life?”  
 20. “Who are we?”  

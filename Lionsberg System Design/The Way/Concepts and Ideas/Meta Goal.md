@@ -10,10 +10,10 @@ The Meta Goal could be described as (something like):
 
 _The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._
 
-At a higher level of abstraction, it could be stated that the Meta Goal is the *will and intention* of [[One]] / God.
+At a higher level of abstraction, it could be stated that the Meta Goal is the *will and intention* of [[ONE]] / God.
 
-At the highest level of abstraction, the Meta Goal _is_ [[One]] / God. 
+At the highest level of abstraction, the Meta Goal _is_ [[ONE]] / God. 
 
 Realizing this Goal would necessitate solving the [[Total Nested Hierarchy of Issues]] and achieving the [[Total Nested Hierarchy of Goals]].
 
-This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect diverse [[Unity]] and [[Harmony]] that resides at the End of the [[Logic of Love]].
+This is our [[Current Best Understanding]] of the [[Aim]] of the [[ONE]]. It is the perfect diverse [[Unity]] and [[Harmony]] that resides at the End of the [[Logic of Love]].

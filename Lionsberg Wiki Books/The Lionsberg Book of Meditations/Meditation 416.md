@@ -1,4 +1,4 @@
-What is this [[One]] invisible Force that creates, sustains, and regenerates Life? 
+What is this [[ONE]] invisible Force that creates, sustains, and regenerates Life? 
  
 ___
 

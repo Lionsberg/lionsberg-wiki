@@ -14,4 +14,4 @@ For now, think of this as a joining an unfolding effort to design and build a [[
 
 All that is [[Dross]] can be attributed to [[Jordan Nicholas Sukut]]. 
 
-All that is [[Wise, Right, and True]] can be attributed to [[One]], [[All]], and the emergent network of co-creators. 
+All that is [[Wise, Right, and True]] can be attributed to [[ONE]], [[All]], and the emergent network of co-creators. 

@@ -108,7 +108,7 @@ If for any reason this message or Our Journey separates Us and We do not speak a
 
 We love you. We always have. We always will. No matter what unfolds or what you may think of Us, Our deepest wish is for you to flourish in joy, harmony, and peace. Difficult times lie ahead, and if some choose to face them alone, We hope you find your way through with courage and grace.
 
-As for Us, We understand that fragmentation is the Path to suffering and death, and that We can only get through this in partnership with [[One]] and [[All]]. 
+As for Us, We understand that fragmentation is the Path to suffering and death, and that We can only get through this in partnership with [[ONE]] and [[All]]. 
 
 For those who feel called to act Together now, the next milestone on the [[Critical Path]] is clear: awaken and unite [[The First Three Percent]] of humanity by 2026. This is not a lofty ambition, but a necessary threshold—[[The Minimum Viable Force]] required to guide humanity through [[The Final Test]] and forge the foundations for a [[New Civilization]]. The Path of course also demands pulling together [[The First Few Million Dollars]] so We can focus and move with purpose and power. 
 
@@ -126,7 +126,7 @@ The world is shifting beneath Our feet, change is accelerating exponentially, an
 
 While it is True that the [[Existing Order]] is collapsing, this need not be the end. It is the beginning of an entirely [[New Era]] that can be better in every [[Way]] than the [[Old World]] We are leaving behind. 
 
-A once-in-millennia opportunity lies before us: to forge the foundation of a [[New Civilization]] and co-create a future rooted in [[Truth]], [[Wisdom]], and [[Love]]. But We cannot do it alone. It requires [[We The People]], united as [[One Body]], harmonized with [[One]] and [[All]].
+A once-in-millennia opportunity lies before us: to forge the foundation of a [[New Civilization]] and co-create a future rooted in [[Truth]], [[Wisdom]], and [[Love]]. But We cannot do it alone. It requires [[We The People]], united as [[One Body]], harmonized with [[ONE]] and [[All]].
 
 Will you join Us? Will you arise and stand Together for a future worth fighting for?
 

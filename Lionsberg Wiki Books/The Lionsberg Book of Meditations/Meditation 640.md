@@ -1,4 +1,4 @@
-If an experience with [[Reality]] shakes your [[Faith]], you have placed your [[Faith]] in the wrong thing. There is only [[One]] foundation that can never be shaken. 
+If an experience with [[Reality]] shakes your [[Faith]], you have placed your [[Faith]] in the wrong thing. There is only [[ONE]] foundation that can never be shaken. 
 
 ___
 

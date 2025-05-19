@@ -1,4 +1,4 @@
-Flowing from [[One]] [[Ultimate Reality]], the highest Principle and Standard of [[Righteousness]] and [[Perfection]] must by their very definition be [[Universal]], [[Eternal]], and [[One]]. 
+Flowing from [[ONE]] [[Ultimate Reality]], the highest Principle and Standard of [[Righteousness]] and [[Perfection]] must by their very definition be [[Universal]], [[Eternal]], and [[ONE]]. 
 
 ___
 

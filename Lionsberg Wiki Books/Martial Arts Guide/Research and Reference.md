@@ -7,7 +7,7 @@
 	4. Unlocking the Natural Potential of the Being and Embodiment in concert with the Living System We are an aspect of  
 	5. It is a personal Experience  
 		1. Trials of Fire and Ice, Male and Female, Yin and Yang    
-	6. It is a [[Practice]] and [[Path]], it is a [[Way of Being]], to harmonize and unleash the Self with and in service of [[One]] and [[All]]. 
+	6. It is a [[Practice]] and [[Path]], it is a [[Way of Being]], to harmonize and unleash the Self with and in service of [[ONE]] and [[All]]. 
 2. Disbelief  
 	1. Most people see, don't believe, and don't try 
 3. Note the videos in [[J]]'s library re: electromagnetic forces in the body, attaching and releasing objects from the forehead. 

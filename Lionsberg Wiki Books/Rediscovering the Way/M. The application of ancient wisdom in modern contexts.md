@@ -12,7 +12,7 @@ In a rapidly changing world, the timeless wisdom of ancient martial arts and spi
     
 5.  **Balancing Tradition and Innovation:** Maintain a balance between preserving the integrity and essence of ancient wisdom and embracing the need for innovation and adaptation. Recognize that the principles of the Way are timeless, but their expression and application may evolve to meet the unique challenges and opportunities of modern life.
     
-6.  **Engaging with Contemporary Issues:** Use the wisdom of martial arts and spiritual traditions as a lens through which to engage with and address contemporary issues, such as social justice, environmental sustainability, and global interconnectedness. Seek ways to apply the principles and values of the Way in service of the Highest Intention and Greatest Good for [[One]] and [[All]].
+6.  **Engaging with Contemporary Issues:** Use the wisdom of martial arts and spiritual traditions as a lens through which to engage with and address contemporary issues, such as social justice, environmental sustainability, and global interconnectedness. Seek ways to apply the principles and values of the Way in service of the Highest Intention and Greatest Good for [[ONE]] and [[All]].
     
 7.  **Creating Spaces for Dialogue and Collaboration:** Foster opportunities for dialogue and collaboration between individuals and communities who are engaged in the pursuit of martial arts, spiritual transformation, and the application of ancient wisdom in modern contexts. Share insights, challenges, and successes, and work together to promote the growth and evolution of the Way.
     

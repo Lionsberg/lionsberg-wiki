@@ -8,7 +8,7 @@ As this [[Existing Order]] begins to fall, the forces behind its [[Visible Power
 
 This is the paradox of [[The Final Test]]: to preserve Our individuality, uniqueness, and freedom, We must voluntarily weave them into a [[Higher Order Functional Unity]] capable of confronting and overcoming the immense challenges ahead.
 
-Our mission is clear and unwavering. We are here to unite, serve and empower those awakening to meet this moment in history. We are here in service of [[One]] and [[All]].
+Our mission is clear and unwavering. We are here to unite, serve and empower those awakening to meet this moment in history. We are here in service of [[ONE]] and [[All]].
 
 Across the world, a small but vital portion of humanity—[[The First Three Percent]]—is already arising. These awakening souls are [[ReMembering]] their purpose, their calling, and their destiny as co-creators of a [[New Civilization]]. Together, they form a planetary grid of leadership, light, and love—250 million strong—capable of transforming humanity’s trajectory within a single generation. If you are receiving this message, you are likely one of them.
 
@@ -93,7 +93,7 @@ The path forward begins with a single step that is yours to take. Will you walk 
 
 To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header).    
 
-In Service of [[One]] and [[All]],  
+In Service of [[ONE]] and [[All]],  
 ~ [[J]]
 ____
 Please review the [[Agreement to Join The Lionsberg Alliance]]  

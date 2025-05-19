@@ -10,7 +10,7 @@ The Agreements herein map to various [[Levels of Abstraction]], enabling them to
 
 ## The Meta Agreement 
 
-The first spiritual and moral imperative is to define and live a life of integrity and [[Right Relationship]] to [[One]] and [[All]], to the [[Creator]] and [[Creation]], to the [[Source]] of Life and the [[River of Life]]. 
+The first spiritual and moral imperative is to define and live a life of integrity and [[Right Relationship]] to [[ONE]] and [[All]], to the [[Creator]] and [[Creation]], to the [[Source]] of Life and the [[River of Life]]. 
 
 - [[Template For Agreement With One And All - Eternal]]  
 - [[Template For Agreement With One And All - Temporal]] 

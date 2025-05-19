@@ -51,7 +51,7 @@ None of us can do it alone, and so we must become [[Us]].
 
 Coming into Unity is a wonderful and mystery-laden process. 
 
-Because [[One]] Spirit is inspiring the Diverse Many of [[Us]], amazing people all over the world are awakening and attempting to bring variations of the One Thing into being. [[The Golden Seed]] is present in all of them, with varying levels of Faithfulness, Understanding, Quality, and Consciousness. 
+Because [[ONE]] Spirit is inspiring the Diverse Many of [[Us]], amazing people all over the world are awakening and attempting to bring variations of the One Thing into being. [[The Golden Seed]] is present in all of them, with varying levels of Faithfulness, Understanding, Quality, and Consciousness. 
 
 The feminine principle chooses among all those on offer, which of them are Selected, and brought into Being, Cultivated, and Replicated for the Good of All. 
 

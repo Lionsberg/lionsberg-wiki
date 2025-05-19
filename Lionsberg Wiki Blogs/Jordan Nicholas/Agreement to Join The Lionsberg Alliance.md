@@ -9,7 +9,7 @@ Lionsberg was purpose-built to guide and empower humanity in this [[Quest]]: to 
 
 _**You are here for a reason.**_
 
-This agreement invites you to step forward as a sovereign, free, and uniquely gifted individual to join [[The Lionsberg Alliance]]: a voluntary federation of awakening souls united in purpose and service to [[One]] and [[All]].
+This agreement invites you to step forward as a sovereign, free, and uniquely gifted individual to join [[The Lionsberg Alliance]]: a voluntary federation of awakening souls united in purpose and service to [[ONE]] and [[All]].
 
 By participating in [[The Alliance]], you affirm your alignment with the principles of truth, love, justice, stewardship, and wisdom, and commit to co-creating the [[Best Possible Future]] for [[All]]. Together, We can weave a tapestry of strength and abundance, lifting [[One Another]] and Our world toward the fullness of Our shared potential.
 
@@ -25,7 +25,7 @@ By participating in [[The Alliance]], you affirm your alignment with the princip
     The Alliance thrives on the unique contributions of All its members. Together, We weave diverse strengths into a [[Higher Order Functional Unity]]—a body far greater than the sum of its parts. 
     
 4. **Co-Operative Governance and Just Economics**  
-	Members commit to fostering transparency, justice, and shared stewardship of teams, organizations, communities, and resources. No ally is a mere “employee”, nor does any one "own" the labor of others; All are empowered co-creators and co-stewards of their teams and communities, contributing to a wise and democratic framework that reflects the will and wisdom of [[One]] and [[All]].  
+	Members commit to fostering transparency, justice, and shared stewardship of teams, organizations, communities, and resources. No ally is a mere “employee”, nor does any one "own" the labor of others; All are empowered co-creators and co-stewards of their teams and communities, contributing to a wise and democratic framework that reflects the will and wisdom of [[ONE]] and [[All]].  
     
 5. **Minimum Standards of Interoperability**  
 	To function as [[One Body]], The Alliance establishes basic agreements, protocols and practices that enable collaboration and mutual support. These [[Minimum Standards of Interoperability]] ensure that Our diversity strengthens rather than fragments Us.
@@ -100,7 +100,7 @@ Will you walk with Us?
 
 To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header).
 
-In Service of [[One]] and [[All]],  
+In Service of [[ONE]] and [[All]],  
 ~ [[J]]
 
 [[The Seven Commitments of Every Co-Creator]] 

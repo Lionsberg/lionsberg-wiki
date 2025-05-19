@@ -39,7 +39,7 @@ Lionsberg works through interconnected individuals, groups, and localities, each
 
 Lionsberg is grounded in timeless and transcendent truths yet designed to meet the urgent needs of today, right here in Our lives and world. It is:
 
-- **A Vision of Transcendence**: A reminder of our Divine origin and destiny as sparks of the Eternal and Universal [[One]].
+- **A Vision of Transcendence**: A reminder of our Divine origin and destiny as sparks of the Eternal and Universal [[ONE]].
 - **A Guide for Manifestation**: Practical systems for governance, resource stewardship, decision-making, and integrated delivery of [[The Goal]].
 - **A Path to Incarnation**: A call to individually and locally embody these eternal and universal truths in our daily lives, relationships, and communities. This is accomplished via poly-centric localization and adaptation of [[The Lionsberg Pattern Language]]. 
 

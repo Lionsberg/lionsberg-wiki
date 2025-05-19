@@ -25,7 +25,7 @@ There is lots more—well over two million words of interlinked writing—but th
 
 Love and respect, and thank you for diving in. 
 
-In Serve of [[One]] and [[All]], 
+In Serve of [[ONE]] and [[All]], 
 
 ~ J 
 

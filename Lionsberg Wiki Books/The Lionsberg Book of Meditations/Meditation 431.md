@@ -1,4 +1,4 @@
-An obvious yet hidden fact is that by definition there can only be [[One]] Ultimate Unity. 
+An obvious yet hidden fact is that by definition there can only be [[ONE]] Ultimate Unity. 
 
 ___
 

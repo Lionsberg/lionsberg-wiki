@@ -11,11 +11,11 @@ It was our **[[Old]] Way of Being** that spiraled Us down towards the hellish de
 
 It is Our **[[New]] Way of Being** that Eternally spirals Us up towards the Heavenly Heights in every [[Domain]] We [[InFluence]] and [[InHabit]].  
 
-The Highest [[Way]] is unwritten, ineffable, and eternally Beyond Our grasp. Like the [[One]] It Flows From, It expands and recedes in its Infinite Perfection and Glory as We approach It. 
+The Highest [[Way]] is unwritten, ineffable, and eternally Beyond Our grasp. Like the [[ONE]] It Flows From, It expands and recedes in its Infinite Perfection and Glory as We approach It. 
 
 And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, Coherence, and Flow requires that We [[Incarnate]] local *reflections* in [[SpaceTime]] that enable Us to experience, grapple with, and Ultimately ReTranscend Our Reality. 
 
-[[LIONSBERG]] is One of these reflections, emanating from the [[One]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good. 
+[[LIONSBERG]] is One of these reflections, emanating from the [[ONE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good. 
 
 When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within. 
 

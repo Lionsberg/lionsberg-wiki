@@ -10,7 +10,7 @@ Which can be Tuned.
 
 If We are tuning, what shall We tune to? 
 
-It is of course, the Deepest Thing. The Fundamental Tone. The [[One]]. 
+It is of course, the Deepest Thing. The Fundamental Tone. The [[ONE]]. 
 
 Over the next 50 days, We are going to begin an intensive process of tuning and transforming Our Spirit, Mind, and Body to prepare for what lies ahead. 
 

@@ -1,4 +1,4 @@
-Arising out of eternity, entering [[SpaceTime]] for a brief moment, and then returning to eternity, [[All]] creatures are children of [[One]] God. 
+Arising out of eternity, entering [[SpaceTime]] for a brief moment, and then returning to eternity, [[All]] creatures are children of [[ONE]] God. 
 
 ___
 

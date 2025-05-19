@@ -1,4 +1,4 @@
-[[Love]] is an expansionary Force that incorporates ever more of [[All]] in One. The Spirit of Love, fractally incarnated as a local individuated expression of Itself, then expands Itself back out to consciously incorporate more and more of [[All]] within Itself until Universal [[Reunion]] is achieved. How much of the manifest universe can we Consciously encompass with Absolute and Unconditional Light and Love? How closely can we approach the [[Absolute And Unconditional Love]] of [[One]] for [[All]]? 
+[[Love]] is an expansionary Force that incorporates ever more of [[All]] in One. The Spirit of Love, fractally incarnated as a local individuated expression of Itself, then expands Itself back out to consciously incorporate more and more of [[All]] within Itself until Universal [[Reunion]] is achieved. How much of the manifest universe can we Consciously encompass with Absolute and Unconditional Light and Love? How closely can we approach the [[Absolute And Unconditional Love]] of [[ONE]] for [[All]]? 
 
 ___
 

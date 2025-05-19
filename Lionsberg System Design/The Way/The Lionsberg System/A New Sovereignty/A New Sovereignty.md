@@ -41,24 +41,24 @@ In other places we have described the [[Meta Idea]] that we are pointing at as a
 ## Sovereign Individuals...
 The first idea is that the primary locus of Sovereignty lies not with any temporal form of government, but with the eternal Divine element within each Individual. 
 
-[[All]] Individuals are the core units that directly flow from and relate to [[One]] Source / God.
+[[All]] Individuals are the core units that directly flow from and relate to [[ONE]] Source / God.
 
-In the ancient sacred imagery, if we anthropomorphize [[One]] as "King", then each of us are "sons and daughters of the King", and possess all the inalienable rights and responsiblities as equal members of one royal / Divine family. 
+In the ancient sacred imagery, if we anthropomorphize [[ONE]] as "King", then each of us are "sons and daughters of the King", and possess all the inalienable rights and responsiblities as equal members of one royal / Divine family. 
 
 ## Our Primary Identity
-Because we are all children of [[One]] Source, our primary identity is not tied up or bound in any existing temporal / human structure(s). Our primary identity is as equal members of [[One]] eternal and universal family. 
+Because we are all children of [[ONE]] Source, our primary identity is not tied up or bound in any existing temporal / human structure(s). Our primary identity is as equal members of [[ONE]] eternal and universal family. 
 
 From this standpoint, all existing structures and governments are inherently sub-ordinate to the individual, and bound to _serve_ the individuals, for as long as the individuals choose to voluntarily delegate authority to it. 
 
 ## Our Secondary Identities
 When we were thrown into the [[Old World]] at birth, nearly all of us were indoctrinated into secondary identities, and brainwashed as children with propaganda meant to cultivate love and loyalty to certain ideas and power structures, and fear of others.  We are now all coming to realize, relatively simultaneously, that many of the stories we were indoctrinated into were not quite True.  
 
-Because we are primarily identified with [[One]] Source and Sustainer of [[All]] life and consciousness, we are completely free and at liberty to take up or lay down any secondary identities we have voluntarily acquired or been brainwashed into. 
+Because we are primarily identified with [[ONE]] Source and Sustainer of [[All]] life and consciousness, we are completely free and at liberty to take up or lay down any secondary identities we have voluntarily acquired or been brainwashed into. 
 
 We are also free to forge new ones. 
 
 ## A New Citizenship
-If we recognized that we are [[All]] One family, equally loved and deserving of the opportunity to develop into the fullness of our potential and flourish together in harmony with [[One]] and [[All]], but that we were alienated from that truest and highest unity by temporal power structures that have grown corrupted and are no longer serving us well... 
+If we recognized that we are [[All]] One family, equally loved and deserving of the opportunity to develop into the fullness of our potential and flourish together in harmony with [[ONE]] and [[All]], but that we were alienated from that truest and highest unity by temporal power structures that have grown corrupted and are no longer serving us well... 
 
 ...We could choose to voluntarily design, build, and take up a [[New Citizenship]]. 
 
@@ -148,17 +148,17 @@ As the difference between the efficiency, benefits, and impact of the Old and Ne
 
 As the New grows and coordinates itself, it will be able to vote with its resources, vote with its feet, and vote with its votes in all times and places in order to place in positions of influence New servant leaders who bring the entirety of the Old into conformance with the New. 
 
-And having regained their freedom and sovereignty, and thrown off the yoke of oppression, they will never again suborindate themselves to any but [[One]]. 
+And having regained their freedom and sovereignty, and thrown off the yoke of oppression, they will never again suborindate themselves to any but [[ONE]]. 
 
 ## Milestone 15: Passing the Baton
 Having gone through the once-in-millennia opportunity to forge something New out of the chaos of the Old, it would be time to begin passing the baton, and the rising generation would be ready for it, because we had been helping them every day take on greater and greater challenges in preparation for it. 
 
-And of this New Sovereign Community of [[One]] and [[All]], there shall be no end. 
+And of this New Sovereign Community of [[ONE]] and [[All]], there shall be no end. 
 
 ## A Dwelling Place Suitable For All 
-Who shall we include in this New Sovereignty? [[All]] that flow from [[One]]. Even the difficult ones. 
+Who shall we include in this New Sovereignty? [[All]] that flow from [[ONE]]. Even the difficult ones. 
 
-We are [[All]] [[One]] family. One body. One Sovereignty. One super nation. 
+We are [[All]] [[ONE]] family. One body. One Sovereignty. One super nation. 
 
 There is a citizenship in the New World available for everyone without exception who abides by the [[Provisional Code]] and honors the [[Values]]. How quickly can we invite humanity to take up their New citizenships, and gain access to all the benefits of the New? 
 

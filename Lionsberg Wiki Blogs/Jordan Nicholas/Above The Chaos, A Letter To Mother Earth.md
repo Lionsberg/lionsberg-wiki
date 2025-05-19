@@ -34,7 +34,7 @@ We are listening. We are moving. We are trying. We are growing. We are rising. T
 
 While we are not the rulers of the Old World, we are the humble servants of The New. We are the meek who are arising to inherit the Earth. While we are not the Kings and Priests of The Old, under The New we are All awakening to our Divine origin, rights, responsibilities, and our eternal and universal Divine Union and interexistence with our Great Father and our Great Mother. 
 
-We are not the rulers of the Old, but we are arising to take the lead in The New. You asked for the Old Rulers to heed your voice, but it is We, the Constituents of the New, who are hearing and moving and responding, from Spirit and heart, with reciprocity, collaboration, unity, and flow. In service of [[One]] and [[All]]. 
+We are not the rulers of the Old, but we are arising to take the lead in The New. You asked for the Old Rulers to heed your voice, but it is We, the Constituents of the New, who are hearing and moving and responding, from Spirit and heart, with reciprocity, collaboration, unity, and flow. In service of [[ONE]] and [[All]]. 
 
 Per your instructions, through careful consultation and discernment with representatives from tribes and nations around the world, we have been laying the foundations through [[The 7 Year Window of Preparatory Work and Learning]] for a [[10 Year Grand Strategy]] that as of March 1, 2024 is now underway. We have done our best to hear and follow your direction on Timing, and we pray it is not too late for billions of lives to be spared. As time is of the essence, we now humbly submit this offering to you, Our Father, and your Elder Children for review, discernment, improvement, and approval. 
 

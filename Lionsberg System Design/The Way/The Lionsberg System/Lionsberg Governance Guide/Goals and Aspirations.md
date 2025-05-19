@@ -10,6 +10,6 @@ A close approximation can be found in articulations like the United Nations Sust
 
 See [[Total Nested Hierarchy of Goals]].  
 
-The [[Total Nested Hierarchy of Goals]] is unified by [[One]] overarching and uniting [[Meta Goal]].  
+The [[Total Nested Hierarchy of Goals]] is unified by [[ONE]] overarching and uniting [[Meta Goal]].  
 
 The Purpose of the [[System]] is to bring the [[Total Nested Hierarchy of Goals]] into [[Reality]]. 

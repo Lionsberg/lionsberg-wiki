@@ -37,9 +37,9 @@ Millennia of spiritual abuse and deception has taught us to ostracize, label as 
 
 And yet isn't the blowing up of citizens in planes and buildings, the deliberate falsification of religious texts for the masses, they devastation of countless species and ecosystems, the accelerating construction of concentration camps, and the ongoing genocide of tens of millions of Us enough to make Us wonder? 
 
-Do the Presidents, Kings, Priests, and Bureaucrats humanity presently is sacrificing 50% of its resources and its planet to really have the Highest interests of [[One]] and [[All]] at heart? 
+Do the Presidents, Kings, Priests, and Bureaucrats humanity presently is sacrificing 50% of its resources and its planet to really have the Highest interests of [[ONE]] and [[All]] at heart? 
 
-Are they really acting as Good Stewards of Our Lives and Our World in service of [[One]] and [[All]]? 
+Are they really acting as Good Stewards of Our Lives and Our World in service of [[ONE]] and [[All]]? 
 
 ### **Do you still trust your government?**
 

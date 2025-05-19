@@ -2,7 +2,7 @@ In the Old Testament, God warns Israel not to make any one of them a king.
 
 In the New Testament, Jesus warns his disciples not to make any one of them a priest. 
 
-The [[One]] message is that we are [[All]] kings and priests. Each one who directly and righly relates to the [[One]] is sovereign and free. 
+The [[ONE]] message is that we are [[All]] kings and priests. Each one who directly and righly relates to the [[ONE]] is sovereign and free. 
 
 The Governments and Religions of the [[Old World]] were accepted by humanity as if they were Absolute. This is not the [[Way]]. 
 

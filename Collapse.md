@@ -11,7 +11,7 @@
     [[Collapse]] brings disruption to daily life, dismantling the stability and predictability that societies and individuals depend upon. This leads to widespread uncertainty and chaos.
     
 3. **Psychological and Spiritual Crisis:**  
-    The disintegration of long-standing systems can cause existential despair, fear, and confusion. However, it also presents an opportunity for deeper awakening and reconnection with [[One]], [[One Another]], and [[All]].
+    The disintegration of long-standing systems can cause existential despair, fear, and confusion. However, it also presents an opportunity for deeper awakening and reconnection with [[ONE]], [[One Another]], and [[All]].
     
 4. **Opportunities for Renewal:**  
     In the void left by [[Collapse]], seeds for a new [[Order]] can be planted. This requires wisdom, resilience, and unity to rebuild systems and paradigms aligned with truth, justice, and harmony.

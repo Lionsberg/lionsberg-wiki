@@ -4,7 +4,7 @@ Recognizing that the most significant crisis and opportunity in history is at ha
 
 Doing nothing is likely the most risky / harmful course of action. 
 
-Hoping that the existing organizations and institutions will suddenly reform themselves, come back to life, and coordinate themselves in service of [[One]] and [[All]] is not realistic. 
+Hoping that the existing organizations and institutions will suddenly reform themselves, come back to life, and coordinate themselves in service of [[ONE]] and [[All]] is not realistic. 
 
 Top down / overly centralized / authoritarian solutions are highly likely to fail, or devolve into extended authoritarian control. 
 
@@ -42,6 +42,6 @@ We are avoiding some of the known methods that harm / fail by:
 
 Most of all, we are attempting to thoughtfully articulate a [[Way of Being]] that is as wise, as competent, and as good as we possibly can, and to ensure that we [[Become]] [[A Little Better Every Day]] as we advance towards the Goal, by [[Helping All Do The Same]].  
 
-We are doing our best in service to accomplish the [[Meta Goal]] in service of [[One]] and [[All]], and we believe that is the safest, most helpful, and most powerful paradigm through which we could perceive and act in this moment in history. 
+We are doing our best in service to accomplish the [[Meta Goal]] in service of [[ONE]] and [[All]], and we believe that is the safest, most helpful, and most powerful paradigm through which we could perceive and act in this moment in history. 
 
 By empowering a global community to voluntarily coordinate resources and energy in service of the [[Highest Intention and Greatest Good]] we can conceive of, the possibility of solving the [[Meta Crisis]] and accomplishing the [[Meta Goal]] comes into reality. 

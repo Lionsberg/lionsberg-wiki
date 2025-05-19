@@ -1,4 +1,4 @@
-Our [[Selves]] are elevated and transformed towards [[Perfection]] by drawing ever nearer to [[One]]. 
+Our [[Selves]] are elevated and transformed towards [[Perfection]] by drawing ever nearer to [[ONE]]. 
 
 ___
 

@@ -1,4 +1,4 @@
-The [[One]] never leaves any one behind. 
+The [[ONE]] never leaves any one behind. 
 
 ___
 

@@ -200,7 +200,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - It’s main tenant is divide and conquer, and keep divided to keep conquered 
 - It does this in a number of ways, including by consciously over-specializing people to isolate them from other specialists, as opposed to cultivating general adaptation.  
 - Indigenous cultures around the world had a different view of the land. For instance Chief Seattle said “This we know: the earth does not belong to man;  man belongs to the earth. All things are connected.  We may be brothers after all. We shall see. One  thing we know which the white man may one day discover: our God is the same God.
-- There is only [[One]] Creator. All Creation belongs to [[One]]. 
+- There is only [[ONE]] Creator. All Creation belongs to [[ONE]]. 
 - [[All Creation]] is our collective inheritance. There is more than enough. We are all billionaires. 
 - So how did so many come to be mired in debt and poverty, and a few become so wealthy? 
 
@@ -816,7 +816,7 @@ ____
 
 ### Humans in Universe 
 
-- Establishes the role of human beings as local Universe information-gathers and problem-solvers operating in service of [[One]] and [[All]]. 
+- Establishes the role of human beings as local Universe information-gathers and problem-solvers operating in service of [[ONE]] and [[All]]. 
 - Mind possibly may  serve as the essential, anti-entropic (syntropic) function  for eternally conserving the omni-interaccommodative,  nonsimultaneous, and only partially overlapping, omniintertransforming, self-regenerating scenario—which We speak of as Universe.  
 - Mind, operative aboard our planet Earth and probably  elsewhere in Universe in a myriad of effective circumstances, can and may perform the paramount function of  conserving the scenario “Universe.” If so, it will have to  be accomplished by apprehending, comprehending, and  teleologically employing the metaphysical, weightless,  omni-intercooperative generalized principles of Universe  in strategically effective degree and within a critical time  limit. 
 - This can be accomplished in progressively more effective ways—for instance, by Earthians competently “fielding” all those physical energy increments entropically  broadcast by the stars, which happen to impinge kinetically upon our Earth as it orbits the Sun. Employing the  appropriate biological and physiological principles, these  receipts must be collected, sorted, analyzed, synergetically comprehended, and symmetrically combined into  complex but orderly, macro-and-micro-cohering aggregates.

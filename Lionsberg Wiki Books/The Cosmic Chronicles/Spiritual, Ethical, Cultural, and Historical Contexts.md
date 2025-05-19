@@ -12,8 +12,8 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
 
 1. **Unity with Source:**
     
-    - Across traditions, the Creator or Ultimate Reality is the [[One]] grounding principle that generates and unites [[All]] existence. Spiritual evolution involves reharmonizing with and returning to this Ultimate Source, recognizing the interconnectedness and interexistence of [[All]] beings.
-    - **Implications:** Humanity’s spiritual awakening requires transcending the apparent dualities it is separated by to realign with the universal principles of Truth, Love, Justice, Stewardship, Wisdom, and Ultimately the [[One]] from which the [[Total Nested Hierarchy of Values]] arises.
+    - Across traditions, the Creator or Ultimate Reality is the [[ONE]] grounding principle that generates and unites [[All]] existence. Spiritual evolution involves reharmonizing with and returning to this Ultimate Source, recognizing the interconnectedness and interexistence of [[All]] beings.
+    - **Implications:** Humanity’s spiritual awakening requires transcending the apparent dualities it is separated by to realign with the universal principles of Truth, Love, Justice, Stewardship, Wisdom, and Ultimately the [[ONE]] from which the [[Total Nested Hierarchy of Values]] arises.
 2. **Sacred Cosmologies:**
     
     - Indigenous and ancient traditions accurately describe the cosmos as a living, conscious system, populated by a vast diversity of divine, elemental, and interdimensional beings.

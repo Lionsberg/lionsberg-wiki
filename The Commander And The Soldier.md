@@ -46,7 +46,7 @@ He approached one of the Warriors.
 
 "No." 
 
-"Do you think this is what [[One]] would want done?"  
+"Do you think this is what [[ONE]] would want done?"  
 
 "No."
 
@@ -56,8 +56,8 @@ He approached one of the Warriors.
 
 The Commander sighed and looked discouraged. 
 
-"Do you still not understand? You are free now. You are no longer bound by the rules and false hierarchies of the [[Old World]]. There is only [[One]] you should fear and obey. Until there is only [[One]] that we [[All]] Ultimately [[Fear]] and [[Obey]], it will not be possible to win [[The Great Battle]]."  
+"Do you still not understand? You are free now. You are no longer bound by the rules and false hierarchies of the [[Old World]]. There is only [[ONE]] you should fear and obey. Until there is only [[ONE]] that we [[All]] Ultimately [[Fear]] and [[Obey]], it will not be possible to win [[The Great Battle]]."  
 
-"Now stand on the level ground you have created, and resist with all your might any attempt of this Century to violate what you know in your soul to be the [[Commander's Intent]]. I will stand with you, and I will deal with false leader who has set himself up in opposition to the Will and Intention of the [[One]], and who is ordering others to do the same. As you stand and refuse to the orders, I suspect that the vast majority of the Century will stand with you. Be strong. Be courageous. And do whatever is in your power to bring this Century back into [[Harmony]] the [[Perfect]] Will and [[Authority]] of the [[One]]. Whatever happens, be willing to die or be excommunicated by this Century before you sacrifice your own Integrity by adding your energy and strength to the mutiny of this false leader." 
+"Now stand on the level ground you have created, and resist with all your might any attempt of this Century to violate what you know in your soul to be the [[Commander's Intent]]. I will stand with you, and I will deal with false leader who has set himself up in opposition to the Will and Intention of the [[ONE]], and who is ordering others to do the same. As you stand and refuse to the orders, I suspect that the vast majority of the Century will stand with you. Be strong. Be courageous. And do whatever is in your power to bring this Century back into [[Harmony]] the [[Perfect]] Will and [[Authority]] of the [[ONE]]. Whatever happens, be willing to die or be excommunicated by this Century before you sacrifice your own Integrity by adding your energy and strength to the mutiny of this false leader." 
 
 "[[The Great Battle]] is not against an enemy that is "out there". As you can see, winning [[The Great Battle]] requires first winning the battle within. The battle for our own souls, our own integrity, our own coherence."  

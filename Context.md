@@ -41,11 +41,11 @@ Confronting and overcoming the current global complex of crises will require no 
 
 This unique moment in history demands that all humanity arise and work together in a universal [[Meta Project]] massive enough to confront and overcome the [[Meta Crisis]], and forge the [[Best Possible Future]] for All. 
 
-The [[Meta Project]] is universal, eternal, and Absolute. No one owns, controls, or can contain it. It is simply the sum total of what must be done together by us, the human species, in partnership with [[One]] and [[All]], at this critical juncture in the [[Meta Story]]. 
+The [[Meta Project]] is universal, eternal, and Absolute. No one owns, controls, or can contain it. It is simply the sum total of what must be done together by us, the human species, in partnership with [[ONE]] and [[All]], at this critical juncture in the [[Meta Story]]. 
 
 To accomplish it, we must pragmatically organize ourselves so that we can govern our Selves, make decisions, navigate, allocate resources, transfer funds, and remain in compliance with rule of law around the globe. 
 
-Because we could not identify a System and Structure capable of accomplishing this, we are doing our best to co-create one in service of [[One]] and [[All]]. This is the purpose and intent of the [[Lionsberg System]].  
+Because we could not identify a System and Structure capable of accomplishing this, we are doing our best to co-create one in service of [[ONE]] and [[All]]. This is the purpose and intent of the [[Lionsberg System]].  
 
 ### The Meta Game 
 

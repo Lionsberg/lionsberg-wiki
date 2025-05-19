@@ -2,7 +2,7 @@
 
 Voluntary consent is a core principle in establishing agreements, contracts, and collaborations between individuals, groups, or organizations. It is the act of willingly and knowingly agreeing to participate in an arrangement or relationship without coercion, manipulation, or undue pressure. This principle ensures that all parties involved in an agreement have a clear understanding of their rights, responsibilities, and the terms of the agreement, and that they enter into it of their own free will.
 
-Voluntary consent is essential for creating trust, mutual respect, and fairness in relationships and collaborations. It is particularly important in the context of the [[Lionsberg System]] and its values of integrity, love, compassion, and [[Right Relationship]] with [[One]], [[All]], and [[Self]].
+Voluntary consent is essential for creating trust, mutual respect, and fairness in relationships and collaborations. It is particularly important in the context of the [[Lionsberg System]] and its values of integrity, love, compassion, and [[Right Relationship]] with [[ONE]], [[All]], and [[Self]].
 
 To ensure voluntary consent in agreements:
 

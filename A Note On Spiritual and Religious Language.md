@@ -35,7 +35,7 @@ If we are to avoid catastrophic failure, we must arise and unite.
 
 *Around what? Under what banner?*
 
-There can only be [[One]] that unites Us [[All]]. 
+There can only be [[ONE]] that unites Us [[All]]. 
 
 Therefore, the entire Lionsberg System and Approach is centered around a New Covenant between the Creator and All Creation, and the Mission and Goal of Lionsberg is to enable the emergence of One Citizenship, Under God, Indivisible, with Liberty and Justice for All. A Higher Order Functional Unity among the Force For Good actually capable of meeting the needs, solving the problems, and accomplishing the goals at hand, while navigating courageously together, as One Body, towards Destiny. 
 

@@ -18,7 +18,7 @@ The Cosmic sense of humor starts to make it Self more manifest.
 
 We come to Understand how much of Co-Creation is Art and Joy. 
 
-As We mentioned before, homo sapiens originate, along with All manifestations of Life and Consciousness, from the [[One]] Ultimate Reality, or Creator. 
+As We mentioned before, homo sapiens originate, along with All manifestations of Life and Consciousness, from the [[ONE]] Ultimate Reality, or Creator. 
 
 This Creator, however, is far superior to, and more distantly removed from, the lesser discrete, embodied Creatures known as the Elohim, Annunaki, Nommo, Star People (insert Word Tool from each human language and legacy) who "created" human beings "in their image" and have been engineering and seeding Life across the Cosmos, and "here" locally on Earth, for millions of years. 
 

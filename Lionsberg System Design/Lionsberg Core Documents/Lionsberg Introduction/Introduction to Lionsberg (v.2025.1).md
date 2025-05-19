@@ -9,7 +9,7 @@ Welcome to Lionsberg.
 
 As humanity faces into a [[Meta Crisis]] of epic proportions—threatening our freedoms, foundations, and future—there is a self-evident need for free and enlightened citizens to arise, unite, and work together **beyond existing structures** to meet this moment and forge the just, free, and flourishing future we all desire.
 
-Since 2017, [[Jordan Nicholas Sukut]] and allies have been quietly building the infrastructure for an unprecedented [[Citizen Led Response]]. With [[The 7 Year Window of Preparatory Work and Learning]] now complete, Lionsberg is advancing the [[10 Year Grand Strategy]] to empower individuals, teams, and localities to awaken, arise, and unite in service to [[One]] and [[All]]. 
+Since 2017, [[Jordan Nicholas Sukut]] and allies have been quietly building the infrastructure for an unprecedented [[Citizen Led Response]]. With [[The 7 Year Window of Preparatory Work and Learning]] now complete, Lionsberg is advancing the [[10 Year Grand Strategy]] to empower individuals, teams, and localities to awaken, arise, and unite in service to [[ONE]] and [[All]]. 
 
 We are seeking courageous individuals to _**commit**_ their time, energy, and resources to advance [[The Quest]]—come what may.
 

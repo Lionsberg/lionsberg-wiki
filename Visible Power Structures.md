@@ -52,6 +52,6 @@ To pass [[The Final Test]], humanity must:
 
 - Recognize the limitations and complicity of [[Visible Power Structures]].
 - Withdraw consent, participation, and energy from those perpetuating corruption and division.
-- Develop alternative systems rooted in [[Self-Governance]], [[Self-Sustainability]], and [[Co-Creation]] with [[One]], [[One Another]], and [[All]].
+- Develop alternative systems rooted in [[Self-Governance]], [[Self-Sustainability]], and [[Co-Creation]] with [[ONE]], [[One Another]], and [[All]].
 
 By discerning the true nature of [[Visible Power Structures]] and their interplay with [[Invisible Power Structures]], humanity can transcend the [[Existing Order]] and forge a path to the [[New Era]].

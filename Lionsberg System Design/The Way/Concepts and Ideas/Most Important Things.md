@@ -14,4 +14,4 @@ Coming soon / [[Work In Progress]]...
 - How Now Should We Live / Be / Do in light of all we have come to know?  
 - What are the timeless and universal Wisdom, Principles, and Values that cause people, societies, and living systems to flourish?  
 - How can we [[Cross The Chasm]] between [[Where We Are]] and [[Where We Are Going]]?  
-- How do we [[Right Relationship|Rightly Relate]] to [[One]] and [[All]]?  
+- How do we [[Right Relationship|Rightly Relate]] to [[ONE]] and [[All]]?  

@@ -76,7 +76,7 @@ Imagine this [[New World]] in as much detail as possible.
 - How do people relate to Future Generations?  
 - What Values permeate and define it?  
 - What is the Central Animating Spirit that guides its subsequent transformations across Space and Time?  
-- What does it look like when all Creation is rightly relating to [[One]], One Another, and All?  
+- What does it look like when all Creation is rightly relating to [[ONE]], One Another, and All?  
 - What are the dynamics of a System in which All things are **Helping One Another** spiral up towards the fullness of their **Unique Potential**, and flourish in **Diverse Harmony**?   
 - Can you grasp the intuition of a New World that is already perfect, yet it continues to get [[A Little Better Every Day]] as all people and all Creation work together in harmony to make it so?   
 - Can you feel the Co-Creative process through which Heaven progressively descends and touches the Earth, generation after generation throughout the emerging New Millennium?   

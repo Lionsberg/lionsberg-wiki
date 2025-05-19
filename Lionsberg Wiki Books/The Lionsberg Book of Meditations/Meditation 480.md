@@ -1,6 +1,6 @@
 Even the great mountains, deserts, and seas come and go. Nothing in [[Reality]] remains. 
 
-When you understand the [[One]] thing that remains constant as [[All]] other things change, you are on the [[Way]] towards [[Truth]]. 
+When you understand the [[ONE]] thing that remains constant as [[All]] other things change, you are on the [[Way]] towards [[Truth]]. 
 
 ___
 

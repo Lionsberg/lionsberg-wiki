@@ -14,6 +14,6 @@ One [[Way]] this occurs when the [[Lionsberg System]] is [[Instantiation|Instant
 
 Each one of these [[Pockets Of Coherence, Integrity, and Proper Order]] can be told as a [[Story]], and [[Every Story Is A Prophesy]] of something even Greater that is [[Possible]]. 
 
-Let us nurture, cultivate, and co-create ever more Pockets of Coherence, and begin to watch as they connect together in [[Right Relationship]] with [[One]] and [[All]]. 
+Let us nurture, cultivate, and co-create ever more Pockets of Coherence, and begin to watch as they connect together in [[Right Relationship]] with [[ONE]] and [[All]]. 
 
 The first place every individual can establish [[Coherence]] and [[Integrity]] is in their Self, and their [[Small Groups]].  

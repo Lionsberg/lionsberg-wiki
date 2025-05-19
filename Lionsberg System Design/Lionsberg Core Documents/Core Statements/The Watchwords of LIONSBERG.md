@@ -2,7 +2,7 @@
 
 ### **Words of Power, Vigilance, and Destiny**
 
-The Watchwords of **LIONSBERG** are more than just phrases—they are **living keys of remembrance**, **rallying cries of action**, and **challenges of allegiance** for those who stand for **[[One]] and [[All]]**.
+The Watchwords of **LIONSBERG** are more than just phrases—they are **living keys of remembrance**, **rallying cries of action**, and **challenges of allegiance** for those who stand for **[[ONE]] and [[All]]**.
 
 Each Watchword carries **encoded meaning**, **strategic power**, and **spiritual force**, binding together those who hear **The Call** and are ready to rise in **Truth, Honor, and Love**.
 

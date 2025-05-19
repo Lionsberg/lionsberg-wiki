@@ -10,11 +10,11 @@ The reason for this is that both questions assume and assert within themselves, 
 
 Each of the billions of us alive on Earth today was born into a fundamentally broken religious paradigm. For some of us, that meant being born into one of the hundreds of religious denominations or institutionalized religions who teach that they are the only way towards salvation, often on the pain of eternal damnation. For others of us, that meant being born into the rejection of some or all of those broken denominations, and a deep and also broken agnosticism. 
 
-When I use the [[Word Tool]] "[[God]]", I am pointing *by definition* to the [[One]]. The [[Ultimate Reality]]. The [[Absolute]].  The Transcendent Ultimacy that definitionally is the Deepest and Highest. My use of the word [[God]] is not a matter of religion. It is matter of *definition.*
+When I use the [[Word Tool]] "[[God]]", I am pointing *by definition* to the [[ONE]]. The [[Ultimate Reality]]. The [[Absolute]].  The Transcendent Ultimacy that definitionally is the Deepest and Highest. My use of the word [[God]] is not a matter of religion. It is matter of *definition.*
 
-Rediscovering the [[One]] that is *by definition* beyond human propositional understanding, and therefore beyond religious dogma, is essential to [[Progressive Realization]] of a [[New Covenant]] mediated not by the Word, but by the Spirit.  
+Rediscovering the [[ONE]] that is *by definition* beyond human propositional understanding, and therefore beyond religious dogma, is essential to [[Progressive Realization]] of a [[New Covenant]] mediated not by the Word, but by the Spirit.  
 
-This involves an evolution of human conscious beyond the [[Categories]] and [[Propositional Knowledge]] we idolized and institutionalized in our collective adolescence, to re-embrace the Mystery of the Whole as One Divine Creation, the [[All]] as the manifest Body of the [[One]], permeated and animated by the Spirit of God, the [[Central Animating Spirit]] of Creation.  
+This involves an evolution of human conscious beyond the [[Categories]] and [[Propositional Knowledge]] we idolized and institutionalized in our collective adolescence, to re-embrace the Mystery of the Whole as One Divine Creation, the [[All]] as the manifest Body of the [[ONE]], permeated and animated by the Spirit of God, the [[Central Animating Spirit]] of Creation.  
 
 As long as we [[Worship]] our Propositional Understanding of [[God]], rather than the transcendent and ineffable [[Ultimate Reality]] of [[God]] *as such*, we remain imprisoned in the devastating grasp of an idolatry that dooms us collectively towards religious, ideological, and social fragmentation and Hell. 
 

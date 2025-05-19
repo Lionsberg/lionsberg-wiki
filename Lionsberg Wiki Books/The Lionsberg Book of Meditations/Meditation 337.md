@@ -1,4 +1,4 @@
-The words of [[Jesus]] and every other illuminated being always point back to the [[One]], the Creative Source and Sustainer of All Energy, Life and Consciousness. 
+The words of [[Jesus]] and every other illuminated being always point back to the [[ONE]], the Creative Source and Sustainer of All Energy, Life and Consciousness. 
 
 ___
 

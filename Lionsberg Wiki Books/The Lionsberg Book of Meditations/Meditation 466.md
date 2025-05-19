@@ -1,4 +1,4 @@
-There can only be [[One]] [[Central Organizing Relationship]]. 
+There can only be [[ONE]] [[Central Organizing Relationship]]. 
 
 ___
 

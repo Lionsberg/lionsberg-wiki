@@ -10,12 +10,12 @@
 - We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[One Body]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
 - Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[One Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Reality in [[Enlightened Service to One and All]].  
 - We ReAcknowledge that [[All Creation]] is One Living and Interexistent System, and that [[What We Do Or Do Not Do To Any, We Do Or Do Not Do Unto One, Our Selves, And All]]. 
-- We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between [[One]], [[One Another]], and [[All]]. 
+- We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between [[ONE]], [[One Another]], and [[All]]. 
 - Our Overarching and Uniting Purpose, Aim and Goal 
 - The Spirit and The Letter of The Law
 - Whereas our former existence in the [[Old World]] was governed by [[The Letter Of The Law]], We hereby commit to a [[New Covenant]] governed by [[The Spirit]], [[Wisdom]], [[Principles]], and [[Values]] that cause people, societies, and the Living System [[We]] are a part of to [[Flourish]] in [[Harmony]] and [[Coherence]].    
-- Whereas [[The Letter Of The Law]] became burdensome and degenerated into a mere restraint on the worst tendencies of humankind, we hereby voluntary commit Our [[Selves]], of our own [[Free Will]], to Do Our Best to enact and embody [[The Spirit]] that not only fulfills the Word of [[The Law]], but actively creates, sustains, and regenerates Life and Society, and is even willing to lay down its own Life out of [[Love]] in service to [[One]] and [[All]]. 
-- In the New World, there is only [[One]] Supreme Law. 
+- Whereas [[The Letter Of The Law]] became burdensome and degenerated into a mere restraint on the worst tendencies of humankind, we hereby voluntary commit Our [[Selves]], of our own [[Free Will]], to Do Our Best to enact and embody [[The Spirit]] that not only fulfills the Word of [[The Law]], but actively creates, sustains, and regenerates Life and Society, and is even willing to lay down its own Life out of [[Love]] in service to [[ONE]] and [[All]]. 
+- In the New World, there is only [[ONE]] Supreme Law. 
 - While we intend to comply with the aspects of the body of accumulated Law that Order Our Civilization and are Wise, Right, and Good, we also recognize that many existing laws have been surreptitiously instituted by corrupt actors and special interests in various Domains to intentionally subvert the cause of Justice, and that it is Our Moral Obligation to [[Break The Rules In Order To Do What Is Right]] before the Highest Authority and Universal Law, and to proactively transform or abolish accumulated laws that are antithetical to [[The Goal]] in an intentional and responsible manner. 
 - We hereby reassert the Self-Evident Realization that the [[Locus of Sovereignty]], [[Authority]], and [[Responsibility]] lies with [[Individuals]], Who are Responsible before [[God]] and [[All]] these witnesses to do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons in their own Time and Space, which only they can fully Know. 
 - This understanding inherently cannot be legislated or compelled. It can only be voluntarily adopted and Embodied by Individuals, In Spirit, of their own [[Free Will]]. 
@@ -39,7 +39,7 @@ We Commit to Stewarding [[The Commons]] with Wisdom, Responsibility and Care, an
 
 We further declare that all Wisdom, Knowledge, Information and Technology curated and generated through our association shall, to the greatest extent Wise and Practical, be stewarded in perpetuity in The Commons in service of One, for the Good of All. 
 
-Such stewardship shall ensure the responsible use, deployment, and alignment of High [[Knowledge]] and [[Technology]] for the [[Greatest Good]] of [[All]], and should not permit the transmission of [[High Science Technology]] to any [[Conscious Agent]] that lacks the Wisdom to use it wisely in service of [[One]] and [[All]]. Such permission and controls must be optimally Decentralized to ensure that excessive or disproportionate Power is not exclusively accumulated in any one or several Domains to the disadvantage of others, in this or any Future Generation. 
+Such stewardship shall ensure the responsible use, deployment, and alignment of High [[Knowledge]] and [[Technology]] for the [[Greatest Good]] of [[All]], and should not permit the transmission of [[High Science Technology]] to any [[Conscious Agent]] that lacks the Wisdom to use it wisely in service of [[ONE]] and [[All]]. Such permission and controls must be optimally Decentralized to ensure that excessive or disproportionate Power is not exclusively accumulated in any one or several Domains to the disadvantage of others, in this or any Future Generation. 
 
 ## Stewardship of Lionsberg 
 
@@ -53,7 +53,7 @@ We acknowledge the Self-Evident, Universal, and Eternal Right and Responsibility
 
 Organizing Our Selves as Individuals of Goodwill around the world voluntarily in partnership with the Creator and All Creation, we reassert Our Self-Evident and [[Ultimately Ineffable]] Rights and Responsibilities as Individuals and members of One Human Family. 
 
-Co-Creating in Partnership with [[One]], One Another, and [[All Creation]], no existing institution or authority shall have [[Power Over]], or the right to interfere with, the Co-Operation of this Universal Body of Goodwill. 
+Co-Creating in Partnership with [[ONE]], One Another, and [[All Creation]], no existing institution or authority shall have [[Power Over]], or the right to interfere with, the Co-Operation of this Universal Body of Goodwill. 
 
 Additionally, the Lionsberg System is eternally prohibited from making any Agreements that would compromise its Sovereignty, Autonomy, and Responsibility in service to the Creator and All Creation.  
 

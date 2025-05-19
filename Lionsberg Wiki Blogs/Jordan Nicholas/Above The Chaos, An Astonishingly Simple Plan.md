@@ -136,7 +136,7 @@ We think that so many things are impossible to solve or transform.
 
 However let us ask our Selves a profound questions: What is the One Thing, that everyone believes is impossible, but which *If We Were To Achieve It*, every other hope, aspiration, and dream becomes could be accomplished? 
 
-I have asked this question dozens of times to people around the world over the last 7 years, and there is almost always [[One]] Answer: ***[[Unity]]***.  
+I have asked this question dozens of times to people around the world over the last 7 years, and there is almost always [[ONE]] Answer: ***[[Unity]]***.  
 
 Now I can hear the voices already saying, "no, it is God" (or other such answers). But is not the entire essence of the spiritual element in the world The Movement [[Towards Oneness Through Love]]?  
 
@@ -228,7 +228,7 @@ Our default trajectory is towards ruin and Collapse. But the good news is that b
 
 We do not have to Unite. However the only alternative to Unity is dis-integration, fragmentation, anxiety, suffering, and eventual collapse. A house divided against itself cannot stand.  
 
-If our current patterns lead towards suffering and death, it is time to discern and embody a New Normal that brings us back into Harmony and Right Relationship with One Another, All Creation, and the [[One]] Source and Sustainer of All. 
+If our current patterns lead towards suffering and death, it is time to discern and embody a New Normal that brings us back into Harmony and Right Relationship with One Another, All Creation, and the [[ONE]] Source and Sustainer of All. 
 
 On behalf of the Creator, All Creation, and The Spirit that creates and sustains the Universe, I extend to you a hand of fellowship, and offer to you this Flame of Unity, Light, and Love. 
 

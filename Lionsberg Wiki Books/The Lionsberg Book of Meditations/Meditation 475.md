@@ -1,4 +1,4 @@
-The standard of [[Godliness]] is how closely something conforms itself to the Perfect Image and Intention of the [[One]]. 
+The standard of [[Godliness]] is how closely something conforms itself to the Perfect Image and Intention of the [[ONE]]. 
 
 ___
 

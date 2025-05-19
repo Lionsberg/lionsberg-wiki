@@ -1,6 +1,6 @@
 # Note 1 - On Various Beings and Dimensions
 
-To understand the deeper forces shaping humanity’s past, present, and future, we must start with the highest level of reality—the [[One]] **Ultimate Reality**, **Creator** or **Source** from which [[All]] things emanate.
+To understand the deeper forces shaping humanity’s past, present, and future, we must start with the highest level of reality—the [[ONE]] **Ultimate Reality**, **Creator** or **Source** from which [[All]] things emanate.
 
 We must seek to understand the nature of this Source, the multidimensional structure of existence, and the vast diversity of landscapes and beings that inhabit it.  
 
@@ -10,13 +10,13 @@ As we peel back the layers of this cosmic landscape, it becomes clear that human
 
 ### The Nature of Ultimate Reality: Source Beyond Duality
 
-At the foundation of [[All]] that exists is [[One]] **Ultimate Reality**, sometimes called **Source**, **God**, or **the One**. This Source is not a deity in the anthropomorphic sense, nor is it limited by form, time, or space. It is the unmanifest and undifferentiated essence of existence that is transcendent of [[All]] Its potentials, forms and creations, an infinite field of pure consciousness, Spirit and potential, from which all dimensions, beings, and realities emerge.
+At the foundation of [[All]] that exists is [[ONE]] **Ultimate Reality**, sometimes called **Source**, **God**, or **the One**. This Source is not a deity in the anthropomorphic sense, nor is it limited by form, time, or space. It is the unmanifest and undifferentiated essence of existence that is transcendent of [[All]] Its potentials, forms and creations, an infinite field of pure consciousness, Spirit and potential, from which all dimensions, beings, and realities emerge.
 
 Source is not something we can fully comprehend with the mind or describe in words, but rather something we can directly experience and relate to through our journey spiritual awakening and progressive enlightenment.
 
  Those who reach deeper states of consciousness or enlightenment describe it as a state of unity, a profound sense of omniharmonic oneness that transcends all distinctions, where the apparently individuated self dissolves into an all-encompassing awareness and love.
 
-From this [[One]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested hierarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them. 
+From this [[ONE]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested hierarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them. 
 Though Source itself is beyond word, form, and expression, It expresses itself through a layered, multidimensional structure of co-creation and interexistence that allows Its All-Permeaning Spirit and Consciousness to experience and know ItSelf in an infinite variety of ways.
 
 ### The Spectrum of Realms: From Pure Consciousness to Physical Reality
@@ -35,7 +35,7 @@ While not bound by physical form, they can appear to humanity in ways that are p
 
 The **interdimensional** and **elemental realms** are inhabited by beings that exist in non-physical but denser frequencies. These beings include entities humans point to with words such as **elementals**, **nature spirits**, **jinn**, and various interdimensional entities who often serve as custodians of specific environments, energies, or roles within creation. They exist beyond and between dimensions and can influence thoughts, emotions, and events, especially when invited or inadvertently summoned by specific energies.  
 
-The malevolent beings inhabiting these realms include extremely ancient and powerful forces that would otherwise be considered archangels or ascended masters, had they not exercised their Free Will to betray the [[One]] / Source.  
+The malevolent beings inhabiting these realms include extremely ancient and powerful forces that would otherwise be considered archangels or ascended masters, had they not exercised their Free Will to betray the [[ONE]] / Source.  
 
 Within the layers of physical and non-physical realms, we encounter **extraterrestrial civilizations** that have evolved in other star systems and galaxies, many with highly advanced technology and consciousness abilities. These beings, from civilizations such as the **Pleiadians**, **Arcturians**, **Sirians**, **Reptilians**, and **Greys**, interact with humanity in varied ways, each with its own motives, purposes, and ethical alignments.  
 

@@ -2,11 +2,11 @@
 
 Thank you for the honor of being able to share in such an intimate subject together. 
 
-Grappling with the [[One]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. I hope that we can begin a long journey of helping one another, learning together, and discovering with ever greater clarity how to rightly relate to One Another, the world around us, and the [[One]] Source from which it [[All]] flows. 
+Grappling with the [[ONE]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. I hope that we can begin a long journey of helping one another, learning together, and discovering with ever greater clarity how to rightly relate to One Another, the world around us, and the [[ONE]] Source from which it [[All]] flows. 
 
-If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from the [[One]] / [[Creator]] / [[I AM]] that is the Source and Sustainer of All being and consciousness. 
+If there is one thing to know about me, which would help everything else make sense, it is that to the best of my ability, everything that I am doing is flowing from the [[ONE]] / [[Creator]] / [[I AM]] that is the Source and Sustainer of All being and consciousness. 
 
-My SpatioTemporal Mission is [[One]] the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
+My SpatioTemporal Mission is [[ONE]] the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
 
 This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining Us, which We often call God, Father, Source, Ultimate Reality, or One. 
 
@@ -27,7 +27,7 @@ Liberation from our childhood religions does not mean that we necessarily leave 
 
 Properly understood and practiced, religion can be useful and good. It is often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
 
-Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever greater ReUnion with the [[One]] by Its Spirit within. 
+Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, control, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever greater ReUnion with the [[ONE]] by Its Spirit within. 
 
 Jesus spoke to this when he railed at the religious leaders and teachers of his day, saying 
 
@@ -49,11 +49,11 @@ I was quite surprised, growing up in the United States, in a Christian home, sur
 
 The more Christians I met who accused other Christians of not being "true Christians", and the more I discovered how internally inconsistent and contradictory different denominations and sects of various religions were, and the more I discovered how wrapped up into unholy alliance with political structures many religious denominations and leaders were... 
 
-...the more and more my Spirit and Faith was liberated into the intensely personal Quest to directly experience right relationship with God and those around me. The simple Quest towards Unity through Love. The Quest of [[All]] back towards the [[One]]. 
+...the more and more my Spirit and Faith was liberated into the intensely personal Quest to directly experience right relationship with God and those around me. The simple Quest towards Unity through Love. The Quest of [[All]] back towards the [[ONE]]. 
 
 [[Beyond The Boundary]] of [[The Caves]], it is much easier to ReDiscover, ReUnite, and Become. 
 
-Despite the profound brokenness of religion in our world today, I continue to strive towards embodying the Spirit, Will, and Intention of the [[One]], submanifest in the Ideal of Christ, which is to become a living embodiment, here and now, of the universal and eternal Spirit, Nature, and Essence of God. 
+Despite the profound brokenness of religion in our world today, I continue to strive towards embodying the Spirit, Will, and Intention of the [[ONE]], submanifest in the Ideal of Christ, which is to become a living embodiment, here and now, of the universal and eternal Spirit, Nature, and Essence of God. 
 
 ## In Pursuit of Wisdom
 
@@ -97,11 +97,11 @@ Because they are not attempting to conform themselves to the language of one rel
 
 While the corruption of the religious systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of it is simple, true, and living within us. 
 
-It all comes back to [[One]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, our Deepest Foundation and Goal, we will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
+It all comes back to [[ONE]], and it all comes back to [[Love]]. With those as our Rock, our Fortress, our Deepest Foundation and Goal, we will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
 
 All that we are attempting to express is not a new teaching or revelation in any way, but a remembrance, reassembly, and return to the Universal and Eternal Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and God. 
 
-It is also an attempt to see if we can finally ***operationalize*** and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[One]], [[One Another]], and [[All]]. 
+It is also an attempt to see if we can finally ***operationalize*** and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[ONE]], [[One Another]], and [[All]]. 
 
 If you would ever like to discuss my Faith and explore together how we can [[Help One Another]] learn and grow, I am here to serve and would be delighted to walk with you on our Way towards [[The Goal]].
 

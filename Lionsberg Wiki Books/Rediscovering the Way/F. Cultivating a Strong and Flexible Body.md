@@ -15,4 +15,4 @@ A strong and flexible body is essential for martial arts practice, as well as fo
 6.  **Adopting a Holistic Approach to Health and Wellness:** Cultivating a strong and flexible body goes beyond physical training. Adopt a holistic approach to health and wellness by incorporating proper nutrition, hydration, stress management, mental health, and spiritual transformation practices into your daily life.
     
 
-By cultivating a strong and flexible body, we can enhance our martial arts practice, support our spiritual growth, and maintain overall health and wellbeing. This physical foundation will support our journey towards mastery, enabling us to become more effective Warriors and powerful contributors to the Highest Intention and Greatest Good in service of [[One]] and [[All]].
+By cultivating a strong and flexible body, we can enhance our martial arts practice, support our spiritual growth, and maintain overall health and wellbeing. This physical foundation will support our journey towards mastery, enabling us to become more effective Warriors and powerful contributors to the Highest Intention and Greatest Good in service of [[ONE]] and [[All]].

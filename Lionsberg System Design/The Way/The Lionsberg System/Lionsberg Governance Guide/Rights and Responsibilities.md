@@ -1,8 +1,8 @@
 # Rights and Responsibilities
   
- All Individuals flow from [[One]] [[Source]] and are members of [[One Family]] and [[One Community]] of [[Life]]. 
+ All Individuals flow from [[ONE]] [[Source]] and are members of [[One Family]] and [[One Community]] of [[Life]]. 
 
-As such, every Individual inalienably possesses all the inherent [[Rights And Responsibilities]] that come with being a member of the family and community of [[One]]. 
+As such, every Individual inalienably possesses all the inherent [[Rights And Responsibilities]] that come with being a member of the family and community of [[ONE]]. 
 
 These [[Rights And Responsibilities]] are both equal and inalienable to [[All]]. 
 
@@ -10,7 +10,7 @@ After the horrors and world wars at the close of the last millennium, humanity m
 
 At the opening of the New Millennium, these rights began to be extended legally and foundationally to [[All]].  
 
-The [[Lionsberg System]] begins from the foundational starting point of the total reintegration and [[Right Relationship]] of [[One]] and [[All]], rooted in [[Love]]. 
+The [[Lionsberg System]] begins from the foundational starting point of the total reintegration and [[Right Relationship]] of [[ONE]] and [[All]], rooted in [[Love]]. 
 
 ## Rights Extend First to the Weak and Vulnerable
 

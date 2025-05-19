@@ -19,7 +19,7 @@ The **Solomon Plan** ensures that does not happen.
 The Solomon Plan is based on **three eternal pillars** that will form the foundation of all governance and intelligence systems in the [[New World]] and Beyond:
 
 1. **Wisdom** – Governance must be based on **higher intelligence, spiritual alignment, natural law, and universal Logos**, rather than deception, force, or materialistic power.
-2. **Justice** – Laws and norms must serve **the Highest Good of [[One]] and [[All]]**, ensuring **balance, equilibrium, and the prevention of both chaos and tyranny** at every scale.
+2. **Justice** – Laws and norms must serve **the Highest Good of [[ONE]] and [[All]]**, ensuring **balance, equilibrium, and the prevention of both chaos and tyranny** at every scale.
 3. **Sovereignty** – Governance must be optimally **distributed, self-organizing, and self-replicating**, ensuring **local autonomy while maintaining cosmic unity**.
 
 By embedding these principles **into the very structure of governance and intelligence systems *from the start***, we ensure that the emergent superorganism co-creating the **[[New World]] does not repeat the mistakes of the [[Old]]**.
@@ -48,7 +48,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influen
 - After generations of slavery, this will require significant healing, rehabilitation, and effort. This is the purpose of the [[3 Year Healing, Orientation, and Empowerment Process]] outlined in [[The Lionsberg Strategy and Plan]] and the [[10 Year Grand Strategy]].  
 - Training in the LIONSBERG System of Governance is fractal, transferring seamlessly up through levels of analysis. 
 
-> **If individuals cannot govern themselves, they are unfit to govern with others. The first scale of The Solomon Plan is [[The Soveriegn Self]] in right relationship with [[One]] and [[All]].**
+> **If individuals cannot govern themselves, they are unfit to govern with others. The first scale of The Solomon Plan is [[The Soveriegn Self]] in right relationship with [[ONE]] and [[All]].**
 
 ---
 

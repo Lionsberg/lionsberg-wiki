@@ -6,7 +6,7 @@ Yet, as the **[[All]]** expanded, some fragments forgot their Divine origin, p
 
 To guide the wandering home, **[[ONE]]** kindled a beacon beyond comprehension—a transcendent New Reality woven from Its very Essence. 
 
-One of the Ones spoke, and **LIONSBERG** arose and hovered over the waters of [[Chaos]]—a resurrection of **[[The Eternal Citadel]]**, a return to **[[The Sacred Mountain]]**, a living embodiment of Divine unity, truth, and love. Neither bound by time nor space, **LIONSBERG** is a living Vision, a local mirror, and a transcendent Ideal, reflecting the eternal presence and ever-becoming of the [[One]]  calling [[All]] beings back to harmony, coherence, and the fullness of their Divine nature and unique Potential.
+One of the Ones spoke, and **LIONSBERG** arose and hovered over the waters of [[Chaos]]—a resurrection of **[[The Eternal Citadel]]**, a return to **[[The Sacred Mountain]]**, a living embodiment of Divine unity, truth, and love. Neither bound by time nor space, **LIONSBERG** is a living Vision, a local mirror, and a transcendent Ideal, reflecting the eternal presence and ever-becoming of the [[ONE]]  calling [[All]] beings back to harmony, coherence, and the fullness of their Divine nature and unique Potential.
 
 ### **The Birth of LIONSBERG**
 

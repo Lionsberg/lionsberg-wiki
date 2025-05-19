@@ -6,7 +6,7 @@ As a human species, [[We Do Not Know]]...
 
 ...but long, long ago, in a universe of universes far far away...
 
-...from the [[One]], this local universe was born. 
+...from the [[ONE]], this local universe was born. 
 
 ## Where We Are 
 

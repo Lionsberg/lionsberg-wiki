@@ -8,7 +8,7 @@ Among the many Paths to the heights of [[The Sacred Mountain]] is [[The Way of t
 
 Warriors fulfill a sacred function in the hierarchy of [[InterBeing]], protecting, defending, liberating, and upholding that which We [[Value]] and [[Hold Dear]].  
 
-The [[Lionsberg System]] transmits Wisdom, Knowledge, and Training in the Energetic, Martial, and Healing Arts as a Way to empower [[Practitioners]] to cultivate and channel the [[Power]] of the [[One]] to accomplish the Will and Intention of the [[One]]. 
+The [[Lionsberg System]] transmits Wisdom, Knowledge, and Training in the Energetic, Martial, and Healing Arts as a Way to empower [[Practitioners]] to cultivate and channel the [[Power]] of the [[ONE]] to accomplish the Will and Intention of the [[ONE]]. 
 
 This training is unique on Earth, unlike anything you will have experienced in the past, and is available exclusively to committed members of the LIONSBERG Community.
 

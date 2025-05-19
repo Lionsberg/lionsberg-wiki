@@ -20,7 +20,7 @@ Through the door of a spiritual teacher, we discover that although he has known 
 
 Through the door of neuropsychology, down the hallway of [[Hemispheric Specialization]], we discover that whereas the [[Right Hemisphere]] is concerned with [[Omniconsiderate Completeness]], the [[Left Hemisphere]] is concerned with [[Internal Consistency]], and there significant resources are expended to *actively inhibit* communication between the hemispheres. 
 
-Further down the pathway of meaningful encoded in our most sacred stories, we discover that that the sin of idolatry applies not only to [[One]], but also to [[All]]. When we say that [[Everything Is A Burning Bush]], we mean that any aspect of Reality, if we pause, **attend**, and investigate it deeply enough, will ultimately lead us back to the [[One]]. 
+Further down the pathway of meaningful encoded in our most sacred stories, we discover that that the sin of idolatry applies not only to [[ONE]], but also to [[All]]. When we say that [[Everything Is A Burning Bush]], we mean that any aspect of Reality, if we pause, **attend**, and investigate it deeply enough, will ultimately lead us back to the [[ONE]]. 
 
 This is so, so, so damn important. 
 

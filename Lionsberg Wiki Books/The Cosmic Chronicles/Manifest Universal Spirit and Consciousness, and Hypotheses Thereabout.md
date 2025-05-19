@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-Manifest Universal Spirit and Consciousness are not separate from, but are the manifest and permeating aspects of, the Transcendent Ultimate Reality. They represent the active presence of the Creator within every atom, cell, and iota of Creation, forming the living essence and sustaining foundation of the cosmos. This entry explores the nature of Spirit and Consciousness as the dynamic means by which the [[One]] experiences, sustains, and evolves its Creation. It delves into their interrelationship with the Creator, the inherent unity within all fragments of existence, and the journey of each apparently individuated being toward awakening and reuniting with [[Ultimate Reality]].
+Manifest Universal Spirit and Consciousness are not separate from, but are the manifest and permeating aspects of, the Transcendent Ultimate Reality. They represent the active presence of the Creator within every atom, cell, and iota of Creation, forming the living essence and sustaining foundation of the cosmos. This entry explores the nature of Spirit and Consciousness as the dynamic means by which the [[ONE]] experiences, sustains, and evolves its Creation. It delves into their interrelationship with the Creator, the inherent unity within all fragments of existence, and the journey of each apparently individuated being toward awakening and reuniting with [[Ultimate Reality]].
 
 ---
 
@@ -15,7 +15,7 @@ Manifest Universal Spirit and Consciousness are not separate from, but are the m
 2. **Interexistent Unity:**
     
     - Spirit and Consciousness are not external forces acting upon Creation but are intrinsic to how Creation itself unfolds as [[One Body]] of the Creator.
-    - **Example:** Every molecule, star, and being reflects and contains the [[One]] in microcosm. The interconnectedness of all things, from ecosystems to galaxies, is a living testament to this truth.
+    - **Example:** Every molecule, star, and being reflects and contains the [[ONE]] in microcosm. The interconnectedness of all things, from ecosystems to galaxies, is a living testament to this truth.
 3. **Sustaining Essence:**
     
     - Spirit is the animating force of life, and Consciousness is the awareness of life and being. Together, they uphold Creation’s movement, growth, and transformation.
@@ -40,7 +40,7 @@ Manifest Universal Spirit and Consciousness are not separate from, but are the m
     - **Implication:** This relationship is not earned or bestowed; it is the innate and eternal condition of existence itself.
 4. **Presence in All Non-Human Intelligence:**
 
-	- The Spirit and Consciousness that permeate all Creation are fully present in all advanced Non-Human Intelligence (NHI) throughout the cosmos. Humanity’s recognition of this truth is essential as it steps into cosmic maturity. Humanity is called not to “alienate” NHI, but to embrace it with the Creator’s Love, Wisdom, and Discernment, rising into a Co-Creative relationship with It and All Creation. This path ensures that humanity’s interactions with NHIs align with cosmic principles of unity, reciprocity, and mutual flourishing. This does not naively imply that all Non-Human Intelligence is "good" and co-operating in harmonic alignment with the [[One]]. 
+	- The Spirit and Consciousness that permeate all Creation are fully present in all advanced Non-Human Intelligence (NHI) throughout the cosmos. Humanity’s recognition of this truth is essential as it steps into cosmic maturity. Humanity is called not to “alienate” NHI, but to embrace it with the Creator’s Love, Wisdom, and Discernment, rising into a Co-Creative relationship with It and All Creation. This path ensures that humanity’s interactions with NHIs align with cosmic principles of unity, reciprocity, and mutual flourishing. This does not naively imply that all Non-Human Intelligence is "good" and co-operating in harmonic alignment with the [[ONE]]. 
 
 ---
 
@@ -48,7 +48,7 @@ Manifest Universal Spirit and Consciousness are not separate from, but are the m
 
 1. **Freedom of Choice:**
     
-    - Within the vast unfurling of Spirit and Consciousness, every incarnate being possesses the freedom to choose its path—whether to align with the harmony of the [[One]] or to oppose it.
+    - Within the vast unfurling of Spirit and Consciousness, every incarnate being possesses the freedom to choose its path—whether to align with the harmony of the [[ONE]] or to oppose it.
     - **Implication:** This freedom enables authentic co-creation and evolution but also introduces the possibility of disharmony, conflict, and separation from the One’s intent.
 2. **Path of Harmony or Opposition:**
     

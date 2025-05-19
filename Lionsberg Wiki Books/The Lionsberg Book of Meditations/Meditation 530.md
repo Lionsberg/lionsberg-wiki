@@ -1,6 +1,6 @@
 The Ten Commandments, the Thousand Commandments, and the One Commandment of Absolute and Unconditional Love apply not just to relationships between human beings. 
 
-[[One]] Universal Law governs the relationships among [[All]] things. 
+[[ONE]] Universal Law governs the relationships among [[All]] things. 
 
 ___
 

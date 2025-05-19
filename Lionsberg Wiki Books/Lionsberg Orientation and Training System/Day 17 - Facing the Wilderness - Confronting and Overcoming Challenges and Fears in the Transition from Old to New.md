@@ -82,9 +82,9 @@ As we Venture into The Wilderness and the New World it leads to, we are faced wi
 
 In a period of [[Time]] far from the previous **Captivity**, Solomon, another Wise man, stated that the Fear of God is the beginning of wisdom. This is because one of greatest Ways to confront and overcome the fear that imprisons us is to **Know and Consciously Choose to Fear Something Greater**, and by definition there is nothing Greater than (That Which In English We Call God). 
 
-When we **Unite** our **Greatest Love** and our **Greatest Fear** in the [[One]] Highest and Greatest Thing, we begin to see our lesser fears in a new light. They are reframed within a larger context where they no longer have the power to paralyze, control, and imprison us.
+When we **Unite** our **Greatest Love** and our **Greatest Fear** in the [[ONE]] Highest and Greatest Thing, we begin to see our lesser fears in a new light. They are reframed within a larger context where they no longer have the power to paralyze, control, and imprison us.
 
-The Wilderness is indeed a frightening place, but we should be far more afraid of betraying the [[One]] calling us Forward towards Who We Are Becoming, and instead remaining imprisoned [[Where We Are]].  
+The Wilderness is indeed a frightening place, but we should be far more afraid of betraying the [[ONE]] calling us Forward towards Who We Are Becoming, and instead remaining imprisoned [[Where We Are]].  
 
 As our understanding expands and we grow into a New Relationship with the Creator and Sustainer of our existence, we learn to embrace both Love and Fear as inseparable aspects of our Spiritual Journey. The fear of God does not negate the fear of the wilderness; instead, it helps us perceive our earthly fears from a higher perspective, dispelling their power over us through the magnitude of something far greater.
 
@@ -96,7 +96,7 @@ Facing our fears is not about eliminating them, but learning to navigate through
 
 The journey from the [[Old World]] to the [[New World]] is not merely a trek through [[Time]] and [[Space]], but a transformative process that shapes us into brave, courageous, and free beings. We become active co-creators of our reality, shaping not just our own destinies but also the destiny of our world.
 
-The Wilderness is daunting, but we are not alone in this journey. As we stand at the threshold, peering into the vast expanse, let us take courage from the collective strength of those journeying with us, even as a few grow afraid and contemplate turning back. And even all turn back, let us remember that we have a personal direct relationship to the One Creating and Sustaining the Universe, and together, in partnership with God, anything is possible. There may be periods where we are separated from or betrayed by all those around us, where we have to forge on alone, drop down to a core group of two or three, or link up with another Cohort if ours tears itself apart through doubt and fear. It is ok. We are never alone. We can always walk, step by step, moment by moment, in partnership with the [[One]] creating and sustaining us. 
+The Wilderness is daunting, but we are not alone in this journey. As we stand at the threshold, peering into the vast expanse, let us take courage from the collective strength of those journeying with us, even as a few grow afraid and contemplate turning back. And even all turn back, let us remember that we have a personal direct relationship to the One Creating and Sustaining the Universe, and together, in partnership with God, anything is possible. There may be periods where we are separated from or betrayed by all those around us, where we have to forge on alone, drop down to a core group of two or three, or link up with another Cohort if ours tears itself apart through doubt and fear. It is ok. We are never alone. We can always walk, step by step, moment by moment, in partnership with the [[ONE]] creating and sustaining us. 
 
 Let us take a deep breath, set our sights on **The Horizon**, and step forward boldly into **The Wilderness**, Beyond which a **New World** awaits.
 

@@ -15,15 +15,15 @@ As evidence of this progress, multiple publications started popping up, reinforc
 
 **We were honored to be among the first to receive [Towards An Open Civics](https://simplebooklet.com/towardsanopencivics#page=1) in late November 2024 as one such excellent example and confirmation.** 
 
-Now that the [[Pattern Language]] is clear enough to those of Us being moved by One Spirit, We have to cross the rubicon the Force For Good has been stuck at for the last couple years, which is how to embody becoming parts of [[One Body]] based on the patterns and protocols, while recognizing that ***no one*** is or can be the [[One]]. 
+Now that the [[Pattern Language]] is clear enough to those of Us being moved by One Spirit, We have to cross the rubicon the Force For Good has been stuck at for the last couple years, which is how to embody becoming parts of [[One Body]] based on the patterns and protocols, while recognizing that ***no one*** is or can be the [[ONE]]. 
 
 And yet We still have to actually Become and Do "the thing". We still have to become [[One Body]] so that We can continually co-create the [[New World]].  
 
 ***It is the classic and well documented issue of Transcendence, Immanence, and Incarnation*** that has baffled humanity for the last two millennia.  
 
-Incarnation is difficult, because as soon as We descend into Form and try to Embody the Spirit and Logos of the [[One]], We are no longer [[One]]. Our [[Apparently Individuated]] form arrives as a helpless infant, crying, hurting, struggling against Reality and Entropy, and trying to remember how to crawl. 
+Incarnation is difficult, because as soon as We descend into Form and try to Embody the Spirit and Logos of the [[ONE]], We are no longer [[ONE]]. Our [[Apparently Individuated]] form arrives as a helpless infant, crying, hurting, struggling against Reality and Entropy, and trying to remember how to crawl. 
 
-Our flag is still planted in the understanding that the [[Divine Blueprints]] are transcendent of any of Our words, and self-evidently clear to those who can See. They belong to [[One]] and [[All]]. The Open Civics document points that out eloquently. 
+Our flag is still planted in the understanding that the [[Divine Blueprints]] are transcendent of any of Our words, and self-evidently clear to those who can See. They belong to [[ONE]] and [[All]]. The Open Civics document points that out eloquently. 
 
 As builders, We *know* that if ***10 million communities*** of ~5 thousand to ~10 thousand each need to identify and train [[The First Three Percent]] and then localize and adapt the [[Divine Blueprints]] to their context in 7 to 10 years... 
 

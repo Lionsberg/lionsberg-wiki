@@ -10,7 +10,7 @@ If we failed to get the [[Community]] right, there was no chance of success.
 
 The new [[Community]] / [[Federation]] would need to be [[Sovereign]], in the same way and according to the same principles as each of its participants was [[Sovereign]]. 
 
-And so a conceptual [[Ideal]] was established: A sovereign community of sovereign beings, working together in functional unity and right relationship to [[One]], [[One Another]] and [[All]], to [[Progress]] towards our shared [[Universal Goals and Values]]. 
+And so a conceptual [[Ideal]] was established: A sovereign community of sovereign beings, working together in functional unity and right relationship to [[ONE]], [[One Another]] and [[All]], to [[Progress]] towards our shared [[Universal Goals and Values]]. 
 
 Through great debate and consultation with leading thinkers on how to articulate and mobilize collective action among such a [[Federation]] of [[Sovereigns]], it was determined that a [[Framework]], a [[System]] and a [[Structure]] would be required. 
 

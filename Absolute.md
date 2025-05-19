@@ -1,7 +1,0 @@
-# Absolute
-
-In the context of the Lionsberg System, "Absolute" refers to the Ultimate Reality or Supreme Being that transcends and gives rise to the manifest universe, serving as the ultimate Source and Standard of Wisdom, Truth, and Reality. This concept is often associated with philosophical ideas such as God, the Divine, the Infinite, the Eternal, and the Transcendent. The Absolute represents the highest Ideal, the Ultimate Goal, and the Source of all Wisdom, Truth, Love, Goodness, and Beauty.
-
-The concept of the Absolute is *exactly central* to the Lionsberg System, serving as the [[One]] guiding principle of excellence and an inspiration for the movement towards [[The Goal]]. It provides a beacon of hope, symbolizing Ultimate Truth, Wisdom, Love, and Goodness, guiding the movement towards its goals and objectives. By striving towards the Absolute and Ideal, the Lionsberg System aims to create a harmonious, just, wise, and good world, where everyone can live a life of purpose, meaning, and fulfillment.
-
-The pursuit of the Absolute is not limited to any particular religion or philosophy, but is aligned with the wisdom of all traditions that seek to know, serve, and rightly relate to [[God]], [[Ultimate Reality]], [[One]], or the Absolute. The Lionsberg System draws upon this eternal and universal [[Wisdom]] and understanding to create a more Truthful, Loving, Just, Wise, and Good world for [[All]].

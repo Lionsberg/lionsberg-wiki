@@ -83,7 +83,7 @@ With firm reliance upon Divine Providence, and in alignment with the Highest Goo
 - The **restoration of rightful governance**, built upon Truth, Wisdom, and the Ongoing Consent of the Governed.
 - The **initiation of a Great Jubilee**, breaking the chains of fraudulent debt, artificial constraints, and false dividing lines, and liberating the People into Abundance.
 - The **alignment of all human systems** with the eternal Laws of Nature and the Creator’s Intent.
-- The continual **reunification of all peoples in harmony**, transcending division and reclaiming our shared destiny in service to [[One]] and [[All]]. 
+- The continual **reunification of all peoples in harmony**, transcending division and reclaiming our shared destiny in service to [[ONE]] and [[All]]. 
 
 Let this be the **Great Turning Point** in human history. Let a New Civilization rise for the first Time, not from conquest or for the benefit of a few, but from the awakening of the People for the Good of One and All. 
 

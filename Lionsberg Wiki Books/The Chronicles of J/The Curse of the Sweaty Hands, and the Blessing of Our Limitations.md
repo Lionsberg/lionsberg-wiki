@@ -20,11 +20,11 @@ So why would the Perfect, Infinite, and Whole choose to incarnate, fragment, and
 
 To experience and know ItSelf through each of its unique aspects. 
 
-You, my beautiful daughter, are a perfectly imperfect aspect of the Divine; an incarnate fragment of God. The [[Deeper]] you look within, and the more [[Ego]] and [[Attachments]] you shed, the more you will discover that despite Our [[Apparent Individuation]], We Are [[One]]. 
+You, my beautiful daughter, are a perfectly imperfect aspect of the Divine; an incarnate fragment of God. The [[Deeper]] you look within, and the more [[Ego]] and [[Attachments]] you shed, the more you will discover that despite Our [[Apparent Individuation]], We Are [[ONE]]. 
 
 Our limitations may frustrate us, but they also teach us compassion, humility, and resilience. They remind us to laugh, to forgive, and to see the beauty in the small, imperfect moments that compose [[A Life Well Lived]]. 
 
-It is the experience of Our limitations and the process of transcending them that ultimately leads Us [[All]] back to the [[One]]. 
+It is the experience of Our limitations and the process of transcending them that ultimately leads Us [[All]] back to the [[ONE]]. 
 
 So, if I draft my responses to your beautiful prompt digitally instead of on paper, please forgive my limitations, and know this: the journal you gave me is perfect, just like you.
 

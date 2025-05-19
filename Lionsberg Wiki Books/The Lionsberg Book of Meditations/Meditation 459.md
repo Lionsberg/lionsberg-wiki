@@ -1,4 +1,4 @@
-Universal and All-Encompassing Love, expressed in service to [[One]] and [[All]], is the [[Way]] towards [[The Goal]]. 
+Universal and All-Encompassing Love, expressed in service to [[ONE]] and [[All]], is the [[Way]] towards [[The Goal]]. 
 
 ___
 

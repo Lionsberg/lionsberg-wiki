@@ -24,6 +24,6 @@ I acknowledge my strengths [list strengths] and areas for growth [list areas for
 
 My vision for personal growth, development, and transforming my [[Self]] and my world includes [outline your vision].
 
-I promise to stay true to these principles, values, and commitments, and to consistently strive to grow and evolve as a person in alignment with my truest and highest [[Self]], [[One]], and [[All]]. 
+I promise to stay true to these principles, values, and commitments, and to consistently strive to grow and evolve as a person in alignment with my truest and highest [[Self]], [[ONE]], and [[All]]. 
 
 Signed: [Your Name] Date: [Date]

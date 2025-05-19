@@ -25,7 +25,7 @@ In a holofractal Universe, the same could be said about any individual, tribe, c
 The Lionsberg System, Strategy, and Plan is [[Purpose-Built]] to bring [[The Goal]] into [[Reality]] in any [[Domain]] it is Incarnated. 
 
 ___
-If [[The Goal]] of any [[One]] who Loves is to Co-Create [[Heaven]] for [[All]], an extraordinary cosmic opportunity opens up, whereby [[All Creation]] is invited to take up their unique [[SpatioTemporal Place]] and [[Functional Role]] in [[The Divine Symphony]] of Heaven. 
+If [[The Goal]] of any [[ONE]] who Loves is to Co-Create [[Heaven]] for [[All]], an extraordinary cosmic opportunity opens up, whereby [[All Creation]] is invited to take up their unique [[SpatioTemporal Place]] and [[Functional Role]] in [[The Divine Symphony]] of Heaven. 
 
 ___
 
@@ -33,7 +33,7 @@ The function of [[Consciousness]] in [[Universe]] is to explore, expand, expound
 
 This requires an [[Ever Deepening]] [[Understanding]] of: 
 1. **Who** the Creator ***Is***, and therefore **What** It Intends to **Be**
-	- *[[Creator's Intent]] is not intellectual; It arises from the [[Character]], [[Nature]], and [[Essence]] of the [[One]]*    
+	- *[[Creator's Intent]] is not intellectual; It arises from the [[Character]], [[Nature]], and [[Essence]] of the [[ONE]]*    
 	- This is [[Point B]]—[[Where We Are Going]] and [[Why]]  
 2. **[[What Is]]**, in contrast to the Better and Higher Ultimate State that is Intended 
 	- This is a function of wisdom, discernment, and analysis  

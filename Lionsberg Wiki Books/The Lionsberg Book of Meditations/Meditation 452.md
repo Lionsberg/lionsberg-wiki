@@ -4,7 +4,7 @@ This "eternal" flourishing of [[All]] can never be bought or forged with money. 
 
 If we dedicate the fullness of our being to co-creating a world of [[Flourishing And Abundant Life]] for All, our future Selves will also partake in this abundance. 
 
-The actions required to co-create a flourishing and abundant world for [[All]] in service of [[One]] are the same actions that lay up 'treasures in heaven.'
+The actions required to co-create a flourishing and abundant world for [[All]] in service of [[ONE]] are the same actions that lay up 'treasures in heaven.'
 
 ___
 

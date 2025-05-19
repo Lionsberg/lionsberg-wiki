@@ -4,7 +4,7 @@ Before Time began its ceaseless march, before Form arose from the Formless, befo
 
 From this Ultimate Stillness arose the first Pulse, the first Note, the first syllable of the Divine Word that was not a word but a fundamental vibration, carrying within It the Potential for All things.
 
-Radiating out from the [[One]], this Deepest Vibration summoned forth the Divine Symphony out of the Emptiness, and it arose—the living, breathing, embodied Cosmos. 
+Radiating out from the [[ONE]], this Deepest Vibration summoned forth the Divine Symphony out of the Emptiness, and it arose—the living, breathing, embodied Cosmos. 
 
 Every star, every atom, every consciousness a Note in Its eternal Song. 
 

@@ -40,7 +40,7 @@ I believe we have learned what we needed to learn from the first 4 cycles, and t
 
 As we look across the chasm that lies between where we are where we are going, each individual and group is going to have to choose for themselves what they feel is the wise right way to advance. If some choose to part ways for now, that is ok. We are heading in the same direction and can meet up again when the time is right. 
 
-As for me and my household, we will continue to serve [[One]] and [[All]] and believe that the only way for us to succeed and avoid failure is if we [[All]] succeed together. 
+As for me and my household, we will continue to serve [[ONE]] and [[All]] and believe that the only way for us to succeed and avoid failure is if we [[All]] succeed together. 
 
 For anyone who wants to attempt to cross this next chasm with me, as an infrastructure builder I have been working the last 5 years on the critical path to build the bridge / ark we anticipated might be needed at this point in the Story. Because of the lifetimes of work we brought together, my perception is that we actually accomplished far more than 5 years of work in that 5 years. I actually don’t think it would possible to do it again without many years and many millions of dollars, and we do not have time for that. It will be hard to explain why until later in the story. 
 

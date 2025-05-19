@@ -40,9 +40,9 @@ For any personality or society to not be fragmented, anxious, and divided agains
 
 In the Lionsberg System, that [[Ultimate Principle]] is referred to as [[The One]].  
 
-[[One]], or [[God]], or the [[Creator]], is the [[Ultimate Reality]] that integrates, coheres, and orders within itself the total set of [[All]] things that rise from, are sustained by, and return to It. 
+[[ONE]], or [[God]], or the [[Creator]], is the [[Ultimate Reality]] that integrates, coheres, and orders within itself the total set of [[All]] things that rise from, are sustained by, and return to It. 
 
-[[One]], and [[All]]. [[All]] in [[One]]. 
+[[ONE]], and [[All]]. [[All]] in [[ONE]]. 
 
 This is not a dogmatic or religious claim, but a philosophical, psychological, and conceptual necessity. 
 
@@ -52,17 +52,17 @@ Across a vast array of religious and wisdom traditions, the highest guiding prin
 
 Therefore the universal guiding Principle can be articulated as something like: 
 
-_Love [[One]], [[One Another]], and [[All]]._  
+_Love [[ONE]], [[One Another]], and [[All]]._  
 
 [[Love]] is the basis of [[Right Relationship]]. 
 
 ## One Universal Principle 
 
-1. Love [[One]], [[One Another]], and [[All]]  
+1. Love [[ONE]], [[One Another]], and [[All]]  
 
 ## Examples of Principles that Flow From the One
 
-1. Love [[One]]  
+1. Love [[ONE]]  
 2. Love [[One Another]]  
 3. Love [[All]]  
 4. Love [[(y)Our]] [[Self]]   
@@ -72,7 +72,7 @@ _Love [[One]], [[One Another]], and [[All]]._
 8. Honor the Divine Origin, InterExistence, and End of Every Being  
 9. [[Honor]] and [[Respect]] the [[Inherent Dignity and Worth]] of all Beings  
 10. Honor, Embody, and Uphold Our [[Universal Principles and Values]]  
-11. Remember that despite Our [[Apparent Individuation]], We are Ultimately [[One]]  
+11. Remember that despite Our [[Apparent Individuation]], We are Ultimately [[ONE]]  
 12. Prioritize above [[All]] the [[Progressive Realization]] of the [[Creator's Intent]] / [[The Goal]]  
 13. Do the [[Wise Right Thing]], with the [[Wise Right People]], for the [[Wise Right Reasons]], at the [[Wise Right Time]] to produce [[Throughput]] of [[The Goal]]. This is the essence of [[Value Creation]].  
 14. Become an expert at [[Forging Teams]] and succeeding in Meaningful Projects and Quests that keep [[Every One]] in their [[Zone Of Optimum Development]]  
@@ -118,7 +118,7 @@ _Love [[One]], [[One Another]], and [[All]]._
 54. Foster [[Resilience]], [[Adaptability]], and [[Anti-Fragility]]  
 55. Promote Spiritual, Mental, Emotional, Energetic, and Physical Wellbeing and Development  
 56. Practice [[Open Mindedness]], [[Intuition]], and [[Critical Thinking]]  
-57. Foster a sense of [[Humility]], [[Honor]], and [[Respect]] towards [[One]], [[One Another]], and [[All]]  
+57. Foster a sense of [[Humility]], [[Honor]], and [[Respect]] towards [[ONE]], [[One Another]], and [[All]]  
 58. Promote [[Trust]] and [[Reliability]] in [[Relationships]] and [[InterActions]]  
 59. Encourage [[Collaboration]] and [[Teamwork]]  
 60. Foster a sense of [[Respect]] and [[Responsibility]] towards past and [[Future Generations]]  
@@ -153,7 +153,7 @@ _Love [[One]], [[One Another]], and [[All]]._
 89. Extend to [[All]] the same [[Love]], [[Compassion]], [[Mercy]] and [[Grace]] [[Any One]] would desire. 
 90. Treat others the [[Way]] you would like to be treated. 
 91. Do not treat others in any way you would not like to be treated.  
-92. An an [[InterExistent]] Universe, what you do or do not do unto [[Any One]], you do or do not do unto [[One]] and [[All]]  
+92. An an [[InterExistent]] Universe, what you do or do not do unto [[Any One]], you do or do not do unto [[ONE]] and [[All]]  
 93. [[Shun and Reject]] Tyrants, Kings, Queens, Oligarchs, Feudal Overlords, Corrupt Politicians and Priests, and All other [[False Authorities]]  
 94. Withdraw Attention, Energy, Participation, and Consent from every [[Fallen Order]]
 95. Celebrate and produce [[Beauty]]  

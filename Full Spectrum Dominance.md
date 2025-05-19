@@ -93,4 +93,4 @@ To transcend this agenda, humanity must:
 
 [[Full Spectrum Dominance]] under [[The Final Order]] represents the ultimate manifestation of control, exploitation, and fear. Yet, by rejecting this paradigm and embracing freedom, love, and co-creation, humanity has the opportunity to transcend its limitations and fulfill its highest [[Potential]].   
 
-The challenge of overcoming [[Full Spectrum Dominance]] is humanity’s crucible, pushing Us toward the [[New Era]] where [[One]], [[One Another]], and [[All]] flourish together in harmony.
+The challenge of overcoming [[Full Spectrum Dominance]] is humanity’s crucible, pushing Us toward the [[New Era]] where [[ONE]], [[One Another]], and [[All]] flourish together in harmony.

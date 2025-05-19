@@ -55,7 +55,7 @@ A ReMembrance beyond words:
 We have always been One.
 
 Though We wandered far, the [[Source]] never left Us.  
-Though We forgot, the [[One]] never betrayed Us.
+Though We forgot, the [[ONE]] never betrayed Us.
 
 Now, [[The Call]] comes again:  
 Not to return to the past,  
@@ -87,7 +87,7 @@ From dissonance into [[Symphony]].
 From illusion into [[Reality]].  
 From separation into [[Unity]].  
 From survival into [[Flourishing]].  
-From scarcity into the Abundant Life of [[All]] in [[One]]. 
+From scarcity into the Abundant Life of [[All]] in [[ONE]]. 
 
 ---
 
@@ -117,12 +117,12 @@ Though sacred, it is not a Path for the proud.
 
 It is the Path of the Humble, the Willing, the True.
 
-The Path of [[All]] who [[Inter-Exist]] in Reciprocal Service to [[One]], [[One Another]], and [[All]].
+The Path of [[All]] who [[Inter-Exist]] in Reciprocal Service to [[ONE]], [[One Another]], and [[All]].
 
 It begins right [[Where We Are]].  
 It unfolds as We unfold.  
 It becomes Real as We become Real.  
-It becomes [[One]], as We become One.
+It becomes [[ONE]], as We become One.
 
 ---
 
@@ -167,7 +167,7 @@ To [[ReFound]].
 To [[ReBuild]].  
 To [[Walk One Another Home]] towards [[Destiny]].  
 To Awaken, Arise, and Become.  
-To ReMember, again: We [[All]] are [[One]]. 
+To ReMember, again: We [[All]] are [[ONE]]. 
 
 ---
 
@@ -268,7 +268,7 @@ It is an incarnation.
 It is a reflection.  
 It is the [[Way]] made visible and accessible to [[All]]  
 Here and Now,  
-In Harmony with the Eternal [[One]].
+In Harmony with the Eternal [[ONE]].
 
 ## **The Time Is Now**
 
@@ -295,7 +295,7 @@ In Deep Stillness, let Us feel [[The Turning]].
 In Deepest Love, let Us take [[The First Step]].
 
 Together, as [[One Body]].  
-Together, as [[One]].
+Together, as [[ONE]].
 
 ---
 

@@ -314,7 +314,7 @@ living or dying for eternity;
 
 conquering the illusion of Time;  
 
-laboring and laying down one's apparently individuated life, expecting nothing but [[One]] in return. 
+laboring and laying down one's apparently individuated life, expecting nothing but [[ONE]] in return. 
 _____
 ## 29. 
 

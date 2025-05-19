@@ -24,4 +24,4 @@ Many are drowning in [[Information]]. Some Know. Few [[Understanding|Understand]
 
 [[Wisdom]] is [[Superordinate]] to [[Knowledge]]. 
 
-[[Wisdom]] is the ability to perceive, think, speak, be, and do from the Highest Perspective, which is [[Absolute]] / [[One]]. 
+[[Wisdom]] is the ability to perceive, think, speak, be, and do from the Highest Perspective, which is [[Absolute]] / [[ONE]]. 

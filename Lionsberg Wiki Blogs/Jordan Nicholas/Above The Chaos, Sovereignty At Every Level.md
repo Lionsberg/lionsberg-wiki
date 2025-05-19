@@ -24,13 +24,13 @@ In contrast, the existing trajectory is for power and authority on Earth to be i
 
 The Ultimate choice is whether to place a [[Unity]] at [[The Top]] of the Order, or a Plurality. [[Monotheism]], or [[Polytheism]]. 
 
-What is the [[One]] thing that unites the [[All]]? 
+What is the [[ONE]] thing that unites the [[All]]? 
 
-And how does the [[All]] properly orient and order its self in [[Right Relationship]] to the [[One]]? 
+And how does the [[All]] properly orient and order its self in [[Right Relationship]] to the [[ONE]]? 
 
 These are the defining questions that will determine the fate of humanity for generations to come. 
 
-The [[Way]] away from Hell and towards [[Heaven On Earth]] lies through rediscovering our [[Identity]], reclaiming our [[Sovereignty]], as voluntary reestablishing [[Right Relationship]] with [[One]] and [[All]] in a [[New Covenant]] as [[One Citizenship Under God]]. 
+The [[Way]] away from Hell and towards [[Heaven On Earth]] lies through rediscovering our [[Identity]], reclaiming our [[Sovereignty]], as voluntary reestablishing [[Right Relationship]] with [[ONE]] and [[All]] in a [[New Covenant]] as [[One Citizenship Under God]]. 
 
 And being ready to forthrightly confront and overcome [[The Giants]] that guard the [[Land Of Promise]], who would readily enslave and destroy Us for their own [[Power]] and [[Profit]]. 
 

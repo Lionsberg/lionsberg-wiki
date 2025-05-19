@@ -1,4 +1,4 @@
-[[All]] things wrestle with and ultimately submit to the [[One]] highest order [[Consciousness]] that is capable of Properly Ordering them, and therefore invites them to Properly Order them Selves. 
+[[All]] things wrestle with and ultimately submit to the [[ONE]] highest order [[Consciousness]] that is capable of Properly Ordering them, and therefore invites them to Properly Order them Selves. 
 
 ___
 

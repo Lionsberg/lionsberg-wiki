@@ -12,9 +12,9 @@ We we transform our [[Trajectory]], we transform our [[Destiny]].
 
 It is the [[Way]] we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
 
-The good news is that in partnership with [[One]] and [[One Another]], we can change our Way. 
+The good news is that in partnership with [[ONE]] and [[One Another]], we can change our Way. 
 
-This page is a [[Work In Progress]] meant to progressively grow out into a comprehensive New [[Way of Being]] that, if [[Operationalize|Operationalized]], can _cause_ us to progressively rise towards the fullness of our [[Potential]] and flourish in harmony with [[One]] and [[All]]. 
+This page is a [[Work In Progress]] meant to progressively grow out into a comprehensive New [[Way of Being]] that, if [[Operationalize|Operationalized]], can _cause_ us to progressively rise towards the fullness of our [[Potential]] and flourish in harmony with [[ONE]] and [[All]]. 
 
 This can be done by integrating and aligning our Selves, our families, our teams, our groups, our organizations, our communities, and the total community of communities in a [[Way]] that creates [[Throughput]] of our overarching and uniting Goals and [[Values]]. 
 

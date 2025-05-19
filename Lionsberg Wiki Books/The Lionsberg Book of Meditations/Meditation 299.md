@@ -1,4 +1,4 @@
-We are not [[Subordinate]] to anything but [[One]] and [[All]]. We take orders only from [[God]], and we are impelled to [[Co-Operate]] with [[All]] who are doing the same. 
+We are not [[Subordinate]] to anything but [[ONE]] and [[All]]. We take orders only from [[God]], and we are impelled to [[Co-Operate]] with [[All]] who are doing the same. 
 
 ___
 

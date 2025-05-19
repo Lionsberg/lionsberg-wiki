@@ -17,7 +17,7 @@ In the [[Lionsberg System]], the entire universe is viewed as a [[Living System]
 
 Our [[Current Best Understanding]] and [[Hypothesis]] is that [[Life]] as we [[Perceive]] it is dependent upon, or arising from, [[Consciousness]], and not vice versa. 
 
-The [[Deepest]] [[Consciousness]], and therefore the most fundamental thing, is the [[Consciousness]] of the [[One]]. 
+The [[Deepest]] [[Consciousness]], and therefore the most fundamental thing, is the [[Consciousness]] of the [[ONE]]. 
 
 Arising from the Deepest Consciousness is [[Information]], which instructs the association and dissociation of [[Energy]] into Form. 
 

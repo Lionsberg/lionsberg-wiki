@@ -10,7 +10,7 @@ The [[Community Instance]] is critical to ensuring that the Whole has Integrity,
 
 To accomplish things they cannot do on their own, [[Communities]] [[Organize and Federate]] by forming [[Sub Communities]] and [[Super Communities]]. 
 
-As they do this, they advance towards the ultimate unity of the [[Meta Community]] of [[One]] and [[All]] through Love. 
+As they do this, they advance towards the ultimate unity of the [[Meta Community]] of [[ONE]] and [[All]] through Love. 
 
 
 ___

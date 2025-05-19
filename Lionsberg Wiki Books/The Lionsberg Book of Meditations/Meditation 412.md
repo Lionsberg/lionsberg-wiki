@@ -1,4 +1,4 @@
-When we [[Love]] [[One]] and [[All]], we [[Love]] and genuinely long for the best for even our enemies. 
+When we [[Love]] [[ONE]] and [[All]], we [[Love]] and genuinely long for the best for even our enemies. 
 
 Whoever and whatever you are, no matter how evil, forsaken, or lost you think you are, we Love you. 
 

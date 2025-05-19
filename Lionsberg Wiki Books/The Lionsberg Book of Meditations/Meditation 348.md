@@ -1,6 +1,6 @@
 The only way to truly Know some one is through direct personal experience and relationship. 
 
-Likewise, the only Way to truly know [[One]] is through direct personal experience and relationship. 
+Likewise, the only Way to truly know [[ONE]] is through direct personal experience and relationship. 
 
 ___
 

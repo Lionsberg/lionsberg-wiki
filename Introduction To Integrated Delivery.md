@@ -32,7 +32,7 @@ What is presented in this Delivery Guide is not a “project” – it is an **I
 
 Holding the keys to such a system, what shall we [[Aim]] it at? 
 
-There is only [[One]] answer, and that is [[The Goal]]. 
+There is only [[ONE]] answer, and that is [[The Goal]]. 
 
 How? 
 

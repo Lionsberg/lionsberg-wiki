@@ -17,7 +17,7 @@ There is a significant non-zero probability that the corrupted existing Order is
 
 But there is good news. 
 
-If *we choose* to Love One Another, Help One Another, and Aim Up at the Highest Intention and Greatest Good, in partnership with [[One]] and [[All]] we can confront and overcome the challenges at hand and forge ***a future for [[All]] that is better than Any has enjoyed in the past***. 
+If *we choose* to Love One Another, Help One Another, and Aim Up at the Highest Intention and Greatest Good, in partnership with [[ONE]] and [[All]] we can confront and overcome the challenges at hand and forge ***a future for [[All]] that is better than Any has enjoyed in the past***. 
 
 It simply requires that enough people *believe* and *unite*. Quickly enough. 
 
@@ -47,7 +47,7 @@ It simply requires that a wise right group of initial individuals commit to work
 
 Because the Lionsberg domain is *invitation only*, the first participants will be crucial in shaping the Culture, forming the early Teams, inviting in subsequent members, and ensuring that The Quest progresses, avoids failure, and succeeds. 
 
-This invitation to *The Fellowship of The Quest* is a daring call to adventure into the [[Unknown]], to Progress towards [[The Goal]], and to do what has not been done before in service of [[One]] and [[All]]. 
+This invitation to *The Fellowship of The Quest* is a daring call to adventure into the [[Unknown]], to Progress towards [[The Goal]], and to do what has not been done before in service of [[ONE]] and [[All]]. 
 
 ___
 ## An Offer, and Request 

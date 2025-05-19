@@ -1,6 +1,6 @@
 # Heaven On Earth
 
-There is only [[One]] possible Vision and Aim, which is [[The Ideal]], right here [[On Earth As it Is In Heaven]]. 
+There is only [[ONE]] possible Vision and Aim, which is [[The Ideal]], right here [[On Earth As it Is In Heaven]]. 
 
 The amazing thing about the Ideal is that it is already perfect, and yet *it continues to get better every day* as All Creation works together to make it so. 
 

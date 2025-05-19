@@ -240,7 +240,7 @@ By [[Jordan Nicholas Sukut]]
 
 ### Appendix A: Glossary of Key Terms
 
-#### [[A.1 Definitions of key terms used throughout the book]]
+#### [[Lionsberg Lexicon]]
 
 ### Appendix B: Frequently Asked Questions
 

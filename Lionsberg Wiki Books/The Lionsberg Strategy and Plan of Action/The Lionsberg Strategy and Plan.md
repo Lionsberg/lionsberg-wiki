@@ -533,7 +533,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We remember the words of the elders - "We are the ones we have been waiting for"  
 3. We take responsibility for the wellbeing, development and right relationship of The Whole  
 4. We think and co-operate from as close to the Omniconsiderate Wisdom and Perspective of God as we can - Consciously Co-Operating over the largest SpatioTemporal expanse we can conceive of  
-5. While taking [[Responsibility]] for The Whole in service of [[One]] and [[All]], we humbly remember that only [[One]] is perfectly [[Wise]] and [[True]]  
+5. While taking [[Responsibility]] for The Whole in service of [[ONE]] and [[All]], we humbly remember that only [[ONE]] is perfectly [[Wise]] and [[True]]  
 
 ### Refounding Civilization 
 
@@ -672,14 +672,14 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We rediscover what it means to co-exist in [[Diverse Unity]]  
 ### Unity and a New Covenant 
 
-1. We rediscover what it means to exist in [[Omniconsiderate]] universal and eternal [[Covenant Relationship]] / [[Right Relationship]] with [[One]], [[One Another]], and [[All]].   
+1. We rediscover what it means to exist in [[Omniconsiderate]] universal and eternal [[Covenant Relationship]] / [[Right Relationship]] with [[ONE]], [[One Another]], and [[All]].   
 2. Recognizing that the alternative to Diverse Unity is fragmentation, suffering, and decay, We reorient and reunite as [[One Family of Families]], [[One Tribe of Tribes]], [[One Body of Co-Creation]]. 
 3. Recognizing the need to forge some kind of [[Higher Order Functional Unity]] among us, we voluntarily of our own [[Free Will]] and [[Mutual Consent]] enter into an omniconsiderate [[New Covenant]] between our Selves, our Families, our Tribes, our Localities, All Creation, and the Creator. 
-4. Recognizing that there is One [[Ultimate Reality]] generating and sustaining [[The Diverse Many]] manifestations throughout the Universe, we place ([[God]] / [[Creator]] / [[One]] / [[Ultimate Reality]]) back at [[The Center]], and base everything on [[Love]]. 
-5. While honoring and respecting the most [[Wise]], [[Right]], [[True]] and [[Good]] aspects of our various Religious Traditions and Denominations, we remember that the [[One]] is transcendent of every name, religious container, or semantic proposition. 
+4. Recognizing that there is One [[Ultimate Reality]] generating and sustaining [[The Diverse Many]] manifestations throughout the Universe, we place ([[God]] / [[Creator]] / [[ONE]] / [[Ultimate Reality]]) back at [[The Center]], and base everything on [[Love]]. 
+5. While honoring and respecting the most [[Wise]], [[Right]], [[True]] and [[Good]] aspects of our various Religious Traditions and Denominations, we remember that the [[ONE]] is transcendent of every name, religious container, or semantic proposition. 
 6. We remember that true spirituality and spiritual development is about the common journey towards individual and collective [[Right Relationship]] with the Divine, and that [[Religion]] is merely a means towards [[The Goal]], and not an End in and of itself.  
 7. We remember that the [[Knowledge of God]] is ultimately [[Non-Propositional]] in nature.  
-8. We tear down the [[Propositional Idols]] we have created and the arrogantly constructed [[Religious Denominations]] that separate and divide us, and return towards [[Omniconsiderate]] [[Right Relationship]] / [[Covenant Relationship]] with [[One]], [[One Another]], and [[All]].  
+8. We tear down the [[Propositional Idols]] we have created and the arrogantly constructed [[Religious Denominations]] that separate and divide us, and return towards [[Omniconsiderate]] [[Right Relationship]] / [[Covenant Relationship]] with [[ONE]], [[One Another]], and [[All]].  
 
 ### A Self-Governing, Self-Sustaining, and Self-Replicating Team of Teams 
 
@@ -1104,7 +1104,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	5. ...[[Bioregions]] must become healthy and flourishing... 
 	6. etc.. all things helping all things rise. 
 3. We establish a universal [[Elevation Initiative]] through which all things [[Help One Another]] rise towards the fullness of their unique [[Potential]] and [[Flourish in Harmony]] by [[Helping All Do The Same]].  
-4. We ensure that everything we do is done in service of [[One]] and [[All]] and lifts up All Creation towards the fullness of [[Potential]] - Flow / Flourishing / Expanding / Optimizing 
+4. We ensure that everything we do is done in service of [[ONE]] and [[All]] and lifts up All Creation towards the fullness of [[Potential]] - Flow / Flourishing / Expanding / Optimizing 
 
 ### Interoperable Technology Stack 
 
@@ -1462,7 +1462,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 1. We recognize that a major source of damage to the [[Living System]] is Externalized Waste, Risk, and Harm  
 2. We recognize that all of our [[Materiality]] is composed of chemicals and compounds that have the potential to create [[Value]] for Society and the Living System. 
 3. We recognize that what we consider [[Pollution]] is actually chemicals or compounds present in inappropriate places. 
-4. We shift our focus from externalizing [[Waste]] for our narrow individual or local benefit, to becoming [[Centers of Distribution]] that redistribute valuable resources in service of [[One]] and [[All]]  
+4. We shift our focus from externalizing [[Waste]] for our narrow individual or local benefit, to becoming [[Centers of Distribution]] that redistribute valuable resources in service of [[ONE]] and [[All]]  
 5. We design and build into the network of [[Instantiation Hubs]] local and regional recycling, processing, resource allocation hubs  
 6. We design and roll out to all businesses and manufacturing operations [[Resource Capture Systems]] that empower each Domain to [[Externalize Waste and Byproducts]] in a way that creates [[Value]] for the Whole  
 7. Preliminary Vision Statement for the [[Lionsberg Resource ReCirculation System]]: 
@@ -1991,7 +1991,7 @@ We started the [[10 Year Grand Strategy]] March 1st. The [[Lionsberg Co-Creators
 
 The Creator is inviting us to become Co-Creators of the [[Best Possible Future]] for All. 
 
-With Deep Love and Respect for All Life in All Places and Times, in service of [[One]] and [[All]], 
+With Deep Love and Respect for All Life in All Places and Times, in service of [[ONE]] and [[All]], 
 
 ~ J 
 

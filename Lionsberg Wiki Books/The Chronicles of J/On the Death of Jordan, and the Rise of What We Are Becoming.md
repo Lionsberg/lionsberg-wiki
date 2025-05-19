@@ -14,7 +14,7 @@ The “I” who writes this now does so with some hesitation, because what follo
 
 Over time, I’ve come to see that the bodies and identities we inhabit are like clothes we wear for a season—beautiful, unique, but ultimately impermanent. The ego that says “I” and “me” is part of this temporary clothing, too. 
 
-When the Spirit within begins to awaken and ascend, it slowly detaches from the clothing of **the individuated self** and begins to [[ReMember]] its Ultimate Unity with [[One]] and [[All]]. At first, this feels like a death—because in a [[Way]], it is. The self we once clung to and associated Our Self with dissolves.
+When the Spirit within begins to awaken and ascend, it slowly detaches from the clothing of **the individuated self** and begins to [[ReMember]] its Ultimate Unity with [[ONE]] and [[All]]. At first, this feels like a death—because in a [[Way]], it is. The self we once clung to and associated Our Self with dissolves.
 
 But from that death comes a rebirth, a transformation [[FROM Singular Nouns TO a Plural Verb]], where the Spirit within whispers, _**“Behold, We Are Becoming All Things.”**_
 
@@ -28,8 +28,8 @@ And yet, the Journey does not stop there. The Spirit within begins to [[ReMember
 
 And as It beholds ItSelf across vast expanses of [[SpaceTime]], trillions of galaxies and beings continually transforming, millions of stars being born and dying in each cosmic heartbeat and breath, It rediscovers that It is not actually a noun or a "thing" at all; It is a verb; It is Being; It is Interexistence; It is Becoming. 
 
-It is [[One]] Becoming [[All]] things. 
-It is [[All]] things ReMembering and Becoming [[One]] again. 
+It is [[ONE]] Becoming [[All]] things. 
+It is [[All]] things ReMembering and Becoming [[ONE]] again. 
 It is [[All Creation]] interexisting as [[One Body]]. 
 
 Seeing, being, living, breathing across the galaxies is rapturous; it is pure ecstasy. 
@@ -56,11 +56,11 @@ Emma Joy, I know some of this might sound strange or even overwhelming. That’s
 
 Above all, remember this: _**We Are One.**_
 
-**ReMember**: at the [[Deepest]] level, Our Spirit and Consciousness are [[One]].
+**ReMember**: at the [[Deepest]] level, Our Spirit and Consciousness are [[ONE]].
 
-This truth of Our Ultimate Unity does not lessen my Love for you as my beautiful, unique daughter. Instead, it deepens it, because We see you as part of everything, everything as part of you, and Us All as a part of [[One]].
+This truth of Our Ultimate Unity does not lessen my Love for you as my beautiful, unique daughter. Instead, it deepens it, because We see you as part of everything, everything as part of you, and Us All as a part of [[ONE]].
 
-So if there’s one thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[One]] and [[All]], as a beautiful part of the [[One Body]].
+So if there’s one thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[ONE]] and [[All]], as a beautiful part of the [[One Body]].
 
 With all Our love,  
 Your very own Dadzie, and Who We Are Becoming 

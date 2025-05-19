@@ -9,7 +9,7 @@ We began developing a list of [[Concepts And Ideas]] as a kind of Lexicon or Ros
 
 This list below is a rough [[Work In Progress]], but it will give you the sense of the Spirit from which the System flows, and its [[Values]] and [[Anti-Values]]. 
 
-We know that [[Wisdom]] is the perfect perspective of the [[One]], [[Principles]] are derived from the [[Logos]] of the Universe, and [[Values]] are contained within and ordered by the [[Meta Value]]. 
+We know that [[Wisdom]] is the perfect perspective of the [[ONE]], [[Principles]] are derived from the [[Logos]] of the Universe, and [[Values]] are contained within and ordered by the [[Meta Value]]. 
 
 These are all domains of the [[Absolute]], which cannot be concretized. 
 

@@ -4,7 +4,7 @@ In the [[Lionsberg System]], Love is used as a [[Word Tool]] to point towards th
 
 This Value impels us to seek the true, highest, and most beautiful Good for our Selves, for others, and for All Creation. Arising from the Source and Sustainer of Life, Love leads us to honor the inherent dignity and worth of all beings, and treat All Creation with honor and respect as the basis for community and [[Right Relationship]]. 
 
-It is akin to the use of [[Agape]] Love in Christian theology, or the Jewish notion of [[Chesed]], which describe the ultimate and unconditional Love of [[One]] for [[All]]. 
+It is akin to the use of [[Agape]] Love in Christian theology, or the Jewish notion of [[Chesed]], which describe the ultimate and unconditional Love of [[ONE]] for [[All]]. 
 
 It is differentiated from the sexual, brotherly, or romantic loves we often associate the [[Word Tool]] with.  
 
@@ -24,7 +24,7 @@ It longs for but is not conditional upon reciprocity.
 
 The natural response to this kind of Absolute and Unconditional Love is to reciprocate it. 
 
-Therefore, as [[One]] Loves [[All]], so too should [[All]] strive to embody One's Love in return towards [[One]], [[One Another]], and [[All]]. 
+Therefore, as [[ONE]] Loves [[All]], so too should [[All]] strive to embody One's Love in return towards [[ONE]], [[One Another]], and [[All]]. 
 
 This is the [[Universal Law]], and the single overarching and uniting design principle of the [[Lionsberg System]]. 
 

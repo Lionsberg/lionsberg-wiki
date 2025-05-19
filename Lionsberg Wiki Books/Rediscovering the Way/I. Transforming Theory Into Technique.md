@@ -15,4 +15,4 @@ Transforming theory into technique is essential for manifesting the practical as
 6.  **Evaluating and Refining Techniques:** Continuously evaluate the effectiveness of your techniques in relation to your theoretical frameworks and the goals of your martial arts practice. Be open to revising or discarding techniques that no longer serve you, and remain receptive to learning and incorporating new techniques as your understanding of the Way deepens.
     
 
-By transforming theory into technique, we can develop a practical and effective martial arts practice that embodies the principles and wisdom of the Way. This process supports our journey towards mastery, empowering us to become more effective Warriors and powerful contributors to the Highest Intention and Greatest Good in service of [[One]] and [[All]].
+By transforming theory into technique, we can develop a practical and effective martial arts practice that embodies the principles and wisdom of the Way. This process supports our journey towards mastery, empowering us to become more effective Warriors and powerful contributors to the Highest Intention and Greatest Good in service of [[ONE]] and [[All]].

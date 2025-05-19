@@ -1,6 +1,6 @@
 # Meditation 195
 
-One cannot be or do properly unless one views ones Self as a Conscious Agent of universal, eternal, and Absolute Love for [[One]] and [[All]]. This is the only lens; this is the only logic; this is the only [[Logos]] that allows a being to perceive, orient, and act with Integrity. 
+One cannot be or do properly unless one views ones Self as a Conscious Agent of universal, eternal, and Absolute Love for [[ONE]] and [[All]]. This is the only lens; this is the only logic; this is the only [[Logos]] that allows a being to perceive, orient, and act with Integrity. 
 
 ___
 

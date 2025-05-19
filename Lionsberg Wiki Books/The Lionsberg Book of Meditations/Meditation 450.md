@@ -1,6 +1,6 @@
-Any "ism" but [[One]] sets itself up in opposition to the Supreme Unity that God intends and calls us up towards. 
+Any "ism" but [[ONE]] sets itself up in opposition to the Supreme Unity that God intends and calls us up towards. 
 
-There is only [[One]] thing that can be lifted up as Ultimately Supreme.
+There is only [[ONE]] thing that can be lifted up as Ultimately Supreme.
 
 ___
 

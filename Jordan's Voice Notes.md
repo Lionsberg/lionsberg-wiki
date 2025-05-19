@@ -4329,7 +4329,7 @@ Therefore, we are going to execute on the [[New Vision and Plan]].
 ____
 Nouns are dangerous. [[Nouning]] is a [[Left Hemisphere]] act of [[Categorization]], which inherently removes an [[Apparent Object]] from its [[Context]], reduces, and categorizes it into the [[Realm]] of the [[Apparently Known]].  
 
-Remember, all [[Apparent Objects]] are aspects of [[One]]. 
+Remember, all [[Apparent Objects]] are aspects of [[ONE]]. 
 
 If you look closely enough, [[Everything Is A Burning Bush]].  
 

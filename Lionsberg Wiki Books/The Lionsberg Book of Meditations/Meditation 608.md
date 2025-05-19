@@ -1,4 +1,4 @@
-We are [[All]] cells in One [[Embodiment]], created and sustained by [[One]] [[Central Animating Spirit]] and [[Source]]. 
+We are [[All]] cells in One [[Embodiment]], created and sustained by [[ONE]] [[Central Animating Spirit]] and [[Source]]. 
 
 ___
 

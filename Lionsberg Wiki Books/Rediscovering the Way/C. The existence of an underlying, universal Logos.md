@@ -2,7 +2,7 @@
 
 As we continue to rediscover the Way and embrace the Ultimate Reality of One Generative Source and the universal Energy that permeates all aspects of creation, we must also recognize the existence of an underlying, universal [[Logos]]. The Logos, often translated as "word," "reason," or "principle," represents the governing intelligence, order, logic, and harmony that permeate the cosmos and all aspects of life and consciousness. By understanding and aligning ourselves with this universal Logos, we can bring greater clarity, wisdom, and coherence to our thoughts, actions, and relationships, in accordance with the Way.
 
-1.  **Understanding the Universal Logos:** The concept of a universal Logos is present across a diverse array of traditions and philosophies. It signifies the underlying [[Order]], logic and harmony that govern the universe, reflecting the wisdom and intelligence of the [[One]] creating, sustaining, and regenerating it. 
+1.  **Understanding the Universal Logos:** The concept of a universal Logos is present across a diverse array of traditions and philosophies. It signifies the underlying [[Order]], logic and harmony that govern the universe, reflecting the wisdom and intelligence of the [[ONE]] creating, sustaining, and regenerating it. 
     
 2.  **Aligning with the Logos:** Through the practice of martial arts, meditation, contemplation, and other spiritual disciplines, we can learn to align our thoughts, actions, and intentions with the universal Logos. This alignment enables us to bring greater coherence and harmony to our lives, as we embody and express the wisdom and principles of the Way.
     

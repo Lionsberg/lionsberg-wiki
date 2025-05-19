@@ -53,7 +53,7 @@ We brought together lifetimes of work to co-create a provisional [[Lionsberg Int
 ### Part 5: Create a Philosophy, Ethic, and Structure of Values to Integrate and Guide the System towards the Goal 
 Integrating diverse elements into [[Higher Order Functional Unity]] requires a uniting [[Philosophy]], Ethic, and Structure of [[Values]]. 
 
-See [[Core Values]], [[Values]], [[Provisional Code]], [[Value]], [[Meta]], [[One]]. 
+See [[Core Values]], [[Values]], [[Provisional Code]], [[Value]], [[Meta]], [[ONE]]. 
 
 ## Step 2: Forge a Starting Point
 Because we are attempting the total transformation of a complex adaptive System, the specific entry point is not as important as beginning. 

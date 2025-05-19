@@ -10,7 +10,7 @@ From a coaching perspective, two of the most powerful tools are:
 For example: 
 - Did I Do My Best To: manage my total nested hierarchy of relationships with integrity?  
 - Did I Do My Best To: demonstrate unconditional Love to my loved ones?  
-- Did I Do My Best To: Live in Integrity and Right Relationship to [[One]] and [[All]]?  
+- Did I Do My Best To: Live in Integrity and Right Relationship to [[ONE]] and [[All]]?  
 
 2. As you evaluate [[Progress]], do not measure yourself against the Absolute. Rather, measure your [[Progress]] and [[Continuous Improvement]] over time. 
 

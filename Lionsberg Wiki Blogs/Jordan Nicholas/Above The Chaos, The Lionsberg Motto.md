@@ -17,7 +17,7 @@ Among other sovereignties, the most common themes are:
 - [[Unity]]  
 - [[Virtue]]  
 - [[Liberty]]  
-- [[One]] 
+- [[ONE]] 
 - [[Justice]]  
 - [[Progress]]  
 - [[Work]]  

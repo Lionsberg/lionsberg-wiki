@@ -8,7 +8,7 @@ Yet if we simply commit, to the very best of our ability, to live by the Spirit,
 
 The precondition for liberation from oppressive and tyrannical Law is the true transformation and commitment of the spirit, heart, mind and soul to live from, and only from, the Spirit. 
 
-If we truly govern our selves in partnership with [[One]] and [[All]], we do not need tyrants to govern us. 
+If we truly govern our selves in partnership with [[ONE]] and [[All]], we do not need tyrants to govern us. 
 
 ___
 

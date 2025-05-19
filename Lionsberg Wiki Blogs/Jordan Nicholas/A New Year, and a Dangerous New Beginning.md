@@ -40,7 +40,7 @@ This task is monumental, and the risks of failure are immense. After all, humani
 
 Yet, consider this: just 20 years ago, few people on Earth had a smartphone or a social media account. Within two decades, humanity voluntarily adopted these innovations on a global scale.
 
-We know this level of transformation is possible. The [[New]] must connect every individual, family, and community to its [[Collective Inheritance]] of everything needed to flourish in harmony with [[One]], [[One Another]], and [[All]].
+We know this level of transformation is possible. The [[New]] must connect every individual, family, and community to its [[Collective Inheritance]] of everything needed to flourish in harmony with [[ONE]], [[One Another]], and [[All]].
 
 ---
 

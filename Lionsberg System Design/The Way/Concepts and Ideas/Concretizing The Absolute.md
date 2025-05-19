@@ -4,7 +4,7 @@ See also [[Idolatry]].
 
 [[Concretizing The Absolute|Concretizing The Absolute]] is a core [[Patterns of Failure|Pattern of Failure]]. 
 
-In religious terms, it is akin to the sin of Idolatry, in which one sets up an image and worships it as if it were [[One]]. 
+In religious terms, it is akin to the sin of Idolatry, in which one sets up an image and worships it as if it were [[ONE]]. 
 
 In the [[Lionsberg System]], the [[Meta]] level of conceptual abstraction must always remain [[Universal and Eternal]], and not reduced to any one thing in any place or time. 
 

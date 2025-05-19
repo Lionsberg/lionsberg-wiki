@@ -1,6 +1,6 @@
 # Template For Agreement to Collaborate
 
-This template guides you in creating a collaborative agreement between two or more individuals or entities, outlining roles, responsibilities, values, and principles. The purpose of this agreement is to facilitate harmonious and effective collaboration towards a shared goal or project, while protecting the sovereignty and autonomy of each individual, and ensuring alignment with any [[Higher Order]] agreements the individuals have made with [[One]], [[All]], or [[Self]]. 
+This template guides you in creating a collaborative agreement between two or more individuals or entities, outlining roles, responsibilities, values, and principles. The purpose of this agreement is to facilitate harmonious and effective collaboration towards a shared goal or project, while protecting the sovereignty and autonomy of each individual, and ensuring alignment with any [[Higher Order]] agreements the individuals have made with [[ONE]], [[All]], or [[Self]]. 
 
 **Instructions:**
 

@@ -133,9 +133,9 @@ _Make your ear attentive to [[Wisdom]]. Incline your heart to [[Understanding]].
 
 _For if you cry out for [[Insight]], and raise your voice for [[Understanding]];_  
 
-_If you seek me as silver and search for me as for hidden treasures; then you will understand the fear of the [[One]], and discover the [[Knowledge]] of [[God]]._    
+_If you seek me as silver and search for me as for hidden treasures; then you will understand the fear of the [[ONE]], and discover the [[Knowledge]] of [[God]]._    
 
-_For the [[One]] gives [[Wisdom]]. From His mouth come [[Knowledge]] and [[Understanding]]._  
+_For the [[ONE]] gives [[Wisdom]]. From His mouth come [[Knowledge]] and [[Understanding]]._  
 
 _He stores up sound [[Wisdom]] for the upright; He is a shield to those who walk in [[Integrity]], guarding the paths of [[Justice]]…_  
 
@@ -173,7 +173,7 @@ There has never been a more important moment in history to stop and ask [[The Ri
  
 “What is the [[Source and Sustainer]] saying?”   
  
-“To whom is the [[One]] speaking?”  
+“To whom is the [[ONE]] speaking?”  
  
 “What is the meaning, purpose, and destiny of [[Life]]?”  
  
@@ -217,9 +217,9 @@ They have been spoken by prophets, sages, and grandparents throughout the millen
 
 They can be summarized in a single word, because they reflect aspects of an [[Ultimate Reality]] that is a fundamental [[Unity]].  
 
-Yet that single word is only a sound. It is only a tool. It sounds different in every language. Yet all the words point to [[One]] so much deeper and so much more profound that no words could ever fully articulate It.  
+Yet that single word is only a sound. It is only a tool. It sounds different in every language. Yet all the words point to [[ONE]] so much deeper and so much more profound that no words could ever fully articulate It.  
 
-Follow the [[Right Questions]], and you will always arrive back to the [[One]].  
+Follow the [[Right Questions]], and you will always arrive back to the [[ONE]].  
 ### Unmoored in the Seas of Chaos 
 
 You are asleep.
@@ -961,7 +961,7 @@ For the first 30 some years of my life, I was complicit in participating in, sup
 
 I am truly, deeply, sorry. 
 
-I will do my best to rise from the ashes, vanquish corruption and injustice, and set things back in [[Proper Order]] for the Good of [[One]] and [[All]] I exist in service to. 
+I will do my best to rise from the ashes, vanquish corruption and injustice, and set things back in [[Proper Order]] for the Good of [[ONE]] and [[All]] I exist in service to. 
 ### Our Relationship to Structures of Injustice 
 
 During the countless dark, hellish, and sleepless nights I endured as our Old World crumbled, I was forced to grapple with many strange beneficial adversaries. 
@@ -1110,7 +1110,7 @@ In that Deeper Understanding, we are [[All]] moved towards Right Relationship, R
 
 Whereas the thousands of [[Propositional Idols]] created by humanity over the last millennia were attempts to base Right Relationship on [[Propositional Knowledge]], the [[New Covenant]] is Ultimately Unwritten, and rooted in the Spirit and [[Non-Propositional Knowledge]] of an Ultimately Ineffable God. 
 
-As we awaken and depart [[The Caves]] that kept us divided and conquered in the past, We All now Know, with a Knowing Deeper than words, in the depths of Spirit and Soul, that [[God]] is [[One]]. The Absolute Unity that Creates and Sustains our Interexistence, our heartbeat, our breath, and our shared Life. 
+As we awaken and depart [[The Caves]] that kept us divided and conquered in the past, We All now Know, with a Knowing Deeper than words, in the depths of Spirit and Soul, that [[God]] is [[ONE]]. The Absolute Unity that Creates and Sustains our Interexistence, our heartbeat, our breath, and our shared Life. 
 
 This New Understanding and New Covenant does not in any way abolish or diminish the Sacred Words that have been written in the past. It fulfills them. 
 
@@ -1278,7 +1278,7 @@ As they reconstructed [[The Story]], everyone was consciously aware that what th
 
 However at the same time they understood that the New Words they were articulating were only an [[Icon]] pointing towards something ineffably and Ultimately Deep, they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew, for while it did not precisely and factually reflect the exact experience of each Family, it captured The Essence of the Universal Experience of All Families, Tribes, and Nations. 
 
-The Story, composed of the Individual and Local Stories of the billions who were awakening, and unified by [[One]] and [[All]], empowered children and adults around the world to once again Dream, Imagine, Hope, and Believe. 
+The Story, composed of the Individual and Local Stories of the billions who were awakening, and unified by [[ONE]] and [[All]], empowered children and adults around the world to once again Dream, Imagine, Hope, and Believe. 
 
 As each awakening individual and locality came to the point of articulating their own Forward Looking Story, they were, for the first time, truly free and responsible to reimagine the Way their lives and their world Should Be. They way they would like it to be. The playful energy of a return towards childlike Faith and Imagination swept across [[The Movement]] as individuals began sharing and deeply listening to One Another's hopes, dreams, and aspirations. One beautiful imagination fueled the next, ideas began remixing and recomposing themselves, spiraling upward towards Unity, Harmony, Coherence and Perfection, and soon, [[The Vision]] of [[Heaven On Earth]] was becoming a [[Progressive Realization]] in the Minds of All those Awakening. 
 
@@ -1290,15 +1290,15 @@ The Vision of [[Heaven On Earth]], and the billions of people dreaming it togeth
 
 They were delighted to discover that [[The Vision]] of [[Heaven On Earth]] looked beautifully different for the Achuar tribes of the Amazon, than it did for the Masai tribes of Kenya, than it did for the tribes of the Levant, than it did for the farmers in the plains of Turtle Island, than it did for the grandmothers of the North and the grandchildren of the South. 
 
-Yet at the [[Deepest]] level, it was clearly [[One]] logical, coherent, harmonious [[Whole]]. The [[Divine Blueprints]] were clearly from [[One]] Source, and being brought to Mind and Life by One [[Central Animating Spirit]]. 
+Yet at the [[Deepest]] level, it was clearly [[ONE]] logical, coherent, harmonious [[Whole]]. The [[Divine Blueprints]] were clearly from [[ONE]] Source, and being brought to Mind and Life by One [[Central Animating Spirit]]. 
 
 Time and time again, the [[Right Questions]] arose: What is the [[One Thing]] that unites [[The Diverse Many]]? What is the [[Essence]], or [[Central Animating Spirit]], that [[All]] the diverse expressions of [[Heaven On Earth]] share in common? What is the [[Golden Thread]] that weaves together every Wise, Right, and Good Vision of The Future?
 
 They [[All]] knew that it was something beyond simple human will or desire. Some thought at first that it was an expression of reunification with [[Nature]]. Yet Nature was constantly transforming, ever changing, and continually threatening and testing the Order they were working together to forge. It was true that humanity would need to reintegrate itself harmoniously and coherently within the [[Living System]] it was a part of, but there was something even [[Deeper]]. [[Deeper]]. [[Deeper]]. 
 
-As they continued to look [[Deeper]], they Ultimately rediscovered the [[One]] that united [[All]] of its expressions. If you looked Deep enough into any aspect of Creation, you could eventually rediscover It at its Beginning and End. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The Transcendent Generative [[Source and Sustainer]] of the Manifest Universe. The Ultimate Unity giving rise to inexhaustible Creative Diversity that existed through Its [[Central Animating Spirit]]. 
+As they continued to look [[Deeper]], they Ultimately rediscovered the [[ONE]] that united [[All]] of its expressions. If you looked Deep enough into any aspect of Creation, you could eventually rediscover It at its Beginning and End. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The Transcendent Generative [[Source and Sustainer]] of the Manifest Universe. The Ultimate Unity giving rise to inexhaustible Creative Diversity that existed through Its [[Central Animating Spirit]]. 
 
-The [[One]]. The Supreme Author of [[The Story]] writing its Self through them. 
+The [[ONE]]. The Supreme Author of [[The Story]] writing its Self through them. 
 
 The Creator was inviting them [[All]] to become [[Co-Creators]] of a Better World. 
 
@@ -1315,9 +1315,9 @@ As they wove the [[Golden Thread]] of the [[New Story]], they came to understand
 
 The [[Ultimate Reality]] guiding the subsequent transformations of [[Reality]] across [[Space]] and [[Time]]. 
 
-That which in English we point towards with [[Word Tools]] such as [[God]], [[Creator]], [[Ultimate Reality]], [[Absolute]], [[Source]], [[One]].  
+That which in English we point towards with [[Word Tools]] such as [[God]], [[Creator]], [[Ultimate Reality]], [[Absolute]], [[Source]], [[ONE]].  
 
-The beginning of [[The Story]] was different different across the diversity of tribes, and nations, yet [[All]] pointed back to [[One]]. 
+The beginning of [[The Story]] was different different across the diversity of tribes, and nations, yet [[All]] pointed back to [[ONE]]. 
 
 The beginning of [[The Story]] sounded [[Something Like]]: 
 
@@ -1351,29 +1351,29 @@ In the beginning…
 
 Before and beyond every name; before and beyond every attempt to grasp and comprehend; before and beyond every attempt to institutionalize; before and beyond every temple, idol and representation…
  
-…from the [[One]], [[All]] things come into Being, and nothing Exists except through the [[One]]. 
+…from the [[ONE]], [[All]] things come into Being, and nothing Exists except through the [[ONE]]. 
 
 *I Am.* 
 
-They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], and [[In The End]], [[The Story]] was [[One]]. 
+They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], and [[In The End]], [[The Story]] was [[ONE]]. 
 
 The rediscovery of the [[Knowledge of God]] beyond religion swept the Earth like floodwaters, paving the Way towards the [[New Covenant]]. 
 
 ### Epiphany Two: One Interexistence 
 
-The second great epiphany from [[The Story]] was that [[All]] things arising from the [[One]] were ultimately interconnected and interexistent. 
+The second great epiphany from [[The Story]] was that [[All]] things arising from the [[ONE]] were ultimately interconnected and interexistent. 
 
 All things were ultimately [[One Body]] of Co-Creation. 
 
-While [[The Song of Creation]] was subtly different in every tribe, those awakening could recognize that the variations were all harmonies in [[One]] [[Divine Symphony]]. 
+While [[The Song of Creation]] was subtly different in every tribe, those awakening could recognize that the variations were all harmonies in [[ONE]] [[Divine Symphony]]. 
 
-In each Song of Creation, from [[One]] the [[Creative Field]] emerges into view, the primordial fabric of unstructured [[Potential]] from which, upon which, and through which [[All]] things arise. 
+In each Song of Creation, from [[ONE]] the [[Creative Field]] emerges into view, the primordial fabric of unstructured [[Potential]] from which, upon which, and through which [[All]] things arise. 
 
 Ever transcending and hovering over the [[Chaos]] of unstructured [[Potential]] was something like the [[Central Animating Spirit]]. 
 
 And in-forming the animation of [[Potential]] into [[Form]] was something like the [[Logos]], or articulated Word and Logic of [[God]]. 
 
-The Living [[Embodiment]] of the Spirit and Logos of God were [[All]] [[One]]. 
+The Living [[Embodiment]] of the Spirit and Logos of God were [[All]] [[ONE]]. 
 
 They finally understood the Mysteries of Incarnation and Trinity. 
 
@@ -1387,7 +1387,7 @@ The [[Creative Field]] is moved into its subtlest forms, the subtle forms period
 
 Over epochs and across the infinite field, One universal flower was unfurling its Self in obedience to its [[Metaphysical DNA]], each of its constituents alternately Gravitating into Form, Radiating into Potential, and continuously spiraling up towards Higher Forms of Life and Consciousness. 
 
-Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was Co-Evolving in pursuit of the Spirit, The [[Logos]] and [[The Goal]] of the [[One]]. 
+Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was Co-Evolving in pursuit of the Spirit, The [[Logos]] and [[The Goal]] of the [[ONE]]. 
 
 Among the billions of galaxies was one whose humans named it Milky Way...
 
@@ -1397,7 +1397,7 @@ Among the billions of galaxies was one whose humans named it Milky Way...
 
 Among the trillions of planets manifest throughout the [[Creative Field]], the conditions on [[Earth]] were perfect for [[Life]]. 
 
-Graduating from the endarkened understanding of the previous centuries in [[The Caves]], awakening humanity came to deeply and progressively Realize that Earth, and all its inhabitants, were interexistent constituents of [[One]] Ultimately Interexisting [[Living System]]. 
+Graduating from the endarkened understanding of the previous centuries in [[The Caves]], awakening humanity came to deeply and progressively Realize that Earth, and all its inhabitants, were interexistent constituents of [[ONE]] Ultimately Interexisting [[Living System]]. 
 
 The [[Logos]] and the [[Conditions]] of [[Earth]] had conspired with Spirit to Speak and Breathe forth a vast [[Diversity]] of [[Life]].  
 
@@ -1405,17 +1405,17 @@ Among the [[Diversity]] emerged a unique being unlike any other, and yet one wit
 
 Human Beings. Conscious cultivators, guardians, stewards, and [[Co-Creators]] of their experience aboard Earth. 
 
-Endowed with creative [[Consciousness]], they shared with the [[One]] the Image and Power to consciously create and destroy by aggregating and channeling [[Energy]] towards Consciously Chosen [[Goals]] and [[Objectives]], in response to consciously perceived issues, challenges, needs, threats, fears, desires, and Spiritual Impulses.  
+Endowed with creative [[Consciousness]], they shared with the [[ONE]] the Image and Power to consciously create and destroy by aggregating and channeling [[Energy]] towards Consciously Chosen [[Goals]] and [[Objectives]], in response to consciously perceived issues, challenges, needs, threats, fears, desires, and Spiritual Impulses.  
 
 For the first time, all those who were awakening to the [[New Story]] came to understand their Ultimate Interexistence as incarnate local aspects of One Universal [[Living System]] that contained, sustained, and Ultimately United them [[All]]. 
 
-From this epiphany of interexistence, awakening humanity began to reconceptualize its unique role and [[Way of Being]] aboard [[Worksite Earth]], understanding that what each human being did or did not do unto any aspect of the Living System, it did or did not do unto its [[Self]], [[One]], and [[All]]. 
+From this epiphany of interexistence, awakening humanity began to reconceptualize its unique role and [[Way of Being]] aboard [[Worksite Earth]], understanding that what each human being did or did not do unto any aspect of the Living System, it did or did not do unto its [[Self]], [[ONE]], and [[All]]. 
 
 Finally, the Words of the Prophets and Teachers were being Understood, Embodied, and Enacted. 
 
 ### Epiphany Three: Billions of Backward and Forward Looking Stories 
 
-As humanity reconstructed [[The Story]], rediscovered their [[One]] Divine Beginning and End, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before. 
+As humanity reconstructed [[The Story]], rediscovered their [[ONE]] Divine Beginning and End, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before. 
 
 Far from suppressing their [[Diversity]], the dawning realization of their Ultimate Unity created the fundamental [[Conditions]] within which each [[Individual]] and [[Locality]] could freely express their unique [[Story]] without fear, and be Heard, for the first time. 
 
@@ -1437,7 +1437,7 @@ As they traced the [[Golden Thread]] ever Deeper and Higher, they progressively 
 
 The Highest and Deepest Principles, Patterns, and Values showed up over and over again as the [[Golden Thread]] that United the diverse array of [[Special Case]] individual and local instances. 
 
-From [[One]], the array of [[Archetypes]]. From the Archetypical, the Prototypical. From the Prototypical, the various Instantiations and Incarnations, localized and adapted.  
+From [[ONE]], the array of [[Archetypes]]. From the Archetypical, the Prototypical. From the Prototypical, the various Instantiations and Incarnations, localized and adapted.  
 
 They discovered that the Personalities reflected in their stories arrayed themselves around a diverse-yet-finite set of [[Archetypes]]. The [[Archetypes]] were like [[Ideals]] that defined [[The Essence]] of a [[Category]]. 
 
@@ -1447,7 +1447,7 @@ And they discovered that the Experiences reflected in their stories arrayed them
 
 The more they articulated and listened to their Stories, the more they came to understand [[The Story]] of the interexistence of humanity and All Creation aboard [[Worksite Earth]]. 
 
-They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common reflected something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[One]] Coherent and Intelligible [[Archetypical Narrative Structure]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]]. 
+They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common reflected something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[ONE]] Coherent and Intelligible [[Archetypical Narrative Structure]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]]. 
 
 The Deeper they came to understand [[The Story]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed that they were the only ones who dreaded their existence in [[The Caves]]. They had assumed they were the only ones who harbored these deep [[Fears]], [[Desires]], and [[Aspirations]]. They had assumed they were the only ones who longed for a [[Better World]] in which they were Free. 
 
@@ -1471,21 +1471,21 @@ The stronger the fear, hatred, and division between groups grew, the more they d
 
 Over the generations, this had resulted in the Primary [[Identity]] of humanity shifting further and further away from [[Unity]] of its Divine Beginning and End, and growing more and more polarized and divided along a vast array of chaotic fractures and fault lines. 
 
-As [[The Story]] came back together, so too did [[The Memories]] of humanity about Who They Were. They remembered that [[In The Beginning]], and [[In The End]], they were [[All]] [[One]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
+As [[The Story]] came back together, so too did [[The Memories]] of humanity about Who They Were. They remembered that [[In The Beginning]], and [[In The End]], they were [[All]] [[ONE]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
 
 One [[Family of Families]]. One [[Tribe Of Tribes]]. One [[Nation of Nations]]. One [[Story of Stories]]. 
 
-As they looked back towards the [[Highest]] and [[Deepest]] thing they [[All]] shared in common, the [[One Thing]] that United the vast [[Diversity]], it always and inevitably stretched out to encompass [[All]] of [[Nature]] and the [[Cosmos]], and then came back to the [[One]]. [[God]]. [[Creator]]. The Source and Sustainer. The Alpha and the Omega. The Beginning and the End. The [[I Am]]. 
+As they looked back towards the [[Highest]] and [[Deepest]] thing they [[All]] shared in common, the [[One Thing]] that United the vast [[Diversity]], it always and inevitably stretched out to encompass [[All]] of [[Nature]] and the [[Cosmos]], and then came back to the [[ONE]]. [[God]]. [[Creator]]. The Source and Sustainer. The Alpha and the Omega. The Beginning and the End. The [[I Am]]. 
 
-The remembrance of their [[One]] [[Highest Identity]] was a crucial turning point in [[The Story]]. The memory felt like coming home, and rediscovering the Love and Belonging they had all so desperately been longing for without knowing it. 
+The remembrance of their [[ONE]] [[Highest Identity]] was a crucial turning point in [[The Story]]. The memory felt like coming home, and rediscovering the Love and Belonging they had all so desperately been longing for without knowing it. 
 
-The revelation of their [[One]] [[Highest Identity]] as [[One Family]] of [[God]] did not require that they abandon any of their other [[Lower Order]] Names. They had beautiful and treasured individual names. Team names. Company names. Local names. Bioregional names. Tribal names. Group names. National names. And they could keep them all, and celebrate them all, and help each one Arise and Become all it was Uniquely Created to Be. 
+The revelation of their [[ONE]] [[Highest Identity]] as [[One Family]] of [[God]] did not require that they abandon any of their other [[Lower Order]] Names. They had beautiful and treasured individual names. Team names. Company names. Local names. Bioregional names. Tribal names. Group names. National names. And they could keep them all, and celebrate them all, and help each one Arise and Become all it was Uniquely Created to Be. 
 
-It was as if everyone who awakened was being simultaneously welcomed home and adopted by The Great Father back into [[One Family]]. It was if [[All]] peoples, tribes, and nations were streaming back [[The Great Banquet Table]] at the top of the [[Sacred Mountain]]. They could all retain their individual and local names and affiliations, while joyfully taking back up their Highest [[New Name]] and the vast sovereignty, authority, and inheritance that was their as Children of The [[One]] King of Kings, from whose gaze the little tyrants being puppeted by the [[Invisible Power Structures]] fled and hid themselves. 
+It was as if everyone who awakened was being simultaneously welcomed home and adopted by The Great Father back into [[One Family]]. It was if [[All]] peoples, tribes, and nations were streaming back [[The Great Banquet Table]] at the top of the [[Sacred Mountain]]. They could all retain their individual and local names and affiliations, while joyfully taking back up their Highest [[New Name]] and the vast sovereignty, authority, and inheritance that was their as Children of The [[ONE]] King of Kings, from whose gaze the little tyrants being puppeted by the [[Invisible Power Structures]] fled and hid themselves. 
 
 ### Epiphany Six: One Highest Citizenship 
 
-As the remembrances of the [[New Story]] revealed to them their [[Highest Identity]] and [[New Name]], it became clear to them simultaneously that their [[Highest Citizenship]] was not in any of the [[SpatioTemporal]] Earthly tribes, kingdoms, or nations, but in the Universal and Eternal [[Kingdom of God]] that United [[All Creation]] as [[One]]. 
+As the remembrances of the [[New Story]] revealed to them their [[Highest Identity]] and [[New Name]], it became clear to them simultaneously that their [[Highest Citizenship]] was not in any of the [[SpatioTemporal]] Earthly tribes, kingdoms, or nations, but in the Universal and Eternal [[Kingdom of God]] that United [[All Creation]] as [[ONE]]. 
 
 Like their [[Highest Identity]], being adopted back into the [[Highest Citizenship]] they all shared [[In Common]] did not require that they cancel or revoke any of the [[Lower Order]] affiliations or citizenships they had previously attained. 
 
@@ -1493,7 +1493,7 @@ It only required that they joyfully and voluntarily take up the [[New]] and High
 
 Unlike the previous revolutions that pit [[Us vs. Them]] and tore down the [[Old]], this was not a Manifest Revolution. It was a Transcendent Revelation. 
 
-As they [[Voluntarily]] adopted, and were adopted back into, a [[New]] and [[Highest Citizenship]], they discovered that the [[New Citizenship]] allowed them to retain the very best features of all that humanity had built over the previous millennia, while also affording the [[Higher Order Functional Unity]] required to partner with [[One]] and [[One Another]] to meet the needs and solve the problems at hand, and Co-Create [[Heaven On Earth]]. 
+As they [[Voluntarily]] adopted, and were adopted back into, a [[New]] and [[Highest Citizenship]], they discovered that the [[New Citizenship]] allowed them to retain the very best features of all that humanity had built over the previous millennia, while also affording the [[Higher Order Functional Unity]] required to partner with [[ONE]] and [[One Another]] to meet the needs and solve the problems at hand, and Co-Create [[Heaven On Earth]]. 
 
 It was as simple as voluntarily taking up a [[New Name]], and voluntarily beginning to act out a [[New Game]], together, for the Good of One and All. 
 
@@ -1515,7 +1515,7 @@ Yet on the other hand, there was a positive and hopeful [[Vision]] of [[Heaven O
 
 It was a [[Vision]] of [[Perfection]]. It was a [[Vision]] of the [[Ideal]]. It was a [[Vision]] of the [[Way]] things [[Should Be]]. It was a [[Vision]] of the [[Way]] we would [[All]] like for things to be. It was [[As If]] it were written by Love on the Hearts of every Being. 
 
-From tribes around the world, the prophesies all pointed to a time when humanity would awaken from a time of deep Darkness, the young and the old would reembrace one another, the masculine and feminine would heal one another, the Eagle and the Condor would fly together, and from North, South, East and West, people from every tribe, nation and people would return to [[The Great Banquet Table]] at the top of the [[Sacred Mountain]] to rediscover the [[Way]] of the [[One]]. 
+From tribes around the world, the prophesies all pointed to a time when humanity would awaken from a time of deep Darkness, the young and the old would reembrace one another, the masculine and feminine would heal one another, the Eagle and the Condor would fly together, and from North, South, East and West, people from every tribe, nation and people would return to [[The Great Banquet Table]] at the top of the [[Sacred Mountain]] to rediscover the [[Way]] of the [[ONE]]. 
 
 And it was prophesied that when the [[Knowledge of God]] [[Covers The Earth Like Floodwaters]], the lion would lie down with the lamb, they would beat their weapons into tools of life, and no longer would they train their children to war. 
 
@@ -1549,7 +1549,7 @@ In this part of [[The Story]], the adventure required attempting to [[Move]] the
 
 The Epic Quest Towards Destiny, towards [[The Goal]] of Greatest Worth, was already under [[Way]]. 
 
-It was an invitation from [[One]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
+It was an invitation from [[ONE]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
 
 It was an Divine Invitation from the Creator to arise, reunite as [[One Body]], and Co-Create the [[Best Possible Future]] for [[All]]. 
 
@@ -1579,11 +1579,11 @@ They discovered a Deep concept in The Story of Stories regarding the idea of a M
 
 The basic Idea behind the Meta Game was that while [[All]] other [[Sub Games]] were playing themselves out in the various [[Domains]] of [[Space]] and [[Time]], there was an Omni-Encompassing Universal and Eternal Game that was also being played on [[Deeper]] and [[Higher]] planes of [[Reality]]. 
 
-If the Highest Overarching and Uniting Meta Game could be won, then [[All]] other [[Sub Games]] would also be won simultaneously. [[The Victory]] would become a [[Meta Victory]] for [[One]] and [[All]]. 
+If the Highest Overarching and Uniting Meta Game could be won, then [[All]] other [[Sub Games]] would also be won simultaneously. [[The Victory]] would become a [[Meta Victory]] for [[ONE]] and [[All]]. 
 
 At the Highest and Deepest [[Levels of Analysis]], The Story, The Quest, The Game, The Project, The War... were all aspects of One Uniting Structure and Experience of Existence. 
 
-And so it was established [[The Goal]] of [[The Quest]] and [[The Victory]] of [[The War]] could only be accomplished by [[All]] for [[One]], and [[One]] for [[All]].  
+And so it was established [[The Goal]] of [[The Quest]] and [[The Victory]] of [[The War]] could only be accomplished by [[All]] for [[ONE]], and [[ONE]] for [[All]].  
 
 [[United As One]], All Things Were Possible. 
 
@@ -1594,7 +1594,7 @@ The Reunification of [[All Creation]] with [[One Another]] and its [[Source]] wa
 
 Having recaptured [[The Plot]] of [[The Story]] and reunited around the [[Most Important Things]], they were now progressively illuminating the [[Darkness]] of [[The Caves]], and embarking on the Epic [[Quest]] towards [[Destiny]]. 
 
-Moved by [[The Spirit]] and the [[Absolute And Unconditional Love]] of [[One]] for [[All]], and desiring that none should perish or be [[Involuntarily Left Behind]] in [[The Caves]], a system, strategy, and plan began to [[Emerge]] to move the entire population [[FROM the Old TO the New]].  
+Moved by [[The Spirit]] and the [[Absolute And Unconditional Love]] of [[ONE]] for [[All]], and desiring that none should perish or be [[Involuntarily Left Behind]] in [[The Caves]], a system, strategy, and plan began to [[Emerge]] to move the entire population [[FROM the Old TO the New]].  
 
 Out of [[The Caves]], beyond [[The Boundary]], through [[The Wilderness]], and towards [[The Promised Land]]. 
 
@@ -1609,7 +1609,7 @@ They understood that to spark [[The Movement]] out of [[The Caves]], beyond the 
 
 To Spark The Movement, all One had to do was tap back deeply enough into the Source of Light, and Life, and Love to light a single Spiritual candle in the midst of the Darkness, wake up a few others, and [[Pass The Flame]]. 
  
-[[One]] and 1 could awaken 2.  
+[[ONE]] and 1 could awaken 2.  
 2 could awaken 3.  
 3 could awaken 5.  
 5 could awaken 8.  
@@ -1708,7 +1708,7 @@ Having regained their [[Sovereignty]] and [[Independence]], they would have to o
 
 To establish the Highest Order of Unity, Spirit, and Intention among all [[Individuals]] and [[Groups]] advancing towards [[The Goal]], the concept of the [[New Covenant]] was resurrected and brought to the fore. 
 
-As opposed to the lower order transactional and temporary relationships that marked the [[Old World]], [[Covenant Relationship]] spoke to the [[Sacred]], [[Eternal]] [[Right Relationship]] between [[One]] and [[All]], between the [[Creator]] and [[All Creation]].
+As opposed to the lower order transactional and temporary relationships that marked the [[Old World]], [[Covenant Relationship]] spoke to the [[Sacred]], [[Eternal]] [[Right Relationship]] between [[ONE]] and [[All]], between the [[Creator]] and [[All Creation]].
 
 The [[New Covenant]], unlike the written laws and constitutions that governed the [[Old World]], was Ultimately Unwritten and mediated by [[The Spirit]]. 
 
@@ -1724,7 +1724,7 @@ The Spirit and Essence of the [[New Covenant]] were reflected as closely as poss
 
 The sole purpose of what they eventually came to call by mythical name of [[LIONSBERG]] was to Progressively Realize, or Incarnate, [[The Vision]] they were progressing towards in partnership with [[God]] and [[One Another]]. 
 
-The [[Lionsberg Constitution]] reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established [[The Commons]] where infrastructure, resources, services, and support could be aggregated, stewarded, and continuously improved in service of [[One]] and [[All]]. 
+The [[Lionsberg Constitution]] reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established [[The Commons]] where infrastructure, resources, services, and support could be aggregated, stewarded, and continuously improved in service of [[ONE]] and [[All]]. 
 
 All individuals, as a first act of emerging out of isolation and into community, were invited to incorporate by reference the Lionsberg Constitution into their Individual and local Constitutions, thereby voluntarily agreeing to [[The Rules]] of the [[New Game]] and the [[New Covenant]] that invited and enabled [[All Creation]] to advance together in [[Harmony]] towards [[The Goal]]. 
 ### Forging and Joining Groups 
@@ -1785,7 +1785,7 @@ In the early years, each [[Quest]] [[The Pioneers]] successfully completed helpe
 
 Progressing as a [[Group Of Groups]] / [[Team of Teams]] / [[Tribe Of Tribes]] in this fashion was crucial for solving the mysteries of [[Unity]] and [[Diversity]]. 
 
-United by [[One]] overarching and uniting [[Meta Goal]], and understanding the shared [[Vision]], [[Strategy]], and [[Plan]], each Team / Tribe / Locality was free to speak their own unique language, embody their own unique culture, manifest their own unique values, Co-Create their own unique processes, and be and do what they wished in the best [[Way]] they could locally discern. 
+United by [[ONE]] overarching and uniting [[Meta Goal]], and understanding the shared [[Vision]], [[Strategy]], and [[Plan]], each Team / Tribe / Locality was free to speak their own unique language, embody their own unique culture, manifest their own unique values, Co-Create their own unique processes, and be and do what they wished in the best [[Way]] they could locally discern. 
 
 Every one was [[Sovereign]], [[Autonomous]] and [[Free]], and no [[Actor]] had the right to violate the [[Free Will]] of any other [[Actor]] in their [[Domains of Responsibility and Authority]]. 
 
@@ -1943,7 +1943,7 @@ Assuming an average of 10 per group, and 10 groups per [[Group Of Groups]], this
 Because the sizes of the tribes varied, the Tenth Degree Group ended up composing the Whole of Humanity into Twelve Tribes.  
 #### The Highest Level of Analysis 
 
-The Whole was continually ReUnited As One Tribe of Tribes / Group of Groups, progressing towards [[One]] Vision and Goal. 
+The Whole was continually ReUnited As One Tribe of Tribes / Group of Groups, progressing towards [[ONE]] Vision and Goal. 
 
 The establishment of Highest Order Functional Unity via the [[Lionsberg System]] from the outset ensured that [[The Movement]] could never fracture or fragment. No matter how the [[Tribe Of Tribes]] morphed and reconfigured itself as [[The Movement]] grew, [[Unity]] enabled by [[Spirit]], [[Truth]] and [[Love]] eternally remained the essential requirement. 
 

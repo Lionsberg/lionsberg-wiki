@@ -1,4 +1,4 @@
-The standard against which [[All]] things are measured is [[One]]. 
+The standard against which [[All]] things are measured is [[ONE]]. 
 
 ___
 

@@ -4,6 +4,6 @@ Lionsberg is different from other systems because it is citizen-led and based on
 
 This stands in contrast to most existing systems and approaches, which are siloed or fragmented in nature, led from the top down, and often are set up for the primary benefit of one group, tribe, or nation. 
 
-Lionsberg is perhaps the first structured system in history set up *in service to [[One]], for the benefit of [[All]]*. 
+Lionsberg is perhaps the first structured system in history set up *in service to [[ONE]], for the benefit of [[All]]*. 
 
 See more [[Frequently Asked Questions]]  

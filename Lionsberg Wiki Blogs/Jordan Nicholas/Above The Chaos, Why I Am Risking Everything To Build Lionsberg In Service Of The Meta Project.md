@@ -30,9 +30,9 @@ We have come up with a vision, plan, and solution that is a starting point... th
 
 And what we have to try, is to see if we can create an embodied system of human organization, that every human being on earth was invited to take up "citizenship" in, that empowers all human beings and communities to help one another develop towards the fullness of their potential and flourish in harmony. 
 
-That first criteria, of a system and way of being that begins and ends with [[One]] and [[All]], demands that from the very inception, every decision made and every means employed is made relative to [[The Goal]] of a flourishing and reintegrated System of Life that works for [[All]]. 
+That first criteria, of a system and way of being that begins and ends with [[ONE]] and [[All]], demands that from the very inception, every decision made and every means employed is made relative to [[The Goal]] of a flourishing and reintegrated System of Life that works for [[All]]. 
 
-Once we have the Starting Point of such a System... incarnated solely to embody this spirit and accomplish this goal... all we have to do is progressively connect people up to the System, and continuously improve the Quality / make the System a little better every day in service of [[One]] and [[All]], by prioritizing and responding to the problems and needs that arise in the being and doing of those we serve. 
+Once we have the Starting Point of such a System... incarnated solely to embody this spirit and accomplish this goal... all we have to do is progressively connect people up to the System, and continuously improve the Quality / make the System a little better every day in service of [[ONE]] and [[All]], by prioritizing and responding to the problems and needs that arise in the being and doing of those we serve. 
 
 My Hypothesis / [[Current Best Understanding]] is that this cannot be accomplished in the abstract or intellectually. It actually has to be accomplished systematically, structurally, and identifiably in an embodied way. 
 
@@ -99,7 +99,7 @@ Yet even the rocks and stones are beginning to cry out...
 
 All creation is groaning and straining under the oppressions and injustices we have thrust upon her... 
 
-And so we press onward, hoping and praying that we can reach her in time, liberate her from her suffering, and restore the Proper Order that integrates us as we [[All]] advance towards our [[One]] universal and eternal [[Meta Goal]]. 
+And so we press onward, hoping and praying that we can reach her in time, liberate her from her suffering, and restore the Proper Order that integrates us as we [[All]] advance towards our [[ONE]] universal and eternal [[Meta Goal]]. 
 
 This might not work, but until we can see another way, we must keep trying and never give up. 
 

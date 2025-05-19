@@ -156,7 +156,7 @@ It cannot come from mere thought or mere intellectual assent to an Idea or a Rel
 
 It has to come from direct, personal, transformational experience. Touching the Deeper Dimensions. Discovering and then immersing your Individuated Spirit and Consciousness in the depths of its Source, the Generative Source of the Universe. Touching the hem of the proverbial garment of God. 
 
-When this occurs, when you begin to taste and see the Goodness and Greatness of the Interexistent Whole, then all the strife and struggle between the perceived Categories, Individuations, and Localities begins to fade away and disappear in the awe-inspiring presence of the [[One]]. 
+When this occurs, when you begin to taste and see the Goodness and Greatness of the Interexistent Whole, then all the strife and struggle between the perceived Categories, Individuations, and Localities begins to fade away and disappear in the awe-inspiring presence of the [[ONE]]. 
 
 ## Reaching Out and Touching the Deepest Dimensions 
 
@@ -198,7 +198,7 @@ The distributed array of Masculine and Feminine expression around [[The Archetyp
 
 [[Male]] and [[Female]] are fundamental biological facets that enable the co-creation of Life, the Female being perhaps most fundamentally defined as the sex that produces the larger gametes / ovum / egg cell that *selects* which male gamete (sperm cell) to fuse with during sexual reproduction. 
 
-Just as [[God]] / [[One]] organizes, integrates, balances, and properly orders all apparent polarities and dualities within Itself, so too must fully integrated human beings acknowledge and properly order, balance, integrate and cohere the [[Masculine]] and [[Feminine]] within them Selves, regardless of whether their physical Embodiment has manifested as biologically [[Male]] or [[Female]].  
+Just as [[God]] / [[ONE]] organizes, integrates, balances, and properly orders all apparent polarities and dualities within Itself, so too must fully integrated human beings acknowledge and properly order, balance, integrate and cohere the [[Masculine]] and [[Feminine]] within them Selves, regardless of whether their physical Embodiment has manifested as biologically [[Male]] or [[Female]].  
 
 This is a natural and necessary part of transcending mere biological and [[SpatioTemporal]] existence and rediscovering one's [[Primary Identity]] at the deeper levels of Spirit and Consciousness, rather than the shallower levels of Body and Mind. 
 

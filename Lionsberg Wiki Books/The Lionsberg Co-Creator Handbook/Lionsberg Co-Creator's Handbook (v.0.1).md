@@ -74,11 +74,11 @@ Every New Citizen of Lionsberg eternally becomes ever more [[Sovereign]], [[Auto
 
 The [[Pattern Language]] of the [[New World]] calls for individual and local self-governance, agency, and flourishing, in the context of [[Higher Order Functional Unity]]. We progress on our [[Quest]] towards that [[Destiny]] through our [[Practice]] of acting that out. 
 
-**This means that you have no "manager". No "boss". No external Authority but [[One]] and [[All]].** No accountability except to [[God]] and those who you voluntarily choose to collaborate with towards shared [[Goals]] and [[Values]]. 
+**This means that you have no "manager". No "boss". No external Authority but [[ONE]] and [[All]].** No accountability except to [[God]] and those who you voluntarily choose to collaborate with towards shared [[Goals]] and [[Values]]. 
 
 Your life, your groups, your community, your bioregion, your world, and Lionsberg as a Whole are All yours to navigate towards [[The Goal]]. 
 
-So figure out what [[One]] and [[All]] desire, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
+So figure out what [[ONE]] and [[All]] desire, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
 
 And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating Together towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[Lionsberg System]]. 
 
@@ -98,7 +98,7 @@ There are Three Supreme Agreements that ensure that The Game can be played indef
 2. [[Love One Another]]  
 3. [[Love All]]   
 
-The Three Supreme Agreements establish the [[Love]] of [[One]], [[One Another]], and [[All]] as the foundational principle and defining essence of all interaction in the Domain of Lionsberg. 
+The Three Supreme Agreements establish the [[Love]] of [[ONE]], [[One Another]], and [[All]] as the foundational principle and defining essence of all interaction in the Domain of Lionsberg. 
 
 From these, the entire [[The Lionsberg System of Values|Lionsberg System of Values]] is derived. 
 
@@ -131,9 +131,9 @@ We cannot [[Progressively Realize]] the [[New World]] without [[Becoming]] the k
 So the first thing to *do*, is to relax and to *be*. Together. In Community. Getting to know One Another. Building Relationship. Helping One Another Heal, Transform, and Become who we are each uniquely created to Be. 
 ### Deciding What to Do 
 
-In order for the Lionsberg System to function properly in service of [[One]] and [[All]], every individual and team must become [[Self-Governing, Self-Sustaining, and Self-Replicating]], continually choosing their own [[Meaningful Conversations and Quests]] to advance. No one can tell you what to do. 
+In order for the Lionsberg System to function properly in service of [[ONE]] and [[All]], every individual and team must become [[Self-Governing, Self-Sustaining, and Self-Replicating]], continually choosing their own [[Meaningful Conversations and Quests]] to advance. No one can tell you what to do. 
 
-Unlike the companies of the [[Old World]], where "employees" were typically hired to fulfill specific roles, life as a [[Sovereign]] [[Conscious Agent]] requires that you are continually observing the world around you, reorienting, dialoging, negotiating, and engaging in the most [[Valuable]] and [[Meaningful Work]] that you and those around you are capable of doing in service of [[One]] and [[All]]. 
+Unlike the companies of the [[Old World]], where "employees" were typically hired to fulfill specific roles, life as a [[Sovereign]] [[Conscious Agent]] requires that you are continually observing the world around you, reorienting, dialoging, negotiating, and engaging in the most [[Valuable]] and [[Meaningful Work]] that you and those around you are capable of doing in service of [[ONE]] and [[All]]. 
 
 [[The Right Questions]] contains some helpful guiding questions as you decide [[What To Do]], such as: 
 

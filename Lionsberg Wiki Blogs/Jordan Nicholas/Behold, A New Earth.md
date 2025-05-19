@@ -4,7 +4,7 @@ Earth, Its Self a Conscious Being, periodically cleanses and renews It Self.
 
 Just as advanced beings periodically put them Selves through the discomfort of fasting, deprivation, or harsh changes to force their body to reset, cleanse and renew, so too do aspects of the One Living System at Higher Levels of Abstraction. 
 
-Every aspect of Existence but [[One]] is part of a single Living System. 
+Every aspect of Existence but [[ONE]] is part of a single Living System. 
 
 The Universe of universes co-operates as [[One Body]].  
 
@@ -92,7 +92,7 @@ But humanity must remember that in its co-creation, something very unique was ad
 
 If humanity so chooses, We are inviting it to arise, unite, and take up up its rightful, separate, and transcendent place among "the sky people" and false gods it formerly subordinated ItSelf to. 
 
-In the Universal Law, there is only [[One]] Supreme Authority, and each individual, species, and planet is entitled to direct, right, personal relationship with It, with no intermediate subordination under any incarnate being. 
+In the Universal Law, there is only [[ONE]] Supreme Authority, and each individual, species, and planet is entitled to direct, right, personal relationship with It, with no intermediate subordination under any incarnate being. 
 
 Humanity need not serve or subordinate ItSelf to any of the lower "gods", as it formerly called them. 
 

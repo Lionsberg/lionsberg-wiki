@@ -8,7 +8,7 @@ This is a massive concept with many moving parts. We understand that it can be c
 
 It is an _idea_ of a different and better [[New World]], which includes a Community and a System purpose-built to bring the [[Best Possible Future]] into reality. 
 
-In action, its function is that of a coordinated global community of goodwill working in parntership with [[One]] and [[All]] to meet needs, solve problems, and design and build the best possible world we can conceive of. 
+In action, its function is that of a coordinated global community of goodwill working in parntership with [[ONE]] and [[All]] to meet needs, solve problems, and design and build the best possible world we can conceive of. 
 
 This happens in two interrelated areas: 
 

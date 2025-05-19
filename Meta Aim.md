@@ -8,4 +8,4 @@ The idea of the **Meta Aim** is critical because it provides a framework in whic
 
 Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid the [[Patterns of Failure|Pattern of Failure]] that occurs when we [[Concretizing The Absolute|Concretize The Absolute]]. 
 
-The [[Meta Aim]] is [[One]] with the [[Meta Goal]], _The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._ Or, the [[Kingdom of God]], [[On Earth As it Is In Heaven]].   
+The [[Meta Aim]] is [[ONE]] with the [[Meta Goal]], _The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness._ Or, the [[Kingdom of God]], [[On Earth As it Is In Heaven]].   
