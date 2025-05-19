@@ -13,7 +13,7 @@ The most basic definitions center around self-reproduction and variation.
 
 [[We Do Not Know]], but... 
 
-In the [[Lionsberg System]], the entire universe is viewed as a [[Living System]], in which an overarching and uniting [[Logos]] informs all associations and dissociations of [[Energy]] in an eternally regenerative process that creates and sustains Life. 
+In the [[LIONSBERG System]], the entire universe is viewed as a [[Living System]], in which an overarching and uniting [[Logos]] informs all associations and dissociations of [[Energy]] in an eternally regenerative process that creates and sustains Life. 
 
 Our [[Current Best Understanding]] and [[Hypothesis]] is that [[Life]] as we [[Perceive]] it is dependent upon, or arising from, [[Consciousness]], and not vice versa. 
 

@@ -3,7 +3,7 @@
 
 [[Authority]] refers to the right to exercise power within a [[Domain]]. 
 
-[[Authority]] in the [[Lionsberg System]] starts not at the "top" of any pyramid, abstraction, or domain, but with the [[Source]] of Life and Consciousness. 
+[[Authority]] in the [[LIONSBERG System]] starts not at the "top" of any pyramid, abstraction, or domain, but with the [[Source]] of Life and Consciousness. 
 
 From [[ONE]] [[Source]], [[Authority]] flows directly to each [[Individuals|Individual]]. 
 

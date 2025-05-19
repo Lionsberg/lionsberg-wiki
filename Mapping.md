@@ -7,4 +7,4 @@ Then, various visualizations -- tabular reports, graph network visualizations, g
 
 We note the difference between our use of "map" to mean data + visualizations, and the common meaning of "map", which is generally a visual representation, particularly of geography, often without a separate data table or database.
 
-A core element of the [[Lionsberg System]] is [[Interoperability]] among a growing diversity of of expressions. This requires very careful focus on the underlying data models, so that they can be brought to light in many different cultures, in many different ways, for many different purposes. 
+A core element of the [[LIONSBERG System]] is [[Interoperability]] among a growing diversity of of expressions. This requires very careful focus on the underlying data models, so that they can be brought to light in many different cultures, in many different ways, for many different purposes. 

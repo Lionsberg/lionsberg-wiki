@@ -17,7 +17,7 @@ Here is a soft table of contents to help you find your [[Way]].
 5. To learn more about the technology underlying the [[Lionsberg Wiki]], explore [[Collaborative Technology and AI - Pete Kaminski - EP 5]] with J + Pete Kaminski. 
 6. [[Lionsberg Core Documents]] links to draft agreements and works in progress that hold the space for emerge, co-creation, and continuous improvement.
 7. [[The Lionsberg Co-Creator's Handbook]] is a quick-start manual for those joining the movement.   
-8. The [[Lionsberg Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[Lionsberg System]]. 
+8. The [[Lionsberg Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[LIONSBERG System]]. 
 9. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] lays out some of the key topics and concepts in one place, as a jumping off point to further exploration. 
 10. [[A Poetic Map of Content]] is another creative map to navigate the wiki with
 

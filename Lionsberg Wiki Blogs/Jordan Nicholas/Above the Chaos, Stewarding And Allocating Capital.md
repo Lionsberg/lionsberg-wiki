@@ -180,7 +180,7 @@ As Requests for Payment based on [[Value Creation]] are made monthly to the memb
 Work with other members of the [[Meta Fund]] and the [[Meta Community]] to 
 
 ## Conclusion 
-That's all for now. If you would like to help develop the [[Meta Fund]] or the [[Lionsberg System]], please reach out and let's design and build together. 
+That's all for now. If you would like to help develop the [[Meta Fund]] or the [[LIONSBERG System]], please reach out and let's design and build together. 
 
 #### p.s. 
 p.s. - if you are interested, start thinking about the concepts of [[Time Currency]] and [[Time Price]] in a [[New World]] that has advanced beyond the artificial scarcity created by fiat currencies in the [[Old World]]. 

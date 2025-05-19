@@ -2,7 +2,7 @@
 
 Emergence describes the phenomenon where the collective behaviors of a system's components lead to outcomes that are greater than the sum of individual actions. It's a foundational concept for understanding complex systems within the Lionsberg framework.
 
-In the [[Lionsberg System]], [[Emergence]] is a [[Word Tool]] we use to point at creative process through which [[New]] things come into [[Being]] / [[Reality]]. 
+In the [[LIONSBERG System]], [[Emergence]] is a [[Word Tool]] we use to point at creative process through which [[New]] things come into [[Being]] / [[Reality]]. 
 
 We sometimes use phrases like [[That Which Is Trying to Emerge]] to acknowledge the spirit and [[Conscious Agency]] involved in Emergence. 
 

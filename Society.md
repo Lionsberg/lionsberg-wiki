@@ -1,6 +1,6 @@
 # Society
 
-In the context of the [[Lionsberg System]], "Society" refers to the complex web of relationships, institutions, norms, values, and systems that collectively shape the human experience. Society encompasses the diverse social, cultural, economic, and political dimensions of our shared reality, as well as the various roles, identities, and experiences of individuals and groups within this broader context.
+In the context of the [[LIONSBERG System]], "Society" refers to the complex web of relationships, institutions, norms, values, and systems that collectively shape the human experience. Society encompasses the diverse social, cultural, economic, and political dimensions of our shared reality, as well as the various roles, identities, and experiences of individuals and groups within this broader context.
 
 Society plays a central role in the Lionsberg System, as it is both the context within which we seek to effect change and the ultimate beneficiary of our collective efforts to create a better world. As [[Co-Creators]], we recognize the importance of understanding and engaging with the complexities of society in order to:
 

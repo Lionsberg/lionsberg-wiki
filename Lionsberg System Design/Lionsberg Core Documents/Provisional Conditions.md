@@ -62,7 +62,7 @@ The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Com
 
 - [[Lionsberg Integrated Delivery System]]  
 - [[Lionsberg Integrated Delivery Guide]]  
-- [[Lionsberg System]] 
+- [[LIONSBERG System]] 
 
 ## Videos 
 - 2 Minute - Coming Soon 

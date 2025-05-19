@@ -2,7 +2,7 @@ The [[Progressive Perfection]]] of each Individual and the Whole is does not *ne
 
 However humanity has discovered that if there is [[Work]] to be done, it is dramatically more efficient and effective to design and build Systems to accomplish it. 
 
-The [[Lionsberg System]] exists to serve, aid, and empower humanity on its primary [[Quest]] to progressively Perfect our Selves and our World. 
+The [[LIONSBERG System]] exists to serve, aid, and empower humanity on its primary [[Quest]] to progressively Perfect our Selves and our World. 
 
 ___
 

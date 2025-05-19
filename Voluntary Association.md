@@ -2,7 +2,7 @@
 
 A voluntary association refers to a group of [[Sovereigns]] who come together willingly and freely to pursue a shared purpose, interest, or goal. These associations are often formed to address a specific need, support a common cause, or engage in social, cultural, or educational activities. Membership in a voluntary association is typically based on shared values, beliefs, or interests, and the association operates without coercion or force, allowing individuals to join, participate, or leave as they choose.
 
-In the context of the [[Lionsberg System]], voluntary associations play a vital role in fostering collaboration, community building, and the pursuit of shared objectives. They can help create a sense of belonging, provide opportunities for mutual support, and serve as a platform for collective action and decision-making.
+In the context of the [[LIONSBERG System]], voluntary associations play a vital role in fostering collaboration, community building, and the pursuit of shared objectives. They can help create a sense of belonging, provide opportunities for mutual support, and serve as a platform for collective action and decision-making.
 
 Key principles and practices related to voluntary associations in the Lionsberg System include:
 

@@ -75,7 +75,7 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 62. In a Lionsberg World, We honor and uphold the Sacred [[Rites, Rituals, and Ceremonies]] that enable Culture to Remember and Continuously Improve across Millennia.   
 63. In a Lionsberg World, We continuously improve our [[Practice]] of the [[Way]].  
 64. In a Lionsberg World, We continuously improve the Fit and Conformance of the [[Lionsberg Way]] to the [[Ultimately Ineffable]] [[Way]] as such.   
-65. In a Lionsberg World, We continuously improve the Fit and Conformance of the [[Lionsberg System]] to the [[Ultimately Ineffable]] [[Meta System]] as such. 
+65. In a Lionsberg World, We continuously improve the Fit and Conformance of the [[LIONSBERG System]] to the [[Ultimately Ineffable]] [[Meta System]] as such. 
 66. In a Lionsberg World, We embrace [[Unity In The Essentials]] and [[Diversity In The Non-Essentials]], while [[Reflecting Our Values in All Things]].  
 67. In a Lionsberg World, [[Whatever We Do, We Do Unto One and All]].  
 68. In a Lionsberg World, We advance towards harmonious and coherent [[InterPlanetary]], [[InterStellar]], and Universal Existence.   

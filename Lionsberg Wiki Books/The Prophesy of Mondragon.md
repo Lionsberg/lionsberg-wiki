@@ -4,7 +4,7 @@ It has been said that every [[Story]] is a [[Prophesy]] of something even greate
 
 In 2018 and 2019, as we searched the world for alternative ways to govern our [[Selves]], we took two week long trips to [[Mondragon]] with the leading professor in the US and groups of graduate students to learn from the decades of experience, success, and struggle that resulted in the co-creation of one of the most successful co-operative economies in the world. 
 
-The [[Lionsberg System]] seeks to honor the wisest principles, values, and examples of what is working well in the Mondragon Experience, while attempting to step beyond it towards a [[New Human Operating System]] that could be offered to all 10 billion humans during the [[10 Year Grand Strategy]]. 
+The [[LIONSBERG System]] seeks to honor the wisest principles, values, and examples of what is working well in the Mondragon Experience, while attempting to step beyond it towards a [[New Human Operating System]] that could be offered to all 10 billion humans during the [[10 Year Grand Strategy]]. 
 
 Here is the Story of Mondragon as a example of what is possible in every bioregion and locality of the world. 
 

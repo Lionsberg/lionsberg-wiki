@@ -42,4 +42,4 @@ It is quite simple, but it will require a tremendous amount of discipline, coura
 
 Since there is so much [[Work]] to do, let's build a [[System]] to help us accomplish it, and ensure we input enough [[Energy]] and [[Resources]] required for it to operate. 
 
-If someone has a better [[Starting Point]], I am all ears. In the meantime, we are full speed ahead co-creating the [[Lionsberg System]]. We need your help. The world needs you. 
+If someone has a better [[Starting Point]], I am all ears. In the meantime, we are full speed ahead co-creating the [[LIONSBERG System]]. We need your help. The world needs you. 

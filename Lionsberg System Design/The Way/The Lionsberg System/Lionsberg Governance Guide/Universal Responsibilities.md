@@ -20,7 +20,7 @@ However this Whole is an abstraction. It is not of itself an actual thing. It is
 
 There is no Whole for us as Individuals and Localities to delegate this responsibility to. There is no "them" "out there" coming to save us. We are already here. As it has been said, we are the ones we have been waiting for. 
 
-The [[Lionsberg System]] is therefore rooted not only in the Universal Rights we aspire to, but also in the Universal Responsibilities that [[All]] would need to manifest in partnership with [[ONE]] in order to [[Realize]] that [[Potential]]. 
+The [[LIONSBERG System]] is therefore rooted not only in the Universal Rights we aspire to, but also in the Universal Responsibilities that [[All]] would need to manifest in partnership with [[ONE]] in order to [[Realize]] that [[Potential]]. 
 
 This brings us back to the Universal "Rules of the Game". 
 

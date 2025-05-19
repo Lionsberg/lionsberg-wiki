@@ -202,7 +202,7 @@ Just as [[God]] / [[ONE]] organizes, integrates, balances, and properly orders a
 
 This is a natural and necessary part of transcending mere biological and [[SpatioTemporal]] existence and rediscovering one's [[Primary Identity]] at the deeper levels of Spirit and Consciousness, rather than the shallower levels of Body and Mind. 
 
-In the [[Lionsberg System]] and many traditions, this idea of fractally balancing and cohering all [[Apparent Polarities]] across all [[Levels of Analysis]] in order to optimize [[Potential]] is known as [[Balancing On The Tip Of The Needle]].  
+In the [[LIONSBERG System]] and many traditions, this idea of fractally balancing and cohering all [[Apparent Polarities]] across all [[Levels of Analysis]] in order to optimize [[Potential]] is known as [[Balancing On The Tip Of The Needle]].  
 
 The act of [[Balancing On The Tip Of The Needle]] allows us to celebrate, embrace, and even become living expressions of the most Archetypical Expressions of each of the [[Apparent Polarities]], without being unbalanced, skewed, and therefore Unwise on any dimension of existence. 
 

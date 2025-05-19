@@ -2,7 +2,7 @@
 
 Responsibilities are duties or obligations that individuals or groups have towards others, themselves, or the environment. They are often seen as the counterpart to [[Rights]], as they help maintain balance and harmony within societies, ensuring that the rights of all members are respected and upheld.
 
-In the context of the [[Lionsberg System]], responsibilities are an essential aspect of fostering a just, [[Citizen Led]], and regenerative society. They are closely tied to the principles of [[Right Relationship]] and [[Dignity]], as they remind individuals and groups of their inherent sacredness, interconnectedness, and the importance of working together towards the common good.
+In the context of the [[LIONSBERG System]], responsibilities are an essential aspect of fostering a just, [[Citizen Led]], and regenerative society. They are closely tied to the principles of [[Right Relationship]] and [[Dignity]], as they remind individuals and groups of their inherent sacredness, interconnectedness, and the importance of working together towards the common good.
 
 Some common types of responsibilities include:
 

@@ -1,5 +1,5 @@
 # Meta Community
-The word [[Meta]] as it is used in the [[Lionsberg System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
+The word [[Meta]] as it is used in the [[LIONSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 Therefore **Meta Community** is the highest universal overarching and uniting "Community of communities", that by definition contains within itself and orders all other possible communities.
 

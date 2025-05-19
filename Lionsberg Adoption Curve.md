@@ -4,7 +4,7 @@ The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of 
 
 ## Way To Adopt - Small Groups
 
-Our Hypothesis is that adoption should be done in small groups, who can [[Help One Another]] learn, localize, and adapt the [[Lionsberg System]] in the [[Wise Right]] to their own unique [[Time]] and [[Space]].  
+Our Hypothesis is that adoption should be done in small groups, who can [[Help One Another]] learn, localize, and adapt the [[LIONSBERG System]] in the [[Wise Right]] to their own unique [[Time]] and [[Space]].  
 
 ## Group Size - 3 to 20, Average ~ 7 
 

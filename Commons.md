@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Commons
 
 The term "commons" refers to shared resources, goods, and spaces that are managed and used collectively by a community, group, or society. These resources can be tangible, like public parks, forests, water, and air, or intangible, like knowledge, culture, and digital information. The concept of the commons is rooted in the belief that certain resources should be accessible to all members of a community and not exclusively controlled or owned by individuals, corporations, or the state.
 
-In the context of the [[Lionsberg System]], the commons are an essential element that fosters collaboration, shared ownership, and collective responsibility. By recognizing and valuing the commons, individuals and groups can work together to preserve, maintain, and sustain these shared resources for the benefit of all, including future generations.
+In the context of the [[LIONSBERG System]], the commons are an essential element that fosters collaboration, shared ownership, and collective responsibility. By recognizing and valuing the commons, individuals and groups can work together to preserve, maintain, and sustain these shared resources for the benefit of all, including future generations.
 
 Key principles and practices related to the commons in the Lionsberg System include:
 
@@ -23,4 +23,4 @@ Key principles and practices related to the commons in the Lionsberg System incl
 7. **Fractal Commons**: Recognize that each [[Voluntary Association]] among [[Sovereigns]] brings into existence a [[Domain Of Responsibility And Authority]] and a [[Commons]], thereby necessitating a [[Field of Agreements]]. 
 
 
-By incorporating these principles and practices into the [[Lionsberg System]], individuals and groups can work together to protect, preserve, and sustain the commons, ensuring their continued availability and vitality for the benefit of all.
+By incorporating these principles and practices into the [[LIONSBERG System]], individuals and groups can work together to protect, preserve, and sustain the commons, ensuring their continued availability and vitality for the benefit of all.

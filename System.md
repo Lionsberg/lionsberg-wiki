@@ -4,7 +4,7 @@ A [[System]] is a network of elements that [[Interact]] and [[Interrelate]], acc
 
 Systems always divide all Universe outside the system from all of the Universe inside the system. All systems are finite subdividers of macro- and micro-Universe.
 
-The [[Lionsberg System]] looks at the universe as a single interrelated Whole, and invites us to progressively discover and [[Act As If]] that were True. 
+The [[LIONSBERG System]] looks at the universe as a single interrelated Whole, and invites us to progressively discover and [[Act As If]] that were True. 
 
 From that standpoint, it seeks to forge and embody a [[Human System]] that is entirely reintegrated with and in service of the [[Living System]], in the context of a highest overarching and uniting [[Meta System]]. 
 

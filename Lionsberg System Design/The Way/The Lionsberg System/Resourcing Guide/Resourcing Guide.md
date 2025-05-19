@@ -188,7 +188,7 @@ Agreeing on what constitutes Value is a prerequisite to coordinating and applyin
 For a discussion on this topic, see [[Value]]. 
 
 ## The Lionsberg System
-The [[Lionsberg System]] was established to realign and optimie these various resource flows in a multi-side economy and system _aimed at_ The Goal, and recognizing Value on that basis. 
+The [[LIONSBERG System]] was established to realign and optimie these various resource flows in a multi-side economy and system _aimed at_ The Goal, and recognizing Value on that basis. 
 
 ## The Critical Path Fund
  

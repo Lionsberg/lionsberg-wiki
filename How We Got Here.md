@@ -1,6 +1,6 @@
 # How We Got Here
 
-The [[Lionsberg System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
+The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
 [[How We Got Here]] corresponds to Step 2 in the System - Analysis, specifically relative to the [[Backward Looking Story]]. 
 

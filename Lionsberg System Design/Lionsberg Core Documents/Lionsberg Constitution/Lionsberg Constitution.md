@@ -23,7 +23,7 @@
 
 ## The Lionsberg System 
 
-To enable Our [[Co-Operation]] as [[One Body]], we hereby commit to [[Embody]], [[Steward]], and Continuously Improve the [[Lionsberg System]] we are Co-Creating for this Purpose, and to progressively discover and eliminate its [[Residual Error]] and [[Insufficiencies]] as we discover them in [[Practice]]. 
+To enable Our [[Co-Operation]] as [[One Body]], we hereby commit to [[Embody]], [[Steward]], and Continuously Improve the [[LIONSBERG System]] we are Co-Creating for this Purpose, and to progressively discover and eliminate its [[Residual Error]] and [[Insufficiencies]] as we discover them in [[Practice]]. 
 
 We acknowledge that every revealed defect and insufficiency is a Gift of great worth, to be celebrated as the primary means of [[Progress]] and [[Improvement]]. We therefore commit to Practicing this Way of Being in such a Way that We, and our Operating System, will be continuously improved for the Good of One and All, like Gold continually refined through the trials of Life and Liberty. 
 

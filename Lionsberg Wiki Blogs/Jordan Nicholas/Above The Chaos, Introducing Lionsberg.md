@@ -67,7 +67,7 @@ Those who do not want to honor and uphold the [[Lionsberg Code]] are welcome to 
 ___
 Invitations and voluntary consent from the bottom up. 
 
-No [[Old]] / existing organization, institution, or system of governance can impose the [[Lionsberg System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individuals]]. 
+No [[Old]] / existing organization, institution, or system of governance can impose the [[LIONSBERG System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individuals]]. 
 
 However any existing organizations, institution, or system of governance can _invite_ its constituents to, in addition to their citizenship(s) in whatever existing forms, also take up their universal citizenship in [[LIONSBERG]]. 
 
@@ -83,7 +83,7 @@ The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of 
 
 ## Way To Adopt - Small Groups
 
-Our Hypothesis is that adoption should be done in small groups, who can [[Help One Another]] learn, localize, and adapt the [[Lionsberg System]] in the [[Wise Right]] to their own unique [[Time]] and [[Space]].  
+Our Hypothesis is that adoption should be done in small groups, who can [[Help One Another]] learn, localize, and adapt the [[LIONSBERG System]] in the [[Wise Right]] to their own unique [[Time]] and [[Space]].  
 
 This is critical in that it localizes the [[Authority]] and [[Responsibility]] for administering individual and local matters in small groups of 3 to 20, who even if they lack access to any technology at all, can use fundamental human processes to govern them selves. 
 
@@ -211,7 +211,7 @@ Through the process of deeply listening to the problems, needs, and opportunitie
 
 This [[Prototype]] will contain [[General Solutions]] to the [[General Problems]], [[General Needs]], and [[General Opportunities]] faced by every community of Life as they strive to develop into the fullness of their unique potential and flourish. 
 
-The [[Conditions Of Acceptance]] ensure that the [[Lionsberg System]] and Infrastructure reach out and connect to with every individual and group on earth that desires to develop towards the fullness of their potential, by helping all others do the same. 
+The [[Conditions Of Acceptance]] ensure that the [[LIONSBERG System]] and Infrastructure reach out and connect to with every individual and group on earth that desires to develop towards the fullness of their potential, by helping all others do the same. 
 
 ___
 How will Lionsberg prioritize the [[Time]], [[Energy]], and [[Resources]] entrusted to it? 

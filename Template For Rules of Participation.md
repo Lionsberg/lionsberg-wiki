@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The following Rules of Participation outline the expectations for behavior and conduct for Participants within this (team, organization, group, or community). These rules are designed to ensure that everyone is working together in a safe, respectful, and productive manner, and to ensure that all Participants are aligned with the shared Vision, Goals, and Values of this [[Group]], and the [[Lionsberg System]] as a Whole. 
+The following Rules of Participation outline the expectations for behavior and conduct for Participants within this (team, organization, group, or community). These rules are designed to ensure that everyone is working together in a safe, respectful, and productive manner, and to ensure that all Participants are aligned with the shared Vision, Goals, and Values of this [[Group]], and the [[LIONSBERG System]] as a Whole. 
 
 ## Purpose
 

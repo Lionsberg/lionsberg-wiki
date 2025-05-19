@@ -1,12 +1,12 @@
 # Retrospectives
 
-A core element of the [[Lionsberg System]] is the mandate to  [[Become]] [[A Little Better Every Day]] by [[Helping All Do The Same]]. 
+A core element of the [[LIONSBERG System]] is the mandate to  [[Become]] [[A Little Better Every Day]] by [[Helping All Do The Same]]. 
 
 This is the basic principle behind [[Continuous Learning]] / [[Continuous Improvement]] / [[Continous Elevation]]. 
 
 The primary way that individuals, teams, organizations, and communities grow and improve is through the intentional practice of pausing to reflect, learn, and grow. 
 
-In the [[Lionsberg System]], we call this process a [[Retrospective]]. 
+In the [[LIONSBERG System]], we call this process a [[Retrospective]]. 
 ___
 Retrospectives are organized, regularly scheduled, facilitated sessions that provide team members the opportunity to identify is working and what is not working, and what can be done better in the future.  
 

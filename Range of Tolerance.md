@@ -1,6 +1,6 @@
 # Range of Tolerance
 
-In the context of the [[Lionsberg System]], the "Range of Tolerance" refers to the ability of individuals and groups to accept and accommodate differing ideas, perspectives, and approaches within the collective effort to create the [[New World]], provided that they remain within mutually acceptable boundaries. Recognizing that Co-Creators come from diverse backgrounds and experiences, the Range of Tolerance emphasizes the importance of embracing diversity and cooperation in pursuit of our shared [[Vision]].
+In the context of the [[LIONSBERG System]], the "Range of Tolerance" refers to the ability of individuals and groups to accept and accommodate differing ideas, perspectives, and approaches within the collective effort to create the [[New World]], provided that they remain within mutually acceptable boundaries. Recognizing that Co-Creators come from diverse backgrounds and experiences, the Range of Tolerance emphasizes the importance of embracing diversity and cooperation in pursuit of our shared [[Vision]].
 
 The Range of Tolerance encourages Co-Creators to:
 

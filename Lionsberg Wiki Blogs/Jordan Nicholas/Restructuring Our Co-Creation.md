@@ -45,7 +45,7 @@ To play Our Part in the emergent [[New System]], We are establishing a simple me
 
 Our goal for [[The Founder's Fund]] is to be allocating billions of dollars of quarterly [[Flow]] across the emerging ecosystem of Goodwill as rapidly as possible. 
 
-The [[Lionsberg System]] was co-created to make this previously impossible feat possible. 
+The [[LIONSBERG System]] was co-created to make this previously impossible feat possible. 
 ___
 ## Accelerating Into 2025
 

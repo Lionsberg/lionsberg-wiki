@@ -2,11 +2,11 @@
 
 To accomplish things they cannot do in isolation, Individuals [[Organize and Federate]] into [[Groups]].  
 
-Small, effective groups and teams are the basis of execution in the System. Small groups, generally of 3 to 20, are the core nodes of community, life, and action in the [[Lionsberg System]].  
+Small, effective groups and teams are the basis of execution in the System. Small groups, generally of 3 to 20, are the core nodes of community, life, and action in the [[LIONSBERG System]].  
 
 Groups inalienably possess all inherent [[Rights And Responsibilities]] of [[Individuals]] via the [[Individuals]] that compose them.  
 
-Each Group should do their best to [[Co-Operation|Co-Operate]] a [[Group Instance]] of the [[Lionsberg System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
+Each Group should do their best to [[Co-Operation|Co-Operate]] a [[Group Instance]] of the [[LIONSBERG System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
 
 The [[Group Instance]] is critical to ensuring that the Whole has Integrity, as a result of the Core System Components co-operating with [[Integrity]] at every [[Fractal]] level. 
 

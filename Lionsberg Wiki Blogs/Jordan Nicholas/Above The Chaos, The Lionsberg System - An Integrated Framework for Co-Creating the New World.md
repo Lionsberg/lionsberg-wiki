@@ -61,14 +61,14 @@ Society and the Living System play a central role in the Lionsberg System, as th
 1.  Identify the root causes of challenges and issues we face, such as corruption, injustice, poverty, inequality, environmental degradation, and conflict.
 2.  Develop effective strategies, interventions, and solutions that address these challenges in a systemic and transformative way, taking into account the interdependence of social, economic, and ecological systems.
 3.  Foster greater unity, cooperation, and collaboration among diverse individuals, groups, and sectors in pursuit of our shared [[Vision]] and [[Aspirations]].
-4.  Promote the widespread adoption of the values, principles, and practices outlined in the [[Lionsberg System]] and the [[New Vision and Plan]], ensuring that our collective efforts support the well-being of both human society and the broader Living System.
+4.  Promote the widespread adoption of the values, principles, and practices outlined in the [[LIONSBERG System]] and the [[New Vision and Plan]], ensuring that our collective efforts support the well-being of both human society and the broader Living System.
 5.  Cultivate a more loving, just, and regenerative society and Living System that benefits all living beings and supports the eternal flourishing of life on Earth.
 
 By working together as co-creators to elevate and transform both society and the Living System, we can help to [[Cross The Chasm]] between our present state and the [[Land of Promise]], where humanity and the Living System thrives in harmony, justice, and abundance for All.
 
 ## The Journey Towards the New World: Embracing Our Role as Co-Creators
 
-The Lionsberg System invites each of us to embrace our role as [[Co-Creators]], actively participating in the [[Quest]] towards the [[New World]]. By adopting the principles, practices, and aspirations outlined in the [[Lionsberg System]], we can contribute meaningfully to the collective effort of crossing the chasm and co-creating the Land of Promise.
+The Lionsberg System invites each of us to embrace our role as [[Co-Creators]], actively participating in the [[Quest]] towards the [[New World]]. By adopting the principles, practices, and aspirations outlined in the [[LIONSBERG System]], we can contribute meaningfully to the collective effort of crossing the chasm and co-creating the Land of Promise.
 
 As co-creators, we must engage in ongoing self-reflection, learning, and growth, embodying the values and principles of the Lionsberg System in our everyday lives. By working together to elevate and transform ourselves, our communities, and society as a whole, we can help to ensure that our individual and collective actions align with the [[Total Nested Hierarchy of Goals]] and contribute to the [[Progressive Realization]] of the [[Meta Goal]].
 

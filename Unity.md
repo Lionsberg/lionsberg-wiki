@@ -1,5 +1,5 @@
 # Unity
-In the [[Lionsberg System]], Unity, or [[Oneness]], is used to describe the Ultimate Right Relationship between [[ONE]] and [[All]]. 
+In the [[LIONSBERG System]], Unity, or [[Oneness]], is used to describe the Ultimate Right Relationship between [[ONE]] and [[All]]. 
 
 It has been said that the basic spiritual element in the universe is that which impels us towards Unity through [[Love]]. 
 

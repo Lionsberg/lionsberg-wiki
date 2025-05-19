@@ -14,7 +14,7 @@ Tools within the Lionsberg System can be categorized in various ways, such as:
     
 4.  Spiritual Tools: These are ideas, practices, or rituals that can be used to facilitate personal growth, self-awareness, and connection with our highest values and ideals and their Source. Examples include meditation, prayer, or engaging in meaningful rituals.
 
-In the [[Lionsberg System]], [[Tools]] and [[Anti-Tools]] are identified so that [[Practitioners]] can progressively improve [[Value Creation]] via [[Throughput]] of the [[Critical Path]] that marks the [[Way]] towards [[The Goal]]. 
+In the [[LIONSBERG System]], [[Tools]] and [[Anti-Tools]] are identified so that [[Practitioners]] can progressively improve [[Value Creation]] via [[Throughput]] of the [[Critical Path]] that marks the [[Way]] towards [[The Goal]]. 
 
 Tools also facilitate the elimination of [[Waste]]. 
 

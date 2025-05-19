@@ -30,7 +30,7 @@ The next steps (regardless of who takes them) are (something like): 
 5.  Set up **marketplaces** to efficiently match (all forms of capital) with the best leaders / opportunities / solutions. 
 6.  Set up a **mission control / program management** function to coordinate, communicate, and integrate across networks / themes / goals. 
 
-For these to work, my hypothesis is that this all needs to be done in the context of a uniting [[Integrated Delivery System]] that includes a [[Prototype]] that contains within itself and orders all elements of the System, and which can be localized and instantiated in any domain, learning each time it is deployed. This is why we are co-creating the [[Lionsberg System]]. 
+For these to work, my hypothesis is that this all needs to be done in the context of a uniting [[Integrated Delivery System]] that includes a [[Prototype]] that contains within itself and orders all elements of the System, and which can be localized and instantiated in any domain, learning each time it is deployed. This is why we are co-creating the [[LIONSBERG System]]. 
 
 Between our lifetimes of work and networks, we can accomplish all of the above. 
 
@@ -50,7 +50,7 @@ It became clear we would need some backbone Technology Infrastructure...
 
 It became that we would need a complete philosophy, language, system, community, and culture... 
 
-...so we combined lifetimes of work and resources to co-create the [[Lionsberg Community]] and the [[Lionsberg System]].  
+...so we combined lifetimes of work and resources to co-create the [[Lionsberg Community]] and the [[LIONSBERG System]].  
 
 [[LIONSBERG]] has been convening around the idea of a “Meta Project” (the universal ethical imperative at this moment of history that is bigger than any one organization / institution). Including the themes above. 
 

@@ -24,7 +24,7 @@ Whereas the first 50 years (and the millennia beforehand) required primarily the
 
 Bucky’s insight into the English Empire as the first closed-loop world system, and his insight into the requirement for a post-nation-state Omni-Integration of all localities, tribes, and nations into some form of [[Higher Order Functional Unity]], points the way towards the co-creation of a closed-loop [[Human System]] co-operating in support of the eternally regenerative flourishing of the [[Living System]]. 
 
-The [[Lionsberg System]] is purpose built for this objective. 
+The [[LIONSBERG System]] is purpose built for this objective. 
 
 Everything else becomes possible as reunite and become [[One Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
 
@@ -109,7 +109,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - In an Omni-Considerate, decentralized, simultaneous, world-around approach, these teams cannot and should not be controlled from the top down. 
 - Each Group or Team must be [[Self Governing]], [[Self Sustaining]], and [[Self Replicating]].   
 - The decentralized [[Team of Teams]] approach enables [[Self Governing]] [[Teams]], of their own [[Free Will]], to collaborate to create transformative local impact in their [[Domains of Responsibility and Authority]].  
-- The [[Lionsberg System]] further ensures that these [[Quests]] are undertaken in a [[Way]] that: 
+- The [[LIONSBERG System]] further ensures that these [[Quests]] are undertaken in a [[Way]] that: 
 	- 1. Enables interoperability and [[Flow]] of resources and information between [[Teams]], and 
 	- 2. Stacks up and aligns efforts across the [[Team of Teams]] to create [[Critical Path]] [[Progress]], or said in another way, [[Throughput]] of [[The Goal]], these being technically identical from the standpoint of an Omni-Considerate [[Meta System]] purpose-built to facilitate the Omni-Considerate [[Meta Project]].  
 - This allows for the poly-centric localization, adaption, and instantiation of an Interoperable Solutions Set being continuously improved to [[Meet The Needs, Solve The Problems, and Accomplish The Goals]] at hand in each community, watershed, bioregion, etc. 
@@ -144,7 +144,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 ### A New Human Operating System 
 
 - This calls forth an entirely New Human Operating System, totally reharmonized with the [[Living System]], and the [[Wisdom, Principles, and Values]] that cause people, societies, and ecosystems to flourish in harmony.  
-- The [[Lionsberg System]] was created for this purpose.  
+- The [[LIONSBERG System]] was created for this purpose.  
 
 ### Why Now? 
 
@@ -338,7 +338,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - As of the 1970s, after 50 years of gestation, the total set of conditions requisite for the world-around livingry service industry had been met
 - Technologically, humanity now has the opportunity, ***for the first time in history, to co-operate our planet in such a manner as to support and accommodate all humanity at a substantially more advanced standard of living than any humans have ever experienced in the past***.
 - We have always had enough [[Physical Resources]]. What has happened is that we have vastly increased our [[Know How]] of specialized innovations, all of which invisible realization integrates to make possible **success of All**. 
-- This can only be realized by a technological revolution involving **total Spaceship Earth**, using [[All]] the [[Resources]] and [[Know How]] as an **integrated regenerative system** (herein called the [[Lionsberg System]]), as in the design of any successful seagoing ship or biological organism. (Sometimes we use the metaphor of an [[Ark]] for [[LIONSBERG]]). 
+- This can only be realized by a technological revolution involving **total Spaceship Earth**, using [[All]] the [[Resources]] and [[Know How]] as an **integrated regenerative system** (herein called the [[LIONSBERG System]]), as in the design of any successful seagoing ship or biological organism. (Sometimes we use the metaphor of an [[Ark]] for [[LIONSBERG]]). 
 
 #### The Puppet Governments of the Invisible Power Structures 
 

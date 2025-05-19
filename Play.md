@@ -1,6 +1,6 @@
 # Play
 
-Play is a vital component of human experience and a key aspect of the [[Lionsberg System]], and built into its fabric through [[The Great Game of Lionsberg]]. 
+Play is a vital component of human experience and a key aspect of the [[LIONSBERG System]], and built into its fabric through [[The Great Game of Lionsberg]]. 
 
 Play encompasses a wide range of activities and experiences characterized by enjoyment, creativity, exploration, and engagement. Play is not just limited to games and sports, but also includes artistic expression, experimentation, and imaginative pursuits.
 

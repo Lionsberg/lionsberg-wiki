@@ -20,7 +20,7 @@ Through the illusion of [[SpaceTime]], the [[Observable Universe]], or [[Local U
 
 The edge of this sphere is not a physical boundary, but a personal perceptual horizon beyond which the individual Observer cannot obtain information. 
 
-The [[Meta Science]] of the [[Lionsberg System]], hypothesizes that theoretical starting points, such as the 13.8 billion years posited by backward extrapolations of the cosmic microwave background, are aspects of SpatioTemporal illusion, reflecting local microcosmic misapprehension of the broader macrocosmic context of Creation. 
+The [[Meta Science]] of the [[LIONSBERG System]], hypothesizes that theoretical starting points, such as the 13.8 billion years posited by backward extrapolations of the cosmic microwave background, are aspects of SpatioTemporal illusion, reflecting local microcosmic misapprehension of the broader macrocosmic context of Creation. 
 
 The [[SpatioTemporal]] structure of Universe is forged by the transformational interplay of [[Associative and Dissociative Energy]], typically perceived as associative into [[Matter]], and dissociative as electromagnetic [[Radiation]]. 
 

@@ -12,4 +12,4 @@ The [[Old World]] was full of misleading false dichotomies.
 - Centralized / Decentralized  
 - etc. 
 
-The [[Lionsberg System]] strives to rise above these false dichotomies in order to integrate their unique and important values from the highest possible perspective. 
+The [[LIONSBERG System]] strives to rise above these false dichotomies in order to integrate their unique and important values from the highest possible perspective. 

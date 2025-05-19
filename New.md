@@ -1,6 +1,6 @@
 # New
 
-In the [[Lionsberg System]], [[New]] is used as a [[Word Tool]] to point towards the [[Best Possible Future]] we are moving towards. 
+In the [[LIONSBERG System]], [[New]] is used as a [[Word Tool]] to point towards the [[Best Possible Future]] we are moving towards. 
 
 It is used in contrast to the [[Old]], which is used as a [[Word Tool]] to point towards the corrupt, broken, dysfunctional, and unjust elements of the past we are leaving behind. 
 

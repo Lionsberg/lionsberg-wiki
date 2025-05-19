@@ -6,7 +6,7 @@ This means that [[God]] does not dwell within, is not [[Subordinate]] to, and ca
 
 [[God]] is Ultimately [[Ineffable]], indescribable, incomprehensible, ungraspable, unboxable, invisible, and [[Superordinate]] to and [[Transcendent]] of every word, image, and temple. The words, images, and temples come from the [[Mind]] of humanity, which [[God]] is creating and sustaining.  
 
-It is therefore fascinating that Chapter 1 verse 1 of [[Isaiah]] opens by describing what follows as a [[Vision]]. What follows, the written propositions, are Isaiah's attempt to translate and transcribe into *words* what he *saw*.  In the [[Lionsberg System]], we call this [[Progressive Articulation]]. 
+It is therefore fascinating that Chapter 1 verse 1 of [[Isaiah]] opens by describing what follows as a [[Vision]]. What follows, the written propositions, are Isaiah's attempt to translate and transcribe into *words* what he *saw*.  In the [[LIONSBERG System]], we call this [[Progressive Articulation]]. 
 
 This is a great difficulty of the prophetic voice that attempts to speak from the Spirit of God. 
 

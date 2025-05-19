@@ -16,7 +16,7 @@ Whereas the first 50 years (and the millennia beforehand) required primarily the
 
 Bucky’s insight into the English Empire as the first closed-loop world system, and his insight into the requirement for a post-nation-state Omni-Integration of all localities, tribes, and nations into some form of [[Higher Order Functional Unity]], points the way towards the co-creation of a closed-loop [[Human System]] co-operating in support of the eternally regenerative flourishing of the [[Living System]]. 
 
-The [[Lionsberg System]] is purpose built for this objective, to facilitate the first closed-loop-human-operating system in history. This week, I intend to begin the process of inviting the rest of humanity to [[Join Us]] for the adventure and opportunity of a lifetime. 
+The [[LIONSBERG System]] is purpose built for this objective, to facilitate the first closed-loop-human-operating system in history. This week, I intend to begin the process of inviting the rest of humanity to [[Join Us]] for the adventure and opportunity of a lifetime. 
 
 Everything else becomes possible *if* we are able to reunite enough people, rapidly enough, and advance together towards [[The Goal]]. 
 
@@ -45,7 +45,7 @@ Jordan's Notes:
 
 - While Bucky's timing did not come to pass, it is still possible, even at this late hour, to undertake the [[10 Year Grand Strategy]]. 
 - My [[Current Best Understanding]] of the [[Critical Path]] is that it runs through the inspiration, enlightenment, and empowerment of those "thoughtful young ones" and old ones. 
-- We have built the [[Lionsberg System]] to progressively connect and empower billions of individual citizens to take action in small groups, teams, and localities over the coming 10 years. 
+- We have built the [[LIONSBERG System]] to progressively connect and empower billions of individual citizens to take action in small groups, teams, and localities over the coming 10 years. 
 - By building a new, independent, persistent membership organization, with a 3 year lag to Citizenship, with associated systems and technology, we forge a structured pathway for the tipping point strategy to unfold. 
 - Only by the united political will of thousands, then millions of citizens does it become possible to aggregate the resources required. 
 - Thus, the Critical Path runs through Unity... which makes everything subsequent goal and milestone possible. 

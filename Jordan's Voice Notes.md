@@ -6,7 +6,7 @@ In 2018, [[Jordan]] began recording a series of voice notes as the [[New Vision 
 
 Many of these concepts have been reflected in the [[Lionsberg Wiki Books]] and cross-woven through the [[Lionsberg Wiki]].  
 
-This Wikibook can be thought of as a harvest of 5 years of some potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, process what is of [[Value]] into the [[Lionsberg System]] and [[Lionsberg Commons]], and compost the rest. 
+This Wikibook can be thought of as a harvest of 5 years of some potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, process what is of [[Value]] into the [[LIONSBERG System]] and [[Lionsberg Commons]], and compost the rest. 
 
 We are also in the process of developing AI that will be able to query this book as part of the broader [[Lionsberg Wiki]]. 
 

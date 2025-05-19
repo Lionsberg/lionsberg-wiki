@@ -9,3 +9,7 @@ The [[Lionsberg Wiki]] homepage now has a more contextual and narrative feel. (S
 [[Lionsberg Wiki Books]] is where topics end up condensing into more structured form. 
 
 [[The Lionsberg Co-Creator's Handbook]] is a starting point to learn about the Way. 
+
+## Thoughts
+
+Eventually, the [[Lionsberg Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIONSBERG Intelligence System]]. 

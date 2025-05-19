@@ -17,7 +17,7 @@ We got a sense of the inexhaustibility of those spiritual flames of Light, Hope,
 But how might we accelerate the rate at which we begin to [[Awaken]] and Move humanity towards Life, Liberty, and Abundance beyond the narrow paradigms that progressively divided and conquered us throughout the last generations? 
 
 _____
-In [[The Prophesy of Mondragon]], we described how the [[Lionsberg System]] was created to enable a vibrant economic experiment provisioning 100,000 empowered co-creators to be strengthened and replicated 100,000 times around the world to forge a flourishing, abundant, and free [[New Economy]] for humanity composed of [[Self-Governing, Self-Sustaining, and Self-Replicating]] Groups and Teams.  
+In [[The Prophesy of Mondragon]], we described how the [[LIONSBERG System]] was created to enable a vibrant economic experiment provisioning 100,000 empowered co-creators to be strengthened and replicated 100,000 times around the world to forge a flourishing, abundant, and free [[New Economy]] for humanity composed of [[Self-Governing, Self-Sustaining, and Self-Replicating]] Groups and Teams.  
 ___
 In my recent conversations with Rick Lukens, international director of the **Live Aid** concert that reached billions of people around the world, we learned of the miracles that happened along the Way as one of the largest cultural events in history materialized in just 6 weeks and reached out to touch ~40% of the human population. 
 

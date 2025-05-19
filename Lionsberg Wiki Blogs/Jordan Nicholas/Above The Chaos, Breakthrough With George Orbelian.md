@@ -14,7 +14,7 @@ The document makes it clear that the heroes and solutions exist and are already 
 
 All we need to do is align and unite the social, political, and economic will. 
 
-It is my prayer that the [[Lionsberg System]] and [[The Lionsberg Strategy and Plan]] might be of service to connecting and empowering the distributed [[Force For Good]] outlined below. 
+It is my prayer that the [[LIONSBERG System]] and [[The Lionsberg Strategy and Plan]] might be of service to connecting and empowering the distributed [[Force For Good]] outlined below. 
 
 Time is short. Let's move. 
 

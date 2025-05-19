@@ -1,6 +1,6 @@
 # One Thing
 
-The [[Meta Idea]] of the [[Lionsberg System]] and the [[Meta Project]] is that there is **One Thing** that unites us [[All]]. 
+The [[Meta Idea]] of the [[LIONSBERG System]] and the [[Meta Project]] is that there is **One Thing** that unites us [[All]]. 
 
 There is only [[ONE]] [[Meta Aim]]. There is only [[ONE]] [[Meta Goal]]. There is only [[ONE]] [[Meta Vision]]. There is only one [[Most Worthy Goal]]. 
 

@@ -80,7 +80,7 @@ Your life, your groups, your community, your bioregion, your world, and Lionsber
 
 So figure out what [[ONE]] and [[All]] desire, that is uniquely yours to do, that no one else is doing, choose a [[Quest]], forge or join a Team, and get moving. 
 
-And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating Together towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[Lionsberg System]]. 
+And as you Move and Progress towards [[The Goal]], remember that because [[Out Here]] we are [[All]] responsible and empowered to steer the [[Vessel]] towards [[Destiny]], the most important thing you can ever do is help those around you become every more capable of skillfully navigating Together towards [[The Goal]]. Navigation towards [[The Goal]] is the essence of [[Governance]], and the essence of the [[LIONSBERG System]]. 
 
 While every individual and group is Sovereign and Free, if we do not wisely collaborate to [[Navigate]] [[The Vessel]] towards [[The Goal]] in a Spirit of Unity, Harmony, and Coherence, we will tear it apart and find our Selves once again enslaved in the [[Old World]]. 
 
@@ -256,7 +256,7 @@ The [[10 Year Grand Strategy]] cannot actually succeed unless We truly become a 
 
 As a [[Conscious Agent]] with [[Responsibility and Authority]] to [[Consciously Choose]] your own [[Teams]] and [[Quests]], you will notice that you and your teams will be continually presented with an array of [[Opportunities]],  [[Threats]], and [[Temptations]]. 
 
-One of the most important concepts of the [[Lionsberg System]] is the notion of [[Critical Path]] [[Progress]] towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
+One of the most important concepts of the [[LIONSBERG System]] is the notion of [[Critical Path]] [[Progress]] towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]]. 
 
 Always remember [[Where We Are Going]] and [[Why]], and focus [[Time, Energy, and Attention (TEA)]] on [[Milestones]] that mark the [[Critical Path]] towards [[The Goal]].  
 

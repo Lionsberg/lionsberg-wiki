@@ -26,4 +26,4 @@ The Lionsberg System will also strive to continuously learn and improve, and wil
 
 Overall, the Lionsberg Roadmap is designed to be a flexible and adaptable framework for guiding progress towards the Meta Goal, and will be regularly reviewed and updated to ensure that it is meeting the needs and aspirations of the community.  
 
-[[Lionsberg System]] 
+[[LIONSBERG System]] 

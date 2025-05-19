@@ -1,6 +1,6 @@
 # Where We Are
 
-The [[Lionsberg System]] operates on a [[Narrative Framework]] married up to an [[Integrated Delivery System]]. 
+The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to an [[Integrated Delivery System]]. 
 
 [[Where We Are]] is a [[Word Tool]] used to point at our current Reality, with all its [[Existing Forces and Conditions]]. 
 

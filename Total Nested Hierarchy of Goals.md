@@ -1,6 +1,6 @@
 # Total Nested Hierarchy of Goals
 
-In the context of the [[Lionsberg System]], the "Total Nested Hierarchy of Goals" refers to the interconnected and interdependent set of [[Goals]] that collectively contribute to the [[Progressive Realization]] of the [[Meta Goal]]. These goals are organized in a properly integrated hierarchical structure, with higher-level goals serving as integrating and guiding visions for the more specific, lower-level goals that fall under them. This conceptual hierarchy reflects the understanding that our individual and collective efforts must be aligned and coordinated in order to bring about the transformative change necessary to co-create the [[New World]].
+In the context of the [[LIONSBERG System]], the "Total Nested Hierarchy of Goals" refers to the interconnected and interdependent set of [[Goals]] that collectively contribute to the [[Progressive Realization]] of the [[Meta Goal]]. These goals are organized in a properly integrated hierarchical structure, with higher-level goals serving as integrating and guiding visions for the more specific, lower-level goals that fall under them. This conceptual hierarchy reflects the understanding that our individual and collective efforts must be aligned and coordinated in order to bring about the transformative change necessary to co-create the [[New World]].
 
 The Total Nested Hierarchy of Goals includes:
 
@@ -82,7 +82,7 @@ Community goals reflect the shared aspirations and priorities of local communiti
 Group goals guide the efforts of specific groups, organizations, or sectors, ensuring their contributions align with and support the broader hierarchy of goals. Examples of group goals could include:
 
 1.  Businesses adopting circular economy principles and reducing waste.
-2.  Educational institutions promoting the principles and values of the [[Lionsberg System]] and the [[New Vision and Plan]].
+2.  Educational institutions promoting the principles and values of the [[LIONSBERG System]] and the [[New Vision and Plan]].
 3.  Non-profit organizations advocating for policy changes that align policy and incentives with the [[Total Nested Hierarchy of Goals]].
 4.  Research institutions developing innovative solutions to global challenges.
 

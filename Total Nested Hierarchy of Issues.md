@@ -47,7 +47,7 @@ The Total Nested Hierarchy of Issues gives rise to a [[Total Nested Hierarchy of
 
 The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Nested Hierarchy of Goals]] is accomplished for the Good of All. 
 
-The [[Lionsberg System]] is being co-created to instantiate / embody these solutions. 
+The [[LIONSBERG System]] is being co-created to instantiate / embody these solutions. 
 
 ___
 To evaluate the parts of the prototype, we synthesized comprehensive lists of the challenges and opportunities facing humanity and life on earth. 

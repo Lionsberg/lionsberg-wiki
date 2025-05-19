@@ -1,6 +1,6 @@
 # Objectives
 
-In the context of the [[Lionsberg System]], "Objectives" refer to the specific, measurable, and time-bound [[Goals]] that guide our collective efforts in pursuit of the [[New World]]. Objectives are derived from the [[New Vision and Plan]], which outlines the broader [[Principles]] and [[Values]] that serve as the foundation for our shared [[Vision]].
+In the context of the [[LIONSBERG System]], "Objectives" refer to the specific, measurable, and time-bound [[Goals]] that guide our collective efforts in pursuit of the [[New World]]. Objectives are derived from the [[New Vision and Plan]], which outlines the broader [[Principles]] and [[Values]] that serve as the foundation for our shared [[Vision]].
 
 Objectives help Co-Creators to:
 

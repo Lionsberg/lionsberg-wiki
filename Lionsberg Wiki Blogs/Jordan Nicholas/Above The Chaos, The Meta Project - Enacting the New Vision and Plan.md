@@ -94,7 +94,7 @@ As humanity searched for a system and approach powerful enough to facilitate thi
 
 Among the various solutions around the world, one was discovered that had been purpose-built to connect and empower humanity to confront and overcome the [[Meta Crisis]], forge the [[Best Possible Future]] for [[All]], and leave in its wake the infrastructure and solutions of the [[New Era]]. 
 
-The System was called [[LIONSBERG]]. It was constructed in the form of a myth, an invitation, and a pragmatic purpose-built infrastructure. The [[Lionsberg System]] contained the DNA for a interoperable System of Systems that could be localized, adapted, and evolved over time. 
+The System was called [[LIONSBERG]]. It was constructed in the form of a myth, an invitation, and a pragmatic purpose-built infrastructure. The [[LIONSBERG System]] contained the DNA for a interoperable System of Systems that could be localized, adapted, and evolved over time. 
 
 ## Retaining The Best of the Old, While Gaining the New 
 
@@ -107,7 +107,7 @@ This New System and Approach afforded humanity the ability to act in a far more 
 
 Because the existing conditions on [[Worksite Earth]] included over 8 billion individual human beings, who ranged from newborn, helpless, and illiterate to enlightened, advanced, and spacefaring, it was recognized that each of 8+ billion humans beings would need to be met right where they were, wherever they were, so that they could learn to play their unique and important individual role in [[Co-Operating]] the [[New System]]. 
 
-For this purpose, the [[Lionsberg Academy]] was established to ensure that every individual who connected to the [[Lionsberg System]] had access to a world-class pre-school through advanced university education, for free, alongside the modules that taught them the specifics of how to grow into every greater responsibility and participation in co-operating the [[Lionsberg System]]. 
+For this purpose, the [[Lionsberg Academy]] was established to ensure that every individual who connected to the [[LIONSBERG System]] had access to a world-class pre-school through advanced university education, for free, alongside the modules that taught them the specifics of how to grow into every greater responsibility and participation in co-operating the [[LIONSBERG System]]. 
 
 ## Organizing and Structuring the Joint Venture / Public Private Partnership
 
@@ -129,7 +129,7 @@ The [[Current Best Understanding]] of the watchers in 2023 was that they had ent
 
 ## Resourcing the Critical Path, and Establishing Mission Control  
 
-The [[Critical Path]] objective was to gather abundant resources to equip and empower the distributed [[Team of Teams]] that would [[Co-Operate]] the [[Lionsberg System]]. 
+The [[Critical Path]] objective was to gather abundant resources to equip and empower the distributed [[Team of Teams]] that would [[Co-Operate]] the [[LIONSBERG System]]. 
 
 The Resources were necessary to establish the [[Mission Control]] center from which [[The Great Battle]] to confront and overcome the [[Meta Crisis]] and forge the [[New World]] would be waged. 
 

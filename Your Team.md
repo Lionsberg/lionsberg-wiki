@@ -7,7 +7,7 @@ Your Team (or Teams) if You join multiple teams, will be the core unit(s) throug
 
 We would recommend that You follow the principles outlined in [[Organizations The Lionsberg Way]] as Your Team Co-Creates itself. 
 
-Remember, the entire [[Lionsberg System]] is designed to function as an Integrated Whole, so there may be elements of the System that You haven't thought through yet that You may discover are important later. 
+Remember, the entire [[LIONSBERG System]] is designed to function as an Integrated Whole, so there may be elements of the System that You haven't thought through yet that You may discover are important later. 
 
 So We strongly encourage [[All]] to follow the [[Standards Of Interoperability]] that allow the Whole to emerge and function properly. 
 

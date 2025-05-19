@@ -46,7 +46,7 @@ Our Aim is to coalesce Citizens of Goodwill into an independent, self-sustaining
 If you are one of us, please join us. 
 ## Our Shared Destiny 
 
-We acknowledge the monumental task that lies ahead. May the Lionsberg Manifesto and the [[New Vision and Plan]] serve as a beacon of hope and inspiration, a guiding light to illuminate the path forward as we embark on this Quest together. Guided by the hand of Providence and armed with the [[Lionsberg System]] and the Word of Truth, we are the architects of our own Destiny and the co-creators of our Future. 
+We acknowledge the monumental task that lies ahead. May the Lionsberg Manifesto and the [[New Vision and Plan]] serve as a beacon of hope and inspiration, a guiding light to illuminate the path forward as we embark on this Quest together. Guided by the hand of Providence and armed with the [[LIONSBERG System]] and the Word of Truth, we are the architects of our own Destiny and the co-creators of our Future. 
 
 Together, let use arise and unite to confront and overcome the [[Meta Crisis]] and forge [[The Future]] we all desire - a future that thrives on the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]]. Let us vanquish Corruption, Injustice, and Oppression in all their forms, and lift one another up towards our highest shared Destiny. May the Lionsberg Manifesto and [[New Vision and Plan]] rekindle the flame of Faith and Hope within us All, as we take action to [[Progress]] together towards [[The Future]] that can be brighter, more flourishing, and more regenerative in every way than the past we are leaving behind. 
 ## Next Steps

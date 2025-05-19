@@ -4,7 +4,7 @@ To accomplish things they cannot do on their own, [[Individuals]] and [[Groups]]
 
 [[Communities]] inalienably possess all inherent [[Rights And Responsibilities]] defined in the System, via the [[Individuals]] and [[Groups]] that ultimately compose them. 
 
-Each Community should do their best to [[Co-Operation|Co-Operate]] a [[Community Instance]] of the [[Lionsberg System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
+Each Community should do their best to [[Co-Operation|Co-Operate]] a [[Community Instance]] of the [[LIONSBERG System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
 
 The [[Community Instance]] is critical to ensuring that the Whole has Integrity, as a result of the Core System Components co-operating at every [[Fractal]] level. 
 

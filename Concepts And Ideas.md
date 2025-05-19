@@ -1,5 +1,5 @@
 # Concepts And Ideas
-This is a very elementary [[Work In Progress]] linking to some of the core concepts and ideas presented in the [[Lionsberg System]] and in [[Jordan Nicholas Sukut|Jordan's]] writing. 
+This is a very elementary [[Work In Progress]] linking to some of the core concepts and ideas presented in the [[LIONSBERG System]] and in [[Jordan Nicholas Sukut|Jordan's]] writing. 
 
 Because we are talking about the highest levels of abstraction and most complex things humanity has been able to grapple with, it is important to really understand what concept or Reality these [[Word Tool|Word Tools]] point at. 
 
@@ -11,7 +11,7 @@ This is a 2% list that is just a placeholder...
 - [[Federating]]  
 - [[Forging Or Joining A Team]]  
 - [[LIONSBERG]]  
-- [[Lionsberg System]]  
+- [[LIONSBERG System]]  
 - [[Lionsberg Community]]  
 - [[Mapping]]  
 - [[Meta Game]]  

@@ -98,7 +98,7 @@ Every [[Quest]] is a [[Story]]... and [[Every Story Is A Prophesy]] of even grea
 
 Stories are presented via [[Story Boards]], which act as Manifestos, Budgets, Plans, and Retrospectives, driving the [[Resourcing and Engagement Flywheel]]. 
 
-The [[Lionsberg System]] enables [[Interoperability]] and [[Ecosystemic Flows]] of Resources and Knowledge across the distributed array. 
+The [[LIONSBERG System]] enables [[Interoperability]] and [[Ecosystemic Flows]] of Resources and Knowledge across the distributed array. 
 
 As we progress, leveraging 1/10th of our Resource Flows to continuously improve the systems and infrastructures of the New Era in stride. 
 _____
@@ -111,5 +111,5 @@ ______
 
 This kind of collective journey requires a System and Platform to connect and empower [[The Movement]]. 
 
-The [[Lionsberg System]] was built for this purpose. It is intended to serve as a [[Starting Point]] to be Continuously Improved as we [[Progress]]. 
+The [[LIONSBERG System]] was built for this purpose. It is intended to serve as a [[Starting Point]] to be Continuously Improved as we [[Progress]]. 
 

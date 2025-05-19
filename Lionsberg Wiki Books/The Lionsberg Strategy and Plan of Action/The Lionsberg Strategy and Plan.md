@@ -47,7 +47,7 @@ Coupled with our [[New]] [[Time-Energy Accounting]], this will reveal that the v
 These ideas, collectively composed of (what lies beyond) "lean", "agile", "theory of constraints", "the goal", "critical chain", etc., have exposed 60% plus waste in nearly every domain they have touched. We anticipate that the level of [[Waste]] on [[Worksite Earth]] in the 2020s is closer to 80%+.  
 ### Multi-Generational Co-Operation
 
-The [[New Human Operating System]] we are co-creating and learning to co-operate (which I call the [[Lionsberg System]]), does not just exist for us. 
+The [[New Human Operating System]] we are co-creating and learning to co-operate (which I call the [[LIONSBERG System]]), does not just exist for us. 
 
 It exists in service to all past, current, and future generations of Life and Consciousness, in All Times and Spaces. 
 
@@ -74,7 +74,7 @@ Because [[The Body]] developing within the [[Selectively Permeable Membrane]] mu
 
 Additionally, an [[Immune System]] is required to deal with pathogenic or toxic agents that will inevitably find their way through the membrane. 
 
-For this reason, the [[Lionsberg System]] must continuously improve its [[Immigration Policy]] alongside the functioning of its [[Immune System]]. 
+For this reason, the [[LIONSBERG System]] must continuously improve its [[Immigration Policy]] alongside the functioning of its [[Immune System]]. 
 
 ## A System and Structure with a Selective Permeable Membrane Requires Governance, Culture and Co-Operation 
 
@@ -152,7 +152,7 @@ The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to ho
 - Cycle 49: 3 Year Trailing Citizenship (Joining + 3 Years, or Age 15 + 3 Years) 
 - Cycle 50: The New Era Begins  
 
-The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[Lionsberg System]] produces [[Throughput]] of [[The Goal]]. 
+The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[LIONSBERG System]] produces [[Throughput]] of [[The Goal]]. 
 
 Whereas the [[Lionsberg Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
 
@@ -357,7 +357,7 @@ Beyond this, it appears that currently ~35% to 40% of global GDP is being spent 
 
 This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]]. 
 
-The [[Lionsberg System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).
+The [[LIONSBERG System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).
 
 Beyond the ~30% of global GDP being allocated to government waste, there likely exists another 30%+ of global GDP that is being allocated to economic waste (another $30 Trillion / Year), that could also be redirected towards the [[Critical Chain]]. 
 
@@ -365,9 +365,9 @@ It thus becomes apparent that the savings of *a single year of government waste*
 
 Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]]. 
 
-These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[Lionsberg System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered. 
+These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[LIONSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered. 
 
-As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[Lionsberg System]], after which it should be essentially self-funding and self-sustaining. 
+As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIONSBERG System]], after which it should be essentially self-funding and self-sustaining. 
 
 **Achieving this milestone merely requires more efficiently allocating *less than 1% of existing philanthropic capital flows* that are currently funding [[Waste]].** 
 
@@ -643,7 +643,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### Phased Adoption - The First 3% 
 
 1. We connect and empower the first 3% of humanity, roughly ~250 million leaders, by 2026 
-2. The [[Lionsberg System]] enables a distributed [[Team of Teams]] approach, connecting and empowering small autonomous teams of 3 to 16 individuals (optimally 4 to 7), and enabling them to stack up and align activities. 
+2. The [[LIONSBERG System]] enables a distributed [[Team of Teams]] approach, connecting and empowering small autonomous teams of 3 to 16 individuals (optimally 4 to 7), and enabling them to stack up and align activities. 
 3. This creates the distributed leadership capability required to help local communities and domains meet the needs, solve the problems, and accomplish the goals at hand as reality shakes through [[The 7 Year Window of Crisis and Opportunity]]   
 
 ### Onboarding, Orientation, Connection, and Empowerment 
@@ -684,7 +684,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### A Self-Governing, Self-Sustaining, and Self-Replicating Team of Teams 
 
 1. We empower [[The First Three Percent]] to self-organize into [[Self-Governing, Self-Sustaining, and Self-Replicating]] teams. 
-2. We empower the Teams to stack up and align their activities as a [[Team of Teams]] via the [[Lionsberg System]].  
+2. We empower the Teams to stack up and align their activities as a [[Team of Teams]] via the [[LIONSBERG System]].  
 3. We Co-Operate as [[One Team of Teams]]  
 4. We honor the principle of [[Subsidiarity]] to keep the [[Diverse Unity]] / [[The System]] [[Optimally Decentralized]]  
 5. We empower and align all [[Teams]] with all the solutions, tools, resources, and support necessary to enable us to co-operate in optimal / system-wide / flow enabling states that push the perceived boundaries of [[Potential]].   
@@ -740,7 +740,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 1. We design and implement a [[New Human Operating System]] that empowers the diverse array of humans to make decisions, meet needs, solve problems, accomplish goals, and navigate together as [[One Body]] 
 2. We recognize that [[The System]] must address all aspects of a [[New Human Operating System]], transforming and aligning every pillar or life and society  
-3. We continuously improve the [[Lionsberg System]] towards this end  
+3. We continuously improve the [[LIONSBERG System]] towards this end  
 ### The Platform  
 
 1. We establish [[The Platform]], a continuously improving user interface that sits atop a continuously improving interoperable technology stack  
@@ -802,11 +802,11 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We train, coach, and mentor [[Teams]] to operate / implement locally  
 3. We establish [[Feedback Loops]] so that the [[Soft Franchises]] in [[The Prototype]] continuously learn and improve  
 4. We cross pollinate learnings, systems, processes, [[Best Practices]], and technologies across the array of [[Soft Franchises]]  
-5. We Federate all emergent small businesses via the [[Lionsberg System]]  
+5. We Federate all emergent small businesses via the [[LIONSBERG System]]  
 
 ### We Omni-Federate  
 
-1. We federate all emergent organisms into an interoperable ecosystem via the [[Lionsberg System]] - [[Federating]]  
+1. We federate all emergent organisms into an interoperable ecosystem via the [[LIONSBERG System]] - [[Federating]]  
 2. We co-create ~100,000 Mondragon's, each serving ~100,000 Citizens, connecting every citizen on earth to [[Meaningful Work]], [[Meaningful Relationships]], and a network of [[Services, Support, and Safety Nets]]  
 3. We ensure that the each of the 100,000 federations is interconnected and interoperable at the mycelial level, enabling planetary [[Ecosystemic Flows]] in response to the [[Offers and Requests]] of each organism.  
 
@@ -870,7 +870,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	2. ~50 million [[Teams]]  
 	3. United as [[One Team of Teams]] / [[One Body]]   
 2. By [[Elevating and Transforming Our Lives and Our World]] fractally and relatively simultaneously around the world, starting with our own lives, families, communities, and bioregions, we unleash a exponential tsunami of [[Cascading Benefits]]  
-3. By connecting and empowering leaders and solutionaries around the world through the [[Lionsberg System]], we unleash a simultaneous and non-linear emergence across the vast array of action and integration domains 
+3. By connecting and empowering leaders and solutionaries around the world through the [[LIONSBERG System]], we unleash a simultaneous and non-linear emergence across the vast array of action and integration domains 
 4. We establish learning and feedback loops that empower the most powerful living, learning, adapting [[Research and Development (R&D)]] infrastructure in the history of life on Earth  
 	1. A planetary Research and Development Network that shares and cross-pollinates best practices, wisdom, solutions, and knowledge 
 	2. That empowers and informs The Whole / The Commons of geolocated and contextualized developments / trends / emerging patterns and solutions.  

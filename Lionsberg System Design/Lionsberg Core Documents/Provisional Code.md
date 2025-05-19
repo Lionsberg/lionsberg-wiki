@@ -26,7 +26,7 @@ ___
 
 ## Spirit 
 
-The entire [[Lionsberg System]] is moved by the [[Central Animating Spirit]] of God, and operates in service of the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 
+The entire [[LIONSBERG System]] is moved by the [[Central Animating Spirit]] of God, and operates in service of the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 
 
 This Spirit is the basis of the [[New Covenant]] that unites us [[All]] in Spirit, heart, and interexistence on a level far deeper than words. 
 

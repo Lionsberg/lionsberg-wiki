@@ -1,5 +1,5 @@
 # Integration Domains
-In the [[Lionsberg System]], Integration Domains refer to specific places or spheres within which [[Action Domains]] must be integrated and coordinated in order for the Whole to function. 
+In the [[LIONSBERG System]], Integration Domains refer to specific places or spheres within which [[Action Domains]] must be integrated and coordinated in order for the Whole to function. 
 
 The skill of [[Integration]] relates to the [[General Management]] of all the specialized [[Action Domains]] into a coordinated and coherent Whole. 
 

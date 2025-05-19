@@ -15,4 +15,4 @@ A critical path can be helpful in:
 4.  Monitoring progress and making adjustments: Tracking the critical path enables project managers and stakeholders to monitor progress and make data-driven decisions to adjust plans and resources as needed to keep the project on track.
     
 
-In the context of the [[Lionsberg System]] and the [[New Vision and Plan]], understanding the critical path for implementing the New Vision and Plan is crucial to effectively addressing the interconnected challenges we face and achieving the desired outcomes with [[The 7 Year Window of Crisis and Opportunity]] and the [[10 Year Grand Strategy]]. 
+In the context of the [[LIONSBERG System]] and the [[New Vision and Plan]], understanding the critical path for implementing the New Vision and Plan is crucial to effectively addressing the interconnected challenges we face and achieving the desired outcomes with [[The 7 Year Window of Crisis and Opportunity]] and the [[10 Year Grand Strategy]]. 

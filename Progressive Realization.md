@@ -1,6 +1,6 @@
 # Progressive Realization
 
-In the [[Lionsberg System]], [[Realize]] contains two distinct meanings, which are meant to [[Interact]] with and [[Inform]] one another. 
+In the [[LIONSBERG System]], [[Realize]] contains two distinct meanings, which are meant to [[Interact]] with and [[Inform]] one another. 
 
 The first is Realization in the spiritual / intellectual / [[Metaphysical]] sense of the world, as in to become aware of or understand something. 
 

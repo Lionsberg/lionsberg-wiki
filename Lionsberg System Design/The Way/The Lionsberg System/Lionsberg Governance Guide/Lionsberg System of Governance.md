@@ -1,6 +1,6 @@
 # Lionsberg System of Governance
 
-The [[Lionsberg System]] is a [[System of Systems]]. One [[System]] is the Lionsberg System of Governance. 
+The [[LIONSBERG System]] is a [[System of Systems]]. One [[System]] is the Lionsberg System of Governance. 
 
 The Lionsberg System of Governance is designed to ensure that decision-making and resource allocation within the community are transparent, accountable, and representative of the diverse needs and interests of all members.  
 
@@ -28,7 +28,7 @@ Decision-making within the Lionsberg System is based on a consent-based model, i
 
 In addition to more traditional forms of governance, the Lionsberg System also incorporates mechanisms for empowering crowd-sourced decision-making and resource allocation, such as online voting and crowdfunding platforms. These tools allow for greater participation and transparency in the decision-making process, and help to ensure that resources are allocated in a way that reflects the collective will of the community.
 
-The entire [[Lionsberg System]] is constructed as an interoperable [[Kit of Parts]] contained in a [[Prototype]], that can be localized and [[Instantiation|Instantiated]] in any time or place. 
+The entire [[LIONSBERG System]] is constructed as an interoperable [[Kit of Parts]] contained in a [[Prototype]], that can be localized and [[Instantiation|Instantiated]] in any time or place. 
 
 The entire [[System]], like any System, is designed to [[Interoperate]] as a unified Whole  to produce [[Throughput]] of its [[Meta Goal|Goal]], which is the wellbeing and flourishing of all. 
 
@@ -36,7 +36,7 @@ The **Lionsberg System of Governance** is inherently designed to interoperate wi
 
 ____
 
-The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[Lionsberg System]] is based on [[Self Governance]] from the bottom up. 
+The basis of [[Progress]] towards [[The Goal]] within the boundaries of shared [[Vision]] and [[Values]] is [[Self Governance]] and [[Integrated Delivery]]. As a [[System]] purpose-built to empower sovereign autonomous progress towards shared goals and values, the [[LIONSBERG System]] is based on [[Self Governance]] from the bottom up. 
 
 ___
 

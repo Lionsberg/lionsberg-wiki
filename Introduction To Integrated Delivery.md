@@ -10,7 +10,7 @@ It explains how this methodology can be used to unite a global community of sove
 
 It explains how this effort can leave in it’s a wake a [[Common Inheritance]] of infrastructure, systems, ideas, culture, and technology that can empower humanity and the entire living system towards a future that is better in every way than the past we are leaving behind. 
 
-It is intended as part of the [[The Lionsberg Handbook]] which lays out other critical elements of the [[Lionsberg System]], including structure, governance, culture, and values. 
+It is intended as part of the [[The Lionsberg Handbook]] which lays out other critical elements of the [[LIONSBERG System]], including structure, governance, culture, and values. 
 
 In places, this document may feel a bit awkward, because it is written over a technical base document that represents tens of millions of dollars of thought and effort towards a specific goal. 
 

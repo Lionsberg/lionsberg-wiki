@@ -23,7 +23,7 @@ The voluntary effort towards shared goals will be measured based on a [[Level Of
 	- Can be perceived as scarce
 	- Can be invisible 
 	- Requires surfacing and broadcasting everything one does, as opposed to doing the wise right thing at the right time for the right reasons, especially when no one sees. 
-- [[Value]] is critically important, especially as it is defined in the [[Lionsberg System]] relative to [[Throughput]] of [[The Goal]], and differentiated from [[Waste]].  
+- [[Value]] is critically important, especially as it is defined in the [[LIONSBERG System]] relative to [[Throughput]] of [[The Goal]], and differentiated from [[Waste]].  
 - So it needs to be carefully measured and acknowledged... without imprisoning us. 
 
 

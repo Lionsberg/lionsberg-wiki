@@ -1,6 +1,6 @@
 # How We Are Going To Get There
 
-The [[Lionsberg System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
+The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
 [[How We Are Going To Get There]] corresponds to Step 4 in the System - Planning. 
 

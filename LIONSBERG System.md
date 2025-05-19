@@ -1,9 +1,9 @@
-# Lionsberg System
+# LIONSBERG System
 
- The Lionsberg System is a powerful system and toolkit designed to support the implementation of the [[New Vision and Plan]]. It includes a wide array of tools, resources, and strategies that empower individuals and communities to take effective action to transform their own lives and the world around them.
+ The Lionsberg System is a powerful holofractal operating system and toolkit designed to support the implementation of the [[New Vision and Plan]]. It includes a wide array of tools, resources, and strategies that empower individuals and communities to take effective action to transform their own lives and the world around them.
 ___
 
-See also [[The Lionsberg Handbook]] 
+See also [[The Lionsberg Co-Creator's Handbook]]  
 
 ## I. Introduction
 
@@ -142,7 +142,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 -   A system for sustainability and resource management.
 -   A system for healthcare and wellness.
 
-[[Lionsberg System]] - System Intent  
+[[LIONSBERG System]] - System Intent  
 [[Provisional Trust Manifesto]] - History & Inception  
 [[Provisional Declaration]] - Vision & Intention 
 [[Universal Values]] - Overarching & Uniting Values 

@@ -1,6 +1,6 @@
 # Pass The Baton
 
-"Pass The Baton" is a [[Metaphor]] that emphasizes the importance of intergenerational responsibility and the continuity of life, knowledge, and wisdom across generations. In the context of the [[Lionsberg System]], this concept serves as a reminder that each generation has a duty to learn from the past, build on the achievements and lessons of their predecessors, prepare the way for future generations to thrive and flourish, and then pass the baton to the rising generation.
+"Pass The Baton" is a [[Metaphor]] that emphasizes the importance of intergenerational responsibility and the continuity of life, knowledge, and wisdom across generations. In the context of the [[LIONSBERG System]], this concept serves as a reminder that each generation has a duty to learn from the past, build on the achievements and lessons of their predecessors, prepare the way for future generations to thrive and flourish, and then pass the baton to the rising generation.
 
 Passing the baton involves acknowledging that we are part of a larger story that stretches far beyond our individual lives, and that our actions and choices have a lasting impact on those who come after us. This sense of responsibility informs the decisions made within the Lionsberg System and encourages the community to work towards creating a regenerative, just, and thriving world that supports the well-being of all life, both now and in the future.
 

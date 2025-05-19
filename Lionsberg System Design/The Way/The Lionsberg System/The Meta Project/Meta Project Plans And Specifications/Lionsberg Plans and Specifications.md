@@ -1,6 +1,6 @@
 # Lionsberg Plans and Specifications
 
-The [[Lionsberg Wiki Books]] and the [[Lionsberg Wiki]] as a whole provide a detailed conceptual overview of the [[Lionsberg System]] and the [[New World]] it aims to bring into Reality. 
+The [[Lionsberg Wiki Books]] and the [[Lionsberg Wiki]] as a whole provide a detailed conceptual overview of the [[LIONSBERG System]] and the [[New World]] it aims to bring into Reality. 
 
 Because humanity has not yet Embodied this kind of [[Higher Order Functional Unity]], our shared Quest is an ongoing act of Co-Creation, and will remain so throughout the [[New Millennium]] and Eternally Beyond. 
 
@@ -84,7 +84,7 @@ To facilitate clarity and universal understanding, key [[Word Tools]] / Terms sh
 
 ### 1.5 Transcendent Linguistic Integration 
 
-The [[Lionsberg System]] has gone to great effort to Abstract Out the [[Golden Thread]] of [[Wisdom]], [[Truth]], and [[Knowledge]] from the warring systems that sought to contain and monopolize them in the past, and to place them in [[The Commons]]. 
+The [[LIONSBERG System]] has gone to great effort to Abstract Out the [[Golden Thread]] of [[Wisdom]], [[Truth]], and [[Knowledge]] from the warring systems that sought to contain and monopolize them in the past, and to place them in [[The Commons]]. 
 
 Existing in [[The Commons]], this [[Wisdom]], [[Truth]], and [[Knowledge]] is the [[Collective Inheritance]] of [[All Humanity]], and [[All Creation]] it serves. 
 
@@ -94,7 +94,7 @@ This mandate contains within itself the requirement to undertake one of the larg
 
 The existence of [[Wisdom]], [[Truth]], and [[Knowledge]] across all cultures and languages of the Earth requires the initiation of an ongoing process of [[Transcendent Linguistic Integration]] to enable human and AI based [[Interoperability]] among the 7,000+ vital languages spoken around the Earth. 
 
-While the vast majority of the [[Word Tools]] used in the [[Lionsberg System]] may be adequately translated by AI or other tools, special attention should be paid to carefully establish interoperability among all [[Word Tools]] in the [[Lionsberg Lexicon]] across all native languages. 
+While the vast majority of the [[Word Tools]] used in the [[LIONSBERG System]] may be adequately translated by AI or other tools, special attention should be paid to carefully establish interoperability among all [[Word Tools]] in the [[Lionsberg Lexicon]] across all native languages. 
 
 A brief history and context: 
 

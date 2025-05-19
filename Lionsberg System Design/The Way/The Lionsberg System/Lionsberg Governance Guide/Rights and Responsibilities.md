@@ -10,7 +10,7 @@ After the horrors and world wars at the close of the last millennium, humanity m
 
 At the opening of the New Millennium, these rights began to be extended legally and foundationally to [[All]].  
 
-The [[Lionsberg System]] begins from the foundational starting point of the total reintegration and [[Right Relationship]] of [[ONE]] and [[All]], rooted in [[Love]]. 
+The [[LIONSBERG System]] begins from the foundational starting point of the total reintegration and [[Right Relationship]] of [[ONE]] and [[All]], rooted in [[Love]]. 
 
 ## Rights Extend First to the Weak and Vulnerable
 

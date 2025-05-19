@@ -2,7 +2,7 @@
 
 An Individual is a single, unique [[Being]]. 
 
-The [[Lionsberg System]] is rooted first in the Sovereignty, Autonomy, [[Authority]], and Voluntary Association among Individuals. 
+The [[LIONSBERG System]] is rooted first in the Sovereignty, Autonomy, [[Authority]], and Voluntary Association among Individuals. 
 
 Individuals inalienably possess all inherent [[Rights And Responsibilities]].  
 
@@ -19,7 +19,7 @@ Individuals self-organize into [[First Degree Groups]] of 3 to 16 individuals.
 
 Groups organize and federate into Groups of Groups / Teams of Teams to tackle larger goals, cover more ground, or Steward larger [[Domains]]. 
 
-The [[Lionsberg System]], co-operating at each [[Fractal]] level, enables the Diverse Whole to Move as One. 
+The [[LIONSBERG System]], co-operating at each [[Fractal]] level, enables the Diverse Whole to Move as One. 
 
 In general, Individuals: 
 

@@ -1945,7 +1945,7 @@ Because the sizes of the tribes varied, the Tenth Degree Group ended up composin
 
 The Whole was continually ReUnited As One Tribe of Tribes / Group of Groups, progressing towards [[ONE]] Vision and Goal. 
 
-The establishment of Highest Order Functional Unity via the [[Lionsberg System]] from the outset ensured that [[The Movement]] could never fracture or fragment. No matter how the [[Tribe Of Tribes]] morphed and reconfigured itself as [[The Movement]] grew, [[Unity]] enabled by [[Spirit]], [[Truth]] and [[Love]] eternally remained the essential requirement. 
+The establishment of Highest Order Functional Unity via the [[LIONSBERG System]] from the outset ensured that [[The Movement]] could never fracture or fragment. No matter how the [[Tribe Of Tribes]] morphed and reconfigured itself as [[The Movement]] grew, [[Unity]] enabled by [[Spirit]], [[Truth]] and [[Love]] eternally remained the essential requirement. 
 
 The Fractal arrangement ensured that [[Legislative]], [[Judicial]], and [[Executive]] functioning were distributed in an optimally decentralized way throughout [[The Body]] in accordance with the principle of [[Subsidiarity]], helping each Individual, Group, and Locality grow as strong and functional as it possibly could. 
 #### Communicating, Making Decisions, and Solving Issues 

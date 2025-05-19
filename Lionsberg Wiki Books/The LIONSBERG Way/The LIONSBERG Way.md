@@ -128,7 +128,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 ## 13. The LIONSBERG System  
 
 [[The System]]  
-[[Lionsberg System]]  
+[[LIONSBERG System]]  
 
 
 ## 14. The LIONSBERG Structure

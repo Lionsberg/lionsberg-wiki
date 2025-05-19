@@ -10,7 +10,7 @@ As the [[New]] Inbreaks, small [[Pockets Of Coherence, Integrity, and Proper Ord
 
 Pockets of [[Space]], [[Time]], [[Being]], and [[Doing]], that when we experience them, we say with our whole heart "This is [[Good]]."  
 
-One [[Way]] this occurs when the [[Lionsberg System]] is [[Instantiation|Instantiated]] in a new [[Domain]]. 
+One [[Way]] this occurs when the [[LIONSBERG System]] is [[Instantiation|Instantiated]] in a new [[Domain]]. 
 
 Each one of these [[Pockets Of Coherence, Integrity, and Proper Order]] can be told as a [[Story]], and [[Every Story Is A Prophesy]] of something even Greater that is [[Possible]]. 
 

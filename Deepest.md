@@ -1,6 +1,6 @@
 # Deepest
 
-The concept of "deepest" is derived from the term "depth", which refers to how fundamental or underlying something is to other things that depend on it. In the context of the [[Lionsberg System]], the concept of "depth" is used to describe the amount of other things that depend on a particular level of abstraction.
+The concept of "deepest" is derived from the term "depth", which refers to how fundamental or underlying something is to other things that depend on it. In the context of the [[LIONSBERG System]], the concept of "depth" is used to describe the amount of other things that depend on a particular level of abstraction.
 
 Our [[Current Best Understanding]] is that there is [[ONE]] deepest thing that all other things depend on. This deepest thing is sometimes referred to as the "deepest level of abstraction", and is equivalent to what other philosophical traditions might refer to as the [[Uncaused Cause]], [[Source]], [[Creator]], or [[God]]. In the Lionsberg System, this concept is often referred to as [[ONE]], in contrast to [[All]] things that depend upon It. 
 

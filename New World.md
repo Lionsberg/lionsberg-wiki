@@ -1,6 +1,6 @@
 # New World
 
-In the [[Lionsberg System]], [[New World]] is used as a [[Word Tool]] to point towards the [[Best Possible Future]] we are moving towards. 
+In the [[LIONSBERG System]], [[New World]] is used as a [[Word Tool]] to point towards the [[Best Possible Future]] we are moving towards. 
 
 The New World is used in contrast to the [[Old World]], which points towards the corrupt, broken, dysfunctional, and unjust elements of the past we are leaving behind. 
 

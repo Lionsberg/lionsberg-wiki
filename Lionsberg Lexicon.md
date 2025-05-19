@@ -1,7 +1,7 @@
 # Lionsberg Lexicon
 *Definitions of Key Terms used throughout the [[LIONSBERG Universe]]*
 
-To provide clarity and understanding, this section outlines key terms and concepts used throughout the book. Familiarizing yourself with these definitions will help facilitate a deeper grasp of the ideas presented in the [[New Vision and Plan]] and throughout the [[Lionsberg System]].
+To provide clarity and understanding, this section outlines key terms and concepts used throughout the book. Familiarizing yourself with these definitions will help facilitate a deeper grasp of the ideas presented in the [[New Vision and Plan]] and throughout the [[LIONSBERG System]].
 
 It has been said that any given System can usually be described by under 150 key terms. Below is a sampling of key concepts in the [[Lionsberg Narrative Universe]]. 
 
@@ -88,7 +88,7 @@ This page is a [[Work In Progress]].
 65. [[LIONSBERG]]  
 66. [[Lionsberg Narrative Universe]]  
 67. [[Lionsberg Lexicon]]  
-68. [[Lionsberg System]]  
+68. [[LIONSBERG System]]  
 69. [[The Lionsberg Co-Creator's Handbook]]  
 70. [[The Lionsberg Toolkit]]  
 
@@ -230,9 +230,9 @@ This page is a [[Work In Progress]].
 68. [[Work]] at scale demands a [[System]].   
 69. A [[System]] demands a [[Goal]], in this case, [[The Goal]] / [[Meta Goal]]. 
 70. The [[Meta Project]] demands a [[Meta System]].  
-71. We call the [[Incarnation]] of this the [[Lionsberg System]].  
+71. We call the [[Incarnation]] of this the [[LIONSBERG System]].  
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]  
-73. The [[Lionsberg System]] is designed as an Interoperable [[System of Systems]]  
+73. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]  
 74. It is designed to be a [[New Human Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].  
 75. [[The System]] is what enables [[The Whole]] to co-operate as [[One Body]].  
 
@@ -304,7 +304,7 @@ This page is a [[Work In Progress]].
 [[LIONSBERG Universe]]  
 [[LIONSBERG Universe(ity)]]  
 [[The Lionsberg Strategy and Plan]]  
-[[Lionsberg System]]  
+[[LIONSBERG System]]  
 - [[Lionsberg Integrated Delivery System]]  
 
 [[The Seven Steps of Transformation]]  

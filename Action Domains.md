@@ -1,5 +1,5 @@
 # Action Domains
-In the [[Lionsberg System]], Action Domains refer to specific spheres of knowledge, activity, or influence. They require specific technical expertise and management. 
+In the [[LIONSBERG System]], Action Domains refer to specific spheres of knowledge, activity, or influence. They require specific technical expertise and management. 
 
 Action Domains are integrated and coordinated within [[Integration Domains]]. 
 

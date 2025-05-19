@@ -201,7 +201,7 @@ And such a process can be completed within the next 3.5 to 7 years for [[All]], 
 
 We have been working to [[Co-Create]] the [[Provisional Conditions]] under which such a universal realignment and movement could occur. 
 
-We have set up a comprehensive [[System of Systems]] to facilitate all aspects - see the [[Lionsberg System]]. 
+We have set up a comprehensive [[System of Systems]] to facilitate all aspects - see the [[LIONSBERG System]]. 
 
 I hope this helps. It might work. 
 

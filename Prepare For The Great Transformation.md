@@ -4,7 +4,7 @@ As [[Citizens]] arise and unite to confront and overcome the [[Meta Crisis]], ha
 
 Here are some key steps to prepare for [[The Great Transformation]]:
 
-1.  **Embrace the Values**: Internalize and embody the [[The Lionsberg System of Values]] that underpin the [[Lionsberg System]] and the [[New Vision and Plan]], using these values to guide your actions, decisions, and interactions.
+1.  **Embrace the Values**: Internalize and embody the [[The Lionsberg System of Values]] that underpin the [[LIONSBERG System]] and the [[New Vision and Plan]], using these values to guide your actions, decisions, and interactions.
     
 2.  **Cultivate a Growth Mindset**: Embrace a mindset of continuous learning, curiosity, and improvement, seeking out opportunities to expand your knowledge, skills, and perspectives.
     

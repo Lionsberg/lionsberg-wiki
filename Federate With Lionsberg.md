@@ -2,7 +2,7 @@
 
 The term "Federate with Lionsberg" refers to the process of joining and becoming a part of the Lionsberg System. This process involves aligning with the shared Vision, Goals, and Values of the Lionsberg System, and committing to work together with other Participants towards a better future.
 
-Federating with Lionsberg involves adopting the basic components of the [[Lionsberg System]] as a way of working, and integrating it into the operations and processes of an individual, team, organization, or community. This process involves understanding the Lionsberg System and its approach to collaboration, vision, analysis, planning, execution, and continuous improvement in a multi-generational stewardship context.
+Federating with Lionsberg involves adopting the basic components of the [[LIONSBERG System]] as a way of working, and integrating it into the operations and processes of an individual, team, organization, or community. This process involves understanding the Lionsberg System and its approach to collaboration, vision, analysis, planning, execution, and continuous improvement in a multi-generational stewardship context.
 
 Federating with Lionsberg also involves adopting and following the Rules of Participation, which outline the expectations for behavior and conduct for Participants within the system. By federating with Lionsberg, Participants commit to working together in a safe, respectful, and productive manner, and to continuously improving their own practices and processes in alignment with the shared Vision, Goals, and Values of the system.
 

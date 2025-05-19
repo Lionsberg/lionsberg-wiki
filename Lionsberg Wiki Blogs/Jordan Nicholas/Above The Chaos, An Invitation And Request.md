@@ -204,7 +204,7 @@ If you are interested in some of the value created to date, see [[2022.Q2 Presen
 1. For more on what I am doing and Why, see [[Jordan Nicholas Sukut]]  
 2. For more on the Myth of Lionsberg, see [[The Book of Lionsberg]] - work in progress 
 3. For friends and family suffering from Fear / Anxiety / Depression, see [[A Way Beyond Fear, Anxiety, And Depression]] - work in progress 
-4. For more on the Lionsberg System, see [[Lionsberg System]] 
+4. For more on the Lionsberg System, see [[LIONSBERG System]] 
 
 
 

@@ -6,7 +6,7 @@ _How do we collectively navigate our Vessel towards The Goal?_
 
 Having fixed our [[Aim]], how do we get from [[Where We Are]] to [[Where We Are Going]]? 
 
-The [[Lionsberg System]] was created as an answer to this question. 
+The [[LIONSBERG System]] was created as an answer to this question. 
 
 ___
 
@@ -29,7 +29,7 @@ What we can learn from [[Mondragon]]...
 
 Perhaps the most successful and widely known experiment in more loving, just, and good socioeconomic organization is Mondragon. 
 
-To ensure that we incorporated the learnings and wisdom from this model into the [[Lionsberg System]], I took two week long trips to Mondragon with the leading professor in the US on this topic, with groups of graduate students and executives.
+To ensure that we incorporated the learnings and wisdom from this model into the [[LIONSBERG System]], I took two week long trips to Mondragon with the leading professor in the US on this topic, with groups of graduate students and executives.
 
 Over the last 65 years Mondragon grew out to one of the largest co-operatives in Spain, employing ~ 100,000 co-operative worker owners in over 100 co-operatives that revolve around a loose core federal enterprise. 
 

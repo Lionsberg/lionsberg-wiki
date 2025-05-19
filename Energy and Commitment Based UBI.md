@@ -12,7 +12,7 @@ It also linguistically and technically relates to the [[Time, Energy, and Attent
 
 The key to UBI is ensuring that as a Community we are Progressing towards our Goals and Objectives. 
 
-If someone is "contributing a lot", but not actually advancing the Goals and Objectives, it is actually [[Waste]] that hinders the ability of the [[Lionsberg System]] to produce [[Throughput]] of [[The Goal]].  
+If someone is "contributing a lot", but not actually advancing the Goals and Objectives, it is actually [[Waste]] that hinders the ability of the [[LIONSBERG System]] to produce [[Throughput]] of [[The Goal]].  
 
 It would technically, economically and environmentally be far wiser to pay such "contributors" to cease. 
 

@@ -18,9 +18,9 @@ Interconnected energy, water, and information grids, that equalize _access_ to e
 
 This is actually relatively straightforward to accomplish based on existing resources and technologies, and has been validated as both possible and desirable by nation state level governments. 
 
-Each of the following Systems are subcomponents of the [[Lionsberg System]], which aims to localize and instantiate a continuously learning [[Prototype]] capable of meeting the needs and solving the problems inherent in every community of life, and lifting [[All]] up towards [[The Goal]].   
+Each of the following Systems are subcomponents of the [[LIONSBERG System]], which aims to localize and instantiate a continuously learning [[Prototype]] capable of meeting the needs and solving the problems inherent in every community of life, and lifting [[All]] up towards [[The Goal]].   
 
-To reiterate, they will not work unless deployed in harmony with all other elements of the [[Lionsberg System]] in accordance with the full logic of the [[The Lionsberg Handbook]]. 
+To reiterate, they will not work unless deployed in harmony with all other elements of the [[LIONSBERG System]] in accordance with the full logic of the [[The Lionsberg Handbook]]. 
 
 ### Energy
 

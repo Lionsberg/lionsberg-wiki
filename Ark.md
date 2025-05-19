@@ -1,6 +1,6 @@
 # Ark
 
-In the context of the [[Lionsberg System]], the "Ark" is a metaphorical concept that represents a vessel built to carry the collective wisdom, principles, values, and culture of humanity as we navigate the turbulent waters on our [[Quest]] towards the [[New World]]. 
+In the context of the [[LIONSBERG System]], the "Ark" is a metaphorical concept that represents a vessel built to carry the collective wisdom, principles, values, and culture of humanity as we navigate the turbulent waters on our [[Quest]] towards the [[New World]]. 
 
 Inspired by the biblical story of Noah's Ark, this symbolic vessel embodies the preservation and transmission of culture, knowledge and ideals across generations and serves as a guiding and protective beacon on our journey to create a better future.
 

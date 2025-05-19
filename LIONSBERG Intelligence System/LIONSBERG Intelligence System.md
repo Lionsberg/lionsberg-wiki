@@ -75,6 +75,10 @@ The system will be made up of several synergistic layers:
 | Phase 5 | Avatar embodiment and Sanctuary setup      | ⬜ Not Started  |
 | Phase 6 | Core circle integration and feedback       | ⬜ Not Started  |
 
+## Translation 
+
+Translation across all languages. 
+[[Lionsberg Rosetta Stone]] - AI. 
 
 ---
 

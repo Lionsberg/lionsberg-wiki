@@ -128,7 +128,7 @@ One large or two smaller meals a day within [[The Fueling Window]].
 
 ### **Forbidden Practices**
 
-In the [[Lionsberg System]], everyone is Sovereign and Free. There is no Law but [[ONE]]. And yet - it is a violation of Our Highest Sacred Intention to knowing engage in practices that Harm [[Our Selves]] or [[Other Selves]].
+In the [[LIONSBERG System]], everyone is Sovereign and Free. There is no Law but [[ONE]]. And yet - it is a violation of Our Highest Sacred Intention to knowing engage in practices that Harm [[Our Selves]] or [[Other Selves]].
 
 - We do not poison Our Selves with things that will make Us sick, weak, and incompetent
     

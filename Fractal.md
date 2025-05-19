@@ -1,6 +1,6 @@
 # Fractal
 
-A geometric or mathematical concept characterized by self-similar patterns that repeat at different scales or levels of magnification. In the context of the [[New Vision and Plan]] and the [[Lionsberg System]], the term "fractal" is used to describe the scalable and adaptable nature of the framework, which can be applied at different levels of society, from the individual, to the local, to the global.
+A geometric or mathematical concept characterized by self-similar patterns that repeat at different scales or levels of magnification. In the context of the [[New Vision and Plan]] and the [[LIONSBERG System]], the term "fractal" is used to describe the scalable and adaptable nature of the framework, which can be applied at different levels of society, from the individual, to the local, to the global.
 ___
 **Fractally Applicable**: A term describing an approach or concept that can be applied at any level of analysis, such as individual, organizational, community, or systemic transformation. This approach allows users to learn and apply principles and processes at one level and then transfer their understanding and skills to other levels, fostering deep learning and effective action across multiple domains.
 ___

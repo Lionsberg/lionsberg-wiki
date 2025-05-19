@@ -10,6 +10,6 @@ Beyond that, we could say it is simply [[Love]].
 
 Beyond that, we could say it is simply [[ONE]]. 
 
-It is at this One [[Aim]] that the entire [[Lionsberg System]] is pointed. 
+It is at this One [[Aim]] that the entire [[LIONSBERG System]] is pointed. 
 
 It is our System of Governance that helps us Navigate towards it. 

@@ -1,13 +1,13 @@
 # Values
 *Modified April 27, 2025*
 
-[[Values]] form the foundation of the [[Lionsberg System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
+[[Values]] form the foundation of the [[LIONSBERG System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
 The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ONE]] Absolute [[Meta Value]]. 
 
 These are reflected in [[The Lionsberg System of Values]]. 
 
-Some of the core values underpinning the [[New Vision and Plan]] and the [[Lionsberg System]] include:
+Some of the core values underpinning the [[New Vision and Plan]] and the [[LIONSBERG System]] include:
 
 1.  **[[Unity]]**: Recognizing the Ultimate InterExistence of All life and the need for coordinated collective action to address the [[Challenges]] of the [[Meta Crisis]] and co-create the [[New World]].
 2. **[[Truth]]**: A commitment to seeking and upholding accurate and verifiable information, understanding, and wisdom, fostering honest communication and informed decision-making.
@@ -23,7 +23,7 @@ Some of the core values underpinning the [[New Vision and Plan]] and the [[Lions
 12. **[[Hope]]**: Nurturing a sense of [[Optimism]] and [[Confidence]] in the ability of [[Citizens]] in partnership with [[ONE]] and [[One Another]] to confront and overcome the [[Meta Crisis]] and co-create a brighter, more flourishing future for [[All]].
 13. **[[Faith]]**: Steadfast belief and commitment in the inherent goodness and potential of [[ONE]] in partnership with [[All]] to create positive and transformational change and a bright Future, despite the challenges and uncertainties that define the [[Meta Crisis]] and our [[InterExistence]] here on Earth. 
 
-These values serve as a compass for [[Citizens]] as they navigate the complex landscape of the [[Meta Crisis]], guiding their actions, decisions, and interactions within the [[Lionsberg System]]. By embodying these values and integrating them into Our daily lives, [[Citizens]] play a vital role in the co-creation of the [[New World]], working together to confront and overcome the [[Meta Crisis]] and bring about a brighter, more flourishing future for [[All]].
+These values serve as a compass for [[Citizens]] as they navigate the complex landscape of the [[Meta Crisis]], guiding their actions, decisions, and interactions within the [[LIONSBERG System]]. By embodying these values and integrating them into Our daily lives, [[Citizens]] play a vital role in the co-creation of the [[New World]], working together to confront and overcome the [[Meta Crisis]] and bring about a brighter, more flourishing future for [[All]].
 
 ___
 
@@ -31,7 +31,7 @@ The [[Core Values]] of any System are like the guard rails or boundaries that pr
 
 The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
 
-They also must be integrated and cohered by a [[Total Nested Hierarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[Lionsberg System]], this is the [[ONE]]. 
+They also must be integrated and cohered by a [[Total Nested Hierarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[LIONSBERG System]], this is the [[ONE]]. 
 
 By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
 
@@ -84,7 +84,7 @@ This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal
 
 One level up the hierarchy of abstraction, one understands that [[ONE]] is [[Love]], and therefore the [[Meta Value]] is [[ONE]], inclusive of the Spirit of the [[ONE]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
 
-Therefore the Foundation, Center, Purpose and Goal of the [[Lionsberg System]] and the Universe it serves is [[ONE]]. 
+Therefore the Foundation, Center, Purpose and Goal of the [[LIONSBERG System]] and the Universe it serves is [[ONE]]. 
 
 This is the entire basis of the [[Meta Idea]]. The [[Meta Idea]], the [[Meta Value]], and the [[Meta Goal]] are [[ONE]] expressed in various abstract ways. 
 
@@ -199,7 +199,7 @@ ___
 #### On Power and Resources
 Various lists of universal values also often contain references to leadership, power, and resources. 
 
-In the [[Lionsberg System]], these are not viewed as values or goals in and of themselves, but rather as neutral tools / Potential that can be developed wisely and as necessary to produce [[Throughput]] of [[The Goal]].   
+In the [[LIONSBERG System]], these are not viewed as values or goals in and of themselves, but rather as neutral tools / Potential that can be developed wisely and as necessary to produce [[Throughput]] of [[The Goal]].   
 
 See [[Integration And Alignment Of Resources And Power]]. 
 ____

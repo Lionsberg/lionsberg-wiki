@@ -12,7 +12,7 @@ The vast majority of our [[Food Systems]] are compromised and producing somethin
 
 ____
 
-One of the goals of the [[Lionsberg System]] is to articulate and reinstantiate a complete [[Way]] (of living, being, doing), that if we were to [[Embody]] and [[Enact]], would result in the [[Progressive Realization]] of [[The Goal]]. 
+One of the goals of the [[LIONSBERG System]] is to articulate and reinstantiate a complete [[Way]] (of living, being, doing), that if we were to [[Embody]] and [[Enact]], would result in the [[Progressive Realization]] of [[The Goal]]. 
 
 This requires sorting out each [[Levels of Abstraction|Level of Abstraction]], from [[Ultimate Reality]], down through the theological, philosophical, theoretical, and into the most basic details and realities of existence, such as [[Food]] and [[Drink]]. 
 ___

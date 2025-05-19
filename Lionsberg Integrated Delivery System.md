@@ -16,4 +16,4 @@ The Lionsberg Integrated Delivery System is a powerful tool for organizations, c
 
 Technically, this approach is critical to producing [[Throughput]] of the [[Total Nested Hierarchy of Goals]] contained in the [[Meta Goal]]. 
 
-The Lionsberg IDS is one system in the [[Lionsberg System]] of systems, which must be co-operated in its entirety to produce [[Throughput]] of [[The Goal]].  
+The Lionsberg IDS is one system in the [[LIONSBERG System]] of systems, which must be co-operated in its entirety to produce [[Throughput]] of [[The Goal]].  

@@ -1,6 +1,6 @@
 # The Goal (Book)
 
-[[The Goal]] is a frequent theme that comes in writings about the [[Lionsberg System]].  
+[[The Goal]] is a frequent theme that comes in writings about the [[LIONSBERG System]].  
 
 It is often association with [[Creator's Intent]]. [[Purpose]]. [[Intention]]. [[Aim]]. [[Goal]]. 
 
@@ -53,7 +53,7 @@ The statement:
 *Every action that produces [[Throughput]] of [[The Goal]] creates [[Value]]. Every action that does not is [[Waste]].*   
 
 ____
-When the [[Lionsberg System]] incarnates in a Domain whose inhabitants are Ready... 
+When the [[LIONSBERG System]] incarnates in a Domain whose inhabitants are Ready... 
 
 It brings to them, usually for the first time in their History or Conception, an [[Overarching and Uniting]] Way to rise into [[Higher Order Functional Unity]] and [[Co-Create Heaven]]—Right Where They Are. 
 
@@ -85,5 +85,5 @@ So let us fire up the assembly line, and begin moving Our Selves, one at a Time:
 
 ***[[FROM the Old TO the New]].***  
 
-If We put the [[Lionsberg System]] to use, We can move Our Selves quickly. 
+If We put the [[LIONSBERG System]] to use, We can move Our Selves quickly. 
 

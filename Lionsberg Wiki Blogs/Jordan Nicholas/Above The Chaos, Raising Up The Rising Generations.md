@@ -17,7 +17,7 @@ In the past our placeholder name for this has been the Lionsberg | [[Elevation I
 
 What if... we co-created a [[System]], that helped every individual, organization, community, and ecosystem on earth develop towards the fullness of their unique potential and flourish in harmony. 
 
-The [[Lionsberg System]] has been purpose-built for this reason. 
+The [[LIONSBERG System]] has been purpose-built for this reason. 
 
 As a super elementary starting point, we have curated together curriculum to ensure that any human being on earth with internet access has access to a free world class program of lifelong learning and development. 
 

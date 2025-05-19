@@ -8,7 +8,7 @@ If each and every one of the billions of families and millions of communities on
 
 We know that any top down or centralized effort to "manage" or "control" would fail. And yet we also know that our present situation requires that we work together and help one another at unprecedented scale. 
 
-The [[Lionsberg System]] addresses this issue comprehensively through a system and infrastructure purpose-built to connect and empower billions of individuals, small groups, and projects in a variety of localized self-governing configurations. 
+The [[LIONSBERG System]] addresses this issue comprehensively through a system and infrastructure purpose-built to connect and empower billions of individuals, small groups, and projects in a variety of localized self-governing configurations. 
 
 This Vision, System, and Plan is accompanied by a Prototype, constructed as a kit of interoperable parts, that contains within itself a continuously improving set of solutions to the problems, needs, and opportunities facing communities around the world. 
 

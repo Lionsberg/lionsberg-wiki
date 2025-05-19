@@ -46,7 +46,7 @@ To transcend the Competition to Save the World, humanity must shift from fragmen
 4. **Fostering Trust and Reciprocity**: Open communication, transparency, and mutual support are the foundations of effective collaboration.
 5. **Committing to Co-Creation**: Recognizing that no single entity can claim ownership of humanity’s future—it must be built together.
 
-For those wishing to transcend divisions and embody diverse unity, the [[Lionsberg System]] was incarnated as a starting point to co-create a fractal and interoperable [[New Operating System]] for humanity. 
+For those wishing to transcend divisions and embody diverse unity, the [[LIONSBERG System]] was incarnated as a starting point to co-create a fractal and interoperable [[New Operating System]] for humanity. 
 
 ---
 

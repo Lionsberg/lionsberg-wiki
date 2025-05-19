@@ -156,7 +156,7 @@ ___
 
 Various lists of [[Universal Values]] also often contain references to power. 
 
-In the [[Lionsberg System]], power is not viewed as a value or goal in and of itself, but rather as neutral and subordinate tool or potential  must be cultivated developed wisely and as only as necessary to produce [[Throughput]] of [[The Goal]]. 
+In the [[LIONSBERG System]], power is not viewed as a value or goal in and of itself, but rather as neutral and subordinate tool or potential  must be cultivated developed wisely and as only as necessary to produce [[Throughput]] of [[The Goal]]. 
 
 Power must always be developed and exercised judiciously in service of, and not over others. 
 

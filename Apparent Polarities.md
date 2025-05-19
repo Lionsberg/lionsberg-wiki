@@ -2,7 +2,7 @@
 
 Apparently Polarities must be [[Consciously Mediated]], integrated, balanced, and cohered so that one's local and universal existence is [[Properly Ordered]] and [[Wise]]. 
 
-In the [[Lionsberg System]] we refer to this as [[Balancing On The Tip Of The Needle]].  
+In the [[LIONSBERG System]] we refer to this as [[Balancing On The Tip Of The Needle]].  
 
 This is ultimately a process of [[Progressive Transcendence]] of [[Physical]], [[Mental]] and [[SpatioTemporal]] limitations and illusions that moves us Deeper towards a Primary Identification with the [[ONE]] [[Ultimate Reality]] that creates, sustains, destroys, encompasses, orders, and coheres [[All]] things (associative and dissociative energy) within ItSelf. 
 

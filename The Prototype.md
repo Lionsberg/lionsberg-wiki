@@ -1,12 +1,12 @@
 # The Prototype
 
-The [[Lionsberg System]] includes affordance for a continuously improving universal [[Prototype]] that learns across all [[Individual And Local]] [[Instantiation|Instantiations]]. 
+The [[LIONSBERG System]] includes affordance for a continuously improving universal [[Prototype]] that learns across all [[Individual And Local]] [[Instantiation|Instantiations]]. 
 
 The Prototype includes a [[Total Nested Hierarchy of Systems]] relating to fractal [[Individuals|Individual]], [[Group]], and [[Community]] [[Development]]. 
 
 The [[Idea]] is for [[Individuals]] to be and become in a Way, that helps their [[Small Groups]] be and become, in a [[Way]] that helps the Whole [[Group Of Groups]] be and become, in such a [[Way]] that helps the entire [[Living System]] be and become the fullness of its [[Potential]]. 
 
-Each time the [[Lionsberg System]] is [[Instantiation|Instantiated]] in a Individual, Group, or Community Domain, the learnings, improvements, and adaptations are fed back "up" to the [[Prototype]], so that [[All]] future Instantiations receive the benefit of the learning from [[All]] previous Instantiations. 
+Each time the [[LIONSBERG System]] is [[Instantiation|Instantiated]] in a Individual, Group, or Community Domain, the learnings, improvements, and adaptations are fed back "up" to the [[Prototype]], so that [[All]] future Instantiations receive the benefit of the learning from [[All]] previous Instantiations. 
 
 ___
 The Program Manager and IPD Teams will use the information contained in the [[Meta Project Program Statement]] to design a prototypical Higher Order System purpose-built to deliver a continuously improving qualify of Life for [[All]].

@@ -154,7 +154,7 @@ The [[Lionsberg System of Work]]
 
 ## The Lionsberg Integrated Delivery System 
 
-The [[Lionsberg System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
+The [[LIONSBERG System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
 [[Lionsberg Integrated Delivery System]]  
 [[Projects]] 
@@ -416,7 +416,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 ## The Lionsberg System and Approach 
 
 [[Lionsberg System and Approach]] 
-[[Lionsberg System]] 
+[[LIONSBERG System]] 
 
 ## The Transformative Quest 
 

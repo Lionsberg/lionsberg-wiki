@@ -18,7 +18,7 @@ There are several steps that individuals, organizations, and communities can fol
     
 8.  Foster open communication: Encourage open and transparent communication within the team, and establish channels for regular feedback and performance review. This will help to build trust and ensure that the team is working together effectively.
     
-9.  Establish systems and processes: Set up systems and processes for how the team will work together, including how decisions will be made, how tasks will be assigned and tracked, and how progress will be reported. The [[Lionsberg System]], [[Lionsberg System of Governance]], and [[Lionsberg System of Work]] include tools and recommendations for each of these elements.
+9.  Establish systems and processes: Set up systems and processes for how the team will work together, including how decisions will be made, how tasks will be assigned and tracked, and how progress will be reported. The [[LIONSBERG System]], [[Lionsberg System of Governance]], and [[Lionsberg System of Work]] include tools and recommendations for each of these elements.
     
 10.  Establish a basic set of [[Agreements]] that govern internal and external relationships. These can be formal or informal.
     

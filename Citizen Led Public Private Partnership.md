@@ -1,6 +1,6 @@
 # Citizen Led Public Private Partnership
 
-Citizen Led Public Private Partnerships are a core feature of the [[Lionsberg System]]. 
+Citizen Led Public Private Partnerships are a core feature of the [[LIONSBERG System]]. 
 
 Citizen Led Public Private Partnerships are a wise alternative to the false dichotomies offered in the past, whereby core functions of society were operated by either disconnected and unaccountable public bureaucracies, or private for-profit capitalist enterprises. 
 

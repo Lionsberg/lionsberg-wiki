@@ -3,5 +3,5 @@
 [[Action Domains]]  
 [[Integration Domains]]  
 [[Global Goals]]  
-[[Lionsberg System]]  
+[[LIONSBERG System]]  
 

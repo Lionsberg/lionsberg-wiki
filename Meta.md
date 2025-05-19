@@ -1,6 +1,6 @@
 # Meta
 
-The word **Meta** as it is used in the [[Lionsberg System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent conception of an idea. 
+The word **Meta** as it is used in the [[LIONSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent conception of an idea. 
 
 For example, we could speak of:
 

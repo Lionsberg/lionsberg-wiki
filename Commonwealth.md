@@ -6,7 +6,7 @@ In a Commonwealth, the government and its institutions are designed to promote t
 
 In some cases, the term "Commonwealth" is used to describe a voluntary association of sovereign states that have historical ties, such as the Commonwealth of Nations, which consists of countries that were once part of the British Empire. This association fosters cooperation, collaboration, and support among its member states in various areas, including trade, education, and cultural exchange, promoting their common values and goals.
 
-In the context of the [[Lionsberg System]], the Commonwealth refers to the collective of self-governing citizens, groups, and communities working together towards shared goals and values, as outlined in the [[Lionsberg Manifesto]] and the [[New Vision and Plan]]. The primary Aim is to create a just, flourishing, and regenerative society that prioritizes the well-being, prosperity, and shared interests of all members and Citizens. 
+In the context of the [[LIONSBERG System]], the Commonwealth refers to the collective of self-governing citizens, groups, and communities working together towards shared goals and values, as outlined in the [[Lionsberg Manifesto]] and the [[New Vision and Plan]]. The primary Aim is to create a just, flourishing, and regenerative society that prioritizes the well-being, prosperity, and shared interests of all members and Citizens. 
 
 The Lionsberg Commonwealth emphasizes the importance of collaboration, cooperation, and mutual support to address the complex challenges and issues facing the world today. It seeks to empower citizens by providing them with the necessary tools, resources, and infrastructure to take responsibility for governing their lives, their communities, and their world.
 

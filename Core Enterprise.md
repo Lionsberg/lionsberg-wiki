@@ -12,7 +12,7 @@ As such, it should learn from the central coordinating bodies of various federat
 
 It bears repeating, that this organization should remain as small as practical to accomplish its functions, and that the functions assigned to it by the [[Receiver]] should remain as few as are practical.
 
-Among other responsibilities, the Core Enterprise will participate in continuously improving and clarifying the [[Meta Project Program Statement]], the wisdom and design of [[The Prototype]], the quality of the [[Shared Infrastructure]], and the quality of the [[Lionsberg System]].  
+Among other responsibilities, the Core Enterprise will participate in continuously improving and clarifying the [[Meta Project Program Statement]], the wisdom and design of [[The Prototype]], the quality of the [[Shared Infrastructure]], and the quality of the [[LIONSBERG System]].  
 
 #### The Structure of the Core Enterprise
 The Core Enterprise is not designed to abrogate the [[Individual And Local]] responsibilities of the [[Groups]] or other members of the [[Federation]], but rather to provide a center of talented resources to serve and empower the decentralized array of autonomous groups, and to consolidate and reflect back out to the [[Federation]] its collective progress and learnings.

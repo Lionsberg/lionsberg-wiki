@@ -300,7 +300,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- How do we recognize, restore, and embody the Balance of the Divine Feminine and the Divine Masculine?  
 	- 
 - Secondary Questions 
-	- Would [[Tom Chi]] be open to collaborating, sharing At One diligence model, and / or offering the [[Lionsberg System]] to the At One entrepreneurial teams? 
+	- Would [[Tom Chi]] be open to collaborating, sharing At One diligence model, and / or offering the [[LIONSBERG System]] to the At One entrepreneurial teams? 
 	- 
 
 ## Stories 

@@ -7,14 +7,14 @@
 ## LIONSBERG Lexicon
 *Definitions of Key Terms used throughout the [[LIONSBERG Universe]]*
 
-To provide clarity and understanding, this section outlines key terms and concepts used throughout the book. Familiarizing yourself with these definitions will help facilitate a deeper grasp of the ideas presented in the [[New Vision and Plan]] and throughout the [[Lionsberg System]].
+To provide clarity and understanding, this section outlines key terms and concepts used throughout the book. Familiarizing yourself with these definitions will help facilitate a deeper grasp of the ideas presented in the [[New Vision and Plan]] and throughout the [[LIONSBERG System]].
 
 [[LIONSBERG]]  
 [[LIONSBERG Universe]]  
 [[LIONSBERG Universe(ity)]]  
 [[Lionsberg Lexicon]]  
 [[The Lionsberg Strategy and Plan]]  
-[[Lionsberg System]]  
+[[LIONSBERG System]]  
 - [[Lionsberg Integrated Delivery System]]  
 
 [[The Seven Steps of Transformation]]  

@@ -1,6 +1,6 @@
 # Analysis
 
-Analysis is the process of systematically examining a situation, problem, or system in order to understand its nature, causes, and potential solutions. In the context of the [[Lionsberg System]], Analysis is a critical component of the [[Lionsberg Integrated Delivery System]] and the [[Lionsberg System of Work]].
+Analysis is the process of systematically examining a situation, problem, or system in order to understand its nature, causes, and potential solutions. In the context of the [[LIONSBERG System]], Analysis is a critical component of the [[Lionsberg Integrated Delivery System]] and the [[Lionsberg System of Work]].
 
 Analysis can be applied at different fractal levels, from the individual level to the team level, and from the project level to the system level. The process of Analysis begins with a review of the current situation, forces, conditions, resources, constraints, and opportunities. This involves gathering data, conducting research, and engaging with stakeholders to gain a comprehensive understanding of the current reality.
 
