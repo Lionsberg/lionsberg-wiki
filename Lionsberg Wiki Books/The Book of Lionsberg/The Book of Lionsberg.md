@@ -59,7 +59,7 @@ This is a living [[Work In Progress]]...
 [[2.5 The Vantage Point Of Humans]]  
 [[2.6 The Illusion of Spacetime]]  
 [[2.7 The Narrative Lens]]  
-[[Lionsberg Wiki Books/The Book of Lionsberg/Chapter 2 - The Quest to Perceive/2.8 Self Limiting Beliefs]]  
+[[2.8 Self Limiting Beliefs]]  
 [[2.9 How Values Shape Perception]]  
 [[2.10 Making Our Subconscious Story Conscious]]  
 

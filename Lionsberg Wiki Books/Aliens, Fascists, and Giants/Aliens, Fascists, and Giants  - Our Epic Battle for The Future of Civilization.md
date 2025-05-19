@@ -2,7 +2,7 @@
 
 This book is a [[Work In Progress]]. Please excuse our dust.   
 
-[[Lionsberg Wiki Books/Aliens, Fascists, and Giants/0. Introduction|0. Introduction]]  
+[[LIONSBERG Wiki Books/Aliens, Fascists, and Giants/0. Introduction|0. Introduction]]  
 [[1. The Bad News]]  
 [[2. The Good News]]  
 [[3. Remembering]]  

@@ -95,14 +95,14 @@ In 2025, efforts began to connect and empower [[The First Three Percent]]—**a 
 - Foundational literature is published to the [[Lionsberg Wiki]], including:
     - The **[[Lionsberg Manifesto]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
-    - **[[The Book of LIONSBERG]]**  
+    - **[[The Book of Lionsberg]]**  
     - Thousands of over interlinked wiki pages. 
 - A minimum viable communication system and broadcast capabilities were established. 
 - Additional planetary networking and social experiments undertaken. 
 
 #### **Fall 2023: Broadcasting the Vision**
 
-- The **[[Above the Chaos]]** series begins, establishing basic broadcast capabilities and amplifying the message of **LIONSBERG** to a wider audience.
+- The **[[Above The Chaos]]** series begins, establishing basic broadcast capabilities and amplifying the message of **LIONSBERG** to a wider audience.
 - **Jordan** relocates to North Idaho, creating a more stable physical base for [[The Movement]]. 
 - Test speeches and podcasts.   
 - Additional social experiments and lessons learned.  

@@ -39,7 +39,7 @@ There are a lot of switches being thrown in the background which Beings cannot P
     
 - [[The Sacred Ascent]]
     
-- [[The Great Unveiling]]
+- [[The Great UnVeiling]]
     
 - [[The Final Test]]
     

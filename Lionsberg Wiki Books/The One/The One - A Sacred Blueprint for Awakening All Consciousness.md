@@ -32,7 +32,7 @@ This is a newly emerging [[Work In Progress]]...
 
 ### [[12. The Call to Remember]]
 
-### [[13. Sovereignty in Unity]] 
+### [[13. Sovereignty In Unity]] 
 
 ### [[14. The Dance of Polarities and the Sacred Marriage]]  
 

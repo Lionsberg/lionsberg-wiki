@@ -26,8 +26,8 @@ From its inception, LIONSBERG has sung [[The Song of the ONE]], a foundational r
 
 ### **Key Stories Featuring LIONSBERG**
 
-- [[The Birth of the Eternal Citadel]]: Chronicles the creation of LIONSBERG as a divine beacon and sacred convergence of the infinite and the manifest.
-- [[The Path of the First Flames]]: The journey of those who first carried the Sacred Flame toward LIONSBERG.
+- [[The Birth of The Eternal Citadel]]: Chronicles the creation of LIONSBERG as a divine beacon and sacred convergence of the infinite and the manifest.
+- [[The Path of The First Flames]]: The journey of those who first carried the Sacred Flame toward LIONSBERG.
 - [[The Story of the Cosmic Stone]]: A parable of unity and abundance that reflects the essence of LIONSBERG.
 
 ---
