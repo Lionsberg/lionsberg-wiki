@@ -12,9 +12,11 @@ The [[Lionsberg Wiki]] homepage now has a more contextual and narrative feel. (S
 
 ## Components to Track 
 
+- [[Lionsberg Core Documents]]  
 - [[System Wide Master Planning]]  
 - [[LIONSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  
+- [[The Lionsberg Handbook]] migrating to [[The Lionsberg Co-Creator's Handbook]] and [[The LIONSBERG Way]]  
 ## Thoughts
 
 Eventually, the [[Lionsberg Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIONSBERG Intelligence System]]. 
