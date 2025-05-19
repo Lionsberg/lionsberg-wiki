@@ -1,6 +1,6 @@
 # Lionsberg Intention
 
-The intention of **[[LIONSBERG]]** is to reawaken, realign, and reunite **[[ALL]]** beings with the **[[ONE]]**, fostering harmony, coherence, and co-creation throughout the **[[Universe]]**.
+The intention of **[[LIONSBERG]]** is to reawaken, realign, and reunite **[[All]]** beings with the **[[ONE]]**, fostering harmony, coherence, and co-creation throughout the **[[Universe]]**.
 
 Our Intention is the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 
 

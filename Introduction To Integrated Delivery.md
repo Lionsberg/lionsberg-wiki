@@ -2,7 +2,7 @@
 
 This guide exists to empower humanity to solve our global challenges and design and build a flourishing [[New World]]. On time. On budget. On quality. For the benefit of [[All]]. 
 
-WARNING - THIS INTEGRATED DELIVERY SYSTEM WILL BRING WHATEVER YOU POINT IT AT INTO REALITY. BE CAREFUL WHAT YOU [[AIM]] AT! 
+WARNING - THIS INTEGRATED DELIVERY SYSTEM WILL BRING WHATEVER YOU POINT IT AT INTO REALITY. BE CAREFUL WHAT YOU [[Aim]] AT! 
 
 This [[Lionsberg Integrated Delivery Guide]] outlines leading thinking from the architecture, engineering, and construction industry on how to merge thousands of years of industry experience with modern lean and agile methodologies developed through manufacturing and technology, into a new paradigm of Lean Integrated Delivery. 
 
