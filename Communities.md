@@ -2,7 +2,7 @@
 
 To accomplish things they cannot do on their own, [[Individuals]] and [[Groups]] [[Organize and Federate]] into [[Communities]].    
 
-[[Communities]] inalienably possess all inherent [[Rights And Responsibilities]] defined in the System, via the [[Individuals]] and [[Groups]] that ultimately compose them. 
+[[Communities]] inalienably possess all inherent [[Rights and Responsibilities]] defined in the System, via the [[Individuals]] and [[Groups]] that ultimately compose them. 
 
 Each Community should do their best to [[Co-Operation|Co-Operate]] a [[Community Instance]] of the [[LIONSBERG System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
 

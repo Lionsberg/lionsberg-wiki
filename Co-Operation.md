@@ -6,7 +6,7 @@ In isolation, we all lack the total skills, resources, experience, and access th
 
 This gives rise to an inherent need to [[Co-Operation|Co-Operate]]. 
 
-[[Co-Operation]], if it is going to occur over indefinitely long periods of times, requires that minimum [[Standards Of Interoperability]] be met. This includes defining the [[Rights And Responsibilities]] of each Participant in the System. 
+[[Co-Operation]], if it is going to occur over indefinitely long periods of times, requires that minimum [[Standards Of Interoperability]] be met. This includes defining the [[Rights and Responsibilities]] of each Participant in the System. 
 
 The need to Co-Operate indefinitely gives rise to the need to agree upon the "Rules of the Game" that allow the "Game" to be voluntarily played indefinitely to the benefit and satisfaction of All.  
 

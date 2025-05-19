@@ -142,7 +142,7 @@ Regardless of the specific context, the levels of abstraction provide a valuable
 
 ## Proper Use of Levels of Abstraction
 
-While systems of hierarchy are often misunderstood, misused, and abused, Systems must be understood and operated with a reasonable understanding of [[Depth]] and [[Levels Of Abstraction]].  
+While systems of hierarchy are often misunderstood, misused, and abused, Systems must be understood and operated with a reasonable understanding of [[Depth]] and [[Levels of Abstraction]].  
 
 In complex adaptive Systems such a Body or a Tree, Decisions must be made and the System must be structured according to Depth, such that the System prioritizes the Trunk of the Tree over a Leaf, and the Heart of the Body over the hair.  
 

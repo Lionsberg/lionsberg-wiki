@@ -4,7 +4,7 @@ To accomplish things they cannot do in isolation, Individuals [[Organize and Fed
 
 Small, effective groups and teams are the basis of execution in the System. Small groups, generally of 3 to 20, are the core nodes of community, life, and action in the [[LIONSBERG System]].  
 
-Groups inalienably possess all inherent [[Rights And Responsibilities]] of [[Individuals]] via the [[Individuals]] that compose them.  
+Groups inalienably possess all inherent [[Rights and Responsibilities]] of [[Individuals]] via the [[Individuals]] that compose them.  
 
 Each Group should do their best to [[Co-Operation|Co-Operate]] a [[Group Instance]] of the [[LIONSBERG System]] to help them discover and achieve the fullness of their unique [[Potential]] while advancing towards their [[Aim]]. 
 

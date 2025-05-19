@@ -8,4 +8,4 @@ Likewise, a Community of hundreds or thousands of voluntarily Co-Operating [[Ind
 
 _At no point in the System does the flow of Sovereignty or Authority reverse._  
 
-Sovereignty and Autonomy exist in the System within the Boundaries of the [[Rights And Responsibilities]] arising from the interexistence and interdependence of all Systems. 
+Sovereignty and Autonomy exist in the System within the Boundaries of the [[Rights and Responsibilities]] arising from the interexistence and interdependence of all Systems. 

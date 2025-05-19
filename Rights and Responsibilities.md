@@ -2,9 +2,9 @@
   
  All Individuals flow from [[ONE]] [[Source]] and are members of [[One Family]] and [[One Community]] of [[Life]]. 
 
-As such, every Individual inalienably possesses all the inherent [[Rights And Responsibilities]] that come with being a member of the family and community of [[ONE]]. 
+As such, every Individual inalienably possesses all the inherent [[Rights and Responsibilities]] that come with being a member of the family and community of [[ONE]]. 
 
-These [[Rights And Responsibilities]] are both equal and inalienable to [[All]]. 
+These [[Rights and Responsibilities]] are both equal and inalienable to [[All]]. 
 
 After the horrors and world wars at the close of the last millennium, humanity made great progress in articulating and agreeing upon the [[Universal Rights]] common to [[All]] human beings.  
 

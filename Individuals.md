@@ -4,7 +4,7 @@ An Individual is a single, unique [[Being]].
 
 The [[LIONSBERG System]] is rooted first in the Sovereignty, Autonomy, [[Authority]], and Voluntary Association among Individuals. 
 
-Individuals inalienably possess all inherent [[Rights And Responsibilities]].  
+Individuals inalienably possess all inherent [[Rights and Responsibilities]].  
 
 Individuals are regarded as: 
 
