@@ -10,4 +10,4 @@
 - [[The Book of Lionsberg|The Book Of Lionsberg]]
 - [[The Way]]
 
-Some people call jump pages [[Maps Of Content]]. 
+Some people call jump pages [[Maps of Content]]. 
