@@ -535,7 +535,7 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 
 
 
-## More to Migrate and / Or Delete: 
+## More to Migrate and / or Delete formerly linked in [[Lionsberg Governance Guide]]: 
 
 [[Co-Operation]]  
 [[Communities]]  
@@ -576,3 +576,15 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[x.x Minimum Standards of Interoperability]]  
 [[x.x Timeless Wisdom, Principles, and Values]]  
 
+## More to Migrate and / or Delete formerly linked in [[Lionsberg Integrated Delivery Guide]]:
+
+[[2.0 Program Development]] 
+[[3.0 Program Delivery]]  
+[[3.1.5 PM Backbone]]  
+[[3.1.6 PM Narrative Structure]]  
+[[3.3 Communications and Reporting]]  
+[[3.4 Project Management Foundations]] 
+[[Agreements]] 
+[[Lionsberg Integrated Delivery Guide]]  
+[[Project Delivery Guide]]  
+[[Template For Project]]  
