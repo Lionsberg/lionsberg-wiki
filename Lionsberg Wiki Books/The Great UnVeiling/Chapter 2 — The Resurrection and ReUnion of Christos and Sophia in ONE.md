@@ -1,6 +1,6 @@
-# Chapter 2 — The Resurrection and ReUnion of Christos and Sophia
+# Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE
 
-_The ReMarriage of the Divine Masculine and Feminine_
+_The Sacred ReMarriage of the Divine Masculine and Divine Feminine_
 
 ---
 

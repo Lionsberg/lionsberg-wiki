@@ -25,7 +25,7 @@ _The Eternal Unity and Original Design_
 
 ### [[Chapter 1 — The ONE and the First Turning]]
 
-### [[Chapter 2 — The Resurrection and ReUnion of Christos and Sophia]]
+### [[Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE]]
 
 ### [[Chapter 3 — The Logos and the Architecture of Co-Creation]]
 
