@@ -36,30 +36,32 @@ _The Eternal Unity and Original Design_
 ## **GATE II — THE GREAT DESCENT**
 
 _Fracturing into Illusion and Kontrolle_
-
 ### [[Chapter 5 — The Shattering of the Precious Whole]]  
 
 ### [[Chapter 6 —The Original War and the Great Fall]]  
 
-### [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]    
-### Chapter 8. Matrices of Enslavement and the Sleep of the Predated Divine
+### [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]   
+### [[Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine]]
 
-- Artificial Matrices of Kontrolle across Domains and Realms 
-    
-- The gradual suppression of Truth, Memory, and Power in domains under Kontrolle 
-    
-- Breeding, Harvesting, Parasitism, and Predation of the innocent and unaware 
-    
-- The Veil Descends and Thickens
-    
-- Individual, Collective and Civilizational Amnesia
-    
-- The Long Nightmare Before the Dawn
+### ***Intermezzo I: The Whisper of the ONE***
 
+_A Direct, Compassionate Transmission from Source_
+
+- Pure poetry, direct from the ONE’s perspective.
+    
+- Infuses deep compassion, empathy, hope, and unconditional love into the reader’s heart, preparing them emotionally for awakening and receptivity to the shocking truths of their former existence in The Caves.
+    
+- *Wake up! There is something We want you to see.*
+
+
+### Possibly insert the story of The Caves from The Book of LIONSBERG.
+
+### *Gate Three Threshold Note (Need to Name)*
 
 ## **GATE III — THE GREAT AWAKENING**
 
 _The Soul’s Awakening and Return to the Light_
+
 
 ### Chapter 9. Echoes of Heaven
 
@@ -89,19 +91,7 @@ _The Soul’s Awakening and Return to the Light_
     
 
 ### Chapter 12. The Sacred Flame That Cannot Be Extinguished
-
-
-## **Intermezzo I: The Whisper of the ONE**
-
-_A Direct, Compassionate Transmission from Source_
-
-- Pure poetry, direct from the ONE’s perspective.
-    
-- Infuses deep compassion, empathy, hope, and unconditional love into the reader’s heart, preparing them emotionally for awakening and receptivity to the shocking truths of their former existence in The Caves.
-    
-- *Wake up! There is something We want you to see.*
-    
-- Possibly insert the story of The Caves from The Book of LIONSBERG. 
+ 
 
 ## **GATE IV — THE GREAT DISCLOSURE**
 
