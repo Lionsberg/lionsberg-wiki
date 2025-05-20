@@ -41,18 +41,7 @@ _Fracturing into Illusion and Kontrolle_
 
 ### [[Chapter 6 —The Original War and the Great Fall]]  
 
-### Chapter 7. Cosmic Inversion and the Rise of Kontrolle
-
-- The Great Cosmic Inversion
-    
-- Over eons and across galaxies, the war has raged ever since (Keep this universal and archetypical, not Earth specific yet)
-    
-- Being by being, Domain by domain, species by species, Dimension by dimension  
-    
-- The Dark Empires and The Dark Fleets 
-    
-- The bid for Full Spectrum Dominance 
-    
+### [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]    
 ### Chapter 8. Matrices of Enslavement and the Sleep of the Predated Divine
 
 - Artificial Matrices of Kontrolle across Domains and Realms 
