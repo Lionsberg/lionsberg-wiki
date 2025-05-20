@@ -1,6 +1,8 @@
 # The Great UnVeiling
 _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
+*This is a [[Work In Progress]] scheduled for completion Summer 2025*  
+
 ## **FRONT MATTER**
 
 - **[[0.1 Dedication]]** – To the ONE, the All, and the ReMembering
