@@ -1,8 +1,8 @@
 # Lionsberg Wiki Books 
 
-The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. 
+The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ONE]].  
 
-They are each a [[Work In Progress]]. Some areas have been accelerated or roughed in using AI. Others are channeled. All True ideas are contributed by and belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
+Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
 
 ## Featured Works
 
@@ -12,19 +12,19 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 5. [[The Lionsberg Strategy and Plan]]  
 
-## Works In Progress 
+## Works In Progress (2025)
 
 1. [[Above The Chaos]] - A Stream of Writing that tells The Story  
-2. [[The Sacred Ascent]]  
-3. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
-4. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
-5. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
-6. [[The Chronicles of Lionsberg]]  
-7. [[The Chronicles of J]]  
-8. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
+2. [[The Great UnVeiling]] - In drafting and editing for release Summer 2025
+3. [[The Sacred Ascent]]  
+4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
+5. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
+6. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+7. [[The Chronicles of Lionsberg]]  
+8. [[The Chronicles of J]]  
+9. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
 
-
-## Books by Jordan (Pre-November 2024)
+## Books by Jordan (Through 2024)
 
 9. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
 10. [[The Lionsberg Co-Creator's Handbook]]   
@@ -64,7 +64,3 @@ They are each a [[Work In Progress]]. Some areas have been accelerated or roughe
 40. [[UnVeiling The Sacred Texts]]  
 41. [[Threads of Eternity]]  
 42. [[Tao Te Ching]]    
-## Also See Jordan's Podcast and Blog Series 
-
-43. [[Above The Chaos]] - by [[Jordan Nicholas Sukut]]  
-
