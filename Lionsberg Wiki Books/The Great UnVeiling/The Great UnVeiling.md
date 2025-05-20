@@ -43,20 +43,11 @@ _Fracturing into Illusion and Kontrolle_
 ### [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]   
 ### [[Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine]]
 
-### ***Intermezzo I: The Whisper of the ONE***
+### *[[Intermezzo I — The Whisper of the ONE]]*
 
-_A Direct, Compassionate Transmission from Source_
+### *[[Excerpt From The Book of LIONSBERG — Chapter 1.5 — The Caves]]*  
 
-- Pure poetry, direct from the ONE’s perspective.
-    
-- Infuses deep compassion, empathy, hope, and unconditional love into the reader’s heart, preparing them emotionally for awakening and receptivity to the shocking truths of their former existence in The Caves.
-    
-- *Wake up! There is something We want you to see.*
-
-
-### Possibly insert the story of The Caves from The Book of LIONSBERG.
-
-### *Gate Three Threshold Note (Need to Name)*
+### *[[Gate III Threshold Note — The First Glimmer of a New Dawn]]*
 
 ## **GATE III — THE GREAT AWAKENING**
 
