@@ -35,7 +35,7 @@ _The Eternal Unity and Original Design_
 
 _Fracturing into Illusion and Kontrolle_
 
-### Chapter 5 — The Shattering of the Precious Whole  
+### [[Chapter 5 — The Shattering of the Precious Whole]]  
 
 ### Chapter 6. The Original War and the Great Fall
     
