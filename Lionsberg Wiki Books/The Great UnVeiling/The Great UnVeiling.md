@@ -37,7 +37,7 @@ _Fracturing into Illusion and Kontrolle_
 
 ### [[Chapter 5 — The Shattering of the Precious Whole]]  
 
-### Chapter 6. The Original War and the Great Fall
+### [[Chapter 6 —The Original War and the Great Fall]]
     
 - The Original War 
     
