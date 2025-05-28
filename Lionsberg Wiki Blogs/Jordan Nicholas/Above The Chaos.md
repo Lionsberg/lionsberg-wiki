@@ -10,8 +10,10 @@
 
 ## May 2025 - Tending the Emergent New Superorganism
 
+- [[A LIONSBERG Learning Federation Rises]]  
+- [[The Prayers and Cries of Our BeLoved]]  
 - [[Update—Using AI to Speed and Buffer the Process]]  
-- New title page for the Wiki - with relevant information: [[README]]  
+- [[README|LIONSBERG Wiki Homepage]]  
 - [[Toward a New Way of Learning and Being in Community]]  
 - [[The 12 Pillars of Lionsberg]]  
 ## April 2025 - The Green Shoots of Spring
