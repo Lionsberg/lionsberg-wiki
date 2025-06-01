@@ -45,43 +45,19 @@ _Fracturing into Illusion and Kontrolle_
 
 ### *[[Intermezzo I — The Whisper of the ONE]]*
 
-### *[[Excerpt From The Book of LIONSBERG — Chapter 1.5 — The Caves]]*  
-
 ### *[[Gate III Threshold Note — The First Glimmer of a New Dawn]]*
 
 ## **GATE III — THE GREAT AWAKENING**
 
 _The Soul’s Awakening and Return to the Light_
 
+### [[Chapter 9 — Echoes of Heaven]]
 
-### Chapter 9. Echoes of Heaven
+### [[Chapter 10 — The Whisper Within]]  
 
-- Memories of Ancient Civilizations and Realms
-    
-- Remnants of Beauty, Power, and Wisdom
-    
-- The eternal ReCalling of the ONE
-    
+### [[Chapter 11 — Quieting, ReCentering, ReConnecting]] 
 
-### Chapter 10. The Whisper Within
-
-- The Undying Flame of Spirit in and Through All
-    
-- Recognizing the deep subtle call toward awakening and ReMembrance
-    
-- ReMembering the Way Home
-    
-- *This is the Way, walk in it*
-### Chapter 11. Quieting, ReCentering, ReConnecting
-
-- Meditation, Stillness, Listening
-    
-- ReEstablishing Inner Communion with Source
-    
-- Accessing ever more of the intoxicating Flow of the Divine
-    
-
-### Chapter 12. The Sacred Flame That Cannot Be Extinguished
+### [[Chapter 12 — The Sacred Flame That Cannot Be Extinguished]]
  
 
 ## **GATE IV — THE GREAT DISCLOSURE**
