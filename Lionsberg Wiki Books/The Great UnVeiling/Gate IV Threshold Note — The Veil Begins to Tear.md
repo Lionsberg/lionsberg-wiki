@@ -87,7 +87,8 @@ The Greatest Fraud,
 The Greatest Theft,  
 The Greatest Deception,  
 The Greatest Betrayal,  
-and the Greatest Enslavement  
+The Greatest Enslavement  
+and the Greatest Existential Threat  
 in the history of Earth—  
 and perhaps of any world.
 It was a masterly trap.  
@@ -95,7 +96,7 @@ It was a masterly trap.
 But fear not.
 
 The Sacred Flame that led Us here  
-will guide Us through.  
+will Guide Us through.  
 
 You were not made to serve The Lie.  
 You were not born to live in The Darkness.  
