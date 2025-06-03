@@ -1,5 +1,5 @@
 # Above The Chaos 
-*For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*
+*For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
 ## Featured Posts
 
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
@@ -32,7 +32,9 @@
 - [[0.3 Foreword]]  
 - [[0.2 Invocation]]  
 - [[0.1 Dedication]]  
-- We are writing [[The Great UnVeiling]] through May / June / July - might as well UnVeil it as We write... Dangerous content demands immediate release.   
+- We are writing [[The Great UnVeiling]] through May / June / July - We might as well UnVeil it as We write... Dangerous content demands immediate release and Progressive Disclosure.   
+- Everything from Here On is pure Bonus Material...  
+- This is an important moment... because there is Now enough information in the Lionsberg Wiki alone... that if J no longer had a body Here and Now... that would be ok...  
 
 ## May 2025 - Tending the Emergent New Superorganism
 
