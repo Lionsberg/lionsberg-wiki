@@ -467,8 +467,8 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## 1984
 
 - Commence J on Earth  
-- Start some things to prepare  
+- Start some unusual things to prepare  
 
 ## Time Immemorial 
 
-- J and Others Know and Understand We are Here for This.  
+- J and Others Know and Understand **We** are Here for **This**.  
