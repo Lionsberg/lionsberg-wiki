@@ -37,7 +37,7 @@ The veil is tearing.
 
 And you—  
 through suffering, through love, through longing, through sacred fire—  
-have come to this very Moment in Time.
+have come to this very Moment in Time.  
 Beyond Time.  
 Between Time.  
 
