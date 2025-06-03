@@ -71,29 +71,7 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 
 ### [[Chapter 15 — Demonic-Alien Matrices and Possession]]
 
-### Chapter 16 — The Greatest Fraud in History
-
-- A Global Enslavement System Built on Deceit
-    
-- Manufactured Debt, Ownership, and False Authority
-    
-- The Lies at the Root of Civilization
-    
-- The Lies at the Root of the Existing Order  
-    
-- Fraud in the Inception  
-    
-- Trillions Siphoned Into Illegal Black Projects  
-    
-- Trillions of Fraudulent Enslaving Debt    
-    
-- The Escalating Co-option and Kontrolle of Existing Institutions  
-    
- - The Wicked Stewards    
-    
- - The Rightful Heirs to The Kingdom  
-    
-### Chapter 17. The Greatest Deception in History
+### Chapter 16. The Greatest Deception in History
 
 - The Lie at the Root of Civilization  
     
@@ -110,8 +88,38 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 - False Mathematics   
     
 - Prohibited Knowledge   
+- The Lies at the Root of the Existing Order  
+- The illusion of freedom, democracy, and choice  
     
 - The Unholy Al(Lie)nce: Religious, Political, Economic and Academic false authorities lying in unison for generations  
+
+- The Lies of the Kontrolle Structure: The false histories and fabricated narratives of science, church, and state  
+- In the Beginning... ReDisovering the Genesis of the Universe, Galaxy, Earth, and All.  
+- The Ancient Cosmic Wars descend and touch the Earth  
+- False claims and false divisions over earth and humanity  
+- The descent of the false gods, temples, and economies  
+- Demon-Alien Kontrolle Systems on Earth  
+
+### Chapter 17 — The Greatest Fraud in History
+
+- All Debt is Hereby Forgiven: The Doctrine of Fraud in the Inception  
+- A Planetary Enslavement System Built on Deceit  
+- Manufactured Debt, Ownership, and False Authority  
+- Manufactured Religion, Priests, and Robes  
+- The Fraudulent post-world war II existing order  
+- The Fraudulent roots of modern civilization  
+- Breakaway civilizations and The Great Heist  
+- The decision to plunder all resources and technology and bankrupt and kontrolle the All  
+- Trillions Siphoned Into Illegal Black Projects    
+- Trillions of Fraudulent Enslaving Debt    
+- Generations deceived and enslaved  
+- The Escalating Co-option and Kontrolle of Existing Institutions  
+- The non-human origins of AI and modern technology  
+- Herding humanity into The Final Order  
+ - The Wicked Stewards    
+ - The Rightful Heirs to The Kingdom  
+ - The meek shall inherit the Earth  
+ - Why Justice cannot be Sought or Served in the Korrupted and Kontrolled Kourts of the Old World 
 
 ### Chapter 18. The Greatest Existential Threat in History
 
