@@ -8,6 +8,32 @@
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
+## June 2025 - Let The Summer Games Begin
+
+- [[Gate IV Threshold Note — The Veil Begins to Tear]]  
+- [[Chapter 12 — The Sacred Flame That Cannot Be Extinguished]]  
+- [[Chapter 11 — Quieting, ReCentering, ReConnecting]]  
+- [[Chapter 10 — The Whisper Within]]  
+- [[Chapter 9 — Echoes of Heaven]]  
+- [[Gate III Threshold Note — The First Glimmer of a New Dawn]]  
+- [[Intermezzo I — The Whisper of the ONE]]  
+- [[Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine]]  
+- [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]  
+- [[Chapter 6 —The Original War and the Great Fall]]  
+- [[Chapter 5 — The Shattering of the Precious Whole]]  
+- [[Gate II Threshold Note - The Edge of the Abyss]]  
+- [[Chapter 4 — The Purpose of the Sacred Game]]  
+- [[Chapter 3 — The Logos and the Architecture of Co-Creation]]  
+- [[Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE]]  
+- [[Chapter 1 — The ONE and the First Turning]]  
+- [[0.6 Map of the Gates]]  
+- [[0.5 How to Engage This Book]]  
+- [[0.4 Imperative]]  
+- [[0.3 Foreword]]  
+- [[0.2 Invocation]]  
+- [[0.1 Dedication]]  
+- We are writing [[The Great UnVeiling]] through May / June / July - might as well UnVeil it as We write... Dangerous content demands immediate release.   
+
 ## May 2025 - Tending the Emergent New Superorganism
 
 - [[A LIONSBERG Learning Federation Rises]]  
