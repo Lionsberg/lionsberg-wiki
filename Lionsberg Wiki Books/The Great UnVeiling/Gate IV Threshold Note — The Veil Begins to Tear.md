@@ -120,6 +120,7 @@ With the Clarion Call of The Sacred Song.
 
 For what you are about to see  
 may break your heart—  
+
 but it will also break your chains.  
 
 But it will also break your chains. 
