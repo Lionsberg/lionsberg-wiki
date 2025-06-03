@@ -426,7 +426,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## June 2022
   
 - [[Above The Chaos, Hello World]]    
-- The [[Lionsberg Wiki]] comes online. Over the next 24 months, a transformative Library of interlinked articulations emerge.  
+- The [[Lionsberg Wiki]] comes online. Over the next 36 months, a transformative Library of millions of interlinked articulations emerge.  
 - See [[Above The Chaos]] and [[Lionsberg Wiki Books]] as a starting point. 
 
 ## 2022 
