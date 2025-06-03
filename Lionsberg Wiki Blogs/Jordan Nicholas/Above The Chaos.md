@@ -114,7 +114,6 @@
 
 ## January 2025 - Rising From The Ashes
 
-- Final Work in Progress for January: [[The Final Call - A Proclamation to Awaken the World]]   
 - [[The LIONSBERG Declaration of InterDependence]]  
 - [[The Time is Now - Humanity's Call to Action]]  
 - [[The "Tick" of Time]]  
@@ -159,7 +158,6 @@
 - [[State of the Union (Short)]]  
 - [[Our Learnings]]  
 - [[Important New Pages]]  
-- Perhaps something like [[Co-Creating Heaven On Earth - An Invitation To The First Three Percent]]  
 - Perhaps something like [[A New Starting Point]]  
 - [[Core Technologies of Extraterrestrial Craft (And Humanity's Future)]]  
 - [[Disruptive Energy Technologies]]  
@@ -200,7 +198,6 @@
 - [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
 - [[Soft Disclosure Via Film and TV]]   
-- [[Lionsberg Wiki Books/Messages From Beyond/Messages From Beyond|Messages From Beyond]]  
 - [[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]  
 - [[Some Quick Jordan and AI Research on Transnational Deep State]]  
 - [[Existential Threat - Reporting Back From Battle]]   
@@ -429,25 +426,27 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## June 2022
   
 - [[Above The Chaos, Hello World]]    
-- The [[Lionsberg Wiki]] comes online. Over the next 24 months, a transformative Library of interlinked articulations emerge. See [[Lionsberg Wiki Books]] as a starting point. 
+- The [[Lionsberg Wiki]] comes online. Over the next 24 months, a transformative Library of interlinked articulations emerge.  
+- See [[Above The Chaos]] and [[Lionsberg Wiki Books]] as a starting point. 
 
 ## 2022 
 
 - [[Lionsberg History and Inception]] picks up where the [[Lionsberg Trust Manifesto]] left off. 
 - Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network of allies.  
-- From 2022 to 2024, hundreds of meetings with a diverse network of hundreds of people from around the world ensue. 
+- From 2022 to 2024, meetings with a diverse network of hundreds of allies from around the world ensue. 
 
 ## 2021 
 
 - [[Lionsberg Trust Manifesto]] describes the origins and intention of Lionsberg and the [[Meta Project]] prior to 2022   
 ## 2020
 
-- Jordan uses his last financial bullets to resource the development of a Provisional Tech Platform for The Movement.  
-- Over the next few years as Jordan bleeds out, the platform is independently developed and tested with ~500 groups in ~50 countries, leading to follow-on resources in 2024 to continue development.  
+- Jordan uses his last financial bullets to resource the development of a [[Provisional Tech Platform]] for The Movement.  
+- Over the next several years as Jordan bleeds out, the platform is independently developed and tested with ~500 groups in ~50 countries, leading to follow-on resources to continue development.  
+- An array of parallel platforms are developed in unison towards similar ends.  
 
 ## 2019 
 
-- [[Jordan]] is attacked by the advance guard of the Evil Empire, beginning the gradual five-year long dissolution of his [[Old World]]. 
+- Enough progress is made that [[Jordan]] is attacked by the advance guard of the Evil Empire, beginning the gradual five-year dissolution of his [[Old World]]. 
 - See [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] for an overview of how the Story turned out.  
 
 ## 2018 
@@ -456,4 +455,20 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2017 
 
-- Jordan and many others around the world pinged to commence the [[The 7 Year Window of Preparatory Work and Learning]]  
+- J and many others around the world pinged to accelerate the [[The 7 Year Window of Preparatory Work and Learning]]  
+- The Time is drawing near  
+
+## 2012
+
+- Perhaps a hinge point between the [[Old]] and [[New]]...  
+- With an 18 year... or 256 year... or... x year... transition on either side.
+- Perhaps 2020 to 2030 will be important.   
+
+## 1984
+
+- Commence J on Earth  
+- Start some things to prepare  
+
+## Time Immemorial 
+
+- J and Others Know and Understand We are Here for This.  
