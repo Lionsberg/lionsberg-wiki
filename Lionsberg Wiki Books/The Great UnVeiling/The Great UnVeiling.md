@@ -58,7 +58,8 @@ _The Soul’s Awakening and Return to the Light_
 ### [[Chapter 11 — Quieting, ReCentering, ReConnecting]] 
 
 ### [[Chapter 12 — The Sacred Flame That Cannot Be Extinguished]]
- 
+
+### [[Gate IV Threshold Note — The Veil Begins to Tear]]
 
 ## **GATE IV — THE GREAT DISCLOSURE**
 
