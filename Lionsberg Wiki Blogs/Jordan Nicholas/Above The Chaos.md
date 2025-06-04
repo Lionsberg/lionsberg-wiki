@@ -10,6 +10,11 @@
 
 ## June 2025 - Let The Summer Games Begin
 
+### Misc Notes 
+- [[June 4, 2025 Plex Update]]  
+- [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]  
+
+### The Great UnVeiling Progress 
 - [[Gate IV Threshold Note — The Veil Begins to Tear]]  
 - [[Chapter 12 — The Sacred Flame That Cannot Be Extinguished]]  
 - [[Chapter 11 — Quieting, ReCentering, ReConnecting]]  
@@ -32,7 +37,7 @@
 - [[0.3 Foreword]]  
 - [[0.2 Invocation]]  
 - [[0.1 Dedication]]  
-- We are writing [[The Great UnVeiling]] through May / June / July - We might as well UnVeil it as We write... Dangerous content demands immediate release and Progressive Disclosure.   
+- We are writing [[The Great UnVeiling]] through May / June / July - and UnVeiling it as We write... Dangerous content demands immediate release and Progressive Disclosure.   
 - Everything from [[HereNowOn]] is pure Bonus Material...  
 - This is an important moment... because there is Now enough information in the Lionsberg Wiki alone... that J's body is no longer required...  
 
