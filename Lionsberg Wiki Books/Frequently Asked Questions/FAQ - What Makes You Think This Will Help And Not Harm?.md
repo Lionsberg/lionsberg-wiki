@@ -1,6 +1,6 @@
 # FAQ - What Makes You Think This Will Help And Not Harm?
 
-Recognizing that the most significant crisis and opportunity in history is at hand, the question is how we should be and act in the face of that reality. 
+Recognizing that the most significant crisis and opportunity in history is at hand, the question is how we should be and act in the face of that reality and all the uncertainty it entails. 
 
 Doing nothing is likely the most risky / harmful course of action. 
 
@@ -8,11 +8,9 @@ Hoping that the existing organizations and institutions will suddenly reform the
 
 Top down / overly centralized / authoritarian solutions are highly likely to fail, or devolve into extended authoritarian control. 
 
-Our [[Current Best Understanding]] is that connecting, equipping, and empowering a distributed global array of sovereign, autonomous small groups is the only potential solution powerful enough that it might work. 
+Our [[Current Best Understanding]] is that connecting, equipping, and empowering a distributed planetary array of sovereign, autonomous small groups and localities is the only potential solution powerful enough that it might work. 
 
-It also appears the least likely to cause harm, by encouraging each [[Self Governing]] individual and locality to think clearly, independently, and truthfully for them selves, based on the best cumulative wisdom and knowledge we can collectively gather up and present. 
-
-It might be that a global network of enlightened and empowered individuals and small groups will determine to use their newfound power to tear down society, the Living System, and One Another - but we have to take that chance, and trust that humanity will not decide to consciously pursue the hell of [[Mutually Assured Destruction]]. 
+It also appears the least likely to cause harm, by encouraging each [[Self Governing]] individual, team, and locality to think and speak clearly, independently, and truthfully for them selves, based on the best cumulative wisdom and knowledge we can collectively gather up and present. 
 
 This is why everything is lead with Philosophy and [[Universal Goals and Values]]. 
 

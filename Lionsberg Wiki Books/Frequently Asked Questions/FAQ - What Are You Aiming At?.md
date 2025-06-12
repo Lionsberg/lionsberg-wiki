@@ -4,4 +4,6 @@ We are aiming at the [[The Goal]], which is the total integrated wellbeing, deve
 
 This [[Meta Goal]] reflects our [[Current Best Understanding]] of the [[Highest Intention and Greatest Good]] for [[All]]. 
 
+It is [[ONE]] with the [[Creator's Intent]]. 
+
 See more [[Frequently Asked Questions]]  

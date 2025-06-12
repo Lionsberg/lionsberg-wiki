@@ -1,6 +1,6 @@
 # LIONSBERG
 
-**LIONSBERG** is a mythical name invoking [[The Sacred Mountain]], [[The Eternal Citadel]], and the Divine Archetype of Unity, Love, and Infinite Becoming. It stands as both a gathering place beyond [[Time]] and [[Space]] and a sacred [[Way]] of being—an eternal beacon calling **ALL** to return to the **ONE**.
+**LIONSBERG** is a mythical name invoking [[The Sacred Mountain]] and the Divine Archetype of Unity, Love, and Infinite Becoming. It stands as both a gathering place beyond [[Time]] and [[Space]] and a sacred [[Way]] of being—an eternal beacon calling **ALL** to return to the **ONE**.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### **The Call of LIONSBERG**
 
-From its inception, LIONSBERG has sung [[The Song of the ONE]], a foundational resonance that echoes in the depths of every soul. It calls to the fragmented, the lost, and the wandering, saying:
+From its inception, LIONSBERG has sung [[The Song of the ONE]], a foundational resonance that echoes in the depths of every soul. It calls to the fragmented, the lost, the wounded, and the wandering, saying:
 
 > “Come Home.  
 > ReMember Who You Are.  
