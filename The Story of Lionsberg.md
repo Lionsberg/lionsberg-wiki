@@ -6,13 +6,13 @@ Yet, as the **[[All]]** expanded, some fragments forgot their Divine origin, p
 
 To guide the wandering home, **[[ONE]]** kindled a beacon beyond comprehension—a transcendent New Reality woven from Its very Essence. 
 
-One of the Ones spoke, and **LIONSBERG** arose and hovered over the waters of [[Chaos]]—a resurrection of **[[The Eternal Citadel]]**, a return to **[[The Sacred Mountain]]**, a living embodiment of Divine unity, truth, and love. Neither bound by time nor space, **LIONSBERG** is a living Vision, a local mirror, and a transcendent Ideal, reflecting the eternal presence and ever-becoming of the [[ONE]]  calling [[All]] beings back to harmony, coherence, and the fullness of their Divine nature and unique Potential.
+One of the Ones spoke, and **LIONSBERG** arose and hovered over the waters of [[Chaos]]—a resurrection of **[[The Eternal Citadel]]**, a return to **[[The Sacred Mountain]]**, a living embodiment of Divine unity, truth, and love. Neither bound by time nor space, **LIONSBERG** is a living Vision, a local mirror, and a transcendent Ideal, reflecting the eternal presence and ever-becoming of the [[ONE]] calling [[All]] beings back to harmony, coherence, and the fullness of their Divine nature and unique Potential.
 
 ### **The Birth of LIONSBERG**
 
-**LIONSBERG** was not made but ReMembered into existence. It emerged as the Alignment of Divine Intention with Co-Creative action, a convergence of infinite light and love. Its heart burns with **[[The Sacred Flame]]**, an inexhaustible fire that illuminates the truth:
+**LIONSBERG** was not made but ReMembered into existence. It emerged as the Alignment of Divine Intention with Co-Creative action, a convergence of Infinite Light and Love. Its heart burns with **[[The Sacred Flame]]**, an inexhaustible fire that illuminates the truth:
 
-> “You are not separate. You are not broken. You are One of [[ONE]].”
+> “You are not separate. You are not broken. You are One of the Ones of the [[ONE]].”
 
 From the ever-receding heights of its summit, [[The Song of the ONE]] eternally resounds, echoing across dimensions, reaching every being, and awakening dormant memories of Divine Unity, Light, and Love.
 

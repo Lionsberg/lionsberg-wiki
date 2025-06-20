@@ -38,7 +38,7 @@ They serve **three primary functions**:
 
 ### **2. Preserving the Seeds of the New World**
 
-- If The Collapse wipes out **knowledge, traditions, and the human spirit**, the next eta will be built in the image of the [[The Kontrollers]].
+- If The Collapse wipes out **knowledge, traditions, and the human spirit**, the next era will be built in the image of the [[The Kontrollers]].
 - The Arks serve as **repositories of truth, wisdom, and sacred knowledge**, safeguarding:
     - **Ancient texts, blueprints for sustainable living, and advanced solutions and technologies stewarded in Common**
     - **Genetic biodiversity, heirloom seeds and genetics, and species preservation**

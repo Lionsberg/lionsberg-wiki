@@ -75,7 +75,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
     - **Libraries and knowledge repositories**
     - **Homesteads, co-ops, and farm-based collectives**
 - The goal is to ensure that **entire communities are not left vulnerable to the collapse of centralized systems**.
-- While utilizing existing facilities for speed of deployment, The Commons housing key resources should be graduating moved to The Arks or other secure locations as they become available. 
+- While utilizing existing facilities for speed of deployment, The Commons housing key resources should be gradually moved to The Arks or other secure locations as they become available. 
 - ***DO NOT WAIT FOR THE ARKS TO BE COMPLETED TO BEGIN CO-OPERATING THE COMMUNITY HUBS***. 
 - Practice makes perfect, and the Hubs should begin co-operating *immediately* so that the [[New System]] begins organically emerging in response to needs. 
 - Community hubs must be governed by the [[LIONSBERG Families]] they serve.

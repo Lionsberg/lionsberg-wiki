@@ -1,3 +1,3 @@
 # Join Us
 
-To **Join Us**, email JNicholasOne@Proton.me to schedule a conversation. 
+To **Join Us**, visit [[Rise]]. 

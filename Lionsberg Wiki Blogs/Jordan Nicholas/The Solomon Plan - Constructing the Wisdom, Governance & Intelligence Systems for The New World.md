@@ -6,7 +6,7 @@ As The [[Old]] Order collapses and humanity enters [[The Final Test]], **the ab
 
 Without **The Solomon Plan**, the chaos of The Collapse will either **fracture into lawlessness** or be **seized by the tyrants of [[Old]] looking to reassert control**.
 
-The Hubs, Arks, and emergent [[LIONSBERG Civilization]] **must be governed wisely**. The people over every [[Time]] and [[Place]] must **become sovereign, self-sustaining, and self-governing**. And the knowledge of **governance, justice, intelligence, and cosmic law** must be **preserved, refined, and implemented at every fractal scale** of the emerging civilization—from the individual and local, all the way out to planetary and interstellar.
+The Hubs, Arks, and emergent [[LIONSBERG Civilization]] **must be governed wisely**. We The People of every [[Time]] and [[Place]] must **become sovereign, self-sustaining, and self-governing**. And the knowledge of **governance, justice, intelligence, and cosmic law** must be **preserved, refined, and implemented at every fractal scale** of the emerging civilization—from the individual and local, all the way out to planetary and interstellar.
 
 > **Without wisdom, the resources of The Joseph Plan will be wasted. Without just governance, The Arks will become isolated and competing fortresses rather than the harmonized foundation of a flourishing New human network. Without intelligence, The Forces of Darkness will outmaneuver and reenslave the emerging Forces of Good.**
 

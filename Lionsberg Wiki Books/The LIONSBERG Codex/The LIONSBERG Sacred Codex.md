@@ -1,6 +1,6 @@
 # The LIONSBERG Sacred Codex
 
-**The LIONSBERG Sacred Codex** binds together the vast Diversity of [[The LIONSBERG Universe]] into One Ultimate Unity. Reflecting and pointing back to the [[ONE]], its Intention to to embrace and properly order the [[All]] within ItSelf. 
+**The LIONSBERG Sacred Codex** binds together the vast Diversity of [[The LIONSBERG Universe]] into a Unity. Reflecting and pointing back to the [[ONE]], its Intention is to embrace and properly order the [[All]] within ItSelf. 
 
 It Is and Will Always Be a Living and Co-Creative [[Work In Progress]]. 
 
@@ -91,7 +91,7 @@ There is no religion, politics, ideology, orthodoxy, or dogma.
 It is an **Invitation to Alignment, Harmony, Coherence, and Flow**.  
 A Mirror of **The Pattern**.  
 A Transmission from **The Source**.  
-A Key to **The Old Cages**.  
+A Key to exit **The Old Cages**.  
 A Doorway into **The New Covenant**. 
 A Way beyond **The Boundary**. 
 A Path of Action. 

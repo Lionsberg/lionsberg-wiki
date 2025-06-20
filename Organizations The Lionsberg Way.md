@@ -8,7 +8,7 @@ In the context of the [[Lionsberg Integrated Delivery System]], you may also hea
 ## Purpose of Organizations
 Organizations emerge to help groups of people accomplish what individuals cannot accomplish in isolation. 
 
-Like an individual or other living being, once established organizations can move towards goals, learn, grow, sense, think, and die. 
+Like an individual or other living being, organizations—once established—gain agency to move towards goals, learn, grow, sense, think, and die. 
 
 ## Mechanisms of Organization
 1. An organization has a [[Purpose]], [[Principles]], [[Values]], and [[Goal|Goals]]. 
@@ -105,7 +105,7 @@ We would recommend the steps above be followed so that it gets the green shoot o
 ## Organizational Lifecycle
 In the [[Old World]], organizations where often established under the illusion that they might last forever. 
 
-We can expect and honor that organizations, like any life form, will develop through a lifecycle that eventually ends in a dissolution of thier energy back into the field of potential. This should be celebrated and honored. 
+We can expect and honor that organizations, like any life form, will develop through a lifecycle that eventually ends in a dissolution of their energy back into the field of potential. This should be celebrated and honored. 
 
 It is cyclical and recursive process, but the patterns are often something like: 
 

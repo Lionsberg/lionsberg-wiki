@@ -43,3 +43,5 @@ Let Us arise, unite, and Co-Create Heaven On Earth.
 In Sacred Service of One and All, 
 
 ~ [[J]]   
+
+#### *When you are ready, please [[Join Us]]!* 
