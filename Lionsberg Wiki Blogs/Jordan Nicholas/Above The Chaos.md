@@ -7,12 +7,12 @@
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
-
 ## June 2025 - Let The Summer Games Begin
 
 ### Misc Notes 
 - [[June 4, 2025 Plex Update]]  
-- [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]  
+- [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]   
+- [[On False Authority and Liberation]]  
 
 ### The Great UnVeiling Progress 
 - [[Gate IV Threshold Note — The Veil Begins to Tear]]  
