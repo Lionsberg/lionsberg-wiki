@@ -1,6 +1,6 @@
 # On False Authority and Liberation
 
-How can We liberate Our Selves from religious and ideological caves that compel Us to betray the Spirit and do the wrong thing in the name of God, religion, and politics? 
+How can We liberate Our Selves from religious and ideological Caves and their Keepers that compel Us to betray the Spirit and do the wrong thing in the name of God, religion, and politics? 
 
 How can We reaffirm the Spirit of God within each of Us, encourage Our Selves to reassert Our [[Sovereignty]], [[Boundaries]], and [[Authority]] over the [[Domain]] of Self with no intermediation, and then from there begin to form New relationships and agreements rooted in the Spirit of God and Eternal Wisdom, Principles, and Values... 
 
