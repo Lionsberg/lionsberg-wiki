@@ -4,12 +4,14 @@ A Post in [[Above The Chaos]]
 
 Greetings from East Africa.
 
-A few weeks ago, we were weaving threads of vision in a sanctuary in the mountains of Idaho when a cry pierced the stillness.
+A few weeks ago, we were weaving threads of vision in a sanctuary  
+in the mountains of Idaho when a cry pierced the stillness.
 
 Food had run out.  
 
 Our beloved children were going hungry.  
-Our elders were collapsing under the unbearable weight of holding schools and communities together with no resources left to give.  
+Our elders were collapsing under the unbearable weight  
+of holding schools and communities together with no resources left to give.  
 
 And then came the unforgettable words—
 
