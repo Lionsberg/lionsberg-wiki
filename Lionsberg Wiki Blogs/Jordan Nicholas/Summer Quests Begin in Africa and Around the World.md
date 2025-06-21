@@ -1,6 +1,6 @@
 # The Quests Begin—From East Africa to the Ends of the Earth
 A Post in [[Above The Chaos]]  
-*Summer Solstice 2025*  
+**Summer Solstice 2025**   
 
 Greetings from East Africa.
 
