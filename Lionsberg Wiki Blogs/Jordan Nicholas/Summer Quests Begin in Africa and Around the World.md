@@ -1,61 +1,156 @@
-# Summer Quests Begin in Africa and Around the World  
+# The Quests Begin—From East Africa to the Ends of the Earth
 A Post in [[Above The Chaos]]  
 *Summer Solstice 2025*  
 
-Greetings from East Africa! 
+Greetings from East Africa.
 
-I would like to invite you into an adventure.  
+A few weeks ago, we were weaving threads of vision in a sanctuary in the mountains of Idaho when a cry pierced the stillness.
 
-A few weeks ago, I was mind-weaving in a sanctuary in Idaho when a prayer came in from the heart of East Africa. Food had run out for our precious children, and elders were having heart attack symptoms from the sheer stress of trying to hold schools and communities together without the basic resources to function and feed. The cries for help from afar created an internal conflict for some locally—how could we possibly care for suffering children in Africa, when our own children are suffering right here?  
+Food had run out.  
 
-*"Every woman who has given birth understands that every child is one of her children..."* one elder cried.  
-*"We The People of Lionsberg will not have children going hungry..."* another added.  
-Is that not True for All of Us?  
+Our beloved children were going hungry.  
+Our elders were collapsing under the unbearable weight of holding schools and communities together with no resources left to give.  
 
-What would you do if you received such a prayer?  
-If a dollar was sitting in your pocket while children you loved were suffering for lack of a **ten cent daily ration of gruel**?  
+And then came the unforgettable words—
 
-The Divine Intention is clear. *Love. If you Love, Care. If you Care, Act—starting with the least and most vulnerable.*  
+> _“Every woman who has given birth understands… every child is one of her children.”_
 
-Small amounts of resources began to be set in motion, and hundreds of lives were changed in small but profound ways.  
+> _“We The People of LIONSBERG will not let children go hungry.”_
 
-I pray that many of you would like to become part of such life saving and transformational work.  
+Voices cracked with exhaustion and broke with tears,  
+but shone with the Light of something eternal and True.  
 
-____
+We knew, as many of you will know, exactly what we had to do.
 
-Over recent years, we have been co-creating a new community, platform, and operating system we call Lionsberg. It has been an incredibly difficult journey, but we are still progressing by the grace of God.  
+## What Would You Do?
 
-It is purpose-built to empower us together to provide immediate solutions and relief to those most in need, while proactively searching out and solving the deeper systemic root causes over the medium to long term as we navigate together towards Heaven on Earth.  
+If you had one dollar in your pocket,  
+and a child you loved was suffering for lack of a ten cent daily ration of gruel…
 
-Having discovered in 2024 that We The People do not actually have a functioning system of democratic self-governance—either in America or the world—Our mission now accelerates into connecting and empowering The First Three Percent of the population as rapidly as possible so that we can meet needs, solve problems, and navigate together towards The Goal. 
+Would you turn away?  
+Would you scroll past?  
+Would you assume it was somebody else's responsibility?  
 
-As we connect, a basic idea of the system is that it encourages individuals to self-organize into small autonomous **Circles**, and engage in meaningful **Seasonal Quests** that advance our lives, communities, and world towards our shared goals and values. 
+Or would you answer the prayer?  
 
-As we cross over summer solstice, I am physically beginning my **Summer Quest** with the beautiful souls of East Africa, while collaborating with co-creators around the world. Would you like to join us? Support? Or simply follow along? 
+## The Divine Intention Is Clear
 
-There is endless need, and a place for everyone who loves and cares to contribute.
+Deep within, we can all sense it.  
+**Love.**  
+If you Love, **Care.**  
+If you Care, **Act.**  
 
-____
+Start with the least.  
+Start with the most vulnerable.  
+That is where The Kingdom begins.  
 
-If like us, you refuse to stand idly by as children suffer  
-and injustice reigns, please sign up below with a contribution  
-of any amount to begin following along, supporting, or actively  
-participating in the transformation of our lives and our world. 
+So we acted.  
+Small amounts of energy and resources began to move.  
+And hundreds of lives were touched.  
+Not by charity. But by kinship. By fellowship. By love.   
+By remembering that any children are our children, and that there is no "them" "out there" to feed them when the pantries run dry.  
+It is up to **Us who receive the call**.   
 
-Since a video seems to be worth 10,000 words, here is a brief video capturing the essence of what we have been doing in East Africa recently, and an invitation to continue the work together—here in Africa, and in your own community at home. Please excuse the quality. It was all shot on cell phones, and hacked together by me :).  
+## The Story Unfolds
 
-If your feel moved to add any amount of energy or support to this unfolding international community and effort, please click the button below and make a contribution of any amount. We will follow up with those who respond with additional information and options on how you can get involved. 
+In recent years, we have been co-creating a new platform, a new pattern, and a new community—  
+One that dares to believe **a better world is possible**, that it begins with **Us**, and that the time is **Now**.
 
-Love and Blessings, 
+We call it **LIONSBERG**.
 
-~ J 
+It exists to empower people like you and me to collaborate to meet real needs and solve real problems together—immediately where we are—while working toward systemic and planetary transformation in the years ahead.
+
+In 2024, we discovered what many had long suspected:  
+We do not have a functioning system of democratic self-governance—  
+Not in America.  
+Not in the world.
+
+The structures are broken.  
+The systems are failing.  
+But **We The People** are not.  
+And **We Are Rising**.  
+
+And so **The Mission** now accelerates:  
+The next milestone is to connect and empower  
+**The First Three Percent** of humanity—  
+those awake and willing to rise, to act, and to build—  
+so that **Together**, we can usher in the next chapter of Earth’s story.
+
+## The Summer Quests Have Begun
+
+As we cross this threshold of the Solstice, I begin my **Summer Quest** in East Africa, walking shoulder to shoulder with beautiful, courageous souls doing everything they can to hold the line against hunger, poverty, tyranny, and injustice.  
+**In this city this week**, youth are being shot and abducted by government forces, protests are escalating,  
+and rumors of revolution abound.  
+It will be an interesting next few weeks to say the least.  
+
+At the same time, other Quests are beginning around the world—  
+in towns, guilds, and cities across continents.  
+
+Would you like to join us?
+
+Would you like to **support**, to **participate**, or simply to **follow along** and witness the unfolding of something real, sacred, and good?
+
+There is endless need.  
+And infinite room in this Mission and Movement for every soul who Loves, Cares, and Dares to Act—in **Unity**.  
+
+## Your Invitation
+
+If, like us, you refuse to stand idly by while women and children suffer  
+and injustice reigns,  
+please add your name and energy by clicking the link below.  
+
+Your contribution of any amount opens the door.  
+
+You will receive:
+
+- **Field Updates** from East Africa and beyond  
+    
+- A link to our **Support and Updates Streams**  
+    
+- Ways to immediately **start your own Circle or Quest**  
+    
+- A path into deeper collaboration and co-creation with the Lionsberg community  
+    
+- A digital copy of **The Great Unveiling** upon release this summer  
+
+
+We are building this in real time, together.  
+This is not a production. This is not a charity.  
+It is a **movement**.  
+It is **community**.  
+It is a **superorganism** emerging in response  
+to the urgent crises, opportunities, and needs  
+gripping our communities, nations, and world.  
+And every movement begins with a single choice,  
+and a transformational first step.  
+
+## A Glimpse From the Field
+
+Since a video is worth ten thousand words, here is a short glimpse of some magic unfolding in East Africa.
+
+It’s rough. It was all filmed on cell phones.  
+But it is real. And it is happening. Now.   
+
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwB3QlEBoX0?si=97N8pl6OkiUWWbjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+---
+
+If your heart is moved to offer any amount of energy, love, or support to this work,  
+please simply click below and take your first step.  
+
+We’ll follow up personally to explore how you might walk with us—  
+in East Africa, in your own neighborhood or area of expertise, or on the global stage.  
+
+Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for **founding membership** and a **One Member One Voice** seat at the governance table—on the basis of ongoing mutual consent and alignment.  
+We'll follow up with each responder personally to share how it works.
+
+## Are You Ready? 
+
+**Your first simple step is here**:  
 
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
 <script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
-____
-## A Journey Into The Heart of East Africa
+Love and Blessings,  
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwB3QlEBoX0?si=97N8pl6OkiUWWbjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
+**~ J**   
