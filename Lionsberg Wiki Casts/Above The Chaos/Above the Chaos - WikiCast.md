@@ -16,6 +16,7 @@ Join Us as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]] 
 
 7. [[Above The Chaos - On Tour With Jordan April 2024]]  
 8. [[Above The Chaos - Lionsberg Interview June 2024]]  
+9. [[A Journey Into The Heart of East Africa - Summer 2025]]  
 
 ___
 ## Above The Chaos Overview 

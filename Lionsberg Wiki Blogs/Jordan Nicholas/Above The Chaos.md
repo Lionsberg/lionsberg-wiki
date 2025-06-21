@@ -10,6 +10,8 @@
 ## June 2025 - Let The Summer Games Begin
 
 ### Misc Notes 
+
+- [[A Journey Into the Heart of East Africa]]  
 - [[June 4, 2025 Plex Update]]  
 - [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]   
 - [[On False Authority and Liberation]]  
