@@ -44,11 +44,13 @@ Start with the least.
 Start with the most vulnerable.  
 That is where The Kingdom begins.  
 
-So we acted.  
+So, just as you would have, we acted.  
 Small amounts of energy and resources began to move.  
 And hundreds of lives were touched.  
 Not by charity. But by kinship. By fellowship. By love.   
-By remembering that any children are our children, and that there is no "them" "out there" to feed them when the pantries run dry.  
+By remembering that any children are our children, and that  
+there is no "them" "out there" to feed them when  
+the pantries run dry.  
 It is up to **Us who receive the call**.   
 
 ## The Story Unfolds
@@ -58,7 +60,9 @@ One that dares to believe **a better world is possible**, that it begins with **
 
 We call it **LIONSBERG**.
 
-It exists to empower people like you and me to collaborate to meet real needs and solve real problems together—immediately where we are—while working toward systemic and planetary transformation in the years ahead.
+It exists to empower people like you and me to collaborate to meet real needs  
+and solve real problems together—immediately where we are—  
+while working toward systemic and planetary transformation in the years ahead.
 
 In 2024, we discovered what many had long suspected:  
 We do not have a functioning system of democratic self-governance—  
@@ -78,9 +82,11 @@ so that **Together**, we can usher in the next chapter of Earth’s story.
 
 ## The Summer Quests Have Begun
 
-As we cross this threshold of the Solstice, I begin my **Summer Quest** in East Africa, walking shoulder to shoulder with beautiful, courageous souls doing everything they can to hold the line against hunger, poverty, tyranny, and injustice.  
-**In this city this week**, youth are being shot and abducted by government forces, protests are escalating,  
-and rumors of revolution abound.  
+As we cross this threshold of the Solstice, I begin my **Summer Quest** in East Africa,  
+walking shoulder to shoulder with beautiful, courageous souls doing everything they can  
+to hold the line against hunger, poverty, tyranny, and injustice.  
+**In this city this week**, youth are being shot and abducted by government forces,  
+protests are escalating, and rumors of revolution abound.  
 It will be an interesting next few weeks to say the least.  
 
 At the same time, other Quests are beginning around the world—  
@@ -88,15 +94,16 @@ in towns, guilds, and cities across continents.
 
 Would you like to join us?
 
-Would you like to **support**, to **participate**, or simply to **follow along** and witness the unfolding of something real, sacred, and good?
+Would you like to **support**, to **participate**, or simply to **follow along**  
+and witness the unfolding of something real, sacred, and good?
 
 There is endless need.  
-And infinite room in this Mission and Movement for every soul who Loves, Cares, and Dares to Act—in **Unity**.  
+And infinite room in this Mission and Movement for every soul  
+who Loves, Cares, and Dares to Act—in **Unity**.  
 
 ## Your Invitation
 
-If, like us, you refuse to stand idly by while women and children suffer  
-and injustice reigns,  
+If, like us, you refuse to stand idly by while women and children suffer and injustice reigns,  
 please add your name and energy by clicking the link below.  
 
 Your contribution of any amount opens the door.  
@@ -109,7 +116,7 @@ You will receive:
     
 - Ways to immediately **start your own Circle or Quest**  
     
-- A path into deeper collaboration and co-creation with the Lionsberg community  
+- A path into deeper collaboration and co-creation with the **Lionsberg community**  
     
 - A digital copy of **The Great Unveiling** upon release this summer  
 
@@ -130,12 +137,15 @@ Since a video is worth ten thousand words, here is a short glimpse of some magic
 
 It’s rough. It was all filmed on cell phones.  
 But it is real. And it is happening. Now.   
+The final scene was the end of my evening last night.  
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwB3QlEBoX0?si=97N8pl6OkiUWWbjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
-If your heart is moved to offer any amount of energy, love, or support to this work,  
+If your heart is moved to offer any amount of energy, love, or support to this work  
+and the broader Lionsberg Mission to co-create  
+the **Best Possible World for All**,  
 please simply click below and take your first step.  
 
 We’ll follow up personally to explore how you might walk with us—  
