@@ -151,7 +151,7 @@ please simply click below and take your first step.
 We’ll follow up personally to explore how you might walk with us—  
 in East Africa, in your own neighborhood or area of expertise, or on the global stage.  
 
-Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
+Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
 **founding membership** and a **One Member One Voice** seat at the governance table—  
 on the basis of ongoing mutual consent and alignment.  
 We'll follow up with each responder personally to share how it works.
