@@ -9,8 +9,6 @@
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 ## June 2025 - Let The Summer Games Begin
 
-### Misc Notes 
-
 - [[Everything Is Prepared and Time is Short—Will You Rise and Stand With Us?]]  
 - [[Summer Quests Begin in Africa and Around the World]]  
 - [[Reflection and Invitation - Summer 2025]]  
@@ -21,7 +19,10 @@
 - [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]   
 - [[On False Authority and Liberation]]  
 
-### The Great UnVeiling Progress 
+#### The Great UnVeiling Progress 
+*I suggest reading the below in reverse order*  
+*from bottom to top if you are interested.* 
+
 - [[Chapter 15 — Demonic-Alien Matrices and Possession]]  
 - [[Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle]]  
 - [[Chapter 13 — Shattering the Lie]]  
