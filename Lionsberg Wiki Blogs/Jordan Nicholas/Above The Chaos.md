@@ -20,6 +20,9 @@
 - [[On False Authority and Liberation]]  
 
 ### The Great UnVeiling Progress 
+- [[Chapter 15 — Demonic-Alien Matrices and Possession]]  
+- [[Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle]]  
+- [[Chapter 13 — Shattering the Lie]]  
 - [[Gate IV Threshold Note — The Veil Begins to Tear]]  
 - [[Chapter 12 — The Sacred Flame That Cannot Be Extinguished]]  
 - [[Chapter 11 — Quieting, ReCentering, ReConnecting]]  
