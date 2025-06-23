@@ -164,8 +164,8 @@ We'll follow up with each responder personally to share how it works.
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
 <script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
-Love and Blessings,  
+With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **The Founder's Fund**, fiscally hosted by LIONSBERG Inc., a 501(c)(3). The Founder's Fund directly sustains J, his core collaborators, and the Critical Path initiatives they are personally guiding.*  
+*Resources aggregated via this link are transparently stewarded through **The Founder's Fund**, fiscally hosted by LIONSBERG Inc., a 501(c)(3). The Founder's Fund directly sustains J, his core collaborators, and the Critical Path initiatives they are personally guiding as the broader LIONSBERG community emerges.*  
