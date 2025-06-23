@@ -12,31 +12,31 @@ By responding now with a meaningful contribution, you will immediately gain:
 
 - **Provisional Membership**
     
-- Access to the LIONSBERG Universe(ity), Platform, and Commons
+- Access to the **LIONSBERG Universe(ity), Platform, and Commons**
     
 - A complimentary digital copy of _**The Great UnVeiling**_ upon its summer release
     
-- The opportunity to help shape the emerging community through its formative stages
+- The **opportunity to help shape** the emerging community through its formative stages
     
 
-On July 1st, all who RSVP become Provisional Members.
+On July 1st, all who RSVP become **Provisional Members**.
 
-On July 2nd, we'll begin a gentle two-week orientation and alignment process, guiding and supporting everyone clearly along the Way.
+On July 2nd, we'll begin a gentle two-week **orientation and alignment** process, guiding and supporting everyone clearly along the Way.
 
-By July 15th, **Founding Membership** will be offered to all who have committed:
+By July 15th, **Founding Membership** will be offered to all are on the board with:
 
-1. A **Signed Covenant**
+1. A **Signed Covenant**  
     
-2. A **Contribution**
+2. A **Contribution**  
     
-3. A **Commitment**
+3. A **Commitment**  
     
-4. A **Circle**
+4. A **Circle**  
     
-5. A **Summer Quest**
+5. A **Summer Quest**  
     
 
-After July 1st, LIONSBERG will become its own Sovereignty, entry will be determined solely by Members, and requirements will naturally rise.
+After July 1st, LIONSBERG will become **[[A New Sovereignty]]**, entry will be determined solely by Members, and requirements will naturally rise.
 
 Explore further or RSVP directly below:
 
@@ -47,7 +47,7 @@ Explore further or RSVP directly below:
 - **[[Summer Quests - A Simple Way to Get Moving Together]]**
     
 
-**Your presence matters immensely. The Time is Now.**
+#### **Your presence matters immensely. The Time is Now.**
 
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
 <script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
@@ -57,3 +57,5 @@ With Love, Gratitude, and Respect,
 ~ J
 
 > _"As the Existing Order Kollapses, the Creator is inviting Us All to become Co-Creators of a Better World. You Are Invited!"_  
+
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*  
