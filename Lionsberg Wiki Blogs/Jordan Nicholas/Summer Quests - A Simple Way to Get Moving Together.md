@@ -33,7 +33,7 @@ As detailed in [[The Lionsberg Co-Creator's Handbook]], a Circle ideally compris
 ## How It Works
 
 
-1. **Join** LIONSBERG as a Member. ([[Join Us]])
+1. **Join** LIONSBERG as a Member. (Via Link Below)
     
 2. **Form or Join** a Circle (also called a Team, Fellowship, or Group).
     
@@ -67,7 +67,7 @@ Wherever possible, ensure each Quest empowers both Lionsberg and your local comm
 
 ## Your Invitation
 
-This is your invitation to **[[Join Us]]**:
+This is your invitation to **Join Us**:
 
 - Become a LIONSBERG **Member**.  
     
