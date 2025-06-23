@@ -79,7 +79,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 [[Lionsberg Invitation]]  
 
-## Holding Together 
+## Staying Together 
 
 [[Transforming Conflict]]  
 [[Transforming Divergence]]  

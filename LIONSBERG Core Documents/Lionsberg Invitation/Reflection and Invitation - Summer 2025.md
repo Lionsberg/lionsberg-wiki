@@ -5,7 +5,7 @@ Beloved Allies, Co-Creators, and Guardians of Life,
 
 We stand together at a threshold unique in human history. The hour is sacred. The stakes could not possibly be higher. 
 
-And the responsibility is Ours.
+And the **Responsibility** is **Ours**.
 ## Awakening to the Truth
 
 In recent years, The Veil has been torn.
@@ -18,7 +18,7 @@ By late mid 2024, we faced undeniable evidence: tens of trillions of dollars sto
 
 Whistleblowers confirmed that extraterrestrial craft and beings have long been in governmental possession, that secret collaborations with multiple advanced non-human intelligences have been ongoing on and off-planet for generations, and that these secrets are culminating towards a carefully controlled disclosure process designed to peak by 2027.
 
-Why 2027?  
+***Why 2027?***  
 
 Further revelations confirmed that events such as Pearl Harbor (WWII), Gulf of Tonkin (Vietnam), and 9/11  (War of "Terror") were orchestrated, our grandparents, parents, brothers, sisters, and friends sacrificed in intentionally falsified conflicts, and our education intentionally corrupted across science, biology, physics, math, and even the sacred scriptures we were taught were inviolable. 
 
