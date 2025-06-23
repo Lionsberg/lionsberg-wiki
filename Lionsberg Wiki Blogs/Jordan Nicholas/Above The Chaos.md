@@ -12,6 +12,7 @@
 ### Misc Notes 
 
 - [[Summer Quests Begin in Africa and Around the World]]  
+- [[Reflection and Invitation - Summer 2025]]  
 - [[Why We Build Futures That No One Wants]]  
 - [[June 4, 2025 Plex Update]]  
 - [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]   
