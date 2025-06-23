@@ -83,6 +83,13 @@ Together, aligned with Source and united in purpose, vision, and values, we shal
 
 This future is not only possible—it is our destiny, already living and burning within our hearts.
 
+## A Place For Everyone 
+
+We will personally follow up with all who respond to explore how we can best walk and weave together—whether you simply want to support and follow along, have something to contribute, or are ready to actively engage and co-create. 
+
+Those who contribute and stand up a meaningful **Circle** and **Quest** by July 1st will be eligible for  
+**founding membership** and a **One Member One Voice** seat at the governance table on the basis of ongoing mutual consent and alignment.  
+
 ## Are You Ready? 
 
 **Your first simple step is here**:  
