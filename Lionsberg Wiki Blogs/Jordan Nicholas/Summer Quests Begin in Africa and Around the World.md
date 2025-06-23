@@ -27,9 +27,9 @@ We knew, as many of you will know, exactly what we had to do.
 ## What Would You Do?
 
 If you had one dollar in your pocket,  
-and a child you loved was suffering for lack of a ten cent daily ration of gruel…
+and a child you loved was suffering for lack of a ten cent daily ration of gruel…  
 
-Would you turn away?  
+Would you turn away?    
 Would you scroll past?  
 Would you assume it was somebody else's responsibility?  
 
@@ -67,9 +67,9 @@ and solve real problems together—immediately where we are—
 while working toward systemic and planetary transformation in the years ahead.
 
 In 2024, we discovered what many had long suspected:  
-We do not have a functioning system of democratic self-governance—  
+We do not actually have a functioning system of democratic self-governance—  
 Not in America.  
-Not in the world.
+Not in the world.  
 
 The structures are broken.  
 The systems are failing.  
@@ -120,7 +120,7 @@ You will receive:
     
 - A path into deeper collaboration and co-creation with the **Lionsberg community**  
     
-- A digital copy of **The Great Unveiling** upon release this summer  
+- A digital copy of **The Great Unveiling** book upon release this summer  
 
 
 We are building this in real time, together.  
@@ -135,13 +135,12 @@ and a transformational first step.
 
 ## A Glimpse From the Field
 
-Since a video is worth ten thousand words, here is a short glimpse of some magic unfolding in East Africa.
+Since a video is worth ten thousand words, here is a short glimpse of some of the magic unfolding in East Africa.  
 
 It’s rough. It was all filmed on cell phones.  
 But it is real. And it is happening. Now.   
-The final scene was the end of my evening last night.  
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XwB3QlEBoX0?si=97N8pl6OkiUWWbjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6vA1umlwkkg?si=a1aLfg8XOd5L1stk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -155,7 +154,7 @@ in East Africa, in your own neighborhood or area of expertise, or on the global 
 
 Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
 **founding membership** and a **One Member One Voice** seat at the governance table—  
-on the basis of ongoing mutual consent and alignment.  
+as with all things LIONSBERG, on the basis of ongoing mutual consent and alignment.  
 We'll follow up with each responder personally to share how it works.
 
 ## Are You Ready? 
@@ -168,3 +167,5 @@ We'll follow up with each responder personally to share how it works.
 Love and Blessings,  
 
 **~ J**   
+
+*Resources aggregated via this link will be transparently stewarded through **The Founder's Fund**, fiscally hosted by LIONSBERG Inc., a 501(c)(3). The Founder's Fund directly secures J's full-time focus and precisely channels resources into Critical Path initiatives under his personal stewardship.*  
