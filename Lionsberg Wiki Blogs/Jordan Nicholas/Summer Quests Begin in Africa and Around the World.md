@@ -168,4 +168,4 @@ Love and Blessings,
 
 **~ J**   
 
-*Resources aggregated via this link will be transparently stewarded through **The Founder's Fund**, fiscally hosted by LIONSBERG Inc., a 501(c)(3). The Founder's Fund directly secures J's full-time focus and precisely channels resources into Critical Path initiatives under his personal stewardship.*  
+*Resources aggregated via this link will be transparently stewarded through **The Founder's Fund**, fiscally hosted by LIONSBERG Inc., a 501(c)(3). The Founder's Fund ensures J's undivided focus and directly allocates resources toward Critical Path initiatives guided by his personal stewardship and discernment.*   
