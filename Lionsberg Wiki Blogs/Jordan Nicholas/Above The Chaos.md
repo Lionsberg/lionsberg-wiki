@@ -14,6 +14,7 @@
 - [[Summer Quests Begin in Africa and Around the World]]  
 - [[Reflection and Invitation - Summer 2025]]  
 - [[Summer Quests - A Simple Way to Get Moving Together]]  
+- [[Ideas On Water]]  
 - [[The War Is Now In Full Swing]]  
 - [[Why We Build Futures That No One Wants]]  
 - [[June 4, 2025 Plex Update]]  
