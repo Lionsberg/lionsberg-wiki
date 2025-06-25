@@ -9,6 +9,7 @@
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 ## June 2025 - Let The Summer Games Begin
 
+- [[Quiet, Painful Questions]]  
 - [[Everything Is Prepared and Time is Short—Will You Rise and Stand With Us?]]  
 - [[Summer Quests Begin in Africa and Around the World]]  
 - [[Reflection and Invitation - Summer 2025]]  
