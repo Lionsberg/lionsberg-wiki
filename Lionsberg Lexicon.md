@@ -620,7 +620,7 @@ Alliance
 322. [[Collusion]]  
 323. [[Core Enterprise]] / [[Lionsberg Core Enterprise]] / [[Core Team]] 
 324. [[Core Team and Infrastructure]] / [[Lionsberg Core Team and Infrastructure Fund]]  
-325. [[Core Goal]]  
+325. [[LIONSBERG Goal]]  
 326. [[Core Values]]  
 327. [[Core, Official, and Ancillary Groups]]  
 328. [[Checklist]]  

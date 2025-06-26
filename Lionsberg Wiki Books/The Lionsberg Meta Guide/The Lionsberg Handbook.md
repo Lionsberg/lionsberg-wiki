@@ -407,7 +407,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Process 
 
-[[Lionsberg Process]] 
+[[LIONSBERG Process]] 
 
 ## The Lionsberg Way
 

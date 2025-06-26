@@ -3,5 +3,6 @@
 [[Action Domains]]  
 [[Integration Domains]]  
 [[Global Goals]]  
-[[LIONSBERG System]]  
+[[Grand Challenges]]  
+[[The 12 Pillars of Lionsberg]]  
 
