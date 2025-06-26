@@ -9,7 +9,7 @@ If tens of trillions of dollars of fraud are funding a rogue breakaway civilizat
 Catherine Austin Fitts is one of hundreds of government whistleblowers  
 breaking the silence and opening confessing the accelerating anti-plans.  
 
-[$21 Trillion Black Budget is Funding a Rogue Breakaway Civilization | Catherine Fitts](https://youtu.be/piDqTbBwWRM?si=B_K9YLK1HTfxm_Uo)  
+#### Watch: [$21 Trillion Black Budget is Funding a Rogue Breakaway Civilization | Catherine Fitts](https://youtu.be/piDqTbBwWRM?si=B_K9YLK1HTfxm_Uo)  
 
 When you are ready, please Rise and Stand With Us. 
 #### **Your presence matters immensely. The Time is Now.**
