@@ -16,7 +16,9 @@ Now, before **July 1st**, I am reaching out personally to discern who is willin
 
 If you value us personally, this mission, and the vulnerable young leaders we strive to love, educate, house, feed, clothe, and empower as we reach out towards **The First Three Percent** of humanity…
 
-If you have ever considered standing with us…
+If you have ever considered standing with us…  
+
+If you think this is important and want to see it continue... 
 
 **Please step forward now—before conditions worsen, infrastructure further degrades, and opportunities slip away.**
 
@@ -47,4 +49,3 @@ ____
 building the Best Possible Future For All.  
 **[[The Founder's Fund]]** is an independent fund fiscally hosted by Lionsberg Inc. 
 
-___
