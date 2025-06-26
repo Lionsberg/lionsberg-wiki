@@ -3,46 +3,28 @@
 This document is a [[Work In Progress]]. 
 ___
 ## The Provisional Code
+
 This is a simple Provisional Code to guide [[Wise Right]] Action during emergence. 
 
 Do the [[Wise Right Thing]]. 
 
-Do the wise right thing, at the right time, for the right reasons, to accomplish [[The Goal]]
+Do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons, to accomplish [[The Goal]]
+____
 
 [[Wise Right]] things are things that are done in a spirit of Love to help, and not harm, and which create Value, and avoid Waste. 
+
 ____
 Do not do the wrong thing. 
 
 Wrong things are things that are done in a spirit of Fear or Self-Interest that harm, and do not help.  
 
-Do no harm. 
+[[First, Do No Harm]].   
 _____
-Love.
+[[Love]].
 
 Love [[ONE]] and Love [[All]] as your Self. 
 ___
 From any of these simple word tools, the entire Universal Law and Code can be derived. 
-___
-
-## Spirit 
-
-The entire [[LIONSBERG System]] is moved by the [[Central Animating Spirit]] of God, and operates in service of the [[Creator's Intent]], [[On Earth As it Is In Heaven]]. 
-
-This Spirit is the basis of the [[New Covenant]] that unites us [[All]] in Spirit, heart, and interexistence on a level far deeper than words. 
-
-## Universal and Eternal Core Values 
-
-The Lionsberg System is centered around universal and eternal [[Core Values]] flowing from [[ONE]] and known to [[All]]. 
-
-In English, they can be pointed towards with words such as: 
-
-Truth  
-Love  
-Justice  
-Stewardship
-Wisdom  
-
-The Spirit is more fully reflected in [[The Lionsberg System of Values]]. 
 ___
 
 ## The Lionsberg | Meta Code
@@ -55,21 +37,21 @@ Because Values are abstract, and we have difficulty translating them into the co
 
 The Code articulates, in concrete and relatable ways, how the Values show up in our [[Way of Being]] and our [[Way of Doing]]. 
 
-From the One Spirit behind the list of Universal Values above, we have articulated a Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], consitute an approximation of some of the basic [[Patterns of Life]]. 
+From the One Spirit behind the list of Universal Values reflected in [[The Lionsberg System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
 
-It is called the Lionsberg | Meta Code to different our articulation of it from the Absolute / Eternal / Universal / Transcendent understanding of It that cannot be reduced to words. 
+It is called the Lionsberg | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
 
-This Meta Code is only a shallow and surficial articulation of the Spirit that impells us to do our best to act perfectly, wisely, and rightly in service of [[ONE]] and [[All]]. 
+This Meta Code is only a shallow and surfacial articulation of the Spirit that impels us to do our best to act perfectly, wisely, and rightly in service of [[ONE]] and [[All]]. 
 
 Nevertheless, recognizing the need to forge a basis for continuously improving our articulation and embodiment of it, we establish the following as a [[Starting Point]] and approximation: 
 
 ### 1. We will [[Doing Our Best|Do Our Best]] to Love and Serve One and All  
 
-### 2. We will [[Doing Our Best|Do Our Best]] to Love our Selves  
+### 2. We will [[Doing Our Best|Do Our Best]] to Love Our Selves  
 
 ### 3. We will [[Doing Our Best|Do Our Best]] to Help and Not Harm  
 
-### 4. We will [[Doing Our Best|Do Our Best]] to Be Faithful in our Order of Loves   
+### 4. We will [[Doing Our Best|Do Our Best]] to Be Faithful in Our Order of Loves   
 
 ### 5. We will [[Doing Our Best|Do Our Best]] to Aim Unerringly at the Highest Intention and Greatest Good of Which We Can Presently Conceive  
 
@@ -77,31 +59,31 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 7. We will [[Doing Our Best|Do Our Best]] to Work as Intelligently, Creatively, and Diligently As We Can Towards our Highest Uniting [[Meta Goal]]    
 
-### 8. We will [[Doing Our Best|Do Our Best]] to Persevere Through Trials with Gratitude  
+### 8. We will [[Doing Our Best|Do Our Best]] to Persevere Through Trials with Gratitude and Grace  
 
-### 9. We will [[Doing Our Best|Do Our Best]] to Harmonize our Diverse Instruments to the One Fundamental Tone   
+### 9. We will [[Doing Our Best|Do Our Best]] to Harmonize our Diverse Instruments into One Divine Symphony   
 
 ### 10. We will [[Doing Our Best|Do Our Best]] to do the Difficult and Dangerous Work Our Selves to Make it Easier For Those Who Come After Us   
 
-### 11. We will [[Doing Our Best|Do Our Best]] to Run With Endurance   
+### 11. We will [[Doing Our Best|Do Our Best]] to Run With Perseverance and Endurance   
 
-### 12. We will [[Doing Our Best|Do Our Best]] to Pass the Baton   
+### 12. We will [[Doing Our Best|Do Our Best]] to Pass the Flame   
 
 ### 13. We will [[Doing Our Best|Do Our Best]] to Remember and Uphold our Sacred Traditions   
 
-### 14. We will [[Doing Our Best|Do Our Best]] to Search Out Wisdom and Understanding   
+### 14. We will [[Doing Our Best|Do Our Best]] to Search Out Wisdom, Knowledge, and Understanding   
 
 ### 15. We will [[Doing Our Best|Do Our Best]] to Follow Wisdom and Truth No Matter Where They Lead   
 
 ### 16. We will [[Doing Our Best|Do Our Best]] to Cultivate Life and Consciousness   
 
-### 17. We will [[Doing Our Best|Do Our Best]] to Leave Every Thing and Every One a Little Better than we Found them   
+### 17. We will [[Doing Our Best|Do Our Best]] to Leave Every Thing and Every One a Little Better than We Found Them   
 
 ### 18. We will [[Doing Our Best|Do Our Best]] to [[Become]] [[A Little Better Every Day]]   
 
 ### 19. We will [[Doing Our Best|Do Our Best]] to Speak Truth in Love  
 
-### 20. We will [[Doing Our Best|Do Our Best]] to Be Careful and Precise in our Thought and Speech  
+### 20. We will [[Doing Our Best|Do Our Best]] to Be Careful and Precise in Our Thought and Speech  
 
 ### 21. We will [[Doing Our Best|Do Our Best]] to Heal, Regenerate, and Restore  
 
@@ -139,17 +121,17 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 38. We will [[Doing Our Best|Do Our Best]] to Never Harm or Exploit Another Being  
 
-### 39. We will [[Doing Our Best|Do Our Best]] to Transform our Weapons into Tools of Life   
+### 39. We will [[Doing Our Best|Do Our Best]] to Transform Our Weapons into Tools of Life   
 
-### 40. We will [[Doing Our Best|Do Our Best]] to Be Perfect, as One is Perfect   
+### 40. We will [[Doing Our Best|Do Our Best]] to Be Perfect, as ONE is Perfect   
 
 ### 41. We will [[Doing Our Best|Do Our Best]] to Measure Progress, Not Perfection   
 
-### 42. We will [[Doing Our Best|Do Our Best]] to Recognize Every Imperfection and Obstacle as a Gift that Shows us the Way Towards The Goal   
+### 42. We will [[Doing Our Best|Do Our Best]] to Recognize Every Imperfection and Obstacle as a Gift that Shows Us the Way Towards The Goal   
 
 ### 43. We will [[Doing Our Best|Do Our Best]] to Bear with One Another's Weaknesses, Imperfections, and Burdens  
 
-### 44. We will [[Doing Our Best|Do Our Best]] to Forgive, as One Forgives  
+### 44. We will [[Doing Our Best|Do Our Best]] to Forgive, as ONE Forgives  
 
 ### 45. We will [[Doing Our Best|Do Our Best]] to Vanquish Corruption, Injustice, and Oppression  
 
@@ -163,7 +145,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 50. We will [[Doing Our Best|Do Our Best]] to Move Our Selves, One Another and All Away From Suffering and Dysfunction, and Towards Flourishing and Abundant Life 
 
-### 51. We will [[Doing Our Best|Do Our Best]] to Move in the Spirit, and Not the Letter of the Code   
+### 51. We will [[Doing Our Best|Do Our Best]] to Move in the Spirit, and Not the Letter of the Code / Law   
 
 ### 52. We will [[Doing Our Best|Do Our Best]] to Recreate and Play  
 
@@ -171,13 +153,13 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 54. We will [[Doing Our Best|Do Our Best]] to Pay Energy and Attention to the Wise Right Things  
 
-### 55. We will [[Doing Our Best|Do Our Best]] to Remove Energy and Attention from the Wrong Things
+### 55. We will [[Doing Our Best|Do Our Best]] to Remove Energy and Attention from the Wrong Things  
 
 ### 56. We will [[Doing Our Best|Do Our Best]] to Actually Do the Deeds  
 
-### 57. We will [[Doing Our Best|Do Our Best]] to Not Grow Resentful, Arrogant, or Bitter  
+### 57. We will [[Doing Our Best|Do Our Best]] to Not Grow Resentful, Arrogant, Envious, or Bitter  
 
-### 58. We will [[Doing Our Best|Do Our Best]] to Not Tolerate and Remove That Which Does Not Belong in the [[New]] 
+### 58. We will [[Doing Our Best|Do Our Best]] to Not Tolerate and Remove That Which Does Not Belong   
 
 ### 59. We will [[Doing Our Best|Do Our Best]] to Fill Up That Which is Lacking   
 
@@ -189,9 +171,9 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 63. We will [[Doing Our Best|Do Our Best]] to Help One Another Discover and Become the Best Possible Version of Our Selves    
 
-### 64. We will [[Doing Our Best|Do Our Best]] to Humbly Remember That We Do Not Know, and we are Searching it Out  
+### 64. We will [[Doing Our Best|Do Our Best]] to Humbly Remember That We Do Not Know, and We are Searching it Out  
 
-### 65. We will [[Doing Our Best|Do Our Best]] to Confront and Overcome All That Stands in our Way  
+### 65. We will [[Doing Our Best|Do Our Best]] to Confront and Overcome All That Stands in Our Way  
 
 ### 66. We will [[Doing Our Best|Do Our Best]] to Take Responsibility For All, and Blame None  
 
@@ -205,7 +187,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 71. We will [[Doing Our Best|Do Our Best]] to Forge Environments in Which All can Flourish  
 
-### 72. We will [[Doing Our Best|Do Our Best]] to Be Good Stewards of All That is Entrusted to us 
+### 72. We will [[Doing Our Best|Do Our Best]] to Be Good Stewards of All That is Entrusted to Us  
 
 ### 73. We will [[Doing Our Best|Do Our Best]] to Employ Means that are Perfectly Consistent with the Ends we are Trying to Achieve  
 
@@ -215,13 +197,13 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 76. We will [[Doing Our Best|Do Our Best]] to Harmonize with and Honor the Cycles of Creation and Dispersion, Life and Death   
 
-### 77. We will [[Doing Our Best|Do Our Best]] to Discipline and Govern our Selves, so that we are not Disciplined or Governed by Others   
+### 77. We will [[Doing Our Best|Do Our Best]] to Discipline and Govern our Selves, so that We are not Disciplined or Governed by Others   
 
-### 78. We will [[Doing Our Best|Do Our Best]] to Relate to the Energy and Spirit of Things, and not Merely their Physical and Temporal Expression  
+### 78. We will [[Doing Our Best|Do Our Best]] to Relate to the Energy and Spirit of Things, and not Merely their Physical and SpatioTemporal Expression  
 
 ### 79. We will [[Doing Our Best|Do Our Best]] to Perceive All Things from the Highest Perspective  
 
-### 80. We will [[Doing Our Best|Do Our Best]] to Collaborate and Progressively Unleash the Latent Synergies and Potentials Between us  
+### 80. We will [[Doing Our Best|Do Our Best]] to Collaborate and Progressively Unleash the Latent Synergies and Potentials Between Us  
 
 ### 81. We will [[Doing Our Best|Do Our Best]] to Heal Anything We Harm  
 
@@ -229,15 +211,15 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 83. We will [[Doing Our Best|Do Our Best]] to Help One Another Experientially Learn and Grow Through Sequentially Greater Challenges  
 
-### 84. We will [[Doing Our Best|Do Our Best]] to Help One Another Identify and Cross Threshold Moments 
+### 84. We will [[Doing Our Best|Do Our Best]] to Help One Another Identify and Cross Threshold Moments  
 
-### 85. We will [[Doing Our Best|Do Our Best]] to Elevate and Transform Consciousness  
+### 85. We will [[Doing Our Best|Do Our Best]] to Elevate and Transform Consciousness   
 
 ### 86. We will [[Doing Our Best|Do Our Best]] to be Kind, Loving, Merciful, Just and Good to All  
 
-### 87. We will [[Doing Our Best|Do Our Best]] to Always Discover and Courageously Take the Wise Next Step  
+### 87. We will [[Doing Our Best|Do Our Best]] to Always Discover and Courageously Take the Wise Right Next Step  
 
-### 88. We will [[Doing Our Best|Do Our Best]] to Never Interfere with the Free Will of Another in their Domain of Sovereignty  
+### 88. We will [[Doing Our Best|Do Our Best]] to Never Interfere with the Free Will of Another in their Domains of Sovereignty, Responsibility and Authority    
 
 ### 89. We will [[Doing Our Best|Do Our Best]] to Be Present in the Eternal Now  
 
@@ -247,23 +229,24 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 92. We will [[Doing Our Best|Do Our Best]] to Remember That Everything is the Way it is for a Reason, and Strive to Discover and Understand Why  
 
-### 93. We will [[Doing Our Best|Do Our Best]] to Remain Exactly on the Centerline as Creation Spirals Up Around us   
+### 93. We will [[Doing Our Best|Do Our Best]] to Remain Exactly in the Center—balancing on the tip of the needle—as Creation Spirals Up Around Us   
 
 ### 94. We will [[Doing Our Best|Do Our Best]] to Cultivate the New and Good Things that are Trying to Emerge    
 
 ### 95. We will [[Doing Our Best|Do Our Best]] to Pull into Reality, from All Potentials, the Best Possible One  
 
-### 96. We will [[Doing Our Best|Do Our Best]] to Grow Into our Potential by Serving Others and Helping All Others them do the Same  
+### 96. We will [[Doing Our Best|Do Our Best]] to Develop Towards the Fullness of Our Unique Potential by Serving Others and Helping All Others do the Same  
 
-### 97. We will [[Doing Our Best|Do Our Best]] to Surrender All and Trust One and All to Provide   
+### 97. We will [[Doing Our Best|Do Our Best]] to Surrender All and Trust ONE and All to Provide    
 
 ### 98. We will [[Doing Our Best|Do Our Best]] to Discover the Highest Levels of Abstraction at Which All Things can be Reconciled   
 
 ### 99. We will [[Doing Our Best|Do Our Best]] to Reconcile and Align our Stories  
 
-### 100. We will [[Doing Our Best|Do Our Best]] to Learn How to Partner with One and All to accomplish The Goal of One and All  
+### 100. We will [[Doing Our Best|Do Our Best]] to Learn How to Partner with ONE and All to accomplish The Goal of ONE and All  
 
 ## A Return to Simplicity 
+
 The [[Meta Code]] can be described in one word like [[ONE]] or [[Love]]. 
 
 In can be described in Five words like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
@@ -274,7 +257,7 @@ Or it can be described in 1,000 things that one should do, and 1,000 things that
 
 For this reason, [[The Way]] must be understood and applied in Spirit, and not in fixed propositions or techniques. 
 
-If you do not resonate with the Code above, develop your own! Make sure it all flows from the [[Fundamental Tone]] of [[Love]], and try to make it a little better every day.  
+If you do not resonate with the Code above, develop your own! Make sure it all flows from the [[Fundamental Tone]] of ONE [[Love]], and try to make it [[A Little Better Every Day]].  
 
 One can never discover the [[Way]] through intellectual learning. To know the Way, one must live it and discover it experientially by learning how to allow the Spirit of It to flow through them spontaneously and accurately into whatever time, place, or situation they find themselves in. 
 
