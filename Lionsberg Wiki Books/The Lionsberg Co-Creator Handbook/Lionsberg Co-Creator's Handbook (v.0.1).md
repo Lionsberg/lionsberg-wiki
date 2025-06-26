@@ -228,13 +228,13 @@ By choosing from the outset to co-operate on the basis of shared stewardship of 
 
 #### Intrapreneurship vs. Entrepreneurship - Federating Everything
 
-The Lionsberg System is created as a bounded ecosystem in which we [[Federate  Everything]] around The Commons. 
+The Lionsberg System is created as a bounded ecosystem in which we [[Federate Everything]] around The Commons. 
 
 While any individual or team is free to leave at any time and "go out" to pursue an idea "on their own", we know that the real Value and Potential lies not merely in our individual efforts, but in the Synergies and Relationships among us. 
 
 Because we are co-creating One Future as One Body, Our Aim is to build an ecosystem of multi-generational interconnected relationships and trust, where we are confident that any ideas and "intellectual property" (as it was called in the Old World) that are expressed into The Commons are cultivated and developed In Community for the Good of All. This ensures that as a cultural norm and Value, whatever gets built gets federated, so that We and our Successors All have an equal stake in the multi-generational Value we are co-creating. 
 
-[[Federate  Everything]]. 
+[[Federate Everything]]. 
 ### Aggregating and Coordinating The First Tenth 
 
 Our Aim is not to build a thousand independent teams to compete with one another, but to build millions of autonomous teams to co-operate with One Another as One Body towards One Future and One Goal. 

@@ -2,7 +2,7 @@
 
 In the [[LIONSBERG System]], [[ONE]] is used as a [[Word Tool]] to point to the same [[Ultimate Reality]] that we point to with English Word Tools such as [[God]], [[Source]], [[Absolute]], [[Creator]], etc. 
 
-It refers to the One [[Ultimate Reality]] from, through, and to which [[All]] other things arise and return. 
+It non-religiously, non-dogmatically, and non-idolatrously refers to the One [[Ultimate Reality]] from, through, and to which [[All]] other things arise and return. 
 
 Rather than adopt any existing religion or concretization of the [[Absolute]], the [[LIONSBERG System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of all human ideology and idolatry, and so that people from many different perspectives and systems of belief can relate to it and wrestle with it for eternity. 
 

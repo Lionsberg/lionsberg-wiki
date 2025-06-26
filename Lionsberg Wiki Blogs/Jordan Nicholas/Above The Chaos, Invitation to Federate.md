@@ -76,7 +76,7 @@ At a high level they are something like:
 4. We Steward The Commons for the Good of All Current and Future Generations of Life   
 5. We All have an equal citizenship / stake / share in Lionsberg  
 6. We aggregate and coordinate [[The First Tenth]] of our available Flow of Time, Energy, Attention, and Resources to Continuously Improve The Commons  
-7. We [[Federate  Everything]]   
+7. We [[Federate Everything]]   
 8. We Co-Create via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams / Groups / Communities / Localities    
 9. We Stack Up and Align our efforts as a Team of Teams / Group of Groups to produce Throughput of [[The Goal]]   
 10. We Rightly Relate to One Another on the basis of reciprocity and ongoing mutual consent   
