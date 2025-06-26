@@ -110,4 +110,4 @@ If you would ever like to discuss Faith or explore together how we can [[Help On
 
 With Love, In Community, 
 
-~ J 
+~ J  

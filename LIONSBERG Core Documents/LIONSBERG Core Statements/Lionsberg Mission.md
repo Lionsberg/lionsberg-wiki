@@ -8,3 +8,5 @@ As Earth enters the **[[New Era]]**, **LIONSBERG** seeks to guide and empower
 3. Co-Create **[[Heaven on Earth]]**.
 
 The next milestone on this sacred mission and [[Critical Path]] is to connect and empower **[[The First Three Percent]]** by 2026.
+____
+An entry in [[LIONSBERG Core Statements]]  

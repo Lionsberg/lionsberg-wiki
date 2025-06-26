@@ -56,7 +56,7 @@ A comprehensive system of systems, community of community etc.
 
 ## 4. InterExistence
 
-[[The LIONSBERG Declaration of InterDependence]]  
+[[LIONSBERG Declaration of InterDependence]]  
 
 ## 5. Spirit 
 

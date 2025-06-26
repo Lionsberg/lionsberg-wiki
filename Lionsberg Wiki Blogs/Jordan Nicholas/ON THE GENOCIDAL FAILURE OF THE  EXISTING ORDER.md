@@ -348,7 +348,7 @@ Or do you think that things are fine as they are, and that your children and Lov
 
 The crimes of empire in 1776 pale in comparison to what is being inflicted upon the Citizens of Earth today.  The crimes of religion in 1517 pale in comparison to the spiritual abuse and deceit inflicted upon the Parishioners of Earth today. 
 
-[[The LIONSBERG Declaration of InterDependence]] enumerates them anew for today, but the central animating spirit of The Dark Empires always result in the same fruit. 
+[[LIONSBERG Declaration of InterDependence]] enumerates them anew for today, but the central animating spirit of The Dark Empires always result in the same fruit. 
 
 The crimes of the American Empire are one with the crimes of the Chinese Empire. These are one with the crimes of English and unholy Roman Empire. These are one with the crimes of the Sumerian, Babylonian and African Empires. These are one with the crimes of The Dark Empires perpetrated upon countless star systems and planets. 
 
