@@ -1,8 +1,8 @@
 # Lionsberg Summary 
 
-One Sentence: 
+[[One Sentence]]: 
 
-*What if... a global community arose and united as [[One Body]] to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]?*  
+*What if... a global community arose and united as [[One Body]] to confront and overcome the [[Meta Crisis]], forge the [[New Civilization]], and co-create [[Heaven On Earth]]?*  
 
 [[LIONSBERG]] provides an overview. 
 
@@ -17,6 +17,8 @@ The [[The Lionsberg System of Values]] articulates the Spirit and Values that gu
 [[The Lionsberg Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
 
 [[Lionsberg Structure]] charts the evolving legal and governance framework.   
+
+[[LIONSBERG Core Statements]] clarifies intention, vision, mission, values, etc. 
 
 The [[Lionsberg Resource Runway]] provides a basic look at the resources required to catalyze and sustain [[The Movement]].  
 
@@ -34,4 +36,5 @@ The [[Lionsberg Lexicon]] is a starting point for redeveloping a shared language
 
 [[Lionsberg Metaphors]] 
 
+___
 [[The Summary]] links here. 

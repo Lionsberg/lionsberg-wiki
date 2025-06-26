@@ -4,7 +4,7 @@ All Provisional Documents are a [[Work In Progress]]  designed to be continually
 
 [[Lionsberg Manifesto]]  
 [[LIONSBERG - History, Inception, and Trust Manifesto]]    
-[[Provisional Declaration]]   
+[[LIONSBERG Declaration of InterDependence]]  
 [[The Lionsberg System of Values]]  
 [[Provisional Code]]  
 [[Provisional Structure]]   

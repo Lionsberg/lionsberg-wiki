@@ -1,4 +1,10 @@
 # Provisional Declaration
+
+This document was superseded by: 
+1. [[Lionsberg Manifesto]]  
+2. [[LIONSBERG Declaration of InterDependence]]  
+
+
 This is a living document that is a [[Work In Progress]]. 
 
 It is updated in the [[Lionsberg Manifesto]]. 

@@ -24,6 +24,7 @@ Lionsberg is like...
 ...a Sacred Tree emerging from [[The Golden Seed]].  
 [[The Sacred Tree]]  
 
-____
-
 See also [[The Lionsberg Book of Metaphors]]  
+
+____
+An entry in [[LIONSBERG Core Statements]]  
