@@ -12,7 +12,7 @@ Soon—very soon—**We The People of Earth** must rise together, take the helm
 
 Over the last 7 years, we have sacrificed everything—lives, livelihood, resources, companies, relationships, homes, belongings—to forge a new starting point for this emergence. The journey has been incredibly challenging and painful, yet we remain unwavering in our faith, hope, and resolve.
 
-Now, before **July 1st**, I am reaching out personally to discern who is willing and called to step forward—either as **supporters** or **collaborators**—to advance this sacred mission in the face of seemingly insurmountable obstacles.
+Now, before **July 1st**, I am reaching out personally to discern who is willing and called to step forward—either as **supporters**, **collaborators**, or **members**—to advance this sacred mission in the face of seemingly insurmountable obstacles.
 
 If you value us personally, this mission, and the vulnerable young leaders we strive to love, educate, house, feed, clothe, and empower as we reach out towards **The First Three Percent** of humanity…
 
