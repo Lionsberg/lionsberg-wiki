@@ -10,7 +10,7 @@ Clearly, things aboard Worksite Earth are not going well.
 
 Soon—very soon—**We The People of Earth** must rise together, take the helm, and steer humanity away from the impending systemic collapse. Our current best understanding indicates we may have only 6 to 24 months to meaningfully self-organize before accelerating collapse fragments society into chaos, tyranny, and kontrolle.  
 
-Over the last 7 years, we have sacrificed everything—lives, livelihood, resources, companies, homes, belongings—to forge a new starting point for this emergence. The journey has been incredibly challenging and painful, yet we remain unwavering in our faith, hope, and resolve.
+Over the last 7 years, we have sacrificed everything—lives, livelihood, resources, companies, relationships, homes, belongings—to forge a new starting point for this emergence. The journey has been incredibly challenging and painful, yet we remain unwavering in our faith, hope, and resolve.
 
 Now, before **July 1st**, I am reaching out personally to discern who is willing and called to step forward—either as **supporters** or **collaborators**—to advance this sacred mission in the face of seemingly insurmountable obstacles.
 
@@ -39,3 +39,12 @@ We will personally reach out to all who respond with clear next steps and pathwa
 In Unwavering Faith, Hope, and Love, 
 
 ~ J  
+
+____
+
+**LIONSBERG** is a sovereign private association.  
+**Lionsberg Inc.** is a registered 501(c)(3) dedicated to designing and  
+building the Best Possible Future For All.  
+**[[The Founder's Fund]]** is an independent fund fiscally hosted by Lionsberg Inc. 
+
+___
