@@ -1,6 +1,8 @@
 # LIONSBERG Provisional Documents
 
-- [[Provisional Declaration]]  
 - [[Provisional Conditions]]  
+- [[Provisional Declaration]]  
+- [[Provisional Structure]]  
 - [[Provisional Code]]  
 - [[Provisional Ontology]]  
+- [[Provisional Trust Manifesto]]  

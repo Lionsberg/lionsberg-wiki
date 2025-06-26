@@ -10,18 +10,15 @@ Having exposed [[The Greatest Fraud, Deception, and Existential Threat in Histor
 
 Our structure for 2025 onward is rooted in the rapid transcendence of the [[Existing Order]]. 
 
-[[The Lionsberg Alliance]] is a voluntary spiritual association of individuals, teams, and communities co-operating towards [[The Goal]]. 
+LIONSBERG is an unincorporated voluntary spiritual association of individuals, teams, and communities co-operating towards [[The Goal]]. 
 
-This [[Association of Associations]] is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
+This Association of Associations is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
 
 While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]]. 
 ____
 ## 2024 and Before 
 
-While rooting itself in transcendence, the **provisional structure** for [[The 7 Year Window of Preparatory Work and Learning]] sought to comply with the [[Existing Order]]. 
-
-From 2025 on - We are closing down the legal infrastructure and seeking to rapidly transcend the [[Existing Order]] entirely. 
-___
+While rooting itself in transcendence, the **provisional structure** for [[The 7 Year Window of Preparatory Work and Learning]] did its best to comply with the [[Existing Order]]. 
 
 30 minute introductory discussion of the logic for the formational 2017 to 2024 period:
 
