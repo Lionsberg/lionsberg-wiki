@@ -7,7 +7,7 @@ ____
 
 Each Individual, Group, and Community must honor and uphold the highest overarching and uniting Constitution. See [[Provisional Declaration]] and [[Provisional Constitution]]. 
 
-The [[Lionsberg Constitution]] should be incorporated by reference into each individual, group, and community constitution. 
+[[The LIONSBERG Constitution]] should be incorporated by reference into each individual, group, and community constitution. 
 
 ## Durability 
 

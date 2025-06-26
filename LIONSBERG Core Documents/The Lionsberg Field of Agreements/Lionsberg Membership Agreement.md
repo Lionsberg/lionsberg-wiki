@@ -6,4 +6,4 @@ N/A Not Currently In Use
 
 ## Previous Versions
 
-[[Lionsberg Membership Agreement (v.0.1)]]  
+Deleted

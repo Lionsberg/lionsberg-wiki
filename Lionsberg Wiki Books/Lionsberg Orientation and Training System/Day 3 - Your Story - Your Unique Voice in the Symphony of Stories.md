@@ -97,7 +97,7 @@ As always, Lionsberg is about taking action together and pragmatically Progressi
 
 ## Administration
 
-Please remember to uphold the [[Lionsberg Participation Agreement (v0.1)]] and [[Lionsberg Code of Conduct]] in all your actions and interactions within the community. If you haven't already, please review and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
+Please remember to uphold the [[Lionsberg Participation Agreement]] and [[Lionsberg Code of Conduct]] in all your actions and interactions within the community. If you haven't already, please review and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
 
 ## Closing
 

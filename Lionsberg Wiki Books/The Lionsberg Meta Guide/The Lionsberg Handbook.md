@@ -106,7 +106,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 #### Federal Governance 
 
 [[Constitution]]  
-[[Lionsberg Constitution]]  
+[[The LIONSBERG Constitution]]  
 
 [[Structure]]  
 [[Lionsberg Structure]]  
@@ -531,7 +531,7 @@ We will progressively implement the [[Lionsberg Integrated Delivery System]] to 
 The Lionsberg Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
 
 
-[[Lionsberg Constitution]] 
+[[The LIONSBERG Constitution]] 
 
 
 

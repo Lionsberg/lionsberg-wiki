@@ -60,9 +60,9 @@ Remember, don't wait for permission or for someone else to invite you or take th
 
 ## Administration 
 
-If you have not already, please review the [[Lionsberg Participation Agreement (v0.1)]], and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6). The agreement is required for all Participants. 
+If you have not already, please review the [[Lionsberg Participation Agreement]], and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6). The agreement is required for all Participants. 
 
-At the end of the 12 week training, you will be invited to sign the [[Lionsberg Membership Agreement (v.0.1)]]. Feel free to preview it, so we can address any questions upfront. 
+At the end of the 12 week training, you will be invited to sign the [[Lionsberg Membership Agreement]]. Feel free to preview it, so we can address any questions upfront. 
 
 ## Closing
 

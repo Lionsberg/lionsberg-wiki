@@ -130,7 +130,7 @@ This page is a [[Work In Progress]].
 1. [[Values]] / [[Anti-Values]] 
 2. [[The Lionsberg System of Values]]  
 3. [[Acceptance]]  
-4. [[Accountability]] / [[Accountability Committee]] / [[Functional Accountability]] 
+4. [[Accountability]] / [[Functional Accountability]] 
 ## Vision / Aim / Goal 
 
 5. [[Vision]] / [[Envision]] / [[Total Nested Hierarchy Of Visions]]   
@@ -189,7 +189,7 @@ This page is a [[Work In Progress]].
 36. The [[New Covenant]]  
 37. [[Citizens]] / [[Citizen Led]] / [[Citizenship]] / [[New Citizenship]] / [[Highest Citizenship]] / [[One Citizenship Under God]]  
 38. Shared [[Vision]] and [[Values]]  
-39. The [[Lionsberg Constitution]]  
+39. [[The LIONSBERG Constitution]]  
 40. [[Sovereignty]] / [[Autonomy]]  
 41. [[Subsidiarity]]  
 42. [[Self Governance]]  

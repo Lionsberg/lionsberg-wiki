@@ -10,7 +10,7 @@ All Provisional Documents are a [[Work In Progress]]  designed to be continually
 [[Provisional Structure]]   
 [[Lionsberg Introduction]]   
 [[Lionsberg Invitation]]   
-[[Lionsberg Constitution]]  
+[[The LIONSBERG Constitution]]  
 [[The Book of Lionsberg]]  
 
 As a next step, explore the [[Lionsberg Wiki Books]] for more information. 

@@ -1,4 +1,4 @@
-# The Lionsberg Constitution  
+# The LIONSBERG Constitution  
 *A New Covenant for the New Civilization on Earth and Beyond*
 
 **PREAMBLE**

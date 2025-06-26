@@ -101,7 +101,7 @@ For those with an entrepreneurial drive, remember that the Pioneer cohort is ric
 
 ## Administration
 
-As we delve deeper into our transformative journey, it's important to ensure we are all on the same page, with adequate clarity, structure, and values to protect our progress. Familiarize yourself with the [[Lionsberg Participation Agreement (v0.1)]] and the [[Lionsberg Code of Conduct]]. Adhere to these guidelines in all your interactions within the community.
+As we delve deeper into our transformative journey, it's important to ensure we are all on the same page, with adequate clarity, structure, and values to protect our progress. Familiarize yourself with the [[Lionsberg Participation Agreement]] and the [[Lionsberg Code of Conduct]]. Adhere to these guidelines in all your interactions within the community.
 
 As previously noted, [[The Gate]] will close behind the Pioneer Cohort after Day 7. If you haven't signed the Participation Agreement yet, make sure to do so using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
 

@@ -9,6 +9,7 @@
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 ## June 2025 - Let The Summer Games Begin
 
+
 - [[Invitation to Collaborate or Support (Summer 2025)]]  
 - [[Quiet, Painful Questions]]  
 - [[Something Is Wrong. It Is Time To Rise and Stand Together.]]  
@@ -16,6 +17,7 @@
 - [[Summer Quests Begin in Africa and Around the World]]  
 - [[Reflection and Invitation - Summer 2025]]  
 - [[Summer Quests - A Simple Way to Get Moving Together]]  
+- [[The LIONSBERG Field of Agreements (Summer 2025)]]  
 - [[Ideas On Water]]  
 - [[The War Is Now In Full Swing]]  
 - [[Why We Build Futures That No One Wants]]  

@@ -2,5 +2,5 @@
 
 - [[Lionsberg Manifesto]]  
 - [[Lionsberg Wiki Books]]  
-- [[Lionsberg Constitution]]  
+- [[The LIONSBERG Constitution]]  
 - [[Above The Chaos]]  

@@ -26,7 +26,7 @@ After successfully completing the 12-week Orientation and Training program, we e
 
 Please respond to this invitation via the [Lionsberg Second Wave Response Form](https://docs.google.com/forms/d/e/1FAIpQLSccZdKzafpcOSgtC2fCUzQI3WhhTdibTJYDaRPBd-zGpUFDHw/viewform?usp=sf_link) no later than Wednesday June 21st. If this opportunity does not resonate with you at this moment, we respectfully ask that you let us know so that we can extend the invitation to another potential member.
 
-Feel free to review the [[Lionsberg Participation Agreement (v0.2)]] to further understand the expectations, rights, and responsibilities that accompany membership in Lionsberg. 
+Feel free to review the [[Lionsberg Participation Agreement]] to further understand the expectations, rights, and responsibilities that accompany membership in Lionsberg. 
 
 With Love and Respect, 
 

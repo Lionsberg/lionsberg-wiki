@@ -70,7 +70,7 @@ There is no need to wait for instruction or permission. If you are passionate ab
 
 ## Administration
 
-We want to remind you that signing the [[Lionsberg Participation Agreement (v0.1)]] is required for all Participants. If you haven't already, please review and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
+We want to remind you that signing the [[Lionsberg Participation Agreement]] is required for all Participants. If you haven't already, please review and digitally sign it using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
 
 ## Closing
 
