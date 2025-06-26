@@ -462,7 +462,7 @@ Lionsberg will continuously improve a [[Commons]] of shared infrastructure resou
 
 ## Reciprocal Contributions 
 
-The current [[Hypothesis]] is that we should voluntarily allocate ~10% of the [[Flow]] of  time, energy, and resources to co-operate at the federal level. These [[Reciprocal Monthly Contribution]]s will initially be stewarded and allocated by the US 501(c)(3) to operate the [[Core Enterprise]] and continuously improve the commons of shared infrastructure, resources, and support. 
+The current [[Hypothesis]] is that we should voluntarily allocate ~10% of the [[Flow]] of  time, energy, and resources to co-operate at the federal level. These [[Meaningful Monthly Contribution]]s will initially be stewarded and allocated by the US 501(c)(3) to operate the [[Core Enterprise]] and continuously improve the commons of shared infrastructure, resources, and support. 
 
 ## Universal Wisdom, Principles, and Values 
 

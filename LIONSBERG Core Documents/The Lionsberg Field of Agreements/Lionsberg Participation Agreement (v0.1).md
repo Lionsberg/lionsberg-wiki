@@ -70,7 +70,7 @@ Participation in the Lionsberg Community is a privilege and not a right. All rel
 
 ## **Reciprocity**
 
-Participants are invited to a make a [[Reciprocal Monthly Contribution]] that reflects the value they receive from participating. All reciprocity occurs voluntarily within the context of the [[Lionsberg Honor System]]. 
+Participants are invited to a make a [[Meaningful Monthly Contribution]] that reflects the value they receive from participating. All reciprocity occurs voluntarily within the context of the [[Lionsberg Honor System]]. 
 
 Participants have the responsibility to proactively and generously help one another create and maintain balance, flow, and reciprocity across all relationships within the System. 
 

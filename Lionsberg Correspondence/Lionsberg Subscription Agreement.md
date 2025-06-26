@@ -17,7 +17,7 @@ b) Actively contribute to the [[Progressive Realization]] of the [[Vision]], [[G
 c) Engage in continuous learning, adaptation, and growth and help others do the same in line with the principles of [[Trust]], Continuous Learning and Improvement, and Covenant Relationship
 d) Prioritize the well-being of [[Future Generations]]  
 e) Participate in the Lionsberg System in a respectful and cooperative manner, fostering a sense of community, belonging, and mutual service and support 
-f) Voluntarily and honestly give back a [[Reciprocal Monthly Contribution]], which is at least 1/10th of the Participant's time, attention, and the value received from the Lionsberg System and Community, to ensure its ongoing regenerativity and effectiveness.
+f) Voluntarily and honestly give back a [[Meaningful Monthly Contribution]], which is at least 1/10th of the Participant's time, attention, and the value received from the Lionsberg System and Community, to ensure its ongoing regenerativity and effectiveness.
 
 3.  RIGHTS AND RESPONSIBILITIES
 

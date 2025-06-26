@@ -6,9 +6,9 @@
 [[Lionsberg Core Documents]]   
 [[LIONSBERG - History, Inception, and Trust Manifesto]]  
 [[The Lionsberg System of Values]]   
-[[Provisional Conditions]]  
-[[Provisional Code]]  
 [[Provisional Community Agreements]]  
+[[Provisional Code]]  
+[[Provisional Conditions]]  
 [[LIONSBERG Provisional Documents]]  
 [[Lionsberg Constitution]]  
 
@@ -17,5 +17,6 @@ ____
 
 [[Lionsberg Participation Agreement]]  
 [[Lionsberg Membership Agreement]]   
+[[Lionsberg Subscription Agreement]]  
 
 

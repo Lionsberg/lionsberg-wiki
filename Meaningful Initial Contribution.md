@@ -14,6 +14,6 @@ By making a Meaningful Initial Contribution, new members can build trust, earn r
 
 In the context of the [[LIONSBERG System]] and [[The Great Game of Lionsberg]], each new Participant is invited to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
 
-The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Reciprocal Monthly Contribution]]. 
+The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Meaningful Monthly Contribution]]. 
 
 The idea of voluntary Meaningful Contribution is illuminated by a Story called [[The Widow's Mite]].

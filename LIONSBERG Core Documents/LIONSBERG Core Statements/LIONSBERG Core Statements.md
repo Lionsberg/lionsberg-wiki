@@ -1,5 +1,6 @@
 # LIONSBERG Core Statements
 
+[[LIONSBERG Context]]  
 [[Lionsberg Intention]]  
 [[Lionsberg Spirit]]  
 [[Lionsberg Mission]]  
