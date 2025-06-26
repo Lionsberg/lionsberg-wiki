@@ -1,4 +1,5 @@
 # Provisional Structure 
+*Updated June 26, 2025*
 
 For more information on the inception of the Lionsberg / Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
