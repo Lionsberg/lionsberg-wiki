@@ -8,7 +8,7 @@ I write to you today from Nairobi, where yesterday 16 young leaders were killed 
 
 Clearly, things aboard Worksite Earth are not going well.
 
-Soon—very soon—**We The People of Earth** must rise together, take the helm, and steer humanity away from impending ruin. My current best understanding indicates we may have only 6 to 24 months to meaningfully self-organize before accelerating collapse fragments society into chaos, tyranny, and kontrolle.  
+Soon—very soon—**We The People of Earth** must rise together, take the helm, and steer humanity away from the impending systemic collapse. My current best understanding indicates we may have only 6 to 24 months to meaningfully self-organize before accelerating collapse fragments society into chaos, tyranny, and kontrolle.  
 
 Over the last 7 years, we have sacrificed everything—lives, livelihood, resources, companies, homes, belongings—to forge a new starting point for this emergence. The journey has been incredibly challenging and painful, yet we remain unwavering in our faith, hope, and resolve.
 
@@ -33,6 +33,7 @@ We will personally reach out to all who respond with clear next steps and pathwa
 - [[Reflection and Invitation - Summer 2025]]  
 - [[Tens of Trillions of Dollars of Fraud Funding a Rogue Breakaway Civilization?]]  
 - [[Is The Covert Establishment of ET Governance Protocols For The Next 10,000 Years Enough?]]  
+- [[Summer Quests - A Simple Way to Get Moving Together]]  
 
 In Unwavering Faith, Hope, and Love, 
 
