@@ -9,6 +9,7 @@
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 ## June 2025 - Let The Summer Games Begin
 
+- [[Invitation to Collaborate or Support (Summer 2025)]]  
 - [[Quiet, Painful Questions]]  
 - [[Something Is Wrong. It Is Time To Rise and Stand Together.]]  
 - [[Everything Is Prepared and Time is Short—Will You Rise and Stand With Us?]]  
