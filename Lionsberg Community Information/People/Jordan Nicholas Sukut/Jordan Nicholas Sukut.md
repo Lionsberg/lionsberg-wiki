@@ -25,7 +25,7 @@ I am a co-creator. I am passionate about bringing Intention Into Reality.
 
 Before founding Lionsberg, I practiced that by building projects, portfolios of projects, organizations that built projects, and portfolios of non-profit and for-profit organizations. 
 
-After having my naïveté shattered by confronting the corruption and injustice of the [[Old World]] and sacrificing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build the Best Possible Future for All. 
+After having my naïveté shattered by confronting the corruption and injustice of the [[Old World]] and sacrificing my [[Old Life]] in the process, it was clear that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build the Best Possible Future for All. 
 
 This is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
 
