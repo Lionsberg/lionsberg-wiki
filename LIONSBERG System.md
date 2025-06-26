@@ -143,7 +143,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 -   A system for healthcare and wellness.
 
 [[LIONSBERG System]] - System Intent  
-[[Provisional Trust Manifesto]] - History & Inception  
+[[LIONSBERG - History, Inception, and Trust Manifesto]] 
 [[Provisional Declaration]] - Vision & Intention 
 [[Universal Values]] - Overarching & Uniting Values 
 [[Lionsberg Community]] - Community 

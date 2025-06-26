@@ -6,6 +6,7 @@
 [[Lionsberg Core Documents]]   
 [[LIONSBERG - History, Inception, and Trust Manifesto]]    
 [[The Lionsberg System of Values]]   
+[[Provisional Conditions]]  
 [[Provisional Code]]  
 
 [[Lionsberg Constitution]]  

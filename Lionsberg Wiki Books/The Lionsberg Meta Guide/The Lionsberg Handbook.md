@@ -1,8 +1,8 @@
 # The Lionsberg Handbook
 
-This is a [[Work In Progress]] that Aims to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
+The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
 
-*The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.*
+***The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.***
 
 ## Welcome 
 

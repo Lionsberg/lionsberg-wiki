@@ -43,9 +43,7 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 - [Lionsberg Wiki](https://www.Lionsberg.wiki) - Portal to hundreds pages of supporting content, details, and concepts  
 
 ## Clear Legal and Governance Structure 
-We have instantiated an innovative hybrid legal and governance structure capable of dealing with non-profit, for-profit, public, and political resource flows. 
-
-The core ideas, platform, and technology are stewarded by the Lionsberg 501(c)(3) non-profit. 
+We have instantiated an innovative hybrid legal and governance structure capable of dealing with holofractal cosmic scales, non-profit, for-profit, public, and political resource flows. 
 
 - [[Provisional Structure]]  
 - [[The Lionsberg Handbook]]  
@@ -55,14 +53,14 @@ The core ideas, platform, and technology are stewarded by the Lionsberg 501(c)(3
 - Lionsberg | [[Meta Game]] 
 - Lionsberg | [[Elevation Initiative]] 
 - Lionsberg | [[Meta Community]]  
-- Lionsberg | Political Action 
-
+- 
 ## Clear System and Methodology 
-The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Community]], and [[Doing]] in an effective way through the [[Lionsberg Integrated Delivery System]]. 
+The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Community]], and [[Doing]] in an effective way through the [[LIONSBERG System]]  
 
+- [[LIONSBERG System]]  
 - [[Lionsberg Integrated Delivery System]]  
 - [[Lionsberg Integrated Delivery Guide]]  
-- [[LIONSBERG System]] 
+
 
 ## Videos 
 - 2 Minute - Coming Soon 
@@ -72,41 +70,10 @@ The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Com
 
 ## Clear Phases, Milestones, and Work Breakdown Structure 
 
-### Community
-- Milestone: Activate progressive onboarding work flow on the platform 
 - Milestone: Define "commitment" and agreements 
 - Milestone: Connect 100 enlightened individuals to the platform and one another. 
 - Milestone: Connect 1,000 enlightened individuals to the platform and one another.
 - Milestone: Connect 10,000 enlightened individuals to the platform and one another. 
-
-### Elevation Initiative
-- Milestone: Curate and instantiate onto the platform a lifelong program of **human development** and alignment (Continuously improving prototype that learns from each instantiation).
-- Milestone: Curate and instantiate onto the platform a lifelong program of **organizational development** and alignment (Continuously improving prototype that learns from each instantiation).  
-- Milestone: Curate and instantiate onto the platform a lifelong program of **community development** and alignment (Continuously improving prototype that learns from each instantiation).  
-- (Tech platform is developed and tested, content in curation). 
-
-### Resourcing 
-- Milestone: Resource a **core team** of 6 to 12 people full time supporting dozens of volunteers in small teams, supporting a rapidly self-expanding community.  
-	- ~ $5M for 24 months runway - Philanthropically funded (best solution), or unsecured debt. 
-- Milestone: Resource the shared infrastructure, technology, and services roadmap
-	- ~ $5M for 24 months runway - Philanthropically funded (best solution), or unsecured debt. 
-- Milestone: Growing monthly allocation of coordinated **philanthropic capital(s)** to highest leverage leaders and solutions (Fund of Funds)  
-	- Aggregate via LOIs, release monthly / quarterly based on measurable progress 
-- Milestone: Growing monthly allocation of coordinated **investment capital(s)** to highest leverage leaders and solutions (Fund of Funds)  
-	- Aggregate via LOIs, release monthly / quarterly based on measurable progress  
-- Milestone: Growing monthly allocation of coordinated **political capital(s)** to highest leverage leaders and solutions (Fund of Funds)
-
-### Meta Project 
-- Milestone: Establish marketplace and funding flows between 10+ high leverage leaders / solutions, and 10+ high capacity funders, operating on an integrated delivery system progressing against [[Total Nested Hierarchy of Goals]]. 
-- Milestone: Establish marketplace and funding flows between 100+ high leverage leaders / solutions, and 100+ high capacity funders, operating on an integrated delivery system progressing against [[Total Nested Hierarchy of Goals]]. 
-
-### Political Action 
-- Milestone: Articulated plan of action for progressively revealing the criminality / corruption / illegitimacy of the existing systems  
-- Milestone: Articulated plan of action for a total set of legislation and executive orders that would liberate and empower individual and local agency and responsibility towards society, environment, and the future of our planet (implementation starting with the United States in 2025)  
-- Milestone: Articulated plan of action for engaging individual agency to identify and elect leaders capable of implementing the plan to restore individual and local agency and responsibility for our shared future  
-
-### Brand and Communications
-- Milestone: Develop a continuously improving system of brand and communications. 
-
+- Milestone: Connect and empower [[The First Three Percent]] by December 2026. 
 
 
