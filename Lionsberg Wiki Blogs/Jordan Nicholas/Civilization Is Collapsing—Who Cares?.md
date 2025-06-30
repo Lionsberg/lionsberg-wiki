@@ -1,4 +1,6 @@
 # Civilization Is Collapsing—Who Cares? 
+A Post in [[Above The Chaos]]  
+*June 28, 2025*
 
 Dear Loved Ones and Allies, 
 
@@ -11,7 +13,7 @@ As uncomfortable as it is to communicate about, humanity is being explicitly tol
 
 1. It is not alone in the universe  
 2. It does not have a functioning system of self-governance  
-3. A fascist, transnational, AI-Driven Kontrolle System is being implemented that will soon control the ability to speak, move, eat, transact, etc.   
+3. A fascist, transnational, AI-Driven Kontrolle System is being implemented that will soon control the ability to communicate, move, eat, transact, etc.   
 4. A large scale depopulation of the human species is underway  
 5. Surviving citizens will be connected to the Kontrolle Grid by 2030  
 6. Military Industrial and Non-Human forces have made agreements and are collaborating side by side on the Earth, Moon, and Mars  
@@ -23,6 +25,8 @@ As uncomfortable as it is to communicate about, humanity is being explicitly tol
 Meanwhile, millions of children are suffering because of lack of water and daily ten cent rations of gruel, and protestors and dissidents are being shot and disappeared in the streets—**_in this city, this week_**.  
 
 While these issues may not be affecting your family or community this week, my understanding is that the vast majority Earths population is set to perish if we do not change course. 
+
+[[The War Is Now In Full Swing]].  
 
 ____
 
