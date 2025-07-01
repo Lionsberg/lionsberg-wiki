@@ -30,7 +30,7 @@
 26. [Ancient Peruvian Textiles and Ceramic.  - Tridactyls](https://x.com/JasonWilde108/status/1935464541355160057)  
 27. [Mexico, Egypt, New Zealand Craft](https://x.com/4biddntruth/status/1935744388048576641) 
 28. [Indiana Jones: The Kingdom of the Crystal Skull' (2008) - Nazca Mummies, Amazon civilizations, NHI, Global Floods, Interdimensional Travel](https://x.com/TheProjectUnity/status/1930045662424367458)  
-29. [Weaponized Mirror Life, Biobots, and B. llions of Evolutionary Changes in an Afternoon](https://x.com/dwarkesh_sp/status/1938271893406310818)  
+29. [Weaponized Mirror Life, Biobots, and Billions of Evolutionary Changes in an Afternoon](https://x.com/dwarkesh_sp/status/1938271893406310818)  
 30. [CRISPR lets us edit DNA like a Word document.](https://x.com/itsalexvacca/status/1931006587822584035)   
 31. [Evolution might incorporate a few base pair changes in a million years. Now we can make billions of changes in an afternoon](https://x.com/vitrupo/status/1938442481395503282)  
 32. [Controversy Erupts As Scientists Start Work To Create Artificial Human DNA](https://x.com/BrianRoemmele/status/1938593129608954289)  
