@@ -7,6 +7,11 @@
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
+
+## July 2025 - The Moment of Truth
+
+- [[July 2025 - A Moment of Truth]]  
+
 ## June 2025 - Let The Summer Games Begin
 
 - [[Civilization Is Collapsing—Who Cares?]]  
