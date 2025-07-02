@@ -10,8 +10,9 @@
 
 ## July 2025 - The Moment of Truth
 
+- [[Restoring the Land of Earth to its Rightful Heirs]]  
+- [[99 Anomalies that Begin to ReWrite the Story of Earth]]  
 - [[July 2025 - A Moment of Truth]]  
-- [[Architectural Anomalies Begin to ReWrite The Story of Earth]]  
 
 ## June 2025 - Let The Summer Games Begin
 
