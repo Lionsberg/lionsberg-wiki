@@ -11,6 +11,7 @@
 ## July 2025 - The Moment of Truth
 
 - [[July 2025 - A Moment of Truth]]  
+- [[Architectural Anomalies Begin to ReWrite The Story of Earth]]  
 
 ## June 2025 - Let The Summer Games Begin
 
