@@ -429,3 +429,10 @@ Let it being with Us.
 
 >_“The Time is Now. We are the Ones We have been waiting for.”_ 
 
+____
+As humanity awakens, arises, and moves, it might be wise to consider: 
+
+- [[The Noah Plan - Building the Network of Arks]]  
+- [[The Joseph Plan - Building the Network of Hubs]]  
+- [[The Solomon Plan - Constructing the Wisdom, Governance & Intelligence Systems for The New World]]  
+- The [[LIONSBERG System]] purpose built to enable This.  
