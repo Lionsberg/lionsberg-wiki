@@ -254,6 +254,8 @@ It is a cosmic, spiritual, and moral revolution.
 
 And it has already begun.
 
+____
+
 ## Effectuating the Divine Ruling
 
 Recognizing the **Fraud in the Inception**, the **Illegitimacy of the Existing Order**, and the **Judgment already rendered in favor of the rightful heirs of Earth** is not merely a political or legal awakening—it is the _beginning of the restoration of the Cosmic Covenant_. It is the unveiling of the **True Law**, the **True Authority**, and the **True Inheritance** of humanity and all life on Earth.
@@ -419,15 +421,15 @@ You are not waiting for laws to change.
 You _are_ the living out the Voice of the Supreme Judge who has already spoken you—and this Divine Reconciliation—into being.  
 And the Earth, in Her fullness, awaits your return.
 
-> _“And I saw a New Heaven and a New Earth, for the former things had passed away…”_ 
->_“Behold, We are making All things New.”_ 
+> _“And I saw a New Heaven and a New Earth, for the former things had passed away…”_  
+>_“Behold, We are making All things New.”_  
 
 Let it begin Now.  
 Let it begin Here.  
 Let it begin in you.  
 Let it being with Us.  
 
->_“The Time is Now. We are the Ones We have been waiting for.”_ 
+>_“The Time is Now. We are the Ones We have been waiting for.”_  
 
 ____
 As humanity awakens, arises, and moves, it might be wise to consider: 

@@ -1,8 +1,55 @@
 # Some Important Things To Attend To
 
+Things are not looking good.  
+Time to arise, unite, and co-create something New.  
+
+## July 2025 
+
+1. [What if the world’s officials and intelligence leaders were openly stating that UFOs and Non-Human Intelligence are real and we still looked away?](https://x.com/_SolFoundation/status/1939363227055300924)  
+2. [Buffet Indicator hits 207% - Dwarfing 2000 and 2006/7 Bubbles](https://x.com/barchart/status/1940550556067811534?s=46&t=6Tqe5bY9704fmywTF-3e6A)  
+3. [The delinquency rate on Commercial Mortgage-Backed Securities (CMBS) for offices jumped to a record 11.1% in June, surpassing the post-2008 high of 10.7%](https://x.com/KobeissiLetter/status/1940454925596528859)  
+4. [US Housing market reaches most unaffordable level in history dwarfing 2006/7 bubble](https://x.com/Barchart/status/1940565812563399028)  
+5. [First Time Homebuyers Falls to Record Low](https://x.com/Barchart/status/1940155698756890957)  
+6. [US Money Supply Hits Record $21.9 Trillion - Up over 4x *since 2000*](https://x.com/KobeissiLetter/status/1940127012733272430)  
+	1. [Live FRED Chart](https://fred.stlouisfed.org/series/M2SL)  
+7. [The US is broke. The real debt is $175T+. There is no fix. It's a writeoff. Bankruptcy. Default via money printing.](https://x.com/balajis/status/1940094433699234181)  
+8. [The Real Tax on the People is what the Government Spends](https://x.com/TheRabbitHole84/status/1939777540828405827)  
+9. [The US Dollar index fell -10.8% in the first half of 2025, its worst first-half performance since the end of the gold-backed Bretton Woods System in 1973.](https://x.com/KobeissiLetter/status/1940142616152027356)  
+10. [Ray Dalio - Absolutist Politics mean politicians agree on consequences of debt crisis, cannot speak up, and will not change trajectory towards financial crash](https://x.com/RayDalio/status/1940507002037240242)  
+11. [Gates: Will we still need humans? "Not for most things... we'll decide."](https://x.com/wideawake_media/status/1940365702663196930?s=46&t=6Tqe5bY9704fmywTF-3e6A)  
+12. [Chinese doctors successfully perform first satellite-powered surgery on patient 5,000 km away.](https://x.com/BRICSinfo/status/1940099708459868315)  
+13. [US plans to breed billions of sterile flies and release them to target the New World screwworm](https://x.com/theinsiderpaper/status/1940479458517176551?s=46&t=6Tqe5bY9704fmywTF-3e6A)  
+14. [Third object from outside solar system detected](https://x.com/MarioNawfal/status/1940619007100703088)  
+15. [RFK Jr. believes Fauci / US / China created Covid](https://x.com/MJTruthUltra/status/1940572772985446793)  
+16. [RFK Jr.: Fauci / US / China Funded Technique Designed to Hide Evidence of Human Tampering with a Virus](https://x.com/MJTruthUltra/status/1940577348052541452)  
+17. [CEO of Oxfam Ireland: In my 20 years... working in conflict zones....we’ve never seen anything like this because occupying power is intentionally starving the population... everyone is starving.](https://x.com/Partisan_12/status/1940382790492811546)  
+18. [The US Government is Funding Aerosolized and Self-Spreading Vaccines to be Sprayed / Spread with Zero Consent](https://x.com/toobaffled/status/1939836486469513669)  
+19. [ElevenLabs CEO: AI will pass the Turing Test for AI speech this year. Early 2026 latest. Soon after, you'll speak any language, in your own voice, tone, and emotion, and be understood. Maybe it comes through Neuralink. Like the Babel Fish in Hitchhiker's Guide.](https://x.com/vitrupo/status/1940026966310314472)  
+20. [Microsoft - The Path to Medical Superintelligence - Microsoft AI Diagnostic Orchestrator (MAI-DxO) correctly diagnoses up to 85% of case proceedings, a rate **more than four times higher than a group of experienced physicians.**](https://x.com/JohnNosta/status/1939820443164451164)  
+21. [Pentagon official admits Department of Defense manual for recovering alien craft and beings from 1940s](https://x.com/richgel999/status/1940507127682158629) 
+22. [Pentagon Whistleblower: “Hal (Puthoff) went on to tell me something else that truly blew my mind. Four deceased nonhuman bodies were in fact recovered from the 1947 Roswell crash.”](https://x.com/planethunter56/status/1940434240686149965)  
+23. [Military Whistleblower David Grusch says that bodies have been recovered in different states and morphologies from crafts.](https://x.com/Neil__Goodman/status/1939653897066357087)  
+24. [Military Whistleblower Testimony to Congress and AARO - Multiple incursions including football field size UFOs over Vandenberg Space Force Base](https://x.com/Ice_Alchemist11/status/1940194541002531017)  
+25. [U.S. Army Sergeant Says 25 Soldiers Witnessed 1,200 Foot Silent Black Triangle Over Baghdad in 2006](https://x.com/UAPWatchers/status/1940017090573848680)  
+26. [Retied AF Captain David Schuur: Nuclear missile put into launch mode as a UFO moved from missile to missile](https://x.com/TheUfoJoe/status/1939814394927747374)  
+27. [NSF Program Director says UFO-derived tech has been improving foundational human technology for decades](https://x.com/AlchemyAmerican/status/1940122012594090428)  
+28. [Earth's magnetic field field weakening - as it does every 6,000 years?](https://x.com/SunWeatherMan/status/1940528271881556270)   
+29. [13,000 Years ago Earth plunged into Chaos - Did some see it coming and prepare?](https://x.com/randallwcarlson/status/1940222343886119279)  
+30. [NASA: In March, NASA's SPHEREx telescope launched into orbit to create an all-sky map of the universe.](https://x.com/NASA/status/1940514822933635512)  
+31. [The Ringmakers of Saturn - NASA scientist Dr Norman Bergrun details alien facility orbiting Saturn](https://x.com/UAPWatchers/status/1940141938277310549)  
+32. [Ross Coulthart: Every Apollo mission was shadowed by UFOs, and astronauts were bound to secrecy.](https://x.com/UAPWatchers/status/1939659513206091880)  
+33. [July 1, 2025: Censorship 'weapon in waiting' unleashed requiring all platforms to throttle what EU bureaucrats deem to be "disinfo".](https://x.com/MikeBenzCyber/status/1940487278230753728)  
+34. [Palantir's Peter Thiel and Anduril founder Palmer Luckey are launching Erebor, a digital bank named after the once thriving realm in Lord of the Rings where the Dragon stole all the money.](https://x.com/CoinDesk/status/1940418689389744352)  
+35. [US Intelligence using drugs and mind kontrolle for decades](https://x.com/UAPDr/status/1939886391040630835)  
+36. [Important Info on the Means, Levels, Trump picks](https://x.com/drnomask/status/1927450160948269119?s=46&t=6Tqe5bY9704fmywTF-3e6A)  
+37. [Corruption: Trump threatens to cut U.S. aid to Israel unless Netanyahu’s corruption trial is halted. Israeli court postponed the trial, citing “diplomatic and security reasons.”](https://x.com/KircanskiIvan/status/1939614325611561014)  
+38. [Massive structures beneath the Giza Plateau that change everything we thought we knew about ancient Egypt.](https://x.com/UAPWatchers/status/1940031394538811866)  
+39. 
+
+
 ## June 2025
 
-1. [Google DeepMind introduces AlphaGenome](https://x.com/GoogleDeepMind/status/1937873589170237738)  
+1. [Google DeepMind intro. uces AlphaGenome](https://x.com/GoogleDeepMind/status/1937873589170237738)  
 2. [AI Doing 30% to 50% of the Work at SalesForce](https://x.com/CNBC/status/1938234423465398589)  
 3. [Wikipedia Co-Founder - Wikipedia one of the most effective organs of Establishment propaganda in history](https://x.com/lsanger/status/1937958369933009227)  
 4. [U.S. Space Force Major General John Olson - There is definitely life out there](https://x.com/matthew_pines/status/1938673781565796619)  
