@@ -11,6 +11,7 @@
 ## July 2025 - The Moment of Truth
 
 - [[Restoring the Land of Earth to its Rightful Heirs]]  
+- [[Some Important Things To Attend To]]  
 - [[99 Anomalies that Begin to ReWrite the Story of Earth]]  
 - [[July 2025 - A Moment of Truth]]  
 

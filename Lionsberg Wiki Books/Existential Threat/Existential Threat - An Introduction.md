@@ -26,7 +26,7 @@ According to numerous government officials and witnesses our governments have su
 
 On his Journey Jordan discovered that for decades government officials have been talking about **a "return of the gods" around 2027**, a time frame which they anticipated would also precipitate a series of events they expected to **reduce the human population by 7/8ths, down into the hundreds of millions**.  
 
-Chapter [[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations, From the Lips of the Authorities Themselves]] contains hundreds of testimonies, which collectively point to thousands more. The evidence, official witnesses, presence of alien bodies, beings, and craft, and face to face contact with multiple advanced non-human intelligences cannot be ignored. 
+Chapter [[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations—From the Lips of the Authorities Themselves]] contains hundreds of testimonies, which collectively point to thousands more. The evidence, official witnesses, presence of alien bodies, beings, and craft, and face to face contact with multiple advanced non-human intelligences cannot be ignored. 
 
 They are real. 
 They are here. 

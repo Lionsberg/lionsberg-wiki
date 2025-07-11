@@ -95,7 +95,7 @@ The communications systems and freedoms humanity enjoys today may be unavailable
 [[9. The Insatiable Thirst For Blood, Fear, and Full Spectrum Dominance]]  
 [[10. Extraterrestrial Intervention and Forced Disclosure]]  
 [[11. The Prosaic Reality of Extraterrestrial and Ultradimensional Life and Consciousness On And Beyond Earth]]  
-[[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations, From the Lips of the Authorities Themselves]]  
+[[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations—From the Lips of the Authorities Themselves]]  
 [[13. How Jordan Came To Know This Information]]  
 [[14. What Jordan Learned As He Suffered And Died]]  
 [[15. Not Merely Human]]  
