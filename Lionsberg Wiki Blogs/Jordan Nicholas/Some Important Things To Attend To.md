@@ -1,4 +1,4 @@
-# Some Important Things To Attend To
+# Some Important Things To Attend To  
 A Thread in [[Above The Chaos]]  
 *Initiated July 2025. Updated July 11, 2025*  
 
