@@ -1,4 +1,4 @@
-# Some Important Things To Attend To  
+# Some Important Things To Attend To
 A Thread in [[Above The Chaos]]  
 *Initiated July 2025. Updated July 11, 2025*  
 
@@ -25,9 +25,9 @@ These non-exhaustively include:
 15. Collapsing Religious / Political / Historical Narratives  
 16. In Summary - The Greatest Fraud, Deception, and Existential Threat in history - playing out NOW!  
 
-My [[Current Best Understanding]] is that We have until December 2026 to unite and empower [[The First Three Percent]] of the population into some kind of [[Higher Order Functional Unity]] actually capable of prevailing in this existential war for the future of life and civilization on Earth. 
+My [[Current Best Understanding]] is that We have until December 2026 to unite and empower [[The First Three Percent]] of the population into some kind of [[Higher Order Functional Unity]] actually capable of prevailing in this existential war for the future of life and civilization on Earth.  
 
-[[LIONSBERG]] was purpose-built to enable this. [[The Window]] to activate it is rapidly closing.   
+[[LIONSBERG]] was purpose-built to enable this. [[The Window]] to activate it is rapidly closing.  
   
 ## July 2025  
 
