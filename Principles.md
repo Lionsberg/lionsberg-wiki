@@ -66,7 +66,7 @@ _Love [[ONE]], [[One Another]], and [[All]]._
 2. Love [[One Another]]  
 3. Love [[All]]  
 4. Love [[(y)Our]] [[Self]]   
-5. [[Help]], and [[Do Not Harm]]  
+5. [[Help]], and [[Do No Harm]]  
 6. Be [[Wise]], [[Right]], [[True]], and [[Good]]  
 7. Co-Create [[Heaven]] in every [[Domain]] you influence or inhabit  
 8. Honor the Divine Origin, InterExistence, and End of Every Being  

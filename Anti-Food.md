@@ -14,7 +14,7 @@ Anti-Food is contrasted with [[Food]], its [[Positive]] counterpart.
 
 **Applications in the Lionsberg System:**
 
-- **Holistic Health and Wellness**: Identifying and addressing 'Anti-Food' in all aspects of life for better health and well-being. First [[Do Not Harm]]. 
+- **Holistic Health and Wellness**: Identifying and addressing 'Anti-Food' in all aspects of life for better health and well-being. First [[Do No Harm]]. 
 - **Awareness Campaigns**: Educating on the diverse impacts of Food and Anti-Food and methods to counteract them.
 - **Cultural and Systemic Improvements**: Instantiating changes that reduce the presence of and incentives towards 'Anti-Food' in society.
 

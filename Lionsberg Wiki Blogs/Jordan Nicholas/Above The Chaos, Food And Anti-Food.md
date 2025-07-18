@@ -17,7 +17,7 @@ One of the goals of the [[LIONSBERG System]] is to articulate and reinstantiate 
 This requires sorting out each [[Levels of Abstraction|Level of Abstraction]], from [[Ultimate Reality]], down through the theological, philosophical, theoretical, and into the most basic details and realities of existence, such as [[Food]] and [[Drink]]. 
 ___
 
-When it comes to the most basic co-operation of our Embodiment, one of the first rules is [[Do Not Harm]]. 
+When it comes to the most basic co-operation of our Embodiment, one of the first rules is [[Do No Harm]]. 
 
 In a sea of virtually infinite inputs, there are many potential pathways towards [[Progressive Realization]] of [[Potential]]. Therefore on the side of the [[Positive]], the theory is something like [[Continuous Learning And Improvement]], with the [[Aim]] being to Become [[A Little Better Every Day]]. There are many potential pathways up the Sacred Mountain. 
 
