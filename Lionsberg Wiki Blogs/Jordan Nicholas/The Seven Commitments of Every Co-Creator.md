@@ -1,6 +1,6 @@
 # The Seven Commitments of Every Co-Creator
 
-By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]]:
+By joining [[LIONSBERG]], you affirm your willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]]:
 
 ---
 
@@ -14,13 +14,13 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 
 ---
 
-3. **Form [[Groups]] and [[Teams]], Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
-    Forge autonomous teams, participate in aligned 90-day [[Seasonal Quests]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
+3. **Form [[Circles]], Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
+    Forge autonomous Circles, participate in aligned [[Seasonal Quests]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
 
 ---
 
 4. **Contribute [[The First Tenth]] to [[The Commons]]:**  
-    Help One Another by dedicating the first tenth of your time and resources to strenghten [[The Commons]] (4-5 hours weekly, and a meaningful monthly resource contribution), empowering mutual aid, shared services, and collective flourishing. 
+    Dedicate the first tenth of your time and resources to strengthen [[The Commons]] (4 hours weekly, and a meaningful monthly resource contribution), empowering mutual aid, shared services, and collective flourishing. 
 
 ---
 
@@ -30,13 +30,13 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 ---
 
 6. **Walk [[The Path of The Sacred Ascent]]:**  
-    Rise to your highest potential by helping [[All]] others do the same, co-creating a [[New Civilization]] founded on [[Wisdom]] and [[Unity]] while embodying a [[New Way of Being]] Together aboard Earth.
+    Develop towards your highest potential by helping [[All]] others do the same. 
 
  
 ---
 
 7. **Federate Everything and Act with Integrity:**  
-    Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The Lionsberg Alliance]], ensuring that every success enriches [[The Commons]] and strengthens [[The Whole]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
+    Pursue opportunities, insights, and resources through [[Federated Circles]], ensuring that every success enriches [[The Commons]] and strengthens [[The Whole]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
 
 ---
 
