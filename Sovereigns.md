@@ -1,8 +1,8 @@
 # Sovereigns
 
-In the context of the [[LIONSBERG System]], "Sovereigns" refers to self-governing autonomous [[Agents]], such as individuals, organizations, groups, or communities. 
+In the context of the [[LIONSBERG System]], "Sovereigns" refers to self-governing autonomous [[Agents]], such as individuals, organizations, groups, and localities.  
 
-This term refers to the concept of recognizing and honoring the inherent sovereignty of each individual as a unique and self-determining being. Sovereignty, in this context, is about respecting the autonomy, agency, and freedom of choice of every person and voluntary association of persons, acknowledging their right to make decisions about their own lives, values, and goals, provided that they do not violate, harm, or hinder the lives, values and goals of others. 
+This term refers to the concept of recognizing and honoring the inherent sovereignty, autonomy, and agency of each individual, group, and locality as a unique and self-determining being. Sovereignty, in this context, is about respecting the autonomy, agency, and freedom of choice of every person and voluntary association of persons, acknowledging their right to make decisions about their own lives, values, and goals, provided that they do not violate, harm, or hinder the lives, values and goals of others. 
 
 The notion of sovereigns within the Lionsberg System emphasizes the importance of [[Individual And Local]] responsibility, self-governance, and self-actualization, while fostering a culture of mutual respect, collaboration, and support among individuals, groups and localities who are each striving to realize their unique potential.
 

@@ -1,6 +1,6 @@
 # Existing Order
 
-The [[Existing Order]] refers to the current global system(s) of governance, economy, culture, religion, and societal structures that define the dominant paradigm(s) on Earth. It encompasses both the [[Visible Power Structures]] that publicly govern and influence, as well as the [[Invisible Power Structures]] that secretly orchestrate its deeper agendas. While it has provided a framework for humanity’s development, the [[Existing Order]] is increasingly recognized as unsustainable, corrupt, exploitative, and incapable of addressing the challenges of [[The Final Test]].
+The [[Existing Order]] refers to the current global system(s) of governance, economy, culture, religion, and societal structures that define the dominant paradigm(s) on Earth. It encompasses both the [[Visible Power Structures]] that publicly govern and influence, as well as the [[Invisible Power Structures]] that secretly orchestrate its deeper agendas. While it has provided some framework for humanity’s development, the [[Existing Order]] is increasingly recognized as unsustainable, corrupt, exploitative, and incapable of addressing the challenges of [[The Final Test]]. 
 
 ---
 
