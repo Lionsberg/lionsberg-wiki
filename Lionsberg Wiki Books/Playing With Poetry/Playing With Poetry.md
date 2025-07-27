@@ -2,404 +2,464 @@
 
 ## 1. 
 
-I am frozen in Time, drifting in Space;
+I am frozen in Time, drifting in Space  
 
-the world swirls and roils; 
+A world swirls and roils  
 
-society crumbles;
+The Foundations crack  
 
-as the building groans and falls;
+Society crumbles  
 
-society sleeps.
+As The Building groans and falls  
+
+The People sleep to death   
 
 _______________
 ## 2. 
 
-Insanity prevails, [[Chaos]] emerges;
+Insanity infiltrates, [[Chaos]] emerges  
 
-through the cracks in the walls of the Order, [[The Serpent]] slithers in. 
+Through the cracks in The Walls of the Order, [[The Serpent]] slithers in  
 
 ________________  
 ## 3. 
 
-How do you awake the sleeping?  
+How do you awaken the sleeping?  
 
-How do you raise the dead, before they die?
+How do you raise the dead before they die?  
 
 _________________
 ## 4. 
   
-Listen to The Voice, crying out in The Wilderness;
+Listen to The Voice, crying out in The Wilderness  
 
-it is your Salvation, longing to be heard.
+It is your Salvation, longing to be heard  
 
 _________________
 ## 5. 
   
-Over the centuries we built, and from the ashes of Darkness, Society emerged;
+Over the centuries We built, and from the ashes of Darkness, Society emerged  
 
-then, one long dark night, it was gone;
+Then, one long dark night, it was all gone  
 
-we awoke, and the sun did not rise over the Experiment;
+We awoke, and the sun did not rise over the Experiment  
 
-Darkness covered the Earth;  
+Darkness covered the Earth  
 
-while we slept, the thief had come and stolen our Inheritance.  
+While We slept, The Thief had come and stolen Our Inheritance  
 
 _________________
 ## 6. 
 
-We thought it would always be; 
+We thought it would always be  
 
-and so it came to pass that it wasn't. 
+And so it came to pass that it wasn't  
+
 ____
 ## 7. 
   
-The first time we were pushed towards it, we could not see the cliff;
+The first time We were pushed towards it, we could not see the cliff  
 
-so we backed up a step, and reset, in shock;   
+So We backed up a step, and reset, in shock   
 
-push by push, day by day, little by little;
+Push by push, day by day, little by little  
 
-we backed up, and reset;
+We backed up, and reset  
 
-why were they pushing us like this?
+But We did not resist  
 
-Then we one day, they pushed, and we backed up, and we plummeted towards ruin;
+Why were they pushing Us like this?  
 
-as we fell, the heights we formerly possessed slowly receded from view;
+Then one day they pushed, and We backed up again  
 
-and then finally, it went Dark; 
+And plummeted down towards ruin  
 
-we were free, but our children were enslaved in depths above. 
+As We fell, the heights We formerly possessed slowly receded from view  
+
+And then finally, it went Dark  
+
+The Curtain closed on millennia of work  
+
+We were once again free, but Our children were enslaved in depths above  
 
 ___________________
 ## 8. 
 
-What kind of Art might the blind See?
+What kind of Art might the blind See?  
 
-What kind of Sound might the deaf Hear?
+What kind of Sound might the deaf Hear?  
 
 What kind of Sensation might the numb Feel?  
 
-What kind of Light might the unconscious Perceive? 
+What kind of Light might the unconscious Perceive?  
 
 ____________________
 ## 9. 
 
-It is easy to find microsuccesses on the pathway towards ruin;
+It is easy to find microsuccesses on the pathway towards ruin  
 
-little by little, we are encouraged on in the wrong direction;
+Little by little, We are encouraged on in the wrong direction  
 
-step by step, we approach the Abyss;
+Step by step, We approach the Abyss  
 
-we faithfully progress towards the wrong milestones, not realizing that they mark the way towards Death.
+We faithfully progress towards the wrong milestones  
+
+Not realizing that they mark the way towards Death  
 
 _____________________
 ## 10. 
 
 Why do you seem so desperate? Why are you flailing your arms?
 
-Be quiet, so that we can go back to Sleep;
+Be quiet, so that we can go back to Sleep  
 
-close the blinds, so that we don't have to See;  
+Close the blinds, so that we don't have to See  
 
-shut the door, so that we don't have to Hear;  
+Shut the door, so that we don't have to Hear  
 
-medicate us, so that we don't have to Feel. 
+Medicate us, so that we don't have to Feel  
 
-Comfortable in numbing pain of their mild suffering, they roll over, and go back to Sleep in the burning building.
+Comfortable in the numbing pain of their mild suffering  
+
+They roll over, and go back to Sleep in the burning building  
+
+Unaware it will cost them their lives  
 
 ________________________
 ## 11. 
 
-The world is certain;  
+The world is certain  
 
-the world is wise;
+The world is wise  
 
-the world has its plan.
+The world has its plan  
 
-Suddenly, but not without warning, Reality shatters the illusion.  
+Suddenly, but not without warning, Reality shatters the illusion  
 
 _________________________
 ## 12. 
   
-
 It is lonely in The Wilderness.
 
-[[Beyond The Boundary]], the cold wind sweeps away the words before they can be heard.
+[[Beyond The Boundary]], the cold wind sweeps away the words before they can be heard  
 
 _________________________
 ## 13. 
 
-Society mocks and scorns.
+Society mocks and scorns  
 
-The Old Leaders gnash their teeth, hatch their schemes, and threaten hell.
+The Old Leaders gnash their teeth, hatch their schemes, and threaten hell  
 
-Meanwhile, the Prophets speak on.
+Meanwhile, the Prophets speak on  
 
 _________________________
 ## 14. 
   
-The ignorant celebrate their righteousness;
+The Arrogant Ignorant celebrate their righteousness  
 
-from their cages they mock the Free;
+From their pulpits and cages they mock the Free  
 
-bound in their chains, they are comfortable and secure in their salvation;
+Bound in their chains, they are comfortable and secure in their false salvation  
 
-day by day, their living hell approaches.
+Day by day, their living hell enroaches  
 
 _________________________
 ## 15. 
 
 _"The building is on fire, and our room is getting smoky..._
 
-_...quick, let us move to the next room, so that we can comfortably resume our slumber."_
+_...Quick, let us move to the next room, so that we can comfortably resume our slumber."_
 
-Meanwhile, the foundations wither under the heat, the supporting beams prepare their collapse, and the Fire ushers in the reign of [[Chaos]]. 
+The foundations wither under the heat  
+
+The supporting beams prepare their collapse  
+
+And the Fire ushers in the reign of [[Chaos]]. 
 
 _________________________
 ## 16. 
 
-Evil has gripped the steering wheel of the vessel of Society;
+Evil has gripped the steering wheel of the vessel of Society  
 
-its guards stand watch on the bridge;
+Its guards stand watch on the bridge  
 
-its agents roam the decks and cabins;
+Its agents roam the decks and cabins and minds  
 
-cutting the tongues off of those who dare to speak;
+Cutting the tongues off of those who dare to Speak  
 
-severing the hands of those who dare to write;
+Severing the hands of those who dare to Write  
 
-and removing the heads of those who dare to stand.
+And removing the heads of those who dare to Stand  
 
-The people cower in fear, forgetting that United As One Body And Mind, they are Free, and Freedom is not.
+The people cower in fear, forgetting that United they are Free, and Freedom is not  
 
 ____________________________
 ## 17. 
 
-The Way is not easy; 
+The Way is not easy  
 
-it cannot be walked for us by others; 
+It cannot be walked for Us by others  
 
-to know the Way, one must live it. 
+To know the Way, each One must live it  
+
 ____
 ## 18. 
 
-Knowing they are destroying themselves, people smoke until they have cancer, and it is too late to quit. 
+On the horizon [[The Four Horsemen]]  appear  
 
-Knowing they are destroying their society, people tear down the Ideals until Chaos reigns, and it is too late to restore Order. 
+There is a reason they ride together  
 
-Knowing they are destroying their world, people pollute the air, water, and soil, until two thirds of life is destroyed, and it is too late to stop the march of the Destroyer. 
+[[Chronos]] closes [[The Window]] to halt their advance  
 
-In the Intelligible Universe, there is a reason the [[Four Horsemen]] of the Apocalypse ride together. 
 ______
 ## 19. 
 
-Woe to those who call Evil Good, and Good Evil. 
+Woe to those who call Evil Good, and Good Evil  
 
-In the end, the Evil they cultivate will destroy them. 
+The Evil they cultivate will destroy them  
+
 ___
 ## 20. 
 
-*"Chop the wood, carry the water, mend the fence"* they say; 
+*"Chop the wood, carry the water, mend the fence"* they say  
 
-can they not see the Tsunami on the horizon? 
+Do they not see The Tsunami on the horizon?  
 
-Heads down, they diligently and responsibly labored, never looking up, until the waters came and swept them away. 
+Heads down, they diligently and responsibly labored, never looking up  
+
+Until The Flood came and swept them all away  
+
 _____
 ## 21. 
 
-When will they understand that prophetic words are lovingly spoken; 
+When will they understand that prophetic words are lovingly spoken  
 
-so that the prophesies do not have to come to pass? 
+So that the prophesies do not have to come to pass?  
 
-The Prophets speak of what lies ahead if we do not transform our Way; 
+The Prophets speak of what lies ahead if We do not transform our Way  
 
-they warn of the roads we do not have to tread. 
+They warn of the roads we do not have to tread  
+
 ___
 ## 22. 
 
-Our ruin is certain; 
+Our ruin is certain  
 
-generations of suffering inevitable and hand; 
+Generations of suffering inevitably at hand  
 
-hopelessness and despair is our lot; 
+Hopelessness and despair is our lot  
 
 **UNLESS**...  
+
 _____
 ## 23. 
 
-*"The building is on fire and the stairways are blocked, quick, this Way to the ladder!"*
+*"The building is on fire and the stairways are blocked, quick, this Way to **The Exit**!"*
 
-They marveled at the arrogance of one speaking with authority; 
+They marveled at the arrogance of one speaking with authority  
 
-they mocked him, they beat him, and they left him for dead;  
+They mocked him, they beat him, and they left him for dead  
 
-and so they perished in the Fire. 
+And so they perished in The Flames  
+
 ____
 ## 24. 
 
-*"The flood is coming and our town will be consumed, this Way to the Ark!"*
+*"The flood is coming and our town will be consumed, quick, this Way to **The Ark**!"*
 
-They marveled at the arrogance of one speaking with authority; 
+They marveled at the arrogance of one speaking with authority  
 
-they mocked him, they beat him, and they left him for dead;  
+They mocked him, they beat him, and they left him for dead  
 
-and so they perished in the Flood.
+And so they perished in The Flood
+
 ____
 ## 25. 
 
-*"Change your ways, the Kingdom of Heaven is at hand!"*
+*"Repent, the Kingdom of Heaven is at hand!"*
 
-They marveled at the arrogance of one speaking with authority; 
+They marveled at the arrogance of one speaking with authority  
 
-they mocked him, they beat him, and they left him for dead;  
+They mocked him, they beat him, and they left him for dead  
 
-and so they perished in the Hell they co-created.
+And so they perished in The Flames  
+
 ______
 ## 26. 
 
-As the shaking grew stronger, and the explosions grew louder, the people rushed through the streets; 
+As the shaking grew stronger and the explosions grew louder  
 
-beset by false prophets and proclamations of doom on every corner; 
+The people rushed through the streets  
 
-*"Turn in here, here in here, I will save you!"*
+Beset by false prophets and proclamations of doom  
 
-A thousand wolves in sheep's clothing drove the frightened flocks into their pens, promising heaven and delivering hell. 
+The herds were driven into their pens  
+
+The gates clicked shut and the monsters howled in celebration  
+
+As the blood of sacrifice began to flow  
+
+The demons whirled in frenzy as The Dark Feast began   
+
+Humanity now permanently on the menu  
+
 _____
 ## 27. 
 
-As the End of the Old Order drew near; 
+As the End of the Old Order drew near  
 
-the Sane became pariahs; 
+The Sane became pariahs  
 
-the Truthful became outcasts; 
+The Truthful became outcasts  
 
-the Clean became disgusting; 
+The Clean became disgusting  
 
-the Wise became abhorrent;  
+The Wise became abhorrent  
 
-they were rounded up and exterminated, and for generations society was free from the inconvenient affliction of Wisdom, Truth, and Justice. 
+The Light became disturbing  
 
-As the Light receded, the Parasites rejoiced and flourished in the enduring Darkness that now enveloped the Earth and blinded their hosts.  
+They were rounded up and exterminated  
+
+And for generations society was free  
+
+From the affliction of Wisdom, Truth, and Justice. 
+
+As the Light receded the Parasites rejoiced   
+
+Finally able to flourish in the Darkness blinding their hosts  
+
 ____
 ## 28. 
 
-To write the Words that no one may read; 
+To write the Words that no one may read  
 
-to speak the Words that no one may hear; 
+To speak the Words that no one may hear   
 
-to sing the Songs that no one may sing; 
+To sing the Songs that no one may know  
 
-to make the Art that no one may see; 
+To make the Art that no one may see  
 
-to walk the Paths that no one may find; 
+To walk the Path that no one may find  
 
-to offer a Way that no one may seek;  
+To offer a Way that no one may seek  
 
-to utter the Warnings that no one may heed; 
+To utter the Warnings that no one may heed  
 
-to be loved by a few; 
+To be Loved by few  
 
-to be betrayed by some; 
+To be betrayed by many  
 
-to be hated by many; 
+To be rejected and alone  
 
-to be rejected by all; 
+One who walks in this Way can only be sustained by the Source Within     
 
-one who walks in this Way can only be sustained by God; 
+Living or dying for eternity  
 
-living or dying for eternity;  
+Conquering the illusion of Time  
 
-conquering the illusion of Time;  
+Laboring and laying down one's apparently individuated life  
 
-laboring and laying down one's apparently individuated life, expecting nothing but [[ONE]] in return. 
+Expecting nothing but [[ONE]] in return. 
+
 _____
 ## 29. 
 
-Walking in the Way, one tastes the Valley of the Shadow of Death; 
+Walking in the Way, one tastes the Valley of the Shadow of Death  
 
-Walking in the Way, one cries tears of blood. 
+Walking in the Way, one cries tears of blood  
 
-We journey through the underworld below, so that others can walk through the heavenly fields above. 
+We journey through the hellish underworlds below  
 
-We cry the existential tears, so that others can laugh and play. 
+So that others can walk the heavenly fields above  
 
-We extend the Path into the Unknown, so that those who come after us can walk in a Way that has been illuminated. 
+We face the existential fears and cry the excrutiating tears  
 
-We [[Pass The Flame]], to those brave souls destined for ever greater things. 
+So that others can laugh and play  
 
-Bloodied, bruised, and betrayed, we rest in eternal peace with God. 
+We courageously extend the Path into the Unknown  
+
+So that those who come after can walk in an illuminated Way  
+
+We [[Pass The Flame]] to those brave souls destined for ever greater things  
+
+Bloodied, bruised, and betrayed, We rest in eternal peace with God  
+
 _____
 ## 30. 
 
 Who is to Say what Poetry is? 
 
-As we write it, it writes us. 
+As We write it, it writes Us  
 
-Perhaps one day, we will be nothing but what the Supreme Poet writes. 
+Until one day We become the work of the Supreme Poet  
+
 ___
 ## 31. 
 
-A glimmer of [[Hope]] on the Horizon; 
+A glimmer of [[Hope]] on the Horizon  
 
-A wisp of [[Inspiration]] in the Air; 
+A wisp of [[Inspiration]] in the Air  
 
-A vapor of [[Life]] to be Lived. 
+A vapor of [[Life]] to be Lived  
+
 ___
 ## 32. 
 
-Having been Hardened, become Soft.  
+Having been Hardened, become Soft  
 
-Having been Shaped, become Formless.  
+Having been Shaped, become Formless   
 
-Having been Whittled, become Whole.  
+Having been Whittled, become Whole  
 
-Having been Harmed, become Naive.  
+Having been Harmed, become Naive  
 
-Having been Judged, become Justice.  
+Having been Judged, become Justice  
 
-Having been Robbed, become Generosity.  
+Having been Robbed, become Generosity  
 
-Having been Slandered, become Truth.  
+Having been Slandered, become Truth  
 
-Having been Betrayed, become Loyalty.  
+Having been Betrayed, become Loyalty  
 
-Having been Rejected, become Love.  
+Having been Rejected, become Love  
 
-Having been Killed, become Resurrection.  
+Having been Killed, become Resurrection  
 
-Having been Individuated, become One. 
+Having been Individuated, become All  
 
-Having been [[Thrown]], return. 
+Having been All, become One  
 
-Behold, we are making All Things New. 
+Having been [[Thrown]], return  
+
+Behold, We are making All Things New  
+
 ____
 ## 33. 
 
-Pure Light, streaming through Pure Water, into Pure Being. 
+Pure Light, streaming through Pure Water, into Pure Being  
 
-Be still, and everything will Flow. 
+Be still, and everything will Flow  
 
-Be still, and the Dust will settle. 
+Be still, and the Dust will settle  
 
-Be still, and the Pollution will subside.  
+Be still, and the Pollution will subside  
+
 ____
 ## 34. 
 
-Walk without casting dust into the Air. 
+Walk without casting dust into the Air  
 
-Wade without disturbing the Water. 
+Wade without disturbing the Water  
 
-Cultivate without tearing the Soil. 
+Cultivate without tearing the Soil  
 
-Exist without harming the Sacred. 
+Exist without harming the Sacred  
+
 ___
 ## 35. 
 
-Look closer. 
+Look closer  
 
-Every blade of grass is a burning bush. 
+Every blade of grass is a burning bush  
 
-Each living cell points the Way back to the One. 
+Every quanta reveals the ONE  
