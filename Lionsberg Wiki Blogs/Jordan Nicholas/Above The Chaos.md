@@ -8,6 +8,10 @@
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
+## August 2025
+
+- [[What If? What Then?]]  
+
 ## July 2025 - The Moment of Truth
 
 - [[Restoring the Land of Earth to its Rightful Heirs]]  
