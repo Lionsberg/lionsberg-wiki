@@ -462,7 +462,6 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
   
 - [[Above The Chaos, Hello World]]    
 - The [[Lionsberg Wiki]] comes online. Over the next 36 months, a transformative Library of millions of interlinked articulations emerge.  
-- See [[Above The Chaos]] and [[Lionsberg Wiki Books]] as a starting point. 
 
 ## 2022 
 
@@ -473,6 +472,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## 2021 
 
 - [[Lionsberg Trust Manifesto]] describes the origins and intention of Lionsberg and the [[Meta Project]] prior to 2022   
+
 ## 2020
 
 - Jordan uses his last financial bullets to resource the development of a [[Provisional Tech Platform]] for The Movement.  
@@ -491,19 +491,16 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## 2017 
 
 - J and many others around the world pinged to accelerate the [[The 7 Year Window of Preparatory Work and Learning]]  
-- The Time is drawing near  
 
 ## 2012
 
-- Perhaps a hinge point between the [[Old]] and [[New]]...  
-- With an 18 year... or 256 year... or... x year... transition on either side.
-- Perhaps 2020 to 2030 will be important.   
+- An approximate hinge point between the [[Old]] and [[New]]...  
+- With an 18 year... or 256 year... transition on either side.   
 
 ## 1984
 
-- Commence J on Earth  
-- Start some unusual things to prepare  
+- Commence Operation J on Earth  
 
 ## Time Immemorial 
 
-- J and Others Know and Understand **We** are Here for **This**.  
+- We know *this* is coming.  
