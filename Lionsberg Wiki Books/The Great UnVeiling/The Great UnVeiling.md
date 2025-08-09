@@ -71,34 +71,7 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 
 ### [[Chapter 15 — Demonic-Alien Matrices and Possession]]
 
-### Chapter 16. The Greatest Deception in History
-
-- The Lie at the Root of Civilization  
-    
-- False Histories   
-    
-- False Wars     
-    
-- False Claims  
-    
-- False Religions   
-    
-- False Science   
-    
-- False Mathematics   
-    
-- Prohibited Knowledge   
-- The Lies at the Root of the Existing Order  
-- The illusion of freedom, democracy, and choice  
-    
-- The Unholy Al(Lie)nce: Religious, Political, Economic and Academic false authorities lying in unison for generations  
-
-- The Lies of the Kontrolle Structure: The false histories and fabricated narratives of science, church, and state  
-- In the Beginning... ReDisovering the Genesis of the Universe, Galaxy, Earth, and All.  
-- The Ancient Cosmic Wars descend and touch the Earth  
-- False claims and false divisions over earth and humanity  
-- The descent of the false gods, temples, and economies  
-- Demon-Alien Kontrolle Systems on Earth  
+### [[Chapter 16 — The Greatest Deception in History]]  
 
 ### Chapter 17 — The Greatest Fraud in History
 
