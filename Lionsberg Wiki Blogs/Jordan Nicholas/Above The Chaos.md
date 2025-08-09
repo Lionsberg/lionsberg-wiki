@@ -2,10 +2,11 @@
 *For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
 ## Featured Posts
 
-## December **2033** - Looking Back From The Future
+## Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
+
 
 ## August 2025
 
