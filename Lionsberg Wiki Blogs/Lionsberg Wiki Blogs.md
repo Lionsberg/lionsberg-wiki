@@ -1,4 +1,5 @@
 # Lionsberg Wiki Blogs
-- [[Above The Chaos]] - by [[Jordan Nicholas Sukut]] 
+
+- [[Above The Chaos]]  
 - [[Pete's Journal]]  
 

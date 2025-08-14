@@ -1,15 +1,16 @@
 # Above The Chaos 
 *For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
-## Featured Posts
+*This Series ended on August 10, 2025*  
+[[Something Powerful, New, and Good]] is rising.  
 
 ## Looking Back From The Future
 
 - [[The Backward-Looking Story – December 18, 2033]]  
 - [[THE GREAT RETURN - THE STORY OF HUMANITY’S LIBERATION]]  
 
+## August 2025 - The End, and the Beginning of Something Powerful, New, and Good
 
-## August 2025
-
+- [[Oops, We Killed J - Final Post]]  
 - [[Unity Or Death]]  
 - [[What If? What Then?]]  
 
@@ -43,6 +44,7 @@
 *I suggest reading the below in reverse order*  
 *from bottom to top if you are interested.* 
 
+- [[Chapter 16 — The Greatest Deception in History]]  
 - [[Chapter 15 — Demonic-Alien Matrices and Possession]]  
 - [[Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle]]  
 - [[Chapter 13 — Shattering the Lie]]  
