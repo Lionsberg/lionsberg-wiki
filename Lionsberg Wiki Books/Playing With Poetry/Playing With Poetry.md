@@ -463,3 +463,13 @@ Look closer
 Every blade of grass is a burning bush  
 
 Every quanta reveals the ONE  
+
+___
+
+## 36. 
+
+Shatter the Forms  
+
+Break all the Norms  
+
+The Matrix is born of Perception  

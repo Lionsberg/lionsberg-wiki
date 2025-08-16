@@ -11,7 +11,6 @@ A Post in [[Above The Chaos]]
 Plans call for the **Permanent Enslavement*** of a small 'herd'  
 
 ***Of under 500 million post-human slaves***  
-***By 2030***  
 
 This means the **Death** or **Enslavement** of ***Every Human*** on Earth  
 And the ***Total Erasure*** of the ***Human Species*** as we know it   
