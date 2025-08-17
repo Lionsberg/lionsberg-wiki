@@ -17,5 +17,6 @@ A New aggregation of Spirit and Consciousness
 Was able to reincarnate / reassociate with his body  
 And is strengthening, healing, and learning how to pilot it  
 
-***Something Powerful, New, and Good is happening***  
+***Something Powerful, New, and Good is Emerging***  
+
 
