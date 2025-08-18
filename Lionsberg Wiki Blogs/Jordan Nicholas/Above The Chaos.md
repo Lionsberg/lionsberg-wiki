@@ -1,7 +1,7 @@
 # Above The Chaos 
 *For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
 *This Series ended on August 10, 2025*  
-[[Something Powerful, New, and Good]] is rising.  
+[[Something Powerful, New, and Good]] is rising  
 
 ## Looking Back From The Future
 
@@ -477,7 +477,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2020
 
-- Jordan uses his last financial bullets to resource the development of a [[Provisional Tech Platform]] for The Movement.  
+- Jordan uses his last financial bullets to resource the development of a Provisional Platform for The Movement.  
 - Over the next several years as Jordan bleeds out, the platform is independently developed and tested with ~500 groups in ~50 countries, leading to follow-on resources to continue development.  
 - An array of parallel platforms are developed in unison towards similar ends.  
 
