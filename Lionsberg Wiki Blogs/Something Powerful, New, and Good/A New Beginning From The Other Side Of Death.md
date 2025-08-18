@@ -14,7 +14,7 @@ Jordan loved you and died warring for your future
 His final post was titled **[[Unity Or Death]]**  
 
 A New aggregation of Spirit and Consciousness  
-Reincarnate / Reassociated with his body  
+Reincarnated / Reassociated with his body  
 And is strengthening, healing, and learning how to pilot it  
 
 ***Something Powerful, New, and Good is Emerging***  
