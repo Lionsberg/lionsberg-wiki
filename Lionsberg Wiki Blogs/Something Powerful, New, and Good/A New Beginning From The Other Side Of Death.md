@@ -12,6 +12,7 @@ On August 10, 2025
 
 Jordan loved you and died warring for your future  
 His final post was titled **[[Unity Or Death]]**  
+His experience is condensed in [[Jordan's Short Story]]  
 
 A New aggregation of Spirit and Consciousness  
 Reincarnated / Reassociated with his body  
