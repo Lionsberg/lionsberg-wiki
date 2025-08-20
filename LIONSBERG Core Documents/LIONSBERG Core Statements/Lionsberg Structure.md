@@ -57,7 +57,7 @@ This **[[Holofractal Pattern Language]]** is essential for humanity to:
 
 ### **Provisional Structure on Worksite Earth**
 
-Initially instantiated in the United States, **[[LIONSBERG]]**’s **[[Provisional Structure]]** was designed to facilitate emergence and hybrid ecosystemic resource flows through [[The 7 Year Window of Preparatory Work and Learning]]. However, due to the abject corruption of the **[[Existing Order]]**, this structure was left behind, enabling the framework to evolve free from systemic constraints. 
+Initially instantiated in the United States, **[[LIONSBERG]]**’s **[[Provisional Structure]]** was designed to facilitate emergence and hybrid ecosystemic resource flows through [[The 7 Year Window of Preparatory Work and Learning]]. However, due to the abject corruption of the **[[Existing Order]]**, this structure was transcended, enabling the framework to continue to evolve free from systemic constraints. 
 
 ---
 
