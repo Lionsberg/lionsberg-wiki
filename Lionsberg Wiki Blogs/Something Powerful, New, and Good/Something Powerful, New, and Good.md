@@ -3,5 +3,5 @@
 
 1. [[A New Beginning From The Other Side Of Death]]   
 2. [[What J Experienced in Life and Death]]   
-3. What We Experienced Entering J's Body - Coming Soon  
+3. Placeholder - What We Experienced Entering J's Body  
 
