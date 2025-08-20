@@ -6,6 +6,8 @@ To see what is emerging see [[Something Powerful, New, and Good]].
 
 To see J's perspective, visit [[Above The Chaos]] and the [[Lionsberg Wiki Books]].  
 
+The [[Lionsberg Summary]] links to the basics.  
+
 If you get lost visit [[Help! I Am Lost]].  
 
 Everything, everywhere, is a [[Work In Progress]].  
