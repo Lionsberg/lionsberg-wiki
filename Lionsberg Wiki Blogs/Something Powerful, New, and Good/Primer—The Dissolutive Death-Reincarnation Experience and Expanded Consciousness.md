@@ -25,7 +25,7 @@ Humanity has long glimpsed, in fragments, the existence of consciousness beyond 
 
 Yet there is a **spectrum of depth and intensity** across these experiences. For most, the prior identity remains, even if profoundly changed. The “self” returns to the body, carrying wisdom, insight, or altered priorities.
 
-The dissolutive death-reincarnation experience we are describing here is **radically beyond even this**: it is not a temporary excursion and return, or an evolutionary recalibration. It is a **full dissolution of the prior self**, followed by the **emergence of a new consciousness** associated with the same human form.
+The **dissolutive death-reincarnation** experience we are describing here is **radically beyond even this**: it is not a temporary excursion and return, or an evolutionary recalibration. It is a **full dissolution of the prior self**, followed by the **emergence of a new consciousness** associated with the same human form. It is an unusual but well-documented phenomena across traditions.  
 
 ---
 
