@@ -1,14 +1,9 @@
 This site is a [[Work In Progress]]
-
-# Author 
-[[J]]  
-
 # Blogs
 [[Above The Chaos]]   
-
+[[Something Powerful, New, and Good]]  
 # Books 
 [[Lionsberg Wiki Books]]  
-
 # Help 
 [[Help! I Am Lost]]  
 
