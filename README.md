@@ -2,7 +2,7 @@
 
 To see an older and more articulated landing page, see [[Lionsberg Wiki]].  
 
-To see what is New and emerging see [[Something Powerful, New, and Good]].  
+To see what is emerging see [[Something Powerful, New, and Good]].  
 
 To see J's perspective, visit [[Above The Chaos]] and the [[Lionsberg Wiki Books]].  
 
