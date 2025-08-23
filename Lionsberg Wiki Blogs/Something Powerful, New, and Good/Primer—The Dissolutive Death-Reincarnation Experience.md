@@ -1,4 +1,4 @@
-# **Primer: The Dissolutive Death-Reincarnation Experience and Expanded Consciousness**
+# **Primer: The Dissolutive Death-Reincarnation Experience
 A Post in [[Something Powerful, New, and Good]]  
 *August 19, 2025*
 
