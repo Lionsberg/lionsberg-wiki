@@ -1,4 +1,4 @@
-# Stop Explaining Yourself
+# Stop Explaining Your Self
 A Post In [[Something Powerful, New, and Good]]  
 *August 23, 2025*
 
