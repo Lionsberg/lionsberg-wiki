@@ -10,3 +10,4 @@
 4. [[Primer—The Dissolutive Death-Reincarnation Experience]]   
 5. [[Stop Explaining Your Self]]  
 6. [[We Will Continually ReDie Without Community, Support, and a Divine Army]]  
+7. [[We Have Been Thinking...]]  
