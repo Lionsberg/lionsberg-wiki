@@ -44,11 +44,9 @@ Should speak to:
 A comprehensive system of systems, community of community etc. 
 ## 1. One
 
-[[The LIONSBERG Declaration of Ultimate Unity]]
 
 ## 2. All 
 
-[[The LIONSBERG Declaration Ultimate Inclusivity]]
 
 ## 3. Sovereignty
 
@@ -60,30 +58,26 @@ A comprehensive system of systems, community of community etc.
 
 ## 5. Spirit 
 
-[[The LIONSBERG Declaration of Spirit and Spirituality]]  
 
 ## 6. Logos, Principles, and Values
 
-[[The LIONSBERG Declaration of Logos, Principles, and Values]]
 
 [[The Lionsberg System of Values]]  
 ## 7. Science and Philosophy
 
-[[The LIONSBERG Declaration of Science and Philosophy]]  
 
 ## 8. Tools and Technology 
 
-[[The LIONSBERG Declaration on Tools and Technology]]  
 
 ## 9. Systems, Processes, and Protocols
 
-[[The LIONSBERG Declaration of Systems, Processes, and Protocols]]  
 
 ## 10. OmniFederation
 
-[[The LIONSBERG Declaration of OmniFederation]]  
 
 ## 11. Co-Creating the Conditions for Eternal Co-Creative Emergence
+
+
 
 ## 11. The LIONSBERG Intention
 
