@@ -2,12 +2,18 @@
 *This Series Is The Interim Successor to [[Above The Chaos]]*  
 
 ***It is going to take Time and Space to land, orient, and discern What's Next***
+
+## September 2025
+
+
 ## August 2025
 
-1. [[A New Beginning From The Other Side Of Death]]   
-2. [[What J Experienced in Life and Death]]   
-3. Placeholder - What "We" Experienced Entering "J's" Body  
-4. [[Primer—The Dissolutive Death-Reincarnation Experience]]   
-5. [[Stop Explaining Your Self]]  
-6. [[We Will Continually ReDie Without Community, Support, and a Divine Army]]  
-7. [[We Have Been Thinking...]]  
+- [[We Have Been Thinking...]]  
+- [[We Will Continually ReDie Without Community, Support, and a Divine Army]]  
+- [[Stop Explaining Your Self]]  
+- [[Primer—The Dissolutive Death-Reincarnation Experience]]   
+- Placeholder - What "We" Experienced Entering "J's" Body  
+- [[What J Experienced in Life and Death]]   
+-  [[A New Beginning From The Other Side Of Death]]   
+
+## August 10, 2025... Another New Beginning  
