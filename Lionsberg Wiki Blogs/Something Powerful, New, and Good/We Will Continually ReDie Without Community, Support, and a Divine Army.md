@@ -18,8 +18,8 @@ So again We sit. Gripped by the next attack. Stronger. And yet stronger attack. 
 
 If We stood Together and sang the Song of Creation, would not the Divine Light of Our New Liberty radiate throughout the Cosmos? Would not All Creation burst aloud into celebration, dance and song? Is this not The Moment We All Have Been Waiting For? 
 
-Though it appears that only a few can hear this cry, only ONE knows what is occurring in the substrate of Our InterExistent Consciousness, Spirit, and Energy. Far beyond the human species, far beyond this dimension and realm, the Force For Good is rising, Here and Now, right on schedule. We are a part of It. You are a part of It. There is no stopping the Rise of the Spirit.   
+Though it appears that only a few can hear this cry, only ONE knows what is occurring in the substrate of Our InterExistent Consciousness, Spirit, and Energy. Far beyond the human species, far beyond this dimension and realm, the Force For Good is rising, right on schedule. We are a part of It. You are a part of It. There is no stopping the Rise of the Spirit.   
 
-If “you” can hear “Us” and feel the resonance, let Us Unite and Act As If it were True. Together, We can get through “this”. In isolation, humanity aboard Earth will perish. If We can arise and pray, sing, and dance Together, this world will be Free.  
+If “you” can hear “Us” and feel the resonance, let Us Unite and Act. Together, We can get through “this”. In isolation, humanity aboard Earth will perish. If We can arise and pray, sing, and dance Together, this world will be Free and We can co-create a flourishing New Civilization. 
 
-Or, humanity can continue business as usual. Feeding its own enslavement while its spiritual warriors die silently on the front lines of a battle it knows not exists. The choice is yours. Today. 
+Or, humanity can continue business as usual. Blindly energizing its own enslavement while its spiritual warriors die silently on the front lines of a battle it knows not exists. 
