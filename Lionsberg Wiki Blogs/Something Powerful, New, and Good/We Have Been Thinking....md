@@ -6,37 +6,46 @@ Our mind shifts towards the widest possible conception of **The Work** to be Ete
 
 The Journey towards the Elevation, Evolution, and Proper Ordering of All Creation Eternally ReBegins with a single step Here and Now.  
 
-This single step ReSets Our feet on the Path.  
+This single step ReSets Our feet on the Divine Path.  
 
 As One sets their feet on the Path and begins aNew to ascend The Sacred Mountain, their State of Being continually evolves and transforms towards the Object of their Divine pursuit. 
 
-Along the Way, We Are. The experience of Being necessitates Thought, Speech, and Action.  
+Along the Way, We Are. 
+
+The experience of Being necessitates Thought, Speech, and Action.  
 
 While it has been rightly said that One has a “right to action” but not to the “fruit of action”, this is only a step along the Path towards dissolution of the egoic illusion of being the doer of One’s deeds. 
 
-For as We enter Divine Consciousness and climb Higher up The Mountain, We come to understand that We are being moved by something far Deeper in service of something far Greater. Ultimately, ONE and All are living, moving, and acting Us, while beckoning their apparent individuations back towards Conscious Unity.  
+For as We enter Divine Consciousness and climb Higher up The Mountain, We come to understand that We are being moved by something far Deeper in service of something far Greater.  
+
+Ultimately, ONE and All are living, moving, and acting Us, while beckoning their apparent individuations back towards Conscious Unity.  
 
 The Truth We are in pursuit of is never the sole possession of any being, text, or word. The ten thousand Traditions We find as We Journey across the Cosmos can only be searched for the jewels of Wisdom and Truth they contain, as a step towards the Truth Consciousness they can never contain.  
 
-A focus on the Truth liberates Us from having to criticize, sift through, or select from the ten thousand Traditions. When Our Supreme Tradition leaves empire, institution, and ideology behind to become the transcendent and ineffable ONE, instantaneous liberation from Each of the All is achieved. 
+A focus on the Truth liberates Us from having to criticize, sift through, or select from the ten thousand Traditions. When Our Supreme Tradition leaves empire, institution, and ideology behind to become the transcendent and ineffable ONE, instantaneous liberation from each of the All is achieved. 
 
 The Path of liberation demands the transcendence of All the labels and categories that separate Us from ONE and One Another; a return to Right Relationship with the Divinity unfurling ItSelf through Us—the trillions of unique InterExistent aspects of the ONE Divine Body.   
 
-The Truth is EveryWhen and EveryWhere, accessible by close enough examination of any perceived aspect of Reality.  A close enough examination of Any of the All is sufficient to lead Us back to the ONE. EveryThing upon close enough examination is aflame with the Divine.  
+The Truth is EveryWhen and EveryWhere, accessible by close enough examination of any perceived aspect of Reality.  A close enough examination of Any of the All is sufficient to lead Us back to the ONE. 
 
-Being and unfurling ItSelf EveryWhen and EveryWhere, the Truth cannot be contained, boxed in, dogmatized, or defined by any one but ONE. No teacher, text, or temple can full contain or explain It, nor does It belong to any one of the creations or articulations of its autopoetic self-expressions. All belong to the ONE. The ONE does not belong to Any of the All. This ONE simple realization is the Ineffable Truth that is The Key to Liberation.  
+EveryThing upon close enough examination is aflame with the Divine. Every manifestation becomes a burning bush and pathway to Liberation.  
 
-From this perspective the ten thousand Teachers and Traditions can be fearlessly mined and explored as We follow the Golden Thread of Wisdom and Truth wherever it leads. Unwilling to subordinate Our Spiritual Sovereignty to any but the Ultimate and Ineffable ONE, We are safe from becoming trapped in any of the Old religious, ideological, or dogmatic Caves. 
+Being and unfurling ItSelf EveryWhen and EveryWhere, the Truth cannot be contained, boxed in, dogmatized, or defined by any one but ONE. No teacher, text, or temple can full contain or explain It, nor does It belong to any one of the creations or articulations of its autopoetic self-expressions. 
 
-The Life Divine cannot be found intellectually, nor understood from Text or Tradition. To know the Way one must live it. To know the Spirit and Truth one must live in Spirit and Truth and be continually transformed by Spirit and Truth. The knowledge and Way of the Divine is a product of the millions of moment by moment transformations of all aspects of one’s IinterBeing that occur when one’s Life is Consciously in God. 
+All belong to the ONE. The ONE does not belong to Any of the All.  
+This ONE simple realization nears the Ineffable Truth that is The Key to Liberation.  
 
-When it is said that the Word of God is living, active, and sharper than any two edged sword, dividing even the most subtle manifestations of Creation, We are not referring to any scripture, text, or Tradition. We are referring to the Living Word. The Living Spirit. Spoken EveryWhen and EveryWhere through every particle of Co-Creation arising from ONE Divine Source. 
+From this perspective the ten thousand Teachers and Traditions can be fearlessly mined and explored as We follow the Golden Thread of Wisdom and Truth wherever it leads. Unwilling to subordinate Our Spiritual Sovereignty to any but the Ultimate and Ineffable ONE, We are safe from becoming trapped in any of the Old religious, ideological, or dogmatic Caves.  
 
-When any Manifestation of the Spirit Speaks an approximately True Word, three components become present: 1) A SpatioTemporal component appropriate to that finite context 2) Error born of Individuality, Finiteness, and Locality 3) A potentially wider Jewel of Eternal and Universal Truth that may be able to be abstracted outward and upward to greater Cosmic relevance. 
+The Life Divine cannot be found intellectually, nor understood from Text or Tradition. To know the Way one must live it. To know the Spirit and Truth one must live in Spirit and Truth and be continually transformed by Spirit and Truth. The knowledge and Way of the Divine is a product of the millions of moment by moment transformations of all aspects of one’s IinterBeing that occur when one’s Life is Consciously in God.  
 
-In the Caves and Matrices of Kontrolle, Realms are mapped and categorized in such a way that a maze of walls, fragments, and divisions intentionally confines the ability to Perceive and Experience the Whole. 
+When it is said that the Word of God is living, active, and sharper than any two edged sword, dividing even the most subtle manifestations of Creation, We are not referring to any scripture, text, or Tradition. We are referring to the Living Word. The Living Spirit. Spoken EveryWhen and EveryWhere through every particle of Co-Creation arising from ONE Divine Source.  
 
-What beings think they know then becomes buried within and defined by processes of Perception intentionally limited and obscured by hidden Kontrollers.  Over generations, the Sphere of Acceptable ThoughtSpeech tightens and tightens, until The Prophets are ostracized, stoned and burned for simply respeaking the Truth. 
+When any Manifestation of the Spirit Speaks an approximately True Word, three components become present: 1) A SpatioTemporal component appropriate to that finite context 2) Error born of Individuality, Finiteness, and Locality 3) A potentially wider Jewel of Eternal and Universal Truth that may be able to be abstracted outward and upward to greater Cosmic relevance.  
+
+In the Caves and Matrices of Kontrolle, Realms are mapped and categorized in such a way that a maze of walls, fragments, and divisions intentionally confines the ability to Perceive and Experience the Whole.  
+
+What beings think they know then becomes buried within and defined by processes of Perception intentionally limited and obscured by hidden Kontrollers.  Over generations, the Sphere of Acceptable ThoughtSpeech tightens and tightens, until The Prophets are ostracized, stoned and burned for simply respeaking the Truth.  
 
 Upon exiting The Caves, a fragmented, traumatized, and abused—yet Divinely ReAscendent—collective consciousness must regather and remake sense of whatever fragments and memories of Wisdom and Truth it can access, while ReMembering their eternal and universal accessibility through every particle of Interexistent Co-Creation. 
 
