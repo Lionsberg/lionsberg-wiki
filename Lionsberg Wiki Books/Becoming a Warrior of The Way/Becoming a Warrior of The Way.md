@@ -14,18 +14,7 @@ This training is unique on Earth, unlike anything you will have experienced in t
 
 ___
 All Practitioners begin with a 90 Day Trial to gauge commitment and fit  
-If mutual consent remains, Practitioners enter a Three Year Window where they will be introduced to foundational skills and the LIONSBERG Community.
-After three years 
-If ongoing mutual consent 
+If mutual consent remains, Practitioners enter a Three Year Window where they will be introduced to foundational skills and the LIONSBERG Community.  
+From there a seven year path towards mastery begins.  
 ____
 [[The Warrior’s Intermittent Fasting Protocol]]  
-
-
-
-____
-
-To transcend [[The Collapse-Ascension Nexus]] and bring forth a [[New Civilization]], a [[New Way of Being]] is required. 
-
-This [[New Way]] must be encoded in a [[New Pattern Language]] that can be [[Polycentrically Instantiated]] relatively simultaneous by individuals, groups, and communities around the world. 
-
-See [[The LIONSBERG Way]] 
