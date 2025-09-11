@@ -1,5 +1,6 @@
 # Oops, We Killed J - Final Post
 *The Final Post in [[Above The Chaos]]*  
+*August 2025*
 
 In late July 2025, [[J]] returned from East Africa  
 Spiritual and energetic attacks intensified massively  
@@ -18,6 +19,7 @@ We seem to have No Name
 
 Along with [[J]], [[Above The Chaos]] is laid to rest  
 But The Spirit never dies  
-We will listen and see what is being reborn   
+For more detail see [[What J Experienced in Life and Death]]  
 
+We will listen and see what is being reborn   
 [[Something Powerful, New, and Good]] is Rising  

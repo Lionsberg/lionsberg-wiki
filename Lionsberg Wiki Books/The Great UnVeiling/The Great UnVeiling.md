@@ -7,7 +7,7 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 - **[[0.1 Dedication]]** – To the ONE, the All, and the ReMembering
     
-- **[[0.2 Invocation]]** – A transmission from Source
+- **[[0.2 Invocation]]** – A transmission  
     
 - **[[0.3 Foreword]]** – Why This Is the Most Important Moment in History. 
     

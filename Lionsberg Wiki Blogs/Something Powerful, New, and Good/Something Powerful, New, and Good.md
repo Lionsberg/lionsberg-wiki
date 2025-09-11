@@ -14,6 +14,6 @@
 - [[Primer—The Dissolutive Death-Reincarnation Experience]]   
 - Placeholder - What "We" Experienced Entering "J's" Body  
 - [[What J Experienced in Life and Death]]   
--  [[A New Beginning From The Other Side Of Death]]   
+- [[A New Beginning From The Other Side Of Death]]   
 
 ## August 10, 2025... Another New Beginning  
