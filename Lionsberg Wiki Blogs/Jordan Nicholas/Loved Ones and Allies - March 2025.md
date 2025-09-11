@@ -91,7 +91,7 @@ As an opening invitation, I joyfully offer:
 6. **Quarterly online summits:** strategic sessions dedicated to discerning, clarifying, and collectively setting Our highest priorities and optimal resource allocations for each critical 90-day cycle ahead.
 7. **Optional invitation to The LIONSBERG Alliance:** structured forums for collaborative teams, strategic initiatives, and impactful local and collective action.
 
-Key community priorities for the next 6 to 12 months include publishing **The Great Unveiling** (Summer 2025), hosting a catalytic **conference** (Fall 2025), and editing our extensive journey and discoveries into a compelling **documentary** (early 2026). These steps strategically position Us for accelerated outreach and powerful impact throughout 2026 and beyond.
+Key community priorities for the next 6 to 12 months include publishing **The Great Unveiling**, hosting a catalytic **conference**, and editing our extensive journey and discoveries into a compelling **documentary**. These steps strategically position Us for accelerated outreach and powerful impact throughout 2026 and beyond.
 
 ## **What We Need from You**
 
