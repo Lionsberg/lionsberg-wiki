@@ -375,7 +375,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 [[Inbreaking And Displacing]]  
 
 [[False Dichotomies]]  
-[[Lionsberg Lexicon]]  
+[[LIONSBERG Lexicon]]  
 
 ## From Another Guide (Process and Integrate) 
 

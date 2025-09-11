@@ -80,7 +80,7 @@ In the face of the [[Meta Crisis]], it aims to accomplish [[The Transformation]]
 
 ### 1.4 Definitions and Terms - The Lionsberg Lexicon 
 
-To facilitate clarity and universal understanding, key [[Word Tools]] / Terms should be defined and [[Progressively Articulated]] via the [[Lionsberg Lexicon]]. 
+To facilitate clarity and universal understanding, key [[Word Tools]] / Terms should be defined and [[Progressively Articulated]] via the [[LIONSBERG Lexicon]]. 
 
 ### 1.5 Transcendent Linguistic Integration 
 
@@ -94,7 +94,7 @@ This mandate contains within itself the requirement to undertake one of the larg
 
 The existence of [[Wisdom]], [[Truth]], and [[Knowledge]] across all cultures and languages of the Earth requires the initiation of an ongoing process of [[Transcendent Linguistic Integration]] to enable human and AI based [[Interoperability]] among the 7,000+ vital languages spoken around the Earth. 
 
-While the vast majority of the [[Word Tools]] used in the [[LIONSBERG System]] may be adequately translated by AI or other tools, special attention should be paid to carefully establish interoperability among all [[Word Tools]] in the [[Lionsberg Lexicon]] across all native languages. 
+While the vast majority of the [[Word Tools]] used in the [[LIONSBERG System]] may be adequately translated by AI or other tools, special attention should be paid to carefully establish interoperability among all [[Word Tools]] in the [[LIONSBERG Lexicon]] across all native languages. 
 
 A brief history and context: 
 

@@ -1199,7 +1199,7 @@ These are but a small sampling of the stories that specialists in a diverse arra
 In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing Habitable Order would survive rapidly approached zero. 
 ### The Meta Crisis 
 
-Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared [[Lionsberg Lexicon|Lexicon]] began to emerge, with New [[Word Tools]] progressively illuminating complexities that they previously lacked the language to articulate. 
+Eventually, they came to refer to the crisis of crises they were collectively facing as the [[Meta Crisis]]. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared [[LIONSBERG Lexicon|Lexicon]] began to emerge, with New [[Word Tools]] progressively illuminating complexities that they previously lacked the language to articulate. 
 
 The [[Meta Crisis]] was an unprecedented [[Existential Threat]] that nearly disqualified humanity from ongoing existence aboard Earth. It was a universal challenge that threatened the very fabric of [[Society]], and the [[Living System]] that contained it. 
 
@@ -1829,7 +1829,7 @@ They inevitably would have to figure out how they were going to respond to [[Tar
 
 They progressively came to Realize that ninety percent of the [[Challenges]], [[Obstacles]], [[Issues]], and [[Opportunities]] they faced were common to [[All]]. 
 
-As they began to build their shared [[Lionsberg Lexicon]], they called the issues they [[All]] shared in common [[General Issues]], [[General Needs]], and, [[General Problems]]. 
+As they began to build their shared [[LIONSBERG Lexicon]], they called the issues they [[All]] shared in common [[General Issues]], [[General Needs]], and, [[General Problems]]. 
 
 And they began to refer to those very few issues that were truly unique to a given team, time, or place as [[Specific Issues]], [[Specific Needs]], and [[Specific Problems]].  
 

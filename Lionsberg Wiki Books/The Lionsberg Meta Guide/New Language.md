@@ -2,7 +2,7 @@
 
 In our [[Quest]] to [[Progressive Realization|Progressively Realize]] the [[New]], we are often constrained by the lack of Language and [[Word Tool|Word Tools]] to point at what we are sensing and trying to [[Progressive Articulation|Progressively Articulate]]. 
 
-In the [[Lionsberg Lexicon]] and [[Lionsberg Wiki]], we are beginning to define the [[New Language]].  
+In the [[LIONSBERG Lexicon]] and [[Lionsberg Wiki]], we are beginning to define the [[New Language]].  
 
 In our infancy, we still often mix up words, or use the wrong [[Word Tool]] for something we are trying to point at. Please be patient while we [[All]] [[Help One Another]] learn, grow, and define a useful [[New Language]] for the [[New World]] we are [[Co-Creating]]. 
 

@@ -77,7 +77,7 @@ This is a massive [[Work In Progress]]...
 [[Template For Pattern Language (Simple)]] 
 [[Action Domains]] 
 [[Integration Domains]]  
-[[Lionsberg Lexicon]]  
+[[LIONSBERG Lexicon]]  
 
 ______
 

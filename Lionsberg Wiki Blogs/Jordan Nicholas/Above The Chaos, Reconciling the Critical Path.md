@@ -420,7 +420,7 @@ Bucky's Notes
 Jordan's Notes 
 
 - The Lionsberg Pattern Language will do its best to evolve to encompass the array of Practices at all [[Levels of Analysis]].  
-- The [[Lionsberg Lexicon]] exists to help all players forge a shared vocabulary and understanding.  
+- The [[LIONSBERG Lexicon]] exists to help all players forge a shared vocabulary and understanding.  
 
 ____
 ## Misc Notes

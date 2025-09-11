@@ -2,5 +2,5 @@
 
 A newly coined word or expression. 
 
-The [[Lionsberg Lexicon]] contains many of them. 
+The [[LIONSBERG Lexicon]] contains many of them. 
 
