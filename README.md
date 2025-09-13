@@ -1,8 +1,8 @@
 # **Welcome to the LIONSBERG Wiki**
 
-**To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[Lionsberg Wiki Books]], or the earlier [[Lionsberg Wiki]] homepage.
+**To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[Lionsberg Wiki Books]], or the earlier [[Lionsberg Wiki]] homepage. Everything, everywhere, is a [[Work In Progress]]. 
 
-*We are working towards resynthesizing the millions of words and thousands of files on the wiki into a comprehensive new wiki structure that enables the complete decentralized propagation and adoption of the LIONSBERG System & Way.*
+*We are working towards resynthesizing the millions of words and thousands of files on the wiki into a comprehensive new wiki structure that enables the complete decentralized propagation and adoption of the **LIONSBERG System & Way**.*
 
 # 🧭 COMPREHENSIVE WIKI ARCHITECTURE
 
