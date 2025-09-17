@@ -30,7 +30,7 @@ It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[W
 ## The Story of LIONSBERG 
 
 [[The Story]]  
-[[The Story of Lionsberg]]  
+[[The Story of LIONSBERG]]  
 
 Should speak to: 
 [[Context]]  

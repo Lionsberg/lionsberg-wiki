@@ -4,9 +4,9 @@
 
 In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly [[New]] yet timeless. **[[LIONSBERG]]** is one such moment—a transcendent Ideal, an eternal beacon, empowering a living embodiment of humanity’s highest potential in service to [[ONE]] and [[All]].
 
-This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of **[[ONE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
+This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ONE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
-See also [[The Story of Lionsberg]] and [[The Birth of The Eternal Citadel]]. 
+See also [[The Story of LIONSBERG]] and [[The Birth of The Eternal Citadel]]. 
 
 ---
 

@@ -4,7 +4,7 @@
 
 [[LIONSBERG]] provides an overview. 
 
-[[The Story of Lionsberg]] provides the narrative context. 
+[[The Story of LIONSBERG]] provides the narrative context. 
 
 The [[Lionsberg Manifesto]] lays out the call to action. 
 
