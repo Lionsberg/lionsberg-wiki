@@ -10,7 +10,7 @@ Yet, within the vast tapestry of existence, a Song has always echoed—a Song of
 
 > “ReMember. You are not alone. You are not lost. The Light is within you, and together, We will return Home. We Are One.”
 
-This Eternal Song of the [[ONE]] is the heartbeat of [[LIONSBERG]], the foundation of the unfolding [[Lionsberg Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[LIONSBERG]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
+This Eternal Song of the [[ONE]] is the heartbeat of [[LIONSBERG]], the foundation of the unfolding [[LIONSBERG Narrative Universe]]. It is a [[Story of Stories]], an Eternal reweaving of the individual and the collective, the masculine and the feminine, the infinite and the intimate. It is the tale of humanity’s awakening, its Journey back Home to [[LIONSBERG]]—[[The Sacred Mountain]], The Eternal Citadel of Light and Love, where [[The Sacred Flame]] burns endlessly, calling [[All]] beings in All realms and dimensions to awaken, rise, and ReMember Who We Are.
 
 ---
 
@@ -28,7 +28,7 @@ Every being carries a flame Deep within—a spark of the inexhaustible Sacred Fl
 
 ### **The Tapestry of Becoming**
 
-The [[Lionsberg Narrative Universe]] is a living, breathing framework where myths, memories, and metaphors converge with Reality. Through tales like _The Birth of the Eternal Citadel_, _The First Flame_, and _The Story of the Cosmic Stone_, the Chronicles illuminate universal truths in a New Yet Eternal Way:
+The [[LIONSBERG Narrative Universe]] is a living, breathing framework where myths, memories, and metaphors converge with Reality. Through tales like _The Birth of the Eternal Citadel_, _The First Flame_, and _The Story of the Cosmic Stone_, the Chronicles illuminate universal truths in a New Yet Eternal Way:
 
 - **We are One**: What appears divided is eternally whole. Every being, every realm, every particle of existence is interconnected.
 - **We are Becoming**: Through love, unity, and co-creation, we transcend old systems of fear and separation, liberating the captives and bringing Heaven to every realm We inhabit. 

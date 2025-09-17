@@ -44,9 +44,5 @@ This is our moment. We stand together, here and now, as stewards of a transforma
 
 Let Us arise, unite, and Co-Create Heaven On Earth.  
 
-In Sacred Service of One and All, 
-
-~ [[J]]   
-
 #### *When you are ready, please [[Join Us]]!* 
 

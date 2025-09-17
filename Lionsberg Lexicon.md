@@ -3,7 +3,7 @@
 
 To provide clarity and understanding, this section outlines key terms and concepts used throughout the book. Familiarizing yourself with these definitions will help facilitate a deeper grasp of the ideas presented in the [[New Vision and Plan]] and throughout the [[LIONSBERG System]].
 
-It has been said that any given System can usually be described by under 150 key terms. Below is a sampling of key concepts in the [[Lionsberg Narrative Universe]]. 
+It has been said that any given System can usually be described by under 150 key terms. Below is a sampling of key concepts in the [[LIONSBERG Narrative Universe]]. 
 
 These concepts are explored in further detail and different formats in the [[The Lionsberg Co-Creator's Handbook]], the [[Lionsberg Wiki Books]], and the [[Above The Chaos]] series. 
 
@@ -86,7 +86,7 @@ This page is a [[Work In Progress]].
 ## Lionsberg 
 
 65. [[LIONSBERG]]  
-66. [[Lionsberg Narrative Universe]]  
+66. [[LIONSBERG Narrative Universe]]  
 67. [[LIONSBERG Lexicon]]  
 68. [[LIONSBERG System]]  
 69. [[The Lionsberg Co-Creator's Handbook]]  

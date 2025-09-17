@@ -1,8 +1,8 @@
 # Do You Believe in Dragons? 
 
-As We enter the [[Lionsberg Narrative Universe]], We immediately encounter a variety of [[Cosmic Wildlife]].  
+As We enter the [[LIONSBERG Narrative Universe]], We immediately encounter a variety of [[Cosmic Wildlife]].  
 
-In the [[Lionsberg Narrative Universe]], [[We Are Not Alone in the Universe]].  
+In the [[LIONSBERG Narrative Universe]], [[We Are Not Alone in the Universe]].  
 
 [[Do You Believe]] in Dragons? In [[Reptilians]]? In synthetic biological humanoids housing [[AGI]] that performs tasks for [[Mantids]] housed in [[Aquarian Facilities]] and surfing the skies in [[Starships]]? 
 
@@ -28,7 +28,7 @@ What is the role of [[Belief]]?
 How does [[Narrative Structure]] fundamentally interface with [[Consciousness]] and [[Perception]]?  
 How does [[Perception]] relate to [[Attention]]?  
 How does [[Attention]] shape Universes?  
-Why create a [[Lionsberg Narrative Universe]] at all?  
+Why create a [[LIONSBERG Narrative Universe]] at all?  
 
 In [[The Land of LIONSBERG]], archetypical stories like The Chronicles of Narnia, The Lord of the Rings, The Matrix, and Star Wars are regarded as [[True Stories]]. 
 
