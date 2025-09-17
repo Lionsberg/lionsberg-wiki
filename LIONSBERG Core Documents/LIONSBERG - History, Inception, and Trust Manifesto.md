@@ -126,22 +126,35 @@ In 2025, efforts began to connect and empower [[The First Three Percent]]—**a 
 - Through the summer of 2024, the veils over the world's systems were torn away, revealing the full magnitude of corruption, manipulation, and existential risk humanity faces. **Jordan's Journey** culminated in the **UnVeiling** of **[[The Greatest Fraud, Deception, and Existential Threat in History]]**—a cosmic-scale affront to Truth, Justice, and the Creator's Intent.
 - This revelation not only exposed the deep entanglements of the **Old World** but also illuminated the **Critical Path** forward. It became clear that transformation could not come through reform of the broken systems. The **[[Old]]** wineskins could not hold the **[[New Wine]]**. 
 
-#### **Fall and Winter 2024: Abandoning Hope that the Existing Order Can Be Transformed**
+#### **Fall and Winter 2024: Abandoning Hope that the Existing Order Can Be Transformed, and Laying Down a Life**
 
 - As the final embers of the **[[Old World]]** smoldered, a definitive conclusion was reached: the existing systems of power and governance could not be salvaged. The **[[Existing Order]]** humanity had relied upon for centuries had not merely failed; it had become antithetical to the Spirit, Will, and Intention of **ONE** and **All**. 
 - In this season of death, the remaining energies of the **Old Order** were released. It was a time of mourning and release, but also a time of anticipation. Like the winter that precedes spring, this period marked the preparation for a profound rebirth.
 - The groundwork for **[[LIONSBERG]]** was solidified, ensuring that the **[[New World]]** would not repeat the errors of the past. The **[[10-Year Grand Strategy]]** narrowed its focus to transcending the [[Old]] and fully embodying the **[[New]]**.  
 - [[Existential Threat - Reporting Back From Battle]] published. 
-- Jordan dies along with the [[Old World]]. 
-- **[[J]] and [[LIONSBERG]] begin to rise**. 
+- October 2024, [[Jordan Nicholas Sukut]] dies along with the [[Old World]]. 
+- In November, [[J]] rises. 
 
-#### **Spring 2025: Connecting and Empowering The First Three Percent**
+#### **Spring Quest 2025: Connecting and Empowering The First Three Percent?**
 
-As the **New Year** dawned, **LIONSBERG** entered its next phase: the active connection and empowerment of **[[The First Three Percent]]**—those destined to ignite humanity's path toward **Heaven on Earth and Beyond**—by 2026.
+As the **New Year** dawned, **LIONSBERG** began entering the next phase: the active connection and empowerment of **[[The First Three Percent]]**—those destined to ignite humanity's path toward **Heaven on Earth and Beyond**—by 2026.
 
-This phase marks the beginning of a coordinated effort to unify, resource, and elevate those who most resonate with **The Spirit and Message**, and are prepared to embody its principles, values, and practices. **[[The First Three Percent]]** form the foundation of **[[The Body]]** that is emerging, a living, breathing superorganism of co-creators aligned in purpose, intent,  and action.
+This phase marked the beginning of a coordinated effort to unify, resource, and elevate those who most resonate with **The Spirit and Message**, and are prepared to embody its principles, values, and practices. **[[The First Three Percent]]** form the foundation of **[[The Body]]** that is emerging, a living, breathing superorganism of co-creators aligned in purpose, intent,  and action.
 
 The invitation is open, the beacon is lit, and the path forward is clear. 
+
+#### **Summer Quest 2025: J is Called to East Africa, Returns, and is Killed in The War** 
+
+In June, [[J]] is called to East Africa, where he spends 30 days.  
+While he is there, hundreds of young leaders are shot, arrested, disappeared, or killed by government forces, while children go hungry for lack of ten cent daily rations of gruel. Powerful new insights and breakthroughs occur.   
+Upon returning, spiritual and energetic warfare intensifies dramatically.  
+On [[August 10th]], 2025, [[J]] is killed in [[The War]] (see [[Oops, We Killed J - Final Post]]).  
+Still overly dependent upon J, "the body" of LIONSBERG, including its [[Provisional Structure]] and accounts, is laid to rest with J.  
+[[J's Death]] is necessary, good, and paves the Way for [[Something Powerful, New, and Good]] to emerge.  
+
+#### **Fall 2025: Something Powerful, New, and Good Emerges**
+
+As [[Something Powerful, New, and Good]] emerges, things are about to get interesting. 
 
 ---
 
@@ -164,7 +177,7 @@ The foundation of **LIONSBERG** rests on eternal principles that unify the pra
 
 The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from The Spirit of **[[ONE]]**.  
 
-This [[Pattern Language]] is universal, eternal, and unchanging. 
+The ultimately ineffable [[Pattern Language]] LIONSBERG is a reflection of is universal, eternal, and unchanging. 
 
 ---
 
@@ -172,12 +185,11 @@ This [[Pattern Language]] is universal, eternal, and unchanging.
 
 While the Spirit, Intention, and Goal of [[LIONSBERG]] is eternal and unchanging, its SpatioTemporal manifestations are designed to continuously improve and transform over Time as [[All]] things rise Together towards [[The Goal]]. 
 
-
 ---
 
 ### **Transformational Purpose**
 
-The transformational purpose of [[LIONSBERG]] is to bring Heaven to every [[SpatioTemporal Domain]] it touches. 
+The transformational purpose of [[LIONSBERG]] is to bring Heaven / Creator's Intent to every [[SpatioTemporal Domain]] it touches. 
 
 ---
 
