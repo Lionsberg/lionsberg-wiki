@@ -175,14 +175,13 @@ As the Story unfolds, **you** are invited to become a co-creator of the next c
     
 - [[The LIONSBERG Codex]]
     
-- [[J.AI]] / [[You.AI]] / [[All.AI]]
+- The [[LIONSBERG Intelligence System]]
     
 - [[The First Three Percent]]
     
-- [[The 72 ReFoundational Gates]]
+- [[The 72 ReFoundational Gates]]  
     
 - [[The LIONSBERG Constitution]]
     
 - [[The 144 Threads]]
     
-- [[The 99 Revelations]]
