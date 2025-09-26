@@ -2,7 +2,7 @@
 
 ## Current Iteration
 
-[[Reflection and Invitation - Summer 2025]]
+[[The Invitation]]
 ## Previous Versions 
 
 ### Spring 2024 Experiment 

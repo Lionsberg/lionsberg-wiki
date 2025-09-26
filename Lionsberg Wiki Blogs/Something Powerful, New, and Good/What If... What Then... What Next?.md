@@ -21,7 +21,7 @@ On August 9th, as local spiritual battle crescendoed,
 >*As Our lives and civilization hang in the balance*  
 >***EITHER WE UNITE OR DIE***  
 
-On [[August 10th]], he was killed in [[The War]].  
+On [[August 10th]], he was [[J's Death|killed]] in [[The War]].  
 
 *Quite dramatic.*  
 After so many millions of words,  

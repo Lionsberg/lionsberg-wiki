@@ -1,7 +1,9 @@
 # The Great UnVeiling
 _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
-*This is a [[Work In Progress]] scheduled for completion Summer 2025*  
+*This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]*.  
+
+*Because The Great UnVeiling was occurring through thousands of voices around the world, it happened on schedule nonetheless.*   
 
 ## **FRONT MATTER**
 

@@ -17,3 +17,5 @@
 - [[A New Beginning From The Other Side Of Death]]   
 
 ## August 10, 2025... Another New Beginning  
+
+- This series picks up where [[Above The Chaos]] left off
