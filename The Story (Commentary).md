@@ -1,4 +1,4 @@
-# The Story
+# The Story (Commentary)
 
 [[Consciousness]] fundamentally lays itself out in narrative structure. 
 

@@ -14,10 +14,10 @@ You have entered a living work — a sacred experiment in becoming —
 The Co-Creation of a **New Civilization**.
 
 You do not walk alone.  
-Across the Earth — and far Beyond — countless others are awakening,  
-Hearing the same Call,  
-Feeling the same Longing,  
-Taking the same Step.
+Across the Earth — and far Beyond — 
+Countless others are awakening,  
+Rising like sparks of The Sacred Flame,  
+Each carrying their part of the Divine Fire forward.
 
 This is the **First Step** of your **Sacred Quest**.  
 From here, and with every step into **Our Shared Future**  

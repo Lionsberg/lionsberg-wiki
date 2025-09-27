@@ -31,7 +31,7 @@ And with the ONE from which All things arise.
 ---
 
 This is the **Invitation to Freedom**.  
-The **Invitation to leave the Caves of Captivity**.  
+The **Invitation to step out of the Caves of Captivity and into the Light of Liberty**.
 The **Invitation to Remember Who You Are**.  
 The **Invitation to join with All Who Are Rising**.  
 The **Invitation to Co-Create what always was and always shall be**:  
@@ -66,4 +66,4 @@ What We do Together now echoes into Eternity._
 
 _____
 
-Now, let Us lead you through the **First Door of Acceptance and Commitment**: [[The Covenant]]  
+Now, let Us lead you through the **First Door of Acceptance and Commitment**: **[[The Covenant]]**  

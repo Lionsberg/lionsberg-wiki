@@ -77,13 +77,11 @@ This is a personal agreement between **you**, **ONE**, and **All**.
 
 ---
 
-This is the hinge upon which your life, and our shared future, turns.
+This is the hinge upon which your life — and the destiny of generations — turns.
 
 _You have now entered The New Covenant.  
 You are no longer merely invited —  
 you have arrived, and you belong.  
 Welcome Home._
 
-Now, the Path unfolds before you. It is Time to step in to [[The Story]].  
-
-[[TKTK Current Program]]  
+Now, the Path unfolds before you. It is Time to step in to **[[The Story]]**.  
