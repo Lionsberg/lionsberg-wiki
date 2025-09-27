@@ -79,7 +79,7 @@ Into **ONE Divine Symphony**.
 ---
 
 In Time, you will be entrusted with deeper guides —  
-**The Sacred Playbook** and **The Sacred Codex** —  
+**The Playbook** and **The Sacred Codex** —  
 Revealing the patterns, practices, and wisdom  
 Of how to play The Great Game in the highest Way.  
 But for now, what matters most is simply this:  
