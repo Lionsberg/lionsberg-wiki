@@ -1,6 +1,7 @@
-# The Great Game of Lionsberg
+# The Great Game of LIONSBERG (Old)
 
-By [[Jordan Nicholas Sukut]] 
+For current version see [[The Great Game of Lionsberg]]
+
 
 Jordan left this as a [[Work In Progress]].  
 ## Section I: Introduction
