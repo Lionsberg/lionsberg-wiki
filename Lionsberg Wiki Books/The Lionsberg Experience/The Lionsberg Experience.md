@@ -64,6 +64,8 @@ _The Outer Court — The Gates of Entry_
     
 - **[[The Threshold]]** — First crossing into the Experience.
     
+- **[[The Journey Ahead]]** — A preview and map of what lies ahead. 
+    
 - **[[The First Step]]** — Orientation of heart.
     
 - **[[The Invitation]]** — Call into the Story.

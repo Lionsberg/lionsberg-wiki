@@ -32,27 +32,25 @@ Of a Future and a Hope worthy of our Divine Origins and Destiny.
 
 ---
 
-On the other side of **The Gate** you will find:
+**On the other side of The Gate**  
+lies an unfolding Path:  
+A Call. A Story. A Covenant. A Way.  
+A Strategy and a Symphony.  
+A System and a Game. 
+The living architecture of a New Civilization,  
+and the pragmatic Pathway towards it. 
 
-- **The Invitation** — the Call to Remember and Rise.
-    
-- **The Story** — the Narrative Universe for Our Common Journey.
-    
-- **The Strategy** — the Map through Collapse toward Renewal.
-    
-- **The System** — the Sacred Architecture of the New Civilization.
-    
-- **The Way** — the Path of Transformation and Mastery.
-    
-- **The Game** — the Joyful, Perilous Quest to embody it together.
-    
+You cannot yet see it all.  
+But each Gate will open in its Time.  
+Each Step will reveal what you need.  
+Each Move will draw you deeper into the Great Work.
 
 At last, the long-foretold moment has come.  
 The future of Earth — and far beyond — 
 Has been waiting for _this_ moment, and for _you_.  
 Now, the Gate stands open — and the choice is yours alone.
 
-## **[[The First Step|Cross The Threshold]]**
+## **[[The Journey Ahead|Cross The Threshold]]**
 
 ---
 
