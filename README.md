@@ -2,7 +2,7 @@
 *A Living Path towards the New Civilization*
 
 At long last,  
-You have arrived.  
+You have arrived at the Gates of LIONSBERG.  
 Not by accident. Not by chance.  
 You were summoned.  
 You were chosen.  
@@ -27,8 +27,7 @@ _And you are invited to Play._
 
 LIONSBERG is a **Living Framework** —  
 designed to help humanity rise together,  
-regenerate Earth, and co-create a New Civilization.
-*Before the Old collapses.*  
+regenerate Earth, and co-create a New Civilization — before the Old collapses.
 
 It is built to be **simple enough for one soul to begin**,  
 yet **vast enough to hold Us All**.
@@ -69,7 +68,7 @@ From there, the Playbook and Codex open, guiding us in rhythm, season, and strat
 
 The stakes are nothing less than the destiny of Earth and all its inhabitants:
 
-- Life or death for civilizations and ecosystems.
+- Life or death for civilizations and the living fabric of Earth.
     
 - Freedom or bondage for generations unborn.
     
@@ -103,6 +102,18 @@ As you walk the Path, the full LIONSBERG Experience unfolds:
 - **Replication & Renewal** — spreading the Pattern in every place.
     
 
+What lies before you is not a scroll to skim, but an initiation.   
+These words are not merely information;  
+they are fire, water, Spirit and stone —  
+living tools that will reshape you as you walk.  
+
+Take your time. Move slowly.  
+Every Gate builds the foundation for what follows.  
+Before the Hourglass turns,  
+you will emerge from The Gates  
+with a Story, a Circle, a Quest, and a Playbook —  
+and that is enough to change your life forever.
+
 There is no prior experience required.  
 You do not need to know it all.  
 You only need to begin.  
@@ -110,11 +121,16 @@ You only need to begin.
 ## **Benediction**
 
 Go now with courage.  
+In the name of ONE and All.  
 The Gate stands open before you.  
 The Symphony of Creation waits for your note.  
 The Great Game of LIONSBERG has begun.
 
-*You are here for a reason.*
-*The world is waiting for your move.*
+_There is Another Way._  
+_You are here for a reason._  
+_The world is waiting for your move._
+
+Step forward.  
+And let All Creation rise with you.
 
 👉 **[[The Threshold|Enter The Threshold →]]** 
