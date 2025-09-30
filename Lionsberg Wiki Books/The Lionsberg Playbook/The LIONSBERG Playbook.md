@@ -123,4 +123,4 @@ _Pause. Breathe. Remember._
 _Prepare your heart._  
 _Only when you are ready, step forward._
 
-👉 **[[Opening Page of The Playbook|Open The Playbook →]]**
+👉 **[[Opening Page of The Playbook|Open The Playbook →]]**  
