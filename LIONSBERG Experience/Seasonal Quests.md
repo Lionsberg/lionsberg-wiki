@@ -8,7 +8,7 @@ From seedtime to harvest, from solstice to solstice,
 All of Creation moves in cycles and Seasons.
 
 To live outside this Rhythm is to drift and scatter.  
-To live within it is to align with the heartbeat of Heaven and Earth.
+To live within it is to align with the heartbeat of Heaven on Earth.
 
 This is why We do not act at random.  
 We move in together in **Seasonal Quests**—  
@@ -40,6 +40,7 @@ each turning bringing Heaven a little nearer to Earth.
 
 This Rhythm does not belong to Us alone.  
 It is the rhythm of the stars,  
+the rhythm of the water,  
 the rhythm of the soil,  
 the rhythm of birth and death and life reborn.
 
@@ -61,24 +62,25 @@ At the Threshold of each new Season, the Body pauses to listen:
 - What is the next Wise Right Step toward The Goal?
     
 
-This sacred pause is the time of **Omnispection**—  
+This sacred pause is the time of **OmniSpection**—  
 a moment to rise up and see All,  
-before stepping faithfully into Our Part.
+from as close to the perspective of the ONE as We can,  
+before stepping faithfully into Our Part of the Divine Play.
 
-It is the rhythm of Navigation,  
-the pulse of Wise Action, 
-the essence of Self-Governance.
+It is the rhythm of **Navigation**,  
+the pulse of **Wise Right Action**,  
+the essence of **Self-Governance**.
 
 Each Individual discerns the Way.  
 Each Circle listens, weaves, and aligns.  
 Each Guild answers the Call in its own language and form.  
 Each Community is strengthened and renewed.  
-With each Season, Our Culture and Living System are regenerated.  
+With each Season, Our Culture and Living System are strengthened.  
 
 Some Quests will be quiet.  
 Some will be bold.  
 Yet together, they form a single Movement—  
-One Body, One Rhythm, One Story.
+One Body, One Rhythm, One Story.  
 Advancing Together towards The Goal. 
 
 ---
@@ -90,13 +92,13 @@ We breathe.
 We remember.  
 We realign.  
 We recommit.  
-We sense. 
+We sense.  
 We discern.  
 We weave.  
 We act.  
 We reflect.  
-We return.
-We complete the Circle. 
+We return.  
+We complete the Circle.  
 We begin anew.  
 
 **This is how Faithfulness is trained.**  
@@ -106,7 +108,7 @@ We begin anew.
 
 ---
 
-When the Season turns:
+So when the Season turns:
 
 - Gather your Circle.
     
@@ -114,7 +116,7 @@ When the Season turns:
     
 - Listen for **[[The Story of the Season]]**.
     
-- Engage in shared **[[Omnispection]]**.
+- Engage in shared **[[OmniSpection]]**.
     
 - Discern your **Seasonal Quest** and share **Your Story**.
     
@@ -125,7 +127,8 @@ When the Season turns:
 
 Whether your Quest is humble or heroic,  
 it becomes a verse in the Song of Renewal—  
-a heartbeat in the Body of the New Civilization.
+a **Heartbeat** in the **Body** of the **New Civilization**  
+emerging through Us.
 
 ---
 
@@ -136,7 +139,8 @@ Feel the Presence of the ONE permeating every cell of your body.
 Feel the Heartbeat of the Season quickening within you.
 
 You are not alone.  
-Wherever you are, others are listening also—  
+Wherever you are,  
+others are listening also—  
 in the same Spirit,  
 in the same Time,  
 drawn into the same Living Rhythm.
@@ -154,11 +158,13 @@ The scattered are becoming Symphony.
 The Symphony is becoming Light.  
 The Light is becoming New Life.  
 The New Life is becoming Love made visible.  
-And Love made visible is becoming The World To Come.
+And Love made visible is becoming the **World To Come**.
 
-The Next Gate is [[The Great Convergence and Goal]]—  
+The Next Gate is **The Great Convergence and Goal** —  
 the gathering of all sparks into One Flame,  
 the alignment of all Paths into One Destiny.  
-It is the final step before [[The Great Game of Lionsberg]],  
+It is the final step before **The Great Game of Lionsberg**,  
 where all Roles, Circles, Quests, and Seasons  
 are revealed as One coherent Way of Life, Love, Work, and Play.
+
+Onward, to **[[The Great Convergence and Goal]]** 
