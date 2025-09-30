@@ -146,7 +146,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIONSBERG Playbook
 
-[[The Lionsberg Playbook]]  
+[[The LIONSBERG Playbook]]  
 
 ## 11. Polycentric Localization, Adaptation, and Instantiation
 

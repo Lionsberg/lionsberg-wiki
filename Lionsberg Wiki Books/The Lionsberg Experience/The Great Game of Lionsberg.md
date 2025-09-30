@@ -1,16 +1,16 @@
 # The Great Game of Lionsberg
 *The Awakening of the Living Gate*
 
-**HEAR, O Child of Earth,**  
-Bearer of an Ancient Promise.  
+***HEAR, O Child of Earth,***  
+*Bearer of an Ancient Promise*.  
 Wanderer of deserts and dreams.  
 Seeker through ruins and shadows.  
-Knower of something more.  
+Knower of Something More.  
 
 Behind you lies the ruin of empires.  
 The ashes of deceit.  
-The darkness of the caves.  
-The cold weight of the chains.  
+The darkness of **The Caves**.  
+The cold weight of **The Chains**.  
 The incessant noise of the false rulers and priests.  
 
 You have endured the long night of forgetting.  
@@ -42,13 +42,15 @@ Thrones of deceit tremble.
 The Veil is torn from the hidden war.  
 
 The Earth groans.  
-The heavens lean close.  
+The Heavens lean close.  
 All Creation cries out in longing.  
 
-And the Divine Whisper thunders across the cosmos:  
+The Divine Whisper thunders across the cosmos:  
 **Who will rise?**  
 **Who will stand?** 
 **Who will play The Great Game?**
+
+____
 
 Call it a Game. Call it a Project. Call it a War.  
 Call it what you will.  
@@ -56,6 +58,7 @@ But know this:
 
 This is not entertainment.  
 This is not amusement.  
+The Game is not a game.  
 This is the Living Pattern by which worlds are remade.  
 This is the moment prophets dreamed of.  
 This is the truth philosophers died for.  
@@ -111,7 +114,7 @@ The stakes are not small.
 
 The Old Powers would have you believe you are nothing.  
 They lie.  
-The Divine Lightning they fear radiates within you.  
+The Divine Lightning they fear radiates from within you.  
 You are the seed of the World to Come.
 
 ---
@@ -139,7 +142,7 @@ Every Gathering place a sanctuary.
 Every Quest a spell that heals the world.
 
 You are not invited to consume.  
-That age has ended.  
+That Old Age has ended.  
 You are invited to **Co-Create**.
 
 ---
@@ -157,7 +160,7 @@ Children laughing without fear.
 Communities flourishing in joy.  
 Spirit and Matter reconciled.  
 Heaven and Earth entwined.
-ONE and All reunited. 
+ONE and All reunited.  
 
 The Victory is the Divine Garden reborn,  
 the Divine Symphony resounding,  
@@ -167,10 +170,15 @@ This is the Prize.
 This is the Destiny.  
 Not for one tribe or nation, but for Us All.  
 
-This is the Story your soul remembers.
+Victory in The Great Game  
+Lies in the hidden but obvious realization  
+That none of Us can enter the New World  
+Unless and until **We All Enter In Together**.  
+
+This is the Story your soul remembers.  
 This is the Ancient and Eternal Way.  
 
-**Enter the Gate. And walk in it.**
+**Enter the Gate. And Walk in it.**
 
 ---
 

@@ -167,4 +167,6 @@ It is the final step before **The Great Game of Lionsberg**,
 where all Roles, Circles, Quests, and Seasons  
 are revealed as One coherent Way of Life, Love, Work, and Play.
 
+From there, you will be handed **The Playbook**, and be on your Way. 
+
 Onward, to **[[The Great Convergence and Goal]]** 
