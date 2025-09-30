@@ -119,7 +119,7 @@ Now that you are settling into life [[Beyond The Boundary]] as a [[Sovereign]] a
 
  ...it is time to begin Being and Doing in Community. 
  
-[[The Lionsberg Experience]] is designed to help guide you through this over the course of your first quarter.
+[[The LIONSBERG Experience]] is designed to help guide you through this over the course of your first quarter.
 
 In general, your first quarter will consist of getting your feet on the ground, discovering how to be and become, articulating [[Your Story]], deciding what to do, forging or joining a team, and lining up your first [[Quarterly Quest]]. 
 ### Discovering How to Be and Become 
@@ -306,7 +306,7 @@ You are the Author of [[(Y)Our]] Future. [[You Are The First Agent]].
 
 [[There Is No Them]] "out there". We are responsible, together, for every aspect of our existence, flourishing, and success, for our Selves, and for All. 
 
-[[The Lionsberg Experience]] aims to continually meet every individual, team, and locality right where they are on the [[Path]], and help them stay in the [[Zone Of Optimum Development]] that empowers them to rise towards the fullness of their unique potential. 
+[[The LIONSBERG Experience]] aims to continually meet every individual, team, and locality right where they are on the [[Path]], and help them stay in the [[Zone Of Optimum Development]] that empowers them to rise towards the fullness of their unique potential. 
 
 ### Personal Development 
 

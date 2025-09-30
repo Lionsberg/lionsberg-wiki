@@ -24,7 +24,7 @@ It simply requires that enough people *believe*.
 	1. Invitation  
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
-- After 3 years of membership and progress through [[The Lionsberg Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.   
+- After 3 years of membership and progress through [[The LIONSBERG Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.   
 - Initial Target: connect and empower 3% of the world's population / 40 [[Lionsberg Cycles of Growth]] / 267 Million People by 2026.   
 ## Cycles of Expansion 
 
@@ -114,7 +114,7 @@ Additional items for continuous improvement:
 - [[The Message]]  
 - [[The Story]]  
 - [[The Invitation]]  
-- [[The Lionsberg Experience]]  
+- [[The LIONSBERG Experience]]  
 
 
 ## Retrospection and Continuous Improvement 

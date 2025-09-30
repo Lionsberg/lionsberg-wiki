@@ -419,9 +419,9 @@ The [[10 Year Grand Strategy]] is composed of [[The 7 Year Window of Crisis and 
 
 ...and [[The 3 Year Lag]], which is the approximate amount of time it will take for each of us to heal, learn, reorient, and feel truly connected, empowered, and supported as an equal member and Citizen in the [[New World]]. 
 
-Every Individual who Joins The Movement will be invited to set their feet on a path of healing, growth, development, and co-creation via [[The Lionsberg Experience]]. After approximately 3 years and the successful completion of all orientation and onboarding requirements, and successfully demonstrating their commitment to embodying and enacting the Spirit and Values of the [[New Vision and Plan]], each individual will earn their [[New Citizenship]]. 
+Every Individual who Joins The Movement will be invited to set their feet on a path of healing, growth, development, and co-creation via [[The LIONSBERG Experience]]. After approximately 3 years and the successful completion of all orientation and onboarding requirements, and successfully demonstrating their commitment to embodying and enacting the Spirit and Values of the [[New Vision and Plan]], each individual will earn their [[New Citizenship]]. 
 
-The youth of Earth will be invited to begin [[The Lionsberg Experience]] when they turn 15 years old, such that they graduate into their [[New Citizenship]] at 18 years old. 
+The youth of Earth will be invited to begin [[The LIONSBERG Experience]] when they turn 15 years old, such that they graduate into their [[New Citizenship]] at 18 years old. 
 
 This enables the Orientation and Onboarding into the New Pattern Language to continue indefinitely into the future, ensuring that every child born is fully connected, prepared, and empowered for positive participation, self-governance, and co-creation in the [[New Era]]. 
 ## Why A Named System? Why Not Merely A Pattern, Coupled With Templates and Tools? 

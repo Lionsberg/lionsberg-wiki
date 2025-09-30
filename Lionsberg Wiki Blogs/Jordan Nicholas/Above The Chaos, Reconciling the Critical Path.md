@@ -215,7 +215,7 @@ Bucky's Notes:
 Jordan's Notes: 
 
 - The Lionsberg System addresses this by viewing the comprehensive healing, enlightenment and education of humanity as a objective to be systematically and measurably undertaken. 
-- Each "epiphany", learning, or unlearning that needs to occur can be structured into [[The Lionsberg Experience]] at the wise right time. 
+- Each "epiphany", learning, or unlearning that needs to occur can be structured into [[The LIONSBERG Experience]] at the wise right time. 
 - The most crucial learnings and understandings can be included in the first 3 year period that precedes Citizenship in the (New System). 
 ## Divide and Conquer by Existing Power Structures
 
