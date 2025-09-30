@@ -140,9 +140,9 @@ The Playbook is the **practical guide**: how to actually play the Great Game in
 
 - **[[The LIONSBERG Playbook]]** — The mythic opening.
     
-- **[[Opening Page of the Playbook]]** — First activation.
+- **[[Opening Page of The Playbook]]** — First activation.
     
-- **[[The Architecture of the Playbook]]** — The map of its Seven Books.
+- **[[The Architecture of The Playbook]]** — The map of its Seven Books.
     
 - **Quick Start Kit** — One-page orientation + tools.
     
