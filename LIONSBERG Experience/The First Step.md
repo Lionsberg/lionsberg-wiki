@@ -13,7 +13,7 @@ Rest, ReOrient, and ReMember.
 
 This is no ordinary journey.  
 You have entered a living work —  
-a sacred experiment in becoming —  
+a sacred experiment in **Becoming** —  
 The Co-Creation of a **New Civilization**.
 
 You do not walk alone.  
@@ -23,21 +23,15 @@ Rising like sparks of The Sacred Flame,
 Each carrying their part of the Divine Fire forward.
 
 This is the **First Step** of your **Sacred Quest**.  
-From here, and with every step into **Our Shared Future**  
-You are the One that must choose your **Path**:
+Ahead lie countless challenges, obstacles, and choices.  
+In each moment, The Story transforms  
+With the decisions of trillions of conscious agents,  
+Each illuminating and eliminating Pathways.  
 
-- **[[The Invitation]]** — hear the Call to ReMember and Rise.
-    
-- **[[The Story]]** — glimpse the Great Drama in which We All play Our part.
-    
-- **[[The Great Game]]** — begin your Quest, and join others already playing.
-    
-
-There is no wrong **Choice**.  
-Each door leads deeper into the same **Mystery**.  
+For now The Gates ahead are clear.  
+Each is a door leading deeper into the same **Mystery**.  
 The important thing is simply this:  
 You have begun.
 You are now on **The Journey**.
 
-If you are unsure of the Wise Right Next Step,  
-Let Us guide you to **[[The Invitation]]**.  
+**Your Next Step** will carry you forward to **[[The Invitation]]**.  
