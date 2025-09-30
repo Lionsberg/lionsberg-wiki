@@ -3,20 +3,24 @@ _An Orientation for Pilgrims of the New Civilization_
 
 You have crossed The Threshold.  
 The Gate has closed behind you.  
-Before you lies a Path into the Unknown — 
+The chaos and cacophony of the Old World fade.  
+Finally, a moment to breathe.  
+
+Before you lies a Path into the Unknown —  
 Winding, perilous, luminous.  
 The thrill of adventure calls.  
 This is no casual stroll.  
 It is an **Initiation**.
 
-What you will encounter in the coming hour is not merely text.  
+What you will encounter on the pages ahead is not merely text.  
 It is architecture.  
 It is story.  
 It is covenant.  
 It is training.  
 Each page a Gate.  
 Each Gate a step.  
-Each step a shaping fire, drawing you deeper into the Great Work.
+Each step a refining fire,  
+Drawing you deeper into the Great Work.
 
 ---
 
@@ -26,7 +30,8 @@ We live at the hinge of history.
 Old systems collapse. New ones struggle to be born.  
 This is not a time for bystanders.  
 It is a time for Players. Practitioners. Protagonists.  
-The initiatory Journey ahead will prepare you for your role.
+The initiatory Journey ahead will prepare you for your role  
+In the renewal of Earth and the Co-Creation of the New Civilization.
 
 In the space of a single hour, you will be:
 
@@ -40,11 +45,11 @@ In the space of a single hour, you will be:
     
 - Called to your first Quest.
     
-- At last, **gifted the Playbook — the living Guide to the Way.**
+- And at last, **gifted the Playbook — the living Guide to the Way.**
     
 
 By the end, you will stand not as an onlooker,  
-but as a principal Participant in **The Great Game**.
+but as a Protagonist in **The Great Game**.
 
 ---
 
@@ -67,7 +72,7 @@ each requiring your attention, imagination, and heart.
 Many Pilgrims pass through The Gates in less than an hour.  
 But however long it takes,  
 if you give yourself fully,  
-that hour may change your life.
+the gift of that time may change your life.
 
 ---
 
@@ -81,7 +86,7 @@ that hour may change your life.
     
 - Move steadily, page by page.
     
-- Do not rush. Do not linger. Trust the rhythm.
+- Do not rush. Do not linger. Trust the rhythm. Follow the flow.  
     
 
 Each Gate builds on the one before it.  
@@ -124,4 +129,4 @@ Stay faithful.
 The Symphony of Creation waits for your note.  
 The Great Game of LIONSBERG has already begun.
 
-👉 **[[The First Step →]]**
+👉 **[[The First Step|The First Step →]]**

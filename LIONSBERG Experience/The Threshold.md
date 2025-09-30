@@ -22,7 +22,7 @@ _There is no going back._
 
 Enter, and you join the living work of co-creating a **New Civilization**.  
 A realm reharmonized with the Eternal Wisdom, Principles, and Values  
-That cause All Creation to flourish in harmony with ONE.
+That cause All Creation to flourish in harmony with the **ONE**.
 
 This is not merely a book.  
 This is not merely a website.  
@@ -36,9 +36,9 @@ Of a Future and a Hope worthy of our Divine Origins and Destiny.
 lies an unfolding Path:  
 A Call. A Story. A Covenant. A Way.  
 A Strategy and a Symphony.  
-A System and a Game. 
+A System and a Game.  
 The living architecture of a New Civilization,  
-and the pragmatic Pathway towards it. 
+and the pragmatic Path towards it. 
 
 You cannot yet see it all.  
 But each Gate will open in its Time.  

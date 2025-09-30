@@ -46,13 +46,14 @@ _The Cathedral of Awakening, Embodiment, and Co-Creation_
 
 ## **The Grand Arc**
 
-Every soul who enters LIONSBERG is invited into a living journey that unfolds through five great movements:
+Every soul who enters LIONSBERG is invited into a living journey that unfolds through **seven great movements**:
 
-**Arrival → Initiation → Embodiment → The Sacred Ascent → The Sacred Codex & Reference → Replication & Renewal**
+**Arrival & Invitation → Initiation Into The Game → Embodiment (Playbook) → The Sacred Ascent (The Way) → The Sacred Codex → The Reference Library → Replication & Renewal**
 
-Each movement corresponds to a wing of the Cathedral: vast, resonant, alive with Song.  
-Each contains Gates, Quests, and Mysteries that unfold step by step, just in time.  
-Together, they form a _total architecture of transformation_.
+Each movement is like a wing of a Cathedral: vast, resonant, alive with Song.  
+Each contains Gates, Quests, and Mysteries that open step by step, just in time.  
+Together, they form a _total architecture of transformation_ —  
+a Pathway from confusion into clarity, from isolation into community, from fragmentation into ONE.
 
 ---
 
@@ -83,8 +84,9 @@ _The Nave — The Awakening of Players_
 
 - **[[The Great Game]]** — Orientation to the whole.
     
-- **[[The Great Game of LIONSBERG]]** — Mythic entry into the Living Gate.
-    
+
+**The Four Foundations of Play**
+
 - **[[Your Role in the Story]]** — Discovering your part.
     
 - **[[Circles and Guilds]]** — First structures of community.
@@ -93,11 +95,19 @@ _The Nave — The Awakening of Players_
     
 - **[[Your First Quest]]** — First embodiment in action.
     
+
+**The Rising Convergence**
+
 - **[[The Mission]]** — The collective convergence.
     
 - **[[Seasonal Quests]]** — Living in rhythm with Creation.
     
 - **[[The Great Convergence and Goal]]** — The Vision of fulfillment.
+    
+
+**The Climactic Reveal**
+
+- **[[The Great Game of LIONSBERG]]** — Where all foundations converge into one coherent Way of Life, Work, and Play.
     
 
 ---

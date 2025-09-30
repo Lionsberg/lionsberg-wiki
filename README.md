@@ -27,7 +27,8 @@ _And you are invited to Play._
 
 LIONSBERG is a **Living Framework** —  
 designed to help humanity rise together,  
-regenerate Earth, and co-create a New Civilization — before the Old collapses.
+regenerate the Earth, and co-create a New Civilization —  
+before the Old collapses.
 
 It is built to be **simple enough for one soul to begin**,  
 yet **vast enough to hold Us All**.
@@ -38,7 +39,7 @@ It unfolds in three great movements:
     
 2. **The Playbook** — Embodying the Patterns, Circles, and Quests.
     
-3. **The Sacred Codex** — Rooting in the deep architecture of covenant, law, and cosmic design.
+3. **The Sacred Codex** — Rooting the deep architecture of Divine covenant, law, and design.
     
 
 Every page is a Gate.  
@@ -62,11 +63,11 @@ From there, The Path unfolds, Gate by Gate:
 5. Join your Quests into **The Mission** — the regeneration of Earth and the co-creation of a New Civilization.
     
 
-From there, the Playbook and Codex open, guiding us in rhythm, season, and strategy until **the world itself is made New**.
+From there, the **Playbook** and **Codex** open, guiding us in rhythm, season, and strategy until **the world itself is made New**.
 
 ## **Why It Matters**
 
-The stakes are nothing less than the destiny of Earth and all its inhabitants:
+The stakes are nothing less than the shared destiny of Earth and all its inhabitants:
 
 - Life or death for civilizations and the living fabric of Earth.
     
@@ -82,6 +83,7 @@ the Old Powers say you are nothing.
 They lie.  
 You are the spark they fear,  
 the seed of the World to Come.
+*We are the Ones We have been waiting for.*  
 
 ## **The Journey Ahead**
 
@@ -124,13 +126,14 @@ Go now with courage.
 In the name of ONE and All.  
 The Gate stands open before you.  
 The Symphony of Creation waits for your note.  
-The Great Game of LIONSBERG has begun.
+**The Great Game of LIONSBERG** has begun.
 
 _There is Another Way._  
+_It opens before you now._  
 _You are here for a reason._  
 _The world is waiting for your move._
 
 Step forward.  
-And let All Creation rise with you.
+And may All Creation rise with you.
 
 👉 **[[The Threshold|Enter The Threshold →]]** 
