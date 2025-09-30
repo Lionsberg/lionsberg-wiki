@@ -109,7 +109,7 @@ No wonder Emerson awarded to the Republic the words which the occasionally pious
 
 Consider the Academy which he founded, the first and longest-lived of the universities of the world.
 
-The [[Lionsberg Academy]]. 
+The [[LIONSBERG Academy]]. 
 The [[Lionsberg House of Wisdom]]  
 The [[Lionsberg House of Culture]]  
 

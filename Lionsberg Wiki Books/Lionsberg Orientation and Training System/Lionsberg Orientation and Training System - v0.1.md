@@ -158,5 +158,5 @@ The courses are available to members who have successfully completed the Lionsbe
 
 Your next step is to being Module 1: Human Regeneration and Transformation. Your life and your world may never be the same! 
 
-Return to the [[Lionsberg Academy]] 
+Return to the [[LIONSBERG Academy]] 
 

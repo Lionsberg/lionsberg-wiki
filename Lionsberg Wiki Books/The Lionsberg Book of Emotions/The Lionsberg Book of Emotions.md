@@ -1,8 +1,11 @@
-# The Lionsberg Book of Emotions
+# The LIONSBERG Book of Emotions
 
-To start, this is simply a list of feelings to help us answer the question and communicate: How / What do you feel? 
+To start, this is simply a list of feelings to help us answer the question and communicate: 
 
-Over time, we will develop further detail and explanations for each. 
+***How / What do you feel?*** 
+
+Over time, we will develop further detail and explanations for each,  
+evolving towards a [[Pattern Language]]. 
 
 [[Admiration]]  
 [[Amusement]]  

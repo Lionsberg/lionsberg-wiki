@@ -349,7 +349,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 13. The [[Lionsberg Integrated Wellbeing and Development System]]  
 14. The [[Lionsberg House of Wisdom]]    
 15. The [[Lionsberg House of Culture]]  
-16. The [[Lionsberg Academy]]  
+16. The [[LIONSBERG Academy]]  
 17. The [[Lionsberg Outreach and Broadcast System]] 
 18. The [[Lionsberg Integrated Wellbeing and Development System]]  
 19. The [[Human System Living System Interface]]

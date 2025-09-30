@@ -18,6 +18,6 @@ As a starting point, we created a 5 step network of steps:
 
 We then began creating a [[Lionsberg Rosetta Stone]] that will eventually translate a simple welcome and description, to a language appropriate link to learn English, that then can provide access to the entire [[LIONSBERG System]]. We recognize the tremendous dangers and potentials of a system solely in English, so while for now it is the only realistic starting point, we will eventually encourage all the Wisdom, Knowledge, and Solutions to be locally and culturally translated. 
 
-You can find the Starting Point here at [[Lionsberg Academy]].  Already this single link contains link to pre-school through MIT's entire catalogue, for free. 
+You can find the Starting Point here at [[LIONSBERG Academy]].  Already this single link contains link to pre-school through MIT's entire catalogue, for free. 
 
 This will ultimately be evolved significantly beyond academic learning and become a cornerstone piece of the [[Elevation Initiative]], whose purpose is to connect every individual, organization, and community on earth to the opportunity to develop into the fullness of their potential. 

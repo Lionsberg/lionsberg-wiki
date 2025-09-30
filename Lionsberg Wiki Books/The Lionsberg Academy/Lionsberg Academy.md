@@ -1,4 +1,4 @@
-# Lionsberg Academy
+# LIONSBERG Academy
 
 # Introduction
 

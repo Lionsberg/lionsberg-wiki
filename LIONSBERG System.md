@@ -160,7 +160,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 [[Lionsberg Communications System]]  
 [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
 [[Lionsberg System of Governance]]  
-[[Lionsberg Academy]] - Lifelong Learning 
+[[LIONSBERG Academy]] - Lifelong Learning 
 [[Elevation Initiative]] - Lifelong Human, Organizational, and Community Development 
 [[Lionsberg Economy]] - Coming Soon 
 [[A New Sovereignty]] - Geopolitical Framework 

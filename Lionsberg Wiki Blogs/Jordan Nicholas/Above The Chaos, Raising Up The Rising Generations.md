@@ -21,6 +21,6 @@ The [[LIONSBERG System]] has been purpose-built for this reason.
 
 As a super elementary starting point, we have curated together curriculum to ensure that any human being on earth with internet access has access to a free world class program of lifelong learning and development. 
 
-See [[Lionsberg Academy]]. 
+See [[LIONSBERG Academy]]. 
 
 ~ J 
