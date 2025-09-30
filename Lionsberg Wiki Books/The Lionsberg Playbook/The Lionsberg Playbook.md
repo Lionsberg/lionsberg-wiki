@@ -60,7 +60,7 @@ Every word is a key.
 Every key a step.  
 Every step a move in the Great Game.
 
-And when you play, the Playbook plays you.
+And when you play, the Playbook plays you. 
 
 ---
 
