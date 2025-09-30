@@ -18,7 +18,7 @@ The images dance and move,
 the words shift and breathe,  
 not written for everyone, but written _for you_.  
 They rise to meet your eyes as if the Playbook itself knows your name, 
-*and has been waiting for you*.  
+*and has been waiting for you*.
 
 ---
 
