@@ -33,7 +33,7 @@ The **New Civilization** together.
 In this Game:
 
 - Every **Soul** is a **Player** —  
-    Free and Sovereign, yet bound in Love and Covenant to ONE and All.
+    Free and Sovereign, yet embraced in Love and Covenant to ONE and All.
     
 - Every **Circle** is a **Fellowship** —  
     A band of kindred companions,  
@@ -46,7 +46,7 @@ In this Game:
     A sacred act upon the Gameboard of Life.
     
 - Every **Gift** you carry is a **Piece** of the **Whole** —  
-    An essential, irreplaceable, and resonant part of the Divine Symphony.
+    An essential, irreplaceable, and resonant part of ONE Divine Symphony.
 
 ---
 
@@ -56,9 +56,9 @@ In your own life,
 In Our shared world,  
 And in the Living Cosmos beyond.
 
-It is the Regeneration of Earth,  
-The Co-Creation of a New Civilization,  
-And the Conscious ReUnion of All with the **ONE**.
+It is the **Regeneration of Earth**,  
+The **Co-Creation of a New Civilization**,  
+And the **Conscious ReUnion of All with the ONE**.
 
 ---
 
@@ -73,7 +73,7 @@ Others are awakening to **The Story**.
 Together they are forming **Circles**,  
 Choosing their **Quests**,  
 Embodying their **Roles**,  
-And resounding their living **Notes**  
+And resounding their **Living Notes**  
 Into **ONE Divine Symphony**. 
 
 ---
@@ -84,20 +84,6 @@ Revealing the patterns, practices, and wisdom
 Of how to play The Great Game in the highest Way.  
 But for now, what matters most is simply this:  
 To begin.
-
----
-
-Here, the Path branches.  
-From this point, you are invited to explore:
-
-- **[[Your Role in the Story]]** — discover your unique part of **The Play**.
-    
-- **[[Circles and Guilds]]** — gather with companions, for **No One Journeys Alone**.
-    
-- **[[The First Practice]]** — begin living **The Way**, **Here and Now**.
-    
-- **[[Your First Quest]]** — step into **The Mission**, and embody **The Change**.
-    
 
 ---
 
