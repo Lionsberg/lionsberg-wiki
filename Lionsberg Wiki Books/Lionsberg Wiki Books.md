@@ -52,7 +52,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 19. [[The Way of God]]  
 20. [[Lionsberg - A Biblical Perspective]]  
 21. [[The Lionsberg Book of Quotes]]  
-22. [[The Great Game of Lionsberg]]  
+22. [[The Great Game of LIONSBERG]]  
 23. [[The Power of Today]]  
 24. [[The Power of One]]  
 25. [[Playing With Poetry]]  

@@ -6,4 +6,4 @@ By removing dependencies on existing institutions and power structures, The Grea
 
 At the same time, the Great Game of Lionsberg recognizes the importance of collaboration and partnership in achieving [[The Goal]]. The movement welcomes engagement and collaboration with other groups and movements that share its spirit, vision and values, recognizing that a truly global transformation is universal in nature and requires the collective efforts of a diverse array of different actors working in concert.
 
-In this way, the concept of "No Dependencies" represents a core tenet of [[The Great Game of Lionsberg]], reflecting its commitment to decentralized, voluntary, participatory social change that puts power back in the hands of individual [[Citizens]] and [[Localities]].
+In this way, the concept of "No Dependencies" represents a core tenet of [[The Great Game of LIONSBERG]], reflecting its commitment to decentralized, voluntary, participatory social change that puts power back in the hands of individual [[Citizens]] and [[Localities]].

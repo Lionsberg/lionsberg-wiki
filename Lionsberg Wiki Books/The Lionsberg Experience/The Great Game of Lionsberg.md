@@ -1,4 +1,4 @@
-# The Great Game of Lionsberg
+# The Great Game of LIONSBERG
 *The Awakening of the Living Gate*
 
 ***HEAR, O Child of Earth,***  

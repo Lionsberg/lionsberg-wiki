@@ -26,7 +26,7 @@ We must act now, for the stakes have never been higher, and the consequences of 
 
 #### A. Gamification as a Tool for Transformation
 
-[[The Great Game of Lionsberg]] utilizes gamification as a powerful and engaging tool for transformation and experiential learning, enabling individuals and communities to learn, grow, and work together effectively towards  our shared Vision and Values. By tapping into the intrinsic motivation and natural desire for progress, the game helps facilitate change in a fun and inspiring way, making complex concepts and goals accessible to a wide range of participants.
+[[The Great Game of LIONSBERG]] utilizes gamification as a powerful and engaging tool for transformation and experiential learning, enabling individuals and communities to learn, grow, and work together effectively towards  our shared Vision and Values. By tapping into the intrinsic motivation and natural desire for progress, the game helps facilitate change in a fun and inspiring way, making complex concepts and goals accessible to a wide range of participants.
 
 #### B. Core Game Mechanics: Time, Energy, and Attention
 

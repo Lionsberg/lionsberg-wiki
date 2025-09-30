@@ -1,6 +1,6 @@
 # The Future
 
-In the context of the [[LIONSBERG System]] and [[The Great Game of Lionsberg]], **The Future** refers to the shared Vision of the loving, just, regenerative, and flourishing world that is the ultimate goal of the [[Citizen Led Response]] to the [[Meta Crisis]]. This vision includes:
+In the context of the [[LIONSBERG System]] and [[The Great Game of LIONSBERG]], **The Future** refers to the shared Vision of the loving, just, regenerative, and flourishing world that is the ultimate goal of the [[Citizen Led Response]] to the [[Meta Crisis]]. This vision includes:
 
 -   A thriving and regenerative environment, with healthy ecosystems and flourishing biodiversity
 -   A just and loving society, with access to basic needs and opportunities for All Citizens without exception 

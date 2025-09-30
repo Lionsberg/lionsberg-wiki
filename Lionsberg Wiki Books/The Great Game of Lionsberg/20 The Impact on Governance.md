@@ -25,4 +25,4 @@ ____
 
 Forward to [[21 The Impact on Spirituality and the Human Spirit]]    
 Back to [[19 The Impact on Society]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

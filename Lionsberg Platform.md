@@ -15,6 +15,6 @@ Key features of the Lionsberg Platform include:
 5.  **Open and User-Generated Content**: The platform is built on the principles of open and user-generated content, allowing users to freely access, share, and adapt the resources and tools available. This collaborative approach fosters a sense of collective ownership and responsibility for the platform as a commons, while encouraging innovation and creativity.
     
 
-In the context of the [[LIONSBERG System]], the [[New Vision and Plan]], and [[The Great Game of Lionsberg]], the **Lionsberg Platform** serves as an essential tool for empowering individuals, communities, and organizations to take action, collaborate, and drive the transformation needed to achieve the **New Vision and Plan**. By providing a centralized hub for knowledge, resources, and collaboration, the platform can help fuel the decentralized momentum and collective will needed to co-create a better world for All.
+In the context of the [[LIONSBERG System]], the [[New Vision and Plan]], and [[The Great Game of LIONSBERG]], the **Lionsberg Platform** serves as an essential tool for empowering individuals, communities, and organizations to take action, collaborate, and drive the transformation needed to achieve the **New Vision and Plan**. By providing a centralized hub for knowledge, resources, and collaboration, the platform can help fuel the decentralized momentum and collective will needed to co-create a better world for All.
 
 See [[Join The Platform]] for next steps. 

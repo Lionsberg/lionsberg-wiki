@@ -1,6 +1,6 @@
 # Localities
 
-The concept of **Localities** is central to [[The Great Game of Lionsberg]], as it recognizes the importance of local communities in creating meaningful and lasting change. Localities refer to the unique geographic and cultural contexts in which [[Individuals]] and [[Groups]] operate, and the specific challenges and opportunities that they face.
+The concept of **Localities** is central to [[The Great Game of LIONSBERG]], as it recognizes the importance of local communities in creating meaningful and lasting change. Localities refer to the unique geographic and cultural contexts in which [[Individuals]] and [[Groups]] operate, and the specific challenges and opportunities that they face.
 
 By prioritizing the localization of the [[New Vision and Plan]], The Game acknowledges that effective solutions must be tailored to the needs of specific communities, and that meaningful change requires engagement at the local level and transformation from the bottom up. This approach enables players to take concrete actions and see the direct impact of their efforts, fostering a distributed and unifying sense of agency and empowerment.
 

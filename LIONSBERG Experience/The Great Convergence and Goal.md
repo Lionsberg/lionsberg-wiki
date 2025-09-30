@@ -198,7 +198,7 @@ The Path is ONE.
 The Great Convergence is underway**  
 
 And now, the Gate before you swings wide.  
-**[[The Great Game of Lionsberg]]** is revealed —  
+**[[The Great Game of LIONSBERG]]** is revealed —  
 where all Roles, Circles, Quests, and Seasons  
 converge into one coherent **New Way of Life, Work, and Play**,  
 in harmony with the Eternal Goal of the **ONE**.

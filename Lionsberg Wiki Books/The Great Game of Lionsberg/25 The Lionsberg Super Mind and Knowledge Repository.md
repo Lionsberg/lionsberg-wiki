@@ -23,4 +23,4 @@ ____
 
 Forward to [[26 The Future of The Great Game of Lionsberg]]    
 Back to [[24 Training and Capacity Building]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

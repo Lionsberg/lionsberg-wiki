@@ -35,4 +35,4 @@ ____
 
 Forward to [[24 Training and Capacity Building]]     
 Back to [[22 The Great Game of Lionsberg Toolkit]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

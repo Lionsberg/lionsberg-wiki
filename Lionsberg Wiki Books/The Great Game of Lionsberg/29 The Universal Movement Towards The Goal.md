@@ -27,4 +27,4 @@ ____
 
 The End of the Book, the Beginning of [[Your Quest]] 
 Back to [[28 Final Reflections and Words of Encouragement]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

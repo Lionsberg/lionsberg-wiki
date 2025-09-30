@@ -1,6 +1,6 @@
 # The Threat
 
-In the context of the [[LIONSBERG System]] and [[The Great Game of Lionsberg]], **The Threat** refers to the interconnected array of crises and challenges facing humanity and the planet, collectively called the [[Meta Crisis]]. This array of crises includes but is not limited to:
+In the context of the [[LIONSBERG System]] and [[The Great Game of LIONSBERG]], **The Threat** refers to the interconnected array of crises and challenges facing humanity and the planet, collectively called the [[Meta Crisis]]. This array of crises includes but is not limited to:
 
 -   Environmental change and degradation
 -   Political polarization and social unrest
@@ -14,7 +14,7 @@ In the context of the [[LIONSBERG System]] and [[The Great Game of Lionsberg]], 
 -   The loss of uniting Vision, Principles, and Values 
 -   [[The Advance of The Giants]]
 
-These challenges are interrelated and reinforcing, with the potential to trigger a catastrophic breakdown of civilization and life on earth as we know it. [[The Great Game of Lionsberg]], the [[New Vision and Plan]],  and the [[Citizen Led Response]] aim to address these challenges and co-create a more just, regenerative, and flourishing future for all.
+These challenges are interrelated and reinforcing, with the potential to trigger a catastrophic breakdown of civilization and life on earth as we know it. [[The Great Game of LIONSBERG]], the [[New Vision and Plan]],  and the [[Citizen Led Response]] aim to address these challenges and co-create a more just, regenerative, and flourishing future for all.
 
 ## The Threat At Hand
 

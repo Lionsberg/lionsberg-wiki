@@ -12,7 +12,7 @@ A Meaningful Initial Contribution can take various forms, such as:
 
 By making a Meaningful Initial Contribution, new members can build trust, earn respect, and create a positive impression among their peers. This sets the stage for ongoing collaboration, cooperation, and success as the group or organization works together to achieve its collective aims.
 
-In the context of the [[LIONSBERG System]] and [[The Great Game of Lionsberg]], each new Participant is invited to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution to [[The Founder's Fund]] that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
+In the context of the [[LIONSBERG System]] and [[The Great Game of LIONSBERG]], each new Participant is invited to review the history, sacrifice, and Value created to date, and make a Meaningful Initial Contribution to [[The Founder's Fund]] that reflects their appreciation of the of the Work and desire for it to continue into the Future. 
 
 The Meaningful Initial Contribution establishes an opening respect and reciprocity, which is then maintained and balanced through an ongoing [[Meaningful Monthly Contribution]]. 
 

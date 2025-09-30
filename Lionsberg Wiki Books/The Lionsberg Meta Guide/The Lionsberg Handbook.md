@@ -428,7 +428,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Game 
 
-[[The Great Game of Lionsberg]]  
+[[The Great Game of LIONSBERG]]  
 
 ## The Economy 
 
@@ -470,7 +470,7 @@ Lionsberg and [[The Movement]] are bounded by universal [[Wisdom]], [[Principles
 
 ## The Great Game of Lionsberg 
 
-To invite the spirit of play and ensure [[The Movement]] is accessible to [[All]], we are [[Co-Creating]] [[The Great Game of Lionsberg]]. 
+To invite the spirit of play and ensure [[The Movement]] is accessible to [[All]], we are [[Co-Creating]] [[The Great Game of LIONSBERG]]. 
 
 ## The Meta Project 
 

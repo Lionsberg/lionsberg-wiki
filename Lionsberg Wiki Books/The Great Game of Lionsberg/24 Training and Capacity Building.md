@@ -48,4 +48,4 @@ ____
 
 Forward to [[25 The Lionsberg Super Mind and Knowledge Repository]]    
 Back to [[23 Shared Services, Infrastructure, and Support]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

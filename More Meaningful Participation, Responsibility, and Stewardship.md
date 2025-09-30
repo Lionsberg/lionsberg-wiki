@@ -11,7 +11,7 @@ Key aspects of More Meaningful Participation, Responsibility, and Stewardship in
 5.  Demonstrating Resilience: Adapting to change, overcoming obstacles, and remaining committed to the group or project's goals, even in the face of setbacks or challenges.
 6.  Practicing Stewardship: Actively safeguarding the group or project's resources, values, and mission, ensuring its long-term sustainability and success.
 
-In the context of the [[LIONSBERG System]], this path unfolds in part along the Categories of Participation outlined in the [[The Great Game of Lionsberg]]. 
+In the context of the [[LIONSBERG System]], this path unfolds in part along the Categories of Participation outlined in the [[The Great Game of LIONSBERG]]. 
 
 1. Observer  
 2. Participant  

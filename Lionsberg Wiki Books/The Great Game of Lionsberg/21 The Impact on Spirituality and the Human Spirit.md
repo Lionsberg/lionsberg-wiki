@@ -23,4 +23,4 @@ ____
 
 Forward to [[22 The Great Game of Lionsberg Toolkit]]    
 Back to [[20 The Impact on Governance]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

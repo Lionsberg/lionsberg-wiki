@@ -1,6 +1,6 @@
 # Confront And Overcome The Meta Crisis
 
-Confronting and overcoming the Meta Crisis is at the heart of the [[Citizen Led Response]] and [[The Great Game of Lionsberg]]. It requires a concerted effort by individuals, groups, and communities around the world to address the [[Root Causes]] of the crises and challenges facing humanity and the planet, and co-create the conditions through which the [[New World]] can emerge. 
+Confronting and overcoming the Meta Crisis is at the heart of the [[Citizen Led Response]] and [[The Great Game of LIONSBERG]]. It requires a concerted effort by individuals, groups, and communities around the world to address the [[Root Causes]] of the crises and challenges facing humanity and the planet, and co-create the conditions through which the [[New World]] can emerge. 
 
 To confront and overcome the Meta Crisis, we must:
 

@@ -19,4 +19,4 @@ ____
 
 Forward to [[29 The Universal Movement Towards The Goal]]    
 Back to [[27 A Call to Action for Players]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

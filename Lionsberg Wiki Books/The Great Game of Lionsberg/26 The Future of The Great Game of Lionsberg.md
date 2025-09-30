@@ -21,4 +21,4 @@ ____
 
 Forward to [[27 A Call to Action for Players]]    
 Back to [[25 The Lionsberg Super Mind and Knowledge Repository]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

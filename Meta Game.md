@@ -11,7 +11,7 @@ Success in the Meta Game is measured in terms of progress towards the [[Meta Goa
 
 Below is an elementary _starting point_ / conceptual design for how we might attempt to instantiate / act out a continuously improving version of the Meta Game. 
 
-To avoid [[Concretizing The Absolute]], we call it the Lionsberg | Meta Game to differentiate it from the Absolute concept. The same concept has been explored under [[The Great Game]] / [[The Great Game of Lionsberg]].  
+To avoid [[Concretizing The Absolute]], we call it the Lionsberg | Meta Game to differentiate it from the Absolute concept. The same concept has been explored under [[The Great Game]] / [[The Great Game of LIONSBERG]].  
 ___
 # The Lionsberg | Meta Game
 

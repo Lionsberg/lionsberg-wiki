@@ -26,7 +26,7 @@ Here are some key steps to prepare for [[The Great Transformation]]:
     
 11.  **Align Your Actions with the New Vision and Plan**: Align your personal and professional choices with the goals and objectives of the [[New Vision and Plan]], working to foster a more just, regenerative, and thriving world that works for All. 
     
-12.  **Participate in The Great Game of Lionsberg**: Actively contribute your unique skills, knowledge, and passion to [[The Great Game of Lionsberg]], working together with fellow [[Citizens]] to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
+12.  **Participate in The Great Game of Lionsberg**: Actively contribute your unique skills, knowledge, and passion to [[The Great Game of LIONSBERG]], working together with fellow [[Citizens]] to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
     
 13.  **Serve as a Steward and Advocate**: Promote the principles and values of the [[Lionsberg Manifesto]] and the [[New Vision and Plan]] within your sphere of influence, inspiring others to join [[The Movement]] and contribute to the Great Transformation..
     

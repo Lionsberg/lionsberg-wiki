@@ -21,4 +21,4 @@ ____
 
 Forward to [[17 The Impact on the Economy]]    
 Back to [[15.4 Fostering a Culture of Harmony and Unity within the Universe]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

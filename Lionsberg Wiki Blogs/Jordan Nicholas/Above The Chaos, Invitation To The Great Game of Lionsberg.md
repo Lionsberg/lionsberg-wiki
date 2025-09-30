@@ -20,7 +20,7 @@ Yet struggling isolation, we are [[All]] on a pathway towards inevitable [[Failu
 
 ## An Invitation And Proposal
 
-Over the last 5 years, we have synthesized lifetimes of preparation into a [[Vision]], [[The Plan|Plan]], [[Provisional Structure|Structure]], [[The Story|Story]], and [[The Great Game of Lionsberg|Game]] to empower humanity arise and unite to meet the needs, solve the problems, and accomplish the goals inherent in this critical moment in the universal Story. 
+Over the last 5 years, we have synthesized lifetimes of preparation into a [[Vision]], [[The Plan|Plan]], [[Provisional Structure|Structure]], [[The Story|Story]], and [[The Great Game of LIONSBERG|Game]] to empower humanity arise and unite to meet the needs, solve the problems, and accomplish the goals inherent in this critical moment in the universal Story. 
 
 [[The Great Table]] has been prepared, 170 organizations in 17 countries have already adopted and tested the external side of the platform, and plans have been reviewed by dozens of people over the last months. It is time to commence the movement / game. 
 
@@ -70,7 +70,7 @@ We have spent the last 5 years synthesizing lifetimes of preparation into a comp
 
 It is not possible to explain how the entire System works, so we have simplified it all into a Game so simple that any family can play, and yet so powerful that as we learn to play it together, we will actually be elevating, transforming, and regenerating our lives and our world. 
 
-Welcome to [[The Great Game of Lionsberg]]. 
+Welcome to [[The Great Game of LIONSBERG]]. 
 
 ## How It Works
 

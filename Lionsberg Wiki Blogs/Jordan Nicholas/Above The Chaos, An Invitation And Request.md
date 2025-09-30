@@ -45,7 +45,7 @@ This week, the clock began ticking on a **7 year opening plan of action** to con
 
 I am going on an opening pilgrimage the next couple weeks to visit sacred sites and spend a few days with allies at the United Nations COP even in Egypt. 
 
-When I return, I am going to close the borders of Lionsberg and begin working from within with whatever Groups want to play [[The Great Game of Lionsberg]]. 
+When I return, I am going to close the borders of Lionsberg and begin working from within with whatever Groups want to play [[The Great Game of LIONSBERG]]. 
 
 The Goal of the Game is to help all Life rise towards the fullness of its potential and flourish in harmony, initially by connecting and empowering 1 billion small groups within 7 years. 
 

@@ -23,4 +23,4 @@ ____
 
 Forward to [[19 The Impact on Society]]    
 Back to [[17 The Impact on the Economy]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

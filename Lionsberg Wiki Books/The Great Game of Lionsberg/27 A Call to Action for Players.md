@@ -21,4 +21,4 @@ ____
 
 Forward to [[28 Final Reflections and Words of Encouragement]]    
 Back to [[26 The Future of The Great Game of Lionsberg]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

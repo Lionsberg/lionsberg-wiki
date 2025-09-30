@@ -20,7 +20,7 @@ Article 2: Pursuit of the New Vision and Plan
 
 Article 3: Participation in the Movement and the Game
 
-1.  We commit to actively participate in [[The Movement]] and [[The Great Game of Lionsberg]], contributing our unique skills, talents, and perspectives towards the achievement of our shared goals and values.
+1.  We commit to actively participate in [[The Movement]] and [[The Great Game of LIONSBERG]], contributing our unique skills, talents, and perspectives towards the achievement of our shared goals and values.
 2.  We pledge to support and empower one another in our individual and collective efforts to confront and overcome the challenges and opportunities presented by the [[Meta Crisis]].
 
 Article 4: Stewardship and Regeneration

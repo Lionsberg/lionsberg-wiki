@@ -1,6 +1,6 @@
 # The Great Game of LIONSBERG (Old)
 
-For current version see [[The Great Game of Lionsberg]]
+For current version see [[The Great Game of LIONSBERG]]
 
 
 Jordan left this as a [[Work In Progress]].  

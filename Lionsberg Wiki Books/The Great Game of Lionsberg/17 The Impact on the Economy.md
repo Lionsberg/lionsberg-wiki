@@ -23,4 +23,4 @@ ____
 
 Forward to [[18 The Impact on the Living System]]    
 Back to [[16 The Impact on Individuals, Families, Communities, Tribes, and Nations]]  
-Back to Table of Contents [[The Great Game of Lionsberg]]  
+Back to Table of Contents [[The Great Game of LIONSBERG]]  

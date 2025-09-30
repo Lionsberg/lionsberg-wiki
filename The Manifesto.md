@@ -13,4 +13,4 @@ The Manifesto is grounded in the following principles:
 5.  **Regenerative and Holistic Solutions**: Prioritizing the health and wellbeing of ecosystems, communities, and individuals, promoting a sustainable, regenerative, and thriving future for [[All]].
 6.  **Accountability and Transparency**: Upholding the principles of honesty, integrity, and open communication to ensure that [[The Movement]] remains aligned with its guiding values and objectives.
 
-By adopting and living these principles, [[Citizens]] demonstrate their commitment to the [[New Vision and Plan]] and their willingness to participate in [[The Great Game of Lionsberg]], working together to bring about the transformative change necessary to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
+By adopting and living these principles, [[Citizens]] demonstrate their commitment to the [[New Vision and Plan]] and their willingness to participate in [[The Great Game of LIONSBERG]], working together to bring about the transformative change necessary to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
