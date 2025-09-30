@@ -1,8 +1,10 @@
 # The First Step
 
 _You have crossed **The Threshold**._  
-The **Old World** now lies behind you.  
-Before you stretches a Realm unknown — yet deeply remembered.
+Made **The Decision**.  
+Taken **The First Step**.  
+The **Old World** now lies firmly behind you.  
+Before you stretches **A Realm UnKnown** — yet deeply remembered.
 
 Pause here.  
 Breathe.  
@@ -10,11 +12,12 @@ Feel the ground beneath your feet, the air in your lungs, the stirring of your S
 Rest, ReOrient, and ReMember. 
 
 This is no ordinary journey.  
-You have entered a living work — a sacred experiment in becoming —  
+You have entered a living work —  
+a sacred experiment in becoming —  
 The Co-Creation of a **New Civilization**.
 
 You do not walk alone.  
-Across the Earth — and far Beyond — 
+Across the Earth — and far Beyond —  
 Countless others are awakening,  
 Rising like sparks of The Sacred Flame,  
 Each carrying their part of the Divine Fire forward.

@@ -11,11 +11,13 @@ It is **The Voice** in your dreams,
 **The Knowing** that you were meant for more.
 
 Now it calls you openly, unmistakably:  
-To rise. To awaken. To remember.
+To **Awaken**.  
+To **Rise**.  
+To **ReMember**.
 
 You are invited into the **living work of Co-Creation** —  
-To take your rightful place in the unfolding Symphony of ONE.  
-This is not the summons of the rulers, priests, or oligarchs of Old,  
+To take your rightful place in the unfolding Symphony of the ONE.  
+This is not the summons of the false rulers, priests, or oligarchs of Old,  
 But the call of your own Spirit and Soul,  
 Deep crying out to Deep,  
 Source beckoning ItSelf to Awaken and ReMember.
@@ -31,16 +33,17 @@ And with the ONE from which All things arise.
 ---
 
 This is the **Invitation to Freedom**.  
-The **Invitation to step out of the Caves of Captivity and into the Light of Liberty**.
+The **Invitation to step out of the Caves of Captivity and into the Light of Liberty**.  
 The **Invitation to Remember Who You Are**.  
 The **Invitation to join with All Who Are Rising**.  
 The **Invitation to Co-Create what always was and always shall be**:  
+Souls liberated,  
 Lives made Whole,  
 Worlds made New,  
 Ecosystems Regenerated,  
 Cultures Restored,  
-Civilizations set Right, 
-And a Future worthy of our Divine Origins and Destiny.
+Civilizations set Right,  
+And a Future worthy of our Divine Origins and Destiny.  
 
 ---
 
@@ -66,4 +69,4 @@ What We do Together now echoes into Eternity._
 
 _____
 
-Now, let Us lead you through the **First Door of Acceptance and Commitment**: **[[The Covenant]]**  
+Beyond The Invitation lies the **First Door of Acceptance and Commitment**: **[[The Sacred Covenant]]**  

@@ -71,7 +71,7 @@ _The Outer Court — The Gates of Entry_
     
 - **[[The Invitation]]** — Call into the Story.
     
-- **[[The Covenant]]** — Shared vow of fidelity.
+- **[[The Sacred Covenant]]** — Shared vow of fidelity.
     
 - **[[The Story]]** — The mythos and history of LIONSBERG.
     

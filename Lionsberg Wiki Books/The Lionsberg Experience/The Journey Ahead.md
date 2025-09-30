@@ -129,4 +129,6 @@ Stay faithful.
 The Symphony of Creation waits for your note.  
 The Great Game of LIONSBERG has already begun.
 
-👉 **[[The First Step|The First Step →]]**
+When you are ready,  
+Make **The Decision**,  
+And take 👉 **[[The First Step|The First Step →]]**  
