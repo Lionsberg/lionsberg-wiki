@@ -4,7 +4,7 @@ _The Living Guide of The Great Game_
 You approach the Sacred Table.  
 Upon it rests the Playbook — bound in ancient leather,  
 edges glowing with hidden fire.  
-It is heavier than you expected — yet alive.  
+It is heavier than you expected — yet strangely light and alive.  
 The cover hums with resonance you feel in your bones,  
 as though all the Songs of Creation  
 have been pressed into a single vessel  
