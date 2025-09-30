@@ -227,8 +227,8 @@ _It opens only when you choose, and it reveals the Way._
 ____
 ## **Benediction**
 
-Rise now, 
-O Child of Earth, 
+Rise now,  
+O Child of Earth,  
 with the Sacred Flame upon your heart  
 and the Breath of Spirit in your lungs.
 
@@ -255,7 +255,7 @@ The Symphony rises to meet you.
 
 The fate of generations turns on your move.
 
-Go forth, Player of the Great Game.  
+Go forth, O Player of The Great Game.  
 The New Dawn is breaking,  
 and All Creation longs for your next step.
 
