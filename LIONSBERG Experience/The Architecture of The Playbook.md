@@ -142,6 +142,25 @@ _The Continuously Evolving Picture_
 - The shared orientation that keeps us aligned toward the Goal
     
 
+____
+
+**Old Map Notes** 
+_Unveiling Reality and Clarifying the Goal_
+
+1. The Great UnVeiling — Seeing What Is
+    
+2. Existing Forces and Conditions
+    
+3. The Old Order and Its Collapse
+    
+4. The Chasm Between What Is and What Should Be
+    
+5. The Vision of What Should Be
+    
+6. The Twelve Pillars of the New Civilization
+    
+7. The Goal — ONE Made Manifest
+
 ---
 
 ## **Meta-Pattern of Each Book**

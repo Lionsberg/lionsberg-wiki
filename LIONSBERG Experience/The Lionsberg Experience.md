@@ -32,6 +32,11 @@ For the invitation to ignite, three sparks converge:
 
 Together, these sparks light the fire.
 
+____
+Note: 
+- [[A Last Word on J, and the First Word of the New]] was designed to fulfill parts one and two, and transmit The Spark.   
+- [[README|The New Homepage]] and [[The Threshold]] were designed to constitute The Threshold. 
+
 ______
 ## **The Grand Arc**
 
@@ -199,6 +204,8 @@ The Codex is the **root architecture**: theology, metaphysics, law, and cosmic 
     
 - **[[The LIONSBERG Covenant and Law]]** 
     
+	- **[[The LIONSBERG Covenant]]**
+        
     - **[[The LIONSBERG Constitution]]**
         
     - **[[The LIONSBERG Code]]**
@@ -256,9 +263,15 @@ Here the path expands into the **living continuum** — the universal and eter
     
 - How the Playbook Evolves
     
+- How the Map is Updated
+    
+- How the Strategy and Plan Adapts
+    
 - How the Codex Deepens
     
-- The Spiral of Renewal (generational cycles)
+- The Role of Story and Collective Memory  
+    
+- The Spiral of Renewal— Adapting Across Generations
     
 - Beyond Earth — the Infinite Horizon
     

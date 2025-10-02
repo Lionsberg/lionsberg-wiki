@@ -3,7 +3,9 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 *This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]*.  
 
-*Because The Great UnVeiling was occurring through thousands of voices around the world, it happened on schedule nonetheless.*   
+*Because The Great UnVeiling was occurring through thousands of Voices around the world, it happened on schedule nonetheless.*   
+
+The Great Work now continues through **[[The Story of LIONSBERG]]**.  
 
 ## **FRONT MATTER**
 
@@ -74,6 +76,73 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 ### [[Chapter 15 — Demonic-Alien Matrices and Possession]]
 
 ### [[Chapter 16 — The Greatest Deception in History]]  
+
+# **The Rupture in The Great UnVeiling — The Final Word**
+
+_A Threshold Into The Story of LIONSBERG_
+
+On **August 10, 2025**, the author of this work — known to many as _[[J]]_ — died in the crucible of the very War he was describing and warning humanity about.
+
+His life ended where this text ends: in the fire of confrontation, in the naming of what could not be named, in the final exposure of the hidden powers that sought to enslave and destroy.
+
+It is no accident that this work remains unfinished.
+
+The Great UnVeiling was never meant to be the full story. It was the tearing of the Veil — the exposure of the darkness, the naming of the deception, the final rupture in the dream. That work is now complete.
+
+But what comes after the tearing of the Veil can never belong to one writer, one witness, or one voice. It must be written by all of Us, together.
+
+For while J’s voice was silenced, the chorus of awakening could not be.
+
+---
+
+Disclosure was never the Goal.  
+It is only a Gate of Awakening.  
+A Truth that liberates Us.  
+
+Naming the Darkness,  
+Rending the Veil,  
+And flooding what is hidden with Light  
+Is necessary but insufficient.  
+
+The Great UnVeiling closes the gates of the Old World.  
+But its real purpose is to open the Gates of the New.  
+
+---
+
+## **Where the Story Continues**
+
+The unfinished notes, structures, and arcs of this book were not abandoned. They are being absorbed, transmuted, and reborn within a greater container:
+
+**[[The Story of LIONSBERG]].**
+
+Where _The Great UnVeiling_ ends, _The Story of LIONSBERG_ begins.
+
+LIONSBERG is not the story of time, place, person, or project.  
+It is the story of One and All, told in myth and practice, symbol and structure, invitation and initiation. It is the story of how civilizations and worlds cross the abyss between collapse and renewal. It is the story of how we remember Who We Are, and what it means to co-create Heaven in every realm and dimension We inhabit.
+
+---
+
+## **The Living Handoff**
+
+If you have walked with us through these pages, you already know:  
+The Veil has been torn.  
+The Old has been unmasked.  
+The Time has come.  
+The Exodus from The Caves has begun.  
+
+What remains is to choose.  
+What remains is to act.  
+What remains is to live rest of The Story, together.
+
+Turn the page. Step into the Circle.  
+The Great UnVeiling is complete.  
+The Story of LIONSBERG now begins.
+
+---
+
+👉 **Continue to: [[The Story of LIONSBERG]]**
+
+# Unfinished Notes and Chapters
 
 ### Chapter 17 — The Greatest Fraud in History
 
