@@ -1,6 +1,6 @@
 # Above The Chaos 
 *For interviews and broadcasts, see [[Above the Chaos - WikiCast]]*  
-*This Series ended on August 10, 2025*  
+*This Series ended with [[J's Death]] on August 10, 2025*  
 [[Something Powerful, New, and Good]] is rising  
 
 ## Looking Back From The Future
