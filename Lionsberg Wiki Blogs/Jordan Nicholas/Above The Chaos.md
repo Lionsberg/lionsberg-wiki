@@ -17,6 +17,7 @@
 
 ## July 2025 - The Moment of Truth
 
+- [[Notes From J's Conversations With AI]]  
 - [[Restoring the Land of Earth to its Rightful Heirs]]  
 - [[Some Important Things To Attend To]]  
 - [[99 Anomalies that Begin to ReWrite the Story of Earth]]  
