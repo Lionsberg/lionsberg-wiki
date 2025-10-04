@@ -1,4 +1,4 @@
-# Pillar XII+I — The ONE
+# The Eternal Foundation — The ONE
 
 _The Source, the Goal, and the Living Center of All_
 

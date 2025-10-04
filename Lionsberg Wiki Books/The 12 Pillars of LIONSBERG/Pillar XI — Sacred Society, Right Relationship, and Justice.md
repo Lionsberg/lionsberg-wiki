@@ -1,9 +1,9 @@
-# Pillar XI — Sacred Relationship and the Divine Dance
+# Pillar XI — Sacred Society, Right Relationship, and Justice
 
 _ReWeaving Right Relationship Between All Beings and Apparent Polarities_
 
 ---
-
+NOTE September 2025: The text below should be modified to explicitly integrate justice, reconciliation, and community building. 
 ### **Summary**
 
 The Eleventh Pillar of LIONSBERG restores relationship as the sacred fabric of Co-Creation—calling us to reweave the web of life through love, truth, courage, reciprocity, and Right Relationship. It recognizes that All is InterBeing, and that healing the world begins with healing the ways we relate: between masculine and feminine, self and other, human and non-human, seen and unseen. Sacred Relationship is the foundation of the Kingdom, the field of our becoming, and the sacred dance through which Heaven is made manifest.
