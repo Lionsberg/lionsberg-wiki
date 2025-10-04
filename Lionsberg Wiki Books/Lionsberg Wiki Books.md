@@ -45,7 +45,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 12. [[Most People Have No Idea What Is Coming]]  
 13. [[An Alternative to Apocalypse - The New Covenant]]  
 14. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]]  
-15. [[The Theses of Lionsberg]]  
+15. [[The LIONSBERG Theses]]  
 16. [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
 17. [[The Lionsberg Approach to Citizen Led Governance]]  
 18. [[A Way Beyond Fear, Anxiety, And Depression]]   

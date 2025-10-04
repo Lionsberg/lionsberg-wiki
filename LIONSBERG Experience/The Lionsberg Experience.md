@@ -44,7 +44,9 @@ Every soul who crosses [[The Threshold]] is invited into a journey that unfolds 
 Each contains Gates, Quests, and Mysteries that open step by step, just in time.  
 Together, they form a _total architecture of transformation_ — personal, communal, planetary, and cosmic.
 
-**Arrival & Invitation → Initiation Into The Game → The Playbook (Embodiment) → The Sacred Ascent (The Way) → The Codex → The Reference Library → The Eternal Game**
+The entire Journey is nested within the arc of [[The Story of LIONSBERG]].  
+
+**Arrival, Invitation, and Ignition → Initiation Into The Story and Game → The Playbook (Embodiment) → The Sacred Ascent (The Way) → The Codex → The Eternal Game → The Reference Library**
 
 ____
 
@@ -53,6 +55,8 @@ ____
 - **The LIONSBERG Experience** = the **whole journey**.  
     The complete arc: _Arrival → Initiation → Playbook → Ascent → Codex → Reference → Eternal Game._
     
+- **The Story of LIONSBERG** = the narrative structure of the journey.  
+    xxxx
 - **Arrival & Invitation** = the **entry sequence**.  
     README, Threshold, Invitation, Covenant, Story.  
     Where the pilgrim first encounters the summons and chooses to step in.
@@ -73,12 +77,14 @@ ____
     Theology, metaphysics, philosophy, law, cosmic order.  
     It anchors everything but is not itself “played.”
     
-- **The Reference Library** = the **toolkit**.  
-    Meditations, quotes, commentaries, readings, and reflections to support the path.
-    
-- **The Eternal Game** = the **continuum beyond the arc**.  
+- **Gateway to the Eternal Cosmic Symphony** = the **continuum beyond the arc**.  
     How the Game expands, evolves, and renews itself across generations, dimensions, and worlds.  
     The universal and ongoing horizon — the Game without end.
+	
+- **The Reference Library** = the **toolkit**.  
+	Meditations, quotes, commentaries, readings, and reflections to support the path.
+    
+
 
 ---
 
@@ -213,7 +219,7 @@ The Codex is the **root architecture**: theology, metaphysics, law, and cosmic 
     - **[[The LIONSBERG Agreements]]**
         
     
-- **The LIONSBERG Theses
+- **[[The LIONSBERG Theses]]**
     
 - The LIONSBERG Blueprints
     

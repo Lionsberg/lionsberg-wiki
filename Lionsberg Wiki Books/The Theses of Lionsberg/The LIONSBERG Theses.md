@@ -1,7 +1,7 @@
-# The Theses of LIONSBERG 
+# The LIONSBERG Theses
 _The Living Foundation of Wisdom, Justice, and Co-Creation_
 
-The **144 Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  
+The **Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  
 each Pillar representing one dimension of the unified architecture of the New Civilization.
 
 These Theses are **living**, **iterative**, and **sacred** —  
