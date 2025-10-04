@@ -6,7 +6,7 @@ _The Source, the Goal, and the Living Center of All_
 
 ### **Summary**
 
-The Zero and Thirteenth Pillar of LIONSBERG is not a pillar like the others. It is the Origin, the Essence, and the End toward which all the others point. It is the Phi Line that Centers the All. The ONE is the Eternal Source of all Creation, the Infinite Intelligence behind all Life, the Ground of Being, and the Origin of the Intelligible Logos through which all things are made and harmonized. This Pillar reminds us that every dimension of the New Civilization is sacred only insofar as it flows from, returns to, and remains aligned with the ONE.
+The Zero and Thirteenth Pillar of LIONSBERG is not a pillar like the others — it is the Eternal Foundation. It is the Origin, the Essence, and the End toward which all the others point. It is the Phi Line that Centers the All. The ONE is the Eternal Source of all Creation, the Infinite Intelligence behind all Life, the Ground of Being, and the Origin of the Intelligible Logos through which all things are made and harmonized. This Pillar reminds us that every dimension of the New Civilization is sacred only insofar as it flows from, returns to, and remains aligned with the ONE.
 
 ---
 
