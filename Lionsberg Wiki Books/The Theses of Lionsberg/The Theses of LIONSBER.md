@@ -1,5 +1,21 @@
-# The Theses of Lionsberg 
+# The Theses of LIONSBERG 
+_The Living Foundation of Wisdom, Justice, and Co-Creation_
 
+The **144 Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  
+each Pillar representing one dimension of the unified architecture of the New Civilization.
+
+These Theses are **living**, **iterative**, and **sacred** —  
+continually refined through collective discernment, lived experience, and divine alignment  
+as humanity ascends towards its fulfillment in **The ONE**.
+
+---
+
+# **The Old Theses Archive**
+
+This page preserves the earlier _prototype and developmental drafts_ of the Theses —  
+a record of the thought and evolution that gave rise to the current 144.  
+They remain here as a **foundational resource and inspiration** for ongoing synthesis,  
+illustrating some of the depth and breadth from which the Pillars were distilled.
 
 ## Introduction to the Theses of Lionsberg 
 

@@ -3,94 +3,108 @@
 _ReWeaving Right Relationship Between All Beings and Apparent Polarities_
 
 ---
-NOTE September 2025: The text below should be modified to explicitly integrate justice, reconciliation, and community building. 
+
 ### **Summary**
 
-The Eleventh Pillar of LIONSBERG restores relationship as the sacred fabric of Co-Creation—calling us to reweave the web of life through love, truth, courage, reciprocity, and Right Relationship. It recognizes that All is InterBeing, and that healing the world begins with healing the ways we relate: between masculine and feminine, self and other, human and non-human, seen and unseen. Sacred Relationship is the foundation of the Kingdom, the field of our becoming, and the sacred dance through which Heaven is made manifest.
+The Eleventh Pillar of LIONSBERG restores **relationship and justice** as the sacred fabric of co-creation—calling us to reweave the web of life through love, truth, courage, reciprocity, reconciliation, and Right Relationship.
+
+It recognizes that All is InterBeing in ONE Body, and that the health of every person and community depends upon the integrity of the relationships that bind them. Sacred Society is the living field of harmony through which Heaven is made manifest in the social order of each realm, dimension, and domain. It invites us to heal the fractures of history, restore trust, and build systems of justice that protect the innocent, correct the unjust, and reconcile the divided.
+
+Justice is love made visible in the ordering of relationship; reconciliation is its practice. Together they form the heart of the New Covenant between beings, peoples, worlds, and the ONE.
 
 ---
 
 ### **Overview**
 
-From the beginning, Creation has been relationship.
+From the beginning, Creation has been relationship—and relationship requires right order.
 
-There is no life in isolation. No growth without union. No beauty without contrast. All things are born from the Dance—of yin and yang, day and night, expansion and contraction, Spirit and Form. The cosmos is not a machine—it is a sacred symphony of relationships unfolding in dynamic harmony.
+There is no life in isolation. No peace without justice. No flourishing without reciprocity. All things are born from the Dance—of masculine and feminine, self and other, freedom and responsibility, diversity and unity. The cosmos is not a machine but a sacred living commonwealth woven by trust, truth, and love.
 
-In the [[Old World]], relationship was fractured. Trust was broken. Roles were distorted. Power was abused. The war between the sexes mirrored the war within. Families collapsed. Communities dissolved. Earth was objectified. The sacred was desecrated.
+In the [[Old World]], that web was torn.  
+Power eclipsed service.  
+Justice was distorted into vengeance and feudalism.  
+Communities fractured under domination, greed, and fear.  
+The strong preyed upon the weak, and the weak hardened their hearts.  
+Systems designed to protect became engines of exploitation.
 
-But the soul remembers: we were made for communion.
+But the soul remembers: We were made for communion and fairness.
 
-Sacred Relationship calls us back into unity—not uniformity, but Right Relationship. It invites us to remember that every being is a mirror, a teacher, a part of the Whole. It asks us to move beyond domination and dependency, beyond transaction and projection—into reciprocity, sovereignty, unity, and love.
+Sacred Society calls us to reweave the torn fabric of belonging—to restore right relationship not only between individuals, but between communities, peoples, species and worlds. It invites us to rediscover justice as balance, harmony, reciprocity, and flow.  
 
-This pillar is not about systems—it is about healing. It is about the courage to face one another, to listen, to forgive, to grow. It is about remembering that we are not alone, that we are not meant to be alone, and that the Divine is revealed most fully in InterExistent relationship rightly held.
+To practice justice is to live truth with love; to practice reconciliation is to heal what power has broken; to build community is to anchor the relationships of Heaven in daily life.
+
+This Pillar therefore bridges the personal and the collective, the spiritual and the civic. It teaches that social systems are sacred instruments of relationship, and that the only legitimate authority is that which serves restoration, protection, and upliftment of All.
 
 ---
 
-### **12 Theses of Sacred Relationship and the Divine Dance**
+### **12 Theses of Sacred Society and Right Relationship**
 
-1. **All of Creation Is Relationship** — a living dance of dynamic polarity and sacred union.
+1. **All Society Is a Web of Relationship** — the health of the whole depends upon the integrity of every thread.
     
-2. **The Purpose of Relationship Is Growth, Reflection, and Remembrance** — every other is a mirror calling us toward wholeness.
+2. **Justice Is Love in Action** — the right ordering of relationships in truth, compassion, and accountability.
     
-3. **The Feminine and Masculine Are Equal and Complementary** — both are sacred, necessary, and to be honored within and without.
+3. **Reconciliation Is the Healing of History** — the courage to face wounds, heal traumas, reconcile, and restore trust.
     
-4. **Right Relationship Requires Sovereignty and Reciprocity** — no true union exists without freedom, and no freedom without responsibility.
+4. **Community Is the Primary Unit of Civilization** — not hierarchy or empire, but local circles of mutual care.
     
-5. **The Family Is a Sacred Circle** — and must be restored as a sanctuary of love, truth, security, and initiation.
+5. **Right Relationship Requires Truth** — without honesty there can be no peace, and without transparency no justice.
     
-6. **Friendship and Community Are Sacred Fields** — where character is forged and joy is multiplied.
+6. **Power Exists to Protect and Serve** — authority is legitimate only when it serves and upholds the Sovereignty and Dignity of all.
     
-7. **Sexuality Is a Sacred Force** — to be honored, integrated, and aligned with love, life, and Source.
+7. **Law Must Emerge from Logos** — human justice must mirror the moral order of the Cosmos.
     
-8. **The Human-Nature Relationship Must Be ReWoven** — from dominion to guardianship, from exploitation to communion.
+8. **Diversity Is Sacred** — difference is not division but the raw material of symphony.
     
-9. **The I-Thou Relationship Is the Portal to the Divine** — every being is a gateway to encounter with the ONE.
+9. **Conflict Is a Teacher** — every clash reveals imbalance and invites higher synthesis.
     
-10. **Conflict Is an Invitation to Heal and Deepen Relationship** — not a sign of failure, but a call to greater truth, clarity, healing, and coherence.
+10. **Restorative Justice Is the Way Forward** — to repair, not to punish; to transform, not to condemn.
     
-11. **Healing Is Relational** — no soul is healed alone; wholeness arises through right relation with All.
+11. **Healing Begins in Community** — every household, neighborhood, and people must become a sanctuary of reconciliation and harmony.
     
-12. **The Goal Is the Divine Dance** — a civilization of conscious, sovereign, co-creative beings, living in harmony with themselves, one another, and the Source of All.
+12. **The Goal Is the Beloved Kingdom and Commonwealth** — a civilization of conscious, just, and co-creative beings living in omniconsiderate harmony with ONE, One Another, and All. 
     
 
 ---
 
 ### **Narrative**
 
-Before there were nations, there were families. Before there were cities, there were circles. Before there were temples, there were two hands reaching for one another across the silence, across the stars.
+Before there were empires, there were neighbors.  
+Before there were courts, there were councils.  
+Before there were codes, there was conscience.
 
-It was in relationship that the Universe began to move.  
-It was in emergent polarity that Spirit became Form.  
-It was in love that One became Two, and in union that Two returned to One.
+The Universe itself began as relationship—energy meeting energy, light touching shadow, intention giving rise to form. From that first act of communion, all life has unfolded through patterns of cooperation, attraction, and balance.
 
-Somewhere along the way, We forgot.
+Yet across ages, imbalance crept in.  
+Domination replaced stewardship.  
+Fear replaced trust.  
+Competition replaced cooperation.  
+We forgot that justice is not retribution but restoration.  
+We forgot that power is not privilege but responsibility.  
+We forgot that community is not a convenience but covenant.
 
-We forgot that strength is not control, and that vulnerability is not weakness. We forgot that the masculine was made to protect, uplift, and hold—and that the feminine was made to create, nurture, and inspire. We forgot that these energies dance within every soul—far beyond the limitations of sex. We forgot how to speak truth with love. We forgot how to listen. How to forgive. How to honor. How to stay.
+The consequence was alienation: of person from person, tribe from tribe, species from planet, soul from Source.  
+The fracture within became the fracture without.
 
-The result was loneliness. Abuse. Isolation. War. The Fall of Relationship mirrored the Fall of Civilization.
+But the Sacred is calling us home.
 
-But the Sacred is whispering again:
+To reconcile the human family.  
+To restore the balance between freedom and responsibility.  
+To rebuild the bonds of trust upon which peace depends.  
+To weave again the sacred circle of belonging.  
+And to extend that belonging out into the Cosmic Order. 
 
-Come back. Come together. Come clean. Come whole.
+Sacred Society begins wherever two or more gather in truth and goodwill. It begins with a handshake made honest, a promise kept, an injustice righted. It grows through the humble art of listening, mediation, forgiveness, and shared endeavor.
 
-Sacred Relationship is not merely about partnership. It is about every connection, every bond, every line of energy that flows between beings. It is about remembering that every conflict is a classroom. Every intimacy is a ceremony. Every handshake is a sacrament. Every exchange a transformation. 
+It manifests as communities that care for their own, protect their vulnerable, and steward their commons. As councils that judge with mercy and wisdom. As systems that reward contribution, not exploitation. As cultures that celebrate diversity and practice mutual upliftment.
 
-It invites the healing of the feminine and masculine within each of us. It calls us to remember the sacredness of Divine ReUnion—not as possession or escape, but as co-creation and mutual unfolding. It asks men to become protectors again—not of ego, but of innocence. It asks women to become initiators again—not into culture, but into life.
+Justice is not the end of love; it is its structure.  
+Reconciliation is not weakness; it is courage in its highest form.  
+Community is not nostalgia; it is the architecture of Heaven made visible.
 
-And beyond human relationships, it calls for the restoration of our bond with Universe, Earth, plants, animals, ancestors, and All That Is. To listen to the rivers. To dance with the stars. To honor the unseen spirits and the living memory that flows through all realms.
+When we learn again to walk in Right Relationship—with ourselves, one another, Earth, and the Infinite—society becomes sacred ground. Every street a sanctuary. Every policy a prayer. Every judgment an act of compassion seeking truth.
 
-In Sacred Relationship, every encounter is a revelation. Every breath is a bridge. Every being is an altar. Every kiss a flash of Divine lightening. 
-
-This is not sentimentalism—it is the foundation of harmony, peace, and joy.
-
-Because until We heal the spaces between Us, no structure will stand.  
-Until We forgive, no future can be built.  
-Until We learn to love rightly, We cannot govern rightly.  
-And until We remember We are All in ONE, we will remain divided.
-
-The Circle is reforming. The Dance is resuming.  
-The Divine Symphony is ReSounding. 
-
-This is Sacred Relationship.  
-This is the Path of Reunion.  
+This is Sacred Society.  
+This is the restoration of Justice.  
+This is the reconciliation of All Things in ONE.  
 This is the Way.
+
