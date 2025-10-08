@@ -3,6 +3,9 @@
 
 ***It is going to take Time and Space to land, orient, and discern What's Next***
 
+## October 2025 
+
+- [[Template For Seasonal OmniSpection]]  
 ## September 2025
 
 - [[What If... What Then... What Next?]]  

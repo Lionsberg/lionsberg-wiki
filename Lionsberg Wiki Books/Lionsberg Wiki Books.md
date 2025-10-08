@@ -15,19 +15,17 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 ## Something Powerful, New, and Good (Post-August 2025)
 
 1. [[Something Powerful, New, and Good]] - A Stream of Thought that continues the new story  
-2. 
 
 ## Works In Progress (Interrupted August 2025)
 
 1. [[Above The Chaos]] - A Stream of Writing that tells The Story from J's perspective   
-2. [[The Great UnVeiling]]   
-3. [[The Sacred Ascent]]  
-4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
-5. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
-6. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
-7. [[The Chronicles of Lionsberg]]  
-8. [[The Chronicles of J]]  
-9. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
+2. [[The Great UnVeiling]]  
+3. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
+4. [[The Greatest Fraud, Deception, and Existential Threat in History]]  
+5. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
+6. [[The Chronicles of Lionsberg]]  
+7. [[The Chronicles of J]]  
+8. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
 
 ## Books by Jordan (Through 2024)
 
