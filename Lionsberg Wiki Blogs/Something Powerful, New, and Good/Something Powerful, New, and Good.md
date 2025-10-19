@@ -1,10 +1,10 @@
 # Something Powerful, New, and Good
 *This Series Is The Interim Successor to [[Above The Chaos]]*  
-
 ***It is going to take Time and Space to land, orient, and discern What's Next***
 
 ## October 2025 
 
+- [[Look WithIn]]  
 - [[Template For Seasonal OmniSpection]]  
 ## September 2025
 
