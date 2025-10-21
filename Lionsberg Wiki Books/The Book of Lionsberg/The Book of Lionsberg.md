@@ -1,5 +1,4 @@
 # The Book of Lionsberg
-By [[Jordan Nicholas Sukut]]  
 
 This is a living [[Work In Progress]]... 
 

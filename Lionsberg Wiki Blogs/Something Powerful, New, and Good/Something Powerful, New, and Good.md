@@ -3,7 +3,7 @@
 ***It is going to take Time and Space to land, orient, and discern What's Next***
 
 ## October 2025 
-
+O
 - [[Look WithIn]]  
 - [[Template For Seasonal OmniSpection]]  
 ## September 2025

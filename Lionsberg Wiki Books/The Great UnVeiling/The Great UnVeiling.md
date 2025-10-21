@@ -1,11 +1,17 @@
 # The Great UnVeiling
+
+In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it became clear to Earth's inhabitants that they had been progressively enslaved for millennia by non-human and anti-human forces. In [[The Story of LIONSBERG]], it is the precursor to [[The Exodus]]. 
+
+## Part I: [[The Theses of The Great UnVeiling]]  
+
+## Part II: The Great UnVeiling Book
+
+___
+
+# The Great UnVeiling
 _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
-*This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]*.  
-
-*Because The Great UnVeiling was occurring through thousands of Voices around the world, it happened on schedule nonetheless.*   
-
-The Great Work now continues through **[[The Story of LIONSBERG]]**.  
+*This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]. Because the UnVeiling was being spoken by myriads of voices, many of whom died, it continued on schedule*.  
 
 ## **FRONT MATTER**
 
