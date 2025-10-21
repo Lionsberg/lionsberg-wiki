@@ -26,7 +26,7 @@ ReMember.
 ## **Before You Begin**
 
 If this Playbook has reached you without your passing through  
-**[[The Gates of Initiation]]**, pause here.
+**[[The 144 Gates of Initiation]]**, pause here.
 
 The Playbook cannot be consumed.  
 Its Wisdom cannot be mined.  

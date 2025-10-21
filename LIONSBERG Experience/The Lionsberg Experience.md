@@ -71,7 +71,7 @@ until what was separate becomes whole.
 By the end of the Gates, both the individual and the community are reborn,
 ready to live the Way of Heaven on Earth.
 
-**[[The Gates of Initiation]]**
+**[[The 144 Gates of Initiation]]**
 
 ---
 
