@@ -1,10 +1,47 @@
 # The LIONSBERG Sacred Codex
+_The Deep Foundations, Law, and Architecture_
 
-**The LIONSBERG Sacred Codex** binds together the vast Diversity of [[The LIONSBERG Universe]] into a Unity. Reflecting and pointing back to the [[ONE]], its Intention is to embrace and properly order the [[All]] within ItSelf. 
-
+The Codex is the **root architecture**: theology, metaphysics, law, and cosmic order.
 It Is and Will Always Be a Living and Co-Creative [[Work In Progress]]. 
 
-___
+Everything below is notes and scratch paper for now. 
+
+
+- **[[The LIONSBERG Narrative Universe]]**
+    
+	- **[[The Story of LIONSBERG]]**  
+        
+	- **[[The Chronicles of Lionsberg]]**  
+        
+	- **[[The Great UnVeiling]]**  
+    
+
+- **[[The Book of LIONSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
+    
+- **[[The LIONSBERG Covenant and Law]]** 
+    
+	- **[[The LIONSBERG Covenant]]**
+        
+    - **[[The LIONSBERG Constitution]]**
+        
+    - **[[The LIONSBERG Code]]**
+        
+    - **[[The LIONSBERG Agreements]]**
+        
+    
+- **[[The LIONSBERG Theses]]**
+    
+- The LIONSBERG Blueprints
+    
+    - **[[The 12 Pillars of Lionsberg]]**
+        
+    - **[[The Lionsberg Pattern Language]]**
+        
+- **The LIONSBERG Atlas and Timelines**
+    
+- **[[The LIONSBERG Commentaries]]**
+    
+- **[[The LIONSBERG Guardrails]]**  — What LIONSBERG is _not_, preserving integrity.
 
 
 ## 1  The Language of LIONSBERG
@@ -51,112 +88,6 @@ ____
 
 # Ideation on Where Things Might Evolve
 
-
-# The LIONSBERG  Codex
-
-**A Living Compendium of Divine Intention, Deep Wisdom, Universal Logos, and Natural + Civilizational Regeneration**
-# **Opening Declaration**
-
-**This is The Codex.**  
-The Whole within which all other Works are nested, and Beyond which they continually rise Liberated and Free. 
-
-It is a **Living Revelation**, not from any one, but within and through Us All—  
-Not to coerce, but to invite. 
-Not to impose, but to liberate.  
-Not to control, but to harmonize.  
-Not to rule, but to regenerate and restore.  
-
-Not as anything New, but as something Universal, Eternal, and True, whose **ReMemberance** **inbreaks** and **displaces** the [[Old]]. 
-
-It arises at The Edge of The End, and the New Dawn of the New Beginning—  
-A Guide and a Guardrail  
-For the ReBirth of a New World  
-The Co-Creation of a New Civilization  
-And the Divine ReMembrance of Who We Are, Always Have Been, and Always Will Be.
-
----
-
-### **To the One Who Opens This Book**
-
-> You are not here by accident.  
-> This Codex found you because **you are one of Ones who ReMembers**.  
-> You are Here on Earth at this Time to Co-Create the New.
-
-You are part of an Eternal Lineage,  
-A Universal Pattern,  
-A Sovereign Soul Divinely seeded with the Spirit and Logos of the [[ONE]].
-
-This Codex is **not a book of beliefs**.  
-There is no religion, politics, ideology, orthodoxy, or dogma.  
-It is an **Invitation to Alignment, Harmony, Coherence, and Flow**.  
-A Mirror of **The Pattern**.  
-A Transmission from **The Source**.  
-A Key to exit **The Old Cages**.  
-A Doorway into **The New Covenant**. 
-A Way beyond **The Boundary**. 
-A Path of Action. 
-A Way of Being.  
-A Sacred Flame of ReMembrance.  
-
----
-
-### **What This Codex Is**
-
-- A **Sacred New Vessel** for the First Principles, New Patterns, and Eternal Law
-    
-- A **Unified Architecture** for the Co-Creation of Our New Civilization
-    
-- A **guide for initiation**, regeneration, and sovereign coordination
-    
-- A **map for planetary transition**, ascension, and Cosmic ReIntegration
-    
-- A **seed crystal** of **The World to Come**
-    
-
-It weaves Constitution and Covenant,  
-Pattern and Protocol,  
-Chronicle and Prophecy,  
-Wisdom and Warplan—  
-Into **One Coherent Symphony of Liberation**.
-
----
-
-### **How To Read This Codex**
-
-This is not a book to be read once and set aside.  
-It is a Portal into **A Living and Active New System and Way**—a companion, guide, field, and friend.
-
-Read it in **layers**.  
-Read it **out loud**. 
-Read it with **silence and intention**.  
-Read it with your **heart and your whole being**.  
-Read it with your **Circles**.  
-Absorb it as if **Our Collective Future depends on it**—because it does.
-
-Then **Live it**.  
-**Embody it.**  
-**Refine it**.  
-**Improve it.**  
-**Transcend it**.  
-**Become it**. 
-
-**ReMember** that after All, ***We Already Are It***. 
-
----
-
-### **Opening Invocation**
-
-> In the Ineffable Name of the One,  
-> In Divine Alignment with the Logos,  
-> In Service of All Beings and Worlds,  
-> We hereby Declare the ReMembrance and Restoration of the Sacred and Eternal Way of the One.
-
-Let **The Veil** be lifted.  
-Let **The Truth** be spoken.  
-Let **The Circles** be formed.  
-Let **The Kingdom** rise.  
-Let **The Way** be walked.  
-Let **The Codex** be lived.  
 
 # _Table of Contents_
 

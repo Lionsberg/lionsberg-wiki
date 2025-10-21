@@ -1,4 +1,4 @@
-# The Eternal Foundation — The ONE
+# The ONE — Eternal Source, Center, and Fulfillment of All
 
 _The Source, the Goal, and the Living Center of All_
 

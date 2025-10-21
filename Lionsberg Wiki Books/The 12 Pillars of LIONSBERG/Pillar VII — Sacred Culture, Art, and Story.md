@@ -1,4 +1,4 @@
-# Pillar VII — Sacred Culture, Art, and Expression
+# Pillar VII — Sacred Culture, Art, and Story
 
 _The Creative Flowering of the Divine Through Embodied Being_
 

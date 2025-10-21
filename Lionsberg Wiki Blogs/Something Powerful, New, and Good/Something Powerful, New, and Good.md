@@ -3,9 +3,10 @@
 ***It is going to take Time and Space to land, orient, and discern What's Next***
 
 ## October 2025 
-O
+
 - [[Look WithIn]]  
 - [[Template For Seasonal OmniSpection]]  
+- [[The Theses of The Great UnVeiling]]  
 ## September 2025
 
 - [[What If... What Then... What Next?]]  

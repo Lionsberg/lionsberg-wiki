@@ -1,4 +1,4 @@
-# Pillar II — Sacred Governance
+# Pillar II — Sacred Governance and Stewardship
 
 _The Just Stewardship of Power and Authority in service of ONE and All_
 

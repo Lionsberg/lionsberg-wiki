@@ -1,4 +1,4 @@
-# Pillar III — Sacred Economics
+# Pillar III — Sacred Economy
 
 _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 

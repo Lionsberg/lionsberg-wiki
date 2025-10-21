@@ -1,4 +1,4 @@
-# Pillar VI — Sacred Ecology and InterBeing
+# Pillar VI — Sacred Ecology and Living Systems
 
 _Reverent Regeneration of the Living Systems That Sustain Us_
 

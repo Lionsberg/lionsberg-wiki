@@ -1,4 +1,4 @@
-# Pillar X — Sacred Security and Proper Order
+# Pillar X — Sacred Guardianship and Order
 
 _Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_
 

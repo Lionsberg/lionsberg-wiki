@@ -36,7 +36,7 @@ Reawakens Our alignment with the Source of All That Is and re-centers the Logos 
 
 ---
 
-#### **[[Pillar II — Sacred Governance]]**
+#### **[[Pillar II — Sacred Governance and Stewardship]]**
 
 _The Just Stewardship of Power and Authority in Right Relationship with the ONE and All_
 
@@ -44,7 +44,7 @@ Restores legitimate authority as that which serves ONE and All, and reconstitute
 
 ---
 
-#### **[[Pillar III — Sacred Economics]]**
+#### **[[Pillar III — Sacred Economy]]**
 
 _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 
@@ -69,7 +69,7 @@ Regenerates systems of wellness that honor the full spectrum of being, and resto
 
 ---
 
-#### **[[Pillar VI — Sacred Ecology and InterBeing]]**
+#### **[[Pillar VI — Sacred Ecology and Living Systems]]**
 
 _Reverent Regeneration of the Living Systems That Sustain Us_
 
@@ -77,7 +77,7 @@ Calls for reverent stewardship of the Earth and recognition of our inseparabilit
 
 ---
 
-#### **[[Pillar VII — Sacred Culture, Art, and Expression]]**
+#### **[[Pillar VII — Sacred Culture, Art, and Story]]**
 
 _The Creative Flowering of the Divine Through Humanity_
 
@@ -93,7 +93,7 @@ Reintegrates science and technology with wisdom, ethics, and sacred intention in
 
 ---
 
-#### **[[Pillar IX — Sacred Architecture and Built Environment]]**
+#### **[[Pillar IX — Sacred Architecture and Build]]**
 
 _Manifesting the Divine in the Places We Live, Gather, Work, and Worship_
 
@@ -101,7 +101,7 @@ Designs and builds in harmony with Nature and Spirit to uplift, heal, and inspir
 
 ---
 
-#### **[[Pillar X — Sacred Security and Proper Order]]**
+#### **[[Pillar X — Sacred Guardianship and Order]]**
 
 _Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_
 
@@ -109,9 +109,9 @@ Ensures safety, order, and the defense of Truth and Justice while remaining alig
 
 ---
 
-#### **[[Pillar XI — Sacred Society, Right Relationship, and Justice]]**
+#### **[[Pillar XI — Sacred Society and Justice]]**
 
-_ReWeaving Right Relationship Between All Beings and Apparent Polarities_
+_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_
 
 Reconciles the polarities and fragmentations of the Old World through love, integration, and the conscious harmonization of polarities.
 
@@ -125,7 +125,7 @@ Realigns life with sacred cycles and cosmic timing, and restores ritual, rhythm,
 
 ---
 
-### **[[The Eternal Foundation — The ONE]]**
+### **[[The ONE — Eternal Source, Center, and Fulfillment of All]]**
 
 *The Source, the Goal, and the Living Center of All*
 
@@ -133,15 +133,6 @@ The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero 
 
 > Without alignment with the ONE, all pillars collapse.  
 > With alignment, all things cohere, uplift, and transcend.
-
----
-
-### **[[The Eternal Destiny — The ONE]]**
-
-_The Fulfillment and Ever-Unfolding Return of All Things to Source_
-
-Reveals the ultimate purpose of Creation as the conscious reunification of all beings, systems, and worlds with and within the ONE.  
-Unites the beginning and the end, the Alpha and the Omega, as a single eternal movement of becoming—an infinite spiral of remembrance, ascent, and co-creation through which the Cosmos fully realizes ItSelf as ONE Body.
 
 
 ### **Applications and Implementation**
