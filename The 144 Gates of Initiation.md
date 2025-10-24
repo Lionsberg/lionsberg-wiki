@@ -214,87 +214,59 @@ _The 144 Gates of Initiation — The Way Out of Bondage and Towards the New Worl
 **(UNREVIEWED [[Work In Progress]])**
 
 ---
-## **[[Gate 0 — The Circle Is Forged (Pre-Initiation)]]**
-
-**Theme:** Fire in the Dark.
-**Purpose:** Bind sovereigns into a Circle; establish covenant, safety, rhythms, roles, and provisioning to travel the Gates together through wilderness, work, and war.
-**Arc:** _Strangers or Friends → Fellow Pilgrims → Covenanted Circle → Ready to Depart._
-**Energetic Current:** Devotional feminine holding + disciplined masculine framing.
-**Story:** In a hidden place a small fire is lit. Faces appear from shadow. Names are spoken, gifts revealed, fears confessed. A simple meal is shared, a vow is made, and an ember is placed in every heart. The Journey can begin.
-**Threshold Text:** _“From this flame, We advance through The Gates and towards The Goal as One. No one involuntarily left behind.”_
-
-**Includes:** Circle covenant and roles • rhythms & signals • basic agreements • essential provisioning & mutual aid • sanctuary & evacuation routes • comms/OPSEC 101 • how to ask for help • guide contact • first vow & offering.
+### **[[Gate 0 — The Circle Is Forged (Pre-Initiation)]]**
 
 ## **Movement I — Awakening in the Caves of Kontrolle**
 
-## **[[Threshold to Movement I — Awakening in the Caves of Kontrolle]]**
+### **[[Threshold to Movement I — Awakening in the Caves of Kontrolle]]**
+
+## **Movement II — Revelation of Bondage**
+
+### **[[Threshold to Movement II — Revelation of Bondage]]**
 
 
 ---
 
-## **Movement II — Revelation of Bondage (Gates 10–20)**
+## **Movement III — Cry of the Heart & Call to Exodus**
 
-**Theme:** The architecture of deception and kontrolle is unveiled.
-**Purpose:** Expose systems of domination; end enchanted consent; surface the machine.
-**Arc:** _Denial → Disillusion → Discernment._
-**Story:** Inversions are named; consent is reclaimed.
+### **[[Threshold to Movement III — Cry of the Heart & Call to Exodus]]** 
 
-This Movement dismantles illusion. Institutions, ideologies, and hidden powers are revealed for what they are. The scales fall from the collective eyes. Truth becomes the first act of freedom.
+  
 
-10. **Anatomy of Kontrolle**
-    
-11. **Chains of Debt & Law**
-    
-12. **Sorcery of Mind & Media**
-    
-13. **Cult of Scarcity**
-    
-14. **Hidden Priesthoods and Kontrollers**
-    
-15. **Dark Mirrors (Inversion)**
-    
-16. **Web of Manufactured Consent**
-    
-17. **Name the Parasite**
-    
-18. **Reckoning & Guardrails**
-    
-19. **Orientation to Liberation**
-    
-20. **Exodus Prepared**
-
-
----
-
-## **Movement III — Cry of the Heart & Call to Exodus (Gates 21–30)**
-
-**Theme:** Spirit and Conscience rises; the will to depart is born.
-**Purpose:** Ignite collective will; withdraw consent and energy; coordinate departure. 
+**Theme:** Spirit and Conscience rises; the courage and will to depart ignites.
+**Purpose:** Ignite collective will; withdraw consent and energy; coordinate the crossing.
 **Arc:** _Lament → Courage → Departure._
-**Story:** Torches are lit; the first line is crossed.
+**Energetic Current:** Fierce protection (masculine) cradled in belonging (feminine).
+**Story:** Torches are lit; the gates open; the first line is crossed; the waters begin to part.
+**Threshold Text:** _Leave what must be left. Take only what you can carry in love._
 
-The people cry out for justice. Conscience awakens. Leaders and Circles begin forming. The first communities of trust light torches and prepare to leave the bondage of the Old World behind. A decisive crossing occurs—psychological, spiritual, and practical. Property, identity, and security once defined by the Old World are left behind. The people step Beyond The Boundary into the Unknown together.
+The awakening spread. Those liberated in Spirit and Mind cry out for Freedom and Justice For All. Conscience awakens. The protocols of Exodus are established. Leaders and Circles begin forming. The first communities of trust light torches and prepare to leave the bondage of the Old World behind. The gates fling wide with Truth and a decisive crossing occurs—psychological, spiritual, and practical. Property, identity, and security once defined by the Old World are left behind in the Sacred Fire at The Gates. The people step across The Threshold of Knowing and Beyond The Boundary into the Unknown together. The pioneers make Way for The First Three Percent, and the tipping point strategy begins. As the entire population begins to be pulled out of The Caves, the Evil Empire strikes back. Backlash and pursuit. Forgotten allies and Divine helpers emerge from Beyond. In The Wilderness, in the midst of The Tents, The Sacred Flame is kept through the night. 
+[[The Caves]] 
+**Gates (25–36):**
 
+25. [[Gate 25 — The Unstoppable Urge Towards Freedom]]
 
-21. **Last Meal in Bondage**
-    
-22. **Sever False Contracts**
-    
-23. **Exodus Protocol**
-    
-24. **Departure**
-    
-25. **Pursuit & Backlash**
-    
-26. **Pillar of Fire (Guidance)**
-    
-27. **Passage Through Chaos**
-    
-28. **Crossing of Waters**
-    
-29. **Song of Liberation**
-    
-30. **Camp in the Wilderness**
+26. [[Gate 26 — Last Meal in the Darkness of The Caves]]
+
+27. [[Gate 27 — Orientation to Sovereignty and Freedom]]
+
+28. [[Gate 28 — Exodus Protocols (Safety & Strategy)]]
+
+29. [[Gate 29 — The Departure of The First Few]]
+
+30. [[Gate 30 — Crossing The Boundary]]
+
+31. [[Gate 31 — Pillar of Fire (Divine Guidance)]]
+
+32. [[Gate 32 — Making Way For The First Three Percent]]
+
+33. [[Gate 33 — Backlash & Pursuit]]
+
+34. [[Gate 34 — Passage Through Chaos]]
+
+35. [[Gate 35 — Miracles and Memories from Beyond]]
+
+36. [[Gate 36 — Offering: Fire Kept Through the Night]]
 
 
 ---
@@ -307,6 +279,12 @@ The people cry out for justice. Conscience awakens. Leaders and Circles begin fo
 **Story:** Scarcity tests resolve; a people receives its name.
 
 The community wanders and learns resilience. It is a time of purification and unlearning. Old patterns dissolve. Trauma is faced and transmuted. New practices of mutual care and governance arise. The seed of the New Civilization germinates. The people become the kinds of beings that can consciously Co-Create Heaven. 
+
+[[Gate 35 — Camp in the Wilderness]]
+[[Gate 21 — Reckoning & Guardrails]]
+
+
+[[Gate 34 — Song of Liberation]]
 
 31. **Scarcity Test**
     
@@ -669,95 +647,10 @@ ____
 
 ---
 
-## **Movement II — [[Revelation of Bondage]]**
-
-  
-
-**Theme:** The machine unveiled.
-
-**Purpose:** End enchanted consent; see architecture of control.
-
-**Arc:** _Denial → Disillusion → Discernment._
-
-**Story:** Inversions are named; consent is recalled from the net.
-
-**Energetic Current:** Cutting clarity (masculine) tempered by compassion (feminine).
-
-**Threshold Text:** _What is seen cannot be unseen. Walk on._
-
-  
-
-**Gates (13–24):**
-
-13. [[Gate 13 — Anatomy of Kontrolle]]
-
-14. [[Gate 14 — Chains of Debt and Law]]
-
-15. [[Gate 15 — Sorcery of Mind and Media]]
-
-16. [[Gate 16 — Cult of Scarcity]]
-
-17. [[Gate 17 — Hidden Priesthoods & Kontrollers]]
-
-18. [[Gate 18 — Dark Mirrors (Inversion)]]
-
-19. [[Gate 19 — Web of Manufactured Consent]]
-
-20. [[Gate 20 — Name the Parasite]]
-
-21. [[Gate 21 — Reckoning & Guardrails]]
-
-22. [[Gate 22 — Orientation to Liberation]]
-
-23. [[Gate 23 — Exodus Prepared]]
-
-24. [[Gate 24 — Offering: Renounce False Contracts]]
+]]
 
 ---
 
-## **Movement III — [[Cry of the Heart & Call to Exodus]]**
-
-  
-
-**Theme:** Conscience rises; departure ignites.
-
-**Purpose:** Withdraw consent and energy; coordinate the crossing.
-
-**Arc:** _Lament → Courage → Departure._
-
-**Story:** Torches are lit; the first line is crossed; the waters begin to part.
-
-**Energetic Current:** Fierce protection (masculine) cradled in belonging (feminine).
-
-**Threshold Text:** _Leave what must be left. Take only what you can carry in love._
-
-  
-
-**Gates (25–36):**
-
-25. [[Gate 25 — Last Meal in Bondage]]
-
-26. [[Gate 26 — Sever False Contracts]]
-
-27. [[Gate 27 — Exodus Protocol (Safety & Strategy)]]
-
-28. [[Gate 28 — The Departure]]
-
-29. [[Gate 29 — Pursuit & Backlash]]
-
-30. [[Gate 30 — Pillar of Fire (Guidance)]]
-
-31. [[Gate 31 — Passage Through Chaos]]
-
-32. [[Gate 32 — Crossing of Waters]]
-
-33. [[Gate 33 — Memory of the Stars (Cosmic Kin)]]
-
-34. [[Gate 34 — Song of Liberation]]
-
-35. [[Gate 35 — Camp in the Wilderness]]
-
-36. [[Gate 36 — Offering: Fire Kept Through the Night]]
 
 ---
 

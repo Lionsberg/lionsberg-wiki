@@ -4,12 +4,17 @@
 
 ## October 2025 
 
+- [[The LIONSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth!  
+- [[The Seed of LIONSBERG]]  
+- [[The 144 Gates of Initiation]] - Work in Progress  
 - [[Look WithIn]]  
 - [[Template For Seasonal OmniSpection]]  
 - [[The Theses of The Great UnVeiling]]  
+
 ## September 2025
 
 - [[What If... What Then... What Next?]]  
+- [[OmniSpection (2025 Season 4)]]  
 ## August 2025
 
 - [[We Have Been Thinking...]]  

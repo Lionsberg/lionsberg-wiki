@@ -143,13 +143,13 @@ Each gate will strip illusion and strengthen sight.
     
 7. [[Gate 7 — The Mirror Gate — Witness Together]]
     
-8. [[Gate 8 — Shatter Idols, Ideologies, and Chains]]
+8. [[Gate 8 — ReMember the ONE]]
     
-9. [[Gate 9 — Inner Sovereignty Declared]]
+9. [[Gate 9 — The Decision to Be Free]]
     
-10. [[Gate 10 — Breath of Courage]]
+10. [[Gate 10 — Inner Sovereignty Declared]]
     
-11. [[Gate 11 — The Quiet Yes]]
+11. [[Gate 11 — Shatter Idols, Ideologies, and Chains]]
     
 12. [[Gate 12 — Offering: A Small Act of Truth]]
     
