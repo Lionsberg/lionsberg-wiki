@@ -1,15 +1,18 @@
 # Something Powerful, New, and Good
-*This Series Is The Interim Successor to [[Above The Chaos]]*  
-***It is going to take Time and Space to land, orient, and discern What's Next***
+*This Series Is the interim successor to [[Above The Chaos]]*  
+***Emerging from Beyond, We are orienting and discerning What's Next***
 
 ## October 2025 
 
 - [[Look WithIn]]  
 - [[The LIONSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth  
-- [[The Seed of LIONSBERG]]  
-- [[The 144 Gates of Initiation]] - Work in Progress  
+- [[The LIONSBERG Experience]] - work in progress  
+- [[The Seed of LIONSBERG]] - work in progress 
+- [[The Story of LIONSBERG]] - work in progress  
+- [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
+- [[The 144 Gates of Initiation]] - work in Progress  
 - [[Template For Seasonal OmniSpection]]  
-- [[The Theses of The Great UnVeiling]]  
+- [[The Theses of The Great UnVeiling]] - work in progress 
 
 ## September 2025
 

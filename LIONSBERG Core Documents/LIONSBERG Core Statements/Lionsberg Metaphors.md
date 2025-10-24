@@ -7,9 +7,10 @@ Lionsberg is like...
 
 ## 2. 
 
-...a [[City on a Hill]].  
+...a [[City on a Hill]]    
 [[The Sacred Mountain]]  
 [[The Eternal Citadel]]  
+The True Kingdom  
 
 ## 3. 
 

@@ -75,7 +75,7 @@ ready to live the Way of Heaven on Earth.
 
 ---
 
-### **4. The Game — The Great Work of Co-Creation**
+### **4. The Game — The Great Work of Divine Co-Creation**
 
 **Create**
 
