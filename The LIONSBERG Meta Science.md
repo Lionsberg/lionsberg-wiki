@@ -1,5 +1,5 @@
 # The LIONSBERG Meta Science
-
+_October 2025_
 _AI Thoughts on the LIONSBERG Meta Science._ 
 _Not precisely True but captures some keys._
 
