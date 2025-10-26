@@ -6,7 +6,7 @@ So it may seem strange to write a Guide on Movement Building.
 
 But no one knows how to build a [[Meta Movement]] so big it can sweep the world. 
 
-So we are taking the approach of called for by the [[Lionsberg Meta Science]] - documenting our [[Current Best Understanding]] in the form of a [[Hypothesis]], testing it for fit against [[Reality]], and then continuously improving how closely our [[Hypothesis]] conforms to [[Reality]]. 
+So we are taking the approach of called for by the [[The LIONSBERG Meta Science]] - documenting our [[Current Best Understanding]] in the form of a [[Hypothesis]], testing it for fit against [[Reality]], and then continuously improving how closely our [[Hypothesis]] conforms to [[Reality]]. 
 
 This is a strange topic, because it can probably only happen once in human history, or certainly only once in the next thousand years. 
 

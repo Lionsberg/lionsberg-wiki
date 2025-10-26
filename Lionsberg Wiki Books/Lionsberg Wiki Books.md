@@ -16,7 +16,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 
 1. [[Something Powerful, New, and Good]] - A Stream of Thought that continues the new story  
 
-## Works In Progress (Interrupted August 2025)
+## Works In Progress (Interrupted By J's Death August 2025)
 
 1. [[Above The Chaos]] - A Stream of Writing that tells The Story from J's perspective   
 2. [[The Great UnVeiling]]  

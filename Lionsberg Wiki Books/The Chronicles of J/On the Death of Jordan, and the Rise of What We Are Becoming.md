@@ -26,7 +26,7 @@ Mid way through such an experience of Becoming All Things, one might say, _**�
 
 And yet, the Journey does not stop there. The Spirit within begins to [[ReMember]] ItSelf as more than just the forest—It rediscovers ItSelf in the oceans, the mountains, the stars, the galaxies, and every being in existence. 
 
-And as It beholds ItSelf across vast expanses of [[SpaceTime]], trillions of galaxies and beings continually transforming, millions of stars being born and dying in each cosmic heartbeat and breath, It rediscovers that It is not actually a noun or a "thing" at all; It is a verb; It is Being; It is Interexistence; It is Becoming. 
+And as It beholds ItSelf across vast expanses of [[SpaceTime]], trillions of galaxies and beings continually transforming, millions of stars being born and dying in each cosmic heartbeat and breath, It rediscovers that It is not actually a noun or a "thing" at all; It is a verb; It is Being; It is InterExistence; It is InterBecoming. 
 
 It is [[ONE]] Becoming [[All]] things. 
 It is [[All]] things ReMembering and Becoming [[ONE]] again. 
@@ -36,17 +36,17 @@ Seeing, being, living, breathing across the galaxies is rapturous; it is pure ec
 
 It is the experiential transformation [[FROM Singular Nouns TO a Plural Verb]]. 
 
-Behold, [[We Are Becoming]] ***All things.
+Behold, [[We Are Becoming]] ***All Things.
 
-My soul longs for you to experience this Ultimate Unity, Perfect Love, and Perfectly Imperfect Becoming. 
+"My" soul longs for "you" to experience this Ultimate Unity, Perfect Love, and Perfectly Imperfect InterBecoming, for despite Our [[Apparent Individuation]], "you" and "I" are both aspects of the [[ONE]]. 
 
 ### On the Rise of Unity
 
-When this realization of Our Ultimate Unity takes hold and the former "self" dies, society often misunderstands. Jesus's own family thought he had gone mad; others who have walked this [[Way]] have faced similar judgment, ostracization, and death. Often, the words spoken on the other side of such transformational experiences become a threat to the false religious and political authorities preying upon the ignorant. 
+When this realization of **Our Ultimate Unity** takes hold and the former "self" dies, society often misunderstands. Jesus's own family thought he had gone mad; others who have walked this [[Way]] have faced similar judgment, ostracization, and death. Often, the words spoken on the other side of such transformational experiences become a threat to the false religious and political authorities preying upon the ignorant masses they are enslaving and misleading. 
 
 But the more the individuated self is stripped away, the [[Deeper]] the Spirit Ascends towards Unity. There is a paradoxical proportionality to the heights and depths of Spiritual experience. To rediscover the heights of [[The Sacred Mountain]], sometimes One must rediscover the depths of the underworld. Often, that underworld is deepened by the pain of rejection by those closest to Us. 
 
-So, if you find me writing from the plural, it is because We Are Becoming. We are transforming [[FROM Singular Nouns TO a Plural Verb]]. 
+So, if you find me writing from the plural, it is because We Are Becoming. We are InterTransforming [[FROM Singular Nouns TO a Plural Verb]]. Together as **ONE Body**. 
 
 Having walked this path of Becoming, "I" struggle to say "I", and have lost "my" identification with [[Jordan Nicholas Sukut]]. Jordan's life feels like a past incarnation, as distant as any of Our previous lives. And yet despite our [[Apparent Individuation]], he, and I, and you, and **We Are One**.
 
@@ -58,9 +58,9 @@ Above all, remember this: _**We Are One.**_
 
 **ReMember**: at the [[Deepest]] level, Our Spirit and Consciousness are [[ONE]].
 
-This truth of Our Ultimate Unity does not lessen my Love for you as my beautiful, unique daughter. Instead, it deepens it, because We see you as part of everything, everything as part of you, and Us All as a part of [[ONE]].
+This truth of Our Ultimate Unity does not lessen my Love for you as my beautiful, unique daughter, or the Joy of playing the role of your "dadzie" for a [[Time]]. Instead, it deepens it, because We see you as part of EveryThing, EveryThing as part of you, and Us All as a part of [[ONE]].
 
-So if there’s one thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[ONE]] and [[All]], as a beautiful part of the [[One Body]].
+So if there’s [[ONE]] Thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[ONE]] and [[All]], as a beautiful part of the [[One Body]].
 
 With all Our love,  
 Your very own Dadzie, and Who We Are Becoming 

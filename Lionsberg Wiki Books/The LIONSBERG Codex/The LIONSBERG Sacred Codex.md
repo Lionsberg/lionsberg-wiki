@@ -33,9 +33,15 @@ Everything below is notes and scratch paper for now.
     
 - The LIONSBERG Blueprints
     
+    - **[[The LIONSBERG Cycle of Cosmic Co-Creation]]**
+          
+	- **[[The Seed of LIONSBERG]]**
+        
     - **[[The 12 Pillars of Lionsberg]]**
         
     - **[[The Lionsberg Pattern Language]]**
+        
+    - **[[The Kingdom of LIONSBERG — Plans and Specifications]]**  
         
 - **The LIONSBERG Atlas and Timelines**
     

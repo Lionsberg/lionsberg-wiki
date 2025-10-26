@@ -11,6 +11,7 @@
 - [[The Story of LIONSBERG]] - work in progress  
 - [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
 - [[The 144 Gates of Initiation]] - work in Progress  
+- [[The LIONSBERG Meta Science]]
 - [[Template For Seasonal OmniSpection]]  
 - [[The Theses of The Great UnVeiling]] - work in progress 
 
