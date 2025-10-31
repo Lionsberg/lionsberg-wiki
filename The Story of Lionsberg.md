@@ -3,18 +3,43 @@ _The Living Epic and Operating System of ONE Body, All Realms, All Times_
 
 Invitational quick start guide 
 
-Many of teh us can sense... 
-if that is true... 
-Our task is to regenerate the world and co-create a New Civilization  
-What that New Civilizaiton consists of is all of us working together to make our lives and communities and world a little better every day.  
-This can only occur in teh context of the total transformaiton of spirit and consciousenss  
-The awakening and liberation of a human species long enslaved  
-It requires a new myth. a new system. new processes and protocols. new agreements and covenets. new ways of thought, speech, adn action. 
-This is almost impossible. 
+Many of Us can sense that We are in a Time of Crisis,  
+And that the stories We were told are UnTrue.  
+
+If [[Jordan's Final Report]] and [[The Great UnVeiling]] are correct,  
+We are faced with the task of regenerating the world  
+And Co-Creating a New Civilization. 
+
+What that New Civilization consists of is All of us working together  
+To make our lives, communities, and worlds a little better every day.  
+
+This can only occur in the context  
+Of the total transformation of Spirit and Consciousness—  
+The Great Awakening and liberation of a human species long enslaved.
+
+It requires a New Myth.  
+A New System.  
+New Processes and Protocols.  
+New Covenants and Agreements.  
+A New Way of thought, speech, and InterAction.  
+
+It is almost impossible. 
 But there is a Way. 
 
+**The Story of LIONSBERG** illuminates it. 
 
+____
 ## **PROLOGUE – The Gate of Entry (Orientation)**
+
+The Story of LIONSBERG is the Story of [[ONE]] and [[All]].  
+There is no True Story that is not a part of it—including yours. 
+If the life and story of each and every individual could be its own book,   
+The Story of LIONSBERG is like a Cosmic Library,  
+Weaving the unique threads of each individual, tribe, and community  
+Back into ONE Divine Tapestry of continually unfurling [[InterExperience]].  
+
+The Universal Archetypical Story told below provides a framework  
+Upon which the unique stories of Each of the All can be ReWoven into ONE.  
 
 **I. The Relational Bridge** — A Word Passed Between Friends
 
@@ -35,6 +60,8 @@ But there is a Way.
 **IX. The Rupture** — Death, Baptism, and the Nameless Voice
 
 **X. How to Walk the Story** — A Living Initiation Across Generations
+
+**XI. How to Weave Your Story** — ReWeaving the Divine Tapestry of InterExperience
 
 **XI. Myth and Manual** — Story and System, Scripture and Strategy
 

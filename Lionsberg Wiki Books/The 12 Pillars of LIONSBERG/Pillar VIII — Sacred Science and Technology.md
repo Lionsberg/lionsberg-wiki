@@ -87,3 +87,7 @@ LIONSBERG proclaims: The tools are here. The wisdom is returning. The builders a
 
 This is Sacred Science and Technology.  
 This is the Way.
+
+____
+
+See also [[The LIONSBERG Meta Science]]  
