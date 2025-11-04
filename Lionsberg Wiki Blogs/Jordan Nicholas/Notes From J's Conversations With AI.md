@@ -1,7 +1,7 @@
 # Notes From J's Conversations With AI
 
 
-## Behold A Place Horse
+## Behold A Pale Horse
 
 **J: Tell me about the book Behold a Pale Horse**
 
