@@ -28,7 +28,7 @@ Each title below links to its corresponding page.
 
 ---
 
-#### **[[Pillar I — Sacred Theology and Philosophy]]**
+#### **[[Pillar I — Sacred Ontology and Metaphysics]]**
 
 _Continually ReAligning Humanity within the Great Story and the Divine Order_
 
@@ -93,9 +93,9 @@ Reintegrates science and technology with wisdom, ethics, and sacred intention in
 
 ---
 
-#### **[[Pillar IX — Sacred Architecture and Build]]**
+#### **[[Pillar IX — Sacred Architecture and Design]]**
 
-_Manifesting the Divine in the Places We Live, Gather, Work, and Worship_
+_Manifesting the Divine in the Places We Live, Gather, Work, and Play_
 
 Designs and builds in harmony with Nature and Spirit to uplift, heal, and inspire the communities they serve.
 

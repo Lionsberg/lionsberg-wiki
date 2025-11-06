@@ -5,6 +5,8 @@
 ## November 2025
 
 - [[The Great Game Beckons]]  
+- Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIONSBERG]]  
+
 ## October 2025 
 
 - [[Look WithIn]]  
@@ -15,7 +17,7 @@
 - [[The Story of LIONSBERG]] - work in progress  
 - [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
 - [[The 144 Gates of Initiation]] - work in Progress  
-- [[The LIONSBERG Meta Science]]  
+- [[The LIONSBERG Meta Science]]  - work in progress  
 - [[Template For Seasonal OmniSpection]]  
 - [[The Theses of The Great UnVeiling]] - work in progress 
 

@@ -1,6 +1,6 @@
 # Pillar IX — Sacred Architecture and Design
 
-_Manifesting the Divine in the Places and Ways We Live, Gather, Work, and Worship_
+_Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Create_
 
 ---
 

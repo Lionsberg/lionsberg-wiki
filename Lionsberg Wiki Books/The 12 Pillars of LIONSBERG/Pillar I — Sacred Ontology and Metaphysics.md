@@ -1,4 +1,4 @@
-# Pillar I — Sacred Theology and Philosophy
+# Pillar I — Sacred Ontology and Metaphysics
 
 _Continually ReAligning Humanity within the Great Story and The Divine Order_
 
