@@ -2,6 +2,9 @@
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***
 
+## November 2025
+
+- [[The Great Game Beckons]]  
 ## October 2025 
 
 - [[Look WithIn]]  
