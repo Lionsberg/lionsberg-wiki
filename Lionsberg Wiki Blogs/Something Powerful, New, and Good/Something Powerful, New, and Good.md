@@ -4,6 +4,10 @@
 
 ## November 2025
 
+
+- [[MindWeaving The Life Divine]]  
+- Beginning work on [[THE NAMELESS BOOK]]  
+- Building [[The Roving Ark Temple Dojo]]  
 - [[The Great Game Beckons]]  
 - Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIONSBERG]]  
 
@@ -13,7 +17,7 @@
 - [[Exploration of Energy, Conduitship, the Way, and its Transmission Within the Time Required]]  
 - [[The LIONSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth  
 - [[The LIONSBERG Experience]] - work in progress  
-- [[The Seed of LIONSBERG]] - work in progress 
+- [[The Golden Seed of LIONSBERG]] - work in progress 
 - [[The Story of LIONSBERG]] - work in progress  
 - [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
 - [[The 144 Gates of Initiation]] - work in Progress  

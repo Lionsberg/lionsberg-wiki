@@ -35,7 +35,7 @@ Everything below is notes and scratch paper for now.
     
     - **[[The LIONSBERG Cycle of Cosmic Co-Creation]]**
           
-	- **[[The Seed of LIONSBERG]]**
+	- **[[The Golden Seed of LIONSBERG]]**
         
     - **[[The 12 Pillars of Lionsberg]]**
         

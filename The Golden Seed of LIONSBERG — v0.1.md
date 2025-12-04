@@ -1,4 +1,4 @@
-# **The Seed of LIONSBERG — v0.1**
+# **The Golden Seed of LIONSBERG — v0.1**
   
 > _A self-replicating, self-learning, divinely aligned pattern-package through which the LIONSBERG System takes root in any domain and awakens the Players of The Great Game._
 

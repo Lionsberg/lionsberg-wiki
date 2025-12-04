@@ -41,7 +41,28 @@ Here the fire is lit, and the story begins.
 
 ---
 
-### **2. The Story — Remembering the ONE**
+### **2. The Gates — The Path of Initiation**  
+
+**Move**
+
+The 144 Gates form a complete initiatory journey for all Pilgrims.  
+They progressively introduce All to: 
+- The Story 
+- The Game 
+- The Way 
+- The Codex  
+- The Eternal Divine Play 
+Circles walk together—supporting, mirroring, refining—
+until what was separate becomes whole.
+By the end of the Gates, both the individual and the community are reborn,
+and living the Way of Heaven on Earth.
+
+**[[The 144 Gates of Initiation]]**
+
+
+---
+
+### **3. The Story — Remembering the ONE**
 
 **Remember**
 
@@ -56,22 +77,6 @@ This is the Genesis Scroll of the New Era—
 the ignition text that bridges myth and reality, heaven and earth.
 
 **[[The Story of LIONSBERG]]**  
-
----
-
-### **3. The Gates — The Path of Initiation**  
-
-**Become**
-
-The 144 Gates form a three-year rhythm of personal and communal transformation.
-Each Gate opens one week at a time,
-guiding the pilgrim from awakening through purification into service and transmission.
-Circles walk together—supporting, mirroring, refining—
-until what was separate becomes whole.
-By the end of the Gates, both the individual and the community are reborn,
-ready to live the Way of Heaven on Earth.
-
-**[[The 144 Gates of Initiation]]**
 
 ---
 
