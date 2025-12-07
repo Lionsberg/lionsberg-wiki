@@ -1,6 +1,14 @@
 # **🕊️** **The 144 Gates of Initiation**
 _The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_
 
+## **Program Note** 
+
+The idea of tying this to a three year cycle will move far too slow.  
+We will unbound from Time to enable each individual and circle to move through at its own rhythm.  
+Provide instructions to the individual  
+Instructions to the circle  
+Facilitators handbook 
+
 ## **I. The Nature and Function of the Gates**
 
 The **144 Gates of Initiation** are not lessons to be learned nor doctrines to be believed.
@@ -150,15 +158,21 @@ Thus:
 
 Every Gate follows the same living rhythm:
 
+- **Story** — a narrative vessel.   
+    
 - **Prime Insight** — a principle revealed.
     
 - **Inner Practice** — a discipline of being.
     
 - **Circle Practice** — a discipline of relationship.
     
-- **Quest** — an embodied act of co-creation.
+- **Community Practice** — a discipline of culture.  
     
-- **Measure** — a reflection and offering of fruits.
+- **Quest** — an embodied act of co-creation.  
+    
+- **OmniSpection**  
+    
+- **Measure** — a reflection and offering of value.
     
 - **Seal** — a ritual closure and vow to continue.
       

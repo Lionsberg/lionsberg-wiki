@@ -59,23 +59,25 @@ _The Relational Bridge, The Mythic Summons, The Threshold, and The Choice_
 
 The Gates
 1. The ONE  
-2. The All  
-3. Each One of the Ones of the ONE  
-4. The Shared Journey  
-5. The Language of LIONSBERG  
-6. The Story of LIONSBERG  
-7. The Great Game of LIONSBERG  
-8. Setting Our Feet on the Path  
-9. The Fellowship of the Quest  
-10. Forming a Circle  
-11. Choosing a Quest  
-12. Playing the Great Game  
-13. Passing the Flame  
-14. 
+2. The First Turning  
+3. Polarity  
+4. The All  
+5. Each One of the Ones of the ONE  
+6. The Shared Journey  
+7. The Language of LIONSBERG  
+8. The Story of LIONSBERG  
+9. The Great Game of LIONSBERG  
+10. Setting Our Feet on the Path  
+11. The Fellowship of the Quest  
+12. Forming a Circle  
+13. Choosing a Quest  
+14. Playing the Great Game  
+15. Passing the Flame  
+16. 
 
 
 
-
+[[The Great UnVeiling]]
 
 [[The LIONSBERG Experience]]  
 

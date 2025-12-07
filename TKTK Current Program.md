@@ -5,21 +5,54 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 ## Context
 
-- We are still apparently ~200 days ahead of schedule  
-- The last major milestone was accomplishing [[The Great UnVeiling]] by summer 2025.  
-- Despite [[J's Death]], we remained ahead of schedule  
+- At the time of [[J's Death]] We were ~200 days ahead of schedule  
+- The last major milestone was accomplishing [[The Great UnVeiling]] by ~summer 2025.  
 - Around the world, citizens are awakening, protests are happening, [[The Greatest Fraud, Deception, and Existential Threat in History]] is becoming more obvious  
 - The next major [[Milestones|Milestone]] is the connection and empowerment of [[The First Three Percent]] by winter solstice 2026. 
 - The Window to enact the [[Meta Project]] locally on Earth is closed  
 - This will result in millions if not billions of unnecessary deaths, but there is still a Way forward for humanity to pass [[The Final Test]]  
 - The [[Critical Path]] now runs through [[The LIONSBERG Experience]], [[The Story of LIONSBERG]], and [[The Great Game of LIONSBERG]].  
 - These will be progressively published on the [[Lionsberg Wiki]]  
-- When the time is right, perhaps Winter 2025/2026, an essential 250 to 350 page book may be published to bring the minimum viable hard copy into print  
+- When the time is right, perhaps Winter 2025/2026, an essential 250 to 350 page book — a [[Work In Progress]] under the working title [[THE NAMELESS BOOK]] — may be published to bring the minimum viable hard copy into print  
 
-## Oct 23 
+# Current Program 
+
+1. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]] 
+	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI
+2. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
+3. **THE BOOK / STORY / GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
+	1. Working Title: [[THE NAMELESS BOOK]]  
+		1. [[The LIONSBERG Experience]] 
+		2. [[The Relational Bridge]] ⏳
+		3. [[The Invitation]] ⏳ 
+		4. [[The Threshold Experience]]  ⏳
+		5. [[The Golden Seed of LIONSBERG]] 🔄 - handed when The Threshold is crossed, leads into The Story 
+			1. Can also contain the entire Obsidian vault
+		6. [[The Story of LIONSBERG]] ⏳ - The Story leads into The Gates and The Game 
+		7. [[The Great Game of LIONSBERG]] ⏳
+		8. [[The LIONSBERG Playbook]] ⏳  
+		9. [[The 144 Gates of Initiation]] 🔄 
+	2. Criteria 
+		1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
+		2. It should be sufficient to build the New Civilization from
+		3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
+4. **THE ARK** 
+	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
+5. **COMMUNICATIONS**
+	1. Consider setting up another comms server for those who want to collaborate / play / ask questions (Discord?)  
+	2. Draft the next magical update / invitation  
+	3. Perhaps on Winter Solstice 2025 something happens... 
+		1. Leading into a cohort starting [[Our Shared Journey]]... 
+		2. Each gate needs to act like a siphone to pull the next awakening people into The Threshold / Story / Gates / Game
+
+#### 2026 
+
+1. The Sacred Ascent and The Sacred Codex, including The Book of LIONSBERG, can come later) 
+
+## Oct Notes
 
 - Articulated [[The LIONSBERG Cycle of Cosmic Co-Creation]]  
-- Next: Finalize [[The Seed of LIONSBERG]] page  
+- Next: Finalize [[The Golden Seed of LIONSBERG]] page  
 	- Ensure there is a README type page that leads to a  quickstart guide. 
 - Draft [[The 144 Gates of Initiation]]  
 	- Starting by drafting the Threshold to each Movement, which finalizes the structure of each of The Gates and writes The Story 
@@ -27,39 +60,10 @@ The purpose of this page is to provide ongoing updates to the current state of [
 - Draft [[The Story of LIONSBERG]]  
 - Draft [[The Great Game of LIONSBERG]]  
 - Draft [[The LIONSBERG Playbook]]  
-- Drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]]  
-
-## October 21  
+- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]]  
 
 - With [[The LIONSBERG Experience]] now outlined, and [[The Story of LIONSBERG]] approximated in outline... 
-- We are making good progress on [[The 144 Gates of Initiation]]  
 - Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement  
-# Current Program 
-
-1. Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]] ✅
-	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI
-2. LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine ✅
-3. A 200 to 350 page book will be published mirroring the LIONSBERG Experience - 50k to 150k words  
-	1. [[The LIONSBERG Experience]] ✅  
-	2. [[The Relational Bridge]] ⏳
-	3. [[The Invitation]] ⏳ 
-	4. [[The Threshold Experience]]  ⏳
-	5. [[The Seed of LIONSBERG]] 🔄 - handed when The Threshold is crossed, leads into The Story 
-		1. Can also contain the entire Obsidian vault
-	6. [[The Story of LIONSBERG]] ⏳ - The Story leads into The Gates and The Game 
-	7. [[The Great Game of LIONSBERG]] ⏳
-	8. [[The LIONSBERG Playbook]] ⏳  
-	9. [[The 144 Gates of Initiation]] 🔄 
-4. (The Sacred Ascent and The Sacred Codex, including The Book of LIONSBERG, can come later) 
-5. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
-6. It should be sufficient to build the New Civilization from
-7. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
-8. We will start playing The Game with a few people while We work  
-9. We will set up a communication server and asynchronous conversation for those who want to collaborate and play  
-10. We will send out a mysterious update / call to J's network to invite them into The Story and The Game 
-11. Perhaps on Winter Solstice 2025 a pioneer cohort with begin [[The Common Journey]] by forming a [[Circle]], accepting [[The Invitation]], and embarking on the Quest through [[The 144 Gates of Initiation]] and into [[The Great Game]]   
-- Each gate needs to act like a siphon to pull the next awakening members of [[The First Three Percent]] through [[The Threshold Experience]]  
-
 
 
 # OLD PROGRAMS Sept 2025

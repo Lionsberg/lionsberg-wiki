@@ -568,7 +568,7 @@ As [[The Great UnVeiling]] progresses and the lead cars of [[The Train of Civili
 
 It will then face [[The Decision Point]] and [[The Sprint Through The Minefield]], possibly as soon as ~2026-2027. This is part of [[The Final Test]]. 
 
-Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Seed of LIONSBERG]] will germinate in each Domain at the Wise Right Time. 
+Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Golden Seed of LIONSBERG]] will germinate in each Domain at the Wise Right Time. 
 
 This season will likely include the creation of the basic Templates, and possibly the introduction of a simple field guide to **The Great Game**. 
 

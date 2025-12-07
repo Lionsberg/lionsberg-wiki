@@ -1,5 +1,17 @@
 # MindWeaving LIONSBERG
 
+____
+This is a [[Work In Progress]].  
+
+**_Program Note_**: Insert [[OmniSpection (2025 Season 4)]] as a backbone... 
+Expand it out into an initial [[Map of Reality]]  
+Weave in the rest of the thoughts to hang them on the framework as modular content. 
+
+______
+
+
+
+
 Before [[J's Death]],  
 He was introduced on the basis of [[Resonance]]  
 To a growing network of awakened individuals  
@@ -23,7 +35,7 @@ It is also intended to cut hundreds of hours off [[The Path]]
 For [[Those Who Will Come After Us]]  
 
 It or its synthesized components may be useful for [[Orientation and Onboarding]]  
-In the event that humanity decides to adopt and cultivate [[The Seed of LIONSBERG]]  
+In the event that humanity decides to adopt and cultivate [[The Golden Seed of LIONSBERG]]  
 
 _____
 This document, like all things LIONSBERG, is a [[Work In Progress]] that is being progressively published in case it is not finished.  
@@ -43,7 +55,18 @@ ___
 _Subject to the woefully inadequate [[Word Tools]] available to communicate._  
 _The [[LIONSBERG Lexicon]] is a necessary companion to decipher the text that follows._  
 _Please do not assume that We are using [[Word Tools]] in the same way._  
+____
+_What is collectively required, and therefore what We are engaged in,_
+_is an attempt at an [[OmniSynthesis]] of [[Our Collective Inheritance]]_
+_Of humanity's wisdom and knowledge to date,_  
+_And all that can be introduced to it at this Time._  
 
+_This [[Meta Project]] will remain an eternal [[Work In Progress]]_ 
+_As [[The Goal]] expands and recedes as We approach it._  
+
+_It is the [[Process]] and [[Progress]], not the [[Perfection]], that creates [[Value]]._   
+
+_If [[Wisdom]], [[Knowledge]], and [[Understanding]] are more valuable than gold, silver, or precious stones, then this work may be the most valuable endeavor available to pursue._  
 ## Context and Orientation  
 
 - We are in:  
@@ -186,11 +209,14 @@ This is important because [[If It Is True]]:
 
 ## How Much Pain and Suffering is Required?  
 
-
+- How far into [[Collapse]] will humanity have to travel before it awakens and changes course?  
+- How much [[Pain]] and [[Suffering]] will be required?  
+- How many more millions or billions will have to die?  
 
 ## The Big Show & Final Test 
 
-- Welcome to The Big Show and [[The Final Test]]   
+- This is The Big Show  
+- [[The Final Test]] at the end of an age     
 - Who knows about this moment?  
 	- [[ONE]]  
 	- [[Earth]]  
@@ -248,40 +274,68 @@ This is important because [[If It Is True]]:
 
 What [[Levels of Analysis]] are you presently able to Access and Play?  
 
-____
+## The Privilege and Gratitude of Being Here Now 
+
 What privilege it is to be incarnate [[Here]] and [[Now]]  
-Gratitude for each and every moment.  
+What gratitude We have for each and every moment.  
 
 We who incarnated for this moment.  
 Avatara energies in varying degrees of power, coherence, and awareness.  
 Timeless Fractals that Incarnate when and where We need to in service of [[ONE]] and [[All]]. 
 In order to Experience Our Selves as One of the Ones of the ONE.  
 
-There is a school for Us.  
+## LIONSBERG Universe(ity)  
+
+There is a New School for Us.  
+It is a [[Place of Practice]].  
+Where We learn to [[Play The Game]].  
+
 Academia Avatara.  
 LIONSBERG Universe(ity).  
 
-Calling the Called out of the masses, out of [[The Caves]], and into an environment purpose-built to cultivate and unleash their Divine Potential and Power.  
+Calling the Called out of [[The Masses]], out of [[The Caves]], and into an environment purpose-built to cultivate and unleash their Divine Potential and Power.  
 
-Cultivating and channeling the Power of the [[ONE]] to accomplish the Will and Intention of the [[ONE]] in service of [[All]].  
+Cultivating and channeling the Power of the [[ONE]] to accomplish the Will and Intention of the [[ONE]] in service of [[All]].    
 
-___
+## Perception  
+
 [[What We Think We Know]] about [[Reality]], [[Self]], and [[Others]] is deeply buried within Our [[Processes of Perception]].  
-___
+
+Our Perception and [[Current Best Understanding]] is in a continual state of transformation.  
+
+Eternally, [[We Do Not Know]].  
+
+## OmniSpection 
+
+[[Retrospection]] may be the minimum requirement of any Continuously Improving System—but it is not enough.  
 [[OmniSpection]]... the ability to step back, rise up, and [[Perceive The Whole]].  
-
 Beyond the Illusions of Separation and Self.  
-
 And then to [[Consciously Differentiate]] across [[Levels of Analysis]] and [[Levels of Abstraction]].  
-
 And the rediscover Our Place and Roles in [[The Story]].  
 
+[[Looking Backward]]  
+- [[Backward Looking Stories]]  
+[[Looking Forward]]  
+- [[Forward Looking Stories]]  
+[[Looking Within]]  
+- [[Inward Looking Stories]]  
+[[Looking Out]]
+- [[Outward Looking Stories]]  
+
 ____
-[[StoryWeaving]]  
-[[The Story]]  
-[[Your Story]]  
+
+## Stories   
+
 [[The Story of LIONSBERG]] is [[The Story]] of [[ONE]] and [[All]].  
 There is no True Story that is not a part of it.  
+
+[[Conscious Agents]] tend to [[Seek Patterns]] and [[Tell Stories]]  
+[[The Stories We Tell Our Selves]] _are prior to_ Our Perception of Reality  
+As a result, no two stories, and no two realities, are alike  
+
+[[The Story]]  
+[[Your Story]]  
+[[StoryWeaving]]  
 
 Being honest about what is going on.  
 - [[Who We Are]]  
@@ -290,19 +344,30 @@ Being honest about what is going on.
 - [[Where We Are Going]]  
 - [[Why]]  
 
-___
+[[Backward Looking Stories]]  
+[[Forward Looking Stories]]  
+[[Inward Looking Stories]]  
+[[Outward Looking Stories]]  
 
-From there... from the perception and inhabitation of a [[New Story]]...  
-We can begin to coordinate and move together towards [[The Vision]] and [[The Goal]].  
+## Progress Towards a Shared Vision and Goal  
+
+From there... from the inhabitation of a [[New Story]] and the shared Perception it enables...  
+We can begin to coordinate and move together towards [[The Vision]] and [[The Goal]] of [[The Story]].  
 We can begin to collaborate to transform Our lives and worlds.   
+It is the basis of [[The Game]].  
+
+## A Continuously Improving Way 
 
 If the proverbial wheel is not to be reinvented by each of the All  
-That omniconsiderate effort requires a System and Way  
+That omniconsiderate effort to co-create Heaven  
+Requires the [[Progressive Articulation]] a shared System and Way  
 That can be continuously improved and transmitted  
 From generation to generation  
 
+LIONSBERG incarnated because this was lacking on Earth.  
 
-_____
+## Resurrecting and Restoring What Was Lost
+
 Along humanity's Path... 
 - We have lost a lot of instinct, intuition, and spiritual / energetic / consciousness abilities  
 	- Due to technology  
@@ -339,7 +404,9 @@ Along humanity's Path...
 	- [[The Illusion of Ego]]  
 	- [[The Illusion of Ownership and Kontrolle]]  
 
-____
+
+## The Common Journey  
+
 [[The Pool of Coherence]]  
 Out of [[The Caves]]... 
 Beyond [[The Boundary]]...  
@@ -365,7 +432,10 @@ Not understanding that [[The Baptism]] of the [[Old Self]] into [[The Pool]] is 
 With the opportunity to [[Consciously Choose]] is unique Path...  
 As an integrated and cohered aspect of [[One Body]].  
 
-____
+## Passing The Flame Between Generations  
+
+This is not just about one generation or seven generations [[Here And Now]].  
+This is about passing [[The Sacred Flame]] through the 52 generations of each millennium (50 generations x 20 years = 1,000... + 1 incoming and 1 outgoing generation).  
 In the years ahead humanity is facing an unprecedented intergenerational turnover of: 
 - Wisdom  
 - Knowledge  
@@ -373,6 +443,8 @@ In the years ahead humanity is facing an unprecedented intergenerational turnove
 - Wealth  
 - Real Property  
 - Intellectual Property  
+
+## A New Paradigm of Multi-Generational Stewardship
 
 This has to be entirely rethought. An entirely [[New Paradigm]] of Stewardship, Governance, and Economy is called forth.  
 An entirely New Social Contract and Covenant.  
@@ -386,15 +458,11 @@ The only possibility to avoid catastrophe is [[Jubilee]] and a New System of [[M
 
 Leaving a [[Legacy]].
 
-____
+## Timelessness
 
 Some souls are [[Timeless]].  
 There is no age difference in [[Timelessness]].  
 
-___
-
-
-The Old illusions of ownership and kontrolle 
 ### May 23, 2025
 
 Problems 
