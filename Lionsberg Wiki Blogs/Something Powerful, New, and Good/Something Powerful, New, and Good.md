@@ -2,6 +2,8 @@
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***  
 
+- [[CAUTION ON AI]]  
+	
 - [[Controlled Disclosure Marches Towards Its Peak]]  
 	
 - [[Greetings Earthians]]  
@@ -64,4 +66,4 @@
 
 ## August 10, 2025... Another New Beginning  
 
-- This series picks up where [[Above The Chaos]] left off
+- This series picks up where [[Above The Chaos]] left off following [[J's Death]] and emergence of [[The Nameless One]]  
