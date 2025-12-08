@@ -1,19 +1,18 @@
 # MindWeaving Chapter One — The Human Aspiration
 
-### — or — _The Universal Aspiration_ 
-_Thoughts from [[The Nameless One]]_
+### — or — _The Universal Aspiration_  
 
 One of the most important steps  
 On any spiritual Journey  
 Is the liberation from the false constraints  
 Of Science, Society and Religion   
 In order to uncover and navigate towards  
-That which is most True and Good    
+That which is most Good and True    
 
 The Divine Force within each being —   
 The Immortal cloaked in the mortal —  
-Eternally impels Us onward 
-Towards the heights of [[The Sacred Ascent]]  
+Eternally impels Us onward towards  
+The heights of [[The Sacred Ascent]]  
 And towards the ever receding Destiny  
 Of Our Journey towards the ONE  
 
@@ -30,11 +29,11 @@ Being slowly and surely burnt away
 By the Refining Fires of Spirit and Life  
 As We make Our Way towards [[The Goal]]  
 
-The eternal thrust of Spirit and Consciousness   
-Towards [[Unity]] and [[Love]]  
-[[Wisdom]] and [[Knowledge]]  
-[[Freedom]] and [[Truth]]  
-and ultimately [[Divine Perfection]]  
+The eternal thrust of Divine Spirit and Consciousness   
+Towards Divine [[Unity]] and [[Love]]  
+Towards [[Wisdom]] and [[Knowledge]]  
+Towards [[Freedom]] and [[Truth]]  
+And ultimately [[Divine Perfection]]  
 Along with All attendant [[Values]] and [[Forms]]  
 Ultimately unified in the [[Meta Conception]]  
 Of the [[All]]-Encompassing [[ONE]]  
@@ -55,7 +54,7 @@ As a consequence of voluntarily passing through
 [[The Veil of Finitude and Forgetting]]  
 
 It is the Self-Expression of Source within  
-Longing to every more fully [[Realize]] ItSelf  
+Longing to [[Ever More Fully]] [[Realize]] ItSelf  
 Through each of its [[Apparently Individuated]] Forms  
 As It makes its Way back towards The Grand ReUnion  
 Of All that It Is and Is Becoming  
@@ -66,7 +65,7 @@ Remains eternally elusive
 As the heights of [[The Sacred Mountain]]  
 [[Expand and Recede]] As We approach them  
 Until We dissolve back into  
-The undifferentiated fields of interexistence  
+The undifferentiated fields of InterExistence  
 Emanating from the ONE  
 
 However when We become fully Conscious  
@@ -104,14 +103,15 @@ Ultimately perfectible
 
 From this perspective  
 Every defect and every imperfection  
-That rise to the level of consciousness  
+That rise to the level of conscious awareness  
 Become a profound gift and invitation  
 
 We are then faced with the stark reality  
 Of [[The Gap]] that separates  
 [[What Is]] from [[What Should Be]] —  
-The Ideal the Divine Will and Intention within  
-Eternally impels Us upward towards  
+The Ideal  
+The Divine Will and Intention within  
+Eternally impels Us upward    
 As It playfully works  
 To every more fully Realize ItSelf  
 Through [[Each One]] of [[All]]  
@@ -129,7 +129,7 @@ For Us to step into Our unique [[Roles|Role]]
 In [[The Divine Symphony]]  
 
 [[The Life Divine]] consciously lived  
-Becomes a matter of [[Immersion]], [[Harmony]], and [[Flow]]  
+Becomes a matter of [[Immersion]], [[Harmony]] and [[Flow]]  
 
 The daily immersion of Self into SELF  
 Of One into ONE  
@@ -138,7 +138,7 @@ From the depth of those Infinite Wellsprings
 That which longs to make ItSelf Manifest  
 In service of the Ultimate Fulfillment  
 Of All the ONE Is and Is Becoming  
-Through Each of Us and All  
+Through Each and Every One of Us All  
 
 Since what longs to manifest is  
 [[Harmony]], [[Symphony]], [[Balance]], and [[Flow]]  
