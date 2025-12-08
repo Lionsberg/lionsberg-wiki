@@ -71,5 +71,6 @@ With each New Perspective and interweaving
 Eventually Our Understanding will become clear  
 
 And with that We enter Chapter One  
-### [[MindWeaving Chapter One — The Human Aspiration]]
+### ➡️ [[MindWeaving Chapter One — The Human Aspiration]]
+### MindWeaving Chapter Two — Coming Soon 
 
