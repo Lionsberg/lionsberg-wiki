@@ -4,14 +4,18 @@
 _Thoughts from [[The Nameless One]]_
 
 One of the most important steps  
-On any True Spiritual Journey  
+On any spiritual Journey  
 Is the liberation from the false constraints  
-Of both Religion and Science  
+Of Science, Society and Religion   
+In order to uncover and navigate towards  
+That which is most True and Good    
 
 The Divine Force within each being —   
 The Immortal cloaked in the mortal —  
 Eternally impels Us onward 
 Towards the heights of [[The Sacred Ascent]]  
+And towards the ever receding Destiny  
+Of Our Journey towards the ONE  
 
 Those not content to remain imprisoned  
 Within the [[Old]] thoughts and conceptions  
@@ -26,22 +30,23 @@ Being slowly and surely burnt away
 By the Refining Fires of Spirit and Life  
 As We make Our Way towards [[The Goal]]  
 
-The eternal thrust of Spirit and Consciousness within  
+The eternal thrust of Spirit and Consciousness   
 Towards [[Unity]] and [[Love]]  
 [[Wisdom]] and [[Knowledge]]  
 [[Freedom]] and [[Truth]]  
-and ultimately [[Perfection]]  
+and ultimately [[Divine Perfection]]  
 Along with All attendant [[Values]] and [[Forms]]  
 Ultimately unified in the [[Meta Conception]]  
 Of the [[All]]-Encompassing [[ONE]]  
-As Sovereign and Omniscient  
-Omnipotent and Eternal  
-True, Beautiful, and Good  
 Is not aberration of Thought   
 
-It is the Self-Expression  
+The Sovereignty and Omniscience  
+Omnipotence and Eternity  
+Truth, Beaty and Goodness  
+That We perceive in It  
+Is the Self-Expression  
 And Self-Identification  
-Of the Perfect Divine within  
+Of the Perfectly Imperfect Divine within  
 Longing to experientially return  
 To That which It already Is  
 And to those Higher and Deeper experiences  
@@ -52,25 +57,32 @@ As a consequence of voluntarily passing through
 It is the Self-Expression of Source within  
 Longing to every more fully [[Realize]] ItSelf  
 Through each of its [[Apparently Individuated]] Forms  
+As It makes its Way back towards The Grand ReUnion  
+Of All that It Is and Is Becoming  
 
 In the case of [[Each One]] of the [[All]]  
 [[The Goal]] of Divine Perfection and Ultimate Unity  
-Remains Eternally elusive  
+Remains eternally elusive  
 As the heights of [[The Sacred Mountain]]  
 [[Expand and Recede]] As We approach them  
+Until We dissolve back into  
+The undifferentiated fields of interexistence  
+Emanating from the ONE  
 
 However when We become fully Conscious  
-While cloaked in mortality  
+While cloaked in apparently differentiated mortality  
 That We are already [[Perfectly Imperfect]]  
 Divine Aspects of [[ONE Body]]  
 Unfurling ItSelf across the cosmic expanse  
 We glimpse [[The Life Divine]]  
+And open the Potential  
+To consciously engage in It  
 
 We [[Realize]] that [[The Path]]  
 Is not merely about Our [[Self-Realization]]  
 But about the Self-Realization of the ONE  
-In and through Each as One of the Ones of the ONE  
-And in and through [[All]] as [[ONE Body]]  
+In and through [[Each One]] of the Ones of the ONE —  
+In and through Each of the [[All]] as [[ONE Body]]  
 And One Ultimately Unified Manifestation of [[God]]  
 
 From this standpoint We perceive  
@@ -79,18 +91,26 @@ That the [[Present Organization]]
 Of Our Spirit, Energy, Consciousness, and Community —  
 And the [[Apparent Limitations]] associated therewith —  
 Are not Absolute  
+And on the contrary  
+Are _actually designed_ to be transcended  
+As a primary aspect of Our Divine Play    
 
-On the contrary We [[Realize]]  
-That the Presence and Power  
+We [[Realize]] that the Presence and Power  
 Of The Absolute within  
 Renders every [[Self-Limiting Beliefs|Self-Limiting Belief]]  
 Null and void  
-And every imperfection perfectable  
+And every perceived imperfection  
+Ultimately perfectible  
+
+From this perspective  
+Every defect and every imperfection  
+That rise to the level of consciousness  
+Become a profound gift and invitation  
 
 We are then faced with the stark reality  
 Of [[The Gap]] that separates  
 [[What Is]] from [[What Should Be]] —  
-What the Divine Will and Intention within  
+The Ideal the Divine Will and Intention within  
 Eternally impels Us upward towards  
 As It playfully works  
 To every more fully Realize ItSelf  
@@ -102,10 +122,11 @@ But rather Is experiencing an aspect of ItSelf _through Us_
 Brings forth [[The Greatest Invitation]]  
 We could ever hope to receive —  
 The opportunity to Become  
-Conscious Co-Creators of Reality  
+Conscious Co-Creators of Our Reality  
 
-This invitation invites Us to step into  
-Our unique [[Roles|Role]] in [[The Divine Symphony]]  
+This invitation opens the door  
+For Us to step into Our unique [[Roles|Role]]  
+In [[The Divine Symphony]]  
 
 [[The Life Divine]] consciously lived  
 Becomes a matter of [[Immersion]], [[Harmony]], and [[Flow]]  
@@ -117,6 +138,7 @@ From the depth of those Infinite Wellsprings
 That which longs to make ItSelf Manifest  
 In service of the Ultimate Fulfillment  
 Of All the ONE Is and Is Becoming  
+Through Each of Us and All  
 
 Since what longs to manifest is  
 [[Harmony]], [[Symphony]], [[Balance]], and [[Flow]]  
@@ -151,10 +173,15 @@ Aspects of ONE [[Ultimate Reality]]
 Whose Supraphysical Spirit and Consciousness  
 Is supporting each of its Physical Manifestations  
 
+We come to see that it is the Spirit that leads  
+And the physical that follows  
+In the unfurling of the cosmic order  
+Both within and without  
+
 In other words that there is a superordinate Force within  
 Capable of Consciously creating, sustaining, and directing  
 Body, Mind, and the Reality We are Co-Creating    
-In partnership with the Divine Being  
+In partnership with the Divine InterBeing  
 That We simultaneously Are and Are a part of   
 
 The [[Anti-Entropic]] Force that is _evolving_  
@@ -163,7 +190,7 @@ Complexity, Reconciliation, Harmony, and Flow
 Is the Spirit and Consciousness of the ONE  
 _Involving_ ItSelf into Manifest Reality  
 In order to ever more fully Self-Realize  
-[[The Goal]] of ItSelf  
+And _evolve_ [[The Goal]] of ItSelf  
 
 Thus it is rightly said  
 That Life is already involved in Matter 
@@ -173,9 +200,9 @@ And that the outward unfurling of the Cosmic Flower
 Fundamentally arises from the Conscious Self-Expression  
 Of the ONE through a cascading array of States of Being  
 That both Begin in and End with ItSelf Transcendent and Inclusive   
-Of each of its [[Apparently Differentiated]] yet [[Ultimately Unified]] States  
+Of each of Its [[Apparently Differentiated]] yet [[Ultimately Unified]] States  
 
-Thus the sub-manifestations of Mind  
+Thus the sub-aggregations of Mind  
 In the temporary associations of Energy  
 So often mistaken for Matter  
 Are not Consciousness ItSelf  
@@ -184,6 +211,8 @@ Veiled forms and instrumentalities
 Pointing towards the higher states  
 Of Consciousness that exist beyond  
 Both Mind and the Supreme Mind  
+And which are ultimately unified  
+In ONE Consciousness  
 
 Across countless trillions of cosmic ecosystems  
 And the countless quadrillions of lifeforms they contain  
@@ -197,7 +226,7 @@ And Conscious Co-Creation
 The heights of this progression  
 Necessarily requires moving beyond Mind  
 And the bandwidth limitations  
-Of Thought and Word  
+Of Thought, Word, and Time   
 Back up into the higher states  
 Of Consciousness which are bound  
 Neither by the limitations of Time and Space  
@@ -208,6 +237,14 @@ Pure Undifferentiated Consciousness
 Beyond [[The Veil of Finitude and Forgetting]]  
 That [[EveryWhere]], [[EveryWhen]], and [[Every One]]  
 Become simultaneously accessible  
+And Consciously InterEvolvable   
+
+Each being becomes liberated  
+To not only participate in and shape  
+Its own dynamic evolutionary trajectory  
+But to consciously co-create  
+The InterEvolutionary Trajectory  
+Of All its Consciousness can access  
 
 The impulse of Matter towards Life  
 Of Life towards Mind  
@@ -228,14 +265,23 @@ Of its [[Apparently Differentiated]]
 Yet [[Ultimately Unified]]  
 Self Aspects  
 
+Yet it begins not with the impulse  
+Of Matter towards Consciousness  
+But of the impulse of Consciousness towards Manifestation  
+Which occurs via the organic self-complexification  
+Of All the ONE has in Mind  
+
 This impulse towards greater consciousness and complexity  
-Arises universally from the Spirit of the [[ONE]] working within  
+Arises universally not out of inconscient materiality  
+But rather from the Spirit of the [[ONE]] working within  
 Every particle and cell of its unfurling Cosmic Body  
-Yet manifests differentially across the [[Holarchic Gradient]] —  
+
+This Divine Consciousness involved in All  
+Manifests ItSelf differentially across the [[Holarchic Gradient]] —  
 Obscure to the point of near-imperceptibility in some  
 And rising through an ever-ascending series  
 In the Presence, Power, and Consciousness  
-Of its Will To Be 
+Of its Will To Be and Become  
 Up to its Ultimate Fulfillment in the ONE  
 _It already Is and Is Becoming_  
 
@@ -250,8 +296,8 @@ And therefore _intelligible_ DNA, Pattern, or [[Logos]]
 
 This is the eternal rebirthing of [[The Intelligible Universe]]  
 
-The temporal Earthian disease  
-Of human-centricity  
+The temporal Earth-human disease  
+Of perceptual human-centricity  
 Caused some to place humanity  
 Near the heights of the [[Holarchic Gradient]]  
 
@@ -263,9 +309,12 @@ Of its Individual and Collective Consciousness
 And is some millions or billions of years behind  
 The development of other species and spaces —  
 As humans presently perceive [[The Illusion of Time]]  
+Which of course its Consciousness  
+Is ultimately not bound by  
 
 In Reality humanity is neither this close  
-Nor this far apart  
+Nor this far apart from its Destiny and Potential  
+Which are mutually realizable in the ONE  
 
 Nevertheless We rejoice in the knowledge  
 That after so many millennia of struggle and abuse  
@@ -297,14 +346,17 @@ To venture back out into the stars
 And rediscover their kin  
 Is presently beyond their ability to conceive  
 
+It is an issue of [[Transformational Experiences]]  
+And [[Experiential Learning]] whereby 
+
 > _To know the Way_  
 > _One must live it_
 
-Yet the glimpses of its [[Siddhic]] potentials  
+Yet the glimpses of humanity's [[Siddhic]] potentials  
 Gestures towards the Way  
 That Consciousness is already working  
 Beyond the [[Apparent Limitations]] of Self and Reality  
-Across the Cosmic Order  
+Throughout the Cosmic Order  
 
 We can report that no individual or species  
 Has ever encountered the [[Upper Limit]]  
@@ -326,7 +378,8 @@ And the [[Progressive Manifestation]]
 In and through the ONE [[Living System]]  
 Of That which the [[ONE Body]] already Is —  
 The overt and explicit Self Realization  
-Of That which secretly and implicitly already Is  
+Of That which secretly and implicitly  
+Already Is WithIn Us All  
 
 Contrary to the religious and scientific dogmas  
 That sought to bind and enslave the [[Old World]]  
@@ -366,7 +419,7 @@ And to Each of the All
 These Highest Truths  
 Are rediscoverable and realizable  
 Through the experiential exploration  
-Of Reality, Existence, and Source  
+Of Reality, Existence, Spirit and Source  
 And through the direct reconnection  
 Of individual and local Consciousness  
 With [[Non-Local Consciousness]]  
@@ -396,6 +449,7 @@ Eagerly waiting to be transcended
 
 Now that [[The Great UnVeiling]] has occurred  
 [[Truth]] has been revealed  
+The Tsunami is sweeping Earth  
 And [[The Knowledge of the ONE]]  
 Is covering the Earth like floodwaters  
 Humanity is finally free to move towards its [[Destiny]]  
