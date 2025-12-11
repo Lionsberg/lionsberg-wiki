@@ -28,8 +28,8 @@ We know not whether this new experience
 Of embodied life and consciousness  
 Will persist indefinitely or abruptly end today  
 
-Either Way **_the future is good_**  
-And **_it depends upon you_**  
+Either Way **_The Future is good_**  
+And **_It depends upon you_**  
 
 _Please accept the following invitation and offering_  
 _Only if it resonates and you feel called_  
@@ -46,8 +46,8 @@ The reality of the Earth's enslavement
 By a dark and ancient empire  
 Is bursting into view for All to see  
 
-_As J's unusual journey revealed_  
-_At present humanity is neither self-governing nor free_  
+As J's unusual journey revealed  
+**_At present humanity is neither self-governing nor free_**  
 
 The events of 2026 to 2033  
 Will shape the trajectory of Earth  
@@ -57,7 +57,7 @@ The vast majority of timelines
 Cascade towards extinction level events  
 And centuries of chaos and tyranny  
 
-**_But We do not choose those futures_** 
+**_But We do not choose those Futures_** 
 
 Many of Us are here on Earth _for this_  
 And We can and will prevail _together_  
@@ -71,11 +71,12 @@ And We can and will prevail _together_
 But first We must face the harshest realities  
 Of **The Chasm** that stands between  
 **Where We Are** and **Where We Are Going**  
-And the forces that stand in **Our Way**  
+And the considerable forces that stand in **Our Way**  
 
 ____
 
-As We ponder the impossible expanse  
+As We approach The Chasm  
+And ponder the impossible expanse  
 Stretching out before awestruck eyes  
 The dark creeping fog breaks  
 And the faint outline of an ancient bridge  
@@ -108,11 +109,9 @@ Over the entrance to **The Bridge**
 
 ____
 
-When you are ready join Us  
-For the opportunity and adventure of a lifetime  
+When you are ready  
 Please reach out  
-
 We would be delighted  
-To help you discover the Way  
+To show you the Way  
 
 _**You are not alone**_
