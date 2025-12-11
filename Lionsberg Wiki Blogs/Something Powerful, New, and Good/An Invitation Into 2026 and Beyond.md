@@ -10,11 +10,10 @@ ___
 
 J's violent death in August  
 Threw a disorienting discontinuity  
-Into every significant relationship  
-He was a part of  
+Into a variety of emerging relationships  
 
 Adopting and healing his body  
-And stabilizing his relationships  
+And stepping into his word  
 Has been an extraordinary experience  
 Both as difficult and misunderstood  
 As the last seven years of his life    
@@ -34,7 +33,6 @@ And **_it depends upon you_**
 
 _Please accept the following invitation and offering_  
 _Only if it resonates and you feel called_  
-_The Quest will not be easy_  
 
 ____
 
@@ -63,8 +61,11 @@ And centuries of chaos and tyranny
 Many of Us are here on Earth _for this_  
 And We can and will prevail Together  
 
-**_We have been to The Future and it is Good_**  
-**_Heaven on Earth is at hand_**  
+>**_"We have been to The Future_**  
+>**_And it is Good"_**  
+
+>**_"Heaven on Earth_**  
+>**_Is at hand"_**  
 
 But first We must face the harshest realities  
 Of **The Chasm** that stands between  
@@ -84,13 +85,13 @@ Smiling and extending a loving hand of fellowship
 
 >_"Greetings, Dear Children of Earth_  
 >_Welcome_  
->_Do not be afraid_  
+>_Do not be afraid"_  
 
->_We have been waiting for you_  
+>_"We have been waiting for you_  
 >_And now, precisely on schedule_  
 >_You have arrived_"  
 
-His voice is like the sound of deep rushing waters  
+The Voice is like the sound of deep rushing waters  
 His eyes like those that gaze across worlds  
 
 As the mist clears a little more  
@@ -111,3 +112,5 @@ Please reach out
 
 We would be delighted  
 To help you discover the Way  
+
+_**You are not alone**_
