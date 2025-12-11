@@ -37,31 +37,32 @@ If We are to pass [[The Final Test]]
 And Co-Create [[Heaven On Earth]]  
 The only possibility is [[The Life Divine]] —  
 Not as written by any one author or tradition  
-But as written by the Spirit in the hearts of Us All  
+But as written by the Spirit upon the hearts of Us All  
 
+As We learn to communicate across species and worlds  
 For some of Us who do not primarily identify as human  
 The human-centricity of thought in Aurobindo's work  
 Can feel offputting unless viewed  
 From the perspective of the Time, Space and Species  
-He was writing both From and To  
+He was apparently writing both From and To  
 
 As We All rise together into [[The Life Divine]]  
 The pearls of Wisdom derived  
 From the struggles and progress  
-Of any one species  
-Can prove illuminating for All  
+Of any one species or world  
+Can prove illuminating for All —  
 For the principles of [[The Life Divine]]  
 Are Universal and [[ONE]] in All  
 
-What follows is the synthetic interweaving  
+What follows is a synthetic interweaving  
 Of that which arises in the Consciousness  
 Of [[The Nameless One]]  
-While reading the thoughts of Aurobindo  
-Over a hundred Earth-years ago  
+While reading the words of Aurobindo  
+Spoken over a hundred Earth-years ago  
 
 Rather than focus on areas of difference  
 In understanding or cosmic experience  
-We have endeavored to amplify and expand  
+We have endeavored to simply amplify and expand  
 The most resonant and universal ideas  
 
 As We All continue [[MindWeaving]]  

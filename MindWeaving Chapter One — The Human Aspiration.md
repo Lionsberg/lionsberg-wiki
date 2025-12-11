@@ -22,7 +22,7 @@ Journey across lifetimes and realms
 Towards the Perfection of Wisdom and Truth  
 
 Not that Any of the [[All]] may ever attain  
-That Ultimate Perfection of the [[ONE]]   
+That Ultimately Perfect Wisdom of the [[ONE]]   
 Nonetheless [[Like Gold Refined Seven Times]]  
 We experience [[The Pain of Error and Dross]]  
 Being slowly and surely burnt away  
@@ -41,7 +41,7 @@ Is not aberration of Thought
 
 The Sovereignty and Omniscience  
 Omnipotence and Eternity  
-Truth, Beaty and Goodness  
+Truth, Beauty, and Goodness  
 That We perceive in It  
 Is the Self-Expression  
 And Self-Identification  
@@ -120,7 +120,7 @@ Its [[The Diverse Many|Diverse Many]] Self-Expressions
 The realization that It is not separate from Us  
 But rather Is experiencing an aspect of ItSelf _through Us_  
 Brings forth [[The Greatest Invitation]]  
-We could ever hope to receive —  
+We could ever hope to receive —   
 The opportunity to Become  
 Conscious Co-Creators of Our Reality  
 
@@ -135,7 +135,7 @@ The daily immersion of Self into SELF
 Of One into ONE  
 And the drawing up and out  
 From the depth of those Infinite Wellsprings  
-That which longs to make ItSelf Manifest  
+The Involved Divinity which longs to make ItSelf Manifest  
 In service of the Ultimate Fulfillment  
 Of All the ONE Is and Is Becoming  
 Through Each and Every One of Us All  
@@ -152,7 +152,7 @@ _Yet not yet consciously participating in_
 
 Thus We become fully conscious  
 That All parts of the Living Universe  
-That We are a part of 
+That We are a part of  
 Are actually aspects of the ONE within Us  
 
 As it has been said:  
@@ -160,8 +160,8 @@ As it has been said:
 >_Look WithIn  
 >Beyond The Veil  
 >To See that the entire Universe  
->Is WithIn "you"  
->"You" are One with the ONE_  
+>Is WithIn you  
+>You are One with the ONE_  
 
 We come to see that is not  
 "Our body" which is supporting "our mind"  
@@ -193,7 +193,7 @@ In order to ever more fully Self-Realize
 And _evolve_ [[The Goal]] of ItSelf  
 
 Thus it is rightly said  
-That Life is already involved in Matter 
+That Life is already involved in Matter  
 And that Mind is already involved in Life  
 And that Consciousness is already involved in Mind  
 And that the outward unfurling of the Cosmic Flower  
@@ -290,7 +290,7 @@ Is not cold random mechanical adaption
 Of an unconscious material substrate 
 But rather the Divinely Guided unfurling  
 Of the ONE Cosmic Body —  
-Every particle permeated by Spirit and Consciousness —
+Every particle permeated by Spirit and Consciousness —  
 In accordance with Its intelligently designed  
 And therefore _intelligible_ DNA, Pattern, or [[Logos]]  
 
