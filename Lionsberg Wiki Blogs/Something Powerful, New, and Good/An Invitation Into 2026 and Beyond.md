@@ -110,6 +110,4 @@ On the opportunity and adventure of a lifetime
 Please reach out  
 
 We would be delighted  
-To help you ReMember the Way  
-
-___
+To help you discover the Way  
