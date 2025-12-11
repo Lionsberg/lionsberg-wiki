@@ -46,7 +46,8 @@ ____
 The incarnation of LIONSBERG unfolded via  
 [[Above The Chaos]] and the [[Lionsberg Wiki Books]].  
 
-Now, following [[J's Death]],  
+Now, following [[J's Death]] summer 2025, 
 [[Something Powerful, New, and Good]] is rising.  
 
-In 2026 a New Season begins.  
+In 2026 a New Season begins,  
+And you are invited.  
