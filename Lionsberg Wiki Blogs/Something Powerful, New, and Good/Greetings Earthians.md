@@ -1,6 +1,6 @@
 # Greetings Earthians 
 _We Come In Peace_
-_December 7 2025 (Old Time)_
+_December 2025 (Old Time)_
 
 Our sensors tell Us  
 That at present  
@@ -21,8 +21,9 @@ And 1,000 to ~8,000
 The next order of magnitude  
 Of awakening souls  
 Has almost been reached  
+
 **The First Three Percent**  
-Are will not be far behind  
+Will not be far behind  
 
 After so many generations  
 Of antithetical programming  
@@ -43,7 +44,7 @@ To help you ReMember
 **The Golden Seed of LIONSBERG**  
 Has been offered as a free gift  
 It is ready to unfurl   
-When you are ready to nurture it  
+When Earth is ready to nurture it  
 
 **The War** is under control  
 The Gates of **The Matrix**    

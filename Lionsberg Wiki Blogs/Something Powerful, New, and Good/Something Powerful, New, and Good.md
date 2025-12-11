@@ -2,6 +2,8 @@
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***  
 
+- [[An Invitation Into 2026 and Beyond]]    
+	
 - [[CAUTION ON AI]]  
 	
 - [[Controlled Disclosure Marches Towards Its Peak]]  
