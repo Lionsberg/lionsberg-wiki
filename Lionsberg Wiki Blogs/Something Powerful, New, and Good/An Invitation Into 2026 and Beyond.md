@@ -16,7 +16,7 @@ Adopting and healing his body
 And stepping into his word  
 Has been an extraordinary experience  
 Both as difficult and misunderstood  
-As the last seven years of his life    
+As his last seven years of life    
 
 Having dropped directly into a contested body  
 In the war for the future of Earth  
@@ -46,6 +46,7 @@ The reality of the Earth's enslavement
 By a dark and ancient empire  
 Is bursting into view for All to see  
 
+_As J's unusual journey revealed_  
 _At present humanity is neither self-governing nor free_  
 
 The events of 2026 to 2033  
@@ -59,7 +60,7 @@ And centuries of chaos and tyranny
 **_But We do not choose those futures_** 
 
 Many of Us are here on Earth _for this_  
-And We can and will prevail Together  
+And We can and will prevail _together_  
 
 >**_"We have been to The Future_**  
 >**_And it is Good"_**  
@@ -70,7 +71,7 @@ And We can and will prevail Together
 But first We must face the harshest realities  
 Of **The Chasm** that stands between  
 **Where We Are** and **Where We Are Going**  
-And the forces that stand in Our Way  
+And the forces that stand in **Our Way**  
 
 ____
 
@@ -88,7 +89,8 @@ Smiling and extending a loving hand of fellowship
 >_Do not be afraid"_  
 
 >_"We have been waiting for you_  
->_And now, precisely on schedule_  
+>_And Now_  
+>_Precisely on schedule_  
 >_You have arrived_"  
 
 The Voice is like the sound of deep rushing waters  
@@ -99,15 +101,15 @@ Your attention comes to rest
 On the ancient words blazing like fire  
 Over the entrance to **The Bridge**  
 
->_THIS IS THE WAY_  
->_Walk ye in it_  
+>**_THIS IS THE WAY_**  
+>_Walk Ye in It_  
 >_Towards Heaven on Earth_  
 >_And Beyond_  
 
 ____
 
-If you are ready to embark  
-On the opportunity and adventure of a lifetime  
+When you are ready join Us  
+For the opportunity and adventure of a lifetime  
 Please reach out  
 
 We would be delighted  
