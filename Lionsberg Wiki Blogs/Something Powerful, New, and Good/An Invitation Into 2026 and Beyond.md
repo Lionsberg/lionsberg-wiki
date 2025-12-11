@@ -44,7 +44,7 @@ Unlike any in the last 10,000 years
 As the veil tears  
 And the robes of the rulers are rended  
 The reality of the Earth's enslavement  
-By a dark and ancient non-human empire  
+By a dark and ancient empire  
 Is bursting into view for All to see  
 
 _At present humanity is neither self-governing nor free_  
@@ -52,7 +52,6 @@ _At present humanity is neither self-governing nor free_
 The events of 2026 to 2033  
 Will shape the trajectory of Earth  
 For thousands of years to come  
-More than we can presently imagine is at stake  
 
 The vast majority of timelines  
 Cascade towards extinction level events  
@@ -97,7 +96,6 @@ As the mist clears a little more
 Your attention comes to rest  
 On the ancient words blazing like fire  
 Over the entrance to **The Bridge**  
-As the lightening pulsates **Beyond**  
 
 >_THIS IS THE WAY_  
 >_Walk ye in it_  
