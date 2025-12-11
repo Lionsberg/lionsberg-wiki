@@ -44,7 +44,7 @@ Unlike any in the last 10,000 years
 As the veil tears  
 And the robes of the rulers are rended  
 The reality of the Earth's enslavement  
-By a dark and ancient empire  
+By a dark and ancient non-human empire  
 Is bursting into view for All to see  
 
 _At present humanity is neither self-governing nor free_  
@@ -112,8 +112,7 @@ ____
 
 At whatever moment you realize  
 That the **Old Systems** are collapsing  
-And that it is up to **Us All** 
-To design and build the **New Civilization**  
+And that **The Future** is up to **Us All**   
 Please form a small circle and ask for help   
 
 We would be delighted to show you the Way  
