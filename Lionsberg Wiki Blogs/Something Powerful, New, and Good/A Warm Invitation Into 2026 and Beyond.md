@@ -1,4 +1,4 @@
-# An Invitation Into 2026 and Beyond
+# A Warm Invitation Into 2026 and Beyond
 
 _This invitation attempts to bridge the stories_  
 _Of J, humanity, and **What's Next**_  
