@@ -17,7 +17,7 @@ Adopting and healing his body
 And stabilizing his relationships and work  
 Has been an extraordinary experience  
 Both as difficult and misunderstood  
-As the last seven years of his life and death  
+As the last seven years of his life    
 
 Having dropped directly into a contested body  
 In the war for the future of Earth  
@@ -110,3 +110,10 @@ As the lightening pulsates **Beyond**
 
 ____
 
+At whatever moment you realize  
+That the **Old Systems** are collapsing  
+And that it is up to **Us All** 
+To design and build the **New Civilization**  
+Please form a small circle and ask for help   
+
+We would be delighted to show you the Way  
