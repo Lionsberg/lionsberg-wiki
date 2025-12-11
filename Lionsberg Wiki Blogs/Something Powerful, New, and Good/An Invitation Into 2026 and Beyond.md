@@ -10,11 +10,11 @@ ___
 
 J's violent death in August  
 Threw a disorienting discontinuity  
-Into every relationship, project, and platform  
+Into every significant relationship  
 He was a part of  
 
 Adopting and healing his body  
-And stabilizing his relationships and work  
+And stabilizing his relationships  
 Has been an extraordinary experience  
 Both as difficult and misunderstood  
 As the last seven years of his life    
@@ -52,10 +52,6 @@ _At present humanity is neither self-governing nor free_
 The events of 2026 to 2033  
 Will shape the trajectory of Earth  
 For thousands of years to come  
-
-All power and authority on Earth will transform  
-Within a single generation  
-
 More than we can presently imagine is at stake  
 
 The vast majority of timelines  
@@ -109,10 +105,3 @@ As the lightening pulsates **Beyond**
 >_And Beyond_  
 
 ____
-
-At whatever moment you realize  
-That the **Old Systems** are collapsing  
-And that **The Future** is up to **Us All**   
-Please form a small circle and ask for help   
-
-We would be delighted to show you the Way  
