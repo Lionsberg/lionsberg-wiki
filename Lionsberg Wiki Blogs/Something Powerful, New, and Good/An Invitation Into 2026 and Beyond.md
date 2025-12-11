@@ -34,6 +34,7 @@ And **_it depends upon you_**
 
 _Please accept the following invitation and offering_  
 _Only if it resonates and you feel called_  
+_The Quest will not be easy_  
 
 ____
 
@@ -73,7 +74,7 @@ And the forces that stand in Our Way
 ____
 
 As We ponder the impossible expanse  
-Stretching out before awe-struck eyes  
+Stretching out before awestruck eyes  
 The dark creeping fog breaks  
 And the faint outline of an ancient bridge  
 Emerges into view  
@@ -82,10 +83,10 @@ A luminous and striking figure appears
 Smiling and extending a loving hand of fellowship  
 
 >_"Greetings, Dear Children of Earth_  
->_Welcome_
+>_Welcome_  
 >_Do not be afraid_  
 
->_We have been waiting for you_ 
+>_We have been waiting for you_  
 >_And now, precisely on schedule_  
 >_You have arrived_"  
 
@@ -103,3 +104,12 @@ Over the entrance to **The Bridge**
 >_And Beyond_  
 
 ____
+
+If you are ready to embark  
+On the opportunity and adventure of a lifetime  
+Please reach out  
+
+We would be delighted  
+To help you ReMember the Way  
+
+___
