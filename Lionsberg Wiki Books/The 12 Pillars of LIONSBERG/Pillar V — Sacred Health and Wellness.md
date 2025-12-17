@@ -1,4 +1,4 @@
-# Pillar V — Sacred Health and Healing
+# Pillar V — Sacred Health and Wellness
 
 _Restoring the Temple of the Body and the Harmony of Spirit, Mind, and Nature_
 
