@@ -11,7 +11,7 @@
 ## August 2025 - The End, and the Beginning of Something Powerful, New, and Good
 
 - Closing update to [[Jordan's Short Story]]  
-- [[Oops, We Killed J - Final Post]]  
+- [[Oops, We Lost J - Final Post]]  
 - [[Unity Or Death]]  
 - [[What If? What Then?]]  
 

@@ -44,7 +44,7 @@ Restores legitimate authority as that which serves ONE and All, and reconstitute
 
 ---
 
-#### **[[Pillar III — Sacred Economy]]**
+#### **[[Pillar III — Sacred Economy and CurrentSee]]**
 
 _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 

@@ -148,7 +148,7 @@ The invitation is open, the beacon is lit, and the path forward is clear.
 In June, [[J]] is called to East Africa, where he spends 30 days.  
 While he is there, hundreds of young leaders are shot, arrested, disappeared, or killed by government forces, while children go hungry for lack of ten cent daily rations of gruel. Powerful new insights and breakthroughs occur.   
 Upon returning, spiritual and energetic warfare intensifies dramatically.  
-On [[August 10th]], 2025, [[J]] is killed in [[The War]] (see [[Oops, We Killed J - Final Post]]).  
+On [[August 10th]], 2025, [[J]] is killed in [[The War]] (see [[Oops, We Lost J - Final Post]]).  
 Still overly dependent upon J, "the body" of LIONSBERG, including its [[Provisional Structure]] and accounts, is laid to rest with J.  
 [[J's Death]] is necessary, good, and paves the Way for [[Something Powerful, New, and Good]] to emerge.  
 

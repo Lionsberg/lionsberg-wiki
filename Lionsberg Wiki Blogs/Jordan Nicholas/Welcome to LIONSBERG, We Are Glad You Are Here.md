@@ -6,17 +6,17 @@ Welcome to **LIONSBERG**.
 
 We **Love You**. We **Miss You**. Welcome **HOME**.
 
-Everything about [[LIONSBERG]] is, as told in **[[The Story of the Builder]]**, a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to Earth**, one **step, one decision, one life, one community at a time**. 
+Everything about [[LIONSBERG]] is, as told in **[[The Story of the Builder]]**, a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
 
 We are doing Our best to **download [[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**.
 
-But make no mistake—**the Reality of Heaven on Earth is not something handed down to us from Above.**  
+But make no mistake—**the Reality of Heaven on Earth or in any world is not something handed down to us from Above.**  
 It is something that must be **co-created**, lived, and embodied **Together**.
 It is a State of Being that We must **Become**.
 
 It is something that **emerges** through each **individual, circle, team, and locality** as a direct **consequence of Who We Are Becoming**.
 
-LIONSBERG was purpose-built to enable **humanity to win [[The War]] and accomplish [[The Mission]]** within a single generation—but it can only become Reality through the conscious decision to voluntarily accept [[The Invitation]], one individual at a Time.
+LIONSBERG was purpose-built to bring Heaven to any realm it touches within a single generation—but it can only become Reality through the conscious decision to voluntarily accept [[The Invitation]], one individual and locality at a Time.
 
 We are so delighted that you have decided to take this simple yet extraordinary [[First Step]]. 
  

@@ -110,7 +110,7 @@ The Three Supreme Agreements are the backbone of the basic [[Covenant]], or [[Fi
 
 Everything within [[LIONSBERG]] is divided up into [[SpatioTemporal Domains]], or [[Domains of Responsibility and Authority]]. Each Domain has an Identity, a Purpose, a [[Selectively Permeable Membrane]], and is covered by a [[Field of Agreements]].  
 
-The [[Selectively Permeable Membrane]] of each Domain can be crossed on the basis of [[Voluntary Mutual Consent]].
+The [[Selectively Permeable Membrane]] of each Domain can be crossed on the basis of [[Ongoing Mutual Consent]].
 
 Every time two or three gather and co-create and Name a new Team or Group, a New Domain is brought into existence. 
 ### Your First Quarter
@@ -154,7 +154,7 @@ The [[Total Nested Hierarchy of Projects]] that we (and [[All Creation]]) are en
 
 Treating everything as a project is a core [[Discipline]] and [[Practice]] that enables us, over the course of quarters, years, and generations, to progressively develop our capacity to accomplish ever greater things in community, and to ensure that those [[Ever Greater Things]] can be systematically resourced across the ecosystem. 
 
-It also ensures that as we and future generations continually choose new [[Quarterly Quests]] and engage with new teams in new places and times, everyone can get up to speed quickly. 
+It also ensures that as we and future generations continually choose new [[Seasonal Quests]] and engage with new teams in new places and times, everyone can get up to speed quickly. 
 
 This is a cornerstone of the [[Lionsberg System and Approach]]. 
 ### Forging or Joining Teams
@@ -317,11 +317,11 @@ Coming Soon
 ### Community Development 
 
 Coming Soon 
-### Lionsberg Development 
+### Planetary Development 
 
 Coming Soon 
 
-### Global, Interplanetary, and Interstellar Development  
+### Interplanetary and Interstellar Development  
 
 Coming Soon 
 

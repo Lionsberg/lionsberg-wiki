@@ -6,7 +6,7 @@ ___
 
 After returning from 30 days in East Africa and naming [[That Which Cannot Be Named]] in [[The Great UnVeiling]], on August 10, 2025 J was killed in [[The War]].   
 
-See [[Oops, We Killed J - Final Post]].   
+See [[Oops, We Lost J - Final Post]].   
 
 ____
 

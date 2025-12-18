@@ -1,3 +1,3 @@
 # J's Death
 
-See [[Oops, We Killed J - Final Post]]  
+See [[Oops, We Lost J - Final Post]]  

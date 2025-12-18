@@ -28,7 +28,7 @@ We know not whether this new experience
 Of embodied life and consciousness  
 Will persist indefinitely or abruptly end today  
 
-Either Way **_The Future is good_**  
+Either Way **_The Future is Good_**  
 And **_It depends upon you_**  
 
 _Please accept the following invitation and offering_  

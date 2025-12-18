@@ -1,29 +1,40 @@
-# **The Golden Seed of LIONSBERG — v0.1**
-  
-> _A self-replicating, self-learning, divinely aligned pattern-package through which the LIONSBERG System takes root in any domain and awakens the Players of The Great Game._
+# **The Golden Seed of LIONSBERG**
+_v0.1_
 
-_To ensure you are on the latest version visit [[The Golden Seed of LIONSBERG]] and check for the most recent version_  
+> _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIONSBERG System propagates and takes root across dimensions, species, and worlds._
+
+_Please visit [[The Golden Seed of LIONSBERG]] and check for the most recent version_  
 
 ---
 
-[[GS 1.1 — Orientation]]  
+## The Threshold 
+
+[[The Relational Bridge]]  
+[[The Mythic Summons]]  
+[[The Threshold]]  
+[[The Guide]]  
+[[The Choice]]  
+
+## The Golden Seed    
+
+[[GS 1.1 — The Golden Seed]]  
 [[GS 1.2 — Faith and Trust]]  
 [[GS 1.3 — Rite of Seeding]]  
+[[GS 1.4 — Rites of Activation]]  
 
-## A Living Invitation 
+## The Shared Journey Ahead
 
-
-
-## A Brief Overview 
-
-GS — The Story of LIONSBERG (Summary)
-GS 2.2 — The Gates of Initiation  
-GS 2.3 — The Great Game  
-GS 2.4 — The Sacred Ascent   
+[[GS 1.5 — Overview of The Journey Ahead]]
+- GS — The Story of LIONSBERG (Summary)
+- GS 2.2 — The Gates of Initiation  
+- GS 2.3 — The Great Game  
+- The Wilderness  
+- The Promised Land  
+- GS 2.4 — The Sacred Ascent   
 
 ## Quickstart Guide 
 
-[[GS 1.4 — Rites of Activation]]  
+
 
 GS 3.1 — Declaring Sovereignty  
 GS 3.2 — Forming a Circle  
@@ -58,27 +69,27 @@ Gate 2.2 — Spacefaring Species
 Gate 2.3 — The Birth of New Worlds  
 Gate 2.4 — Goldilocks Zones and Planetary Migration  
 Gate 2.5 — Terraforming Worlds  
-Gate 2.6 — Local Life Before Earth  
-Gate 2.7 — Terraforming Earth  
-Gate 2.8 — The Birth of a Living Laboratory  
-Gate 2.9 — The Natural Progression of Worlds  
-Gate 2.10 — Genetic Engineering  
-Gate 2.11 — Consciously Guided Evolution  
+Gate 2.6 — Living Laboratories    
+Gate 2.7 — Genetic Engineering  
+Gate 2.8 — The Natural Progression of Worlds  
+Gate 2.9 — Consciously Guided Evolution  
+Gate 2.10 — Species Templates    
+Gate 2.11 — Cosmic Origins of the Human Template   
 Gate 2.12 — Predictable Cyclic Cataclysm  
-## Movement Three — The Progressive Enslavement of Earth  
+## Movement Three — War and the Progressive Enslavement of Worlds  
 
-Gate 3.1 — The War Descends to Earth  
+Gate 3.1 — The War Descends to a World  
 Gate 3.2 — Conflict Across Millions of Years  
-Gate 3.3 — The Previous Civilizations on Earth  
-Gate 3.4 — Non-Human Influences on Earth  
+Gate 3.3 — Forgotten Civilizations  
+Gate 3.4 — Diverse Non-Human Influences  
 Gate 3.5 — Factions, Mutinies, and Rebellions  
 Gate 3.6 — Engineering Solutions  
-Gate 3.7 — Cosmic Origins of the Human Template  
-Gate 3.8 — The Human Template Comes to Earth  
-Gate 3.9 — Previous Configurations  
-Gate 3.10 — Intentional Cataclysms and Resets  
-Gate 3.11 — The Fear of Human Potential  
-Gate 3.12 — Dividing and Conquering Earth  
+Gate 3.7 — The Human Template Comes to a World    
+Gate 3.8 — Configurations, Tampering, and Genetic Wars  
+Gate 3.9 — Intentional Cataclysms and Resets
+Gate 3.10 — The Fear of Human Potential  
+Gate 3.11 — Division, Deceit, and Enslavement       
+Gate 3.12 — Matrices of Alien Kontrolle  
 
 ## Movement Four — Awakening and Exodus  
 
@@ -89,7 +100,7 @@ Gate 4.4 — Awakening in an Alien Kontrolle Matrix
 Gate 4.5 — Realizing It All Was a Lie  
 Gate 4.6 — The Insatiable Desire For Freedom  
 Gate 4.7 — The Will to Exit and Live  
-Gate 4.8 — The First Glimpse of Real Light  
+Gate 4.8 — The Kontrollers  
 Gate 4.9 — The Keys to the Prison Gates  
 Gate 4.10 — The Great Exodus Begins  
 Gate 4.11 — Journeying Towards The Boundary  
@@ -107,15 +118,15 @@ Gate 5.7 — Traveling in Circles and Tribes
 Gate 5.8 — Aligning and Making Progress  
 Gate 5.9 — No One Involuntarily Left Behind  
 Gate 5.10 — Networked Camps and Sanctuaries  
-Gate 5.11 — Food, Shelter, and Support For All  
+Gate 5.11 — Food, Shelter, and Life Support For All  
 Gate 5.12 — Learning to Live by Faith  
 
 ## Movement Six —  Emergent Self-Governance  
 
 Gate 6.1 — ReMembering How to Govern Our Selves  
-Gate 6.2 — Sovereign and Freedom For All  
-Gate 6.3 — Domains of Responsibility and Authority  
-Gate 6.4 — Organizing on the Basis of Resonance  
+Gate 6.2 — Sovereignty and Freedom For All  
+Gate 6.3 — Organizing on the Basis of Resonance  
+Gate 6.4 — Domains of Responsibility and Authority  
 Gate 6.5 — Self-Governing, Self-Sustaining, Self-Replicating Circles  
 Gate 6.6 — Forging Fields of Agreement  
 Gate 6.7 — Archetypes and Roles  
@@ -145,7 +156,7 @@ Gate 7.12 — Allies and Adversaries
 
 Pillar 1 — Sacred Ontology and Metaphysics  
 Pillar 2 — Sacred Governance and Stewardship  
-Pillar 3 — Sacred Economy  
+Pillar 3 — Sacred Economy and CurrentSee  
 Pillar 4 — Sacred Learning and Mastery  
 Pillar 5 — Sacred Health and Wellness
 Pillar 6 — Sacred Ecology and Living Systems  
@@ -170,7 +181,7 @@ Gate 9.8 — Localization, Adaptation, and Instantiation
 Gate 9.9 — Minimum Standards of Interoperability  
 Gate 9.10 — Guardrails and Incentives  
 Gate 9.11 — The LIONSBERG Pattern Language  
-Gate 9.12 — How the New Cosmic Operating System Emerges   
+Gate 9.12 — How the New Cosmic Operating System Emerges  
 
 ## Movement Ten — The Sacred Ascent  
 
@@ -182,9 +193,9 @@ Gate 10.5 — The Gate of Safety and Belonging
 Gate 10.6 — The Gate of Freedom and Choice  
 Gate 10.7 — The Gate of Truth and Reconciliation  
 Gate 10.8 —  The Gate of Right InterBecoming  
-Gate 10.9 — The Gate of Healing  
-Gate 10.10 — The Gate of Learning and Development  
-Gate 10.11 — The Gate of Inner and Outer Transformation   
+Gate 10.9 — The Gate of Wounds, Trauma, and Healing  
+Gate 10.10 — The Art and Science of Divine ReUnion   
+Gate 10.11 — The Reciprocal Unfurling of Inner and Outer Transformation   
 Gate 10.12 — The 72 Gates of The Sacred Ascent  
 
 ## Movement Eleven — The Living Codex 
@@ -198,9 +209,9 @@ Gate 11.6 — The Constitution
 Gate 11.77 — The 12 Pillars  
 Gate 11.8 — The 144 Gates of Initiation  
 Gate 11.9 — The 72 Gates of the Sacred Ascent  
-Gate 11.10 — The Patterns and Prototype  
-Gate 11.11 — The Protocols  
-Gate 11.12 — Evolutionary Feedback Loops  
+Gate 11.10 — The Pattern Language and Prototype  
+Gate 11.11 — The Protocols For Local Instantiation   
+Gate 11.12 — Evolutionary Feedback Loops and OmniLearning  
 
 ## Movement Twelve — The Eternal Divine Play  
 
@@ -209,9 +220,9 @@ Gate 12.2 — The Expansion and ReUnion of Consciousness
 Gate 12.3 — The Sovereignty and Freedom of All in ONE  
 Gate 12.4 — Play Across Generations, Dimensions, and Worlds  
 Gate 12.5 — The Holofractal Emergence of Heaven  
-Gate 12.6 — The Progressive Liberation of All Oppressed Species and Worlds  
-Gate 12.7 — In the Essentials We Celebrate Our Unity  
-Gate 12.8 — In the Non-Essentials We Celebrate Our Vast Diversity 
+Gate 12.6 — The Holofractal Battlefields of Individuals, Species, and Worlds  
+Gate 12.7 — In the Essentials We Celebrate Unity  
+Gate 12.8 — In the Non-Essentials We Celebrate Diversity 
 Gate 12.9 — In All Things We Celebrate the Co-Creation of Heaven  
 Gate 12.10 — Encountering New Species and Worlds  
 Gate 12.11 — Cosmic Diplomacy  
