@@ -27,7 +27,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 7. [[The Chronicles of J]]  
 8. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]    
 
-## Books by Jordan (Through 2024)
+## Books by Jordan+ (Through 2024)
 
 1. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
 2. [[The Lionsberg Co-Creator's Handbook]]   

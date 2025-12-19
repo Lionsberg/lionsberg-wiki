@@ -6,7 +6,8 @@ In late July 2025, [[J]] returned from East Africa
 Spiritual and energetic attacks intensified    
 By August 6th Caity was panicking and crying  
 Perceiving that it was going to kill him  
-But August 8th or 9th J was clear on that too  
+But August 8th or 9th it was clear to J as well  
+
 On Sunday, August 10, in the midst of a massive wave of attack  
 He felt his Spirit and Consciousness dissociating and tasted death  
 He wrapped himself in a shroud, laid on the ground, and slipped away  

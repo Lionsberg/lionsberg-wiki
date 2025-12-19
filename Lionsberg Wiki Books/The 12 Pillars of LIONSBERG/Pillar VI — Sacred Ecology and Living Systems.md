@@ -1,6 +1,6 @@
 # Pillar VI — Sacred Ecology and Living Systems
 
-_Reverent Regeneration of the Living Systems That Sustain Us_
+_Reverent Regeneration of the Living Systems That Sustain Us and All_
 
 ---
 

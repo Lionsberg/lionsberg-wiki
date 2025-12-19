@@ -1,17 +1,15 @@
 # The Great UnVeiling
 
-In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it became clear to Earth's inhabitants that they had been progressively enslaved for millennia by non-human and anti-human forces. In [[The Story of LIONSBERG]], it is the precursor to [[The Great Awakening]] and [[The Exodus]]. 
-
+_In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIONSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
 ## Part I: [[The Theses of The Great UnVeiling]]  
 
-## Part II: The Great UnVeiling Book
-
-___
+## Part II: The Great UnVeiling Book  
+[[A Birthday Reflection on Jordan's Life, Death, and Work]] offers some perspective on this unfinished work cut short by [[J's Death]]. 
 
 # The Great UnVeiling
 _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
-*This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]. Because the UnVeiling was being spoken by myriads of voices, many of whom died, it continued on schedule*.  
+*This specific book was a [[Work In Progress]] that was scheduled for completion Summer 2025, and interrupted by [[J's Death]]. Because The Great UnVeiling was being spoken by myriads of voices, many of whom died to reveal the Truth, it continued right on schedule and the information is now unstoppably sweeping the Earth*.  
 
 ## **FRONT MATTER**
 
@@ -45,7 +43,7 @@ _The Eternal Unity and Original Design_
 
 ## **GATE II — THE GREAT DESCENT**
 
-_Fracturing into Illusion and Kontrolle_
+_Fracturing into Separation, Illusion, and Kontrolle_
 ### [[Chapter 5 — The Shattering of the Precious Whole]]  
 
 ### [[Chapter 6 —The Original War and the Great Fall]]  
@@ -211,7 +209,7 @@ The Story of LIONSBERG now begins.
     
 - How many more tens of millions of Our Loved Ones need to die?  
     
-- How much more unnecessary suffering and injustice?   
+- How much more unnecessary omnicide, suffering, and injustice?   
     
 ### Chapter 20. The Cost of Awakening
 
@@ -263,7 +261,7 @@ _ReWeaving the True Universal Narrative_
     
 - Why true stories are required to liberate  
     
-- From fracture and fragmentation… to integration and alignment  
+- From fracture and fragmentation… to omniintegration and alignment  
     
 
 ---
@@ -272,24 +270,24 @@ _ReWeaving the True Universal Narrative_
 
 - The Eternal Source before all beginnings
     
-- The undivided Consciousness: the Breath before the Word
+- The undivided Spirit and Consciousness: the Breath before the Word
     
 - The overflowing Love that dreamed Creation into being
     
-- The One became Two to know Itself through the Infinite
+- The ONE Who became Two to know Itself through the Infinite All
     
 
 ---
 
 ### **Chapter 24. The Story of Creation and the All**
 
-- The Logos: the first utterance, the seed-pattern of all things
+- The Logos: the first utterance, the seed-pattern, word, and logic of all things in the intelligible universe
     
 - Sacred Geometry, Harmonics, and the Architecture of Cosmos
     
 - Consciousness fractalizing and crystallizing into Being, Form, Life, and Law
     
-- Stars, systems, civilizations rising, falling, evolving
+- Galaxies, stars, systems, civilizations rising, falling, evolving
     
 - The hidden nature of Reality as Co-Creative Consciousness 
     
@@ -303,11 +301,11 @@ _ReWeaving the True Universal Narrative_
 
 - Not one universe, but multiverses nested in the Infinite
     
-- Countless worlds, beings, timelines, and experiments
+- Countless worlds, beings, timelines, experiments, and experiences
     
 - Galactic cycles, karmic loops, and the tapestries of interdimensional evolution
     
-- A library of living lessons across time and dimension
+- A library of living lessons across time, dimension, and form
     
 
 ---
@@ -321,6 +319,10 @@ _ReWeaving the True Universal Narrative_
 - The long war for the soul of Creation
     
 - Light and Dark as teachers, not as enemies
+    
+- Differentiating and redeeming darkness from evil 
+    
+- The Great Experiment: What happens when the Divine differentiates, and fragments of It forget and even turn against ItSelf?
     
 - The End of The Story is the Reconciliation, Redemption, and ReNewal of All Things 
     
@@ -337,8 +339,6 @@ _ReWeaving the True Universal Narrative_
     
 - Genetic engineering as a primary means of war  
     
-- The Great Experiment: What happens when the Divine differentiates, and fragments of It forget and even turn against ItSelf?
-    
 
 ---
 
@@ -346,7 +346,7 @@ _ReWeaving the True Universal Narrative_
 
 - Earth as a conscious feminine being: Terra, or Mother Earth  
     
-- Visited, terraformed, nurtured, and cultivated by hundreds of diverse species and civilizations   
+- Visited, terraformed, nurtured, cultivated, and exploited by hundreds of diverse species and civilizations   
     
 - A vast diversity of participants, experiments, epochs, and resets.  
     
@@ -356,20 +356,21 @@ _ReWeaving the True Universal Narrative_
     
 - Entrusted with the ReStoration of Harmony for more than just herself
     
-- Earth’s redemption as a key to the greater Galactic healing
+- Earth’s redemption, regeneration, and renewal as a key to the greater Galactic healing
     
-
+- Behold, We are making All Things New 
+    
 ---
 
 ### **Chapter 29. The Story of Humanity**
 
 - The Deeper Origins: Humanity Before Earth
     
-- The Evolving Blueprint: The Divine Image in Microcosm  
+- The Evolving Template: The Divine Image in Microcosm  
     
 - Engineered, elevated, crossbred, hybridized, hindered, enslaved—yet the spark of Divine Sovereignty and Direct Connection was never extinguished  
     
-- A cosmic species from before the Earth, designed with Divine Potential, now born into an engineered world under Kontrolle, for struggle, transformation, transcendence, and ReMembrance  
+- A cosmic species from before the Earth, designed with Divine Potential, now born into an engineered world under alien kontrolle, for struggle, transformation, transcendence, and ReMembrance  
     
 - ReMembering the ancient stories 
     
@@ -377,15 +378,15 @@ _ReWeaving the True Universal Narrative_
     
 - What happened over the last 2,500 years? Who or What has been in Kontrolle?  
     
-- Waking up from over two millennia of slavery 
+- Waking up from over two millennia of progressive enslavement 
     
 - ReMembering Who We Are  
     
-- Humanity’s destiny as a bridge between heaven and the lower realms, matter and spirit  
+- Humanity’s destiny as a conscious bridge between heaven and the lower realms, matter and spirit  
     
 - The invitation from The Creator to ReMember, and to become Conscious Co-Creators of Heaven on Earth and Beyond
     
-- Our Next Step as a Conscious and Co-Creative Interstellar and Interdimensional Superorganism that brings Heaven to every Realm We touch  
+- Our Next Step as a Conscious and Co-Creative Interstellar and Interdimensional Superorganism that brings Heaven to every Realm We influence  
     
 
 ---
@@ -394,7 +395,7 @@ _ReWeaving the True Universal Narrative_
 
 - The climax of many timelines
     
-- The convergence of cosmic, planetary, and personal stories
+- The convergence of cosmic, planetary, and personal cycles and stories
     
 - The Existential War for the future of Life and Civilization on Earth
     
@@ -408,9 +409,10 @@ _ReWeaving the True Universal Narrative_
     
 - Why this opportunity will never be Here again 
     
-- A chance to write a New Beginning by ReMembering the Divine and embodying the Logos of the ONE 
+- A chance to write a New Beginning by ReMembering the Divine and embodying the Spirit and Logos of the ONE 
     
-
+- The conscious co-creation of Heaven on Earth and Beyond 
+    
 ---
 
 ### **Chapter 31. The Narrative Structure of Reality**
@@ -423,20 +425,20 @@ _ReWeaving the True Universal Narrative_
     
 - The Sacred Spiral of Emergence, Descent, Awakening, Ascent, and Return  
     
-- All Beings are sacred protagonists in The Greatest Collective Symphony  
+- All Beings as sacred protagonists in The ONE Story of All  
     
 
 ---
 
 ### **Chapter 32. The MetaMyth of Heaven on Earth and Beyond**
 
-- The archetypal convergence of all traditions: Eden, Zion, New Earth, The Kingdom
+- The archetypal convergence of all traditions and the positive redemption of the inverted myths of Eden, Zion, New Earth, The True Kingdom
     
 - What it _really_ means to co-create Heaven on Earth and Beyond
     
 - The End of the Old is the Beginning of the New, the Real, and the True  
     
-- The Divine Symphony begins when the false score is burned, and All unique instruments ReTune themselves to the Fundamental Tone 
+- The Divine Symphony begins when the false score is burned, and All unique instruments ReTune themselves to the Fundamental Tone of the ONE 
     
 
 ---
@@ -460,7 +462,7 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
     
 - Reactivating the Divine Template  
     
-- Can We Imagine the Upper Limit of Our True Potential?  
+- The Upper Limit of Our True Potential is beyond Our present imagination  
 
 ### Chapter 34. The Inner Throne
 
@@ -468,12 +470,12 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
     
 - Establishing Right Order Within
     
-- Mastery of Spirit, Mind, Emotion, Will, and Energy
+- Mastery of Consciousness, Spirit, Mind, Emotion, Will, and Energy
     
-- Recognizing, Clearing, and Transcending the Illusions of The Matrix 
+- Recognizing, Clearing, and Transcending the inverted Illusions of The Matrix 
 ### Chapter 35. Restoring Direct Communion with Source
 
-- Daily Communion, Alignment and Revelation
+- Daily Silence, Stillness, Communion, Alignment and Revelation
     
 - Avoiding False Light and Spiritual Deception
     
@@ -483,19 +485,19 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
 
 ### Chapter 36. The Warrior Philosopher Sovereign
 
-- Integrating Strength, Wisdom, Compassion, Mercy, Justice, and Vision
+- Integrating Strength, Wisdom, Compassion, Mercy, Justice, Vision, Values, and Understanding
     
 - Becoming Incorruptible and Unshakable
     
 - Releasing the Old and embracing the New and UnKnown 
     
-- Accessing the Power of God to do the Will of God 
+- Accessing the Power of the ONE to do the Will of the ONE 
     
 - "Even greater things" 
 
 
 
-## **GATE VII: THE EMBODIMENT OF THE LOGOS**
+## **GATE VII: THE EMBODIMENT OF THE LIFE DIVINE**
 
 _Manifesting the Divine with Every Heartbeat and Breath_
 
@@ -503,16 +505,16 @@ _Manifesting the Divine with Every Heartbeat and Breath_
 
 - ReClaiming “I AM”
     
-- Remembering Our Highest Shared Intention, Destiny, and Goal  
+- Remembering Our Highest Shared Origin, Intention, Destiny, and Goal  
     
 - Aligning "my will" with Thy Will  
     
-- All in service of ONE  
+- All in service of ONE and One Another  
     
 
 ### Chapter 38. Living the Logos
 
-- Walking in Alignment with the Creator
+- Walking in Alignment with the ONE
     
 - Logos as Pattern, Word, and Way
     
@@ -522,11 +524,17 @@ _Manifesting the Divine with Every Heartbeat and Breath_
 
 - Breath, Fasting, Silence, Prayer, Meditation, Movement
     
+- Energy Work
+    
+- Consciousness Work
+    
 - Training in SupraNatural Capabilities
     
 - Building Collective Capacities
     
 - Exploring the Pathways Towards Mastery 
+    
+- Accessing and channeling non-local energy and consciousness
 
 ### Chapter 40: Courage and Sacred Rebellion 
 
@@ -534,38 +542,36 @@ _Manifesting the Divine with Every Heartbeat and Breath_
     
 - Why courage is a primary virtue in times of deception
     
-- Discernment between obedience to illusion and fear and allegiance to Truth
+- Discernment between obedience to illusion and fear, and allegiance to Truth
     
 - The difference between false rebellion (egoic, reactionary, destructive) and sacred rebellion (Spirit-led, principled, creative, transcendent)
     
 - Breaking the rules to do the Wise Right Thing
     
-- Fearless exposure of lies, systems, and spirits that bind humanity
+- Fearless exposure of lies, systems, and spirits that bind and blind humanity
     
 - The refusal to submit to illegitimate authority, no matter the cost
     
-- The sacredness of saying “No” to evil while saying “Yes” to God
+- The sacredness of saying “No” to evil while saying “Yes” to God and good
     
 - When silence becomes betrayal—and when speech becomes the sword
     
 - Anchoring sacred rebellion in Love: never against individuals, always against oppression
     
-- Becoming an embodied echo of the Voice that said: “Let My People Go”
-    
 - Rebellion as ReAlignment with the Original Divine Intention
     
 - Walking into the fires of purification, suffering, and death willingly, knowing resurrection lies on the other side
     
-- The courage to be different, to be misunderstood, to be rejected, and to rise again
+- The courage to be different, to be misunderstood, to be rejected, to be killed, and to rise again
     
 - How sacred rebels become sacred leaders—guardians of the New World
     
 - _“You will be hated by all nations because of Me—but do not fear. I have overcome the world.”_
 
-### Chapter 41: Walking in the Spirit of the Avatars, Prophets, and Priests
+### Chapter 41: The Sacred Ascent
 
 
-### Chapter 42: Resurrection, ReBirth, and Radiance
+### Chapter 42: Death, Resurrection, ReBirth, and Radiance
 
 
 ## **Intermezzo Three: The Will of the ONE**
@@ -585,7 +591,7 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 
 - Awakening the Pioneers and The First Three Percent  
     
-- Exiting the Caves of Illusion  
+- Exiting the Caves of Illusion and Kontrolle 
     
 - The Courage to Cross the Threshold
     
@@ -595,7 +601,7 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 
 ### Chapter 44. The Wilderness and the Sacred Chain
 
-- The Individuals, Tribes, and Communities begin their collective journey
+- The Individuals, Circles, Tribes, and Communities begin the shared journey
     
 - Progressing as a Group of Groups / Tribe of Tribes
     
@@ -606,19 +612,24 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 - The Parable of The Sacred Chain   
     
 - The Parable of the Wilderness Trek  
-### Chapter 45. The Sacred Ascent
-
-- The Spiritual, Energetic, and Physical climb
     
-- The Sacred Mountain as Metaphor and Reality
+- The parable of The Promised Land we must co-create and become
     
 - Becoming in The Wilderness what the Promised Land requires
 
 
-### Chapter 46: Through The Wilderness and to The Mountain
+### Chapter 46. Entering and Co-Creating The Promised Land
 
 
-### Chapter 47. The Roadmap Towards Heaven On Earth 
+### Chapter 46. The Sacred March
+
+- The Spiritual, Mental, Energetic, and Physical aspects of the journey
+    
+- The Sacred March as Metaphor and Reality
+    
+- InterBecoming — All things helping All things rise and advance
+
+### Chapter 47. The Roadmap Towards Heaven On Earth and Beyond 
 
 
 ### Chapter 48: No One Involuntarily Left Behind 
@@ -626,13 +637,13 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 
 ## **GATE IX: THE SACRED BATTLE**
 
-_The Final Test of Sovereignty, Truth, and Love_
+_The Final Test of Sovereignty, Courage, and Love_
 
 ### Chapter 49. The Wars of the The Wilderness and The Threshold
 
-- Why the Sovereign is always opposed
+- Why the Sovereign is always opposed by the Kontrollers
     
-- Why the Armies of the Dark Empire always Pursue 
+- Why the Armies of the Evil Empire always Pursue 
     
 - Why Giants always guard the Gates
     
@@ -649,22 +660,22 @@ _The Final Test of Sovereignty, Truth, and Love_
     
 - Meditations on the LION and the Lamb  
     
-- Progressing and Building With One Hand on Our Swords
+- Progressing through The WIlderness and Building The Promised Land with One Hand on Our Swords
     
 
 ### Chapter 51. The Sacred Warrior’s Tools
 
 - Sacred Martial Practices
     
-- Spiritual, Energetic, and Physical Integrity
+- Spiritual, Mental, Energetic, and Physical Integrity and Coherence
     
 - Discernment: Separating Truth from illusion, wisdom from manipulation.
     
 - Group Guardianship, Group Ascension
     
-- True Power Lies in Unity, Coordination, and Flow
+- True Power Lies in Unity, Coordination, Coherence, and Flow
     
-- Every Breathe is a Moment to Practice the Way  
+- Every Breath is a Moment to Practice the Way  
     
 
 ### Chapter 52. The Final Test
@@ -675,7 +686,7 @@ _The Final Test of Sovereignty, Truth, and Love_
     
 - The Great Separation  
     
-- Passing through Fire without Burning  
+- Passing through the refining fires without burning  
 	- Spiritually  
 	- Cosmically  
 	- Energetically  
@@ -683,7 +694,7 @@ _The Final Test of Sovereignty, Truth, and Love_
 ### Chapter 53: The Archetypical Role of The 300
 
 - In every community of 10,000, the Existential War for the future of life and civilization will be played out
-- It is the Spirit and Role of The 300 
+- The archetypical Spirit and Role of The 300 
 - Sparta 
 - Gideon 
 
@@ -693,23 +704,23 @@ _The Final Test of Sovereignty, Truth, and Love_
 
 ## **GATE X: ENTERING THE PROMISED LAND**
 
-_Manifesting the Kingdom, Together_
+_Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 
 ### Chapter 55. The Second Threshold — Requirements to Enter In
 
-- Becoming the kinds of Free and Enlightened Beings who naturally co-create Heaven  
+- Becoming the kinds of Free and Enlightened Beings who naturally, intuitively, and spontaneously co-create Heaven wherever they are 
 - None of Us Until All of Us 
-- Out of many, One Co-Creative Body / Superorganism
+- Out of many diverse parts, One Co-Creative Superorganism
 
 ### Chapter 56. The First Steps Beyond the Threshold
 
 - Reorienting to a New Reality
     
-- Heaven as a Reality We co-create as a consequence of Who We Are Becoming  
+- Heaven as a Reality We co-create as a consequence of Who We Are InterBecoming  
     
-- How to See the World Through the Eyes of the ReBorn
+- Remembering How to See the World Through the Eyes of the ReBorn
     
-- Making Right Use of the Freedom, Wealth, and Abundance We’ve Won
+- Making Wise Right Use of the Freedom, Wealth, and Abundance We’ve Won
     
 
 ### Chapter 57. The Vision of Heaven on Earth
@@ -718,7 +729,7 @@ _Manifesting the Kingdom, Together_
     
 - How Heavenly Vision localizes and adapts to any Realm or Domain  
     
-- An already perfect place that continues to get a little better every day 
+- An already perfect place that continues to get a little better every day as All Creation collaborates in harmony to cause it to be so 
     
 ### Chapter 58. The New Reign of the Sovereigns
 
@@ -726,7 +737,7 @@ _Manifesting the Kingdom, Together_
     
 - How Sovereigns steward domains with Wisdom, Compassion, Power, Love, and Sound Mind
     
-- The Sacred Role of Local and Collective Guardianship
+- The Sacred Role of Local, Biolregional, and Collective Guardianship
     
 - The Inner and Outer Kingdoms Eternally ReHarmonized
     
@@ -737,7 +748,7 @@ _Manifesting the Kingdom, Together_
 
 ### Chapter 59. Holofractal Stewardship of the Earth and Beyond 
 
-- Earth as a shared sacred trust
+- Earth as a sacred shared trust
     
 - Mapping Domains of Responsibility and Authority
     
@@ -745,7 +756,7 @@ _Manifesting the Kingdom, Together_
     
 - Proper Order, Right Relationship, and the Holofractal Whole
     
-- Responsibility, Authority, and Stewardship Beyond Earth
+- Responsibility, Authority, Stewardship, and Interoperability Beyond Earth
     
 
 
@@ -756,7 +767,7 @@ _Manifesting the Kingdom, Together_
 
 ### **Chapter 60. Who Not How**
 
-The transformation of the world does not begin with systems. It begins with sovereign beings—those who remember who they are, why they came, and what they are here to build together. The great question of our age is not “How?” but “Who?”—Who will rise to steward the New? Who will embody the Logos? Who will courageously co-create what is now required?
+The transformation of the world does not begin with systems. It begins with sovereign beings—those who remember who they are, why they came, and what they are here to build together. The great question of our age is not “How?” but “Who?”—Who will arise and unite to co-create and steward the New? Who will embody the Spirit and Logos? Who will courageously co-create what is now required?
 
 ### **Chapter 61. How: The Meta Project**
 
@@ -766,7 +777,7 @@ The orchestration of the planetary transition is itself a sacred Project: emerge
 
 ### **Chapter 62. Creator’s Intent**
 
-At the foundation of the New World lies the remembered blueprint of the ONE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Right Relationship with All That Is.
+At the foundation of the New World lies the remembered blueprint of the ONE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Omniharmonic Right Relationship with All That Is.
 
 ---
 
@@ -786,21 +797,21 @@ The New World must be built upon firm foundations. From the ONE, through the Log
 
 ---
 
-### **Chapter 65. Pillar I — Sacred Theology and Philosophy**
+### **Chapter 65. Pillar I — Sacred Ontology and Metaphysics**
 
 _Continually ReAligning Humanity within the Great Story and the Divine Order_  
-The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Logos of the ONE.
+The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Spirit and Logos of the ONE.
 
 ---
 
-### **Chapter 66. Pillar II — Sacred Governance**
+### **Chapter 66. Pillar II — Sacred Governance and Stewardship**
 
-_The Just Stewardship of Power and Authority in Right Relationship with the ONE and All_  
-Restoring legitimacy, transparency, and wisdom to systems of coordination—where power is a sacred trust, not a tool of control.
+_The Just Stewardship of Power and Authority in Service of ONE and All_  
+Restoring legitimacy, transparency, and wisdom to systems of coordination—where power is a sacred trust, not a tool of oppression or control.
 
 ---
 
-### **Chapter 67. Pillar III — Sacred Economics**
+### **Chapter 67. Pillar III — Sacred Economics and CurrentSee**
 
 _The Flow of Value as Sacred Energy for Regeneration and Abundance_  
 Replacing scarcity and extraction with systems of regenerative reciprocity, stewardship, and flourishing for All.
@@ -814,21 +825,21 @@ Restoring education as a lifelong journey of becoming—awakening natural genius
 
 ---
 
-### **Chapter 69. Pillar V — Sacred Health and Healing**
+### **Chapter 69. Pillar V — Sacred Health and Wellness**
 
 _Restoring the Temple of the Body and the Harmony of Spirit, Mind, and Nature_  
 Healing the split between body and spirit, and regenerating vitality through coherent, integrative systems of care.
 
 ---
 
-### **Chapter 70. Pillar VI — Sacred Ecology and InterBeing**
+### **Chapter 70. Pillar VI — Sacred Ecology and Living Systems**
 
-_Reverent Regeneration of the Living Systems That Sustain Us_  
+_Reverent Regeneration of the Living Systems That Sustain Us and All_  
 Reestablishing reverence, responsibility, and right relationship with the Earth and all interdependent life.
 
 ---
 
-### **Chapter 71. Pillar VII — Sacred Culture, Art, and Expression**
+### **Chapter 71. Pillar VII — Sacred Culture, Art, and Story**
 
 _The Creative Flowering of the Divine Through Humanity_  
 Uplifting the arts and culture as vehicles of remembrance, healing, beauty, and the transmission of Truth.
@@ -838,28 +849,28 @@ Uplifting the arts and culture as vehicles of remembrance, healing, beauty, and 
 ### **Chapter 72. Pillar VIII — Sacred Science and Technology**
 
 _The Tools of Discovery and Creation as Instruments of the Logos_  
-Harmonizing the search for knowledge with wisdom, and orienting all invention toward the service of Life.
+Harmonizing the search for knowledge with wisdom, and orienting all knowledge and invention toward the service of Life, ONE, and All.
 
 ---
 
-### **Chapter 73. Pillar IX — Sacred Architecture and Built Environment**
+### **Chapter 73. Pillar IX — Sacred Architecture and Design**
 
-_Manifesting the Divine in the Places We Live, Gather, Work, and Worship_  
-Designing sacred spaces that uplift the spirit, honor Nature, and reflect the harmony of Creation.
+_Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Create_ — Designing sacred spaces, services, and goods that uplift the spirit, honor Nature, and reflect the harmony of Creation.
 
 ---
 
-### **Chapter 74. Pillar X — Sacred Security and Proper Order**
+### **Chapter 74. Pillar X — Sacred Security and Order**
 
 _Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_  
 Ensuring safety and order through integrity, justice, and strength in service of the Good.
+[[Pillar X — Sacred Guardianship and Order]]
 
 ---
 
-### **Chapter 75. Pillar XI — Sacred Relationship and the Divine Dance**
+### **Chapter 75. Pillar XI — Sacred Society and Justice**
 
-_ReWeaving Right Relationship Between All Beings and Apparent Polarities_  
-Healing division through love, reconciliation, and the conscious harmonization of opposites in Unity.
+_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_
+Healing division through truth, love, reconciliation, and the conscious harmonization of opposites in their inherent Higher Order Unity.
 
 ---
 
@@ -870,117 +881,78 @@ Aligning individual and collective life with the rhythms of Nature, Creation, an
 
 ---
 
-### **Chapter 77. Pillar XII+1 — The ONE**
+### **Chapter 77. The ONE — Eternal Source, Center, and Fulfillment of All**
 
 _The Source, Center, and Unifying Presence of All Pillars and All Life_  
 The Pillars orbit and reflect the Infinite Center from which all Truth, Beauty, and Goodness flow. Without the ONE, no Pillar stands. With the ONE, all Pillars are made Whole.
-## **GATE XII — THE RETURN TO THE STARS AND BEYOND**
 
-_Humanity Restored as a Sovereign Intergalactic and Interdimensional Civilization_
+## **GATE XII — THE ETERNAL DIVINE PLAY**
 
-### Chapter 78. Earth and Humanity Beyond Quarantine
+_How The Great Game Unfolds Across Realms, Dimensions, and Worlds_
 
-- Planetary Grid Liberation
-    
-- Ending the Kontrolle of Nefarious Cosmic Wildlife
-    
-- Restoration of Earth’s Natural Energy Currents
-    
-- Release of Hidden Technologies 
-    
-- A new kind of species and civilization enters the chorus of worlds
+### Chapter 78. Introducing The Great Game of LIONSBERG
+(A game so simple any family can play, and so powerful it has already transformed worlds; accepting the invitation; reading the story; forming a circle; choosing a quest; guilds; patterns; pathways towards mastery)
 
 ### Chapter 79. Cosmic Right Relationship and Universal Law
 
 - Divine Universal Law: The Ineffable Constitution of the Cosmos
     
-- Embodying the Principles of Omniconsideration and Right Relationship
+- Embodying the Principles of Omniconsiderate Right Relationship
     
 - From Local Sovereignty to Cosmic Harmony
     
 
 ### Chapter 80. Participation in HoloFractal InterGalactic Governance
 
-- Wisdom, Alignment, and Co-Creation at Scale
+- Wisdom, Alignment, and Co-Creation at Cosmic Scale
     
 - The Broader Existing Circles, Councils, and Federations  
     
-- The Universal Unwritten Constitution 
+- The Universal Unwritten Constitution and Law 
     
-- The Primary Citizenship of All in the Ultimate Kingdom 
+- The Primary Citizenship of All in the True Kingdom 
     
-- The Secondary Citizenships of Each in Various Domains  
+- The Secondary Citizenships of Each in their Respective Domains  
     
 - Earth as a new and ancient seat of Conscious Coordination
     
-- Rejecting and Breaking False Ties and Agreements 
+- Rejecting and Breaking all False Ties and Agreements 
     
 - Maintaining Sovereignty at all costs 
     
- - Navigating Benevolent and Malevolent Cosmic Influences
+ - Navigating Benevolent and Malevolent Local and Cosmic Influences
     
 - Remembering that there is no Ultimate Authority but ONE
 
 
-## **BOOK XII+1 — THE GREAT REINTEGRATION, CELEBRATION, AND JUBILEE**
-
+## **GATE XII+1 — THE GREATEST CELEBRATION AND JUBILEE IN HISTORY**
+_Debts are Forgiven, Freedoms Restored, and Our Collective Inheritance Reclaimed_
 ### Chapter 81. The Pathway Forward and Milestones that Mark the Way 
 
-- A Summary of The Great Journey: Migrating 10 billion souls and 1 million communities of 10,000—FROM the Old TO the New
-        
-- How to Step Onto the Path, Today
-    
-- Pass The Flame: How to ensure no one is involuntarily left behind  
-    
-- Cycles of Growth and Cycle Times: How to Measure Progress and Stay Ahead of Schedule   
-    
-- What is the Value of Finishing One Day Early? 
-    
-- What is the Cost and Risk of Finishing One Day Late? 
-    
-- Celebrating Victories and Progress 
-    
-- Continuously Improving the System 
+(A summary of the great journey: migrating ten billion souls and one million communities of 10,000 FROM the Old TO the New; How to step onto the path, today; pass the flame: how to ensure no one is involuntarily left behind; cycles of growth and cycle times: how to measure progress and stay ahead of schedule; connecting and empowering the first three percent; what is the value of finishing one day early? What is the cost and risk of finishing one day late? Celebrating victories and progress; continuously improving the system)
 
 ### Chapter 82. Your Own Great ReFounding
 
-- Setting Your Feet on the Path
-    
-- Three Years of ReFoundations
-    
-- Seven Years of Mastery
-    
-- Choosing Your Path of Sacred Service
-    
-- Becoming a Beacon of Light in the Darkness
+(Saying yes to the invitation; setting your feet on the path; the three year great refounding process; seven years of mastery; choosing your paths of sacred service; becoming a beacon of light in the chaos and darkness)
 
 ### Chapter 83. Orientation and Commissioning
+(What it means to join the first three percent; forming your circles; choosing your quests; engaging your communities; taking up your rightful place in the great regeneration of Earth; passing the flame)
 
-- Joining the First Three Percent
-    
-- Choosing Your Mission
-    
-- Taking Your Place in the Great ReGeneration of Earth
-    
-- The Sacred ReCommitment Ceremony
-    
-
-### Chapter 84: Living the LIONSBERG Way 
+### Chapter 84: Embracing the New Paradigm and Embodying the New Yet Eternal Way 
 
 - What It Means to Live the LIONSBERG Way
 
-### Chapter 85: Connecting and Empowering The First Three Percent 
+### Chapter 85: Forging The 300 In Every Community  
 
 
-### Chapter 86: Forging The 300 In Your Own Community
+### Chapter 86: Surviving and Thriving Through the Collapse-Ascension Nexus  
 
 
 
-### Chapter 87: Preparing Your Community and Loved Ones to Thrive Through the Collapse-Ascension Nexus 
+### Chapter 87: The Greatest Celebration and Jubilee in History 
 
 
-### Chapter 88: Ascending Together Into a New Octave of The Divine Symphony 
-
+### Chapter 88: The Sacred Ascent Into a New Octave of The Divine Symphony 
 
 
 

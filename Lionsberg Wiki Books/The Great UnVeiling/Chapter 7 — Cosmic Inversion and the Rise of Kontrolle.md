@@ -1,6 +1,6 @@
 # Chapter 7 — Cosmic Inversion and the Rise of Kontrolle
 
-_The Anti-Pattern that Seeks to Replace the Logos_
+_The Anti-Pattern that Seeks to Usurp and Invert the Logos_
 
 ---
 

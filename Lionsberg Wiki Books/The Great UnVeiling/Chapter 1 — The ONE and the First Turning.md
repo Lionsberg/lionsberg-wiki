@@ -1,6 +1,6 @@
 # Chapter 1 — The ONE and the First Turning
 
-_Original and Eternal Unity beyond SpaceTime_
+_Original and Eternal Unity beyond Time, Space, and Manifestation_
 
 > _Before the Light was spoken into Form, there was the ONE._  
 > _Whole. Undivided. Infinite. Self-Radiant._  

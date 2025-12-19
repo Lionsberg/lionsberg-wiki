@@ -1,6 +1,6 @@
 # Chapter 9 — Echoes of Heaven
 
-_The Song Beneath the Noise_
+_The Eternal Song Beneath the Noise_
 
 ---
 

@@ -1,6 +1,6 @@
 # FAQ - What Is The Meta Project?
 
-The [[Meta Project]] is a [[Word Tool]] to point towards the total program of action required to accomplish [[The Goal]] of [[Heaven On Earth]]. 
+The [[Meta Project]] is a [[Word Tool]] to point towards the total program of action required to accomplish [[The Goal]] of [[Heaven on Earth and Beyond]]. 
 
 [[The Mission]] is threefold: 
 

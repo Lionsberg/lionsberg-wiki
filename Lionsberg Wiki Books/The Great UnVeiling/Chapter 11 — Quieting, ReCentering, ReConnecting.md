@@ -2,7 +2,7 @@
 
 _The ReSanctification of the Inner Sanctuary_    
 _The ReEstablishment of Communion_  
-_The ReOrientation of Life from the Center and Source of the Sacred Flame_
+_The ReOrientation of Life to Center and Source_
 
 ---
 

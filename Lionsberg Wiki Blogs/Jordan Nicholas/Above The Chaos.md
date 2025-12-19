@@ -465,7 +465,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## June 2022
   
 - [[Above The Chaos, Hello World]]    
-- The [[Lionsberg Wiki]] comes online. Over the next 36 months, a transformative Library of millions of interlinked articulations emerge.  
+- The [[Lionsberg Wiki]] comes online. Over the next 36 months, a transformative Library of thousands of interlinked articulations emerge.  
 
 ## 2022 
 
@@ -479,8 +479,9 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2020
 
-- Jordan uses his last financial bullets to resource the development of a Provisional Platform for The Movement.  
+- Jordan uses the last financial bullets form his collapsing Old World to resource the development of a Provisional Platform for The Movement.  
 - Over the next several years as Jordan bleeds out, the platform is independently developed and tested with ~500 groups in ~50 countries, leading to follow-on resources to continue development.  
+	- Public facing progress can be seen at [Open Impact](https://impact.openfuturecoalition.org/community/card-grid?tab=4)  
 - An array of parallel platforms are developed in unison towards similar ends.  
 
 ## 2019 
@@ -494,12 +495,12 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2017 
 
-- J and many others around the world pinged to accelerate the [[The 7 Year Window of Preparatory Work and Learning]]  
+- J and many others around the world "pinged" (Divine guidance) to accelerate the [[The 7 Year Window of Preparatory Work and Learning]]  
 
 ## 2012
 
 - An approximate hinge point between the [[Old]] and [[New]]...  
-- With an 18 year... or 256 year... transition on either side.   
+- With 18 year... and 256 year... "cusps" or transitions on either side.   
 
 ## 1984
 

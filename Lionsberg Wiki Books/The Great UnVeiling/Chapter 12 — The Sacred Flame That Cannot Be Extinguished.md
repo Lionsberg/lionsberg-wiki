@@ -1,8 +1,6 @@
 # Chapter 12 — The Sacred Flame That Cannot Be Extinguished
 
-_The ReIgnition of the Divine Spark_  
-_The Eternal Flame that Withstood the Flood_  
-_The Secret Fire Now Rising to Consume the Lie_  
+_The Eternal Resurgence of the Divine Spark_  
 
 ---
 

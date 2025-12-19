@@ -1,6 +1,6 @@
 # Chapter 3 — The Logos and the Architecture of Co-Creation
 
-_The Intelligible Wisdom and Pattern Beneath All Things_
+_The Intelligible Wisdom, Pattern, and Design Beneath All Things_
 
 ---
 

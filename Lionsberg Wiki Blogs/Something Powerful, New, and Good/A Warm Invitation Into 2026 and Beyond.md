@@ -46,7 +46,7 @@ The reality of the Earth's enslavement
 By a dark and ancient empire  
 Is bursting into view for All to see  
 
-As J's unusual journey revealed  
+As J's unusual journey revealed that  
 **_At present humanity is neither self-governing nor free_**  
 
 The events of 2026 to 2033  

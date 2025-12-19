@@ -1,8 +1,7 @@
 # Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle
 
 _The Anti-Goal: Full Spectrum Dominance in Service of Self_
-
-_Unveiling the Klassical Systems of Kontrolle operative across dimensions and domains_
+_Unveiling the Systems of Kontrolle operative across dimensions and domains_
 
   
 ---
