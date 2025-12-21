@@ -6,6 +6,8 @@
 	
 - [[A Warm Invitation Into 2026 and Beyond]]  
 	
+- [[CIA and NATO Insights on Multiple Extraterrestrial Civilizations]]  
+	
 - [[CAUTION ON AI]]  
 	
 - [[Controlled Disclosure Marches Towards Its Peak]]  

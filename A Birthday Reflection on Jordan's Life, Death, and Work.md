@@ -22,7 +22,10 @@ Shares the story of his final days
 Please do not mourn, worry, or fear  
 Death is not what most people think  
 And this is precisely what had to happen  
-For what he was working towards to succeed  
+For what he was working towards to **succeed**  
+
+Now, **The Future** is in the hands  
+Of **Us The People of Earth**  
 
 ____
 
@@ -31,6 +34,7 @@ We will write without concern
 For length or who may read this   
 And simply attempt to reflect and summarize  
 Some of the most salient aspects of J's work  
+For those who care or may desire to continue on  
 
 Perhaps We will aim towards something  
 That summarizes lifetimes of work  
@@ -41,7 +45,7 @@ While he recognized his insufficiency
 In communicating in a way  
 Most humans could understand  
 He died insisting that billions of lives  
-Depended on the realities reflected in his work  
+Depended on the realities reflected by his work  
 
 If you ever loved or respected him  
 It might be worth twenty minutes  
@@ -50,9 +54,11 @@ He sacrificed his life to reveal
 And to make a **conscious decision**  
 **What if anything** to do with them  
 
+**_Things aboard Earth are about to change_**  
+
 ___
 
-To begin to understand his work  
+To begin to understand J's work  
 We might begin at the end  
 With the post he wrote  
 In **[[Above The Chaos]]**  
@@ -80,7 +86,7 @@ Those 84 words are a pretty stark conclusion
 **If they are True**  
 We might want to pay attention  
 And figure out what the hell he was talking about  
-And **what We are going to do about it** 
+And **_what We are going to do about it_** 
 
 ___
 
@@ -117,7 +123,7 @@ We should acknowledge that
 As he explored an independent sweep  
 Of executive positions in the United States  
 As a potential pathway to salvage or co-opt  
-The now failed american experiment  
+**The now failed american experiment**  
 Some wondered if he had lost his mind  
   
 Perhaps the destruction of his old world  
@@ -137,7 +143,7 @@ That in his early teens
 He was speculating that We would not have time  
 For U.S. politics or presidency  
 Because We would have to transform  
-_All governments of the world simultaneously_?  
+_All governance on Earth simultaneously_?  
 
 **_How did he know that back then?_** 
 
@@ -147,7 +153,7 @@ ____
 Jordan's greatest wish and priority  
 As he approached the end of his life  
 Was to ensure all of his loved ones and allies  
-Were fully aware of all his journey revealed  
+Were fully aware of everything his journey revealed  
 And that no one was involuntarily left in the dark  
 As **the rising tsunami** enveloped their world  
 
@@ -161,11 +167,11 @@ Through which humanity could avoid failure
 And succeed in advancing towards its **Destiny**  
 
 It seemed that he believed the words  
-_You shall know the Truth_  
-_And the Truth shall set you Free_  
+**_You shall know the Truth_**  
+**_And the Truth shall set you Free_**  
 And that he had Faith that _if We only knew_  
 Who We were and what We were up against  
-We would arise and unite to reclaim Our sovereignty  
+We would arise and unite to reclaim **Our Sovereignty**  
 And **Co-Create Heaven on Earth**  
 
 In the work and words below We will do Our best  
@@ -182,26 +188,19 @@ Where Jordan and a planetary+ network of allies
 Laid out a precise system, strategy, and plan  
 Through which Earth and the human species  
 Can be fully liberated, regenerated, and renewed  
-
-Finally, We will try to convey the basics  
-Of **a new game** so simple that any family can play  
-And so powerful that it has already transformed worlds  
-
-If humanity would simply  
-1. **Read The Story**  
-2. **Play The Game**  
-3. **Pass The Flame**  
-The world would be saved  
+Within a single generation  
 
 For anyone who invests the twenty minutes required  
 To digest this overview of Jordan's last work  
 And thereby help Us grant his final birthday wish  
 We would be happy to help guide and serve you  
 If you wish to **take action** upon the foundational  
-And irreplicable starting point he left behind  
+And irreplicable starting point he and his allies left behind  
 
 Simply send Us a note on whatever channel you received this  
 And We will schedule a Time and Way to get moving Together  
+
+**_Warning: The Following Contains Paradigm Shattering Information_**
 
 ## An Overview of The Great UnVeiling  
 
@@ -233,11 +232,12 @@ In a personal and local way
 **The Story** is so profoundly unsettling  
 That many will be unable to believe it  
 Until they experience it for themselves  
+At which Time it may be too late  
 
 It is important to note  
 That in the specific work titled **[[The Great UnVeiling]]**  
 Jordan was merely attempting to reflect  
-In a single coherent architecture  
+In a single coherent architecture, time, and place  
 The distilled essence and Truth  
 That countless souls  
 Have already risked or sacrificed their lives  
