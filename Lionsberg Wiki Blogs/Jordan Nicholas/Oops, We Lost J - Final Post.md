@@ -20,7 +20,7 @@ And nauseatingly empty to the touch
 As Time went by  
 From the other side of death  
 A New aggregation of Spirit and Consciousness  
-Began to reassociate and remap to his body  
+Began to associate and map to his body  
 Finger by finger, toe by toe,  
 "We" gradually were able to relearn  
 How to move and walk and speak  
