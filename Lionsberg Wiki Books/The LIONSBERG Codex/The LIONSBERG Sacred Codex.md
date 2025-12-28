@@ -292,4 +292,23 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
 ___
 
 
+## **The LIONSBERG Sacred Codex**
+
+
+- **The LIONSBERG Theses**
+    
+- **The LIONSBERG Covenant**
+    
+- **The LIONSBERG Constitution**  
+    
+- **The LIONSBERG System of Values**  
+    
+- **The LIONSBERG Pattern Language**  
+    
+- **The LIONSBERG Playbook**
+    
+- **The LIONSBERG Lexicon**
+     
+- **The Book of LIONSBERG**
+
 

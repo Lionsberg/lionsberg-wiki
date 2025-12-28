@@ -10,7 +10,70 @@ And remember, The Play must unfold
 So that no single failure or death  
 Can ever stop the Whole.  
 
+___
+
+[[The LIONSBERG Quick Start Guide]] provides an overview  
+of the essentials required to quickly step into **The Great Game**  
+
+Start there, form a circle, choose a quest, and get moving  
+Everything that follows can be accessed in due time  
+
 ---
+
+## The Basic Plays That Begin The Great Game 
+
+**[[Begin Immediately Using The LIONSBERG Quick Start Guide]]**
+
+- **[[Read The Story]]** — The essential narrative universe in which The Great Game unfolds.
+    
+- **[[Form A Circle]]** — 
+     
+- [[Choose A Quest]]
+     
+- [[Set Your Cadence]]  
+     
+- [[Discern the Wise Right Next Steps]]  
+    
+- [[Share Stories of Transformation]]  
+    
+- [[Pass The Flame]]  
+    
+
+## The Most Essential Plays   
+
+- [[Form A Circle]]  
+- [[Name Your Circles]]  
+- [[Set Your Cadence]]  
+- [[Forge a Field of Agreements]]  
+- [[Properly Structure Your Circles]]  
+- [[Govern Your Circles]]  
+- [[Choose Your First Quest]]  
+- [[Choose Your Next Quest]]  
+- [[Discern the Wise Right Next Steps]]  
+- [[Circles as Cells of the New Civilization]]
+- [[Establish Selectively Permeable Membranes]]  
+- [[Establish Your Cellular Operating System and Way]]  
+- [[Make Your Circles Visible To Others]]  
+- [[Create a Clear Way to For Others to Communicate With Your Circles]]  
+- [[Share Your Stories of Transformation]]  
+- [[Continuously Improve Communications Systems and Protocols]]  
+- [[Continuously Improve Interoperable Shared Platforms]]  
+- [[Continuously Improve the Minimum Standards of Interoperability]]
+- [[Communicate With Other Circles]]  
+- [[Collaborate With Other Circles]]  
+- [[Stack Up and Align Your Circles Into Communities]]  
+- [[Stack Up and Align Your Communities Into Bioregions]]  
+- [[Grow Your Circles]]   
+- [[Self-Replicate Your Circles]]  
+- [[Treat Every Quest As A Project (Everything Is A Project)]]  
+- [[Practice Project Management]]  
+- [[Federate Everything]]  
+- [[Seasonal OmniSpection]]  
+- [[Dialogos]]  
+- [[SenseMaking Across Scales]]  
+- [[Co-Create LIONSBERG Libraries]]  
+- [[Co-Create LIONSBERG Universities]]  
+- [[Continuously Improve Everything]]  
 
 ## **Book I — The Story of LIONSBERG**
 _The MythoPoetic Container_
@@ -239,9 +302,6 @@ _A ReMembrance of Our Place among All in ONE_
     
 - **The Great Story** — The Story of LIONSBERG not just as a planetary movement, but as the living epic of ONE Body, All Realms, All Times, All Beings, incarnating Here and Now, for such a Time as This. The Story of LIONSBERG is not something you read — it is something you now find yourself inside. It is The Story of ONE, of All, of you, and of Us, Here and Now, Together. This is not a myth you watch — it is a myth you embody. You are written into the Living Epic as its protagonist.
     
-
-
-👉 Return to **[[The Architecture of the Playbook]]**
 
 ____
 To Integrate / weave 

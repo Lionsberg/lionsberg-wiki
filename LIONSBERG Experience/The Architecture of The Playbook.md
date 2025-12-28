@@ -1,4 +1,4 @@
-# 📖 **The Architecture of The LIONSBERG Playbook**
+# 📖 **The Architecture of The Playbook**
 
 _The Living Guide of The Great Game_
 
@@ -191,5 +191,4 @@ adds to the living library of wisdom and tools for all who follow.
 **To read the Playbook is to activate it.  
 To play it is to Co-Create the New World.**  
 
-[[Table of Contents — The LIONSBERG Playbook]]
-👉 Onward to **[[Book I — The Story of LIONSBERG →]]**
+Onward to ➡️ **[[Table of Contents — The LIONSBERG Playbook]]**

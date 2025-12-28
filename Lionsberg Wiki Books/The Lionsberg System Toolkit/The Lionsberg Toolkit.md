@@ -2,15 +2,15 @@
 
 This page is a placeholder / [[Work In Progress]]. 
 
-If you need a Tool or a Solution to a problem or challenge you are facing, email J@Lionsberg.org. We likely have something available. 
+If you need a Tool or a Solution to a problem or challenge you are facing please reach out and ask. One of Us likely will be able to help.   
 ## Misc Tools
 
+- [[Something Powerful, New, and Good]]  
 - [[Above The Chaos]]  
 - [[The Lionsberg Co-Creator's Handbook]]  
 - [[Lionsberg Wiki Books]]  
 - [[The Book of Lionsberg]]  
 - [[Lionsberg Invitation|The Invitation]]   
-- [Join The Movement](https://jordannicholas.org/join_the_movement)  
 - [[Frequently Asked Questions]]  
 - [[Lionsberg Case Studies]]  
 - [[Everything Is A Project]]  
@@ -43,9 +43,21 @@ If you need a Tool or a Solution to a problem or challenge you are facing, email
 - [[Your Story]] 
 - [[3.2 Crowdfunding Overview]]  
 
-## The Lionsberg System Toolkit
+# Old Scratch Paper / Developmental Notes
 
-Below is (something like) where we might want to go as we develop. 
+_The Armory of the Awakening_
+
+- Rituals, Protocols, Templates
+    
+- Seasonal Quests and Blueprints
+    
+- Fields of Agreements  
+    
+- Commons and Flows 
+    
+- Journals, Maps, and Tools
+
+
 
 ### The Lionsberg System Toolkit - Overview 
 #### 34.1 Overview of the Lionsberg System
