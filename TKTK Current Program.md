@@ -47,7 +47,20 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 #### 2026 
 
-1. The Sacred Ascent and The Sacred Codex, including The Book of LIONSBERG, can come later) 
+1. Begin **The Great Game**  
+2. Connect and empower [[The First Three Percent]]  
+3. The Sacred Ascent and The Sacred Codex, including The Book of LIONSBERG, can come later) 
+
+## Potential Next Steps 
+
+- Generate the most essential plays for [[The LIONSBERG Playbook]]  
+- Start playing and feeding The Playbook based on what happens 
+
+## December Notes 
+
+- [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
+- [[The Story of LIONSBERG]] is good enough  
+- [[The LIONSBERG Playbook]] needs to be rapidly co-created 
 
 ## Oct Notes
 
