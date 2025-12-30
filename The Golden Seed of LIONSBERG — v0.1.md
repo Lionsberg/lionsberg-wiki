@@ -5,6 +5,11 @@ _v0.1_
 
 _Please visit [[The Golden Seed of LIONSBERG]] and check for the most recent version_  
 
+## Redirection 
+
+This page is purely a [[Work In Progress]]... most of the work is happening elsewhere.  
+To plant and nurture The Golden Seed, please visit [[The LIONSBERG Quick Start Guide]]. Everything can unfurl from there. 
+
 ---
 
 ## The Threshold 

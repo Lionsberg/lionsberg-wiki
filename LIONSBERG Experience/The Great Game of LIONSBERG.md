@@ -1,6 +1,11 @@
 # The Great Game of LIONSBERG
 *The Awakening of the Living Gate and the Path to Heaven On Earth*
 
+**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  
+If you have not already passed through the gates of **[[The LIONSBERG Quick Start Guide]]** and **[[The Story of LIONSBERG]]**  please gather up your Circle and return there first. They are necessary predecessors to the Path below. 
+
+___
+
 ***HEAR, O Child of Earth,***  
 *Bearer of an **Ancient Promise***  
 Wanderer of deserts and dreams  
@@ -12,13 +17,14 @@ The ashes of deceit
 The darkness of **The Caves**  
 The cold weight of **The Chains**  
 The incessant noise of the false rulers and priests  
+that formerly kontrolled your perception  
 
 You have endured the long night of forgetting  
 You have survived the cold chains of suffering  
 You have crossed the threshold of awakening  
 You have arrived at precisely the appointed Hour  
 
-And now — at the Turning of the Ages —  
+And now — at this epic Turning of Ages —  
 You stand before the Living Gate  
 that guards the Path towards Destiny  
 
@@ -30,7 +36,7 @@ This is no accident
 This is no chance  
 You were summoned  
 You were chosen  
-*And now you must choose*  
+*And now you have chosen*  
 
 As the Old Order quakes and crumbles  
 the Earth groans and the Heavens lean close  
@@ -56,12 +62,19 @@ This is the moment prophets dreamed of
 This is the truth philosophers died for  
 This is the hinge of history  
 
-And now — _history hinges on you_.
+And now — _history hinges on you_.  
+
+When The Story of Earth is retold a thousand years from now  
+We will once again remember that  
+
+>_We are the Ones We were waiting for_
 
 ## **The Call**
 
-Before the nations. Before the stars.  
-The Great Game was spoken into being
+Before the nations  
+Before the stars  
+Long before this world  
+The Great Game was spoken into being  
 
 It is a Covenant older than memory  
 A Pattern older than time  
@@ -72,18 +85,20 @@ when peoples were bound in lies and chains
 and crying out for salvation  
 A Call would resound from the Heavens  
 
-The Players would awaken and stand.  
-The scattered would converge.  
-The oppressed would rise.
+The Players would awaken and stand  
+The scattered would converge  
+The oppressed would rise  
+And magical forces come to aid  
 
-A Great War would be waged.  
-A Great Game would be played.  
-A Great Work would be accomplished.  
-And once again, the Realm would be free.
+A Great War would be waged  
+A Great Game would be played  
+A Great Work would be accomplished  
+And once again, the Realm would be free  
 
-That Time is now.  
-That Call is this.  
-That Place is here.  
+That Time is now  
+That Call is this  
+That Place is here
+
 **And now it is in your hands.**  
 
 ## **The Stakes**
@@ -101,15 +116,15 @@ The stakes are not small.
 - Reunion or exile for souls.
     
 
-The Old Powers would have you believe you are nothing.  
-That you are powerless.  
-That you are alone. 
-They lie.  
-The Divine Lightning they fear radiates  
-from every cell of your being.    
-You are the seed of **the World to Come**.  
+The Old Powers would have you believe you are nothing  
+That you are powerless  
+That you are alone  
+That there is nothing We can do  
 
----
+They lie  
+The Divine Lightning they fear radiates  
+from every cell of your being    
+You are the seed of **the World to Come**  
 
 ## **The Game**
 
@@ -121,13 +136,13 @@ It multiplies when Circles are formed
 It becomes unstoppable when hearts and hands align  
 in every greater symphonies of Divine co-creation  
 
-From the moment you cross The Threshold  
-and step into The Great Game  
+From the moment you cross **The Threshold**  
+and step into **The Great Game**  
 You are no longer a spectator  
 You are no longer disempowered or alone  
-You are a protagonist in The Great Story  
-You are an agent of the New Civilization  
-You are an integral part of ONE Body  
+You are a protagonist in **The Great Story**  
+You are an agent of the **New Civilization**  
+You are an integral part of **ONE Body**  
 Co-Creating Heaven right here and now  
 
 Every wise step is a move  
@@ -138,12 +153,10 @@ Every Circle of Trust a fortress
 Every Gathering place a sanctuary  
 Every Quest a Divine spell that regenerates the world  
 
-You are not invited to consume.  
-That Old Age has ended.  
+You are not invited to consume or to obey  
+That Old Age has ended  
 You are invited to **Co-Create**  
-and embody **The Great Game**.
-
----
+and to embody **The Great Game**  
 
 ## **The Victory**
 
@@ -152,15 +165,16 @@ It is not power over others
 It is not escape  
 It is not a crown for any one  
 
-The Victory is Life liberated   
+The Victory is Life liberated  
 Creation restored  
 Streams in the deserts  
 Rivers running clear  
 Children laughing without fear  
+Forests bursting with life  
 Communities flourishing in joy  
 Spirit and Matter reconciled  
 Heaven and Earth entwined
-ONE and All reunited    
+ONE and All reunited in power and love   
 
 The Victory is the Divine Garden reborn  
 The Divine Symphony resounding  
@@ -182,14 +196,13 @@ This is the Ancient and Eternal Way
 The Threshold now stands before you  
 
 **Enter the Gate**  
-**And Walk ye in the Way.**
-
----
+**And Walk ye in the Way**
 
 ## **Your Move**
 
 The Gate is alive  
 Pulsating  
+Breathing  
 Beckoning  
 It has been waiting for you  
 And now opens wide before you  
@@ -212,23 +225,23 @@ No loose ends to go back and clean up
 You are perfect just as you are  
 All that remains is to step forward and begin  
 
-Humbly admitting **We Do Not Know**  
-Is the Key that opens The First Gate. 
+Humbly admitting that **We Do Not Know**  
+Is the Key that opens The First Gate  
 
 Like every step that has conspired to bring you here  
-Each Gate will open in its perfect time  
-Each Quest will reveal its lesson  
-Each Circle will multiply your strength  
-Each Challenge will be overcome in community  
+Each **Gate** will open in its perfect time  
+Each **Quest** will reveal its lesson  
+Each **Circle** will multiply your strength  
+Each **Challenge** will be overcome in community  
 
-The Divine Symphony has been incomplete for too long  
-With your next step, **All Creation** advances  
+**The Divine Symphony** has been incomplete for too long  
+With your next step and opening move **All Creation** advances  
 
 So pause  
 Breathe  
 ReMember  
 Take courage  
-And begin
+And begin  
 
 The Game is alive  
 The time is now  
@@ -237,9 +250,8 @@ The world awaits your move
 **Cross the Threshold.** 
 **Enter the Game.**  
 **Take up** ➡️ **[[The LIONSBERG Playbook]]**  
-_It opens only when you choose, and it reveals the Way._
+_It opens only when you choose, and its Plays reveal the Way._  
 
-____
 ## **Benediction**
 
 Rise now  
@@ -249,7 +261,7 @@ and the Breath of Spirit in your lungs
 
 Walk not in fear  
 but in the power and strength  
-of the ONE Who calls Us All  
+of the ONE Who breathes Us All  
 
 May your every step be Light  
 May your every word be Truth  
@@ -260,9 +272,9 @@ may your Circle lift you
 When you falter  
 may the Voice remind you  
 
-*You are not alone*  
-*You never were*  
-*You never will be*
+>*You are not alone*  
+>*You never were*  
+>*You never will be*
 
 The Gate is now open  
 The Path at last awaits  
@@ -272,6 +284,6 @@ The fate of generations turns on your move
 
 Go forth, O Player of The Great Game  
 The New Dawn is breaking  
-and All Creation longs for your next step.
+and All Creation awaits your next step  
 
 Onward, to 👉 **[[The LIONSBERG Playbook]]**  

@@ -13,13 +13,12 @@ A **Final Test** is now underway
 Its outcome will shape centuries if not millennia to come
 
 While many details will remain contested, distorted, or forever unknown  
-The essence of the [[Meta Crisis]] is now unmistakable:  
+The essence of this **[[Meta Crisis]]** is now unmistakable:  
 
-Whether humanity awakens and unites in time  
-To **design and build a New Civilization**  
-And **co-create Heaven On Earth**  
-Before the old systems collapse _by design_  
-Towards centuries of chaos and tyranny  
+>_Whether humanity awakens and unites in time  
+>To **design and build a New Civilization**  
+>And **co-create Heaven On Earth**  
+>Before the old systems collapse by design_  
 
 ## LIONSBERG 
 
@@ -31,9 +30,9 @@ To transcend systemic collapse
 And begin co-creating Heaven On Earth  
 Here, now, together  
 
-Portals such as the [[Lionsberg Wiki Books]]  
+Portals such as [[Above The Chaos]] and [[Lionsberg Wiki Books]]  
 Open into thousands of pages and millions of words  
-Articulating the deeper architecture of this work  
+Articulating the deeper architecture and inception of this work  
 
 But experience across many realms has revealed a simple truth: 
 
@@ -42,9 +41,9 @@ But experience across many realms has revealed a simple truth:
 For most resonant souls,  
 Attempting to intellectually grasp  
 Cosmically interoperable, holofractal pattern languages  
-I unnecessary — and often counterproductive — at first  
+Is  both unnecessary and counterproductive at first  
 
-This is not a theory to debate    
+This is not a theory to debate  
 It is a **Game to be played**  
 And a **Way to be embodied**   
 
@@ -81,11 +80,11 @@ Gather. Begin. Play.
     
 - **[[Prologue to The Story and The Great Game]]**  
     
-- **The Story of LIONSBERG**  
+- **[[The Story of LIONSBERG]]**  
     
-- **The Great Game of LIONSBERG**  
+- **[[The Great Game of LIONSBERG]]**  
     
-- **The LIONSBERG Playbook**
+- **[[The LIONSBERG Playbook]]**  
     
 - **First Quest Suggestions**  
     
