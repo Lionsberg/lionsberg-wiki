@@ -111,7 +111,7 @@ From this first turning came apparent polarity
 From apparent polarity came relation   
 From relation came interbecoming  
 
-Thus, **[[All]]** began to emerge 
+Thus, **[[All]]** began to InterEmerge 
 
 ### Epoch III — From ONE, All  
 
@@ -193,7 +193,7 @@ from the Way, Will, and Intention of the ONE
 Yet even the most antithetical forces  
 lost in the most hellish realms  
 could not escape or transcend the ONE Body  
-that sustained their every breath  
+that still sustained their every breath  
 
 ### Epoch VIII — The Great Wound 
 
@@ -291,7 +291,7 @@ Yet unquenchable streams of remembrance persisted
 After millennia of progressive enslavement  
 and an onslaught of exploitation and kontrolle   
 humanity is now awakening to the harshest realities  
-of its dire present situation and unimaginable future potential  
+of its dire present situation and unimaginable future potentials  
 
 We now stand together at a crossroads  
 unlike any in the last ten thousands years  

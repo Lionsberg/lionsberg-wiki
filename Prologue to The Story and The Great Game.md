@@ -35,6 +35,9 @@ Not between nations
 Not between political parties  
 Not between religions   
 Not between leaders  
+
+Not between any of the false dichotomies or dialectics  
+designed to keep humanity divided, conquered, and enslaved  
   
 But between continuing an omnicidal way of life that cannot endure
 and remembering how to live wisely, lovingly, justly, and differently—
@@ -97,7 +100,7 @@ responsibility,
 regeneration,  
 and shared meaning, purpose, faith, and hope.
   
-What lies beyond The Gates of LIONSBERG is not a doctrine.  
+What lies beyond this threshold is not a doctrine.  
 It is not a belief system or ideology.  
 It is not a promise of safety, certainty, or salvation.  
   

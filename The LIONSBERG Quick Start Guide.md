@@ -36,7 +36,7 @@ Articulating the deeper architecture and inception of this work
 
 But experience across many realms has revealed a simple truth: 
 
->_To Know the Way one must live it_
+>**_To Know the Way one must live it_**
 
 For most resonant souls,  
 Attempting to intellectually grasp  
@@ -46,6 +46,10 @@ Is  both unnecessary and counterproductive at first
 This is not a theory to debate  
 It is a **Game to be played**  
 And a **Way to be embodied**   
+
+Any thriving New Civilization  
+Along with the Superorganism that co-creates it  
+Must invariably emerge through Play 
 
 ## The Invitation
 
@@ -65,7 +69,7 @@ Of awakening, relationship, and transformational co-creation
 
 Gather. Begin. Play. 
 
-1. **Invite** 2 to 5 resonant individuals into a physical or digital circle    
+1. **Invite** 2 to 12 resonant individuals into a physical or digital circle    
 2. **Read aloud** the *Prologue*, _Story_, and this  _Quickstart Guide_  
 3. **Form the Circle** by choosing a name and establishing simple agreements  
 4. **Set a Cadence** by defining weekly, monthly, and seasonal rhythms  

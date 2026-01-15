@@ -3,53 +3,54 @@ _Updated 10/21/2025 (Old Time)_
 
 The purpose of this page is to provide ongoing updates to the current state of [[The Program]] and next steps from the perspective of [[The Nameless One]]  
 
-## Context
+## Context and Overview
 
 - At the time of [[J's Death]] We were ~200 days ahead of schedule  
-- The last major milestone was accomplishing [[The Great UnVeiling]] by ~summer 2025.  
-- Around the world, citizens are awakening, protests are happening, [[The Greatest Fraud, Deception, and Existential Threat in History]] is becoming more obvious  
-- The next major [[Milestones|Milestone]] is the connection and empowerment of [[The First Three Percent]] by winter solstice 2026. 
-- The Window to enact the [[Meta Project]] locally on Earth is closed  
-- This will result in millions if not billions of unnecessary deaths, but there is still a Way forward for humanity to pass [[The Final Test]]  
-- The [[Critical Path]] now runs through [[The LIONSBERG Experience]], [[The Story of LIONSBERG]], and [[The Great Game of LIONSBERG]].  
+- In 2025 [[The Great UnVeiling]] was accomplished and thousands of pages published or improved   
+- Around the world, citizens are awakening, protests are happening, [[The Greatest Fraud, Deception, and Existential Threat in History]] is becoming clear  
+- [[Controlled Disclosure]] is accelerating towards its end game ([[Controlled Disclosure Marches Towards Its Peak]])  
+- The next major [[Milestones|Milestone]] on the [[Critical Path]] is the connection and empowerment of [[The First Three Percent]] — nominally by winter solstice 2026 per the elders and logic  
+- The [[Critical Path]] (from the LIONSBERG perspective) *might now run* through [[The LIONSBERG Experience]], [[The Story of LIONSBERG]], and [[The Great Game of LIONSBERG]] — 
+	- Or - that is a waste of time and it has to develop more emergently... 
 - These will be progressively published on the [[Lionsberg Wiki]]  
-- When the time is right, perhaps Winter 2025/2026, an essential 250 to 350 page book — a [[Work In Progress]] under the working title [[THE NAMELESS BOOK]] — may be published to bring the minimum viable hard copy into print  
+- When the time is right, perhaps early 2026, an essential 250 to 350 page book — a [[Work In Progress]] under the working title [[THE NAMELESS BOOK]] — may be published to bring the minimum viable hard copy into print  
+- In the meantime **[[The LIONSBERG Quick Start Guide]]** provides an easy way for everyone to get going  
 
 # Current Program 
 
-1. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]] 
-	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI
+1. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]]  
+	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI  
 2. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
-3. **THE BOOK / STORY / GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
-	1. Working Title: [[THE NAMELESS BOOK]]  
-		1. [[The LIONSBERG Experience]] 
-		2. [[The Relational Bridge]] ⏳
-		3. [[The Invitation]] ⏳ 
-		4. [[The Threshold Experience]]  ⏳
-		5. [[The Golden Seed of LIONSBERG]] 🔄 - handed when The Threshold is crossed, leads into The Story 
-			1. Can also contain the entire Obsidian vault
-		6. [[The Story of LIONSBERG]] ⏳ - The Story leads into The Gates and The Game 
-		7. [[The Great Game of LIONSBERG]] ⏳
-		8. [[The LIONSBERG Playbook]] ⏳  
-		9. [[The 144 Gates of Initiation]] 🔄 
-	2. Criteria 
-		1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
-		2. It should be sufficient to build the New Civilization from
-		3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
-4. **THE ARK** 
+3. ✅ Draft [[The LIONSBERG Quick Start Guide]] - a basic and immediate way for anyone to get moving 
+4. 🔄 **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
+	1. [[The Gates of LIONSBERG]] (out of sequence requires editing)  
+		1. ✅ [[The LIONSBERG Quick Start Guide]]  
+			1. ✅ Leads to [[The Story of LIONSBERG]]  
+				1. ✅ Leads to [[The Great Game of LIONSBERG]]  
+					1. ✅  Leads to [[The LIONSBERG Playbook]]  
+	2. Working Title: [[THE NAMELESS BOOK]]  - perhaps merge with the above  
+		- Lost interest / direction on this 
+		1. Criteria 
+			1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
+			2. It should be sufficient to build the New Civilization from
+			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
+5. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
-5. **COMMUNICATIONS**
+		1. Get the Ark livable  
+			1. Register under the church / ecclesia  
+				1. On the road by ? 
+6. **STEWARDSHIP** 
+	1. There is an emergent need to form a church  
+		1. to establish an LLC  
+			1. That can steward the bus and other assets  
+7. **COMMUNICATIONS**
 	1. Consider setting up another comms server for those who want to collaborate / play / ask questions (Discord?)  
 	2. Draft the next magical update / invitation  
-	3. Perhaps on Winter Solstice 2025 something happens... 
-		1. Leading into a cohort starting [[Our Shared Journey]]... 
-		2. Each gate needs to act like a siphone to pull the next awakening people into The Threshold / Story / Gates / Game
 
 #### 2026 
 
 1. Begin **The Great Game**  
 2. Connect and empower [[The First Three Percent]]  
-3. The Sacred Ascent and The Sacred Codex, including The Book of LIONSBERG, can come later) 
 
 ## Potential Next Steps 
 
@@ -59,8 +60,9 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ## December Notes 
 
 - [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
-- [[The Story of LIONSBERG]] is good enough  
-- [[The LIONSBERG Playbook]] needs to be rapidly co-created 
+- [[The Story of LIONSBERG]] is good enough for now 
+- [[The Great Game of LIONSBERG]] is good enough for now 
+- [[The LIONSBERG Playbook]] needs to be co-created as we play 
 
 ## Oct Notes
 
