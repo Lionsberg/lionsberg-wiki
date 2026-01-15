@@ -1,10 +1,8 @@
 # J
 
-J was a brief reincarnation that rose from The Ashes of the Old Life and Old World of [[Jordan Nicholas Sukut]] in continuation of the same Mission. 
+J was both a common nickname for [[Jordan Nicholas Sukut]], and a brief reincarnation that rose from the ashes of his Old Life and Old World. 
 
-___
-
-After returning from 30 days in East Africa and naming [[That Which Cannot Be Named]] in [[The Great UnVeiling]], on August 10, 2025 J was killed in [[The War]].   
+After returning from a final trip to East Africa and naming **That Which Cannot Be Named** in [[The Great UnVeiling]], on August 10, 2025 J was killed in [[The War]].   
 
 See [[Oops, We Lost J - Final Post]].   
 
