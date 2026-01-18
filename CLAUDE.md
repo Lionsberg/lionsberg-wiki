@@ -324,6 +324,42 @@ The wiki is automatically built into a static website using **Massive Wiki Build
 
 - **Output directory**: `.massivewikibuilder/output/` (gitignored, not created locally)
 
+## Documentation & Work Logs
+
+**Maintain continuity across Claude sessions** by documenting work in `Claude Code/Work Log.md`.
+
+### Work Log Standards
+
+Each work session should be documented in the Work Log with:
+
+1. **Date and Session Title** - When and what focus
+2. **Session Summary** - Brief overview of what happened
+3. **Accomplished** - What got done
+4. **Key Decisions** - Why choices were made (context for future sessions)
+5. **Files Created/Modified** - What changed in the repository
+6. **User Teaching Moments** - Corrections or preferences learned from Jordan
+7. **Insights** - Discoveries, patterns, important realizations
+8. **Git Tags** - Any milestone tags created
+9. **Next Session Considerations** - What might come next
+10. **Session End Status** - Current state (committed, pushed, clean, etc.)
+
+### Why This Matters
+
+**Each Claude session starts fresh.** The Work Log creates institutional memory so:
+- Future sessions understand what was done and why
+- Decisions don't get re-debated or unknowingly reversed
+- Progress is visible and trackable
+- User corrections and preferences are captured and applied consistently
+- Context is preserved across the discontinuity of sessions
+
+### When to Update
+
+- **During work**: Add notes at natural stopping points
+- **Between tasks**: Document what was just completed before starting next item
+- **End of session**: Final summary before closing (you or Jordan can do this)
+
+**The Work Log is tactical execution tracking. TKTK Program Notes.md is strategic program planning. Both are essential.**
+
 ## Critical Editing Protocols
 
 ### Before Editing Core Documents
