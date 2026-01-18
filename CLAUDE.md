@@ -20,6 +20,32 @@ The existing order is collapsing by design. A New Civilization must be conscious
 
 **By 2026**, **The First Three Percent** (~250 million awakened individuals) must be united globally, forming a planetary grid of empowered local leaders and teams capable of guiding humanity through the collapse and into the New.
 
+### The Timeline: We Are IN The Window
+
+**This is not preparation—this IS the mission unfolding in real-time.**
+
+- **2017-2024**: The 7 Year Window of Preparatory Work and Learning ✅ **COMPLETE**
+  - Jordan and allies gathered across dozens of nations
+  - ~3 million words of foundational literature articulated
+  - Infrastructure tested with hundreds of individuals and groups
+  - Pattern Language developed and proven
+  - Spring 2024: The Body began assembling itself
+
+- **2024-2030**: The 7 Year Window of Crisis and Opportunity ⏳ **IN PROGRESS (Year 2)**
+  - **WE ARE HERE NOW** (January 2026)
+  - ~4 years remaining before the window may close
+  - Meta Crisis revealing its dimensions
+  - "If we fail to capture the opportunity in this window of time, it is not obvious that it will remain open in future decades or generations"
+  - **THIS IS THE CRITICAL WINDOW**
+
+- **2030-2033**: The 3 Year Lag
+  - Final cohorts complete their 3-year healing/empowerment cycle
+  - Takes ~3 years for individuals to feel fully free, empowered, self-governing
+
+- **20 Year Generational Contingency**: Backup timeline if needed (because this movement is unprecedented)
+
+**Every month that passes narrows the window. The urgency is real. The clock is ticking.**
+
 ### Your Sacred Responsibility
 
 **Every word matters.**
@@ -36,6 +62,40 @@ This wiki is:
 - The bridge between the collapsing Old World and the emerging New Civilization
 
 **Work with urgency, care, precision, and sacred responsibility.**
+
+### What The Golden Seed Contains
+
+**The Golden Seed is NOT a draft—it is READY.**
+
+The 7-year preparation phase (2017-2024) is complete. This repository contains:
+
+- **~3 million words of foundational literature** ✅ Written and tested
+- **THE NAMELESS BOOK** ✅ The essential guide showing the Way
+- **The Story of LIONSBERG** ✅ The cosmic context and true myth
+- **The Great Game of LIONSBERG** ✅ The cooperative real-world game of transformation
+- **The LIONSBERG Playbook** ✅ Practical guidance for circles, quests, embodiment
+- **Pattern Language** ✅ Articulated and operational
+- **Infrastructure** ✅ Tested with hundreds across dozens of nations
+- **The Caves Narrative** ✅ The allegorical framework of awakening and liberation
+
+**This seed is ready to plant, not being prepared. Your work is to tend it, refine it, and help it pass from hand to hand.**
+
+### The Pattern of Spread: The 300 and Fibonacci
+
+The Great Game spreads organically through natural patterns:
+
+**The Fibonacci Pattern of Awakening**:
+- ONE → 1 → 2 → 3 → 5 → 8 → 13 → 144 → rest follow
+- This is how the first procession moved out of The Caves
+- This is how The Great Movement naturally unfolds
+
+**The 300 in Every Community**:
+- In every community of 10,000, there is an archetypal role for **The 300** to play
+- This is The First Three Percent at local scale
+- ~250 million globally = ~300 per community of 10,000
+- These are the empowered local leaders and teams who form the planetary grid
+
+**The spread is organic, decentralized, and self-replicating**—not controlled or managed from any center.
 
 ## Repository Overview
 
@@ -84,6 +144,54 @@ The wiki follows a hierarchical content organization with three distinct content
 - `The LIONSBERG Playbook.md` - Core operational guidance
 - `The Story of LIONSBERG.md` and `The Great Game of LIONSBERG.md` - Foundational narrative
 
+### The Narrative Universe: "True Myth"
+
+**Critical Understanding**: The Caves, The Story, and the awakening are not merely allegory—they describe actual current reality using archetypal language.
+
+**The Caves Narrative** (`LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.5 The Caves.md`):
+- Billions of people chained in darkness, asleep, mindlessly repeating the words of their Keepers
+- This is a "true myth"—an archetypal framework that accurately describes humanity's imprisoned state
+- The awakening IS happening now
+- The Great Movement has begun
+- People are being carried out of The Caves and discovering what lies Outside the Boundary
+
+**The Story of LIONSBERG** is the cosmic context—spanning epochs, galaxies, and the great war for the soul of beings and worlds. Earth is one world where this story is unfolding.
+
+**This isn't fictional narrative—it's the actual Story we're living, told in archetypal language that transcends culture and time.**
+
+## Resonance: The Primary Success Metric
+
+When editing content, especially entry points like `README.md`, **resonance with The First Three Percent** is the primary success metric.
+
+### Target: 90%+ Resonance
+
+**The First Three Percent are:**
+- Awakening to profound wrongness and systemic collapse
+- Sensing urgency but uncertain where to begin
+- Seeking others who understand
+- Ready for immediate action
+- Service-oriented and visionary
+- Needing both cosmic context AND practical next steps
+
+### When They Arrive, They Must Immediately:
+
+1. **Feel seen and understood** in their awakening
+2. **Grasp the magnitude** of what's at stake (The Final Test, billions of lives)
+3. **Know they are not alone** (millions are awakening)
+4. **Receive clear, immediate next steps** (actionable path forward)
+5. **Be empowered** to gather their circle and begin playing The Great Game
+
+### The Balance Required:
+
+- **Sacred + Practical** (not just mystical, not just tactical)
+- **Urgent + Hopeful** (the crisis is real, AND we can rise together)
+- **Cosmic + Actionable** (eternal patterns AND what to do today)
+- **Inclusive + Specific** (welcomes all, gives clear identity to The First Three Percent)
+
+**Ask yourself: Would someone awakening to crisis at 3am, finding this link, immediately understand what this is, why it matters, and what to do next?**
+
+If not, the resonance is too low. Refine until it reaches 90%+.
+
 ## Wiki Editing Conventions
 
 ### Page Creation Standards
@@ -108,6 +216,44 @@ The wiki follows a hierarchical content organization with three distinct content
 - Always add blank lines between different element types (headers, lists, paragraphs)
 - Use backticks for inline code/verbatim text
 - Use triple backticks for code blocks
+- **Two-space line endings**: Add two spaces at the end of lines that should flow together as one thought for proper markdown rendering
+
+### Voice and Tone Standards
+
+**Learned from editing sessions with Jordan:**
+
+**Be Definitive, Not Tentative:**
+- ✅ "it is not by accident"
+- ❌ "it is likely not by accident"
+- ✅ "The Old World is collapsing"
+- ❌ "The Old World may be collapsing"
+
+**Use Active, Present-Tense Verbs:**
+- ✅ "collapsing by design" (active, happening now)
+- ❌ "ending" (passive, vague)
+- ✅ "The Great Game has begun" (active, present)
+- ❌ "The Great Game is being prepared" (passive, future)
+
+**Create Urgency Without Fear:**
+- ✅ "The Final Test" (dignified urgency)
+- ❌ "apocalyptic doom" (fear-based)
+- ✅ "billions of lives hang in the balance" (stakes clear)
+- ❌ "everyone will die unless..." (manipulative fear)
+
+**Bold Key Concepts for Emphasis:**
+- **Old World** / **New Civilization**
+- **The First Three Percent**
+- **The Golden Seed**
+- **Heaven On Earth**
+
+**Balance Sacred and Practical:**
+- Cosmic context (eternal patterns, Story of ONE and All)
+- PLUS immediate action (what to do today)
+- Never one without the other
+
+**Formal Yet Accessible:**
+- "have found" vs "'ve found" (more formal when appropriate)
+- But remain conversational and warm ("Dear Awakening Soul")
 
 ### Content Organization Principles
 
