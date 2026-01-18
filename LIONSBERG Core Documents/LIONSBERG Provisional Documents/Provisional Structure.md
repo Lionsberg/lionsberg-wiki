@@ -15,7 +15,7 @@ LIONSBERG is an unincorporated voluntary spiritual association of individuals, t
 
 This Association of Associations is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
 
-While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]]. 
+While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]]. 
 ____
 ## 2024 and Before 
 
@@ -36,11 +36,11 @@ Core Concepts:
 	1. This Spiritual Body is *by nature and definition* superordinate to any and all SpatioTemporal Authority.  
 	2. This Spiritual Body and the associated pattern language / operating system / Way of Being are already operative in realms and dimensions beyond Earth. This is an incarnation, not a local human or Earthly creation. 
 	3. The Spiritual Body and all its constituent holofractal elements are eternally free to self-organize and self-govern on the Divine Right and Moral Responsibility to do so. 
-	4. While transcending legal categorization *inherently and by definition* as a spiritual entity operating across realms and dimensions, it activities are free and tax exempt under Earth-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]]. 
+	4. While transcending legal categorization *inherently and by definition* as a spiritual entity operating across realms and dimensions, it activities are free and tax exempt under Earth-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]]. 
 6. One level up from Individuals in voluntary association are [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Teams]], [[Groups]], and [[Communities]] in voluntary association. 
-	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]] by default unless otherwise self-organized and differentiated.  
+	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association]] by default unless otherwise self-organized and differentiated.  
 7. From there, LIONSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
-8. The [[Lionsberg Wiki Books]], [[Lionsberg Manifesto]], [[The LIONSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ONE]] and [[All]].  
+8. The [[Lionsberg Wiki Books]], [[LIONSBERG Manifesto]], [[The LIONSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ONE]] and [[All]].  
 9. The Lionsberg System is designed as an Invitational System, Platform, and Way for each inhabitant of a given Domain to voluntarily take up an equal [[New Citizenship]] in the [[New Civilization]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 
 _All of the levels above happen before any legal structure, and exist purely on the basis of Spiritual resonance and voluntary association, collaboration, culture, social structure, and governance structure. This transcendent understanding of our Divine Right and Responsibility to Self-Organize and Self-Govern as a Tribe of Tribes / Group of Groups / Community of Communities is critical to protecting the Sovereignty and Independence of the Individuals and localities collaborating, while ensuring that there is no overly-centralized node or dependency, that if attacked or compromised, can bring down the Whole. All following and future structural elements are merely tools and supports for the Sovereignties co-operating them_. 
@@ -55,7 +55,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 	2. ~150 to 200 [[Bioregional Hubs]]  
 	3. ~100,000 [[Local Hubs]]  
 	4. ~1,000,000 [[Community Hubs]]    
-16. Each fractal hub, commons, organization, and federation will be [[Self-Governing, Self-Sustaining, and Self-Replicating]], and will choose its own locally and culturally appropriate legal instances that most faithfully reflect the Vision, Principles, and Values in that specific domain. Each of these will be considered by default a [[Private Ecclesiastical Voluntary Membership Association (PEVMA)]] unless otherwise self-organized.  
+16. Each fractal hub, commons, organization, and federation will be [[Self-Governing, Self-Sustaining, and Self-Replicating]], and will choose its own locally and culturally appropriate legal instances that most faithfully reflect the Vision, Principles, and Values in that specific domain. Each of these will be considered by default a [[Private Ecclesiastical Voluntary Membership Association]] unless otherwise self-organized.  
 17. The diagram below illustrates the configuration of the first legal instantiation / Commons planted in the United States to support the emergence of [[The Federation]]. 
 18. This provisional structure was designed and built to enable the first substantial ecosystemic resource flows around the world, through which the full ecosystem will emerge and instantiate itself in all localities that voluntarily so choose during the [[10 Year Grand Strategy]] and Beyond.   
 19. The Community will establish and federate conceptually similar yet culturally-and-contextually-appropriate structures polycentrically around the planet, connected together at the mycelial level to allow for the [[Voluntary Exchange]] of resources, information, and ideas between all fractal levels and localities. 

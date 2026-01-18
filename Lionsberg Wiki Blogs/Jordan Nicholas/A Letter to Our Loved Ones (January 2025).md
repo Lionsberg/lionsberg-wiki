@@ -116,7 +116,7 @@ We cannot predict what lies ahead for billions of individuals and millions of co
 
 ### **How to Engage**
 
-Please feel free to share this message with those you love. The [[Lionsberg Wiki]] contains a variety of open and free resources to help awaken heart and minds, and illuminate the steps ahead. Every person awakened, enlightened and prepared is a priceless victory. 
+Please feel free to share this message with those you love. The [[LIONSBERG Wiki]] contains a variety of open and free resources to help awaken heart and minds, and illuminate the steps ahead. Every person awakened, enlightened and prepared is a priceless victory. 
 
 If you feel led and would like to collaborate or contribute, please reach out. Together, We can begin the work of building [[The Movement]]—a global network of [[Self-Governing, Self-Sustaining, and Self-Replicating]] individuals, teams and localities, aligned in purpose and action, committed to transforming the world, and advancing together towards [[The Goal]].
 

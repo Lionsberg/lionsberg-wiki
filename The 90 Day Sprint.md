@@ -46,7 +46,7 @@ To catalyze the Lionsberg movement by engaging the first cycles of growth, build
 
 - **Key Deliverables**:
     - Reach Cycle 5 (89 Co-Creators) and aim to enter Cycle 6 (144 Co-Creators).
-    - Launch the [[Lionsberg Wiki]] as a dynamic repository for guidance and alignment.
+    - Launch the [[LIONSBERG Wiki]] as a dynamic repository for guidance and alignment.
     - Create the first **public-facing narratives** (videos, articles, testimonials) to inspire broader engagement.
 - **Actions**:
     - Develop and implement [[Cycle Time]] tracking to ensure alignment with 19-day pacing.

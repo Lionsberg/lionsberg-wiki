@@ -118,4 +118,4 @@ Only you can tell [[Your Story]].
 	3. Now, looking back from the first milestone, and studying [[Your Story]] about how you got there, articulate 5 to 7 concrete Steps that you can take to reach Your First Milestone on schedule. 
 6. Now that you have an approximate Vision, Strategy, and Plan for your unique Pathway across The Chasm, form or join a Team, and choose a [[Seasonal Quest]] that will advance you along your steps, in a Way that helps your Team advance along their steps, in a Way that helps The Whole progress towards [[The Goal]]. 
 
-For more guidance on forming teams, choosing quests, and progressing towards [[The Goal]], see [[The Lionsberg Co-Creator's Handbook]].  
+For more guidance on forming teams, choosing quests, and progressing towards [[The Goal]], see [[The LIONSBERG Co-Creator's Handbook]].  

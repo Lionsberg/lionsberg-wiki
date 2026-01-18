@@ -56,7 +56,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 ## 2 The Book of LIONSBERG
 
-[[The Book of Lionsberg]]  
+[[The Book of LIONSBERG]]  
 
 ## 3 The Way of LIONSBERG 
 
@@ -69,7 +69,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 ## 5 The Handbook of LIONSBERG
 
-[[The Lionsberg Co-Creator's Handbook]]  
+[[The LIONSBERG Co-Creator's Handbook]]  
 
 ## 6 The Guides of LIONSBERG
 

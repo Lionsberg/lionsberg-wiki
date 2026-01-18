@@ -156,7 +156,7 @@ The [[Lionsberg System of Work]]
 
 The [[LIONSBERG System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
-[[Lionsberg Integrated Delivery System]]  
+[[LIONSBERG Integrated Delivery System]]  
 [[Projects]] 
 [[Program]] 
 [[Everything Is A Project]]  
@@ -254,7 +254,7 @@ Wisdom Flow
 [[Target Value Design (TVD)]]  
 [[The Economic Case For IPD]]  
 [[Work]]  
-[[Lionsberg Integrated Delivery System]]  
+[[LIONSBERG Integrated Delivery System]]  
 [[Value]]  
 [[Waste]]  
 [[Lionsberg Integrated Delivery System Warning]] 
@@ -335,7 +335,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 
 1. The [[Lionsberg System of Governance]]  
-2. The [[Lionsberg Integrated Delivery System]]  
+2. The [[LIONSBERG Integrated Delivery System]]  
 3. The [[Lionsberg System of Work]]  
 4. The [[Lionsberg Economic System]]  
 5. The [[Lionsberg System of Culture and Community]] 
@@ -526,7 +526,7 @@ We will navigate together by continuously improving the [[Lionsberg Navigation S
 
 ## The Lionsberg Integrated Delivery System 
 
-We will progressively implement the [[Lionsberg Integrated Delivery System]] to stack up, align, and resource [[Throughput]] of [[The Goal]]. 
+We will progressively implement the [[LIONSBERG Integrated Delivery System]] to stack up, align, and resource [[Throughput]] of [[The Goal]]. 
 
 The Lionsberg Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
 

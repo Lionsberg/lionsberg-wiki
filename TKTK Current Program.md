@@ -12,7 +12,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 - The next major [[Milestones|Milestone]] on the [[Critical Path]] is the connection and empowerment of [[The First Three Percent]] — nominally by winter solstice 2026 per the elders and logic  
 - The [[Critical Path]] (from the LIONSBERG perspective) *might now run* through [[The LIONSBERG Experience]], [[The Story of LIONSBERG]], and [[The Great Game of LIONSBERG]] — 
 	- Or - that is a waste of time and it has to develop more emergently... 
-- These will be progressively published on the [[Lionsberg Wiki]]  
+- These will be progressively published on the [[LIONSBERG Wiki]]  
 - When the time is right, perhaps early 2026, an essential 250 to 350 page book — a [[Work In Progress]] under the working title [[THE NAMELESS BOOK]] — may be published to bring the minimum viable hard copy into print  
 - In the meantime **[[The LIONSBERG Quick Start Guide]]** provides an easy way for everyone to get going  
 
@@ -22,28 +22,50 @@ The purpose of this page is to provide ongoing updates to the current state of [
 	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI  
 2. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
 3. ✅ Draft [[The LIONSBERG Quick Start Guide]] - a basic and immediate way for anyone to get moving 
-4. 🔄 **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
+4. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
 	1. [[The Gates of LIONSBERG]] (out of sequence requires editing)  
 		1. ✅ [[The LIONSBERG Quick Start Guide]]  
 			1. ✅ Leads to [[The Story of LIONSBERG]]  
 				1. ✅ Leads to [[The Great Game of LIONSBERG]]  
 					1. ✅  Leads to [[The LIONSBERG Playbook]]  
-	2. Working Title: [[THE NAMELESS BOOK]]  - perhaps merge with the above  
+	2. ✅  Working Title: [[THE NAMELESS BOOK]]  - perhaps merge with the above  
 		- Lost interest / direction on this 
 		1. Criteria 
 			1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
 			2. It should be sufficient to build the New Civilization from
 			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
-5. **THE ARK** 
+	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
+5. 🔄 **THE STORY**
+	1. ✅ Revise [[Jordan's Short Story]]  
+	2. Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
+	3. Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]]  
+	
+6. 🔄 **THE PLAY**
+	1. Invite some people to play 
+		1. Locally  
+		2. Globally  
+		3. Planetary events  
+	2. host one instance of The Game 
+	
+7. 🔄 **THE PLAYBOOK**
+	1. Now that [[THE NAMELESS BOOK]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
+		1. [[The LIONSBERG Playbook]]  
+			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
+			2. Define the most important plays... 
+	
+8. 🔄 **FREQUENTLY ASKED QUESTIONS**
+	1. Respond to [[Frequently Asked Questions]] by creating new Plays. 
+	
+9. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
 		1. Get the Ark livable  
 			1. Register under the church / ecclesia  
 				1. On the road by ? 
-6. **STEWARDSHIP** 
+10. **STEWARDSHIP** 
 	1. There is an emergent need to form a church  
 		1. to establish an LLC  
 			1. That can steward the bus and other assets  
-7. **COMMUNICATIONS**
+11. **COMMUNICATIONS**
 	1. Consider setting up another comms server for those who want to collaborate / play / ask questions (Discord?)  
 	2. Draft the next magical update / invitation  
 
@@ -57,32 +79,26 @@ The purpose of this page is to provide ongoing updates to the current state of [
 - Generate the most essential plays for [[The LIONSBERG Playbook]]  
 - Start playing and feeding The Playbook based on what happens 
 
-## December Notes 
+## Fall 2025 Notes 
 
 - [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
 - [[The Story of LIONSBERG]] is good enough for now 
 - [[The Great Game of LIONSBERG]] is good enough for now 
 - [[The LIONSBERG Playbook]] needs to be co-created as we play 
-
-## Oct Notes
-
 - Articulated [[The LIONSBERG Cycle of Cosmic Co-Creation]]  
-- Next: Finalize [[The Golden Seed of LIONSBERG]] page  
+- Drafted [[The Golden Seed of LIONSBERG]] page  
 	- Ensure there is a README type page that leads to a  quickstart guide. 
-- Draft [[The 144 Gates of Initiation]]  
+- Consider how to finalize [[The 144 Gates of Initiation]]  
 	- Starting by drafting the Threshold to each Movement, which finalizes the structure of each of The Gates and writes The Story 
 	- From there articulate the Pattern for each Gate and then draft each gate
-- Draft [[The Story of LIONSBERG]]  
-- Draft [[The Great Game of LIONSBERG]]  
-- Draft [[The LIONSBERG Playbook]]  
-- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]]  
-
+- Drafted [[The Story of LIONSBERG]]  
+- Drafted [[The Great Game of LIONSBERG]]  
+- Drafted [[The LIONSBERG Playbook]]  
+- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[THE NAMELESS BOOK]]...  
 - With [[The LIONSBERG Experience]] now outlined, and [[The Story of LIONSBERG]] approximated in outline... 
 - Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement  
 
-
 # OLD PROGRAMS Sept 2025
-
 
 ### **Ignition Sequence**
 
@@ -154,30 +170,6 @@ _____
 
 - Stepped back from The Playbook to look at The Story as the container of the entire experience.  
 - Rearchitected [[The Story of LIONSBERG]] ✅
-
-## TKTK LEFT OFF HERE 
-- In light of the expanse that The Story is now carrying, need to fall back and revise The Playbook:   
-	- [[Table of Contents — The LIONSBERG Playbook]]  
-- Draft the relational bridge and mythic call of the ignition sequence (in process) 
-	- [[A Last Word on J, and the First Word of the New]] ✅
-- Draft The Playbook Essentials ⏳ 
-- Draft The Quickstart Guide ⏳
-	- One Page Overview of The LIONSBERG Experience. 
-	- One Page Template for The Great Game  
-	- A Simple Guide to Your First 5 Moves  
-	- A Simple Explanation for those wondering Why On Earth  
-- Think through and focus on minimum viable form  
-- Draft The Story  
-- Draft The Gates  
-- Think through the amount of facilitation that will be required. 
-
-
-____
-
-____
-Note: 
-- [[A Last Word on J, and the First Word of the New]] was designed to fulfill parts one and two, and transmit The Spark.   
-- [[README|The New Homepage]] and [[The Threshold]] were designed to constitute The Threshold. 
 
 ______
 

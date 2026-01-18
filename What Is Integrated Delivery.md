@@ -5,7 +5,7 @@ Integrated Delivery is a philosophic approach for designing a production or deli
 
 Simply put, Integrated Delivery uses lean design-build principles in a process-centered approach to developing and delivering a program of action.  Lean principles were originally implemented in manufacturing and first “discovered” by experts reviewing and documenting the Toyota Production System.  Toyota had shown great success with a new and different type of production line that required each step in the process to produce _only what was needed by the next step in the process_ and to view anything else as waste.  The behaviors and tools used by Toyota were documented and used to define a _lean_ _system_.
 
-Subsequently, it has been discovered that these principles closely map to the way that Living Systems operate. Over time, the goal of the [[Lionsberg Integrated Delivery System]] is to continually merge the creative capacity of humanity towards harmony with the way Creation itself creates.  
+Subsequently, it has been discovered that these principles closely map to the way that Living Systems operate. Over time, the goal of the [[LIONSBERG Integrated Delivery System]] is to continually merge the creative capacity of humanity towards harmony with the way Creation itself creates.  
 
 **_The essence of Lean Integrated Project Delivery is to view any program of action as a UNIFIED SYSTEM properly designed to produce throughput of THE GOAL into reality. The Goal is to bring the Design Intent, as articulated in the plans and specifications, and as understood through discernment and collaboration, into Reality._** 
 

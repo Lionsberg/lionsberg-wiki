@@ -48,7 +48,7 @@ When any significant [[Work]] needs to be accomplished, it makes sense to build 
 
 In this case, where a [[Total Nested Hierarchy of Goals]] must be delivered to accomplish the [[Meta Goal]], an [[Integrated Delivery System]] is required. 
 
-We brought together lifetimes of work to co-create a provisional [[Lionsberg Integrated Delivery System]] as part of the [[LIONSBERG System]]. 
+We brought together lifetimes of work to co-create a provisional [[LIONSBERG Integrated Delivery System]] as part of the [[LIONSBERG System]]. 
 
 ### Part 5: Create a Philosophy, Ethic, and Structure of Values to Integrate and Guide the System towards the Goal 
 Integrating diverse elements into [[Higher Order Functional Unity]] requires a uniting [[Philosophy]], Ethic, and Structure of [[Values]]. 

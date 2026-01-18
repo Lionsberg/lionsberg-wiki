@@ -24,7 +24,7 @@ Through extensive research, we had previously identified a hypothesis that an el
 2. Accomplish the total set of [[Global Goals]]  
 3. Design and build the [[Best Possible Future]] for [[All]].  
 
-As we began to articulate the [[Lionsberg Integrated Delivery System]], our friends alerted us that tens of millions of dollars and many years had been invested into this system, and that it was available for our use and adaptation. 
+As we began to articulate the [[LIONSBERG Integrated Delivery System]], our friends alerted us that tens of millions of dollars and many years had been invested into this system, and that it was available for our use and adaptation. 
 
 We therefore used it as a **starting point**.  
 

@@ -687,12 +687,12 @@ Into which his consciousness was venturing
   As a partial sampling: 
   
 - [[The Lionsberg Book of Meditations]] contains over 600 short one-sentence thoughts worth meditating on (designed for daily practice)  
-- [[The Book of Lionsberg]] was a very early attempt at beginning to pull a full cosmic array of concepts into some kind of unified architectural form; the entire text has been printed, read aloud, and annotated by a voluntary editor; the changes have not yet been integrated into the wiki  
+- [[The Book of LIONSBERG]] was a very early attempt at beginning to pull a full cosmic array of concepts into some kind of unified architectural form; the entire text has been printed, read aloud, and annotated by a voluntary editor; the changes have not yet been integrated into the wiki  
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] was a later attempt to weave an understandable tapestry for humanity to understand where it was and what it was facing immediately ahead  
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] was a first attempt to communicate the shocking revelations surfaced by his political activities and briefings between 2022 and 2024  
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] was an attempt to provide a simple narrative structure and meme that humanity could adopt it so choose — it is in one long file because it was being formatted for editing and publishing   
 - [[The Lionsberg Strategy and Plan]] was a work in progress attempting to articulate the overall "game plan" for humanity's successful escape and ascension into the new era  
-- [[The Lionsberg Co-Creator's Handbook]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
+- [[The LIONSBERG Co-Creator's Handbook]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
 - [[The Dawn of the New World]] was a fun children's book exploring the real situation of Earth through a story based narrative arc   
 - [[A Way Beyond Fear, Anxiety, And Depression]] was a simple effort to distill the psychology of negative emotion into a pragmatic and accessible way for those who were afraid, disoriented, or depressed to climb out of the hole and set their feet on the Path  
 - [[Playing With Poetry]] is a set of simple reflective poems that stand starkly against the realities that have unfolded  
@@ -721,7 +721,7 @@ Of 2-3 million words of interlinked writing
 Across thousands upon thousands of files  
 To hear Jordan and Pete discuss the inception and why  
 Behind the LIONSBERG Wiki and its underlying technology  
-You can find a link here ➡️ [[Lionsberg Wiki]]  
+You can find a link here ➡️ [[LIONSBERG Wiki]]  
 
 _The entire wiki can be downloaded to any personal computer_  
 _And interfaced with via **local AI** (not internet dependent)_  

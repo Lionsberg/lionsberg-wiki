@@ -1775,7 +1775,7 @@ The [[Stories of Transformation]] were reflected in [[Story Boards]].
 
 Over time, the [[Story Boards]] began to serve as a [[Manifesto]], [[Budget]], and [[Plan]], driving the [[Resourcing and Engagement Flywheel]].  
 
-Crucially, having all [[Progress]] occur via small Continuously Learning and Improving Teams enabled the [[Lionsberg System of Governance]] and the [[Lionsberg Integrated Delivery System]] to function, enabling [[Ecosystemic Flows]] of Resources and Support. 
+Crucially, having all [[Progress]] occur via small Continuously Learning and Improving Teams enabled the [[Lionsberg System of Governance]] and the [[LIONSBERG Integrated Delivery System]] to function, enabling [[Ecosystemic Flows]] of Resources and Support. 
 
 As the [[Group Of Groups]] Organized and Federated to tackle ever-more-meaningful [[Quests]] and accelerated [[Progress]] towards [[The Goal]], they were soon [[Co-Creating]] the Systems and Infrastructure of the [[New Era]] in stride. 
 
@@ -2105,7 +2105,7 @@ Stay tuned... you won't believe what happens next in The Story.
 
 We are assembling an array of infrastructure, tools, and technology in [[The Commons]] to help Individuals, Groups, and Localities [[Progress]] along the [[Way]] towards the Fullness of Individual, Local, and Collective Potential. 
 
-[[The Lionsberg Co-Creator's Handbook]] is a great place to begin. 
+[[The LIONSBERG Co-Creator's Handbook]] is a great place to begin. 
 
 The [[Lionsberg Wiki Books]] lay out the concepts in an array for formats for deeper exploration and discussion. 
 

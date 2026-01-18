@@ -1,4 +1,4 @@
-# The Book of Lionsberg
+# The Book of LIONSBERG
 
 This is a living [[Work In Progress]]... 
 

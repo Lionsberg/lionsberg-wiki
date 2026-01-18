@@ -56,7 +56,7 @@ ____
 
 **Our Standard** is the Ideal; [[On Earth As it Is In Heaven]].  
 
-**Our Values** are unified in the Supreme Value of the Creator, secondarily reflected in the core principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]], more fully reflected in the [[The Lionsberg System of Values]], and best understood as the [[Central Animating Spirit]] of God, to Whom all individuals and localities are ultimately accountable. 
+**Our Values** are unified in the Supreme Value of the Creator, secondarily reflected in the core principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]], more fully reflected in the [[The LIONSBERG System of Values]], and best understood as the [[Central Animating Spirit]] of God, to Whom all individuals and localities are ultimately accountable. 
 
 ## Who Not How 
 
@@ -82,7 +82,7 @@ It is expected that individuals, teams, and localities will spend 10 to 20% of t
 
 ### 3. Goals, Impact, and Incentive  
 
-The [[Meaningful Work]] we accomplish via the growing [[Team of Teams]] is aligned, measured, and validated by the [[Lionsberg Integrated Delivery System]]. It is quantified and rewarded via the revolutionary [[Lionsberg Currency]] that fundamentally redefines and aligns the notion of Value beyond the failing fiat currencies. 
+The [[Meaningful Work]] we accomplish via the growing [[Team of Teams]] is aligned, measured, and validated by the [[LIONSBERG Integrated Delivery System]]. It is quantified and rewarded via the revolutionary [[Lionsberg Currency]] that fundamentally redefines and aligns the notion of Value beyond the failing fiat currencies. 
 
 ### 4. Stories of Transformation 
 

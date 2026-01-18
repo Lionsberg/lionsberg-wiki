@@ -44,7 +44,7 @@ Collaboration often will evolve out of or into a more persistent group. Particip
 
 ## Integrated Delivery Agreements  
 
-Eventually, the [[Lionsberg Integrated Delivery System]] aims to build towards integrated delivery of [[The Goal]] across the [[Group Of Groups]]. 
+Eventually, the [[LIONSBERG Integrated Delivery System]] aims to build towards integrated delivery of [[The Goal]] across the [[Group Of Groups]]. 
 
 Integrated Delivery agreements routinely include the following elements: 
 

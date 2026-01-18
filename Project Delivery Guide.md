@@ -9,7 +9,7 @@ They [[Federate With Lionsberg]] as a Whole, and with one or two other groups or
 
 Now - it is time to get to work. 
 
-Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[Lionsberg Integrated Delivery System]] and the [[Lionsberg System of Work]].  
+Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[LIONSBERG Integrated Delivery System]] and the [[Lionsberg System of Work]].  
 
 As a quick refresher, the core innovation of Integrated Delivery is that it transforms any program of action into a [[Goal Delivery System]]. 
 

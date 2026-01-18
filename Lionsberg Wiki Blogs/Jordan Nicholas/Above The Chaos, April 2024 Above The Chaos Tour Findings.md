@@ -252,7 +252,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 - Further Refine and Embody Communications System 
 	- [[Jordan Nicholas Sukut]], [[Justin LeBlanc]], [[Peter Kaminski]], [[Day Waterbury]] 
 	- Groups communicate in small groups... 
-	- Groups slow down to [[Harvest, Curate, and Push]] Signal to the [[Lionsberg Wiki]]  
+	- Groups slow down to [[Harvest, Curate, and Push]] Signal to the [[LIONSBERG Wiki]]  
 	- A group synthesizes, composts, and sends the synthesis back out to The Whole  
 	- An AI agent is able to aid humans in searching across The Whole for specific topics and themes, spot emergent patterns, etc.  
 - Jordan and a small team to curate and send out a Dispatch every one to two weeks with a status update, and [[Needs]] required to advance the [[Critical Path]].  
@@ -270,14 +270,14 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- 1. [[Mondragon]] learnings 
 	- 2. The [[Lionsberg Invitation]]  
 	- 3. [[The Summary]] 
-	- The [[The Lionsberg Co-Creator's Handbook]] should likely include links to these and other [[Frequently Asked Questions]]  
+	- The [[The LIONSBERG Co-Creator's Handbook]] should likely include links to these and other [[Frequently Asked Questions]]  
 		- And the Wiki should be cleaned up / weeded to remove duplicates etc. 
 
 ## Frequently Asked Questions 
 
 - After the [[The 7 Year Window of Preparatory Work and Learning]], where are you at? What pieces have been articulated and built? 
 	- 1. Thousands of hours of thought and dialogue around [[Worksite Earth]] as Whole to be transformed [[FROM the Old TO the New]] within a single generation. 
-	- 2. Articulation of Divine connection, philosophy, theory, and practice via the [[Lionsberg Wiki]] and [[Lionsberg Wiki Books]]   
+	- 2. Articulation of Divine connection, philosophy, theory, and practice via the [[LIONSBERG Wiki]] and [[Lionsberg Wiki Books]]   
 	- 3. Years of full time legal and governance work with dozens of advisors resulting in the instantiation of the Lionsberg [[Provisional Structure]]. 
 	- 4. Creation of a backbone platform to connect and empower the [[Force For Good]]. ~10% of the capabilities surfaced into a user interface under the brand Open Impact brand, and tested with several hundreds groups in 50+ countries in MVP, Alpha, and Beta Phases. Public facing version can be seen at [Open Future Coalition](https://impact.openfuturecoalition.org/marketplace/card-grid). A clean, unpopulated Lionsberg version exists and will be populated in a few weeks when we hit 30 to 40 co-creators and the next major update is pushed. 
 	- 5. Creation of the beginning of a collective brain via a Memory for The Movement. This technology underlying the [Lionsberg Wiki](https://lionsberg.wiki) is built intentionally simple and "low to the ground" in anticipation of large sections of the internet being taken down or fire walled. It allows for the decentralized storage, retrieval, and updating of our collective memory of the [[New Vision and Plan]], even during times of crisis. 

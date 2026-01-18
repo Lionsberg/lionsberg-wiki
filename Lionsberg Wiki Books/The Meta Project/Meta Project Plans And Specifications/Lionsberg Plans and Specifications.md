@@ -1,6 +1,6 @@
 # Lionsberg Plans and Specifications
 
-The [[Lionsberg Wiki Books]] and the [[Lionsberg Wiki]] as a whole provide a detailed conceptual overview of the [[LIONSBERG System]] and the [[New World]] it aims to bring into Reality. 
+The [[Lionsberg Wiki Books]] and the [[LIONSBERG Wiki]] as a whole provide a detailed conceptual overview of the [[LIONSBERG System]] and the [[New World]] it aims to bring into Reality. 
 
 Because humanity has not yet Embodied this kind of [[Higher Order Functional Unity]], our shared Quest is an ongoing act of Co-Creation, and will remain so throughout the [[New Millennium]] and Eternally Beyond. 
 
@@ -64,7 +64,7 @@ Scope - Phase I: Worksite Earth. Phase II: Universal and Eternal
 
 Guiding principles rooted in [[Truth]], [[Love]], [[Justice]], [[Stewardship]] and [[Wisdom]], aligning with universal and eternal values.
 
-More fully reflected in the [[The Lionsberg System of Values]].  
+More fully reflected in the [[The LIONSBERG System of Values]].  
 ### 1.3 Introduction - The Lionsberg Wiki Books 
 
 The Lionsberg Meta Project and the Context into which it was incarnated has been articulated in numerous [[Lionsberg Wiki Books]], such as: 

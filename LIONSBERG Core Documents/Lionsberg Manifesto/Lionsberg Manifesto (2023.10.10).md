@@ -1,4 +1,4 @@
-# Lionsberg Manifesto 
+# LIONSBERG Manifesto 
 
 *Version 2023.10.10*
 

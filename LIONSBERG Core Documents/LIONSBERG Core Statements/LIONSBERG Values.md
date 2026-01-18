@@ -17,4 +17,4 @@ While the [[Central Animating Spirit]] of [[LIONSBERG]] cannot be reduced to wor
 
 These values are not static ideals but living principles embodied by **[[LIONSBERG]]**, guiding every action and decision as it seeks to bring **[[Heaven on Earth]]** and Beyond.
 
-[[The Lionsberg System of Values]] embodies these concepts more fully. 
+[[The LIONSBERG System of Values]] embodies these concepts more fully. 

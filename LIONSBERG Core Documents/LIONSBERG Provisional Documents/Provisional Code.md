@@ -37,7 +37,7 @@ Because Values are abstract, and we have difficulty translating them into the co
 
 The Code articulates, in concrete and relatable ways, how the Values show up in our [[Way of Being]] and our [[Way of Doing]]. 
 
-From the One Spirit behind the list of Universal Values reflected in [[The Lionsberg System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
+From the One Spirit behind the list of Universal Values reflected in [[The LIONSBERG System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
 
 It is called the Lionsberg | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
 

@@ -153,7 +153,7 @@ This stack provides a blueprint to begin building resilient and decentralized sy
 	1. Lionsberg has a unique agreement with Gary + OFC as a result. This could be a very valuable asset that could evolve towards a a backbone everything app enabling interoperable community currencies, resource flows, etc. across the ecosystem. 
 2. [[Jordan]] worked with [[Peter Kaminski]] to set up a Mattermost instance. This will be the primary comms channel for [[J]] and the [[Team of Teams]] he is directly working with. 
 	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Mattermost. 
-3. [[Jordan]] worked with [[Peter Kaminski]] to set up the [[Lionsberg Wiki]] (you are here) using Massive Wiki. This will be the primary documentation channel for [[J]] and the [[Team of Teams]] he is directly working with. 
+3. [[Jordan]] worked with [[Peter Kaminski]] to set up the [[LIONSBERG Wiki]] (you are here) using Massive Wiki. This will be the primary documentation channel for [[J]] and the [[Team of Teams]] he is directly working with. 
 	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Massive Wiki.  
 4. These three core pieces were created because they seemed to be on the [[Critical Path]] towards functioning as [[One Body]] and Mind: 
 	1. A chat platform  

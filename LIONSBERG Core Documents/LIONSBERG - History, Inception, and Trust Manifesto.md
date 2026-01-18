@@ -23,6 +23,8 @@ The call of LIONSBERG echoes the eternal call to live and embody **The Life Divi
 
 **[[Jordan Nicholas Sukut|J]]**, the primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ONE]]**, and to this purpose he dedicated his life. 
 
+[[Jordan's Short Story]] bridges the cosmic origins of LIONSBERG with its incarnation on Earth. 
+
 ---
 
 ### **The Archetypical Genesis**
@@ -46,7 +48,7 @@ Now free to focus full attention on the broader mission, between 2020 and 2025 t
 
 In 2025, upon returning from his final trip to Africa, J was killed in the war. 
 
-Yet, like the mythical phoenix, [[Something Powerful, New, and Good]] began to rise. 
+Yet, like the mythical phoenix, [[Something Powerful, New, and Good]] always rises. 
 
 Jordan's Journey unveiled [[The Greatest Fraud, Deception, and Existential Threat in History]] for all to see, illuminating the battle field in preparation for [[The Final Test]].   
 
@@ -86,7 +88,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Jordan's trajectory collides with corrupt authorities of Church and State. 
 - Five years of dissolution ensues, resulting in the eventual loss of his home, wealth, companies, etc.  
 - Jordan's on the record recap of events with the government can found in the [Federal Civil Rights and Corruption Case](https://www.pacermonitor.com/public/case/49766123/Jordan_Nicholas_Sukut_v_County_of_San_Bernadino_et_al), with additional narrative in [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]].  
-- Drafting of [[The Book of Lionsberg]] accelerates.  
+- Drafting of [[The Book of LIONSBERG]] accelerates.  
 - Ongoing weekly meetings and planning with advisors and allies.  
 
 #### **2022: Social Experiments Begin**
@@ -103,10 +105,10 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 #### **Spring 2023: The Foundation**
 
 - The LIONSBERG Wiki is established as a transparent open source repository  
-- Foundational literature is published to the [[Lionsberg Wiki]], including:
-    - The **[[Lionsberg Manifesto]]**
+- Foundational literature is published to the [[LIONSBERG Wiki]], including:
+    - The **[[LIONSBERG Manifesto]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
-    - **[[The Book of Lionsberg]]**  
+    - **[[The Book of LIONSBERG]]**  
     - Thousands of interlinked wiki pages begin to flood the wiki  
 - A minimum viable communication system and broadcast capabilities are established. 
 - Additional planetary networking and social experiments undertaken. 
@@ -184,7 +186,7 @@ The foundation of **LIONSBERG** rests on eternal principles that unify the pra
 - **Sovereignty and Voluntarism**: Participation is entirely voluntary, ensuring that the system can only be adopted if it aligns with the Spirit of **ONE** and the will of All.
 - **Stewardship and Service**: Resources are managed with the highest integrity to uplift **All**.
 
-From the Supreme Value of [[ONE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The Lionsberg System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
+From the Supreme Value of [[ONE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The LIONSBERG System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
 
 ---
 

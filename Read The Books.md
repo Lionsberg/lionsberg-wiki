@@ -6,6 +6,6 @@ The curated reading list encompasses an array of books and resources, each addre
 
 As [[Citizens]] immerse themselves in the foundational literature, they will become better equipped to unravel the intricacies of the [[Meta Crisis]], effectively collaborate with others in [[The Movement]] and [[The Game]], and actively participate in the co-creation of the [[New World]], enriched by a profound understanding of the challenges and possibilities that lie ahead.
 
-It also creates an accessible starting point to interacting with the depth of the [[Lionsberg Wiki]]. 
+It also creates an accessible starting point to interacting with the depth of the [[LIONSBERG Wiki]]. 
 
 To dive in to the books, see [[Lionsberg Wiki Books]]. 

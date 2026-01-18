@@ -2,7 +2,7 @@
 
 **_A coordinated [[System]] for developing and delivering the basic resources, infrastructure, and services that solve the problems inherent in every individual, organization and community is necessary to achieve the [[Total Nested Hierarchy of Goals]] of this Program; therefore a system-wide approach is needed.
 
-The System Wide Master Plan is an output of the [[Lionsberg Planning System]], which is part of the [[Lionsberg Integrated Delivery System]]. 
+The System Wide Master Plan is an output of the [[Lionsberg Planning System]], which is part of the [[LIONSBERG Integrated Delivery System]]. 
 
 It is the result of an ongoing process for determining how the total [[Program Of Action]] can most effectively be delivered to [[Co-Create]] the [[New World]]. 
 

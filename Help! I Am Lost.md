@@ -2,7 +2,7 @@
 
 Hello Dear Reader, 
 
-Welcome to the [[Lionsberg Wiki]]. We know it can be overwhelming, and difficult to learn to navigate. 
+Welcome to the [[LIONSBERG Wiki]]. We know it can be overwhelming, and difficult to learn to navigate. 
 
 If you ever get lost, simply click this [[Help! I Am Lost]] link in the sidebar, and come back. 
 
@@ -15,9 +15,9 @@ Here is a soft table of contents to help you find your [[Way]].
 3. [[Above The Chaos]] was a creative stream that followed along with The Story in real time, personally and accessibly from the perspective of [[J]].  
 4. [[Above the Chaos - WikiCast]] was a series of videos and dialogues hosted by [[J]].   
 5. The [[Lionsberg Wiki Books]] are more structured, formalized works. They [[Circumambulate]] the issues, ideas, and opportunities at stake from a number of perspectives.  
-6. To learn more about the technology underlying the [[Lionsberg Wiki]], explore [[Collaborative Technology and AI - Pete Kaminski - EP 5]] with J + Pete Kaminski. 
+6. To learn more about the technology underlying the [[LIONSBERG Wiki]], explore [[Collaborative Technology and AI - Pete Kaminski - EP 5]] with J + Pete Kaminski. 
 7. [[Lionsberg Core Documents]] links to draft agreements and works in progress that hold the space for emerge, co-creation, and continuous improvement.
-8. [[The Lionsberg Co-Creator's Handbook]] is a quick-start manual for those joining the movement.   
+8. [[The LIONSBERG Co-Creator's Handbook]] is a quick-start manual for those joining the movement.   
 9. The [[LIONSBERG Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[LIONSBERG System]]. 
 10. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] lays out some of the key topics and concepts in one place, as a jumping off point to further exploration. 
 11. [[A Poetic Map of Content]] is another creative map to navigate the wiki with

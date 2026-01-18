@@ -3,7 +3,7 @@
 To respond to the invitation, please complete the [[Manifesto Response Form]] and we will add you to the onboarding queue. 
 
 ___
-"Respond to the Invitation" is an important call to action for individuals who have encountered the [[Lionsberg Manifesto]], the [[New Vision and Plan]], [[The Great Game of LIONSBERG]], and [[The Movement]] and feel inspired to take part in the collective mission of confronting and overcoming the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]]. By answering this call, you are making a commitment to engage in [[The Battle]] and to contribute your unique skills, knowledge, and passion to [[The Movement]].
+"Respond to the Invitation" is an important call to action for individuals who have encountered the [[LIONSBERG Manifesto]], the [[New Vision and Plan]], [[The Great Game of LIONSBERG]], and [[The Movement]] and feel inspired to take part in the collective mission of confronting and overcoming the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]]. By answering this call, you are making a commitment to engage in [[The Battle]] and to contribute your unique skills, knowledge, and passion to [[The Movement]].
 
 As you respond to the invitation, you'll:
 
@@ -15,7 +15,7 @@ As you respond to the invitation, you'll:
 
 To respond to the invitation, follow these steps:
 
-1.  Reflect on the [[Lionsberg Manifesto]] and the [[New Vision and Plan]], considering how they resonate with your deepest and highest values, goals, and aspirations.
+1.  Reflect on the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]], considering how they resonate with your deepest and highest values, goals, and aspirations.
 2.  Determine your personal motivation for joining [[The Movement]] and how you can contribute your skills, knowledge, and passion to [[The Battle]].
 3.  [[Read The Books]] to deepen your understanding of the core ideas, principles, and strategies underpinning the [[New Vision and Plan]] and [[The Great Game of LIONSBERG]].
 4.  [[Join The Platform]] and become an active member of the [[Lionsberg Community]], collaborating with other [[Citizens]] and participating in quests, challenges, and projects.

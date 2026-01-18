@@ -4,7 +4,7 @@ In the [[LIONSBERG System]], **We Do Not Know** is a [[Word Tool]] that is used 
 
 _"We Do Not Know, but we will search it out."_
 
-In the [[Myth Of Lionsberg]], which starts to unfold in [[The Book of Lionsberg]], the conceptual idea of not knowing is brought into vivid imaginative form through the idea of well fortified [[Boundary of Knowing]] that lies beyond [[The Caves]] that humanity is imprisoned in. 
+In the [[Myth Of Lionsberg]], which starts to unfold in [[The Book of LIONSBERG]], the conceptual idea of not knowing is brought into vivid imaginative form through the idea of well fortified [[Boundary of Knowing]] that lies beyond [[The Caves]] that humanity is imprisoned in. 
 
 In order to begin the [[Quest]] towards the [[New]], every individual must pass through a [[Threshold]] that requires laying down every certainty other than [[ONE]] Mystery, and reframing everything in terms of a [[Current Best Understanding]]. 
 

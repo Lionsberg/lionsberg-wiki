@@ -598,7 +598,7 @@ The Earth’s resources are not commodities—they are commons, belonging to all
 
 #### **88. The Prototype**
 
-The journey to global transformation begins with localized prototypes—living examples of regenerative systems and communities. These prototypes serve as beacons, demonstrating what is possible and inspiring widespread adoption of solutions that work. The [[Lionsberg Integrated Delivery System]] calls for these local patterns of success to be pushed up and curated into an interoperable [[Kit of Parts]] called [[The Prototype]]. In this Way, [[The Prototype]] learns from every local instantiation, and can subsequently be "downloaded", localized, and adapted relatively simultaneously and polycentrically around the planet. 
+The journey to global transformation begins with localized prototypes—living examples of regenerative systems and communities. These prototypes serve as beacons, demonstrating what is possible and inspiring widespread adoption of solutions that work. The [[LIONSBERG Integrated Delivery System]] calls for these local patterns of success to be pushed up and curated into an interoperable [[Kit of Parts]] called [[The Prototype]]. In this Way, [[The Prototype]] learns from every local instantiation, and can subsequently be "downloaded", localized, and adapted relatively simultaneously and polycentrically around the planet. 
 
 ---
 
@@ -616,7 +616,7 @@ Power and resources must flow to where they are most needed. Optimal decentraliz
 
 #### **91. Forging and Federating Teams**
 
-Collaboration is the heart of co-creation. Forging strong teams and federating them into networks of mutual support accelerates innovation, amplifies impact, and weaves a fabric of resilience that transcends individual efforts. [[Teams]] engaged in [[Seasonal Quests]] that [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]] is the heart of the [[Lionsberg Integrated Delivery System]]. 
+Collaboration is the heart of co-creation. Forging strong teams and federating them into networks of mutual support accelerates innovation, amplifies impact, and weaves a fabric of resilience that transcends individual efforts. [[Teams]] engaged in [[Seasonal Quests]] that [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]] is the heart of the [[LIONSBERG Integrated Delivery System]]. 
 
 ---
 
@@ -628,7 +628,7 @@ Transformation is not a sprint—it is a cyclical journey. [[Seasonal Quests]] a
 
 #### **93. Integrated Program Delivery: Aligning Energy, Resources, and Action**
 
-Fragmentation weakens progress; integration strengthens it. By aligning energy, resources, and action across systems and scales, humanity can achieve breakthroughs that resonate globally while remaining rooted in local realities. The [[Lionsberg Integrated Delivery System]] and [[System Wide Master Planning Process]] ensures that this alignment is both intentional and fractal, maintaining harmony across the Whole while honoring local diversity.
+Fragmentation weakens progress; integration strengthens it. By aligning energy, resources, and action across systems and scales, humanity can achieve breakthroughs that resonate globally while remaining rooted in local realities. The [[LIONSBERG Integrated Delivery System]] and [[System Wide Master Planning Process]] ensures that this alignment is both intentional and fractal, maintaining harmony across the Whole while honoring local diversity.
 
 At the heart of this process are [[Seasonal Quests]], iterative cycles of action, reflection, and story telling that [[Stack Up And Align]] individual, local, and collective efforts to produce measurable [[Throughput]] of [[The Goal]] for [[All]]. This approach weaves the contributions of every participant into a cohesive and ever-evolving tapestry, where each thread strengthens the fabric of humanity’s regenerative future.
 

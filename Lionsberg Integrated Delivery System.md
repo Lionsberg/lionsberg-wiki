@@ -1,4 +1,4 @@
-# Lionsberg Integrated Delivery System
+# LIONSBERG Integrated Delivery System
 
 The Lionsberg Integrated Delivery System (Lionsberg IDS) is Way for individuals, organizations, and communities to transform their energy and action into a _Goal Delivery System._ 
 

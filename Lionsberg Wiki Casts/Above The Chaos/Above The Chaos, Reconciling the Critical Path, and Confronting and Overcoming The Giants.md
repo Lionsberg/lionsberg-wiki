@@ -233,7 +233,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 #### Intentionally Inflicted Darkness 
 
-- We have explored in other places such as [[The Book of Lionsberg]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
+- We have explored in other places such as [[The Book of LIONSBERG]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
 - It appears that the [[Invisible Power Structures]] operating behind the Roman Empire and Catholic Church intentionally co-opted, distorted, and destroyed to the best of their ability those shoots of enlightenment, and intentionally threw humanity into a millennium and a half of Darkness. 
 - Mathematics constitutes human mind’s most cosmically powerful faculty.
 - It seems clear that between 200 B.C.  and 200 A.D. a deliberately planned policy was adopted by the combined supreme political and religious power structure of that period, which undertook the conditioning  of the human reflexes to misconceive and mis-see (or  mostly not see at all) the macro-micro-cosmic systems in  which we live. 
@@ -621,7 +621,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - Only the computer can cope with the astronomical complexity of integrating the unpredicted potentials of the millions of invisible technology gains in physical capabilities already accomplished. 
 - Only world-considerate computer accounting will be able to produce the figures that will persuade all humanity  to divert [[High Science Technology]] [[FROM Weaponry TO Livingry]].  
 - Computer accounting and computing capability will clearly manifest that we indeed now have ten billion real-wealth billionaires. (All Humanity). 
-- Human-Computer capability will distribute… credit cards to all humanity… whose constant living, travel, and development use will continually integrate all the production starts and holds on world-wide coordinated supplying of the needs of a world-around dynamically dwelling humanity, via the [[Lionsberg Integrated Delivery System]]. 
+- Human-Computer capability will distribute… credit cards to all humanity… whose constant living, travel, and development use will continually integrate all the production starts and holds on world-wide coordinated supplying of the needs of a world-around dynamically dwelling humanity, via the [[LIONSBERG Integrated Delivery System]]. 
 - The Decentralized Human-Computer capacity will allocate and optimize all physical substances to their uniquely best functional uses, calculated relative to [[Throughput]] of [[The Goal]].  
 - The computer Time Energy [[Accounting Switchover]] is not only possible  but mandatory and must be accomplished before the fear and ignorance of the billions of humans involved in the power structure’s bureaucracies panic and push the atomic-bomb and weaponized [[Artificial Intelligence]] release buttons as World War III escalates. 
 - What makes us say “panic” of the major political, religious, economic, and social bureaucracies? 
@@ -665,7 +665,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 	- With a transitional plan consisting, potentially, of an interlinked and interoperable  network of [[Small Modular Nuclear Reactors]] and [[Waste To Energy]] Plasma technologies that provide virtually free, abundant, clean energy to every family on the planet. 
 	- The [[Transitional Plan]]  is implemented that ensure that historic wasteful and harmful technologies are scaled down, and regenerative [[New]] technologies scaled up, in an intelligent, phased, and responsible manner that does not destabilize existing [[Supply Chains]].  
 - The concerns around [[Fossil Fuels]] and [[Carbon]] should be mitigated by the understanding that humanity presently wastes 90 to 95 of every 100 units of Energy it generates, in an economy where the vast majority of Activity creates [[Waste]] rather than [[Value]]. 
-- The [[Lionsberg Integrated Delivery System]] will progressively expose and eliminate this [[Waste]] enabling the spontaneous and decentralized Co-Creation of a completely regenerative economy, fueled by regenerative energy sources, within a single generation.  
+- The [[LIONSBERG Integrated Delivery System]] will progressively expose and eliminate this [[Waste]] enabling the spontaneous and decentralized Co-Creation of a completely regenerative economy, fueled by regenerative energy sources, within a single generation.  
 
 #### Energy Interlinking and Interoperability 
 
@@ -692,7 +692,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 ### Beyond Corruptible Currencies - The Time Energy Value System
 
 - The integration of the world electric grid, and the delivery of energy to All at One Common Rate may make possible a **world-around uniform costing and pricing system for all goods and services** based realistically on the time-energy metabolic accounting system of Universe. 
-- In this **cosmically uniform, common energy-value system for all humanity**, costing will be expressed in kilowatthours, watt-hours, and watt-seconds of work being performed throughout the [[Lionsberg Integrated Delivery System]].  
+- In this **cosmically uniform, common energy-value system for all humanity**, costing will be expressed in kilowatthours, watt-hours, and watt-seconds of work being performed throughout the [[LIONSBERG Integrated Delivery System]].  
 - Kilowatthours will likely become the prime criteria of costing the production of the complex of metabolic involvements per each function or item needed or desired by humanity. 
 - These **uniform energy valuations** will replace all the world’s wildly intervarying, opinion-gambled-upon, top-power-system-manipulatable monetary systems. 
 - The time-energy world accounting system will do  away with all the inequities now occurring in regard to the arbitrarily maneuverable international shipping of goods  and the top economic power structure’s banker-invented, international balance-of-trade accountings.  

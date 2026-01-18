@@ -184,7 +184,7 @@ Transforming Individuals can then forge or join [[First Degree Groups]] with oth
 
 In general, [[First Degree Groups]] must be and become [[Self-Governing, Self-Sustaining, and Self-Replicating]], drawing strength from The Movement / The Body / The System / The Commons to facilitate their emergence, development, and success, while [[Tithing]] back the first 1/10th of their available flow of time, resources, and attention to strengthen [[The Whole]]. 
 
-While the first 1/10th of available [[Flow]] is Tithed to strengthen The Commons and The Whole for all current and future generations, 90% of Time, Energy, Attention, and Resources are focused on local [[Quarterly Quests]] undertaken by [[Sovereign]] and [[Autonomous]] Teams. [[Every Quest is a Project]], and [[Quests Are Undertaken By Teams]] (Teams / Groups used here synonymously). 
+While the first 1/10th of available [[Flow]] is Tithed to strengthen The Commons and The Whole for all current and future generations, 90% of Time, Energy, Attention, and Resources are focused on local [[Quarterly Quests]] undertaken by [[Sovereign]] and [[Autonomous]] Teams. [[Every Quest is a Project]], and [[Quests Are Undertaken By Circles]] (Teams / Groups used here synonymously). 
 
 These three basic units form the basis of how [[The System]] is voluntarily and fractally instantiated from the [[Bottom Up]]: 
 
@@ -1686,7 +1686,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 ### Rule of Law 
 
 1. We reestablish, Value, and uphold [[The Rules]] of [[The Game]]  
-2. We [[Break The Rules In Order To Do What Is Right]]  
+2. We [[Break The Rules In Order To Do The Wise Right Thing]]  
 3. We ensure that all citizens have knowledge of their foundational [[Rights and Responsibilities]]  
 4. We ensure that all citizens have equal access to Systems of Justice  
 5. We ensure that all citizens have equal access to Representation 

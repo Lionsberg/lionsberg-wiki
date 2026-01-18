@@ -58,7 +58,7 @@ We have instantiated an innovative hybrid legal and governance structure capable
 The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Community]], and [[Doing]] in an effective way through the [[LIONSBERG System]]  
 
 - [[LIONSBERG System]]  
-- [[Lionsberg Integrated Delivery System]]  
+- [[LIONSBERG Integrated Delivery System]]  
 - [[Lionsberg Integrated Delivery Guide]]  
 
 

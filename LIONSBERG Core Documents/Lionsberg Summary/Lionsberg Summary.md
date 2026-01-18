@@ -6,11 +6,11 @@
 
 [[The Story of LIONSBERG]] provides the narrative context. 
 
-The [[Lionsberg Manifesto]] lays out the call to action. 
+The [[LIONSBERG Manifesto]] lays out the call to action. 
 
 [[LIONSBERG - History, Inception, and Trust Manifesto]] traces the idea of Lionsberg back to its origins. 
 
-The [[The Lionsberg System of Values]] articulates the Spirit and Values that guide us.  
+The [[The LIONSBERG System of Values]] articulates the Spirit and Values that guide us.  
 
 [[The Lionsberg Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
 
@@ -28,7 +28,7 @@ The [[Above The Chaos]] series follows the unfolding in real time.
 
 The [[Lionsberg Invitation]] can be shared to [[Pass The Flame]] and invite the wise right next people to [[Join The Movement]]. 
 
-The [[The Lionsberg Co-Creator's Handbook]] can help get you up to speed once you join. 
+The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
 
 The [[LIONSBERG Lexicon]] is a starting point for redeveloping a shared language.  
 

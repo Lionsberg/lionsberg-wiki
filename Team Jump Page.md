@@ -7,7 +7,7 @@
 - [[Lionsberg Wiki Blogs]]
 - [[Groups]]
 - [[Meetings]]
-- [[The Book of Lionsberg|The Book Of Lionsberg]]
+- [[The Book of LIONSBERG|The Book Of Lionsberg]]
 - [[The Way]]
 
 Some people call jump pages [[Maps of Content]]. 

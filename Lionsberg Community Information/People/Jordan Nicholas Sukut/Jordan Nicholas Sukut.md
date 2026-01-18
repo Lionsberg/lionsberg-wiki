@@ -16,7 +16,7 @@ If [[Jordan's Short Story]] is True, your life and loved ones are in grave dange
 
 ## Links  
 
-- Jordan's Writing - [[Above The Chaos]], [[Lionsberg Wiki Books]], and thousands of pages on the [[Lionsberg Wiki]]      
+- Jordan's Writing - [[Above The Chaos]], [[Lionsberg Wiki Books]], and thousands of pages on the [[LIONSBERG Wiki]]      
 - Jordan's Short Story - [[Jordan's Short Story]]  
 - YouTube - [Jordan's YouTube](https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w)    
 

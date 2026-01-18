@@ -164,7 +164,7 @@
 - [[One of a Thousand Letters Lining the Wastebasket]]  
 - Updates to [[LIONSBERG]]  
 - Updates to [[Lionsberg Summary]]  
-- Updates to [[The Lionsberg Co-Creator's Handbook]]  
+- Updates to [[The LIONSBERG Co-Creator's Handbook]]  
 - [[Tracking Loose Threads (January 2025)]]  
 - [[The Fibonacci Unfolding Model]]  
 - [[Lionsberg Cycles of Growth]]  
@@ -334,7 +334,7 @@
 - **Above The Chaos Podcast Episode 2** is live - [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
 - **Above The Chaos Podcast Episode 1** is live - [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
 - Update to - [[Lionsberg Wiki Books]]  
-- Progress published - [[The Book of Lionsberg]]  
+- Progress published - [[The Book of LIONSBERG]]  
 - New Wikibook published - [[Jordan's Voice Notes]]    
 - New Wikibook published - [[The Way of God]]   
 - New Wikibook published - [[An Alternative to Apocalypse - The New Covenant]]  
@@ -465,7 +465,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 ## June 2022
   
 - [[Above The Chaos, Hello World]]    
-- The [[Lionsberg Wiki]] comes online. Over the next 36 months, a transformative Library of thousands of interlinked articulations emerge.  
+- The [[LIONSBERG Wiki]] comes online. Over the next 36 months, a transformative Library of thousands of interlinked articulations emerge.  
 
 ## 2022 
 

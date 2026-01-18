@@ -1,6 +1,6 @@
 # The What And Why Of The Program
 
-The Program Objective - the answer to the question “why build anything" - was defined by the [[Receiver]] in the [[Meta Project Program Statement]], and in a more comprehensive way in the [[The Book of Lionsberg]]. This longer document lays out the Receiver’s initial attempt to forge a complete historical and philosophical understanding of [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it matters. 
+The Program Objective - the answer to the question “why build anything" - was defined by the [[Receiver]] in the [[Meta Project Program Statement]], and in a more comprehensive way in the [[The Book of LIONSBERG]]. This longer document lays out the Receiver’s initial attempt to forge a complete historical and philosophical understanding of [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it matters. 
 
 **_The Program is intended to encompass the total [[Program of Action]] required to get FROM [[Where We Are]], TO [[Where We Are Going]]._** 
 

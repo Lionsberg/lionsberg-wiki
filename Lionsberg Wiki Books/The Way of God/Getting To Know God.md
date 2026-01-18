@@ -24,7 +24,7 @@ Shu, Ha, and Ri relate to levels of [[Mastery]] in a learning system designed to
 
 [[Ha]] is the level of the intermediate. At this level, the [[Learner]] begins to intuit and see how the patterns interrelate, and sense the [[Deeper]] hidden principles and synergies. They begin to articulate and propose their own [[Understanding]] of the [[Art And Science]] of the [[Way]] they are learning, and this level often takes them up to their first, second, or third degree blackbelts. At this level, it is very tempting for the [[Learner]] to break away too soon, to arrogantly believe they [[Know]], and begin to do things their own way. They are learning to question. They are beginning to see the oversimplifications and cracks in the elementary teachings and forms. However they do not yet Know the answers. 
 
-Ri is the level of [[Mastery]], through which one discovers that in order to actually embody the [[Spirit]] of the [[Way]], one must continually [[Break The Rules In Order To Do What Is Right]]. 
+Ri is the level of [[Mastery]], through which one discovers that in order to actually embody the [[Spirit]] of the [[Way]], one must continually [[Break The Rules In Order To Do The Wise Right Thing]]. 
 
 From a religious lens, this level of [[Mastery]] can be witnessed repeatedly through the stories of [[Jesus]], who constantly violated the strict rules and teachings of the religious order of his day in order to manifest [[Wise Right]] thought, words, and action intuitively from the [[Spirit of God]]. 
 

@@ -21,7 +21,7 @@ A seventy-seven year old poet in Hope Idaho
 
 Over the course of six months  
 J and Lorenzo spent hundreds of hours [[MindWeaving]]  
-While Lorenzo edited the entirety of [[The Book of Lionsberg]]  
+While Lorenzo edited the entirety of [[The Book of LIONSBERG]]  
 
 J mind-mapped many of their dialogues  
 Resulting in the images contained herein  

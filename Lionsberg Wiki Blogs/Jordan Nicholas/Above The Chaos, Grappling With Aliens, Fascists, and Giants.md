@@ -143,7 +143,7 @@ At the General Assembly, we aim to formally ratify the [[10 Year Grand Strategy]
 
 From there, we Aim to spread [[The Message]] as broadly as we can in October, write-in an independent candidate for US President in November if we can [[Pass The Flame]] quickly enough, and then accelerate towards the Milestone of connecting and empowering [[The First Three Percent]] of the population by 2026 on the way to affecting the constitutional transformations that will be required in most nations.  
 
-[[The Lionsberg Strategy and Plan]] has a multitude of additional details, and the [[Lionsberg Co-Creator's Handbook (v.0.1)]] is a resource for those wondering how to get involved and engage. 
+[[The Lionsberg Strategy and Plan]] has a multitude of additional details, and the [[LIONSBERG Co-Creator's Handbook (v.0.1)]] is a resource for those wondering how to get involved and engage. 
 
 Please [[Join The Movement]] to be connected to the rest of the Force For Good, and kept apprised of progress and next steps. 
 

@@ -603,7 +603,7 @@ This domain integrates:
 66. [[LIONSBERG Narrative Universe]]  
 67. [[LIONSBERG Lexicon]]  
 68. [[LIONSBERG System]]  
-69. [[The Lionsberg Co-Creator's Handbook]]  
+69. [[The LIONSBERG Co-Creator's Handbook]]  
 70. [[The Lionsberg Toolkit]]  
 
 
@@ -642,7 +642,7 @@ This domain integrates:
 ## Values 
 
 1. [[Values]] / [[Anti-Values]] 
-2. [[The Lionsberg System of Values]]  
+2. [[The LIONSBERG System of Values]]  
 3. [[Acceptance]]  
 4. [[Accountability]] / [[Functional Accountability]] 
 ## Vision / Aim / Goal 
@@ -711,7 +711,7 @@ This domain integrates:
 44. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]  
 45. [[Domains of Responsibility and Authority]]  
 46. [[Field of Agreements]]  
-47. [[The Lionsberg Co-Creator's Handbook]]  
+47. [[The LIONSBERG Co-Creator's Handbook]]  
 48. [[Constitutional Amendments]]  
 
 ## The Meta Project 
@@ -772,9 +772,9 @@ This domain integrates:
 93. [[Project Management Debt]]  
 94. [[Communication]]  
 95. [[Communication Debt]]  
-96. [[Lionsberg Integrated Delivery System]]  
+96. [[LIONSBERG Integrated Delivery System]]  
 97. [[Integration And Alignment Of Resources And Power]]  
-98. [[The Lionsberg Co-Creator's Handbook]]  
+98. [[The LIONSBERG Co-Creator's Handbook]]  
 
 ## The Elevation Initiative 
 
@@ -819,7 +819,7 @@ This domain integrates:
 [[LIONSBERG Universe(ity)]]  
 [[The Lionsberg Strategy and Plan]]  
 [[LIONSBERG System]]  
-- [[Lionsberg Integrated Delivery System]]  
+- [[LIONSBERG Integrated Delivery System]]  
 
 [[The Seven Steps of Transformation]]  
 [[The Seven Commitments of Every Co-Creator]]  

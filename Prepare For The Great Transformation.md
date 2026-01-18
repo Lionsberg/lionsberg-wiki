@@ -4,7 +4,7 @@ As [[Citizens]] arise and unite to confront and overcome the [[Meta Crisis]], ha
 
 Here are some key steps to prepare for [[The Great Transformation]]:
 
-1.  **Embrace the Values**: Internalize and embody the [[The Lionsberg System of Values]] that underpin the [[LIONSBERG System]] and the [[New Vision and Plan]], using these values to guide your actions, decisions, and interactions.
+1.  **Embrace the Values**: Internalize and embody the [[The LIONSBERG System of Values]] that underpin the [[LIONSBERG System]] and the [[New Vision and Plan]], using these values to guide your actions, decisions, and interactions.
     
 2.  **Cultivate a Growth Mindset**: Embrace a mindset of continuous learning, curiosity, and improvement, seeking out opportunities to expand your knowledge, skills, and perspectives.
     
@@ -28,7 +28,7 @@ Here are some key steps to prepare for [[The Great Transformation]]:
     
 12.  **Participate in The Great Game of Lionsberg**: Actively contribute your unique skills, knowledge, and passion to [[The Great Game of LIONSBERG]], working together with fellow [[Citizens]] to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
     
-13.  **Serve as a Steward and Advocate**: Promote the principles and values of the [[Lionsberg Manifesto]] and the [[New Vision and Plan]] within your sphere of influence, inspiring others to join [[The Movement]] and contribute to the Great Transformation..
+13.  **Serve as a Steward and Advocate**: Promote the principles and values of the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]] within your sphere of influence, inspiring others to join [[The Movement]] and contribute to the Great Transformation..
     
 14. **Spread the World and Help Others Prepare**: [[Spread The Word]] and help and encourage others to prepare. Successfully navigating through the [[Meta Crisis]] and [[The Great Transformation]] requires as many conscious, aware, informed, strong Citizens and Communities as possible. 
     

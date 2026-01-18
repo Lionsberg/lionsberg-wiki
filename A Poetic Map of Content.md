@@ -1,6 +1,6 @@
 # A Poetic Map of Content
 
-As a [[Poet]] reads the [[Lionsberg Wiki]]   
+As a [[Poet]] reads the [[LIONSBERG Wiki]]   
 they will be delighted by what they See   
 For in the Living Land of ***[[LIONSBERG]]***   
 Poetry is a Key   
@@ -23,4 +23,4 @@ As [[Wise Right People]] Resonate and Respond
 The [[Above the Chaos - WikiCast]] hosts their Sacred Song  
 
 From Way up here, [[Beyond]] the [[Old]] Fray,
-[[The Lionsberg Co-Creator's Handbook]] illuminates Our Sacred [[Way]]  
+[[The LIONSBERG Co-Creator's Handbook]] illuminates Our Sacred [[Way]]  

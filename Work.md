@@ -20,6 +20,6 @@ In the [[LIONSBERG System]], Work and our [[Way of Doing]] is not seen as a curs
 
 [[Meaningful Work]] is the positive [[Way]] we develop our [[Selves]] and our [[Society]]. 
 
-The [[Work]] performed by the [[Group Of Groups]] is Aligned through the [[Lionsberg Integrated Delivery System]] so that it produces [[Value]] rather than [[Waste]]. 
+The [[Work]] performed by the [[Group Of Groups]] is Aligned through the [[LIONSBERG Integrated Delivery System]] so that it produces [[Value]] rather than [[Waste]]. 
 
 

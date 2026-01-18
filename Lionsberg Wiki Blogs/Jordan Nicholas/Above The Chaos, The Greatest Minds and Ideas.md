@@ -80,7 +80,7 @@ I would add only to Confucius that knowledge can never be complete until it tran
 [[Good Faith]]  
 [[Poise]]  
 [[Courtesy]] 
-[[The Lionsberg System of Values]] 
+[[The LIONSBERG System of Values]] 
 
 Clear enunciation of the [[Golden Rule]]
 

@@ -5,7 +5,7 @@
 [[LIONSBERG Core Statements]]  
 [[Lionsberg Core Documents]]   
 [[LIONSBERG - History, Inception, and Trust Manifesto]]  
-[[The Lionsberg System of Values]]   
+[[The LIONSBERG System of Values]]   
 [[Provisional Community Agreements]]  
 [[Provisional Code]]  
 [[Provisional Conditions]]  

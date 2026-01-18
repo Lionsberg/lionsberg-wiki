@@ -32,7 +32,7 @@ The entire [[LIONSBERG System]] is constructed as an interoperable [[Kit of Part
 
 The entire [[System]], like any System, is designed to [[Interoperate]] as a unified Whole  to produce [[Throughput]] of its [[Meta Goal|Goal]], which is the wellbeing and flourishing of all. 
 
-The **Lionsberg System of Governance** is inherently designed to interoperate with the [[Lionsberg Economic System]], the [[Lionsberg Community and Culture System]], the [[Lionsberg Integrated Delivery System]], and the [[Lionsberg Integrated Development System]], and other core elements of the System and Structure. 
+The **Lionsberg System of Governance** is inherently designed to interoperate with the [[Lionsberg Economic System]], the [[Lionsberg Community and Culture System]], the [[LIONSBERG Integrated Delivery System]], and the [[Lionsberg Integrated Development System]], and other core elements of the System and Structure. 
 
 ____
 

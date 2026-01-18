@@ -3,7 +3,7 @@
  The Lionsberg System is a powerful holofractal operating system and toolkit designed to support the implementation of the [[New Vision and Plan]]. It includes a wide array of tools, resources, and strategies that empower individuals and communities to take effective action to transform their own lives and the world around them.
 ___
 
-See also [[The Lionsberg Co-Creator's Handbook]]  
+See also [[The LIONSBERG Co-Creator's Handbook]]  
 
 ## I. Introduction
 
@@ -18,7 +18,7 @@ The Lionsberg System is composed of a number of core components, which work toge
 1.  A legal and governance framework to facilitate emergence
 2.  A story big enough to reunite humanity, the [[Living System]], and its [[Source]], and a way for all individuals, tribes, and nations to find their place in it 
 3.  A technological platform to connect and empower individuals, organizations, and communities around the world 
-4.  A [[Lionsberg Integrated Delivery System]] to align, resource and monitor progress towards [[The Goal]] 
+4.  A [[LIONSBERG Integrated Delivery System]] to align, resource and monitor progress towards [[The Goal]] 
 5. A [[Lionsberg Navigation System]] to orient and navigate along the [[Critical Path]] towards [[The Goal]]
 6.  A code to guide behavior in community 
 7. A system of martial, healing, and energetic arts  
@@ -120,7 +120,7 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 	- [[Lionsberg Vision]]  
 	- [[Lionsberg Roadmap]]  
 -   A set of core values and principles to guide the behavior and decision-making of individuals and organizations within Lionsberg, and ensure that they are aligned with the Meta Goal. 
-	- [[The Lionsberg System of Values]]   
+	- [[The LIONSBERG System of Values]]   
 -   A governance structure to facilitate decision-making and resource allocation within Lionsberg, designed to be transparent, accountable, and representative of the community.  
 	- [[Lionsberg System of Governance]] 
 -   A system for continuous learning and improvement, including processes for gathering and analyzing data, as well as mechanisms for sharing knowledge and best practices.

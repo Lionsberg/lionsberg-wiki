@@ -20,7 +20,7 @@ _For reasons discussed below, this process actively reshapes Our Perception of R
 ## Part I - A Basic Attempt At OmniSpection 
 _The ~200 numbered ideas below are intended to create a broad shared starting approximation for participants in [[The Great Game of LIONSBERG]] of Who We Are, Where We Are, Where We Are Going, and Why. It is a provisional [[Map of Reality]], designed to be continuously updated and improved [[In Community]] through the processes of [[MindWeaving]], [[OmniSpection]], and [[Navigating Towards Truth]]._  
 
-_It is approximately True [[As Best We Can Currently Discern]], and We also are humbly aware that [[We Do Not Know]]. Each and every Co-Creator will have their own perspective of Reality and important insights to weave into a shared map that gets more and more accurate of Time as We Navigate Towards Truth In Community. The process of [[Map Weaving]] coupled with the processes outlined below is intended to make this collective [[Sense Making]] more possible._
+_It is approximately True [[As Best We Can Currently Discern]], and We also are humbly aware that [[We Do Not Know]]. Each and every Co-Creator will have their own perspective of Reality and important insights to weave into a shared map that gets more and more accurate of Time as We Navigate Towards Truth In Community. The process of [[Map Weaving]] coupled with the processes outlined below is intended to make this collective [[SenseMaking]] more possible._
 
 ### _A Context of Crisis_
 

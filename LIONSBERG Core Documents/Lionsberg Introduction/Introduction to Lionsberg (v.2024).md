@@ -63,7 +63,7 @@ It is anticipated that individuals, teams, and localities will spend 10 to 20% o
 
 ### 3. Goals, Impact, and Incentives  
 
-The [[Meaningful Work]] we accomplish via the growing [[Team of Teams]] is aligned, measured, and validated by the [[Lionsberg Integrated Delivery System]]. It is designed to eventually be quantified and rewarded via the revolutionary [[Lionsberg Currency]] that fundamentally redefines and aligns the notion of Value beyond the failing fiat currencies. 
+The [[Meaningful Work]] we accomplish via the growing [[Team of Teams]] is aligned, measured, and validated by the [[LIONSBERG Integrated Delivery System]]. It is designed to eventually be quantified and rewarded via the revolutionary [[Lionsberg Currency]] that fundamentally redefines and aligns the notion of Value beyond the failing fiat currencies. 
 
 ### 4. Stories of Transformation 
 

@@ -62,7 +62,7 @@ A comprehensive system of systems, community of community etc.
 ## 6. Logos, Principles, and Values
 
 
-[[The Lionsberg System of Values]]  
+[[The LIONSBERG System of Values]]  
 ## 7. Science and Philosophy
 
 
@@ -157,11 +157,11 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 14. The Book of LIONSBERG 
 
-[[The Book of Lionsberg]]  
+[[The Book of LIONSBERG]]  
 
 ## 13. The LIONSBERG Manifesto 
 
-[[Lionsberg Manifesto]]   
+[[LIONSBERG Manifesto]]   
 ## 13. Introduction to LIONSBERG 
 
 [[Lionsberg Introduction]]   

@@ -1,8 +1,8 @@
-# Lionsberg Manifesto
+# LIONSBERG Manifesto
 
 ## Current Version 
 
-[[Lionsberg Manifesto (2023.10.10)]] 
+[[LIONSBERG Manifesto (2023.10.10)]] 
 
 ## Previous Versions
 

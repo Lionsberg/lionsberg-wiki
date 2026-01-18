@@ -70,7 +70,7 @@ Everything that follows can be accessed in due time
 - [[Federate Everything]]  
 - [[Seasonal OmniSpection]]  
 - [[Dialogos]]  
-- [[SenseMaking Across Scales]]  
+- [[SenseMaking and OmniSpection Across Scales]]  
 - [[Co-Create LIONSBERG Libraries]]  
 - [[Co-Create LIONSBERG Universities]]  
 - [[Continuously Improve Everything]]  

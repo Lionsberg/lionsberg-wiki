@@ -343,7 +343,7 @@ Bucky's Notes
 
 Jordan's Notes 
 
-- The tools and technologies for collective [[Sense Making]] should incorporate both mathematical logic and human discernment and intuition. 
+- The tools and technologies for collective [[SenseMaking]] should incorporate both mathematical logic and human discernment and intuition. 
 - This has been incorporated into the Lionsberg System, Strategy and Plan. 
 ## Beyond School 
 
