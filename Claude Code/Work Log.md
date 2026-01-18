@@ -12,13 +12,13 @@ For strategic program planning, see [[TKTK Program Notes]].
 First working session with Claude Code. Established repository guidance, transformed README.md for maximum resonance with The First Three Percent, and expanded the shower epiphany into a comprehensive project plan for making The Great Game computationally playable.
 
 **Accomplished:**
-- Created CLAUDE.md with comprehensive mission context and repository guidance
-- Transformed README.md from 35% to 93% resonance with awakening population
-- Documented git workflow in plain English (English Language Git.md)
+- Created [[CLAUDE]] with comprehensive mission context and repository guidance
+- Transformed [[README]] from 35% to 93% resonance with awakening population
+- Documented git workflow in plain English in [[English Language Git]]
 - Added comprehensive section on git tags (critical for milestones)
-- Created "How to Use Claude Code.md" for terminal mode usage
-- Expanded "A Program to Play The Great Game.md" from initial epiphany into complete three-phase project plan
-- Updated TKTK Program Notes.md with new project references
+- Created [[How to Use Claude Code]] for terminal mode usage
+- Expanded [[A Program to Play The Great Game]] from initial epiphany into complete three-phase project plan
+- Updated [[TKTK Program Notes]] with new project references
 - Tagged milestone: "after-initial-claude-onboarding"
 
 **Key Decisions:**
@@ -60,9 +60,9 @@ First working session with Claude Code. Established repository guidance, transfo
 - `after-initial-claude-onboarding` - Milestone marking completion of initial setup
 
 **Next Session Considerations:**
-- Begin generating essential plays for The LIONSBERG Playbook (A Item in program notes)
+- Begin generating essential plays for [[The LIONSBERG Playbook]] (A Item in program notes)
 - Consider Phase 1 prototyping for computational reflection project (semantic analysis, pattern extraction)
-- Coordinate The Story of LIONSBERG with other narrative documents
+- Coordinate [[The Story of LIONSBERG]] with other narrative documents
 - Address frequently asked questions by creating new Plays
 
 **Session End Status:**

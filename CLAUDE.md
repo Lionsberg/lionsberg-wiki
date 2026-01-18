@@ -209,6 +209,17 @@ If not, the resonance is too low. Refine until it reaches 90%+.
 - **Bare URLs**: Wrap in angle brackets `<https://example.com/>`
 - **Incipient links**: Links to non-existent pages are encouraged as placeholders
 
+**IMPORTANT: Always use `[[wiki links]]` for internal file references**, not markdown links or file paths with `.md` extensions.
+
+Examples:
+- ✅ "See [[English Language Git]] for git workflow"
+- ✅ "Updated [[TKTK Program Notes]] with new items"
+- ✅ "Documented in [[How to Use Claude Code]]"
+- ❌ "See English Language Git.md for git workflow"
+- ❌ "See `Claude Code/English Language Git.md`"
+
+This maintains Obsidian conventions, creates proper backlinks, and automatically generates correct web links when the site is built.
+
 ### Markdown Style
 
 - Use **dashes** for bullet lists (not asterisks)
