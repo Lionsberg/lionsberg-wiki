@@ -1,5 +1,5 @@
 # TKTK Program Notes
-_Updated 2015-01-18 (Old Time)_  
+_Updated 2015-01-18 (Old Time)_
 
 The purpose of this page is to provide ongoing updates to the current state of [[The Program]] as part of the [[System Wide Master Planning Process]]  
 
@@ -19,7 +19,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ## Current Program 
 
 1. ✅ Complete [[The 7 Year Window of Preparatory Work and Learning]]  
-2. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]] for later editing and AI training   
+2. ✅ Draft 2-3 million words to create a statistically inviolable web of Semantic Content for later editing and AI training   
 	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI  
 3. ✅ Run a few years of social experiments (2021 - 2024)   
 4. ✅ Expose [[The Greatest Fraud, Deception, and Existential Threat in History]] via [[The Great UnVeiling]] (2025)  
@@ -39,7 +39,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
 	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
 8. 🔄 **THE STORY**
-	1. ✅ Revise [[Jordan's Short Story]]  
+	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
 	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
 	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] - these all need to be coordinated and smoothed out.  
@@ -55,7 +55,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 	1. Now that [[THE NAMELESS BOOK]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
 		1. [[The LIONSBERG Playbook]]  
 			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
-			2. Define the most important plays... 
+			2. ⏳Define the most important plays... 
 	
 11. 🔄 **FREQUENTLY ASKED QUESTIONS**
 	1. Respond to [[Frequently Asked Questions]] by creating new Plays. 
@@ -63,7 +63,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 12. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
 		1. Get the Ark livable  
-			1. Register under the church / ecclesia  
+			1. Register under some kind of church / ecclesia  
 				1. On the road by ? 
 	
 13. **STEWARDSHIP** 
@@ -80,9 +80,9 @@ The purpose of this page is to provide ongoing updates to the current state of [
 1. Begin **The Great Game**  
 2. Connect and empower [[The First Three Percent]]  
 
+Easy... 
 
-
-## Fall 2025 Notes 
+## 2025 Notes 
 
 - [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
 - [[The Story of LIONSBERG]] is good enough for now 
