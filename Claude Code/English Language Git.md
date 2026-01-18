@@ -110,6 +110,18 @@ End of work:
 6. Push everything to cloud
 ```
 
+### Marking a Milestone with Tags
+```
+1. Complete a significant piece of work
+2. Stage and commit your changes
+3. Push to cloud: git push
+4. Create a tag: git tag "milestone-name"
+5. Push the tag to cloud: git push --tags
+
+CRITICAL: Tags are NOT pushed automatically!
+You must explicitly run 'git push --tags' to send tags to the cloud.
+```
+
 ### What "Staging" Actually Means
 
 Some people get confused by staging. Here's the deal:
@@ -206,6 +218,13 @@ Good: "restructured introduction for clarity"
 - If you haven't committed: just re-edit the file or use Cmd+Z
 - If you committed but it was wrong: make a new commit that fixes it
 - Don't try to erase history - add to it
+
+### "I created a tag but don't see it in the cloud"
+- **VERY COMMON MISTAKE**: Tags are NOT pushed with `git push`
+- You must explicitly push tags: `git push --tags`
+- Check local tags: `git tag -l`
+- Check if tag is in cloud: look at your GitHub repository tags page
+- Remember: `git push` only pushes commits, not tags!
 
 ## Tags - Marking Important Milestones
 
