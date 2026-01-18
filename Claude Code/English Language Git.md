@@ -207,6 +207,112 @@ Good: "restructured introduction for clarity"
 - If you committed but it was wrong: make a new commit that fixes it
 - Don't try to erase history - add to it
 
+## Tags - Marking Important Milestones
+
+Tags are like bookmarks in your project's history. They let you mark special commits that represent important moments.
+
+### What is a Tag?
+
+**What it means**: "This snapshot is important - give it a memorable name"
+
+**The metaphor**: Like putting a sticky note on a page in your photo album that says "Summer 2024 Trip" or "Before Renovation". Instead of remembering a cryptic commit ID, you have a meaningful name.
+
+**Why use tags**:
+- Mark releases or versions ("v1.0", "v2.0")
+- Mark milestones ("after-initial-setup", "before-major-refactor")
+- Create easy reference points you can return to later
+- Communicate important moments to others (or your future self)
+
+### Creating a Tag
+
+**Command**: `git tag "tag-name"`
+
+**Example**:
+```bash
+git tag "after-initial-claude-onboarding"
+```
+
+This creates a tag at your current commit (wherever HEAD is pointing).
+
+**What happens**:
+- The current commit gets a friendly name
+- The tag is stored locally
+- You can reference this commit by the tag name instead of the commit hash
+
+### Viewing Tags
+
+**List all tags**: `git tag` or `git tag -l`
+
+**See details about a tag**: `git show tag-name`
+
+### Pushing Tags to the Cloud
+
+**Important**: Tags are NOT automatically pushed when you `git push`!
+
+You need to explicitly push tags:
+
+**Push all tags**: `git push --tags`
+
+**Push one specific tag**: `git push origin tag-name`
+
+### Using Tags
+
+Once you've created a tag, you can use it anywhere you'd use a commit hash:
+
+- See what the code looked like at a tag: `git checkout tag-name`
+- Compare current work to a tag: `git diff tag-name`
+- Reference in conversations: "The bug appeared after the 'beta-launch' tag"
+
+### Tag Naming Conventions
+
+**Good tag names**:
+- "v1.0.0" (version numbers)
+- "after-initial-claude-onboarding" (milestone descriptions)
+- "pre-migration" (before major changes)
+- "stable-2024-01-15" (stable points with dates)
+
+**Avoid**:
+- Generic names: "test", "done"
+- Unclear abbreviations
+- Names you won't remember later
+
+### When to Use Tags
+
+**Use tags for**:
+- Completing major milestones
+- Before making risky changes (so you can easily get back)
+- After finishing a significant phase of work
+- Creating versions or releases
+- Marking stable states you might want to reference later
+
+**Don't need tags for**:
+- Every commit (that's what commit messages are for)
+- Minor updates
+- Work in progress
+
+### Tag Example Workflow
+
+```bash
+# You've just finished onboarding Claude Code
+git commit -m "completed Claude Code setup and documentation"
+git push
+
+# Mark this milestone
+git tag "after-initial-claude-onboarding"
+
+# Send the tag to the cloud
+git push --tags
+```
+
+Now you (and others) can always return to this exact moment in your project's history by referencing the tag name instead of trying to find the right commit.
+
+### Tags vs. Commits
+
+- **Commits**: Every snapshot you take (hundreds or thousands)
+- **Tags**: Special labels on important commits (a handful)
+
+Think of commits as every photo in your album, and tags as the photos you've starred or put in a "favorites" collection.
+
 ## Obsidian Git Plugin Shortcuts
 
 The Obsidian Git plugin does these actions for you with keyboard shortcuts:
@@ -214,6 +320,8 @@ The Obsidian Git plugin does these actions for you with keyboard shortcuts:
 - **Cmd+L**: Pull (get latest from cloud)
 - **Cmd+U**: Stage everything + Commit + Push (all in one)
 - **Cmd+S**: Save the current file (not git, but important)
+
+**Note**: The Obsidian Git plugin does NOT automatically create or push tags.
 
 When you hit **Cmd+U**, behind the scenes it's doing:
 1. `git add .` (stage everything)
