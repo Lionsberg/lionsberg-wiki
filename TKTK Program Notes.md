@@ -13,9 +13,10 @@ The purpose of this page is to provide ongoing updates to the current state of [
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki) 
 2. Improve the LIONSBERG Wiki [[Sidebar]]    
 3. [[English Language Git]] is more technical than hoped - work on simplfying  
+4. [[A Program to Play The Great Game]] is interesting 
 
 ### C Items 
-
+- [[Longterm Project - Fixing Broken Links]] is interesting. 
 
 
 ## Current Program 
