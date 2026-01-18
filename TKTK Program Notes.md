@@ -1,28 +1,31 @@
-# TKTK Current Program
-_Updated 10/21/2025 (Old Time)_  
+# TKTK Program Notes
+_Updated 2015-01-18 (Old Time)_  
 
-The purpose of this page is to provide ongoing updates to the current state of [[The Program]] and next steps from the perspective of [[The Nameless One]]  
+The purpose of this page is to provide ongoing updates to the current state of [[The Program]] as part of the [[System Wide Master Planning Process]]  
 
-## Context and Overview
+## Project Backlog / Wishlist 
 
-- At the time of [[J's Death]] We were ~200 days ahead of schedule  
-- In 2025 [[The Great UnVeiling]] was accomplished and thousands of pages published or improved   
-- Around the world, citizens are awakening, protests are happening, [[The Greatest Fraud, Deception, and Existential Threat in History]] is becoming clear  
-- [[Controlled Disclosure]] is accelerating towards its end game ([[Controlled Disclosure Marches Towards Its Peak]])  
-- The next major [[Milestones|Milestone]] on the [[Critical Path]] is the connection and empowerment of [[The First Three Percent]] — nominally by winter solstice 2026 per the elders and logic  
-- The [[Critical Path]] (from the LIONSBERG perspective) *might now run* through [[The LIONSBERG Experience]], [[The Story of LIONSBERG]], and [[The Great Game of LIONSBERG]] — 
-	- Or - that is a waste of time and it has to develop more emergently... 
-- These will be progressively published on the [[LIONSBERG Wiki]]  
-- When the time is right, perhaps early 2026, an essential 250 to 350 page book — a [[Work In Progress]] under the working title [[THE NAMELESS BOOK]] — may be published to bring the minimum viable hard copy into print  
-- In the meantime **[[The LIONSBERG Quick Start Guide]]** provides an easy way for everyone to get going  
+### A Items 
+- Generate the most essential plays for [[The LIONSBERG Playbook]]  
+- Start playing with 1 to 3 groups and feeding The Playbook based on what happens 
 
-# Current Program 
+### B Items 
+1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki) 
+2. Improve the LIONSBERG Wiki [[Sidebar]]    
+3. [[English Language Git]] is more technical than hoped - work on simplfying  
 
-1. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]]  
+### C Items 
+
+## Current Program 
+
+1. ✅ Complete [[The 7 Year Window of Preparatory Work and Learning]]  
+2. ✅ Draft 2-3 million words to create a statistically inviolable web of [[Semantic Content]] for later editing and AI training   
 	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI  
-2. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
-3. ✅ Draft [[The LIONSBERG Quick Start Guide]] - a basic and immediate way for anyone to get moving 
-4. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
+3. ✅ Run a few years of social experiments (2021 - 2024)   
+4. ✅ Expose [[The Greatest Fraud, Deception, and Existential Threat in History]] via [[The Great UnVeiling]] (2025)  
+5. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
+6. ✅ Draft [[The LIONSBERG Quick Start Guide]] - a basic and immediate way for anyone to get moving 
+7. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
 	1. [[The Gates of LIONSBERG]] (out of sequence requires editing)  
 		1. ✅ [[The LIONSBERG Quick Start Guide]]  
 			1. ✅ Leads to [[The Story of LIONSBERG]]  
@@ -35,49 +38,49 @@ The purpose of this page is to provide ongoing updates to the current state of [
 			2. It should be sufficient to build the New Civilization from
 			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
 	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
-5. 🔄 **THE STORY**
+8. 🔄 **THE STORY**
 	1. ✅ Revise [[Jordan's Short Story]]  
-	2. Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
-	3. Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]]  
+	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
+		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
+	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] - these all need to be coordinated and smoothed out.  
 	
-6. 🔄 **THE PLAY**
+9. 🔄 **THE PLAY**
 	1. Invite some people to play 
-		1. Locally  
-		2. Globally  
-		3. Planetary events  
+		1. Locally - our networks  
+		2. Globally - our networks  
+		3. Planetary events with Rick?   
 	2. host one instance of The Game 
 	
-7. 🔄 **THE PLAYBOOK**
+10. 🔄 **THE PLAYBOOK**
 	1. Now that [[THE NAMELESS BOOK]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
 		1. [[The LIONSBERG Playbook]]  
 			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
 			2. Define the most important plays... 
 	
-8. 🔄 **FREQUENTLY ASKED QUESTIONS**
+11. 🔄 **FREQUENTLY ASKED QUESTIONS**
 	1. Respond to [[Frequently Asked Questions]] by creating new Plays. 
 	
-9. **THE ARK** 
+12. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
 		1. Get the Ark livable  
 			1. Register under the church / ecclesia  
 				1. On the road by ? 
-10. **STEWARDSHIP** 
-	1. There is an emergent need to form a church  
+	
+13. **STEWARDSHIP** 
+	1. There is an emergent need to form a church or other similar shared stewardship structure    
 		1. to establish an LLC  
 			1. That can steward the bus and other assets  
-11. **COMMUNICATIONS**
+	
+14. **COMMUNICATIONS**
 	1. Consider setting up another comms server for those who want to collaborate / play / ask questions (Discord?)  
 	2. Draft the next magical update / invitation  
 
-#### 2026 
+#### 2026 Milestones   
 
 1. Begin **The Great Game**  
 2. Connect and empower [[The First Three Percent]]  
 
-## Potential Next Steps 
 
-- Generate the most essential plays for [[The LIONSBERG Playbook]]  
-- Start playing and feeding The Playbook based on what happens 
 
 ## Fall 2025 Notes 
 
@@ -96,7 +99,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 - Drafted [[The LIONSBERG Playbook]]  
 - At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[THE NAMELESS BOOK]]...  
 - With [[The LIONSBERG Experience]] now outlined, and [[The Story of LIONSBERG]] approximated in outline... 
-- Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement  
+- Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement (still needs a lot of work)
 
 # OLD PROGRAMS Sept 2025
 
@@ -162,9 +165,8 @@ _____
 ## The LIONSBERG Playbook
 
 17. **[[The LIONSBERG Playbook]]** ✅ (541 words) (mythic entry)  
-18. **[[Opening Page of The Playbook]]** ✅ (619 words)  
-19. **[[The Architecture of The Playbook]]**  ✅  (632 words)
-20. **[[Table of Contents — The LIONSBERG Playbook]]** ⏳ (in progress - left her with a prompt)
+
+18. **[[The Architecture of The Playbook]]**  ✅  (632 words)
 
 ## The Story of LIONSBERG
 
@@ -376,35 +378,6 @@ ___
 
 
 _____
-
-## TKTK Some Next Steps 
-
-Next Steps: 
-
-1. Draft the personal transmission (pinged AI with the concept Sept 28). 
-2. Figure out minimum viable pages required to launch The Game.  
-3. Figure out how to separate out groups and localities  
-4. Figure out directories  
-5. Figure out comms systems (messaged day)
-6. Continually update [[The LIONSBERG Experience]] page to hold this whole arc  
-
-____
-If you are not ready to play but want to support the rising community of Players, donate. 
-_____
-Quests for all ages and levels of analysis  
-Measuring Effort and Impact, Quantity and Quality of Service  
-Generating LUV
-
-Emergent self-governing trust networks polycentrically... 
-and a process for weaving, cross-validating, converging. 
-____
-
-Define early The LIONSBERG Lexicon  
-The main features of the LIONSBERG Narrative Universe  
-And the primary LIONSBERG Neologisms  
-
-And then introduce these throughout The Game
-    
 
 ### 2. **Survival → Thrival Bridge**
 

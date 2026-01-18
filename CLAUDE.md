@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is the **Lionsberg Wiki** - a collaborative knowledge repository built using **Obsidian** with git-based version control. The wiki is a living document system designed to help co-create a vision of collective transformation, containing formal documentation, books, blogs, and core statements about the Lionsberg system and Meta Project.
+This is the **LIONSBERG Wiki** - a collaborative knowledge repository built using **Obsidian** with git-based version control. The wiki is a living document system designed to help co-create a vision of collective transformation and ultimately a New Civilization, containing formal documentation, books, blogs, and core statements about the LIONSBERG system and Meta Project.
 
 The repository uses Obsidian's markdown-based wiki format with double-bracket `[[wiki links]]` for internal linking. Content is edited locally in Obsidian and committed/pushed to git frequently to maintain snapshots of work. A static website is automatically built via **Massive Wiki Builder** in CI/CD (not run locally).
 

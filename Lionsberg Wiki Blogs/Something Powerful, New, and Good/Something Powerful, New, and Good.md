@@ -58,7 +58,7 @@
 	
 - [[OmniSpection (2025 Season 4)]]  
 	
-- [[TKTK Current Program]]  
+- [[TKTK Program Notes]]  
 	
 - [[We Have Been Thinking...]]  
 	
