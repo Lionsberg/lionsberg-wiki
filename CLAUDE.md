@@ -183,7 +183,7 @@ The Lionsberg Wiki embodies several key principles:
 - **Modularity**: Content is chunked into reusable, linkable pieces
 - **Emergence**: Content evolves through collaborative contribution
 - **Sovereignty**: Individuals maintain autonomy while contributing to the whole
-- **Quality Control**: Architect function ensures system integrity (currently Jordan's role)
+- **Quality Control**: Architect function ensures system integrity (currently Jordan's role)  
 
 ## Special Considerations
 

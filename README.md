@@ -3,17 +3,19 @@
 
 Dear Awakening Soul,
 
-If you've found your way here, it is not by accident.
+At long last you have arrived. 
+
+If you have found your way here, it is not by accident.
 
 You may sense that something is profoundly wrong with the world.  
-You may see the systems collapsing around us.  
+You may see the Old systems collapsing around us.  
 You may feel the urgency—yet struggle to know where to begin.  
 
 **You are not alone.**
 
 Across the planet, millions are awakening to the same truth:  
-The Old World is collapsing by design.  
-A New Civilization must be born.  
+The **Old World** is collapsing by design.  
+A **New Civilization** must be born.  
 And we—together as ONE Body—are the ones called to co-create it.  
 
 **You are beautiful.**  
