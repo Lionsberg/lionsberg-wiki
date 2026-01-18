@@ -192,3 +192,28 @@ The Lionsberg Wiki embodies several key principles:
 - **Obsidian vault**: This is an Obsidian vault (`.obsidian/` config directory)
 - **Massive spell check**: Periodic spell checking is performed (see Pete's Journal)
 - **Page maturity**: Content has lifecycle stages from seed to mature
+- **LIONSBERG capitalization**: Always use "LIONSBERG" in all caps as the standard
+
+## Troubleshooting Common Issues
+
+### Massive Wiki Builder Not Showing Updated Pages
+
+**Symptom**: A page exists locally and in git, but shows "coming soon" or doesn't appear on the published website.
+
+**Common Cause**: MWB CI/CD build process may cache old file states or have case-sensitivity issues, particularly with filename changes (e.g., "lionsberg" vs "LIONSBERG").
+
+**Workaround**:
+1. Rename the file to a temporary placeholder (e.g., "The Story of LIONSBERG.md" → "The Story of X.md")
+2. Commit and push the renamed file
+3. Rename back to the correct filename (e.g., "The Story of X.md" → "The Story of LIONSBERG.md")
+4. Commit and push again
+
+This forces MWB to recognize it as a "new" file and regenerate the page properly.
+
+**Prevention**: When renaming files, especially changing capitalization, be aware that the build process may need this two-step push to fully update.
+
+### Broken Links After Renaming
+
+**Issue**: Renaming pages can break existing wiki links throughout the repository.
+
+**Solution**: See `Claude Code/Longterm Project - Fixing Broken Links.md` for the systematic approach to identifying and fixing broken links.
