@@ -326,7 +326,7 @@ ____
 
 ## Stories   
 
-[[The Story of x]] is [[The Story]] of [[ONE]] and [[All]].  
+[[The Story of LIONSBERG]] is [[The Story]] of [[ONE]] and [[All]].  
 There is no True Story that is not a part of it.  
 
 [[Conscious Agents]] tend to [[Seek Patterns]] and [[Tell Stories]]  

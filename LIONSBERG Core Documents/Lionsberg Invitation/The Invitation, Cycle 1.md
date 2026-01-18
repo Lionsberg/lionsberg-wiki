@@ -37,4 +37,4 @@ With Love, In Community,
 
 ~ J  
 
-[[The Story of x]] 
+[[The Story of LIONSBERG]] 

@@ -103,7 +103,7 @@ To begin, simply **invite** a few people you resonate with to a gathering and **
 1. **[[THE NAMELESS BOOK]]** (opening page - you are here) ~ 7 Min 
 2. **[[The LIONSBERG Quick Start Guide]]** ~ 3 Min   
 3. **[[Prologue to The Story and The Great Game]]** ~ 3 Min   
-4. **[[The Story of x]]** ~ 10 Min  
+4. **[[The Story of LIONSBERG]]** ~ 10 Min  
 5. **[[The Great Game of LIONSBERG]]** ~ 7 Min   
 
 From there, **[[The LIONSBERG Playbook]]** provides guidance on how to co-operate as a highly effective Circle, while eventually aligning into Circles of Circles. 

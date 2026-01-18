@@ -76,7 +76,7 @@ and reveals the part each of us is called to play.
 This is the Genesis Scroll of the New Era—
 the ignition text that bridges myth and reality, heaven and earth.
 
-**[[The Story of x]]**  
+**[[The Story of LIONSBERG]]**  
 
 ---
 

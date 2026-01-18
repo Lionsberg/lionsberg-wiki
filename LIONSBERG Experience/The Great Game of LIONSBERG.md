@@ -2,7 +2,7 @@
 *The Awakening of the Living Gate and the Path to Heaven On Earth*
 
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  
-If you have not already passed through the gates of **[[The LIONSBERG Quick Start Guide]]** and **[[The Story of x]]**  please gather up your Circle and return there first. They are necessary predecessors to the Path below. 
+If you have not already passed through the gates of **[[The LIONSBERG Quick Start Guide]]** and **[[The Story of LIONSBERG]]**  please gather up your Circle and return there first. They are necessary predecessors to the Path below. 
 
 ___
 
