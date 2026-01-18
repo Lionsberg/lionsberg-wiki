@@ -7,7 +7,8 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 ### A Items 
 - Generate the most essential plays for [[The LIONSBERG Playbook]]  
-- Start playing with 1 to 3 groups and feeding The Playbook based on what happens 
+- Start playing with 1 to 3 groups and feeding The Playbook based on what happens  
+- [[The Story of LIONSBERG]] is not linking on the web for some reason... Maybe an issue with caps? 
 
 ### B Items 
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki) 
