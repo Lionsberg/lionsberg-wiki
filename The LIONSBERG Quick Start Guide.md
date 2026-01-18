@@ -84,7 +84,7 @@ Gather. Begin. Play.
     
 - **[[Prologue to The Story and The Great Game]]**  
     
-- **[[The Story of LIONSBERG]]**  
+- **[[The Story of x]]**  
     
 - **[[The Great Game of LIONSBERG]]**  
     

@@ -589,7 +589,7 @@ And We hear the rustling of The Chains...
 And discover those Seeking of a Path towards Liberation...  
 We will simply invite those who are ready to Self-Organize into The Game.  
 
-[[The Story of LIONSBERG]] tells how it happens.  
+[[The Story of x]] tells how it happens.  
 [[The Great Game of LIONSBERG]] is how it is done. 
 [[The 144 Gates of Initiation]] constitute The Great ReFounding Journey. 
 

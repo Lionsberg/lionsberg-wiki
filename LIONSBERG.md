@@ -62,7 +62,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Story 
 
-[[The Story of LIONSBERG]]  
+[[The Story of x]]  
 ## System 
 
 [[Lionsberg System and Approach]]  

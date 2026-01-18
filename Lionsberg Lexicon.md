@@ -32,7 +32,7 @@ As a basic [[Pattern Language]] for the Lexicon, the page for each term should i
 
 ## **🧭 Meta Layer — Foundational Terms (Root Language of Orientation)**
 
-These are the **Root Keys** required to understand and speak [[The Language of LIONSBERG]]. These terms form the primary **Conceptual DNA** of the entire System and Way, and are essential to understanding [[The Story of LIONSBERG]] and playing [[The Great Game]]. Some terms are repeated below under the pillars.  
+These are the **Root Keys** required to understand and speak [[The Language of LIONSBERG]]. These terms form the primary **Conceptual DNA** of the entire System and Way, and are essential to understanding [[The Story of x]] and playing [[The Great Game]]. Some terms are repeated below under the pillars.  
 
 
 

@@ -8,7 +8,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ### A Items 
 - Generate the most essential plays for [[The LIONSBERG Playbook]]  
 - Start playing with 1 to 3 groups and feeding The Playbook based on what happens  
-- [[The Story of LIONSBERG]] is not linking on the web for some reason... Maybe an issue with caps? 
+- [[The Story of x]] is not linking on the web for some reason... Maybe an issue with caps? 
 
 ### B Items 
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki) 
@@ -29,7 +29,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 7. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
 	1. [[The Gates of LIONSBERG]] (out of sequence requires editing)  
 		1. ✅ [[The LIONSBERG Quick Start Guide]]  
-			1. ✅ Leads to [[The Story of LIONSBERG]]  
+			1. ✅ Leads to [[The Story of x]]  
 				1. ✅ Leads to [[The Great Game of LIONSBERG]]  
 					1. ✅  Leads to [[The LIONSBERG Playbook]]  
 	2. ✅  Working Title: [[THE NAMELESS BOOK]]  - perhaps merge with the above  
@@ -43,7 +43,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
 	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
-	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] - these all need to be coordinated and smoothed out.  
+	3. 🔄 Weave into [[The Story of x]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] - these all need to be coordinated and smoothed out.  
 	
 9. 🔄 **THE PLAY**
 	1. Invite some people to play 
@@ -86,7 +86,7 @@ Easy...
 ## 2025 Notes 
 
 - [[README]] now leads to [[The LIONSBERG Quick Start Guide]]  
-- [[The Story of LIONSBERG]] is good enough for now 
+- [[The Story of x]] is good enough for now 
 - [[The Great Game of LIONSBERG]] is good enough for now 
 - [[The LIONSBERG Playbook]] needs to be co-created as we play 
 - Articulated [[The LIONSBERG Cycle of Cosmic Co-Creation]]  
@@ -95,11 +95,11 @@ Easy...
 - Consider how to finalize [[The 144 Gates of Initiation]]  
 	- Starting by drafting the Threshold to each Movement, which finalizes the structure of each of The Gates and writes The Story 
 	- From there articulate the Pattern for each Gate and then draft each gate
-- Drafted [[The Story of LIONSBERG]]  
+- Drafted [[The Story of x]]  
 - Drafted [[The Great Game of LIONSBERG]]  
 - Drafted [[The LIONSBERG Playbook]]  
 - At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[THE NAMELESS BOOK]]...  
-- With [[The LIONSBERG Experience]] now outlined, and [[The Story of LIONSBERG]] approximated in outline... 
+- With [[The LIONSBERG Experience]] now outlined, and [[The Story of x]] approximated in outline... 
 - Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement (still needs a lot of work)
 
 # OLD PROGRAMS Sept 2025
@@ -172,7 +172,7 @@ _____
 ## The Story of LIONSBERG
 
 - Stepped back from The Playbook to look at The Story as the container of the entire experience.  
-- Rearchitected [[The Story of LIONSBERG]] ✅
+- Rearchitected [[The Story of x]] ✅
 
 ______
 
@@ -344,7 +344,7 @@ ___
 ⏳ (the highest and deepest architecture — theology, metaphysics, law, cosmic blueprint)
 
 - **[[The LIONSBERG Narrative Universe]]**
-	- **[[The Story of LIONSBERG]]**  
+	- **[[The Story of x]]**  
 	- [[The Chronicles of Lionsberg]]  
 	- **[[The Book of LIONSBERG]]**  
 		- Metaphysics

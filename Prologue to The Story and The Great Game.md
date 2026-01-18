@@ -137,5 +137,5 @@ choose the bridge over the collapse—
 and cross together as ONE Body.
 
 For all who resonate  
-Step onward into **[[The Story of LIONSBERG]]**  
+Step onward into **[[The Story of x]]**  
 And then begin **The Great Game**  

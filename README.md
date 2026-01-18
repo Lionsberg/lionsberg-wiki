@@ -13,4 +13,4 @@ You belong
 
 **Welcome Home**  
 
-**[[THE NAMELESS BOOK]]** will show you the Way   
+**[[THE NAMELESS BOOK]]** is being drafted as a simple guide to show the Way towards **Heaven On Earth**. 

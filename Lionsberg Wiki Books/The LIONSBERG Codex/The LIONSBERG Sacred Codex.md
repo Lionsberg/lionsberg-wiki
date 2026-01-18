@@ -9,7 +9,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 - **[[The LIONSBERG Narrative Universe]]**
     
-	- **[[The Story of LIONSBERG]]**  
+	- **[[The Story of x]]**  
         
 	- **[[The Chronicles of Lionsberg]]**  
         

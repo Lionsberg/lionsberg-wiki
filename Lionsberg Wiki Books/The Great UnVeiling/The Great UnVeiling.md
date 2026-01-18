@@ -1,6 +1,6 @@
 # The Great UnVeiling
 
-_In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIONSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
+_In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of x]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
 ## Part I: [[The Theses of The Great UnVeiling]]  
 
 ## Part II: The Great UnVeiling Book  
@@ -117,7 +117,7 @@ But its real purpose is to open the Gates of the New.
 
 The unfinished notes, structures, and arcs of this book were not abandoned. They are being absorbed, transmuted, and reborn within a greater container:
 
-**[[The Story of LIONSBERG]].**
+**[[The Story of x]].**
 
 Where _The Great UnVeiling_ ends, _The Story of LIONSBERG_ begins.
 
@@ -144,7 +144,7 @@ The Story of LIONSBERG now begins.
 
 ---
 
-👉 **Continue to: [[The Story of LIONSBERG]]**
+👉 **Continue to: [[The Story of x]]**
 
 # Unfinished Notes and Chapters
 

@@ -72,7 +72,7 @@ It will be here waiting when you are ready.
 ____
 While its true history stretches out into the stars and back into time immemorial, the **[[LIONSBERG - History, Inception, and Trust Manifesto]]** shares a broad overview of LIONSBERG's incarnation and adaptation to English and Earth through the life and work of [[Jordan Nicholas Sukut]] and a planetary+ network of allies. 
 
-**[[Jordan's Short Story]]** is a relational bridge for those who knew him or are curious about his life, work and death.  
+**[[Jordan's Short Story]]** is a relational bridge for those who knew him or are curious about his life, work, and death.   
 
 This **Nameless Book** is our ongoing attempt to simplify and reduce the ~3 million words **[[J's Death]]** left behind into an immediately understandable and actionable form for those of us who would like to continue to build upon this invaluable and irreplicable **starting point**. From here everything is built to emerge, evolve, and transform. 
 
@@ -103,7 +103,7 @@ To begin, simply **invite** a few people you resonate with to a gathering and **
 1. **[[THE NAMELESS BOOK]]** (opening page - you are here) ~ 7 Min 
 2. **[[The LIONSBERG Quick Start Guide]]** ~ 3 Min   
 3. **[[Prologue to The Story and The Great Game]]** ~ 3 Min   
-4. **[[The Story of LIONSBERG]]** ~ 10 Min  
+4. **[[The Story of x]]** ~ 10 Min  
 5. **[[The Great Game of LIONSBERG]]** ~ 7 Min   
 
 From there, **[[The LIONSBERG Playbook]]** provides guidance on how to co-operate as a highly effective Circle, while eventually aligning into Circles of Circles. 

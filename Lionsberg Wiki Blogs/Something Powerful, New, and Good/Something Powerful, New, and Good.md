@@ -30,7 +30,7 @@
 	
 - [[The Great Game Beckons]]  
 	
-- Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIONSBERG]]  
+- Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of x]]  
 	
 - [[Look WithIn]]  
 	
@@ -42,7 +42,7 @@
 	
 - [[The Golden Seed of LIONSBERG]] - work in progress 
 	
-- [[The Story of LIONSBERG]] - work in progress  
+- [[The Story of x]] - work in progress  
 	
 - [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
 	
