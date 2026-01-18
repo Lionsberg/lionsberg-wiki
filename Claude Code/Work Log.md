@@ -30,16 +30,16 @@ First working session with Claude Code. Established repository guidance, transfo
 - **CLAUDE.md placement**: Keep at root level (strategic), not in Claude Code/ (tactical)
 
 **Files Created:**
-- `/CLAUDE.md` - Primary guidance for future Claude instances
-- `Claude Code/How to Use Claude Code.md` - Terminal mode usage guide
-- `Claude Code/English Language Git.md` - Plain-English git explanation
-- `Claude Code/Longterm Project - Fixing Broken Links.md` - Systematic wiki maintenance plan
-- `Claude Code/A Program to Play The Great Game.md` - Comprehensive computational reflection project plan
-- `Claude Code/Work Log.md` - This file
+- [[CLAUDE]] - Primary guidance for future Claude instances
+- [[How to Use Claude Code]] - Terminal mode usage guide
+- [[English Language Git]] - Plain-English git explanation
+- [[Longterm Project - Fixing Broken Links]] - Systematic wiki maintenance plan
+- [[A Program to Play The Great Game]] - Comprehensive computational reflection project plan
+- [[Work Log]] - This file
 
 **Files Modified:**
-- `README.md` - Complete transformation to Gates of LIONSBERG
-- `TKTK Program Notes.md` - Added new project references
+- [[README]] - Complete transformation to Gates of LIONSBERG
+- [[TKTK Program Notes]] - Added new project references
 
 **User Teaching Moments:**
 1. MWB is CI/CD only, not run locally
@@ -48,6 +48,7 @@ First working session with Claude Code. Established repository guidance, transfo
 4. Timeline: We're IN the window, not preparing for it
 5. Git tags must be explicitly pushed with `git push --tags`
 6. "Gather a Small Circle" should be FIRST step in README
+7. Use [[wiki links]] for ALL internal references, including file lists - not markdown links or file paths
 
 **Insights:**
 - The 2.5M word corpus is a "latent program" that can be reflected mathematically/computationally
