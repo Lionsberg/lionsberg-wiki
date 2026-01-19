@@ -2,6 +2,10 @@
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***  
 
+- Started a [[Work Log]] in addition to [[TKTK Program Notes]] as we began work with Claude Code  
+	
+- [[A Program to Play The Great Game]]  
+	
 - [[The LIONSBERG Playbook is Live]]  
 	
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]]  

@@ -41,7 +41,7 @@ For strategic program planning, see [[TKTK Program Notes]].
 - ❌ "Modified `README.md`"
 
 **Capture User Teaching Moments:**
-Every correction Jordan makes is gold. Document:
+Every correction J makes is gold. Document:
 - What was corrected
 - Why it matters
 - How to apply it going forward
