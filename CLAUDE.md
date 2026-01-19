@@ -337,39 +337,45 @@ The wiki is automatically built into a static website using **Massive Wiki Build
 
 ## Documentation & Work Logs
 
-**Maintain continuity across Claude sessions** by documenting work in `Claude Code/Work Log.md`.
+**Maintain continuity across Claude sessions** by documenting work in [[Work Log]].
+
+### Critical Importance
+
+**Each Claude session starts fresh.** Without institutional memory, progress cannot compound. The Work Log preserves:
+- What was done and why (decisions and their context)
+- User corrections and preferences (applied consistently going forward)
+- Session themes (what the work was really about, beyond just tasks)
+- Insights and patterns discovered
+- Next steps and open questions
+
+**This is mission-critical during the 4-year window.** Continuity isn't optional.
 
 ### Work Log Standards
 
-Each work session should be documented in the Work Log with:
+See [[Work Log]] for complete best practices guide.
 
+**Required per session:**
 1. **Date and Session Title** - When and what focus
-2. **Session Summary** - Brief overview of what happened
-3. **Accomplished** - What got done
-4. **Key Decisions** - Why choices were made (context for future sessions)
-5. **Files Created/Modified** - What changed in the repository
-6. **User Teaching Moments** - Corrections or preferences learned from Jordan
-7. **Insights** - Discoveries, patterns, important realizations
-8. **Git Tags** - Any milestone tags created
-9. **Next Session Considerations** - What might come next
-10. **Session End Status** - Current state (committed, pushed, clean, etc.)
-
-### Why This Matters
-
-**Each Claude session starts fresh.** The Work Log creates institutional memory so:
-- Future sessions understand what was done and why
-- Decisions don't get re-debated or unknowingly reversed
-- Progress is visible and trackable
-- User corrections and preferences are captured and applied consistently
-- Context is preserved across the discontinuity of sessions
+2. **Session Summary** - Brief overview
+3. **Accomplished** - What got done (use [[wiki links]])
+4. **Key Decisions** - Why choices were made (critical for context)
+5. **Files Created/Modified** - What changed (use [[wiki links]], not file paths)
+6. **User Teaching Moments** - Corrections, preferences, voice refinements from Jordan
+7. **Session Themes** - What was this session really about? Key patterns, meta-observations
+8. **Insights** - Discoveries, realizations, important learnings
+9. **Git Tags** - Any milestone tags created
+10. **Next Session Considerations** - What might come next
+11. **Session End Status** - Current state (committed/pushed/clean)
 
 ### When to Update
 
-- **During work**: Add notes at natural stopping points
-- **Between tasks**: Document what was just completed before starting next item
-- **End of session**: Final summary before closing (you or Jordan can do this)
+- **During work**: At natural stopping points
+- **Between tasks**: Document completed work before starting next
+- **End of session**: Final summary (you or Jordan)
 
-**The Work Log is tactical execution tracking. TKTK Program Notes.md is strategic program planning. Both are essential.**
+**Be thorough but concise. Capture themes, not minutiae. Focus on what future sessions need to know.**
+
+**The Work Log is tactical execution tracking. [[TKTK Program Notes]] is strategic program planning. Both are essential.**
 
 ## Critical Editing Protocols
 
