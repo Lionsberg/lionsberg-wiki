@@ -84,7 +84,7 @@ and into the New.
 3 to 12 others you resonate with and are inspired by
 
 ### **2. Enter the Story**
-Read **[[THE NAMELESS BOOK]]** - the essential guide showing the Way  
+Read **[[The Nameless Book]]** - the essential guide showing the Way  
 *(30 minutes to begin, lifetime to embody)*
 
 ### **3. Understand Your Role**
@@ -114,7 +114,7 @@ You don't need to wait.
 You simply need to choose.  
 
 Gather a few others who resonate.  
-Read the opening page of **[[THE NAMELESS BOOK]]** together,  
+Read the opening page of **[[The Nameless Book]]** together,  
 and walk through the steps that follow.  
 Begin playing **The Great Game**.  
 Embark on your first **Quest**.  
@@ -135,4 +135,4 @@ Share your **Stories**.
 **The Great Game is alive.**  
 **It is now your move.**  
 
-**Onward to ➡️ [[THE NAMELESS BOOK]]**  
+**Onward to ➡️ [[The Nameless Book]]**  

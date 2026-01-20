@@ -34,7 +34,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 			1. ✅ Leads to [[The Story of LIONSBERG]]  
 				1. ✅ Leads to [[The Great Game of LIONSBERG]]  
 					1. ✅  Leads to [[The LIONSBERG Playbook]]  
-	2. ✅  Working Title: [[THE NAMELESS BOOK]]  - perhaps merge with the above  
+	2. ✅  Working Title: [[The Nameless Book]]  - perhaps merge with the above  
 		- Lost interest / direction on this 
 		1. Criteria 
 			1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
@@ -55,7 +55,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 	2. host one instance of The Game 
 	
 10. 🔄 **THE PLAYBOOK**
-	1. Now that [[THE NAMELESS BOOK]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
+	1. Now that [[The Nameless Book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
 		1. [[The LIONSBERG Playbook]]  
 			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
 			2. ⏳Define the most important plays... 
@@ -100,7 +100,7 @@ Easy...
 - Drafted [[The Story of LIONSBERG]]  
 - Drafted [[The Great Game of LIONSBERG]]  
 - Drafted [[The LIONSBERG Playbook]]  
-- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[THE NAMELESS BOOK]]...  
+- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[The Nameless Book]]...  
 - With [[The LIONSBERG Experience]] now outlined, and [[The Story of LIONSBERG]] approximated in outline... 
 - Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement (still needs a lot of work)
 

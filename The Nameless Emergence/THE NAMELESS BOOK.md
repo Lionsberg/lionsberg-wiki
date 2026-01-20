@@ -1,6 +1,6 @@
-# **THE NAMELESS BOOK**
-_By **[[The Nameless One]]**_
-##### **_What Must Be Remembered to Reimagine, Redesign, and Rebuild the World_**  
+# **the nameless book**
+_by **[[The Nameless One]]**_
+##### **_what must be remembered to reimagine, redesign, and rebuild the world_**  
 ____
 _This is a **[[Work In Progress]]**_   
 Key **[[Word Tools]]** are defined in **[[The Lionsberg Lexicon]]**  
@@ -100,7 +100,7 @@ For now, the crucial first step is to begin.
 
 To begin, simply **invite** a few people you resonate with to a gathering and **read aloud** the following five pages. A 90 minute gathering will allow for about 30 minutes of reading, and 60 minutes of dialogue and sensemaking to discern next steps.  
 
-1. **[[THE NAMELESS BOOK]]** (opening page - you are here) ~ 7 Min 
+1. **[[The Nameless Book]]** (opening page - you are here) ~ 7 Min 
 2. **[[The LIONSBERG Quick Start Guide]]** ~ 3 Min   
 3. **[[Prologue to The Story and The Great Game]]** ~ 3 Min   
 4. **[[The Story of LIONSBERG]]** ~ 10 Min  
