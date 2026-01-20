@@ -107,12 +107,31 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
   - Templates from actual experience
   - Continuously refined based on what works
 
-### Invitation Materials (In Development)
-- **The Nameless One-Pager** - Quick orientation to the instance
-- **Personal Invitation Letter** - For J's network and existing relationships
-- **Circle Prototype Brief** - How the Martial Arts Circle works
-- **Local Prototype Brief** - How The North Idaho 300 works
-- **Universal Instance Brief** - How distributed coordination works
+### Invitation Materials
+- **[[the nameless emergence - one pager]]** - Quick orientation (~1 page)
+  - High-level overview for rapid onboarding
+  - Three levels, timeline, participation pathways
+
+- **[[personal invitation letter - j's network]]** - For those who knew J
+  - Transparent about what happened
+  - Three clear participation options
+  - Ensures no one involuntarily left behind
+
+### Prototype Briefs
+- **[[circle prototype brief - martial arts]]** - Specialized practice circles
+  - Weekly structure and commitments
+  - Demonstrating pattern at intimate scale
+  - Replication templates for other specialized circles
+
+- **[[local prototype brief - north idaho]]** - The 300 in community of ~10,000
+  - Circles + guilds + coordinating council
+  - Path to 300 participants by end 2026
+  - Laboratory generating templates for million communities
+
+- **[[universal instance brief]]** - Planetary-scale coordination
+  - Virtual circles and guilds
+  - Geographic-agnostic participation
+  - Path from Cycle 11 to Cycle 40
 
 ---
 
