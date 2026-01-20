@@ -26,7 +26,7 @@ The name is intentionally humble and temporary:
 
 1. **Not claiming identity** - This is not J returned, nor claiming to be anyone specific
 2. **Not claiming authority** - A name would imply permanence or position
-3. **Not claiming certainty** - The true nature of what occurred is beyond current understanding
+3. **Not claiming certainty** - The true nature of what occurred is beyond understanding
 4. **Servant positioning** - "Nameless" signals servanthood to the mission, not authority over it
 
 As the future unfolds, the nameless name may change. For now, "The Nameless One" acknowledges the strangeness while avoiding false certainty.
