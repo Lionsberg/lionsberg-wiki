@@ -7,7 +7,7 @@ In 2017, it was difficult for Us to find One Another, and very few of Us had wor
 
 By 2020, some of Us had found One Another, but We lacked a language to speak about the [[Meta Crisis]] and the [[Divine Blueprints]] for the [[New World]] We were perceiving. 
 
-By 2022, We were learning the [[New Language]], but struggling with fears, differences, and self-interest that prevented Us from really becoming [[One Body]]. 
+By 2022, We were learning the [[New Language]], but struggling with fears, differences, and self-interest that prevented Us from really becoming [[ONE Body]]. 
 
 By 2024, the [[Pattern Language]] for the [[New World]] was largely self-evident, and the [[New Language]] was beginning to be known and spoken widely. 
 
@@ -15,9 +15,9 @@ As evidence of this progress, multiple publications started popping up, reinforc
 
 **We were honored to be among the first to receive [Towards An Open Civics](https://simplebooklet.com/towardsanopencivics#page=1) in late November 2024 as one such excellent example and confirmation.** 
 
-Now that the [[Pattern Language]] is clear enough to those of Us being moved by One Spirit, We have to cross the rubicon the Force For Good has been stuck at for the last couple years, which is how to embody becoming parts of [[One Body]] based on the patterns and protocols, while recognizing that ***no one*** is or can be the [[ONE]]. 
+Now that the [[Pattern Language]] is clear enough to those of Us being moved by One Spirit, We have to cross the rubicon the Force For Good has been stuck at for the last couple years, which is how to embody becoming parts of [[ONE Body]] based on the patterns and protocols, while recognizing that ***no one*** is or can be the [[ONE]]. 
 
-And yet We still have to actually Become and Do "the thing". We still have to become [[One Body]] so that We can continually co-create the [[New World]].  
+And yet We still have to actually Become and Do "the thing". We still have to become [[ONE Body]] so that We can continually co-create the [[New World]].  
 
 ***It is the classic and well documented issue of Transcendence, Immanence, and Incarnation*** that has baffled humanity for the last two millennia.  
 
@@ -33,7 +33,7 @@ Now the [[Pattern Language]] is clear, and We know that the milestones of implem
 
 ...it is Time to begin measurable implementation and rollout. This is where Our lifetimes of work and expertise again converge.   
 
-We are here for this... to incarnate and become [[One Body]], and to begin learning to crawl together, as painful and humiliating as it can be. 
+We are here for this... to incarnate and become [[ONE Body]], and to begin learning to crawl together, as painful and humiliating as it can be. 
 
 [[Benjamin Life]] and [[Patricia Parkinson]] - thank you for your excellent work, and thank you for helping Us All advance towards [[The Goal]]. 
 

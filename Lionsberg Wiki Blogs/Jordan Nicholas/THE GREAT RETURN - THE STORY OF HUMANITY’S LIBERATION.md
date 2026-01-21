@@ -99,7 +99,7 @@ Like water through a failing dam, One led to one, one to two, two to three, thre
 
 ### **𓂀 WITHIN SEVEN YEARS, ALL OF HUMANITY WAS FREE 𓂀**
 
-By the **seventh year**, the Awakening **was complete**, and humanity was advancing Together as [[One Body]] towards [[The Goal]].
+By the **seventh year**, the Awakening **was complete**, and humanity was advancing Together as [[ONE Body]] towards [[The Goal]].
 
 The **Old System was dissolving**, not by war, not by conquest, but by **disuse.**
 

@@ -16,7 +16,7 @@ Whereas [[Jordan]] was willing to do his best to comply with the Old Authorities
 ___
 What that means is that We must ***restructure Our Co-Creation transcendent of every power and authority on Earth***...
 
-...on the basis of ***our spiritual and moral right and duty to co-operate as [[One Body]]*** to meet the needs, solve the problems, and accomplish the goals in whatever domains of SpaceTime We find Our Selves in. 
+...on the basis of ***our spiritual and moral right and duty to co-operate as [[ONE Body]]*** to meet the needs, solve the problems, and accomplish the goals in whatever domains of SpaceTime We find Our Selves in. 
 ___
 Citizens of Goodwill have the inherent right and responsibility under Universal Law (and many [[Local Laws]]) to: 
 

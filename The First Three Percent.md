@@ -45,4 +45,4 @@ The journey for the First Three Percent begins with simple, actionable steps:
 By 2026, the First Three Percent must be united and empowered globally. This timeline is critical as humanity faces accelerating crises.
 
 **Key Role in Passing [[The Final Test]]**  
-The First Three Percent hold the potential to shift humanity’s trajectory. Their alignment, coordination, and courage will determine whether we fragment into chaos or rise together as [[One Body]] to co-create [[Heaven on Earth]].
+The First Three Percent hold the potential to shift humanity’s trajectory. Their alignment, coordination, and courage will determine whether we fragment into chaos or rise together as [[ONE Body]] to co-create [[Heaven on Earth]].

@@ -15,7 +15,7 @@ You may feel the urgency—yet struggle to know where to begin.
 
 Across the planet, millions are awakening to the same truth:  
 The **Old World** is collapsing by design.  
-A **New Civilization** must be born.  
+A **New Civilization** is being born.  
 And we—together as ONE Body—are the ones called to co-create it.  
 
 **You are beautiful.**  
@@ -63,12 +63,12 @@ Billions of lives and centuries to come hang in the balance.
 
 The existing order cannot and should not be saved.  
 A New Civilization must be consciously designed and built  
-**before the Old collapses by design.**
+**before the Old collapses and tyranny reigns by design.**
 
 This requires **[[The First Three Percent]]**—
 ~250 million awakened individuals uniting globally by 2026—  
 to form a planetary grid of empowered local leaders and teams  
-capable of guiding humanity through collapse  
+capable of guiding humanity through **the collapse-ascension nexus**  
 and into the New.  
 
 **[[The Great Game of LIONSBERG]]** has begun.  
@@ -128,9 +128,6 @@ Share your **Stories**.
 
 *At long last you have arrived*
 *In Perfect Divine Timing*
-
-*Fellow reflection of the **[[ONE]]***
-*Dear Mirror of the Divine*
 
 **The Great Game is alive.**  
 **It is now your move.**  

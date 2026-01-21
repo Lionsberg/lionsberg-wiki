@@ -56,7 +56,7 @@ The First Three Percent play a crucial role in resolving the Competition to Save
 - **Model Collaboration**: Demonstrating the power of unity and partnership in their communities.
 - **Bridge Divides**: Connecting disparate groups and fostering alignment around shared goals.
 - **Ignite Synergy**: Catalyzing coordinated efforts that multiply impact rather than dilute it.
-- **Co-Create the New Operating System**: Localizing, adapting, and continuously improving the shared processes, patterns, and protocols that enable co-operation as [[One Body]]. 
+- **Co-Create the New Operating System**: Localizing, adapting, and continuously improving the shared processes, patterns, and protocols that enable co-operation as [[ONE Body]]. 
 
 ---
 

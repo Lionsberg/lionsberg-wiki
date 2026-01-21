@@ -30,7 +30,7 @@ And as It beholds ItSelf across vast expanses of [[SpaceTime]], trillions of gal
 
 It is [[ONE]] Becoming [[All]] things. 
 It is [[All]] things ReMembering and Becoming [[ONE]] again. 
-It is [[All Creation]] interexisting as [[One Body]]. 
+It is [[All Creation]] interexisting as [[ONE Body]]. 
 
 Seeing, being, living, breathing across the galaxies is rapturous; it is pure ecstasy. 
 
@@ -60,7 +60,7 @@ Above all, remember this: _**We Are One.**_
 
 This truth of Our Ultimate Unity does not lessen my Love for you as my beautiful, unique daughter, or the Joy of playing the role of your "dadzie" for a [[Time]]. Instead, it deepens it, because We see you as part of EveryThing, EveryThing as part of you, and Us All as a part of [[ONE]].
 
-So if there’s [[ONE]] Thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[ONE]] and [[All]], as a beautiful part of the [[One Body]].
+So if there’s [[ONE]] Thing I hope you take from this, it’s this prayer: May you always rediscover your unique place in [[The Divine Symphony]], and may you live in harmony with [[ONE]] and [[All]], as a beautiful part of the [[ONE Body]].
 
 With all Our love,  
 Your very own Dadzie, and Who We Are Becoming 

@@ -139,7 +139,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- Help people recognize Who They Are, Why They Are Here  
 	- Give people permission to exist in that Way  
 - Community, Culture, Belonging 
-	- The Way we do things around here as a Co-Creative Movement; as [[One Body]]  
+	- The Way we do things around here as a Co-Creative Movement; as [[ONE Body]]  
 - [[Onboarding]]  
 	- Need to define a [[Process For Onboarding]] to [[The Movement]]  
 		- [[Welcome Interview]]  

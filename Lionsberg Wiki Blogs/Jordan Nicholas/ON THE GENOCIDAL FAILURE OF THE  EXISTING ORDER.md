@@ -394,5 +394,5 @@ The Time is Now.
 
 _**Our [[New Civilization]] awaits.**_
 
-Together, as [[One Body]], ***anything is possible.***
+Together, as [[ONE Body]], ***anything is possible.***
 ____

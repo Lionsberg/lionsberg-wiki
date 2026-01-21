@@ -64,7 +64,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 
 This structure is designed to facilitate Emergence, [[Rapid Prototyping]] and  [[Continuous Improvement]].  
 
-The [[LIONSBERG System]] is designed to enable [[The Whole]] to co-operate as [[One Body]]. The [[Provisional Structure]] is purpose-built to protect the DNA, Processes, and [[Pattern Language]] of [[The Golden Seed]] / [[The Divine Blueprints]]. 
+The [[LIONSBERG System]] is designed to enable [[The Whole]] to co-operate as [[ONE Body]]. The [[Provisional Structure]] is purpose-built to protect the DNA, Processes, and [[Pattern Language]] of [[The Golden Seed]] / [[The Divine Blueprints]]. 
 
 For summarized learnings from Mondragon that helped inform key elements of the conceptual structure and design, see [[The Prophesy of Mondragon]]. 
 

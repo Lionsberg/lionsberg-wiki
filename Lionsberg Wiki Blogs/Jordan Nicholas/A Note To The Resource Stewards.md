@@ -6,13 +6,13 @@ Among the many gifts and responsibilities distributed among the Earth is one ver
 
 Enlightened Beings of Goodwill understand that nothing We "own" is really Ours. 
 
-[[All]] aspects of [[Reality]] are unique parts of [[One Body]], and the energy, attention, and resources temporarily aggregated in any aspect of The Body Ultimately "belong" to the non-dualistic [[ONE]] and [[All]].
+[[All]] aspects of [[Reality]] are unique parts of [[ONE Body]], and the energy, attention, and resources temporarily aggregated in any aspect of The Body Ultimately "belong" to the non-dualistic [[ONE]] and [[All]].
 
 We are born, We accumulate, We distribute, and We return to the dust of [[All]] in [[ONE]]. 
 ____
 The question, responsibility, and accountability is what We do with the resources We are temporarily entrusted with during Our brief Journey through Earth.
 ____
-At present, We are unable to locate a function of the [[One Body]] that effectively distributes resources in the [[Wise Right]] Way. 
+At present, We are unable to locate a function of the [[ONE Body]] that effectively distributes resources in the [[Wise Right]] Way. 
 
 At present, [[Resources, Energy, and Attention]] are distributed in way that is at ~ 90% waste, fueling the accelerating and [[Omnicidal]] destruction of the planet, and the human species and civilization thereon. 
 ___

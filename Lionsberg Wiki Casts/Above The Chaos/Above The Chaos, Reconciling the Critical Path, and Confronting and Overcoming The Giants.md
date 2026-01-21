@@ -26,7 +26,7 @@ Bucky’s insight into the English Empire as the first closed-loop world system,
 
 The [[LIONSBERG System]] is purpose built for this objective. 
 
-Everything else becomes possible as reunite and become [[One Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
+Everything else becomes possible as reunite and become [[ONE Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
 
 Most of the words below are Bucky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. This is the [[Way]] we Co-Create the [[New]]. 
 
@@ -39,7 +39,7 @@ The [[10 Year Grand Strategy]] can be thought of in two parallel streams:
 
 To build [[The Movement]], [[Light Your Candle]], [[Pass The Flame]], and illuminate the Darkness. 
 
-As we become [[One Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. 
+As we become [[ONE Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. 
 
 This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand. 
 

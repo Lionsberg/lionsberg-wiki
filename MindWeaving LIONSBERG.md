@@ -430,7 +430,7 @@ Not understanding that [[The Baptism]] of the [[Old Self]] into [[The Pool]] is 
 
 [[Each One]] of [[The Diverse Many]] emerging out [[The Pool of Coherence]]... 
 With the opportunity to [[Consciously Choose]] is unique Path...  
-As an integrated and cohered aspect of [[One Body]].  
+As an integrated and cohered aspect of [[ONE Body]].  
 
 ## Passing The Flame Between Generations  
 

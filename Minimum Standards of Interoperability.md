@@ -14,7 +14,7 @@ These standards are designed to ensure that all components of the Lionsberg Syst
 
 To meet these minimum standards of interoperability, all component systems must adhere to certain protocols and guidelines for governance, data exchange, communication, and collaboration. They must also be able to integrate with other systems and technologies as needed, and be flexible and adaptable in the face of changing circumstances and evolving Wisdom and discernment.
 
-Overall, the minimum standards of interoperability help to ensure that participants in the Lionsberg System are able to function as a cohesive and integrated whole, while working together as [[One Body]] to  to effectively address the complex and multifaceted challenges facing humanity and the planet.
+Overall, the minimum standards of interoperability help to ensure that participants in the Lionsberg System are able to function as a cohesive and integrated whole, while working together as [[ONE Body]] to  to effectively address the complex and multifaceted challenges facing humanity and the planet.
 
 ____
 For the [[New System]] to function as designed, *something like* the following constitute the basic Minimum Standards of Interoperability. 
@@ -26,7 +26,7 @@ For the [[New System]] to function as designed, *something like* the following c
 5. [[Quarterly Quests]] must be undertaken by [[Teams]].  
 6. Teams may not be smaller than 3 or larger than 16, and [[Should Be]] 5 to 12  
 7. Teams must be [[Self-Governing, Self-Sustaining, and Self-Replicating]]  
-8. To function effectively as [[One Body]], [[Teams]] must co-operate and continuously improve the [[LIONSBERG System]]  
+8. To function effectively as [[ONE Body]], [[Teams]] must co-operate and continuously improve the [[LIONSBERG System]]  
 9. The [[First Tenth]] of [[Flow]] available to each node in [[The Ecosystem]] should be aggregated into [[The Commons]]  
 10. Resources in [[The Commons]] should be allocated in the [[Wise Right]] Way to produce [[Throughput]] of [[The Goal]]. 
 

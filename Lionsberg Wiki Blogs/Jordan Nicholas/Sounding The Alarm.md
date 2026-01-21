@@ -82,7 +82,7 @@ The challenges We face are *at least* planetary in nature, and *by definition an
 
 The billionaires and politicians who pit some group of "us" versus some "them" **are precisely the agents of the kontrolle structure.**
 
-**Humanity can only pass [[The Final Test]] together as [[One Body]].** 
+**Humanity can only pass [[The Final Test]] together as [[ONE Body]].** 
 
 **So what is the solution?** 
 
@@ -166,4 +166,4 @@ None of Us have all the answers. What we do know is this: **Something is profou
 
 We cannot solve this alone. But together, we can rise above the [[Chaos]], rebuild what has been lost and destined, and co-create a flourishing and abundant future for [[All]]. 
 
-Let Us [[All]] arise as [[One Body]] to co-create [[Heaven On Earth]] and Beyond.  
+Let Us [[All]] arise as [[ONE Body]] to co-create [[Heaven On Earth]] and Beyond.  

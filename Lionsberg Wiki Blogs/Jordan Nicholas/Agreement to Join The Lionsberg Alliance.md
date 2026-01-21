@@ -28,7 +28,7 @@ By participating in [[The Alliance]], you affirm your alignment with the princip
 	Members commit to fostering transparency, justice, and shared stewardship of teams, organizations, communities, and resources. No ally is a mere “employee”, nor does any one "own" the labor of others; All are empowered co-creators and co-stewards of their teams and communities, contributing to a wise and democratic framework that reflects the will and wisdom of [[ONE]] and [[All]].  
     
 5. **Minimum Standards of Interoperability**  
-	To function as [[One Body]], The Alliance establishes basic agreements, protocols and practices that enable collaboration and mutual support. These [[Minimum Standards of Interoperability]] ensure that Our diversity strengthens rather than fragments Us.
+	To function as [[ONE Body]], The Alliance establishes basic agreements, protocols and practices that enable collaboration and mutual support. These [[Minimum Standards of Interoperability]] ensure that Our diversity strengthens rather than fragments Us.
     
 6. **Evolution and Growth**  
     The Lionsberg System is a living framework, designed to emerge, evolve and adapt as We co-create Our [[New Civilization]]. By joining, you contribute your unique skills and insights to its continuous refinement, helping it meet the needs of humanity and beyond as [[The Movement]] grows.
@@ -74,7 +74,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 
 ---
 
-_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[One Body]]._
+_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ONE Body]]._
 
 ---
 
@@ -94,7 +94,7 @@ This agreement is not a binding contract but a living covenant—a sacred trust 
 ---
 ### **The First Step**
 
-Humanity’s future depends on what We co-create together. Your journey begins here, with the choice to align as [[One Body]] and unite Our efforts to meet this moment. 
+Humanity’s future depends on what We co-create together. Your journey begins here, with the choice to align as [[ONE Body]] and unite Our efforts to meet this moment. 
 
 Will you walk with Us?
 
