@@ -2,7 +2,7 @@
 
 The [[LIONSBERG System]] co-operates via clearly defined Functional Accountability across [[Levels of Abstraction]] and [[Domains of Responsibility and Authority]]. 
 
-It views the entire Human System and Living System as [[ONE Body]], with each element of the System responsible and accountable for certain [[Functions]] within the System. 
+It views the entire Human System and Living System as [[ONE Bodyx]], with each element of the System responsible and accountable for certain [[Functions]] within the System. 
 
 Each Group, Organization, and Community should develop and continuously update and improve a [[Functional Accountability Chart]]. 
 

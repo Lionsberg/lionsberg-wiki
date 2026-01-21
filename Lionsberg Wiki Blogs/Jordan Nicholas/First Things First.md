@@ -42,7 +42,7 @@ Next is something akin to what humanity presently regards as Spirit.
 
 Next is something akin to what humanity presently regards as Energy. 
 
-Each of these layers of Reality, despite their [[Apparent Individuation]], are unified in the [[ONE]]. All aspects of Reality emerging from Ultimate Reality are identifiable aspects of [[ONE Body]]. While discrete, they are entirely interexistent, and none of them could exist apart from the [[ONE Body]] they are a part of. 
+Each of these layers of Reality, despite their [[Apparent Individuation]], are unified in the [[ONE]]. All aspects of Reality emerging from Ultimate Reality are identifiable aspects of [[ONE Bodyx]]. While discrete, they are entirely interexistent, and none of them could exist apart from the [[ONE Bodyx]] they are a part of. 
 
 The substrate of Consciousness contains All Potentials, All Realities, and All Information. 
 
@@ -86,7 +86,7 @@ At the other end of the spectrum are the smallest and least powerful creatures b
 
 While a fragment of the [[All]]-permeating undifferentiated Spirit, Energy, and Consciousness of the One is still present in every atom and cell of such a being, they are relatively simple and unimposing creatures. 
 
-All plants, trees, rocks, mountains, planets, stars, galaxies, and every other aspect of Creation, at every scale and dimension, are also Living, Conscious, and Interexistent aspects of [[ONE Body]]. 
+All plants, trees, rocks, mountains, planets, stars, galaxies, and every other aspect of Creation, at every scale and dimension, are also Living, Conscious, and Interexistent aspects of [[ONE Bodyx]]. 
 
 Just as humans travel through the vast diversity of ecosystems on Earth and encounter a diverse array of unique life forms in each one, so too is diverse and abundant Life distributed throughout the cosmos from galaxy to galaxy, star system to star system, planet to planet, dimension to dimension. 
 

@@ -6,7 +6,7 @@ Just as advanced beings periodically put them Selves through the discomfort of f
 
 Every aspect of Existence but [[ONE]] is part of a single Living System. 
 
-The Universe of universes co-operates as [[ONE Body]].  
+The Universe of universes co-operates as [[ONE Bodyx]].  
 
 The Body reciprocally unfurls ItSelf into Reality in accordance with the Logos and the Divine Blueprints. 
 

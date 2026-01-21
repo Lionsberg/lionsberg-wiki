@@ -2,7 +2,7 @@
 
 [[In The Beginning]], [[God]] was, is, and will be [[ONE]]: the infinite [[Source]] of [[Consciousness]], [[Spirit]], and [[Life]]; [[The Wellspring]] of [[All]] [[Reality]] and the Ultimate origin and destiny of [[All]] existence. [[God]] is [[Love]], the generative force of [[Co-Creation]], and [[Ultimate Reality]], the [[Ground of Being]], and the framework of [[All]] that is, was, and will be.  
 
-[[All]] Reality is a single [[Living System]]—[[ONE Body]], vast and interconnected—teeming with boundless [[Diversity]] and Ultimate [[Unity]]. This [[Living System]], encompassing [[All]] Universes, Dimensions, and Realms, pulses with life, energy, and purpose. 
+[[All]] Reality is a single [[Living System]]—[[ONE Bodyx]], vast and interconnected—teeming with boundless [[Diversity]] and Ultimate [[Unity]]. This [[Living System]], encompassing [[All]] Universes, Dimensions, and Realms, pulses with life, energy, and purpose. 
 
 Each [[Quanta]] of energy and matter vibrates with [[Life]], rising and falling in an eternal rhythm, manifesting and dissolving, partaking of the [[ONE]] eternal wave function of the [[Universe]]. [[All]] existence is imbued with [[Spirit]], [[Energy]], and [[Consciousness]], woven together in an intricate cosmic dance.
 

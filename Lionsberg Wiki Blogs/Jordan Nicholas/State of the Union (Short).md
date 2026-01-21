@@ -59,6 +59,6 @@ The time has come to act—not in violence, but in consciousness, unity, and cou
 
 Brothers, sisters, and beings of Earth and Beyond, the gears of empire that have ground up humanity's spirit and planet are now grinding to a halt. The prison walls are cracking. The chains are breaking. The flames of Spirit and Truth are rising. We are not merely survivors—we are co-creators. We are not slaves—we are sovereign and free. And we are not lost—we are rediscovering Our Selves, and ReFounding Our Civilization.
 
-Let us rise as [[ONE Body]], not to conquer, but to liberate and empower. Not to tear down, but to transcend and co-create. Not to hate, but to love and forgive. Not to avenge, but to reconcile and redeem. The time is now. The flame is within us. The victory of Heaven on Earth is already written in the stars, waiting only for us to arise and claim it.
+Let us rise as [[ONE Bodyx]], not to conquer, but to liberate and empower. Not to tear down, but to transcend and co-create. Not to hate, but to love and forgive. Not to avenge, but to reconcile and redeem. The time is now. The flame is within us. The victory of Heaven on Earth is already written in the stars, waiting only for us to arise and claim it.
 
 This is our moment. This is our Final Test. And together, we shall pass it and flourish in harmony. 

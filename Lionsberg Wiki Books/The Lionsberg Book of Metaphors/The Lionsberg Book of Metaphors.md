@@ -5,7 +5,7 @@
 3. [[Ark]]  
 4. [[The Golden Seed]]  
 5. [[The Sacred Tree]] / [[Lionsberg Cycles of Growth]] / [[Lionsberg Cycle Time]]   
-6. [[The Body]] / [[ONE Body]]  
+6. [[The Body]] / [[ONE Bodyx]]  
 7. [[Family of God]] / [[Family of Families]]  
 8. [[Tribe Of Tribes]]  
 9. [[The Quest]]  

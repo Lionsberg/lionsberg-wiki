@@ -61,15 +61,14 @@ The imagination, design, and building of a New Civilization must be undertaken w
 
 ***And this is the most significant project in millennia.*** 
 
+## An Enabling System and Approach 
+
+To enable this kind of co-creation, a system is required. 
+
 LIONSBERG is a free open source system, process, and protocol **purpose built to enable this**. There is no central organization to join. There is no one to pay. There is no one to complain to, criticize, or tell you what to do. 
 
-It is simply a **Golden Seed** containing a set of patterns and a Way of being, designing, and building that makes any world that embodies it more like Heaven. It is **a Pattern Language of Heaven**.  
+It is simply a **Golden Seed** containing a set of patterns and a Way of being, designing, and building that makes any world that embodies it more like Heaven. It is **a Pattern Language of Heaven** that can be deployed by any individual, group, or locality that so chooses. 
 
-If it resonates and is useful, it is yours to nurture, improve, and pass on. 
-If not, simply continue on your path.  
-It will be here waiting when you are ready.  
-
-____
 While its true history stretches out into the stars and back into time immemorial, the **[[LIONSBERG - History, Inception, and Trust Manifesto]]** shares a broad overview of LIONSBERG's incarnation and adaptation to English and Earth through the life and work of [[Jordan Nicholas Sukut]] and a planetary+ network of allies. 
 
 **[[Jordan's Short Story]]** is a relational bridge for those who knew him or are curious about his life, work, and death.   
@@ -109,6 +108,8 @@ To begin, simply **invite** a few people you resonate with to a gathering and **
 From there, **[[The LIONSBERG Playbook]]** provides guidance on how to co-operate as a highly effective Circle, while eventually aligning into Circles of Circles. 
 
 **[[Frequently Asked Questions]]** addresses many of the most common questions and concerns. 
+
+**[[the nameless strategy and plan]]** builds upon **[[The Lionsberg Strategy and Plan]]** provides an overview of where we are going in the coming months and years and how we might get there. 
 
 **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** is a thirty minute read that provides important and shocking information on what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces those playing The Game can build upon. **PLEASE READ IT. IT CONTAINS LIFESAVING INFORMATION**. 
 

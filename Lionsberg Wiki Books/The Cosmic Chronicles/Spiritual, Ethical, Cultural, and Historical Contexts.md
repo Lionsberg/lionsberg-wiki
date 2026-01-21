@@ -20,7 +20,7 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
     - **Examples:** Indigenous memories, modern experiences, and teachings with and about the Star People, Vedic descriptions of devas and asuras, biblical descriptions of angels and demons, and the interstellar travels of shamanic traditions.
 3. **The Role of Consciousness:**
     
-    - Consciousness is the key to spiritual evolution. It is the bridge between humanity, NHIs, and Ultimate Reality, enabling direct experience and co-creation as unique parts of [[ONE Body]].
+    - Consciousness is the key to spiritual evolution. It is the bridge between humanity, NHIs, and Ultimate Reality, enabling direct experience and co-creation as unique parts of [[ONE Bodyx]].
 4. **The Great Divide:**
     
     - Humanity’s disconnection from Spirit, Nature, and Self has allowed malevolent forces, such as [[The Fourth Reich]] and [[The Dark Empires]], to manipulate its trajectory. Reconnection with Source and co-creative collaboration with benevolent NHIs is the path to liberation.

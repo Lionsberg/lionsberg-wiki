@@ -40,7 +40,7 @@ By joining [[LIONSBERG]], each member affirm their willingness to embrace these 
 
 ---
 
-_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ONE Body]]._  
+_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ONE Bodyx]]._  
 
 ---
 

@@ -98,7 +98,7 @@ _**[[The Window]] is closing rapidly.**_
 
 We are not afforded the luxury of hesitation. Every action—or inaction—determines whether humanity will ascend into unity and co-creation, or [[Collapse]] further into division and despair. [[The Moment]] is now, and [[The Call]] is clear:
 
-**Will We choose to rise Together as [[ONE Body]] and [[ReMember]] Our shared Destiny?**
+**Will We choose to rise Together as [[ONE Bodyx]] and [[ReMember]] Our shared Destiny?**
 
 ### **The Final Call and Invitation**
 
@@ -126,7 +126,7 @@ The world is shifting beneath Our feet, change is accelerating exponentially, an
 
 While it is True that the [[Existing Order]] is collapsing, this need not be the end. It is the beginning of an entirely [[New Era]] that can be better in every [[Way]] than the [[Old World]] We are leaving behind. 
 
-A once-in-millennia opportunity lies before us: to forge the foundation of a [[New Civilization]] and co-create a future rooted in [[Truth]], [[Wisdom]], and [[Love]]. But We cannot do it alone. It requires [[We The People]], united as [[ONE Body]], harmonized with [[ONE]] and [[All]].
+A once-in-millennia opportunity lies before us: to forge the foundation of a [[New Civilization]] and co-create a future rooted in [[Truth]], [[Wisdom]], and [[Love]]. But We cannot do it alone. It requires [[We The People]], united as [[ONE Bodyx]], harmonized with [[ONE]] and [[All]].
 
 Will you join Us? Will you arise and stand Together for a future worth fighting for?
 

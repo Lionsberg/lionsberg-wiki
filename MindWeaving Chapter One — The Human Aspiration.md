@@ -71,7 +71,7 @@ Emanating from the ONE
 However when We become fully Conscious  
 While cloaked in apparently differentiated mortality  
 That We are already [[Perfectly Imperfect]]  
-Divine Aspects of [[ONE Body]]  
+Divine Aspects of [[ONE Bodyx]]  
 Unfurling ItSelf across the cosmic expanse  
 We glimpse [[The Life Divine]]  
 And open the Potential  
@@ -81,7 +81,7 @@ We [[Realize]] that [[The Path]]
 Is not merely about Our [[Self-Realization]]  
 But about the Self-Realization of the ONE  
 In and through [[Each One]] of the Ones of the ONE —  
-In and through Each of the [[All]] as [[ONE Body]]  
+In and through Each of the [[All]] as [[ONE Bodyx]]  
 And One Ultimately Unified Manifestation of [[God]]  
 
 From this standpoint We perceive  
@@ -376,7 +376,7 @@ For what is [[Evolution]] but the [[Progressive Realization]]
 And the [[Progressive Articulation]]  
 And the [[Progressive Manifestation]]  
 In and through the ONE [[Living System]]  
-Of That which the [[ONE Body]] already Is —  
+Of That which the [[ONE Bodyx]] already Is —  
 The overt and explicit Self Realization  
 Of That which secretly and implicitly  
 Already Is WithIn Us All  

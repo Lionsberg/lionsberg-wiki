@@ -1006,7 +1006,7 @@ Some very religious friends and family in The Bubble actually became sincerely c
 
 ...that this had all happened because we had been deceived by Satan and joined the forces of Darkness without knowing it, and they discussed it openly enough among themselves that the rumors could filter back to us, deepening my wife's torment and confusion. 
 
-As I was expressing a passionate desire for Truth, Justice, and Unity among God's Family as [[ONE Body]] so that we could confront and overcome the corrupt power structures and take back responsibility for governing our Selves, another person deeply bound in a Religious Cave went so far as to openly speculate to others that I might be possessed by the spirit of the Anti-Christ. 
+As I was expressing a passionate desire for Truth, Justice, and Unity among God's Family as [[ONE Bodyx]] so that we could confront and overcome the corrupt power structures and take back responsibility for governing our Selves, another person deeply bound in a Religious Cave went so far as to openly speculate to others that I might be possessed by the spirit of the Anti-Christ. 
 
 Perhaps that was related to concerns swirling in The Bubble that maybe I was being secretly funded by George Soros, Klaus Schwab and the World Economic Forum to implement an evil agenda of one world government. It felt exceedingly surreal to try to reassure The Bubble that I was not being secretly resourced by an Evil Empire. 
 
@@ -1106,7 +1106,7 @@ The [[New Covenant]] of Eternal and Universal Right Relationship between the Cre
 
 In that Deeper Understanding, we are [[All]] United as One. 
 
-In that Deeper Understanding, we are [[All]] moved towards Right Relationship, Right Thought, Right Speech, and Right Action as [[ONE Body]] by One Spirit. 
+In that Deeper Understanding, we are [[All]] moved towards Right Relationship, Right Thought, Right Speech, and Right Action as [[ONE Bodyx]] by One Spirit. 
 
 Whereas the thousands of [[Propositional Idols]] created by humanity over the last millennia were attempts to base Right Relationship on [[Propositional Knowledge]], the [[New Covenant]] is Ultimately Unwritten, and rooted in the Spirit and [[Non-Propositional Knowledge]] of an Ultimately Ineffable God. 
 
@@ -1363,7 +1363,7 @@ The rediscovery of the [[Knowledge of God]] beyond religion swept the Earth like
 
 The second great epiphany from [[The Story]] was that [[All]] things arising from the [[ONE]] were ultimately interconnected and interexistent. 
 
-All things were ultimately [[ONE Body]] of Co-Creation. 
+All things were ultimately [[ONE Bodyx]] of Co-Creation. 
 
 While [[The Song of Creation]] was subtly different in every tribe, those awakening could recognize that the variations were all harmonies in [[ONE]] [[Divine Symphony]]. 
 
@@ -1433,7 +1433,7 @@ As they worked to find out what was Common among their Stories, they discovered 
 
 They began to better understand the concepts of Depth and Degree Of Domain Independence, which in turn Progressively Revealed [[All]] they shared [[In Common]]. 
 
-As they traced the [[Golden Thread]] ever Deeper and Higher, they progressively realized that they were interexisting within One Living System that co-operated according to a set of Universal and Eternal Principles and Patterns as [[ONE Body]]. 
+As they traced the [[Golden Thread]] ever Deeper and Higher, they progressively realized that they were interexisting within One Living System that co-operated according to a set of Universal and Eternal Principles and Patterns as [[ONE Bodyx]]. 
 
 The Highest and Deepest Principles, Patterns, and Values showed up over and over again as the [[Golden Thread]] that United the diverse array of [[Special Case]] individual and local instances. 
 
@@ -1519,7 +1519,7 @@ From tribes around the world, the prophesies all pointed to a time when humanity
 
 And it was prophesied that when the [[Knowledge of God]] [[Covers The Earth Like Floodwaters]], the lion would lie down with the lamb, they would beat their weapons into tools of life, and no longer would they train their children to war. 
 
-Reunited as [[One Citizenship Under God]], there would be no room for factions, division, or war. [[United As One]], there would be no "them" to war with. [[All Creation]] would be reunited as [[ONE Body]]. 
+Reunited as [[One Citizenship Under God]], there would be no room for factions, division, or war. [[United As One]], there would be no "them" to war with. [[All Creation]] would be reunited as [[ONE Bodyx]]. 
 
 War would be obsolete. 
 
@@ -1551,7 +1551,7 @@ The Epic Quest Towards Destiny, towards [[The Goal]] of Greatest Worth, was alre
 
 It was an invitation from [[ONE]] to [[All]], to progress back towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
 
-It was an Divine Invitation from the Creator to arise, reunite as [[ONE Body]], and Co-Create the [[Best Possible Future]] for [[All]]. 
+It was an Divine Invitation from the Creator to arise, reunite as [[ONE Bodyx]], and Co-Create the [[Best Possible Future]] for [[All]]. 
 
 ### Epiphany Nine: One Universal War 
 
@@ -1718,7 +1718,7 @@ Although it was unwritten, everyone knew what it meant and required, because it 
 
 Their individual Stories and Fields of Agreement illuminated it. 
 
-The [[New Covenant]], mediated by [[The Spirit]] was what enabled [[The Whole]] to function as [[ONE Body]]. 
+The [[New Covenant]], mediated by [[The Spirit]] was what enabled [[The Whole]] to function as [[ONE Bodyx]]. 
 
 The Spirit and Essence of the [[New Covenant]] were reflected as closely as possible in what came to be known as [[The LIONSBERG Constitution]]. 
 
@@ -1925,7 +1925,7 @@ The [[Governance Circle]], or [[Stewardship Council]], of each second and higher
 
 #### Third and Higher Degree Groups 
 
-This fractal organizing principle continued all the way up to the highest levels of analysis, with [[The Whole]] of [[The Movement]] at any given point in time being composed of no less than three, and no more than sixteen Groups of Groups advancing as [[ONE Body]] towards [[The Goal]]. 
+This fractal organizing principle continued all the way up to the highest levels of analysis, with [[The Whole]] of [[The Movement]] at any given point in time being composed of no less than three, and no more than sixteen Groups of Groups advancing as [[ONE Bodyx]] towards [[The Goal]]. 
 
 Assuming an average of 10 per group, and 10 groups per [[Group Of Groups]], this meant that: 
 
@@ -1938,7 +1938,7 @@ Assuming an average of 10 per group, and 10 groups per [[Group Of Groups]], this
 - Seventh Degree Groups were composed of approximately 10,000,000 individuals  
 - Eighth Degree Groups were composed of approximately 100,000,000 individuals  
 - Ninth Degree Groups were composed of approximately 1,000,000,000 individuals  
-- The Tenth Degree Group composed All Humanity, up to 10,000,000,000, into [[ONE Body]]  
+- The Tenth Degree Group composed All Humanity, up to 10,000,000,000, into [[ONE Bodyx]]  
 
 Because the sizes of the tribes varied, the Tenth Degree Group ended up composing the Whole of Humanity into Twelve Tribes.  
 #### The Highest Level of Analysis 
@@ -1976,7 +1976,7 @@ The Systems were constructed around [[The Commons]] and [[The 12 Pillars of Lion
 
 Soon, they began to forget about the defunct systems of governance, economy, society, and ideology they had suffered under in [[The Caves]] of the [[Old World]]. 
 
-The more functional and Free they became as [[ONE Body]], the less they needed the [[Old]] Systems and Structures. Some of the [[Old]] Systems were incorporated into the [[New]]. Others slowly faded away. Others that were harmful were forthrightly abolished. 
+The more functional and Free they became as [[ONE Bodyx]], the less they needed the [[Old]] Systems and Structures. Some of the [[Old]] Systems were incorporated into the [[New]]. Others slowly faded away. Others that were harmful were forthrightly abolished. 
 
 By [[Identifying And Solving Issues]] and [[Opportunities]], they were co-creating and learning to co-operate the Systems and Structures of the New World as Advanced Together towards [[The Goal]]. 
 

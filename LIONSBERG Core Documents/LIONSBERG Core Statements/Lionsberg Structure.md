@@ -38,7 +38,7 @@ Designed as a **[[Holofractal Pattern Language]]** and **[[Way]]** of being,
     The **[[Holofractal Pattern Language]]** ensures seamless flow of information, resources, and solutions through **[[The Body]]** as it grows and progresses toward **[[The Goal]]**.
     
 - **Minimum Standards of Interoperability**:  
-    By adhering to these standards, individuals, teams, and localities maintain integrity and coherence, enabling the entire system to co-operate as [[ONE Body]] - a seamlessly integrated whole.
+    By adhering to these standards, individuals, teams, and localities maintain integrity and coherence, enabling the entire system to co-operate as [[ONE Bodyx]] - a seamlessly integrated whole.
     
 - **Emergent Resilience**:  
     The holofractal self-organizing design continually generates adaptable, resilient structures capable of scaling across dimensions, from local to cosmic.
@@ -51,7 +51,7 @@ Designed as a **[[Holofractal Pattern Language]]** and **[[Way]]** of being,
 This **[[Holofractal Pattern Language]]** is essential for humanity to:
 
 - **Pass [[The Final Test]]**: Unite beyond the corruption of the **[[Existing Order]]** to overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. 
-- **Expand Beyond Earth**: Self-organize effectively to populate new planets and star systems, while still functioning as [[ONE Body]]. 
+- **Expand Beyond Earth**: Self-organize effectively to populate new planets and star systems, while still functioning as [[ONE Bodyx]]. 
 
 ---
 

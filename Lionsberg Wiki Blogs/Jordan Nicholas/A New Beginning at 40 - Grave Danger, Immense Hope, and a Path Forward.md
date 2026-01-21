@@ -38,7 +38,7 @@ In 2019, corrupt authorities began stripping away everything We had built—Our 
 
 Five years of suffering followed, years that shattered Our illusions, purified Our soul, and awakened Us to truths We had long resisted.
 
-Over time, We realized that what humanity faces is not just a test of survival, but a test of awakening and transformation. The systems we have built are failing, not because they are flawed, but because they are diametrically out of alignment with **Life ItSelf**. To survive, We must awaken. To thrive, We must unite. To ascend, We must become **[[ONE Body]]**.
+Over time, We realized that what humanity faces is not just a test of survival, but a test of awakening and transformation. The systems we have built are failing, not because they are flawed, but because they are diametrically out of alignment with **Life ItSelf**. To survive, We must awaken. To thrive, We must unite. To ascend, We must become **[[ONE Bodyx]]**.
 
 ### What We Learned
 
@@ -114,7 +114,7 @@ Heaven on Earth is within Our reach.
 
 **But time is short.**
 
-By 2027, the events now irreversibly accelerating will likely reach their climax. What we do between now and then will determine whether We rise together as **[[ONE Body]]** and reclaim Our Destiny, or descend into fragmentation and despair.
+By 2027, the events now irreversibly accelerating will likely reach their climax. What we do between now and then will determine whether We rise together as **[[ONE Bodyx]]** and reclaim Our Destiny, or descend into fragmentation and despair.
 
 ### A New Beginning
 

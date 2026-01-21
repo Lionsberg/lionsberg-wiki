@@ -3,7 +3,7 @@
 **Definition**  
 The Final Test refers to the pivotal challenge humanity now faces—a crucible of unprecedented scale and stakes where the future of our species, planet, and cosmic role will be determined. It is the defining moment when we must choose between fragmentation or unity, enslavement or sovereignty, destruction or co-creation.
 
-The Final Test is not merely about survival. It is a test of awakening, alignment, and transcendence. It requires humanity to evolve beyond the systems of fear, control, and division that have dominated for millennia and rise together as [[ONE Body]] to co-create a thriving, harmonious future; [[Heaven On Earth]]. 
+The Final Test is not merely about survival. It is a test of awakening, alignment, and transcendence. It requires humanity to evolve beyond the systems of fear, control, and division that have dominated for millennia and rise together as [[ONE Bodyx]] to co-create a thriving, harmonious future; [[Heaven On Earth]]. 
 
 ---
 
@@ -12,7 +12,7 @@ Humanity stands at a crossroads where multiple crises are converging:
 
 1. **Collapse of the Existing Order**: Economic, political, social, and ecological systems are unraveling under the weight of corruption, mismanagement, and exploitation.
 2. **Geophysical and Cosmic Cycles**: Earth is entering a period of upheaval, including potential pole shifts, extreme weather events, and cosmic phenomena that threaten life as we know it.
-3. **Extraterrestrial Influences**: Hidden forces, both benevolent and adversarial, are vying for influence over humanity's trajectory. Disclosure is accelerating, with plans for both authentic revelations and orchestrated deceptions.
+3. **Interdimensional and Extraterrestrial Influences**: Hidden non-human forces, both benevolent and adversarial, are vying for influence over humanity's trajectory. Disclosure is accelerating, with plans for both authentic revelations and orchestrated deceptions.
 4. **Technological Accelerants**: AI, robotics, and other technologies are destabilizing societies, rendering traditional jobs obsolete and weaponizing information and trust.
 5. **False Flags and Deceptions**: The looming threat of orchestrated events, including a false flag alien invasion and messianic return, is designed to consolidate global power under [[The Final Order]].
 
@@ -23,7 +23,7 @@ These interconnected challenges form the backdrop of The Final Test, a crucible 
 **The Core Challenges of The Final Test**
 
 1. **Fear vs. Courage**: Humanity must resist manipulation through fear and step into collective courage.
-2. **Division vs. Unity**: Overcoming divisions of race, class, nation, and ideology to align as [[ONE Body]].
+2. **Division vs. Unity**: Overcoming divisions of race, class, nation, and ideology to align as [[ONE Bodyx]].
 3. **Enslavement vs. Sovereignty**: Rejecting systems of control and reclaiming our agency as co-creators of our future.
 4. **Destruction vs. Regeneration**: Shifting from extractive practices to regenerative systems that heal and sustain life.
 5. **Deception vs. Discernment**: Navigating through false narratives and engineered crises to uncover and act on the Truth.
@@ -37,7 +37,7 @@ To pass The Final Test, humanity must achieve a level of collective consciousnes
 1. **Awakening the First Three Percent**: A critical mass of ~250 million individuals must rise as a planetary grid of empowered leaders, guiding humanity through the transition.
 2. **Creating Decentralized Resilience**: Communities must become self-sufficient, interdependent, and capable of thriving amidst systemic collapses.
 3. **Building the New Systems**: Beyond survival, humanity must co-create regenerative systems of governance, economy, education, and healing that align with Life and the Divine.
-4. **Embodying Unity**: The diverse elements of humanity, nature, and beyond must recognize their interexistence as a single [[Living System]] and come together as [[ONE Body]], recognizing their shared purpose and destiny.
+4. **Embodying Unity**: The diverse elements of humanity, nature, and beyond must recognize their interexistence as a single [[Living System]] and come together as [[ONE Bodyx]], recognizing their shared purpose and destiny.
 5. **Aligning with Benevolent Forces**: Humanity must discern and collaborate with allies—both human and non-human—who support our sovereignty, flourishing, and spiritual evolution.
 
 ---

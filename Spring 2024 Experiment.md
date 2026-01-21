@@ -8,7 +8,7 @@ By June, there was an additional invitation list of ~150 on this list + hundreds
 
 [[Jordan]] had set a trigger / restriction, whereby he could not personally invite in more than the first ~100, after which the cycles would need to become self sustaining. 
 
-In the end, despite an 80%+ [[Lionsberg Acceptance Rate]] of [[The Invitation]], the Spring 2024 [[Lionsberg Co-Creators]] lacked the leadership, clarity and commitment required to become, out of many, [[ONE Body]]. 
+In the end, despite an 80%+ [[Lionsberg Acceptance Rate]] of [[The Invitation]], the Spring 2024 [[Lionsberg Co-Creators]] lacked the leadership, clarity and commitment required to become, out of many, [[ONE Bodyx]]. 
 
 During the experiment, [[Jordan]] began to be reminded of the vast diversity of highly advanced [[Non-Human Intelligence (NHI)]] influencing the affairs of humanity, and being contacted by representatives thereof. 
 
