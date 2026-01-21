@@ -307,21 +307,89 @@ Invitation-primary with application portal solves the quality vs speed dilemma. 
 - Building for obsolescence from day one (distribute power, document everything, train others)
 
 **Git Tags:**
-- Consider: `after-nameless-emergence-architecture` (if marking this milestone)
+None this session
 
 **Next Session Considerations:**
-- Create one-pager for quick orientation to the nameless emergence
-- Draft personal invitation letter for J's network (ensure no one involuntarily left behind)
-- Create circle prototype brief (martial arts circle demonstration)
-- Create local prototype brief (North Idaho / Sandpoint 300)
-- Create universal instance brief (distributed coordination)
-- Begin actual invitation cascade to J's network (10-20 people for ignition phase)
-- Form first martial arts circle
-- Set up communication infrastructure (Discord/Signal/forum)
+- Test how "the nameless emergence" materials land with initial circles
+- Continue refining invitation materials based on feedback
+- Consider documentation for sister instances starting their own games
 
 **Session End Status:**
-the nameless emergence architecture complete and published. Sovereign instance established. Ultimate commitment made. Three-level demonstration designed. Branding philosophy implemented. Push/pull relationship to LIONSBERG defined. Ready to begin invitation cascade and ignition phase.
+All changes committed and pushed. Working tree clean.
 
-The architectural foundation is laid. Now comes the work of actual emergence—inviting circles to form, demonstrating pattern at all scales, documenting everything for replication, and proving whether this serves the mission by measurable results.
+---
+
+## 2026-01-20 - Fixing MWB Rendering & Lowercase Branding
+
+**Session Summary:**
+Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing on web. Discovered file capitalization mismatch, applied documented two-step rename workaround, then shifted strategy based on Jordan's preference for lowercase branding to match "the nameless emergence" pattern. Updated all 13 wiki links across repository, Jordan manually completed file rename using placeholder workaround.
+
+**Accomplished:**
+- Diagnosed THE NAMELESS BOOK.md not rendering on web (case sensitivity issue)
+- Applied two-step MWB workaround (temp placeholder → title case)
+- Discussed resonance: lowercase vs title case for The First Three Percent
+- Decision: lowercase "the nameless book" matches emerging humble pattern
+- Updated all 13 files with wiki links from `[[The Nameless Book]]` to `[[the nameless book]]`
+- Jordan manually completed file rename using "the nameless bookx" placeholder technique
+
+**Key Decisions:**
+- **Lowercase branding** for "the nameless book" chosen for resonance (humble, mysterious, inviting vs formal/institutional)
+- **Pattern consistency**: Matches "the nameless emergence" sub-brand aesthetic
+- **Wiki links first, then file rename**: Prevents broken links during transition (cleaner than simultaneous rename)
+- **Manual workaround needed**: Case-insensitive filesystem required Jordan's "bookx" placeholder approach
+
+**Files Modified:**
+- [[README]] - Updated to lowercase the nameless book links
+- [[TKTK Program Notes]] - Updated references
+- [[the nameless book]] - Self-reference updated, title changed to lowercase
+- [[the nameless strategy and plan]] - Updated references
+- [[Help! I Am Lost]] - Updated navigation
+- [[The Threshold]] - Updated reference
+- [[The Architecture of The Playbook]] - Updated references
+- [[LIONSBERG - History, Inception, and Trust Manifesto]] - Updated reference
+- [[The LIONSBERG Playbook]] - Updated reference
+- [[Welcome to LIONSBERG, We Are Glad You Are Here]] - Updated reference
+- [[The LIONSBERG Playbook is Live]] - Updated reference
+- [[Something Powerful, New, and Good]] - Updated reference
+- [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Updated references (multiple)
+
+**User Teaching Moments:**
+1. **Resonance as primary metric**: Jordan's intuition on lowercase matching "the nameless emergence" pattern demonstrates prioritizing felt resonance with The First Three Percent over formal conventions
+2. **Case sensitivity complexity**: Git on macOS with case-insensitive filesystem requires creative workarounds (placeholder rename technique)
+3. **Links before files**: Update all references first, then rename file - prevents broken links during transition
+4. **The First Three Percent perspective**: Always evaluate changes through the lens of "awakening at 3am, finding this link, what resonates?"
+
+**Session Themes:**
+
+**1. Resonance Over Convention**
+The decision to use lowercase "the nameless book" despite most wiki conventions using title case demonstrates the primacy of resonance with The First Three Percent. Humility, mystery, invitation over institutional formality.
+
+**2. Cohesive Sub-Brand Architecture**
+"the nameless emergence" is emerging as a cohesive sub-brand within LIONSBERG - all lowercase, humble aesthetic, distinct from the eternal/cosmic LIONSBERG (all caps). Typography carries philosophy.
+
+**3. Technical Constraints Meet Creative Solutions**
+Case-insensitive filesystems and git's handling created constraint. Jordan's "bookx" placeholder workaround shows pragmatic creativity when tools don't behave as expected.
+
+**4. Prevention Over Repair**
+Updating all wiki links BEFORE renaming file prevents broken links entirely. Better architecture than scrambling to fix breaks after the fact.
+
+**Insights:**
+- MWB case sensitivity issues are common enough to be documented in troubleshooting guide (and we used that guidance successfully)
+- Lowercase "the nameless" pattern reinforces humility and temporal incarnation vs eternal/cosmic LIONSBERG
+- The First Three Percent need humble invitation, not institutional authority
+- Case-insensitive filesystems require creative git workarounds (placeholder technique works)
+- Systematic link updates across 13 files prevents fragmentation
+- The awakening population responds to coherent branding patterns (lowercase = humble, title case = archetypal)
+
+**Git Tags:**
+None this session
+
+**Next Session Considerations:**
+- Continue testing MWB rendering after Jordan's manual fix
+- Monitor for any remaining broken links from capitalization changes
+- Consider whether other files in "the nameless emergence" directory need similar lowercase treatment
+
+**Session End Status:**
+Wiki link updates committed and pushed (commit 357d0ac). Jordan manually completing file rename using "bookx" placeholder workaround. Working session complete.
 
 ---
