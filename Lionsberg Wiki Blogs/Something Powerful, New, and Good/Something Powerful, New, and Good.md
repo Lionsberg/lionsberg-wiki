@@ -30,7 +30,7 @@
 	
 - [[MindWeaving The Life Divine]]  
 	
-- Beginning work on [[The Nameless Book]]  
+- Beginning work on [[the nameless book]]  
 	
 - Building [[The Roving Ark Temple Dojo]]  
 	

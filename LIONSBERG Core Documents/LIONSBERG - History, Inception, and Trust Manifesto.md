@@ -171,7 +171,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 
 #### **January 2026: The Nameless Book**
 
-- [[The Nameless Book]] emerges as a simple way for any individual or circle to get started within a single ninety minute gathering.  
+- [[the nameless book]] emerges as a simple way for any individual or circle to get started within a single ninety minute gathering.  
 - The target of mutually connecting, enlightening, and empowering [[The First Three Percent]] of the population by December 2026 is reaffirmed.  
 - [[The Nameless One]] begins to gently reach out to J's network to see who wants to play. 
 

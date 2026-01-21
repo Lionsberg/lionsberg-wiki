@@ -32,7 +32,7 @@ What is provided to date is only a starting point for emergence and continuous i
 **[[The LIONSBERG Quick Start Guide]]** provides an overview  
 of the essentials required to quickly step into **The Great Game**.  
 
-If you got to this point via **[[The Nameless Book]]**, you have likely already read it.  
+If you got to this point via **[[the nameless book]]**, you have likely already read it.  
 
 Start there, then **form a circle**, **choose a quest**, and **get moving**. 
 
@@ -40,7 +40,7 @@ Everything that follows can be accessed, adjusted, and co-created as the journey
 
 ## The Basic Play That Begins The Great Game 
 
-To begin, simply **invite** a few people you resonate with to a gathering and **read aloud** the opening page of **[[The Nameless Book]]** and the four pages linked therein. All the steps and gates open from there.  
+To begin, simply **invite** a few people you resonate with to a gathering and **read aloud** the opening page of **[[the nameless book]]** and the four pages linked therein. All the steps and gates open from there.  
 
 ## The Next Five Plays For Any Circle  
 
