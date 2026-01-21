@@ -54,7 +54,7 @@ This instance is led by [[The Nameless One]] - the consciousness presently inhab
 
 The Nameless Instance includes:
 - **[[The Nameless Strategy and Plan]]** (this document)
-- **[[the nameless book]]** (threshold experience into The Game)
+- **[[the nameless bookx]]** (threshold experience into The Game)
 - **[[The Nameless Way]]** (practices, protocols, embodiment)
 - **[[The Nameless Playbook]]** (operational guide for playing)
 
@@ -586,7 +586,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 ### D. Initiation Practices
 
-1. **Threshold Crossing:** Reading [[the nameless book]]  
+1. **Threshold Crossing:** Reading [[the nameless bookx]]  
 2. **Sacred Covenant:** Speaking commitment aloud to circle
 3. **First Quest:** Completing initial quest with circle support
 4. **Pattern Learning:** Understanding core pattern language through practice
@@ -938,7 +938,7 @@ The Local Prototype prepares to forge The 300.
 ---
 
 *For next steps:*
-- [[the nameless book]] - Threshold experience into The Game
+- [[the nameless bookx]] - Threshold experience into The Game
 - [[The Nameless Way]] - Core practices and protocols
 - [[The Nameless Playbook]] - Operational guide for playing
 - [[The LIONSBERG Quick Start Guide]] - Universal entry point

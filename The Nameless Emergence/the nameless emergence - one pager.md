@@ -92,7 +92,7 @@ No Plan B. This is the attempt.
 ## three ways to participate
 
 ### 1. join the nameless emergence
-- Read [[the nameless book]] and [[the nameless strategy and plan]]
+- Read [[the nameless bookx]] and [[the nameless strategy and plan]]
 - Form or join a circle (3-12 people)
 - Begin playing The Great Game
 - Invite others in your network
@@ -142,7 +142,7 @@ By December 31, 2026:
 - [[the nameless emergence]] - Full overview
 - [[the nameless strategy and plan]] - Complete 11-month implementation strategy
 - [[The Nameless One]] - Who is leading this and why
-- [[the nameless book]] - Threshold experience into The Story and The Game
+- [[the nameless bookx]] - Threshold experience into The Story and The Game
 
 **To participate:**
 [Contact information TBD]
