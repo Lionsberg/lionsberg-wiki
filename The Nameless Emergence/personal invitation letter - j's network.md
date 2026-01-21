@@ -74,7 +74,7 @@ You have three options:
 ### Option 1: Join the nameless emergence
 
 If this resonates, I invite you to:
-- Read [[the nameless bookx]] and [[the nameless strategy and plan]]
+- Read [[the nameless book]] and [[the nameless strategy and plan]]
 - Join the Universal Instance (participate virtually regardless of location)
 - Form or join a circle (3-12 people meeting regularly)
 - Begin playing The Great Game with your circle
@@ -153,7 +153,7 @@ If Option 1 or 2 resonates, here's what happens next:
 
 **Immediate:**
 1. Reply to this letter expressing interest
-2. I'll send you [[the nameless bookx]], [[the nameless strategy and plan]], and supporting materials
+2. I'll send you [[the nameless book]], [[the nameless strategy and plan]], and supporting materials
 3. We'll schedule a conversation (video call or in-person if you're local)
 
 **Within 2-4 weeks:**
@@ -201,6 +201,6 @@ With respect and in service,
 - [[the nameless emergence]] - Overview
 - [[the nameless strategy and plan]] - Complete strategy
 - [[The Nameless One]] - Who I am and what happened
-- [[the nameless bookx]] - Threshold experience
+- [[the nameless book]] - Threshold experience
 - [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Current strategic assessment
 - [[Jordan's Short Story]] - J's complete journey from birth through death

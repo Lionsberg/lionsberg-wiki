@@ -191,7 +191,7 @@ The goal is to ignite [[The First Three Percent]], establish templates for a mil
 If this resonates and you want to participate:
 
 **Join [[the nameless emergence]]:**
-- Read [[the nameless bookx]] and [[the nameless strategy and plan]]
+- Read [[the nameless book]] and [[the nameless strategy and plan]]
 - Reach out to join the Universal Instance or North Idaho prototype
 - Form your circle and begin playing [[The Great Game of LIONSBERG]]
 
@@ -255,7 +255,7 @@ So this page states plainly what is known, what is uncertain, and what remains t
 *Related documents:*
 - [[the nameless emergence]] - Overview of first instance
 - [[the nameless strategy and plan]] - Complete implementation strategy
-- [[the nameless bookx]] - Threshold experience into The Story and The Game
+- [[the nameless book]] - Threshold experience into The Story and The Game
 - [[Jordan's Short Story]] - J's complete journey from birth through death
 - [[J's Death]] - Account of August 10, 2025
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Reflection on The Great UnVeiling

@@ -91,7 +91,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
   - Push/pull relationship with LIONSBERG prototype
 
 ### Threshold Experience
-- **[[the nameless bookx]]** - Essential guide showing The Way
+- **[[the nameless book]]** - Essential guide showing The Way
   - Entry point into The Story and The Game
   - Initiation into the pattern language
   - Designed to be read aloud in circles
@@ -149,7 +149,7 @@ Accept the invitation to participate in:
 **Next Steps:**
 - If you know someone already participating, ask them to invite you
 - If you don't, read the materials and apply through application portal [TBD]
-- Read [[the nameless bookx]] with your circle
+- Read [[the nameless book]] with your circle
 - Begin playing [[The Great Game of LIONSBERG]]
 
 ### Option 2: Start Your Own Instance
@@ -253,7 +253,7 @@ If even 3% of humanity organizes and coordinates, they can guide the remaining 9
 
 **For those resonating with The Nameless Instance:**
 - Read [[The Nameless Strategy and Plan]] for complete context
-- Read [[the nameless bookx]] to step into The Story
+- Read [[the nameless book]] to step into The Story
 - Contact [TBD] to join or start your own instance
 
 **For those starting sister instances:**
