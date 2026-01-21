@@ -535,7 +535,7 @@ This domain integrates:
 	4. [[Absolute]]  
 2. [[All]]  
 3. Diverse Unity  
-4. [[ONE Bodyx]]  
+4. [[ONE Body]]  
 5. [[The Goal]]  
 6. [[Universal Values]]  
 7. [[Meta Crisis]]  
@@ -748,7 +748,7 @@ This domain integrates:
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]  
 73. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]  
 74. It is designed to be a [[New Human Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].  
-75. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Bodyx]].  
+75. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].  
 
 ## Tribe of Tribes / Group of Groups / Team of Teams 
 

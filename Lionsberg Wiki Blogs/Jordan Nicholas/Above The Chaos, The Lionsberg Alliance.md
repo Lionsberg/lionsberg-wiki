@@ -6,7 +6,7 @@ A post in [[Above The Chaos]]
 
 [[The Lionsberg Strategy and Plan]] makes reference to [[The Lionsberg Alliance]]. 
 
-Recognizing that All Creation is [[ONE Bodyx]], it is self-evident that [[All Humanity]] is designed to co-operate as [[One Family]]. 
+Recognizing that All Creation is [[ONE Body]], it is self-evident that [[All Humanity]] is designed to co-operate as [[One Family]]. 
 
 The boundaries, alliances, and propagandistic narratives established by and during the Post WWII [[American Order]] have accelerated an ongoing build-up of tensions that are dramatically increasing the Existential Threat of an Apocalyptic AI and Nuclear World War III / IV. 
 

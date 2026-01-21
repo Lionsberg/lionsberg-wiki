@@ -49,7 +49,7 @@
 		1. Heresy to the religions and dogma
 	2. There is One Supreme Wisdom and Knowledge of the Universe 
 	3. Each being has direct individual access to this Source and Infinite Intelligence   
-	4. And is invited to explore the depths and secrets of the Universe, the Living System, the [[ONE Bodyx]] they are an aspect of. 
+	4. And is invited to explore the depths and secrets of the Universe, the Living System, the [[ONE Body]] they are an aspect of. 
 	5. Everyone has access
 		1. It is a matter of Awareness, Discipline, Knowledge, Skill, Practice  
 11. Training, transcendental meditation, the control of mind, body, pain

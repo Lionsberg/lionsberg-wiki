@@ -4,6 +4,6 @@ Lionsberg works by leveraging the collective intelligence, energy and creativity
 
 This enables the poly-centric implementation of the wisest solutions, patterns, and prototypes in an intensely individual / local / bioregional Way. 
 
-Most importantly, it enables the distributed network of sovereign and autonomous participants to function as [[ONE Bodyx]] across borders, planets, and beyond.  
+Most importantly, it enables the distributed network of sovereign and autonomous participants to function as [[ONE Body]] across borders, planets, and beyond.  
 
 See more [[Frequently Asked Questions]]  

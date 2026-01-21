@@ -64,7 +64,7 @@ ___
 Which brings us to looking ahead towards planning the greatest Celebration and Jubilee in human history no later the Spring Equinox of 2024 to celebrate the completion of the [[10 Year Grand Strategy]], as we usher in the [[New Era]]. 
 ____
 
-Standing together, in Unity, as [[ONE Bodyx]], All Good Things Become Possible. 
+Standing together, in Unity, as [[ONE Body]], All Good Things Become Possible. 
 
 We can now see that we are not alone, and that lifetimes of work and preparation from individuals around the world can coalesce into possibility and potential beyond our wildest dreams. None of us can do this in isolation. It is time to arise and unite, as One. 
 

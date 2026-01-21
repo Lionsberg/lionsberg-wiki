@@ -7,8 +7,8 @@
 ## Ideas
 
 - [[We The People]], in Order to forge [[An Ever More Perfect Union]], hereby ordain and establish this Lionsberg Constitution. 
-- We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[ONE Bodyx]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
-- Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[ONE Bodyx]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Reality in [[Enlightened Service to One and All]].  
+- We are [[Co-Creating]] Lionsberg in order to [[Become]], out of our [[Many Diverse Parts]], [[ONE Body]] actually capable of [[Meeting The Needs, Solving The Problems, and Accomplishing The Goals]] inherent in [[The Story]]. 
+- Without dishonoring, laying down or revoking any of [[Our]] lower order memberships, affiliations, or citizenships, [[We]] hereby recognize the Reality that [[All Creation]] is [[ONE Body]], and that it is Our [[Duty]] and [[Responsibility]] to [[Embody And Enact]] this Reality in [[Enlightened Service to One and All]].  
 - We ReAcknowledge that [[All Creation]] is One Living and Interexistent System, and that [[What We Do Or Do Not Do To Any, We Do Or Do Not Do Unto One, Our Selves, And All]]. 
 - We hereby do ordain this [[New Covenant]] of eternal and universal [[Right Relationship]] between [[ONE]], [[One Another]], and [[All]]. 
 - Our Overarching and Uniting Purpose, Aim and Goal 
@@ -23,7 +23,7 @@
 
 ## The Lionsberg System 
 
-To enable Our [[Co-Operation]] as [[ONE Bodyx]], we hereby commit to [[Embody]], [[Steward]], and Continuously Improve the [[LIONSBERG System]] we are Co-Creating for this Purpose, and to progressively discover and eliminate its [[Residual Error]] and [[Insufficiencies]] as we discover them in [[Practice]]. 
+To enable Our [[Co-Operation]] as [[ONE Body]], we hereby commit to [[Embody]], [[Steward]], and Continuously Improve the [[LIONSBERG System]] we are Co-Creating for this Purpose, and to progressively discover and eliminate its [[Residual Error]] and [[Insufficiencies]] as we discover them in [[Practice]]. 
 
 We acknowledge that every revealed defect and insufficiency is a Gift of great worth, to be celebrated as the primary means of [[Progress]] and [[Improvement]]. We therefore commit to Practicing this Way of Being in such a Way that We, and our Operating System, will be continuously improved for the Good of One and All, like Gold continually refined through the trials of Life and Liberty. 
 
@@ -81,7 +81,7 @@ Each Member of [[The Body]], be it an Individual, Family, Organization, Locality
 
 Every Member of [[The Body]] is [[Free]] to [[Consciously Choose]] its own path of Development and [[Progressive Realization]] of its [[Potential]]. 
 
-If a Member's path of [[Progressive Realization]] conflicts with the [[Minimum Standards of Interoperability]] that enable The Whole to Co-Operate as [[ONE Bodyx]], it shall either make a [[Proposal]] to improve the [[Minimum Standards of Interoperability]] for the [[Good]] of [[All]], or exit The System. Any changes to the [[Minimum Standards of Interoperability]] affect [[All]], and must therefore be approved by the [[Highest Order Council]]. 
+If a Member's path of [[Progressive Realization]] conflicts with the [[Minimum Standards of Interoperability]] that enable The Whole to Co-Operate as [[ONE Body]], it shall either make a [[Proposal]] to improve the [[Minimum Standards of Interoperability]] for the [[Good]] of [[All]], or exit The System. Any changes to the [[Minimum Standards of Interoperability]] affect [[All]], and must therefore be approved by the [[Highest Order Council]]. 
 
 [[The Body]] must assemble itself from the [[Bottom Up]] in accordance with the [[Creator's Intent]] and [[Designer's Intent]], our [[Current Best Understanding]] of which is being [[Progressively Articulated]] in the [[Lionsberg Plans and Specifications]]. 
 

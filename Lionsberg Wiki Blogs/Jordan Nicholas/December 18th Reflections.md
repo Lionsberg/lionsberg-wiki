@@ -9,7 +9,7 @@ The strange thing is that "I Am" still here and Becoming. Yet "I" lost "my" iden
 
 It is strange to have one's [[Apparently Individuated]] self dissolved through the refining fires of hell before one physically dies. 
 
-It is strange to perceive one's being as a living system of systems that is a holographic instance of an interexistent Whole that is Ultimately [[ONE Bodyx]]. 
+It is strange to perceive one's being as a living system of systems that is a holographic instance of an interexistent Whole that is Ultimately [[ONE Body]]. 
 
 It is strange to move in Spirit and Mind across [[Levels of Abstraction]]. When We say We, We could be speaking on behalf of merely the trillions of sub-systems that compose one [[Apparently Individuated]] body, or We could be speaking on behalf of a species, or a planet, or a star system, or a string of galaxies, or a universe of universes, or the Whole. We Are Becoming at All levels, and each aspect of Our Interexistence has a unique Voice and Perspective. 
 

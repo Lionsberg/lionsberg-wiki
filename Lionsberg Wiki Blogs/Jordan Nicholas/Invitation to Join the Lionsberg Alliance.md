@@ -34,7 +34,7 @@ Together, We can:
     Alone, no individual, team or locality can overcome the enormity of the challenges We face. Together, We form an unbreakable, decentralized web of support, innovation, and shared power.
     
 2. **Retain Sovereignty**  
-    By voluntarily uniting as [[ONE Bodyx]], We gain the collective strength to resist Tyranny while maintaining Our local autonomy and uniqueness. No coercion, no penalties—only the power of mutual aid and voluntary collaboration.
+    By voluntarily uniting as [[ONE Body]], We gain the collective strength to resist Tyranny while maintaining Our local autonomy and uniqueness. No coercion, no penalties—only the power of mutual aid and voluntary collaboration.
     
 3. **Share in Prosperity**  
     As We [[Help One Another]] rise, the first tenth of the [[Flow]] We co-create—whether time, resources, or profits—is pooled into [[The Commons]] to support innovation, mutual aid, and Our shared mission. 
@@ -87,7 +87,7 @@ While models like [[Mondragon]] in Spain offer glimpses of what is possible at s
 
 ### **The Call**
 
-This is more than an invitation. It is a call to awaken, arise, and unite to meet this moment in history. A call to honor Our individuality while weaving Our unique strengths into [[ONE Bodyx]] capable of co-creating [[Heaven on Earth]].
+This is more than an invitation. It is a call to awaken, arise, and unite to meet this moment in history. A call to honor Our individuality while weaving Our unique strengths into [[ONE Body]] capable of co-creating [[Heaven on Earth]].
 
 The path forward begins with a single step that is yours to take. Will you walk with Us? 
 

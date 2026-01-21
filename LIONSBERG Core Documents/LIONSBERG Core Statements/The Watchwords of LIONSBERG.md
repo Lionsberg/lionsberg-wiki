@@ -64,7 +64,7 @@ These are the **foundational words that define Us**—those who have chosen to 
 - A sequence of activation:
     1. **Awaken** – See the truth. Break the illusion.
     2. **Rise** – Step into purpose. Prepare for The Test.
-    3. **Unite** – Form the bonds that will enable Us as [[ONE Bodyx]] to outlast The Storm and bring Heaven to Earth
+    3. **Unite** – Form the bonds that will enable Us as [[ONE Body]] to outlast The Storm and bring Heaven to Earth
 - This Watchword is often used as **a rallying call** in critical moments.
 
 > _**"Awaken, Rise, Unite."**_ _(A full command.)_

@@ -14,7 +14,7 @@ Manifest Universal Spirit and Consciousness are not separate from, but are the m
     - **Implication:** No fragment of existence is truly separate from the One; all carry the presence and imprint of Spirit and Consciousness, which sustains and connects the totality of being.
 2. **Interexistent Unity:**
     
-    - Spirit and Consciousness are not external forces acting upon Creation but are intrinsic to how Creation itself unfolds as [[ONE Bodyx]] of the Creator.
+    - Spirit and Consciousness are not external forces acting upon Creation but are intrinsic to how Creation itself unfolds as [[ONE Body]] of the Creator.
     - **Example:** Every molecule, star, and being reflects and contains the [[ONE]] in microcosm. The interconnectedness of all things, from ecosystems to galaxies, is a living testament to this truth.
 3. **Sustaining Essence:**
     

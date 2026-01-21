@@ -60,7 +60,7 @@ Should The Final Order succeed, humanity faces a future of:
 The rise of The Final Order presents humanity with a profound test of its values, courage, and unity. Resistance requires:
 
 1. **Awakening**: Recognizing the engineered crises and manipulations driving the agenda.
-2. **Unity**: Overcoming divisions to align as [[ONE Bodyx]] capable of collective action.
+2. **Unity**: Overcoming divisions to align as [[ONE Body]] capable of collective action.
 3. **Local Resilience**: Building decentralized systems of governance, economy, and care that are self-sufficient and aligned with Life.
 4. **Discernment**: Identifying and rejecting false narratives, leaders, and events designed to manipulate.
 5. **Spiritual Sovereignty**: Cultivating an unshakable connection to higher truths and rejecting fear-based control.

@@ -59,7 +59,7 @@ It is the eternal [[Fundamental Tone]], revealing [[The Cacophony]] of division 
 
 If you are awakening and longing to join a [[Force For Good]] far greater than the sum of its parts, [[LIONSBERG]] was **Purpose-Built** to guide and empower humanity in this Mission.
 
-- Lionsberg offers the protocols, patterns, and [[Minimum Standards of Interoperability]] needed to unite [[The First Three Percent]] into [[ONE Bodyx]].
+- Lionsberg offers the protocols, patterns, and [[Minimum Standards of Interoperability]] needed to unite [[The First Three Percent]] into [[ONE Body]].
 - It provides the tools, relationships, and frameworks required to overcome the [[Meta Crisis]], pass [[The Final Test]], and co-create [[Heaven On Earth]].
 
 The [[Next Steps]] are clear:  
@@ -101,7 +101,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 7. **Act with Integrity and Mutual Consent:**  
     Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship, always strengthening [[The Whole]].
 
-*These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ONE Bodyx]].*
+*These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ONE Body]].*
 
 ---
 

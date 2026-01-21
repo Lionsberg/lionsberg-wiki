@@ -90,7 +90,7 @@ What We The People choose to do next will determine the future for billions of l
 
 The stories of the Elohim, Theoi, Nagas, [[Chitauri]], Sky People and Watchers are not mythical relics of a bygone era but living memories that connect us to a greater cosmic story. They remind us that humanity's journey through the universe towards the fullness of its Potential is not isolated but interwoven with the guidance, influence, and oppositions of beings from beyond. As we uncover the truth behind these myths and engage with modern revelations, we are called to transcend fear and embrace a vision of Divine unity, sovereignty, and co-creation.
 
-This is humanity's moment. The stories of our ancestors echo with a timeless invitation: to remember who we are, to rise together, to reclaim our sovereignty, and to take up our rightful place among the stars. The leap forward belongs to all of us. It is Ours to take—Together as [[ONE Bodyx]]. 
+This is humanity's moment. The stories of our ancestors echo with a timeless invitation: to remember who we are, to rise together, to reclaim our sovereignty, and to take up our rightful place among the stars. The leap forward belongs to all of us. It is Ours to take—Together as [[ONE Body]]. 
 
 Will you answer The Call? 
 

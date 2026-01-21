@@ -214,7 +214,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 78. All Apparent Diversity is the Living Embodiment of the [[ONE]]
     
-79. All things without exception are part of [[ONE Bodyx]]  
+79. All things without exception are part of [[ONE Body]]  
     
 80. [[ONE]] is not Its Body. Nor Its Mind. Yet It permeates All  
     

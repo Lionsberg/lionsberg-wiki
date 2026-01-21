@@ -239,7 +239,7 @@ We ReCovenant with Life and Source [[ItSelf]].
 
 [[The Sacred Pattern]] is lived, not merely spoken.  
 The [[New World]] is born in Our thoughts, Our words, Our acts, Our Becoming.  
-We are [[Spiraling Up]] as [[ONE Bodyx]].  
+We are [[Spiraling Up]] as [[ONE Body]].  
 Conscious Co-Creators of the [[New]]. 
 ✦ [[The LIONSBERG Field Manual]] shows the Way.
 
@@ -294,7 +294,7 @@ In Deep Silence, let Us hear [[The Call]].
 In Deep Stillness, let Us feel [[The Turning]].  
 In Deepest Love, let Us take [[The First Step]].
 
-Together, as [[ONE Bodyx]].  
+Together, as [[ONE Body]].  
 Together, as [[ONE]].
 
 ---

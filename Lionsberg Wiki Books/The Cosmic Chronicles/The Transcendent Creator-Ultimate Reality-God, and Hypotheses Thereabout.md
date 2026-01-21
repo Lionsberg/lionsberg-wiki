@@ -73,7 +73,7 @@ The concept of the transcendent Creator or Ultimate Reality, often referred to a
     - The Creator interacts with creation through avatars, prophets, ascended masters, NHIs, and other apparently differentiated vessels of Enlightened Spirit and Consciousness who embody its principles and offer guidance.
 3. **Divine Mercy and Justice:**
     
-    - The Creator ensures that all beings experience the consequences of their actions within a framework of Mercy, Love and progressive Enlightenment, guiding All aspects of Its [[ONE Bodyx]] toward greater wisdom, coherence, and alignment. 
+    - The Creator ensures that all beings experience the consequences of their actions within a framework of Mercy, Love and progressive Enlightenment, guiding All aspects of Its [[ONE Body]] toward greater wisdom, coherence, and alignment. 
 
 ---
 
@@ -87,7 +87,7 @@ The concept of the transcendent Creator or Ultimate Reality, often referred to a
     - Humanity is called to act as a conscious co-creator, aligning its will and capacity with the [[Creator's Intent]] in the service of universal flourishing.
 3. **Awakening to Oneness:**
     
-    - Progressively Realizing the  Ultimate Unity of [[All]] Interexistence as [[ONE Bodyx]] emanating from the [[ONE]]. Returning to and reuniting with the [[ONE]] is the ultimate goal of spiritual evolution.
+    - Progressively Realizing the  Ultimate Unity of [[All]] Interexistence as [[ONE Body]] emanating from the [[ONE]]. Returning to and reuniting with the [[ONE]] is the ultimate goal of spiritual evolution.
 
 ---
 
