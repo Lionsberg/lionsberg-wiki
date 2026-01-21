@@ -10,6 +10,8 @@ _Please visit [[The Golden Seed of LIONSBERG]] and check for the most recent ver
 This page is purely a [[Work In Progress]]... most of the work is happening elsewhere.  
 To plant and nurture The Golden Seed, please visit [[The LIONSBERG Quick Start Guide]]. Everything can unfurl from there. 
 
+The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left behind by J and a planetary+ network of allies. [[A Birthday Reflection on Jordan's Life, Death, and Work]] is a good starting point for diving into the essence of the work, and links to [[Above The Chaos]], the [[Lionsberg Wiki Books]], and [[Something Powerful, New, and Good]]. 
+
 ---
 
 ## The Threshold 

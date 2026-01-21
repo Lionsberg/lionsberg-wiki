@@ -6,17 +6,23 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ## Project Backlog / Wishlist 
 
 ### A Items 
+- Generate invitations to 
+	- Martial Arts Circle (circle instance)  
+	- The Sandpoint 300 (community instance)  
+	- The First Three Percent (universal instance)  
 - Generate the most essential plays for [[The LIONSBERG Playbook]]  
-- Start playing with 1 to 3 groups and feeding The Playbook based on what happens  
+- Start playing with one or more groups and feeding The Playbook based on what happens  
 
 ### B Items 
-1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki) 
+1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki)  
 2. Improve the LIONSBERG Wiki [[Sidebar]]    
 3. [[English Language Git]] is more technical than hoped - work on simplfying  
-4. [[A Program to Play The Great Game]] is interesting 
+
 
 ### C Items 
-- [[Longterm Project - Fixing Broken Links]] is interesting. 
+- Being able to print pages and books to PDF easily might be super important (especially in a context of likely disruptions)  
+- [[Longterm Project - Fixing Broken Links]] is interesting  
+- [[A Program to Play The Great Game]] is interesting  
 
 
 ## Current Program 

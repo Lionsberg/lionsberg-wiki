@@ -2,8 +2,8 @@
 _by **[[The Nameless One]]**_
 ##### **_What must be remembered to reimagine, redesign, and rebuild the world_**  
 ____
-_This is a **[[Work In Progress]]**_   
-Key **[[Word Tools]]** are defined in **[[The Lionsberg Lexicon]]**  
+_This is a **[[Work In Progress]]**_
+Key terms are defined in **[[The Lionsberg Lexicon]]**  
 ____
 
 ## Greetings 
@@ -21,12 +21,12 @@ The time now grows very short, and more than we can presently imagine hangs in t
 **_Right here and now on Earth and far Beyond._**  
 **_Together as fellow members of ONE Body._**  
 
-We can get to know One Another over time.  
-For now it is crucial that We simply and rapidly get moving.  
+We can get to know One Another over time.
+For now, it is crucial that We simply and rapidly get moving.  
 
 ## A Context of Crisis
 
-While the precise details remain intentionally obscured, it is becoming evident to **Us All** that **something is wrong**.   
+While the precise details remain intentionally obscured, it is becoming evident to **Us All** that **something is wrong**. Across the planet, millions are awakening to this realization right now.   
 
 The **old systems** are failing at an accelerating rate.  
 The **old institutions** have lost our faith and trust.  
@@ -128,17 +128,17 @@ By the time [[The First Three Percent]] — ~250 million strong spread across ~1
 
 ## The nameless emergence 
 
-Arriving on Earth in August 2025 (Old Time) following [[J's Death]], it took several months to land, deal with the traumas and practicalities I stepped into, secure temporary food and shelter for J's loved ones, and orient for the emergence of [[Something Powerful, New, and Good]] as the world shook in 2026.  
+Arriving on Earth in August 2025 following [[J's Death]], it took several months to land, deal with the traumas and practicalities I stepped into, secure temporary food and shelter for J's loved ones, and orient for the emergence of [[Something Powerful, New, and Good]] as the world shakes in 2026.  
 
 Having reviewed the **LIONSBERG Invitation** and being aware _a priori_ of its impact on other worlds, it seems **Wise, Right, and Good** to accept the invitation, and start up [[The First Instance]] of **[[The Great Game]]**.  
 
 You are hereby invited to join the instance we are hosting, or access all the LIONSBERG materials free online and begin your own sovereign instance. 
 
-Being part of the same cosmic **Force For Good**, retaining J's neural network, and being additionally aware of experiences and knowledge that he forgot upon incarnation, I have a unique perspective on [[LIONSBERG]] and can likely cut hundreds or thousands of hours off the Path for those who want to join us in advancing the mission to help humanity exit the burning building, co-create the [[New Civilization]], and bring Heaven to Earth. 
+We can likely cut hundreds or thousands of hours off the Path for those who want to join us in advancing the mission to help humanity exit the burning building, co-create the [[New Civilization]], and bring Heaven to Earth. 
 
 Recognizing that most people struggle to read a book like the bible in a year... and that the 2.5 million words on the LIONSBERG Wiki are roughly 3.33x that length... and that time is short and we must immediately begin... 
 
-This **nameless book** is a living attempt to forge an immediately understandable and actionable **starting point** that can be passed hand to hand and understood in under 20 minutes. 
+This **nameless book** is a living attempt to forge an immediately understandable and actionable **starting point** that can be passed hand to hand and begun in 20 to 30 minutes. 
 
 Its table of contents links to [[The LIONSBERG Quick Start Guide]], which aims to help individuals form a **Circle**, choose a **Quest**, and begin **The Great Game** within a single 90 minute meeting. 
 
@@ -146,7 +146,7 @@ From there everything is built to emerge, evolve, and transform as we connect an
 
 [[The Greatest Celebration and Jubilee In History]] is currently scheduled for the end of 2033 at the end of the [[10 Year Grand Strategy]]. A [[20 Year Generational Contingency]] remains on the back end of that just in case this takes longer than planned. 
 
-As of 2026.01.21 (Old Time), [[The First Instance]] is alive and emerging. We are committed to leading and guiding this instance as long as life, breath, or Spirit remains, and for taking responsibility for ensuring the entirety of [[The Goal]] and [[The Lionsberg Strategy and Plan]] is accomplished even if no other instances emerge. 
+As of January 21, 2026, [[The First Instance]] is alive and emerging. We are committed to leading and guiding this instance as long as life, breath, or Spirit remains, and for taking responsibility for ensuring the entirety of [[The Goal]] and [[The Lionsberg Strategy and Plan]] is accomplished even if no other instances emerge. 
 
 ## How To Begin 
 
@@ -176,27 +176,27 @@ From there, **[[The LIONSBERG Playbook]]** provides guidance on how to co-operat
 
 **[[Frequently Asked Questions]]** addresses many of the most common questions and concerns. 
 
-**[[the nameless strategy and plan]]** builds upon **[[The Lionsberg Strategy and Plan]]** provides an overview of where we are going in the coming months and years and how we might get there. 
+**[[the nameless strategy and plan]]** builds upon **[[The Lionsberg Strategy and Plan]]** and provides an overview of where we are going in the coming months and years and how we might get there. 
 
-**[[A Birthday Reflection on Jordan's Life, Death, and Work]]** is a thirty minute read that provides important and shocking information on what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces those playing The Game can build upon. **PLEASE READ IT. IT CONTAINS LIFESAVING INFORMATION**. 
+**[[A Birthday Reflection on Jordan's Life, Death, and Work]]** is a thirty minute read that provides important and shocking information on what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces those playing The Game can build upon. **Please read it. It contains potentially lifesaving information.**  
 
 **[[Something Powerful, New, and Good]]** is a series that tracks what is emerging following **[[J's Death]]**. 
 
 ## The nameless instance
 
-For those desiring greater community, connection, and guidance, you are invited to join us in [[The First Instance]] personally guided by [[The Nameless One]].  
+For those desiring deeper community, connection, and guidance, you are invited to join [[The First Instance]], personally guided by [[The Nameless One]].  
 
 The minimum **commitment** to join is **the first tenth** of one's time — nominally several hours a week. 
 
 We all may feel "too busy" to take meaningful action to transform our lives and our worlds. But with billions of lives and centuries to come hanging in the balance, **WE ALL HAVE THE FIRST TENTH OF OUR TIME AVAILABLE TO PLAY**. 
 
-To join us **the nameless instance**, simply let the person who invited you know you're in and ask them to communicate word back to the center. 
+To join **the nameless instance**, simply let the person who invited you know you're in and ask them to communicate word back to the center. 
 
 ## Closing
 
 That is all for now. As the first **Circles** choose **Quests** and get into **Play**, additional information will be added as it is needed and requested, and **the nameless book** will continue to write itself. 
 
-Please **Pass The Flame** by sharing this link with your loved ones and allies as they awaken to the difficult realities at hand, and are ready to get into action. 
+Please **Pass The Flame** — share this invitation with your loved ones and allies as they awaken to the difficult realities at hand and are ready to get into action. Each person you invite becomes a carrier of the light. 
 
 _Perhaps at long last, **The Great Game** will finally be played again_. 
 
