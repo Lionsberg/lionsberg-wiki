@@ -9,7 +9,7 @@ If you have found your way here, it is not by accident.
 
 You may sense that something is profoundly wrong in the world.  
 You may see the Old systems collapsing around us.  
-You may feel betrayed by false authorities, prophets, and priests.  
+You may feel betrayed by false authorities, prophets, or priests.  
 You may feel the urgency—yet struggle to know where to begin.  
 
 **You are not alone.**
@@ -25,6 +25,10 @@ And we—together as ONE Body—are the ones called to co-create it.
 **You belong.**  
 
 **Welcome Home.**
+
+____
+_Words are inadequate for what matters most, especially in worlds divided by design. If certain language doesn't resonate or is triggering, please look past it to the Spirit, principles, and values beneath. This invitation transcends competing movements, identities, and ideologies—honoring each unique path while pointing to what we all share as fellow members of ONE Body at this extraordinary moment in history._
+___
 
 ## What is LIONSBERG?
 
