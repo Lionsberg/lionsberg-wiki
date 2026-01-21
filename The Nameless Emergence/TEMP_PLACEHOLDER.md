@@ -1,4 +1,4 @@
-# **the nameless book**
+# **The Nameless Book**
 _by **[[The Nameless One]]**_
 ##### **_what must be remembered to reimagine, redesign, and rebuild the world_**  
 ____
