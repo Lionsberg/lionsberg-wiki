@@ -27,9 +27,8 @@ And we—together as ONE Body—are the ones called to co-create it.
 **Welcome Home.**
 
 ____
-_Words are inadequate for what matters most, especially in worlds divided by design. If certain language doesn't resonate or is triggering, please look past it to the Spirit, principles, and values beneath. This invitation transcends competing movements, identities, and ideologies—honoring each unique path while pointing to what we all share as fellow members of ONE Body at this extraordinary moment in history._
+_Words are inadequate for what matters most, especially in worlds divided by design. If certain language doesn't resonate or is triggering, please look past it to the Spirit, principles, and values beneath the surface. This invitation transcends competing movements, identities, and ideologies—honoring each unique path while pointing to what we all share as fellow members of ONE Body at this extraordinary moment in history._
 ___
-
 ## What is LIONSBERG?
 
 LIONSBERG is not an organization or institution.  
@@ -107,8 +106,8 @@ and towards **The Future We Seek** in a Way that works for both **Earth** and **
 3 to 12 others you resonate with and are inspired by
 
 ### **2. Enter the Story**
-Read **[[the nameless book]]** - the essential guide showing the Way  
-*(30 minutes to begin, lifetime to embody)*
+Read **[[the nameless book]]** - the essential guide showing the Way
+*(Read the opening alone, then gather your circle to continue together)*
 
 ### **3. Choose Your Role**
 Explore **[[The Story of LIONSBERG]]** - see where you fit in the epic unfolding  

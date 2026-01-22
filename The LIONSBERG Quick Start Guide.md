@@ -1,100 +1,287 @@
-# The LIONSBERG Quickstart Guide
+# The LIONSBERG Quick Start Guide
+*Your First 90 Minutes Together*
 
-## Context 
+## You Are Here
 
-On its **Quest** towards **Destiny** humanity stands at a threshold. 
+You've read [[the nameless book]]. You've gathered your circle of 3 to 12 resonant souls. You're sitting together right now—in person or connected by video.
 
-At the end of a long era — 
-And before **What Comes Next** —
-Earth and its people face a convergence  
-Unlike any in the last 10,000 years  
+This guide will walk you through **this 90-minute gathering**—what to read aloud together, how to sense-make as a group, and how to choose your first quest.
 
-A **Final Test** is now underway  
-Its outcome will shape centuries if not millennia to come
+By the end of today, you will have:
+- Consecrated your circle with a name and simple agreements
+- Read and reflected on The Story and The Great Game together
+- Chosen your first seasonal quest
+- Set your ongoing rhythm for weekly or bi-weekly gatherings
 
-While many details will remain contested, distorted, or forever unknown  
-The essence of this **[[Meta Crisis]]** is now unmistakable:  
-
->_Whether humanity awakens and unites in time  
->To **design and build a New Civilization**  
->And **co-create Heaven On Earth**  
->Before the old systems collapse by design_  
-
-## LIONSBERG 
-
-Like an ancient bridge spanning an impossible chasm  
-**LIONSBERG** is purpose-built _for this_  
-
-It offers an immediate Way  
-To transcend systemic collapse  
-And begin co-creating Heaven On Earth  
-Here, now, together  
-
-Portals such as [[Above The Chaos]] and [[Lionsberg Wiki Books]]  
-Open into thousands of pages and millions of words  
-Articulating the deeper architecture and inception of this work  
-
-But experience across many realms has revealed a simple truth: 
-
->**_To Know the Way one must live it_**
-
-For most resonant souls,  
-Attempting to intellectually grasp  
-Cosmically interoperable, holofractal pattern languages  
-Is  both unnecessary and counterproductive at first  
-
-This is not a theory to debate  
-It is a **Game to be played**  
-And a **Way to be embodied**   
-
-Any thriving New Civilization  
-Along with the Superorganism that co-creates it  
-Must invariably emerge through Play 
-
-## The Invitation
-
-If this resonates, begin simply: 
-
-1. **Read The Story**  
-2. **Play The Game**  
-3. **Pass The Flame**  
-
-This is a co-operative, real-world game  
-Of awakening, relationship, and transformational co-creation  
-
-> _When 8 billion people play the New Game_
-> _Heaven has arrived on Earth_
-
-## Immediate Next Steps  
-
-Gather. Begin. Play. 
-
-1. **Invite** 2 to 12 resonant individuals into a physical or digital circle    
-2. **Read aloud** the *Prologue*, _Story_, and this  _Quickstart Guide_  
-3. **Form the Circle** by choosing a name and establishing simple agreements  
-4. **Set a Cadence** by defining weekly, monthly, and seasonal rhythms  
-5. **Choose a First Seasonal Quest** — a tangible act of goodwill in your domain or locality, achievable before the next solstice or equinox   
-6. **Pass The Flame** by sharing stories of transformation and inviting others to play 
-
-## **Resources**
-
-- **Quick Start Guide:** You are here  
-    
-- **[[The LIONSBERG Circle Guide]]**  
-    
-- **[[Prologue to The Story and The Great Game]]**  
-    
-- **[[The Story of LIONSBERG]]**  
-    
-- **[[The Great Game of LIONSBERG]]**  
-    
-- **[[The LIONSBERG Playbook]]**  
-    
-- **First Quest Suggestions**  
-    
-- **Basic Safety Protocols**
-    
-- **Digital / Analog Toolkit:** printable journal pages, reflection prompts, local mapping sheets.
-    
+**Let's begin.**
 
 ---
+
+## Your First 90 Minutes
+
+### Minutes 0-10: Welcome & Opening
+
+**One person facilitates** (rotate this role in future meetings).
+
+**Welcome** (~2 min):
+- Acknowledge everyone has read the opening of [[the nameless book]]
+- We're here to step into The Story and The Great Game together
+- This is a threshold moment—we're crossing from the Old World into the New
+
+**Opening Round** (~8 min, ~1 min per person):
+
+Go around the circle. Each person briefly shares:
+> "My name is _____, and I'm here because _____."
+
+Keep it short. This is connection, not explanation.
+
+---
+
+### Minutes 10-40: Reading Together
+
+**One person reads aloud** while others listen with full attention. Don't rush. Let the words land.
+
+Reading order:
+
+1. **[[Prologue to The Story and The Great Game]]** (~10 min)
+2. **[[The Story of LIONSBERG]]** (~10 min)
+3. **[[The Great Game of LIONSBERG]]** (~10 min)
+
+_Don't worry about understanding everything. Let the story and the game wash over you. Sensing comes before understanding. Some will resonate immediately, some will need time to unfold._
+
+---
+
+### Minutes 40-70: Sensing & Forming the Circle
+
+**Round 1: Individual Reflections** (~15 min, ~2-3 min per person)
+
+Go around the circle. Each person shares:
+- What resonated most from what we just read?
+- What questions arose?
+- What gifts do I bring to this circle?
+
+**No cross-talk during this round**—just listen and witness each person's sharing.
+
+**Round 2: Forming the Circle** (~15 min)
+
+Now discuss together and decide:
+
+**1. Circle Name** (~5 min)
+
+Choose a name for your circle—or use a placeholder until one emerges.
+
+Examples:
+- Circle of [Your Location] (e.g., "Circle of North Idaho")
+- Circle of [Your Focus] (e.g., "Circle of Healing Arts")
+- Circle of [Your Intention] (e.g., "Circle of the Sacred Flame")
+
+Or simply: "Our Circle" until something better emerges.
+
+**2. Simple Agreements** (~10 min)
+
+Agree on 2-3 core commitments that will hold your circle together.
+
+**Suggested starting agreements:**
+- **Confidentiality**: What's shared in circle stays in circle
+- **Respect**: Honor each person's voice and journey
+- **Show up**: When you commit to attend, attend
+
+Add any others that matter to your specific circle, but **keep it simple**—2-3 maximum. You can always add more later as needs arise.
+
+---
+
+### Minutes 70-90: Choosing Your Quest & Setting Rhythm
+
+**What is a Quest?**
+
+A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~3 months from now).
+
+It should be:
+- **Real**: Something that actually transforms your lives or community
+- **Achievable**: Within reach with several hours per week from your circle
+- **Meaningful**: Connected to needs you see and gifts you can offer
+- **Together**: Requires collaboration, not individual action
+
+**Quest Brainstorm** (~10 min)
+
+Go around the circle. Each person suggests one possibility:
+- What need do we see in our community or lives?
+- What gift could we offer together?
+- What's achievable in 3 months?
+
+**Example First Quests:**
+- Plant a community garden in a neglected space
+- Host a neighborhood gathering to build connection
+- Create a mutual aid network for elders or families in need
+- Document local wisdom from indigenous elders or long-time residents
+- Build or repair something needed locally (playground, bench, library box)
+- Teach a skill to youth (music, martial arts, gardening, coding)
+- Clear and maintain a local trail or natural space
+
+**Choose ONE Quest** (~7 min)
+
+Discuss which quest resonates most with the group. Look for:
+- What lights people up when they talk about it?
+- What aligns with gifts people named earlier?
+- What's realistic given time and resources available?
+
+**Choose your first quest.** Keep it simple—you're learning to play.
+
+**Set Your Rhythm** (~3 min)
+
+Decide together:
+- **How often will we meet?** (Weekly? Bi-weekly? Monthly?)
+- **What day and time?** (Choose a consistent slot that works for everyone)
+- **Where?** (Physical location or video link)
+- **Who will send reminders?** (Rotate this role or assign to one person)
+
+**Close with Gratitude** (~2-3 min)
+
+Go around one final time. Each person completes this sentence:
+> "I'm grateful for _____."
+
+---
+
+## What Happens Next
+
+### Your Weekly or Bi-Weekly Rhythm
+
+Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Your typical meeting structure will be:
+
+**Opening Ritual** (5 min)
+- Brief centering practice (breath, meditation, or prayer)
+- Remember who we are and why we're here
+
+**Check-In Round** (10-15 min)
+- Each person shares where they are (emotionally, spiritually, practically)
+- No fixing, just witnessing
+
+**Quest Coordination** (30-40 min)
+- Progress updates: What's been done since last meeting?
+- Obstacles: What's blocking us?
+- Planning: What are next steps?
+- Support: Who needs what from the circle?
+
+**Learning Harvest** (10 min)
+- What are we discovering as we work together?
+- What's working? What's not?
+- What are we learning about ourselves, each other, the quest?
+
+**Closing Ritual** (5 min)
+- Gratitude round
+- Commitments: What will each person do before next meeting?
+- Benediction or closing word
+
+### Your Seasonal Rhythm
+
+Every solstice and equinox (~every 3 months):
+
+**1. Complete Your Quest**
+- Celebrate what you've accomplished together
+- Acknowledge the transformation in your lives and community
+- Share stories of what emerged through your work
+
+**2. Retrospective**
+- What worked well in our circle?
+- What didn't work?
+- What did we learn that we can carry forward?
+
+**3. Choose Your Next Quest**
+- What's calling us now?
+- What's the next tangible act of goodwill we can offer?
+- How do we want to grow or evolve as a circle?
+
+**4. Join Seasonal Gatherings** (as they emerge)
+- Connect with other circles in your region
+- Share stories and learnings
+- Celebrate together as the movement grows
+
+### Passing The Flame
+
+When transformation happens in your circle—when you experience breakthroughs, healing, or co-creation together—**pass the flame**:
+
+**Invite 1-3 Others**
+- People who are awakening to the crisis
+- Ready for action
+- Resonate with what you're experiencing
+
+**Point Them to the Beginning**
+- Send them to: **lionsberg.wiki**
+- Ask them to read the homepage and opening of [[the nameless book]]
+- Support them as they gather their own circle
+
+**Each Person You Invite Becomes a Carrier of the Light**
+
+This is how [[The First Three Percent]] emerges—through organic invitation cascading through trust networks, not mass marketing or central control.
+
+---
+
+## Two Pathways Forward
+
+### Path 1: Self-Organized Circle
+
+Continue independently using the resources in this guide and [[The LIONSBERG Playbook]].
+
+**You have everything you need.** You're sovereign, self-governing, and free to adapt the patterns to your context.
+
+### Path 2: Join The Nameless Instance
+
+If you want deeper community, guidance, and planetary coordination, consider joining **[[the nameless instance]]**—the first faithful attempt to incarnate the LIONSBERG pattern at scale, personally guided by [[The Nameless One]].
+
+**Commitment:** The first tenth of your time (~several hours per week)
+**Structure:** Universal (planetary coordination) and/or Local (community-based)
+**Contact:** [See [[the nameless book]] section on "the nameless instance" for details]
+
+**Both paths are valid. Both are needed.** Choose what resonates with your circle.
+
+---
+
+## Resources for Your Journey
+
+### Core Documents (You've Read These)
+- [[the nameless book]] - The essential guide showing the Way
+- [[Prologue to The Story and The Great Game]] - The threshold
+- [[The Story of LIONSBERG]] - The cosmic context
+- [[The Great Game of LIONSBERG]] - How to play
+
+### Practical Guides (Use These Weekly)
+- [[The LIONSBERG Playbook]] - Detailed plays and practices for circles
+- [[The LIONSBERG Circle Guide]] - Circle formation, health, and evolution
+- [[Frequently Asked Questions]] - Common concerns and questions addressed
+
+### Strategy & Depth (Explore When Ready)
+- [[The Lionsberg Strategy and Plan]] - The 10-year vision and framework
+- [[the nameless strategy and plan]] - The first instance implementation
+- [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Critical context on what J discovered (please read—contains potentially lifesaving information)
+- [[Above The Chaos]] - Weekly reflections and strategic analysis
+- [[Lionsberg Wiki Books]] - 144+ books of deeper architecture and wisdom
+
+### Advanced Initiatory Paths (For Later)
+- [[The 144 Gates of Initiation]] - Progressive deepening as circles mature
+- [[The Sacred Ascent]] - The 72-gate path of mastery (martial, yogic, healing arts)
+- [[The LIONSBERG Sacred Codex]] - The living constitution and pattern language
+- [[The Eternal Divine Play]] - The infinite game across worlds and dimensions
+
+---
+
+## Closing Word
+
+**You have everything you need to begin.**
+
+The Golden Seed is in your hands.
+Your circle is formed.
+Your quest awaits.
+
+The rest will emerge through living it together—week by week, quest by quest, season by season.
+
+**Heaven On Earth is not a distant dream.**
+**It is the Game you are now playing.**
+**Right here, right now, together.**
+
+---
+
+**The Great Game has begun.**
+**It is now your move.**
+
+**Proceed to your first quest with courage and joy.**
+**The world awaits what your circle will co-create.**

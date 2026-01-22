@@ -146,33 +146,81 @@ From there everything is built to emerge, evolve, and transform as we connect an
 
 [[The Greatest Celebration and Jubilee In History]] is currently scheduled for the end of 2033 at the end of the [[10 Year Grand Strategy]]. A [[20 Year Generational Contingency]] remains on the back end of that just in case this takes longer than planned. 
 
-As of January 21, 2026, [[The First Instance]] is alive and emerging. We are committed to leading and guiding this instance as long as life, breath, or Spirit remains, and for taking responsibility for ensuring the entirety of [[The Goal]] and [[The Lionsberg Strategy and Plan]] is accomplished even if no other instances emerge. 
+As of January 21, 2026, [[The First Instance]] is alive and emerging. We are committed to leading and guiding this instance as long as life, breath, or Spirit remains, and for taking responsibility for ensuring the entirety of [[The Goal]] and [[The Lionsberg Strategy and Plan]] is accomplished even if no other instances emerge.
 
-## How To Begin 
+## Gather Your Circle
 
-There is a well known saying among masters of the Way: 
+**If you are reading this alone, stop here.**
+
+This journey cannot be walked in isolation. It must be undertaken in community—as fellow members of ONE Body.
+
+The Way forward requires you to gather your circle of 3 to 12 resonant souls before continuing.
+
+### How to Invite Your Circle
+
+1. **Identify 2 to 11 people** awakening to the crisis at hand, sensing the urgency, ready for action
+2. **Send them this link:** lionsberg.wiki
+3. **Ask them to read:**
+   - The homepage (Welcome to The Gates of LIONSBERG)
+   - This opening section of the nameless book (through "Gather Your Circle")
+4. **Set a gathering:** Choose a date and time for your first 90-minute session together (in-person or video)
+
+### When Your Circle Gathers
+
+Everyone will arrive having read this opening context. Together you will use **[[The LIONSBERG Quick Start Guide]]** to:
+
+- Consecrate your circle with a name and simple agreements
+- Read aloud **[[Prologue to The Story and The Great Game]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]**
+- Sense-make together about what resonates and what questions arise
+- Choose your first seasonal quest
+- Establish your ongoing weekly or bi-weekly rhythm
+
+**The sections below provide additional context and resources—but the essential next step is to gather your circle and begin together using [[The LIONSBERG Quick Start Guide]].**
+
+If you're reading this alone right now, stop and go invite your circle. The Great Game begins when you come together.
+
+---
+
+## The Journey Ahead
+
+You've gathered your circle. You're ready to begin. Here's how the journey unfolds:
+
+### The Way Must Be Lived
+
+There is a well known saying among masters of the Way:
 
 > **_To know the Way, One must live it_**
 
-If one attempts to grasp LIONSBERG — or more abstractly the co-creation of a cosmically interoperable New Civilization — intellectually before beginning, it is nearly certain that they will fail or turn away. Words tossed into mind kontrolled matrices are notoriously problematic. The only Way to know and understand this emergent power and potential is to step into **the story**, play **the game**, and allow **the Spirit**, **the patterns**, and **the plays** to unfold through you. If it does not transform you, you can stop playing at any time.  
+You cannot grasp LIONSBERG intellectually before beginning. Words alone cannot carry the full transmission. The only Way to know and understand this emergent power and potential is to step into **the story**, play **the game**, and allow **the Spirit**, **the patterns**, and **the plays** to unfold through you and your circle.
 
-The entire system is built around the concept of **Circles** — small self-governing, self-sustaining, self-replicating "cells" of 3 to 12 individuals working together to transform their lives and their worlds as parts of a broader **emergent superorganism**. Sovereign individuals in self-governing small groups are the core units of the **New Civilization**. 
+If it does not transform you, you can stop playing at any time.
 
-Eventually **Circles** must align into **Communities** and **Guilds**, and **Bioregions** into properly ordered **Worlds** — requiring shared **rhythms**, **patterns**, **protocols**, and **plays** — but that is a few steps down the **Path**. 
+### Circles Are the Foundation
 
-For now, the crucial first step is to begin.  
+The entire system is built around **Circles** — small self-governing, self-sustaining, self-replicating "cells" of 3 to 12 individuals working together to transform their lives and their worlds as parts of a broader **emergent superorganism**.
 
-> **_Every Journey of a thousand miles begins with a single step_**
+Sovereign individuals in self-governing small groups are the core units of the **New Civilization**.
 
-To begin, simply **invite** a few people you resonate with to a gathering and **read aloud** the following five pages. A 90 minute gathering will allow for about 30 minutes of reading, and 60 minutes of dialogue and sensemaking to discern next steps.  
+Eventually **Circles** align into **Communities** and **Guilds**, and **Bioregions** into properly ordered **Worlds** — requiring shared **rhythms**, **patterns**, **protocols**, and **plays** — but that is a few steps down the **Path**.
 
-1. **[[the nameless book]]** (opening page - you are here)   
-2. **[[The LIONSBERG Quick Start Guide]]**  
-3. **[[Prologue to The Story and The Great Game]]**  
-4. **[[The Story of LIONSBERG]]**  
-5. **[[The Great Game of LIONSBERG]]**  
+### Your First 90-Minute Gathering
 
-From there, **[[The LIONSBERG Playbook]]** provides guidance on how to co-operate as a highly effective Circle, while eventually aligning into Circles of Circles. 
+When your circle convenes for the first time, use **[[The LIONSBERG Quick Start Guide]]** to structure your session.
+
+In 90 minutes together you will:
+- **Consecrate your circle** with a name and simple agreements
+- **Read aloud together:** The Prologue, The Story, and The Great Game
+- **Sense-make together** about what resonates and what questions arise
+- **Choose your first seasonal quest** — a tangible act of goodwill achievable before the next solstice or equinox
+- **Establish your rhythm** — weekly or bi-weekly meetings to support each other and advance your quest
+
+### Your Ongoing Journey
+
+After your first gathering, **[[The LIONSBERG Playbook]]** provides detailed guidance for:
+- Weekly circle meeting structure (opening, check-in, quest coordination, closing)
+- Seasonal quest selection and execution
+- Conflict transformation and continuous improvement
+- Eventually aligning into Circles of Circles as the movement grows 
 
 **[[Frequently Asked Questions]]** addresses many of the most common questions and concerns. 
 
