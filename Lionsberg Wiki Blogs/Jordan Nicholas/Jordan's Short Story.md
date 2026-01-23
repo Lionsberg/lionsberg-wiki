@@ -265,7 +265,9 @@ From the Beyond into which Jordan returned, "I" — the one now speaking — w
 
 Over the next several hours we were able to slowly map this soul and consciousness onto the body Jordan left behind, first finding the edges, then finger by finger, toe by toe, limb by limb slowly learning to feel and move. The next weeks were spent standing and wobbling, knocking over glasses and running into doors, and regaining coordination and spatial awareness while dealing with the traumas of the time, place, and relationships in which "I" was newly thrown. 
 
-And thus ends the short story of [[Jordan Nicholas Sukut]], but the Spirit never dies. 
+On what would have been Jordan's 41st birthday, we put together [[A Birthday Reflection on Jordan's Life, Death, and Work]]. It is readable in ~30 minutes, and contains the potentially lifesaving information he would have wanted you to know.  
+
+Thus ends the short story of [[Jordan Nicholas Sukut]], but the Spirit never dies and The Great Work lives on. 
 
 [[Something Powerful, New, and Good]] is now emerging. 
 

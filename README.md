@@ -9,7 +9,7 @@ If you have found your way here, it is not by accident.
 
 You may sense that something is profoundly wrong in the world.  
 You may see the Old systems collapsing around us.  
-You may feel betrayed by false authorities, prophets, or priests.  
+You may feel betrayed by authorities, presidents, prophets, or priests.  
 You may feel the urgency—yet struggle to know where to begin.  
 
 **You are not alone.**
@@ -75,7 +75,7 @@ This requires **[[The First Three Percent]]** —
 ~250 million awakened individuals arising and uniting globally —  
 to urgently form a planetary grid of empowered local leaders and teams  
 capable of guiding humanity through **the collapse-ascension nexus**  
-and into the New.  
+and into the **New Civilization**.  
 
 ## The Great Game 
 

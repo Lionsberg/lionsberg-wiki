@@ -48,7 +48,7 @@ Will it fragment into dystopia? Will it be herded down the chutes of kontrolle? 
 
 Or will it arise and unite to **Help One Another** to safety, embody a **New Civilization**, and thereby co-create **Heaven On Earth**?  
 
-Billions of lives and all we hold dear now immediately depend upon whether we can work together to successfully design and build, and embody a **New Civilization** *before the **Old** collapses into **kaos and kontrolle by design***. 
+Billions of lives and all we hold dear now immediately depend upon whether we can work together to successfully design and build, and embody a **New Civilization** *before the **Old** collapses into **chaos and kontrolle by design***. 
 
 But how? 
 
@@ -94,7 +94,7 @@ The **New Civilization** we are **playing into being** must *actually work*.
 It must actually be designed, built, and embodied _before the Old collapses_.  
 From there it must be actively cooperated, maintained, and passed on to the rising generations. 
 
-Civilizations do not operate themselves, and the responsibility abdicated by agents over time is inevitably taken up and used against them by tyrants.  
+Civilizations do not operate themselves, and the responsibility abdicated by conscious agents over time is inevitably taken up and used against them by tyrants.  
 
 It is not enough to "do good" and hope it all magically works out in the end at civilizational scales. Millions of uncoordinated and misaligned good instruments do not a Divine Symphony make. 
 
@@ -102,15 +102,15 @@ The imagination, design, and building of a New Civilization must be undertaken w
 
 ***And this is the most significant project in millennia.*** 
 
-The level of wisdom, skill, and experience that we bring to building critical roadways, reservoirs, and bridges _may not be enough_; but it is certainly the **minimum starting point**. 
+The level of wisdom, skill, and experience that we bring to building humanity's critical roadways, reservoirs, and bridges _may not be enough_; but it is certainly the **minimum starting point**. 
  
 ## An Enabling System and Approach 
 
-From lifetimes and worlds of experience, we understand that even basic projects — let alone the co-creation of **New Civilizations** — require a shared operating system and "Way" that enables planning, coordination, and interoperability among a diverse array of individuals and teams, skills and perspectives, offers and needs.
+From lifetimes and worlds of experience, we understand that even basic projects — let alone the co-creation of **New Civilizations** — require a shared operating system and "**Way**" that enables planning, coordination, and interoperability among a diverse array of individuals and teams, skills and perspectives, offers and needs.
 
 LIONSBERG is a free open source system, process, and protocol **purpose built to enable this**. There is no central organization to join. There is no one to pay. There is no one to complain to, criticize, or tell you what to do. 
 
-It is simply a **Golden Seed** carried to Earth _for this_, containing a set of patterns and a Way of being, designing, and building that makes any world that embodies it more like Heaven. It is **a Pattern Language of Heaven** that can be deployed by any individual, group, or locality that so chooses. 
+It is simply a **Golden Seed** arriving on Earth _for such a time as this_, containing a set of patterns and a Way of being, designing, and building that makes any world that embodies it more like Heaven. It is **a Pattern Language of Heaven** that can be deployed by any individual, group, or locality that so chooses. 
 
 While its true history stretches out into the stars and back into time immemorial, the **[[LIONSBERG - History, Inception, and Trust Manifesto]]** shares a broad overview of LIONSBERG's incarnation and adaptation to English and Earth through the life and work of [[Jordan Nicholas Sukut]] and a planetary+ network of allies. **[[Jordan's Short Story]]** is a relational bridge for those who knew him or are curious about his life, work, and death. We understand that the story is extraordinary and strange to say the least. You do not have to believe anything or understand it all to accept the free gift offered. The [[Provisional Structure]] that allowed the first tens of millions of dollars of value to be woven into "the commons" has now been dissolved by design. This leaves no organization to join, no accounts to pay, no board to steer, no authority to obey.  
 
@@ -118,7 +118,7 @@ Only an **invitation to play** a New Civilization into being as diverse parts of
 
 ## The Synergies of The Prototype and Local Instances 
 
-The ~2.5 million words present in the [[LIONSBERG Wiki]] together constitute [[The Golden Seed of LIONSBERG]]. A statistically inviolable semantic web of meaning that jointly articulate **the DNA, Patterns, Protocols and Plays of the New Civilization**. 
+The ~2.5 million words present in the [[LIONSBERG Wiki]] together constitute [[The Golden Seed of LIONSBERG]]. A statistically inviolable semantic web of meaning that jointly articulates **the DNA, Patterns, Protocols and Plays of the New Civilization**. 
 
 As outlined in [[The Prototype]], this Golden Seed was articulated in the aether by design. This enabled it to remain as pure as possible — able to reflect the **universal wisdom, principles, and values** of all, while remaining uncompromised by the provincial restrictions of any specific people, time, or place. As such, it constitutes a type of **Archetype** or **Ideal** that is designed to be localized and adapted by any group or locality that desires to adopt, nurture, and embody it. 
 
@@ -132,9 +132,7 @@ Arriving on Earth in August 2025 following [[J's Death]], it took several months
 
 Having reviewed the **LIONSBERG Invitation** and being aware _a priori_ of its impact on other worlds, it seems **Wise, Right, and Good** to accept the invitation, and start up [[The First Instance]] of **[[The Great Game]]**.  
 
-You are hereby invited to join the instance we are hosting, or access all the LIONSBERG materials free online and begin your own sovereign instance. 
-
-We can likely cut hundreds or thousands of hours off the Path for those who want to join us in advancing the mission to help humanity exit the burning building, co-create the [[New Civilization]], and bring Heaven to Earth. 
+You are hereby invited to join the instance we are hosting, or access all the LIONSBERG materials free online and begin your own sovereign instance. There entire repository is available to clone / fork [here](https://github.com/lionsberg/lionsberg-wiki) on Github.  
 
 Recognizing that most people struggle to read a book like the bible in a year... and that the 2.5 million words on the LIONSBERG Wiki are roughly 3.33x that length... and that time is short and we must immediately begin... 
 
@@ -152,13 +150,13 @@ As of January 21, 2026, [[The First Instance]] is alive and emerging. We are com
 
 **If you are reading this alone, stop here.**
 
-This journey cannot be walked in isolation. It must be undertaken in community—as fellow members of ONE Body.
+This journey cannot be walked in isolation. It must be undertaken in community—as fellow members of ONE Body. Every meaningful Quest demands a sacred fellowship. 
 
 The Way forward requires you to gather your circle of 3 to 12 resonant souls before continuing.
 
 ### How to Invite Your Circle
 
-1. **Identify 2 to 11 people** awakening to the crisis at hand, sensing the urgency, ready for action
+1. **Identify 2 to 12 people** awakening to the crisis at hand, sensing the urgency, ready for action
 2. **Send them this link:** lionsberg.wiki
 3. **Ask them to read:**
    - The homepage (Welcome to The Gates of LIONSBERG)
@@ -172,8 +170,8 @@ Everyone will arrive having read this opening context. Together you will use **[
 - Consecrate your circle with a name and simple agreements
 - Read aloud **[[Prologue to The Story and The Great Game]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]**
 - Sense-make together about what resonates and what questions arise
-- Choose your first seasonal quest
-- Establish your ongoing weekly or bi-weekly rhythm
+- Choose your first **Seasonal Quest**
+- Establish your ongoing weekly rhythms  
 
 **The sections below provide additional context and resources—but the essential next step is to gather your circle and begin together using [[The LIONSBERG Quick Start Guide]].**
 
@@ -191,7 +189,7 @@ There is a well known saying among masters of the Way:
 
 > **_To know the Way, One must live it_**
 
-You cannot grasp LIONSBERG intellectually before beginning. Words alone cannot carry the full transmission. The only Way to know and understand this emergent power and potential is to step into **the story**, play **the game**, and allow **the Spirit**, **the patterns**, and **the plays** to unfold through you and your circle.
+You cannot grasp LIONSBERG intellectually before beginning. Words alone cannot carry the full transmission. The only Way to know and understand this emergent power and potential is to step into **the story**, play **the game**, and allow **the Spirit**, **the patterns**, and **the plays** to unfold through you and your circle into your local communities.
 
 If it does not transform you, you can stop playing at any time.
 
@@ -220,11 +218,11 @@ After your first gathering, **[[The LIONSBERG Playbook]]** provides detailed gui
 - Weekly circle meeting structure (opening, check-in, quest coordination, closing)
 - Seasonal quest selection and execution
 - Conflict transformation and continuous improvement
-- Eventually aligning into Circles of Circles as the movement grows 
+- Eventually aligning into **Circles of Circles** as the movement grows 
 
 **[[Frequently Asked Questions]]** addresses many of the most common questions and concerns. 
 
-**[[the nameless strategy and plan]]** builds upon **[[The Lionsberg Strategy and Plan]]** and provides an overview of where we are going in the coming months and years and how we might get there. 
+**[[The Lionsberg Strategy and Plan]]** provides an overview of where we are going in the coming months and years and how we might get there. 
 
 **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** is a thirty minute read that provides important and shocking information on what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces those playing The Game can build upon. **Please read it. It contains potentially lifesaving information.**  
 
@@ -244,7 +242,7 @@ To join **the nameless instance**, simply let the person who invited you know yo
 
 That is all for now. As the first **Circles** choose **Quests** and get into **Play**, additional information will be added as it is needed and requested, and **the nameless book** will continue to write itself. 
 
-Please **Pass The Flame** — share this invitation with your loved ones and allies as they awaken to the difficult realities at hand and are ready to get into action. Each person you invite becomes a carrier of the light. 
+Please **Pass The Flame** — share this invitation with your loved ones and allies as they awaken to the difficult realities at hand and are ready to get into action. Each person you invite becomes a carrier of this sacred Light. 
 
 _Perhaps at long last, **The Great Game** will finally be played again_. 
 

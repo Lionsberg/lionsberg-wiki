@@ -6,11 +6,14 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ## Project Backlog / Wishlist 
 
 ### A Items 
+- Have Claude Code do an initial resonance review and improvement on all the main files linked to from [[README]] and [[the nameless book]] so the "entrance" is clean and tidy. 
+- Evaluate adding a humble disclaimer up front on [[README]] and / or [[the nameless book]] on the difficulty of words to communicate around some of the most difficult things, the potential strangeness of the stories of Jordan and LIONSBERG, and an invitation to (somehow get past that and into wise right action). 
 - Generate invitations to 
 	- Martial Arts Circle (circle instance)  
-	- The Sandpoint 300 (community instance)  
+	- The Sandpoint 300 (local instance)  
 	- The First Three Percent (universal instance)  
-- Generate the most essential plays for [[The LIONSBERG Playbook]]  
+		- And any sub-circles that want to form. 
+- Generate the most essential plays for [[The LIONSBERG Playbook]] —  
 - Start playing with one or more groups and feeding The Playbook based on what happens  
 
 ### B Items 

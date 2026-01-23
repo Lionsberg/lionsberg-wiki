@@ -9,9 +9,9 @@ This guide will walk you through **this 90-minute gathering**—what to read alo
 
 By the end of today, you will have:
 - Consecrated your circle with a name and simple agreements
-- Read and reflected on The Story and The Great Game together
-- Chosen your first seasonal quest
-- Set your ongoing rhythm for weekly or bi-weekly gatherings
+- Read and reflected on **The Story** and **The Great Game** together
+- Chosen your first **Seasonal Quest**
+- Set your ongoing rhythm for gatherings and communications  
 
 **Let's begin.**
 
@@ -30,8 +30,8 @@ By the end of today, you will have:
 
 **Opening Round** (~8 min, ~1 min per person):
 
-Go around the circle. Each person briefly shares:
-> "My name is _____, and I'm here because _____."
+Go around the circle. Each person briefly shares:  
+> "My name is _____, and I'm here because _____."  
 
 Keep it short. This is connection, not explanation.
 
@@ -71,22 +71,28 @@ Now discuss together and decide:
 Choose a name for your circle—or use a placeholder until one emerges.
 
 Examples:
-- Circle of [Your Location] (e.g., "Circle of North Idaho")
+- Circle of [Your Location] (e.g., "Circle of Sandpoint")
 - Circle of [Your Focus] (e.g., "Circle of Healing Arts")
-- Circle of [Your Intention] (e.g., "Circle of the Sacred Flame")
+- Circle of [Your Intention] (e.g., "Circle of the Sacred Flame")  
+- "Vision Weavers"  
+- "Map Weavers"  
+- "The Fellowship of the Ring"  
+- etc.  
 
 Or simply: "Our Circle" until something better emerges.
 
 **2. Simple Agreements** (~10 min)
 
-Agree on 2-3 core commitments that will hold your circle together.
+Agree on 2-5 core commitments that will hold your circle together.
 
 **Suggested starting agreements:**
-- **Confidentiality**: What's shared in circle stays in circle
-- **Respect**: Honor each person's voice and journey
-- **Show up**: When you commit to attend, attend
+- **Confidentiality**: What's shared in circle stays in circle  
+- **Respect**: Honor each person's voice and journey  
+- **Show up**: When you commit to attend, attend  
+- **Universal Principles and Values**: Uphold universal values such as Truth, Love, Justice, Stewardship, and Wisdom
+- **Communication**: Agree to check in and contribute regularly to keep the energy and flame of the group alive. Consider setting up a basic platform for asynchronous communications (text, Signal, Discord, Matrix, messenger pigeons, smoke signals, etc.)
 
-Add any others that matter to your specific circle, but **keep it simple**—2-3 maximum. You can always add more later as needs arise.
+Add any others that matter to your specific circle, but **keep it simple**—2-5 maximum. You can always add more later as needs arise.
 
 ---
 
@@ -94,29 +100,30 @@ Add any others that matter to your specific circle, but **keep it simple**—2-3
 
 **What is a Quest?**
 
-A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~3 months from now).
+A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~90 days from now max depending on when you begin).
 
 It should be:
-- **Real**: Something that actually transforms your lives or community
-- **Achievable**: Within reach with several hours per week from your circle
-- **Meaningful**: Connected to needs you see and gifts you can offer
-- **Together**: Requires collaboration, not individual action
+- **Real**: Something that actually transforms your lives or community  
+- **Achievable**: Within reach with several hours per week from your circle. 
+- **Meaningful**: Connected to needs you see and gifts you can offer  
+- **Together**: Requires collaboration, not individual action  
 
 **Quest Brainstorm** (~10 min)
 
 Go around the circle. Each person suggests one possibility:
 - What need do we see in our community or lives?
 - What gift could we offer together?
-- What's achievable in 3 months?
+- What's practically achievable between now and the next solstice or equinox?
 
 **Example First Quests:**
-- Plant a community garden in a neglected space
-- Host a neighborhood gathering to build connection
-- Create a mutual aid network for elders or families in need
-- Document local wisdom from indigenous elders or long-time residents
-- Build or repair something needed locally (playground, bench, library box)
-- Teach a skill to youth (music, martial arts, gardening, coding)
-- Clear and maintain a local trail or natural space
+- Plant a community garden in a neglected space  
+- Plan and host a neighborhood gathering to build connection and discuss this initiative  
+- Create a mutual aid network for elders or families in need  
+- Document local wisdom from indigenous elders or long-time residents  
+- Build or repair something needed locally (playground, bench, library box)  
+- Teach a skill to youth (music, martial arts, gardening, coding)  
+- Clear and maintain a local trail or natural space  
+- Map and begin a directory of local offers and needs  
 
 **Choose ONE Quest** (~7 min)
 
@@ -130,7 +137,7 @@ Discuss which quest resonates most with the group. Look for:
 **Set Your Rhythm** (~3 min)
 
 Decide together:
-- **How often will we meet?** (Weekly? Bi-weekly? Monthly?)
+- **How often will we meet?** (Suggest at least weekly for 90 minutes to begin)
 - **What day and time?** (Choose a consistent slot that works for everyone)
 - **Where?** (Physical location or video link)
 - **Who will send reminders?** (Rotate this role or assign to one person)
@@ -138,34 +145,35 @@ Decide together:
 **Close with Gratitude** (~2-3 min)
 
 Go around one final time. Each person completes this sentence:
-> "I'm grateful for _____."
+> "I'm grateful for _____."  
 
 ---
 
 ## What Happens Next
 
-### Your Weekly or Bi-Weekly Rhythm
+### Your Weekly Rhythm
 
-Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Your typical meeting structure will be:
+Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Your typical meeting structure will be something like:
 
 **Opening Ritual** (5 min)
 - Brief centering practice (breath, meditation, or prayer)
 - Remember who we are and why we're here
 
 **Check-In Round** (10-15 min)
-- Each person shares where they are (emotionally, spiritually, practically)
-- No fixing, just witnessing
+- Each person shares where they are and how they are coming in to the gathering (emotionally, spiritually, practically)
+- No fixing, no discussion, just witnessing
 
 **Quest Coordination** (30-40 min)
 - Progress updates: What's been done since last meeting?
 - Obstacles: What's blocking us?
-- Planning: What are next steps?
-- Support: Who needs what from the circle?
+- Planning: What are the [[Wise Right Next Steps]]?
+- Support: Who needs what from the circle?  
 
-**Learning Harvest** (10 min)
+**Retrospection and Learning Harvest** (10 min)
 - What are we discovering as we work together?
-- What's working? What's not?
-- What are we learning about ourselves, each other, the quest?
+- What's working that we would like to continue?   
+- What would we like to do better in the future?
+- What are we learning about ourselves, each other, the quest?  
 
 **Closing Ritual** (5 min)
 - Gratitude round
@@ -174,7 +182,7 @@ Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Yo
 
 ### Your Seasonal Rhythm
 
-Every solstice and equinox (~every 3 months):
+Every solstice and equinox (~every 90 days):
 
 **1. Complete Your Quest**
 - Celebrate what you've accomplished together
@@ -183,22 +191,24 @@ Every solstice and equinox (~every 3 months):
 
 **2. Retrospective**
 - What worked well in our circle?
-- What didn't work?
-- What did we learn that we can carry forward?
+- What would we like to do better in the future?
+- What did we learn that we can carry forward?  
+- What would we like to offer or share with other groups? 
 
 **3. Choose Your Next Quest**
-- What's calling us now?
-- What's the next tangible act of goodwill we can offer?
-- How do we want to grow or evolve as a circle?
+- What's calling us now?  
+- What's the next tangible act of goodwill we can offer?  
+- How do we want to grow or evolve as a circle?  
 
 **4. Join Seasonal Gatherings** (as they emerge)
 - Connect with other circles in your region
 - Share stories and learnings
-- Celebrate together as the movement grows
+- Celebrate together as the movement grows  
+- Begin aligning **Circles** into **Communities**, **Guilds**, and **Bioregions** from the bottom up  
 
 ### Passing The Flame
 
-When transformation happens in your circle—when you experience breakthroughs, healing, or co-creation together—**pass the flame**:
+When transformation happens in your circle—when you experience breakthroughs, healing, or co-creation together—share [[Stories of Transformation]] and **pass the flame**:
 
 **Invite 1-3 Others**
 - People who are awakening to the crisis
@@ -208,7 +218,7 @@ When transformation happens in your circle—when you experience breakthroughs, 
 **Point Them to the Beginning**
 - Send them to: **lionsberg.wiki**
 - Ask them to read the homepage and opening of [[the nameless book]]
-- Support them as they gather their own circle
+- Support them as they gather their own circle, or integrate into yours  
 
 **Each Person You Invite Becomes a Carrier of the Light**
 
@@ -254,11 +264,11 @@ If you want deeper community, guidance, and planetary coordination, consider joi
 - [[the nameless strategy and plan]] - The first instance implementation
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Critical context on what J discovered (please read—contains potentially lifesaving information)
 - [[Above The Chaos]] - Weekly reflections and strategic analysis
-- [[Lionsberg Wiki Books]] - 144+ books of deeper architecture and wisdom
+- [[Lionsberg Wiki Books]] - A library of deeper architecture and wisdom  
 
 ### Advanced Initiatory Paths (For Later)
 - [[The 144 Gates of Initiation]] - Progressive deepening as circles mature
-- [[The Sacred Ascent]] - The 72-gate path of mastery (martial, yogic, healing arts)
+- [[The Sacred Ascent]] - The 72-gate path of mastery (spiritual, energetic, martial, yogic, healing arts)
 - [[The LIONSBERG Sacred Codex]] - The living constitution and pattern language
 - [[The Eternal Divine Play]] - The infinite game across worlds and dimensions
 
