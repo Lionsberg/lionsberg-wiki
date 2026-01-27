@@ -33,7 +33,7 @@ ___
 
 LIONSBERG is not an organization or institution.  
 It is a **Golden Seed**—a **Pattern Language**—   
-containing the DNA of Heaven adapted to Earth.  
+containing the DNA of Heaven localized and adapted to Earth.  
 
 It is **a bridge** that appears when a world awakens,  
 **a living game** that becomes playable when crisis demands response,  

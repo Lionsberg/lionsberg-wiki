@@ -1,11 +1,14 @@
 # The Great UnVeiling
 
-_In the context of LIONSBERG, The Great UnVeiling refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIONSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
-## Part I: [[The Theses of The Great UnVeiling]]  
+_In the context of LIONSBERG, **The Great UnVeiling** refers to the apocalyptic disclosure of **The Greatest Fraud, Deception, and Existential Threat in history**. Spoken by a chorus of thousands of voices around the world and climaxing between 2025 and 2027, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIONSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]** from **[[The Caves]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
+## Part I: The 99 Theses of The Great UnVeiling    
 
-## Part II: The Great UnVeiling Book  
-[[A Birthday Reflection on Jordan's Life, Death, and Work]] offers some perspective on this unfinished work cut short by [[J's Death]]. 
+**[[The 99 Theses of The Great UnVeiling]]** is an alternate presentation of the basic concepts on The Great UnVeiling. It is a ~10,000 word treatise designed to be nailed to the gates of the collapsing [[Old World]].  
+## Part II: A Reflection on Jordan's Life, Death, and Work  
 
+**[[A Birthday Reflection on Jordan's Life, Death, and Work]]** offers some perspective on this unfinished work cut short by **[[J's Death]]**. It includes brief paragraphs that transmit the basic information planned for each of the unfinished chapters. 
+
+## Part III: The Great UnVeiling Book  
 # The Great UnVeiling
 _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 

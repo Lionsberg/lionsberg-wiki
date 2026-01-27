@@ -58,7 +58,7 @@
 	
 - [[Template For Seasonal OmniSpection]]  
 	
-- [[The Theses of The Great UnVeiling]] - work in progress 
+- [[The 99 Theses of The Great UnVeiling]] - work in progress 
 	
 - [[What If... What Then... What Next?]]  
 	
