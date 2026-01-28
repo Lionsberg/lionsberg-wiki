@@ -692,7 +692,7 @@ Into which his consciousness was venturing
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] was a first attempt to communicate the shocking revelations surfaced by his political activities and briefings between 2022 and 2024  
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] was an attempt to provide a simple narrative structure and meme that humanity could adopt it so choose — it is in one long file because it was being formatted for editing and publishing   
 - [[The Lionsberg Strategy and Plan]] was a work in progress attempting to articulate the overall "game plan" for humanity's successful escape and ascension into the new era  
-- [[The LIONSBERG Co-Creator's Handbook]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
+- [[The LIONSBERG Co-Creator's Handbookx]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
 - [[The Dawn of the New World]] was a fun children's book exploring the real situation of Earth through a story based narrative arc   
 - [[A Way Beyond Fear, Anxiety, And Depression]] was a simple effort to distill the psychology of negative emotion into a pragmatic and accessible way for those who were afraid, disoriented, or depressed to climb out of the hole and set their feet on the Path  
 - [[Playing With Poetry]] is a set of simple reflective poems that stand starkly against the realities that have unfolded  

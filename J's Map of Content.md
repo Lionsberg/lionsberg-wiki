@@ -8,7 +8,7 @@ The [[LIONSBERG Wiki]] homepage now has a more contextual and narrative feel. (S
 
 [[Lionsberg Wiki Books]] is where topics end up condensing into more structured form. 
 
-[[The LIONSBERG Co-Creator's Handbook]] is a starting point to learn about the Way. 
+[[The LIONSBERG Co-Creator's Handbookx]] is a starting point to learn about the Way. 
 
 ## Components to Track 
 
@@ -16,7 +16,7 @@ The [[LIONSBERG Wiki]] homepage now has a more contextual and narrative feel. (S
 - [[System Wide Master Planning]]  
 - [[LIONSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  
-- [[The Lionsberg Handbook]] migrating to [[The LIONSBERG Co-Creator's Handbook]] and [[The LIONSBERG Way]]  
+- [[The Lionsberg Handbook]] migrating to [[The LIONSBERG Co-Creator's Handbookx]] and [[The LIONSBERG Way]]  
 - [[LIONSBERG Lexicon]]  
 - [[The 12 Pillars of Lionsberg]]  
 

@@ -66,7 +66,7 @@ The purpose of this page is to provide ongoing updates to the current state of [
 10. 🔄 **THE PLAYBOOK**
 	1. Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
 		1. [[The LIONSBERG Playbook]]  
-			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
+			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbookx]]  
 			2. ⏳Define the most important plays... 
 	
 11. 🔄 **FREQUENTLY ASKED QUESTIONS**

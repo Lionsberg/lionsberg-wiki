@@ -69,7 +69,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 ## 5 The Handbook of LIONSBERG
 
-[[The LIONSBERG Co-Creator's Handbook]]  
+[[The LIONSBERG Co-Creator's Handbookx]]  
 
 ## 6 The Guides of LIONSBERG
 

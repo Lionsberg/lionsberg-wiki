@@ -79,7 +79,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influen
 
 > **The vast majority of the [[Work]] required to co-create [[The Arks]], [[The Hubs]], and the [[Network Of Networks]]  happens at the level of LIONSBERG Teams. If humanity can master this scale of governance, the rest will follow naturally.**  
 
-[[The LIONSBERG Co-Creator's Handbook]] is a starting resource for forging effective Teams. 
+[[The LIONSBERG Co-Creator's Handbookx]] is a starting resource for forging effective Teams. 
 ### **4. Community Councils (10,000-Person Scale)**
 
 - The [[LIONSBERG Families]] and [[LIONSBERG Teams]] composing each **Community Hub** must self-organize and establish a **Wisdom & Governance Council** at the Community level, composed of **elders, skilled organizers, spiritual leaders, and those proven in service**.  

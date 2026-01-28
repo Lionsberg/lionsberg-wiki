@@ -28,7 +28,7 @@ The principle we follow is simple: **The Rule of Three**.
 
 Circles provide mutual support, shared accountability, sustained motivation, and joyful co-creation.
 
-As detailed in [[The LIONSBERG Co-Creator's Handbook]], a Circle ideally comprises between 3 and 12–16 committed individuals. Often 4 to 7 is a sweet spot.  
+As detailed in [[The LIONSBERG Co-Creator's Handbookx]], a Circle ideally comprises between 3 and 12–16 committed individuals. Often 4 to 7 is a sweet spot.  
 
 ## How It Works
 

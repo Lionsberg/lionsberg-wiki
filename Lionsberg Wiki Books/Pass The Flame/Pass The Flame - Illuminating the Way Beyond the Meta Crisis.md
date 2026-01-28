@@ -2105,7 +2105,7 @@ Stay tuned... you won't believe what happens next in The Story.
 
 We are assembling an array of infrastructure, tools, and technology in [[The Commons]] to help Individuals, Groups, and Localities [[Progress]] along the [[Way]] towards the Fullness of Individual, Local, and Collective Potential. 
 
-[[The LIONSBERG Co-Creator's Handbook]] is a great place to begin. 
+[[The LIONSBERG Co-Creator's Handbookx]] is a great place to begin. 
 
 The [[Lionsberg Wiki Books]] lay out the concepts in an array for formats for deeper exploration and discussion. 
 

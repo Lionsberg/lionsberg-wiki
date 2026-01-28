@@ -164,7 +164,7 @@
 - [[One of a Thousand Letters Lining the Wastebasket]]  
 - Updates to [[LIONSBERG]]  
 - Updates to [[Lionsberg Summary]]  
-- Updates to [[The LIONSBERG Co-Creator's Handbook]]  
+- Updates to [[The LIONSBERG Co-Creator's Handbookx]]  
 - [[Tracking Loose Threads (January 2025)]]  
 - [[The Fibonacci Unfolding Model]]  
 - [[Lionsberg Cycles of Growth]]  

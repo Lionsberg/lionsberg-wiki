@@ -7,7 +7,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 
 - [[Something Powerful, New, and Good]]  
 - [[Above The Chaos]]  
-- [[The LIONSBERG Co-Creator's Handbook]]  
+- [[The LIONSBERG Co-Creator's Handbookx]]  
 - [[Lionsberg Wiki Books]]  
 - [[The Book of LIONSBERG]]  
 - [[Lionsberg Invitation|The Invitation]]   

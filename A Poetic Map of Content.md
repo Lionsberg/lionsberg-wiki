@@ -23,4 +23,4 @@ As [[Wise Right People]] Resonate and Respond
 The [[Above the Chaos - WikiCast]] hosts their Sacred Song  
 
 From Way up here, [[Beyond]] the [[Old]] Fray,
-[[The LIONSBERG Co-Creator's Handbook]] illuminates Our Sacred [[Way]]  
+[[The LIONSBERG Co-Creator's Handbookx]] illuminates Our Sacred [[Way]]  
