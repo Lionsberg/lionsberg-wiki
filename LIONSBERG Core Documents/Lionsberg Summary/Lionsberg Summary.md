@@ -28,7 +28,7 @@ The [[Above The Chaos]] series follows the unfolding in real time.
 
 The [[Lionsberg Invitation]] can be shared to [[Pass The Flame]] and invite the wise right next people to [[Join The Movement]]. 
 
-The [[The LIONSBERG Co-Creator's Handbookx]] can help get you up to speed once you join. 
+The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
 
 The [[LIONSBERG Lexicon]] is a starting point for redeveloping a shared language.  
 

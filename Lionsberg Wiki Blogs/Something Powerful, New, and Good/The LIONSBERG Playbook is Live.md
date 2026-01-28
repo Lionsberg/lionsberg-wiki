@@ -2,7 +2,7 @@
 _A post in [[Something Powerful, New, and Good]]_  
 _January 16, 2026 (Old Time)_
 
-[[The LIONSBERG Playbook]] is live. What was formerly [[The LIONSBERG Co-Creator's Handbookx]] has been woven in and retired. 
+[[The LIONSBERG Playbook]] is live. What was formerly [[The LIONSBERG Co-Creator's Handbook]] has been woven in and retired. 
 
 [[README|The LIONSBERG Wiki Homepage]] now concisely points to  [[the nameless book]]... which points to [[The LIONSBERG Quick Start Guide]] and Playbook. 
 

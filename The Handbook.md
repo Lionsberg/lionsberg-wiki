@@ -1,3 +1,3 @@
 # The Handbook
 
-Refers to [[The LIONSBERG Co-Creator's Handbookx]]  
+Refers to [[The LIONSBERG Co-Creator's Handbook]]  

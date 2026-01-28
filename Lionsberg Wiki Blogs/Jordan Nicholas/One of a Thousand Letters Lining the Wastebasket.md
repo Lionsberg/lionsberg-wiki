@@ -70,7 +70,7 @@ Our proposal is simple:
 
 When billions voluntarily adopt their **[[New Citizenship]],** they will share equally in humanity’s most valuable creation: a flourishing world being regenerated and renewed—growing better every day through our collective efforts.
 
-Over recent years, We have synthesized lifetimes of wisdom and work into a starting point for this movement. Details can be found in the [[Lionsberg Wiki Books]], with further instructions in [[The LIONSBERG Co-Creator's Handbookx]].  
+Over recent years, We have synthesized lifetimes of wisdom and work into a starting point for this movement. Details can be found in the [[Lionsberg Wiki Books]], with further instructions in [[The LIONSBERG Co-Creator's Handbook]].  
 
 ### **A Call to Action**
 

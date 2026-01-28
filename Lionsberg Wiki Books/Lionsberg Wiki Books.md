@@ -7,7 +7,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 ## Featured Works
 
 1. [[The Lionsberg Book of Meditations]]  
-2. [[The LIONSBERG Co-Creator's Handbookx]]  
+2. [[The LIONSBERG Co-Creator's Handbook]]  
 3. [[The Book of LIONSBERG]]  
 4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 5. [[The Lionsberg Strategy and Plan]]  
@@ -30,7 +30,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 ## Books by Jordan+ (Through 2024)
 
 1. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
-2. [[The LIONSBERG Co-Creator's Handbookx]]   
+2. [[The LIONSBERG Co-Creator's Handbook]]   
 3. [[The Book of LIONSBERG]]  
 4. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]  
 5. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]   

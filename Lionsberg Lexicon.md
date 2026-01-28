@@ -603,7 +603,7 @@ This domain integrates:
 66. [[LIONSBERG Narrative Universe]]  
 67. [[LIONSBERG Lexicon]]  
 68. [[LIONSBERG System]]  
-69. [[The LIONSBERG Co-Creator's Handbookx]]  
+69. [[The LIONSBERG Co-Creator's Handbook]]  
 70. [[The Lionsberg Toolkit]]  
 
 
@@ -711,7 +711,7 @@ This domain integrates:
 44. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]  
 45. [[Domains of Responsibility and Authority]]  
 46. [[Field of Agreements]]  
-47. [[The LIONSBERG Co-Creator's Handbookx]]  
+47. [[The LIONSBERG Co-Creator's Handbook]]  
 48. [[Constitutional Amendments]]  
 
 ## The Meta Project 
@@ -774,7 +774,7 @@ This domain integrates:
 95. [[Communication Debt]]  
 96. [[LIONSBERG Integrated Delivery System]]  
 97. [[Integration And Alignment Of Resources And Power]]  
-98. [[The LIONSBERG Co-Creator's Handbookx]]  
+98. [[The LIONSBERG Co-Creator's Handbook]]  
 
 ## The Elevation Initiative 
 

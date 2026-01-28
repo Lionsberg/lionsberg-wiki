@@ -65,7 +65,7 @@ The system is designed for this reciprocating cycle to fuel the [[Resourcing and
 ____
 ## Team of Teams + A New Operating System
 
-[[The LIONSBERG Co-Creator's Handbookx]] lays out the basic tools and principles of the [[New System]]. 
+[[The LIONSBERG Co-Creator's Handbook]] lays out the basic tools and principles of the [[New System]]. 
 
 Those who want to co-create with [[J]] or receive resources from [[The Founder's Fund]], must be willing and able to embody the [[Minimum Standards of Interoperability]].   
 

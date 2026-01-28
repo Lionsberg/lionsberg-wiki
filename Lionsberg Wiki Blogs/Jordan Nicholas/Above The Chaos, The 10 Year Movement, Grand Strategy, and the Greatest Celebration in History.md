@@ -101,4 +101,4 @@ We will know The Flame has been successfully passed when each new co-creator:
 4. Contributes - Time / Energy / Resources / Relationships  
 5. Passes The Flame to the next Wise Right Individual 
 
-For additional guidance, see the [[The LIONSBERG Co-Creator's Handbookx]]  
+For additional guidance, see the [[The LIONSBERG Co-Creator's Handbook]]  

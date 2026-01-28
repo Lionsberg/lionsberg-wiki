@@ -270,7 +270,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- 1. [[Mondragon]] learnings 
 	- 2. The [[Lionsberg Invitation]]  
 	- 3. [[The Summary]] 
-	- The [[The LIONSBERG Co-Creator's Handbookx]] should likely include links to these and other [[Frequently Asked Questions]]  
+	- The [[The LIONSBERG Co-Creator's Handbook]] should likely include links to these and other [[Frequently Asked Questions]]  
 		- And the Wiki should be cleaned up / weeded to remove duplicates etc. 
 
 ## Frequently Asked Questions 

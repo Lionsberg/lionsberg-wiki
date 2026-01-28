@@ -132,7 +132,7 @@ Already, We are **becoming something entirely [[New]].** Together.
 
 ### **3. Engage, Co-Create, and Share Stories.**
 
- 1. Read [[The LIONSBERG Co-Creator's Handbookx]] to get started.    
+ 1. Read [[The LIONSBERG Co-Creator's Handbook]] to get started.    
 2. Find your Role in The Great Work. 
 3. Forge or join [[Teams]].  
 4. Choose [[Seasonal Quests]].  
