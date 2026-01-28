@@ -24,7 +24,7 @@ To start the year, I spent some time alone in the mountains and recorded three f
 2. The Probability of Collapse - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)
 3. A Positive Vision, Strategy and Plan to forge the Best Possible Future - [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)
 
-Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[Lionsberg Wiki Books]] and the [[LIONSBERG Manifesto]]. 
+Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[Lionsberg Wiki Books]] and the [[LIONSBERG Manifestox]]. 
 
 And now let me offer a humble and candid assessment of the efforts to date and where we stand now in January 2024. 
 

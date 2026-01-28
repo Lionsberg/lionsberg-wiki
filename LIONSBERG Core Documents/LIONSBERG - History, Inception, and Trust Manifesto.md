@@ -106,7 +106,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 
 - The LIONSBERG Wiki is established as a transparent open source repository  
 - Foundational literature is published to the [[LIONSBERG Wiki]], including:
-    - The **[[LIONSBERG Manifesto]]**
+    - The **[[LIONSBERG Manifestox]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
     - **[[The Book of LIONSBERG]]**  
     - Thousands of interlinked wiki pages begin to flood the wiki  

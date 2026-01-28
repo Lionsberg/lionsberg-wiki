@@ -6,7 +6,7 @@ A post in [[Above The Chaos]].
 
 Hello friends and allies, 
 
-I have published the [[LIONSBERG Manifesto]]. 
+I have published the [[LIONSBERG Manifestox]]. 
 
 *It's time to move*. 
 

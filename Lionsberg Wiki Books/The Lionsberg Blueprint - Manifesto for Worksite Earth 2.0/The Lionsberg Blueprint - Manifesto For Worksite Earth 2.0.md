@@ -7,7 +7,7 @@ Welcome to the [[Force For Good]]. We are glad you are here.
 1. For a brief overview of the Lionsberg System and Approach, the following are the best starting points: 
 	1. The [[One Sentence]] question
 	2. The [[Lionsberg Introduction]]
-	3. The [[LIONSBERG Manifesto]]
+	3. The [[LIONSBERG Manifestox]]
 	4. The One Page and Executive Summaries below. 
 	5. Skimming the chapter titles on this page to catch the essence  
 2. This longer **Manifesto v2.0** expands upon the original significantly, delving deeper into context, strategy, structure, planning, resourcing and operationalization, with the Aim of serving as a more comprehensive Blueprint for The Movement. 

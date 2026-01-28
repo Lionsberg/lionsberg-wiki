@@ -161,7 +161,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIONSBERG Manifesto 
 
-[[LIONSBERG Manifesto]]   
+[[LIONSBERG Manifestox]]   
 ## 13. Introduction to LIONSBERG 
 
 [[Lionsberg Introduction]]   
