@@ -11,6 +11,6 @@ All Provisional Documents are a [[Work In Progress]]  designed to be continually
 [[Lionsberg Introduction]]   
 [[Lionsberg Invitation]]   
 [[The LIONSBERG Constitution]]  
-[[The Book of LIONSBERG]]  
+[[The Book of LIONSBERGx]]  
 
 As a next step, explore the [[Lionsberg Wiki Books]] for more information. 

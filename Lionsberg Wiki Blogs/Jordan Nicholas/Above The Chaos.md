@@ -334,7 +334,7 @@
 - **Above The Chaos Podcast Episode 2** is live - [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
 - **Above The Chaos Podcast Episode 1** is live - [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
 - Update to - [[Lionsberg Wiki Books]]  
-- Progress published - [[The Book of LIONSBERG]]  
+- Progress published - [[The Book of LIONSBERGx]]  
 - New Wikibook published - [[Jordan's Voice Notes]]    
 - New Wikibook published - [[The Way of God]]   
 - New Wikibook published - [[An Alternative to Apocalypse - The New Covenant]]  

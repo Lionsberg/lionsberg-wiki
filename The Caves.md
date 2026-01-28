@@ -59,5 +59,5 @@ Confronted with a terror so profound, a realization so appalling, and a cacophon
 _To Be Continued..._
 ____
 
-The Caves is a concept from [[The Book of LIONSBERG]] - see [[1.5 The Caves]].  
+The Caves is a concept from [[The Book of LIONSBERGx]] - see [[1.5 The Caves]].  
 

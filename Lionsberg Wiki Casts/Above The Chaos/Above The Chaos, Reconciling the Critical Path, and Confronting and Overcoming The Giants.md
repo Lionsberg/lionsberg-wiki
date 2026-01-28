@@ -233,7 +233,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 #### Intentionally Inflicted Darkness 
 
-- We have explored in other places such as [[The Book of LIONSBERG]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
+- We have explored in other places such as [[The Book of LIONSBERGx]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
 - It appears that the [[Invisible Power Structures]] operating behind the Roman Empire and Catholic Church intentionally co-opted, distorted, and destroyed to the best of their ability those shoots of enlightenment, and intentionally threw humanity into a millennium and a half of Darkness. 
 - Mathematics constitutes human mind’s most cosmically powerful faculty.
 - It seems clear that between 200 B.C.  and 200 A.D. a deliberately planned policy was adopted by the combined supreme political and religious power structure of that period, which undertook the conditioning  of the human reflexes to misconceive and mis-see (or  mostly not see at all) the macro-micro-cosmic systems in  which we live. 

@@ -9,7 +9,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 - [[Above The Chaos]]  
 - [[The LIONSBERG Co-Creator's Handbook]]  
 - [[Lionsberg Wiki Books]]  
-- [[The Book of LIONSBERG]]  
+- [[The Book of LIONSBERGx]]  
 - [[Lionsberg Invitation|The Invitation]]   
 - [[Frequently Asked Questions]]  
 - [[Lionsberg Case Studies]]  

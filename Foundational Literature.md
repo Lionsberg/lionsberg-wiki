@@ -2,5 +2,5 @@
 
 - [[LIONSBERG Manifesto]]  
 - [[Lionsberg Wiki Books]]  
-- [[The Book of LIONSBERG]]  
+- [[The Book of LIONSBERGx]]  
 - [[Above The Chaos]]  

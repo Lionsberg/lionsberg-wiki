@@ -134,7 +134,7 @@ At a minimum, this creates an affirmative duty of every Individual to Love, Help
 
 Simply it creates an affirmative duty of every individual to Love, Help, and Not Harm [[ONE]] and [[All]]. 
 
-Other areas in [[The Book of LIONSBERG]] deal more technically and in detail with the interexistence of [[All]]. 
+Other areas in [[The Book of LIONSBERGx]] deal more technically and in detail with the interexistence of [[All]]. 
 
 ## Universal Values
 Across time and space, what appears to be a core set of Universal Values has emerged. 

@@ -756,7 +756,7 @@ It is likely that you are just beginning to awaken
 To the reality that for generations your planet and loved ones  
 Have been enslaved in a Dark system of Kaptivity and Kontrolle  
 
-In [[The Book of LIONSBERG]]  
+In [[The Book of LIONSBERGx]]  
 The Story of Awakening in [[The Caves]] goes something like this  
 
 >_Covered in the ethereal cloak of the Spirit, you are swept along through the cool damp air, a tangible contrast to the enveloping warmth embracing you._ 
