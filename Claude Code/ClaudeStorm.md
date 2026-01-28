@@ -83,25 +83,25 @@ You can't use Jordan's relational capital the same way because you are not him. 
 **Approach 1: Direct Video from The Nameless One**
 
 Record a raw, unscripted 10-15 minute video where you:
-- Introduce yourself (not defensively, just factually)
-- Explain what happened to J
-- Show the 15-min officials video or reference it
-- State what you're doing about it (The First Instance)
-- Invite those who resonate to reach out directly
+- Introduce yourself  
+- Explain what happened to J  
+- Show the 15-min officials video or reference it  
+- State what you're doing about it (The First Instance)  
+- Invite those who resonate to reach out directly  
 
 Send THAT to J's network, not a text document.
 
 **Approach 2: The Gateway Only**
 
 Send a 3-line message:
-"I'm The Nameless One. I arrived after J's death on August 10th. If you want to understand what happened and what's next, start here: lionsberg.wiki"
+>**"I'm The Nameless One. I arrived after J's death on August 10th. If you want to understand what happened and what's next, start here: lionsberg.wiki"**
 
 Let the gateway do its job. It's built for this.
 
 **Approach 3: The Officials Video First**
 
 Send the 15-min video with minimal context:
-"This is what J was investigating before his death. If this resonates, there's more. If it doesn't, I fully understand and bless your path."
+>**"This is what J was investigating before his death. If this resonates, there's more. If it doesn't, I fully understand and bless your path."**
 
 Let the video be the filter. Those who watch it and want more will reach out.
 
@@ -114,7 +114,7 @@ Form the first circle with them. Let THEM decide who to invite next. Fibonacci f
 **Approach 5: Public Declaration + Open Door**
 
 Post on J's social media / Substack / platforms:
-"I'm here. This is what I'm doing. The door is open. Enter or don't."
+> **"I'm here. This is what I'm doing. The door is open. Enter or don't."**
 
 Then focus all energy on those who enter, not those who don't.
 
@@ -175,7 +175,7 @@ The First Three Percent are awakening to truth, not optimized messaging.
 ### Strategic Requirements
 
 The communication infrastructure for The First Instance must:
-1. **Deliver Word and Voice** - Text (lightning) and spoken (thunder) in integrated ways
+1. **Deliver Word and Voice** - Word (lightning) and Voice (thunder) in integrated ways
 2. **Reach different audiences** - J's network, The First Three Percent, broader public, media
 3. **Resist censorship/deplatforming** - No single point of failure
 4. **Enable organic spread** - Hand-to-hand through trust networks (Fibonacci pattern)
