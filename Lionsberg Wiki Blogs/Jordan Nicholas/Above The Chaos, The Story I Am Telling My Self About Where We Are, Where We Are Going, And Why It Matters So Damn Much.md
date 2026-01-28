@@ -70,7 +70,7 @@ I am also nearing the end of my resources, and ready for [[ONE]] and [[All]] to 
 
 ## Humanity 
 
-See books such as *The Lessons History*, *The Dawn of Everything*, [[The Book of LIONSBERGx]]. 
+See books such as *The Lessons History*, *The Dawn of Everything*, [[The Book of LIONSBERG]]. 
 
 ### Lionsberg | Meta Project 
 

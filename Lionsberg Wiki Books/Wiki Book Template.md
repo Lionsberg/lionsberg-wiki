@@ -1,6 +1,6 @@
 # Wiki Book Template
 
-As a starting point, perhaps a Wiki Book has a main page such as [[The Book of LIONSBERGx]] that also serves as a table of contents / map of content / jump page. 
+As a starting point, perhaps a Wiki Book has a main page such as [[The Book of LIONSBERG]] that also serves as a table of contents / map of content / jump page. 
 
 Then, perhaps at the book on a page there is navigation section that points forward one, back one, and back to the main page. 
 
@@ -10,5 +10,5 @@ ___
 
 Forward to [[1.18 None Of Us Until All Of Us]]
 Back to [[1.16 Dialogue, Circumambulation, and Speech]]
-Back to table of contents [[The Book of LIONSBERGx]]
+Back to table of contents [[The Book of LIONSBERG]]
 

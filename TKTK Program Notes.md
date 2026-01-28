@@ -357,7 +357,7 @@ ___
 - **[[The LIONSBERG Narrative Universe]]**
 	- **[[The Story of LIONSBERG]]**  
 	- [[The Chronicles of Lionsberg]]  
-	- **[[The Book of LIONSBERGx]]**  
+	- **[[The Book of LIONSBERG]]**  
 		- Metaphysics
 		- Theology  
 		- Philosophy  

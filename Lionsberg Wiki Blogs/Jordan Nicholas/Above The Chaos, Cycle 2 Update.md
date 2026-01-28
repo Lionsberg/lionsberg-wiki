@@ -21,7 +21,7 @@ For a detailed statement at a higher level of analysis, see the [[Meta Project P
 
 For some thoughts on how we can begin to transform each day into a day well lived, see a short manuscript we put together called [[The Power of Today]] (Work in progress). If you don't already have a well thought out [[Daily Practice]], this is a good starting point. 
 
-For the opening parts of forging a Story that encompass and explain everything in a different way, we are publishing live as a work in progress [[The Book of LIONSBERGx]]. We might change the name later, but its a start. 
+For the opening parts of forging a Story that encompass and explain everything in a different way, we are publishing live as a work in progress [[The Book of LIONSBERG]]. We might change the name later, but its a start. 
 
 Critical to creating a System is defining its Goal, and thereby what constitutes [[Value]] within that framework. The [[Value]] link contains some opening thoughts redefining and transacting on genuine value. 
 

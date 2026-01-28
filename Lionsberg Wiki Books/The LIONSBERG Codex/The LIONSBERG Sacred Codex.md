@@ -16,7 +16,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 	- **[[The Great UnVeiling]]**  
     
 
-- **[[The Book of LIONSBERGx]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
+- **[[The Book of LIONSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
     
 - **[[The LIONSBERG Covenant and Law]]** 
     
@@ -56,7 +56,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 ## 2 The Book of LIONSBERG
 
-[[The Book of LIONSBERGx]]  
+[[The Book of LIONSBERG]]  
 
 ## 3 The Way of LIONSBERG 
 

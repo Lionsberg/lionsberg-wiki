@@ -194,7 +194,7 @@ In 2023 the LIONSBERG Wiki was established as a transparent open source reposito
 Additional foundational literature was published including: 
 - The [[LIONSBERG Manifesto]]  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-- [[The Book of LIONSBERGx]]  
+- [[The Book of LIONSBERG]]  
 
 Basic communication and broadcast capabilities were established including [[Above The Chaos]], additional planetary network and social experiments were undertaken, and during this period Jordan traveled and networked through events in New York, Egypt, Austin, Ecuador, Estonia, Barcelona, South Africa, Kenya, Tanzania, and Dubai, as well as throughout the United States.  
 

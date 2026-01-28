@@ -157,7 +157,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 14. The Book of LIONSBERG 
 
-[[The Book of LIONSBERGx]]  
+[[The Book of LIONSBERG]]  
 
 ## 13. The LIONSBERG Manifesto 
 

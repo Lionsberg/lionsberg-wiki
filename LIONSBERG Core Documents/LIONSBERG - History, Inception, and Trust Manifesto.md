@@ -88,7 +88,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Jordan's trajectory collides with corrupt authorities of Church and State. 
 - Five years of dissolution ensues, resulting in the eventual loss of his home, wealth, companies, etc.  
 - Jordan's on the record recap of events with the government can found in the [Federal Civil Rights and Corruption Case](https://www.pacermonitor.com/public/case/49766123/Jordan_Nicholas_Sukut_v_County_of_San_Bernadino_et_al), with additional narrative in [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]].  
-- Drafting of [[The Book of LIONSBERGx]] accelerates.  
+- Drafting of [[The Book of LIONSBERG]] accelerates.  
 - Ongoing weekly meetings and planning with advisors and allies.  
 
 #### **2022: Social Experiments Begin**
@@ -108,7 +108,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Foundational literature is published to the [[LIONSBERG Wiki]], including:
     - The **[[LIONSBERG Manifesto]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
-    - **[[The Book of LIONSBERGx]]**  
+    - **[[The Book of LIONSBERG]]**  
     - Thousands of interlinked wiki pages begin to flood the wiki  
 - A minimum viable communication system and broadcast capabilities are established. 
 - Additional planetary networking and social experiments undertaken. 
