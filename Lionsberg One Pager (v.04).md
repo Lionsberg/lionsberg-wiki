@@ -32,7 +32,7 @@ Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corru
 
 ## Raising a Standard 
 
-We are **Raising A Standard** by setting forth the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]] - a bold, transformative and comprehensive strategy empowering [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global levels while navigating us toward a regenerative, just, and thriving future.
+We are **Raising A Standard** by setting forth the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]] - a bold, transformative and comprehensive strategy empowering [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global levels while navigating us toward a regenerative, just, and thriving future.
 
 We are also unveiling a gamified infrastructure for [[The Movement]] called [[The Great Game of LIONSBERG]] and the [[Lionsberg Platform]], created to serve, strengthen, equip and unite the decentralized [[Force For Good]].
 

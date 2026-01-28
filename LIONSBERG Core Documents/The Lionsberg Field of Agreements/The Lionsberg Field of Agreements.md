@@ -1,6 +1,6 @@
 # The Lionsberg Field of Agreements
 
-[[LIONSBERG Manifestox]]  
+[[LIONSBERG Manifesto]]  
 [[LIONSBERG Declaration of InterDependence]]  
 [[LIONSBERG Core Statements]]  
 [[Lionsberg Core Documents]]   

@@ -8,7 +8,7 @@ Becoming a part of the [[Lionsberg Platform]] not only empowers you to make a me
 
 The Lionsberg Platform is ***invitation only*** for now so we can manage the quality and rate of growth. To request access to the [[Lionsberg Platform]], follow these simple steps:
 
-1. Read the [[LIONSBERG Manifestox]] 
+1. Read the [[LIONSBERG Manifesto]] 
 2. Fill out the [[Manifesto Response Form]] 
 3. On the Manifesto Response Form, click "yes" to joining the platform to request an invitation code 
 

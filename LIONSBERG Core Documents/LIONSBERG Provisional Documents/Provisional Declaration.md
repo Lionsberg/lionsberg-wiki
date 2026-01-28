@@ -1,7 +1,7 @@
 # Provisional Declaration
 
 This document was superseded by: 
-1. [[LIONSBERG Manifestox]]  
+1. [[LIONSBERG Manifesto]]  
 2. [[LIONSBERG Declaration of InterDependence]]  
 
 

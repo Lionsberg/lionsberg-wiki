@@ -28,7 +28,7 @@ Here are some key steps to prepare for [[The Great Transformation]]:
     
 12.  **Participate in The Great Game of Lionsberg**: Actively contribute your unique skills, knowledge, and passion to [[The Great Game of LIONSBERG]], working together with fellow [[Citizens]] to confront and overcome the [[Meta Crisis]] and co-create the [[New World]].
     
-13.  **Serve as a Steward and Advocate**: Promote the principles and values of the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]] within your sphere of influence, inspiring others to join [[The Movement]] and contribute to the Great Transformation..
+13.  **Serve as a Steward and Advocate**: Promote the principles and values of the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]] within your sphere of influence, inspiring others to join [[The Movement]] and contribute to the Great Transformation..
     
 14. **Spread the World and Help Others Prepare**: [[Spread The Word]] and help and encourage others to prepare. Successfully navigating through the [[Meta Crisis]] and [[The Great Transformation]] requires as many conscious, aware, informed, strong Citizens and Communities as possible. 
     

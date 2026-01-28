@@ -4,7 +4,7 @@ _(2023.04.14 Draft For Continuous Improvement)_
 
 Preamble:
 
-We, the free and united [[Citizens]] of the world, recognizing the monumental task that lies ahead as we navigate the challenges and opportunities presented by the [[Meta Crisis]], hereby affirm our commitment to the principles, values, and actions outlined in the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]]. As we embark on this transformative [[Quest]], we pledge to stand together in solidarity, guided by the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]].
+We, the free and united [[Citizens]] of the world, recognizing the monumental task that lies ahead as we navigate the challenges and opportunities presented by the [[Meta Crisis]], hereby affirm our commitment to the principles, values, and actions outlined in the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]]. As we embark on this transformative [[Quest]], we pledge to stand together in solidarity, guided by the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]].
 
 Recognizing our interconnectedness, shared destiny, and inherent unity, we hereby agree to the following provisions of the **Lionsberg Treaty**:
 
@@ -15,7 +15,7 @@ Article 1: Commitment to Unity and Collaboration
 
 Article 2: Pursuit of the New Vision and Plan
 
-1.  We commit to actively engage with and support the [[New Vision and Plan]] outlined in the [[LIONSBERG Manifestox]] and [[The Books]], working individually and collectively towards the realization of a brighter, more prosperous future for all.
+1.  We commit to actively engage with and support the [[New Vision and Plan]] outlined in the [[LIONSBERG Manifesto]] and [[The Books]], working individually and collectively towards the realization of a brighter, more prosperous future for all.
 2.  We pledge to continuously learn, adapt, and improve our strategies and actions in line with the principles, goals, and values of the [[New Vision and Plan]].
 
 Article 3: Participation in the Movement and the Game

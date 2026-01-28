@@ -25,7 +25,7 @@ The Participant acknowledges and agrees to the following rights and responsibili
 
 a) Access to resources, support, and opportunities provided by the Lionsberg System and Community, subject to availability and any applicable eligibility requirements, including mentorship, training, networking, and collaboration opportunities 
 b) Responsibility to maintain a respectful, loving, and cooperative environment within the Lionsberg community, promoting diversity and justice, and treating all Participants with dignity and respect  
-c) Responsibility to engage in Groups and Projects that help grow the Lionsberg Movement and Community, and which contribute towards the Progressive Realization of the Vision and Values set forth in the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]]  
+c) Responsibility to engage in Groups and Projects that help grow the Lionsberg Movement and Community, and which contribute towards the Progressive Realization of the Vision and Values set forth in the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]]  
 d) Active engagement in conflict resolution and grievance processes, as needed, with a commitment to open communication, understanding, and finding mutually beneficial solutions  
 e) Compliance with all applicable laws, regulations, and community guidelines 
 f) Participation in the ongoing evaluation and improvement of the Lionsberg System, providing feedback, suggestions, and ideas for enhancements and adjustments, as well as engagement in the implementation of identified improvements 

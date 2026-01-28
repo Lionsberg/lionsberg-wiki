@@ -192,7 +192,7 @@ Experience bore out the hypothesis that the Meta Project could not be tackled in
 In 2023 the LIONSBERG Wiki was established as a transparent open source repository. This would ensure that all the information was freely available globally for poly-centric translation, localization, and adaptation when the time was right. To hear Jordan and Pete discussing the inception and why behind the wiki and other collaborative technologies please see [[Collaborative Technology and AI - Pete Kaminski - EP 5]].   
 
 Additional foundational literature was published including: 
-- The [[LIONSBERG Manifestox]]  
+- The [[LIONSBERG Manifesto]]  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 - [[The Book of LIONSBERG]]  
 

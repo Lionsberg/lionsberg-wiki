@@ -2,7 +2,7 @@
 
 ## Current Version 
 
-[[LIONSBERG Manifesto (2023.10.10)x]] 
+[[LIONSBERG Manifesto (2023.10.10)]] 
 
 ## Previous Versions
 

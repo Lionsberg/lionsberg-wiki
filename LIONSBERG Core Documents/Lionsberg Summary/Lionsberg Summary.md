@@ -6,7 +6,7 @@
 
 [[The Story of LIONSBERG]] provides the narrative context. 
 
-The [[LIONSBERG Manifestox]] lays out the call to action. 
+The [[LIONSBERG Manifesto]] lays out the call to action. 
 
 [[LIONSBERG - History, Inception, and Trust Manifesto]] traces the idea of Lionsberg back to its origins. 
 

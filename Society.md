@@ -7,7 +7,7 @@ Society plays a central role in the Lionsberg System, as it is both the context 
 1.  Identify the root causes of the challenges and issues we face, such as poverty, inequality, environmental degradation, and conflict.
 2.  Develop effective strategies, interventions, and solutions that can address these challenges in a systemic and transformative way.
 3.  Foster greater unity, cooperation, and collaboration among diverse individuals, groups, and sectors in pursuit of our shared [[Vision]] and [[Aspirations]].
-4.  Promote the widespread adoption of the values, principles, and practices outlined in the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]].
+4.  Promote the widespread adoption of the values, principles, and practices outlined in the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]].
 5.  Cultivate a more Loving, Just, and Regenerative Society that benefits [[All]] living beings and supports the eternal flourishing of life on Earth.
 
 By working together as [[Co-Creators]] to [[Elevate And Transform]] Society, we can help to [[Cross The Chasm]] between our present state and the [[Land Of Promise]], where humanity thrives in harmony, justice, and abundance for all.

@@ -25,5 +25,5 @@ To successfully cross the Chasm, we must first acknowledge and confront the obst
 
 ## Crossing the Chasm Together
 
-Bridging the Chasm requires collaboration, unity, and a shared commitment to the principles and values outlined in the [[LIONSBERG Manifestox]] and the [[New Vision and Plan]]. By working together, we can overcome the obstacles that divide us and create a future in which all people have the opportunity to realize their full potential.
+Bridging the Chasm requires collaboration, unity, and a shared commitment to the principles and values outlined in the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]]. By working together, we can overcome the obstacles that divide us and create a future in which all people have the opportunity to realize their full potential.
 

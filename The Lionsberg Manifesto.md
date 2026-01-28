@@ -1,3 +1,3 @@
 # The Lionsberg Manifesto
 
-[[LIONSBERG Manifestox]]  
+[[LIONSBERG Manifesto]]  

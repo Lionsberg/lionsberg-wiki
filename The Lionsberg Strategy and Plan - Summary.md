@@ -4,7 +4,7 @@
 
 #### A. The Lionsberg Manifesto
 
-At this pivotal moment in human history, our collective future hangs in the balance. Our planet is facing unprecedented challenges, from environmental degradation to unprecedented social, economic, governmental, and spiritual challenges. The [[LIONSBERG Manifestox]] is a clarion call for change, an urgent appeal for us to unite in purpose and action to address these challenges of this [[Meta Crisis]] head-on.
+At this pivotal moment in human history, our collective future hangs in the balance. Our planet is facing unprecedented challenges, from environmental degradation to unprecedented social, economic, governmental, and spiritual challenges. The [[LIONSBERG Manifesto]] is a clarion call for change, an urgent appeal for us to unite in purpose and action to address these challenges of this [[Meta Crisis]] head-on.
 
 The Manifesto is based on a deep understanding of our interconnectedness, the recognition that we are all part of a larger whole, and that our collective wellbeing is intrinsically linked to that of our fellow human beings and the planet we share. It urges us to set aside our differences, to rise above our perceived self-interest, and to join together in creating a world that is just, regenerative, and prosperous for all current and [[Future Generations]]. 
 
