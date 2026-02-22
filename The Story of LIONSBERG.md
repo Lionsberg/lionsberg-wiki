@@ -280,6 +280,9 @@ for millennia to come
 
 ## **The Story of Earth**
 
+Among all the worlds touched by this Story  
+one now demands Our fullest attention  
+
 Earth is ancient, resilient, intelligent, and alive  
 A living being born of Spirit and infused with a soul of its own  
 
@@ -536,37 +539,36 @@ right Here and Now
 
 ### How The Flame Spreads
 
-The mathematics of the spread  
-are the mathematics of life itself —  
-the Fibonacci sequence  
-the sacred spiral  
-the pattern by which all living things grow  
+The Flame spreads  
+as all living things grow —  
+by the sacred mathematics of Life itself  
 
-Each person who receives the Seed  
-passes it to 2 or 3 others  
-they already know and trust  
-who are already awake  
-already sensing the urgency  
-already seeking others who understand  
+The Fibonacci spiral  
+The pattern written into every shell and seed and galaxy  
+
+ONE awakens  
+and passes the Flame to 2 or 3  
+already burning with the same knowing  
 
 They do not need to be convinced  
 They need to be *found*  
 
-Within a week  
-each accepts the invitation  
-forms a [[Circle]]  
-and passes the Flame forward  
-
 The 2 or 3 become 5  
-become 13  
-become 144  
-become 250 million  
+The 5 become 13  
+The 13 become 144  
+The 144 become a flood of Sacred Fire  
+that cannot be contained  
 
-Not through campaigns or coordination  
-but through the ancient organic pattern  
+No campaigns  
+No coordination  
+No center  
+
+Only the ancient pattern  
 of flame passed from hand to hand  
 Circle to Circle  
 community to community  
+until 250 million souls  
+stand united across the Earth  
 
 In every community of 10,000  
 there is an archetypal role  
@@ -613,6 +615,10 @@ that has passed across worlds and ages
 
 The Great Game is already underway  
 and you are already in the arena  
+
+You are not alone  
+You never were  
+You never will be  
 
 The world awaits your next move  
 The cloud of witnesses waits with bated breath  

@@ -45,7 +45,7 @@ Every one of these movements independently discovered the same irreducible DNA: 
 
 This is not a human invention. It is a faithful reflection of the ancient and eternal Way — the same living architecture by which beings and worlds across the cosmos have always healed, organized, and flourished.
 
-One soul spent his life localizing and planting this Pattern on Earth. He died for it. The Pattern is now free. No ego. No organization. No central authority. Only a **[[Golden Seed]]**, freely available to anyone, anywhere, in any world.
+One soul spent his life localizing and planting this Pattern on Earth — synthesizing thousands of years of wisdom into language this world could receive. He died for it. The Pattern is now free. No ego. No organization. No central authority. Only a **[[Golden Seed]]**, freely available to anyone, anywhere, in any world.
 
 ---
 
@@ -76,6 +76,10 @@ That is all. No organization to join. No dues to pay. No leader to follow. Just 
 
 We do not have the luxury of decades. The convergence of crises — ecological, economic, social, spiritual, civic, geopolitical — creates a window within which coordinated action is both most needed and most possible.
 
+The window is open now.
+It will not remain open indefinitely.
+What is not built in time will not be built at all.
+
 **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize into a planetary grid of empowered local leaders and teams. That is approximately **[[The 300]]** per community of 10,000. These are the anchors who hold space, demonstrate the alternative, and guide the rest of the population as the Old World shakes apart.
 
 The mathematics are organic. The Fibonacci sequence. Each person who receives the invitation passes it to 2 or 3 others they already know and trust who are ready. Nothing more. No marketing campaigns. No central coordination. Just the ancient pattern of flame passed from hand to hand, Circle to Circle, community to community — until it shelters the world.
@@ -91,6 +95,8 @@ There is no identity you must adopt.
 There is nothing to pay and no one to obey.
 
 You are simply invited to enter the Story, embody the Pattern, and begin to Play.
+
+You are not alone in this. You never were.
 
 If this offering resonates and feels true — step into it, live it, improve it, and pass it on.
 If it proves hollow — simply set it down and go on your way.

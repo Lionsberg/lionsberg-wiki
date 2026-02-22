@@ -28,6 +28,8 @@ Each Ring contains the **complete pattern** at a different resolution. Someone w
 
 **You do not need to read this book linearly.** Enter at the Ring that calls to you. Go deeper when you need to. Return to the center when you lose your way.
 
+If you are ready to act now, go directly to [[Ring 5 - The Game]]. The Pattern will teach you as you play.
+
 ---
 
 ## The Rings
@@ -60,7 +62,9 @@ _How 2.5 million words, $20 million of funded research, 70 years of cooperative 
 
 ## Who This Book Is For
 
-You are one of **[[The First Three Percent]]**.
+Dear Awakening Soul,
+
+You are one of **[[The First Three Percent]]** — and you are not alone.
 
 You are awakening — or have already awakened — to the profound wrongness of the world as it is. You sense the urgency. You know that the [[Old World]] is collapsing. You are seeking others who understand. You are ready to act.
 
@@ -87,4 +91,6 @@ _In [[ONE]], all things cohere._
 
 ---
 
-**Begin** with [[The Emergence of the Core Pattern]] or go directly to [[Ring 0 - ONE]].
+**The Seed is in your hands. The Game is alive. It is now your move.**
+
+Begin with [[The Emergence of the Core Pattern]], or go straight to the center: [[Ring 0 - ONE]].
