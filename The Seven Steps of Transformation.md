@@ -8,4 +8,4 @@ A structured approach to transformation that can be applied at any level of anal
 4. Engagement  
 5. Strategy and Planning    
 6. Action  
-7. Measurement, Retrospection, and Continuous Improvement  
+7. Measurement and Continuous Improvement  

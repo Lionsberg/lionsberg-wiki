@@ -16,8 +16,8 @@ This model not only symbolizes natural growth and harmony but also serves as a s
 - **Source**
 - **Spirit**
 - **Incarnation**
-- **Cycle 0:** J
-- **Cycle 1:** J + 1 Co-Creator
+- **Cycle 0:** [[J]] (Killed in action)
+- **Cycle 1:** Nameless + 1 Co-Creator
 - **Cycle 2:** 3 Co-Creators
 - **Cycle 3:** 5 Co-Creators
 - **Cycle 4:** 8 Co-Creators _(0.0000001%)_

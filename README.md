@@ -102,6 +102,10 @@ and towards **The Future We Seek** in a Way that works for both **Earth** and **
 
 **If this resonates, here is how to begin:**
 
+### **0. Understand the Pattern**
+Read **[[LIONSBERG 101]]** — the complete pattern in concentric rings
+*(From ONE word to the full library — the fastest path to the whole Seed)*
+
 ### **1. Gather a Small Circle**
 3 to 12 others you resonate with and are inspired by
 

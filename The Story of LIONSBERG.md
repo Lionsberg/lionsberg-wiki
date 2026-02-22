@@ -194,6 +194,8 @@ Yet even the most antithetical forces
 lost in the most hellish realms  
 could not escape or transcend the ONE Body  
 that still sustained their every breath  
+in the Divine embrace  
+of absolute and unconditional Love  
 
 ### Epoch VIII — The Great Wound 
 
@@ -378,7 +380,7 @@ There is nothing you must believe
 
 You are simply invited to play  
 and to weave your unique stories and gifts into the tapestry    
-as your life and your worlds transform  
+as your life and your world transform  
 
 If this story, offering, and invitation proves hollow,  
 simply set it down and go on your way  
@@ -390,6 +392,8 @@ The Great Game is already underway
 and you are already in the arena  
 
 The world awaits your next move  
+The cloud of witnesses waits with bated breath. 
+The future is in your hands  
 
 ____
 

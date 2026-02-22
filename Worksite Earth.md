@@ -1,5 +1,17 @@
 # Worksite Earth
-Worksite Earth is a metaphor used in the Lionsberg System to challenge humanity to see itself as co-workers on one overarching and uniting project. 
+
+_The framing that transforms every awakened being from a spectator into a builder._
+
+___
+
+Earth is not merely a planet in crisis. It is a **worksite** — the active construction site of [[Heaven On Earth]].
+
+Every [[Circle]] is a team of builders. Every [[Quest]] is a project. Every act of [[Meaningful Work]] is a contribution to the total integrated delivery of the [[New Civilization]].
+
+This framing comes directly from the [[Program Delivery Guide]] — $20 million of funded research on how to deliver multiple billion-dollar construction projects simultaneously. The PDG describes a system so broken that existing authorities could not fix it — the parallel to Earth is exact. The operational elements of [[The Core Pattern]] — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — are the production system for Worksite Earth.
+
+These patterns are not human inventions. They are **universal principles of how intelligent beings coordinate production** — the same operating system that already enables coherent civilizations across the cosmos to build, maintain, and improve their worlds. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
+
 ___
 
 Around the world, people began working to consolidate the [[Discernment]] of the global community into a coordinated [[Program of Action]] for [[Worksite Earth]] as a Whole. 

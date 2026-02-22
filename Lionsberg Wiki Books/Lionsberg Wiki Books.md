@@ -6,11 +6,13 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 
 ## Featured Works
 
-1. [[The Lionsberg Book of Meditations]]  
-2. [[The LIONSBERG Co-Creator's Handbook]]  
-3. [[The Book of LIONSBERG]]  
-4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
-5. [[The Lionsberg Strategy and Plan]]  
+1. [[LIONSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All
+2. [[The Program Delivery Guide]] — $20M of funded research on Integrated Project Delivery, the core document informing LIONSBERG's localization to Earth
+3. [[The Lionsberg Book of Meditations]]
+3. [[The LIONSBERG Co-Creator's Handbook]]
+4. [[The Book of LIONSBERG]]
+5. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
+6. [[The Lionsberg Strategy and Plan]]
 
 ## Something Powerful, New, and Good (Post-August 2025)
 
