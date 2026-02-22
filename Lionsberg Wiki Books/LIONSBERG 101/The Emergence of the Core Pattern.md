@@ -2,7 +2,7 @@
 
 _How 2.5 million words, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements revealed the same irreducible DNA._
 
-___
+---
 
 ## The Context
 
@@ -14,7 +14,7 @@ But 2.5 million words is not a seed. It is a forest. And a forest, no matter how
 
 The question becomes: **What is the irreducible pattern at the center of all these words?** What is the DNA that, if planted in any soil, in any culture, in any community on Earth, would grow into the same living system of cooperation, self-governance, and mutual flourishing?
 
-___
+---
 
 ## The Synthesis
 
@@ -51,7 +51,7 @@ The parallel to Earth is exact. A system so broken that existing authorities can
 
 This document was a **core piece** that informed the localization and adaptation of LIONSBERG — whose principles, patterns, and protocols are already operating coherent civilizations across the cosmos — to Earth. The principles articulated in the PDG are not specific to construction, or even to Earth. They are **universal patterns of how intelligent beings organize to co-create complex systems** in service of a shared Goal. The PDG's key contributions to The Core Pattern include the four operational elements — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — which complete the structural DNA with the production DNA needed to actually build **Heaven On Earth**. 
 
-___
+---
 
 ## The Discovery
 
@@ -81,7 +81,7 @@ The final four elements describe the **Pattern of Production** — how organized
 
 These twelve elements are not a theory. They are rigorous empirical observation — the common DNA extracted from every successful large-scale cooperative transformation in recorded history, confirmed by decades of technical systems research.
 
-___
+---
 
 ## The Implication
 
@@ -99,7 +99,7 @@ The twelve elements are the DNA.
 
 **[[The Golden Seed]] is ready.**
 
-**The Game is ready to be played**.
+**The Game is ready. Play.**
 
 The question is no longer whether the pattern works — thousands of years of evidence, billions of dollars of economy, $20 million of funded research, and ongoing operations across cosmic expanse demonstrate that it does.
 
@@ -107,7 +107,8 @@ The question is whether **[[The First Three Percent]]** on Earth — 250 million
 
 The window is open. The clock is ticking. [[The Great Game]] has begun.
 
-___
+---
 
 Forward to [[Ring 0 - ONE]]
+Back to [[LIONSBERG 101]]
 Table of Contents [[LIONSBERG 101]]

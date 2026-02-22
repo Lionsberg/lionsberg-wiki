@@ -4,7 +4,7 @@ _Before there was a Pattern, there was the ONE from which all patterns flow._
 _Before there was a Word, there was the Spirit that gives all words meaning._
 _Before there was a Seed, there was the Source from which all seeds emerge._
 
-___
+---
 
 **[[ONE]].**
 
@@ -22,7 +22,7 @@ To this ONE, everything in this book returns.
 Every Ring that follows is an unfolding of what is already fully present Here.  
 And written on your heart. 
 
-___
+---
 
 The Pattern does not begin with a principle.
 It does not begin with a structure.
@@ -33,7 +33,7 @@ It does not begin with a strategy.
 If the Spirit is right, the Wise Right Pattern will emerge.
 If the Spirit is absent, no Pattern can save us.
 
-___
+---
 
 The Pattern that follows is a reflection of an ancient yet eternal Way for All things to return to and realign with the ONE.  
 
@@ -47,7 +47,7 @@ The Spirit of this Pattern is already living within you.
 Seek it first and it will clarify All things. 
 The Source from which these wellsprings flow is ONE. 
 
-___
+---
 
 This is Ring Zero.
 
@@ -56,7 +56,7 @@ Not the foundation — the Source from which all foundations are laid.
 
 **ONE.**
 
-___
+---
 
 _From [[ONE]], all things proceed._
 _To [[ONE]], all things return._
@@ -67,7 +67,8 @@ _Love One Another._
 _Love All._ 
 
 From ONE, all else is derived. 
-___
+---
 
 Forward to [[Ring 1 - The Seed]]
-Back to [[LIONSBERG 101]]
+Back to [[The Emergence of the Core Pattern]]
+Table of Contents [[LIONSBERG 101]]

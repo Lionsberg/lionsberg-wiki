@@ -2,7 +2,7 @@
 
 _You do not have to take this on faith. The pattern has been tested — across 1,500 years, five continents, and every kind of human organization. Here is the evidence._
 
-___
+---
 
 ## I. Mondragon: 70 Years of Proof at Scale
 
@@ -88,7 +88,7 @@ Or more simply, from Arizmendi himself:
 
 _"We are going to help God finish our world."_
 
-___
+---
 
 ## II. The Fair Shares Commons: Structural DNA for the Regenerative Economy
 
@@ -136,7 +136,7 @@ This is not aspirational. It is structural. It does not depend on good intention
 
 The Fair Shares Commons model has been recognized by the Financial Conduct Authority in England and Wales, implemented across 39 countries on five continents, and provides a practical legal framework for multi-stakeholder governance within existing corporate law.
 
-___
+---
 
 ## III. The Federal Receivership: $20 Million of Proof from the Production System
 
@@ -192,7 +192,7 @@ The four operational elements — [[Integrated Delivery]], [[Design To The Goal]
 
 **Every Circle is a team of builders on [[Worksite Earth]].**
 
-___
+---
 
 ## IV. Eight Movements That Changed the World
 
@@ -259,7 +259,7 @@ The same principles operate at every scale — individual, group, community, fed
 
 Every mature pattern develops immunity against centralization, personality cults, financial corruption, mission drift, and institutional capture.
 
-___
+---
 
 ## The Verdict
 
@@ -292,7 +292,7 @@ The window is open.
 
 **The only variable is us.**
 
-___
+---
 
 Forward to [[Ring 4 - The Library]]
 Back to [[Ring 2 - The Pattern Unfolded]]

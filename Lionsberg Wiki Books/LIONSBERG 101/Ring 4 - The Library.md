@@ -2,7 +2,7 @@
 
 _The previous Rings gave you the DNA. This Ring gives you the forest — 2.5 million words of depth, organized so you can find what you need when you need it._
 
-___
+---
 
 ## How To Use The Library
 
@@ -17,7 +17,7 @@ You do not need to read all of it. You do not need to read most of it.
 
 Ring 4 gives you the **depth** — so that when you encounter a specific challenge in your Circle, your Quest, your community, or your life, you can go deeper into the specific domain you need.
 
-___
+---
 
 ## The Major Works
 
@@ -97,7 +97,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 - **[[LIONSBERG Wiki Blogs]]** — Individual journals and reflections from participants
 - **[[LIONSBERG Wiki Books]]** — The complete catalogue of 144+ books by various authors
 
-___
+---
 
 ## How To Navigate
 
@@ -117,7 +117,7 @@ ___
 
 **If you want to go deep on any specific concept**: Search the wiki for that concept. Nearly every significant idea has its own page with interconnected [[wiki links]] that reveal how it relates to the whole.
 
-___
+---
 
 ## A Note On The Library
 
@@ -129,7 +129,7 @@ The library is the **forest** — living, interconnected, endlessly deep. The Ri
 
 Both are necessary. The DNA without the forest is too thin. The forest without the DNA is too vast. Together, they are [[The Golden Seed]] — ready to plant, grow, and bear fruit in any soil on Earth.
 
-___
+---
 
 Forward to [[Ring 5 - The Game]]
 Back to [[Ring 3 - The Living Proof]]

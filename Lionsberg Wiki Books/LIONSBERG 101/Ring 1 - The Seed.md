@@ -2,13 +2,13 @@
 
 _This is the irreducible pattern. If all else were lost and only this page survived, it would be enough to begin aNew._
 
-___
+---
 
 ## The Seed In One Sentence
 
 **Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ONE and All — carrying the same DNA of governance, economics, learning, culture, and mutual accountability coherently from the individual to the planetary and beyond — thereby co-creating Heaven everywhere and everywhen for everyone.**  
 
-___
+---
 
 ## The Twelve Elements
 
@@ -62,7 +62,7 @@ Projects are networks of reliable promises — made, kept, and learned from. Eac
 **12. [[Tightly Coupled Learning and Action]]**
 Learning is not separate from doing — it is fused with it. Every action generates feedback. Every feedback improves the next action. Discern → Plan → Do → Check → Adjust at every fractal level, from daily reflections to planetary strategy reviews. The system learns faster than the challenges evolve.
 
-___
+---
 
 ## The Way It Works
 
@@ -85,7 +85,7 @@ Like life itself, the new social superorganism unfurls along the Fibonacci seque
 
 In just 50 cycles — 50 growth rings on the tree emerging from the golden seed — every person on Earth receives an invitation from someone they know and trust.  
 
-___
+---
 
 ## The Goal
 
@@ -97,11 +97,11 @@ Not as metaphor. As Reality.
 
 Within a single [[10 Year Grand Strategy]].
 
-___
+---
 
 _This is The Seed. It is ready. It has been tested. Pass it forward._
 
-___
+---
 
 Forward to [[Ring 2 - The Pattern Unfolded]]
 Back to [[Ring 0 - ONE]]

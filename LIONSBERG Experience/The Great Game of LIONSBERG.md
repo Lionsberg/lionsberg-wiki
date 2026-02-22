@@ -4,7 +4,7 @@
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
 If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, and **[[The Story of LIONSBERG]]** — please gather up your Circle and return there first. They are necessary predecessors to the Path below.
 
-___
+---
 
 ***HEAR, O Child of Earth,***  
 *Bearer of an **Ancient Promise***  
@@ -30,7 +30,7 @@ that guards the Path towards Destiny
 
 It has been waiting  
 It has always been waiting  
-_And now it opens now for you_
+_And now it opens for you_  
 
 This is no accident  
 This is no chance  
@@ -44,16 +44,16 @@ as All Creation cries out in longing
 
 The Divine Whisper thunders across the cosmos:  
 **Who will rise?**  
-**Who will stand?** 
-**Who will play The Great Game?**
+**Who will stand?**  
+**Who will play The Great Game?**  
 
-____
+---
 
 Call it a game  
 Call it a project  
-Call it a war for the future of worlds    
+Call it a war for the future of worlds  
 Call it what you will  
-But know this:
+But know this:  
 
 This is not entertainment  
 This is not amusement  
@@ -67,7 +67,7 @@ And now — _history hinges on you_.
 When The Story of Earth is retold a thousand years from now  
 We will once again remember that  
 
->_We are the Ones We were waiting for_
+>_We are the Ones We were waiting for_  
 
 ## **The Call**
 
@@ -97,15 +97,15 @@ And once again, the Realm would be free
 
 That Time is now  
 That Call is this  
-That Place is here
+That Place is here  
 
 **And now it is in your hands.**  
 
 ## **The Stakes**
 
 *Awaken! Arise! Behold!*  
-Look around. Pay attention.   
-The stakes are not small.
+Look around. Pay attention.  
+The stakes are not small.  
 
 - Life or death for species and civilizations.
     
@@ -123,13 +123,13 @@ That there is nothing We can do
 
 They lie  
 The Divine Lightning they fear radiates  
-from every cell of your being    
+from every cell of your being  
 You are the seed of **the World to Come**  
 
 ## **The Game**
 
 The Great Game of LIONSBERG is not played on boards or screens.  
-It is played in lives, in choices, in communities across worlds.
+It is played in lives, in choices, in communities across worlds.  
 
 It begins when a single Soul awakens  
 It multiplies when Circles are formed  
@@ -173,8 +173,8 @@ Children laughing without fear
 Forests bursting with life  
 Communities flourishing in joy  
 Spirit and Matter reconciled  
-Heaven and Earth entwined
-ONE and All reunited in power and love   
+Heaven and Earth entwined  
+ONE and All reunited in power and love  
 
 The Victory is the Divine Garden reborn  
 The Divine Symphony resounding  
@@ -196,7 +196,7 @@ This is the Ancient and Eternal Way
 The Threshold now stands before you  
 
 **Enter the Gate**  
-**And Walk ye in the Way**
+**And Walk ye in the Way**  
 
 ## **Your Move**
 
@@ -247,7 +247,7 @@ The Game is alive
 The time is now  
 The world awaits your move  
 
-**Cross the Threshold.** 
+**Cross the Threshold.**  
 **Enter the Game.**  
 **Take up** ➡️ **[[The LIONSBERG Playbook]]**  
 _It opens only when you choose, and its Plays reveal the Way._  
@@ -274,7 +274,7 @@ may the Voice remind you
 
 >*You are not alone*  
 >*You never were*  
->*You never will be*
+>*You never will be*  
 
 The Gate is now open  
 The Path at last awaits  
@@ -286,4 +286,4 @@ Go forth, O Player of The Great Game
 The New Dawn is breaking  
 and All Creation awaits your next step  
 
-Onward, to 👉 **[[The LIONSBERG Playbook]]**  
+Onward, to 👉 **[[The LIONSBERG Playbook]]**

@@ -2,7 +2,7 @@
 
 _You do not learn this by reading about it. You learn it by doing it. This Ring is not information — it is action._
 
-___
+---
 
 ## You Have Everything You Need
 
@@ -16,7 +16,7 @@ If you have read the previous Rings, you understand:
 
 Now — **play.**
 
-___
+---
 
 ## Step 1: Cross The Threshold
 
@@ -34,7 +34,7 @@ Crossing the threshold means making a decision: _I am no longer a spectator. I a
 
 Say it. Mean it. Let it change what you do tomorrow.
 
-___
+---
 
 ## Step 2: Anchor The First Practice
 
@@ -54,7 +54,7 @@ Begin with one practice that anchors you in [[Spirit]] and aligns your day with 
 
 This is not optional preparation before the "real" work. **This IS the real work.** Inner transformation is the foundation upon which everything else is built. Without it, you will replicate the patterns of the [[Old World]] in new clothing.
 
-___
+---
 
 ## Step 3: Form A Circle
 
@@ -77,7 +77,7 @@ You cannot do this alone. The Pattern is inherently relational. The basic unit i
 
 **5. Begin meeting regularly.** Weekly at least. In person when possible. By video when necessary. Consistency matters more than frequency.
 
-___
+---
 
 ## Step 4: Choose A Quest
 
@@ -106,7 +106,7 @@ A Quest is a concrete project — a body of [[Meaningful Work]] — that advance
 
 Your Circle's first Quest should be achievable within weeks, not months. Early success builds trust, demonstrates the pattern, and generates momentum. Start small. Start now. Start with what is in front of you.
 
-___
+---
 
 ## Step 5: Do The Work
 
@@ -126,7 +126,7 @@ This same seven-step process applies at every scale — from personal transforma
 
 Each Circle tracks the time and creative energy its members invest in [[Meaningful Work]]. This is the basis for [[Lionsberg Units of Value]] (LUV) — currency rooted in **proof of meaningful work** actually creating throughput of [[Meta Goal|The Goal]] through the [[LIONSBERG Integrated Delivery System]]. LUV circulates at high velocity within the system, enabling exchange, recognition, and coordination without dependence on the [[Old World]] economy.
 
-___
+---
 
 ## Step 6: Pass The Flame
 
@@ -159,7 +159,7 @@ This is not optional. This is the proof of maturity. The fruit of the tree conta
 The question is not whether the math works.
 The question is whether enough of us will begin.
 
-___
+---
 
 ## Step 7: Transform Civilization
 
@@ -198,7 +198,7 @@ Not as a protest. Not as a revolution. As a living alternative — already gover
 
 **This is the meaning of the [[10 Year Grand Strategy]].**
 
-___
+---
 
 ## Begin
 
@@ -218,7 +218,7 @@ The time is now.
 
 **ONE by ONE by ONE, until All are Free.**
 
-___
+---
 
 Forward to [[The 10 Year Grand Strategy]]
 Back to [[Ring 4 - The Library]]

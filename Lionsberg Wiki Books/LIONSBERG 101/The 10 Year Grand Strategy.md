@@ -2,7 +2,7 @@
 
 _Heaven On Earth is not a destination. It is a process — a conscious, coordinated transformation of human civilization from the ground up, unfolding along the Fibonacci sequence from ONE to All._
 
-___
+---
 
 ## The Window
 
@@ -13,7 +13,7 @@ The elders have spoken clearly: _"If we fail to capture the opportunity in this 
 
 This is not preparation. This IS the mission unfolding in real time.
 
-___
+---
 
 ## The Fibonacci Timeline
 
@@ -29,7 +29,7 @@ Seven years of foundational work.
 - [[The Golden Seed]] ready for distribution ✅
 - [[LIONSBERG 101]] articulated ✅
 
-___
+---
 
 ### Milestone 1: The Starting Line — Spring Equinox, March 20, 2026
 
@@ -39,7 +39,7 @@ The first 144 gathered, formed, and aligned at a new starting line. The Pattern 
 
 144 is not an arbitrary number. It is the 10th Fibonacci number — and it is the threshold at which the organic mathematics of growth become unstoppable. Each of the 144 knows and trusts others who are ready. Each carries the full DNA. Each is a Seed.
 
-___
+---
 
 ### Milestone 2: The First Three Percent — Winter Solstice, December 21, 2026
 
@@ -66,7 +66,7 @@ If we miss the 2026 target, the 2030 and 2033 goals remain entirely achievable �
 
 This is why the pace matters. Not because it is required by the math — but because it is required by the moment.
 
-___
+---
 
 ### Milestone 3: All Who So Desire — Winter Solstice, December 2030
 
@@ -82,7 +82,7 @@ With The First Three Percent united and organized, the cycle time relaxes. The r
 - By the Winter Solstice of 2030, all who desire to participate have accepted the invitation
 - The window of 2024-2030 is captured
 
-___
+---
 
 ### Milestone 4: The 3-Year Lag — 2030 to 2033
 
@@ -92,7 +92,7 @@ The final cohorts complete their 3-year healing and empowerment cycle. It takes 
 
 The infrastructure built in the preceding years absorbs and serves these later cohorts. The planetary grid matures. The New deepens and stabilizes.
 
-___
+---
 
 ### Milestone 5: The New Era Begins — Winter Solstice, December 2033
 
@@ -110,7 +110,7 @@ Heaven On Earth becomes the operative reality for humanity. Not as metaphor. As 
 - Sovereignty restored across all scales — individual, local, bioregional, planetary
 - The Pattern continuing to spread, improve, and deepen — never finished, always becoming
 
-___
+---
 
 ## The Mathematics
 
@@ -124,7 +124,7 @@ ___
 
 See [[Lionsberg Cycles of Growth]] for the complete Fibonacci progression from Source to Cycle 50.
 
-___
+---
 
 ## The Critical Path
 
@@ -142,7 +142,7 @@ This is how it has always worked. This is how it works now.
 
 The 144 at the starting line are not the end of Phase 1. They are the **beginning of everything**. From that Spring Equinox forward, the tree grows — one ring every 9 days — until it shelters the world.
 
-___
+---
 
 ## The 20-Year Generational Contingency
 
@@ -155,13 +155,13 @@ But the 10-year timeline is not arbitrary. The convergence of crises — ecologi
 **Act as if we have 10 years.** Because we might.
 **Build as if we have centuries.** Because we do.
 
-___
+---
 
 ## Your Role
 
 In every community of 10,000, there is an archetypal role for **[[The 300]]** to play.
 
-You are reading this because you may be one of The 300 in your community.
+You are reading this because you are one of The 300 in your community.
 
 Your role is not to wait for instructions from a center. It is not to seek permission from existing authorities. It is not to reform the Old.
 
@@ -183,7 +183,7 @@ You are not alone. Millions are awakening simultaneously. The Pattern is the sam
 
 It has already begun.
 
-___
+---
 
 Back to [[Ring 5 - The Game]]
 Table of Contents [[LIONSBERG 101]]

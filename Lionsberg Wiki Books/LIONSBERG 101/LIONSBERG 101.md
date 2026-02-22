@@ -1,8 +1,8 @@
 # LIONSBERG 101
 
-_The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the world — reflecting an ancient and eternal Way that spans all worlds._
+_The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the Earth — reflecting an ancient and eternal Way that spans all worlds._
 
-___
+---
 
 ## What is LIONSBERG?
 
@@ -18,7 +18,7 @@ It is not an organization, institution, or brand. There is no one to join, no du
 
 One soul poured his life into planting this Seed on Earth. He died for it. The Pattern is now free. What remains is the Seed, the People, and the Story. This book distills the Pattern into concentric rings — from ONE word to the full library.
 
-___
+---
 
 ## How This Book Works
 
@@ -28,7 +28,7 @@ Each Ring contains the **complete pattern** at a different resolution. Someone w
 
 **You do not need to read this book linearly.** Enter at the Ring that calls to you. Go deeper when you need to. Return to the center when you lose your way.
 
-___
+---
 
 ## The Rings
 
@@ -56,7 +56,7 @@ _How 2.5 million words, $20 million of funded research, 70 years of cooperative 
 ### [[The 10 Year Grand Strategy]]
 **The timeline.** 2024-2033. How [[The First Three Percent]] — 250 million awakened souls — unite, organize, and co-create the [[New Civilization]] before the [[Old World]] completes its collapse. Anchored to the [[Lionsberg Cycles of Growth|Fibonacci Cycles of Growth]] at solstices and equinoxes.
 
-___
+---
 
 ## Who This Book Is For
 
@@ -79,12 +79,12 @@ You are not alone. You are not too late. You are exactly where you need to be.
 
 **[[The Great Game]] has begun.**
 
-___
+---
 
 _From [[ONE]], all things proceed._
 _To [[ONE]], all things return._
 _In [[ONE]], all things cohere._
 
-___
+---
 
-Begin with [[The Emergence of the Core Pattern]] or go directly to [[Ring 0 - ONE]].
+**Begin** with [[The Emergence of the Core Pattern]] or go directly to [[Ring 0 - ONE]].

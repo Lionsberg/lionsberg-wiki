@@ -2,7 +2,7 @@
 
 _Ring 1 named the twelve elements. Ring 2 unfolds each one — enough to understand, enough to begin._
 
-___
+---
 
 ## Element 1: One Purpose Above All
 
@@ -36,7 +36,7 @@ The [[Field of Agreements]] at every level begins here: a shared articulation of
 
 For many Circles, **Heaven On Earth** is a resonant starting point. 
 
-___
+---
 
 ## Element 2: Holofractal Omnifederation
 
@@ -56,7 +56,7 @@ Each [[Mondragon]] cooperative is a legally independent, self-governing enterpri
 
 Each AA group is a complete unit of healing. It does not need a building, a budget, a professional, or permission from headquarters. A coffee pot, a meeting room, and the Steps are sufficient.
 
-Each early church house church — 5 to 40 people in someone's home — was a complete expression of worship, teaching, mutual aid, shared meals, and mission. You did not need a cathedral, a seminary, or institutional permission. The was no bible or professional priesthood. You needed a home, a meal, a community of mutual learning, practice, and care.
+Each early church house church — 5 to 40 people in someone's home — was a complete expression of worship, teaching, mutual aid, shared meals, and mission. You did not need a cathedral, a seminary, or institutional permission. There was no bible or professional priesthood. You needed a home, a meal, a community of mutual learning, practice, and care.
 
 ### The Practical Expression
 
@@ -89,13 +89,13 @@ And at every level, the same anatomy emerges. Each time sovereigns voluntarily a
 
 This is **fractal commonsing** — each new connection births a new commons. And each commons is resourced not by tithes flowing upward to a central authority, but by sovereign members freely contributing inward to the center of whatever greatest table they share — because groups naturally want to build shared abundance and access to resources they could never access in isolation.
 
-___
+---
 
 ## Element 3: Sovereignty At Every Scale
 
 This is the principle that distinguishes federation from empire, cooperation from control, love from domination.
 
-In every successful pattern, **sovereignty is protected at every level**. Individual sovereignty is never absorbed by the group. Group sovereignty is never absorbed by the community. Community sovereignty is never absorbed by the federation. The moment any higher-order form of organization begins to violate the sovereignty of any lower-order form, freedom and authority are being subverted and illegitimately exercised. If it controlling actor cannot be brought back into coherence, relationships — built on ongoing mutual consent — simply dissolve with the withdrawal of participation and consent. 
+In every successful pattern, **sovereignty is protected at every level**. Individual sovereignty is never absorbed by the group. Group sovereignty is never absorbed by the community. Community sovereignty is never absorbed by the federation. The moment any higher-order form of organization begins to violate the sovereignty of any lower-order form, freedom and authority are being subverted and illegitimately exercised. If the controlling actor cannot be brought back into coherence, relationships — built on ongoing mutual consent — simply dissolve with the withdrawal of participation and consent. 
 
 The Swiss Confederation has practiced this for 735 years. Each canton has its own constitution, parliament, government, courts, and police. Some cantons still practice _Landsgemeinde_ — open-air assemblies where citizens vote by show of hands. The federal government handles only what cantons cannot: defense, foreign policy, currency. Everything else stays local. This is an example of subsidiarity in action. 
 
@@ -130,7 +130,7 @@ In the [[New World]], corrupt states are convicted for treason against the indiv
 
 When dealing with parasitical empires such as those dominating Earth, the path towards Heaven here and now must run through the reestablishment of individual, local, and planetary sovereignty across all scales and levels of analysis as a baseline for the proper flow of power. Parasitical empires and oligarchies have no place in Heaven. They are not tolerated. They are not participated in. They are not consented to. 
 
-___
+---
 
 ## Element 4: Democratic Self-Governance Through Shared Agreements
 
@@ -163,11 +163,11 @@ In LIONSBERG, governance operates through **holofractal self governance** — th
 
 The [[Meta Community]] is not held together by force, coercion, or control, but by [[Wisdom]], [[Love]], and [[Influence]].
 
-___
+---
 
 ## Element 5: Capital Subordinate To Purpose
 
-This is perhaps the most radical element — and the one most directly responsible for the failure of the [[Old World]] and the hope of the New.
+This is the most radical element — and the one most directly responsible for the failure of the [[Old World]] and the hope of the New.
 
 In the Old World, capital is king. Labor serves capital. Human beings are "resources" to be managed. Communities are "markets" to be exploited. Nature is an "externality" to be discounted. The ownership structure of the conventional corporation concentrates power and wealth in the hands of financial investors, creating structural incentives for extraction, short-termism, and the parasitical externalization of costs and harm onto workers, communities, and the Living System.
 
@@ -197,7 +197,7 @@ Communities or organizations that grow dependent on external funding become capt
 
 The amazing paradox is that we can only achieve true self-sufficiency _together_. 
 
-___
+---
 
 ## Element 6: Education As Transformation
 
@@ -253,7 +253,7 @@ In LIONSBERG, education operates through:
 
 The critical insight: **education is not information transfer. It is transformative interbecoming across all systems levels of analysis.** It changes who we are, not just what we know. It is lifelong endeavor that unfolds over years through practice, reflection, and relationship in circles and community. 
 
-___
+---
 
 ## Element 7: Built-In Replication
 
@@ -287,7 +287,7 @@ The spread is organic, decentralized, and self-replicating — not controlled or
 
 **Pass [[The Flame]].** This is not an optional final step. It is the culmination of the process — the proof of maturity. A Circle that does not plant new Circles is a Circle that has not yet matured. The fruit of the tree contains new seeds. This is not a command — it is the nature of living things.
 
-___
+---
 
 ## Element 8: Structural Immunity
 
@@ -298,7 +298,7 @@ Movements often die not from external opposition but from internal corruption. T
 | **Personality cult**      | A charismatic leader becomes the center instead of the shared Purpose and Goal | AA: Anonymity. Mondragon: No campaigning. Benedictines: The Rule governs the abbot. LIONSBERG: The Purpose and Pattern governs, not any person                                                                                                                      |
 | **Centralization**        | Power accumulates at the center until it suffocates the periphery              | AA: Never be organized. Mondragon: 60 people for 268 organizations. Swiss: Radical subsidiarity. Iroquois: National sovereignty within federal unity. LIONSBERG: self-assembling sovereign superorganism                                                            |
 | **Financial corruption**  | External money creates dependency; internal money creates temptation           | AA: Self-supporting, declining outside contributions. Mondragon: Member capital control, compressed pay. Fair Shares: Anti-enclosure mechanisms. LIONSBERG: No central treasury. Decentralized self-stewardship of all.                                             |
-| **Mission drift**         | The organization gradually serves itself instead of its purpose                | AA: One primary purpose. Mondragon: 4-year mission reevaluation. Fair Shares: Purpose structurally sovereign, cannot be voted away. Benedictines: The stability vow. LIONSBERG. The entire system is aimed at The Goal.                                             |
+| **Mission drift**         | The organization gradually serves itself instead of its purpose                | AA: One primary purpose. Mondragon: 4-year mission reevaluation. Fair Shares: Purpose structurally sovereign, cannot be voted away. Benedictines: The stability vow. LIONSBERG: The entire system is aimed at The Goal.                                             |
 | **Institutional capture** | External forces co-opt the movement for their own ends                         | AA: No opinions on outside issues. Mondragon: Arm's-length federation. Open Source: Fork rights. LIONSBERG: Freedom to leave at any time, no center to capture or control.                                                                                          |
 | **Professionalization**   | Paid professionals replace the living practice of formed citizens              | AA: Forever nonprofessional. Benedictines: _Ora et labora_ — every monk works. Mondragon: Worker = Member = Owner. No separation between doers and governors. LIONSBERG: All functions of society performed via holofractal pattern language. No rulers or priests. |
 
@@ -314,9 +314,9 @@ In LIONSBERG, structural immunity is built into the architecture:
 - **Transparency and accountability** — all decisions, resource flows, and actions are decentralized and transparent to those impacted by them. No hidden power structures.
 - **Regular evaluation and renewal** — the system continuously reflects, evaluates, and improves itself at every level from individual, to circle, to community, to whole. 
 
-**The pattern does not just describe what to do. It explicitly protects against what is predictably likely go wrong.** This is organizational wisdom encoded as structural immune system. Without it, every movement eventually succumbs to the same diseases. With it, the pattern can endure across centuries.
+**The pattern does not just describe what to do. It explicitly protects against what is predictably likely to go wrong.** This is organizational wisdom encoded as structural immune system. Without it, every movement eventually succumbs to the same diseases. With it, the pattern can endure across centuries.
 
-___
+---
 
 ## The Pattern of Production (Elements 9-12)
 
@@ -324,7 +324,7 @@ _The first eight elements describe how sovereign beings organize, govern, and pr
 
 _These four operational elements are drawn from ~$20 million of funded research in [[The Program Delivery Guide]], the Toyota Production System, Lean Construction, Integrated Project Delivery, Agile, and the Theory of Constraints. They are not new to LIONSBERG — they are universal patterns of how intelligent beings coordinate production, confirmed independently across multiple disciplines and now integrated into the complete DNA of the New Civilization for Earth._  
 
-___
+---
 
 ## Element 9: Integrated Delivery
 
@@ -352,7 +352,7 @@ This is not theoretical. [[The Program Delivery Guide]] demonstrated this approa
 
 Without integrated delivery, Circles work in isolation. Their Quests do not aggregate into coherent outcomes. Effort is duplicated. Lessons are lost. The planetary transformation devolves into a patchwork of disconnected projects — well-intentioned but structurally incapable of producing [[Heaven On Earth]].
 
-___
+---
 
 ## Element 10: Design To The Goal
 
@@ -377,7 +377,7 @@ In LIONSBERG, Design To The Goal operates at every scale:
 
 Without design to The Goal, the system drifts. Local optimization displaces global purpose. Circles design Quests that serve their own interests rather than The Goal. Communities design systems that serve local constituencies at the expense of the Whole. The same pathology that destroyed the coherence of the [[Old World]] — designing to local optima rather than to the Highest Goal — replicates itself in new clothing.
 
-___
+---
 
 ## Element 11: Networks of Commitments
 
@@ -411,7 +411,7 @@ Without networks of commitments, cooperation collapses into good intentions. Peo
 
 The Last Planner System doubled plan reliability from ~50% to 80-90% in construction. Applied to civilization-building, the same principle transforms Circles from discussion groups into disciplined teams of builders — each member a co-creator bound by sacred promises to advance The Goal.
 
-___
+---
 
 ## Element 12: Tightly Coupled Learning and Action
 
@@ -448,7 +448,7 @@ The Toyota Production System's greatest insight was not any single technique —
 **The system that learns fastest, wins.**  
 **Every defect is a gift.**  
 
-___
+---
 
 ## The Twelve Elements Together
 
@@ -479,7 +479,7 @@ It has already been proven to work.
 
 The only question is whether we will plant it — everywhere, now, in the time remaining.
 
-___
+---
 
 Forward to [[Ring 3 - The Living Proof]]
 Back to [[Ring 1 - The Seed]]
