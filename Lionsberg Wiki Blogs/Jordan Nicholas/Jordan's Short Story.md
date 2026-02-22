@@ -1,6 +1,10 @@
 # Jordan's Short Story
-*Updated 2026.01.18*  
-*A 20 minute overview of a 40 year life*  
+*Updated 2026.01.18*
+*A 20 minute overview of a 40 year life*
+
+_Following Jordan's death on August 10, 2025, the essential arc of his story has been woven into **[[The Story of LIONSBERG]]**. What follows is the original biographical account, preserved in full for those who wish to know the details._
+
+___
 
 ## Genesis
 

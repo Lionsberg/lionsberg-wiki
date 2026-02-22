@@ -1,8 +1,8 @@
 # **The LIONSBERG Playbook**
 _The Living Guide of The Great Game_
 
-**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  
-If you have not already passed through the gates of **[[The LIONSBERG Quick Start Guide]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]**  please gather up your Circle and return to the opening page of **[[the nameless book]]**. It will walk you through the necessary predecessors to the Path below. 
+**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
+If you have not already passed through **[[The Invitation]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]** — please gather up your Circle and return to **[[the nameless book]]**. It will walk you through the necessary predecessors to the Path below.
 
 ___
 

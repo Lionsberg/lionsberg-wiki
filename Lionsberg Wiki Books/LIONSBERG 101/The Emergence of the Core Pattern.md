@@ -89,7 +89,9 @@ ___
 
 What [[Arizmendi]] discovered through a lifetime of practice in the Basque Country, what Bill Wilson encoded in 600 words, what Benedict codified in his Rule, what the Peacemaker articulated in the Great Law, what the apostolic networks demonstrated across the Roman Empire, what Elinor Ostrom proved through decades of research on commons governance, what Graham Boyd operationalized in the Fair Shares Commons, what Taiichi Ohno perfected at Toyota, what Glenn Ballard and Greg Howell founded as Lean Construction, what Eliyahu Goldratt articulated as the Theory of Constraints, what the [[Program Delivery Guide]] demonstrated across multiple billion-dollar projects — all of it converges.
 
-These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a cosmic-grade operating system that enables any community or world that adopts it to self-organize, self-govern, produce, and federate with other communities and worlds also playing [[The Great Game]]. LIONSBERG is the localization of this operating system to Earth.
+These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a faithful reflection of the ancient and eternal [[Way]] by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. LIONSBERG is the localization of this Way to Earth — Story, Pattern, and Play adapted to this world, this species, this moment.
+
+One soul poured his life into this work of localization and planting. He died for it — and in dying, freed it. Like the early church, whose founder's death liberated the pattern from any single personality, LIONSBERG belongs to no one. It is not an organization. It has no center to capture, no leader to follow, no institution to join. It is a living myth, a proven pattern, and a playable game — freely available, infinitely forkable, belonging to All.
 
 The 2.5 million words are the forest.
 The twelve elements are the DNA.
@@ -97,7 +99,7 @@ The twelve elements are the DNA.
 
 **[[The Golden Seed]] is ready.**
 
-**The Game is ready to be played**. 
+**The Game is ready to be played**.
 
 The question is no longer whether the pattern works — thousands of years of evidence, billions of dollars of economy, $20 million of funded research, and ongoing operations across cosmic expanse demonstrate that it does.
 

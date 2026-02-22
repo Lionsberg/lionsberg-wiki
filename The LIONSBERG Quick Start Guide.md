@@ -11,7 +11,8 @@ By the end of today, you will have:
 - Consecrated your circle with a name and simple agreements
 - Read and reflected on **The Story** and **The Great Game** together
 - Chosen your first **Seasonal Quest**
-- Set your ongoing rhythm for gatherings and communications  
+- Set your ongoing rhythm for gatherings and communications
+- **Passed the Flame** — identified the 2-3 others each of you will invite next
 
 **Let's begin.**
 
@@ -142,10 +143,20 @@ Decide together:
 - **Where?** (Physical location or video link)
 - **Who will send reminders?** (Rotate this role or assign to one person)
 
+**Pass the Flame** (~5 min)
+
+Before closing, each person answers one question:
+
+> "Who are the 2 or 3 people I already know who are ready for this?"
+
+Write the names down. This is not optional — it is the heartbeat of everything. Within the next week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
+
+You are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
+
 **Close with Gratitude** (~2-3 min)
 
 Go around one final time. Each person completes this sentence:
-> "I'm grateful for _____."  
+> "I'm grateful for _____."
 
 ---
 
@@ -208,21 +219,19 @@ Every solstice and equinox (~every 90 days):
 
 ### Passing The Flame
 
-When transformation happens in your circle—when you experience breakthroughs, healing, or co-creation together—share [[Stories of Transformation]] and **pass the flame**:
+This is not a later step. It begins **now** — in the first gathering.
 
-**Invite 1-3 Others**
-- People who are awakening to the crisis
-- Ready for action
-- Resonate with what you're experiencing
+Each person in your circle already named 2 or 3 others who are ready. Within the next week:
 
-**Point Them to the Beginning**
-- Send them to: **lionsberg.wiki**
-- Ask them to read the homepage and opening of [[the nameless book]]
-- Support them as they gather their own circle, or integrate into yours  
+1. **Share [[The Invitation]]** with them — a single link is all it takes
+2. **Support them** as they read and gather their own circle
+3. **Be present** for their first gathering if they ask
 
-**Each Person You Invite Becomes a Carrier of the Light**
+**Each person you invite becomes a carrier of the full DNA.** They don't need to be convinced. They need to be *found*.
 
-This is how [[The First Three Percent]] emerges—through organic invitation cascading through trust networks, not mass marketing or central control.
+This is how [[The First Three Percent]] emerges — through the ancient organic pattern of flame passed from hand to hand, Circle to Circle, community to community. Not through campaigns. Not through central control. Through trust.
+
+The mathematics are the mathematics of life itself — the Fibonacci sequence. In just months, not years, the sacred organism shelters and nourishes the world.
 
 ---
 

@@ -1,8 +1,8 @@
 # The Great Game of LIONSBERG
 *The Awakening of the Living Gate and the Path to Heaven On Earth*
 
-**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.  
-If you have not already passed through the gates of **[[The LIONSBERG Quick Start Guide]]** and **[[The Story of LIONSBERG]]**  please gather up your Circle and return there first. They are necessary predecessors to the Path below. 
+**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
+If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, and **[[The Story of LIONSBERG]]** — please gather up your Circle and return there first. They are necessary predecessors to the Path below.
 
 ___
 
@@ -134,7 +134,7 @@ It is played in lives, in choices, in communities across worlds.
 It begins when a single Soul awakens  
 It multiplies when Circles are formed  
 It becomes unstoppable when hearts and hands align  
-in every greater symphonies of Divine co-creation  
+in ever-greater symphonies of Divine co-creation  
 
 From the moment you cross **The Threshold**  
 and step into **The Great Game**  

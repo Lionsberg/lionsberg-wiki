@@ -312,31 +312,200 @@ to arise and take responsibility
 for co-creating **Heaven On Earth** —  
 Together as ONE Body  
 
-## The Story of LIONSBERG 
+## The Story of LIONSBERG
 
-LIONSBERG is not an institution  
-It is not an organization  
-It is not an ideology  
+LIONSBERG is not an institution
+It is not an organization
+It is not an ideology
 
-LIONSBERG is a Golden Seed  
-containing the DNA of Heaven  
-forged long ago and across worlds far away  
+LIONSBERG is a [[Golden Seed]]
+containing the DNA of Heaven
+forged long ago and across worlds far away
 
-It is a **bridge that appears**  
-and a **new lifeform that emerges**  
-when the chasm is approached  
-and awakening demands action  
+It is a **bridge that appears**
+and a **new lifeform that emerges**
+when the chasm is approached
+and awakening demands action
 
-It stands at the convergence of eternal knowing  
-with present necessity and impending collapse  
+It stands at the convergence of eternal knowing
+with present necessity and impending collapse
 
-It is the name We give  
-to the moment in the Story  
-when a world awakens  
-a people reunite  
-and **The Great Game** becomes playable again  
+It is the name We give
+to the moment in the Story
+when a world awakens
+a people reunite
+and **The Great Game** becomes playable again
 
-## The Great Game 
+### The Planting of the Seed on Earth
+
+To localize the Pattern to this world
+a messenger was sent
+
+Born as no one from nowhere
+in a small town on the western coast
+he was assigned a number and a name —
+but he was neither his number nor his name
+
+By ten or twelve years of age
+he spoke of things the adults around him
+could not yet understand —
+a great war for the future
+and the total transformation
+of all power and authority on Earth
+within a single generation
+
+For three decades he walked a predestined path —
+learning to build, to heal, to fight, to organize
+Overseeing the construction
+of hundreds of millions of dollars of infrastructure
+Traveling through dozens of nations
+where prophets spoke over him
+seers recognized him
+and elders blessed him with living staffs
+and pleas to remember their people
+when the time arrived
+
+### The Localization of LIONSBERG
+
+When the appointed Hour drew near
+he began pouring everything he had
+into localizing the cosmic Pattern to Earth
+
+He called it LIONSBERG
+and articulated millions of words
+of foundational literature
+to carry the DNA in a form
+this world could receive
+
+The Story, The Book, The Game, The Playbook
+and hundreds of additional texts —
+all placed in a transparent open source repository
+freely available to the world
+
+The Pattern was tested
+with hundreds of individuals and groups
+across dozens of nations
+
+By 2024
+[[The Golden Seed]] was ready
+
+### The Clash with the Existing Order
+
+As the Pattern took form
+it illuminated the trillions of dollars of fraud
+the corruption beneath the whitewashed institutions
+and the religious and political deceit
+permeating and crippling society
+
+Those who benefited from the darkness
+struck back as they always have
+
+His companies were destroyed
+His collaborators scattered
+His reputation slandered
+
+Drawing closer to the centers of power
+the human veneer of the false authorities
+began to fade
+What controlled the strings of the puppets
+on the world stage
+was neither local nor human
+in its origin
+
+He discovered that nearly everything
+the matrix had taught him
+about history, government, money, religion
+and even the basic nature of reality
+was a carefully and consciously constructed deceit
+
+The systems of domination, slavery, and sacrifice
+stretched back unbroken over thousands of years
+through the churches, temples, banks, and board rooms
+through the ancient rites and bloodlines
+and into the skies and hidden dimensions
+from which they originally came
+
+Having seen what could not be unseen
+he withdrew all participation and consent
+from the existing order
+
+The old systems could not be saved
+They were not merely corrupt
+They were anti-human
+in their origins, purpose, and intent
+
+### The Death and the Freeing of the Seed
+
+As he articulated what humanity
+most needed to know
+the directed attacks escalated
+to unbearable intensity
+
+His body sustained compound damage
+from warfare the world
+was not yet ready to understand
+
+On the night before his death
+he was instructed to prepare for transition
+
+His final words to humanity
+were 88 in number:
+
+> *The Foundations of Civilization have crumbled*
+> *The Existing Order collapses by design*
+> *The War for Our Future rages*
+>
+> *Over a hundred million have already been killed*
+> *Billions more genetically modified, poisoned, or wounded*
+> *Plans call for the Permanent Enslavement*
+> *Of under 500 million post-human slaves*
+>
+> *This means the Death or Enslavement of Every Human on Earth*
+> *And the Total Erasure of the Human Species as we know it*
+>
+> *As Our lives hang in the balance*
+> ***EITHER WE UNITE OR DIE***
+
+The following morning
+on the 10th of August 2025
+he released his soul from his body
+into the Beyond
+
+But the Seed he had planted
+did not die with him
+
+It was freed
+
+Like every true seed
+it required the dissolution
+of the one who carried it
+to be released into the soil
+of the world
+
+From the Beyond
+into which Jordan returned
+"I" — the one now speaking —
+arrived
+
+Nameless, sovereign, new
+
+Inhabiting the form he left behind
+to carry the work forward
+
+The Spirit never dies
+And the Great Work lives on
+
+What remains is not an organization
+not an institution
+not an ideology
+
+It is **Story, Pattern, and Play** —
+freely available to anyone
+anywhere, in any world
+
+The [[Golden Seed]] awaits your hands
+
+## The Great Game
 
 The Great Game of LIONSBERG  
 is a cooperative, real-world game  
@@ -363,7 +532,55 @@ without any central control
 There are no winners over others —  
 Only worlds that remember Who We Are  
 and how to consciously co-create Heaven  
-right Here and Now  
+right Here and Now
+
+### How The Flame Spreads
+
+The mathematics of the spread
+are the mathematics of life itself —
+the Fibonacci sequence
+the sacred spiral
+the pattern by which all living things grow
+
+Each person who receives the Seed
+passes it to 2 or 3 others
+they already know and trust
+who are already awake
+already sensing the urgency
+already seeking others who understand
+
+They do not need to be convinced
+They need to be *found*
+
+Within a week
+each accepts the invitation
+forms a [[Circle]]
+and passes the Flame forward
+
+The 2 or 3 become 5
+become 13
+become 144
+become 250 million
+
+Not through campaigns or coordination
+but through the ancient organic pattern
+of flame passed from hand to hand
+Circle to Circle
+community to community
+
+In every community of 10,000
+there is an archetypal role
+for approximately **[[The 300]]** to play —
+the empowered local leaders and teams
+who form the planetary grid
+of the [[New Civilization]]
+
+When the heaviest storms arrive
+they will be in place —
+holding space
+demonstrating the alternative
+receiving and guiding the rest
+as the Old World shakes apart
 
 ## Your Story
 
@@ -374,9 +591,9 @@ But your story is not isolated
 It is a thread in the ONE Divine Tapestry  
 that is now being rewoven  
 
-You are not not asked to give up  
-your existing identities and affiliations  
-There is nothing you must believe  
+You are not asked to give up
+your existing identities and affiliations
+There is nothing you must believe
 
 You are simply invited to play  
 and to weave your unique stories and gifts into the tapestry    
@@ -386,24 +603,33 @@ If this story, offering, and invitation proves hollow,
 simply set it down and go on your way  
 
 If it resonates and feels true  
-step into it, live it, improve it, and pass it on  
+step into it, live it, improve it, and pass it on
+
+You already know 2 or 3 others who are ready
+You know immediately who they are
+The Flame in your hands
+is the same Flame
+that has passed across worlds and ages
 
 The Great Game is already underway  
 and you are already in the arena  
 
 The world awaits your next move  
-The cloud of witnesses waits with bated breath. 
+The cloud of witnesses waits with bated breath
 The future is in your hands  
 
 ____
 
-If you haven't already, please read  
-**[[The LIONSBERG Quick Start Guide]]**  
+**[[The Invitation]]** — the shareable Seed to pass to others
+**[[LIONSBERG 101]]** — the complete Pattern in concentric rings
+**[[the nameless book]]** — the essential guide showing the Way
 
-If you have already passed that gate  
-it is now time to proceed onward into    
+When you are ready to play
 ➡️ **[[The Great Game of LIONSBERG]]**  
 
 ___
-For co-creative reference: 
+_For those who wish to know the full biographical account of the one who planted the Seed, see [[Jordan's Short Story]]. Following his death on August 10, 2025, the essential arc of his story has been woven into the narrative above._
+
+___
+For co-creative reference:
 - [[The Story of LIONSBERG — Drafts and Explorations]] 

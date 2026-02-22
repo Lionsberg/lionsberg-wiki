@@ -469,9 +469,11 @@ These twelve elements are not a menu to select from. They are an integrated syst
 
 Remove any single element and the system fails. Include all twelve and you have what thousands of years of history and $20 million of funded research demonstrate: **a self-replicating, self-governing, self-sustaining, self-improving pattern of human cooperation and production that can endure across centuries and scale across civilizations.**
 
-This is not a human invention. It is a **cosmic-grade operating system** — the same universal principles, protocols, patterns, and plays that enable any community or world that adopts it to self-organize, self-govern, produce, learn, and federate with other communities and worlds also playing [[The Great Game]].
+This is not a human invention. It is a faithful reflection of the ancient and eternal [[Way]] — the same universal principles, protocols, patterns, and plays by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. A cosmic-grade operating system that enables any community or world that adopts it to self-organize, self-govern, produce, learn, and federate with other communities and worlds also playing [[The Great Game]].
 
 This is the DNA of **[[Heaven On Earth]]**.
+
+One soul poured his life into localizing and planting this Pattern on Earth. He died for it — and in dying, freed it. LIONSBERG belongs to no one. It is **Story, Pattern, and Play** — freely available, infinitely forkable, belonging to All.
 
 It has already been proven to work.
 

@@ -1,12 +1,28 @@
 # LIONSBERG 101
 
-_The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the world._
+_The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the world — reflecting an ancient and eternal Way that spans all worlds._
+
+___
+
+## What is LIONSBERG?
+
+LIONSBERG is **Story, Pattern, and Play**.
+
+It is not an organization, institution, or brand. There is no one to join, no dues to pay, no leader to follow. It is a **[[Golden Seed]]** — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
+
+**The Story** reveals where we are, how we got here, and what is at stake — spanning the cosmos and touching every world where beings face the great choice between fragmentation and flourishing.
+
+**The Pattern** is the irreducible DNA of cooperation and production — twelve elements proven across 1,500 years of movements that changed the world. Not a human invention, but a faithful reflection of the ancient and eternal **[[Way]]** by which sovereign beings everywhere have always organized, healed, and flourished.
+
+**The Play** is **[[The Great Game of LIONSBERG]]** — a cooperative, real-world game where every person, family, and community finds their role in co-creating **[[Heaven On Earth]]**.
+
+One soul poured his life into planting this Seed on Earth. He died for it. The Pattern is now free. What remains is the Seed, the People, and the Story. This book distills the Pattern into concentric rings — from ONE word to the full library.
 
 ___
 
 ## How This Book Works
 
-This book is structured as **concentric rings emanating from a single center** — like like rings of a tree growing from a golden seed, like the universe itself unfolding from the [[ONE]].
+This book is structured as **concentric rings emanating from a single center** — like rings of a tree growing from a golden seed, like the universe itself unfolding from the [[ONE]].
 
 Each Ring contains the **complete pattern** at a different resolution. Someone who reads only Ring 0 and Ring 1 has the whole Seed. Someone who reads through Ring 3 has the historical evidence that the Seed works. Someone who enters Ring 5 begins playing — and in playing, learns what no amount of reading can teach.
 
@@ -38,7 +54,7 @@ _How 2.5 million words, $20 million of funded research, 70 years of cooperative 
 **Action.** You do not learn this by reading about it. Cross the threshold. Anchor your practice. Form a [[Circle]]. Choose a [[Quest]]. Do the work. Pass [[The Flame]].
 
 ### [[The 10 Year Grand Strategy]]
-**The timeline.** 2024-2036. How [[The First Three Percent]] — 250 million awakened souls — unite, organize, and co-create the [[New Civilization]] before the [[Old World]] completes its collapse.
+**The timeline.** 2024-2033. How [[The First Three Percent]] — 250 million awakened souls — unite, organize, and co-create the [[New Civilization]] before the [[Old World]] completes its collapse. Anchored to the [[Lionsberg Cycles of Growth|Fibonacci Cycles of Growth]] at solstices and equinoxes.
 
 ___
 
