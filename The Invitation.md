@@ -94,7 +94,8 @@ You are reading this because someone trusted you with something sacred.
 
 There is nothing you must believe.
 There is no identity you must adopt.
-There is nothing to pay and no one to obey.
+There is nothing to pay.
+There is no one to obey.
 
 You are simply invited to enter the Story, embody the Pattern, and begin to Play.
 

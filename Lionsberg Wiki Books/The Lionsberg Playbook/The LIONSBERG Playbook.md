@@ -2,9 +2,9 @@
 _The Living Guide of The Great Game_
 
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
-If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]** — please gather up your Circle and return to **[[the nameless book]]**. It will walk you through the necessary predecessors to the Path below.
+If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, **[[The Story of LIONSBERG]]**, and **[[The Great Game of LIONSBERG]]** — please gather your Circle and return to **[[the nameless book]]**. It will walk you through the necessary predecessors to the Path below.
 
-___
+---
 
 You approach the Sacred Table.  
 Upon it rests the Playbook — bound in ancient leather,  
@@ -96,7 +96,7 @@ From that simple beginning,
 a spiral of transformation unfolds,  
 and your life and world will never be the same.
 
-____
+---
 
 Hold this book with reverence  
 Open it with courage  

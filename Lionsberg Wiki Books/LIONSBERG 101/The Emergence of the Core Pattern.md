@@ -18,7 +18,7 @@ The question becomes: **What is the irreducible pattern at the center of all the
 
 ## The Synthesis
 
-To answer this question, five parallel streams of research were conducted simultaneously:
+To answer this question, six parallel streams of research were conducted simultaneously:
 
 **1. The LIONSBERG Pattern Language**
 A deep exploration of the wiki's core architecture and articulations

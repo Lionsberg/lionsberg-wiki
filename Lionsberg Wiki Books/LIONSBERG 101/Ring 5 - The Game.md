@@ -138,7 +138,7 @@ This is not optional. This is the proof of maturity. The fruit of the tree conta
 
 **2. Share the Seed.** Give them [[Ring 1 - The Seed]]. Share this book. Share your story. Share what your Circle has done and what it has meant.
 
-**3. Help them form their own Circle. Or invite them to join yours** Not a branch of yours. Not a sub-committee. A new, sovereign, complete expression of the Pattern — carrying the full DNA, adapted to their own context, their own people, their own place.
+**3. Help them form their own Circle — or invite them to join yours.** Not a branch of yours. Not a sub-committee. A new, sovereign, complete expression of the Pattern — carrying the full DNA, adapted to their own context, their own people, their own place.
 
 **4. Federate.** Your Circle and the new Circle(s) begin coordinating — sharing learnings, pooling resources for larger Quests, establishing shared agreements at the Circle-of-Circles level.
 

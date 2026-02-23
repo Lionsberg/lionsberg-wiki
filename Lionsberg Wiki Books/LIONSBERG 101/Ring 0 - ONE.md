@@ -66,7 +66,8 @@ _Love ONE._
 _Love One Another._  
 _Love All._ 
 
-From ONE, all else is derived. 
+From ONE, all else is derived.
+
 ---
 
 Forward to [[Ring 1 - The Seed]]

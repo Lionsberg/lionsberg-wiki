@@ -44,7 +44,7 @@ The word _holon_ was coined by Arthur Koestler to describe something that is sim
 
 Every successful self-replicating movement spreads not by creating dependent outposts of a center, but by **planting complete, autonomous seeds, each carrying the full DNA**.
 
-But completeness alone is not enough. The crucial insight is that these complete wholes **naturally find one another and begin cooperating at broader scales** — not because a center directs them, but because the pattern itself generates the interconnection. Sovereign individuals voluntarily self-organize into sovereign Circles. Circles reach out, discover other Circles, and begin cooperating. Communities emerge. Bioregions emerge. A planetary federation emerges. Galactic federations emerge. This is how harmony and coherence are built across cosmic scales and a vast diversity or cultures. 
+But completeness alone is not enough. The crucial insight is that these complete wholes **naturally find one another and begin cooperating at broader scales** — not because a center directs them, but because the pattern itself generates the interconnection. Sovereign individuals voluntarily self-organize into sovereign Circles. Circles reach out, discover other Circles, and begin cooperating. Communities emerge. Bioregions emerge. A planetary federation emerges. Galactic federations emerge. This is how harmony and coherence are built across cosmic scales and a vast diversity of cultures. 
 
 **This is never imposed. It grows organically from the bottom up — like a living organism assembling itself from sovereign cells.**
 
@@ -107,7 +107,7 @@ In Mondragon, sovereignty is expressed through the **arm's-length federation**. 
 
 LIONSBERG describes this as the **[[Total Nested Hierarchy of Sovereignties]]**:
 
-ONE ultimately Source of Sovereignty.  
+ONE — ultimate Source of Sovereignty.  
 Flowing not through institutions but through **individuals**. 
 
 Sovereign individuals...
@@ -251,7 +251,7 @@ In LIONSBERG, education operates through:
 - **The 101 Class** — this very book, structured as concentric rings of understanding 
 - **Mentorship and coaching** — the Arizmendi model: "Organize a circle. Do something. And I'll be back to check on you." Wise guidance without creating dependency or control. 
 
-The critical insight: **education is not information transfer. It is transformative interbecoming across all systems levels of analysis.** It changes who we are, not just what we know. It is lifelong endeavor that unfolds over years through practice, reflection, and relationship in circles and community. 
+The critical insight: **education is not information transfer. It is transformative interbecoming across all systems levels of analysis.** It changes who we are, not just what we know. It is a lifelong endeavor that unfolds over years through practice, reflection, and relationship in circles and community. 
 
 ---
 
@@ -346,7 +346,7 @@ In LIONSBERG, Integrated Delivery operates through the federation of [[Circles]]
 - **[[The Prototype]]** — a centrally learning Kit of Parts — ensures that every local adaptation benefits the Whole and every lesson learned feeds back into the pattern
 - **Value creation is tracked and shared** through federated systems and interface protocols — enabling coordination, learning, and continuous improvement across scales without central fragility
 
-This is not theoretical. [[The Program Delivery Guide]] demonstrated this approach across multiple billion-dollar construction programs. Taiichi Ohno demonstrated it at Toyota. The Agile movement demonstrated it in software. LIONSBERG applies it to civilization itself - by helping the diverse many self-optimize towards the highest conceivable Whole and Goal, and giving each participant an equal stake in the extraordinary value being co-created. 
+This is not theoretical. [[The Program Delivery Guide]] demonstrated this approach across multiple billion-dollar construction programs. Taiichi Ohno demonstrated it at Toyota. The Agile movement demonstrated it in software. LIONSBERG applies it to civilization itself — by helping the diverse many self-optimize towards the highest conceivable Whole and Goal, and giving each participant an equal stake in the extraordinary value being co-created. 
 
 ### Why This Element Is Irreducible
 
@@ -356,7 +356,7 @@ Without integrated delivery, Circles work in isolation. Their Quests do not aggr
 
 ## Element 10: Design To The Goal
 
-In the [[Old World]], projects are designed to constrained budgets in inherently competitive landscapes. The budgets of artificially fractured and scarce currency regimes constrain the imagination, vision, and perception of what is possible. What is locally affordable determines what local competitors compete to build. Scientifically, technically, mathematically - this is criminal insanity that produces the opposite of what we genuinely value.  
+In the [[Old World]], projects are designed to constrained budgets in inherently competitive landscapes. The budgets of artificially fractured and scarce currency regimes constrain the imagination, vision, and perception of what is possible. What is locally affordable determines what local competitors compete to build. Scientifically, technically, mathematically — this is criminal insanity that produces the opposite of what we genuinely value.  
 
 In the [[New World]], all design is constrained by **[[Meta Goal|The Goal]]** — the total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness. And all resources are then intelligently channeled to produce measurable throughput of that Goal into reality for the benefit of All. Collaboratively. Not competitively.  
 
@@ -392,7 +392,7 @@ The cycle is simple and fractal:
 - **SHOULD** → What should be done to advance The Goal?
 - **CAN** → What can we actually do, given current constraints?
 - **WILL** → What will each person commit to doing this period?
-- **DID** → What was actually accomplished? Where commitments kept? What can we learn or do better in the next cycle?
+- **DID** → What was actually accomplished? Were commitments kept? What can we learn or do better in the next cycle?
 - This leads recursively back to what should be done to advance The Goal. 
 
 ### The Practical Expression

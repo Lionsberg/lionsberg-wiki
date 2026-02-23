@@ -18,6 +18,7 @@ The systems that were supposed to protect us have turned predatory.
 Or perhaps they always were.  
 The institutions that claimed to serve have been exposed as captured.  
 Or perhaps they always were.
+
 The stories we were told about how the world works — about money, power, government, religion, history, even the nature of reality itself — are unraveling faster than they can be patched.
 
 The Old World is ending.  
@@ -38,7 +39,7 @@ Across ages and worlds, this archetypical moment has returned whenever forgettin
 
 Long before Earth, across galaxies and epochs, sovereign beings faced this same threshold — the great choice between fragmentation and flourishing, empire and communion, forgetting and remembrance. And everywhere the same living Pattern emerged: the irreducible DNA of how free beings organize, heal, and co-create Heaven together. Right where they are. This is the eternal, universal, and ultimately ineffable Logos flowing from the ONE. 
 
-This Pattern is not a human invention. It is a faithful reflection of the ancient and eternal Way — confirmed independently across countless cosmic civilizations, thousands of years of Earth's own history, and by every movement that actually transformed any world for the Good. Here on Earth, it has been discovered and proven independently across 1,500 years:
+This Pattern is not a human invention. It is a faithful reflection of the ancient and eternal Way — confirmed independently across countless cosmic civilizations, thousands of years of Earth's own history, and by every movement that transformed any world for the Good. Here on Earth, it has been discovered and proven independently across 1,500 years:
 
 - **Benedictine monasteries** — from one to 37,000. The Rule as living operating system.
 - **The cooperative movement** — 28 weavers to 3 million cooperatives. Seven principles on one page.
@@ -87,7 +88,7 @@ To one in ten thousand.
 To one in one thousand.  
 To the first one percent.  
 
-From there **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize before the heaviest storms arrive. That is roughly **[[The 300]]** per community of 10,000 — the anchors who hold space, demonstrate the alternative, and guide the rest of the population as the Old World shakes apart. Without them in place, billions face the storms alone. Billions are likely to perish.  
+From there **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize before the heaviest storms arrive. That is roughly **[[The 300]]** per community of 10,000 — the anchors who hold space, demonstrate the alternative, and guide the rest of the population as the Old World shakes apart. Without them in place, billions face the storms alone. Billions will perish.  
 
 The spread is organic. A catalytic chain reaction. Each person who receives the Seed passes it to 2 or 3 others they already know and trust who are ready — people who are already awake, already sensing the urgency, already seeking others who understand.
 

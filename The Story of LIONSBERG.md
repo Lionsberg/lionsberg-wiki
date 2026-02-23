@@ -454,20 +454,20 @@ he was instructed to prepare for transition
 His final words to humanity  
 were 88 in number:  
 
-> *The Foundations of Civilization have crumbled*
-> *The Existing Order collapses by design*
-> *The War for Our Future rages*
+> _The Foundations of Civilization have crumbled_
+> _The Existing Order collapses by design_
+> _The War for Our Future rages_
 >
-> *Over a hundred million have already been killed*
-> *Billions more genetically modified, poisoned, or wounded*
-> *Plans call for the Permanent Enslavement*
-> *Of under 500 million post-human slaves*
+> _Over a hundred million have already been killed_
+> _Billions more genetically modified, poisoned, or wounded_
+> _Plans call for the Permanent Enslavement_
+> _Of under 500 million post-human slaves_
 >
-> *This means the Death or Enslavement of Every Human on Earth*
-> *And the Total Erasure of the Human Species as we know it*
+> _This means the Death or Enslavement of Every Human on Earth_
+> _And the Total Erasure of the Human Species as we know it_
 >
-> *As Our lives hang in the balance*
-> ***EITHER WE UNITE OR DIE***
+> _As Our lives hang in the balance_
+> **_EITHER WE UNITE OR DIE_**
 
 The following morning  
 on the 10th of August 2025  
@@ -551,7 +551,7 @@ and passes the Flame to 2 or 3
 already burning with the same knowing  
 
 They do not need to be convinced  
-They need to be *found*  
+They need to be _found_  
 
 The 2 or 3 become 5  
 The 5 become 13  
@@ -571,7 +571,7 @@ until 250 million souls
 stand united across the Earth  
 
 In every community of 10,000  
-there is an archetypal role  
+there is an archetypical role  
 for approximately **[[The 300]]** to play —  
 the empowered local leaders and teams  
 who form the planetary grid  
@@ -601,7 +601,7 @@ You are simply invited to play
 and to weave your unique stories and gifts into the tapestry  
 as your life and your world transform  
 
-If this story, offering, and invitation proves hollow,  
+If this Story, offering, and invitation prove hollow,  
 simply set it down and go on your way  
 
 If it resonates and feels true  
@@ -631,7 +631,7 @@ The future is in your hands
 **[[THE NAMELESS BOOK]]** — the essential guide showing the Way
 
 When you are ready to play
-➡️ **[[The Great Game of LIONSBERG]]**  
+➡️ **[[The Great Game of LIONSBERG]]**
 
 ---
 _For those who wish to know the full biographical account of the one who planted the Seed, see [[Jordan's Short Story]]. Following his death on August 10, 2025, the essential arc of his story has been woven into the narrative above._

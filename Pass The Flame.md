@@ -108,7 +108,7 @@ But if the Flame does not pass forward, it all remains local. Beautiful, but con
 **Passing the Flame is what turns a Circle into a movement.**
 **It is what turns a movement into a civilization.**
 
-Every Circle that passes the Flame becomes a node in a living network that spans neighborhoods, bioregions, continents, and eventually the entire Earth. Every person who carries the Seed forward is a link in the chain of trust that connects the first awakening soul to the last.
+Every Circle that passes the Flame becomes a node in a living network that spans neighborhoods, bioregions, continents, and the entire Earth. Every person who carries the Seed forward is a link in the chain of trust that connects the first awakening soul to the last.
 
 This is the Great Game.
 This is how it is won.

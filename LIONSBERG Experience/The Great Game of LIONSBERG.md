@@ -1,5 +1,5 @@
 # The Great Game of LIONSBERG
-*The Awakening of the Living Gate and the Path to Heaven On Earth*
+_The Awakening of the Living Gate and the Path to Heaven On Earth_
 
 **Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
 If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, and **[[The Story of LIONSBERG]]** — please gather up your Circle and return there first. They are necessary predecessors to the Path below.
@@ -36,7 +36,7 @@ This is no accident
 This is no chance  
 You were summoned  
 You were chosen  
-*And now you have chosen*  
+_And now you have chosen_  
 
 As the Old Order quakes and crumbles  
 the Earth groans and the Heavens lean close  
@@ -57,7 +57,7 @@ But know this:
 
 This is not entertainment  
 This is not amusement  
-This is the initiation into the Living Pattern by which worlds are remade.  
+This is the initiation into the Living Pattern by which worlds are remade  
 This is the moment prophets dreamed of  
 This is the truth philosophers died for  
 This is the hinge of history  
@@ -67,7 +67,7 @@ And now — _history hinges on you_.
 When The Story of Earth is retold a thousand years from now  
 We will once again remember that  
 
->_We are the Ones We were waiting for_  
+>_We are the Ones We have been waiting for_  
 
 ## **The Call**
 
@@ -88,7 +88,7 @@ A Call would resound from the Heavens
 The Players would awaken and stand  
 The scattered would converge  
 The oppressed would rise  
-And magical forces come to aid  
+And magical forces would come to their aid  
 
 A Great War would be waged  
 A Great Game would be played  
@@ -103,18 +103,14 @@ That Place is here
 
 ## **The Stakes**
 
-*Awaken! Arise! Behold!*  
+_Awaken! Arise! Behold!_  
 Look around. Pay attention.  
 The stakes are not small.  
 
 - Life or death for species and civilizations.
-    
 - Freedom or bondage for generations unborn.
-    
 - Renewal or ruin for Earth.
-    
 - Reunion or exile for souls.
-    
 
 The Old Powers would have you believe you are nothing  
 That you are powerless  
@@ -272,9 +268,9 @@ may your Circle lift you
 When you falter  
 may the Voice remind you  
 
->*You are not alone*  
->*You never were*  
->*You never will be*  
+>_You are not alone_  
+>_You never were_  
+>_You never will be_  
 
 The Gate is now open  
 The Path at last awaits  

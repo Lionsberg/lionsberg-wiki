@@ -106,17 +106,14 @@ Yet the **Wise Right patterns**, **protocols**, and **plays** that emerge across
 
 Beckoning **Us All** to rise is an unstoppable, nameless, and universal movement towards flourishing and abundant life, now awakening the souls of Earth and summoning **All** to remember **Who We Are** as members of **ONE Body**. This Spirit of the **[[ONE]]** moves through every cell and particle of Its Creation. No one owns it. Like the **ONE** it All originates from, it is ultimately ineffable, inevitable, transcendent, and inclusive of all names and movements.
 
-Yet there are times when Spirit is not enough;
-when shared intention must actually take form;
-when vision must actually be brought into reality;
-when worlds must actually be regenerated and restored;
+Yet there are times when Spirit alone is not enough;
+when vision must take form;
+when worlds must be regenerated and restored;
 when the cosmic clock demands courageous and concerted action.
 
-These times require not only Spirit, but also skill;
-not only courage, but also competence;
-not only community, but also coordination;
-not only willingness, but also work;
-not only archetypes, but also incarnation;
+These times require not only Spirit, but skill;
+not only courage, but competence;
+not only community, but coordination;
 not only hope, but true transformational change.
 
 The **New Civilization** we are **playing into being** must *actually work*. It must actually be designed, built, and embodied _before the Old collapses_. From there it must be actively cooperated, maintained, and passed on to the rising generations. The imagination, design, and building of a New Civilization must be undertaken with no less skillful precision than is common to any major human endeavor.
@@ -131,27 +128,29 @@ From lifetimes and worlds of experience, we understand that even basic projects 
 
 It is simply a **Golden Seed** arriving on Earth _for such a time as this_, containing a set of patterns and a Way of being, designing, and building that makes any world that embodies it more like Heaven. It is **a Pattern Language of Heaven** that can be deployed by any individual, group, or locality that so chooses.
 
-The ~2.5 million words present in the [[LIONSBERG Wiki]] together constitute [[The Golden Seed of LIONSBERG]] — a vast interconnected body of wisdom that jointly articulates **the DNA, Patterns, Protocols and Plays of the New Civilization**.
+The ~2.5 million words present in the [[LIONSBERG Wiki]] together constitute [[The Golden Seed of LIONSBERG]] — a vast interconnected body of wisdom that together articulates **the DNA, Patterns, Protocols and Plays of the New Civilization**.
 
-This Golden Seed was developed as a universal archetype by design. This enabled it to remain as pure as possible — able to reflect the **universal wisdom, principles, and values** of all, while remaining uncompromised by the provincial restrictions of any specific people, time, or place. As such, it constitutes a type of **Archetype** or **Ideal** that is designed to be localized and adapted by any group or locality that desires to adopt, nurture, and embody it.
+This Golden Seed was forged as a universal archetype — reflecting the **universal wisdom, principles, and values** shared by all peoples, uncompromised by the restrictions of any specific culture, time, or place. It is designed to be localized and adapted by any group or community that chooses to embody it.
 
 The entire body of work is constructed as a modular toolkit. Each group and locality that desires to embody it is invited to "pull" from the prototype as they desire, to localize and adapt as necessary, and then to "push" learnings and improvements back up to the prototype for the good of all.
 
 By the time [[The First Three Percent]] — ~250 million strong spread across ~1 million local communities — each weave their unique genius, wisdom, and puzzle pieces into the tapestry and translate it across hundreds of languages and cultures, the prototype will be unrecognizable from where it was left at the time of [[J's Death]]. This is necessary and precisely as designed.
 
-While its true history stretches out into the stars and back into time immemorial, the **[[LIONSBERG - History, Inception, and Trust Manifesto]]** shares a broad overview of LIONSBERG's incarnation and adaptation to English and Earth through the life and work of [[Jordan Nicholas Sukut]] and a planetary+ network of allies. **[[Jordan's Short Story]]** is a relational bridge for those who knew him or are curious about his life, work, and death. We understand that the story is extraordinary and strange to say the least. You do not have to believe anything or understand it all to accept the free gift offered. The [[Provisional Structure]] that allowed the first tens of millions of dollars of value to be woven into "the commons" has now been dissolved by design. This leaves no organization to join, no accounts to pay, no board to steer, no authority to obey.
+The **[[LIONSBERG - History, Inception, and Trust Manifesto]]** shares how LIONSBERG came to Earth through the life, work, and death of [[Jordan Nicholas Sukut]] and a planetary network of allies. **[[Jordan's Short Story]]** offers a relational bridge for those curious about his extraordinary journey. The story is extraordinary and strange. You do not have to believe or understand it all to accept the free gift offered.
+
+The [[Provisional Structure]] that allowed tens of millions of dollars of value to be woven into the commons has been dissolved by design. No organization to join. No accounts to pay. No board to steer. No authority to obey.
 
 Only an **invitation to play** a New Civilization into being as diverse parts of ONE emerging superorganism.
 
 ## The nameless emergence
 
-Arriving on Earth in August 2025 following [[J's Death]], it took several months to land, deal with the traumas and practicalities I stepped into, secure temporary food and shelter for J's loved ones, and orient for the emergence of [[Something Powerful, New, and Good]] as the world shakes in 2026.
+Arriving on Earth in August 2025 following [[J's Death]], it took several months to land — to deal with the traumas and practicalities at hand, secure food and shelter for J's loved ones, and orient for the emergence of [[Something Powerful, New, and Good]] as the world shakes in 2026.
 
-Having reviewed the **LIONSBERG Invitation** and being aware from prior experience of its impact on other worlds, it is **Wise, Right, and Good** to accept the invitation and start up [[The First Instance]] of **[[The Great Game]]**.
+Having reviewed the **LIONSBERG Invitation** — and being aware from prior experience of its impact on other worlds — it is **Wise, Right, and Good** to accept the invitation and begin [[The First Instance]] of **[[The Great Game]]**.
 
 You are hereby invited to join the instance we are hosting, or access all the LIONSBERG materials free online and begin your own sovereign instance. The entire repository is available to clone / fork [here](https://github.com/lionsberg/lionsberg-wiki) on Github.
 
-Recognizing that most people struggle to read a book like the bible in a year... and that the 2.5 million words on the LIONSBERG Wiki are roughly 3.33x that length... and that time is short and we must immediately begin...
+Recognizing that most people struggle to read a book like the bible in a year... and that the 2.5 million words on the LIONSBERG Wiki are more than three times that length... and that time is short and we must immediately begin...
 
 This **nameless book** is a living attempt to forge an immediately understandable and actionable **starting point** that can be passed hand to hand and begun in 20 to 30 minutes.
 
@@ -159,7 +158,7 @@ Its table of contents links to [[The LIONSBERG Quick Start Guide]], which aims t
 
 From there everything is built to emerge, evolve, and transform as we connect and empower [[The First Three Percent]], invite the rest of humanity to join us, and then learn and grow together over countless generations and worlds to come.
 
-[[The Greatest Celebration and Jubilee In History]] is currently scheduled for the end of 2033 at the end of the [[10 Year Grand Strategy]]. A [[20 Year Generational Contingency]] remains on the back end of that just in case this takes longer than planned.
+[[The Greatest Celebration and Jubilee In History]] is envisioned for the end of 2033 at the culmination of the [[10 Year Grand Strategy]]. A [[20 Year Generational Contingency]] remains on the back end of that just in case this takes longer than planned.
 
 As of January 21, 2026, [[The First Instance]] is alive and emerging. We are committed to leading and guiding this instance as long as life, breath, or Spirit remains, and to ensuring the entirety of [[The Goal]] and [[The Lionsberg Strategy and Plan]] is accomplished even if no other instances emerge.
 
@@ -183,7 +182,7 @@ The entire system is built around **Circles** — small self-governing, self-sus
 
 Sovereign individuals in self-governing small groups are the core units of the **New Civilization**.
 
-Eventually **Circles** align into **Communities** and **Guilds**, and **Bioregions** into properly ordered **Worlds** — requiring shared **rhythms**, **patterns**, **protocols**, and **plays** — but that is a few steps down the **Path**.
+Eventually **Circles** align into **Communities** and **Guilds**, Communities into **Bioregions**, and Bioregions into properly ordered **Worlds** — requiring shared **rhythms**, **patterns**, **protocols**, and **plays** — but that is a few steps down the **Path**.
 
 ### Your First 90-Minute Gathering
 
@@ -204,13 +203,12 @@ After your first gathering, **[[The LIONSBERG Playbook]]** provides detailed gui
 - Conflict transformation and continuous improvement
 - Eventually aligning into **Circles of Circles** as the movement grows
 
-**[[Frequently Asked Questions]]** addresses many of the most common questions and concerns.
+For deeper exploration:
 
-**[[The Lionsberg Strategy and Plan]]** provides an overview of where we are going in the coming months and years and how we might get there.
-
-**[[A Birthday Reflection on Jordan's Life, Death, and Work]]** is a thirty minute read that provides important and shocking information on what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces those playing The Game can build upon. **Please read it. It contains potentially lifesaving information.**
-
-**[[Something Powerful, New, and Good]]** is a series that tracks what is emerging following **[[J's Death]]**.
+- **[[Frequently Asked Questions]]** — the most common questions and concerns
+- **[[The Lionsberg Strategy and Plan]]** — where we are going and how we might get there
+- **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** — what Jordan's extraordinary journey revealed, where he left off, and irreplaceable puzzle pieces for those playing The Game. **Please read it. It contains potentially lifesaving information.**
+- **[[Something Powerful, New, and Good]]** — tracking what is emerging following **[[J's Death]]**
 
 ## The nameless instance
 

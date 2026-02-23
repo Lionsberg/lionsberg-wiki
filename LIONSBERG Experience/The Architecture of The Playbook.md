@@ -17,10 +17,10 @@ and Vision into Reality.
 The LIONSBERG Playbook is designed to be co-created
 by **[[The First Three Percent]]** as they play and embody **[[The Great Game of LIONSBERG|The Great Game]]**.
 
-The lived experiences of the early players will be what makes the Playbook accurate, organic, and emergent
-for the rest of the population that follows in due course.
+The lived experiences of the early players will make the Playbook accurate, organic, and emergent
+for all who follow.
 
-What is provided to date is a starting point for emergence and continuous improvement.
+What follows is a living starting point — designed for emergence and continuous improvement.
 
 ---
 
