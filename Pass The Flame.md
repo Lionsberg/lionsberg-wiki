@@ -49,8 +49,8 @@ When you share [[The Invitation]] with them, the resonance will be immediate —
 
 ## How to Pass the Flame
 
-**1. Identify your two or three.**
-Before your Circle's first gathering is over, name them. Write the names down. This is not a later step — it begins now.
+**1. Identify your two or three — and act within one week.**
+Before your Circle's first gathering is over, name them. Write the names down. Within seven days of receiving the Seed yourself, pass it forward. This is the natural pace of fire between ready souls — and it is the pace that carries the movement from 144 to [[The First Three Percent]] within a single year.
 
 **2. Share [[The Invitation]].**
 A single link is all it takes. Share the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Share your own story of what your Circle has done and what it has meant. Let the fire in your own experience do the speaking.
@@ -78,7 +78,7 @@ The pattern of organic growth follows the ancient sequence:
 - **Cycle 40**: ~1,000,000,000 people
 - **Cycle 50**: Every person on Earth
 
-**50 cycles. A few years.** This is not fantasy — it is the mathematics of life itself. It is how forests spread, how movements grow, how the sacred organism of the New Civilization shelters and nourishes the world.
+**50 cycles.** At the pace of one week per cycle, the first 30 carry the movement from 144 souls to 250 million in nine months. This is not fantasy — it is the mathematics of life itself. It is how forests spread, how movements grow, how the sacred organism of the New Civilization shelters and nourishes the world.
 
 The question is not whether the math works.
 The question is whether enough of us will begin.

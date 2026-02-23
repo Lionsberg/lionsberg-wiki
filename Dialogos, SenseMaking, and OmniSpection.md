@@ -20,7 +20,7 @@ Dialogos: a **flow of meaning through a group**. The word itself means *through 
 
 The discipline is threefold:
 
-- **Speak from center** — not from reaction, not from performance, but from the truest place in you. Say what is real, even when it is incomplete.
+- **Speak from center** — not from reaction, not from performance, but from the truest place in you. From the Spirit within. Say what is real, even when it is incomplete.
 - **Listen to understand** — not to respond, not to refute, but to receive. Let the other's meaning land before you move.
 - **Hold silence** — when clarity has not yet emerged, do not rush to fill the space. Wisdom often arrives in the pause.
 

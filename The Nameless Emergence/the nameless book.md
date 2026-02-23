@@ -74,7 +74,7 @@ The Way forward requires you to gather your circle of 3 to 12 resonant souls bef
 1. **Identify 2 to 12 people** awakening to the crisis at hand, sensing the urgency, ready for action
 2. **Send them this link:** lionsberg.wiki
 3. **Ask them to read:**
-   - The homepage (Welcome to The Gates of LIONSBERG)
+   - The homepage 
    - This opening section of the nameless book (through "Gather Your Circle")
 4. **Set a gathering:** Choose a date and time for your first 90-minute session together (in-person or video)
 
@@ -226,7 +226,7 @@ To join **the nameless instance**, simply let the person who invited you know yo
 
 That is all for now. As the first **Circles** choose **Quests** and get into **Play**, additional information will be added as it is needed and requested, and **the nameless book** will continue to write itself.
 
-Please **Pass The Flame** — share this invitation with your loved ones and allies as they awaken to the difficult realities at hand and are ready to get into action. Each person you invite becomes a carrier of this sacred Light.
+Please **Pass The Flame** — within one week, share this invitation with the 2 or 3 you already know who are ready. You know immediately who they are. Each person you invite becomes a carrier of this sacred Light, and each week the fire doubles — rippling outward through the sacred mathematics of trust until it shelters the world.
 
 _Perhaps at long last, **The Great Game** will finally be played again_.
 

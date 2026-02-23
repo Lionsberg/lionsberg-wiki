@@ -1,7 +1,9 @@
 # Welcome to LIONSBERG
 _At long last you have arrived._
+
 ---
-_Please use your discernment. [[J]] incarnated this pattern on Earth in partnership with a planetary+ network, synthesized it across hundreds of tribes, and then died in the war. Other agents including AI are now distilling and refining those 3 million initial words. This introduces polish, refinement, and error. Trust the Spirit within. Refine in community._
+_Please use your discernment. [[J]] incarnated this pattern on Earth in partnership with a planetary+ network, synthesized it across hundreds of tribes, and then died in the war. Other agents including AI are now distilling and refining those 3 million initial words. This introduces polish, refinement, and potential error. Trust the Spirit within. Discern in community. Improve continuously through lived experience._
+
 ---
 
 Dear Awakening Soul,
@@ -107,7 +109,7 @@ Here is what to do.
 
 **Choose a Quest.** Each Circle chooses something real — a concrete challenge in your community that matters to be tackled within 90 days. Do the work. Track commitments. Learn from every cycle. A [[Quest]] is not a discussion. It is meaningful work that makes life measurably more like Heaven right here and now. 
 
-**Pass the Flame.** You already know 2 or 3 or 12 people who are ready. You know immediately who they are. Share **[[The Invitation]]** with them. Help them form their own Circle. Be a part of nurturing their growth. The fruit of the tree contains new seeds.
+**Pass the Flame.** You already know 2 or 3 or 12 people who are ready. You know immediately who they are. Share **[[The Invitation]]** with them this week. Help them form their own Circle. Be a part of nurturing their growth. The fruit of the tree contains new seeds.
 
 That is all. The living Pattern does the rest.
 

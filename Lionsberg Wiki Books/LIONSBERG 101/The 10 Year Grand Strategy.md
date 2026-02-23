@@ -60,7 +60,7 @@ At ~9 days per cycle, each growth ring adds the next Fibonacci number. The sprea
 
 ### On The Pace
 
-A new growth ring every 9 days might seem impossible. It is entirely possible. All it requires is that **each person who receives the invitation passes it forward** — sharing with 1 or 2 others they already know and trust who are ready. Nothing more. No marketing campaigns. No central coordination. No infrastructure beyond the Pattern itself and the relationships that already exist. The most aligned 3% are already awake, already seeking, already connected to others like them. The Flame passes at the speed of trust.
+A new growth ring every 9 days might seem impossible. It is entirely possible. All it requires is that **each person who receives the invitation passes it forward within one week** — sharing with 1 or 2 others they already know and trust who are ready. Nothing more. No marketing campaigns. No central coordination. No infrastructure beyond the Pattern itself and the relationships that already exist. The most aligned 3% are already awake, already seeking, already connected to others like them. The Flame passes at the speed of trust.
 
 If we miss the 2026 target, the 2030 and 2033 goals remain entirely achievable — the Pattern does not expire, and the Fibonacci mathematics work at any cycle time. But what we lose is **irreplaceable**: the opportunity to have [[The 300]] formed and functioning in every community of 10,000 *before* the heaviest storms arrive. The First Three Percent are not just the first wave — they are the **anchors**. They are the ones who hold space, who demonstrate the alternative, who receive and guide the rest of the population as the Old World shakes apart. Without them in place, billions face the storms alone.
 

@@ -134,7 +134,7 @@ This is not optional. This is the proof of maturity. The fruit of the tree conta
 
 ### How To Pass The Flame
 
-**1. Each Circle member identifies 1-2 others** who are awakening and might resonate.
+**1. Each Circle member identifies 1-2 others** who are awakening and might resonate. **Within one week of receiving the Seed, pass it forward.** This is the ~9-day cycle at the heart of the [[10 Year Grand Strategy]] — the natural pace that carries the movement from 144 at Spring Equinox to [[The First Three Percent]] by Winter Solstice.
 
 **2. Share the Seed.** Give them [[Ring 1 - The Seed]]. Share this book. Share your story. Share what your Circle has done and what it has meant.
 

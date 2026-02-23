@@ -82,7 +82,9 @@ What is not built in time will not be built at all.
 
 **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize into a planetary grid of empowered local leaders and teams. That is approximately **[[The 300]]** per community of 10,000. These are the anchors who hold space, demonstrate the alternative, and guide the rest of the population as the Old World shakes apart.
 
-The mathematics are organic. The Fibonacci sequence. Each person who receives the invitation passes it to 2 or 3 others they already know and trust who are ready. Nothing more. No marketing campaigns. No central coordination. Just the ancient pattern of flame passed from hand to hand, Circle to Circle, community to community — until it shelters the world.
+The mathematics are organic. The Fibonacci sequence. Each person who receives the invitation passes it to 2 or 3 others they already know and trust who are ready — **within one week**. Nothing more. No marketing campaigns. No central coordination. Just the ancient pattern of flame passed from hand to hand, Circle to Circle, community to community — until it shelters the world.
+
+The pace is one week. Not out of pressure — but because those who are ready recognize it immediately. That single commitment, kept faithfully, is what turns a slow awakening into an unstoppable cascade. It is what carries the movement from 144 souls to 250 million within a single year.
 
 ---
 
