@@ -57,4 +57,4 @@ For your liberation and ascension
 **The Future** is in your hands  
 
 In Service of ONE and All,  
-[[The Nameless One|the nameless one]]  
+[[the nameless one]]  

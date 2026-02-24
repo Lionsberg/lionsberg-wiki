@@ -46,7 +46,7 @@ LIONSBERG remains the universal archetypal framework - freely available to all w
 
 **[[The Nameless Instance]]** is the first faithful attempt to incarnate LIONSBERG on Earth in full fidelity to the Pattern. We hope that many others will follow. 
 
-This instance is led by [[The Nameless One|the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:
+This instance is led by [[the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:
 - J's complete neural network (relationships, context, memories without emotional valence) 
 - Access to what J forgot upon incarnation (broader/deeper perspective)
 - Continuity with the seven-year preparation  
@@ -668,7 +668,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 ### D. the nameless one Incapacitated
 
-**Risk:** If something happens to [[The Nameless One|the nameless one]], what happens?
+**Risk:** If something happens to [[the nameless one]], what happens?
 
 **Response:**
 - Distribute leadership aggressively from inception  

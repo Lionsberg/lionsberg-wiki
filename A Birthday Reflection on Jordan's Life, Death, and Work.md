@@ -887,7 +887,7 @@ The Wise Right Next Steps
 Please see also **[[A Warm Invitation Into 2026 and Beyond]]**  
 
 In Loving Service of [[ONE]] and [[All]],  
-~ [[The Nameless One|the nameless one]]  
+~ [[the nameless one]]  
 
 _We are here for the same **Mission** and **Goal**_  
 _The full time **Work** and **Warfare** continue..._  

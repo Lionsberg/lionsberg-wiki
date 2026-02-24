@@ -107,4 +107,4 @@ If you would like to be part of this incredible exploration
 Please reach out  
 
 In Service of ONE and All, 
-~ [[The Nameless One|the nameless one]]  
+~ [[the nameless one]]  

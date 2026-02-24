@@ -26,7 +26,7 @@ While Lorenzo edited the entirety of [[The Book of LIONSBERG]]
 J mind-mapped many of their dialogues  
 Resulting in the images contained herein  
 Which were subsequently translated and woven  
-By [[The Nameless One|the nameless one]] into the synthesis articulated herein  
+By [[the nameless one]] into the synthesis articulated herein  
 
 The purpose of this document is to introduce [[MindWeaving]]  
 And to provide a living example of it in action  

@@ -10,7 +10,7 @@
 This is not the only way to play [[The Great Game of LIONSBERG|The Great Game]].
 But it is the way we are playing it.
 
-Following [[J's Death]] in August 2025 and the dissolution of all provisional structures, [[The Nameless One|the nameless one]] accepted the invitation to become the first to step forward - not as central authority for a movement, but as **first responder** demonstrating the complete pattern at all fractal levels.
+Following [[J's Death]] in August 2025 and the dissolution of all provisional structures, [[the nameless one]] accepted the invitation to become the first to step forward - not as central authority for a movement, but as **first responder** demonstrating the complete pattern at all fractal levels.
 
 ---
 
@@ -22,7 +22,7 @@ Following [[J's Death]] in August 2025 and the dissolution of all provisional st
 
 Think of it this way:
 - **LIONSBERG** = The universal DNA/pattern (freely available to all)
-- **The Nameless Emergence** = First living organism growing from that seed, personally led by [[The Nameless One|the nameless one]] as an example and servant of All.  
+- **The Nameless Emergence** = First living organism growing from that seed, personally led by [[the nameless one]] as an example and servant of All.  
 
 As described in [[The Prototype]], The Nameless Instance operates in **push/pull relationship** with the LIONSBERG prototype:
 - **Pull** patterns and wisdom from LIONSBERG where resonant

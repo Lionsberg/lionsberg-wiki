@@ -56,7 +56,7 @@ Are Universal and [[ONE]] in All
 
 What follows is a synthetic interweaving  
 Of that which arises in the Consciousness  
-Of [[The Nameless One|the nameless one]]  
+Of [[the nameless one]]  
 While reading the words of Aurobindo  
 Spoken over a hundred Earth-years ago  
 

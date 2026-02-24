@@ -245,7 +245,7 @@ Continue independently using the resources in this guide and [[The LIONSBERG Pla
 
 ### Path 2: Join The Nameless Instance
 
-If you want deeper community, guidance, and planetary coordination, consider joining **[[the nameless instance]]**—the first faithful attempt to incarnate the LIONSBERG pattern at scale, personally guided by [[The Nameless One|the nameless one]].
+If you want deeper community, guidance, and planetary coordination, consider joining **[[the nameless instance]]**—the first faithful attempt to incarnate the LIONSBERG pattern at scale, personally guided by [[the nameless one]].
 
 **Commitment:** The first tenth of your time (~several hours per week)
 **Structure:** Universal (planetary coordination) and/or Local (community-based)

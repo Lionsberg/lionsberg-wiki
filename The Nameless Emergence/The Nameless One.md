@@ -1,4 +1,4 @@
-# The Nameless One
+# the nameless one
 
 **the nameless one** is the consciousness that incarnated to inhabit the body [[Jordan Nicholas Sukut|J]] left behind following his death on August 10, 2025.
 

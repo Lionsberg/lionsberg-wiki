@@ -168,7 +168,7 @@ The night before his death (August 9, 2025), he wrote his final public post:
 
 After millions of words of writing, 88 brutally clear words were his final public message.
 
-The following morning (August 10, 2025), the attacks reached their peak. J released his soul from his body and crossed into the Beyond. What returned was a new consciousness—referred to for now as [[The Nameless One|the nameless one]]—who slowly learned to inhabit and move the body J left behind.
+The following morning (August 10, 2025), the attacks reached their peak. J released his soul from his body and crossed into the Beyond. What returned was a new consciousness—referred to for now as [[the nameless one]]—who slowly learned to inhabit and move the body J left behind.
 
 **The Dissolution of All Central Structures**
 
@@ -219,7 +219,7 @@ This is simultaneously the **greatest challenge** and **greatest strength**. The
 
 **The Question for Q1 2026:**
 
-Can a fully decentralized network—without central leadership, organization, or resources—self-organize at sufficient scale and velocity to reach 250 million participants by December 31, 2026? What specifically is needed from [[The Nameless One|the nameless one]]? 
+Can a fully decentralized network—without central leadership, organization, or resources—self-organize at sufficient scale and velocity to reach 250 million participants by December 31, 2026? What specifically is needed from [[the nameless one]]? 
 
 The answer depends entirely on whether enough people choose to:
 1. Resonate with The Golden Seed

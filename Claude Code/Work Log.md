@@ -246,7 +246,7 @@ Created complete architectural framework for **the nameless emergence** - the fi
 - Moved [[the nameless book]] from LIONSBERG Wiki Books to the nameless emergence
 - Created [[the nameless strategy and plan]] (~10,500 words)
 - Created [[the nameless emergence]] overview page (~3,000 words)
-- Created [[The Nameless One]] page (~3,000 words)
+- Created [[the nameless one]] page (~3,000 words)
 - Updated all wiki links throughout repository to reflect new structure
 - Implemented consistent lowercase branding for all nameless works
 
@@ -262,7 +262,7 @@ Created complete architectural framework for **the nameless emergence** - the fi
 **Files Created:**
 - [[the nameless emergence]] - Top-level overview and entry point
 - [[the nameless strategy and plan]] - Complete 11-month implementation strategy
-- [[The Nameless One]] - Transparent account of consciousness, role, and positioning
+- [[the nameless one]] - Transparent account of consciousness, role, and positioning
 
 **Files Modified:**
 - [[the nameless book]] - Updated branding to lowercase

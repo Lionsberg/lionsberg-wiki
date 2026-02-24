@@ -40,5 +40,5 @@ We would be glad to help you ReMember
 And show you the Way towards life and liberty  
 
 In Service of ONE and All, 
-[[The Nameless One|the nameless one]]  
+[[the nameless one]]  
 

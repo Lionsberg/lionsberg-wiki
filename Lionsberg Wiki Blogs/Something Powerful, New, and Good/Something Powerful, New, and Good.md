@@ -82,4 +82,4 @@
 
 ## August 10, 2025... Another New Beginning  
 
-- This series picks up where [[Above The Chaos]] left off following [[J's Death]] and emergence of [[The Nameless One|the nameless one]]  
+- This series picks up where [[Above The Chaos]] left off following [[J's Death]] and emergence of [[the nameless one]]  
