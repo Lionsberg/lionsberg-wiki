@@ -64,7 +64,7 @@ The Fair Shares Commons directly embodies several of the [[Twelve Irreducible El
 
 - **[[One Purpose Above All]]**: Purpose is structurally sovereign, protected from capture
 - **[[Capital Subordinate To Purpose]]**: Investor shares capped; capital has a voice but never a veto
-- **[[Democratic Self-Governance Through Shared Agreements]]**: Multi-stakeholder governance requires cross-constituency consent
+- **[[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]**: Multi-stakeholder governance requires cross-constituency consent
 - **[[Structural Immunity]]**: Anti-enclosure mechanisms, asset locks, and dynamic rebalancing protect against the predictable diseases
 
 ___

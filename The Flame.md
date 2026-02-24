@@ -54,8 +54,8 @@ Fire has a unique property: when you share it, you do not diminish your own.
 
 **The Flame grows by being given away.**
 
-This is why [[Built-In Replication]] is not optional — it is the nature of the Pattern itself. The Pattern that is not passed forward is a Pattern that has not yet been fully received.
+This is why [[Self-Sustenance and Self-Replication]] is not optional — it is the nature of the Pattern itself. The Pattern that is not passed forward is a Pattern that has not yet been fully received.
 
 ___
 
-_See [[Ring 5 - The Game]] and [[Built-In Replication]] in [[LIONSBERG 101]]._
+_See [[Ring 5 - The Game]] and [[Self-Sustenance and Self-Replication]] in [[LIONSBERG 101]]._

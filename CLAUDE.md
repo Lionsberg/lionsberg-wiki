@@ -70,7 +70,7 @@ This wiki is:
 The 7-year preparation phase (2017-2024) is complete. This repository contains:
 
 - **~3 million words of foundational literature** ✅ Written and tested
-- **THE NAMELESS BOOK** ✅ The essential guide showing the Way
+- **Welcome to LIONSBERG** ✅ The essential guide showing the Way (formerly "the nameless book")
 - **The Story of LIONSBERG** ✅ The cosmic context and true myth
 - **The Great Game of LIONSBERG** ✅ The cooperative real-world game of transformation
 - **The LIONSBERG Playbook** ✅ Practical guidance for circles, quests, embodiment
@@ -103,7 +103,7 @@ This is the **LIONSBERG Wiki** - built using **Obsidian** with git-based version
 
 The repository uses Obsidian's markdown-based wiki format with double-bracket `[[wiki links]]` for internal linking. Content is edited locally in Obsidian and committed/pushed to git frequently to maintain snapshots. A static website is automatically built via **Massive Wiki Builder** in CI/CD (not run locally).
 
-**Primary Distribution**: The single link `README.md` (The Gates of LIONSBERG) is passed from person to person, inviting The First Three Percent to enter the Story, understand their Role, begin Playing the Great Game, and Pass the Flame.
+**Primary Distribution**: The single link `README.md` (The Golden Seed of LIONSBERG) is passed from person to person, inviting The First Three Percent to receive the Seed, enter the Story, begin Playing the Great Game, and Pass the Flame.
 
 ## Core Architecture
 
@@ -139,8 +139,8 @@ The wiki follows a hierarchical content organization with three distinct content
 
 ### Key Entry Points
 
-- `README.md` - Welcome page ("The Gates of LIONSBERG")
-- `LIONSBERG Wiki Books/THE NAMELESS BOOK/THE NAMELESS BOOK.md` - Primary guidebook for getting started
+- `README.md` - Welcome page ("The Golden Seed of LIONSBERG")
+- `Welcome to LIONSBERG.md` - Primary guidebook for getting started (the Core Document)
 - `The LIONSBERG Playbook.md` - Core operational guidance
 - `The Story of LIONSBERG.md` and `The Great Game of LIONSBERG.md` - Foundational narrative
 

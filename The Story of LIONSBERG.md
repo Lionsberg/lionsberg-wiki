@@ -628,7 +628,7 @@ The future is in your hands
 
 **[[The Invitation]]** — the shareable Seed to pass to others
 **[[LIONSBERG 101]]** — the complete Pattern in concentric rings
-**[[THE NAMELESS BOOK]]** — the essential guide showing the Way
+**[[Welcome to LIONSBERG]]** — the essential guide showing the Way
 
 When you are ready to play
 ➡️ **[[The Great Game of LIONSBERG]]**

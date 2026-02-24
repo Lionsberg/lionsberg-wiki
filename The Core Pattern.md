@@ -29,10 +29,10 @@ ___
 1. **[[One Purpose Above All]]** — The Purpose governs; leaders serve
 2. **[[Holofractal Omnifederation]]** — Complete wholes, organically federated from the bottom up, with every member holding an equal voice in the Whole. Each association naturally births a Domain, a Membrane, a Field of Agreements, and a Commons
 3. **[[Sovereignty At Every Scale]]** — Authority flows from consent, never from command. Each domain protected by a selectively permeable membrane
-4. **[[Democratic Self-Governance Through Shared Agreements]]** — One voice per person; the agreements govern
+4. **[[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]** — One voice per person; the agreements govern
 5. **[[Capital Subordinate To Purpose]]** — Capital serves; it never captures
 6. **[[Education As Transformation]]** — Form people; people form organizations
-7. **[[Built-In Replication]]** — The final step of maturity is planting new seeds
+7. **[[Self-Sustenance and Self-Replication]]** — The final step of maturity is planting new seeds
 8. **[[Structural Immunity]]** — Explicit protections against the diseases that kill movements
 
 ### The Pattern of Production (Elements 9-12)

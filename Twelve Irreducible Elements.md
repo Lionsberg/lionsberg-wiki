@@ -17,10 +17,10 @@ _How sovereign beings organize, govern, and protect their shared work._
 1. **[[One Purpose Above All]]** — The Purpose governs; leaders serve
 2. **[[Holofractal Omnifederation]]** — Complete wholes, organically federated from the bottom up, with every member holding an equal voice in the Whole. Each association naturally births a Domain, a Membrane, a Field of Agreements, and a Commons
 3. **[[Sovereignty At Every Scale]]** — Authority flows from consent, never from command. Each domain protected by a selectively permeable membrane
-4. **[[Democratic Self-Governance Through Shared Agreements]]** — One voice per person; the agreements govern
+4. **[[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]** — One voice per person; the agreements govern
 5. **[[Capital Subordinate To Purpose]]** — Capital serves; it never captures
 6. **[[Education As Transformation]]** — Form people; people form organizations
-7. **[[Built-In Replication]]** — The final step of maturity is planting new seeds
+7. **[[Self-Sustenance and Self-Replication]]** — The final step of maturity is planting new seeds
 8. **[[Structural Immunity]]** — Explicit protections against the diseases that kill movements
 
 ## The Pattern of Production (Elements 9-12)
@@ -41,10 +41,10 @@ These twelve elements are not a menu to select from. They are an integrated syst
 - Without **One Purpose Above All**, sovereignty fragments into chaos
 - Without **Holofractal Omnifederation**, replication produces disconnected fragments with no coherent Whole
 - Without **Sovereignty At Every Scale**, federation becomes empire
-- Without **Democratic Self-Governance**, the Purpose is captured by elites
+- Without **Democratic Self-Governance Through Shared Agreements and Wise Eldership**, the Purpose is captured by elites
 - Without **Capital Subordinate To Purpose**, the system drifts toward extraction
 - Without **Education As Transformation**, the pattern cannot replicate through people
-- Without **Built-In Replication**, the movement stalls and dies
+- Without **Self-Sustenance and Self-Replication**, the movement stalls and dies
 - Without **Structural Immunity**, all the above eventually collapse
 - Without **Integrated Delivery**, Circles work in isolation and efforts never cohere into the Whole
 - Without **Design To The Goal**, local optimization displaces planetary purpose

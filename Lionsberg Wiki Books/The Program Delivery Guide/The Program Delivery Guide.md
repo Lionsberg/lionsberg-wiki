@@ -80,8 +80,8 @@ The PDG's architecture maps directly to [[The Core Pattern]] of LIONSBERG:
 | Five Big Ideas | [[Twelve Irreducible Elements]] |
 | Continuous Improvement (PDCA) | Learning loops at every fractal level |
 | Community of Practice | [[Community of Practice]] |
-| Lessons Learned / Prototype Control | [[Built-In Replication]] and continuous learning |
-| Network of Commitments | [[Democratic Self-Governance Through Shared Agreements]] |
+| Lessons Learned / Prototype Control | [[Self-Sustenance and Self-Replication]] and continuous learning |
+| Network of Commitments | [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] |
 | Optimize the Whole, not the pieces | [[One Purpose Above All]] |
 | Financial Incentives Plan | [[Lionsberg Units of Value]] / [[Meaningful Work]] |
 

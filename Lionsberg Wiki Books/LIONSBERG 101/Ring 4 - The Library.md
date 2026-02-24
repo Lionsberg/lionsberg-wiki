@@ -27,7 +27,7 @@ These books tell **The Story** — the cosmic context of what is happening, why 
 
 - **[[The Story of LIONSBERG]]** — The full cosmic narrative spanning epochs and galaxies. Earth as one world where the great Story is unfolding. The Caves, the awakening, the Great Movement.
 - **[[The Book of LIONSBERG]]** — The foundational text. Over 12 chapters covering the nature of reality, the quest for unity, the Meta Project, the Meta Game, and the path to Heaven On Earth.
-- **[[the nameless book|THE NAMELESS BOOK]]** — The essential guide showing the Way. The primary entry point for those seeking practical orientation.
+- **[[Welcome to LIONSBERG]]** — The essential guide showing the Way. The primary entry point for those seeking practical orientation.
 
 ### The Operational System
 
@@ -35,7 +35,7 @@ These books describe **How It Works** — the practical patterns, governance str
 
 - **[[The Great Game of LIONSBERG]]** — The comprehensive game framework. Circles, Quests, the Fibonacci pattern, the rules of the Meta Game, progression through the Seven Gates.
 - **[[The LIONSBERG Playbook]]** — Operational guidance for forming Circles, undertaking Quests, governing communities, and playing the Game.
-- **[[The Program Delivery Guide]]** — $20 million of funded research on Integrated Project Delivery, the core document informing LIONSBERG's production system and localization to Earth. Lean Construction, Toyota Production System, Target Value Design, Last Planner System, and the Prototype/Kit of Parts.
+- **[[The Program Delivery Guide]]** — The core document informing LIONSBERG's production system and localization to Earth — drawing on Integrated Project Delivery, Lean Construction, the Toyota Production System, and decades of proven operational wisdom, distilled into the Prototype/Kit of Parts.
 - **[[The Lionsberg Approach to Citizen Led Governance]]** — The full governance pattern language: Stewarding the Commons, Citizen Led Self-Governance, Voluntarily Organizing and Federating, Voluntary Tithing, Exchanging Units of Value.
 - **[[Organizations The Lionsberg Way]]** — How organizations are structured within the federation.
 
@@ -47,10 +47,10 @@ These pages articulate the **[[Twelve Irreducible Elements]]** — the DNA that 
 - **[[One Purpose Above All]]** — The Purpose governs; leaders serve
 - **[[Holofractal Omnifederation]]** — Complete wholes, fractally federated, with every member holding an equal voice in the Whole
 - **[[Sovereignty At Every Scale]]** — Authority flows from consent, never from command
-- **[[Democratic Self-Governance Through Shared Agreements]]** — One voice per person; the agreements govern
+- **[[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]** — One voice per person; the agreements govern
 - **[[Capital Subordinate To Purpose]]** — Capital serves; it never captures
 - **[[Education As Transformation]]** — Form people; people form organizations
-- **[[Built-In Replication]]** — The final step of maturity is planting new seeds
+- **[[Self-Sustenance and Self-Replication]]** — The final step of maturity is planting new seeds
 - **[[Structural Immunity]]** — Explicit protections against the diseases that kill movements
 
 **The Pattern of Production (9-12):**
@@ -101,7 +101,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 ## How To Navigate
 
-**If you are awakening and need orientation**: Start with [[the nameless book|THE NAMELESS BOOK]].
+**If you are awakening and need orientation**: Start with [[Welcome to LIONSBERG]].
 
 **If you want to form a Circle**: Go to [[The LIONSBERG Playbook]] and [[The Great Game of LIONSBERG]].
 

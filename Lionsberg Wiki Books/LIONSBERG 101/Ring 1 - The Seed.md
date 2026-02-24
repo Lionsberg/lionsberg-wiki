@@ -29,7 +29,7 @@ Every node is simultaneously a complete, sovereign whole AND a fractal part of t
 **3. [[Sovereignty At Every Scale]]**
 Individual sovereignty is never absorbed by the group. Group sovereignty is never absorbed by the federation. Each level maintains its wholeness while voluntarily integrating into larger wholes. Authority flows from consent, not command. Each domain is protected by a [[Selectively Permeable Membrane]] — crossed only by ongoing mutual consent.
 
-**4. [[Democratic Self-Governance Through Shared Agreements]]**
+**4. [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]**
 Governance is bottom-up, consent-based, and bound by explicit shared agreements. One voice per person. Elected, accountable servant-leadership. The same governance pattern repeats fractally at every scale.
 
 **5. [[Capital Subordinate To Purpose]]**
@@ -38,7 +38,7 @@ Capital is a tool — necessary but subordinate. It earns a fair return but neve
 **6. [[Education As Transformation]]**
 Education is not peripheral — it is the foundational mechanism. The pattern replicates through formed people, not institutional expansion. Form the people; the people form the organizations. This takes years, not weeks.
 
-**7. [[Built-In Replication]]**
+**7. [[Self-Sustenance and Self-Replication]]**
 The final step of maturity IS planting new seeds. Recovery requires transmission. Discipleship requires multiplication. The fruit of the tree contains new seeds. The act of passing the pattern forward is integral to the pattern itself.
 
 **8. [[Structural Immunity]]**

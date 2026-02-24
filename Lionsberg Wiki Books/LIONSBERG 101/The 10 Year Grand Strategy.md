@@ -31,11 +31,15 @@ Seven years of foundational work.
 
 ---
 
+### The Beginning — Late February 2026
+
+The first invitations are being extended. The first circles are forming. The flame is being passed for the first time. Everything that follows flows from this moment.
+
 ### Milestone 1: The Starting Line — Spring Equinox, March 20, 2026
 
 **Cycle 10: 144 Co-Creators**
 
-The first 144 gathered, formed, and aligned at a new starting line. The Pattern tested and demonstrated at Circle scale. The Fibonacci unfurling begins in earnest.
+The first 144 gather, form, and align at a new starting line. The Pattern tested and demonstrated at Circle scale. The Fibonacci unfurling begins in earnest.
 
 144 is not an arbitrary number. It is the 10th Fibonacci number — and it is the threshold at which the organic mathematics of growth become unstoppable. Each of the 144 knows and trusts others who are ready. Each carries the full DNA. Each is a Seed.
 

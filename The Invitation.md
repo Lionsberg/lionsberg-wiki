@@ -1,6 +1,6 @@
 # The Invitation
 
-_I would like to tell you a Story, share a Pattern, and invite you to Play._
+_There is a Story worth hearing, a Pattern worth planting, and a Game worth playing._
 
 ---
 
@@ -35,7 +35,7 @@ It has been discovered and proven independently across 1,500 years:
 - **Benedictine monasteries** — from one to 37,000. The Rule as living operating system.
 - **The cooperative movement** — 28 weavers to 3 million cooperatives. Seven principles on one page.
 - **Alcoholics Anonymous** — 2 people to 2 million in 180 nations. No center. No budget. No marketing.
-- **The Mondragon federation** — 5 workers to 80,000 worker-owners across 268 organizations.
+- **The [[Mondragon]] federation** — 5 workers to 80,000 worker-owners across 270 organizations.
 - **The Iroquois Confederacy** — five nations united by the Great Law of Peace and the principle of seven generations.
 - **The early church** — 120 people to 6 million in 270 years. House churches as complete holons. Mutual aid as witness.
 - **Open source** — voluntary cooperation among sovereign agents producing systems of extraordinary complexity.
@@ -54,7 +54,7 @@ One soul spent his life localizing and planting this Pattern on Earth — synthe
 Here is how it works:
 
 **1. Form a Circle.**
-Gather 2 to 12 others you resonate with and trust. This is the irreducible unit — the cell of the new superorganism. Your Circle is not a committee or a task force. It is a complete, self-governing expression of the [[New Civilization]] at human scale.
+Gather 3 to 12 others you resonate with and trust. This is the irreducible unit — the cell of the new superorganism. Your Circle is not a committee or a task force. It is a complete, self-governing expression of the [[New Civilization]] at human scale.
 
 **2. Choose a Quest.**
 Pick something real — a concrete challenge in your community, your family, your world. Something that matters. A Quest is not a discussion. It is meaningful work that makes life measurably more like Heaven.
@@ -104,7 +104,7 @@ You are not alone in this. You never were.
 If this offering resonates and feels true — step into it, live it, improve it, and pass it on.
 If it proves hollow — simply set it down and go on your way.
 
-**➡️ Enter the Way: [[the nameless book]]**
+**➡️ Enter the Way: [[Welcome to LIONSBERG]]**
 
 The Pattern is at **[[LIONSBERG 101]]**.
 The Story awaits at **[[The Story of LIONSBERG]]**.

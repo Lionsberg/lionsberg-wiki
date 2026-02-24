@@ -94,7 +94,7 @@ _"We are going to help God finish our world."_
 
 ### The Problem
 
-Graham Boyd — a physicist turned organizational transformation specialist who spent 20 years in large corporations including Sun Microsystems — identified a root cause: **the ownership structure of an organization is the deepest attractor in the system.**
+Graham Boyd — who spent decades inside large corporations and witnessed the pattern from within — identified a root cause: **the ownership structure of an organization is the deepest attractor in the system.**
 
 A conventionally structured corporation, no matter how well-intentioned its leaders, will be driven by its share structure toward extractive behavior. You cannot fix the outputs without fixing the structural DNA.
 
@@ -132,9 +132,9 @@ This is the same insight expressed in different domains:
 - In governance: The constitution determines the behavior of the state
 - In economics: The ownership structure determines the behavior of the enterprise
 
-This is not aspirational. It is structural. It does not depend on good intentions, enlightened leaders, or cultural change alone. It encodes the desired behavior into the architecture. This is why it can scale — structures replicate more reliably than cultures.
+This is not aspirational. It is structural. The desired behavior is encoded into the architecture itself. Structures replicate more reliably than cultures.
 
-The Fair Shares Commons model has been recognized by the Financial Conduct Authority in England and Wales, implemented across 39 countries on five continents, and provides a practical legal framework for multi-stakeholder governance within existing corporate law.
+The Fair Shares Commons model has been implemented across 39 countries on five continents, providing a practical legal framework for multi-stakeholder governance that works within existing law.
 
 ---
 
@@ -144,7 +144,7 @@ The Fair Shares Commons model has been recognized by the Financial Conduct Autho
 
 In 2005, the U.S. District Court placed California's prison health care system in **federal receivership** after finding that, on average, one inmate died every 6 to 7 days due to constitutional deficiencies. The Court ordered a "radical transformation" of the system.
 
-The resulting **[[Program Delivery Guide]]** (PDG) represents approximately **$20 million of funded research** and lifetimes of experience from leaders in the Architecture, Engineering, and Construction (AEC) industry. It describes how to deliver **multiple billion-dollar projects simultaneously** around a centrally learning **Prototype** designed as a **Kit of Parts** — using Integrated Project Delivery, Lean Construction principles, and the Toyota Production System as foundations.
+The resulting **[[Program Delivery Guide]]** represents lifetimes of operational wisdom — backed by approximately $20 million of funded research — describing how to deliver **multiple billion-dollar projects simultaneously** around a centrally learning **Prototype** designed as a **Kit of Parts**. Its foundations: Integrated Project Delivery, Lean Construction, and the Toyota Production System.
 
 ### The Parallel to Earth
 
@@ -180,13 +180,13 @@ The PDG's architecture maps directly to [[The Core Pattern]]:
 | PDCA Continuous Improvement | [[Tightly Coupled Learning and Action]] |
 | Financial Incentives Plan | [[Lionsberg Units of Value]] / [[Meaningful Work]] |
 | Community of Practice | [[Community of Practice]] |
-| Lessons Learned / Prototype Control | [[Built-In Replication]] and continuous learning |
+| Lessons Learned / Prototype Control | [[Self-Sustenance and Self-Replication]] and continuous learning |
 
 ### The Teaching
 
 The PDG is not a new document. It is a **core piece** that informed the localization and adaptation of LIONSBERG — whose patterns are already operating coherent civilizations across the cosmos — to Earth.
 
-The principles in the PDG are not specific to prisons, or construction, or even to Earth. They are **universal patterns of how intelligent beings organize to co-create complex systems in service of a shared Goal.** Eliyahu Goldratt's _The Goal_, Taiichi Ohno's Toyota Production System, Glenn Ballard and Greg Howell's Lean Construction Institute, the Agile movement — all discovered fragments of the same universal production pattern. The PDG integrated these fragments into a proven operational system. LIONSBERG integrates them into a cosmic-grade operating system for civilization itself.
+The principles in the PDG are not specific to prisons, or construction, or even to Earth. They are **universal patterns of how intelligent beings organize to co-create complex systems in service of a shared Goal.** Eliyahu Goldratt, Taiichi Ohno, Glenn Ballard, Greg Howell, and the Agile movement — all discovered fragments of the same universal pattern of co-creation. The PDG integrated these fragments into a proven system. LIONSBERG integrates them into a living architecture for civilization itself.
 
 The four operational elements — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — complete the pattern. The first eight elements tell you how to organize. The final four tell you how to build.
 
@@ -282,9 +282,9 @@ It has been discovered independently by:
 
 Each of them found fragments of the same thing.
 
-**LIONSBERG is the comprehensive articulation of this universal pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of production (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, the practical specificity of 7 years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ONE]] and [[All]].
+**LIONSBERG is the comprehensive articulation of this universal Pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of co-creation (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ONE]] and [[All]].
 
-These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same operating system that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
+These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same living architecture that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
 
 The DNA works.
 The Seed is ready.

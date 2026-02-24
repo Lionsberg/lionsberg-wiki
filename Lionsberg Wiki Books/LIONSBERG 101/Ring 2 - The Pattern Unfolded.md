@@ -132,7 +132,7 @@ When dealing with parasitical empires such as those dominating Earth, the path t
 
 ---
 
-## Element 4: Democratic Self-Governance Through Shared Agreements
+## Element 4: Democratic Self-Governance Through Shared Agreements and Wise Eldership
 
 Governance in the [[New World]] is not imposed from above or mediated by corrupt elections. It emerges organically from within — through shared agreements, consent-based decision-making, and nominated servant-leadership accountable to all members of the domain.
 
@@ -255,7 +255,7 @@ The critical insight: **education is not information transfer. It is transformat
 
 ---
 
-## Element 7: Built-In Replication
+## Element 7: Self-Sustenance and Self-Replication
 
 In every successful living organism or self-replicating movement, **the mechanism of spread is not separate from the practice — it IS the practice.**
 
@@ -322,15 +322,15 @@ In LIONSBERG, structural immunity is built into the architecture:
 
 _The first eight elements describe how sovereign beings organize, govern, and protect their cooperation. The final four describe how organized beings actually **build Heaven here and now** — transforming every Circle from a self-governing community into a team of builders on [[Worksite Earth]]._
 
-_These four operational elements are drawn from ~$20 million of funded research in [[The Program Delivery Guide]], the Toyota Production System, Lean Construction, Integrated Project Delivery, Agile, and the Theory of Constraints. They are not new to LIONSBERG — they are universal patterns of how intelligent beings coordinate production, confirmed independently across multiple disciplines and now integrated into the complete DNA of the New Civilization for Earth._  
+_These four elements are drawn from decades of operational wisdom — the Toyota Production System, Lean Construction, Integrated Project Delivery, and the principles encoded in [[The Program Delivery Guide]]. They are not new to LIONSBERG — they are universal patterns of how intelligent beings coordinate creation, confirmed independently across disciplines and worlds, now integrated into the complete DNA of the New Civilization for Earth._  
 
 ---
 
 ## Element 9: Integrated Delivery
 
-Every Circle is not just a community — it is a **production unit**. Every Quest is not just meaningful work — it is a **project** contributing to the total integrated delivery of [[Heaven On Earth]].
+Every Circle is not just a community — it is a **living team of builders**. Every Quest is not just meaningful work — it is a **project** contributing to the total integrated co-creation of [[Heaven On Earth]].
 
-The [[LIONSBERG Integrated Delivery System]] is rooted in [[Integrated Program Delivery (IPD)]] — a philosophical approach to organizing teams drawn from the Toyota Production System and adapted to complex project real-world delivery by pioneers like Glenn Ballard, Greg Howell, Dan Fauchier, and the Lean Construction Institute.
+The approach is rooted in [[Integrated Program Delivery (IPD)]] — a way of organizing teams drawn from the Toyota Production System and adapted to complex real-world delivery by pioneers like Glenn Ballard, Greg Howell, Dan Fauchier, and the Lean Construction Institute.
 
 The core insight: **you cannot optimize the pieces and expect the whole to work.** A system of locally optimized components produces globally suboptimal results _by definition_. You _must_ optimize for the Whole — the total project, the total program, the total civilization, the whole world as a flourishing part of ONE living cosmic ecosystem.
 
@@ -340,9 +340,9 @@ In the Architecture, Engineering, and Construction industry, IPD transformed how
 
 In LIONSBERG, Integrated Delivery operates through the federation of [[Circles]]:
 
-- **Each Circle** is a self-governing production unit executing [[Quests]] — concrete projects advancing [[Meta Goal|The Goal]]
+- **Each Circle** is a self-governing team of builders executing [[Quests]] — concrete projects advancing [[Meta Goal|The Goal]]
 - **Circles federate** into communities, bioregions, and the planetary Whole — coordinating co-creative effort across all scales
-- **The [[LIONSBERG Integrated Delivery System]]** provides the shared protocols, standards, and coordination mechanisms — the "operating system" that enables millions of autonomous teams to produce coherent shared results
+- **Shared protocols and standards** provide the coordination that enables millions of autonomous teams to co-create coherent results — an operating system for civilization itself
 - **[[The Prototype]]** — a centrally learning Kit of Parts — ensures that every local adaptation benefits the Whole and every lesson learned feeds back into the pattern
 - **Value creation is tracked and shared** through federated systems and interface protocols — enabling coordination, learning, and continuous improvement across scales without central fragility
 
@@ -369,7 +369,7 @@ Applied to civilization: [[Heaven On Earth]] is the Target. All design — of go
 In LIONSBERG, Design To The Goal operates at every scale:
 
 - **Individual**: Each person designs their day — sleep, work, love, and life — in service of The Goal
-- **Circle**: Each Quest is designed to its target outcome. The Goal constrains and focuses the scope. Resources are allocated to maximize **throughput of The Goal** — what Goldratt called the constraint that governs the system
+- **Circle**: Each Quest is designed to its target outcome. The Goal constrains and focuses the scope. Resources are allocated to maximize **progress toward The Goal** — focusing energy where it matters most, as Goldratt taught in the Theory of Constraints
 - **Community**: Community development is designed to serve the total wellbeing of all inhabitants — not to maximize profits and taxes in the Old system
 - **Planetary**: The [[10 Year Grand Strategy]] is civilization-scale Target Value Design — the total transformation of human civilization designed to The Goal before the Old systems collapse entirely  
 
@@ -385,7 +385,7 @@ In the [[Old World]], projects are managed through command and control. A boss a
 
 In the [[New World]], projects are networks of **reliable promises** by trusted relationships — freely made, faithfully kept, and honestly reported.
 
-This principle was articulated by Fernando Flores and Terry Winograd in their foundational work on commitment-based management, operationalized by Glenn Ballard as the **Last Planner System (LPS)**, and proven across hundreds of construction projects in the [[Program Delivery Guide]]. Where traditional management achieves approximately 50% plan reliability, the Last Planner System consistently achieves 80-90%.
+This principle was articulated by Fernando Flores and Terry Winograd, operationalized by Glenn Ballard as the **Last Planner System**, and proven across hundreds of real-world projects. Where traditional management achieves approximately 50% reliability in keeping promises, the Last Planner System consistently achieves 80-90%.
 
 The cycle is simple and fractal:
 
@@ -401,9 +401,9 @@ In LIONSBERG, Networks of Commitments operate through:
 
 - **[[Quests]]** — concrete projects not exceeding **90 days**. Long enough for meaningful work. Short enough for accountability and learning. The 90-day boundary prevents scope creep, prevents drift, and ensures regular completion, retrospective, and renewal.
 - **Weekly commitment tracking** — Each Circle member articulates what they WILL do this week. At the next meeting, they report what they DID. The gap between WILL and DID is not a failure — it is the primary source of learning. Beyond the Circle level, commitments are tracked _between Circles_ and recorded as part of the interface process. 
-- **Time-energy tracking** — Each Circle tracks the time and creative energy its members invest in [[Meaningful Work]]. This is the basis for [[Lionsberg Units of Value]] (LUV) — currency rooted in **proof of meaningful work** actually creating throughput of The Goal through the [[LIONSBERG Integrated Delivery System]].
+- **Time-energy tracking** — Each Circle tracks the time and creative energy its members invest in [[Meaningful Work]]. This is the basis for [[Lionsberg Units of Value]] (LUV) — currency rooted in **proof of meaningful work** actually advancing The Goal.
 - **Transparent promises** — Commitments are visible within the Circle and, where appropriate, across the federation. Transparency is the mechanism by which trust is built and coordination becomes possible.
-- **Learning from variance** — When a commitment is not met, the question is never "Who is to blame?" but always "What prevented this? What can we learn? How do we improve the system?" This creates a [[Zero Blame Environment]] as a place of mutual growth and development. 
+- **Learning from variance** — When a commitment is not met, the question is never "Who is to blame?" but always "What prevented this? What can we learn? How do we grow?" This creates a culture of mutual trust and continuous learning. 
 
 ### Why This Element Is Irreducible
 
@@ -419,7 +419,7 @@ The [[Old World]] often separates thinking from doing, planning from executing, 
 
 In the [[New World]], **learning and action are fused at every scale in ONE co-creative body.**
 
-This is the **DPDCA cycle** — Discern, Plan, Do, Check, Adjust — drawn from W. Edwards Deming's application of the scientific method to production, perfected by Taiichi Ohno at Toyota, and operationalized across construction in the [[Program Delivery Guide]].
+This is the living cycle of **Discern → Plan → Do → Check → Adjust** — drawn from W. Edwards Deming's application of the scientific method, perfected by Taiichi Ohno at Toyota, and proven across every domain where learning and action are fused.
 
 The cycle is fractal:
 - **Daily**: What did I learn yesterday? What will I do today? What obstacles need to be removed?
@@ -435,7 +435,7 @@ In LIONSBERG, Tightly Coupled Learning and Action operates through:
 - **Retrospectives** built into every Circle and Quest cycle — not optional add-ons, but integral to the process
 - **Lessons learned** captured and shared through the [[Commons]] — every Circle's learning benefits every other Circle
 - **[[The Prototype]]** — a centrally learning Kit of Parts that continuously improves based on field experience. Every local adaptation feeds back into the Prototype. Every lesson learned is embedded in the DNA.
-- **First Run Studies** — when attempting something new, start small, study the results, improve the process, then **scale poly-centrically** via The Prototype.
+- **First Run Studies** — when attempting something new, start small, study the results, improve the process, then share what works through The Prototype so all can benefit.
 - **The Wiki** — the living knowledge commons of the movement. 2.5 million words and growing. Every insight documented. Every pattern language refined. The system's memory is distributed, searchable, and alive.
 - **[[Community of Practice]]** — regular gatherings across Circles for cross-pollination, shared problem-solving, and collective learning
 
@@ -457,19 +457,19 @@ These twelve elements are not a menu to select from. They are an integrated syst
 - Without **One Purpose Above All**, sovereignty fragments into chaos
 - Without **Holofractal Omnifederation**, replication produces disconnected fragments with no coherent Whole
 - Without **Sovereignty At Every Scale**, federation becomes empire
-- Without **Democratic Self-Governance**, the Purpose is captured by parasites
+- Without **Democratic Self-Governance Through Shared Agreements and Wise Eldership**, the Purpose is captured by parasites
 - Without **Capital Subordinate To Purpose**, the system drifts toward extraction and control
 - Without **Education As Transformation**, the pattern cannot replicate through people and across generations
-- Without **Built-In Replication**, the emerging superorganism stalls and dies
+- Without **Self-Sustenance and Self-Replication**, the emerging superorganism stalls and dies
 - Without **Structural Immunity**, all the above eventually collapse
 - Without **Integrated Delivery**, Circles and Communities work in isolation and efforts never cohere into the Whole
 - Without **Design To The Goal**, local optimization displaces planetary purpose
 - Without **Networks of Commitments**, good intentions never become reliable results and growing trust 
 - Without **Tightly Coupled Learning and Action**, the system cannot adapt and eventually shatters
 
-Remove any single element and the system fails. Include all twelve and you have what thousands of years of history and $20 million of funded research demonstrate: **a self-replicating, self-governing, self-sustaining, self-improving pattern of human cooperation and production that can endure across centuries and scale across civilizations.**
+Remove any single element and the system fails. Include all twelve and you have what thousands of years of history and $20 million of funded research demonstrate: **a self-replicating, self-governing, self-sustaining, self-improving pattern of cooperation and co-creation that endures across centuries and scales across civilizations.**
 
-This is not a human invention. It is a faithful reflection of the ancient and eternal [[Way]] — the same universal principles, protocols, patterns, and plays by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. A cosmic-grade operating system that enables any community or world that adopts it to self-organize, self-govern, produce, learn, and federate with other communities and worlds also playing [[The Great Game]].
+This is not a human invention. It is a faithful reflection of the ancient and eternal [[Way]] — the same universal principles, protocols, patterns, and plays by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. A living architecture that enables any community or world that embraces it to self-organize, self-govern, co-create, learn, and federate with other communities and worlds also playing [[The Great Game]].
 
 This is the DNA of **[[Heaven On Earth]]**.
 

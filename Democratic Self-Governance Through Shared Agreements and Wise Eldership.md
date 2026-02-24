@@ -1,4 +1,4 @@
-# Democratic Self-Governance Through Shared Agreements
+# Democratic Self-Governance Through Shared Agreements and Wise Eldership
 
 _The fourth irreducible element of [[The Core Pattern]]._
 
@@ -6,9 +6,11 @@ ___
 
 ## The Principle
 
-Governance in the [[New World]] is not imposed from above. It emerges from below — through shared agreements, consent-based decision-making, and elected servant-leadership accountable to the governed.
+Governance in the [[New World]] is not imposed from above. It emerges from below — through shared agreements, consent-based decision-making, and the wisdom of elders honored and respected by the community.
 
-**One voice per person. The agreements govern, not any person.**
+**One member, one voice. The agreements govern. Elders are respected.**
+
+Democratic self-governance without wise eldership devolves into the foolish and fickle tyranny of the majority. Wise eldership without democratic self-governance devolves into the tyranny of the few. The Pattern holds both in tension — the equal voice of every member balanced by deep respect for those who have walked further along the Way, who carry the hard-won wisdom of experience, and whose counsel is sought not because they hold power but because they have earned trust and respect.
 
 ___
 

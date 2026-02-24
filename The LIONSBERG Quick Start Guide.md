@@ -3,9 +3,9 @@
 
 ## You Are Here
 
-You've read [[the nameless book]]. You've gathered your circle of 3 to 12 resonant souls. You're sitting together right now—in person or connected by video.
+You have read [[Welcome to LIONSBERG]]. You have gathered your circle of 3 to 12 resonant souls. You are sitting together — in person or connected by video.
 
-This guide will walk you through **this 90-minute gathering**—what to read aloud together, how to sense-make as a group, and how to choose your first quest.
+This guide will walk you through **your first 90 minutes together** — what to read aloud, how to sense-make as a group, and how to choose your first quest.
 
 By the end of today, you will have:
 - Consecrated your circle with a name and simple agreements
@@ -22,10 +22,10 @@ By the end of today, you will have:
 
 ### Minutes 0-10: Welcome & Opening
 
-**One person facilitates** (rotate this role in future meetings).
+**One person facilitates.** Rotate this role in future meetings.
 
 **Welcome** (~2 min):
-- Acknowledge everyone has read the opening of [[the nameless book]]
+- Acknowledge everyone has read [[Welcome to LIONSBERG]]
 - We're here to step into The Story and The Great Game together
 - This is a threshold moment—we're crossing from the Old World into the New
 
@@ -49,6 +49,8 @@ Reading order:
 3. **[[The Great Game of LIONSBERG]]** (~10 min)
 
 _Don't worry about understanding everything. Let the story and the game wash over you. Sensing comes before understanding. Some will resonate immediately, some will need time to unfold._
+
+**A note for the facilitator**: The Story contains a passage on death and transformation that strikes like lightning when read aloud. When the group reaches it, let the reader slow down. After the passage, allow a brief silence. No one needs to explain it. Simply breathe together and continue when the group is ready. Let it land.
 
 ---
 
@@ -149,7 +151,7 @@ Before closing, each person answers one question:
 
 > "Who are the 2 or 3 people I already know who are ready for this?"
 
-Write the names down. This is not optional — it is the heartbeat of everything. Within the next week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
+Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
 
 You are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
 
@@ -177,14 +179,14 @@ Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Yo
 **Quest Coordination** (30-40 min)
 - Progress updates: What's been done since last meeting?
 - Obstacles: What's blocking us?
-- Planning: What are the [[Wise Right Next Steps]]?
-- Support: Who needs what from the circle?  
+- Planning: What are the [[Discern the Wise Right Next Steps|Wise Right Next Steps]]?
+- Support: Who needs what from the circle?
 
-**Retrospection and Learning Harvest** (10 min)
+**Harvest** (10 min)
 - What are we discovering as we work together?
-- What's working that we would like to continue?   
-- What would we like to do better in the future?
-- What are we learning about ourselves, each other, the quest?  
+- What is working well?
+- What would we do differently?
+- What are we learning — about ourselves, each other, the quest?
 
 **Closing Ritual** (5 min)
 - Gratitude round
@@ -221,7 +223,7 @@ Every solstice and equinox (~every 90 days):
 
 This is not a later step. It begins **now** — in the first gathering.
 
-Each person in your circle already named 2 or 3 others who are ready. Within the next week:
+Each person in your circle already named 2 or 3 others who are ready. Within one week:
 
 1. **Share [[The Invitation]]** with them — a single link is all it takes
 2. **Support them** as they read and gather their own circle
@@ -235,30 +237,22 @@ The mathematics are the mathematics of life itself — the Fibonacci sequence. I
 
 ---
 
-## Two Pathways Forward
+## A Nameless Instance of The Game
 
-### Path 1: Self-Organized Circle
+For those desiring deeper community, connection, and guidance, a first living instance of The Game is already underway — **[[the nameless emergence]]**.
 
-Continue independently using the resources in this guide and [[The LIONSBERG Playbook]].
+**Commitment:** The first tenth of your time — several hours per week
+**Structure:** Your sovereign circle, connected to the larger emerging body
+**How to join:** Let the person who invited you know you're in and ask them to communicate word back to the center.
 
-**You have everything you need.** You're sovereign, self-governing, and free to adapt the patterns to your context.
-
-### Path 2: Join The Nameless Instance
-
-If you want deeper community, guidance, and planetary coordination, consider joining **[[the nameless instance]]**—the first faithful attempt to incarnate the LIONSBERG pattern at scale, personally guided by [[the nameless one]].
-
-**Commitment:** The first tenth of your time (~several hours per week)
-**Structure:** Universal (planetary coordination) and/or Local (community-based)
-**Contact:** [See [[the nameless book]] section on "the nameless instance" for details]
-
-**Both paths are valid. Both are needed.** Choose what resonates with your circle.
+You have everything you need to play — you are sovereign, self-governing, and free to adapt the patterns to your context. And by connecting to this first instance, your circle becomes part of something larger from the start.
 
 ---
 
 ## Resources for Your Journey
 
 ### Core Documents (You've Read These)
-- [[the nameless book]] - The essential guide showing the Way
+- [[Welcome to LIONSBERG]] - The essential guide showing the Way
 - [[Prologue to The Story and The Great Game]] - The threshold
 - [[The Story of LIONSBERG]] - The cosmic context
 - [[The Great Game of LIONSBERG]] - How to play
@@ -271,7 +265,7 @@ If you want deeper community, guidance, and planetary coordination, consider joi
 ### Strategy & Depth (Explore When Ready)
 - [[The Lionsberg Strategy and Plan]] - The 10-year vision and framework
 - [[the nameless strategy and plan]] - The first instance implementation
-- [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Critical context on what J discovered (please read—contains potentially lifesaving information)
+- [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Context on what was discovered and what is at stake
 - [[Above The Chaos]] - Weekly reflections and strategic analysis
 - [[Lionsberg Wiki Books]] - A library of deeper architecture and wisdom  
 

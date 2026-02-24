@@ -10,7 +10,7 @@ In the [[Old World]], governance is something done TO people by authorities abov
 
 In the [[New World]], governance is something done BY people in voluntary association with one another. Agreements are shared. Decisions are consented to. Citizens are sovereigns.
 
-**This is Citizen Led Self-Governance** — the practice of communities governing themselves through the [[Democratic Self-Governance Through Shared Agreements]] pattern, without dependence on external authorities.
+**This is Citizen Led Self-Governance** — the practice of communities governing themselves through the [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] pattern, without dependence on external authorities.
 
 ___
 
@@ -57,5 +57,5 @@ It does not require permission from existing authorities. It does not depend on 
 ___
 
 _See [[The Lionsberg Approach to Citizen Led Governance]] for the full governance pattern language._
-_See [[Democratic Self-Governance Through Shared Agreements]] and [[Total Nested Hierarchy of Sovereignties]]._
+_See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Hierarchy of Sovereignties]]._
 _See [[LIONSBERG 101]]._

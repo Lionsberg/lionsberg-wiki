@@ -28,7 +28,7 @@ What follows is a living starting point — designed for emergence and continuou
 
 **[[The LIONSBERG Quick Start Guide]]** provides the essentials to step into **The Great Game** immediately.
 
-If you arrived here via **[[the nameless book]]**, you have likely already read it.
+If you arrived here via **[[Welcome to LIONSBERG]]**, you have likely already read it.
 
 Start there, then **form a Circle**, **choose a Quest**, and **get moving**.
 
@@ -38,7 +38,7 @@ Everything that follows can be accessed and co-created as the journey unfolds.
 
 ## The Basic Play That Begins The Great Game
 
-Invite a few people you resonate with to a gathering and **read aloud** the opening page of **[[the nameless book]]** and the four pages linked therein. All the steps and gates open from there.
+Invite a few people you resonate with to a gathering and follow **[[The LIONSBERG Quick Start Guide]]** — it walks you through reading aloud **[[Prologue to The Story and The Great Game|The Prologue]]**, **[[The Story of LIONSBERG|The Story]]**, and **[[The Great Game of LIONSBERG|The Great Game]]** together. All the steps and gates open from there.
 
 ---
 
@@ -104,8 +104,8 @@ _What it feels like from the inside. The cultural norms, shared rhythms, collect
 
 _The single most important thing you will ever do. How to carry the fire forward and ensure the movement outlives every individual within it._
 
-#### [[5.1 Your Most Important Role]]
-#### [[5.2 Successful Integration]]
+#### [[5.1 Your Most Important Role|4.1 Your Most Important Role]]
+#### [[5.2 Successful Integration|4.2 Successful Integration]]
 
 ---
 
@@ -125,7 +125,7 @@ Modular, standalone guides for the practices that make The Great Game playable. 
 
 ### Circle Formation and Life
 
-- [[Form A Circle]] — _Gather 2 to 12 sovereign souls who choose to see, serve, and build together_
+- [[Form A Circle]] — _Gather 3 to 12 sovereign souls who choose to see, serve, and build together_
 - [[Name Your Circles]] — _Give your Circle its first shared act of co-creation_
 - [[Set Your Cadence]] — _Establish the weekly heartbeat that keeps your Circle alive_
 - [[Forge a Field of Agreements]] — _Build the structure of trust from spoken, shared, and honored commitments_

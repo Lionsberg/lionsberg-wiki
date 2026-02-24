@@ -104,7 +104,7 @@ What lies beyond this threshold is not a doctrine.
 It is not a belief system or ideology.  
 It is not a promise of safety, certainty, or salvation.  
   
-It is an invitation consciously co-create **Heaven On Earth**. 
+It is an invitation to consciously co-create **Heaven On Earth**.
   
 An invitation to step into **a living story**  
 To participate in **a real-world game**  

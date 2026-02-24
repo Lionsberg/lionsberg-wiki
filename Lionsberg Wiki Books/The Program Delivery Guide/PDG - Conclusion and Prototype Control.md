@@ -61,7 +61,7 @@ The Prototype Control process described here maps directly to the living, evolvi
 
 The feedback loop is fractal: what is learned in one Circle informs all Circles. What is learned on one world informs all worlds. The Prototype is never "finished" -- it is a living system that grows wiser with each iteration.
 
-This is the meaning of [[Built-In Replication]] -- not just spreading the pattern, but improving it with every instance. Each new Circle, each new community, each new Quest contributes lessons that strengthen the whole.
+This is the meaning of [[Self-Sustenance and Self-Replication]] -- not just spreading the pattern, but improving it with every instance. Each new Circle, each new community, each new Quest contributes lessons that strengthen the whole.
 
 The ultimate Prototype Control is the continuous alignment of all activity -- at every scale, from individual to interstellar -- with [[Meta Goal|The Meta Goal]]: the total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness.
 

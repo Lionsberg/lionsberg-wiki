@@ -57,10 +57,10 @@ Meaningful Work integrates all [[Twelve Irreducible Elements]]:
 - It serves [[One Purpose Above All]]
 - It happens within [[Holofractal Omnifederation]] of the Circle
 - It respects [[Sovereignty At Every Scale]] — each person chooses their contribution
-- It is validated through [[Democratic Self-Governance Through Shared Agreements]]
+- It is validated through [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]
 - It ensures [[Capital Subordinate To Purpose]] — value created by labor, not captured by capital
 - It is the primary vehicle of [[Education As Transformation]] — we learn by doing
-- It generates the fruit that enables [[Built-In Replication]]
+- It generates the fruit that enables [[Self-Sustenance and Self-Replication]]
 - Its transparency and accountability contribute to [[Structural Immunity]]
 
 ___

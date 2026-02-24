@@ -28,7 +28,7 @@ ___
 
 **4. Each level serves the levels below it.** The federation serves the communities. The communities serve the Circles. The Circles serve the individuals. Service flows downward. Authority flows upward.
 
-**5. The Pattern repeats fractally.** The same governance DNA — [[Democratic Self-Governance Through Shared Agreements]] — operates at every scale. What works for a Circle of 8 works for a community of 10,000 works for a bioregion of millions.
+**5. The Pattern repeats fractally.** The same governance DNA — [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] — operates at every scale. What works for a Circle of 8 works for a community of 10,000 works for a bioregion of millions.
 
 ___
 
@@ -55,5 +55,5 @@ In the New World, states are convicted for treason against the individual and th
 
 ___
 
-_See [[Sovereignty At Every Scale]], [[Fractal Sovereignty]], and [[Democratic Self-Governance Through Shared Agreements]]._
+_See [[Sovereignty At Every Scale]], [[Fractal Sovereignty]], and [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]._
 _See [[LIONSBERG 101]]._

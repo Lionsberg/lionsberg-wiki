@@ -1,8 +1,8 @@
 # LIONSBERG 101
 
-_The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the Earth — reflecting an ancient and eternal Way that spans all worlds._
+_The irreducible pattern for co-creating Heaven On Earth — the same living DNA discovered independently by every successful movement in recorded history, reflecting an ancient and eternal Way that spans all worlds._
 
-_For a guided introduction to LIONSBERG, begin with **[[the nameless book]]**. This book offers the systematic deepening of the Pattern for those who want to go further._
+_For a guided introduction to LIONSBERG, begin with **[[Welcome to LIONSBERG]]**. This book offers the systematic deepening of the Pattern for those who want to go further._
 
 ---
 
@@ -37,7 +37,7 @@ If you are ready to act now, go directly to [[Ring 5 - The Game]]. The Pattern w
 ## The Rings
 
 ### [[The Emergence of the Core Pattern]]
-_How 2.5 million words, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements revealed the same irreducible DNA._
+_How the same irreducible DNA emerged independently from every successful movement in recorded history._
 
 ### [[Ring 0 - ONE]]
 **The Center.** One word. Spirit. The Source from which all patterns flow and to which all patterns return.
@@ -49,10 +49,10 @@ _How 2.5 million words, $20 million of funded research, 70 years of cooperative 
 **Twenty pages.** Each element unfolded with enough depth to understand and enough specificity to act. Historical examples. Practical expressions. Why each element is irreducible.
 
 ### [[Ring 3 - The Living Proof]]
-**The evidence.** [[Mondragon]] — 70 years, 80,000 worker-owners. [[Fair Shares Commons]] — structural DNA for the regenerative economy. The [[Program Delivery Guide]] — $20 million of funded research proving the production pattern. Eight movements spanning 1,500 years that independently discovered and proved the same DNA.
+**The evidence.** [[Mondragon]] — 70 years, 80,000 worker-owners. [[Fair Shares Commons]] — structural DNA for the regenerative economy. The [[Program Delivery Guide]] — proving the production pattern across multiple billion-dollar programs. Eight movements spanning 1,500 years that independently discovered the same DNA.
 
 ### [[Ring 4 - The Library]]
-**2.5 million words.** The complete reference library — [[The Story of LIONSBERG]], [[The Book of LIONSBERG]], [[the nameless book|THE NAMELESS BOOK]], [[The Great Game of LIONSBERG]], [[The LIONSBERG Playbook]], and 144+ additional books. Organized so you can find what you need when you need it.
+**2.5 million words.** The complete reference library — [[The Story of LIONSBERG]], [[The Book of LIONSBERG]], [[Welcome to LIONSBERG]], [[The Great Game of LIONSBERG]], [[The LIONSBERG Playbook]], and 144+ additional books. Organized so you can find what you need when you need it.
 
 ### [[Ring 5 - The Game]]
 **Action.** You do not learn this by reading about it. Cross the threshold. Anchor your practice. Form a [[Circle]]. Choose a [[Quest]]. Do the work. Pass [[The Flame]].
@@ -75,8 +75,8 @@ You may have arrived here through a single shared link, passed from someone who 
 **This is that moment.**
 
 This book gives you everything you need:
-- **The Pattern** — twelve irreducible elements proven across 1,500 years and $20 million of funded research
-- **The Evidence** — that it works, at scale, across centuries, from cooperatives to construction to cosmos
+- **The Pattern** — twelve irreducible elements proven across 1,500 years of movements that changed the world
+- **The Evidence** — that it works, at scale, across centuries, from cooperatives to cathedrals to cosmos
 - **The Action Steps** — clear, immediate, and achievable
 - **The Community** — millions awakening simultaneously
 - **The Library** — 2.5 million words of depth when you need to go deeper

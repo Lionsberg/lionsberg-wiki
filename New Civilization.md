@@ -48,10 +48,10 @@ At every level, the same DNA operates:
 1. [[One Purpose Above All]]
 2. [[Holofractal Omnifederation]]
 3. [[Sovereignty At Every Scale]]
-4. [[Democratic Self-Governance Through Shared Agreements]]
+4. [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]
 5. [[Capital Subordinate To Purpose]]
 6. [[Education As Transformation]]
-7. [[Built-In Replication]]
+7. [[Self-Sustenance and Self-Replication]]
 8. [[Structural Immunity]]
 
 This is not utopian aspiration. It is structural architecture proven across centuries.
