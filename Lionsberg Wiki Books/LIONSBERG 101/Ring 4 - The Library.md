@@ -101,7 +101,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 ## How To Navigate
 
-**If you are awakening and need orientation**: Start with [[the nameless book|THE NAMELESS BOOK]] or [[The Story of LIONSBERG]].
+**If you are awakening and need orientation**: Start with [[the nameless book|THE NAMELESS BOOK]].
 
 **If you want to form a Circle**: Go to [[The LIONSBERG Playbook]] and [[The Great Game of LIONSBERG]].
 

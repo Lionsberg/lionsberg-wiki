@@ -2,6 +2,8 @@
 
 _The irreducible pattern for co-creating Heaven On Earth — distilled from 2.5 million words of foundational literature, $20 million of funded research, 70 years of cooperative practice, and 1,500 years of self-replicating movements that changed the Earth — reflecting an ancient and eternal Way that spans all worlds._
 
+_For a guided introduction to LIONSBERG, begin with **[[the nameless book]]**. This book offers the systematic deepening of the Pattern for those who want to go further._
+
 ---
 
 ## What is LIONSBERG?

@@ -104,6 +104,8 @@ You are not alone in this. You never were.
 If this offering resonates and feels true — step into it, live it, improve it, and pass it on.
 If it proves hollow — simply set it down and go on your way.
 
+**➡️ Enter the Way: [[the nameless book]]**
+
 The Pattern is at **[[LIONSBERG 101]]**.
 The Story awaits at **[[The Story of LIONSBERG]]**.
 The Game is alive at **[[The Great Game of LIONSBERG]]**.

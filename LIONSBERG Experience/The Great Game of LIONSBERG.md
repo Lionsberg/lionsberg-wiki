@@ -1,8 +1,7 @@
 # The Great Game of LIONSBERG
 _The Awakening of the Living Gate and the Path to Heaven On Earth_
 
-**Guidance Note**: The Gates of LIONSBERG are an initiatory sequence.
-If you have not already passed through **[[The Invitation]]**, **[[LIONSBERG 101]]**, and **[[The Story of LIONSBERG]]** — please gather up your Circle and return there first. They are necessary predecessors to the Path below.
+**Guidance Note**: If you have not yet read **[[the nameless book]]** — the guide through the Gates of LIONSBERG — please begin there. It provides the foundation upon which this Path is built.
 
 ---
 
