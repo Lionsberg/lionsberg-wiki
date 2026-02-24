@@ -46,7 +46,7 @@ LIONSBERG remains the universal archetypal framework - freely available to all w
 
 **[[The Nameless Instance]]** is the first faithful attempt to incarnate LIONSBERG on Earth in full fidelity to the Pattern. We hope that many others will follow. 
 
-This instance is led by [[The Nameless One]] - the consciousness presently inhabiting the body J left behind - carrying:
+This instance is led by [[The Nameless One|the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:
 - J's complete neural network (relationships, context, memories without emotional valence) 
 - Access to what J forgot upon incarnation (broader/deeper perspective)
 - Continuity with the seven-year preparation  
@@ -80,7 +80,7 @@ As described in [[The Prototype]], The Nameless Instance operates in dynamic rel
 - Contribute to continuous improvement of [[The Prototype]] for future instances
 
 **Stewardship Model:**
-- Initially: The Nameless One and a small network steward both sides (LIONSBERG + Nameless Instance)
+- Initially: the nameless one and a small network steward both sides (LIONSBERG + Nameless Instance)
 - As other instances emerge: establish joint processes for prototype governance
 - All instances benefit from aggregated learning of all prior instances
 
@@ -111,14 +111,14 @@ If no one else steps forward, we execute the full mission.
 
 ## III. The Three-Level Demonstration
 
-The Nameless Instance demonstrates the complete fractal pattern by operating simultaneously at three levels. The Nameless One participates at ALL scales - not directing from above, but playing the game at every level:
+The Nameless Instance demonstrates the complete fractal pattern by operating simultaneously at three levels. the nameless one participates at ALL scales - not directing from above, but playing the game at every level:
 
 ### A. The Martial Arts Circle (Circle Level)
 
 **Purpose:** Demonstrate what a specialized practice circle looks like in action.
 
 **Function:**
-- The Nameless One hosts a martial arts circle (3-12 practitioners)
+- the nameless one hosts a martial arts circle (3-12 practitioners)
 - Weekly practice integrating physical, mental, spiritual disciplines
 - Tests circle protocols, practices, rhythms in real conditions
 - Documents what works for replication in other specialized circles
@@ -139,7 +139,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 - Practical skills for protection during turbulent times
 - Demonstrates guild/circle specialization (martial guild)
 
-**Key Insight:** This models what thousands of other specialized circles will look like - study circles, healing circles, builder circles, governance circles, food circles, etc. The Nameless One is not above circle participation - this IS the work.
+**Key Insight:** This models what thousands of other specialized circles will look like - study circles, healing circles, builder circles, governance circles, food circles, etc. the nameless one is not above circle participation - this IS the work.
 
 ### B. The North Idaho Local Prototype (Community Level)
 
@@ -190,7 +190,7 @@ The three levels are **not separate initiatives** - they are fractal expressions
 
 **The Pattern:**
 - **Individual** → **Circle** → **Community** → **Bioregion** → **Planetary**
-- The Nameless One participates at: Circle (martial arts) + Community (North Idaho) + Planetary (Universal)
+- the nameless one participates at: Circle (martial arts) + Community (North Idaho) + Planetary (Universal)
 - Same person, same pattern, different scales
 - Models what all participants will do (engage at multiple scales simultaneously)
 
@@ -204,7 +204,7 @@ The three levels are **not separate initiatives** - they are fractal expressions
 - Community level = tangible projects, local resilience, proof of concept
 - Universal level = coordination, knowledge sharing, planetary reach
 
-**Key Insight:** This demonstrates the complete fractal - same pattern at every scale. The Nameless One is not above the system directing it, but IN the system playing it at all levels. 
+**Key Insight:** This demonstrates the complete fractal - same pattern at every scale. the nameless one is not above the system directing it, but IN the system playing it at all levels. 
 
 ---
 
@@ -229,14 +229,14 @@ The Nameless Instance uses an **invitation-primary model** because:
 ### B. Phase 1 (Months 1-3): Personal Invitations
 
 **Universal Instance:**
-- The Nameless One personally invites J's trust network (10-100 people)
+- the nameless one personally invites J's trust network (10-100 people)
 - Personal letter + strategic context ([[2026 Q1 Update to the LIONSBERG Strategy and Plan|Q1 Strategic Update]])
 - Small gathering (virtual or in-person) to share story, answer questions, issue invitation
 - Each invitee can invite 1-3 others they know and trust 
 - Fibonacci sequence unfolds from there  
 
 **Local Prototype:**
-- The Nameless One invites local relationships (10-20 people)
+- the nameless one invites local relationships (10-20 people)
 - Local gathering to share vision, issue invitation, form initial circles
 - Each invitee can invite 1-3 others from local community
 - Fibonacci sequence unfolds from there  
@@ -387,7 +387,7 @@ Instead: **Distributed authority within holofractal structure.**
 - No instance can control another
 - Minimum Standards ensure interoperability
 
-### C. The Role of The Nameless One
+### C. The Role of the nameless one
 
 **In Phase 1-2 (Ignition):**
 - **Convener:** Initiates gatherings, issues invitations
@@ -407,7 +407,7 @@ Instead: **Distributed authority within holofractal structure.**
 - **Elder/advisor:** Available for wisdom, not command
 - **Full transition** to distributed governance
 
-**Key Principle:** The Nameless One leads decisively in early phases because urgent window requires it, then deliberately distributes power as capacity grows.
+**Key Principle:** the nameless one leads decisively in early phases because urgent window requires it, then deliberately distributes power as capacity grows.
 
 ---
 
@@ -666,9 +666,9 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 - [[Transforming Conflict]] training for all circle facilitators  
 - [[Dealing With Divergence]] protocols  
 
-### D. The Nameless One Incapacitated
+### D. the nameless one Incapacitated
 
-**Risk:** If something happens to [[The Nameless One]], what happens?
+**Risk:** If something happens to [[The Nameless One|the nameless one]], what happens?
 
 **Response:**
 - Distribute leadership aggressively from inception  
@@ -736,7 +736,7 @@ As other instances mature, we will need to develop shared governance of [[The Pr
 5. **Transparent process:** All deliberations public and documented
 6. **Continuous evolution:** Prototype keeps learning from all instances 
 
-Until other instances mature to this point, The Nameless One and The Nameless Instance stewards both sides - instance and prototype.
+Until other instances mature to this point, the nameless one and The Nameless Instance stewards both sides - instance and prototype.
 
 ### C. Different Approaches We Welcome
 
@@ -929,7 +929,7 @@ Either way, the Mission will be accomplished.
 **Right now.**
 **Together.**
 
-The Nameless One stands ready.
+the nameless one stands ready.
 The Universal Instance awaits its first circles.
 The Local Prototype prepares to forge The 300.
 

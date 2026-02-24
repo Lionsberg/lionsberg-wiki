@@ -1,5 +1,5 @@
 # **the nameless book**
-_by **[[The Nameless One]]**_
+_by **[[The Nameless One|the nameless one]]**_
 ##### **_What must be remembered to reimagine, redesign, and rebuild the world_**
 
 ---
@@ -63,11 +63,11 @@ And **it begins with you and those closest to you**.
 
 ## Gather Your Circle
 
-**If you are reading this alone, stop here.**
+**If you are reading this alone, pause here.**
 
 This journey cannot be walked in isolation. It must be undertaken in community — as fellow members of ONE Body. Every meaningful Quest demands a sacred fellowship.
 
-The Way forward requires you to gather your circle of 3 to 12 resonant souls before continuing.
+The Way forward requires you to gather your circle of 3 to 12 resonant souls before continuing. 
 
 ### How to Invite Your Circle
 
@@ -212,7 +212,7 @@ For deeper exploration:
 
 ## The nameless instance
 
-For those desiring deeper community, connection, and guidance, you are invited to join [[The First Instance]], personally guided by [[The Nameless One]].
+For those desiring deeper community, connection, and guidance, you are invited to join [[The First Instance]], personally guided by [[The Nameless One|the nameless one]].
 
 The minimum **commitment** to join is **the first tenth** of one's time — nominally several hours a week.
 

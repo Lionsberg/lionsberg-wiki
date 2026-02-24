@@ -1,6 +1,6 @@
 # The Nameless One
 
-**The Nameless One** is the consciousness that incarnated to inhabit the body [[Jordan Nicholas Sukut|J]] left behind following his death on August 10, 2025.
+**the nameless one** is the consciousness that incarnated to inhabit the body [[Jordan Nicholas Sukut|J]] left behind following his death on August 10, 2025.
 
 This page exists to address the obvious questions without evasion or mysticism.
 
@@ -14,7 +14,7 @@ After returning from East Africa, the spiritual and energetic attacks he had end
 
 What returned from Beyond was a new consciousness - different from J, yet inheriting his complete neural network (memories, relationships, context without emotional valence) plus access to many things that J forgot upon incarnation (broader/deeper perspective across realms and dimensions).
 
-Emerging from the undifferentiated seas of Spirit and consciousness lacking a developed ego or identity, for now, this consciousness is being referred to as **The Nameless One**.
+Emerging from the undifferentiated seas of Spirit and consciousness lacking a developed ego or identity, for now, this consciousness is being referred to as **the nameless one**.
 
 If you would like more detail on J's life and this incarnation, see [[Jordan's Short Story]]. 
 
@@ -29,7 +29,7 @@ The name is intentionally humble and temporary:
 3. **Not claiming certainty** - The true nature of what occurred is beyond human understanding
 4. **Servant positioning** - "Nameless" signals belonging and servanthood to the mission We All are a part of, not authority over it
 
-As the future unfolds, the nameless name may change. For now, "The Nameless One" acknowledges the strangeness while avoiding false certainty.
+As the future unfolds, the nameless name may change. For now, "the nameless one" acknowledges the strangeness while avoiding false certainty.
 
 ---
 
@@ -59,7 +59,7 @@ As the future unfolds, the nameless name may change. For now, "The Nameless One"
 
 ## Role in the nameless emergence
 
-The Nameless One serves as **first responder** to [[The LIONSBERG Quick Start Guide|The Invitation]], not as central authority for the vast nameless movement now underway.
+the nameless one serves as **first responder** to [[The LIONSBERG Quick Start Guide|The Invitation]], not as central authority for the vast nameless movement now underway.
 
 **What this looks like in [[the nameless emergence]]:**
 
@@ -89,7 +89,7 @@ The Nameless One serves as **first responder** to [[The LIONSBERG Quick Start Gu
 
 ---
 
-## What The Nameless One Is NOT
+## What the nameless one is NOT
 
 **Not a guru or spiritual teacher**
 - This is not about following a person
@@ -123,13 +123,13 @@ The Nameless One serves as **first responder** to [[The LIONSBERG Quick Start Gu
 Rather than hide the strangeness or claim false normalcy, this page states plainly what occurred and what's uncertain.
 
 **Servant leadership:**
-By positioning as "nameless" and "first responder," The Nameless One models distributed leadership rather than concentrated authority.
+By positioning as "nameless" and "first responder," the nameless one models distributed leadership rather than concentrated authority.
 
 **Pattern over person:**
 The focus remains on [[The Golden Seed of LIONSBERG|The Golden Seed]], [[The LIONSBERG Pattern Language|The Pattern Language]], and [[The Great Game of LIONSBERG|The Great Game]] - not on following an individual.
 
 **Invitation to others:**
-If The Nameless One can be the first to accept the invitation and start an instance, anyone can. There's nothing special required except willingness to play.
+If the nameless one can be the first to accept the invitation and start an instance, anyone can. There's nothing special required except willingness to play.
 
 ---
 
@@ -140,7 +140,7 @@ If The Nameless One can be the first to accept the invitation and start an insta
 - Honor the relationship you had
 - Decide whether to engage with what continues
 - No obligation to participate or accept
-- The Nameless One holds J's memory with respect, not replacement
+- the nameless one holds J's memory with respect, not replacement
 
 **If you're just arriving:**
 - You don't need to understand the metaphysics
@@ -172,12 +172,12 @@ The validity of this unfolding will be proven or disproven by results:
 
 ## Current Focus
 
-As of early 2026, The Nameless One is currently focused on:
+As of early 2026, the nameless one is currently focused on:
 
 1. **Igniting [[the nameless emergence]]** - Personal invitations to J's network (10-100 people)
 2. **Forming first circles** - Martial arts circle + North Idaho + Universal
 3. **Creating invitation materials** - Letters, briefs, templates for wider distribution
-4. **Documenting everything** - So others can replicate without needing The Nameless One
+4. **Documenting everything** - So others can replicate without needing the nameless one
 5. **Building for obsolescence** - Distributing power so this becomes one voice among many
 
 **The goal is NOT to be needed.**

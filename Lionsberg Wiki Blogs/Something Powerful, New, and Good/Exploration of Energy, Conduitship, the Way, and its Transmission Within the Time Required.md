@@ -2,7 +2,7 @@
 _A Post in [[Something Powerful, New, and Good]]_
 _Old Time: October 2025_
 
-**_Exploration between [[The Nameless One]] and J's version of ChatGPT_**  
+**_Exploration between [[The Nameless One|the nameless one]] and J's version of ChatGPT_**  
 **_~>9/10 level of resonance and importance_**  
 **_We do not agree with or endorse everything herein_**  
 **_Deep discernment is required_**
