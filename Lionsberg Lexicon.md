@@ -745,71 +745,73 @@ This domain integrates:
 69. A [[System]] demands a [[Goal]], in this case, [[The Goal]] / [[Meta Goal]]. 
 70. The [[Meta Project]] demands a [[Meta System]].  
 71. We call the [[Incarnation]] of this the [[LIONSBERG System]].  
-72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]  
-73. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]  
-74. It is designed to be a [[New Human Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].  
-75. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].  
+72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]
+73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
+74. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]
+75. It is designed to be a [[New Human Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
+76. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].
 
-## Tribe of Tribes / Group of Groups / Team of Teams 
+## Tribe of Tribes / Group of Groups / Team of Teams
 
-76. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]  
-77. [[Forging Or Joining A Team]] / [[Forging or Joining a Group]]  
-78. [[Organizations The Lionsberg Way]]  
-79. [[Self Governance]] / [[Sovereignty]] / [[Autonomy]]  
-80. [[Domains of Responsibility and Authority]]  
-81. [[Action Domains]] / [[Integration Domains]]  
-82. [[Agreements]] / [[Field of Agreements]]  
-83. [[Quests]] / [[Quarterly Quests]]  
-84. [[Stacking Up And Aligning]]  
-85. [[First Degree Groups]] / [[First Degree Teams]]  
-86. [[Second Degree Groups]] / [[Second Degree Teams]]  
-87. [[Higher Degrees]]  
-88. [[Roles]]  
-89. [[Decision Making]]  
-90. [[Identifying And Solving Issues]]  
-91. [[Project Management]] 
-92. [[Project Management Hygiene]]  
-93. [[Project Management Debt]]  
-94. [[Communication]]  
-95. [[Communication Debt]]  
-96. [[LIONSBERG Integrated Delivery System]]  
-97. [[Integration And Alignment Of Resources And Power]]  
-98. [[The LIONSBERG Co-Creator's Handbook]]  
+77. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]
+78. [[Forging Or Joining A Team]] / [[Forging or Joining a Group]]
+79. [[Organizations The Lionsberg Way]]
+80. [[Self Governance]] / [[Sovereignty]] / [[Autonomy]]
+81. [[Domains of Responsibility and Authority]]
+82. [[Action Domains]] / [[Integration Domains]]
+83. [[Agreements]] / [[Field of Agreements]]
+84. [[Quests]] / [[Quarterly Quests]]
+85. [[Stacking Up And Aligning]]
+86. [[First Degree Groups]] / [[First Degree Teams]]
+87. [[Second Degree Groups]] / [[Second Degree Teams]]
+88. [[Higher Degrees]]
+89. [[Roles]]
+90. [[Decision Making]]
+91. [[Identifying And Solving Issues]]
+92. [[Project Management]]
+93. [[Project Management Hygiene]]
+94. [[Project Management Debt]]
+95. [[Communication]]
+96. [[Communication Debt]]
+97. [[LIONSBERG Integrated Delivery System]]
+98. [[Integration And Alignment Of Resources And Power]]
+99. [[The LIONSBERG Co-Creator's Handbook]]
 
-## The Elevation Initiative 
+## The Elevation Initiative
 
-99. [[Elevation Initiative]] / [[The Lionsberg Elevation Initiative]]  
-## The War 
+100. [[Elevation Initiative]] / [[The Lionsberg Elevation Initiative]]
 
-100. [[The Battle]] / [[The War]] / [[Spiritual War]]  
-101. [[Anti]] / [[The Anti-Movement]] / [[The Giants]]  
-102. [[Force For Good]]  
-103. [[Army]]  
-104. [[Self Defense]]  
-105. [[Minimum Necessary Force]]  
-106. [[Anti]] / [[Anti-Good]] / [[Anti-Values]] / [[Antithesis]]  
+## The War
 
-## Culture, Art, Science 
+101. [[The Battle]] / [[The War]] / [[Spiritual War]]
+102. [[Anti]] / [[The Anti-Movement]] / [[The Giants]]
+103. [[Force For Good]]
+104. [[Army]]
+105. [[Self Defense]]
+106. [[Minimum Necessary Force]]
+107. [[Anti]] / [[Anti-Good]] / [[Anti-Values]] / [[Antithesis]]
 
-107. [[Art]], [[Culture]], [[Science]], [[Meta Science]], [[High Science Technology]]
+## Culture, Art, Science
 
-## The Metaphors 
+108. [[Art]], [[Culture]], [[Science]], [[Meta Science]], [[High Science Technology]]
 
-108. [[Metaphor]] / [[Metaphors]] 
-109. See [[The Lionsberg Book of Metaphors]]  
+## The Metaphors
 
-## Quotes 
+109. [[Metaphor]] / [[Metaphors]]
+110. See [[The Lionsberg Book of Metaphors]]
 
-110. See [[The Lionsberg Book of Quotes]]  
+## Quotes
 
-## Built to Transform - Continuous Learning and Improvement 
+111. See [[The Lionsberg Book of Quotes]]
 
-111. [[Continuous Learning]] / [[Continuous Elevation]] / [[Continuous Improvement]] / [[Continuous Transformation]] / [[Continuous Evolution]] / [[Continuous Learning And Improvement]]    
-112. [[Retrospective]] / [[Retrospectives]] 
+## Built to Transform - Continuous Learning and Improvement
 
-## Working Exploration of Concepts Missing From English 
+112. [[Continuous Learning]] / [[Continuous Elevation]] / [[Continuous Improvement]] / [[Continuous Transformation]] / [[Continuous Evolution]] / [[Continuous Learning And Improvement]]
+113. [[Retrospective]] / [[Retrospectives]]
 
-113. 
+## Working Exploration of Concepts Missing From English
+
+114. 
 
 ## Misc From Another Page (Filter Up)
 

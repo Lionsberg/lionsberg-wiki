@@ -86,7 +86,7 @@ The text consistently uses "It's" (contraction) where "Its" (possessive) is need
 3. **4.24**: "Prophesy" — verb form used as noun. Change to "Prophecy"?
 4. **4.29**: "you have mistook" — standard is "you have mistaken," but "mistook" has archaic/poetic force. Intentional?
 5. **12.2**: "sulking in the shadows" — should this be "skulking" (prowling stealthily)?
-6. **13.9**: "There are no Predecessors to beginning to act" — should "Predecessors" be "prerequisites" or "preconditions"?
+6. **13.9**: "There are no Predecessors to beginning to act" — ✅ RESOLVED: "Predecessors" is the correct term. It is a technical term from Integrated Program Delivery (IPD) and the AEC industry, describing task sequencing in complex programs. Its use here is intentional — applying the IPD concept fractally to convey that no task must come first before you begin the Quest.
 7. **13.25**: "These vile, overt, and openly stated demand" — should "demand" be "demands" (plural)?
 8. **14.3**: "but who the knowing that makes us a self today is" — intentionally paradoxical construction, or garbled?
 
