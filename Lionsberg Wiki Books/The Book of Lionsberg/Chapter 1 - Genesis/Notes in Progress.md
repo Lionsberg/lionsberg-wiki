@@ -45,20 +45,20 @@ As a result of our logic, generations of life to come will be either in a world 
  
 …or a world that is like hell right here on earth, and getting worse every day. 
 
-What is our guiding [Philosophy]? 
+What is our guiding [[Philosophy]]? 
 
-What is our guiding [Logic]? 
+What is our guiding [[Logic]]? 
 
-What is our guiding [Logos]? 
+What is our guiding [[Logos]]? 
 
-What is our guiding [Structure of Values]? 
+What is our guiding [[Structure of Values]]? 
 
-Towards what [End] are we striving? 
+Towards what [[End]] are we striving? 
 
-If we desire to move towards [Life], there is [Way]. 
+If we desire to move towards [[Life]], there is [[Way]]. 
  
-Even at this late hour, there is still and always a [Way] back towards [Life]. 
+Even at this late hour, there is still and always a [[Way]] back towards [[Life]]. 
  
-But we must awaken, see, [Perceive], and choose wisely. 
+But we must awaken, see, [[Perceive]], and choose wisely. 
 
-The hour is late, let us [Move]. 
+The hour is late, let us [[Move]]. 

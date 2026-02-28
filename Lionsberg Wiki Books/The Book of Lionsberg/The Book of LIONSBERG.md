@@ -278,7 +278,7 @@ This is a living [[Work In Progress]]...
 [[8.52 Another Millennia]]  
 [[8.53 Crisis And Transformation In The Middle Ages]]  
 [[8.54 The Tragic Age Of Exploration And Conquest]]  
-[[8.55 The Enlightenemnt]]  
+[[8.55 The Enlightenment]]  
 [[8.56 The Death Of God]]  
 [[8.57 The Stunning Boom]]  
 [[8.58 Weaponization]]  
