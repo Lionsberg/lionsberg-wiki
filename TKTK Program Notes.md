@@ -5,8 +5,16 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 ## Project Backlog / Wishlist 
 
+### Quick Items
+- Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
+- Delete [[The Battle For The Spirit Of America]]  
+- Delete [[The Great Game of LIONSBERG]] book... 
+- Review [[A Way Beyond Fear, Anxiety, And Depression]]  
+
 ### A Items 
-- Have Claude Code do an initial resonance review and improvement on all the main files linked to from [[README]] and [[the nameless book]] so the "entrance" is clean and tidy. 
+- Draft a prolegomenon for [[The Book of LIONSBERG]]... 
+- Finish [[The Story of LIONSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIONSBERG]]... 
+- Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[How To Walk]] (and all its counterparts) into The Art and Science of the Way... 
 - Evaluate adding a humble disclaimer up front on [[README]] and / or [[the nameless book]] on the difficulty of words to communicate around some of the most difficult things, the potential strangeness of the stories of Jordan and LIONSBERG, and an invitation to (somehow get past that and into wise right action). 
 - Generate invitations to 
 	- Martial Arts Circle (circle instance)  
@@ -20,12 +28,18 @@ The purpose of this page is to provide ongoing updates to the current state of [
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki)  
 2. Improve the LIONSBERG Wiki [[Sidebar]]    
 3. [[English Language Git]] is more technical than hoped - work on simplfying  
+4. Fold [[Becoming a Warrior of The Way]] into something else... 
+	1. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  
+	2. [[Rediscovering The Way - Take 2]]  
+	3. 
+5. Fold [[Lionsberg Orientation and Training System]] into something else - the playbook? 
 
 
 ### C Items 
 - Being able to print pages and books to PDF easily might be super important (especially in a context of likely disruptions)  
 - [[Longterm Project - Fixing Broken Links]] is interesting  
 - [[A Program to Play The Great Game]] is interesting  
+- Update [[Most People Have No Idea What Is Coming]]  
 
 
 ## Current Program 
@@ -50,40 +64,51 @@ The purpose of this page is to provide ongoing updates to the current state of [
 			2. It should be sufficient to build the New Civilization from
 			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
 	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
-8. 🔄 **THE STORY**
+8. ✅ Have Claude Code do an initial resonance review and improvement on all the main files linked to from [[README]] and [[the nameless book]] so the "entrance" is clean and tidy. 
+9. ✅ End up deleting [[the nameless book]] and creating [[LIONSBERG 101]]
+10. 🔄 **THE STORY**
 	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
 	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
-	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] - these all need to be coordinated and smoothed out.  
+	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
+		1. Weave [[The Caves]] and the wilderness journey into [[The Story of LIONSBERG]]  
 	
-9. 🔄 **THE PLAY**
-	1. Invite some people to play 
+11. 🔄 **THE PLAY**
+	1. ✅ Have Claude Code redraft [[The Great Game of LIONSBERG]] into chapter 15 of [[The Book of LIONSBERG]]  
+	2. ✅ Have Claude Code recreate [[The LIONSBERG Playbook]] in [[The Book of LIONSBERG]]
+	3. Invite some people to play 
 		1. Locally - our networks  
 		2. Globally - our networks  
 		3. Planetary events with Rick?   
-	2. host one instance of The Game 
+	4. host one instance of The Game 
 	
-10. 🔄 **THE PLAYBOOK**
-	1. Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
-		1. [[The LIONSBERG Playbook]]  
+12. ✅ **THE PLAYBOOK**
+	1. ✅ Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
+		1. ✅ [[The LIONSBERG Playbook]]  
 			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
-			2. ⏳Define the most important plays... 
+			2. ✅ Define the most important plays... 
 	
-11. 🔄 **FREQUENTLY ASKED QUESTIONS**
+13. **THE PROJECT DELIVERY GUIDE**
+	1. ✅ Transform the PDG (original form) into an interlinked wiki book 
+		1. [[The Program Delivery Guide]]  
+	2. Reflect the PDG as a new section in [[The Book of LIONSBERG]]  
+	3. 
+	
+14. 🔄 **FREQUENTLY ASKED QUESTIONS**
 	1. Respond to [[Frequently Asked Questions]] by creating new Plays. 
 	
-12. **THE ARK** 
+15. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
 		1. Get the Ark livable  
 			1. Register under some kind of church / ecclesia  
 				1. On the road by ? 
 	
-13. **STEWARDSHIP** 
+16. **STEWARDSHIP** 
 	1. There is an emergent need to form a church or other similar shared stewardship structure    
 		1. to establish an LLC  
 			1. That can steward the bus and other assets  
 	
-14. **COMMUNICATIONS**
+17. **COMMUNICATIONS**
 	1. Consider setting up another comms server for those who want to collaborate / play / ask questions (Discord?)  
 	2. Draft the next magical update / invitation  
 

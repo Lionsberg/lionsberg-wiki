@@ -562,7 +562,7 @@ Malevolence and Relative Power
 [[14.4 Creative Right Action Expecting Nothing in Return]] 
 [[Pain, Perceived Pain, and Change]]  
 
-## Chapter Fifteen - The Great Game of LIONSBERG
+### Chapter Fifteen - The Great Game of LIONSBERG
 
 _The Game that begins at the kitchen table and ends at the stars — the same Pattern at every scale, the same seven moves from the first Circle to the federation of worlds._
 
@@ -603,7 +603,7 @@ _The Game that begins at the kitchen table and ends at the stars — the same Pa
 
 ---
 
-## The LIONSBERG Playbook
+### Chapter 16 - The LIONSBERG Playbook
 
 _The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
 
@@ -704,26 +704,63 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 
 ---
 
-## The Program Delivery Guide
+### Chapter 17 - The Program Delivery Guide
 
 _The Proven Methodology for the Largest Integrated Delivery Program in History. Where the Pattern becomes Program and the Game becomes buildable._
 
-[[16.1 The Receivership]]
+#### Act I: Crisis and Decision
+[[16.1 The Verdict]]
 [[16.2 The Scope of the Work]]
-[[16.3 The Prototype and the Kit of Parts]]
-[[16.4 Integrated Delivery]]
-[[16.5 The Network of Commitments]]
-[[16.6 The Rhythms]]
-[[16.7 Work Structuring]]
-[[16.8 Risk and Shared Fate]]
-[[16.9 The Budget]]
-[[16.10 The Wilderness Between Captivity and the Promised Land]]
+
+#### Act II: The Seed and Its Architecture
+[[16.3 The Golden Seed]]
+[[16.4 The Architecture of Cooperation]]
+
+#### Act III: The Methodology
+[[16.5 Integrated Delivery]]
+[[16.6 Design to the Goal]]
+[[16.7 The Network of Commitments]]
+[[16.8 The Rhythms]]
+[[16.9 Work Structuring]]
+[[16.10 The Living Economy]]
+
+#### Act IV: Building and Growing
 [[16.11 Every Community Is a Construction Site]]
 [[16.12 The Learning System]]
-[[16.13 Quality - Built In, Not Inspected In]]
-[[16.14 From Receivership to Sovereignty]]
+[[16.13 Quality, Safety, and Structural Immunity]]
 
----
+#### Act V: The Passage and Arrival
+[[16.14 The Wilderness]]
+[[16.15 The Sacred Ascent]]
+[[16.16 From Receivership to Sovereignty]]
 
-### Musings From Along the Way
-[[Chapter X - Coming Soon]]
+
+### Chapter 18 - The Sacred Ascent
+
+
+
+### Chapter 19 - The LIONSBERG Pattern Language 
+
+
+### Chapter 20 - The LIONSBERG Book of Mediations 
+
+[[The Lionsberg Book of Meditations]]  
+
+
+### Chapter 21 - The LIONSBERG Book of Quotes 
+
+[[The Lionsberg Book of Quotes]]  
+
+### Chapter 22 - The LIONSBERG Book of Emotions 
+
+[[The LIONSBERG Book of Emotions]]  
+
+### Chapter 23 - Musings
+
+#### J's Musings From Along the Way
+
+See [[Above The Chaos]]  
+
+#### Nameless Musing From Along the Way 
+
+See [[Something Powerful, New, and Good]]  
