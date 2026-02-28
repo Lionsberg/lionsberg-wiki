@@ -233,6 +233,8 @@ This maintains Obsidian conventions, creates proper backlinks, and automatically
 
 **Learned from editing sessions with Jordan:**
 
+**The LIONSBERG Voice speaks the language of Heaven and moves the world.** It carries the weight of a millennial text — definitive, timeless, prophetic yet practical. It sounds like a wise elder at a fire teaching the young how the world truly works — not lecturing, not instructing, but sharing lived wisdom with gravitas and love. It must never sound like AI, never sound like trying, never fall out of balance.
+
 **Be Definitive, Not Tentative:**
 - ✅ "it is not by accident"
 - ❌ "it is likely not by accident"
@@ -251,20 +253,42 @@ This maintains Obsidian conventions, creates proper backlinks, and automatically
 - ✅ "billions of lives hang in the balance" (stakes clear)
 - ❌ "everyone will die unless..." (manipulative fear)
 
+**Eliminate AI-Tells — The Voice Must Never Sound Machine-Generated:**
+- ❌ "Something miraculous happens when..." (vague AI opener)
+- ❌ "Here is how it works" / "Consider..." (tutorial/textbook voice)
+- ❌ "This is not X. This is Y." (defensive constructions — trust the reader)
+- ❌ "This is not theory/idealism/utopia/science fiction" (hedging against doubt)
+- ❌ "Is this realistic?" (raising the reader's doubt to knock it down)
+- ✅ State truth directly. Declare. Let the weight of the words do the work.
+- ✅ "This is the structure of Reality itself." (not "This is not idealism. This is...")
+- ✅ "Every great movement in history grew this way" (not "This is not theory. This is how...")
+- ✅ Open with the thing itself, not with a meta-comment about it
+
 **Bold Key Concepts for Emphasis:**
 - **Old World** / **New Civilization**
 - **The First Three Percent**
 - **The Golden Seed**
 - **Heaven On Earth**
+- **ONE** / **The Goal** / **Creator's Intent**
 
 **Balance Sacred and Practical:**
 - Cosmic context (eternal patterns, Story of ONE and All)
 - PLUS immediate action (what to do today)
 - Never one without the other
 
+**Staccato for Weight — Let Each Word Land:**
+- ✅ "ONE. Creator's Intent. Heaven. On Earth. For All. Forever."
+- ✅ "Not in darkness, but in light. Not in chains, but in freedom."
+- Use sparingly at moments of supreme emphasis
+
 **Formal Yet Accessible:**
 - "have found" vs "'ve found" (more formal when appropriate)
 - But remain conversational and warm ("Dear Awakening Soul")
+
+**Always Return to The Goal:**
+- Every section, every passage, every articulation — return to helping All things rise toward The Goal
+- ✅ "in order to help one another rise towards The Goal"
+- ✅ "To help all things rise."
 
 ### Content Organization Principles
 
