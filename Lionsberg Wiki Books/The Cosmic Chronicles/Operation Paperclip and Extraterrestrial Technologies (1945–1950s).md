@@ -29,7 +29,7 @@
     - Some theorists propose that German scientists brought under the program were tasked with reverse-engineering extraterrestrial materials recovered from Roswell and other incidents.
 2. **German Advanced Technology:**
     
-    - Nazi Germany had developed experimental aircraft and weapons, such as the **Horten Ho 229** flying wing, which resembled modern stealth technology.
+    - Nazi Germany had developed experimental aircraft and weapons, such as the **Horten Ho 229** flying wing, which resembled modern stealth technology.
     - Speculations and a growing body of evidence suggest that many of these advancements were inspired by and even derived from extraterrestrial sources going back to the 1930s. 
     - Operation Paperclip scientists were brought to the U.S. to continue this work, which had ultimate ramifications for military and strategic advantage. 
 1. **Skunk Works and Black Projects:**

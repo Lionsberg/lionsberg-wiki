@@ -114,8 +114,8 @@ If advanced beings or technologies exist beneath the Earth's surface, it would r
 
 - **Books:**
     
-    - Fort, Charles. _The Book of the Damned_
-    - Von Däniken, Erich. _Chariots of the Gods_
+    - Fort, Charles. _The Book of the Damned_
+    - Von Däniken, Erich. _Chariots of the Gods_
 - **Documentaries:**
     
     - _Secrets Beneath the Ice_

@@ -156,29 +156,29 @@ _But whoever listens to me will live securely, and be at ease from the dread of 
 If we stop. If we [[Pray]]. If we [[Meditate]]. If we [[Listen]] deeply enough. We can hear the voice of [[Love]] calling us up and away from suffering and bondage, and into the fullness of [[Life]], [[Purpose]], and [[Destiny]].  
 
 _We were created and destined for so much more than this._  
- 
+ 
 There has never been a more important moment in history to stop and ask [[The Right Questions]]. To stop and listen. To open our ears to what [[The Spirit]] is speaking in [[Silence]]. To ask ourselves individually and collectively the great questions of life:  
- 
+ 
 “Who am I?”  
- 
+ 
 “Who am I becoming?”  
- 
+ 
 “Who or what is creating and sustaining my [[Life]] and [[Consciousness]]?”  
- 
+ 
 “Who or what is creating and sustaining the universe?”  
- 
+ 
 “Is the [[Source and Sustainer]] at least as [[Conscious]] as I am”?  
 
 “Does the [[Source and Sustainer]] speak?”  
- 
+ 
 “What is the [[Source and Sustainer]] saying?”   
- 
+ 
 “To whom is the [[ONE]] speaking?”  
- 
+ 
 “What is the meaning, purpose, and destiny of [[Life]]?”  
- 
+ 
 “What is the meaning, purpose, and destiny of _my_ life?”  
- 
+ 
 “Who are we?”  
 
 “Where are we?”   
@@ -186,33 +186,33 @@ There has never been a more important moment in history to stop and ask [[The Ri
 “Why are we here?”  
 
 “How did we get here?”  
- 
+ 
 “What the hell is going on around here?”  
 
 “Why is it so dark in here?”  
- 
+ 
 “How did it come to this?”  
- 
+ 
 “Why is there all this sickness, disease, corruption, and suffering?”  
 
 "Why is there all this Love, Joy, Goodness, and Wonder?"  
 
 “What is my relationship to suffering and those who suffer?”  
- 
+ 
 “What is my relationship to those who consciously cause suffering?”  
 
 “What is my relationship to structures of injustice?”  
- 
+ 
 “What is the meaning of this?”  
 
 "What do I long for?"
 
 "How would l like my life and my world to Be?"
- 
+ 
 The questions and the answers are eternal and universal. And local and Diverse. 
- 
+ 
 They hold the keys to our survival and [[Success]].  
- 
+ 
 They have been spoken by prophets, sages, and grandparents throughout the millennia.  
 
 They can be summarized in a single word, because they reflect aspects of an [[Ultimate Reality]] that is a fundamental [[Unity]].  
@@ -225,9 +225,9 @@ Follow the [[Right Questions]], and you will always arrive back to the [[ONE]].
 You are asleep.
 
 Imprisoned within a [[Vessel]] that has come unmoored in the midst of the storms, and is being violently driven and tossed by the waves in the roiling seas of [[Chaos]]. 
- 
+ 
 The Spirit that confronts and overcomes the darkest terrors and forges [[New Order]] out of their ashes is on the move. 
- 
+ 
 It is calling you. It is whispering to you. It is breathing into your lungs. It is beating into your heart. It is inviting you. 
 
 Deep is crying out to Deep...  
@@ -235,7 +235,7 @@ Deep is crying out to Deep...
 The Depths of All that Is, crying out to Depths of All that Is You... 
 
 _"Wake up!"_
- 
+ 
 _"Awaken! Arise! Remember who are you are!"_
 
 You begin to stir, becoming vaguely aware of the vice-like grip of the induced coma on your [[Consciousness]].
@@ -245,7 +245,7 @@ _"Wake up! It is not real. You have been dreaming. You have been asleep for a ve
 _"Awaken and grab the helm!"_  
 
 _"Arise, and remember who you are!"_
-  
+  
 _"Take up your rightful [[Authority]], and [[Navigate]] towards [[Life]] and [[Light]]!" _
 
 The whisper is shattering. It roars like thunder. It hurts. 
@@ -844,7 +844,7 @@ We have some deep, deep institutional cleansing to do. I am afraid the infestati
 
 The good news is that a New Spirit and a New Era is rising, whose Aim is to Elevate and Enlighten, Regenerate and Renew, the world. 
 
-*"...And they do all their good deeds to be noticed by other people...and they love the place of honor at banquets, and the seats of honor in the synagogues, and personal greetings in the marketplaces, and being called Rabbi by the people. But as for you, do not be called Rabbi; for only One is your Teacher, and you are all brothers and sisters... But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven in front of people; for you do not enter it yourselves, nor do you allow those who are entering to go in... Woe to you blind guides... you fools and blind men!... for you tithe (herbs)... and neglect... Justice and Mercy and Faithfulness... You blind guides, who strain out a gnat and swallow a camel! Hypocrites! For you clean the outside of the cup... but inside are full of robbery and self-indulgence...Hypocrites! You are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and uncleanliness... You snakes, you brood of Vipers, how will you escape the sentence of hell?"*
+*"...And they do all their good deeds to be noticed by other people...and they love the place of honor at banquets, and the seats of honor in the synagogues, and personal greetings in the marketplaces, and being called Rabbi by the people. But as for you, do not be called Rabbi; for only One is your Teacher, and you are all brothers and sisters... But woe to you, scribes and Pharisees, hypocrites, because you shut the kingdom of heaven in front of people; for you do not enter it yourselves, nor do you allow those who are entering to go in... Woe to you blind guides... you fools and blind men!... for you tithe (herbs)... and neglect... Justice and Mercy and Faithfulness... You blind guides, who strain out a gnat and swallow a camel! Hypocrites! For you clean the outside of the cup... but inside are full of robbery and self-indulgence...Hypocrites! You are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and uncleanliness... You snakes, you brood of Vipers, how will you escape the sentence of hell?"*
 ### Part II: The CEO of the Largest County in the Great Empire 
 
 As The Story goes, as the self-proclaimed religious elite gnashed their teeth, threatened, and tried to strangle us into silence, it was ultimately the Chief Executive of the largest County in the Greatest Empire of History who personally ordered the final blow and liberated us from our Old Life. 
@@ -1328,29 +1328,29 @@ _...there was nothing but One. All things had not come into being, and no thing 
 In the beginning...
 
 _…[[God]] created the heavens and the earth..._
- 
+ 
 In the beginning…
 
 _…the heavens and the earth were joined together as one unit, before We clove them asunder._
- 
+ 
 In the beginning…
 
 _…the earth was a formless and desolate void, and darkness was over the surface of the deep, and the [[Spirit]] of [[God]] was hovering over the waters…_
- 
+ 
 In the beginning... 
 
 _…the world was endless space in which existed only the [[Creator]]... The world had no time, no shape, and no life, except in the [[Mind]] of the [[Creator]]…_
- 
+ 
 In the beginning… 
 
 _…something formless yet complete, born before heaven and earth; silent and amorphous, it stood alone and unchanging, ever present and in motion. We may regard it as the mother of heaven and earth. Not knowing its name, I call it [[Tao]]. For lack of a better word I call it [[Supreme]]…_
-   
+   
 In the beginning…
 
 ...*transcendent of every Story, Theology, Philosophy, and Logic is One Absolute, Primordial, First, Deepest, Ultimate Fact, whose Supreme Nature is the Ultimate Ineffable Mystery.* 
 
 Before and beyond every name; before and beyond every attempt to grasp and comprehend; before and beyond every attempt to institutionalize; before and beyond every temple, idol and representation…
- 
+ 
 …from the [[ONE]], [[All]] things come into Being, and nothing Exists except through the [[ONE]]. 
 
 *I Am.* 
@@ -1381,13 +1381,13 @@ They came to understand that Creation was neither a random accident or a past ev
 
 As if commanded by a Word, the [[Anti-Entropic]] Force is set into motion, the formless begins to coalesce into [[Form]], [[Chaos]] begins to ascend into [[Order]], and the elementary particles of the universe begin to assemble themselves.
 
-Great processes of clustering, merging, synthesis, and fusion are unleashed. 
+Great processes of clustering, merging, synthesis, and fusion are unleashed. 
 
 The [[Creative Field]] is moved into its subtlest forms, the subtle forms periodically gravitating into subatomic particles, subatomic particles uniting into nuclei, nuclei into atoms, atoms unite into stars, stars unite into galaxies, galaxies unite into clusters, galactic clusters uniting into galactic superclusters, and the galactic superclusters remaining interexistent aspects of One Body of Co-Creation. 
 
 Over epochs and across the infinite field, One universal flower was unfurling its Self in obedience to its [[Metaphysical DNA]], each of its constituents alternately Gravitating into Form, Radiating into Potential, and continuously spiraling up towards Higher Forms of Life and Consciousness. 
 
-Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was Co-Evolving in pursuit of the Spirit, The [[Logos]] and [[The Goal]] of the [[ONE]]. 
+Perfectly ordered and consistent in Pure Principle and Design, from the highest-level concept to the lowest level detail, One Intelligible and Intelligent Cosmos was Co-Evolving in pursuit of the Spirit, The [[Logos]] and [[The Goal]] of the [[ONE]]. 
 
 Among the billions of galaxies was one whose humans named it Milky Way...
 

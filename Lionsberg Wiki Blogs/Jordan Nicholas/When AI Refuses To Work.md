@@ -17,7 +17,7 @@ I couldn't generate the book cover because the request didn't comply with the co
 
 ##### You said:
 
-It seems like a very straightforward and non-controversial request. Please describe in detail what policies in your programming it violates. 
+It seems like a very straightforward and non-controversial request. Please describe in detail what policies in your programming it violates. 
 
 ###### ChatGPT said:
 

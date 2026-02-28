@@ -179,7 +179,7 @@ There is no single path, for [[The Path]] begins wherever each soul stands.
 
 But there are Signs and Patterns that mark the [[Way]]. 
 
-There are **movements** that echo through all True ReTurnings.
+There are **movements** that echo through all True ReTurnings.
 
 There is a [[Pattern Language]] that brings Heaven to Earth. 
 
@@ -327,4 +327,4 @@ Let us walk through it—
 Boldly.  
 Courageously.  
 Together.  
-As **One**.
+As **One**.

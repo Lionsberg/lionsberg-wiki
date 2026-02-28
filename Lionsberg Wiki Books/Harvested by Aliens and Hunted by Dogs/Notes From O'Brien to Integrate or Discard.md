@@ -96,5 +96,5 @@
 	- Ancient egyptian practices for carving and mutilating genitals... 
 - Under [[Mind Kontrolle]], you don't think... you are a reactionary robot... you cannot perceive the enslavement, or think to get out of it... 
 - [[Project Bluebird]] 
-- [[Project Artichoke]] - "Can we get control of an individual to the point where he will do our bidding against his will and even against fundamental laws of nature, such as self-preservation" 
+- [[Project Artichoke]] - "Can we get control of an individual to the point where he will do our bidding against his will and even against fundamental laws of nature, such as self-preservation" 
 - [[MKUltra]]  

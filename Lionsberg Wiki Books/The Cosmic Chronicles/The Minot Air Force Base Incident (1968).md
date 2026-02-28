@@ -81,13 +81,13 @@ Back at the base, missile maintenance crews reported strange malfunctions in the
 
 - **Primary Accounts:**
     
-    - Salas, Robert. _Faded Giant: The 1967 UFO/Missile Incident._
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Salas, Robert. _Faded Giant: The 1967 UFO/Missile Incident._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
 - **Analytical Works:**
     
-    - Pope, Nick. _Encounter in the Air: UFOs and Military Aviation._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Pope, Nick. _Encounter in the Air: UFOs and Military Aviation._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
-    - _UFOs and the Military: The Minot Air Force Base Incident_ (2009).
+    - _UFOs and the Military: The Minot Air Force Base Incident_ (2009).
 

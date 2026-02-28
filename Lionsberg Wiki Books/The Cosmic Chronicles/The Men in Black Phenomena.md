@@ -104,14 +104,14 @@ The Men in Black often warn witnesses not to speak about what they have seen, us
 
 - **Books:**
     
-    - Keel, John A. _The Mothman Prophecies._
-    - Barker, Gray. _They Knew Too Much About Flying Saucers._
+    - Keel, John A. _The Mothman Prophecies._
+    - Barker, Gray. _They Knew Too Much About Flying Saucers._
 - **Articles:**
     
     - Investigative pieces on Men in Black sightings.
     - Analysis of psychological and cultural dimensions of MIB reports.
 - **Documentaries and Media:**
     
-    - _The Men in Black: Real Encounters_ – A detailed exploration of the phenomenon.
+    - _The Men in Black: Real Encounters_ – A detailed exploration of the phenomenon.
     - Popular podcasts detailing firsthand accounts of MIB encounters.
 

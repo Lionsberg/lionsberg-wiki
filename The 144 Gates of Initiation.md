@@ -1,4 +1,4 @@
-# **🕊️** **The 144 Gates of Initiation**
+# **🕊️** **The 144 Gates of Initiation**
 _The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_
 
 ## **Program Note** 
@@ -268,7 +268,7 @@ The awakening spread. Those liberated in Spirit and Mind cry out for Freedom and
 
 29. [[Gate 29 — The Departure of The First Few]]
 
-30. [[Gate 30 — Crossing The Boundary]]
+30. [[Gate 30 — Crossing The Boundary]]
 
 31. [[Gate 31 — Pillar of Fire (Divine Guidance)]]
 

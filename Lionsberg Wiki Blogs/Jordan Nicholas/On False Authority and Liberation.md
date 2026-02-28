@@ -161,13 +161,13 @@ ____
 
 ## Case Studies For Further Exploration
 
-Here are several powerful and relatable **case studies and examples**—drawn from real life, history, and scripture—that illustrate individuals breaking free from ideological or religious caves in order to follow the Spirit within and do what is _Wise, Right, and Good_, even when that meant disobeying the prevailing “rules.”
+Here are several powerful and relatable **case studies and examples**—drawn from real life, history, and scripture—that illustrate individuals breaking free from ideological or religious caves in order to follow the Spirit within and do what is _Wise, Right, and Good_, even when that meant disobeying the prevailing “rules.”
 
-Each example shows the **conflict between external dogma and internal conscience**, and the _liberating power of courageous spiritual sovereignty_.
+Each example shows the **conflict between external dogma and internal conscience**, and the _liberating power of courageous spiritual sovereignty_.
 
 ---
 
-### 1. _The Nurse Who Gave the Vaccine She Wouldn’t Take_
+### 1. _The Nurse Who Gave the Vaccine She Wouldn’t Take_
 
 **Context**: A nurse working in a government-mandated vaccine program during COVID-19 began to feel deeply uneasy administering injections that she herself would not take, based on her research and spiritual intuition.
 
@@ -177,11 +177,11 @@ Each example shows the **conflict between external dogma and internal conscienc
 
 **Liberation**: One day, after silently praying for clarity, she walked away mid-shift. She began organizing community health workshops rooted in bodily sovereignty and holistic healing. She now helps others reclaim their authority over their bodies.
 
-**Lesson**: _She broke no universal moral law. She broke a social rule that conflicted with it._  
+**Lesson**: _She broke no universal moral law. She broke a social rule that conflicted with it._  
 
 ---
 
-### 2. _The Muslim Woman Who Removed Her Hijab_
+### 2. _The Muslim Woman Who Removed Her Hijab_
 
 **Context**: A young woman in the middle east privately yearned to connect to God beyond the confines of the strict religious structure she had inherited. She felt the hijab—while meaningful to some—had become, for her, a symbol of tyrannical oppression and control.
 
@@ -189,13 +189,13 @@ Each example shows the **conflict between external dogma and internal conscienc
 
 **Tension**: She risked imprisonment, public shame, and family disownment.
 
-**Liberation**: In a moment of inner strength, she removed her hijab in public—not in rebellion against Islam, but in service to a _deeper spiritual truth_ that called her to live with unveiled power and integrity.
+**Liberation**: In a moment of inner strength, she removed her hijab in public—not in rebellion against Islam, but in service to a _deeper spiritual truth_ that called her to live with unveiled power and integrity.
 
-**Lesson**: _What began as a symbol of devotion became a prison when imposed. True devotion must be freely chosen._
+**Lesson**: _What began as a symbol of devotion became a prison when imposed. True devotion must be freely chosen._
 
 ---
 
-### 🔥 3. _Jesus Healing on the Sabbath_
+### 🔥 3. _Jesus Healing on the Sabbath_
 
 **Context**: The religious leaders accused Jesus of breaking God’s law by healing on the Sabbath.
 
@@ -205,11 +205,11 @@ Each example shows the **conflict between external dogma and internal conscienc
 
 **Liberation**: Jesus responded, “The Sabbath was made for man, not man for the Sabbath.” He re-centered law and righteousness around Spirit, love, justice, and mercy—doing the Wise Right Thing—while *depositioning law as inferior and subordinate to Spiritual guidance*.  
 
-**Lesson**: _Every written law must bow to the Spirit from which it came. If the rule betrays the Spirit, the rule is wrong._  
+**Lesson**: _Every written law must bow to the Spirit from which it came. If the rule betrays the Spirit, the rule is wrong._  
 
 ---
 
-### 👩‍🏫 4. _The Teacher Who Refused to Lie About Biology_
+### 👩‍🏫 4. _The Teacher Who Refused to Lie About Biology_
 
 **Context**: A teacher in the U.S. was ordered to use language and affirmations that conflicted with her spiritual understanding of human nature, here scientific expertise, and her conscience.
 
@@ -219,7 +219,7 @@ Each example shows the **conflict between external dogma and internal conscienc
 
 **Liberation**: She chose to respectfully exit the school system and co-founded an alternative learning community rooted in truth, reverence, and dignity for all students.  
 
-**Lesson**: _Being “nice” is not the same as being Good. Kindness without Truth is manipulation and often deceit._    
+**Lesson**: _Being “nice” is not the same as being Good. Kindness without Truth is manipulation and often deceit._    
 ## Summary of Principles
 
 From these case studies, we see a pattern:

@@ -105,13 +105,13 @@ At a press conference following his investigation, Dr. Hynek suggested that some
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallée, Jacques. _Anatomy of a Phenomenon._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallée, Jacques. _Anatomy of a Phenomenon._
 - **Documentaries:**
     
-    - _The Michigan UFO Wave_ (History Channel Special).
+    - _The Michigan UFO Wave_ (History Channel Special).
 - **Web Resources:**
     
-    - NICAP Report on Michigan Sightings: [https://www.nicap.org](https://www.nicap.org/)
-    - CUFOS Investigation Archive: [https://www.cufos.org](https://www.cufos.org/)
+    - NICAP Report on Michigan Sightings: [https://www.nicap.org](https://www.nicap.org/)
+    - CUFOS Investigation Archive: [https://www.cufos.org](https://www.cufos.org/)
 

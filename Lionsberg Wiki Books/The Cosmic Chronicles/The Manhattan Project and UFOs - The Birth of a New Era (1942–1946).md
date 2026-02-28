@@ -14,9 +14,9 @@ This is the story of how nuclear firepower became the beacon that lit up the cos
 2. **UFOs Near Nuclear Sites:**
     
     - Even during the Manhattan Project, peculiar aerial phenomena were reported near key facilities:
-        - **Los Alamos National Laboratory:** Reports of glowing orbs over the mesas became so frequent that scientists allegedly discussed them in hushed tones.
-        - **Hanford Site:** Strange lights were seen hovering over plutonium production plants, leading some to speculate about extraterrestrial surveillance.
-        - **Oak Ridge Laboratory:** Sightings of silver discs in the sky were dismissed by officials, but whispers of “visitors” persisted.
+        - **Los Alamos National Laboratory:** Reports of glowing orbs over the mesas became so frequent that scientists allegedly discussed them in hushed tones.
+        - **Hanford Site:** Strange lights were seen hovering over plutonium production plants, leading some to speculate about extraterrestrial surveillance.
+        - **Oak Ridge Laboratory:** Sightings of silver discs in the sky were dismissed by officials, but whispers of “visitors” persisted.
 
 ---
 
@@ -24,7 +24,7 @@ This is the story of how nuclear firepower became the beacon that lit up the cos
 
 1. **New Mexico's UFO Hotspot:**
     
-    - The very state where the atom was first split became ground zero for UFO activity. From the 1945 Trinity Test to the infamous **Roswell Incident of 1947**, New Mexico’s skies seemed alive with activity. Could it be that the energy signature of nuclear detonations attracted these visitors?
+    - The very state where the atom was first split became ground zero for UFO activity. From the 1945 Trinity Test to the infamous **Roswell Incident of 1947**, New Mexico’s skies seemed alive with activity. Could it be that the energy signature of nuclear detonations attracted these visitors?
 2. **Eerie Encounters:**
     
     - Manhattan Project personnel occasionally reported strange sightings:

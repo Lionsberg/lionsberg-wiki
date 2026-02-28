@@ -5,7 +5,7 @@ Old Time: September 25, 2025
 New Time: TBD
 
 >***Collaborating to transform Our Lives and Our Worlds***
->If you are awakening in [[The Caves]] and seeking a Way out, _**The Great Game of LIONSBERG beckons.**_
+>If you are awakening in [[The Caves]] and seeking a Way out, _**The Great Game of LIONSBERG beckons.**_
 
 _This was a first attempt at OmniSpection in community. Notes were mapped on paper, transferred into sentences here, and then placed into more coherent order. It is heavy on ontology and understanding experience, space, and time as such. The broader framing was necessary to align the first Circle in the deepest things, which will not change season to season. Subsequent OmniSpections for this circle can be more focused on the present forward._
 
@@ -45,7 +45,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 8. However in this Extraordinary Circumstance, the Meta Crisis is directly flowing from the Existing Order — it is the fruit of the Existing Order  
     
-9. This is not a matter or failure or corruption — the Existing Order it is bringing forth precisely the fruit *it was designed* to bring forth  
+9. This is not a matter or failure or corruption — the Existing Order it is bringing forth precisely the fruit *it was designed* to bring forth  
     
 10. The Existing Order of Earth is fraudulent and illegitimate _in its inception_ and therefore cannot be reformed  
     

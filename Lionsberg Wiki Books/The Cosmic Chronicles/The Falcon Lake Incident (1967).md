@@ -106,13 +106,13 @@ Michalak’s account remained consistent over decades, despite intense scrutiny.
 
 - **Books:**
     
-    - Rutkowski, Chris. _When They Appeared: Falcon Lake 1967: The Inside Story of a Close Encounter._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Rutkowski, Chris. _When They Appeared: Falcon Lake 1967: The Inside Story of a Close Encounter._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Articles:**
     
     - Official RCMP and Canadian Air Force reports on the Falcon Lake case.
     - Analyses of radiation levels and soil samples.
 - **Documentaries:**
     
-    - _Canada’s Greatest UFO Encounter_ – A detailed exploration of the Falcon Lake Incident.
+    - _Canada’s Greatest UFO Encounter_ – A detailed exploration of the Falcon Lake Incident.
 

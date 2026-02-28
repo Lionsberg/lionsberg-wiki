@@ -11,11 +11,11 @@ This letter is a longer and stronger than I would have liked, but the informatio
 
 If you haven't heard from me for a while or are just going about "normal life," the topics discussed may be disorienting and concerning. Concepts will be introduced that defy belief for many. Nothing would make me happier than to find out that I am wrong, everything is actually ok, and your lives are not in danger. ***Either way, Our lives are in danger, and We need your help.***  
 
-Our ongoing efforts to **integrate and transform** in the aftermath of what Our hellish journey through the last five years revealed feels incomplete. **Nevertheless, We are out of Time, and it would be unforgivable if We did not speak Now.** 
+Our ongoing efforts to **integrate and transform** in the aftermath of what Our hellish journey through the last five years revealed feels incomplete. **Nevertheless, We are out of Time, and it would be unforgivable if We did not speak Now.** 
 
-What Our Journey is UnVeiling shatters every illusion, every remaining shred of naïveté and misplaced hope in the **Existing Order**, and yet, **It** has always been there—hiding in plain sight.
+What Our Journey is UnVeiling shatters every illusion, every remaining shred of naïveté and misplaced hope in the **Existing Order**, and yet, **It** has always been there—hiding in plain sight.
 
-On some level, We **All Knew** something was deeply wrong. And We refused to admit it.
+On some level, We **All Knew** something was deeply wrong. And We refused to admit it.
 
 ##### ***Something is very, very wrong.***  
 
@@ -31,24 +31,24 @@ ____
 
 ### **Here Goes Nothing**
 
-Most of you know a bit about the Path I have been on, but I have not shared the most important parts. After being attacked by **Dark forces moving simultaneously through Church and State** at the local level, I traced their roots up through federal, planetary, and cosmic power structures before being reminded that the **Visible Power Structures** of our world are nothing more than a puppet show orchestrated by **far Deeper and Darker forces**.
+Most of you know a bit about the Path I have been on, but I have not shared the most important parts. After being attacked by **Dark forces moving simultaneously through Church and State** at the local level, I traced their roots up through federal, planetary, and cosmic power structures before being reminded that the **Visible Power Structures** of our world are nothing more than a puppet show orchestrated by **far Deeper and Darker forces**.
 
 Here is the harsh reality: 
 
 There is no "America."  
 There is no "United Nations."  
 There is no "Freedom and Justice for All."  
-There is no "Constitutional Protection" for those the **Invisible Power Structures** seek to destroy.  
+There is no "Constitutional Protection" for those the **Invisible Power Structures** seek to destroy.  
 And the Dark Forces in Kontrolle *are **[[Not Merely Human]].**  
 
 ***Trust Us. We know first-hand.***  
 
-The narratives of God, Science, War, Country, and Cosmos that humanity has been divided and conquered by **are a carefully constructed lie.** They reflect a **sinister and unholy alliance, co-operating at a depth and scale beyond what most dare to imagine.**
+The narratives of God, Science, War, Country, and Cosmos that humanity has been divided and conquered by **are a carefully constructed lie.** They reflect a **sinister and unholy alliance, co-operating at a depth and scale beyond what most dare to imagine.**
 
-What if **most of what your favorite politicians, pastors, professors, and priests have been teaching Us for generations is a lie?**  
-And _**what if they knew it?**_  
+What if **most of what your favorite politicians, pastors, professors, and priests have been teaching Us for generations is a lie?**  
+And _**what if they knew it?**_  
 
-Our journey—alongside countless others across the world—is simultaneously unveiling **the greatest fraud, deception, and existential threat in human history.**
+Our journey—alongside countless others across the world—is simultaneously unveiling **the greatest fraud, deception, and existential threat in human history.**
 
 And yet, after generations of deception and mind kontrolle there is no easy way to disclose this. ***It is almost impossible to convey messages that people desperately hope are not true.*** 
 
@@ -67,15 +67,15 @@ As the government begins to disclose its corruption and launch "investigations" 
 - **Extraterrestrial abductions, forced pregnancies, and genetic hybridization against the will of millions.**  
 - **Scenario planning for the mass reduction of the human population—by billions—*by ~2030*.**  
 
-And it goes **far, far darker** than this.
+And it goes **far, far darker** than this.
 
-So dark, so deep, so malevolent that **I worry that revealing too much would traumatize those not ready to see.** I cannot tell you the depth of tears I have cried over the lives and innocence of so many countless souls shattered, abused, and sacrificed. 
+So dark, so deep, so malevolent that **I worry that revealing too much would traumatize those not ready to see.** I cannot tell you the depth of tears I have cried over the lives and innocence of so many countless souls shattered, abused, and sacrificed. 
 
-Please stop and read that list again. **It is unspeakable.**  
+Please stop and read that list again. **It is unspeakable.**  
 But if it is True, silence becomes complicity.  
 Complacency becomes murder.  
 Inaction becomes genocide. 
-And leaving Our Loved Ones unaware and unprepared would be the **far greater sin.**  
+And leaving Our Loved Ones unaware and unprepared would be the **far greater sin.**  
 
 ##### ***We are facing Together into an existential threat unlike anything in the last 10,000 years.***  
 
@@ -88,9 +88,9 @@ And leaving Our Loved Ones unaware and unprepared would be the **far greater si
 ____
 ## **So What Do We Do?**
 
-If what We have discovered is *even approximately* True, then billions of lives are at risk, and the existing institutions of **government, economy, religion, and society are being puppeted *by the very Forces of Darkness* driving humanity toward death and permanent genetic and psychic enslavement.** 
+If what We have discovered is *even approximately* True, then billions of lives are at risk, and the existing institutions of **government, economy, religion, and society are being puppeted *by the very Forces of Darkness* driving humanity toward death and permanent genetic and psychic enslavement.** 
 
-That means there is **no time** for complaining.  
+That means there is **no time** for complaining.  
 No time for advocating.  
 No time for voting.  
 No time for reforming.  
@@ -109,32 +109,32 @@ This discovery was the reason We rapidly pulled back from Our accelerating polit
 
 ### **The Only Alternative: A Citizen-Led Response**
 
-Facing Together into **the greatest fraud, deception, and existential threat in history**, it is up to **Us, The People of Earth**, to arise and **unite to forge an unprecedented Citizen-Led Investigation and Response.**
+Facing Together into **the greatest fraud, deception, and existential threat in history**, it is up to **Us, The People of Earth**, to arise and **unite to forge an unprecedented Citizen-Led Investigation and Response.**
 
-The crimes of the **Existing Order** already UnVeiled—from Washington to the Vatican, from Saint Petersburg to Brussels, from London to Beijing—**make the crimes against humanity outlined in the Declaration of Independence look like petty misdemeanors.**
+The crimes of the **Existing Order** already UnVeiled—from Washington to the Vatican, from Saint Petersburg to Brussels, from London to Beijing—**make the crimes against humanity outlined in the Declaration of Independence look like petty misdemeanors.**
 
-We are not dealing merely with **2 million oppressed lives in the United States at its founding, or Gaza today**. 
+We are not dealing merely with **2 million oppressed lives in the United States at its founding, or Gaza today**. 
 
-We are dealing with **billions of lives**—spanning every community on Earth—**in clear and present danger from both local and cosmic threats.**
+We are dealing with **billions of lives**—spanning every community on Earth—**in clear and present danger from both local and cosmic threats.**
 
-And **no family or community will be able to survive alone.**
+And **no family or community will be able to survive alone.**
 
 ___
 ## **The 22.8-Month Warning**
 
-To avoid **mass suffering, death, and enslavement**, we must **forthrightly undertake Together the largest-scale program of action in human history**—dwarfing by an order of magnitude _at least_ the largest wars, construction efforts, and scientific undertakings of the last 10,000 years.
+To avoid **mass suffering, death, and enslavement**, we must **forthrightly undertake Together the largest-scale program of action in human history**—dwarfing by an order of magnitude _at least_ the largest wars, construction efforts, and scientific undertakings of the last 10,000 years.
 
-Because of the **timing of unstoppable cosmic and local cycles**, humanity has only ~**22.8 months remaining**—through the end of 2026—to **self-organize a decentralized-yet-coordinated Army of Leadership, Light, and Love capable of guiding humanity through The Storms and Wilderness ahead.** If We can go farther faster, We should. 
+Because of the **timing of unstoppable cosmic and local cycles**, humanity has only ~**22.8 months remaining**—through the end of 2026—to **self-organize a decentralized-yet-coordinated Army of Leadership, Light, and Love capable of guiding humanity through The Storms and Wilderness ahead.** If We can go farther faster, We should. 
 
-While the **vast majority of humanity is still asleep in the burning building** of a collapsing **Existing Order**, there is a **small subset of the human species awakening, seeing the flames, and springing into action.**
+While the **vast majority of humanity is still asleep in the burning building** of a collapsing **Existing Order**, there is a **small subset of the human species awakening, seeing the flames, and springing into action.**
 
-We call this subset **[[The First Three Percent]].**
+We call this subset **[[The First Three Percent]].**
 
-In practical terms, **this subset constitutes the first 300 reasonably wise, competent citizens to awaken in every community and domain of 10,000.**  These are the people with the local wisdom, knowledge, relationships, and capacity to **self-organize and guide their communities through the [[10-Year Grand Strategy]].**
+In practical terms, **this subset constitutes the first 300 reasonably wise, competent citizens to awaken in every community and domain of 10,000.**  These are the people with the local wisdom, knowledge, relationships, and capacity to **self-organize and guide their communities through the [[10-Year Grand Strategy]].**
 
-In 1776, there were **2.5 million people** in America.  
+In 1776, there were **2.5 million people** in America.  
 
-By 2026, there *must be* **250 million people enacting The New Vision and Plan.**  
+By 2026, there *must be* **250 million people enacting The New Vision and Plan.**  
 
 ____
 ## **LIONSBERG**
@@ -151,17 +151,17 @@ If you are receiving this, you are counted among the first who will **consciousl
 ____
 ## **Next Steps: What You Must Do Now**
 
-1. **Awaken.** Begin awakening. Begin learning and sharing. Begin opening your eyes. The **[[LIONSBERG Wiki]]** is a starting point. 
-2. **Prepare.** Secure your family, your food, your shelter, your network for what lies ahead. [[The Noah Plan - Building the Network of Arks|The Noah Plan]] and [[The Joseph Plan - Building the Network of Hubs|The Joseph Plan]] provide an overview of **the strategy**. I would recommend exiting major cities in an orderly and responsible Way.   
-3. **Connect.** Find others. Help connect **The First Three Percent**. *We cannot do this alone.* Passing The Flame *is the [[Critical Path]].*
-4. **Act.** Join Us. Contribute your gifts. Contribute your resources. Help overcome the [[Meta Crisis]] and co-create the [[New World]] in your own domains of influence, *before the [[Old World]] collapses*.
+1. **Awaken.** Begin awakening. Begin learning and sharing. Begin opening your eyes. The **[[LIONSBERG Wiki]]** is a starting point. 
+2. **Prepare.** Secure your family, your food, your shelter, your network for what lies ahead. [[The Noah Plan - Building the Network of Arks|The Noah Plan]] and [[The Joseph Plan - Building the Network of Hubs|The Joseph Plan]] provide an overview of **the strategy**. I would recommend exiting major cities in an orderly and responsible Way.   
+3. **Connect.** Find others. Help connect **The First Three Percent**. *We cannot do this alone.* Passing The Flame *is the [[Critical Path]].*
+4. **Act.** Join Us. Contribute your gifts. Contribute your resources. Help overcome the [[Meta Crisis]] and co-create the [[New World]] in your own domains of influence, *before the [[Old World]] collapses*.
 
-This is **not theoretical anymore.** It will soon burst into public view. 
+This is **not theoretical anymore.** It will soon burst into public view. 
 
-The **Window is closing.**  
-The **Call has gone out.**  
-Our **Resources and Bodies are failing.**  
-The **Choice is now yours.**
+The **Window is closing.**  
+The **Call has gone out.**  
+Our **Resources and Bodies are failing.**  
+The **Choice is now yours.**
 
 **You are needed. You are wanted. You are Loved.**
 
@@ -169,7 +169,7 @@ Time, resources, and bodies are running out on the front lines of **[[The War]]*
 
 If a matrix of people and resources immediately coalesces, We will likely be able to survive and save more lives over the coming months. 
 
-If you resonate and would like Us to be around so that We All can do this Together, the **Time to respond**—with **all that you are** and **all that you can contribute**—is **NOW.**  
+If you resonate and would like Us to be around so that We All can do this Together, the **Time to respond**—with **all that you are** and **all that you can contribute**—is **NOW.**  
 
 Having no idea how people will respond to this, We have set up a simple [RSVP Form Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header), and will report out on what comes next based on the responses. Feel free to send me a text for redundancy, and please be patient with response. 
 

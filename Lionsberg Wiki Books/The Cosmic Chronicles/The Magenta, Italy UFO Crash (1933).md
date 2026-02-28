@@ -93,6 +93,6 @@ Accounts suggest that the Vatican was notified of the incident and may have inte
     - _The Italian Roswell: UFO Secrets of Mussolini._
 - **Analytical Works:**
     
-    - Lissoni, Alfredo. _The Fascist UFO Files._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Lissoni, Alfredo. _The Fascist UFO Files._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 

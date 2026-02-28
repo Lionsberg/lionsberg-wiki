@@ -1,6 +1,6 @@
 # MindWeaving Chapter One — The Human Aspiration
 
-### — or — _The Universal Aspiration_  
+### — or — _The Universal Aspiration_  
 
 One of the most important steps  
 On any spiritual Journey  
@@ -120,7 +120,7 @@ Its [[The Diverse Many|Diverse Many]] Self-Expressions
 The realization that It is not separate from Us  
 But rather Is experiencing an aspect of ItSelf _through Us_  
 Brings forth [[The Greatest Invitation]]  
-We could ever hope to receive —   
+We could ever hope to receive —   
 The opportunity to Become  
 Conscious Co-Creators of Our Reality  
 
@@ -457,4 +457,4 @@ Humanity is finally free to move towards its [[Destiny]]
 It need only to awaken and arise  
 And rejoin [[The Divine Symphony]]  
 
-— _Selah_ — 
+— _Selah_ — 

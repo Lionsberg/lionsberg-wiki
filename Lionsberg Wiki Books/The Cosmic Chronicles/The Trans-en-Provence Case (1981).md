@@ -99,8 +99,8 @@ The case was promptly investigated by Gendarmerie officers and later by CNES’s
 - **Primary Reports:**
     - GEIPAN analysis reports on the Trans-en-Provence Case.
 - **Books:**
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallee, Jacques. _Anatomy of a Phenomenon._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallee, Jacques. _Anatomy of a Phenomenon._
 - **Documentaries:**
     - _The Scientific Approach to UFO Phenomena_
 

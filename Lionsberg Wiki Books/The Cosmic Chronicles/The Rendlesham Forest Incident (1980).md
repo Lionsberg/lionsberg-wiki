@@ -91,8 +91,8 @@ On the final night, activity intensified. Witnesses described multiple lights mo
     - Declassified MoD and U.S. Air Force documents on the Rendlesham Forest Incident.
 - **Eyewitness Accounts:**
     
-    - Penniston, Jim, and Osborn, Gary. _The Rendlesham Enigma: Book One – Timeline._
+    - Penniston, Jim, and Osborn, Gary. _The Rendlesham Enigma: Book One – Timeline._
 - **Analytical Works:**
     
-    - Pope, Nick. _Encounter in Rendlesham Forest._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Pope, Nick. _Encounter in Rendlesham Forest._
+    - Dolan, Richard. _UFOs and the National Security State._

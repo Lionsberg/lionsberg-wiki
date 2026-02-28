@@ -85,6 +85,6 @@ Soon after the craft’s departure, military personnel arrived at the scene, cor
     - _Westall ’66: A Suburban UFO Mystery._
 - **Analytical Works:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 

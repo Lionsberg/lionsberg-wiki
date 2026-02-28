@@ -23,7 +23,7 @@ We heard real stories and shared challenges:
     
 - Gaps in safety, structure, and coherence where institutions fail to support modern realities.
     
-- A longing for authentic **community**—not just for children, but for all of us.
+- A longing for authentic **community**—not just for children, but for all of us.
     
 - A tension between freedom and structure, practicality and vision, ideals and realities.
     
@@ -44,7 +44,7 @@ Alongside the challenges, we heard clear signals of profound possibility and des
     
 
 Beneath it all, there was a deep shared understanding:  
-We are not just talking about education. We’re talking about **culture**. About **community**. About **a way of being, living and learning** that is more whole, more human, more balanced, and more aligned with how we actually want to raise our children and live our lives.
+We are not just talking about education. We’re talking about **culture**. About **community**. About **a way of being, living and learning** that is more whole, more human, more balanced, and more aligned with how we actually want to raise our children and live our lives.
 
 This is not about replacing the beautiful work already happening locally—it’s about filling critical gaps and meeting needs while honoring, uplifting, integrating, and cohering what exists into something even stronger. Together.
 
@@ -76,26 +76,26 @@ This was more than a brainstorming session. It was a point of convergence. A mom
 
 ## The Path Forward
 
-With foundational puzzle pieces already in place and numerous families indicating strong desire to move forward together, we have enough critical mass to initiate a structured process to **reimagine**, **redesign**, and **rebuild** how we and our children live, learn, work, and grow in community. This is about much more than schooling—it’s about building a foundation for the kind of **regenerative culture** and **flourishing future** we know is possible. It’s also the surest way to prepare ourselves and our children to thrive through the profound storms and transitions ahead.
+With foundational puzzle pieces already in place and numerous families indicating strong desire to move forward together, we have enough critical mass to initiate a structured process to **reimagine**, **redesign**, and **rebuild** how we and our children live, learn, work, and grow in community. This is about much more than schooling—it’s about building a foundation for the kind of **regenerative culture** and **flourishing future** we know is possible. It’s also the surest way to prepare ourselves and our children to thrive through the profound storms and transitions ahead.
 
 Here’s what’s next for those desiring to continue along this Path:
 
-1. **RSVP and weave back in.** If you have ideas, resources, properties, skills, or relationships you’d like included in the emerging **Community Vision & Map**, send them our way via the RSVP link below.
+1. **RSVP and weave back in.** If you have ideas, resources, properties, skills, or relationships you’d like included in the emerging **Community Vision & Map**, send them our way via the RSVP link below.
     
-2. **Invite others.** If you know kindred spirits who should be part of this, please share this invitational reflection with them.
+2. **Invite others.** If you know kindred spirits who should be part of this, please share this invitational reflection with them.
     
-3. **Saturday, May 24 @ 3 PM** – We’ll kick off a **Community Design-Build Process**.
+3. **Saturday, May 24 @ 3 PM** – We’ll kick off a **Community Design-Build Process**.
     
-4. **May 26–31 @ Between The Rivers** – Many of us will be present and hosting daily martial arts, visioning and alignment sessions.
+4. **May 26–31 @ Between The Rivers** – Many of us will be present and hosting daily martial arts, visioning and alignment sessions.
     
-5. **Beginning June 7**, we’ll meet **every Saturday at 3 PM**, potentially followed by a **potluck and play at City Beach**, to continue aligning and advancing our shared vision in community.
+5. **Beginning June 7**, we’ll meet **every Saturday at 3 PM**, potentially followed by a **potluck and play at City Beach**, to continue aligning and advancing our shared vision in community.
     
-6. **By the end of June**, we aim to finalize a **90-Day Summer Quest** to bring core elements online for the fall.
+6. **By the end of June**, we aim to finalize a **90-Day Summer Quest** to bring core elements online for the fall.
 
 ## Immediate Next Step
 
 A quiet but powerful realization is emerging:  
-If we are to co-create a new model of learning and development for our families, **we must first enroll ourselves**. 
+If we are to co-create a new model of learning and development for our families, **we must first enroll ourselves**. 
 
 Our first Quest is to co-create the community, economy, and ecosystem of lifelong learning that we wish had always existed—for ourselves, our children, and our future.
 

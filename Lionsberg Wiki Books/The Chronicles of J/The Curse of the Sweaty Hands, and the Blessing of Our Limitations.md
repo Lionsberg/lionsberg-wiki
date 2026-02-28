@@ -14,7 +14,7 @@ There’s an old proverb I like:
 
 _"If God is omniscient, omnipotent, and omnipresent, what is the only thing that is lacking?"_
 
-The answer is [[Something Like]] **limitation.**
+The answer is [[Something Like]] **limitation.**
 
 So why would the Perfect, Infinite, and Whole choose to incarnate, fragment, and separate ItSelf? 
 

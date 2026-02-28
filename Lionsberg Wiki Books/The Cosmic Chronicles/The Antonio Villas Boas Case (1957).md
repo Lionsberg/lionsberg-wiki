@@ -92,8 +92,8 @@ After the encounter, Villas Boas was allowed to dress and was escorted off the c
     - Villas Boas’s personal interviews and testimony.
 - **Analytical Works:**
     
-    - Vallée, Jacques. _Passport to Magonia: From Folklore to Flying Saucers._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Vallée, Jacques. _Passport to Magonia: From Folklore to Flying Saucers._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
-    - _Extraordinary Encounters: The Antonio Villas Boas Case_ (2004).
+    - _Extraordinary Encounters: The Antonio Villas Boas Case_ (2004).

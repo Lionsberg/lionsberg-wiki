@@ -19,8 +19,8 @@ In recent years, Our unconventional journey led Us beyond the boundaries of "nor
 This adventure drug Us down to the hidden lairs of the [[Invisible Power Structures]] underpinning the [[Existing Order]], where we uncovered a shocking reality:
 
 - After millennia of deceit, centuries of subversion, and generations of neglect, [[The Foundations of Civilization]] are failing. 
-- The [[Existing Order]] is **fraudulent** in its inception, **malevolent** in its intent, **dominated** by Non-Human Intelligence (NHI), and **collapsing** by design.
-- For at least three generations, humanity has been deceived by concealed technologies, false narratives, trillions of dollars of fraud, and plans for the deaths of billions _**by ~2030**_.
+- The [[Existing Order]] is **fraudulent** in its inception, **malevolent** in its intent, **dominated** by Non-Human Intelligence (NHI), and **collapsing** by design.
+- For at least three generations, humanity has been deceived by concealed technologies, false narratives, trillions of dollars of fraud, and plans for the deaths of billions _**by ~2030**_.
 - This "managed extinction" coincides with an apparent "[[Return of The gods]]" (advanced [[Non-Human Intelligence (NHI)]]) ***by ~2027***. 
 - Out of the [[Chaos]], a dystopian [[Tyranny]]—[[The Final Order]]—is rising, with [[Full Spectrum Dominance]] over Earth and beyond as its aim.
 
@@ -50,11 +50,11 @@ Simultaneously, the [[Invisible Power Structures]], colluding transnationally an
 
 This cold, calculated force has orchestrated generations of deliberate exploitation and unimaginable abuse:
 
-- **The countless millions** tortured, murdered, or disappeared.
-- **The women and children** trafficked, enslaved, ritually hunted, systematically traumatized, sacrificed, and even consumed.
-- **The breeding programs and supply lines** sustaining this horror.
+- **The countless millions** tortured, murdered, or disappeared.
+- **The women and children** trafficked, enslaved, ritually hunted, systematically traumatized, sacrificed, and even consumed.
+- **The breeding programs and supply lines** sustaining this horror.
 - **The children forced to fight or die in cages, shattered in body and spirit.**
-- **The unspeakable occult inversions** of sacred rituals, designed to fracture innocent realities and desecrate Divine essence.
+- **The unspeakable occult inversions** of sacred rituals, designed to fracture innocent realities and desecrate Divine essence.
 - **The captives in underground bases**, subjected to horrific experimentation at the hands of merciless alien forces under the guise of [[National Security]].
 
 These atrocities, unthinkable to the waking mind, occur with the full knowledge, consent, and participation of the powerful families, elites, and smiling faces dominating politics, economics, media, and religion. Generations of unchallenged complicity have woven these horrors into the fabric of society.
@@ -63,9 +63,9 @@ It is almost impossible to comprehend—until one steps outside the veil of The 
 
 If this sounds like fiction, remember that what was dismissed as conspiratorial fantasy just years ago—extraterrestrial craft and beings, secret technologies, engineered plagues, shadow governments, ritual pedophilia among the elite—is now emerging into mainstream awareness through whistleblowers, indigenous elders, everyday citizens, and sworn testimonies before Congress.
 
-If it feels as though we have awakened into a strange amalgamation of _Star Wars_, _The Matrix_, _The Lord of the Rings_, _Independence Day_, _Men in Black_, _Close Encounters of the Third Kind_, *Eyes Wide Shut* _The Chronicles of Narnia_, and _Harry Potter_... it is because those stories are _Archetypically True_. **We were born into an Archetypal World at War**.
+If it feels as though we have awakened into a strange amalgamation of _Star Wars_, _The Matrix_, _The Lord of the Rings_, _Independence Day_, _Men in Black_, _Close Encounters of the Third Kind_, *Eyes Wide Shut* _The Chronicles of Narnia_, and _Harry Potter_... it is because those stories are _Archetypically True_. **We were born into an Archetypal World at War**.
 
-As the flames lick the pillars of the [[Existing Order]], countless millions suffer and die, and the structure of civilization accelerates toward [[Collapse]], humanity remains deeply asleep—unaware, unprepared, and kontrolled _**by design**_.
+As the flames lick the pillars of the [[Existing Order]], countless millions suffer and die, and the structure of civilization accelerates toward [[Collapse]], humanity remains deeply asleep—unaware, unprepared, and kontrolled _**by design**_.
 
 [[Sounding The Alarm]] explores these threats in greater detail. Discerning, preparing for, and acting on these truths together could mean the difference between survival and extinction—for ourselves and those We hold most dear.
 
@@ -90,7 +90,7 @@ The choice is Ours alone to make. If We reject fear and embrace [[Truth]], [[Lov
 
 The [[Existing Order]] is ablaze, its collapse accelerating with every passing moment. The [[Window]] to act is narrow, and humanity must seize this critical juncture to transform chaos into opportunity.
 
-The [[Critically Effective Time Limit]] requires that We rise into a [[Higher Order Functional Unity]] _**before the [[Existing Order]] collapses into irreparable [[Chaos]] and [[Tyranny]].**_
+The [[Critically Effective Time Limit]] requires that We rise into a [[Higher Order Functional Unity]] _**before the [[Existing Order]] collapses into irreparable [[Chaos]] and [[Tyranny]].**_
 
 While [[We Do Not Know]] precisely how the [[Free Will]] and choices of billions of [[Conscious Agents]] will influence the unfolding of events, one truth is undeniable:
 

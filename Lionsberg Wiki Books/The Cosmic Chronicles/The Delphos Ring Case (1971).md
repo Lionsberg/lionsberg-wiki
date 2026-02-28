@@ -105,10 +105,10 @@ Ron Johnson’s credibility as a witness was repeatedly affirmed by investigator
 
 - **Case Studies:**
     
-    - Vallee, Jacques. _Anatomy of a Phenomenon_ – Analysis of physical trace cases, including Delphos.
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – Insights into physical evidence cases.
+    - Vallee, Jacques. _Anatomy of a Phenomenon_ – Analysis of physical trace cases, including Delphos.
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – Insights into physical evidence cases.
 - **Documentaries:**
     
-    - _The Delphos Ring Phenomenon_ – Exploration of scientific findings.
-    - _UFO Evidence: Physical Traces_ – Broader context of UFO trace cases.
+    - _The Delphos Ring Phenomenon_ – Exploration of scientific findings.
+    - _UFO Evidence: Physical Traces_ – Broader context of UFO trace cases.
 

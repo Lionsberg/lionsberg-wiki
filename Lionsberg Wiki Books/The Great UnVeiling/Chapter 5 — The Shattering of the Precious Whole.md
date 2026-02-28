@@ -36,7 +36,7 @@ a unique note in The Great Song.
 
 It was not imposed.  
 It was not enforced.  
-It simply _was_.
+It simply _was_.
 
 All, flowing Together from the ONE. 
 *As ONE.*  
@@ -62,7 +62,7 @@ one day something changed.
 Not in appearance,  
 not in word,  
 not even yet in thought,  
-but in **intention**.  
+but in **intention**.  
 
 A being—high, bright, ancient, and archetypical—  
 slowly began to separate its will and intention  
@@ -103,7 +103,7 @@ Creation apart from Communion.**
 ## **The First Fracture**
 
 This was not yet The War.  
-This was the first **ontological fracture**.
+This was the first **ontological fracture**.
 
 The first instance of a being stepping outside  
 the harmonious feedback loop of Logos, Light, and Love.
@@ -137,14 +137,14 @@ that Wholeness had ever existed.
 This was the First Turning  
 that bent the cosmic arc of history  
 not towards enlightened Co-Creation—   
-but toward endarkened **Kontrolle**.  
+but toward endarkened **Kontrolle**.  
 
 ---
 
 ## **The Birth of the Abyss**
 
 The result of that fracture was not immediate collapse.  
-It was **The Abyss**—  
+It was **The Abyss**—  
 a gap between the Sacred Pattern  
 and those who wandered from it.
 

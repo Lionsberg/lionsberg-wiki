@@ -2,7 +2,7 @@
 
 ### Dr. Michael Wolf: Claims and Contributions to UFO Disclosure
 
-**Dr. Michael Wolf (Michael Wolf Kruvant)** is a highly controversial figure in UFO and extraterrestrial research. Wolf claimed to have worked within the U.S. government in top-secret programs dealing with advanced extraterrestrial technology and contact with alien civilizations. Though his background and assertions are debated, his statements have captured the attention of the UFO research community for their depth and provocative nature.
+**Dr. Michael Wolf (Michael Wolf Kruvant)** is a highly controversial figure in UFO and extraterrestrial research. Wolf claimed to have worked within the U.S. government in top-secret programs dealing with advanced extraterrestrial technology and contact with alien civilizations. Though his background and assertions are debated, his statements have captured the attention of the UFO research community for their depth and provocative nature.
 
 ---
 
@@ -10,7 +10,7 @@
 
 - Dr. Wolf claimed to have held high-ranking positions in classified government programs, including being a scientific consultant to the National Security Council (NSC).
 - He stated that he worked on advanced research in quantum physics, artificial intelligence, genetics, and extraterrestrial technology.
-- According to Wolf, he held degrees in biogenetics and theoretical physics and served as a member of a covert government group known as **Majestic 12 (MJ-12)**, tasked with managing UFO and extraterrestrial matters.
+- According to Wolf, he held degrees in biogenetics and theoretical physics and served as a member of a covert government group known as **Majestic 12 (MJ-12)**, tasked with managing UFO and extraterrestrial matters.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### **6. The Book "The Catchers of Heaven"**
 
-- Wolf authored a semi-autobiographical book, **"The Catchers of Heaven" (1996)**, in which he detailed his experiences with UFOs, extraterrestrials, and government black projects.
+- Wolf authored a semi-autobiographical book, **"The Catchers of Heaven" (1996)**, in which he detailed his experiences with UFOs, extraterrestrials, and government black projects.
 - The book blends scientific discussion, personal anecdotes, and philosophical reflections, making it a unique yet controversial contribution to UFO literature.
 
 ---
@@ -74,7 +74,7 @@
 - Despite the controversy surrounding his claims, Dr. Michael Wolf remains a significant figure in UFO disclosure advocacy. His work has inspired both fascination and debate, contributing to broader discussions about the extraterrestrial presence and its implications for humanity.
 
 ___
-"Claimed that several confederations of extraterrestrial civilizations are visiting us in loosely-coordinated fashion. These are: the Alliance (of human-looking ETs from the Altair Aquila system), the Corporate (of Greys from the Zeta Reticuli system), the Federation of Worlds (of unspecified races from many star systems), and the United Races of Orion (cultures from those star systems)." - Sallas 
+"Claimed that several confederations of extraterrestrial civilizations are visiting us in loosely-coordinated fashion. These are: the Alliance (of human-looking ETs from the Altair Aquila system), the Corporate (of Greys from the Zeta Reticuli system), the Federation of Worlds (of unspecified races from many star systems), and the United Races of Orion (cultures from those star systems)." - Sallas 
 
 ---
 

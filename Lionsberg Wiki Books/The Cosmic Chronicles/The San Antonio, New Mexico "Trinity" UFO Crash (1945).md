@@ -91,6 +91,6 @@ The story remained largely unknown until decades later, when investigative journ
     - _The Trinity UFO Crash: An Investigation by Jacques Vallée._
 - **Analytical Works:**
     
-    - Vallée, Jacques, and Harris, Paola. _Trinity: The Best-Kept Secret._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Vallée, Jacques, and Harris, Paola. _Trinity: The Best-Kept Secret._
+    - Dolan, Richard. _UFOs and the National Security State._
 

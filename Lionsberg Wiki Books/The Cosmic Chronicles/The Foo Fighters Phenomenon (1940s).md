@@ -111,13 +111,13 @@ With no recovered materials or detailed evidence of advanced enemy craft, the Fo
 
 - **Books:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - Accounts of Foo Fighter sightings from World War II military records.
     - Analysis of electromagnetic phenomena theories.
 - **Documentaries:**
     
-    - _The Foo Fighter Mystery_ – A detailed exploration of these wartime encounters.
+    - _The Foo Fighter Mystery_ – A detailed exploration of these wartime encounters.
 

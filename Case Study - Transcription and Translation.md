@@ -49,7 +49,7 @@ Jordan uploaded video to new Studio called Jordan's Meetings.
 - A few min Riverside "processing"
 - Once done processing, clicked into the recording, and the transcription was already automatically occurring 
 - A button suggested I "Generate Magic Audio" into a polished professional sound using the latest AI... so - I pushed it... and it started a spinning wheel around "High Quality"
-- Doing some research on Riverside Transcription, I found the following: Riverside is a high-quality remote recording platform. Although, beyond 4K video resolution it offers highly accurate AI transcriptions. Transcriptions are available in over 100 languages and you can download them instantly after recording. **We use Open AI's transcription software so you can expect 99% accuracy**.
+- Doing some research on Riverside Transcription, I found the following: Riverside is a high-quality remote recording platform. Although, beyond 4K video resolution it offers highly accurate AI transcriptions. Transcriptions are available in over 100 languages and you can download them instantly after recording. **We use Open AI's transcription software so you can expect 99% accuracy**.
 - Also noted new AI features such as: Full Episode: With one click AI will clean up your episode, add captions, and get it ready to share. Looks super cool. 
 - Also Magic Clips - Powered by AI. Instantly get clips of the best moments from your recording.
 - Also - "Let AI write your show notes"

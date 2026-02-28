@@ -113,13 +113,13 @@ The Ghost Rockets attracted the interest of international intelligence agencies,
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
 - **Documentaries:**
     
-    - _Ghost Rockets_ (2015): A documentary exploring the phenomena and ongoing searches.
+    - _Ghost Rockets_ (2015): A documentary exploring the phenomena and ongoing searches.
 - **Web Resources:**
     
-    - Swedish UFO Archive: [https://www.ufo.se](https://www.ufo.se/)
-    - NICAP Reports on Ghost Rockets: [https://www.nicap.org](https://www.nicap.org/)
+    - Swedish UFO Archive: [https://www.ufo.se](https://www.ufo.se/)
+    - NICAP Reports on Ghost Rockets: [https://www.nicap.org](https://www.nicap.org/)
 

@@ -28,7 +28,7 @@ Every being carries a flame Deep within—a spark of the inexhaustible Sacred Fl
 
 ### **The Tapestry of Becoming**
 
-The [[LIONSBERG Narrative Universe]] is a living, breathing framework where myths, memories, and metaphors converge with Reality. Through tales like _The Birth of the Eternal Citadel_, _The First Flame_, and _The Story of the Cosmic Stone_, the Chronicles illuminate universal truths in a New Yet Eternal Way:
+The [[LIONSBERG Narrative Universe]] is a living, breathing framework where myths, memories, and metaphors converge with Reality. Through tales like _The Birth of the Eternal Citadel_, _The First Flame_, and _The Story of the Cosmic Stone_, the Chronicles illuminate universal truths in a New Yet Eternal Way:
 
 - **We are One**: What appears divided is eternally whole. Every being, every realm, every particle of existence is interconnected.
 - **We are Becoming**: Through love, unity, and co-creation, we transcend old systems of fear and separation, liberating the captives and bringing Heaven to every realm We inhabit. 

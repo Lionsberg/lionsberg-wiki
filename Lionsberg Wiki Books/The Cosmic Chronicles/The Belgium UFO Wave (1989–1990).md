@@ -86,9 +86,9 @@ Despite radar locks, the craft repeatedly evaded interception by dropping altitu
     - Radar and flight data released by the Belgian Air Force.
 - **Documentaries:**
     
-    - _UFOs Over Europe: The Belgian Wave_ (History Channel).
+    - _UFOs Over Europe: The Belgian Wave_ (History Channel).
 - **Analytical Works:**
     
-    - Leslie Kean, _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Richard Dolan, _UFOs and the National Security State._
+    - Leslie Kean, _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Richard Dolan, _UFOs and the National Security State._
 

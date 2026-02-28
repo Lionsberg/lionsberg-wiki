@@ -28,29 +28,29 @@ This pillar challenges us to reimagine construction not as industry, but as sacr
 
 ### **12 Theses of Sacred Architecture and Built Environment**
 
-1. **All Building Is Sacred** — and must align with the rhythms and laws of Nature, Spirit, and Life.
+1. **All Building Is Sacred** — and must align with the rhythms and laws of Nature, Spirit, and Life.
     
-2. **The Built Environment Is an Extension of Consciousness** — shaping thought, emotion, behavior, and community.
+2. **The Built Environment Is an Extension of Consciousness** — shaping thought, emotion, behavior, and community.
     
-3. **Beauty Is Essential** — not luxury, but necessity, reflecting the order and glory of the Divine.
+3. **Beauty Is Essential** — not luxury, but necessity, reflecting the order and glory of the Divine.
     
-4. **Form Must Follow Function, and Function Must Follow Meaning** — design arises from purpose and service to the Whole.
+4. **Form Must Follow Function, and Function Must Follow Meaning** — design arises from purpose and service to the Whole.
     
-5. **Sacred Geometry Reveals the Pattern of Creation** — and must be reintegrated into our design and construction practices.
+5. **Sacred Geometry Reveals the Pattern of Creation** — and must be reintegrated into our design and construction practices.
     
-6. **The Land Must Be Honored as Living** — and all building must respect and enhance its Spirit and ecology.
+6. **The Land Must Be Honored as Living** — and all building must respect and enhance its Spirit and ecology.
     
-7. **Natural Materials Must Be Prioritized** — supporting health, harmony, and integration with the cycles of life.
+7. **Natural Materials Must Be Prioritized** — supporting health, harmony, and integration with the cycles of life.
     
-8. **Spaces Must Serve All Dimensions of Being** — physical, emotional, relational, intellectual, creative, and spiritual.
+8. **Spaces Must Serve All Dimensions of Being** — physical, emotional, relational, intellectual, creative, and spiritual.
     
-9. **Every Community Deserves Inspiring Spaces** — that dignify, uplift, and reflect the sacred worth of each life.
+9. **Every Community Deserves Inspiring Spaces** — that dignify, uplift, and reflect the sacred worth of each life.
     
-10. **The Village Is the Foundation of the New World** — and must be restored as a fractal of Heaven on Earth.
+10. **The Village Is the Foundation of the New World** — and must be restored as a fractal of Heaven on Earth.
     
-11. **The Sacred and the Secular Must Be Reunified** — every place is a place of worship when built in alignment with the ONE.
+11. **The Sacred and the Secular Must Be Reunified** — every place is a place of worship when built in alignment with the ONE.
     
-12. **The Goal Is to Build for Generations** — crafting environments that endure, inspire, and evolve in service to Life.
+12. **The Goal Is to Build for Generations** — crafting environments that endure, inspire, and evolve in service to Life.
     
 
 ---
@@ -92,7 +92,7 @@ In this New Way of Building:
 - Workplaces become studios of purpose and contribution.
     
 
-Every space whispers: _You belong. You are sacred. You are Home._
+Every space whispers: _You belong. You are sacred. You are Home._
 
 Sacred Architecture is also pragmatic. It is modular. Scalable. Bioregional. Whole. It respects natural cycles, energy flows, and elemental integration. It draws from ancient earthworks and futuristic technologies. It builds not just for today, but for seven and fifty-two generations to come.
 

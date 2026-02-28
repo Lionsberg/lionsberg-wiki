@@ -39,8 +39,8 @@ Crop Circles challenge conventional understanding by combining artistry, science
 
 - **Physical Effects on Plants and Soil:**
     
-    - **Flattened Stalks:** Stalks are often bent rather than broken, with nodes elongated as if subjected to heat or microwave energy.
-    - **Soil Changes:** Some formations exhibit magnetic anomalies or changes in soil composition.
+    - **Flattened Stalks:** Stalks are often bent rather than broken, with nodes elongated as if subjected to heat or microwave energy.
+    - **Soil Changes:** Some formations exhibit magnetic anomalies or changes in soil composition.
 - **Unusual Energy Phenomena:**
     
     - Witnesses report electromagnetic interference, strange sounds, and balls of light near crop circles, suggesting a connection to unknown energy sources.
@@ -106,14 +106,14 @@ Crop Circles challenge conventional understanding by combining artistry, science
 
 - **Books:**
     
-    - Andrews, Colin, and Delgado, Pat. _Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon._
-    - Levengood, W.C. _The Biophysical Aspects of Crop Circles._
+    - Andrews, Colin, and Delgado, Pat. _Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon._
+    - Levengood, W.C. _The Biophysical Aspects of Crop Circles._
 - **Documentaries:**
     
-    - _Crop Circles: Quest for Truth_ (2002).
-    - _Crop Circles: Crossovers from Another Dimension_ (2006).
+    - _Crop Circles: Quest for Truth_ (2002).
+    - _Crop Circles: Crossovers from Another Dimension_ (2006).
 - **Web Resources:**
     
-    - Crop Circle Connector: [https://www.cropcircleconnector.com](https://www.cropcircleconnector.com/)
-    - BLT Research: [http://www.bltresearch.com](http://www.bltresearch.com/)
+    - Crop Circle Connector: [https://www.cropcircleconnector.com](https://www.cropcircleconnector.com/)
+    - BLT Research: [http://www.bltresearch.com](http://www.bltresearch.com/)
 

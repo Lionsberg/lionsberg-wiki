@@ -104,12 +104,12 @@ Sightings of the Jersey Devil continue into the 21st century, with witnesses des
 
 - **Books:**
     
-    - McCloy, James F., and Miller, Ray. _The Jersey Devil._
-    - Coleman, Loren. _Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature._
+    - McCloy, James F., and Miller, Ray. _The Jersey Devil._
+    - Coleman, Loren. _Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature._
 - **Documentaries:**
     
     - _The Jersey Devil: Fact or Fiction?_
-    - _Monsters and Mysteries in America_ (Season 1, Episode 2).
+    - _Monsters and Mysteries in America_ (Season 1, Episode 2).
 - **Web Resources:**
     
-    - Weird NJ: The Jersey Devil [https://weirdnj.com](https://weirdnj.com/)
+    - Weird NJ: The Jersey Devil [https://weirdnj.com](https://weirdnj.com/)

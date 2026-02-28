@@ -118,8 +118,8 @@ Astronauts Pete Conrad and Richard Gordon reported seeing a bright object during
     - Gemini mission transcripts and NASA debriefing reports.
 - **Books:**
     
-    - Condon, Edward U. _Scientific Study of Unidentified Flying Objects._
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Condon, Edward U. _Scientific Study of Unidentified Flying Objects._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
 - **Documentaries:**
     
     - _NASA’s Unexplained Files._

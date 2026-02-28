@@ -420,7 +420,7 @@ ____
 - **Fuxi**:
     - Often depicted with a human upper body and a serpent or dragon-like lower body.
     - Credited with bringing wisdom to humanity, including teaching the practices of fishing, hunting, and writing.
-    - Inventor of the **bagua** (八卦), the eight trigrams foundational to Chinese cosmology and divination.
+    - Inventor of the **bagua** (八卦), the eight trigrams foundational to Chinese cosmology and divination.
 - **Nüwa**:
     - Fuxi's counterpart or consort, also depicted as half-human, half-serpent.
     - Creator of humankind, fashioning people from clay.

@@ -116,13 +116,13 @@ Lazar’s academic and professional background has been the subject of scrutiny,
 
 - **Books:**
     
-    - Knapp, George. _Dreamland: The True Story of Area 51 and Bob Lazar._
-    - Corbell, Jeremy. _Bob Lazar: Area 51 & Flying Saucers._
+    - Knapp, George. _Dreamland: The True Story of Area 51 and Bob Lazar._
+    - Corbell, Jeremy. _Bob Lazar: Area 51 & Flying Saucers._
 - **Documentaries:**
     
-    - _Bob Lazar: Area 51 & Flying Saucers_ (Directed by Jeremy Corbell).
+    - _Bob Lazar: Area 51 & Flying Saucers_ (Directed by Jeremy Corbell).
 - **Web Resources:**
     
-    - MUFON Report on Area 51: [https://www.mufon.com](https://www.mufon.com/)
-    - Lazar’s Interviews and Testimonies: [https://www.coasttocoastam.com](https://www.coasttocoastam.com/)
+    - MUFON Report on Area 51: [https://www.mufon.com](https://www.mufon.com/)
+    - Lazar’s Interviews and Testimonies: [https://www.coasttocoastam.com](https://www.coasttocoastam.com/)
 

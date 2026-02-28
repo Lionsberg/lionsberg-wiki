@@ -27,7 +27,7 @@ Some of the Right Questions to ask our Selves might be:
 20. “Who are we?”  
 21. “Where are we?”   
 22. “Why are we here?”   
-23. “How did we get here?”   
+23. “How did we get here?”   
 24. "Where are we going?"  
 25. "What is our Aim?"
 26. "Why?"  

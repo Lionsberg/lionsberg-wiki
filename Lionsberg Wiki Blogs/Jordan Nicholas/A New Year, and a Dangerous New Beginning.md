@@ -12,7 +12,7 @@ This is because [[The Final Test]] we face cannot be passed by isolated individu
 
 With the "democratic super cycle" of 2024 behind Us and the status quo upheld, the [[Invisible Power Structures]] are accelerating their push toward [[Full Spectrum Dominance]]—the establishment of [[The Final Order]] on Earth and beyond.
 
-In private briefings over the past two years, many of us were introduced to battle maps that included not only human institutions but _**star systems and extraterrestrial civilizations**_. These maps made it clear that the forces we face are coordinating far beyond the reaches of any constitutional authority on Earth, manipulating the [[Visible Power Structures]] humanity has long trusted.
+In private briefings over the past two years, many of us were introduced to battle maps that included not only human institutions but _**star systems and extraterrestrial civilizations**_. These maps made it clear that the forces we face are coordinating far beyond the reaches of any constitutional authority on Earth, manipulating the [[Visible Power Structures]] humanity has long trusted.
 
 In 2024, what had long been dismissed as “conspiracy theories” became mainstream headlines: **Humanity Is Not Alone**. Senior military and defense leaders admitted to decades-long extraterrestrial collaboration and reverse-engineering programs.
 
@@ -22,19 +22,19 @@ Can We rise—maturely, resolutely, and united—to take up Our sovereign and ri
 
 This realization compelled Us to pull back from the realm of national politics and reevaluate the [[Critical Path]]. The [[Nation-State]] is powerless to address the inherently local, planetary, and interplanetary challenges before us. Its corruption and illegitimacy render it obsolete.
 
-While many are still awakening to these realities, the implications are profound: _**Human civilization must be forthrightly re-founded within a single generation.**_    
+While many are still awakening to these realities, the implications are profound: _**Human civilization must be forthrightly re-founded within a single generation.**_    
 
 ---
 
 ## The Path Forward
 
-The formula for passing [[The Final Test]] is not easy, but it is **simple**:
+The formula for passing [[The Final Test]] is not easy, but it is **simple**:
 
-1. **Remove Consent and Energy from the Existing Order.** Stop fueling systems that perpetuate suffering, exploitation, and division.
-2. **Awaken and Unite [[The First Three Percent]] by 2026.** This group must lead humanity in overcoming the [[Meta Crisis]] and forging a [[New Era]].
-3. **Develop [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams, Groups, and Localities.** Each must stand independently, while cooperating harmoniously with others.
-4. **Adopt the New Patterns and Protocols from the [[Bottom Up]].** Interoperability and harmony must emerge organically through voluntary poly-centric adoption of the [[New Paradigm]].  
-5. **Extend [[The Invitation]] to Humanity by 2030.** Ensure that no individual or locality is [[Involuntarily Left Behind]].
+1. **Remove Consent and Energy from the Existing Order.** Stop fueling systems that perpetuate suffering, exploitation, and division.
+2. **Awaken and Unite [[The First Three Percent]] by 2026.** This group must lead humanity in overcoming the [[Meta Crisis]] and forging a [[New Era]].
+3. **Develop [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams, Groups, and Localities.** Each must stand independently, while cooperating harmoniously with others.
+4. **Adopt the New Patterns and Protocols from the [[Bottom Up]].** Interoperability and harmony must emerge organically through voluntary poly-centric adoption of the [[New Paradigm]].  
+5. **Extend [[The Invitation]] to Humanity by 2030.** Ensure that no individual or locality is [[Involuntarily Left Behind]].
 
 This task is monumental, and the risks of failure are immense. After all, humanity has never consciously reorganized itself at this scale before.
 
@@ -68,8 +68,8 @@ To ensure unity and efficiency in our efforts, we will be leveraging the Lionsbe
 
  ### **We Are Seeking Two Key Relationships:**
 
-1. **Members of [[The First Three Percent]]** (Nomination and Invitation Only)  
-2. **Stewards of Resources** to fund progress along the [[Critical Path]]  
+1. **Members of [[The First Three Percent]]** (Nomination and Invitation Only)  
+2. **Stewards of Resources** to fund progress along the [[Critical Path]]  
 
 We will be leveraging the purpose-built Lionsberg System to coordinate and move as a [[Team of Teams]]. 
 

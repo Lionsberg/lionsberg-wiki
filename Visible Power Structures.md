@@ -38,11 +38,11 @@
 
 ### **Examples of [[Visible Power Structures]]**
 
-1. **Governments:** National and local institutions that legislate, enforce, and adjudicate laws.
-2. **Corporations:** Multinational entities that dominate economic activity and influence policy through lobbying and market power.
-3. **Media Organizations:** Entities shaping public opinion through control of news, entertainment, and information.
-4. **Religious Institutions:** Organized faith-based entities that shape cultural and moral frameworks.
-5. **Non-Governmental Organizations:** Advocacy groups and charities influencing policy and public perception.
+1. **Governments:** National and local institutions that legislate, enforce, and adjudicate laws.
+2. **Corporations:** Multinational entities that dominate economic activity and influence policy through lobbying and market power.
+3. **Media Organizations:** Entities shaping public opinion through control of news, entertainment, and information.
+4. **Religious Institutions:** Organized faith-based entities that shape cultural and moral frameworks.
+5. **Non-Governmental Organizations:** Advocacy groups and charities influencing policy and public perception.
 
 ---
 

@@ -96,13 +96,13 @@ Both men were described as reliable and level-headed individuals with no history
 
 - **Books:**
     
-    - Vallee, Jacques. _Passport to Magonia: On UFOs, Folklore, and Parallel Worlds._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallee, Jacques. _Passport to Magonia: On UFOs, Folklore, and Parallel Worlds._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Articles:**
     
     - Nordic UFO Research Journal – Case studies and analyses of the Imjärvi encounter.
 - **Documentaries:**
     
-    - _UFOs in the Snow: The Imjärvi Case_ – Exploration of the Finnish incident and its implications.
+    - _UFOs in the Snow: The Imjärvi Case_ – Exploration of the Finnish incident and its implications.
 
 

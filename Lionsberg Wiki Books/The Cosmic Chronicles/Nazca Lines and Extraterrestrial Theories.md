@@ -1,6 +1,6 @@
 # Nazca Lines and Extraterrestrial Theories
 
-The **Nazca Lines**, etched into the desert plains of southern Peru, are among the most enigmatic archaeological phenomena in the world. Created perhaps between 500 BCE and 500 CE by the Nazca civilization, these enormous geoglyphs consist of straight lines, geometric shapes, and animal figures. While their origins and purposes remain a subject of debate, some researchers propose that extraterrestrial involvement could explain their precision, scale, and potential function.
+The **Nazca Lines**, etched into the desert plains of southern Peru, are among the most enigmatic archaeological phenomena in the world. Created perhaps between 500 BCE and 500 CE by the Nazca civilization, these enormous geoglyphs consist of straight lines, geometric shapes, and animal figures. While their origins and purposes remain a subject of debate, some researchers propose that extraterrestrial involvement could explain their precision, scale, and potential function.
 
 ---
 
@@ -8,9 +8,9 @@ The **Nazca Lines**, etched into the desert plains of southern Peru, are among 
 
 1. **Types of Geoglyphs:**
     
-    - **Straight Lines:** Hundreds of perfectly straight lines crisscross the desert, some extending up to 15 miles.
-    - **Geometric Shapes:** Include triangles, trapezoids, spirals, and rectangles.
-    - **Animal and Plant Figures:** Depict creatures such as monkeys, hummingbirds, spiders, and a human-like figure often referred to as "The Astronaut."
+    - **Straight Lines:** Hundreds of perfectly straight lines crisscross the desert, some extending up to 15 miles.
+    - **Geometric Shapes:** Include triangles, trapezoids, spirals, and rectangles.
+    - **Animal and Plant Figures:** Depict creatures such as monkeys, hummingbirds, spiders, and a human-like figure often referred to as "The Astronaut."
 2. **Scale and Visibility:**
     
     - The geoglyphs range in size from tens to hundreds of meters, making them best viewed from the air.
@@ -44,7 +44,7 @@ Proponents of extraterrestrial theories argue that the Nazca Lines demonstrate a
 1. **Runways for Alien Craft:**
     
     - The long, straight lines are theorized to have been landing strips for spacecraft, given their immense size and precision.
-    - Advocates, such as Erich von Däniken in _Chariots of the Gods_, point to the absence of an apparent practical terrestrial purpose.
+    - Advocates, such as Erich von Däniken in _Chariots of the Gods_, point to the absence of an apparent practical terrestrial purpose.
 2. **Markers for Aerial Navigation:**
     
     - The geoglyphs might have served as markers or beacons for extraterrestrial visitors, guiding their movements across the region.

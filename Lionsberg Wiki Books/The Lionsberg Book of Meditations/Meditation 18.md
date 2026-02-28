@@ -1,6 +1,6 @@
 # Meditation 18
 
-When All things help One Another rise towards The Goal, we shall be together in a paradise that is continuing to get better every day. 
+When All things help One Another rise towards The Goal, we shall be together in a paradise that is continuing to get better every day. 
 ___
 
 Forward to [[Meditation 19]]        

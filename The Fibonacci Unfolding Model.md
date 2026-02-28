@@ -1,12 +1,12 @@
 # The Fibonacci Unfolding Model
 
-**The Fibonacci Unfolding Model** outlines a framework for exponential yet harmonious and coherent growth, inspired by the sacred Fibonacci sequence. In the Lionsberg mission, it illustrates how [[The Golden Seed]] can catalyze the co-creation of a [[New Civilization]] by progressively engaging humanity in the co-creation of [[Heaven on Earth]].
+**The Fibonacci Unfolding Model** outlines a framework for exponential yet harmonious and coherent growth, inspired by the sacred Fibonacci sequence. In the Lionsberg mission, it illustrates how [[The Golden Seed]] can catalyze the co-creation of a [[New Civilization]] by progressively engaging humanity in the co-creation of [[Heaven on Earth]].
 
 ## **How It Works**
 
 ### **1. Origin**
 
-The model begins with **Source**, emanating through [[Spirit]] into [[Incarnation]]. This singular point—[[The Golden Seed]]—contains [[The Divine Blueprints]] for exponential [[Omniharmonic]] growth.
+The model begins with **Source**, emanating through [[Spirit]] into [[Incarnation]]. This singular point—[[The Golden Seed]]—contains [[The Divine Blueprints]] for exponential [[Omniharmonic]] growth.
 
 ### **2. Cycles of Growth**
 

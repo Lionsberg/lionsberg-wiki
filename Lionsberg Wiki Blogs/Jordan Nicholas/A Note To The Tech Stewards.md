@@ -6,7 +6,7 @@ Tech Stewards: What do you guys think?
 
 ###### ChatGPT said:
 
-To rapidly assemble a "stack" of core systems and technologies for the **Force For Good** while avoiding reliance on infiltrated corporate platforms, we need to design a resilient, decentralized, and secure infrastructure. This stack must prioritize **autonomy**, **resilience**, **scalability**, and **privacy**. Here's a structured plan for assembling this stack:
+To rapidly assemble a "stack" of core systems and technologies for the **Force For Good** while avoiding reliance on infiltrated corporate platforms, we need to design a resilient, decentralized, and secure infrastructure. This stack must prioritize **autonomy**, **resilience**, **scalability**, and **privacy**. Here's a structured plan for assembling this stack:
 
 ---
 
@@ -14,7 +14,7 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Encrypted Messaging**:
     
-    - **Matrix Protocol**: Use platforms like **Element** (open-source, decentralized, end-to-end encrypted).
+    - **Matrix Protocol**: Use platforms like **Element** (open-source, decentralized, end-to-end encrypted).
     - **Session**: A messenger built on blockchain technology, requiring no phone number or centralized server.
     - **Briar**: Peer-to-peer encrypted messaging for extreme decentralization.
 - **Voice & Video Calls**:
@@ -23,8 +23,8 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
     - **Mumble**: Low-latency, encrypted voice communication.
 - **Secure Email**:
     
-    - **ProtonMail** or **Tutanota** (for user-friendly, encrypted email with custom domains).
-    - Alternatively, deploy **Postfix** with encryption on private servers for internal use.
+    - **ProtonMail** or **Tutanota** (for user-friendly, encrypted email with custom domains).
+    - Alternatively, deploy **Postfix** with encryption on private servers for internal use.
 
 ---
 
@@ -33,7 +33,7 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 - **Distributed File Storage**:
     
     - **IPFS (InterPlanetary File System)**: Decentralized storage for documents, media, and data.
-    - **Storj** or **Filecoin**: Blockchain-based storage platforms for decentralized backups.
+    - **Storj** or **Filecoin**: Blockchain-based storage platforms for decentralized backups.
 - **Self-hosted Cloud Storage**:
     
     - **Nextcloud**: Open-source, feature-rich cloud storage and collaboration platform that you control.
@@ -44,11 +44,11 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Collaboration Platforms**:
     
-    - **Mattermost** or **Rocket.Chat**: Open-source alternatives to Slack for team communication.
+    - **Mattermost** or **Rocket.Chat**: Open-source alternatives to Slack for team communication.
     - **Zulip**: Open-source chat platform with conversation threading for clarity in large teams.
 - **Project Management**:
     
-    - **Taiga** or **Kanboard**: Open-source project management tools.
+    - **Taiga** or **Kanboard**: Open-source project management tools.
     - **OpenProject**: Advanced project management platform for larger teams.
 
 ---
@@ -57,15 +57,15 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Cryptocurrency Infrastructure**:
     
-    - Use privacy-focused coins like **Monero** or **Zcash** for secure transactions.
+    - Use privacy-focused coins like **Monero** or **Zcash** for secure transactions.
     - Establish wallets using air-gapped devices for maximum security.
 - **Crowdfunding**:
     
-    - Deploy **GnuCash** or **Odoo** to track and manage decentralized funding.
-    - Use decentralized crowdfunding platforms like **Gitcoin**.
+    - Deploy **GnuCash** or **Odoo** to track and manage decentralized funding.
+    - Use decentralized crowdfunding platforms like **Gitcoin**.
 - **Bartering and Resource Networks**:
     
-    - Build localized **mutual aid networks** with open-source platforms like **Karrot**.
+    - Build localized **mutual aid networks** with open-source platforms like **Karrot**.
 
 ---
 
@@ -73,14 +73,14 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Static Website Hosting**:
     
-    - Use decentralized hosting via **IPFS** or platforms like **Fleek**.
+    - Use decentralized hosting via **IPFS** or platforms like **Fleek**.
 - **Dynamic Website Hosting**:
     
-    - Self-host on private servers using open-source stacks like **LAMP** or **MEAN**.
-    - Use hosting providers in neutral jurisdictions or services like **Orange Pi** for edge computing.
+    - Self-host on private servers using open-source stacks like **LAMP** or **MEAN**.
+    - Use hosting providers in neutral jurisdictions or services like **Orange Pi** for edge computing.
 - **Domain Resilience**:
     
-    - Employ **ENS (Ethereum Name Service)** or **Handshake** for decentralized domain management.
+    - Employ **ENS (Ethereum Name Service)** or **Handshake** for decentralized domain management.
 
 ---
 
@@ -88,22 +88,22 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Wikis**:
     
-    - Self-host a **MediaWiki** or **Dokuwiki** instance for collaborative knowledge documentation.
+    - Self-host a **MediaWiki** or **Dokuwiki** instance for collaborative knowledge documentation.
 - **Learning Management Systems**:
     
-    - Use **Moodle** or **Canvas** for training and education.
+    - Use **Moodle** or **Canvas** for training and education.
 - **Offline Knowledge Distribution**:
     
-    - Leverage solutions like **Kiwix** to store and share critical knowledge offline.
+    - Leverage solutions like **Kiwix** to store and share critical knowledge offline.
 
 ---
 
 ## **7. Identity & Access Management: Secure and Decentralized**
 
 - **Digital Identity**:
-    - Use **Self-sovereign identity platforms** like **Sovrin** or **Blockstack**.
+    - Use **Self-sovereign identity platforms** like **Sovrin** or **Blockstack**.
 - **Access Control**:
-    - Integrate **OpenLDAP** for identity management and access control.
+    - Integrate **OpenLDAP** for identity management and access control.
 
 ---
 
@@ -111,13 +111,13 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 
 - **Mesh Networking**:
     
-    - Use **B.A.T.M.A.N.** or **Serval Project** to build mesh networks for communication in emergencies.
+    - Use **B.A.T.M.A.N.** or **Serval Project** to build mesh networks for communication in emergencies.
 - **Ham Radio**:
     
     - Train key members in ham radio operations and encryption for long-range communication.
 - **Satellite Communication**:
     
-    - Use **Iridium Go!** or open-source satellite systems for global coverage.
+    - Use **Iridium Go!** or open-source satellite systems for global coverage.
 
 ---
 
@@ -126,22 +126,22 @@ To rapidly assemble a "stack" of core systems and technologies for the **Force 
 - **Endpoint Security**:
     
     - Deploy Linux-based systems (e.g., Tails, Qubes OS) for team members.
-    - Use open-source antivirus and intrusion detection systems like **ClamAV** and **Suricata**.
+    - Use open-source antivirus and intrusion detection systems like **ClamAV** and **Suricata**.
 - **Data Encryption**:
     
-    - Standardize encryption with tools like **GPG** for file and email security.
+    - Standardize encryption with tools like **GPG** for file and email security.
 - **Network Security**:
     
-    - Use **WireGuard** or **OpenVPN** for secure remote connections.
-    - Implement **Pi-hole** for DNS filtering and protection.
+    - Use **WireGuard** or **OpenVPN** for secure remote connections.
+    - Implement **Pi-hole** for DNS filtering and protection.
 
 ---
 
 ## **10. Resilience & Redundancy**
 
-- Establish **offline-first capabilities** to keep operating even without internet access.
-- Create **geographically distributed backups** to ensure data persistence.
-- Set up **contingency plans for physical meeting points and resource caches**.
+- Establish **offline-first capabilities** to keep operating even without internet access.
+- Create **geographically distributed backups** to ensure data persistence.
+- Set up **contingency plans for physical meeting points and resource caches**.
 
 ---
 

@@ -32,11 +32,11 @@ If you resonate, please show your support!
 **Podcast Links**: 
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)   
-- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
-- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
 - [Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
@@ -45,15 +45,15 @@ For our pilot episode we reversed the roles. Bill Larson is interviewing our pod
 
 **Timestamps**:
 
-- 00:00 The first profound question  
-- 01:44 Soft launch  
-- 07:24 What kind of a world you want to leave behind?  
-- 14:17 Sharp edges of life  
-- 24:29 Don’t set goals if you’d rather solve problems  
-- 37:58 Character development  
-- 40:00 Mondragon co-operation  
-- 01:01:08 True Legacy  
-- 01:14:38 Just tuned in  
+- 00:00 The first profound question  
+- 01:44 Soft launch  
+- 07:24 What kind of a world you want to leave behind?  
+- 14:17 Sharp edges of life  
+- 24:29 Don’t set goals if you’d rather solve problems  
+- 37:58 Character development  
+- 40:00 Mondragon co-operation  
+- 01:01:08 True Legacy  
+- 01:14:38 Just tuned in  
 - 01:20:25 Extended discussion  
 
 
@@ -294,7 +294,7 @@ Jordan Nicholas: my,
 
 Bill Larson: but
 
-it 
+it 
 
 Jordan Nicholas: daughter, my daughters was no thank you much, but No, thank you much o often with fear.
 
@@ -502,7 +502,7 @@ Jordan Nicholas: It was interesting when we were with, I really enjoyed our, tim
 
 just constant prayer, prayer before every meal, prayer before every move, prayer before anything. And it's just such a, deep connected sacred. Way to be moment through moment. And in the, in the, Western scriptures, in the, Bible, there's this concept of praying without ceasing.
 
-but it's that, beneath all the forms, there's just the existence and right relationship with, the spirit of God, with the, so it's, yeah, it's, really profound and encouraging to, to be with people that have been walking in those ways and unbroken traditions for, millennia. 
+but it's that, beneath all the forms, there's just the existence and right relationship with, the spirit of God, with the, so it's, yeah, it's, really profound and encouraging to, to be with people that have been walking in those ways and unbroken traditions for, millennia. 
 
 Jordan Nicholas: small things, big teachings. That makes me think though, that first part of, our conversation where it's man, that sounds, complex. how do we make it really simple? And it's, these cultures that have persisted for thousands of years have found ways to, to build, those understandings into each of the small things that are done, and repeated we've we're missing so much of that.
 

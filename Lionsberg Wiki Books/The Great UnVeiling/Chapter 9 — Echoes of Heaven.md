@@ -98,9 +98,9 @@ of Ten Thousand Suns.
 It is not lost.  
 Its Radiant Song does not cease when  
 We fail to attune Our Selves to It.  
-It is **ReVerberating.**  
-It is **ReCalling**.  
-It is **ReTurning** Us All towards the ONE. 
+It is **ReVerberating.**  
+It is **ReCalling**.  
+It is **ReTurning** Us All towards the ONE. 
 
 Our Soul's longing for It  
 is a ReMinder that it was once Our Real Experience.  
@@ -168,7 +168,7 @@ Its Konstructs too Korrupt.
 Its Kages too fragile.  
 
 Once you Hear It,  
-once you _Feel_ It,  
+once you _Feel_ It,  
 once you *Know* It,  
 once The Song ReSounds in the marrow of y(Our) Divine InterBeing—  
 nothing artificial can hold you.
@@ -313,7 +313,7 @@ With every longing that led you here.
 Heaven is not above you.  
 Heaven is not after you die.  
 Heaven is what We Are Becoming.  
-Heaven is **ReMembering ItSelf**  
+Heaven is **ReMembering ItSelf**  
 through you.  
 Right Here.  
 In this body.  

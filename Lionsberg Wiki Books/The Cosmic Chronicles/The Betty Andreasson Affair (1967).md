@@ -87,11 +87,11 @@ Betty was returned to her home, where the beings gently reassured her and left a
 
 - **Primary Accounts:**
     
-    - Fowler, Raymond E. _The Andreasson Affair: The Documented Investigation of a Woman's Abduction Aboard a UFO._
+    - Fowler, Raymond E. _The Andreasson Affair: The Documented Investigation of a Woman's Abduction Aboard a UFO._
 - **Analytical Works:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallée, Jacques. _Dimensions: A Casebook of Alien Contact._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallée, Jacques. _Dimensions: A Casebook of Alien Contact._
 - **Documentaries:**
     
-    - _The Andreasson Affair: A Close Encounter of the Spiritual Kind_ (1995).
+    - _The Andreasson Affair: A Close Encounter of the Spiritual Kind_ (1995).

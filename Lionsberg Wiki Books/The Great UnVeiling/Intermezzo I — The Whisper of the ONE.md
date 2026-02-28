@@ -42,7 +42,7 @@ But because you were chosen.
 
 And because you chose.  
 
-Yes—**you chose** to come here.  
+Yes—**you chose** to come here.  
 To this realm.  
 To this body.  
 To this shattered Reality.  
@@ -201,7 +201,7 @@ You are here to crack open the Cages.
 You are here to rip the chains from the Wall.  
 
 You are not here to fit in.  
-**You are here to _ReBuild Heaven on Earth._**  
+**You are here to _ReBuild Heaven on Earth._**  
 
 ---
 

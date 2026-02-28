@@ -5,23 +5,23 @@
 ## **Book I — The Story of LIONSBERG**
 _The MythoPoetic Container_
 
-- **[[The Story of LIONSBERG — Overview]]** — The whole story in a single frame.
+- **[[The Story of LIONSBERG — Overview]]** — The whole story in a single frame.
     
-- **[[Why We Are Here]]** — The origin and purpose of this moment.
+- **[[Why We Are Here]]** — The origin and purpose of this moment.
     
-- **[[What Is at Stake]]** — The risks, crises, and horizon of choice.
+- **[[What Is at Stake]]** — The risks, crises, and horizon of choice.
     
-- **[[The Cosmic Drama and Mythos]]** — The archetypal battle and unfurling  
+- **[[The Cosmic Drama and Mythos]]** — The archetypal battle and unfurling  
     
-- **[[Where the Path Leads]]** — The Goal of the Great Game.
+- **[[Where the Path Leads]]** — The Goal of the Great Game.
     
-- **[[Your Place in the Story]]** — Why you matter, here and now.
+- **[[Your Place in the Story]]** — Why you matter, here and now.
     
-- **[[True Myth]]** — How story becomes reality by being lived.
+- **[[True Myth]]** — How story becomes reality by being lived.
      
-- **[[The Archetypes of the Story]]** — Players, Shadows, Guides, Tricksters, and Keepers of the Flame.
+- **[[The Archetypes of the Story]]** — Players, Shadows, Guides, Tricksters, and Keepers of the Flame.
     
-- **[[The Living Symbols]]** — The sacred language of Lions, Flames, Gates, and Mountains.
+- **[[The Living Symbols]]** — The sacred language of Lions, Flames, Gates, and Mountains.
     
 
 ---
@@ -29,19 +29,19 @@ _The MythoPoetic Container_
 ## **Book II — The Universal Gameboard**
 _The Map of Reality_
 
-- **[[The Gameboard of Reality — Overview]]** — The universal field in which the Play unfolds.
+- **[[The Gameboard of Reality — Overview]]** — The universal field in which the Play unfolds.
     
-- **[[The Holofractal Field]]** — Nested wholeness of all systems and plays.
+- **[[The Holofractal Field]]** — Nested wholeness of all systems and plays.
     
-- **[[Inner and Outer Playfields]]** — How inner life and outer world mirror and mutually transform.
+- **[[Inner and Outer Playfields]]** — How inner life and outer world mirror and mutually transform.
     
-- **[[The Cosmology of Transformation]]** — Metaphysics and physics of change.
+- **[[The Cosmology of Transformation]]** — Metaphysics and physics of change.
     
-- **[[The Mirror of Inner and Outer Work]]** — Why transformation is two-sided.
+- **[[The Mirror of Inner and Outer Work]]** — Why transformation is two-sided.
     
-- **[[Time and Kairos]]** — Cyclical and sacred time vs. linear time.
+- **[[Time and Kairos]]** — Cyclical and sacred time vs. linear time.
     
-- **[[The Great Mountain and The Sacred Ascent]]** — How all maps converge on the Summit.
+- **[[The Great Mountain and The Sacred Ascent]]** — How all maps converge on the Summit.
     
 
 ---
@@ -49,17 +49,17 @@ _The Map of Reality_
 ## **Book III — The Vision of Success**
 _The Image of the Goal_
 
-- **[[The Vision of Success — Overview]]** — A preview of fulfillment.
+- **[[The Vision of Success — Overview]]** — A preview of fulfillment.
     
-- **[[Culture of the New Civilization]]** — The New Way of life that emerges.
+- **[[Culture of the New Civilization]]** — The New Way of life that emerges.
     
-- **[[Values of the New Civilization]]** — Principles that endure across Time and Space.
+- **[[Values of the New Civilization]]** — Principles that endure across Time and Space.
     
-- **[[The Experience of Heaven on Earth]]** — What it feels like when wholeness dawns.
+- **[[The Experience of Heaven on Earth]]** — What it feels like when wholeness dawns.
     
-- **[[The North Star — Diversity ReMembered and ReUnited in the ONE]]** — The guiding image that aligns us.
+- **[[The North Star — Diversity ReMembered and ReUnited in the ONE]]** — The guiding image that aligns us.
     
-- **[[The Jubilee Horizon]]** — The Ten-Year vision of liberation, rebirth and restoration.
+- **[[The Jubilee Horizon]]** — The Ten-Year vision of liberation, rebirth and restoration.
     
 
 ---
@@ -67,28 +67,28 @@ _The Image of the Goal_
 ## **Book IV — The Foundations of Play**
 _The Structures of the Game — Entering and Playing Well_
 
-- **[[Principles and Patterns of Play — Overview]]** — The ethos and scaffolding of The Game.
+- **[[Principles and Patterns of Play — Overview]]** — The ethos and scaffolding of The Game.
     
-- **[[Life Beyond The Boundary]]** — Orientation to the stark difference between Old World and New World existence.  
+- **[[Life Beyond The Boundary]]** — Orientation to the stark difference between Old World and New World existence.  
     
-- **[[Sovereign Conscious Agency]]** — Rights, freedoms, and responsibilities of each Player.
+- **[[Sovereign Conscious Agency]]** — Rights, freedoms, and responsibilities of each Player.
     
-- **[[Roles and Archetypes]]** — Who we become when we play.
+- **[[Roles and Archetypes]]** — Who we become when we play.
     
-- **[[The Three Supreme Agreements]]** — Love ONE, Love One Another, Love All.
+- **[[The Three Supreme Agreements]]** — Love ONE, Love One Another, Love All.
     
-- **[[Cultural Norms and Expectations]]** — How we show up, help, and not harm.
+- **[[Cultural Norms and Expectations]]** — How we show up, help, and not harm.
     
-- **[[Fields of Agreement]]** — Membranes and covenants that shape Domains.
+- **[[Fields of Agreement]]** — Membranes and covenants that shape Domains.
     
-- **[[Circles and Guilds]]** — Basic units of trust and collaboration.
+- **[[Circles and Guilds]]** — Basic units of trust and collaboration.
     
-- **[[Quests and Seasons]]** — Cycles of action, renewal, and alignment with Creation.
+- **[[Quests and Seasons]]** — Cycles of action, renewal, and alignment with Creation.
     
-- **[[Milestones and Measures]]** — How progress and impact are recognized.
+- **[[Milestones and Measures]]** — How progress and impact are recognized.
     
-- **[[Governance and Decision-Making]]** — How Circles decide, self-govern, and resolve conflicts.
-- **[[Guardianship and Security — Overview]]** — Protecting the Commons, values, and one another.
+- **[[Governance and Decision-Making]]** — How Circles decide, self-govern, and resolve conflicts.
+- **[[Guardianship and Security — Overview]]** — Protecting the Commons, values, and one another.
     
     - **[[Resilience and Defense Protocols]]**
         
@@ -98,7 +98,7 @@ _The Structures of the Game — Entering and Playing Well_
         
     - **[[Protecting the Vulnerable]]**
         
-- **[[The Mission and Convergence]]** — How we gather and synchronize into ONE.
+- **[[The Mission and Convergence]]** — How we gather and synchronize into ONE.
      
 
 ---
@@ -106,43 +106,43 @@ _The Structures of the Game — Entering and Playing Well_
 ## **Book V — The Plays and Protocols**
 _The Practical Moves_
 
-- **[[Plays and Protocols — Overview]]** — How intention becomes action
+- **[[Plays and Protocols — Overview]]** — How intention becomes action
     
-- **[[Rituals and Disciplines of Alignment]]** — Practices that anchor Spirit in daily life
+- **[[Rituals and Disciplines of Alignment]]** — Practices that anchor Spirit in daily life
     
-- **[[Templates for Circles and Quests]]** — Ready-to-use guides for immediate action
+- **[[Templates for Circles and Quests]]** — Ready-to-use guides for immediate action
     
-- **[[Group Structures]]** — Optimal group sizes, replication thresholds, federation into larger wholes.
+- **[[Group Structures]]** — Optimal group sizes, replication thresholds, federation into larger wholes.
     
-- **[[Everything Is a Project]]** — Treating all actions as projects for clarity and flow.
+- **[[Everything Is a Project]]** — Treating all actions as projects for clarity and flow.
     
-- **[[Proposals, Requests, and Submittals]]** — How distributed coordination happens.
+- **[[Proposals, Requests, and Submittals]]** — How distributed coordination happens.
     
-- **[[Minimum Standards of Interoperability]]** — Ensuring local work integrates globally.
+- **[[Minimum Standards of Interoperability]]** — Ensuring local work integrates globally.
     
-- **[[Self-Funding and Self-Sustaining]]** — Protocols for resourcing Quests without dependency
+- **[[Self-Funding and Self-Sustaining]]** — Protocols for resourcing Quests without dependency
     
-- **[[Stewardship and Legal Frameworks]]** — The tiers of structure (private association → PEVMA → Commons fiscal sponsorship → federated LLC → co-op / purpose trust, etc
+- **[[Stewardship and Legal Frameworks]]** — The tiers of structure (private association → PEVMA → Commons fiscal sponsorship → federated LLC → co-op / purpose trust, etc
     
-- **[[Scaling Pathways]]** — How the individual → circle → guild → local node → regional nodes → omnifederation pathway works
+- **[[Scaling Pathways]]** — How the individual → circle → guild → local node → regional nodes → omnifederation pathway works
     
-- **[[Federate Everything]]** — The cultural / practical protocol of folding all creations back into the Commons ecosystem.
+- **[[Federate Everything]]** — The cultural / practical protocol of folding all creations back into the Commons ecosystem.
     
-- **[[Commons Protocols, Tools, and Dashboards]]** — Coordination, transparency, and trust infrastructure
+- **[[Commons Protocols, Tools, and Dashboards]]** — Coordination, transparency, and trust infrastructure
     
-- **[[Finding Out What’s Happening]]** — Dispatches, lists, and especially person-to-person dialogue.
+- **[[Finding Out What’s Happening]]** — Dispatches, lists, and especially person-to-person dialogue.
     
-- **[[Practices of Right Relationship]]** — Living and working together in harmony
+- **[[Practices of Right Relationship]]** — Living and working together in harmony
     
-- **[[Emergency Preparedness and Response Protocols]]** — Food, water, safety, and community when systems fail
+- **[[Emergency Preparedness and Response Protocols]]** — Food, water, safety, and community when systems fail
     
-- **[[Healing and Restoration Protocols]]** — Tools for trauma, reconciliation, and collective healing
+- **[[Healing and Restoration Protocols]]** — Tools for trauma, reconciliation, and collective healing
     
-- **[[Creative Culture Protocols]]** — Art, music, ritual, and storytelling as engines of unity
+- **[[Creative Culture Protocols]]** — Art, music, ritual, and storytelling as engines of unity
     
-- **[[Joy, Beauty, and Celebration]]** — Feasts, sport, and play as sacred acts of renewal
+- **[[Joy, Beauty, and Celebration]]** — Feasts, sport, and play as sacred acts of renewal
     
-- **[[Passing the Flame]]** — How to invite, initiate, and replicate.
+- **[[Passing the Flame]]** — How to invite, initiate, and replicate.
     
 
 ---
@@ -150,35 +150,35 @@ _The Practical Moves_
 ## **Book VI — The Grand Strategy and Plan**
 _The Roadmap of Transition_
 
-- **[[The Grand Strategy — Overview]]** — The big picture of how the shift unfolds
+- **[[The Grand Strategy — Overview]]** — The big picture of how the shift unfolds
     
-- **[[From Sparks to Convergence]]** — How scattered efforts become One
+- **[[From Sparks to Convergence]]** — How scattered efforts become One
     
-- **[[The Role of the First Three Percent]]** — The pioneers who prepare the Path
+- **[[The Role of the First Three Percent]]** — The pioneers who prepare the Path
     
-- **[[Seasonal and Generational Rhythms]]** — Timing The Game with the rhythms of Creation
+- **[[Seasonal and Generational Rhythms]]** — Timing The Game with the rhythms of Creation
     
-- **[[Hospicing the Old, Midwifing the New]]** — Navigating thresholds between eras
+- **[[Hospicing the Old, Midwifing the New]]** — Navigating thresholds between eras
     
-- **[[The Planetary Transition Plan]]** — The arc from Old to New Civilization
+- **[[The Planetary Transition Plan]]** — The arc from Old to New Civilization
     
-- **[[The Commons Economy (LUV and Beyond)]]** — How value and exchange flow in the New
+- **[[The Commons Economy (LUV and Beyond)]]** — How value and exchange flow in the New
     
-- **[[Aggregating The First Tenth]]** — Pooling energy for the Commons.
+- **[[Aggregating The First Tenth]]** — Pooling energy for the Commons.
     
-- **[[Ecosystemic Resource Flows]]** — How resources circulate across the federation.
+- **[[Ecosystemic Resource Flows]]** — How resources circulate across the federation.
     
-- **[[System-Wide Master Planning Process]]** — Revealing the Critical Path.
+- **[[System-Wide Master Planning Process]]** — Revealing the Critical Path.
     
-- **[[Proof of Progress and Victory Conditions]]** — Shared dashboards and visible wins to sustain morale
+- **[[Proof of Progress and Victory Conditions]]** — Shared dashboards and visible wins to sustain morale
     
-- **[[Intergenerational Transmission]]** — Ensuring teachings, rituals, and values survive and spread across generations
+- **[[Intergenerational Transmission]]** — Ensuring teachings, rituals, and values survive and spread across generations
     
-- **[[Ritual Calendar]]** — lived rhythms and cycles that embody the Culture in Time 
+- **[[Ritual Calendar]]** — lived rhythms and cycles that embody the Culture in Time 
     
-- **[[Evolving the Playbook]]** — Protocols for refining and adapting the Game itself
+- **[[Evolving the Playbook]]** — Protocols for refining and adapting the Game itself
     
-- **[[The Cosmic Implications and Extensions]]** — Beyond Earth — interstellar, interdimensional horizons of the Great Game
+- **[[The Cosmic Implications and Extensions]]** — Beyond Earth — interstellar, interdimensional horizons of the Great Game
     
 
 
@@ -187,17 +187,17 @@ _The Roadmap of Transition_
 ## **Book VII — The Living Map**
 _The Continuously Evolving Picture_
 
-- **[[The Living Map — Overview]]** — The shared compass.
+- **[[The Living Map — Overview]]** — The shared compass.
     
-- **[[Where We Are Now]]** — Our present place on the Path.
+- **[[Where We Are Now]]** — Our present place on the Path.
     
-- **[[Interweaving Efforts and Quests]]** — How local acts become global change.
+- **[[Interweaving Efforts and Quests]]** — How local acts become global change.
     
-- **[[The Commons Layer and Dashboards]]** — Transparency of movement.
+- **[[The Commons Layer and Dashboards]]** — Transparency of movement.
     
-- **[[Shared Orientation Toward the Goal]]** — Keeping eyes on the Summit.
+- **[[Shared Orientation Toward the Goal]]** — Keeping eyes on the Summit.
     
-- **[[Replication and Renewal Protocols]]** — How to restart anywhere, anytime, with anyone.
+- **[[Replication and Renewal Protocols]]** — How to restart anywhere, anytime, with anyone.
     
 
 ---
@@ -205,7 +205,7 @@ _The Continuously Evolving Picture_
 ## **The Eighth Gate — Threshold to The Endless Cosmic Game**
 _A ReMembrance of Our Place among All in ONE_
 
-- **The Great ReMembering** 
+- **The Great ReMembering** 
 	- Humanity has been cut off from its memory of Our Cosmic origins, role, and destiny  
 	- Awakening, Rediscovery and ReMembrance as an initiatory test 
 	- Recalling that Earth is not the Center, but one cell in a vast Body.
@@ -214,20 +214,20 @@ _A ReMembrance of Our Place among All in ONE_
 	- Recalling the ability of the human template to access and channel non-local Spirit, Consciousness, Energy and Force  
 	- Recalling why The Kontrollers fear humanity and desperately seek to keep it enslaved  
     
-- **The Great Invitation** 
+- **The Great Invitation** 
 	- to be liberated from the caves  
 	- to undertake the Journey towards the New World and climb The Sacred Mountain together  
 	- to co-create a New Civilization by localizing, adapting, and embodying The Pattern Language already operative throughout the Cosmic Order  
 	- to rejoin intergalactic and interdimensional civilization, once we prove worthy by stewarding our birthplace and setting this sanctuary back in proper order.
 	- The Creator is inviting Us All to consciously rejoin the great work of Co-Creating Reality ItSelf  
     
-- **The Great Responsibility** — that cosmic participation is contingent upon regenerating Earth, harmonizing humanity, realigning with the Logos, and embodying the New Civilization. It is an initiatory force — you don’t _earn_ the cosmic horizon until you embody the earthly one.
+- **The Great Responsibility** — that cosmic participation is contingent upon regenerating Earth, harmonizing humanity, realigning with the Logos, and embodying the New Civilization. It is an initiatory force — you don’t _earn_ the cosmic horizon until you embody the earthly one.
     
-- **The Great Integration** — that the microcosm (cell, body, soul) and the macrocosm (galaxy, dimension, cosmos) mirror one another, and that the ONE is always already Here and Now.
+- **The Great Integration** — that the microcosm (cell, body, soul) and the macrocosm (galaxy, dimension, cosmos) mirror one another, and that the ONE is always already Here and Now.
     
-- **The Great Ascent** — pointing back to The Sacred Ascent: the inner disciplines that prepare each soul to move simultaneously outward and inward into infinite domains.
+- **The Great Ascent** — pointing back to The Sacred Ascent: the inner disciplines that prepare each soul to move simultaneously outward and inward into infinite domains.
     
-- **The Great Story** — The Story of LIONSBERG not just as a planetary movement, but as the living epic of ONE Body, All Realms, All Times, All Beings, incarnating Here and Now, for such a Time as This. The Story of LIONSBERG is not something you read — it is something you now find yourself inside. It is The Story of ONE, of All, of you, and of Us, Here and Now, Together. This is not a myth you watch — it is a myth you embody. You are written into the Living Epic as its protagonist.
+- **The Great Story** — The Story of LIONSBERG not just as a planetary movement, but as the living epic of ONE Body, All Realms, All Times, All Beings, incarnating Here and Now, for such a Time as This. The Story of LIONSBERG is not something you read — it is something you now find yourself inside. It is The Story of ONE, of All, of you, and of Us, Here and Now, Together. This is not a myth you watch — it is a myth you embody. You are written into the Living Epic as its protagonist.
     
 
 ____
@@ -307,54 +307,54 @@ TKTK Roles
 # OTHERS ATTEMPTS 
 ## **What Lies Within**
 
-The Playbook reveals itself across **Seven Books** —  
+The Playbook reveals itself across **Seven Books** —  
 not dead chapters of ink, but living archetypes:
 
-1. **The Story** — The unifying Narrative that binds us: why we are here, what is at stake, and where the Path leads.
+1. **The Story** — The unifying Narrative that binds us: why we are here, what is at stake, and where the Path leads.
     
-2. **The Gameboard** — The cosmology and holofractal field in which the Great Game unfolds.
+2. **The Gameboard** — The cosmology and holofractal field in which the Great Game unfolds.
     
-3. **The Vision** — A mythic Image of the New Civilization: its culture, its values, its rhythms, its ethos, its song.
+3. **The Vision** — A mythic Image of the New Civilization: its culture, its values, its rhythms, its ethos, its song.
     
-4. **The Patterns and Protocols** — The Patterns of Play: Roles, Circles, Quests, Seasons, Mission, Convergence, Goal.
+4. **The Patterns and Protocols** — The Patterns of Play: Roles, Circles, Quests, Seasons, Mission, Convergence, Goal.
     
-5. **The Plays** — The rituals, practices, and protocols that turn intention into embodied reality.
+5. **The Plays** — The rituals, practices, and protocols that turn intention into embodied reality.
     
-6. **The Plan** — The Grand Strategy: from scattered sparks to planetary Convergence to the dawn of the New Civilization.
+6. **The Plan** — The Grand Strategy: from scattered sparks to planetary Convergence to the dawn of the New Civilization.
     
-7. **The Living Map** — The evolving picture of where we are, where we are going, and the unfolding Path.
+7. **The Living Map** — The evolving picture of where we are, where we are going, and the unfolding Path.
     
 
 
 ## **Clarifying the Role of the Playbook**
 
-- **[[The LIONSBERG Experience]]** = the _whole journey_.  
+- **[[The LIONSBERG Experience]]** = the _whole journey_.  
     Arrival → Initiation → Playbook → Ascent → Codex → Reference → Eternal Game.
     
-- **The LIONSBERG Playbook** = the _practical, middle sequence_.  
-    It focuses on **how to play the Great Game here and now**.
+- **The LIONSBERG Playbook** = the _practical, middle sequence_.  
+    It focuses on **how to play the Great Game here and now**.
     
-    - It is **pragmatic**: circles, quests, protocols, commons, community.
+    - It is **pragmatic**: circles, quests, protocols, commons, community.
         
-    - It is **adaptive**: updating as Players refine and evolve the Game.
+    - It is **adaptive**: updating as Players refine and evolve the Game.
         
-    - It is **linked**: flowing out of **The Gates of Initiation**, pointing upward to **The Codex** (deep metaphysics, law, and blueprint), inward to **The Ascent** (transformation, discipline, and mastery), and onward to **The Eternal Game**.
+    - It is **linked**: flowing out of **The Gates of Initiation**, pointing upward to **The Codex** (deep metaphysics, law, and blueprint), inward to **The Ascent** (transformation, discipline, and mastery), and onward to **The Eternal Game**.
         
 
-Think of it as the **toolkit of the Players** — where intention becomes embodiment, vision becomes action, and action builds the New.
+Think of it as the **toolkit of the Players** — where intention becomes embodiment, vision becomes action, and action builds the New.
 
 ---
 
 ## **The Seven Books of the Playbook**
 
-The Playbook unfolds across **seven interwoven Books**.  
+The Playbook unfolds across **seven interwoven Books**.  
 Each Book is a Gate.  
 Each Gate contains Patterns, Practices, and Quests.  
 Together, they form the practical architecture of the Great Game.
 
 ---
 
-### 🜂 **Book I — The Story of LIONSBERG**
+### 🜂 **Book I — The Story of LIONSBERG**
 
 _The Narrative Container_
 
@@ -369,7 +369,7 @@ _The Narrative Container_
 
 ---
 
-### 🜁 **Book II — The Universal Gameboard**
+### 🜁 **Book II — The Universal Gameboard**
 
 _The Map of Reality_
 
@@ -382,7 +382,7 @@ _The Map of Reality_
 
 ---
 
-### 🜃 **Book III — The Vision of Success**
+### 🜃 **Book III — The Vision of Success**
 
 _The Image of the Goal_
 
@@ -395,7 +395,7 @@ _The Image of the Goal_
 
 ---
 
-### 🜄 **Book IV — The Patterns of Play**
+### 🜄 **Book IV — The Patterns of Play**
 
 _The Structures of the Game_
 
@@ -410,7 +410,7 @@ _The Structures of the Game_
 
 ---
 
-### 🜅 **Book V — The Plays and Protocols**
+### 🜅 **Book V — The Plays and Protocols**
 
 _The Practical Moves_
 
@@ -425,7 +425,7 @@ _The Practical Moves_
 
 ---
 
-### 🜆 **Book VI — The Grand Strategy and Plan**
+### 🜆 **Book VI — The Grand Strategy and Plan**
 
 _The Roadmap of Transition_
 
@@ -442,7 +442,7 @@ _The Roadmap of Transition_
 
 ---
 
-### 🜇 **Book VII — The Living Map**
+### 🜇 **Book VII — The Living Map**
 
 _The Continuously Evolving Picture_
 

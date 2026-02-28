@@ -55,7 +55,7 @@ Five days later, Walton reappeared near a gas station, disoriented and confused.
 - **Skeptical Theories:**
     - Critics proposed explanations ranging from psychological phenomena to an elaborate hoax, though these fail to account for the corroborated sightings and Walton's condition upon return.
 - **Public Attention:**
-    - The case became a media sensation, inspiring books, documentaries, and the Hollywood film _Fire in the Sky_(1993).
+    - The case became a media sensation, inspiring books, documentaries, and the Hollywood film _Fire in the Sky_(1993).
 
 ---
 
@@ -83,12 +83,12 @@ Five days later, Walton reappeared near a gas station, disoriented and confused.
 
 - **Primary Accounts:**
     
-    - Walton, Travis. _Fire in the Sky: The Walton Experience._
+    - Walton, Travis. _Fire in the Sky: The Walton Experience._
 - **Documentaries:**
     
     - _Travis: The True Story of Travis Walton._
 - **Analytical Works:**
     
-    - Clark, Jerome. _The UFO Encyclopedia._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Clark, Jerome. _The UFO Encyclopedia._
+    - Dolan, Richard. _UFOs and the National Security State._
 

@@ -8,10 +8,10 @@ After millennia of deceit, centuries of subversion, and generations of neglect, 
 
 The [[Existing Order]] is:
 
-1. **Fraudulent** in its inception
-2. **Evil** in its intent
-3. **Dominated** by Non-Human Intelligence (NHI)
-4. **Collapsing** by design
+1. **Fraudulent** in its inception
+2. **Evil** in its intent
+3. **Dominated** by Non-Human Intelligence (NHI)
+4. **Collapsing** by design
 
 Out of the [[Chaos]], a dystopian [[Tyranny]] is slated to rise: [[The Final Order]].
 
@@ -21,8 +21,8 @@ The forces of [[The Dark Empires]] thrive on inversion and deceit, veiling their
 
 These opposing forces converge in [[The Great UnVeiling]] and [[The War]] for the future of humanity’s hearts, minds, and souls.
 
-- **[[The Dark Empires]]** aim for [[Full Spectrum Dominance]] of the Earth and Beyond, reducing humanity to permanent genetic and psychic slavery.
-- **[[The Force For Good]]** seeks to awaken and unite humanity to reclaim its [[Divine Origins, Purpose, and Destiny]], heal the Earth, and co-create a flourishing [[New Civilization]].
+- **[[The Dark Empires]]** aim for [[Full Spectrum Dominance]] of the Earth and Beyond, reducing humanity to permanent genetic and psychic slavery.
+- **[[The Force For Good]]** seeks to awaken and unite humanity to reclaim its [[Divine Origins, Purpose, and Destiny]], heal the Earth, and co-create a flourishing [[New Civilization]].
 
 ### **The Great Question and The Final Test**
 
@@ -42,7 +42,7 @@ The result: fragmented resistance unable to transform the root causes of sufferi
 
 What is the [[One Thing]]—seen as impossible—that, if achieved, would change everything and pave the [[Way]] toward [[The Goal]]?
 
-The answer is clear: _**UNITY between [[ONE]] and [[All]].**_
+The answer is clear: _**UNITY between [[ONE]] and [[All]].**_
 
 This is [[The Answer]] to [[The Great Question]]. 
 It is [[The Key]] to [[The Final Test]]. 
@@ -107,7 +107,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 
 This is more than an invitation; it is a once-in-millennia opportunity to rise, unite, and co-create a [[New Civilization]]. 
 
-Your unique gifts, vision, and courage are vital to this Mission. The [[Force For Good]] cannot rise without You. Take the first step today. [RSVP Here](X) to join a growing [[Force For Good]] and begin [[The Sacred Ascent]].
+Your unique gifts, vision, and courage are vital to this Mission. The [[Force For Good]] cannot rise without You. Take the first step today. [RSVP Here](X) to join a growing [[Force For Good]] and begin [[The Sacred Ascent]].
 
 The time is now, and the future awaits Us. [[Together, We Rise]].
 

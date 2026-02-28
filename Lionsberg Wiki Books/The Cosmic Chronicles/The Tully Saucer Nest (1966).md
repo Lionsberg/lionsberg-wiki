@@ -100,14 +100,14 @@ Intrigued and unnerved, Pedley approached the lagoon to investigate. He discover
 
 - **Books:**
     
-    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Articles:**
     
     - Case studies in Australian UFO research archives.
     - Analyses of physical trace cases involving UFOs.
 - **Documentaries:**
     
-    - _The Tully Saucer Nest: Australia’s UFO Mystery_ – An exploration of the incident and its implications.
+    - _The Tully Saucer Nest: Australia’s UFO Mystery_ – An exploration of the incident and its implications.
 - 
 

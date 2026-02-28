@@ -6,7 +6,7 @@
 
 Across the vast expanse of human history, sacred texts and timeless wisdom have served as guiding lights for the human journey—beacons that illuminate our connection to the Creator, to One Another, and to All Creation. Yet, through the passage of Time, many of these simple and profound Truths have been obscured, fragmented, or misunderstood, dividing human understanding and leaving Us yearning for a deeper connection to Our origins, purpose, and Destiny.
 
-_**Threads of Eternity**_ is a project born of this longing. It seeks to rediscover, resurrect, and reweave the profound insights of ancient and modern Wisdom into a living tapestry of understanding for humanity’s present and future. By harmonizing the most Sacred and revered voices of the past with the challenges, opportunities, and needs of today, We aim to restore the Sacred and invite a New Era of Harmony, Coherence, and Co-Creation. 
+_**Threads of Eternity**_ is a project born of this longing. It seeks to rediscover, resurrect, and reweave the profound insights of ancient and modern Wisdom into a living tapestry of understanding for humanity’s present and future. By harmonizing the most Sacred and revered voices of the past with the challenges, opportunities, and needs of today, We aim to restore the Sacred and invite a New Era of Harmony, Coherence, and Co-Creation. 
 
 ---
 
@@ -35,7 +35,7 @@ To weave the threads of sacred texts, philosophical traditions, and contemporary
 
 ### **Scope of the Project**
 
-_Threads of Eternity_ begins with the Tao Te Ching, a timeless exploration of the Dao—the Infinite Way of existence. From there, We will expand to include other sacred texts and wisdom traditions, approaching each with reverence, curiosity, and a commitment to ongoing revelation and co-creation.
+_Threads of Eternity_ begins with the Tao Te Ching, a timeless exploration of the Dao—the Infinite Way of existence. From there, We will expand to include other sacred texts and wisdom traditions, approaching each with reverence, curiosity, and a commitment to ongoing revelation and co-creation.
 
 Every text will be explored in a way that honors its origins while inviting New interpretations and insights that speak to the present moment. This process will unfold progressively, creating a Living Library of Wisdom for humanity.
 

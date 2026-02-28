@@ -91,9 +91,9 @@ The media sensationalized the incident, with headlines referring to an “air ra
     - Newspaper archives and military statements from February 1942.
 - **Analytical Works:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Historical Overviews:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Randle, Kevin D. _Project Blue Book Exposed._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Randle, Kevin D. _Project Blue Book Exposed._

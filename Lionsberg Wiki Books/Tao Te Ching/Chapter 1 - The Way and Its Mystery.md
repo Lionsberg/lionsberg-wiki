@@ -2,9 +2,9 @@
 
 ### **Introduction to Chapter 1: The Way and Its Mystery**
 
-The opening chapter of the Tao Te Ching begins with paradoxes that challenge our preconceptions and beliefs. The _Dao_—the infinite, eternal Way of the One—is beyond words, beyond naming, and yet it flows through All that exists. This chapter invites Us to explore the interplay of the Nameless and the Named: the unmanifest Source of All things and its luminous expressions in the world of form.
+The opening chapter of the Tao Te Ching begins with paradoxes that challenge our preconceptions and beliefs. The _Dao_—the infinite, eternal Way of the One—is beyond words, beyond naming, and yet it flows through All that exists. This chapter invites Us to explore the interplay of the Nameless and the Named: the unmanifest Source of All things and its luminous expressions in the world of form.
 
-Through these verses, We are introduced to the _Mystery of Mysteries_—the infinite depths of the Dao, which both veil and unveil the Gateway to All Wonders. The text invites Us not only to contemplate but also to participate in this unfolding Mystery of Our Interexistence. As We engage with these reflections, let Us consider the ways in which the Dao resonates with Our life and the interconnected dance of co-creation that is a part of Us, and in which We play an Apparently Individuated role.
+Through these verses, We are introduced to the _Mystery of Mysteries_—the infinite depths of the Dao, which both veil and unveil the Gateway to All Wonders. The text invites Us not only to contemplate but also to participate in this unfolding Mystery of Our Interexistence. As We engage with these reflections, let Us consider the ways in which the Dao resonates with Our life and the interconnected dance of co-creation that is a part of Us, and in which We play an Apparently Individuated role.
 
 ---
 

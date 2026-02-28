@@ -84,9 +84,9 @@ The children, frightened yet fascinated, ran to inform teachers, who initially d
     - Interviews conducted by Dr. John Mack and local researchers.
 - **Documentaries:**
     
-    - _The Ariel Phenomenon_ (2022) – A documentary exploring the encounter and its aftermath.
+    - _The Ariel Phenomenon_ (2022) – A documentary exploring the encounter and its aftermath.
 - **Analytical Works:**
     
-    - Mack, John E. _Passport to the Cosmos: Human Transformation and Alien Encounters._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Mack, John E. _Passport to the Cosmos: Human Transformation and Alien Encounters._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 

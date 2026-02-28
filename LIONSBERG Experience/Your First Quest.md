@@ -1,15 +1,15 @@
 # Your First Quest
 
-You have found **[[Your Role in the Story]]**.  
-You are gathering in **[[Circles and Guilds]]**.  
-You have anchored in **[[The First Practice]]**.  
+You have found **[[Your Role in the Story]]**.  
+You are gathering in **[[Circles and Guilds]]**.  
+You have anchored in **[[The First Practice]]**.  
 
 The time has come to cross **The Next Threshold**.  
 To move from intention into **Embodiment**,  
 From knowing into **Doing**,  
 From preparation into **Practice**.
 
-This is the mystery and power of **Your First Quest**.  
+This is the mystery and power of **Your First Quest**.  
 It is the initiation where Players become **Practitioners**,  
 And where the New Civilization begins to take **Embodied Form**.
 
@@ -17,16 +17,16 @@ And where the New Civilization begins to take **Embodied Form**.
 
 ## What is a Quest?
 
-A **Quest** is not a task.  
+A **Quest** is not a task.  
 It is a **Movement of Spirit and Soul**  
 Through your life and your Circle  
-Toward **A Goal of Great Worth**.
+Toward **A Goal of Great Worth**.
 
-Every Quest is both **Inner** and **Outer**:
+Every Quest is both **Inner** and **Outer**:
 
-- **Inner** — it stretches, awakens, and transforms you.
+- **Inner** — it stretches, awakens, and transforms you.
     
-- **Outer** — it leaves a mark on the world in service of ONE and All.
+- **Outer** — it leaves a mark on the world in service of ONE and All.
     
 
 A Quest is a microcosm of The Great Story:  
@@ -43,18 +43,18 @@ _This is how We Progress towards The Goal._
 ## The Pattern of the First Quest
 
 **Your First Quest** need not be grand.  
-It only needs to be **real** and **true** — 
+It only needs to be **real** and **true** — 
 A seed of Spirit you are ready to **Embody** and **Enact**.
 
 Choose something that:
 
-- You and your Circle can **actually complete** within a **clear time frame**.
+- You and your Circle can **actually complete** within a **clear time frame**.
     
-- Aligns with your **Circle**, your **Role**, your **Covenant**, and **The First Practice**.
+- Aligns with your **Circle**, your **Role**, your **Covenant**, and **The First Practice**.
     
 - Brings a real measure of **Goodness**, **Beauty**, or **Justice** into the world.
     
-- Teaches you how to walk, decide, and embody the **New Patterns** together.
+- Teaches you how to walk, decide, and embody the **New Patterns** together.
     
 
 Examples might include:
@@ -77,7 +77,7 @@ Examples might include:
     
 
 The point is not scale.  
-The point is **beginning the rhythm of embodied action**.  
+The point is **beginning the rhythm of embodied action**.  
 As your Practice and Circles mature,  
 The sophistication and impact of your Quests  
 Will naturally grow with you.  
@@ -128,8 +128,8 @@ With the First Quest you dare to undertake.
 ## How to Choose Your First Quest
 
 Gather with your **Circle**.  
-Open with **The First Practice**.  
-Then **Dialog and Discern** together:
+Open with **The First Practice**.  
+Then **Dialog and Discern** together:
 
 - What need do we sense most strongly around us?
     
@@ -151,7 +151,7 @@ Remember: Spirit is present in the room with you.
 Weave Spirit, Hearts, and Minds.  
 Speak only from the True Center of your Being.  
 If something is not clear, wait in silence.  
-When clarity emerges, **commit together**.  
+When clarity emerges, **commit together**.  
 Name the Quest.  
 Define the steps.  
 Set a time frame.  
@@ -196,5 +196,5 @@ Into **The Greater Mission** —
 The convergence of all Quests into the Great Work  
 Of regenerating Earth and co-creating the **New Civilization**.
 
-The Next Gate is **[[The Mission]]** —  
+The Next Gate is **[[The Mission]]** —  
 Where the spiral of Quests rises into the Great Work of our Age.

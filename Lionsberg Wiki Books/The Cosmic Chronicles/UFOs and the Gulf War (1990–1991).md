@@ -97,6 +97,6 @@ The Gulf War UFO encounters remain an underexplored chapter in the history of mi
     - Pilots' testimonies in Gulf War archives.
     - Reports on AWACS radar anomalies during Operation Desert Storm.
 - **Research and Analysis**:
-    - Dolan, Richard. _UFOs and the National Security State_
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record_
+    - Dolan, Richard. _UFOs and the National Security State_
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record_
 

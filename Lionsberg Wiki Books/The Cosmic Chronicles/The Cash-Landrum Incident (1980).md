@@ -91,6 +91,6 @@ Attempts to obtain information from the U.S. government about the helicopters an
     - _UFO Cover-Up: The Cash-Landrum Incident._
 - **Analytical Works:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 

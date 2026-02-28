@@ -112,13 +112,13 @@ Many witnesses were experienced pilots, police officers, and engineers, lending 
 
 - **Books:**
     
-    - Hynek, J. Allen, and Imbrogno, Philip J. _Night Siege: The Hudson Valley UFO Sightings._
-    - Davenport, Peter. _UFO Encounters Over New York._
+    - Hynek, J. Allen, and Imbrogno, Philip J. _Night Siege: The Hudson Valley UFO Sightings._
+    - Davenport, Peter. _UFO Encounters Over New York._
 - **Documentaries:**
     
-    - _The Hudson Valley UFO Wave_ (History Channel).
+    - _The Hudson Valley UFO Wave_ (History Channel).
 - **Web Resources:**
     
-    - NUFORC Hudson Valley Reports: [https://www.nuforc.org](https://www.nuforc.org/)
-    - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
+    - NUFORC Hudson Valley Reports: [https://www.nuforc.org](https://www.nuforc.org/)
+    - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
 

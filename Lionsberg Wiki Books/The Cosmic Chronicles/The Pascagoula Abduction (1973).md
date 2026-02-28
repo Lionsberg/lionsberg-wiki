@@ -87,12 +87,12 @@ Hickson and Parker immediately went to the local sheriff’s office to report th
 
 - **Primary Accounts:**
     
-    - Hickson, Charles. _UFO Contact at Pascagoula: My Story._
+    - Hickson, Charles. _UFO Contact at Pascagoula: My Story._
 - **Documentaries:**
     
-    - _The Pascagoula UFO Incident_ (2019).
+    - _The Pascagoula UFO Incident_ (2019).
 - **Analytical Works:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 

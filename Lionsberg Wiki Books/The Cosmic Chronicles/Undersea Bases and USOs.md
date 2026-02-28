@@ -115,8 +115,8 @@ If undersea bases are indeed operational hubs for extraterrestrial or interdimen
 
 - **Books:**
     
-    - Keel, John. _The Mothman Prophecies_ (includes USO discussions).
-    - Vallee, Jacques. _Revelations: Alien Contact and Human Deception._
+    - Keel, John. _The Mothman Prophecies_ (includes USO discussions).
+    - Vallee, Jacques. _Revelations: Alien Contact and Human Deception._
 - **Documentaries:**
     
     - _The Phenomenon_

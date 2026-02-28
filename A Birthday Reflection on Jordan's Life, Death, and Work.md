@@ -581,7 +581,7 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 (_The Flow of Value as Sacred Energy for Regeneration and Abundance_ — Replacing scarcity and extraction with systems of regenerative reciprocity, stewardship, and flourishing for All.)
 
 #### Chapter 68. Pillar IV — Sacred Learning and Mastery
-(_Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lifetimes_ — Restoring education as a lifelong journey of becoming—awakening natural genius, character, and contribution.)
+(_Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lifetimes_ — Restoring education as a lifelong journey of becoming—awakening natural genius, character, and contribution.)
 
 #### Chapter 69. Pillar V — Sacred Health and Wellness
 (_Restoring the Temple of the Body and the Harmony of Spirit, Mind, and Nature_ — Healing the split between body and spirit, and regenerating vitality through coherent, integrative systems of care.)
@@ -599,13 +599,13 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 (_Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Create_ — Designing sacred spaces, services, and goods that uplift the spirit, honor Nature, and reflect the harmony of Creation.)
 
 #### Chapter 74. Pillar X — Sacred Security and Order
-(_Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_ — Ensuring safety and proper order through integrity, justice, and strength in service of ONE and All.)  
+(_Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_ — Ensuring safety and proper order through integrity, justice, and strength in service of ONE and All.)  
 
 #### Chapter 75. Pillar XI — Sacred Society and Justice
-(_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_ — Healing division through truth, love, reconciliation, and the conscious harmonization of opposites in their inherent Higher Order Unity.)
+(_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_ — Healing division through truth, love, reconciliation, and the conscious harmonization of opposites in their inherent Higher Order Unity.)
 
 ### Chapter 76. Pillar XII — Sacred Time, Rhythm, and Celebration
-(_Living in Sync with the Cosmic Calendar of Life, Regeneration, and Joy_ — Aligning individual and collective life with the rhythms of Nature, Creation, and the Joy of being alive.)
+(_Living in Sync with the Cosmic Calendar of Life, Regeneration, and Joy_ — Aligning individual and collective life with the rhythms of Nature, Creation, and the Joy of being alive.)
 
 #### Chapter 77. The ONE — Eternal Source, Center, and Fulfillment of All
 (*The Source, the Goal, and the Living Center of All* — The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero Point, and the 13th: the ONE Source of All That Is. This is the living heart of the New Civilization. All coherence, meaning, and power flows from and returns to this eternal Center.)

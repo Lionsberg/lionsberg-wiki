@@ -42,7 +42,7 @@ The Existing Order, through deliberate and systematic corruption and deception, 
 * Manufacture of endless war, suffering, and terror for self-serving profit and kontrolle.  
 * Economic exploitation and enslavement through fraudulent debts, manipulative money, coercive taxation, and the imposition of artificial scarcity.  
 * Imposition of oppressive taxation and tithing regimes on populations without their consent.  
-* The weaponization of governance, law, and justice systems to protect the corrupt and oppress the innocent.  
+* The weaponization of governance, law, and justice systems to protect the corrupt and oppress the innocent.  
 * Violations of bodily autonomy through forced medical experiments, sterilization, and genetic interference.  
 * Systematic abduction, enslavement, human trafficking, and ritualistic abuse perpetrated upon countless innocents.  
 * Sanctioning, protecting, and orchestrating child trafficking, child pornography, and pedophilia rings for purposes associated with occultic ritual abuse.  

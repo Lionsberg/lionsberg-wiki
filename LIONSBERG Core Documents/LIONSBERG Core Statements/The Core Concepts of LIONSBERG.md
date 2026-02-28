@@ -2,15 +2,15 @@
 
 ### **The Foundations of a New Civilization**
 
-LIONSBERG is built upon **Core Concepts**—principles, values, frameworks, and fundamental Truths that form the **bedrock of The New Civilization**.
+LIONSBERG is built upon **Core Concepts**—principles, values, frameworks, and fundamental Truths that form the **bedrock of The New Civilization**.
 
-These are not **theories**.  
-These are not **philosophies**.  
-These are **Reality-aligned Truths**—the **Living Code** from which We **restore, rebuild, and co-create** the world as it was always meant to be.
+These are not **theories**.  
+These are not **philosophies**.  
+These are **Reality-aligned Truths**—the **Living Code** from which We **restore, rebuild, and co-create** the world as it was always meant to be.
 
-By integrating these principles into **thought, word, and action**, We align with the **[[Creator's Intent]]** and activate **Heaven on Earth.**
+By integrating these principles into **thought, word, and action**, We align with the **[[Creator's Intent]]** and activate **Heaven on Earth.**
 
-The following are among the **Core Concepts of LIONSBERG.**
+The following are among the **Core Concepts of LIONSBERG.**
 
 ---
 
@@ -19,9 +19,9 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **1. One and All**
 
 - **The First Principle. The Final Truth.**
-- We are **individually sovereign** yet **eternally interconnected**.
+- We are **individually sovereign** yet **eternally interconnected**.
 - **There is no separation—only interexistence and illusion.**
-- To serve **[[ONE]] is to serve [[All]].**
+- To serve **[[ONE]] is to serve [[All]].**
 
 > _**"One for All, and All for One."**_
 
@@ -30,8 +30,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **2. Sovereignty & Self-Governance**
 
 - **We do not wait for permission to be Free.**
-- True **Authority comes from within, not from external systems of kontrolle.**
-- Each Individual, Family, and Community is **capable of governing itself**, within the bounds of **Love and Universal Law.**
+- True **Authority comes from within, not from external systems of kontrolle.**
+- Each Individual, Family, and Community is **capable of governing itself**, within the bounds of **Love and Universal Law.**
 
 > _**"We Are Sovereign. We Are Free."**_
 
@@ -49,8 +49,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **4. The Great Work: Co-Creating Heaven on Earth**
 
-- We are not here to **survive or obey**—We are here to **Co-Create [[Heaven On Earth]].**
-- Our Work is to **manifest the Divine [[Pattern Language]]** in the material world.
+- We are not here to **survive or obey**—We are here to **Co-Create [[Heaven On Earth]].**
+- Our Work is to **manifest the Divine [[Pattern Language]]** in the material world.
 - **We Build Together. We Prevail Together.**
 
 > _**"Heaven is not a distant place. It is a Reality We must co-create Here and Now."**_
@@ -62,8 +62,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **5. The LIONSBERG System**
 
 - **LIONSBERG is an emergent Living System.**
-- It is **not an institution, not a government, not a movement—it is a Meta System of Sovereign Networks and Nodes.**
-- It is built on **Self-Governance, Fractal Design, and Mutual Aid,** operating holonically across the Cosmos. 
+- It is **not an institution, not a government, not a movement—it is a Meta System of Sovereign Networks and Nodes.**
+- It is built on **Self-Governance, Fractal Design, and Mutual Aid,** operating holonically across the Cosmos. 
 
 > _**"The System is Us."**_
 
@@ -71,8 +71,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **6. The First Three Percent**
 
-- In every community, there exists **a small subset of awakened, capable individuals** who must rise first.
-- These are the **Builders, Guardians, and Wayfinders** of The New Civilization.
+- In every community, there exists **a small subset of awakened, capable individuals** who must rise first.
+- These are the **Builders, Guardians, and Wayfinders** of The New Civilization.
 - **We are not waiting for the world to change. We are consciously transforming it.**
 
 > _**"The First Three Percent must rise, or all will fall."**_
@@ -82,9 +82,9 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **7. The Hubs & Arks**
 
 - **The Ark is the Sanctuary. The Hub is the Network.**
-- **Hubs** store knowledge, resources, solutions and technologies for self-sufficient families, communities, and regions.
-- **Arks** safeguard life, culture, and wisdom through the transitional [[Phase Shift]] into The **New Era**.
-- Together, they form **a planetary network of resilience and regeneration.**
+- **Hubs** store knowledge, resources, solutions and technologies for self-sufficient families, communities, and regions.
+- **Arks** safeguard life, culture, and wisdom through the transitional [[Phase Shift]] into The **New Era**.
+- Together, they form **a planetary network of resilience and regeneration.**
 
 > _**"We do not hoard. We aggregate and steward to share."**_
 
@@ -96,9 +96,9 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **8. The Ten-Year Grand Strategy**
 
-- **[[The Window]] is closing**—humanity has until **2027** to establish the foundation of The **[[New World]]**.
-- This is a **mission with a deadline** and [[Critically Effective Time Limit]].  
-- Every action We take must be **deliberate, coordinated, and guided by wisdom.**
+- **[[The Window]] is closing**—humanity has until **2027** to establish the foundation of The **[[New World]]**.
+- This is a **mission with a deadline** and [[Critically Effective Time Limit]].  
+- Every action We take must be **deliberate, coordinated, and guided by wisdom.**
 
 > _**"The clock is ticking. We must act Now."**_
 
@@ -113,8 +113,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **9. The War for The Future**
 
 - **This is not merely politics, exopolitics, economy, or ideology.**
-- The battle is **Spiritual, Existential, and Cosmic.** And it is raging NOW. 
-- The forces We face are **[[Not Merely Human]].**
+- The battle is **Spiritual, Existential, and Cosmic.** And it is raging NOW. 
+- The forces We face are **[[Not Merely Human]].**
 
 > _**"If you do not see The War, it is because they do not want you to."**_
 
@@ -126,11 +126,11 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **10. The Collapse Ascension Nexus**
 
-- The Old World is **collapsing.**
-- The New World is **emerging.**  
+- The Old World is **collapsing.**
+- The New World is **emerging.**  
 - Humanity is transforming into a [[New Superorganism]] to co-create [[Heaven on Earth and Beyond]].  
 - **It is all happening at the same time.**
-- Our task is to **navigate [[The Collapse-Ascension Nexus]] and guide humanity through [[The Shift]].**
+- Our task is to **navigate [[The Collapse-Ascension Nexus]] and guide humanity through [[The Shift]].**
 
 > _**"Do not fear The Collapse. Co-Create The Future."**_
 
@@ -142,7 +142,7 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 - **We are not passive. We are not weak.**
 - **We are strong, disciplined, and capable of great power.**
-- But that power is **only used in service of Truth, Love, Justice, and the [[ONE]].**
+- But that power is **only used in service of Truth, Love, Justice, and the [[ONE]].**
 - **A lion does not need to prove it is a lion. But when it rises, the world takes notice and shakes.**
 
 > _**"We do not seek to destroy. We are here to co-create [[Heaven On Earth]]. But if they force Our hand, they will remember why We are cosmically feared."**_  
@@ -151,8 +151,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **12. The Final Test**
 
-- Humanity is being **tested.** This is not just any test. **It is [[The Final Test]]**. 
-- This is **a moment of choice—Freedom or Enslavement, Creation or Destruction, Life or Death.**
+- Humanity is being **tested.** This is not just any test. **It is [[The Final Test]]**. 
+- This is **a moment of choice—Freedom or Enslavement, Creation or Destruction, Life or Death.**
 - **There will be no second chances, for millennia to come.**
 
 > _**"We must pass this Test, or We will not get another."**_
@@ -164,8 +164,8 @@ The following are among the **Core Concepts of LIONSBERG.**
 ### **13. The Restoration of The True Order**
 
 - **The corruption will be undone.**
-- The False Kings, False Priests, and False Systems **will fall.**
-- The Natural Order of Sovereign Co-Creation **must be restored.**  
+- The False Kings, False Priests, and False Systems **will fall.**
+- The Natural Order of Sovereign Co-Creation **must be restored.**  
 
 > _**"We are not rebels. We are Restorers. We are the Rightful Heirs."**_
 
@@ -173,10 +173,10 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ### **14. The Return of The Builders, Guardians, Lovers, and Servant Leaders**
 
-- The **True Builders must build.**  
-- The **True Guardians must guard.**   
+- The **True Builders must build.**  
+- The **True Guardians must guard.**   
 - The **True Lovers must love.**
-- The **True Leaders must serve—not for Power, but for Stewardship and the Continual Upliftment of All.**
+- The **True Leaders must serve—not for Power, but for Stewardship and the Continual Upliftment of All.**
 
 > _**"A Leader does not rule by force. He serves by Right."**_
 
@@ -198,21 +198,21 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ## **V. The Final Word**
 
-LIONSBERG is **not a movement.**  
-LIONSBERG is **not a government.**  
-LIONSBERG is **not an institution.**  
+LIONSBERG is **not a movement.**  
+LIONSBERG is **not a government.**  
+LIONSBERG is **not an institution.**  
 
-LIONSBERG is **a living, breathing New Civilization, the Golden Seed of Heaven on Earth, rising from the ashes of the Old.**
+LIONSBERG is **a living, breathing New Civilization, the Golden Seed of Heaven on Earth, rising from the ashes of the Old.**
 
-It is **a Nation without borders.**  
-It is **a Kingdom without a king.**  
+It is **a Nation without borders.**  
+It is **a Kingdom without a king.**  
 It is **a Temple without a priest.**  
-It is **a People without chains.**  
+It is **a People without chains.**  
 It is **a Civilization without end.**  
 
-You are here because **you heard The Call.**  
-You are here because **you are meant for So Much More.**  
-You are here because **you are ReMembering.**  
+You are here because **you heard The Call.**  
+You are here because **you are meant for So Much More.**  
+You are here because **you are ReMembering.**  
 You are here because **you are called to Build, Protect, Nurture, and Lead.**  
 
 

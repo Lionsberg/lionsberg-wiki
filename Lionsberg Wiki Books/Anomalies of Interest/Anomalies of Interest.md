@@ -53,7 +53,7 @@ Animals
 - [Phy.org Article Very different mammals follow the same rules of behavior: Research hints at an underlying architecture](https://phys.org/news/2025-05-mammals-behavior-hints-underlying-architecture.html) 
 	- Underlying architecture / Template 
 - Bees 
-	- [ZeroHedge Article Between 2023 and 2024, US beekeepers lost an estimated [55.1 percent](https://apiaryinspectors.org/US-beekeeping-survey-23-24) of their colonies—the worst loss in more than a decade and nearly 15 percent higher than the previous 13-year average](https://www.zerohedge.com/medical/bees-are-behind-our-food-and-natural-medicines-and-theyre-disappearing)  
+	- [ZeroHedge Article Between 2023 and 2024, US beekeepers lost an estimated [55.1 percent](https://apiaryinspectors.org/US-beekeeping-survey-23-24) of their colonies—the worst loss in more than a decade and nearly 15 percent higher than the previous 13-year average](https://www.zerohedge.com/medical/bees-are-behind-our-food-and-natural-medicines-and-theyre-disappearing)  
 
 Health 
 - [X Golf course proximity linked to higher Parkinson's disease risk](https://x.com/BrianRoemmele/status/1923126577401037017)  

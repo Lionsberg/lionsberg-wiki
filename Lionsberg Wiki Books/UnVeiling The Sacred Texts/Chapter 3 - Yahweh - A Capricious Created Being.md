@@ -8,25 +8,25 @@ Multiple figures in the early church sought to distance the emerging legacy of J
 
 Building on their rightful concerns that were swept into the Darkness by the Roman Empire and Roman Catholic Church, below are 30+ of the most obvious examples of thought, speech, and behavior irreconcilable with a Perfectly Loving, Wise, Right, and Good Being.
 
-1.  _Leviticus 10:1–2_: _"Fire came out from the presence of Yahweh and consumed them, and they died before Yahweh."_
+1.  _Leviticus 10:1–2_: _"Fire came out from the presence of Yahweh and consumed them, and they died before Yahweh."_
 	- Yahweh burns Aaron’s sons alive for approaching him and offering “unauthorized fire,” a minor ritual infraction.
-2. _2 Samuel 6:6–7_: _"Yahweh’s anger burned against Uzzah because of his irreverent act; therefore, Yahweh struck him down, and he died there beside the ark of Yahweh."_
+2. _2 Samuel 6:6–7_: _"Yahweh’s anger burned against Uzzah because of his irreverent act; therefore, Yahweh struck him down, and he died there beside the ark of Yahweh."_
 	- Uzzah touches the Ark of the Covenant to steady it and is killed instantly.
-3.  _Numbers 11:1–2_: _"Now the people complained about their hardships... Then fire from Yahweh burned among them and consumed some of the outskirts of the camp."_
+3.  _Numbers 11:1–2_: _"Now the people complained about their hardships... Then fire from Yahweh burned among them and consumed some of the outskirts of the camp."_
 	- Complaining about hardships is met with lethal punishment.
-4.  _Hosea 13:16_: _"The people of Samaria must bear their guilt, because they have rebelled against their God. They will fall by the sword; their little ones will be dashed to the ground, their pregnant women ripped open."_
+4.  _Hosea 13:16_: _"The people of Samaria must bear their guilt, because they have rebelled against their God. They will fall by the sword; their little ones will be dashed to the ground, their pregnant women ripped open."_
 	- Yahweh’s judgment involves brutal acts against infants and pregnant women.
-5. _Deuteronomy 21:18–21_: _"If someone has a stubborn and rebellious son... all the men of his town are to stone him to death."_
+5. _Deuteronomy 21:18–21_: _"If someone has a stubborn and rebellious son... all the men of his town are to stone him to death."_
 	- Yahweh commands the execution of rebellious children.
-6. _Numbers 31:17–18_: _"Now kill all the boys. And kill every woman who has slept with a man, but save for yourselves every girl who has never slept with a man."_
+6. _Numbers 31:17–18_: _"Now kill all the boys. And kill every woman who has slept with a man, but save for yourselves every girl who has never slept with a man."_
 	- Yahweh orders mass slaughter and the capture of virgin girls.
 7. _Judges 11:30–39_: Jephthah vows to offer whatever comes out of his house as a sacrifice to Yahweh, leading to the burning of his own daughter.
 	- Yahweh does not intervene to stop this human sacrifice.
 8. *Joshua 7:23-25*: “So they took them from inside the tent and brought them to Joshua and to all the sons of Israel; and they laid them out before Yahweh... And all Israel stoned them with stones; and they burned them with fire... and Yahweh turned from the fierceness of his anger.”
 	- Yahweh, apparently present in physical form, is angry and demands the stoning and burning of an entire family for one man's theft.
-9. _Deuteronomy 20:16–17_: _"Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as Yahweh your God has commanded you."_
+9. _Deuteronomy 20:16–17_: _"Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as Yahweh your God has commanded you."_
 	- Yahweh commands the extermination of entire peoples.
-10. _2 Samuel 24:15_: _"So Yahweh sent a plague on Israel, and 70,000 people died."_
+10. _2 Samuel 24:15_: _"So Yahweh sent a plague on Israel, and 70,000 people died."_
 	- David’s decision to take a census results in Yahweh killing tens of thousands of innocent people.
 11. *Numbers 16:20*: "The Yahweh spoke to Moses and Aaron, saying "Separate yourselves from among this congregation so that I may consume them instantly." ...(Aaron and Moses protest the injustice)... "Then Yahweh spoke to Moses saying, "Speak to the congregation, saying, 'Get away from the areas around the tents of Korah, Dathan, and Abiram."... So they moved away... and Dathan and Abiram came out and stood at the entrances of their tents, along with their wives, their sons, and their little ones.... and the earth opened its mouth and swallowed them... Fire also came out of Yahweh and consumed the 250 men who were offering the incense."
 	- Yahweh destroys entire families, including innocent children, for a rebellion.
@@ -68,24 +68,24 @@ Building on their rightful concerns that were swept into the Darkness by the Rom
 29. _Numbers 11:31–34_: _"...you shall eat meat, for you have wept in the ears of Yahweh... Therefore Yahweh will give you meat... until it comes out of your nose and makes you nauseated... because you have rejected Yahweh who is among you... now a wind burst forth from Yahweh and it brought quail from the sea... and the people gathered the quail... While the meat was still between their teeth, before it was chewed, the anger of Yahweh was kindled against the people, and Yahweh struck the people with a very severe plague... there they buried the people who had been greedy."_
 	- Yahweh tricks the Israelite and strikes them with a deadly plague for desiring meat instead of the manna he was feeding them in the wilderness.  
 30. _Deuteronomy 7:1–2_: _"When Yahweh your (god / Eloheka) has delivered them over to you and you have defeated them, then you must destroy them totally. Make no treaty with them and show them no mercy."_
-	- Yahweh commands the systematic extermination of multiple Canaanite tribes, including the Hittites, Amorites, Perizzites, Hivites, and Jebusites. This genocidal campaign explicitly calls for categorical **ethnic cleansing**, leaving no survivors. 
+	- Yahweh commands the systematic extermination of multiple Canaanite tribes, including the Hittites, Amorites, Perizzites, Hivites, and Jebusites. This genocidal campaign explicitly calls for categorical **ethnic cleansing**, leaving no survivors. 
 31.  _1 Samuel 15:2–3_: _"This is what Yahweh almighty says: ‘I will punish the Amalekites for what they did to Israel... Now go, attack the Amalekites and totally destroy all that belongs to them. Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys.’"_
-	- Yahweh orders the total annihilation / genocide of the Amalekites, explicitly including infants and children. This command involves the **deliberate genocidal targeting of non-combatants**, a hallmark of crimes against humanity.
+	- Yahweh orders the total annihilation / genocide of the Amalekites, explicitly including infants and children. This command involves the **deliberate genocidal targeting of non-combatants**, a hallmark of crimes against humanity.
 32. _Jeremiah 19:9_: _"I will make them eat the flesh of their sons and daughters, and they will eat one another’s flesh because their enemies will press the siege so hard against them to destroy them."_
-	- Yahweh proclaims that He will bring such severe famine during a siege that the people of Jerusalem will resort to cannibalism. This intentional act of psychological and physical suffering inflicted on civilians is a **violation of basic human dignity**.
+	- Yahweh proclaims that He will bring such severe famine during a siege that the people of Jerusalem will resort to cannibalism. This intentional act of psychological and physical suffering inflicted on civilians is a **violation of basic human dignity**.
 ## Crimes Against Humanity
 
-- **Arbitrary and Collective Punishments:** Entire groups, including innocents, are viciously punished for the actions of a few.
-- **Systematic Genocide, Violence and Cruelty:** Yahweh repeatedly commands the slaughter of men, women, children, and animals.
-- **Violence Against Innocents:** Many of Yahweh’s actions involve punishing innocents, such as children or entire populations.
-- **Excessive Retribution:** Minor offenses or improper conduct often result in extreme and lethal consequences.
-- **Favoritism and Partiality:** Commands often reflect tribal loyalty and disregard for the well-being of others.
-- **Rape and Sexual Exploitation:** Many passages involve Yahweh permitting or commanding the capture and sexual exploitation of women. 
-- **Endorsement of Cruelty and Oppression:** Yahweh’s commands and tyrannical example perpetuate systems of ignorance, cruelty, and oppression, particularly against women and foreigners.
-- **Slavery:** Yahweh explicitly condones and instructs the institution of slavery.
-- **Violence Against Infants, Women and Children:** Yahweh's commands and judgments often involve disproportionate and brutal violence against the most vulnerable, such as pregnant women and infants.
-- **Ethical Problems:** These passages are irreconcilable with the idea of Yahweh as a perfectly loving or moral being.
-- **Moral Inconsistency:** Yahweh’s actions are often tyrannical, harsh, excessive, and irreconcilable with basic enlightened moral sensibilities. 
+- **Arbitrary and Collective Punishments:** Entire groups, including innocents, are viciously punished for the actions of a few.
+- **Systematic Genocide, Violence and Cruelty:** Yahweh repeatedly commands the slaughter of men, women, children, and animals.
+- **Violence Against Innocents:** Many of Yahweh’s actions involve punishing innocents, such as children or entire populations.
+- **Excessive Retribution:** Minor offenses or improper conduct often result in extreme and lethal consequences.
+- **Favoritism and Partiality:** Commands often reflect tribal loyalty and disregard for the well-being of others.
+- **Rape and Sexual Exploitation:** Many passages involve Yahweh permitting or commanding the capture and sexual exploitation of women. 
+- **Endorsement of Cruelty and Oppression:** Yahweh’s commands and tyrannical example perpetuate systems of ignorance, cruelty, and oppression, particularly against women and foreigners.
+- **Slavery:** Yahweh explicitly condones and instructs the institution of slavery.
+- **Violence Against Infants, Women and Children:** Yahweh's commands and judgments often involve disproportionate and brutal violence against the most vulnerable, such as pregnant women and infants.
+- **Ethical Problems:** These passages are irreconcilable with the idea of Yahweh as a perfectly loving or moral being.
+- **Moral Inconsistency:** Yahweh’s actions are often tyrannical, harsh, excessive, and irreconcilable with basic enlightened moral sensibilities. 
 
-As Jesus said: *"Beware of the false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. You shall know them by their fruits. Grapes are not gathered from thorn bushes, nor figs from thistles, are they? So every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. 20 So then, you will know them by their fruits."*
+As Jesus said: *"Beware of the false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. You shall know them by their fruits. Grapes are not gathered from thorn bushes, nor figs from thistles, are they? So every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. 20 So then, you will know them by their fruits."*
 

@@ -216,7 +216,7 @@ that speaks trillions of galaxies into Being,
 and calls each of their Inhabitants by Name.    
 It is not lower, not smaller, not lesser.
 
-It is **The Same ONE.**  
+It is **The Same ONE.**  
 It is the Voice of the ONE refracted  
 through the prism of your unique incarnation.
 

@@ -84,7 +84,7 @@ Poltergeist phenomena challenge the boundaries of what is understood about reali
     - Stories of poltergeist-like phenomena appear across cultures, often blending with local beliefs about spirits and ghosts.
 - **Media and Entertainment:**
     
-    - Poltergeists have inspired countless films, books, and television series, most notably the _Poltergeist_ film franchise, which brought the concept into mainstream awareness.
+    - Poltergeists have inspired countless films, books, and television series, most notably the _Poltergeist_ film franchise, which brought the concept into mainstream awareness.
 - **Scientific Inquiry:**
     
     - Poltergeist activity has been a focal point of parapsychological research, though it remains controversial in scientific circles.
@@ -115,9 +115,9 @@ Poltergeist phenomena challenge the boundaries of what is understood about reali
 
 - **Books:**
     
-    - Gauld, Alan, and Cornell, A.D. _Poltergeists._
-    - Playfair, Guy Lyon. _This House is Haunted: The True Story of the Enfield Poltergeist._
+    - Gauld, Alan, and Cornell, A.D. _Poltergeists._
+    - Playfair, Guy Lyon. _This House is Haunted: The True Story of the Enfield Poltergeist._
 - **Documentaries:**
     
-    - _The Enfield Poltergeist_ (2015).
-    - _Poltergeist: The Truth Behind the Movies_ (2021).
+    - _The Enfield Poltergeist_ (2015).
+    - _Poltergeist: The Truth Behind the Movies_ (2021).

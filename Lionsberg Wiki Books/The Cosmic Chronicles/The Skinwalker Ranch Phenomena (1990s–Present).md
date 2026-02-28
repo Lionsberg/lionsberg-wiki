@@ -22,9 +22,9 @@ In 1994, Terry and Gwen Sherman purchased the ranch, hoping to start a peaceful 
 
 In 1996, the ranch was purchased by aerospace magnate Robert Bigelow, who established the National Institute for Discovery Science (NIDS) to study the phenomena scientifically. The team, which included physicists, biologists, and ex-military personnel, recorded events such as:
 
-- **UFO Sightings:** Disc-shaped objects hovering silently over the property.
-- **Poltergeist Activity:** Heavy equipment and objects being moved without explanation.
-- **Animal Mutilations:** Cattle found with surgical precision cuts, often drained of blood.
+- **UFO Sightings:** Disc-shaped objects hovering silently over the property.
+- **Poltergeist Activity:** Heavy equipment and objects being moved without explanation.
+- **Animal Mutilations:** Cattle found with surgical precision cuts, often drained of blood.
 
 The NIDS team often found themselves unable to predict or control the phenomena, which seemed to respond to observation with evasive behavior.
 
@@ -34,7 +34,7 @@ In 2007, the Defense Intelligence Agency became involved through the Advanced Ae
 
 #### **Ongoing Investigations**
 
-In 2016, Skinwalker Ranch was sold to real estate mogul Brandon Fugal, who initiated a new era of research documented in the television series _The Secret of Skinwalker Ranch_. This phase included advanced scientific equipment, including ground-penetrating radar, radiation sensors, and thermal imaging. Phenomena such as unexplained radiation spikes, glowing orbs, and physical health effects on investigators continued to emerge.
+In 2016, Skinwalker Ranch was sold to real estate mogul Brandon Fugal, who initiated a new era of research documented in the television series _The Secret of Skinwalker Ranch_. This phase included advanced scientific equipment, including ground-penetrating radar, radiation sensors, and thermal imaging. Phenomena such as unexplained radiation spikes, glowing orbs, and physical health effects on investigators continued to emerge.
 
 ---
 
@@ -99,14 +99,14 @@ In 2016, Skinwalker Ranch was sold to real estate mogul Brandon Fugal, who initi
 
 - **Primary Reports:**
     
-    - Bigelow, Robert. _NIDS Research Archives on Skinwalker Ranch._
-    - Defense Intelligence Agency: _Skinwalker Ranch and AATIP Reports (2007–2012)._
+    - Bigelow, Robert. _NIDS Research Archives on Skinwalker Ranch._
+    - Defense Intelligence Agency: _Skinwalker Ranch and AATIP Reports (2007–2012)._
 - **Books:**
     
-    - Knapp, George, and Kelleher, Colm. _Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah._
-    - Alexander, John. _UFOs: Myths, Conspiracies, and Realities._
+    - Knapp, George, and Kelleher, Colm. _Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah._
+    - Alexander, John. _UFOs: Myths, Conspiracies, and Realities._
 - **Documentaries:**
     
-    - _The Secret of Skinwalker Ranch_ (2020–Present).
-    - _Hunt for the Skinwalker_ (2018).
+    - _The Secret of Skinwalker Ranch_ (2020–Present).
+    - _Hunt for the Skinwalker_ (2018).
 

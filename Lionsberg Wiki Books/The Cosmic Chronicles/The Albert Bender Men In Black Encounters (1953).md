@@ -14,7 +14,7 @@ The Albert Bender case is a cornerstone of the Men in Black narrative, establish
 
 #### **The Rise of the IFSB**
 
-In the early 1950s, Albert Bender, a UFO enthusiast in Bridgeport, Connecticut, founded the International Flying Saucer Bureau (IFSB). The organization quickly gained traction, attracting members from across the globe and publishing a quarterly magazine, _Space Review_. Bender’s work focused on uncovering the truth about UFOs, and by 1953, he claimed to have come close to solving the UFO mystery.
+In the early 1950s, Albert Bender, a UFO enthusiast in Bridgeport, Connecticut, founded the International Flying Saucer Bureau (IFSB). The organization quickly gained traction, attracting members from across the globe and publishing a quarterly magazine, _Space Review_. Bender’s work focused on uncovering the truth about UFOs, and by 1953, he claimed to have come close to solving the UFO mystery.
 
 #### **The Encounter**
 
@@ -26,10 +26,10 @@ Shortly after these breakthroughs, Bender experienced a series of bizarre events
 
 #### **The Aftermath**
 
-Terrified and deeply shaken, Bender disbanded the IFSB shortly after the encounter, citing unspecified threats. His final issue of _Space Review_ included a cryptic message:  
+Terrified and deeply shaken, Bender disbanded the IFSB shortly after the encounter, citing unspecified threats. His final issue of _Space Review_ included a cryptic message:  
 _“We advise those engaged in saucer work to please be very cautious.”_
 
-For years, Bender remained silent about the specifics of his experience. When he finally spoke out in his 1962 book, _Flying Saucers and the Three Men_, he revealed that the Men in Black were not human but extraterrestrial beings sent to enforce secrecy.
+For years, Bender remained silent about the specifics of his experience. When he finally spoke out in his 1962 book, _Flying Saucers and the Three Men_, he revealed that the Men in Black were not human but extraterrestrial beings sent to enforce secrecy.
 
 ---
 
@@ -94,13 +94,13 @@ For years, Bender remained silent about the specifics of his experience. When he
 
 - **Books:**
     
-    - Bender, Albert. _Flying Saucers and the Three Men._
-    - Barker, Gray. _They Knew Too Much About Flying Saucers._
+    - Bender, Albert. _Flying Saucers and the Three Men._
+    - Barker, Gray. _They Knew Too Much About Flying Saucers._
 - **Articles:**
     
     - Analyses of Bender’s testimony and its impact on UFO research.
     - Comparative studies of Men in Black encounters.
 - **Documentaries:**
     
-    - _The Real Men in Black_ – An exploration of the phenomenon featuring Bender’s story.
+    - _The Real Men in Black_ – An exploration of the phenomenon featuring Bender’s story.
 

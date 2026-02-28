@@ -1,6 +1,6 @@
 # Meditation 29
 
-Treat every being and every bit of air, soil, or water as if there was something of the Divine within it, for there is. Even the ground beneath your feet and air within your lungs is bursting with the manifestation of the same Spirit that creates and sustains the universe. 
+Treat every being and every bit of air, soil, or water as if there was something of the Divine within it, for there is. Even the ground beneath your feet and air within your lungs is bursting with the manifestation of the same Spirit that creates and sustains the universe. 
 
 ___
 

@@ -28,11 +28,11 @@ The concept of the transcendent Creator or Ultimate Reality, often referred to a
 1. **Infinite Intelligence:**
     
     - The Creator is described as the ultimate intelligence, knowing all possibilities and guiding creation toward higher-order harmony, while respecting the Free Will and developmental trajectories of each of Its apparently differentiated manifestations.
-    - **Implication:** This intelligence is reflected in the fine-tuning of the cosmos, the evolution of life, and the emergence of consciousness. All consciousness is an aspect of It, and has direct unmediated access to It.
+    - **Implication:** This intelligence is reflected in the fine-tuning of the cosmos, the evolution of life, and the emergence of consciousness. All consciousness is an aspect of It, and has direct unmediated access to It.
 2. **Boundless Love:**
     
     - Many traditions emphasize the Creator's essential nature as Absolute and Unconditional Love—an infinite and unconditional force that seeks unity and flourishing for All Existence.
-    - **Implication:** Love is the central animating principle of spiritual evolution, the highest ethical value, and the practical expression of Our interexistence.
+    - **Implication:** Love is the central animating principle of spiritual evolution, the highest ethical value, and the practical expression of Our interexistence.
 3. **Creative Freedom:**
     
     - The Creator operates with absolute freedom, creating not out of necessity but as an expression of infinite potential.
@@ -67,7 +67,7 @@ The concept of the transcendent Creator or Ultimate Reality, often referred to a
 1. **Cosmic Laws:**
     
     - The Creator governs creation through universal laws, or [[Logos]],  that ensure embodied balance and harmony across dimensions.
-    - **Examples:** [[Logos]], Karma, natural laws, and principles of cause, effect, and co-creation.
+    - **Examples:** [[Logos]], Karma, natural laws, and principles of cause, effect, and co-creation.
 2. **Incarnation and Guidance:**
     
     - The Creator interacts with creation through avatars, prophets, ascended masters, NHIs, and other apparently differentiated vessels of Enlightened Spirit and Consciousness who embody its principles and offer guidance.

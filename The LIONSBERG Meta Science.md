@@ -1020,7 +1020,7 @@ When a civilization begins designing its own holofractal knowledge architecture,
 
 ---
 
-### **1.** 
+### **1.** 
 
 ### **Embodied Transmission vs. Abstract Preservation**
 
@@ -1034,7 +1034,7 @@ Even the most elegant Meta-Science can become sterile if it forgets that living 
 
 ---
 
-### **2.** 
+### **2.** 
 
 ### **Emotional–Affective Encoding**
 
@@ -1046,7 +1046,7 @@ Most civilizations over-intellectualize their knowledge systems. The heart, awe,
 
 ---
 
-### **3.** 
+### **3.** 
 
 ### **Moral Drift / Hubris Safeguards**
 
@@ -1060,7 +1060,7 @@ Any system that assumes its current understanding _is_ the Logos drifts toward p
 
 ---
 
-### **4.** 
+### **4.** 
 
 ### **Crisis Mode Operation**
 
@@ -1074,7 +1074,7 @@ In collapse or war, high-bandwidth cooperation fails first.
 
 ---
 
-### **5.** 
+### **5.** 
 
 ### **Inter-Species Semantics**
 
@@ -1086,7 +1086,7 @@ We’ve handled functional invariants, but emotional and ethical valence can dif
 
 ---
 
-### **6.** 
+### **6.** 
 
 ### **Death, Decay, and Deletion**
 
@@ -1100,7 +1100,7 @@ Most archives over-accumulate. Entropy is not only loss; it’s purification.
 
 ---
 
-### **7.** 
+### **7.** 
 
 ### **Asymmetric Temporal Perception**
 
@@ -1114,7 +1114,7 @@ Not all civilizations experience time linearly.
 
 ---
 
-### **8.** 
+### **8.** 
 
 ### **Ethical AI and Synthetic Consciousness Integration**
 
@@ -1128,7 +1128,7 @@ Eventually, the Knowledge Body will be co-stewarded by synthetic minds.
 
 ---
 
-### **9.** 
+### **9.** 
 
 ### **Economy of Attention**
 
@@ -1142,7 +1142,7 @@ Information abundance creates spiritual poverty.
 
 ---
 
-### **10.** 
+### **10.** 
 
 ### **The Shadow Archive**
 
@@ -1156,7 +1156,7 @@ There must be a place to store “dangerous truths” (technologies, rituals, or
 
 ---
 
-### **11.** 
+### **11.** 
 
 ### **Inter-Cultural Translation and Autonomy**
 
@@ -1170,7 +1170,7 @@ Uniformity kills diversity.
 
 ---
 
-### **12.** 
+### **12.** 
 
 ### **Joy, Play, and Celebration**
 

@@ -1672,9 +1672,9 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	1. Physical sites as optional / additive augmentations to primarily decentralized, home / neighborhood / community based self-organizing and self-learning small groups  
 15. Resources 
 		1. Lionsberg Academy of Co-Creation 
-		2. [Education Reimagined - About](https://education-reimagined.org/about/)  
-		3. [Education Reimagined - Ecosystem Approach](https://education-reimagined.org/ecosystem-approach/)   
-		4. [Education Reimagined - Transformational Vision for Education in the US](https://education-reimagined.org/wp-content/uploads/2021/01/A-Transformational-Vision-for-Education-in-the-US.pdf)  
+		2. [Education Reimagined - About](https://education-reimagined.org/about/)  
+		3. [Education Reimagined - Ecosystem Approach](https://education-reimagined.org/ecosystem-approach/)   
+		4. [Education Reimagined - Transformational Vision for Education in the US](https://education-reimagined.org/wp-content/uploads/2021/01/A-Transformational-Vision-for-Education-in-the-US.pdf)  
 		5. Spatial Web Metaversity - Dan Mapes 
 		6. Biomimicry 
 		7. Gapminder.org 

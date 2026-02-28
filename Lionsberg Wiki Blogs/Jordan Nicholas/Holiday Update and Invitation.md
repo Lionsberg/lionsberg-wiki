@@ -4,18 +4,18 @@ Loved Ones,
 
 As we enter 2025, we stand at one of the most critical junctures in human history—a moment where the future will be decided for generations to come.
 
-The [[Lionsberg Wiki Books]] and the [[Above The Chaos]] series have done their best to articulate _why_ this moment matters so profoundly. I understand that the revelations of 2024 may feel alienating or overwhelming for those who have not yet come to terms with these realities. That’s okay. In time, as events unfold, clarity and reconciliation will come.
+The [[Lionsberg Wiki Books]] and the [[Above The Chaos]] series have done their best to articulate _why_ this moment matters so profoundly. I understand that the revelations of 2024 may feel alienating or overwhelming for those who have not yet come to terms with these realities. That’s okay. In time, as events unfold, clarity and reconciliation will come.
 ### Our Shared Mission
 
 As best we understand it, our shared mid-term mission and mandate remains the same:
 
 **To Unite and Empower [[The First Three Percent]] of humanity by 2026.**
 
-As the world shakes and systems falter, only a decentralized network of **Leadership, Light, and Love** can empower communities to survive and thrive.
+As the world shakes and systems falter, only a decentralized network of **Leadership, Light, and Love** can empower communities to survive and thrive.
 
 Millions of courageous individuals and thousands of visionary groups already understand this and are working toward this shared goal. Together, we are beginning to discern the emerging [[Pattern Language]] that will guide us. 
 
-However, over the past few years, [[The Competition to Save the World]] has hindered collective progress. Countless projects under countless banners are competing for the energy and resources that **must be united** if humanity is to pass [[The Final Test]].
+However, over the past few years, [[The Competition to Save the World]] has hindered collective progress. Countless projects under countless banners are competing for the energy and resources that **must be united** if humanity is to pass [[The Final Test]].
 
 ### A Major Lesson
 
@@ -34,17 +34,17 @@ Since compliance with tyranny is not an option, we are dissolving the [[Provisio
 
 **[[2025 - Season 1 - Rising From The Ashes]].**
 
-To stay on schedule, we have only eight **90-Day Seasonal Quests** remaining to unite, enlighten, and empower ~250 million citizens. With billions of lives at stake, **now is the time** to step forward boldly and embark on the adventure of a lifetime.
+To stay on schedule, we have only eight **90-Day Seasonal Quests** remaining to unite, enlighten, and empower ~250 million citizens. With billions of lives at stake, **now is the time** to step forward boldly and embark on the adventure of a lifetime.
 
 ### Your Invitation
 
-If you feel called to join this historic effort, RSVP [here](#). Together, we will rise.
+If you feel called to join this historic effort, RSVP [here](#). Together, we will rise.
 
 With Love and Strength in Our Unity,  
 
 ~ J
 
-P.S. **A Word of Warning**  
-Over the next 36 months, you will hear increasing talk about extraterrestrials. There are plans in place for a false flag alien invasion and a false flag messianic return. **Do not fall for it. Do not panic. Do not fear. Together, we will overcome.**
+P.S. **A Word of Warning**  
+Over the next 36 months, you will hear increasing talk about extraterrestrials. There are plans in place for a false flag alien invasion and a false flag messianic return. **Do not fall for it. Do not panic. Do not fear. Together, we will overcome.**
 
 For more information, see [[The False Flag Alien Invasion]] and [[The False Flag Messianic Return]] 

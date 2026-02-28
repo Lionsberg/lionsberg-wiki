@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program established by the U.S. Department of Defense (DoD) in 2020 to investigate and analyze unidentified aerial phenomena (UAP) observed by military personnel. Building on the foundation of earlier initiatives like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]] and [[Advanced Aerospace Threat Identification Program (AATIP)]], the UAPTF sought to provide transparency and clarity on UAP encounters while addressing potential threats to national security. The task force represents a pivotal shift in official acknowledgment and investigation of UAPs.
+The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program established by the U.S. Department of Defense (DoD) in 2020 to investigate and analyze unidentified aerial phenomena (UAP) observed by military personnel. Building on the foundation of earlier initiatives like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]] and [[Advanced Aerospace Threat Identification Program (AATIP)]], the UAPTF sought to provide transparency and clarity on UAP encounters while addressing potential threats to national security. The task force represents a pivotal shift in official acknowledgment and investigation of UAPs.
 
 ---
 
@@ -11,11 +11,11 @@ The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program establi
 1. **Context:**
     
     - The UAPTF was created in response to increasing reports of UAP encounters by military pilots and naval personnel, particularly incidents that were captured on advanced sensor systems.
-    - Public awareness of UAP phenomena surged following the 2017 **New York Times** article exposing **AATIP** and the release of declassified videos of UAPs.
+    - Public awareness of UAP phenomena surged following the 2017 **New York Times** article exposing **AATIP** and the release of declassified videos of UAPs.
 2. **Formation:**
     
-    - The **Deputy Secretary of Defense** formally approved the establishment of the UAPTF in **August 2020**.
-    - Operated under the auspices of the **Office of Naval Intelligence (ONI)** and later integrated with other branches of the military and intelligence community.
+    - The **Deputy Secretary of Defense** formally approved the establishment of the UAPTF in **August 2020**.
+    - Operated under the auspices of the **Office of Naval Intelligence (ONI)** and later integrated with other branches of the military and intelligence community.
 3. **Mission:**
     
     - To detect, analyze, and catalog UAPs that could potentially threaten U.S. military operations and airspace security.
@@ -28,7 +28,7 @@ The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program establi
 1. **Investigation of UAP Incidents:**
     
     - The UAPTF focused on UAP sightings by military personnel, particularly those documented through advanced radar, infrared systems, and cockpit recordings.
-    - Specific incidents, such as the **USS Nimitz (2004)** and **USS Theodore Roosevelt (2015)** encounters, were key areas of study.
+    - Specific incidents, such as the **USS Nimitz (2004)** and **USS Theodore Roosevelt (2015)** encounters, were key areas of study.
 2. **National Security Assessment:**
     
     - The task force analyzed whether UAPs represented:
@@ -47,7 +47,7 @@ The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program establi
 
 1. **Interim Report (June 2021):**
     
-    - The UAPTF released an **unclassified report** to Congress, providing an overview of 144 UAP incidents reported between 2004 and 2021.
+    - The UAPTF released an **unclassified report** to Congress, providing an overview of 144 UAP incidents reported between 2004 and 2021.
     - Key findings included:
         - Most UAPs remained unexplained.
         - UAPs demonstrated advanced capabilities such as sudden accelerations, transmedium travel, and lack of visible propulsion.
@@ -55,7 +55,7 @@ The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program establi
         - UAPs could pose safety hazards to aviation and potential threats to national security.
 2. **Integration into AARO:**
     
-    - In **July 2022**, the UAPTF was succeeded by the **All-domain Anomaly Resolution Office (AARO)**, which expanded the task force's scope to include UAPs operating across air, sea, and space domains.
+    - In **July 2022**, the UAPTF was succeeded by the **All-domain Anomaly Resolution Office (AARO)**, which expanded the task force's scope to include UAPs operating across air, sea, and space domains.
 
 ---
 
@@ -131,7 +131,7 @@ The **Unidentified Aerial Phenomena Task Force (UAPTF)** was a program establi
 
 1. **Transition to AARO:**
     
-    - The UAPTF’s integration into the **All-domain Anomaly Resolution Office** expanded its focus to include anomalies across all domains (air, sea, space).
+    - The UAPTF’s integration into the **All-domain Anomaly Resolution Office** expanded its focus to include anomalies across all domains (air, sea, space).
 2. **Congressional Oversight:**
     
     - Ongoing congressional hearings and funding underscore the growing importance of UAP research in defense policy.

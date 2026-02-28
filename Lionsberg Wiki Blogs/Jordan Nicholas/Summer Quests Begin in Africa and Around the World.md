@@ -39,8 +39,8 @@ Or would you answer the prayer?
 
 Deep within, we can all sense it.  
 **Love.**  
-If you Love, **Care.**  
-If you Care, **Act.**  
+If you Love, **Care.**  
+If you Care, **Act.**  
 
 Start with the least.  
 Start with the most vulnerable.  
@@ -60,7 +60,7 @@ It is up to **Us who receive the call**.
 In recent years, we have been co-creating a new platform, a new pattern, and a new community—  
 One that dares to believe **a better world is possible**, that it begins with **Us**, and that the time is **Now**.
 
-We call it **LIONSBERG**.
+We call it **LIONSBERG**.
 
 It exists to empower people like you and me to collaborate to meet real needs  
 and solve real problems together—immediately where we are—  
@@ -73,18 +73,18 @@ Not in the world.
 
 The structures are broken.  
 The systems are failing.  
-But **We The People** are not.  
+But **We The People** are not.  
 And **We Are Rising**.  
 
 And so **The Mission** now accelerates:  
 The next milestone is to connect and empower  
-**The First Three Percent** of humanity—  
+**The First Three Percent** of humanity—  
 those awake and willing to rise, to act, and to build—  
 so that **Together**, we can usher in the next chapter of Earth’s story.
 
 ## The Summer Quests Have Begun
 
-As we cross this threshold of the Solstice, I begin my **Summer Quest** in East Africa,  
+As we cross this threshold of the Solstice, I begin my **Summer Quest** in East Africa,  
 walking shoulder to shoulder with beautiful, courageous souls doing everything they can  
 to hold the line against hunger, poverty, tyranny, and injustice.  
 **In this city this week**, youth are being shot and abducted by government forces,  
@@ -96,7 +96,7 @@ in towns, guilds, and cities across continents.
 
 Would you like to join us?
 
-Would you like to **support**, to **participate**, or simply to **follow along**  
+Would you like to **support**, to **participate**, or simply to **follow along**  
 and witness the unfolding of something real, sacred, and good?
 
 There is endless need.  
@@ -112,11 +112,11 @@ Your contribution of any amount opens the door.
 
 You will receive:
 
-- **Field Updates** from East Africa and beyond  
+- **Field Updates** from East Africa and beyond  
     
-- A link to our **Support and Updates Streams**  
+- A link to our **Support and Updates Streams**  
     
-- Ways to immediately **start your own Circle or Quest**  
+- Ways to immediately **start your own Circle or Quest**  
     
 - A path into deeper collaboration and co-creation with the **Lionsberg community**  
     
@@ -125,7 +125,7 @@ You will receive:
 
 We are building this in real time, together.  
 This is not a production. This is not a charity.  
-It is a **movement**.  
+It is a **movement**.  
 It is **community**.  
 It is a **superorganism** emerging in response  
 to the urgent crises, opportunities, and needs  
@@ -152,8 +152,8 @@ please simply click below and take your first step.
 We’ll follow up personally to explore how you might walk with us—  
 in East Africa, in your own neighborhood or area of expertise, or on the global stage.  
 
-Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
-**founding membership** and a **One Member One Voice** seat at the governance table—  
+Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
+**founding membership** and a **One Member One Voice** seat at the governance table—  
 as with all things LIONSBERG, on the basis of ongoing mutual consent and alignment.  
 We'll follow up with each responder personally to share how it works.
 
@@ -168,4 +168,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*  
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*  

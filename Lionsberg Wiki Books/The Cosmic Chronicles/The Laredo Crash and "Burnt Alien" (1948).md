@@ -91,6 +91,6 @@ As with other UFO incidents, the military swiftly removed all evidence, transpor
     - _The Burnt Alien: Laredo's UFO Mystery._
 - **Analytical Works:**
     
-    - Friedman, Stanton. _Top Secret/Majic._
-    - Randle, Kevin D. _UFO Crash Retrievals: The Inner Sanctum._
+    - Friedman, Stanton. _Top Secret/Majic._
+    - Randle, Kevin D. _UFO Crash Retrievals: The Inner Sanctum._
 

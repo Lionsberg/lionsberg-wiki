@@ -24,8 +24,8 @@ As they approached, the entity emitted a hissing sound and glided toward them. O
 
 The witnesses reported immediate symptoms, including:
 
-- **Irritation and Sickness:** Burning eyes, nausea, and throat irritation, possibly from the mist.
-- **Lingering Fear:** The group remained visibly shaken for days, convinced of their experience's reality.
+- **Irritation and Sickness:** Burning eyes, nausea, and throat irritation, possibly from the mist.
+- **Lingering Fear:** The group remained visibly shaken for days, convinced of their experience's reality.
 
 ---
 
@@ -102,13 +102,13 @@ The witnesses reported immediate symptoms, including:
 
 - **Books:**
     
-    - Clark, Jerome. _The UFO Encyclopedia: The Phenomenon from the Beginning._
-    - Keel, John A. _The Complete Guide to Mysterious Beings._
+    - Clark, Jerome. _The UFO Encyclopedia: The Phenomenon from the Beginning._
+    - Keel, John A. _The Complete Guide to Mysterious Beings._
 - **Documentaries:**
     
-    - _The Flatwoods Monster: A Legacy of Fear_ (Small Town Monsters, 2018).
+    - _The Flatwoods Monster: A Legacy of Fear_ (Small Town Monsters, 2018).
     - _UFO Files: Alien Encounters in Appalachia._
 - **Web Resources:**
     
-    - West Virginia Folklore: Flatwoods Monster Museum.
+    - West Virginia Folklore: Flatwoods Monster Museum.
 

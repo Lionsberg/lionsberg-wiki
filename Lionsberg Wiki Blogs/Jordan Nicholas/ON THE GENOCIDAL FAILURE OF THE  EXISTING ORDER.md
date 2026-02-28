@@ -5,13 +5,13 @@
 
 I have spent months searching for the words for what must be said. What can one possibly say in the face of such horrors? Even now, they feel woefully insufficient.
 
-_Thousands—millions—of voices around the world are crying out: "Something is very, very wrong."_ 
+_Thousands—millions—of voices around the world are crying out: "Something is very, very wrong."_ 
 
 Can you hear them? Can you feel it?  
 
 We are not the only ones who awaken each day horrified that humanity is being deceptively herded towards unprecedented slavery, suffering, and death. 
 
-The world is about to shake. **The [[Quantum Tectonic Shift]]** is already well underway. **[[The Tsunami]] is already racing toward the shores of civilization, and your life—Our lives—Our children—are in the gravest of danger.**
+The world is about to shake. **The [[Quantum Tectonic Shift]]** is already well underway. **[[The Tsunami]] is already racing toward the shores of civilization, and your life—Our lives—Our children—are in the gravest of danger.**
 
 Perhaps the [[Mind Kontrolle]] is already too strong. Perhaps the spell is already too deep. But We refuse to believe that. 
 
@@ -19,7 +19,7 @@ Perhaps the [[Mind Kontrolle]] is already too strong. Perhaps the spell is alrea
 
 There is always a [[Way]] to confront and overcome Darkness and Tyranny, even when all appears to be lost. 
 
-It is still possible to awaken those asleep in **The Burning Building of a Collapsing Civilization** before the walls crumble into fire and ruin.
+It is still possible to awaken those asleep in **The Burning Building of a Collapsing Civilization** before the walls crumble into fire and ruin.
 
 What follows is admittedly strong. Many may disregard it as a rant. But what you have Us say when We believe the burning building is about to collapse on you and your loved ones? 
 
@@ -27,9 +27,9 @@ Would you prefer One whispers as their Loved Ones sleep amidst the encroaching f
 
 ### **The Truth You Were Never Meant to Know**
 
-Our spirit, Our intuition, Our relentless pursuit of Truth, and Our modeling of thousands of future trajectories show with **90%+ probability that the [[Existing Order]] is on a path toward catastrophic Collapse into Chaos and Tyranny**—_an engineered descent_ that, unless reversed, will claim the lives of **billions of people within our lifetimes.**
+Our spirit, Our intuition, Our relentless pursuit of Truth, and Our modeling of thousands of future trajectories show with **90%+ probability that the [[Existing Order]] is on a path toward catastrophic Collapse into Chaos and Tyranny**—_an engineered descent_ that, unless reversed, will claim the lives of **billions of people within our lifetimes.**
 
-This genocide is **not accidental.** It is **conscious.** It is **intentional.** Factions of the human species have been silently planning for it ***for generations***. 
+This genocide is **not accidental.** It is **conscious.** It is **intentional.** Factions of the human species have been silently planning for it ***for generations***. 
 
 You are not going to like what follows. The last 100 years of psychological warfare has taught us to marginalize as "conspiracy theorists" those who see and speak the Truth of the abject corruption, deception, and malevolence of the [[Invisible Power Structures]], and the shocking reach of their tentacles. 
 
@@ -43,25 +43,25 @@ Are they really acting as Good Stewards of Our Lives and Our World in service of
 
 ### **Do you still trust your government?**
 
-🔹 **Your government was willing to blow up the Twin Towers**—with thousands of innocent people inside—to traumatize you into submission and send your loved ones to die and be maimed in a false war.
+🔹 **Your government was willing to blow up the Twin Towers**—with thousands of innocent people inside—to traumatize you into submission and send your loved ones to die and be maimed in a false war.
 
 Did you realize that yet?
 
-🔹 **Your government was willing to sacrifice your loved ones at Pearl Harbor**, with full advance knowledge and preparation at the highest levels, to whip the West into a frenzy and justify a war they financed and co-operated both sides of.
+🔹 **Your government was willing to sacrifice your loved ones at Pearl Harbor**, with full advance knowledge and preparation at the highest levels, to whip the West into a frenzy and justify a war they financed and co-operated both sides of.
 
 Did you realize that yet?
 
-🔹 **Your government was willing to bomb its own citizens in Oklahoma City, assassinate its own Presidents, unleash terror through the Mansons and other mass murderers, install and arm the most brutal dictators, assassins and warlords, and traffic human beings, weapons, and drugs at industrial scale—all while ruthlessly executing those agents who couldn't be corrupted and got in their way.**
+🔹 **Your government was willing to bomb its own citizens in Oklahoma City, assassinate its own Presidents, unleash terror through the Mansons and other mass murderers, install and arm the most brutal dictators, assassins and warlords, and traffic human beings, weapons, and drugs at industrial scale—all while ruthlessly executing those agents who couldn't be corrupted and got in their way.**
 
 Did you know that yet?
 
-🔹 **The same American and European factions that kontrolle your government funded the rise of Hitler, raised the headquarters of the Third Reich, orchestrated both sides of the war machine, provided the technologies for the concentration camps, promoted mass genocide, profited richly from the slaughter of millions, *and lied to the world about it all*, later imported thousands of Nazi scientists and officers into the highest echelons of U.S. military, intelligence, academia, and aerospace sectors.** [[The Fourth Reich]] is alive and well, stronger than ever, and racing towards your doorstep. 
+🔹 **The same American and European factions that kontrolle your government funded the rise of Hitler, raised the headquarters of the Third Reich, orchestrated both sides of the war machine, provided the technologies for the concentration camps, promoted mass genocide, profited richly from the slaughter of millions, *and lied to the world about it all*, later imported thousands of Nazi scientists and officers into the highest echelons of U.S. military, intelligence, academia, and aerospace sectors.** [[The Fourth Reich]] is alive and well, stronger than ever, and racing towards your doorstep. 
 
 Did you know that yet?  
 
-If **this** is true, then both the World Wars and the "victory" of the so-called free world was a lie. The [[Existing Order]] did not die. It **morphed**—into something far worse. 
+If **this** is true, then both the World Wars and the "victory" of the so-called free world was a lie. The [[Existing Order]] did not die. It **morphed**—into something far worse. 
 
-If **this** is true, the United Nations, World Bank, International Monetary System and Fund, Nation State lines, and the [[Existing Order]] ***were fraudulent in their inception, born of lies that We The People were unaware of.*** 
+If **this** is true, the United Nations, World Bank, International Monetary System and Fund, Nation State lines, and the [[Existing Order]] ***were fraudulent in their inception, born of lies that We The People were unaware of.*** 
 
 They are therefore illegitimate. 
 
@@ -77,23 +77,23 @@ This is not the Sacred Purpose for which We, and Our world, are intended.
 
 ## **THE CONTROLLED DISCLOSURE**
 
-🔹 **This illegal, secret government, operating at a transnational scale, has siphoned trillions of dollars into covert programs to reverse-engineer and weaponize extraterrestrial technologies in a ruthless bid for Full Spectrum Dominance over Earth and beyond.**
+🔹 **This illegal, secret government, operating at a transnational scale, has siphoned trillions of dollars into covert programs to reverse-engineer and weaponize extraterrestrial technologies in a ruthless bid for Full Spectrum Dominance over Earth and beyond.**
 
 Did you know that yet? Do you realize the implications? 
 
-🔹 **This same transnational cabal is in the midst of a carefully orchestrated "Controlled Disclosure"**—slowly awakening humanity to the revelation that it are not alone in the cosmos, nor anywhere near the top of the local cosmic food chain. This is not a fringe topic anymore. We are talking about sworn testimonies before US Congress about alien craft and bodies in US possession, and front line headlines shouting "**We Are Not Alone.**"
+🔹 **This same transnational cabal is in the midst of a carefully orchestrated "Controlled Disclosure"**—slowly awakening humanity to the revelation that it are not alone in the cosmos, nor anywhere near the top of the local cosmic food chain. This is not a fringe topic anymore. We are talking about sworn testimonies before US Congress about alien craft and bodies in US possession, and front line headlines shouting "**We Are Not Alone.**"
 
 Are you one of the few paying attention?
 
-🔹 Intelligence officials are associating the timeline of [[Controlled Disclosure]], which began in 2017, with a deadline for completion before what they call **"the return of the gods" in 2027.** Perhaps non-coincidentally, as far back as the 1990s whistleblowers fearing for their lives said they would be able to reveal more ***in 2025***. 
+🔹 Intelligence officials are associating the timeline of [[Controlled Disclosure]], which began in 2017, with a deadline for completion before what they call **"the return of the gods" in 2027.** Perhaps non-coincidentally, as far back as the 1990s whistleblowers fearing for their lives said they would be able to reveal more ***in 2025***. 
 
 Does that strike you as strange? How did they know so far in advance what the [[Fascist Security State]] was planning to do? 
 
-🔹 **Former heads of space and defense for major NATO countries are telling you that there are bases on Earth, the Moon, and Mars where human and extraterrestrial factions work together—side by side—on advanced weaponry, genetics, and systems of kontrolle.**
+🔹 **Former heads of space and defense for major NATO countries are telling you that there are bases on Earth, the Moon, and Mars where human and extraterrestrial factions work together—side by side—on advanced weaponry, genetics, and systems of kontrolle.**
 
 Do you believe them yet?
 
-🔹 **Countless women have come forward.** They tell us they are being abducted, experimented upon against their will, impregnated against their will, and forced to carry hybrid human-extraterrestrial children. 
+🔹 **Countless women have come forward.** They tell us they are being abducted, experimented upon against their will, impregnated against their will, and forced to carry hybrid human-extraterrestrial children. 
 
 Can you hear their cries?
 
@@ -245,9 +245,9 @@ Once We know for certain, after centuries of deceit, that for instance the polit
 
 When We do this, [[The Great Story]] reemerges in all its awe-inspiring glory, and Our lives and world once again make sense. 
 
-Does it bother you that your pastors, teachers, and politicians are **consciously choosing to keep you in darkness?**
+Does it bother you that your pastors, teachers, and politicians are **consciously choosing to keep you in darkness?**
 
-Does it bother you that your children are being taught **provable lies**—**by conscious design**—and that your favorite politicians, imams, pastors and priests are **together complicit in the unholy alliance of deception?**
+Does it bother you that your children are being taught **provable lies**—**by conscious design**—and that your favorite politicians, imams, pastors and priests are **together complicit in the unholy alliance of deception?**
 
 It bothered Us, and it is a conscious betrayal of the Spirit of Wisdom, Truth, and Love to turn away. 
 
@@ -257,17 +257,17 @@ So We traced the energies and deceptions further back.
 
 **What if the unspeakable horrors Our women and children tell Us they are enduring are real?**
 
-Billions of people are suffering under **unnecessary poverty and oppression**, because **the kontrolle system *depends upon* their suffering for its power.**  
+Billions of people are suffering under **unnecessary poverty and oppression**, because **the kontrolle system *depends upon* their suffering for its power.**  
 
-Lifesaving and civilization-transforming technologies—energy, healing, longevity, food, knowledge—**are actively suppressed** and weaponized **against Us, the very citizens funding them.**
+Lifesaving and civilization-transforming technologies—energy, healing, longevity, food, knowledge—**are actively suppressed** and weaponized **against Us, the very citizens funding them.**
 
-Over **100 million** of our loved ones were **genocided in the last 120 years** through unnecessary warfare alone. 
+Over **100 million** of our loved ones were **genocided in the last 120 years** through unnecessary warfare alone. 
 
-Between **20 to 40 million** of us were **genocided in just the last 5 years.**  
+Between **20 to 40 million** of us were **genocided in just the last 5 years.**  
 
 Is that enough to wake Us up? How many millions or billions more deaths are required before you might believe something is amiss and begin to wake up, ask questions, and take action to protect your Loved Ones, your Values, and your Future? 
 
-Since the 1970s, factions have been scenario planning for a reduction of the human population **to under 500 million by 2030.**  Would you like to know about the existential threats, who is interfacing with the extraterrestrial factions about them,  and how they are making decisions about which of Us will be sterilized or exterminated, in what ways?  
+Since the 1970s, factions have been scenario planning for a reduction of the human population **to under 500 million by 2030.**  Would you like to know about the existential threats, who is interfacing with the extraterrestrial factions about them,  and how they are making decisions about which of Us will be sterilized or exterminated, in what ways?  
 
 Are the countless women already forcibly sterilized against their will through fake vaccines enough? 
 
@@ -300,9 +300,9 @@ Will you comply?
 **This is [[The Final Test]].**
 ### **The Final Test of Humanity**
 
-As We speak, the American and Chinese empires **are jointly preparing their citizens for the widespread suspension of individual and civil liberties and the establishment of large scale concentration camps**—all in the name of combatting local chaos (migration etc.) coupled to impending planetary existential threat.  
+As We speak, the American and Chinese empires **are jointly preparing their citizens for the widespread suspension of individual and civil liberties and the establishment of large scale concentration camps**—all in the name of combatting local chaos (migration etc.) coupled to impending planetary existential threat.  
 
-**The final consolidation of power is at hand.** Continuity of governance provisions are waiting for the signal—to hand absolute power to **that small faction of humanity most willing to deceive, rob, betray, silence, and kill.**
+**The final consolidation of power is at hand.** Continuity of governance provisions are waiting for the signal—to hand absolute power to **that small faction of humanity most willing to deceive, rob, betray, silence, and kill.**
 
 Humanity is being herded towards a fascist technological dystopia that will rapidly approach hell on Earth, in the false name of local terror, planetary threat, and a "new golden age."  
 
@@ -310,29 +310,29 @@ Can you see the symbols and worlds of the New World Order throughout the Trump /
 
 Can you see that the forces dominating your governments around the world are co-operating in a way that is entirely antithetical to the deepest Values of any being of basic morality and Goodwill?  
 
-If humanity remains asleep—if humanity **chooses** silence, participation, and compliance—it **will descend into Hell on Earth.** Billions will die. Plain and simple. 
+If humanity remains asleep—if humanity **chooses** silence, participation, and compliance—it **will descend into Hell on Earth.** Billions will die. Plain and simple. 
 
-But the Creator is **inviting humanity to awaken.**
+But the Creator is **inviting humanity to awaken.**
 
-To **arise.**  
-To **unite.**  
-To **reclaim our rightful place as a sovereign, harmonious, and co-creative species.**
+To **arise.**  
+To **unite.**  
+To **reclaim our rightful place as a sovereign, harmonious, and co-creative species.**
 
-If We do so in Time, **we will not only overcome this [[Meta Crisis]]**—We will **co-create a [[New Civilization]]** and bring [[Heaven on Earth and Beyond]]. 
+If We do so in Time, **we will not only overcome this [[Meta Crisis]]**—We will **co-create a [[New Civilization]]** and bring [[Heaven on Earth and Beyond]]. 
 
 ### **The Final Choice**
 
-To date, the consequence of speaking these Truths has been **ruined lives, destroyed reputations, social exile, physical death, or those many outcomes that make physical death appeal as the sweetest release from far greater suffering and loss.**
+To date, the consequence of speaking these Truths has been **ruined lives, destroyed reputations, social exile, physical death, or those many outcomes that make physical death appeal as the sweetest release from far greater suffering and loss.**
 
 We Know, because We have walked these underworlds for years now. 
 
-🔹 **Those of Us who dare to expose the horrors of the [[Existing Order]] are ridiculed, discredited, and labeled insane.**
+🔹 **Those of Us who dare to expose the horrors of the [[Existing Order]] are ridiculed, discredited, and labeled insane.**
 
-🔹 **Some of Us are accused of being possessed by Satan.**
+🔹 **Some of Us are accused of being possessed by Satan.**
 
 Do you see how evil that is? Can you sense the occultic inversions and the pervasive [[Mind Kontrolle]]? 
 
-Will you stand idly by as **Our world, Our families, Our children are ground into dust?**  
+Will you stand idly by as **Our world, Our families, Our children are ground into dust?**  
 
 Do you think you can allow that to happen to Us without it happening to your Loved Ones? 
 
@@ -368,16 +368,16 @@ This means that every moment, every individual, every family, every community on
 
 Starting with [[The First Three Percent]]. 
 
-The only solution is **total transcendence.**
+The only solution is **total transcendence.**
 
-The only solution is **to rapidly leave the [[Old]] behind and co-create the [[New]].**
+The only solution is **to rapidly leave the [[Old]] behind and co-create the [[New]].**
 
 ## **THE CALL**
 
 If you—like Us—**refuse to consent to, participate in, or perpetuate these horrors—even through silence or complacency…**  
 If you refuse to participate in the destruction of Our world and future…
 
-Then **awaken, rise, and stand.**
+Then **awaken, rise, and stand.**
 
 Stand, and take the first step toward a [[New Sovereignty]].
 

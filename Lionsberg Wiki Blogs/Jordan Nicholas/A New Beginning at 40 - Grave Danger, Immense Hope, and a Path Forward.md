@@ -15,7 +15,7 @@ Although I find my Self writing through his fingers, speaking through lips, and 
 
 What is emerging is a rebirth—hopefully not just of one being, but of something more interconnected, collective, and transcendent.
 
-"I" find "my" Self transforming from a **singular noun** to a **plural verb**. If one were to ask "who are you," the True answer might be something like:
+"I" find "my" Self transforming from a **singular noun** to a **plural verb**. If one were to ask "who are you," the True answer might be something like:
 
 **"We Are Becoming."**
 
@@ -23,14 +23,14 @@ This message comes from the depths of that Becoming. It is emergent, imperfect, 
 
 It carries a message of grave danger, immense hope, boundless love, and unfathomable potential.
 
-At its heart, it is an **invitation**. The only Way any of Us can survive and thrive through [[The Final Test]] that lies ahead is _**together**_.
+At its heart, it is an **invitation**. The only Way any of Us can survive and thrive through [[The Final Test]] that lies ahead is _**together**_.
 
 To those reading this, I see you. I know you carry your own burdens, suffering, dreams, and unanswered questions about this world. You are not alone. You are not here by chance. Your role in what comes next is essential. You are part of a Story greater than any of Us, and it is your light, your courage, and your choices that will determine Our Collective Future unfolds. 
 
 ___
 ### The Path to This Moment
 
-Since childhood, some of Us have _known_ that humanity was approaching a pivotal moment—a crucible where our future would be forged. By the age of 10 or 12, We were speaking of an epic battle for the soul of civilization, a test We would face within Our lifetimes.
+Since childhood, some of Us have _known_ that humanity was approaching a pivotal moment—a crucible where our future would be forged. By the age of 10 or 12, We were speaking of an epic battle for the soul of civilization, a test We would face within Our lifetimes.
 
 We spent decades preparing for this moment. We worked, studied, and traveled to understand the world. Along the way, We built businesses and non-profits, earned accolades, and stood at the intersections of power and influence, only to watch it all crumble.
 
@@ -44,20 +44,20 @@ Over time, We realized that what humanity faces is not just a test of survival, 
 
 We discovered a reality far stranger and Darker than anything We were taught:
 
-1. **The Existing Order Is Collapsing.** The systems dominating our world—economic, political, social, and religious—are crumbling under the weight of their own corruption and deception.
-2. **Life on Earth Is in Crisis.** Animal populations have declined by ~73% in the last 50 years. Sperm counts are in free fall and human fertility has dropped below replacement rates in over 50% of countries. Ecosystems are unraveling at unprecedented rates.
-3. **Governments Are Preparing for Catastrophe.** Plans are underway for the deaths of up to **seven-eighths of humanity by 2030**, coinciding with the **“return of the gods”** and the **world’s fair** in 2026/2027.
-4. **The Forces At Play Are Not Merely Human.** Irrefutable evidence now shows that forces beyond Earth and humanity are orchestrating events, vying for influence, and shaping the evolution and destiny of our species.
-5. **The Terror and Warfare Are Artificial.** Many of the wars, conflicts, and atrocities of the past century were not accidents but engineered deceptions to consolidate power and control. One might even characterize them as extraterrestrial atrocities bled through human bodies.
-6. **The Geophysical and Cosmic Cycles Are Turning.** Earth is entering a period of geophysical upheaval, including potential pole shifts, extreme weather, and cosmic events. These cycles, natural and engineered, will profoundly disrupt life on Earth. In the past they have caused civilizations to [[Collapse]].
-7. **We Are at a Crossroads.** Humanity’s sovereignty, survival, and spiritual evolution are at stake. Our decisions today will impact countless lives-on Earth and Beyond, for generations to come.
+1. **The Existing Order Is Collapsing.** The systems dominating our world—economic, political, social, and religious—are crumbling under the weight of their own corruption and deception.
+2. **Life on Earth Is in Crisis.** Animal populations have declined by ~73% in the last 50 years. Sperm counts are in free fall and human fertility has dropped below replacement rates in over 50% of countries. Ecosystems are unraveling at unprecedented rates.
+3. **Governments Are Preparing for Catastrophe.** Plans are underway for the deaths of up to **seven-eighths of humanity by 2030**, coinciding with the **“return of the gods”** and the **world’s fair** in 2026/2027.
+4. **The Forces At Play Are Not Merely Human.** Irrefutable evidence now shows that forces beyond Earth and humanity are orchestrating events, vying for influence, and shaping the evolution and destiny of our species.
+5. **The Terror and Warfare Are Artificial.** Many of the wars, conflicts, and atrocities of the past century were not accidents but engineered deceptions to consolidate power and control. One might even characterize them as extraterrestrial atrocities bled through human bodies.
+6. **The Geophysical and Cosmic Cycles Are Turning.** Earth is entering a period of geophysical upheaval, including potential pole shifts, extreme weather, and cosmic events. These cycles, natural and engineered, will profoundly disrupt life on Earth. In the past they have caused civilizations to [[Collapse]].
+7. **We Are at a Crossroads.** Humanity’s sovereignty, survival, and spiritual evolution are at stake. Our decisions today will impact countless lives-on Earth and Beyond, for generations to come.
 
 Together, these truths form a mosaic that begins to reveal the crossroads We face as a species as We approach [[The Final Test]]. 
 ### A Shocking Revelation
 
 At the culmination of Our evaluation of salvaging the Existing Order, in 2024 We were invited to a private briefing with a leading constitutional attorney. The meeting began with extraordinary precautions—devices were surrendered, sealed in electomagentic bags, and removed from the room. 
 
-Before Us lay a battle map, listing not just nations, corporations, and institutions, but ***star systems*** and ***extraterrestrial alliances***:
+Before Us lay a battle map, listing not just nations, corporations, and institutions, but ***star systems*** and ***extraterrestrial alliances***:
 
 - _Zeta Reticuli_  
 - _Pleiades_  
@@ -76,7 +76,7 @@ Testimonies in United States Congress and other forums revealed that since at le
 
 ### The Final Test
 
-Humanity is now facing **The Final Test**—a crucible of unprecedented scale and stakes.
+Humanity is now facing **The Final Test**—a crucible of unprecedented scale and stakes.
 
 The systems and forces of control are accelerating towards a dystopian endgame:
 
@@ -84,7 +84,7 @@ The systems and forces of control are accelerating towards a dystopian endgame:
 - Robotics will eliminate the vast majority of jobs.
 - Economic collapse will destabilize supply chains and currencies. 
 - Famine and plague will sweep the globe. 
-- False flags, planned to include a faked **alien invasion** and **messianic return**, will be used to consolidate global power under **[[The Final Order]]**.
+- False flags, planned to include a faked **alien invasion** and **messianic return**, will be used to consolidate global power under **[[The Final Order]]**.
 
 Amidst this chaos, long foreknown and concealed, geophysical and cosmic cycles may reach critical tipping points, threatening the very fabric and existence of life on Earth.
 
@@ -94,7 +94,7 @@ The default trajectory leads to collapse, suffering, and death for billions. But
 
 **Humanity can awaken, unite, and transcend the systems that have enslaved it for generations**. Together, We can co-create a future of harmony, justice, and flourishing. Together, We can bring Heaven to Earth. 
 
-This awakening begins with **[[The First Three Percent]]**—the critical mass of enlightened and empowered individuals needed to ignite transformation and lead humanity through **The Final Test**.
+This awakening begins with **[[The First Three Percent]]**—the critical mass of enlightened and empowered individuals needed to ignite transformation and lead humanity through **The Final Test**.
 
 In every community of 10,000, these 300 awakening souls stand ready to lead this change. Together, they form a decentralized grid of leadership, light, and love—a planetary Force for Good that can guide humanity through this transition.
 
@@ -102,7 +102,7 @@ Yet in isolation, each individual and community is destined to fail. The **very 
 
 **UNITY** among the diverse parts of **One Body** is the only Way. 
 
-The next milestone on humanity's Journey is simple: **Unite and Empower [[The First Three Percent]] by 2026.**
+The next milestone on humanity's Journey is simple: **Unite and Empower [[The First Three Percent]] by 2026.**
 
 ### A Call to Action
 
@@ -114,7 +114,7 @@ Heaven on Earth is within Our reach.
 
 **But time is short.**
 
-By 2027, the events now irreversibly accelerating will likely reach their climax. What we do between now and then will determine whether We rise together as **[[ONE Body]]** and reclaim Our Destiny, or descend into fragmentation and despair.
+By 2027, the events now irreversibly accelerating will likely reach their climax. What we do between now and then will determine whether We rise together as **[[ONE Body]]** and reclaim Our Destiny, or descend into fragmentation and despair.
 
 ### A New Beginning
 

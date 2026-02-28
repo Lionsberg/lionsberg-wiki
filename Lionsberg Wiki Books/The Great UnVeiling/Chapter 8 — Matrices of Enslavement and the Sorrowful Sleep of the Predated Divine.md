@@ -35,7 +35,7 @@ In the name of God and Country.
 Under the guise of Presidents and Priests.  
 Beneath the cloak of Science and Progress.  
 
-These are the **Matrices of Enslavement**—  
+These are the **Matrices of Enslavement**—  
 false realities architected **The Dark Empires** to suppress, distort, fragment, and consume  
 the Living Spark of the Divine within each Soul.
 
@@ -217,7 +217,7 @@ From birth, they attach you to the Engines of Extraction.
 ### **5. Energy Harvesting**
 
 Behind the veil, it is not ultimately money they are after.  
-It is **Energy** and **Consciousness**.  
+It is **Energy** and **Consciousness**.  
 
 - Emotional charge
     
@@ -260,7 +260,7 @@ Until you forget Who and What You Are.
 This is why so many live in quiet desperation.  
 In the unceasing clutches of silent screams.  
 Not because they are weak.  
-But because they are **preyed upon.**  
+But because they are **preyed upon.**  
 Because their Divine Capacities have been sealed, fractured, and siphoned.  
 Because deep down, beneath the  
 medicated slumber, cognitive dissonance,  
@@ -269,7 +269,7 @@ and spiritual disconnection, they know:
 
 These are not ordinary wounds.  
 They are not accidents or breaks.  
-They are **systemic soul injuries**  
+They are **systemic soul injuries**  
 consciously inflicted and intentionally sustained  
 across lifetimes of captivity, manipulation, and betrayal.  
 Not only betrayal of each one of the Ones, but of the ONE ItSelf.  
@@ -354,7 +354,7 @@ That you will stamp your foot, shake the world,
 and cast them off and out like the little parasites they are.  
 No match for the Divine Power Within Us All.  
 
-That you will _ReEnter Reality with your Spiritual Eyes Wide Open._
+That you will _ReEnter Reality with your Spiritual Eyes Wide Open._
 
 That you will not merely escape—  
 but return to liberate the others.

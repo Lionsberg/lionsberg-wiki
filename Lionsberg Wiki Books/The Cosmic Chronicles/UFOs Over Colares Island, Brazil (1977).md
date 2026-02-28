@@ -20,10 +20,10 @@ In late 1977, residents of Colares began reporting sightings of glowing, disk- a
 
 Those struck by the beams described a variety of symptoms:
 
-- **Burn Marks:** Circular burns on the skin, often on the chest, thighs, or face.
-- **Fatigue and Weakness:** Many experienced profound lethargy after exposure.
-- **Radiation Symptoms:** Some victims showed signs consistent with radiation poisoning, such as hair loss and skin lesions.
-- **"Blood Drawn":** Witnesses claimed the beams seemed to extract blood from their bodies, leading to speculation about experiments or energy harvesting.
+- **Burn Marks:** Circular burns on the skin, often on the chest, thighs, or face.
+- **Fatigue and Weakness:** Many experienced profound lethargy after exposure.
+- **Radiation Symptoms:** Some victims showed signs consistent with radiation poisoning, such as hair loss and skin lesions.
+- **"Blood Drawn":** Witnesses claimed the beams seemed to extract blood from their bodies, leading to speculation about experiments or energy harvesting.
 
 The phenomenon led to widespread panic, with many fleeing their homes or sleeping outdoors in groups to avoid being alone.
 
@@ -31,9 +31,9 @@ The phenomenon led to widespread panic, with many fleeing their homes or sleepin
 
 The Brazilian Air Force dispatched a team of military personnel to investigate under the codename "Operation Saucer." Led by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima, the operation aimed to study and document the events.
 
-- **Photographic Evidence:** The team captured numerous photographs of UFOs, including detailed images of luminous craft.
-- **Eyewitness Testimony:** Soldiers and officers interviewed hundreds of witnesses, collecting a wealth of consistent accounts.
-- **Direct Military Observation:** Some military personnel reported witnessing the objects themselves, adding to the case's credibility.
+- **Photographic Evidence:** The team captured numerous photographs of UFOs, including detailed images of luminous craft.
+- **Eyewitness Testimony:** Soldiers and officers interviewed hundreds of witnesses, collecting a wealth of consistent accounts.
+- **Direct Military Observation:** Some military personnel reported witnessing the objects themselves, adding to the case's credibility.
 
 Despite extensive documentation, the official investigation ended abruptly, with the military concluding that the phenomenon posed no national security threat. Captain Hollanda later revealed that the closure of the operation was likely due to internal pressure and fear of public panic.
 
@@ -114,12 +114,12 @@ Captain Hollanda's later interviews in the 1990s reignited interest in the case.
 
 - **Books:**
     
-    - Gevaerd, A.J. _UFOs in Brazil: Operation Saucer Unveiled._
-    - Vallee, Jacques. _Confrontations: A Scientist’s Search for Alien Contact._
+    - Gevaerd, A.J. _UFOs in Brazil: Operation Saucer Unveiled._
+    - Vallee, Jacques. _Confrontations: A Scientist’s Search for Alien Contact._
 - **Documentaries:**
     
-    - _Operation Saucer: The Truth Behind the Colares UFOs_ (Brazilian Network Special).
+    - _Operation Saucer: The Truth Behind the Colares UFOs_ (Brazilian Network Special).
 - **Web Resources:**
     
-    - Brazilian UFO Research: [http://www.ufo.com.br](http://www.ufo.com.br/)
-    - MUFON Report on Colares: [https://www.mufon.com](https://www.mufon.com/)
+    - Brazilian UFO Research: [http://www.ufo.com.br](http://www.ufo.com.br/)
+    - MUFON Report on Colares: [https://www.mufon.com](https://www.mufon.com/)

@@ -2,7 +2,7 @@
 
 Per ChatGPT: 
 
-**Daniel Sheehan** is a constitutional lawyer and social activist known for his work in high-profile legal cases and his advocacy for government transparency, particularly regarding UFO phenomena. His career has focused on exposing corruption, promoting human rights, and addressing government secrecy. The through-line of his career has been a 40+ year project to unmask the [[Fascist Security State]]. 
+**Daniel Sheehan** is a constitutional lawyer and social activist known for his work in high-profile legal cases and his advocacy for government transparency, particularly regarding UFO phenomena. His career has focused on exposing corruption, promoting human rights, and addressing government secrecy. The through-line of his career has been a 40+ year project to unmask the [[Fascist Security State]]. 
 
 ---
 
@@ -19,8 +19,8 @@ Per ChatGPT:
 ### **Involvement in UFO Disclosure**
 
 - Sheehan became involved in UFO research during the Carter Administration, where he reviewed classified materials and reported to the White House.
-- He has consulted on disclosure efforts, working with initiatives like the **Disclosure Project** to press for the release of government-held information on UFOs.
-- He has testified before Congress and participated in events like the **Citizens’ Hearing on Disclosure** to advocate for public accountability regarding UFO phenomena.
+- He has consulted on disclosure efforts, working with initiatives like the **Disclosure Project** to press for the release of government-held information on UFOs.
+- He has testified before Congress and participated in events like the **Citizens’ Hearing on Disclosure** to advocate for public accountability regarding UFO phenomena.
 - **New Paradigm Institute** set up to act as citizens watchdog on the disclosure project 
 
 

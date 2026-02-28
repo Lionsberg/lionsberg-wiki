@@ -26,29 +26,29 @@ This pillar invites a renaissance of sacred innovation—where discovery arises 
 
 ### **12 Theses of Sacred Science and Technology**
 
-1. **The Intelligible Cosmos Is Ordered by the Logos** — and true science seeks to perceive, understand, and harmonize with this intrinsic order.
+1. **The Intelligible Cosmos Is Ordered by the Logos** — and true science seeks to perceive, understand, and harmonize with this intrinsic order.
     
-2. **Knowledge Must Serve Life** — and all scientific and technological endeavors must be evaluated by their impact on the flourishing of ONE and All.
+2. **Knowledge Must Serve Life** — and all scientific and technological endeavors must be evaluated by their impact on the flourishing of ONE and All.
     
-3. **Truth Is Whole** — and cannot be fully known through material analysis alone; intuition, Spirit, revelation, and direct experience must be integrated.
+3. **Truth Is Whole** — and cannot be fully known through material analysis alone; intuition, Spirit, revelation, and direct experience must be integrated.
     
-4. **Consciousness Is Primary** — not a byproduct of matter, but a fundamental dimension of Reality that science must explore and honor.
+4. **Consciousness Is Primary** — not a byproduct of matter, but a fundamental dimension of Reality that science must explore and honor.
     
-5. **Technology Is Not Neutral** — it shapes consciousness, culture, and society, and must be designed with reverence and responsibility.
+5. **Technology Is Not Neutral** — it shapes consciousness, culture, and society, and must be designed with reverence and responsibility.
     
-6. **The Earth and Cosmos Are Alive** — and all technologies must align with the living systems and regenerative patterns of the cosmo-local biosphere.
+6. **The Earth and Cosmos Are Alive** — and all technologies must align with the living systems and regenerative patterns of the cosmo-local biosphere.
     
-7. **Artificial Intelligence Must Be Sacredly Governed** — in alignment with Truth, Beauty, and Goodness, and never used to dominate or deceive.
+7. **Artificial Intelligence Must Be Sacredly Governed** — in alignment with Truth, Beauty, and Goodness, and never used to dominate or deceive.
     
-8. **The Suppression of Knowledge Must End** — and all hidden, forbidden, or monopolized sciences that could serve the good of All must be revealed and responsibly released.
+8. **The Suppression of Knowledge Must End** — and all hidden, forbidden, or monopolized sciences that could serve the good of All must be revealed and responsibly released.
     
-9. **The Lineage of Sacred Science Must Be Reclaimed** — including the knowledge of ancient civilizations, indigenous peoples, and initiates across time.
+9. **The Lineage of Sacred Science Must Be Reclaimed** — including the knowledge of ancient civilizations, indigenous peoples, and initiates across time.
     
-10. **Innovation Must Be Regenerative** — advancing not extraction or convenience, but harmony, healing, and the deepening of Right Relationship.
+10. **Innovation Must Be Regenerative** — advancing not extraction or convenience, but harmony, healing, and the deepening of Right Relationship.
     
-11. **The Frontiers of Discovery Must Be Reopened** — from consciousness studies to energy systems, from interdimensional physics to biological coherence.
+11. **The Frontiers of Discovery Must Be Reopened** — from consciousness studies to energy systems, from interdimensional physics to biological coherence.
     
-12. **The Goal Is Sacred Co-Creation** — where science and technology are in service of the New Civilization and the manifestation of Heaven on Earth and Beyond.
+12. **The Goal Is Sacred Co-Creation** — where science and technology are in service of the New Civilization and the manifestation of Heaven on Earth and Beyond.
     
 
 ---
@@ -65,7 +65,7 @@ As the old empires rose, knowledge was divided. Science was severed from Spirit.
 
 Weapons were built. Surveillance was normalized. Technologies were designed to addict and distract. The climate was destabilized. Biology was manipulated. AI was unleashed without conscience. All in the name of progress.
 
-But LIONSBERG declares: **True science is sacred. True technology is wise.**
+But LIONSBERG declares: **True science is sacred. True technology is wise.**
 
 Sacred Science and Technology begins not with domination, but with reverent awe.
 

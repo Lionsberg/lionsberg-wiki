@@ -92,9 +92,9 @@ William Tompkins began his career in World War II as part of a Navy intelligence
 ### **Further Reading**
 
 - **Primary Sources:**
-    - Tompkins, William. _Selected by Extraterrestrials: My Life in the Top Secret World of UFOs, Think Tanks, and Nordic Secretaries_
+    - Tompkins, William. _Selected by Extraterrestrials: My Life in the Top Secret World of UFOs, Think Tanks, and Nordic Secretaries_
 - **Analytical Works:**
-    - Salla, Michael. _Insiders Reveal Secret Space Programs and Extraterrestrial Alliances_
+    - Salla, Michael. _Insiders Reveal Secret Space Programs and Extraterrestrial Alliances_
 - **Documentaries:**
-    - _The Cosmic Secret_ by David Wilcock
+    - _The Cosmic Secret_ by David Wilcock
 

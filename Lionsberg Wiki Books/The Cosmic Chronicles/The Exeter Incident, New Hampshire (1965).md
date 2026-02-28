@@ -98,13 +98,13 @@ The officers and Muscarello witnessed the same pulsating, glowing object as it s
 
 - **Books:**
     
-    - Fuller, John G. _Incident at Exeter: The Story of Unidentified Flying Objects Over America._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Fuller, John G. _Incident at Exeter: The Story of Unidentified Flying Objects Over America._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Articles:**
     
     - Declassified Project Blue Book case files on the Exeter Incident.
     - Reports in regional newspapers from September 1965.
 - **Documentaries:**
     
-    - _UFO Encounters: The Exeter Case_ – An in-depth exploration of the incident and its implications.
+    - _UFO Encounters: The Exeter Case_ – An in-depth exploration of the incident and its implications.
 

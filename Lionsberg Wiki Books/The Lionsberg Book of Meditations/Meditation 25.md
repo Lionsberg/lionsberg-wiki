@@ -1,6 +1,6 @@
 # Meditation 25
 
-Every small action to reign in the chaos and establish new order expands your boundaries. Thought by thought, decision by decision, action by action, you are taking territory. 
+Every small action to reign in the chaos and establish new order expands your boundaries. Thought by thought, decision by decision, action by action, you are taking territory. 
 
 ___
 

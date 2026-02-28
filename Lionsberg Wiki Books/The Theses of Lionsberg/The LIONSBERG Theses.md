@@ -1,20 +1,20 @@
 # The LIONSBERG Theses
 _The Living Foundation of Wisdom, Justice, and Co-Creation_
 
-The **Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  
+The **Theses of LIONSBERG** now live nested under each of **[[The 12 Pillars of LIONSBERG]]**,  
 each Pillar representing one dimension of the unified architecture of the New Civilization.
 
-These Theses are **living**, **iterative**, and **sacred** —  
+These Theses are **living**, **iterative**, and **sacred** —  
 continually refined through collective discernment, lived experience, and divine alignment  
-as humanity ascends towards its fulfillment in **The ONE**.
+as humanity ascends towards its fulfillment in **The ONE**.
 
 ---
 
 # **The Old Theses Archive**
 
-This page preserves the earlier _prototype and developmental drafts_ of the Theses —  
+This page preserves the earlier _prototype and developmental drafts_ of the Theses —  
 a record of the thought and evolution that gave rise to the current 144.  
-They remain here as a **foundational resource and inspiration** for ongoing synthesis,  
+They remain here as a **foundational resource and inspiration** for ongoing synthesis,  
 illustrating some of the depth and breadth from which the Pillars were distilled.
 
 ## Introduction to the Theses of Lionsberg 
@@ -382,7 +382,7 @@ In sum, the Lionsberg Thesis of Economics offers a revolutionary blueprint for r
 ### II. The Lionsberg Theses of Economics 
 
 1. **Old: Selfish Ambition | New: Divine Aspiration**: Elevate human pursuits from a focus on individual and local self-gain at the expense of others, to alignment with Highest Divine Purpose that nurtures the collective soul and co-creates the Best Possible Future for All.
-2. **Old: Mindless Consumerism | New: Conscious Production and Consumption**: Transform material greed  and mindless consumerism into an ethos of conscious consumption and stewardship of the Earth's resources and regenerative capacity, cherishing every gift from the Creator as Sacred, and considering the ethical and spiritual ramifications of each of our choices.
+2. **Old: Mindless Consumerism | New: Conscious Production and Consumption**: Transform material greed  and mindless consumerism into an ethos of conscious consumption and stewardship of the Earth's resources and regenerative capacity, cherishing every gift from the Creator as Sacred, and considering the ethical and spiritual ramifications of each of our choices.
 3. **Old: Instant Gratification | New: Spiritual Patience**: Reject the impulse for immediate perceived pleasure to fully embrace the fruits of spiritual discipline, knowing that true joy comes from alignment with the Divine and the regeneration of our souls, communities, and world.
 4. **Old: Exploitative Economy | New: Economic Justice and Regenerative Reciprocity**: Reform systems that prioritize profit at the expense of people, society and the environment to reflect a Divine, Reciprocal, and Just economy where abundance is shared, each has enough, and exploitive gain is eradicated.
 5. **Old: Short-Term Gains | New: Long-Term Vision and Alignment**: Forego immediate perceived benefits for a Regenerative and Just Future that aligns with God’s eternal plan for Society and Creation. 

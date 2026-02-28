@@ -100,8 +100,8 @@ Arnold’s background as a skilled and reliable pilot lent significant weight to
     - Kenneth Arnold’s personal statements and interviews.
 - **Analytical Works:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallée, Jacques. _Anatomy of a Phenomenon._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallée, Jacques. _Anatomy of a Phenomenon._
 - **Historical Overviews:**
     
-    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
+    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._

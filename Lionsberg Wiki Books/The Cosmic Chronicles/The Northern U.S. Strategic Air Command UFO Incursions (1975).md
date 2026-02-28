@@ -118,12 +118,12 @@ Helicopters and fighter jets were scrambled to intercept the craft at multiple b
 
 - **Books:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Reports:**
     
     - Declassified U.S. Air Force documentation on the 1975 SAC incidents.
 - **Documentaries:**
     
-    - _UFOs and Nukes: The Secret Link Revealed_ – Includes coverage of the 1975 incursions.
+    - _UFOs and Nukes: The Secret Link Revealed_ – Includes coverage of the 1975 incursions.
 

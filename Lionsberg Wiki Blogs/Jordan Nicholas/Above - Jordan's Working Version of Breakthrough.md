@@ -151,7 +151,7 @@ Consciousness is fundamental: matter, biology and energy are derivatives of cons
 	- [Altman Plants Water, Stewardship, Water Issues](https://mwdh2o.granicus.com/MetaViewer.php?view_id=12&clip_id=6804&meta_id=170644)  
 - Oasis Plants - Water Efficient Gardens 
 	- https://www.oasis-plants.com 
-- Plug Connection -  one of the largest plug, liner, and grafted transplant producers in the country
+- Plug Connection -  one of the largest plug, liner, and grafted transplant producers in the country
 	- https://www.plugconnection.com/about/ 
 - Waterwise Botanicals - Plant Nursery and Nature Experience 
 	- https://www.waterwisebotanicals.com  
@@ -160,23 +160,23 @@ Consciousness is fundamental: matter, biology and energy are derivatives of cons
 - Water Studio - Architecture, urban planning and research in, on and next to water
 	- https://www.waterstudio.nl  
 	- Koen Olthuis - Founder - https://en.wikipedia.org/wiki/Koen_Olthuis  
-- Google X - Project Chrous - X’s moonshot to improve how we move and use the world’s goods
+- Google X - Project Chrous - X’s moonshot to improve how we move and use the world’s goods
 	- https://x.company/blog/posts/introducing-chorus/  
 	- https://9to5google.com/2022/03/15/x-project-chorus/  
 - Nvidia: [https://www.nvidia.com/en-us/](https://www.nvidia.com/en-us/)
 	- Nvidia News: [https://nvidianews.nvidia.com/](https://nvidianews.nvidia.com/)
-	- GTC 2022 Keynote with NVIDIA CEO Jensen Huang: [https://www.nvidia.com/gtc/keynote/](https://www.nvidia.com/gtc/keynote/)  
+	- GTC 2022 Keynote with NVIDIA CEO Jensen Huang: [https://www.nvidia.com/gtc/keynote/](https://www.nvidia.com/gtc/keynote/)  
 	- GTC 2022 Keynote with NVIDIA CEO Jensen Huang on YouTube: [https://www.youtube.com/watch?v=39ubNuxnrK8](https://www.youtube.com/watch?v=39ubNuxnrK8)
 	- USING AI TO ACCELERATE SCIENTIFIC DISCOVERY – DEMIS HASSABIS (CRICK INSTITUTE LECTURE SERIES):  [**https://www.youtube.com/watch?v=XtJVLOe4cfs**](https://www.youtube.com/watch?v=XtJVLOe4cfs)
 - Geoship - Morgan Bierschenk - https://www.geoship.is 
-	- Manufacturing bio-ceramic geodesic dome components in automated micro-factories.
-	- Democratizing regenerative village building with a market network. 
-	- Serving the Earth and all her passengers as a Multi-Stakeholder Cooperative.
-	- A regenerative ceramic raw materials industry is ready once we create the demand. We can use waste streams from lithium mining, seawater desalination, wastewater treatment, ash, sawdust, agricultural waste, etc. It all gets bound together in the crystalline ceramic matrix. But even without waste stream reclamation, Bio ceramic Domes generate 10x less embodied CO2 than a conventional house of equal size. And that's over a 50 year life, but our domes should last >500  years, because they can be repaired and resurfaced with the same ceramic material.....and there is nothing to rot, corrode, or rust. They have 10 inch thick insulation cavities (narrower with phase change insulation) and will require less operational energy than a passive house.
+	- Manufacturing bio-ceramic geodesic dome components in automated micro-factories.
+	- Democratizing regenerative village building with a market network. 
+	- Serving the Earth and all her passengers as a Multi-Stakeholder Cooperative.
+	- A regenerative ceramic raw materials industry is ready once we create the demand. We can use waste streams from lithium mining, seawater desalination, wastewater treatment, ash, sawdust, agricultural waste, etc. It all gets bound together in the crystalline ceramic matrix. But even without waste stream reclamation, Bio ceramic Domes generate 10x less embodied CO2 than a conventional house of equal size. And that's over a 50 year life, but our domes should last >500  years, because they can be repaired and resurfaced with the same ceramic material.....and there is nothing to rot, corrode, or rust. They have 10 inch thick insulation cavities (narrower with phase change insulation) and will require less operational energy than a passive house.
 	- $30k small dome sale cost, ~ 80% margin. 
 	- Ceramic components hardened and demolded ~ 3 minutes. 
 	- Converting US concrete block making capacity to ceramic parts for domes could result in ~1 billion homes / year. 
-	-  Bio photonic/Gas Discharge Variability Imaging 2) Measuring seed germination rates and 3) Measuring Heart Rate Variability. But sensitive people just feel it upon entering the dome. There is a good reason ancient (and modern) shamans built stone circles and pyramids. Materials and geometry matter.
+	-  Bio photonic/Gas Discharge Variability Imaging 2) Measuring seed germination rates and 3) Measuring Heart Rate Variability. But sensitive people just feel it upon entering the dome. There is a good reason ancient (and modern) shamans built stone circles and pyramids. Materials and geometry matter.
 	- We plan to establish a perpetual purpose-driven trust, to ensure that Geoship serves its co-operative mission now and for generations to come. 
 	- Plan to set aside 30% to 50% of stock for multi-stakeholder model. 
 - Daniel Matalon 
@@ -191,18 +191,18 @@ Consciousness is fundamental: matter, biology and energy are derivatives of cons
 	- Like the world wide web - Spatial Web connects everything and enables creation of the World Game Model 
 	- Then we apply AI to the World Game - and that means all AI - Google DeepMind, OpenAI, Singularity net - and VERSES - the most advanced AI in the world. 
 	- Celebration and protection of The Commons 
-	- McKinsey just completed a study of 300 Smart City projects around the world - and deemed them all FAILURES because they can't talk to each other and web together. They are silos. 
+	- McKinsey just completed a study of 300 Smart City projects around the world - and deemed them all FAILURES because they can't talk to each other and web together. They are silos. 
 	- This is the problem have on the planet right now. That's why we feel so frustrated - it's moving too slowing by a factor of 10x
-	- This is DELOITTE calling the Spatial Web the NEXT ERA IN COMPUTING.[https://www2.deloitte.com/us/en/insights/topics/digital-transformation/web-3-0-technologies-in-business.html](https://www2.deloitte.com/us/en/insights/topics/digital-transformation/web-3-0-technologies-in-business.html)
-	- And our Chief Scientist in AI is the leading Neuroscientist on the freaking planet - the guy everyone else goes to see to check their AI work - Dr. Karl Friston at UCL - shortlisted for a Nobel in the next year or two. [https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/)
+	- This is DELOITTE calling the Spatial Web the NEXT ERA IN COMPUTING.[https://www2.deloitte.com/us/en/insights/topics/digital-transformation/web-3-0-technologies-in-business.html](https://www2.deloitte.com/us/en/insights/topics/digital-transformation/web-3-0-technologies-in-business.html)
+	- And our Chief Scientist in AI is the leading Neuroscientist on the freaking planet - the guy everyone else goes to see to check their AI work - Dr. Karl Friston at UCL - shortlisted for a Nobel in the next year or two. [https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/)
 	- Background:
-	- We have so much research happening around the planet, but it is not interoperable. 
-	- We had electronic publishing in the 80s before the world wide web in the 90’s but it was not in a form that was universally indexable, searchable, analyzable or hyperlink-able. 
-	- Then Tim dropped HTTP in 94 and all of those documents had to be reformatted to come into compliance with HTML and be viewable by a browser and transferable over the network using HTTP. That transition created the greatest library in the history of the world (now 8 billion webpages) and enabled all sorts of new business models and entrepreneurial opportunities. The world was changed forever. Commerce was changed forever. Trillions of dollars of market cap were created. It's massive. 
-	- But that was just the warmup act.  That is a web of pages. Pages about the world and everything in it. 
-	- Now - because of Moore's law and high-speed networking we can finally put everything else online. 
-	- Every building, every car, every factory, every port, every city, every tree, every bridge - in other words, we can now realize Buckminster Fuller's vision of The WORLD GAME. 
-	- The Spatial Web is the ultimate goal - the Internet of Everything - The New World Game is the tool that is needed to meet the Paris accords. 
+	- We have so much research happening around the planet, but it is not interoperable. 
+	- We had electronic publishing in the 80s before the world wide web in the 90’s but it was not in a form that was universally indexable, searchable, analyzable or hyperlink-able. 
+	- Then Tim dropped HTTP in 94 and all of those documents had to be reformatted to come into compliance with HTML and be viewable by a browser and transferable over the network using HTTP. That transition created the greatest library in the history of the world (now 8 billion webpages) and enabled all sorts of new business models and entrepreneurial opportunities. The world was changed forever. Commerce was changed forever. Trillions of dollars of market cap were created. It's massive. 
+	- But that was just the warmup act.  That is a web of pages. Pages about the world and everything in it. 
+	- Now - because of Moore's law and high-speed networking we can finally put everything else online. 
+	- Every building, every car, every factory, every port, every city, every tree, every bridge - in other words, we can now realize Buckminster Fuller's vision of The WORLD GAME. 
+	- The Spatial Web is the ultimate goal - the Internet of Everything - The New World Game is the tool that is needed to meet the Paris accords. 
 	- NOTHING ELSE WILL WORK.
 	- As everything in the world is digitized by creating a digital copy of it (or as it's called - a Digital Twin), then all of the Digital Twins can be indexed, searchable, analyzable and hyper-interoperable. The entire surface of the planet can be turned into a giant holographic game world and AI can join with humans to simulate and optimize the management of the planet. This includes our carbon footprint, water quality, sustainable farming, smart cities, and all of the 17 Sustainable Development Goals of the UN. Without this new Spatial Web, this is not possible. We need a common protocol so that the world and everything in it becomes fully interoperable and programmable.
 	- Verses Spatial Web Introduction [https://vimeo.com/433522124](https://vimeo.com/433522124) 
@@ -217,7 +217,7 @@ Consciousness is fundamental: matter, biology and energy are derivatives of cons
 	- Society 5.0 [https://sg.nec.com/en_SG/campaign/society5.0/index.html](https://sg.nec.com/en_SG/campaign/society5.0/index.html)
 	- Global Standards Organizations Collaborate On Interoperability Standards for the Spatial Web [https://www.prweb.com/releases/global_standards_organizations_collaborate_on_governance_and_interoperability_standards_for_the_spatial_web/prweb18122160.htm](https://www.prweb.com/releases/global_standards_organizations_collaborate_on_governance_and_interoperability_standards_for_the_spatial_web/prweb18122160.htm)
 	- VR and Climate [https://phys.org/news/2021-08-virtual-reality-planet.html](https://phys.org/news/2021-08-virtual-reality-planet.html)
-	- OpenClimate: Dynamic Adaptable Schemas  [https://www.youtube.com/watch?v=cwcBfjIY1ZU&t=3915s](https://www.youtube.com/watch?v=cwcBfjIY1ZU&t=3915s)
+	- OpenClimate: Dynamic Adaptable Schemas  [https://www.youtube.com/watch?v=cwcBfjIY1ZU&t=3915s](https://www.youtube.com/watch?v=cwcBfjIY1ZU&t=3915s)
 	- Open Climate Demo: Nested Climate Accounting and Next-Gen Carbon Markets [https://www.youtube.com/watch?v=Luaqannp8JI&t=130s](https://www.youtube.com/watch?v=Luaqannp8JI&t=130s) 
 - 
 ## Selected Challenges 
@@ -301,7 +301,7 @@ Consciousness is fundamental: matter, biology and energy are derivatives of cons
 
 Comprehensively the world is going from a Newtonian static norm to an Einsteinian all motion norm. This is the biggest thing that is happening at this moment in history. We are becoming quick, and the graveyards of the dead become progressively less logical.
 
- We know that our **world population is increasing incomprehensibly swiftly**. There are **enormous numbers to be educated**. We are going to develop very **new attitudes** about our cross breeding and our reversion to universal pigmentation. That is going to be slow, but it is going to be a great and inevitable event. In the end we are going to recognize that there are no different species of living man, and we will get over that kind of color-class distinction.
+ We know that our **world population is increasing incomprehensibly swiftly**. There are **enormous numbers to be educated**. We are going to develop very **new attitudes** about our cross breeding and our reversion to universal pigmentation. That is going to be slow, but it is going to be a great and inevitable event. In the end we are going to recognize that there are no different species of living man, and we will get over that kind of color-class distinction.
 
 The big question is how are we, as educators, going to handle the enormous increase in the new life. How do we make available to these new students, what we have been able to discover fairly accurately about the universe and the way it is operating? How are we going to be able to get them the true net value won blindly through the long tradition of ignorant dedications and hard-won lessons of all the unknown mothers and all the other invisibly heroic people who have given hopefully to the new life, such as, for instance, the fabulous heritage of mans stoic capacity to carry on despite immense hardships?
 
@@ -383,7 +383,7 @@ OUR FIRST RELATION IS WITH OURSELVES, OUR ABILITY TO CONTROL OUR ATTENTION / FOC
 
 EVERYTHING: ALL OF NATURE, ALL LIFE, GAIA, ALL THE INFRASTRUCTURE WE BUILD AND INFLUENCE CAN BE IN COMPLIMENTARY FLOW / THRIVING SIMULTANEOUSLY.
 
-IF EVERYTHING: ALL OF OUR INFRASTRUCTURE IS IN FLOW WITH OUR SURROUNDINGS, THAT HARMONIOUS ENVIRONMENT WILL ALLOW GLOBAL HUMANITY TO SHARE INSIGHTS AND  STAY IN FLOW STATES PERPETUALLY WITH COLLECTIVE CONSCIOUSNESS MANIFESTING SYSTEM WIDE CASCADING BENEFITS.
+IF EVERYTHING: ALL OF OUR INFRASTRUCTURE IS IN FLOW WITH OUR SURROUNDINGS, THAT HARMONIOUS ENVIRONMENT WILL ALLOW GLOBAL HUMANITY TO SHARE INSIGHTS AND  STAY IN FLOW STATES PERPETUALLY WITH COLLECTIVE CONSCIOUSNESS MANIFESTING SYSTEM WIDE CASCADING BENEFITS.
 
 WITH NATURE GUIDING OUR COMPASS - ALIGNMENTS OF OBJECTIVES AND INCENTIVES WILL PRODUCE FLOW UNLEASHING LIMITLESS CAPACITIES FOR EVOLUTION..
 
@@ -399,15 +399,15 @@ Verses.io becomes the collective brain Omni tool in forming our collective sympa
 
 Our interconnectedness becomes visible / experienced / interactive / shown as systemic with health compounding and cross pollinating resiliency.
 
- Add in the bliss / joy / fun factor to all of it and suddenly we can experience the way we can affect all beings / all things simply by being.
+ Add in the bliss / joy / fun factor to all of it and suddenly we can experience the way we can affect all beings / all things simply by being.
 
- The more love we are and the healthier we are the more we care for ourselves and each other - the entire system strengthens.
+ The more love we are and the healthier we are the more we care for ourselves and each other - the entire system strengthens.
 
 Resiliency and decentralized flourishing happen individually / regionally / collectively and we dissolve the illusion of separation.
 
 We can remind all of our interconnectedness with each other in the world around us the planet and reality itself.
 
-“There is no such thing as a failed experiment, only experiments with unexpected outcomes.” – **Buckminster Fuller**
+“There is no such thing as a failed experiment, only experiments with unexpected outcomes.” – **Buckminster Fuller**
 
 _“Our senses are a filter to stop our brains from being overwhelmed by reality_._”_
 
@@ -467,19 +467,19 @@ The generalized principles have always – eternally – existed and have always
 
 The only happily promising recourse of each human individual this is to our highest intellectual faculties and their mutual, ego deflated, unselfishly loving preoccupation with comprehensivity and our employment of the most powerful tools of all:
 
-(A)      the family of generalized scientific principles governing the operational design of eternally regenerative universe itself;
+(A)      the family of generalized scientific principles governing the operational design of eternally regenerative universe itself;
 
-(B)      comprehending and effectively employing synergetics with the books Synergetics and Synergetics II presenting the comprehensive omni-image-able mathematical coordinate system employed by nature, thus avoiding the mentally debilitating, vast-majority-of-humanity-excluding quasimathematical coordinate system employed by present-day science;
+(B)      comprehending and effectively employing synergetics with the books Synergetics and Synergetics II presenting the comprehensive omni-image-able mathematical coordinate system employed by nature, thus avoiding the mentally debilitating, vast-majority-of-humanity-excluding quasimathematical coordinate system employed by present-day science;
 
-(C)      comprehending the major objectives and operating strategies of the major opposing power structures of world politics, their present status quo and probable future trending;
+(C)      comprehending the major objectives and operating strategies of the major opposing power structures of world politics, their present status quo and probable future trending;
 
-(D)      comprehending the fundamentals of economics, of wealth versus money, of the principal features and functioning of industry, banking and securities;
+(D)      comprehending the fundamentals of economics, of wealth versus money, of the principal features and functioning of industry, banking and securities;
 
-(E)      comprehending the educational system in general as well as the discovery of the shortcomings of science, engineering, and education in general;
+(E)      comprehending the educational system in general as well as the discovery of the shortcomings of science, engineering, and education in general;
 
-(F)      synergetically comprehending “what it is all about” as propounded in _Critical Path_ and this book, _Grunch of Giants_, and discovering what our options are to confront imminent race disaster; and
+(F)      synergetically comprehending “what it is all about” as propounded in _Critical Path_ and this book, _Grunch of Giants_, and discovering what our options are to confront imminent race disaster; and
 
-(G)      the individual discovery of God by a vast majority of human individuals - not the discovery of religions, but the discovery that each and every individual has an always-instantly-open, no intermediary-switchboard-authority-to-contend-with, no-interference-of-any-kind, direct “hot-line to God”: ie the weightless, non-physical, communication occurring teleologically between the differentially limited, weightless, nonphysical, temporal, special case mind of the individual human and the comprehensively integrated, macro-micro unlimited, weightless, eternal, generalized mind of God.
+(G)      the individual discovery of God by a vast majority of human individuals - not the discovery of religions, but the discovery that each and every individual has an always-instantly-open, no intermediary-switchboard-authority-to-contend-with, no-interference-of-any-kind, direct “hot-line to God”: ie the weightless, non-physical, communication occurring teleologically between the differentially limited, weightless, nonphysical, temporal, special case mind of the individual human and the comprehensively integrated, macro-micro unlimited, weightless, eternal, generalized mind of God.
 
 ----- R. Buckminster Fuller, Grunch of Giants – Pages 90, 91
 
@@ -509,13 +509,13 @@ As each of us reflect Universe – we influence life and each other individually
 
 It is time to use current technologies to empower successful cross disciplinary teams, to connect and flow.
 
-“Never forget that you are one of a kind. Never forget that if there weren’t any need for you in all your uniqueness to be on this earth, you wouldn’t be here in the first place. And never forget, no matter how overwhelming life’s challenges and problems seem to be, that one person can make a difference in the world. In fact, it is always because of one person that all the changes that matter in the world come about. So be that one person.” – **Buckminster Fuller**
+“Never forget that you are one of a kind. Never forget that if there weren’t any need for you in all your uniqueness to be on this earth, you wouldn’t be here in the first place. And never forget, no matter how overwhelming life’s challenges and problems seem to be, that one person can make a difference in the world. In fact, it is always because of one person that all the changes that matter in the world come about. So be that one person.” – **Buckminster Fuller**
 
 ### Misc Text 2 
 
 “One and a half billion years ago, the planet’s only lifeforms were single-celled. Fermentation ruled the earth. Then an anaerobic bacterium engulfed an aerobic bacterium. In time the ingested bacterium’s capacity for feeding on oxygen managed to increase, by an order of magnitude, the amount of energy available to its anaerobic host. This accidental collaboration made possible the proliferation of multi-cellular life forms and eventually, tool-wielding hominids…”
 
-“According to what is known as the endosymbiotic theory of biologic complexity… this is the reason we exist.”  [ [https://en.wikipedia.org/wiki/Symbiogenesis](https://en.wikipedia.org/wiki/Symbiogenesis) ] 
+“According to what is known as the endosymbiotic theory of biologic complexity… this is the reason we exist.”  [ [https://en.wikipedia.org/wiki/Symbiogenesis](https://en.wikipedia.org/wiki/Symbiogenesis) ] 
 
  [https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(Kaiser)/Unit_4%3A_Eukaryotic_Microorganisms_and_Viruses/07%3A_The_Eukaryotic_Cell/7.8%3A_The_Endosymbiotic_Theory](https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(Kaiser)/Unit_4%3A_Eukaryotic_Microorganisms_and_Viruses/07%3A_The_Eukaryotic_Cell/7.8%3A_The_Endosymbiotic_Theory) 
 
@@ -547,19 +547,19 @@ THE ENERGY PARADOX: WHAT TO DO WHEN YOUR GET-UP-AND- GO HAS GOT UP AND GONE – 
 
 Gundry enumerates seven “deadly” energy disrupters:
 
-1)       Antibiotics
+1)       Antibiotics
 
-2)       Glyphosate – the main active ingredient in the weed killer Roundup
+2)       Glyphosate – the main active ingredient in the weed killer Roundup
 
-3)       Other environmental chemicals
+3)       Other environmental chemicals
 
-4)       Overused pharmaceuticals
+4)       Overused pharmaceuticals
 
-5)       Fructose
+5)       Fructose
 
-6)       Bad light
+6)       Bad light
 
-7)       Electromagnetic fields
+7)       Electromagnetic fields
 
 “Thinking about all the inputs, their ubiquity, and the myriad unmappable consequences of their interactions, one may just sigh…”
 
@@ -617,9 +617,9 @@ Empowered by flow, we can apply our capacities to co-create and manifest solutio
 
 We can do anything; we can achieve the impossible – the key is what trains us to focus our potential in one area or another?
 
-**Global funding of teams that pull off the “IMPOSSIBLE” – exemplified by the NASA / Jet Propulsion Laboratories / James Webb Space Telescope / Canadian Space Agency / French Ariana Rocket Launch Teams and  teams – should be seen as an ongoing Research and Development investment that unlocks scientific insights and inspires engineering breakthroughs that improve the future of all life on Spaceship Earth.**
+**Global funding of teams that pull off the “IMPOSSIBLE” – exemplified by the NASA / Jet Propulsion Laboratories / James Webb Space Telescope / Canadian Space Agency / French Ariana Rocket Launch Teams and  teams – should be seen as an ongoing Research and Development investment that unlocks scientific insights and inspires engineering breakthroughs that improve the future of all life on Spaceship Earth.**
 
- Consciousness is foundational – there is no realm “off limits” to our physical human body – we can engage with waves at any scale, in any medium.
+ Consciousness is foundational – there is no realm “off limits” to our physical human body – we can engage with waves at any scale, in any medium.
 
 We can regenerate the natural systems we are a part of, take the idea of thriving health and longevity to new levels and bring the extraordinary focus, science and engineering we have invested into planet / life destroying weaponry and apply that same brilliance and financial investment to instead shift this planet to a level of flow, abundance, sharing and respect support all life and each other.
 
@@ -753,25 +753,25 @@ This book discuss is how that happens and what to do to correct it.”
 
 **SHE IS NOT YOUR REHAB – MATT BROWN**: [https://www.sheisnotyourrehab.com/about](https://www.sheisnotyourrehab.com/about)
 
- [https://www.youtube.com/watch?v=4UhP3OZ9ZCE](https://www.youtube.com/watch?v=4UhP3OZ9ZCE)
+ [https://www.youtube.com/watch?v=4UhP3OZ9ZCE](https://www.youtube.com/watch?v=4UhP3OZ9ZCE)
 
 Dear Brothers,
 
 Many of you ask me what we mean by “She Is Not Your Rehab” so I thought I’d put this list together –
 
-1)       She is not responsible for your emotional rehabilitation.
+1)       She is not responsible for your emotional rehabilitation.
 
-2)       Your healing is your responsibility and yours to take initiative for and manage.
+2)       Your healing is your responsibility and yours to take initiative for and manage.
 
-3)       Any healing needed for you, cannot come at the expense of her healing, health and wellbeing.
+3)       Any healing needed for you, cannot come at the expense of her healing, health and wellbeing.
 
-4)       She can support you but she can never do more for you than you are prepared to do for yourself.
+4)       She can support you but she can never do more for you than you are prepared to do for yourself.
 
-5)       Regardless of what anyone has done TO YOU, it is now time FOR YOU to take ownership of your own life and be committed to living it wholeheartedly enough to do any work needed. Your childhood trauma wasn’t your fault but your healing IS now your responsibility.
+5)       Regardless of what anyone has done TO YOU, it is now time FOR YOU to take ownership of your own life and be committed to living it wholeheartedly enough to do any work needed. Your childhood trauma wasn’t your fault but your healing IS now your responsibility.
 
-6)       True change comes from genuine growth. Growth happens once we heal. Healing starts when we begin to FEEL our pain.
+6)       True change comes from genuine growth. Growth happens once we heal. Healing starts when we begin to FEEL our pain.
 
-7)       Hurt people inevitably hurt people because what we will not transform, we transmit on those around us, and healed people do indeed heal people. The question is WILL YOU have the courage to heal?
+7)       Hurt people inevitably hurt people because what we will not transform, we transmit on those around us, and healed people do indeed heal people. The question is WILL YOU have the courage to heal?
 
 She Is Not Your Rehab – and neither is he…. Matt Brown
 
@@ -785,13 +785,13 @@ SOUND – David Gibson
 
 TECHNOLOGY – Dan Mapes / Spatial Web / VERSES.IO – Nature based / Geolocated / Blockchain Secure – Elders / Wisdom Keepers / Optimal Ecosystem Health / Security / Gump Research Station + Finca Sagrada
 
-DR. BOB ARNET – THE BIONIC OLD GUY - [https://bionicoldguy.home.blog/2020/12/07/flip-the-youth-switch/](https://bionicoldguy.home.blog/2020/12/07/flip-the-youth-switch/)   ,   [https://www.amazon.com/Flip-Youth-Switch-Bob-Arnot-ebook/dp/B088FYMTXD](https://www.amazon.com/Flip-Youth-Switch-Bob-Arnot-ebook/dp/B088FYMTXD)
+DR. BOB ARNET – THE BIONIC OLD GUY - [https://bionicoldguy.home.blog/2020/12/07/flip-the-youth-switch/](https://bionicoldguy.home.blog/2020/12/07/flip-the-youth-switch/)   ,   [https://www.amazon.com/Flip-Youth-Switch-Bob-Arnot-ebook/dp/B088FYMTXD](https://www.amazon.com/Flip-Youth-Switch-Bob-Arnot-ebook/dp/B088FYMTXD)
 
 
 
 Nature employs discontinuous compressions and continuous tension. For this reason, compressions are plural and tension is singular. That is, Earth and the moon do not roll around one another like ball bearings, The universe is cohered only by the continuous tensional integrity, which is sometimes magnetical, sometimes gravitational, and sometimes produced by forces as yet unexplained by experimental science.
 
-And what has all this cosmology to do with woman in the twenty-first century? Answer: Just what it has had to do with women in all centuries – which is everything – as is manifest, for instance, in woman’s tidal flows geared to the moon phases. 
+And what has all this cosmology to do with woman in the twenty-first century? Answer: Just what it has had to do with women in all centuries – which is everything – as is manifest, for instance, in woman’s tidal flows geared to the moon phases. 
 
 Women are tensional and continuous. Each new female as well as male life comes from the womb of the women. We have, then, the new female life as a series of expanding waves, the new ever emerging from within the older wave. Women are thus continuous, like the single-cell creature, Hydra – the newer part breaking off from the older with its early life overlapping its mother’s later life – ergo, never dying.
 
@@ -805,17 +805,17 @@ Twenty-first century woman will retain her tensional-integrity continuity and wi
 
 [https://fullerfuture.files.wordpress.com/2013/01/buckminsterfuller-saturdayreview-march-2-1968-full-print.pdf](https://fullerfuture.files.wordpress.com/2013/01/buckminsterfuller-saturdayreview-march-2-1968-full-print.pdf)
 
-**“You cannot understand a system unless you change it.”     Kurt Lewin**
+**“You cannot understand a system unless you change it.”     Kurt Lewin**
 
-**“You cannot change a system unless you transform consciousness.”     Otto Scharmer**
+**“You cannot change a system unless you transform consciousness.”     Otto Scharmer**
 
-**“You can’t transform consciousness unless you make a system see + sense itself.”     Otto Scharmer**
+**“You can’t transform consciousness unless you make a system see + sense itself.”     Otto Scharmer**
 
-**“You can’t transform a system unless you sense + actualize the emerging future.”     Otto Scharmer**
+**“You can’t transform a system unless you sense + actualize the emerging future.”     Otto Scharmer**
 
 Energy is flowing through everything / everywhere. Consciousness, directs the power of thought metaphysically conceived / physically applied, influences energy, co-creating the pattern integrity we are a part of. Precision instrumentation that gives us new insights into the details of Macro / Micro realities empowered by AI makes the invisible visible in real time. Humans are now informed, beyond spectral limitations of sensory capacity, processing simultaneous multiple streams of physical / metaphysical reality to allow the most accurate shared system wide evidence evaluation we have ever been capable of. Individual / collective consciousness in flow, co-creating the future with new levels of depth, precision, interactivity and interconnectivity will allow us to make the best decisions we have ever made in aligning our evolution with cosmic reality. AI informs through multiple lens perspectives, aligning consciousness with nature and allowing for a new level of system wide decision making that will empower thriving system wide health to improve the potential of all life. At a time when “normal” is redefined daily, AI improves our ability to adapt to a rapidly changing planet with scientifically validated original people’s wisdom in real time to make decisions that generate optimal outcomes aligned with a regenerative future. Open source, living, geo-located AI opens us up to a new level of awe with the vastness of the web of life we are a part of directly and in real time: no educational or experiential gatekeepers influencing our curiosity with Ecocide creating preconceptions. We are free to explore Universe in flow, directly, without maps: the world is our classroom, and our curiosity can lead us where our unique perspectives are inspired to explore. Unencumbered by fears or trauma and empowered by flow, we are free to explore our unique relationships with universe and see how our personal perspectives weave into the web of life. Just as biodiversity adds resiliency to the web of life that collectively makes up the ecosystems that we are a part of, thought diversity will add resilience to our collective consciousness. AI allows humans to see where collective wisdom aligns to become net positive to nature and give us a chance to reverse Ecocide. AI empowers our individual and collective consciousness with globally shared baseline understandings of complex nested natural ecosystems so that we can manage decision making power in alignment with the energy flows of nature to cooperate in new ways and empower the regenerative future we need now. Engineers set objective standards of performance and learn from failure to improve our built environment – it is time we establish flow states as a standard for human potential and do the same with thought.
 
-“Nature is a totally efficient, self-regenerating system. If we discover the laws that govern this system and live synergistically within them, sustainability will follow, and humankind will be a success.” – **Buckminster Fuller**
+“Nature is a totally efficient, self-regenerating system. If we discover the laws that govern this system and live synergistically within them, sustainability will follow, and humankind will be a success.” – **Buckminster Fuller**
 
 Human Metaphysical Innovation has outpaced the physical legacy that has brought us to Ecocide. Our legacy of fragmented, segregated, siloed, colonization-based educational, financial, legal, economic, governance and military systems have been designed and orchestrated over hundreds of years of calculated secrecy and misinformation to control power, sensing, wealth, and life through imbedding perceptions of racism, scarcity, polarization, and fear as being facts of life. The push for power and profits has destroyed the Commons by concentrating human potential and resources on a global race of weaponry, power and control. Global human traveling and perspectives and capacities to share information instantly have now evolved the potential of human collective consciousness with the capacities to address the extinction / ecocide we have been led into and create a new, regenerative “normal” that will allow all life to thrive by creating livingry.
 
@@ -825,9 +825,9 @@ REVERSING THE TIDE OF ECOCIDE
 
 **The Solution: An “Aware and Adaptive Nature Aligned Real Time Information Ecosystem for Sensory / Monitoring and Decision Making - Governance”**
 
-We have the best tools to understand the environment we are a part of. Governance by nature is now a possibility. We have enough information about real time inputs / outputs / influence and past / present future modeling analytics to engage with living immune systems and how they collectively make up the immune system of the planet. Every life form is a sensor – with optimal ranges for health and function. We have the chance to govern our decisions and actions in alignment with Nature. Technology is a tool extension / precision - detail scope expansion (macro)  / contraction (micro) of sensory capacity / to understand our influences and what we are being influenced by. Geo-located insights shared transparently allows for adaptation optimization.  If we do not listen to the immune system of the planet, which governs the immune systems of all life, we create sickness, death and extinction, You get sick – you adapt behaviors for if you do not, you may die: don’t listen to the things that cause death and you go extinct – life is in context of ecosystem. We can for the first time in history reconcile our interconnected / interdependent “oneness” and our sovereign drive for freedom of our unique understanding of the experience of life in a physical body – allowing those insights to then influence our physical, spiritual and cosmic evolution. Digital consciousness can change and metaphysical speeds – Physical changes lag behind thoughts. There are various “gestation periods” between thoughts and realities.
+We have the best tools to understand the environment we are a part of. Governance by nature is now a possibility. We have enough information about real time inputs / outputs / influence and past / present future modeling analytics to engage with living immune systems and how they collectively make up the immune system of the planet. Every life form is a sensor – with optimal ranges for health and function. We have the chance to govern our decisions and actions in alignment with Nature. Technology is a tool extension / precision - detail scope expansion (macro)  / contraction (micro) of sensory capacity / to understand our influences and what we are being influenced by. Geo-located insights shared transparently allows for adaptation optimization.  If we do not listen to the immune system of the planet, which governs the immune systems of all life, we create sickness, death and extinction, You get sick – you adapt behaviors for if you do not, you may die: don’t listen to the things that cause death and you go extinct – life is in context of ecosystem. We can for the first time in history reconcile our interconnected / interdependent “oneness” and our sovereign drive for freedom of our unique understanding of the experience of life in a physical body – allowing those insights to then influence our physical, spiritual and cosmic evolution. Digital consciousness can change and metaphysical speeds – Physical changes lag behind thoughts. There are various “gestation periods” between thoughts and realities.
 
-**“Civilization is in a race between education and catastrophe. Let us learn the truth and spread it as far and wide as circumstances allow. For the truth is the greatest weapon we have.”                                                                                  H.G. Wells**
+**“Civilization is in a race between education and catastrophe. Let us learn the truth and spread it as far and wide as circumstances allow. For the truth is the greatest weapon we have.”                                                                                  H.G. Wells**
 
 ECONOMICS
 
@@ -839,7 +839,7 @@ Intellectual Properties can change the world – which we have experienced.
 
 ADAPTABILITY
 
- “Normal” seasons and weather patterns are over. The world is a single, connected system with our global economy a wholly owned subsidiary of the environment. We are witnessing borders dissolve due to environmental and geo-political influences. We can only avoid Ecocide by using technology to inform, educate and mobilize unlimited collective potential in real time to empower a relationship with life that is net positive to Nature. Aligning with the needs of Nature by utilizing the transparency and insights enlightened by the SPATIAL WEB / VERSES.IO will unlock planetary healing potential. We now have the information about planetary systems dynamics that align the global biome, resources and capital with Nature and evolutionary consciousness to inspire insights to flow into regenerative information, education, actions, innovation and investment at the speed of thought.
+ “Normal” seasons and weather patterns are over. The world is a single, connected system with our global economy a wholly owned subsidiary of the environment. We are witnessing borders dissolve due to environmental and geo-political influences. We can only avoid Ecocide by using technology to inform, educate and mobilize unlimited collective potential in real time to empower a relationship with life that is net positive to Nature. Aligning with the needs of Nature by utilizing the transparency and insights enlightened by the SPATIAL WEB / VERSES.IO will unlock planetary healing potential. We now have the information about planetary systems dynamics that align the global biome, resources and capital with Nature and evolutionary consciousness to inspire insights to flow into regenerative information, education, actions, innovation and investment at the speed of thought.
 
 We support, and embrace the open, transparent, blockchain empowered spatial web in allowing, for the first time in history a validated exchange and sharing of system wide biomimicry based solutions and best practices between nature, science, engineering, and Indigenous / Original People’s wisdom-based learning that will establish transparent education and standards that regenerate the commons.
 
@@ -861,7 +861,7 @@ Technology will empower our sensemaking with new levels of rapidly informed and 
 
 **_The flow of consciousness into capital investment_**
 
-**_is pivotal at this point in human destiny._** 
+**_is pivotal at this point in human destiny._** 
 
 Consciousness creates reality. We become what we think individually and most importantly, collectively. An evolved “collective consciousness” aware of and aligned with Nature is not only critical to the future of humanity, but also a necessary condition for our survival. Consciousness is the re-examination and evolution of our very interface with existence and each other – integrity, self-examination, following our bliss in aligning with Universe / Nature / Life and Love – is how we evolve toward our individual and collective potential.
 
@@ -890,7 +890,7 @@ All component silos while working globally, have complimentary geo-located / cul
 
 ### Our Perspective Addresses
 
-- Destruction of the commons is collapsing the immune system of the planet. As part of Nature, we are along for the ride we have co-created. The age we live in is called **_the Anthropocene Age_** because rather than being victims of random forces, we are now understanding that our thoughts, collective consciousness and actions have actually created our problems.  Humanity and our individual / collective consciousness is directly impacting and influencing living systems, health and survival causing mass out of phase extinction / Ecocide.
+- Destruction of the commons is collapsing the immune system of the planet. As part of Nature, we are along for the ride we have co-created. The age we live in is called **_the Anthropocene Age_** because rather than being victims of random forces, we are now understanding that our thoughts, collective consciousness and actions have actually created our problems.  Humanity and our individual / collective consciousness is directly impacting and influencing living systems, health and survival causing mass out of phase extinction / Ecocide.
 
 - Our transition from me to we consciousness is essential to our survival. We must overturn ignorant, dominant, fear based, disempowering ideologies that have convinced us to believe that Ecocide, war / murder, blind faith, waste, toxicity, pollution, genocide, poverty, antibiotics, stress, illness, starvation, terrorism and the ongoing destruction by extraction from the environment as well as the constriction of thoughts, freedoms and liberties are necessary, inescapable, “normal” parts of “success” and civilization.
 
@@ -900,7 +900,7 @@ All component silos while working globally, have complimentary geo-located / cul
 
 - **Humanity is in transition, taking an evolutionary step as it moves from a legacy of siloed physical reality to a future embracing the healing potential of networked metaphysical reality.** Like all breakthroughs in human potential, our fix must be **nothing less than a bold and courageous evolutionary step** in overturning the greed and scarcity-based, ignorance, fear and war machine power structures that have brought us to this crisis. We must recognize barriers: challenge and adapt the entrenched / subconscious dysfunctional thoughts, prejudices, habits, expectations, financial systems, economic models, policies, and destructive war machines that have become part of our belief systems and governance before we knew better. We have ignored planetary warning signs for decades and allowed “business as usual” to exponentially accelerate us and all life into this collapse of the commons / Ecocide which our disconnection from and disrespect of Life and Nature has created.
 
-- The work of Dan Mapes (The Spatial Web / VERSES.IO) now **allows us to listen to the Earth / Nature with greater detail, precision, and sensitivity than our physical senses have been trained to believe is possible.** We can now make the invisible visible and learn instantly with processes unfolding in real time.  We have a windshield and dashboard for Spaceship Earth that is equivalent to “Mission Control” at NASA – to make decisions on the planet that respect natural flows to empower human existence in becoming net positive to nature.
+- The work of Dan Mapes (The Spatial Web / VERSES.IO) now **allows us to listen to the Earth / Nature with greater detail, precision, and sensitivity than our physical senses have been trained to believe is possible.** We can now make the invisible visible and learn instantly with processes unfolding in real time.  We have a windshield and dashboard for Spaceship Earth that is equivalent to “Mission Control” at NASA – to make decisions on the planet that respect natural flows to empower human existence in becoming net positive to nature.
 
 - Leadership and governance revolves around and is shaped by global, multinational wealth that we perceive as driving the economy – the innovations and solutions for a regenerative economy exist today -- right now-- and **we need to align human opinion with Nature and scientific / engineering / materials science reality** in order to integrate solutions and share best practices at the massive, global scale necessary for optimal health of nested living systems insure Nature / We THRIVE.
 
@@ -935,9 +935,9 @@ All component silos while working globally, have complimentary geo-located / cul
 
 - VERSES Leads EU Digital Government Transformation with first Multi-City Drone Project: [https://www.verses.io/verses-leads-eu-digital-government-transformation-with-first-multi-city-drone-project](https://www.verses.io/verses-leads-eu-digital-government-transformation-with-first-multi-city-drone-project)
 
-- Integrate the Spatial Web: [https://www.verses.io/](https://www.verses.io/)  with Gump Research Station: [https://bids.berkeley.edu/people/neil-davies](https://bids.berkeley.edu/people/neil-davies)  , + Moorea Coral Reef National Science Foundation Long Term Ecological Research Network: [http://mcr.lternet.edu/](http://mcr.lternet.edu/) , + Oxford Biodiversity Network: [https://www.biodiversity.ox.ac.uk/](https://www.biodiversity.ox.ac.uk/) , +  Group On Earth Observations: [https://geobon.org/](https://geobon.org/) , GEOBON Genomics Working Group / Biodiversity Observation Networks , + GSC – Genetic Standards Consortium: [https://gensc.org/](https://gensc.org/) , + NAML – National Association of Marine Labs: [http://www.naml.org/](http://www.naml.org/) ,+ The Tetiaroa Society: [https://www.tetiaroasociety.org/](https://www.tetiaroasociety.org/) , +  4Site Pacific Transect Project: [https://www.tetiaroasociety.org/news/4site-pacific-transect](https://www.tetiaroasociety.org/news/4site-pacific-transect) , + The Fair Island Project: [https://fairisland.org/](https://fairisland.org/) ,+ Moorea Biocode Project: [http://ww7.mooreabiocode.org/](http://ww7.mooreabiocode.org/) , + Genomic Observatories Taking the Biological Pulse of the Planet: [http://genomicobservatories.org/](http://genomicobservatories.org/) , + Gump Research Station IDEA Consortium: [https://moorea.berkeley.edu/idea](https://moorea.berkeley.edu/idea) , + GESDA - Geneva Science and Diplomacy Anticipator: [https://gesda.global/](https://gesda.global/) , + Socio-Ecological-Foresight – Integrated Digital Ecosystem Avatars (IDEAS) + Digital Twins: [https://gesda.global/wp-content/uploads/2020/12/SAB-6_Socio-ecological-foresight-Integrated-Digital-Ecosystem-Avatars-IDEAs.pdf](https://gesda.global/wp-content/uploads/2020/12/SAB-6_Socio-ecological-foresight-Integrated-Digital-Ecosystem-Avatars-IDEAs.pdf) , +  J CRAIG VENTER INSTITUTE – JCVI – GLOBAL OCEAN SAMPLING EXPEDITION (GOS) [https://www.jcvi.org/research/gos](https://www.jcvi.org/research/gos) , + Craig J. Venter TED: [https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-39183](https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-39183) , + PLANET.COM MARITIME: [https://www.planet.com/markets/maritime/](https://www.planet.com/markets/maritime/) , + Biofuels Digest Methane Reformation: [https://www.biofuelsdigest.com/bdigest/2016/04/24/the-methane-reformation-intrexon-calysta-chart-new-pathways-to-economic-heaven/](https://www.biofuelsdigest.com/bdigest/2016/04/24/the-methane-reformation-intrexon-calysta-chart-new-pathways-to-economic-heaven/) , +                                           
+- Integrate the Spatial Web: [https://www.verses.io/](https://www.verses.io/)  with Gump Research Station: [https://bids.berkeley.edu/people/neil-davies](https://bids.berkeley.edu/people/neil-davies)  , + Moorea Coral Reef National Science Foundation Long Term Ecological Research Network: [http://mcr.lternet.edu/](http://mcr.lternet.edu/) , + Oxford Biodiversity Network: [https://www.biodiversity.ox.ac.uk/](https://www.biodiversity.ox.ac.uk/) , +  Group On Earth Observations: [https://geobon.org/](https://geobon.org/) , GEOBON Genomics Working Group / Biodiversity Observation Networks , + GSC – Genetic Standards Consortium: [https://gensc.org/](https://gensc.org/) , + NAML – National Association of Marine Labs: [http://www.naml.org/](http://www.naml.org/) ,+ The Tetiaroa Society: [https://www.tetiaroasociety.org/](https://www.tetiaroasociety.org/) , +  4Site Pacific Transect Project: [https://www.tetiaroasociety.org/news/4site-pacific-transect](https://www.tetiaroasociety.org/news/4site-pacific-transect) , + The Fair Island Project: [https://fairisland.org/](https://fairisland.org/) ,+ Moorea Biocode Project: [http://ww7.mooreabiocode.org/](http://ww7.mooreabiocode.org/) , + Genomic Observatories Taking the Biological Pulse of the Planet: [http://genomicobservatories.org/](http://genomicobservatories.org/) , + Gump Research Station IDEA Consortium: [https://moorea.berkeley.edu/idea](https://moorea.berkeley.edu/idea) , + GESDA - Geneva Science and Diplomacy Anticipator: [https://gesda.global/](https://gesda.global/) , + Socio-Ecological-Foresight – Integrated Digital Ecosystem Avatars (IDEAS) + Digital Twins: [https://gesda.global/wp-content/uploads/2020/12/SAB-6_Socio-ecological-foresight-Integrated-Digital-Ecosystem-Avatars-IDEAs.pdf](https://gesda.global/wp-content/uploads/2020/12/SAB-6_Socio-ecological-foresight-Integrated-Digital-Ecosystem-Avatars-IDEAs.pdf) , +  J CRAIG VENTER INSTITUTE – JCVI – GLOBAL OCEAN SAMPLING EXPEDITION (GOS) [https://www.jcvi.org/research/gos](https://www.jcvi.org/research/gos) , + Craig J. Venter TED: [https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-39183](https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-39183) , + PLANET.COM MARITIME: [https://www.planet.com/markets/maritime/](https://www.planet.com/markets/maritime/) , + Biofuels Digest Methane Reformation: [https://www.biofuelsdigest.com/bdigest/2016/04/24/the-methane-reformation-intrexon-calysta-chart-new-pathways-to-economic-heaven/](https://www.biofuelsdigest.com/bdigest/2016/04/24/the-methane-reformation-intrexon-calysta-chart-new-pathways-to-economic-heaven/) , +                                           
 
-- Work with John O’Duinn to empower Distributed Teams Globally so that the Global Educational System is integrated in insights and action: [https://oduinn.com/](https://oduinn.com/)     ,     [https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907](https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907)
+- Work with John O’Duinn to empower Distributed Teams Globally so that the Global Educational System is integrated in insights and action: [https://oduinn.com/](https://oduinn.com/)     ,     [https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907](https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907)
 
 - Work with Relationship AI to define the relationship with SELF and SPIRIT – from Metabolism to Metaphysics – Body to Buddhism.
 
@@ -969,7 +969,7 @@ All component silos while working globally, have complimentary geo-located / cul
 
 - Reason Interactive – ARUP Drivers of Change – Demo: [https://reasoninteractive.com/work/drivers-of-change/](https://reasoninteractive.com/work/drivers-of-change/)
 
-- ARUP  Drivers of Change Interactive App Launches: [https://www.arup.com/news-and-events/drivers-of-change-interactive-app-launches](https://www.arup.com/news-and-events/drivers-of-change-interactive-app-launches)
+- ARUP  Drivers of Change Interactive App Launches: [https://www.arup.com/news-and-events/drivers-of-change-interactive-app-launches](https://www.arup.com/news-and-events/drivers-of-change-interactive-app-launches)
 
 - CON X TECH: [https://www.conxtech.com/](https://www.conxtech.com/)
 
@@ -1223,13 +1223,13 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - Dave Snowden – [https://www.cognitive-edge.com/](https://www.cognitive-edge.com/)
 
-- Frank Dixon -  https://globalsystemchange.com _› about_
+- Frank Dixon -  https://globalsystemchange.com _› about_
 
 - Bryan Cassady (Author + 22 Co-Authors) – CYCLES: The Simplest Proven Method to Innovate Faster While Reducing Risk: [https://thecyclesbook.com/](https://thecyclesbook.com/)
 
 - More info and free sample chapters [www.thecyclesbook.com](http://www.thecyclesbook.com)  
 - Chapters from  
-- [Prof. Agnis Stibe](https://www.linkedin.com/in/ACoAAADqhhYBOVPF-413L4z2tse5-cR_LDyxKbs), [Arjan Groen](https://www.linkedin.com/in/ACoAAAAh0ggBU5UltR-J_iqFQQsVsPwdveHPKmI), [Charles Umeh](https://www.linkedin.com/in/ACoAAAmHlIsBbbdwy19DEzVpw29qn8Q7F-ww2Vk), [Dennis van der Spoel](https://www.linkedin.com/in/ACoAAAASsnMBxpydFPTUaYnpbg6QdprXw17_xJs)📈, [Dr Tony de Bree EEP MBA - The Online Gig Economy](https://www.linkedin.com/in/ACoAAAAJvacBeks93TvBxXzix13Wi0t789qybIo) - , [Filip Hendrickx](https://www.linkedin.com/in/ACoAAAAlrK4Byt0KgIWF393NTKDVU9ETNuxD54o), [Franck Vinchon](https://www.linkedin.com/in/ACoAAABvd40BPKQ2ywvBOLFSbQnRLo5n21hr-_M), [Fritz Seidel](https://www.linkedin.com/in/ACoAAAjiGRoBvowAhBplbkoCbEyJPFp3DpR-5Vs) [Lana Kristine Jelenjev](https://www.linkedin.com/in/ACoAAAwiqYcBagEiYdr0NFhaolo0MV2BgEe98Gs), [Lucas Sauberschwarz](https://www.linkedin.com/in/ACoAAATlUIgBc_3rT0NioZ_pDR5oBpOOxB1evtc), [Lysander Weiss](https://www.linkedin.com/in/ACoAAAhJlasBVAMNeBrWdiYJCODL8TArttGeg_8), [Martin Gaedt](https://www.linkedin.com/in/ACoAAAAdKGYBhAeNUk9I35Id8ra41xhc7Tajpjw), [Nicolas Deturck](https://www.linkedin.com/in/ACoAAABjOagBwNzIXsdAYiYysP9Dte9SQgAhGp8), [Reinhard Ematinger, PhD](https://www.linkedin.com/in/ACoAABoe_4YBPLBdzVTRn0xEFv3bEDkCmSJf0VM), [Sergio Pereira](https://www.linkedin.com/in/ACoAABfLWaUBd_6mmdXLTg5rHceFvBja2qZVSZY), [Shayne Smart ⬢](https://www.linkedin.com/in/ACoAAAAE-GQBwnzHN_XLhm-3UtV4cYtSTdSahYU), [Simon Vanhoucke](https://www.linkedin.com/in/ACoAAAG3cTwBBVPucDL4erhT1W-v_NgN6vNh7Hw), [Stoyan Yankov](https://www.linkedin.com/in/ACoAAApRTP8BUnLrliGhAYpTrVJnTKA7urOB81g), [Urs Rothmayr](https://www.linkedin.com/in/ACoAAAAR6OcB06oyeMBMQcdlP9pCKp0nKFOnP4U), [Wade Milek, MBA](https://www.linkedin.com/in/ACoAAAiqXdABXfPsk85ay3smQHIbeR-FHON6E_A), [Yuri Kruman, J.D., SHRM-SCP](https://www.linkedin.com/in/ACoAAABMitoBnf64fCEkdlXeQWN-jEDbzzTau5s), [Bryan Cassady](https://www.linkedin.com/in/ACoAAAAKb6sBxEQBKmeLMc0EVNAT4-F5Yx47tfY)
+- [Prof. Agnis Stibe](https://www.linkedin.com/in/ACoAAADqhhYBOVPF-413L4z2tse5-cR_LDyxKbs), [Arjan Groen](https://www.linkedin.com/in/ACoAAAAh0ggBU5UltR-J_iqFQQsVsPwdveHPKmI), [Charles Umeh](https://www.linkedin.com/in/ACoAAAmHlIsBbbdwy19DEzVpw29qn8Q7F-ww2Vk), [Dennis van der Spoel](https://www.linkedin.com/in/ACoAAAASsnMBxpydFPTUaYnpbg6QdprXw17_xJs)📈, [Dr Tony de Bree EEP MBA - The Online Gig Economy](https://www.linkedin.com/in/ACoAAAAJvacBeks93TvBxXzix13Wi0t789qybIo) - , [Filip Hendrickx](https://www.linkedin.com/in/ACoAAAAlrK4Byt0KgIWF393NTKDVU9ETNuxD54o), [Franck Vinchon](https://www.linkedin.com/in/ACoAAABvd40BPKQ2ywvBOLFSbQnRLo5n21hr-_M), [Fritz Seidel](https://www.linkedin.com/in/ACoAAAjiGRoBvowAhBplbkoCbEyJPFp3DpR-5Vs) [Lana Kristine Jelenjev](https://www.linkedin.com/in/ACoAAAwiqYcBagEiYdr0NFhaolo0MV2BgEe98Gs), [Lucas Sauberschwarz](https://www.linkedin.com/in/ACoAAATlUIgBc_3rT0NioZ_pDR5oBpOOxB1evtc), [Lysander Weiss](https://www.linkedin.com/in/ACoAAAhJlasBVAMNeBrWdiYJCODL8TArttGeg_8), [Martin Gaedt](https://www.linkedin.com/in/ACoAAAAdKGYBhAeNUk9I35Id8ra41xhc7Tajpjw), [Nicolas Deturck](https://www.linkedin.com/in/ACoAAABjOagBwNzIXsdAYiYysP9Dte9SQgAhGp8), [Reinhard Ematinger, PhD](https://www.linkedin.com/in/ACoAABoe_4YBPLBdzVTRn0xEFv3bEDkCmSJf0VM), [Sergio Pereira](https://www.linkedin.com/in/ACoAABfLWaUBd_6mmdXLTg5rHceFvBja2qZVSZY), [Shayne Smart ⬢](https://www.linkedin.com/in/ACoAAAAE-GQBwnzHN_XLhm-3UtV4cYtSTdSahYU), [Simon Vanhoucke](https://www.linkedin.com/in/ACoAAAG3cTwBBVPucDL4erhT1W-v_NgN6vNh7Hw), [Stoyan Yankov](https://www.linkedin.com/in/ACoAAApRTP8BUnLrliGhAYpTrVJnTKA7urOB81g), [Urs Rothmayr](https://www.linkedin.com/in/ACoAAAAR6OcB06oyeMBMQcdlP9pCKp0nKFOnP4U), [Wade Milek, MBA](https://www.linkedin.com/in/ACoAAAiqXdABXfPsk85ay3smQHIbeR-FHON6E_A), [Yuri Kruman, J.D., SHRM-SCP](https://www.linkedin.com/in/ACoAAABMitoBnf64fCEkdlXeQWN-jEDbzzTau5s), [Bryan Cassady](https://www.linkedin.com/in/ACoAAAAKb6sBxEQBKmeLMc0EVNAT4-F5Yx47tfY)
 
 - Terry Mollner – https://www.calvertimpactcapital.org › 76-mollner
 
@@ -1239,7 +1239,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - BOW-TIE RISK ANALYSIS POWER POINT: [https://irfoffshoresafety.com/wp-content/uploads/2018/10/PS2-Bow-Ties-in-Risk-Management-Charles-Cowley-Energy-Institute.pdf](https://irfoffshoresafety.com/wp-content/uploads/2018/10/PS2-Bow-Ties-in-Risk-Management-Charles-Cowley-Energy-Institute.pdf)
 
-- DISTRIBUTED TEAMS – JOHN O’DUINN: [https://oduinn.com/](https://oduinn.com/)    ,     [https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907](https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907)
+- DISTRIBUTED TEAMS – JOHN O’DUINN: [https://oduinn.com/](https://oduinn.com/)    ,     [https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907](https://www.amazon.com/Distributed-Teams-Practice-Together-Physically/dp/1732254907)
 
 - r3.0.org promotes Redesign for Resilience and Regeneration: [https://www.r3-0.org/](https://www.r3-0.org/)
 
@@ -1317,7 +1317,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - THE TIM FERRISS EXPERIENT SURFING WITH LAIRD HAMILTON EPISODE 11: [https://www.youtube.com/watch?v=I3JZrm8rnpc](https://www.youtube.com/watch?v=I3JZrm8rnpc)
 
-- LAIRD HAMILTON INTERVIEW / FULL EPISODE / THE TIM FERRISS SHOW (PODCAST) :  [https://www.youtube.com/watch?v=JWnTzCi5xG0](https://www.youtube.com/watch?v=JWnTzCi5xG0)
+- LAIRD HAMILTON INTERVIEW / FULL EPISODE / THE TIM FERRISS SHOW (PODCAST) :  [https://www.youtube.com/watch?v=JWnTzCi5xG0](https://www.youtube.com/watch?v=JWnTzCi5xG0)
 
 - LAIRD HAMILTON’S RELENTLESS PURSUIT OF THE EDGE / RICH ROLL PODCAST: [https://www.youtube.com/watch?v=VjnjoHwxGVM](https://www.youtube.com/watch?v=VjnjoHwxGVM)
 
@@ -1366,7 +1366,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - DAVID WHYTE: [https://davidwhyte.com/](https://davidwhyte.com/)
 
-- Lina Constantinovici -   https://www.innovation44.org      https://www.innovation44.org › about-us
+- Lina Constantinovici -   https://www.innovation44.org      https://www.innovation44.org › about-us
 
 ### Synergetics List
 #### Synergetic 1 - Understanding The Nature of Co-Creation - Our Bodies (Inner Space / Universe) - The Mind As Tool 
@@ -1646,7 +1646,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - JAMES NESTOR – THE FUTURE OF BREATHING – LONG NOW FOUNDATION: [https://www.youtube.com/watch?v=dbk-tKRtiW4](https://www.youtube.com/watch?v=dbk-tKRtiW4)
 
-- HUMMING GREATLY INCREASES NASAL NITRIC OXIDE: [https://static.t-cdn.net _› posts › 58626_humming_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjh4enAwqv1AhXfIjQIHRjOAGsQFnoECAMQAQ&url=https%3A%2F%2Fstatic.t-cdn.net%2F5f700080393bf7386d05516d%2Fposts%2F5fbdab6e74a1081cc2b4095b%2F58626_humming.pdf&usg=AOvVaw1nr5_8ZpsEha9rCdAHWPlL)
+- HUMMING GREATLY INCREASES NASAL NITRIC OXIDE: [https://static.t-cdn.net _› posts › 58626_humming_](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjh4enAwqv1AhXfIjQIHRjOAGsQFnoECAMQAQ&url=https%3A%2F%2Fstatic.t-cdn.net%2F5f700080393bf7386d05516d%2Fposts%2F5fbdab6e74a1081cc2b4095b%2F58626_humming.pdf&usg=AOvVaw1nr5_8ZpsEha9rCdAHWPlL)
 
 - CLIMB EVEREST IN A T SHIRT & SHORTS WIM HOF TELLS YOU HOW! DAVE ASPREY – BULLETPROOF RADIO: [https://www.youtube.com/watch?v=y7RevuiOaYY](https://www.youtube.com/watch?v=y7RevuiOaYY)
 
@@ -1690,7 +1690,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - Dr. Victor Santiago Pineda – Wiki: [https://en.wikipedia.org/wiki/Victor_Pineda_(activist)](https://en.wikipedia.org/wiki/Victor_Pineda_(activist))
 
-- Dr. Victor Santiago Pineda – TED “A Call for “Radical Inclusion” of  People With Disabilities Video: [https://www.youtube.com/watch?v=Vw4oK-ax9yk](https://www.youtube.com/watch?v=Vw4oK-ax9yk)
+- Dr. Victor Santiago Pineda – TED “A Call for “Radical Inclusion” of  People With Disabilities Video: [https://www.youtube.com/watch?v=Vw4oK-ax9yk](https://www.youtube.com/watch?v=Vw4oK-ax9yk)
 
 - Dr. Victor Santiago Pineda – WORLD ENABLED: [https://worldenabled.org/our-team/](https://worldenabled.org/our-team/)
 
@@ -2121,7 +2121,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - THE WORLD ACCORDING TO PHYSICS – JIM AL KAHLILI – ROYAL INSTITUTION: [https://www.youtube.com/watch?v=gKrjOD3ZeO0](https://www.youtube.com/watch?v=gKrjOD3ZeO0)
 
-- THE FASCINATING TRUTH ABOUT ENERGY WITH PROFESSOR  JIM KAHLILI / ORDER AND DISORDER / SPARK: [https://www.youtube.com/watch?v=aeaQpuYPsy8](https://www.youtube.com/watch?v=aeaQpuYPsy8)
+- THE FASCINATING TRUTH ABOUT ENERGY WITH PROFESSOR  JIM KAHLILI / ORDER AND DISORDER / SPARK: [https://www.youtube.com/watch?v=aeaQpuYPsy8](https://www.youtube.com/watch?v=aeaQpuYPsy8)
 
 - AMSTERDAM – FLOATING HOMES: [https://www.seattletimes.com/nation-world/in-amsterdam-a-community-of-floating-homes-shows-the-world-how-to-live-alongside-nature/?utm_source=facebook&utm_medium=social&utm_campaign=article_inset_1.1&fbclid=IwAR20MivmVoR9Y4EG--egf7m8ei8E0i7f956vyn_ruqXsh89yabJbSIjX2mk](https://www.seattletimes.com/nation-world/in-amsterdam-a-community-of-floating-homes-shows-the-world-how-to-live-alongside-nature/?utm_source=facebook&utm_medium=social&utm_campaign=article_inset_1.1&fbclid=IwAR20MivmVoR9Y4EG--egf7m8ei8E0i7f956vyn_ruqXsh89yabJbSIjX2mk)
 
@@ -2721,7 +2721,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - TONY ROBBINS: TRANSFORM THE QUALITY OF YOUR LIFE: [https://www.youtube.com/watch?v=cE8CIU3rFkc](https://www.youtube.com/watch?v=cE8CIU3rFkc)
 
-- ANDREW HUBERMAN -  HOW TO FOCUS TO CHANGE YOUR BRAIN: [https://www.youtube.com/watch?v=LG53Vxum0as](https://www.youtube.com/watch?v=LG53Vxum0as)
+- ANDREW HUBERMAN -  HOW TO FOCUS TO CHANGE YOUR BRAIN: [https://www.youtube.com/watch?v=LG53Vxum0as](https://www.youtube.com/watch?v=LG53Vxum0as)
 
 - HOW TO CHANGE THE WORLD – WITH JACQUELINE NOVOGRATZ / RICH ROLL PODCAST: [https://www.youtube.com/watch?v=cJWoDZANa6U](https://www.youtube.com/watch?v=cJWoDZANa6U)
 
@@ -3021,7 +3021,7 @@ Left off here
 
 - PROSOCIAL WEBSITE: [https://www.prosocial.world/](https://www.prosocial.world/)
 
-- David Kreps – Bergson, Complexity and Creative Emergence:   [https://kreps.org/academic/bergson-complexity-and-creative-emergence/](https://kreps.org/academic/bergson-complexity-and-creative-emergence/)
+- David Kreps – Bergson, Complexity and Creative Emergence:   [https://kreps.org/academic/bergson-complexity-and-creative-emergence/](https://kreps.org/academic/bergson-complexity-and-creative-emergence/)
 
 - Dr. Rupert Sheldrake – A Conscious Universe?: [https://www.youtube.com/watch?v=XqWbIVlnmNM](https://www.youtube.com/watch?v=XqWbIVlnmNM)
 
@@ -3055,7 +3055,7 @@ Left off here
 
 - LUCID DREAMS AS A BRIDGE BETWEEN REALITIES / CHONGTUL RINPOCHE / TEDX FULTON STREET: [https://www.youtube.com/watch?v=exjlR7izakg](https://www.youtube.com/watch?v=exjlR7izakg)
 
-- DAVID GIBSON – Sound Healing Center: [https://soundhealingcenter.com/](https://soundhealingcenter.com/) 
+- DAVID GIBSON – Sound Healing Center: [https://soundhealingcenter.com/](https://soundhealingcenter.com/) 
 
 - AIMEE MANN: [https://aimeemann.com/](https://aimeemann.com/)
 
@@ -3143,7 +3143,7 @@ Left off here
 
 - Anneloes Smitsman: [https://www.earthwisecentre.org/anneloes-smitsman](https://www.earthwisecentre.org/anneloes-smitsman)
 
-- Take [Soliculture](http://www.soliculture.com/) (or equivalent technology) that allow greenhouse panels to provide covering as well as electricity through the global [Solar Circle Network](https://kinshipearth.org/networks/) convened by Susan Davis Moora as KINS Network 
+- Take [Soliculture](http://www.soliculture.com/) (or equivalent technology) that allow greenhouse panels to provide covering as well as electricity through the global [Solar Circle Network](https://kinshipearth.org/networks/) convened by Susan Davis Moora as KINS Network 
 
 - Set up the [Finca Sagrada](https://finca-sagrada.com/) Foundation – work with Joshua Hughes/[Black Sheep Regenerative Resource Management](https://www.weareblacksheep.org/) to optimize financial viability
 
@@ -3238,7 +3238,7 @@ Left off here
 
 - CHRISTOPHER VERLINDEN - APPLIED OCEAN SCIENCES: [https://appliedoceansciences.com/team.php](https://appliedoceansciences.com/team.php)
 
-- INTERNATIONAL DIALOGUE ON UNDERWATER MUNITIONS (IDUM) - Terrance Patrick Long: [https://underwatermunitions.org/](https://underwatermunitions.org/) 
+- INTERNATIONAL DIALOGUE ON UNDERWATER MUNITIONS (IDUM) - Terrance Patrick Long: [https://underwatermunitions.org/](https://underwatermunitions.org/) 
 
 - Terrance Patrick Long – LinkedIn: [https://www.linkedin.com/in/terrance-p-long-cpsm-ssm-cd-6b59829/?originalSubdomain=nl](https://www.linkedin.com/in/terrance-p-long-cpsm-ssm-cd-6b59829/?originalSubdomain=nl)
 
@@ -3282,7 +3282,7 @@ Left off here
 
 - VANCOUVER CANADA SEA 2 CITY RAODMAP: [https://vancouver.ca/files/cov/sea2city-roadmap.pdf](https://vancouver.ca/files/cov/sea2city-roadmap.pdf)
 
-- MOONJELLY DAO  – DECENTRALIZING OCEAN: [https://www.moonjelly.io/home](https://www.moonjelly.io/home)
+- MOONJELLY DAO  – DECENTRALIZING OCEAN: [https://www.moonjelly.io/home](https://www.moonjelly.io/home)
 
 - INTERNATIONAL SCIENTIFIC and TECHNOLOGY ADVISORY BOARD (IDUM – ISTAB): [https://underwatermunitions.org/advisory-board/](https://underwatermunitions.org/advisory-board/)
 
@@ -3417,7 +3417,7 @@ Left off here
 
 - ULTRAMARINE: [https://www.ultramarineocean.com/](https://www.ultramarineocean.com/)
 
-- Christine Ward-Paige - eOceans: [https://www.eoceans.co](https://www.eoceans.co)  ,   https://static1.squarespace.com/static/5a3bcce91f318d73497730c0/t/5e8b7fb450e3f93c6a1906d1/1586200501912/Ward-Paige_cv_April_2020.pdf
+- Christine Ward-Paige - eOceans: [https://www.eoceans.co](https://www.eoceans.co)  ,   https://static1.squarespace.com/static/5a3bcce91f318d73497730c0/t/5e8b7fb450e3f93c6a1906d1/1586200501912/Ward-Paige_cv_April_2020.pdf
 
 - eOCEANS – APP: [https://eoceans.app/](https://eoceans.app/)
 
@@ -3845,7 +3845,7 @@ Left off here
 
 - Living Atlas: [https://livingatlas.arcgis.com/en/home/](https://livingatlas.arcgis.com/en/home/)
 
-- Paul Stamets: Fungi Perfecti: [https://fungi.com](https://fungi.com) 
+- Paul Stamets: Fungi Perfecti: [https://fungi.com](https://fungi.com) 
 
 - Mycopia Mushrooms: [https://www.mycopia.com/](https://www.mycopia.com/)
 
@@ -3925,7 +3925,7 @@ Left off here
 
 - Steve Eberlein – REDFORA: [https://redfora.com/](https://redfora.com/)
 
-- Brandon Wallace – PLAN SYSTEMS: [https://plan-systems.org/](https://plan-systems.org/)   
+- Brandon Wallace – PLAN SYSTEMS: [https://plan-systems.org/](https://plan-systems.org/)   
 
 - The Greenspan Company / Adjusters International : [https://www.greenspanai.com/](https://www.greenspanai.com/)
 
@@ -4154,7 +4154,7 @@ Left off here
 
 - JOHN PICARD: [https://www.johnpicard.world/about](https://www.johnpicard.world/about)
 
-- BENJAMIN BINGHAM: [bingham@3sistersinvest.com](mailto:bingham@3sistersinvest.com) |[https://www.scarabfundsllc.com/ten-year-anniversary-report/](https://www.scarabfundsllc.com/ten-year-anniversary-report/)  /  [www.3sistersinvest.com](http://www.3sistersinvest.com/) |[www.makingmoneymatterbook.com](http://www.makingmoneymatterbook.com/)
+- BENJAMIN BINGHAM: [bingham@3sistersinvest.com](mailto:bingham@3sistersinvest.com) |[https://www.scarabfundsllc.com/ten-year-anniversary-report/](https://www.scarabfundsllc.com/ten-year-anniversary-report/)  /  [www.3sistersinvest.com](http://www.3sistersinvest.com/) |[www.makingmoneymatterbook.com](http://www.makingmoneymatterbook.com/)
 
 - BENJAMIN BINGHAM – SCARAB PARTNERS – TEN YEAR ANNIVERSARY REPORT: [https://www.scarabfundsllc.com/ten-year-anniversary-report/](https://www.scarabfundsllc.com/ten-year-anniversary-report/)
 
@@ -4207,7 +4207,7 @@ Left off here
 
 - EQ CAPITAL PARTNERS – BARRY PALTE: [https://eqcapitalpartners.com/about/](https://eqcapitalpartners.com/about/)
 
-- CC FORUM: [https://cc-forum.com/](https://cc-forum.com/)   ,  [https://london.cc-forum.com/](https://london.cc-forum.com/)   ,   
+- CC FORUM: [https://cc-forum.com/](https://cc-forum.com/)   ,  [https://london.cc-forum.com/](https://london.cc-forum.com/)   ,   
 
 - LUCIE PINSON – RECLAIM FINANCE: [https://reclaimfinance.org/site/en/who-are-we/](https://reclaimfinance.org/site/en/who-are-we/)
 
@@ -4353,7 +4353,7 @@ Left off here
 
 - Jay C. Davis – Lawrence Livermore Lab Center for Accelerator Mass Spectrometry: [https://cams.llnl.gov/about-cams/a-brief-history-of-cams](https://cams.llnl.gov/about-cams/a-brief-history-of-cams)
 
-- Jay C. Davis – QUEST :  [https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells](https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells)
+- Jay C. Davis – QUEST :  [https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells](https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells)
 
 - ThermoFisher Scientific: [https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells](https://resource.thermofisher.com/page/gibcoloveyourcells/?cid=fl-gibcoloveyourcells)
 
@@ -4383,7 +4383,7 @@ Left off here
 
 - BLOOMBERG – SEC ON CRYPTO: [https://www.bloomberg.com/news/newsletters/2021-08-04/money-stuff-the-sec-has-its-eye-on-crypto](https://www.bloomberg.com/news/newsletters/2021-08-04/money-stuff-the-sec-has-its-eye-on-crypto)
 
-- Transition Dynamics – Michael and Bonnie Hartley: Bonnie Hartley [https://www.linkedin.com/in/bonnie-hartley-88517b20/](https://www.linkedin.com/in/bonnie-hartley-88517b20/)   , Michael Hartley  [https://www.linkedin.com/in/michael-hartley-6bb21210/](https://www.linkedin.com/in/michael-hartley-6bb21210/)
+- Transition Dynamics – Michael and Bonnie Hartley: Bonnie Hartley [https://www.linkedin.com/in/bonnie-hartley-88517b20/](https://www.linkedin.com/in/bonnie-hartley-88517b20/)   , Michael Hartley  [https://www.linkedin.com/in/michael-hartley-6bb21210/](https://www.linkedin.com/in/michael-hartley-6bb21210/)
 
 - Conscious Capital Wealth Management / Lawrence Ford: [https://www.consciouscapitalwm.com/team/lawrence-ford](https://www.consciouscapitalwm.com/team/lawrence-ford)
 
@@ -4475,7 +4475,7 @@ Left off here
 
 - STEFAN RUST – THE VALUE OF COMMUNITY IN CRYPTOLAND - [https://www.linkedin.com/pulse/value-community-cryptoland-stefan-rust/?trackingId=3cp0R7kIRJu5gG%2FSPY70ag%3D%3D](https://www.linkedin.com/pulse/value-community-cryptoland-stefan-rust/?trackingId=3cp0R7kIRJu5gG%2FSPY70ag%3D%3D)
 
-- Stephen L. Gomes: [http://www.gomesandcompany.com/](http://www.gomesandcompany.com/) ,  [http://www.gomesandcompany.com/gpage1.html2.html](http://www.gomesandcompany.com/gpage1.html2.html)
+- Stephen L. Gomes: [http://www.gomesandcompany.com/](http://www.gomesandcompany.com/) ,  [http://www.gomesandcompany.com/gpage1.html2.html](http://www.gomesandcompany.com/gpage1.html2.html)
 
 - EPIC FUND: [https://www.epicfund.co/](https://www.epicfund.co/) ,
 
@@ -4705,7 +4705,7 @@ Left off here
 
 #### Synergetic 13 - Population / Shelter / Disaster Preparedness / Business Continuity / Community Resiliency / Design 
 
-- Harbor: [https://www.helloharbor.com/](https://www.helloharbor.com/)      [https://www.helloharbor.com/about](https://www.helloharbor.com/about) 
+- Harbor: [https://www.helloharbor.com/](https://www.helloharbor.com/)      [https://www.helloharbor.com/about](https://www.helloharbor.com/about) 
 
 - GENSLER ARCHITECTS – ANNUAL REPORT 2020: [https://www.gensler.com/uploads/document/730/file/Gensler-Annual-Report-2020.pdf](https://www.gensler.com/uploads/document/730/file/Gensler-Annual-Report-2020.pdf)
 
@@ -4727,7 +4727,7 @@ Left off here
 
 - COOPERATING MANUAL FOR SPACESHIP EARTH – A PROJECT OF THE BUCKMINSTER FULLER INSTITUTE: [https://www.youtube.com/watch?v=D32XrSGuLbg](https://www.youtube.com/watch?v=D32XrSGuLbg)
 
-- Buckminster Fuller Institute Video –  Spaceship Earth Day - Autodesk Gallery: [https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0](https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0)
+- Buckminster Fuller Institute Video –  Spaceship Earth Day - Autodesk Gallery: [https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0](https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0)
 
 - THE GEOLOGICAL DIAGRAMS OF BUCKMINSTER FULLER – GEORGIA TECH / K. MICHAEL HAYS: [https://www.youtube.com/watch?v=bvEpIRE6JYs](https://www.youtube.com/watch?v=bvEpIRE6JYs)
 
@@ -4773,7 +4773,7 @@ Left off here
 
 - IFMA - INTERNATIONAL FACILITY MANAGERS ASSOCIATION: [https://www.ifma.org/about/about-ifma/](https://www.ifma.org/about/about-ifma/)
 
-- REGENERA.CITY: [https://www.regenera.city/](https://www.regenera.city/) 
+- REGENERA.CITY: [https://www.regenera.city/](https://www.regenera.city/) 
 
 - PAULA SCALINGI – I2SR: [https://i2sr.org/home](https://i2sr.org/home)
 
@@ -4867,7 +4867,7 @@ Left off here
 
 - DAVID LEVY – JIM GERBER, CHUCK FEENEY, HAROLD GLASSER – CHECK WITH DAVID LEVY -
 
-- NEW YORKER – STORM CHASERS – A MIGRANT WORKFORCE TRAILS CLIMATE DISASTERS, REBUILDING IN THEIR WAKE – BY SARAH STILLMAN: [https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters](https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters) 
+- NEW YORKER – STORM CHASERS – A MIGRANT WORKFORCE TRAILS CLIMATE DISASTERS, REBUILDING IN THEIR WAKE – BY SARAH STILLMAN: [https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters](https://www.newyorker.com/magazine/2021/11/08/the-migrant-workers-who-follow-climate-disasters) 
 
 - HSAIO-YUN CHU: [https://design.sfsu.edu/people/faculty/hsiao-yun-chu](https://design.sfsu.edu/people/faculty/hsiao-yun-chu)
 
@@ -4925,7 +4925,7 @@ Left off here
 
 - James Ehrlich – Regen Villages Video: [https://www.youtube.com/watch?v=lRKM6WWEK94](https://www.youtube.com/watch?v=lRKM6WWEK94)
 
-- Regen Villages: [https://www.regenvillages.com/](https://www.regenvillages.com/)   Tenants / community -
+- Regen Villages: [https://www.regenvillages.com/](https://www.regenvillages.com/)   Tenants / community -
 
 #### Synergetic 14 - Manage the Entire Planet From a Nature / Land / Tribal Real Estate Perspective - Land / Landscape / Built Environment / Tenants 
 
@@ -5081,7 +5081,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FORESIGHT INSTITUTE – GAMING THE FUTURE: TECHNOLOGIES FOR INTELLIGENT VOLUNTARY COOPERATION – GENETIC TAKEOVER / CRYPTOCOMMERCE: [https://foresightinstitute.substack.com/p/genetic-takeover](https://foresightinstitute.substack.com/p/genetic-takeover)
 
-- FORESIGHT INSTITUTE – GLEN WEYL, RADICALXCHANGE / SOCIAL TECHNOLOGY FOR A POLITICAL ECONOMY OF INCREASING RETURNS:  [https://foresight.org/salon/glen-weyl-radicalxchange-social-technology-for-a-political-economy-of-increasing-returns/](https://foresight.org/salon/glen-weyl-radicalxchange-social-technology-for-a-political-economy-of-increasing-returns/)
+- FORESIGHT INSTITUTE – GLEN WEYL, RADICALXCHANGE / SOCIAL TECHNOLOGY FOR A POLITICAL ECONOMY OF INCREASING RETURNS:  [https://foresight.org/salon/glen-weyl-radicalxchange-social-technology-for-a-political-economy-of-increasing-returns/](https://foresight.org/salon/glen-weyl-radicalxchange-social-technology-for-a-political-economy-of-increasing-returns/)
 
 - PARADIGM – ETHEREUM IS A DARK FOREST: [https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 
@@ -5117,7 +5117,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - CRYPTO FOR THE 100% DRAFT – TEXT: [https://docs.google.com/document/d/1Zv_ZqmE0DP-rU8NF310qKS685OtZiom3tz1k0bAH_jk/edit](https://docs.google.com/document/d/1Zv_ZqmE0DP-rU8NF310qKS685OtZiom3tz1k0bAH_jk/edit)
 
-- CRYPTO FOR THE 100% DRAFT: [https://drive.google.com/file/d/1gOA3nCjj4-y-vPFkCiVxDRZr-WkGullh/view](https://drive.google.com/file/d/1gOA3nCjj4-y-vPFkCiVxDRZr-WkGullh/view)   ,   
+- CRYPTO FOR THE 100% DRAFT: [https://drive.google.com/file/d/1gOA3nCjj4-y-vPFkCiVxDRZr-WkGullh/view](https://drive.google.com/file/d/1gOA3nCjj4-y-vPFkCiVxDRZr-WkGullh/view)   ,   
 
 - HAILELSELA – RICHARD STRUPPI POHL – VIDEOS: [https://www.youtube.com/user/HaileISela/videos](https://www.youtube.com/user/HaileISela/videos)
 
@@ -5345,7 +5345,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FUTURE THINKERS: [https://futurethinkers.org/](https://futurethinkers.org/)
 
-- CLIMATE CHANGE EDITION – CHAPTER 1 – DUNCAN RITCHIE – CEO OF PRAESIDEO: [https://www.youtube.com/watch?v=NK9NzpdOjes](https://www.youtube.com/watch?v=NK9NzpdOjes)    ,    [https://anchor.fm/praesideo/episodes/Re-Imagine-our-Future---Duncan-Ritchie--CEO-of-zero-carbon-2030-euqdkj](https://anchor.fm/praesideo/episodes/Re-Imagine-our-Future---Duncan-Ritchie--CEO-of-zero-carbon-2030-euqdkj)    ,    [https://vistaenergy.com.au/becoming/](https://vistaenergy.com.au/becoming/)    ,   
+- CLIMATE CHANGE EDITION – CHAPTER 1 – DUNCAN RITCHIE – CEO OF PRAESIDEO: [https://www.youtube.com/watch?v=NK9NzpdOjes](https://www.youtube.com/watch?v=NK9NzpdOjes)    ,    [https://anchor.fm/praesideo/episodes/Re-Imagine-our-Future---Duncan-Ritchie--CEO-of-zero-carbon-2030-euqdkj](https://anchor.fm/praesideo/episodes/Re-Imagine-our-Future---Duncan-Ritchie--CEO-of-zero-carbon-2030-euqdkj)    ,    [https://vistaenergy.com.au/becoming/](https://vistaenergy.com.au/becoming/)    ,   
 
 - KURT PRZYBILLA – VRXRIO: [https://vfxrio.com.br/en/kurt-przybilla/](https://vfxrio.com.br/en/kurt-przybilla/)
 
@@ -5443,7 +5443,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - STEFANIE ATKINSON SCHWARTZ – ARTIST: [https://linktr.ee/stefanieschwartzartist](https://linktr.ee/stefanieschwartzartist)
 
-- EUTECTIC SYSTEM  – WIKI: [https://en.wikipedia.org/wiki/Eutectic_system](https://en.wikipedia.org/wiki/Eutectic_system)
+- EUTECTIC SYSTEM  – WIKI: [https://en.wikipedia.org/wiki/Eutectic_system](https://en.wikipedia.org/wiki/Eutectic_system)
 
 - BUCKMINSTER FULLER SYNERGETICS – WIKI: [https://en.wikipedia.org/wiki/Synergetics_(Fuller)](https://en.wikipedia.org/wiki/Synergetics_(Fuller))
 
@@ -5489,9 +5489,9 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - DYMAXION MAP IMAGES WORLD SYSTEMS – GOOGLE SEARCH: [https://www.google.com/search?source=univ&tbm=isch&q=dymaxion+map+images+world+systems&client=firefox-b-1-d&sa=X&ved=2ahUKEwjunbrc-J3yAhUPrp4KHctdACIQjJkEegQICBAC&biw=1440&bih=721&dpr=2#imgrc=S8qBymsnP76fmM](https://www.google.com/search?source=univ&tbm=isch&q=dymaxion+map+images+world+systems&client=firefox-b-1-d&sa=X&ved=2ahUKEwjunbrc-J3yAhUPrp4KHctdACIQjJkEegQICBAC&biw=1440&bih=721&dpr=2#imgrc=S8qBymsnP76fmM)
 
-- ECHO – CULTURAL HERITAGE ONLINE: [https://echo.mpiwg-berlin.mpg.de/home](https://echo.mpiwg-berlin.mpg.de/home)    ,    [https://www.historyofinformation.com/detail.php?id=3326](https://www.historyofinformation.com/detail.php?id=3326) 
+- ECHO – CULTURAL HERITAGE ONLINE: [https://echo.mpiwg-berlin.mpg.de/home](https://echo.mpiwg-berlin.mpg.de/home)    ,    [https://www.historyofinformation.com/detail.php?id=3326](https://www.historyofinformation.com/detail.php?id=3326) 
 
-- EARTH DOLLAR: [https://earthdollar.org/home/](https://earthdollar.org/home/)   ,   [https://earthdollar.org/home/about-us/](https://earthdollar.org/home/about-us/)    ,      [https://earthdollar.org/home/team/](https://earthdollar.org/home/team/) 
+- EARTH DOLLAR: [https://earthdollar.org/home/](https://earthdollar.org/home/)   ,   [https://earthdollar.org/home/about-us/](https://earthdollar.org/home/about-us/)    ,      [https://earthdollar.org/home/team/](https://earthdollar.org/home/team/) 
 
 - MARTIN FOWLER – DOMAIN DRIVEN DESIGN: [https://martinfowler.com/tags/domain%20driven%20design.html](https://martinfowler.com/tags/domain%20driven%20design.html)
 
@@ -5689,7 +5689,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - THE PLANE THAT WILL CHANGE TRAVEL FOREVER: [https://www.youtube.com/watch?v=BfHh-S48-ac](https://www.youtube.com/watch?v=BfHh-S48-ac)
 
-- BBC: THE ROTTERDAM MUSEUM SET TO DISPLAY ENTIRE ART COLLECTION: [https://www.bbc.com/news/world-europe-59168993](https://www.bbc.com/news/world-europe-59168993) 
+- BBC: THE ROTTERDAM MUSEUM SET TO DISPLAY ENTIRE ART COLLECTION: [https://www.bbc.com/news/world-europe-59168993](https://www.bbc.com/news/world-europe-59168993) 
 
 - WATER IS AT THE HEART OF BOTH CAUSE AND EFFECT OF CLIMATE CHANGE: [https://peopleandwater.international/project/drained-energy/](https://peopleandwater.international/project/drained-energy/)
 
@@ -5699,7 +5699,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FORESIGHT INSTITUTE: [https://foresight.org/](https://foresight.org/)
 
-- FORESIGHT INSTITUTE VISION WEEKEND:  [https://foresight.org/vision-weekend-2021/?utm_source=Foresight+Newsletter+Subscribers&utm_campaign=6ceff5acc9-EMAIL_CAMPAIGN_2021_11_05_10_11&utm_medium=email&utm_term=0_7c1b7f710b-6ceff5acc9-232538759](https://foresight.org/vision-weekend-2021/?utm_source=Foresight+Newsletter+Subscribers&utm_campaign=6ceff5acc9-EMAIL_CAMPAIGN_2021_11_05_10_11&utm_medium=email&utm_term=0_7c1b7f710b-6ceff5acc9-232538759)
+- FORESIGHT INSTITUTE VISION WEEKEND:  [https://foresight.org/vision-weekend-2021/?utm_source=Foresight+Newsletter+Subscribers&utm_campaign=6ceff5acc9-EMAIL_CAMPAIGN_2021_11_05_10_11&utm_medium=email&utm_term=0_7c1b7f710b-6ceff5acc9-232538759](https://foresight.org/vision-weekend-2021/?utm_source=Foresight+Newsletter+Subscribers&utm_campaign=6ceff5acc9-EMAIL_CAMPAIGN_2021_11_05_10_11&utm_medium=email&utm_term=0_7c1b7f710b-6ceff5acc9-232538759)
 
 - FORESIGHT INSTITUTE DeSci @ ETHDenver / Crypto-Economic Approaches to Existential Risks: [https://www.youtube.com/watch?v=R1Xj9wtQwyk](https://www.youtube.com/watch?v=R1Xj9wtQwyk)
 
@@ -5749,7 +5749,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - LIFE AFTER DEATH – SCIENTIFIC EVIDENCE / AN INTERVIEW WITH OLIVER LAZAR: [https://www.youtube.com/watch?v=9e1SLF7Kg8Y](https://www.youtube.com/watch?v=9e1SLF7Kg8Y)
 
-- OLIVER LAZAR:  [https://www.oliver-lazar.com/](https://www.oliver-lazar.com/)
+- OLIVER LAZAR:  [https://www.oliver-lazar.com/](https://www.oliver-lazar.com/)
 
 - OLIVER LAZAR – BEYOND MATTER: [https://www.oliver-lazar.com/ereams-studie/](https://www.oliver-lazar.com/ereams-studie/)
 
@@ -5785,7 +5785,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - PAT McCABE: THE SCIENCE OF RIGHT RELATIONS: SACRED MASCULINE, SACRED FEMININE, & DIVINE CONSENT: [https://advaya.co/watch/pat-mccabe-the-science-of-right-relations-sacred-masculine-sacred-feminine-and-divine-consent](https://advaya.co/watch/pat-mccabe-the-science-of-right-relations-sacred-masculine-sacred-feminine-and-divine-consent)
 
-- CHARLES EISENSTEIN – MASCULITY -  A NEW STORY: [https://charleseisenstein.org/program/conversations/masculinity-a-new-story/](https://charleseisenstein.org/program/conversations/masculinity-a-new-story/)
+- CHARLES EISENSTEIN – MASCULITY -  A NEW STORY: [https://charleseisenstein.org/program/conversations/masculinity-a-new-story/](https://charleseisenstein.org/program/conversations/masculinity-a-new-story/)
 
 - CLIMATE WISE – CAMBRIDGE INSTITUTE FOR SUSTAINABILITY LEADERSHIP: [https://www.cisl.cam.ac.uk/business-action/sustainable-finance/climatewise](https://www.cisl.cam.ac.uk/business-action/sustainable-finance/climatewise)
 
@@ -6148,7 +6148,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - THE OFFICIAL FULL RV NOMADS MOVIE: [https://www.youtube.com/watch?v=UzyWyH9r-To](https://www.youtube.com/watch?v=UzyWyH9r-To)
 
-- BBC FUTURE – WHAT HAPPENED TO THE WORLD’S OZONE HOLE:  [https://www.bbc.com/future/article/20220321-what-happened-to-the-worlds-ozone-hole](https://www.bbc.com/future/article/20220321-what-happened-to-the-worlds-ozone-hole)
+- BBC FUTURE – WHAT HAPPENED TO THE WORLD’S OZONE HOLE:  [https://www.bbc.com/future/article/20220321-what-happened-to-the-worlds-ozone-hole](https://www.bbc.com/future/article/20220321-what-happened-to-the-worlds-ozone-hole)
 
 - SCIENTISTS TERRIFYING NEW DISCOVERY UNDER SAHAARA DESERT CHANGES EVERYTHING: [https://www.youtube.com/watch?v=E-SH9XVU4s8](https://www.youtube.com/watch?v=E-SH9XVU4s8)
 
@@ -6323,7 +6323,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - TWIST BIOSCIENCE: [https://www.twistbioscience.com/](https://www.twistbioscience.com/)
 
-- **ROSWELL BIOTECHNOLOGIES:** [https://www.roswellbiotech.com/](https://www.roswellbiotech.com/)  - **DIGITIZING BIOLOGY TO TRANSFORM ALL OMICS: PUTTING GENOMICS, TRANSCRIPTOMICS, EPIGENOMICS, PROTEOMICS, AND METABOLOMICS ON ONE PLATFORM**
+- **ROSWELL BIOTECHNOLOGIES:** [https://www.roswellbiotech.com/](https://www.roswellbiotech.com/)  - **DIGITIZING BIOLOGY TO TRANSFORM ALL OMICS: PUTTING GENOMICS, TRANSCRIPTOMICS, EPIGENOMICS, PROTEOMICS, AND METABOLOMICS ON ONE PLATFORM**
 
 - Deep Green: Using Underwater Kites to Generate Clean Electricity: [https://www.power-technology.com/features/underwater-kite-energy/](https://www.power-technology.com/features/underwater-kite-energy/)
 
@@ -6339,7 +6339,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - DAVID GRAEBER – ON BUREAUCRATIC TECHNOLOGIES AND THE FUTURE AS DREAM-TIME: https://www.youtube.com/watch?v=4Q84ar89Oxo
 
-- DAVID GRAEBER – ON BUREAUCRATIC TECHNOLOGIES AND THE FUTURE AS DREAM-TIME:  [https://www.youtube.com/watch?v=4Q84ar89Oxo&t=2s](https://www.youtube.com/watch?v=4Q84ar89Oxo&t=2s)
+- DAVID GRAEBER – ON BUREAUCRATIC TECHNOLOGIES AND THE FUTURE AS DREAM-TIME:  [https://www.youtube.com/watch?v=4Q84ar89Oxo&t=2s](https://www.youtube.com/watch?v=4Q84ar89Oxo&t=2s)
 
 - DAVID GRAEBER VS. PETER THIEL: [https://www.youtube.com/watch?v=eF0cz9OmCGw](https://www.youtube.com/watch?v=eF0cz9OmCGw)
 
@@ -6367,7 +6367,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - Daniel Schmachtenberger – The War on Sensemaking: [https://www.youtube.com/watch?v=7LqaotiGWjQ](https://www.youtube.com/watch?v=7LqaotiGWjQ)
 
-- THE JOE ROGAN EXPERIENCE #1736  – TRISTAN HARRIS AND DANIEL SCHMACHTENBERGER: [https://open.spotify.com/episode/2LNwwgJqOMKHOqdvwmLxqd](https://open.spotify.com/episode/2LNwwgJqOMKHOqdvwmLxqd)
+- THE JOE ROGAN EXPERIENCE #1736  – TRISTAN HARRIS AND DANIEL SCHMACHTENBERGER: [https://open.spotify.com/episode/2LNwwgJqOMKHOqdvwmLxqd](https://open.spotify.com/episode/2LNwwgJqOMKHOqdvwmLxqd)
 
 - How Thomas Friedman and Yuval Noah Hariri Think About The Future of Humanity: [https://www.youtube.com/watch?v=5chp-PRYq-w&t=1100s](https://www.youtube.com/watch?v=5chp-PRYq-w&t=1100s)
 
@@ -6523,7 +6523,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - Climate Music Project: [https://climatemusic.org/](https://climatemusic.org/)
 
-- COMSOL / COMSOL MULTIPHYSICS: [https://www.comsol.com/](https://www.comsol.com/)   ,    [https://www.comsol.com/products](https://www.comsol.com/products)
+- COMSOL / COMSOL MULTIPHYSICS: [https://www.comsol.com/](https://www.comsol.com/)   ,    [https://www.comsol.com/products](https://www.comsol.com/products)
 
 - Evolution of GIS (Graphic Information Systems) Computer Mapping: [https://gisgeography.com/history-of-gis/](https://gisgeography.com/history-of-gis/)
 
@@ -6643,7 +6643,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - Planet Home Food & Beverage: [https://vimeo.com/388382061](https://vimeo.com/388382061)
 
-- John Roulac – Nutiva: [https://www.linkedin.com/in/johnroulac/](https://www.linkedin.com/in/johnroulac/)    ,     [http://johnroulac.com/john/](http://johnroulac.com/john/)
+- John Roulac – Nutiva: [https://www.linkedin.com/in/johnroulac/](https://www.linkedin.com/in/johnroulac/)    ,     [http://johnroulac.com/john/](http://johnroulac.com/john/)
 
 - Bella Gaia: [http://www.bellagaia.com/](http://www.bellagaia.com/)
 
@@ -6687,7 +6687,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - NASA EARTH OBSERVATORY: [https://earthobservatory.nasa.gov/](https://earthobservatory.nasa.gov/)
 
-- Johan Rockstrom - Wiki :  [https://en.wikipedia.org/wiki/Johan_Rockstr%C3%B6m](https://en.wikipedia.org/wiki/Johan_Rockstr%C3%B6m)
+- Johan Rockstrom - Wiki :  [https://en.wikipedia.org/wiki/Johan_Rockstr%C3%B6m](https://en.wikipedia.org/wiki/Johan_Rockstr%C3%B6m)
 
 - Vint Cerf – Wiki: [https://en.wikipedia.org/wiki/Vint_Cerf](https://en.wikipedia.org/wiki/Vint_Cerf)
 
@@ -6733,7 +6733,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - CIVILIZATON EMERGING: [https://civilizationemerging.com/](https://civilizationemerging.com/)
 
-- Global Commons Alliance: [https://globalcommonsalliance.org/](https://globalcommonsalliance.org/)    ,     [https://globalcommonsalliance.org/partners/](https://globalcommonsalliance.org/partners/) 
+- Global Commons Alliance: [https://globalcommonsalliance.org/](https://globalcommonsalliance.org/)    ,     [https://globalcommonsalliance.org/partners/](https://globalcommonsalliance.org/partners/) 
 
 - International OCEAN Film Festival: [https://intloceanfilmfest.org/](https://intloceanfilmfest.org/)
 
@@ -6859,7 +6859,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - PRACTICE OF INNOVATION: [https://www.practiceofinnovation.com/](https://www.practiceofinnovation.com/)
 
-- PRACTICE OF INNOVATION – CURT CARLSON BIOGRAPHY / CONTACT: [https://www.practiceofinnovation.com/my-biography/](https://www.practiceofinnovation.com/my-biography/)    ,    [https://www.practiceofinnovation.com/about/](https://www.practiceofinnovation.com/about/)
+- PRACTICE OF INNOVATION – CURT CARLSON BIOGRAPHY / CONTACT: [https://www.practiceofinnovation.com/my-biography/](https://www.practiceofinnovation.com/my-biography/)    ,    [https://www.practiceofinnovation.com/about/](https://www.practiceofinnovation.com/about/)
 
 - THE GUARDIAN – COURT ORDERS ROYAL DUTCH SHELL TO CUT CARBON EMISSIONS BY 45% BY 2030: [https://www.theguardian.com/business/2021/may/26/court-orders-royal-dutch-shell-to-cut-carbon-emissions-by-45-by-2030](https://www.theguardian.com/business/2021/may/26/court-orders-royal-dutch-shell-to-cut-carbon-emissions-by-45-by-2030)
 
@@ -6885,9 +6885,9 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - VATICAN REVAMPS CLICK TO PRAY APP: [https://www.reuters.com/video/watch/vatican-revamps-click-to-pray-app-id736994027?chan=dxefo27m](https://www.reuters.com/video/watch/vatican-revamps-click-to-pray-app-id736994027?chan=dxefo27m)
 
-- VERO: [https://vero.co/](https://vero.co/)    ,     [https://www.youtube.com/watch?v=LdJ-wl0l-Hk](https://www.youtube.com/watch?v=LdJ-wl0l-Hk)
+- VERO: [https://vero.co/](https://vero.co/)    ,     [https://www.youtube.com/watch?v=LdJ-wl0l-Hk](https://www.youtube.com/watch?v=LdJ-wl0l-Hk)
 
-- RO KNANNA ASKS IF BIG OIL WILL STOP FUNDING CLIMATE DISINFORMATION: [https://www.youtube.com/watch?v=zirpMV7cpVE](https://www.youtube.com/watch?v=zirpMV7cpVE)    ,     [https://www.youtube.com/watch?v=fIRWZde6Qgs](https://www.youtube.com/watch?v=fIRWZde6Qgs)
+- RO KNANNA ASKS IF BIG OIL WILL STOP FUNDING CLIMATE DISINFORMATION: [https://www.youtube.com/watch?v=zirpMV7cpVE](https://www.youtube.com/watch?v=zirpMV7cpVE)    ,     [https://www.youtube.com/watch?v=fIRWZde6Qgs](https://www.youtube.com/watch?v=fIRWZde6Qgs)
 
 - US OVERSIGHT COMMITTEE HEARING ON BIG OIL AND THE CLIMATE CRISIS: [https://www.youtube.com/watch?v=08M9cdaJtwo](https://www.youtube.com/watch?v=08M9cdaJtwo)
 
@@ -7091,13 +7091,13 @@ The biggest area for inconsistency is the treatment of HOF - human and organizat
 
 #### Synergetic 24 - Biomimicry 
 
-- Overview of biomimicry: [Vox + 99% Invisible story](https://www.youtube.com/watch?v=iMtXqTmfta0)
+- Overview of biomimicry: [Vox + 99% Invisible story](https://www.youtube.com/watch?v=iMtXqTmfta0)
 
-- [Biomimicry.org](http://Biomimicry.org) -- [list of solutions](https://biomimicry.org/solutions/) in various stages (concepts created by students that show the power of understanding biology + young companies with early-stage investment). 
+- [Biomimicry.org](http://Biomimicry.org) -- [list of solutions](https://biomimicry.org/solutions/) in various stages (concepts created by students that show the power of understanding biology + young companies with early-stage investment). 
 
-- Exemplary videos: [Impossible Materials](https://biomimicry.org/solution/impossible-materials/) (replacing titanium dioxide), [Biohm](https://biomimicry.org/solution/biohm/) (plastic-eating mycelium to make bricks/insulation), and [ECOncrete](https://biomimicry.org/solution/econcrete/) (rebuilding marine-rich environments that get stronger over time along developed shorelines). 
+- Exemplary videos: [Impossible Materials](https://biomimicry.org/solution/impossible-materials/) (replacing titanium dioxide), [Biohm](https://biomimicry.org/solution/biohm/) (plastic-eating mycelium to make bricks/insulation), and [ECOncrete](https://biomimicry.org/solution/econcrete/) (rebuilding marine-rich environments that get stronger over time along developed shorelines). 
 
-- [AskNature.org](http://AskNature.org) has [educator resources](https://asknature.org/educators/) organized by grade level, collections organized by theme (like [high performance materials](https://asknature.org/collection/high-performance-materials/)), strategy pages ([how fish scales reduce drag](https://asknature.org/strategy/why-fish-scales-arent-such-a-drag/)), and more [innovations](https://asknature.org/innovations/).
+- [AskNature.org](http://AskNature.org) has [educator resources](https://asknature.org/educators/) organized by grade level, collections organized by theme (like [high performance materials](https://asknature.org/collection/high-performance-materials/)), strategy pages ([how fish scales reduce drag](https://asknature.org/strategy/why-fish-scales-arent-such-a-drag/)), and more [innovations](https://asknature.org/innovations/).
 
 #### Synergetic 25 - Project Drawdown 
 
@@ -7108,7 +7108,7 @@ Finalists for the Keeling Curve Prize.
 **PROJECT DRAWDOWN**  
 _The world's leading resource for climate solutions._  
   
-[Check out my latest podcast: A system of solutions for a regenerative future & bravery for the queer community](https://plinkhq.com/i/1535372328/e/1000527939972)   
+[Check out my latest podcast: A system of solutions for a regenerative future & bravery for the queer community](https://plinkhq.com/i/1535372328/e/1000527939972)   
   
 [2021 Green Warrior by Green is the New Black](https://greenisthenewblack.com/introducing-the-2021-green-warriors/)  
   
@@ -7122,7 +7122,7 @@ _The world's leading resource for climate solutions._
   
 [2019 Research to Action Conference](https://drawdown.psu.edu/livestreaming)
 
-PROJECT DRAWDOWN – THE POWERFUL ROLE OF HOUSEHOLD ACTIONS TO  AFFECT CLIMATE CHANGE:  [https://drawdown.org/news/insights/the-powerful-role-of-household-actions-in-solving-climate-change](https://drawdown.org/news/insights/the-powerful-role-of-household-actions-in-solving-climate-change)
+PROJECT DRAWDOWN – THE POWERFUL ROLE OF HOUSEHOLD ACTIONS TO  AFFECT CLIMATE CHANGE:  [https://drawdown.org/news/insights/the-powerful-role-of-household-actions-in-solving-climate-change](https://drawdown.org/news/insights/the-powerful-role-of-household-actions-in-solving-climate-change)
 
 Chad Frischmann – LinkedIn: [https://www.linkedin.com/in/chadfrischmann/](https://www.linkedin.com/in/chadfrischmann/)
 
@@ -7160,23 +7160,23 @@ HOMEBOY INDUSTRIES 2020 / STORIES BEHIND THE MISSION: [https://www.youtube.com/w
 
 1) WHAT HUMANS CAN LEARN FROM THE WISDOM OF SALMON – Video: [https://www.karmatube.org/videos.php?id=8592](https://www.karmatube.org/videos.php?id=8592)
 
-2) CRAIG J. VENTER – MAPPING THE OCEAN’S  DNA: [https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-818188](https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-818188)
+2) CRAIG J. VENTER – MAPPING THE OCEAN’S  DNA: [https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-818188](https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=da#t-818188)
 
 3) THE PROMISE OF PLANETARY HEALTH video: [https://www.youtube.com/watch?v=9cZ0zBSJz_g](https://www.youtube.com/watch?v=9cZ0zBSJz_g)
 
-4) THE PLANETARY HEALTH ALLIANCE website: [https://www.planetaryhealthalliance.org/mission-vision](https://www.planetaryhealthalliance.org/mission-vision)    ,     [https://www.planetaryhealthalliance.org/planetary-health](https://www.planetaryhealthalliance.org/planetary-health)
+4) THE PLANETARY HEALTH ALLIANCE website: [https://www.planetaryhealthalliance.org/mission-vision](https://www.planetaryhealthalliance.org/mission-vision)    ,     [https://www.planetaryhealthalliance.org/planetary-health](https://www.planetaryhealthalliance.org/planetary-health)
 
 5) RICHARD BUCKMINSTER FULLER - GRUNCH OF GIANTS – Bucky’s last book, outlining the history of massive, world dominating war machine business / governance interests) [https://archive.org/stream/GrunchOfGiants/R.BuckminsterFullerGrunchOfGiants2004_djvu.txt](https://archive.org/stream/GrunchOfGiants/R.BuckminsterFullerGrunchOfGiants2004_djvu.txt)
 
 6) TOM CHI (the visionary entrepreneur focused on solutions that scale). “New capabilities shape our beliefs of what’s possible and can drive rapid transformation.”
 
-Tom’s fund, “At One Ventures” [https://www.atoneventures.com/team](https://www.atoneventures.com/team)  , 
+Tom’s fund, “At One Ventures” [https://www.atoneventures.com/team](https://www.atoneventures.com/team)  , 
 
-Everything Is Connected video short version:   [https://www.youtube.com/watch?v=rPh3c8Sa37M](https://www.youtube.com/watch?v=rPh3c8Sa37M) ,
+Everything Is Connected video short version:   [https://www.youtube.com/watch?v=rPh3c8Sa37M](https://www.youtube.com/watch?v=rPh3c8Sa37M) ,
 
-Everything Is Connected video long version:    [https://www.youtube.com/watch?v=zyr4qORDu2A](https://www.youtube.com/watch?v=zyr4qORDu2A)   ,
+Everything Is Connected video long version:    [https://www.youtube.com/watch?v=zyr4qORDu2A](https://www.youtube.com/watch?v=zyr4qORDu2A)   ,
 
-Helping Humanity Become a Net Positive to Nature video:    [https://vimeo.com/294975140](https://vimeo.com/294975140)  
+Helping Humanity Become a Net Positive to Nature video:    [https://vimeo.com/294975140](https://vimeo.com/294975140)  
 
 7) ECOCIDE (damaging or destroying [ecosystems](https://en.wikipedia.org/wiki/Ecosystems "Ecosystems") or by harming the health and well-being of a [species](https://en.wikipedia.org/wiki/Species "Species"), including humans) [**Error! Hyperlink reference not valid.**](%20https:/en.wikipedia.org%20›%20wiki%20›%20Ecocide%0d)
 
@@ -7190,7 +7190,7 @@ verses leads European Union digital government transformation with 5 city drone 
 
 10) WTF is the Internet of Bio Nano Things iobnt and how secure is it?: [https://hackernoon.com/wtf-is-internet-of-bio-nano-thingsiobnt-and-how-secure-is-it-v62z32a5](https://hackernoon.com/wtf-is-internet-of-bio-nano-thingsiobnt-and-how-secure-is-it-v62z32a5)
 
-11) Securing Bio-Cyber Interface for the Internet of Bio-Nano Things using Particle Swarm Optimization and Artificial neural Networks based parameter profiling: [https://pubmed.ncbi.nlm.nih.gov/34375900/](https://pubmed.ncbi.nlm.nih.gov/34375900/) 
+11) Securing Bio-Cyber Interface for the Internet of Bio-Nano Things using Particle Swarm Optimization and Artificial neural Networks based parameter profiling: [https://pubmed.ncbi.nlm.nih.gov/34375900/](https://pubmed.ncbi.nlm.nih.gov/34375900/) 
 
 12) PANACEA: An Internet of Bio-Nano Things Application for Early Detection and Mitigation of Infections Diseases: [https://ieeexplore.ieee.org/abstract/document/9149878](https://ieeexplore.ieee.org/abstract/document/9149878)
 
@@ -7204,13 +7204,13 @@ verses leads European Union digital government transformation with 5 city drone 
 
 17) BREAKING BOUNDARIES DOCUMENTARY: [https://en.wikipedia.org/wiki/Breaking_Boundaries](https://en.wikipedia.org/wiki/Breaking_Boundaries) , [https://www.youtube.com/watch?v=2Jq23mSDh9U](https://www.youtube.com/watch?v=2Jq23mSDh9U)
 
-18) EVANS & SUTHERLAND DOMES – Education immersed in a dome, watching planetary dynamics in real time in, exhibited in precision detail with all relationships exhibited in geo-located micro to macro scale to inform the results of outcome trajectories, imaginal modeling, allowing the reverse engineering into optimal decisions   - https://www.es.com _› domex_      -       [https://www.es.com](https://www.es.com)
+18) EVANS & SUTHERLAND DOMES – Education immersed in a dome, watching planetary dynamics in real time in, exhibited in precision detail with all relationships exhibited in geo-located micro to macro scale to inform the results of outcome trajectories, imaginal modeling, allowing the reverse engineering into optimal decisions   - https://www.es.com _› domex_      -       [https://www.es.com](https://www.es.com)
 
 19) VERITASIUM: [https://www.veritasium.com/](https://www.veritasium.com/)
 
-20) GAPMINDER / GAPMINDER FOUNDATION WIKI: [https://www.gapminder.org/](https://www.gapminder.org/)   ,    [https://upgrader.gapminder.org/](https://upgrader.gapminder.org/)   ,   [https://en.wikipedia.org/wiki/Gapminder_Foundation](https://en.wikipedia.org/wiki/Gapminder_Foundation)
+20) GAPMINDER / GAPMINDER FOUNDATION WIKI: [https://www.gapminder.org/](https://www.gapminder.org/)   ,    [https://upgrader.gapminder.org/](https://upgrader.gapminder.org/)   ,   [https://en.wikipedia.org/wiki/Gapminder_Foundation](https://en.wikipedia.org/wiki/Gapminder_Foundation)
 
-21) POPULATION MEDIA CENTER / OVERDEVELOPMENT, OVERPOPULATION, OVERSHOOT: [https://www.populationmedia.org/2015/06/25/overdevelopment-overpopulation-overshoot-circles-the-globe/](https://www.populationmedia.org/2015/06/25/overdevelopment-overpopulation-overshoot-circles-the-globe/)   ,   [https://www.populationmedia.org/projects/global-population-speak-out/](https://www.populationmedia.org/projects/global-population-speak-out/)
+21) POPULATION MEDIA CENTER / OVERDEVELOPMENT, OVERPOPULATION, OVERSHOOT: [https://www.populationmedia.org/2015/06/25/overdevelopment-overpopulation-overshoot-circles-the-globe/](https://www.populationmedia.org/2015/06/25/overdevelopment-overpopulation-overshoot-circles-the-globe/)   ,   [https://www.populationmedia.org/projects/global-population-speak-out/](https://www.populationmedia.org/projects/global-population-speak-out/)
 
 22) EXPONENT: [https://www.exponent.com/](https://www.exponent.com/)
 
@@ -7260,7 +7260,7 @@ verses leads European Union digital government transformation with 5 city drone 
 
 43) OPEN WORLD ALLIANCE: [https://www.openworldalliance.org/?fbclid=IwAR0KGc6B_hBafOvkb3jhxD9QXS4W6-7SiHd8z1V-WJI7TbLQ7fRoxHhMsJA](https://www.openworldalliance.org/?fbclid=IwAR0KGc6B_hBafOvkb3jhxD9QXS4W6-7SiHd8z1V-WJI7TbLQ7fRoxHhMsJA)
 
-44) ELEMENTAL EXCELERATOR – COHORT 10 (X): [https://elementalexcelerator.com/latest/articles/what-were-looking-to-fund-in-cohort-10/](https://elementalexcelerator.com/latest/articles/what-were-looking-to-fund-in-cohort-10/)    ,    [https://elementalexcelerator.com/latest/articles/our-story/](https://elementalexcelerator.com/latest/articles/our-story/)
+44) ELEMENTAL EXCELERATOR – COHORT 10 (X): [https://elementalexcelerator.com/latest/articles/what-were-looking-to-fund-in-cohort-10/](https://elementalexcelerator.com/latest/articles/what-were-looking-to-fund-in-cohort-10/)    ,    [https://elementalexcelerator.com/latest/articles/our-story/](https://elementalexcelerator.com/latest/articles/our-story/)
 
 45) FORTUNE – THE PATH TO ZERO: [https://fortune.com/topic/path-to-zero/](https://fortune.com/topic/path-to-zero/)
 
@@ -7302,7 +7302,7 @@ verses leads European Union digital government transformation with 5 city drone 
 
 65) SPACEX INSPIRATION4 - COUNTDOWN: https://www.netflix.com/title/81441273
 
-66) COUNTDOWN – OFFICIAL TRAILER + EPISODE: [https://www.youtube.com/watch?v=D38W150h9a4](https://www.youtube.com/watch?v=D38W150h9a4)    ,    [https://www.youtube.com/watch?v=tBVqsqqm9AM](https://www.youtube.com/watch?v=tBVqsqqm9AM)
+66) COUNTDOWN – OFFICIAL TRAILER + EPISODE: [https://www.youtube.com/watch?v=D38W150h9a4](https://www.youtube.com/watch?v=D38W150h9a4)    ,    [https://www.youtube.com/watch?v=tBVqsqqm9AM](https://www.youtube.com/watch?v=tBVqsqqm9AM)
 
 67) SCI-TECH-DAILY: [https://scitechdaily.com/nasa-images-of-the-week-rogue-planet-dangerous-dance-spacex-electric-propulsion/](https://scitechdaily.com/nasa-images-of-the-week-rogue-planet-dangerous-dance-spacex-electric-propulsion/)
 
@@ -7433,7 +7433,7 @@ AMY EDMONDSON – THE FEARLESS ORGANIZATION – (AMY WORKED DIRECTLY WITH BUCKMI
 
 AMY EDMONDSON – THE FEARLESS ORGANIZATION: CREATING PSYCHOLOGICAL SAFETY IN THE WORKPLACE FOR LEARNING, INNOVATION AND GROWTH: [https://www.youtube.com/watch?v=x9UwwY3xiiQ](https://www.youtube.com/watch?v=x9UwwY3xiiQ)
 
-AMY EDMONDSON – HARVARD UNIVERSITY GRADUATE SCHOOL OF DESIGN RICHARD BUCKMINSTER FULLER SCHOOL OF DESIGN SCIENCE: [https://news.harvard.edu/gazette/story/newsplus/graduate-school-of-design-announces-r-buckminster-fuller-professorship-of-design-science/](https://news.harvard.edu/gazette/story/newsplus/graduate-school-of-design-announces-r-buckminster-fuller-professorship-of-design-science/) 
+AMY EDMONDSON – HARVARD UNIVERSITY GRADUATE SCHOOL OF DESIGN RICHARD BUCKMINSTER FULLER SCHOOL OF DESIGN SCIENCE: [https://news.harvard.edu/gazette/story/newsplus/graduate-school-of-design-announces-r-buckminster-fuller-professorship-of-design-science/](https://news.harvard.edu/gazette/story/newsplus/graduate-school-of-design-announces-r-buckminster-fuller-professorship-of-design-science/) 
 
 HARVARD GSD ANNOUNCES ESTABLISHMENT OF THE R. BUCKMINSTER FULLER PROFESSORSHIP OF DESIGN: [https://www.gsd.harvard.edu/2021/04/harvard-gsd-announces-establishment-of-the-r-buckminster-fuller-professorship-of-design-science/](https://www.gsd.harvard.edu/2021/04/harvard-gsd-announces-establishment-of-the-r-buckminster-fuller-professorship-of-design-science/)
 
@@ -7544,7 +7544,7 @@ SADHGURU – ONE POSTURE THAT WILL DRAMATICALLY CHANGE YOUR LIFE: [https://www.y
 
 SADHGURU – SHOCKING!! // MUST DO THIS 2 THING WITH YOUR FEET & INCREASE YOUR BRAIN POWER 500% // SADGHURU MOW: [https://www.youtube.com/watch?v=UQ39-Qhc1ZM](https://www.youtube.com/watch?v=UQ39-Qhc1ZM)
 
-SADHGURU – GREAT RELIGIONS OF THE WORLD CAN’T WITHSTAND 2 LOGICAL QUESTIONS - #1 – IS HEAVEN FOR REAL?, #2 – IS GOD REALLY UP THERE?      : [https://www.youtube.com/watch?v=pUxLCCtCq1o](https://www.youtube.com/watch?v=pUxLCCtCq1o)
+SADHGURU – GREAT RELIGIONS OF THE WORLD CAN’T WITHSTAND 2 LOGICAL QUESTIONS - #1 – IS HEAVEN FOR REAL?, #2 – IS GOD REALLY UP THERE?      : [https://www.youtube.com/watch?v=pUxLCCtCq1o](https://www.youtube.com/watch?v=pUxLCCtCq1o)
 
 SADHGURU – THERE IS NO DEATH, ONLY LIFE / INTENSE & RARE VIDEO / MYSTICS OF INDIA / 2018: [https://www.youtube.com/watch?v=UfawEz78kUE](https://www.youtube.com/watch?v=UfawEz78kUE)
 
@@ -7630,7 +7630,7 @@ CHARLES LINDSAY – SETI: [http://www.charleslindsay.com/seti](http://www.charle
 
 SETI – Charles Lindsay: [https://www.seti.org/air/charles-lindsay](https://www.seti.org/air/charles-lindsay)
 
-"Code Humpback" - [https://vimeo.com/201955953](https://vimeo.com/201955953)The Long Now Foundation - [http://longnow.org/about/](http://longnow.org/about/)New Museum Los Gatos - [http://www.numulosgatos.org/exhibitions-2/2016/10/28/making-contact-seti-artists-in-residence](http://www.numulosgatos.org/exhibitions-2/2016/10/28/making-contact-seti-artists-in-residence)
+"Code Humpback" - [https://vimeo.com/201955953](https://vimeo.com/201955953)The Long Now Foundation - [http://longnow.org/about/](http://longnow.org/about/)New Museum Los Gatos - [http://www.numulosgatos.org/exhibitions-2/2016/10/28/making-contact-seti-artists-in-residence](http://www.numulosgatos.org/exhibitions-2/2016/10/28/making-contact-seti-artists-in-residence)
 
 EDWARD FRENKEL (friend of Charles Lindsay): [https://www.edwardfrenkel.com/](https://www.edwardfrenkel.com/)
 
@@ -7697,7 +7697,7 @@ TOM CHI – HOW TO ADDRESS OUR CARBON DEBT TO HEAL THE PLANET: [https://www.yout
 
 TOM CHI – HOW TO SAVE THE PLANET FROM GLOBAL WARMING – MINDVALLEY HQ: [https://www.youtube.com/watch?v=QyQvfaW54NU](https://www.youtube.com/watch?v=QyQvfaW54NU)
 
-TOM CHI – CHANGE ACCELERATOR: INVENTION CATALYST – NEW CAPABILITIES SHAPE OUR BELIEFS OF WHAT’S POSSIBLE AND CAN DRIVE RAPID TRANSFORMATION: [https://vimeo.com/294975140](https://vimeo.com/294975140) 
+TOM CHI – CHANGE ACCELERATOR: INVENTION CATALYST – NEW CAPABILITIES SHAPE OUR BELIEFS OF WHAT’S POSSIBLE AND CAN DRIVE RAPID TRANSFORMATION: [https://vimeo.com/294975140](https://vimeo.com/294975140) 
 
 TOM CHI – AT ONE VENTURES: [https://www.atoneventures.com/](https://www.atoneventures.com/)
 
@@ -7727,7 +7727,7 @@ Elon Musk talks Twitter, Tesla and how his brain works – live at TED2022: [htt
 
 BBC - MORE THAN HALF OF OUR BODIES ARE NOT HUMAN: [https://www.bbc.com/news/health-43674270](https://www.bbc.com/news/health-43674270)
 
-JAMES COOK UNIVERSITY TO GENETICALLY MODIFY INTESTINAL WORMS TO PROTECT US MILITARY ERSONNEL FROM BIOWEAPONS: [https://www.jcu.edu.au/news/releases/2021/july/parasites-to-fight-chemical-and-biological-weapons](https://www.jcu.edu.au/news/releases/2021/july/parasites-to-fight-chemical-and-biological-weapons)   ,   [https://www.abc.net.au/news/2021-07-29/genetically-modify-worms-for-us-miltary-james-cook-uni/100331756](https://www.abc.net.au/news/2021-07-29/genetically-modify-worms-for-us-miltary-james-cook-uni/100331756)    ,    
+JAMES COOK UNIVERSITY TO GENETICALLY MODIFY INTESTINAL WORMS TO PROTECT US MILITARY ERSONNEL FROM BIOWEAPONS: [https://www.jcu.edu.au/news/releases/2021/july/parasites-to-fight-chemical-and-biological-weapons](https://www.jcu.edu.au/news/releases/2021/july/parasites-to-fight-chemical-and-biological-weapons)   ,   [https://www.abc.net.au/news/2021-07-29/genetically-modify-worms-for-us-miltary-james-cook-uni/100331756](https://www.abc.net.au/news/2021-07-29/genetically-modify-worms-for-us-miltary-james-cook-uni/100331756)    ,    
 
 THE ART OF IMPOSSIBLE BOOK – A PEAK PERFORMANCE PRIMER – STEVEN KOTLAR: [https://www.theartofimpossible.com/](https://www.theartofimpossible.com/)
 
@@ -7745,7 +7745,7 @@ UNLOCK SUPERHUMAN PERFORMANCE BY ACHIEVING FLOW STATES / STEVEN KOTLER / UNSTOPP
 
 HOW TO BECOME THE BEST VERSION OF YOURSELF / STEVEN KOTLER ON CONVERSATIONS WITH TOM: [https://www.youtube.com/watch?v=mUp8_AMao9A](https://www.youtube.com/watch?v=mUp8_AMao9A)
 
-THE BOW-TIE BOOK: [https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety](https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety) 
+THE BOW-TIE BOOK: [https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety](https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety) 
 
 BOW-TIES IN RISK MANAGEMENT: [https://onedrive.live.com/?authkey=%21AJZ4fB0uzzYj2uQ&cid=9000DCA169622795&id=9000DCA169622795%212572&parId=9000DCA169622795%21194&o=OneUp](https://onedrive.live.com/?authkey=%21AJZ4fB0uzzYj2uQ&cid=9000DCA169622795&id=9000DCA169622795%212572&parId=9000DCA169622795%21194&o=OneUp)
 
@@ -7774,7 +7774,7 @@ PETER A. LEVINE – HEALING TRAUMA BOOK (FULL AUDIO): [https://www.youtube.com/w
 
 TRAUMA RESPONSES / ECHOS: [https://traumahealing.org/](https://traumahealing.org/)
 
-VISION / ATTENTION  +  DR. ANDREW HUBERMAN – A NEUROBIOLOGIST ON OPTIMIZING SLEEP, ENHANCING PERFORMANCE, AND MORE: [https://www.youtube.com/watch?v=Ojkh7qV-OoA](https://www.youtube.com/watch?v=Ojkh7qV-OoA)
+VISION / ATTENTION  +  DR. ANDREW HUBERMAN – A NEUROBIOLOGIST ON OPTIMIZING SLEEP, ENHANCING PERFORMANCE, AND MORE: [https://www.youtube.com/watch?v=Ojkh7qV-OoA](https://www.youtube.com/watch?v=Ojkh7qV-OoA)
 
 QUANTUM BIOLOGY: THE HIDDEN NATURE OF NATURE: [https://www.youtube.com/watch?v=ADiql3FG5is](https://www.youtube.com/watch?v=ADiql3FG5is)
 
@@ -7837,7 +7837,7 @@ ALAN KARP SECURITY RANT: [https://alanhkarp.com/SecurityRant.pdf](https://alanhk
 
 ALAN KARP CAPABILITIES: [https://alanhkarp.com/Capabilities-101.html](https://alanhkarp.com/Capabilities-101.html)
 
-HACKER NEWS – UNDETECTIBLE  HARDWARE TROJANS: [https://thehackernews.com/2013/09/Undetectable-hardware-Trojans.html](https://thehackernews.com/2013/09/Undetectable-hardware-Trojans.html)
+HACKER NEWS – UNDETECTIBLE  HARDWARE TROJANS: [https://thehackernews.com/2013/09/Undetectable-hardware-Trojans.html](https://thehackernews.com/2013/09/Undetectable-hardware-Trojans.html)
 
 HOW TO GET INTO A FLOW STATE / STEVEN KOTLER / AUTHOR: THE ART OF THE IMPOSSIBLE – A PEAK PERFORMANCE PRIMER: [https://www.youtube.com/watch?v=XG_hNZ5T4nY](https://www.youtube.com/watch?v=XG_hNZ5T4nY)
 
@@ -7991,7 +7991,7 @@ Brooke Darshana - Dollar Donation Club
 
 Jacqueline Miller - Partnerships For Change 
 
-**SHELLY VON STRUNCKEL:**  [https://www.shelleyvonstrunckel.com/](https://www.shelleyvonstrunckel.com/)
+**SHELLY VON STRUNCKEL:**  [https://www.shelleyvonstrunckel.com/](https://www.shelleyvonstrunckel.com/)
 
 **JAMES E. HUGHES:** [https://www.jamesehughes.com/](https://www.jamesehughes.com/)
 
@@ -8023,9 +8023,9 @@ Jacqueline Miller - Partnerships For Change
 
 **GLOBAL FISHING WATCH:** [https://globalfishingwatch.org/](https://globalfishingwatch.org/)
 
-**CHRIS DO:**  [https://thefutur.com/people/chris-do](https://thefutur.com/people/chris-do) 
+**CHRIS DO:**  [https://thefutur.com/people/chris-do](https://thefutur.com/people/chris-do) 
 
-**Dr. Teruo Higa / EMRO:** [https://www.emrojapan.com/dr-higa/](https://www.emrojapan.com/dr-higa/) 
+**Dr. Teruo Higa / EMRO:** [https://www.emrojapan.com/dr-higa/](https://www.emrojapan.com/dr-higa/) 
 
 **STOP ECOCIDE:** [https://www.stopecocide.earth/](https://www.stopecocide.earth/)
 
@@ -8061,7 +8061,7 @@ Jacqueline Miller - Partnerships For Change
 
 **BUCKMINSTER FULLER – “LOVE IS METAPHYSICAL GRAVITY” :** [http://www.buckyfullernow.com/blog---a-fuller-view---wwbs-what-would-bucky-say/love-is-metaphysical-gravity-buckminster-fuller-in-a-fuller-view](http://www.buckyfullernow.com/blog---a-fuller-view---wwbs-what-would-bucky-say/love-is-metaphysical-gravity-buckminster-fuller-in-a-fuller-view)
 
-**WE DON’T THINK OUR WAY INTO A NEW WAY OF ACTING – WE ACT OUR WAY INTO A NEW WAY OF THINKING:** [https://thefourthrevolution.org/wordpress/archives/1255?doing_wp_cron=1651689246.4345951080322265625000](https://thefourthrevolution.org/wordpress/archives/1255?doing_wp_cron=1651689246.4345951080322265625000)                                                                                                                          
+**WE DON’T THINK OUR WAY INTO A NEW WAY OF ACTING – WE ACT OUR WAY INTO A NEW WAY OF THINKING:** [https://thefourthrevolution.org/wordpress/archives/1255?doing_wp_cron=1651689246.4345951080322265625000](https://thefourthrevolution.org/wordpress/archives/1255?doing_wp_cron=1651689246.4345951080322265625000)                                                                                                                          
 
 [https://quoteinvestigator.com/2021/10/12/acting/](https://quoteinvestigator.com/2021/10/12/acting/)
 
@@ -8447,7 +8447,7 @@ KEN WINDES: [https://studylib.net/doc/8819692/the-script---international-transac
 
 **YUVAL HARARI ON THE FUTURE OF JOBS & TECHNOLOGY, INTELLIGENCE VS CONSCIOUSNESS & THREATS TO HUMANITY:** [**https://www.youtube.com/watch?v=GMLjljKBXRA**](https://www.youtube.com/watch?v=GMLjljKBXRA) 
 
-REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – BY PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)    ,     [https://paulhawken.com/](https://paulhawken.com/) 
+REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – BY PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)    ,     [https://paulhawken.com/](https://paulhawken.com/) 
 
 **AN UNCENSORED HISTORY OF DARPA / ANNIE JACOBSEN / TALKS AT GOOGLE:** [**https://www.youtube.com/watch?v=_JZot1YANL4**](https://www.youtube.com/watch?v=_JZot1YANL4)
 
@@ -8463,7 +8463,7 @@ REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – BY PAUL HAWKEN:
 
 **SO EXPENSIVE:** [**https://www.youtube.com/watch?v=ieQQMxW9A6E**](https://www.youtube.com/watch?v=ieQQMxW9A6E)
 
-**THE ULTIMATE  GUIDE TO NUCLEAR WEAPONS:** [**https://www.youtube.com/watch?v=8uIPQBOCJ64**](https://www.youtube.com/watch?v=8uIPQBOCJ64)
+**THE ULTIMATE  GUIDE TO NUCLEAR WEAPONS:** [**https://www.youtube.com/watch?v=8uIPQBOCJ64**](https://www.youtube.com/watch?v=8uIPQBOCJ64)
 
 **ON THE 8TH DAY – NUCLEAR WINTER DOCUMENTARY (1984):** [**https://www.youtube.com/watch?v=WCTKcd2Ko98**](https://www.youtube.com/watch?v=WCTKcd2Ko98)
 
@@ -8527,11 +8527,11 @@ FUTURE EARTH: [https://futureearth.org/networks/knowledge-action-networks/ocean/
 
 [https://www.youtube.com/watch?v=1_Vzj8C_qoE&t=8s](https://www.youtube.com/watch?v=1_Vzj8C_qoE&t=8s)
 
-FUTURE SKILLS TOOLBOX - TOM CHI - [https://futureskills.mystrikingly.com/](https://futureskills.mystrikingly.com/)
+FUTURE SKILLS TOOLBOX - TOM CHI - [https://futureskills.mystrikingly.com/](https://futureskills.mystrikingly.com/)
 
-EDUCATION REIMAGINED FILM - [http://bigidea.dev.ericsollien.com/](http://bigidea.dev.ericsollien.com/)
+EDUCATION REIMAGINED FILM - [http://bigidea.dev.ericsollien.com/](http://bigidea.dev.ericsollien.com/)
 
-OUR OCEAN 2022 - [https://ourocean2022.pw/](https://ourocean2022.pw/)
+OUR OCEAN 2022 - [https://ourocean2022.pw/](https://ourocean2022.pw/)
 
 [https://app.mural.co/t/heroorganism5012/m/heroorganism5012/1646756829615/9a9e98816e8136df668eb25fdff5d0e72eb1cd6c?sender=robert5336](https://app.mural.co/t/heroorganism5012/m/heroorganism5012/1646756829615/9a9e98816e8136df668eb25fdff5d0e72eb1cd6c?sender=robert5336)
 
@@ -8539,13 +8539,13 @@ OUR OCEAN 2022 - [https://ourocean2022.pw/](https://ourocean2022.pw/)
 
 [https://www.nvidia.com/gtc/keynote/](https://www.nvidia.com/gtc/keynote/)
 
-CLIMATE CHANGE NOT BUSINESS AS USUAL - VIMEO: [https://vimeo.com/241360969](https://vimeo.com/241360969) 
+CLIMATE CHANGE NOT BUSINESS AS USUAL - VIMEO: [https://vimeo.com/241360969](https://vimeo.com/241360969) 
 
 WORLD ECONOMIC FORUM – BLUE ECONOMY: HOW BUSINESS LEADERS AND SCIENTISTS ARE IMPROVING OCEAN HEALTH: [https://www.weforum.org/impact/blue-economy-for-ocean-health/](https://www.weforum.org/impact/blue-economy-for-ocean-health/)
 
-TURNING THE TITANIC ON VIMEO: [https://vimeo.com/37560460](https://vimeo.com/37560460) 
+TURNING THE TITANIC ON VIMEO: [https://vimeo.com/37560460](https://vimeo.com/37560460) 
 
-WHO ARE MY PEOPLE FESTIVAL: [https://vimeo.com/549484958](https://vimeo.com/549484958) 
+WHO ARE MY PEOPLE FESTIVAL: [https://vimeo.com/549484958](https://vimeo.com/549484958) 
 
 [https://docs.google.com/document/d/17SuKJ1wii-eigUtfvjkWw_dXlqq-oqHg9k2y4vnRfYs/edit](https://docs.google.com/document/d/17SuKJ1wii-eigUtfvjkWw_dXlqq-oqHg9k2y4vnRfYs/edit)
 
@@ -8557,33 +8557,33 @@ WHO ARE MY PEOPLE FESTIVAL: [https://vimeo.com/549484958](https://vimeo.com/549
 
 [https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0](https://www.dropbox.com/s/8tqqcykpvnrwr8j/BFI_Spaceship_Earth_Day_FX.mp4?dl=0)
 
-HOW MANY MULTIVERSES ARE THERE? [https://www.youtube.com/watch?v=1jmNzlTd09E](https://www.youtube.com/watch?v=1jmNzlTd09E)
+HOW MANY MULTIVERSES ARE THERE? [https://www.youtube.com/watch?v=1jmNzlTd09E](https://www.youtube.com/watch?v=1jmNzlTd09E)
 
-THE LAW OF VIBRATION: [https://www.youtube.com/watch?v=BIz35fqvHIU](https://www.youtube.com/watch?v=BIz35fqvHIU) 
+THE LAW OF VIBRATION: [https://www.youtube.com/watch?v=BIz35fqvHIU](https://www.youtube.com/watch?v=BIz35fqvHIU) 
 
 [https://www.youtube.com/watch?v=JYalx8bvEyg](https://www.youtube.com/watch?v=JYalx8bvEyg)
 
-ANCIENT DATES FROM BIBLICAL TIMES BROUGHT TO LIFE:  [https://www.google.com/search?client=firefox-b-1-d&tbm=vid&q=bbc+ancient+dates+from+biblical+times+brought+to+life&sa=X&ved=2ahUKEwiu-oiH2qn3AhVZEEQIHX2MBWoQ8ccDegQIBhAH&biw=1440&bih=709&dpr=2](https://www.google.com/search?client=firefox-b-1-d&tbm=vid&q=bbc+ancient+dates+from+biblical+times+brought+to+life&sa=X&ved=2ahUKEwiu-oiH2qn3AhVZEEQIHX2MBWoQ8ccDegQIBhAH&biw=1440&bih=709&dpr=2) 
+ANCIENT DATES FROM BIBLICAL TIMES BROUGHT TO LIFE:  [https://www.google.com/search?client=firefox-b-1-d&tbm=vid&q=bbc+ancient+dates+from+biblical+times+brought+to+life&sa=X&ved=2ahUKEwiu-oiH2qn3AhVZEEQIHX2MBWoQ8ccDegQIBhAH&biw=1440&bih=709&dpr=2](https://www.google.com/search?client=firefox-b-1-d&tbm=vid&q=bbc+ancient+dates+from+biblical+times+brought+to+life&sa=X&ved=2ahUKEwiu-oiH2qn3AhVZEEQIHX2MBWoQ8ccDegQIBhAH&biw=1440&bih=709&dpr=2) 
 
-DAN MAPES - [https://www.youtube.com/watch?v=yjjVM52dgJk](https://www.youtube.com/watch?v=yjjVM52dgJk)
+DAN MAPES - [https://www.youtube.com/watch?v=yjjVM52dgJk](https://www.youtube.com/watch?v=yjjVM52dgJk)
 
-SOCIALISM / SKEPTICISM - [https://www.youtube.com/watch?v=yDyW2vDYoqk](https://www.youtube.com/watch?v=yDyW2vDYoqk) 
+SOCIALISM / SKEPTICISM - [https://www.youtube.com/watch?v=yDyW2vDYoqk](https://www.youtube.com/watch?v=yDyW2vDYoqk) 
 
 [https://threefold.docsend.com/view/sfd4pywhz5gj6cmi](https://threefold.docsend.com/view/sfd4pywhz5gj6cmi)
 
 [https://docs.google.com/document/d/1Wk5U8udNYK2ythRHSZZnUst1dDx2A4fqMc51Ud-jYpk/edit#](https://docs.google.com/document/d/1Wk5U8udNYK2ythRHSZZnUst1dDx2A4fqMc51Ud-jYpk/edit)
 
-KISS THE GROUND MOVIE - [https://kissthegroundmovie.com/](https://kissthegroundmovie.com/)
+KISS THE GROUND MOVIE - [https://kissthegroundmovie.com/](https://kissthegroundmovie.com/)
 
-AUGUST DUNNING FASTING PROTOCOL BOOK: [https://www.amazon.com/Phoenix-Protocol-Fasting-Healing-Extension/dp/B085DRTWBW/ref=pd_lpo_1?pd_rd_i=B085DRTWBW&psc=1](https://www.amazon.com/Phoenix-Protocol-Fasting-Healing-Extension/dp/B085DRTWBW/ref=pd_lpo_1?pd_rd_i=B085DRTWBW&psc=1) 
+AUGUST DUNNING FASTING PROTOCOL BOOK: [https://www.amazon.com/Phoenix-Protocol-Fasting-Healing-Extension/dp/B085DRTWBW/ref=pd_lpo_1?pd_rd_i=B085DRTWBW&psc=1](https://www.amazon.com/Phoenix-Protocol-Fasting-Healing-Extension/dp/B085DRTWBW/ref=pd_lpo_1?pd_rd_i=B085DRTWBW&psc=1) 
 
-HARMONIC DREAMS: [http://www.harmonicdreams.com/sonicrx.html](http://www.harmonicdreams.com/sonicrx.html)
+HARMONIC DREAMS: [http://www.harmonicdreams.com/sonicrx.html](http://www.harmonicdreams.com/sonicrx.html)
 
-NASA: [https://www.nasa.gov/connect/sounds/index.html](https://www.nasa.gov/connect/sounds/index.html)
+NASA: [https://www.nasa.gov/connect/sounds/index.html](https://www.nasa.gov/connect/sounds/index.html)
 
-STANFORD SOLAR CENTER: [http://solar-center.stanford.edu/SoSH/](http://solar-center.stanford.edu/SoSH/)
+STANFORD SOLAR CENTER: [http://solar-center.stanford.edu/SoSH/](http://solar-center.stanford.edu/SoSH/)
 
-FUTURIST CAFE: [https://docs.google.com/document/d/1cdBn55jJO-CLQHmspN3b3lecD1QUWygvXP3e8irERic/edit](https://docs.google.com/document/d/1cdBn55jJO-CLQHmspN3b3lecD1QUWygvXP3e8irERic/edit) 
+FUTURIST CAFE: [https://docs.google.com/document/d/1cdBn55jJO-CLQHmspN3b3lecD1QUWygvXP3e8irERic/edit](https://docs.google.com/document/d/1cdBn55jJO-CLQHmspN3b3lecD1QUWygvXP3e8irERic/edit) 
 
 [https://www.youtube.com/watch?v=Ja5Q75hf6QI](https://www.youtube.com/watch?v=Ja5Q75hf6QI)
 
@@ -8591,11 +8591,11 @@ FUTURIST CAFE: [https://docs.google.com/document/d/1cdBn55jJO-CLQHmspN3b3lecD1Q
 
 [https://www.codes.earth/about](https://www.codes.earth/about)
 
-RAI - [https://docs.google.com/document/d/1jjW_dByEhisZiGW71ZsvapOYuKjbZkFvGj0292-ywTY/edit](https://docs.google.com/document/d/1jjW_dByEhisZiGW71ZsvapOYuKjbZkFvGj0292-ywTY/edit)
+RAI - [https://docs.google.com/document/d/1jjW_dByEhisZiGW71ZsvapOYuKjbZkFvGj0292-ywTY/edit](https://docs.google.com/document/d/1jjW_dByEhisZiGW71ZsvapOYuKjbZkFvGj0292-ywTY/edit)
 
 [https://www.youtube.com/watch?v=wOaLgJ3hYt4](https://www.youtube.com/watch?v=wOaLgJ3hYt4)
 
-GREEN CAPITAL: [https://greencapital.io/](https://greencapital.io/)
+GREEN CAPITAL: [https://greencapital.io/](https://greencapital.io/)
 
 [https://docs.google.com/document/d/17SuKJ1wii-eigUtfvjkWw_dXlqq-oqHg9k2y4vnRfYs/edit](https://docs.google.com/document/d/17SuKJ1wii-eigUtfvjkWw_dXlqq-oqHg9k2y4vnRfYs/edit)
 
@@ -8617,85 +8617,85 @@ GREEN CAPITAL: [https://greencapital.io/](https://greencapital.io/)
 
 [https://www.youtube.com/watch?v=wm0wjVoNgvU](https://www.youtube.com/watch?v=wm0wjVoNgvU)
 
-JUST THINK OF IT - LEADERSHIP BY DESIGN: [https://just.thinkofit.com/buckminster-fuller-leadership-by-desig/](https://just.thinkofit.com/buckminster-fuller-leadership-by-desig/)
+JUST THINK OF IT - LEADERSHIP BY DESIGN: [https://just.thinkofit.com/buckminster-fuller-leadership-by-desig/](https://just.thinkofit.com/buckminster-fuller-leadership-by-desig/)
 
-BUCKMINSTER FULLER - EVERYTHING I KNOW - 42 HOURS: [https://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html](https://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html)
+BUCKMINSTER FULLER - EVERYTHING I KNOW - 42 HOURS: [https://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html](https://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html)
 
 [https://www.youtube.com/watch?v=vodijEuSioI](https://www.youtube.com/watch?v=vodijEuSioI)
 
-AUSTRIAN WORLD SUMMIT: [https://www.austrianworldsummit.com/](https://www.austrianworldsummit.com/)
+AUSTRIAN WORLD SUMMIT: [https://www.austrianworldsummit.com/](https://www.austrianworldsummit.com/)
 
-ONBOARDING QUESTIONS - RAI: [https://docs.google.com/document/d/19jsJmSpwQ8yGglscmJ8zYFmYguPxBlZo2T2TeJ6EpHc/edit](https://docs.google.com/document/d/19jsJmSpwQ8yGglscmJ8zYFmYguPxBlZo2T2TeJ6EpHc/edit) 
+ONBOARDING QUESTIONS - RAI: [https://docs.google.com/document/d/19jsJmSpwQ8yGglscmJ8zYFmYguPxBlZo2T2TeJ6EpHc/edit](https://docs.google.com/document/d/19jsJmSpwQ8yGglscmJ8zYFmYguPxBlZo2T2TeJ6EpHc/edit) 
 
-50 YEARS OFF GRID ARCHITECTURE: [https://www.youtube.com/watch?v=2qcsWajivnI](https://www.youtube.com/watch?v=2qcsWajivnI)
+50 YEARS OFF GRID ARCHITECTURE: [https://www.youtube.com/watch?v=2qcsWajivnI](https://www.youtube.com/watch?v=2qcsWajivnI)
 
-NATURE’S FYND STORE LOCATOR: [https://www.naturesfynd.com/store-locator](https://www.naturesfynd.com/store-locator) 
+NATURE’S FYND STORE LOCATOR: [https://www.naturesfynd.com/store-locator](https://www.naturesfynd.com/store-locator) 
 
-WATER STRUCTURE SCIENCE: [https://water.lsbu.ac.uk/water/water_structure_science.html](https://water.lsbu.ac.uk/water/water_structure_science.html) 
+WATER STRUCTURE SCIENCE: [https://water.lsbu.ac.uk/water/water_structure_science.html](https://water.lsbu.ac.uk/water/water_structure_science.html) 
 
-HONDA SIX CYLINDER: [https://www.roadandtrack.com/motorsports/a32333245/honda-rc166-motorcycle-sound-video/](https://www.roadandtrack.com/motorsports/a32333245/honda-rc166-motorcycle-sound-video/) 
+HONDA SIX CYLINDER: [https://www.roadandtrack.com/motorsports/a32333245/honda-rc166-motorcycle-sound-video/](https://www.roadandtrack.com/motorsports/a32333245/honda-rc166-motorcycle-sound-video/) 
 
-AUGUST DUNNING YOUTUBE: [https://www.google.com/search?client=firefox-b-1-d&q=august+dunning+youtube](https://www.google.com/search?client=firefox-b-1-d&q=august+dunning+youtube) 
+AUGUST DUNNING YOUTUBE: [https://www.google.com/search?client=firefox-b-1-d&q=august+dunning+youtube](https://www.google.com/search?client=firefox-b-1-d&q=august+dunning+youtube) 
 
-SDG METAVERSE: [https://www.sdgmetaverseprize.org/](https://www.sdgmetaverseprize.org/) 
+SDG METAVERSE: [https://www.sdgmetaverseprize.org/](https://www.sdgmetaverseprize.org/) 
 
-BUCKMINSTER FULLER WERNER ERHARD CONVERSATION: [https://www.youtube.com/watch?v=N3QzD8QC4ko](https://www.youtube.com/watch?v=N3QzD8QC4ko)
+BUCKMINSTER FULLER WERNER ERHARD CONVERSATION: [https://www.youtube.com/watch?v=N3QzD8QC4ko](https://www.youtube.com/watch?v=N3QzD8QC4ko)
 
 [https://www.youtube.com/watch?v=4evBv-ljZAA](https://www.youtube.com/watch?v=4evBv-ljZAA)
 
 [https://docs.google.com/document/d/1-c2lheuOUDTOw6je7rM9QhgC6W7sbz8Rgo1EMOSHZY0/edit](https://docs.google.com/document/d/1-c2lheuOUDTOw6je7rM9QhgC6W7sbz8Rgo1EMOSHZY0/edit)
 
-ALAN WATTS - DO YOU DO IT OR DOES IT DO YOU?: [https://www.youtube.com/watch?v=aVezTIgT7pc](https://www.youtube.com/watch?v=aVezTIgT7pc) 
+ALAN WATTS - DO YOU DO IT OR DOES IT DO YOU?: [https://www.youtube.com/watch?v=aVezTIgT7pc](https://www.youtube.com/watch?v=aVezTIgT7pc) 
 
-REMEMBERING DR. WALTER MUNK: [https://www.ihouse-nyc.org/news_events/waltermunk/](https://www.ihouse-nyc.org/news_events/waltermunk/)
+REMEMBERING DR. WALTER MUNK: [https://www.ihouse-nyc.org/news_events/waltermunk/](https://www.ihouse-nyc.org/news_events/waltermunk/)
 
 ANDY KNOLL: THE FIRST FOUR BILLION YEARS OF LIFE ON EARTH: [https://www.youtube.com/watch?v=E67tjw69psA](https://www.youtube.com/watch?v=E67tjw69psA)
 
-UNFOLDING CHILDREN’S GENIUS: [https://www.youtube.com/watch?v=izej8-VMF88](https://www.youtube.com/watch?v=izej8-VMF88) 
+UNFOLDING CHILDREN’S GENIUS: [https://www.youtube.com/watch?v=izej8-VMF88](https://www.youtube.com/watch?v=izej8-VMF88) 
 
-CLIMATE FOUNDATION MARINE PERMACULTURE: [https://www.climatefoundation.org/marine-permaculture.html](https://www.climatefoundation.org/marine-permaculture.html) 
+CLIMATE FOUNDATION MARINE PERMACULTURE: [https://www.climatefoundation.org/marine-permaculture.html](https://www.climatefoundation.org/marine-permaculture.html) 
 
 [https://www.youtube.com/watch?v=z1LXGMtc4i4](https://www.youtube.com/watch?v=z1LXGMtc4i4)
 
-BANK OF ENGLAND: [https://www.bankofengland.co.uk/-/media/boe/files/fintech/open-data-for-sme-finance.pdf?la=en&hash=FD4BC43BBD61EDEC5F8460C6BB7488EFDE647581](https://www.bankofengland.co.uk/-/media/boe/files/fintech/open-data-for-sme-finance.pdf?la=en&hash=FD4BC43BBD61EDEC5F8460C6BB7488EFDE647581)
+BANK OF ENGLAND: [https://www.bankofengland.co.uk/-/media/boe/files/fintech/open-data-for-sme-finance.pdf?la=en&hash=FD4BC43BBD61EDEC5F8460C6BB7488EFDE647581](https://www.bankofengland.co.uk/-/media/boe/files/fintech/open-data-for-sme-finance.pdf?la=en&hash=FD4BC43BBD61EDEC5F8460C6BB7488EFDE647581)
 
-MIT DATA COOPERATIVES: [https://wip.mitpress.mit.edu/pub/pnxgvubq/release/2](https://wip.mitpress.mit.edu/pub/pnxgvubq/release/2) 
+MIT DATA COOPERATIVES: [https://wip.mitpress.mit.edu/pub/pnxgvubq/release/2](https://wip.mitpress.mit.edu/pub/pnxgvubq/release/2) 
 
-[https://docs.google.com/document/d/1cOqNPzY9jlq-GIFzpXo05957toig3OAd/edit](https://docs.google.com/document/d/1cOqNPzY9jlq-GIFzpXo05957toig3OAd/edit) 
+[https://docs.google.com/document/d/1cOqNPzY9jlq-GIFzpXo05957toig3OAd/edit](https://docs.google.com/document/d/1cOqNPzY9jlq-GIFzpXo05957toig3OAd/edit) 
 
-KEITH TAYLOR - U.C. DAVIS: [https://caes.ucdavis.edu/people/keith-taylor](https://caes.ucdavis.edu/people/keith-taylor) 
+KEITH TAYLOR - U.C. DAVIS: [https://caes.ucdavis.edu/people/keith-taylor](https://caes.ucdavis.edu/people/keith-taylor) 
 
-ADVANCING REGENERATIVE AGRICULTURE: [https://www.advancingecoag.com/](https://www.advancingecoag.com/) 
+ADVANCING REGENERATIVE AGRICULTURE: [https://www.advancingecoag.com/](https://www.advancingecoag.com/) 
 
-HOBIE BALSA WAIMEA GUN BY PHIL EDWARDS: [https://surfboardhoard.com/hobie-balsa-waimea-gun-by-phil-edwards-1990s/](https://surfboardhoard.com/hobie-balsa-waimea-gun-by-phil-edwards-1990s/)
+HOBIE BALSA WAIMEA GUN BY PHIL EDWARDS: [https://surfboardhoard.com/hobie-balsa-waimea-gun-by-phil-edwards-1990s/](https://surfboardhoard.com/hobie-balsa-waimea-gun-by-phil-edwards-1990s/)
 
 [https://www.youtube.com/watch?v=YZZY8Jppmg4](https://www.youtube.com/watch?v=YZZY8Jppmg4)
 
-JOHN SEELY BROWN - DESIGN UNBOUND: [https://johnseelybrown.com/desunbound.pdf](https://johnseelybrown.com/desunbound.pdf)  
+JOHN SEELY BROWN - DESIGN UNBOUND: [https://johnseelybrown.com/desunbound.pdf](https://johnseelybrown.com/desunbound.pdf)  
 
 [https://www.breatheology.com/breath-hold-challenge/](https://www.breatheology.com/breath-hold-challenge/)
 
-KEEPING CALM AND BREATHING THROUGH YOUR NOSE: [https://www.youtube.com/watch?v=cey5Z_cvwTA](https://www.youtube.com/watch?v=cey5Z_cvwTA) 
+KEEPING CALM AND BREATHING THROUGH YOUR NOSE: [https://www.youtube.com/watch?v=cey5Z_cvwTA](https://www.youtube.com/watch?v=cey5Z_cvwTA) 
 
-YAMAHA RIDE LIKE A CHAMPION SCHOOL - CORE HABITS: https://ridelikeachampion.com/courses/core/  
+YAMAHA RIDE LIKE A CHAMPION SCHOOL - CORE HABITS: https://ridelikeachampion.com/courses/core/  
 
 **FORESIGHT INSTITUTE:**
 
-**Christopher Allen's work:** [https://www.linkedin.com/in/christophera/](https://www.linkedin.com/in/christophera/) 
+**Christopher Allen's work:** [https://www.linkedin.com/in/christophera/](https://www.linkedin.com/in/christophera/) 
 
-The coindesk article: [https://www.coindesk.com/policy/2021/04/26/self-sovereign-identity-5-years-on/](https://www.coindesk.com/policy/2021/04/26/self-sovereign-identity-5-years-on/) 
+The coindesk article: [https://www.coindesk.com/policy/2021/04/26/self-sovereign-identity-5-years-on/](https://www.coindesk.com/policy/2021/04/26/self-sovereign-identity-5-years-on/) 
 
-The self-sovereign identity definition page: [http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) 
+The self-sovereign identity definition page: [http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) 
 
-**Brian Behlendorf:** [https://www.linkedin.com/in/brianbehlendorf/](https://www.linkedin.com/in/brianbehlendorf/) 
+**Brian Behlendorf:** [https://www.linkedin.com/in/brianbehlendorf/](https://www.linkedin.com/in/brianbehlendorf/) 
 
-**More about Alan Karp:** [https://alanhkarp.com](https://alanhkarp.com) 
+**More about Alan Karp:** [https://alanhkarp.com](https://alanhkarp.com) 
 
-This is also related to the Joram refugeee/stateless person self-sovereign identity problem, which we originally worked on after ID2020, but there is now a 2.0 version at [https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/joram.2.0.0.md](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/joram.2.0.0.md) 
+This is also related to the Joram refugeee/stateless person self-sovereign identity problem, which we originally worked on after ID2020, but there is now a 2.0 version at [https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/joram.2.0.0.md](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/draft-documents/joram.2.0.0.md) 
 
-Paper: [http://www.lifewithalacrity.com/2016/10/smarter-signatures-experiments-in-verifications/](http://www.lifewithalacrity.com/2016/10/smarter-signatures-experiments-in-verifications/) 
+Paper: [http://www.lifewithalacrity.com/2016/10/smarter-signatures-experiments-in-verifications/](http://www.lifewithalacrity.com/2016/10/smarter-signatures-experiments-in-verifications/) 
 
-Video: [https://www.youtube.com/watch?v=E9sbWKbfyJU](https://www.youtube.com/watch?v=E9sbWKbfyJU) 
+Video: [https://www.youtube.com/watch?v=E9sbWKbfyJU](https://www.youtube.com/watch?v=E9sbWKbfyJU) 
 
 BUCKMINSTER FULLER – GRUNCH OF GIANTS – FULL TEXT – INTERNET ARCHIVE: [https://archive.org/stream/GrunchOfGiants/R.BuckminsterFullerGrunchOfGiants2004_djvu.txt](https://archive.org/stream/GrunchOfGiants/R.BuckminsterFullerGrunchOfGiants2004_djvu.txt)
 
@@ -8729,11 +8729,11 @@ MANUFACTURING CONSENT: [https://en.wikipedia.org/wiki/Manufacturing_Consent](htt
 
 **(note from Robert: my thesis is the series starts 11,700 years ago)**
 
-**Drier and Warmer:** ﻿ [https://www.sciencedirect.com/science/article/abs/pii/S0012821X09006025](https://www.sciencedirect.com/science/article/abs/pii/S0012821X09006025)
+**Drier and Warmer:** ﻿ [https://www.sciencedirect.com/science/article/abs/pii/S0012821X09006025](https://www.sciencedirect.com/science/article/abs/pii/S0012821X09006025)
 
-**The end of the Pleistocene corresponds with the end of the last glacial period and also with the end of the Paleolithic age used in archaeology:** ﻿ [https://en.m.wikipedia.org/wiki/Pleistocene](https://en.m.wikipedia.org/wiki/Pleistocene)
+**The end of the Pleistocene corresponds with the end of the last glacial period and also with the end of the Paleolithic age used in archaeology:** ﻿ [https://en.m.wikipedia.org/wiki/Pleistocene](https://en.m.wikipedia.org/wiki/Pleistocene)
 
-**Greenland glaciers melted fast 20’ sea level rise:** ﻿ [https://www.purdue.edu/newsroom/releases/2017/Q4/research-shows-ice-sheets-as-large-as-greenlands-melted-fast-in-a-warming-climate.html](https://www.purdue.edu/newsroom/releases/2017/Q4/research-shows-ice-sheets-as-large-as-greenlands-melted-fast-in-a-warming-climate.html)
+**Greenland glaciers melted fast 20’ sea level rise:** ﻿ [https://www.purdue.edu/newsroom/releases/2017/Q4/research-shows-ice-sheets-as-large-as-greenlands-melted-fast-in-a-warming-climate.html](https://www.purdue.edu/newsroom/releases/2017/Q4/research-shows-ice-sheets-as-large-as-greenlands-melted-fast-in-a-warming-climate.html)
 
 **Oceanographic factors human migration from Asia 14000+ years BP:** [https://tos.org/oceanography/article/an-oceanographic-perspectiveon-early-human-migrations-to-the-americas](https://tos.org/oceanography/article/an-oceanographic-perspectiveon-early-human-migrations-to-the-americas)
 
@@ -8753,9 +8753,9 @@ Long before there was the Hotel del Coronado, Hollywood, or Disneyland, Southern
 
 [lajolla.com](http://lajolla.com)
 
-**Preston Arrow-Weed Lightning Song:** [https://vimeo.com/38992135](https://vimeo.com/38992135)   
+**Preston Arrow-Weed Lightning Song:** [https://vimeo.com/38992135](https://vimeo.com/38992135)   
   
-Logic is somewhat correct in that multiple waves of migrations in periods of unstable climate need not be assumed to travel only in one direction.   
+Logic is somewhat correct in that multiple waves of migrations in periods of unstable climate need not be assumed to travel only in one direction.   
   
 Here is a peek into the fog of time immemorial. It’s Kumeyaay, or Kumia.  
   
@@ -8777,7 +8777,7 @@ The Origin of Consciousness in the Breakdown of the Bicameral Mind is a 1976 boo
 
 [https://www.bps.org.uk/psychologist/letters-away-triangle](https://www.bps.org.uk/psychologist/letters-away-triangle)
 
-**MULE MOUNTAINS:** [https://planet-rla.com/the-mule-mountains-californias-origins-forgotten-by-most-face-the-bulldozer/](https://planet-rla.com/the-mule-mountains-californias-origins-forgotten-by-most-face-the-bulldozer/)
+**MULE MOUNTAINS:** [https://planet-rla.com/the-mule-mountains-californias-origins-forgotten-by-most-face-the-bulldozer/](https://planet-rla.com/the-mule-mountains-californias-origins-forgotten-by-most-face-the-bulldozer/)
 
 SARA WALKER: RECOGNIZING THE ALIEN IN US: [https://www.youtube.com/watch?v=vWqVA0s5K3U](https://www.youtube.com/watch?v=vWqVA0s5K3U)
 - ARE WE ALONE?
@@ -8786,9 +8786,9 @@ SARA WALKER: RECOGNIZING THE ALIEN IN US: [https://www.youtube.com/watch?v=vWqVA
 - Life does not violate any of the known laws of physics. But it is not explained by them either. In this SFI Community Lecture, Sara Walker guides us through the quest to uncover a new theory of physics that might allow us to understand what life is, its general characteristics, its origin on Earth, and how to find it elsewhere in the universe. Sara Walker is an astrobiologist and theoretical physicist interested in the origin of life and how to discover alien life. At Arizona State University she is the deputy director of the Beyond Center for Fundamental Concepts in Science, associate director of the ASU-SFI Center for Biosocial Complex Systems, and associate professor in the School of Earth and Space Exploration and the School of Complex Adaptive Systems. She is also an external faculty member at the Santa Fe Institute.
 
 JOANNA MACY: 
-- [https://www.joannamacy.net/main](https://www.joannamacy.net/main)   
+- [https://www.joannamacy.net/main](https://www.joannamacy.net/main)   
 - [https://workthatreconnects.org/spiral/the-great-turning/three-dimensions-of-the-great-turning/](https://workthatreconnects.org/spiral/the-great-turning/three-dimensions-of-the-great-turning/)  
-- Now, in our time, these three rivers - anguish for our world, scientific breakthroughs and ancestral teachings - flow together. From the confluence of these rivers we drink. We awaken to what we once knew: we are alive in a living Earth, the source of all we are and can achieve. Despite our conditioning by the industrial society of the last two centuries, we want to name, once again, this world as holy.” -  Joanna Macy
+- Now, in our time, these three rivers - anguish for our world, scientific breakthroughs and ancestral teachings - flow together. From the confluence of these rivers we drink. We awaken to what we once knew: we are alive in a living Earth, the source of all we are and can achieve. Despite our conditioning by the industrial society of the last two centuries, we want to name, once again, this world as holy.” -  Joanna Macy
 
 **MICHAEL CHARLES TOBIAS**
 
@@ -8800,21 +8800,21 @@ JOANNA MACY:
 
 ### Questions
 
-- How do we create a world that is antifragile factoring increasingly decentralized exponential technologies? 
+- How do we create a world that is antifragile factoring increasingly decentralized exponential technologies? 
 
 - What would it take to achieve effective global coordination such that humanity could do both long range comprehensive planning and factor new information with fast processing cycles?
 
-- With the first fully globalized civilization, how do we avoid the collapse fate that has befallen all previous civilizations? 
+- With the first fully globalized civilization, how do we avoid the collapse fate that has befallen all previous civilizations? 
 
-- How do we do adequate safety analysis on radically unprecedented, complex, and consequential technologies like artificial intelligence and synthetic biology? Moreover, how do we bind the development of these technologies to those safety analyses and ensure that they are neither weaponized nor deployed negligently? 
+- How do we do adequate safety analysis on radically unprecedented, complex, and consequential technologies like artificial intelligence and synthetic biology? Moreover, how do we bind the development of these technologies to those safety analyses and ensure that they are neither weaponized nor deployed negligently? 
 
 - How would we best
 
 	- Identify and internalize externalities in the decision-making process?
 
-	- Identify and remove perverse economic interests systemically? 
+	- Identify and remove perverse economic interests systemically? 
 
-	- Identify and remove (the basis for) corruption, without debasing creative agency? 
+	- Identify and remove (the basis for) corruption, without debasing creative agency? 
 
 	- Bind predative power asymmetries where said asymmetries tend to confer the power to protect and advance themselves?
 
@@ -8830,9 +8830,9 @@ JOANNA MACY:
 
 - How can we develop processes for collective intelligence that get smarter per capita with scale?
 
-- How do we comprehensively disincentivize misinformation and harm to the information ecology and epistemic commons? 
+- How do we comprehensively disincentivize misinformation and harm to the information ecology and epistemic commons? 
 
-- How do we develop authentic virtue in people while disincentivizing virtue signaling? 
+- How do we develop authentic virtue in people while disincentivizing virtue signaling? 
 
 - Immediately, how do we make it through an increasingly multi-polar world, caught in economic extraction races as we near ecological limits of growth, empowered by increasingly catastrophic weapons and tools for increasingly effective widespread disinformation?
 
@@ -8851,9 +8851,9 @@ ___
 
 - Comprehensive Anticipatory Design Science informed by Spatial Web Sensitive AI will allow us to achieve effective global coordination so humanity can do long range comprehensive disaster preparedness planning and factor new information with fast / real-time processing cycles modeled for optimal regenerative outcomes.
 
-- We are the first known fully globalized civilization that has a chance to glimpse our collective planetary consciousness and mobilize our potential to avoid Ecocide and shift to thriving health for all life. 
+- We are the first known fully globalized civilization that has a chance to glimpse our collective planetary consciousness and mobilize our potential to avoid Ecocide and shift to thriving health for all life. 
 
-- Using thriving natural systems as a reference, we can use Spatial Web Sensitive AI to inform Comprehensive Anticipatory Design Science and create radically unprecedented, complex, and consequential technologies like artificial intelligence and synthetic biology to optimize human relationships with the nested natural systems we are a part of.  Understanding and appreciating the cascading benefits of aligning with regenerative eternal natural systems will ethically bind the development of these technologies to those safety analyses and ensure that they are never weaponized nor deployed negligently because using them for livingry will be so clearly optimal.
+- Using thriving natural systems as a reference, we can use Spatial Web Sensitive AI to inform Comprehensive Anticipatory Design Science and create radically unprecedented, complex, and consequential technologies like artificial intelligence and synthetic biology to optimize human relationships with the nested natural systems we are a part of.  Understanding and appreciating the cascading benefits of aligning with regenerative eternal natural systems will ethically bind the development of these technologies to those safety analyses and ensure that they are never weaponized nor deployed negligently because using them for livingry will be so clearly optimal.
 
 - We will use AI informed Spatial Web Sensitive AI Comprehensive Anticipatory Design Science to:
 
@@ -8861,7 +8861,7 @@ ___
 
 - Build a thriving regenerative economy by aligning objectives and incentives with healthy, thriving nature: identify and systemically remove any perverse economic interests that cause ecological offense.
 
-- Identify and remove the basis, incentives and attractions for corruption, without debasing creative agency. 
+- Identify and remove the basis, incentives and attractions for corruption, without debasing creative agency. 
 
 - Bind predative power asymmetries where said asymmetries tend to confer the power to protect and advance selfish interests that corrode, erode and destroy the Commons and cause Ecocide.
 
@@ -8877,7 +8877,7 @@ ___
 
 - Transparent, open source, decentralized, Spatial Web Sensitive AI will manage and compare inputs and outputs to optimal models to develop collective intelligence that gets smarter per capita with scale.
 
- - Spatial Web Sensitive AI will disincentivize misinformation because any information not aligned with health will not fit into comprehensive models of regenerative model design: harming the information ecology and epistemic commons ultimately weakens the ability of our collective consciousness to manifest a thriving, regenerative future.
+ - Spatial Web Sensitive AI will disincentivize misinformation because any information not aligned with health will not fit into comprehensive models of regenerative model design: harming the information ecology and epistemic commons ultimately weakens the ability of our collective consciousness to manifest a thriving, regenerative future.
 
 - Spatial Web Sensitive AI will collect insights into dynamic flows to inform the alignment of opinion with reality resulting in authentic virtue in people while disincentivizing virtue signaling by making it impossible.
 
@@ -8932,7 +8932,7 @@ ___
 
 ### Cosmic Civilizations - From The Final Appeal to Mankind
 
-Cosmic civilizations: Light, Gray and Dark – From THE FINAL APPEAL TO MANKIND – NICOLAI  LEVASHOV
+Cosmic civilizations: Light, Gray and Dark – From THE FINAL APPEAL TO MANKIND – NICOLAI  LEVASHOV
 
 The light civilizations adhere to the code of space laws following the basic tenants outlined below:
 

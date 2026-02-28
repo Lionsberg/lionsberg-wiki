@@ -15,7 +15,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **North America: The "Snake People"**
 
 - **Hopi Prophecy:**  
-    The Hopi speak of the _Chitauri_, a snake-like people who once lived underground and interacted with their ancestors. These beings were both feared and revered for their wisdom and connection to the Earth.
+    The Hopi speak of the _Chitauri_, a snake-like people who once lived underground and interacted with their ancestors. These beings were both feared and revered for their wisdom and connection to the Earth.
 - **Cherokee Lore:**  
     Cherokee traditions mention the Uktena, a serpent-like creature with horns and supernatural abilities, said to guard sacred sites.
 - **Mesoamerican Connection:**  
@@ -124,7 +124,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 ### **Further Reading**
 
 - **Books and Articles:**
-    - Mutwa, Credo. _Zulu Shaman: Dreams, Prophecies, and Mysteries_.
-    - Narayanan, Vasudha. _The Realm of the Nagas in Hinduism_.
-    - Hancock, Graham. _Supernatural: Meetings with the Ancient Teachers of Mankind_.
-    - Jenkins, John Major. _Maya Cosmogenesis 2012_.
+    - Mutwa, Credo. _Zulu Shaman: Dreams, Prophecies, and Mysteries_.
+    - Narayanan, Vasudha. _The Realm of the Nagas in Hinduism_.
+    - Hancock, Graham. _Supernatural: Meetings with the Ancient Teachers of Mankind_.
+    - Jenkins, John Major. _Maya Cosmogenesis 2012_.

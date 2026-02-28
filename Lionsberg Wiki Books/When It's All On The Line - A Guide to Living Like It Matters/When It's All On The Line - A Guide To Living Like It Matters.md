@@ -240,8 +240,8 @@ _____
 
 - The future isn’t written. What we do now determines what comes next.
 - Exercises:
-    - Morning intention-setting: _What am I creating today?_
-    - Evening reflection: _What did I contribute today that made the world better?_
+    - Morning intention-setting: _What am I creating today?_
+    - Evening reflection: _What did I contribute today that made the world better?_
 
 ---
 

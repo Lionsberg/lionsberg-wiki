@@ -1,7 +1,7 @@
 # The LIONSBERG Sacred Codex
 _The Deep Foundations, Law, and Architecture_
 
-The Codex is the **root architecture**: theology, metaphysics, law, and cosmic order.
+The Codex is the **root architecture**: theology, metaphysics, law, and cosmic order.
 It Is and Will Always Be a Living and Co-Creative [[Work In Progress]]. 
 
 ## Everything below is notes and scratch paper for now.  The Codex will be co-created as The Great Game unfolds.   
@@ -9,7 +9,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 - **[[The LIONSBERG Narrative Universe]]**
     
-	- **[[The Story of LIONSBERG]]**  
+	- **[[The Story of LIONSBERG]]**  
         
 	- **[[The Chronicles of Lionsberg]]**  
         
@@ -18,7 +18,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 - **[[The Book of LIONSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
     
-- **[[The LIONSBERG Covenant and Law]]** 
+- **[[The LIONSBERG Covenant and Law]]** 
     
 	- **[[The LIONSBERG Covenant]]**
         
@@ -47,7 +47,7 @@ It Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
     
 - **[[The LIONSBERG Commentaries]]**
     
-- **[[The LIONSBERG Guardrails]]**  — What LIONSBERG is _not_, preserving integrity.
+- **[[The LIONSBERG Guardrails]]**  — What LIONSBERG is _not_, preserving integrity.
 
 
 ## 1  The Language of LIONSBERG
@@ -324,7 +324,7 @@ Below is the **Table of Contents for the Living Codex of LIONSBERG**, designed f
 
 ---
 
-# **🜂** 
+# **🜂** 
 
 # **Living Codex of LIONSBERG**
 

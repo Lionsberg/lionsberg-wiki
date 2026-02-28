@@ -95,13 +95,13 @@ Dozens of witnesses reported seeing bright lights or unusual aerial phenomena ov
 
 - **Books:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - Reports from Australian aviation authorities on the Valentich case.
     - Witness testimonies and analyses in UFO research archives.
 - **Documentaries:**
     
-    - _The Valentich Disappearance_ – A detailed exploration of the mystery and its implications.
+    - _The Valentich Disappearance_ – A detailed exploration of the mystery and its implications.
 

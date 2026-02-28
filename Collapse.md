@@ -24,8 +24,8 @@
 
 [[Collapse]] can manifest in two primary forms:
 
-- **Descent into [[Chaos]] and [[Tyranny]]:** Without preparation and unity, [[Collapse]] can spiral into disorder, violence, and oppressive control.
-- **Opportunity for Transcendence and Rebirth:** With foresight and collective effort, [[Collapse]] can be the moment humanity transcends its limitations and builds a more just, regenerative, and harmonious future.
+- **Descent into [[Chaos]] and [[Tyranny]]:** Without preparation and unity, [[Collapse]] can spiral into disorder, violence, and oppressive control.
+- **Opportunity for Transcendence and Rebirth:** With foresight and collective effort, [[Collapse]] can be the moment humanity transcends its limitations and builds a more just, regenerative, and harmonious future.
 
 ### **Role in [[The Final Test]]**
 

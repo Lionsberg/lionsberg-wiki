@@ -90,9 +90,9 @@ Shortly after these events, reports emerged of another being’s body being tran
     - Testimonies from the three women and other local witnesses.
 - **Documentaries:**
     
-    - _Moment of Contact_ (2022), directed by James Fox.
+    - _Moment of Contact_ (2022), directed by James Fox.
 - **Analytical Works:**
     
-    - Good, Timothy. _Need to Know: UFOs, the Military, and Intelligence._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Good, Timothy. _Need to Know: UFOs, the Military, and Intelligence._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 

@@ -15,7 +15,7 @@ The Missing 411 cases offer a chilling glimpse into the unexplained, highlightin
 #### **Unusual Disappearance Patterns**
 
 - Victims vanish in areas where they were last seen under circumstances that suggest they should have been easily located.
-- Disappearances often occur near **boulder fields**, **dense forests**, or **water sources**, areas historically associated with UFO activity or otherworldly phenomena.
+- Disappearances often occur near **boulder fields**, **dense forests**, or **water sources**, areas historically associated with UFO activity or otherworldly phenomena.
 
 #### **Unusual Weather Changes**
 
@@ -118,10 +118,10 @@ The Missing 411 cases offer a chilling glimpse into the unexplained, highlightin
 
 - **Primary Sources:**
     
-    - Paulides, David. _Missing 411_ series (various volumes).
-    - Paulides, David. _Missing 411: The Hunted_.
+    - Paulides, David. _Missing 411_ series (various volumes).
+    - Paulides, David. _Missing 411: The Hunted_.
 - **Additional Research:**
     
-    - Keel, John. _The Mothman Prophecies_: Connections to disappearances in high-strangeness zones.
-    - Strieber, Whitley. _Communion_: Insights into abduction phenomena and altered realities.
+    - Keel, John. _The Mothman Prophecies_: Connections to disappearances in high-strangeness zones.
+    - Strieber, Whitley. _Communion_: Insights into abduction phenomena and altered realities.
 

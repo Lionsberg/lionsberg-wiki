@@ -83,12 +83,12 @@ Robert Salas, a launch officer on duty that night, later disclosed that his team
 
 - **Primary Accounts:**
     
-    - Salas, Robert. _Faded Giant: The 1967 UFO/Missile Incident._
+    - Salas, Robert. _Faded Giant: The 1967 UFO/Missile Incident._
 - **Analytical Works:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Pope, Nick. _The Unexplained Files: UFOs._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Pope, Nick. _The Unexplained Files: UFOs._
 - **Documentaries:**
     
-    - _Unidentified: UFOs and Nukes_ (2016).
+    - _Unidentified: UFOs and Nukes_ (2016).
 

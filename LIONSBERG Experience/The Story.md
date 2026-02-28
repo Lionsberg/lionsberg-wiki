@@ -1,12 +1,12 @@
 # The Story
 
-You have crossed **The Threshold**.  
-Taken **The First Step**.  
-Accepted **The Invitation**.  
-Sealed **The Sacred Covenant**.
+You have crossed **The Threshold**.  
+Taken **The First Step**.  
+Accepted **The Invitation**.  
+Sealed **The Sacred Covenant**.
 
 Now, We begin to weave a shared Story.  
-_Welcome to the **LIONSBERG Narrative Universe**_.
+_Welcome to the **LIONSBERG Narrative Universe**_.
 
 ---
 
@@ -26,14 +26,14 @@ We must first learn to inhabit a New Story.
 Within the greater Cosmic Story  
 That will unfold as Our Journey progresses,  
 There was an age aboard Earth  
-When an **Old World** was built on **False Stories**  
+When an **Old World** was built on **False Stories**  
 Of separation, fear, and kontrolle.  
 As it does on all planets where False Stories prevail,  
-That **Old Story** gave rise to empires and oligarchies,  
+That **Old Story** gave rise to empires and oligarchies,  
 False prophets and priesthoods,  
 And to oppression, corruption, and inevitable collapse.
 
-But Now, as a **New Era** dawns,  
+But Now, as a **New Era** dawns,  
 The Old Stories dissolve like shadows before the rising sun.  
 Their power dissolves as Truth returns to center stage,  
 And with them the Old Institutions  
@@ -42,7 +42,7 @@ And False Authorities they upheld.
 Beneath their rubble,  
 Something Ancient and True remains.  
 From these Eternal foundations,  
-A **New Story** is rising —  
+A **New Story** is rising —  
 Not invented, but ReMembered,  
 Pieced back together by those who are awakening.
 
@@ -58,7 +58,7 @@ That ever seeks to usurp it.
 
 ---
 
-This is **The Great Story** in which We now stand Together:
+This is **The Great Story** in which We now stand Together:
 
 - A Story of awakening from captivity and illusion.
     
@@ -72,7 +72,7 @@ This is **The Great Story** in which We now stand Together:
 	Crossing The Chasm,  
 	Venturing through The Wilderness,  
 	And climbing The Sacred Mountain —  
-	Together toward **The Goal**.
+	Together toward **The Goal**.
     
 
 ---
@@ -82,9 +82,9 @@ It is unfolding even now.
 It is being written by every word, every choice, every life  
 Across countless galaxies, realms and dimensions.
 
-And now, through your **Covenant**,  
+And now, through your **Covenant**,  
 The Veil tears a little more.  
-You awaken as a living **Protagonist**  
+You awaken as a living **Protagonist**  
 In this Divine Drama.  
 Your words, your choices,  
 Your actions, your Quests,  
@@ -132,10 +132,10 @@ That every move you make
 Writes the next scene  
 Of **The Great Story**.
 
-Now, **The Stage** is set.  
+Now, **The Stage** is set.  
 **The Covenant** is sealed.  
-**The Story** is established.  
-**The Great Game** begins.
+**The Story** is established.  
+**The Great Game** begins.
 
 The Gate before you opens.  
 The Chorus is waiting.  

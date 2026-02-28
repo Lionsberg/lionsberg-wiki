@@ -112,8 +112,8 @@ Former crew members, including radar operators, pilots, and deck officers, have 
 
 - **Books:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
     - _The UFOs and the Military Connection._

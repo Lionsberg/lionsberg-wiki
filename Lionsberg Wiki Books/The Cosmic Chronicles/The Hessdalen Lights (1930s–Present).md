@@ -20,9 +20,9 @@ The Hessdalen Lights were first reported in the 1930s, with sporadic sightings o
 
 In the early 1980s, the lights surged in frequency, prompting hundreds of sightings over a few years. Witnesses described various forms, including:
 
-- **Bright Orbs:** Spherical lights ranging from white and yellow to red and blue.
-- **Pulsating Lights:** Objects that appeared to expand and contract in intensity.
-- **Erratic Movements:** Lights darting across the sky, hovering, or performing maneuvers defying known aircraft capabilities.
+- **Bright Orbs:** Spherical lights ranging from white and yellow to red and blue.
+- **Pulsating Lights:** Objects that appeared to expand and contract in intensity.
+- **Erratic Movements:** Lights darting across the sky, hovering, or performing maneuvers defying known aircraft capabilities.
 
 The surge attracted international attention, leading to organized scientific investigations.
 
@@ -30,9 +30,9 @@ The surge attracted international attention, leading to organized scientific inv
 
 In 1983, "Project Hessdalen" was initiated by Norwegian researchers, supported by engineers, physicists, and atmospheric scientists. The project documented numerous sightings and gathered data, revealing:
 
-- **Electromagnetic Anomalies:** Fluctuations in electromagnetic fields around the lights.
-- **Spectral Signatures:** Analysis suggested plasma-like properties with unusual chemical compositions.
-- **Infrared Detection:** Some lights were visible in infrared, suggesting emissions beyond the human-visible spectrum.
+- **Electromagnetic Anomalies:** Fluctuations in electromagnetic fields around the lights.
+- **Spectral Signatures:** Analysis suggested plasma-like properties with unusual chemical compositions.
+- **Infrared Detection:** Some lights were visible in infrared, suggesting emissions beyond the human-visible spectrum.
 
 In 1998, the Hessdalen Automatic Measurement Station (HESS) was established to continuously monitor and record the phenomena, capturing numerous incidents.
 
@@ -58,8 +58,8 @@ In 1998, the Hessdalen Automatic Measurement Station (HESS) was established to c
 
 - **Natural Phenomena:**
     
-    - **Ball Lightning:** Rare, glowing plasma-like spheres linked to thunderstorms.
-    - **Geophysical Anomalies:** Interaction between tectonic activity and underground minerals producing piezoelectric effects.
+    - **Ball Lightning:** Rare, glowing plasma-like spheres linked to thunderstorms.
+    - **Geophysical Anomalies:** Interaction between tectonic activity and underground minerals producing piezoelectric effects.
 - **Atmospheric Plasma:**
     
     - Some scientists propose the lights are a form of self-contained plasma created by unique environmental conditions.
@@ -110,13 +110,13 @@ In 1998, the Hessdalen Automatic Measurement Station (HESS) was established to c
 
 - **Scientific Papers:**
     
-    - Teodorani, Massimo. _A Comparative Study of Hessdalen Lights and Ball Lightning Phenomena._
-    - Strand, Erling. _Project Hessdalen: 30 Years of Investigating the Lights._
+    - Teodorani, Massimo. _A Comparative Study of Hessdalen Lights and Ball Lightning Phenomena._
+    - Strand, Erling. _Project Hessdalen: 30 Years of Investigating the Lights._
 - **Documentaries:**
     
-    - _The Mystery of the Hessdalen Lights_ (2012).
-    - _Phenomena: The Hessdalen Project_ (2021).
+    - _The Mystery of the Hessdalen Lights_ (2012).
+    - _Phenomena: The Hessdalen Project_ (2021).
 - **Web Resources:**
     
-    - Official Hessdalen Research: [Hessdalen.org](http://www.hessdalen.org/)
+    - Official Hessdalen Research: [Hessdalen.org](http://www.hessdalen.org/)
 

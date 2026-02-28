@@ -22,10 +22,10 @@ The crash was marked by a brilliant flash of light, but no explosion or sound of
 
 Investigators who examined the site documented several intriguing findings:
 
-- **Metallic Fragments:** Pieces of a metallic mesh-like material were found, composed of rare metals such as lead, iron, and silicon in combinations not typically found in natural or industrial contexts.
-- **Unusual Spheres:** Tiny spherical particles, later determined to contain elements such as iron and manganese, were scattered around the crash site.
-- **Magnetic Anomalies:** Strong magnetic effects were detected in the soil and rocks at the site, lasting for weeks after the crash.
-- **High-Temperature Evidence:** Burned trees and vegetation suggested exposure to extreme heat, estimated to exceed 3,000 degrees Fahrenheit.
+- **Metallic Fragments:** Pieces of a metallic mesh-like material were found, composed of rare metals such as lead, iron, and silicon in combinations not typically found in natural or industrial contexts.
+- **Unusual Spheres:** Tiny spherical particles, later determined to contain elements such as iron and manganese, were scattered around the crash site.
+- **Magnetic Anomalies:** Strong magnetic effects were detected in the soil and rocks at the site, lasting for weeks after the crash.
+- **High-Temperature Evidence:** Burned trees and vegetation suggested exposure to extreme heat, estimated to exceed 3,000 degrees Fahrenheit.
 
 The materials were analyzed by multiple Soviet laboratories, many of which concluded that the fragments displayed properties inconsistent with known Earthly technologies of the time.
 
@@ -114,9 +114,9 @@ The materials were analyzed by multiple Soviet laboratories, many of which concl
 
 - **Books and Reports:**
     
-    - Paul Stonehill and Philip Mantle, _Russia's Roswell Incident: UFO Crashes in the Soviet Union_
-    - Jacques Vallée, _Dimensions: A Casebook of Alien Contact_
+    - Paul Stonehill and Philip Mantle, _Russia's Roswell Incident: UFO Crashes in the Soviet Union_
+    - Jacques Vallée, _Dimensions: A Casebook of Alien Contact_
 - **Documentaries:**
     
-    - _UFOs in the Soviet Union_ – Investigative documentary on UFO incidents during the Cold War.
+    - _UFOs in the Soviet Union_ – Investigative documentary on UFO incidents during the Cold War.
 

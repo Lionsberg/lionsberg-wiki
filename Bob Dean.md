@@ -1,12 +1,12 @@
 # Bob Dean
 
-Master Sergeant **Bob Dean** (1929–2018) was a retired U.S. Army Command Sergeant Major who became one of the most prominent figures in UFO research and disclosure advocacy. Known for his compelling testimonies and charismatic speaking style, Dean claimed insider knowledge of highly classified government documents and extraterrestrial encounters during his military career. Here is an overview of his most profound claims and contributions to the field.
+Master Sergeant **Bob Dean** (1929–2018) was a retired U.S. Army Command Sergeant Major who became one of the most prominent figures in UFO research and disclosure advocacy. Known for his compelling testimonies and charismatic speaking style, Dean claimed insider knowledge of highly classified government documents and extraterrestrial encounters during his military career. Here is an overview of his most profound claims and contributions to the field.
 
 ---
 
 ### **1. "The Assessment" Document**
 
-- Dean claimed he first became aware of the extraterrestrial phenomenon while stationed at the Supreme Headquarters Allied Powers Europe (SHAPE) in the 1960s. He described having access to a top-secret NATO document titled **“The Assessment”** (1964), which examined UFO activity and its implications for global security.
+- Dean claimed he first became aware of the extraterrestrial phenomenon while stationed at the Supreme Headquarters Allied Powers Europe (SHAPE) in the 1960s. He described having access to a top-secret NATO document titled **“The Assessment”** (1964), which examined UFO activity and its implications for global security.
 - According to Dean, "The Assessment" concluded that some UFOs were not of Earthly origin, with the craft being monitored by military authorities across the globe. The document reportedly analyzed the behavior, origins, and potential motivations of extraterrestrial civilizations.
 - Dean stated that the document categorized extraterrestrials into four distinct types, some of which appeared humanoid and could easily blend into human society.
 

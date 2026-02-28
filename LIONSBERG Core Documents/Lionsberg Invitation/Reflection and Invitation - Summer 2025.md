@@ -88,8 +88,8 @@ This future is not only possible—it is our destiny, already living and burning
 
 We will personally follow up with all who respond to explore how we can best walk and weave together—whether you simply want to support and follow along, have something to contribute, or are ready to actively engage and co-create. 
 
-Those who contribute and stand up a meaningful **Circle** and **Quest** by July 1st will be eligible for  
-**founding membership** and a **One Member One Voice** seat at the governance table on the basis of ongoing mutual consent and alignment.  
+Those who contribute and stand up a meaningful **Circle** and **Quest** by July 1st will be eligible for  
+**founding membership** and a **One Member One Voice** seat at the governance table on the basis of ongoing mutual consent and alignment.  
 
 ## Are You Ready? 
 
@@ -102,4 +102,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   

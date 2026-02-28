@@ -24,7 +24,7 @@ According to reports, townspeople recovered the remains of the pilot and held a 
 
 #### **Media Coverage**
 
-The incident was reported in the April 19, 1897, edition of _The Dallas Morning News,_ which described the crash, the unusual debris, and the extraterrestrial pilot. The article included accounts from local witnesses and highlighted the mysterious nature of the event. The story quickly gained attention but was dismissed by some as a hoax or exaggeration.
+The incident was reported in the April 19, 1897, edition of _The Dallas Morning News,_ which described the crash, the unusual debris, and the extraterrestrial pilot. The article included accounts from local witnesses and highlighted the mysterious nature of the event. The story quickly gained attention but was dismissed by some as a hoax or exaggeration.
 
 ---
 
@@ -60,7 +60,7 @@ The incident was reported in the April 19, 1897, edition of _The Dallas Morning
 
 - **Early Reports:**
     
-    - The 1897 _Dallas Morning News_ article remains the primary historical record of the incident.
+    - The 1897 _Dallas Morning News_ article remains the primary historical record of the incident.
 - **Later Efforts:**
     
     - In the 1970s, UFO researchers and journalists revisited the case, interviewing descendants of witnesses and investigating the crash site and cemetery.
@@ -112,9 +112,9 @@ The incident was reported in the April 19, 1897, edition of _The Dallas Morning
 
 - **Books and Articles:**
     
-    - Keel, John A. _The Complete Guide to Mysterious Beings_ – Includes a discussion of the Aurora incident.
-    - Redfern, Nick. _The Alien Book: A Guide to Extraterrestrial Beings on Earth_ – Explores early UFO cases.
+    - Keel, John A. _The Complete Guide to Mysterious Beings_ – Includes a discussion of the Aurora incident.
+    - Redfern, Nick. _The Alien Book: A Guide to Extraterrestrial Beings on Earth_ – Explores early UFO cases.
 - **Documentaries:**
     
-    - _Aurora: The UFO Crash of 1897_ – Documentary revisiting the case and its implications.
+    - _Aurora: The UFO Crash of 1897_ – Documentary revisiting the case and its implications.
 

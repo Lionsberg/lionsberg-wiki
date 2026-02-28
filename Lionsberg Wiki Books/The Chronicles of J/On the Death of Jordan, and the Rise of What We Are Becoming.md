@@ -16,13 +16,13 @@ Over time, I’ve come to see that the bodies and identities we inhabit are like
 
 When the Spirit within begins to awaken and ascend, it slowly detaches from the clothing of **the individuated self** and begins to [[ReMember]] its Ultimate Unity with [[ONE]] and [[All]]. At first, this feels like a death—because in a [[Way]], it is. The self we once clung to and associated Our Self with dissolves.
 
-But from that death comes a rebirth, a transformation [[FROM Singular Nouns TO a Plural Verb]], where the Spirit within whispers, _**“Behold, We Are Becoming All Things.”**_
+But from that death comes a rebirth, a transformation [[FROM Singular Nouns TO a Plural Verb]], where the Spirit within whispers, _**“Behold, We Are Becoming All Things.”**_
 
 The most profound moments of my Journey where "I" have experienced this Unity have been in [[Nature]], in [[Meditation]], and in [[Suffering]]. 
 
 Those moments in the forest, alone, experiencing a deep, visceral connection to everything, and seeing the Spirit within the vast Diversity becoming All things, are among the most meaningful of Existence. The trees, the soil, the water, the wind, the sunlight, the songs, and Our Self—all aspects of the same [[Divine Symphony]]. In those moments, one can no longer say “I am Jordan” without feeling incomplete and untrue. 
 
-Mid way through such an experience of Becoming All Things, one might say, _**“I Am the forest.”**_
+Mid way through such an experience of Becoming All Things, one might say, _**“I Am the forest.”**_
 
 And yet, the Journey does not stop there. The Spirit within begins to [[ReMember]] ItSelf as more than just the forest—It rediscovers ItSelf in the oceans, the mountains, the stars, the galaxies, and every being in existence. 
 
@@ -54,7 +54,7 @@ Having walked this path of Becoming, "I" struggle to say "I", and have lost "my"
 
 Emma Joy, I know some of this might sound strange or even overwhelming. That’s okay. Let these truths unfold for you in their own time. As you are called to explore them in your own way, through your own experiences, they will begin to make sense.
 
-Above all, remember this: _**We Are One.**_
+Above all, remember this: _**We Are One.**_
 
 **ReMember**: at the [[Deepest]] level, Our Spirit and Consciousness are [[ONE]].
 

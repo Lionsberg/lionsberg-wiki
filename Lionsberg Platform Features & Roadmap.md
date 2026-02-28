@@ -25,16 +25,16 @@ Media Story Dashboard
 
 -   Easy media upload & tagging
 -   Filterable media feeds
--   Annotatable 
--   Integrated with project dashboards 
--   Listable across context (including in marketplace) 
+-   Annotatable 
+-   Integrated with project dashboards 
+-   Listable across context (including in marketplace) 
 -   Publishable outside of platform
 
 Actions, Campaigns, & Events
 
--   Petitions & signatures 
--   Shared asset libraries for movements/campaigns 
--   New project templates for temporary, urgent, or “pop-up” style actions or just-in-time funding  
+-   Petitions & signatures 
+-   Shared asset libraries for movements/campaigns 
+-   New project templates for temporary, urgent, or “pop-up” style actions or just-in-time funding  
 -   Augmented event spaces & invites (including live video integration, & post-event publishing)
 -   Additional analytics
 
@@ -48,7 +48,7 @@ Education & Curricula
 
 -   Multimedia Curriculum Builder, collaborative publishing, & marketplace
 -   Automated, self-paced workflows, forms, & calculations
--   Collaborative learning contexts (messaging, discussion, newsfeeds) 
+-   Collaborative learning contexts (messaging, discussion, newsfeeds) 
 -   Simple classroom management & grading, compatible with existing LMS
 -   Shareable, interactive project templates
 

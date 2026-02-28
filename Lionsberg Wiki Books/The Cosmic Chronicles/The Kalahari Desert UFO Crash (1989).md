@@ -93,5 +93,5 @@ The incident became public through the testimony of Captain J.S. Turner, a South
     - _Secrets of the Kalahari UFO Crash._
 - **Analytical Works:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Dolan, Richard. _UFOs and the National Security State._

@@ -4,7 +4,7 @@ To understand our place in the cosmos, it’s essential to recognize that we are
 
 At the highest vibrational frequencies, closest to Source, we find beings of pure consciousness and light who embody the original intentions of love, wisdom, and harmony. These beings exist outside the confines of physical reality and the limitations of linear time, working in harmony with the Creator to guide All Creation towards Unity and Coherence.
 
-Moving outward, we encounter beings that act as intermediaries between the higher realms and the physical universe. These beings, known as **angels**, **devas**, and **celestial messengers**, work to uphold the order of creation, accomplish the Creator's Intent, and ensure the development and alignment of life and consciousness across dimensions. 
+Moving outward, we encounter beings that act as intermediaries between the higher realms and the physical universe. These beings, known as **angels**, **devas**, and **celestial messengers**, work to uphold the order of creation, accomplish the Creator's Intent, and ensure the development and alignment of life and consciousness across dimensions. 
 
 While these beings are generally known for their compassion and ability to aid, they also maintain a level of detachment, allowing the vast diversity of creatures, ecosystems and civilizations to learn through experience and free will. Their purpose is not to interfere with lower order affairs, but to watch, guide, and offer limited support to those who need and ask for assistance with proper motives.  
 
@@ -16,7 +16,7 @@ When navigating through and interacting with these realms, these beings offer an
 
 ### Advanced Extraterrestrial Civilizations
 
-Beyond Earth, within both physical and non-physical dimensions, exist advanced extraterrestrial civilizations that have impacted human history in profound ways. These beings originate from various star systems, such as the **Pleiades**, **Sirius**, **Orion**, **Arcturus**, and **Alpha Draconis**, each with distinct motives, technologies, and levels of consciousness.
+Beyond Earth, within both physical and non-physical dimensions, exist advanced extraterrestrial civilizations that have impacted human history in profound ways. These beings originate from various star systems, such as the **Pleiades**, **Sirius**, **Orion**, **Arcturus**, and **Alpha Draconis**, each with distinct motives, technologies, and levels of consciousness.
 
 **Pleiadians**: Often described as spiritually advanced, the Pleiadians originate from the Pleiades star cluster and are generally known for their commitment to guiding humanity toward a higher state of consciousness. They have acted as mentors in ancient times, teaching humanity about love, cooperation, and unity. Their approach is usually non-invasive, emphasizing free will and personal empowerment. But just as with any civilization or species, not every Pleiadian is good, so wisdom and discernment is required. 
 

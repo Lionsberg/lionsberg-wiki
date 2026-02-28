@@ -8,7 +8,7 @@ I have been having wonderful conversations with Greg Flint, author of the childr
 
 Around the fire one night in the not-so-distant future, a lovely old couple tells their precocious great-granddaughter what happened when the people of the world finally answered ***one magical question***.  
 
-Warm, wise, and right on time, How the World Got Better calls to the hero in each of us to answer that same simple question:
+Warm, wise, and right on time, How the World Got Better calls to the hero in each of us to answer that same simple question:
 
 **“How would you LIKE this world to be?”**
 

@@ -101,13 +101,13 @@ Decades later, researchers revisited these reports as part of broader UFO invest
 
 - **Books:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Articles:**
     
     - Archival accounts of pilot testimonies during the Battle of Britain.
     - Comparative studies of early wartime UFO encounters.
 - **Documentaries:**
     
-    - _UFOs in Wartime_ – Explores UFO sightings during significant historical conflicts, including the Battle of Britain.
+    - _UFOs in Wartime_ – Explores UFO sightings during significant historical conflicts, including the Battle of Britain.
 

@@ -22,9 +22,9 @@ The creature followed their car as they sped away, reportedly reaching speeds ov
 
 In the months that followed, dozens of residents in and around Point Pleasant reported similar sightings. Patterns included:
 
-- **Eyeshine:** Witnesses consistently described glowing red eyes.
-- **Aerial Maneuvers:** Mothman was often seen flying or hovering without flapping its wings.
-- **Proximity to Water and Remote Locations:** Many sightings occurred near the Ohio River or the TNT Area.
+- **Eyeshine:** Witnesses consistently described glowing red eyes.
+- **Aerial Maneuvers:** Mothman was often seen flying or hovering without flapping its wings.
+- **Proximity to Water and Remote Locations:** Many sightings occurred near the Ohio River or the TNT Area.
 
 #### **The Silver Bridge Collapse**
 
@@ -73,7 +73,7 @@ On December 15, 1967, the Silver Bridge connecting Point Pleasant to Gallipolis,
     - Multiple witness statements were collected, lending credibility to the sightings.
 - **John Keel’s Research:**
     
-    - The journalist and paranormal researcher investigated the phenomena extensively, linking it to UFO activity, Men in Black encounters, and other anomalous events. His findings were later published in _The Mothman Prophecies._
+    - The journalist and paranormal researcher investigated the phenomena extensively, linking it to UFO activity, Men in Black encounters, and other anomalous events. His findings were later published in _The Mothman Prophecies._
 - **Scientific Skepticism:**
     
     - Ornithologists suggested the sightings could be attributed to large birds with reflective eyes, such as sandhill cranes or barn owls.
@@ -107,13 +107,13 @@ On December 15, 1967, the Silver Bridge connecting Point Pleasant to Gallipolis,
 
 - **Books:**
     
-    - Keel, John A. _The Mothman Prophecies._
-    - Coleman, Loren. _Mothman and Other Curious Encounters._
+    - Keel, John A. _The Mothman Prophecies._
+    - Coleman, Loren. _Mothman and Other Curious Encounters._
 - **Documentaries:**
     
-    - _The Mothman of Point Pleasant_ (Small Town Monsters, 2017).
-    - _The Mothman Legacy_ (2020).
+    - _The Mothman of Point Pleasant_ (Small Town Monsters, 2017).
+    - _The Mothman Legacy_ (2020).
 - **Web Resources:**
     
-    - [Mothman Museum Official Site](https://www.mothmanmuseum.com/)
+    - [Mothman Museum Official Site](https://www.mothmanmuseum.com/)
 

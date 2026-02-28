@@ -2,7 +2,7 @@
 
 Per ChatGPT: 
 
-**Dr. Steven M. Greer** is a retired emergency room physician turned prominent figure in the UFO disclosure movement. He is best known for founding the **Disclosure Project** and advocating for transparency regarding the UFO phenomenon, government secrecy, and the implications of advanced technologies purportedly associated with extraterrestrial civilizations.
+**Dr. Steven M. Greer** is a retired emergency room physician turned prominent figure in the UFO disclosure movement. He is best known for founding the **Disclosure Project** and advocating for transparency regarding the UFO phenomenon, government secrecy, and the implications of advanced technologies purportedly associated with extraterrestrial civilizations.
 
 ---
 
@@ -10,13 +10,13 @@ Per ChatGPT:
 
 #### **1. The Disclosure Project**
 
-- Founded in **1993**, the Disclosure Project seeks to end government secrecy surrounding UFOs and extraterrestrial encounters.
-- Greer organized a **2001 National Press Club Event**, where military personnel, intelligence officials, and government contractors testified about their experiences with UFOs and the alleged suppression of evidence.
+- Founded in **1993**, the Disclosure Project seeks to end government secrecy surrounding UFOs and extraterrestrial encounters.
+- Greer organized a **2001 National Press Club Event**, where military personnel, intelligence officials, and government contractors testified about their experiences with UFOs and the alleged suppression of evidence.
 - The event garnered significant media attention and is considered a milestone in the modern disclosure movement.
 
 #### **2. Witness Testimonies**
 
-- Greer has compiled over **400 testimonies** from credible witnesses, including pilots, government officials, and scientists.
+- Greer has compiled over **400 testimonies** from credible witnesses, including pilots, government officials, and scientists.
 - These witnesses claim firsthand knowledge of UFO encounters, reverse-engineering programs, and clandestine operations related to extraterrestrial technology.
 
 #### **3. Advanced Energy Technologies**
@@ -26,13 +26,13 @@ Per ChatGPT:
 
 #### **4. CE-5 Protocols**
 
-- Greer developed **Close Encounters of the Fifth Kind (CE-5)**, a process for initiating peaceful contact with extraterrestrial beings through meditation, intention, and consciousness-based practices.
+- Greer developed **Close Encounters of the Fifth Kind (CE-5)**, a process for initiating peaceful contact with extraterrestrial beings through meditation, intention, and consciousness-based practices.
 - CE-5 protocols are central to his belief that extraterrestrials are generally benevolent and that humanity can establish a cooperative relationship with them.
 
 #### **5. Documentaries and Books**
 
-- Greer has produced documentaries such as **"Sirius" (2013)**, **"Unacknowledged" (2017)**, and **"Close Encounters of the Fifth Kind" (2020)**, which explore UFO secrecy, alleged cover-ups, and the implications of extraterrestrial contact.
-- His books include **"Hidden Truth, Forbidden Knowledge"** and **"Unacknowledged"**, detailing his experiences and theories regarding UFOs.
+- Greer has produced documentaries such as **"Sirius" (2013)**, **"Unacknowledged" (2017)**, and **"Close Encounters of the Fifth Kind" (2020)**, which explore UFO secrecy, alleged cover-ups, and the implications of extraterrestrial contact.
+- His books include **"Hidden Truth, Forbidden Knowledge"** and **"Unacknowledged"**, detailing his experiences and theories regarding UFOs.
 
 ---
 

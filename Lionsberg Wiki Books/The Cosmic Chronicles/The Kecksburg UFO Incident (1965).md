@@ -90,10 +90,10 @@ The U.S. government initially dismissed the event as a meteor. NASA later sugges
     - Local newspaper archives and eyewitness interviews from the Kecksburg area.
 - **Documentaries:**
     
-    - _The Kecksburg UFO Mystery_ (History Channel)
-    - _Unsolved Mysteries_ episode featuring Kecksburg.
+    - _The Kecksburg UFO Mystery_ (History Channel)
+    - _Unsolved Mysteries_ episode featuring Kecksburg.
 - **Analytical Works:**
     
-    - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
+    - Dolan, Richard. _UFOs and the National Security State._
 

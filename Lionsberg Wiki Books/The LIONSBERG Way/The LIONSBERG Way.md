@@ -567,14 +567,14 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 
 ### **Components**
 
-#### 1. **Orientation Welcome Gathering**
+#### 1. **Orientation Welcome Gathering**
 
 - Interactive welcome session introducing key members, sharing stories, and setting tone and expectations.
     
 - Introduce clearly the culture, values, commitments, and sacred principles.
     
 
-#### 2. **Foundational Curriculum**
+#### 2. **Foundational Curriculum**
 
 - Comprehensive materials clearly defining:
     
@@ -589,14 +589,14 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 - Modular design, allowing members to progress at their pace while being supported by mentors and guides.
     
 
-#### 3. **Mentorship Assignment**
+#### 3. **Mentorship Assignment**
 
 - Pairing with a seasoned LIONSBERG guide for regular check-ins, Q&A, and support.
     
 - Mentor helps new members integrate lessons, practices, and principles deeply and practically.
     
 
-#### 4. **Integration Practices**
+#### 4. **Integration Practices**
 
 - **Introductory Meditation and Breathwork Sessions**:
     
@@ -607,7 +607,7 @@ A structured, supportive entry phase ensuring new members clearly understand, em
     - Physically integrate principles of sovereignty, strength, discipline, and mastery.
         
 
-#### 5. **Community Immersion**
+#### 5. **Community Immersion**
 
 - Encouragement and opportunities for immediate participation in:
     

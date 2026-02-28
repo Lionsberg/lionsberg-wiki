@@ -1,6 +1,6 @@
 # Meditation 16
 
-Absolute and Unconditional Love gives, expecting nothing in return. If you are ever blessed enough to experience it, reciprocate, and thereby cultivate and nourish the Potential that is trying to emerge. 
+Absolute and Unconditional Love gives, expecting nothing in return. If you are ever blessed enough to experience it, reciprocate, and thereby cultivate and nourish the Potential that is trying to emerge. 
 
 ___
 

@@ -13,7 +13,7 @@ Attend, yawn... and back to sleep.
 
 In the movie The Matrix, there is the famous **red pill / blue pill scene**, when Morpheus offers Neo a choice between discovering the truth about the Matrix or remaining in ignorance. The essence of the statement is about the nature of awakening, truth, and [[Transformational Experiences]]: some things cannot be explained or described adequately with words—they must be experienced directly to be fully understood.
 
-_"Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."_ – Morpheus
+_"Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."_ – Morpheus
 
 We are growing concerned that this is True. After generations of [[Mind Kontrolle]], even with headlines hitting major news outlets stating **We Are Not Alone** and high ranking officials providing sworn testimony before US Congress about extraterrestrials and their craft in the possession of the illegal transnational [[Fascist Security State]], only a few percent of humanity is awake to the real issues We are facing. 
 

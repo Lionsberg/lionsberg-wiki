@@ -4,7 +4,7 @@ In the vast tapestry of human history, there arise moments of profound significa
 
 The signs of impending crisis are all around us. Political polarization tears at the fabric of societies, economic inequalities widen, environmental degradation accelerates, and the specter of conflict looms large. The very foundations of the world order, painstakingly built over centuries, seem to tremble under the weight of these challenges. The path we are on appears to lead towards an apocalypse—a collapse of the systems that sustain life, liberty, and unity.
 
-2,000 years ago, Jesus criticized the religious leaders of his time, saying “When it is evening, you say, ‘It will be fair weather, for the sky is red.’ And in the morning, ‘It will be stormy today, for the sky is red and threatening.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times."
+2,000 years ago, Jesus criticized the religious leaders of his time, saying “When it is evening, you say, ‘It will be fair weather, for the sky is red.’ And in the morning, ‘It will be stormy today, for the sky is red and threatening.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times."
 
 As we pointed out in [[Most People Have No Idea What Is Coming]], the leaves are changing, the warning signals are flashing red, and most people remain asleep. 
 

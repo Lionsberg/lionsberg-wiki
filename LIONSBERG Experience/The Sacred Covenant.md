@@ -1,34 +1,34 @@
 # The Sacred Covenant
 
-_This is the moment of **Alignment**.  
-The moment when The Call becomes **Commitment**.  
-The moment when The Invitation is answered with a resounding **Yes**._
+_This is the moment of **Alignment**.  
+The moment when The Call becomes **Commitment**.  
+The moment when The Invitation is answered with a resounding **Yes**._
 
 Unlike the citizenships, religions, and ideologies of Old,  
-This **New Covenant** is not mediated by ruler, professor, or priest.  
+This **New Covenant** is not mediated by ruler, professor, or priest.  
 There is no orthodoxy,  
 It is not written as dogma,  
 Nor is it imposed or compelled.  
-It is **Freely Chosen**,  
-Spoken from your own **Soul**,  
-Sealed not in ink, but in **Spirit**.
+It is **Freely Chosen**,  
+Spoken from your own **Soul**,  
+Sealed not in ink, but in **Spirit**.
 
 You are not being asked to submit your spiritual and intellectual will,  
 But to step aNew into the fullness of your inherent Spiritual Sovereignty.    
 
 This is the **Turning Point** —  
 The transition from Invitation and Threshold to **Path**.  
-It is a direct, personal **Commitment**:  
+It is a direct, personal **Commitment**:  
 From you, to **ONE**, to **One Another**, to **All**.
 
 ---
 
-It is the **Spirit** of the Commitment that matters, not the written words.  
+It is the **Spirit** of the Commitment that matters, not the written words.  
 You may write your own Covenant if you wish,  
 Or simply agree in Spirit and Heart  
 With the essence of what you already know to be True.  
 
-To accept **The New Covenant** is to declare:
+To accept **The New Covenant** is to declare:
 
 - I lay down the false weights, illusions, and ideologies of the Old World
     
@@ -49,19 +49,19 @@ To accept **The New Covenant** is to declare:
 
 ---
 
-The Spirit of this New Covenant is **Universal and Eternal**  
+The Spirit of this New Covenant is **Universal and Eternal**  
 Yet its details and expression are yours alone.  
-As you take this step, you rejoin a **Living Body** —  
-Souls across the Earth, and far **Beyond** —  
-Who are upholding the same **Vow**,  
-Consciously rejoining the **Great Circle of Life**,  
-And resounding their vital note in the **Divine Symphony**.
+As you take this step, you rejoin a **Living Body** —  
+Souls across the Earth, and far **Beyond** —  
+Who are upholding the same **Vow**,  
+Consciously rejoining the **Great Circle of Life**,  
+And resounding their vital note in the **Divine Symphony**.
 
 All Creation has been longing for *this.*  
-For every Soul who aligns in **Truth** and **Love**,  
-The fabric of Reality shifts toward **Wholeness**.  
-The Universe leans **Forward**.  
-The Future begins to **Transform**.
+For every Soul who aligns in **Truth** and **Love**,  
+The fabric of Reality shifts toward **Wholeness**.  
+The Universe leans **Forward**.  
+The Future begins to **Transform**.
 
 ---
 

@@ -17,7 +17,7 @@ The Warrior’s Intermittent Fasting Protocol is designed to:
 - Prepare the Warrior for both peak performance and prolonged periods of scarcity, warfare, pilgrimage, or purification.
     
 
-This is not just a nutritional protocol—it is a sacred rhythm of alignment with **[[Nature]]**, **[[Purpose]]**, **[[ONE]]**, and the **[[Way]]**.
+This is not just a nutritional protocol—it is a sacred rhythm of alignment with **[[Nature]]**, **[[Purpose]]**, **[[ONE]]**, and the **[[Way]]**.
 
 ---
 
@@ -42,7 +42,7 @@ This is not just a nutritional protocol—it is a sacred rhythm of alignment wit
     
 - **4 to 8-hour eating window**
     
-- Aligned with **circadian rhythm**, **solar light cycles**, and **natural energetic cycles**.
+- Aligned with **circadian rhythm**, **solar light cycles**, and **natural energetic cycles**.
     
 
 One large or two smaller meals a day within [[The Fueling Window]]. 
@@ -117,11 +117,11 @@ One large or two smaller meals a day within [[The Fueling Window]].
 
 ### **Spiritual and Energetic Alignment**
 
-- Use the fasting window to focus awareness inward, strengthen inner flame, and transmute hunger into **will**, **devotion**, and **intention**.
+- Use the fasting window to focus awareness inward, strengthen inner flame, and transmute hunger into **will**, **devotion**, and **intention**.
     
 - Use the feeding window as sacred ceremony—an opportunity to bless and integrate the abundance of Life on Earth into your Living Temple.
     
-- Anchor all stages in breath and prayer. Fasting without consciousness is merely starvation. With consciousness, it becomes **alchemy**.
+- Anchor all stages in breath and prayer. Fasting without consciousness is merely starvation. With consciousness, it becomes **alchemy**.
     
 
 ---
@@ -159,7 +159,7 @@ In the [[LIONSBERG System]], everyone is Sovereign and Free. There is no Law but
 
 ### **Final Note**
 
-This Protocol is not one-size-fits-all. It is a sacred rhythm to be **tuned to your unique Being, season**, **mission**, and **constitution**. Observe your body. Listen to Spirit. Fell your Energy. Adapt in Wisdom and Strength.
+This Protocol is not one-size-fits-all. It is a sacred rhythm to be **tuned to your unique Being, season**, **mission**, and **constitution**. Observe your body. Listen to Spirit. Fell your Energy. Adapt in Wisdom and Strength.
 
 Remember [[Rule Number 2]]:  
 

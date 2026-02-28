@@ -42,7 +42,7 @@ Not a theory. Not an ideology. A living, breathing Pattern — a Logos —  the 
 - **The Swiss Confederation** — 735 years of radical local sovereignty within federal unity.
 - **Indigenous Principles and Advanced Science** — pointing together at the simple Way that Reality is, and participants rightly relate within it.  
 
-This is where it gets tricky, because the one that can be named is not the ONE, and the way that can be named is not the Way. And yet we must humble do our best to reflect them in thought, words, symbols, systems, patterns, protocols, rhythms, and rituals that actually enable civilization and culture to work and be passed down and continuously improved across generations and millennia. 
+This is where it gets tricky, because the one that can be named is not the ONE, and the way that can be named is not the Way. And yet we must humbly do our best to reflect them in thought, words, symbols, systems, patterns, protocols, rhythms, and rituals that actually enable civilization and culture to work and be passed down and continuously improved across generations and millennia. 
 
 Each of the examples above independently uncovered and embodied a similar set of elements, distilled into twelve essential foundations below — eight of cooperation, four of production. They are not human inventions. They are faithful reflections of the Way — the living architecture by which successful and coherent beings and worlds across the cosmos have always organized, healed, and flourished together.
 

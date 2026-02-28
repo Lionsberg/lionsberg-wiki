@@ -85,10 +85,10 @@ The encounter was witnessed from the ground by air traffic controllers at Hector
     - U.S. Air Force Project Blue Book files on the Gorman Dogfight.
 - **Analytical Works:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Historical Overviews:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Randle, Kevin D. _Project Blue Book Exposed._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Randle, Kevin D. _Project Blue Book Exposed._
 

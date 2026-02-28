@@ -102,14 +102,14 @@ The following night, another local teenager, Abby Brabham, reported seeing a cre
 
 - **Books:**
     
-    - Coleman, Loren. _Monsters of Massachusetts: Mysterious Creatures in the Bay State._
-    - Coleman, Loren, and Clark, Jerome. _Cryptozoology A to Z._
+    - Coleman, Loren. _Monsters of Massachusetts: Mysterious Creatures in the Bay State._
+    - Coleman, Loren, and Clark, Jerome. _Cryptozoology A to Z._
 - **Documentaries:**
     
-    - _In Search Of... (1978):_ Episode on the Dover Demon.
-    - _Mysteries at the Museum:_ Segment on the Dover Demon.
+    - _In Search Of... (1978):_ Episode on the Dover Demon.
+    - _Mysteries at the Museum:_ Segment on the Dover Demon.
 - **Web Resources:**
     
-    - Cryptozoology Museum: [https://cryptozoologymuseum.com](https://cryptozoologymuseum.com/)
-    - Local Legends: [https://weirdus.com](https://weirdus.com/)
+    - Cryptozoology Museum: [https://cryptozoologymuseum.com](https://cryptozoologymuseum.com/)
+    - Local Legends: [https://weirdus.com](https://weirdus.com/)
 

@@ -12,15 +12,15 @@ In the same way that the total set of all human activity that is succeding or fa
 
 ## Progress
 Humanity has made tremendous progress over the past few centuries.  
- 
+ 
 From science and technology to infrastructure, new advancements have allowed us to double the average human lifespan, establish global systems and infrastructure, and connect with one another in ways we never thought possible. 
 
 Liberating and empowering individuals and organizations through free markets and innovative capital systems played a major role in creating the set of conditions in which this could occur. 
 
 ## Crisis
- 
+ 
 Yet many of the hastily erected structures of [[Economy]], [[Government]], and [[Society]] are pushing humanity and the [[Living System]] to the brink.  
- 
+ 
 The very systems we stood up to solve our most pressing threats in previous centuries are now creating an entirely new class of existential threats. These complex, interrelated crises threaten to grow exponentially as we accelerate technology, a science, and industry along these same paths.  
 
 Increasingly, we are coming to understand that what appear to be discrete crises are really all symptoms of a far deeper [[Meta Crisis]].  

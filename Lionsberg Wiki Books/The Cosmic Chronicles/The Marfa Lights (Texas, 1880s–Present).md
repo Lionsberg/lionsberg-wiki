@@ -20,9 +20,9 @@ Reports of the Marfa Lights date back to the 1880s, when early settlers and cowb
 
 The lights are typically visible from Highway 90, east of Marfa, and are often described as:
 
-- **Floating Orbs:** Appearing to hover above the ground or dart across the horizon.
-- **Color Variations:** Ranging from white and yellow to red, blue, and green.
-- **Dynamic Behavior:** Splitting into multiple lights, merging, or blinking out suddenly.
+- **Floating Orbs:** Appearing to hover above the ground or dart across the horizon.
+- **Color Variations:** Ranging from white and yellow to red, blue, and green.
+- **Dynamic Behavior:** Splitting into multiple lights, merging, or blinking out suddenly.
 
 #### **Modern Observations**
 
@@ -50,8 +50,8 @@ The Marfa Lights have become a tourist attraction, with the Marfa Lights Viewing
 
 - **Natural Phenomena:**
     
-    - **Atmospheric Refraction:** Some scientists suggest the lights result from temperature inversions bending distant light sources like car headlights or campfires.
-    - **Piezoelectric Effects:** Stress on underground quartz deposits could generate light through electrical discharge.
+    - **Atmospheric Refraction:** Some scientists suggest the lights result from temperature inversions bending distant light sources like car headlights or campfires.
+    - **Piezoelectric Effects:** Stress on underground quartz deposits could generate light through electrical discharge.
 - **Biological Explanations:**
     
     - Bioluminescent organisms or swarms of insects reflecting moonlight or other light sources.
@@ -102,8 +102,8 @@ The Marfa Lights have become a tourist attraction, with the Marfa Lights Viewing
 
 - **Books:**
     
-    - Clark, Jerome. _Unexplained Phenomena: The Marfa Lights and Beyond._
-    - Nickell, Joe. _Real-Life X-Files: Investigating the Paranormal and Other Mysteries._
+    - Clark, Jerome. _Unexplained Phenomena: The Marfa Lights and Beyond._
+    - Nickell, Joe. _Real-Life X-Files: Investigating the Paranormal and Other Mysteries._
 - **Articles and Studies:**
     
     - University of Texas at Dallas (2004): Research on light refraction and distant light sources.

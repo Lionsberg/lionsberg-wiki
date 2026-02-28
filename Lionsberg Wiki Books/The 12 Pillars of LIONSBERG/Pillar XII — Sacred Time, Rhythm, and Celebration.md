@@ -26,29 +26,29 @@ This pillar is the culmination of the previous eleven. For it is through time, r
 
 ### **12 Theses of Sacred Time, Rhythm, and Celebration**
 
-1. **Time Is Sacred** — a divine dimension through which the Eternal unfolds into form and experience.
+1. **Time Is Sacred** — a divine dimension through which the Eternal unfolds into form and experience.
     
-2. **Rhythm Is the Pulse of Creation** — and life must be lived in harmony with natural, cosmic, and spiritual cycles.
+2. **Rhythm Is the Pulse of Creation** — and life must be lived in harmony with natural, cosmic, and spiritual cycles.
     
-3. **Linear Time Is an Illusion** — true time moves in spirals, seasons, initiations, and eternal returns.
+3. **Linear Time Is an Illusion** — true time moves in spirals, seasons, initiations, and eternal returns.
     
-4. **The Restoration of the Sacred Calendar Is Essential** — including sabbaths, festivals, solstices, equinoxes, and rites of passage.
+4. **The Restoration of the Sacred Calendar Is Essential** — including sabbaths, festivals, solstices, equinoxes, and rites of passage.
     
-5. **Rest Is Holy** — not idleness, but intentional stillness through which we reconnect, renew, and receive.
+5. **Rest Is Holy** — not idleness, but intentional stillness through which we reconnect, renew, and receive.
     
-6. **Celebration Is a Form of Worship** — joy is not an escape from reality, but a portal into its fullness.
+6. **Celebration Is a Form of Worship** — joy is not an escape from reality, but a portal into its fullness.
     
-7. **Initiation Must Mark Life’s Thresholds** — birth, youth, adulthood, elderhood, death—each must be honored and guided.
+7. **Initiation Must Mark Life’s Thresholds** — birth, youth, adulthood, elderhood, death—each must be honored and guided.
     
-8. **Sacred Ritual Grounds the Eternal in the Now** — anchoring meaning, intention, and presence in everyday life.
+8. **Sacred Ritual Grounds the Eternal in the Now** — anchoring meaning, intention, and presence in everyday life.
     
-9. **Communal Time Is the Heartbeat of a Healthy Society** — shared meals, ceremonies, and festivals are the glue of belonging.
+9. **Communal Time Is the Heartbeat of a Healthy Society** — shared meals, ceremonies, and festivals are the glue of belonging.
     
-10. **Our Relationship to Time Reflects Our Relationship to the ONE** — anxiety dissolves when we trust the rhythm of the Logos.
+10. **Our Relationship to Time Reflects Our Relationship to the ONE** — anxiety dissolves when we trust the rhythm of the Logos.
     
-11. **Time Must Be ReClaimed from Systems of Control** — no being should be enslaved to clocks, quotas, or artificial urgency.
+11. **Time Must Be ReClaimed from Systems of Control** — no being should be enslaved to clocks, quotas, or artificial urgency.
     
-12. **The Goal Is Eternal Celebration** — a world in which every moment becomes a dance, every season a teacher, and every being a living echo of the Divine Symphony.
+12. **The Goal Is Eternal Celebration** — a world in which every moment becomes a dance, every season a teacher, and every being a living echo of the Divine Symphony.
     
 
 ---

@@ -3,7 +3,7 @@
 **Definition**  
 The Cosmic Mandate refers to humanity’s inherent purpose and responsibility within the vast and interconnected cosmos. It is the call to rise as sovereign co-creators, aligning with universal principles of love, harmony, and abundance. The Mandate transcends survival and prosperity on Earth, inviting humanity to fulfill its role as a mature species contributing to the flourishing of all life across dimensions and realms.
 
-At its core, the Cosmic Mandate is a divine commission: **to co-create Heaven on Earth and beyond, aligning with the greater symphony of existence.**
+At its core, the Cosmic Mandate is a divine commission: **to co-create Heaven on Earth and beyond, aligning with the greater symphony of existence.**
 
 ---
 

@@ -17,7 +17,7 @@ If true, the Montauk Project represents a nexus of military, extraterrestrial, a
 
 1. **The Philadelphia Experiment:**
     
-    - The Montauk Project is believed to have grown out of the Philadelphia Experiment (1943), where U.S. Navy scientists allegedly attempted to make the USS _Eldridge_ invisible to radar.
+    - The Montauk Project is believed to have grown out of the Philadelphia Experiment (1943), where U.S. Navy scientists allegedly attempted to make the USS _Eldridge_ invisible to radar.
     - The experiment purportedly opened an unintended rift in space-time, causing catastrophic effects on crew members and spurring further secret research.
 2. **Montauk Air Force Station:**
     
@@ -63,7 +63,7 @@ If true, the Montauk Project represents a nexus of military, extraterrestrial, a
 
 1. **Preston Nichols’ Books:**
     
-    - Nichols’ _The Montauk Project: Experiments in Time_ (1982) brought the allegations to public attention, blending personal testimony with science fiction-like elements.
+    - Nichols’ _The Montauk Project: Experiments in Time_ (1982) brought the allegations to public attention, blending personal testimony with science fiction-like elements.
     - The book series expanded on time travel, alien technology, and government secrecy.
 2. **Skepticism and Corroboration:**
     
@@ -71,7 +71,7 @@ If true, the Montauk Project represents a nexus of military, extraterrestrial, a
     - However, parallels with MKUltra, the Philadelphia Experiment, and advanced electromagnetic research lend some credibility to the core claims.
 3. **Cultural Impact:**
     
-    - The Montauk Project has inspired popular media, most notably the Netflix series _Stranger Things,_ which borrowed heavily from the allegations.
+    - The Montauk Project has inspired popular media, most notably the Netflix series _Stranger Things,_ which borrowed heavily from the allegations.
 
 ---
 
@@ -95,14 +95,14 @@ The Montauk Project remains a polarizing topic, with passionate believers and ad
 
 - **Primary Sources:**
     
-    - Nichols, Preston. _The Montauk Project: Experiments in Time._
-    - Bielek, Al. _The Philadelphia Experiment and Beyond._
+    - Nichols, Preston. _The Montauk Project: Experiments in Time._
+    - Bielek, Al. _The Philadelphia Experiment and Beyond._
 - **Analytical Works:**
     
-    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
-    - Howe, Linda Moulton. _An Alien Harvest._
+    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
+    - Howe, Linda Moulton. _An Alien Harvest._
 - **Media:**
     
-    - Documentary: _The Montauk Chronicles_ (2015).
-    - Series: _Stranger Things_ (loosely inspired).
+    - Documentary: _The Montauk Chronicles_ (2015).
+    - Series: _Stranger Things_ (loosely inspired).
 

@@ -1,9 +1,9 @@
 # The Mission
 
-You have discovered **[[Your Role in the Story]]**.  
-You have begun to gather in **[[Circles and Guilds]]**.  
-You are anchored in **[[The First Practice]]**.  
-You have stepped into **[[Your First Quest]]**.
+You have discovered **[[Your Role in the Story]]**.  
+You have begun to gather in **[[Circles and Guilds]]**.  
+You are anchored in **[[The First Practice]]**.  
+You have stepped into **[[Your First Quest]]**.
 
 The Great Game is living and active upon the Earth.  
 And now the fragments begin to gravitate and converge.
@@ -13,27 +13,27 @@ How do Our sparks form a Fire?
 How do Our small acts of Faithfulness  
 Unite into the Great Work of our Age?
 
-This is the mystery and power of **The Mission**.
+This is the mystery and power of **The Mission**.
 
 ---
 
 ## What is The Mission?
 
 The Mission is not another Quest.  
-It is the **Convergence of All Quests**.  
-The **Meta-Quest**.  
+It is the **Convergence of All Quests**.  
+The **Meta-Quest**.  
 The rising current that gathers every spark of faithfulness  
 Into a Sacred Fire that cannot be extinguished.
 
 It is the movement through which:
 
-- **The Covenant** becomes a People.
+- **The Covenant** becomes a People.
     
-- **The Story** becomes History.
+- **The Story** becomes History.
     
-- **The Great Game** becomes Reality.
+- **The Great Game** becomes Reality.
     
-- **Heaven** comes to Earth.
+- **Heaven** comes to Earth.
     
 
 The Mission is simple, universal, eternal:  
@@ -68,21 +68,21 @@ Can you hear it?
 
 The Mission unfolds as a spiral of scaling alignment:
 
-1. **Individual Quests** — personal practice and embodiment.
+1. **Individual Quests** — personal practice and embodiment.
     
-2. **Circle Quests** — shared action and transformation.
+2. **Circle Quests** — shared action and transformation.
     
-3. **Guild Quests** — specialized service and mastery.
+3. **Guild Quests** — specialized service and mastery.
     
-4. **Community Quests** — collaborative regeneration of place.
+4. **Community Quests** — collaborative regeneration of place.
     
-5. **Regional Quests** — bioregional movements in shared rhythm.
+5. **Regional Quests** — bioregional movements in shared rhythm.
     
-6. **Seasonal Quests** — synchronized action across many Circles.
+6. **Seasonal Quests** — synchronized action across many Circles.
     
-7. **Planetary Mission** — convergence into a coherent global work.
+7. **Planetary Mission** — convergence into a coherent global work.
     
-8. **Cosmic Mission** — extending harmony beyond Earth, into the wider Body of Co-Creation.
+8. **Cosmic Mission** — extending harmony beyond Earth, into the wider Body of Co-Creation.
     
 
 At every level, the Pattern is the same:  
@@ -112,19 +112,19 @@ Is a living thread in the Tapestry of **Our New Civilization**.
 
 The Goal of The Mission is ONE with The Goal of The Game. 
 
-- The restoration of **Wholeness** in every life and community.
+- The restoration of **Wholeness** in every life and community.
     
-- The healing and regeneration of **Earth** and all her inhabitants.
+- The healing and regeneration of **Earth** and all her inhabitants.
     
 - The liberation of All from oppression, illusion, and control.
     
 - The birth of New Systems that honor and uplift every being.
     
-- The conscious reunion of All with the **ONE**.
+- The conscious reunion of All with the **ONE**.
     
-- The dawn of an **entirely New Civilization** in harmony with Creator’s Intent.
+- The dawn of an **entirely New Civilization** in harmony with Creator’s Intent.
     
-- The manifestation of **Heaven on Earth — and far Beyond.**
+- The manifestation of **Heaven on Earth — and far Beyond.**
     
 
 **The Great Work** is both temporal and eternal,  
@@ -132,7 +132,7 @@ Planetary and cosmic,
 Spiritual and physical,  
 Practical and transcendent.  
 It is nothing less than Our conscious participation  
-In the **Sacred Work of Co-Creation ItSelf.**
+In the **Sacred Work of Co-Creation ItSelf.**
 
 ---
 
@@ -148,7 +148,7 @@ Eternally onward,
 Together towards The Goal. 
 
 Gather your Circle.  
-Begin with the **First Practice**.  
+Begin with the **First Practice**.  
 Discern Together:
 
 - What is the **Next Quest** Spirit is calling us to?
@@ -184,11 +184,11 @@ All are beginning to Sing Together as ONE.
 **This is The Mission.**  
 And **The Story** now turns   
 Towards the **Rhythmic Alignment**  
-Of the steps We take together as **ONE Body**.
+Of the steps We take together as **ONE Body**.
 
 ---
 
-The Next Gate is **[[Seasonal Quests]]** —  
+The Next Gate is **[[Seasonal Quests]]** —  
 The shared rhythms that synchronize our many steps  
 Into the heartbeat of Renewal  
 Across the Earth and Beyond.

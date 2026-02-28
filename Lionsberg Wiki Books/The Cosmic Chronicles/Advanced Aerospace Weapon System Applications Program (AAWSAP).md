@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a Defense Intelligence Agency (DIA) initiative launched in 2007 to investigate unidentified aerial phenomena (UAP) and related advanced technologies. Funded with $22 million from the U.S. government's black budget, AAWSAP was the most expansive U.S. government program dedicated to exploring anomalous phenomena, blending traditional UAP studies with broader investigations into exotic propulsion, advanced weapon systems, and unexplained paranormal activity.
+The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a Defense Intelligence Agency (DIA) initiative launched in 2007 to investigate unidentified aerial phenomena (UAP) and related advanced technologies. Funded with $22 million from the U.S. government's black budget, AAWSAP was the most expansive U.S. government program dedicated to exploring anomalous phenomena, blending traditional UAP studies with broader investigations into exotic propulsion, advanced weapon systems, and unexplained paranormal activity.
 
 ---
 
@@ -10,7 +10,7 @@ The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a D
 
 1. **Initiation:**
     
-    - AAWSAP was initiated under the direction of the Defense Intelligence Agency, with strong advocacy from Senator **Harry Reid**, who recognized the strategic importance of UAP-related research.
+    - AAWSAP was initiated under the direction of the Defense Intelligence Agency, with strong advocacy from Senator **Harry Reid**, who recognized the strategic importance of UAP-related research.
     - Its establishment followed numerous UAP encounters reported by military personnel and pilots, highlighting a need for formal investigation.
 2. **Goals:**
     
@@ -19,7 +19,7 @@ The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a D
     - To examine the broader implications of UAP phenomena, including physical and psychological effects on witnesses.
 3. **Contracting Partner:**
     
-    - The primary contractor for AAWSAP was **Bigelow Aerospace Advanced Space Studies (BAASS)**, founded by entrepreneur Robert Bigelow, a long-time proponent of UAP research.
+    - The primary contractor for AAWSAP was **Bigelow Aerospace Advanced Space Studies (BAASS)**, founded by entrepreneur Robert Bigelow, a long-time proponent of UAP research.
 
 ---
 
@@ -27,11 +27,11 @@ The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a D
 
 1. **Investigative Focus:**
     
-    - Unlike its successor program, AATIP, AAWSAP encompassed a wide array of phenomena, including UAPs, advanced propulsion, and anomalous events such as those at **Skinwalker Ranch**.
+    - Unlike its successor program, AATIP, AAWSAP encompassed a wide array of phenomena, including UAPs, advanced propulsion, and anomalous events such as those at **Skinwalker Ranch**.
     - It sought to identify disruptive aerospace technologies and their origins, whether terrestrial or otherwise.
 2. **Skinwalker Ranch:**
     
-    - A central focus of AAWSAP involved research at **Skinwalker Ranch**, a property in Utah known for its history of paranormal phenomena.
+    - A central focus of AAWSAP involved research at **Skinwalker Ranch**, a property in Utah known for its history of paranormal phenomena.
     - Researchers investigated reports of UAPs, cattle mutilations, electromagnetic disturbances, and other anomalies.
 3. **Data Collection and Analysis:**
     
@@ -79,11 +79,11 @@ The **Advanced Aerospace Weapon System Applications Program (AAWSAP)** was a D
     - Others criticized the lack of transparency and public access to findings.
 2. **Transition to AATIP:**
     
-    - Around 2012, AAWSAP transitioned into a narrower program, the **Advanced Aerospace Threat Identification Program (AATIP)**, under the leadership of Luis Elizondo.
+    - Around 2012, AAWSAP transitioned into a narrower program, the **Advanced Aerospace Threat Identification Program (AATIP)**, under the leadership of Luis Elizondo.
     - AATIP focused exclusively on UAPs with direct national security implications.
 3. **Influence:**
     
-    - AAWSAP laid the groundwork for ongoing UAP investigations, contributing to the eventual formation of the **UAP Task Force** and the **All-domain Anomaly Resolution Office (AARO)**.
+    - AAWSAP laid the groundwork for ongoing UAP investigations, contributing to the eventual formation of the **UAP Task Force** and the **All-domain Anomaly Resolution Office (AARO)**.
 
 ---
 

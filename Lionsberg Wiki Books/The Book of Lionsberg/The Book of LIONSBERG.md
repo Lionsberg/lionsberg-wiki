@@ -128,7 +128,7 @@ This is a living [[Work In Progress]]...
 
 ### Chapter Five - The Quest For Purpose and Meaning
 
-[[5.1 The Quest For Purpose and Meaning]] 
+[[5.1 The Quest For Purpose and Meaning]]  
 [[5.2 Higher Purpose and Meaning]]  
 [[5.3 The Purpose And Meaning Of Life]]  
 [[5.4 Quality and Quantity of Service]]  
@@ -186,7 +186,7 @@ This is a living [[Work In Progress]]...
 
 [[7.1 The Quest Of The Living System]]  
 [[7.2 The Way Of The One]]  
-[[7.3 The Nature Of Nature Is One]] 
+[[7.3 The Nature Of Nature Is One]]  
 [[7.4 We Are Nature]]  
 [[7.5 The Meta Unity of Meta Diversity]]  
 [[7.6 The Conditions That Precipitate The Emergence Of Flourishing And Abundant Life]]  
@@ -216,14 +216,14 @@ This is a living [[Work In Progress]]...
 [[7.30 Organs]]  
 [[7.31 Organ Systems]]  
 [[7.32 Organisms]]  
-[[7.33 Superorganisms]]
+[[7.33 Superorganisms]]  
 [[7.34 Co-Operative Superorganisms]]  
 [[7.35 The Human Microverse And The Hierarchy Of Structure]]  
 [[7.36 One Living System]]  
 
 ### Chapter Eight - The Quest of Humanity
 
-[[Odysseus And Adverse Winds]] 
+[[Odysseus And Adverse Winds]]  
 [[8.1 The Remembered Precession Of Events]]  
 [[8.2 Dispensing With The Notion That Individual Memory, Or Collective History, Is Accurate]]  
 [[8.3 Speaking In General And Glossing Over The Sacred Stories And Traditions]]  
@@ -289,12 +289,6 @@ This is a living [[Work In Progress]]...
 [[8.63 The Sea Of Pyramids]]  
 [[8.64 The Deception And Temptation Of Power And Control]]  
 [[8.65 Whose Vision? Whose Plan? Whose System?]]  
-
-History... 
-Enslavement... 
-Liberation... 
-
-[[Left Off Here]]
 
 ### Chapter Nine - The Quest for Sovereignty
 
@@ -416,13 +410,13 @@ This chapter is a [[Work In Progress]]
 [[11.14 The Order of Goals]]  
 [[11.15 But What Will We Eat, What Will We Wear, Where Will We Live?]]  
 [[11.16 The Total Nested Hierarchy of Goals and Loves]]  
-[[11.17 Determining Relative Value, Quality, and Worth]]
+[[11.17 Determining Relative Value, Quality, and Worth]]  
 [[11.18 Conformance to the Ideal]]  
 [[11.19 The Total Nested Hierarchy of Ideals]]  
 [[11.20 Potential Relative to the Total Nested Hierarchy of Goals]]  
 [[11.21 Optimizing For The One Vs. Optimizing For One]]  
 [[11.22 Playing Games]]  
-[[11.23 How Big of a Game Can We Play?]] 
+[[11.23 How Big of a Game Can We Play?]]  
 [[11.24 Choosing The Highest Game]]  
 [[11.25 Acceptance Criteria For Our New Lives and New World]]  
 [[11.26 The Meta Goal of the Meta Game]]  
@@ -436,7 +430,7 @@ This chapter is a [[Work In Progress]]
 [[11.34 The Circle of Life]]  
 [[11.35 The Proper Way of Being and Moving]]  
 [[11.36 The Spirit of The Game]]  
-[[11.37 The Order of Rules]] 
+[[11.37 The Order of Rules]]  
 [[11.38 Rules of the Meta Game]]  
 [[11.39 The Universal Playground]]  
 [[11.40 Worksite Earth]]  
@@ -444,7 +438,7 @@ This chapter is a [[Work In Progress]]
 [[11.42 The Meta Project]]  
 [[11.43 Pragmatic Application, Not Esoteric Notions]]  
 [[11.44 Operationalizing The Way]]  
-[[11.45 Higher Order Functional Unity Through Spirit, Not Ideology]] 
+[[11.45 Higher Order Functional Unity Through Spirit, Not Ideology]]  
 [[11.46 Analyzing Existing Forces, Conditions, and Context]]  
 [[11.47 Historical Context of the Broken Paradigms]]  
 [[11.48 What Has Been Missing]]  
@@ -464,12 +458,12 @@ This chapter is a [[Work In Progress]]
 [[11.62 The Critical Path]]  
 [[11.63 Increasing Power and Resources Applied to the Critical Path]]  
 [[11.64 Decreasing Waste]]  
-[[11.65 The Myth of Too (Big, Complicated, Complex, Chaotic) to Plan]] 
+[[11.65 The Myth of Too (Big, Complicated, Complex, Chaotic) to Plan]]  
 [[11.66 When Plans Are Attacked By Chaos]]  
 [[11.67 Billions of Parallel Paths]]  
 [[11.68 Speaking the New World Into Being]]  
 [[11.69 Like a Pattern, But More Like a Spirit]]  
-[[11.70 Data, Information, Knowledge, Wisdom, The Way, The One]] 
+[[11.70 Data, Information, Knowledge, Wisdom, The Way, The One]]  
 [[11.71 Designing and Building That Which Co-Creates the New World]]  
 [[11.72 Initiating Fractal Patterns, Protocols, Scripts, DNA]]  
 [[11.73 Seeds of the Higher Way]]  
@@ -480,10 +474,10 @@ This chapter is a [[Work In Progress]]
 [[11.78 The Net of Society]]  
 [[11.79 The Train of Society]]  
 [[11.80 Failure is Not An Option]]  
-[[11.81 The Rate of Critical Path Progress]] 
+[[11.81 The Rate of Critical Path Progress]]  
 [[11.82 12 Million New Spirits a Month]]  
 [[11.83 Quality and Value]]  
-[[11.84 Work That Lacks Quality is not Neutral - It is Harmful Waste]]
+[[11.84 Work That Lacks Quality is not Neutral - It is Harmful Waste]]  
 [[11.85 What is the Budget for the Meta Project?]]  
 
 ### Chapter Twelve - The Anti-Quest
@@ -504,8 +498,13 @@ This chapter is a [[Work In Progress]]
 [[12.12 The Supreme Anti-Good]]  
 [[12.13 The Spirit of Evil]]  
 [[12.14 The Abyss]]  
+[[12.15 A Meta Punishment and Dwelling Place Suitable for the Meta Villain]]  
+[[12.16 The Progressive Invention of Hell]]  
+[[12.17 Liberating Humanity From The Fear Of Hell]]  
+[[12.18 Hell Is Real, And We Can Co-Create It For Our Selves]]  
+[[12.19 Fairy Tales and Myths Are More Than Real]]  
+[[12.20 Heaven And Hell Are More Than Real]]  
 
-Malevolence and Relative Power 
 ### Chapter Thirteen - The Quest of the Heroes
 
 [[13.1 The Logos That Brings Forth The World]]  
@@ -513,7 +512,7 @@ Malevolence and Relative Power
 [[13.3 What Beckons Beyond]]  
 [[13.4 Moving, Rising, and Falling]]  
 [[13.5 The Call and Embarkation]]  
-[[13.6 Completion, Fulfillment, and Shalom]] 
+[[13.6 Completion, Fulfillment, and Shalom]]  
 [[13.7 The Serpent in the Garden, Part II]]  
 [[13.8 The Generation of Transformation]]  
 [[13.9 Nothing Can Come First]]  
@@ -521,7 +520,7 @@ Malevolence and Relative Power
 [[13.11 Courage and Perseverance]]  
 [[13.12 The Spirit of Wisdom, Courage, and Perseverance Through the Generations]]  
 [[13.13 The Wilderness Between Captivity and the Promised Land]]  
-[[13.14 Sacrificing Others Instead of Your Self]] 
+[[13.14 Sacrificing Others Instead of Your Self]]  
 [[13.15 The Giants Guarding the Land of Promise]]  
 [[13.16 Waiting For A Meta Hero]]  
 [[13.17 Becoming a Hero]]  
@@ -532,7 +531,7 @@ Malevolence and Relative Power
 [[13.22 Integrating All We Are in Service of the One]]  
 [[13.23 Freedom and Forgiveness]]  
 [[13.24 Liberation From Propositional Knowing and Form]]  
-[[13.25 Rediscovering the Transcendent and Non-Propositional Ultimate Reality]] 
+[[13.25 Rediscovering the Transcendent and Non-Propositional Ultimate Reality]]  
 [[13.26 Re-Anchoring Identity, Knowledge, Loyalty, and Faith in God]]  
 [[13.27 Loving Right Relationship]]  
 [[13.28 Cleaning Up the Messes We Have Made]]  
@@ -544,7 +543,7 @@ Malevolence and Relative Power
 [[13.34 The Power of God]]  
 [[13.35 Failure is Not an Option]]  
 [[13.36 Everything is Impossible Until it Happens]]  
-[[13.37 Something For Everyone To Do]] 
+[[13.37 Something For Everyone To Do]]  
 [[13.38 Co-Creation with the Best Partner We Could Ever Hope For]]  
 
 ### Chapter Fourteen - The Art and Science of the Way
@@ -552,7 +551,7 @@ Malevolence and Relative Power
 [[14.1 To Know the Way One Must Live It]]  
 [[14.2 A Simple Recipe For Beginning]]  
 [[14.3 Rediscovering Our True Selves]]  
-[[14.4 Creative Right Action Expecting Nothing in Return]] 
+[[14.4 Creative Right Action Expecting Nothing in Return]]  
 [[Pain, Perceived Pain, and Change]]  
 
 ### Chapter Fifteen - The Great Game of LIONSBERG
@@ -560,39 +559,39 @@ Malevolence and Relative Power
 _The Game that begins at the kitchen table and ends at the stars — the same Pattern at every scale, the same seven moves from the first Circle to the federation of worlds._
 
 #### Movement I: The Simple Game
-[[15.1 The Game]]
-[[15.2 The Goal]]
-[[15.3 The Players]]
-[[15.4 The Moves]]
-[[15.5 The Seasons]]
-[[15.6 How We Win]]
-[[15.7 Begin]]
+[[15.1 The Game]]  
+[[15.2 The Goal]]  
+[[15.3 The Players]]  
+[[15.4 The Moves]]  
+[[15.5 The Seasons]]  
+[[15.6 How We Win]]  
+[[15.7 Begin]]  
 
 #### Movement II: The Community Game
-[[15.8 From Circles to Communities]]
-[[15.9 The Field of Agreements]]
-[[15.10 Governance Without Rulers]]
-[[15.11 The Living Economy]]
-[[15.12 The Transformation of Culture]]
-[[15.13 The Prototype]]
-[[15.14 The Three Hundred]]
+[[15.8 From Circles to Communities]]  
+[[15.9 The Field of Agreements]]  
+[[15.10 Governance Without Rulers]]  
+[[15.11 The Living Economy]]  
+[[15.12 The Transformation of Culture]]  
+[[15.13 The Prototype]]  
+[[15.14 The Three Hundred]]  
 
 #### Movement III: The Planetary Game
-[[15.15 From Communities to Bioregions]]
-[[15.16 The Planetary Grid]]
-[[15.17 The Ten Year Grand Strategy]]
-[[15.18 The Transition]]
-[[15.19 All Domains Moving Together]]
-[[15.20 The Moment the New Becomes Functional]]
+[[15.15 From Communities to Bioregions]]  
+[[15.16 The Planetary Grid]]  
+[[15.17 The Ten Year Grand Strategy]]  
+[[15.18 The Transition]]  
+[[15.19 All Domains Moving Together]]  
+[[15.20 The Moment the New Becomes Functional]]  
 
 #### Movement IV: The Eternal Divine Play
-[[15.21 The Game Beyond Earth]]
-[[15.22 The Holofractal Pattern Language]]
-[[15.23 Cosmic Diplomacy]]
-[[15.24 The Federation of Worlds]]
-[[15.25 The Cycle of Cosmic Co-Creation]]
-[[15.26 The Eternal Divine Play]]
-[[15.27 From ONE All Things Proceed]]
+[[15.21 The Game Beyond Earth]]  
+[[15.22 The Holofractal Pattern Language]]  
+[[15.23 Cosmic Diplomacy]]  
+[[15.24 The Federation of Worlds]]  
+[[15.25 The Cycle of Cosmic Co-Creation]]  
+[[15.26 The Eternal Divine Play]]  
+[[15.27 From ONE All Things Proceed]]  
 
 ---
 
@@ -612,44 +611,44 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 - [[Pass The Flame]] — _Help others form their own Circles and begin_
 
 ### Part I: Welcome
-[[1.1 How to Use This Book]]
-[[1.2 Your First Day]]
-[[1.3 A Few Key Orienting Facts]]
-[[1.4 Life as a Sovereign, Autonomous Agent]]
+[[1.1 How to Use This Book]]  
+[[1.2 Your First Day]]  
+[[1.3 A Few Key Orienting Facts]]  
+[[1.4 Life as a Sovereign, Autonomous Agent]]  
 
 ### Part II: Life Beyond The Boundary
-[[2.1 Life Beyond The Boundary]]
-[[2.2 The Three Supreme Agreements]]
-[[2.3 Domains and Field of Agreement]]
-[[2.4 Your First Season of Play]]
-[[2.5 Remembering How to Be and Become]]
-[[2.6 Deciding What to Do]]
-[[2.7 Forging Or Joining Circles]]
-[[2.8 Choosing Your First Quest]]
-[[2.9 Every Quest Is A Project]]
-[[2.10 Structuring Your Circles for the Quests at Hand]]
-[[2.11 Stewardship vs. Ownership, Influence vs. Control, and Infinite vs. Finite Games]]
-[[2.12 Intrapreneurship vs. Entrepreneurship - Federating Everything]]
-[[2.13 Federating Your Circles]]
-[[2.14 Aggregating and Coordinating The First Tenth]]
-[[2.15 Leveraging The Commons to Begin]]
+[[2.1 Life Beyond The Boundary]]  
+[[2.2 The Three Supreme Agreements]]  
+[[2.3 Domains and Field of Agreement]]  
+[[2.4 Your First Season of Play]]  
+[[2.5 Remembering How to Be and Become]]  
+[[2.6 Deciding What to Do]]  
+[[2.7 Forging Or Joining Circles]]  
+[[2.8 Choosing Your First Quest]]  
+[[2.9 Every Quest Is A Project]]  
+[[2.10 Structuring Your Circles for the Quests at Hand]]  
+[[2.11 Stewardship vs. Ownership, Influence vs. Control, and Infinite vs. Finite Games]]  
+[[2.12 Intrapreneurship vs. Entrepreneurship - Federating Everything]]  
+[[2.13 Federating Your Circles]]  
+[[2.14 Aggregating and Coordinating The First Tenth]]  
+[[2.15 Leveraging The Commons to Begin]]  
 
 ### Part III: The LIONSBERG Experience
-[[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]
-[[3.2 Cultural Norms and Expectations]]
-[[3.3 Finding Out What is Happening]]
-[[3.4 How the Players of The Great Game Collectively Decide What Is Most Important and Valuable to Do Next]]
-[[3.5 Progress and Throughput of The Goal]]
-[[3.6 What Every Sovereign Agent Always Needs to Know]]
-[[3.7 Stacking Up and Aligning Our Quests]]
-[[3.8 The Sacred Ascent — All Things Helping All Things Rise]]
+[[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]  
+[[3.2 Cultural Norms and Expectations]]  
+[[3.3 Finding Out What is Happening]]  
+[[3.4 How the Players of The Great Game Collectively Decide What Is Most Important and Valuable to Do Next]]  
+[[3.5 Progress and Throughput of The Goal]]  
+[[3.6 What Every Sovereign Agent Always Needs to Know]]  
+[[3.7 Stacking Up and Aligning Our Quests]]  
+[[3.8 The Sacred Ascent — All Things Helping All Things Rise]]  
 
 ### Part IV: Passing The Flame
-[[5.1 Your Most Important Role|4.1 Your Most Important Role]]
-[[5.2 Successful Integration|4.2 Successful Integration]]
+[[5.1 Your Most Important Role|4.1 Your Most Important Role]]  
+[[5.2 Successful Integration|4.2 Successful Integration]]  
 
 ### Part V: The Sacred Ascent
-[[The Sacred Ascent]]
+[[The Sacred Ascent]]  
 
 ### The Essential Plays
 
@@ -702,37 +701,37 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 _The Proven Methodology for the Largest Integrated Delivery Program in History. Where the Pattern becomes Program and the Game becomes buildable._
 
 #### Act I: Crisis and Decision
-[[16.1 The Verdict]]
-[[16.2 The Scope of the Work]]
+[[16.1 The Verdict]]  
+[[16.2 The Scope of the Work]]  
 
 #### Act II: The Seed and Its Architecture
-[[16.3 The Golden Seed]]
-[[16.4 The Architecture of Cooperation]]
+[[16.3 The Golden Seed]]  
+[[16.4 The Architecture of Cooperation]]  
 
 #### Act III: The Methodology
-[[16.5 Integrated Delivery]]
-[[16.6 Design to the Goal]]
-[[16.7 The Network of Commitments]]
-[[16.8 The Rhythms]]
-[[16.9 Work Structuring]]
-[[16.10 The Living Economy]]
+[[16.5 Integrated Delivery]]  
+[[16.6 Design to the Goal]]  
+[[16.7 The Network of Commitments]]  
+[[16.8 The Rhythms]]  
+[[16.9 Work Structuring]]  
+[[16.10 The Living Economy]]  
 
 #### Act IV: Building and Growing
-[[16.11 Every Community Is a Construction Site]]
-[[16.12 The Learning System]]
-[[16.13 Quality, Safety, and Structural Immunity]]
+[[16.11 Every Community Is a Construction Site]]  
+[[16.12 The Learning System]]  
+[[16.13 Quality, Safety, and Structural Immunity]]  
 
 #### Act V: The Passage and Arrival
-[[16.14 The Wilderness]]
-[[16.15 The Sacred Ascent]]
-[[16.16 From Receivership to Sovereignty]]
+[[16.14 The Wilderness]]  
+[[16.15 The Sacred Ascent]]  
+[[16.16 From Receivership to Sovereignty]]  
 
 
 ### Chapter 18 - The Sacred Ascent
 
 _All Things Helping All Things Rise. The eternal spiral from personal awakening to cosmic co-creation._
 
-[[The Sacred Ascent]]
+[[The Sacred Ascent]]  
 
 ---
 

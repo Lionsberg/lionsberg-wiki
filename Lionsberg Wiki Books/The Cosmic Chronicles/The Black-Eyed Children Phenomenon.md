@@ -98,14 +98,14 @@ Encounters typically include the following elements:
 
 - **Books:**
     
-    - Bethel, Brian. _The Black-Eyed Children Chronicles._
-    - Keel, John A. _The Complete Guide to Mysterious Beings._
+    - Bethel, Brian. _The Black-Eyed Children Chronicles._
+    - Keel, John A. _The Complete Guide to Mysterious Beings._
 - **Articles:**
     
     - Documented witness accounts and psychological analyses.
     - Folkloric connections between Black-Eyed Children and vampire legends.
 - **Documentaries and Media:**
     
-    - _Black-Eyed Kids: Let Me In_ – A deep dive into this chilling phenomenon.
+    - _Black-Eyed Kids: Let Me In_ – A deep dive into this chilling phenomenon.
     - Popular podcasts exploring firsthand accounts and theories.
 

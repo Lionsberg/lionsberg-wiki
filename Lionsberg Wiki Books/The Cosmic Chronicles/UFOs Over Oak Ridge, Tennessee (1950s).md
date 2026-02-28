@@ -20,7 +20,7 @@ Oak Ridge National Laboratory was established in 1943 as part of the Manhattan P
 
 The earliest reports of UFOs over Oak Ridge emerged in the late 1940s and intensified throughout the 1950s. Witnesses described luminous or metallic objects performing extraordinary maneuvers, often hovering over or near restricted areas before accelerating at unimaginable speeds.
 
-- **December 1950 Incident:** Security personnel observed a glowing object hovering near a plutonium production facility. The object remained stationary for several minutes before darting away at high speed.
+- **December 1950 Incident:** Security personnel observed a glowing object hovering near a plutonium production facility. The object remained stationary for several minutes before darting away at high speed.
 
 #### **Military Response**
 
@@ -28,8 +28,8 @@ Given Oak Ridge’s strategic importance, UFO sightings were taken seriously by 
 
 #### **Notable Sightings**
 
-- **1952 Bright Disc Incident:** Witnesses, including military officers, reported a metallic disc hovering over a nuclear reactor site. The object emitted a bright light and made no sound before accelerating vertically and vanishing.
-- **1953 Multi-Witness Event:** A group of security guards reported seeing a glowing orb move silently across the sky, stopping abruptly over a secure facility before shooting off into the distance.
+- **1952 Bright Disc Incident:** Witnesses, including military officers, reported a metallic disc hovering over a nuclear reactor site. The object emitted a bright light and made no sound before accelerating vertically and vanishing.
+- **1953 Multi-Witness Event:** A group of security guards reported seeing a glowing orb move silently across the sky, stopping abruptly over a secure facility before shooting off into the distance.
 
 #### **Investigations**
 
@@ -97,14 +97,14 @@ The U.S. Air Force and Atomic Energy Commission (AEC) conducted classified inves
 
 - **Books:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Articles:**
     
     - Declassified AEC and Air Force reports on Oak Ridge UFO sightings.
     - Analyses of UFO activity around U.S. nuclear sites.
 - **Documentaries:**
     
-    - _UFOs and Nukes: The Secret Link Revealed_ – Includes coverage of the Oak Ridge incidents.
-    - _The Phenomenon_ – Explores nuclear-related UFO sightings in a broader context.
+    - _UFOs and Nukes: The Secret Link Revealed_ – Includes coverage of the Oak Ridge incidents.
+    - _The Phenomenon_ – Explores nuclear-related UFO sightings in a broader context.
 

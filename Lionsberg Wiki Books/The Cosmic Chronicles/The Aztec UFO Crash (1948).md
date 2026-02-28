@@ -20,7 +20,7 @@ When investigators reportedly arrived, they discovered the bodies of 16 humanoid
 
 #### **The Cover-Up Allegations**
 
-The story was first publicized in the 1950 book _Behind the Flying Saucers_ by Frank Scully, who claimed government officials retrieved the craft and its occupants. However, the case was quickly discredited after skeptics exposed key sources as potential frauds. Despite this, the Aztec story resurfaced in the 1980s when UFO researchers suggested it might have been part of a larger pattern of UFO crashes covered up by the U.S. government.
+The story was first publicized in the 1950 book _Behind the Flying Saucers_ by Frank Scully, who claimed government officials retrieved the craft and its occupants. However, the case was quickly discredited after skeptics exposed key sources as potential frauds. Despite this, the Aztec story resurfaced in the 1980s when UFO researchers suggested it might have been part of a larger pattern of UFO crashes covered up by the U.S. government.
 
 #### **The Technology Angle**
 
@@ -53,7 +53,7 @@ Reports from later sources claimed that the Aztec craft provided valuable insigh
 ### **Investigations**
 
 - **Frank Scully’s Claims:**
-    - _Behind the Flying Saucers_ brought the incident to public attention but faced skepticism due to questionable sources.
+    - _Behind the Flying Saucers_ brought the incident to public attention but faced skepticism due to questionable sources.
 - **Renewed Interest:**
     - Researchers revisited the case in the 1980s, linking it to broader patterns of UFO crashes and retrievals.
 - **Skeptical Explanations:**
@@ -84,13 +84,13 @@ Reports from later sources claimed that the Aztec craft provided valuable insigh
 
 - **Primary Sources:**
     
-    - Scully, Frank. _Behind the Flying Saucers._
+    - Scully, Frank. _Behind the Flying Saucers._
 - **Analytical Works:**
     
-    - Randle, Kevin D. _Crash: When UFOs Fall from the Sky._
-    - Friedman, Stanton. _Top Secret/Majic._
+    - Randle, Kevin D. _Crash: When UFOs Fall from the Sky._
+    - Friedman, Stanton. _Top Secret/Majic._
 - **Historical Overviews:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Redfern, Nick. _The FBI Files._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Redfern, Nick. _The FBI Files._
 

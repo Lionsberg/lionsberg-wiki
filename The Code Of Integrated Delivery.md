@@ -2,9 +2,9 @@
 
 To implement the [[Five Big Ideas of Integrated Delivery]], the [[Program of Action]] needs not only a [[Provisional Structure|Structure]], but also a [[Behavioral Code]] / [[Culture]] that makes Integrated Delivery possible. 
 
-Integrated Delivery requires specific behaviors and cultural norms in order to succeed.  These behaviors support a change in mindset **FROM** individual contracts and [[Self Optimization]] **TO** a collective endeavor and global optimization.  
+Integrated Delivery requires specific behaviors and cultural norms in order to succeed.  These behaviors support a change in mindset **FROM** individual contracts and [[Self Optimization]] **TO** a collective endeavor and global optimization.  
 
-[[Collaboration]], [[Trust]], [[Commitment Based Management]] and [[Continuous Improvement]] are all behaviors required of each individual andGroup in an [[Integrated Delivery Environment]].  
+[[Collaboration]], [[Trust]], [[Commitment Based Management]] and [[Continuous Improvement]] are all behaviors required of each individual andGroup in an [[Integrated Delivery Environment]].  
 
 Yet we know that laws and contracts are merely the faintest restraints on our worst impulses. It is hard to enforce behavior with laws and contracts. #principle 
 
@@ -24,7 +24,7 @@ These two go together, as ongoing [[Reliability]] in the [[Network of Commitment
 
 [[Reliability]] comes from the way systems are designed, implemented, and operated, and from the ability of the people operating the systems to understand how their actions affect the [[Whole]]. 
 
-Integrated Delivery requires people to focus on **_system performance_**, not just siloed performance.  
+Integrated Delivery requires people to focus on **_system performance_**, not just siloed performance.  
 
 The [[LIONSBERG]] [[Meta Project]] is focused on the total performance of the [[Human System]] and [[Living System]] at the highest possible level. 
 
@@ -32,7 +32,7 @@ The [[LIONSBERG]] [[Meta Project]] is focused on the total performance of the [[
 
 These commitments can be **statistically measured within a [[Percent Promises Kept]]** framework that drives [[Accountability]] throughout the System, with a particular focus on the [[Handoff Points]] between teams.
 
-Finally, people and systems are not infallible.  Outcomes will not always match expectations.  Hence, the team must be structured to learn rapidly from [[Variance Between Expected And Actual Outcomes]]. 
+Finally, people and systems are not infallible.  Outcomes will not always match expectations.  Hence, the team must be structured to learn rapidly from [[Variance Between Expected And Actual Outcomes]]. 
 
 Critical behaviors necessary for Integrated Delivery to be successful include:
 

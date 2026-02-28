@@ -8,37 +8,37 @@ By [[Jordan Nicholas Sukut]]
 
 ### [[Scene 3 - The Boundary]]
 
-### [[Scene 4 - Life Within The Boundary]]   
+### [[Scene 4 - Life Within The Boundary]]   
 
 ### [[Scene 5 - The Threshold Of Knowing]]
 
-### [[Scene 6 - Progress And Trouble In Paradise]]   
+### [[Scene 6 - Progress And Trouble In Paradise]]   
 
 ### [[Scene 7 - The Beginning of the Perilous Descent]] 
 
-### [[Scene 8 - The Forces of Darkness]] 
+### [[Scene 8 - The Forces of Darkness]] 
 
-### [[Scene 9 - They Asked, And No One Answered]]   
+### [[Scene 9 - They Asked, And No One Answered]]   
 
 ### [[Scene 10 - The Seeds of the Resistance]]
 
-### [[Scene 11 - Hope Recedes From View]] 
+### [[Scene 11 - Hope Recedes From View]] 
 
-### [[Scene 12 - Xion's Awakening]] 
+### [[Scene 12 - Xion's Awakening]] 
   
-### [[Scene 13 - Rising Above The Chaos]] 
+### [[Scene 13 - Rising Above The Chaos]] 
 
-### [[Scene 14 - Speaking The Impossible]] 
+### [[Scene 14 - Speaking The Impossible]] 
 
 ### [[Scene 15 - Writing In The Spirit]]
 
-### [[Scene 16 - A New Light Illuminates The Old World]] 
+### [[Scene 16 - A New Light Illuminates The Old World]] 
 
-### [[Scene 17 - The Corrupt Priest]] 
+### [[Scene 17 - The Corrupt Priest]] 
 
-### [[Scene 18 - The Corrupt Governor]] 
+### [[Scene 18 - The Corrupt Governor]] 
 
-### [[Scene 19 - The Escape]] 
+### [[Scene 19 - The Escape]] 
 
 ### [[Scene 20 - The Spirit Reveals Next Steps]]
 

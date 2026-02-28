@@ -21,7 +21,7 @@ Antarctica's isolation and extreme conditions make it an ideal location for hidd
     - Some scholars suggest that Antarctica was once home to advanced pre-human civilizations before a cataclysmic event encased it in ice.
 2. **Nazi Expeditions:**
     
-    - In the late 1930s, Nazi Germany conducted expeditions to Antarctica, establishing a territory they named **Neu Schwabenland**.
+    - In the late 1930s, Nazi Germany conducted expeditions to Antarctica, establishing a territory they named **Neu Schwabenland**.
     - Claims persist that the Nazis discovered vast underground caverns and established bases, potentially collaborating with extraterrestrial beings.
     - Allied intelligence reports and declassified documents hint at unusual Nazi activity in the region during and after World War II.
 
@@ -123,8 +123,8 @@ Antarctica remains a critical location in unraveling the mystery of extraterrest
 
 - **Books:**
     
-    - Howe, Linda Moulton. _An Alien Harvest: Further Evidence Linking Animal Mutilations and Human Abductions to Alien Lifeforms._
-    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
+    - Howe, Linda Moulton. _An Alien Harvest: Further Evidence Linking Animal Mutilations and Human Abductions to Alien Lifeforms._
+    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
 - **Documentaries:**
     
     - _Above Majestic_

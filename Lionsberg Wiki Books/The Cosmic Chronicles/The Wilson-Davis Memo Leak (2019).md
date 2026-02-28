@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken by astrophysicist **Dr. Eric Davis** documenting a **2002** conversation with former **Admiral Thomas R. Wilson**, then the Director of the Defense Intelligence Agency (DIA). These notes, often referred to as the "Wilson-Davis documents," describe Wilson’s purported discovery of a deeply classified program involving reverse engineering of non-human technology. If authentic, which researchers such as George Knapp have confirmed, the memo provides a rare glimpse into the U.S. government's clandestine efforts to study advanced, possibly extraterrestrial technology and its compartmentalization within private industry.
+The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken by astrophysicist **Dr. Eric Davis** documenting a **2002** conversation with former **Admiral Thomas R. Wilson**, then the Director of the Defense Intelligence Agency (DIA). These notes, often referred to as the "Wilson-Davis documents," describe Wilson’s purported discovery of a deeply classified program involving reverse engineering of non-human technology. If authentic, which researchers such as George Knapp have confirmed, the memo provides a rare glimpse into the U.S. government's clandestine efforts to study advanced, possibly extraterrestrial technology and its compartmentalization within private industry.
 
 ---
 
@@ -14,11 +14,11 @@ The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken b
         - A high-ranking U.S. Navy officer and former Director of the DIA.
         - Allegedly became aware of a classified reverse-engineering program during his tenure as J-2, the Director of Intelligence for the Joint Chiefs of Staff.
     - **Dr. Eric W. Davis:**
-        - A renowned astrophysicist and defense contractor, associated with programs like **AAWSAP** and **AATIP**.
+        - A renowned astrophysicist and defense contractor, associated with programs like **AAWSAP** and **AATIP**.
         - Allegedly met with Wilson in 2002 to discuss the classified program.
 2. **The Memo's Emergence:**
     
-    - First leaked online in **April 2019**, the memo was included in documents associated with the estate of the late Dr. Edgar Mitchell, an Apollo 14 astronaut and prominent UAP disclosure advocate.
+    - First leaked online in **April 2019**, the memo was included in documents associated with the estate of the late Dr. Edgar Mitchell, an Apollo 14 astronaut and prominent UAP disclosure advocate.
     - Its contents quickly became a focal point for UAP researchers, generating both intrigue and skepticism.
 
 ---
@@ -27,7 +27,7 @@ The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken b
 
 1. **Discovery of a Secret Program:**
     
-    - Wilson reportedly uncovered a **Special Access Program (SAP)** during a routine review of classified projects.
+    - Wilson reportedly uncovered a **Special Access Program (SAP)** during a routine review of classified projects.
     - The program was allegedly managed by a private aerospace contractor and involved the reverse engineering of non-human technology.
 2. **Denial of Access:**
     
@@ -55,7 +55,7 @@ The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken b
     - He also denied knowledge of or involvement in any reverse-engineering program involving non-human technology.
 2. **Support from UAP Researchers:**
     
-    - Prominent UAP investigators, including **Richard Dolan** and **Dr. Hal Puthoff**, have suggested the memo aligns with longstanding claims of hidden crash retrieval programs.
+    - Prominent UAP investigators, including **Richard Dolan** and **Dr. Hal Puthoff**, have suggested the memo aligns with longstanding claims of hidden crash retrieval programs.
     - Dr. Davis has declined to confirm or deny the memo’s authenticity, further fueling speculation.
 3. **Skepticism:**
     
@@ -80,7 +80,7 @@ The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken b
 1. **Catalyst for Public Interest:**
     - The leak intensified calls for transparency regarding UAP programs and their management by both government and private entities.
 2. **Support for Whistleblowers:**
-    - The memo provided context for subsequent whistleblower claims, including those made by **David Grusch** in 2023 about crash retrieval programs.
+    - The memo provided context for subsequent whistleblower claims, including those made by **David Grusch** in 2023 about crash retrieval programs.
 3. **Focus on Compartmentalization:**
     - The memo highlights the extreme compartmentalization and secrecy surrounding potential UAP-related initiatives, raising questions about accountability.
 
@@ -88,4 +88,4 @@ The **Wilson-Davis Memo**, leaked in **2019**, refers to alleged notes taken b
 
 ### **Conclusion**
 
-The **Wilson-Davis Memo** remains a pivotal document in the realm of UAP research. While its authenticity and claims have not been conclusively verified, the memo has amplified scrutiny of secretive U.S. government and private-sector activities concerning advanced, potentially non-human technologies. Whether a genuine account or a compelling and near-truthful narrative, the Wilson-Davis Memo underscores the need for greater transparency and accountability in understanding humanity’s interaction with the unknown.
+The **Wilson-Davis Memo** remains a pivotal document in the realm of UAP research. While its authenticity and claims have not been conclusively verified, the memo has amplified scrutiny of secretive U.S. government and private-sector activities concerning advanced, potentially non-human technologies. Whether a genuine account or a compelling and near-truthful narrative, the Wilson-Davis Memo underscores the need for greater transparency and accountability in understanding humanity’s interaction with the unknown.

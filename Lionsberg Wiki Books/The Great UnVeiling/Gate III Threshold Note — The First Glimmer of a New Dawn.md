@@ -72,9 +72,9 @@ Into the Flame.
 Into the ReMembering of The Divine Symphony.  
 
 You are not here to deny the Darkness.  
-You are here to _transcend_ it.  
-To _transform_ it.  
-To _liberate_ all it falsely tried to claim.  
+You are here to _transcend_ it.  
+To _transform_ it.  
+To _liberate_ all it falsely tried to claim.  
 To awaken the trillions to their True Identity and Divine Inheritance as the Sacred Family of the ONE.  
 
 The Soul, weary from the long descent into countless underworlds, now lifts its eyes back up to the Divine Heights of The Sacred Mountain.  

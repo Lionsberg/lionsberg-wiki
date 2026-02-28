@@ -24,29 +24,29 @@ In Sacred Learning, education is not a system for youth—it is a sacred Way for
 
 ### **12 Theses of Sacred Learning and Mastery**
 
-1. **The Purpose of Learning Is the Realization of Purpose and Potential** — every being is here to awaken, grow, and fulfill their unique contribution to the Whole.
+1. **The Purpose of Learning Is the Realization of Purpose and Potential** — every being is here to awaken, grow, and fulfill their unique contribution to the Whole.
     
-2. **Leading Is a Lifelong Sacred Journey** — not a phase of life, but the continual evolution of wisdom, character, and capability.
+2. **Leading Is a Lifelong Sacred Journey** — not a phase of life, but the continual evolution of wisdom, character, and capability.
     
-3. **Every Being Is a Bearer of Genius** — and systems of learning must be designed to discover, develop, and empower that genius.
+3. **Every Being Is a Bearer of Genius** — and systems of learning must be designed to discover, develop, and empower that genius.
     
-4. **Wisdom Is More Important Than Knowledge or Information** — and must be cultivated through reflection, experience, and dialogue.
+4. **Wisdom Is More Important Than Knowledge or Information** — and must be cultivated through reflection, experience, and dialogue.
     
-5. **Learning Must Be Integrated and Whole** — addressing spirit, mind, emotion, body, creativity, relationship, and service.
+5. **Learning Must Be Integrated and Whole** — addressing spirit, mind, emotion, body, creativity, relationship, and service.
     
-6. **Mentorship and Eldership Are Essential** — wisdom is passed not just through texts, but through living relationship and sacred example.
+6. **Mentorship and Eldership Are Essential** — wisdom is passed not just through texts, but through living relationship and sacred example.
     
-7. **Learning Must Be Rooted in Place and Community** — connecting children and adults to the land, culture, and living systems that sustain them.
+7. **Learning Must Be Rooted in Place and Community** — connecting children and adults to the land, culture, and living systems that sustain them.
     
-8. **Creativity and Curiosity Must Be Protected and Honored** — they are the signs of life and the seeds of innovation and joy.
+8. **Creativity and Curiosity Must Be Protected and Honored** — they are the signs of life and the seeds of innovation and joy.
     
-9. **Every Child Deserves a Sacred Education** — one that nurtures their soul, awakens their calling, and empowers their path.
+9. **Every Child Deserves a Sacred Education** — one that nurtures their soul, awakens their calling, and empowers their path.
     
-10. **Learning Must Be Co-Creative and Participatory** — not imposed from above, but cultivated from within and among cohorts of learners.
+10. **Learning Must Be Co-Creative and Participatory** — not imposed from above, but cultivated from within and among cohorts of learners.
     
-11. **Paths of Mastery Must Be Restored** — through which individuals can commit to long-term development in service of the Whole.
+11. **Paths of Mastery Must Be Restored** — through which individuals can commit to long-term development in service of the Whole.
     
-12. **The Goal Is a Planet of Masters Serving the ONE** — a world in which each being is developed to the fullness of their potential in alignment with Love, Truth, and Purpose.
+12. **The Goal Is a Planet of Masters Serving the ONE** — a world in which each being is developed to the fullness of their potential in alignment with Love, Truth, and Purpose.
     
 
 ---

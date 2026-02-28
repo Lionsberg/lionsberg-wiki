@@ -21,7 +21,7 @@ If this proves Valuable in any way to you, please be inspired to grab your own p
 1. A company is essentially a cybernetic collective of people and machines.
 ___
 
-2.  The percentage of intelligence that is non human is increasing at an accelerating rate. 
+2.  The percentage of intelligence that is non human is increasing at an accelerating rate. 
 ___
 
 3. Soon, a humans will represent a very small portion of intelligence sandwiched between the intelligence of Nature and God on one hand, and artificial intelligence on the other. 
@@ -249,7 +249,7 @@ Ensure there is clarity on how to act and co-operate.
 
   
 
-Beth Kanter Content Curation Primer -  [https://bethkanter.org/content-curation-101/](https://bethkanter.org/content-curation-101/)
+Beth Kanter Content Curation Primer -  [https://bethkanter.org/content-curation-101/](https://bethkanter.org/content-curation-101/)
 
   
 
@@ -714,7 +714,7 @@ Stabilization, growth, and addition of economic operating engines.
 
   
 
-Two different components of competence: 
+Two different components of competence: 
 
 1. general personality, skill set, cognition, general management, leadership skill set - which can be applied to any specific arena or general admin, yielding a certain result.
     
@@ -727,7 +727,7 @@ There are multiple components to pay
 
 1. Education
     
-2. Wisdom / Experience / Knowledge 
+2. Wisdom / Experience / Knowledge 
     
 3. Innate Ability, Personality, Skill, Cognition - to organize and apply that knowledge based on leadership ability, general management ability, etc.
     
@@ -1293,7 +1293,7 @@ We are reimagining, redesigning, and rebuilding for a new era of social and econ
 
   
 
-We are reviving and restoring the timeless Wisdom, Principles and Values that flow from God as the proper center of leadership and focus across all our endeavors, whether for-profit or non-profit. 
+We are reviving and restoring the timeless Wisdom, Principles and Values that flow from God as the proper center of leadership and focus across all our endeavors, whether for-profit or non-profit. 
 
   
 
@@ -1652,7 +1652,7 @@ Community service projects in every domain.
 
   
 
-Funding, resources, and support for local teams and communities to meet the  needs and solve the problems around them with courage and compassion. Impact measurement. Story telling.
+Funding, resources, and support for local teams and communities to meet the  needs and solve the problems around them with courage and compassion. Impact measurement. Story telling.
 
   
 
@@ -1762,7 +1762,7 @@ Things are not as fixed as they appear. Governments, corporations, etc. all seem
 
   
 
-We think government simply is the way that it is, yet the world orders rise and fall every 50 to 250 years throughout the millennia. We think that national boundaries simply are the way that they are, yet look at how they have changed in the last 100 years. These things are just ephemeral human creations that come and go. They are created by man, and are not part of the underlying Reality of the universe that we occupy. In our true universe, all is one. Everything is interexistent. All the warring nations, factions,  divisions, and denominations are those we have created out of ignorance and a lack of understanding of the Ultimate proper order of things. In Reality, we are simply one human species within one Living System, doing our best to progress in the Way.
+We think government simply is the way that it is, yet the world orders rise and fall every 50 to 250 years throughout the millennia. We think that national boundaries simply are the way that they are, yet look at how they have changed in the last 100 years. These things are just ephemeral human creations that come and go. They are created by man, and are not part of the underlying Reality of the universe that we occupy. In our true universe, all is one. Everything is interexistent. All the warring nations, factions,  divisions, and denominations are those we have created out of ignorance and a lack of understanding of the Ultimate proper order of things. In Reality, we are simply one human species within one Living System, doing our best to progress in the Way.
 
   
 
@@ -2185,7 +2185,7 @@ Book - The Art of Possibility - Zander
 
   
 
-Book - Debt by David Graber - founder of Occupy 
+Book - Debt by David Graber - founder of Occupy 
 
   
 
@@ -2209,7 +2209,7 @@ As CEO I don't need to make 250x as much as an entry level laborer.
 
 Block time for writing: You can sit here and write. You can sit here and do nothing. But you cannot do anything else.
 
-Create the environment for writing - Control the external environment.  No distractions. No discomfort. No temptations to luxuriate. Just write.
+Create the environment for writing - Control the external environment.  No distractions. No discomfort. No temptations to luxuriate. Just write.
 
 Writing in new colors - so you can look down at a glance and see how much progress you made in a day.
 
@@ -2340,7 +2340,7 @@ Spirit, Wisdom, Principles, Values determine the outcome.
 
   
 
-For the last decades, we have been hard at work as a human species co-creating  a Reality that in the end will come to look and feel like hell on earth.
+For the last decades, we have been hard at work as a human species co-creating  a Reality that in the end will come to look and feel like hell on earth.
 
   
 
@@ -2465,7 +2465,7 @@ Step 4: Convene those partners to conduct a reverse planning mastermind group - 
 
 Step 5: Strategy and Planning - pull plan from the outcome, emphasizing emergence and the unknown.
 
-Step 6: Construct MOUs and LOIs 
+Step 6: Construct MOUs and LOIs 
 
 Step 7: With the Kingdom Mindset - gather the resources and capital
 
@@ -2481,7 +2481,7 @@ There is a sacrifice - The price of the Kingdom means operating in harmony as pa
 
   
 
-First Who, Then What. 
+First Who, Then What. 
 
 Create the Conditions for Emergence.
 
@@ -2517,11 +2517,11 @@ If we begin with the end in mind, the Kingdom, on Earth as it is in Heaven, and 
 
 In this better world, we effectively
 
-- Clothe the naked 
+- Clothe the naked 
     
-- Feed the hungry 
+- Feed the hungry 
     
-- Give drink to the thirsty 
+- Give drink to the thirsty 
     
 - Care for the widows and orphans
     
@@ -2572,7 +2572,7 @@ You can have a thousand confirming evidences, but it is the one event that prove
 
   
 
-Philosopher Polanyi - The Republic of Science  [https://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf](https://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf)
+Philosopher Polanyi - The Republic of Science  [https://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf](https://sciencepolicy.colorado.edu/students/envs_5100/polanyi_1967.pdf)
 
   
 
@@ -2592,7 +2592,7 @@ Every business is a laboratory for finding new and better ways of doing things.
 
 However these breakthroughs and advancements must be shared across the total set of businesses, so that the entire ecosystem is continuously improving as a whole.
 
-The optimization and evolution must occur at the level of the species and the ecosystem. 
+The optimization and evolution must occur at the level of the species and the ecosystem. 
 
   
 
@@ -2715,7 +2715,7 @@ Three dimensional education into schooling in order to test.
 3. Applying them to create the greatest value for the world around you.
     
 
-1. (Via project based learning and quests that keep you in your zone of proximal development) 
+1. (Via project based learning and quests that keep you in your zone of proximal development) 
     
 
 5. Continuously improving.
@@ -2773,7 +2773,7 @@ Desire to contribute
 
   
 
-Von Mises human action model - all three aspects must be present for a human to act.  (1) Dissatisfaction with the present state of affairs, (2) a vision of a better state, and (3) belief that we can reach that better state / a path to get there.
+Von Mises human action model - all three aspects must be present for a human to act.  (1) Dissatisfaction with the present state of affairs, (2) a vision of a better state, and (3) belief that we can reach that better state / a path to get there.
 
 A community. A philosophy. Dedicated to the integrated development, wellbeing, and flourishing of human beings, society, and all of God's Creation.
 

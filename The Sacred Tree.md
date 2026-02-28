@@ -1,6 +1,6 @@
 # The Sacred Tree
 
-In the context of Lionsberg, **The Sacred Tree** symbolizes the co-creative superorganism of All aligned beings—**[[The Body]]**—emerging in service to [[ONE]] and [[All]]. It represents the physical and metaphysical growth of a collective united in purpose, flourishing from the fertile potential of [[The Golden Seed]].
+In the context of Lionsberg, **The Sacred Tree** symbolizes the co-creative superorganism of All aligned beings—**[[The Body]]**—emerging in service to [[ONE]] and [[All]]. It represents the physical and metaphysical growth of a collective united in purpose, flourishing from the fertile potential of [[The Golden Seed]].
 
 ## **A Metaphor for Growth and Unity**
 

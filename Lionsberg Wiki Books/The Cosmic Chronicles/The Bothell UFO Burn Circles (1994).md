@@ -102,13 +102,13 @@ The primary witness, a long-time farmer with no prior interest in UFO phenomena,
 
 - **Books:**
     
-    - Vallee, Jacques. _Confrontations: A Scientist's Search for Alien Contact._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallee, Jacques. _Confrontations: A Scientist's Search for Alien Contact._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Articles:**
     
     - UFO research group reports on the Bothell Burn Circles.
     - Soil analysis studies from the University of Washington.
 - **Documentaries:**
     
-    - _UFO Hotspots of the Pacific Northwest_ – A segment exploring the Bothell case.
+    - _UFO Hotspots of the Pacific Northwest_ – A segment exploring the Bothell case.
 

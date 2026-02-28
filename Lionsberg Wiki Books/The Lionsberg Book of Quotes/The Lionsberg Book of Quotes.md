@@ -34,7 +34,7 @@ ____
 
 "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others." - [[Nelson Mandela]]  
 
-“I for one believe that if you give people a thorough understanding of what confronts them and the basic causes that produce it, they’ll create their own program, and when the people create a program, you get action.” — [[Malcolm X]] 
+“I for one believe that if you give people a thorough understanding of what confronts them and the basic causes that produce it, they’ll create their own program, and when the people create a program, you get action.” — [[Malcolm X]] 
 
 “Human progress is neither automatic nor inevitable... Every step toward the goal of justice requires sacrifice, suffering, and struggle; the tireless exertions and passionate concern of dedicated individuals.” - [[Martin Luther King Jr.]] 
 
@@ -80,7 +80,7 @@ ____
 
 “Love is not a weak, spineless emotion; it is a powerful moral force on the side of justice.” - Bernice King
 
-“I would like to be known as a person who is concerned about freedom and equality and justice and prosperity for all people.” ― Rosa Parks
+“I would like to be known as a person who is concerned about freedom and equality and justice and prosperity for all people.” ― Rosa Parks
 
 "The true measure of any society can be found in how it treats its most vulnerable members." - [[Mahatma Gandhi]]  
 
@@ -94,8 +94,8 @@ ____
 
 “I have nothing to lose by standing up for my beliefs. So I’ll go to jail, so what? We’ve been in jail for 400 years.” — Muhammad Ali
 
-"You can't separate peace  from freedom because no one can be at peace unless he has his freedom."  
-— Malcom X 
+"You can't separate peace  from freedom because no one can be at peace unless he has his freedom."  
+— Malcom X 
 
 "There is no such thing as part freedom." - [[Nelson Mandela]]  
 
@@ -149,7 +149,7 @@ ____
 
 "Peace and justice are two sides of the same coin" - [[Dwight D. Eisenhower]]
 
-“Ours is not the struggle of one day, one week, or one year. Ours is not the struggle of one judicial appointment or presidential term. Ours is the struggle of a lifetime, or maybe even many lifetimes, and each one of us in every generation must do our part.”   
+“Ours is not the struggle of one day, one week, or one year. Ours is not the struggle of one judicial appointment or presidential term. Ours is the struggle of a lifetime, or maybe even many lifetimes, and each one of us in every generation must do our part.”   
 — John Lewis
 
 “We shall overcome because the arc of the moral universe is long but it bends toward justice.” - [[Martin Luther King Jr.]] 
@@ -186,15 +186,15 @@ ____
 
 "Each one of you has to be God’s microphone. Each one of you has to be a messenger, a prophet." - Oscar Romero
 
-I don’t want to be an anti, against anybody. I simply want to be the builder of a great affirmation: the affirmation of God, who loves us and who wants to save us." - [[Oscar Romero]]
+I don’t want to be an anti, against anybody. I simply want to be the builder of a great affirmation: the affirmation of God, who loves us and who wants to save us." - [[Oscar Romero]]
 
-"The transcendence that the church preaches is not alienation; it is not going to heaven to think about eternal life and forget about the problems on earth. It’s a transcendence from the human heart. It is entering into the reality of a child, of the poor, of those wearing rags, of the sick, of a hovel, of a shack. It is going to share with them. And from the very heart of misery, of this situation, to transcend it, to elevate it, to promote it, and to say to them, “You aren’t trash. You aren’t marginalized.” It is to say exactly the opposite, “You are valuable.”" - [[Oscar Romero]]
+"The transcendence that the church preaches is not alienation; it is not going to heaven to think about eternal life and forget about the problems on earth. It’s a transcendence from the human heart. It is entering into the reality of a child, of the poor, of those wearing rags, of the sick, of a hovel, of a shack. It is going to share with them. And from the very heart of misery, of this situation, to transcend it, to elevate it, to promote it, and to say to them, “You aren’t trash. You aren’t marginalized.” It is to say exactly the opposite, “You are valuable.”" - [[Oscar Romero]]
 
 "When I give food to the poor, they call me a saint. When I ask why they are poor, they call me a communist." - Helder Camara 
 
 "Justice at its best is love correcting everything that stands against love." - [[Martin Luther King Jr.]]
 
-“We are not to simply bandage the wounds of victims beneath the wheels of injustice, we are to drive a spoke into the wheel itself.”  - Dietrich Bonhoeffer
+“We are not to simply bandage the wounds of victims beneath the wheels of injustice, we are to drive a spoke into the wheel itself.”  - Dietrich Bonhoeffer
 
 ## Selah 9 
 
@@ -338,7 +338,7 @@ A commercial company enslaved a nation comprising two hundred millions. Tell thi
 
 New justifications have now appeared in place of the antiquated, obsolete, religious ones. These new justifications are just as inadequate as the old ones, but as they are new their futility cannot immediately be recognized by the majority of men... But by the term 'scientific' is understood just what was formerly understood by the term 'religious': just as formerly everything called 'religious' was held to be unquestionable simply because it was called religious, so now all that is called 'scientific' is held to be unquestionable. - Leo Tolstoy 
 
-Be not the destroyers of yourselves. Arise to your true Being, and then you will have nothing to fear. - Krishna 
+Be not the destroyers of yourselves. Arise to your true Being, and then you will have nothing to fear. - Krishna 
 
 People saw more and more clearly, and now the majority see quite clearly, the senselessness and immorality of subordinating their wills to those of other people just like themselves, when they are bidden to do what is contrary not only to their interests but also to their moral sense. - Leo Tolstoy 
 
@@ -388,40 +388,40 @@ God is love, and he that abideth in love abideth in God, and God abideth in him.
 
 ## Selah 15
 
-- "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, and how you can still come out of it." - **Maya Angelou**
+- "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, and how you can still come out of it." - **Maya Angelou**
     
-- "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." - **Desmond Tutu**
+- "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world." - **Desmond Tutu**
     
-- "Service to others is the rent you pay for your room here on Earth." - **Muhammad Ali**
+- "Service to others is the rent you pay for your room here on Earth." - **Muhammad Ali**
     
-- "You are not a drop in the ocean. You are the entire ocean in a drop." - **Rumi**
+- "You are not a drop in the ocean. You are the entire ocean in a drop." - **Rumi**
     
-- "If you think you are too small to make a difference, try sleeping with a mosquito." - **Dalai Lama**
+- "If you think you are too small to make a difference, try sleeping with a mosquito." - **Dalai Lama**
     
-- "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." - **Albert Einstein**
+- "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." - **Albert Einstein**
     
-- "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - **Martin Luther King Jr.**
+- "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - **Martin Luther King Jr.**
 
-- "Hope is being able to see that there is light despite all of the darkness." - **Desmond Tutu**
+- "Hope is being able to see that there is light despite all of the darkness." - **Desmond Tutu**
     
-- "The arc of the moral universe is long, but it bends toward justice." - **Theodore Parker**, popularized by **Martin Luther King Jr.**
+- "The arc of the moral universe is long, but it bends toward justice." - **Theodore Parker**, popularized by **Martin Luther King Jr.**
     
-- "You cannot swim for new horizons until you have courage to lose sight of the shore." - **William Faulkner**
+- "You cannot swim for new horizons until you have courage to lose sight of the shore." - **William Faulkner**
     
-- "A society grows great when old men plant trees in whose shade they know they shall never sit." - **Greek Proverb**
+- "A society grows great when old men plant trees in whose shade they know they shall never sit." - **Greek Proverb**
     
-- "When we are no longer able to change a situation, we are challenged to change ourselves." - **Viktor Frankl**
+- "When we are no longer able to change a situation, we are challenged to change ourselves." - **Viktor Frankl**
     
-- "The future depends on what you do today." - **Mahatma Gandhi**
+- "The future depends on what you do today." - **Mahatma Gandhi**
 
-- "No one is useless in this world who lightens the burden of another." - **Charles Dickens**
+- "No one is useless in this world who lightens the burden of another." - **Charles Dickens**
     
-- "Ubuntu: I am because we are." - **South African Proverb**
+- "Ubuntu: I am because we are." - **South African Proverb**
     
-- "The best way to find yourself is to lose yourself in the service of others." - **Mahatma Gandhi**
+- "The best way to find yourself is to lose yourself in the service of others." - **Mahatma Gandhi**
     
-- "Alone we can do so little; together we can do so much." - **Helen Keller**
+- "Alone we can do so little; together we can do so much." - **Helen Keller**
     
-- "There is no power for change greater than a community discovering what it cares about." - **Margaret J. Wheatley**
+- "There is no power for change greater than a community discovering what it cares about." - **Margaret J. Wheatley**
     
-- "We are only as strong as we are united, as weak as we are divided." - **J.K. Rowling**
+- "We are only as strong as we are united, as weak as we are divided." - **J.K. Rowling**

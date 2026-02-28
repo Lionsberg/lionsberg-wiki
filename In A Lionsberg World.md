@@ -12,38 +12,38 @@ Remember:
 If We can Imagine it, We can Co-Create it. All things are possible. 
 ## Life In A Lionsberg World  
 
-1. In a Lionsberg World, We remember that All Creation is One Interexistent Body. 
-2. In a Lionsberg World, the One (Ultimate Reality / Source / Creator / God) unites, coheres, orders, and harmonizes the Diverse Many. 
+1. In a Lionsberg World, We remember that All Creation is One Interexistent Body. 
+2. In a Lionsberg World, the One (Ultimate Reality / Source / Creator / God) unites, coheres, orders, and harmonizes the Diverse Many. 
 3. In a Lionsberg World, We are One Body, Under God, Indivisible.  
-4. In a Lionsberg World, We are All Co-Creators of our Reality.    
-5. In a Lionsberg World, We collaborate to bring the [[Creator's Intent]] into [[Reality]].   
+4. In a Lionsberg World, We are All Co-Creators of our Reality.    
+5. In a Lionsberg World, We collaborate to bring the [[Creator's Intent]] into [[Reality]].   
 6. In a Lionsberg World, We are working together in partnership with [[ONE]] and [[One Another]] to heal, regenerate and perfect our lives and our world.
 7. In a Lionsberg World, All Things are Helping One Another Rise towards the fullness of their Unique Potential and [[Flourish in Harmony]].  
-8. In a Lionsberg World, We and All Future Generations have an equal citizenship and stake in the Reality We co-create. 
-9. In a Lionsberg World, there is no “them” “out there”; there is only Us.  
+8. In a Lionsberg World, We and All Future Generations have an equal citizenship and stake in the Reality We co-create. 
+9. In a Lionsberg World, there is no “them” “out there”; there is only Us.  
 10. In a Lionsberg World, [[ONE]] integrates, orders, and coheres within Itself every [[Total Nested Hierarchy of Goods]].  
 11. In a Lionsberg World, We balance and uphold the [[Total Nested Hierarchy of Values]].  
-12. In a Lionsberg World, We advance towards the [[Total Nested Hierarchy of Goals]].  
-13. In a Lionsberg World, We confront and overcome the [[Total Nested Hierarchy of Challenges]].  
+12. In a Lionsberg World, We advance towards the [[Total Nested Hierarchy of Goals]].  
+13. In a Lionsberg World, We confront and overcome the [[Total Nested Hierarchy of Challenges]].  
 14. [[In a Lionsberg World]], there are no factions or divisions among [[Us]].  
 15. In a Lionsberg World, We [[Love]] Absolutely and Unconditionally.   
-16. In a Lionsberg World, We navigate towards Wisdom and Truth.  
-17. In a Lionsberg World, We Steward All we are entrusted with for the Good of All Current and Future Generations of Life.  
+16. In a Lionsberg World, We navigate towards Wisdom and Truth.  
+17. In a Lionsberg World, We Steward All we are entrusted with for the Good of All Current and Future Generations of Life.  
 18. In a Lionsberg World, We Understand that the entire Universe is One Commons.  
 19. In a Lionsberg World, We Understand that each [[Habitable Order]] is One Commons.  
 20. In a Lionsberg World, We Understand that each Planet is One Commons.  
 21. In a Lionsberg World, We Attune and Harmonize All things to the One [[Fundamental Vibration]] and Tone.  
 22. In a Lionsberg World, We uphold [[Justice]].  
 23. In a Lionsberg World, We vanquish [[Corruption]], [[Injustice]], and [[Oppression]] in all their forms.  
-24. In a Lionsberg World, We Play by the [[Rules Of The Game]].  
+24. In a Lionsberg World, We Play by the [[Rules Of The Game]].  
 25. In a Lionsberg World, We [[Federate Everything]] as Unique Parts of One Interexistent Whole.  
 26. In a Lionsberg World, We Strengthen and Protect the weak, the innocent, and the most vulnerable First.  
-27. In a Lionsberg World, We [[EnLighten]] and [[EnLiven]] Everything.  
-28. In a Lionsberg World, We Co-Operate as One Living Organism.  
-29. In a Lionsberg World, We Optimize for [[Balance]], [[Flow]], and [[Flourishing]]. 
-30. In a Lionsberg World, We Integrate and Cohere the [[Apparent Polarities]].  
+27. In a Lionsberg World, We [[EnLighten]] and [[EnLiven]] Everything.  
+28. In a Lionsberg World, We Co-Operate as One Living Organism.  
+29. In a Lionsberg World, We Optimize for [[Balance]], [[Flow]], and [[Flourishing]]. 
+30. In a Lionsberg World, We Integrate and Cohere the [[Apparent Polarities]].  
 31. In a Lionsberg World, We [[Balancing On The Tip Of The Needle|Balance on the Tip of the Needle]].  
-32. In a Lionsberg World, We Cultivate the Emergence and Propagation of Our [[Values]] and [[Value]].  
+32. In a Lionsberg World, We Cultivate the Emergence and Propagation of Our [[Values]] and [[Value]].  
 33. In a Lionsberg World, [[We Do Not Tolerate]] the Manifestation and Propagation of Our [[Anti-Values]] and [[Anti-Value]].  
 34. In a Lionsberg World, We Co-Create [[The Conditions]] for [[Flourishing And Abundant Life]] to Emerge. 
 35. In a Lionsberg World, We [[Curate and Celebrate what is Most Exemplary]].  

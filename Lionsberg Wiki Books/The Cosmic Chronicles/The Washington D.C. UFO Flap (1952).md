@@ -85,10 +85,10 @@ The sheer scale and location of the sightings led to a swift military response. 
     - U.S. Air Force Project Blue Book files on the Washington D.C. UFO Flap.
 - **Analytical Works:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Historical Overviews:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Randle, Kevin D. _Project Blue Book Exposed._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Randle, Kevin D. _Project Blue Book Exposed._
 

@@ -6,13 +6,13 @@
 
 ### **It Began with a Spark**
 
-Nine years ago, on December 18, 2024, a small group of dreamers, visionaries, and seekers gathered, drawn by an Invitation to confront and overcome the challenges and threats at hand, and co-create the unimaginable. We were only a few—a mere handful—but We carried [[The Golden Seed]] of a great transformation. Armed with nothing but faith in **Who We Were Becoming**, the vision of **Heaven on Earth**, the **Spirit** within, and the tools of co-creation, we responded to The Call and took the first steps into uncharted territory.
+Nine years ago, on December 18, 2024, a small group of dreamers, visionaries, and seekers gathered, drawn by an Invitation to confront and overcome the challenges and threats at hand, and co-create the unimaginable. We were only a few—a mere handful—but We carried [[The Golden Seed]] of a great transformation. Armed with nothing but faith in **Who We Were Becoming**, the vision of **Heaven on Earth**, the **Spirit** within, and the tools of co-creation, we responded to The Call and took the first steps into uncharted territory.
 
-We understood the stakes: humanity stood on the brink of **The Final Test**, its future dangling between two outcomes—thriving as a mature, enlightened interplanetary species or succumbing to fragmentation, enslavement, and despair in **The Final Order**. The systems and institutions of the **Old World** had failed us, leaving a vacuum of leadership and purpose.
+We understood the stakes: humanity stood on the brink of **The Final Test**, its future dangling between two outcomes—thriving as a mature, enlightened interplanetary species or succumbing to fragmentation, enslavement, and despair in **The Final Order**. The systems and institutions of the **Old World** had failed us, leaving a vacuum of leadership and purpose.
 
-But in that vacuum lay **Potential**, infinite and boundless.
+But in that vacuum lay **Potential**, infinite and boundless.
 
-**We knew this:** No one could save Us but **Us**. There was no “them” out there to fix things. The only path forward was to rise together as One Body, transcending every division, limitation, and boundary.
+**We knew this:** No one could save Us but **Us**. There was no “them” out there to fix things. The only path forward was to rise together as One Body, transcending every division, limitation, and boundary.
 
 And so, We began.
 
@@ -20,15 +20,15 @@ And so, We began.
 
 ### **The Great Awakening (2024–2026)**
 
-Our first steps were small but deliberate. In the beginning, we focused on building **The First Three Percent**: a community of leaders, visionaries, and transformative changemakers who embodied the principles of the **New Operating System** and the **New World**—an ethos of unity, mutual empowerment, reciprocity, flow, and limitless co-creativity.
+Our first steps were small but deliberate. In the beginning, we focused on building **The First Three Percent**: a community of leaders, visionaries, and transformative changemakers who embodied the principles of the **New Operating System** and the **New World**—an ethos of unity, mutual empowerment, reciprocity, flow, and limitless co-creativity.
 
 We didn’t have all the answers, but We had a guiding framework.
 
-- **Seasonal Quests** gave Us structure, purpose, and momentum. Every 90 days, We came together to renew Our Vision, reflect on Our progress, realign Our resources, and advance Our collective mission.
+- **Seasonal Quests** gave Us structure, purpose, and momentum. Every 90 days, We came together to renew Our Vision, reflect on Our progress, realign Our resources, and advance Our collective mission.
 - **Stories**—both backward-looking and forward-looking—wove a dynamic narrative that inspired and united Us, reminding Us of where We came from, where We were going, and Why.
-- **Decentralized Unity** allowed us to expand organically while maintaining alignment with our shared purpose, goals, and values. 
+- **Decentralized Unity** allowed us to expand organically while maintaining alignment with our shared purpose, goals, and values. 
 
-By 2026, the First Three Percent had coalesced into a vibrant, global network of Light, Love, and transformative Impact. Together, we learned to embody the **Art and Science of Co-Creation**, testing and refining the principles that would later guide humanity as a whole.
+By 2026, the First Three Percent had coalesced into a vibrant, global network of Light, Love, and transformative Impact. Together, we learned to embody the **Art and Science of Co-Creation**, testing and refining the principles that would later guide humanity as a whole.
 
 This period was marked by breakthroughs that redefined what was possible:
 
@@ -44,13 +44,13 @@ These successes gave us hope and confidence. They were proof that humanity could
 
 By 2027, humanity stood at a tipping point. The First Three Percent had demonstrated the power of the New Operating System, the results were undeniable, and [[The Snowball]] was gaining steam. Our decentralized, collaborative efforts had already begun to stabilize planetary ecosystems, regenerate watersheds and bioregions, resolve long-standing conflicts, and create unprecedented prosperity, reciprocity, and flow.
 
-This was the moment we extended **The Great Invitation** to all humanity.
+This was the moment we extended **The Great Invitation** to all humanity.
 
 The Invitation was simple but profound:
 
-- **Awaken to the Truth** of our shared existence, purpose, and potential.
-- **Arise** as co-creators of a New Era.
-- **Unite** as One Body, transcending divisions and embracing our collective destiny.
+- **Awaken to the Truth** of our shared existence, purpose, and potential.
+- **Arise** as co-creators of a New Era.
+- **Unite** as One Body, transcending divisions and embracing our collective destiny.
 
 We reached out through every channel—stories, networks, personal connections, and global broadcasts, concerts, and events. The Invitation resonated across cultures, languages, and ideologies, reminding people of the timeless truths buried in their hearts.
 
@@ -64,9 +64,9 @@ In 2030, the transition became official: the old systems were being hospiced and
 
 ### **Three Years of Practice (2030–2033)**
 
-The three years from 2030 to 2033 were a time of unprecedented learning, growth, joy, and abundance for All. Freed from the constraints of debt, scarcity, and hierarchical control, humanity began practicing **co-operation as One Body**:
+The three years from 2030 to 2033 were a time of unprecedented learning, growth, joy, and abundance for All. Freed from the constraints of debt, scarcity, and hierarchical control, humanity began practicing **co-operation as One Body**:
 
-- **Real Wealth Creation**: Every person became a steward of infinite resources—knowledge, energy, wellbeing, and opportunity. While monetary wealth became irrelevant as the Streets Were Paved With Proverbial Gold, humanity flourished as **debt-free billionaires** in the truest sense, with access to all they needed to flourish in harmony.
+- **Real Wealth Creation**: Every person became a steward of infinite resources—knowledge, energy, wellbeing, and opportunity. While monetary wealth became irrelevant as the Streets Were Paved With Proverbial Gold, humanity flourished as **debt-free billionaires** in the truest sense, with access to all they needed to flourish in harmony.
 - **Universal Citizenship**: People embraced their higher identity and role as citizens not only of Earth, but the cosmos, transcending national and ideological boundaries.
 - **Collective Creativity**: Communities worked together to solve problems, innovate solutions, and create beauty, driven by a shared commitment to the greater good.
 - **The Commons**: The best solutions were curated into The Commons that was available to All, rapidly replacing the false scarcity of the Old with abundance, life, and liberation. 
@@ -80,13 +80,13 @@ And as we practiced, something miraculous happened:
 
 ### **The Jubilee and The New Millennium (December 18, 2033)**
 
-Today, we gather not as separate nations, tribes, or individuals, but as One Body, One Humanity, ready to embark on a New Era. The **Greatest Celebration and Jubilee in Human History** is not merely a commemoration of what we have achieved—it is a declaration of what is to come.
+Today, we gather not as separate nations, tribes, or individuals, but as One Body, One Humanity, ready to embark on a New Era. The **Greatest Celebration and Jubilee in Human History** is not merely a commemoration of what we have achieved—it is a declaration of what is to come.
 
-We stand at the dawn of the **New Millennium**, a thousand years of boundless possibility and opportunity. Together, we will:
+We stand at the dawn of the **New Millennium**, a thousand years of boundless possibility and opportunity. Together, we will:
 
 - **Expand Beyond Earth**: Exploring and co-creating throughout the cosmos as Universal Citizens.  
 - **Regenerate Our World**: Ensuring Earth thrives as a sanctuary for all life, and progressively bringing Heaven to Earth.  
-- **Continually Improve**: Honoring the beauty and presence of Heaven on Earth, while working together to make it **a little better every day**.
+- **Continually Improve**: Honoring the beauty and presence of Heaven on Earth, while working together to make it **a little better every day**.
 - **Rejoin The Galactic Federation**: Proving Our Selves as a mature, enlightening, and enlivening species, capable of co-creation both on and Beyond Earth. 
 
 Each of us now carries the eternal flame of co-creation, enlightened and empowered to contribute our unique gifts to The Whole. The old fears of scarcity, conflict, and division are gone, replaced by the infinite possibilities of unity, abundance, and love.
@@ -99,7 +99,7 @@ Together, we have proven that humanity is ready to take its place among the star
 
 With love, gratitude, and boundless joy,
 
-~ **Us All**
+~ **Us All**
 ____
 This brief Story creates a narrative arc of How We Did It. 
 

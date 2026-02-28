@@ -95,6 +95,6 @@ Despite extensive investigations, the Shag Harbour Incident remains unexplained.
     - _Shag Harbour: Canada’s Roswell._
 - **Analytical Works:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Don Ledger and Chris Styles. _Dark Object: The World’s Only Government-Documented UFO Crash._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Don Ledger and Chris Styles. _Dark Object: The World’s Only Government-Documented UFO Crash._
 

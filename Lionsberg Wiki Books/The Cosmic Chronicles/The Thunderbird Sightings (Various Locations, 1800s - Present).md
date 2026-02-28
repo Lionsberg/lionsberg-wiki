@@ -90,14 +90,14 @@ Thunderbird reports persisted into the 20th and 21st centuries, with notable sig
 
 - **Books:**
     
-    - Newton, Michael. _Encyclopedia of Cryptozoology: A Global Guide to Hidden Animals and Their Pursuers._
-    - Coleman, Loren. _Mysterious America: The Ultimate Guide to the Nation's Weirdest Wonders._
+    - Newton, Michael. _Encyclopedia of Cryptozoology: A Global Guide to Hidden Animals and Their Pursuers._
+    - Coleman, Loren. _Mysterious America: The Ultimate Guide to the Nation's Weirdest Wonders._
 - **Articles:**
     
     - Reports on Thunderbird sightings in Illinois, Alaska, and Texas.
     - Analyses of Indigenous Thunderbird mythology and its cultural significance.
 - **Documentaries and Media:**
     
-    - _Cryptid Chronicles: Thunderbirds_ – A detailed exploration of sightings and their connections to Native American legends.
-    - _Monsters of the Skies_ – Investigations into large flying cryptids, including the Thunderbird.
+    - _Cryptid Chronicles: Thunderbirds_ – A detailed exploration of sightings and their connections to Native American legends.
+    - _Monsters of the Skies_ – Investigations into large flying cryptids, including the Thunderbird.
 

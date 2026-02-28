@@ -1,6 +1,6 @@
 # Meditation 26
 
-Victory is won through Practice and Progress. 
+Victory is won through Practice and Progress. 
 
 ___
 

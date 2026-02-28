@@ -109,13 +109,13 @@ After nearly an hour of pursuit, the object reportedly gained altitude and vanis
 
 - **Books:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Articles:**
     
     - UFO reports filed by Trumbull County law enforcement.
     - Analyses of police dispatch recordings.
 - **Documentaries:**
     
-    - _UFOs: The Trumbull County Incident_ – A detailed exploration of the case and its implications.
+    - _UFOs: The Trumbull County Incident_ – A detailed exploration of the case and its implications.
 

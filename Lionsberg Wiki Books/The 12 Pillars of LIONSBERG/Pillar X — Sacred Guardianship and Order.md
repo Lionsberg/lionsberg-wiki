@@ -34,29 +34,29 @@ This pillar calls for a new kind of Sacred Warrior—one trained not only in def
 
 ### **12 Theses of Sacred Security and Proper Order**
 
-1. **Peace Is a Consequence of Justice, Truth, and Right Relationship** — not mere silence or control.
+1. **Peace Is a Consequence of Justice, Truth, and Right Relationship** — not mere silence or control.
     
-2. **Security Is a Sacred Trust** — to protect the innocent, the sacred, the commons, and the future.
+2. **Security Is a Sacred Trust** — to protect the innocent, the sacred, the commons, and the future.
     
-3. **True Order Reflects the Logos** — it arises from harmony, not hierarchy; integrity, not imposition.
+3. **True Order Reflects the Logos** — it arises from harmony, not hierarchy; integrity, not imposition.
     
-4. **Every Being Has a Right to Be Safe** — in body, mind, spirit, home, community, and world.
+4. **Every Being Has a Right to Be Safe** — in body, mind, spirit, home, community, and world.
     
-5. **Inner Security Is the Foundation of Outer Security** — without self-mastery, no peace can endure.
+5. **Inner Security Is the Foundation of Outer Security** — without self-mastery, no peace can endure.
     
-6. **The Role of the Warrior Is Sacred** — to stand between Life and threat, embodying courage, wisdom, and restraint.
+6. **The Role of the Warrior Is Sacred** — to stand between Life and threat, embodying courage, wisdom, and restraint.
     
-7. **Conflict Must Be Transmuted, Not Ignored** — through honest dialogue, restoration, and if necessary, righteous defense.
+7. **Conflict Must Be Transmuted, Not Ignored** — through honest dialogue, restoration, and if necessary, righteous defense.
     
-8. **Force Is a Last Resort, Never a First Strategy** — and must always be aligned with Love, Law, and Right Use.
+8. **Force Is a Last Resort, Never a First Strategy** — and must always be aligned with Love, Law, and Right Use.
     
-9. **Surveillance and Coercion Are Symptoms of Broken Trust** — true security arises from transparency and relationship.
+9. **Surveillance and Coercion Are Symptoms of Broken Trust** — true security arises from transparency and relationship.
     
-10. **Guardianship Must Be Decentralized and Localized** — with communities empowered to steward their own protection.
+10. **Guardianship Must Be Decentralized and Localized** — with communities empowered to steward their own protection.
     
-11. **Proper Order Requires Strong Systems of Restorative Justice** — not punishment, but reconciliation, truth-telling, and healing.
+11. **Proper Order Requires Strong Systems of Restorative Justice** — not punishment, but reconciliation, truth-telling, and healing.
     
-12. **The Goal Is a World in Which All Are Safe to Flourish** — a planetary civilization of Right Relationship, dignity, and mutual trust.
+12. **The Goal Is a World in Which All Are Safe to Flourish** — a planetary civilization of Right Relationship, dignity, and mutual trust.
     
 
 ---

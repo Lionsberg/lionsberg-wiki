@@ -307,7 +307,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 28. John Schull - via [[Camara Cassin]] 
 29. John P. Milton - via Camara Cassin
 30. Terry Mollner - Kinship Earth Flow Fund ++ - via [[George Orbelian]]  
-31. Willem Ferwerda - COMMONLAND (practical execution) - via Scott Broomfield 
+31. Willem Ferwerda - COMMONLAND (practical execution) - via Scott Broomfield 
 32. Yarrow Kramer - The Hatch Experience and Hatch 360 (network and tech) - via Scott Broomfield 
 33. Scott Vineberg - by [[Jordan]] via [[Zachary Marlow]] and Benjamin Life 
 34. Benjamin Life 

@@ -14,31 +14,31 @@ The study of cryptids offers a unique lens into humanity's relationship with the
 
 #### **Humanoid Cryptids**
 
-- **Bigfoot/Sasquatch:** Large, ape-like creatures reportedly inhabiting forests, particularly in North America.
-- **Mothman:** A winged humanoid creature associated with the Silver Bridge collapse in Point Pleasant, West Virginia.
-- **The Jersey Devil:** A cryptid said to inhabit the Pine Barrens of New Jersey, described as a flying, hoofed creature.
+- **Bigfoot/Sasquatch:** Large, ape-like creatures reportedly inhabiting forests, particularly in North America.
+- **Mothman:** A winged humanoid creature associated with the Silver Bridge collapse in Point Pleasant, West Virginia.
+- **The Jersey Devil:** A cryptid said to inhabit the Pine Barrens of New Jersey, described as a flying, hoofed creature.
 
 #### **Aquatic Cryptids**
 
-- **Loch Ness Monster:** A large, serpentine creature reported in Scotland’s Loch Ness, often referred to as "Nessie."
-- **Champ:** A lake monster believed to inhabit Lake Champlain in North America.
-- **Globsters:** Unidentified masses of organic material, often mistaken for sea monsters, washing ashore on beaches.
+- **Loch Ness Monster:** A large, serpentine creature reported in Scotland’s Loch Ness, often referred to as "Nessie."
+- **Champ:** A lake monster believed to inhabit Lake Champlain in North America.
+- **Globsters:** Unidentified masses of organic material, often mistaken for sea monsters, washing ashore on beaches.
 
 #### **Winged Cryptids**
 
-- **Thunderbird:** Massive bird-like creatures from Native American legends, occasionally reported in modern sightings.
-- **Ahool:** A large, bat-like cryptid reportedly seen in Java, Indonesia.
+- **Thunderbird:** Massive bird-like creatures from Native American legends, occasionally reported in modern sightings.
+- **Ahool:** A large, bat-like cryptid reportedly seen in Java, Indonesia.
 
 #### **Terrestrial Cryptids**
 
-- **Chupacabra:** A blood-sucking cryptid often reported in Latin America and the southern United States.
-- **The Beast of Bodmin Moor:** A phantom wildcat allegedly roaming the moors of Cornwall, England.
-- **Dogman:** A wolf-like cryptid sighted in various parts of the United States.
+- **Chupacabra:** A blood-sucking cryptid often reported in Latin America and the southern United States.
+- **The Beast of Bodmin Moor:** A phantom wildcat allegedly roaming the moors of Cornwall, England.
+- **Dogman:** A wolf-like cryptid sighted in various parts of the United States.
 
 #### **Interdimensional or Paranormal Cryptids**
 
-- **Skinwalkers:** Shapeshifting beings from Navajo lore, often associated with Skinwalker Ranch.
-- **The Dover Demon:** A small, humanoid cryptid with glowing eyes, sighted in Dover, Massachusetts.
+- **Skinwalkers:** Shapeshifting beings from Navajo lore, often associated with Skinwalker Ranch.
+- **The Dover Demon:** A small, humanoid cryptid with glowing eyes, sighted in Dover, Massachusetts.
 
 ---
 
@@ -103,9 +103,9 @@ The study of cryptids offers a unique lens into humanity's relationship with the
 ### **Further Reading**
 
 - **Books and Articles:**
-    - Coleman, Loren. _Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature._
-    - Heuvelmans, Bernard. _On the Track of Unknown Animals._
+    - Coleman, Loren. _Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature._
+    - Heuvelmans, Bernard. _On the Track of Unknown Animals._
 - **Documentaries:**
-    - _The Mothman Prophecies_ (2002).
-    - _Finding Bigfoot_ (2011–2018).
+    - _The Mothman Prophecies_ (2002).
+    - _Finding Bigfoot_ (2011–2018).
 

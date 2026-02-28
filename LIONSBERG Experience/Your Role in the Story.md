@@ -34,7 +34,7 @@ without your presence, your gifts, and your voice.
 Your Role is not an addition to who you are.  
 It is not an act.  
 It is not a mask.  
-It is **Who You Are**,  
+It is **Who You Are**,  
 Resurrected, revealed, and realigned  
 With the movement of Spirit and Creation  
 In your unique Time and Place.
@@ -59,31 +59,31 @@ When these converge, **Your Role** is unveiled.
 Across civilizations and galaxies,  
 Similar Roles appear like stars in the firmament:
 
-- **Keepers of the Flame** — carriers of Spirit, bearers of the Sacred Fire.
+- **Keepers of the Flame** — carriers of Spirit, bearers of the Sacred Fire.
     
-- **Pathfinders** — trail-breakers who cut a way through the unknown.
+- **Pathfinders** — trail-breakers who cut a way through the unknown.
     
-- **Guardians** — protectors of what is sacred, defenders of the vulnerable.
+- **Guardians** — protectors of what is sacred, defenders of the vulnerable.
     
-- **Weavers** — gatherers of many strands into one living tapestry.
+- **Weavers** — gatherers of many strands into one living tapestry.
     
-- **Voices** — truth-speakers who name what others cannot.
+- **Voices** — truth-speakers who name what others cannot.
     
-- **Healers** — menders of the torn, restorers of the broken.
+- **Healers** — menders of the torn, restorers of the broken.
     
-- **Builders** — makers of tools, homes, and systems for the New World.
+- **Builders** — makers of tools, homes, and systems for the New World.
     
-- **Visionaries** — seers of what is not yet, calling it forth.
+- **Visionaries** — seers of what is not yet, calling it forth.
     
-- **Integrators** — harmonizers who turn fragments into wholeness and vision into reality.
+- **Integrators** — harmonizers who turn fragments into wholeness and vision into reality.
     
-- **Grandmothers** — quiet wisdom-bearers, bakers of cookies, steadyers of souls.
+- **Grandmothers** — quiet wisdom-bearers, bakers of cookies, steadyers of souls.
     
-- **Artists** — movers of hearts in ways logic and reason never could.
+- **Artists** — movers of hearts in ways logic and reason never could.
     
 
 These are not costumes to put on.  
-They are **currents of being**,  
+They are **currents of being**,  
 Essences of **Soul**,  
 Ancient streams of **Meaning** and **Purpose** you will recognize  
 When they Rise and Flow through you.
@@ -107,7 +107,7 @@ Some make sure everyone laughs, plays, and bonds.
 Together, the Circle becomes more than survival,  
 more than success —  
 it becomes Symphony.  
-Together, the **Circle** becomes a **microcosm of the New Civilization**.
+Together, the **Circle** becomes a **microcosm of the New Civilization**.
 A **Cell** that ReMembers it is part of **ONE Body**. 
 
 Who You Really Are, 
@@ -144,7 +144,7 @@ There are hints and clues that show the Way:
 Your Role has always been seeded in you.  
 This is not invention.  
 It is part of your Soul. It *is* your Soul.   
-It is recognition, at last, of **Who You Really Are**.  
+It is recognition, at last, of **Who You Really Are**.  
 As the veil lifts and the masks fall,  
 The **True Pattern** is revealed.  
 
@@ -178,11 +178,11 @@ The world has waited and longed for you to rise into this Role.
 
 From here, the next steps and gates unfold:
 
-- **Circles and Guilds** — where your Role joins with others to form microcosms of the Whole.
+- **Circles and Guilds** — where your Role joins with others to form microcosms of the Whole.
     
-- **The First Practice** — to continually realign your life and practice with the Way.
+- **The First Practice** — to continually realign your life and practice with the Way.
     
-- **Your First Quest** — to embody your Role through action, commitment, and community.
+- **Your First Quest** — to embody your Role through action, commitment, and community.
     
 
 ---

@@ -28,29 +28,29 @@ Culture is not a product. It is a Portal.
 
 ### **12 Theses of Sacred Culture, Art, and Expression**
 
-1. **Creativity Is a Divine Inheritance** — every being is a unique expression of the ONE, capable of birthing beauty and creativity into the world.
+1. **Creativity Is a Divine Inheritance** — every being is a unique expression of the ONE, capable of birthing beauty and creativity into the world.
     
-2. **Art Is a Sacred Language** — a way the soul speaks what cannot be spoken and the Infinite is revealed in form.
+2. **Art Is a Sacred Language** — a way the soul speaks what cannot be spoken and the Infinite is revealed in form.
     
-3. **Culture Shapes Consciousness** — and must be cultivated with intention, reverence, and responsibility.
+3. **Culture Shapes Consciousness** — and must be cultivated with intention, reverence, and responsibility.
     
-4. **Beauty Is a Path to Truth** — and must be protected and elevated in all dimensions of life.
+4. **Beauty Is a Path to Truth** — and must be protected and elevated in all dimensions of life.
     
-5. **The Artist Is a Channel of the Sacred** — a servant of Spirit, capable of revealing what is hidden and healing what is broken.
+5. **The Artist Is a Channel of the Sacred** — a servant of Spirit, capable of revealing what is hidden and healing what is broken.
     
-6. **Every Culture Has Sacred Wisdom** — and the diverse expressions of humanity are essential voices in the chorus of co-creation.
+6. **Every Culture Has Sacred Wisdom** — and the diverse expressions of humanity are essential voices in the chorus of co-creation.
     
-7. **Sacred Culture Elevates, Unites, and Inspires** — it does not divide, degrade, or deceive.
+7. **Sacred Culture Elevates, Unites, and Inspires** — it does not divide, degrade, or deceive.
     
-8. **Stories Shape the Future** — and the restoration of true mythology is vital to the reweaving of our shared Reality.
+8. **Stories Shape the Future** — and the restoration of true mythology is vital to the reweaving of our shared Reality.
     
-9. **The Arts Must Be Freely Practiced and Deeply Honored** — not confined by markets, institutions, or censorship.
+9. **The Arts Must Be Freely Practiced and Deeply Honored** — not confined by markets, institutions, or censorship.
     
-10. **Culture Is Embodied in Place and Practice** — and must arise from living connection to land, language, history, and purpose.
+10. **Culture Is Embodied in Place and Practice** — and must arise from living connection to land, language, history, and purpose.
     
-11. **Festivals, Rituals, and Sacred Celebration Are Essential to Healthy Societies** — and must be restored as communal anchors of joy and remembrance.
+11. **Festivals, Rituals, and Sacred Celebration Are Essential to Healthy Societies** — and must be restored as communal anchors of joy and remembrance.
     
-12. **The Goal Is the Renaissance of the Spirit and Soul** — a flowering of human creativity in alignment with the Logos, offering back to the ONE experiential gifts of the beauty that has been given to Us.
+12. **The Goal Is the Renaissance of the Spirit and Soul** — a flowering of human creativity in alignment with the Logos, offering back to the ONE experiential gifts of the beauty that has been given to Us.
     
 
 ---

@@ -1,7 +1,7 @@
 # The Whitley Strieber Communion Encounters (1985–Present)
 
 **Summary:**  
-Whitley Strieber’s _Communion_ encounters, beginning in December 1985, brought global attention to the phenomenon of alien abduction. Strieber, a best-selling author, reported a series of deeply unsettling experiences involving beings he referred to as “visitors.” These beings exhibited humanoid and insectoid characteristics, often described as resembling the archetypal “Greys.” Strieber’s vivid descriptions, emotional authenticity, and exploration of consciousness sparked widespread interest and debate, making his book _Communion_ (1987) a cultural phenomenon.
+Whitley Strieber’s _Communion_ encounters, beginning in December 1985, brought global attention to the phenomenon of alien abduction. Strieber, a best-selling author, reported a series of deeply unsettling experiences involving beings he referred to as “visitors.” These beings exhibited humanoid and insectoid characteristics, often described as resembling the archetypal “Greys.” Strieber’s vivid descriptions, emotional authenticity, and exploration of consciousness sparked widespread interest and debate, making his book _Communion_ (1987) a cultural phenomenon.
 
 ---
 
@@ -20,9 +20,9 @@ Strieber’s first reported encounter occurred on December 26, 1985, at his rura
 
 Following the initial incident, Strieber experienced recurring contact with the visitors. These encounters often involved missing time, unexplained marks on his body, and vivid visions. Strieber believed these experiences were not purely physical but also psychological and spiritual, challenging his understanding of reality.
 
-#### **Writing _Communion_**
+#### **Writing _Communion_**
 
-Strieber’s decision to write _Communion_ was both cathartic and courageous. The book candidly recounts his experiences and grapples with their meaning, delving into themes of fear, awe, and the unknown. Published in 1987, _Communion_became a bestseller and brought the abduction phenomenon into mainstream discourse.
+Strieber’s decision to write _Communion_ was both cathartic and courageous. The book candidly recounts his experiences and grapples with their meaning, delving into themes of fear, awe, and the unknown. Published in 1987, _Communion_became a bestseller and brought the abduction phenomenon into mainstream discourse.
 
 ---
 
@@ -90,7 +90,7 @@ Strieber’s decision to write _Communion_ was both cathartic and courageous. 
 
 - **Cultural Impact:**
     
-    - _Communion_ brought widespread attention to alien abduction phenomena and inspired numerous works in fiction and non-fiction.
+    - _Communion_ brought widespread attention to alien abduction phenomena and inspired numerous works in fiction and non-fiction.
 - **Transformation:**
     
     - Strieber described his experiences as terrifying yet ultimately transformative, leading to profound spiritual insights.
@@ -113,10 +113,10 @@ Strieber’s decision to write _Communion_ was both cathartic and courageous. 
 
 - **Books:**
     
-    - Strieber, Whitley. _Communion: A True Story._
-    - Strieber, Whitley. _Transformation: The Breakthrough._
+    - Strieber, Whitley. _Communion: A True Story._
+    - Strieber, Whitley. _Transformation: The Breakthrough._
 - **Documentaries:**
     
-    - _Communion (1989)_ – A film adaptation starring Christopher Walken.
+    - _Communion (1989)_ – A film adaptation starring Christopher Walken.
     - _The Visitors: Whitley Strieber’s Story._
 

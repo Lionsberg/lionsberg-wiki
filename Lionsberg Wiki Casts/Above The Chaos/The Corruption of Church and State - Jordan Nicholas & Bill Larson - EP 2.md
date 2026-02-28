@@ -35,11 +35,11 @@ If you resonate, please show your support!
 **Podcast Links**: 
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)   
-- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
-- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
 - [Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
@@ -48,17 +48,17 @@ Our host Jordan Nicholas and attorney and advisor Bill Larson discuss corruption
 
 **Timestamps**:
 
-- 00:00 Generosity  
-- 04:18 Painful experiences  
-- 08:28 How would you define trust?  
-- 12:48 People are good deceivers  
-- 16:21 Give the other guy first chance to screw me  
-- 22:42 Motive and ability  
-- 28:27 What is our responsibility relative to structures?  
-- 35:10 We’re here on this earth to...  
-- 39:04 Building a better world  
-- 49:20 How do you develop patience in people?  
-- 1:03:07 Lionsberg experiments  
+- 00:00 Generosity  
+- 04:18 Painful experiences  
+- 08:28 How would you define trust?  
+- 12:48 People are good deceivers  
+- 16:21 Give the other guy first chance to screw me  
+- 22:42 Motive and ability  
+- 28:27 What is our responsibility relative to structures?  
+- 35:10 We’re here on this earth to...  
+- 39:04 Building a better world  
+- 49:20 How do you develop patience in people?  
+- 1:03:07 Lionsberg experiments  
 - 1:10:46 Bringing people together  
 
 **Key Concepts and Ideas**:  
@@ -98,7 +98,7 @@ We are also planning here in the next weeks to be filing personal bankruptcy to 
 
 And so that's a little bit of the process. So as we learned last time, Bill's an attorney that I've been working with a wise, creative, strategic advisor, that's been walking with me through this process over the last five years. And so we're going to try to. Wisely navigate into some waters here today and publicly discuss a little bit of our story and our encounters and what we've all learned through the way.
 
-So with that, I will pass the baton back to Bill and Bill, thanks again for being here for this interesting and difficult conversation to attempt to have today. Appreciate it. 
+So with that, I will pass the baton back to Bill and Bill, thanks again for being here for this interesting and difficult conversation to attempt to have today. Appreciate it. 
 
 Bill Larson: Yeah. Thank you, Jordan. It's good to be here. And sometimes our conversations take a turn into elements and pathways that are painful.
 
@@ -116,7 +116,7 @@ I have to blame myself for choosing to get involved with them or for missing som
 
 Over a million dollars over the course of two years, and I was left holding the bag. But later, as I started to explore my own codependency and even went for some counseling, I realized that I had my part. I had trusted him, and I wondered, then, why did I trust him? And that led me down a pathway of self discovery that I wouldn't exchange for anything.
 
-It allowed me to align with some of the things my wife has gone through and we together can share a common language of codependency and some of the manifestations of that in different organizations and in different relationships. So simply, how would you define trust? 
+It allowed me to align with some of the things my wife has gone through and we together can share a common language of codependency and some of the manifestations of that in different organizations and in different relationships. So simply, how would you define trust? 
 
 Jordan Nicholas: Trust
 
@@ -124,7 +124,7 @@ feels something like a condition that arises or can be present between two agent
 
 There's a popular book called The Speed of Trust. So it's almost like a, it's like an element or a lubricant in a system that allows certain functions to occur based on mutual regard and understanding about purpose, intention, rules of the game, codes of conduct, what we're here to do together and why that enables us to be able to work together in ways that are far less.
 
-Guarded, transactional, and far more unified and cooperative. When my 
+Guarded, transactional, and far more unified and cooperative. When my 
 
 Bill Larson: daughter was a very little girl, we taught her to be generous. And then we would try to help homeless people, and then we had to teach her how to discern whether someone was just scamming or not. That was a hard one. I didn't want her to teach her to be isolated and stingy.
 
@@ -186,7 +186,7 @@ Anyway, those are some thoughts on trust and so there seems to be
 
 a, a whole basket of social functions and responsibilities that are presently missing in our society that are allowing all these corrupt officials to function. And I'm not speaking specifically about our story. I'm speaking about the patterning of society at large, but obviously we're just seeing.
 
-abject corruption throughout so many institutions and there's something really wrong there. 
+abject corruption throughout so many institutions and there's something really wrong there. 
 
 Bill Larson: You're talking about time frames and proving oneself as elements in the development of trust equation. And I'm sure anyone who's ever been a supervisor understands how somebody who is working for them or within their team needs to be proven to the extent that you know whether they can, are able to do something.
 
@@ -204,7 +204,7 @@ That's a whole nother subject, getting people to be transparent. Let's deal with
 
 Do you have a duty to take the hit and move on? Alternatively, what if he becomes obsessed? And you're trying to get even. How do you sort the emotions of that out? And where does trying to get even cease being helpful? See what I'm saying? Yeah, absolutely. You've got to get rid of the emotions before you can actually confront a system.
 
-Because if you're looking for vindication and revenge, something's going to go awry. But yeah, we have to call leaders to account. Let's talk about that a little bit. 
+Because if you're looking for vindication and revenge, something's going to go awry. But yeah, we have to call leaders to account. Let's talk about that a little bit. 
 
 Jordan Nicholas: This is where I think the proper mode of being and all these things can only be understood relative to our feeble attempts to as faithfully as we can embody something like the spirit of God.
 
@@ -284,7 +284,7 @@ So if you would like to remain in this meeting you're going to change. And if th
 
 It's like, how did we come to tolerate? The total possession of the institutions we look to, to trust, to hope will lead and guide us faithfully onward towards the goal. How did we tolerate them becoming totally possessed by whatever, whatever you want to call parasitical forces that abuse positions of power for their own self interested gain.
 
-Malevolence, I don't think is too strong of a word, but it's that's, it's the spirit that's antithetical to the Spirit of God. I've been, 
+Malevolence, I don't think is too strong of a word, but it's that's, it's the spirit that's antithetical to the Spirit of God. I've been, 
 
 Bill Larson: I worked in higher education for several years. I was general counsel for a private university. And I saw waste, injustice, abuse of power. At a very interesting level.
 
@@ -302,7 +302,7 @@ Anarchy leads to rioting and false solutions. But people are frustrated because 
 
 So let's talk about how do you take this, the pain, the legitimate anger, the sense of injustice in seeing something done wrong, seeing something oppress people, seeing something that's. allowed to persist because so many people are simply tacitly approving it. And how do you Make, bring change into the, into this world of high inertia.
 
-How do you develop patience in people? 
+How do you develop patience in people? 
 
 Jordan Nicholas: There's a to respond to a couple of different parts of that. The way that you don't become possessed by hate is to hate evil out of love, right? There's a in scripture, you find things like God hates those who sow division among the brothers. God hates evil, right?
 
@@ -318,9 +318,9 @@ Because my healthcare, my salary, my family's wellbeing, maybe my position in so
 
 I think that 99 percent of Americans now know that both political parties are abjectly corrupt and collusive and leading us in terrible directions, and neither one can fit, and if God hates those who are deceitful and sow division among the brethren, then two parties Openly deceiving and using propaganda to tear a nation apart are probably hateful in the sight of God.
 
-So let's say that 99 percent of us know that now, and I don't think when I was young, I don't think we knew that. I think the people around me who were in good faith, clinging to whatever, it was good faith, we didn't know. But now we know, right? 
+So let's say that 99 percent of us know that now, and I don't think when I was young, I don't think we knew that. I think the people around me who were in good faith, clinging to whatever, it was good faith, we didn't know. But now we know, right? 
 
-Bill Larson: While you're searching for the next word, I have to make this one comment. Please. I did. resist the deceptions and the manipulations and I got fired for it. Yeah. For three and a half years. And it, and then I discovered there was a whole community of people who have been fired because they got in the president's way, 
+Bill Larson: While you're searching for the next word, I have to make this one comment. Please. I did. resist the deceptions and the manipulations and I got fired for it. Yeah. For three and a half years. And it, and then I discovered there was a whole community of people who have been fired because they got in the president's way, 
 
 Jordan Nicholas: the best people, it's the same thing with, yeah, it's the same thing with the county.
 
@@ -400,19 +400,19 @@ And then you work in from each side. It's so that thousand is going to pull one 
 
 And so it's but you ignore that. It doesn't matter. You don't have to figure out how you're gonna win the hearts and minds of the last 1 percent until you've won the hearts and minds of the first 99%. And to do that, all you have to do is just win the hearts and minds of those around us who we think might resonate with this and who are fed up and won't tolerate the way things are and are committed to working together and sacrificing to bring forth a better future for our children and grandchildren, their grandchildren.
 
-That's a long answer to how I think we might get working together. 
+That's a long answer to how I think we might get working together. 
 
 Bill Larson: That's a good note to end on because it's the note that kind of raises questions for the next set of talks. And one of them is, how do you build something that doesn't re establish a power structure that can be co opted once again?
 
 And and that kind of points back towards Mondragon and different examples. They've done something that doesn't create a power structure that can be co opted. And what we've analyzed and built and pr proposed over the past several years, I think for people who are interested. That's going to be an interesting discussion.
 
-Anyways, thanks Jordan. Great talk today. 
+Anyways, thanks Jordan. Great talk today. 
 
 Jordan Nicholas: Yeah, absolutely.
 
-Do you have Do you have another 10 minutes? Can we pull a couple more threads? Or do you need to bounce? 
+Do you have Do you have another 10 minutes? Can we pull a couple more threads? Or do you need to bounce? 
 
-Bill Larson: Yeah, I have a little more time. 
+Bill Larson: Yeah, I have a little more time. 
 
 Jordan Nicholas: I want to
 

@@ -26,9 +26,9 @@ Dr. Lincoln LaPaz, an astrophysicist specializing in meteors, was tasked with st
 
 #### **Notable Incidents**
 
-- **February 1949:** Multiple witnesses reported a large green fireball hovering over Los Alamos before accelerating at an incredible speed.
-- **September 1950:** A green fireball was observed over Sandia Base, performing maneuvers that no known aircraft of the time could replicate.
-- **1952:** A classified Air Force investigation into the phenomenon was initiated under Project Twinkle. Despite efforts to capture photographic evidence, the project yielded inconclusive results.
+- **February 1949:** Multiple witnesses reported a large green fireball hovering over Los Alamos before accelerating at an incredible speed.
+- **September 1950:** A green fireball was observed over Sandia Base, performing maneuvers that no known aircraft of the time could replicate.
+- **1952:** A classified Air Force investigation into the phenomenon was initiated under Project Twinkle. Despite efforts to capture photographic evidence, the project yielded inconclusive results.
 
 #### **Public and Scientific Reaction**
 
@@ -99,14 +99,14 @@ The Green Fireballs sparked widespread speculation, ranging from secret military
 
 - **Books:**
     
-    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
-    - Friedman, Stanton. _Top Secret/Majic._
+    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
+    - Friedman, Stanton. _Top Secret/Majic._
 - **Articles:**
     
     - Declassified Project Twinkle reports detailing observations and investigations.
     - Analyses of Lincoln LaPaz’s contributions to meteorology and UFO studies.
 - **Documentaries:**
     
-    - _UFOs and Nukes_ – Explores the connection between unidentified phenomena and nuclear sites.
-    - _Phenomena: The Green Fireballs_ – A detailed look at the 1948–1955 events.
+    - _UFOs and Nukes_ – Explores the connection between unidentified phenomena and nuclear sites.
+    - _Phenomena: The Green Fireballs_ – A detailed look at the 1948–1955 events.
 

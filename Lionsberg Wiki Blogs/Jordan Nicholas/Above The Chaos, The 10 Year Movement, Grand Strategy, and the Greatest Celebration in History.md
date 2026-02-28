@@ -70,19 +70,19 @@ We can now see that we are not alone, and that lifetimes of work and preparation
 
 ## Timing  
 
-1. Last 7 years: governance, legal, systems, technology, and network foundations; tech testing with ~400+ groups in ~50+ countries.  
-2. March to June 2024: Complete the first 8 to 10 [[Lionsberg Cycles of Growth]], identifying and onboarding the first 55 to 144 [[Lionsberg Co-Creators]].  
+1. Last 7 years: governance, legal, systems, technology, and network foundations; tech testing with ~400+ groups in ~50+ countries.  
+2. March to June 2024: Complete the first 8 to 10 [[Lionsberg Cycles of Growth]], identifying and onboarding the first 55 to 144 [[Lionsberg Co-Creators]].  
 3. June: Respond to the Kogi and other first nations with [[The Lionsberg Strategy and Plan]] to heal and generate society and the earth. 
-4. Early July: Convene the first [[Quarterly Summit]]; 10 to 30 individuals sync on the [[10 Year Grand Strategy]], initiate the [[System Wide Master Planning Process]], and pull-plan Q3 objectives 
-5. July – September: Complete the next several cycles of growth, identifying and orienting representatives from each bioregion and critical domain, and forging a functioning cabinet / executive function prior to the first [[Lionsberg General Assembly]] in late September. 
+4. Early July: Convene the first [[Quarterly Summit]]; 10 to 30 individuals sync on the [[10 Year Grand Strategy]], initiate the [[System Wide Master Planning Process]], and pull-plan Q3 objectives 
+5. July – September: Complete the next several cycles of growth, identifying and orienting representatives from each bioregion and critical domain, and forging a functioning cabinet / executive function prior to the first [[Lionsberg General Assembly]] in late September. 
 	1. Cycle 11: 233 Co-Creators  
 	2. Cycle 12: 377 Co-Creators  
 	3. Cycle 13: 610 Co-Creators  
 	4. Cycle 14: 987 Co-Creators (0.00001%)   
 	5. Cycle 15: 1,597 Co-Creators  
-6. Late September: First General Assembly, ~ 140 to 400 representatives from bioregions / tribes / nations. Ratify [[The Grand Strategy]] and [[The Governance System]] for [[The Grand Collaboration]]  
-7. October: Massive planetary scale outreach / awareness (Rick Lukens et al, drawing on Live Aid for inspiration) 
-8. November: Sweep an independent candidate, cabinet, and aligned governors into office in the US. Write in candidate with front and back end citizen-led auditing / quality assurance process.    
+6. Late September: First General Assembly, ~ 140 to 400 representatives from bioregions / tribes / nations. Ratify [[The Grand Strategy]] and [[The Governance System]] for [[The Grand Collaboration]]  
+7. October: Massive planetary scale outreach / awareness (Rick Lukens et al, drawing on Live Aid for inspiration) 
+8. November: Sweep an independent candidate, cabinet, and aligned governors into office in the US. Write in candidate with front and back end citizen-led auditing / quality assurance process.    
 9. 2025 and beyond – 10 year grand strategy to heal and regenerate society and the planet. If one of “Us” is in the executive function in the US, it makes the path a LOT easier. And it is entirely possible.
 
 ## Everyone's Most Important Job 

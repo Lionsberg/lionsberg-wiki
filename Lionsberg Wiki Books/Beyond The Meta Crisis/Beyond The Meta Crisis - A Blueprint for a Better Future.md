@@ -5,7 +5,7 @@ By [[Jordan Nicholas Sukut]]
 ## Section I: Introduction 
 
 #### [[0.1 About the Architect]]  
-#### [[0.2 Orientation ]] 
+#### [[0.2 Orientation]] 
 #### [[0.3 Abstract]] 
 
 ### Chapter 1: The Meta Crisis
@@ -116,15 +116,15 @@ By [[Jordan Nicholas Sukut]]
 ### Chapter 15: Introduction to the New Vision and Plan 
 
 #### [[15.1 The need for a new vision and plan for humanity]]
-#### [[15.2 The purpose of the New Vision and Plan ]]
+#### [[15.2 The purpose of the New Vision and Plan]]
 #### [[15.3 The key elements of the New Vision and Plan]]
 
 ### Chapter 16: The New Vision and Plan 
 
 #### [[16.1 The principles and values that guide the New Vision and Plan]] 
-#### [[16.2 The goals of the New Vision and Plan ]]
+#### [[16.2 The goals of the New Vision and Plan]]
 #### [[16.3 The scope and scale of the New Vision and Plan]]  
-#### [[16.4 The strategies of the New Vision and Plan ]] 
+#### [[16.4 The strategies of the New Vision and Plan]] 
 #### 16.5 The Components of the New Vision and Plan  
 ##### [[16.5.1 Economic Justice and Reform]] 
 ##### [[16.5.2 Social Justice and Reform]] 

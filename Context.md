@@ -17,19 +17,19 @@ Despite many heroic efforts to create groups, technologies, networks, organizati
 
 ### Response
 
-Organizations like the [[United Nations]] have taken first steps towards articulating the grand challenges we are facing, and identifying shared global goals. 
+Organizations like the [[United Nations]] have taken first steps towards articulating the grand challenges we are facing, and identifying shared global goals. 
 
-Yet at this unique moment in history when we need to work together to solve these crises, we find ourselves in a fragmented and dysfunctional social and political environment. 
+Yet at this unique moment in history when we need to work together to solve these crises, we find ourselves in a fragmented and dysfunctional social and political environment. 
 
-Governments, individuals, foundations, non-profits and impact organizations of all types are spending hundreds of billions of dollars and volunteering billions of hours every year in attempts to solve these problems, 
+Governments, individuals, foundations, non-profits and impact organizations of all types are spending hundreds of billions of dollars and volunteering billions of hours every year in attempts to solve these problems, 
 
-Yet despite the heroic efforts of individuals and organizations around the globe, many of these organizations are running inefficiently in parallel, lacking the coordination and transparency needed for the true systemic transformation that is required. 
+Yet despite the heroic efforts of individuals and organizations around the globe, many of these organizations are running inefficiently in parallel, lacking the coordination and transparency needed for the true systemic transformation that is required. 
 
 Additionally, reductionist institutional and ideological structures are creating a persistent culture of division, disparity, and possessiveness that threatens the future of humanity.
 
 ### The Opportunity 
 
-History has shown us that when we work together, we can achieve seemingly impossible things. We have built cities, roadways, spacecraft, and technologies that have influenced every aspect of culture and commerce. We have shifted global consciousness and revolutionized structures of human rights, dignity, and governance. 
+History has shown us that when we work together, we can achieve seemingly impossible things. We have built cities, roadways, spacecraft, and technologies that have influenced every aspect of culture and commerce. We have shifted global consciousness and revolutionized structures of human rights, dignity, and governance. 
 
 Whether it’s building infrastructure, sending a rover to Mars, putting a man on the moon, or vanquishing corruption and injustice, success at this scale requires world class networks, coordination, logistics, and training.
 

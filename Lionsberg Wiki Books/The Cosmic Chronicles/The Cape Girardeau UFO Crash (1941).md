@@ -91,6 +91,6 @@ The Cape Girardeau crash was largely forgotten until Mann’s revelations in the
     - _The Cape Girardeau UFO Crash: Early Encounters with the Unknown._
 - **Analytical Works:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Friedman, Stanton. _Top Secret/Majic._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Friedman, Stanton. _Top Secret/Majic._
 

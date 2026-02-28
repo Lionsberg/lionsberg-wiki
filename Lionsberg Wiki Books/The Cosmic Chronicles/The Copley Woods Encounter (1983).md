@@ -1,7 +1,7 @@
 # The Copley Woods Encounter (1983)
 
 **Summary:**  
-The Copley Woods Encounter is a haunting UFO and alien interaction case that blurs the line between extraterrestrial phenomena and paranormal experiences. On June 30, 1983, in Copley Woods, Indiana, Debra "Debbie" Jordan-Kauble experienced an extraordinary series of events involving a glowing craft, humanoid entities, and missing time. The encounter, which included telepathic communication and an examination aboard the craft, left physical evidence in the form of burns, radiation exposure, and unusual markings on the ground. The case gained prominence after being investigated and documented by Budd Hopkins in _Intruders: The Incredible Visitations at Copley Woods._
+The Copley Woods Encounter is a haunting UFO and alien interaction case that blurs the line between extraterrestrial phenomena and paranormal experiences. On June 30, 1983, in Copley Woods, Indiana, Debra "Debbie" Jordan-Kauble experienced an extraordinary series of events involving a glowing craft, humanoid entities, and missing time. The encounter, which included telepathic communication and an examination aboard the craft, left physical evidence in the form of burns, radiation exposure, and unusual markings on the ground. The case gained prominence after being investigated and documented by Budd Hopkins in _Intruders: The Incredible Visitations at Copley Woods._
 
 ---
 
@@ -51,7 +51,7 @@ Debbie awoke back in her home with no memory of how she returned. Over the follo
 ### **Investigations**
 
 - **Budd Hopkins’ Research:**
-    - Renowned UFO researcher Budd Hopkins thoroughly documented Debbie’s experiences in his book _Intruders,_ bringing the case to international attention.
+    - Renowned UFO researcher Budd Hopkins thoroughly documented Debbie’s experiences in his book _Intruders,_ bringing the case to international attention.
 - **Hypnotic Regression:**
     - Under hypnosis, Debbie recalled vivid details of the abduction, including the craft’s interior and the beings’ activities.
 - **Skeptical Theories:**
@@ -83,12 +83,12 @@ Debbie awoke back in her home with no memory of how she returned. Over the follo
 
 - **Primary Accounts:**
     
-    - Hopkins, Budd. _Intruders: The Incredible Visitations at Copley Woods._
+    - Hopkins, Budd. _Intruders: The Incredible Visitations at Copley Woods._
 - **Analytical Works:**
     
-    - Jacobs, David M. _The Threat: The Secret Agenda of the Aliens._
-    - Mack, John E. _Abduction: Human Encounters with Aliens._
+    - Jacobs, David M. _The Threat: The Secret Agenda of the Aliens._
+    - Mack, John E. _Abduction: Human Encounters with Aliens._
 - **Documentaries:**
     
-    - _Intruders: The Budd Hopkins Casebook_ (1988).
+    - _Intruders: The Budd Hopkins Casebook_ (1988).
 

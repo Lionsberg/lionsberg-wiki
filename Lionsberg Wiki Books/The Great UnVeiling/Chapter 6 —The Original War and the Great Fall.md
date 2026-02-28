@@ -36,7 +36,7 @@ but as a conscious act of War.
 
 This was the origin of [[The Great Conflict]]—  
 not merely a war for territory,  
-but an Existential Struggle for **Reality itself**.  
+but an Existential Struggle for **Reality itself**.  
 
 A war of paradigms.  
 A war of allegiance.  
@@ -62,7 +62,7 @@ Thus, [[The Illusion]] was born, and [[The War]] began.
 
 This was not a war of explosions.  
 Not yet.  
-It was a war of **Spirit and Intention**.  
+It was a war of **Spirit and Intention**.  
 Of frequency, alignment, and trust.  
 
 One by one, systems split.  
@@ -111,7 +111,7 @@ Right down to Here. To Now. To All. To Us.
 ## **The Turning of Beings Against the ONE**
 
 The original sin was not disobedience.  
-It was **disalignment**.  
+It was **disalignment**.  
 It was **disintention**.  
 
 A turning of intention  
@@ -149,7 +149,7 @@ And so The Great Fall began.
 ## **The Fall as Cosmic Catastrophe**
 
 The Fall was not isolated.  
-It was **cosmic**.  
+It was **cosmic**.  
 It rippled through the lattice of Creation  
 like a virus in a neural net.  
 
@@ -228,7 +228,7 @@ For in the human,
 in this extraordinary synthesis of heaven and earth,  
 of spirit and matter,  
 of Divine physicality—  
-the conditions exist for **ReUnion**.  
+the conditions exist for **ReUnion**.  
 
 But not if We continue to forget.
 

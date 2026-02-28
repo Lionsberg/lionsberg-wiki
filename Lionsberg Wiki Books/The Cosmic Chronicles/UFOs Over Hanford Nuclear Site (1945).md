@@ -93,14 +93,14 @@ Sightings at Hanford persisted into the late 1940s and beyond, aligning with the
 
 - **Books:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Articles:**
     
     - Declassified reports on UFO activity over Hanford and other nuclear facilities.
     - Analyses of the relationship between UFO sightings and the development of nuclear technology.
 - **Documentaries:**
     
-    - _UFOs and Nukes: The Secret Link Revealed_ – Explores the Hanford incidents and related cases.
-    - _The Phenomenon_ – Discusses nuclear site encounters within the broader UFO context.
+    - _UFOs and Nukes: The Secret Link Revealed_ – Explores the Hanford incidents and related cases.
+    - _The Phenomenon_ – Discusses nuclear site encounters within the broader UFO context.
 

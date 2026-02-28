@@ -2,7 +2,7 @@
 
 Per ChatGPT
 
-**Paul Hellyer (1923–2021)** was a Canadian politician, engineer, and public servant best known for his outspoken advocacy on UFOs, extraterrestrial presence, and global issues. Serving as **Canada's Minister of National Defence** during the 1960s, Hellyer had a distinguished political career before becoming one of the most prominent figures in the UFO disclosure movement.
+**Paul Hellyer (1923–2021)** was a Canadian politician, engineer, and public servant best known for his outspoken advocacy on UFOs, extraterrestrial presence, and global issues. Serving as **Canada's Minister of National Defence** during the 1960s, Hellyer had a distinguished political career before becoming one of the most prominent figures in the UFO disclosure movement.
 
 ---
 
@@ -26,18 +26,18 @@ Hellyer’s transition from traditional politics to UFO disclosure advocacy bega
 
 #### **1. UFOs Are Real**
 
-- Hellyer declared publicly that **UFOs are real**, stating that governments worldwide have long known of their existence but have suppressed the information.
+- Hellyer declared publicly that **UFOs are real**, stating that governments worldwide have long known of their existence but have suppressed the information.
 - He often cited evidence from military and intelligence sources, as well as declassified documents, to support his claims.
 
 #### **2. Extraterrestrial Presence**
 
-- Hellyer asserted that **extraterrestrials have been visiting Earth for millennia** and continue to do so today.
+- Hellyer asserted that **extraterrestrials have been visiting Earth for millennia** and continue to do so today.
 - He suggested that multiple species of extraterrestrials exist, some of whom are concerned about humanity’s environmental and military activities.
 
 #### **3. Government Secrecy**
 
-- Hellyer accused world governments, particularly the United States, of **orchestrating a systematic cover-up** of the extraterrestrial presence.
-- He alleged that advanced technologies derived from extraterrestrial contact, such as **zero-point energy**, are being withheld from the public.
+- Hellyer accused world governments, particularly the United States, of **orchestrating a systematic cover-up** of the extraterrestrial presence.
+- He alleged that advanced technologies derived from extraterrestrial contact, such as **zero-point energy**, are being withheld from the public.
 
 #### **4. Global Issues**
 
@@ -50,11 +50,11 @@ Hellyer’s transition from traditional politics to UFO disclosure advocacy bega
 
 #### **2005 Disclosure**
 
-- At the **Exopolitics Symposium** in Toronto, Hellyer became the first high-ranking former government official of a G8 country to openly declare his belief in extraterrestrials and call for public disclosure.
+- At the **Exopolitics Symposium** in Toronto, Hellyer became the first high-ranking former government official of a G8 country to openly declare his belief in extraterrestrials and call for public disclosure.
 
 #### **Statements on Species**
 
-- Hellyer claimed there are over **80 species of extraterrestrials**, including:
+- Hellyer claimed there are over **80 species of extraterrestrials**, including:
     - **Tall Whites**: Allegedly involved in covert interactions with governments.
     - **Nordics**: A benevolent race concerned with Earth’s welfare.
     - **Grays**: Often associated with abduction phenomena.

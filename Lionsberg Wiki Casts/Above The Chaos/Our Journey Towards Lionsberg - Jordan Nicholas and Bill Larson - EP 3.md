@@ -35,11 +35,11 @@ X Link  - Coming Soon
 **Podcast Links**: 
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)   
-- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
-- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
 - [Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
@@ -86,7 +86,7 @@ Our host Jordan Nicholas and attorney Bill Larson share stories and background o
 
 ### Rough Transcript  - Auto Generated and Unedited - Contains Errors 
 
-Bill Larson: So we're marching through town, and when the people saw us coming, they just divided like the Red Sea parting. And we walked right up to the barricades. The was on a square. We walked past everybody, and the police opened the barricades. And we walked right up to the steps of the Parliament and waiting at the top was a woman who happened to be the Chief Legal Counsel to Parliament. she was the consultant on their new Constitution. And they were just debating it. So we were invited to come in. 
+Bill Larson: So we're marching through town, and when the people saw us coming, they just divided like the Red Sea parting. And we walked right up to the barricades. The was on a square. We walked past everybody, and the police opened the barricades. And we walked right up to the steps of the Parliament and waiting at the top was a woman who happened to be the Chief Legal Counsel to Parliament. she was the consultant on their new Constitution. And they were just debating it. So we were invited to come in. 
 
 Everybody knew that the revolution had just, kicked off and it was getting dangerous and people were fleeing Iran. This is in the late summer, early fall of 78. And Herb comes up and he says, Bill, I just want you to know it is never more spiritual to stay than to flee. And he turns and walks away. Okay, whatever that means. And so I went to Iran and it was hard to get there. ​
 
@@ -116,9 +116,9 @@ And, of course, I... Didn't speak any Bulgarian I could read a few signs and rea
 
 And, then we left. Now, one of our Team members was an attorney, Roger Sherard, from Washington State. And later, I went and moved my family up to Washington and got admitted in the Washington Bar and I worked with Roger. And then years later, I ended up moving back to Southern California. And finally, word came down, this is years later, Roger shared what had happened. Because he had become friends with a few people in the current ruling party at that time, this is years later. And the guy who had decided to follow Jesus, in that classroom, with the flies buzzing around, the windows open to the street, and the sounds of shouting, and sirens, He had become a prominent lawyer and he had become the legal counsel to the ruling party. And it turns out that once they took power, they went into the secret archives and opened them up. And there were notes that had been left there by generals and party communist officials, former officials who wanted to take back power, They were planning a coup. And they had said, we have to foment some kind of a, an insurrection in order to justify rolling in with weapons and heavy equipment. And so they were counting on the students because they had plans in the student organizations. They were counting on the students to riot, and that would give them pretext. But we found out that when the students, massed by the thousands, saw Americans looking like Harvard doo dah parade guys, they thought we were election observers. And they decided, oh, let's not riot. Let's just see what happens. Maybe the Constitution will pass and we'll get what we want. So they stayed quiet. And these frustrated generals had nothing. to link their coup to. And so this guy had found this information and he was quite prominent. He, let it be known to different people, especially people who had been involved way back then. That's
 
-Jordan Nicholas: Amazing. 
+Jordan Nicholas: Amazing. 
 
-Bill Larson: you, never know where, if you're at the right place at the right time, you don't even know if you're at the right place at the 
+Bill Larson: you, never know where, if you're at the right place at the right time, you don't even know if you're at the right place at the 
 
 Jordan Nicholas: Yeah. Okay, so you ended up being able to travel around and and teach and speak at a very interesting and, crucial time and see some of those, tensions and forces. Tell me briefly about about being in Iran at the, Iran, excuse me, at the time of the revolution.
 
@@ -164,11 +164,11 @@ And then they would say, This guy's never been here before. They'd say, what is 
 
 We have a big place, plenty of room. I said thank you. My hand, my foot touches the ground. And I went, I stayed with them. And then we get into the terminal and they say, Oh, by the way, they give you a piece of paper. It looks like nothing much. It has a little stamp on it. They said you can't get out of the country if you don't keep that in your passport.
 
-So I thanked them for the info. I didn't know any of that stuff. So I stick in my passport, go to their house. Eventually I do, I hear the gunshots and all that at night. Make it on a flight down to Isfahan and it was with my friends. I ended up teaching violin in the Armenian quarter. Walking past tanks to get to the house, so that was an adventure that taught me, you, if there's something at the heart of what you do that is deep, that is, that calls you out to something way beyond yourself, you just gotta pay attention to that. I 
+So I thanked them for the info. I didn't know any of that stuff. So I stick in my passport, go to their house. Eventually I do, I hear the gunshots and all that at night. Make it on a flight down to Isfahan and it was with my friends. I ended up teaching violin in the Armenian quarter. Walking past tanks to get to the house, so that was an adventure that taught me, you, if there's something at the heart of what you do that is deep, that is, that calls you out to something way beyond yourself, you just gotta pay attention to that. I 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
-Bill Larson: I, God's hand was on me, 
+Bill Larson: I, God's hand was on me, 
 
 Jordan Nicholas: yeah, I wanted to take time for a few of those stories. They, Bill alluded to three different amazing times in his life where he was at the point of societies in transformation, let's say post the fall of the Berlin Wall during the Iranian Revolution and then in the on the ground experiments with his family of trying to forge a Different kind of community and way of life and freedom and autonomy and community all, all at the same time.
 
@@ -264,9 +264,9 @@ Why didn't I just let it go at the time? I would have still prospered. But a lot
 
 One author says it's the last bastion of colonialism is philanthropy. There's truth in that.
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
-Bill Larson: So. 
+Bill Larson: So. 
 
 Jordan Nicholas: too quick threads to pick up. One of the things that we've talked about through the years as a continual theme is the idea of charity versus justice and so much of what we see and or see and think of and philanthropy is charity that's merely treating the outer symptoms that arise because we're not being just at the core.
 
@@ -330,15 +330,15 @@ It's just before COVID when we went, and I learned that, and you can correct me 
 
 They'd only laid off 65 people in all those years. And that, you might correct my number, but the idea, Of how do you run a business? I've heard people say this isn't a charity here. I'm, entitled. I worked hard for this. I'm entitled to this. There's so many things that just, they're commonly heard, but they're not analyzed.
 
-For example, someone says, Oh, that person doesn't have a job. They're homeless. They should just get a job. I've heard that comment a lot. If you believed that, if you've been laid off by a corporation that didn't value more than as an economic producing unit, and the moment they couldn't pay the top brass their they laid off people at the bottom so they could afford their bonuses at the top, if you knew that, which people know that, you had, went through hard times, and You, your wife left you because of economic reasons, and you hit the bottle, and now you're an alcoholic, and you don't know what to do. And someone says, get a job, you're disillusioned. What do 
+For example, someone says, Oh, that person doesn't have a job. They're homeless. They should just get a job. I've heard that comment a lot. If you believed that, if you've been laid off by a corporation that didn't value more than as an economic producing unit, and the moment they couldn't pay the top brass their they laid off people at the bottom so they could afford their bonuses at the top, if you knew that, which people know that, you had, went through hard times, and You, your wife left you because of economic reasons, and you hit the bottle, and now you're an alcoholic, and you don't know what to do. And someone says, get a job, you're disillusioned. What do 
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
-it's... 
+it's... 
 
 Bill Larson: with a company like that, again?
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
 there... There's this deep, there's this deep, I think, differentiation. If we look at it from as close to the perspective of God as we can possibly grapple with, knowing that we can't see it from there, but we're looking down on an entire Planet or on an entire ecosystem and contained in that is an entire society and contained in that society are a bunch of communities and, the treatment, the elevation and transformation of all of those different layers from the individual to the family, to the local community, to society to the planet and living system that has to cooperate And sustain and regenerate through millennia, all of those levels have to be stacked up in a line.
 
@@ -394,9 +394,9 @@ And although it's really deep, and although it's really difficult, and although 
 
 But if at the same time, the way we're doing that is causing. Our society and planet and government and economy and monetary systems to be so corrupted that they're actively collapsing before our eyes. What can we do then to start falling back and rediscovering that timeless, this timeless wisdom and principles and values that cause people, families, communities.
 
-Eco environments to flourish, and how can we start to instantiate and act that out? 
+Eco environments to flourish, and how can we start to instantiate and act that out? 
 
-Bill Larson: Well, 
+Bill Larson: Well, 
 
 Jordan Nicholas: go ahead, bill.
 
@@ -408,13 +408,13 @@ But people don't think of what it just said. If you're gonna have, if you're gon
 
 But when you consider that it was the creator of the universe being quoted as saying, this is your responsibility. That raises this question. If I'm accountable to see that everything continues to live, then what does that involve? How do I do that? That involves how did God make all this?
 
-Jordan Nicholas: Okay, so 
+Jordan Nicholas: Okay, so 
 
-Bill Larson: of it? 
+Bill Larson: of it? 
 
-Jordan Nicholas: Exactly 
+Jordan Nicholas: Exactly 
 
-Bill Larson: follow along with this? 
+Bill Larson: follow along with this? 
 
 Jordan Nicholas: Okay. So That's the key flip. That's the key flip is to responsibility and accountability. This has been one of the other like key themes that came up throughout our. Throughout our grappling with structures that we came to understand were inherently corrupt and likely malevolent and had repeated, had demonstrated repeatedly, repeated willingness to afflict families.
 
@@ -456,9 +456,9 @@ Jordan Nicholas: because that's what God has entrusted us with, like back to the
 
 It's our responsibility and That gets us back to maybe the only solution being something like unity under God Bill asked the question in one of our in one of our quarterly retreats a while ago He asked the question, what's the one thing we were maybe talking about the technology industry at the time, and then we brought in the question, but it's like, what's the one thing that everyone thinks is impossible, but if it could be accomplished, every other domino would fall.
 
-Everything else would become possible and all the advice of scripture and logic and everything seems to be that unity. Under God, with properly ordered responsibility and authority distributed among us, we the people, 
+Everything else would become possible and all the advice of scripture and logic and everything seems to be that unity. Under God, with properly ordered responsibility and authority distributed among us, we the people, 
 
-Bill Larson: each taking a deep responsibility 
+Bill Larson: each taking a deep responsibility 
 
 Jordan Nicholas: for and authority over. The domains that we've been entrusted with and working tirelessly to conform our own selves, our own spirits to the will and intention of God, while working together to conform our different domains to reflect the will and intention of God.
 
@@ -504,11 +504,11 @@ Jordan Nicholas: Spent so much time in stories that we are not going to get into
 
 Begging us, beckoning us, desiring to gather us together and to partner with us to co create the best possible future we could ever hope for. And that requires each of us becoming conscious agents who are aligned in spirit and intention with God. And once we meet in that place as one under the will and intention of God.
 
-All of these other structures and politics and political parties and all that stuff just like fades away and you realize, Oh, my gosh, this is a giant corrupt mess. 
+All of these other structures and politics and political parties and all that stuff just like fades away and you realize, Oh, my gosh, this is a giant corrupt mess. 
 
-Bill Larson: solutions are going to be 
+Bill Larson: solutions are going to be 
 
-Jordan Nicholas: out of it. What are we doing over here to connect to unite ourselves and to start progressing to meet every need and solve every problem and capture every opportunity is at hand, not blaming or looking to anyone else, but making that we that's united under God enough. 
+Jordan Nicholas: out of it. What are we doing over here to connect to unite ourselves and to start progressing to meet every need and solve every problem and capture every opportunity is at hand, not blaming or looking to anyone else, but making that we that's united under God enough. 
 
 Bill Larson: enough.
 
@@ -530,9 +530,9 @@ And that's what you and I did for years. We would wrestle with these things. We 
 
 problem and is willing to get to the roots.
 
-That's the key. What is 
+That's the key. What is 
 
-Jordan Nicholas: Exactly. 
+Jordan Nicholas: Exactly. 
 
 Bill Larson: comes from? The word radix, which we're going to get radical, that comes from radix in the Greek and it means root. It's not abandoning and just becoming disassociated, it's saying let's get back to the roots. What is at the root here? What is the cause here?
 
@@ -556,21 +556,21 @@ Then we have to figure out how we stack up and align our work together and so th
 
 And some of us are unwilling to pass that burden to future generations. When things are bad, the time to address them is now because problems don't age well. And every day, we're seeing more and more revelation of the abject corruption and how far off track society is. And our mission is to bring people together to...
 
-Set things back in order from that deepest possible place. That is the only thing that can cure the symptoms we're facing. 
+Set things back in order from that deepest possible place. That is the only thing that can cure the symptoms we're facing. 
 
-Bill Larson: So, 
+Bill Larson: So, 
 
 Jordan Nicholas: if that's interesting to you, we'd like to structurally connect to go to www. jordannicholas. org and click join the movement. That'll make sure you're getting consistent communications from us which will not be as consistent on social media or other places.
 
 We'll be doing our best to wrap those communications a couple times a month, keep everybody in the loop. And then we'll start structurally connecting people via some of the infrastructure and technology that we've built, if you're interested in that. So we hope it's of service. We hope you're delighted as you learn more about it.
 
-And bill, thank 
+And bill, thank 
 
-Bill Larson: thank you for being on 
+Bill Larson: thank you for being on 
 
-Jordan Nicholas: for 
+Jordan Nicholas: for 
 
-Bill Larson: for round three. And obviously a round four is 
+Bill Larson: for round three. And obviously a round four is 
 
 Jordan Nicholas: and infrastructure and technology that we built in response to years of grappling with these deep questions. So thanks again for being here. And I'll look forward to seeing you on here, Bill, again, and all for everybody listening.
 

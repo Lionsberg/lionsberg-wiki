@@ -102,8 +102,8 @@ The incident gained widespread attention after it was leaked to the press. Terau
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - Declassified FAA documents detailing the radar analysis of the encounter.
@@ -111,5 +111,5 @@ The incident gained widespread attention after it was leaked to the press. Terau
     - Bruce Mackabee of US Navy writes up 26 page document on the incident - https://en.wikipedia.org/wiki/Bruce_Maccabee 
 - **Documentaries:**
     
-    - _The JAL 1628 UFO Encounter_ – A deep dive into the events and their implications.
+    - _The JAL 1628 UFO Encounter_ – A deep dive into the events and their implications.
 

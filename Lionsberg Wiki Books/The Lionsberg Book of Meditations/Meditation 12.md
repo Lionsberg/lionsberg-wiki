@@ -1,6 +1,6 @@
 # Meditation 12
 
-We must honestly and forthrightly discover and do what we have been sent to Earth to do. 
+We must honestly and forthrightly discover and do what we have been sent to Earth to do. 
 
 ___
 

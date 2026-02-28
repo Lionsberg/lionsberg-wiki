@@ -49,7 +49,7 @@ and the True New World begins to shimmer into view.
 This is not theory.  
 This is not metaphor.  
 This is not ideology.  
-This is _The Great Disclosure._
+This is _The Great Disclosure._
 
 The tearing of The Veil.
 

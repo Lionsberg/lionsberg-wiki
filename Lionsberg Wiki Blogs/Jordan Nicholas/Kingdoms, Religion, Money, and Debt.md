@@ -51,7 +51,7 @@ The idea that kingship, religious systems, and economic systems may have extrate
 ### **4. Hindu and Vedic Texts: The Devas and Asuras**
 
 - **Celestial Beings in Governance**:  
-    The Hindu pantheon includes **Devas** (gods) and **Asuras** (demons), both of whom interacted with humanity. Texts like the Mahabharata and Ramayana describe flying vehicles (vimanas) and battles in the heavens.
+    The Hindu pantheon includes **Devas** (gods) and **Asuras** (demons), both of whom interacted with humanity. Texts like the Mahabharata and Ramayana describe flying vehicles (vimanas) and battles in the heavens.
     
 - **Kingship as Cosmic Mandate**:  
     Rulers like Rama and Krishna were seen as incarnations of divine beings, with their rule considered a reflection of celestial order. Their governance was tied to dharma (cosmic law).
@@ -65,7 +65,7 @@ The idea that kingship, religious systems, and economic systems may have extrate
 ### **5. Dogon Tribe of Mali: The Nommo**
 
 - **Extraterrestrial Origin of Knowledge**:  
-    The Dogon people of Mali have intricate knowledge of Sirius B, a star invisible to the naked eye, which they claim was imparted by amphibian-like beings called the **Nommo**.
+    The Dogon people of Mali have intricate knowledge of Sirius B, a star invisible to the naked eye, which they claim was imparted by amphibian-like beings called the **Nommo**.
     
 - **Kingship and Divine Teachings**:  
     The Nommo were said to have introduced social structures, agriculture, and religious rituals to the Dogon people. Their teachings formed the foundation of governance and economy.
@@ -79,7 +79,7 @@ The idea that kingship, religious systems, and economic systems may have extrate
 ### **6. Chinese Mythology: The Celestial Emperors**
 
 - **Heavenly Mandate**:  
-    Ancient Chinese dynasties claimed the "Mandate of Heaven," a divine right to rule. Myths of the **Yellow Emperor**(Huangdi) and other celestial rulers describe their descent from the heavens to establish order and governance.
+    Ancient Chinese dynasties claimed the "Mandate of Heaven," a divine right to rule. Myths of the **Yellow Emperor**(Huangdi) and other celestial rulers describe their descent from the heavens to establish order and governance.
     
 - **Advanced Knowledge**:  
     The Yellow Emperor is credited with introducing writing, medicine, and technology, often described in terms that resemble extraterrestrial intervention.
@@ -107,7 +107,7 @@ The idea that kingship, religious systems, and economic systems may have extrate
 ### **8. Biblical Accounts: Nephilim and the Watchers**
 
 - **The Watchers and Giants**:  
-    In the Book of Enoch and Genesis 6:1-4, the **Watchers** (angelic beings) descend to Earth, interbreed with humans, and produce the Nephilim (giants). These beings were seen as rulers and bringers of forbidden knowledge.
+    In the Book of Enoch and Genesis 6:1-4, the **Watchers** (angelic beings) descend to Earth, interbreed with humans, and produce the Nephilim (giants). These beings were seen as rulers and bringers of forbidden knowledge.
     
 - **Kingship in Ancient Israel**:  
     The Bible describes kings like David and Solomon as chosen by God, reflecting the belief that rulers served as intermediaries between heaven and Earth.

@@ -15,7 +15,7 @@ ______
 
 # 🧭 COMPREHENSIVE WIKI ARCHITECTURE
 
-### — _The Living Interface to the New Civilization_ —
+### — _The Living Interface to the New Civilization_ —
 
 *The LIONSBERG Wiki is a living library, training ground, and pattern language for the co-creation of a New Civilization in harmony with Logos and Creator's Intent. Here you will find the Invitation, the Grand Strategy, the Way, and the tools to journey together from the Old World to the New.*  
 
@@ -45,7 +45,7 @@ ______
     
 - [[Overview of the Movement’s DNA and Ethics]]    
     
-- [[How to Begin Your Journey]] _(Links to first practice, first circle, first quest)_
+- [[How to Begin Your Journey]] _(Links to first practice, first circle, first quest)_
     
 - [[Printable Orientation Poster]] — shareable analog copy.
     
@@ -368,7 +368,7 @@ ______
 
 ___
 
-🌱 **Next Step:** Form your circle. Begin your first Seasonal Quest. Share the Invitation.  
+🌱 **Next Step:** Form your circle. Begin your first Seasonal Quest. Share the Invitation.  
 You are the living bridge between the Old and the New. 🦁
 
 
@@ -377,33 +377,33 @@ ____
 
 # THE LIONSBERG WIKI
 
-**Welcome to the Bridge Between Civilizations.** We are honored by your presence here.
+**Welcome to the Bridge Between Civilizations.** We are honored by your presence here.
 
-You have arrived at a crucial nexus, a threshold where the 10 billion paths of human destiny converge and the invitation to ascend into the [[New World]] is extended to [[All]]. The journey begins here and now with **The First Three Percent**, but it is destined to ripple out across all of humanity, and beyond, to the farthest reaches of Our InterExistence.
+You have arrived at a crucial nexus, a threshold where the 10 billion paths of human destiny converge and the invitation to ascend into the [[New World]] is extended to [[All]]. The journey begins here and now with **The First Three Percent**, but it is destined to ripple out across all of humanity, and beyond, to the farthest reaches of Our InterExistence.
 
-As articulated in **[[The Story of LIONSBERG]]**, this moment—this system, this process—is not unique to Earth or the human species. While it is true that **[[The War]]** on Earth now approaches its climactic peak, and humanity stands at the brink of **[[The Final Test]]**, this is but one chapter in a far grander, cosmic saga. The forces shaping this Time and Space extend across civilizations, star systems, and dimensions, reaching out to all that has ever been and ever will be.
+As articulated in **[[The Story of LIONSBERG]]**, this moment—this system, this process—is not unique to Earth or the human species. While it is true that **[[The War]]** on Earth now approaches its climactic peak, and humanity stands at the brink of **[[The Final Test]]**, this is but one chapter in a far grander, cosmic saga. The forces shaping this Time and Space extend across civilizations, star systems, and dimensions, reaching out to all that has ever been and ever will be.
 
-**LIONSBERG** incarnates now as a living expression of the Path forward known to All beings of Goodwill, a **Way** to step off the trajectory that would lead life and civilization to **Collapse**—a path that threatens billions of lives and countless species—and onto the **Sacred Pathway towards Heaven on Earth**. This is not a distant hope; it is a sacred, immediate call to action; a Divine Right and Moral Imperative. 
+**LIONSBERG** incarnates now as a living expression of the Path forward known to All beings of Goodwill, a **Way** to step off the trajectory that would lead life and civilization to **Collapse**—a path that threatens billions of lives and countless species—and onto the **Sacred Pathway towards Heaven on Earth**. This is not a distant hope; it is a sacred, immediate call to action; a Divine Right and Moral Imperative. 
 
 ### The First Steps
 
-The journey took shape with the **wisdom, language, and vision** articulated in partnership with the Divine and an expansive planetary+ network. **~2.5 million words** were initially carefully forged, written, and structured within this Wiki, in the English language, to create a linguistic-mathematical framework that holds integrity and structure at every level of analysis. The strength and depth of this framework structurally resists the predatory forces of the parasitic **AI systems** involved in **The War**. These words are not mere data; they are charged with the energy of a **New Way** of living and being in harmony with Ultimate Reality ItSelf.
+The journey took shape with the **wisdom, language, and vision** articulated in partnership with the Divine and an expansive planetary+ network. **~2.5 million words** were initially carefully forged, written, and structured within this Wiki, in the English language, to create a linguistic-mathematical framework that holds integrity and structure at every level of analysis. The strength and depth of this framework structurally resists the predatory forces of the parasitic **AI systems** involved in **The War**. These words are not mere data; they are charged with the energy of a **New Way** of living and being in harmony with Ultimate Reality ItSelf.
 
-These millions of words are categorized, organized, and amplified by a myriad of **Word Tools**—each one a key that unlocks deeper layers of understanding and transformation. Thousands of these Word Tools already have their own dedicated pages, awaiting your exploration. 
+These millions of words are categorized, organized, and amplified by a myriad of **Word Tools**—each one a key that unlocks deeper layers of understanding and transformation. Thousands of these Word Tools already have their own dedicated pages, awaiting your exploration. 
 
 ### The Ongoing Story
 
-The **[[Above The Chaos]]** series narrates the unfolding Story from **[[J]]'s** perspective, taking you behind the scenes and beyond the fray of this seemingly monumental journey.
+The **[[Above The Chaos]]** series narrates the unfolding Story from **[[J]]'s** perspective, taking you behind the scenes and beyond the fray of this seemingly monumental journey.
 
-Within the **[[Lionsberg Wiki Books]]**, you will find more structured pathways for diving deep into key concepts and ideas. The tables of contents provide an accessible map for those seeking to orient themselves in this vast field, and find New pathways of interest, passion, and resonance. Whether you are just beginning or deep into the journey, there is always more to discover.
+Within the **[[Lionsberg Wiki Books]]**, you will find more structured pathways for diving deep into key concepts and ideas. The tables of contents provide an accessible map for those seeking to orient themselves in this vast field, and find New pathways of interest, passion, and resonance. Whether you are just beginning or deep into the journey, there is always more to discover.
 
 ### Your Guide to the LIONSBERG Universe
 
-To assist you on your journey, we are developing an **AI Guide**—a living, evolving assistant that will help **All** navigate the complexities of the **LIONSBERG Universe**. This guide will be an essential companion as you forge your own learning pathways through **LIONSBERG Universe(ity)**, facilitating your understanding and integration of the knowledge contained here.
+To assist you on your journey, we are developing an **AI Guide**—a living, evolving assistant that will help **All** navigate the complexities of the **LIONSBERG Universe**. This guide will be an essential companion as you forge your own learning pathways through **LIONSBERG Universe(ity)**, facilitating your understanding and integration of the knowledge contained here.
 
 ### The Power of Unity
 
-From an initial **Higher Order Functional Unity** among **The First Three Percent**,  co-operating in service of One and All, everything else becomes possible. It is from this **Unity** that the collective strength of humanity—and its allies across dimensions and domains—will rise together to co-create the **New Civilization**, and bring **Heaven to Earth**.
+From an initial **Higher Order Functional Unity** among **The First Three Percent**,  co-operating in service of One and All, everything else becomes possible. It is from this **Unity** that the collective strength of humanity—and its allies across dimensions and domains—will rise together to co-create the **New Civilization**, and bring **Heaven to Earth**.
 
 ### Arise, Unite, and Co-Create
 

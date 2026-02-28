@@ -8,11 +8,11 @@ A Post in [[Above The Chaos]]
 
 Beloved Ones and Allies,
 
-Something is _wrong_. Can you feel it?
+Something is _wrong_. Can you feel it?
 
 I pray that most of us paying attention now know that the major terror events, assassinations, and wars of our lifetimes and recent history were orchestrated deceptions. Tens of trillions have been stolen, millions murdered by deep-state forces, and political puppets dangled before us as false choices within a soul-crushing matrix of kontrolle.
 
-The deeper, more painful truth is the realization that our favored political, religious, and cultural leaders have been complicit in an unholy alliance spanning generations. It hurts to admit that **We The People** have not had a functioning or coherent system of self-governance, religion, culture, education, or economy on Earth for a very long time, and that many of the foundational narratives We were raised in were carefully constructed illusions.
+The deeper, more painful truth is the realization that our favored political, religious, and cultural leaders have been complicit in an unholy alliance spanning generations. It hurts to admit that **We The People** have not had a functioning or coherent system of self-governance, religion, culture, education, or economy on Earth for a very long time, and that many of the foundational narratives We were raised in were carefully constructed illusions.
 
 Ouch.
 
@@ -21,13 +21,13 @@ How does it feel to truly see this?
 To admit this?  
 It hurts because it matters so damn much.  
 
-As we move from the corrupted roots to their devastating fruits—endless wars, ecological ruin, cultural erosion, divided communities, billions enslaved by debt, poverty, and lack—this global system reveals itself not merely as **anti-human**, but as fundamentally **anti-Life**, **anti-Source**, and opposed to all that is **Wise, Right, True, Loving, Just, Beautiful, and Good**.
+As we move from the corrupted roots to their devastating fruits—endless wars, ecological ruin, cultural erosion, divided communities, billions enslaved by debt, poverty, and lack—this global system reveals itself not merely as **anti-human**, but as fundamentally **anti-Life**, **anti-Source**, and opposed to all that is **Wise, Right, True, Loving, Just, Beautiful, and Good**.
 
-We we born into the end stages of an incarnate **Anti-System**.
+We we born into the end stages of an incarnate **Anti-System**.
 
 And yet, an even deeper deception is at play: transnational Dark Forces collaborate and war with non-human beings, craft, and technologies. Protocols and treaties intended to govern humanity’s extraterrestrial interactions for the next 10,000 years are being finalized by 2028—_**without Our participation or consent**_.  
 
-This undoubtedly constitutes _**The Greatest Fraud, Deception, and Existential Threat in History**_.
+This undoubtedly constitutes _**The Greatest Fraud, Deception, and Existential Threat in History**_.
 
 Are we still quiet, divided, and impotent because we do not know?  
 Because we are afraid?  
@@ -44,7 +44,7 @@ I asked a precious 12 year old what she thought.
 "It is a war" she said.  
 
 Indeed.  
-**The War** is ratcheting up.  
+**The War** is ratcheting up.  
 Whether We chose it or not, it is Our present Reality and immediate Future.  
 Silence, complacency, and waiting to see will not resolve it.  
 
@@ -73,22 +73,22 @@ At this critical juncture—an unprecedented crisis matched by unprecedented opp
 
 **Who Will Rise and Stand With Us?**  
 
-For the last seven years, I've devoted everything I had—my old life, resources, and world—to forging a foundation I call _**LIONSBERG**_, a free gift to all now ready to align and co-create our shared Future.
+For the last seven years, I've devoted everything I had—my old life, resources, and world—to forging a foundation I call _**LIONSBERG**_, a free gift to all now ready to align and co-create our shared Future.
 
-From now until **July 1st**, I hold open the door for you, my personal network, to step forward as **Supporters** or **Founding Members** of an emergent sovereign superorganism created by and for **Us The People**.  
+From now until **July 1st**, I hold open the door for you, my personal network, to step forward as **Supporters** or **Founding Members** of an emergent sovereign superorganism created by and for **Us The People**.  
 
-My prayer is that by this date, at least 12 to 20 of us formally become **We The People of LIONSBERG**—to begin making decisions together, allocating resources together, supporting one another, and consciously navigating together towards [[The Goal]]. After that point, it will no longer be up to me.  
+My prayer is that by this date, at least 12 to 20 of us formally become **We The People of LIONSBERG**—to begin making decisions together, allocating resources together, supporting one another, and consciously navigating together towards [[The Goal]]. After that point, it will no longer be up to me.  
 
-In the coming weeks, I will also be extending this equal and sacred invitation to some of **Us The People of East Africa**. It matters not where the Founding Members come from, only that The First Few of Us Rise, Stand Together, and Advance. 
+In the coming weeks, I will also be extending this equal and sacred invitation to some of **Us The People of East Africa**. It matters not where the Founding Members come from, only that The First Few of Us Rise, Stand Together, and Advance. 
 
-I pray my full-time role can then shift from architecting the foundational conditions to serving and supporting the growth of this living New Sovereignty, encompassing **[[The First Three Percent]]** of humanity by December 2026.
+I pray my full-time role can then shift from architecting the foundational conditions to serving and supporting the growth of this living New Sovereignty, encompassing **[[The First Three Percent]]** of humanity by December 2026.
 
-Standing together, ~250 million strong, **everything becomes possible**.
+Standing together, ~250 million strong, **everything becomes possible**.
 
 ## A Way Forward
 
-Many of Us are here explicitly for **This Moment and Mission**:  
-To arise and unite as a capable and coherent **Force For Good**,  
+Many of Us are here explicitly for **This Moment and Mission**:  
+To arise and unite as a capable and coherent **Force For Good**,  
 capable of meeting needs, solving problems,  
 prevailing in this existential struggle,  
 and leading humanity toward the flourishing future we have always dreamed of.

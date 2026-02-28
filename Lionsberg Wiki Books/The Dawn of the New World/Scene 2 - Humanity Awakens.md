@@ -6,7 +6,7 @@ To the intergalactic audience, it was like a sacred jewel, a unique greenhouse, 
 
 One day, in a lush, green valley of paradise, a [[Man]] and a [[Woman]] awoke, rubbing their eyes as they adjusted to the blinding sunlight after what felt like an eternity of sleep. They could almost remember the Day before, but it felt like lifetimes ago. 
 
-Finding themselves thrown into a strange, beautiful, and foreign land, they began to explore their new territory to try to find out where they were, and remember Who they were. The man and woman explored the valley, they were filled with awe and wonder at all the beautiful sights around them. They marveled at the colorful flowers and the towering trees, and they listened to the birds singing in the branches. Animals roamed through the valley, drinking from the majestic river of life. 
+Finding themselves thrown into a strange, beautiful, and foreign land, they began to explore their new territory to try to find out where they were, and remember Who they were. The man and woman explored the valley, they were filled with awe and wonder at all the beautiful sights around them. They marveled at the colorful flowers and the towering trees, and they listened to the birds singing in the branches. Animals roamed through the valley, drinking from the majestic river of life. 
 
 Yet they remained cautious, aware of the dangers lurking within the valley. Distant roars of monsters and dragons and the howls of werewolves reminded them to stay vigilant, pay [[Attention]], and be prepared for anything the Unknown could present.
 

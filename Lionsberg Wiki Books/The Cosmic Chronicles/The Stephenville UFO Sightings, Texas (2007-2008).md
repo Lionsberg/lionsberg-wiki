@@ -104,13 +104,13 @@ The U.S. Air Force’s initial denial and subsequent reversal regarding F-16 exe
 
 - **Books:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - MUFON’s radar analysis reports on the Stephenville sightings.
     - Local and national media coverage of the event.
 - **Documentaries:**
     
-    - _The Stephenville UFO Incident_ – A comprehensive exploration of the sightings and their implications.
+    - _The Stephenville UFO Incident_ – A comprehensive exploration of the sightings and their implications.
 

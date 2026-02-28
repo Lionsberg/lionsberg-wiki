@@ -76,10 +76,10 @@
 
 To overcome the influence of [[Invisible Power Structures]] and pass [[The Final Test]], humanity must:
 
-- **Expose the Truth:** Bring hidden agendas and operations into the light through transparency and collective awareness.
-- **Build [[Self-Governing]], [[Self-Sustaining]] Systems:** Create resilient alternatives that cannot be co-opted or controlled by these forces.
-- **Awaken and Unite [[The First Three Percent]]:** Foster a critical mass of conscious, empowered leaders capable of guiding humanity through the [[Collapse]] of the [[Existing Order]].
-- **Reclaim Sovereignty:** Withdraw consent and energy from systems of control, aligning with higher principles of truth, justice, and harmony.
+- **Expose the Truth:** Bring hidden agendas and operations into the light through transparency and collective awareness.
+- **Build [[Self-Governing]], [[Self-Sustaining]] Systems:** Create resilient alternatives that cannot be co-opted or controlled by these forces.
+- **Awaken and Unite [[The First Three Percent]]:** Foster a critical mass of conscious, empowered leaders capable of guiding humanity through the [[Collapse]] of the [[Existing Order]].
+- **Reclaim Sovereignty:** Withdraw consent and energy from systems of control, aligning with higher principles of truth, justice, and harmony.
 
 ---
 

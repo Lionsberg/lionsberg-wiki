@@ -7,11 +7,11 @@ Welcome to Lionsberg.
 
 ## **The Bottom Line**
 
-As humanity faces into a [[Meta Crisis]] of epic proportions—threatening our freedoms, foundations, and future—there is a self-evident need for free and enlightened citizens to arise, unite, and work together **beyond existing structures** to meet this moment and forge the just, free, and flourishing future we all desire.
+As humanity faces into a [[Meta Crisis]] of epic proportions—threatening our freedoms, foundations, and future—there is a self-evident need for free and enlightened citizens to arise, unite, and work together **beyond existing structures** to meet this moment and forge the just, free, and flourishing future we all desire.
 
 Since 2017, [[Jordan Nicholas Sukut]] and allies have been quietly building the infrastructure for an unprecedented [[Citizen Led Response]]. With [[The 7 Year Window of Preparatory Work and Learning]] now complete, Lionsberg is advancing the [[10 Year Grand Strategy]] to empower individuals, teams, and localities to awaken, arise, and unite in service to [[ONE]] and [[All]]. 
 
-We are seeking courageous individuals to _**commit**_ their time, energy, and resources to advance [[The Quest]]—come what may.
+We are seeking courageous individuals to _**commit**_ their time, energy, and resources to advance [[The Quest]]—come what may.
 
 ---
 
@@ -19,9 +19,9 @@ We are seeking courageous individuals to _**commit**_ their time, energy, and 
 
 Humanity stands at a crossroads. The [[old]] systems of governance, economics, and values are crumbling under the weight of their corruption and disconnection from [[Truth]] and [[Wisdom]]. This [[Meta Crisis]] jeopardizes the very fabric of our civilization.
 
-While chaos and tyranny threaten from above, the **true power of transformation lies with individuals and localities**. Everyday heroes—raising families, running businesses, cultivating land—are already on the front lines, shielding their communities from the forces of [[Kontrolle]] and chaos.
+While chaos and tyranny threaten from above, the **true power of transformation lies with individuals and localities**. Everyday heroes—raising families, running businesses, cultivating land—are already on the front lines, shielding their communities from the forces of [[Kontrolle]] and chaos.
 
-But **in isolation, even the most heroic efforts cannot generate the transformative power needed to co-create the flourishing future we all long for.** Time is running short.
+But **in isolation, even the most heroic efforts cannot generate the transformative power needed to co-create the flourishing future we all long for.** Time is running short.
 
 ---
 
@@ -37,7 +37,7 @@ To coalesce individuals of [[Goodwill]] into a transformative force that:
 2. Serves the Highest Intention and Universal Good.
 3. Rapidly develops pragmatic capabilities to meet the needs, solve the problems, and seize the opportunities of our time.
 
-Our approach emphasizes **pragmatism over idealism**, rooted in a unified platform that empowers individuals, teams, and localities to act effectively in a time of crisis.
+Our approach emphasizes **pragmatism over idealism**, rooted in a unified platform that empowers individuals, teams, and localities to act effectively in a time of crisis.
 
 ---
 
@@ -88,9 +88,9 @@ Acknowledging that [[We Do Not Know]], Lionsberg is designed for continuous lear
 
 The [[7 Year Window of Crisis and Opportunity]] we now face is humanity’s chance to rise. Before [[Collapse]] becomes irreversible, Lionsberg offers a pathway for free citizens to voluntarily unite, transcend old systems, and co-create a just, free, and flourishing civilization.
 
-This is an **unprecedented citizen-led response**, driven by individuals who commit their time, energy, and resources to [[The Quest]].
+This is an **unprecedented citizen-led response**, driven by individuals who commit their time, energy, and resources to [[The Quest]].
 
-With generations of flourishing or suffering in the balance, **now is the time to act.**
+With generations of flourishing or suffering in the balance, **now is the time to act.**
 
 ---
 
@@ -102,7 +102,7 @@ Lionsberg is for those who are ready to:
 - Build autonomous teams and localities.
 - Serve as catalysts for transformation within their communities.
 
-If you resonate with this vision and believe you are called to join, please [Reach Out Here](X). Together, we can forge a path forward.
+If you resonate with this vision and believe you are called to join, please [Reach Out Here](X). Together, we can forge a path forward.
 
 ---
 

@@ -14,11 +14,11 @@ The sightings by Soviet cosmonauts, individuals with rigorous training and scien
 
 #### **Yuri Gagarin (1961): The First Sightings**
 
-As the first human in space, Yuri Gagarin reportedly observed mysterious glowing objects during his historic flight aboard _Vostok 1_. Though details remain scarce, unofficial accounts suggest Gagarin privately spoke of “lights following” his spacecraft. Later interviews hint that Gagarin believed in the possibility of extraterrestrial life.
+As the first human in space, Yuri Gagarin reportedly observed mysterious glowing objects during his historic flight aboard _Vostok 1_. Though details remain scarce, unofficial accounts suggest Gagarin privately spoke of “lights following” his spacecraft. Later interviews hint that Gagarin believed in the possibility of extraterrestrial life.
 
 #### **Salyut 6 and 7 Orbital Stations (1970s–1980s): Orbs and Apparitions**
 
-Cosmonauts aboard the _Salyut 6_ and _Salyut 7_ space stations frequently reported luminous objects approaching their craft. In one notable incident in 1984, crew members on _Salyut 7_ witnessed glowing entities resembling humanoid figures outside their station. These “angels,” described as having wings and radiant auras, hovered near the station for several minutes before disappearing.
+Cosmonauts aboard the _Salyut 6_ and _Salyut 7_ space stations frequently reported luminous objects approaching their craft. In one notable incident in 1984, crew members on _Salyut 7_ witnessed glowing entities resembling humanoid figures outside their station. These “angels,” described as having wings and radiant auras, hovered near the station for several minutes before disappearing.
 
 #### **Apollo-Soyuz Test Project (1975): Joint Sightings**
 
@@ -26,7 +26,7 @@ During the historic U.S.-Soviet Apollo-Soyuz mission, both American astronauts a
 
 #### **Georgi Grechko (1980s): Unusual Light Patterns**
 
-Veteran cosmonaut Georgi Grechko, who flew on multiple missions, described witnessing fast-moving, brightly lit objects during his time aboard _Salyut 6_. He later stated in interviews that these sightings defied any known explanations and appeared to display intelligent control.
+Veteran cosmonaut Georgi Grechko, who flew on multiple missions, described witnessing fast-moving, brightly lit objects during his time aboard _Salyut 6_. He later stated in interviews that these sightings defied any known explanations and appeared to display intelligent control.
 
 #### **Declassified KGB Reports: UFOs Over Baikonur**
 
@@ -123,8 +123,8 @@ Documents from Soviet archives detail sightings near the Baikonur Cosmodrome, th
     - Declassified Soviet military and KGB reports on UFO incidents.
 - **Books:**
     
-    - Popovich, Pavel. _Cosmonauts and the Cosmos: A Glimpse Beyond Earth._
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Popovich, Pavel. _Cosmonauts and the Cosmos: A Glimpse Beyond Earth._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
 - **Documentaries:**
     
     - _The Secret Space Program: Soviet UFO Encounters._

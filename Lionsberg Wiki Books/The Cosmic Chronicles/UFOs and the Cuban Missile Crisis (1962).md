@@ -106,12 +106,12 @@ In October 1962, the United States and the Soviet Union teetered on the brink of
 
 - **Books:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Declassified Documents:**
     
     - FOIA-released reports on UFO activity during the Cuban Missile Crisis.
 - **Documentaries:**
     
-    - _The Day the Earth Stood Still: UFOs and Nuclear War_ – Explores UFO activity during moments of nuclear tension.
+    - _The Day the Earth Stood Still: UFOs and Nuclear War_ – Explores UFO activity during moments of nuclear tension.
 

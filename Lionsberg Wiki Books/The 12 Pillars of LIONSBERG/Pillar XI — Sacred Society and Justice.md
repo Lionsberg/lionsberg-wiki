@@ -6,7 +6,7 @@ _ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Po
 
 ### **Summary**
 
-The Eleventh Pillar of LIONSBERG restores **relationship and justice** as the sacred fabric of co-creation—calling us to reweave the web of life through love, truth, courage, reciprocity, reconciliation, and Right Relationship.
+The Eleventh Pillar of LIONSBERG restores **relationship and justice** as the sacred fabric of co-creation—calling us to reweave the web of life through love, truth, courage, reciprocity, reconciliation, and Right Relationship.
 
 It recognizes that All is InterBeing in ONE Body, and that the health of every person and community depends upon the integrity of the relationships that bind them. Sacred Society is the living field of harmony through which Heaven is made manifest in the social order of each realm, dimension, and domain. It invites us to heal the fractures of history, restore trust, and build systems of justice that protect the innocent, correct the unjust, and reconcile the divided.
 
@@ -39,29 +39,29 @@ This Pillar therefore bridges the personal and the collective, the spiritual and
 
 ### **12 Theses of Sacred Society and Right Relationship**
 
-1. **All Society Is a Web of Relationship** — the health of the whole depends upon the integrity of every thread.
+1. **All Society Is a Web of Relationship** — the health of the whole depends upon the integrity of every thread.
     
-2. **Justice Is Love in Action** — the right ordering of relationships in truth, compassion, and accountability.
+2. **Justice Is Love in Action** — the right ordering of relationships in truth, compassion, and accountability.
     
-3. **Reconciliation Is the Healing of History** — the courage to face wounds, heal traumas, reconcile, and restore trust.
+3. **Reconciliation Is the Healing of History** — the courage to face wounds, heal traumas, reconcile, and restore trust.
     
-4. **Community Is the Primary Unit of Civilization** — not hierarchy or empire, but local circles of mutual care.
+4. **Community Is the Primary Unit of Civilization** — not hierarchy or empire, but local circles of mutual care.
     
-5. **Right Relationship Requires Truth** — without honesty there can be no peace, and without transparency no justice.
+5. **Right Relationship Requires Truth** — without honesty there can be no peace, and without transparency no justice.
     
-6. **Power Exists to Protect and Serve** — authority is legitimate only when it serves and upholds the Sovereignty and Dignity of all.
+6. **Power Exists to Protect and Serve** — authority is legitimate only when it serves and upholds the Sovereignty and Dignity of all.
     
-7. **Law Must Emerge from Logos** — human justice must mirror the moral order of the Cosmos.
+7. **Law Must Emerge from Logos** — human justice must mirror the moral order of the Cosmos.
     
-8. **Diversity Is Sacred** — difference is not division but the raw material of symphony.
+8. **Diversity Is Sacred** — difference is not division but the raw material of symphony.
     
-9. **Conflict Is a Teacher** — every clash reveals imbalance and invites higher synthesis.
+9. **Conflict Is a Teacher** — every clash reveals imbalance and invites higher synthesis.
     
-10. **Restorative Justice Is the Way Forward** — to repair, not to punish; to transform, not to condemn.
+10. **Restorative Justice Is the Way Forward** — to repair, not to punish; to transform, not to condemn.
     
-11. **Healing Begins in Community** — every household, neighborhood, and people must become a sanctuary of reconciliation and harmony.
+11. **Healing Begins in Community** — every household, neighborhood, and people must become a sanctuary of reconciliation and harmony.
     
-12. **The Goal Is the Beloved Kingdom and Commonwealth** — a civilization of conscious, just, and co-creative beings living in omniconsiderate harmony with ONE, One Another, and All. 
+12. **The Goal Is the Beloved Kingdom and Commonwealth** — a civilization of conscious, just, and co-creative beings living in omniconsiderate harmony with ONE, One Another, and All. 
     
 
 ---

@@ -116,8 +116,8 @@ After the sightings, investigators documented landing traces, burned vegetation,
 
 - **Books:**
     
-    - Faria, A.J. _UFOs Over Brazil: Encounters in the South American Skies._
+    - Faria, A.J. _UFOs Over Brazil: Encounters in the South American Skies._
 - **Documentaries:**
     
-    - _Encounters in Rural Brazil (2015)_ – A deep dive into family cases and their cultural impact.
+    - _Encounters in Rural Brazil (2015)_ – A deep dive into family cases and their cultural impact.
 

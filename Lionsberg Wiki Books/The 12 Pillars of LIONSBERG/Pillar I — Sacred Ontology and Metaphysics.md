@@ -20,29 +20,29 @@ This is not the imposition of a religion, but the resurrection of right relation
 
 ### **12 Theses of Sacred Theology and Philosophy**
 
-1. **There is ONE Source behind All That Is** — eternal, uncreated, and infinitely intelligent, loving, and whole.
+1. **There is ONE Source behind All That Is** — eternal, uncreated, and infinitely intelligent, loving, and whole.
     
-2. **The Cosmos is a Sacred Story** — a living, intelligible expression of the Divine, structured by Purpose and Pattern.
+2. **The Cosmos is a Sacred Story** — a living, intelligible expression of the Divine, structured by Purpose and Pattern.
     
-3. **The Logos is the Way of the ONE** — the universal Wisdom and Principle through which All things are ordered, harmonized, and sustained.
+3. **The Logos is the Way of the ONE** — the universal Wisdom and Principle through which All things are ordered, harmonized, and sustained.
     
-4. **All Beings are Embodied Expressions of the ONE** — differentiated yet indivisible from the Source.
+4. **All Beings are Embodied Expressions of the ONE** — differentiated yet indivisible from the Source.
     
-5. **The Purpose of Existence is the Ultimate ReUnion of All Things** — through the free unfolding of Spirit and Consciousness toward its Divine Origin.
+5. **The Purpose of Existence is the Ultimate ReUnion of All Things** — through the free unfolding of Spirit and Consciousness toward its Divine Origin.
     
-6. **True Theology is Direct and Experiential** — born of direct communion with Source, not mere belief, doctrine, or dogma.
+6. **True Theology is Direct and Experiential** — born of direct communion with Source, not mere belief, doctrine, or dogma.
     
-7. **True Philosophy is the Love of Wisdom** — the disciplined pursuit of Truth, Harmony, and Co-Creation with the Divine.
+7. **True Philosophy is the Love of Wisdom** — the disciplined pursuit of Truth, Harmony, and Co-Creation with the Divine.
     
-8. **The Highest Ethics are Perfectly Aligned with the Logos** — flowing from Love, Wisdom, Courage, and Right Relationship.
+8. **The Highest Ethics are Perfectly Aligned with the Logos** — flowing from Love, Wisdom, Courage, and Right Relationship.
     
-9. **All False Religions Must Be Transcended** — including dogmas, idols, and corrupted institutions that obscure the Light.
+9. **All False Religions Must Be Transcended** — including dogmas, idols, and corrupted institutions that obscure the Light.
     
-10. **The Great Traditions Must Be ReHarvested** — restoring their sacred essence while transcending division and distortion.
+10. **The Great Traditions Must Be ReHarvested** — restoring their sacred essence while transcending division and distortion.
     
-11. **The Kingdom of God is Within and Among Us** — and emerges as We align with the Spirit and walk the Way Together.
+11. **The Kingdom of God is Within and Among Us** — and emerges as We align with the Spirit and walk the Way Together.
     
-12. **Heaven on Earth Begins with Right Orientation and Right Relationship** — when individuals and communities awaken to their Divine Origins and the Sacred Order, and live accordingly.
+12. **Heaven on Earth Begins with Right Orientation and Right Relationship** — when individuals and communities awaken to their Divine Origins and the Sacred Order, and live accordingly.
     
 
 ---

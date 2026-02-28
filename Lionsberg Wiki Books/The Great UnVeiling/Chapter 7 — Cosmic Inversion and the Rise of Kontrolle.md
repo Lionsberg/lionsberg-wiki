@@ -51,15 +51,15 @@ while enslaving the Soul.
 
 These inverted domains grew across time and space:
 
-- **Species genetically altered** to suppress memory, capacity, and sovereignty
+- **Species genetically altered** to suppress memory, capacity, and sovereignty
     
-- **Social systems engineered** to keep species divided, conquered, and deceived   
+- **Social systems engineered** to keep species divided, conquered, and deceived   
     
-- **Religions distorted** to enslave in fear and ensure compliance  
+- **Religions distorted** to enslave in fear and ensure compliance  
     
-- **Economies built** on artificial scarcity, debt, competition, and parasitic extraction  
+- **Economies built** on artificial scarcity, debt, competition, and parasitic extraction  
     
-- **Technologies developed** not to liberate, but to surveil, addict, exploit, and kontrolle  
+- **Technologies developed** not to liberate, but to surveil, addict, exploit, and kontrolle  
     
 
 These Dark systems did not create life.  
@@ -93,10 +93,10 @@ if you will submit**.
 
 ## **Kontrolle: The Structural Codification of Inversion**
 
-From this inversion emerged the systematic force we now name **Kontrolle**.
+From this inversion emerged the systematic force we now name **Kontrolle**.
 
 Kontrolle is not just control.  
-It is the **Anti-Logos**—  
+It is the **Anti-Logos**—  
 a false pattern that mimics order while concealing **Kaos** and **Tyranny**.
 
 It operates across every dimension of existence in a **Fallen Order**:
@@ -186,7 +186,7 @@ Why would the ONE allow this to unfold?
 Does the ONE not see all the hellish suffering that We The Many have endured?  
 How could a Loving ONE permit Any to suffer under such reigns of kaos and terror?  
 
-Because the cosmos is a **school of Sovereignty**.  
+Because the cosmos is a **school of Sovereignty**.  
 Because without Real Freedom  
 and Real Choices,  
 Real Love, Wisdom, and Courage cannot emerge and endure.  

@@ -83,11 +83,11 @@ By dawn, the beings had disappeared, and the family fled to the Hopkinsville pol
 
 - **Primary Accounts:**
     
-    - Davis, Isabel. _Close Encounter at Kelly and Others of 1955._
+    - Davis, Isabel. _Close Encounter at Kelly and Others of 1955._
 - **Analytical Works:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Keel, John A. _The Mothman Prophecies._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Keel, John A. _The Mothman Prophecies._
 - **Documentaries:**
     
     - _The Kelly-Hopkinsville Encounter: Goblins or Visitors?_

@@ -48,7 +48,7 @@ ____
       
 11. **The Threshold Experience — The First Crossing**
     
-12. **The Story — ReMembering the ONE**
+12. **The Story — ReMembering the ONE**
     
 13. **The Gates — The Path of Initiation**
     

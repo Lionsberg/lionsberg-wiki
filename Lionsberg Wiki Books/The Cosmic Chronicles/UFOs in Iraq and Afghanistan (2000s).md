@@ -96,6 +96,6 @@ The UFO sightings during the Iraq and Afghanistan wars remain a perplexing chapt
 - **First-Hand Accounts**:
     - Testimonies from U.S. military personnel during Iraq and Afghanistan operations.
 - **Related Studies**:
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 

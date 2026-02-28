@@ -277,7 +277,7 @@ Ideas: a session to go through the orgs and have people vouch for them.
 - The level of participation, wisdom, and community shared
 - Starting to look at ourselves as a community, and seeing our affect as individuals collected together... 
 - What is it that I need right now to be and do better in service? 
-    - My current need re. Lionsberg is to DO and would love to work with a couple of people to move forward with an action/project. I have embraced you all as respected colleagues and don't have an immediate need to get to know you all deeply at this point in time. I expect that will happen over time as we do this work. Our work at Planetary CARE is very important and clear. I would like to also contribute to the Meta Project. I would like to know how I can best contribute - working with a group.
+    - My current need re. Lionsberg is to DO and would love to work with a couple of people to move forward with an action/project. I have embraced you all as respected colleagues and don't have an immediate need to get to know you all deeply at this point in time. I expect that will happen over time as we do this work. Our work at Planetary CARE is very important and clear. I would like to also contribute to the Meta Project. I would like to know how I can best contribute - working with a group.
 - When is the right time to bring right pieces 
 - Which of the 30 things I could do 
 - In traditional model 

@@ -93,14 +93,14 @@ Some skeptics attributed the lights to reflections from squid boat lamps, the pl
 
 - **Books:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - New Zealand Air Force reports on the Kaikoura Lights.
     - Analyses of the video footage and radar data.
 - **Documentaries:**
     
-    - _The Kaikoura UFO Incident_ – A detailed exploration of the sightings and their implications.
+    - _The Kaikoura UFO Incident_ – A detailed exploration of the sightings and their implications.
 - 
 

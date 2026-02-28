@@ -4,7 +4,7 @@ Now that We understand a bit more of the linguistic and historical context of th
 
 The ancient stories of the Hebrew, Babylonian, Mesopotamian, Akkadian, Phoenician (et al) tribes all seem to be describing the same phenomenon of this class of overlords from above, who are capricious, exploitative, oppressive, and morally inconsistent. 
 
-The **Phoenicians**, like tribes around the world, were infamous for practices like child sacrifice demanded by their [[Elohim]] (like **Moloch**), which are echoed in Hebrew traditions where Yahweh demands severe offerings, including the firstborn children. 
+The **Phoenicians**, like tribes around the world, were infamous for practices like child sacrifice demanded by their [[Elohim]] (like **Moloch**), which are echoed in Hebrew traditions where Yahweh demands severe offerings, including the firstborn children. 
 
 The common narratives and experiences among these adjacent tribes suggest that various Elohim tyrannically influenced the ritual and sacrificial norms across cultures. 
 
@@ -182,15 +182,15 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
     - _"Now fear Yahweh and serve Him with all faithfulness. Throw away the gods (אֱלֹהִים, Elohim) your ancestors worshiped beyond the Euphrates River and in Egypt, and serve Yahweh."_
 2. **Choice Between Elohim**
     - _"But if serving Yahweh seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods (אֱלֹהִים, Elohim) your ancestors served beyond the Euphrates, or the gods (אֱלֹהִים, Elohim) of the Amorites, in whose land you are living. But as for me and my household, we will serve Yahweh."_
-- The Elohim served by the ancestors beyond the Euphrates likely refer to the Mesopotamian deities, such as **Anu**, **Enlil**, and **Inanna/Ishtar**, from the Sumerian and Akkadian pantheon.
+- The Elohim served by the ancestors beyond the Euphrates likely refer to the Mesopotamian deities, such as **Anu**, **Enlil**, and **Inanna/Ishtar**, from the Sumerian and Akkadian pantheon.
 - This phrase recalls the ancestral worship of Terah, Abraham’s father, who was from Ur in Mesopotamia (_Genesis 11:27–28_).
 - The acknowledgement of the other local Elohim as part of the Israel's religious and cultural history is crucial to accurately piecing back together The Story, and weaving back together the [[Source Narratives]] the biblical summary and redaction is drawn from. 
 
 **25. Job 1:6–7; 2:1**
 
 - _"Now there was a day when the sons of (god/gods/Elohim) (בְּנֵי הָאֱלֹהִים, benei ha-Elohim) came to present themselves before Yahweh, and Satan (הַשָּׂטָן, ha-satan) also came among them. Yahweh said to Satan, 'Where have you come from?'"_
-- The **sons of God** (benei ha-Elohim) assemble before Yahweh, and **Satan** is portrayed as one of these divine beings participating in the council.
-- This scene suggests a **formal assembly** of divine beings, reflecting their role in overseeing human activities.
+- The **sons of God** (benei ha-Elohim) assemble before Yahweh, and **Satan** is portrayed as one of these divine beings participating in the council.
+- This scene suggests a **formal assembly** of divine beings, reflecting their role in overseeing human activities.
 
 **26. Ezekiel 1**
 
@@ -211,8 +211,8 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 **27. Zechariah 3:1–2**
 
 - _"Then he showed me Joshua the high priest, standing before the angel of Yahweh, and Satan (הַשָּׂטָן, ha-satan) standing at his right side to accuse him. Yahweh said to Satan, 'Yahweh rebuke you, Satan!'"_
-- ha-satan is here again depicted as a member of a **heavenly court**, where he serves as an accuser in a judicial setting presided over by Yahweh.
- - This reflects a **formal assembly of [[Elohim]]**, where decisions about human affairs are deliberated. Note the parallels to Job, where the sons of god, including ha-satan, formally assemble before Yahweh. 
+- ha-satan is here again depicted as a member of a **heavenly court**, where he serves as an accuser in a judicial setting presided over by Yahweh.
+ - This reflects a **formal assembly of [[Elohim]]**, where decisions about human affairs are deliberated. Note the parallels to Job, where the sons of god, including ha-satan, formally assemble before Yahweh. 
 
 **Summary Observations:**
 
@@ -220,16 +220,16 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 
 2. **Yahweh’s Supremacy, Not Exclusivity:** Yahweh is depicted as superior in the eyes of the authors to the other benei Elyon (sons of the most high), but not alone as the only Elohim.
 
-3. **Regional and Tribal Deities:** The Bible and other contemporary texts often acknowledge the other Elohim as real entities with real territorial power and demands of the humans they dominate and exploit. The multiplicity of **Elohim** and other entities in these texts are portrayed as real, powerful beings with specific roles (e.g., judging nations, warring, or reporting).
+3. **Regional and Tribal Deities:** The Bible and other contemporary texts often acknowledge the other Elohim as real entities with real territorial power and demands of the humans they dominate and exploit. The multiplicity of **Elohim** and other entities in these texts are portrayed as real, powerful beings with specific roles (e.g., judging nations, warring, or reporting).
 
 4. **Divine Conflict:** Yahweh engages in cosmic struggles with other Elohim, reinforcing the notion of a divine hierarchy, jealousy and rivalry.
 
 5. **Core Idea of a Sky Council of "the gods"**:
-    - These passages consistently depict a **hierarchical assembly** of divine beings, with Yahweh (or Elyon in earlier traditions) as the presiding authority.
+    - These passages consistently depict a **hierarchical assembly** of divine beings, with Yahweh (or Elyon in earlier traditions) as the presiding authority.
     - During the redaction process and theological drift towards monotheism, the characteristics of supremacy slowly aggregated to Yahweh. 
     - Yahweh may also have ascended over time in rank, after the territories and tribes of Earth were allotted by Elyon. 
 
-6. **Ancient Near Eastern Context**: The **divine council** mirrors the structure of pantheons in other ancient Near Eastern cultures, such as the council of **El and Baal** in Ugaritic, Anu, Enlil, and Enki, the Annunaki, etc. 
+6. **Ancient Near Eastern Context**: The **divine council** mirrors the structure of pantheons in other ancient Near Eastern cultures, such as the council of **El and Baal** in Ugaritic, Anu, Enlil, and Enki, the Annunaki, etc. 
 
 These passages reveal the rich theological complexity of the Hebrew Bible and suggest a worldview in the original [[Source Narratives]] where Yahweh is one among many "powerful ones from above" dominating and influencing human affairs.  
 

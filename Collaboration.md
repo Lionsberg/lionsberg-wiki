@@ -5,9 +5,9 @@ The process of working together with others to achieve a shared goal, create som
 The value of collaboration represents a commitment to working together towards a common goal. It means seeking out and valuing the unique contributions of others, and being willing to compromise and negotiate in order to achieve shared objectives.
 ___
 
-[[Systems Thinking]] and [[Integrated Delivery]] require a [[Shift In Mindset]] from “silo” to “system.” This requires collaboration between all the parties involved with a [[Program of Action]].  **_There is only one program, one intention, one vision, one system, and one goal_**. 
+[[Systems Thinking]] and [[Integrated Delivery]] require a [[Shift In Mindset]] from “silo” to “system.” This requires collaboration between all the parties involved with a [[Program of Action]].  **_There is only one program, one intention, one vision, one system, and one goal_**. 
 
-This includes the owner, receiver, program manager, IPD Teams, trade partners, operational personnel, and **_the global community that will inherit and operate the System_**. 
+This includes the owner, receiver, program manager, IPD Teams, trade partners, operational personnel, and **_the global community that will inherit and operate the System_**. 
 
 For a team of teams to truly succeed and thrive in Integrated Delivery, collaboration must go far beyond intellectual assent to “collaborate”, and into the actual behaviors and [[Verbs]] that constitute "collaborating."
 

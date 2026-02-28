@@ -1,4 +1,4 @@
-# 🧭 **Seasonal OmniSpection Template**
+# 🧭 **Seasonal OmniSpection Template**
 
 _— A 7-Fold Sacred Framework for Temporal ReAlignment and Action —_
 

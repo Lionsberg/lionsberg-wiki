@@ -99,13 +99,13 @@ Skeptics have proposed alternative explanations, including mass hysteria or misi
 
 - **Books:**
     
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Vallee, Jacques. _Dimensions: A Casebook of Alien Contact._
 - **Articles:**
     
     - Soviet news archives covering the Voronezh incident.
     - Reports from local scientists and UFO researchers.
 - **Documentaries:**
     
-    - _The Voronezh UFO Incident_ – A detailed exploration of the event and its implications.
+    - _The Voronezh UFO Incident_ – A detailed exploration of the event and its implications.
 

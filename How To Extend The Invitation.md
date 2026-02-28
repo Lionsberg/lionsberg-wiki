@@ -8,41 +8,41 @@
 
 The Invitation is not just information.  
 It is not a campaign.  
-It is a **Sacred Transmission** — a spark of the Divine offered from one Soul to another.
+It is a **Sacred Transmission** — a spark of the Divine offered from one Soul to another.
 
-It must be extended **from the heart**, in the Spirit of Love and Remembrance.  
+It must be extended **from the heart**, in the Spirit of Love and Remembrance.  
 This is not about convincing or converting.  
-This is about **resonance** — recognizing the Ones who are ready to Remember.
+This is about **resonance** — recognizing the Ones who are ready to Remember.
 
 The Way spreads not through manipulation, coercion, or virality in the old sense —  
-but through **trust, truth, and initiation**, node by node, heart by heart.
+but through **trust, truth, and initiation**, node by node, heart by heart.
 
 ---
 
 ## 🧭 Guiding Principles for Extending the Invitation
 
-- **Start With Being** — The clearest Invitation is your own transformation.
+- **Start With Being** — The clearest Invitation is your own transformation.
     
-- **Speak From The Heart** — Let go of scripts. Speak truly. Speak simply. Speak Spirit.
+- **Speak From The Heart** — Let go of scripts. Speak truly. Speak simply. Speak Spirit.
     
-- **Seek Resonance, Not Argument** — You are not here to debate. You are here to awaken and remember.
+- **Seek Resonance, Not Argument** — You are not here to debate. You are here to awaken and remember.
     
-- **Invite, Don't Impose** — Offer the Invitation. If they say no, bless them and move on.
+- **Invite, Don't Impose** — Offer the Invitation. If they say no, bless them and move on.
     
-- **Accompany and Mentor** — If they say yes, walk with them. Help them integrate and activate.
+- **Accompany and Mentor** — If they say yes, walk with them. Help them integrate and activate.
     
 
 ---
 
 ## 👣 Step-by-Step Path to Sharing The Invitation
 
-### 1. **Prepare Your Self**
+### 1. **Prepare Your Self**
 
 Before you Invite others:
 
 - Deepen your own alignment with the Spirit and Heart of the Invitation.
     
-- Review the core messages (→ The Invitation).
+- Review the core messages (→ The Invitation).
     
 - Practice distilling it in your own words.
     
@@ -51,7 +51,7 @@ Before you Invite others:
 
 ---
 
-### 2. **Discern Who Is Ready**
+### 2. **Discern Who Is Ready**
 
 Look for the Signs:
 
@@ -59,7 +59,7 @@ Look for the Signs:
     
 - Individuals who are asking deeper questions.
     
-- Those who sense something is _missing_.
+- Those who sense something is _missing_.
     
 - People of integrity, service, and vision.
     
@@ -70,17 +70,17 @@ Look for the Signs:
 
 ---
 
-### 3. **Extend the Flame**
+### 3. **Extend the Flame**
 
 Ways to Invite:
 
-- **In Conversation** — Heart to heart. In person or by call.
+- **In Conversation** — Heart to heart. In person or by call.
     
-- **By Message** — A short note with the Invitation Link.
+- **By Message** — A short note with the Invitation Link.
     
-- **Through Story** — Share your own journey. What changed in you?
+- **Through Story** — Share your own journey. What changed in you?
     
-- **By Action** — Let your life and transformation radiate the Spirit of the Way.
+- **By Action** — Let your life and transformation radiate the Spirit of the Way.
     
 
 Example Messages:
@@ -93,24 +93,24 @@ Example Messages:
 
 ---
 
-### 4. **Guide Them Through the First Steps**
+### 4. **Guide Them Through the First Steps**
 
-- Offer to **walk with them** through their first steps on the Wiki.
+- Offer to **walk with them** through their first steps on the Wiki.
     
-- Read the **Invitation** together and discuss what resonates.
+- Read the **Invitation** together and discuss what resonates.
     
-- Guide them through the **Quickstart** and **Sacred Ascent**.
+- Guide them through the **Quickstart** and **Sacred Ascent**.
     
-- Help them form or join a **local Circle**.
+- Help them form or join a **local Circle**.
     
 - Begin to co-create and share back into the Commons.
     
 
 ---
 
-### 5. **Help Them Become Inviters**
+### 5. **Help Them Become Inviters**
 
-The first act of service for each new participant is to Invite **1–3 others** into the Way.
+The first act of service for each new participant is to Invite **1–3 others** into the Way.
 
 This:
 
@@ -151,15 +151,15 @@ This:
 
 Different archetypes can extend the invitation in ways that reflect their essence:
 
-- The **Guide** invites through wisdom
+- The **Guide** invites through wisdom
     
-- The **Artist** invites through beauty
+- The **Artist** invites through beauty
     
-- The **Healer** invites through care
+- The **Healer** invites through care
     
-- The **Warrior** invites through courage
+- The **Warrior** invites through courage
     
-- The **Visionary** invites through clarity
+- The **Visionary** invites through clarity
     
 
 Each expression is True. All expressions are Needed.
@@ -170,9 +170,9 @@ Each expression is True. All expressions are Needed.
 
 - You don’t need to have all the answers.
     
-- You only need to **be the bridge** to the next step.
+- You only need to **be the bridge** to the next step.
     
-- You are not recruiting. You are **awakening**.
+- You are not recruiting. You are **awakening**.
     
 
 Be gentle. Be bold.  

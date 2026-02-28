@@ -128,8 +128,8 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - In the face of widespread scarcity, hunger, poverty, debt and privation, it is easy to ask “[[Is There Enough?]]“.  
 - The answer is absolutely yes. It is entirely possible for every family on Earth in the [[New Era]] to enjoy a [[Standard Of Living]] and [[Quality Of Life]] that is [[Better]] than what *Any* has enjoyed in the past.  
 - The overall design of humanity’s present social, economic, and political structuring and the physical technology it uses ***wastes 90 to 95 out of every 100 units of the energy it consumes***.
-- Neither the great political and financial power structures of the world, nor the specialization-blinded professionals, nor the population in general realize that sumtotally the omni-engineering-integratable, invisible revolution in the metallurgical, chemical, and electronic, and energetic arts now makes it possible to do so much more with ever fewer pounds and volumes of material, ergs of energy, and seconds of time per given technological function that... 
-- ...***it is now highly feasible to take care of everybody on Earth at  a “higher standard of living than any have ever known.***  
+- Neither the great political and financial power structures of the world, nor the specialization-blinded professionals, nor the population in general realize that sumtotally the omni-engineering-integratable, invisible revolution in the metallurgical, chemical, and electronic, and energetic arts now makes it possible to do so much more with ever fewer pounds and volumes of material, ergs of energy, and seconds of time per given technological function that... 
+- ...***it is now highly feasible to take care of everybody on Earth at  a “higher standard of living than any have ever known.***  
 - It no longer has to be you or me. It no longer *can* be you or me. It is [[Everything For Everyone Or Oblivion]]. [[War Is Obsolete]]. 
 
 ### Weaponry to Livingry 
@@ -139,7 +139,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - This requires, primarily and as a [[Predecessor]], a [[Shift In Spirit, Consciousness, and Paradigm]] - [[FROM the Old TO the New]].   
 - The essence of [[Livingry]] is life advantaging and environment controlling.  
 - The essence of [[Weaponry]] is life and environment destroying.  
-- With the highest aeronautical and engineering facilities of the world redirected [[FROM Weaponry TO Livingry]] production, [[All Humanity]], for the first time in history, has the option of becoming enduringly successful.
+- With the highest aeronautical and engineering facilities of the world redirected [[FROM Weaponry TO Livingry]] production, [[All Humanity]], for the first time in history, has the option of becoming enduringly successful.
 
 ### A New Human Operating System 
 
@@ -153,44 +153,44 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 ### Existing Visible, and Invisible, Power Structures 
 
-- History shows that, only when the leaders of the world’s great power structures have become convinced that their power structures are in danger of being destroyed, have the gargantuanly large, adequate funds been appropriated for accomplishing the necessary New-epoch-opening new systems and technologies.  
-- The first thing first is to understand what the world power structures are and of what their unique technical levers and strategies consist.  
+- History shows that, only when the leaders of the world’s great power structures have become convinced that their power structures are in danger of being destroyed, have the gargantuanly large, adequate funds been appropriated for accomplishing the necessary New-epoch-opening new systems and technologies.  
+- The first thing first is to understand what the world power structures are and of what their unique technical levers and strategies consist.  
 - Throughout history… those who have gained and held control of the world’s [[Supply Lines]]… have done so by become masters in the game of establishing… [[Power Over]] all other subpowerful organizations.  
-- The fall of Troy saw the supremacy over human affairs pass from the masters of the overland, Asia-to-Europe, inland-sea ferrying and caravaning lines of supply to the masters of the high-seas, maritime lines of supply. 
-- The fifteenth-century Europeans’ adoption of Arabic numerals and their computation-facilitating “positioning-of-numbers” altogether made possible Columbus’s navigational calculations and Copernicus’s discovery of the  operational patterning of the solar system and its planets. 
-- These breakthroughs were applied to improving the building of the ships and their circum-navigational capacities. 
-- With Magellan’s crew’s completion of his planned circumnavigation in the 16th century, the planet Earth’s predominantly water-covered sphericity was (re)proven.  
-- The struggle for supreme mastery of human affairs thus passed out of the Mediterranean and into the world’s oceans.  
-- In 1600 Queen Elizabeth I and a few intimates founded  the East India Company. Exercising her crown privileges,  the queen granted the company limited liability for losses on the part of the enterprise backers.
-- While the owners could insure and very greatly limit the  magnitude of their losses, the sailors and their families could not. “Ltd.”—limited, in England—and “Inc.”—  incorporated, in the U.S.A.—and other similar legal definitions in all capitalist countries constitute “for ages uncontested”—ergo, custom-validated and legal-judgment—upheld—royal decrees greatly favoring big-money capitalism over the mortal, breadwinner-loss-taking vast majority of the poor and working class.  
+- The fall of Troy saw the supremacy over human affairs pass from the masters of the overland, Asia-to-Europe, inland-sea ferrying and caravaning lines of supply to the masters of the high-seas, maritime lines of supply. 
+- The fifteenth-century Europeans’ adoption of Arabic numerals and their computation-facilitating “positioning-of-numbers” altogether made possible Columbus’s navigational calculations and Copernicus’s discovery of the  operational patterning of the solar system and its planets. 
+- These breakthroughs were applied to improving the building of the ships and their circum-navigational capacities. 
+- With Magellan’s crew’s completion of his planned circumnavigation in the 16th century, the planet Earth’s predominantly water-covered sphericity was (re)proven.  
+- The struggle for supreme mastery of human affairs thus passed out of the Mediterranean and into the world’s oceans.  
+- In 1600 Queen Elizabeth I and a few intimates founded  the East India Company. Exercising her crown privileges,  the queen granted the company limited liability for losses on the part of the enterprise backers.
+- While the owners could insure and very greatly limit the  magnitude of their losses, the sailors and their families could not. “Ltd.”—limited, in England—and “Inc.”—  incorporated, in the U.S.A.—and other similar legal definitions in all capitalist countries constitute “for ages uncontested”—ergo, custom-validated and legal-judgment—upheld—royal decrees greatly favoring big-money capitalism over the mortal, breadwinner-loss-taking vast majority of the poor and working class.  
 - Elizabeth’s East India Company scheme was to have her national navy (and armies) first win mastery of the world’s sea-lanes. This advantage would thereafter be exploited by her privately owned enterprise.  
 - This scheme became one of the first of such [[National Power Structure]] bids for establishing and maintaining world-trade supremacy through dominance of…. the world-around lines of vital and desirable supplies ([[Supply Lines]]).
-- All the other world-power-stature individuals who vied for supreme mastery of the world’s high seas lines of supply ***also operated invisibly through monarchs and nations over whom they had sufficient influence***. 
-- Through such behind-the-throne influence, the influenced nation’s resources could be politically maneuvered through the [[Visible Power Structures]] into paying for the building and operation of the navies and armies that would seek to establish and protect the privately owned enterprises of the [[Invisible Power Structures]].  
-- With the Battle of Trafalgar in 1805 the British Empire  won “the world’s power structures championship” and became historically the first empire “upon which,” it was said, “the sun never sets.” 
-- This is because it was the first  empire in history to embrace the entire spherical planet Earth’s 71-percent maritime, 29-percent landed, wealth-producing activities.  
+- All the other world-power-stature individuals who vied for supreme mastery of the world’s high seas lines of supply ***also operated invisibly through monarchs and nations over whom they had sufficient influence***. 
+- Through such behind-the-throne influence, the influenced nation’s resources could be politically maneuvered through the [[Visible Power Structures]] into paying for the building and operation of the navies and armies that would seek to establish and protect the privately owned enterprises of the [[Invisible Power Structures]].  
+- With the Battle of Trafalgar in 1805 the British Empire  won “the world’s power structures championship” and became historically the first empire “upon which,” it was said, “the sun never sets.” 
+- This is because it was the first  empire in history to embrace the entire spherical planet Earth’s 71-percent maritime, 29-percent landed, wealth-producing activities.  
 - All earlier empires were infinite systems - open systems.  
-- The British Empire was history’s first spherically closed, finite system.  
-- Building and maintaining the world’s  most powerful navy, the 1805 supremely victorious British Empire was to maintain its sovereignty over the world’s oceans and seas for 113 years until the end of World War I in 1918, when its dominions signed the peace treaties and joined the new League of Nations as independent states.  
+- The British Empire was history’s first spherically closed, finite system.  
+- Building and maintaining the world’s  most powerful navy, the 1805 supremely victorious British Empire was to maintain its sovereignty over the world’s oceans and seas for 113 years until the end of World War I in 1918, when its dominions signed the peace treaties and joined the new League of Nations as independent states.  
 - The League of Nations was the first worldwide intergovernmental organization, operating until 1946 when many of its components were relocated into the new United Nations, and the current World Order morphed into its present form…
 - …which now appears to be entering a phase of [[Collapse]].  
 - [[Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It]] picks up here with the formation of [[The Blob]] of Invisible-Power-Structure-Backed-National-And-Supranational Governments, Institutions, Agencies, Departments, and NGOs, colluding to implement the Agenda of the [[Invisible Power Structures]].  
 
 ### Perceived Scarcity, and Us vs. Them 
 
-- Concurrently with its 1600 A.D.—initiated two centuries of maritime and military struggle for world dominance, England was also developing a civilian army of the  world’s best-informed and Empire-backed scientific, economic, and managerial personnel for the most economically profitable realization of its grand, world-embracing  strategies.  
-- To educate the army of civil servants was the responsibility of the East India Company College located just outside of London. 
-- Its  graduates went to all known parts of the planet to gather  all possible data on the physical and human culture resources to be exploited as well as information on the local  customs of all the countries, large and small. 
-- In 1800 Thomas Malthus, later professor of political  economics of the East India Company College, was the first human in history to receive a comprehensively complete inventory of the world’s vital and economic statistics.  
-- In a later-post-Trafalgar-book Malthus confirmed in 1810 his 1800 finding that world-around  humanity was increasing its numbers at a geometrical progression rate while increasing its life-support production at only an arithmetical progression rate, ergo, an increasing majority of humans would have to live out their short  years in want and misery. 
-- A half-century later Darwin expounded his theory of  evolution, assuming that nature’s inexorable processes were the consequence of the “survival only of the fittest species and individuals within those species.”  
+- Concurrently with its 1600 A.D.—initiated two centuries of maritime and military struggle for world dominance, England was also developing a civilian army of the  world’s best-informed and Empire-backed scientific, economic, and managerial personnel for the most economically profitable realization of its grand, world-embracing  strategies.  
+- To educate the army of civil servants was the responsibility of the East India Company College located just outside of London. 
+- Its  graduates went to all known parts of the planet to gather  all possible data on the physical and human culture resources to be exploited as well as information on the local  customs of all the countries, large and small. 
+- In 1800 Thomas Malthus, later professor of political  economics of the East India Company College, was the first human in history to receive a comprehensively complete inventory of the world’s vital and economic statistics.  
+- In a later-post-Trafalgar-book Malthus confirmed in 1810 his 1800 finding that world-around  humanity was increasing its numbers at a geometrical progression rate while increasing its life-support production at only an arithmetical progression rate, ergo, an increasing majority of humans would have to live out their short  years in want and misery. 
+- A half-century later Darwin expounded his theory of  evolution, assuming that nature’s inexorable processes were the consequence of the “survival only of the fittest species and individuals within those species.”  
 - Karl Marx compounded Malthus’s and Darwin’s scientifically convincing conclusion, pitting the workers and the elite against one another. 
-- For the last century these two ideologies, communism and free enterprise, have dominated the political affairs of world-around humanity… each side claiming that they have the fittest, fairest, most-ingenius way of coping with the perceived-lethal-inadequacy of [[Life Support]] operative on our planet… 
-- …with only all-out-war to resolve which system is fittest to survive. 
-- Those in supreme power politically and economically appear to remain as yet convinced that our planet Earth has nowhere nearly enough [[Life Support]] for all humanity. 
-- All books on economics have only one basic tenet—the fundamental [[Scarcity]] of [[Life Support]].
-- The supreme political and economic powers appear to as-yet-assume that it has to be either you or me. Not enough for both.  
-- That is one reason why… those in positions of financial and power advantage fortify themselves even further, reasoning that unselfishness is suicidal. 
+- For the last century these two ideologies, communism and free enterprise, have dominated the political affairs of world-around humanity… each side claiming that they have the fittest, fairest, most-ingenius way of coping with the perceived-lethal-inadequacy of [[Life Support]] operative on our planet… 
+- …with only all-out-war to resolve which system is fittest to survive. 
+- Those in supreme power politically and economically appear to remain as yet convinced that our planet Earth has nowhere nearly enough [[Life Support]] for all humanity. 
+- All books on economics have only one basic tenet—the fundamental [[Scarcity]] of [[Life Support]].
+- The supreme political and economic powers appear to as-yet-assume that it has to be either you or me. Not enough for both.  
+- That is one reason why… those in positions of financial and power advantage fortify themselves even further, reasoning that unselfishness is suicidal. 
 - That is one reason why… military expenditures… have climbed into many trillions of dollars… spent in developing the ability to kill ever-more people, at ever-greater distance, in ever-shorter time.
 
 ### How Our Collective Inheritance Was Stolen 
@@ -605,54 +605,54 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 ### We Are All Billionaires - Our Collective Inheritance
 
-- The good news is that speaking from the standpoint of Spirit, Wisdom, Knowledge, and Technology, we now have 8 to 10 billion billionaires on board [[Worksite Earth]] who are entirely unaware of their good fortune. 
+- The good news is that speaking from the standpoint of Spirit, Wisdom, Knowledge, and Technology, we now have 8 to 10 billion billionaires on board [[Worksite Earth]] who are entirely unaware of their good fortune. 
 - All the knowledge, all the wealth, all the capabilities of [[The Giants]] do not actually belong to the [[Invisible Power Structures]] dominating and exploiting them to tighten their grip on [[Worksite Earth]]. 
 - They are Our [[Collective Inheritance]], and in partnership with God and One Another, we are going to do whatever is required to reclaim them before the existing Order collapses into the [[Chaos]] and [[Tyranny]] the [[Invisible Power Structures]] long for. 
-- Unbeknownst to humanity, their [[Collective Inheritance]] is being held in probate by general ignorance, fear, selfishness, and a myriad of paralyzing political, professional, licensing, zoning, building laws and the like, as bureaucratically maintained by the incumbent visible and invisible [[Power Structures]]. 
-- Dismaying as all this paralysis may be, a house or [[Order]] divided against itself cannot stand and will eventually [[Collapse]], eventually and inevitably leading to such a state of [[Meta Crisis]] that **comprehensive dissemination of the foregoing truths** will be accomplished through: 
+- Unbeknownst to humanity, their [[Collective Inheritance]] is being held in probate by general ignorance, fear, selfishness, and a myriad of paralyzing political, professional, licensing, zoning, building laws and the like, as bureaucratically maintained by the incumbent visible and invisible [[Power Structures]]. 
+- Dismaying as all this paralysis may be, a house or [[Order]] divided against itself cannot stand and will eventually [[Collapse]], eventually and inevitably leading to such a state of [[Meta Crisis]] that **comprehensive dissemination of the foregoing truths** will be accomplished through: 
 	- 1. The world-around-integrated electronic media broadcasting, 
-	- 2. An Individual to Individual Invitational and Educational Whisper Campaign, and 
-	- 3. The computerized switchover FROM the inherently-inadequate-life-support accounting scarcity based assumption of yesterday TO the adequate for-everyone-and-everything, [[Time-Energy Accounting]] comprehensively employed by the multi-billion-galaxied, eternally regenerative Universe itself.
+	- 2. An Individual to Individual Invitational and Educational Whisper Campaign, and 
+	- 3. The computerized switchover FROM the inherently-inadequate-life-support accounting scarcity based assumption of yesterday TO the adequate for-everyone-and-everything, [[Time-Energy Accounting]] comprehensively employed by the multi-billion-galaxied, eternally regenerative Universe itself.
 
 ### Time Energy Accounting 
 
-- The world-around-integrated, computer facilitated, cosmically compatible [[Accounting Switchover]] will make it popularly comprehensible that we do indeed have ten billion billionaires on our planet, thereby publicizing that fact and thereby inducing the systematic release of our [[Collective Inheritance]] to all Earthian humans. 
+- The world-around-integrated, computer facilitated, cosmically compatible [[Accounting Switchover]] will make it popularly comprehensible that we do indeed have ten billion billionaires on our planet, thereby publicizing that fact and thereby inducing the systematic release of our [[Collective Inheritance]] to all Earthian humans. 
 - All this [[Accounting Switchover]] must also be accomplished within the [[10 Year Grand Strategy]]. 
-- Only the computer can cope with the astronomical complexity of integrating the unpredicted potentials of the millions of invisible technology gains in physical capabilities already accomplished. 
-- Only world-considerate computer accounting will be able to produce the figures that will persuade all humanity  to divert [[High Science Technology]] [[FROM Weaponry TO Livingry]].  
-- Computer accounting and computing capability will clearly manifest that we indeed now have ten billion real-wealth billionaires. (All Humanity). 
+- Only the computer can cope with the astronomical complexity of integrating the unpredicted potentials of the millions of invisible technology gains in physical capabilities already accomplished. 
+- Only world-considerate computer accounting will be able to produce the figures that will persuade all humanity  to divert [[High Science Technology]] [[FROM Weaponry TO Livingry]].  
+- Computer accounting and computing capability will clearly manifest that we indeed now have ten billion real-wealth billionaires. (All Humanity). 
 - Human-Computer capability will distribute… credit cards to all humanity… whose constant living, travel, and development use will continually integrate all the production starts and holds on world-wide coordinated supplying of the needs of a world-around dynamically dwelling humanity, via the [[LIONSBERG Integrated Delivery System]]. 
-- The Decentralized Human-Computer capacity will allocate and optimize all physical substances to their uniquely best functional uses, calculated relative to [[Throughput]] of [[The Goal]].  
-- The computer Time Energy [[Accounting Switchover]] is not only possible  but mandatory and must be accomplished before the fear and ignorance of the billions of humans involved in the power structure’s bureaucracies panic and push the atomic-bomb and weaponized [[Artificial Intelligence]] release buttons as World War III escalates. 
+- The Decentralized Human-Computer capacity will allocate and optimize all physical substances to their uniquely best functional uses, calculated relative to [[Throughput]] of [[The Goal]].  
+- The computer Time Energy [[Accounting Switchover]] is not only possible  but mandatory and must be accomplished before the fear and ignorance of the billions of humans involved in the power structure’s bureaucracies panic and push the atomic-bomb and weaponized [[Artificial Intelligence]] release buttons as World War III escalates. 
 - What makes us say “panic” of the major political, religious, economic, and social bureaucracies? 
 - Bureaucracies will panic because all the great systems of Big Politics, Big Religion, Big Ideology, and Big Business would find their activities devastated by the universal physical and metaphysical success of All Humanity and All Creation as One Body. 
 
 ### Money vs. Wealth 
 
-- Those who make money with money deliberately keep  it scarce, and denominated in debt. 
+- Those who make money with money deliberately keep  it scarce, and denominated in debt. 
 - [[Money]] is not [[Wealth]]. 
-- [[Wealth]] is the accomplished spiritual, scientific, and technological ability to protect, nurture, support, provision and accommodate all growful needs of life and consciousness. 
+- [[Wealth]] is the accomplished spiritual, scientific, and technological ability to protect, nurture, support, provision and accommodate all growful needs of life and consciousness. 
 - [[Money]] is only an expediency-adopted means of interexchanging disparately sized, nonequatable items of real wealth.
 
 ### The Language of Science and Technology 
 
-- - There are two more prime obstacles to all humanity’s  realization of its option to “make it.” 
-	- One is the fact that  humanity does not understand the language of [[Science]]. 
-		- Therefore it does not know that all that science has ever  found out is that the physical Universe consists entirely of  the most exquisitely inter-reciprocating [[Technology]]. 
-		- Ninety-nine percent of humanity thinks technology is a  “new” phenomenon. 
+- - There are two more prime obstacles to all humanity’s  realization of its option to “make it.” 
+	- One is the fact that  humanity does not understand the language of [[Science]]. 
+		- Therefore it does not know that all that science has ever  found out is that the physical Universe consists entirely of  the most exquisitely inter-reciprocating [[Technology]]. 
+		- Ninety-nine percent of humanity thinks technology is a  “new” phenomenon. 
 		- The world populace identifies technology with 
 			- (1) weapons and 
 			- (2) machines that compete with them for jobs. 
-		- Most people therefore think they  are against technology, not knowing that the technology  they don’t understand is their only means of exercising  their option to “make it” on this planet and in this life. 
+		- Most people therefore think they  are against technology, not knowing that the technology  they don’t understand is their only means of exercising  their option to “make it” on this planet and in this life. 
 		- Fortunately the [[Mathematical Coordinate System]] that has been and as yet is employed by science is not the coordinate system employed by the physical Universe.
-		- …fortunately,  we have discovered nature’s coordinate system, which is  elegantly simple and popularly comprehensible.
-		- Synergetics (or similar) will make it possible for all humanity to comprehend that physical Universe is technology and that the  technology does make possible all humanity’s option to  endure successfully.
+		- …fortunately,  we have discovered nature’s coordinate system, which is  elegantly simple and popularly comprehensible.
+		- Synergetics (or similar) will make it possible for all humanity to comprehend that physical Universe is technology and that the  technology does make possible all humanity’s option to  endure successfully.
 
 ### Divide and Conquer by Existing Power Structures 
 
 - The other prime obstacle to realization of [[The Great Option]] is the fact that the world’s power structures have always “divided to conquer” and have always “kept divided to keep conquered.”  
-- As a consequence the power structure has so divided humanity—not  only into special function categories but into religious and  language and color categories—that individual humans are now helplessly inarticulate in the face of the present crisis. 
-- Categorized into warring factions, and understanding their political representation to be  completely corrupted, therefore they feel almost utterly helpless.  
+- As a consequence the power structure has so divided humanity—not  only into special function categories but into religious and  language and color categories—that individual humans are now helplessly inarticulate in the face of the present crisis. 
+- Categorized into warring factions, and understanding their political representation to be  completely corrupted, therefore they feel almost utterly helpless.  
 - For this reason, it is not possible to [[Avoid Failure]] and [[Achieve Success]] without [[Transcending The Lines That Have Divided Us In The Past]], and [[Reuniting As One Family]].  
 
 ### Energy 
@@ -660,7 +660,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 #### The Energy Transformation 
 
 - Over the coming generation, [[The Transformation]] will carry us: 
-	- FROM: Spending our cosmic-energy savings (fossil fuels) and cosmic-capital plant and equipment (atomic energy)  
+	- FROM: Spending our cosmic-energy savings (fossil fuels) and cosmic-capital plant and equipment (atomic energy)  
 	- TO: Living entirely within our cosmic-energy income, consisting of gravity and star distributed solar power, water power, tidal power, wave power, wind power, vegetation produced alcohols, methane gas, volcanism, etc.
 	- With a transitional plan consisting, potentially, of an interlinked and interoperable  network of [[Small Modular Nuclear Reactors]] and [[Waste To Energy]] Plasma technologies that provide virtually free, abundant, clean energy to every family on the planet. 
 	- The [[Transitional Plan]]  is implemented that ensure that historic wasteful and harmful technologies are scaled down, and regenerative [[New]] technologies scaled up, in an intelligent, phased, and responsible manner that does not destabilize existing [[Supply Chains]].  
@@ -670,32 +670,32 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 #### Energy Interlinking and Interoperability 
 
 - The electrical power and light generating industry is dominated by *privately owned* “public utilities”, whose largest customers are the Industries.  
-- Each utility has plotted the peak and valley patterns for each second of each day of all the years since the “public” utilities  entered the business. 
-- The utilities have many stand-by  generators, most of which are in operation for only a  small fraction of the time.
-- In the 1930s… we discovered that the integration of the electrical-generating networks of neighboring localities, whose peaks and valleys inherently differ to some degree… 
-- …results In the excess of any of the network’s member utilities at any one moment being frequently used by other grid members’ peaks. 
-- The practical limit on the distance of electrical power  delivery from the time of World War I until after World War II was 350 miles.
-- However, 350 miles could not span  the distances between any two of the continent’s four national time zones. 
-- In the 1960s, as a consequence of  the new technologies of the space age, ultrahigh-voltage, superconductivity, and other technical developments occurred that made 1500-mile delivery of electricity possible, practical, and economical.
+- Each utility has plotted the peak and valley patterns for each second of each day of all the years since the “public” utilities  entered the business. 
+- The utilities have many stand-by  generators, most of which are in operation for only a  small fraction of the time.
+- In the 1930s… we discovered that the integration of the electrical-generating networks of neighboring localities, whose peaks and valleys inherently differ to some degree… 
+- …results In the excess of any of the network’s member utilities at any one moment being frequently used by other grid members’ peaks. 
+- The practical limit on the distance of electrical power  delivery from the time of World War I until after World War II was 350 miles.
+- However, 350 miles could not span  the distances between any two of the continent’s four national time zones. 
+- In the 1960s, as a consequence of  the new technologies of the space age, ultrahigh-voltage, superconductivity, and other technical developments occurred that made 1500-mile delivery of electricity possible, practical, and economical.
 - Since the 1960s, there have been additional technological improvement in material science, engineering techniques, and infrastructure design. 
 - Today, it is difficult to set a practical limit on the limits of electrical transmission, with the threshold for impracticality continually expanding towards thousands of miles. 
 
-- This reach provided the  ability to span continental time zones, whose peaks and  valleys obviously differed greatly from one another, and  this meant greater profits to be derived from across timezone-integrated electrical-energy networks. 
+- This reach provided the  ability to span continental time zones, whose peaks and  valleys obviously differed greatly from one another, and  this meant greater profits to be derived from across timezone-integrated electrical-energy networks. 
 - This means, that for the first time in history, it is possible, and therefore perhaps a moral necessity, to integrate the world’s electrical energy networks into an interoperable [[Network Of Networks]].   
-- We must be able to continually integrate the energy demands of progressive night-into-day and day-into-night hemispheres of our revolving planet. 
-- With all the world’s electric energy needs being supplied by a twenty-four-hour-around, omni-integrated network, all of yesterday’s, onehalf-the-time-unemployed, standby generators will be usable all the time, thus swiftly doubling the operating capacity of the world’s electrical energy grid. 
-- When the 1500-mile-reach capability was technically established twenty years ago, it was  immediately evident… that we could carry the American electrical network grid across the Bering Straits from the Alaska grid to reach the extreme northeastern Russian grid, where the U.S.S.R. had completed a program of  installing dams and hydroelectric-power-generating stations on all their northerly flowing rivers all the way into eastern Kamchatka. 
-- About 1500 miles could interconnect the Russians’ Asiatic continent electric integrated power grid with the Alaskan grid of the industrial North American  electric energy grid. 
+- We must be able to continually integrate the energy demands of progressive night-into-day and day-into-night hemispheres of our revolving planet. 
+- With all the world’s electric energy needs being supplied by a twenty-four-hour-around, omni-integrated network, all of yesterday’s, onehalf-the-time-unemployed, standby generators will be usable all the time, thus swiftly doubling the operating capacity of the world’s electrical energy grid. 
+- When the 1500-mile-reach capability was technically established twenty years ago, it was  immediately evident… that we could carry the American electrical network grid across the Bering Straits from the Alaska grid to reach the extreme northeastern Russian grid, where the U.S.S.R. had completed a program of  installing dams and hydroelectric-power-generating stations on all their northerly flowing rivers all the way into eastern Kamchatka. 
+- About 1500 miles could interconnect the Russians’ Asiatic continent electric integrated power grid with the Alaskan grid of the industrial North American  electric energy grid. 
 - The experts of Canada and Russia have reviewed and found it feasible and desirable.
-- This world electric grid, with its omni-integrated advantage, will deliver its electric  energy anywhere, to anyone, at any one time, at **one common rate**, establishing global Energy Justice and helping eliminate [[Poverty]] in many forms. 
+- This world electric grid, with its omni-integrated advantage, will deliver its electric  energy anywhere, to anyone, at any one time, at **one common rate**, establishing global Energy Justice and helping eliminate [[Poverty]] in many forms. 
 
 ### Beyond Corruptible Currencies - The Time Energy Value System
 
-- The integration of the world electric grid, and the delivery of energy to All at One Common Rate may make possible a **world-around uniform costing and pricing system for all goods and services** based realistically on the time-energy metabolic accounting system of Universe. 
+- The integration of the world electric grid, and the delivery of energy to All at One Common Rate may make possible a **world-around uniform costing and pricing system for all goods and services** based realistically on the time-energy metabolic accounting system of Universe. 
 - In this **cosmically uniform, common energy-value system for all humanity**, costing will be expressed in kilowatthours, watt-hours, and watt-seconds of work being performed throughout the [[LIONSBERG Integrated Delivery System]].  
 - Kilowatthours will likely become the prime criteria of costing the production of the complex of metabolic involvements per each function or item needed or desired by humanity. 
-- These **uniform energy valuations** will replace all the world’s wildly intervarying, opinion-gambled-upon, top-power-system-manipulatable monetary systems. 
-- The time-energy world accounting system will do  away with all the inequities now occurring in regard to the arbitrarily maneuverable international shipping of goods  and the top economic power structure’s banker-invented, international balance-of-trade accountings.  
+- These **uniform energy valuations** will replace all the world’s wildly intervarying, opinion-gambled-upon, top-power-system-manipulatable monetary systems. 
+- The time-energy world accounting system will do  away with all the inequities now occurring in regard to the arbitrarily maneuverable international shipping of goods  and the top economic power structure’s banker-invented, international balance-of-trade accountings.  
 - It will eliminate all the tricky banking and securities-markets exploitations of all the around-the-world-time-zone activities differences in operation today, all unbeknownst to the at-all-times (billions of) humans who are sleeping.  
 
 ### Living Systems Data, and Regenerative Insurance and Finance
@@ -705,75 +705,75 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - [[Case Study - Precision Measurement, Living Systems Data, and Regenerative Insurance]] 
 - The knowledge, in advance, of how proposed human activities impact the regenerative capacity of the local ecosystem and the Earth for current and [[Future Generations]] will bring into existence an entirely new paradigm of regenerative insurance and finance, where costs cannot be externalized, and resources cannot [[Flow]] unless proposed activities are [[Regenerative]] in nature. 
 
-## Beyond Nation States 
+## Beyond Nation States 
 
 - The world energy network grid, coupled with Living Systems Data and the Integrated Delivery System…
-- …will expose that we now have 150 supreme admirals, all trying  to command our one [[Vessel Earth]] to go in different directions, with the result that the ship is going around in circles—getting nowhere and risking being torn to shreds.  
-- The 150 corrupt national bureaucracies and the [[Invisible Power Structures]] behind them are presently acting as 150 blood clots in blocking the [[Flow]] of recirculating materials, metals, knowledge, and other traffic essential to the [[Progressive Realization]] of [[The Goal]].  
+- …will expose that we now have 150 supreme admirals, all trying  to command our one [[Vessel Earth]] to go in different directions, with the result that the ship is going around in circles—getting nowhere and risking being torn to shreds.  
+- The 150 corrupt national bureaucracies and the [[Invisible Power Structures]] behind them are presently acting as 150 blood clots in blocking the [[Flow]] of recirculating materials, metals, knowledge, and other traffic essential to the [[Progressive Realization]] of [[The Goal]].  
 - It is exceedingly likely that we will swiftly transcend these nationalities into an Omni-Integrated Human System that protects the sovereignty and autonomy of each locality, while enabling [[Flow]] across dividing lines and affording the significant new capabilities required to grapple with the crises and opportunities at hand. 
 
 ### Beyond “Jobs”
 
-- Each question will be programmed into the computer asking which way society will experience the lowest-cost optimum living: by giving all humans handsome fellowships, with an income adequate for a high standard of living, or by having them go on earning their livings by doing “jobs”.
-- The computer will show that ~70 percent of all jobs  in America and probably an equivalently high percentage of the jobs in other Western private-enterprise countries are preoccupied with work that is not producing any true [[Value]], [[Wealth]], or [[Life Support]] — inspectors of inspectors, reunderwriters of insurance reinsurers, Obnoxico promoters, spies and counterspies, lobbyists, standing armies, weaponry makers, etc. 
-- The computer will verify both of the important findings of the brilliant Denver, Colorado, oil geologist, François de Chardenèdes… that, with all that cosmic-energy processing… and processing time (paid for at the rates you and I pay for household electrical energy), it costs nature well over a million dollars to produce each gallon of petroleum. 
-- We will discover all the no-life-support-wealth-producing people going to their “jobs” in their cars or buses, spending trillions of dollars’ worth of petroleum daily to get to  their no-wealth-producing jobs. 
+- Each question will be programmed into the computer asking which way society will experience the lowest-cost optimum living: by giving all humans handsome fellowships, with an income adequate for a high standard of living, or by having them go on earning their livings by doing “jobs”.
+- The computer will show that ~70 percent of all jobs  in America and probably an equivalently high percentage of the jobs in other Western private-enterprise countries are preoccupied with work that is not producing any true [[Value]], [[Wealth]], or [[Life Support]] — inspectors of inspectors, reunderwriters of insurance reinsurers, Obnoxico promoters, spies and counterspies, lobbyists, standing armies, weaponry makers, etc. 
+- The computer will verify both of the important findings of the brilliant Denver, Colorado, oil geologist, François de Chardenèdes… that, with all that cosmic-energy processing… and processing time (paid for at the rates you and I pay for household electrical energy), it costs nature well over a million dollars to produce each gallon of petroleum. 
+- We will discover all the no-life-support-wealth-producing people going to their “jobs” in their cars or buses, spending trillions of dollars’ worth of petroleum daily to get to  their no-wealth-producing jobs. 
 - It doesn’t take a computer to tell you that it will save both Universe and humanity trillions of dollars a day to liberate them from their [[Debt]] and pay them handsomely to and stay at home and unleash their [[Creative Consciousness]] in others [[Value]]-Producing ways. 
-- The greatest privilege in human affairs will be to be allowed to join any one of the core real wealth-production or maintenance teams.
+- The greatest privilege in human affairs will be to be allowed to join any one of the core real wealth-production or maintenance teams.
 
-### Beyond Opinions and Dogmatic Ideologies 
+### Beyond Opinions and Dogmatic Ideologies 
 
-- Time and again in their short history computers have  demonstrated their ability to reverse historically assumed-to-be-unalterable positions of both sides of the opposed political / economic power structure’s directorates or committees. 
-- Computers can remember accurately and can  cope with and integrate the vast amounts of all known,  relevant information on complex problems, uncopeable with prior to the computer. 
+- Time and again in their short history computers have  demonstrated their ability to reverse historically assumed-to-be-unalterable positions of both sides of the opposed political / economic power structure’s directorates or committees. 
+- Computers can remember accurately and can  cope with and integrate the vast amounts of all known,  relevant information on complex problems, uncopeable with prior to the computer. 
 - What we had prior to the computer were respected [[Opinions]] and only-selfishness-conditioned reflexes on how to cope. 
-- Though an opinion might be wrong, there was no practical and convincing way to prove it. 
-- Unchallenged, the opinions became respected precedent, then exceptionless concepts, and sometimes even civil and academically accepted *social law*. 
-- Computers will be used more and more to produce the opinion-obsoleting answers to progressive crises-provoked questions about which way world society as a  whole will enduringly profit and flourish the most.
-- Computers will correct misinformed and disadvantaged conditioned reflexes, not only of the few officials who have heretofore  blocked comprehensive techno-economic and political evolutionary advancement, but also of the vast majorities of humanity.
+- Though an opinion might be wrong, there was no practical and convincing way to prove it. 
+- Unchallenged, the opinions became respected precedent, then exceptionless concepts, and sometimes even civil and academically accepted *social law*. 
+- Computers will be used more and more to produce the opinion-obsoleting answers to progressive crises-provoked questions about which way world society as a  whole will enduringly profit and flourish the most.
+- Computers will correct misinformed and disadvantaged conditioned reflexes, not only of the few officials who have heretofore  blocked comprehensive techno-economic and political evolutionary advancement, but also of the vast majorities of humanity.
 
 ### Beyond ”School”
 
-- Comprehensively and incisively programmed with all  the relevant data regarding education, it will be evidenced  that the physical and social costs will be far less for individual, at-home-initiated, research-and-development-interned self-teaching than having individual students going to schools, being bused, being brainwashed, and so on.
-- The computer will make it clear that by far the most effective educational system for human beings—all the way  from birth through early childhood and on through lifelong learning and development — is that to be  derived from project based learning aided by the mobile phone, computer, home television, and supporting books, the pages of which are also to be called forth on world-cable-and-satellite-interlinked video “library” screens and translatable and publishable in any language.
-- The computer will also  make it very clear that, freed of the necessity to ”earn a living” by “working a job”, all humanity will want to exercise its fundamental  drive first to comprehend “what it is all about” and second to demonstrate competence in respect to the [[Grand Challenges]], [[Issues]], and [[Opportunities]] at hand. 
+- Comprehensively and incisively programmed with all  the relevant data regarding education, it will be evidenced  that the physical and social costs will be far less for individual, at-home-initiated, research-and-development-interned self-teaching than having individual students going to schools, being bused, being brainwashed, and so on.
+- The computer will make it clear that by far the most effective educational system for human beings—all the way  from birth through early childhood and on through lifelong learning and development — is that to be  derived from project based learning aided by the mobile phone, computer, home television, and supporting books, the pages of which are also to be called forth on world-cable-and-satellite-interlinked video “library” screens and translatable and publishable in any language.
+- The computer will also  make it very clear that, freed of the necessity to ”earn a living” by “working a job”, all humanity will want to exercise its fundamental  drive first to comprehend “what it is all about” and second to demonstrate competence in respect to the [[Grand Challenges]], [[Issues]], and [[Opportunities]] at hand. 
 - The [[New Era]] will be composed of liberated individuals, self-organizing into small [[Groups]] and [[Teams]], engaging in meaningful [[Quests]] that Solve Problems, eliminate [[Waste]], create [[Value]], and make their locality and world a better place. 
 - This ethos of project-and-value-based-learning-and-collaboration will be propagated back into the earliest childhood development, with pre-school through professional through old-age learning integrated into a comprehensive [[Way]] of continuously improving our lives and our world. 
 
-## Beyond Homelessness and Communitylessness
+## Beyond Homelessness and Communitylessness
 
-- Now is the time for the comprehensive [[AEC]] profession to reorient itself from the  six-months-per-one-residence work schedule to the millions-per-day, air-deliverable, sewer-and-water-mains-emancipated, energy-harvesting, dwelling-machine production world with its unpurchasable, air-deliverable dwelling machines only rentable from (service industry)… 
+- Now is the time for the comprehensive [[AEC]] profession to reorient itself from the  six-months-per-one-residence work schedule to the millions-per-day, air-deliverable, sewer-and-water-mains-emancipated, energy-harvesting, dwelling-machine production world with its unpurchasable, air-deliverable dwelling machines only rentable from (service industry)… 
 - …able to accommodate at unprecedentedly high standards of living all humanity in their own bioregional and cultural contexts. 
-- Now is also the time  for the [[AEC]] profession to reorient itself from the  years-to-build, human-need-exploiting cities to the all-in-one-day-air-deliverable-or-removable, human-needserving, singly-domed-over cities.
-- We have to satisfactorily rehouse… billions of humans… within a single generation. 
+- Now is also the time  for the [[AEC]] profession to reorient itself from the  years-to-build, human-need-exploiting cities to the all-in-one-day-air-deliverable-or-removable, human-needserving, singly-domed-over cities.
+- We have to satisfactorily rehouse… billions of humans… within a single generation. 
 - Reference also [[Above The Chaos, 80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
 - This aspect of the [[Meta Project]] alone ensures that there is [[Meaningful Work]] available for every human being who wants to positively participate in the transformation of their lives and their world.  
 
-## The Role of Humanity and the Final Exam 
+## The Role of Humanity and the Final Exam 
 
-- Humanity is opening a whole [[New Era]] of eternally functioning in local support of the integrity of eternally regenerative Universe. 
-- To know now what we could never have known before — that we now have an option for all humanity to  “make it” successfully on this planet in this lifetime — is not to be optimistic...
-- It is only a validation of hope, a hope that had no operationally foreseeable validity before the last decades that mark the transition into the [[New Millennium]]. 
+- Humanity is opening a whole [[New Era]] of eternally functioning in local support of the integrity of eternally regenerative Universe. 
+- To know now what we could never have known before — that we now have an option for all humanity to  “make it” successfully on this planet in this lifetime — is not to be optimistic...
+- It is only a validation of hope, a hope that had no operationally foreseeable validity before the last decades that mark the transition into the [[New Millennium]]. 
 - Whether it is to be Utopia or Oblivion, Heaven or Hell, will be a touch-and-go relay race right up to the final moment as we [[Pass The Flame]] and [[Progress]] through the [[10 Year Grand Strategy]].
-- Humanity is in “final exam” as to  whether or not it qualifies for continuance in Universe… 
-- Human minds have a unique cosmic function not identifiable with any other phenomenon—the capability to act as local Universe information harvesters and local Universe problem-solvers in support of the integrity of eternally regenerative Universe. 
+- Humanity is in “final exam” as to  whether or not it qualifies for continuance in Universe… 
+- Human minds have a unique cosmic function not identifiable with any other phenomenon—the capability to act as local Universe information harvesters and local Universe problem-solvers in support of the integrity of eternally regenerative Universe. 
 - We humans are here in Universe to exercise the Universe-functioning of [[Mind]].  
-- Only [[Mind]] can apprehend, abide by, and be led by [[Truth]].
+- Only [[Mind]] can apprehend, abide by, and be led by [[Truth]].
 - The [[Creator]] is inviting us to apprehend the [[Logos]] of the Universe, and become [[Co-Creators]] of the [[Best Possible Future]] for [[All]].
-- The political and economic systems and the political  and economic leaders of humanity are not in final examination; it is the integrity of each ***individual*** human that is in final examination.
-- On personal integrity hangs humanity’s fate. 
-- You can deceive others, you can deceive your brain-self, but you can’t deceive your mind-self—for mind deals  only in the discovery of [[Truth]] and the interrelationship of all the truths. The cosmic laws and [[Logos]] with which mind deals are incorruptible. 
+- The political and economic systems and the political  and economic leaders of humanity are not in final examination; it is the integrity of each ***individual*** human that is in final examination.
+- On personal integrity hangs humanity’s fate. 
+- You can deceive others, you can deceive your brain-self, but you can’t deceive your mind-self—for mind deals  only in the discovery of [[Truth]] and the interrelationship of all the truths. The cosmic laws and [[Logos]] with which mind deals are incorruptible. 
 
-## Preparing and Navigating Towards Truth 
+## Preparing and Navigating Towards Truth 
 
-- If you…(prepare carefully)… you will be able to throw your weight into the balancing of humanity’s fate. 
-- While you could be “the  straw that breaks the camel’s back,” compressively you  can also be the “straw”—straw of intellect, initiative, unselfishness, comprehensive integrity, competence, and  love—whose ephemerally effective tension saves us.  
-- The invisibly tensive straws that can save us are those  of individual human integrities—in daring to steer the individual’s course only by truth, strange as the realized truth  may often seem—wherever and whenever the truths are  evidenced to the individual—wherever they may lead, unfamiliar as the way may be. 
-- …humans have learned scientifically that the exact truth can never be attained or told. We can reduce the degree of [[Residual Error]], but we have learned physically… that exactitude is prohibited… 
-- We can sense that only [[God]] is the perfect—the exact  [[Truth]]. 
+- If you…(prepare carefully)… you will be able to throw your weight into the balancing of humanity’s fate. 
+- While you could be “the  straw that breaks the camel’s back,” compressively you  can also be the “straw”—straw of intellect, initiative, unselfishness, comprehensive integrity, competence, and  love—whose ephemerally effective tension saves us.  
+- The invisibly tensive straws that can save us are those  of individual human integrities—in daring to steer the individual’s course only by truth, strange as the realized truth  may often seem—wherever and whenever the truths are  evidenced to the individual—wherever they may lead, unfamiliar as the way may be. 
+- …humans have learned scientifically that the exact truth can never be attained or told. We can reduce the degree of [[Residual Error]], but we have learned physically… that exactitude is prohibited… 
+- We can sense that only [[God]] is the perfect—the exact  [[Truth]]. 
 - We can come ever nearer to [[God]] by progressively eliminating [[Residual Error]]. 
-- The nearest each of us can  come to [[God]] is by loving the [[Truth]]. 
-- If we don’t program  the computer truthfully with all the truth and nothing but the truth, we won’t get the answers that allow us to  “make it.” 
-- In speaking of [[Truth]] we are not talking about the position to take that seems to put you in the most favorable light. We are not talking about political correctness, or bending our speech to the dictates of dogmatic religion or ideology. 
+- The nearest each of us can  come to [[God]] is by loving the [[Truth]]. 
+- If we don’t program  the computer truthfully with all the truth and nothing but the truth, we won’t get the answers that allow us to  “make it.” 
+- In speaking of [[Truth]] we are not talking about the position to take that seems to put you in the most favorable light. We are not talking about political correctness, or bending our speech to the dictates of dogmatic religion or ideology. 
 - We are talking about the [[Progressive Realization]] of the [[Light]] and [[Logos]] ItSelf that enables the  [[Progressive Enlightenment]] of the Universe. 
 
 ## Self-Discipline and What To Do
@@ -781,15 +781,15 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - [[Light Your Candle]], and [[Pass The Flame]].  
 - Each year I receive and answer many hundreds of unsolicited letters from youth anxious to know what the little individual can do.
 - The things to do are: 
-	- the things that need doing:  
+	- the things that need doing:  
 	- that you see need to be done 
-	- that no one else seems to see need to be done. 
-- Then you will conceive your own way of doing that which needs to  be done—that no one else has told you to do or  how to do it. 
-- This will bring out the real you… 
+	- that no one else seems to see need to be done. 
+- Then you will conceive your own way of doing that which needs to  be done—that no one else has told you to do or  how to do it. 
+- This will bring out the real you… 
 - Try making experiments of anything you conceive and are intensely interested in. 
 - Don’t be disappointed if something doesn’t work. 
-- That is what you want to know—the [[Truth]] about everything—and then the [[Truth]] about combinations of things.
-- Whenever you come to a word with which you are not familiar, find it in the dictionary and write a sentence which uses that new word. Words are tools - [[Word Tools]] — and once you have learned how to use a  tool you will never forget it.
+- That is what you want to know—the [[Truth]] about everything—and then the [[Truth]] about combinations of things.
+- Whenever you come to a word with which you are not familiar, find it in the dictionary and write a sentence which uses that new word. Words are tools - [[Word Tools]] — and once you have learned how to use a  tool you will never forget it.
 - If your vocabulary is comprehensive, you can comprehend both the most subtle and most comprehensive patterns of experience.
 
 ____

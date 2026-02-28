@@ -5,7 +5,7 @@
 
 On its Quest towards Destiny, humanity is at a crossroads, standing before [[The Final Test]]—a moment of profound challenge and opportunity. Around the world, millions are awakening, stepping into their unique roles to help heal, elevate, and regenerate our shared reality. Yet in isolation, even the most gifted among Us lack the resources, relationships, and collective strength to transform the root causes of suffering and forge [[The Future We Seek]].
 
-Lionsberg was purpose-built to guide and empower humanity in this [[Quest]]: to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. To succeed, We must identify, connect, and empower [[The First Three Percent]]—a planetary grid of leadership, light, and love—_**by 2026.**_ This is Our [[Critical Path]], and time is short.
+Lionsberg was purpose-built to guide and empower humanity in this [[Quest]]: to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. To succeed, We must identify, connect, and empower [[The First Three Percent]]—a planetary grid of leadership, light, and love—_**by 2026.**_ This is Our [[Critical Path]], and time is short.
 
 _**You are here for a reason.**_
 

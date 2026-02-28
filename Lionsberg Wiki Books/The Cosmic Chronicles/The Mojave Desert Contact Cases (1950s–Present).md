@@ -118,10 +118,10 @@ The area has also been associated with interdimensional theories, with researche
 
 - **Books:**
     
-    - Angelucci, Orfeo. _The Secret of the Saucers._
-    - Van Tassel, George. _I Rode a Flying Saucer._
+    - Angelucci, Orfeo. _The Secret of the Saucers._
+    - Van Tassel, George. _I Rode a Flying Saucer._
 - **Documentaries:**
     
-    - _The Mojave Desert Mysteries (2017)_ – Explores UFO sightings and contactee experiences in the region.
-    - _Close Encounters in the Mojave (2020)_ – A detailed investigation into modern cases.
+    - _The Mojave Desert Mysteries (2017)_ – Explores UFO sightings and contactee experiences in the region.
+    - _Close Encounters in the Mojave (2020)_ – A detailed investigation into modern cases.
 

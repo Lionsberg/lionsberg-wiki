@@ -104,12 +104,12 @@ On October 27, 1975, security personnel observed an unidentified object describe
 
 - **Books:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Declassified Documents:**
     
     - U.S. Air Force reports on the 1975 Loring incidents (available via FOIA requests).
 - **Documentaries:**
     
-    - _UFOs and Nukes: The Secret Link Revealed_ – Covers the Loring incidents and other nuclear-related UFO cases.
+    - _UFOs and Nukes: The Secret Link Revealed_ – Covers the Loring incidents and other nuclear-related UFO cases.
 

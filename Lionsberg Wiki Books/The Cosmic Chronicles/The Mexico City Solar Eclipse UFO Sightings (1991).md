@@ -105,13 +105,13 @@ The sightings caused a media frenzy in Mexico. Reports flooded in from various p
 
 - **Books:**
     
-    - Maussan, Jaime. _UFOs Over Mexico: The Solar Eclipse Event._
-    - Vallee, Jacques. _Revelations: Alien Contact and Human Deception._
+    - Maussan, Jaime. _UFOs Over Mexico: The Solar Eclipse Event._
+    - Vallee, Jacques. _Revelations: Alien Contact and Human Deception._
 - **Documentaries:**
     
-    - _The 1991 Eclipse UFOs_ (Discovery Channel Special).
+    - _The 1991 Eclipse UFOs_ (Discovery Channel Special).
 - **Web Resources:**
     
-    - UFO Casebook Report: [http://www.ufocasebook.com](http://www.ufocasebook.com/)
-    - Analysis of Eclipse UFOs: [https://www.mufon.com](https://www.mufon.com/)
+    - UFO Casebook Report: [http://www.ufocasebook.com](http://www.ufocasebook.com/)
+    - Analysis of Eclipse UFOs: [https://www.mufon.com](https://www.mufon.com/)
 

@@ -110,13 +110,13 @@ Witnesses reported feeling awe and confusion. Many were convinced they had seen 
 
 - **Books:**
     
-    - Rutkowski, Chris. _The Canadian UFO Report: The Best Cases Revealed._
-    - Davenport, Peter. _UFOs Over Canada: A History of Sightings._
+    - Rutkowski, Chris. _The Canadian UFO Report: The Best Cases Revealed._
+    - Davenport, Peter. _UFOs Over Canada: A History of Sightings._
 - **Documentaries:**
     
-    - _The Yukon UFO Encounter_ (CBC Documentary).
+    - _The Yukon UFO Encounter_ (CBC Documentary).
 - **Web Resources:**
     
-    - Ufology Research of Manitoba: [http://www.canadianuforesearch.com](http://www.canadianuforesearch.com/)
-    - NICAP Report on Yukon Incident: [https://www.nicap.org](https://www.nicap.org/)
+    - Ufology Research of Manitoba: [http://www.canadianuforesearch.com](http://www.canadianuforesearch.com/)
+    - NICAP Report on Yukon Incident: [https://www.nicap.org](https://www.nicap.org/)
 

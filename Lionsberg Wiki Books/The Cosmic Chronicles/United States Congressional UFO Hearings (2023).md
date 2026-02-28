@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-In **2023**, the United States Congress held a series of high-profile hearings on **Unidentified Aerial Phenomena (UAP)**, reflecting growing bipartisan interest and concern over the potential implications of UAPs for national security, airspace safety, and scientific discovery. These hearings featured testimony from whistleblowers, military officials, and UAP investigators. Although carefully scripted and controlled, they marked a significant step toward [[Controlled Disclosure]] and public discourse on a topic long shrouded in secrecy.
+In **2023**, the United States Congress held a series of high-profile hearings on **Unidentified Aerial Phenomena (UAP)**, reflecting growing bipartisan interest and concern over the potential implications of UAPs for national security, airspace safety, and scientific discovery. These hearings featured testimony from whistleblowers, military officials, and UAP investigators. Although carefully scripted and controlled, they marked a significant step toward [[Controlled Disclosure]] and public discourse on a topic long shrouded in secrecy.
 
 ---
 
@@ -10,7 +10,7 @@ In **2023**, the United States Congress held a series of high-profile hearings 
 
 1. **Context:**
     
-    - Following the release of the **2021 UAP Task Force Report** and the establishment of the **All-domain Anomaly Resolution Office (AARO)** in 2022, Congress intensified its scrutiny of UAPs.
+    - Following the release of the **2021 UAP Task Force Report** and the establishment of the **All-domain Anomaly Resolution Office (AARO)** in 2022, Congress intensified its scrutiny of UAPs.
     - The 2023 hearings were driven by increasing public interest, whistleblower revelations, and bipartisan pressure for accountability regarding the U.S. government's handling of UAP investigations.
 2. **Key Motivations:**
     
@@ -25,23 +25,23 @@ In **2023**, the United States Congress held a series of high-profile hearings 
 
 #### **1. July 26, 2023: Whistleblower Testimony**
 
-This hearing before the **House Oversight Committee's Subcommittee on National Security, the Border, and Foreign Affairs** was one of the most significant UAP discussions in U.S. history.
+This hearing before the **House Oversight Committee's Subcommittee on National Security, the Border, and Foreign Affairs** was one of the most significant UAP discussions in U.S. history.
 
 1. **Whistleblower Accounts:**
     
     - **David Grusch:**
         
-        - A former intelligence officer with the **National Geospatial-Intelligence Agency (NGA)** and the **National Reconnaissance Office (NRO)**, Grusch alleged the existence of highly classified programs recovering and reverse-engineering non-human craft.
+        - A former intelligence officer with the **National Geospatial-Intelligence Agency (NGA)** and the **National Reconnaissance Office (NRO)**, Grusch alleged the existence of highly classified programs recovering and reverse-engineering non-human craft.
         - Claimed the U.S. government has retrieved "non-human biologics" from crash sites.
         - Stated that efforts to disclose UAP information have been met with obstruction and retribution.
     - **Ryan Graves:**
         
-        - Former U.S. Navy pilot and executive director of **Americans for Safe Aerospace**.
+        - Former U.S. Navy pilot and executive director of **Americans for Safe Aerospace**.
         - Described frequent UAP encounters off the U.S. East Coast, including objects demonstrating extraordinary flight characteristics (e.g., no visible propulsion, hovering against winds).
         - Emphasized the potential risk to aviation safety due to lack of standardized reporting mechanisms.
     - **David Fravor:**
         
-        - Retired Navy Commander and pilot who witnessed the **2004 USS Nimitz "Tic Tac" UAP encounter**.
+        - Retired Navy Commander and pilot who witnessed the **2004 USS Nimitz "Tic Tac" UAP encounter**.
         - Recalled a UAP demonstrating physics-defying maneuvers, such as sudden accelerations and directional changes beyond known technological capabilities.
 2. **Congressional Reaction:**
     
@@ -60,7 +60,7 @@ Subsequent hearings highlighted the need for improved governmental transparency 
     - Whistleblowers alleged that classified programs have withheld information from both Congress and the public.
 2. **Legislative Initiatives:**
     
-    - Proposed amendments to the **National Defense Authorization Act (NDAA)** to:
+    - Proposed amendments to the **National Defense Authorization Act (NDAA)** to:
         - Mandate full disclosure of UAP-related programs to Congress.
         - Establish mechanisms for whistleblower protection.
         - Require regular, unclassified reports to the public.

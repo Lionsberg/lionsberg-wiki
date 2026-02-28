@@ -116,13 +116,13 @@ While France reported the majority of sightings, similar incidents occurred in I
 
 - **Books:**
     
-    - Michel, Aimé. _Flying Saucers and the Straight-Line Mystery._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Michel, Aimé. _Flying Saucers and the Straight-Line Mystery._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Documentaries:**
     
-    - _The 1954 UFO Wave_ (French TV Special).
+    - _The 1954 UFO Wave_ (French TV Special).
 - **Web Resources:**
     
-    - European UFO Research Archive: [https://eufoarchive.org](https://eufoarchive.org/)
-    - NICAP Report on European UFOs: [https://www.nicap.org](https://www.nicap.org/)
+    - European UFO Research Archive: [https://eufoarchive.org](https://eufoarchive.org/)
+    - NICAP Report on European UFOs: [https://www.nicap.org](https://www.nicap.org/)
 

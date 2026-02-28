@@ -1,6 +1,6 @@
 # Meditation 31
 
-The central decision is for what we are going to live for. If we seek first security, money, safety, food, and clothes, our true needs by definition can never be met. If we live from and for Spirit and Soul, then even in suffering, want, or loss we are free. 
+The central decision is for what we are going to live for. If we seek first security, money, safety, food, and clothes, our true needs by definition can never be met. If we live from and for Spirit and Soul, then even in suffering, want, or loss we are free. 
 
 ___
 

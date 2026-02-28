@@ -14,7 +14,7 @@ Rest, ReOrient, and ReMember.
 This is no ordinary journey.  
 You have entered a living work —  
 a sacred experiment in **Becoming** —  
-The Co-Creation of a **New Civilization**.
+The Co-Creation of a **New Civilization**.
 
 You do not walk alone.  
 Across the Earth — and far Beyond —  
@@ -22,7 +22,7 @@ Countless others are awakening,
 Rising like sparks of The Sacred Flame,  
 Each carrying their part of the Divine Fire forward.
 
-This is the **First Step** of your **Sacred Quest**.  
+This is the **First Step** of your **Sacred Quest**.  
 Ahead lie countless challenges, obstacles, and choices.  
 In each moment, The Story transforms  
 With the decisions of trillions of conscious agents,  

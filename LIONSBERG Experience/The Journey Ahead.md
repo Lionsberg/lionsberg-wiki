@@ -10,7 +10,7 @@ Before you lies a Path into the Unknown —
 Winding, perilous, luminous.  
 The thrill of adventure calls.  
 This is no casual stroll.  
-It is an **Initiation**.
+It is an **Initiation**.
 
 What you will encounter on the pages ahead is not merely text.  
 It is architecture.  
@@ -45,7 +45,7 @@ In the space of a single hour, you will be:
     
 - Called to your first Quest.
     
-- And at last, **gifted the Playbook — the living Guide to the Way.**
+- And at last, **gifted the Playbook — the living Guide to the Way.**
     
 
 By the end, you will stand not as an onlooker,  
@@ -98,11 +98,11 @@ By the end, you will see the Pattern entire.
 
 The Path unfolds in three movements:
 
-1. **Invitation & Initiation** — the Story, the Covenant, the Call.
+1. **Invitation & Initiation** — the Story, the Covenant, the Call.
     
-2. **Embodiment** — Roles, Circles, Practices, Quests.
+2. **Embodiment** — Roles, Circles, Practices, Quests.
     
-3. **Mission & Convergence** — the shared Work of renewal.
+3. **Mission & Convergence** — the shared Work of renewal.
     
 
 Beyond these, 
@@ -131,4 +131,4 @@ The Great Game of LIONSBERG has already begun.
 
 When you are ready,  
 Make **The Decision**,  
-And take 👉 **[[The First Step|The First Step →]]**  
+And take 👉 **[[The First Step|The First Step →]]**  

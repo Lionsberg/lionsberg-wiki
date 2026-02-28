@@ -123,7 +123,7 @@ And that Ultimate Reality ReBegins to heal and transform everything.
 Let us not reduce this to technique.  
 Let us not desecrate this to discipline.  
 This is not about effort.  
-This is about _orientation._  
+This is about _orientation._  
 This is not about religion.  
 This is about *relationship.*
 
@@ -162,7 +162,7 @@ are aspects of the ONE.
 ## **The Inhabited Stillness**
 
 This Stillness, like Space, is not empty.  
-It is _inhabited._
+It is _inhabited._
 
 It is not the absence of thought—  
 but the permeating presence of Truth.
@@ -173,7 +173,7 @@ with the Divine Heartbeat of Heaven.
 
 In this Stillness,  
 you do not vanish—  
-you _ReEmerge_ as a Divine Co-Creator.  
+you _ReEmerge_ as a Divine Co-Creator.  
 
 The True Self  
 beneath the masks and mechanisms  
@@ -181,11 +181,11 @@ steps forward from the Cloud of Forgetting
 and takes its rightful seat in the Temple of Now.  
 
 You do not merely feel peace.  
-You _Become_ peace.  
+You _Become_ peace.  
 You do not merely perceive God.  
-You _Co-Create_ with God.  
+You _Co-Create_ with God.  
 You do not merely hear the Whisper.  
-You _become a Divine Vessel for its speaking._
+You _become a Divine Vessel for its speaking._
 
 ---
 
@@ -198,7 +198,7 @@ It is to inhabit the Zero Point
 where Heaven and Earth touch.  
 
 And from that place,  
-you begin to _govern your life and world differently._
+you begin to _govern your life and world differently._
 
 Not from fear.  
 Not from force.  
@@ -227,8 +227,8 @@ to The Kingdom Unshakable and Eternal.
 
 ReConnection is not an isolated state.  
 It is not a retreat from the world.  
-It is the Way to InterExist _in_ the world  
-without being _of_ its distortions.
+It is the Way to InterExist _in_ the world  
+without being _of_ its distortions.
 
 You carry the Stillness into the storm.  
 You carry the Presence into the noise.  
@@ -239,7 +239,7 @@ And slowly,
 without forcing,  
 without preaching,  
 without even trying—  
-the world begins to _bend_  
+the world begins to _bend_  
 around the Spirit and Resonance you carry.  
 
 Others sense it.  
@@ -279,7 +279,7 @@ unless you have made the inward ReTurn.
 
 You cannot sustain The Work  
 unless you have ReMembered  
-how to _Be_ as _Doing Flows Through You_.  
+how to _Be_ as _Doing Flows Through You_.  
 
 You cannot wield the Power of God  
 to accomplish the Will of God  

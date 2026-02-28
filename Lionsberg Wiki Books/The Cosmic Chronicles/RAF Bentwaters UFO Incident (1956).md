@@ -81,13 +81,13 @@ Personnel on the ground also witnessed the event, describing a bright, pulsating
 
 - **Primary Accounts:**
     
-    - Randle, Kevin D., and Schmitt, Donald. _UFO Crash at Roswell: Updated Edition._
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Randle, Kevin D., and Schmitt, Donald. _UFO Crash at Roswell: Updated Edition._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
 - **Analytical Works:**
     
-    - Pope, Nick. _The Unexplained: An Examination of the UFO Phenomenon._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Pope, Nick. _The Unexplained: An Examination of the UFO Phenomenon._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
-    - _Britain’s UFO Files: RAF Bentwaters and Beyond_ (2011).
+    - _Britain’s UFO Files: RAF Bentwaters and Beyond_ (2011).
 

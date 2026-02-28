@@ -16,7 +16,7 @@ Together, these Pillars form the architectural blueprint for the emergence of a 
 
 If all life and consciousness are to flourish and develop toward their Divine Potential, we must steward the domains of human activity in alignment with the Logos.
 
-Each Pillar represents a sacred function of civilization. Yet they are not compartments to be pursued in isolation. Rather, they are **interwoven strands of a single living tapestry**—each incomplete without the others, each requiring integration across all [[Action Domains]] and [[Integration Domains]].
+Each Pillar represents a sacred function of civilization. Yet they are not compartments to be pursued in isolation. Rather, they are **interwoven strands of a single living tapestry**—each incomplete without the others, each requiring integration across all [[Action Domains]] and [[Integration Domains]].
 
 From the Supreme Source of the ONE emerge the 12+1 Pillars of LIONSBERG: a unified Work Breakdown Structure for the co-creation, stewardship, and ongoing evolution of every aspect of life.
 
@@ -137,8 +137,8 @@ The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero 
 
 ### **Applications and Implementation**
 
-- Each Pillar must be **applied, stewarded, and mastered** within every [[Integration Domain]]—from individuals to communities to planetary systems.
+- Each Pillar must be **applied, stewarded, and mastered** within every [[Integration Domain]]—from individuals to communities to planetary systems.
     
 - Specialized guilds and teams with every [[Action Domain]] focus on developing and stewarding excellence within each Pillar, and all derivative functions.
     
-- All Pillars must be **holistically integrated** in every Realm, Dimension, and Domain to generate coherent, regenerative civilizations.
+- All Pillars must be **holistically integrated** in every Realm, Dimension, and Domain to generate coherent, regenerative civilizations.

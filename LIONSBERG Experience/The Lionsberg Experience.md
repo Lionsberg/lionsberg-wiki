@@ -1,4 +1,4 @@
-# 🕊️ **The LIONSBERG Experience**
+# 🕊️ **The LIONSBERG Experience**
 
 _A Living Path of Awakening, Alignment, and Co-Creation_
 
@@ -16,7 +16,7 @@ It is how Heaven is progressively _played into being_ through the coordinated aw
 
 Every soul is invited into a journey that unfolds through **seven great movements**, each building on the last.  
 Each contains Gates, Quests, and Mysteries that open step by step, just in time.  
-Together, they form a _total architecture of transformation_ — personal, communal, planetary, and cosmic.
+Together, they form a _total architecture of transformation_ — personal, communal, planetary, and cosmic.
 
 **The Threshold Experience (Arrival, Invitation, and Ignition) → Initiation Into The Story  → Initiation into The Gates and The Game → The Playbook (Embodiment) → The Sacred Ascent (The Way) → The Codex → The Eternal Game → The Reference Library**
 

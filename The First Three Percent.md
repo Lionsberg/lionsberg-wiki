@@ -4,7 +4,7 @@
 The First Three Percent refers to the critical mass of enlightened, empowered, and visionary individuals needed to ignite a global transformation. In every community, these are the first 300 individuals (out of every 10,000) who sense the urgency to rise, unite, and co-create a future of survival, healing, and flourishing. At planetary scale, this represents the first ~250 million citizens. 
 
 **Why Three Percent?**  
-In systems theory, **critical mass** represents the tipping point at which a system begins to transform itself. Three percent of any population is sufficient to catalyze change by creating a decentralized yet cohesive network of leadership, light, and love.
+In systems theory, **critical mass** represents the tipping point at which a system begins to transform itself. Three percent of any population is sufficient to catalyze change by creating a decentralized yet cohesive network of leadership, light, and love.
 
 Across the planet, this equates to roughly 250 million awakened individuals—a grid of strength and clarity capable of guiding humanity through the unprecedented challenges ahead.
 

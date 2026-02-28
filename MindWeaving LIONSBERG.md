@@ -156,7 +156,7 @@ Those [[Agents]] are not destined to remain the same.
 They are not destined to continue to suffer.  
 They are designed to learn, grow, transform, and evolve towards ever greater [[Perfection]].  
 They are destined for [[The Life Divine]].  
-They are destined to Consciously Co-Create [[Heaven]] — right [[Here And Now]], forever.  
+They are destined to Consciously Co-Create [[Heaven]] — right [[Here And Now]], forever.  
 
 And so as We survey Our [[Perfectly Imperfect]] Reality,  
 There are things that are out of place. 

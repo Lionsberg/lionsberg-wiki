@@ -92,9 +92,9 @@ Audio recordings from the base’s control tower captured the astonished reactio
     - Audio recordings from the Edwards control tower (declassified).
 - **Analytical Works:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
-    - _The Edwards Air Force Base UFO Incident: A Military Perspective_ (1990).
+    - _The Edwards Air Force Base UFO Incident: A Military Perspective_ (1990).
 

@@ -49,7 +49,7 @@ GS 3.3 — Covenental Protocols
 GS 3.4 — Fields of Agreement  
 GS 3.5 — Choosing a Quest  
 GS 3.6 — Archetypes and Roles  
-GS 3.7 — Navigating Towards Truth  
+GS 3.7 — Navigating Towards Truth  
 GS 3.8 — Omnispection  
 GS 3.9 — Finding The Others  
 GS 3.10 — Passing The Sacred Flame  
@@ -73,7 +73,7 @@ Gate 1.12 — The World Wars
 
 Gate 1.1 — Civilizations Before and Beyond  
 Gate 2.2 — Spacefaring Species  
-Gate 2.3 — The Birth of New Worlds  
+Gate 2.3 — The Birth of New Worlds  
 Gate 2.4 — Goldilocks Zones and Planetary Migration  
 Gate 2.5 — Terraforming Worlds  
 Gate 2.6 — Living Laboratories    
@@ -89,8 +89,8 @@ Gate 3.1 — The War Descends to a World
 Gate 3.2 — Conflict Across Millions of Years  
 Gate 3.3 — Forgotten Civilizations  
 Gate 3.4 — Diverse Non-Human Influences  
-Gate 3.5 — Factions, Mutinies, and Rebellions  
-Gate 3.6 — Engineering Solutions  
+Gate 3.5 — Factions, Mutinies, and Rebellions  
+Gate 3.6 — Engineering Solutions  
 Gate 3.7 — The Human Template Comes to a World    
 Gate 3.8 — Configurations, Tampering, and Genetic Wars  
 Gate 3.9 — Intentional Cataclysms and Resets
@@ -153,7 +153,7 @@ Gate 7.5 — The Playbook
 Gate 7.6 — Circles and Roles  
 Gate 7.7 — Milestones and Quests    
 Gate 7.8 — Measurement and Progress   
-Gate 7.9 — Emergent Systems and Strategies  
+Gate 7.9 — Emergent Systems and Strategies  
 Gate 7.10 — Tools and Technologies  
 Gate 7.11 — Holofractal Commons  
 Gate 7.12 — Allies and Adversaries  
@@ -161,7 +161,7 @@ Gate 7.12 — Allies and Adversaries
 
 ## Movement Eight — The 12 Pillars 
 
-Pillar 1 — Sacred Ontology and Metaphysics  
+Pillar 1 — Sacred Ontology and Metaphysics  
 Pillar 2 — Sacred Governance and Stewardship  
 Pillar 3 — Sacred Economy and CurrentSee  
 Pillar 4 — Sacred Learning and Mastery  
@@ -169,7 +169,7 @@ Pillar 5 — Sacred Health and Wellness
 Pillar 6 — Sacred Ecology and Living Systems  
 Pillar 7 — Sacred Culture, Art, and Story  
 Pillar 8 — Sacred Science and Technology  
-Pillar 9 — Sacred Architecture and Design  
+Pillar 9 — Sacred Architecture and Design  
 Pillar 10 — Sacred Guardianship and Order  
 Pillar 11 — Sacred Society and Justice  
 Pillar 12 — Sacred Time, Rhythm, and Celebration  
@@ -207,7 +207,7 @@ Gate 10.12 — The 72 Gates of The Sacred Ascent
 
 ## Movement Eleven — The Living Codex 
 
-Gate 11.1 — The Spirit, Purpose, and Goal  
+Gate 11.1 — The Spirit, Purpose, and Goal  
 Gate 11.2 — Universal Wisdom, Principles, and Values  
 Gate 11.3 — The Theses  
 Gate 11.4 — The Covenants and Agreements   
@@ -217,20 +217,20 @@ Gate 11.77 — The 12 Pillars
 Gate 11.8 — The 144 Gates of Initiation  
 Gate 11.9 — The 72 Gates of the Sacred Ascent  
 Gate 11.10 — The Pattern Language and Prototype  
-Gate 11.11 — The Protocols For Local Instantiation   
+Gate 11.11 — The Protocols For Local Instantiation   
 Gate 11.12 — Evolutionary Feedback Loops and OmniLearning  
 
 ## Movement Twelve — The Eternal Divine Play  
 
 Gate 12.1 — The Central Animating Spirit  
 Gate 12.2 — The Expansion and ReUnion of Consciousness     
-Gate 12.3 — The Sovereignty and Freedom of All in ONE  
-Gate 12.4 — Play Across Generations, Dimensions, and Worlds  
+Gate 12.3 — The Sovereignty and Freedom of All in ONE  
+Gate 12.4 — Play Across Generations, Dimensions, and Worlds  
 Gate 12.5 — The Holofractal Emergence of Heaven  
 Gate 12.6 — The Holofractal Battlefields of Individuals, Species, and Worlds  
 Gate 12.7 — In the Essentials We Celebrate Unity  
 Gate 12.8 — In the Non-Essentials We Celebrate Diversity 
-Gate 12.9 — In All Things We Celebrate the Co-Creation of Heaven  
+Gate 12.9 — In All Things We Celebrate the Co-Creation of Heaven  
 Gate 12.10 — Encountering New Species and Worlds  
 Gate 12.11 — Cosmic Diplomacy  
 Gate 12.12 — The Eternal Divine Play 

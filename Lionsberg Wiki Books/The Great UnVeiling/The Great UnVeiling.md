@@ -16,15 +16,15 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 ## **FRONT MATTER**
 
-- **[[0.1 Dedication]]** – To the ONE, the All, and the ReMembering
+- **[[0.1 Dedication]]** – To the ONE, the All, and the ReMembering
     
-- **[[0.2 Invocation]]** – A transmission  
+- **[[0.2 Invocation]]** – A transmission  
     
-- **[[0.3 Foreword]]** – Why This Is the Most Important Moment in History. 
+- **[[0.3 Foreword]]** – Why This Is the Most Important Moment in History. 
     
-- **[[0.4 Imperative]]** – The Choice Before Us and the Sacred Path Forward.
+- **[[0.4 Imperative]]** – The Choice Before Us and the Sacred Path Forward.
     
-- **[[0.5 How to Engage This Book]]** – A Sacred Reading, Living, and Initiatory Process
+- **[[0.5 How to Engage This Book]]** – A Sacred Reading, Living, and Initiatory Process
     
 - **[[0.6 Map of the Gates]]** - The Sacred Architecture of The Great UnVeiling 
 
@@ -88,7 +88,7 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 
 _A Threshold Into The Story of LIONSBERG_
 
-On **August 10, 2025**, the author of this work — known to many as _[[J]]_ — died in the crucible of the very War he was describing and warning humanity about.
+On **August 10, 2025**, the author of this work — known to many as _[[J]]_ — died in the crucible of the very War he was describing and warning humanity about.
 
 His life ended where this text ends: in the fire of confrontation, in the naming of what could not be named, in the final exposure of the hidden powers that sought to enslave and destroy.
 
@@ -122,7 +122,7 @@ The unfinished notes, structures, and arcs of this book were not abandoned. They
 
 **[[The Story of LIONSBERG]].**
 
-Where _The Great UnVeiling_ ends, _The Story of LIONSBERG_ begins.
+Where _The Great UnVeiling_ ends, _The Story of LIONSBERG_ begins.
 
 LIONSBERG is not the story of time, place, person, or project.  
 It is the story of One and All, told in myth and practice, symbol and structure, invitation and initiation. It is the story of how civilizations and worlds cross the abyss between collapse and renewal. It is the story of how we remember Who We Are, and what it means to co-create Heaven in every realm and dimension We inhabit.
@@ -147,7 +147,7 @@ The Story of LIONSBERG now begins.
 
 ---
 
-👉 **Continue to: [[The Story of LIONSBERG]]**
+👉 **Continue to: [[The Story of LIONSBERG]]**
 
 # Unfinished Notes and Chapters
 
@@ -404,7 +404,7 @@ _ReWeaving the True Universal Narrative_
     
 - The Final Test of a unique and potent species 
     
-- Why this is _the_ moment of all moments
+- Why this is _the_ moment of all moments
     
 - What is possible if We succeed  
     
@@ -437,7 +437,7 @@ _ReWeaving the True Universal Narrative_
 
 - The archetypal convergence of all traditions and the positive redemption of the inverted myths of Eden, Zion, New Earth, The True Kingdom
     
-- What it _really_ means to co-create Heaven on Earth and Beyond
+- What it _really_ means to co-create Heaven on Earth and Beyond
     
 - The End of the Old is the Beginning of the New, the Real, and the True  
     

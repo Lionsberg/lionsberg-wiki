@@ -21,10 +21,10 @@ The Los Alamos National Laboratory (LANL), a central hub of the Manhattan Projec
 1. **Mysterious Lights in the Sky:**
     
     - As early as the 1940s, personnel and local residents reported seeing luminous orbs and unexplained aerial phenomena around the Los Alamos site.
-    - **1945–1947:** Witnesses described bright lights hovering motionless or moving at incredible speeds, displaying behaviors inconsistent with known aircraft of the time.
+    - **1945–1947:** Witnesses described bright lights hovering motionless or moving at incredible speeds, displaying behaviors inconsistent with known aircraft of the time.
 2. **Unidentified Flying Objects (UFOs):**
     
-    - **1948:** Reports emerged of disc-shaped objects performing maneuvers that defied gravity, including rapid accelerations, sharp turns, and sudden stops.
+    - **1948:** Reports emerged of disc-shaped objects performing maneuvers that defied gravity, including rapid accelerations, sharp turns, and sudden stops.
     - These sightings often occurred near sensitive facilities or during significant research milestones.
 3. **Intrusions During Tests:**
     

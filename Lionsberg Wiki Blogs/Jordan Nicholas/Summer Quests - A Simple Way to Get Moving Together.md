@@ -6,7 +6,7 @@ Beloved Friends and Fellow Travelers,
 
 As summer unfolds around us, it offers a natural moment to pause, reflect, and intentionally step forward together.
 
-We stand at a pivotal crossroads, increasingly aware of profound truths calling us into unified action. Amidst the complexity and urgency of our shared mission, clarity and decisive action can sometimes feel elusive. The good news? **The simple next step is right here.**
+We stand at a pivotal crossroads, increasingly aware of profound truths calling us into unified action. Amidst the complexity and urgency of our shared mission, clarity and decisive action can sometimes feel elusive. The good news? **The simple next step is right here.**
 
 As [[Summer Quests Begin in Africa and Around the World]], your own Summer Quest is now beckoning.
 
@@ -22,7 +22,7 @@ By organizing our collective efforts into clear, achievable Seasonal Quests, we 
 
 Because we can't—and shouldn't—do it alone.
 
-The principle we follow is simple: **The Rule of Three**.
+The principle we follow is simple: **The Rule of Three**.
 
 > _“When at least three committed people come together, powerful coherence and alignment emerge, greatly amplifying wisdom, creativity, and impact.”_
 
@@ -33,13 +33,13 @@ As detailed in [[The LIONSBERG Co-Creator's Handbook]], a Circle ideally compris
 ## How It Works
 
 
-1. **Join** LIONSBERG as a Member. (Via Link Below)
+1. **Join** LIONSBERG as a Member. (Via Link Below)
     
-2. **Form or Join** a Circle (also called a Team, Fellowship, or Group).
+2. **Form or Join** a Circle (also called a Team, Fellowship, or Group).
     
-3. **Choose and Embark** on one or more clearly defined Seasonal Quests aligned with the [[Critical Path]].
+3. **Choose and Embark** on one or more clearly defined Seasonal Quests aligned with the [[Critical Path]].
     
-4. **Make Visible** your Membership, Circle, and Quest in The Directory.
+4. **Make Visible** your Membership, Circle, and Quest in The Directory.
     
 5. **Share Regularly**—at least every 30 days, your Circle shares [[Stories of Transformation]] reflecting on experiences, insights gained, challenges faced, and the progress made toward your Quest.
     
@@ -48,17 +48,17 @@ This cycle of action, reflection, and sharing creates ongoing momentum, learning
 
 ## Example Summer Quests:
 
-- **Community Circle Quest:** Host or participate in regular gatherings that strengthen local relationships, build trust, and deepen shared understanding of the LIONSBERG System, Community, and Approach.
+- **Community Circle Quest:** Host or participate in regular gatherings that strengthen local relationships, build trust, and deepen shared understanding of the LIONSBERG System, Community, and Approach.
     
-- **Resilience Garden Quest:** Create or expand community gardens or food forests, building collective skill, local food sovereignty, and ecological harmony.
+- **Resilience Garden Quest:** Create or expand community gardens or food forests, building collective skill, local food sovereignty, and ecological harmony.
     
-- **Wisdom Quest:** Engage in reading circles, workshops, or dialogues designed to deepen awareness, foster shared insight, and enhance understanding of critical issues and transformative solutions.  
+- **Wisdom Quest:** Engage in reading circles, workshops, or dialogues designed to deepen awareness, foster shared insight, and enhance understanding of critical issues and transformative solutions.  
     
-- **Youth Empowerment Quest:** Support or establish youth-led initiatives, mentoring circles, or creative programs designed to empower and nurture young leaders.  
+- **Youth Empowerment Quest:** Support or establish youth-led initiatives, mentoring circles, or creative programs designed to empower and nurture young leaders.  
     
-- **New Members & Resources Quest:** Actively advance the [[Critical Path]] toward reaching [[The First Three Percent]] by developing outreach strategies, tools, and relationships to attract new members and resources.  
+- **New Members & Resources Quest:** Actively advance the [[Critical Path]] toward reaching [[The First Three Percent]] by developing outreach strategies, tools, and relationships to attract new members and resources.  
     
-- **Mapping Quest:** Before embarking on something entirely new, undertake a local or domain-specific mapping Quest to discover existing initiatives, groups, and assets that might be supported, leveraged, or integrated.  
+- **Mapping Quest:** Before embarking on something entirely new, undertake a local or domain-specific mapping Quest to discover existing initiatives, groups, and assets that might be supported, leveraged, or integrated.  
     
 - **Decentralized / Open Source Technology Quest**: Discern key tools and technologies that the emerging LIONSBERG superorganism will need over the next two to three seasons, and begin designing and building the Technology Roadmap alongside the community.   
     
@@ -67,7 +67,7 @@ Wherever possible, ensure each Quest empowers both Lionsberg and your local comm
 
 ## Your Invitation
 
-This is your invitation to **Join Us**:
+This is your invitation to **Join Us**:
 
 - Become a LIONSBERG **Member**.  
     
@@ -92,8 +92,8 @@ Let’s get moving—joyfully, intentionally, and powerfully—**together**.
 
 We will personally follow up with all who respond to explore how we can best walk and weave together—whether you simply want to support and follow along, have something to contribute, or are ready to actively engage and co-create. 
 
-Those who contribute and stand up a meaningful **Circle** and **Quest** by July 1st will be eligible for  
-**founding membership** and a **One Member One Voice** seat at the governance table on the basis of ongoing mutual consent and alignment.  
+Those who contribute and stand up a meaningful **Circle** and **Quest** by July 1st will be eligible for  
+**founding membership** and a **One Member One Voice** seat at the governance table on the basis of ongoing mutual consent and alignment.  
 
 ## Are You Ready? 
 
@@ -106,4 +106,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   

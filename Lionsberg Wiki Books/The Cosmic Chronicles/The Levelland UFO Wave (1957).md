@@ -18,9 +18,9 @@ The wave began around 10:50 PM on November 2, 1957, when Pedro Saucedo and his p
 
 Over the next few hours, at least 15 other witnesses reported similar encounters:
 
-- **Sheriff’s Deputy A.J. Fowler:** Received multiple frantic phone calls describing glowing objects that disabled vehicles.
-- **Motorists and Farmers:** Independently reported that the objects caused their cars to stall and lights to dim before restarting once the objects left the area.
-- **Police Officer Weir Clem:** Personally witnessed a glowing object and confirmed its ability to affect his patrol car’s electrical systems.
+- **Sheriff’s Deputy A.J. Fowler:** Received multiple frantic phone calls describing glowing objects that disabled vehicles.
+- **Motorists and Farmers:** Independently reported that the objects caused their cars to stall and lights to dim before restarting once the objects left the area.
+- **Police Officer Weir Clem:** Personally witnessed a glowing object and confirmed its ability to affect his patrol car’s electrical systems.
 
 #### **Descriptions of the Objects**
 
@@ -102,14 +102,14 @@ Witnesses consistently described the objects as:
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Randle, Kevin D. _The Levelland UFO Case: A Comprehensive Review._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Randle, Kevin D. _The Levelland UFO Case: A Comprehensive Review._
 - **Documentaries:**
     
-    - _Levelland: A Night of UFOs_ (History Channel).
+    - _Levelland: A Night of UFOs_ (History Channel).
 - **Web Resources:**
     
-    - NICAP Report on Levelland: [https://www.nicap.org](https://www.nicap.org/)
-    - CUFOS Analysis: [https://www.cufos.org](https://www.cufos.org/)
+    - NICAP Report on Levelland: [https://www.nicap.org](https://www.nicap.org/)
+    - CUFOS Analysis: [https://www.cufos.org](https://www.cufos.org/)
 
 

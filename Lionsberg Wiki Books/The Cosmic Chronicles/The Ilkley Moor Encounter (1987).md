@@ -83,12 +83,12 @@ Under hypnotic regression, Spencer later recalled being taken aboard the craft b
 
 - **Primary Accounts:**
     
-    - Randles, Jenny. _UFOs: A British Perspective._
+    - Randles, Jenny. _UFOs: A British Perspective._
 - **Analytical Works:**
     
-    - Pope, Nick. _Open Skies, Closed Minds._
-    - Mack, John E. _Abduction: Human Encounters with Aliens._
+    - Pope, Nick. _Open Skies, Closed Minds._
+    - Mack, John E. _Abduction: Human Encounters with Aliens._
 - **Documentaries:**
     
-    - _The Ilkley Moor Encounter: Britain’s Strangest Alien Abduction_ (1995).
+    - _The Ilkley Moor Encounter: Britain’s Strangest Alien Abduction_ (1995).
 

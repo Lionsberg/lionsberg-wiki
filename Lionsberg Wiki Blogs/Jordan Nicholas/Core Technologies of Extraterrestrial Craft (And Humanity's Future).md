@@ -1,6 +1,6 @@
 # Core Technologies of Extraterrestrial Craft (And Humanity's Future)
 
-The core technologies reportedly used in **extraterrestrial craft** recovered by Earth-based entities, according to whistleblowers, researchers, and leaked documents, revolve around principles that challenge conventional physics. These technologies demonstrate capabilities far beyond our current aerospace and energy paradigms, suggesting mastery of quantum mechanics, gravitational fields, and energy systems. 
+The core technologies reportedly used in **extraterrestrial craft** recovered by Earth-based entities, according to whistleblowers, researchers, and leaked documents, revolve around principles that challenge conventional physics. These technologies demonstrate capabilities far beyond our current aerospace and energy paradigms, suggesting mastery of quantum mechanics, gravitational fields, and energy systems. 
 
 Our [[Current Best Understanding]] is that in collaboration with extraterrestrial factions, the [[Fascist Security State]] has had mastery of some of these technologies since the 1950s, while struggling with others due to limitations of Earth-based materials and the inability of many humans to access higher dimensions of [[Consciousness]].  
 

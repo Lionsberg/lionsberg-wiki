@@ -227,7 +227,10 @@ This maintains Obsidian conventions, creates proper backlinks, and automatically
 - Always add blank lines between different element types (headers, lists, paragraphs)
 - Use backticks for inline code/verbatim text
 - Use triple backticks for code blocks
-- **Two-space line endings**: Add two spaces at the end of lines that should flow together as one thought for proper markdown rendering
+- **Two-space line endings (CRITICAL for web rendering)**: Bare wiki links and other non-bulleted lines that should render as SEPARATE lines on the web **must end with two trailing spaces**. Without them, adjacent lines run together into a single paragraph when Massive Wiki Builder renders the site. Bulleted lines (starting with `- `) do NOT need trailing spaces — bullets already create line breaks.
+  - ✅ `[[15.1 The Game]]  ` (two trailing spaces — renders on its own line)
+  - ❌ `[[15.1 The Game]]` (no trailing spaces — runs into next line on web)
+  - This applies to: TOC entries, navigation footers (`Forward to`, `Back to`, `Onward to`), and any bare wiki links on their own lines
 
 ### Voice and Tone Standards
 

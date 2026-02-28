@@ -1,6 +1,6 @@
 # Meditation 30
 
-Consolation and compassion are far more helpful to the human spirit than judgment. Judge not, lest you be judged. Love, as you would like to be loved. Forgive, as you would like to be forgiven. Measure, as you would like to be measured.  
+Consolation and compassion are far more helpful to the human spirit than judgment. Judge not, lest you be judged. Love, as you would like to be loved. Forgive, as you would like to be forgiven. Measure, as you would like to be measured.  
 
 ___
 

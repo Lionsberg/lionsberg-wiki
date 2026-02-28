@@ -82,12 +82,12 @@ The pilot attempted to lock missiles onto the approaching object but found his w
 - **Primary Accounts:**
     
     - _Iranian Air Force Reports on the Tehran Incident (1976)._
-    - Defense Intelligence Agency Memo, _"Anomalous Phenomena Observed Over Tehran."_
+    - Defense Intelligence Agency Memo, _"Anomalous Phenomena Observed Over Tehran."_
 - **Analytical Works:**
     
-    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
-    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
+    - Hastings, Robert. _UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites._
+    - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
 - **Documentaries:**
     
     - _Unsolved Mysteries: Tehran UFO Incident (1989)._
-    - _Phenomenon: The Tehran Encounter_ (2007).
+    - _Phenomenon: The Tehran Encounter_ (2007).

@@ -21,7 +21,7 @@ Walters produced several photographs of the UFO, which displayed a distinctive d
 - Disk-shaped, with a bright glowing underside.
 - Emanating beams of light that appeared focused and directional.
 
-The photographs quickly gained attention and were published in the local newspaper, _The Gulf Breeze Sentinel_.
+The photographs quickly gained attention and were published in the local newspaper, _The Gulf Breeze Sentinel_.
 
 #### **The Wave of Sightings**
 
@@ -116,13 +116,13 @@ The Gulf Breeze wave continued through 1988 and 1989, with ongoing reports and n
 
 - **Books:**
     
-    - Walters, Ed. _The Gulf Breeze Sightings: The Most Astounding Multiple UFO Sightings in U.S. History._
-    - Randle, Kevin D. _UFOs in the 1980s: A Researcher's Guide._
+    - Walters, Ed. _The Gulf Breeze Sightings: The Most Astounding Multiple UFO Sightings in U.S. History._
+    - Randle, Kevin D. _UFOs in the 1980s: A Researcher's Guide._
 - **Documentaries:**
     
-    - _UFOs Over Gulf Breeze_ (Discovery Channel Special).
+    - _UFOs Over Gulf Breeze_ (Discovery Channel Special).
 - **Web Resources:**
     
-    - MUFON Gulf Breeze Reports: [https://www.mufon.com](https://www.mufon.com/)
-    - NICAP Analysis of Gulf Breeze: [https://www.nicap.org](https://www.nicap.org/)
+    - MUFON Gulf Breeze Reports: [https://www.mufon.com](https://www.mufon.com/)
+    - NICAP Analysis of Gulf Breeze: [https://www.nicap.org](https://www.nicap.org/)
 

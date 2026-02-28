@@ -6,7 +6,7 @@ The community's youth, having grown up in the safety and security of the Walled 
 
 Earth's leaders were fragmented and disorganized, prioritizing their own power and wealth over the welfare of their people. Entangled in corrupt and unholy alliances, they were incapable of taking any meaningful action to safeguard the city. Unable to act and struggling in the sticky web of deceit they had created, the corrupt factions and politicians began to blame and slander one another. With each spoken word of blame and deceit, the fabric of society tore further, spiraling Earth closer to the mythical doom of the Downward Spiral that the prophets, elders, and ancient stories had warned of.
 
-Pressure from the Forces of Darkness intensified both outside and within the city walls, exacerbating the strife and division in Earth's society. The people of Earth were divided against themselves, and they were unable to come together to even discuss solutions to the common threat, let alone actually confront and overcome it. 
+Pressure from the Forces of Darkness intensified both outside and within the city walls, exacerbating the strife and division in Earth's society. The people of Earth were divided against themselves, and they were unable to come together to even discuss solutions to the common threat, let alone actually confront and overcome it. 
 
 Fathers and sons, brothers and sisters, mothers and daughters all turned against one another. Old grudges and rivalries resurfaced, and the people of Earth became more and more divided. Anger and hostility filled the streets and mobs began to form, pushing the city to the brink of [[Chaos]]. Violence and riots erupted, overwhelming the keepers of peace and causing social Order to collapse.
 

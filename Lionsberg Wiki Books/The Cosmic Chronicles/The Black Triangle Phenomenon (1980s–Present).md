@@ -37,7 +37,7 @@ The Black Triangle Phenomenon has been reported by thousands of credible witness
     Genuine extraterrestrial vehicles are believed to originate from advanced non-human civilizations. These craft display capabilities far beyond human technology, such as anti-gravity propulsion, silent operation, and the ability to perform high-speed maneuvers with no visible means of propulsion.
     
 - **ARVs:**  
-    Alien Reproduction Vehicles are man-made craft reverse-engineered from recovered extraterrestrial technology. Whistleblower testimony, including insights from Bob Lazar and Dr. Steven Greer’s _Disclosure Project_, suggests that ARVs are developed within classified programs run by elements of the U.S. government and military-industrial contractors.
+    Alien Reproduction Vehicles are man-made craft reverse-engineered from recovered extraterrestrial technology. Whistleblower testimony, including insights from Bob Lazar and Dr. Steven Greer’s _Disclosure Project_, suggests that ARVs are developed within classified programs run by elements of the U.S. government and military-industrial contractors.
     
 - **Presence in the Phenomenon:**  
     The Black Triangle sightings appear to involve both ETVs and ARVs. Witness accounts of these craft vary slightly, with ARVs sometimes described as less refined or efficient. ARVs are believed to have been created using reverse-engineering efforts following incidents like the Roswell Crash (1947).
@@ -127,8 +127,8 @@ The Black Triangle Phenomenon stands as one of the most credible and persistent 
 
 - **Books:**
     
-    - Dolan, Richard. _UFOs and the National Security State_
-    - Greer, Steven. _Hidden Truth – Forbidden Knowledge_
+    - Dolan, Richard. _UFOs and the National Security State_
+    - Greer, Steven. _Hidden Truth – Forbidden Knowledge_
 - **Reports:**
     
     - MUFON case files on Black Triangles

@@ -38,4 +38,4 @@ of what was once Whole.
 Let Us not look away.
 
 Let Us walk together  
-into **Gate II — The Great Descent**.
+into **Gate II — The Great Descent**.

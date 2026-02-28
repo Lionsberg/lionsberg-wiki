@@ -90,10 +90,10 @@ The U.S. Air Force initially attributed the sighting to Venus, then revised the 
     - U.S. Air Force Project Blue Book files on the Mantell Incident.
 - **Analytical Works:**
     
-    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Ruppelt, Edward J. _The Report on Unidentified Flying Objects._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Historical Overviews:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Randle, Kevin D. _Project Blue Book Exposed._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Randle, Kevin D. _Project Blue Book Exposed._
 

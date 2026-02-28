@@ -29,7 +29,7 @@ The Final Order is not a spontaneous phenomenon but the culmination of centuries
 3. **Manipulated Crises**: Orchestrating wars, economic collapses, pandemics, and environmental disasters to justify authoritarian measures.
 4. **Transhumanism**: A long-term vision to merge humanity with machines, stripping individuals of their sovereignty and spiritual connection.
 
-The ultimate goal of The Final Order is **absolute control**—a world where humanity’s freedom, creativity, and connection to the divine are extinguished.
+The ultimate goal of The Final Order is **absolute control**—a world where humanity’s freedom, creativity, and connection to the divine are extinguished.
 
 ---
 

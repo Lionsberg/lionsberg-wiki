@@ -54,7 +54,7 @@ The Village Drill is an interesting step conceptually, but still expensive for m
 
 ## Manual to Full Rig Steps (ChatGPT)
 
-## 🚩 **Summary: Steps from Manual to Full Rig**
+## 🚩 **Summary: Steps from Manual to Full Rig**
 
 |Step|Method|Power Source|Typical Depth|Cost per Rig (USD)|
 |---|---|---|---|---|

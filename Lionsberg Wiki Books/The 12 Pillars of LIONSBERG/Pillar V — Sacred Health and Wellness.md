@@ -14,7 +14,7 @@ The Fifth Pillar of LIONSBERG restores health and healing to their rightful plac
 
 In the [[Old World]], health was fragmented, medicalized, and commodified. Sickness was treated in isolation. Symptoms were suppressed instead of understood. The spiritual, emotional, and energetic dimensions of illness were ignored. Healing was outsourced to systems that profited from disease. The body—once revered as a temple—was reduced to a machine to be repaired, regulated, and exploited for profit.
 
-Sacred Health and Healing begins with a radical remembrance: _that wholeness is our natural state_, and that true healing occurs through reconnection—reconnection to Source, to Self, to Nature, to Community, and to the rhythms and laws of Life itself.
+Sacred Health and Healing begins with a radical remembrance: _that wholeness is our natural state_, and that true healing occurs through reconnection—reconnection to Source, to Self, to Nature, to Community, and to the rhythms and laws of Life itself.
 
 This pillar invites us to regenerate an integrated, sovereign approach to health—one that honors both ancient traditions and modern insights. It recognizes that healing is not merely the absence of disease, but the restoration of harmony, vitality, and right relationship at every level of our being and world.
 
@@ -24,29 +24,29 @@ In Sacred Healing, the practitioner is not the authority, but the guide. The com
 
 ### **12 Theses of Sacred Health and Healing**
 
-1. **Life Is Sacred and Meant to Flourish** — and health is the natural state of a being in harmony with the Logos.
+1. **Life Is Sacred and Meant to Flourish** — and health is the natural state of a being in harmony with the Logos.
     
-2. **The Body Is a Living Temple** — worthy of reverence, care, and alignment with Spirit.
+2. **The Body Is a Living Temple** — worthy of reverence, care, and alignment with Spirit.
     
-3. **Healing Is a Return to Wholeness** — not the masking of symptoms, but the restoration of balance and flow across all dimensions.
+3. **Healing Is a Return to Wholeness** — not the masking of symptoms, but the restoration of balance and flow across all dimensions.
     
-4. **True Health Is Multidimensional** — integrating spiritual, mental, emotional, physical, relational, ecological, and energetic wellness.
+4. **True Health Is Multidimensional** — integrating spiritual, mental, emotional, physical, relational, ecological, and energetic wellness.
     
-5. **Each Being Is a Sovereign Healer** — capable of participating in their own healing journey and cultivating vitality in alignment with Nature.
+5. **Each Being Is a Sovereign Healer** — capable of participating in their own healing journey and cultivating vitality in alignment with Nature.
     
-6. **The Earth Contains All We Need to Heal** — and its plants, elements, and rhythms must be respected, protected, and understood.
+6. **The Earth Contains All We Need to Heal** — and its plants, elements, and rhythms must be respected, protected, and understood.
     
-7. **Modern Medicine Must Be Rehumanized and Redeemed** — integrated with ancient wisdom and restored to service of the Whole.
+7. **Modern Medicine Must Be Rehumanized and Redeemed** — integrated with ancient wisdom and restored to service of the Whole.
     
-8. **The Healer Is a Servant of the Logos** — not a controller of outcomes, but a midwife of wholeness and coherence.
+8. **The Healer Is a Servant of the Logos** — not a controller of outcomes, but a midwife of wholeness and coherence.
     
-9. **Communities Must Regenerate Collective Healing Systems** — through circles of care, shared knowledge, and mutual support.
+9. **Communities Must Regenerate Collective Healing Systems** — through circles of care, shared knowledge, and mutual support.
     
-10. **Dis-Ease Reflects a Deviation from Harmony, Coherence, and Flow** — and must be met with understanding, not fear.
+10. **Dis-Ease Reflects a Deviation from Harmony, Coherence, and Flow** — and must be met with understanding, not fear.
     
-11. **The Systems That Profit from Sickness Must Be Transcended** — and replaced by ones that cultivate health, agency, and flourishing.
+11. **The Systems That Profit from Sickness Must Be Transcended** — and replaced by ones that cultivate health, agency, and flourishing.
     
-12. **The Goal Is the Regeneration of All Life** — a world in which health is the default, healing is sacred, and all beings thrive in communion with ONE and All.
+12. **The Goal Is the Regeneration of All Life** — a world in which health is the default, healing is sacred, and all beings thrive in communion with ONE and All.
     
 
 ---

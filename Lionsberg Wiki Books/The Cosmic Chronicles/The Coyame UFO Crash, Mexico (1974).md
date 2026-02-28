@@ -97,13 +97,13 @@ The UFO was purportedly transported to the United States, likely to a secure mil
 
 - **Books:**
     
-    - Uriarte, Ruben, and Torres, Noe. _Mexico’s Roswell: The Chihuahua UFO Crash._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Uriarte, Ruben, and Torres, Noe. _Mexico’s Roswell: The Chihuahua UFO Crash._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Articles:**
     
     - Declassified U.S. and Mexican military reports on the Coyame incident.
     - Investigative pieces in UFO research journals.
 - **Documentaries:**
     
-    - _UFOs in Mexico: The Coyame Crash_ – A detailed exploration of the event and its implications.
+    - _UFOs in Mexico: The Coyame Crash_ – A detailed exploration of the event and its implications.
 

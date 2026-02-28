@@ -241,7 +241,7 @@ good conversation around structuring for complexity
 
 Liked, continue: emergent insights, thoughtful understanding of where we are and what is needed, good listening, constructively and fast moving forward. Pete's comments to Jordan, the kindness and expansiveness how it left us, and Jordan's generous and immediate listening. Our different complementary viewpoints brought to any topic. And I really like all of you as people, and love spending time in the process of building something worthwhile from nothing to what feels like moving slowly but is really moving fast!
 
-I liked the calm but vibrant energy i felt from the group. I like how we continue to build on each others ideas, experience, suggestions, to take another move forward. I love how you all have taught me so much already and I'm excited for all the other learnings coming up - for all of us
+I liked the calm but vibrant energy i felt from the group. I like how we continue to build on each others ideas, experience, suggestions, to take another move forward. I love how you all have taught me so much already and I'm excited for all the other learnings coming up - for all of us
 
 Liked the dialog, the voice/chat mix. Appreciated the continuing emergence of our efforts at roots-up connecting without top-down controlling.
 

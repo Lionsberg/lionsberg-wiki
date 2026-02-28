@@ -2,13 +2,13 @@
 
 ## Context
 
-Our esteemed friend Pete Kaminski is prototyping a powerful new pattern called **Plex**.  
+Our esteemed friend Pete Kaminski is prototyping a powerful new pattern called **Plex**.  
 We The People of LIONSBERG see wisdom in this initiative and wholeheartedly support its adoption and expansion.
 
 Here is an idea Jordan and Pete are discussing: 
-1. Plex Stewards gather updates, insights, and inspiring stories of transformation from diverse domains of co-creation and systematically share them with dedicated **[[Observers]]** of their respective domains.  
-2. Inspired Observers may occasionally choose to amplify these efforts by becoming active **[[Supporters]]** through direct links within Plex.  
-3. From there, Supporters who feel called to deeper involvement can step forward as committed **[[Participants]]** by directly connecting with the **[[Members]]** or **[[Stewards]]** of the groups and initiatives they resonate with most deeply.
+1. Plex Stewards gather updates, insights, and inspiring stories of transformation from diverse domains of co-creation and systematically share them with dedicated **[[Observers]]** of their respective domains.  
+2. Inspired Observers may occasionally choose to amplify these efforts by becoming active **[[Supporters]]** through direct links within Plex.  
+3. From there, Supporters who feel called to deeper involvement can step forward as committed **[[Participants]]** by directly connecting with the **[[Members]]** or **[[Stewards]]** of the groups and initiatives they resonate with most deeply.
 
 Pete, Jordan, and allies are considering how to refine, systematize, and expand this transformative pattern.
 
@@ -19,11 +19,11 @@ Dear Friends and Allies,
 
 What an extraordinary adventure we are on together!  
 
-Our Quest to connect and empower **[[The First Three Percent]]** continues, energized by vibrant new momentum emerging this spring.
+Our Quest to connect and empower **[[The First Three Percent]]** continues, energized by vibrant new momentum emerging this spring.
 
 Over the past 12 months, we have diligently collaborated with talented tech teams to strengthen the essential tools, infrastructure, and support frameworks required for the success of our broadest shared mission. Following J's initial seed investments over recent years, more than $500,000 from external sources has flowed. Major technical updates will be integrated by the end of June. By this summer, we anticipate a convergence of teams reviewing each other's innovations and charting an exciting shared roadmap forward.
 
-After unequivocally realizing by summer 2024 that effective self-governance no longer exists within the U.S., the Western world, or globally, we decisively withdrew our participation and consent and accelerated our strategic efforts to connect and empower **[[The First Three Percent]]** by December 2026. As of today, a mere 19 months remain to activate and awaken 250 million souls.
+After unequivocally realizing by summer 2024 that effective self-governance no longer exists within the U.S., the Western world, or globally, we decisively withdrew our participation and consent and accelerated our strategic efforts to connect and empower **[[The First Three Percent]]** by December 2026. As of today, a mere 19 months remain to activate and awaken 250 million souls.
 
 As the chaotic energy from the 2024 election supercycle subsided, we embarked upon a vital Spring 2025 quest: hosting intimate 1:1 and small-group briefings, dialogues, and intensive training sessions to share profound revelations and actionable insights from our collective discoveries and progress.
 
@@ -35,11 +35,11 @@ Simultaneously, beautiful transformations continue blossoming: deepening interna
 
 To extend our runway and catalyze the necessary participation, we placed our last meaningful asset—our new home—on the market this spring, an act of profound commitment and trust. Now, compelled to confront why children remain hungry for lack of a ten-cent bowl of gruel, and determined to awaken our networks and realign resources into harmonious flow, Lord willing, I intend to be boots-on-the-ground in East Africa by mid to late June. Meanwhile, dedicated local teams will diligently sustain ongoing efforts.
 
-As we press forward on the ground in the United States, Kenya, and Tanzania, and digitally through our international community, we continue working towards the powerful series of transformative books, documentaries, and gatherings essential to awaken and engage **[[The First Three Percent]]**.
+As we press forward on the ground in the United States, Kenya, and Tanzania, and digitally through our international community, we continue working towards the powerful series of transformative books, documentaries, and gatherings essential to awaken and engage **[[The First Three Percent]]**.
 
 If you have not yet deeply recognized and internalized the ongoing genocide affecting tens of millions and the existential threat imperiling billions over the coming years, now is the time to fully awaken. Please. 
 
-Should your spirit resonate with stepping beyond observation into tangible support or active participation, please contribute your energy by clicking the link below. Any contribution, regardless of size, is deeply appreciated. As an opening gesture of reciprocity, all contributors in June will receive a complimentary digital copy of the **The Great Unveiling** upon its summer release.
+Should your spirit resonate with stepping beyond observation into tangible support or active participation, please contribute your energy by clicking the link below. Any contribution, regardless of size, is deeply appreciated. As an opening gesture of reciprocity, all contributors in June will receive a complimentary digital copy of the **The Great Unveiling** upon its summer release.
 
 As many of us sacrifice our last pockets of resources and security, and young leaders, hearts, and stomachs cry out for support from around the world, I pray that We will collectively set significant resources in flow as rapidly as possible. 
 

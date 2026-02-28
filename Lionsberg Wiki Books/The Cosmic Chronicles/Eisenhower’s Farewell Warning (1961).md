@@ -126,8 +126,8 @@ While the speech focused on the visible threats posed by the military-industrial
 
 - **Books:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Salla, Michael. _Eisenhower’s Meetings with Extraterrestrials: The Secret History of Diplomatic Contact._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Salla, Michael. _Eisenhower’s Meetings with Extraterrestrials: The Secret History of Diplomatic Contact._
 - **Declassified Documents:**
     
     - FOIA materials on UFO phenomena during the Eisenhower administration.

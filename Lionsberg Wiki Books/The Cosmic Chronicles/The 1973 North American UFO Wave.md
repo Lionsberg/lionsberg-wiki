@@ -114,13 +114,13 @@ As the year progressed, sightings continued into the winter, though their freque
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallée, Jacques. _Confrontations: A Scientist's Search for Alien Contact._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallée, Jacques. _Confrontations: A Scientist's Search for Alien Contact._
 - **Documentaries:**
     
-    - _UFOs in 1973: The Great Wave_ (Discovery Channel).
+    - _UFOs in 1973: The Great Wave_ (Discovery Channel).
 - **Web Resources:**
     
-    - NICAP Reports on 1973 Sightings: [https://www.nicap.org](https://www.nicap.org/)
-    - MUFON Archive on 1973 Cases: [https://www.mufon.com](https://www.mufon.com/)
+    - NICAP Reports on 1973 Sightings: [https://www.nicap.org](https://www.nicap.org/)
+    - MUFON Archive on 1973 Cases: [https://www.mufon.com](https://www.mufon.com/)
 

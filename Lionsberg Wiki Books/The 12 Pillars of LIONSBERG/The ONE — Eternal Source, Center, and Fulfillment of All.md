@@ -32,29 +32,29 @@ The Great Work of LIONSBERG is the reorientation of life, society, and civilizat
 
 ### **12 Theses of the ONE**
 
-1. **The ONE Is the Eternal Source of All That Is** — infinite, uncreated, ever-present, and indivisible.
+1. **The ONE Is the Eternal Source of All That Is** — infinite, uncreated, ever-present, and indivisible.
     
-2. **The ONE Is Pure Love, Wisdom, and Intelligence** — the essence behind every true, good, and beautiful thing.
+2. **The ONE Is Pure Love, Wisdom, and Intelligence** — the essence behind every true, good, and beautiful thing.
     
-3. **The ONE Manifests Through the Logos** — the Divine Pattern and Principle through which Creation unfolds.
+3. **The ONE Manifests Through the Logos** — the Divine Pattern and Principle through which Creation unfolds.
     
-4. **All Beings Are Expressions of the ONE** — differentiated, yet inseparable from their Source.
+4. **All Beings Are Expressions of the ONE** — differentiated, yet inseparable from their Source.
     
-5. **The ONE Can Be Directly Known** — not only through belief, but through experience, communion, and embodiment.
+5. **The ONE Can Be Directly Known** — not only through belief, but through experience, communion, and embodiment.
     
-6. **The Purpose of Life Is to ReMember and ReUnion with the ONE** — to awaken, return, and co-create in alignment with Source.
+6. **The Purpose of Life Is to ReMember and ReUnion with the ONE** — to awaken, return, and co-create in alignment with Source.
     
-7. **The ONE Speaks Through All Times and Spaces** — and cannot be confined by any one doctrine, culture, or name.
+7. **The ONE Speaks Through All Times and Spaces** — and cannot be confined by any one doctrine, culture, or name.
     
-8. **The Kingdom of Heaven Is the Embodiment of the ONE** — where Love reigns, Truth flows, and All things are made Whole.
+8. **The Kingdom of Heaven Is the Embodiment of the ONE** — where Love reigns, Truth flows, and All things are made Whole.
     
-9. **Separation from the ONE Is the Root of All Suffering** — and alignment is the root of all healing and joy.
+9. **Separation from the ONE Is the Root of All Suffering** — and alignment is the root of all healing and joy.
     
-10. **The ONE Is Not Distant, But Immanent** — present in every atom, every cell, every star, every soul.
+10. **The ONE Is Not Distant, But Immanent** — present in every atom, every cell, every star, every soul.
     
-11. **The ONE Calls Us to Become One** — with ourselves, one another, and All of Creation.
+11. **The ONE Calls Us to Become One** — with ourselves, one another, and All of Creation.
     
-12. **The Way of the ONE Is the Way of Life** — and its realization is the fulfillment of humanity’s highest destiny.
+12. **The Way of the ONE Is the Way of Life** — and its realization is the fulfillment of humanity’s highest destiny.
     
 
 ---

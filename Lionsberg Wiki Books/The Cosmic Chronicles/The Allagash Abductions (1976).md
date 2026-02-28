@@ -92,9 +92,9 @@ The men’s descriptions were consistent across sessions, despite being conducte
     - Interviews and hypnosis transcripts from Jim Weiner, Jack Weiner, Chuck Rak, and Charlie Foltz.
 - **Documentaries:**
     
-    - _Alien Abduction: The Mystery of the Allagash Incident_ (1997).
+    - _Alien Abduction: The Mystery of the Allagash Incident_ (1997).
 - **Analytical Works:**
     
-    - Fowler, Raymond E. _The Allagash Abductions: Undeniable Evidence of Alien Intervention._
-    - Hopkins, Budd. _Missing Time: A Documented Study of UFO Abductions._
+    - Fowler, Raymond E. _The Allagash Abductions: Undeniable Evidence of Alien Intervention._
+    - Hopkins, Budd. _Missing Time: A Documented Study of UFO Abductions._
 

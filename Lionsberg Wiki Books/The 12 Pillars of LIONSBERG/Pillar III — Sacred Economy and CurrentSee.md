@@ -16,11 +16,11 @@ True wealth is not stored—it is circulated. It is not hoarded—it is shared. 
 
 In the [[Old World]], the economy became a machine of separation and control. Human labor, nature’s bounty, and sacred time were commodified. Debt replaced gift. Trust was outsourced to banks and markets. The world was ruled by invisible algorithms and unaccountable profiteers. At its root was a lie: that there is not enough for all.
 
-Sacred Economics begins with Truth: _there is more than enough_. Enough resources, enough food, enough energy, enough beauty, enough love—if only we learn to share, design, and steward rightly. Value is not something created by capital—it is a sacred energy exchanged between beings as we co-create Heaven on Earth. 
+Sacred Economics begins with Truth: _there is more than enough_. Enough resources, enough food, enough energy, enough beauty, enough love—if only we learn to share, design, and steward rightly. Value is not something created by capital—it is a sacred energy exchanged between beings as we co-create Heaven on Earth. 
 
 This pillar invites us to reimagine economics as the sacred choreography of energy and service towards Our overarching and uniting Intention and Goal. It flows from intrinsic Value rather than imposed price, and orients exchange around regenerative reciprocity rather than extractive profit.
 
-In Sacred Economics, _the economy is not separate from the Sacred—it is an expression of it_.
+In Sacred Economics, _the economy is not separate from the Sacred—it is an expression of it_.
 
 We are not consumers—we are contributors. We are not owners—we are stewards. The marketplaces of the future will be places of honor, relationship, generosity, and care.
 
@@ -28,29 +28,29 @@ We are not consumers—we are contributors. We are not owners—we are stewards.
 
 ### **12 Theses of Sacred Economics**
 
-1. **All Value Flows from the ONE** — and all value creation and exchange must remain aligned with Divine Intention.
+1. **All Value Flows from the ONE** — and all value creation and exchange must remain aligned with Divine Intention.
     
-2. **The Purpose of Economics Is Regeneration and Abundance** — not profit or control, but the thriving of All.
+2. **The Purpose of Economics Is Regeneration and Abundance** — not profit or control, but the thriving of All.
     
-3. **True Wealth Is the Capacity to Cultivate and Provision Flourishing and Abundant Life** — material, relational, ecological, and spiritual.
+3. **True Wealth Is the Capacity to Cultivate and Provision Flourishing and Abundant Life** — material, relational, ecological, and spiritual.
     
-4. **Scarcity Is a Lie** — fabricated to enable control and justify injustice.
+4. **Scarcity Is a Lie** — fabricated to enable control and justify injustice.
     
-5. **Debt-Based Money Is a Tool of Enslavement** — and must be transcended through systems based on contribution, commitments, and trust.
+5. **Debt-Based Money Is a Tool of Enslavement** — and must be transcended through systems based on contribution, commitments, and trust.
     
-6. **Land, Water, Air, and Nature Cannot Be Owned** — they are sacred trusts to be stewarded for the Good of ONE and All present and future generations.
+6. **Land, Water, Air, and Nature Cannot Be Owned** — they are sacred trusts to be stewarded for the Good of ONE and All present and future generations.
     
-7. **Every Being Has the Right to Participate in the Economy of Life** — through meaningful work, fair exchange, and dignified contribution.
+7. **Every Being Has the Right to Participate in the Economy of Life** — through meaningful work, fair exchange, and dignified contribution.
     
-8. **Local Economies Are the Foundation of Planetary Harmony** — resilient, metabolically balanced, bioregional networks of reciprocal exchange and mutual upliftment.
+8. **Local Economies Are the Foundation of Planetary Harmony** — resilient, metabolically balanced, bioregional networks of reciprocal exchange and mutual upliftment.
     
-9. **Extractive Industries Must Be Transformed or Retired** — replaced by regenerative technologies, systems, and circular flows.
+9. **Extractive Industries Must Be Transformed or Retired** — replaced by regenerative technologies, systems, and circular flows.
     
-10. **Generosity Is the True Currency of the New World** — and wealth is measured by one’s capacity to give, serve, and uplift.
+10. **Generosity Is the True Currency of the New World** — and wealth is measured by one’s capacity to give, serve, and uplift.
     
-11. **Economic Systems Must Be Designed Holistically** — integrating ecology, philosophy, psychology, technology, and culture.
+11. **Economic Systems Must Be Designed Holistically** — integrating ecology, philosophy, psychology, technology, and culture.
     
-12. **The Goal Is Universal Thriving** — a planetary (and interplanetary) economy in which all beings have what they need to grow, create, and fulfill their purpose as We co-create Heaven.
+12. **The Goal Is Universal Thriving** — a planetary (and interplanetary) economy in which all beings have what they need to grow, create, and fulfill their purpose as We co-create Heaven.
     
 
 ---
@@ -67,7 +67,7 @@ We were taught to extract instead of tend. We built economies that took more tha
 
 The Sacred is now calling us home.
 
-Sacred Economics does not begin with a policy—it begins with a revelation: _that the Earth and Universe are abundant, that life is generous, and that true wealth cannot be counted, only cultivated._
+Sacred Economics does not begin with a policy—it begins with a revelation: _that the Earth and Universe are abundant, that life is generous, and that true wealth cannot be counted, only cultivated._
 
 It invites us to redesign every system of production, exchange, and distribution to reflect Love, Justice, and the regenerative cycles of Creation. It calls us to reweave the tapestry of local life—to strengthen bioregional economies, food systems, and community trade. It opens the door to new currencies, value flows, and ledgers aligned with Wisdom and Trust.
 
@@ -75,7 +75,7 @@ It teaches that what we give—our time, our energy, our attention—is far more
 
 In Sacred Economics, the farmer, the healer, the artist, the teacher, the elder—all are honored. There are no parasites—only participants. No monopolies—only stewards. No central banks—only centers of transparency and trust.
 
-The systems we need already exist in seed form—waiting to be scaled, shared, and woven into coherent wholes. The question is no longer _how_—it is _who will build them?_
+The systems we need already exist in seed form—waiting to be scaled, shared, and woven into coherent wholes. The question is no longer _how_—it is _who will build them?_
 
 The answer is Us.
 

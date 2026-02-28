@@ -42,18 +42,18 @@ The bold and transformative plan below requires requires completion of [[Lionsbe
 	2. Respond to the first nations with the preliminary strategy and plan to heal and generate society and the earth. 
 	3. Raise [[Resource Tranche 2]] ($10M)
 2. Early July: 
-	1. 10 to 30 person [[Quarterly Summit]] to refine the 10 year grand strategy, initiate System Wide Master Planning Process, and pull-plan aligned Q3 objectives 
+	1. 10 to 30 person [[Quarterly Summit]] to refine the 10 year grand strategy, initiate System Wide Master Planning Process, and pull-plan aligned Q3 objectives 
 3. July – September: 
-	1. Identify and orient representatives from each bioregion and critical domain, and forge a functioning cabinet / executive function  
-	2. Autonomous teams tackle their puzzle pieces within a shared network of commitments required to advance  
+	1. Identify and orient representatives from each bioregion and critical domain, and forge a functioning cabinet / executive function  
+	2. Autonomous teams tackle their puzzle pieces within a shared network of commitments required to advance  
 	3. Begin ecosystemic / federated resource flows 
-4. Early September: Several network convenings (Gathering of the Tribes, Transformative Impact Summit, Independent Convention, etc.) 
-5. Late September: First General Assembly, ~ 140 to 400 representatives from bioregions / tribes around the world. Ratify the Grand Strategy and Governance System for [[The Grand Collaboration]]  
+4. Early September: Several network convenings (Gathering of the Tribes, Transformative Impact Summit, Independent Convention, etc.) 
+5. Late September: First General Assembly, ~ 140 to 400 representatives from bioregions / tribes around the world. Ratify the Grand Strategy and Governance System for [[The Grand Collaboration]]  
 	1. Backbone infrastructure ready for large scale gamified on-boarding process 
-6. October: Massive scale global outreach / planetary awareness (Rick Lukens et al)  
+6. October: Massive scale global outreach / planetary awareness (Rick Lukens et al)  
 	1. Begin raise for [[Resource Tranche 3]] ($100M)  
 	2. For comparison, Live Aid in the 80s raised $100M+, and the phone operators estimated they only were able to field 10% of the calls. 
-7. November: Target of Opportunity: Sweep an independent candidate, cabinet, and aligned governors into office in the US. Likely a write in candidate with front and back end citizen-led auditing / quality assurance process. The next 10 years will be considerably easier if the American Experiment does not collapse, and the US President is one of us.    
+7. November: Target of Opportunity: Sweep an independent candidate, cabinet, and aligned governors into office in the US. Likely a write in candidate with front and back end citizen-led auditing / quality assurance process. The next 10 years will be considerably easier if the American Experiment does not collapse, and the US President is one of us.    
 	1. [[Jordan]] is registering as a write-in candidate, and seeking 3 to 5 other qualified citizens to do the same.  
 8. 2025 and beyond: 
 	1. Accelerate efforts to connect, equip and empower the first 3% (~250 million co-creators) by 2026 - bioregional plans, hubs, federating, etc.  

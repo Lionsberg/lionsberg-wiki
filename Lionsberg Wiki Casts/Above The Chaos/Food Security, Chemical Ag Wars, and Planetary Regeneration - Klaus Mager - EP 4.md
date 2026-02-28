@@ -35,11 +35,11 @@ X Link  - Coming Soon
 **Podcast Links**: 
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/above-the-chaos/id1684264983)  
-- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
-- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
+- [Spotify](https://open.spotify.com/show/7oIfdbJKxCE83acGrX1Knz?si=392d91c7c0314c75)   
+- [Amazon Music](https://music.amazon.com/es-ar/podcasts/42c3fb1a-8908-4ccd-841e-4b2d353759d0/above-the-chaos)    
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZjc2ODM5NC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwj4qcr0zJCBAxUAAAAAHQAAAAAQNg)   
-- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
-- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
+- [iHeartRadio](https://www.iheart.com/podcast/269-above-the-chaos-113733855/)    
+- [Radio Public](https://radiopublic.com/above-the-chaos-GOLpjV)   
 - [Castbox](https://castbox.fm/vc/5414089)   
 
 **Episode Summary**:
@@ -94,7 +94,7 @@ Join our host Jordan Nicholas and food systems expert Klaus Mager as they discus
 - Overshoot Day [https://www.overshootday.org/](https://www.overshootday.org/)  
 - Climate System Solutions [YouTube https://www.youtube.com/@climatesystemsolutions](https://www.youtube.com/@climatesystemsolutions)  
 - Climate System Solutions [](https://www.youtube.com/@climatesystemsolutions)Website [climatesystemsolutions.org](http://climatesystemsolutions.org/)  
-- Menus of Change [https://www.menusofchange.org/](https://www.menusofchange.org/)  
+- Menus of Change [https://www.menusofchange.org/](https://www.menusofchange.org/)  
 - Contact Us [https://jordannicholas.org/](https://jordannicholas.org/)  
 
 ### Rough Transcript  - Auto Generated and Unedited - Contains Errors 
@@ -179,13 +179,13 @@ To a fight back against predation, and all of a sudden, you have a chemical race
 
 It's too late. Now, so now we need to rebuild, regenerate the soil back to life. And, so in a, nutshell, that's what you can see is that globally we have lost over 50 percent of insects. Here in the U. S., some 70 percent of insects are gone by, by weight. Now, so you look at pollinators.
 
-Some 70, 80 percent of our food requires pollinators to, to to assist. And when you take pollinators out, our food supply is going to collapse. So 
+Some 70, 80 percent of our food requires pollinators to, to to assist. And when you take pollinators out, our food supply is going to collapse. So 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: all these little issues there, each one of which should force you to change course, should tell you it's time to change course, and we're not.
 
-We're doubling down on 
+We're doubling down on 
 
 Jordan Nicholas: Yeah. Yeah. Yeah. So pulling on a couple of those threads. Klaus talked about the, timeless wisdom and principle of treating the soil as if it's a living thing because it is. So there's these really interesting Let's call them fractal and... Cycle relative principles that apply to living beings.
 
@@ -241,9 +241,9 @@ But if you are going to Idaho and you're asking the farmer, Look guys, we need t
 
 So, when you think about transporting food over thousands of miles, when you want, if you want to reduce the transportation cost, then you have to decentralize the production, right? Then you have to change the production centers and so on. So everything is linked. And this is the challenge that we have right now to make change at scale is highly disruptive to the existing business models.
 
-And these business models are all operating top down. Highly centralized ginormous supply chains. And it is going to be a challenge for these companies. And some of them may not be able to adapt to the, requirements of a decentralized regenerative food system. And that's why we 
+And these business models are all operating top down. Highly centralized ginormous supply chains. And it is going to be a challenge for these companies. And some of them may not be able to adapt to the, requirements of a decentralized regenerative food system. And that's why we 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: political challenges here.
 
@@ -289,11 +289,11 @@ And then chemicals overpower local challenges climate, weather, water, whatever.
 
 And guess what? The cranes that I'm calling in the Pacific Northwest may be a different subspecies than what you're calling in Kansas or in California. So it doesn't fit the standardized bun that you're working with or whatever products you're using with flowers. So it challenges these homogenized manufacturers.
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
-Klaus Mager: with the need to decentralize their supply chain then customize their recipes and products to regional specifications. It totally can be done and it you will, once, once there is enough impetus here, you will find innovators and you will find companies who see the light here and they'll just go and do it but so far we haven't reached that point yet where 
+Klaus Mager: with the need to decentralize their supply chain then customize their recipes and products to regional specifications. It totally can be done and it you will, once, once there is enough impetus here, you will find innovators and you will find companies who see the light here and they'll just go and do it but so far we haven't reached that point yet where 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: that.
 
@@ -339,7 +339,7 @@ Klaus Mager: We already mentioned the, difficulty that these companies have to d
 
 The, way the system is, the supply chain is only intelligent in a way that it provides the most effective distribution, but it has a huge carbon footprint it, it prevents you from anything local, so it is it's a monstrosity that has evolved because no one ever paid attention to the externalities that are coming with it which is the reason why the food system is actually accountable for one third of global emissions.
 
-When you take agriculture in itself, that's maybe 10, 11 percent, but then when you add on transportation, refrigeration, storage the manufacture of fertilizers deforestation and so on, it is really the elephant in the room and so forth. There is no way, Yale just came out with a study saying that if we don't radically change the way we call food and our, and make significant changes to our dietary patterns, we'll fly right beyond any kind of climate objective we have, the food 0. 7 to 0. 9 percent Celsius temperature increase. So there's that. 
+When you take agriculture in itself, that's maybe 10, 11 percent, but then when you add on transportation, refrigeration, storage the manufacture of fertilizers deforestation and so on, it is really the elephant in the room and so forth. There is no way, Yale just came out with a study saying that if we don't radically change the way we call food and our, and make significant changes to our dietary patterns, we'll fly right beyond any kind of climate objective we have, the food 0. 7 to 0. 9 percent Celsius temperature increase. So there's that. 
 
 Jordan Nicholas: Go ahead.
 
@@ -357,13 +357,13 @@ And to, rebuild this local food system really requires a community supported eff
 
 So how is this normal? Why can't we grow food for these local folks? Last year, The U. S. government spent billion dollars on nutritional assistance programs. Where is this money going? To Kroger, it goes to Wal Mart, it goes to the big actors, it goes to Cisco, and they don't buy anything local.
 
-So the government gives money to the community and they're taking it right back out. Where if this money 
+So the government gives money to the community and they're taking it right back out. Where if this money 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
-Klaus Mager: used to feed a local infrastructure now the Neighborhood Impact Kitchen could buy from a local farmer and that money starts rolling inside the community. They can organize a local processor or an aggregator to make this 
+Klaus Mager: used to feed a local infrastructure now the Neighborhood Impact Kitchen could buy from a local farmer and that money starts rolling inside the community. They can organize a local processor or an aggregator to make this 
 
-Jordan Nicholas: Yeah. Yeah. Yeah. 
+Jordan Nicholas: Yeah. Yeah. Yeah. 
 
 Klaus Mager: Go ahead, that's true
 
@@ -381,17 +381,17 @@ And when they do that they, flood those markets with cheap alternatives, cheaper
 
 International food products, which then increasingly drives food products or manufactured products, which increasingly puts the local producers out of business. So it's this, it's this vicious cycle where once that happens and then you displace more of the local food production, that creates additional demand on the centralized products that are waging their chemical war against the regenerative capacity of the earth, something like that.
 
-Klaus Mager: yeah 
+Klaus Mager: yeah 
 
 Jordan Nicholas: you call that, go ahead,
 
-Klaus Mager: the nature of why this is possible is because it's extractive. So if you 
+Klaus Mager: the nature of why this is possible is because it's extractive. So if you 
 
-Jordan Nicholas: yeah, 
+Jordan Nicholas: yeah, 
 
 Klaus Mager: attention to what this does to nature, which you, if you abuse your watersheds and your soil and you take minerals out for next to nothing, then you can do this. But it's, there's an end game here.
 
-There is, a, this is not, when, not sustainable means it cannot continue in perpetuity. And we are coming 
+There is, a, this is not, when, not sustainable means it cannot continue in perpetuity. And we are coming 
 
 End phase much faster than people are ready for.
 
@@ -399,11 +399,11 @@ Jordan Nicholas: yeah, there's, let's say there's a principle like something tha
 
 or 50 years. But once you, exhaust all the soil you there's a forced reset. So we'd be pretty smart to consciously change before the forced reset comes. Why do you call, do you call that a chemical race or a chemical war? Describe the, describe in more detail the imagery in your mind when you're describing a chemical race or a chemical war that's getting increasingly more intense.
 
-Klaus Mager: Think about fields of thousands of acres of corn. There, there are there is as much land under cultivation for corn as the size of California. It's phenomenal, yeah. 
+Klaus Mager: Think about fields of thousands of acres of corn. There, there are there is as much land under cultivation for corn as the size of California. It's phenomenal, yeah. 
 
 Um
 
-It 
+It 
 
 Jordan Nicholas: massive billions of dollars of wasted subsidies
 
@@ -411,9 +411,9 @@ Klaus Mager: Exactly. And pumping groundwater that's irreplaceable in the proces
 
 So the first thing they have to apply is a herbicide. now they're already building herbicides into the seed itself. They're also making these plants herbicide resistant. That means they can douse the field with glyphosate round up, and it doesn't harm the food plant, but it kills the weeds.
 
-Laws of nature you kill a thousand weeds, five survive and replicate. So the next time around... You have weeds that are tougher and need a higher dose of herbicide. So you play that game and you're in an arms race. 
+Laws of nature you kill a thousand weeds, five survive and replicate. So the next time around... You have weeds that are tougher and need a higher dose of herbicide. So you play that game and you're in an arms race. 
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
 Klaus Mager: a
 
@@ -427,7 +427,7 @@ Klaus, correct me where I go wrong. The, other more diverse plants come in and, 
 
 So something like that is the function of weeds, right? So when you say, When so so it goes in two directions what defends against weeds in nature is Flourishing abundant healthy soil doesn't need weeds That's basically correct, right?
 
-Klaus Mager: You could, yeah, it's, it we are trying to create pictures to, to explain this, Yeah 
+Klaus Mager: You could, yeah, it's, it we are trying to create pictures to, to explain this, Yeah 
 
 Jordan Nicholas: Yeah, but it's something like that So the more so so let's say the first time you go through and you drop you mass drop Roundup and douse all the food that's going to be going into human beings bodies Along with everything on the ground that roundup that the seeds have that the plants have been genetically engineered to be resistant to The roundup then goes down and indiscriminately kills the weeds and everything else.
 
@@ -439,7 +439,7 @@ Those indiscriminately... break people's microbiomes and body, the things that s
 
 Klaus Mager: Yeah, and the same applies for insects and then all of this bleeds into the food supply. So today, some 80 percent of women, American women, have glyphosate in their breast milk in urine samples the hormones that are being used for animal production, they're adding hormones in it, have an impact on puberty disruptions in children, now you have eight year olds who are starting to menstruate and the, you mentioned already, like 70 percent of antibiotics are prophylactically given to animals because they're living in such challenging environments, they get sick, so they feed them antibiotics, which is very dangerous because now they're basically breeding antibiotic resistant strains.
 
-Would be very difficult for us to deal with. This whole thing screams unsustainable, 
+Would be very difficult for us to deal with. This whole thing screams unsustainable, 
 
 Jordan Nicholas: yeah. Okay. I want to come back really, quickly. You mentioned 80 percent of women having glyphosate in their, breast milk. I'm, I was just on the, on a call with a doctor this morning who was, talking about these same issues. He has, happens to be a specialist in brain health.
 
@@ -463,23 +463,23 @@ So when we're ingesting these glyphosates and destroying the healthy microbiome 
 
 There was recently a large study released looking at stool samples from healthy people and then Alzheimer's patients. And so what you're seeing in people with these brain diseases is that almost. There's a lot of evidence that shows universally there's severe lack of diversity of microbiome, including several specific strains of, bacteria that are needed for healthy gut and brain function that are being wiped out by these, farming practices.
 
-And he was saying that the evidence is mounting for those same things being witnessed in the stool samples of people with autism and a lot of other a lot of other of these rising issues that we're seeing. 
+And he was saying that the evidence is mounting for those same things being witnessed in the stool samples of people with autism and a lot of other a lot of other of these rising issues that we're seeing. 
 
-Klaus Mager: Yeah. 
+Klaus Mager: Yeah. 
 
 Jordan Nicholas: they're, hard, it's hard because it's so abstract, but we don't realize that every one of our days and our bodies and our family members is directly affected by this.
 
-Klaus Mager: Yeah the Medical Association today is saying the disconnect between, for example, Farm Bill incentive allocations and what the dietary guidelines are, It's phenomenal. We're spending money on things 
+Klaus Mager: Yeah the Medical Association today is saying the disconnect between, for example, Farm Bill incentive allocations and what the dietary guidelines are, It's phenomenal. We're spending money on things 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: need and fruits and vegetables we don't spend the money on. In fact, there is the, in 2022, the U.
 
-S. was a net importer of food, if you can believe this. Trade deficit in agriculture and we're importing most produce, fruits and vegetables from from other countries. Where, I said how does this make any sense is is, hard to believe. Medical association will say that two thirds of the American healthcare bill is nutrient delayed related So if you figure that you have a $1 trillion food economy $1 trillion damage in healthcare and then 1 trillion damage in environmental ratification. So 
+S. was a net importer of food, if you can believe this. Trade deficit in agriculture and we're importing most produce, fruits and vegetables from from other countries. Where, I said how does this make any sense is is, hard to believe. Medical association will say that two thirds of the American healthcare bill is nutrient delayed related So if you figure that you have a $1 trillion food economy $1 trillion damage in healthcare and then 1 trillion damage in environmental ratification. So 
 
-Jordan Nicholas: Yeah 
+Jordan Nicholas: Yeah 
 
-Klaus Mager: it's, an incredibly damaging. To do things and it's incredibly hard to change, 
+Klaus Mager: it's, an incredibly damaging. To do things and it's incredibly hard to change, 
 
 Jordan Nicholas: it's a, yeah, it's amazing to hear to hear you talking about the agri, agricultural deficit. Just a week or two ago I was re reading that the Biden administration is currently trying to force Mexico to take all this genetically modified and chemical laden corn that we're producing and Mexico doesn't want it because they don't want to poison their population, presumably.
 
@@ -499,31 +499,31 @@ So the amount of organic carbon in the soil determines how fast the soil can abs
 
 So that water then evaporates and it comes back down as rain. So this local process really creates what the weather system that we're used to. Now imagine millions of acres of farmland have been dried out and the soil microbiome has been damaged and the soil can't hold any water. So now you have prolonged periods of drought because this local rain has has ceased to function.
 
-And when it rains, it really comes down in a more massive way because the soil absorbs heat and reflects heat. Alright, so when the air warms up, it can hold more water. So when water comes, it goes down, and this is what we observed in California, for example where you 
+And when it rains, it really comes down in a more massive way because the soil absorbs heat and reflects heat. Alright, so when the air warms up, it can hold more water. So when water comes, it goes down, and this is what we observed in California, for example where you 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
-Klaus Mager: periods of drought, and then when it rains, it really dumps, 
+Klaus Mager: periods of drought, and then when it rains, it really dumps, 
 
-and when it 
+and when it 
 
-Jordan Nicholas: And then because the soil is depleted it can't absorb that water, 
+Jordan Nicholas: And then because the soil is depleted it can't absorb that water, 
 
-and so it just runs off. 
+and so it just runs off. 
 
-Klaus Mager: now you're flooding so 
+Klaus Mager: now you're flooding so 
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
-Klaus Mager: is finally sinking in that you actually have a norm, a natural way of tempering our climate. putting roots into the ground, restoring your soil, and stimulating this local, regional water cycle, the small water cycle. It does, when you have vegetation on the ground, it actually cools. has a cooling effect. Whereas dried out soil that is barren has the opposite, has a heating effect, right? So it amplifies the impact of climate change. I think as that sinks in, I was just communicating this with several groups because all of a sudden I had this aha thing going on. 
+Klaus Mager: is finally sinking in that you actually have a norm, a natural way of tempering our climate. putting roots into the ground, restoring your soil, and stimulating this local, regional water cycle, the small water cycle. It does, when you have vegetation on the ground, it actually cools. has a cooling effect. Whereas dried out soil that is barren has the opposite, has a heating effect, right? So it amplifies the impact of climate change. I think as that sinks in, I was just communicating this with several groups because all of a sudden I had this aha thing going on. 
 
-Jordan Nicholas: yeah. 
+Jordan Nicholas: yeah. 
 
-Klaus Mager: it, but we haven't connected what it 
+Klaus Mager: it, but we haven't connected what it 
 
-really 
+really 
 
-Jordan Nicholas: connected it, 
+Jordan Nicholas: connected it, 
 
 yeah. Okay I try...
 
@@ -541,7 +541,7 @@ So you could imagine that it's all healthy. You could deforest 1 percent around 
 
 Here in the United States that we're doing down in the Amazon, those affect both local and global system. Yeah. Yeah. Yeah.
 
-Amazing. 
+Amazing. 
 
 Klaus Mager: my hope is, this is salvageable. And this and we can put woods into the ground instantly. I had somebody ask me yesterday, I was in a presentation with a different group, and they said how fast can we do this? I said, as fast as your intentions drive you.
 
@@ -563,37 +563,37 @@ There may be 50 restaurants that sort of match this profile. Let's go and figure
 
 How much do you pay what are the pack sizes, what is the quality, what makes your product unique in this market. And then we would go to the procurement team and say, okay, here we need to make some changes to our assortment. And we would go to the operating team and say we need some service adjustments here because this is how these guys work.
 
-And so that, that was basically the core thing. I would go into the wholesale market to meet with manufacturers who in, who were unique, local, producing certain, whether that was dairy or flour or rice or whatever it was. Oopsie, I'm sorry. I just kicked up my... So that brings the awareness to... this bioregion concept. How how in this particular market they have been if you go to India, my god, they have been there for thousands of years. 
+And so that, that was basically the core thing. I would go into the wholesale market to meet with manufacturers who in, who were unique, local, producing certain, whether that was dairy or flour or rice or whatever it was. Oopsie, I'm sorry. I just kicked up my... So that brings the awareness to... this bioregion concept. How how in this particular market they have been if you go to India, my god, they have been there for thousands of years. 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: knows each other and and this is the kind of rice we eat here and this is the spice mix we are calling here and so on.
 
-So we, so western companies then come in and a lot of them have very disruptive models. Like in India, for example, Walmart coming in Monsanto coming in, and the first thing they want to do is buy up a whole bunch of farms and have them shift into monocrops. 
+So we, so western companies then come in and a lot of them have very disruptive models. Like in India, for example, Walmart coming in Monsanto coming in, and the first thing they want to do is buy up a whole bunch of farms and have them shift into monocrops. 
 
-Jordan Nicholas: Yeah. Yeah. 
+Jordan Nicholas: Yeah. Yeah. 
 
 Klaus Mager: nitrogen, and so on.
 
-Created a mess in not just India, but also in other countries. And many countries can't defend themselves. India is pretty strong, pretty tough. But you have other countries that they're just completely helpless against 
+Created a mess in not just India, but also in other countries. And many countries can't defend themselves. India is pretty strong, pretty tough. But you have other countries that they're just completely helpless against 
 
 Jordan Nicholas: Why? Why can't they? What do you mean they can't defend themselves? And why do you use that language?
 
-Klaus Mager: Because their political structures are too they don't have any institutional defenses, they don't have a 
+Klaus Mager: Because their political structures are too they don't have any institutional defenses, they don't have a 
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
 Klaus Mager: of agriculture and a department of transportation and so on. There's, everything is very loose and power is too concentrated. So they come in hey, you're rich, we make you richer, why don't take this franchise and you own the franchise, you are the but we'll tell you how this all works.
 
 So they're working, so they're basically corrupting the local economy
 
-Jordan Nicholas: yeah. Okay. Yeah, exactly. So, the giant US corporations backed by US political pressure are out actively corrupting the weak institutional structures around the world that they can predate upon. In order to go in and open up another tentacle of these centralized supply chains, which they control that goes back to the manufacturer of the genetically modified seeds that can withstand the chemicals that are tied back to oil and all the way back through the 
+Jordan Nicholas: yeah. Okay. Yeah, exactly. So, the giant US corporations backed by US political pressure are out actively corrupting the weak institutional structures around the world that they can predate upon. In order to go in and open up another tentacle of these centralized supply chains, which they control that goes back to the manufacturer of the genetically modified seeds that can withstand the chemicals that are tied back to oil and all the way back through the 
 
 thing. And so what you. What I think a lot of people don't realize is that you, the United States on behalf of these corporations are out seeking actively to corrupt government structures in absolute violation of the basic values and ideals that most Americans profess verbally to uphold and then our elected officials and deep state that's collusively intertwined with the big corporations is then bringing political pressure to bear if the transactions can't really be forced.
 
 And then when we look at our sad history, we see occasions of CIA and military intervention on top of that to do coups or turn over leadership if the existing governments can't be adequately corrupted to extend the tentacles.
 
-Klaus Mager: Yeah, that's the unfortunate reality. 
+Klaus Mager: Yeah, that's the unfortunate reality. 
 
 Jordan Nicholas: Okay. So what we've, so based on your experience and our aggregations of, our best attempts to triangulate and get an understanding of how we could help people turn things around in their local communities and bio regions. The stuff is damn complicated to try to explain with words, but we're let's, try a little bit.
 
@@ -655,9 +655,9 @@ And so that same system can not only aid and assist communities and developing f
 
 We, mentioned the there's, you can find in the Bible, but there's verses in there my people are suffering and dying for lack of knowledge. And as, I've traveled to dozens of countries around the world it is so encouraging and magical to learn from those cultures and to understand how much.
 
-don't know and how much there is to exchange and then you also look at some things that are happening and just go. Oh my gosh, there's so much suffering here that could be alleviated to it with 
+don't know and how much there is to exchange and then you also look at some things that are happening and just go. Oh my gosh, there's so much suffering here that could be alleviated to it with 
 
-Klaus Mager: Yeah, 
+Klaus Mager: Yeah, 
 
 Jordan Nicholas: of knowledge and so so basically the design that Klaus and I have been talking about and that we've been working towards is networking together the leading, solutions knowledge wisdom technologies into something like a prototype that contains all these different aspects of knowledge and health and being and agriculture and self governance and all these different things that communities need to flourish then allows for those to be localized and adapted with help from trained supporters to any local community that hears about these issues and requests the help.
 
@@ -677,19 +677,19 @@ So that's, where it is. That's where the options are. But you can tell when you 
 
 Here's this local hospital. They have volumes that are way too much for one or two or three farmers. They may need 50 farmers to come together to supply them. We'll take care of it we'll aggregate the cost of farmers, we'll take care of contracting, logistics, we'll find a processor to subcontract processing so you get your product in the right condition.
 
-It can be done 
+It can be done 
 
-Jordan Nicholas: Yeah. Exactly. 
+Jordan Nicholas: Yeah. Exactly. 
 
 Klaus Mager: has to be taken, undertaken with optimism joy because we can share, we can change our food system. Think about these wonderful cuisines from around the world. which have harmonized their consumption patterns, their dietary patterns with their natural environment.
 
-Think about Japan think about China, France, Italy the Mediterranean. There is a program at Harvard University, it's called Menus of Change. So they have partnered with the Culinary Institute of America to train chefs to go into a bioregion, do an assessment. of what's 
+Think about Japan think about China, France, Italy the Mediterranean. There is a program at Harvard University, it's called Menus of Change. So they have partnered with the Culinary Institute of America to train chefs to go into a bioregion, do an assessment. of what's 
 
-Jordan Nicholas: Yeah. 
+Jordan Nicholas: Yeah. 
 
 Klaus Mager: in the local market and then create a menu out of this.
 
-That's what we can 
+That's what we can 
 
 Jordan Nicholas: Yeah, exactly. And how
 
@@ -713,9 +713,9 @@ Klaus Mager: Yeah.
 
 Jordan Nicholas: Beautiful. All right. So Klaus what a conversation. That was that was intense and engaging and flew by. Anything else that you would like to insert or share or get into hearts and minds of interested people out there?
 
-Klaus Mager: Yeah. No we live in interesting times, as my Chinese friends would say. It's stunning to think that our generation is actually the one that stands on the precipice of where humanity is going to go. 
+Klaus Mager: Yeah. No we live in interesting times, as my Chinese friends would say. It's stunning to think that our generation is actually the one that stands on the precipice of where humanity is going to go. 
 
-Jordan Nicholas: Yeah, 
+Jordan Nicholas: Yeah, 
 
 Klaus Mager: the time we have right now determines where humanity will be in 30 years, in 50 years, in 100 years.
 
@@ -733,10 +733,10 @@ When Klaus gets back in six weeks or so, we'll be we'll be evaluating follow up 
 
 Klaus Mager: That sounds good.
 
-Thanks, 
+Thanks, 
 
-Jordan Nicholas: right. 
+Jordan Nicholas: right. 
 
-Klaus Mager: Alright. 
+Klaus Mager: Alright. 
 
 Jordan Nicholas: Thank you, everybody. I appreciate it. ​

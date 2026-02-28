@@ -3,13 +3,13 @@ One of the foundational elements of the Lionsberg System centers around redefini
 
 ### Economic Lens
 
-From an economic lens, organizations are created to accomplish a set of goals that are valuable to a customer. Often, that customer in turn uses the [[Value]] that was created for them in turn to create [[Value]] for their customers that are further downstream. This basic [[Chain]] of [[Value Creation]] works its way through a series of organizations from the smallest individual inputs all the way up to the most complex outputs. 
+From an economic lens, organizations are created to accomplish a set of goals that are valuable to a customer. Often, that customer in turn uses the [[Value]] that was created for them in turn to create [[Value]] for their customers that are further downstream. This basic [[Chain]] of [[Value Creation]] works its way through a series of organizations from the smallest individual inputs all the way up to the most complex outputs. 
 
 Techniques such as [[Value Stream Mapping]] bring these Flows to light. 
 
-As an organization accomplishes the goal for the customer, value is created for the customer that is then recognized and paid for.  
+As an organization accomplishes the goal for the customer, value is created for the customer that is then recognized and paid for.  
 
-Activity that the customer does not value is [[Waste]]. 
+Activity that the customer does not value is [[Waste]]. 
 
 Organizations should work to progressively eliminate [[Waste]], and progressively increase [[Value]] creation. These two activities work together to increase [[Throughput]] of the [[Goal]] of a System. 
 
@@ -17,17 +17,17 @@ Value is recognized by those who pay the [[Value Creator]] for what they have cr
 
 This voluntary reciprocity around [[Value Creation]] is the basis for functional free market economies, and reciprocal relationship in general.
 
-Reciprocal relationships and value exchange need not be monetary in nature and can be bartered or transacted in kind in a number of ways. This multi-capital lens of Value is critical. 
+Reciprocal relationships and value exchange need not be monetary in nature and can be bartered or transacted in kind in a number of ways. This multi-capital lens of Value is critical. 
 
 Value can take numerous forms. For example a product, service, knowledge, location, mindset, access, influence, wisdom, capability, etc. 
 
-Anything that anyone is willing to recognize as valuable can be a basis of value exchange. 
+Anything that anyone is willing to recognize as valuable can be a basis of value exchange. 
 
 The key is that the [[Value]] is created and recognized, and reciprocally transacted on so that the [[Flow of Value]] can continue.
 
 As mutiple Flows of Value converge and interact, an ecosystem or economy emerges. 
 
-Often value creation goes unnoticed. If it is not noticed, it cannot be recognized. If it cannot be recognized, it cannot be valued. If it cannot be valued, it cannot be transacted with. If it cannot be transacted with, the ecosystem / economy of value exchange cannot build itself. 
+Often value creation goes unnoticed. If it is not noticed, it cannot be recognized. If it cannot be recognized, it cannot be valued. If it cannot be valued, it cannot be transacted with. If it cannot be transacted with, the ecosystem / economy of value exchange cannot build itself. 
 
 As we recognize and enumerate different kinds of value that has been created or is emerging, we make it visible, and recognizable, and countable, and otherwise measurable. 
 

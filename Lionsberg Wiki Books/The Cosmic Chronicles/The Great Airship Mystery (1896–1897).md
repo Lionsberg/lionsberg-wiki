@@ -105,12 +105,12 @@ One of the most famous incidents occurred on April 10, 1897, in Aurora, Texas. R
 
 - **Books:**
     
-    - Vallée, Jacques. _Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times._
-    - Keel, John A. _The Mothman Prophecies: A UFO Casebook._
+    - Vallée, Jacques. _Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times._
+    - Keel, John A. _The Mothman Prophecies: A UFO Casebook._
 - **Documentaries:**
     
-    - _The Great Airship Mystery: The UFO Phenomena of 1896–1897_ (History Channel).
+    - _The Great Airship Mystery: The UFO Phenomena of 1896–1897_ (History Channel).
 - **Web Resources:**
     
-    - MUFON Historical Cases: [https://www.mufon.com](https://www.mufon.com/)
-    - NICAP Report on Early UFO Waves: [https://www.nicap.org](https://www.nicap.org/)
+    - MUFON Historical Cases: [https://www.mufon.com](https://www.mufon.com/)
+    - NICAP Report on Early UFO Waves: [https://www.nicap.org](https://www.nicap.org/)

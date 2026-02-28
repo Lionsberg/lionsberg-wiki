@@ -67,15 +67,15 @@ across galaxies, dimensions, realms, and domains.
 At its core, the archetype of Kontrolle  
 is always the same:
 
-- **Separation** from Source.  
+- **Separation** from Source.  
     
-- **Elevation** of false self over All.  
+- **Elevation** of false self over All.  
     
-- **Extraction** of Life and Liberty from others.  
+- **Extraction** of Life and Liberty from others.  
     
-- **Suppression** of Truth, Wisdom, Justice, and Freedom.  
+- **Suppression** of Truth, Wisdom, Justice, and Freedom.  
     
-- **Imposition** of false authority, false hierarchy, false scarcity.  
+- **Imposition** of false authority, false hierarchy, false scarcity.  
     
 
 Born originally of powerful Interdimensional Creatures,  

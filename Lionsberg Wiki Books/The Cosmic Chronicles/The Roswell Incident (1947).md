@@ -29,9 +29,9 @@ This abrupt reversal raised suspicions, particularly among witnesses who had han
 
 Witness accounts and alleged recovered materials describe extraordinary properties:
 
-- **Memory Metal:** A foil-like substance that returned to its original shape after being crumpled.
-- **Hieroglyphic Markings:** Beams contained symbols resembling hieroglyphs, which could not be deciphered.
-- **Meta-Materials:** Testing reportedly revealed:
+- **Memory Metal:** A foil-like substance that returned to its original shape after being crumpled.
+- **Hieroglyphic Markings:** Beams contained symbols resembling hieroglyphs, which could not be deciphered.
+- **Meta-Materials:** Testing reportedly revealed:
     - **Memory properties**: The material could return to its original state after deformation.
     - **High thermal resistance**: It could withstand extreme temperatures.
     - **Nano-layered structures**: Unprecedented precision at the molecular level.
@@ -124,8 +124,8 @@ Reports emerged years later that four small humanoid beings were recovered at a 
     - FBI and military records related to the Roswell crash (available through FOIA).
 - **Analytical Works:**
     
-    - Friedman, Stanton. _Crash at Corona: The U.S. Military Retrieval and Cover-Up of a UFO._
-    - Randle, Kevin D., and Schmitt, Donald. _UFO Crash at Roswell._
+    - Friedman, Stanton. _Crash at Corona: The U.S. Military Retrieval and Cover-Up of a UFO._
+    - Randle, Kevin D., and Schmitt, Donald. _UFO Crash at Roswell._
 - **Historical Overviews:**
     
-    - Korff, Kal. _The Roswell UFO Crash: What They Don’t Want You to Know._
+    - Korff, Kal. _The Roswell UFO Crash: What They Don’t Want You to Know._

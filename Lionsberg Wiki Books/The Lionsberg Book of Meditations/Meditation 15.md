@@ -1,6 +1,6 @@
 # Meditation 15
 
-Intentional action against the well-being or free-will of another violates the Universal Law. 
+Intentional action against the well-being or free-will of another violates the Universal Law. 
 
 ___
 

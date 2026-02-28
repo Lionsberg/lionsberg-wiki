@@ -11,19 +11,19 @@
 
 ### Why The Bookmobile
 ### Platform Basics 
-- Manufacturer: Blue Bird Corporation 
+- Manufacturer: Blue Bird Corporation 
 - Model TC2000
 - Year 2000
 - VIN **1BDFBCP79YF094510**
 - Date of MFR: 11/1999
-- Chassis classification: MPV 
-- Engine: Cummins ISB 5.9 24 Valve 
+- Chassis classification: MPV 
+- Engine: Cummins ISB 5.9 24 Valve 
 - Length: 
-- Width: 
-- Transmission: Alison  
-- GVWR 31,000 lbs 
-- Front GAWR 12,000 
-- Rear GAWR 19,000 
+- Width: 
+- Transmission: Alison  
+- GVWR 31,000 lbs 
+- Front GAWR 12,000 
+- Rear GAWR 19,000 
 - Lift functionality and capacity: Rincon 800 lbs?  
 - Mileage at purchase: 156,335  
 - Expected platform life: >500,000
@@ -42,25 +42,25 @@
 Overall Bus Length:  
 Overall Bus Width:  
 Wheelbase: 
-Ideal balance for both rural and town usage 
+Ideal balance for both rural and town usage 
 
 Bus front to desk - 60”
-Desk: Wall to wall flat surface - 33”  (86” wide)
+Desk: Wall to wall flat surface - 33”  (86” wide)
 Small bookshelf to door - 25”
-Door - 30” 
-Door to back:  148
+Door - 30” 
+Door to back:  148
   
-Small bookshelf - 18” 
-Large center area narrower - 67”  
+Small bookshelf - 18” 
+Large center area narrower - 67”  
 - 53” width is bed platform / raised pit
   
-Garage 62” 
+Garage 62” 
   
-76” ceiling height 
+76” ceiling height 
 1" clear with shoes off
   
 Desk to back 205
-Desk to tatami 78 
+Desk to tatami 78 
 Tatami 67
 Tatami to back 62
 ## Concept  
@@ -75,7 +75,7 @@ Create a **10+ year survivable**, cold-capable, off-grid, low-maintenance live/w
 • **Controlled air & moisture environment**  
 • **Tool-serviceable everything**  
   
-This is not a “conversion.” It is a **field base**. Temple. Sanctuary. Monastery. Dojo. Healing Center. Initiation Portal. Forward operating base. 
+This is not a “conversion.” It is a **field base**. Temple. Sanctuary. Monastery. Dojo. Healing Center. Initiation Portal. Forward operating base. 
 
 This bus is:
 • **The first Sanctuary**
@@ -87,7 +87,7 @@ A **Temple on Wheels**.
 
 A **traveling House of the Logos**, carrying the Pattern into the world.
   
-Theme: Monastic Minimalism. 
+Theme: Monastic Minimalism. 
   
 - Can become **a true sanctuary**
 - Can house **2-3 people without psychological compression**
@@ -106,24 +106,24 @@ Theme: Monastic Minimalism. 
 **SIMPLE → REPAIRABLE → LOCAL → TOOL-REPRODUCIBLE → NON-FRAGILE**
   
 Build once.
-Build slow, simple, durable.  
-Zero RV flimsy plastic anything 
+Build slow, simple, durable.  
+Zero RV flimsy plastic anything 
   
 We avoid:
 - Complex electrical controllers
 - High-pressure propane dependencies
 - Excessive cabinetry / trim
-- RV appliances 
-- RV propane fridges  
-- RV ovens 
+- RV appliances 
+- RV propane fridges  
+- RV ovens 
   
 We lean into
 - No Complexity = No fail points
-- Low Tech Living 
-- Staying Warm  
-- Keeping Nutrition Stable  
-- Minimizing Failure Points  
-- Everything Repairable with Hand Tools 
+- Low Tech Living 
+- Staying Warm  
+- Keeping Nutrition Stable  
+- Minimizing Failure Points  
+- Everything Repairable with Hand Tools 
 - **Household and Marine Grade - no RV**
 - **Wood stove + diesel heat**
 - **Chest Freezer as Fridge** (If power avail)
@@ -132,21 +132,21 @@ We lean into
 - **Modular storage**
 - **Everything accessible & repairable by one person**
   
-Build in 3/4” plywood + cedar + foam + wool + linseed oil  
-Keep wiring simple and modular  
+Build in 3/4” plywood + cedar + foam + wool + linseed oil  
+Keep wiring simple and modular  
   
-Repairable. 
-Warm. 
-Quiet. 
-Invisible. 
-Fully Sovereign.  
-Sustainable for a decade+  
-Able to feed and shelter 2-4 people in winter 
+Repairable. 
+Warm. 
+Quiet. 
+Invisible. 
+Fully Sovereign.  
+Sustainable for a decade+  
+Able to feed and shelter 2-4 people in winter 
   
 
 ## Strategy 
 
-Front load reliability and structure… 
+Front load reliability and structure… 
 Layer comfort and capability…
 Minimum viable build and move-in.  
 Continuous improvement as the sanctuary gets in flow. 
@@ -158,8 +158,8 @@ Continuous improvement as the sanctuary gets in flow.
 3. Reception, Galley, and Stove   
 4. The Warm Core / Tatami Zone (mid-bus)  
 	1. Sit / Sleep / train / relate / meditate / commune  
-5. The Armory / Workshop / Forge / Gear / Mobility Bay 
-	1. Where equipment is maintained.  Tools are sharpened. Repairs are made. Mobility is stored.
+5. The Armory / Workshop / Forge / Gear / Mobility Bay 
+	1. Where equipment is maintained.  Tools are sharpened. Repairs are made. Mobility is stored.
 	2. Safe 
 	3. Cold storage  
 	4. Tools and equipment  
@@ -167,7 +167,7 @@ Continuous improvement as the sanctuary gets in flow.
 	6. Bike 
 6. Rear Lift
 7. Sky Deck 
-8. Maintain front to back Library Shelving bones - thermal + structural advantage 
+8. Maintain front to back Library Shelving bones - thermal + structural advantage 
   
 ## Lifestyle Assumptions  
 - **Low-electricity food strategies** (soaking, sprouting, fermentation, clay pots, low-heat stews)
@@ -183,12 +183,12 @@ Continuous improvement as the sanctuary gets in flow.
 
 - Heavy thermal blackout screen for bus front windows  
 - Heavy thermal blackout screen for bus back window 
-- Heavy thermal curtain behind Driver’s Seats  
+- Heavy thermal curtain behind Driver’s Seats  
 - Heavy thermal curtain across rear garage partition  
 - Curtains ≈ (reflectix core + cloth both sides)
-- Ceiling - 1/2” polyiso + thin thermal baffle + fabric liner (or cedar T&G) 
-- Floor ~0.25” - 0.5” insulation and rugs 
-- Preserve full posture and warmth 
+- Ceiling - 1/2” polyiso + thin thermal baffle + fabric liner (or cedar T&G) 
+- Floor ~0.25” - 0.5” insulation and rugs 
+- Preserve full posture and warmth 
 - **Thermal curtains**  across cockpit, rear garage partition, and any cold seams.  
 - If parked in winter - insulated skirting panels around bus belly to cut drafts  
 
@@ -197,16 +197,16 @@ Continuous improvement as the sanctuary gets in flow.
 
 ### Heating  
 
-Marine wood stove (deep winter anchor, drying gear, radiant comfort) 
+Marine wood stove (deep winter anchor, drying gear, radiant comfort) 
 
-- Cubic Mini Grizzly 
-- Wall Heat Shield  
-- Roof Flue (double walled pipe)  
-- Dedicated wood storage  
+- Cubic Mini Grizzly 
+- Wall Heat Shield  
+- Roof Flue (double walled pipe)  
+- Dedicated wood storage  
 
-Fuel: downed wood + scrap + sticks = unlimited 
+Fuel: downed wood + scrap + sticks = unlimited 
 
-- 2 kW or 5kW Diesel heater (baseline heat 80% of time) 
+- 2 kW or 5kW Diesel heater (baseline heat 80% of time) 
 
 This combination should heat the bus down to -20 degrees.
 
@@ -266,15 +266,15 @@ Cozy mats, down, and wool on Tatami
 ### Cooking  
 
 #### Phase I 
-- ✅ Propane 2 burner stovetop (removable / stowable)   
-- ✅ Dutch oven (bread, stews, meat)  
-- ✅ Kettle for tea  
+- ✅ Propane 2 burner stovetop (removable / stowable)   
+- ✅ Dutch oven (bread, stews, meat)  
+- ✅ Kettle for tea  
 - Dry Goods (rice, lentils, oats, salt, oil, honey)
 
 #### Phase II 
 
-- Rocket stove (outdoors for fuel independence)  
-- Bricks + steel pot support? 
+- Rocket stove (outdoors for fuel independence)  
+- Bricks + steel pot support? 
 
 
 ____
@@ -501,7 +501,7 @@ Phase II: Small on demand propane unit? (Joolca type?)
 
 ✅ Phase I: Luggable loo
 
-Phase II: Urine-diverting dry toilet (UDDC) 
+Phase II: Urine-diverting dry toilet (UDDC) 
 
 Stealth & Sovereignty: No dump-station dependency, no blue chemicals, no freeze-risk in exposed tanks.
 
@@ -525,15 +525,15 @@ Stealth & Sovereignty: No dump-station dependency, no blue chemicals, no freeze-
 
 **Solids Throughput / Cadence:** Typically **one 10–12 L bin every 2–3 days** for 3 adults with cover; rotate & seal.
 
-**Urine Disposal**: Dilute 1:10 with water and apply to non-edible trees   
+**Urine Disposal**: Dilute 1:10 with water and apply to non-edible trees   
 **Solids Disposal**: Off-site thermophilic composing
 
 Identify a compact bathroom compartment 30" - 34" x 30" with a heavy privacy curtain and nightlight.  
 Adjacent cabinet holds  
-- Two totes of dry cover material  
-- Spare Solids Bags 
-- Urine carboy rotation staging  
-- Cleaning supplies  
+- Two totes of dry cover material  
+- Spare Solids Bags 
+- Urine carboy rotation staging  
+- Cleaning supplies  
 - Service path - make sure ADA lift path can move full carboys/bins to back for transport
 
 Operations: 
@@ -542,7 +542,7 @@ Operations:
 - Transport to contractor bag inside dry tote in rear bus storage  
 - Dispose at landfill or pit toilet  
 
-There is zero odor when the diverter + fan + cover protocol are done correctly. 
+There is zero odor when the diverter + fan + cover protocol are done correctly. 
 You are not disposing of waste. You are keeping water pure, respecting sacred soil, returning matter to the great cycle, leaving every place better than you found it…
 
 
@@ -653,7 +653,7 @@ FAUCET
 ### Power  
 
 - Simple DC system + inverter + shore plug 
-- Generator assisted from day 1  
+- Generator assisted from day 1  
 - Titled portable ground array  
 - Posible fixed solar later after usage study  
 - 48 v hybrid system  
@@ -946,7 +946,7 @@ This is the “spine” everything hangs off.
 
 - **VOZINMOST 300A Class T Fuse Holder with 300A fuse**
     
-    Amazon: https://www.amazon.com/dp/B0FB8HG1QB 
+    Amazon: https://www.amazon.com/dp/B0FB8HG1QB 
     
 
 ### **b) Busbars (positive & negative)**
@@ -955,7 +955,7 @@ From the Class-T fuse, run to **300A busbars** that all major devices land on.
 
 - **300A Heavy Duty Module Bus Bar, red & black pair**
     
-    Amazon: https://www.amazon.com/dp/B0C2Z8LMZB 
+    Amazon: https://www.amazon.com/dp/B0C2Z8LMZB 
     
 
 These give you:
@@ -974,7 +974,7 @@ Between battery negative and negative busbar, insert a **500A smart shunt**.
 
 - **Victron Energy SmartShunt 500A 12/24/48V**
     
-    Amazon: https://www.amazon.com/dp/B0DJ2P2XN5 
+    Amazon: https://www.amazon.com/dp/B0DJ2P2XN5 
     
   
 This gives you:
@@ -992,7 +992,7 @@ For the main DC spine and future inverter, treat this as a **2/0 AWG system**.
     
     Example: Geosiry 2/0 welding cable
     
-    Amazon: https://www.amazon.com/dp/B0DM5HRXKQ 
+    Amazon: https://www.amazon.com/dp/B0DM5HRXKQ 
     
 
   
@@ -1018,7 +1018,7 @@ Start with **2 suitcases of 400W each** (800W), with the option to add a third s
 
 - **Renogy 400W Portable Solar Panel Suitcase**
     
-    Amazon: https://www.amazon.com/dp/B0D4LMVKYD 
+    Amazon: https://www.amazon.com/dp/B0D4LMVKYD 
     
 
   
@@ -1062,7 +1062,7 @@ We sized this for:
 
 - **Victron SmartSolar MPPT 150/70 MC4 VE.Can (Bluetooth)**
     
-    Amazon: https://www.amazon.com/dp/B09KFKM7MV 
+    Amazon: https://www.amazon.com/dp/B09KFKM7MV 
     
 
   
@@ -1100,7 +1100,7 @@ When the bus is moving, you want the alternator quietly topping the house bank.
 
 - **Renogy 12V 40A DC-to-DC On-Board Battery Charger (LiFePO₄ compatible)**
     
-    Amazon search: https://www.amazon.com/s?k=Renogy+12V+40A+DC+to+DC+On-Board+Battery+Charger 
+    Amazon search: https://www.amazon.com/s?k=Renogy+12V+40A+DC+to+DC+On-Board+Battery+Charger 
     
 
   
@@ -1166,7 +1166,7 @@ All the “small” loads land on a **fused DC distribution block** fed from the
     
     Example: BEISUOS 12-way fuse block
     
-    Amazon: https://www.amazon.com/dp/B0CSMMH91R 
+    Amazon: https://www.amazon.com/dp/B0CSMMH91R 
     
 
   
@@ -1263,7 +1263,7 @@ Below is a **minimum complete kit** to get:
 
 1. ✅ **(2×) ECO-WORTHY 12V 300Ah LiFePO₄ Bluetooth Battery**
     
-    https://www.amazon.com/dp/B0DS3Y9TBQ 
+    https://www.amazon.com/dp/B0DS3Y9TBQ 
     
 
 _(Optional Phase II)_
@@ -1276,7 +1276,7 @@ _(Optional Phase II)_
 
 3. ✅ **(2×) Renogy 400W Portable Solar Panel Suitcase** (800W total now)
     
-    https://www.amazon.com/dp/B0D4LMVKYD 
+    https://www.amazon.com/dp/B0D4LMVKYD 
     
   
 
@@ -1299,7 +1299,7 @@ _(Phase II)_
 
 7. ✅ **Victron SmartSolar MPPT 150/70 MC4 VE.Can**
     
-    https://www.amazon.com/dp/B09KFKM7MV 
+    https://www.amazon.com/dp/B09KFKM7MV 
     
 8. ✅ **DC breaker or ANL/MIDI fuse (80–100A)** for MPPT output to positive bus.
     
@@ -1312,7 +1312,7 @@ _(Phase II)_
     
     Find via Amazon search:
     
-    https://www.amazon.com/s?k=Renogy+12V+40A+DC+to+DC+On-Board+Battery+Charger 
+    https://www.amazon.com/s?k=Renogy+12V+40A+DC+to+DC+On-Board+Battery+Charger 
     
 10. **(2×) 60A fuses or breakers**
     
@@ -1330,21 +1330,21 @@ _(Phase II)_
 
 12. **300A Class-T Fuse + Holder** (main battery → system)
     
-    Option A (nice): https://www.amazon.com/dp/B0FB8HG1QB 
+    Option A (nice): https://www.amazon.com/dp/B0FB8HG1QB 
     
-    Option B (Go Power): https://www.amazon.com/dp/B00153CXJC 
+    Option B (Go Power): https://www.amazon.com/dp/B00153CXJC 
     
 13. **300A Bus Bar Pair (Red + Black)**
     
-    https://www.amazon.com/dp/B0C2Z8LMZB 
+    https://www.amazon.com/dp/B0C2Z8LMZB 
     
 14. **Victron SmartShunt 500A Battery Monitor**
     
-    https://www.amazon.com/dp/B0DJ2P2XN5 
+    https://www.amazon.com/dp/B0DJ2P2XN5 
     
 15. **2/0 AWG Battery Cable, 10ft Red + 10ft Black, OFC**
     
-    Geosiry 2/0 set: https://www.amazon.com/dp/B0DM5HRXKQ 
+    Geosiry 2/0 set: https://www.amazon.com/dp/B0DM5HRXKQ 
     
     (Adjust length/quantity depending on your layout.)
     
@@ -1359,7 +1359,7 @@ _(Phase II)_
 
 17. **12-Way Marine Fuse Block with Negative Bus & Cover**
     
-    Example BEISUOS 12-way: https://www.amazon.com/dp/B0CSMMH91R 
+    Example BEISUOS 12-way: https://www.amazon.com/dp/B0CSMMH91R 
     
 18. **Assorted ATC/ATO fuses** (5A, 10A, 15A, 20A).
     
@@ -2085,13 +2085,13 @@ But here are the _upgrade options_ if you want true pro-level, worldclass capabi
 
 ---
 
-## **🔥** 
+## **🔥** 
 
 ## **Level 2: Mobile Studio Enhancements**
 
   
 
-### **①** 
+### **①** 
 
 ### **Battery Capacity Expansion**
 
@@ -2116,7 +2116,7 @@ But 900Ah is **already amazing**.
 
 ---
 
-## **🔥** 
+## **🔥** 
 
 ## **Level 3: Quiet Stage Lighting (DC and AC)**
 
@@ -2135,7 +2135,7 @@ Totally fine on your system.
 
 ---
 
-## **🔥** 
+## **🔥** 
 
 ## **Level 4: Full Mobile PA / Event Kit**
 
@@ -2158,7 +2158,7 @@ Your system handles all of this without blinking.
 
 ---
 
-## **🔥** 
+## **🔥** 
 
 ## **Level 5: Surge Protection & Power Conditioning**
 
@@ -2177,7 +2177,7 @@ These protect sensitive studio gear and eliminate noise.
 
 ---
 
-## **🔥** 
+## **🔥** 
 
 ## **Level 6: Generator pass-through for big outdoor events**
 
@@ -2367,7 +2367,7 @@ The **only things I’d “oversize” for future 1200 W / 1200 Ah** are:
   
 You’ve already done the expensive oversizing (Victron class MPPT, 2/0 cabling, 300 A fuse/bus). You do _not_ need to blow up the design further.
 
-##### **4. “Full public concert capabilities” – what would actually push you beyond 3000 W?**
+##### **4. “Full public concert capabilities” – what would actually push you beyond 3000 W?**
   
 You’d have to intentionally move into:
 
@@ -2399,21 +2399,21 @@ There are **8 items** that are either required or strongly recommended for a cle
   
 I’ll list them as:
   
-### **✅** 
+### **✅** 
 
 ### **Everything you already have (confirmed correct)**
   
-### **⚠️** 
+### **⚠️** 
 
 ### **Missing / Required**
   
-### **⭐** 
+### **⭐** 
 
 ### **Strongly Recommended**
 
 ---
 
-# **✅** 
+# **✅** 
 
 # **EVERYTHING YOU ALREADY HAVE — CONFIRMED**
   
@@ -2489,7 +2489,7 @@ You already have the following **critical core components**:
 
 ---
 
-# **⚠️** 
+# **⚠️** 
 
 # **MISSING / REQUIRED (THESE MUST BE ADDED)**
   
@@ -2781,7 +2781,7 @@ _A comprehensive sonic architecture for Presence, Purpose, and Power_
 
 ---
 
-# **I.** 
+# **I.** 
 
 # **The Purpose of Sound on the Ark**
 
@@ -2820,7 +2820,7 @@ Sound is the architecture of mood, thought, and destiny.
 
 ---
 
-# **II.** 
+# **II.** 
 
 # **The Four Sonic Fields**
 
@@ -2983,7 +2983,7 @@ Elevation
 
 ---
 
-# **III.** 
+# **III.** 
 
 # **Daily Rhythm Pattern**
 
@@ -3025,7 +3025,7 @@ Elevation
 
 ---
 
-# **IV.** 
+# **IV.** 
 
 # **The Seven Archetypal Modes of Sound**
 
@@ -3035,7 +3035,7 @@ Use consciously:
 
   
 
-### **1.** 
+### **1.** 
 
 ### **Sanctuary Mode**
 
@@ -3045,7 +3045,7 @@ Quiet, reflective, intimate
 
   
 
-### **2.** 
+### **2.** 
 
 ### **Workshop Mode**
 
@@ -3055,7 +3055,7 @@ Focused, purposeful, productive
 
   
 
-### **3.** 
+### **3.** 
 
 ### **Creative Forge Mode**
 
@@ -3065,7 +3065,7 @@ Inspired, energized, uplifting
 
   
 
-### **4.** 
+### **4.** 
 
 ### **Celebration Mode**
 
@@ -3075,7 +3075,7 @@ Joyful, spirited, communal
 
   
 
-### **5.** 
+### **5.** 
 
 ### **Ceremonial Mode**
 
@@ -3085,7 +3085,7 @@ Sacred, reverent, intentional
 
   
 
-### **6.** 
+### **6.** 
 
 ### **Transmission Mode**
 
@@ -3095,7 +3095,7 @@ Teaching, storytelling, conveying purpose
 
   
 
-### **7.** 
+### **7.** 
 
 ### **Tribe Mode**
 
@@ -3111,7 +3111,7 @@ Unity rhythm
 
 ---
 
-# **V.** 
+# **V.** 
 
 # **Volume Protocol**
 
@@ -3148,7 +3148,7 @@ Let the Ark breathe.
 
 ---
 
-# **VI.** 
+# **VI.** 
 
 # **The Sacred Audio Crates**
 
@@ -3203,7 +3203,7 @@ This creates meaning.
 
 ---
 
-# **VII.** 
+# **VII.** 
 
 # **Correct Use of the EVERSE**
 
@@ -3244,7 +3244,7 @@ This creates meaning.
 
 ---
 
-# **VIII.** 
+# **VIII.** 
 
 # **Transmission Protocol**
 
@@ -3277,7 +3277,7 @@ The silence after matters as much as the sound.
 
 ---
 
-# **IX.** 
+# **IX.** 
 
 # **How To Know What To Play**
 
@@ -3297,7 +3297,7 @@ Not…
 
 ---
 
-# **X.** 
+# **X.** 
 
 # **The Two Most Important Laws**
 
@@ -3315,7 +3315,7 @@ Silence renews power.
 
 ---
 
-# **XI.** 
+# **XI.** 
 
 # **The Highest Use**
 
@@ -3349,7 +3349,7 @@ and becomes a force.
 
 ---
 
-# **XII.** 
+# **XII.** 
 
 # **Finally—The Essence**
 
@@ -3452,38 +3452,38 @@ Just say the word.
 
 Most _perishable dependency_ in modern life comes from
 
-- Fresh meat 
-- Dairy 
-- Certain vegetables  
+- Fresh meat 
+- Dairy 
+- Certain vegetables  
   
-In wilderness + roving life 
+In wilderness + roving life 
 
-- Root vegetables keep months without refrigeration 
-- Grains, legumes, nuts, dried fruits, jerky, salted meat keep indefinitely  
-- Ferments replace refrigeration  
-- Seasonality reduces dependency  
+- Root vegetables keep months without refrigeration 
+- Grains, legumes, nuts, dried fruits, jerky, salted meat keep indefinitely  
+- Ferments replace refrigeration  
+- Seasonality reduces dependency  
   
-The sovereign choice: 
-12V DC Chest Refrigerator / Freezer  
-Either Danfoss or Secop Compressor  
-Chest Style (not upright)  
-Top-opening (cold stays in) 
+The sovereign choice: 
+12V DC Chest Refrigerator / Freezer  
+Either Danfoss or Secop Compressor  
+Chest Style (not upright)  
+Top-opening (cold stays in) 
 Runs directly on 12V DC
 
-Primary Recommendation: 
-- ICECO VL60 Dual Zone  
+Primary Recommendation: 
+- ICECO VL60 Dual Zone  
 	- [Nomadic Supply Co Link](https://nomadicsupply.com/iceco-vl60-63-4qt-dual-zone-portable-refrigerator-freezer-w-insulated-cover/?gad_source=1&gad_campaignid=21912047719&gbraid=0AAAAABNepRg3rC7-hzN1fDDP0rpgdM_Qe&gclid=CjwKCAiAw9vIBhBBEiwAraSATlT6j0mTsObLoTthRObqicGee7UUx3nECrYr8ztoCkS-e_EX1nuf2BoCHswQAvD_BwE)
-Fridge + Freezer simultaneously  
+Fridge + Freezer simultaneously  
 Durable. Repairable.
 
-Winter optimization: 
+Winter optimization: 
 
 - In your region (Idaho mountains):
 - For 5–6 months of the year, the outside air IS your refrigeration.
 - You will have an insulated passive **Cold Box** built into the bus structure.
-- Sealed cabinet against the bus wall 
-- With a screened exterior vent with adjustable opening 
-- For root vegetables, apples, carrots, cheese, and ferments. 
+- Sealed cabinet against the bus wall 
+- With a screened exterior vent with adjustable opening 
+- For root vegetables, apples, carrots, cheese, and ferments. 
 • • To store meat from seasonal hunt, add second identical ICECO VL60 and leave it off 9 months off the year..
 
 ### Insulation
@@ -3491,24 +3491,24 @@ Winter optimization: 
 
 ### Armory / Workshop / Forge 
 
-Where equipment is maintained.  
-Tools are sharpened. 
-Repairs are made. 
+Where equipment is maintained.  
+Tools are sharpened. 
+Repairs are made. 
 Mobility is stored.
 
-- Thick insulated partition  
+- Thick insulated partition  
 - Battery Bay  
 - Diesel Heater Bay  
-- L Track 
-- Tie downs 
-- Safe  
-- E-Bike charging and maintenance space  
-- Firewood locker  
-- Fuel locker  
-- Tool chest  
-- Rope, canvas, repair kits  
-- Spare solar panels?  
-- Water Jug Rotation  
+- L Track 
+- Tie downs 
+- Safe  
+- E-Bike charging and maintenance space  
+- Firewood locker  
+- Fuel locker  
+- Tool chest  
+- Rope, canvas, repair kits  
+- Spare solar panels?  
+- Water Jug Rotation  
 - workstation for leather / metal / electronics / herbalism
 	- Foldout?  
 	- Moveable?  
@@ -3535,14 +3535,14 @@ Installation
 
   
 
-- 69x62 back area -29 sf 
-- 38x66 tatami area - 18 
-- 78x68 middle area - 36 
-- 20x42 to cab - 6 
+- 69x62 back area -29 sf 
+- 38x66 tatami area - 18 
+- 78x68 middle area - 36 
+- 20x42 to cab - 6 
 - 42x20 cab left - 6
 - 42x20 cab right - 6
-- 30x30 passenger foot area - 6 
-- = 107 SF 
+- 30x30 passenger foot area - 6 
+- = 107 SF 
 - 270x69  = 18,630\ 144 = 130
 
 
@@ -3625,8 +3625,8 @@ For survivability in the cold idaho winters, we can:
 - Sleep on a raised platform with pad (2x6 cedar slats over existing wheel well box ledge = tatami)  
 	- Foldable tatami mats for day. 
 	- Pad for night (futon, topper, camper mattress)
-	- One cotton / linen sheet 
-	- 1” thick natural Wool blanket…  
+	- One cotton / linen sheet 
+	- 1” thick natural Wool blanket…  
 	- Down comforter if available  
 	- 76" x 53" ≈ Full XL  
 - Drink via Berkey or spring water  
@@ -3752,26 +3752,26 @@ Need:
 
 
 In Inventory: 
-- Hand saw  
-- Scraper    
-- Construction Pencil  
-- Square  
-- 4’ Level  
+- Hand saw  
+- Scraper    
+- Construction Pencil  
+- Square  
+- 4’ Level  
 - Dewalt oscilating multi-tool? 
-- Cordless drill + impact driver  
-- Circular Saw  
-- Ratchet and socket set  
-- Utility Knife + Blades  
-- Shop towels  
-- Headlamp 
+- Cordless drill + impact driver  
+- Circular Saw  
+- Ratchet and socket set  
+- Utility Knife + Blades  
+- Shop towels  
+- Headlamp 
 - Flashlight
 
 ## PARTNERS / VENDORS
   
 Used Books: 
-- Holly  
+- Holly  
 Metals and Mechanics: 
-- Jason 
+- Jason 
 Mechanic: 
 - Compass Mechanical Repair?
 

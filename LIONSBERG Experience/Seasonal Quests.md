@@ -11,13 +11,13 @@ To live outside this Rhythm is to drift and scatter.
 To live within it is to align with the heartbeat of Heaven on Earth.
 
 This is why We do not act at random.  
-We move in together in **Seasonal Quests**—  
+We move in together in **Seasonal Quests**—  
 sacred cycles of three months,  
 bound to Solstice and Equinox,  
 where Individuals, Circles, Guilds, and Communities  
 step into shared Harmony with the Living System We All are part of.
 
-**Seasonal Quests** are how the scattered become Symphony.  
+**Seasonal Quests** are how the scattered become Symphony.  
 How the sparks become Fire.  
 How the Body learns to move as ONE.
 
@@ -25,13 +25,13 @@ How the Body learns to move as ONE.
 
 Each Season carries its own Song:
 
-- **Spring** calls us to plant and to begin.
+- **Spring** calls us to plant and to begin.
     
-- **Summer** calls us to tend and grow strong.
+- **Summer** calls us to tend and grow strong.
     
-- **Autumn** calls us to gather and to share.
+- **Autumn** calls us to gather and to share.
     
-- **Winter** calls us to rest, to deepen, to dream.
+- **Winter** calls us to rest, to deepen, to dream.
     
 
 And so the Spiral turns, again and again—  
@@ -62,7 +62,7 @@ At the Threshold of each new Season, the Body pauses to listen:
 - What is the next Wise Right Step toward The Goal?
     
 
-This sacred pause is the time of **OmniSpection**—  
+This sacred pause is the time of **OmniSpection**—  
 a moment to rise up and see All,  
 from as close to the perspective of the ONE as We can,  
 before stepping faithfully into Our Part of the Divine Play.
@@ -112,13 +112,13 @@ So when the Season turns:
 
 - Gather your Circle.
     
-- Begin with **[[The First Practice]]**.
+- Begin with **[[The First Practice]]**.
     
-- Listen for **[[The Story of the Season]]**.
+- Listen for **[[The Story of the Season]]**.
     
-- Engage in shared **[[OmniSpection]]**.
+- Engage in shared **[[OmniSpection]]**.
     
-- Discern your **Seasonal Quest** and share **Your Story**.
+- Discern your **Seasonal Quest** and share **Your Story**.
     
 - Embody and Enact it in Community with care.
     

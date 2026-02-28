@@ -114,8 +114,8 @@ Over the years, Bledsoe has continued to witness UFOs, including glowing orbs, c
 
 - **Books:**
     
-    - Bledsoe, Chris. _The Messenger: My Encounters with the Unknown._
+    - Bledsoe, Chris. _The Messenger: My Encounters with the Unknown._
 - **Documentaries:**
     
-    - _Unacknowledged (2017)_ – Explores cases including Bledsoe’s experiences.
-    - _The Phenomenon (2020)_ – Examines modern UFO testimonies, including Bledsoe’s.
+    - _Unacknowledged (2017)_ – Explores cases including Bledsoe’s experiences.
+    - _The Phenomenon (2020)_ – Examines modern UFO testimonies, including Bledsoe’s.

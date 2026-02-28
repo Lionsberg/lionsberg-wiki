@@ -96,13 +96,13 @@ Robert Taylor was regarded as a reliable and honest man with no history of fabri
 
 - **Books:**
     
-    - Keel, John A. _The UFO Mystery._
-    - Randles, Jenny. _UFOs and How to See Them._
+    - Keel, John A. _The UFO Mystery._
+    - Randles, Jenny. _UFOs and How to See Them._
 - **Articles:**
     
     - Police reports and forensic analyses of the Livingston case.
     - British UFO Research Association (BUFORA) files on the incident.
 - **Documentaries:**
     
-    - _The Dechmont Woods Incident: Scotland’s UFO Mystery_ – A detailed exploration of the case.
+    - _The Dechmont Woods Incident: Scotland’s UFO Mystery_ – A detailed exploration of the case.
 

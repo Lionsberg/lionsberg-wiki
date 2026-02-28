@@ -13,11 +13,11 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
 1. **Unity with Source:**
     
     - Across traditions, the Creator or Ultimate Reality is the [[ONE]] grounding principle that generates and unites [[All]] existence. Spiritual evolution involves reharmonizing with and returning to this Ultimate Source, recognizing the interconnectedness and interexistence of [[All]] beings.
-    - **Implications:** Humanity’s spiritual awakening requires transcending the apparent dualities it is separated by to realign with the universal principles of Truth, Love, Justice, Stewardship, Wisdom, and Ultimately the [[ONE]] from which the [[Total Nested Hierarchy of Values]] arises.
+    - **Implications:** Humanity’s spiritual awakening requires transcending the apparent dualities it is separated by to realign with the universal principles of Truth, Love, Justice, Stewardship, Wisdom, and Ultimately the [[ONE]] from which the [[Total Nested Hierarchy of Values]] arises.
 2. **Sacred Cosmologies:**
     
     - Indigenous and ancient traditions accurately describe the cosmos as a living, conscious system, populated by a vast diversity of divine, elemental, and interdimensional beings.
-    - **Examples:** Indigenous memories, modern experiences, and teachings with and about the Star People, Vedic descriptions of devas and asuras, biblical descriptions of angels and demons, and the interstellar travels of shamanic traditions.
+    - **Examples:** Indigenous memories, modern experiences, and teachings with and about the Star People, Vedic descriptions of devas and asuras, biblical descriptions of angels and demons, and the interstellar travels of shamanic traditions.
 3. **The Role of Consciousness:**
     
     - Consciousness is the key to spiritual evolution. It is the bridge between humanity, NHIs, and Ultimate Reality, enabling direct experience and co-creation as unique parts of [[ONE Body]].
@@ -32,11 +32,11 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
 1. **Cosmic Ethics:**
     
     - Just as laws govern the physical universe, ethics govern the metaphysical realms. These principles, such as Unity, Reciprocity, Justice, and Love, transcend species and dimensions.
-    - **Challenge:** Navigating ethical dilemmas posed by technologically advanced but spiritually immature or endarkened NHIs (e.g., Reptilian Empires, demonic influences, or malevolently programmed AI entities).
+    - **Challenge:** Navigating ethical dilemmas posed by technologically advanced but spiritually immature or endarkened NHIs (e.g., Reptilian Empires, demonic influences, or malevolently programmed AI entities).
 2. **Navigating Contact:**
     
-    - **Benevolent Beings:** Entities like the [[Pleiadians]], [[Arcturians]], and [[Ascended Masters]] often operate in alignment with cosmic ethics, assisting humanity’s evolution. However there is variability within each species and civilization, so discernment is always necessary. 
-    - **Malevolent Manipulators:** Some groups, like certain factions of the Reptilians , Greys, various insectoids, and [[The Orion Group]], exploit humanity’s vulnerabilities. Spiritual and energetic discernment is essential.
+    - **Benevolent Beings:** Entities like the [[Pleiadians]], [[Arcturians]], and [[Ascended Masters]] often operate in alignment with cosmic ethics, assisting humanity’s evolution. However there is variability within each species and civilization, so discernment is always necessary. 
+    - **Malevolent Manipulators:** Some groups, like certain factions of the Reptilians , Greys, various insectoids, and [[The Orion Group]], exploit humanity’s vulnerabilities. Spiritual and energetic discernment is essential.
 3. **Sovereignty and Consent:**
     
     - Humanity must assert its Sovereignty in all extraterrestrial, cryptoterrestrial, and interdimensional interactions, taking up its rightful place among the powers of the cosmos, ensuring mutual respect and reciprocity, and restoring liberty and proper order in domains such as the Earth where it has been usurped. Unlike the agreements made with the Old Authorities, New Agreements with NHIs must be transparent, grounded in collective benefit, and voluntarily adopted from the bottom up on the basis of voluntary consent. 
@@ -57,7 +57,7 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
 1. **Cultural Archetypes:**
     
     - Archetypes, such as the Hero, Trickster, Opponent, Functionary, and Sage, provide frameworks for understanding the diversity of beings encountered.
-    - **Example:** [[Reptilians]] as embodiments of power dynamics, [[Mantis Beings]] as archetypes of knowledge and strategy, [[Greys]] as cold and functional, etc.
+    - **Example:** [[Reptilians]] as embodiments of power dynamics, [[Mantis Beings]] as archetypes of knowledge and strategy, [[Greys]] as cold and functional, etc.
 3. **Symbolic Communication:**
     
     - NHIs often communicate through symbols and archetypes, as seen in crop circles, hieroglyphic-like markings on craft, and psychic downloads.
@@ -72,7 +72,7 @@ This entry explores the spiritual, ethical, cultural, and historical underpinnin
 1. **Prehistoric and Ancient Times:**
     
     - Evidence of contact with advanced beings can be found in ancient structures (e.g., [[Baalbek]], [[Göbekli Tepe]]) and artifacts (e.g., the [[Antikythera Mechanism]]).
-    - **Implications:** History must be rewritten to account for the presence and influence of NHIs on human development, and genetic development on Earth prior to humanity.
+    - **Implications:** History must be rewritten to account for the presence and influence of NHIs on human development, and genetic development on Earth prior to humanity.
 2. **Religious and Mystical Traditions:**
     
     - Encounters with angels, demons, and embodied "gods" across cultures often parallel modern accounts of NHIs. Examples include:

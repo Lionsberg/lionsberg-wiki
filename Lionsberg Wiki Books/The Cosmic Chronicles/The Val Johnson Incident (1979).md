@@ -107,14 +107,14 @@ Johnson himself experienced minor injuries, including welts on his face and temp
 
 - **Books:**
     
-    - Clark, Jerome. _The UFO Encyclopedia: The Phenomenon from the Beginning._
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Clark, Jerome. _The UFO Encyclopedia: The Phenomenon from the Beginning._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
 - **Documentaries:**
     
-    - _Unsolved Mysteries (1987):_ Featured segment on the Val Johnson Incident.
-    - _The UFO Files:_ Coverage of physical evidence cases.
+    - _Unsolved Mysteries (1987):_ Featured segment on the Val Johnson Incident.
+    - _The UFO Files:_ Coverage of physical evidence cases.
 - **Web Resources:**
     
-    - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
-    - NICAP Reports on the Val Johnson Incident: [https://www.nicap.org](https://www.nicap.org/)
+    - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
+    - NICAP Reports on the Val Johnson Incident: [https://www.nicap.org](https://www.nicap.org/)
 

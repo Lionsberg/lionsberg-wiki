@@ -86,9 +86,9 @@ When military investigators Captain William Davidson and Lieutenant Frank Brown 
     - Contemporary newspaper reports from Tacoma and Seattle.
 - **Analytical Works:**
     
-    - Arnold, Kenneth. _Coming of the Saucers._
-    - Keel, John A. _The Mothman Prophecies_ (includes a broader discussion of Men in Black).
+    - Arnold, Kenneth. _Coming of the Saucers._
+    - Keel, John A. _The Mothman Prophecies_ (includes a broader discussion of Men in Black).
 - **Historical Overviews:**
     
-    - Randle, Kevin D. _The UFO Casebook._
-    - Barker, Gray. _They Knew Too Much About Flying Saucers._
+    - Randle, Kevin D. _The UFO Casebook._
+    - Barker, Gray. _They Knew Too Much About Flying Saucers._

@@ -575,7 +575,7 @@ _Forgiveness and Renewal_ — All Things Made Whole Again.
     
 - **The Great Rejoicing and Eternal Celebration**
     
-- **The Universal Echo — “We All Are ONE”**
+- **The Universal Echo — “We All Are ONE”**
     
 - The Sacred Reign of the New Sovereigns  
 

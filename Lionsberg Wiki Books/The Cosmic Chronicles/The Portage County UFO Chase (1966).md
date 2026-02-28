@@ -84,7 +84,7 @@ The deputies, exhausted and confused, ended their chase after 86 miles, reportin
 - **Psychological and Social Impact:**
     - The emotional toll on Spaur and Neff underscores the personal cost of UFO encounters.
 - **Cultural Influence:**
-    - The event inspired elements of popular culture, including scenes in films like _Close Encounters of the Third Kind._
+    - The event inspired elements of popular culture, including scenes in films like _Close Encounters of the Third Kind._
 
 ---
 
@@ -102,14 +102,14 @@ The deputies, exhausted and confused, ended their chase after 86 miles, reportin
 
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Randle, Kevin. _In Defense of the UFO Witnesses._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Randle, Kevin. _In Defense of the UFO Witnesses._
 - **Articles:**
     
     - Case studies in UFO journals and investigative reports.
     - Media coverage from Ohio and Pennsylvania newspapers.
 - **Documentaries:**
     
-    - _Chasing the Unknown: The Portage County UFO Incident_ – A detailed exploration of the event.
+    - _Chasing the Unknown: The Portage County UFO Incident_ – A detailed exploration of the event.
 
 

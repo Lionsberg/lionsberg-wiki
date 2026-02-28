@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-On December 16, 2017, _The New York Times_ published a groundbreaking article titled, “[Glowing Auras and ‘BlackMoney’: The Pentagon’s Mysterious UFO Program](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html),” which revealed the existence of a secretive Pentagon program investigating unidentified flying objects (UFOs). Known as the **Advanced Aerospace Threat Identification Program (AATIP)**, the story quickly became a cultural and political milestone in the long-disputed realm of UFO phenomena. Spearheaded by seasoned journalists Helene Cooper, Ralph Blumenthal, and Leslie Kean, the article exposed decades of governmental secrecy and introduced compelling evidence of UAP (unidentified anomalous phenomena) encounters.
+On December 16, 2017, _The New York Times_ published a groundbreaking article titled, “[Glowing Auras and ‘BlackMoney’: The Pentagon’s Mysterious UFO Program](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html),” which revealed the existence of a secretive Pentagon program investigating unidentified flying objects (UFOs). Known as the **Advanced Aerospace Threat Identification Program (AATIP)**, the story quickly became a cultural and political milestone in the long-disputed realm of UFO phenomena. Spearheaded by seasoned journalists Helene Cooper, Ralph Blumenthal, and Leslie Kean, the article exposed decades of governmental secrecy and introduced compelling evidence of UAP (unidentified anomalous phenomena) encounters.
 
 This moment marked a pivotal shift from ridicule to mainstream legitimacy in the UFO conversation. It was also described by some as a carefully managed “approved leak,” reflecting deeper intelligence goals.
 
@@ -43,7 +43,7 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
 3. **Robert Bigelow:**
     
     - Founder of Bigelow Aerospace, which received significant AATIP funding to study UAP phenomena and related materials.
-    - Bigelow famously stated on _60 Minutes_ that he was "absolutely convinced" of extraterrestrial presence.
+    - Bigelow famously stated on _60 Minutes_ that he was "absolutely convinced" of extraterrestrial presence.
 4. **Christopher Mellon:**
     
     - 
@@ -63,7 +63,7 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
     - The revelations framed UAPs as a potential national security issue, aligning with concerns over foreign technological capabilities or unknown threats.
 3. **Controlled Disclosure:**
     
-    - The leak appeared highly coordinated, with the Department of Defense, intelligence operatives, and private organizations (e.g., _To The Stars Academy_) playing pivotal roles in managing the narrative.
+    - The leak appeared highly coordinated, with the Department of Defense, intelligence operatives, and private organizations (e.g., _To The Stars Academy_) playing pivotal roles in managing the narrative.
 
 ---
 
@@ -71,7 +71,7 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
 
 1. **Media Coverage:**
     
-    - The story was picked up by major outlets worldwide, including _CNN_, _The Washington Post_, and _BBC_, further legitimizing the conversation about UFOs.
+    - The story was picked up by major outlets worldwide, including _CNN_, _The Washington Post_, and _BBC_, further legitimizing the conversation about UFOs.
 2. **Public Discourse Shift:**
     
     - UFOs transitioned from fringe speculation to mainstream debate, with increased public interest in governmental transparency on UAPs.
@@ -86,9 +86,9 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
 1. **Continued Disclosure:**
     
     - The 2017 revelations paved the way for subsequent governmental actions, including:
-        - The establishment of the **UAP Task Force (2020)**.
+        - The establishment of the **UAP Task Force (2020)**.
         - Congressional UFO hearings (2022–2023).
-        - The creation of the **All-domain Anomaly Resolution Office (AARO)** (2022).
+        - The creation of the **All-domain Anomaly Resolution Office (AARO)** (2022).
 2. **Cultural Ripple Effects:**
     
     - The revelations reinvigorated UFOlogy, inspiring documentaries, books, and greater public scrutiny of the government’s role in UFO secrecy.
@@ -103,5 +103,5 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
 
 ### **Conclusion**
 
-The 2017 _New York Times_ UFO revelations marked a watershed moment in modern history, bridging the gap between official secrecy and public awareness. While some view the revelations as a genuine step toward transparency, others suspect deeper agendas at play. Regardless, the story fundamentally reshaped how the world perceives UFOs, elevating the phenomenon from conspiracy theory to an issue of legitimate concern and inquiry.
+The 2017 _New York Times_ UFO revelations marked a watershed moment in modern history, bridging the gap between official secrecy and public awareness. While some view the revelations as a genuine step toward transparency, others suspect deeper agendas at play. Regardless, the story fundamentally reshaped how the world perceives UFOs, elevating the phenomenon from conspiracy theory to an issue of legitimate concern and inquiry.
 

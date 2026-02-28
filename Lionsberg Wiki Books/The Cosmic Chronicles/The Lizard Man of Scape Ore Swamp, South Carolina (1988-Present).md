@@ -24,10 +24,10 @@ Following Davis’s account, local residents began reporting sightings of a simi
 
 The Lizard Man shares characteristics with similar reports worldwide:
 
-- **Australia:** In the Outback, Aboriginal legends describe the "Bunyip," sometimes depicted as a large, scaly humanoid.
-- **United Kingdom:** The "Lizard Man of Cornwall" was reportedly sighted in the 1970s, described as a green, reptilian figure with glowing eyes.
-- **India:** Local folklore speaks of "Naga" beings—intelligent, reptilian entities tied to ancient mythology.
-- **United States:** Encounters with reptilian humanoids have been reported in Florida’s Everglades, Pennsylvania’s forests, and California’s deserts, often matching the description of the Scape Ore Swamp Lizard Man.
+- **Australia:** In the Outback, Aboriginal legends describe the "Bunyip," sometimes depicted as a large, scaly humanoid.
+- **United Kingdom:** The "Lizard Man of Cornwall" was reportedly sighted in the 1970s, described as a green, reptilian figure with glowing eyes.
+- **India:** Local folklore speaks of "Naga" beings—intelligent, reptilian entities tied to ancient mythology.
+- **United States:** Encounters with reptilian humanoids have been reported in Florida’s Everglades, Pennsylvania’s forests, and California’s deserts, often matching the description of the Scape Ore Swamp Lizard Man.
 
 ---
 
@@ -93,16 +93,16 @@ The Lizard Man shares characteristics with similar reports worldwide:
 
 - **Books:**
     
-    - Clark, Jerome. _Unexplained! Strange Sightings, Incredible Occurrences, and Puzzling Physical Phenomena._
-    - Redfern, Nick. _Chupacabra Road Trip: In Search of the Elusive Beast._
+    - Clark, Jerome. _Unexplained! Strange Sightings, Incredible Occurrences, and Puzzling Physical Phenomena._
+    - Redfern, Nick. _Chupacabra Road Trip: In Search of the Elusive Beast._
 - **Articles:**
     
     - Analyses of reptilian cryptid sightings globally.
     - Local news coverage of the 1988 Scape Ore Swamp incident.
 - **Documentaries:**
     
-    - _Lizard Man: The True Story_ – Exploration of the Scape Ore Swamp phenomenon and its global connections.
-    - _Cryptids Unveiled_ – A detailed examination of humanoid cryptids, including the Lizard Man.
+    - _Lizard Man: The True Story_ – Exploration of the Scape Ore Swamp phenomenon and its global connections.
+    - _Cryptids Unveiled_ – A detailed examination of humanoid cryptids, including the Lizard Man.
 
 Would you like to delve deeper into one of the global parallels or focus on more witness accounts?
 

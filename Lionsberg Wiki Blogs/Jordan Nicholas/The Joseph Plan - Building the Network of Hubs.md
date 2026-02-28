@@ -2,43 +2,43 @@
 
 #### **Preparing the Storehouses for the Coming Famine**
 
-As [[The Collapse]] accelerates and the Cleansing by Fire approaches, **humanity must immediately shift beyond survivalist thinking and toward proactive, coordinated, large-scale provisioning**—not just for ourselves, but for our families, communities, and the planetary network that will endure beyond [[The Storm]].
+As [[The Collapse]] accelerates and the Cleansing by Fire approaches, **humanity must immediately shift beyond survivalist thinking and toward proactive, coordinated, large-scale provisioning**—not just for ourselves, but for our families, communities, and the planetary network that will endure beyond [[The Storm]].
 
-The Joseph Plan is the **fractal storage, resource, and supply Commons** that must be established **at every level of analysis**, ensuring that no one Family or Ark stands alone, and that the survivors of the transition have what they need to rebuild a [[New Civilization]] worthy of The [[New World]].
+The Joseph Plan is the **fractal storage, resource, and supply Commons** that must be established **at every level of analysis**, ensuring that no one Family or Ark stands alone, and that the survivors of the transition have what they need to rebuild a [[New Civilization]] worthy of The [[New World]].
 
-Much like the Biblical Joseph, who foresaw **seven years of famine** and wisely stored grain to sustain The People, We must **prepare now**, while there is still [[Time]].
+Much like the Biblical Joseph, who foresaw **seven years of famine** and wisely stored grain to sustain The People, We must **prepare now**, while there is still [[Time]].
 
 And [[The Window]] is closing fast. 
 
-The **Hubs** are the networked and interoperable **supply and provisioning centers** that will sustain:
+The **Hubs** are the networked and interoperable **supply and provisioning centers** that will sustain:
 
-- **The Arks** – Ensuring the survival of individuals, families, and localized sanctuaries.
-- **The Human Network** – Facilitating the flow of resources and information to sustain civilization through [[The Collapse-Ascension Nexus]].
-- **The Future of Humanity** – Preserving essential knowledge, tools, genetics, and materials for the [[World To Come]]. 
+- **The Arks** – Ensuring the survival of individuals, families, and localized sanctuaries.
+- **The Human Network** – Facilitating the flow of resources and information to sustain civilization through [[The Collapse-Ascension Nexus]].
+- **The Future of Humanity** – Preserving essential knowledge, tools, genetics, and materials for the [[World To Come]]. 
 
-Without The Hubs, **The Arks will not last long enough to plant the seeds of The New World.**
+Without The Hubs, **The Arks will not last long enough to plant the seeds of The New World.**
 
-The time to build is **Now**.
+The time to build is **Now**.
 
 ---
 
 ## **I. The Fractal Hub Network: The Storage and Supply Grid**
 
-The Hubs must be **designed fractally**, meaning that at **each scale of civilization**, there is a structured, self-replicating, decentralized storage and supply system.
+The Hubs must be **designed fractally**, meaning that at **each scale of civilization**, there is a structured, self-replicating, decentralized storage and supply system.
 
-Each level must be **autonomous but interconnected**, ensuring **resilience, redundancy, and interoperability** so that no single breakdown can bring down the surrounding system elements.
+Each level must be **autonomous but interconnected**, ensuring **resilience, redundancy, and interoperability** so that no single breakdown can bring down the surrounding system elements.
 
 ---
 
 ### **1. Family Hubs: The Foundation of Survival**
 
-- **Every family must have its own storehouse**—a **micro-hub** of essential provisions to ensure basic survival.
+- **Every family must have its own storehouse**—a **micro-hub** of essential provisions to ensure basic survival.
 - This includes:
     - **Long-term food and water storage**
     - **Medical supplies, tools, and energy solutions**
     - **Seed banks and essential knowledge archives**
     - **Basic self-defense and security measures**
-- These Hubs **must be designed to last 7-10 years**, ensuring continuity beyond the initial shock of The Collapse.
+- These Hubs **must be designed to last 7-10 years**, ensuring continuity beyond the initial shock of The Collapse.
 - Family hubs must be governed by the [[LIONSBERG Individuals]] they serve.
 
 > **The first layer of The Joseph Plan is the family storehouse—without it, survival is left to chance.**
@@ -49,13 +49,13 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **2. Local Micro-Hubs: Scattered Caches & Redundancy**
 
-- In addition to home storage, **small-scale hidden, secure supply caches** must be **scattered in strategic locations**.
-- These serve as **fallback points for local communities if homes or Arks are compromised** and include:
+- In addition to home storage, **small-scale hidden, secure supply caches** must be **scattered in strategic locations**.
+- These serve as **fallback points for local communities if homes or Arks are compromised** and include:
     - **Hidden food and water depots**
     - **Emergency medical kits**
     - **Solar chargers and off-grid power sources**
     - **Backup digital and hardcopy knowledge archives**
-- These caches must be **discreetly placed and known only to trusted local network members**.
+- These caches must be **discreetly placed and known only to trusted local network members**.
 - Micro hubs must be governed by the [[LIONSBERG Families]] they serve.
 
 > **If a single point of failure can wipe out an entire supply chain, the system is too fragile. The Hubs ensure continuity under all conditions.**
@@ -64,17 +64,17 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **3. Community Hubs: The 10,000-Person Scale**
 
-- Every town, rural community, or neighborhood must **develop a local Hub (can be multiple networked locations)** that serves as:
+- Every town, rural community, or neighborhood must **develop a local Hub (can be multiple networked locations)** that serves as:
     - **A food storage and distribution center**  
     - **A medical and healing facility**  
     - **A repair and manufacturing site**  
     - **A crisis coordination and intelligence node**  
     - **A Commons housing the more expensive tools, solutions, and equipment that empower various local functions (for example regenerative food production, 3D printing, etc.)**  
-- For speed of deployment, these Hubs should be **built into existing structures where possible**, such as:
+- For speed of deployment, these Hubs should be **built into existing structures where possible**, such as:
     - **Churches, temples, and spiritual centers**
     - **Libraries and knowledge repositories**
     - **Homesteads, co-ops, and farm-based collectives**
-- The goal is to ensure that **entire communities are not left vulnerable to the collapse of centralized systems**.
+- The goal is to ensure that **entire communities are not left vulnerable to the collapse of centralized systems**.
 - While utilizing existing facilities for speed of deployment, The Commons housing key resources should be gradually moved to The Arks or other secure locations as they become available. 
 - ***DO NOT WAIT FOR THE ARKS TO BE COMPLETED TO BEGIN CO-OPERATING THE COMMUNITY HUBS***. 
 - Practice makes perfect, and the Hubs should begin co-operating *immediately* so that the [[New System]] begins organically emerging in response to needs. 
@@ -88,7 +88,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **4. City Hubs: Serving 100K to 1 Million**
 
-- These Hubs must be **strategically placed near or within urban areas**, designed to **sustain large populations** as supply chains disintegrate.
+- These Hubs must be **strategically placed near or within urban areas**, designed to **sustain large populations** as supply chains disintegrate.
 - Their focus is on:
     - **Bulk food storage and distribution networks**
     - **Water purification and independent power generation**
@@ -106,7 +106,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **5. Eco-Regional Hubs: Serving Multiple Cities**
 
-- These Hubs serve as **regional supply and coordination centers**, ensuring that **multiple cities and towns remain interconnected**.
+- These Hubs serve as **regional supply and coordination centers**, ensuring that **multiple cities and towns remain interconnected**.
 - They function as:
     - **Logistical command centers for resource allocation**   
     - **Larger scale recycling and redistribution centers**  
@@ -114,7 +114,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
     - **Inter-city trade and barter coordination zones**  
     - **Production centers for essential tools, fuel, and survival goods**  
     - **A Commons of more costly tools, technologies, and solutions that are impractical to recreate at the city level.** 
-- These Hubs must be positioned in **strategic locations with strong natural resource access**, such as:
+- These Hubs must be positioned in **strategic locations with strong natural resource access**, such as:
     - **Fertile agricultural regions**  
     - **Near clean water sources**  
     - **In areas with favorable [[Resilience Factors]]**    
@@ -129,13 +129,13 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **6. Bioregional Hubs: The 150-200 Core Nodes**
 
-- These Hubs serve as **the backbone of the New decentralized civilization**, ensuring that every major bioregion of Earth has:
+- These Hubs serve as **the backbone of the New decentralized civilization**, ensuring that every major bioregion of Earth has:
     - **Sustainable food, water, and energy production capacity**
     - **large-scale medical  manufacturing and health services**  
     - **Knowledge storage, education centers, and training facilities**  
     - **Globally interoperable manufacturing, transportation and logistics capacity**  
     - **Cultural and spiritual preservation sites**
-- They act as **large-scale trade and knowledge centers**, ensuring that:
+- They act as **large-scale trade and knowledge centers**, ensuring that:
     - **The skills and wisdom of one region can benefit all others**
     - **Surplus resources can be redistributed as needed**
     - **A new planetary operating system can emerge, independent of the Old World’s control**
@@ -149,13 +149,13 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ### **7. Georegional Hubs: The 12-24 Global Power Centers**
 
-- At the highest level, there must be **12-24 strategic planetary-scale Hubs**, acting as:
+- At the highest level, there must be **12-24 strategic planetary-scale Hubs**, acting as:
     - **Centers of advanced technology development**
     - **Spacefaring and off-world expansion points**
     - **Major industrial and scientific hubs for rebuilding civilization**
     - **Centers of decentralized governance, ensuring no return to tyranny**
-- These must be **shielded from AI control systems and structured to resist infiltration**.  
-- They will serve as **the last line of planetary civilization before humanity’s next expansion phase**.  
+- These must be **shielded from AI control systems and structured to resist infiltration**.  
+- They will serve as **the last line of planetary civilization before humanity’s next expansion phase**.  
 - Georegional hubs must be governed by the [[LIONSBERG Bioregions]] they serve, and ***not the Old governments of the Collapsing [[Existing Order]].***
 
 > **These Hubs ensure that we do not merely survive—we consciously evolve Together into the [[New Era]].**
@@ -166,7 +166,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, r
 
 ## **II. Storing Up for the 7 Years: Executing The Joseph Plan**
 
-If The Hubs are to function, **they must be provisioned in advance**.
+If The Hubs are to function, **they must be provisioned in advance**.
 
 Each level of The Hub Network must:
 
@@ -186,15 +186,15 @@ Each level of The Hub Network must:
 
 ## **III. The Last Warning: There Will Be No Second Chance**
 
-The Kontrollers have already built **their own Hubs**—designed to serve only the elites while the rest of humanity suffers.
+The Kontrollers have already built **their own Hubs**—designed to serve only the elites while the rest of humanity suffers.
 
-If We do not build **Our Own**, we will be at **their mercy.**
+If We do not build **Our Own**, we will be at **their mercy.**
 
 > **Joseph saved his people by storing up for the famine. Those who do not prepare will be consumed by it.**
 
-This is **The Joseph Plan**.
+This is **The Joseph Plan**.
 
-The time to act is **now**.
+The time to act is **now**.
 ___
 Additional details can be found in the [[The Lionsberg Strategy and Plan]] and other [[Lionsberg Wiki Books]]. 
 ____

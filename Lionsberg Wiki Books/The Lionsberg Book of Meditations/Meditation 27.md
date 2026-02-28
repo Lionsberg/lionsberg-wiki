@@ -1,6 +1,6 @@
 # Meditation 27
 
-Above all, be kind, loving, and good. Vanquish the darkness, and shine forth the light. 
+Above all, be kind, loving, and good. Vanquish the darkness, and shine forth the light. 
 
 ___
 

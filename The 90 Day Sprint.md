@@ -34,7 +34,7 @@ To catalyze the Lionsberg movement by engaging the first cycles of growth, build
 - **Key Deliverables**:
     - Complete Cycles 2–4 (engaging 13–55 Co-Creators).
     - Test and refine cycle pacing, relational invitations, and communication protocols.
-    - Establish an **inspirational storytelling pipeline** to capture and share progress.
+    - Establish an **inspirational storytelling pipeline** to capture and share progress.
 - **Actions**:
     - Host virtual gatherings or sacred alignment meetings to deepen connections and vision alignment.
     - Train Co-Creators on extending invitations and onboarding new participants.
@@ -47,7 +47,7 @@ To catalyze the Lionsberg movement by engaging the first cycles of growth, build
 - **Key Deliverables**:
     - Reach Cycle 5 (89 Co-Creators) and aim to enter Cycle 6 (144 Co-Creators).
     - Launch the [[LIONSBERG Wiki]] as a dynamic repository for guidance and alignment.
-    - Create the first **public-facing narratives** (videos, articles, testimonials) to inspire broader engagement.
+    - Create the first **public-facing narratives** (videos, articles, testimonials) to inspire broader engagement.
 - **Actions**:
     - Develop and implement [[Cycle Time]] tracking to ensure alignment with 19-day pacing.
     - Identify key leaders within the Co-Creators to form the foundational leadership grid.
@@ -57,17 +57,17 @@ To catalyze the Lionsberg movement by engaging the first cycles of growth, build
 
 ## **Supporting Strategies**
 
-### 1. **Intentional Relational Growth**
+### 1. **Intentional Relational Growth**
 
 - Equip Co-Creators with tools for meaningful invitations (e.g., scripts, FAQs, onboarding guides).
 - Foster deep relational trust to ensure the movement grows with coherence and alignment.
 
-### 2. **Infrastructural Development**
+### 2. **Infrastructural Development**
 
 - Build collaborative platforms for tracking progress, sharing resources, and documenting cycles.
 - Develop initial operational protocols, including decision-making frameworks and resource allocation guidelines.
 
-### 3. **Momentum-Building Storytelling**
+### 3. **Momentum-Building Storytelling**
 
 - Capture the stories of Co-Creators and their communities, emphasizing transformation and alignment with [[The Vision]].
 - Share these stories strategically to inspire and invite others into the movement.

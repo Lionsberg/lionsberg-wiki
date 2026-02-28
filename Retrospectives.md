@@ -8,9 +8,9 @@ The primary way that individuals, teams, organizations, and communities grow and
 
 In the [[LIONSBERG System]], we call this process a [[Retrospective]]. 
 ___
-Retrospectives are organized, regularly scheduled, facilitated sessions that provide team members the opportunity to identify is working and what is not working, and what can be done better in the future.  
+Retrospectives are organized, regularly scheduled, facilitated sessions that provide team members the opportunity to identify is working and what is not working, and what can be done better in the future.  
 
-The retrospective format ensures that all responsible viewpoints are aired and recorded. Retrospectives proactively focus on developing new approaches to identified problems. Periodically, team members take time to evaluate past activities and identify successes and areas for improvement.  
+The retrospective format ensures that all responsible viewpoints are aired and recorded. Retrospectives proactively focus on developing new approaches to identified problems. Periodically, team members take time to evaluate past activities and identify successes and areas for improvement.  
 
 ____
 

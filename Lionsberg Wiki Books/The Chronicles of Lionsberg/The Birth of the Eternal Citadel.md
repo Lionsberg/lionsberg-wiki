@@ -14,7 +14,7 @@ In this Divine unfolding, there was a Truth: every spark, every atom, every cell
 
 Yet in their Journey of Becoming, many would forget, wandering far from their Source in the vain search "out there" for what they already were within.
 
-To guide them home, the One kindled a Divine Beacon—**A Place of Light and Love** that would forever shine out into the Darkness as a reminder to All of their [[ONE]]  Origin and Destiny. This place the beckoned All to return Home was neither bound by Time nor Space; it existed in the Spirit, Heart, Memory, Desire, and Essence of All things. It was called **Lionsberg**.
+To guide them home, the One kindled a Divine Beacon—**A Place of Light and Love** that would forever shine out into the Darkness as a reminder to All of their [[ONE]]  Origin and Destiny. This place the beckoned All to return Home was neither bound by Time nor Space; it existed in the Spirit, Heart, Memory, Desire, and Essence of All things. It was called **Lionsberg**.
 
 ---
 

@@ -143,7 +143,7 @@ In some cases, soldiers venturing into these deeper networks disappeared without
     - Interviews with veterans detailing reptilian encounters.
 - **Books and Reports:**
     
-    - Quayle, Steve. _Empire Beneath the Ice: How the Nazis Won World War II_ – Discusses subterranean phenomena and reptilian lore.
+    - Quayle, Steve. _Empire Beneath the Ice: How the Nazis Won World War II_ – Discusses subterranean phenomena and reptilian lore.
 - **Related Cases:**
     
     - Reports of reptilian encounters in Afghanistan and North America.

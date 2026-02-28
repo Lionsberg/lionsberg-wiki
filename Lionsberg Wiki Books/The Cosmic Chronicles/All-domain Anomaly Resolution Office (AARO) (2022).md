@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-The **All-domain Anomaly Resolution Office (AARO)** was established in **July 2022** to investigate and resolve anomalies across multiple domains—air, sea, space, and transmedium—within the context of U.S. national security. The office represents an evolution of previous efforts like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]], [[Advanced Aerospace Threat Identification Program (AATIP)]], and [[The Pentagon's UAP Task Force (UAPTF) (2020)]], broadening the scope and expanding the organizational framework for addressing unidentified phenomena.
+The **All-domain Anomaly Resolution Office (AARO)** was established in **July 2022** to investigate and resolve anomalies across multiple domains—air, sea, space, and transmedium—within the context of U.S. national security. The office represents an evolution of previous efforts like [[Advanced Aerospace Weapon System Applications Program (AAWSAP)]], [[Advanced Aerospace Threat Identification Program (AATIP)]], and [[The Pentagon's UAP Task Force (UAPTF) (2020)]], broadening the scope and expanding the organizational framework for addressing unidentified phenomena.
 
 AARO’s creation reflects growing recognition of the need for a systematic approach to UAP (Unidentified Aerial Phenomena) and other unidentified anomalies that may pose safety, security, and technological challenges.
 
@@ -12,8 +12,8 @@ AARO’s creation reflects growing recognition of the need for a systematic appr
 
 1. **Origins:**
     
-    - AARO was established following the recommendations of the **June 2021 UAPTF Report**, which highlighted the limitations of existing efforts to study UAPs and related phenomena.
-    - The office was created under the oversight of the **Under Secretary of Defense for Intelligence and Security (USD(I&S))** to ensure a coordinated, all-domain approach.
+    - AARO was established following the recommendations of the **June 2021 UAPTF Report**, which highlighted the limitations of existing efforts to study UAPs and related phenomena.
+    - The office was created under the oversight of the **Under Secretary of Defense for Intelligence and Security (USD(I&S))** to ensure a coordinated, all-domain approach.
 2. **Mandate:**
     
     - Investigate and resolve unidentified phenomena observed across air, maritime, terrestrial, and space domains, as well as transmedium vehicles capable of transitioning between these domains.
@@ -47,12 +47,12 @@ AARO’s creation reflects growing recognition of the need for a systematic appr
 
 1. **Organizational Framework:**
     
-    - Operates under the **Office of the Under Secretary of Defense for Intelligence and Security**.
+    - Operates under the **Office of the Under Secretary of Defense for Intelligence and Security**.
     - Coordinates with the Department of Defense (DoD), intelligence community, civilian researchers, and international partners.
 2. **Leadership:**
     
     - Directed by experts in intelligence, defense, and scientific research, ensuring a multidisciplinary approach.
-    - As of its founding, **Dr. Sean Kirkpatrick**, a physicist with a background in advanced technologies, serves as its first director.
+    - As of its founding, **Dr. Sean Kirkpatrick**, a physicist with a background in advanced technologies, serves as its first director.
 
 ---
 

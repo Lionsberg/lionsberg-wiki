@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-The 2024 United States Congressional hearings on UFOs, officially referred to as **UAP (Unidentified Anomalous Phenomena)**, marked another critical moment in government disclosure efforts surrounding this controversial subject. Following the momentum of 2023, these hearings featured testimony from whistleblowers, government officials, scientists, and journalists. The proceedings illuminated alleged clandestine programs, whistleblower protections, and the enduring mystery of non-human technologies.
+The 2024 United States Congressional hearings on UFOs, officially referred to as **UAP (Unidentified Anomalous Phenomena)**, marked another critical moment in government disclosure efforts surrounding this controversial subject. Following the momentum of 2023, these hearings featured testimony from whistleblowers, government officials, scientists, and journalists. The proceedings illuminated alleged clandestine programs, whistleblower protections, and the enduring mystery of non-human technologies.
 
 ---
 
@@ -10,10 +10,10 @@ The 2024 United States Congressional hearings on UFOs, officially referred to as
 
 - **Date**: November 13, 2024
 - **Location**: House Oversight Committee Hearing Room, Washington, D.C.
-- **Chair**: Rep. **Nancy Mace** (R-SC)
+- **Chair**: Rep. **Nancy Mace** (R-SC)
 - **Primary Witnesses**:
-    - **Michael Shellenberger** (Investigative Journalist)
-    - **David Grusch** (Whistleblower and Former Intelligence Officer)
+    - **Michael Shellenberger** (Investigative Journalist)
+    - **David Grusch** (Whistleblower and Former Intelligence Officer)
     - Additional unnamed whistleblowers submitting classified testimony.
 
 ---
@@ -22,7 +22,7 @@ The 2024 United States Congressional hearings on UFOs, officially referred to as
 
 #### **Michael Shellenberger**
 
-- Presented a whistleblower report alleging the existence of a secret UAP-related program titled **“Immaculate Constellation.”**
+- Presented a whistleblower report alleging the existence of a secret UAP-related program titled **“Immaculate Constellation.”**
 - Described evidence of significant UAP data being held outside the oversight of Congress.
 - Discussed whistleblower fears of retaliation and emphasized the urgent need for transparency.
 
@@ -30,7 +30,7 @@ The 2024 United States Congressional hearings on UFOs, officially referred to as
 
 - Reiterated claims made in 2023, emphasizing the existence of a clandestine crash-retrieval and reverse-engineering program.
 - Stated that "the U.S. government and defense contractors have recovered multiple craft of non-human origin."
-- Testified about barriers to oversight, including the classification of programs as **Unacknowledged Special Access Programs (USAPs)**.
+- Testified about barriers to oversight, including the classification of programs as **Unacknowledged Special Access Programs (USAPs)**.
 
 #### **Classified Whistleblower Testimonies**
 
@@ -50,7 +50,7 @@ The 2024 United States Congressional hearings on UFOs, officially referred to as
 #### **2. Allegations of Clandestine Programs**
 
 - Witnesses alleged that UAP-related activities were shielded from oversight through USAPs.
-- The program **“Immaculate Constellation”** was named as an alleged central repository of UAP data.
+- The program **“Immaculate Constellation”** was named as an alleged central repository of UAP data.
 - Claims included secretive crash retrievals, reverse engineering, and the concealment of technologies potentially transformative for humanity.
 
 #### **3. Scientific and Military Implications**
@@ -73,8 +73,8 @@ The 2024 United States Congressional hearings on UFOs, officially referred to as
 ### **Pentagon Response**
 
 - The Department of Defense denied the existence of any programs titled "Immaculate Constellation" or similarly concealed UAP activities.
-- **Sue Gough**, Pentagon spokesperson, reiterated that all known UAP activities were reported to **AARO (All-domain Anomaly Resolution Office)**.
-- Former officials, including **Sean Kirkpatrick**, expressed skepticism regarding the whistleblower claims.
+- **Sue Gough**, Pentagon spokesperson, reiterated that all known UAP activities were reported to **AARO (All-domain Anomaly Resolution Office)**.
+- Former officials, including **Sean Kirkpatrick**, expressed skepticism regarding the whistleblower claims.
 
 ---
 

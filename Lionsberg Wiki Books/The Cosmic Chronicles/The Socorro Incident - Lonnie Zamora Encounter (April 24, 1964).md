@@ -22,26 +22,26 @@ As days turned into weeks, the Socorro incident would stand as one of the most p
 
 **Key Observations:**
 
-- **Object Description:** Oval or egg-shaped craft, approximately car-sized, bearing a red inverted “V” symbol.
-- **Occupants:** Two small figures in white coveralls, briefly observed near the object before departure.
-- **Maneuvers:** Vertical lift-off and high-speed departure without visible propulsion systems.
+- **Object Description:** Oval or egg-shaped craft, approximately car-sized, bearing a red inverted “V” symbol.
+- **Occupants:** Two small figures in white coveralls, briefly observed near the object before departure.
+- **Maneuvers:** Vertical lift-off and high-speed departure without visible propulsion systems.
 
 **Physical Evidence:**
 
-- **Ground Marks:** Four symmetrical depressions in the soil, suggestive of landing gear.
-- **Vegetation Damage:** Scorched brush and singed foliage consistent with exposure to intense heat.
-- **Lack of Hoax Indicators:** No footprints, wires, or artificial supports discovered.
+- **Ground Marks:** Four symmetrical depressions in the soil, suggestive of landing gear.
+- **Vegetation Damage:** Scorched brush and singed foliage consistent with exposure to intense heat.
+- **Lack of Hoax Indicators:** No footprints, wires, or artificial supports discovered.
 
 **Investigations:**
 
-- **Immediate Response:** Other officers confirmed Zamora’s agitation and authenticity.
-- **Air Force Involvement:** Project Blue Book and FBI personnel examined the case without finding a prosaic solution.
-- **Witness Credibility:** Zamora’s established integrity lent significant weight to his testimony.
+- **Immediate Response:** Other officers confirmed Zamora’s agitation and authenticity.
+- **Air Force Involvement:** Project Blue Book and FBI personnel examined the case without finding a prosaic solution.
+- **Witness Credibility:** Zamora’s established integrity lent significant weight to his testimony.
 
 **Outcome and Significance:**
 
-- **Categorization as “Unknown”:** The Socorro event resisted all conventional explanations.
-- **Enduring Importance:** It remains a cornerstone case emphasizing that certain reports, supported by reliable witnesses and tangible traces, defy ordinary interpretation—shaping the discourse on UFO investigations for decades to come.
+- **Categorization as “Unknown”:** The Socorro event resisted all conventional explanations.
+- **Enduring Importance:** It remains a cornerstone case emphasizing that certain reports, supported by reliable witnesses and tangible traces, defy ordinary interpretation—shaping the discourse on UFO investigations for decades to come.
 
 ---
 
@@ -58,9 +58,9 @@ As days turned into weeks, the Socorro incident would stand as one of the most p
 - **Primary Case Files:**
     - U.S. Air Force Project Blue Book documents on the Socorro incident
 - **Analytical Works:**
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – In-depth analysis of Socorro
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – In-depth analysis of Socorro
 - **Historical Overviews:**
-    - Vallée, Jacques. _Anatomy of a Phenomenon_ – Context on physical trace cases
+    - Vallée, Jacques. _Anatomy of a Phenomenon_ – Context on physical trace cases
 - **UFO Research Archives:**
     - CUFOS and NICAP case summaries and discussions detailing investigations and assessments of Socorro
 - # The Socorro Incident - Lonnie Zamora Encounter (April 24, 1964)
@@ -87,26 +87,26 @@ As days turned into weeks, the Socorro incident would stand as one of the most p
 
 **Key Observations:**
 
-- **Object Description:** Oval or egg-shaped craft, approximately car-sized, bearing a red inverted “V” symbol.
-- **Occupants:** Two small figures in white coveralls, briefly observed near the object before departure.
-- **Maneuvers:** Vertical lift-off and high-speed departure without visible propulsion systems.
+- **Object Description:** Oval or egg-shaped craft, approximately car-sized, bearing a red inverted “V” symbol.
+- **Occupants:** Two small figures in white coveralls, briefly observed near the object before departure.
+- **Maneuvers:** Vertical lift-off and high-speed departure without visible propulsion systems.
 
 **Physical Evidence:**
 
-- **Ground Marks:** Four symmetrical depressions in the soil, suggestive of landing gear.
-- **Vegetation Damage:** Scorched brush and singed foliage consistent with exposure to intense heat.
-- **Lack of Hoax Indicators:** No footprints, wires, or artificial supports discovered.
+- **Ground Marks:** Four symmetrical depressions in the soil, suggestive of landing gear.
+- **Vegetation Damage:** Scorched brush and singed foliage consistent with exposure to intense heat.
+- **Lack of Hoax Indicators:** No footprints, wires, or artificial supports discovered.
 
 **Investigations:**
 
-- **Immediate Response:** Other officers confirmed Zamora’s agitation and authenticity.
-- **Air Force Involvement:** Project Blue Book and FBI personnel examined the case without finding a prosaic solution.
-- **Witness Credibility:** Zamora’s established integrity lent significant weight to his testimony.
+- **Immediate Response:** Other officers confirmed Zamora’s agitation and authenticity.
+- **Air Force Involvement:** Project Blue Book and FBI personnel examined the case without finding a prosaic solution.
+- **Witness Credibility:** Zamora’s established integrity lent significant weight to his testimony.
 
 **Outcome and Significance:**
 
-- **Categorization as “Unknown”:** The Socorro event resisted all conventional explanations.
-- **Enduring Importance:** It remains a cornerstone case emphasizing that certain reports, supported by reliable witnesses and tangible traces, defy ordinary interpretation—shaping the discourse on UFO investigations for decades to come.
+- **Categorization as “Unknown”:** The Socorro event resisted all conventional explanations.
+- **Enduring Importance:** It remains a cornerstone case emphasizing that certain reports, supported by reliable witnesses and tangible traces, defy ordinary interpretation—shaping the discourse on UFO investigations for decades to come.
 
 ---
 
@@ -123,9 +123,9 @@ As days turned into weeks, the Socorro incident would stand as one of the most p
 - **Primary Case Files:**
     - U.S. Air Force Project Blue Book documents on the Socorro incident
 - **Analytical Works:**
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – In-depth analysis of Socorro
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry_ – In-depth analysis of Socorro
 - **Historical Overviews:**
-    - Vallée, Jacques. _Anatomy of a Phenomenon_ – Context on physical trace cases
+    - Vallée, Jacques. _Anatomy of a Phenomenon_ – Context on physical trace cases
 - **UFO Research Archives:**
     - CUFOS and NICAP case summaries and discussions detailing investigations and assessments of Socorro
 - _[[UFOs - Past, Present, and Future (1974)]]_, which examines the Socorro case in depth.

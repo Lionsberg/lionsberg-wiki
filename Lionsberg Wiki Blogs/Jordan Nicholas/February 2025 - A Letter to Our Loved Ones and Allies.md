@@ -74,9 +74,9 @@ One path leads towards Heaven on Earth, the other towards a dystopian hell.
 
 Knowing in advance **This Moment** was coming, We have been doing Our best for the last 40 years to prepare.   
 
-1. We have a **Vision, Strategy, Plan, Platform, and Starting Point** ready.  
-2. Aspects have already been **tested with hundreds of groups in dozens of countries worldwide.**  
-3. **Tens of millions of dollars of Value** already curated and created.  
+1. We have a **Vision, Strategy, Plan, Platform, and Starting Point** ready.  
+2. Aspects have already been **tested with hundreds of groups in dozens of countries worldwide.**  
+3. **Tens of millions of dollars of Value** already curated and created.  
 4. A **diverse planetary network** forged.  
 5. An actionable Pathway to now **connect and empower [[The First Three Percent]] of humanity by 2026**. 
 
@@ -84,13 +84,13 @@ Knowing in advance **This Moment** was coming, We have been doing Our best for t
 
 **Some of Us came here for this.**  
 We have known it since inception.  
-We have been **tirelessly preparing and battling on the front lines.**
+We have been **tirelessly preparing and battling on the front lines.**
 
 We stand ready to serve, guide, and lay down Our lives—**again and again**—to help you and your loved ones toward a flourishing and abundant future.
 
-But We **cannot** do it alone. Time, resources, and Our physical forms are running out. 
+But We **cannot** do it alone. Time, resources, and Our physical forms are running out. 
 
-The elders and logic tell Us We have **22.7 months** remaining to **connect and empower [[The First Three Percent]]** before the events of 2027 to 2030 unfold.
+The elders and logic tell Us We have **22.7 months** remaining to **connect and empower [[The First Three Percent]]** before the events of 2027 to 2030 unfold.
 
 ***After 5 years of war with non-human forces, Our resources and bodies are failing***. We are under constant energetic attack that requires ongoing intervention to survive. Those around Us have suffered significant collateral damage and need time, space, healing and support.  
 

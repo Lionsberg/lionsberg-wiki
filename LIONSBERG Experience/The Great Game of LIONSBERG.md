@@ -61,7 +61,7 @@ This is the moment prophets dreamed of
 This is the truth philosophers died for  
 This is the hinge of history  
 
-And now — _history hinges on you_.  
+And now — _history hinges on you_.  
 
 When The Story of Earth is retold a thousand years from now  
 We will once again remember that  
@@ -150,7 +150,7 @@ Every Quest a Divine spell that regenerates the world
 
 You are not invited to consume or to obey  
 That Old Age has ended  
-You are invited to **Co-Create**  
+You are invited to **Co-Create**  
 and to embody **The Great Game**  
 
 ## **The Victory**

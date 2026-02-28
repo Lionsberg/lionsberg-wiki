@@ -21,7 +21,7 @@ on fragile, centralized systems now nearing collapse.
 
 Credible evidence—  
 and thousands of simulations—  
-show that unless decisive action is taken _immediately_,  
+show that unless decisive action is taken _immediately_,  
 events will soon unfold  
 that could eliminate two-thirds or more of Earth’s population—  
 _within our lifetimes._
@@ -33,7 +33,7 @@ We stand now—
 at the Crossroads of History—  
 accelerating toward both  
 **the gravest threat**  
-and **the greatest opportunity**  
+and **the greatest opportunity**  
 humanity has ever faced.
 
 The details may seem complex. Overwhelming.  
@@ -42,7 +42,7 @@ But the essence is crystal clear.
 The foundations of civilization have crumbled.  
 Trust in institutions has collapsed.  
 And an existential battle is underway  
-for the very **soul** and **future**  
+for the very **soul** and **future**  
 of life on Earth.
 
 **The immediate systemic risk to billions—**  
@@ -57,16 +57,16 @@ an extraordinary opportunity
 is being born.
 
 As the old structures fall,  
-we are finally _free_—  
+we are finally _free_—  
 for the first time in generations—  
 to reclaim the true power,  
 the sovereignty,  
 and the sacred purpose  
-that belongs to **Us, the People of Earth.**
+that belongs to **Us, the People of Earth.**
 
 We now have the chance  
 to consciously, intentionally, and cooperatively  
-choose a **New Path**—  
+choose a **New Path**—  
 a path of resilience,  
 of unity,  
 of dignity,  
@@ -108,14 +108,14 @@ the Ultimate Source of Love, Truth, Beauty, and Wisdom—
 is calling.
 
 Inviting every soul to arise—  
-and become a **Conscious Co-Creator**  
+and become a **Conscious Co-Creator**  
 of the world our hearts know is possible.
 
 Now is the moment—  
 to join hearts,  
 to join hands,  
 to join minds—  
-and together forge a **New Civilization**  
+and together forge a **New Civilization**  
 rooted in justice,  
 dignity,  
 and true freedom for All.
@@ -124,10 +124,10 @@ and true freedom for All.
 
 Towards this sacred purpose,  
 we have spent years weaving lifetimes of wisdom  
-into a living **New Vision**—  
+into a living **New Vision**—  
 a strategy, a platform, a plan—  
 that can unify, align, and empower  
-**The First Three Percent** of our human family—  
+**The First Three Percent** of our human family—  
 approximately 250 million souls—  
 by the end of 2026.
 
@@ -146,7 +146,7 @@ where we will:
 
 - Build a shared understanding of the threats and opportunities ahead.
     
-- Surface the unique puzzle pieces each of us brings to **The Round Table**.
+- Surface the unique puzzle pieces each of us brings to **The Round Table**.
     
 - And ignite collective action  
     through books, films, summits, and living networks of transformation.
@@ -160,14 +160,14 @@ will receive:
 
 1. A personal invitation to join a small-group briefing.
     
-2. A digital copy of **_The Great Unveiling_**, released this summer.
+2. A digital copy of **_The Great Unveiling_**, released this summer.
     
 3. Strategic guidance for preparing yourself, your loved ones, and your community.
     
-4. And the opportunity to join the **Lionsberg Community and Commons**—  
+4. And the opportunity to join the **Lionsberg Community and Commons**—  
     a resilient, interconnected framework  
     to sustain and empower you  
-    through the coming **collapse–ascension passage.**
+    through the coming **collapse–ascension passage.**
     
 
 ---

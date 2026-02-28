@@ -115,8 +115,8 @@ However, researchers have pointed out inconsistencies in the official narrative.
 
 - **Books:**
     
-    - Randles, Jenny. _UFO Retrievals: The Recovery of Alien Spacecraft._
-    - Heseltine, Gary. _Non-Human: The Berwyn Mountain UFO Incident Revisited._
+    - Randles, Jenny. _UFO Retrievals: The Recovery of Alien Spacecraft._
+    - Heseltine, Gary. _Non-Human: The Berwyn Mountain UFO Incident Revisited._
 - **Documentaries:**
     
-    - _The Berwyn Mountain Mystery (2015)_ – Investigative series exploring the case.
+    - _The Berwyn Mountain Mystery (2015)_ – Investigative series exploring the case.

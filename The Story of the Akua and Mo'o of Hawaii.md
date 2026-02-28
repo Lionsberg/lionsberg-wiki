@@ -2,7 +2,7 @@
 
 ChatGPT Synthesis: 
 
-Hawaiian mythology speaks of powerful beings whose influence shaped the physical, spiritual, and social landscapes of the islands. These beings, known as the **Akua** and **Moʻo**, represent two distinct forces that clashed over dominion and power: the Akua, celestial entities descending from the heavens, and the Moʻo, ancient reptilian guardians tied to the Earth. Their story is not unique to Hawaii but resonates with similar accounts across cultures worldwide, suggesting a shared human memory of interactions with advanced and enigmatic beings.
+Hawaiian mythology speaks of powerful beings whose influence shaped the physical, spiritual, and social landscapes of the islands. These beings, known as the **Akua** and **Moʻo**, represent two distinct forces that clashed over dominion and power: the Akua, celestial entities descending from the heavens, and the Moʻo, ancient reptilian guardians tied to the Earth. Their story is not unique to Hawaii but resonates with similar accounts across cultures worldwide, suggesting a shared human memory of interactions with advanced and enigmatic beings.
 
 ---
 
@@ -19,7 +19,7 @@ The Akua, described in Hawaiian tradition as gods, are celestial beings associat
 #### **Parallels Across Cultures**:
 
 - In Greek mythology, the Olympians descend from Mount Olympus to govern humanity with a mix of benevolence and wrath.
-- The Mayan _Popol Vuh_ describes sky beings who created humanity through experimentation and bestowed wisdom upon them.
+- The Mayan _Popol Vuh_ describes sky beings who created humanity through experimentation and bestowed wisdom upon them.
 - In Sumerian traditions, the Annunaki descended to establish kingship and oversee human labor, often depicted as bringers of advanced technology.
 
 ---

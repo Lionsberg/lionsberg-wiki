@@ -118,8 +118,8 @@ Declassified documents and testimonies reveal that NORAD conducted internal inve
     - NORAD reports on aerial anomalies and UFO incidents.
 - **Books:**
     
-    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
-    - Dolan, Richard. _UFOs and the National Security State._
+    - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
+    - Dolan, Richard. _UFOs and the National Security State._
 - **Documentaries:**
     
     - _UFOs and Military Secrets._

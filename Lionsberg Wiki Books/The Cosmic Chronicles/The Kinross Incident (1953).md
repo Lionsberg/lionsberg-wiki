@@ -102,13 +102,13 @@ Declassified records have revealed that the Air Force was aware of the UFO’s p
 
 - **Books:**
     
-    - Dolan, Richard. _UFOs and the National Security State._
-    - Randle, Kevin. _Invasion Washington: UFOs Over the Capitol._
+    - Dolan, Richard. _UFOs and the National Security State._
+    - Randle, Kevin. _Invasion Washington: UFOs Over the Capitol._
 - **Articles:**
     
     - Declassified Air Force documents related to the Kinross Incident.
     - Investigative reports in UFO research journals.
 - **Documentaries:**
     
-    - _The Kinross UFO Incident_ – An in-depth analysis of the disappearance and its implications.
+    - _The Kinross UFO Incident_ – An in-depth analysis of the disappearance and its implications.
 

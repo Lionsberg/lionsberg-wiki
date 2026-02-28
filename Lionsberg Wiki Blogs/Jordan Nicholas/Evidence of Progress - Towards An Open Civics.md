@@ -232,4 +232,4 @@ Movements and Works of Influence:
 - [[Post-Capitalist]]  
 
 Next Up: Open Civic Culture 
-Find and fork this work from : [go.opencivics.co/wiki](http://go.opencivics.co/wiki) and [github.com/opencivics/wiki](http://github.com/opencivics/wiki)  
+Find and fork this work from : [go.opencivics.co/wiki](http://go.opencivics.co/wiki) and [github.com/opencivics/wiki](http://github.com/opencivics/wiki)  

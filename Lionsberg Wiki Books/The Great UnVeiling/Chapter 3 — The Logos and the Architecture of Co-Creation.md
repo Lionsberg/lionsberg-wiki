@@ -14,7 +14,7 @@ Before Time, before Space, before Form—
 there was Wisdom, Logic, and Pattern.
 
 Not pattern as abstraction,  
-but **Logos**: the Living Language,  
+but **Logos**: the Living Language,  
 the Divine Architecture of InterBeing.
 
 Logos is not merely Word.  
@@ -47,7 +47,7 @@ Dimensions and destinies.
 Rhythms and revelations.
 
 The Logos is not a thing.   
-It is the **Way**. 
+It is the **Way**. 
 
 The Way of Wisdom. 
 The Way of Coherence.  
@@ -92,7 +92,7 @@ is part of ONE living, coherent and intelligible Whole.
 ### **The Logos as Mirror Within**
 
 And this sacred Pattern is not only around us.  
-It is **within Us**.
+It is **within Us**.
 It **is Us**. 
 
 The Logos is encoded into the DNA of every soul.  
@@ -120,7 +120,7 @@ You become a co-creator of Heaven on Earth and Beyond.
 
 ### **The HoloFractal Architecture of All Things**
 
-The Logos unfolds not in chaos, but in **holofractal harmony**.
+The Logos unfolds not in chaos, but in **holofractal harmony**.
 
 The same sacred geometry patterns:  
 in the spin of galaxies and the spirals of seeds,  
@@ -184,9 +184,9 @@ To walk in the Logos is not to follow a static set of rules.
 It is to enter a living, co-creative dance  
 with the Pattern of the ONE.
 
-It is to **discern** rather than merely obey.  
-To **tune in** rather than conform.  
-To **live** the Truth rather than merely believe it.
+It is to **discern** rather than merely obey.  
+To **tune in** rather than conform.  
+To **live** the Truth rather than merely believe it.
 
 It is to become the architecture itself—  
 to build your life, your work, your community  

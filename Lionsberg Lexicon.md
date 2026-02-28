@@ -61,7 +61,7 @@ These are the **Root Keys** required to understand and speak [[The Language of L
 
 # **[[The 12 Pillars of Lionsberg]]**
 
-## **🕊** 
+## **🕊** 
 
 ## **PILLAR I — SACRED ONTOLOGY AND METAPHYSICS**
   
@@ -149,7 +149,7 @@ This Pillar establishes the highest foundation of the New Civilization: the reco
 
 ---
 
-## **🏛** 
+## **🏛** 
 
 ## **PILLAR II — SACRED GOVERNANCE AND STEWARDSHIP**
   
@@ -200,7 +200,7 @@ _The Right Stewardship of Power, Resources, and Responsibility in Alignment with
 
 ---
 
-## **💱** 
+## **💱** 
 
 ## **PILLAR III — SACRED ECONOMY**
   
@@ -228,7 +228,7 @@ _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 
 ---
 
-## **📚** 
+## **📚** 
 
 ## **PILLAR IV — SACRED LEARNING AND MASTERY**  
 
@@ -256,7 +256,7 @@ _Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lif
 
 
 ---    
-## **🧬** 
+## **🧬** 
 
 ## **PILLAR V — SACRED HEALTH AND HEALING**
 
@@ -282,7 +282,7 @@ _Restoring the Temple of the Body and the Harmony of Spirit, Mind, Energy, and N
 
 ---
 
-## **🌿** 
+## **🌿** 
 
 ## **PILLAR VI — SACRED ECOLOGY AND LIVING SYSTEMS**
   
@@ -306,7 +306,7 @@ _Reverent Regeneration of the Living Systems We Are a Part of_
 
 ---
 
-## **🎨** 
+## **🎨** 
 
 ## **PILLAR VII — SACRED CULTURE, ART, AND STORY**
   
@@ -335,7 +335,7 @@ This Pillar restores the **soul of civilization**, honoring culture, creativity,
 
 ---
 
-## **🛠** 
+## **🛠** 
 
 ## **PILLAR VIII — SACRED SCIENCE AND TECHNOLOGY**
   
@@ -361,7 +361,7 @@ This Pillar restores **science** and **technology** to their rightful place as s
 
 ---
 
-## **🏛** 
+## **🏛** 
 
 ## **PILLAR IX — SACRED ARCHITECTURE AND DESIGN**
   
@@ -402,7 +402,7 @@ It must include:
 
 ---
 
-## **🛡** 
+## **🛡** 
 
 ## **PILLAR X — SACRED GUARDIANSHIP AND ORDER**
 
@@ -440,7 +440,7 @@ This domain integrates:
 
 ---
 
-## **🏘** 
+## **🏘** 
 
 ## **PILLAR XI — SACRED SOCIETY AND JUSTICE**
   
@@ -479,7 +479,7 @@ It integrates:
 
 ---
 
-## **🕰** 
+## **🕰** 
 
 ## **PILLAR XII — SACRED TIME, RHYTHM, AND CELEBRATION**
 

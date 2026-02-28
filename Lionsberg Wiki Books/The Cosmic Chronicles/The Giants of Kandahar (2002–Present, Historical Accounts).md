@@ -125,9 +125,9 @@ Historical accounts from explorers and soldiers in the region also reference "gi
 
 - **Books and Accounts:**
     
-    - Marzulli, L.A. _On the Trail of the Nephilim_ – Explores giant phenomena in history.
-    - Quayle, Steve. _Giants: Legends and Lore of Goliaths_ – Covers global giant accounts.
+    - Marzulli, L.A. _On the Trail of the Nephilim_ – Explores giant phenomena in history.
+    - Quayle, Steve. _Giants: Legends and Lore of Goliaths_ – Covers global giant accounts.
 - **Documentaries:**
     
-    - _The Kandahar Giant Incident_ – Investigative reports and interviews with military insiders.
+    - _The Kandahar Giant Incident_ – Investigative reports and interviews with military insiders.
 

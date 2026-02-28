@@ -92,5 +92,5 @@ The event gained national attention when local news stations broadcast footage o
     - _The Phoenix Lights: We Are Not Alone._
 - **Analytical Works:**
     
-    - Kitei, Lynne D. _The Phoenix Lights: A Skeptic's Discovery That We Are Not Alone._
-    - Davenport, Peter. _National UFO Reporting Center Archives: The Phoenix Lights._
+    - Kitei, Lynne D. _The Phoenix Lights: A Skeptic's Discovery That We Are Not Alone._
+    - Davenport, Peter. _National UFO Reporting Center Archives: The Phoenix Lights._

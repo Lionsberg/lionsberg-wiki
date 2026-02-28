@@ -16,13 +16,13 @@ Have been drawing Us Together toward this —
 
 ## What is the Great Convergence?
 
-It is the gathering of sparks into **Flame**.  
-The weaving of voices into **Symphony**.  
+It is the gathering of sparks into **Flame**.  
+The weaving of voices into **Symphony**.  
 The union of lives, works, and worlds  
-Into a single **Movement of Spirit**  
-Aligned with the **Creator’s Intent**.
+Into a single **Movement of Spirit**  
+Aligned with the **Creator’s Intent**.
 
-It is the moment in **The Story**  
+It is the moment in **The Story**  
 When We awaken to **The Invitation**  
 And dare to become **Co-Creators of Heaven on Earth**.
 
@@ -57,7 +57,7 @@ The Goal is not survival.
 The Goal is not success.  
 The Goal is not merely personal or local.  
 The Goal is Reunion.  
-The Goal is **ONE**.
+The Goal is **ONE**.
 
 ## How the ONE Goal Localizes 
 
@@ -67,7 +67,7 @@ Across countless realms and dimensions,
 Trillions of stars and myriads of civilizations,  
 The same longing resounds:  
 We All Know what Heaven is.  
-We All Remember how things _should_ be.  
+We All Remember how things _should_ be.  
 Earth's renewal is a fractal instance  
 Of the cosmic renewal eternally underway.  
 
@@ -84,15 +84,15 @@ As We awaken here on Earth,
 Both the **Creator's Intent**  
 And the **Next Steps** towards it are clear:  
 
-- The **regeneration of Earth**, so the Garden flourishes again.
+- The **regeneration of Earth**, so the Garden flourishes again.
     
-- The **co-creation of a New Civilization**, rooted in Truth, Love, Wisdom, and Justice.
+- The **co-creation of a New Civilization**, rooted in Truth, Love, Wisdom, and Justice.
     
-- The **liberation of every Soul** from deception and oppression.
+- The **liberation of every Soul** from deception and oppression.
     
-- The **restoration of Wholeness** in lives, communities, and systems.
+- The **restoration of Wholeness** in lives, communities, and systems.
     
-- The **reunion of All with ONE** —  
+- The **reunion of All with ONE** —  
     Heaven and Earth reconciled,  
     Spirit and Matter harmonized,  
     Time and Eternity resynchronized.
@@ -134,21 +134,21 @@ Quests are undertaken,
 and Communities transform,  
 The New Civilization is embodied through them.
 
-It begins with the **daily Rhythm** of [[The First Practice]] —  
+It begins with the **daily Rhythm** of [[The First Practice]] —  
 souls pausing, breathing, remembering, and returning.
 
-From there, it deepens into **Circles and Covenant** —  
+From there, it deepens into **Circles and Covenant** —  
 companions walking faithfully,  
 sharing trust, wisdom, and accountability.
 
-Through Circles, it flows into **Quests** —  
+Through Circles, it flows into **Quests** —  
 tangible acts of transformation that turn intention into embodied reality.
 
-As Quests multiply, the Body discovers **Seasonal Rhythm** —  
+As Quests multiply, the Body discovers **Seasonal Rhythm** —  
 a shared heartbeat of **~90-day cycles**,  
 where scattered sparks synchronize into **One Coherent Flame** of action.
 
-And from Seasonal alignment emerges the **Great Symphony** —  
+And from Seasonal alignment emerges the **Great Symphony** —  
 the weaving of many lives and labors  
 into one coherent Movement of **ONE Spirit**,  
 advancing as **ONE Body** toward **ONE Goal**.  

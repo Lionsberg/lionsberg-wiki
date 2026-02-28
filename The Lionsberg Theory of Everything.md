@@ -167,7 +167,7 @@
 
 #### **X. Epilogue: Return to Unity**
 
-- Present the return to Source as the ultimate realization of Unity: **We are the One becoming many, and the many realizing themselves as the One.**
+- Present the return to Source as the ultimate realization of Unity: **We are the One becoming many, and the many realizing themselves as the One.**
 
 ___
 Old notes - 2023

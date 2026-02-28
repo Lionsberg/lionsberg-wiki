@@ -26,29 +26,29 @@ To walk the Way of Sacred Ecology is to re-enter the Circle of Life as humble pa
 
 ### **12 Theses of Sacred Ecology and InterBeing**
 
-1. **The Earth and the Cosmos are a Sacred Living Being** — not a resource, but a conscious participant in the Cosmic Symphony.
+1. **The Earth and the Cosmos are a Sacred Living Being** — not a resource, but a conscious participant in the Cosmic Symphony.
     
-2. **All Life Is InterConnected and InterDependent** — and no part can thrive unless the Whole is in harmony.
+2. **All Life Is InterConnected and InterDependent** — and no part can thrive unless the Whole is in harmony.
     
-3. **Humanity Is a Participant in the Web of Life** — not separate, superior, or above the rest of Creation.
+3. **Humanity Is a Participant in the Web of Life** — not separate, superior, or above the rest of Creation.
     
-4. **The Destruction of Nature Is the Destruction of Self** — and environmental collapse reflects spiritual and cultural collapse.
+4. **The Destruction of Nature Is the Destruction of Self** — and environmental collapse reflects spiritual and cultural collapse.
     
-5. **Right Relationship With Nature Is Essential to Health, Justice, and Peace** — and must be foundational to every human system.
+5. **Right Relationship With Nature Is Essential to Health, Justice, and Peace** — and must be foundational to every human system.
     
-6. **Regeneration Must Replace Extraction** — in agriculture, industry, energy, architecture, and all human activity.
+6. **Regeneration Must Replace Extraction** — in agriculture, industry, energy, architecture, and all human activity.
     
-7. **Biodiversity Is Sacred** — and each species has intrinsic value and a role in the Great Order.
+7. **Biodiversity Is Sacred** — and each species has intrinsic value and a role in the Great Order.
     
-8. **Watersheds, Forests, Oceans, and Soils Must Be Restored and Protected** — as sacred commons and life-bearing organs of the Earth.
+8. **Watersheds, Forests, Oceans, and Soils Must Be Restored and Protected** — as sacred commons and life-bearing organs of the Earth.
     
-9. **The Earth’s Rhythms Are Sacred Clocks** — and humans must reattune to the cycles of seasons, moons, tides, and growth.
+9. **The Earth’s Rhythms Are Sacred Clocks** — and humans must reattune to the cycles of seasons, moons, tides, and growth.
     
-10. **Local Bioregions Must Become Foundations of Global Harmony** — each rooted in deep knowledge of Place and reciprocal care.
+10. **Local Bioregions Must Become Foundations of Global Harmony** — each rooted in deep knowledge of Place and reciprocal care.
     
-11. **Human Systems Must Be Designed to Serve the Regeneration of Life** — not just mitigate harm, but actively heal what has been broken.
+11. **Human Systems Must Be Designed to Serve the Regeneration of Life** — not just mitigate harm, but actively heal what has been broken.
     
-12. **The Goal Is the Sacred ReIntegration of Humanity Within the Living World** — so that Heaven and Earth may be rejoined in joy, abundance, and right relationship.
+12. **The Goal Is the Sacred ReIntegration of Humanity Within the Living World** — so that Heaven and Earth may be rejoined in joy, abundance, and right relationship.
     
 
 ---

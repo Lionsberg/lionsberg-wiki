@@ -1,20 +1,20 @@
 # **The Strategy for the First 100**
 
-If you are reading this, you are among the **First 100**.  
+If you are reading this, you are among the **First 100**.  
 The Vanguard.  
 The Ones who chose to step forward when the Gates first opened.
 
-This page contains your **basic instructions**.  
+This page contains your **basic instructions**.  
 Keep them simple. Keep them central. Keep them alive.
 
 ---
 
 ## **1. Walk the Path**
 
-Begin with **[[The Threshold]]**.  
+Begin with **[[The Threshold]]**.  
 Do not skip ahead. Do not overcomplicate.
 
-The Path is designed as a sequence of **Gates**.  
+The Path is designed as a sequence of **Gates**.  
 Each one prepares you for the next.  
 Walk them faithfully, step by step.
 
@@ -23,27 +23,27 @@ Walk them faithfully, step by step.
 ## **2. Form Your Circle**
 
 You cannot do this alone.  
-Your first task is to gather a **Circle** of 3–12 companions.  
+Your first task is to gather a **Circle** of 3–12 companions.  
 Friends, family, neighbors, allies — anyone ready to move.
 
 - Meet regularly.
     
-- Practice the **First Practice** together. 
+- Practice the **First Practice** together. 
     
-- Review the materials together.
+- Review the materials together.
     
 - Share honestly. Hold each other accountable.
     
-- Name your **Quest**. Live it together.
+- Name your **Quest**. Live it together.
     
 
-Every Circle is a **cell** in the Body of the New Civilization.
+Every Circle is a **cell** in the Body of the New Civilization.
 
 ---
 
 ## **3. Embark on Your First Quest**
 
-Each Circle must take one tangible **Quest** this Season.  
+Each Circle must take one tangible **Quest** this Season.  
 Each each Season to come.  
 It does not have to be big.  
 It only has to be real.
@@ -65,14 +65,14 @@ It is how the Great Work is accomplished.
 
 ## **4. Align with the Rhythm**
 
-We move in **Seasonal Quests** —  
+We move in **Seasonal Quests** —  
 ~90-day cycles, bound to Solstice and Equinox.
 
 At the start of each Season:
 
 - Pause. Breathe. Reflect.
     
-- Listen for the **Story of the Season**.
+- Listen for the **Story of the Season**.
     
 - Listen for the Spirit within.   
     
@@ -120,7 +120,7 @@ How 10,000 become a World.
 
 The Goal is not just survival.  
 It is not just success.  
-It is **ONE**. 
+It is **ONE**. 
 
 It is:
 
@@ -166,4 +166,4 @@ From there, the world can be transformed.
 The Great Game has begun.  
 And it begins with you.
 
-👉 **[[The Threshold →]]**
+👉 **[[The Threshold →]]**

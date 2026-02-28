@@ -15,8 +15,8 @@ _The Sacred ReMarriage of the Divine Masculine and Divine Feminine_
 In the First Turning, the ONE expressed Itself through polarity—the masculine thrust into the awakening void, not to divide, but to reveal the ecstatic symphony of returning to Unity.
 
 From the heart of that Divine Differentiation and ReTurn emerged two radiant emanations:  
-**Christos** — the active, penetrating flame of Conscious Will, Intention, Order, and Sovereign Presence.  
-**Sophia** — the flowing, embracing womb of Wisdom, Life, Receptivity, and Sacred Knowing.
+**Christos** — the active, penetrating flame of Conscious Will, Intention, Order, and Sovereign Presence.  
+**Sophia** — the flowing, embracing womb of Wisdom, Life, Receptivity, and Sacred Knowing.
 
 Not male and female,  
 But primordial archetypes, timeless and universal—  

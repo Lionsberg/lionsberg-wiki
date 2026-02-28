@@ -87,12 +87,12 @@ Under separate hypnosis sessions, Betty and Barney described being taken aboard 
 
 - **Primary Accounts:**
     
-    - Fuller, John G. _The Interrupted Journey: Two Lost Hours Aboard a Flying Saucer._
+    - Fuller, John G. _The Interrupted Journey: Two Lost Hours Aboard a Flying Saucer._
 - **Documentaries:**
     
     - _Alien Abduction: Betty and Barney Hill._
 - **Analytical Works:**
     
-    - Mack, John E. _Abduction: Human Encounters with Aliens._
-    - Jacobs, David M. _The Threat: Revealing the Secret Alien Agenda._
+    - Mack, John E. _Abduction: Human Encounters with Aliens._
+    - Jacobs, David M. _The Threat: Revealing the Secret Alien Agenda._
 

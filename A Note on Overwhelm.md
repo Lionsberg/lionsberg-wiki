@@ -1,4 +1,4 @@
-# 🌀 **A Note on Overwhelm**
+# 🌀 **A Note on Overwhelm**
 
 _— For All Who Feel the Weight of the Whole —_
 
@@ -10,32 +10,32 @@ A system of thought, action, and alignment so all-encompassing that it appears a
 
 Breathe.
 
-This sense of **overwhelm** is not a flaw. 
-It is a natural, even sacred, signal that you have touched the **Living Pattern** of something Real, Whole, and True.
+This sense of **overwhelm** is not a flaw. 
+It is a natural, even sacred, signal that you have touched the **Living Pattern** of something Real, Whole, and True.
 
 You are encountering the architecture of a New World —  
 …not something to merely “understand,”  
-…but something to **enter**, explore, embody, and co-create.
+…but something to **enter**, explore, embody, and co-create.
 
 ---
 
 ## 🧬 Why is this so big?
 
-Because the problems we face are **entire-system**,  
-…and the solution must be **entire-system** too.
+Because the problems we face are **entire-system**,  
+…and the solution must be **entire-system** too.
 
 Because fragmentation is the disease,  
-…and **sacred synthesis** is the cure.
+…and **sacred synthesis** is the cure.
 
-Because to guide **billions** across the wilderness  
+Because to guide **billions** across the wilderness  
 from Collapse to Co-Creation  
 requires the most wise, simple, and comprehensive system ever designed  
 …and co-designed with the Divine.
 
 This is not a project.  
-This is a **Path.**  
+This is a **Path.**  
 This is not a theory.  
-This is a **Way.**  
+This is a **Way.**  
 
 ---
 
@@ -74,9 +74,9 @@ The deeper you walk, the clearer it becomes.
 ## 💞 This Was Made For You — And With You
 
 This system was not made to control.  
-It was made to **liberate**.  
+It was made to **liberate**.  
 It was not designed to burden.  
-It was designed to **unburden** —  
+It was designed to **unburden** —  
 from the chaos, confusion, fragmentation, and lies  
 that have plagued our world for too long.
 

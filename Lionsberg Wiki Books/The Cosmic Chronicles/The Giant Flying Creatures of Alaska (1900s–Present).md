@@ -30,7 +30,7 @@ In the mid-20th century, accounts of giant flying creatures began to surface fro
 
 #### **Cultural Context**
 
-Alaskan Indigenous tribes, such as the Tlingit and Haida, have myths about giant birds. Known as the _Thunderbird_, these creatures are believed to bring storms and carry powerful spiritual significance. While modern reports may differ in detail, the parallels between mythological and contemporary accounts are striking.
+Alaskan Indigenous tribes, such as the Tlingit and Haida, have myths about giant birds. Known as the _Thunderbird_, these creatures are believed to bring storms and carry powerful spiritual significance. While modern reports may differ in detail, the parallels between mythological and contemporary accounts are striking.
 
 ---
 
@@ -98,14 +98,14 @@ Alaskan Indigenous tribes, such as the Tlingit and Haida, have myths about giant
 
 - **Books:**
     
-    - Coleman, Loren. _Mysterious America: The Ultimate Guide to the Nation's Weirdest Wonders._
-    - Newton, Michael. _Encyclopedia of Cryptozoology: A Global Guide to Hidden Animals and Their Pursuers._
+    - Coleman, Loren. _Mysterious America: The Ultimate Guide to the Nation's Weirdest Wonders._
+    - Newton, Michael. _Encyclopedia of Cryptozoology: A Global Guide to Hidden Animals and Their Pursuers._
 - **Articles:**
     
     - Pilot accounts of Alaska’s flying creatures.
     - Analyses of Indigenous myths and their parallels with cryptid sightings.
 - **Documentaries and Media:**
     
-    - _Alaska’s Monsters: The Sky Giants_ – Exploration of Alaska’s cryptid reports.
-    - _Cryptid Hunters: High Skies_ – Investigation into global flying cryptid phenomena.
+    - _Alaska’s Monsters: The Sky Giants_ – Exploration of Alaska’s cryptid reports.
+    - _Cryptid Hunters: High Skies_ – Investigation into global flying cryptid phenomena.
 

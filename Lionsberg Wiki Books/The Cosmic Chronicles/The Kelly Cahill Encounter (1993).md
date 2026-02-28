@@ -83,12 +83,12 @@ Other witnesses in the area, including another couple, independently reported se
 
 - **Primary Accounts:**
     
-    - Cahill, Kelly. _Encounter: The True Story of an Abduction._
+    - Cahill, Kelly. _Encounter: The True Story of an Abduction._
 - **Analytical Works:**
     
-    - Mack, John E. _Abduction: Human Encounters with Aliens._
-    - Jacobs, David M. _The Threat: The Secret Agenda of the Aliens._
+    - Mack, John E. _Abduction: Human Encounters with Aliens._
+    - Jacobs, David M. _The Threat: The Secret Agenda of the Aliens._
 - **Documentaries:**
     
-    - _The Kelly Cahill Encounter: Australia’s Most Chilling UFO Case_ (1998).
+    - _The Kelly Cahill Encounter: Australia’s Most Chilling UFO Case_ (1998).
 

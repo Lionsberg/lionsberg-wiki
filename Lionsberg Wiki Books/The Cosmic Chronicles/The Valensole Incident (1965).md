@@ -100,10 +100,10 @@ Maurice Masse was known as a quiet, reliable farmer with no prior interest in UF
     - French police and gendarmerie files on the Valensole case.
 - **Books:**
     
-    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-    - Vallee, Jacques. _Passport to Magonia._
+    - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
+    - Vallee, Jacques. _Passport to Magonia._
 - **Documentaries:**
     
-    - _Unexplained Encounters in France_ – Includes analysis of the Valensole Incident.
-    - _UFOs and Trace Evidence_ – Detailed study of physical evidence in UFO cases.
+    - _Unexplained Encounters in France_ – Includes analysis of the Valensole Incident.
+    - _UFOs and Trace Evidence_ – Detailed study of physical evidence in UFO cases.
 

@@ -103,16 +103,16 @@ The event occurred in a sparsely populated region, so direct fatalities were lim
 
 - **Books:**
     
-    - Baxter, John, and Atkins, Thomas. _The Fire Came By: The Riddle of the Great Siberian Explosion._
-    - Zhuravlev, Vladimir. _Tunguska Mystery: The Cosmic Connection._
+    - Baxter, John, and Atkins, Thomas. _The Fire Came By: The Riddle of the Great Siberian Explosion._
+    - Zhuravlev, Vladimir. _Tunguska Mystery: The Cosmic Connection._
 - **Documentaries:**
     
-    - _Tunguska: The Siberian Apocalypse_ (Science Channel).
-    - _Meteor Strike: Fireball from Space_ (National Geographic).
+    - _Tunguska: The Siberian Apocalypse_ (Science Channel).
+    - _Meteor Strike: Fireball from Space_ (National Geographic).
 - **Web Resources:**
     
-    - Tunguska Event Research Archive: [https://tunguska.org](https://tunguska.org/)
-    - NASA on Near-Earth Objects: [https://neo.jpl.nasa.gov](https://neo.jpl.nasa.gov/)
+    - Tunguska Event Research Archive: [https://tunguska.org](https://tunguska.org/)
+    - NASA on Near-Earth Objects: [https://neo.jpl.nasa.gov](https://neo.jpl.nasa.gov/)
 
 
 

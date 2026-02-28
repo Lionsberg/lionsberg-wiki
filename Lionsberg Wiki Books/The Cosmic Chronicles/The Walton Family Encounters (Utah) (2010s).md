@@ -116,7 +116,7 @@ In addition to UFO sightings, the Walton family reported poltergeist-like activi
 
 - **Books:**
     
-    - Knapp, George, and Kelleher, Colm. _Hunt for the Skinwalker._
+    - Knapp, George, and Kelleher, Colm. _Hunt for the Skinwalker._
 - **Documentaries:**
     
     - _The Phenomenon of Utah’s UFO Wave._

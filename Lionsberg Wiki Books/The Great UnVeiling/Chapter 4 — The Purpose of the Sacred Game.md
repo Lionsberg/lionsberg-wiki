@@ -65,7 +65,7 @@ Thus, The Game begins.
 ## **The Role of Free Will and Mystery**
 
 What gives this Game its potency  
-is the gift—and risk—of **Free Will**.
+is the gift—and risk—of **Free Will**.
 
 The ONE did not script every move.  
 It encoded a Pattern, 
@@ -118,7 +118,7 @@ but initiate the soul into Wisdom:
     
 
 The Logos encodes these paradoxes in InterExistence not to confuse,  
-but to **initiate**.
+but to **initiate**.
 
 They force us beyond intellect,  
 into Presence.  
@@ -131,7 +131,7 @@ beneath the illusions and realities of duality.
 ## **The Spiral of Mastery**
 
 The Game is not a circle.  
-It is a **Spiral**.
+It is a **Spiral**.
 
 We return again and again to the same lessons,  
 but from higher octaves of Being.
@@ -179,7 +179,7 @@ every sacred "yes" to the Path
 shifts the Field for all.
 
 This is the mystery of The Game:  
-it is simultaneously **personal, collective, cosmic, and Divine**.
+it is simultaneously **personal, collective, cosmic, and Divine**.
 
 You are a soul in a body.  
 You are also a cell in the Body of God.
@@ -189,7 +189,7 @@ You are also a cell in the Body of God.
 ## **Beyond the Illusion of SpaceTime**
 
 Perhaps the greatest mystery of the Game  
-is its appearance of **linearity**.
+is its appearance of **linearity**.
 
 But the Masters know—  
 Time is not a straight line.  
@@ -197,7 +197,7 @@ It is a field.
 A spiral.  
 A waveform of possibility collapsing into Now *through Consciousness*.
 
-The Game is played **across dimensions**—  
+The Game is played **across dimensions**—  
 with echoes forward and backward,  
 above and below,  
 all converging into this living Moment.
@@ -227,9 +227,9 @@ Not control.
 Not wealth. 
 Not power. 
 
-The Goal is **ReMembrance**.  
-The Goal is **ReUnion**.  
-The Goal is **Embodiment**.
+The Goal is **ReMembrance**.  
+The Goal is **ReUnion**.  
+The Goal is **Embodiment**.
 The Goal is **God**. 
 The Goal is **ONE**.
 
@@ -239,7 +239,7 @@ and become a living vessel of Divine Love, Wisdom, and Power.
 
 The Goal is that Heaven—  
 which has never been absent—  
-may be **made visible in and through you, Here and Now.**
+may be **made visible in and through you, Here and Now.**
 
 That the Logos may take root in form.  
 That Spirit may shine through Matter.  
@@ -251,13 +251,13 @@ That the New may be born from the Ashes of the Old.
 ## **So Let the Game Be Played—Rightly**
 
 Not in fear,  
-but in **Courage**.
+but in **Courage**.
 
 Not for survival,  
-but for **Awakening**.
+but for **Awakening**.
 
 Not to win,  
-but to **Become**.
+but to **Become**.
 
 You are here because you chose to be.  
 You are still reading because you are ready to ReMember.  

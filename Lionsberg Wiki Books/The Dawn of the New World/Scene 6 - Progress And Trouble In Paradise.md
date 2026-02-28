@@ -8,7 +8,7 @@ However, not everything was perfect in the Walled Paradise. Earth's sanctuary be
 
 Most terrifying of all, the Monsters and Dragons, once confined to ancient stories and the vast Unknown, now seemed to rise from within and without simultaneously. The community was perplexed, for The Boundary's walls were stronger and taller than ever, and the fierce winged lions stood guard. Yet danger and darkness encroached upon them. The people grew anxious and fearful, wondering how such darkness was infiltrating their community.
 
-As fear consumed them, the people turned inward, and [[SpatioTemporal Domain]] of Concern tightened. Soon, everyone focused inward on their immediate struggles, allowing the stories of the heroes who ventured beyond The Boundary to fade ever further from their minds. The cracks in The Boundary, once small, grew larger until one day that seemed like any other, the Upward Spiral ceased, and the Downward Spiral began.   
+As fear consumed them, the people turned inward, and [[SpatioTemporal Domain]] of Concern tightened. Soon, everyone focused inward on their immediate struggles, allowing the stories of the heroes who ventured beyond The Boundary to fade ever further from their minds. The cracks in The Boundary, once small, grew larger until one day that seemed like any other, the Upward Spiral ceased, and the Downward Spiral began.   
 
 ___
 Forward to: [[Scene 7 - The Beginning of the Perilous Descent]]  

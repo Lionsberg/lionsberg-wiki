@@ -91,6 +91,6 @@ As in other UFO retrieval cases, the military imposed strict secrecy, confiscati
     - _The Kingman UFO Crash: Arizona’s Alien Mystery._
 - **Analytical Works:**
     
-    - Friedman, Stanton. _Top Secret/Majic._
-    - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
+    - Friedman, Stanton. _Top Secret/Majic._
+    - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
 
