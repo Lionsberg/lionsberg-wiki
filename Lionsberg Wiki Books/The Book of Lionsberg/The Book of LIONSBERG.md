@@ -562,7 +562,147 @@ Malevolence and Relative Power
 [[14.4 Creative Right Action Expecting Nothing in Return]] 
 [[Pain, Perceived Pain, and Change]]  
 
-### Chapter X - Musings From Along the Way
-[[Chapter X - Coming Soon]]  
+## Chapter Fifteen - The Great Game of LIONSBERG
 
+_The Game that begins at the kitchen table and ends at the stars — the same Pattern at every scale, the same seven moves from the first Circle to the federation of worlds._
 
+#### Movement I: The Simple Game
+[[15.1 The Game]]
+[[15.2 The Goal]]
+[[15.3 The Players]]
+[[15.4 The Moves]]
+[[15.5 The Seasons]]
+[[15.6 How We Win]]
+[[15.7 Begin]]
+
+#### Movement II: The Community Game
+[[15.8 From Circles to Communities]]
+[[15.9 The Field of Agreements]]
+[[15.10 Governance Without Rulers]]
+[[15.11 The Living Economy]]
+[[15.12 The Transformation of Culture]]
+[[15.13 The Prototype]]
+[[15.14 The Three Hundred]]
+
+#### Movement III: The Planetary Game
+[[15.15 From Communities to Bioregions]]
+[[15.16 The Planetary Grid]]
+[[15.17 The Ten Year Grand Strategy]]
+[[15.18 The Transition]]
+[[15.19 All Domains Moving Together]]
+[[15.20 The Moment the New Becomes Functional]]
+
+#### Movement IV: The Eternal Divine Play
+[[15.21 The Game Beyond Earth]]
+[[15.22 The Holofractal Pattern Language]]
+[[15.23 Cosmic Diplomacy]]
+[[15.24 The Federation of Worlds]]
+[[15.25 The Cycle of Cosmic Co-Creation]]
+[[15.26 The Eternal Divine Play]]
+[[15.27 From ONE All Things Proceed]]
+
+---
+
+## The LIONSBERG Playbook
+
+_The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
+
+**[[The LIONSBERG Playbook]]** — _Start here for the full Playbook overview_
+**[[The LIONSBERG Quick Start Guide]]** — _Your Circle's first 90 minutes together_
+
+### The Next Five Plays
+
+- [[Form A Circle]] — _Gather your first band of sovereign souls_
+- [[Choose A Quest]] — _Give your Circle a body of meaningful work_
+- [[Choose Your Roles]] — _Discover the gifts each member brings_
+- [[Discern the Wise Right Next Steps]] — _Turn intention into reliable, faithful action_
+- [[Pass The Flame]] — _Help others form their own Circles and begin_
+
+### Part I: Welcome
+[[1.1 How to Use This Book]]
+[[1.2 Your First Day]]
+[[1.3 A Few Key Orienting Facts]]
+[[1.4 Life as a Sovereign, Autonomous Agent]]
+
+### Part II: Life Beyond The Boundary
+[[2.1 Life Beyond The Boundary]]
+[[2.2 The Three Supreme Agreements]]
+[[2.3 Domains and Field of Agreement]]
+[[2.4 Your First Season of Play]]
+[[2.5 Remembering How to Be and Become]]
+[[2.6 Deciding What to Do]]
+[[2.7 Forging Or Joining Circles]]
+[[2.8 Choosing Your First Quest]]
+[[2.9 Every Quest Is A Project]]
+[[2.10 Structuring Your Circles for the Quests at Hand]]
+[[2.11 Stewardship vs. Ownership, Influence vs. Control, and Infinite vs. Finite Games]]
+[[2.12 Intrapreneurship vs. Entrepreneurship - Federating Everything]]
+[[2.13 Federating Your Circles]]
+[[2.14 Aggregating and Coordinating The First Tenth]]
+[[2.15 Leveraging The Commons to Begin]]
+
+### Part III: The LIONSBERG Experience
+[[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]
+[[3.2 Cultural Norms and Expectations]]
+[[3.3 Finding Out What is Happening]]
+[[3.4 How the Players of The Great Game Collectively Decide What Is Most Important and Valuable to Do Next]]
+[[3.5 Progress and Throughput of The Goal]]
+[[3.6 What Every Sovereign Agent Always Needs to Know]]
+[[3.7 Stacking Up and Aligning Our Quests]]
+[[3.8 The Sacred Ascent — All Things Helping All Things Rise]]
+
+### Part IV: Passing The Flame
+[[5.1 Your Most Important Role|4.1 Your Most Important Role]]
+[[5.2 Successful Integration|4.2 Successful Integration]]
+
+### Part V: The Sacred Ascent
+[[The Sacred Ascent]]
+
+### The Essential Plays
+
+#### Circle Formation and Life
+
+- [[Form A Circle]]
+- [[Name Your Circles]]
+- [[Set Your Cadence]]
+- [[Forge a Field of Agreements]]
+- [[Choose Your Roles]]
+- [[Properly Structure Your Circles]]
+- [[Govern Your Circles]]
+- [[Establish Selectively Permeable Membranes]]
+- [[Establish Your Cellular Operating System and Way]]
+
+#### Quests and Discernment
+
+- [[Choose A Quest]]
+- [[Discern the Wise Right Next Steps]]
+- [[Integrating and Submitting Your Work]]
+
+#### Communication, Culture, and Learning
+
+- [[Share Your Stories of Transformation]]
+- [[Dialogos, SenseMaking, and OmniSpection]]
+- [[Seasonal OmniSpection]]
+- [[Continuously Improve Everything]]
+- [[Co-Create LIONSBERG Learning Institutions]]
+
+#### Federation and Scaling
+
+- [[Connect and Collaborate With Other Circles]]
+- [[Grow Your Circles]]
+- [[Self-Replicate Your Circles]]
+- [[Circle of Circles and Team of Teams]]
+- [[Stacking Up and Aligning Quests]]
+- [[Stacking Up and Aligning Circles]]
+- [[Stacking Up and Aligning Communities Into Bioregions]]
+- [[Federate Everything]]
+
+#### Resources and Infrastructure
+
+- [[Fostering Ecosystemic Resource Flows]]
+- [[Pass The Flame]]
+
+---
+
+### Musings From Along the Way
+[[Chapter X - Coming Soon]]
