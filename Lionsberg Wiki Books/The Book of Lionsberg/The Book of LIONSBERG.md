@@ -216,17 +216,7 @@ This is a living [[Work In Progress]]...
 [[7.30 Organs]]  
 [[7.31 Organ Systems]]  
 [[7.32 Organisms]]  
-[[7.33 Superorganisms]]  
-[[7.24 What Is Prior To Life?]]  
-[[7.25 Life]]  
-[[7.26 Microbiome]]  
-[[7.27 Cells]]  
-[[7.28 The Cellular Microverse]]  
-[[7.29 Tissues]]  
-[[7.30 Organs]]  
-[[7.31 Organ Systems]]  
-[[7.32 Organisms]]  
-[[7.33 Superorganisms]]  
+[[7.33 Superorganisms]]
 [[7.34 Co-Operative Superorganisms]]  
 [[7.35 The Human Microverse And The Hierarchy Of Structure]]  
 [[7.36 One Living System]]  
@@ -427,6 +417,9 @@ This chapter is a [[Work In Progress]]
 [[11.15 But What Will We Eat, What Will We Wear, Where Will We Live?]]  
 [[11.16 The Total Nested Hierarchy of Goals and Loves]]  
 [[11.17 Determining Relative Value, Quality, and Worth]]
+[[11.18 Conformance to the Ideal]]  
+[[11.19 The Total Nested Hierarchy of Ideals]]  
+[[11.20 Potential Relative to the Total Nested Hierarchy of Goals]]  
 [[11.21 Optimizing For The One Vs. Optimizing For One]]  
 [[11.22 Playing Games]]  
 [[11.23 How Big of a Game Can We Play?]] 
@@ -737,30 +730,30 @@ _The Proven Methodology for the Largest Integrated Delivery Program in History. 
 
 ### Chapter 18 - The Sacred Ascent
 
+_All Things Helping All Things Rise. The eternal spiral from personal awakening to cosmic co-creation._
 
+[[The Sacred Ascent]]
 
-### Chapter 19 - The LIONSBERG Pattern Language 
+---
 
+## Companion Works
 
-### Chapter 20 - The LIONSBERG Book of Mediations 
+_The following companion volumes support and deepen the journey through The Book of LIONSBERG. Each stands on its own while illuminating the whole._
 
-[[The Lionsberg Book of Meditations]]  
+**[[The LIONSBERG Pattern Language]]** — _The Pattern behind all patterns — the living grammar of co-creation_
 
+**[[The Lionsberg Book of Meditations]]** — _Daily contemplations for the Way_
 
-### Chapter 21 - The LIONSBERG Book of Quotes 
+**[[The Lionsberg Book of Quotes]]** — _Voices of wisdom across ages and traditions_
 
-[[The Lionsberg Book of Quotes]]  
+**[[The LIONSBERG Book of Emotions]]** — _The vocabulary of the inner life_
 
-### Chapter 22 - The LIONSBERG Book of Emotions 
+**[[The Lionsberg Lexicon]]** — _The language of LIONSBERG — key terms, their origins, and their living meaning_
 
-[[The LIONSBERG Book of Emotions]]  
+---
 
-### Chapter 23 - Musings
+## Musings From Along the Way
 
-#### J's Musings From Along the Way
+**[[Above The Chaos]]** — _J's explorations, reflections, and dispatches from the frontier_
 
-See [[Above The Chaos]]  
-
-#### Nameless Musing From Along the Way 
-
-See [[Something Powerful, New, and Good]]  
+**[[Something Powerful, New, and Good]]** — _Nameless musings from beyond the boundary_
