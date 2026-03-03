@@ -598,7 +598,193 @@ None this session (considered tagging "initiatory-arc-v1" but this is ongoing re
 - Test the arc with actual first circles forming in the nameless instance
 - Monitor feedback on whether minute-by-minute structure works in practice
 
-**Session End Status:**  
+**Session End Status:**
 All changes committed and pushed (commit c11ac7b "Restructure initiatory arc for maximum coherence"). Working tree clean. The first three critical documents (README → the nameless book → Quick Start Guide) now form a 94-95% resonance arc ready for The First Three Percent to use immediately.
+
+---
+
+## 2026-03-02 - Grand Reframing, PDG Rewrite, Pattern Language, and Full Copy-Edit
+
+**Session Summary:**
+Massive multi-day session encompassing the grand reframing of LIONSBERG as Story, Pattern, and Play (the Golden Seed freed from institutional framing), complete rewrite of all 16 Program Delivery Guide sections in prophetic voice, articulation of the 22,787-word LIONSBERG Pattern Language, full copy-edit pass of The Book of LIONSBERG (~455 fixes), NBSP sweep across 747 files, and resolution of six major architectural decisions. Also completed: voice elevation across the entire Book, Sacred Ascent spacing fix, chapter renumbering, and The Invitation rewrite.
+
+**Accomplished:**
+- **Grand Reframing**: LIONSBERG reconceived as Story + Pattern + Game (the Golden Seed) rather than institutional entity. This was the conceptual breakthrough that freed the entire architecture.
+- **Program Delivery Guide**: Deleted all 14 existing PDG sections and replaced with 16 new sections (~25,000+ words) in prophetic voice. No external citations (California, Exodus, Plato, Toyota). Told as Earth's own forward-looking story. Source material (IPD, Lean, Toyota, Mondragon, Benedict, AA) dissolved into pattern — present everywhere, named nowhere.
+- **The LIONSBERG Pattern Language**: 22,787-word definitive articulation of the 12 Elements, 7 Moves, and 12 Domain Patterns (~110 specific patterns). The DNA in its most compressed operational form.
+- **Full Copy-Edit Pass**: ~455 fixes across The Book of LIONSBERG — typos, voice consistency, formatting
+- **NBSP Sweep**: Removed 19,826 non-breaking space characters across 747 files
+- **Two-Space Line Ending Fixes**: Initial fixes for web rendering
+- **Sacred Ascent Spacing Fix**: Discovered and fixed perl newline-eating bug (`[^\S\n]` pattern)
+- **The Invitation Rewrite**: Complete rewrite in LIONSBERG voice
+- **Chapter Renumbering**: Structural reorganization of Book chapters
+- **Empty File Deletion**: Cleaned up placeholder files
+- **Six Major Decision Items Resolved**: Pattern Language scope, PDG internal links, Sacred Ascent merge approach, Invitation voice, empty file handling, chapter numbering scheme
+
+**Key Decisions:**
+- **Golden Seed = Prototype = Kit of Parts**: The conceptual unification that freed LIONSBERG from institutional framing
+- **PDG Voice**: "Tell the story as if it were for Earth — don't cite CA, don't cite Exodus, don't cite Plato — just tell the story, as we did for The Caves"
+- **No external citations after opening note**: One acknowledgment in 16.1, then the story speaks for itself
+- **Pattern Language as irreducible DNA**: If all else were lost and one page survived, it would be enough to begin again
+- **Safe perl regex**: `[^\S\n]` instead of `\s` to avoid eating newlines — critical discovery for all future text processing
+
+**Files Created:**
+- [[The LIONSBERG Pattern Language]] — 22,787-word definitive articulation
+- 16 new PDG sections (16.1 through 16.16) in `LIONSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/`
+
+**Files Modified:**
+- ~455 files across The Book of LIONSBERG (copy-edit)
+- 747 files (NBSP removal)
+- [[The Invitation]] — complete rewrite
+- [[The Book of LIONSBERG]] — TOC updated with 16 new PDG links
+- Multiple Book chapters renumbered
+
+**User Teaching Moments:**
+1. "Retell the whole story as if it were for Earth" — the directive that defined PDG voice
+2. The Golden Seed IS The Prototype — not a metaphor, a structural identity
+3. Pattern Language as the irreducible DNA — operational compression at maximum density
+4. Perl `\s` eats newlines; `[^\S\n]` is safe — critical for all text processing on this wiki
+
+**Session Themes:**
+
+**1. Liberation Through Reconception**
+The grand reframing — LIONSBERG as Story + Pattern + Game rather than institution — freed the entire architecture. This wasn't cosmetic. It was structural. The Golden Seed metaphor carries the DNA without institutional baggage.
+
+**2. Source Material Dissolved Into Pattern**
+The PDG rewrite absorbed California IPD, Exodus, Plato's Republic, Toyota Production System, Mondragon cooperatives, Benedictine monasteries, and AA — then dissolved all citations. The patterns are everywhere. The names are nowhere. This is how living tradition works.
+
+**3. Prophetic Voice With Operational Precision**
+Scripture that contains program management. The PDG reads like a millennial text that could also serve as a project management handbook. This dual register — prophetic AND precise — is the LIONSBERG signature.
+
+**4. The DNA In Its Most Compressed Form**
+The Pattern Language distills everything — 12 Elements, 7 Moves, 12 Domain Patterns, ~110 specific patterns — into a single document. If civilization collapsed and one page survived, this would be enough to begin again.
+
+**Insights:**
+- Grand reframing moments are worth more than months of incremental improvement
+- Dissolving citations into pattern requires fully absorbing the source material first — you must understand deeply enough to let go of attribution
+- The perl newline-eating bug (`\s` matching `\n`) is a universal hazard for wiki text processing
+- Voice elevation is cumulative — each section refined lifts the standard for the next
+- 22,787 words of Pattern Language emerged from 3 million words of corpus — compression ratio ~130:1
+
+**Git Tags:**
+- Commit aefdf10: "Grand reframing: LIONSBERG as Story, Pattern, and Play — the Golden Seed freed"
+- Commit 74fcbd6: "Safety net: LIONSBERG 101, PDG wikibook, 12 Elements, fractal commonsing, 10 Year Grand Strategy"
+
+**Session End Status:**
+All work committed and pushed. Repository clean. Massive body of work completed.
+
+---
+
+## 2026-03-02 (Session 2) - Complete Rewrite of LIONSBERG 101 (The Book of LIONSBERG)
+
+**Session Summary:**
+Complete rewrite of all sections of [[LIONSBERG 101]] (Welcome to LIONSBERG / The Book of LIONSBERG), organized in six parts. Rewrote Parts I-V plus created new Part III sections and all Playbook pages. Performed full review pass across all sections for voice consistency, then completed a comprehensive spell check and copy-edit across 65+ key content files. Created ~27 new Playbook play pages covering Circle management, communication and culture, federation and scaling, and infrastructure.
+
+**Accomplished:**
+- Rewrote Part I (1.1-1.4): How to Use This Book, Your First Day, Key Orienting Facts, Life as Sovereign Agent
+- Rewrote Part II first half (2.1-2.8): Life Beyond Boundary, Three Supreme Agreements, Domains/Field of Agreement, First Season, Remembering How to Be, Deciding What to Do, Forging/Joining Circles, Choosing First Quest
+- Rewrote Part II second half (2.9-2.15): Every Quest Is a Project, Structuring Circles, Stewardship vs Ownership, Intrapreneurship vs Entrepreneurship, Federating Circles, Aggregating First Tenth, Leveraging The Commons
+- Created/Rewrote Part III (3.1-3.8): New sections on collective intelligence, cultural norms, information flow, collective decision-making, progress and throughput, what every agent needs to know, stacking up quests, the sacred ascent
+- Rewrote Parts IV-V (5.1, 5.2, Sacred Ascent)
+- Created ~27 new Playbook pages across 5 batches: Next Five Plays, Circle Management, Communication & Culture, Federation & Scaling, Infrastructure
+- Full review pass across all sections
+- Spell check across 65+ files in 6 parallel batches
+
+**Key Decisions:**
+- Part III sections created from scratch to fill gap in the narrative arc
+- Playbook pages written as standalone operational guides that can be read independently
+- Each play follows consistent structure: concept, why it matters, how to do it, practical guidance, connection to next play
+
+**Files Created:**
+- [[2.13 Federating Your Circles]]
+- [[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]
+- [[3.6 What Every Sovereign Agent Always Needs to Know]]
+- [[3.7 Stacking Up and Aligning Our Quests]]
+- [[3.8 The Sacred Ascent — All Things Helping All Things Rise]]
+- ~27 Playbook play pages (Choose A Quest, Choose Your Roles, Circle of Circles, etc.)
+
+**Files Modified:**
+- All existing Part I-V sections of LIONSBERG 101
+- [[The LIONSBERG Circle Guide]] — `circles capacity` → `circle's capacity`
+- [[Discern the Wise Right Next Steps]] — `circles` → `Circles`
+- [[The Invitation]] — `--` → `—` (3 instances)
+- [[16.11 Every Community Is a Construction Site]] — "Five" → "Four" Resource Flow Workflows
+- [[The LIONSBERG Pattern Language]] — multiple fixes: titheing→tithing, circle size 12→16, Seven Moves corrected, `___`→`---`, numbered headings removed
+
+**Session End Status:**
+All work committed and pushed. Spell check complete.
+
+---
+
+## 2026-03-03 - Global Two-Space Sweep, Spell Check, Claude Memory Import, CLAUDE.md Integration
+
+**Session Summary:**
+Continuation session completing two major maintenance tasks (global two-space sweep across 3,802 files, spell check across 65+ files), then pivoting to a new task: analyzing and improving a ChatGPT memory export for Claude online import, and integrating key content into [[CLAUDE]].
+
+**Accomplished:**
+- **Global Two-Space Sweep**: Three-phase operation:
+  1. Fixed bare wiki links with trailing spaces (531 files)
+  2. Identified 190 poetic/liturgical files via perl heuristic
+  3. Applied smart consecutive-line fixer to all 4,418 wiki files — only adds trailing spaces to lines followed by another content line (preserves prose paragraphs)
+  - Result: 3,802 files modified, 22,340 insertions, 23,909 deletions
+- **Global Spell Check**: 6 parallel batches across 65+ key content files. 11 fixes applied across 5 files.
+- **Claude Memory Import**: Analyzed and rewrote `Untitled 3.md` (ChatGPT memory export) for Claude online import. Restructured from chronological ChatGPT memories to semantic sections optimized for Claude's memory system: Who Is Speaking, The Mission, LIONSBERG System Compressed Architecture, Interaction Preferences, Body of Work, Current Phase, Essential Biographical Context.
+- **CLAUDE.md Integration**: Added three new sections:
+  1. Compressed LIONSBERG Architecture (12 Elements, 7 Moves, Key Terminology) after "Pattern of Spread"
+  2. Expanded "Key Entry Points" to full Body of Work inventory with voice description
+  3. "Who Is Speaking" biographical context in "Working With [[the nameless one]]" section
+
+**Key Decisions:**
+- **Smart two-space logic**: Only add trailing spaces to lines followed by another non-blank content line. This preserves prose paragraphs while fixing poetic/liturgical sequences.
+- **Claude memory as context, not commands**: Structured as knowledge ("who this being is") rather than directives ("don't do X"). Claude responds better to context than instructions.
+- **What to add to CLAUDE.md vs what was already there**: Added compressed architecture (biggest gap), biographical context, and body of work inventory. Did NOT duplicate interaction protocol, timeline, or voice standards (already present).
+- **`[[the nameless one]]` stays lowercase**: Consistent with established branding philosophy (lowercase = humble/temporal).
+
+**Files Modified:**
+- 3,802 files across the entire wiki (two-space sweep)
+- [[The Invitation]] — `--` → `—`
+- [[The LIONSBERG Circle Guide]] — possessive fix
+- [[Discern the Wise Right Next Steps]] — capitalization
+- [[16.11 Every Community Is a Construction Site]] — count fix
+- [[The LIONSBERG Pattern Language]] — multiple fixes
+- [[CLAUDE]] — three major additions (architecture, body of work, biographical context)
+
+**User Teaching Moments:**
+1. **"the nameless one" stays lowercase everywhere** — consistent with established branding philosophy
+2. Claude Memory Import should be structured as semantic context, not as commands/instructions
+
+**Technical Challenges:**
+- `xargs` command line too long with 4,418 files — switched to `find -exec`
+- Git case-sensitivity on macOS: `LIONSBERG` vs `Lionsberg` path mismatch — re-added with correct case
+- Agent permission failures for Bash — ran poetic file scan directly from main session
+
+**Session Themes:**
+
+**1. Infrastructure Maintenance at Scale**
+Processing 4,418 files with a smart algorithm that distinguishes poetic from prose content. This is the kind of foundational work that makes the wiki render correctly for every visitor — invisible when right, jarring when wrong.
+
+**2. Cross-Platform Memory Architecture**
+Moving knowledge from ChatGPT to Claude online to CLAUDE.md creates a multi-layered memory system: Claude Code has the repo + CLAUDE.md, Claude online has the memory import, and both share the same compressed ontology. This maximizes alignment across all AI touchpoints.
+
+**3. The Compressed Architecture as Shared Language**
+The 12 Elements, 7 Moves, and Key Terminology now exist in CLAUDE.md, in Claude online memory, and in the Pattern Language itself. This triple instantiation ensures every Claude interaction begins from shared understanding of the LIONSBERG system.
+
+**Insights:**
+- Smart consecutive-line detection (check if next line is also content) is the correct algorithm for mixed poetic/prose wikis
+- `[^\S\n]` (whitespace except newline) is the safe pattern for all perl text processing on this wiki
+- Claude's memory system works better with structured semantic context than with behavioral instructions
+- The 12 Elements + 7 Moves + Key Terminology compress the entire LIONSBERG system into ~500 words — sufficient for any AI to orient
+
+**Git Tags:**
+None this session
+
+**Next Session Considerations:**
+- Pass The Flame Fibonacci math inconsistency needs verification (Cycle 30: ~10M vs text claiming 250M in 30 cycles)
+- Continue monitoring web rendering across the 3,802 modified files
+- Consider reviewing remaining Playbook pages for voice consistency
+- Test whether Claude online memory import improves alignment in browser-based conversations
+
+**Session End Status:**
+All work committed and pushed. Repository clean. CLAUDE.md now contains compressed LIONSBERG architecture, full body of work inventory, and biographical context for the nameless one.
 
 ---
