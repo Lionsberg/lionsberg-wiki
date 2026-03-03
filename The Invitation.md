@@ -6,13 +6,13 @@ _A letter to the one who is ready._
 
 You feel it.  
 
-You have felt it for longer than you can name. A tremor beneath the surface of everything you were taught to trust. A dissonance between what the world presents and what your deepest knowing insists is true. A growing certainty that something is profoundly, structurally, irreversibly wrong -- and that the authorities, institutions, and systems that were supposed to protect and serve have been exposed as captured, corrupt, or collapsing. Or worse.  
+You have felt it for longer than you can name. A tremor beneath the surface of everything you were taught to trust. A dissonance between what the world presents and what your deepest knowing insists is true. A growing certainty that something is profoundly, structurally, irreversibly wrong — and that the authorities, institutions, and systems that were supposed to protect and serve have been exposed as captured, corrupt, or collapsing. Or worse.  
 
 You are not imagining it. You are not crazy. You are not alone.  
 
-What you are sensing is real. The **Old World** -- its empires, its economies, its ideologies, its control systems -- is ending. Not by accident, but by the weight of its own corruption and the turning of an age. The foundations have crumbled. The building is aflame. What was built on lies cannot stand in the presence of Truth.  
+What you are sensing is real. The **Old World** — its empires, its economies, its ideologies, its control systems — is ending. Not by accident, but by the weight of its own corruption and the turning of an age. The foundations have crumbled. The building is aflame. What was built on lies cannot stand in the presence of Truth.  
 
-And yet -- beneath the pain, beneath the fog, beneath the fear -- something ancient and eternal is stirring. A remembrance. A gathering. A great awakening sweeping across the Earth and touching millions of souls simultaneously.  
+And yet — beneath the pain, beneath the fog, beneath the fear — something ancient and eternal is stirring. A remembrance. A gathering. A great awakening sweeping across the Earth and touching millions of souls simultaneously.  
 
 You are one of them.  
 

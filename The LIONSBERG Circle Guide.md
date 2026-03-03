@@ -363,5 +363,5 @@ the New Civilization has already begun.
 
 After getting the basics down,  
 Take a look at [[The LIONSBERG Playbook]]  
-And improve your circles capacity  
+And improve your circle's capacity  
 By practicing more advanced [[Plays]]  

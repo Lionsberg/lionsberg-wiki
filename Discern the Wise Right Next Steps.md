@@ -69,7 +69,7 @@ A world where billions of sovereign beings can coordinate their gifts through ne
 - **Keep commitments small and specific.** "I will draft the community garden proposal by Thursday" is better than "I will work on the garden project."
 - **Track them visibly.** A shared document, a whiteboard, a simple list — whatever works. The point is that commitments are **witnessed and remembered**.
 - **Celebrate completion.** Acknowledgment fuels momentum. When someone delivers on a promise, name it. Honor it.
-- **Learn from incompletion.** When a commitment is not met, resist the urge to excuse or accuse. Ask: *What happened? What can we adjust?* This is how circles grow wise.
+- **Learn from incompletion.** When a commitment is not met, resist the urge to excuse or accuse. Ask: *What happened? What can we adjust?* This is how Circles grow wise.
 - **Protect the rhythm.** The SHOULD-CAN-WILL-DID cycle only works if it is practiced consistently. Skip it, and the Circle drifts. Keep it, and the Circle becomes a precision instrument of co-creation.
 
 ---

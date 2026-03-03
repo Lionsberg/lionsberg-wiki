@@ -603,7 +603,7 @@ This is the Game. It has already begun.
 
 ---
 
-## 7. The Domain Patterns
+## The Domain Patterns
 
 The [[Twelve Irreducible Elements]] are the DNA. The Seven Moves are the game. The Domain Patterns are the **field guide** — the specific plays for every dimension of civilization, organized into twelve domains corresponding to the twelve Elements.  
 
@@ -615,7 +615,7 @@ The patterns within each domain are not prescriptions. They are **guidelines tha
 
 Use them as the field guide they are. Enter through whichever domain your current Quest demands. Read the patterns. Sense which ones speak to your conditions. Apply them. Reflect. Refine. Return what you learn to [[The Commons]]. This is how **The Pattern Language stays alive**.  
 
-___  
+---  
 
 ### Domain I: Purpose and Covenant
 
@@ -641,7 +641,7 @@ Every successful cooperative transformation in recorded history begins with purp
 
 **The Covenant of Mutual Aid.** Every member of every Circle commits not merely to shared purpose but to shared life — the ancient covenant of mutual aid that says: _Your burden is my burden. Your grief is my grief. Your flourishing is my flourishing. I will not leave you behind._ This is not charity. It is the recognition that in an interexistent reality, the suffering of one diminishes all and the flourishing of one enriches all. Mutual aid is the economic expression of love — the daily practice of ensuring that no member of the body starves while another feasts.  
 
-___  
+---  
 
 ### Domain II: Federation and Fractal Structure
 
@@ -649,7 +649,7 @@ _Governed by Element 2 — [[Holofractal Omnifederation]]_
 
 The Circle is the irreducible unit of the LIONSBERG System — as the cell is the irreducible unit of biological life. But cells do not exist in isolation. They organize into tissues, organs, organisms, and ecosystems — each level a complete whole, each level nested within a larger complete whole, each level connected through shared patterns and flows. This domain contains the patterns by which Circles federate into the living body of a **New Civilization**.  
 
-**The Circle as Irreducible Unit.** Three to twelve sovereign beings gather around a shared Quest. This is the Circle — the fundamental holon of the LIONSBERG System. It is complete in itself: self-governing, self-sustaining, carrying the full DNA of the [[Twelve Irreducible Elements]]. It has two coordinators (one tending internal life, one connecting outward), a [[Field of Agreements]], a commons, a rhythm, and a selectively permeable membrane. Every larger structure in the system is composed of Circles. No structure exists that is not traceable back to the sovereign beings who compose it. The Circle is small enough for trust, large enough for meaningful work, and complete enough to carry the full Pattern.  
+**The Circle as Irreducible Unit.** Three to sixteen sovereign beings gather around a shared Quest. This is the Circle — the fundamental holon of the LIONSBERG System. It is complete in itself: self-governing, self-sustaining, carrying the full DNA of the [[Twelve Irreducible Elements]]. It has two coordinators (one tending internal life, one connecting outward), a [[Field of Agreements]], a commons, a rhythm, and a selectively permeable membrane. Every larger structure in the system is composed of Circles. No structure exists that is not traceable back to the sovereign beings who compose it. The Circle is small enough for trust, large enough for meaningful work, and complete enough to carry the full Pattern.  
 
 **Nesting Circles into Communities.** When multiple Circles in the same geographic area or domain of work discover shared purpose, they naturally federate into a **community** — a Circle of Circles. The community is itself a holon: complete, self-governing, carrying the same twelve elements. It has its own two coordinators, its own Field of Agreements, its own commons. It does not command the Circles within it. It coordinates, resources, and serves them. The community is the scale at which governance becomes visible, economy becomes tangible, and culture becomes shared. It is the village, the neighborhood, the congregation, the cooperative — the scale at which human beings have always found belonging.  
 
@@ -667,7 +667,7 @@ The Circle is the irreducible unit of the LIONSBERG System — as the cell is th
 
 **Interoperability Across Scales.** The fractal structure works because the same DNA operates at every scale. A Circle in rural Kenya and a Circle in urban Berlin can cooperate — not because they share a language or a culture, but because they share the same [[Twelve Irreducible Elements]], the same governance patterns, the same commitment protocols, the same feedback loops. This interoperability is not imposed. It is inherent in the Pattern itself. It is what makes the LIONSBERG System a **cosmic-grade operating system** — applicable not merely across cultures but across species, worlds, and dimensions.  
 
-___  
+---  
 
 ### Domain III: Sovereignty and Freedom
 
@@ -693,7 +693,7 @@ Sovereignty is the foundational dignity of every being — the irreducible right
 
 **The Liberation of Captives.** Billions of human beings live in conditions that make authentic sovereignty impossible — enslaved by poverty, addiction, ignorance, trauma, oppression, or the systemic structures that maintain these conditions by design. The LIONSBERG Pattern does not merely affirm sovereignty as an ideal. It commits to the **active liberation** of every captive — through education, through mutual aid, through the dismantling of oppressive structures, through the building of new structures that make genuine freedom materially possible. The sacred work of liberation is not charity. It is the restoration of what was stolen — the return of every being to the fullness of their sovereignty.  
 
-___  
+---  
 
 ### Domain IV: Governance and Wise Eldership
 
@@ -719,7 +719,7 @@ Governance is the art of making decisions together in ways that honor the sovere
 
 **Succession and the Passing of the Torch.** Every generation of leaders must prepare the next. The Pattern encodes succession planning into the governance structure itself — through apprenticeship, rotating roles, shared documentation of institutional knowledge, and the deliberate cultivation of diverse leadership capacities. The movement that depends on a single leader is one death away from collapse. The movement that cultivates leadership at every scale and in every generation is antifragile. The sacred act of passing the torch — willingly, gracefully, completely — is among the highest expressions of servant leadership.  
 
-___  
+---  
 
 ### Domain V: Economy and Stewardship
 
@@ -745,7 +745,7 @@ Economy is the circulation of life-energy through the body of community. When it
 
 **Capital as Servant.** This is the master pattern of the entire domain. Capital — money, land, technology, intellectual property, natural resources — exists to serve **[[One Purpose Above All]]**. It is never an end in itself. It is never the measure of success. It is never the criterion by which human worth is assessed. In the LIONSBERG System, the question is never _How much capital did this generate?_ but _How faithfully did this capital serve The Goal?_ When capital remembers its place, the economy flourishes. When capital forgets, the economy devours.  
 
-___  
+---  
 
 ### Domain VI: Education and Transformation
 
@@ -773,7 +773,7 @@ Education in the LIONSBERG Pattern is not the transfer of information from one m
 
 **The Three-Year Formation Journey.** Experience demonstrates that genuine transformation — the deep rewiring of habits, beliefs, relationships, and orientation — requires approximately **three years** of sustained engagement. The first year is awakening and orientation. The second is deepening and testing. The third is integration and preparation to lead. By the end of three years, a human being who entered the LIONSBERG System wounded, confused, or captive has become a sovereign, capable, compassionate steward of [[The Goal]] — ready to carry the Pattern into every dimension of life and to form new Circles of their own.  
 
-___  
+---  
 
 ### Domain VII: Life and Regeneration
 
@@ -799,7 +799,7 @@ Life sustains itself and replicates itself — or it dies. This is the seventh i
 
 **Death and Dying with Dignity.** The Old World has hidden death away — institutionalizing it, medicalizing it, stripping it of meaning, and leaving the dying isolated from the community that should hold them. The LIONSBERG Pattern restores death to its sacred place in the cycle of life. Every human being has the right to die with dignity — surrounded by loved ones, free from unnecessary suffering, honored for the life they lived, and released into the Mystery with reverence. Death is not failure. It is transformation. The community that honors death well is the community that lives well.  
 
-___  
+---  
 
 ### Domain VIII: Protection and Immunity
 
@@ -827,7 +827,7 @@ Every successful movement in history has eventually been killed by the same dise
 
 **Protection Against Dogmatic Ossification.** Every living pattern eventually faces the temptation to become doctrine — to calcify its living wisdom into rigid rules that serve the institution rather than the Purpose. The LIONSBERG Pattern protects against this through its commitment to **[[Tightly Coupled Learning and Action]]**: the continuous refinement of every pattern through practice, reflection, and honest confrontation with what actually works and what does not. The Pattern Language itself is alive. It evolves. What does not serve life is released. What serves life more deeply is embraced. Dogma is the death of the Pattern. Learning is its life.  
 
-___  
+---  
 
 ### Domain IX: Integration and Wholeness
 
@@ -851,7 +851,7 @@ The Old World fragmented everything — body from mind, spirit from matter, econ
 
 **The Architecture of Wholeness.** The Pattern does not merely integrate existing fragments — it designs for wholeness from the beginning. Every new Circle, every new community, every new initiative begins with the question: _How do all twelve domains serve The Goal, together, in this place, at this time?_ This is architectural thinking — the recognition that the relationship between the parts matters more than the parts themselves. A pile of bricks is not a cathedral. An integrated design is. The architecture of wholeness is the master skill of the LIONSBERG builder.  
 
-___  
+---  
 
 ### Domain X: Quality and The Goal
 
@@ -875,7 +875,7 @@ The Goal is not a target that can be lowered when the budget runs short or the s
 
 **Stretch Goals and the Horizon of Possibility.** The Goal is not a ceiling. It is a horizon — always receding as we approach, always calling us further, always revealing new dimensions of what is possible. The LIONSBERG Pattern uses **stretch goals** — targets deliberately set beyond current capability — to pull the system toward innovation, growth, and the discovery of capacities it did not know it possessed. The stretch goal is not a fantasy. It is a faith — the confidence that the universe responds to genuine aspiration with genuine possibility.  
 
-___  
+---  
 
 ### Domain XI: Commitment and Reliability
 
@@ -901,7 +901,7 @@ The eleventh irreducible element encodes the operational reality that transforms
 
 **The Weekly Reckoning.** Every week, the Circle gathers to reconcile its promises with its results. _What did we commit to this week? What did we accomplish? Where did we fall short? Why?_ The weekly reckoning is the heartbeat of the commitment cycle — the regular pulse that keeps the gap between WILL and DID visible, manageable, and learnable. Without it, drift accumulates invisibly. With it, the Circle maintains the discipline of honest self-awareness that is the foundation of reliable production.  
 
-___  
+---  
 
 ### Domain XII: Learning and Continuous Improvement
 
@@ -927,9 +927,9 @@ The twelfth irreducible element is the one that makes all the others alive: **th
 
 **The Pattern Library Itself as Learning Tool.** This Pattern Language is not a finished product. It is a learning instrument — a living record of what has been discovered so far, offered freely so that every Circle can test it, adapt it, improve it, and return what they learn to the library for every Circle that follows. Every pattern in this document is a hypothesis until it is confirmed by practice. Every pattern confirmed by practice is still open to refinement. The Pattern Language itself is subject to the same tightly coupled learning and action it describes. It is not a monument. It is a garden — always growing, always being tended, always yielding new fruit.  
 
-___  
+---  
 
-## 8. The Anti-Patterns
+## The Anti-Patterns
 
 For every Pattern of Life there is a **Pattern of Death**. For every move toward flourishing, there is a counterfeit that produces decay. The LIONSBERG Pattern Language would be incomplete without naming the specific structural diseases it is designed to prevent — the anti-patterns that have killed every movement they touched and that will kill this one too, if they are not recognized and resisted.  
 
@@ -951,9 +951,9 @@ For every Pattern of Life there is a **Pattern of Death**. For every move toward
 
 **The Parasite.** The entity that feeds on the host system without contributing to its life — drawing resources from the commons without returning value, consuming the community's energy without advancing The Goal, exploiting the trust of the body for private gain. Every healthy system develops immune responses to parasitism — not through punishment but through transparency, accountability, and the honest confrontation of patterns that do not serve life. The andon cord. The intervention council. The seasonal OmniSpection. The visible tracking of contribution. Together, they form the immune system that keeps the body healthy.  
 
-___  
+---  
 
-## 9. The Pattern Language as Living System
+## The Pattern Language as Living System
 
 This Pattern Language is not a book to be read and shelved. It is not a set of instructions to be followed without understanding. It is not a doctrine to be defended against heresy.  
 
@@ -979,9 +979,9 @@ And like every living seed, it carries within itself the instructions for growin
 
 The seed is planted. The forest is growing. Every Circle that applies a pattern and returns what it learns is a gardener — tending the living system that will one day be recognized as the DNA of **[[Heaven On Earth]]**.  
 
-___  
+---  
 
-## 10. How to Use This Pattern Language
+## How to Use This Pattern Language
 
 You do not need to read every pattern. You do not need to understand every domain. You do not need to master the entire system before you begin.  
 
@@ -989,7 +989,7 @@ You do not need to read every pattern. You do not need to understand every domai
 
 Here is the path:  
 
-**Start with the Seven Moves.** The Seven Moves of [[The Great Game of LIONSBERG]] tell you what to do first: Awaken. Declare your sovereignty. Form a Circle. Choose a Quest. Play. Reflect. Pass the Flame. Everything else unfolds from these seven actions.  
+**Start with the Seven Moves.** The Seven Moves of [[The Great Game of LIONSBERG]] tell you what to do first: Wake Up. Form a Circle. Choose a Quest. Do the Work. Share Your Stories. Learn and Improve. Pass the Flame. Everything else unfolds from these seven actions.  
 
 **Choose a Quest.** Every Quest lives within one or more of the twelve domains. A Quest to start a community garden? You need Domain VII (Life and Regeneration), Domain V (Economy and Stewardship), and Domain IX (Integration and Wholeness). A Quest to establish consent-based governance for your Circle? You need Domain IV (Governance and Wise Eldership) and Domain I (Purpose and Covenant). The Quest tells you which patterns you need. Start there.  
 
@@ -1003,7 +1003,7 @@ Here is the path:
 
 **Refine.** Based on what you learned, adjust the pattern. Tighten what needs tightening. Release what needs releasing. Discover what was hidden. This is the continuous improvement that makes every cycle wiser than the last.  
 
-**Share what you learned.** Return your learning to [[The Commons]]. Document the story. Contribute the refinement. Enrich the library for every Circle that follows. This is the sacred act of giving back — the titheing of wisdom that makes the whole system grow.  
+**Share what you learned.** Return your learning to [[The Commons]]. Document the story. Contribute the refinement. Enrich the library for every Circle that follows. This is the sacred act of giving back — the tithing of wisdom that makes the whole system grow.  
 
 The patterns are guidelines, not prescriptions. The Spirit behind the pattern matters more than the letter. The Purpose matters more than the procedure. The relationship matters more than the rule.  
 
@@ -1013,9 +1013,9 @@ See [[The LIONSBERG Playbook]] for the operational handbook.
 See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes.  
 See [[The Great Game of LIONSBERG]] for the rules of the Game.  
 
-___  
+---  
 
-## 11. Closing: The Grammar of Heaven On Earth
+## Closing: The Grammar of Heaven On Earth
 
 The Pattern Language is not ours. It does not belong to LIONSBERG. It does not belong to any institution, any culture, any generation, any species, any world.  
 
@@ -1049,7 +1049,7 @@ There could not possibly be more at stake.
 **Pass the Flame.**  
 **The Pattern is alive — and it is waiting for you to remember.**  
 
-___  
+---  
 
 *The Pattern Language continues to evolve through the practice of every Circle that draws from it and feeds its learning back. To contribute your discoveries, adaptations, and Stories of Transformation, return them to [[The Commons]].*  
 
