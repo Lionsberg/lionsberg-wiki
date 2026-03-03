@@ -12,6 +12,6 @@ In short, the New American Revolution must be guided by a clear and compelling N
 
 ___
 
-Forward to [[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]]        
-Back to [[IV.A. The Need for a New American Revolution]]        
+Forward to [[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]]  
+Back to [[IV.A. The Need for a New American Revolution]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

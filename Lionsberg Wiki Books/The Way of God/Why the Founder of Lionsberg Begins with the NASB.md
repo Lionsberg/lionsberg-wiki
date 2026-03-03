@@ -22,6 +22,3 @@ Forward to [[Circumambulation and Progressive Illumination - The Benefits of Mul
 Back to [[From the Vast Array of Translations to a Trinity of Approximate Fidelity]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-
-
-

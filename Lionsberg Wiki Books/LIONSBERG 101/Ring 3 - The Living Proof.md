@@ -126,7 +126,7 @@ The [[Fair Shares Commons]], developed by Boyd and building on Rory Ridley-Duff'
 
 Boyd's insight, stated simply: **Design the structural DNA so that the system's natural attractor is regeneration rather than extraction.**
 
-This is the same insight expressed in different domains:
+This is the same insight expressed in different domains:  
 - In biology: The DNA determines the organism
 - In architecture: The structure determines the behavior of the building
 - In governance: The constitution determines the behavior of the state
@@ -265,7 +265,7 @@ Every mature pattern develops immunity against centralization, personality cults
 
 The pattern is real. It is not a theory. It is not a hope.
 
-It has been discovered independently by:
+It has been discovered independently by:  
 - A Basque priest in a war-torn town ([[Mondragon]])
 - Two recovering alcoholics in Ohio (AA)
 - An Italian monk in the 6th century (Benedict)
@@ -286,14 +286,14 @@ Each of them found fragments of the same thing.
 
 These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same living architecture that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
 
-The DNA works.
-The Seed is ready.
+The DNA works.  
+The Seed is ready.  
 The window is open.
 
 **The only variable is us.**
 
 ---
 
-Forward to [[Ring 4 - The Library]]
-Back to [[Ring 2 - The Pattern Unfolded]]
+Forward to [[Ring 4 - The Library]]  
+Back to [[Ring 2 - The Pattern Unfolded]]  
 Table of Contents [[LIONSBERG 101]]

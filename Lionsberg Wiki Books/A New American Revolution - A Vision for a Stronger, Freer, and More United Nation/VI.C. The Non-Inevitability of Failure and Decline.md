@@ -9,5 +9,5 @@ The future is in our hands, and as Americans we have the freedom and power to cr
 ___
 
 Forward to [[VI.D. A Call to Action for a New American Revolution]]  
-Back to [[VI.B. The Power and Potential of the American Spirit]]        
+Back to [[VI.B. The Power and Potential of the American Spirit]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

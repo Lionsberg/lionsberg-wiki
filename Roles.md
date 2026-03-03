@@ -14,4 +14,4 @@ Remember, we assemble [[The Body]] by Function and [[Responsibility]].
 
 [[Roles]] should be clearly represented on a [[Functional Accountability Chart]]. 
 
-[[Template For Roles]] 
+[[Template For Roles]]  

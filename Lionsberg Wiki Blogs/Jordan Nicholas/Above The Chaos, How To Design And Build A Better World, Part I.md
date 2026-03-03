@@ -106,7 +106,7 @@ Continuously elevate and improve the [[Quality]] of your Intention, Analysis, En
 ## Step 5: Tell Stories to Fuel the Movement of All Things Towards The Goal
 Collect stories in stride and broadcast them to the world to inspire hope, restore agency, and fuel the movement of All things towards [[The Goal]]. 
 
-___
+___  
 We have brought together lifetimes of work to accomplish steps 1 and 2, and we are now in the process of learning how to act out steps 3, 4, and 5. 
 
 We are farther along than any of us could have reasonably expected to be at this point in time, and new miracles continue to show up. 

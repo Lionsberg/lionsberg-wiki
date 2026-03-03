@@ -4,7 +4,7 @@
 
 The [[New Vision and Plan]] is based on a [[Citizen Led]] response to the [[Meta Crisis]], enabled and empowered by a Citizen Led Lionsberg. Citizens play a crucial role in driving transformative change at all levels of the plan, from individual and local to collective and  global. 
 
-___
+___  
 In the context of the Lionsberg System, "Citizens" represent a higher level of commitment and responsibility than [[Members]] and [[Participants]]. Citizens have entered into a covenant relationship with the community, signifying their dedication to the shared Vision, Goals, and Values, and their willingness to work together for the common good.
 
 Citizenship in the Lionsberg System involves taking on a more significant role in the community's decision-making, stewardship, and governance. Citizens are expected to actively contribute their skills, knowledge, and expertise to help advance the collective progress towards the shared Vision. They also commit to adhering to the agreed-upon Values, Principles, and Processes that guide the community's actions and decisions.
@@ -15,7 +15,7 @@ Citizens are expected to uphold their covenant relationship with the community, 
 
 Ultimately, Citizens in the Lionsberg System form a core group of committed individuals who play a crucial role in driving the collective progress towards the New World envisioned in the [[New Vision and Plan]]. They serve as role models for others in the community and work together to create a thriving, resilient, and just society that embodies the principles of stewardship, cooperation, and shared prosperity.
 
-Individuals typically become eligible for Citizenship in Lionsberg after 2 to 3 years as committed and contributing [[Members]]. 
+Individuals typically become eligible for Citizenship in Lionsberg after 2 to 3 years as committed and contributing [[Members]].  
 ___
 
 Some of the ways in which citizens can contribute to addressing the Meta Crisis and promoting a more loving, just, and regenerative world include:

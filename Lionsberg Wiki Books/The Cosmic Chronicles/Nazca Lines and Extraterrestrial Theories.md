@@ -106,4 +106,3 @@ Proponents of extraterrestrial theories argue that the Nazca Lines demonstrate a
 ### **Conclusion**
 
 The Nazca Lines remain a captivating mystery. While mainstream archaeology highlights the ingenuity of the Nazca people, extraterrestrial theories offer a speculative lens through which to explore humanity’s past and its potential connections to advanced civilizations beyond Earth. 
-

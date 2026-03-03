@@ -111,4 +111,3 @@ Declassified records have revealed that the Air Force was aware of the UFO’s p
 - **Documentaries:**
     
     - _The Kinross UFO Incident_ – An in-depth analysis of the disappearance and its implications.
-

@@ -139,7 +139,7 @@ As a builder and strategist, I have spent the last 5 years or so developing what
 
 In a sea of Chaos, we cannot know for certain but _this might work_. 
 
-And if it does, it has the potential to: 
+And if it does, it has the potential to:  
 1. Solve the total set of grand challenges 
 2. Accomplish the total set of global goals 
 3. Forge the best possible future for All, by empowering us All to Co-Create it together. 
@@ -147,4 +147,3 @@ And if it does, it has the potential to:
 If you have $5, or $50 Million, or time and attention to spare, we would love to hear from you and understand how we might be able to partner to advance this _existing technology, starting point, and Community_ through its logical phases of development for the Good of All. 
 
 Based on what I know about the potential of this program, I would hope the world would let us know that there is endless resources available if we can make this work, and test us with $2M to $3M to get through the next milestones and the Beta launch of the platform. 
-

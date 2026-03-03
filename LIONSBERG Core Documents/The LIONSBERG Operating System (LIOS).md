@@ -159,7 +159,7 @@ The LIONSBERG OS is not just about **forging a [[New Civilization]] on Earth**�
 > _**“LIONSBERG is not just an emergent New Civilization. It is a New Foundation for The Future of Humanity.”**_
 
 **The System** is here.  
-**The Path** is before Us. 
+**The Path** is before Us.  
 **The Creator's Invitation** resounds.
 
 Now, We Begin.

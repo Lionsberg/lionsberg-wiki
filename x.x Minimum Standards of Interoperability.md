@@ -2,6 +2,5 @@
 
 [[Standards Of Interoperability]]  
 
-Transparency 
+Transparency  
 Data 
-

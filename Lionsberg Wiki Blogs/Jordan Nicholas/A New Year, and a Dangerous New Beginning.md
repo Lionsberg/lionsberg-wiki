@@ -80,7 +80,3 @@ Together, we can forge the [[Path]] to humanity’s awakening and collective tri
 In Light, Leadership, and Love,
 
 ~ Us All 
-
-
-
-

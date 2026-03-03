@@ -113,4 +113,3 @@ When naming archetypes or Streams, always use Title Case:
 
 This protocol is not rigid law but **living guidance**.  
 When in doubt, ask: _Does this word transmit the Logos more clearly? Does it resonate as True, Sacred, and Coherent?_
-

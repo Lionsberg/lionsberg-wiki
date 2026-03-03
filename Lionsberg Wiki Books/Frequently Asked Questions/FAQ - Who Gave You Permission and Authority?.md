@@ -11,4 +11,3 @@ Our [[Authority]] to act comes from the [[Responsibility]] we have to [[ONE]] an
 Over time, Lionsberg will gain authority and capability to act on greater scales in direct proportion to the number of citizens participating in it. 
 
 See more [[Frequently Asked Questions]]. 
-

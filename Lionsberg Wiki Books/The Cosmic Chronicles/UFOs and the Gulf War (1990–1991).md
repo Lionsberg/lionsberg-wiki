@@ -58,9 +58,9 @@ The Gulf War began in January 1991, when coalition forces launched Operation Des
 ### **Key Observations**
 
 - **Objects Observed**:  
-    Bright orbs, disc-shaped craft, and metallic objects displaying extraordinary maneuverability.
+    Bright orbs, disc-shaped craft, and metallic objects displaying extraordinary maneuverability.  
 - **Flight Characteristics**:  
-    Instantaneous acceleration, ability to hover, vertical ascension, and mid-air stops.
+    Instantaneous acceleration, ability to hover, vertical ascension, and mid-air stops.  
 - **Technological Context**:  
     The Gulf War represented an era of rapid military advancement, yet these sightings outpaced even the most advanced known aircraft.
 
@@ -69,7 +69,7 @@ The Gulf War began in January 1991, when coalition forces launched Operation Des
 ### **Investigations and Outcomes**
 
 - **Lack of Official Acknowledgment**:  
-    Despite numerous reports, the U.S. military has never officially confirmed these sightings, leaving them shrouded in secrecy.
+    Despite numerous reports, the U.S. military has never officially confirmed these sightings, leaving them shrouded in secrecy.  
 - **Links to Later UFO Disclosures**:  
     Some researchers have connected these Gulf War sightings to the UAP revelations of the 2000s, suggesting long-term monitoring of military activities by unknown entities.
 
@@ -99,4 +99,3 @@ The Gulf War UFO encounters remain an underexplored chapter in the history of mi
 - **Research and Analysis**:
     - Dolan, Richard. _UFOs and the National Security State_
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record_
-

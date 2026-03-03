@@ -37,7 +37,7 @@ Our System would need to have the capacity to:
 
 We can imagine all the sub-systems of learning, development, governance, stewardship, community, culture, capital, purpose, training, infrastructure, services, and support that would be required. 
 
-And all these would need to be cohered into a tangible and accessible and accessible System / Machine that works, and could be co-operated by humanity in service of All. 
+And all these would need to be cohered into a tangible and accessible and accessible System / Machine that works, and could be co-operated by humanity in service of All.  
 ___
 
 One might object that we do not need to coordinate our activities, and that the invisible hand of self-interest in free markets will solve all issues. 
@@ -59,4 +59,3 @@ So even if the total set of [[Activity]] implied by the [[Total Nested Hierarchy
 [[We]] still have the duty to establish the [[Total Nested Hierarchy of Conditions]] in which that coordinated activity can manifest, and to participate in it with the fullness of our being. 
 
 ___
-

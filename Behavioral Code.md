@@ -30,4 +30,3 @@ For an example of a Behavioral Code, see [[Provisional Code]].
 For more on the Values that inform Behavioral Codes, see [[Values]]. 
 
 For more on how [[Values]] relate to [[Value]], see [[Value]]. 
-

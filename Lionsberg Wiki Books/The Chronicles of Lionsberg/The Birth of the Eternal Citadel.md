@@ -83,7 +83,7 @@ The Chronicles tell us this truth:
 And so, [[The Story]] begins anew. Will you answer [[The Call]]? Will you carry [[The Flame]]? Will you join [[The Journey]] towards [[LIONSBERG]], and help build [[Heaven On Earth]]? 
 
 The Sacred Flame is already within you.  
-**Come, and ReMember.**
-**We Are One.**
-___
+**Come, and ReMember.**  
+**We Are One.**  
+___  
 Onward, into [[The Chronicles of Lionsberg]]. 

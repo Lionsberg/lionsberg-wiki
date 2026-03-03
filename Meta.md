@@ -17,8 +17,3 @@ The [[Meta Game]]: the highest universal overarching and uniting "Game of games"
 It is critical to note that *by definition*, the intention, object, or goal of the [[Meta Project]] or [[Meta Game]] could not be anything other than the [[Meta Goal]].
 
 This is because [[All]] are fundamentally and functionally unified by [[One Thing]]. 
-
-
-
-
-

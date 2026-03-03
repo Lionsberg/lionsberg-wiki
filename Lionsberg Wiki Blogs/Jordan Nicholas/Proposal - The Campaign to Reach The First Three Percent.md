@@ -202,4 +202,3 @@ From here, **everything becomes possible.**
 🚀 **Are you ready?**  
 
 🚀 **Welcome to the adventure and opportunity of a lifetime.**
-

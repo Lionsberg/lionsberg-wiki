@@ -58,6 +58,6 @@ Movements that depend on external funding become captured by their funders. Self
 
 ___
 
-_See [[Capital Subordinate To Purpose]], [[Meaningful Work]], [[Lionsberg Units of Value]], and [[Commons]]._
-_See [[Holofractal Omnifederation]] for how commons naturally emerge at every scale._
+_See [[Capital Subordinate To Purpose]], [[Meaningful Work]], [[Lionsberg Units of Value]], and [[Commons]]._  
+_See [[Holofractal Omnifederation]] for how commons naturally emerge at every scale._  
 _See [[LIONSBERG 101]]._

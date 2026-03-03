@@ -63,6 +63,6 @@ Regular project update and budget reports completed by Program Cost Manager. All
 
 ___
 
-_Previous: [[PDG - Program Definition]]_
-_Next: [[PDG - The IPD Agreement and Core Group]]_
+_Previous: [[PDG - Program Definition]]_  
+_Next: [[PDG - The IPD Agreement and Core Group]]_  
 _Return to [[The Program Delivery Guide]]_

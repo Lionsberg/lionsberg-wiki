@@ -131,14 +131,14 @@ As massively powerful new forces in-break and accelerate us along destructive ol
 
 There is a massive chasm we must cross to get the better future we all desire, and a massive chasm requires an unprecedented and massive solution. 
 
-That unprecedented and massive solution is going to require an unprecedented and massive shift in the way we think about and allocate our energy and resources. 
+That unprecedented and massive solution is going to require an unprecedented and massive shift in the way we think about and allocate our energy and resources.  
 ___
 
 We have helped a network of friends and allies recognize itself, and we are bringing together lifetimes of wisdom and experience to construct a vessel and a system that we believe might actually be capable of helping humanity and life on earth across the chasm that separates the Old and the New. 
 
 At a minimum, it is capable of quickly leveling up a network to the basic levels of strategy, coordination, and focused execution that have been present in the billions of dollars of infrastructural, economic, and technological we have collectively been a part of bringing into existence. 
 
-We think it might work, and we believe it is the single best opportunity present on earth right now to solve the Meta Crisis and forge the best possible future for All. 
+We think it might work, and we believe it is the single best opportunity present on earth right now to solve the Meta Crisis and forge the best possible future for All.  
 ___
 
 ## A Note on Brands

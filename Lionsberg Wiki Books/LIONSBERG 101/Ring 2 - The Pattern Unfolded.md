@@ -110,13 +110,13 @@ LIONSBERG describes this as the **[[Total Nested Hierarchy of Sovereignties]]**:
 ONE — ultimate Source of Sovereignty.  
 Flowing not through institutions but through **individuals**. 
 
-Sovereign individuals...
-...voluntarily associate into sovereign families...
-...voluntarily associate into sovereign Circles...
-...voluntarily associate into sovereign communities...
-...voluntarily associate into sovereign bioregions...
+Sovereign individuals...  
+...voluntarily associate into sovereign families...  
+...voluntarily associate into sovereign Circles...  
+...voluntarily associate into sovereign communities...  
+...voluntarily associate into sovereign bioregions...  
 ...voluntarily associate into sovereign planets...  
-...voluntarily associate into sovereign intergalactic federations... 
+...voluntarily associate into sovereign intergalactic federations...  
 ...in service of [[ONE]] and [[All]].
 
 At every level, sovereignty is retained. At every level, participation is voluntary. At every level, members are free to leave.
@@ -125,7 +125,7 @@ The power flows from [[ONE]], through the individual, upward through increasingl
 
 The structural mechanism that protects sovereignty is the **[[Selectively Permeable Membrane]]** — the boundary around each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]]. Every living cell has a membrane. It is not a wall — it allows nutrients in, waste out, and communication to flow. But it protects the integrity of what is within. Each domain in LIONSBERG is bounded by such a membrane — crossed only on the basis of **ongoing mutual consent**. New members enter by consent. Resources flow by consent. Pathogens are removed by immune systems. The membrane is governed by the [[Field of Agreements]] that the sovereign members have freely established. Without the membrane, sovereignty dissolves. With it, sovereignty is core architecture, not aspiration.
 
-In the [[Old World]], individuals were convicted for treason against corrupt states.
+In the [[Old World]], individuals were convicted for treason against corrupt states.  
 In the [[New World]], corrupt states are convicted for treason against the individual and the ONE. Or simply ignored and dissolved by withdrawing participation and consent from the parasitical relationship.  
 
 When dealing with parasitical empires such as those dominating Earth, the path towards Heaven here and now must run through the reestablishment of individual, local, and planetary sovereignty across all scales and levels of analysis as a baseline for the proper flow of power. Parasitical empires and oligarchies have no place in Heaven. They are not tolerated. They are not participated in. They are not consented to. 
@@ -421,7 +421,7 @@ In the [[New World]], **learning and action are fused at every scale in ONE co-c
 
 This is the living cycle of **Discern → Plan → Do → Check → Adjust** — drawn from W. Edwards Deming's application of the scientific method, perfected by Taiichi Ohno at Toyota, and proven across every domain where learning and action are fused.
 
-The cycle is fractal:
+The cycle is fractal:  
 - **Daily**: What did I learn yesterday? What will I do today? What obstacles need to be removed?
 - **Weekly**: Circle meetings. What commitments were kept? What was learned? What adjustments are needed? What should be done next? What are the Wise Right Next Steps? 
 - **Per Quest**: Retrospectives at the completion of each 90-day Seasonal Quest. What worked? What do we carry forward? What would we like to do better next time? 
@@ -481,6 +481,6 @@ The only question is whether we will plant it — everywhere, now, in the time r
 
 ---
 
-Forward to [[Ring 3 - The Living Proof]]
-Back to [[Ring 1 - The Seed]]
+Forward to [[Ring 3 - The Living Proof]]  
+Back to [[Ring 1 - The Seed]]  
 Table of Contents [[LIONSBERG 101]]

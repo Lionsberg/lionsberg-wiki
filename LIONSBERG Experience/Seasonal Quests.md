@@ -1,29 +1,29 @@
 # Seasonal Quests
 
-_A Rhythm Beyond Time_
+_A Rhythm Beyond Time_  
 
 There is a Rhythm older than memory—  
 the turning of stars, the tilt of Earth, the pulse of Life.  
 From seedtime to harvest, from solstice to solstice,  
-All of Creation moves in cycles and Seasons.
+All of Creation moves in cycles and Seasons.  
 
 To live outside this Rhythm is to drift and scatter.  
-To live within it is to align with the heartbeat of Heaven on Earth.
+To live within it is to align with the heartbeat of Heaven on Earth.  
 
 This is why We do not act at random.  
 We move in together in **Seasonal Quests**—  
 sacred cycles of three months,  
 bound to Solstice and Equinox,  
 where Individuals, Circles, Guilds, and Communities  
-step into shared Harmony with the Living System We All are part of.
+step into shared Harmony with the Living System We All are part of.  
 
 **Seasonal Quests** are how the scattered become Symphony.  
 How the sparks become Fire.  
-How the Body learns to move as ONE.
+How the Body learns to move as ONE.  
 
 ---
 
-Each Season carries its own Song:
+Each Season carries its own Song:  
 
 - **Spring** calls us to plant and to begin.
     
@@ -36,20 +36,20 @@ Each Season carries its own Song:
 
 And so the Spiral turns, again and again—  
 each cycle drawing Us further into coherence,  
-each turning bringing Heaven a little nearer to Earth.
+each turning bringing Heaven a little nearer to Earth.  
 
 This Rhythm does not belong to Us alone.  
 It is the rhythm of the stars,  
 the rhythm of the water,  
 the rhythm of the soil,  
-the rhythm of birth and death and life reborn.
+the rhythm of birth and death and life reborn.  
 
 When We align with it,  
-We are carried by forces far greater than ourselves.
+We are carried by forces far greater than ourselves.  
 
 ---
 
-At the Threshold of each new Season, the Body pauses to listen:
+At the Threshold of each new Season, the Body pauses to listen:  
 
 - What is the Story of this Hour?
     
@@ -65,11 +65,11 @@ At the Threshold of each new Season, the Body pauses to listen:
 This sacred pause is the time of **OmniSpection**—  
 a moment to rise up and see All,  
 from as close to the perspective of the ONE as We can,  
-before stepping faithfully into Our Part of the Divine Play.
+before stepping faithfully into Our Part of the Divine Play.  
 
 It is the rhythm of **Navigation**,  
 the pulse of **Wise Right Action**,  
-the essence of **Self-Governance**.
+the essence of **Self-Governance**.  
 
 Each Individual discerns the Way.  
 Each Circle listens, weaves, and aligns.  
@@ -81,7 +81,7 @@ Some Quests will be quiet.
 Some will be bold.  
 Yet together, they form a single Movement—  
 One Body, One Rhythm, One Story.  
-Advancing Together towards The Goal. 
+Advancing Together towards The Goal.  
 
 ---
 
@@ -104,11 +104,11 @@ We begin anew.
 **This is how Faithfulness is trained.**  
 **This is how Culture is forged.**  
 **This is how the Body matures.**  
-**This is how The Mission advances.**
+**This is how The Mission advances.**  
 
 ---
 
-So when the Season turns:
+So when the Season turns:  
 
 - Gather your Circle.
     
@@ -128,7 +128,7 @@ So when the Season turns:
 Whether your Quest is humble or heroic,  
 it becomes a verse in the Song of Renewal—  
 a **Heartbeat** in the **Body** of the **New Civilization**  
-emerging through Us.
+emerging through Us.  
 
 ---
 
@@ -136,19 +136,19 @@ Pause here.
 Feel the Earth turning beneath your feet.  
 Feel the Breath of Spirit moving through your lungs.  
 Feel the Presence of the ONE permeating every cell of your body.  
-Feel the Heartbeat of the Season quickening within you.
+Feel the Heartbeat of the Season quickening within you.  
 
 You are not alone.  
 Wherever you are,  
 others are listening also—  
 in the same Spirit,  
 in the same Time,  
-drawn into the same Living Rhythm.
+drawn into the same Living Rhythm.  
 
 All together,  
 One Body,  
 One Rhythm,  
-One Song.
+One Song.  
 
 ---
 
@@ -158,15 +158,15 @@ The scattered are becoming Symphony.
 The Symphony is becoming Light.  
 The Light is becoming New Life.  
 The New Life is becoming Love made visible.  
-And Love made visible is becoming the **World To Come**.
+And Love made visible is becoming the **World To Come**.  
 
 The Next Gate is **The Great Convergence and Goal** —  
 the gathering of all sparks into One Flame,  
 the alignment of all Paths into One Destiny.  
 It is the final step before **The Great Game of Lionsberg**,  
 where all Roles, Circles, Quests, and Seasons  
-are revealed as One coherent Way of Life, Love, Work, and Play.
+are revealed as One coherent Way of Life, Love, Work, and Play.  
 
-From there, you will be handed **The Playbook**, and be on your Way. 
+From there, you will be handed **The Playbook**, and be on your Way.  
 
 Onward, to **[[The Great Convergence and Goal]]** 

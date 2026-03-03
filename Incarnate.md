@@ -2,7 +2,7 @@
 
 In the context of Lionsberg, "Incarnate" refers to the embodiment or manifestation of an aspect of [[Metaphysical Reality]] into [[Physical Reality]]. 
 
-For instance, in the context of the Lionsberg System it would refer to the attempt to: 
+For instance, in the context of the Lionsberg System it would refer to the attempt to:  
 1. Discern, Discover, and Search Out the Wisdom, Principles, and Values of [[God]]   
 2. Understand those as a Uniting Spirit  
 3. Differentiate the essential [[Pattern Language]] of the Spirit  

@@ -2,8 +2,8 @@
 
 Vision is the ability to [[Perceive]] the total set of [[Potential Futures]] with clarity, and to select from among them with [[Wisdom]]. 
 
-___
-See also: 
+___  
+See also:  
 - [[New Vision and Plan]] 
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 ## On The Importance of Vision

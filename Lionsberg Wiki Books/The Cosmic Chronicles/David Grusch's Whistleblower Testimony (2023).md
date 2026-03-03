@@ -89,4 +89,3 @@ Grusch's testimony did not stand alone. He indicated that other whistleblowers, 
 - **Key Analyses:**
     - Knapp, George. "The Whistleblower Testimony That Shook Congress."
     - Mellon, Christopher. "Why David Grusch’s Testimony Matters."
-

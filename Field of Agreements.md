@@ -50,11 +50,11 @@ At every level, the agreements are freely consented to by the sovereign members 
 
 ___
 
-[[Template For Field of Agreements]]
+[[Template For Field of Agreements]]  
 
 ___
 
-_See [[Holofractal Omnifederation]] for how domains naturally emerge at every scale._
-_See [[Sovereignty At Every Scale]] for how the membrane protects each domain._
-_See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] for the governance pattern._
+_See [[Holofractal Omnifederation]] for how domains naturally emerge at every scale._  
+_See [[Sovereignty At Every Scale]] for how the membrane protects each domain._  
+_See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] for the governance pattern._  
 _See [[LIONSBERG 101]]._

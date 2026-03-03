@@ -14,7 +14,7 @@
     - social implications
 - reflect on the continuous improvement pattern we performed this time, and document for sharing
 
-not included - see below at concerns
+not included - see below at concerns  
 
 ## Next Steps
 
@@ -28,13 +28,13 @@ not included - see below at concerns
 
 ### Deployment
 
-separate subdomains,
+separate subdomains,  
 
 - lionsberg.wiki - just "getting started" and a table of contents
 - core.lionsberg.wiki
 - community.lionsberg.wiki
 
-or, integrate into one website, lionsberg.wiki (probably better)
+or, integrate into one website, lionsberg.wiki (probably better)  
 
 
 ## Issue / What Happened
@@ -114,7 +114,7 @@ or, integrate into one website, lionsberg.wiki (probably better)
 - fork and pull (i.e., pull requests) (good for external contributors)
 - GitHub Issues (including commenting)
 
-branch is very much like a fork, but can be merged back with less rigamarole
+branch is very much like a fork, but can be merged back with less rigamarole  
 
 ## RFIS / Submittals?
 - on design build projects - this is resolved partially via
@@ -161,35 +161,35 @@ branch is very much like a fork, but can be merged back with less rigamarole
 
 ### Jordan from Mattermost, 2022-07-11
 
-https://chat.collectivesensecommons.org/agora/pl/fy3bwrxgzjd4fyb7yua9cg1roa
+https://chat.collectivesensecommons.org/agora/pl/fy3bwrxgzjd4fyb7yua9cg1roa  
 
-Jonathan and I did some work on reorganizing and architecting and creating differentiated work flows to ensure that individuals are empowered to speak freely from their own voices on any topic in the Wiki Blogs or Wiki Books sections, while protecting the integrity of the Whole / System Design and its definitions. We noticed that if I had written comprehensively and in an interlinked manner on something, and then someone else changed a page that defined that [Word Tool] in a slightly different way, it could damage the coherence and integrity of the Whole. 
+Jonathan and I did some work on reorganizing and architecting and creating differentiated work flows to ensure that individuals are empowered to speak freely from their own voices on any topic in the Wiki Blogs or Wiki Books sections, while protecting the integrity of the Whole / System Design and its definitions. We noticed that if I had written comprehensively and in an interlinked manner on something, and then someone else changed a page that defined that [Word Tool] in a slightly different way, it could damage the coherence and integrity of the Whole.  
 
-So we differentiated out a Community Information Section (people, groups, projects, meetings, notes)… 
+So we differentiated out a Community Information Section (people, groups, projects, meetings, notes)…  
 
-A Wiki Blogs section…
+A Wiki Blogs section…  
 
-A Wiki Books section…
+A Wiki Books section…  
 
-And a Lionsberg System Design section… 
+And a Lionsberg System Design section…  
 
-We defined a proposed system similar to what is used on complex systems and projects where proposed changes or improvements to the content of the System Design section are placed into a [[Suggestion Box]], where then the function akin to Architect can review and accept, modify, or reject with an explanation. I can handle that Architect function for a period of time as we get up to speed, but we will quickly need to assign that function to a team that is passionate about it and good at it and really understands the design of the entire System. 
+We defined a proposed system similar to what is used on complex systems and projects where proposed changes or improvements to the content of the System Design section are placed into a [[Suggestion Box]], where then the function akin to Architect can review and accept, modify, or reject with an explanation. I can handle that Architect function for a period of time as we get up to speed, but we will quickly need to assign that function to a team that is passionate about it and good at it and really understands the design of the entire System.  
 
 ### Jonathan from Mattermost, 2022-07-11
 
-https://chat.collectivesensecommons.org/agora/pl/zctafrrqxpg6dfagiyxmfmtjkc
+https://chat.collectivesensecommons.org/agora/pl/zctafrrqxpg6dfagiyxmfmtjkc  
 
-Reflections on my meeting with @jnicholasone. It's great to spend time with someone i respect.
+Reflections on my meeting with @jnicholasone. It's great to spend time with someone i respect.  
 
-i've digested the process he outlined and have some concerns. I agree wholeheartedly that cohesiveness and consistency must be ensured. This is serious business. We are talking about billions of dollars, so I get that we need to be credible and the opposite of a mish-mash.
+i've digested the process he outlined and have some concerns. I agree wholeheartedly that cohesiveness and consistency must be ensured. This is serious business. We are talking about billions of dollars, so I get that we need to be credible and the opposite of a mish-mash.  
 
-At risk of oversimplifying it, I'd like to frame this as being about operationalizing our creativity, in spirit with the meta project. I have a concern that this process may stifle creativity by adding extra steps for the author and for the architect function and multiple copies of the same material. We are all good thinkers here, so I have two questions for us. Do we think our creative activities should be smooth, light and simple, so we can focus massively on being creative? Do we think our creativity can and should be nurtured, coached, guided, and ultimately set free to collaborate as a whole?
+At risk of oversimplifying it, I'd like to frame this as being about operationalizing our creativity, in spirit with the meta project. I have a concern that this process may stifle creativity by adding extra steps for the author and for the architect function and multiple copies of the same material. We are all good thinkers here, so I have two questions for us. Do we think our creative activities should be smooth, light and simple, so we can focus massively on being creative? Do we think our creativity can and should be nurtured, coached, guided, and ultimately set free to collaborate as a whole?  
 
-So, I wonder about adding a **vigilant editing team** watching all pushed changes and editing them as needed. With each edit, they offer a conference with, or a message to, the author (nurturing guidance). Would this be less overall effort for greater overall benefit? @peterkaminski Can github help? We could use pull requests, but would that also mean we would not be able to see the changes live, or too complicated/ridiculous if we have a staging site?
+So, I wonder about adding a **vigilant editing team** watching all pushed changes and editing them as needed. With each edit, they offer a conference with, or a message to, the author (nurturing guidance). Would this be less overall effort for greater overall benefit? @peterkaminski Can github help? We could use pull requests, but would that also mean we would not be able to see the changes live, or too complicated/ridiculous if we have a staging site?  
 
 ### Spirit from Mattermost, 2022-07-11
 
-For me, this challenge is broken down into 3 components…
+For me, this challenge is broken down into 3 components…  
 
 1. There is enough work to do right now that a lot of regimented coordination and structure is really not necessary as it’s more important something of the 90% unfinished work gets completed than being concerned in what order or in what way. But organizing some kind of coherent roadmap is necessary so people know what they can work on and begin self-locating in a coherent way.
 
@@ -197,15 +197,15 @@ For me, this challenge is broken down into 3 components…
 
 3. If there are those who are inspired to take on this role, they will explicitly/directly or implicitly/indirectly “teach” others how to work in a more “tidy” manner as well. Not that everyone has to be an expert at this skill. Small improvements over time make a big difference. And I hope all our gifts rub off on each other over time to help each of us collectively enhance our abilities and expand our consciousness. 
 
-Also, there will be some who simply don’t work in a “tidy” manner at all because it is not in the nature of their gift(s) to do so. If only a small percentage (10ish%) of people work in a relatively “untidy” manner,  that’s fine. No need to be concerned about that if there are “synergy organizers” and the rest (90ish%) more or less do work in a “tidy” manner. 
+Also, there will be some who simply don’t work in a “tidy” manner at all because it is not in the nature of their gift(s) to do so. If only a small percentage (10ish%) of people work in a relatively “untidy” manner,  that’s fine. No need to be concerned about that if there are “synergy organizers” and the rest (90ish%) more or less do work in a “tidy” manner.  
 
-In any “real/living” system, I think we always have to accept there will be 10ish% outliers who simply don’t comply with the standards of that system. The goal is to integrate their gifts and for the other 90% to be efficient enough to make up for that loss rather than try to compel each other to change core parts of ourself (of course with the exception of extreme violations, etc)…
+In any “real/living” system, I think we always have to accept there will be 10ish% outliers who simply don’t comply with the standards of that system. The goal is to integrate their gifts and for the other 90% to be efficient enough to make up for that loss rather than try to compel each other to change core parts of ourself (of course with the exception of extreme violations, etc)…  
 
 ### Pete from Mattermost, 2022-07-12
 
-https://chat.collectivesensecommons.org/agora/pl/w1amk4srttyhufi76gbc4j76oo
+https://chat.collectivesensecommons.org/agora/pl/w1amk4srttyhufi76gbc4j76oo  
 
-My sense is that we're looking at:
+My sense is that we're looking at:  
 
 - multiple wikis, probably with different stewarding circles
     - figuring out how inter-linking wikis might be made as practical as possible

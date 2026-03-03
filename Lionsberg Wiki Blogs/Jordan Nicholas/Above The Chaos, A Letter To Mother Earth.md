@@ -1,11 +1,11 @@
 # A Letter To Mother Earth
-*A draft for review by the Elders, Tribes, and First Nations*
+*A draft for review by the Elders, Tribes, and First Nations*  
 (_Traducción al español al final de la página_)
 
-*Version 0.2, May 29, 2024*
+*Version 0.2, May 29, 2024*  
 *To be finalized and presented to the Elder Brothers and Sisters by June 2024*
 
-Dear Mother, 
+Dear Mother,  
 Care of the Elder Brothers, Sisters, and First Nations. 
 
 I write to you with both great sorrow, and great hope. 
@@ -73,7 +73,7 @@ ____
 
 La traducción que figura a continuación se ha creado utilizando AI y debe modificarse para mayor precisión. 
 
-Carta a la Madre Tierra
+Carta a la Madre Tierra  
 Un borrador para que lo revisen los Ancianos, las Tribus y las Primeras Naciones
 
 Versión 0.2, 29 de mayo de 2024 Para ser finalizada y presentada a los Hermanos y Hermanas Mayores en junio de 2024

@@ -54,8 +54,8 @@ Jordan's Notes:
 
 Bucky's Notes: 
 
-FROM: Omni-Disintegration 
-TO: Omni-Integration, Omni-Success 
+FROM: Omni-Disintegration  
+TO: Omni-Integration, Omni-Success  
 	- A completely integrated, comprehensively interconsiderate, harmonious whole.  
 
 Jordan's Notes: 
@@ -98,8 +98,8 @@ Bucky's Notes:
 	1. The intuitive wisdom of each and every individual.  
 	2. The individual’s comprehensive informedness.  
 	3. The individual’s integrity of speaking and acting  only on the individual’s own within-self-intuited  and reasoned initiative.  
-	4. The individual’s joining action with others, as motivated only by the individually conceived  consequences of so doing. 
-	5. The individual’s never-joining action with  others, as motivated only by crowdengendered emotionalism, or by a sense of  the crowd’s power to overwhelm, or in fear  of holding to the course indicated by one’s  own intellectual convictions. 
+	4. The individual’s joining action with others, as motivated only by the individually conceived  consequences of so doing.  
+	5. The individual’s never-joining action with  others, as motivated only by crowdengendered emotionalism, or by a sense of  the crowd’s power to overwhelm, or in fear  of holding to the course indicated by one’s  own intellectual convictions.  
 - I sought to discover what, if anything, can be effectively accomplished by a penniless, unknown individual—operating only on behalf of all humanity—in attempting to produce sustainingly favorable physical and metaphysical advancement of the integrity of all human life on our planet,  which omnihuman advantaging task, attemptable by the  individual, is inherently impossible of accomplishment by any nation, private enterprise, religion, or other multipeopled, bias-fostering combination thereof. 
 - …whenever you think or you believe or you know, you’re a lot of other people: but the moment you **feel**, you’re nobody-but-yourself.
 - A poet is somebody who feels, and who **expresses** his **feelings through words**. This may sound easy. It isn’t. 
@@ -192,7 +192,7 @@ Bucky's Notes:
 
 - Technologically we now have four billion billionaires on  board Spaceship Earth who are entirely unaware of their good fortune. Unbeknownst to them their legacy is being  held in probate by general ignorance, fear, selfishness, and a myriad of paralyzing professional, licensing, zoning, building laws and the like, as bureaucratically maintained by the incumbent power structures. 
 - Dismaying as all this paralysis may be, it will lead eventually to such crisis that **comprehensive dissemination of the foregoing truths** will be accomplished through: 
-	1) the world-around-integrated electronic media broadcasting and 
+	1) the world-around-integrated electronic media broadcasting and  
 	2) the computerized switchover from the inherently-inadequate-life-support accounting assumption of yesterday to the adequate for-everyone-and-everything, [[Time-Energy Accounting]] comprehensively employed by the multi-billion-galaxied, eternally regenerative  Universe itself.
 
 Jordan's Notes
@@ -491,13 +491,11 @@ ____
 - 
 
 
-Self-Disciplines of Buckminster Fuller
+Self-Disciplines of Buckminster Fuller  
 - Reaffirms the understanding that the New must be rooted in a New Practice and Way of Being 
 
-The Geoscope 
+The Geoscope  
 - Outlines the design and functioning of a critical digital and physical educational and decision making tool to be included in [[The Prototype]].  
 
-World Game 
+World Game  
 - Creates a way of thinking Omni-Considerately about best and highest future for all. 
-
-

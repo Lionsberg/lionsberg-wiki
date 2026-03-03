@@ -67,5 +67,3 @@ Please... for the love of [[God]]... will you [[Join Us]] and co-create [[Heaven
 Deepest Love and Blessings, 
 
 ~ J 
-
-

@@ -65,7 +65,7 @@ As we discover other emergent games with different names, we can disover how to 
 
 The only requirement is Sovereignty - we can never subordinate any element of Lionsberg or the Meta Framework to anything other than the eternal and universal One and All, or the entire [[Meta Logic]] / [[Logos]] they are predicated upon will fail, and destroy the System. 
 
-The moment we subordinate any element to any other Game or System, is the moment it dies and ceases to embody the spirit of what we are trying to accomplish, which demands that every element of the System _directly_ relates back to and flow from the deepest possible level of abstraction. 
+The moment we subordinate any element to any other Game or System, is the moment it dies and ceases to embody the spirit of what we are trying to accomplish, which demands that every element of the System _directly_ relates back to and flow from the deepest possible level of abstraction.  
 ___
 
 ## How It Works
@@ -393,5 +393,3 @@ ___
 ### Lifelong Project Based Learning and Development 
 
 ### Agreements
-
-

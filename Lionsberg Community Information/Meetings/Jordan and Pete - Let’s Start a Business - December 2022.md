@@ -109,8 +109,8 @@
 
 ## ACTION / NEXT STEPS
 
-Timeline for Pete: off for holidays until ~Jan 4, first output for below around mid-January
-Same for Jordan 
+Timeline for Pete: off for holidays until ~Jan 4, first output for below around mid-January  
+Same for Jordan  
 
 1. Create templates for plans above 
 1. Complete templates 

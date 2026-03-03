@@ -9,4 +9,3 @@ In the context of the Abrahamic religions such as Judaism, Christianity and Isla
 While eternal and consistent in nature, the prophesies distinguish the Old Covenant, associated with Moses and strict elementary adherence to the written law, from the New Covenant, associated with higher order knowledge of God and partnership with God through the direct working of the Spirit of God within us. 
 
 In summary, the concept of covenant relationship is an understanding of a sacred agreement between God and humanity, in which God establishes certain universal conditions, promises, and blessings blessings for those who live in accordance with the [[Conditions]] for humanity and life to flourish in right relationship with its Source. 
-

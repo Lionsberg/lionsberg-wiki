@@ -25,5 +25,5 @@ Having failed to identify such a solution here in our modern time and place, we 
 ___
 
 Forward to [[The Lionsberg System as a Prototype and Solution]]  
-Back to [[The Need For A Comprehensive And Integrated Meta Solution]]    
+Back to [[The Need For A Comprehensive And Integrated Meta Solution]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

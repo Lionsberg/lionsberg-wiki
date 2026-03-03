@@ -147,4 +147,3 @@ In some cases, soldiers venturing into these deeper networks disappeared without
 - **Related Cases:**
     
     - Reports of reptilian encounters in Afghanistan and North America.
-

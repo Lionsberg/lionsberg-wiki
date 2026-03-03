@@ -138,7 +138,3 @@ For more details on the series of events, see:
 1. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
 2. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]  
 3. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]  
-
-
-
-

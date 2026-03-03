@@ -4,6 +4,6 @@ As I walk through life, I see many people still bleeding and suffering from the 
 
 ___
 
-Forward to [[Meditation 21]]        
+Forward to [[Meditation 21]]  
 Back to [[Meditation 19]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

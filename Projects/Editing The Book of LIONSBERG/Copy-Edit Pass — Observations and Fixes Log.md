@@ -57,7 +57,7 @@ Multiple files contained UTF-8 NBSP characters (0xC2A0) that appear as invisible
 
 ### Single-Bracket vs. Double-Bracket Links
 
-Several files use single brackets `[term]` where double brackets `[[term]]` (wiki links) appear to be intended. These were NOT fixed because they could be intentional. Flagged locations:
+Several files use single brackets `[term]` where double brackets `[[term]]` (wiki links) appear to be intended. These were NOT fixed because they could be intentional. Flagged locations:  
 - 2.5 line ~: `[Reality]`
 - 3.20 line 34: `[One] [Loves]`
 - 7.8 line 79: `[Dark Matter]` and `[Dark Energy]`

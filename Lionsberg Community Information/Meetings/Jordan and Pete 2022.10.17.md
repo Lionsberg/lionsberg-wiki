@@ -208,9 +208,9 @@
 
 ## Rising Towards Collaboration
 
-We realized / learned that we tried to skip some steps in moving stragith towards collaboration and program management.
+We realized / learned that we tried to skip some steps in moving stragith towards collaboration and program management.  
 
-Hypothesis / current best understanding is that our eventual collaboration will likely organically emerge through a progression that might be something like:
+Hypothesis / current best understanding is that our eventual collaboration will likely organically emerge through a progression that might be something like:  
 
 - awareness
 - intention
@@ -220,9 +220,9 @@ Hypothesis / current best understanding is that our eventual collaboration will 
 - coordination
 - collaboration 
 
-This is something like the basic physics of relationship... like Maslow's hierarchy or spiral dynamics... you simply aren't going to collaborate unless you have gone through the other steps. 
+This is something like the basic physics of relationship... like Maslow's hierarchy or spiral dynamics... you simply aren't going to collaborate unless you have gone through the other steps.  
 
-Also - groups are going to move through them at different paces... 
+Also - groups are going to move through them at different paces...  
 
 
 

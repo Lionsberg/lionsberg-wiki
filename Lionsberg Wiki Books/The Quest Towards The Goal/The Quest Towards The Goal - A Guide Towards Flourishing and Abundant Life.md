@@ -7,16 +7,16 @@ This was a book that [[Jordan]] hoped to write. His ideas on most of these topic
 
 Maybe some day this book will write ItSelf. 
 
-[[The Quest - Introduction]] 
+[[The Quest - Introduction]]  
 [[The Quest - Remembering Why and How to Transmit Wisdom, Knowledge, and Information Just In Time]]  
-[[The Quest - Flourishing From The Bottom Up and Inside Out]] 
-[[The Quest - Flourishing From The Top Down and Outside In]] 
-[[The Quest - Liberating One Another From The Caves]] 
+[[The Quest - Flourishing From The Bottom Up and Inside Out]]  
+[[The Quest - Flourishing From The Top Down and Outside In]]  
+[[The Quest - Liberating One Another From The Caves]]  
 [[The Quest - Crossing The Threshold of Knowing]]  
 [[The Quest - Passing Through The Boundary]]  
-[[The Quest - Passing Through The Eye of the Needle]] 
+[[The Quest - Passing Through The Eye of the Needle]]  
 [[The Quest - Life Beyond The Boundary]]  
-[[The Quest - Walking The Straight and Narrow Path]]
+[[The Quest - Walking The Straight and Narrow Path]]  
 [[The Quest - Balancing on The Tip of The Needle]]  
 [[The Quest - Remembering Why and How to Breathe]]  
 [[The Quest - Remembering Why and How to Eat]]  
@@ -78,68 +78,66 @@ Maybe some day this book will write ItSelf.
 [[The Quest - Remembering Why and How to Set Goals and Objectives]]  
 [[The Quest - Remembering Why and How to Make Decisions]]  
 [[The Quest - Remembering Why and How to Identify, Dialogue, and Solve Issues]]  
-[[The Quest - Remembering Why and How to Transform Conflict]]   
+[[The Quest - Remembering Why and How to Transform Conflict]]  
 [[The Quest - Remembering Why and How to Coach and Mentor]]  
 [[The Quest - Remembering Why and How to Tell Stories]]  
 [[The Quest - Remembering Why and How to Co-Create Systems]]  
 [[The Quest - Remembering Why and How to Co-Create Tools]]  
-[[The Quest - Remembering Why and How to Co-Create and Align Technology]]   
+[[The Quest - Remembering Why and How to Co-Create and Align Technology]]  
 
-build trust 
-have a purpose 
-have an intention 
-have a vision 
-have values 
+build trust  
+have a purpose  
+have an intention  
+have a vision  
+have values  
 have principles  
 story board  
 seek wisdom  
-navigate towards truth 
-differentiate propositional and non-propositional knowledge 
-differentiate and name things 
-create word tools 
-continually expand our array of word tools 
-categorize and map things 
-establish ideals 
-remember ultimate ineffability 
-transcendenet, archtype, prototypes, instantiations 
-kings and priests 
-sovereignty 
-autonomy 
-community 
-society 
-living system 
-alignment 
-harmony 
+navigate towards truth  
+differentiate propositional and non-propositional knowledge  
+differentiate and name things  
+create word tools  
+continually expand our array of word tools  
+categorize and map things  
+establish ideals  
+remember ultimate ineffability  
+transcendenet, archtype, prototypes, instantiations  
+kings and priests  
+sovereignty  
+autonomy  
+community  
+society  
+living system  
+alignment  
+harmony  
 coherence  
-stewardship vs. ownership 
-citizneship 
+stewardship vs. ownership  
+citizneship  
 2-3 year temp contracts / filtering  
-associate and dissociate 
-process for dissociation 
-unity and divorce 
-define domains 
-create fields of agreement 
+associate and dissociate  
+process for dissociation  
+unity and divorce  
+define domains  
+create fields of agreement  
 establish peace  
 wage war  
 optimally specialize  
 optimally generalize  
-optimize for general competence and adaptability 
-optimize for Flow States 
+optimize for general competence and adaptability  
+optimize for Flow States  
 create goods  
-exchange goods 
-create companies 
-federate companies 
-regulate 
-homeostasis 
-ranges of tolerance 
-differentiate and align theology, philosophy, science, theory, technique and practice etc. 
-think and act from Universally and Eternally (the wisdom and perspective of God ) 
+exchange goods  
+create companies  
+federate companies  
+regulate  
+homeostasis  
+ranges of tolerance  
+differentiate and align theology, philosophy, science, theory, technique and practice etc.  
+think and act from Universally and Eternally (the wisdom and perspective of God )  
 think and act SpatioTemporally  
-network 
-become interplanetary 
+network  
+become interplanetary  
 become interstellar 
 
 
 Badges, Skills, and Just In Time Learning... 
-
-

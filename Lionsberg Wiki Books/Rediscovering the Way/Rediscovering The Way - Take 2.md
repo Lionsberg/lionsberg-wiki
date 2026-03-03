@@ -239,5 +239,3 @@
     - A closing invocation for humanity’s success in the Final Test.
     - Encouragement to refine, expand, and pass the Way forward.
     - An eternal invitation to co-create Heaven on Earth.
-
-

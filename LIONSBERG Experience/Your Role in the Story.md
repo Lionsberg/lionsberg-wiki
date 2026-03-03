@@ -6,20 +6,20 @@ Not a title. Not a mask.
 Not born of external expectations.  
 Not forged by societal conditioning.  
 But the Truest Expression of **Who You Really Are** —  
-A living note in the Symphony of ONE.
+A living note in the Symphony of ONE.  
 
 Now, in this hour of **The Next Great Turning**,  
 Your Role calls out from Eternity into Time.  
 Right Here and Now.  
 The Curtain rises.  
 The Stage is alive.  
-The Crowd is buzzing. 
+The Crowd is buzzing.  
 The Chorus has begun to sing.  
-Welcome to **The Big Show**.
+Welcome to **The Big Show**.  
 
-And Heaven, Earth, and Cosmos all lean in to ask:
+And Heaven, Earth, and Cosmos all lean in to ask:  
 
-**What is the part only you can play?**
+**What is the part only you can play?**  
 
 ---
 
@@ -29,7 +29,7 @@ The Story advances with or without us —
 The Show must go on —  
 but its harmony, its color, its very shape in this age  
 will never be what it was meant to be  
-without your presence, your gifts, and your voice.
+without your presence, your gifts, and your voice.  
 
 Your Role is not an addition to who you are.  
 It is not an act.  
@@ -37,9 +37,9 @@ It is not a mask.
 It is **Who You Are**,  
 Resurrected, revealed, and realigned  
 With the movement of Spirit and Creation  
-In your unique Time and Place.
+In your unique Time and Place.  
 
-It is the crossing point of:
+It is the crossing point of:  
 
 - **The Divine Spark you carry**
     
@@ -50,14 +50,14 @@ It is the crossing point of:
 - **The Cry of the Hour in which you live**
     
 
-When these converge, **Your Role** is unveiled.
+When these converge, **Your Role** is unveiled.  
 
 ---
 
 ## The Archetypal Constellations
 
 Across civilizations and galaxies,  
-Similar Roles appear like stars in the firmament:
+Similar Roles appear like stars in the firmament:  
 
 - **Keepers of the Flame** — carriers of Spirit, bearers of the Sacred Fire.
     
@@ -86,14 +86,14 @@ These are not costumes to put on.
 They are **currents of being**,  
 Essences of **Soul**,  
 Ancient streams of **Meaning** and **Purpose** you will recognize  
-When they Rise and Flow through you.
+When they Rise and Flow through you.  
 
 ---
 
 ## Circles of Individuals and Roles
 
 Every Individual needs their Circle.  
-Every Circle needs its constellation of Roles.
+Every Circle needs its constellation of Roles.  
 
 Some tend the inner flame.  
 Some guard the edges.  
@@ -102,15 +102,15 @@ Some weave and bind.
 Some heal and restore.  
 Some organize and integrate.  
 Some play their role with zeal and focus.  
-Some make sure everyone laughs, plays, and bonds.
+Some make sure everyone laughs, plays, and bonds.  
 
 Together, the Circle becomes more than survival,  
 more than success —  
 it becomes Symphony.  
-Together, the **Circle** becomes a **microcosm of the New Civilization**.
-A **Cell** that ReMembers it is part of **ONE Body**. 
+Together, the **Circle** becomes a **microcosm of the New Civilization**.  
+A **Cell** that ReMembers it is part of **ONE Body**.  
 
-Who You Really Are, 
+Who You Really Are,  
 Your True Nature and Role,  
 Can only be fully discovered, seen, and appreciated  
 In the context of the Divine Symphony you were born to be a part of.  
@@ -126,11 +126,11 @@ It is a sacred act of ReMembrance.
 Your Role will be forged in Community,  
 With each Circle you form or join.  
 Often others will recognize within you  
-Sparks of unique genius you struggle to see in your Self.
+Sparks of unique genius you struggle to see in your Self.  
 Your Circles will become like mirrors,  
 Helping reveal to you — and to All — Who You Are.  
 
-There are hints and clues that show the Way:
+There are hints and clues that show the Way:  
 
 - Remember the moments when your whole being felt aligned and in Flow — that is a clue.
     
@@ -155,10 +155,10 @@ Not by putting them on.
 
 Be brave. Be strong.  
 We have All been waiting for you.  
-The Story needs you to step into **Your Role**. 
+The Story needs you to step into **Your Role**.  
 There is nothing the world needs more  
 Than people who Know Who They Are  
-And are ***Coming Fully Alive***.
+And are ***Coming Fully Alive***.  
 
 ---
 
@@ -167,16 +167,16 @@ And are ***Coming Fully Alive***.
 The Gameboard is before you.  
 The Story invites your voice.  
 The Chorus is waiting for your note.  
-The Symphony is incomplete until you sound it.
+The Symphony is incomplete until you sound it.  
 
 No one else can play your part.  
 No one can walk the Path for you.  
 The Great Game does not play ItSelf.  
 Together We orchestrate the Divine Symphony,  
 But each Individual must sound their own note.  
-The world has waited and longed for you to rise into this Role.
+The world has waited and longed for you to rise into this Role.  
 
-From here, the next steps and gates unfold:
+From here, the next steps and gates unfold:  
 
 - **Circles and Guilds** — where your Role joins with others to form microcosms of the Whole.
     
@@ -191,23 +191,22 @@ Pause here.
 Close your eyes.  
 Sense the weight of Eternity moving through you.  
 Sense the Joy of being chosen for this age.  
-Sense the Courage of choosing to Be Here Now.
+Sense the Courage of choosing to Be Here Now.  
 
-The Story has been waiting for this — for you.
+The Story has been waiting for this — for you.  
 
 It is such a badass move to show up  
 Here and Now,  
-For such a Time as this.
+For such a Time as this.  
 
 **Your Role is calling.**  
 Without it, the Symphony is incomplete.  
-With it, the Whole resounds in greater harmony.
+With it, the Whole resounds in greater harmony.  
 
 **The Stage is yours.  
 The Symphony awaits.  
-What Role will you play next?**
+What Role will you play next?**  
 
 ---
 
-The Path now calls you onward, into the realm of **[[Circles and Guilds]]**. 
-
+The Path now calls you onward, into the realm of **[[Circles and Guilds]]**.  

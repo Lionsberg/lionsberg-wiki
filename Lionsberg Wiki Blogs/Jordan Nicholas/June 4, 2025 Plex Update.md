@@ -5,7 +5,7 @@
 Our esteemed friend Pete Kaminski is prototyping a powerful new pattern called **Plex**.  
 We The People of LIONSBERG see wisdom in this initiative and wholeheartedly support its adoption and expansion.
 
-Here is an idea Jordan and Pete are discussing: 
+Here is an idea Jordan and Pete are discussing:  
 1. Plex Stewards gather updates, insights, and inspiring stories of transformation from diverse domains of co-creation and systematically share them with dedicated **[[Observers]]** of their respective domains.  
 2. Inspired Observers may occasionally choose to amplify these efforts by becoming active **[[Supporters]]** through direct links within Plex.  
 3. From there, Supporters who feel called to deeper involvement can step forward as committed **[[Participants]]** by directly connecting with the **[[Members]]** or **[[Stewards]]** of the groups and initiatives they resonate with most deeply.
@@ -43,7 +43,7 @@ Should your spirit resonate with stepping beyond observation into tangible suppo
 
 As many of us sacrifice our last pockets of resources and security, and young leaders, hearts, and stomachs cry out for support from around the world, I pray that We will collectively set significant resources in flow as rapidly as possible. 
 
-We and the world need you. 
+We and the world need you.  
 To take a simple next step into active support and potential participation, please respond below. We look forward to seeing you soon! 
 
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
@@ -52,6 +52,3 @@ To take a simple next step into active support and potential participation, plea
 Love and Blessings, 
 
 ~ J  
-
-
-

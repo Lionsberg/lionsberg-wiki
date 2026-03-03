@@ -1,6 +1,6 @@
 # Chapter 6 —The Original War and the Great Fall
 
-_The Ancient Conflict That Echoes Through All Worlds_
+_The Ancient Conflict That Echoes Through All Worlds_  
 
 ---
 
@@ -20,19 +20,19 @@ _The Ancient Conflict That Echoes Through All Worlds_
 ## **The Moment of Decision**
 
 After [[The First Fracture]] shattered the coherence of the Whole,  
-a question emerged across the Heavens and worlds:
+a question emerged across the Heavens and worlds:  
 
-**Who shall We Become now?** 
+**Who shall We Become now?**  
 
 **What shall We Become, in Light of All We are coming to Know?**  
 
 Some beings, though shaken, re-centered in Unity and Love.  
 Others hesitated—confused, curious, uncertain.  
-Pulled towards the Dark, yet still reluctantly standing in the Light. 
+Pulled towards the Dark, yet still reluctantly standing in the Light.  
 Still others stepped boldly toward the Dark divergence—  
 not accidentally, but consciously.  
 Not as error,  
-but as a conscious act of War.
+but as a conscious act of War.  
 
 This was the origin of [[The Great Conflict]]—  
 not merely a war for territory,  
@@ -83,7 +83,7 @@ They were at once luminous, beautiful, and persuasive.
 Their allure was not initially by force, but by innocent deception.  
 It was only later that their inner faces were revealed.  
 
-Their argument was subtle:
+Their argument was subtle:  
 
 > _“Why must we serve the ONE?”_  
 > _“Is not our own intelligence enough?”_  
@@ -102,9 +102,9 @@ Out of pride.
 
 The War began in the highest heavens—  
 but its shockwaves would echo  
-through all levels of creation.
+through all levels of creation.  
 
-Right down to Here. To Now. To All. To Us. 
+Right down to Here. To Now. To All. To Us.  
 
 ---
 
@@ -142,7 +142,7 @@ The highest became the lowest.
 The chief lightbearers became the dark lords.  
 The protectors became the predators.  
 
-And so The Great Fall began.
+And so The Great Fall began.  
 
 ---
 
@@ -200,9 +200,9 @@ In our fears.
 Whenever We turn from Love to control,  
 from service to self-interest,  
 from humility to pride,  
-from wholeness to hierarchy—
+from wholeness to hierarchy—  
 
-**we re-enact The Original War.**
+**we re-enact The Original War.**  
 
 And whenever We forgive,  
 whenever We restore,  
@@ -211,7 +211,7 @@ whenever We mend,
 whenever We ReMember the Whole,  
 whenever we lay down the weapons of ego and return to the Way—  
 
-**We become part of The Great Restoration.**
+**We become part of The Great Restoration.**  
 
 ---
 
@@ -219,10 +219,10 @@ whenever we lay down the weapons of ego and return to the Way—
 
 Humanity did not invent its darkness.  
 It inherited it.  
-It realms such as Earth, *it was born into it*. 
+It realms such as Earth, *it was born into it*.  
 
 Humanity is not the origin of The Fall—  
-but it can be the site of its healing.
+but it can be the site of its healing.  
 
 For in the human,  
 in this extraordinary synthesis of heaven and earth,  
@@ -230,7 +230,7 @@ of spirit and matter,
 of Divine physicality—  
 the conditions exist for **ReUnion**.  
 
-But not if We continue to forget.
+But not if We continue to forget.  
 
 The ancient stories told of a War in Heaven.  
 They are true—  
@@ -244,13 +244,13 @@ we collapse into our worst selves.
 
 Until We remember what really happened—  
 We will not know what must be healed,  
-nor from where the wounds arose.
+nor from where the wounds arose.  
 
 ---
 
 ## **And Yet…**
 
-There is a deeper Truth.
+There is a deeper Truth.  
 
 Even in the darkest acts of the Fallen Ones,  
 even in the most unspeakable wars,  
@@ -265,7 +265,7 @@ Only hidden from view.
 The Way still exists.  
 And every being who turns toward it  
 takes a step away from the War  
-and toward The Sacred Garden.
+and toward The Sacred Garden.  
 
 We cannot erase the past.  
 We cannot pretend the Fall did not happen.  
@@ -273,14 +273,14 @@ We cannot imagine that We did not participate—
 both as its victims and perpetrators simultaneously.  
 
 But We can Now end The War—  
-**by refusing to carry it forward.**. 
+**by refusing to carry it forward.**.  
 
 ---
 
 ## **So Let Us ReMember**
 
 Let Us walk into the next chamber of the Descent—  
-with open eyes and courageous hearts.
+with open eyes and courageous hearts.  
 
 Let Us face the full scope of The Inversion.  
 Let Us trace the shape of the Serpent’s logic.  
@@ -291,7 +291,7 @@ So that We may reclaim them.
 
 So that We may free what was enslaved.  
 Heal what was broken.  
-Liberate and redeem what was lost.
+Liberate and redeem what was lost.  
 
 And so that the ONE may be Whole  
 in Us  

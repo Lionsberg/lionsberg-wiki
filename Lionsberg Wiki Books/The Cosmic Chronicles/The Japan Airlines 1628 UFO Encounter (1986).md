@@ -112,4 +112,3 @@ The incident gained widespread attention after it was leaked to the press. Terau
 - **Documentaries:**
     
     - _The JAL 1628 UFO Encounter_ – A deep dive into the events and their implications.
-

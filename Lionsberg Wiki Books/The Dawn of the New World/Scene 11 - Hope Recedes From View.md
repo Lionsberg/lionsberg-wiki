@@ -8,7 +8,7 @@ The future of life and society in the Walled Paradise hung in the balance. If th
 
 As a tsunami pulls the tide out to sea before unleashing its destructive force, hope seemed to recede from their view. Yet, the Spirit of God was on the move, hovering above the turbulent dark waters of Chaos, and preparing to once again speak the Logos that would vanquish the Darkness and bring forth a New World that was Good.  
 
-___
+___  
 Forward to: [[Scene 12 - Xion's Awakening]]   
 Back to: [[Scene 10 - The Seeds of the Resistance]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

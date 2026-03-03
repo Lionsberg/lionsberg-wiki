@@ -10,7 +10,7 @@ As the day drew to a close, Xion and the Force For Good surveyed the state of Ea
 
 As the sun set, Xion made his way back up to the highest place on the ramparts, where the Spirit had brought him and lifted him alone. Alone, he fell on his knees, wept, and prayed. He knew that great challenges and opportunities still lay ahead, but that the Spirit would always be with them to show them the Way towards [[Heaven On Earth]]. 
 
-___
+___  
 Forward to: [[Scene 28 - Discovering the Hidden Treasure]]  
 Back to: [[Scene 26 - The Day of Battle]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

@@ -1,5 +1,5 @@
 # Is The Covert Establishment of ET Governance Protocols For The Next 10,000 Years Enough?
-A post in [[Above The Chaos]] 
+A post in [[Above The Chaos]]  
 *Updated July 11, 2025*
 
 As We are laying down some evidence for systems being collapsed by design, $20+ *Trillion* of fraud, tens of millions of murders, and the implementation of [[The Kontrolle System]] by 2030 (See for example [[Catherine Austin Fitts - Is $21 Trillion of Fraud Enough?]])...  

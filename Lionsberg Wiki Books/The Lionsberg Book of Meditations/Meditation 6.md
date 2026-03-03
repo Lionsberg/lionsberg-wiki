@@ -4,6 +4,6 @@ The true essence of all spirituality lies in Love, and in our movement towards i
 
 ___
 
-Forward to [[Meditation 7]]        
+Forward to [[Meditation 7]]  
 Back to [[Meditation 5]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

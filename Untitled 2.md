@@ -16,7 +16,7 @@ The good news is that through years of hard work we have arrived at broad consen
 
 We have also come to universally understand that each of us has precious gifts and puzzle pieces to bring to the table, and that none of us can do "this" alone. 
 
-We have reached the end of what can be figured out intellectually. 
+We have reached the end of what can be figured out intellectually.  
 The rest of the Path lies in transformative embodied learning, action, and interbecoming.  
 
 There is no center, foundation, or top to "this" but the ONE Absolute and Ultimately Ineffable principle among All.  

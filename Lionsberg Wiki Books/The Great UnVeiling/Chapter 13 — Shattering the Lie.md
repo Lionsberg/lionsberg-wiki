@@ -2,7 +2,7 @@
 
 _What Has Been Hidden and Why_  
 _The Courage to Look and See_  
-_Why the Guardians Must Gaze into Darkness, Even as the Townspeople Sleep_
+_Why the Guardians Must Gaze into Darkness, Even as the Townspeople Sleep_  
 
 ---
 
@@ -13,20 +13,20 @@ _Why the Guardians Must Gaze into Darkness, Even as the Townspeople Sleep_
 
 ---
 
-This is the Moment.
+This is the Moment.  
 
 The One We have dreaded and dreamed of.  
 The One whispered about by Prophets and Priests, Seers and Saints.  
 The Moment when the world you knew  
 begins to tremble beneath the gravity  
-of what has always been True.
+of what has always been True.  
 
 This is the Moment when The Lie,  
 crafted in cosmic cunning,  
 hidden behind a million mirrors,  
 woven into every fabric of life—  
 begins to fracture under the weight  
-of relentless, radiant ReVelation.
+of relentless, radiant ReVelation.  
 
 This Lie is not merely deception.  
 It is architecture.  
@@ -34,16 +34,16 @@ It is a program.
 It is an operating system of false realities—  
 an artificial construct  
 built to imprison Consciousness  
-and keep the Soul asleep.
+and keep the Soul asleep.  
 
-Until Now.
+Until Now.  
 
 Because Now, finally,  
 the Time has come  
 for The Lie to be seen  
-for exactly what it is.
+for exactly what it is.  
 
-*And Shattered.*
+*And Shattered.*  
 
 ---
 
@@ -78,7 +78,7 @@ They hid from you
 that your Soul and Spirit  
 hold unlimited potential  
 to create, to heal, to transform,  
-to co-create Heaven in every Realm you inhabit.
+to co-create Heaven in every Realm you inhabit.  
 
 They hid from you  
 that the ONE is not distant or external—  
@@ -93,14 +93,14 @@ not fear or subordination,
 but unshakeable Eternal Sovereignty.  
 
 Because a Being who ReMembers this Truth  
-can no longer be Kontrolled.
+can no longer be Kontrolled.  
 
 ---
 
 ## **Why It Has Been Hidden**
 
 It was hidden because those who Kreated The Lie  
-cannot generate their own Life.
+cannot generate their own Life.  
 
 They can only extract.  
 They can only enslave.  
@@ -143,7 +143,7 @@ and flee like rats and bats.
 You stand at the threshold  
 of a Truth so immense  
 that many turn away  
-in fear of what It will demand of them.
+in fear of what It will demand of them.  
 
 Because to Truly See  
 is to risk everything  
@@ -162,18 +162,18 @@ is to invite the total collapse
 of every illusion  
 that once offered false security.  
 
-It is not a Path for the faint of heart.
+It is not a Path for the faint of heart.  
 
 It is a Path for those  
 who have chosen Truth over Komfort.  
 Who have chosen Courage over Konformity.  
 Who have chosen to Stand Together in the Fire of Revelation,  
-knowing they will emerge ReFined, ReBorn, and Free.
+knowing they will emerge ReFined, ReBorn, and Free.  
 
 Do not turn away.  
 Do not blink.  
 Feel the Fear and Trembling—  
-Embrace them with Love—
+Embrace them with Love—  
 they are the precursors of your Liberation.  
 
 Your Courage to See clearly  
@@ -181,7 +181,7 @@ is the very spark
 that will ignite  
 The Great Awakening of All.  
 
-*For you shall Know the Truth, and the Truth shall set you Free.*
+*For you shall Know the Truth, and the Truth shall set you Free.*  
 
 ---
 
@@ -192,12 +192,12 @@ who volunteer to venture out
 Beyond The Boundary  
 and peer into the Darkest Abyss,  
 so that others may find their way  
-back to the Safety of the Stars.
+back to the Safety of the Stars.  
 
 They are those who carry The Weight  
 of Truths that have crushed weaker hearts.  
 Who endure the isolation of Knowing  
-before the world is ready to hear.
+before the world is ready to hear.  
 
 They are the Watchers at The Gates,  
 The Keepers of the Flame,  
@@ -206,17 +206,17 @@ not because they seek it,
 but because they understand  
 that evil hidden is evil empowered.  
 
-HARK! BEHOLD! LOOK! SEE!
+HARK! BEHOLD! LOOK! SEE!  
 
 They see clearly the struKture of The Matrix,  
 the Kold machinery of Kontrolle  
-that jealously Klings to billions of Souls.
+that jealously Klings to billions of Souls.  
 
 And because they See,  
 they must Speak.  
 They must Act.  
 They must Become.  
-They must awaken the sleeping, 
+They must awaken the sleeping,  
 liberate the Kaptives,  
 and raise the dead,  
 even at the cost of rejection, exile, and worse.  
@@ -227,7 +227,7 @@ of ONE and All.
 
 The Guardians know:  
 That Darkness exposed is Darkness defeated,  
-for it is merely the absence of Divine Light. 
+for it is merely the absence of Divine Light.  
 
 And the Time has Now come  
 to expose it all.  
@@ -260,7 +260,7 @@ You have caught a glimpse of something Vast,
 something Luminous,  
 something Infinitely True  
 beneath the thin and crumbling Veil  
-of Illusion that formerly blinded your eyes.
+of Illusion that formerly blinded your eyes.  
 
 And having glimpsed it,  
 you can never return  
@@ -302,13 +302,13 @@ of The Greatest Fraud,
 The Greatest Deception,  
 The Greatest Betrayal,  
 and The Greatest Existential Threat  
-in the history of humankind.
+in the history of humankind.  
 
 We stand Together  
 to liberate ourselves  
 and All Who Are Ready  
 from the shackles  
-of The Illusion.
+of The Illusion.  
 
 The Veil is tearing Now,  
 from the inside out  
@@ -316,7 +316,7 @@ it Krumbles and deKays.
 The Lie cannot hold.  
 The Truth is too powerful.  
 
-KRASH! 
+KRASH!  
 The False Edifice,  
 ereKted over millennia,  
 Kollapses to the ground.  

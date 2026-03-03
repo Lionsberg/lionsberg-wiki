@@ -16,4 +16,3 @@ Forward to [[Vision, Non-Propositional Knowledge, and Spirit]]
 Back to [[Waking Up, Paying Attention, And Listening]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

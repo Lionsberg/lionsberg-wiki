@@ -31,7 +31,7 @@ The [[Central Animating Spirit]] of the Universe is that which rises [[Above The
 - [[The Drive Towards Exploration and Expansion]]  and [[The Drive Towards Survival and Self-Preservation]] 
 - [[The Drive to Expand Beyond The Boundary]] and [[The Drive to Build and Remain Within The Boundary]]   
 
-____
+____  
 Notes: 
 
 When we [[Fear]] and retreat into one side of an Apparent Polarity, we fall off The Line / The Tip of the Needle and end up reaping that which we fear. 
@@ -39,4 +39,3 @@ When we [[Fear]] and retreat into one side of an Apparent Polarity, we fall off 
 - Too much decentralization reaps chaos reaps totalitarian control / order 
 - Too much centralization / control reaps totalitarian order reaps chaos 
 - The [[Walls of Self-Preservation]] we build today become [[Walls of Self-Imprisonment]] tomorrow.  
-

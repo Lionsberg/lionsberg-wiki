@@ -22,9 +22,9 @@ A metaphor was established to reflect that the [[Whole]] needed to operate as if
 	- purpose and responsibility statement
 	- establish the initial team
 	- articulate and design
-		governance
-		tradecraft
-		training
+		governance  
+		tradecraft  
+		training  
 - gradually operationalize the sovereign
 - identify and acquire stakeholders
 - become a guild
@@ -32,4 +32,3 @@ A metaphor was established to reflect that the [[Whole]] needed to operate as if
 
 ## Threshold of Need
 We anticipate continually having more needs than we can pursue during each 90 day [[Seasonal Quest]]. This requires a system to [[Prioritize The Issues]] so they can be addressed in the [[Wise Right]] order. 
-

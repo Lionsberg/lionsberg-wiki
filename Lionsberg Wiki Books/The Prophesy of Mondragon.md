@@ -1,18 +1,18 @@
 # The Prophesy of Mondragon
 
-It has been said that every [[Story]] is a [[Prophesy]] of something even greater that is possible. 
+It has been said that every [[Story]] is a [[Prophesy]] of something even greater that is possible.  
 
-In 2018 and 2019, as we searched the world for alternative ways to govern our [[Selves]], we took two week long trips to [[Mondragon]] with the leading professor in the US and groups of graduate students to learn from the decades of experience, success, and struggle that resulted in the co-creation of one of the most successful co-operative economies in the world. 
+In 2018 and 2019, as we searched the world for alternative ways to govern our [[Selves]], we took two week long trips to [[Mondragon]] with the leading professor in the US and groups of graduate students to learn from the decades of experience, success, and struggle that resulted in the co-creation of one of the most successful co-operative economies in the world.  
 
-The [[LIONSBERG System]] seeks to honor the wisest principles, values, and examples of what is working well in the Mondragon Experience, while attempting to step beyond it towards a [[New Human Operating System]] that could be offered to all 10 billion humans during the [[10 Year Grand Strategy]]. 
+The [[LIONSBERG System]] seeks to honor the wisest principles, values, and examples of what is working well in the Mondragon Experience, while attempting to step beyond it towards a [[New Human Operating System]] that could be offered to all 10 billion humans during the [[10 Year Grand Strategy]].  
 
-Here is the Story of Mondragon as a example of what is possible in every bioregion and locality of the world. 
+Here is the Story of Mondragon as a example of what is possible in every bioregion and locality of the world.  
 
 ## The Story 
 
-Historically, life in the Mondragon region was dominated by a few rich industrialists, who paid the workers little and provided only minimal basic services. 
+Historically, life in the Mondragon region was dominated by a few rich industrialists, who paid the workers little and provided only minimal basic services.  
 
-A priest name Jose Maria Arizmendiarietta began advocating for change. 
+A priest name Jose Maria Arizmendiarietta began advocating for change.  
 
 - 1936 to 1939 - Civil War. A time of deep strife and division.  
 - In 1943, [[Arizmendi]] raised money from the local townspeople to start a school. 
@@ -71,21 +71,21 @@ A priest name Jose Maria Arizmendiarietta began advocating for change.
 
 ## Transformation From The Bottom Up
 
-The core idea is the transformation of the world from the bottom up. 
+The core idea is the transformation of the world from the bottom up.  
 
-To do that, you have to create [[New People]]. 
+To do that, you have to create [[New People]].  
 
-Transformed People -> Transformed Society. 
+Transformed People -> Transformed Society.  
 
-The primary way to elevate and transform humanity is through meaningful work and enlightening education. 
+The primary way to elevate and transform humanity is through meaningful work and enlightening education.  
 
-An integrated paradigm of Economic, Social, and Personal development in service to humanity. 
+An integrated paradigm of Economic, Social, and Personal development in service to humanity.  
 
-Mondragon is not a religious organization, however [[Arizmendi]] was a priest and placed a spiritual foundation underneath all that was built. 
+Mondragon is not a religious organization, however [[Arizmendi]] was a priest and placed a spiritual foundation underneath all that was built.  
 
 ## Self Governing, Self Sustaining, Self Replicating Groups and Teams 
 
-As transformed people begin to collaborate to transform their lives and their world, the basic principle emerges of [[Self-Governing, Self-Sustaining, and Self-Replicating]] groups and teams, in a blended ecosystem of for-profit and non-profit organizations. 
+As transformed people begin to collaborate to transform their lives and their world, the basic principle emerges of [[Self-Governing, Self-Sustaining, and Self-Replicating]] groups and teams, in a blended ecosystem of for-profit and non-profit organizations.  
 
 ## Community Based Sense Making 
 
@@ -431,7 +431,7 @@ As transformed people begin to collaborate to transform their lives and their wo
 - Co-operatively run dinner clubs  
 - Local, organic, regenerative agriculture  
 
-___
+___  
 ## Misc Learnings and Sayings
 
 - Education takes time - [[Sirimiri]] - [[Fireside Chats]] - daily sermons 
@@ -498,7 +498,7 @@ ___
 	- If something is not clear, it is because we were not persuasive, passionate, convincing, etc. 
 
 
-____
+____  
 ## Misc. Notes 
 
 ### Education
@@ -575,4 +575,4 @@ ____
 		- Like a roadway. Basic infrastructure. Basic security. 
 
 
-[[Mondragon People]]
+[[Mondragon People]]  

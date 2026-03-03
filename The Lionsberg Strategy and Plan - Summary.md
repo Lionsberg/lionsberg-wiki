@@ -79,7 +79,7 @@ The stewardship-based economic model seeks to realign resources and priorities, 
 
 In the Lionsberg economic model, rewards and incentives are designed to encourage purpose-driven actions that contribute to the well-being of people and the planet, and the growth of The Movement and The Game. The Game recognizes and celebrates the efforts of individuals, businesses, and organizations that prioritize long-term social and environmental impact over short-term financial gain, fostering a culture where purpose-driven actions are valued and rewarded. By creating an economic system that incentivizes stewardship, collaboration, and the pursuit of shared value, the Great Game of Lionsberg aims to inspire a global movement towards a more just, regenerative, and prosperous world for all. 
 
-[[Left Off Here]] 
+[[Left Off Here]]  
 
 ### V. The Citizen-Led Governance Model
 

@@ -4,6 +4,6 @@ When any suffer, All suffer. True Love always and universally relieves the suffe
 
 ___
 
-Forward to [[Meditation 20]]        
+Forward to [[Meditation 20]]  
 Back to [[Meditation 18]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

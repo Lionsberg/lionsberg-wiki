@@ -15,6 +15,3 @@ It is of course, the Deepest Thing. The Fundamental Tone. The [[ONE]].
 Over the next 50 days, We are going to begin an intensive process of tuning and transforming Our Spirit, Mind, and Body to prepare for what lies ahead. 
 
 If you would like to follow along, Join Us. 
-
-
-

@@ -274,7 +274,7 @@ She is torn between:
 | “Your suffering glorifies God.”                 | “Your liberation and healing glorifies God.”                               |
 | “Stay. Endure. Be faithful.”                    | “Rise. Walk. Fly. Soar. Be free.”                                          |
 
-She asks herself: 
+She asks herself:  
 - *What kind of God would ask me to stay in a covenant that destroys my soul?*  
 - *What kind of a Father would desire for me to be treated in this way?*  
 - *Does not honor, respect, and authority have to be earned?*  

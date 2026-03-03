@@ -245,8 +245,3 @@ Jordan left this as a [[Work In Progress]].
 
 
 ### [[29 The Universal Movement Towards The Goal]]  
-
-
-
-
-

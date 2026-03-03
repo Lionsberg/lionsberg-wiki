@@ -6,7 +6,7 @@ _Into a coherent starting point_
 _For our shared adventure_  
 _Into the extraordinary times ahead_  
 
-___
+___  
 
 J's violent death in August  
 Threw a disorienting discontinuity  
@@ -34,7 +34,7 @@ And **_It depends upon you_**
 _Please accept the following invitation and offering_  
 _Only if it resonates and you feel called_  
 
-____
+____  
 
 On its Quest towards Destiny  
 Humanity now faces a challenge  
@@ -57,7 +57,7 @@ The vast majority of timelines
 Cascade towards extinction level events  
 And centuries of chaos and tyranny  
 
-**_But We do not choose those Futures_** 
+**_But We do not choose those Futures_**  
 
 Many of Us are here on Earth _for this_  
 And We can and will prevail _together_  
@@ -73,7 +73,7 @@ Of **The Chasm** that stands between
 **Where We Are** and **Where We Are Going**  
 And the considerable forces that stand in **Our Way**  
 
-____
+____  
 
 As We approach The Chasm  
 And ponder the impossible expanse  
@@ -107,11 +107,11 @@ Over the entrance to **The Bridge**
 >_Towards Heaven on Earth_  
 >_And Beyond_  
 
-____
+____  
 
 When you are ready  
 Please reach out  
 We would be delighted  
 To show you the Way  
 
-_**You are not alone**_
+_**You are not alone**_  

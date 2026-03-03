@@ -31,5 +31,3 @@ After centuries of abuse by the Old Authorities, when We approach the ancient te
 As humanity works to sort out the millennia of endarkenment it has been enslaved under, it therefore must approach with New Eyes many of the texts, interpretations, and narratives it previously accepted from the Old Authorities as sacred. 
 
 It will be likely be shocked at what it discovers. 
-
-

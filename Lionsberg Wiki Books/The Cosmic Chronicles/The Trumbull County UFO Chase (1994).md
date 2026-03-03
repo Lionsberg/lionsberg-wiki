@@ -118,4 +118,3 @@ After nearly an hour of pursuit, the object reportedly gained altitude and vanis
 - **Documentaries:**
     
     - _UFOs: The Trumbull County Incident_ – A detailed exploration of the case and its implications.
-

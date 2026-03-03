@@ -14,7 +14,7 @@ ___
 
 ## Function
 
-Lagun Aro provides:
+Lagun Aro provides:  
 - Retirement pensions
 - Healthcare coverage
 - Disability benefits

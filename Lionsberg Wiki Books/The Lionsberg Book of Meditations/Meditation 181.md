@@ -5,5 +5,5 @@ Ignorant children learn very small things, and think they know. The Wise learn v
 ___
 
 Forward to [[Meditation 182]]  
-Back to [[Meditation 180]]    
+Back to [[Meditation 180]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

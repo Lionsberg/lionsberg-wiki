@@ -20,13 +20,13 @@ We can trace these genetics and bloodlines all the back to the ancient accounts 
 
 This reptilian extraterrestrial race has been controlling the planet for at least 2,500 years, manipulating and exploiting humanity, and ensuring its genetically compatible bloodlines remain in the seats of power as the bankers, presidents, prime ministers, and kings.
 
-____
-Here, Credo Mutwa, one of the last great African Sangomas, a keeper of the ancient wisdom and stories, reveals depths normally reserved for only the deepest initiates. 
+____  
+Here, Credo Mutwa, one of the last great African Sangomas, a keeper of the ancient wisdom and stories, reveals depths normally reserved for only the deepest initiates.  
 ____
 
 Interview Part I: https://www.youtube.com/watch?v=FXOuppaH5Mo
 
-Interview Part II: 
+Interview Part II:  
 ___
 
 
@@ -83,7 +83,7 @@ And there was a big rubbish starting again, because this man did not know the la
 
 When our people were given language they found to their horror that **they had lost much of their mental powers**, they had paid a terrible price. 
 
-But the [[Chitauri]] were now the masters of human beings. They made them the human beings to go into holes in the ground and to mine metal; gold, copper,
+But the [[Chitauri]] were now the masters of human beings. They made them the human beings to go into holes in the ground and to mine metal; gold, copper,  
 tin, all kinds of metal the [[Chitauri]] forced our people to mine. 
 
 And the people were very unhappy because they couldn't uh they couldn't cope with the new sexual differences which were there now between men and women. 
@@ -96,24 +96,24 @@ One day a human named Meuru challenged the great chief of the [[Serpent People]]
 
 He ran away but was captured and brought to the village, where the chief of the [[Chitauri]] said: "You think too much you wretched little human being." Now Umbaba (the chief) had a terrible nail in one of his hands, a claw, and he drove the claw into poor Meuru's nostril making a terrible hole into his brain, and he started drinking Mueru's brain and then he threw away the corpse. 
 
-39:55 Now to this day we believe that the people the [[Chitauri]] people, they eat human brains; and strangely enough scientists have found skulls where the human brain has been removed and eaten by someone or something. 
-___
+39:55 Now to this day we believe that the people the [[Chitauri]] people, they eat human brains; and strangely enough scientists have found skulls where the human brain has been removed and eaten by someone or something.  
+___  
 Notes
 
 - Telepathy was the key form of communication before the [[Chitauri]] brought speech. 
 - Parallels between the story of African speech being confused and causing chaos and division, and the [[The Story of the Tower of Babel]] in the Jewish scriptures.
-___
-41:29 Even today, in South Africa, black people prefer to speak to each other in English if they belong to different tribes... and have even created a lingua franca which is a mixture... to bridge the incredible language gap which exists between black people in South Africa. 
-___
+___  
+41:29 Even today, in South Africa, black people prefer to speak to each other in English if they belong to different tribes... and have even created a lingua franca which is a mixture... to bridge the incredible language gap which exists between black people in South Africa.  
+___  
 46:37 Picture of a [[Chitauri]]. 
 
 You white people say that there are alien beings on this Earth. No, you are wrong. The Earth in which we live has produced 24 different races during its long existence. 
 
 This is how each down looks like it stands about 11 feet high. It is a very slender being which seems not to have a bone structure. Its fingers have no joints, they are more as if the bones in here were flexible. 
 
-Some of the [[Chitauri]] have got three claws, with a thumb, some have got six claws, with a thumb. 
-___
-Note that the hybrid offspring, the [[Nephilim]], were described as six fingered giants.
+Some of the [[Chitauri]] have got three claws, with a thumb, some have got six claws, with a thumb.  
+___  
+Note that the hybrid offspring, the [[Nephilim]], were described as six fingered giants.  
 ___
 
 47:52 And some of the [[Chitauri]]s have got horns on their head. 
@@ -130,15 +130,15 @@ And the very high [[Chitauri]], like their king (Mubaba?), they have got a very 
 
 49:56 Now I wonder, I just wonder, where these producers get their information from. 
 
-And in in one strange film, which my student called me to come and watch, the film called Stargate 2, and in that film there was a creature, a very slimy cream-colored creature, with a heavy wrinkles on its face, **it was a spitting likeness of** (a name that sounds something like Mubaba Samahongo), **the terrible emperor of the [[Chitauri]].** 
-____
+And in in one strange film, which my student called me to come and watch, the film called Stargate 2, and in that film there was a creature, a very slimy cream-colored creature, with a heavy wrinkles on its face, **it was a spitting likeness of** (a name that sounds something like Mubaba Samahongo), **the terrible emperor of the [[Chitauri]].**  
+____  
 Interviewer: I've been all over the world having people give me descriptions of seeing reptilian-type figures, particularly peoples in positions of power in the world, **changing into a reptilian figure and coming back again**, and what they describe seeing is exactly what the knowledge of ancient Africa talks about... The eyes is something that keeps coming up and being described. Tell me about the eyes of the [[Chitauri]]. 
 
-____
-51:49 A warrior has got eyes like a snake. These eyes are yellowish with split pupils and they glow in darkness. So if a warrior
+____  
+51:49 A warrior has got eyes like a snake. These eyes are yellowish with split pupils and they glow in darkness. So if a warrior  
 [[Chitauri]] is hiding in a cave, you can see its eyes clearly. 
 
-But a royal [[Chitauri]] has got three eyes. It's got the yellow eyes which glow in a strange almost ice-like way, like jewels, like certain types of yellow jewels, and then they have got an eye in the center of their forehead. An eye which doesn't close
+But a royal [[Chitauri]] has got three eyes. It's got the yellow eyes which glow in a strange almost ice-like way, like jewels, like certain types of yellow jewels, and then they have got an eye in the center of their forehead. An eye which doesn't close  
 up down like a normal eye does, but which closes from side to side.
 
 Now this eye is the eye that kills, because it can knock a man down just by the fire; the glare that comes out of it. 
@@ -147,7 +147,7 @@ Now this eye is the eye that kills, because it can knock a man down just by the 
 
 53:15 In fact, Mubaba?, the emperor of the of the [[Chitauri]] who is said to be still alive today, has got a central eye... his other two eyes were stitched shut... 
 
-___
+___  
 53:49 I would to share a little thing with you, and it is this:
 
 ***The best way to protect an evil thing is to deny its existence.*** 
@@ -174,7 +174,7 @@ And I was looking for this herb when all of a sudden a bright blue mist fell all
 
 And then the next moment I was in what appeared to be a metal lined tunnel, a caving tunnel, and I was lying on what looked like a work bench; a very large workbench of some kind... very brightly polished. 
 
-And there I was lying with my trousers missing and only my khaki shirt, when i saw again through what appeared to be like blue mist a number of moving objects which at first I thought were dolls... and these objects were moving towards me. O noticed with mild surprise that they were very thin, short human-like creatures, with a very very large melon shaped heads. The creatures had
+And there I was lying with my trousers missing and only my khaki shirt, when i saw again through what appeared to be like blue mist a number of moving objects which at first I thought were dolls... and these objects were moving towards me. O noticed with mild surprise that they were very thin, short human-like creatures, with a very very large melon shaped heads. The creatures had  
 no noses like human as human beings have. They had only small little holes on either side of where the nose would be. And their mouths were like knife cuts at the bottom of their faces. And these creatures were coming towards me. In color they were grey... and they wore silvery gray garments which reached up to their necks and up to their wrists. I couldn't see whether they were wearing boots or not at that time. And while I was looking at these creatures I suddenly was aware that something was above me standing there, and I looked up straight into the face of one of them, a much taller one than the others. And this creature was wearing a garment like a tight fitting overalls, without any patterns or anything, which reached up to its neck but its wrists were bare. I noticed that the creature had very long fingers, each of his fingers had an extra joint, and it ended in a claw, a black claw like that of a a chicken or a certain kind of a bird, and that its thumb was not here (in the human position), but here (in the middle of the palm). 
 
 And this thing was standing above my head and looking down at me, and I was looking at its eyes, which were very strange indeed. It was as if it was wearing plastic goggles over its eyes. I could see its eyes inside these tinted goggles. And it had holes on either side here (at the nose), but it had no nose as I have. And its jaws were very small, and its mouth was a slit, with tiny little scale like things where its lips should be. And the creature carried the horrible smell on itself. I can't describe that smell. It was a metallic chemical smell, which seemed to combine the smell you would smell when somebody is burning brass or copper, and a very ugly chemical smell; these two smells combined. And this creature was looking down at me, I was frightened but I could not move. 
@@ -215,38 +215,38 @@ African tradition says that the [[Chitauri]], they engaged God himself in a terr
 
 But we are told that the [[Chitauri]] fatten on the energy that we human beings give them. They make us to fight each other, and when the whole land is drowning in death and fear and terror, when hundreds and hundreds of people are angry and afraid, the [[Chitauri]] get fed, because they eat that, what we call the Dark Power, which is brought about when human beings destroy the planet on which they live. They feed on very, very intense human emotion. 
 
-We are told that the [[Chitauri]] will eat energy which is generated when hundreds of human minds, or one human mind, starts thinking at certain levels... wavelengths... 
-____
-The [[The Greys]] from this (and most) abduction stories, may be associated with [[The Ant People]]. 
-____
+We are told that the [[Chitauri]] will eat energy which is generated when hundreds of human minds, or one human mind, starts thinking at certain levels... wavelengths...  
+____  
+The [[The Greys]] from this (and most) abduction stories, may be associated with [[The Ant People]].  
+____  
 The so-called grey aliens are actually the lackeys and the servants of the [[Chitauri]]. If you see a [[Chitauri]], and you see [[The Greys]], there is actually very little racial difference. In fact I will even go so far as to say this: that these creatures [[The Greys]] are actually the offspring of the [[Chitauri]]. 
 
-The way they gather substances from human beings and from animals... they are the forerunners of the [[Chitauri]] in any place. An if you are very close to one of these creatures and you look into its goggle-like eyes, you will see round eyes beyond the google-like eyes, and these eyes are the creatures real eyes. 
-____
-1:36:22 Now let me tell you, there is in (visutu?) a very strange mountain called Leride, and on this mountain very amazing things happen after every 10 year or 20 year period. Now not so long ago an african farmer found an object near that mountain, an object which had crashed, and he was driving his tractor and he saw this strange object lying on in the ground with tiny little balls of lightning
-racing all around its its edge. And the african walked up to that object and when he wanted to touch it, a strange power struck him and sent him sprawling on his back to the ground. The african got onto his tractor and got out of there. What the african had seen had been a crashed ufo, a flying saucer. He described it
-very amazingly. And he said that after a few days there appeared what he said was a huge removal van, very big, accompanied by soldiers wearing black black uniforms, goggles, and berets. And these soldiers lifted the object into the van and the then drove away. But when the people came to the site, they saw that something had fallen there, but they saw no heavy tires tire tracks of the vehicle that the man had described. Something had crashed there, had been removed, but there were no wheel marks of the heavy vehicle he had described. 
-____
+The way they gather substances from human beings and from animals... they are the forerunners of the [[Chitauri]] in any place. An if you are very close to one of these creatures and you look into its goggle-like eyes, you will see round eyes beyond the google-like eyes, and these eyes are the creatures real eyes.  
+____  
+1:36:22 Now let me tell you, there is in (visutu?) a very strange mountain called Leride, and on this mountain very amazing things happen after every 10 year or 20 year period. Now not so long ago an african farmer found an object near that mountain, an object which had crashed, and he was driving his tractor and he saw this strange object lying on in the ground with tiny little balls of lightning  
+racing all around its its edge. And the african walked up to that object and when he wanted to touch it, a strange power struck him and sent him sprawling on his back to the ground. The african got onto his tractor and got out of there. What the african had seen had been a crashed ufo, a flying saucer. He described it  
+very amazingly. And he said that after a few days there appeared what he said was a huge removal van, very big, accompanied by soldiers wearing black black uniforms, goggles, and berets. And these soldiers lifted the object into the van and the then drove away. But when the people came to the site, they saw that something had fallen there, but they saw no heavy tires tire tracks of the vehicle that the man had described. Something had crashed there, had been removed, but there were no wheel marks of the heavy vehicle he had described.  
+____  
 1:47:30 Yes people who say that these things don't existed better think again. They are tangible. They are smellable. And furthermore they are edible if you are willing to take the risk. 
 
-In africa we have an ancient custom whose existence many people deny today, that anything that claims to be a god should be eaten.
-___
-1:50:26 We human beings are holier and more wonderful than we think we are, and i feel we lost something at some time in the course of our development or shall i say in the course of our manipulation. 
-___
+In africa we have an ancient custom whose existence many people deny today, that anything that claims to be a god should be eaten.  
+___  
+1:50:26 We human beings are holier and more wonderful than we think we are, and i feel we lost something at some time in the course of our development or shall i say in the course of our manipulation.  
+___  
 (These grey extraterrestrials don't actually really look like that - they're almost in disguise) 
 
-1:51:09 Yes they are and i will tell you what. Grey aliens have died in various parts of africa. They have been killed, and they are very very quick to recover the bodies of their friends, which have fallen out of their crashed spacecraft. But sometimes african [[Sangoma]]s steal these bodies before they can be recovered, and believe me i have heard and I have seen that butchering the corpse of one of these creatures is extremely hard work. What you think is the skin of the creature is actually a tight fitting costume that the creature is wearing. Under this under this grey costume the creature is pinkish white, like a freshly skinned animal. And its eyes are round with split pupils. These are goggles which the creature is wearing. Now how do i know this? In order to dismember a creature like this, incidentally we call them [[Mantindane]] in Zulu, which means the tormentors, the torturers, in order to dismember a creature like this, you need a brand new axe from the trading store, a heavy axe, sharpened to a razor's edge in order to cut through the creatures skin. The creatures skin is not adhering to the flesh... there is a gap between the creature's flesh and its skin. This is a material, and not a skin, so the creature is actually wearing two garments. It's wearing
+1:51:09 Yes they are and i will tell you what. Grey aliens have died in various parts of africa. They have been killed, and they are very very quick to recover the bodies of their friends, which have fallen out of their crashed spacecraft. But sometimes african [[Sangoma]]s steal these bodies before they can be recovered, and believe me i have heard and I have seen that butchering the corpse of one of these creatures is extremely hard work. What you think is the skin of the creature is actually a tight fitting costume that the creature is wearing. Under this under this grey costume the creature is pinkish white, like a freshly skinned animal. And its eyes are round with split pupils. These are goggles which the creature is wearing. Now how do i know this? In order to dismember a creature like this, incidentally we call them [[Mantindane]] in Zulu, which means the tormentors, the torturers, in order to dismember a creature like this, you need a brand new axe from the trading store, a heavy axe, sharpened to a razor's edge in order to cut through the creatures skin. The creatures skin is not adhering to the flesh... there is a gap between the creature's flesh and its skin. This is a material, and not a skin, so the creature is actually wearing two garments. It's wearing  
 a completely skin-tight garment which covers its entire body, and it is wearing an overall along these lines... To cut open a [[Mantindane]] you need a very sharp knife, and you have to be a strong person even to reach its flesh,  but once you have cut through the close fitting cover you can just open up the whole thing and see the dead creature's flesh... the blood vessels are very close to the surface. 
 
 1:55:02 Not so long ago right here in south africa, several hundred school children... were terrorized by a creature they called pinkie pinky, a creature which looked as if it had been skinned alive. That was a [[Mantindane]] without its... costume. 
 
-___
+___  
 1:56:01 Let me tell you that over this the last 100 years or so [[The Men In Black]] has become westernized. In old africa, if you killed a [[Mantindane]]... you were visited by terrible beings, who wore long black robes made of animal skin, and deep foods over their heads and these creatures used to wear white masks with very very terrible looking black eyes painted on them. They were called (unknown Zulu name), "the beasts of the blanket". And may i tell you that these terrible beings, our african version of the men in black, used to play an important part in the choosing of certain kings in South Africa. That is just one of the stories that i wish to tell you in greater detail. Whenever you have harmed a [[Mantindane]], you received a visit from [[The Men In Black]]. 
 
-Provides the example of an encounter of his uncle with a [[Mantindane]] and subsequently [[The Men In Black]]. 
-___
-1:59:48 The richer we become the more we behave as the [[Chitauri]] are said to behave. Some of us when they acquire a lot of wealth start consuming
-metals and other minerals that they really do not need. Which however if you study the story of the [[Chitauri]] we are told that the [[Chitauri]] will use these minerals and metals as medicine. We are told that the [[Chitauri]] when they get sick
+Provides the example of an encounter of his uncle with a [[Mantindane]] and subsequently [[The Men In Black]].  
+___  
+1:59:48 The richer we become the more we behave as the [[Chitauri]] are said to behave. Some of us when they acquire a lot of wealth start consuming  
+metals and other minerals that they really do not need. Which however if you study the story of the [[Chitauri]] we are told that the [[Chitauri]] will use these minerals and metals as medicine. We are told that the [[Chitauri]] when they get sick  
 smear their bodies with gold dust which gets absorbed into their skins, and they become all right. 
 
 May i point out it was once the custom of the of the munumutapa? kings of zimbabwe, the men who built the zimbabwe (unknown), that on certain rising of (the day star) the priest king would be smeared from head to foot with gold dust, and sometimes he was ritually sacrificed on the top of the wall of the zimbabwe fortress. 
@@ -255,11 +255,11 @@ And to my amazement when i visited South America, I found that the ancient mayan
 
 Interviewer: And I know from my own research that the maya people and the central and south american people have massive accounts and legends of the same reptilian "gods". 
 
-Yes. The the thing is if you read the ancient stories of our people, or you listen to them spoken by the storytellers, you find that we human beings are somehow
+Yes. The the thing is if you read the ancient stories of our people, or you listen to them spoken by the storytellers, you find that we human beings are somehow  
 programmed to alter the world in which we live, and render it uninhabitable to ourselves. We are told say by the creoles of Nigeria, by the creoles of the Dogon people, that at one time a few thousand years ago almost the entire sahara desert was not a desert at all. In fact photographs have been taken of the certain parts of the sahara from high up which show ancient irrigation systems where there is now wind-blown desert. 
 
-Question: are we being used as instruments for the destruction of our own species? I say yes. 
-___
+Question: are we being used as instruments for the destruction of our own species? I say yes.  
+___  
 The Necklace of the Mysteries is really a book, which tells 12 different stories. 
 
 It is old, but not as old as the green face that I've just shown you (ancient artifact). The [[Chitauri]] face is said to be over 7,000 years old. 
@@ -272,7 +272,7 @@ Now this necklace enshrines one of the oldest and the greatest mysteries in our 
 
 There isn't a tribe... anywhere in southern, central, western, and eastern africa, which doesn't claim that kingship was a system that was brought down from the sky by gods, who either travelled in (slings?), as the pygmies of zaire have said, or who came down in huge vessels which were shaped like bows, vessels made of gold, vessels bigger than mountains. 
 
-The Zulu people believed that they originated from space and their name
+The Zulu people believed that they originated from space and their name  
 Zulu does not mean sky, but rather interplanetary space, and the word Zulu also has to do with traveling... a traveler... a voyager... somebody moving from place to place.
 
 2:11:33 Now i ask you how did a land bound people like the zulus know that you could travel in space? ... Zulu people knew that the earth was a sphere, and that it was the sun that was still in space, and the various planets orbited around it, i will show you on the other necklace of knowledge. 
@@ -283,54 +283,54 @@ Zulu does not mean sky, but rather interplanetary space, and the word Zulu also 
 
 2:17:51 The eye there on that hand that represents the terrible eye of the [[Chitauri]]' the eye which sees everything; the eye which knows everything; it is said that when a [[Chitauri]] dies he passes his dead eye onto his next of kin, and to the [[Chitauri]] an eye is a very very powerful symbol.
 
-___
-(The all seeing eye on the dollar, put on their by the illuminati, via President Franklin D Roosevelt)
-___
+___  
+(The all seeing eye on the dollar, put on their by the illuminati, via President Franklin D Roosevelt)  
+___  
 (The all-seeing eye of the illuminati represents the third eye of the [[Chitauri]])
 
-Yes. I am really sure of this... In africa even ordinary human eyes are regarded as very powerful devices of magic. if an african shows you respect he mustn't stare at you, but he must stare at a point beyond one of your shoulders. Now we call this (unknown zulu word), which means "deny me your eyes". We believe that when emotionally aroused, and ordinary human being can inflict great damage on another human being by **the unseen fires that emanate from one's eyes**. We believe that we a a warrior must never allow his dying enemy to look at him. For example, when a zuru was killing an enemy he used to cover that enemy's face with his shield to prevent the enemy looking upon him with his eyes and putting a curse upon him.
-___
+Yes. I am really sure of this... In africa even ordinary human eyes are regarded as very powerful devices of magic. if an african shows you respect he mustn't stare at you, but he must stare at a point beyond one of your shoulders. Now we call this (unknown zulu word), which means "deny me your eyes". We believe that when emotionally aroused, and ordinary human being can inflict great damage on another human being by **the unseen fires that emanate from one's eyes**. We believe that we a a warrior must never allow his dying enemy to look at him. For example, when a zuru was killing an enemy he used to cover that enemy's face with his shield to prevent the enemy looking upon him with his eyes and putting a curse upon him.  
+___  
 (People who have witnessed reptilian and satanic ritual sacrifice, know that at the point of sacrifice, at the point of death, these reptilians stare into the eyes of the person dying...)
 
-We have got a ritual, which covers many (fields), a ritual which is called *taking away the soul*, where when a king is dying and he is fighting to pass on his knowledge and his courage to his successor, he would demand that the successor should stare heavily into the dying king's eyes. And also when a creature is being sacrificed in africa, whether it's a human being or an animal, that creature must be stared at by the sacrificer so that its spiritual characteristics
-are drank in by the one sacrificing. I have seen many times on hunting expeditions in kenya tanzania and other parts of africa when a lion is just about to breathe its last, one of the hunters will stare into the lion's eyes until the lion's eyes start glazing in death. It is drinking in the soul. We believe that the eyes are not just for seeing that they are for taking as well. 
-___
+We have got a ritual, which covers many (fields), a ritual which is called *taking away the soul*, where when a king is dying and he is fighting to pass on his knowledge and his courage to his successor, he would demand that the successor should stare heavily into the dying king's eyes. And also when a creature is being sacrificed in africa, whether it's a human being or an animal, that creature must be stared at by the sacrificer so that its spiritual characteristics  
+are drank in by the one sacrificing. I have seen many times on hunting expeditions in kenya tanzania and other parts of africa when a lion is just about to breathe its last, one of the hunters will stare into the lion's eyes until the lion's eyes start glazing in death. It is drinking in the soul. We believe that the eyes are not just for seeing that they are for taking as well.  
+___  
 On the constellation of Orion. 
 
-People throughout africa believe that the original human beings either came from orion, or the gods for whom read the [[Chitauri]] and many other alien nasties, actually come from that constellation we call it the constellation of (zulu word), "the one who travels very very far away". And we call this constellation also the constellation (zulu word), "the giant who was sent by God to this earth to create the first human beings." (Zulu name) was accompanied by a male lion with a very black mane, and he was also accompanied by his dog, and he traveled throughout the world. He first created the first race of human beings and they were so stupid in appearance that he buried them alive in a cave. And then he created the next race of human beings which was clever, and we are the descendants of that race. 
-____
+People throughout africa believe that the original human beings either came from orion, or the gods for whom read the [[Chitauri]] and many other alien nasties, actually come from that constellation we call it the constellation of (zulu word), "the one who travels very very far away". And we call this constellation also the constellation (zulu word), "the giant who was sent by God to this earth to create the first human beings." (Zulu name) was accompanied by a male lion with a very black mane, and he was also accompanied by his dog, and he traveled throughout the world. He first created the first race of human beings and they were so stupid in appearance that he buried them alive in a cave. And then he created the next race of human beings which was clever, and we are the descendants of that race.  
+____  
 On the symbol of the "star of David" (only used recently for that purpose)
 
-2:25:02 There are several interpretations of this very powerful magical symbol. We say that there are actually two universes living side by side: a female universe, which is our universe, and a male universe. And to sanuses, these two triangles, a triangle facing downward represents the descending female principle and a triangle going upwards represents the rising male principle. It is a symbol of the unity of the feminine and the masculine, it is in fact the symbol a very important symbol of duality. 
-____
+2:25:02 There are several interpretations of this very powerful magical symbol. We say that there are actually two universes living side by side: a female universe, which is our universe, and a male universe. And to sanuses, these two triangles, a triangle facing downward represents the descending female principle and a triangle going upwards represents the rising male principle. It is a symbol of the unity of the feminine and the masculine, it is in fact the symbol a very important symbol of duality.  
+____  
 On shapes of spacecraft
 
 2:26:21 You see there are various shapes. There are spacecrafts which are shaped like boomerangs, or bows. These are very very very big. 
 
 Then there are spacecraft which are shaped like pipes, like huge pipes, roughly pointed at either end, and out of those huge pipes come these little things (dish shaped craft). Together they are carried inside to this huge pipe. 
 
-____
+____  
 On portraying a [[Chitauri]]
 
 Why are "the gods" often portrayed in other forms? 
 
 Because, it is very very very forbidden to portray a [[Chitauri]] as it really is. Only in that large green head do we see a [[Chitauri]] represented more or less as it actually is. You are not allowed to represent the sons of the python as they really are. Then you are really in trouble. If you want to talk about the [[Chitauri]], you must play with shadows, you must place an image of a [[Chitauri]] against a light and project its shadow onto the wall. 
 
-___
+___  
 There are also some good people among (the [[Chitauri]]). 
 
 According to one of the great stories they erupted a terrible war on the red world where human beings had originally been created, and this war was between men and women. Yes and in this world men and women nearly decimated each other but they were rescued by the earth mother, who sent a great (zulu word), that is a great dragon, to come out of the sky to take them into its stomach and to bring them down to, not to our world, but to a beautiful watery world near the the star of the red dog in jaimo, which the white people call Sirius (I believe he said)... there human beings were settled. But human beings started eating creatures which they found in the sea, which they thought were fishes, but which were really [[Chitauri]]... human beings, we are told, started eating the [[Chitauri]] who lived in the sea...and the [[Chitauri]] fought back against human beings they attacked them with tornadoes, they attacked them with tidal waves, and the human race was nearly wiped out. And then two brothers, two youths, took pity upon the human race and they went into the sky and looked for a great egg and they hollowed out this egg, emptied its contents out, and brought the egg to that world and loaded the surviving human beings and brought them to our world here. 
 
-We say that (the brothers) gave us the power of kingship, that he brought it out of the sky. and if you notice in many parts of africa ancient kings used to wear a wooden helmet with golden horns. It was true in west africa and it was true also in
+We say that (the brothers) gave us the power of kingship, that he brought it out of the sky. and if you notice in many parts of africa ancient kings used to wear a wooden helmet with golden horns. It was true in west africa and it was true also in  
 southern africa in the great munumu tapa empire. Yes, it's the power of the [[Chitauri]], because to a [[Chitauri]] horns are not just for goring other [[Chitauri]] as oxen do... no horns are a symbol of status, and through its horns a [[Chitauri]] only is able to communicate with human beings far across the the face of the Earth. 
 
 (So the horns were like antennae. Note the Old Testament prohibitions from the priests dealing with the Elohim from cutting the sides of their hair). 
 
 They were instruments for projecting power. 
 
-2:34:00 In fact it was said by storytellers that king (zulu word) punishes those [[Chitauri]] who show mercy to human beings by pointing at them so that both
-of their horns fall off their heads, and the [[Chitauri]] is therefore unable to direct human affairs through his or her horns. 
-____
+2:34:00 In fact it was said by storytellers that king (zulu word) punishes those [[Chitauri]] who show mercy to human beings by pointing at them so that both  
+of their horns fall off their heads, and the [[Chitauri]] is therefore unable to direct human affairs through his or her horns.  
+____  
 2:36:00 What amazes me is that now more than ever before, the devil is represented as a [[Chitauri]].
 
 What concerns me is this: that these alien creatures are about to reveal themselves, and they are making us aware of how they look like. 
@@ -343,21 +343,21 @@ And let me share this with you the group of american people who came to visit me
 
 (Endless sightings of craft and beings in that area)
 
-We are being prepared... and being prepared this way - that when we do see the
+We are being prepared... and being prepared this way - that when we do see the  
 nasties, we are not going to react to them with the fear that we would otherwise have reacted, because now what what game is someone playing? 
 
 I think that they are playing the game, whoever they are, that we should accept these beings and welcome them with open arms and make them our masters our yet again. 
 
-You see there has been a steady buildup in books, in the children's comics, and in other things of the fact that we must accept these creatures. It started with the with the film E.T., where a cute little alien creature got lost on earth fought hard
-to be accepted by human beings...
-___
-2:40:00 The chitauri, at high levels, are sometimes (beige), like white carpet soaked in dirty water. 
-___
+You see there has been a steady buildup in books, in the children's comics, and in other things of the fact that we must accept these creatures. It started with the with the film E.T., where a cute little alien creature got lost on earth fought hard  
+to be accepted by human beings...  
+___  
+2:40:00 The chitauri, at high levels, are sometimes (beige), like white carpet soaked in dirty water.  
+___  
 According to african storytellers, the [[Chitauri]] have got cold blood, they feel cold very quickly, and where they dwell under the earth, ***where the great sun god banished them***, they dwell there surrounded by great fires because their blood is cold they freeze (quickly), and so if you come across them in their caves, there are many many cooking fires lit. 
 
-(Note parallels to reptilian devil, in the underworld, surrounded by fires). 
-(Note here the direct reference to "the great sun god" prevailing in war and banishing the reptilians to the underworld). 
-____
+(Note parallels to reptilian devil, in the underworld, surrounded by fires).  
+(Note here the direct reference to "the great sun god" prevailing in war and banishing the reptilians to the underworld).  
+____  
 2:41:49 The [[Chitauri]], their eyes, terrible as they are, are so efficient that if a [[Chitauri]] would appear suddenly into the hot african sunlight, two things happened to him: his skin dries and blisters, and he goes totally blind.
 
 In fact there have been a strange race of aliens which have been seen in africa even by white people, which i think are actually [[Chitauri]], that when you run and the thing chases you, it stops immediately when a car's headlights hit and it becomes blind. 
@@ -368,8 +368,8 @@ Another thing we are told amongst our people that a [[Sangoma]] must always have
 
 We believe that Rhodesian teak, the wood which has got a strange bitter taste, is the one type of wood that is poisonous to the [[Chitauri]]. 
 
-May i point out to you that many of the trees that are being destroyed in the amazon jungle and in the south eastern asian jungles as well as in the african jungles are teak, the one wood that the [[Chitauri]] would fear. 
-___
+May i point out to you that many of the trees that are being destroyed in the amazon jungle and in the south eastern asian jungles as well as in the african jungles are teak, the one wood that the [[Chitauri]] would fear.  
+___  
 On the appearances, domed heads, and elongated skulls.
 
 2:46:44 You see we human beings tend to imitate those creatures that we call gods... this dates back thousands of years. 
@@ -392,10 +392,10 @@ The one race of the [[Chitauri]], the ones that are called [[Nommo]] by the Dogo
 
 ...and so for that matter so do the ancient priests of israel... 
 
-___
+___  
 2:55:32: There are beings who are very revered even now and they are called amanullah or amanona (manuna)... now these beings are not like beings we are told, they can change their faces, they can change their appearance, they are shape shifters. 
 
-___
+___  
 3:00:55 what was the creature which was honored by the ancient greeks in their delphic oracle? The python. 
 
 What is the creature that stands next to the figures of the goddess athena? The Python. 
@@ -414,7 +414,7 @@ No matter where you go, who are the principal characters who brought wisdom to h
 
 Creatures, part snake, and part human being. 
 
-____
+____  
 **Fuxi (伏羲) and Nüwa (女娲)**
 
 - **Fuxi**:
@@ -428,39 +428,39 @@ ____
 
 ____
 
-3:01:58 We human beings have sacrificed our dignity as a species and attributed great intellect and great glory to reptiles... why? 
-____
+3:01:58 We human beings have sacrificed our dignity as a species and attributed great intellect and great glory to reptiles... why?  
+____  
 Is there a tradition also that the royal lines of africa go back to the same source (like the European political and financial bloodlines)? 
 
 You don't have to believe me go to Rwanda and there talk to the people. there they will tell you that the founding ancestors of their dynasties were the first kings who came from the sky and they were called immanugela, the ascending ones... 
 
-Many many many african tribes believe that when the gods came down from the sky, they found human beings very very stupid, and the human beings could not
+Many many many african tribes believe that when the gods came down from the sky, they found human beings very very stupid, and the human beings could not  
 come before the gods in order to be taught. So what the gods did, and this is a story that you also find amongst the (Dogoni) people in west africa, because the the the human beings were afraid of approaching the these reptile gods, the reptile gods called bloodedly slaughtered one of their numbers and shared out its flesh with a specially gathered crowd of human beings, and these human beings then became the ancestors of our first great kings. Now said african kings jealously guarded their blood. 
 
 Royalty had to marry royalty. that was one of the strictest laws in the ancient times. Royalty intermarried with royalty. You were not allowed to take a commoner as your senior wife if you were a king. 
 
-Same for a Sangoma. 
+Same for a Sangoma.  
 ____
 
 (Miguel de la Madrid, the president of mexico at the time of george bush, said to kathy o'brien (MK Ultra victim) that a reptilian extraterrestrial race interbred with the ancient central american people because they needed to create bloodlines through which they could operate, and he said that these bloodlines were in effect today's world leaders.) 
 
-Yes... in fact some of africa's most terrible
+Yes... in fact some of africa's most terrible  
 war mangers that have drenched large areas of africa in unnecessary blood and suffering, are directly descended from some of our greatest emperors of 600, 500 or even a thousand years ago.
 
 In fact the entire land called Angola was a breeding place of kingship in Africa... Angola means 'land of many kings'.
 
 ...again there seems to be this particular force which elevates its descendants over ordinary humanity, i can give you hundreds of cases of this.
 
-Now, talk about a tradition of shape shifting. Even now... these chiefs used to tell people that they are capable of changing shape at will.. 
-____
-We humans have a blind spot in our brains... we refuse to accept (anomalous things)... one of the things a trainee Sangoma has got to learn is the ability to see. 
-___
+Now, talk about a tradition of shape shifting. Even now... these chiefs used to tell people that they are capable of changing shape at will..  
+____  
+We humans have a blind spot in our brains... we refuse to accept (anomalous things)... one of the things a trainee Sangoma has got to learn is the ability to see.  
+___  
 3:20:18 There are certain vaccination things that are done to our children which rob them of the ability of seeing spiritual entities. Believe me. I can prove this. 
 
 Our grandmothers used to give us great pain to save our spiritual eyes. 
 
-I noticed that school children in mission schools who had been vaccinated for smallpox or measles could not see spiritual entities at all. A flying saucer would fly through the sky at great speed and be seen by many men and women, but the child who had been vaccinated would see nothing, and I noticed this hundreds of times. 
-___
+I noticed that school children in mission schools who had been vaccinated for smallpox or measles could not see spiritual entities at all. A flying saucer would fly through the sky at great speed and be seen by many men and women, but the child who had been vaccinated would see nothing, and I noticed this hundreds of times.  
+___  
 I have serious reason to believe that on this planet things are coming to a head, and our invisible jailers are going to fight tooth and nail... the human being, captive as it is, slave as it is, is trying to fight back, and this is where the crunch is going to come. I believe we are not far away from the bloodiest crunch in the world... 
 
 My visions tell me that we are going to be struck with the most terrible sword of all; the sword of money. Something is going to be done to money which will bring us all to the level of beggars. 

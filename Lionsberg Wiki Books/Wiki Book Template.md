@@ -8,7 +8,6 @@ For example, after this page you would see (something like) the following, which
 
 ___
 
-Forward to [[1.18 None Of Us Until All Of Us]]
-Back to [[1.16 Dialogue, Circumambulation, and Speech]]
+Forward to [[1.18 None Of Us Until All Of Us]]  
+Back to [[1.16 Dialogue, Circumambulation, and Speech]]  
 Back to table of contents [[The Book of LIONSBERG]]
-

@@ -11,5 +11,5 @@ The Lionsberg System is a means of partnering with God in a wise and comprehensi
 ___
 
 Forward to [[Frequently Asked Questions]]  
-Back to [[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]]       
+Back to [[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

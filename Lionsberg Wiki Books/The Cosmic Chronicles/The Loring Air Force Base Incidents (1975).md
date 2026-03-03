@@ -112,4 +112,3 @@ On October 27, 1975, security personnel observed an unidentified object describe
 - **Documentaries:**
     
     - _UFOs and Nukes: The Secret Link Revealed_ – Covers the Loring incidents and other nuclear-related UFO cases.
-

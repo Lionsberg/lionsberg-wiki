@@ -101,7 +101,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 
 (Junctures) 
 #### Minimum Standards of Interoperability
-[[Minimum Standards of Interoperability]] 
+[[Minimum Standards of Interoperability]]  
 
 #### Federal Governance 
 
@@ -110,30 +110,30 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 
 [[Structure]]  
 [[Lionsberg Structure]]  
-[[Flexibility And Compatibility]]   
+[[Flexibility And Compatibility]]  
 [[Legal Infrastructure]]  
 
 [[Transparency and Accountability]]  
 
 [[Federal Governance]]  
-[[Power Of The Republic]] 
+[[Power Of The Republic]]  
 [[Universal Rule Of Law]]  
-[[Local Rule Of Law]] 
+[[Local Rule Of Law]]  
 
 [[Separation Of Power]]  
 [[Executive Branch]]  
-[[Lionsberg Legislative Branch]] 
+[[Lionsberg Legislative Branch]]  
 [[Judicial Branch]]  
 [[Regulatory Branch]]  
-[[Core, Official, and Ancillary Groups]] 
+[[Core, Official, and Ancillary Groups]]  
 
 [[Wisdom Council]]  
 [[Provisional Legal and Governance Structure]]  
 
-[[Founding Leaders]] 
+[[Founding Leaders]]  
 [[Founding Leader Phase At Federal Level]]  
 
-[[A New Sovereignty]] 
+[[A New Sovereignty]]  
 Interoperation among a diverse array of structures and approaches 
 
 ### Common Governance Issues 
@@ -145,7 +145,7 @@ The [[Lionsberg Economic System]]
 
 ## The Lionsberg System of Justice 
 
-The [[Lionsberg System of Justice]] 
+The [[Lionsberg System of Justice]]  
 The [[Lionsberg System of Reconciliation]] 
 
 ## The Lionsberg System of Work 
@@ -157,8 +157,8 @@ The [[Lionsberg System of Work]]
 The [[LIONSBERG System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
 [[LIONSBERG Integrated Delivery System]]  
-[[Projects]] 
-[[Program]] 
+[[Projects]]  
+[[Program]]  
 [[Everything Is A Project]]  
 The [[Meta Project]]  
 [[The Prototype]]  
@@ -172,19 +172,19 @@ The [[Meta Project]]
 
 ## The Lionsberg System of Flow 
 
-Flow State 
-Individual Flow 
-Group Flow 
-Community Flow 
-Resource Flow 
-Information Flow (Data Structure to Facilitate) 
-Knowledge Flow 
+Flow State  
+Individual Flow  
+Group Flow  
+Community Flow  
+Resource Flow  
+Information Flow (Data Structure to Facilitate)  
+Knowledge Flow  
 Wisdom Flow 
 
 ## The Lionsberg System of Story
 
-[[Forward Looking Story]] 
-[[Backward Looking Story]] 
+[[Forward Looking Story]]  
+[[Backward Looking Story]]  
 
 
 ## Problems, Needs, and Issues 
@@ -193,11 +193,11 @@ Wisdom Flow
 [[Total Nested Hierarchy of Issues]]  
 [[General Issues]]  
 [[General Solutions]]  
-[[Specific Issues]] 
-[[Specific Solutions]] 
+[[Specific Issues]]  
+[[Specific Solutions]]  
 [[Identifying And Solving Issues]]  
 [[Issues and Solutions Marketplaces]]  
-[[Offers and Requests Marketplaces]] 
+[[Offers and Requests Marketplaces]]  
 
 ## Goals And Aspirations  
 
@@ -210,13 +210,13 @@ Wisdom Flow
 
 [[Transformation]]  
 [[Human Development]]  
-[[Group Development]] 
-[[Community Development]]
+[[Group Development]]  
+[[Community Development]]  
 [[Elevation Initiative]]  
 
 ## Shared Infrastructure, Services, and Support 
 
-[[Lionsberg System of Infrastructure, Services, and Support]]    
+[[Lionsberg System of Infrastructure, Services, and Support]]  
  
 
 ## The Lionsberg Integrated Delivery System 
@@ -225,108 +225,108 @@ Wisdom Flow
 [[Introduction To Integrated Delivery]]  
 [[Why Integrated Delivery]]  
 [[Essential Elements Of Integrated Delivery]]  
-[[The Goal]] 
+[[The Goal]]  
 [[Throughput]]  
-[[Throughput Of The Goal]] 
-[[What Is Integrated Delivery]]? 
-[[The Five Big Ideas Of Integrated Delivery]] 
+[[Throughput Of The Goal]]  
+[[What Is Integrated Delivery]]?  
+[[The Five Big Ideas Of Integrated Delivery]]  
 [[The Structure Of Integrated Delivery]]  
-[[The Code Of Integrated Delivery]] 
+[[The Code Of Integrated Delivery]]  
 [[Collaboration]]  
 [[Trust]]  
-[[Commitment Based Management]] 
+[[Commitment Based Management]]  
 [[Commitments]]  
 [[Network of Commitments]]  
 [[Tracking Commitments]]  
-[[Making And Securing Commitments]] 
+[[Making And Securing Commitments]]  
 [[Zero Blame Environment]]  
 [[Every Defect Is A Gift]]  
-[[Continuous Improvement]] 
-[[Retrospectives]] 
+[[Continuous Improvement]]  
+[[Retrospectives]]  
 [[Tools]]  
-[[A3 Reports]] 
+[[A3 Reports]]  
 [[Root Cause Analysis And The 5 Whys]]  
 [[Value Stream Mapping]]  
-[[Planning System]] 
-[[Quick Fixes]] 
+[[Planning System]]  
+[[Quick Fixes]]  
 [[Advantage Based Decision Making]]  
-[[BIM And Real Time Estimating]] 
+[[BIM And Real Time Estimating]]  
 [[Target Value Design (TVD)]]  
 [[The Economic Case For IPD]]  
 [[Work]]  
 [[LIONSBERG Integrated Delivery System]]  
 [[Value]]  
 [[Waste]]  
-[[Lionsberg Integrated Delivery System Warning]] 
-[[Lionsberg Integrated Delivery System Starting Point]] 
+[[Lionsberg Integrated Delivery System Warning]]  
+[[Lionsberg Integrated Delivery System Starting Point]]  
 [[Handoff Points]]  
 
 ### Program Development  
 
-[[The What And Why Of The Program]] 
-[[The How Of The Program]] 
-[[Failure of Existing Institutions to Address the Grand Challenges and Global Goals]] 
-[[Heroes On The Front Lines]] 
-[[Worksite Earth]] 
+[[The What And Why Of The Program]]  
+[[The How Of The Program]]  
+[[Failure of Existing Institutions to Address the Grand Challenges and Global Goals]]  
+[[Heroes On The Front Lines]]  
+[[Worksite Earth]]  
 [[Sovereign, Autonomous, And Coordinated Groups]]  
-[[Higher Order Functional Unity]] 
-[[Superordinance]] 
-[[Meta Project Framework]] 
-[[Meta Community Framework]]   
-[[Embodying The Abstract]] 
+[[Higher Order Functional Unity]]  
+[[Superordinance]]  
+[[Meta Project Framework]]  
+[[Meta Community Framework]]  
+[[Embodying The Abstract]]  
 [[The Myth Of Lionsberg]]  
 A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [[ReProcessing the LIONSBERG Wiki]]  
 [[New Language]]  
-[[The Lionsberg Critical Path]] 
-[[The Lionsberg System And Structure]] 
+[[The Lionsberg Critical Path]]  
+[[The Lionsberg System And Structure]]  
 [[Provisional Structure]]  
 [[The Lionsberg Platform]]  
-[[Social Dimensions]] 
-[[Social Experiment]] 
-[[Lionsberg Launch]] 
+[[Social Dimensions]]  
+[[Social Experiment]]  
+[[Lionsberg Launch]]  
 [[Receiver]]  
 [[Acting As If We All Are The Receivers]]  
-[[The Charge Of The Receiver]] 
-[[The Sovereignty Of The Receiver]] 
+[[The Charge Of The Receiver]]  
+[[The Sovereignty Of The Receiver]]  
 [[Co-Creating The New World]]  
-A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProcessing the LIONSBERG Wiki]] 
+A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProcessing the LIONSBERG Wiki]]  
 [[Mission Control]]  
-[[Meta Fund]] 
+[[Meta Fund]]  
 [[Proposed Systems, Facilities, Services, and Infrastructure]]  
-[[Lack Of Existing Infrastructure And Access]] 
-[[Prevalence Of Deceit And Propaganda]] 
-[[Equal Opportunity For All]] 
-[[Bottom Up]] 
+[[Lack Of Existing Infrastructure And Access]]  
+[[Prevalence Of Deceit And Propaganda]]  
+[[Equal Opportunity For All]]  
+[[Bottom Up]]  
 [[Scaling Up Systems, Facilities, Services, and Infrastructure]]  
 [[An Ecosystem, Prototype, And Kit Of Parts]]  
-[[The Prototype]] 
-[[Integrated Delivery Of Each Element]]
-[[A Commons For All]] 
+[[The Prototype]]  
+[[Integrated Delivery Of Each Element]]  
+[[A Commons For All]]  
 [[The Systems And Infrastructure Of The New Era]]  
-[[Time]] 
-[[Critical First Steps Towards the Goal]] 
+[[Time]]  
+[[Critical First Steps Towards the Goal]]  
 [[Meta Project Program Statement]]  
-[[Cooperation Vs. Competition]] 
+[[Cooperation Vs. Competition]]  
 [[Core Enterprise]]  
 
 [[2.0 Program Development]] - Coming Soon  (Breaking down and incorporating into the above) 
 
 ### Program Delivery 
 
-[[Instantiation Of The Prototype]] 
+[[Instantiation Of The Prototype]]  
 [[Availability And Priority Of Instantiation Domains]]  
 [[Adverse Forces]]  
 [[System Wide Master Plan]]  
-[[Living System Alignment]] 
+[[Living System Alignment]]  
 [[Program Services And Support]]  
-[[Guilds]] 
-[[Program and Process Management Guild]] 
+[[Guilds]]  
+[[Program and Process Management Guild]]  
 
-(Coming Soon - Breaking Down and Incorporating Into The Above) 
-[[3.0 Program Delivery]]   
-[[Project Delivery Guide]]   
-[[Template For Project]]   
-[[3.3 Communications and Reporting]]   
+(Coming Soon - Breaking Down and Incorporating Into The Above)  
+[[3.0 Program Delivery]]  
+[[Project Delivery Guide]]  
+[[Template For Project]]  
+[[3.3 Communications and Reporting]]  
 
 ### Integrated Delivery Conclusion
 [[4.0 Conclusion]]  
@@ -357,14 +357,14 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## Misc
 
-[[In The Beginning...]] 
+[[In The Beginning...]]  
 [[A True Myth]]  
 [[Why Story?]]  
 [[Working Together To Make It So]]  
 [[Who We Are]]  
 [[Who We Are Becoming]]  
 [[New Language]]  
-[[Progressive Articulation]]   
+[[Progressive Articulation]]  
 [[Progressive Realization]]  
 [[Elements Of The New]]  
 [[Filling Up What Is Lacking]]  
@@ -383,15 +383,15 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Question
 
-[[Lionsberg Question]] 
+[[Lionsberg Question]]  
 
 ## The Name 
 
-[[Lionsberg Name]] 
+[[Lionsberg Name]]  
 
 ## The Metaphor 
 
-[[Lionsberg Metaphor]] 
+[[Lionsberg Metaphor]]  
 
 ## The Purpose 
 
@@ -403,24 +403,24 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Mission 
 
-[[Lionsberg Mission]] 
+[[Lionsberg Mission]]  
 
 ## The Process 
 
-[[LIONSBERG Process]] 
+[[LIONSBERG Process]]  
 
 ## The Lionsberg Way
 
-[[Lionsberg Way]] 
+[[Lionsberg Way]]  
 
 ## The Lionsberg System and Approach 
 
-[[Lionsberg System and Approach]] 
-[[LIONSBERG System]] 
+[[Lionsberg System and Approach]]  
+[[LIONSBERG System]]  
 
 ## The Transformative Quest 
 
-[[Lionsberg Quest]] 
+[[Lionsberg Quest]]  
 
 ## The Movement 
 
@@ -432,7 +432,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Economy 
 
-[[Lionsberg Economic System]] 
+[[Lionsberg Economic System]]  
 
 ## Success and Failure 
 
@@ -531,7 +531,7 @@ We will progressively implement the [[LIONSBERG Integrated Delivery System]] to 
 The Lionsberg Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
 
 
-[[The LIONSBERG Constitution]] 
+[[The LIONSBERG Constitution]]  
 
 
 
@@ -549,16 +549,16 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[How Now Shall We Govern Our Selves?]]  
 [[Human Development]]  
 [[Identifying And Solving Issues]]  
-[[Jordan On Governance]] 
+[[Jordan On Governance]]  
 [[Levels of Analysis]]  
 [[Levels of Abstraction]]  
-[[Limitations of the Old Systems]] 
+[[Limitations of the Old Systems]]  
 [[Lionsberg Governance Guide]]  
 [[Lionsberg System of Governance]]  
 [[Meta Aspiration]]  
-[[Navigate]] 
+[[Navigate]]  
 [[Navigation]]  
-[[Organizations The Lionsberg Way]]
+[[Organizations The Lionsberg Way]]  
 [[Problems and Needs]]  
 [[Provisional Legal and Governance Structure]]  
 [[Retrospectives]]  
@@ -572,19 +572,19 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[Transparency and Accountability]]  
 [[Universal Responsibilities]]  
 [[Universal Rights]]  
-[[x.x. Representation]] 
+[[x.x. Representation]]  
 [[x.x Minimum Standards of Interoperability]]  
 [[x.x Timeless Wisdom, Principles, and Values]]  
 
 ## More to Migrate and / or Delete formerly linked in [[Lionsberg Integrated Delivery Guide]]:
 
-[[2.0 Program Development]] 
+[[2.0 Program Development]]  
 [[3.0 Program Delivery]]  
 [[3.1.5 PM Backbone]]  
 [[3.1.6 PM Narrative Structure]]  
 [[3.3 Communications and Reporting]]  
-[[3.4 Project Management Foundations]] 
-[[Agreements]] 
+[[3.4 Project Management Foundations]]  
+[[Agreements]]  
 [[Lionsberg Integrated Delivery Guide]]  
 [[Project Delivery Guide]]  
 [[Template For Project]]  

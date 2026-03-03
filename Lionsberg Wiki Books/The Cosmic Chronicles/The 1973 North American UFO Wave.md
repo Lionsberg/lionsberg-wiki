@@ -123,4 +123,3 @@ As the year progressed, sightings continued into the winter, though their freque
     
     - NICAP Reports on 1973 Sightings: [https://www.nicap.org](https://www.nicap.org/)
     - MUFON Archive on 1973 Cases: [https://www.mufon.com](https://www.mufon.com/)
-

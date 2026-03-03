@@ -28,7 +28,7 @@ No canon can ever contain the ONE.
 
 "It is not likely to be found in its entirety or in all its bearings in any single philosophy or scripture or uttered altogether and forever by any one teacher, thinker, prophet, or avatar." 
 
-Of course. 
+Of course.  
 Is that not obvious to All?  
 Venturing across realms, dimensions, galaxies, and star systems, each with their numerous planets, each with their thousands of languages, is any immersed in such a structure of Kontrolle that they imagine their one book, in their one language, in their feeble little hands, to actually be the ONE? 
 
@@ -37,10 +37,3 @@ Will We continue to forbear with the intolerant exclusion of Truth underlying ot
 Poor humans of Earth... mired for millennia in an Alien Kontrolle Structure... self-righteously brainwashed into clinging to false gods and countries in the Name of the ONE. What will it take to awaken the dead? 
 
 (13 of 692)
-
-
-
-
-
-
-

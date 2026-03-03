@@ -7,34 +7,34 @@ We have a Vision...
 
 We have a Dream... 
 
-Somewhere Deep within, [[The Dream]] lives within you too, arising from One Spirit and Source. 
-___
+Somewhere Deep within, [[The Dream]] lives within you too, arising from One Spirit and Source.  
+___  
 On Our Pathway towards the [[Progressive Realization]] of Heaven On Earth and Beyond...
 
 ...We are All aware that none of Us can do this alone. 
 
 Only [[ONE]] in co-creative partnership with [[All]] can fulfill [[The Dream]]. 
 
-This is The Invitation: The Creator is inviting Us All to awaken, arise, and unite as Co-Creators of Heaven On Earth and Beyond. 
-___
+This is The Invitation: The Creator is inviting Us All to awaken, arise, and unite as Co-Creators of Heaven On Earth and Beyond.  
+___  
 And yet at present, We are separated and divided.
 
 Both from One Another, and from Our Collective Inheritance.  
 
 This is because separation and division are the prerequisites to keeping the Earth and its inhabitants conquered and enslaved under [[The Final Order]] that is now at hand. 
 
-We are presently unaware of One Another's wisdom, discernment, hopes, dreams, challenges, needs and goals. We are therefore unable to Help One Another Progress towards [[The Goal]]. 
-___
+We are presently unaware of One Another's wisdom, discernment, hopes, dreams, challenges, needs and goals. We are therefore unable to Help One Another Progress towards [[The Goal]].  
+___  
 Facing into [[The Greatest Fraud, Deception, and Existential Threat in History]], humanity would have previously turned for guidance and protection to its Old Institutions and Authorities, its governments, its churches, its mosques, its synagogues, its sanghas, its pastors and priests, presidents and kings. 
 
-However **We All Now Know** that these institutions are collectively failing Us. They have been collectively corrupted and deceived beyond measure, and their cacophonous bureaucratic and governance structures render them willfully blind, woefully impotent, and utterly incapable of the effective and coordinated action required to avoid the [[Hell On Earth]] humanity is blindly racing towards. 
-____
+However **We All Now Know** that these institutions are collectively failing Us. They have been collectively corrupted and deceived beyond measure, and their cacophonous bureaucratic and governance structures render them willfully blind, woefully impotent, and utterly incapable of the effective and coordinated action required to avoid the [[Hell On Earth]] humanity is blindly racing towards.  
+____  
 In such a situation, it would be tempting for humanity to panic, to further fracture and divide, to begin building Higher Walls and hoarding, to being turning inward and shutting down. Within a few years, billions would certainly perish. 
 
 In such a situation, it would be tempting for humanity to forge a merely human solution, forgetting that the Existential Threat We are up against is [[Not Merely Human]], and far greater powers must be summoned and engaged.
 
-In such a situation, it would be tempting for humanity to grasp onto a hoard of trumpeting oligarchs they thought could save them, forgetting that any responsibility they abdicate will be taken up by the tyrants of [[The Final Order]] and used against them. 
-____
+In such a situation, it would be tempting for humanity to grasp onto a hoard of trumpeting oligarchs they thought could save them, forgetting that any responsibility they abdicate will be taken up by the tyrants of [[The Final Order]] and used against them.  
+____  
 It is self-evident that there exists only One Solution: 
 
 We must awaken, arise, and unite as One Body, and fulfill Our Destiny as Co-Creators of The Best Possible Future For All. 
@@ -51,8 +51,8 @@ It is [[The Final Test]], to see whether humanity qualifies for ongoing co-creat
 
 ...or whether only a small, genetically modified fragment will survive, permanently enslaved in [[The Final Order]], a distant grey shadow of its former brilliant Potential. 
 
-If humanity passes [[The Final Test]], [[Heaven On Earth]] is at hand, and will begin to spread throughout the Cosmos to every community and domain the Force For Good liberates from Chaos, Tyranny, and Oppression. 
-______
+If humanity passes [[The Final Test]], [[Heaven On Earth]] is at hand, and will begin to spread throughout the Cosmos to every community and domain the Force For Good liberates from Chaos, Tyranny, and Oppression.  
+______  
 Yes, We have a Dream. 
 
 A Dream that calls and beckons every family, every tribe, and every people to awaken from the slumber and slavery that is the pathway towards suffering and death. 
@@ -63,8 +63,8 @@ And to accept The Creator's Invitation to become Co-Creators of [[Heaven On Eart
 
 The Earth is already a perfect environment. The Divine Symphony is already playing. 
 
-All that is missing is for humanity to cease its discordant chaos, and lend its vast diversity of unique instruments, voices, and vibrations to [[The Song of Co-Creation]] that is longing to be Sung by All. 
-____
+All that is missing is for humanity to cease its discordant chaos, and lend its vast diversity of unique instruments, voices, and vibrations to [[The Song of Co-Creation]] that is longing to be Sung by All.  
+____  
 We All long for something like that. 
 
 Deep within, We All ReMember The Symphony of Heaven, the harmony, coherence, and love We once Knew, that perennially beckons Us Home. 
@@ -73,8 +73,8 @@ So the question becomes simply where and how do We begin. How do We join The Son
 
 Yet there is a Deeper and more profound question, which is [[Not How But Who]]? 
 
-Who will awaken? Who will arise? Who will stand Together and join The Song that We All are longing for? 
-____
+Who will awaken? Who will arise? Who will stand Together and join The Song that We All are longing for?  
+____  
 Among the vast diversity of unique starting points throughout the Cosmos, We are offering up One. 
 
 We are joining with One Voice and will do Our best to learn how to sing and embody [[The Song of Co-Creation]]. 
@@ -85,8 +85,8 @@ It will be a lot of work and a long Journey to learn to Sing Together.
 
 Not All of Us will make it across The Chasm that lies ahead. 
 
-But it is Worth it; for when billions of people stand and sing together with One Voice, [[Heaven On Earth]] is at hand. 
-____
+But it is Worth it; for when billions of people stand and sing together with One Voice, [[Heaven On Earth]] is at hand.  
+____  
 Getting billions of people to Sing or Play together in harmony and coherence is a challenge to say the least. In fact, it has never happened before. 
 
 During [[The 7 Year Window of Preparatory Work and Learning]], [[Jordan]] and his co-creators did their best to lay some of the foundational groundwork needed to avoid immediate failure, and have a change to succeed. 
@@ -101,7 +101,7 @@ If you would like to begin to learn how to Sing and Co-Create together, a few of
 
 Starting in January, We would like to begin Practicing the art and science of Co-Creation, while working together to realize The Dream of a transcendent spiritual community, co-operating as One Body to Progressively Realize Heaven On Earth and Beyond. 
 
-It is a Mission that will continue for lifetimes. 
+It is a Mission that will continue for lifetimes.  
 ____
 ## Resourcing 
 
@@ -122,7 +122,7 @@ Our Dream is to travel, live, and learn across a growing ecosystem of such physi
 
 With $10M, We could begin building upon an existing starting point and community in Our present locality in North Idaho. 
 
-However We are also open to the Wise Right Thing, and willing to relocate as the Spirit leads. In building a planetary network, it does not matter much where One begins. 
+However We are also open to the Wise Right Thing, and willing to relocate as the Spirit leads. In building a planetary network, it does not matter much where One begins.  
 ____
 ## Invitation 
 

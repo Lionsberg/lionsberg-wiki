@@ -63,4 +63,3 @@ By [[Jordan Nicholas Sukut]]
 ### [[Scene 30 - The New World in Harmony]]
 
 ### [[Scene 31 - A Bright Future]]
-

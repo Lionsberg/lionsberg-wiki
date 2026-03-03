@@ -89,4 +89,3 @@ _— A 7-Fold Sacred Framework for Temporal ReAlignment and Action —_
 |🧭 Guidance Request|[What do you need from Spirit / Allies / ONE this season?]|
 |🧬 Code Update|[What new protocols or data are you encoding into the Commons?]|
 |📖 Archive Entry|[Save a record of this OmniSpection in the seasonal chronicle]|
-

@@ -73,4 +73,3 @@ The Chronicles of Lionsberg are not finished. They cannot be finished. For as lo
 So, here is the invitation: step into the Chronicles. Find your place in this great symphony of becoming. ReMember who you are. And together, let us co-create The Story of Heaven on Earth and beyond.
 
 **The Sacred Mountain calls. The Sacred Flame beckons. Your Story and Adventure awaits. Will you answer?**
-

@@ -11,4 +11,3 @@ The Objection should address how the [[Proposal]] would  [[Harm]] the ability of
 Individuals should balance their Preference and [[Range of Tolerance]], and use [[Wisdom]] to [[Discern]] when to Object, and when to accept something that varies from Preference but is acceptably within their [[Range of Tolerance]].
 
 As a general rule, the greater the [[Span of Impact]] of a Decision, the more [[Time]] the Group should be willing to spend to move beyond the lower standard of [[Consent]], towards the higher standard of [[Consensus]] that is always available with enough Wisdom, Time and Patience.
-

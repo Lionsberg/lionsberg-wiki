@@ -110,4 +110,3 @@ Intrigued and unnerved, Pedley approached the lagoon to investigate. He discover
     
     - _The Tully Saucer Nest: Australia’s UFO Mystery_ – An exploration of the incident and its implications.
 - 
-

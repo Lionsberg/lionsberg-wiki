@@ -20,7 +20,7 @@
     - evaluate mechanisms as we go - measureable
 - "from here it gets really measurable"
 
-Reflection question: What is the story that you're you're telling yourself about where we are? How does that align or not with Jordan's story?
+Reflection question: What is the story that you're you're telling yourself about where we are? How does that align or not with Jordan's story?  
 
 - the notion of games
 - connecting and empowering distributed network of small groups could be called anything
@@ -35,7 +35,7 @@ Reflection question: What is the story that you're you're telling yourself about
 
 ## What story
 
-Erik's questions
+Erik's questions  
 - How do we start this?
 - How do we start getting making things really concrete?
     - A lot of concrete things have already happened.
@@ -53,19 +53,19 @@ Erik's questions
     - Load these onto the platform
     - Look for network effects
 
-Lionsberg, Meta Project Disambiguation
+Lionsberg, Meta Project Disambiguation  
 
-Marianne -
-    We need to try with a smaller instance
+Marianne -  
+    We need to try with a smaller instance  
     
-Marjorie Kelly & Kate Raworth offer gaining clarity on:
+Marjorie Kelly & Kate Raworth offer gaining clarity on:  
 1. Purpose
 2. Network
 3. Governance
 4. Ownership
 5. Finance
 
-The Different Lionsbergs
+The Different Lionsbergs  
 - Lionsberg the Idea or Myth
     - I like the idea and I am part of a movement; hovering and in principle support it
 - Lionsberg the Voluntary Association 
@@ -75,21 +75,21 @@ The Different Lionsbergs
 - Lionsberg the Legal Structure 
     - I have a formal role with responsibilities as law for the activities of 'Lionsberg Legal'
 
-Proposed Lionsbergs and/or Roles
+Proposed Lionsbergs and/or Roles  
 - A Monitoring Group (along with the Core Enterprise)
     - And when we have a couple of prototypes, what will we see or hear to know we have evidence that what we are doing is working or is not working?
 - A Copywriter (explainer in simple terms)
 
 
-Questions
-Peter K
-    How do they inter relate
-    Which one are we talking about
-    Dig into each deeply - this takes time - not zooming past this
+Questions  
+Peter K  
+    How do they inter relate  
+    Which one are we talking about  
+    Dig into each deeply - this takes time - not zooming past this  
     
-    -
+    -  
 
-Pete's order for today:
+Pete's order for today:  
 - Governance 
     - sort of a myth, but there's a structure
     - 501(c)(3), sole board member is Jordan
@@ -116,7 +116,7 @@ Pete's order for today:
 
 ## Bill
 
-Next Steps for 501c3
+Next Steps for 501c3  
 - clarity on the constitution for international reach and protection
 - leadership in an expanded the board
     - expanded concept of leadership
@@ -131,17 +131,14 @@ Next Steps for 501c3
 How is this group here, forming & the performing?  
 Need a shared understanding of how we can work, help and present to those outside this group.  
 Need to practice a learning loop.  
-Pick Experiments in 4 key areas - decide on those.  Apply within a month.  Learn and iterate again n cycles.
+Pick Experiments in 4 key areas - decide on those.  Apply within a month.  Learn and iterate again n cycles.  
 
 ## Next steps to create next meeting
 
-Wendy M, judy, Jordan, Marianne, Bill... 
+Wendy M, judy, Jordan, Marianne, Bill...  
 - Agenda / Goals for meeting...
     - And separate short term from long term... 
     - What is the target condition / attractor(s) that will guide action for everyone during the week?
 - Group Formation 
 - First Prototypes  
 - Weekly / Biweekly challenge / daily / weekly target conditions... 
-
-
-

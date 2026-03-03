@@ -9,5 +9,5 @@ Equal opportunity and access for all citizens is essential to the success of the
 ___
 
 Forward to [[V.E. Freedom, Agency, and Responsibility]]  
-Back to [[V.C. Real Pathways Towards Universal Aspirations]]        
+Back to [[V.C. Real Pathways Towards Universal Aspirations]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

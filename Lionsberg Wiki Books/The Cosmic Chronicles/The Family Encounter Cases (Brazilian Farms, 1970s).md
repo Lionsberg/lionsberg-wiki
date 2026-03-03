@@ -120,4 +120,3 @@ After the sightings, investigators documented landing traces, burned vegetation,
 - **Documentaries:**
     
     - _Encounters in Rural Brazil (2015)_ – A deep dive into family cases and their cultural impact.
-

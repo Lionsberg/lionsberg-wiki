@@ -186,4 +186,3 @@ That's all for now. If you would like to help develop the [[Meta Fund]] or the [
 p.s. - if you are interested, start thinking about the concepts of [[Time Currency]] and [[Time Price]] in a [[New World]] that has advanced beyond the artificial scarcity created by fiat currencies in the [[Old World]]. 
 
 [[Time Price]] - The amount of time that a person must work to earn enough [[Time Currency]] to acquire something. 
-

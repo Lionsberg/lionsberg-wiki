@@ -6,5 +6,5 @@ In the context of the Lionsberg System, Beauty is seen as a reflection of Ultima
 
 The Lionsberg System recognizes that Absolute Beauty is something that remains beyond our full comprehension, and encourages its members to explore and appreciate the richness and diversity of perspectives as they navigate towards Beauty. The pursuit of Beauty is seen as an important aspect of the overall pursuit of Truth, Wisdom, Love, and Goodness, and is essential in creating a world where everyone can live a life of purpose, meaning, and fulfillment.
 
-___
+___  
 The value of beauty represents a commitment to aesthetics and appreciation of the arts. It means seeking out and creating beauty in the world, and being moved and inspired by the beauty that surrounds us.

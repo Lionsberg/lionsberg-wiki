@@ -93,4 +93,3 @@ Attempts to obtain information from the U.S. government about the helicopters an
     
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
     - Dolan, Richard. _UFOs and the National Security State._
-

@@ -32,13 +32,13 @@ Purpose: To capture and track [[Commitments]] (action items) as they arise, and 
 
 
 ## Short Term Issue Tracker - Bulk of Meeting
-Purpose: Main focus of the meeting - to Identity, Dialogue, and Resolve issues. 
+Purpose: Main focus of the meeting - to Identity, Dialogue, and Resolve issues.  
 Fields: Issue, Who, Date Raised, Date Due, Notes.
 
 
 
 ## Long Term Issue Tracker - 2 Min
-Purpose: To track long term issues that will not be resolved this month / quarter, and see if any need to be transfered up to the [[Short Term Issue Tracker]]. 
+Purpose: To track long term issues that will not be resolved this month / quarter, and see if any need to be transfered up to the [[Short Term Issue Tracker]].  
 Fields: Issue, Who, Date Raised, Date Due, Notes.
 
 ## Retrospective - 10 Minutes

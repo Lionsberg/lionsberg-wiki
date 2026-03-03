@@ -16,8 +16,8 @@ _We were all sitting on a rocket ship, ready to lift off towards the [[New]]. Yo
 
 _You were calm. "[[Where We Are Going]] is so far beyond our ability to even conceive of it, we cannot calculate it. We do not even have a [[New Language]] for it yet. We can only Know it by experiencing it and allowing it to [[Emerge]] through us."_
 
-Excerpt from [[The Rocket Ship]] in [[The Lionsberg Book Of Parables]].
-___
+Excerpt from [[The Rocket Ship]] in [[The Lionsberg Book Of Parables]].  
+___  
 Thus, the first thing that was created was the [[Idea]] of a sovereign and rightly related global community that would perpetually embody and move towards the [[Highest Intention and Greatest Good]] of which it could conceive. 
 
 We called this the [[Meta Goal]]. 
@@ -45,5 +45,3 @@ This [[Meta Quest]] would require unprecedented coordination and logistics acros
 The [[Meta Project]] was also used as a word tool to invoke the totality of all required transformation across [[All]] things and [[All]] domains.
 
 As the ideas and language emerged, the next step was to start moving and acting out the ideas. 
-
-

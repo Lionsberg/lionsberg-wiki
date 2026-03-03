@@ -64,4 +64,3 @@ The New Covenant is not a utopian dream but a Divine Mandate, a realistic and ac
 It calls us to be courageous, to be visionary, and to be united in our quest for aligning the world with the Divine Order. And as we move forward, each step taken in alignment with this New Covenant adds a note to the ever-expanding Symphony of Divine Glory, a testament to the resplendent beauty and profound love that is the essence of the Creator.
 
 Thus, we transition into a new epoch, driven by the inviolable tenets of the New Covenant—a covenant not written on tablets of stone but inscribed on the hearts of all who dare to envision a world reflecting the Will, Intention, and Kingdom of God.
-

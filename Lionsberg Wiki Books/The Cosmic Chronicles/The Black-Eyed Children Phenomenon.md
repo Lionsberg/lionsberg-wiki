@@ -108,4 +108,3 @@ Encounters typically include the following elements:
     
     - _Black-Eyed Kids: Let Me In_ – A deep dive into this chilling phenomenon.
     - Popular podcasts exploring firsthand accounts and theories.
-

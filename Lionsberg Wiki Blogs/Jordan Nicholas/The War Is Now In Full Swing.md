@@ -9,5 +9,3 @@ A Post in [[Above The Chaos]]
 > _If you are not already spending at least an hour a day grappling with this, **please** immediately begin spending two hours a day._  
 
 > _If you need help getting up to speed, please see [[Above The Chaos]] and the [[Lionsberg Wiki Books]]._
-
-

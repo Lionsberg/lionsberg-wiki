@@ -38,6 +38,6 @@ Perhaps he had gone mad.
 It all sounds Fantastical. Conspiratorial. Unbelievable. Absurd.  
 
 ***But What If It Was True?...***  
-***What If?*** 
+***What If?***  
 ***What Then?***  
 ***What Next?***  

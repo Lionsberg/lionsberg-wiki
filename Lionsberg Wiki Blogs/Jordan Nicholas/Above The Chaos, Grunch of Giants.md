@@ -1,14 +1,14 @@
 # Above The Chaos, Grunch of Giants
 
-By [[Jordan Nicholas Sukut]], 2024.01.10 _(updated 2024.01.10)_
+By [[Jordan Nicholas Sukut]], 2024.01.10 _(updated 2024.01.10)_  
 
-A post in [[Above The Chaos]]
+A post in [[Above The Chaos]]  
 
-Buckminister Fuller was one of the few people I have discovered who truly attempted to think through the situation that humanity finds itself in, in order to forge an alternative to the Mutually Assured Destruction that lies at the end of the present trajectory. 
+Buckminister Fuller was one of the few people I have discovered who truly attempted to think through the situation that humanity finds itself in, in order to forge an alternative to the Mutually Assured Destruction that lies at the end of the present trajectory.  
 
-He wrote a book called Grunch of Giants, "grunch" standing for *global universal cash heist*. 
+He wrote a book called Grunch of Giants, "grunch" standing for *global universal cash heist*.  
 
-Here are some key points and quick notes I took in 2023: 
+Here are some key points and quick notes I took in 2023:  
 
 - Humanity's most fundamental problems cannot be solved by politics. 
 - For all of its history, humanity's groups have existed in remote locations as separate tribes and nations, with ways of life approximately unknown to one another. 
@@ -205,4 +205,4 @@ Here are some key points and quick notes I took in 2023:
 - Now western central banks have sold gold... and non mainstream central banks... have been buying 100s of tons. 
 - Actually gold not moving... multiple parties who think they have claim to each ounce of gold... 
 
-Just some quick notes - more to come... 
+Just some quick notes - more to come...  

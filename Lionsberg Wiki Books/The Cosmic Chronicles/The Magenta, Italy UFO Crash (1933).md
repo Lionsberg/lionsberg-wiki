@@ -95,4 +95,3 @@ Accounts suggest that the Vatican was notified of the incident and may have inte
     
     - Lissoni, Alfredo. _The Fascist UFO Files._
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-

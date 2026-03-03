@@ -2,9 +2,9 @@
 
 ### **Introduction**
 
-The **MAJESTIC-12 (MJ-12)** program refers to a secretive and highly compartmentalized initiative reportedly established by the U.S. government in **1947** to manage extraterrestrial-related phenomena. Emerging in connection with the **Roswell Incident**, MJ-12 is said to oversee the recovery and reverse-engineering of alien technology, the management of contact with extraterrestrial biological entities (EBEs), and the orchestration of global disinformation campaigns to keep this knowledge hidden from public awareness.
+The **MAJESTIC-12 (MJ-12)** program refers to a secretive and highly compartmentalized initiative reportedly established by the U.S. government in **1947** to manage extraterrestrial-related phenomena. Emerging in connection with the **Roswell Incident**, MJ-12 is said to oversee the recovery and reverse-engineering of alien technology, the management of contact with extraterrestrial biological entities (EBEs), and the orchestration of global disinformation campaigns to keep this knowledge hidden from public awareness.  
 
-Congressional hearings, leaked documents, and testimony from military insiders increasingly corroborate the existence of deep black-budget programs associated with UFO phenomena, lending credibility to longstanding assertions of a clandestine initiative like MJ-12.
+Congressional hearings, leaked documents, and testimony from military insiders increasingly corroborate the existence of deep black-budget programs associated with UFO phenomena, lending credibility to longstanding assertions of a clandestine initiative like MJ-12.  
 
 ---
 
@@ -30,54 +30,54 @@ Congressional hearings, leaked documents, and testimony from military insiders i
 
 1. **The Alleged Members of MJ-12**
 
-	1. **Vannevar Bush**
+	1. **Vannevar Bush**  
 	    
 	    - **Role:** Scientist and wartime science advisor.
 	    - **Known For:** Leading the Manhattan Project, chairing the National Defense Research Committee (NDRC), and advising on top-secret scientific projects.
-	2. **James Forrestal**
+	2. **James Forrestal**  
 	    
 	    - **Role:** First U.S. Secretary of Defense.
 	    - **Known For:** Advocating transparency about UFO phenomena before his untimely and controversial death in 1949, often speculated to be linked to his knowledge of MJ-12.
-	3. **Roscoe H. Hillenkoetter**
+	3. **Roscoe H. Hillenkoetter**  
 	    
 	    - **Role:** First Director of the CIA (1947–1950).
 	    - **Known For:** Publicly acknowledging UFO phenomena after retirement and being involved in high-level intelligence operations.
-	4. **Nathan Twining**
+	4. **Nathan Twining**  
 	    
 	    - **Role:** General, U.S. Air Force; Chairman of the Joint Chiefs of Staff.
 	    - **Known For:** Authoring the **"Twining Memo" (1947)**, which stated that UFOs were real and worthy of scientific investigation.
-	5. **Hoyt S. Vandenberg**
+	5. **Hoyt S. Vandenberg**  
 	    
 	    - **Role:** General, U.S. Air Force; Second Director of the CIA (1946–1947).
 	    - **Known For:** Overseeing early UFO investigations and ensuring strict secrecy protocols.
-	6. **Sidney Souers**
+	6. **Sidney Souers**  
 	    
 	    - **Role:** First Director of Central Intelligence (DCI) under the National Security Act of 1947.
 	    - **Known For:** Being deeply involved in creating the National Security Council (NSC).
-	7. **Donald H. Menzel**
+	7. **Donald H. Menzel**  
 	    
 	    - **Role:** Astronomer and Harvard professor.
 	    - **Known For:** Publicly debunking UFOs as a skeptic, yet reportedly maintaining classified connections to the U.S. intelligence community.
-	8. **Detlev W. Bronk**
+	8. **Detlev W. Bronk**  
 	    
 	    - **Role:** Biophysicist and President of Johns Hopkins University.
 	    - **Known For:** Contributions to aviation medicine and biological sciences, potentially linked to examining extraterrestrial biological entities (EBEs).
-	9. **Jerome Hunsaker**
+	9. **Jerome Hunsaker**  
 	    
 	    - **Role:** Aeronautical engineer and head of the National Advisory Committee for Aeronautics (NACA).
 	    - **Known For:** Innovations in aviation and aerospace technology.
-	10. **Robert M. Montague**
+	10. **Robert M. Montague**  
 	    
 	    - **Role:** U.S. Army Lieutenant General.
 	
 	- **Known For:** Commanding atomic weapons facilities and involvement in highly classified projects.
 	
-	11. **Lloyd Berkner**
+	11. **Lloyd Berkner**  
 	
 	- **Role:** Physicist and key figure in radar and geophysics.
 	- **Known For:** Advocating space exploration and assisting in intelligence-related scientific advancements.
 	
-	12. **Gordon Gray**
+	12. **Gordon Gray**  
 	
 	- **Role:** National Security Advisor to President Truman and later President Eisenhower.
 	- **Known For:** Involvement in psychological warfare and national security strategy.
@@ -143,7 +143,7 @@ Congressional hearings, leaked documents, and testimony from military insiders i
 ---
 ### **Additional Alleged Associates**
 
-Some researchers and whistleblowers have suggested that additional figures might have been involved with or consulted by MJ-12, including:
+Some researchers and whistleblowers have suggested that additional figures might have been involved with or consulted by MJ-12, including:  
 
 - **Edward Teller:** Physicist known as the "father of the hydrogen bomb," potentially linked to reverse-engineering extraterrestrial technology.
 - **Dr. J. Allen Hynek:** Astronomer and UFO investigator, though his alleged involvement remains speculative.
@@ -151,5 +151,4 @@ Some researchers and whistleblowers have suggested that additional figures might
 
 ### **Conclusion**
 
-The MAJESTIC-12 program represents one of the most significant and controversial elements of modern UFO history. While its existence remains unconfirmed in official records, a growing body of evidence, including credible testimony and leaked documents, points to the reality of a covert initiative tasked with managing extraterrestrial phenomena. MJ-12’s enduring legacy lies in its profound implications for humanity’s understanding of its place in the cosmos and the nature of the forces that have shaped our history.
-
+The MAJESTIC-12 program represents one of the most significant and controversial elements of modern UFO history. While its existence remains unconfirmed in official records, a growing body of evidence, including credible testimony and leaked documents, points to the reality of a covert initiative tasked with managing extraterrestrial phenomena. MJ-12’s enduring legacy lies in its profound implications for humanity’s understanding of its place in the cosmos and the nature of the forces that have shaped our history.  

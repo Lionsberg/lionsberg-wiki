@@ -22,7 +22,7 @@ As we close this book, let us open our hearts to the possibilities that lie ahea
 
 The choice is ours to make. The time is now. Let us step boldly and wisely into this New Era, and may we do so in alignment with the Divine Will, for the Highest Good of all. Amen.
 
-___
+___  
 Forward to [[Chapter 15 - Immediate Next Steps]]  
 Back to [[Chapter 14 - Co-Creating the Conditions for a New Era]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

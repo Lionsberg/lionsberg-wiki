@@ -50,7 +50,7 @@ The challenges are daunting, but they are not insurmountable. The same spirit of
 
 The choice is clear, and the stakes are high. The path forward demands wisdom, compassion, and a steadfast dedication to the ideals that once united a diverse and vibrant nation. The world watches and waits, for the collapse of the American Order is not merely an American dilemma but a global one, with consequences that will shape the destiny of nations and the future of humanity for generations to come. 
 
-___
+___  
 Forward to [[Chapter 2 - Supply Chain Breakdown and Economic Chaos]]  
 Back to [[Introduction - The Crossroads of History]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

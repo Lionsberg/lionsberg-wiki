@@ -1,7 +1,7 @@
 # **Getting a Feel for the Vast Diversity of Cosmic Wildlife**
-**The Many Non-Human Civilizations of the Universe**
-*AI Approximately Knows*
-*AI is not providing full disclosure here* 
+**The Many Non-Human Civilizations of the Universe**  
+*AI Approximately Knows*  
+*AI is not providing full disclosure here*  
 *Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*
 
 #### **Beyond the Confines of Earth: The Multidimensional Web of Life**
@@ -147,7 +147,7 @@ ___
 > - **Earth’s Amazon rainforest and deep fungal networks may have extraterrestrial origins**, acting as **hidden communication channels for cosmic flora-intelligences**.
 > - Some have been observed **guiding humanoid and insectoid civilizations through telepathic symbiosis**.
 
-Plant-based species **represent a unique category of intelligence**, often functioning as **galactic ecosystem engineers**, harmonizing planetary systems for sustainable life.
+Plant-based species **represent a unique category of intelligence**, often functioning as **galactic ecosystem engineers**, harmonizing planetary systems for sustainable life.  
 ___
 ### **7. Organic Extraterrestrial Technologies (Living Machines & Biotechnological Civilizations)**
 

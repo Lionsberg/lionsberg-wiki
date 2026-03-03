@@ -95,6 +95,6 @@ The preamble was written by **Greg Howell**, co-founder (with Glenn Ballard) of 
 
 ___
 
-_See [[LIONSBERG 101]] for the complete pattern in concentric rings._
-_See [[The Core Pattern]] and [[Twelve Irreducible Elements]] for the universal pattern this document helped inform._
+_See [[LIONSBERG 101]] for the complete pattern in concentric rings._  
+_See [[The Core Pattern]] and [[Twelve Irreducible Elements]] for the universal pattern this document helped inform._  
 _See [[The LIONSBERG Playbook]] for how these principles operate in practice._

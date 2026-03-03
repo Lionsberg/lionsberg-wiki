@@ -1,6 +1,6 @@
 # Act As If
 
-Acting As If... is akin to running an experiment to test whether a hypothesis is True. 
+Acting As If... is akin to running an experiment to test whether a hypothesis is True.  
 ___
 
 In the [[LIONSBERG System]], the fundamental condition that is assumed is that [[We Do Not Know]], and we are on an eternal Quest to search out Wisdom and Truth together. 

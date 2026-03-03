@@ -1,6 +1,6 @@
 # **Why 2025 Has Long Been Known As The Disclosure Year - The Final Unveiling of Humanity’s Hidden Reality**
-*AI Approximately Knows*
-*AI is not providing full disclosure here* 
+*AI Approximately Knows*  
+*AI is not providing full disclosure here*  
 *Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*
 
 #### **The Year That Everything Changes**

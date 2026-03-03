@@ -150,9 +150,9 @@ This stack provides a blueprint to begin building resilient and decentralized sy
 ## Notes From J
 
 1. [[Jordan]] funded Gary + [[Open Future Coalition]] to co-create the [[Open Impact]], which subsequently gained additional grants and was tested with hundreds of groups in over 50 countries.  
-	1. Lionsberg has a unique agreement with Gary + OFC as a result. This could be a very valuable asset that could evolve towards a a backbone everything app enabling interoperable community currencies, resource flows, etc. across the ecosystem. 
+	1. Lionsberg has a unique agreement with Gary + OFC as a result. This could be a very valuable asset that could evolve towards a a backbone everything app enabling interoperable community currencies, resource flows, etc. across the ecosystem.  
 2. [[Jordan]] worked with [[Peter Kaminski]] to set up a Mattermost instance. This will be the primary comms channel for [[J]] and the [[Team of Teams]] he is directly working with. 
-	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Mattermost. 
+	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Mattermost.  
 3. [[Jordan]] worked with [[Peter Kaminski]] to set up the [[LIONSBERG Wiki]] (you are here) using Massive Wiki. This will be the primary documentation channel for [[J]] and the [[Team of Teams]] he is directly working with. 
 	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Massive Wiki.  
 4. These three core pieces were created because they seemed to be on the [[Critical Path]] towards functioning as [[ONE Body]] and Mind: 
@@ -163,4 +163,3 @@ This stack provides a blueprint to begin building resilient and decentralized sy
 6. [[Jordan]] worked with other allies to get up to speed on issues relating to [[Known Objects]] / Known Compute across a decentralized array of network nodes. 
 7. In Jordan's work with the [[Pleiadians]], the roll out of networked and interoperable [[Zero Point Energy]] systems + Known Computational Nodes + AI constituted an essentially self-financing [[Critical Path]], while simultaneously distributing unlimited [[Free Energy]] and [[Free Knowledge]] around the world and virtually eliminating [[Poverty]].  
 	1. [[Jordan]] believed that his work with Gary and Open Impact was a significant starting point towards the backbone of the planetary Grid of Interoperable Free Energy, Knowledge, and AI. 
-

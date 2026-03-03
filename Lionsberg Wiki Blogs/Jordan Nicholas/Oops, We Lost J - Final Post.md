@@ -1,6 +1,6 @@
 # Oops, We Lost J - Final Post
 *The Final Post in [[Above The Chaos]]*  
-*August 2025*
+*August 2025*  
 
 In late July 2025, [[J]] returned from East Africa  
 Spiritual and energetic attacks intensified    

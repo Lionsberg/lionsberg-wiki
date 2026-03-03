@@ -865,14 +865,14 @@ _Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Cr
 ### **Chapter 74. Pillar X — Sacred Security and Order**
 
 _Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_  
-Ensuring safety and order through integrity, justice, and strength in service of the Good.
-[[Pillar X — Sacred Guardianship and Order]]
+Ensuring safety and order through integrity, justice, and strength in service of the Good.  
+[[Pillar X — Sacred Guardianship and Order]]  
 
 ---
 
 ### **Chapter 75. Pillar XI — Sacred Society and Justice**
 
-_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_
+_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_  
 Healing division through truth, love, reconciliation, and the conscious harmonization of opposites in their inherent Higher Order Unity.
 
 ---

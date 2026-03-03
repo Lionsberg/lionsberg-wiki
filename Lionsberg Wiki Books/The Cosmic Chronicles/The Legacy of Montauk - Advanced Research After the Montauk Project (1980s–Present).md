@@ -114,4 +114,3 @@ Key areas of ongoing research are believed to include:
 - **Books and Media:**
     - Nichols, Preston B. _The Montauk Project: Experiments in Time_.
     - Goode, Corey. _The Cosmic Disclosure Series_.
-

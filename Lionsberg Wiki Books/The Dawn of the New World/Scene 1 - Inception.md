@@ -22,7 +22,7 @@ And then there came the beings, great and small, each possessing its own unique 
 
 The radiance of Spirit and Imagination from the Creator was the source of All [[Creation]], forever inspiring and guiding the universe towards its [[Destiny]]. 
 
-___
+___  
 Forward to: [[Scene 2 - Humanity Awakens]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
 Onward to Other [[Lionsberg Wiki Books]]  

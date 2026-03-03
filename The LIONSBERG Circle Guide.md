@@ -2,32 +2,32 @@
 
 ## What a Circle Is
   
-A Circle is the smallest complete unit of the New Civilization.
+A Circle is the smallest complete unit of the New Civilization.  
   
-It is not a club.
-Not a class.
-Not an organization.
+It is not a club.  
+Not a class.  
+Not an organization.  
   
-A Circle is a living field of trust,
-Formed by people who choose to show up
+A Circle is a living field of trust,  
+Formed by people who choose to show up  
 With sincerity, responsibility, and care  
 To help one another grow, transform,  
 And co-create Heaven On Earth  
   
-Circles are how Heaven becomes practical.
+Circles are how Heaven becomes practical.  
   
-They are where abstraction becomes relationship,
-and where ideals become action.
+They are where abstraction becomes relationship,  
+and where ideals become action.  
   
 ## Why Circles Matter
   
-Civilizations do not change because of ideas alone.
-They change because small groups of people
-Begin being, acting, and living differently—together.
+Civilizations do not change because of ideas alone.  
+They change because small groups of people  
+Begin being, acting, and living differently—together.  
   
-History shows this pattern again and again.
+History shows this pattern again and again.  
   
-LIONSBERG circles exist to:
+LIONSBERG circles exist to:  
 
 - Awaken shared clarity
     
@@ -38,17 +38,17 @@ LIONSBERG circles exist to:
 - and Pass The Flame onward
     
   
-No Circle is meant to last forever.
-Every Circle is meant to transform our lives and our worlds.
+No Circle is meant to last forever.  
+Every Circle is meant to transform our lives and our worlds.  
   
 ## Forming a Circle
   
-A Circle may begin with as few as three people.
-Five to seven is often ideal.
+A Circle may begin with as few as three people.  
+Five to seven is often ideal.  
 Twelve is a natural upper bound,  
-After which it is natural for the emerging organism to split into two.
+After which it is natural for the emerging organism to split into two.  
   
-Begin by gathering—physically or digitally—and reading aloud:
+Begin by gathering—physically or digitally—and reading aloud:  
 
 - The Prologue
     
@@ -59,13 +59,13 @@ Begin by gathering—physically or digitally—and reading aloud:
 - And this Circle Guide
     
   
-Then pause.
+Then pause.  
   
-Let silence do some of the work.
+Let silence do some of the work.  
   
 ### Naming the Circle
   
-Choose a name that:
+Choose a name that:  
 
 - feels alive
     
@@ -79,13 +79,13 @@ It is provisional and can be changed at any time.
   
 ### Establishing Agreements
   
-Agreements are not rules.
-They are shared commitments that protect the field.
+Agreements are not rules.  
+They are shared commitments that protect the field.  
   
 Every Circle is self-governing, autonomous,  
 and should explicitly affirm its own agreements.  
 
-At minimum, consider the following:
+At minimum, consider the following:  
 
 - Presence — We show up as fully as we can.
     
@@ -100,14 +100,14 @@ At minimum, consider the following:
 - Responsibility — Each person owns their words and choices.
     
   
-Agreements may evolve.
-Revisit them seasonally. 
+Agreements may evolve.  
+Revisit them seasonally.  
 Improve them continually.  
   
 ## How Circles Meet
   
-There is no single correct format.
-However, healthy Circles tend to include:
+There is no single correct format.  
+However, healthy Circles tend to include:  
 
 1. Arrival
     
@@ -183,14 +183,14 @@ However, healthy Circles tend to include:
         
     
   
-Consistency matters more than length.
-Ninety minutes is often ideal.
+Consistency matters more than length.  
+Ninety minutes is often ideal.  
   
 ## Cadence and Rhythm
   
-Circles thrive on rhythm.
+Circles thrive on rhythm.  
   
-Experience strongly suggests:
+Experience strongly suggests:  
 
 - a weekly gathering
     
@@ -199,15 +199,15 @@ Experience strongly suggests:
 - and a seasonal Quest
     
   
-These rhythms anchor relationship, consistency, and trust
+These rhythms anchor relationship, consistency, and trust  
 and prevent the Circle from dissolving into abstraction or distraction.  
   
 ## Seasonal Quests
   
 A Seasonal Quest is a shared, tangible act of goodwill  
-That produces **throughput** of **The Goal** of Heaven On Earth.
+That produces **throughput** of **The Goal** of Heaven On Earth.  
   
-It should:
+It should:  
 
 - serve real people or places
     
@@ -218,7 +218,7 @@ It should:
 - eventually require collaboration with other circles  
     
   
-Examples:
+Examples:  
 
 - supporting a neighbor or family in need
     
@@ -231,7 +231,7 @@ Examples:
 - hosting a book club and leveraging learnings into an upcoming seasonal quest
     
   
-The Quest is where the Game becomes real.
+The Quest is where the Game becomes real.  
   
 
 ## Stories of Transformation 
@@ -246,12 +246,12 @@ Stories of Transformation are designed to fuel [[Resourcing and Engagement Flywh
 
 ## Roles (Lightly Held)
   
-Circles do not require hierarchy.
+Circles do not require hierarchy.  
 They do benefit from shared stewardship  
-And clearly defined roles and responsibilities.
+And clearly defined roles and responsibilities.  
   
 Roles may rotate seasonally  
-And may include archetypes such as:
+And may include archetypes such as:  
 
 - Convener — holds, opens, and closes the meeting container  
     
@@ -264,18 +264,18 @@ And may include archetypes such as:
 - Relationship Development — develops new relationships, resources, and opportunities on behalf of the circle   
     
   
-Roles exist to serve the Circle functionally—not to confer status.
+Roles exist to serve the Circle functionally—not to confer status.  
   
 ## When Tension Arises
   
-Tension is not failure.
-Avoidance is.
+Tension is not failure.  
+Avoidance is.  
 
 Both convergence and divergence  
 Are important parts of any circle's journey.  
   
 
-When conflict appears:
+When conflict appears:  
 
 - slow down
     
@@ -295,15 +295,15 @@ As a rule of thumb, if tension and divergence cannot be resolved
 By the parties impacted within a few days,  
 Seek the council of a wise elder outside the circle.  
   
-Circles grow by learning to stay present
-through discomfort—without harm.
+Circles grow by learning to stay present  
+through discomfort—without harm.  
   
 ## Passing the Flame
   
 Circles are not meant to hoard coherence  
 And Heaven cannot be co-created in isolation or stagnation.  
   
-Passing the Flame means:
+Passing the Flame means:  
 
 - sharing stories of transformation  
     
@@ -314,23 +314,23 @@ Passing the Flame means:
 - monitoring the progress of **The Game** against the [[Milestones]] 
     
   
-When a Circle grows beyond intimacy,
+When a Circle grows beyond intimacy,  
 Follow the pattern of Nature,  
 Seed a new one,  
 Remain connected,  
 And celebrate the growth of The Game  
   
-This is how the New Civilization scales—
-not by control, but by cellular replication with care.
+This is how the New Civilization scales—  
+not by control, but by cellular replication with care.  
   
 ## When a Circle Completes Its Arc
   
 Every Circle has a lifecycle.  
 All Circles dissolve naturally at some point in their Story.  
-This is not failure.
+This is not failure.  
 This is how nature and reality works.  
   
-A Circle has completed its arc when:
+A Circle has completed its arc when:  
 
 - its purpose has been fulfilled
     
@@ -339,25 +339,25 @@ A Circle has completed its arc when:
 - or new forms are ready to emerge
     
   
-Close with gratitude.
-Name what was learned.
+Close with gratitude.  
+Name what was learned.  
 Share the Stories.  
 Ensure no one is involuntarily left behind.  
 Embody new and improved forms.  
 Pass the Flame forward.  
   
-Nothing true is lost.
+Nothing true is lost.  
 
 ---
 
 ### A Closing Reminder
   
-A Circle does not need to be perfect.
-It needs to be committed and sincere.
+A Circle does not need to be perfect.  
+It needs to be committed and sincere.  
   
-If even two or three people
-choose truth, care, and collaborative action together,
-the New Civilization has already begun.
+If even two or three people  
+choose truth, care, and collaborative action together,  
+the New Civilization has already begun.  
 
 ## Next Steps 
 

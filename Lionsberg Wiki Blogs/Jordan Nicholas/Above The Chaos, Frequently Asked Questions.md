@@ -11,5 +11,3 @@ If I am missing anything that would be helpful to have answered in a way that ca
 With love, in community, 
 
 ~ J 
-
-

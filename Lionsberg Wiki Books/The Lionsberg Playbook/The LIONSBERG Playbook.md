@@ -81,5 +81,5 @@ For the complete index of every Part, chapter, and play, see **[[The Architectur
 
 ---
 
-**The Playbook is a living document — growing as The Great Game unfolds.**
+**The Playbook is a living document — growing as The Great Game unfolds.**  
 _It cannot be finished. It can only be lived._

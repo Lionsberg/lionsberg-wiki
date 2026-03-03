@@ -16,6 +16,6 @@ Over the last several decades, America has continued to play a vital role as a g
 
 ___
 
-Forward to [[II.E. Progressing Towards the Ideal]]        
-Back to [[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]        
+Forward to [[II.E. Progressing Towards the Ideal]]  
+Back to [[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

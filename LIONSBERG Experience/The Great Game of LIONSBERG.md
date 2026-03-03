@@ -1,7 +1,7 @@
 # The Great Game of LIONSBERG
-_The Awakening of the Living Gate and the Path to Heaven On Earth_
+_The Awakening of the Living Gate and the Path to Heaven On Earth_  
 
-**Guidance Note**: _If you have not yet read **[[Welcome to LIONSBERG]]**, begin there. It provides the foundation upon which this Path is built._
+**Guidance Note**: _If you have not yet read **[[Welcome to LIONSBERG]]**, begin there. It provides the foundation upon which this Path is built._  
 
 ---
 
@@ -244,7 +244,7 @@ The world awaits your move
 
 **Cross the Threshold.**  
 **Enter the Game.**  
-**Take up [[The LIONSBERG Playbook]]**
+**Take up [[The LIONSBERG Playbook]]**  
 _It opens only when you choose, and its Plays reveal the Way._  
 
 ## **Benediction**
@@ -281,4 +281,4 @@ Go forth, O Player of The Great Game
 The New Dawn is breaking  
 and All Creation awaits your next step  
 
-Onward, to **[[The LIONSBERG Playbook]]**
+Onward, to **[[The LIONSBERG Playbook]]**  

@@ -2,7 +2,7 @@
 
 Use a Command Line utility like Terminal on Mac or PowerShell? on Windows. 
 
-Change Directory to the root of the wiki. 
+Change Directory to the root of the wiki.  
 - For example `cd (drag folder from Finder window onto Terminal)`
 
 - git status (get information about repo) 

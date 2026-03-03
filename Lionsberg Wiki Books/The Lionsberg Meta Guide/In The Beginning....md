@@ -19,5 +19,3 @@ As it began speaking the [[Logos]] in [[Truth]] and [[Love]], the waters began t
 As the [[New Vessel]] approach, a Loving Hand reached out and began lifting us up, one by one, out of the seas of [[Chaos]], and into an ark that was Strong and Good, purpose-built to carry Us up out of the Dark waters and [[Forward]] towards our [[Destiny]]. 
 
 [[LIONSBERG]] was [[On The Move]]. 
-
-

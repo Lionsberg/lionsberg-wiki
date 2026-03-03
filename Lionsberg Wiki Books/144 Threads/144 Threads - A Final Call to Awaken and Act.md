@@ -51,4 +51,3 @@ ____
 Onward To: [[1. Sounding the Alarm]]  
 Return to Table of Contents: [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 Onward to Other [[Lionsberg Wiki Books]]  
-

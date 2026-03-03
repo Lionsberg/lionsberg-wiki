@@ -44,5 +44,3 @@ It often is experienced as if something (thoughts, feelings, impressions) are "b
 Often these impressions contain very valuable [[Wisdom]] that is crucial for Governance / Navigation towards the Goal. 
 
 [[Template For PM Navigation Meeting]]  
-
-

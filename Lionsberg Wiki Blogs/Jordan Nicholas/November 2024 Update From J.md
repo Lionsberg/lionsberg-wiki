@@ -57,5 +57,3 @@ Despite Our Apparent Individuation, We Are One.
 Link to J's Recent updates: [[Above The Chaos]]  
 Link to Jordan's Final Report: [[Existential Threat - Reporting Back From Battle]]   
 Link to J's Future and Invitation: [[What's Next For J?]]  
-
-

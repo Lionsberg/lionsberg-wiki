@@ -184,7 +184,7 @@
 - Process
 - Media / Arts / Creative Expression 
 
-Other thoughts
+Other thoughts  
 
 - Work with one existing project
 - Energy maps to connect, track resources
@@ -222,7 +222,7 @@ Other thoughts
 
 ### I Liked
 
-Liked:
+Liked:  
 
 * heard from lots of people
 * heard about where the energy currently is within Meta Project
@@ -231,65 +231,65 @@ Liked:
 
 1. The experience I had of feeling rich content, increasing clarity and a path of possible emergence occurring. Actions of continuing. Not sure what to say structurally for this. It felt as the dialogue was organic and in a sense of flow.
 
-Steady cadence of exchanges brought in the big undercurrents we were struggling to deal with. This isn't just paradox - it is the real nature of the work and we were very much in our craft to allow this to emerge in a steady and articulated way.
+Steady cadence of exchanges brought in the big undercurrents we were struggling to deal with. This isn't just paradox - it is the real nature of the work and we were very much in our craft to allow this to emerge in a steady and articulated way.  
 
-I liked the extraordinary richness and diversity of frameworks, perspectives, and experience that emerged into a coherent thread informing what we might do next and why. I liked that this feels like legitimate governance / navigation - super consciously and thoughtfully examing where we are, patterns, what is next, and why.
+I liked the extraordinary richness and diversity of frameworks, perspectives, and experience that emerged into a coherent thread informing what we might do next and why. I liked that this feels like legitimate governance / navigation - super consciously and thoughtfully examing where we are, patterns, what is next, and why.  
 
-I liked the sort of intense and robust discussion from a number of different people and perspectives.
+I liked the sort of intense and robust discussion from a number of different people and perspectives.  
 
-good conversation around structuring for complexity
+good conversation around structuring for complexity  
 
-Liked, continue: emergent insights, thoughtful understanding of where we are and what is needed, good listening, constructively and fast moving forward. Pete's comments to Jordan, the kindness and expansiveness how it left us, and Jordan's generous and immediate listening. Our different complementary viewpoints brought to any topic. And I really like all of you as people, and love spending time in the process of building something worthwhile from nothing to what feels like moving slowly but is really moving fast!
+Liked, continue: emergent insights, thoughtful understanding of where we are and what is needed, good listening, constructively and fast moving forward. Pete's comments to Jordan, the kindness and expansiveness how it left us, and Jordan's generous and immediate listening. Our different complementary viewpoints brought to any topic. And I really like all of you as people, and love spending time in the process of building something worthwhile from nothing to what feels like moving slowly but is really moving fast!  
 
-I liked the calm but vibrant energy i felt from the group. I like how we continue to build on each others ideas, experience, suggestions, to take another move forward. I love how you all have taught me so much already and I'm excited for all the other learnings coming up - for all of us
+I liked the calm but vibrant energy i felt from the group. I like how we continue to build on each others ideas, experience, suggestions, to take another move forward. I love how you all have taught me so much already and I'm excited for all the other learnings coming up - for all of us  
 
-Liked the dialog, the voice/chat mix. Appreciated the continuing emergence of our efforts at roots-up connecting without top-down controlling.
+Liked the dialog, the voice/chat mix. Appreciated the continuing emergence of our efforts at roots-up connecting without top-down controlling.  
 
-Liked the flow and energy building.
+Liked the flow and energy building.  
 
 ### I Wish...
 
-I wish some of the people who were there in early meetings would rejoin and give feedback of what they see now. I wish we were clear in the many aligned interconnecting streams of value we are dealing with. I feel and intuit it but it needs to be clearly articulated and "sold" on the right levels, to quickly resource with best people, financing etc, as it has potential to be.
+I wish some of the people who were there in early meetings would rejoin and give feedback of what they see now. I wish we were clear in the many aligned interconnecting streams of value we are dealing with. I feel and intuit it but it needs to be clearly articulated and "sold" on the right levels, to quickly resource with best people, financing etc, as it has potential to be.  
 
-There is a pattern behind this - is it time, psychological safety, a cadence of turn taking? It is  hard to put my finger on yet we all felt it.  I wish to know how to explain this to others as we all came up with a similar thing in what did we do well. Magic.
+There is a pattern behind this - is it time, psychological safety, a cadence of turn taking? It is  hard to put my finger on yet we all felt it.  I wish to know how to explain this to others as we all came up with a similar thing in what did we do well. Magic.  
 
-I wish we could do occasional breakout groups for dialog on topics.
+I wish we could do occasional breakout groups for dialog on topics.  
 
-I wish for us all that we continue to feel passionate about the work we are doing - 'cause that means we are on the right track. It will also be partly what attracts the people who are looking for us and who will join us to do this important work. I wish you all have a wonderful rest of your day 🥰
+I wish for us all that we continue to feel passionate about the work we are doing - 'cause that means we are on the right track. It will also be partly what attracts the people who are looking for us and who will join us to do this important work. I wish you all have a wonderful rest of your day 🥰  
 
-I wish:
+I wish:  
 
 * Jordan could be a participant and not have to facilitate, so he feels the flow of emergence differently; wish to hear his thoughts from this space.
 * The pattern created today could be a seed for future navigation meetings.
 * to hear more from everyone about where the energy is moving most for them
 
-I wish we had a core team resourced to work on this full time. I wish we had a well resourced support structure to serve and empower the core functional areas that are needed for the body to structure itself. I wish I had $10M of philanthropic funding, and $10M of investment funding, to accomplish the first acquisitions and next stages and to resource and coordinate passionate teams in core functional areas.
+I wish we had a core team resourced to work on this full time. I wish we had a well resourced support structure to serve and empower the core functional areas that are needed for the body to structure itself. I wish I had $10M of philanthropic funding, and $10M of investment funding, to accomplish the first acquisitions and next stages and to resource and coordinate passionate teams in core functional areas.  
 
-Wish: I could expand the number of hours a day into the timeless... yet the paradox of being totally peaceful with the 24 hours that exist without an opportunity to change. Okay. Off topic but all that comes to mind right now. :-)
+Wish: I could expand the number of hours a day into the timeless... yet the paradox of being totally peaceful with the 24 hours that exist without an opportunity to change. Okay. Off topic but all that comes to mind right now. :-)  
 
-I wish no one here (or, hell, anywhere) was competing for resources or recognition.
+I wish no one here (or, hell, anywhere) was competing for resources or recognition.  
 
-I wish that we would have a structure/ritual for this meeting, clarity on what we are striving for, and stories to learn from related to that striving.  I wish we would share what has been acted upon in between meetings - what is the target condition for each one of us that aligns us toward our collective striving and what have we learned from that experiment.
+I wish that we would have a structure/ritual for this meeting, clarity on what we are striving for, and stories to learn from related to that striving.  I wish we would share what has been acted upon in between meetings - what is the target condition for each one of us that aligns us toward our collective striving and what have we learned from that experiment.  
 
 ### I Wonder...
 
-are we thinking big enough? and what would happen if we got wishes above, what would be different in how we see do think?
+are we thinking big enough? and what would happen if we got wishes above, what would be different in how we see do think?  
 
-I wonder what would happen if the resources were available to move this into a dynamically growing ecosystem of regeneration, emerging at a pace that not constrained by financial resources.
+I wonder what would happen if the resources were available to move this into a dynamically growing ecosystem of regeneration, emerging at a pace that not constrained by financial resources.  
 
-I wonder what would happen if we chose a subject that was really contentious or might be. So we have 20K USD how should we spend it now? How can we prioritise and how to we behave as we do this?
+I wonder what would happen if we chose a subject that was really contentious or might be. So we have 20K USD how should we spend it now? How can we prioritise and how to we behave as we do this?  
 
-I wonder: What will emerge for each of us over the next two weeks, as a ripple from our focus today on the groups that are emerging
+I wonder: What will emerge for each of us over the next two weeks, as a ripple from our focus today on the groups that are emerging  
 
-I wonder what would happen if we could communicate EXTREMELY effectively? This is critical. There is so much I want to know about all the work happening in the Meta Project and we are just at the beginning. We need to get really good at this to be successful.
+I wonder what would happen if we could communicate EXTREMELY effectively? This is critical. There is so much I want to know about all the work happening in the Meta Project and we are just at the beginning. We need to get really good at this to be successful.  
 
-I wonder what would happen if - we actually believed it were possible and acted as if it were our responsibility to co-create the best possible future for all generations of life. Without for a second flinching or shying away from that highest overarching and uniting goal.
+I wonder what would happen if - we actually believed it were possible and acted as if it were our responsibility to co-create the best possible future for all generations of life. Without for a second flinching or shying away from that highest overarching and uniting goal.  
 
-I wonder what would happen if we create the conditions in this meeting for emergence to occur with a shared leadership model and a structure (that we would experiment with over time)...
+I wonder what would happen if we create the conditions in this meeting for emergence to occur with a shared leadership model and a structure (that we would experiment with over time)...  
 
-I wonder if everything we were doing was to support projects not in the room, we would feel more ease?
+I wonder if everything we were doing was to support projects not in the room, we would feel more ease?  
 
-I wonder what would happen if we tried some oral updates from members on their key areas of interest & action, and some discussion.
+I wonder what would happen if we tried some oral updates from members on their key areas of interest & action, and some discussion.  
 
 ## Closing
 

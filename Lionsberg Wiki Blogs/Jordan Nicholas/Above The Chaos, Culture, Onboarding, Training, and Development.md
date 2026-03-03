@@ -34,7 +34,7 @@ And so you know that the principle role of every person who ever engages is to [
 
 Over time, [[The Way]] your Organism Co-Operates becomes its most valuable and irreplaceable asset, organically developed over generations of [[Continuous Learning And Improvement]].  
 
-____
+____  
 The [[LIONSBERG System]] is being designed and built as a [[New Human Operating System]]. 
 
 It is meant to be localizable and adaptable to every [[Domain]] across each of the [[Levels of Analysis]]. 

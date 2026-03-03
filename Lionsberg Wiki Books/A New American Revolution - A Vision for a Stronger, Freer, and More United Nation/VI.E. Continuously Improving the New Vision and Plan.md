@@ -11,5 +11,5 @@ In short, the New Vision and Plan for America must be a collaborative and partic
 ___
 
 Forward to [[VII.A. Inspiring Voices and Reflections on America]]  
-Back to [[VI.D. A Call to Action for a New American Revolution]]        
+Back to [[VI.D. A Call to Action for a New American Revolution]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

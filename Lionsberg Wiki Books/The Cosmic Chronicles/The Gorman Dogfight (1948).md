@@ -91,4 +91,3 @@ The encounter was witnessed from the ground by air traffic controllers at Hector
     
     - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
     - Randle, Kevin D. _Project Blue Book Exposed._
-

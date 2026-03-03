@@ -93,4 +93,3 @@ The story remained largely unknown until decades later, when investigative journ
     
     - Vallée, Jacques, and Harris, Paola. _Trinity: The Best-Kept Secret._
     - Dolan, Richard. _UFOs and the National Security State._
-

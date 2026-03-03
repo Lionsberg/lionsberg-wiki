@@ -40,7 +40,7 @@
     -  put pieces together, give those to the kids and young people getting educated... 
     - Wendy Ellyatt: https://kinshipearth.org/team
     - Chief | Women have always been powerful.
-https://chief.com
+https://chief.com  
     - SET UP TASK FORCE... on program... 
         - Wendy working with them on Kinship Earth network 
         - Organization called Chief - women in places of leadership - Barbara Murs - third member of BFI - is a member 
@@ -120,9 +120,9 @@ https://chief.com
     - All of us working in this group - all working in different entities - and how that differentiates from Lionsberg 
     - The coordinated followrship 
 - George 
-Our bare feet connect humans to our earth:
-https://www.youtube.com/watch?v=x_rDFa6kZfI
-Shoespiracy - a short film created by VivoBarefoot
+Our bare feet connect humans to our earth:  
+https://www.youtube.com/watch?v=x_rDFa6kZfI  
+Shoespiracy - a short film created by VivoBarefoot  
 - Elibabeth 
     - There are aspects and functions being performed in layer two
     - what is being called into existence - is trying to get our arms around the missing pieces, start to try to activate in support of goal 1... 
@@ -198,4 +198,3 @@ Shoespiracy - a short film created by VivoBarefoot
 - How we progressively shift energy from the old to the new... 
 - The manhattan project of all things... 
 - 
-

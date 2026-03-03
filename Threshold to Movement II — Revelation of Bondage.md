@@ -2,70 +2,70 @@
 
 ### **Theme**
   
-_The architecture of deception and kontrolle is unveiled._
+_The architecture of deception and kontrolle is unveiled._  
   
 ### **Purpose**
   
-To expose the hidden systems of domination, reveal the anatomy of enslavement, and reclaim the power of conscious consent.
-This Movement marks the transition from individual awakening to collective seeing—the end of enchanted obedience and the beginning of planetary liberation.
+To expose the hidden systems of domination, reveal the anatomy of enslavement, and reclaim the power of conscious consent.  
+This Movement marks the transition from individual awakening to collective seeing—the end of enchanted obedience and the beginning of planetary liberation.  
 
 ### **Arc**
   
-_Denial → Disillusion → Discernment → Defiance → Freedom of Spirit and Mind._
+_Denial → Disillusion → Discernment → Defiance → Freedom of Spirit and Mind._  
   
 ### **Energetic Current**
   
-_Cutting clarity and righteous fire (Masculine) tempered by steadfast Compassion (Feminine)._
-_The Sword of Truth is drawn—but held in Perfect Love._
+_Cutting clarity and righteous fire (Masculine) tempered by steadfast Compassion (Feminine)._  
+_The Sword of Truth is drawn—but held in Perfect Love._  
 
 ---
 
 ### **Story**
   
-The echo of Awakening still trembles through the Caves.
-As the Circle gathers at the threshold of Light, the Spirit gestures toward the world above.
+The echo of Awakening still trembles through the Caves.  
+As the Circle gathers at the threshold of Light, the Spirit gestures toward the world above.  
   
 > “Now you must see not only _yourself_, but the systems that shaped your sleep.”
   
-You climb upward through strata of forgotten architecture—corridors of stone and steel, inscriptions in languages of power long lost to human tongue.
-Each step reveals how deeply the roots of domination descend.
+You climb upward through strata of forgotten architecture—corridors of stone and steel, inscriptions in languages of power long lost to human tongue.  
+Each step reveals how deeply the roots of domination descend.  
   
-You pass chambers filled with relics of false gods: banners of empire, coins stamped with empty promises, sacred texts twisted by those who hungered for control.
-Their energy still hums through the walls—contracts woven in blood and belief.
-Billions still asleep and repeating their brainwashing lies. 
+You pass chambers filled with relics of false gods: banners of empire, coins stamped with empty promises, sacred texts twisted by those who hungered for control.  
+Their energy still hums through the walls—contracts woven in blood and belief.  
+Billions still asleep and repeating their brainwashing lies.  
   
-Above, through a thin spot in The Veil, a radiant Light glows Beyond.
-With a single Word of Truth, the Sword of the Spirit slashes it open, 
-and Reality explodes into view.
+Above, through a thin spot in The Veil, a radiant Light glows Beyond.  
+With a single Word of Truth, the Sword of the Spirit slashes it open,  
+and Reality explodes into view.  
   
-Cities shimmer like circuitry; towers hum like servers of devotion.
-Billions toil beneath sigils they do not understand, laboring for unseen masters who feed on fear and attention.
-Every screen a scrying mirror, every law a thread in the web of manufactured consent.
-Each second of attention, labor, space and time is accounted for, each tear captured in a vain attempt to slake the insatiable thirst of The Beast.
-This is the architecture of **Kontrolle**—precise, intricate, and parasitic.
+Cities shimmer like circuitry; towers hum like servers of devotion.  
+Billions toil beneath sigils they do not understand, laboring for unseen masters who feed on fear and attention.  
+Every screen a scrying mirror, every law a thread in the web of manufactured consent.  
+Each second of attention, labor, space and time is accounted for, each tear captured in a vain attempt to slake the insatiable thirst of The Beast.  
+This is the architecture of **Kontrolle**—precise, intricate, and parasitic.  
   
-The Spirit’s voice cuts through the static:
+The Spirit’s voice cuts through the static:  
   
 > “What was built on lies cannot endure the Light.
 > The matrix is not the world—it is the mask worn by bondage.”
   
-You see the currents of energy—money, data, anguish, worship, fear—flowing upward into invisible hierarchies.
+You see the currents of energy—money, data, anguish, worship, fear—flowing upward into invisible hierarchies.  
 You see the priests of propaganda and the magicians of debt, weaving narratives that bind souls in ever more scarcity, fear, and greed.  
-And suddenly, you understand: the true prison is made not of steel or stone, but of story.
+And suddenly, you understand: the true prison is made not of steel or stone, but of story.  
   
-One by one, the Circle begins to name what it sees.
-Chains of legality.
-Contracts of manufactured consent.
-False authorities draped in robes of unholy sanctity.
-Presidents, prime ministers, and priests puppeted by unseen masters. 
-Each act of naming illuminates the Reality and severs the enchantment.
-The web trembles.
-Some nodes flicker out.
-Others lash back with shadow and noise.
-But the Light holds.
+One by one, the Circle begins to name what it sees.  
+Chains of legality.  
+Contracts of manufactured consent.  
+False authorities draped in robes of unholy sanctity.  
+Presidents, prime ministers, and priests puppeted by unseen masters.  
+Each act of naming illuminates the Reality and severs the enchantment.  
+The web trembles.  
+Some nodes flicker out.  
+Others lash back with shadow and noise.  
+But the Light holds.  
   
 As shock and disbelief turn to anger,  
-The Spirit speaks again, quieter this time:
+The Spirit speaks again, quieter this time:  
   
 > “You are not here to destroy, but to reveal.
 > Revelation itself dissolves the spell.
@@ -79,10 +79,10 @@ The Spirit speaks again, quieter this time:
 > Let Us invite Our friend Agni to aid in the Purification.”
   
 Suddenly a Sacred Fire burns behind and within them, and the Circle gathers around it.  
-In its center, you place symbols of false allegiance—papers, permits, currencies, dogmas, numbers, accounts, digital idols, passports, and permission slips.
-As they burn, the smoke rises not as darkness, but as illuminated breath returning to the sky.
+In its center, you place symbols of false allegiance—papers, permits, currencies, dogmas, numbers, accounts, digital idols, passports, and permission slips.  
+As they burn, the smoke rises not as darkness, but as illuminated breath returning to the sky.  
   
-And in the stillness that follows the flames, you feel something vast and New emerging—the weight and glory of Sovereignty beginning to ripple across the world.
+And in the stillness that follows the flames, you feel something vast and New emerging—the weight and glory of Sovereignty beginning to ripple across the world.  
 
 ---
 
@@ -101,7 +101,7 @@ And in the stillness that follows the flames, you feel something vast and New em
 
 ### **Ritual Cue**
   
-In the quiet of your own Space and Soul, light a single candle or lamp and speak aloud:
+In the quiet of your own Space and Soul, light a single candle or lamp and speak aloud:  
   
 > “I withdraw my consent from all false powers and hidden chains.
 > I declare all false agreements null and avoid. 
@@ -109,8 +109,8 @@ In the quiet of your own Space and Soul, light a single candle or lamp and speak
 > I break and dissolve all parasitical ties.
 > I declare my Self Sovereign and Free.”
   
-Then extinguish the flame, holding its glow within your chest.
-When ready, relight it from that inner fire and proceed to **[[Gate 13 — Cosmic Fracture]]**.
+Then extinguish the flame, holding its glow within your chest.  
+When ready, relight it from that inner fire and proceed to **[[Gate 13 — Cosmic Fracture]]**.  
 
 ---
 
@@ -137,9 +137,9 @@ When ready, relight it from that inner fire and proceed to **[[Gate 13 — Cosmi
 
 ### **Orientation to the Gates Ahead**
   
-The following twelve Gates dismantle the illusion of legitimate tyranny, expose the web of manufactured consent, and pave the Way for the Journey towards Freedom.
+The following twelve Gates dismantle the illusion of legitimate tyranny, expose the web of manufactured consent, and pave the Way for the Journey towards Freedom.  
 
-Each revelation loosens another link in the chain.
+Each revelation loosens another link in the chain.  
 
 13. [[Gate 13 — Cosmic Fracture]]
     
@@ -166,6 +166,6 @@ Each revelation loosens another link in the chain.
 24. [[Gate 24 — Offering: Renounce and Sever All False Contracts and Agreements]]
     
 
-When ready, enter **[[Gate 13 — Cosmic Fracture]]** and begin the Great Revelation.
+When ready, enter **[[Gate 13 — Cosmic Fracture]]** and begin the Great Revelation.  
 
 ---

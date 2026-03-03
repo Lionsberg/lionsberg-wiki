@@ -1,6 +1,6 @@
 # Provisional Code
 
-This document is a [[Work In Progress]]. 
+This document is a [[Work In Progress]].  
 ___
 ## The Provisional Code
 
@@ -8,23 +8,23 @@ This is a simple Provisional Code to guide [[Wise Right]] Action during emergenc
 
 Do the [[Wise Right Thing]]. 
 
-Do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons, to accomplish [[The Goal]]
+Do the Wise Right Thing, at the Wise Right Time, for the Wise Right Reasons, to accomplish [[The Goal]]  
 ____
 
 [[Wise Right]] things are things that are done in a spirit of Love to help, and not harm, and which create Value, and avoid Waste. 
 
-____
+____  
 Do not do the wrong thing. 
 
 Wrong things are things that are done in a spirit of Fear or Self-Interest that harm, and do not help.  
 
 [[First, Do No Harm]].   
-_____
+_____  
 [[Love]].
 
-Love [[ONE]] and Love [[All]] as your Self. 
-___
-From any of these simple word tools, the entire Universal Law and Code can be derived. 
+Love [[ONE]] and Love [[All]] as your Self.  
+___  
+From any of these simple word tools, the entire Universal Law and Code can be derived.  
 ___
 
 ## The Lionsberg | Meta Code
@@ -260,13 +260,3 @@ For this reason, [[The Way]] must be understood and applied in Spirit, and not i
 If you do not resonate with the Code above, develop your own! Make sure it all flows from the [[Fundamental Tone]] of ONE [[Love]], and try to make it [[A Little Better Every Day]].  
 
 One can never discover the [[Way]] through intellectual learning. To know the Way, one must live it and discover it experientially by learning how to allow the Spirit of It to flow through them spontaneously and accurately into whatever time, place, or situation they find themselves in. 
-
-
-
-
-
-
-
-
-
-

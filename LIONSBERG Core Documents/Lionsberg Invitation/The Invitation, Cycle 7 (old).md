@@ -100,4 +100,3 @@ With Love, In Community,
 ~ J  
 
 Welcome to The Movement. Join us [Here](https://jordannicholas.org/join_the_movement). 
-

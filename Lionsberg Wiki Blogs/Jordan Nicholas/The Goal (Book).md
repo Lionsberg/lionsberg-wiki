@@ -24,14 +24,14 @@ In a holofractal Universe, the same could be said about any individual, tribe, c
 
 The Lionsberg System, Strategy, and Plan is [[Purpose-Built]] to bring [[The Goal]] into [[Reality]] in any [[Domain]] it is Incarnated. 
 
-___
+___  
 If [[The Goal]] of any [[ONE]] who Loves is to Co-Create [[Heaven]] for [[All]], an extraordinary cosmic opportunity opens up, whereby [[All Creation]] is invited to take up their unique [[SpatioTemporal Place]] and [[Functional Role]] in [[The Divine Symphony]] of Heaven. 
 
 ___
 
 The function of [[Consciousness]] in [[Universe]] is to explore, expand, expound, and bring forth that which Its Source desires or intends. 
 
-This requires an [[Ever Deepening]] [[Understanding]] of: 
+This requires an [[Ever Deepening]] [[Understanding]] of:  
 1. **Who** the Creator ***Is***, and therefore **What** It Intends to **Be**
 	- *[[Creator's Intent]] is not intellectual; It arises from the [[Character]], [[Nature]], and [[Essence]] of the [[ONE]]*    
 	- This is [[Point B]]—[[Where We Are Going]] and [[Why]]  
@@ -43,7 +43,7 @@ This requires an [[Ever Deepening]] [[Understanding]] of:
 
 It requires the [[Ever Deepening]] ReUnification of [[Apparently Individuated Consciousness]] with its [[Source]], the [[Ever Deepening]] ReMembrance of [[What Is]], and the [[Ever Deepening]] [[The Quest to Become and Co-Create Heaven|Quest to Become and Co-Create Heaven]].  
 
-___
+___  
 The statement: 
 
 *"Every action that brings an organization closer to its **Goal** is [[Productive]]. Every action that does not is [[Not Productive]]."* 
@@ -52,7 +52,7 @@ The statement:
 
 *Every action that produces [[Throughput]] of [[The Goal]] creates [[Value]]. Every action that does not is [[Waste]].*   
 
-____
+____  
 When the [[LIONSBERG System]] incarnates in a Domain whose inhabitants are Ready... 
 
 It brings to them, usually for the first time in their History or Conception, an [[Overarching and Uniting]] Way to rise into [[Higher Order Functional Unity]] and [[Co-Create Heaven]]—Right Where They Are. 
@@ -61,14 +61,14 @@ It brings to them, usually for the first time in their History or Conception, an
 
 By ***Becoming*** the kinds of Conscious, Enlightened, Co-Creative Beings Who [[Bring Heaven to Earth and Beyond]], We ensure that We will be able to experience ever more of Heaven across ever more lifetimes and Apparent SpatioTemporal Expanses. (*We say "apparent", because of course We are aware that [[SpaceTime]] is a relative illusion born of Who, Where, and When We Are.*)  
 
-____
+____  
 [[Becoming By Doing]]  
 [[Doing By Becoming]]  
 ___
 
 To Manifest [[The Goal]] of [[Heaven on Earth and Beyond]], We must [[Progressively Transform]] Our Selves—including every [[Apparently Individuated]] Soul on Earth: 
 
-***FROM*** the [[Old]], insufficient, present [[State of Being]]...
+***FROM*** the [[Old]], insufficient, present [[State of Being]]...  
 ***TO*** the [[New]], higher, Intended [[State of Being]].  
 
 Although We are already [[Perfectly Imperfect]], We Love Our Selves and One Another far too much to remain **Who and Where We Are**—plagued by suffering, scarcity, and injustice, immeasurably below Our Ultimate Potential, Intention, and Goal.  
@@ -79,11 +79,10 @@ Is that not [[The Goal]] for any One We Love? To Help them develop towards the f
 
 [[Heaven]] is therefore a State of Being in a Domain where All things are helping One Another rise towards the fullness of Potential and Flourish. It is an already perfect State and Place, that continues to get [[A Little Better Every Day]] as All its inhabitants harmonize in [[The Divine Symphony]] [[That Causes It To Be So]]. 
 
-It is for this reason that it has been said that [[The Kingdom of Heaven]] is *within*. 
-___
+It is for this reason that it has been said that [[The Kingdom of Heaven]] is *within*.  
+___  
 So let us fire up the assembly line, and begin moving Our Selves, one at a Time: 
 
 ***[[FROM the Old TO the New]].***  
 
 If We put the [[LIONSBERG System]] to use, We can move Our Selves quickly. 
-

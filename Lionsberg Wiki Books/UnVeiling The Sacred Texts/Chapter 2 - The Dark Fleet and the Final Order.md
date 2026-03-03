@@ -17,4 +17,3 @@ By 2024, as the false authorities, backed by the Dark Fleet, were preparing to i
 And [[The Window]] was closing fast. 
 
 [[The Greatest Fraud, Deception, and Existential Threat in History]] was about to be revealed. 
-

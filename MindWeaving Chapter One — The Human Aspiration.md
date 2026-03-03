@@ -230,7 +230,7 @@ Of Thought, Word, and Time
 Back up into the higher states  
 Of Consciousness which are bound  
 Neither by the limitations of Time and Space  
-Nor individuality and locality 
+Nor individuality and locality  
 
 It is from the higher states of  
 Pure Undifferentiated Consciousness  
@@ -287,7 +287,7 @@ _It already Is and Is Becoming_
 
 The [[Evolution]] We speak of  
 Is not cold random mechanical adaption  
-Of an unconscious material substrate 
+Of an unconscious material substrate  
 But rather the Divinely Guided unfurling  
 Of the ONE Cosmic Body —  
 Every particle permeated by Spirit and Consciousness —  
@@ -335,7 +335,7 @@ That it did not create
 And Which does not depend on it  
 But rather Which it depends upon  
 
-As [[We Have Heard]] it said: 
+As [[We Have Heard]] it said:  
 
 > _That does not depend upon this_ 
 > _But this upon That_  
@@ -347,7 +347,7 @@ And rediscover their kin
 Is presently beyond their ability to conceive  
 
 It is an issue of [[Transformational Experiences]]  
-And [[Experiential Learning]] whereby 
+And [[Experiential Learning]] whereby  
 
 > _To know the Way_  
 > _One must live it_
@@ -457,4 +457,4 @@ Humanity is finally free to move towards its [[Destiny]]
 It need only to awaken and arise  
 And rejoin [[The Divine Symphony]]  
 
-— _Selah_ — 
+— _Selah_ —  

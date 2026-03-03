@@ -22,7 +22,7 @@ The [[Core Team]] of the [[Program and Process Management Guild]] would be respo
 ## Program Development Responsibilities
 The Program Manager will also work with the [[Receiver]] to fulfill various remaining and ongoing [[Program Development]] responsibilities. 
 
-These include: 
+These include:  
 - Continuously improving the [[Meta Project Program Statement]]. 
 - Identify, onboard, and empower Integrated Project Delivery Teams [[(IPD Teams)]]. 
 - Oversee the development and implementation of plans and specifications for a continuously improving prototypical system ([[The Prototype]]). 

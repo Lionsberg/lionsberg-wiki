@@ -124,4 +124,3 @@ Declassified documents and testimonies reveal that NORAD conducted internal inve
     
     - _UFOs and Military Secrets._
     - _The Pentagon and the UFO Mystery._
-

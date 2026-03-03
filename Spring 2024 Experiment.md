@@ -17,7 +17,7 @@ His Journey through the summer UnVeiled [[The Greatest Fraud, Deception, and Exi
 ___
 ## Cycle Time Summary
 
-To accomplish this by 2026, a [[Lionsberg Cycle Time]] of no more than 3.66 Weeks / Cycle is required for the first 40 Cycles. 
+To accomplish this by 2026, a [[Lionsberg Cycle Time]] of no more than 3.66 Weeks / Cycle is required for the first 40 Cycles.  
 (March 2024 to December 2026 = 34 Months x 4.3 Weeks / Month = 146 Weeks Divided by 40 Cycles = 3.66 Weeks / Cycle).
 
 After this has been accomplished, the decentralized [[Force For Good]] has (365 weeks - 146 weeks = 219 weeks remaining) to accomplish the remaining 8 Cycles of Growth. 
@@ -37,7 +37,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - Cycle 7: 34 Co-Creators - 2 Weeks (7 Cycles in ~7 Weeks) 
 - Cycle 8: 55 Co-Creators - 4 Weeks (8 Cycles in ~11 Weeks) 
 
-**2024 Opportunity**
+**2024 Opportunity**  
 - If we pulse the movement quickly, we can have enough enlightened co-creators standing behind the [[New Vision and Plan]] by November 2024 to sweep the executive branch in the United States Election.  
 	- We would have an independent US President and several governors among The Movement  
 	- We could dramatically mitigate the existential threat of an AI + Thermonuclear WWIII, and leverage the logistical capacity of the United States and allies for aid and relief efforts instead (swords to ploughshares / weaponry to livingry)     
@@ -331,7 +331,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 52. [[Seth Blaustein]] - [Dollar Donation Club](https://dollardonationclub.com - via [[George Orbelian]]  
 53. [[Brooke Darshana]] - via [[George Orbelian]]  
 54. Connecting the power women of tech 
-	1. [[Laurene Powell Jobs]] - Emerson Collective 
+	1. [[Laurene Powell Jobs]] - Emerson Collective  
 	1. [[MacKenzie Scott]]  
 	1. [[Melinda Gates]]  
 	1. [[Wendy Schmidt]]  
@@ -372,7 +372,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 87. [[Kris Messdaghi]] - via [[George Orbelian]] - https://tapinfinite.com/about-kris  
 88. [[Bill Reed]] - via [[George Orbelian]] - https://regenesisgroup.com/team/bill-reed 
 89. [[Stephen Gomes]] - Kinship Earth Flow Fund - continuation of [[Marion Rockefeller Weber]]'s flow fund
-	1. Hanman Lou? - working in china town documenting 30 years of flow fund - most detailed knowledge of data surfaces when analyzing people [[Susan Davis Moora]] funded… independent thinkers - /“see what needs to be done and get going
+	1. Hanman Lou? - working in china town documenting 30 years of flow fund - most detailed knowledge of data surfaces when analyzing people [[Susan Davis Moora]] funded… independent thinkers - /“see what needs to be done and get going  
 90. [[Rick Barrows]] - via [[George Orbelian]] - https://www.linkedin.com/in/rick-barrows-378b8aa4/ - Fish Nutritionist (conceptually crucial to healthy farmed fish and eliminating ocean overfishing)  
 91. [[Nik Bertulis]] - http://www.nikbertulis.com - via [[Jordan]]  
 92. [[Steve Schwarz]] - Art of Tea - via [[Jordan]]  
@@ -444,7 +444,7 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 158. Janet Na 
 159. Jon Crabtree  
 
-[[Above The Chaos, April 2024 Above The Chaos Tour Findings]] 
+[[Above The Chaos, April 2024 Above The Chaos Tour Findings]]  
 ## Declined First Invitation 
 
 1. Doug Breitbart (declined participation, offered coaching)   

@@ -10,7 +10,7 @@ The [[Spirit]] of the [[Creator]] lived on in the hearts and minds of the commun
 
 The people of Earth were happy and content. They enjoyed simple pleasures like spending time with loved ones, savoring delicious nourishing food, and appreciating the beauty of the natural world. They took pride in their accomplishments and progress, looking forward to a bright and prosperous future.
 
-___
+___  
 Forward to: [[Scene 5 - The Threshold Of Knowing]]  
 Back to: [[Scene 3 - The Boundary]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

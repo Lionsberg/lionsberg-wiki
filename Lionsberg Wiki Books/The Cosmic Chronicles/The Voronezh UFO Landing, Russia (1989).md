@@ -108,4 +108,3 @@ Skeptics have proposed alternative explanations, including mass hysteria or misi
 - **Documentaries:**
     
     - _The Voronezh UFO Incident_ – A detailed exploration of the event and its implications.
-

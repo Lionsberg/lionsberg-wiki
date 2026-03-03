@@ -5,18 +5,18 @@ Welcome to the [[Force For Good]]. We are glad you are here.
 ## A Brief Orientation
 
 1. For a brief overview of the Lionsberg System and Approach, the following are the best starting points: 
-	1. The [[One Sentence]] question
-	2. The [[Lionsberg Introduction]]
-	3. The [[LIONSBERG Manifesto]]
-	4. The One Page and Executive Summaries below. 
+	1. The [[One Sentence]] question  
+	2. The [[Lionsberg Introduction]]  
+	3. The [[LIONSBERG Manifesto]]  
+	4. The One Page and Executive Summaries below.  
 	5. Skimming the chapter titles on this page to catch the essence  
 2. This longer **Manifesto v2.0** expands upon the original significantly, delving deeper into context, strategy, structure, planning, resourcing and operationalization, with the Aim of serving as a more comprehensive Blueprint for The Movement. 
 3. This [[Lionsberg Wiki Book]] is a [[Work In Progress]]. The live links are to the chapters that have already been published. They provide an overview of: 
-	1. The **Meta Crisis** and proposed **Meta Solution** (Chapters 1-10)
-	2. The **imperative** for a **New System and Approach** (Chapters 11-15)
-	3. The **Genesis** and **Mission** of **Lionsberg** (Chapters 16 and 17)
-	4. The **Lionsberg Strategy** and **Work Breakdown Structure** (Chapters 24 and 25). 
-	5. And more, with other sections coming soon; a quick skim of their titles will give you a sense of what lies ahead. 
+	1. The **Meta Crisis** and proposed **Meta Solution** (Chapters 1-10)  
+	2. The **imperative** for a **New System and Approach** (Chapters 11-15)  
+	3. The **Genesis** and **Mission** of **Lionsberg** (Chapters 16 and 17)  
+	4. The **Lionsberg Strategy** and **Work Breakdown Structure** (Chapters 24 and 25).  
+	5. And more, with other sections coming soon; a quick skim of their titles will give you a sense of what lies ahead.  
 4. For a deeper dive, visit the [[Lionsberg Wiki Books]] bookshelf, where you will find thousands of interlinked pages circumambulating these issues from a variety of angles, including [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
 5. If you are not accustomed to Spiritual and Religious Language, please read [[A Note On Spiritual and Religious Language]] below as an orientation to our intentional use of these powerful tools. Like the United States Constitution, the Lionsberg System appeals to the Creator / God as the Transcendent Source of our Sovereignty, Inalienable Rights and Responsibilities, and Indivisibility, while explicitly protecting freedom of thought, speech, belief, and religious expression. 
 

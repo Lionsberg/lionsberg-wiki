@@ -28,5 +28,3 @@ Forward to [[Towards an Objective Analysis of the 10 Most Canonical Texts in Hum
 Back to [[Part III - The Canonical Lens]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-
-

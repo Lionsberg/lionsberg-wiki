@@ -5,4 +5,3 @@ Dross refers to the waste or impurities that are removed from metals during the 
 The concept of dross is not limited to metalworking; it is also used metaphorically to describe anything considered worthless, trivial, or of poor quality. In various contexts, especially in literature and spiritual discussions, "dross" can symbolize the removal of moral or spiritual impurities, aiming towards purification or improvement of one's character or society.
 
 Therefore it is said, "[[Like Gold Refined Seven Times]]". 
-

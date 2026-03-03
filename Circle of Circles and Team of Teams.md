@@ -1,8 +1,8 @@
 # Circle of Circles and Team of Teams
 
-_A single [[Circle]] is a living cell.
-When cells connect, a Body begins to form.
-This is how the [[New Civilization]] assembles itself —
+_A single [[Circle]] is a living cell.  
+When cells connect, a Body begins to form.  
+This is how the [[New Civilization]] assembles itself —  
 not from the top down, but from the living edges inward._
 
 ---
@@ -53,9 +53,9 @@ The Old World built its institutions from the top down — authority flowing fro
 
 The [[New Civilization]] builds from the bottom up — from living Circles, voluntarily federating, carrying the same DNA at every level. This is how a Body grows. This is how an ecosystem self-organizes. This is how [[Heaven On Earth]] takes form in the world.
 
-A single Circle transforms a household, a street, a small community.
-A Circle of Circles transforms a neighborhood, a town, a domain of work.
-And when Circles of Circles connect with other Circles of Circles —
+A single Circle transforms a household, a street, a small community.  
+A Circle of Circles transforms a neighborhood, a town, a domain of work.  
+And when Circles of Circles connect with other Circles of Circles —  
 the planetary grid of the New Civilization begins to light up.
 
 You do not need permission to federate. You need only shared purpose, mutual trust, and the willingness to coordinate.

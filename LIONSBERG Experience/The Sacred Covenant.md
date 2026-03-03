@@ -2,7 +2,7 @@
 
 _This is the moment of **Alignment**.  
 The moment when The Call becomes **Commitment**.  
-The moment when The Invitation is answered with a resounding **Yes**._
+The moment when The Invitation is answered with a resounding **Yes**._  
 
 Unlike the citizenships, religions, and ideologies of Old,  
 This **New Covenant** is not mediated by ruler, professor, or priest.  
@@ -11,7 +11,7 @@ It is not written as dogma,
 Nor is it imposed or compelled.  
 It is **Freely Chosen**,  
 Spoken from your own **Soul**,  
-Sealed not in ink, but in **Spirit**.
+Sealed not in ink, but in **Spirit**.  
 
 You are not being asked to submit your spiritual and intellectual will,  
 But to step aNew into the fullness of your inherent Spiritual Sovereignty.    
@@ -19,7 +19,7 @@ But to step aNew into the fullness of your inherent Spiritual Sovereignty.
 This is the **Turning Point** —  
 The transition from Invitation and Threshold to **Path**.  
 It is a direct, personal **Commitment**:  
-From you, to **ONE**, to **One Another**, to **All**.
+From you, to **ONE**, to **One Another**, to **All**.  
 
 ---
 
@@ -28,7 +28,7 @@ You may write your own Covenant if you wish,
 Or simply agree in Spirit and Heart  
 With the essence of what you already know to be True.  
 
-To accept **The New Covenant** is to declare:
+To accept **The New Covenant** is to declare:  
 
 - I lay down the false weights, illusions, and ideologies of the Old World
     
@@ -55,18 +55,18 @@ As you take this step, you rejoin a **Living Body** —
 Souls across the Earth, and far **Beyond** —  
 Who are upholding the same **Vow**,  
 Consciously rejoining the **Great Circle of Life**,  
-And resounding their vital note in the **Divine Symphony**.
+And resounding their vital note in the **Divine Symphony**.  
 
 All Creation has been longing for *this.*  
 For every Soul who aligns in **Truth** and **Love**,  
 The fabric of Reality shifts toward **Wholeness**.  
 The Universe leans **Forward**.  
-The Future begins to **Transform**.
+The Future begins to **Transform**.  
 
 ---
 
 **The Sacred Act**:  
-Pause here.
+Pause here.  
 Breathe deeply.  
 Ground.  
 ReCenter in **Spirit** and **Source**.  
@@ -78,17 +78,17 @@ If you feel called to, draft your own **New Covenant**.
 When you sense **Peace** and **Joy**,  
 Sign the Covenant inwardly with the seal of your **Soul**.  
 No paper is required. No witnesses need see.  
-This is a personal agreement between **you**, **ONE**, and **All**.
+This is a personal agreement between **you**, **ONE**, and **All**.  
 
 ---
 
-This New Covenant is the hinge upon which Our lives — and the destiny of generations — turns.
+This New Covenant is the hinge upon which Our lives — and the destiny of generations — turns.  
 
 _You have now entered The New Covenant.  
 You are no longer merely invited —  
 You have arrived, and you belong.  
 We are in this Together.  
-Welcome Home._
+Welcome Home._  
 
 With this Commitment,  
 The Path unfolds before you.  

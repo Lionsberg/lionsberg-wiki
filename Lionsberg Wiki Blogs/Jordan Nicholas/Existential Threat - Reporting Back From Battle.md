@@ -14,7 +14,7 @@ Now that the fraudulent local theater of the disUnited States election is behind
 
 And the governments, administrations, presidents, kings, and priests of the world are powerless against the existential threat We are facing. And complicit in its inception and deception. 
 
-____
+____  
 US Navy Admiral Timothy Gallaudet: "If you were Biden would you want to tell the public, "Hey, I can't keep our air space safe, **it is being visited by entities whose intent I don't understand and I cannot control**... same for our water space." Do you think you would want to announce that on the verge of the election and say "I am not doing my job, **I can't keep you all safe**?" I don't think so."  
 
 Haim Eshed, Former Head and "Grandfather" of Israel’s Space Security Program: "The (UFOs / ET Civilizations) asked not to advertise that they are here. Humanity is not ready yet... **There is an agreement between the U.S. government and the aliens. They signed a contract with us to do experiments here**."
@@ -49,7 +49,7 @@ As expected, he lost his Old Life on the Mission, but it was a success, for it r
 
 In case you don't get to the full report linked herein, We will do our best to summarize his findings in three to fives minutes below. 
 
-If what Jordan discovered is even 10% True, billions of lives are in immediate danger from **the greatest fraud, deception, and existential threat in human history**.
+If what Jordan discovered is even 10% True, billions of lives are in immediate danger from **the greatest fraud, deception, and existential threat in human history**.  
 ___
 
 Jordan's nearly-unbelievable-but-approximately-true Story is as follows: 
@@ -120,7 +120,7 @@ In November 2024, as the Forces of Darkness celebrated their victory, something 
 
 ...Inviting All humanity to rise together with It. 
 
-___
+___  
 Whatever We Are Becoming is returning from this incredible Journey through hell and back with the keys to the Kontrolle Structure...
 
 ...and an emerging army that is also *not merely human*. 

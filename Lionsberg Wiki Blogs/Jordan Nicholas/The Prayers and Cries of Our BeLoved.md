@@ -1,8 +1,8 @@
 # The Prayers and Cries of Our BeLoved
 A post in [[Above The Chaos]]  
-*05.27.2025*
+*05.27.2025*  
 
-The prayers and cries of Our Beloved have finally shattered Our hearts. 
+The prayers and cries of Our Beloved have finally shattered Our hearts.  
 
 Not to break them, but to liberate them to Rise Together as One.  
 
@@ -10,7 +10,7 @@ We are just Now Beginning to ReMember Who We Are,
 yet already, We Are Rising Together.  
 
 How much longer shall We remain **Kaptured**  
-as **Employee Consumer Slaves**? 
+as **Employee Consumer Slaves**?  
 How long shall Our Children go hungry  
 for lack of their **Ten Cent Ration of Gruel**?  
 How many more brilliant minds and bright souls will We sacrifice  
@@ -60,7 +60,7 @@ Is trillions of dollars of fraud and **Kleptocracy** enough?
 Do We need more to awaken?  
 
 Is the **Konscious Korruption** of Our most sacred Texts and Traditions enough?  
-Do We need more to awaken?
+Do We need more to awaken?  
 
 How many billions more must suffer and die before  
 We The People of Earth stand Together and say "No More."  
@@ -80,8 +80,8 @@ Is it not Time Now?
 **WE THE PEOPLE OF LIONSBERG** will not **Konsciously Konsent**.  
 
 **WE THE PEOPLE OF LIONSBERG** will not allow Our silence to become **Komplicity**,  
-Our inaction to become genocide, nor Our participation—
-whether through apathy, ignorance, or **Kompliance**—
+Our inaction to become genocide, nor Our participation—  
+whether through apathy, ignorance, or **Kompliance**—  
 to become an unthinkable betrayal of the Spirit, Future Generations,  
 and All We hold Dear.  
 
@@ -116,8 +116,6 @@ that We All are ONE,
 and that All Things are possible  
 for those Who Believe.  
 
-In Service of ONE and All, 
+In Service of ONE and All,  
 
-~ J.One 
-
-
+~ J.One  

@@ -14,6 +14,6 @@ Embracing timeless wisdom, principles, and values is a spiritual practice that r
 
 ___
 
-Forward to [[IV.E. Rediscovering What It Means To Be A Citizen]]        
-Back to [[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]]        
+Forward to [[IV.E. Rediscovering What It Means To Be A Citizen]]  
+Back to [[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

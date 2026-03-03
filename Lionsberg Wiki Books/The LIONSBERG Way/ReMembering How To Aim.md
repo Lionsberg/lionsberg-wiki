@@ -4,10 +4,10 @@
 
 LIONSBERG sets the overarching and uniting [[Vision]] and [[Goal]] as the [[Aim]] of the [[System]], and empowers individuals and groups around the world to align their vision and aim with the [[Meta Aim]] of [[All]]. 
 
-[[Aim]] 
+[[Aim]]  
 [[Meta Aim]]  
 [[Goal]]  
 [[Meta Goal]]  
 [[One Thing]]  
-[[Aligning]] 
+[[Aligning]]  
 [[Stacking Up And Aligning]]  

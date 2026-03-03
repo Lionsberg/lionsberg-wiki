@@ -2,10 +2,10 @@
 A Post in [[Above The Chaos]]  
 **Summer Solstice 2025**   
 
-Greetings from East Africa.
+Greetings from East Africa.  
 
 A few weeks ago, we were weaving threads of vision in a sanctuary  
-in the mountains of Idaho when a cry pierced the stillness.
+in the mountains of Idaho when a cry pierced the stillness.  
 
 Food had run out.  
 
@@ -13,7 +13,7 @@ Our beloved children were going hungry.
 Our elders were collapsing under the unbearable weight  
 of holding schools and communities together with no resources left to give.  
 
-And then came the unforgettable words—
+And then came the unforgettable words—  
 
 > _“Every woman who has given birth understands… every child is one of her children.”_
 
@@ -22,7 +22,7 @@ And then came the unforgettable words—
 Voices cracked with exhaustion and broke with tears,  
 but shone with the Light of something eternal and True.  
 
-We knew, as many of you will know, exactly what we had to do.
+We knew, as many of you will know, exactly what we had to do.  
 
 ## What Would You Do?
 
@@ -58,13 +58,13 @@ It is up to **Us who receive the call**.
 ## The Story Unfolds
 
 In recent years, we have been co-creating a new platform, a new pattern, and a new community—  
-One that dares to believe **a better world is possible**, that it begins with **Us**, and that the time is **Now**.
+One that dares to believe **a better world is possible**, that it begins with **Us**, and that the time is **Now**.  
 
-We call it **LIONSBERG**.
+We call it **LIONSBERG**.  
 
 It exists to empower people like you and me to collaborate to meet real needs  
 and solve real problems together—immediately where we are—  
-while working toward systemic and planetary transformation in the years ahead.
+while working toward systemic and planetary transformation in the years ahead.  
 
 In 2024, we discovered what many had long suspected:  
 We do not actually have a functioning system of democratic self-governance—  
@@ -80,7 +80,7 @@ And so **The Mission** now accelerates:
 The next milestone is to connect and empower  
 **The First Three Percent** of humanity—  
 those awake and willing to rise, to act, and to build—  
-so that **Together**, we can usher in the next chapter of Earth’s story.
+so that **Together**, we can usher in the next chapter of Earth’s story.  
 
 ## The Summer Quests Have Begun
 
@@ -94,10 +94,10 @@ It will be an interesting next few weeks to say the least.
 At the same time, other Quests are beginning around the world—  
 in towns, guilds, and cities across continents.  
 
-Would you like to join us?
+Would you like to join us?  
 
 Would you like to **support**, to **participate**, or simply to **follow along**  
-and witness the unfolding of something real, sacred, and good?
+and witness the unfolding of something real, sacred, and good?  
 
 There is endless need.  
 And infinite room in this Mission and Movement for every soul  
@@ -110,7 +110,7 @@ please add your name and energy by clicking the link below.
 
 Your contribution of any amount opens the door.  
 
-You will receive:
+You will receive:  
 
 - **Field Updates** from East Africa and beyond  
     
@@ -155,7 +155,7 @@ in East Africa, in your own neighborhood or area of expertise, or on the global 
 Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
 **founding membership** and a **One Member One Voice** seat at the governance table—  
 as with all things LIONSBERG, on the basis of ongoing mutual consent and alignment.  
-We'll follow up with each responder personally to share how it works.
+We'll follow up with each responder personally to share how it works.  
 
 ## Are You Ready? 
 
@@ -164,7 +164,7 @@ We'll follow up with each responder personally to share how it works.
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
 <script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
-With unwavering Love, Faith, and Hope,
+With unwavering Love, Faith, and Hope,  
 
 **~ J**   
 

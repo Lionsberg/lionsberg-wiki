@@ -18,7 +18,7 @@ Project Portfolio Management
 
 Group Portfolio Management 
 
-Interoperability 
+Interoperability  
 - Cross-platform profile portability to allow for identity and key settings to be readily imported, exported, and synchronized across shared contexts.
 
 Media Story Dashboard 

@@ -12,7 +12,6 @@ Crucially, the Everything is a Project convention allows for the [[Work]] throug
 
 The Everything is a Project convention also helps to ensure that all work is managed effectively, with clear accountability and oversight. It helps to ensure that resources are used efficiently and effectively, and that all work is completed on time, within budget, and to a high standard of Quality. 
 
-In conclusion, the Everything is a Project convention is an essential component of the Lionsberg System, and is critical for ensuring that all work is aligned and integrated towards the shared Vision, and that everyone is working together effectively towards shared goals and objectives. By treating everything as a project, the Lionsberg System ensures that all work is managed effectively, and that everyone has a clear understanding of the purpose and impact of their work, both locally and globally. 
-___
+In conclusion, the Everything is a Project convention is an essential component of the Lionsberg System, and is critical for ensuring that all work is aligned and integrated towards the shared Vision, and that everyone is working together effectively towards shared goals and objectives. By treating everything as a project, the Lionsberg System ensures that all work is managed effectively, and that everyone has a clear understanding of the purpose and impact of their work, both locally and globally.  
+___  
 [[Template For Project]]  
-

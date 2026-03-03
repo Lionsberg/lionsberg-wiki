@@ -103,4 +103,3 @@ Some skeptics attributed the lights to reflections from squid boat lamps, the pl
     
     - _The Kaikoura UFO Incident_ – A detailed exploration of the sightings and their implications.
 - 
-

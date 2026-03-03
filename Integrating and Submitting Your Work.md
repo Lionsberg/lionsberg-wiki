@@ -1,8 +1,8 @@
 # Integrating and Submitting Your Work
 
-_Every [[Quest]] produces something.
-Results. Learnings. Tools. Stories.
-These are not yours to hoard.
+_Every [[Quest]] produces something.  
+Results. Learnings. Tools. Stories.  
+These are not yours to hoard.  
 They belong to the Whole — and the Whole needs them._
 
 ---
@@ -58,7 +58,7 @@ A movement of millions of Circles, each working independently, each producing re
 
 **When you submit your work, you complete the circuit.** Your effort flows into the river that feeds every other Circle downstream. Their effort flows back to you. The Body becomes smarter, stronger, more capable with every cycle.
 
-This is not accounting. This is communion.
+This is not accounting. This is communion.  
 This is how We build together.
 
 ---

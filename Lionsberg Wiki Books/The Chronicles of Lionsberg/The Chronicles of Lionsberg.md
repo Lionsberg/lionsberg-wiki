@@ -13,5 +13,3 @@
 1. The Dark Empires  
 2. The Fourth Reich  
 3. The Final Order  
-
-

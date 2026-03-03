@@ -19,6 +19,6 @@ In summary, the Lionsberg System is deeply aligned with biblical principles and 
 
 ___
 
-Forward to [[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]]    
-Back to [[Implementation And Roll-Out Of The Lionsberg System]]    
+Forward to [[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]]  
+Back to [[Implementation And Roll-Out Of The Lionsberg System]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

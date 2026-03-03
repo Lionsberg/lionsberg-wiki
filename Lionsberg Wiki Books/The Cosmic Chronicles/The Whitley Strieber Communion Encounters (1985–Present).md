@@ -119,4 +119,3 @@ Strieber’s decision to write _Communion_ was both cathartic and courageous. Th
     
     - _Communion (1989)_ – A film adaptation starring Christopher Walken.
     - _The Visitors: Whitley Strieber’s Story._
-

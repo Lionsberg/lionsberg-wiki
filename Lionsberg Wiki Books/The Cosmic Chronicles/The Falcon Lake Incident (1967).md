@@ -115,4 +115,3 @@ Michalak’s account remained consistent over decades, despite intense scrutiny.
 - **Documentaries:**
     
     - _Canada’s Greatest UFO Encounter_ – A detailed exploration of the Falcon Lake Incident.
-

@@ -114,4 +114,3 @@ The sightings caused a media frenzy in Mexico. Reports flooded in from various p
     
     - UFO Casebook Report: [http://www.ufocasebook.com](http://www.ufocasebook.com/)
     - Analysis of Eclipse UFOs: [https://www.mufon.com](https://www.mufon.com/)
-

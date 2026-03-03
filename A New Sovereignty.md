@@ -167,4 +167,3 @@ There is a citizenship in the New World available for everyone without exception
 We have seen damaging technologies virally scale to billions of users quickly. 
 
 How much more so should we be able to scale something so universally massive, positive, and good, when the the future of our children, our grandchildren, and all generations to come depends upon it? 
-

@@ -69,5 +69,3 @@ Doubling linking creates connection, energy and information flow, and equilibriu
 ### 20. The Total Network Should Align Its Energy and Resources To Produce Throughput of The Goal Via a Network of Commitments 
 
 ### 21. All Systems Including the Whole Should Use Feedback Loops to Learn and Get a Little Better Every Day - Continuous Elevation Towards The Goal 
-
-

@@ -111,5 +111,3 @@ The deputies, exhausted and confused, ended their chase after 86 miles, reportin
 - **Documentaries:**
     
     - _Chasing the Unknown: The Portage County UFO Incident_ – A detailed exploration of the event.
-
-

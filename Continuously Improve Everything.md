@@ -1,9 +1,9 @@
 # Continuously Improve Everything
 
-Nothing in [[The Great Game of LIONSBERG|The Great Game]] is fixed.
-Everything is a work in progress.
-Every [[Quest]], every [[Circles|Circle]], every practice, every agreement, every tool —
-All are subject to the same sacred discipline:
+Nothing in [[The Great Game of LIONSBERG|The Great Game]] is fixed.  
+Everything is a work in progress.  
+Every [[Quest]], every [[Circles|Circle]], every practice, every agreement, every tool —  
+All are subject to the same sacred discipline:  
 **Continuous improvement**.
 
 This is not perfectionism. It is faithfulness — the refusal to accept that the way things are is the way they must remain, and the commitment to make everything a little closer to [[Heaven On Earth]] with every cycle.
@@ -58,9 +58,9 @@ This is the opposite of the Old World's way, where problems are hidden, failures
 
 Action and learning are inseparable. You do not learn first and then act. You act, observe what happens, learn from the variance, and adjust. Then you act again — wiser, more aligned, more capable.
 
-This is how the living system evolves faster than the challenges it faces.
-This is how a movement of millions stays coherent without central control.
-This is how [[Heaven On Earth]] is built — not through a perfect plan executed once,
+This is how the living system evolves faster than the challenges it faces.  
+This is how a movement of millions stays coherent without central control.  
+This is how [[Heaven On Earth]] is built — not through a perfect plan executed once,  
 But through an imperfect plan improved ten thousand times by the people who are living it.
 
 **Improve everything. Always. Together.**

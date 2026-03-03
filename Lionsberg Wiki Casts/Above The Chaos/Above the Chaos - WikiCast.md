@@ -1,6 +1,6 @@
 # Above The Chaos - WikiCast
 
-Join Us as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]] and Co-Create the [[New World]]. 
+Join Us as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]] and Co-Create the [[New World]].  
 [[Lionsberg WikiCasts]]  
 
 ## Episodes:
@@ -25,14 +25,14 @@ ___
 
 **Niche**: [[Citizens of Goodwill]] engaged in [[The Battle]] to [[Confront And Overcome The Meta Crisis]], halt [[The Advance of The Giants]], and Co-Create the [[New World]] 
 
-**Call to Action**: 
+**Call to Action**:  
 9. [[Join Us]] and [[Pass The Flame]]  
 
 **Topics**: Philosophy, Revelations, Issues, Strategies, Ideas, Tools, Tactics, and Plans of Action 
 
 **Format**: A blend of interviews, panel discussions, and solo commentary 
 
-**Hosting and Distribution**:
+**Hosting and Distribution**:  
 10. YouTube  
 11. YouTube Music  
 12. Google Podcasts  
@@ -59,7 +59,7 @@ ___
 25. Crowd-sourcing Guests and Topics  
 26. Lionsberg Community - [[Levels of Participation]] 
 
-**Promotion**: 
+**Promotion**:  
 27. Website, social media, email newsletters 
 28. Outreach to Force For Good, potential guests, relevant online communities and groups 
 29. Mutual amplification with aligned groups, podcasts, etc. 
@@ -67,14 +67,14 @@ ___
 
 **Networking and Collaboration**: Connect with podcasters, influencers, and thought leaders around collaboration, interviews, and mutual amplification   
 
-**Resourcing Strategy**: 
+**Resourcing Strategy**:  
 - Ad free, fueled through donations and Lionsberg membership 
 
-**Continuous Improvement**: 
+**Continuous Improvement**:  
 31. **Identify and track KPIs**: Subscribers, Engagement, Social Media Metrics 
 32. **Retrospective**: ID weekly what is working that we would like to do more of, what we would like to do better 
 33. **Feedback**: Listen deeply, track feedback, and adjust  
 
 ## Episodes 
 
-[[Lionsberg WikiCast Episode Template]] 
+[[Lionsberg WikiCast Episode Template]]  

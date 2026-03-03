@@ -8,7 +8,7 @@ And that the stories We were told are UnTrue.
 
 If [[Jordan's Final Report]] and [[The Great UnVeiling]] are correct,  
 We are faced with the task of liberating and regenerating the world  
-And Co-Creating a New Civilization — 
+And Co-Creating a New Civilization —  
 Within a single generation.  
 
 What that New Civilization consists of is All of us working together  
@@ -24,7 +24,7 @@ New Processes and Protocols.
 New Covenants and Agreements.  
 A New Way of thought, speech, and InterAction.  
 
-It is almost impossible. 
+It is almost impossible.  
 But there is a Way. 
 
 **The Story of LIONSBERG** illuminates it. 
@@ -827,4 +827,3 @@ Codify your Circle’s learned wisdom into a local Codex and share it with the g
 > _Purpose:_ To celebrate completion, affirm continuation, and invite the reader into service of future worlds.
 
 > _Outcome:_ The Player becomes Creator; the Creator becomes ONE.
-

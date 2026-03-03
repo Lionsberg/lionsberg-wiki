@@ -55,7 +55,7 @@ In a world fragmented by ideological, cultural, and spiritual differences, the n
 
 The path towards a world transformed by the Spirit of God and Love is fraught with challenges but filled with opportunities. Building bridges and alliances is not an optional endeavor but a necessary strategy for amplifying the force for good in the world. By coming together in the spirit of Truth, Love, Justice, and Unity, we can co-create a transformative global movement that reflects the highest principles of the New Covenant.
 
-___
+___  
 Forward to [[Chapter 11 - Actively Resisting All That is Opposed to the Spirit and Wisdom of God]]  
 Back to [[Chapter 9 - The Spiritual War]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

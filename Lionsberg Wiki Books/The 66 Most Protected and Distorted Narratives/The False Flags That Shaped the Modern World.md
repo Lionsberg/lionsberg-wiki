@@ -207,7 +207,7 @@
 - The obvious corresponding implication that humanity is neither sovereign and self-governing nor free.  
     
 
-____
+____  
 
 ## 🔻 Addendum to Narrative #17: _The Meta-Architecture of False Flags and the Satanic-Saturnian Sacrifice System_
 

@@ -56,7 +56,7 @@ As we stand on the precipice of a New Era, we are not merely passive observers b
 
 As we move forward, we must recognize that each of us is an instrumental part of a grander symphony of co-creation. By aligning our individual efforts with the Divine Conductor—God—we can bring forth a New Era that reflects the highest aspirations of the human spirit and the deepest Wisdom of the Divine. This is not just a possibility; it is a sacred responsibility, a Divine commission that calls us to rise to the fullness of our potential as co-creators in this magnificent unfolding moment of history.
 
-___
+___  
 Forward to [[Conclusion - A Choice for Humanity]]  
 Back to [[Chapter 13 - Debt, Property, and Economic Reset]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

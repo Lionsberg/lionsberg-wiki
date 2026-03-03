@@ -109,4 +109,3 @@ The Green Fireballs sparked widespread speculation, ranging from secret military
     
     - _UFOs and Nukes_ – Explores the connection between unidentified phenomena and nuclear sites.
     - _Phenomena: The Green Fireballs_ – A detailed look at the 1948–1955 events.
-

@@ -59,7 +59,7 @@ The concept of Jubilee is a breathtaking vision, but how do we translate this an
 
 The path to implementing a modern Jubilee is fraught with challenges, both practical and philosophical. Yet, the potential rewards—a renewed society rooted in principles of Truth, Love, Justice, and Unity—are too great to ignore. As we stand at this critical juncture, we have the opportunity to rewrite the social contract, to redefine what we owe to each other and what we can dream together. The Jubilee is not just a lofty ideal but a practical and spiritually wise pathway to a world renewed, a world that reflects the highest aspirations of the human spirit in alignment with the Will and Intention of God.
 
-___
+___  
 Forward to [[Chapter 14 - Co-Creating the Conditions for a New Era]]  
 Back to [[Chapter 12 - The Concept of Jubilee - A Radical Vision of a World Renewed]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

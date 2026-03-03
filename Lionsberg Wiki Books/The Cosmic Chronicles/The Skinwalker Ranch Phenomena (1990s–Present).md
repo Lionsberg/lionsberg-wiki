@@ -109,4 +109,3 @@ In 2016, Skinwalker Ranch was sold to real estate mogul Brandon Fugal, who initi
     
     - _The Secret of Skinwalker Ranch_ (2020–Present).
     - _Hunt for the Skinwalker_ (2018).
-

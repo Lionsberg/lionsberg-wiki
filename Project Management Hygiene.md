@@ -12,4 +12,3 @@
 - Hold [[Retrospective|Retrospectives]] at the mid-point and end of the Project  
 - Experienced, well-oiled teams require less strict project management hygiene. The close you get to Mastery, the more you can [[Break The Rules In Order To Do The Wise Right Thing]]. 
 - New, less-organized, or heterogenous teams require more careful attention to Project Management Hygiene to [[Avoid Failure]] and [[Achieve Success]].  
-

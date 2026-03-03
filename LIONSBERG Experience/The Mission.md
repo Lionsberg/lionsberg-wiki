@@ -3,17 +3,17 @@
 You have discovered **[[Your Role in the Story]]**.  
 You have begun to gather in **[[Circles and Guilds]]**.  
 You are anchored in **[[The First Practice]]**.  
-You have stepped into **[[Your First Quest]]**.
+You have stepped into **[[Your First Quest]]**.  
 
 The Great Game is living and active upon the Earth.  
-And now the fragments begin to gravitate and converge.
+And now the fragments begin to gravitate and converge.  
 
 How do Our puzzle pieces fit Together?  
 How do Our sparks form a Fire?  
 How do Our small acts of Faithfulness  
-Unite into the Great Work of our Age?
+Unite into the Great Work of our Age?  
 
-This is the mystery and power of **The Mission**.
+This is the mystery and power of **The Mission**.  
 
 ---
 
@@ -23,9 +23,9 @@ The Mission is not another Quest.
 It is the **Convergence of All Quests**.  
 The **Meta-Quest**.  
 The rising current that gathers every spark of faithfulness  
-Into a Sacred Fire that cannot be extinguished.
+Into a Sacred Fire that cannot be extinguished.  
 
-It is the movement through which:
+It is the movement through which:  
 
 - **The Covenant** becomes a People.
     
@@ -38,7 +38,7 @@ It is the movement through which:
 
 The Mission is simple, universal, eternal:  
 **To regenerate Our Worlds and Co-Create a New Civilization  
-Aligned with the ONE in every realm We inhabit.**
+Aligned with the ONE in every realm We inhabit.**  
 
 ---
 
@@ -53,7 +53,7 @@ Without **Alignment**, effort turns to waste.
 **The Mission is where the sparks become Fire,  
 Where scattered streams join into a Mighty River,  
 Where the River flows into ONE Rising Sea  
-Lifting All Creation Together towards The Goal.**
+Lifting All Creation Together towards The Goal.**  
 
 This is not metaphor.  
 It is happening right here and now.  
@@ -66,7 +66,7 @@ Can you hear it?
 
 ## The Pattern of The Mission
 
-The Mission unfolds as a spiral of scaling alignment:
+The Mission unfolds as a spiral of scaling alignment:  
 
 1. **Individual Quests** — personal practice and embodiment.
     
@@ -89,7 +89,7 @@ At every level, the Pattern is the same:
 Gather. Pause. Ground. Breathe.  
 Remember. Realign. Recommit.  
 Discern. Act. Reflect.  
-Begin again.
+Begin again.  
 
 ---
 
@@ -99,18 +99,18 @@ Do not mistake The Mission for something abstract or distant.
 It does not wait for institutions.  
 It does not require permission.  
 It is alive wherever a single Soul, Circle, or Guild  
-Acts in alignment with Truth, Love, and Justice.
+Acts in alignment with Truth, Love, and Justice.  
 
 Your First Quest is already part of The Mission.  
 Your Circle’s faithfulness is already advancing The Goal.  
 Every act of regeneration, reconciliation, and courage  
-Is a living thread in the Tapestry of **Our New Civilization**.
+Is a living thread in the Tapestry of **Our New Civilization**.  
 
 ---
 
 ## The Goal of The Mission
 
-The Goal of The Mission is ONE with The Goal of The Game. 
+The Goal of The Mission is ONE with The Goal of The Game.  
 
 - The restoration of **Wholeness** in every life and community.
     
@@ -132,7 +132,7 @@ Planetary and cosmic,
 Spiritual and physical,  
 Practical and transcendent.  
 It is nothing less than Our conscious participation  
-In the **Sacred Work of Co-Creation ItSelf.**
+In the **Sacred Work of Co-Creation ItSelf.**  
 
 ---
 
@@ -145,11 +145,11 @@ One faithful **Next Step** at a time,
 Joined with the steps of others,  
 As We progress in **Circles** and **Quests**,  
 Eternally onward,  
-Together towards The Goal. 
+Together towards The Goal.  
 
 Gather your Circle.  
 Begin with the **First Practice**.  
-Discern Together:
+Discern Together:  
 
 - What is the **Next Quest** Spirit is calling us to?
     
@@ -164,7 +164,7 @@ Then Commit.
 Take the **Next Step**.  
 Complete the **Quest**.  
 Return. Reflect. Recommit.  
-And step forward again.
+And step forward again.  
 
 The spiral will carry you higher.  
 The fire will spread.  
@@ -178,19 +178,19 @@ Feel the inevitability.
 Sense the joy.  
 Know the eyes of Heaven, Earth, and Cosmos are upon Us.  
 The Chorus is singing.  
-Your Voice is joining.
+Your Voice is joining.  
 All are beginning to Sing Together as ONE.  
 
 **This is The Mission.**  
 And **The Story** now turns   
 Towards the **Rhythmic Alignment**  
-Of the steps We take together as **ONE Body**.
+Of the steps We take together as **ONE Body**.  
 
 ---
 
 The Next Gate is **[[Seasonal Quests]]** —  
 The shared rhythms that synchronize our many steps  
 Into the heartbeat of Renewal  
-Across the Earth and Beyond.
+Across the Earth and Beyond.  
 
-____
+____  

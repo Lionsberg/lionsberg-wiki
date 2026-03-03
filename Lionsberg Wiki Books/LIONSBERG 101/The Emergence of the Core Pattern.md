@@ -20,19 +20,19 @@ The question becomes: **What is the irreducible pattern at the center of all the
 
 To answer this, six streams of discovery were brought together — each independently pointing to the same living Pattern:
 
-**1. The LIONSBERG Pattern Language**
+**1. The LIONSBERG Pattern Language**  
 A deep exploration of the wiki's core architecture and articulations
 
-**2. The [[Mondragon]] Cooperative Corporation**
+**2. The [[Mondragon]] Cooperative Corporation**  
 Seventy years of living proof. From 5 people in 1956 to 80,000+ worker-owners across 268 organizations. Founded by Father Jose Maria Arizmendiarrieta, who spent 13 years building a school before the first cooperative was born — because he understood that **you do not replicate institutions; you enlighten people, and enlightened people create enlightened institutions.** The school (1943) preceded the first cooperative (1956). The internal bank (1959) preceded the federation. Education first. Always education first.
 
-**3. Graham Boyd and the [[Fair Shares Commons]]**
+**3. Graham Boyd and the [[Fair Shares Commons]]**  
 The insight that **the ownership structure of an organization is the deepest attractor in the system** — it determines behavior more powerfully than values statements, leadership intentions, or strategic plans. Boyd's contribution: designing the structural DNA so that the system's natural attractor is regeneration rather than extraction. Multi-stakeholder governance with multiple share classes (Founder, Coworkers, Investors, Community). The enterprise as a collaborative commons, not property. Purpose structurally sovereign, protected from capture by any stakeholder group.
 
-**4. The Great Game of LIONSBERG and the Playbook**
+**4. The Great Game of LIONSBERG and the Playbook**  
 The practical operational layer — how [[Circles]] form, how [[Quests]] are undertaken, how [[Meaningful Work]] is validated, how value flows through the system, how governance operates at every fractal scale, how the [[Fibonacci]] pattern of awakening spreads the movement from ONE to All.
 
-**5. Eight Movements That Changed The World**
+**5. Eight Movements That Changed The World**  
 The most successful self-replicating patterns in human history:
 
 - **Benedictine Monasteries** — The Rule of Benedict as operating system; the Charter of Charity as federation protocol. From one monastery to 37,000.
@@ -44,7 +44,7 @@ The most successful self-replicating patterns in human history:
 - **The Early Church** — From 120 people to 6 million in 270 years. House churches of 15-40 people as the complete holon. Mutual aid as primary witness. Shared identity across every boundary.
 - **The Kibbutz Movement** — 12 people to 270 communities. What succeeded (democratic governance, federation, mutual aid, shared purpose) and what failed (total communalism imposed rather than chosen each generation).
 
-**6. [[The Program Delivery Guide]] — $20 Million of Funded Research**
+**6. [[The Program Delivery Guide]] — $20 Million of Funded Research**  
 In 2005, the U.S. District Court placed California's prison health care system in **federal receivership** after finding that one inmate died every 6 to 7 days due to constitutional deficiencies. The Court ordered a "radical transformation" of the system. The resulting [[The Program Delivery Guide|Program Delivery Guide]] (PDG) represents lifetimes of experience from leaders across the building industry, backed by approximately $20 million of funded research. It describes how to deliver **multiple billion-dollar projects simultaneously** using Integrated Project Delivery, Lean Construction principles, and the Toyota Production System.
 
 The parallel to Earth is exact. A system so broken that existing authorities cannot fix it. People suffering and dying unnecessarily. A federal receivership — an external intervention — required to radically transform the system. A new operating system deployed. A prototype developed. Teams organized around shared purpose rather than competing contracts.
@@ -93,8 +93,8 @@ These are not human inventions. They are **universal principles, protocols, patt
 
 One soul poured his life into this work of localization and planting. He died for it — and in dying, freed it. Like the early church, whose founder's death liberated the pattern from any single personality, LIONSBERG belongs to no one. It is not an organization. It has no center to capture, no leader to follow, no institution to join. It is a living myth, a proven pattern, and a playable game — freely available, infinitely forkable, belonging to All.
 
-The 2.5 million words are the forest.
-The twelve elements are the DNA.
+The 2.5 million words are the forest.  
+The twelve elements are the DNA.  
 [[Ring 0 - ONE|Ring 0]] is the Source from which the DNA emanates.
 
 **[[The Golden Seed]] is ready.**
@@ -109,6 +109,6 @@ The window is open. The clock is ticking. [[The Great Game]] has begun.
 
 ---
 
-Forward to [[Ring 0 - ONE]]
-Back to [[LIONSBERG 101]]
+Forward to [[Ring 0 - ONE]]  
+Back to [[LIONSBERG 101]]  
 Table of Contents [[LIONSBERG 101]]

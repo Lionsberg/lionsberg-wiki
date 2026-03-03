@@ -1,6 +1,6 @@
 # Above The Chaos, Case Study - The Amazon Sacred Headwaters
 
-A post in [[Above The Chaos]] - October 18, 2023
+A post in [[Above The Chaos]] - October 18, 2023  
 Rapid draft for review and improvement, please excuse any typos  
 ## Bioregions
 
@@ -13,7 +13,7 @@ And let us imagine that in among the most important parts of the Amazon is the s
 ____
 ## Local Complexity and Diversity
 
-And let us imagine that within the footprint of the Amazon Sacred Headwaters lies all the complexity of modern life and ancient history, with dozens of tributaries of culture and society feeding into a complex social and ecological ecosystem as rich as any on Earth. 
+And let us imagine that within the footprint of the Amazon Sacred Headwaters lies all the complexity of modern life and ancient history, with dozens of tributaries of culture and society feeding into a complex social and ecological ecosystem as rich as any on Earth.  
 _____
 ## Shared Bioregional Vision and Plan
 
@@ -23,7 +23,7 @@ And let us imagine that this Vision was coalesced into a 10 Year Bioregional Pla
 
 ## Bioregional Visions and Plans for All Bioregions
 
-And let us imagine that this $1 Billion, 10 Year Bioregional Plan were one among the dozens of similar bioregional plans that would need to be formulated and executed on as part of the 10 Year Grand Strategy, such that humanity was faced, nominally, with 100 unique $1 Billion, 10 Year Bioregional plans, totaling $100 Billion, that if successfully implemented over the course of the 10 Year Grand Strategy, would land humanity and the Living System on a safe trajectory towards The Future We Seek. 
+And let us imagine that this $1 Billion, 10 Year Bioregional Plan were one among the dozens of similar bioregional plans that would need to be formulated and executed on as part of the 10 Year Grand Strategy, such that humanity was faced, nominally, with 100 unique $1 Billion, 10 Year Bioregional plans, totaling $100 Billion, that if successfully implemented over the course of the 10 Year Grand Strategy, would land humanity and the Living System on a safe trajectory towards The Future We Seek.  
 ______
 
 ## The Question - How to Operationalize the Bioregional Plan and Bring Intention Into Reality
@@ -83,7 +83,7 @@ ____
 
 The Pilot Fund was established separately from the ongoing operational funding of the existing entities. 
 
-90% of the fund was distributed to on the ground projects
+90% of the fund was distributed to on the ground projects  
 10% of the fund was leveraged to elevate and empower the array of teams via: 
 
 - 2-3% on technology  

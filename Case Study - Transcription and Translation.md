@@ -44,7 +44,7 @@ API Pro is $5.50 / month, plus $25 / million characters. Assuming 50k characters
 
 Jordan is already paying for Riverside FM for podcasting... so... 
 
-Jordan uploaded video to new Studio called Jordan's Meetings. 
+Jordan uploaded video to new Studio called Jordan's Meetings.  
 - A few min to upload video file on fast mac with good internet.  
 - A few min Riverside "processing"
 - Once done processing, clicked into the recording, and the transcription was already automatically occurring 
@@ -127,15 +127,4 @@ DeepL translation quality
 
 - Maybe Jordan and Pete will figure out the work flow from a Zoom or RiversideFM recording, to transcripts in multiple language, uploaded YouTube or other than enables viewers in different languages to display closed captions from the translated transcript in their own language
 
-[[Spirit]] 
-
-
-
-
-
-
-
-
-
-
-
+[[Spirit]]  

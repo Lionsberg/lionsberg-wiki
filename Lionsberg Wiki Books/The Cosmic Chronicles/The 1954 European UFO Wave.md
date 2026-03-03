@@ -125,4 +125,3 @@ While France reported the majority of sightings, similar incidents occurred in I
     
     - European UFO Research Archive: [https://eufoarchive.org](https://eufoarchive.org/)
     - NICAP Report on European UFOs: [https://www.nicap.org](https://www.nicap.org/)
-

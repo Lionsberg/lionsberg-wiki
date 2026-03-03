@@ -12,4 +12,4 @@
 [[Lionsberg Metaphors]]  
 [[Lionsberg Structure]]  
 [[Lionsberg System and Approach]]  
-[[The Core Concepts of LIONSBERG]]   
+[[The Core Concepts of LIONSBERG]]  

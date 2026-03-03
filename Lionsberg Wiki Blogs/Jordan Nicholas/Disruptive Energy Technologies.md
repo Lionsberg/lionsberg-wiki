@@ -244,7 +244,7 @@ To build on their work and move forward:
 - **Open-Source Collaboration**: Make designs and findings publicly available to crowdsource improvements and bypass suppression.
 - **Global Networks**: Unite researchers, engineers, and activists globally to pool resources and expertise.
 
-____
+____  
 In Dr. Steven Greer's documentary, _The Lost Century: And How to Reclaim It_, several advanced technologies are discussed, highlighting innovations that have been suppressed or overlooked. Here's a comprehensive list of these technologies:
 
 **Wireless Energy Transmission**  

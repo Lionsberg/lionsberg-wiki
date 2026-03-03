@@ -21,4 +21,3 @@ In Obsidian you can open an outline mode which can be collapse sections of the d
 There is also a separate outline navigator pane that can be opened on the left and you can click on this to go to different parts of the document.
 
 This is similar to the idea of [[Modular Content]]
-

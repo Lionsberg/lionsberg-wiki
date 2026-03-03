@@ -106,4 +106,3 @@ Maurice Masse was known as a quiet, reliable farmer with no prior interest in UF
     
     - _Unexplained Encounters in France_ – Includes analysis of the Valensole Incident.
     - _UFOs and Trace Evidence_ – Detailed study of physical evidence in UFO cases.
-

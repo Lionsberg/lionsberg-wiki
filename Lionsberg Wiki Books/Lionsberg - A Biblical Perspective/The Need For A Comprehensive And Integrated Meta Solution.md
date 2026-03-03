@@ -12,6 +12,6 @@ Only through a comprehensive, integrated, and adaptable approach can we hope to 
 
 ___
 
-Forward to [[The Need For A Biblically Sound Meta Solution]]     
+Forward to [[The Need For A Biblically Sound Meta Solution]]  
 Back to [[Existing Systems and Approaches]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

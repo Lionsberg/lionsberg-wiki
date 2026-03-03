@@ -9,4 +9,3 @@ There is only [[ONE]] possible Vision and Aim, which is Perfection, or the Ideal
 Right here on Earth. 
 
 [[Heaven On Earth]]  
-

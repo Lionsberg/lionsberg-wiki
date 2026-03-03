@@ -120,5 +120,5 @@ The SLE is not designed to abrogate contractual responsibilities or duties but r
 
 ---
 
-_Next: [[PDG - Integrated Project Delivery]]_
+_Next: [[PDG - Integrated Project Delivery]]_  
 _Return to [[The Program Delivery Guide]]_

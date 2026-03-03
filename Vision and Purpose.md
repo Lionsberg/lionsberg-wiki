@@ -6,4 +6,4 @@ At the individual level, each person's Personal Vision and Purpose is aligned wi
 
 Vision and Purpose is a critical component of the Lionsberg System, and is essential for [[Stacking Up And Aligning]] individual and collective efforts towards a common Goal and for bringing the shared [[Vision Into Reality]].
 
-[[Template For Vision and Purpose]] 
+[[Template For Vision and Purpose]]  

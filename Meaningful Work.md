@@ -65,6 +65,6 @@ Meaningful Work integrates all [[Twelve Irreducible Elements]]:
 
 ___
 
-_See [[Ring 5 - The Game]] for how Meaningful Work operates in practice._
-_See [[Capital Subordinate To Purpose]] for the economic framework._
+_See [[Ring 5 - The Game]] for how Meaningful Work operates in practice._  
+_See [[Capital Subordinate To Purpose]] for the economic framework._  
 _See [[LIONSBERG 101]]._

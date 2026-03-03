@@ -72,12 +72,12 @@
 - Michael - how to aggregate and elevate 
 - Circle Weaver - based on sociocracy.. .PC Uses it to manage meetings... 
 - patreon - similar of crowd 'gifting'
-open collection - totally transparent finances largely used by geo local groups - can add lots of projects and project specific funding - like patreon can have anon funders
+open collection - totally transparent finances largely used by geo local groups - can add lots of projects and project specific funding - like patreon can have anon funders  
 cobudget -  allocate funds in a group processWe 
 
 Jordan's update: in the network a growing frustration and desire to better aggregate funds. Future Capital as potential collaboration partner. As we have numerous teams proposing work against global goals, we can see and sort among them.
 
-Retro:
+Retro:  
 - Stick to agenda but also honor what arises that is alive. 
 - Ask in the meeting what is alive, prepare agenda based on what is on agenda from before and arose during the week. Notice that both what arises, and the agenda, are alive in the group. How to make decisions? Maybe invite group consent to make the decisions in the moment.
 - Look at how people are treated in the system, not just at the resourcing - to reach the higher good

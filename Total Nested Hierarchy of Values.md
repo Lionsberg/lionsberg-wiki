@@ -140,7 +140,7 @@ The Total Nested Hierarchy of Values results in a [[Total Nested Hierarchy of Go
 
 See also [[Value]]. 
 
-___
+___  
 1.  **Relationship between values**: It's essential to recognize the interrelated nature of these values. While they can be distinguished as individual concepts, they must work in synergy to create a cohesive framework and field of values that guides the actions and decisions of individuals and communities.
     
 2.  **Contextual relevance**: Different values may hold varying degrees of importance and relevance depending on the specific context or situation. Recognizing the need for adaptability and flexibility in applying these values is crucial for effectively navigating diverse challenges and opportunities.
@@ -162,6 +162,5 @@ Power must always be developed and exercised judiciously in service of, and not 
 
 Power may never be used violate the [[Free Will]] of others in their [[Domain Of Responsibility And Authority]].  
 
-See [[Integration And Alignment Of Resources And Power]]. 
+See [[Integration And Alignment Of Resources And Power]].  
 ____
-

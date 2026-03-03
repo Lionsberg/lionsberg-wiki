@@ -4,6 +4,6 @@ When our life becomes entirely and solely dedicated to serving the Ultimate Real
 
 ___
 
-Forward to [[Meditation 14]]        
+Forward to [[Meditation 14]]  
 Back to [[Meditation 12]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

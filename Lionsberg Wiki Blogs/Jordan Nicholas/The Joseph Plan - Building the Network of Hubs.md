@@ -2,31 +2,31 @@
 
 #### **Preparing the Storehouses for the Coming Famine**
 
-As [[The Collapse]] accelerates and the Cleansing by Fire approaches, **humanity must immediately shift beyond survivalist thinking and toward proactive, coordinated, large-scale provisioning**—not just for ourselves, but for our families, communities, and the planetary network that will endure beyond [[The Storm]].
+As [[The Collapse]] accelerates and the Cleansing by Fire approaches, **humanity must immediately shift beyond survivalist thinking and toward proactive, coordinated, large-scale provisioning**—not just for ourselves, but for our families, communities, and the planetary network that will endure beyond [[The Storm]].  
 
-The Joseph Plan is the **fractal storage, resource, and supply Commons** that must be established **at every level of analysis**, ensuring that no one Family or Ark stands alone, and that the survivors of the transition have what they need to rebuild a [[New Civilization]] worthy of The [[New World]].
+The Joseph Plan is the **fractal storage, resource, and supply Commons** that must be established **at every level of analysis**, ensuring that no one Family or Ark stands alone, and that the survivors of the transition have what they need to rebuild a [[New Civilization]] worthy of The [[New World]].  
 
-Much like the Biblical Joseph, who foresaw **seven years of famine** and wisely stored grain to sustain The People, We must **prepare now**, while there is still [[Time]].
+Much like the Biblical Joseph, who foresaw **seven years of famine** and wisely stored grain to sustain The People, We must **prepare now**, while there is still [[Time]].  
 
-And [[The Window]] is closing fast. 
+And [[The Window]] is closing fast.  
 
-The **Hubs** are the networked and interoperable **supply and provisioning centers** that will sustain:
+The **Hubs** are the networked and interoperable **supply and provisioning centers** that will sustain:  
 
 - **The Arks** – Ensuring the survival of individuals, families, and localized sanctuaries.
 - **The Human Network** – Facilitating the flow of resources and information to sustain civilization through [[The Collapse-Ascension Nexus]].
 - **The Future of Humanity** – Preserving essential knowledge, tools, genetics, and materials for the [[World To Come]]. 
 
-Without The Hubs, **The Arks will not last long enough to plant the seeds of The New World.**
+Without The Hubs, **The Arks will not last long enough to plant the seeds of The New World.**  
 
-The time to build is **Now**.
+The time to build is **Now**.  
 
 ---
 
 ## **I. The Fractal Hub Network: The Storage and Supply Grid**
 
-The Hubs must be **designed fractally**, meaning that at **each scale of civilization**, there is a structured, self-replicating, decentralized storage and supply system.
+The Hubs must be **designed fractally**, meaning that at **each scale of civilization**, there is a structured, self-replicating, decentralized storage and supply system.  
 
-Each level must be **autonomous but interconnected**, ensuring **resilience, redundancy, and interoperability** so that no single breakdown can bring down the surrounding system elements.
+Each level must be **autonomous but interconnected**, ensuring **resilience, redundancy, and interoperability** so that no single breakdown can bring down the surrounding system elements.  
 
 ---
 
@@ -43,7 +43,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **The first layer of The Joseph Plan is the family storehouse—without it, survival is left to chance.**
 
-***But no family can survive alone, and if families hoard, they will accelerate [[Collapse]] and billions will die.***
+***But no family can survive alone, and if families hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
@@ -82,7 +82,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **A lone wolf may manage to survive alone—but a networked community thrives.**
 
-***No Community can survive alone, and if Communities hoard, they will accelerate [[Collapse]] and billions will die.***
+***No Community can survive alone, and if Communities hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
@@ -100,7 +100,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **If cities do not establish independent Hubs, they will become death zones within weeks of collapse.**
 
-***No city can survive alone, and if cities hoard, they will accelerate [[Collapse]] and billions will die.***
+***No city can survive alone, and if cities hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
@@ -123,7 +123,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **A city without a supply line is a city of the dead. Eco-Regional Hubs ensure the arteries of civilization remain open.**
 
-***No ecoregion can survive alone, and if ecoregions hoard, they will accelerate [[Collapse]] and billions will die.***
+***No ecoregion can survive alone, and if ecoregions hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
@@ -143,7 +143,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **These 150-200 Hubs are the foundation of post-collapse civilization. They must be prepared before the Collapse, not after.**
 
-***No bioregion can survive alone, and if bioregions hoard, they will accelerate [[Collapse]] and billions will die.***
+***No bioregion can survive alone, and if bioregions hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
@@ -160,25 +160,25 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 
 > **These Hubs ensure that we do not merely survive—we consciously evolve Together into the [[New Era]].**
 
-***No georegion can survive alone, and if georegions hoard, they will accelerate [[Collapse]] and billions will die.***
+***No georegion can survive alone, and if georegions hoard, they will accelerate [[Collapse]] and billions will die.***  
 
 ---
 
 ## **II. Storing Up for the 7 Years: Executing The Joseph Plan**
 
-If The Hubs are to function, **they must be provisioned in advance**.
+If The Hubs are to function, **they must be provisioned in advance**.  
 
-Each level of The Hub Network must:
+Each level of The Hub Network must:  
 
 1. **Ramp up local production and stockpile essential food, water, medicine, and tools before supply chains collapse.**
-	1. Each locality accelerating local production and becoming a [[Centers of Distribution|Center of Distribution]] rather than accumulation / hoarding is key to avoiding accelerating [[Collapse]]. 
+	1. Each locality accelerating local production and becoming a [[Centers of Distribution|Center of Distribution]] rather than accumulation / hoarding is key to avoiding accelerating [[Collapse]].  
 2. **Build parallel economic and governance systems to replace the failing centralized model.**
-	1. The LIONSBERG System was purpose-built for this. 
+	1. The LIONSBERG System was purpose-built for this.  
 3. **Develop rapid-response teams to protect supply chains and distribution networks, and respond to emergencies.**  
 4. **Establish underground, off-grid, and mobile storage for extreme scenarios.**  
 5. **Use The LIONSBERG Platform and Pattern Language to ensure interoperability and mutual assistance across all scales.**
 
-***The key to success is to rapidly connect and empower [[The First Three Percent]] at every fractal level to self-organize and execute this plan via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams coordinating across local, regional, and planetary scales via the LIONSBERG System.** 
+***The key to success is to rapidly connect and empower [[The First Three Percent]] at every fractal level to self-organize and execute this plan via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams coordinating across local, regional, and planetary scales via the LIONSBERG System.**  
 
 > **If we do not store up now, millions will perish when the famine arrives.**
 
@@ -186,17 +186,17 @@ Each level of The Hub Network must:
 
 ## **III. The Last Warning: There Will Be No Second Chance**
 
-The Kontrollers have already built **their own Hubs**—designed to serve only the elites while the rest of humanity suffers.
+The Kontrollers have already built **their own Hubs**—designed to serve only the elites while the rest of humanity suffers.  
 
-If We do not build **Our Own**, we will be at **their mercy.**
+If We do not build **Our Own**, we will be at **their mercy.**  
 
 > **Joseph saved his people by storing up for the famine. Those who do not prepare will be consumed by it.**
 
-This is **The Joseph Plan**.
+This is **The Joseph Plan**.  
 
-The time to act is **now**.
-___
-Additional details can be found in the [[The Lionsberg Strategy and Plan]] and other [[Lionsberg Wiki Books]]. 
-____
+The time to act is **now**.  
+___  
+Additional details can be found in the [[The Lionsberg Strategy and Plan]] and other [[Lionsberg Wiki Books]].  
+____  
 
 P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIONSBERG System for interoperable use by the [[Force For Good]]. 

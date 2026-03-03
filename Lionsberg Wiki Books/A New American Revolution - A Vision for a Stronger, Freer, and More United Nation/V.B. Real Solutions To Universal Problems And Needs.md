@@ -14,6 +14,6 @@ In short, the New American Revolution must provide real citizen led solutions to
 
 ___
 
-Forward to [[V.C. Real Pathways Towards Universal Aspirations]] 
-Back to [[V.A. A New Vision, Eternal Values]]        
+Forward to [[V.C. Real Pathways Towards Universal Aspirations]]  
+Back to [[V.A. A New Vision, Eternal Values]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

@@ -111,4 +111,3 @@ The primary witness, a long-time farmer with no prior interest in UFO phenomena,
 - **Documentaries:**
     
     - _UFO Hotspots of the Pacific Northwest_ – A segment exploring the Bothell case.
-

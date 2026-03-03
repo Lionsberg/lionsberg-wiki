@@ -16,7 +16,7 @@ To meet these minimum standards of interoperability, all component systems must 
 
 Overall, the minimum standards of interoperability help to ensure that participants in the Lionsberg System are able to function as a cohesive and integrated whole, while working together as [[ONE Body]] to  to effectively address the complex and multifaceted challenges facing humanity and the planet.
 
-____
+____  
 For the [[New System]] to function as designed, *something like* the following constitute the basic Minimum Standards of Interoperability. 
 
 1. Love [[ONE]]. Love [[One Another]]. Love [[All]].  

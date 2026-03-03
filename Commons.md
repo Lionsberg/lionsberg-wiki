@@ -47,7 +47,7 @@ ___
 
 ___
 
-_See [[Holofractal Omnifederation]] for how commons naturally emerge at every scale._
-_See [[Voluntary Tithing]] for how commons are resourced._
-_See [[Fair Shares Commons]] for multi-stakeholder ownership architecture._
+_See [[Holofractal Omnifederation]] for how commons naturally emerge at every scale._  
+_See [[Voluntary Tithing]] for how commons are resourced._  
+_See [[Fair Shares Commons]] for multi-stakeholder ownership architecture._  
 _See [[Lionsberg Commons]] for the commons at the highest level of abstraction._

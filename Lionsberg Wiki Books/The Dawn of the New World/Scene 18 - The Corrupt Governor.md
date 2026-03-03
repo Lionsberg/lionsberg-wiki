@@ -12,7 +12,7 @@ Xion understand the situation exactly. He locked eyes with the governor and saw 
 
 As the governor's face flushed red and then a strange ominous green, Xion turned towards the door. He would speak the Logos of the Vision and Plan, no matter the consequences. 
 
-___
+___  
 Forward to: [[Scene 19 - The Escape]]  
 Back to: [[Scene 17 - The Corrupt Priest]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

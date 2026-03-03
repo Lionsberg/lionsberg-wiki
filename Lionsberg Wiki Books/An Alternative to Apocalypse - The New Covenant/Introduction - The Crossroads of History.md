@@ -22,7 +22,7 @@ As you embark on this journey through the pages of this book, may you be inspire
 
 The choice is ours, the moment is now, and the path towards a new era awaits. Let us walk it together, with faith, love, and a steadfast commitment to a future where every family on earth can enjoy a life better than any family on earth has enjoyed in the past.
 
-___
+___  
 Forward to [[Chapter 1 - The Collapse of the American Order]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
 Beyond to other [[Lionsberg Wiki Books]]  

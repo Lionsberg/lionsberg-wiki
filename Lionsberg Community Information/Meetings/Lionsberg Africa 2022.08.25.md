@@ -1,6 +1,6 @@
 # Lionsberg Africa 2022.08.25
 
-From last meeting
+From last meeting  
 
 ## Swahili words Jordan needs to learn
 - Uko Sawa - You are doing well

@@ -2,7 +2,7 @@
 
 This Integrated Program Delivery Guide is designed to do just that - to guide the integrated delivery of a program of action. But why should any large [[Program of Action]] be delivered on a lean and integrated basis?
 
-The general answer is simple: 
+The general answer is simple:  
 - it will be better built, 
 - with fewer injuries, 
 - at a lower cost, 

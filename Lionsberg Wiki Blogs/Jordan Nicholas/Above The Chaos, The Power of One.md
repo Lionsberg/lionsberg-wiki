@@ -46,5 +46,3 @@ Value Reciprocity: [[Participants]] will contribute weekly to fund hosted by the
 If, after the 6 week experiment, we decide to expand it, the accumulated resources will be transparently used to improve or expand the Program in accordance with a strategic plan we will develop together. 
 
 If, after the 6 week experiment, we decide to end it, the donations will be merged into the Lionsberg General Fund. 
-
-

@@ -114,4 +114,3 @@ In October 1962, the United States and the Soviet Union teetered on the brink of
 - **Documentaries:**
     
     - _The Day the Earth Stood Still: UFOs and Nuclear War_ – Explores UFO activity during moments of nuclear tension.
-

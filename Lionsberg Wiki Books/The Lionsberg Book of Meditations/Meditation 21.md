@@ -4,6 +4,6 @@ Every spoken word is like the thrust of sword. It either pierces and dispels the
 
 ___
 
-Forward to [[Meditation 22]]        
+Forward to [[Meditation 22]]  
 Back to [[Meditation 20]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

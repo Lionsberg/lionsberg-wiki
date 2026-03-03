@@ -31,4 +31,3 @@ In general, Individuals:
 - Make decisions based on [[Discernment]] and [[Consent]]   
 
 To accomplish things they cannot do on their own, Individuals [[Organize and Federate]] into [[Groups]] and [[Communities]].   
-

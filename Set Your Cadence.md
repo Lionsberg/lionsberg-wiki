@@ -1,8 +1,8 @@
 # Set Your Cadence
 
-Every living thing has a rhythm.
-The heart beats. The tide turns. The seasons revolve.
-A [[Circle]] without a cadence is a gathering without a pulse —
+Every living thing has a rhythm.  
+The heart beats. The tide turns. The seasons revolve.  
+A [[Circle]] without a cadence is a gathering without a pulse —  
 Well-intentioned, but not yet alive.
 
 ---
@@ -69,7 +69,7 @@ Choose a cadence you can sustain. Then sustain it. The rhythm will carry you fur
 
 ---
 
-Your rhythm is set.
+Your rhythm is set.  
 Now, as your Circle grows and its work deepens, you may need to consider how it is structured.
 
 **The next play is [[Properly Structure Your Circles]].**

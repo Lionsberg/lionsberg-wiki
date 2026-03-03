@@ -56,7 +56,3 @@ With Love, In Community,
 ~ J 
 
 [[Jordan Nicholas Sukut]]  
-
-
-
-

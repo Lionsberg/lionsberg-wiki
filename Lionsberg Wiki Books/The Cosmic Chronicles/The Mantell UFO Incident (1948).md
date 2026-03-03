@@ -96,4 +96,3 @@ The U.S. Air Force initially attributed the sighting to Venus, then revised the 
     
     - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
     - Randle, Kevin D. _Project Blue Book Exposed._
-

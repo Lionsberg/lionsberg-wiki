@@ -8,8 +8,8 @@ The recent weeks and months have included some of the most atrocious and psychop
 
 While the precise details are both emergent and unique from the perspective of every individual, tribe, and community on Earth, the essence of the situation is becoming clearer daily to us all. 
 
-____
-***The building of civilization is on fire. The foundations have crumbled. The structures are collapsing towards chaos by design. Out of the engineered chaos and confusion, tyrants and technocracies seek to rise. As time runs out, humanity must choose — exit the building, or submit to slavery and perish in the flames.*** 
+____  
+***The building of civilization is on fire. The foundations have crumbled. The structures are collapsing towards chaos by design. Out of the engineered chaos and confusion, tyrants and technocracies seek to rise. As time runs out, humanity must choose — exit the building, or submit to slavery and perish in the flames.***  
 ____
 
 There is a tremendous difficulty at the present juncture because most decent human beings cannot fathom the level of evil we are up against. It is hard to believe that any being could be capable of remorselessly executing your child or torturing and exterminating you in a concentration camp until it happens and it is too late. 
@@ -27,6 +27,3 @@ While it is true that antithetical forces are rapidly accelerating a dystopian a
 That is not the future we choose. 
 
 Our plan is to 1) withdraw participation and consent 2) build a parallel New Civilization _before the Old collapses entirely_, and 3) co-create Heaven On Earth over countless generations to come. 
-
-
-

@@ -24,4 +24,4 @@ Some highlights from the week you can find in the Lionsberg Dispatch Voice Updat
 
 
 
-[[Lionsberg Co-Creators]] 
+[[Lionsberg Co-Creators]]  

@@ -23,6 +23,6 @@ The impact of The Great Game of Lionsberg on governance is profound, fostering a
 
 ____
 
-Forward to [[21 The Impact on Spirituality and the Human Spirit]]    
+Forward to [[21 The Impact on Spirituality and the Human Spirit]]  
 Back to [[19 The Impact on Society]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

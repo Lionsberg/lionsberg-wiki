@@ -93,4 +93,3 @@ As with other UFO incidents, the military swiftly removed all evidence, transpor
     
     - Friedman, Stanton. _Top Secret/Majic._
     - Randle, Kevin D. _UFO Crash Retrievals: The Inner Sanctum._
-

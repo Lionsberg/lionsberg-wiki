@@ -48,7 +48,7 @@ The Jubilee isn't just an ancient religious custom; it's a revolutionary idea th
 
 The Jubilee is more than an ancient law or a utopian dream; it's a challenge to each of us to live out the principles of Truth, Love, Justice, and Unity in a world desperately in need of regeneration, renewal, and reset. It is a call to action, a plea for a radical reimagining of society that begins in the human heart and ripples out to encompass the Earth and the cosmos in renewed Right Relationship to God, paving the Way towards a New Era of Shalom.
 
-___
+___  
 Forward to [[Chapter 13 - Debt, Property, and Economic Reset]]  
 Back to [[Chapter 11 - Actively Resisting All That is Opposed to the Spirit and Wisdom of God]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

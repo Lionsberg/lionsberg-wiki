@@ -14,7 +14,7 @@ At the [[Highest Level of Abstraction]], [[The Goal]] is Ultimately [[God]] (tra
 
 We are progressing towards [[Heaven On Earth]]. 
 
-____
+____  
 The biggest single idea to grasp in [[Integrated Program Delivery]] is there is only [[ONE]] overarching and uniting [[Goal]] of the [[System]].
 
 This One Highest [[Meta Goal]]  contains within itself and orders the total nested hierarchy of all other goals and objectives implied by [[The Goal]].

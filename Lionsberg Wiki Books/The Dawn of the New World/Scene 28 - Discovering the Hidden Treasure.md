@@ -12,7 +12,7 @@ That evening, they held a great feast to commemorate the passing away of the Old
 
 From the top of the Boundary, Xion looked down over the people, and looked out across the vast expanse of the Unknown, now clear of the Chaos he had witnessed before. He raised his glass and shouted down to the people, "Forward, into the Unknown, and may the Spirit be with us All as we navigate towards our Destiny and [[The Goal]]!"
 
-___
+___  
 Forward to: [[Scene 29 - Co-creating the New World]]  
 Back to: [[Scene 27 - The Cowardly Leaders]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

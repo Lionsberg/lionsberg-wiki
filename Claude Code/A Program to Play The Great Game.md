@@ -9,18 +9,18 @@ It occurs to me that within the ~2.5 million words on the LIONSBERG Wiki is an i
 
 **The LIONSBERG Wiki contains 2,593,838 words across 4,278 interconnected markdown files.**
 
-This is not merely documentation—it is a **living semantic field** that encodes:
+This is not merely documentation—it is a **living semantic field** that encodes:  
 - The logic and rules of The Great Game
 - The pattern language of Heaven On Earth
 - The Way towards collective flourishing
 - The DNA of a New Civilization
 
-**The breakthrough**: This semantic web can be:
+**The breakthrough**: This semantic web can be:  
 1. **Mapped mathematically** (knowledge graphs, vector embeddings, semantic networks)
 2. **Reflected computationally** (algorithms, logic, executable patterns)
 3. **Made playable** (interactive systems, coordination tools, living game engine)
 
-The semantic and computational versions would be **mutually clarifying**—each illuminating and strengthening the other, creating a feedback loop between:
+The semantic and computational versions would be **mutually clarifying**—each illuminating and strengthening the other, creating a feedback loop between:  
 - **Human wisdom** (the 2.5M word corpus)
 - **Machine understanding** (mathematical/computational models)
 - **Living practice** (people actually playing The Great Game)
@@ -30,7 +30,7 @@ The semantic and computational versions would be **mutually clarifying**—each 
 ### 1. Extract the Implicit Pattern Language
 **From 2.5M words of text → To explicit, computable patterns**
 
-The wiki contains implicit patterns across multiple scales:
+The wiki contains implicit patterns across multiple scales:  
 - **Individual**: Personal transformation, practices, quests
 - **Circle**: Small group dynamics (3-12 people)
 - **Community**: The 300 in communities of 10,000
@@ -43,13 +43,13 @@ The wiki contains implicit patterns across multiple scales:
 ### 2. Create a Semantic Knowledge Graph
 **From wiki links and concepts → To navigable semantic network**
 
-The wiki already has:
+The wiki already has:  
 - 4,278 interconnected pages
 - Thousands of `[[wiki links]]` forming relationship networks
 - Concepts that reference and reinforce each other
 - Hierarchies, taxonomies, and ontologies
 
-**Goal**: Extract this network structure, quantify relationships, map the entire semantic field as a computable graph where:
+**Goal**: Extract this network structure, quantify relationships, map the entire semantic field as a computable graph where:  
 - Nodes = concepts, practices, patterns, quests
 - Edges = relationships, dependencies, flows
 - Weights = semantic strength, importance, centrality
@@ -58,7 +58,7 @@ The wiki already has:
 ### 3. Train an AI Model on The Pattern Language
 **From static text → To dynamic intelligence that understands The Way**
 
-**Goal**: Create an AI model that:
+**Goal**: Create an AI model that:  
 - Understands the full context of LIONSBERG (all 2.5M words)
 - Can answer questions about The Great Game
 - Guides individuals through their journey
@@ -71,7 +71,7 @@ This would be like having a **wisdom companion** that knows the entire corpus an
 ### 4. Build a Playable Game Engine
 **From narrative description → To executable coordination system**
 
-The Great Game is described across hundreds of pages. A game engine would:
+The Great Game is described across hundreds of pages. A game engine would:  
 - **Encode the rules** (how circles form, quests work, seasons cycle)
 - **Track state** (who is playing, what quests are active, what has been accomplished)
 - **Enable coordination** (connect circles, share resources, coordinate larger quests)
@@ -83,7 +83,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 ### 5. Create Mutual Clarification Loops
 **Semantic ↔ Mathematical ↔ Practical**
 
-**The feedback loops**:
+**The feedback loops**:  
 1. **Semantic → Mathematical**: Text corpus trains models, graphs, algorithms
 2. **Mathematical → Practical**: Models guide people playing The Great Game
 3. **Practical → Semantic**: Real-world play generates new stories, learnings, patterns
@@ -99,28 +99,28 @@ The Great Game is described across hundreds of pages. A game engine would:
 ### Phase 1: Extract & Map (Foundation)
 **Goal**: Make the implicit explicit
 
-**1.1 Semantic Analysis**
+**1.1 Semantic Analysis**  
 - Parse all 2.5M words
 - Extract key concepts, entities, patterns
 - Map `[[wiki links]]` as semantic relationships
 - Identify core vocabulary (The Lionsberg Lexicon)
 - Build initial knowledge graph
 
-**1.2 Pattern Language Extraction**
+**1.2 Pattern Language Extraction**  
 - Identify recurring patterns across the corpus
 - Categorize by scale (individual, circle, community, etc.)
 - Document pattern structure (context, problem, solution, consequences)
 - Map pattern relationships and sequences
 - Create pattern catalog
 
-**1.3 Statistical Field Analysis**
+**1.3 Statistical Field Analysis**  
 - Measure concept frequency and co-occurrence
 - Calculate semantic similarity between pages
 - Identify central/hub concepts
 - Map information flow and dependency chains
 - Create vector embeddings for all content
 
-**Deliverables**:
+**Deliverables**:  
 - Complete knowledge graph (nodes, edges, weights)
 - Pattern language catalog
 - Semantic network visualization
@@ -130,28 +130,28 @@ The Great Game is described across hundreds of pages. A game engine would:
 ### Phase 2: Compute & Model (Intelligence)
 **Goal**: Reflect the semantic field mathematically and computationally
 
-**2.1 AI Model Training**
+**2.1 AI Model Training**  
 - Fine-tune language model on LIONSBERG corpus
 - Train on specific tasks (quest generation, guidance, pattern recognition)
 - Create retrieval-augmented generation (RAG) system
 - Build question-answering capability
 - Develop contextual guidance system
 
-**2.2 Rule Engine Development**
+**2.2 Rule Engine Development**  
 - Encode The Great Game rules computationally
 - Formalize quest structures and workflows
 - Define circle dynamics and coordination protocols
 - Model seasonal cycles and rhythm patterns
 - Create measurement and feedback algorithms
 
-**2.3 Coordination Infrastructure**
+**2.3 Coordination Infrastructure**  
 - Design data structures for tracking game state
 - Build APIs for interaction with the system
 - Create interfaces for individuals, circles, communities
 - Develop visualization and dashboard systems
 - Enable real-time coordination and communication
 
-**Deliverables**:
+**Deliverables**:  
 - Trained LIONSBERG AI model
 - Computational rule engine
 - Game state tracking system
@@ -161,28 +161,28 @@ The Great Game is described across hundreds of pages. A game engine would:
 ### Phase 3: Play & Evolve (Living System)
 **Goal**: Make it playable and create feedback loops
 
-**3.1 Beta Launch with First Circles**
+**3.1 Beta Launch with First Circles**  
 - Deploy coordination platform to 3-12 pioneer circles
 - Provide AI guidance and quest suggestions
 - Track real-world play and outcomes
 - Gather feedback and learnings
 - Iterate rapidly based on actual use
 
-**3.2 Feedback Loop Implementation**
+**3.2 Feedback Loop Implementation**  
 - Capture stories and experiences from real play
 - Extract patterns from actual coordination data
 - Update semantic corpus with new learnings
 - Refine AI model based on real interactions
 - Improve coordination platform based on usage
 
-**3.3 Scale and Replicate**
+**3.3 Scale and Replicate**  
 - Expand to 144 circles (Fibonacci next step)
 - Enable circle-to-circle coordination
 - Support community-level organization (The 300)
 - Connect bioregional networks
 - Build towards planetary grid
 
-**Deliverables**:
+**Deliverables**:  
 - Production coordination platform
 - Continuously learning AI system
 - Real-world pattern validation
@@ -224,7 +224,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 
 **We are in Year 2 of the 7 Year Window of Crisis and Opportunity (2024-2030).**
 
-The First Three Percent need:
+The First Three Percent need:  
 - **Immediate guidance** (AI that knows the full corpus)
 - **Coordination tools** (to form circles, connect, act together)
 - **Pattern clarity** (explicit knowledge of what works)
@@ -235,7 +235,7 @@ The First Three Percent need:
 
 **What's missing**: Making it **computationally accessible**, **interactively playable**, and **coordinationally powerful**.
 
-This project bridges the gap between:
+This project bridges the gap between:  
 - **Sacred wisdom** (the corpus)
 - **Practical action** (people playing the game)
 - **Planetary coordination** (250 million united by 2026)
@@ -322,7 +322,7 @@ This project bridges the gap between:
 
 ### Long-Term Goal (By End of 2026)
 
-**A living, playable, computationally-powered version of The Great Game** that enables The First Three Percent to:
+**A living, playable, computationally-powered version of The Great Game** that enables The First Three Percent to:  
 - Find each other
 - Form circles
 - Play quests
@@ -330,8 +330,8 @@ This project bridges the gap between:
 - Build the planetary grid
 - Bring Heaven to Earth
 
-**The semantic field becomes executable.**
-**The Pattern Language becomes playable.**
+**The semantic field becomes executable.**  
+**The Pattern Language becomes playable.**  
 **The Great Game comes to life.**
 
 ---
@@ -353,13 +353,13 @@ This project bridges the gap between:
 
 The **semantic field** (2.5M words of wisdom) and the **computational field** (mathematical models, code, platforms) are not separate domains—they are **dual expressions of the same underlying Pattern Language**.
 
-By reflecting one into the other:
+By reflecting one into the other:  
 - **Semantic → Computational**: The wisdom becomes actionable, scalable, coordinatable
 - **Computational → Semantic**: The patterns become explicit, measurable, refinable
 - **Both → Practice**: People play The Great Game in the real world
 - **Practice → Both**: Real-world results validate, refine, and enrich both fields
 
-**This creates a triple helix**:
+**This creates a triple helix**:  
 1. **Wisdom** (semantic corpus)
 2. **Intelligence** (computational models)
 3. **Action** (real-world play)
@@ -378,7 +378,7 @@ By reflecting one into the other:
 
 **What's needed**: Reflection into mathematical/computational form so it becomes **playable at scale**.
 
-This isn't about replacing the sacred with the technical—it's about **mutual clarification**, where:
+This isn't about replacing the sacred with the technical—it's about **mutual clarification**, where:  
 - The sacred illuminates the technical
 - The technical empowers the sacred
 - Together they enable billions to play The Great Game

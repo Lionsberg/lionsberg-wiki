@@ -102,9 +102,3 @@ If you believe you are a match for this courageous, dangerous and visionary unde
 With Love, In Community, 
 
 ~ J 
-
-
-
-
-
-

@@ -19,6 +19,6 @@ The future of The Great Game of Lionsberg is full of possibilities, shaped by th
 
 ____
 
-Forward to [[27 A Call to Action for Players]]    
+Forward to [[27 A Call to Action for Players]]  
 Back to [[25 The Lionsberg Super Mind and Knowledge Repository]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

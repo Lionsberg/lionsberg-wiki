@@ -114,4 +114,3 @@ At a press conference following his investigation, Dr. Hynek suggested that some
     
     - NICAP Report on Michigan Sightings: [https://www.nicap.org](https://www.nicap.org/)
     - CUFOS Investigation Archive: [https://www.cufos.org](https://www.cufos.org/)
-

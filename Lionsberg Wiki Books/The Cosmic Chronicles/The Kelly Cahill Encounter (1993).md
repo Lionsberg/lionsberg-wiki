@@ -91,4 +91,3 @@ Other witnesses in the area, including another couple, independently reported se
 - **Documentaries:**
     
     - _The Kelly Cahill Encounter: Australia’s Most Chilling UFO Case_ (1998).
-

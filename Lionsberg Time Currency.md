@@ -7,6 +7,3 @@ Teams and groups can exchange [[Lionsberg Time Currency]] with [[LIONSBERG]] and
 [[Individuals]] can exchange time currency with [[IPD Teams]] or [[Groups]] in 15 minute increments, up to  32 units (8 hours) per day. 
 
 Each unit of time currency is rated by the Individual on a scale of 1 to 10 corresponding to level of skill / abstraction / creativity present in the [[Work]] 
-
-
-

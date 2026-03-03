@@ -1,7 +1,7 @@
 # Self-Replicate Your Circles
 
-_The fruit of the tree contains new seeds.
-The mark of a mature [[Circle]] is not its size —
+_The fruit of the tree contains new seeds.  
+The mark of a mature [[Circle]] is not its size —  
 it is the number of new Circles it has helped birth._
 
 ---
@@ -64,8 +64,8 @@ Do not measure your Circle by how many members it has. Measure it by how many ne
 
 A Circle of five that has birthed three new Circles has done more for the [[New Civilization]] than a Circle of fifty that has birthed none.
 
-**This is how the seed becomes a forest.
-This is how [[The First Three Percent]] emerges.
+**This is how the seed becomes a forest.  
+This is how [[The First Three Percent]] emerges.  
 This is how the world changes — one Circle planting the next, the flame passing from hand to hand, until the whole Earth is alight.**
 
 ---

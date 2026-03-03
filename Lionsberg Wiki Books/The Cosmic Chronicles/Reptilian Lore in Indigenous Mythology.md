@@ -15,9 +15,9 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **North America: The "Snake People"**
 
 - **Hopi Prophecy:**  
-    The Hopi speak of the _Chitauri_, a snake-like people who once lived underground and interacted with their ancestors. These beings were both feared and revered for their wisdom and connection to the Earth.
+    The Hopi speak of the _Chitauri_, a snake-like people who once lived underground and interacted with their ancestors. These beings were both feared and revered for their wisdom and connection to the Earth.  
 - **Cherokee Lore:**  
-    Cherokee traditions mention the Uktena, a serpent-like creature with horns and supernatural abilities, said to guard sacred sites.
+    Cherokee traditions mention the Uktena, a serpent-like creature with horns and supernatural abilities, said to guard sacred sites.  
 - **Mesoamerican Connection:**  
     Many North American indigenous groups describe serpent-like deities resembling Quetzalcoatl, blending themes of wisdom, agriculture, and cosmic knowledge.
 
@@ -26,7 +26,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **Mesoamerica: Quetzalcoatl and Kukulkan**
 
 - **Quetzalcoatl (Aztec):**  
-    The Feathered Serpent was a central deity in Aztec mythology, associated with knowledge, creation, and the heavens. Descriptions of Quetzalcoatl often combine reptilian and avian traits, emphasizing its transcendental nature.
+    The Feathered Serpent was a central deity in Aztec mythology, associated with knowledge, creation, and the heavens. Descriptions of Quetzalcoatl often combine reptilian and avian traits, emphasizing its transcendental nature.  
 - **Kukulkan (Mayan):**  
     Similarly, the Maya revered Kukulkan as a bringer of knowledge and a guide to the stars. Temples dedicated to Kukulkan feature intricate carvings depicting serpent-like forms, suggesting a fascination with these beings.
 
@@ -35,7 +35,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **South America: The Naga and Amazonian Serpents**
 
 - **Amazon Tribes:**  
-    Indigenous groups like the Yanomami recount stories of giant serpents or reptilian beings dwelling in the Amazon's vast rainforests and underground tunnels. Some myths describe these beings as guardians of forbidden knowledge.
+    Indigenous groups like the Yanomami recount stories of giant serpents or reptilian beings dwelling in the Amazon's vast rainforests and underground tunnels. Some myths describe these beings as guardians of forbidden knowledge.  
 - **Andean Mythology:**  
     In the Andes, stories of serpent gods and subterranean dwellers persist, blending themes of creation and destruction.
 
@@ -44,7 +44,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **Africa: The Chitauri and the Zulu Legends**
 
 - **Zulu Accounts:**  
-    South African shaman Credo Mutwa described the Chitauri, reptilian beings believed to have manipulated humanity in ancient times. These beings are said to control Earth's resources and dominate from behind the scenes.
+    South African shaman Credo Mutwa described the Chitauri, reptilian beings believed to have manipulated humanity in ancient times. These beings are said to control Earth's resources and dominate from behind the scenes.  
 - **Egyptian Mythology:**  
     The Egyptian deity Sobek, often depicted as a crocodile-headed god, represented strength and fertility while maintaining an aura of divine mystery.
 
@@ -53,7 +53,7 @@ The widespread presence of reptilian lore in indigenous mythology suggests that 
 #### **Asia: The Nagas**
 
 - **Hindu and Buddhist Traditions:**  
-    Nagas are serpent-like beings who inhabit the underworld and protect sacred treasures. They are both revered and feared, symbolizing wisdom, immortality, and cosmic power.
+    Nagas are serpent-like beings who inhabit the underworld and protect sacred treasures. They are both revered and feared, symbolizing wisdom, immortality, and cosmic power.  
 - **Tibetan Lore:**  
     In Tibetan Buddhism, Nagas are seen as spiritual guardians who influence natural phenomena, including rain and earthquakes.
 

@@ -10,7 +10,7 @@ Xion spent the rest of the day in his secret room, carefully planning out his st
 
 As night fell, Xion could hear the guards still searching for him, but he knew that he was safe in his secret room. He continued to pray and plan, waiting for the opportune moment to begin his mission. He worked, he prayed, he wrote, and eventually, he slept. 
 
-___
+___  
 Forward to: [[Scene 21 - An Intruder in the Secret Place]]  
 Back to: [[Scene 19 - The Escape]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

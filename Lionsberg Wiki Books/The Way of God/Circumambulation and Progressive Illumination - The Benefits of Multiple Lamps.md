@@ -33,4 +33,3 @@ The End For Now - This Remains a [[Work In Progress]]
 Back to [[Why the Founder of Lionsberg Begins with the NASB]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

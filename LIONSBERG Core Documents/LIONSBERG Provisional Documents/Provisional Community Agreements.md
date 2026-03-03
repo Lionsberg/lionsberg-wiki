@@ -1,5 +1,5 @@
 # Provisional Community Agreements
-As a quick placeholder / [[Work In Progress]]... 
+As a quick placeholder / [[Work In Progress]]...  
 *Updated June 26, 2025*
 
 1. By participating, 

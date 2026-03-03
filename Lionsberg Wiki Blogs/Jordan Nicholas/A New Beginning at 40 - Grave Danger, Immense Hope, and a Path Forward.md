@@ -152,17 +152,17 @@ Every 90 days, We will choose new **Seasonal Quests**. Every week, We will share
 
 Every one of us holds a piece of the solution. Together, we form a living tapestry of hope and action
 
-Together, we will awaken. 
-Together, we will unite. 
-Together, we will rise as **One Body, One Force, One Light**. 
+Together, we will awaken.  
+Together, we will unite.  
+Together, we will rise as **One Body, One Force, One Light**.  
 The Time is **Now**.
 
-Let Us begin. 
-___
+Let Us begin.  
+___  
 We close with a final warning from one of the last great African Sangomas: 
 
 > _“You are going to face something even 1,000 times more dangerous… A pitiless force. A force of destruction and enslavement… This is what you are going to face. And you are not in your right head at all.”_  
 > — Credo Mutwa, African Sangoma
 
-Let's get in our right Minds, *and move.*
+Let's get in our right Minds, *and move.*  
 ___

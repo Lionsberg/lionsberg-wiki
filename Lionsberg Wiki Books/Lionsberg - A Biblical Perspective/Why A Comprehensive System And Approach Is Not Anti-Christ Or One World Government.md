@@ -32,6 +32,6 @@ As Jesus said when he himself was accused of being in league with Satan "a kingd
 
 ___
 
-Forward to [[Conclusion - Lionsberg - A Biblical Perspective]]    
+Forward to [[Conclusion - Lionsberg - A Biblical Perspective]]  
 Back to [[Alignment Of The Lionsberg System With Biblical Principles And Values]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

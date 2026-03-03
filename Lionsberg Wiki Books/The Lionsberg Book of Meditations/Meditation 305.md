@@ -1,4 +1,4 @@
-[[Worksite Earth]] is just another work site. What we should be doing is working together to: 
+[[Worksite Earth]] is just another work site. What we should be doing is working together to:  
 1. Understand the Highest Intention, 
 2. Analyze [[Existing Forces and Conditions]], 
 3. Engage the right resources

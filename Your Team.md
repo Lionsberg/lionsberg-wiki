@@ -13,5 +13,5 @@ So We strongly encourage [[All]] to follow the [[Standards Of Interoperability]]
 
 [[Team of Teams]]  
 [[Group Of Groups]]  
-[[Community of Communities]] 
+[[Community of Communities]]  
 [[Superlative of Superlatives]]  

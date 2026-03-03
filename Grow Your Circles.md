@@ -1,8 +1,8 @@
 # Grow Your Circles
 
-_A living thing grows.
-This is the sign that it is alive.
-When your [[Circle]] begins to attract new souls,
+_A living thing grows.  
+This is the sign that it is alive.  
+When your [[Circle]] begins to attract new souls,  
 do not fear it — tend it._
 
 ---
@@ -48,8 +48,8 @@ A community with one Circle of twelve has one point of light. A community with f
 
 **Do not cling to size.** The mark of a healthy Circle is not how many people it holds. It is how many new Circles it has helped bring into being.
 
-When your Circle divides, you have not lost something.
-You have multiplied the Body.
+When your Circle divides, you have not lost something.  
+You have multiplied the Body.  
 You have doubled the light.
 
 **This is growth. This is the Way.**

@@ -12,7 +12,7 @@ As things grew darker, some of the elders began being reminded in their dreams o
 
 Inside the walls of The Boundary, a dark and sinister power had taken root and was growing. The deaths and suffering were not just inflicted from without. Suicides, substance abuse, and depression ran rampant through the streets, seizing the innocent. But the people of Earth were not just facing problems within. An even greater threat was looming on the horizon. No matter how much they tried to distract themselves and ignore it, every cell of every body could feel that something was wrong, and growing wronger.  
 
-___
+___  
 Forward to: [[Scene 8 - The Forces of Darkness]]  
 Back to: [[Scene 6 - Progress And Trouble In Paradise]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

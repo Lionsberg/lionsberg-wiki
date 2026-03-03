@@ -1,12 +1,12 @@
 # Forge a Field of Agreements
 
-Trust is not a feeling. It is a structure.
-And the structure is built from agreements —
+Trust is not a feeling. It is a structure.  
+And the structure is built from agreements —  
 Spoken, shared, and honored.
 
-A [[Circle]] is not held together by enthusiasm, affinity, or good intentions.
-Without agreements, trust has no ground to stand on.
-With them, a Circle becomes an unshakable vessel
+A [[Circle]] is not held together by enthusiasm, affinity, or good intentions.  
+Without agreements, trust has no ground to stand on.  
+With them, a Circle becomes an unshakable vessel  
 For the work of transformation.
 
 ---
@@ -37,19 +37,19 @@ These three form the bedrock. Everything else is built upon them.
 
 A complete Field of Agreements addresses five dimensions:
 
-**1. Purpose**
+**1. Purpose**  
 Why does this Circle exist? What is it in service to? Your purpose should be aligned with [[The Goal]] — the flourishing of all life and the co-creation of [[Heaven On Earth]] — while being specific enough to guide your choices.
 
-**2. Principles**
+**2. Principles**  
 What values do you commit to embody together? Truth. Transparency. Mutual respect. Courage. Humility. Name the ones that matter most to your Circle — and mean them.
 
-**3. Practices**
+**3. Practices**  
 How will you meet? How often? How will decisions be made — by consensus, by consent, by delegation? How will you communicate between gatherings? What tools will you use? These practical agreements prevent most friction before it starts.
 
-**4. Boundaries**
+**4. Boundaries**  
 Who is in the Circle? How do new members join? How do members leave? What is shared in confidence? What can be shared outside? Clear boundaries are not walls — they are the membranes that make genuine intimacy possible.
 
-**5. Commitments**
+**5. Commitments**  
 What does each person commit to contribute? Time, energy, skills, resources, presence. Be specific. Vague commitments breed resentment. Clear commitments build trust.
 
 ---
@@ -84,7 +84,7 @@ This is the foundation of self-governance in the [[New Civilization]]. Not rules
 
 ---
 
-Your agreements are forged.
+Your agreements are forged.  
 Now it is time to set the rhythm that keeps your Circle alive.
 
 **The next play is [[Set Your Cadence]].**

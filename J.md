@@ -9,10 +9,9 @@ See [[Oops, We Lost J - Final Post]].
 ____
 
 The Spirit never dies.  
-The Phoenix always rises stronger. 
+The Phoenix always rises stronger.  
 The War continues.  
 
 **[[Something Powerful, New, and Good]]** is emerging.
 
 >*Though We fall 7 times, 8 times We Will Rise.*  
-

@@ -1,6 +1,6 @@
 # Untitled
 
-_The ONE that can be named is not the ONE._
+_The ONE that can be named is not the ONE._  
 _The Way that can be named is not the Way._ 
 
 And yet there is a ONE and there is a Way.  

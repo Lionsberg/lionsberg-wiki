@@ -22,5 +22,3 @@ ___
 
 Forward to [[Summary - Lionsberg - A Biblical Perspective]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    
-
-

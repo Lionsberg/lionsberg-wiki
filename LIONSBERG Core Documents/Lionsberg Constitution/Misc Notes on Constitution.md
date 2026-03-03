@@ -1,7 +1,7 @@
 # Misc Notes on Constitution
 
 *Draft Under Review and Provisional Enaction - Version 03.13.2024.*  
-*This is very insufficient drafting that will be refined.* 
+*This is very insufficient drafting that will be refined.*  
 *Some of the ideas around which phrases and paragraphs may form might be [[Something Like]]:*
 
 ## Ideas
@@ -199,4 +199,3 @@ When possible and Wise to do so, [[Issues]] should not be Resolved until enough 
 During the [[10 Year Grand Strategy]], if the Highest Order Stewardship Council is unable to reach a [[Consensus]] within the Time allocated on the [[Escalation Ladder]], they will present the issue to [[Jordan]], who will make a Binding Decision if required, or agree with the [[Highest Order Council]] on a specific extension of Time. 
 
 Following successful completion of the [[10 Year Grand Strategy]] and inauguration of the [[New Era]], or upon Jordan's Death or Incapacitation, whichever comes sooner, Jordan's Founding Role shall be retired and never replaced. 
-

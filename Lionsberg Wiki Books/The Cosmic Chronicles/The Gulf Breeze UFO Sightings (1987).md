@@ -125,4 +125,3 @@ The Gulf Breeze wave continued through 1988 and 1989, with ongoing reports and n
     
     - MUFON Gulf Breeze Reports: [https://www.mufon.com](https://www.mufon.com/)
     - NICAP Analysis of Gulf Breeze: [https://www.nicap.org](https://www.nicap.org/)
-

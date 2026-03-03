@@ -11,5 +11,3 @@ ___
 Forward to [[The One That Unites The Many]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-
-

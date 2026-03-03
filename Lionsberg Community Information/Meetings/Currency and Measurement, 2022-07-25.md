@@ -1,6 +1,6 @@
 # Currency and Measurement, 2022-07-25
 
-_... part of the oneness unfolding_
+_... part of the oneness unfolding_  
 
 ## Attendees
 
@@ -144,20 +144,20 @@ _... part of the oneness unfolding_
     - Then people can open, edit, add comments, etc. 
 - Publish to DAO
 
-Members
+Members  
 
 ## Grace's cautions / suggestions (separately, in Mattermost)
 
-https://chat.collectivesensecommons.org/agora/pl/qnww7yzan7f4pmkfonu4a5fsqy
+https://chat.collectivesensecommons.org/agora/pl/qnww7yzan7f4pmkfonu4a5fsqy  
 
 1. What outcomes do we want to accomplish.
 2. What measures would indicate that we got to those outcomes.
 3. How do we measure it.
 4. Try some stuff out.
 
-https://chat.collectivesensecommons.org/agora/pl/4c3p83uigtymxmymh174c3uiur
+https://chat.collectivesensecommons.org/agora/pl/4c3p83uigtymxmymh174c3uiur  
 
-I don't know if I need to reiterate this but there are a few warnings:
+I don't know if I need to reiterate this but there are a few warnings:  
 
 1. Let's not delude ourselves that we really have a useful circular economy where we can fund one another.
 2. Let's be careful about not getting into a system where people have an opportunity to claim someone isn't pulling their weight.

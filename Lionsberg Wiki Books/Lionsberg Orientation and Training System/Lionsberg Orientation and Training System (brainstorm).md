@@ -1,6 +1,6 @@
 # Lionsberg Orientation and Training System (brainstorm)
 
-Brainstorm on possible modules / topics / pathways. 
+Brainstorm on possible modules / topics / pathways.  
 
 
 - [[3 Year Healing, Orientation, and Empowerment Process]] that precedes [[Citizenship]] in the [[New Era]].   
@@ -208,7 +208,7 @@ Brainstorm on possible modules / topics / pathways.
 
 
 
-Build prerequisite structure so people can choose any modules that they have accomplished the prerequisites for - a branching learning journey. 
+Build prerequisite structure so people can choose any modules that they have accomplished the prerequisites for - a branching learning journey.  
 
 - Developing a Theory of Evil and Malevolence  
 - Citizen Led Joint Ventures  
@@ -279,13 +279,3 @@ Day 88 - Preparing for Future Cohorts: The Responsibility of Teaching, Coaching,
 Day 89 - Preparing for Self Governance: The Responsibility for Navigating Individually and Collective Towards The Goal  
 Day 91 - Graduation and Sending Forth: Continuing the Journey  
 Day 92 - Rest, Regeneration, and Retrospection  
-
-
-
-
-
-
-
-
-
-

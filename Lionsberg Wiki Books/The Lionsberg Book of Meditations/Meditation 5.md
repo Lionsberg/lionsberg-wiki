@@ -4,6 +4,6 @@ We now know that we all have One uniting Source of origin, One uniting mission f
 
 ___
 
-Forward to [[Meditation 6]]        
+Forward to [[Meditation 6]]  
 Back to [[Meditation 4]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

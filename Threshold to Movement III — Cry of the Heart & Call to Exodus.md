@@ -14,7 +14,7 @@ _Lament → Courage → Commitment → Departure → First Light Beyond._
   
 ### **Energetic Current**
   
-_Fierce protection and resolve (Masculine) cradled in belonging and care (Feminine)._
+_Fierce protection and resolve (Masculine) cradled in belonging and care (Feminine)._  
 _The Shield encircles; the Flame leads._
 
 ### **Story**

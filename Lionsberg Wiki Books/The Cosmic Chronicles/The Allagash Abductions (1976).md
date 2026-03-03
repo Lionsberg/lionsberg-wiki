@@ -97,4 +97,3 @@ The men’s descriptions were consistent across sessions, despite being conducte
     
     - Fowler, Raymond E. _The Allagash Abductions: Undeniable Evidence of Alien Intervention._
     - Hopkins, Budd. _Missing Time: A Documented Study of UFO Abductions._
-

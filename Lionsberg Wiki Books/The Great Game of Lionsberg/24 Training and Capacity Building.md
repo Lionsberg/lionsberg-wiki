@@ -46,6 +46,6 @@ By investing in training and capacity building, The Great Game of Lionsberg empo
 
 ____
 
-Forward to [[25 The Lionsberg Super Mind and Knowledge Repository]]    
+Forward to [[25 The Lionsberg Super Mind and Knowledge Repository]]  
 Back to [[23 Shared Services, Infrastructure, and Support]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

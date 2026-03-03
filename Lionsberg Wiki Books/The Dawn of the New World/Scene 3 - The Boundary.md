@@ -11,7 +11,7 @@ As Earth's community grew and prospered, the people became increasingly isolated
 
 Unbeknownst to them, a dark shadow was growing in the vast expanses Beyond The Boundary. A terrible threat was approaching, one that would challenge the people of Earth like never before.
 
-___
+___  
 Forward to: [[Scene 4 - Life Within The Boundary]]  
 Back to: [[Scene 2 - Humanity Awakens]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

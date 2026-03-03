@@ -14,7 +14,7 @@ In that moment, Xion felt utterly alone, terrified, and helpless. He had never e
 
 As he watched and prayed, he found himself increasingly overwhelmed by a surge of [[Courage]] and [[Love]] so powerful they seemed to be coursing through his veins. It was a strange sensation. His whole body vibrated with a New Sensation. He was not growing less afraid, but rather more Brave and Strong. He realized that the people of Earth needed to rediscover and embody the Spirit that once inhabited the heroes of old, and they needed someone who could rise up to lead, serve and unite them in the face of the looming threat. He knew that the Spirit had awakened him to ask if he was willing to empty himself out and lay down his life in service to the Creation, the people of Earth, and All Creation for such a time as this. From the depths of his spirit, soul, and body, everything within him arose and responded in unison "Yes. I Am here, I Am Yours. All of Me exists in service to All of You, for We Are One. Use Me as You will."
 
-___
+___  
 Forward to: [[Scene 13 - Rising Above The Chaos]]  
 Back to: [[Scene 11 - Hope Recedes From View]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

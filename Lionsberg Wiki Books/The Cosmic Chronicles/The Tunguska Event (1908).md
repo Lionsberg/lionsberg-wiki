@@ -113,6 +113,3 @@ The event occurred in a sparsely populated region, so direct fatalities were lim
     
     - Tunguska Event Research Archive: [https://tunguska.org](https://tunguska.org/)
     - NASA on Near-Earth Objects: [https://neo.jpl.nasa.gov](https://neo.jpl.nasa.gov/)
-
-
-

@@ -5,5 +5,5 @@ Phrases like "Team of Teams", [[Group Of Groups]], or "[[Community of Communitie
 
 [[Team of Teams]]  
 [[Group Of Groups]]  
-[[Community of Communities]] 
+[[Community of Communities]]  
 [[Superlative of Superlatives]]  

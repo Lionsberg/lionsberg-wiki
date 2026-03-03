@@ -40,7 +40,7 @@ Takeaway - It seems there is a big market gap for an open-source drilling machin
 - Sub $3k to $5k portable mechanical machine  
 - Sub $10k simpler version of higher end concepts  
 
-J's intuition is that highly effective machines could be manufactured out of available materials in developing countries for under $10k. 
+J's intuition is that highly effective machines could be manufactured out of available materials in developing countries for under $10k.  
 The Village Drill is an interesting step conceptually, but still expensive for mass-roll-out and adoption.  
 
 ## Ideas 
@@ -65,6 +65,3 @@ The Village Drill is an interesting step conceptually, but still expensive for m
 |5|Solar-Powered Electric Drill|Solar Electric|≤100 m|~$2,500–$6,000|
 |6|Trailer-Mounted Small Rig|Diesel Mechanical|≤200 m|~$10,000–$20,000|
 |7|Full Truck-Mounted Rig|Diesel Hydraulic|≤500+ m|~$30,000–$100,000+|
-
-
-

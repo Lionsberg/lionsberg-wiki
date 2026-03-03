@@ -29,5 +29,5 @@ It is clear that we need a new approach to addressing the Meta Crisis, one that 
 ___
 
 Forward to [[The Need For A Comprehensive And Integrated Meta Solution]]  
-Back to [[Facing Into The Reality of the Meta Crisis]]    
+Back to [[Facing Into The Reality of the Meta Crisis]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

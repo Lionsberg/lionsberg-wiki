@@ -49,7 +49,7 @@ The scenarios outlined in this chapter are not mere hypotheticals but real and p
 
 As we face the non-zero probability of the collapse of the very systems that sustain our modern way of life, the choices we make today will shape the economic, social, political, and spiritual landscape of tomorrow. The stakes are high, and the responsibility is ours. The time for complacency has passed; the time for action is now.
 
-___
+___  
 Forward to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to [[Chapter 1 - The Collapse of the American Order]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

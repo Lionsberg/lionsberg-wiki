@@ -109,7 +109,7 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 - Extend [[The Invitation]]  
 - Update [[Lionsberg History and Inception]]  
 
-Additional items for continuous improvement: 
+Additional items for continuous improvement:  
 - [[The Messenger(s)]]  
 - [[The Message]]  
 - [[The Story]]  
@@ -120,4 +120,3 @@ Additional items for continuous improvement:
 ## Retrospection and Continuous Improvement 
 
 Because this is Quest into the Unknown, [[We Do Not Know]] how it will go. Therefore the [[Way]] will have to be determined day by day, cycle by cycle by those committed to doing whatever is required to help One Another and All Creation advance together towards [[The Goal]]. 
-

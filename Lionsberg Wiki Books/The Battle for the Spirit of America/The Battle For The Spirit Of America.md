@@ -1,6 +1,6 @@
 # The Battle for the Spirit of America - Why I Am Running Independently For US President
 
-By [[Jordan Nicholas Sukut]]
+By [[Jordan Nicholas Sukut]]  
 A [[Work In Progress]]... 
 
 ## Section I: Introduction
@@ -176,4 +176,3 @@ A [[Work In Progress]]...
 #### 15.5 Your Immediate Next Steps 
 
 ### Appendix: Beyond The Meta Crisis: A Guide to Navigating the Great Transformation
-

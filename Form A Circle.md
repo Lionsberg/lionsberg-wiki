@@ -1,17 +1,17 @@
 # Form A Circle
 
-No one was meant to walk this path alone.
-Not in The Caves. Not Outside them.
+No one was meant to walk this path alone.  
+Not in The Caves. Not Outside them.  
 Not ever.
 
-The basic unit of the [[New Civilization]] is not the individual.
-It is the **[[Circle]]** — a small band of sovereign souls
+The basic unit of the [[New Civilization]] is not the individual.  
+It is the **[[Circle]]** — a small band of sovereign souls  
 Who choose to see, to serve, and to build together.
 
-This is how every great movement in history has begun:
-Not with institutions. Not with campaigns.
-With a few committed people in a room,
-Deciding that the world they long for
+This is how every great movement in history has begun:  
+Not with institutions. Not with campaigns.  
+With a few committed people in a room,  
+Deciding that the world they long for  
 Is the world they will co-create.
 
 **Your Circle is the first living cell of [[Heaven On Earth]].**
@@ -38,8 +38,8 @@ Start with who is in front of you. Three is enough to begin. Twelve is the natur
 
 Once you have identified your resonant souls, share [[The Invitation]]. Give them the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Read together. Let the words land. Let questions arise.
 
-Do not argue anyone into participation.
-**Attraction, not promotion.**
+Do not argue anyone into participation.  
+**Attraction, not promotion.**  
 Those who are meant to walk with you will recognize it immediately.
 
 ---
@@ -76,8 +76,8 @@ Weekly at minimum. In person when possible. By video when geography demands it. 
 
 Open every gathering with **[[The First Practice]]** — the shared rhythm of pausing, grounding, breathing, remembering, realigning, and recommitting. This is the heartbeat. Without it, you are a committee. With it, you are a living cell of the New.
 
-A Circle is not a discussion group.
-A Circle is not a support group.
+A Circle is not a discussion group.  
+A Circle is not a support group.  
 A Circle is a **complete, self-governing expression of the New Civilization at human scale** — sovereign beings learning to love, trust, decide, and build together.
 
 It is the smallest fractal of the Whole that contains the full pattern.
@@ -94,15 +94,15 @@ A Circle is alive when its members:
 - **Grow** — through reflection, learning, and deepening trust
 - **Multiply** — by passing the Flame and helping new Circles form
 
-A Circle that only meets but never acts is a study group.
-A Circle that acts but never reflects is a task force.
+A Circle that only meets but never acts is a study group.  
+A Circle that acts but never reflects is a task force.  
 A Circle that does both — and multiplies — is a **living cell of Heaven On Earth**.
 
 ---
 
-Your Circle is formed.
-The covenant is spoken.
-The coordinators are chosen.
+Your Circle is formed.  
+The covenant is spoken.  
+The coordinators are chosen.  
 The rhythm has begun.
 
 Now it is time to give your Circle its first body of meaningful work.
@@ -110,5 +110,5 @@ Now it is time to give your Circle its first body of meaningful work.
 **The next play is [[Choose A Quest]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The Architecture of The Playbook]] for the full navigation.  
 See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.

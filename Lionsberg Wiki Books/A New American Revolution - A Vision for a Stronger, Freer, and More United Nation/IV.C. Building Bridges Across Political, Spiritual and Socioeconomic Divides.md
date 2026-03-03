@@ -15,6 +15,6 @@ In short, the New American Revolution must be a spiritual revolution of unity an
 
 ___
 
-Forward to [[IV.D. Embracing Timeless Wisdom, Principles and Values]]        
-Back to [[IV.B. The Need for a New Vision and Plan]]        
+Forward to [[IV.D. Embracing Timeless Wisdom, Principles and Values]]  
+Back to [[IV.B. The Need for a New Vision and Plan]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

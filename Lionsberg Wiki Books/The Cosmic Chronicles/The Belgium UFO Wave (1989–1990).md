@@ -91,4 +91,3 @@ Despite radar locks, the craft repeatedly evaded interception by dropping altitu
     
     - Leslie Kean, _UFOs: Generals, Pilots, and Government Officials Go on the Record._
     - Richard Dolan, _UFOs and the National Security State._
-

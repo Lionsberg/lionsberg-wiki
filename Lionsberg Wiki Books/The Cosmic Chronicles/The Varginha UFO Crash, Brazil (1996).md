@@ -95,4 +95,3 @@ Shortly after these events, reports emerged of another being’s body being tran
     
     - Good, Timothy. _Need to Know: UFOs, the Military, and Intelligence._
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-

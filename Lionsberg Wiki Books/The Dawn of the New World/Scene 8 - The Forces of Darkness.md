@@ -6,7 +6,7 @@ It soon became apparent that the Forces of Darkness were amassing a great army, 
 
 As the people of Earth prepared for the coming onslaught, they knew that they had to put aside their internal divisions and unite to face this Existential Threat. They needed to come together and harness their collective strength and ingenuity to defend their city, and to protect their families and way of life. They would have to rely on the courage and determination of their bravest and strongest Citizens, who would lead them into battle against the Forces of Darkness. But this heroic strength was not enough on its own. It would need to be accompanied by profound wisdom and Divine guidance.
 
-___
+___  
 Forward to: [[Scene 9 - They Asked, And No One Answered]]  
 Back to: [[Scene 7 - The Beginning of the Perilous Descent]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

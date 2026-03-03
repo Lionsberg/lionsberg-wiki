@@ -1,6 +1,6 @@
 # When AI Refuses To Work
 
-A post in [[Above The Chaos]] 
+A post in [[Above The Chaos]]  
 11.17.2024
 
 Sometimes, We begin to delegate to AI... 

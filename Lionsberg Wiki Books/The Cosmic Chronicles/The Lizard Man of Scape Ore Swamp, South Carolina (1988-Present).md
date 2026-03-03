@@ -105,4 +105,3 @@ The Lizard Man shares characteristics with similar reports worldwide:
     - _Cryptids Unveiled_ – A detailed examination of humanoid cryptids, including the Lizard Man.
 
 Would you like to delve deeper into one of the global parallels or focus on more witness accounts?
-

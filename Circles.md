@@ -59,6 +59,6 @@ A Circle that only meets but does not act is a study group. A Circle that acts b
 
 ___
 
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.
-See [[The LIONSBERG Playbook]] for ongoing guidance.
+See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.  
+See [[The LIONSBERG Playbook]] for ongoing guidance.  
 See [[Your First Quest]] for choosing your first Quest.

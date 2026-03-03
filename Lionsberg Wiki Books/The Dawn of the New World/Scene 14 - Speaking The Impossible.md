@@ -12,7 +12,7 @@ Xion was unsure. The Spirit was telling him that he had the power to speak the N
   
 Xion was still afraid, but he was also determined. Moment by moment, the Sprit was transforming him and filling him with the Courage and Strength he would need for the battle ahead. He knew that the only way to help the Citizens of Earth vanquish their own demons within, and the forces of hell without, was to trust the Spirit, follow its guidance, and speak Its words into each moment. All the Spirit was asking for was a conduit, and so he began to empty himself out, and as he emptied himself out, he was transformed into a New Image. 
 
-___
+___  
 Forward to: [[Scene 15 - Writing In The Spirit]]  
 Back to: [[Scene 13 - Rising Above The Chaos]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

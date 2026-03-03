@@ -61,7 +61,7 @@ The challenges are daunting, but the potential for transformation is real. It re
 
 Before the Four Horsemen ride, we are called to rise and move together towards a future of abundance, peace, and harmony. The choice is ours, the moment is now, and the path towards a new era awaits.
 
-___
+___  
 Forward to [[Chapter 4 - The Shadow of World War]]  
 Back to [[Chapter 2 - Supply Chain Breakdown and Economic Chaos]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

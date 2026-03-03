@@ -23,5 +23,5 @@ The time has come for the American people to seize this moment, to embrace the c
 ___
 
 Forward to [[VI.E. Continuously Improving the New Vision and Plan]]  
-Back to [[VI.C. The Non-Inevitability of Failure and Decline]]        
+Back to [[VI.C. The Non-Inevitability of Failure and Decline]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

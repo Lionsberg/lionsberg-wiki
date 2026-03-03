@@ -68,9 +68,9 @@ According to whistleblower reports, specific corporations and clandestine groups
 ### **Key Observations**
 
 - **Witness Profiles:**  
-    Reports come from diverse groups, including trained military personnel, commercial pilots, law enforcement, and civilians.
+    Reports come from diverse groups, including trained military personnel, commercial pilots, law enforcement, and civilians.  
 - **Geographic Spread:**  
-    Sightings are documented across all continents, suggesting either global deployment or visitation.
+    Sightings are documented across all continents, suggesting either global deployment or visitation.  
 - **Association with Sensitive Sites:**  
     Many encounters occur near military bases, nuclear facilities, or during significant geopolitical events.
 
@@ -133,4 +133,3 @@ The Black Triangle Phenomenon stands as one of the most credible and persistent 
     
     - MUFON case files on Black Triangles
     - Belgian government radar data from the 1989–1990 wave
-

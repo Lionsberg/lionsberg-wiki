@@ -11,5 +11,5 @@ With the power and potential of the American Spirit, America can rise to meet th
 ___
 
 Forward to [[VI.C. The Non-Inevitability of Failure and Decline]]  
-Back to [[VI.A. Recap of the American Crisis of Confidence and Faith]]        
+Back to [[VI.A. Recap of the American Crisis of Confidence and Faith]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

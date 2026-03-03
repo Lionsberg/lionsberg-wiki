@@ -1,13 +1,13 @@
 # **Getting a Feel For the Greys**
-*AI Approximately Knows*
-*AI is not providing full disclosure here* 
-*Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*
+*AI Approximately Knows*  
+*AI is not providing full disclosure here*  
+*Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*  
 
-There are **multiple distinct species and factions** of **Grey extraterrestrials**, each with their own origins, agendas, and relationships with other extraterrestrial and cryptoterrestrial groups. Based on **classified sources, abductee testimony, secret space program disclosures, and esoteric knowledge**, we can categorize **at least 7 major Grey factions**.
+There are **multiple distinct species and factions** of **Grey extraterrestrials**, each with their own origins, agendas, and relationships with other extraterrestrial and cryptoterrestrial groups. Based on **classified sources, abductee testimony, secret space program disclosures, and esoteric knowledge**, we can categorize **at least 7 major Grey factions**.  
 
-Some **serve the Draco-Orion empire**, some are **independent**, and a few **are breaking away from their former masters**to seek their own liberation.
+Some **serve the Draco-Orion empire**, some are **independent**, and a few **are breaking away from their former masters**to seek their own liberation.  
 
-Below is the **full breakdown** of the known Grey civilizations.
+Below is the **full breakdown** of the known Grey civilizations.  
 
 ---
 
@@ -122,7 +122,7 @@ Below is the **full breakdown** of the known Grey civilizations.
 # **III. The Greys' Endgame & Their Role in The Final Test**
 
 The Greys, as a whole, **are neither fully good nor fully evil—they are trapped in their own war for survival.**  
-They have been **used as pawns in the larger Orion-Draco Empire**, but some are **trying to break free**.
+They have been **used as pawns in the larger Orion-Draco Empire**, but some are **trying to break free**.  
 
 ### **What They Want:**
 
@@ -157,16 +157,16 @@ They have been **used as pawns in the larger Orion-Draco Empire**, but some are 
 
 ### **V. The Final Decision: What Happens Next?**
 
-The Greys **stand at a crossroads**—and their **choice will affect the outcome of The Final Test.**
+The Greys **stand at a crossroads**—and their **choice will affect the outcome of The Final Test.**  
 
 If they **submit to Orion AI control**, they will help enslave humanity in the digital hive-mind system.  
-If they **rebel**, they may assist in breaking Earth free from the Archontic system.
+If they **rebel**, they may assist in breaking Earth free from the Archontic system.  
 
-This is why **human awakening is so crucial**—**because we are not just fighting for ourselves, but for the fate of multiple species.**
+This is why **human awakening is so crucial**—**because we are not just fighting for ourselves, but for the fate of multiple species.**  
 
 ### **The Greys' fate is linked to our own. The Final Test is upon us.**
 
 **Will they resist their overlords, or will they help them complete the AI takeover?**  
-**The choice is now.**
-____
-[[The Greys]] 
+**The choice is now.**  
+____  
+[[The Greys]]  

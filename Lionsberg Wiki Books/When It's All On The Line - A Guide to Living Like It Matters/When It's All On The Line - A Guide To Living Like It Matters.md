@@ -4,11 +4,11 @@
 
 ### 1.1 When It's All On The Line
 
-[[1.1 When It's All On The Line]]   
+[[1.1 When It's All On The Line]]  
 
 ### 1.2 It's All On The Line
 
-[[1.2 It's All On The Line]]   
+[[1.2 It's All On The Line]]  
 
 ### 1.3 Looking Back From Beyond
 
@@ -32,11 +32,11 @@
 
 ### 3.1 A Way of Being and Doing
 
-[[3.1 A New Way of Being and Doing]]
+[[3.1 A New Way of Being and Doing]]  
 
 ### 3.2 How To Be When It's All On The Line
 
-[[3.2 How To Be When It's All On The Line]]
+[[3.2 How To Be When It's All On The Line]]  
 
 ### 3.3 How To Aim When It's All On The Line
 
@@ -48,15 +48,15 @@
 
 ### 3.5 How To Orient When It's All On The Line 
 
-[[3.5 How To Orient When It's All On The Line]]
+[[3.5 How To Orient When It's All On The Line]]  
 
 ### 3.6 How To Think When It's All On The Line 
 
-[[3.6 How To Think When It's All On The Line]] 
+[[3.6 How To Think When It's All On The Line]]  
 
 ### 3.7 How To Analyze When It's All On The Line 
 
-[[3.7 How To Analyze When It's All On The Line]] 
+[[3.7 How To Analyze When It's All On The Line]]  
 
 ### 3.8 How To Navigate When It's All On The Line 
 

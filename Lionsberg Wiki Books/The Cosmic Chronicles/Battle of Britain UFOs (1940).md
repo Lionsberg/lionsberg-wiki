@@ -110,4 +110,3 @@ Decades later, researchers revisited these reports as part of broader UFO invest
 - **Documentaries:**
     
     - _UFOs in Wartime_ – Explores UFO sightings during significant historical conflicts, including the Battle of Britain.
-

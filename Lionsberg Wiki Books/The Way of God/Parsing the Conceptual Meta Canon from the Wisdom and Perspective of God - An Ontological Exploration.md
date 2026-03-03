@@ -19,4 +19,3 @@ Forward to [[Dealing with Inconsistencies, Human Error, and Contradictions in th
 Back to [[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

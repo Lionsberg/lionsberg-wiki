@@ -12,6 +12,6 @@ These founding principles of liberty, justice, and equality are not just abstrac
 
 ___
 
-Forward to [[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]      
-Back to [[II.A. The Uniting Spirit - One Nation Under God]]    
+Forward to [[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]  
+Back to [[II.A. The Uniting Spirit - One Nation Under God]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

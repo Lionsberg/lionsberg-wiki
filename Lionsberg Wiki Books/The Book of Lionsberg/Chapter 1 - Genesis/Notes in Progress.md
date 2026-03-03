@@ -10,15 +10,15 @@ Demonstrate the existential terror and fear of hell.
 Demonstrate the abuse - the childhood... the play... what happened to you child? 
 
 
-______
-Outside teh boundary, seeing babies for teh first time... seeing how things grow... 
+______  
+Outside teh boundary, seeing babies for teh first time... seeing how things grow...  
 struggle against nature and reality / society... 
 
 The struggle to forge teams. 
 
-Wandering in the desert... 
-_______
-Back and Forth between story and teaching / periodically picking the story back up. 
+Wandering in the desert...  
+_______  
+Back and Forth between story and teaching / periodically picking the story back up.  
 ____
 
 

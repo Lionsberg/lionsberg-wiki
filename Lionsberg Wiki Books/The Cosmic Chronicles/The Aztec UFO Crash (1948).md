@@ -93,4 +93,3 @@ Reports from later sources claimed that the Aztec craft provided valuable insigh
     
     - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
     - Redfern, Nick. _The FBI Files._
-

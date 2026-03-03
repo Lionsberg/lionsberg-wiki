@@ -37,4 +37,3 @@ There is a very short window of time **NOW** to get organized and move. Together
 There is a lot remaining to be done, but it is going to require a **New Vision, System and Plan** with *at least* the level of thought, planning, systems work, and coordinated action outlined in [[Beyond The Meta Crisis - A Blueprint for a Better Future]]. 
 
 If we succeed, we can beat our weapons into tools of life, and ensure a standard of of living, purpose, meaning, and conscious agency for every being that is better than any enjoyed in the Old World. 
-

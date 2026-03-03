@@ -23,18 +23,18 @@ Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 
 ### Document 1: README — "The Gates of LIONSBERG"
 
-**Purpose**: SPARK + ORIENT. Meet the guide. Understand the stakes. Follow.
-**Voice**: The nameless one (NOT Jordan) — guide, servant, first responder.
-**Contains**:
+**Purpose**: SPARK + ORIENT. Meet the guide. Understand the stakes. Follow.  
+**Voice**: The nameless one (NOT Jordan) — guide, servant, first responder.  
+**Contains**:  
 - Guide introduces self (light touch — identity earned in Core Document)
 - "Something is profoundly wrong" (crisis — ONE instance across entire chain)
 - "Something ancient is stirring" (hope)
 - What LIONSBERG is (Golden Seed, living world, Story+Pattern+Game)
 - The stakes (First Three Percent, 250M, within one week)
 - **The Three Filters** for The First Three Percent:
-  1. **Coherence** — You were invited by someone already engaged, on the basis of resonance
-  2. **Commitment** — Are you in? Minimum: the first tenth of your time, participating in circles (the one that received you AND the one you form), engaged in quests
-  3. **Urgency** — Will you accept and invite others within one week? Not from pressure but from wise recognition of what this moment demands
+  1. **Coherence** — You were invited by someone already engaged, on the basis of resonance  
+  2. **Commitment** — Are you in? Minimum: the first tenth of your time, participating in circles (the one that received you AND the one you form), engaged in quests  
+  3. **Urgency** — Will you accept and invite others within one week? Not from pressure but from wise recognition of what this moment demands  
 - "Follow me" → links to Core Document
 - Closing benediction + language note
 
@@ -42,10 +42,10 @@ Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 
 ### Document 2: Core Document — "Welcome to LIONSBERG"
 
-**Purpose**: KINDLE + COMMIT. THE one document between the gates and action.
-**Voice**: Guide throughout, progressive deepening.
-**REPLACES**: the nameless book (eliminated) + LIONSBERG 101 entry page (absorbed)
-**Structure**:
+**Purpose**: KINDLE + COMMIT. THE one document between the gates and action.  
+**Voice**: Guide throughout, progressive deepening.  
+**REPLACES**: the nameless book (eliminated) + LIONSBERG 101 entry page (absorbed)  
+**Structure**:  
 1. **Opening** — Guide continues. "You've stepped through the gates. Welcome to LIONSBERG."
 2. **The Ground** — ONE, Spirit. (Ring 0 compressed)
 3. **The Pattern** — 12 elements + 8 movements as evidence. (Ring 1-3 compressed into ONE definitive listing)
@@ -62,8 +62,8 @@ Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 
 ### Document 3: The LIONSBERG Quick Start Guide
 
-**Purpose**: ACT. Operational guide for first 90-minute circle gathering.
-**Updates needed**:
+**Purpose**: ACT. Operational guide for first 90-minute circle gathering.  
+**Updates needed**:  
 - Replace all references to "the nameless book" with Core Document
 - Add facilitation guidance for the death/rebirth section in The Story (this is the most emotionally intense moment in the first gathering and is currently unaddressed)
 - Fix the contact method — replace "see the nameless book" with actual contact instructions
@@ -77,19 +77,19 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 
 ### Read Aloud in First Gathering (Critical — Circles Read These Together)
 
-**Prologue to The Story and The Great Game**
+**Prologue to The Story and The Great Game**  
 - Audit score: Resonance 92, Coherence 94, Readiness 90
 - Fix: Line 107 typo — "an invitation consciously co-create" → "an invitation TO consciously co-create"
 - Otherwise: PEAK. Leave it.
 
-**The Story of LIONSBERG**
+**The Story of LIONSBERG**  
 - Audit score: Resonance 82, Coherence 85, Readiness 80
 - Issues:
   - The death/rebirth section (lines 441-499) is the thunderbolt moment. Circles will read this aloud with NO preparation. The Quick Start Guide needs facilitation notes for this.
   - References `[[THE NAMELESS BOOK]]` (uppercase) — needs updating.
   - Otherwise: Strong. The cosmic arc is magnificent. Don't over-edit.
 
-**The Great Game of LIONSBERG**
+**The Great Game of LIONSBERG**  
 - Audit score: Resonance 86, Coherence 88, Readiness 84
 - Issues:
   - Guidance note references `[[the nameless book]]` → update to Core Document
@@ -98,20 +98,20 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 
 ### Shared for Flame-Passing (The First 12 Will Send This)
 
-**The Invitation**
+**The Invitation**  
 - Audit score: Resonance 90, Coherence 92, Readiness 88
 - Issues:
   - References `[[the nameless book]]` → update to Core Document
   - Otherwise: STRONG. One of the best documents in the chain. Minimal changes.
 
-**Pass The Flame**
+**Pass The Flame**  
 - Audit score: Resonance 88, Coherence 90, Readiness 90
 - Issues: Check forward links align with new architecture
 - Otherwise: STRONG. Operational and clear.
 
 ### Used Weekly (The Playbook)
 
-**The LIONSBERG Playbook (entry page)**
+**The LIONSBERG Playbook (entry page)**  
 - Audit score: Resonance 72, Coherence 78, Readiness **65** ← WEAKEST
 - Issues:
   - Mythic prose poem wrapper before operational content. The first 12 need PLAYS, not poetry about plays.
@@ -119,7 +119,7 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
   - Either make this page operational itself, or get out of the way faster to The Architecture of The Playbook
   - **This needs a significant rework** — it's the biggest friction point in the ongoing chain.
 
-**The Architecture of The Playbook**
+**The Architecture of The Playbook**  
 - Audit score: Resonance 80, Coherence 75, Readiness 82
 - Issues:
   - References `[[the nameless book]]` twice → update
@@ -129,7 +129,7 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 
 ### Systematic Deep Dive (LIONSBERG 101)
 
-**LIONSBERG 101 entry page**
+**LIONSBERG 101 entry page**  
 - Absorbed into Core Document. The entry page either becomes a redirect/pointer or is reworked to say "If you've read Welcome to LIONSBERG, these Rings offer systematic deepening."
 
 **The Emergence of the Core Pattern** — Strong (Resonance 82, Coherence 92). Minimal changes. No nameless book refs.
@@ -146,14 +146,14 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 
 **Ring 5 - The Game** — Strong action document (Resonance 88, Readiness 88). "~9-day cycle" language needs harmonizing with "one week" language elsewhere.
 
-**The 10 Year Grand Strategy**
+**The 10 Year Grand Strategy**  
 - **CRITICAL TIMELINE ISSUE**: March 2026 target of 144 people is DAYS away and clearly will not be met as written. December 2026 target of 268 million is extraordinary. If the first 12 read this and do calendar math, they lose trust.
 - Options: (a) Update with honest current starting point, (b) Reframe as aspirational targets with the 20-year contingency prominently featured, (c) Acknowledge the delay explicitly and recalibrate
 - **This must be addressed before inviting 12 people.**
 
 ### Advanced Path
 
-**The Sacred Ascent**
+**The Sacred Ascent**  
 - Audit score: Resonance 84, Coherence 86, Readiness 70
 - Visionary document. Galactic/cosmic sections may stretch for newcomers but that's fine for depth.
 - No urgent changes needed for first 12.
@@ -172,7 +172,7 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 ### 2. Reference Updates (21+ files)
 Every file containing `[[the nameless book]]` must be updated to point to the Core Document. Full list:
 
-**Main chain** (6 files):
+**Main chain** (6 files):  
 1. README.md
 2. The LIONSBERG Quick Start Guide.md
 3. The Invitation.md
@@ -180,19 +180,19 @@ Every file containing `[[the nameless book]]` must be updated to point to the Co
 5. The Great Game of LIONSBERG.md
 6. The LIONSBERG Playbook.md
 
-**Depth library** (5 files):
+**Depth library** (5 files):  
 7. LIONSBERG 101.md
 8. The Architecture of The Playbook.md
 9. Ring 4 - The Library.md
 10. LIONSBERG - History, Inception, and Trust Manifesto.md
 11. Help! I Am Lost.md
 
-**The nameless emergence docs** (3 files):
+**The nameless emergence docs** (3 files):  
 12. the nameless emergence.md
 13. the nameless strategy and plan.md
 14. the nameless one.md
 
-**Blog posts and working docs** (5+ files):
+**Blog posts and working docs** (5+ files):  
 15. Something Powerful, New, and Good.md
 16. 2026 Q1 Update to the LIONSBERG Strategy and Plan.md
 17. Welcome to LIONSBERG, We Are Glad You Are Here.md
@@ -202,7 +202,7 @@ Every file containing `[[the nameless book]]` must be updated to point to the Co
 21. TKTK Program Notes.md
 
 ### 3. The Nameless Book Disposition
-The file `/the nameless emergence/the nameless book.md` must be handled. Options:
+The file `/the nameless emergence/the nameless book.md` must be handled. Options:  
 - **Replace content with redirect**: "This document has been absorbed into [[Welcome to LIONSBERG]]. Please begin there."
 - **Delete entirely**: Clean but breaks any external links
 - **Redirect via content**: Preserve the file but point all content to the Core Document
@@ -210,7 +210,7 @@ The file `/the nameless emergence/the nameless book.md` must be handled. Options
 **Recommendation**: Replace content with a brief redirect note + link to Core Document.
 
 ### 4. Contact Infrastructure
-The first 12 need a real way to:
+The first 12 need a real way to:  
 - Say "I'm in"
 - Report that they've formed a circle
 - Connect with other circles

@@ -1,17 +1,17 @@
 # OmniSpection (2025 Season 4)
 *A Post in [[Something Powerful, New, and Good]]*  
 *Adapted From [[MindWeaving]] notes*  
-Old Time: September 25, 2025 
-New Time: TBD
+Old Time: September 25, 2025  
+New Time: TBD  
 
 >***Collaborating to transform Our Lives and Our Worlds***
 >If you are awakening in [[The Caves]] and seeking a Way out, _**The Great Game of LIONSBERG beckons.**_
 
-_This was a first attempt at OmniSpection in community. Notes were mapped on paper, transferred into sentences here, and then placed into more coherent order. It is heavy on ontology and understanding experience, space, and time as such. The broader framing was necessary to align the first Circle in the deepest things, which will not change season to season. Subsequent OmniSpections for this circle can be more focused on the present forward._
+_This was a first attempt at OmniSpection in community. Notes were mapped on paper, transferred into sentences here, and then placed into more coherent order. It is heavy on ontology and understanding experience, space, and time as such. The broader framing was necessary to align the first Circle in the deepest things, which will not change season to season. Subsequent OmniSpections for this circle can be more focused on the present forward._  
 
-At present, humanity appears to entirely lack a coherent process for continually sensemaking in Community. This reduces the probability of successful navigation through the present crisis and towards [[The Goal]] to near zero. 
+At present, humanity appears to entirely lack a coherent process for continually sensemaking in Community. This reduces the probability of successful navigation through the present crisis and towards [[The Goal]] to near zero.  
 
-LIONSBERG was created to remedy this by creating a shared process, pattern, and Way for individuals, groups, communities, planets, and galaxies to collaborate to transform their lives and their worlds towards Heavenly Perfection. 
+LIONSBERG was created to remedy this by creating a shared process, pattern, and Way for individuals, groups, communities, planets, and galaxies to collaborate to transform their lives and their worlds towards Heavenly Perfection.  
 
 [[The Great Game of LIONSBERG]] calls for all Co-Creators to continually engage in periodic [[MindWeaving]] and [[Seasonal OmniSpection]]. It has been said that the minimum requirement of any continuously improving system is periodic [[Retrospection]]. Where as Retrospection looks back, [[OmniSpection]] looks both inward and outward in all directions. Periodic OmniSpection enables Us to consciously update the [[Map of Reality]] We are using to Navigate FROM [[Where We Are]] to [[Where We Are Going]]. Recognizing the inherent Finitude of each individual, accurate OmniSpection can only done [[In Community]], and therefore requires [[MindWeaving]]. Continually [[Navigating Towards Truth]] in this Way dramatically increases the probability that We are on the right Path and taking the [[Wise Right Next Steps]] towards [[The Goal]].  
 
@@ -20,7 +20,7 @@ _For reasons discussed below, this process actively reshapes Our Perception of R
 ## Part I - A Basic Attempt At OmniSpection 
 _The ~200 numbered ideas below are intended to create a broad shared starting approximation for participants in [[The Great Game of LIONSBERG]] of Who We Are, Where We Are, Where We Are Going, and Why. It is a provisional [[Map of Reality]], designed to be continuously updated and improved [[In Community]] through the processes of [[MindWeaving]], [[OmniSpection]], and [[Navigating Towards Truth]]._  
 
-_It is approximately True [[As Best We Can Currently Discern]], and We also are humbly aware that [[We Do Not Know]]. Each and every Co-Creator will have their own perspective of Reality and important insights to weave into a shared map that gets more and more accurate of Time as We Navigate Towards Truth In Community. The process of [[Map Weaving]] coupled with the processes outlined below is intended to make this collective [[SenseMaking]] more possible._
+_It is approximately True [[As Best We Can Currently Discern]], and We also are humbly aware that [[We Do Not Know]]. Each and every Co-Creator will have their own perspective of Reality and important insights to weave into a shared map that gets more and more accurate of Time as We Navigate Towards Truth In Community. The process of [[Map Weaving]] coupled with the processes outlined below is intended to make this collective [[SenseMaking]] more possible._  
 
 ### _A Context of Crisis_
 
@@ -554,27 +554,27 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 **Where We Are**: EveryWhen and EveryWhere. Experiencing Here and Now Individually and Locally.  
 **Where We Are Going**: Towards Heaven EveryWhen and EveryWhere. And Here and Now.  
 **How We Get There**: By Becoming It (Being) and Co-Creating It (Doing) across every InterExistent Holofractal Domain of [[Experiential Reality]]   
-**How We Navigate**: We [[Continuously Improve]] Our [[Map of Reality]] and walk in the [[Way]] towards [[The Goal]] by taking the [[Wise Right Next Steps]] each moment of the Eternal Now EveryWhen and EveryWhere 
+**How We Navigate**: We [[Continuously Improve]] Our [[Map of Reality]] and walk in the [[Way]] towards [[The Goal]] by taking the [[Wise Right Next Steps]] each moment of the Eternal Now EveryWhen and EveryWhere  
 **What are the Milestones?** The shift of consciousness and embodiment of a New Way of Being among a growing percentage of the Conscious Agents in Each Domain  
-**What is the First Milestone in Any Domain?** For The First Few to Form a Circle and Begin [[The Common Journey]] Together
+**What is the First Milestone in Any Domain?** For The First Few to Form a Circle and Begin [[The Common Journey]] Together  
 **What is the Second Milestone in Any Domain?** For The First Few to engage [[The First Three Percent]]. From there, the [[Tipping Point Strategy]] unfolds.   
 **What are the [[Wise Right Next Steps]]?**  That depends on Who You Are and Where You Are on the [[Map of Reality]], and the Roles you are Playing in [[The Great Game]].    
 
 ## Part III - Next Steps For 2025 Season 4 Quest  
 
-From Our Perspective, [[J's Death]], coupled with humanity's unwillingness and / or inability to [[Localize, Adapt, and Instantiate]] the [[Meta Project]] to Earth on Time—which would have saved hundreds of millions of lives—means that the [[Path]] now runs through [[Massive Decentralization]]—and perhaps massive suffering.
+From Our Perspective, [[J's Death]], coupled with humanity's unwillingness and / or inability to [[Localize, Adapt, and Instantiate]] the [[Meta Project]] to Earth on Time—which would have saved hundreds of millions of lives—means that the [[Path]] now runs through [[Massive Decentralization]]—and perhaps massive suffering.  
 
 As [[The Great UnVeiling]] progresses and the lead cars of [[The Train of Civilization]] tumble into [[The Chasm]], humanity will slowly awaken to the Reality of its enslavement and [[The Greatest Fraud, Deception, and Existential Threat in History]].  
 
-It will then face [[The Decision Point]] and [[The Sprint Through The Minefield]], possibly as soon as ~2026-2027. This is part of [[The Final Test]]. 
+It will then face [[The Decision Point]] and [[The Sprint Through The Minefield]], possibly as soon as ~2026-2027. This is part of [[The Final Test]].  
 
-Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Golden Seed of LIONSBERG]] will germinate in each Domain at the Wise Right Time. 
+Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Golden Seed of LIONSBERG]] will germinate in each Domain at the Wise Right Time.  
 
-This season will likely include the creation of the basic Templates, and possibly the introduction of a simple field guide to **The Great Game**. 
+This season will likely include the creation of the basic Templates, and possibly the introduction of a simple field guide to **The Great Game**.  
 
 ## A Way to Get Connected, Ask Questions, and Receive Guidance
 
-We may also set up a simple mechanism to enable people those interested in forming their own Circles to get connected, become visible to one another, ask questions, and receive guidance 
+We may also set up a simple mechanism to enable people those interested in forming their own Circles to get connected, become visible to one another, ask questions, and receive guidance  
 
 ## The Inability to Reason with Brainwashed Fear 
 
@@ -582,15 +582,15 @@ We are realizing that We cannot Reason with either Brainwashing or Fear
 
 Even in the best of times with the most enlightened and open minded collaborators, the co-creation of a New Civilization is an incredible Spiritual, Intellectual, and Emotional lift.  
 
-The multi-generational enslavement and incarceration of the planet is obvious. To everyone except for those still imprisoned and enslaved in [[The Caves]]. 
+The multi-generational enslavement and incarceration of the planet is obvious. To everyone except for those still imprisoned and enslaved in [[The Caves]].  
 
-Therefore as individuals Awaken... 
-And We hear the rustling of The Chains... 
+Therefore as individuals Awaken...  
+And We hear the rustling of The Chains...  
 And discover those Seeking of a Path towards Liberation...  
 We will simply invite those who are ready to Self-Organize into The Game.  
 
 [[The Story of LIONSBERG]] tells how it happens.  
-[[The Great Game of LIONSBERG]] is how it is done. 
-[[The 144 Gates of Initiation]] constitute The Great ReFounding Journey. 
+[[The Great Game of LIONSBERG]] is how it is done.  
+[[The 144 Gates of Initiation]] constitute The Great ReFounding Journey.  
 
-[[Something Powerful, New, and Good]] is emerging. 
+[[Something Powerful, New, and Good]] is emerging.  

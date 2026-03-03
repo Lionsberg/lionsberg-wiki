@@ -6,7 +6,7 @@ _Heaven On Earth is not a destination. It is a process — a conscious, coordina
 
 ## The Window
 
-**2024-2030**: The 7-Year Window of Crisis and Opportunity.
+**2024-2030**: The 7-Year Window of Crisis and Opportunity.  
 **We are in Year 2.** Approximately 4 years remain before this window may close.
 
 The elders have spoken clearly: _"If we fail to capture the opportunity in this window of time, it is not obvious that it will remain open in future decades or generations."_
@@ -156,7 +156,7 @@ If the 10-year strategy encounters obstacles that slow progress beyond projectio
 
 But the 10-year timeline is not arbitrary. The convergence of crises — ecological, economic, social, spiritual, geopolitical — creates a window within which coordinated action is both most needed and most possible.
 
-**Act as if we have 10 years.** Because we might.
+**Act as if we have 10 years.** Because we might.  
 **Build as if we have centuries.** Because we do.
 
 ---
@@ -189,5 +189,5 @@ It has already begun.
 
 ---
 
-Back to [[Ring 5 - The Game]]
+Back to [[Ring 5 - The Game]]  
 Table of Contents [[LIONSBERG 101]]

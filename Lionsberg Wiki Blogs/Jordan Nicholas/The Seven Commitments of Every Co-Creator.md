@@ -49,4 +49,3 @@ _These commitments are not burdens but sacred invitations to rise together. Lion
 The Seven Commitments unite individuals, teams, and communities into a harmonious whole. They serve as a foundation for collaboration, reciprocity, and shared purpose, ensuring that every effort contributes to [[The Goal]] while empowering each member to thrive.
 
 By embracing these commitments, you join a [[Force For Good]] far greater than the sum of its parts. Together, We Rise.
-

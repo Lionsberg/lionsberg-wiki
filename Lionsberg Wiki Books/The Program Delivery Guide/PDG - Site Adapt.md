@@ -46,10 +46,10 @@ Three strategies:
 - **Safety in Design**: Effective safety management at the design stage. Methods include increased prefabrication, less hazardous materials, construction engineering in design documents, and spatial investigation.
 - **Safety in Planning**: Incorporating safety into logistics, sequencing, scheduling, and material delivery. Pre-Task Plans, safety as last topic in daily pull plan, and visual safety indicators for handoffs.
 - **Safety in Action**: Five components:
-  1. Leadership Commitment: safety as core value
-  2. Management Involvement: personally involved in critical safety activities
-  3. Worker Empowerment: ability to stop production
-  4. Good Catches: proactively learn and adapt before accidents
+  1. Leadership Commitment: safety as core value  
+  2. Management Involvement: personally involved in critical safety activities  
+  3. Worker Empowerment: ability to stop production  
+  4. Good Catches: proactively learn and adapt before accidents  
   5. Incident Investigations: within 24 hours
 
 Process in Action: The alert system requires notification and initial report within 24 hours. See problems where they occur. Swarm and solve immediately. Share with management and jobsite. Identify, implement and share solutions. Coach others. Use technology to document and broadcast.
@@ -93,6 +93,6 @@ Prototype control is involved as design moves into the site adapt phase and cont
 
 ___
 
-_Previous: [[PDG - Lessons Learned]]_
-_Next: [[PDG - Construction at the Site Level]]_
+_Previous: [[PDG - Lessons Learned]]_  
+_Next: [[PDG - Construction at the Site Level]]_  
 _Return to [[The Program Delivery Guide]]_

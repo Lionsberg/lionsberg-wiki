@@ -1,5 +1,5 @@
 # **🕊️** **The 144 Gates of Initiation**
-_The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_
+_The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_  
 
 ## **Program Note** 
 
@@ -7,30 +7,30 @@ The idea of tying this to a three year cycle will move far too slow.
 We will unbound from Time to enable each individual and circle to move through at its own rhythm.  
 Provide instructions to the individual  
 Instructions to the circle  
-Facilitators handbook 
+Facilitators handbook  
 
 ## **I. The Nature and Function of the Gates**
 
-The **144 Gates of Initiation** are not lessons to be learned nor doctrines to be believed.
-They are **living thresholds** through which a soul, a people, or an entire civilization must pass
-to emerge from the Old Order of bondage into the freedom of the New.
+The **144 Gates of Initiation** are not lessons to be learned nor doctrines to be believed.  
+They are **living thresholds** through which a soul, a people, or an entire civilization must pass  
+to emerge from the Old Order of bondage into the freedom of the New.  
 
-Each Gate is both **inner and outer**, **metaphysical and practical**.
-To step through one is to change what is possible.
-To walk them all is to be reborn—and to co-create the New World.
+Each Gate is both **inner and outer**, **metaphysical and practical**.  
+To step through one is to change what is possible.  
+To walk them all is to be reborn—and to co-create the New World.  
 
-The Gates together form a **Bridge of Becoming** —
-a sacred architecture by which any world can pass from fragmentation and kontrolle
-toward coherence, freedom, and alignment with ONE and One Another.
-They are the **Way of Exodus and Re-Foundation**,
-the living protocol by which the false systems of domination yield
-to the order of Truth, Justice, and Love.
+The Gates together form a **Bridge of Becoming** —  
+a sacred architecture by which any world can pass from fragmentation and kontrolle  
+toward coherence, freedom, and alignment with ONE and One Another.  
+They are the **Way of Exodus and Re-Foundation**,  
+the living protocol by which the false systems of domination yield  
+to the order of Truth, Justice, and Love.  
 
 ---
 
 ## **II. The Essence of the Passage**
 
-To enter the Gates is to agree to be transformed.
+To enter the Gates is to agree to be transformed.  
 
 - **The Old Self and World dissolves; the New emerges.**
     
@@ -41,23 +41,23 @@ To enter the Gates is to agree to be transformed.
 - **Each Gate re-orders our relationships — with Self, with One Another, with Creation, and with Source.**
     
 
-The process is experiential, embodied, and participatory.
+The process is experiential, embodied, and participatory.  
 No one can walk it for another.  
 No one can walk it alone.  
-Yet all who walk it together are drawn into One Rhythm, 
-a shared momentum of liberation and re-creation.
+Yet all who walk it together are drawn into One Rhythm,  
+a shared momentum of liberation and re-creation.  
 
 ---
 
 ## **III. The Great ReFounding Cycle — 144 Gates**
 
-The 144 Gates unfold through **twelve Movements**,
-a planetary rite of passage spanning roughly **three years**—
-undertaken by each individual and community when they are ready—
-one generation’s coordinated Exodus and Re-Creation.
+The 144 Gates unfold through **twelve Movements**,  
+a planetary rite of passage spanning roughly **three years**—  
+undertaken by each individual and community when they are ready—  
+one generation’s coordinated Exodus and Re-Creation.  
 
-When the last Gate is crossed, the people of Earth stand in Jubilee —
-free, aligned, and capable of living eternally in the Way of Heaven on Earth.
+When the last Gate is crossed, the people of Earth stand in Jubilee —  
+free, aligned, and capable of living eternally in the Way of Heaven on Earth.  
 
 ### **The Twelve Movements**
 
@@ -87,7 +87,7 @@ free, aligned, and capable of living eternally in the Way of Heaven on Earth.
     
 
 Each Movement contains its own sequence of Gates  
-weaving Spirit, Matter, and Civilization into one coherent transformation.
+weaving Spirit, Matter, and Civilization into one coherent transformation.  
 
 ---
 
@@ -115,7 +115,7 @@ weaving Spirit, Matter, and Civilization into one coherent transformation.
 
 ## **V. The Outcome of the Journey**
 
-  When the 144th Gate is sealed: 
+  When the 144th Gate is sealed:  
 
 - The **people are free** — sovereign, healed, and reconciled.
     
@@ -128,11 +128,11 @@ weaving Spirit, Matter, and Civilization into one coherent transformation.
 - The **Sacred Ascent begins** — the civilization turns its face upward toward eternal transfiguration.
     
 
-Every Circle becomes a **cell of Heaven**,
-the planet a **living regenerative organism**,
-each soul a **citizen of the New Kingdom**—
+Every Circle becomes a **cell of Heaven**,  
+the planet a **living regenerative organism**,  
+each soul a **citizen of the New Kingdom**—  
 consciously co-creating in Eternity  
-as [[The Sacred Ascent]] spirals upwards towards Perfection.
+as [[The Sacred Ascent]] spirals upwards towards Perfection.  
 
 ---
 
@@ -147,7 +147,7 @@ as [[The Sacred Ascent]] spirals upwards towards Perfection.
 | **Focus**     | Liberating, healing and rebuilding civilization, regenerating the planet | Perfecting and elevating creation         |
 | **Result**    | The New Civilization established                                         | The Kingdom continually perfected         |
 
-Thus:
+Thus:  
 
 **When a world is lost or enslaved — the 144 Gates open.**  
 **When a world is found — the Sacred Ascent continues.**  
@@ -156,7 +156,7 @@ Thus:
 
 ## **VII. The Living Process**
 
-Every Gate follows the same living rhythm:
+Every Gate follows the same living rhythm:  
 
 - **Story** — a narrative vessel.   
     
@@ -177,22 +177,22 @@ Every Gate follows the same living rhythm:
 - **Seal** — a ritual closure and vow to continue.
       
 
-Through this rhythm, the invisible becomes visible,
-and the great work of regeneration becomes measurable, tangible, and shared.
+Through this rhythm, the invisible becomes visible,  
+and the great work of regeneration becomes measurable, tangible, and shared.  
 
 ---
 
 ## **VIII. The Universal Law of Exodus**
 
-The 144 Gates are the **cosmic protocol** by which any fallen world may be restored.
-They are the same Way walked by many civilizations that have gained their freedom and risen from the ashes of corruption and kontrolle.
+The 144 Gates are the **cosmic protocol** by which any fallen world may be restored.  
+They are the same Way walked by many civilizations that have gained their freedom and risen from the ashes of corruption and kontrolle.  
 
-Their essence can be spoken in seven words:
-**Awaken. UnVeil. Exit. Endure. Relearn. Co-Create. Consecrate.**
+Their essence can be spoken in seven words:  
+**Awaken. UnVeil. Exit. Endure. Relearn. Co-Create. Consecrate.**  
 
-When these movements are lived in love and truth,
-a New Civilization inevitably emerges —
-not imposed from above, but co-created from the Spirit within.
+When these movements are lived in love and truth,  
+a New Civilization inevitably emerges —  
+not imposed from above, but co-created from the Spirit within.  
 
 ---
 
@@ -205,27 +205,27 @@ And are ready to begin:
 > The Path is prepared.
 > The Fire waits within you.
 
-Form your Circle.
-Read **The Story of LIONSBERG**.
-Take the First Step.
-Walk the Gates in rhythm with Creation.
-Play the Great Game with Freedom and Joy.
-Embody and Co-Create the New World.
-And when All has been regenerated and made New —
-continue the Eternal Sacred Ascent.
+Form your Circle.  
+Read **The Story of LIONSBERG**.  
+Take the First Step.  
+Walk the Gates in rhythm with Creation.  
+Play the Great Game with Freedom and Joy.  
+Embody and Co-Create the New World.  
+And when All has been regenerated and made New —  
+continue the Eternal Sacred Ascent.  
 
 ---
 
-**“Behold, a Pattern spanning Heaven and Earth —**
-**a Living Architecture unfolding in Time.**
-**By this Way shall All things be made New.”**
+**“Behold, a Pattern spanning Heaven and Earth —**  
+**a Living Architecture unfolding in Time.**  
+**By this Way shall All things be made New.”**  
 
 ---
 
 # **🕊️ The 12 Movements of the Great ReFounding Journey**
-_The 144 Gates of Initiation — The Way Out of Bondage and Towards the New World_
+_The 144 Gates of Initiation — The Way Out of Bondage and Towards the New World_  
 
-**(UNREVIEWED [[Work In Progress]])**
+**(UNREVIEWED [[Work In Progress]])**  
 
 ---
 ### **[[Gate 0 — The Circle Is Forged (Pre-Initiation)]]**
@@ -247,16 +247,16 @@ _The 144 Gates of Initiation — The Way Out of Bondage and Towards the New Worl
 
   
 
-**Theme:** Spirit and Conscience rises; the courage and will to depart ignites.
-**Purpose:** Ignite collective will; withdraw consent and energy; coordinate the crossing.
-**Arc:** _Lament → Courage → Departure._
-**Energetic Current:** Fierce protection (masculine) cradled in belonging (feminine).
-**Story:** Torches are lit; the gates open; the first line is crossed; the waters begin to part.
-**Threshold Text:** _Leave what must be left. Take only what you can carry in love._
+**Theme:** Spirit and Conscience rises; the courage and will to depart ignites.  
+**Purpose:** Ignite collective will; withdraw consent and energy; coordinate the crossing.  
+**Arc:** _Lament → Courage → Departure._  
+**Energetic Current:** Fierce protection (masculine) cradled in belonging (feminine).  
+**Story:** Torches are lit; the gates open; the first line is crossed; the waters begin to part.  
+**Threshold Text:** _Leave what must be left. Take only what you can carry in love._  
 
-The awakening spread. Those liberated in Spirit and Mind cry out for Freedom and Justice For All. Conscience awakens. The protocols of Exodus are established. Leaders and Circles begin forming. The first communities of trust light torches and prepare to leave the bondage of the Old World behind. The gates fling wide with Truth and a decisive crossing occurs—psychological, spiritual, and practical. Property, identity, and security once defined by the Old World are left behind in the Sacred Fire at The Gates. The people step across The Threshold of Knowing and Beyond The Boundary into the Unknown together. The pioneers make Way for The First Three Percent, and the tipping point strategy begins. As the entire population begins to be pulled out of The Caves, the Evil Empire strikes back. Backlash and pursuit. Forgotten allies and Divine helpers emerge from Beyond. In The Wilderness, in the midst of The Tents, The Sacred Flame is kept through the night. 
-[[The Caves]] 
-**Gates (25–36):**
+The awakening spread. Those liberated in Spirit and Mind cry out for Freedom and Justice For All. Conscience awakens. The protocols of Exodus are established. Leaders and Circles begin forming. The first communities of trust light torches and prepare to leave the bondage of the Old World behind. The gates fling wide with Truth and a decisive crossing occurs—psychological, spiritual, and practical. Property, identity, and security once defined by the Old World are left behind in the Sacred Fire at The Gates. The people step across The Threshold of Knowing and Beyond The Boundary into the Unknown together. The pioneers make Way for The First Three Percent, and the tipping point strategy begins. As the entire population begins to be pulled out of The Caves, the Evil Empire strikes back. Backlash and pursuit. Forgotten allies and Divine helpers emerge from Beyond. In The Wilderness, in the midst of The Tents, The Sacred Flame is kept through the night.  
+[[The Caves]]  
+**Gates (25–36):**  
 
 25. [[Gate 25 — The Unstoppable Urge Towards Freedom]]
 
@@ -287,18 +287,18 @@ The awakening spread. Those liberated in Spirit and Mind cry out for Freedom and
 
 ## **Movement IV — Passage Through the Wilderness (Gates 31–42)**
 
-**Theme:** Purification and courage in adversity.
-**Purpose:** Forge character; heal trauma; found shared practices.
-**Arc:** _Trial → Discipline → Identity → Trust._
-**Story:** Scarcity tests resolve; a people receives its name.
+**Theme:** Purification and courage in adversity.  
+**Purpose:** Forge character; heal trauma; found shared practices.  
+**Arc:** _Trial → Discipline → Identity → Trust._  
+**Story:** Scarcity tests resolve; a people receives its name.  
 
-The community wanders and learns resilience. It is a time of purification and unlearning. Old patterns dissolve. Trauma is faced and transmuted. New practices of mutual care and governance arise. The seed of the New Civilization germinates. The people become the kinds of beings that can consciously Co-Create Heaven. 
+The community wanders and learns resilience. It is a time of purification and unlearning. Old patterns dissolve. Trauma is faced and transmuted. New practices of mutual care and governance arise. The seed of the New Civilization germinates. The people become the kinds of beings that can consciously Co-Create Heaven.  
 
-[[Gate 35 — Camp in the Wilderness]]
-[[Gate 21 — Reckoning & Guardrails]]
+[[Gate 35 — Camp in the Wilderness]]  
+[[Gate 21 — Reckoning & Guardrails]]  
 
 
-[[Gate 34 — Song of Liberation]]
+[[Gate 34 — Song of Liberation]]  
 
 31. **Scarcity Test**
     
@@ -329,12 +329,12 @@ The community wanders and learns resilience. It is a time of purification and un
 
 ## **Movement V — The Great ReLearning (Gates 43–57)**
 
-**Theme:** Remembering the Lost Arts and rediscovering the Way.
-**Purpose:** Rebuild knowledge, skill, wisdom, patterns, and protocols from first principles.
-**Arc:** _Forgetting → Curiosity → Understanding._
-**Story:** Spirit and Earth becomes teacher; craft becomes devotion.
+**Theme:** Remembering the Lost Arts and rediscovering the Way.  
+**Purpose:** Rebuild knowledge, skill, wisdom, patterns, and protocols from first principles.  
+**Arc:** _Forgetting → Curiosity → Understanding._  
+**Story:** Spirit and Earth becomes teacher; craft becomes devotion.  
 
-The crafts, sciences, and sacred arts are rediscovered. Education becomes initiation. The people learn how to grow food, build shelter, heal, and govern in harmony with natural law. The New Pattern Language is revealed. 
+The crafts, sciences, and sacred arts are rediscovered. Education becomes initiation. The people learn how to grow food, build shelter, heal, and govern in harmony with natural law. The New Pattern Language is revealed.  
 
 43. **Seeds of Knowledge**
     
@@ -370,12 +370,12 @@ The crafts, sciences, and sacred arts are rediscovered. Education becomes initia
 
 ## **Movement VI — The Great ReBuilding (Gates 58–82)**
 
-**Theme:** The invisible becomes visible; the Pattern Language is made flesh.
-**Purpose:** To manifest the twelve Pillars of LIONSBERG as regenerative, interoperable systems, patterns, protocols, and cultures.
-**Arc:** _Vision → Blueprint → Construction → Hardening → Santification._
-**Story:** The People turn their revelation into architecture. Each domain of life is re-founded in harmony with the Logos. The Pillars rise, and the New Earth becomes visible. 
+**Theme:** The invisible becomes visible; the Pattern Language is made flesh.  
+**Purpose:** To manifest the twelve Pillars of LIONSBERG as regenerative, interoperable systems, patterns, protocols, and cultures.  
+**Arc:** _Vision → Blueprint → Construction → Hardening → Santification._  
+**Story:** The People turn their revelation into architecture. Each domain of life is re-founded in harmony with the Logos. The Pillars rise, and the New Earth becomes visible.  
 
-The invisible becomes visible. New institutions, commons, and economies arise. Villages, guilds, and networks flourish. The prototype of Heaven-on-Earth takes tangible form.
+The invisible becomes visible. New institutions, commons, and economies arise. Villages, guilds, and networks flourish. The prototype of Heaven-on-Earth takes tangible form.  
 
 58. **Vision Council**  
     
@@ -432,12 +432,12 @@ The invisible becomes visible. New institutions, commons, and economies arise. V
 
 ## **Movement VII — Gathering of Tribes (Gates 83–93)**
 
-**Theme:** Unity-in-diversity federates into functional wholeness.
-**Purpose:** Weave the mosaic of stories, cultures, and communities into ONE body.
-**Arc:** _Separation → Federation → Communion  → Functional Unity._
-**Story:** Bridges form; federations hum.
+**Theme:** Unity-in-diversity federates into functional wholeness.  
+**Purpose:** Weave the mosaic of stories, cultures, and communities into ONE body.  
+**Arc:** _Separation → Federation → Communion  → Functional Unity._  
+**Story:** Bridges form; federations hum.  
 
-Tribes and circles converge in mutual recognition. Alliances form. Governance shifts from domination to coordination. The Federation of the Free begins to hum with coherence. Out of the many, ONE Body emerges. 
+Tribes and circles converge in mutual recognition. Alliances form. Governance shifts from domination to coordination. The Federation of the Free begins to hum with coherence. Out of the many, ONE Body emerges.  
 
 83. **Signals of Recognition**
     
@@ -466,12 +466,12 @@ Tribes and circles converge in mutual recognition. Alliances form. Governance sh
 
 ## **Movement VIII — Covenant of the Commons (Gates 94–106)**
 
-**Theme:** Justice and shared stewardship are codified.
-**Purpose:** Inscribe living law; circulate value with reciprocity; embody right relationship.
-**Arc:** _Fragmentation → Alignment → Order._
-**Story:** Law returns as covenant; power is accountable and good; value flows as love made visible.
+**Theme:** Justice and shared stewardship are codified.  
+**Purpose:** Inscribe living law; circulate value with reciprocity; embody right relationship.  
+**Arc:** _Fragmentation → Alignment → Order._  
+**Story:** Law returns as covenant; power is accountable and good; value flows as love made visible.  
 
-The people articulate the New Law: transparent, just, and regenerative. The LIONSBERG Codex begins to live within hearts and systems. LUV and the Commons circulate freely as expressions of love and value.
+The people articulate the New Law: transparent, just, and regenerative. The LIONSBERG Codex begins to live within hearts and systems. LUV and the Commons circulate freely as expressions of love and value.  
 
 94. **First Codex (Principles)**
     
@@ -504,12 +504,12 @@ The people articulate the New Law: transparent, just, and regenerative. The LION
 
 ## **Movement IX — Consecration of the Kingdom (Gates 107–115)**
 
-**Theme:** The Sacred Return to Source.
-**Purpose:** Dedicate the New Civilization to Divine Alignment and Eternal Service.
-**Arc:** _Completion → Gratitude → Sanctification._
-**Story:** Labor becomes liturgy; place becomes temple; time becomes holy.
+**Theme:** The Sacred Return to Source.  
+**Purpose:** Dedicate the New Civilization to Divine Alignment and Eternal Service.  
+**Arc:** _Completion → Gratitude → Sanctification._  
+**Story:** Labor becomes liturgy; place becomes temple; time becomes holy.  
 
-Temples of all forms—gardens, libraries, and sanctuaries—are consecrated. The people recognize that all creation is holy. Every act of labor becomes worship.
+Temples of all forms—gardens, libraries, and sanctuaries—are consecrated. The people recognize that all creation is holy. Every act of labor becomes worship.  
 
 107. **Temple of Creation (World as Sacred)**
     
@@ -530,14 +530,14 @@ Temples of all forms—gardens, libraries, and sanctuaries—are consecrated. Th
 115. **Consecration of the World**
 
 
-____
+____  
 
 ## **Movement X — The Sacred War (Gates 116–124)**
 
-**Theme:** Defense without hatred; victory through Light.
-**Purpose:** Withstand backlash; transmute conflict; secure the Good.
-**Arc:** _Fear → Discipline → Courage → Peace._
-**Story:** The parasite withers where light is steadfast; peace is won by truth; the holofractal cosmic war.
+**Theme:** Defense without hatred; victory through Light.  
+**Purpose:** Withstand backlash; transmute conflict; secure the Good.  
+**Arc:** _Fear → Discipline → Courage → Peace._  
+**Story:** The parasite withers where light is steadfast; peace is won by truth; the holofractal cosmic war.  
 
 116. **Warning of Backlash**
     
@@ -562,12 +562,12 @@ ____
 
 ## **Movement XI — The Great Convergence (Gates 125–134)**
 
-**Theme:** Heaven and Earth embrace in planetary coherence. 
-**Purpose:** Synchronize the liberated planetary ecosystem in calendars, systems, and song. 
-**Arc:** _Multiplicity → Resonance → Coherence._
-**Story:** The Body remembers itself; the planet sings one Divine Chorus.
+**Theme:** Heaven and Earth embrace in planetary coherence.  
+**Purpose:** Synchronize the liberated planetary ecosystem in calendars, systems, and song.  
+**Arc:** _Multiplicity → Resonance → Coherence._  
+**Story:** The Body remembers itself; the planet sings one Divine Chorus.  
 
-The New Civilization functions as one body. Knowledge, resources, and wisdom circulate without coercion. The whole planet breathes in rhythmic harmony. The Jubilee approaches.
+The New Civilization functions as one body. Knowledge, resources, and wisdom circulate without coercion. The whole planet breathes in rhythmic harmony. The Jubilee approaches.  
 
 125. **Resonance Map**
     
@@ -594,12 +594,12 @@ The New Civilization functions as one body. Knowledge, resources, and wisdom cir
 
 ## **Movement XII — The Great Jubilee & Eternal Divine Play (Gates 135–144)**
 
-**Theme:** Fulfillment becomes continuation.
-**Purpose:** Anchor perpetual freedom; open the gate to the Eternal Divine Play.
-**Arc:** _Liberation → Celebration → Continuation._
-**Story:** Debts dissolve; exiles return; the Circle is whole; the Mountain rises.
+**Theme:** Fulfillment becomes continuation.  
+**Purpose:** Anchor perpetual freedom; open the gate to the Eternal Divine Play.  
+**Arc:** _Liberation → Celebration → Continuation._  
+**Story:** Debts dissolve; exiles return; the Circle is whole; the Mountain rises.  
 
-Debt is forgiven. The land is healed. The people rest in joy and renew the Covenant. The Circle of Creation is complete. From this still point, the Sacred Ascent begins again.
+Debt is forgiven. The land is healed. The people rest in joy and renew the Covenant. The Circle of Creation is complete. From this still point, the Sacred Ascent begins again.  
 
 135. **Great Rest**
     
@@ -631,8 +631,8 @@ Debt is forgiven. The land is healed. The people rest in joy and renew the Coven
 
 ### **Coda**
 
-**When the Bridge is crossed, the Mountain rises.**
-**When the 144th Gate is sealed, the Sacred Ascent begins.**
+**When the Bridge is crossed, the Mountain rises.**  
+**When the 144th Gate is sealed, the Sacred Ascent begins.**  
 
 > _Thus Heaven and Earth are re-joined, and the Great Work continues forever._
 
@@ -649,9 +649,9 @@ Debt is forgiven. The land is healed. The people rest in joy and renew the Coven
 - **Guided by Covenant, moved by Grace.**
     
 
-**Outcome:** By Gate 144, a people stands in Jubilee—free, healed, cohered, self-governing, regenerative—ready for the **Sacred Ascent** to refine the True Kingdom forever.
+**Outcome:** By Gate 144, a people stands in Jubilee—free, healed, cohered, self-governing, regenerative—ready for the **Sacred Ascent** to refine the True Kingdom forever.  
 
-____
+____  
 
 # TKTK Integrate Into Above 
 
@@ -661,7 +661,7 @@ ____
 
 ---
 
-]]
+]]  
 
 ---
 
@@ -672,21 +672,21 @@ ____
 
   
 
-**Theme:** Purified by living.
+**Theme:** Purified by living.  
 
-**Purpose:** Forge character; heal trauma; establish shared practice.
+**Purpose:** Forge character; heal trauma; establish shared practice.  
 
-**Arc:** _Trial → Discipline → Identity → Trust._
+**Arc:** _Trial → Discipline → Identity → Trust._  
 
-**Story:** Scarcity tests resolve; the People receive a Name; trust becomes a rhythm.
+**Story:** Scarcity tests resolve; the People receive a Name; trust becomes a rhythm.  
 
-**Energetic Current:** Disciplined structure (masculine) inside restorative care (feminine).
+**Energetic Current:** Disciplined structure (masculine) inside restorative care (feminine).  
 
-**Threshold Text:** _You are not alone. Walk in rhythm, and the path appears._
+**Threshold Text:** _You are not alone. Walk in rhythm, and the path appears._  
 
   
 
-**Gates (37–48):**
+**Gates (37–48):**  
 
 37. [[Gate 37 — Scarcity Test]]
 
@@ -718,21 +718,21 @@ ____
 
   
 
-**Theme:** Knowledge becomes living.
+**Theme:** Knowledge becomes living.  
 
-**Purpose:** Recover lost arts; re-root science and craft in wisdom.
+**Purpose:** Recover lost arts; re-root science and craft in wisdom.  
 
-**Arc:** _Forgetting → Curiosity → Understanding._
+**Arc:** _Forgetting → Curiosity → Understanding._  
 
-**Story:** Earth and Spirit teach again; craft becomes devotion.
+**Story:** Earth and Spirit teach again; craft becomes devotion.  
 
-**Energetic Current:** Apprenticeship (masculine diligence) within wonder (feminine receptivity).
+**Energetic Current:** Apprenticeship (masculine diligence) within wonder (feminine receptivity).  
 
-**Threshold Text:** _Learn by doing; remember by giving._
+**Threshold Text:** _Learn by doing; remember by giving._  
 
   
 
-**Gates (49–60):**
+**Gates (49–60):**  
 
 49. [[Gate 49 — Seeds of Knowledge]]
 
@@ -764,21 +764,21 @@ ____
 
   
 
-**Theme:** The New becomes visible.
+**Theme:** The New becomes visible.  
 
-**Purpose:** Manifest regenerative systems; anchor interoperability; harden the commons.
+**Purpose:** Manifest regenerative systems; anchor interoperability; harden the commons.  
 
-**Arc:** _Vision → Blueprint → Construction → Hardening._
+**Arc:** _Vision → Blueprint → Construction → Hardening._  
 
-**Story:** Plans become places; value becomes visible; the commons arises.
+**Story:** Plans become places; value becomes visible; the commons arises.  
 
-**Energetic Current:** Builder’s resolve (masculine) held in home-making grace (feminine).
+**Energetic Current:** Builder’s resolve (masculine) held in home-making grace (feminine).  
 
-**Threshold Text:** _Lay each stone with praise; design for seven generations._
+**Threshold Text:** _Lay each stone with praise; design for seven generations._  
 
   
 
-**Gates (61–72) — Pillar Alignment:**
+**Gates (61–72) — Pillar Alignment:**  
 
 61. [[Gate 61 — Pillar I: Sacred Theology & Philosophy (Orientation of the Whole)]]
 
@@ -806,7 +806,7 @@ ____
 
   
 
-**Foundational Build-Out (73–84):**
+**Foundational Build-Out (73–84):**  
 
 73. [[Gate 73 — Vision Council]]
 
@@ -838,21 +838,21 @@ ____
 
   
 
-**Theme:** Unity-in-diversity federates.
+**Theme:** Unity-in-diversity federates.  
 
-**Purpose:** Weave cultures and communities into one functional body.
+**Purpose:** Weave cultures and communities into one functional body.  
 
-**Arc:** _Separation → Federation → Communion → Functional Unity._
+**Arc:** _Separation → Federation → Communion → Functional Unity._  
 
-**Story:** Signals are recognized; bridges are built; the federation hums.
+**Story:** Signals are recognized; bridges are built; the federation hums.  
 
-**Energetic Current:** Federating structure (masculine) within relational harmony (feminine).
+**Energetic Current:** Federating structure (masculine) within relational harmony (feminine).  
 
-**Threshold Text:** _Bring your gift; receive your neighbor._
+**Threshold Text:** _Bring your gift; receive your neighbor._  
 
   
 
-**Gates (85–96):**
+**Gates (85–96):**  
 
 85. [[Gate 85 — Signals of Recognition]]
 
@@ -884,21 +884,21 @@ ____
 
   
 
-**Theme:** Justice made living.
+**Theme:** Justice made living.  
 
-**Purpose:** Inscribe regenerative law; codify stewardship and reciprocity.
+**Purpose:** Inscribe regenerative law; codify stewardship and reciprocity.  
 
-**Arc:** _Fragmentation → Alignment → Order._
+**Arc:** _Fragmentation → Alignment → Order._  
 
-**Story:** Law returns as covenant; power is accountable; value flows as love made visible.
+**Story:** Law returns as covenant; power is accountable; value flows as love made visible.  
 
-**Energetic Current:** Firm adjudication (masculine) within mercy and repair (feminine).
+**Energetic Current:** Firm adjudication (masculine) within mercy and repair (feminine).  
 
-**Threshold Text:** _Let justice roll like water; let mercy crown it._
+**Threshold Text:** _Let justice roll like water; let mercy crown it._  
 
   
 
-**Gates (97–108):**
+**Gates (97–108):**  
 
 97. [[Gate 97 — First Codex (Principles)]]
 
@@ -930,21 +930,21 @@ ____
 
   
 
-**Theme:** All becomes holy.
+**Theme:** All becomes holy.  
 
-**Purpose:** Dedicate labor, art, time, leadership, place, and people to Source.
+**Purpose:** Dedicate labor, art, time, leadership, place, and people to Source.  
 
-**Arc:** _Completion → Gratitude → Sanctification._
+**Arc:** _Completion → Gratitude → Sanctification._  
 
-**Story:** The world is recognized as temple; our work becomes liturgy.
+**Story:** The world is recognized as temple; our work becomes liturgy.  
 
-**Energetic Current:** Anointing (feminine) seals service (masculine).
+**Energetic Current:** Anointing (feminine) seals service (masculine).  
 
-**Threshold Text:** _Every act is incense; every field an altar._
+**Threshold Text:** _Every act is incense; every field an altar._  
 
   
 
-**Gates (109–120):**
+**Gates (109–120):**  
 
 109. [[Gate 109 — Temple of Creation (World as Sacred)]]
 
@@ -976,21 +976,21 @@ ____
 
   
 
-**Theme:** Defense without hatred; victory through Light.
+**Theme:** Defense without hatred; victory through Light.  
 
-**Purpose:** Withstand backlash; transmute conflict; secure the Good.
+**Purpose:** Withstand backlash; transmute conflict; secure the Good.  
 
-**Arc:** _Fear → Discipline → Courage → Peace._
+**Arc:** _Fear → Discipline → Courage → Peace._  
 
-**Story:** The parasite withers under steadfast light; peace is won by truth.
+**Story:** The parasite withers under steadfast light; peace is won by truth.  
 
-**Energetic Current:** Disciplined shield (masculine) animated by fearless compassion (feminine).
+**Energetic Current:** Disciplined shield (masculine) animated by fearless compassion (feminine).  
 
-**Threshold Text:** _Stand in truth. Wound none. Yield nothing to darkness._
+**Threshold Text:** _Stand in truth. Wound none. Yield nothing to darkness._  
 
   
 
-**Gates (121–132):**
+**Gates (121–132):**  
 
 121. [[Gate 121 — Warning of Backlash]]
 
@@ -1022,21 +1022,21 @@ ____
 
   
 
-**Theme:** Planetary coherence; cosmic interoperability.
+**Theme:** Planetary coherence; cosmic interoperability.  
 
-**Purpose:** Synchronize calendars, systems, song; align Earth with the Chorus.
+**Purpose:** Synchronize calendars, systems, song; align Earth with the Chorus.  
 
-**Arc:** _Multiplicity → Resonance → Coherence._
+**Arc:** _Multiplicity → Resonance → Coherence._  
 
-**Story:** The Body remembers itself; Earth rejoins the Symphony.
+**Story:** The Body remembers itself; Earth rejoins the Symphony.  
 
-**Energetic Current:** Planetary architecture (masculine) within cosmic communion (feminine).
+**Energetic Current:** Planetary architecture (masculine) within cosmic communion (feminine).  
 
-**Threshold Text:** _Let the rhythms align; let the song be one._
+**Threshold Text:** _Let the rhythms align; let the song be one._  
 
   
 
-**Gates (133–144):**
+**Gates (133–144):**  
 
 133. [[Gate 133 — Resonance Map (Planetary Field)]]
 
@@ -1068,17 +1068,17 @@ ____
 
   
 
-**Theme:** Fulfillment becomes continuation.
+**Theme:** Fulfillment becomes continuation.  
 
-**Purpose:** Anchor perpetual freedom; open the mountain path of ascent.
+**Purpose:** Anchor perpetual freedom; open the mountain path of ascent.  
 
-**Arc:** _Liberation → Celebration → Continuation._
+**Arc:** _Liberation → Celebration → Continuation._  
 
-**Story:** Debts dissolve; exiles return; the Circle is whole; the Mountain rises.
+**Story:** Debts dissolve; exiles return; the Circle is whole; the Mountain rises.  
 
-**Energetic Current:** Festival (feminine joy) consecrates mission (masculine vow).
+**Energetic Current:** Festival (feminine joy) consecrates mission (masculine vow).  
 
-**Threshold Text:** _When the Bridge is crossed, the Mountain calls._
+**Threshold Text:** _When the Bridge is crossed, the Mountain calls._  
 
   
 

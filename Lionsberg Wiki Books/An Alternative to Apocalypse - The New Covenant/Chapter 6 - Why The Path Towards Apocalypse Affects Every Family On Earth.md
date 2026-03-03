@@ -42,7 +42,7 @@ The challenges are immense, but so are the opportunities for transformation, hea
 
 The choice is ours, the moment is now, and the path towards a new era of peace, abundance, and harmony awaits.
 
-___
+___  
 Forward to [[Chapter 7 - Principles and Values of the New Covenant]]  
 Back to [[Chapter 5 - Environmental Collapse]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

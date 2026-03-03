@@ -4,6 +4,6 @@ Faith has nothing to do with unconditional and blind acceptance of the religious
 
 ___
 
-Forward to [[Meditation 9]]        
+Forward to [[Meditation 9]]  
 Back to [[Meditation 7]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

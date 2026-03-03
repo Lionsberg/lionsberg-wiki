@@ -10,6 +10,6 @@ The need for a new American Revolution cannot be overstated. America is at a cro
 
 ___
 
-Forward to [[IV.B. The Need for a New Vision and Plan]]        
-Back to [[III.F. A Crisis of Culture and Values]]        
+Forward to [[IV.B. The Need for a New Vision and Plan]]  
+Back to [[III.F. A Crisis of Culture and Values]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

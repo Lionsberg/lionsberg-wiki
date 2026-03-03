@@ -10,7 +10,7 @@ Entering the hidden room, Xion quickly shut the door behind him and lit a candle
 
 Outside the Secret Place, the guards grew increasingly irate as they searched for Xion in vain. 
 
-___
+___  
 Forward to: [[Scene 20 - The Spirit Reveals Next Steps]]  
 Back to: [[Scene 18 - The Corrupt Governor]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

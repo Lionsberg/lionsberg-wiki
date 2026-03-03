@@ -1,38 +1,38 @@
 # The LIONSBERG Way
-*For inclusion in [[The LIONSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*
+*For inclusion in [[The LIONSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*  
 *This is a chaotic [[Work In Progress]]*  
 *You should probably ignore it for now*    
 
 ## Introduction: The Way and Its Incarnations
 
-The [[Way]] transcends, encompasses, undergirds, and upholds [[All]]. 
+The [[Way]] transcends, encompasses, undergirds, and upholds [[All]].  
 
-It was our **[[Old]] Way of Being** that spiraled Us down towards the hellish depths. 
+It was our **[[Old]] Way of Being** that spiraled Us down towards the hellish depths.  
 
 It is Our **[[New]] Way of Being** that Eternally spirals Us up towards the Heavenly Heights in every [[Domain]] We [[InFluence]] and [[InHabit]].  
 
-The Highest [[Way]] is unwritten, ineffable, and eternally Beyond Our grasp. Like the [[ONE]] It Flows From, It expands and recedes in its Infinite Perfection and Glory as We approach It. 
+The Highest [[Way]] is unwritten, ineffable, and eternally Beyond Our grasp. Like the [[ONE]] It Flows From, It expands and recedes in its Infinite Perfection and Glory as We approach It.  
 
-And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, Coherence, and Flow requires that We [[Incarnate]] local *reflections* in [[SpaceTime]] that enable Us to experience, grapple with, and Ultimately ReTranscend Our Reality. 
+And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, Coherence, and Flow requires that We [[Incarnate]] local *reflections* in [[SpaceTime]] that enable Us to experience, grapple with, and Ultimately ReTranscend Our Reality.  
 
-[[LIONSBERG]] is One of these reflections, emanating from the [[ONE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good. 
+[[LIONSBERG]] is One of these reflections, emanating from the [[ONE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good.  
 
-When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within. 
+When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within.  
 
 ## The LIONSBERG Way
 
-By differentiating out and naming, among [[All]] the potential ways, **One LIONSBERG Way**, We create the profound opportunity to collaborate to continuously improve a **System** purpose-built to bring Heaven into Reality. 
+By differentiating out and naming, among [[All]] the potential ways, **One LIONSBERG Way**, We create the profound opportunity to collaborate to continuously improve a **System** purpose-built to bring Heaven into Reality.  
 
-It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[Way of Being]], sub-composed the Deepest Wisdom Knowledge regarding **[[How]]** to InterExist in a State that approaches Heaven. 
+It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[Way of Being]], sub-composed the Deepest Wisdom Knowledge regarding **[[How]]** to InterExist in a State that approaches Heaven.  
 
-*Note: The LIONSBERG Way is in the process of transcending, encompassing, and replacing [[The Lionsberg Handbook]].*
+*Note: The LIONSBERG Way is in the process of transcending, encompassing, and replacing [[The Lionsberg Handbook]].*  
 
 ## The Story of LIONSBERG 
 
 [[The Story]]  
 [[The Story of LIONSBERG]]  
 
-Should speak to: 
+Should speak to:  
 [[Context]]  
 [[The Context]]  
 
@@ -41,7 +41,7 @@ Should speak to:
 
 [[The Solution]]  
 
-A comprehensive system of systems, community of community etc. 
+A comprehensive system of systems, community of community etc.  
 ## 1. One
 
 
@@ -86,7 +86,7 @@ A comprehensive system of systems, community of community etc.
 
 ## 12. The LIONSBERG Vision 
 
-Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]]. 
+Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]].  
 
 [[Vision]]  
 [[The Vision]]  
@@ -138,7 +138,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 12. The LIONSBERG Prototype
 
-[[The Prototype]] 
+[[The Prototype]]  
 
 ## 13. The LIONSBERG Platform
 
@@ -161,10 +161,10 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIONSBERG Manifesto 
 
-[[LIONSBERG Manifesto]]   
+[[LIONSBERG Manifesto]]  
 ## 13. Introduction to LIONSBERG 
 
-[[Lionsberg Introduction]]   
+[[Lionsberg Introduction]]  
 ## Invitation to LIONSBERG
 
 
@@ -176,7 +176,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. Welcoming and Hospitality 
 
-[[Welcome to LIONSBERG, We Are Glad You Are Here]] 
+[[Welcome to LIONSBERG, We Are Glad You Are Here]]  
 ## 14. Initiation 
 
 [[The LIONSBERG System of Initiation]]  
@@ -242,7 +242,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 20. The 12 Pillars of LIONSBERG 
 
-[[The 12 Pillars of Lionsberg]] 
+[[The 12 Pillars of Lionsberg]]  
 
 ## 20. Wellness
 
@@ -278,8 +278,8 @@ Short Description
 Ideal State  
 One Paragraph  
 Longer Courses  
-Ideal
-Philosophy 
+Ideal  
+Philosophy  
 Theory  
 Practice    
 Tools  
@@ -508,7 +508,7 @@ Measurement
 
 ### **Purpose**
 
-The Invitation clearly conveys the magnitude, sacredness, and seriousness of joining LIONSBERG, attracting individuals deeply aligned with the Mission, ready to commit fully, and possessing genuine resonance.
+The Invitation clearly conveys the magnitude, sacredness, and seriousness of joining LIONSBERG, attracting individuals deeply aligned with the Mission, ready to commit fully, and possessing genuine resonance.  
 
 ### **Elements of the Invitation**
 
@@ -536,7 +536,7 @@ The Invitation clearly conveys the magnitude, sacredness, and seriousness of joi
 
 ### **Purpose**
 
-An explicit process for candidates to express serious interest and for LIONSBERG members to assess alignment, readiness, and potential for mutual resonance.
+An explicit process for candidates to express serious interest and for LIONSBERG members to assess alignment, readiness, and potential for mutual resonance.  
 
 ### **Steps**
 
@@ -563,7 +563,7 @@ An explicit process for candidates to express serious interest and for LIONSBERG
 
 ### **Purpose**
 
-A structured, supportive entry phase ensuring new members clearly understand, embody, and commit fully to the community’s principles, values, and Mission.
+A structured, supportive entry phase ensuring new members clearly understand, embody, and commit fully to the community’s principles, values, and Mission.  
 
 ### **Components**
 
@@ -622,7 +622,7 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 
 ### **Purpose**
 
-A profoundly meaningful formal ceremony marking the conscious choice, sacred oath, and full integration into the LIONSBERG Community.
+A profoundly meaningful formal ceremony marking the conscious choice, sacred oath, and full integration into the LIONSBERG Community.  
 
 ### **Elements of the Ceremony**
 
@@ -643,7 +643,7 @@ A profoundly meaningful formal ceremony marking the conscious choice, sacred oat
 
 ### **Purpose**
 
-Structured guidance and supportive oversight during initial 90 days to ensure seamless integration, personal empowerment, and clarity of responsibilities.
+Structured guidance and supportive oversight during initial 90 days to ensure seamless integration, personal empowerment, and clarity of responsibilities.  
 
 ### **Orientation Process**
 
@@ -669,7 +669,7 @@ Structured guidance and supportive oversight during initial 90 days to ensure se
 
 ### **Purpose**
 
-Clear pathways for continuous growth, deepening mastery, and contribution within LIONSBERG.
+Clear pathways for continuous growth, deepening mastery, and contribution within LIONSBERG.  
 
 ### **Structured Tracks**
 
@@ -704,7 +704,7 @@ Clear pathways for continuous growth, deepening mastery, and contribution within
 
 ### **Purpose**
 
-Clearly defined path from individual membership towards full-fledged Holonic Citizenship within the New Civilization.
+Clearly defined path from individual membership towards full-fledged Holonic Citizenship within the New Civilization.  
 
 ### **Criteria for Holonic Citizenship**
 
@@ -728,7 +728,7 @@ Clearly defined path from individual membership towards full-fledged Holonic Cit
 
 ### **Purpose**
 
-Structured feedback loops to continuously elevate and improve the onboarding, orientation, and integration process.
+Structured feedback loops to continuously elevate and improve the onboarding, orientation, and integration process.  
 
 - Regular solicitation of new member feedback.
     
@@ -741,7 +741,7 @@ Structured feedback loops to continuously elevate and improve the onboarding, or
 
 ## **X. Outcomes of This Process**
 
-By following this structured Invitation, Onboarding, and Orientation process, each new member will be:
+By following this structured Invitation, Onboarding, and Orientation process, each new member will be:  
 
 - Deeply inspired and authentically aligned with the Mission.
     

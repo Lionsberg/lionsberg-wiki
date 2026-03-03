@@ -27,4 +27,3 @@ This dynamic plays out not only at the individual level, but also at the collect
 The Mission and Ideal of Christ is not religion; it is to fully embody and enact the manifest Spirit, Will, and Intention of [[God]], transcendent, universal, eternal, and ineffable, right here [[On Earth As it Is In Heaven]]. 
 
 This is the Mystery of Transcendence, Spirit, and Incarnation; the triune expression of the Ultimate Unity we are progressing back towards. 
-

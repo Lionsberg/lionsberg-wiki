@@ -100,4 +100,3 @@ Thunderbird reports persisted into the 20th and 21st centuries, with notable sig
     
     - _Cryptid Chronicles: Thunderbirds_ – A detailed exploration of sightings and their connections to Native American legends.
     - _Monsters of the Skies_ – Investigations into large flying cryptids, including the Thunderbird.
-

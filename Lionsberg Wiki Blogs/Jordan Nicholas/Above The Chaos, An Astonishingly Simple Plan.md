@@ -59,7 +59,7 @@ And now let us imagine that all we had to do, was to take up The Flame Of Unity,
 
 How long would it take to [[Enlighten The World]] with Love? 
 
-Tomorrow is the Sabbath, a day of Rest and Retrospection. So let's say that the 17 of us (hopefully 18, with you), begin to [[Pass The Flame]] on Sunday March 10th. 
+Tomorrow is the Sabbath, a day of Rest and Retrospection. So let's say that the 17 of us (hopefully 18, with you), begin to [[Pass The Flame]] on Sunday March 10th.  
 ___
 
 ## How The Movement Could Unfold If We Wanted It To
@@ -247,13 +247,13 @@ So here the 3 Simple Steps that every Individual can take, today:
 1. When you receive [[The Invitation]], accept it and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 2. Forge or join a Group / Team 
 	1. Aim for 3 to 16 other Individuals you enjoy being around and Co-Creating with. This should be fun and joyful.  
-	2. Love one another, help one another, discuss these issues, and send me questions. I will pool those into [[Frequently Asked Questions]] and answer them. 
-	3. Choose something to do together that makes your lives and your world a better place, and embark on your Quest. We are going to get really good at forming small groups to tackle the most meaningful projects and ideas we can identify. 
-	4. Figure out how to leverage and continuously improve the Lionsberg System to make your individual and group experience ever more joyful. 
+	2. Love one another, help one another, discuss these issues, and send me questions. I will pool those into [[Frequently Asked Questions]] and answer them.  
+	3. Choose something to do together that makes your lives and your world a better place, and embark on your Quest. We are going to get really good at forming small groups to tackle the most meaningful projects and ideas we can identify.  
+	4. Figure out how to leverage and continuously improve the Lionsberg System to make your individual and group experience ever more joyful.  
 3. [[Pass The Flame]] 
-	1. Remember that Unity among Us is the One Thing that makes all other things possible. 
+	1. Remember that Unity among Us is the One Thing that makes all other things possible.  
 	2. Find at least one person each week to [[Pass The Flame]].  
-	3. You will know that their candle was successfully lit when: 
+	3. You will know that their candle was successfully lit when:  
 		1. They [Join The Movement](https://jordannicholas.org/join_the_movement).  
 		2. They form or join a small group / team  
 		3. They [[Pass The Flame]]  

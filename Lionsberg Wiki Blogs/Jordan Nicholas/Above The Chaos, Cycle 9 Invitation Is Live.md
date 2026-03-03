@@ -13,4 +13,3 @@ Ideally, we will complete Cycle 9 and 10 in June ahead of the first [[Quarterly 
 Cycle 10 takes us out to the first 144 co-creators.
 
 We are heading towards convening the first [[Lionsberg General Assembly]] in late September. 
-

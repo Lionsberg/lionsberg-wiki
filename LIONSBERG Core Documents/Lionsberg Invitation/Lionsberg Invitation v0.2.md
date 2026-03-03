@@ -31,5 +31,3 @@ Feel free to review the [[Lionsberg Participation Agreement]] to further underst
 With Love and Respect, 
 
 (your name)
-
-

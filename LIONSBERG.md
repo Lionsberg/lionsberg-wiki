@@ -50,7 +50,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Metaphors
 
-[[Lionsberg Metaphors]] 
+[[Lionsberg Metaphors]]  
 
 ## Characteristics 
 
@@ -73,7 +73,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Strategy and Plan 
 
-[[The Lionsberg Strategy and Plan]] 
+[[The Lionsberg Strategy and Plan]]  
 
 ## Invitation 
 

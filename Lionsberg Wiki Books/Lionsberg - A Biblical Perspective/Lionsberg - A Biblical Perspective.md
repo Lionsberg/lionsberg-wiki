@@ -4,16 +4,16 @@ This is about a 20,000 word "book" outlining a biblical perspective and defense 
 
 ## 1. Introduction & Summary
 
-[[Introduction - Lionsberg - A Biblical Perspective]] 
+[[Introduction - Lionsberg - A Biblical Perspective]]  
 [[Summary - Lionsberg - A Biblical Perspective]]  
 
 ## 2. The Story of the Bible
 
-[[The Story Of The Bible]] 
+[[The Story Of The Bible]]  
 
 ## 3. The Perfect Nature, Character, and Intention of God
 
-[[The Perfect Nature, Character, and Intention of God]]     
+[[The Perfect Nature, Character, and Intention of God]]  
 
 ## 4. Being Perfect as God is Perfect, and Doing What Jesus Would Do
 
@@ -40,7 +40,7 @@ This is about a 20,000 word "book" outlining a biblical perspective and defense 
 
 ## 9. How The Lionsberg System Fits Into the Global Landscape
 
-[[How Lionsberg Fits Into The Global Landscape]] 
+[[How Lionsberg Fits Into The Global Landscape]]  
 
 ## 10. Implementation and Roll-Out
 
@@ -52,12 +52,12 @@ This is about a 20,000 word "book" outlining a biblical perspective and defense 
 
 ## 12. Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government
 
-[[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]] 
+[[Why A Comprehensive System And Approach Is Not Anti-Christ Or One World Government]]  
 
 ## 13. Conclusion 
 
-[[Conclusion - Lionsberg - A Biblical Perspective]] 
+[[Conclusion - Lionsberg - A Biblical Perspective]]  
 
 ## 14. Frequently Asked Questions And Concerns
 
-[[Frequently Asked Questions]] 
+[[Frequently Asked Questions]]  

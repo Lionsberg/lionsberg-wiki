@@ -103,4 +103,3 @@ The case was promptly investigated by Gendarmerie officers and later by CNES’s
     - Vallee, Jacques. _Anatomy of a Phenomenon._
 - **Documentaries:**
     - _The Scientific Approach to UFO Phenomena_
-

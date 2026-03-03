@@ -11,7 +11,7 @@ Join us as we rise up, hover over the roiling waters of chaos and darkness, and 
 [Above The Chaos by Jordan Nicholas](https://lionsberg.wiki/lionsberg_wiki_blogs/jordan_nicholas/above_the_chaos)  
 
 **Video Links to Full Episodes**  
-[YouTube Link](https://www.youtube.com/playlist?list=PLLjjoevj7u2YJXdYKAeSxuTL_zs81pSvB) 
+[YouTube Link](https://www.youtube.com/playlist?list=PLLjjoevj7u2YJXdYKAeSxuTL_zs81pSvB)  
 [X / Twitter Link](https://twitter.com/JNicholasOne)
 
 **Podcast Links**: 

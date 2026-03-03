@@ -110,6 +110,6 @@ The strategic sourcing process results in the Lean Supply Chain initiative suppo
 
 ___
 
-_Previous: [[PDG - Target Value Design at Site]]_
-_Next: [[PDG - Risk, Incentives, and Planning]]_
+_Previous: [[PDG - Target Value Design at Site]]_  
+_Next: [[PDG - Risk, Incentives, and Planning]]_  
 _Return to [[The Program Delivery Guide]]_

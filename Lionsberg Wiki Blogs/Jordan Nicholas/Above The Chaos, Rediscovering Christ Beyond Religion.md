@@ -45,5 +45,3 @@ As we progress beyond the elementary religious structures that guided us in our 
 I hope and pray that regardless of how we or society might label us, when God and future generations weigh our lives in the balance, they will find that we did our best to become as much like Christ as our [[SpatioTemporal]] limitations would allow.  
 
 As our world shakes under the weight of the self-inflicted [[Meta Crisis]], the degree to which we progress together towards Heaven or Hell on Earth will be the evidence of how fully the Spirit of Christ was present within us Here and Now. 
-
-

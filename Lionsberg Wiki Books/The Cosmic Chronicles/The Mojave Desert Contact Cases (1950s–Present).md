@@ -124,4 +124,3 @@ The area has also been associated with interdimensional theories, with researche
     
     - _The Mojave Desert Mysteries (2017)_ – Explores UFO sightings and contactee experiences in the region.
     - _Close Encounters in the Mojave (2020)_ – A detailed investigation into modern cases.
-

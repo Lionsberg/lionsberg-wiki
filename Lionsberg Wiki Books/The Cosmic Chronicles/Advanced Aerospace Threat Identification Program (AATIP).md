@@ -3,8 +3,8 @@
 The **Advanced Aerospace Threat Identification Program (AATIP)** was a U.S. Department of Defense (DoD) initiative which emerged as a continuation and refinement of the broader **AAWSAP (Advanced Aerospace Weapon System Applications Program)** initiative launched in 2007, tasked with investigating unidentified aerial phenomena (UAP) with potential national security implications. AATIP primarily focused on encounters between UAPs and U.S. military assets, analyzing their advanced capabilities, origins, and possible threats. The program was led by Luis Elizondo and operated until (?), though its legacy influenced subsequent UAP research initiatives.
 
 ---
-Unlike its predecessor, **AAWSAP**, which investigated a broader range of anomalous phenomena, AATIP narrowed its scope to UAPs with military and national security relevance.
-____
+Unlike its predecessor, **AAWSAP**, which investigated a broader range of anomalous phenomena, AATIP narrowed its scope to UAPs with military and national security relevance.  
+____  
 AATIP coordinated with contractors, including **Bigelow Aerospace Advanced Space Studies (BAASS)**, for research and analysis of UAP-related materials.
 
 ### **Public Disclosure and Legacy**

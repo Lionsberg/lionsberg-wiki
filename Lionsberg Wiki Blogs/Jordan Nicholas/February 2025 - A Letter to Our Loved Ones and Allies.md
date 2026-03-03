@@ -103,6 +103,3 @@ If you are among [[The First Three Percent]] and would like to engage Together, 
 With Love and All that I Am, 
 
 ~ J 
-
-
-

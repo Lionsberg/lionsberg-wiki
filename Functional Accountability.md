@@ -12,4 +12,4 @@ While Groups necessarily delegate Functional Accountability to Individuals, they
 
 This prevents the entire weight of The Whole from ever resting on a single point of potential failure, and fosters a [[Zero Blame Environment]]. 
 
-[[Template For Functional Accountability Chart]] 
+[[Template For Functional Accountability Chart]]  

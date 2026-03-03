@@ -41,7 +41,7 @@ From [[Mondragon]]'s 70 years of experience:
 - **Unanimous consent** for key decisions — honoring dissent rather than overriding it
 - **Service is mandatory if elected** — no additional compensation for governance roles
 
-From the Iroquois Confederacy:
+From the Iroquois Confederacy:  
 - **Clan mothers as constitutional authority** — the power to raise up and remove leaders
 - **Seven generations principle** — every decision evaluated against its impact on seven generations
 - **Consensus governance** — matters that cannot reach consensus are set aside
@@ -56,6 +56,6 @@ It does not require permission from existing authorities. It does not depend on 
 
 ___
 
-_See [[The Lionsberg Approach to Citizen Led Governance]] for the full governance pattern language._
-_See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Hierarchy of Sovereignties]]._
+_See [[The Lionsberg Approach to Citizen Led Governance]] for the full governance pattern language._  
+_See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Hierarchy of Sovereignties]]._  
 _See [[LIONSBERG 101]]._

@@ -52,4 +52,3 @@ Because we could not identify a System and Structure capable of accomplishing th
 Since children, families, and adults of all capabilities around the world will need to participate, our hypothesis is that a Story and a Game are the only containers of the logic that can actually scale quickly enough to accomplish [[The Goal]] within the amount of [[Time]] available. 
 
 ___
-

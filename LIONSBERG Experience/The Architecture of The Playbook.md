@@ -1,23 +1,23 @@
 # The Architecture of The Playbook
 _The Living Guide of The Great Game_
 
-This is the navigation index of The Playbook.
-Each title links to its living page.
-Move steadily — page by page, play by play.
+This is the navigation index of The Playbook.  
+Each title links to its living page.  
+Move steadily — page by page, play by play.  
 Each Gate opens in its Time.
 
-The Playbook is the bridge from Story into Structure,
-Covenant into Community,
+The Playbook is the bridge from Story into Structure,  
+Covenant into Community,  
 and Vision into Reality.
 
 ---
 
 ## An Evolving Co-Creation
 
-The LIONSBERG Playbook is designed to be co-created
+The LIONSBERG Playbook is designed to be co-created  
 by **[[The First Three Percent]]** as they play and embody **[[The Great Game of LIONSBERG|The Great Game]]**.
 
-The lived experiences of the early players will make the Playbook accurate, organic, and emergent
+The lived experiences of the early players will make the Playbook accurate, organic, and emergent  
 for all who follow.
 
 What follows is a living starting point — designed for emergence and continuous improvement.

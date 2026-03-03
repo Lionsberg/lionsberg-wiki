@@ -112,4 +112,3 @@ The Marfa Lights have become a tourist attraction, with the Marfa Lights Viewing
     
     - _Mysteries at the Museum: The Marfa Lights Episode._
     - _The Unexplained Files: Marfa Lights Investigation._
-

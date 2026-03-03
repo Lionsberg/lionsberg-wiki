@@ -17,7 +17,7 @@ Micro Finance - Food and other emergency essentials can be acquired far more eff
 
 Each individual has a revolving loan fund that grows or shrinks over time in proportion to their faithfulness, integrity, and stewardship capability. j
 
-How it would work
+How it would work  
 1. Individuals and foundations grant resources to the Lionsberg Emergency Relief Fund 
 2. Lionsberg uses 10% of those resources to empower core infrastructure and services required to operate the program. 
 3. Lionsberg uses a percentage of the balance to set up a revolving loan fund that is expected to grow over time
@@ -67,9 +67,3 @@ Equip and empower with resources in the form of something the can grow, rather t
 ### Supply Side
 - Set up supply lines to provide access to anything necessary for life that is not present or affordable locally 
 - Set up supply lines according to [[Organizations The Lionsberg Way]]  to create decentralization, autonomy, and accountability
-
-
-
-
-
-

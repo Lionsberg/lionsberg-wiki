@@ -62,6 +62,6 @@ Work Structuring specifically deals with sequencing, scheduling and process desi
 
 ___
 
-_Previous: [[PDG - Community of Practice]]_
-_Next: [[PDG - Work Structuring and BIM]]_
+_Previous: [[PDG - Community of Practice]]_  
+_Next: [[PDG - Work Structuring and BIM]]_  
 _Return to [[The Program Delivery Guide]]_

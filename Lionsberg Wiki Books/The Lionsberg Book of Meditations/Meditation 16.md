@@ -4,6 +4,6 @@ Absolute and Unconditional Love gives, expecting nothing in return. If you are e
 
 ___
 
-Forward to [[Meditation 17]]        
+Forward to [[Meditation 17]]  
 Back to [[Meditation 15]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

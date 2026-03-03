@@ -93,4 +93,3 @@ The Cape Girardeau crash was largely forgotten until Mann’s revelations in the
     
     - Dolan, Richard. _UFOs and the National Security State._
     - Friedman, Stanton. _Top Secret/Majic._
-

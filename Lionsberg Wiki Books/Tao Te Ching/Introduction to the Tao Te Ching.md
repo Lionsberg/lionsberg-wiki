@@ -49,4 +49,3 @@ To Co-Create is to actively engage with the Way and the One—aligning with Its 
 Through this exploration, may We come to know the Infinite within and around Us, and may We each find Our unique role in weaving a New Harmony for Our Selves, Our community, and the All in service of One.
 
 Let Us now begin the journey into [[Chapter 1 - The Way and Its Mystery]]. 
-

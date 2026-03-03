@@ -118,7 +118,7 @@
 
 ___
 
-The End
-Back to [[VI.E. Continuously Improving the New Vision and Plan]]        
+The End  
+Back to [[VI.E. Continuously Improving the New Vision and Plan]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
 Discover More [[Lionsberg Wiki Books]] 

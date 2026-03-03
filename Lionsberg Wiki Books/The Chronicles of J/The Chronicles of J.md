@@ -1,6 +1,6 @@
 # The Chronicles of J
 
-On what would have been Jordan's 40th birthday, We received a beautiful leather journal from Our daughter Emma Joy, with the following note written on the first page: 
+On what would have been Jordan's 40th birthday, We received a beautiful leather journal from Our daughter Emma Joy, with the following note written on the first page:  
 ___
 
 *To my Dadzie,* 
@@ -15,7 +15,7 @@ ___
 
 *Emma Joy* 
 
-____
+____  
 What follows is a [[Work In Progress]] being written in response to Our daughter's beautiful invitation. 
 
 We tell Our [[Stories of Transformation]] as an invitation for you to share yours. 
@@ -26,4 +26,3 @@ May this be an encouragement to any of God's children desiring to hear from the 
 2. [[In Case I Don't Finish]]  
 3. [[The Curse of the Sweaty Hands, and the Blessing of Our Limitations]]   
 4. [[On the Death of Jordan, and the Rise of What We Are Becoming]]   
-

@@ -126,9 +126,9 @@
 
 ## 12. The Plan 
 
-(we can pick any high level articulation of the underlying Spirit)
+(we can pick any high level articulation of the underlying Spirit)  
 
-We The People, in order to establish a More Perfection Union: 
+We The People, in order to establish a More Perfection Union:  
 
 1. Are going to place [[God]] / [[ONE]] back at The Center of [[All]]
 2. Are going to base everything on Light and Love (do no evil or harm, and help)
@@ -177,7 +177,7 @@ We The People, in order to establish a More Perfection Union:
 
 ## Navigation - From the Old to the New 
 
-How do we know if: 
+How do we know if:  
  
 -   A. Our direction / [[Aim]] is correct?
     
@@ -380,47 +380,44 @@ How do we know if:
 -   we are already succeeding... 
 -   we are not alone we are actually an army...
     
-___
+___  
 
 ##  First Internal Communication...
 
-Hello friends, 
+Hello friends,  
 
-Thank you so much for your response to the manifesto and invitation. 
+Thank you so much for your response to the manifesto and invitation.  
 
 ## Last Week's Outreach
 
-The [[Aim]] of my last communication was to identify a **smaller and more focused initial group** of 6 to 12 committed and honest people who want to be an active part of helping lead and shape [[The Movement]] towards the [[New Vision and Plan]]. 
+The [[Aim]] of my last communication was to identify a **smaller and more focused initial group** of 6 to 12 committed and honest people who want to be an active part of helping lead and shape [[The Movement]] towards the [[New Vision and Plan]].  
 
-To separate out this smaller group, I narrowed down my communication list and directly messaged about 40 to 50 people. 
+To separate out this smaller group, I narrowed down my communication list and directly messaged about 40 to 50 people.  
 
-I received many heart emojis, "thanks", "wow that is a lot I'll get to it when I have time", "looks like your work is progressing", "let's catch up next week" and "maybe next cohort" responses... zero "no - please remove me from the list of allies"... and affirmative responses or next steps from about 1/4.
+I received many heart emojis, "thanks", "wow that is a lot I'll get to it when I have time", "looks like your work is progressing", "let's catch up next week" and "maybe next cohort" responses... zero "no - please remove me from the list of allies"... and affirmative responses or next steps from about 1/4.  
 
 ## Celebration 
 
-**So let's celebrate this milestone and initial activation!** We have moved from **zero to one** successfully, and we are now a potent small army who have wrestled with the [[New Vision and Plan]] and the proposed pathway of action and are committed to be a part of its unfolding. 
+**So let's celebrate this milestone and initial activation!** We have moved from **zero to one** successfully, and we are now a potent small army who have wrestled with the [[New Vision and Plan]] and the proposed pathway of action and are committed to be a part of its unfolding.  
 
 ## Still Too Complex 
 
-At the same time, I acknowledge that the language is still far too complex, and the call to action too opaque, to engage all but a select few. 
+At the same time, I acknowledge that the language is still far too complex, and the call to action too opaque, to engage all but a select few.  
 
 ## Invitation and Next Steps 
 
-I would like to invite you to become a committed leadership force that will help take charge of the message and the Lionsberg Community and Platform, and shape its iteration over time. 
+I would like to invite you to become a committed leadership force that will help take charge of the message and the Lionsberg Community and Platform, and shape its iteration over time.  
 
-I plan to be speaking and broadcasting weekly, and invite your help to mold and shape the messaging, interviews, topics, and calls to action in order to engage and inspire action from a diverse array of people. 
+I plan to be speaking and broadcasting weekly, and invite your help to mold and shape the messaging, interviews, topics, and calls to action in order to engage and inspire action from a diverse array of people.  
 
-To aid in that process next week we will begin shaping the [[Field of Agreements]] that will guide our work together towards clearly defined [[Goals]] and [[Objectives]], as well as the next iteration of [[The Message]] to bring more people in. 
+To aid in that process next week we will begin shaping the [[Field of Agreements]] that will guide our work together towards clearly defined [[Goals]] and [[Objectives]], as well as the next iteration of [[The Message]] to bring more people in.  
 
-This is not going to be a place of abstract exploration, where we continue to say the same thing again and again and hope people activate. We do not have time for that. 
+This is not going to be a place of abstract exploration, where we continue to say the same thing again and again and hope people activate. We do not have time for that.  
 
-It is the beginning of an iterative visionary movement, and each time we iterate we hope to attract a new level of engagement and commitment. 
+It is the beginning of an iterative visionary movement, and each time we iterate we hope to attract a new level of engagement and commitment.  
 
-The iterations in messaging will never compromise the unchangeable universal **principles, values, or Goal**, but will provide ever more simple and clear pathways for a more diverse array of everyday citizens to connect and benefit as the movement grows. 
+The iterations in messaging will never compromise the unchangeable universal **principles, values, or Goal**, but will provide ever more simple and clear pathways for a more diverse array of everyday citizens to connect and benefit as the movement grows.  
 
 ## Next Week 
 
-Next week we will be meeting on x and y dates for x and y reasons... here is a scheduling link. 
-
-
-
+Next week we will be meeting on x and y dates for x and y reasons... here is a scheduling link.  

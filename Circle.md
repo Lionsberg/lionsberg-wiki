@@ -28,7 +28,7 @@ ___
 
 **2. Share [[Ring 1 - The Seed]].** Read it together. Discuss it. Let it resonate.
 
-**3. Establish your [[Field of Agreements]]:**
+**3. Establish your [[Field of Agreements]]:**  
 - **Purpose**: What is this Circle for? (Must align with [[Meta Goal|The Meta Goal]])
 - **Principles**: What values do we commit to embody?
 - **Practices**: How often do we meet? How do we make decisions?
@@ -71,6 +71,6 @@ Each Circle that matures passes [[The Flame]]. Each member helps form a new Circ
 
 ___
 
-_See [[Ring 5 - The Game]] for the full action sequence._
-_See [[Holofractal Omnifederation]] for why the Circle carries the full DNA._
+_See [[Ring 5 - The Game]] for the full action sequence._  
+_See [[Holofractal Omnifederation]] for why the Circle carries the full DNA._  
 _See [[LIONSBERG 101]]._

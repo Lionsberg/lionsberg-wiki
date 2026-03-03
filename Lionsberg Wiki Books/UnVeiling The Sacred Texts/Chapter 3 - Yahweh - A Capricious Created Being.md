@@ -88,4 +88,3 @@ Building on their rightful concerns that were swept into the Darkness by the Rom
 - **Moral Inconsistency:** Yahweh’s actions are often tyrannical, harsh, excessive, and irreconcilable with basic enlightened moral sensibilities. 
 
 As Jesus said: *"Beware of the false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. You shall know them by their fruits. Grapes are not gathered from thorn bushes, nor figs from thistles, are they? So every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. 20 So then, you will know them by their fruits."*
-

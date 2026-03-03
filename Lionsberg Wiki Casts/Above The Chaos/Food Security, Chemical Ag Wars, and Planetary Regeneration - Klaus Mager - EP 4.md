@@ -17,7 +17,7 @@ A WikiCast post in [[Above The Chaos]]
 
 If you resonate, please show your support! 
 
-**1. Join The Movement**
+**1. Join The Movement**  
 - Visit [Jordan's Website](https://jordannicholas.org) and click [Join The Movement](https://jordannicholas.org/join_the_movement) 
 
 **2. Engage on Social Media**  
@@ -29,7 +29,7 @@ If you resonate, please show your support!
 ## Platform Links 
 
 **Video Links**  
-[YouTube Link](https://youtu.be/FXI0VRrigmc) 
+[YouTube Link](https://youtu.be/FXI0VRrigmc)  
 X Link  - Coming Soon
 
 **Podcast Links**: 
@@ -88,7 +88,7 @@ Join our host Jordan Nicholas and food systems expert Klaus Mager as they discus
 - Designing and Building a Better World 
 - Lionsberg  
 
-**Resources and Links**:
+**Resources and Links**:  
 - [Lionsberg Wiki](https://lionsberg.wiki) 
 - [Lionsberg Website](https://www.Lionsberg.org)  
 - Overshoot Day [https://www.overshootday.org/](https://www.overshootday.org/)  

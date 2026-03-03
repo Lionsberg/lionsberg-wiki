@@ -18,8 +18,7 @@ It would technically, economically and environmentally be far wiser to pay such 
 
 [[Level Of Commitment]] is a qualitative and human negotiation between each individual and the Groups they participate in. 
 
-____
+____  
 It is anticipated that the combination of [[Time-Energy Accounting]], AI, Robotics, and the conversion of our [[High Science Technology]] [[FROM Weaponry TO Livingry]] will render the notion of "money" obsolete.  
 
 We will soon discover that [[We Are All Billionaires]].  
-

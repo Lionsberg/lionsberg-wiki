@@ -8,6 +8,6 @@ In the Lionsberg System, the Rules of Participation are an essential component o
 
 Any Participant who wishes to join a specific team, organization, group, or community must assent to the Rules of Participation of that group. This helps to ensure that everyone is working together in accordance with the same principles and expectations, and that there is a shared understanding of how Participants should behave and interact with each other.
 
-The Lionsberg System provides guidance and best practices for defining and implementing effective Rules of Participation, and for continuously improving these rules over time to ensure that Participants are working together effectively towards shared Vision, Goals, and Values.
-___
-[[Template For Rules of Participation]] 
+The Lionsberg System provides guidance and best practices for defining and implementing effective Rules of Participation, and for continuously improving these rules over time to ensure that Participants are working together effectively towards shared Vision, Goals, and Values.  
+___  
+[[Template For Rules of Participation]]  

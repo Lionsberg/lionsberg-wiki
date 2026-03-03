@@ -57,4 +57,3 @@
 **Notes**: Any additional information or notes about the pattern.
 
 **Revision history** : A section to keep track of any changes made to the page with date and rationale.
-

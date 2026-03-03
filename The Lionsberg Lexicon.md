@@ -1,3 +1,3 @@
 # The Lionsberg Lexicon
 
-[[LIONSBERG Lexicon]]
+[[LIONSBERG Lexicon]]  

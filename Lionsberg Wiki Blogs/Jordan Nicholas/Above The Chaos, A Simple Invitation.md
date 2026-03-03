@@ -16,7 +16,7 @@ The near term objective is to forge, out of the many enlightened individuals aro
 
 Next step is for Lionsberg to engage several **Pilot Groups** in the next social experiment to begin learning how to fuel the movement. 
 
-**Action**: Please let me know how / whether you would like to participate. 
+**Action**: Please let me know how / whether you would like to participate.  
 ____
 ## Learnings: 
 
@@ -28,13 +28,13 @@ In our experiment evaluating the idea of a "Meta Project" over the last months, 
 4. The emergence towards higher order functional unity can't be forced top down - it has to emerge organically and inspirationally from the bottom up. 
 5. The only path forward is through action / doing / learning / continuously improving from a starting point, no matter how feeble or inadequate it may seem.  
 
-If we can get extraordinarily good at inspiring, connecting, aligning, and empowering small groups to make local progress towards [[Universal Goals and Values]], every other good goal and objective we could imagine becomes possible via the collective potential that grows each time a new group connects. 
+If we can get extraordinarily good at inspiring, connecting, aligning, and empowering small groups to make local progress towards [[Universal Goals and Values]], every other good goal and objective we could imagine becomes possible via the collective potential that grows each time a new group connects.  
 ____
 ## Next Step - Pilot Groups
 
 The **NEXT STEP** is for Lionsberg to engage several **Pilot Groups** in a **Minimum Viable Experience**. 
 
-I intend to personally participate in up to 12 groups to hold space for the movement to begin to coalesce into form. 
+I intend to personally participate in up to 12 groups to hold space for the movement to begin to coalesce into form.  
 ___
 ## Action
 
@@ -54,5 +54,3 @@ ____
 ## Frequently Asked Questions
 
 See [[Frequently Asked Questions]] for more. 
-
-

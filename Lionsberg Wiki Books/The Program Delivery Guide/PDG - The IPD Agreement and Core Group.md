@@ -71,6 +71,6 @@ The Core Group must exhibit these behaviors not only in meetings but throughout 
 
 ___
 
-_Previous: [[PDG - Program Support and Financial Management]]_
-_Next: [[PDG - Community of Practice]]_
+_Previous: [[PDG - Program Support and Financial Management]]_  
+_Next: [[PDG - Community of Practice]]_  
 _Return to [[The Program Delivery Guide]]_

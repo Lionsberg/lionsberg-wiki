@@ -12,6 +12,6 @@ The American Spirit of honor, integrity, and enterprise is a legacy that has bee
 
 ___
 
-Forward to [[II.D. The Early Rise of America as a Global Leader]]      
-Back to [[II.B. The Founding Principles of Liberty, Justice, and Equality]]      
+Forward to [[II.D. The Early Rise of America as a Global Leader]]  
+Back to [[II.B. The Founding Principles of Liberty, Justice, and Equality]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

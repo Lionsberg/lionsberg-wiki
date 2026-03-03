@@ -126,6 +126,3 @@
     -   creating potential structures or experiments to create conditions where people can thrive... 
     -   action testing and trying to create places and spaces that allow the patterns to emerge... 
     -   
-
-
-

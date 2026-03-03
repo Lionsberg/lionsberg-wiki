@@ -4,8 +4,7 @@ The trees are intelligent, branching, neurological structures, every cell of whi
 
 ___
 
-Forward to [[Meditation 662]]   
+Forward to [[Meditation 662]]  
 Back to [[Meditation 660]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
 Read other [[Lionsberg Wiki Books]] 
-

@@ -12,9 +12,9 @@ The [[LIONSBERG System]] transmits Wisdom, Knowledge, and Training in the Energe
 
 This training is unique on Earth, unlike anything you will have experienced in the past, and is available exclusively to committed members of the LIONSBERG Community.
 
-___
+___  
 All Practitioners begin with a 90 Day Trial to gauge commitment and fit  
 If mutual consent remains, Practitioners enter a Three Year Window where they will be introduced to foundational skills and the LIONSBERG Community.  
 From there a seven year path towards mastery begins.  
-____
+____  
 [[The Warrior’s Intermittent Fasting Protocol]]  

@@ -14,7 +14,7 @@ Positing a group size range of 3 to 20, and an average group size of 7, and 7.77
 
 If adoption pattern expands along roughly the Golden Ratio of 1.61803 expansion per reciprocal cycle, we would surpass 1 billion on the 44th cycle assuming zero loss rate. 
 
-If we add is loss / attrition rates, the number of cycles changes as follows: 
+If we add is loss / attrition rates, the number of cycles changes as follows:  
 - 0% Loss Rate - 44 Cycles
 - 10% Loss Rate - 49 Cycles  
 - 20% Loss Rate - 54 Cycles 
@@ -62,4 +62,3 @@ Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] 
 - _This will result in us being able to accomplish our [[Aim]] of connecting and empowering 1 billion [[Sovereign]] and [[Autonomous]] groups, encompassing 97% of humanity, around shared Goals and Values, within 7 years... 
 
 These various ratios should be monitored. 
-

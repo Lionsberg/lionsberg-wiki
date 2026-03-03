@@ -117,4 +117,3 @@ The incident was reported in the April 19, 1897, edition of _The Dallas Morning 
 - **Documentaries:**
     
     - _Aurora: The UFO Crash of 1897_ – Documentary revisiting the case and its implications.
-

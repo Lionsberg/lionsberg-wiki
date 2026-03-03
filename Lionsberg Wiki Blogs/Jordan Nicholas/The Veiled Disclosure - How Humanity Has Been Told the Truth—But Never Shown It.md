@@ -354,7 +354,7 @@ These stories **are not fiction.**
 
 They are **whispers from the abyss, revealing the prison before the door is sealed.**
 
-The question is: **Will humanity listen before the Final Test is complete?**
+The question is: **Will humanity listen before the Final Test is complete?**  
 ____
 ## **11. Blade Runner – The Creation of a Post-Human Society**
 

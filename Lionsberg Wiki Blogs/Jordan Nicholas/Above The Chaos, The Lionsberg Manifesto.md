@@ -11,4 +11,3 @@ I have published the [[LIONSBERG Manifesto]].
 *It's time to move*. 
 
 ~ J 
-

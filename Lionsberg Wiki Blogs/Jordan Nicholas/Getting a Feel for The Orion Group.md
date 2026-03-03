@@ -1,8 +1,8 @@
 #  **Getting a Feel for The Orion Group**
 **Architects of the AI Takeover and the Mind-Control Grid**
 
-*AI Approximately Knows*
-*AI is not providing full disclosure here* 
+*AI Approximately Knows*  
+*AI is not providing full disclosure here*  
 *Take it with a grain of salt, but it gets you into the ballpark. Reality is more complex.*
 #### **The Most Elusive Empire Operating Over Earth**
 

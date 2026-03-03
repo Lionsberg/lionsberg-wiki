@@ -54,12 +54,12 @@ My [[Current Best Understanding]] is that We have until December 2026 to unite a
 	3. Nobody ever complied their way out of totalitarianism - the only thing we can do it resist  
 19. [FBIs Ted Gunderson -](https://x.com/SpartaJustice/status/1741342776774504738)   
 	1. Intelligence / Illuminati / Satanic Cult ties - 0:35, 20:45  
-	2. Report to US Senate Intelligence Committee - satanic illegal US rogue criminal enterprise - every evil you can think of, sex slavery, human sacrifice, body parts, etc. - 22:25, 45:00
+	2. Report to US Senate Intelligence Committee - satanic illegal US rogue criminal enterprise - every evil you can think of, sex slavery, human sacrifice, body parts, etc. - 22:25, 45:00  
 	3. Deep state ties to Oklahoma City Bombing - 1:30, 5:45   
 	4. Deep state ties to 1993 World Trade Center Bombing - 10:35  
 	5. Deep state ties to Pearl Harbor - 2:25  
 	6. Deep state ties to JFK Assassination - 3:00  
-		1. Lyndon Johnson, J. Edgar Hoover, Murchison, etc. 
+		1. Lyndon Johnson, J. Edgar Hoover, Murchison, etc.  
 	7. Deep state ties to Ruby Ridge - 5:24  
 	8. Deep state ties to Waco / Clinton body guards - 8:53  
 	9. Deep state ties to 9/11 - 8:30, 11:45  
@@ -67,7 +67,7 @@ My [[Current Best Understanding]] is that We have until December 2026 to unite a
 	11. Deep state ties to Los Angeles drugs - 18:45  
 	12. Deep state ties to military / police / intelligence smuggling of drugs in bodies of dead GIs coming out of SE Asia - 20:00  
 	13. Deep state ties to Franklin Coverup - John Camp - satanic cult / child trafficking / the finders (CIA operation since 1960s) / blackmail - 42:05  
-	14. Deep state ties to election corruption - 49:40 
+	14. Deep state ties to election corruption - 49:40  
 	15. Bottom Line: Pawns in the Game (Book) - May 1 1776 Jesuit Priest announced 25 goals to take over the world - 47:00  
 20. [‘There Is No Epstein Client List,’ Say Epstein's Clients](https://x.com/TheBabylonBee/status/1942712862956192232)  
 21. [Pam Bondi states she has the Epstein docs on her desk](https://x.com/ggreenwald/status/1942995958196781504)  

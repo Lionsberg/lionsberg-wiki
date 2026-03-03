@@ -12,6 +12,6 @@ To restore the culture and values of the American Dream, Americans must reject t
 
 ___
 
-Forward to [[IV.A. The Need for a New American Revolution]]        
-Back to [[III.E. Decline In Global Influence]]        
+Forward to [[IV.A. The Need for a New American Revolution]]  
+Back to [[III.E. Decline In Global Influence]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

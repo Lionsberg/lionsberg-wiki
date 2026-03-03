@@ -10,7 +10,7 @@
 
 ## Lean Philosophy
 
-Lean philosophy identifies 60-70% waste across all industries. We want to be best, most efficient. Begins by aligning on the overall vision and goal, coarsely stated and then gradually filling in details.
+Lean philosophy identifies 60-70% waste across all industries. We want to be best, most efficient. Begins by aligning on the overall vision and goal, coarsely stated and then gradually filling in details.  
 
 ## Agenda
 - [x] state the vision
@@ -26,7 +26,7 @@ Lean philosophy identifies 60-70% waste across all industries. We want to be bes
 
 ### Key roles (actors, personas) impacted by this process
 
-Everything interacts, focus on relationships between:
+Everything interacts, focus on relationships between:  
 
 - Government and Institutions (Judy)
 - Business (Bill L.)

@@ -9,4 +9,3 @@ Stacking Up and Aligning requires individuals to reflect on their personal visio
 By Stacking Up and Aligning our Visions and contributions, individuals, teams, and the Team of Teams can focus their efforts and work together effectively towards our shared Vision and Goals. It helps to ensure that individual and collective efforts are aligned with the larger system, and that the work is completed on time, within budget, and to the desired quality standards so that All can flourish. 
 
 It is the stacking up and aligning of many unique visions and goals, in service of the Meta Goal, that causes the Whole to function as one body towards one Vision and Goal. 
-

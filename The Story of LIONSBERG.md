@@ -1,5 +1,5 @@
 # **The Story of LIONSBERG**
-_A Living Epic of ONE Body, All Realms, All Times_
+_A Living Epic of ONE Body, All Realms, All Times_  
 
 ## **Invocation**
 
@@ -535,7 +535,7 @@ without any central control
 There are no winners over others —  
 Only worlds that remember Who We Are  
 and how to consciously co-create Heaven  
-right Here and Now
+right Here and Now  
 
 ### How The Flame Spreads
 
@@ -626,16 +626,16 @@ The future is in your hands
 
 ---
 
-**[[The Invitation]]** — the shareable Seed to pass to others
-**[[LIONSBERG 101]]** — the complete Pattern in concentric rings
-**[[Welcome to LIONSBERG]]** — the essential guide showing the Way
+**[[The Invitation]]** — the shareable Seed to pass to others  
+**[[LIONSBERG 101]]** — the complete Pattern in concentric rings  
+**[[Welcome to LIONSBERG]]** — the essential guide showing the Way  
 
-When you are ready to play
-➡️ **[[The Great Game of LIONSBERG]]**
-
----
-_For those who wish to know the full biographical account of the one who planted the Seed, see [[Jordan's Short Story]]. Following his death on August 10, 2025, the essential arc of his story has been woven into the narrative above._
+When you are ready to play  
+➡️ **[[The Great Game of LIONSBERG]]**  
 
 ---
-For co-creative reference:
+_For those who wish to know the full biographical account of the one who planted the Seed, see [[Jordan's Short Story]]. Following his death on August 10, 2025, the essential arc of his story has been woven into the narrative above._  
+
+---
+For co-creative reference:  
 - [[The Story of LIONSBERG — Drafts and Explorations]]

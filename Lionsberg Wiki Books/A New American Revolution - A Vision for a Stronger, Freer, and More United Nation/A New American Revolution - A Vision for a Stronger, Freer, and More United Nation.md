@@ -10,7 +10,7 @@ By [[Jordan Nicholas Sukut]]
 
 ### A. America's Crisis of Confidence and Faith
 
-[[I.A. America's Crisis of Confidence and Faith]] 
+[[I.A. America's Crisis of Confidence and Faith]]  
 
 ### B. Importance of Resurrecting and Rekindling the Spirit of America 
 
@@ -18,7 +18,7 @@ By [[Jordan Nicholas Sukut]]
 
 ### C. Thesis Statement 
 
-[[I.C. Thesis Statement]] 
+[[I.C. Thesis Statement]]  
 
 ## II. The American Dream: The Pursuit of the Ideal 
 
@@ -32,7 +32,7 @@ By [[Jordan Nicholas Sukut]]
 
 ### C. The American Spirit: A Legacy of Honor, Integrity, and Enterprise 
 
-[[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]
+[[II.C. The American Spirit - A Legacy of Honor, Integrity, and Enterprise]]  
 
 ### D. The Early Rise of America as a Global Leader 
 
@@ -40,13 +40,13 @@ By [[Jordan Nicholas Sukut]]
 
 ### E. Progressing Towards the Ideal
 
-[[II.E. Progressing Towards the Ideal]] 
+[[II.E. Progressing Towards the Ideal]]  
 
 ## III. The Disillusionment: Where America Has Failed 
 
 ### A. God's Name in Vain: The Misrepresentation of God in Religion, Politics, and Culture 
 
-[[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]
+[[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]  
 
 ### B. The Hypocrisy of American Idealism  
 
@@ -76,11 +76,11 @@ By [[Jordan Nicholas Sukut]]
 
 ### B. The Need for a New Vision and Plan 
 
-[[IV.B. The Need for a New Vision and Plan]] 
+[[IV.B. The Need for a New Vision and Plan]]  
 
 ### C. Building Bridges Across Political, Spiritual, and Socioeconomic Divides 
 
-[[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]] 
+[[IV.C. Building Bridges Across Political, Spiritual and Socioeconomic Divides]]  
 
 ### D. Embracing Timeless Wisdom, Principles and Values  
 
@@ -106,45 +106,45 @@ By [[Jordan Nicholas Sukut]]
 
 ### C. Real Pathways Towards Universal Aspirations 
 
-[[V.C. Real Pathways Towards Universal Aspirations]]
+[[V.C. Real Pathways Towards Universal Aspirations]]  
 
 ### D. Equal Opportunity and Access for All Citizens  
 
-[[V.D. Equal Opportunity and Access for All Citizens]] 
+[[V.D. Equal Opportunity and Access for All Citizens]]  
 
 ### E. Freedom, Agency, and Responsibility  
 
-[[V.E. Freedom, Agency, and Responsibility]]
+[[V.E. Freedom, Agency, and Responsibility]]  
 
 ### F. America as a Beacon of Hope, Freedom, and Strength In the World
 
-[[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]] 
+[[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]]  
 
 ### G. A New Vision For America
 
-[[V.G. A New Vision For America]] 
+[[V.G. A New Vision For America]]  
 
 ## VI. Conclusion 
 
 ### A. Recap of the American Crisis of Confidence and Faith
 
-[[VI.A. Recap of the American Crisis of Confidence and Faith]] 
+[[VI.A. Recap of the American Crisis of Confidence and Faith]]  
 
 ### B. The Power and Potential of the American Spirit
 
-[[VI.B. The Power and Potential of the American Spirit]] 
+[[VI.B. The Power and Potential of the American Spirit]]  
 
 ### C. The Non-Inevitability of Failure and Decline 
 
-[[VI.C. The Non-Inevitability of Failure and Decline]]
+[[VI.C. The Non-Inevitability of Failure and Decline]]  
 
 ### D. A Call to Action for a New American Revolution
 
-[[VI.D. A Call to Action for a New American Revolution]] 
+[[VI.D. A Call to Action for a New American Revolution]]  
 
 ### E. Continuously Improving the New Vision and Plan
 
-[[VI.E. Continuously Improving the New Vision and Plan]] 
+[[VI.E. Continuously Improving the New Vision and Plan]]  
 
 
 ## VII. Epilogue

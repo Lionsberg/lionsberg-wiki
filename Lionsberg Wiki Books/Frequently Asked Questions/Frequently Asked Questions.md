@@ -68,5 +68,3 @@ This page is a [[Work In Progress]] in which are going to begin to answer some f
 1. [[FAQ - How Does Governance Work in the Lionsberg System?]] 
 2. [[FAQ - How Will We Make Decisions?]] 
 3. [[FAQ - What If We Disagree?]] 
-
-

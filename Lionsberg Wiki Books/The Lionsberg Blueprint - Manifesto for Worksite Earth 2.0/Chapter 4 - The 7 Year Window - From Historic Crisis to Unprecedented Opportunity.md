@@ -72,4 +72,3 @@ Ultimately, this new social contract must fulfill all the requirements of the Ne
 The next seven years represent a critical period for humanity, filled with both peril and promise. Immediate and decisive action is imperative, but so too is Patience, Wisdom, moral Integrity, and a Vision that aligns with the Highest Spiritual Principles and Values. In tackling the immense challenges that lie ahead, we have the opportunity not just to avert catastrophe but to transcend our limitations and co-create a new reality that could be better for All, than anyone has ever enjoyed in the past. 
 
 The path forward may be fraught with difficulty, but it is also laden with unprecedented opportunity. By recognizing the urgency of the moment and acting in accordance with divine wisdom, we can collectively write a new chapter in the human story, one that honors the Creator and serves all of Creation. This is the path toward the Ultimate Goal—on Earth as it is in Heaven.
-

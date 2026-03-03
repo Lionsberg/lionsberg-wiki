@@ -4,7 +4,7 @@ As we journey along the **Critical Path** into 2025, these threads weave the fou
 
 ## **Introduction**
 
-[[144 Threads - A Final Call to Awaken and Act]] 
+[[144 Threads - A Final Call to Awaken and Act]]  
 ## **Section I: Awakening and Alarm**
 
 [[1. Sounding the Alarm]]  
@@ -63,7 +63,7 @@ As we journey along the **Critical Path** into 2025, these threads weave the fou
 
 [[49. Visible and Invisible Power Structures]]  
 [[50. The Harsh Realities of Systems Collapse]]  
-[[51. Engineered Chaos and Trauma - The Pathway to Kontrolle]] 
+[[51. Engineered Chaos and Trauma - The Pathway to Kontrolle]]  
 [[52. AI, Robotics, and Job Obsolescence]]  
 [[53. Ecological Collapse and Accelerating Mass Extinction]]  
 [[54. Population Decline and Mass Migration]]  
@@ -105,7 +105,7 @@ As we journey along the **Critical Path** into 2025, these threads weave the fou
 [[100. Transforming Wellness Systems]]  
 [[101. Transforming Economic Systems]]  
 [[102. Transforming Debt, Currency, and Value Systems]]  
-[[103. Transforming Scientific Systems]]. 
+[[103. Transforming Scientific Systems]].  
 [[104. Transforming Technology Systems]]  
 [[105. Transforming Food Systems]]  
 [[106. Transforming Water and Sanitation Systems]]  
@@ -122,7 +122,7 @@ As we journey along the **Critical Path** into 2025, these threads weave the fou
 [[117. Upholding Shared Vision, Culture, and Values]]  
 [[118. Redefining Sovereignty, Boundaries, and Migration]]  
 [[119. Building Constructive New Peace and Security Systems]]  
-[[120. A New Operating Manual for Civilization]]
+[[120. A New Operating Manual for Civilization]]  
 
 ## **Section VI: The Cosmic Context**
 
@@ -160,6 +160,3 @@ As we journey along the **Critical Path** into 2025, these threads weave the fou
 ## **Conclusion** 
 
 [[The Final Declaration - A New Civilization Begins]]  
-
-
-

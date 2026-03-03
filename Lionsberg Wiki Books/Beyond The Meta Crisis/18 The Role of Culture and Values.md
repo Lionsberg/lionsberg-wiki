@@ -32,6 +32,6 @@ To achieve these goals, we must build a culture that supports and reinforces the
 
 ___
 
-Forward to [[19 The Role of Technology and Innovation]]    
+Forward to [[19 The Role of Technology and Innovation]]  
 Back to [[17.3 The potential for the New Vision and Plan to address the root causes of the Meta Crisis and prevent future crises]]  
 Back to table of contents [[Beyond The Meta Crisis - A Blueprint for a Better Future]] 

@@ -42,4 +42,3 @@ Forward to [[A Starting Point - Navigating Biblical Translations in Pursuit of S
 Back to [[Parsing the Conceptual Meta Canon from the Wisdom and Perspective of God - An Ontological Exploration]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

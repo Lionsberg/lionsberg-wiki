@@ -13,4 +13,3 @@ We decided that it should be as perfectly True, Loving, Just, Wise, and Good as 
 And recognizing that [[We Do Not Know]], we built it to eternally elevate and transform towards [[The Goal]]. 
 
 ___
-

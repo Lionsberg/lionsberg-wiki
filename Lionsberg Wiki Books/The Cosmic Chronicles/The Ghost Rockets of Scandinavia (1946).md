@@ -122,4 +122,3 @@ The Ghost Rockets attracted the interest of international intelligence agencies,
     
     - Swedish UFO Archive: [https://www.ufo.se](https://www.ufo.se/)
     - NICAP Reports on Ghost Rockets: [https://www.nicap.org](https://www.nicap.org/)
-

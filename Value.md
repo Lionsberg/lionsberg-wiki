@@ -111,7 +111,7 @@ Then, the definition of Value becomes clear.
 
 If it does not produce [[Throughput]] of the [[Meta Goal]], it is [[Waste]]. 
 
-And the [[Meta Goal]] is the [[One Thing]] that is (something like)
+And the [[Meta Goal]] is the [[One Thing]] that is (something like)  
 - _The total integrated wellbeing, development, and right relationship of all generations of life._
 
 ## Clarity on Waste
@@ -123,4 +123,3 @@ Therefore, we need to cease the wasteful activity, and redirect all that capital
 The final note is that this [[Meta System]] needs to be co-operated through the voluntary association and free will of decentralized, sovereign, autonomous agents collaborating to bring the Goal into Reality. 
 
 This can be done by forging a shared and continuously improving undersatnding of the [[Critical Path]] or [[Critical Chain]] that marks the [[Way]] towards the Goal, and each doing what is uniquely ours to do to advance along it. 
-

@@ -256,5 +256,5 @@ ______
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  
 
-The full strategy is reflected [[The Lionsberg Strategy and Plan]]. 
+The full strategy is reflected [[The Lionsberg Strategy and Plan]].  
 Following [[J's Death]] a retrospection / [[OmniSpection]] should be performed, and the strategy and plan continually improved by the players of The Game. 

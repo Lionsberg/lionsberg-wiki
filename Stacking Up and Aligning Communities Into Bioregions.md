@@ -1,8 +1,8 @@
 # Stacking Up and Aligning Communities Into Bioregions
 
-_Communities do not exist in isolation.
-They are nested in watersheds, ecosystems, and landscapes
-that have been alive for millennia before any human institution arose.
+_Communities do not exist in isolation.  
+They are nested in watersheds, ecosystems, and landscapes  
+that have been alive for millennia before any human institution arose.  
 The [[New Civilization]] organizes itself along these living lines._
 
 ---
@@ -53,9 +53,9 @@ You do not need to organize a Bioregion from scratch. You need to strengthen you
 
 As Communities mature and connect, the Bioregional pattern emerges organically — the same way a forest emerges from individual trees rooting, growing, and interweaving their canopies until the whole hillside breathes as one living system.
 
-Your Circle is a root.
-Your Community is a tree.
-Your Bioregion is the forest.
+Your Circle is a root.  
+Your Community is a tree.  
+Your Bioregion is the forest.  
 And the planet — the planet is the garden We are tending together.
 
 **By the time the Old structures fail, the living grid is already here.**

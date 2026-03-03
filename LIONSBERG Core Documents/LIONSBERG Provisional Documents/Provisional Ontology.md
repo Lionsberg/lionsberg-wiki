@@ -5,4 +5,3 @@
 [[Global Goals]]  
 [[Grand Challenges]]  
 [[The 12 Pillars of Lionsberg]]  
-

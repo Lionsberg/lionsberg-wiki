@@ -16,8 +16,8 @@ What if we All actually worked together and helped [[One Another]] towards that 
 
 It would require that we forge the [[Higher Order Functional Unity]] required to:
 
-1) Solve the total set of [[Grand Challenges]] 
-2) Accomplish the total set of [[Global Goals]] 
+1) Solve the total set of [[Grand Challenges]]  
+2) Accomplish the total set of [[Global Goals]]  
 3) Forge the [[Best Possible Future]] in partnership with [[ONE]] and [[All]]. 
 
 The [[One Thing]] is [[ONE]] and [[All]]. 

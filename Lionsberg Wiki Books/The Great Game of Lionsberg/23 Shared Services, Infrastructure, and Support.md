@@ -33,6 +33,6 @@ By providing shared services, infrastructure, and support, The Great Game of Lio
 
 ____
 
-Forward to [[24 Training and Capacity Building]]     
+Forward to [[24 Training and Capacity Building]]  
 Back to [[22 The Great Game of Lionsberg Toolkit]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

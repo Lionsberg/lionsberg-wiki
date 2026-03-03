@@ -1,11 +1,11 @@
 # Choose A Quest
 
-A [[Circle]] without a [[Quest]] is a gathering.
+A [[Circle]] without a [[Quest]] is a gathering.  
 A Circle with a Quest is a **force of transformation**.
 
-The Quest is where Spirit takes flesh.
-Where intention becomes embodiment.
-Where the New Civilization stops being an idea
+The Quest is where Spirit takes flesh.  
+Where intention becomes embodiment.  
+Where the New Civilization stops being an idea  
 And begins becoming **real** — in your hands, in your community, in the world.
 
 ---
@@ -21,7 +21,7 @@ Every Quest carries a dual nature:
 - **Outer** — it leaves a visible mark on the world. A garden planted. A neighbor served. A system built. A wound tended.
 - **Inner** — it stretches, awakens, and transforms the people who undertake it. You will not be the same on the other side.
 
-This is how Story becomes Life.
+This is how Story becomes Life.  
 This is how the [[New Civilization]] is built — one Quest at a time.
 
 ---
@@ -42,8 +42,8 @@ Your first Quest should be achievable within **weeks**, not months. Early succes
 
 ## How to Choose Your First Quest
 
-Gather your [[Circle]].
-Open with **[[The First Practice]]**.
+Gather your [[Circle]].  
+Open with **[[The First Practice]]**.  
 Then dialog and discern together:
 
 - **What need do we sense most strongly around us?** Look at your neighborhood, your community, your lives. What is crying out for attention?
@@ -52,14 +52,14 @@ Then dialog and discern together:
 - **What will stretch us but not break us?**
 - **What is the greatest good we can do right now** with who we are and what we have?
 
-Go slowly. Listen deeply. Be open, creative, receptive.
-Remember: Spirit is present in the room with you.
-Speak only from the true center of your being.
+Go slowly. Listen deeply. Be open, creative, receptive.  
+Remember: Spirit is present in the room with you.  
+Speak only from the true center of your being.  
 If something is not clear, wait in silence.
 
-If there is something that you see needs to be done,
-That no one is doing,
-That your Circle is capable of and passionate about —
+If there is something that you see needs to be done,  
+That no one is doing,  
+That your Circle is capable of and passionate about —  
 *It is probably yours to do.*
 
 ---
@@ -77,7 +77,7 @@ That your Circle is capable of and passionate about —
 - Document local wisdom from long-time residents or indigenous elders
 - Prototype a small expression of the New Civilization in your context
 
-The point is not scale.
+The point is not scale.  
 The point is **beginning the rhythm of embodied action**.
 
 ---
@@ -97,7 +97,7 @@ Completion matters. The power of a Quest is not in the idea or the initiation �
 
 ## The Spiral of Quests
 
-Every Quest leads to another.
+Every Quest leads to another.  
 Each one strengthens your Circle, deepens your trust, expands your capacity.
 
 Over time, your Quests will grow in depth and impact. Circles will unite into Guilds. Guilds will weave into Communities. Communities will join Communities. And the upward spiral will carry all of us toward Quests of planetary consequence.
@@ -110,11 +110,11 @@ But it all starts here — with the first Quest you dare to undertake.
 
 ---
 
-Your Circle has its Quest.
+Your Circle has its Quest.  
 Now you need to know who carries what.
 
 **The next play is [[Choose Your Roles]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The Architecture of The Playbook]] for the full navigation.  
 See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.

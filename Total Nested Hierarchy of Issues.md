@@ -49,7 +49,7 @@ The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Neste
 
 The [[LIONSBERG System]] is being co-created to instantiate / embody these solutions. 
 
-___
+___  
 To evaluate the parts of the prototype, we synthesized comprehensive lists of the challenges and opportunities facing humanity and life on earth. 
 
 As we look at the many challenges facing the world today, it can be overwhelming to consider the complexity and interconnectedness of these issues. From poverty and hunger, to conflict and environmental degradation, to corruption and injustice, it is clear that no single challenge exists in isolation. To effectively address these global challenges, it is critical to approach them from a systems point of view, considering the root causes and interdependencies that contribute to these issues. By understanding the bigger picture, we can identify key leverage points and prioritize solutions that address the underlying systematic causes rather than just the symptoms. This approach can help us to forge more effective and sustainable solutions that address the root causes of global challenges and work towards a more just and equitable world for all.
@@ -158,7 +158,7 @@ Challenges identified included issues such as:
 74. **Corruption of religious leaders**: The corruption of religious leaders by governmental and economic forces, who encourage them to use their positions of religious authority to unduly influence the thinking of the populations, can undermine the integrity of religious institutions and hinder the promotion of ethical values. Protecting the independence and integrity of religious leaders and institutions from outside interference can be important in addressing global challenges and promoting just and fair societies. 
 75. **Supply chain challenges**: There are many challenges and issues related to supply chains that can impact their sustainability and effectiveness. These include environmental impacts, social impacts, lack of transparency and accountability, risk and resilience, and inefficiency and waste. Ensuring that supply chains are sustainable, transparent, and efficient can be important in addressing global challenges and promoting just and fair societies.
 76. Predatory Marketing 
-	1. Junk food / processed food marketing and packaging 
+	1. Junk food / processed food marketing and packaging  
 	2. Advertising human and environmental harms to children 
 
 ____

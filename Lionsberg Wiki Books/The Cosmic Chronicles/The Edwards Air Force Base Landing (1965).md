@@ -97,4 +97,3 @@ Audio recordings from the base’s control tower captured the astonished reactio
 - **Documentaries:**
     
     - _The Edwards Air Force Base UFO Incident: A Military Perspective_ (1990).
-

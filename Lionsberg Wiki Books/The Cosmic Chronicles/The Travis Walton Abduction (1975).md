@@ -91,4 +91,3 @@ Five days later, Walton reappeared near a gas station, disoriented and confused.
     
     - Clark, Jerome. _The UFO Encyclopedia._
     - Dolan, Richard. _UFOs and the National Security State._
-

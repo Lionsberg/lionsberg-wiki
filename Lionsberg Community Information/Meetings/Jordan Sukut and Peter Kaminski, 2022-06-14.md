@@ -44,6 +44,3 @@ Friends and Relatives
 ## Observations
 
 - The tension - between executing plans... and letting plans that want to emerge unfold as they need to... 
-
-
-

@@ -11,4 +11,3 @@ However the text did not square his direct personal relationship with, and Knowl
 It was a very sensitive topic, because many of his Loved Ones would have likely gone so far as to question his salvation, and worry he might suffer [[Eternal Conscious Torment]] in [[Hell]], for questioning the absolute Authority and Inerrancy of The Bible as The Word of God. 
 
 It was not their fault... it was what they had been brainwashed into in their local section of [[The Caves]]. 
-

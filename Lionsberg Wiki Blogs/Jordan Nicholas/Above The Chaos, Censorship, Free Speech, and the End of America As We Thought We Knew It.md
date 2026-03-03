@@ -1,31 +1,31 @@
 # Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It
 
-By [[Jordan Nicholas Sukut]], 2024.02.18 _(updated 2024.02.18)_
+By [[Jordan Nicholas Sukut]], 2024.02.18 _(updated 2024.02.18)_  
 
 A post in [[Above The Chaos]]  
 
-Greetings friends and allies, 
+Greetings friends and allies,  
 
-Tucker Carlson recently interviewed Mike Benz in what Robert F. Kennedy called "one of the most remarkable interviews ever: How the Pentagon and CIA created a Censorship Industrial Complex to fix US elections."
+Tucker Carlson recently interviewed Mike Benz in what Robert F. Kennedy called "one of the most remarkable interviews ever: How the Pentagon and CIA created a Censorship Industrial Complex to fix US elections."  
 
-It is worth watching, and us working together to understand. 
+It is worth watching, and us working together to understand.  
  
 [Tucker Carlson X Brian Benz Interview](https://x.com/tuckercarlson/status/1758529993280205039?s=46&t=6Tqe5bY9704fmywTF-3e6A)    
 
-For the last couple years, I have been arguing that 2024 is likely to be the last quasi-democratic election in US history. If we do not sort this out NOW, the American Experiment we thought we were living in is over. 
+For the last couple years, I have been arguing that 2024 is likely to be the last quasi-democratic election in US history. If we do not sort this out NOW, the American Experiment we thought we were living in is over.  
 
-Because of the degree of abject and permeating corruption and deceit in the [[Invisible Power Structures]] puppeting the [[Visible Power Structures]], only a radical 
-response at the constitutional level has any chance of succeeding in curing the cancer that is destroying the United States, the European Union, Western Civilization, and therefore the world. 
+Because of the degree of abject and permeating corruption and deceit in the [[Invisible Power Structures]] puppeting the [[Visible Power Structures]], only a radical  
+response at the constitutional level has any chance of succeeding in curing the cancer that is destroying the United States, the European Union, Western Civilization, and therefore the world.  
 
-As reiterated in [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]], I believe this requires 70% of Americans getting behind a constitutional amendment to fundamentally reset the American Experiment, shrink the federal government by at least 80%, decentralize and redistribute power and authority back to states and localities, and make the US among the first nations to enact and embody the New Covenant.
+As reiterated in [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]], I believe this requires 70% of Americans getting behind a constitutional amendment to fundamentally reset the American Experiment, shrink the federal government by at least 80%, decentralize and redistribute power and authority back to states and localities, and make the US among the first nations to enact and embody the New Covenant.  
 
-I cannot repeat this enough... the existing Order is failing, and no family on Earth is safe. 
+I cannot repeat this enough... the existing Order is failing, and no family on Earth is safe.  
 
-I took the time to take notes on the podcast to begin mapping the issues discussed for action since they are very near to the root cause of the [[Meta Crisis]]. 
+I took the time to take notes on the podcast to begin mapping the issues discussed for action since they are very near to the root cause of the [[Meta Crisis]].  
 
-I pray you find it useful, and that together we can build on it to move beyond basic awareness into coordinated plans of action. 
+I pray you find it useful, and that together we can build on it to move beyond basic awareness into coordinated plans of action.  
 
-______
+______  
 
 ## Jordan's Notes From The Mike Bencz Interview 
 

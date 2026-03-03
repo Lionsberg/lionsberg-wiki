@@ -130,4 +130,3 @@ Historical accounts from explorers and soldiers in the region also reference "gi
 - **Documentaries:**
     
     - _The Kandahar Giant Incident_ – Investigative reports and interviews with military insiders.
-

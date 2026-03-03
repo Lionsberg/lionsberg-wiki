@@ -129,4 +129,3 @@ Antarctica remains a critical location in unraveling the mystery of extraterrest
     
     - _Above Majestic_
     - _The Secret Antarctica Files_
-

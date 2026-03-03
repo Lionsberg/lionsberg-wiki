@@ -95,4 +95,3 @@ Hickson and Parker immediately went to the local sheriff’s office to report th
     
     - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-

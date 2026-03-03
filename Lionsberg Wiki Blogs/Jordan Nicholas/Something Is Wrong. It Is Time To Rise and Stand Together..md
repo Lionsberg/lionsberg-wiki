@@ -1,6 +1,6 @@
 # Something Is Wrong. It Is Time To Rise and Stand Together.
 
-![[Woman Jumps Over Barbed Wire.jpeg]]
+![[Woman Jumps Over Barbed Wire.jpeg]]  
 *Nairobi protests, June 25, 2025, source unknown* 
 
 A Post in [[Above The Chaos]]  
@@ -107,4 +107,3 @@ If you feel this resonance and call, please Join Us as a Supporter or a Founding
 In Unwavering Faith, Hope, and Love, 
 
 ~ J  
-

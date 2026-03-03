@@ -6,7 +6,7 @@ With these two criteria fulfilled, it lives according to the fullness of the [[U
 
 *"[[Love]] does no harm to a neighbor. Therefore love is the fulfillment of [[The Law]]."*
 
-*“Teacher, which is the greatest commandment in [[The Law]]?”
+*“Teacher, which is the greatest commandment in [[The Law]]?”  
 [[Jesus]] replied: “‘[[Love]] the [[LORD]] your [[God]] with all your [[Heart]] and with all your [[Soul]] and with all your [[Mind]].’ This is the first and greatest commandment. And the second is like it: ‘[[Love]] your neighbor as yourself.’ All [[The Law]] and [[The Prophets]] hang on these two commandments.”*
 
 From the Infinite, Universal, Eternal, Ineffable, and Unwritten Law of Love, which reflects the [[Spirit]] of Love, which ultimately reflects the [[Spirit of God]], every aspect of [[Wise Right]] action and the [[Way of God]] can be discerned. 

@@ -686,5 +686,3 @@ _Integrating the 99 Revelations for a new Story of Earth and Humanity._
 - Co-create the New Civilization
 
 ____
-
-

@@ -121,7 +121,7 @@ Every great tradition knows this: outer change without inner change merely repli
 
 This is **[[The Sacred Ascent]]** — the vertical dimension of the journey.
 
-**The Game is horizontal** — circles, quests, federation, the co-creation of Heaven On Earth at scale.
+**The Game is horizontal** — circles, quests, federation, the co-creation of Heaven On Earth at scale.  
 **The Ascent is vertical** — the integral development of every dimension of your being: physical, emotional, intellectual, spiritual, and consciousness itself.
 
 Both are required. Pattern without transformation produces institutional religion — structure without power. Transformation without pattern produces isolated mystics who change nothing at scale. The Way holds both.

@@ -89,4 +89,3 @@ The children, frightened yet fascinated, ran to inform teachers, who initially d
     
     - Mack, John E. _Passport to the Cosmos: Human Transformation and Alien Encounters._
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
-

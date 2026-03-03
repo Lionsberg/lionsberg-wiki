@@ -31,7 +31,7 @@ These opposing forces converge in [[The Great UnVeiling]] and [[The War]] for th
 - _Will humanity awaken, arise, and unite to reclaim its rightful inheritance among the co-creative powers of the Cosmos?_
 - _Or will fear, disbelief, and [[Ontological Shock]] lead to submission, genocide, and enslavement?_
 
-This is [[The Great Question]]. 
+This is [[The Great Question]].  
 This is [[The Final Test]]. 
 
 ### **The Need for Unity**
@@ -44,8 +44,8 @@ What is the [[One Thing]]—seen as impossible—that, if achieved, would change
 
 The answer is clear: _**UNITY between [[ONE]] and [[All]].**_
 
-This is [[The Answer]] to [[The Great Question]]. 
-It is [[The Key]] to [[The Final Test]]. 
+This is [[The Answer]] to [[The Great Question]].  
+It is [[The Key]] to [[The Final Test]].  
 It is [[The One Thing That Makes All Things Possible]]. 
 
 ### **The Creator’s Invitation**

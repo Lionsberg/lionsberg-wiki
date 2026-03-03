@@ -10,7 +10,7 @@ The measurement of the [[Lionsberg Cycle Time]] begins with each new social expe
 
 # Spring 2025 Experiment
 
-Germinating... 
+Germinating...  
 See [[Above The Chaos]] for updates. 
 # Spring 2024 Experiment
 

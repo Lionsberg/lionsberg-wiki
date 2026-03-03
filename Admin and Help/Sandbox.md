@@ -12,4 +12,3 @@ This is a #hashtag, here's another: #MetaProject.
 
 
 _italic_ or **bold**
-

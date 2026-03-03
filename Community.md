@@ -6,4 +6,3 @@ The value of community represents the importance of connections and relationship
 One basic #epiphany is that in order to design and build a better word, we must inspire a global community of goodwill to design and build itself so that we can find one another, help one another, and pragmatically work together to gather and apply energy and resources. 
 
 See [[Lionsberg Community]]. 
-

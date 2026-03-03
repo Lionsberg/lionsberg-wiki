@@ -50,4 +50,3 @@ Together, let Us rediscover what was forgotten, reweave what was fragmented, and
 The Creator is inviting Us to awaken, arise, ReMember, and Co-Create Heaven on Earth and Beyond. 
 
 We begin Our Journey with an adventure into the [[Tao Te Ching]]. We will see you on The Path! 
-

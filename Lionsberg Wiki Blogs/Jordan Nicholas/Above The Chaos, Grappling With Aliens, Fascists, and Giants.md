@@ -106,7 +106,7 @@ As it turns out, our local [[Fascist Security State]] here on Earth has been col
 
 We are now in the opening stages of [[The 7 Year Window of Crisis and Opportunity]], during which humanity is faced with a once-in-a-millennia opportunity to awaken, transform our consciousness, transcend the lines that have separated us in the past, and reunite as [[ONE Body]] to escape [[Employee Consumer Debt Slavery]] and co-create [[Heaven On Earth]]. 
 
-However there is a very uncomfortable part of [[The Story]] that we cannot skip over: 
+However there is a very uncomfortable part of [[The Story]] that we cannot skip over:  
 [[The Promised Land]] is guarded by aliens, demons, and giants that won't simply allow us to enter in. To get there, we must first journey through [[The Wilderness]] and prevail in [[The War]] for the future of Civilization.  
 
 Further, in order to avoid an outright [[Collapse]], the [[New]] and [[Higher Order Functional Unity]] must be rapidly and voluntarily forged from the Bottom Up ***before*** the [[Existing Order]] disintegrates into [[Chaos]] or Tyranny, and the [[Fascist Security State]](s) move to consolidate power absolutely. 
@@ -150,8 +150,3 @@ Please [[Join The Movement]] to be connected to the rest of the Force For Good, 
 With Love, in Service to One and the Freedom and Flourishing of All, 
 
 ~ J 
-
-
-
-
-

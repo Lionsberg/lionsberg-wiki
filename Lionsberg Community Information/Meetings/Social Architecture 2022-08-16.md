@@ -119,4 +119,3 @@
 - Ways of Not Reverting to Old Models 
 - A way of merging and aligning vision over time 
 - How to make people feel loved, included, in the loop, credited, appreciated, acknowledged, etc. 
-

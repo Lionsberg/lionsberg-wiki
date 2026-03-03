@@ -7,5 +7,3 @@ The closer a [[Proposal]] gets to the [[Wise Right Thing]] and alignment with th
 The more 'out of tune' a proposal becomes, the more dissonance will be felt, until eventually it falls out of the [[Range of Tolerance]] of some or all members. 
 
 A member of a Group or [[Stewardship Council]] who does not [[Consent]] to a Proposal may require it to be improved, until the Proposal falls within the [[Range of Tolerance]] of all members of the [[Decision Making]] body. 
-
-

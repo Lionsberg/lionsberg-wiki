@@ -18,13 +18,13 @@ We have bootstrapped up this availability primarily through five stages:
 
 This means that, through this webpage alone, anyone in the world with an internet connection can access the highest quality learning opportunities available on earth. 
 
-[[Stage 1 - English As a Key to Unlock the Door of Knowledge]]
+[[Stage 1 - English As a Key to Unlock the Door of Knowledge]]  
 
-[[Stage 2 - Pre-School Through Early College]] 
+[[Stage 2 - Pre-School Through Early College]]  
 
-[[Stage 3 - University Level Learning]] 
+[[Stage 3 - University Level Learning]]  
 
-[[Stage 4 - The Lionsberg System and Approach]] 
+[[Stage 4 - The Lionsberg System and Approach]]  
 
 ## Stage 4: The Lionsberg System and Community
 

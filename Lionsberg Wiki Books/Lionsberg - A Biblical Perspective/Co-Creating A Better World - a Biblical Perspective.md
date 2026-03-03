@@ -35,6 +35,6 @@ As we partner with God in His work by the power of His Spirit, we transform and 
 
 ___
 
-Forward to [[Facing Into The Reality of the Meta Crisis]]     
+Forward to [[Facing Into The Reality of the Meta Crisis]]  
 Back to [[Transforming Our World Towards Perfection]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

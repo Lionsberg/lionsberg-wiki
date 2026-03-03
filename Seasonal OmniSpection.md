@@ -1,7 +1,7 @@
 # Seasonal OmniSpection
 
-Every solstice and equinox — roughly every 90 days —
-Every [[Circles|Circle]], Community, and Guild pauses.
+Every solstice and equinox — roughly every 90 days —  
+Every [[Circles|Circle]], Community, and Guild pauses.  
 Not to stop. To **see from above**.
 
 This is the **Seasonal OmniSpection** — a sacred rhythm of review, celebration, and renewal that keeps the living Body honest, learning, and aligned with [[The Goal]].
@@ -43,8 +43,8 @@ The Seasonal OmniSpection can be as simple as a single gathering — two to thre
 
 What matters is that it happens. Every Circle. Every season. Without fail.
 
-**The Circle that reflects together, grows together.
-The Circle that celebrates together, endures together.
+**The Circle that reflects together, grows together.  
+The Circle that celebrates together, endures together.  
 The Circle that chooses its next Quest together, transforms together.**
 
 This is how Heaven On Earth is built — not in one great leap, but season by season, Quest by Quest, Circle by Circle, each one wiser than the last.

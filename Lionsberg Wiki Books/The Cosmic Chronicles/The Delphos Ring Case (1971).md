@@ -111,4 +111,3 @@ Ron Johnson’s credibility as a witness was repeatedly affirmed by investigator
     
     - _The Delphos Ring Phenomenon_ – Exploration of scientific findings.
     - _UFO Evidence: Physical Traces_ – Broader context of UFO trace cases.
-

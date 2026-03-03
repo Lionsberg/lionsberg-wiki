@@ -58,7 +58,7 @@ Three can break a tie vote. A third perspective adds depth.
 ### Establish Rules of Participation
 Establish how people will participate in the Organization, and how the Organization will participate with other Organizations. 
 
-[[Rules of Participation]] 
+[[Rules of Participation]]  
 
 ## Establish a Field of Agreements 
 Establish a [[Field of Agreements]] to govern the Domain. 
@@ -99,7 +99,7 @@ We would recommend the steps above be followed so that it gets the green shoot o
 
 ## How to Operate and Organization
 
-[[Project Delivery Guide]]
+[[Project Delivery Guide]]  
 [[Process|Processes]]  
 
 ## Organizational Lifecycle

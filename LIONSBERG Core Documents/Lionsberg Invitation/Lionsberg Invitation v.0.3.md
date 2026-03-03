@@ -19,5 +19,3 @@ If you are interested, please let me know and we will look forward to connecting
 With Love and Respect, 
 
 (your name)
-
-

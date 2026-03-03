@@ -105,4 +105,3 @@ Robert Taylor was regarded as a reliable and honest man with no history of fabri
 - **Documentaries:**
     
     - _The Dechmont Woods Incident: Scotland’s UFO Mystery_ – A detailed exploration of the case.
-

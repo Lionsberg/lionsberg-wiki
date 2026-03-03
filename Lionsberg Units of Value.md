@@ -36,7 +36,7 @@ ___
 
 LUV is one component of LIONSBERG's strategy for **economic sovereignty** — progressively reducing dependency on the [[Old World]] economy while building internal capacity to meet all needs.
 
-As the system grows:
+As the system grows:  
 - Internal economic flows become increasingly significant
 - Communities become progressively self-sustaining
 - The dependency on external capital markets diminishes
@@ -46,5 +46,5 @@ This mirrors AA's Tradition 7: "Every AA group ought to be fully self-supporting
 
 ___
 
-_See [[Meaningful Work]], [[Time Currency]], and [[Capital Subordinate To Purpose]]._
+_See [[Meaningful Work]], [[Time Currency]], and [[Capital Subordinate To Purpose]]._  
 _See [[LIONSBERG 101]]._

@@ -8,7 +8,7 @@ ___
 
 From [[ONE]] — the [[Central Animating Spirit]] of [[Love]] — emanates an irreducible pattern that appears wherever human beings successfully cooperate at scale across generations.
 
-This pattern has been discovered independently by:
+This pattern has been discovered independently by:  
 - A Basque priest in a war-torn town ([[Mondragon]])
 - Two recovering alcoholics in Ohio (AA)
 - An Italian monk in the 6th century (Benedict)
@@ -58,13 +58,13 @@ ___
 
 These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a cosmic-grade operating system that enables any community or world that adopts it to self-organize, self-govern, produce, and federate with other communities and worlds also playing [[The Great Game]].
 
-The 2.5 million words of the LIONSBERG Wiki are the forest.
-The [[Twelve Irreducible Elements]] are the DNA.
+The 2.5 million words of the LIONSBERG Wiki are the forest.  
+The [[Twelve Irreducible Elements]] are the DNA.  
 [[Ring 0 - ONE]] is the Source from which the DNA emanates.
 
 **[[The Golden Seed]] is ready.**
 
 ___
 
-_Distilled in [[The Emergence of the Core Pattern]]._
+_Distilled in [[The Emergence of the Core Pattern]]._  
 _The full 101 class: [[LIONSBERG 101]]._

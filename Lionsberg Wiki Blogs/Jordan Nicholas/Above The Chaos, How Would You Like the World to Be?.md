@@ -14,7 +14,7 @@ Warm, wise, and right on time, How the World Got Better calls to the hero in eac
 
 None of us like the way things are going. We all know that [[What Got Us Here Will Not Get Us To Where We Want To Go]]. One of the first steps towards change is to Imagine something [[Better]]. 
 
-Greg and I would like to invite you into our ongoing conversation. 
+Greg and I would like to invite you into our ongoing conversation.  
 ___
 
 From Greg: 
@@ -44,9 +44,3 @@ To join us, simply:
 If you put your email address into the form, I will do my best to keep you up to date on our efforts to reimagine, redesign, and rebuild a [[Better World]].  
 
 ![[HowTheWorldGotBetter_CoverCROP_72dpi.png]]  
-
-
-
-
-
-

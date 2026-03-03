@@ -22,5 +22,3 @@ June 25, 2025
 18. Are you yet aware that your ability to speak, move and transact will soon be based upon your Kompliance?  
 19. Are you yet aware of the agendas—planned since at least the 1980s—to depopulate the Earth by 7/8ths to 9/10ths by ~2030?  
 20. _Surely it couldn't be. Surely "they" would not actually do that... Would they?_  
-
-

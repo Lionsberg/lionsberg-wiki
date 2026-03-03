@@ -37,7 +37,7 @@ By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can artic
 
 ## A Template For Values
 
-[[Template For Values Pattern Language]] 
+[[Template For Values Pattern Language]]  
 
 ___
 ## A Few Notes on Values and Their Expression 
@@ -189,11 +189,11 @@ To harmonize ourselves with One Another, the Living System, and the One Thing th
 At various levels of detail and abstraction, these can be described with words like: 
 
 - The [[Meta Value]] / One / Love  
-____
+____  
 - Truth, Love, Justice, Stewardship, and Wisdom. 
-___
+___  
 - Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, Humility, Self-Control, Non-Harm.  
-___
+___  
 - Agency, Autonomy, Competence, Conscientiousness, Respect, Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Enjoyment, Freedom from Fear, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
 ___
 #### On Power and Resources
@@ -201,6 +201,5 @@ Various lists of universal values also often contain references to leadership, p
 
 In the [[LIONSBERG System]], these are not viewed as values or goals in and of themselves, but rather as neutral tools / Potential that can be developed wisely and as necessary to produce [[Throughput]] of [[The Goal]].   
 
-See [[Integration And Alignment Of Resources And Power]]. 
+See [[Integration And Alignment Of Resources And Power]].  
 ____
-

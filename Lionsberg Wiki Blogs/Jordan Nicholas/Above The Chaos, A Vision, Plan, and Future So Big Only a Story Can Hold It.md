@@ -36,7 +36,7 @@ Equipped and empowered with the best solutions, designs, technologies, wisdom, k
 
 Within 7 years, every human being has been invited by someone they know, love, and trust into an entirely New Era of truth, love, justice, stewardship, and wisdom. As all things help all things develop towards the fullness of their potential and flourish in harmony, we continue to transform our weapons into tools of life, liberty, and love, and no longer do we train our children for war. 
 
-The New Era is at hand. 
+The New Era is at hand.  
 ___
 
 Everything you have been through, every battle you have fought, every hurt you have suffered, every triumph you have achieved have come together to make you who you are today. Which like us all is a perfectly imperfect, messy, beautiful, valuable-beyond-words blessing to the world. There is more value than you can imagine in who you have become, and in the story of how you got there. Even if that story causes you to read this from a place you don't feel proud of, or a place of such hurt, uncertainty, or depression that you are struggling to lift your eyes back up to the horizons. Whether you are reading this in a home, a tent on the side of a freeway, a sidewalk, a job, a refugee camp, a brothel, a church, or a bar, you are beautiful, you are loved, you are valuable, and you have a unique place in The New Story. 

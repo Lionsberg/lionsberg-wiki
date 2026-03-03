@@ -90,4 +90,3 @@ Personnel on the ground also witnessed the event, describing a bright, pulsating
 - **Documentaries:**
     
     - _Britain’s UFO Files: RAF Bentwaters and Beyond_ (2011).
-

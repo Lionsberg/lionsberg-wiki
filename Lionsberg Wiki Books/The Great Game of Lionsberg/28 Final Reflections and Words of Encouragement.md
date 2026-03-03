@@ -17,6 +17,6 @@ As you continue your [[Quest]] in The Great Game of Lionsberg, may you be guided
 
 ____
 
-Forward to [[29 The Universal Movement Towards The Goal]]    
+Forward to [[29 The Universal Movement Towards The Goal]]  
 Back to [[27 A Call to Action for Players]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

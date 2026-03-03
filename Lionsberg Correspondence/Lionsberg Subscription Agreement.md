@@ -12,22 +12,22 @@ Lionsberg is a global [[Community]] and [[Commons]] dedicated to connecting, ser
 
 By signing this Agreement, the Participant agrees to:
 
-a) Uphold the [[Values]] and [[Principles]] of the Lionsberg System, including but not limited to [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] 
-b) Actively contribute to the [[Progressive Realization]] of the [[Vision]], [[Goals]], and [[Objectives]] of the Lionsberg System and the [[New Vision and Plan]] by participating in [[Groups]] and [[Projects]], sharing knowledge and expertise, and supporting other Participants
-c) Engage in continuous learning, adaptation, and growth and help others do the same in line with the principles of [[Trust]], Continuous Learning and Improvement, and Covenant Relationship
+a) Uphold the [[Values]] and [[Principles]] of the Lionsberg System, including but not limited to [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]  
+b) Actively contribute to the [[Progressive Realization]] of the [[Vision]], [[Goals]], and [[Objectives]] of the Lionsberg System and the [[New Vision and Plan]] by participating in [[Groups]] and [[Projects]], sharing knowledge and expertise, and supporting other Participants  
+c) Engage in continuous learning, adaptation, and growth and help others do the same in line with the principles of [[Trust]], Continuous Learning and Improvement, and Covenant Relationship  
 d) Prioritize the well-being of [[Future Generations]]  
-e) Participate in the Lionsberg System in a respectful and cooperative manner, fostering a sense of community, belonging, and mutual service and support 
+e) Participate in the Lionsberg System in a respectful and cooperative manner, fostering a sense of community, belonging, and mutual service and support  
 f) Voluntarily and honestly give back a [[Meaningful Monthly Contribution]], which is at least 1/10th of the Participant's time, attention, and the value received from the Lionsberg System and Community, to ensure its ongoing regenerativity and effectiveness.
 
 3.  RIGHTS AND RESPONSIBILITIES
 
 The Participant acknowledges and agrees to the following rights and responsibilities within the Lionsberg System:
 
-a) Access to resources, support, and opportunities provided by the Lionsberg System and Community, subject to availability and any applicable eligibility requirements, including mentorship, training, networking, and collaboration opportunities 
+a) Access to resources, support, and opportunities provided by the Lionsberg System and Community, subject to availability and any applicable eligibility requirements, including mentorship, training, networking, and collaboration opportunities  
 b) Responsibility to maintain a respectful, loving, and cooperative environment within the Lionsberg community, promoting diversity and justice, and treating all Participants with dignity and respect  
 c) Responsibility to engage in Groups and Projects that help grow the Lionsberg Movement and Community, and which contribute towards the Progressive Realization of the Vision and Values set forth in the [[LIONSBERG Manifesto]] and the [[New Vision and Plan]]  
 d) Active engagement in conflict resolution and grievance processes, as needed, with a commitment to open communication, understanding, and finding mutually beneficial solutions  
-e) Compliance with all applicable laws, regulations, and community guidelines 
+e) Compliance with all applicable laws, regulations, and community guidelines  
 f) Participation in the ongoing evaluation and improvement of the Lionsberg System, providing feedback, suggestions, and ideas for enhancements and adjustments, as well as engagement in the implementation of identified improvements 
 
 4. RESOURCE STEWARDSHIP 
@@ -83,4 +83,3 @@ Participant Signature Lionsberg Authorized Representative Signature
 ---
 
 Date
-

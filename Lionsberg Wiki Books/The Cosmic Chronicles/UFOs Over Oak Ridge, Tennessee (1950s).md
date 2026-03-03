@@ -107,4 +107,3 @@ The U.S. Air Force and Atomic Energy Commission (AEC) conducted classified inves
     
     - _UFOs and Nukes: The Secret Link Revealed_ – Includes coverage of the Oak Ridge incidents.
     - _The Phenomenon_ – Explores nuclear-related UFO sightings in a broader context.
-

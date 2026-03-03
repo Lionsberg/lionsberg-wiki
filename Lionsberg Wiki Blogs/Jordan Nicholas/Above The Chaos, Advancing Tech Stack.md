@@ -12,4 +12,3 @@ We are working with the Massive Wiki team to build out the  [[README|Lionsberg W
 Additionally, we received the good news from the Open Future Coalition team that Open Impact, the core backbone infrastructure platform we funded and worked together on over the last year and a half, is now in use with ~ 170 organizations in ~ 17 countries. 
 
 Additionally, teams like Catalist and Map Weavers are continuing to advance powerful collaboration tools that will bringing new information to light in new ways. 
-

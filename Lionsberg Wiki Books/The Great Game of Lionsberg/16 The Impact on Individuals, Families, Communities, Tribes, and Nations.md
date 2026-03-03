@@ -19,6 +19,6 @@ The impact of The Great Game of Lionsberg is both deep and far-reaching, touchin
 
 ____
 
-Forward to [[17 The Impact on the Economy]]    
+Forward to [[17 The Impact on the Economy]]  
 Back to [[15.4 Fostering a Culture of Harmony and Unity within the Universe]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

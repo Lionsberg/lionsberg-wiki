@@ -22,7 +22,7 @@ Environmental collapse works its way up the web of life, from the most sensitive
 
 *As you do unto the least of these, you do unto Me...*
 
-___
+___  
 Forward to [[Chapter 6 - Why The Path Towards Apocalypse Affects Every Family On Earth]]  
 Back to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

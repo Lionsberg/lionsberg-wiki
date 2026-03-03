@@ -105,8 +105,8 @@ The rest will flow through to the distributed network of sovereign autonomous te
 What is needed next are three things: 
 
 1. Resourcing and runway for core team(s) and infrastructure, and pilot projects - if I were humanity and was already spending ~ $500 Billion on charity and trillions on ineffective government, I would redirect 10% of that to this effort. As an opener, I would drop $20M to $100M on it immediately through the Lionsberg 501(c)(3). 
-	1. Of that - $5M would be directed to the Core Team and Infrastructure Fund. 
-	2. Balance would be directed to the Impact Fund(s) 
+	1. Of that - $5M would be directed to the Core Team and Infrastructure Fund.  
+	2. Balance would be directed to the Impact Fund(s)  
 2. 5 to 12 of those involved to join me in Lionsberg to begin continuously improving the platform and community as servants to All
 3. 5 to 20 groups for Alpha phase to help us test and improve the System 
 

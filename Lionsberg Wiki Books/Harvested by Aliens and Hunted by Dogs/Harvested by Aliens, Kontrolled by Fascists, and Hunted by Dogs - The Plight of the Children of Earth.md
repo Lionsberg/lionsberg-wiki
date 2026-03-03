@@ -2,7 +2,7 @@
 
 This is a deeply painful [[Work In Progress]]. We do not know how far We can walk down this Path and remain alive, so We are publishing iteratively. The content is nauseating and disturbing. Viewer discretion advised. 
 
-*You shall know the Truth, and the Truth shall set you free.*
+*You shall know the Truth, and the Truth shall set you free.*  
 ____
 
 As We navigate this Path, We are compelled to **[[Triangulate Towards Truth]]**—a process of identifying patterns through independent confirmations to distinguish genuine phenomena from coincidences. When a pattern is confirmed multiple times across unrelated contexts, the probability of error diminishes toward zero.
@@ -127,7 +127,7 @@ The goal? To create individuals who could serve the **New World Order**, a total
 
 The essential thrust of the [[New World Order]] is a single totalitarian authority that enslaves the entire planet, ultimately  through [[Mind Kontrolle]].    
 
-Functionaries of the [[New World Order]] would be the products of [[Mind Kontrolle]], creating: 
+Functionaries of the [[New World Order]] would be the products of [[Mind Kontrolle]], creating:  
 - Perfect soldiers, emotionless, memoryless, and obedient 
 - Sex slaves, breeders, drug and information couriers, money launderers, and espionage agents capable of unconsciously recording information and compartmentalizing secrets. 
 - Compliant leaders in key positions of public power  
@@ -238,7 +238,3 @@ We were born into a world at war.
 If you would like a starting point for further information, look up Mark Phillips and Cathy O'Brien Full Testimony - The Granana Forum - 1996 - about 1:57 duration... Google would not let the copy I accessed be shared, and it can be difficult to find. 
 
 [[Notes From O'Brien to Integrate or Discard]]  
-
-
-
-

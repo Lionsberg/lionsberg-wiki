@@ -34,4 +34,3 @@ The [[Provisional Ontology]] articulates 12 "For Profit" and 12 "Non Profit" Act
 12. Culture and Arts 
 
 Each of these 24 general functions must be integrated and coordinated within [[Integration Domains]]. 
-

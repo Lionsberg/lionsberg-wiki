@@ -599,7 +599,7 @@ _The Game that begins at the kitchen table and ends at the stars — the same Pa
 
 _The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
 
-**[[The LIONSBERG Playbook]]** — _Start here for the full Playbook overview_
+**[[The LIONSBERG Playbook]]** — _Start here for the full Playbook overview_  
 **[[The LIONSBERG Quick Start Guide]]** — _Your Circle's first 90 minutes together_
 
 ### The Next Five Plays
@@ -731,7 +731,7 @@ _The Proven Methodology for the Largest Integrated Delivery Program in History. 
 
 _All Things Helping All Things Rise. The eternal spiral from personal awakening to cosmic co-creation._
 
-[[The Sacred Ascent]]
+[[The Sacred Ascent]]  
 
 ---
 

@@ -72,7 +72,7 @@ In the **[[LIONSBERG]]** ecosystem, conflict is seen as an integral part of grow
 
 ___
 
-The [Center for Non-Violent Communication](https://www.cnvc.org/) and others have well developed trainings in how to become skillful at transforming conflict. 
+The [Center for Non-Violent Communication](https://www.cnvc.org/) and others have well developed trainings in how to become skillful at transforming conflict.  
 ___
 
 Conflict is a sub-category of [[Issues]], and can follow a process similar to [[Identifying And Solving Issues]]. 

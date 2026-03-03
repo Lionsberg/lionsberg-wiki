@@ -1,5 +1,5 @@
 # J's Guide To Lionsberg
-*Updated April 2025*
+*Updated April 2025*  
 [[Work In Progress]]  
 
 [[Beloved Co-Creators]], 
@@ -20,7 +20,7 @@ As the [[Existing Order]] accelerates into [[The Collapse]], how many billions o
 
 ## The Lionsberg WikiBooks 
 
-[[Lionsberg Wiki Books]]
+[[Lionsberg Wiki Books]]  
 ## Above The Chaos
 
 [[Above The Chaos]]  
@@ -30,7 +30,7 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 
 ## The Lionsberg History, Inception, and Trust Manifesto
 
-[[LIONSBERG - History, Inception, and Trust Manifesto]] 
+[[LIONSBERG - History, Inception, and Trust Manifesto]]  
 
 ## The Lionsberg Lexicon
 
@@ -51,4 +51,4 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 - [[Lionsberg Structure]]  
 - [[Lionsberg System and Approach]]  
 
-[[The Lionsberg Core Documents]]
+[[The Lionsberg Core Documents]]  

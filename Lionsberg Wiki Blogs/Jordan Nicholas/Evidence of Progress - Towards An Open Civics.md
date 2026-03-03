@@ -37,8 +37,8 @@ We are here for this... to incarnate and become [[ONE Body]], and to begin learn
 
 [[Benjamin Life]] and [[Patricia Parkinson]] - thank you for your excellent work, and thank you for helping Us All advance towards [[The Goal]]. 
 
-We are here to serve. 
-____
+We are here to serve.  
+____  
 For cross-mapping purposes: 
 
 **Emerging Language**: 
@@ -47,9 +47,9 @@ For cross-mapping purposes:
 
 **People of influence to Open Civics**: 
 
-[[Spencer Saar Cavanaugh]]   
+[[Spencer Saar Cavanaugh]]  
 [[Richard Flyer]]  
-[[Aaron Brodeur]] 
+[[Aaron Brodeur]]  
 [[Charles Eisenstein]]  
 [[Erica Blair]]  
 [[Exeunt]]  
@@ -85,7 +85,7 @@ For cross-mapping purposes:
 [[Samantha Sweetwater]]  
 [[Peter Russell]]  
 [[Adrienne Marie Brown]]  
-[[Nick Farr]] 
+[[Nick Farr]]  
 [[David Graeber]]  
 [[Hanzi Freinacht]]  
 [[Ken Wilber]]  
@@ -95,7 +95,7 @@ For cross-mapping purposes:
 [[Elder Bill Jones]]  
 [[Satoshi Nakamoto]]  
 [[Vitalik Buterin]]  
-[[Zarinah Agnew]] 
+[[Zarinah Agnew]]  
 [[Christopher Alexander]]  
 [[Jacque Fresco]]  
 [[Joan Halifax]]  
@@ -120,7 +120,7 @@ For cross-mapping purposes:
 [[Barbara Sher]]  
 [[Samantha Power]]  
 [[Edward West]]  
-[[Brandon Quittem]] 
+[[Brandon Quittem]]  
 [[Reiki Cordon]]  
 [[Scarlet Masius]]  
 [[Anima LaVoy]]  
@@ -164,7 +164,7 @@ For cross-mapping purposes:
 [[Donella Meadows]]  
 
 
-Movements and Works of Influence: 
+Movements and Works of Influence:  
 - [[Sunflower]] movement - Taiwan 
 - [[g0V]] movement - Taiwan  
 - The [[Democratic Autonomy]] movement - Rojava 
@@ -187,7 +187,7 @@ Movements and Works of Influence:
 - [[BioFi Project]]  
 - [[Buen Vivir]] - Bolivia and Ecuador  
 
-**Concepts**
+**Concepts**  
 - [[Protopia]] 
 - [[Systems Thinking]]  
 - [[Whole Systems Design]]  
@@ -231,5 +231,5 @@ Movements and Works of Influence:
 - [[Synergy]]  
 - [[Post-Capitalist]]  
 
-Next Up: Open Civic Culture 
+Next Up: Open Civic Culture  
 Find and fork this work from : [go.opencivics.co/wiki](http://go.opencivics.co/wiki) and [github.com/opencivics/wiki](http://github.com/opencivics/wiki)  

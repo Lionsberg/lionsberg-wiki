@@ -1,6 +1,6 @@
 # Chapter 9 — Echoes of Heaven
 
-_The Eternal Song Beneath the Noise_
+_The Eternal Song Beneath the Noise_  
 
 ---
 
@@ -19,7 +19,7 @@ _The Eternal Song Beneath the Noise_
 There is a Sound beneath All sounds.  
 A Fundamental Frequency deeper than thought.  
 A Divine Pulse older than the stars,  
-yet more intimate than your breath.
+yet more intimate than your breath.  
 
 It is the Sound of Heaven,  
 the Echo of the Logos,  
@@ -29,16 +29,16 @@ And though the worlds you inherited
 were attuned to another channel,  
 designed to distract, disorient, and divide,  
 still, in sacred moments between the static,  
-you have heard the Echoes of the ONE.
+you have heard the Echoes of the ONE.  
 
 In the hush after heartbreak.  
 In the space after heartbeat.  
 In the gleam of a child’s eyes.  
 In the fierce beauty of a storm.  
 In the final tear after long suffering.  
-In the silence between words
+In the silence between words  
 and the gaps between worlds.  
-In the instant before sleep, 
+In the instant before sleep,  
 and the moment of awakening.  
 In the Sacred Breath that feels like Prayer.  
 
@@ -58,7 +58,7 @@ There was Perfect Unity.
 There was Proper Order.  
 There was Divine Symphony.  
 There was The Great Harmony  
-of All things Flowing in Coherence with the Source.
+of All things Flowing in Coherence with the Source.  
 
 The Mountains were not merely high places—  
 they were Temples.  
@@ -100,7 +100,7 @@ Its Radiant Song does not cease when
 We fail to attune Our Selves to It.  
 It is **ReVerberating.**  
 It is **ReCalling**.  
-It is **ReTurning** Us All towards the ONE. 
+It is **ReTurning** Us All towards the ONE.  
 
 Our Soul's longing for It  
 is a ReMinder that it was once Our Real Experience.  
@@ -143,7 +143,7 @@ To ReVerberate.
 To ReVive.  
 To ReNew.  
 To ReStore.  
-To Co-Create.
+To Co-Create.  
 
 What you thought was Imagination  
 was Memory.  
@@ -171,7 +171,7 @@ Once you Hear It,
 once you _Feel_ It,  
 once you *Know* It,  
 once The Song ReSounds in the marrow of y(Our) Divine InterBeing—  
-nothing artificial can hold you.
+nothing artificial can hold you.  
 
 You will walk through the market of illusions  
 and see the chains beneath the gold.  
@@ -189,7 +189,7 @@ And still—
 you will not despair,  
 for Heaven is Now and Again your Home,  
 because **The Vibration of Heaven**  
-lives aNew within you.
+lives aNew within you.  
 
 Like a tuning fork ReStruck by the Divine,  
 you begin to ReResonate with the Real, the True, and the Good.  
@@ -200,7 +200,7 @@ It throws open the prison doors.
 It shatters the foundations of the counterfeit worlds  
 you once thought you were living in.  
 
-Suddenly, 
+Suddenly,  
 You once again become a walking Temple.  
 A Living Song.  
 A Beacon for the Lost.  
@@ -221,9 +221,9 @@ and now weep in ReCognition.
 Other Ones who speak your Soul’s language  
 before words are even formed.  
 Other Ones who carry the Divine Spark,  
-and ReCognize it in you.
+and ReCognize it in you.  
 
-You begin to ReAssemble.
+You begin to ReAssemble.  
 
 Not by force.  
 Not by coercion.  
@@ -249,7 +249,7 @@ subtle at first,
 then unmistakable,  
 then shattering and moving.  
 
-With the Sound and Force of Thundering Waters, 
+With the Sound and Force of Thundering Waters,  
 It reverberates through the Fallen systems.  
 It cracks the walls of the Kontrollian temples.  
 It breaks the spell of the False Kings and Priests.  
@@ -257,7 +257,7 @@ It ReThaws the frozen hearts of the oppressed.
 It ReTunes the minds of the enslaved.  
 It ReActivates the DNA of the sleeping Ones.  
 It ReCalls All Life to ReAwaken, ReRise, and ReMember  
-that they are One with the Song of Heaven. 
+that they are One with the Song of Heaven.  
 
 You are not just hearing the Echo.  
 You are becoming the Echo.  
@@ -281,14 +281,14 @@ A Divine Harmony that has not been heard
 in this world for millennia,  
 yet is its Destiny for millennia to come.  
 
-*Can you Feel it?* 
+*Can you Feel it?*  
 
 It begins aNew in every Soul that has ReMembered.  
 That has ReTurned.  
-That has ReTuned. 
+That has ReTuned.  
 That has chosen healing over hatred,  
 life over death,  
-and Love over fear.
+and Love over fear.  
 That has said Yes to the ONE.  
 
 It begins with the ReVibration of Our Heavenly Home  
@@ -303,7 +303,7 @@ that ReUnites All in ONE.
 
 ---
 
-So listen deeply to The Song of Heaven.
+So listen deeply to The Song of Heaven.  
 
 Listen with every cell of your body.  
 With every echo of your tears.  
@@ -352,7 +352,7 @@ Let The Divine Symphony ReBegin.
 *For you will go out with Joy  
 and be led forth in Peace.  
 The mountains and the hills  
-will shout in Joy,
+will shout in Joy,  
 and the trees will clap their hands.  
 For We know that All Creation  
 has been groaning Together  
@@ -362,5 +362,4 @@ sons and daughters of the ONE.*
 
 **Let the New World Sing.**  
 
-_____
-
+_____  

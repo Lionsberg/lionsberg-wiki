@@ -4,7 +4,7 @@
 
 Construction covers a spectrum from slow, certain, and simple projects to quick, uncertain, and complex projects. For the former, a manufacturing strategy is appropriate. For dynamic projects, a manufacturing strategy is insufficient -- we must learn to manage uncertainty and complexity within the characteristic conditions of site production, unique product, and temporary organization.
 
-Construction requires implementation of four core responsibilities:
+Construction requires implementation of four core responsibilities:  
 - **Site management**: coordination of work including logistics, work structuring, managing work flows, orientation, quality and safety control, budget and schedule management
 - **Site operations**: coordination of on-site teams to maximize production, day to day operations, site security, information management
 - **Required Reporting**: collection, storage and dissemination of data to the CPR, the Courts and the public
@@ -22,7 +22,7 @@ The Last Planners are the people on site leading a crew who know how to get work
 
 Planning is defining what needs to be done and how; control is making it happen. The goal is predictable workflows from reliable commitments.
 
-**Four Levels of Planning**:
+**Four Levels of Planning**:  
 1. **SHOULD**: What should be done (milestone schedule, pull planning)
 2. **CAN**: What can be done (constraint analysis, look-ahead)
 3. **WILL**: What will be done (commitments from Last Planners)
@@ -32,31 +32,31 @@ The result: predictable work flow from one crew to the next, reducing waste.
 
 **LPS Process Steps**:
 
-**Pull Planning**:
+**Pull Planning**:  
 - Phases scheduled collaboratively at least six weeks ahead
 - Planning starts from milestone, working backwards
 - Team makes clear requests and reliable commitments
 - Handoff expectations defined and confirmed
 - Float or "phase buffer" allocated by the team
 
-**Look-ahead Planning**:
+**Look-ahead Planning**:  
 - Weekly, each team looks six weeks ahead to identify and remove constraints
 - Constraint analysis performed when tasks first enter the look-ahead window
 - Material availability confirmed electronically and verbally
 - Repetitive processes captured in standard sequences
 - Constraint removal assigned and tracked
 
-**Commitment Planning**:
+**Commitment Planning**:  
 - Daily plans made by first-level supervisors from released, constraint-free tasks
 - Daily plans logged at end of each day with Percentage of Promises Calculated
 - Reasons for plan failure identified
 
-**Learning**:
+**Learning**:  
 - Perform 5 Why analysis on plan failures
 - Identify actions to prevent reoccurrence
 - Three questions: What should we stop doing? What should we keep doing? What should we start doing?
 
-**Implementation Notes**:
+**Implementation Notes**:  
 - Multiple Plans per site (4-15 separate systems)
 - Right size each planning session (~8 participants)
 - Appropriate balance between "big room" and decentralization
@@ -65,7 +65,7 @@ The result: predictable work flow from one crew to the next, reducing waste.
 
 ### Site Logistics / Materials Workflows
 
-Five standard logistics workflows for material delivery:
+Five standard logistics workflows for material delivery:  
 - **Flow A**: Material Direct to Site and placed at Point-of-use or Staging Area
 - **Flow B**: Kitted by Trade, Delivered to Point-of-use
 - **Flow C**: Kitted by 3rd Party Logistics Company, Delivered to Point-of-use
@@ -88,7 +88,7 @@ Five standard logistics workflows for material delivery:
 
 ### Standard Work
 
-Baseline or best practice for producing reliable processes. Applies to:
+Baseline or best practice for producing reliable processes. Applies to:  
 - Materials Handling
 - Machine Work
 - Hand Work
@@ -107,7 +107,7 @@ Target Cost closely monitored with weekly updates of actual expenses. Cost Contr
 
 ### Site Closeout
 
-The IPD/Lean approach fosters sufficient planning and collaboration for a proper closeout:
+The IPD/Lean approach fosters sufficient planning and collaboration for a proper closeout:  
 - Identification and correction of trade damage post-installation
 - Attic Stock management
 - Operations manuals for systems
@@ -124,6 +124,6 @@ The Core Group begins planning closeout near the beginning of construction.
 
 ___
 
-_Previous: [[PDG - Site Adapt]]_
-_Next: [[PDG - Conclusion and Prototype Control]]_
+_Previous: [[PDG - Site Adapt]]_  
+_Next: [[PDG - Conclusion and Prototype Control]]_  
 _Return to [[The Program Delivery Guide]]_

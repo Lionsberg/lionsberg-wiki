@@ -1,6 +1,6 @@
 # Ancient Vimana Descriptions in India
 
-The concept of **[[Vimanas]]**—ancient flying vehicles described in Indian scriptures—has intrigued scholars, historians, and enthusiasts of ancient technology for centuries. These accounts, found primarily in Hindu epics and texts such as the **Mahabharata**, **Ramayana**, and **Vaimanika Shastra**, describe advanced aerial vehicles with capabilities far beyond what would be expected from ancient civilizations.
+The concept of **[[Vimanas]]**—ancient flying vehicles described in Indian scriptures—has intrigued scholars, historians, and enthusiasts of ancient technology for centuries. These accounts, found primarily in Hindu epics and texts such as the **Mahabharata**, **Ramayana**, and **Vaimanika Shastra**, describe advanced aerial vehicles with capabilities far beyond what would be expected from ancient civilizations.  
 
 ---
 
@@ -110,5 +110,4 @@ The concept of **[[Vimanas]]**—ancient flying vehicles described in Indian scr
 
 ### **Conclusion**
 
-The accounts of vimanas in ancient Indian texts provide tantalizing glimpses into a possibly advanced, technologically adept past. Whether these flying machines were mythological symbols, records of lost human ingenuity, or evidence of extraterrestrial influence, they remain a fascinating subject of study, bridging mythology, history, and speculative science.
-
+The accounts of vimanas in ancient Indian texts provide tantalizing glimpses into a possibly advanced, technologically adept past. Whether these flying machines were mythological symbols, records of lost human ingenuity, or evidence of extraterrestrial influence, they remain a fascinating subject of study, bridging mythology, history, and speculative science.  

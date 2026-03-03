@@ -19,6 +19,6 @@ The Great Game of Lionsberg invites you to join in the co-creation of a New Worl
 
 ____
 
-Forward to [[28 Final Reflections and Words of Encouragement]]    
+Forward to [[28 Final Reflections and Words of Encouragement]]  
 Back to [[26 The Future of The Great Game of Lionsberg]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

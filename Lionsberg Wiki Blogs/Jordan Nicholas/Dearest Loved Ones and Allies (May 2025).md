@@ -76,6 +76,3 @@ We Rise Together as One.**
 
 With Love, Clarity, and Courage,  
 ~ J
-
-
-

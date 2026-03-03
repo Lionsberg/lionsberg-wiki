@@ -16,7 +16,7 @@ As The Message spread, the Old religious and political leaders intensified their
 
 Meanwhile, the Forces Of Darkness grew stronger daily, and they began advancing their siege towers and battering rams towards to the walls of Earth. As the forces without threatened, the Old Authorities within began taking increasingly desperate steps to consolidate their power and control over the Citizens, further revealing the true nature of the predators that had lurked for decades, centuries, and perhaps millennia under the sheep's clothing.  
 
-___
+___  
 Forward to: [[Scene 24 - The New Vision Spreads]]  
 Back to: [[Scene 22 - A Shared Plan Takes Shape]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

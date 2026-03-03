@@ -21,6 +21,6 @@ The impact of The Great Game of Lionsberg on the living system is far-reaching, 
 
 ____
 
-Forward to [[19 The Impact on Society]]    
+Forward to [[19 The Impact on Society]]  
 Back to [[17 The Impact on the Economy]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

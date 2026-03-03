@@ -4,6 +4,6 @@ Every culture has a [[Story]] to meet the insatiable desire of its inhabitants t
 
 ___
 
-Forward to [[Meditation 5]]        
+Forward to [[Meditation 5]]  
 Back to [[Meditation 3]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

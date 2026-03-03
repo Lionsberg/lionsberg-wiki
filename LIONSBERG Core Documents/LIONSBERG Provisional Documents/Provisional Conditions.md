@@ -75,5 +75,3 @@ The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Com
 - Milestone: Connect 1,000 enlightened individuals to the platform and one another.
 - Milestone: Connect 10,000 enlightened individuals to the platform and one another. 
 - Milestone: Connect and empower [[The First Three Percent]] by December 2026. 
-
-

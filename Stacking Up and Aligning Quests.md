@@ -1,8 +1,8 @@
 # Stacking Up and Aligning Quests
 
-_A single [[Quest]] transforms a corner of the world.
-When Quests across many Circles stack up and align,
-the corner becomes a neighborhood, the neighborhood a city,
+_A single [[Quest]] transforms a corner of the world.  
+When Quests across many Circles stack up and align,  
+the corner becomes a neighborhood, the neighborhood a city,  
 the city a civilization._
 
 ---

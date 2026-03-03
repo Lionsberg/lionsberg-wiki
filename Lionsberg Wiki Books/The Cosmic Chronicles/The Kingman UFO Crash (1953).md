@@ -93,4 +93,3 @@ As in other UFO retrieval cases, the military imposed strict secrecy, confiscati
     
     - Friedman, Stanton. _Top Secret/Majic._
     - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
-

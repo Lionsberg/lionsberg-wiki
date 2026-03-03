@@ -1,6 +1,6 @@
 # Template For Navigation Chart
 
-**Story**: 
+**Story**:  
 - [[Where We Are]]: 
 - [[How We Got Here]]:  
 - [[Where We Are Going]]:  
@@ -33,4 +33,3 @@
 **Current Best Understanding Of The Critical Path**: 
 
 **One Year Plan**
-

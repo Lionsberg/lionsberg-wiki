@@ -148,4 +148,3 @@ Forward to [[Parsing the Conceptual Meta Canon from the Wisdom and Perspective o
 Back to [[The Quest for Wisdom and Truth - The Canonical Lens]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

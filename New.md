@@ -9,4 +9,3 @@ FROM the [[Old]], TO the [[New]].
 The [[New]] is [[Where We Are Going]]. 
 
 Behold, we are making [[All]] things [[New]]. 
-

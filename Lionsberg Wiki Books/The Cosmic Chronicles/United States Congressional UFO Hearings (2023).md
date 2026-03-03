@@ -120,5 +120,3 @@ Subsequent hearings highlighted the need for improved governmental transparency 
 The 2023 Congressional hearings on UAPs marked a watershed moment in the U.S. government's public engagement with the topic. By bringing together whistleblowers, military officials, and lawmakers, these hearings began to unravel decades of secrecy, fostering a more open and informed dialogue about the mysterious phenomena that have captivated humanity for generations. Congress’s commitment to transparency, oversight, and scientific inquiry signals a pivotal shift toward understanding UAPs in the context of both national security and universal exploration.
 
 See [[Controlled Disclosure]] 
-
-

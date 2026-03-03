@@ -125,20 +125,20 @@
 - Have set very soon how to create a culture of coherence and ability to set it up, repair when broken, and apply it - and then instill, require, model, teach it in/from/to others so they benefit from the efficiencies of working in flow (not creativity based flow necessarily, but flowing together, bringing in what is needed from the field we all tap into together as a group in discussing and building something in practical world)
 
 ## Forrist 
-Specific criteria the proposal looking for when building these advisory and manifestation networks (excerpt follows)
-Candidates should meet the criteria below:
-• Have high credibility in their constituency;
-• Give back strongly in that constituency;
-• Have a reputation for integrity;
-• Be known for advanced collaboration skills;
-• Be conscious that we are all one;
-• Be passionate about conscious sustainability;
+Specific criteria the proposal looking for when building these advisory and manifestation networks (excerpt follows)  
+Candidates should meet the criteria below:  
+• Have high credibility in their constituency;  
+• Give back strongly in that constituency;  
+• Have a reputation for integrity;  
+• Be known for advanced collaboration skills;  
+• Be conscious that we are all one;  
+• Be passionate about conscious sustainability;  
 
 - 
 - 
 
-Here's a primary for KINS Networks - https://ln.sync.com/dl/a15217db0/9uvjrysr-bcgmw8a8-qqm38i8b-q72mbwjr
-The acceleration of solar, impact investing and women's movements in the last several years can be traced to groups started using this model from 20-30 years ago.
+Here's a primary for KINS Networks - https://ln.sync.com/dl/a15217db0/9uvjrysr-bcgmw8a8-qqm38i8b-q72mbwjr  
+The acceleration of solar, impact investing and women's movements in the last several years can be traced to groups started using this model from 20-30 years ago.  
 
 ## DISCERNMENT
 - Success depends on discernment of individuals and groups like this - need to develop a cultureof humanity that supports a different way of interacting, with more knowledge and discernment - how train it

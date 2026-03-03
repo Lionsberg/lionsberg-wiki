@@ -1,10 +1,10 @@
 # **The Warrior’s Intermittent Fasting Protocol**  
-_An Energetic, Metabolic, and Spiritual Optimization Protocol for Warriors on The Sacred Ascent_
+_An Energetic, Metabolic, and Spiritual Optimization Protocol for Warriors on The Sacred Ascent_  
 
 ---
 ## **Purpose**
 
-The Warrior’s Intermittent Fasting Protocol is designed to:
+The Warrior’s Intermittent Fasting Protocol is designed to:  
 
 - Sharpen the body, mind, and spirit.
     
@@ -17,7 +17,7 @@ The Warrior’s Intermittent Fasting Protocol is designed to:
 - Prepare the Warrior for both peak performance and prolonged periods of scarcity, warfare, pilgrimage, or purification.
     
 
-This is not just a nutritional protocol—it is a sacred rhythm of alignment with **[[Nature]]**, **[[Purpose]]**, **[[ONE]]**, and the **[[Way]]**.
+This is not just a nutritional protocol—it is a sacred rhythm of alignment with **[[Nature]]**, **[[Purpose]]**, **[[ONE]]**, and the **[[Way]]**.  
 
 ---
 
@@ -45,7 +45,7 @@ This is not just a nutritional protocol—it is a sacred rhythm of alignment wit
 - Aligned with **circadian rhythm**, **solar light cycles**, and **natural energetic cycles**.
     
 
-One large or two smaller meals a day within [[The Fueling Window]]. 
+One large or two smaller meals a day within [[The Fueling Window]].  
 
 ---
 
@@ -54,16 +54,16 @@ One large or two smaller meals a day within [[The Fueling Window]].
 - **06:00 – 12:00**  
     Morning hydration (spring/mineral water, optionally warm lemon water, Celtic or Himalayan Sea salt, coffee or tea)  
     Movement, meditation, breathwork, prayer, writing  
-    Elements: cold plunge, dip in river or lake, sauna, sun exposure, etc. 
+    Elements: cold plunge, dip in river or lake, sauna, sun exposure, etc.  
     
 - **12:00 – 18:00**  
     Deep work, creative contribution, community collaboration, strength training or martial arts  
-    Continue hydration, supplemented with targeted herbal / plant-based infusions as needed or called
+    Continue hydration, supplemented with targeted herbal / plant-based infusions as needed or called  
     
 - **18:00 – 22:00 (Feeding Window)**  
     Single large sacred meal, or two small intentional meals  
     Feast with prayer and gratitude on nutrient-dense, high-vibration whole foods that have been energetically tested for health and coherence    
-    Macronutrients guided by training load:
+    Macronutrients guided by training load:  
     
     - High protein (wild or regenerative sources)
         
@@ -73,8 +73,8 @@ One large or two smaller meals a day within [[The Fueling Window]].
         
 - **22:00 – 06:00**  
     Rest, integration, dream work  
-    Optional: herbal sleep support, magnesium rubs, gratitude practice, breath or sound ritual
-    Adequate sleep is essential. Aim for 7-8 hours. 
+    Optional: herbal sleep support, magnesium rubs, gratitude practice, breath or sound ritual  
+    Adequate sleep is essential. Aim for 7-8 hours.  
     
 
 
@@ -85,21 +85,21 @@ One large or two smaller meals a day within [[The Fueling Window]].
 - **1 Day/Week Extended Fast**  
     24–36 hour water or herbal tea fast  
     Optional dry fast for advanced practitioners  
-    Conducted on a rest day or in alignment with spiritual work (often Saturday)
+    Conducted on a rest day or in alignment with spiritual work (often Saturday)  
     
 - **1 Day/Week Feast Day (Optional)**  
-    Loosen the window for communal meals, celebratory ritual, or soul-nourishing abundance (often Sunday) 
+    Loosen the window for communal meals, celebratory ritual, or soul-nourishing abundance (often Sunday)  
     Feast without gluttony or lapse in Quality of Being—remain present, reverent, ready, and aware  
     
 - **Seasonal Deep Fast**  
     3 to 7 days, ideally once per 90 day season.  
     Integrated with detoxification, meditation, and silence  
     Can include herbal parasite cleanse, colon flushes, or dry fast phases  
-    Anchored around equinoxes, solstices, or initiatory thresholds
+    Anchored around equinoxes, solstices, or initiatory thresholds  
     
 - **Initiatory Deep Fasts**
-    7, 14, 21, up to 40(+) days. 
-    These longer initiatory fasts should be undertaken with support and guidance where available 
+    7, 14, 21, up to 40(+) days.  
+    These longer initiatory fasts should be undertaken with support and guidance where available  
     
 
 ---
@@ -128,7 +128,7 @@ One large or two smaller meals a day within [[The Fueling Window]].
 
 ### **Forbidden Practices**
 
-In the [[LIONSBERG System]], everyone is Sovereign and Free. There is no Law but [[ONE]]. And yet - it is a violation of Our Highest Sacred Intention to knowing engage in practices that Harm [[Our Selves]] or [[Other Selves]].
+In the [[LIONSBERG System]], everyone is Sovereign and Free. There is no Law but [[ONE]]. And yet - it is a violation of Our Highest Sacred Intention to knowing engage in practices that Harm [[Our Selves]] or [[Other Selves]].  
 
 - We do not poison Our Selves with things that will make Us sick, weak, and incompetent
     
@@ -159,17 +159,16 @@ In the [[LIONSBERG System]], everyone is Sovereign and Free. There is no Law but
 
 ### **Final Note**
 
-This Protocol is not one-size-fits-all. It is a sacred rhythm to be **tuned to your unique Being, season**, **mission**, and **constitution**. Observe your body. Listen to Spirit. Fell your Energy. Adapt in Wisdom and Strength.
+This Protocol is not one-size-fits-all. It is a sacred rhythm to be **tuned to your unique Being, season**, **mission**, and **constitution**. Observe your body. Listen to Spirit. Fell your Energy. Adapt in Wisdom and Strength.  
 
 Remember [[Rule Number 2]]:  
 
 *Do [[The Wise Right Thing]]  
 at [[The Wise Right Time]]  
 with [[The Wise Right People]]  
-to [[Progressively Realize]] [[The Goal]].*
+to [[Progressively Realize]] [[The Goal]].*  
 
 You are not enslaved to appetite or habit.  
 You are a Warrior of the Way.  
 You feast only when it serves the Quest.  
-You fast *because* you are Free.
-
+You fast *because* you are Free.  

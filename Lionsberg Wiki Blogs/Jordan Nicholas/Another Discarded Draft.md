@@ -135,4 +135,3 @@ I would not have said it exactly like this, but it is approximately True:
 98. The time for waiting is over.
 99. If you are looking for me, I will be in **The Arena**—bloody, but standing.
 100. Come what may, **we stand together.**
-

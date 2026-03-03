@@ -55,6 +55,3 @@ The systems being built today are not merely about convenience or safety—they 
 This is not a future we can afford to ignore. But it is also not inevitable. The systems of control rely on our **compliance**. By recognizing these dangers and taking proactive steps to resist, we can begin to dismantle this infrastructure, and its roots and source, before it locks us into a world of digital servitude.
 
 The next chapter will explore the **hidden forces** behind this agenda—forces that extend beyond human governments and corporations. To truly understand the scope of this challenge, we must look to the **extraterrestrial influence** that has been shaping human history for millennia.
-
-
-

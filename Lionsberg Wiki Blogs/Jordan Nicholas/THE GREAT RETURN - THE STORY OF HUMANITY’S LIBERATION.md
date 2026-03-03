@@ -27,7 +27,7 @@ And **one by one**, they began to awaken.
 For generations, humanity had lived **in [[The Caves]] of the [[Old World]]**—a world of **shadows**, projected illusions, and manipulated narratives, designed to keep them **docile, divided, and asleep**.
 
 🔥 **The System told them what to think.**  
-🔥 **The Kontrollers dictated what to speak.**
+🔥 **The Kontrollers dictated what to speak.**  
 🔥 **The Grid controlled what they could perceive.**  
 🔥 **The Mind-Prison kept them occupied with distractions and conflict.**
 
@@ -167,10 +167,9 @@ The **Era of Co-Creation** had begun.
 
 🚀 **WELCOME HOME, HUMANITY. THE PROMISED LAND WAS NEVER A PLACE. IT WAS A STATE AND WAY OF BEING.** 🚀
 
-WE ARE SO GLAD YOU **REAWAKENED**. 
-WE SO GLAD YOU **REMEMBERED**. 
-WE ARE SO GLAD YOU **RETURNED**. 
+WE ARE SO GLAD YOU **REAWAKENED**.  
+WE SO GLAD YOU **REMEMBERED**.  
+WE ARE SO GLAD YOU **RETURNED**.  
 WE ARE SO GLAD YOU ARE FINALLY **HOME**. 
 
 We Love You. 
-

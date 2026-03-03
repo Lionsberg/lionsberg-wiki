@@ -1,71 +1,71 @@
 # The Lionsberg Guide To Movement Building 
 
-[[We Do Not Know]] how to build a [[Meta Movement]] so big it could sweep the world within 7 years, inviting [[All]] humanity up into a [[New World]]. 
+[[We Do Not Know]] how to build a [[Meta Movement]] so big it could sweep the world within 7 years, inviting [[All]] humanity up into a [[New World]].  
 
-So it may seem strange to write a Guide on Movement Building. 
+So it may seem strange to write a Guide on Movement Building.  
 
-But no one knows how to build a [[Meta Movement]] so big it can sweep the world. 
+But no one knows how to build a [[Meta Movement]] so big it can sweep the world.  
 
-So we are taking the approach of called for by the [[The LIONSBERG Meta Science]] - documenting our [[Current Best Understanding]] in the form of a [[Hypothesis]], testing it for fit against [[Reality]], and then continuously improving how closely our [[Hypothesis]] conforms to [[Reality]]. 
+So we are taking the approach of called for by the [[The LIONSBERG Meta Science]] - documenting our [[Current Best Understanding]] in the form of a [[Hypothesis]], testing it for fit against [[Reality]], and then continuously improving how closely our [[Hypothesis]] conforms to [[Reality]].  
 
-This is a strange topic, because it can probably only happen once in human history, or certainly only once in the next thousand years. 
+This is a strange topic, because it can probably only happen once in human history, or certainly only once in the next thousand years.  
 
-But nevertheless, we have to try, openly, transparently, and accountably. 
+But nevertheless, we have to try, openly, transparently, and accountably.  
 
-This [[Guide]] will seek to not only transparently lay out how We plan to try... but also how you can help. 
+This [[Guide]] will seek to not only transparently lay out how We plan to try... but also how you can help.  
 
-___
-Notes adapted from Social Movements From Good
+___  
+Notes adapted from Social Movements From Good  
 
-What makes people passionate about [[Causes]]? 
+What makes people passionate about [[Causes]]?  
 
 Why do people take [[Action]]?  
 
-What makes them believe in the power of adding their voice and support? 
+What makes them believe in the power of adding their voice and support?  
 - and how does that ripple and out and spread to others? 
 
-Why do people [[Champion]] a [[Cause]]? 
+Why do people [[Champion]] a [[Cause]]?  
 
-Why do people risk their personal credibility to build [[Awareness]] around a [[Cause]]? 
+Why do people risk their personal credibility to build [[Awareness]] around a [[Cause]]?  
 
-What Common Characteristics are embedded in Movements that succeed? 
+What Common Characteristics are embedded in Movements that succeed?  
 
-What challenges? 
+What challenges?  
 - allowing people to own the movement and make it their own 
 
-Marketing
-Narrative / Story
+Marketing  
+Narrative / Story  
 - Making the need and the pain come to life through Story 
-Symbolism 
-Vision / Dream 
-Stories to inspire action 
-Creativity - 
+Symbolism  
+Vision / Dream  
+Stories to inspire action  
+Creativity -  
 - Imagery 
 - Video 
 - Story 
 - Art 
-Peer engagement 
-Hashtag Activism 
-People to People engagement 
+Peer engagement  
+Hashtag Activism  
+People to People engagement  
 - A Movement needs People to spread it 
 - Every network and contact, sharing with every network and contact 
 
-Navigating the [[Attention Economy]]. 
+Navigating the [[Attention Economy]].  
 
-Humans are emotional. we tell stories. And we come to the aid of those in need. 
+Humans are emotional. we tell stories. And we come to the aid of those in need.  
 - How we make the plight of others known  
 
-Transform - Issue - to Cause - To Inspiration - to Movement. 
+Transform - Issue - to Cause - To Inspiration - to Movement.  
 
-Dual needs: 
+Dual needs:  
 - The need of those being served
 - The need of those serving 
 
-We [[Gather]]... 
+We [[Gather]]...  
 
 [[Tell Stories]]  
 
-and [[Organize Our Selves]] 
+and [[Organize Our Selves]]  
 
 around a [[Symbol]], a [[Standard]], or a [[Sign Of Commitment]].  
 
@@ -73,14 +73,14 @@ around a [[Symbol]], a [[Standard]], or a [[Sign Of Commitment]].
 
 [[Meta Movement]] - The total set of [[All]] [[Group Of Groups]] working together towards a shared [[Goal]].  
 
-The Key: [[People]]. 
+The Key: [[People]].  
 - Spread the Word  
 - Tell Stories 
 - Report Success 
 - Recruit Others 
 - Build Systems and Infrastructure 
 
-To Get [[People]]: 
+To Get [[People]]:  
 - Build in importance and relevancy for the [[General Public]] 
 - A [[Narrative Framework]] for the [[General Public]]  
 	- A Story of Challenge 
@@ -94,15 +94,15 @@ To Get [[People]]:
 - Momentum 
 - Sustain a Long Term Goal 
 
-Beginning: 
+Beginning:  
 - An [[Issue]] that requires [[Attention]]  
 
-Then: 
+Then:  
 - Raising [[Awareness]] 
 - To Generate [[Support]] 
 - For the [[Benefit]] of the [[Cause]]  
 
-Pattern: 
+Pattern:  
 - Growing [[Support]] until the [[Transformation]] is achieved. 
 - People [[Combining Resources]] to make the [[Issue]] more [[Apparent]] 
 - Long term sustained [[Support]] over years. 

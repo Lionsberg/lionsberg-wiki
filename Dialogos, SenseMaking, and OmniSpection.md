@@ -1,11 +1,11 @@
 # Dialogos, SenseMaking, and OmniSpection
 
-Three practices. Three ways of seeing.
-Together, they form the **contemplative infrastructure** of [[The Great Game of LIONSBERG|The Great Game]] —
-The means by which the living Body stays conscious, adaptive, and coherent
+Three practices. Three ways of seeing.  
+Together, they form the **contemplative infrastructure** of [[The Great Game of LIONSBERG|The Great Game]] —  
+The means by which the living Body stays conscious, adaptive, and coherent  
 As it navigates the greatest transformation in ten thousand years.
 
-Without these practices, a movement becomes blind.
+Without these practices, a movement becomes blind.  
 With them, it becomes a living intelligence — capable of sensing, understanding, and responding to what is actually happening, at every scale.
 
 ---
@@ -14,8 +14,8 @@ With them, it becomes a living intelligence — capable of sensing, understandin
 
 **Dialogos** is the practice of deep, generative conversation.
 
-Not debate — where the goal is to win.
-Not discussion — where the goal is to decide.
+Not debate — where the goal is to win.  
+Not discussion — where the goal is to decide.  
 Dialogos: a **flow of meaning through a group**. The word itself means *through the word* — logos moving through and among us.
 
 The discipline is threefold:
@@ -76,8 +76,8 @@ In practice, they weave together naturally:
 - Through that conversation, **SenseMaking** emerges — you begin to understand what is actually happening around you
 - Periodically, you step back into **OmniSpection** — seeing how your work connects to the larger Whole
 
-Together, these three practices are how the Body stays awake.
-How it learns. How it adapts. How it remains faithful to [[The Goal]]
+Together, these three practices are how the Body stays awake.  
+How it learns. How it adapts. How it remains faithful to [[The Goal]]  
 Even as the world shifts beneath its feet.
 
 **A movement that can see clearly, listen deeply, and understand the Whole — that movement cannot be stopped.**

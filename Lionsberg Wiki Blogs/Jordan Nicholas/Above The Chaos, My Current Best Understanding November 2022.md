@@ -49,6 +49,3 @@ To attempt this, I am inviting those in my network to:
 3.  Help fuel the movement with time, attention, and resources. 
 
 ___
-
-
-

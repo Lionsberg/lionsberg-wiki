@@ -111,5 +111,3 @@ Witnesses consistently described the objects as:
     
     - NICAP Report on Levelland: [https://www.nicap.org](https://www.nicap.org/)
     - CUFOS Analysis: [https://www.cufos.org](https://www.cufos.org/)
-
-

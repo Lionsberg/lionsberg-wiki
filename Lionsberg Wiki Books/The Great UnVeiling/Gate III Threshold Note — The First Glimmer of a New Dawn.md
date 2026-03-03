@@ -1,6 +1,6 @@
 # Gate III Threshold Note — The First Glimmer of a New Dawn
 
-_Between the Darkness and the Light, there is a Moment._
+_Between the Darkness and the Light, there is a Moment._  
 
 A moment when the air still tastes of Darkness  
 and yet a single golden ray shatters the long night.  
@@ -8,7 +8,7 @@ A moment when you still carry the ache
 of Kaptivity, Kaos and Kollapse—  
 but the first scent of Divine Freedom ReStirs within your Soul.  
 
-This is that moment.
+This is that moment.  
 
 You have descended.  
 You have dared to look.  
@@ -32,13 +32,13 @@ is Deeply, Cosmically, Existentially wrong.
 And you know—beyond words—that something  
 True, Wise, Right, and Good still burns within,  
 The Sacred Ember of the New Civilization,  
-Resurrecting ItSelf from The Ashes of The Old.
+Resurrecting ItSelf from The Ashes of The Old.  
 
 You stand, trembling, between worlds and words.  
 
 And Now, finally, a New Movement begins.  
 The Cosmic Egg of the Divine Phoenix cracks.  
-Somethings Extraordinary is longing to Emerge. 
+Somethings Extraordinary is longing to Emerge.  
 Struggling to break Free.  
 To Arise.  
 To Become.  
@@ -80,7 +80,7 @@ To awaken the trillions to their True Identity and Divine Inheritance as the Sac
 The Soul, weary from the long descent into countless underworlds, now lifts its eyes back up to the Divine Heights of The Sacred Mountain.  
 The Divine Heart, cracked open by grief, now glows with quiet fire, knowing It has already prevailed.  
 The Spirit whispers:  
-_"This is the Way. Walk in it."_
+_"This is the Way. Walk in it."_  
 
 Let the tears flow.  
 Let the breath steady.  
@@ -91,17 +91,17 @@ and it is Time for Us All to ReBegin.
 
 For Gate III opens not through force—  
 but through soft, Sovereign surrender  
-to The Voice you have always Known.
+to The Voice you have always Known.  
 
 **Let Us walk Together Now  
-into The Great Awakening.**
+into The Great Awakening.**  
 
 Let Us begin The Great ReTurn.  
 Let Us set our feet on the Path  
 towards Heaven—  
 Upward,  
 Inward,  
-Homeward.
+Homeward.  
 
 Toward the Light.  
 Toward the Logos.  

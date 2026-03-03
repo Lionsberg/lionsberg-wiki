@@ -9,5 +9,5 @@ America must once again become a beacon of hope and strength in the world. Throu
 ___
 
 Forward to [[VI.A. Recap of the American Crisis of Confidence and Faith]]  
-Back to [[V.E. Freedom, Agency, and Responsibility]]        
+Back to [[V.E. Freedom, Agency, and Responsibility]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

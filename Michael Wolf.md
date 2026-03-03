@@ -73,7 +73,7 @@
 
 - Despite the controversy surrounding his claims, Dr. Michael Wolf remains a significant figure in UFO disclosure advocacy. His work has inspired both fascination and debate, contributing to broader discussions about the extraterrestrial presence and its implications for humanity.
 
-___
+___  
 "Claimed that several confederations of extraterrestrial civilizations are visiting us in loosely-coordinated fashion. These are: the Alliance (of human-looking ETs from the Altair Aquila system), the Corporate (of Greys from the Zeta Reticuli system), the Federation of Worlds (of unspecified races from many star systems), and the United Races of Orion (cultures from those star systems)." - Sallas 
 
 ---

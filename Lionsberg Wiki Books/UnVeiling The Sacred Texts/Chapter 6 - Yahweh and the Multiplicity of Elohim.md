@@ -47,7 +47,7 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 
 • _“The sons of the Elohim (בני האלהים, benei ha-Elohim) saw that the daughters of humans were beautiful, and they took wives for themselves.”_
 
-• The **benei ha-Elohim** are distinct divine beings.
+• The **benei ha-Elohim** are distinct divine beings.  
 - Note again Deuteronomy 32:8–9, where Elyon divides up the Earth among the **benei Elohim**.  
 - Also note that certain Elohim, who made human beings "in their image", are literally and physiologically reproductively compatible with human women. 
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] addresses in more detail the ongoing interbreeding, hybridization, and genetic engineering of these beings. 
@@ -73,7 +73,7 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 
 • _“And beware lest you lift up your eyes to heaven and see the sun, moon, and stars, all the host of heaven (צבא השמים, tz’va ha-shamayim), and bow down to them and serve them, which Yahweh your (god) (eloheka) has allotted to all the (peoples under the whole of heaven).”_
 
-• Other divine entities, associated with specific celestial bodies, are assigned to various tribes and peoples by Yahweh.
+• Other divine entities, associated with specific celestial bodies, are assigned to various tribes and peoples by Yahweh.  
 - The passages seem to indicate that a superior being to Yahweh gave him authority over certain areas, and that Yahweh also allocates various peoples and domains to certain other Elohim. 
 
 **9. 1 Kings 22:19–22**
@@ -87,7 +87,7 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 
 • _“Who is like You among the gods (באלים, ba-elim), Yahweh?”_
 
-• Yahweh is praised as one of many elim, who is superior in the eyes of the author to the others. 
+• Yahweh is praised as one of many elim, who is superior in the eyes of the author to the others.  
 - Similar to Psalms 89:5-7 _“Who among the sons of (god / elim) (בני אלים, benei elim) is like Yahweh?”_  
 - Yahweh is characterized as a son of a higher Elim, and one among many Elim. 
 
@@ -153,7 +153,7 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 
 • _“I said, ‘You are gods (אלהים, **Elohim**), sons of the Most High (בני עליון, benei **Elyon**), all of you.’”_
 
-• Indicates, similar to Deuteronomy 32:8–9, a plurality of divine beings in apparent family dynasty, who are subordinate to Elyon.
+• Indicates, similar to Deuteronomy 32:8–9, a plurality of divine beings in apparent family dynasty, who are subordinate to Elyon.  
 - Note similarities to Enki, Enlil, and the other sons and daughters of Anu.
 
 **21. 1 Kings 22:19–23**
@@ -234,6 +234,3 @@ The following 20 passages demonstrate that Yahweh, though clearly the head Elohi
 These passages reveal the rich theological complexity of the Hebrew Bible and suggest a worldview in the original [[Source Narratives]] where Yahweh is one among many "powerful ones from above" dominating and influencing human affairs.  
 
 These stories perfectly match the lived experiences of a vast diversity of tribes from every continent of the world, who have been consistently informed, instructed, and manipulated by a diversity of "powerful ones from above". 
-
-
-

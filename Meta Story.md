@@ -8,5 +8,5 @@ The idea of the [[Meta Story]] is critical because it provides a framework in wh
 
 For a quick approximation, see [[0.4 The Meta Story]]. 
 
-_____
+_____  
 The Meta Story is the overarching narrative that connects all of humanity and guides us towards a better future. It is a story of hope, of courage, and of determination to overcome the challenges that stand in the way of a flourishing and abundant world for all. Each person's story fits into the Meta Story as a unique and essential piece of the puzzle, contributing their talents, skills, and experiences to the greater whole. Together, we are co-creating a new future that is shaped by our shared values, visions, and commitments to making the world a better place for all. The Meta Story is an ongoing process of discovery, learning, and growth, as we each do our part to make a positive impact on the world around us.

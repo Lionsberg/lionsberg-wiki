@@ -58,4 +58,3 @@ With Love, In Community,
 ~ J 
 
 P.S. We are forging the [[Lionsberg Invitation v0.2]], which will be extended to over the next 1.5 weeks to potential members of the [[Second Wave Cohort]]. The Second Wave Cohort is restricted to a minimum of 12 and maximum of 20 individuals. If you would like to nominate someone for consideration, please let [[Jordan]] know. 
-

@@ -12,6 +12,6 @@ In order to move forward, Americans must work together across political and econ
 
 ___
 
-Forward to [[III.D. Corruption and Exploitation]]          
-Back to [[III.B. The Hypocrisy of American Idealism]]          
+Forward to [[III.D. Corruption and Exploitation]]  
+Back to [[III.B. The Hypocrisy of American Idealism]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

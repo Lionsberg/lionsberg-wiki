@@ -10,7 +10,7 @@ Over several brutal days and nights, the battle raged on, with moments of despai
 
 With the battle won, the people rejoiced and vowed to rebuild their society and co-create the New World revealed by the Spirit's Vision and Plan.
 
-___
+___  
 Forward to: [[Scene 27 - The Cowardly Leaders]]  
 Back to: [[Scene 25 - The Rising United Front]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

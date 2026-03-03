@@ -125,4 +125,3 @@ Corso viewed extraterrestrials not merely as visitors but as a strategic threat.
     
     - MUFON Report on Roswell Technologies: [https://www.mufon.com](https://www.mufon.com/)
     - NICAP Analysis of Roswell: [https://www.nicap.org](https://www.nicap.org/)
-

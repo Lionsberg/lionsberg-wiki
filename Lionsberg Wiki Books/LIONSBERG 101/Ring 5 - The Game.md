@@ -66,7 +66,7 @@ You cannot do this alone. The Pattern is inherently relational. The basic unit i
 
 **2. Share the Seed.** Give them [[Ring 1 - The Seed]]. Read it together. Discuss it. Let it resonate. Do not argue anyone into participation. Attraction, not promotion.
 
-**3. Establish your [[Field of Agreements]].** Sit together and articulate:
+**3. Establish your [[Field of Agreements]].** Sit together and articulate:  
    - **Purpose**: What is this Circle for? (It must align with [[Meta Goal|The Meta Goal]])
    - **Principles**: What values do we commit to embody?
    - **Practices**: How often do we meet? How do we make decisions? How do we hold one another accountable?
@@ -156,7 +156,7 @@ This is not optional. This is the proof of maturity. The fruit of the tree conta
 
 **50 cycles. 3.5 to 7 years.** This is not fantasy — it is the mathematics of organic growth. 
 
-The question is not whether the math works.
+The question is not whether the math works.  
 The question is whether enough of us will begin.
 
 ---
@@ -172,7 +172,7 @@ As Circles multiply and federate, something emerges that is greater than the sum
 
 At every level, the same DNA operates — the [[Twelve Irreducible Elements]]:
 
-**The Pattern of Cooperation:**
+**The Pattern of Cooperation:**  
 - ONE Purpose Above All
 - Holofractal Omnifederation
 - Sovereignty At Every Scale
@@ -182,7 +182,7 @@ At every level, the same DNA operates — the [[Twelve Irreducible Elements]]:
 - Self-Sustenance and Self-Replication
 - Structural Immunity
 
-**The Pattern of Production:**
+**The Pattern of Production:**  
 - Integrated Delivery
 - Design To The Goal
 - Networks of Commitments
@@ -204,22 +204,22 @@ Not as a protest. Not as a revolution. As a living alternative — already gover
 
 You have everything you need.
 
-The Pattern is proven.
-The Seed is ready.
-The window is open.
+The Pattern is proven.  
+The Seed is ready.  
+The window is open.  
 The time is now.
 
-**Cross the threshold.**
-**Anchor your practice.**
-**Form your Circle.**
-**Choose your Quest.**
-**Do the work.**
+**Cross the threshold.**  
+**Anchor your practice.**  
+**Form your Circle.**  
+**Choose your Quest.**  
+**Do the work.**  
 **Pass the Flame.**
 
 **ONE by ONE by ONE, until All are Free.**
 
 ---
 
-Forward to [[The 10 Year Grand Strategy]]
-Back to [[Ring 4 - The Library]]
+Forward to [[The 10 Year Grand Strategy]]  
+Back to [[Ring 4 - The Library]]  
 Table of Contents [[LIONSBERG 101]]

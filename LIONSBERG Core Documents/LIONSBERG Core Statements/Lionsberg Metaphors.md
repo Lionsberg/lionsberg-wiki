@@ -27,5 +27,5 @@ The True Kingdom
 
 See also [[The Lionsberg Book of Metaphors]]  
 
-____
+____  
 An entry in [[LIONSBERG Core Statements]]  

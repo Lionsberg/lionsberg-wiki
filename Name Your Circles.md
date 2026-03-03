@@ -1,7 +1,7 @@
 # Name Your Circles
 
-A name is the first act of existence.
-Before a thing can be called upon, it must be called *something*.
+A name is the first act of existence.  
+Before a thing can be called upon, it must be called *something*.  
 Your [[Circle]] is no different.
 
 ---
@@ -18,15 +18,15 @@ It also gives your Circle its first shared act of co-creation. You arrive as ind
 
 There is no formula. There are patterns.
 
-Some Circles name themselves by **place** — the land, the neighborhood, the watershed they serve:
+Some Circles name themselves by **place** — the land, the neighborhood, the watershed they serve:  
 - *Circle of the Blue Ridge*
 - *Circle of Eastside Portland*
 
-Some name themselves by **purpose** — the work or domain they feel called to:
+Some name themselves by **purpose** — the work or domain they feel called to:  
 - *Circle of Regenerative Agriculture*
 - *Circle of Youth Empowerment*
 
-Some name themselves by **aspiration** — the quality of world they are forging:
+Some name themselves by **aspiration** — the quality of world they are forging:  
 - *Circle of the Rising Dawn*
 - *Circle of Living Waters*
 
@@ -55,7 +55,7 @@ Name it. Speak it. Let it be known.
 
 ---
 
-Your Circle has its name.
+Your Circle has its name.  
 Now it needs its foundation — the shared covenant that makes trust possible.
 
 **The next play is [[Forge a Field of Agreements]].**

@@ -4,6 +4,6 @@ We are united by the pain we all experience. We are united by our suffering. We 
 
 ___
 
-Forward to [[Meditation 15]]        
+Forward to [[Meditation 15]]  
 Back to [[Meditation 13]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

@@ -11,4 +11,3 @@ In October 2022, after 4 cycles, we closed the season of exploring the [[Meta Pr
 It would soon be time to help connect up and empower heroes on the front lines around the world to the [[LIONSBERG]] System to accelerate their individual and local progress towards our overarching and uniting shared [[Goal]]. 
 
 For the sake of history, that is when we published this Guide.
-

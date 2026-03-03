@@ -6,11 +6,11 @@ In the context of the Lionsberg System, **The Story** refers to the all-encompas
 
 [[The Story of LIONSBERG]] is one telling of [[The Story]], encompassing: 
 
-Who We Are ([[Identity]])
-Where We Are ([[Analysis]])
-How We Got Here ([[Backward Looking Story]], [[History]])
-Where We Began ([[Origin]]) 
-Where We Are Going ([[Destiny]], [[Vision]], [[Forward Looking Story]], [[Trajectory]]) 
-Who We Are Going With ([[Community]], [[Tribe]], [[Human System]], [[Living System]]) 
-How? ([[Methodology]], [[Practice]], [[Culture]], [[Way]]) 
+Who We Are ([[Identity]])  
+Where We Are ([[Analysis]])  
+How We Got Here ([[Backward Looking Story]], [[History]])  
+Where We Began ([[Origin]])  
+Where We Are Going ([[Destiny]], [[Vision]], [[Forward Looking Story]], [[Trajectory]])  
+Who We Are Going With ([[Community]], [[Tribe]], [[Human System]], [[Living System]])  
+How? ([[Methodology]], [[Practice]], [[Culture]], [[Way]])  
 Why? ([[Purpose]], [[Meaning]], [[Goal]]) 

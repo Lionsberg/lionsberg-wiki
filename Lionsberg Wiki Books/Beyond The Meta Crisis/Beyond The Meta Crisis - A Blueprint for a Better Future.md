@@ -249,4 +249,4 @@ By [[Jordan Nicholas Sukut]]
 #### B.2 Additional resources and information for further exploration  
 
 [[Jordan Nicholas Sukut]]  
-[[Read The Books]] 
+[[Read The Books]]  

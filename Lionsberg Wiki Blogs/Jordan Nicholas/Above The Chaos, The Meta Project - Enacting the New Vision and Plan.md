@@ -14,7 +14,7 @@ As the [[Meta Crisis]] unfolded, humanity increasingly came to understand and ar
 
 In summit after summit, politicians and their puppet masters met, drafted statements, and then went back to business as usual. To make matters worse, it became clear that the existing power structures were consciously deceiving and dividing populations against themselves and one another. 
 
-[[Failure of Existing Institutions to Address the Grand Challenges and Global Goals]]
+[[Failure of Existing Institutions to Address the Grand Challenges and Global Goals]]  
 ## Denial, Anger and Fear 
 
 At first, the citizens of earth were in deep denial about how serious the situation had become. 
@@ -201,16 +201,14 @@ This last period represented the last 5%, 3%, then 1% of holdouts, including tho
 
 The subsequent phases were articulated in [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]], especially [[Chapter 32 - Phases of Implementation]]. 
 
-Broadcasting. 
-Speaking. 
-Writing. 
-Inviting. 
-Integrating. 
-Transforming. 
-Measuring. 
-Story Telling. 
+Broadcasting.  
+Speaking.  
+Writing.  
+Inviting.  
+Integrating.  
+Transforming.  
+Measuring.  
+Story Telling.  
 Broadcasting. 
 
 Hang tight! This is a [[Work In Progress]]... 
-
-

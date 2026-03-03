@@ -81,4 +81,3 @@ We do not seek to take power—we seek to _redeem it_.
 The sacred stewards are rising. The elders are remembering. The young are ready. The systems are taking root. The Councils are forming.
 
 This is Sacred Governance. This is our Birthright. This is the Way.
-

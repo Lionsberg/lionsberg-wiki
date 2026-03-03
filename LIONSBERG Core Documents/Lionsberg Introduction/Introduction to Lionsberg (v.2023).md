@@ -12,16 +12,16 @@ In 2017, [[Jordan Nicholas Sukut]] and allies began building the infrastructure 
 
 After millions of dollars, millions of words, thousands of hours, and dozens of convenings invested, we believe it is time to coalesce the human and capital commitments required to spread the message publicly and enact the [[New Vision and Plan]]. 
 
-We are seeking a courageous tribe of Individuals to ***commit*** the human and financial capital required to advance [[The Quest]], come what may.
+We are seeking a courageous tribe of Individuals to ***commit*** the human and financial capital required to advance [[The Quest]], come what may.  
 ____
 ## Context 
 
-On the collective journey of humanity towards its destiny, we are facing a [[Meta Crisis]] of epic proportion. This multifaceted challenge jeopardizes our civilization's foundations, our freedom, and life as we know it. As the old systems quake and groan, [[Most People Have No Idea What Is Coming]]. 
-____
+On the collective journey of humanity towards its destiny, we are facing a [[Meta Crisis]] of epic proportion. This multifaceted challenge jeopardizes our civilization's foundations, our freedom, and life as we know it. As the old systems quake and groan, [[Most People Have No Idea What Is Coming]].  
+____  
 To make matters worse, the progressive abdication of responsibility and authority by individuals and localities has led to local disempowerment, rising chaos and authoritarianism, and the emergence of [[The Giants]], ever larger, more corrupt, and more collusive soulless abstractions vying for control, resources, and power.  
-____
-Simultaneously, the emergence of **new technologies** is arming these forces of both chaos and authoritarianism with rapidly expanding ways to censor, deceive, brainwash, control, corrupt, and exploit humanity and the precious planet that sustains us. 
-____
+____  
+Simultaneously, the emergence of **new technologies** is arming these forces of both chaos and authoritarianism with rapidly expanding ways to censor, deceive, brainwash, control, corrupt, and exploit humanity and the precious planet that sustains us.  
+____  
 Contrary to the propaganda they continually spew, it is evident that these soulless Giants have no genuine regard for individual, local, ethical or environmental concerns, and that the solutions to the [[Meta Crisis]] cannot and will not arise from the top down or via the corrupt existing order. 
 
 ## Individuals and Localities 
@@ -125,7 +125,3 @@ With Love, In Community,
 ~ J 
 
 [[Jordan Nicholas Sukut]]  
-
-
-
-

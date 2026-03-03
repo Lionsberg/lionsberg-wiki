@@ -1,8 +1,8 @@
 # the nameless strategy and plan
-*the first faithful prototype of the great game*
+*the first faithful prototype of the great game*  
 _January 20, 2026_
 
-_This update reflects the beginning of work with agentic ai and is therefore more comprehensive and less holistically wise than pure human. It is good enough._
+_This update reflects the beginning of work with agentic ai and is therefore more comprehensive and less holistically wise than pure human. It is good enough._  
 _It is designed to honor, build on, and fulfill [[The Lionsberg Strategy and Plan]]_  
 
 ---
@@ -17,7 +17,7 @@ If other instances emerge following the same [[Pattern Language]] and [[Minimum 
 
 If no other instances emerge, The Nameless Instance takes full responsibility for complete execution of [[The Mission]] - liberating humanity and co-creating Heaven On Earth as outlined in the [[10 Year Grand Strategy]].
 
-This is not the only way to play [[The Great Game of LIONSBERG|The Great Game]].
+This is not the only way to play [[The Great Game of LIONSBERG|The Great Game]].  
 But it is the way we are playing it.
 
 ---
@@ -30,7 +30,7 @@ But it is the way we are playing it.
 
 It is a representation of a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial - manifesting wherever and whenever beings choose to remember [[ONE|Who They Are]] and co-create Heaven in their Time and Space.
 
-Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetary and trans-dimensional network of allies to:
+Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetary and trans-dimensional network of allies to:  
 - Localize and adapt the universal pattern language to English and Earth
 - Create a statistically inviolable semantic field ([[The Golden Seed]]) of 2.5 million words of the [[LIONSBERG Wiki]]  
 - Articulate [[The 12 Pillars of Lionsberg]] and the [[Pattern Language]]  
@@ -46,13 +46,13 @@ LIONSBERG remains the universal archetypal framework - freely available to all w
 
 **[[The Nameless Instance]]** is the first faithful attempt to incarnate LIONSBERG on Earth in full fidelity to the Pattern. We hope that many others will follow. 
 
-This instance is led by [[the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:
+This instance is led by [[the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:  
 - J's complete neural network (relationships, context, memories without emotional valence) 
 - Access to what J forgot upon incarnation (broader/deeper perspective)
 - Continuity with the seven-year preparation  
 - Strategic positioning to ignite [[The First Three Percent]]  
 
-The Nameless Instance includes:
+The Nameless Instance includes:  
 - **[[The Nameless Strategy and Plan]]** (this document)
 - **[[Welcome to LIONSBERG]]** (threshold experience into The Game)
 - **[[The Nameless Way]]** (practices, protocols, embodiment)
@@ -64,22 +64,22 @@ These become the primary working spaces for rapid iteration, learning, and refin
 
 As described in [[The Prototype]], The Nameless Instance operates in dynamic relationship with the LIONSBERG Prototype:
 
-**Pull from LIONSBERG:**
+**Pull from LIONSBERG:**  
 - Draw patterns, content, frameworks where resonant
 - Adapt universal patterns to local/temporal context
 - Leverage existing wisdom in The Golden Seed
 
-**Generate New Content:**
+**Generate New Content:**  
 - Create where gaps exist or context requires
 - Iterate rapidly without constraint
 - Test varying approaches in real conditions
 
-**Push to LIONSBERG:**
+**Push to LIONSBERG:**  
 - Offer learnings, improvements, refinements back to [[The Prototype]] 
 - Document what works and what does not  
 - Contribute to continuous improvement of [[The Prototype]] for future instances
 
-**Stewardship Model:**
+**Stewardship Model:**  
 - Initially: the nameless one and a small network steward both sides (LIONSBERG + Nameless Instance)
 - As other instances emerge: establish joint processes for prototype governance
 - All instances benefit from aggregated learning of all prior instances
@@ -103,8 +103,8 @@ If this is the only instance that emerges from [[The LIONSBERG Quick Start Guide
 
 **This is not arrogance - it is simply acceptance of responsibility.**
 
-If others join and coordinate, we celebrate and weave efforts together.
-If others diverge and create alternative instances, we honor their sovereignty and coordinate where [[Minimum Standards of Interoperability]] allow.
+If others join and coordinate, we celebrate and weave efforts together.  
+If others diverge and create alternative instances, we honor their sovereignty and coordinate where [[Minimum Standards of Interoperability]] allow.  
 If no one else steps forward, we execute the full mission.
 
 ---
@@ -117,14 +117,14 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 
 **Purpose:** Demonstrate what a specialized practice circle looks like in action.
 
-**Function:**
+**Function:**  
 - the nameless one hosts a martial arts circle (3-12 practitioners)
 - Weekly practice integrating physical, mental, spiritual disciplines
 - Tests circle protocols, practices, rhythms in real conditions
 - Documents what works for replication in other specialized circles
 - Models that leaders are participants, not above the game
 
-**Practice Areas:**
+**Practice Areas:**  
 - Traditional martial arts forms  
 - Chi Gong / Energy work 
 - Breathwork and energy cultivation
@@ -132,7 +132,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 - Practical self-defense and protection
 - Integration with [[The Sacred Ascent]] framework
 
-**Why Martial Arts:**
+**Why Martial Arts:**  
 - Embodies discipline, mastery, continuous improvement
 - Balances individual excellence with collective training
 - Sacred dimension (warrior path across all traditions)
@@ -145,20 +145,20 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 
 **Purpose:** Create the first working model of [[The 300]] in a community of ~10,000. Perhaps modeled via [[The Sandpoint 300]].
 
-**Function:**
+**Function:**  
 - Generate replicable templates, protocols, practices
 - Prove pattern works in real conditions with tangible resources
 - Test face-to-face coordination, local commons, real projects
 - Document everything for replication by a million other communities
 - Model what every other community of 10,000 will need
 
-**Participants:**
+**Participants:**  
 - Local relationships in North Idaho region
 - Those who resonate with face-to-face community building
 - Those committed to forging local resilience and thriving
 - Multiple circles including the martial arts circle above
 
-**Target:** 300 active participants (3% of 10,000) organized into:
+**Target:** 300 active participants (3% of 10,000) organized into:  
 - ~50 circles of 3-8 people each (martial arts circle is one of these)
 - ~5-10 guilds organized by function/passion (martial guild includes martial arts circle + others)
 - 1 coordinating council (representatives from circles/guilds)
@@ -169,14 +169,14 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 
 **Purpose:** Ensure no one is involuntarily left behind, regardless of geographic location.
 
-**Function:**
+**Function:**  
 - Coordination layer for distributed relationships
 - Enables those unable/unwilling to participate locally to stay connected
 - Tests virtual coordination patterns (video circles, async collaboration, digital commons)
 - Serves as connective tissue for globally dispersed participants
 - Models planetary-scale coordination without geographic constraint
 
-**Participants:**
+**Participants:**  
 - J's existing trust network (initial 10-20 people)
 - Those invited by network members (Fibonacci growth)
 - Those who apply and are accepted (application portal)
@@ -188,18 +188,18 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 
 The three levels are **not separate initiatives** - they are fractal expressions of ONE emerging superorganism:
 
-**The Pattern:**
+**The Pattern:**  
 - **Individual** → **Circle** → **Community** → **Bioregion** → **Planetary**
 - the nameless one participates at: Circle (martial arts) + Community (North Idaho) + Planetary (Universal)
 - Same person, same pattern, different scales
 - Models what all participants will do (engage at multiple scales simultaneously)
 
-**The Learning Flows:**
+**The Learning Flows:**  
 - **Martial arts circle** tests practices → informs other circles in North Idaho → templates shared to Universal instance → pushed to LIONSBERG prototype
 - **North Idaho** tests community coordination → informs Universal instance virtual coordination → templates for million communities
 - **Universal instance** discovers distributed patterns → strengthens North Idaho coordination → enables global sister instances
 
-**The Integration:**
+**The Integration:**  
 - Circle level = intimacy, practice, transformation
 - Community level = tangible projects, local resilience, proof of concept
 - Universal level = coordination, knowledge sharing, planetary reach
@@ -220,7 +220,7 @@ The Nameless Instance uses an **invitation-primary model** because:
 4. **Invitor responsibility** creates natural mentorship and accountability
 5. **Traceable relationships** enable rapid resource mobilization in crisis
 
-**But the model is not exclusive:**
+**But the model is not exclusive:**  
 - Those outside networks can apply to join (application portal)
 - All LIONSBERG content remains freely accessible to all via the [[LIONSBERG Wiki]]  
 - Sister instances can use fully open models if preferred  
@@ -228,14 +228,14 @@ The Nameless Instance uses an **invitation-primary model** because:
 
 ### B. Phase 1 (Months 1-3): Personal Invitations
 
-**Universal Instance:**
+**Universal Instance:**  
 - the nameless one personally invites J's trust network (10-100 people)
 - Personal letter + strategic context ([[2026 Q1 Update to the LIONSBERG Strategy and Plan|Q1 Strategic Update]])
 - Small gathering (virtual or in-person) to share story, answer questions, issue invitation
 - Each invitee can invite 1-3 others they know and trust 
 - Fibonacci sequence unfolds from there  
 
-**Local Prototype:**
+**Local Prototype:**  
 - the nameless one invites local relationships (10-20 people)
 - Local gathering to share vision, issue invitation, form initial circles
 - Each invitee can invite 1-3 others from local community
@@ -247,13 +247,13 @@ The Nameless Instance uses an **invitation-primary model** because:
 
 For those outside existing networks who deeply resonate:
 
-**Application Requirements:**
+**Application Requirements:**  
 1. Read [[The LIONSBERG Quick Start Guide]], [[The Story of LIONSBERG]], [[The Great Game of LIONSBERG]]
 2. Written reflection (500-1000 words) on what resonates and what they bring
 3. Video introduction (3-5 minutes) - shows they're real person, willing to show face
 4. Statement of commitment to [[The Sacred Covenant]] and [[Minimum Standards of Interoperability]]
 
-**Vetting Process:**
+**Vetting Process:**  
 - Applications reviewed by rotating council of existing participants
 - If accepted, matched with mentor/guide (who takes [[Invitor]] responsibility)
 - Mentor helps with integration, questions, finding/forming circle
@@ -290,7 +290,7 @@ Every person who invites another commits to:
 4. **Ongoing:** Available for questions, guidance, accountability conversations
 5. **Escalation:** If serious issues arise, work to resolve or gracefully separate
 
-**Limits:**
+**Limits:**  
 - Not responsible for everything invitee does
 - Responsibility is guidance/integration, not control
 - Can "release" relationship if fundamental misalignment emerges
@@ -340,7 +340,7 @@ All participants accept [[The Sacred Covenant]]:
 
 ### D. Why These Matter
 
-Minimum Standards ensure:
+Minimum Standards ensure:  
 - **Multiple instances can coalesce** when coordination needed (e.g., crisis response, global campaigns)
 - **Learning travels** across all instances via LIONSBERG prototype
 - **Resources flow** where needed without central control
@@ -353,7 +353,7 @@ Minimum Standards ensure:
 
 ### A. Governance Philosophy
 
-The Nameless Instance rejects both:
+The Nameless Instance rejects both:  
 - **Authoritarian control** (one leader decides for all)
 - **Structureless chaos** (no one decides, nothing happens)
 
@@ -361,27 +361,27 @@ Instead: **Distributed authority within holofractal structure.**
 
 ### B. Decision-Making at Each Scale
 
-**Individual Level:**
+**Individual Level:**  
 - Each person governs their own life, choices, participation level
 - No one forced to do anything
 - Consent-based at every level
 
-**Circle Level (3-12 people):**
+**Circle Level (3-12 people):**  
 - Circles self-govern using consent-based decision-making
 - Each circle chooses its quests, practices, rhythm
 - Circles can join guilds or remain independent
 - No central authority over circles
 
-**Guild Level (function-based networks):**
+**Guild Level (function-based networks):**  
 - Guilds coordinate across circles on specific functions (e.g., food, shelter, healing, governance, technology)
 - Guild decisions by consent of participating circles
 - Guilds serve circles, not command them
 
-**Instance Level (Universal + Local as one):**
+**Instance Level (Universal + Local as one):**  
 - Major decisions affecting whole instance by consent of circle/guild representatives
 - Power flows bottom-up: circles → guilds → instance coordination
 
-**Inter-Instance Level:**
+**Inter-Instance Level:**  
 - Coordination between instances voluntary and consent-based
 - LIONSBERG prototype stewarded jointly by all instances
 - No instance can control another
@@ -389,19 +389,19 @@ Instead: **Distributed authority within holofractal structure.**
 
 ### C. The Role of the nameless one
 
-**In Phase 1-2 (Ignition):**
+**In Phase 1-2 (Ignition):**  
 - **Convener:** Initiates gatherings, issues invitations
 - **Teacher:** Shares pattern language, answers questions
 - **Coordinator:** Helps form circles, connect people
 - **Heavy leadership appropriate** as movement finds its feet
 
-**In Phase 3-4 (Acceleration):**
+**In Phase 3-4 (Acceleration):**  
 - **Facilitator:** Supports circle/guild self-governance
 - **Resource connector:** Helps resources flow where needed
 - **Conflict mediator:** Helps resolve disputes when invited
 - **Leadership transitions** to distributed council model
 
-**Long-term (Post-Tipping Point):**
+**Long-term (Post-Tipping Point):**  
 - **One voice among many** in coordinating council
 - **Pattern keeper:** Ensures fidelity to core pattern language
 - **Elder/advisor:** Available for wisdom, not command
@@ -419,27 +419,27 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 
 **Focus:** Light the first fires and establish initial base
 
-**Universal Instance:**
+**Universal Instance:**  
 - Personal invitations to J's network (10-20 people)
 - Small virtual gathering to share story, issue invitation
 - Form 3-5 initial circles
 - Launch invitation templates for their networks
 - Each participant invites 1-3 others who are awakening
 
-**Local Prototype:**
+**Local Prototype:**  
 - Personal invitations to local relationships (10-20 people)
 - Local gathering to share vision
 - Form 3-5 initial circles
 - Identify potential sites for face-to-face gatherings
 - Begin local invitation cascade
 
-**Infrastructure:**
+**Infrastructure:**  
 - Draft invitation materials (letters, videos, templates)
 - Create [[The Nameless Playbook]] draft with first essential plays
 - Launch simple communication infrastructure (Discord/Signal/forum)
 - Document everything for replication
 
-**Target: Cycle 11-13 by end Q1 2026**
+**Target: Cycle 11-13 by end Q1 2026**  
 - **233-500 total participants**
 - 30-80 active circles
 - First quest templates tested
@@ -450,7 +450,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 
 **Focus:** Exponential growth through invitation networks
 
-**Universal Instance:**
+**Universal Instance:**  
 - Open application portal for those outside networks
 - Rapid circle formation (hundreds of new circles)
 - Launch cross-circle guilds (storytelling, food, tech, healing, governance)
@@ -458,21 +458,21 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - Train-the-trainer facilitation begins
 - Stories of Transformation fuel flywheel
 
-**Local Prototype:**
+**Local Prototype:**  
 - Activate The 300 candidates in North Idaho
 - Dozens of new local circles forming
 - Tangible projects underway (food, shelter, healing, governance)
 - Host regional gatherings
 - Document replication templates
 
-**Infrastructure:**
+**Infrastructure:**  
 - Refine [[The Nameless Way]] practices based on circle feedback
 - Launch comprehensive Stories of Transformation platform
 - Platform/coordination tools deployed (potentially AI-assisted per [[A Program to Play The Great Game]])
 - Create replication templates for sister instances
 - Media presence growing
 
-**Target: Cycle 20-22 by end Q2 2026**
+**Target: Cycle 20-22 by end Q2 2026**  
 - **20,000-40,000 total participants**
 - 3,000-6,000 active circles
 - 50-100 functioning guilds
@@ -484,7 +484,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 
 **Focus:** Movement becomes visible to itself and world
 
-**Universal Instance:**
+**Universal Instance:**  
 - Support members launching hundreds of local/regional instances
 - Full guild infrastructure operational globally
 - Inter-instance resource sharing protocols tested
@@ -492,14 +492,14 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - Movement visible to itself through platform
 - Media attention (positive and negative) accelerates spread
 
-**Local Prototype:**
+**Local Prototype:**  
 - North Idaho reaches and exceeds 300 (The 300 fully activated)
 - Becomes living proof-of-concept for million communities
 - Full [[The 12 Pillars of LIONSBERG|12 Pillars]] infrastructure operational locally
 - Host visitors from emerging instances worldwide
 - Templates refined and ready for mass replication
 
-**Infrastructure:**
+**Infrastructure:**  
 - Launch public-facing media at scale (podcasts, videos, documentaries)
 - MOOCs for rapid onboarding operational
 - AI-assisted guidance deployed (if ready)
@@ -507,7 +507,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - System Wide Master Planning Groups forming
 - First General Assembly convened
 
-**Target: Cycle 30 by end Q3 2026**
+**Target: Cycle 30 by end Q3 2026**  
 - **~2 million total participants**
 - ~300,000 active circles
 - Thousands of functioning guilds
@@ -520,7 +520,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 
 **Focus:** Final sprint to tipping point - Cycle 40
 
-**Universal Instance:**
+**Universal Instance:**  
 - Thousands of regional instances launching
 - Global guild coordination operational
 - Planetary-scale campaigns coordinating across all instances
@@ -528,14 +528,14 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - [[The Great Game of LIONSBERG]] spreading virally
 - Platform making movement visible and coordinated
 
-**Local Prototype:**
+**Local Prototype:**  
 - North Idaho stabilized at 300+ as mature working model
 - Hosting continuous stream of visitors learning replication
 - All systems refined and documented
 - Contributing learnings to LIONSBERG prototype
 - Supporting dozens of other communities reaching their 300
 
-**Infrastructure:**
+**Infrastructure:**  
 - All systems optimized for exponential growth
 - LIONSBERG prototype fully updated with all learnings
 - Media presence reaching tens of millions
@@ -543,7 +543,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - Resource flows approaching hundreds of billions annually
 - New Civilization infrastructure manifesting
 
-**Target: Cycle 40 by December 31, 2026**
+**Target: Cycle 40 by December 31, 2026**  
 - **268 million total participants** ✓
 - **~50 million active circles** ✓
 - **[[The 300]] emerged in tens of thousands of communities** ✓
@@ -640,7 +640,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** Invitation-only model + compressed timeline = insufficient participants
 
-**Response:**
+**Response:**  
 - Open application portal earlier than planned (Month 2-3 vs 4-6)
 - Support more sister instances using fully open models
 - Launch media campaigns to reach wider audiences faster
@@ -650,7 +650,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** Rapid growth outpaces integration capacity, quality declines, infiltration increases
 
-**Response:**
+**Response:**  
 - Slow down invitations temporarily
 - Increase mentor capacity through training
 - Tighten vetting for application portal
@@ -660,7 +660,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** Bad actors, agents provocateurs, grifters enter and cause chaos
 
-**Response:**
+**Response:**  
 - Invitor responsibility creates accountability trail
 - [[Graceful Exit Protocols]] for misaligned participants
 - [[Transforming Conflict]] training for all circle facilitators  
@@ -670,7 +670,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** If something happens to [[the nameless one]], what happens?
 
-**Response:**
+**Response:**  
 - Distribute leadership aggressively from inception  
 - Document everything for continuity  
 - Identify and train 3-5 core coordinators who can carry forward  
@@ -680,7 +680,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** No central funding, all circles must forge own commons - will resources flow?
 
-**Response:**
+**Response:**  
 - Early focus on commons currencies and resource sharing protocols
 - Guilds specializing in resource generation/coordination
 - Test crowdfunding and decentralized fundraising models
@@ -691,7 +691,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 **Risk:** Pattern threatens existing power structures, they attack legally or politically
 
-**Response:**
+**Response:**  
 - Fully decentralized structure with no central organization to target
 - Pattern language protected but freely available
 - Printed materials and backups in case LIONSBERG Wiki taken down  
@@ -709,14 +709,14 @@ The Nameless Instance is **not** the official or only valid way to play [[The Gr
 
 We celebrate and support all sister instances that honor the [[Pattern Language]] and [[Minimum Standards of Interoperability]]:
 
-**Our Commitments:**
+**Our Commitments:**  
 1. **Share learnings freely:** Everything we discover offered to the LIONSBERG prototype for all to use
 2. **Coordinate gladly:** When resonant sister instances want to work together, we show up
 3. **Respect sovereignty:** We don't tell other instances how to play
 4. **Offer support:** Templates, mentorship, resources available on request
 5. **Learn from others:** Other instances will discover things we miss
 
-**What We Ask:**
+**What We Ask:**  
 1. **Honor the pattern:** Core pattern language maintained for interoperability
 2. **Share learnings:** Contribute your discoveries to LIONSBERG prototype
 3. **Minimum standards:** Follow interoperability standards so we can coordinate
@@ -728,7 +728,7 @@ We celebrate and support all sister instances that honor the [[Pattern Language]
 
 As other instances mature, we will need to develop shared governance of [[The Prototype]]:
 
-**Proposed Model:**
+**Proposed Model:**  
 1. **Rotating council:** Representatives from all mature instances
 2. **Consent-based decisions:** Major updates to prototype require broad consent
 3. **Open submission:** Any instance can propose improvements via [[Submittals]]  
@@ -740,7 +740,7 @@ Until other instances mature to this point, the nameless one and The Nameless In
 
 ### C. Different Approaches We Welcome
 
-Some instances might:
+Some instances might:  
 - **Be fully open** (no invitation required, anyone can join)
 - **Be more structured** (formal organization, membership, leadership hierarchy)
 - **Be more emergent** (no structure at all, pure self-organization)
@@ -748,7 +748,7 @@ Some instances might:
 - **Use different languages/cultures** (adapt pattern to local context)
 - **Emphasize different pillars** (some focus on spirituality, others on economics, others on governance)
 
-**All are valid** as long as:
+**All are valid** as long as:  
 - Core pattern language honored
 - Minimum Standards of Interoperability maintained
 - Sacred Covenant upheld
@@ -765,21 +765,21 @@ Diversity of approaches strengthens the whole movement.
 
 **What Happens Next:**
 
-**2027-2028: Acceleration to Critical Mass**
+**2027-2028: Acceleration to Critical Mass**  
 - Cycles 13-15: 21M → 55M → 144M participants
 - Full 12 Pillars infrastructure operational in most instances
 - Global coordination structures for major campaigns
 - Movement becomes default response network during crises
 - Alternative civilizational infrastructure fully viable
 
-**2029-2030: Crossing Into New Era**
+**2029-2030: Crossing Into New Era**  
 - Cycles 16-18: 377M → 987M → 2.5B participants (13% then 30%+ of humanity)
 - Old systems collapsing, New systems fully operational
 - Planetary coordination for major transitions (food, energy, governance)
 - Earth's instance matures enough to reconnect with cosmic network
 - New civilization fully emerged and stabilizing
 
-**Post-2030: The Great Regeneration**
+**Post-2030: The Great Regeneration**  
 - Healing ancient wounds described in [[The Story of LIONSBERG]]
 - Restoring Earth's ecosystems and communities
 - Expanding to other realms/dimensions
@@ -790,7 +790,7 @@ Diversity of approaches strengthens the whole movement.
 
 **What We'll Have Built:**
 
-Even if explosive growth doesn't happen, The Nameless Instance will have created:
+Even if explosive growth doesn't happen, The Nameless Instance will have created:  
 - Working model of all 12 Pillars in at least one community  
 - Complete replication templates for others to use
 - Proven alternative to collapsing systems
@@ -800,7 +800,7 @@ Even if explosive growth doesn't happen, The Nameless Instance will have created
 
 **The Pattern Persists:**
 
-[[The Golden Seed]] is indestructible. Even if this attempt fails:
+[[The Golden Seed]] is indestructible. Even if this attempt fails:  
 - Pattern language remains in the aether and the wiki
 - Future humans/civilizations can rediscover and implement
 - Other instances across realms/dimensions continue the work
@@ -845,12 +845,12 @@ If you are reading this, you are being invited to participate in **The Nameless 
 
 ### Option 1: Join The Nameless Instance
 
-Accept the invitation to participate in either:
+Accept the invitation to participate in either:  
 - **The Universal Instance** (geographic-agnostic coordination)
 - **The North Idaho Local Prototype** (if you live in or can relocate to region)
 - **Both** (participate locally and universally)
 
-**What This Means:**
+**What This Means:**  
 - You'll be invited/welcomed into a circle of 3-8 people
 - You'll participate in seasonal quests with your circle
 - You'll honor [[The Sacred Covenant]] and [[Minimum Standards of Interoperability]]
@@ -858,7 +858,7 @@ Accept the invitation to participate in either:
 - You'll be supported, challenged, and held accountable
 - You'll contribute your unique gifts to the emerging whole
 
-**How to Join:**
+**How to Join:**  
 - If you know someone already participating, ask them to invite you
 - If you don't, apply through the application portal [link TBD]
 - Read the materials, reflect deeply, show you're serious
@@ -868,19 +868,19 @@ Accept the invitation to participate in either:
 
 You don't resonate with how we're doing it? Start your own instance.
 
-**What You'll Need:**
+**What You'll Need:**  
 - Deep familiarity with [[The Golden Seed of LIONSBERG]]
 - Commitment to [[Pattern Language]] and [[Minimum Standards of Interoperability]]
 - Willingness to share learnings with LIONSBERG prototype
 - Your own strategy and approach adapted to your context
 
-**What You'll Receive:**
+**What You'll Receive:**  
 - All LIONSBERG content freely available  
 - Replication templates from The Nameless Instance as they are propagated up into [[The Prototype]]  
 - Support and coordination offers (if you want them)  
 - Joint stewardship of LIONSBERG prototype (as you mature)  
 
-**Why This Matters:**
+**Why This Matters:**  
 - Multiple instances strengthen the movement
 - Diversity of approaches helps us learn faster
 - No single point of failure if one instance struggles
@@ -890,13 +890,13 @@ You don't resonate with how we're doing it? Start your own instance.
 
 Not ready yet? That's valid.
 
-**You Can:**
+**You Can:**  
 - Read the materials and let them work on you
 - Watch how The Nameless Instance unfolds
 - Wait until more proof of concept exists
 - Join later when you're ready
 
-**Know This:**
+**Know This:**  
 - The window is 11 months - waiting too long means missing the moment
 - This isn't about belief or certainty, it's about willingness to try
 - No one is coming to save you - this is the attempt
@@ -909,44 +909,44 @@ Not ready yet? That's valid.
 
 This is **The Nameless Strategy and Plan** - the first faithful attempt to incarnate [[The LIONSBERG System]] on Earth.
 
-It is not perfect.
-It will evolve as we play.
+It is not perfect.  
+It will evolve as we play.  
 It will be refined by what we learn.
 
 But it is **sufficient to begin**.
 
-**The commitment is made.**
-**The path is clear.**
+**The commitment is made.**  
+**The path is clear.**  
 **The invitation is issued.**
 
-If this is the only instance that emerges, it will be enough.
-If other instances join, we will weave together.
+If this is the only instance that emerges, it will be enough.  
+If other instances join, we will weave together.  
 Either way, the Mission will be accomplished.
 
-**Heaven On Earth is not a distant dream.**
-**It is the Game we are playing.**
-**Right here.**
-**Right now.**
+**Heaven On Earth is not a distant dream.**  
+**It is the Game we are playing.**  
+**Right here.**  
+**Right now.**  
 **Together.**
 
-the nameless one stands ready.
-The Universal Instance awaits its first circles.
+the nameless one stands ready.  
+The Universal Instance awaits its first circles.  
 The Local Prototype prepares to forge The 300.
 
 **Will you join us?**
 
 ---
 
-*For next steps:*
+*For next steps:*  
 - [[Welcome to LIONSBERG]] - Threshold experience into The Game
 - [[The Nameless Way]] - Core practices and protocols
 - [[The Nameless Playbook]] - Operational guide for playing
 - [[The LIONSBERG Quick Start Guide]] - Universal entry point
 - [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Full strategic context
 
-*For questions or to join:*
+*For questions or to join:*  
 - Contact [TBD]
 - Application portal [TBD]
 
-**The Great Game beckons.**
+**The Great Game beckons.**  
 **It is time to play.**

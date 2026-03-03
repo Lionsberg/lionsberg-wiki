@@ -91,4 +91,3 @@ The sheer scale and location of the sightings led to a swift military response. 
     
     - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
     - Randle, Kevin D. _Project Blue Book Exposed._
-

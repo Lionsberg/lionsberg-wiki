@@ -40,11 +40,11 @@ What will be different this time? We have transformed. We have dismantled illusi
 
 If you are ready to join [[The Lionsberg Alliance]], forge or join a Team, embark on meaningful [[Seasonal Quests]], and [[Pass The Flame]] to [[The First Three Percent]], please see one or more of the invitations below and [RSVP Here](x).
 
-**You do not need to read everything.** If you feel the Spirit move you, simply answer [[The Call]] and [RSVP Here](x) to Join Us.
+**You do not need to read everything.** If you feel the Spirit move you, simply answer [[The Call]] and [RSVP Here](x) to Join Us.  
 ___
 ### **The Vision of the New World**
 
-As the [[Existing Order]] collapses, the opportunity to co-create a [[New]] reality arises. 
+As the [[Existing Order]] collapses, the opportunity to co-create a [[New]] reality arises.  
 This is not mere survival; it is a renaissance—the radiant emergence of a [[New Civilization]]. It is the birth of [[New World]] where [[Truth]] illuminates every action, [[Love]] binds every relationship, and [[Justice]] forms the unshakable foundation of every system. Together, We can co-create a reality as abundant and harmonious as the Divine Symphony—a world where every being thrives and every soul contributes to the flourishing of [[All]].
 
 The time to rise is now. Will you take your place among those who will shape the future of humanity? Together, We can forge a Path toward [[The Sacred Ascent]]—a shared journey to transform Our world and realize Our collective Destiny. 

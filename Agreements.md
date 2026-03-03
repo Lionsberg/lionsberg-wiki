@@ -49,10 +49,10 @@ Eventually, the [[LIONSBERG Integrated Delivery System]] aims to build towards i
 Integrated Delivery agreements routinely include the following elements: 
 
  1. A legal relationship  
- 2. A legal structure 
- 3. A management committee
- 4. An incentive pool
- 5. A no-blame working environment
+ 2. A legal structure  
+ 3. A management committee  
+ 4. An incentive pool  
+ 5. A no-blame working environment  
  6. Design assistance from the entire team  
  7. Collaboration software  
  8. Lean delivery elements    

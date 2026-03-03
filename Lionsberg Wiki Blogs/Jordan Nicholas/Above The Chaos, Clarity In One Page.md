@@ -67,4 +67,3 @@ As new forces and superpowers of technology in-break, they will rapidly accelera
 
 
 What is wrong the way of human being and doing on earth. 
-

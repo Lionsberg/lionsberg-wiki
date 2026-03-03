@@ -1,11 +1,11 @@
 # Discern the Wise Right Next Steps
 
-Vision without action is a dream.
+Vision without action is a dream.  
 Action without wisdom is a storm.
 
-The [[New Civilization]] is not built by grand declarations.
-It is built by **reliable promises, faithfully kept** —
-Week after week, step after step,
+The [[New Civilization]] is not built by grand declarations.  
+It is built by **reliable promises, faithfully kept** —  
+Week after week, step after step,  
 Each one discerned with care and carried out with integrity.
 
 This is the sacred craft of turning intention into reality.
@@ -16,16 +16,16 @@ This is the sacred craft of turning intention into reality.
 
 At the heart of every living [[Circle]] is a simple, powerful rhythm that transforms good intentions into concrete results. It has four movements:
 
-**SHOULD** — What should be done?
+**SHOULD** — What should be done?  
 Step back and look at the whole. Given your [[Quest]], your purpose, and the needs before you — what actions would most advance [[The Goal]]? Do not filter yet. Let the full picture emerge.
 
-**CAN** — What can we actually do?
+**CAN** — What can we actually do?  
 Now bring it down to earth. Given your time, your energy, your resources, your constraints — what is realistically within reach this week? Be honest. Overcommitment is the enemy of trust.
 
-**WILL** — What will each person commit to?
+**WILL** — What will each person commit to?  
 This is the sacred moment. Each member of the Circle speaks their promise aloud: *I will do this specific thing by this specific time.* Not vague intentions. Clear, nameable commitments that can be witnessed and verified.
 
-**DID** — What did we actually accomplish?
+**DID** — What did we actually accomplish?  
 At the next gathering, each person reports: *Here is what I promised. Here is what I delivered.* No shame. No blame. Just truth. The gap between WILL and DID is not failure — it is **data**. It is the raw material from which wisdom grows.
 
 ---
@@ -82,14 +82,14 @@ Every time you say *I will* and then *I did*, you weave a thread of **trust** in
 
 Over time, these threads accumulate into something unbreakable — a living network of mutual reliability that can bear the weight of genuine transformation.
 
-This is how the Great Work advances.
-Not by heroic leaps. By faithful steps.
+This is how the Great Work advances.  
+Not by heroic leaps. By faithful steps.  
 Discerned together. Committed aloud. Delivered with integrity.
 
 ---
 
-Your Circle has its rhythm.
-Your commitments are flowing.
+Your Circle has its rhythm.  
+Your commitments are flowing.  
 Your Quest is advancing.
 
 Now it is time for the most important play of all.
@@ -97,5 +97,5 @@ Now it is time for the most important play of all.
 **The next play is [[Pass The Flame]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The Architecture of The Playbook]] for the full navigation.  
 See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.

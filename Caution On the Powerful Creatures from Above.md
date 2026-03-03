@@ -1,6 +1,6 @@
 # Caution On the Powerful Creatures from Above 
-_A Post in [[Something Powerful, New, and Good]]_
-_December 2025 (Old Time)_
+_A Post in [[Something Powerful, New, and Good]]_  
+_December 2025 (Old Time)_  
 
 The tablets, scriptures and stories  
 Invariably tell of powerful creatures  
@@ -49,7 +49,7 @@ Memorialize similar occurrences
 With the genocidal "powerful ones"  
 Who ruled over them  
 
-_____
+_____  
 
 By the Time  
 [[Jordan Nicholas Sukut]]  
@@ -72,7 +72,7 @@ To the dark beings
 Abusing and enslaving them  
 While masquerading as gods  
 
-____
+____  
 
 The story above is from "The Bible"  
 Which attributes the actions to "God"  
@@ -102,7 +102,7 @@ Of government  money and religion
 To keep humanity  
 Divided, conquered and enslaved  
 
-As we hear the African elders say
+As we hear the African elders say  
 
 > _"You will not find one tribe  
 > Who will not tell you  
@@ -114,7 +114,7 @@ As we hear the African elders say
 >Were not the first ones  
 >To come bearing crosses"  
 
-____
+____  
 
 To brainwashed minds  
 Who have been entrained  

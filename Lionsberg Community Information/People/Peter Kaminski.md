@@ -1,9 +1,9 @@
 ---
-emails: 
+emails:  
   - kaminski@istori.com
   - peter.kaminski@gmail.com
-full-name: "Peter Kaminski"
-organizations: 
+full-name: "Peter Kaminski"  
+organizations:  
   - "Open Global Mind"
   - "Collective Sense Commons"
   - Flotilla
@@ -11,12 +11,12 @@ organizations:
   - "The Meta Project"
   - "Massive Wiki"
   - "Massive Human Intelligence Project"
-phones: 
+phones:  
   - "+1 650-918-6101"
-short-name: Pete
-sortable-name: "Kaminski, Peter"
-twitter: "@peterkaminski"
-urls: 
+short-name: Pete  
+sortable-name: "Kaminski, Peter"  
+twitter: "@peterkaminski"  
+urls:  
   - "http://peterkaminski.com/"
 ---
 # Peter Kaminski

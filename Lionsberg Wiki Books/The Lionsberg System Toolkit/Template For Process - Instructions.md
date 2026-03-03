@@ -51,5 +51,3 @@
 
 ### Approval
 *Document the names and titles of all individuals who reviewed and approved this process, and the date of their approval. This confirms that the process is agreed upon by relevant stakeholders.*
-
-

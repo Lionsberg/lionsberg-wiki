@@ -66,14 +66,14 @@ _____
 
 ## Conceptualizing the Common Journey of Billions of Heroes 
 
-![[The Common Journey Sketch.png]]
+![[The Common Journey Sketch.png]]  
 *For a higher resolution image see [[The Common Journey Sketch.pdf]]*
 
 So we are conceptualizing [[The Common Journey]] or [[The Epic Quest]] FROM the [[Old]], TO the [[New]]. 
 
 We want everyone to find their [[Way]] to the [[New]].... so how do we move the whole population? 
 
-We must make preparations for ~10 billion people, over ~10 to 20 years, traveling by [[Tribe]]. 
+We must make preparations for ~10 billion people, over ~10 to 20 years, traveling by [[Tribe]].  
 ____
 
 *We are designing and building an [[Environment]] and the [[Conditions]]...*
@@ -92,24 +92,23 @@ ____
 
 *..designed to facilitate [[Emergence]] and the [[Adventure]] into the [[Unknown]].*
 
-*The experiential [[Progress]] through the [[Process]] is informed by [[Primes]] that nudge behavior [[Just In Time]].*
-____
+*The experiential [[Progress]] through the [[Process]] is informed by [[Primes]] that nudge behavior [[Just In Time]].*  
+____  
 Every [[Quest]] is a [[Story]]... and [[Every Story Is A Prophesy]] of even greater things to come as [[The Movement]] grows. 
 
 Stories are presented via [[Story Boards]], which act as Manifestos, Budgets, Plans, and Retrospectives, driving the [[Resourcing and Engagement Flywheel]]. 
 
 The [[LIONSBERG System]] enables [[Interoperability]] and [[Ecosystemic Flows]] of Resources and Knowledge across the distributed array. 
 
-As we progress, leveraging 1/10th of our Resource Flows to continuously improve the systems and infrastructures of the New Era in stride. 
-_____
+As we progress, leveraging 1/10th of our Resource Flows to continuously improve the systems and infrastructures of the New Era in stride.  
+_____  
 This ultimately will transform how we view [[Lifelong Learning]] and [[Meaningful Work]]. 
 
-_____
-The Process moves humanity through a [[Tipping Point Strategy]]... led by an [[Awakening]] and [[Shift In Consciousness]], that subsequently impels [[The Movement]] towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]]. 
+_____  
+The Process moves humanity through a [[Tipping Point Strategy]]... led by an [[Awakening]] and [[Shift In Consciousness]], that subsequently impels [[The Movement]] towards [[Unity]], [[Harmony]], and [[Coherence]] through [[Love]].  
 ______
 ## The System and Platform 
 
 This kind of collective journey requires a System and Platform to connect and empower [[The Movement]]. 
 
 The [[LIONSBERG System]] was built for this purpose. It is intended to serve as a [[Starting Point]] to be Continuously Improved as we [[Progress]]. 
-

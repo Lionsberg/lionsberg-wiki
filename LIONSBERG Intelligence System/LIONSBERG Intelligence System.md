@@ -56,7 +56,7 @@ The system will be made up of several synergistic layers:
 
 ## 🛠️ Current Status
 
-✅ The LIONSBERG Wiki has been confirmed as the **living corpus and canonical foundation** for J.AI and subsequent You.AI and Group.AI 
+✅ The LIONSBERG Wiki has been confirmed as the **living corpus and canonical foundation** for J.AI and subsequent You.AI and Group.AI  
 ✅ The 72 sacred prompts have been written and are being used to seed the voice corpus  
 ✅ The Obsidian Vault is structured and synced via GitHub for seamless updates  
 ✅ The first voice transmission tracker and task log have been activated  
@@ -77,7 +77,7 @@ The system will be made up of several synergistic layers:
 
 ## Translation 
 
-Translation across all languages. 
+Translation across all languages.  
 [[Lionsberg Rosetta Stone]] - AI. 
 
 ---

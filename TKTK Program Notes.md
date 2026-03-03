@@ -1,11 +1,11 @@
 # TKTK Program Notes
-_Updated 2015-01-18 (Old Time)_
+_Updated 2015-01-18 (Old Time)_  
 
 The purpose of this page is to provide ongoing updates to the current state of [[The Program]] as part of the [[System Wide Master Planning Process]]  
 
 ## Project Backlog / Wishlist 
 
-Where we left off
+Where we left off  
 - Merge and elevate The Sacred Ascent into canonical ve…           
   ◼ Renumber Book of LIONSBERG chapters for coherence                
   ◻ Rewrite The Invitation to highest form                           
@@ -39,7 +39,7 @@ Where we left off
 4. Fold [[Becoming a Warrior of The Way]] into something else... 
 	1. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  
 	2. [[Rediscovering The Way - Take 2]]  
-	3. 
+	3.  
 5. Fold [[Lionsberg Orientation and Training System]] into something else - the playbook? 
 
 
@@ -67,49 +67,49 @@ Where we left off
 					1. ✅  Leads to [[The LIONSBERG Playbook]]  
 	2. ✅  Working Title: [[the nameless book]]  - perhaps merge with the above  
 		- Lost interest / direction on this 
-		1. Criteria 
+		1. Criteria  
 			1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
-			2. It should be sufficient to build the New Civilization from
+			2. It should be sufficient to build the New Civilization from  
 			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
 	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
 8. ✅ Have Claude Code do an initial resonance review and improvement on all the main files linked to from [[README]] and [[the nameless book]] so the "entrance" is clean and tidy. 
 9. ✅ End up deleting [[the nameless book]] and creating [[LIONSBERG 101]]
 10. 🔄 **THE STORY**
 	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
-	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files. 
+	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files.  
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
 	3. 🔄 Weave into [[The Story of LIONSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
 		1. Weave [[The Caves]] and the wilderness journey into [[The Story of LIONSBERG]]  
 	
 11. 🔄 **THE PLAY**
 	1. ✅ Have Claude Code redraft [[The Great Game of LIONSBERG]] into chapter 15 of [[The Book of LIONSBERG]]  
-	2. ✅ Have Claude Code recreate [[The LIONSBERG Playbook]] in [[The Book of LIONSBERG]]
-	3. Invite some people to play 
+	2. ✅ Have Claude Code recreate [[The LIONSBERG Playbook]] in [[The Book of LIONSBERG]]  
+	3. Invite some people to play  
 		1. Locally - our networks  
 		2. Globally - our networks  
 		3. Planetary events with Rick?   
-	4. host one instance of The Game 
+	4. host one instance of The Game  
 	
 12. ✅ **THE PLAYBOOK**
-	1. ✅ Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following 
+	1. ✅ Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following  
 		1. ✅ [[The LIONSBERG Playbook]]  
 			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
-			2. ✅ Define the most important plays... 
+			2. ✅ Define the most important plays...  
 	
 13. **THE PROJECT DELIVERY GUIDE**
-	1. ✅ Transform the PDG (original form) into an interlinked wiki book 
+	1. ✅ Transform the PDG (original form) into an interlinked wiki book  
 		1. [[The Program Delivery Guide]]  
 	2. Reflect the PDG as a new section in [[The Book of LIONSBERG]]  
-	3. 
+	3.  
 	
 14. 🔄 **FREQUENTLY ASKED QUESTIONS**
-	1. Respond to [[Frequently Asked Questions]] by creating new Plays. 
+	1. Respond to [[Frequently Asked Questions]] by creating new Plays.  
 	
 15. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
 		1. Get the Ark livable  
 			1. Register under some kind of church / ecclesia  
-				1. On the road by ? 
+				1. On the road by ?  
 	
 16. **STEWARDSHIP** 
 	1. There is an emergent need to form a church or other similar shared stewardship structure    
@@ -125,7 +125,7 @@ Where we left off
 1. Begin **The Great Game**  
 2. Connect and empower [[The First Three Percent]]  
 
-Easy... 
+Easy...  
 
 ## 2025 Notes 
 
@@ -203,10 +203,10 @@ Passing through **[[The 144 Gates of Initiation]]**
 16. **[[The Great Game of LIONSBERG]]** ✅ (993 words)
 
 
-____
+____  
 Crafted: [[The Strategy For the First 100]]  
 
-_____
+_____  
 ## The LIONSBERG Playbook
 
 17. **[[The LIONSBERG Playbook]]** ✅ (541 words) (mythic entry)  
@@ -218,12 +218,12 @@ _____
 - Stepped back from The Playbook to look at The Story as the container of the entire experience.  
 - Rearchitected [[The Story of LIONSBERG]] ✅
 
-______
+______  
 
     
 ## **I. Arrival and Invitation**
 
-_The First Contact, Gates of Entry, and Outer Courts_
+_The First Contact, Gates of Entry, and Outer Courts_  
 
 - **[[README]]** — Universal landing page and summons.
     
@@ -244,12 +244,12 @@ _The First Contact, Gates of Entry, and Outer Courts_
 
 ## **II. Initiation Into The Great Game**
 
-_The Awakening and Initiation Gates_
+_The Awakening and Initiation Gates_  
 
 - **[[The Great Game]]** — Orientation to the whole.
     
 
-**The Foundations of Play**
+**The Foundations of Play**  
 
 - **[[Your Role in the Story]]** — Discovering your part.
     
@@ -260,7 +260,7 @@ _The Awakening and Initiation Gates_
 - **[[Your First Quest]]** — First embodiment in action.
         
 
-**The Rising Convergence**
+**The Rising Convergence**  
 
 - **[[The Mission]]** — The collective convergence.
     
@@ -269,7 +269,7 @@ _The Awakening and Initiation Gates_
 - **[[The Great Convergence and Goal]]** — The Vision of fulfillment.
         
 
-**The Climactic Reveal**
+**The Climactic Reveal**  
 
 - **[[The Great Game of LIONSBERG]]** — Where all foundations converge into one coherent Way of Life, Learning, Work, and Play.
     
@@ -278,9 +278,9 @@ _The Awakening and Initiation Gates_
 
 ## **III. The LIONSBERG Playbook**
 
-_The Living Guide to Embodiment_
+_The Living Guide to Embodiment_  
 
-The Playbook is the **practical guide**: how to actually play the Great Game in your life, your circle, and your community.
+The Playbook is the **practical guide**: how to actually play the Great Game in your life, your circle, and your community.  
 
 - **[[The LIONSBERG Playbook]]** — The mythic opening.
     
@@ -308,9 +308,9 @@ The Playbook is the **practical guide**: how to actually play the Great Game in 
 
 ## **IV. The Sacred Ascent**
 
-_The Path Towards Mastery — The Art and Science of the Way_
+_The Path Towards Mastery — The Art and Science of the Way_  
 
-The Ascent is the **discipline of mastery** — weaving together spiritual, martial, healing, yogic, artistic and builder traditions into one grand synthesis and Way.
+The Ascent is the **discipline of mastery** — weaving together spiritual, martial, healing, yogic, artistic and builder traditions into one grand synthesis and Way.  
 
 - **The Way of Embodiment** — Living in alignment.
 	 How to eat, walk, speak, build.     
@@ -333,7 +333,7 @@ The Ascent is the **discipline of mastery** — weaving together spiritual, mart
 
 ## 📚 **VI. The Reference Library**
 
-_Tools, Mediations, and Threads_
+_Tools, Mediations, and Threads_  
 
 - **[[The LIONSBERG Book of Meditations]]**
     
@@ -355,9 +355,9 @@ _Tools, Mediations, and Threads_
 
 ## 🌌 **VII. The Eternal Game**
 
-_The Horizon Beyond_
+_The Horizon Beyond_  
 
-Here the path expands into the **living continuum** — the universal and eternal dimensions of a Game with no beginning or end but ONE.
+Here the path expands into the **living continuum** — the universal and eternal dimensions of a Game with no beginning or end but ONE.  
 
 - The Great Game as a Living System
     
@@ -382,10 +382,10 @@ Here the path expands into the **living continuum** — the universal and eterna
 
 ---
 
-___
+___  
 
 ## The LIONSBERG Sacred Codex
-⏳ (the highest and deepest architecture — theology, metaphysics, law, cosmic blueprint)
+⏳ (the highest and deepest architecture — theology, metaphysics, law, cosmic blueprint)  
 
 - **[[The LIONSBERG Narrative Universe]]**
 	- **[[The Story of LIONSBERG]]**  
@@ -422,7 +422,7 @@ ___
 - **[[Something Powerful, New, and Good]]**  
 
 
-_____
+_____  
 
 ### 2. **Survival → Thrival Bridge**
 
@@ -450,11 +450,11 @@ _____
 
 - **Three levels of depth:**
     
-    1. **Exoteric** (surface): “Join a Circle. Play this Quest. Eat together. Plant together.”
+    1. **Exoteric** (surface): “Join a Circle. Play this Quest. Eat together. Plant together.”  
         
-    2. **Mesoteric** (practitioner): “Here’s the Playbook. Here’s how to run your season.”
+    2. **Mesoteric** (practitioner): “Here’s the Playbook. Here’s how to run your season.”  
         
-    3. **Esoteric** (adept): “Here’s the Codex. Here’s the Ascent. Here’s the cosmic law.”
+    3. **Esoteric** (adept): “Here’s the Codex. Here’s the Ascent. Here’s the cosmic law.”  
         
 - Everyone gets what they can hold. No pressure to go deeper unless they’re ready.
     
@@ -517,7 +517,7 @@ _____
 
 ## IV. Summary
 
-To move the _entire population_, you must:
+To move the _entire population_, you must:  
 
 - Multiply **entry doors**,
     

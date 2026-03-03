@@ -2,9 +2,9 @@
 
 ## Purpose 
 
-Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the Lionsberg Movement out to at least 34 committed [[Lionsberg Co-Creators]].
+Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the Lionsberg Movement out to at least 34 committed [[Lionsberg Co-Creators]].  
 
-With that [[Milestones|Milestone]] now completed, it is our hope that the tipping point strategy can become self-sustaining as each Co-Creator invites in the right people at the right time as the epic Story unfolds. 
+With that [[Milestones|Milestone]] now completed, it is our hope that the tipping point strategy can become self-sustaining as each Co-Creator invites in the right people at the right time as the epic Story unfolds.  
 
 ## Allies Connected / To Connect
 

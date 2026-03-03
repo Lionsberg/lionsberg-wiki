@@ -60,7 +60,7 @@ More skills, stories, movement, music, and shared events.
 More opportunities for our children to learn through play and doing, guided by inspiring people they trust.  
 More ways for parents and mentors to step into meaningful roles—without burning out.  
 More hands-on, project-based, spiritually grounded, intergenerationally enriched learning.  
-More guilds, guides, apprenticeships, initiations, accountability, and vocational learning integrated into the fabric of daily life. 
+More guilds, guides, apprenticeships, initiations, accountability, and vocational learning integrated into the fabric of daily life.  
 More resources, structure, and support.  
 More adventure.  
 More purpose.  
@@ -105,6 +105,3 @@ Something powerful is stirring. Let’s keep tending the flame.
 
 In Service of One and All,  
 **~ J & The LIONSBERG Team**  
-
-
-

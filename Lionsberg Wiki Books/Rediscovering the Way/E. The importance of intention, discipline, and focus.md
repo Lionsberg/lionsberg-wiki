@@ -14,4 +14,3 @@ As we master our emotions and thoughts, it is essential to recognize the importa
     
 
 By recognizing the importance of intention, discipline, and focus, and cultivating these qualities, we become more effective Warriors and powerful contributors to the Highest Intention and Greatest Good. Through this cultivation, we can remain steadfast and purposeful in our journey, transforming ourselves, our communities, and the world around us in alignment with the fundamental universal principles and values, while progressing effectively along the [[Critical Path]] towards [[The Goal]]. 
-

@@ -1,6 +1,6 @@
 # Lionsberg Orientation and Training System - OLD
 
-v0.1
+v0.1  
 
 ## Week 1: Awakening and Calling 
 
@@ -33,7 +33,7 @@ Day 19 - The Army of the Empire - Freedom Isn't Free
 Day 20 - Walking in the Way of Freedom, Faith and Miracles  
 Day 21 - Rest, Regeneration, and Retrospection  
 
-[[Week 4 - Pause, Retrospect and Regroup]]     
+[[Week 4 - Pause, Retrospect and Regroup]]  
 
 ## Week 3: Life in the Wilderness  - Part I 
 
@@ -137,11 +137,11 @@ Day 92 - Rest, Regeneration, and Retrospection
 
 ## Week 13 / Week 1: The Lionsberg Elevation Initiative - The Next Steps on Your Transformational Quest Towards Destiny 
 
-Your transformational journey is not over - it is just beginning. 
+Your transformational journey is not over - it is just beginning.  
 
-The Lionsberg Elevation Initiative is a transformational program designed to help every individual, group, community, and ecosystem develop towards the fullness of their unique potential and flourish in harmony. 
+The Lionsberg Elevation Initiative is a transformational program designed to help every individual, group, community, and ecosystem develop towards the fullness of their unique potential and flourish in harmony.  
 
-It consists of six modules: 
+It consists of six modules:  
 
 1. Human Regeneration and Transformation  
 2. Group Regeneration and Transformation  
@@ -150,13 +150,12 @@ It consists of six modules:
 5. Cultural Regeneration and Transformation  
 6. Ecosystem Regeneration and Transformation  
 
-These modules each draw on a common set up universal wisdom, principles, and values, transformed into a Lionsberg Pattern Language that can be applied at any fractal level. 
+These modules each draw on a common set up universal wisdom, principles, and values, transformed into a Lionsberg Pattern Language that can be applied at any fractal level.  
 
-During the 3 year membership period and prior to being admitted into Citizenship, every prospective Citizen is required to complete all 6 modules. 
+During the 3 year membership period and prior to being admitted into Citizenship, every prospective Citizen is required to complete all 6 modules.  
 
-The courses are available to members who have successfully completed the Lionsberg Orientation and Training Program. 
+The courses are available to members who have successfully completed the Lionsberg Orientation and Training Program.  
 
-Your next step is to being Module 1: Human Regeneration and Transformation. Your life and your world may never be the same! 
+Your next step is to being Module 1: Human Regeneration and Transformation. Your life and your world may never be the same!  
 
-Return to the [[LIONSBERG Academy]] 
-
+Return to the [[LIONSBERG Academy]]  

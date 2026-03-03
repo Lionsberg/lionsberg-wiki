@@ -15,7 +15,7 @@ LIONSBERG is an unincorporated voluntary spiritual association of individuals, t
 
 This Association of Associations is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
 
-While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]]. 
+While transcending legal categorization *inherently and by definition*, it is presently free and tax exempt under domain-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]].  
 ____
 ## 2024 and Before 
 
@@ -27,16 +27,16 @@ While rooting itself in transcendence, the **provisional structure** for [[The 7
 
 For a consolidated visual diagram, please see the embedded PDF below. 
 
-Core Concepts: 
+Core Concepts:  
 1. From [[ONE]] in service of [[All]], LIONSBERG exists and flows.  
 2. Lionsberg is a mythical spiritual name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Goal]] points at.  
 3. From the Meta level, LIONSBERG incarnates in various SpatioTemporal Domains as a reflection of the [[Creator's Intent]].  
 4. One level up from the overarching and uniting Spirit / Intention / Goal is the Divine Right and Moral Responsibility of Sovereign Individual, Groups, and Localities to Voluntarily Associate to bring the Creator's Intent into Reality.  
 5. As a result of this Voluntary Association of Sovereign entities, [[LIONSBERG]] emerges in any domain as a Sovereign Spiritual Body, co-creating in service of [[ONE]] and [[All]].  
 	1. This Spiritual Body is *by nature and definition* superordinate to any and all SpatioTemporal Authority.  
-	2. This Spiritual Body and the associated pattern language / operating system / Way of Being are already operative in realms and dimensions beyond Earth. This is an incarnation, not a local human or Earthly creation. 
-	3. The Spiritual Body and all its constituent holofractal elements are eternally free to self-organize and self-govern on the Divine Right and Moral Responsibility to do so. 
-	4. While transcending legal categorization *inherently and by definition* as a spiritual entity operating across realms and dimensions, it activities are free and tax exempt under Earth-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]]. 
+	2. This Spiritual Body and the associated pattern language / operating system / Way of Being are already operative in realms and dimensions beyond Earth. This is an incarnation, not a local human or Earthly creation.  
+	3. The Spiritual Body and all its constituent holofractal elements are eternally free to self-organize and self-govern on the Divine Right and Moral Responsibility to do so.  
+	4. While transcending legal categorization *inherently and by definition* as a spiritual entity operating across realms and dimensions, it activities are free and tax exempt under Earth-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]].  
 6. One level up from Individuals in voluntary association are [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Teams]], [[Groups]], and [[Communities]] in voluntary association. 
 	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association]] by default unless otherwise self-organized and differentiated.  
 7. From there, LIONSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
@@ -51,7 +51,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 13. To support this emergence, [[The Lionsberg Strategy and Plan]] calls for the co-creation of ~100,000 local socioeconomic federations / ecosystems, each serving ~100,000 citizens, and co-operating around [[The Commons]] and the [[New Human Operating System]], enabling ecosystemic resource and knowledge flows across the Federation.  
 14. These local ecosystems will self-organize and federate into self-governing [[Action Domains]] and [[Integration Domains]]—such as [[Bioregions]], which in turn will self-organize and federate into [[Georegions]] and then up into The Whole.  
 15. To support the emergence of these federations, [[The Lionsberg Strategy and Plan]] calls for reallocating ~2/3 of the $30 Trillion in planned military and defense expenditures during the [[10 Year Grand Strategy]] to instead co-create an interlinked network of [[Lionsberg Instantiation Hubs]]: 
-	1. ~12 to 24 [[Georegional Hubs]]
+	1. ~12 to 24 [[Georegional Hubs]]  
 	2. ~150 to 200 [[Bioregional Hubs]]  
 	3. ~100,000 [[Local Hubs]]  
 	4. ~1,000,000 [[Community Hubs]]    
@@ -59,7 +59,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 17. The diagram below illustrates the configuration of the first legal instantiation / Commons planted in the United States to support the emergence of [[The Federation]]. 
 18. This provisional structure was designed and built to enable the first substantial ecosystemic resource flows around the world, through which the full ecosystem will emerge and instantiate itself in all localities that voluntarily so choose during the [[10 Year Grand Strategy]] and Beyond.   
 19. The Community will establish and federate conceptually similar yet culturally-and-contextually-appropriate structures polycentrically around the planet, connected together at the mycelial level to allow for the [[Voluntary Exchange]] of resources, information, and ideas between all fractal levels and localities. 
-	1. It is likely that the next three Mother Trees will be incarnated in Europe (Switzerland?), Africa (Kenya?), and South America. 
+	1. It is likely that the next three Mother Trees will be incarnated in Europe (Switzerland?), Africa (Kenya?), and South America.  
 	2. These next instantiations will be resourced out of the first $10 Million aggregated through the US 501(c)(3). 
 
 This structure is designed to facilitate Emergence, [[Rapid Prototyping]] and  [[Continuous Improvement]].  

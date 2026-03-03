@@ -7,7 +7,7 @@ You have read [[Welcome to LIONSBERG]]. You have gathered your circle of 3 to 12
 
 This guide will walk you through **your first 90 minutes together** — what to read aloud, how to sense-make as a group, and how to choose your first quest.
 
-By the end of today, you will have:
+By the end of today, you will have:  
 - Consecrated your circle with a name and simple agreements
 - Read and reflected on **The Story** and **The Great Game** together
 - Chosen your first **Seasonal Quest**
@@ -24,7 +24,7 @@ By the end of today, you will have:
 
 **One person facilitates.** Rotate this role in future meetings.
 
-**Welcome** (~2 min):
+**Welcome** (~2 min):  
 - Acknowledge everyone has read [[Welcome to LIONSBERG]]
 - We're here to step into The Story and The Great Game together
 - This is a threshold moment—we're crossing from the Old World into the New
@@ -58,7 +58,7 @@ _Don't worry about understanding everything. Let the story and the game wash ove
 
 **Round 1: Individual Reflections** (~15 min, ~2-3 min per person)
 
-Go around the circle. Each person shares:
+Go around the circle. Each person shares:  
 - What resonated most from what we just read?
 - What questions arose?
 - What gifts do I bring to this circle?
@@ -73,7 +73,7 @@ Now discuss together and decide:
 
 Choose a name for your circle—or use a placeholder until one emerges.
 
-Examples:
+Examples:  
 - Circle of [Your Location] (e.g., "Circle of Sandpoint")
 - Circle of [Your Focus] (e.g., "Circle of Healing Arts")
 - Circle of [Your Intention] (e.g., "Circle of the Sacred Flame")  
@@ -88,7 +88,7 @@ Or simply: "Our Circle" until something better emerges.
 
 Agree on 2-5 core commitments that will hold your circle together.
 
-**Suggested starting agreements:**
+**Suggested starting agreements:**  
 - **Confidentiality**: What's shared in circle stays in circle  
 - **Respect**: Honor each person's voice and journey  
 - **Show up**: When you commit to attend, attend  
@@ -105,7 +105,7 @@ Add any others that matter to your specific circle, but **keep it simple**—2-5
 
 A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~90 days from now max depending on when you begin).
 
-It should be:
+It should be:  
 - **Real**: Something that actually transforms your lives or community  
 - **Achievable**: Within reach with several hours per week from your circle. 
 - **Meaningful**: Connected to needs you see and gifts you can offer  
@@ -113,12 +113,12 @@ It should be:
 
 **Quest Brainstorm** (~10 min)
 
-Go around the circle. Each person suggests one possibility:
+Go around the circle. Each person suggests one possibility:  
 - What need do we see in our community or lives?
 - What gift could we offer together?
 - What's practically achievable between now and the next solstice or equinox?
 
-**Example First Quests:**
+**Example First Quests:**  
 - Plant a community garden in a neglected space  
 - Plan and host a neighborhood gathering to build connection and discuss this initiative  
 - Create a mutual aid network for elders or families in need  
@@ -130,7 +130,7 @@ Go around the circle. Each person suggests one possibility:
 
 **Choose ONE Quest** (~7 min)
 
-Discuss which quest resonates most with the group. Look for:
+Discuss which quest resonates most with the group. Look for:  
 - What lights people up when they talk about it?
 - What aligns with gifts people named earlier?
 - What's realistic given time and resources available?
@@ -139,7 +139,7 @@ Discuss which quest resonates most with the group. Look for:
 
 **Set Your Rhythm** (~3 min)
 
-Decide together:
+Decide together:  
 - **How often will we meet?** (Suggest at least weekly for 90 minutes to begin)
 - **What day and time?** (Choose a consistent slot that works for everyone)
 - **Where?** (Physical location or video link)
@@ -157,7 +157,7 @@ You are now part of two Circles: the one that invited you, and the one you form 
 
 **Close with Gratitude** (~2-3 min)
 
-Go around one final time. Each person completes this sentence:
+Go around one final time. Each person completes this sentence:  
 > "I'm grateful for _____."
 
 ---
@@ -168,27 +168,27 @@ Go around one final time. Each person completes this sentence:
 
 Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Your typical meeting structure will be something like:
 
-**Opening Ritual** (5 min)
+**Opening Ritual** (5 min)  
 - Brief centering practice (breath, meditation, or prayer)
 - Remember who we are and why we're here
 
-**Check-In Round** (10-15 min)
+**Check-In Round** (10-15 min)  
 - Each person shares where they are and how they are coming in to the gathering (emotionally, spiritually, practically)
 - No fixing, no discussion, just witnessing
 
-**Quest Coordination** (30-40 min)
+**Quest Coordination** (30-40 min)  
 - Progress updates: What's been done since last meeting?
 - Obstacles: What's blocking us?
 - Planning: What are the [[Discern the Wise Right Next Steps|Wise Right Next Steps]]?
 - Support: Who needs what from the circle?
 
-**Harvest** (10 min)
+**Harvest** (10 min)  
 - What are we discovering as we work together?
 - What is working well?
 - What would we do differently?
 - What are we learning — about ourselves, each other, the quest?
 
-**Closing Ritual** (5 min)
+**Closing Ritual** (5 min)  
 - Gratitude round
 - Commitments: What will each person do before next meeting?
 - Benediction or closing word
@@ -197,23 +197,23 @@ Use **[[The LIONSBERG Playbook]]** for detailed guidance on circle practices. Yo
 
 Every solstice and equinox (~every 90 days):
 
-**1. Complete Your Quest**
+**1. Complete Your Quest**  
 - Celebrate what you've accomplished together
 - Acknowledge the transformation in your lives and community
 - Share stories of what emerged through your work
 
-**2. Retrospective**
+**2. Retrospective**  
 - What worked well in our circle?
 - What would we like to do better in the future?
 - What did we learn that we can carry forward?  
 - What would we like to offer or share with other groups? 
 
-**3. Choose Your Next Quest**
+**3. Choose Your Next Quest**  
 - What's calling us now?  
 - What's the next tangible act of goodwill we can offer?  
 - How do we want to grow or evolve as a circle?  
 
-**4. Join Seasonal Gatherings** (as they emerge)
+**4. Join Seasonal Gatherings** (as they emerge)  
 - Connect with other circles in your region
 - Share stories and learnings
 - Celebrate together as the movement grows  
@@ -241,8 +241,8 @@ The mathematics are the mathematics of life itself — the Fibonacci sequence. I
 
 For those desiring deeper community, connection, and guidance, a first living instance of The Game is already underway — **[[the nameless emergence]]**.
 
-**Commitment:** The first tenth of your time — several hours per week
-**Structure:** Your sovereign circle, connected to the larger emerging body
+**Commitment:** The first tenth of your time — several hours per week  
+**Structure:** Your sovereign circle, connected to the larger emerging body  
 **How to join:** Let the person who invited you know you're in and ask them to communicate word back to the center.
 
 You have everything you need to play — you are sovereign, self-governing, and free to adapt the patterns to your context. And by connecting to this first instance, your circle becomes part of something larger from the start.
@@ -281,20 +281,20 @@ You have everything you need to play — you are sovereign, self-governing, and 
 
 **You have everything you need to begin.**
 
-The Golden Seed is in your hands.
-Your circle is formed.
+The Golden Seed is in your hands.  
+Your circle is formed.  
 Your quest awaits.
 
 The rest will emerge through living it together—week by week, quest by quest, season by season.
 
-**Heaven On Earth is not a distant dream.**
-**It is the Game you are now playing.**
+**Heaven On Earth is not a distant dream.**  
+**It is the Game you are now playing.**  
 **Right here, right now, together.**
 
 ---
 
-**The Great Game has begun.**
+**The Great Game has begun.**  
 **It is now your move.**
 
-**Proceed to your first quest with courage and joy.**
+**Proceed to your first quest with courage and joy.**  
 **The world awaits what your circle will co-create.**

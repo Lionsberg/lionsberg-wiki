@@ -55,31 +55,31 @@
 
 
 ### Wendy M - Updates notes from Chat
-"My dream is that we start to see where the patterns are - combining individual with those in the group - so that we can see areas of emergence that advance the whole... "
+"My dream is that we start to see where the patterns are - combining individual with those in the group - so that we can see areas of emergence that advance the whole... "  
 
-Tech Working Group 
+Tech Working Group  
  
-Regenerative Agriculture: - 
+Regenerative Agriculture: -  
 * Map WISE Collaboration flow - Wendy & Marianne
 * Mapathon event - Wendy & Vincent
 
-Collaborative Decision Making - 
+Collaborative Decision Making -  
 * Possibility to use the Flint App in Alpha and/or Beta - * Wendy & Trae
 
-Social Architecture
+Social Architecture  
 * Miro flow ‘Path of Service’ - Wendy
 * Communication via a Meta Newsletter 
 * Greeters / Guides to help orient people
 
-Create a Knowledge Network 
+Create a Knowledge Network  
 
-Knowledge repository 
+Knowledge repository  
 * AirTable / Catalist / Wiki / etc
 * Miro Master Flow
 * Tech project database
 
-Program of Life-long learning 
-Create the New Economy
+Program of Life-long learning  
+Create the New Economy  
 
 
 ## Culture and Practices
@@ -182,67 +182,67 @@ Create the New Economy
 
 ### "I Like" - what did we do well that we should continue.
 
-Wonderful energies, openness, shared thinking,. Great process discussion. Love communication planning.
+Wonderful energies, openness, shared thinking,. Great process discussion. Love communication planning.  
 
-I liked the initial framing intentions, helps us to know what to introduce. i liked the recognition placed on work already contributed
+I liked the initial framing intentions, helps us to know what to introduce. i liked the recognition placed on work already contributed  
 
-I liked that we had some tension and resolution during the call.
+I liked that we had some tension and resolution during the call.  
 
-I liked that we were able to move flexibly to issues that were top of mind, and especially ones that concerned the essence of how we can actually function together and communicate efficiently.
+I liked that we were able to move flexibly to issues that were top of mind, and especially ones that concerned the essence of how we can actually function together and communicate efficiently.  
 
-I like how the important things emerge through our time together... I like the deep insightfulness of the group... I like the CHALLENGE of balancing allowing the deep perspectives to emerge and get spoken, and the TENSION of wanting to get those into more of a STRUCTURE... I like that people are patient while all that tries to emerge and bring itself into being...
+I like how the important things emerge through our time together... I like the deep insightfulness of the group... I like the CHALLENGE of balancing allowing the deep perspectives to emerge and get spoken, and the TENSION of wanting to get those into more of a STRUCTURE... I like that people are patient while all that tries to emerge and bring itself into being...  
 
-I Liked - reconnecting to the energy
+I Liked - reconnecting to the energy  
 
-liked moving efficiently while also slowing down to fold in what was arising. liked creating and discussing path, groups processes. liked that tensions in what is not optimal got brought up discussed and solution potential moved forward. communication plan great!
+liked moving efficiently while also slowing down to fold in what was arising. liked creating and discussing path, groups processes. liked that tensions in what is not optimal got brought up discussed and solution potential moved forward. communication plan great!  
 
-We surfaced some elephants - that we are doing communication / wiki / complexity well enough
+We surfaced some elephants - that we are doing communication / wiki / complexity well enough  
 
 ### "I Wish We..."
 
-I wish we were more aware publicly about what has been emerging as of highest potential value short term, medium and long term. sometimes I forget but it is useful to keep front of mind and heart, to balance the ever present tension of wanting more faster better. wish there was more time! not facetious- anything we can do to create a sense of not being so rushed, wish for it. if I find it elsewhere, will share. hope you all do the same, as it doesn't feel personal and feels like many of us feel it.
+I wish we were more aware publicly about what has been emerging as of highest potential value short term, medium and long term. sometimes I forget but it is useful to keep front of mind and heart, to balance the ever present tension of wanting more faster better. wish there was more time! not facetious- anything we can do to create a sense of not being so rushed, wish for it. if I find it elsewhere, will share. hope you all do the same, as it doesn't feel personal and feels like many of us feel it.  
 
-I Wish - for more clarity on the meta and micro to emerge sufficient for each person who is willing, to see and own their piece with greater enthusiasm and momentum
+I Wish - for more clarity on the meta and micro to emerge sufficient for each person who is willing, to see and own their piece with greater enthusiasm and momentum  
 
-I Wish - for truly collective values-based exploration and decision-making among more people from more walks of life
+I Wish - for truly collective values-based exploration and decision-making among more people from more walks of life  
 
-I wish we didn't have to -- and then try to -- cover so much varied ground in such a short amount of time.
+I wish we didn't have to -- and then try to -- cover so much varied ground in such a short amount of time.  
 
-I wish we had a tentative agenda b4 the meeting, with some loose time framing, and a way to tee up future discussions points near the end for net meeting for next time. Also offline assignments an option.
+I wish we had a tentative agenda b4 the meeting, with some loose time framing, and a way to tee up future discussions points near the end for net meeting for next time. Also offline assignments an option.  
 
-I wish we... had transitioned a bit sooner to creating a shared map and understanding of what is up next and why (but I think that might have happened anyway, and maybe more powerfully, in a different want than I had planned, that I can just summarize after)
+I wish we... had transitioned a bit sooner to creating a shared map and understanding of what is up next and why (but I think that might have happened anyway, and maybe more powerfully, in a different want than I had planned, that I can just summarize after)  
 
-I wish we could spend more time sharing about the things we are working on, and discussing how much margin there is in our schedules. I feel like I am at times flying blind in understanding others' challenges and involvements.
+I wish we could spend more time sharing about the things we are working on, and discussing how much margin there is in our schedules. I feel like I am at times flying blind in understanding others' challenges and involvements.  
 
-I wish that someone - ?Jason would you be willing? worked me with to articulate how we might approach complexity /  change to steady our approach
+I wish that someone - ?Jason would you be willing? worked me with to articulate how we might approach complexity /  change to steady our approach  
 
-i wish we had / would be more concrete about forming teams and their purpose. I.e., establish minimal members, schedule a next meeting time. I wish we could be more rigorous about what topics we will and won’t cover. I wish we did more reflecting with good questions and pauses for thinking
+i wish we had / would be more concrete about forming teams and their purpose. I.e., establish minimal members, schedule a next meeting time. I wish we could be more rigorous about what topics we will and won’t cover. I wish we did more reflecting with good questions and pauses for thinking  
 
-I wish we’d know what we are doing next week before leaving today
+I wish we’d know what we are doing next week before leaving today  
 
 ### "I Wonder - What Would Happen If We...?"
 
-Each came to a meeting with our highest priority task and made a proposal for how to move it forward in a breakout room.
+Each came to a meeting with our highest priority task and made a proposal for how to move it forward in a breakout room.  
 
-I wonder what would happen if we all (each) submitted, before the meeting, a very short summary of what’s happening, where help is needed, breaking news, new contacts and initiatives, etc.
+I wonder what would happen if we all (each) submitted, before the meeting, a very short summary of what’s happening, where help is needed, breaking news, new contacts and initiatives, etc.  
 
-I wonder what would happen if we had a couple more 60-90 minute calls each week?
+I wonder what would happen if we had a couple more 60-90 minute calls each week?  
 
-I wonder what would happen if someone besides Jordan did a few of the things Jordan does every week for us?
+I wonder what would happen if someone besides Jordan did a few of the things Jordan does every week for us?  
 
-I Wonder what would happen if we all could be meeting like this and contributing to the energy moving forward, AND have it be a part of our livelihood instead of off the sides of our desks.
+I Wonder what would happen if we all could be meeting like this and contributing to the energy moving forward, AND have it be a part of our livelihood instead of off the sides of our desks.  
 
-I Wonder - about what the universe is up to, and what is being woven, and how we will attune ourselves more deeply to it and respond where and when necessary
+I Wonder - about what the universe is up to, and what is being woven, and how we will attune ourselves more deeply to it and respond where and when necessary  
 
-I wonder what would happen if we... committed to minimum standards of interoperability... that took less than 30? minutes per day, that brought the invisible things we are all doing to light in a way that invited the threads to be woven together for action / help / support...
+I wonder what would happen if we... committed to minimum standards of interoperability... that took less than 30? minutes per day, that brought the invisible things we are all doing to light in a way that invited the threads to be woven together for action / help / support...  
 
-I wonder what would happen if we had sufficient capital in right now to hire a couple key people in the group to handle communication and coordination. This would focus energy where it is hard where all is volunteer.
+I wonder what would happen if we had sufficient capital in right now to hire a couple key people in the group to handle communication and coordination. This would focus energy where it is hard where all is volunteer.  
 
-I wonder what would happen if we could figure out and map the constraints we are working with to help people shift into more effective coordination / collaboration.
+I wonder what would happen if we could figure out and map the constraints we are working with to help people shift into more effective coordination / collaboration.  
 
-if we had a very clear statement of what is Meta Project, ready to share out loud with others. if we had a very clear shared intention, described in a future vision (when this has been successful, it looks like this...)
+if we had a very clear statement of what is Meta Project, ready to share out loud with others. if we had a very clear shared intention, described in a future vision (when this has been successful, it looks like this...)  
 
-i wonder about how we would feel about each other if we knew (briefly) what they were contributing?
+i wonder about how we would feel about each other if we knew (briefly) what they were contributing?  
 
 ## The Coming Week
 - [ ] Schedule a COMMUNICATIONS TEAM meeting

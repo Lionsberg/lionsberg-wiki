@@ -114,6 +114,6 @@ Developed safety strategies are based on the following principles:
 
 ___
 
-_Previous: [[PDG - Target Value Design]]_
-_Next: [[PDG - Program Support and Financial Management]]_
+_Previous: [[PDG - Target Value Design]]_  
+_Next: [[PDG - Program Support and Financial Management]]_  
 _Return to [[The Program Delivery Guide]]_

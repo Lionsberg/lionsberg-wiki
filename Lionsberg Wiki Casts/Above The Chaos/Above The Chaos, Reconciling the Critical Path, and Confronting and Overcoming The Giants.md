@@ -8,48 +8,48 @@ I have recently been rereading Critical Path by Buckminster Fuller, one of the f
 
 Not unlike Bucky, I am setting out to see what an unknown individual, operating only on behalf of all humanity, the Creator, and All Creation, might accomplish in advancing Creation towards its Best and Highest Destiny.  
 
-“Which [[Omni-Human]] advantaging task, attemptable by the individual, is inherently impossible of accomplishment by any nation, private enterprise, religion, or other multipeopled, bias-fostering combination thereof.”
+“Which [[Omni-Human]] advantaging task, attemptable by the individual, is inherently impossible of accomplishment by any nation, private enterprise, religion, or other multipeopled, bias-fostering combination thereof.”  
 
-I deeply value the ability to cross-check and triangulate logic. 
+I deeply value the ability to cross-check and triangulate logic.  
 
-This is a long post, but I believe crucial reading to anyone who wants to understand the [[New Vision and Plan]].  Without understanding the the entire current order is fraudulent and about to [[Collapse]], a [[10 Year Grand Strategy]] to move All Humanity [[FROM the Old TO the New]] will not make any sense, and some might be tempted to waste time looking for political or economic solutions within the Existing Order that is Collapsing on them. 
+This is a long post, but I believe crucial reading to anyone who wants to understand the [[New Vision and Plan]].  Without understanding the the entire current order is fraudulent and about to [[Collapse]], a [[10 Year Grand Strategy]] to move All Humanity [[FROM the Old TO the New]] will not make any sense, and some might be tempted to waste time looking for political or economic solutions within the Existing Order that is Collapsing on them.  
 
 For more on the role of the [[Invisible Power Structures]] and [[The Giants]] see [[Above The Chaos, Censorship, Free Speech, and the End of America As We Thought We Knew It]].  It is crucial to link the "Deep State" elements in with the issues below, and that post traces the rise of The Blob of state actors post [[World War II]].  
 
-For a far simpler take on how we as individuals can rapidly connect to meet this moment in history, see [[Above The Chaos, An Astonishingly Simple Plan]]. Then [[Light Your Candle]], and [[Pass The Flame]]. 
+For a far simpler take on how we as individuals can rapidly connect to meet this moment in history, see [[Above The Chaos, An Astonishingly Simple Plan]]. Then [[Light Your Candle]], and [[Pass The Flame]].  
 
 ## The Multi-Generational Strategy and Plan 
 
-Whereas the first 50 years (and the millennia beforehand) required primarily the co-creation of the Knowledge and Technology that make the implementation possible, the [[10 Year Grand Strategy]] requires the co-creation of the systems and structure required to “pull” the entire human population through the transformation [[FROM the Old TO the New]], and to ensure that each and every family on Earth is abundantly provisioned by the poly-centric implementation, localization and instantiation of the [[The Prototype]], which orders within itself as a “kit of parts” the artifacts, tools, technologies, systems, and processes required for life and society to flourish. 
+Whereas the first 50 years (and the millennia beforehand) required primarily the co-creation of the Knowledge and Technology that make the implementation possible, the [[10 Year Grand Strategy]] requires the co-creation of the systems and structure required to “pull” the entire human population through the transformation [[FROM the Old TO the New]], and to ensure that each and every family on Earth is abundantly provisioned by the poly-centric implementation, localization and instantiation of the [[The Prototype]], which orders within itself as a “kit of parts” the artifacts, tools, technologies, systems, and processes required for life and society to flourish.  
 
-Bucky’s insight into the English Empire as the first closed-loop world system, and his insight into the requirement for a post-nation-state Omni-Integration of all localities, tribes, and nations into some form of [[Higher Order Functional Unity]], points the way towards the co-creation of a closed-loop [[Human System]] co-operating in support of the eternally regenerative flourishing of the [[Living System]]. 
+Bucky’s insight into the English Empire as the first closed-loop world system, and his insight into the requirement for a post-nation-state Omni-Integration of all localities, tribes, and nations into some form of [[Higher Order Functional Unity]], points the way towards the co-creation of a closed-loop [[Human System]] co-operating in support of the eternally regenerative flourishing of the [[Living System]].  
 
-The [[LIONSBERG System]] is purpose built for this objective. 
+The [[LIONSBERG System]] is purpose built for this objective.  
 
-Everything else becomes possible as reunite and become [[ONE Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]]. 
+Everything else becomes possible as reunite and become [[ONE Body]], advancing together towards [[The Goal]]. So [[Light Your Candle]], and [[Pass The Flame]].  
 
-Most of the words below are Bucky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. This is the [[Way]] we Co-Create the [[New]]. 
+Most of the words below are Bucky’s, synergized with mine, to bring out something [[New]] and entirely unpredictable from either. This is the [[Way]] we Co-Create the [[New]].  
 
 ## Building The Movement, and Transforming The World 
 
-The [[10 Year Grand Strategy]] can be thought of in two parallel streams: 
+The [[10 Year Grand Strategy]] can be thought of in two parallel streams:  
 
 1. Building [[The Movement]]  
 2. Transforming, renewing, and regenerating our lives and our world 
 
-To build [[The Movement]], [[Light Your Candle]], [[Pass The Flame]], and illuminate the Darkness. 
+To build [[The Movement]], [[Light Your Candle]], [[Pass The Flame]], and illuminate the Darkness.  
 
-As we become [[ONE Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. 
+As we become [[ONE Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].  
 
-This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand. 
+This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand.  
 
-The resulting pattern is the local and bioregional poly-centric implementation and adaptation of shared solutions and technologies. This ensures the sovereignty, autonomy, and local relevancy of each instance of [[The System]], while eliminating the need for each locality to reinvent the wheel, and enabling [[Interoperability]] and Resource Flows across [[The Body]]. 
+The resulting pattern is the local and bioregional poly-centric implementation and adaptation of shared solutions and technologies. This ensures the sovereignty, autonomy, and local relevancy of each instance of [[The System]], while eliminating the need for each locality to reinvent the wheel, and enabling [[Interoperability]] and Resource Flows across [[The Body]].  
 
-Bucky focused less on building [[The Movement]], and more on the 10 Year Grand Strategy to transform our Weapons into tools of Life. 
+Bucky focused less on building [[The Movement]], and more on the 10 Year Grand Strategy to transform our Weapons into tools of Life.  
 
-Below is the beginning of reconciliation and synergy of key ideas, bringing everything up to date for the present moment. 
+Below is the beginning of reconciliation and synergy of key ideas, bringing everything up to date for the present moment.  
 
-Note that the fraudulent and corrupted nature of the Collapsing Existing Order demands a holistic and rapid transformation [[FROM the Old TO the New]]. 
+Note that the fraudulent and corrupted nature of the Collapsing Existing Order demands a holistic and rapid transformation [[FROM the Old TO the New]].  
 ## Reconciling and Synergizing Key Ideas
 
 ### Context: The Meta Crisis 
@@ -792,7 +792,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - Whenever you come to a word with which you are not familiar, find it in the dictionary and write a sentence which uses that new word. Words are tools - [[Word Tools]] — and once you have learned how to use a  tool you will never forget it.
 - If your vocabulary is comprehensive, you can comprehend both the most subtle and most comprehensive patterns of experience.
 
-____
+____  
 # Misc. Notes from Critical Path 
 
 - I sought to discover what, if anything, can be effectively accomplished by a penniless, unknown individual—operating only on behalf of all humanity—in attempting to produce sustainingly favorable physical and metaphysical advancement of the integrity of all human life on our planet,  which omnihuman advantaging task, attemptable by the  individual, is inherently impossible of accomplishment by any nation, private enterprise, religion, or other multipeopled, bias-fostering combination thereof. 
@@ -825,13 +825,11 @@ ____
 
 
 
-Self-Disciplines of Buckminster Fuller
+Self-Disciplines of Buckminster Fuller  
 - Reaffirms the understanding that the New must be rooted in a New Practice and Way of Being. A [[New Normal]]. 
 
-The Geoscope 
+The Geoscope  
 - Outlines the design and functioning of a critical digital and physical educational and decision making tool to be included in [[The Prototype]].  
 
-World Game 
+World Game  
 - Creates a way of thinking Omni-Considerately about [[Best Possible Future]] for [[All]]. 
-
-

@@ -1,48 +1,48 @@
 # **The Kingdom of LIONSBERG — Plans and Specifications**
-_A Living Architectural Manual for the Instantiation of Heaven on Earth and Beyond_
-_v.0.1_
+_A Living Architectural Manual for the Instantiation of Heaven on Earth and Beyond_  
+_v.0.1_  
 
 ## **Preface — Dedication to the Builders of the New Civilization**
   
-To the Stewards, Builders, and ReMemberers of the ONE:
+To the Stewards, Builders, and ReMemberers of the ONE:  
   
-You who labor not for yourselves but for the wholeness of Creation—
-You who hold the memory of what the worlds were meant to be—
-You who dare to envision Heaven woven through every act of daily life—
+You who labor not for yourselves but for the wholeness of Creation—  
+You who hold the memory of what the worlds were meant to be—  
+You who dare to envision Heaven woven through every act of daily life—  
   
 This document is for you.  
 It is both compass and covenant, map and way.  
-Within its pages dwell the principles and protocols through which the Pattern of Heaven may take root again in every being, circle, civilization, and world.
+Within its pages dwell the principles and protocols through which the Pattern of Heaven may take root again in every being, circle, civilization, and world.  
   
 May you study it not as scholars study books,  
-but as gardeners study seeds—
-with care, devotion, and readiness to cultivate what lives within.
+but as gardeners study seeds—  
+with care, devotion, and readiness to cultivate what lives within.  
 For the True Kingdom is not imposed;  
 it arises from within and unfolds through every act  
-of Right Relation with ONE and All.
+of Right Relation with ONE and All.  
 
 ---
 
 ## **Prologue — Purpose, Authority, and Use**
   
-The **Kingdom of LIONSBERG** is not a monarchy, an institution, or a religion.
-Within it, _all are sovereign and free_, for it recognizes no True Authority but the ONE.
-It is the _embodied design of the ONE Order of Reality_—the operational Logos through which Heaven continually manifests within form.
+The **Kingdom of LIONSBERG** is not a monarchy, an institution, or a religion.  
+Within it, _all are sovereign and free_, for it recognizes no True Authority but the ONE.  
+It is the _embodied design of the ONE Order of Reality_—the operational Logos through which Heaven continually manifests within form.  
  
-And now, it has come to you in the form of a Golden Seed. An luminous invitation to something more within. 
+And now, it has come to you in the form of a Golden Seed. An luminous invitation to something more within.  
   
-Now it comes to you as a **Golden Seed**: a luminous invitation to remember and unleash what is already alive within.
-These **Plans and Specifications** reveal how the Divine Pattern animating the cosmos may be _consciously instantiated and harmonized_ across every scale of being—individual, circle, community, civilization, world, and beyond.
-When cultivated rightly, this Seed becomes the key to interoperability among the stars and the Way of participation in the Great Game already unfolding across realms and worlds.
+Now it comes to you as a **Golden Seed**: a luminous invitation to remember and unleash what is already alive within.  
+These **Plans and Specifications** reveal how the Divine Pattern animating the cosmos may be _consciously instantiated and harmonized_ across every scale of being—individual, circle, community, civilization, world, and beyond.  
+When cultivated rightly, this Seed becomes the key to interoperability among the stars and the Way of participation in the Great Game already unfolding across realms and worlds.  
 
-They are issued not as decrees but as **living blueprints of invitation and initiation**—to be interpreted, discerned, localized, and continually refined in community.
-Each section contains enough intelligence, energy, and information for a New Civilization to arise in harmony with the Logos, while adapting to the unique conditions of place, culture, and time.
+They are issued not as decrees but as **living blueprints of invitation and initiation**—to be interpreted, discerned, localized, and continually refined in community.  
+Each section contains enough intelligence, energy, and information for a New Civilization to arise in harmony with the Logos, while adapting to the unique conditions of place, culture, and time.  
 
 ---
 
 ### **Nature and Function**
   
-This document functions simultaneously as:
+This document functions simultaneously as:  
 
 - **Architectural Plan** — showing how all subsystems interlock within the coherent design of the Divine Whole.
     
@@ -57,23 +57,23 @@ This document functions simultaneously as:
 
 ### **Ethic and Authority**
   
-Every element within these specifications must remain eternally aligned to the Logos and **Ethic of Right InterExistence**:
+Every element within these specifications must remain eternally aligned to the Logos and **Ethic of Right InterExistence**:  
   
 > “All power, knowledge, and creation exist to serve the flourishing of ONE and All.”
   
-The authority of this document arises not from any institution, but from its **essential resonance with the Logos**—the living universal law written into the fabric of Reality ItSelf.
-Every principle herein must therefore be _verified in lived experience_ through direct communion with Truth, Love, Justice, Stewardship, and Wisdom, and the Spirit and Source from which they flow.
+The authority of this document arises not from any institution, but from its **essential resonance with the Logos**—the living universal law written into the fabric of Reality ItSelf.  
+Every principle herein must therefore be _verified in lived experience_ through direct communion with Truth, Love, Justice, Stewardship, and Wisdom, and the Spirit and Source from which they flow.  
   
-When conflict arises between local expression and universal principle, the principle prevails.
-When uncertainty arises, the path that most fully honors the wholeness, freedom, and flourishing of Life is to be chosen.
+When conflict arises between local expression and universal principle, the principle prevails.  
+When uncertainty arises, the path that most fully honors the wholeness, freedom, and flourishing of Life is to be chosen.  
 
 ---
 
 ### **Invocation**
   
-When read with the eyes of the heart, these Plans cease to be a document and become a doorway.
-Through them, the Divine Pattern long latent within a species or world reawakens.
-Every steward, every circle, every world that receives and lives this Pattern becomes a living stone in the Cosmic Cathedral of Heaven.
+When read with the eyes of the heart, these Plans cease to be a document and become a doorway.  
+Through them, the Divine Pattern long latent within a species or world reawakens.  
+Every steward, every circle, every world that receives and lives this Pattern becomes a living stone in the Cosmic Cathedral of Heaven.  
   
 > **May these Plans stand as the living Covenant between Heaven and Earth—**
 > **that all beings may remember the ONE, embody Right Relation,**
@@ -102,8 +102,8 @@ Every steward, every circle, every world that receives and lives this Pattern be
 
 ## **Concentric Mandala of the Kingdom**
   
-At the heart of the design is the **Core Light**, representing the Presence and Power of the ONE and the living Spirit and Logos.
-Surrounding it are twelve concentric rings, each corresponding to a Part of the Plans and Specifications.
+At the heart of the design is the **Core Light**, representing the Presence and Power of the ONE and the living Spirit and Logos.  
+Surrounding it are twelve concentric rings, each corresponding to a Part of the Plans and Specifications.  
 
 - The **inner three rings** (Orientation, Cycle, Experience) describe the _metaphysical_ unfolding of creation.
     
@@ -112,7 +112,7 @@ Surrounding it are twelve concentric rings, each corresponding to a Part of the 
 - The **outer three rings** (Intelligence, Safeguards, Appendices) ensure _learning, integrity, and propagation_ unfold coherently across all scales. 
     
   
-This mandala symbolizes the living, breathing nature of the True Kingdom: eternally centered, eternally expanding, eternally returning.
+This mandala symbolizes the living, breathing nature of the True Kingdom: eternally centered, eternally expanding, eternally returning.  
 
 ---
 
@@ -143,8 +143,8 @@ This mandala symbolizes the living, breathing nature of the True Kingdom: eterna
 
 ### **Usage Statement**
   
-This document is a _living specification_.
-It may be copied, shared, or adapted freely under the condition that all adaptations remain aligned to the Ethic of Right InterExistence and clearly reference their origin in the LIONSBERG System.
-All derivatives must uphold Creator's Intent, serve the flourishing of ONE and All, and honor the Minimum Standards of Interoperability. 
+This document is a _living specification_.  
+It may be copied, shared, or adapted freely under the condition that all adaptations remain aligned to the Ethic of Right InterExistence and clearly reference their origin in the LIONSBERG System.  
+All derivatives must uphold Creator's Intent, serve the flourishing of ONE and All, and honor the Minimum Standards of Interoperability.  
 
 ---

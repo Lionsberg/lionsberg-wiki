@@ -19,5 +19,3 @@ To spread the word effectively, consider these approaches:
 5. Play [[The Great Game of LIONSBERG]] and share your stories of transformation. 
 
 As you spread the word and expand the reach of [[The Movement]], you'll play a vital role in the co-creation of the [[New World]], empowering others to join the collective mission to overcome the [[Meta Crisis]] and bring about a brighter, more flourishing future for [[All]].
-
-

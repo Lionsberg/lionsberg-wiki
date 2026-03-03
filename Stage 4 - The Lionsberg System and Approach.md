@@ -4,6 +4,6 @@ Beyond learning is the total context and culture in which life long individual, 
 
 Lionsberg is a System and Community purpose-built to help individuals, organizations and communities develop towards the fullness of their Potential together and flourish in harmony. 
 
-[[Lionsberg Orientation and Training System]] 
+[[Lionsberg Orientation and Training System]]  
 
-[[Structuring and Federating Emergent Opportunities]] 
+[[Structuring and Federating Emergent Opportunities]]  

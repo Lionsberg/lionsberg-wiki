@@ -104,5 +104,3 @@ Both men were described as reliable and level-headed individuals with no history
 - **Documentaries:**
     
     - _UFOs in the Snow: The Imjärvi Case_ – Exploration of the Finnish incident and its implications.
-
-

@@ -16,7 +16,7 @@ ___
 
 ## Function
 
-Laboral Kutxa provides:
+Laboral Kutxa provides:  
 - **Financial services** to all Mondragon cooperatives and their members
 - **Company creation services** — a ~20-person team that helps incubate approximately 16 new enterprises per year
 - **Capital allocation** that serves cooperative purpose rather than maximizing investor return

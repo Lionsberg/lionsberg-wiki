@@ -4,6 +4,6 @@ First, do no harm. First, do no evil. First, do not transgress the free-will or 
 
 ___
 
-Forward to [[Meditation 24]]        
+Forward to [[Meditation 24]]  
 Back to [[Meditation 22]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

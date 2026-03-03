@@ -18,4 +18,3 @@ Forward to [[In the Beginning, God - The Fount of Scripture]]
 Back to [[Dealing with Inconsistencies, Human Error, and Contradictions in the Meta-Canon - A Dialectical and Ontological Approach]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

@@ -108,4 +108,3 @@ Alaskan Indigenous tribes, such as the Tlingit and Haida, have myths about giant
     
     - _Alaska’s Monsters: The Sky Giants_ – Exploration of Alaska’s cryptid reports.
     - _Cryptid Hunters: High Skies_ – Investigation into global flying cryptid phenomena.
-

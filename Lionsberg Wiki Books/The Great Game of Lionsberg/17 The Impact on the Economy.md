@@ -21,6 +21,6 @@ The economic impact of The Great Game of Lionsberg is vast, touching on numerous
 
 ____
 
-Forward to [[18 The Impact on the Living System]]    
+Forward to [[18 The Impact on the Living System]]  
 Back to [[16 The Impact on Individuals, Families, Communities, Tribes, and Nations]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

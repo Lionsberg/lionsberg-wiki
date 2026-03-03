@@ -103,4 +103,4 @@ To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeR
 In Service of [[ONE]] and [[All]],  
 ~ [[J]]
 
-[[The Seven Commitments of Every Co-Creator]] 
+[[The Seven Commitments of Every Co-Creator]]  

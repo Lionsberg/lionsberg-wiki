@@ -56,7 +56,7 @@ Community Building
 Community currency  
 Core Advisory Execution Team  
 Creative / Media / Arts  
-Crowd Source Think Tank Game
+Crowd Source Think Tank Game  
 Declaration and Constitution Group  
 Effectiveness, Pragmatics, and Ethics  
 Facilitation  

@@ -33,7 +33,7 @@ The concept of One Citizenship Under God offers a revolutionary yet deeply reson
 
 By adopting the principles and values of One Citizenship Under God, we take a significant step toward realizing the New Covenant's promise of a world that honors the dignity of every individual, and the sanctity interconnectedness of all life.  
 
-___
+___  
 Forward to [[Chapter 9 - The Spiritual War]]  
 Back to [[Chapter 7 - Principles and Values of the New Covenant]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

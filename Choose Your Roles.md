@@ -1,12 +1,12 @@
 # Choose Your Roles
 
-From before the foundations of the world,
-There has always been a place only you could fill.
-Not a title. Not a mask. Not a job description.
-But the truest expression of **who you really are** —
+From before the foundations of the world,  
+There has always been a place only you could fill.  
+Not a title. Not a mask. Not a job description.  
+But the truest expression of **who you really are** —  
 A living note in the Symphony of [[ONE]].
 
-Now, gathered in your [[Circle]], with a [[Quest]] before you,
+Now, gathered in your [[Circle]], with a [[Quest]] before you,  
 The question ripens:
 
 **What is the part only you can play?**
@@ -84,24 +84,24 @@ This is the deeper truth.
 
 The way you show up in your Circle — what you give, what you guard, what you build, what you heal — is a rehearsal for your role in the Great Story of this age.
 
-Every Circle is a microcosm of the Whole.
+Every Circle is a microcosm of the Whole.  
 Every role within it is a fractal of the cosmic pattern.
 
-As you discover who you are in the small, intimate context of your Circle,
+As you discover who you are in the small, intimate context of your Circle,  
 You are discovering who you are in the vast, eternal context of [[The Goal]].
 
-Be brave. Be honest.
-Let the masks fall.
+Be brave. Be honest.  
+Let the masks fall.  
 Let the true pattern be revealed.
 
-There is nothing the world needs more
-Than people who know who they are
+There is nothing the world needs more  
+Than people who know who they are  
 And are **coming fully alive**.
 
 ---
 
-Your Circle is formed.
-Your Quest is chosen.
+Your Circle is formed.  
+Your Quest is chosen.  
 Your roles are emerging.
 
 Now you need the weekly rhythm that turns intention into results.
@@ -109,5 +109,5 @@ Now you need the weekly rhythm that turns intention into results.
 **The next play is [[Discern the Wise Right Next Steps]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The Architecture of The Playbook]] for the full navigation.  
 See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.

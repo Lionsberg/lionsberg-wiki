@@ -259,5 +259,3 @@ The sections below will be written, yet they have essentially already been writt
 
 
 ### 31. Continuous Improvement and Evolution - Towards a Heaven On Earth That Continues to Get a Little Better Every Day 
-
-

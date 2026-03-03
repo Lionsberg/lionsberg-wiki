@@ -14,6 +14,6 @@ The misappropriation of the name of God in religion, politics, and culture is a 
 
 ___
 
-Forward to [[III.B. The Hypocrisy of American Idealism]]        
-Back to [[II.E. Progressing Towards the Ideal]]        
+Forward to [[III.B. The Hypocrisy of American Idealism]]  
+Back to [[II.E. Progressing Towards the Ideal]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

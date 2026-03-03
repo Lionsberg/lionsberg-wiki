@@ -113,4 +113,3 @@ The U.S. Air Force’s initial denial and subsequent reversal regarding F-16 exe
 - **Documentaries:**
     
     - _The Stephenville UFO Incident_ – A comprehensive exploration of the sightings and their implications.
-

@@ -84,4 +84,3 @@ A **Watchword is more than just a phrase**—it is **a living, energetic transmi
 Spoken at the right moment, in the right way, to the right person, **it can change the course of history**.
 
 Let Us use them **wisely, strategically, and with the full power of Truth.**
-

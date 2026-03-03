@@ -34,7 +34,3 @@ Is it not obvious that [[What Got Us Here Will Not Get Us To Where We Want To Go
 In Unwavering Faith, Hope, and Love, 
 
 ~ J  
-
-
-
-

@@ -121,4 +121,3 @@ In addition to UFO sightings, the Walton family reported poltergeist-like activi
     
     - _The Phenomenon of Utah’s UFO Wave._
     - _Secrets of Skinwalker Ranch._
-

@@ -1,13 +1,13 @@
 # Govern Your Circles
 
-Governance in the [[New Civilization]] does not descend from above.
-It rises from within —
-From the shared will of free souls
-Who choose to bind themselves to one another
+Governance in the [[New Civilization]] does not descend from above.  
+It rises from within —  
+From the shared will of free souls  
+Who choose to bind themselves to one another  
 In service to something greater than any one of them.
 
-This is the ancient pattern, restored.
-Not rule. Not hierarchy. Not control.
+This is the ancient pattern, restored.  
+Not rule. Not hierarchy. Not control.  
 **Self-governance, rooted in love and mutual accountability.**
 
 ---
@@ -90,7 +90,7 @@ This is how a civilization of free souls governs itself — not by coercion, but
 
 ---
 
-Your Circle governs itself.
+Your Circle governs itself.  
 Now it needs the living boundary that protects what grows within — while allowing vital exchange with the world outside.
 
 **The next play is [[Establish Selectively Permeable Membranes]].**

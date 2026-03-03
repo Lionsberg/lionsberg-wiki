@@ -1,6 +1,6 @@
 # Meditation 144
 
-Live in the present moment. 
+Live in the present moment.  
 Leave behind the darkness of the past. Live in the present and eternal Light of Love that always shows the Way forward. 
 
 ___

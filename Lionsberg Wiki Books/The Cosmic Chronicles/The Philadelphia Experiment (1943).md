@@ -110,4 +110,3 @@ The Philadelphia Experiment ties into larger narratives about government secrecy
     
     - Documentary: _The Truth About the Philadelphia Experiment_ (History Channel).
     - Film: _The Philadelphia Experiment_ (1984).
-

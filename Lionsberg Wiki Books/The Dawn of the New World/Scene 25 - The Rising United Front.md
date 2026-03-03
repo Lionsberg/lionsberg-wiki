@@ -12,7 +12,7 @@ As days passed, the groups grew larger and more organized. They began to coordin
 
 Even as the Old World seemed to shake, crumble, and fail, the Force For Good could see that the [[New Pattern Language]] of the New World was  already emerging and coming into form. Day by day, they drew closer to the moment of Truth, when everything they were Becoming would be tested and forged in The Great Battle.   
 
-___
+___  
 Forward to: [[Scene 26 - The Day of Battle]]  
 Back to: [[Scene 24 - The New Vision Spreads]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

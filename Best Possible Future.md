@@ -141,13 +141,13 @@ As we gaze out into the Best Possible Future... What do we see? What do we hear?
 - We see each of the billions of us walking together in the Way that causes the New World to in-break and become our present Reality. 
 - We see an entirely renewed society and world, that continues to [[Become]] [[A Little Better Every Day]]  
 
-What are some of the evils that you would like to see abolished in the New World? 
+What are some of the evils that you would like to see abolished in the New World?  
 - What pragmatic steps might we take to [[Removing What Does Not Belong|Remove What Does Not Belong]] ? 
 
-What are some of the Goods that you long to see burst forth? 
+What are some of the Goods that you long to see burst forth?  
 - What pragmatic steps might we take to [[Filling Up What Is Lacking|Fill Up What Is Lacking]]? 
 
-Let's build our Vision together and align, as we labor together to Co-Create the [[New World]]. 
+Let's build our Vision together and align, as we labor together to Co-Create the [[New World]].  
 ___
 
 So given [[Where We Are]], how do we get to [[Where We Are Going]]? How can we possibly cross the chasm that lies between the Old World and the [[New World]]? 

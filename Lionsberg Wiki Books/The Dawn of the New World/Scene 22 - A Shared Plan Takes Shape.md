@@ -10,7 +10,7 @@ As they talked through the night, the menacing sounds of monsters and beasts out
 
 As dawn broke, Xion and Zaya parted ways, each with their own tasks to carry out in the coming days. Xion remained in his secret room, determined to begin his mission when the Spirit deemed it the right time and instructed him. 
 
-___
+___  
 Forward to: [[Scene 23 - The Whisper Campaign]]  
 Back to: [[Scene 21 - An Intruder in the Secret Place]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

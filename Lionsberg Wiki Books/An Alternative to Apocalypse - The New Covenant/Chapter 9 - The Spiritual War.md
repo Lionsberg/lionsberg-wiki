@@ -44,7 +44,7 @@ Imagine a world where the spiritual war has been won, and the Spirit of God and 
 
 The pressing spiritual war is both an urgent crisis and an unparalleled opportunity for transformation. By recognizing the true nature of the battle and mobilizing to fight it on every level, we can vanquish the forces that seek to undermine Divine principles, ideals, and order. The stakes are high, but the potential for a world transformed by the Spirit of God and Love is within our reach. However the victory will be hard won, and will require active participation and engagement from every one of us. 
 
-___
+___  
 Forward to [[Chapter 10 - Building Bridges and Alliances]]  
 Back to [[Chapter 8 - Becoming One Citizenship Under God]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

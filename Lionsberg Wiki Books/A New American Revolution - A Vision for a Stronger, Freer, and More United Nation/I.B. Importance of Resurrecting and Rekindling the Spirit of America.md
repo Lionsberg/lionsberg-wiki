@@ -16,6 +16,6 @@ This campaign is a call to action. Only by rediscovering the very best of what t
 
 ___
 
-Forward to [[I.C. Thesis Statement]]      
-Back to [[I.A. America's Crisis of Confidence and Faith]]      
+Forward to [[I.C. Thesis Statement]]  
+Back to [[I.A. America's Crisis of Confidence and Faith]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

@@ -56,4 +56,3 @@ In the event Americans decide to forgo  what is likely the final opportunity to 
 It would be incredibly foolish and likely genocidal to consciously allow the existing order to undergo a disorderly collapse. A voluntary and consciously designed transcendence into an intentionally designed Future is a far superior and less risky strategy. However it is up to Us, the people, to decide. Those of us who desire to do so can immediately find One Another and begin regardless of the outcome for any specific tribe or nation. I will be on the battlefield if you would like to join us. 
 
 Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement),  or email me at J@Lionsberg.org. 
-

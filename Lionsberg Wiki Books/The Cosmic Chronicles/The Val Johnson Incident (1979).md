@@ -117,4 +117,3 @@ Johnson himself experienced minor injuries, including welts on his face and temp
     
     - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
     - NICAP Reports on the Val Johnson Incident: [https://www.nicap.org](https://www.nicap.org/)
-

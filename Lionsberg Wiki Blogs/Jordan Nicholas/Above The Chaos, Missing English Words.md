@@ -75,4 +75,3 @@ Here is a starting collection of concepts lacking a word in English. Please help
 69. **Engentado (Spanish)**: Feeling overwhelmed in crowded places.
 70. **Hyggekrog (Danish)**: A cozy nook or corner where one can relax.
 71. **Orenda (Iroquoian)**: A mystical force present in all people that empowers them to affect the world or to effect change in their own lives.
-

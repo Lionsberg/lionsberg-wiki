@@ -17,9 +17,8 @@ If this book resonated with you, the time for action is now. Every day is crucia
 
 **Step 5: Federate With Lionsberg** - To structurally connect your group and gain access to resources, community and support, [[Federate With Lionsberg]]. 
 
-___
-The End, and The Beginning! 
+___  
+The End, and The Beginning!  
 Back to [[Conclusion - A Choice for Humanity]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
 Beyond to other [[Lionsberg Wiki Books]]  
-

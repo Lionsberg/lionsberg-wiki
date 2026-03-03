@@ -33,6 +33,3 @@ Forward to [[From the Vast Array of Translations to a Trinity of Approximate Fid
 Back to [[Avoiding Idolatry - Worshiping and Seeking in Spirit and Truth]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-
-
-

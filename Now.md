@@ -18,8 +18,7 @@ There is no other [[Time]] to act, to love, to be, to heal, to transform, to co-
 
 To awaken to **[[The Power of Now]]** is to awaken to **Unity with the One**, to participate consciously in the unfolding of **Creation**, and to become a **Co-Creator** of **[[Heaven on Earth and Beyond]]**.
 
-In every **Now**, the fullness of **Divine Intention** is accessible. 
+In every **Now**, the fullness of **Divine Intention** is accessible.  
 In every [[Now]], the fullness of **Divine Power** is accessible.  
-**[[The Power of One]]** is always available to embody **[[The Will of One]]**. 
+**[[The Power of One]]** is always available to embody **[[The Will of One]]**.  
 **[[The Kingdom of God]]** is not in some far-off [[Time]] or [[Space]]—it is **within**, waiting to be realized **Now**.
-

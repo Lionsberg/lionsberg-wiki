@@ -129,4 +129,3 @@ Documents from Soviet archives detail sightings near the Baikonur Cosmodrome, th
     
     - _The Secret Space Program: Soviet UFO Encounters._
     - _UFOs in Space: The Soviet Experience._
-

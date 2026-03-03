@@ -4,6 +4,6 @@ Our life is like a vapor. As we briefly become manifest in the universe, do we d
 
 ___
 
-Forward to [[Meditation 11]]        
+Forward to [[Meditation 11]]  
 Back to [[Meditation 9]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

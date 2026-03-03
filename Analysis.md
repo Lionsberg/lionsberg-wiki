@@ -12,4 +12,4 @@ Analysis relates to Step 3 of [[The Seven Steps of Transformation]]
 
 ![[The Seven Steps of Transformation]]
 
-[[Template For Analysis]] 
+[[Template For Analysis]]  

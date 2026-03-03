@@ -18,8 +18,8 @@ ___
 
 ## Why Spirit Comes First
 
-The Pattern does not begin with a principle.
-It does not begin with a structure.
+The Pattern does not begin with a principle.  
+It does not begin with a structure.  
 It does not begin with a strategy.
 
 **It begins with [[Spirit]].**
@@ -44,5 +44,5 @@ From this [[ONE]], the [[Twelve Irreducible Elements]] emanate. To this ONE, all
 
 ___
 
-_See [[Ring 0 - ONE]] in [[LIONSBERG 101]]._
+_See [[Ring 0 - ONE]] in [[LIONSBERG 101]]._  
 _See [[Spirit]] and [[Love]]._

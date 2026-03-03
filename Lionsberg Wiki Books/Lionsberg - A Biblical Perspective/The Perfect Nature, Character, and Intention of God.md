@@ -209,5 +209,5 @@ God is the creator of the universe, eternal, all-powerful, all-knowing, all-pres
 ___
 
 Forward to [[Transforming Our Lives Towards Perfection]]  
-Back to [[The Story Of The Bible]]    
+Back to [[The Story Of The Bible]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

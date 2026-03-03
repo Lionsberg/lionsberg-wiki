@@ -4,6 +4,6 @@ The spirit of America, embodied in the principles of liberty, justice, unity, eq
 
 ___
 
-Forward to [[II.A. The Uniting Spirit - One Nation Under God]]    
-Back to [[I.B. Importance of Resurrecting and Rekindling the Spirit of America]]    
+Forward to [[II.A. The Uniting Spirit - One Nation Under God]]  
+Back to [[I.B. Importance of Resurrecting and Rekindling the Spirit of America]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

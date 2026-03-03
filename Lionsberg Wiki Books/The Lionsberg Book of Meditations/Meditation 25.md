@@ -4,6 +4,6 @@ Every small action to reign in the chaos and establish new order expands your bo
 
 ___
 
-Forward to [[Meditation 26]]        
+Forward to [[Meditation 26]]  
 Back to [[Meditation 24]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

@@ -28,7 +28,7 @@ Thirteen years later — in 1956 — five former students quit their jobs and st
 
 **The school preceded the cooperative by 13 years.** This is the single most important structural insight in the entire Mondragon experience.
 
-Mondragon's "Pedagogy of Trust":
+Mondragon's "Pedagogy of Trust":  
 - "We don't teach them; we help them learn"
 - Active, student-centered, problem-based, group-based learning
 - Students spend 1/3 of credits in live businesses
@@ -37,7 +37,7 @@ Mondragon's "Pedagogy of Trust":
 
 And the concept of **Sirimiri** — the Basque word for a light, gentle rain. Arizmendi used this as a metaphor: a little rain, a little enlightenment at a time, over years. Seeds of wisdom take time to grow. Over time, the community "got wet" in the ideas.
 
-**The Formation Cycle** (from Mondragon's own experience):
+**The Formation Cycle** (from Mondragon's own experience):  
 - Year Zero: Onboarding
 - Year One: Initial formation
 - Year Two: Deepening
@@ -71,5 +71,5 @@ Without education as transformation, the pattern cannot replicate through people
 
 ___
 
-_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._
+_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
 _See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._

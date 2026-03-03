@@ -103,4 +103,3 @@ For years, Bender remained silent about the specifics of his experience. When he
 - **Documentaries:**
     
     - _The Real Men in Black_ – An exploration of the phenomenon featuring Bender’s story.
-

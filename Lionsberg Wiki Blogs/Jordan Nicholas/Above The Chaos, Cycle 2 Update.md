@@ -28,4 +28,3 @@ Critical to creating a System is defining its Goal, and thereby what constitutes
 The discussion of [[Value]] leads into how to resource value creation. 
 
 To accomplish this, we will soon need to begin co-creating a Meta Fund to resource the Critical Path of the Meta Project. This will empower us All to advance towards the Meta Goal. We have begun writing a [[Resourcing Guide]] to begin laying out thoughts, architecture, and mechanisms of such a Fund of Funds, along with how to co-create the first prototype funds within the conceptual Fund of Funds. 
-

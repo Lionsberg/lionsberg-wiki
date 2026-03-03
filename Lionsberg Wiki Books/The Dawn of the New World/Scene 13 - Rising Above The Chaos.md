@@ -10,7 +10,7 @@ The Spirit also gave Xion a plan to confront and overcome the Darkness. Though d
 
 Xion was still afraid, but empowered by an infinitely strong Courage and Love that enveloped and held the fear in a beautiful Light. He knew that since the Spirit had called and instructed him, it would also qualify and equip him to overcome the obstacles, enemies, and challenges that lay ahead. He understood that Courage was not the absence of fear, but the willingness to proceed despite it. He knew that if he did not do everything in his power to manifest the New Vision and Plan the Spirit had given him, he would be betraying the Spirit and his own soul. And he knew that the Spirit was quietly but powerfully arising in many others throughout Earth. Together, everything was possible. 
 
-___
+___  
 Forward to: [[Scene 14 - Speaking The Impossible]]  
 Back to: [[Scene 12 - Xion's Awakening]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

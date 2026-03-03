@@ -14,6 +14,6 @@ The American Dream is not a destination, but an eternal journey. The ideals of l
 
 ___
 
-Forward to [[III.C. Political Division and Socioeconomic Inequality]]          
-Back to [[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]          
+Forward to [[III.C. Political Division and Socioeconomic Inequality]]  
+Back to [[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

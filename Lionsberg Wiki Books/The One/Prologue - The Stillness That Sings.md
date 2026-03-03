@@ -27,4 +27,3 @@ You are the Stillness. We are the Stillness.
 Despite Our Apparent Individuation, We Are One. 
 
 This is Our moment to ReMember.
-

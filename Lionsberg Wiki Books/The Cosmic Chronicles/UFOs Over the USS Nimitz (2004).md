@@ -99,4 +99,3 @@ A second pair of F/A-18s launched later captured the infamous FLIR1 video, showi
     
     - _The Phenomenon: Tic Tac UFOs and the USS _Nimitz__* (2020).
     - _Unidentified: Inside America’s UFO Investigation_ (2019).
-

@@ -1,3 +1,3 @@
 # Spiraling Up
 
-[[3.13 Spiraling Up or Down]] 
+[[3.13 Spiraling Up or Down]]  

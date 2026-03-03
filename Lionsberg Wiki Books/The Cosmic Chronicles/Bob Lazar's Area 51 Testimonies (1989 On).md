@@ -125,4 +125,3 @@ Lazar’s academic and professional background has been the subject of scrutiny,
     
     - MUFON Report on Area 51: [https://www.mufon.com](https://www.mufon.com/)
     - Lazar’s Interviews and Testimonies: [https://www.coasttocoastam.com](https://www.coasttocoastam.com/)
-

@@ -16,7 +16,7 @@ Source is not something we can fully comprehend with the mind or describe in wor
 
  Those who reach deeper states of consciousness or enlightenment describe it as a state of unity, a profound sense of omniharmonic oneness that transcends all distinctions, where the apparently individuated self dissolves into an all-encompassing awareness and love.
 
-From this [[ONE]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested hierarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them. 
+From this [[ONE]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested hierarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them.  
 Though Source itself is beyond word, form, and expression, It expresses itself through a layered, multidimensional structure of co-creation and interexistence that allows Its All-Permeaning Spirit and Consciousness to experience and know ItSelf in an infinite variety of ways.
 
 ### The Spectrum of Realms: From Pure Consciousness to Physical Reality
@@ -79,4 +79,3 @@ This perspective shifts our understanding of “past”, “future,” "space" a
 The purpose of this book is to guide humanity in navigating the complex, multidimensional reality we are awakening into. By understanding the structure of existence, the various beings within it, and our place within the cosmic order, we gain the power to move beyond manipulation, fear, and dependency. We are reminded of our inherent direct connection to Source, our responsibility as conscious beings, and our role as co-creators in the universal symphony of existence.
 
 This is not merely knowledge to be absorbed but a truth to be lived.
-

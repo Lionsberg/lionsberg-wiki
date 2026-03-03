@@ -34,4 +34,3 @@
     - persistent, but not real-time collaborative yet
 
 ## Obsidian Plugins
-

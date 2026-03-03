@@ -6,9 +6,9 @@ The Prophetic voice says:
 
 *"Woe to them! For they have brought evil on themselves."*
 
-"*Tell the righteous that it shall be well with them,
-for they shall eat the fruit of their deeds.
-Woe to the wicked! It shall be ill with him,
+"*Tell the righteous that it shall be well with them,  
+for they shall eat the fruit of their deeds.  
+Woe to the wicked! It shall be ill with him,  
 for what his hands have dealt out shall be done to him.*"
 
 The concept of the Golden Rule, reciprocity, reaping what you sow, and bearing fruit in kind with the roots is a frequent theme throughout scripture that reflects the underlying [[Logos]] of the Universe, and the Law of God. 
@@ -39,5 +39,3 @@ Forward to [[A Properly Ordered Society]]
 Back to [[God And Justice Will Prevail - In Strength]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-
-

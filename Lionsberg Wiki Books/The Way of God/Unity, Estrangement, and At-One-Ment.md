@@ -2,8 +2,8 @@
 
 A step forward on our [[Path]] into verse two reveals the opening essence of the [[Vision]] - [[God]] longing for [[Reunion]] with His Children, who have rejected Him. 
 
-*"Hear, O heavens, and give ear, O earth; for the [[LORD]] has spoken:
-“Children have I reared and brought up, but they have rebelled against me. The ox knows its owner, and the donkey its master's crib,
+*"Hear, O heavens, and give ear, O earth; for the [[LORD]] has spoken:  
+“Children have I reared and brought up, but they have rebelled against me. The ox knows its owner, and the donkey its master's crib,  
 but Israel does not know, my people do not [[Understand]].”*
 
 Because the [[Spirit of God]] is unchanging, we can hear, *feel*, and illuminate the same underlying *intention* and *desire* through other scripture, such as the prophetic words of [[Jesus]] speaking to [[Israel]] from God: 
@@ -14,8 +14,8 @@ Separated by centuries, the voice of Jesus reverberates and harmonizes with the 
 
 The opening setting is one of estrangement, and desire for [[Reconciliation]] and [[At-One-Ment]]. 
 
-*"Ah, sinful nation, a people laden with iniquity, offspring of evildoers,
-children who deal corruptly! They have forsaken the LORD,
+*"Ah, sinful nation, a people laden with iniquity, offspring of evildoers,  
+children who deal corruptly! They have forsaken the LORD,  
 they have despised the Holy One of Israel, they are **utterly estranged**."*
 
 As we get to [[Know God]], we should discover that the word [[LORD]] in all capitals in scripture is the English translation of the the Hebrew tetragrammaton, usually transliterated as YHWH, the proper name for [[God]] in the Jewish Torah. Because many Jewish people hold the name of [[God]] as too sacred to speak, it is often replaced in speech with [[HaShem]] (literally, The Name). 
@@ -32,8 +32,8 @@ Here, we see Israel in a state of *utter estrangement* - the exact opposite of t
 
 Utter Estrangement is the [[State of Being]] that lies at the logical end of [[The Anti-Movement]]. 
 
-*"Why will you still be struck down?
-Why will you continue to rebel?
+*"Why will you still be struck down?  
+Why will you continue to rebel?  
 The whole head is sick, and the whole heart faint. From the sole of the foot even to the head, there is no soundness in it..."*
 
 Any parent understands the pain of watching a child inflict suffering upon themselves because of their sheer foolishness and rebellion against the [[Wisdom, Principles, and Values]] that would cause them to [[Progress]] towards the fullness of their [[Potential]] and flourish. 
@@ -42,7 +42,7 @@ Here, "*Why will you still be struck down*" speaks to the inevitable fall and de
 
 Next, is the call to [[Attention]]: 
 
-*"Hear the word of the [[LORD]]..."
+*"Hear the word of the [[LORD]]..."  
 "Give ear to the teaching of our [[God]]..."*
 
 It is the [[Knowledge of God]], that comes as a result of attending to and hearing the [[Word of God]], that marks the [[Way]] towards [[At-One-Ment]]. 
@@ -53,4 +53,3 @@ Forward to [[The Patterns Of Spiraling Up, And Spiraling Down]]
 Back to [[Vision, Non-Propositional Knowledge, and Spirit]]  
 Back to table of contents [[The Way of God]]  
 Onward to other [[Lionsberg Wiki Books]]  
-

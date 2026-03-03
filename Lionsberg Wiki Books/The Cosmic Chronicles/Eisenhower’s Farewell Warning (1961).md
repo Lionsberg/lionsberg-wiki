@@ -39,7 +39,7 @@ During his presidency, Eisenhower allegedly participated in pivotal events invol
 Eisenhower reportedly grew increasingly alarmed by the lack of accountability within these programs:
 
 - **Alien Agendas:**  
-    Allegations surfaced of factions within the government collaborating with hostile alien groups, including the so-called "Reptilian" and "Grey" species, at the expense of human autonomy.
+    Allegations surfaced of factions within the government collaborating with hostile alien groups, including the so-called "Reptilian" and "Grey" species, at the expense of human autonomy.  
 - **Loss of Oversight:**  
     Eisenhower expressed frustration at his inability to access certain highly classified projects, leading to concerns that a "shadow government" had effectively seized control.
 
@@ -134,4 +134,3 @@ While the speech focused on the visible threats posed by the military-industrial
 - **Speeches and Analysis:**
     
     - Eisenhower’s farewell address, available through the Eisenhower Presidential Library.
-

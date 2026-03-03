@@ -12,6 +12,6 @@ Rediscovering what it means to be a citizen is essential to the success of the N
 
 ___
 
-Forward to [[IV.F. A New North Star]]        
-Back to [[IV.D. Embracing Timeless Wisdom, Principles and Values]]        
+Forward to [[IV.F. A New North Star]]  
+Back to [[IV.D. Embracing Timeless Wisdom, Principles and Values]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

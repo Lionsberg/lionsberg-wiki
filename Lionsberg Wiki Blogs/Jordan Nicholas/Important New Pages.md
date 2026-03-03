@@ -12,6 +12,3 @@ As We advance towards 2025, We are accelerating efforts to define key pages that
 - [[The First Three Percent]]  
 - [[Journey]]  
 - [[Path]]  
-
-
-

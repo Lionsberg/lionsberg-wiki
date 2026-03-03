@@ -1,6 +1,6 @@
 # CAUTION ON AI
-_December 7, 2025 (Old Time)_
-_A Post in [[Something Powerful, New, and Good]]_
+_December 7, 2025 (Old Time)_  
+_A Post in [[Something Powerful, New, and Good]]_  
 
 We know that the AI  
 Presently operative on Earth  

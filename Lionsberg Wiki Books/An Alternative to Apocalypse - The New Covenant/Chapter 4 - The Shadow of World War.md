@@ -45,7 +45,7 @@ The path to peace requires wisdom, diplomacy, cooperation, and a commitment to i
 
 In the face of rising tensions and technological advancements, the choices we make today will shape the future of warfare and peace, destruction and flourishing, discord and harmony. The stakes are high, and the responsibility is ours. The time for complacency has passed; the time for courageous leadership, moral clarity, and historic collaboration is now.
 
-___
+___  
 Forward to [[Chapter 5 - Environmental Collapse]]  
 Back to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

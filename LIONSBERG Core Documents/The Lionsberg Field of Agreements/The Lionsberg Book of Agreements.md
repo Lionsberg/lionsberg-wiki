@@ -4,8 +4,6 @@
 [[Lionsberg Membership Agreement]]  
 [[Lionsberg Participation Agreement]]  
 
-[[Agreement With Self]] 
-[[Agreement With One And All]] 
-[[Agreement with Group]] 
-
-
+[[Agreement With Self]]  
+[[Agreement With One And All]]  
+[[Agreement with Group]]  

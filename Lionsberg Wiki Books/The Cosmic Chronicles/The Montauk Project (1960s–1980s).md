@@ -105,4 +105,3 @@ The Montauk Project remains a polarizing topic, with passionate believers and ad
     
     - Documentary: _The Montauk Chronicles_ (2015).
     - Series: _Stranger Things_ (loosely inspired).
-

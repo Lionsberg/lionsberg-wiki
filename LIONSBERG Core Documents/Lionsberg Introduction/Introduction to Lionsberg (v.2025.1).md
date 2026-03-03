@@ -108,5 +108,3 @@ If you resonate with this vision and believe you are called to join, please [Rea
 
 With love and in service,  
 ~ J
-
-

@@ -8,7 +8,7 @@ As we head into the New Year on our way towards the New Vision, System, Strategy
 
 I am writing this post to be transparent and accountable to what I have heard, to ask what I am missing, and to ask for your support in these efforts to better serve the rising movement. 
 
-**What I heard from US / Canada / Europe / Australia was**: 
+**What I heard from US / Canada / Europe / Australia was**:  
 1. Celebrate individual efforts that empower the whole to thrive. 
 2. Organize a team to work out practical and prioritized next steps for 1) Lionsberg (System / Structure / Organization / Planning / Emergence / Action) and 2) the universal movement (unstructurable, messy, stories, concepts) 
 3. Create a patterned structure for the various types of meetings we engage in based on the principles of the Lionsberg System  
@@ -19,7 +19,7 @@ I am writing this post to be transparent and accountable to what I have heard, t
 8. Create a map with action potentials around people I know, in the context of the 3 layers of analysis, and articulate how I see "us" fitting, and where there are matches and disconnects. 
 9. Improve your communication, feedback, and tracking and closing of loops that you open. 
 
-**What I heard from Africa was**: 
+**What I heard from Africa was**:  
 1. Help pilot a system to engage and empower youth 
 2. Help pilot a system to engage and empower women 
 3. Help pilot a system to engage and empower communities 
@@ -27,7 +27,7 @@ I am writing this post to be transparent and accountable to what I have heard, t
 5. Help meet immediate needs, like training women to help one another survive and thrive through giving birth in areas without access to any health services or facilities 
 6. Help tie these trainings out to basic education and training around first aid, health and wellness, nutrition, youth education, etc. 
 
-**What I heard from South America was**: 
+**What I heard from South America was**:  
 1. Help pilot a system to engage local communities in prioritizing their issues and needs 
 2. Help pilot a system to resource and empower high quality measurable impact initiatives addressing the most pressing issues and needs, and the highest leverage solutions to diagnose and address root causes.  
 3. Help create training programs on soft skills, organizational skills, leadership, and systems thinking to empower community leaders and faith leaders to work together to meet needs and solve problems. 

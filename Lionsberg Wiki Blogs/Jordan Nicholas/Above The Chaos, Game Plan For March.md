@@ -126,11 +126,11 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 
 1. Plant [[The Golden Seed]] via [[The Invitation]], and complete the first three to five [[Lionsberg Cycles of Growth]].  
 	1. Bonus: Complete three to five cycles locally, AND three to five cycles universally, so two parallel starting points are growing.  
-	2. Cycle Structure
+	2. Cycle Structure  
 		1. Cycle 1: 2 Co-Creators  
 		2. Cycle 2: 3 Co-Creators  
 		3. Cycle 3: 5 Co-Creators  
-		4. Cycle 4: 8 Co-Creators (0.0000001%) 
+		4. Cycle 4: 8 Co-Creators (0.0000001%)  
 		5. Cycle 5: 13 Co-Creators  
 	3. This secures the first 12+1 fractal  
 

@@ -15,5 +15,3 @@ Slide 5: "The Lionsberg Vision and Plan calls for the participation and engageme
 Slide 6: "The situation in Afghanistan is a stark reminder of the importance of upholding the fundamental human right to education and the need to combat gender discrimination and oppression. In every country, including the United States, we must remember that oppression and injustice are not just "out there". Right here at home, many are struggling to gain access to the basic infrastructure, services, and opportunities needed for them to flourish. This has to change. Now. 
 
  #StandWithAfghanWomen #EducationForAll #LionsbergVision #GenderEquality #HumanRights   #JustSociety #StrongCommunities #SocialResponsibility  #CommunityEngagement #PolicyChange #Values #VisionForTheFuture #TogetherWeCan #Equality #EqualOpportunity   #SocialJustice #Freedom 
-
-

@@ -180,52 +180,52 @@ yet us trying to shoot them down, not vice versa...
 
 ancestral narrative. 
 
-[[Popol Vuh]] 
+[[Popol Vuh]]  
 [[The Story of the Sons of Osanobua]]  
-[[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]] 
+[[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]  
 
-contact in ancient norse story 
-greek story 
+contact in ancient norse story  
+greek story  
 vedic story
 
 a kaleidescopic spectrum of experince. 
 
-the hawaiian story of mo'o? story of invasion and annexation. 
-The arrival of the ELohim and the sa Hashim ? in teh bible... the sky armies. the division of theland. story of invasion and annexation. 
+the hawaiian story of mo'o? story of invasion and annexation.  
+The arrival of the ELohim and the sa Hashim ? in teh bible... the sky armies. the division of theland. story of invasion and annexation.  
 bible and vedas - specific about advanced weaponry. 
 
 other stories which say that our great leaps forward as a species were aided by visitors from teh starts... from Sirius according to Dogon... from Pleiades according to Native American and Aboriginal Stories. 
 
-Book of Enoch in the Ethiopian Orthodox Cannon - ancinet visitors the watchers... rich cultural exhange... clohting, makeup, jewlery... 
+Book of Enoch in the Ethiopian Orthodox Cannon - ancinet visitors the watchers... rich cultural exhange... clohting, makeup, jewlery...  
 Pleiadian story about great leap forward into agriculture. bulding cities, civilization... excess... 
 
 leaps due to how to live and thrive on planet. 
 
 now it is materials science... turn us into space farers... 
 
-who are we in contact with... 
+who are we in contact with...  
 are the contacts made in 40s under truman still serving best interests... 
 
-free zero poitn energy... 
+free zero poitn energy...  
 travel interstellar distances... 
 
-shine light.
-the leap forward belongs to all of us... 
+shine light.  
+the leap forward belongs to all of us...  
 who is represnting the human race... in whose interests... 
 
 
 
-handbags - advanced technology. 
+handbags - advanced technology.  
 pinecones - advanced cognitive abilities 
 
 I want people to be prepared for these conversations when they emerge publicly. 
 
-take a look at the information that emerged in tehhearing. 
+take a look at the information that emerged in tehhearing.  
 what would it mean for the pentagon to authenticate, and step forward in regard to present contact. 
 
 what does it mean that a fascist secuirty state / military industrila complex has essentially taken control of this, and is operating beyond teh reach of any constituitonal authority, and weaponizing this technology? 
 
-Yoruba people Nigeria. 
+Yoruba people Nigeria.  
 Edo people? 
 
 Stories of people being engineered artificially... 
@@ -234,30 +234,30 @@ Kumbha - refering artificial creation and gesttaion period... ancient temples sh
 
 Until 500 yaars ago microscope... single step organism... 
 
-In ancietn indian texts... talk about test tube babies - making babies outside the human body. test tubes dronas. this tech discussed in ancinet times. 
-today don't have these gestation pods yet. 
-today - in vitro, then after cell starts... back into womans body. 
+In ancietn indian texts... talk about test tube babies - making babies outside the human body. test tubes dronas. this tech discussed in ancinet times.  
+today don't have these gestation pods yet.  
+today - in vitro, then after cell starts... back into womans body.  
 ancient texts talk about gestation pods outside of any body. talk about how to provide nutrition to the fetus. ... how we maintain the Kumbhas. 
 
-not a coincidence these anicent texts mention the same technologeis. not fantasy. not myth. 
+not a coincidence these anicent texts mention the same technologeis. not fantasy. not myth.  
 have both carvings and texts to support. 
 
-Ramayana - 2,000 years old. 
+Ramayana - 2,000 years old.  
 Describing the technologies of the gods... or human tech that was lost... at some point really entriwne... civilizations that blend, hybridize, arrival of Nephilim...
 
-indian texts clearly show the giants... as a hybrid between humans and gods.. 
-Gensis Six
-Gilmamesh a giant... Sumerian story. 
+indian texts clearly show the giants... as a hybrid between humans and gods..  
+Gensis Six  
+Gilmamesh a giant... Sumerian story.  
 always hybridization. 
 
-Enitty - reptilian and featehred. 
+Enitty - reptilian and featehred.  
 Feathered serpents in mesoamerica, biblical story, china, 
 
-Serpa / Nagas... 
-related to Seraph - serpent.. more commonly known as nagas... 
-live underground according to ancinet texts. 
-subetrranean worlds. 
-powerful serpentine gods. 
+Serpa / Nagas...  
+related to Seraph - serpent.. more commonly known as nagas...  
+live underground according to ancinet texts.  
+subetrranean worlds.  
+powerful serpentine gods.  
 people cliam they are descendents of these.
 
 
@@ -266,17 +266,17 @@ Tribes called nagas in india and sri lanka claim they are descendents.
 Cambodia - origin of cambodian civilization - first queen is not human - is a naga - founds civilization that transofrms humanity. 
 
 
-reptilian... powerful... able to transform... shape shift... create illuions. 
-megalithic structures... 
+reptilian... powerful... able to transform... shape shift... create illuions.  
+megalithic structures...  
 flight... 
 
 nagas are listening to us. telepathic. 
 
-so many cultures cliam authority of kings derived from non-humans before them. 
+so many cultures cliam authority of kings derived from non-humans before them.  
 even built into british royal family - the stone of ? - the stone of destiny - a universal story. 
 
-Armenia, Mesopotamia, Bolivia, Ecuador, - gods wandering around with a handbag and pinecone. why? Aumerian. India also... 
-Power source.. 
+Armenia, Mesopotamia, Bolivia, Ecuador, - gods wandering around with a handbag and pinecone. why? Aumerian. India also...  
+Power source..  
 Shown in the middle of a battlefield... with the handbag. 
 
 
@@ -284,9 +284,3 @@ Shown in the middle of a battlefield... with the handbag.
 recreate ancient rituals. 
 
 Coral Castle - multi-ton doors made out of rock. 
-
-
-
-
-
-

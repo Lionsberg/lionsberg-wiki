@@ -172,9 +172,9 @@
     - like the yes and improv exercise... 
     - like improve - it is "our" painting... 
 
-Resource - Toyota Kata Practice Guide - Mike Rother
-Resource - The Talent Code - Coyle
-Resource - Talent is Overrated - Colvin
+Resource - Toyota Kata Practice Guide - Mike Rother  
+Resource - The Talent Code - Coyle  
+Resource - Talent is Overrated - Colvin  
 
 ## Erik 
 - Being able to reflect back and precisely name / meet / recognize a person's pain... 
@@ -208,6 +208,3 @@ Resource - Talent is Overrated - Colvin
 ## What We Are Each Pursuing Anyway
 - I will continue pursuing this anyway... 
 - the more I can codify and sense into it with the group... 
-
-
-

@@ -121,4 +121,3 @@ Many witnesses were experienced pilots, police officers, and engineers, lending 
     
     - NUFORC Hudson Valley Reports: [https://www.nuforc.org](https://www.nuforc.org/)
     - MUFON Case Files: [https://www.mufon.com](https://www.mufon.com/)
-

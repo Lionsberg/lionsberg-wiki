@@ -2,7 +2,7 @@
 
 To respond to the invitation, please complete the [[Manifesto Response Form]] and we will add you to the onboarding queue. 
 
-___
+___  
 "Respond to the Invitation" is an important call to action for individuals who have encountered the [[LIONSBERG Manifesto]], the [[New Vision and Plan]], [[The Great Game of LIONSBERG]], and [[The Movement]] and feel inspired to take part in the collective mission of confronting and overcoming the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]]. By answering this call, you are making a commitment to engage in [[The Battle]] and to contribute your unique skills, knowledge, and passion to [[The Movement]].
 
 As you respond to the invitation, you'll:

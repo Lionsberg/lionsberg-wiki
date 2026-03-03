@@ -1,10 +1,10 @@
 # Welcome to LIONSBERG, We Are Glad You Are Here
 
-Welcome to **LIONSBERG**.
-Welcome **HOME**.
-We are so glad that you are here. 
-____
-The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIONSBERG]]**, **[[The Great Game of LIONSBERG]]**, and **[[The LIONSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIONSBERG]]** and begin there.
+Welcome to **LIONSBERG**.  
+Welcome **HOME**.  
+We are so glad that you are here.  
+____  
+The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIONSBERG]]**, **[[The Great Game of LIONSBERG]]**, and **[[The LIONSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIONSBERG]]** and begin there.  
 ___
 
 Everything about [[LIONSBERG]] is a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
@@ -12,7 +12,7 @@ Everything about [[LIONSBERG]] is a **[[Work In Progress]]**. This will never be
 Across the cosmic order We are doing Our best to progressively articulate **[[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**. Just as you are in your own time and place. 
 
 But make no mistake—**the Reality of Heaven on Earth or in any world is not something handed down from Above.**  
-It is something that must be **co-created**, lived, and embodied **Together**.
+It is something that must be **co-created**, lived, and embodied **Together**.  
 It is a State of Being that We must **Become**.
 
 It is something that **emerges** through each **individual, circle, team, and locality** as a direct **consequence of Who We Are Becoming**.
@@ -45,7 +45,7 @@ Throughout the **[[10 Year Grand Strategy]]**, We can expect to **Co-Create with
 
 This is not a burden—it is the **Refiner’s Fire** that will forge us into the kinds of **Powerful, Competent, Loving, Wise, and Good beings** capable of bringing **Heaven to Earth for millennia to come**.
 
-One of **[[The Watchwords of LIONSBERG]]** is:
+One of **[[The Watchwords of LIONSBERG]]** is:  
 >_**“Dangerous But Good.”**_
 
 ---
@@ -60,7 +60,7 @@ The key is continual cycles of [[SenseMaking]], leading to [[Seasonal Quests]], 
 
 As you sleep each evening, your mind and Spirit will absorb and integrate all you are learning, and each morning you will feel more comfortable.  
 
-If you have questions: 
+If you have questions:  
         - **First, check [[The LIONSBERG Playbook]] and [[Frequently Asked Questions]].**
         - **Second, search the [[LIONSBERG Wiki]].**
         - **Third, ask your Circles.**
@@ -69,10 +69,3 @@ If you have questions:
 ## **Welcome to the Opportunity and Adventure of a Lifetime.**
 
 *It is time to co-create Heaven On Earth*
-
-
-
-
-
-
-

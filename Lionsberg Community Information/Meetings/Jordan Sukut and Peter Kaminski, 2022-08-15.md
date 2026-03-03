@@ -32,14 +32,14 @@
 - What are the problems solved and new capabilities? 
 - 
 
-We want to upgrade Massive Wiki Builder for Lionsberg Wiki from v1.7 to v2.0.  The enhancements include:
+We want to upgrade Massive Wiki Builder for Lionsberg Wiki from v1.7 to v2.0.  The enhancements include:  
 
 - better directory structure for MWB (Massive Wiki Builder) and MWT (Massive Wiki Themes) 
     - (a bit of a breaking change with the old directory structure) 
     - (allows for better favicon directory placement)
 - client-side full-text stemming search
 
-We will get extra functionality, and also stay up-to-date with the MWB dev team, so we can more easily continue to upgrade to the latest and greatest features.
+We will get extra functionality, and also stay up-to-date with the MWB dev team, so we can more easily continue to upgrade to the latest and greatest features.  
 
 
 ## Images and Art and AI
@@ -194,4 +194,3 @@ We will get extra functionality, and also stay up-to-date with the MWB dev team,
 - A lot of early work on discord... getting people into the same rooms, new and existing platforms... 
 - 3 months early adopters - hey let's build a real thing... 
 - 6 months - small beta together 
-

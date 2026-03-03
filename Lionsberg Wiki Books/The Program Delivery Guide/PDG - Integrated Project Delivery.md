@@ -139,6 +139,6 @@ Project participants must understand how and why these processes work and be ski
 
 ___
 
-_Previous: [[PDG - Preamble and Background]]_
-_Next: [[PDG - Target Value Design]]_
+_Previous: [[PDG - Preamble and Background]]_  
+_Next: [[PDG - Target Value Design]]_  
 _Return to [[The Program Delivery Guide]]_

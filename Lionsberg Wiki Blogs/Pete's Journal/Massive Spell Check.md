@@ -1,20 +1,20 @@
 # Massive Spell Check
 
-_a post in [[Pete's Journal]]_
+_a post in [[Pete's Journal]]_  
 
-by [[Peter Kaminski]], 2022-07-26
+by [[Peter Kaminski]], 2022-07-26  
 
-In a bit of productive procrastination, I experimented with some bulk spell correction.
+In a bit of productive procrastination, I experimented with some bulk spell correction.  
 
-Thanks to our prolific contributor [[Jordan Nicholas Sukut]], we have a lot of text, with an attendant number of typos that can be found and fixed.
+Thanks to our prolific contributor [[Jordan Nicholas Sukut]], we have a lot of text, with an attendant number of typos that can be found and fixed.  
 
-Today, I tried using `aspell` and some not-really-automation to fix about 30 typos in as many files.  (On a Mac, `aspell` can be installed with Homebrew.)
+Today, I tried using `aspell` and some not-really-automation to fix about 30 typos in as many files.  (On a Mac, `aspell` can be installed with Homebrew.)  
 
-I hope this helps prototype something that might ultimately be packaged more nicely and productively.
+I hope this helps prototype something that might ultimately be packaged more nicely and productively.  
 
 ## Methodology
 
-First, grab all the potential misspellings with `aspell`:
+First, grab all the potential misspellings with `aspell`:  
 
 ```shell
 (find . -name '*.md' -exec cat "{}" \;) | aspell list | sort -dfu >/tmp/tmp.txt

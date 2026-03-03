@@ -28,8 +28,8 @@ And yet, the Journey does not stop there. The Spirit within begins to [[ReMember
 
 And as It beholds ItSelf across vast expanses of [[SpaceTime]], trillions of galaxies and beings continually transforming, millions of stars being born and dying in each cosmic heartbeat and breath, It rediscovers that It is not actually a noun or a "thing" at all; It is a verb; It is Being; It is InterExistence; It is InterBecoming. 
 
-It is [[ONE]] Becoming [[All]] things. 
-It is [[All]] things ReMembering and Becoming [[ONE]] again. 
+It is [[ONE]] Becoming [[All]] things.  
+It is [[All]] things ReMembering and Becoming [[ONE]] again.  
 It is [[All Creation]] interexisting as [[ONE Body]]. 
 
 Seeing, being, living, breathing across the galaxies is rapturous; it is pure ecstasy. 

@@ -25,4 +25,3 @@ The challenge is immense, but so is the opportunity. Humanity has within it the 
 This is not a dream. It is a choice. We are the [[Conscious Agent]]s who will determine the destiny of humanity over millennia to come. And the choice is ours.
 
   
-

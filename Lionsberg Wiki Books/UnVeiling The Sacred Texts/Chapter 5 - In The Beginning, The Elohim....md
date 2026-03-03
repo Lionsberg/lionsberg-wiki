@@ -38,15 +38,15 @@ When we then begin looking at the [[Source Narratives]] present in other adjacen
 
 To refute this most deceitful and disastrous mistranslation, it is sufficient to look at the numerous examples where the word Elohim is clearly referring to a class, or plurality, of entities, among whom Yahweh is the one assigned to the Israelites. 
 
-In the bible, we have three basic nouns which serve as Word Tools pointing towards these aspects of the reality the Hebrews were experiencing: 
+In the bible, we have three basic nouns which serve as Word Tools pointing towards these aspects of the reality the Hebrews were experiencing:  
 1. Elohim 
 2. El, in Hebrew, likely the singular form of the term Elohim. 
 3. Eloah 
 
 Remembering the common Phoenician / Canaan / Mediterranean origin of the Hebrew language, We can see similarities in adjacent languages: 
 
-In Aramaic, we have the word Elaha. 
-In Siriac, we have the word Alaha. 
+In Aramaic, we have the word Elaha.  
+In Siriac, we have the word Alaha.  
 In Arabic, we have the word Ilah, from which comes Allah. 
 
 While at present We cannot Know precisely how the original texts were read, because they were written without vowels, it is clear that these terms, especially when the vowels are excluded, are all very similar. 

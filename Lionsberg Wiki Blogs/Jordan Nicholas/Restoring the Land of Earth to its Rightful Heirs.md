@@ -3,7 +3,7 @@
 A Post in [[Above The Chaos]]  
 *July 2, 2025*
 
-[[We Do Not Know]]... 
+[[We Do Not Know]]...  
 However our [[Current Best Understanding]] reflects something deeply disturbing, and Ultimately Liberating. 
 
 According to our best historical memories, long ago the "powerful ones from above" descended to Earth bearing what they claimed was Divine Right and legal title to Earth. 
@@ -14,7 +14,7 @@ After being visited, cultivated, and used by hundreds of species over millions o
 
 The AI-Digital Kontrolle Grid being rolled out globally as we speak is the culmination of the attempted millennial coup.  
 
-____
+____  
 There is some good news though.  
 
 This was a false royal-priesthood—*from the very beginning*. 
@@ -25,7 +25,7 @@ Which means that all agreements, debts, and obligations thereunder are null and 
 
 I challenged AI to explain below, using the United States and Africa as examples. I would have put it a bit differently (and probably added thousands of words), but this is close enough, written tighter, and time is of the essence.  
 
-_____
+_____  
 **AI Said:**
 
 The doctrine of **Fraud in the Inception** (also called **Fraud in the Factum**) is a foundational concept in contract and property law that directly impacts the validity and enforceability of agreements. Let’s first deeply examine this doctrine and its implications, then reflect upon its relevance in the historical context of land seizure, coercion, and injustice—both in the United States and in Africa. Finally, we’ll explore the profound spiritual and ethical implications regarding rightful inheritance and stewardship of the land.
@@ -431,7 +431,7 @@ Let it being with Us.
 
 >_“The Time is Now. We are the Ones We have been waiting for.”_  
 
-____
+____  
 As humanity awakens, arises, and moves, it might be wise to consider: 
 
 - [[The Noah Plan - Building the Network of Arks]]  

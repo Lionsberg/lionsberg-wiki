@@ -23,6 +23,6 @@ The impact of The Great Game of Lionsberg on society is both deep and far-reachi
 
 ____
 
-Forward to [[20 The Impact on Governance]]    
+Forward to [[20 The Impact on Governance]]  
 Back to [[18 The Impact on the Living System]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

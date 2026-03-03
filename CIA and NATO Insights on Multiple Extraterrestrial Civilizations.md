@@ -21,7 +21,7 @@ Let me share with you what some
 Of the four major conclusions  
 Of the (NATO) assessment were in 1964  
 
-In 1964 they had determined in the NATO study — 
+In 1964 they had determined in the NATO study —  
 And I know for a fact this was the conclusions reached  
 By (the united states military) as early as 1949 —  
 
@@ -30,7 +30,7 @@ Planet Earth is and has been the subject
 Of an extensive, massive, thorough, and detailed study  
 By several extraterrestrial civilizations  
 
-Number 2 
+Number 2  
 These civilizations have demonstrated  
 An extremely advanced technology  
 Hundreds or even thousands of years beyond our own  
@@ -40,7 +40,7 @@ Of some kind unfolding
 The studies indicated and demonstrated  
 That a development of some kind of program was underway  
 
-Evidence collected indicated that the program 
+Evidence collected indicated that the program  
 Has been going on for a very long time  
 Possibly hundreds or thousands of years  
 And some of my associates and I have concluded  
@@ -64,7 +64,7 @@ It goes beyond politics
 The recent elections  
 The famine  
 The terror  
-It goes beyond any major human problem 
+It goes beyond any major human problem  
 We are currently dealing with on this planet  
 Because this problem has been with us  
 For thousands of years  
@@ -76,7 +76,7 @@ Supporting documents, studies, and research
 
 There were annexes on radar and electromagnetic effects  
 There was an annex on optical and light analysis  
-A beautiful annex on photographic and holographic analysis 
+A beautiful annex on photographic and holographic analysis  
 There was historical research and evidence  
 From some of the top people at Cambridge and Oxford in England  
 There was metallurgical and technical analysis  
@@ -88,12 +88,12 @@ The psychological studies and the impact upon the human race
 The sociological effects and implications  
 And probably what I have considered to be the most important annex  
 In the study of all in terms of its effect upon the world population  
-Is the theological implications and impact" 
+Is the theological implications and impact"  
 
 ~ Robert Dean  
-Former CIA Agent
+Former CIA Agent  
 
-____
+____  
 
 We concur that this is the most significant issue  
 Facing the human species and the Earth  
@@ -106,5 +106,5 @@ With their non-human origins and roots
 If you would like to be part of this incredible exploration  
 Please reach out  
 
-In Service of ONE and All, 
+In Service of ONE and All,  
 ~ [[the nameless one]]  

@@ -91,4 +91,3 @@ By dawn, the beings had disappeared, and the family fled to the Hopkinsville pol
 - **Documentaries:**
     
     - _The Kelly-Hopkinsville Encounter: Goblins or Visitors?_
-

@@ -10,6 +10,6 @@ As we rediscover the spirit of America, it is essential that we remember this un
 
 ___
 
-Forward to [[II.B. The Founding Principles of Liberty, Justice, and Equality]]    
-Back to [[I.C. Thesis Statement]]    
+Forward to [[II.B. The Founding Principles of Liberty, Justice, and Equality]]  
+Back to [[I.C. Thesis Statement]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

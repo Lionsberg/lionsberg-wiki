@@ -149,7 +149,7 @@ I will work to implement common-sense solutions to ensure that powerful technolo
 
 This includes: 
 
-____
+____  
 Work in Progress [[Left Off Here]]
 
 
@@ -257,5 +257,5 @@ This includes ensuring that every woman and child has access to all the resource
 
 ## 30. Homelessness 
 
-Root causes. 
+Root causes.  
 Comprehensive solutions. 

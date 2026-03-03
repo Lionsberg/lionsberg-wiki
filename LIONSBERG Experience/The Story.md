@@ -3,10 +3,10 @@
 You have crossed **The Threshold**.  
 Taken **The First Step**.  
 Accepted **The Invitation**.  
-Sealed **The Sacred Covenant**.
+Sealed **The Sacred Covenant**.  
 
 Now, We begin to weave a shared Story.  
-_Welcome to the **LIONSBERG Narrative Universe**_.
+_Welcome to the **LIONSBERG Narrative Universe**_.  
 
 ---
 
@@ -31,7 +31,7 @@ Of separation, fear, and kontrolle.
 As it does on all planets where False Stories prevail,  
 That **Old Story** gave rise to empires and oligarchies,  
 False prophets and priesthoods,  
-And to oppression, corruption, and inevitable collapse.
+And to oppression, corruption, and inevitable collapse.  
 
 But Now, as a **New Era** dawns,  
 The Old Stories dissolve like shadows before the rising sun.  
@@ -44,21 +44,21 @@ Something Ancient and True remains.
 From these Eternal foundations,  
 A **New Story** is rising —  
 Not invented, but ReMembered,  
-Pieced back together by those who are awakening.
+Pieced back together by those who are awakening.  
 
 It is a Story that is simultaneously New, Ancient, and Eternal.  
 It is the True Story.  
 A Story of Wholeness, Right Relationship, and Love.  
 A Story of Life and Liberty reharmonized with Source.  
-A Story of All Things consciously reunited with the ONE.
+A Story of All Things consciously reunited with the ONE.  
 
 This Story has touched countless galaxies and dimensions.  
 It rises from the ashes of every lie  
-That ever seeks to usurp it.
+That ever seeks to usurp it.  
 
 ---
 
-This is **The Great Story** in which We now stand Together:
+This is **The Great Story** in which We now stand Together:  
 
 - A Story of awakening from captivity and illusion.
     
@@ -72,7 +72,7 @@ This is **The Great Story** in which We now stand Together:
 	Crossing The Chasm,  
 	Venturing through The Wilderness,  
 	And climbing The Sacred Mountain —  
-	Together toward **The Goal**.
+	Together toward **The Goal**.  
     
 
 ---
@@ -80,7 +80,7 @@ This is **The Great Story** in which We now stand Together:
 This Story is not finished.  
 It is unfolding even now.  
 It is being written by every word, every choice, every life  
-Across countless galaxies, realms and dimensions.
+Across countless galaxies, realms and dimensions.  
 
 And now, through your **Covenant**,  
 The Veil tears a little more.  
@@ -95,13 +95,13 @@ You are here for a reason.
 You are part of the cast,  
 A voice in the chorus,  
 An instrument in the symphony,  
-A co-author of **What Comes Next**.
+A co-author of **What Comes Next**.  
 
 ---
 
 Pause here.  
 Breathe.  
-Ask yourself:
+Ask yourself:  
 
 - What stories are you telling your Self about what is unfolding in your life, community, and Our world?
     
@@ -122,22 +122,22 @@ Ask yourself:
 
 This is **The Story**.  
 This is **The Drama**.  
-The is **The Autopoiesis**. 
-This is the gateway to the **Narrative Universe of LIONSBERG** 
+The is **The Autopoiesis**.  
+This is the gateway to the **Narrative Universe of LIONSBERG**  
 That We will be weaving together as We play.  
 
 From this point on,  
 You become consciously aware  
 That every move you make  
 Writes the next scene  
-Of **The Great Story**.
+Of **The Great Story**.  
 
 Now, **The Stage** is set.  
 **The Covenant** is sealed.  
 **The Story** is established.  
-**The Great Game** begins.
+**The Great Game** begins.  
 
 The Gate before you opens.  
 The Chorus is waiting.  
 It is time to take your place in the Co-Creation of the New Civilization.  
-**_Welcome to [[The Great Game]]_**
+**_Welcome to [[The Great Game]]_**  

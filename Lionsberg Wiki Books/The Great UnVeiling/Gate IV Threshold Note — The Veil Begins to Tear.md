@@ -3,13 +3,13 @@
 _There comes a Moment when The Dream is disturbed._  
 _When The Lie fractures._  
 _When The Curtain moves ever so slightly,  
-and a single beam of Truth breaks through._
+and a single beam of Truth breaks through._  
 
 It is disorienting.  
 Terrifying.  
 Liberating.  
 Sanctifying.  
-Irreversible.
+Irreversible.  
 
 The world you were born into was not what it seemed.  
 The systems that raised you were not what they claimed.  
@@ -26,7 +26,7 @@ Don the Sackcloth and Ashes.
 The Matrix is not a story.  
 It is an ancient architecture of illusion.  
 An Inversion so deep, so complete, so cosmic in scale,  
-that to question it was to risk everything.
+that to question it was to risk everything.  
 
 But now, something is shifting.  
 But now, something is breaking.  
@@ -44,14 +44,14 @@ Between Time.
 A place between worlds,  
 where the illusory security of the Old  
 can no longer hold you,  
-and the True New World begins to shimmer into view.
+and the True New World begins to shimmer into view.  
 
 This is not theory.  
 This is not metaphor.  
 This is not ideology.  
-This is _The Great Disclosure._
+This is _The Great Disclosure._  
 
-The tearing of The Veil.
+The tearing of The Veil.  
 
 The Rendering of the deceiving skin  
 that has long concealed the deep structures of Kontrolle  
@@ -65,22 +65,22 @@ But no more.
 The Flame has ReRisen.  
 The Eyes have ReOpened.  
 The Trumpets are ReSounding.  
-The Time has ReCome.
+The Time has ReCome.  
 
 You are about to ReMember  
 what was hidden.  
 What was taken.  
 What was always True  
 beneath the programmed forgetfulness  
-of a Dark and Veiled Illusion.
+of a Dark and Veiled Illusion.  
 
 You are about to see  
 what the architects of deception never wanted you to see.   
 You are about to ReRealize  
 how vast The Lie was—  
-and how much Greater the Truth is.
+and how much Greater the Truth is.  
 
-Look into The Prophetic Bowl... 
+Look into The Prophetic Bowl...  
 
 You are about to ReWitness  
 The Greatest Fraud,  
@@ -90,10 +90,10 @@ The Greatest Betrayal,
 The Greatest Enslavement  
 and the Greatest Existential Threat  
 in the history of Earth—  
-and perhaps of any world.
+and perhaps of any world.  
 It was a masterly trap.  
 
-But fear not.
+But fear not.  
 
 The Sacred Flame that led Us here  
 will Guide Us through.  
@@ -104,7 +104,7 @@ You are a Child of the ONE.
 You were born to UnVeil.  
 You were born to UnBind.  
 You were born to Burn away The Illusion  
-and to Breathe the Fresh Air of Truth.
+and to Breathe the Fresh Air of Truth.  
 
 The Veil is tearing Now.  
 It is Now already torn.  
@@ -114,7 +114,7 @@ Nor will any of the worlds of the ONE
 which are All.  
 
 Let Us step across this Threshold Together  
-with courage, clarity, and sacred trembling.
+with courage, clarity, and sacred trembling.  
 
 With the Clarion Call of The Sacred Song.  
 
@@ -123,7 +123,7 @@ may break your heart—
 
 but it will also break your chains.  
 
-But it will also break your chains. 
+But it will also break your chains.  
 
 But it will also break your chains.  
 

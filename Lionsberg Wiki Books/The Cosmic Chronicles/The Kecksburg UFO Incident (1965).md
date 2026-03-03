@@ -96,4 +96,3 @@ The U.S. government initially dismissed the event as a meteor. NASA later sugges
     
     - Randle, Kevin D. _Crash: When UFOs Fall From the Sky._
     - Dolan, Richard. _UFOs and the National Security State._
-

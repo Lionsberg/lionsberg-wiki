@@ -55,9 +55,9 @@ Today we are going to begin the ongoing spiritual, intellectual, and moral effor
 
 1. **Understanding Your Story**: Reflect on your personal narrative. What experiences, aspirations, and dreams have shaped your story? How has your story evolved over time?   
     
-	1. **[[Where You Are]] and [[How You Got Here]]**: 
-		1. Divide your past life up into 5 to 7 Epochs (periods of [[Time]]), **Name** them, **Describe** them, and reflect on the Story of each individually. 
-		2. What defining experiences, dreams, challenges, and fears shaped each one? **Name** them, **describe** them, and reflect on the Story of each individually. 
+	1. **[[Where You Are]] and [[How You Got Here]]**:  
+		1. Divide your past life up into 5 to 7 Epochs (periods of [[Time]]), **Name** them, **Describe** them, and reflect on the Story of each individually.  
+		2. What defining experiences, dreams, challenges, and fears shaped each one? **Name** them, **describe** them, and reflect on the Story of each individually.  
 		3. How did each experience shape your perception of your Self, other people, and the world? What is the place (literally and metaphorically) that those experiences have brought you to?  
 	2. **[[Where You Are Going]] and [[Why]]**: What is the overarching and uniting **Goal** you are moving towards? Why? How does it align with [[The Goal]]?  
 	3. **Who You Are and Who You Are Becoming**: Who are you? Who are you becoming? How is the Quest towards Where You Are Going aligned with and informed by Who You Are Becoming and Why? How does Where You Are Going relate to Who You Are Becoming? Are they aligned?  
@@ -67,9 +67,9 @@ Today we are going to begin the ongoing spiritual, intellectual, and moral effor
 3. **Surfacing Traumas and Fear**: As you delve into the depths of your mind and experience and bring them to light, recognize that this can create deep fear and emotion. As you encounter places of negative emotion or fear, especially if they are beyond 18 months in the past, WRITE THEM DOWN. Identifying and Articulating these places of blocked energy brings them up into the light, where we can choose to voluntarily confront and overcome them when the time is right. If you would like to begin processing specific areas more deeply:  
 	1. Write down the **Name** and **Description / Story** of the experience    
 	2. Describe the **Context** and **Inception** of the experience   
-	3. Describe the **Role** you played in the Story, including the events that preceded the experience, the experience itself, and its aftermath. 
+	3. Describe the **Role** you played in the Story, including the events that preceded the experience, the experience itself, and its aftermath.  
 	4. Describe the **Elements** of the experience that were beyond your understanding or control at the time, or that violated your expectations  
-	5. Describe how this Story shaped your perception of: 
+	5. Describe how this Story shaped your perception of:  
 		1. Your Self and your Personality  
 		2. Other people  
 		3. The world  
@@ -77,7 +77,7 @@ Today we are going to begin the ongoing spiritual, intellectual, and moral effor
 	6. Given how the Story unfolded, what could / should / would you have done differently in light of all you have now come to be and know?   
 	7. Identify any beliefs about your Self, other people, or the world that may have arisen out of this experience.  
 	8. Identify which, if any, of the beliefs forged by this experience may no longer be serving you well, even if they were necessary or served you well in the past.  
-	9. For any beliefs which you wish to transform, identify a New set of beliefs that is more True, Wise, Loving, Just, and Good. 
+	9. For any beliefs which you wish to transform, identify a New set of beliefs that is more True, Wise, Loving, Just, and Good.  
 	10. **Retell the Story**: Having surfaced and examined the experience, retell the Story in light of the New perspective and beliefs you have consciously chosen. How does this transformation inform and align with your Story about Where You Are Going and Why? 
     
 4. **The Power of Your Story**: Consider the transformative power of your narrative. How has your story shaped your perceptions, guided your interactions, and inspired, aided, or hindered you in your journey towards The Goal? How might transforming your Story transform your ability to help your Self and other people progress towards [[The Goal]]?  

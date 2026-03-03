@@ -68,7 +68,7 @@ For our pilot episode we reversed the roles. Bill Larson is interviewing our pod
 - Social Justice  
 - Economic Justice  
 
-**Resources and Links**:
+**Resources and Links**:  
 - [Mondragon Corporation](www.wikipedia.org/wiki/Mondragon_Corporation) - Wikipedia 
 - [[The Prophesy of Mondragon]] - Lionsberg Wiki 
 

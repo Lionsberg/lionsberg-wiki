@@ -12,7 +12,7 @@
 ## Discussion 
 - Learning process, we are searching
 - No amount of structure will fix the issue that is at base heart and spirit issue (of not working well together in greater society)
--Maybe set up basic systems of comm'n for awareness of priorities, needs, what each is doing, builds relationships openinng opportunities for deeper collabs over time
+-Maybe set up basic systems of comm'n for awareness of priorities, needs, what each is doing, builds relationships openinng opportunities for deeper collabs over time  
 - "You're at risk of failing if fall in default program management mode"
 - Too much structure too soon, not what's needed - what's needed is get more groups that are autonomous, driven from within - instead of PM, create basic system of minimal communication and awareness of what each group is doing.
 - Communicate monthly min data, priorities, roadblocks, opportunities, listen and help by rest

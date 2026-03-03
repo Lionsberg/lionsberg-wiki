@@ -122,7 +122,7 @@ Before long, we will be a federation of multiple groups and cohorts, and we will
 
 ## **Closing**
 
-As we close today, remember that courage isn't the absence of fear, but the triumph over it. Embrace your fears, for they are the crucible in
+As we close today, remember that courage isn't the absence of fear, but the triumph over it. Embrace your fears, for they are the crucible in  
 which your courage is forged. The fears you face today will not be the fears you face tomorrow, for each day in the wilderness brings transformation. Fear not the change, but welcome it as evidence of your growth. Slowly, you are transforming and becoming the kind of person who is capable of courageously Venturing Out Into The Unknown, and confronting and overcoming whatever challenges, obstacles, threats, and fears dare to arise to object to your Progress towards The Goal. 
 
 **Navigating Through Fear: A Generalized Approach**

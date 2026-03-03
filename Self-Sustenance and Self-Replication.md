@@ -72,10 +72,10 @@ Without self-sustenance, every node depends on a center — and when the center 
 
 The Pattern holds all three: sovereign nodes that sustain themselves, replicate naturally, and remain woven into the living Body of the Whole. This is how living things grow — from the inside out, from seed to fruit to seed, within the vast ecosystem of [[All]] that nourishes and is nourished by every part.
 
-The question is not whether the math works.
+The question is not whether the math works.  
 The question is whether you will begin.
 
 ___
 
-_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._
+_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
 _See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._

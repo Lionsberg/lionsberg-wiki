@@ -1,8 +1,8 @@
 # Connect and Collaborate With Other Circles
 
-_You are not alone in this.
-Across your city, your region, your world —
-other Circles are forming, other Quests are underway.
+_You are not alone in this.  
+Across your city, your region, your world —  
+other Circles are forming, other Quests are underway.  
 The movement grows when these living cells find each other._
 
 ---
@@ -68,8 +68,8 @@ One Circle finds another. They share a meal. They discover their Quests are comp
 
 This is how 3 become 13 become 144 become millions.
 
-Not through control. Through connection.
-Not through hierarchy. Through resonance.
+Not through control. Through connection.  
+Not through hierarchy. Through resonance.  
 Not through force. Through the ancient, organic mathematics of trust.
 
 **Reach out. Make yourself known. Find the others. The Body is assembling itself — and your Circle is part of it.**

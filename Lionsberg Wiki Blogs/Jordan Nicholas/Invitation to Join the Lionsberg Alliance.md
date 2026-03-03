@@ -94,7 +94,7 @@ The path forward begins with a single step that is yours to take. Will you walk 
 To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header).    
 
 In Service of [[ONE]] and [[All]],  
-~ [[J]]
-____
+~ [[J]]  
+____  
 Please review the [[Agreement to Join The Lionsberg Alliance]]  
 ____

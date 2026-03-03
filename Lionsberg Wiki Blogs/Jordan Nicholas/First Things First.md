@@ -113,11 +113,3 @@ This is why your children are being abducted, harvested, raped, tortured, and im
 This is being done in violation of Universal Law. 
 
 Which is why We are returning to intervene and help you liberate your Selves. 
-
-
-
-
-
-
-
-

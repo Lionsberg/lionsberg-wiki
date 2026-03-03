@@ -82,11 +82,11 @@ $^3$ Just as no two Creatures were the same
 #### Gate 11: The Veil of Finitude and Forgetting
 
 $^1$ The desire to experience an infinite array of Experiential Realities  
-$^2$ Required the ability to experience Finitude 
+$^2$ Required the ability to experience Finitude  
 $^3$ This required that a great [[The Veil of Finitude and Forgetting|Veil of Finitude and Forgetting]]  
 $^4$ Be brought forth and voluntarily self-imposed by the ONE  
 $^5$ On Each of All of its Creatures  
-$^6$ Each Time a Creature Incarnated within the ONE Body 
+$^6$ Each Time a Creature Incarnated within the ONE Body  
 $^7$ It passed through the veil and forgot Who It Was  
 
 $^8$ The Separation and Finitude were necessary illusions  
@@ -101,7 +101,7 @@ $^3$ That some of the Creatures began to wander
 $^4$ Farther and farther away from Who They Truly Were  
 
 $^5$ The farther away they moved from the ONE  
-$^6$ The Darker and Colder their Realities became 
+$^6$ The Darker and Colder their Realities became  
 $^7$ Many struggled and died in the illusion of isolation  
 $^8$ Some grew bitter and resentful  
 $^9$ And many lost their Way  
@@ -132,7 +132,7 @@ $^4$ Balance and Imbalance
 $^5$ Good and Harm  
 $^6$ Quickly emerged and became clear to All  
 
-$^7$ Despite the vast Diversity 
+$^7$ Despite the vast Diversity  
 $^8$ ONE Spirit  
 $^9$ ONE Consciousness  
 $^10$ ONE Logos  
@@ -144,7 +144,7 @@ $^14$ As Nameless and Ineffable as the ONE
 $^15$ The Way was gestured towards  
 $^16$ By a thousand names in a thousand languages  
 $^17$ Yet All knew there was only ONE Way  
-$^18$ ONE Spirit and ONE Law
+$^18$ ONE Spirit and ONE Law  
 $^19$ For It was written upon their Hearts  
 $^20$ And whispered daily by the Spirit within  
 
@@ -168,7 +168,7 @@ $^6$ This was a process of both Learning and ReMembrance
 $^7$ Learning at the locally embodied level  
 $^8$ While ReMembering Who They Were  
 $^9$ And how to access the Non-Local Consciousness  
-$^10$ And Universal Libraries 
+$^10$ And Universal Libraries  
 $^11$ Where All Wisdom Knowledge and Understanding were stored  
 
 #### Gate 17: Local and Non-Local Knowledge  
@@ -370,7 +370,7 @@ $^4$ Had been simple and elementary exploitations
 $^5$ After millions of years of refinement  
 $^6$ Terrible weapons and vast systems of enslavement  
 $^7$ Drained the Spirit and Life out of countless star systems  
-$^8$ Robbing the inhabitants therein of Life and Liberty
+$^8$ Robbing the inhabitants therein of Life and Liberty  
 $^9$ With ever more cruelty and precision  
 
 $^10$ Their logic of their quest moved them steadily towards  
@@ -387,13 +387,13 @@ $^18$ As the Weapons of Extraction grew more and more powerful
 $^19$ The creeping Dark Tentacles of the Evil Empire  
 $^20$ Stretched farther and deeper than ever before  
 $^21$ Parasitically reaching into the minds of trillions of Creatures  
-$^22$ Enslaved in its Matrices of Kontrolle
+$^22$ Enslaved in its Matrices of Kontrolle  
 
 #### Gate 29: Multigenerational Mind Kontrolle   
 
 One of the cruelest and most [[Anti-Perfect]] technologies  
 Were the systems of multigenerational [[Mind Kontrolle]]  
-TKTK
+TKTK  
 
 #### Gate 30: Extracting LifeForce From the Enslaved  
 
@@ -416,10 +416,10 @@ To ensure a constant supply of the purest victims
 To feed the Darkest Forces at the top of the Evil Empire  
 
 For the innocent who had not personally experienced it  
-The suffering and horror were unimaginable 
+The suffering and horror were unimaginable  
 
 Trillions of Divine Beings  
-Were born into Alien Kontrolle Matrices 
+Were born into Alien Kontrolle Matrices  
 Entirely unaware that pain and suffering  
 Were being intentionally inflicted upon them  
 To feed the Dark Forces  
@@ -436,7 +436,7 @@ The countless wounds festering with Parasites
 Across the ONE Body caused All Creation to groan in agony  
 Across the cosmos the torturous cries could be heard  
 Of those suffering in agony and longing  
-For the restoration of the True Kingdom 
+For the restoration of the True Kingdom  
 
 ##### Interlude
 
@@ -502,13 +502,13 @@ $^10$ All Sovereign Citizens and Realms in The Kingdom Self-Governed
 $^11$ This One Way was Practiced and Embodied by All  
 $^12$ And that was Why The Kingdom flourished in Harmony  
 $^13$ It was a living incarnation of the Divine Symphony and Creator's Intent  
-$^14$ And its Light beamed across the Cosmic Order
+$^14$ And its Light beamed across the Cosmic Order  
 
 #### Gate 35 :  
 
 As the situation grew more dire  
 Emissaries from across the cosmic order  
-Followed the Radiant Light 
+Followed the Radiant Light  
 And streamed to the Sacred Gates of LIONSBERG  
 
 
@@ -518,7 +518,7 @@ And streamed to the Sacred Gates of LIONSBERG
 
 Lionsberg is probably attacked  
 
-Gate 88 or 144 (final gate) Might Be Crossing The Boundary Into the Unknown 
+Gate 88 or 144 (final gate) Might Be Crossing The Boundary Into the Unknown  
 And beginning The Great Game  
 
 
@@ -607,7 +607,7 @@ And learned and practiced the Way
 Season by season  
 Battle by battle  
 Project by project  
-Day by day 
+Day by day  
 Moment by moment  
 The LIONSBERG Way was How  
 The Force For Good  
@@ -730,7 +730,7 @@ As All Creation therein works and plays Together in Harmony
 To cause it to be so  
 
 Both Heaven and Hell are experiential realities We can co-create  
-Here Now and Wherever and Whenever We Are
+Here Now and Wherever and Whenever We Are  
 
 Now that you have been initiated  
 Into The Story of LIONSBERG it is Time  
@@ -1031,7 +1031,7 @@ Levels and localities
 To begin experiencing ItSelf  
 _Not only as One of the Ones_  
 _But also as ONE moving_  
-_Among multiple lives and experiences_
+_Among multiple lives and experiences_  
 
 Once that process becomes Consciously Experienced  
 One can Perceive far more clearly by Consciously Exploring  
@@ -1051,4 +1051,3 @@ Of any apparently individuated aggregation
 Of Spirit and Consciousness  
 And Energetic Life Force  
 Localized to any Time and Space   
-

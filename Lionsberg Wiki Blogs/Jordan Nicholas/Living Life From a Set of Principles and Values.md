@@ -1,5 +1,5 @@
 # Living Life From a Set of Principles and Values
-April 27, 2025
+April 27, 2025  
 A Post in Above The Chaos
 
 ***From a local community member***: "I am intrigued with this idea of living life from a set of principles / values. I've heard this type of thing before, but something about being the right person, in the right place type of thing. Maybe I'm finally ready for such a thing. Something that's been on my mind these last few days."

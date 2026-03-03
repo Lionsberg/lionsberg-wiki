@@ -41,7 +41,7 @@ The New Covenant is both a promise and a responsibility, a vision and a path. It
 
 The choice is ours, the moment is now, and the path is clear. The New Covenant awaits our response, our commitment, and our courage to embark on a journey that will shape not only our own lives but the destiny of humanity and the future of all creation.
 
-___
+___  
 Forward to [[Chapter 8 - Becoming One Citizenship Under God]]  
 Back to [[Chapter 6 - Why The Path Towards Apocalypse Affects Every Family On Earth]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  

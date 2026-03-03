@@ -74,7 +74,7 @@ You may have arrived here through a single shared link, passed from someone who 
 
 **This is that moment.**
 
-This book gives you everything you need:
+This book gives you everything you need:  
 - **The Pattern** — twelve irreducible elements proven across 1,500 years of movements that changed the world
 - **The Evidence** — that it works, at scale, across centuries, from cooperatives to cathedrals to cosmos
 - **The Action Steps** — clear, immediate, and achievable
@@ -87,8 +87,8 @@ You are not alone. You are not too late. You are exactly where you need to be.
 
 ---
 
-_From [[ONE]], all things proceed._
-_To [[ONE]], all things return._
+_From [[ONE]], all things proceed._  
+_To [[ONE]], all things return._  
 _In [[ONE]], all things cohere._
 
 ---

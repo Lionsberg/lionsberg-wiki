@@ -5,7 +5,7 @@ Below are some basic features of life **In a Lionsberg World**. This articulatio
 
 If you find something lacking, [[Filling Up What Is Lacking|Fill It Up]]. If you find something that does not belong, [[Removing What Does Not Belong|Remove It]]. 
 
-Remember: 
+Remember:  
 1. [[If It Belongs In Heaven On Earth, It Belongs In Lionsberg]]  
 2. [[If It Does Not Belong In Heaven On Earth, It Does Not Belong In Lionsberg]]  
 
@@ -112,5 +112,3 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 98. In a Lionsberg World, Power, Authority, and Responsible are [[Optimally Decentralized]].  
 99. In a Lionsberg World, We Continually [[Embody And Enact]] the [[New Covenant]].  
 100. In a Lionsberg World, We [[Embody And Enact]] the [[Kingdom of God]], [[On Earth As it Is In Heaven]].  
-
-

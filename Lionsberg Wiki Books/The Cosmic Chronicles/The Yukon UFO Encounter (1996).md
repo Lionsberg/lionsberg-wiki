@@ -119,4 +119,3 @@ Witnesses reported feeling awe and confusion. Many were convinced they had seen 
     
     - Ufology Research of Manitoba: [http://www.canadianuforesearch.com](http://www.canadianuforesearch.com/)
     - NICAP Report on Yukon Incident: [https://www.nicap.org](https://www.nicap.org/)
-

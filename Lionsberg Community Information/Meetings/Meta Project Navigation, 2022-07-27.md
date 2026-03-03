@@ -1,6 +1,6 @@
 # **Episode ? (27 July 2022): Lionsberg | Meta Project Navigation**
 
-Collaborative note taking
+Collaborative note taking  
 
 ## Issues
 
@@ -90,7 +90,7 @@ Collaborative note taking
     - If we are not paying attention to that - we are likely stuck on what each of us wants. 
 - Erik - flip side is the danger of group becoming more important than the individual. 
 - Word energy - mostly accepted here-, most have a way to relate to it even if don't hold it exactly as the same. Notion of energy as in chakras, acupuncture, different models; organ in Japan has opposite energy outside/inside
-Hard to find agreement between different systems of energy. Yet energy is also the crux for me, but I have no idea what it is. In general sense of energy I agree, in detail we might all disagree or not. I wont join in astrology. 
+Hard to find agreement between different systems of energy. Yet energy is also the crux for me, but I have no idea what it is. In general sense of energy I agree, in detail we might all disagree or not. I wont join in astrology.  
 - How do we determine action is the right action without discernment of really understanding ourselves and others, real being - have seen projects fail because someone wasn't right person in that position. Discernment is key. Also about doing things (Shakespeare) lots of effort by people with no meaning. The more time we spend coming to unity and clarity on purpose, understanding and discernment, the more likely we are to realize the thing that we should do. PM should be asking "What is the best, right thing we ought to do". If someone is afraid to speak up, they might have profound questions about whether project is timely and right project. Maybe they are not in the right place. It is the danger of the Good vs the Best. Less patience with just a lot of activity and more desire to do the One thing, focused better. 
 - Saying something is backed by science doesn't create trust. Feeling into sense in the group - this feels great here now... (WM recap: the Vibe as a felt-sense letting each individual know whether to lean in, or take energy and effort to other places.   An aligned vibe increases trust and encourages leaning in.)
 
@@ -143,7 +143,7 @@ Hard to find agreement between different systems of energy. Yet energy is also t
 - Outer edges of our ability to articulate in edge experiences, emergent and drowning
 - JSu: Stacey speaking for a lot of suffering people around the world and for whom it is not self evident who to turn to, how to get help - we can do better. 
  
-*Tangents/Things not yet discussed:
+*Tangents/Things not yet discussed:  
 - how do the external systems of the world (climate feedback loops) impact our balance between doing/being - ex) are we acting this way because we are in an ACTUAL crises or a manufactured crises (when your boss creates a crises to get someone to work faster when it's not actually a crises)?
 - what happens when there's a group of 10 people and 1 person who missed a previous meeting has a burning concern that was addressed last time for an hour? do we spend time going into it again, asking to watch the recording? How to balance the need to move forward when people can't be at every meeting? 
 - Alignment has to come out of the beingness together, feeling "this is the next emergent thing". Identifying it, like with faciliation so there can be both being and doing; from there follows bringing in people trained to do this. Only saying it because it emerges at that moment as a result of (...)
@@ -197,7 +197,7 @@ Hard to find agreement between different systems of energy. Yet energy is also t
 
 - How do we take what was discussed today, and create output that would inform our activities. 
 
-Hypotheses: 
+Hypotheses:  
 - process / system for getting things scheduled to be resolved... 
 - End of each meeting
     - Decisions to be made
@@ -224,7 +224,7 @@ Hypotheses:
 - Care that facilitation can impose a direction and or a decision which the group, if given another facilitation style - would not have taken
 
 
-Activities X Certain Balance
+Activities X Certain Balance  
 - Ex) Weekly Meetings x being and doing
     - what is an idea for a way to solve this 
     - what is an example of another org/group that does this best?
@@ -239,7 +239,7 @@ Activities X Certain Balance
 
 - 
 
-Activities: (What are activities you want to be involved with?)
+Activities: (What are activities you want to be involved with?)  
 
 * Strategy, and how to tie resourcing to what is emerging...
 
@@ -269,7 +269,7 @@ Activities: (What are activities you want to be involved with?)
 
 * Focusing on disagreement to understand where we are - sitting in the fire / being and tension
 
-Ideas: a session to go through the orgs and have people vouch for them.
+Ideas: a session to go through the orgs and have people vouch for them.  
 
 ## Retro
 - The pracitcal second half was "held" by the first conversation... 

@@ -167,7 +167,3 @@ The external facing side of the platform has already been adopted and tested by 
 This strategy will ultimately set billions of dollars in [[Flow]], and the be self-sustaining based on crowd-funding and the internal 1/10th of resources that will be dedicated to continuously improving the Quality of the platform, ecosystem, and community. 
 
 Getting there will require a few years of runway to scale up. Although we have constructed a plan that can be accomplished independently of any external resources, the 7 year constraint and urgency of the global situation impels us to seek $5M to $20M in bridge funding to create the runway and secure the [[Time]] and Focus of the top talent we have engaged. This is a broad range that governs the speed at which a multi-billion dollar program of action can be sparked. 
-
-
-
-

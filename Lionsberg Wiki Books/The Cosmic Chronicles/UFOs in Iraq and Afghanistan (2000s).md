@@ -69,7 +69,7 @@ The UFO sightings in Iraq and Afghanistan highlight the intersection of unexplai
 ### **Investigations and Outcomes**
 
 - **Limited Official Acknowledgment**:  
-    Military leadership has never publicly addressed these incidents, citing operational security. However, many soldiers have come forward post-service to describe their experiences.
+    Military leadership has never publicly addressed these incidents, citing operational security. However, many soldiers have come forward post-service to describe their experiences.  
 - **Continued Monitoring**:  
     Classified investigations into unidentified aerial phenomena (UAPs) in conflict zones reportedly continued, particularly following increased awareness of UAPs in U.S. military airspace.
 
@@ -98,4 +98,3 @@ The UFO sightings during the Iraq and Afghanistan wars remain a perplexing chapt
 - **Related Studies**:
     - Kean, Leslie. _UFOs: Generals, Pilots, and Government Officials Go on the Record._
     - Dolan, Richard. _UFOs and the National Security State._
-

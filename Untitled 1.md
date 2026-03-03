@@ -62,49 +62,49 @@ From the work of Ole Peters and the London Mathematical Laboratory. The distinct
 ## IV. Deep Convergences with LIONSBERG
 
 ### 1. The Root Cause Is Structural
-**Boyd**: "The ownership structure is the deepest attractor in the system."
+**Boyd**: "The ownership structure is the deepest attractor in the system."  
 **LIONSBERG**: "You cannot fix the outputs without fixing the structural DNA." (Element 5)
 
 Both identify the same root pathology: the incorporation/ownership architecture of the Old World is designed for extraction, and no amount of cultural or leadership change within that architecture will overcome its gravitational pull. Both insist on **structural** solutions, not aspirational ones.
 
 ### 2. Purpose Sovereignty
-**Boyd**: Purpose is embedded in the governance architecture, not in a mission statement. Anti-enclosure mechanisms prevent capture.
+**Boyd**: Purpose is embedded in the governance architecture, not in a mission statement. Anti-enclosure mechanisms prevent capture.  
 **LIONSBERG**: "The Purpose governs; leaders serve." (Element 1). Purpose structurally sovereign, protected from capture by any stakeholder group.
 
 Near-identical position. LIONSBERG articulates this as a universal principle. Boyd operationalizes it in specific legal architecture.
 
 ### 3. Capital Subordination
-**Boyd**: Investor shares capped. Capital earns return but never governs. Default 70% to labour/community.
+**Boyd**: Investor shares capped. Capital earns return but never governs. Default 70% to labour/community.  
 **LIONSBERG**: "Capital is instrumental and subordinate." Maximum ~7% return (from Mondragon). Pay ratios compressed 1:7. Worker = Member = Owner.
 
 Direct alignment. Both draw from Mondragon's Principle 3 (Sovereignty of Labour, Instrumental Nature of Capital) and extend it.
 
 ### 4. Multi-Stakeholder Governance
-**Boyd**: Four share classes. Each constituency has voice. Cross-stakeholder legitimacy required for major decisions.
+**Boyd**: Four share classes. Each constituency has voice. Cross-stakeholder legitimacy required for major decisions.  
 **LIONSBERG**: "One member, one voice. Democratic self-governance through shared agreements." Social Councils at every fractal level (from Mondragon).
 
 Convergent intent, different implementation. LIONSBERG's holofractal model is more bottom-up and organic. Boyd's is more legally specified. Both reject single-stakeholder governance.
 
 ### 5. Fractal / Ecosystem Thinking
-**Boyd**: Thinks in ecosystems of FairShares Commons companies that naturally form interconnected networks. Each company is a node. The ecosystem is inherently regenerative and antifragile.
+**Boyd**: Thinks in ecosystems of FairShares Commons companies that naturally form interconnected networks. Each company is a node. The ecosystem is inherently regenerative and antifragile.  
 **LIONSBERG**: Holofractal Omnifederation. Each Circle is a complete holon. Circles federate into communities, bioregions, planetary grid. Same DNA at every scale.
 
 Nearly identical structural logic. Boyd uses "ecosystem." LIONSBERG uses "superorganism." Both describe self-organizing wholes composed of self-governing parts.
 
 ### 6. Education as Transformation / Developmental Approach
-**Boyd**: Six-strata model. Explicitly integrates Kegan, Laske, integral developmental theory. "The Adaptive Way Dojo."
+**Boyd**: Six-strata model. Explicitly integrates Kegan, Laske, integral developmental theory. "The Adaptive Way Dojo."  
 **LIONSBERG**: Education As Transformation (Element 6). Arizmendi's 13-year school before the first cooperative. 3-year healing/empowerment cycle. Dojos. The Sacred Ascent.
 
 Both insist on forming people before forming organizations. Both use developmental psychology (LIONSBERG more implicitly, Boyd more explicitly). Both use the dojo metaphor.
 
 ### 7. Antifragility / Structural Immunity
-**Boyd**: "Antifragile is how nature works. Businesses need antifragility, not just resilience."
+**Boyd**: "Antifragile is how nature works. Businesses need antifragility, not just resilience."  
 **LIONSBERG**: Structural Immunity (Element 8). Arm's-length federation. Explicit protections against the diseases that kill movements.
 
 Related concepts. Boyd uses Taleb's language. LIONSBERG uses biological immune system language. Both address the same need: the system must grow stronger through shocks, not merely survive them.
 
 ### 8. Self-Replication Through Formed People
-**Boyd**: "Formed people create formed organizations." Venture builder creating ecosystems of new FairShares Commons companies.
+**Boyd**: "Formed people create formed organizations." Venture builder creating ecosystems of new FairShares Commons companies.  
 **LIONSBERG**: "The fruit of the tree contains new seeds." Pass the Flame. Self-Sustenance and Self-Replication (Element 7). Mondragon's intrapreneurship model.
 
 Deep convergence. Both see the mechanism of spread as inseparable from the practice itself.
@@ -114,13 +114,13 @@ Deep convergence. Both see the mechanism of spread as inseparable from the pract
 ## V. Significant Divergences and Learning Edges
 
 ### 1. Spirit vs. Structure as Foundation
-**LIONSBERG** grounds everything in **ONE** — Spirit, Love, the Central Animating Spirit of Creation. Structure serves Spirit. "If the Spirit is right, the Wise Right Pattern will emerge. If the Spirit is absent, no Pattern can save us."
+**LIONSBERG** grounds everything in **ONE** — Spirit, Love, the Central Animating Spirit of Creation. Structure serves Spirit. "If the Spirit is right, the Wise Right Pattern will emerge. If the Spirit is absent, no Pattern can save us."  
 **Boyd** grounds everything in **structural design and developmental psychology**. The incorporation structure is the deepest attractor. Get the structure right and the behavior follows.
 
 **The learning edge**: These are complementary, not contradictory — but which is actually "deeper"? LIONSBERG says Spirit. Boyd says Structure. The truth may be that **Spirit determines the intent, Structure determines the resilience**. A movement grounded in Spirit but without structural protection will be captured. A structure without Spirit will be hollow. **This is the most important integration point for the collaboration.**
 
 ### 2. Legal Specificity vs. Pattern Language
-**Boyd** insists on legal specificity — the FairShares Commons is a precise legal form under specific corporate law. He argues that without legal encoding, good intentions will be overridden by the legal default (which is extractive).
+**Boyd** insists on legal specificity — the FairShares Commons is a precise legal form under specific corporate law. He argues that without legal encoding, good intentions will be overridden by the legal default (which is extractive).  
 **LIONSBERG** deliberately avoids legal specificity at the meta level — it is an "unincorporated voluntary spiritual association" with no center to capture. Its economic entities (Circles, enterprises) need legal form, but the movement itself transcends legal categorization.
 
 **The learning edge**: LIONSBERG may need Boyd's legal architecture MORE than it realizes. The wiki says "no center to capture" — but if LIONSBERG Circles begin creating economic enterprises (Soft Franchises, cooperative businesses, community development funds), those enterprises will need legal incorporation. FairShares Commons could be the **default legal vehicle** for LIONSBERG economic entities — encoding purpose protection, multi-stakeholder governance, and capital subordination into the DNA of every enterprise born from the movement. The movement stays spiritual and unincorporable. The enterprises it births get Boyd's structural protection.
@@ -131,19 +131,19 @@ Boyd's ergodicity framework is **not present in the LIONSBERG wiki at all**. Thi
 **The learning edge**: Ergodicity could become a powerful analytical tool for LIONSBERG — grounding the economic intuitions already present in the twelve elements with precise mathematical language. It would strengthen the case that LIONSBERG's economic model is not merely idealistic but **mathematically superior** to extractive capitalism for actual human beings living through time.
 
 ### 4. DAO/Blockchain Compatibility — Unexplored by LIONSBERG
-Boyd argues "the FairShares Commons, Blockchain, and the DAO are made for each other." He sees decentralized autonomous organizations as the natural digital expression of commons-based governance.
+Boyd argues "the FairShares Commons, Blockchain, and the DAO are made for each other." He sees decentralized autonomous organizations as the natural digital expression of commons-based governance.  
 LIONSBERG currently has no blockchain/DAO dimension.
 
 **The learning edge**: As LIONSBERG scales, the question of how to coordinate tens of thousands of sovereign Circles will become acute. Blockchain-based tools — smart contracts encoding Fields of Agreements, DAOs governing commons, LUV as a blockchain-tracked token — could provide the infrastructure for fractal commonsing at planetary scale. FairShares Commons as the legal wrapper + DAO/blockchain as the coordination layer = a powerful combination that LIONSBERG should explore.
 
 ### 5. Scale of Evidence
-**Boyd's model** has been developed over a decade but remains in **early adoption** — a small number of fully implemented FairShares Commons organizations, mostly within his Evolutesix ecosystem.
+**Boyd's model** has been developed over a decade but remains in **early adoption** — a small number of fully implemented FairShares Commons organizations, mostly within his Evolutesix ecosystem.  
 **LIONSBERG** claims the Twelve Elements have been **proven across 1,500 years and every successful movement in recorded history**.
 
 **The learning edge**: Boyd's specific legal form is new and relatively untested at scale. The universal patterns it encodes are ancient. The honest position is: the principles are proven, the specific FairShares Commons implementation is promising but early-stage. This distinction matters for credibility.
 
 ### 6. Developmental Stages and Democratic Governance
-Boyd explicitly integrates developmental psychology (Kegan stages). This creates a tension: if people are at different developmental stages, how does "one person, one vote" work when some members may lack the developmental capacity to engage with complex governance?
+Boyd explicitly integrates developmental psychology (Kegan stages). This creates a tension: if people are at different developmental stages, how does "one person, one vote" work when some members may lack the developmental capacity to engage with complex governance?  
 LIONSBERG addresses this through "Wise Eldership" — the tension between democratic voice and respect for those who have walked further along the Way.
 
 **The learning edge**: Both systems must navigate the same tension. Boyd does it through structural design (the six-strata model ensures all levels are addressed). LIONSBERG does it through cultural wisdom (the Wise Eldership principle). Neither has fully solved it. This is fertile ground for collaboration.

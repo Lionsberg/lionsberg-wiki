@@ -2,8 +2,8 @@
 
 To access the Response Form via Google Forms, please click the link below: 
 
-[Access the Manifesto Response Form](https://docs.google.com/forms/d/e/1FAIpQLScnhSwK_FWNR54AT--xQyQLPuhFk1ugn_L0M5jqRqIgN_W0KQ/viewform?usp=sf_link)
-___
+[Access the Manifesto Response Form](https://docs.google.com/forms/d/e/1FAIpQLScnhSwK_FWNR54AT--xQyQLPuhFk1ugn_L0M5jqRqIgN_W0KQ/viewform?usp=sf_link)  
+___  
 The **Manifesto Response Form** is a key step for individuals who wish to formally respond to the invitation and join the collective mission of confronting and overcoming the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]] as part of [[The Movement]].
 
 Completing the [[Manifesto Response Form]] signifies your commitment to engage in [[The Battle]] and to contribute your unique skills, knowledge, and passion to [[The Movement]].
@@ -34,7 +34,7 @@ For definitions of terms used in the form, see:
 
 [[Observers]]  
 [[Participants]]  
-[[Members]] 
+[[Members]]  
 
 [[Meaningful Initial Contribution]]  
 [[Meaningful Monthly Contribution]]  

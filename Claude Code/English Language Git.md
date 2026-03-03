@@ -5,7 +5,7 @@ A plain-English explanation of git for people who want to understand what they'r
 
 ## The Big Picture
 
-Git is like a time machine for your files. It lets you:
+Git is like a time machine for your files. It lets you:  
 - Take snapshots of your work whenever you want
 - Go back to any previous snapshot if needed
 - Send copies of your snapshots to the cloud for safekeeping
@@ -44,7 +44,7 @@ This is where all your snapshots are permanently stored on your computer. Once a
 
 **Command**: `git commit -m "describe what changed"`
 
-**What happens**:
+**What happens**:  
 - A snapshot is created with a unique ID
 - The snapshot is stored in your local repository
 - You write a message describing what this snapshot represents
@@ -59,7 +59,7 @@ This is where all your snapshots are permanently stored on your computer. Once a
 
 **Command**: `git push`
 
-**What happens**:
+**What happens**:  
 - Git looks at all commits you've made locally
 - It identifies which ones the cloud repository doesn't have yet
 - It uploads those commits to the cloud
@@ -74,7 +74,7 @@ This is where all your snapshots are permanently stored on your computer. Once a
 
 **Command**: `git pull`
 
-**What happens**:
+**What happens**:  
 - Git checks what commits exist in the cloud
 - It downloads any commits you don't have locally
 - It updates your working directory with the latest changes
@@ -128,12 +128,12 @@ Some people get confused by staging. Here's the deal:
 
 **Without staging**: Every snapshot would include ALL changes to ALL files. You'd have no control.
 
-**With staging**: You choose exactly what goes in each snapshot. This lets you:
+**With staging**: You choose exactly what goes in each snapshot. This lets you:  
 - Commit related changes together
 - Keep unrelated changes in separate commits
 - Create a clear history where each commit represents one logical change
 
-**Example**: You fixed a typo in file A and rewrote a whole section in file B. These are unrelated changes. You can:
+**Example**: You fixed a typo in file A and rewrote a whole section in file B. These are unrelated changes. You can:  
 1. Stage only file A: `git add "file A.md"`
 2. Commit it: `git commit -m "fixed typo"`
 3. Stage file B: `git add "file B.md"`
@@ -161,7 +161,7 @@ Now your history clearly shows two separate changes instead of one confusing mix
 
 **Command**: `git status`
 
-This tells you:
+This tells you:  
 - What files you've changed (working directory)
 - What files are staged (ready for snapshot)
 - What files are not being tracked by git yet
@@ -175,26 +175,26 @@ Think of it as asking "what's the current state of everything?"
 
 **Good rule**: Commit whenever you complete a logical unit of work that you'd want to be able to return to.
 
-**Too often**: After every sentence (creates noise)
-**Too rarely**: Once a week (can't get back to intermediate states)
+**Too often**: After every sentence (creates noise)  
+**Too rarely**: Once a week (can't get back to intermediate states)  
 **Just right**: After completing a section, fixing an issue, or finishing a coherent thought
 
 ### How Often to Push?
 
-**Minimum**: At the end of each work session
-**Better**: After each commit (if you want immediate backup)
+**Minimum**: At the end of each work session  
+**Better**: After each commit (if you want immediate backup)  
 **Best**: Whatever makes you feel your work is safely backed up
 
 **Remember**: Committed work is safe locally. Pushed work is safe even if your computer dies.
 
 ### Writing Good Commit Messages
 
-Bad: "updates"
-Bad: "fixed stuff"
+Bad: "updates"  
+Bad: "fixed stuff"  
 Bad: "asdfasdf"
 
-Good: "added section on git workflows"
-Good: "fixed typo in chapter 3"
+Good: "added section on git workflows"  
+Good: "fixed typo in chapter 3"  
 Good: "restructured introduction for clarity"
 
 **Rule of thumb**: Someone reading just your commit message should understand what changed and why.
@@ -236,7 +236,7 @@ Tags are like bookmarks in your project's history. They let you mark special com
 
 **The metaphor**: Like putting a sticky note on a page in your photo album that says "Summer 2024 Trip" or "Before Renovation". Instead of remembering a cryptic commit ID, you have a meaningful name.
 
-**Why use tags**:
+**Why use tags**:  
 - Mark releases or versions ("v1.0", "v2.0")
 - Mark milestones ("after-initial-setup", "before-major-refactor")
 - Create easy reference points you can return to later
@@ -253,7 +253,7 @@ git tag "after-initial-claude-onboarding"
 
 This creates a tag at your current commit (wherever HEAD is pointing).
 
-**What happens**:
+**What happens**:  
 - The current commit gets a friendly name
 - The tag is stored locally
 - You can reference this commit by the tag name instead of the commit hash
@@ -284,27 +284,27 @@ Once you've created a tag, you can use it anywhere you'd use a commit hash:
 
 ### Tag Naming Conventions
 
-**Good tag names**:
+**Good tag names**:  
 - "v1.0.0" (version numbers)
 - "after-initial-claude-onboarding" (milestone descriptions)
 - "pre-migration" (before major changes)
 - "stable-2024-01-15" (stable points with dates)
 
-**Avoid**:
+**Avoid**:  
 - Generic names: "test", "done"
 - Unclear abbreviations
 - Names you won't remember later
 
 ### When to Use Tags
 
-**Use tags for**:
+**Use tags for**:  
 - Completing major milestones
 - Before making risky changes (so you can easily get back)
 - After finishing a significant phase of work
 - Creating versions or releases
 - Marking stable states you might want to reference later
 
-**Don't need tags for**:
+**Don't need tags for**:  
 - Every commit (that's what commit messages are for)
 - Minor updates
 - Work in progress
@@ -342,7 +342,7 @@ The Obsidian Git plugin does these actions for you with keyboard shortcuts:
 
 **Note**: The Obsidian Git plugin does NOT automatically create or push tags.
 
-When you hit **Cmd+U**, behind the scenes it's doing:
+When you hit **Cmd+U**, behind the scenes it's doing:  
 1. `git add .` (stage everything)
 2. `git commit -m "backup: [timestamp]"` (take snapshot)
 3. `git push` (send to cloud)

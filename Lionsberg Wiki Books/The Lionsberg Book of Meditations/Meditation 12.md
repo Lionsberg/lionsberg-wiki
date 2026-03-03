@@ -4,6 +4,6 @@ We must honestly and forthrightly discover and do what we have been sent to Eart
 
 ___
 
-Forward to [[Meditation 13]]        
+Forward to [[Meditation 13]]  
 Back to [[Meditation 11]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

@@ -3,4 +3,4 @@
 [[Wisdom]]  
 [[Wisdom Council]]  
 
-[[The 12 Pillars of Lionsberg]] 
+[[The 12 Pillars of Lionsberg]]  

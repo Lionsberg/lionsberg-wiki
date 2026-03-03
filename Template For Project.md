@@ -27,7 +27,7 @@ _The person responsible for interfacing with external relationships, fielding qu
 _The people working on the project_
 
 ## Output, Goals, Value Created
-____
+____  
 _What will this project achieve? How will you know when you are done?_
 
 ## Conditions of Satisfaction
@@ -36,17 +36,17 @@ ____
 _What are the [[Conditions of Satisfaction]]? How will all parties know when the project has been successfully completed?_
 
 ## Resource Requirements
-___
+___  
 _What resources (people, funds, tools, things) are required to accomplish this project? Where do they come from?_
 
 ## Approach
-____
+____  
 _What is the overall strategy for accomplishing this project? What are its major phases or milestones?_
 
 ## Workplan and Timeline
-___
+___  
 _Who? What? When? What are the specific tasks needed to accomplish our goals? What is the logic between the tasks? When might they happen? By Who?_
 
 ## Communication Norms
-_____
+_____  
 _How have the project Participants agreed to communicate? What, where and how often are the regular meetings? How will the Participants keep the Stakeholders and Observers informed?_

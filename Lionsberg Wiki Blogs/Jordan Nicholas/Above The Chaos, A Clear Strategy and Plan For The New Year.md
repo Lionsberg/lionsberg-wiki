@@ -130,6 +130,3 @@ ___
 
 ## The Integrated Delivery System 
 - The PM Narrative Structure informs the [[LIONSBERG Integrated Delivery System]], which creates the ability to co-create and measure throughput of the total nested hierarchy of goals and values across the decentralized and empowered system. 
-
-
-

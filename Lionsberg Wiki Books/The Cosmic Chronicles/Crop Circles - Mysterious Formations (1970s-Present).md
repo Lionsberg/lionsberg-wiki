@@ -116,4 +116,3 @@ Crop Circles challenge conventional understanding by combining artistry, science
     
     - Crop Circle Connector: [https://www.cropcircleconnector.com](https://www.cropcircleconnector.com/)
     - BLT Research: [http://www.bltresearch.com](http://www.bltresearch.com/)
-

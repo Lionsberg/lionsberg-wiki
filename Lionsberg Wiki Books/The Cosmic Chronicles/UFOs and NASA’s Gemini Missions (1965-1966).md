@@ -124,4 +124,3 @@ Astronauts Pete Conrad and Richard Gordon reported seeing a bright object during
     
     - _NASA’s Unexplained Files._
     - _The Gemini UFO Mysteries._
-

@@ -51,10 +51,10 @@ ____
 
 [[The Goal]] - The total integrated wellbeing, development, and right relationship of all generations of life and consciousness. 
 
-[[The Mission]] - Awakening, inspiring and moving the entire human population [[FROM the Old TO the New]]: 
-	1. Reuniting the Force For Good 
-	2. Confronting and overcoming the grand challenges
-	3. Accomplishing the global goals
+[[The Mission]] - Awakening, inspiring and moving the entire human population [[FROM the Old TO the New]]:  
+	1. Reuniting the Force For Good  
+	2. Confronting and overcoming the grand challenges  
+	3. Accomplishing the global goals  
 	4. Co-Creating the [[New]]. 
 
 [[The Vision]] - A totally regenerated, renewed, and coherent world. 
@@ -114,7 +114,7 @@ By 2033, the process of establishing universal interoperability among the world'
 
 Coupled with AI, this marks an unimaginably significant moment in human history, that contains within itself the potential for another moment in [[The Story]] like [[The Story of the Tower of Babel]], or alternatively, [[The UnVeiling]] of an entirely [[New Era]] of human collaboration, harmony, and coherence in service of the [[Creator]] and [[All Creation]]. 
 
-The most relevant repositories of translational experience may be found in: 
+The most relevant repositories of translational experience may be found in:  
 - The [IllumiNations](https://illuminations.bible) effort to make a significant portion of the Biblical corpus available in each of 7,000+ vital languages by 2033.  
 	- This happens to correspond to the end of the [[10 Year Grand Strategy]]  
 - The official [Wikipedia](https://en.wikipedia.org/wiki/List_of_Wikipedias) projects in 300+ languages.  
@@ -192,4 +192,3 @@ The poly-centric localization and adaptation of shared wisdom, knowledge, and so
 ### 10.3 Communications System and Plan  
 
 ### 10.4 Contingency Management  
-

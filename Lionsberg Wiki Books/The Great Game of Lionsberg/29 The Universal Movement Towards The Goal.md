@@ -25,6 +25,6 @@ There is only One Movement towards The Goal. Welcome to the adventure of a lifet
 
 ____
 
-The End of the Book, the Beginning of [[Your Quest]] 
+The End of the Book, the Beginning of [[Your Quest]]  
 Back to [[28 Final Reflections and Words of Encouragement]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

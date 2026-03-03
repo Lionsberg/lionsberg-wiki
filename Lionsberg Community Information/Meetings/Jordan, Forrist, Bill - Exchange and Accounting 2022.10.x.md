@@ -66,4 +66,3 @@
     - Bottleneck is leadership orchestration roles wwhich is critical. 
 - Social activity, contributions on different level - 
 - 
-

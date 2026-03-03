@@ -38,7 +38,7 @@ Please, the building is on fire, let's wake up move.
 [[2.23 Hard Default and Soft Default]]  
 [[2.24 Global Insolvency]]  
 [[2.25 Defaults On Retirement, Healthcare, And Entitlements]]  
-[[2.26 It's All Polluted Bad Debt]] 
+[[2.26 It's All Polluted Bad Debt]]  
 [[2.27 The Next Financial Dominoes]]  
 [[2.28 Central Bank Digital Currencies]]  
 [[2.29 The Lights on the Financial and Monetary Systems are Flashing RED]]  
@@ -60,7 +60,7 @@ Please, the building is on fire, let's wake up move.
 
 ## 5. Environmental Destruction
 
-[[5.1 Environmental Destruction]]
+[[5.1 Environmental Destruction]]  
 
 ## 6. Scientific and Technological Disruption 
 
@@ -81,4 +81,4 @@ Please, the building is on fire, let's wake up move.
 
 ## 9. A Final Call to Action
 
-[[9.1 A Final Call To Action]]
+[[9.1 A Final Call To Action]]  

@@ -24,5 +24,3 @@ Here is a soft table of contents to help you find your [[Way]].
 There is lots more—well over two million words of interlinked writing—but this should be enough to get you oriented and headed in the right direction. If you would like to see anything added here, let Us know. 
 
 Love and respect, and thank you for diving in. 
-
-

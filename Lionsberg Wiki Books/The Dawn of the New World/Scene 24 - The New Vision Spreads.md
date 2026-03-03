@@ -12,7 +12,7 @@ Whenever the New Vision and Plan, it was automatically distributed across a dece
 
 As weeks and months passed, the network of small groups grew and expanded, drawing more people to [[The Cause]]. The whispers of the New Vision and Plan became louder and more widespread until it seemed that everyone in the community was talking about nothing else. The corrupt leaders and the Forces Of Darkness sensed the shift and were furious, as they saw their ability to divide, control, and destroy slipping away. The gnashed their teeth and sharpened their weapons. But the people were determined to press on, confront and overcome the existential threats at hand, and co-create the New World they now knew was possible.
 
-___
+___  
 Forward to: [[Scene 25 - The Rising United Front]]  
 Back to: [[Scene 23 - The Whisper Campaign]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

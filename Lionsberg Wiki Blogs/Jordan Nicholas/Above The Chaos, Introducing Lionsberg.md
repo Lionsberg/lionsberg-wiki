@@ -20,15 +20,15 @@ From around the world, out of seemingly nowhere, a universal [[Force For Good]] 
 
 This ushers in an entirely [[New World]] that is not only perfect, but is continuing to [[Become]] [[A Little Better Every Day]] because we are all [[Working Together To Make It So]]. 
 
-___
+___  
 This is no longer a [[Story]] of any one tribe, people, or nation. 
 
 It is a story of [[All]] tribes, [[All]] peoples, and [[All]] nations, rising up into [[Right Relationship]] with [[ONE]], [[One Another]], and [[All]].  
 
 Each and every human being alive on earth at this moment in the [[Story]] is here for a reason. Out the billions of potentials that could have manifested, you did. We did. We [[All]] did. 
 
-As [[Conscious Agents]] in a universal [[Meta Story]], each of us has a unique and critically important role to play. 
-___
+As [[Conscious Agents]] in a universal [[Meta Story]], each of us has a unique and critically important role to play.  
+___  
 In preparation for this moment, we have been preparing. 
 
 That preparation included co-creating an incarnation of the [[Meta Idea]] called [[LIONSBERG]].  
@@ -39,21 +39,21 @@ Lionsberg is a mythical [[Word Tool]] we use to point at three deeper realities:
 2. The Platform and System that connects, elevates, and empowers [[Conscious Agents]] in the [[Story]].  
 3. The Community working together to co-create the [[Best Possible Future]] in service of [[ONE]] and [[All]]. 
 
-___
+___  
 Right now, each of these three elements is merely a [[Starting Point]]. 
 
 However an entire forest of mighty trees is already present in the DNA. 
 
-These trees will soon cover the earth, providing food, water, shelter, community and abundance for [[All]]. 
-___
-These seeds of a System that connects empowers a Community to co-create a [[New World]] are all present, and have been planted in a [[Total Nested Hierarchy of Conditions]] that is sufficient for the [[Life]] already present in their DNA to manifest itself. 
-____
-This week is significant because after an absolutely excruciating effort to give birth to the [[New]], the first green shoots in all three areas manifest themselves, and it is finally time to shift from the conception of the [[New World]] into working together to nurture and cultivate its development. 
-___
+These trees will soon cover the earth, providing food, water, shelter, community and abundance for [[All]].  
+___  
+These seeds of a System that connects empowers a Community to co-create a [[New World]] are all present, and have been planted in a [[Total Nested Hierarchy of Conditions]] that is sufficient for the [[Life]] already present in their DNA to manifest itself.  
+____  
+This week is significant because after an absolutely excruciating effort to give birth to the [[New]], the first green shoots in all three areas manifest themselves, and it is finally time to shift from the conception of the [[New World]] into working together to nurture and cultivate its development.  
+___  
 There is only one possible outcome that constitutes [[Success]] for this very unusual [[New]] form of [[Life]], and that is to progressively [[Realize]] the [[Meta Goal]] within this generation. 
 
-We will know the [[Meta Goal]] has been accomplished and can continue to be accomplished throughout the [[New Millennium]] when each of 8 billion individuals has been invited, 7 times if necessary, by someone they love and trust, to take up their citizenship in the [[New World]] [[LIONSBERG]] is co-creating and becoming, and 97% acceptance has been achieved. 
-____
+We will know the [[Meta Goal]] has been accomplished and can continue to be accomplished throughout the [[New Millennium]] when each of 8 billion individuals has been invited, 7 times if necessary, by someone they love and trust, to take up their citizenship in the [[New World]] [[LIONSBERG]] is co-creating and becoming, and 97% acceptance has been achieved.  
+____  
 Why 97%? While we hope it is not true and [[All]] will voluntarily take up their citizenship in the [[New World]], because the [[Lionsberg System of Governance]] is entirely based on [[Consent]] and Voluntary  [[Participation]], our [[Current Best Understanding]] is that there are some who are so corrupted by the [[Old World]] that they will decline the offer and die while bitterly and resentfully clinging to the [[Old]]. 
 
 This is ok, and must be tolerated, as the [[Lionsberg System of Governance]] does not allow any [[Conscious Agent]] to violate the [[Sovereignty]] and [[Free Will]] of another [[Conscious Agent]] in their respective [[Domain Of Responsibility And Authority]].  
@@ -64,7 +64,7 @@ Those who wish to reap the benefits, abundance, and joy that come from the New [
 
 Those who do not want to honor and uphold the [[Lionsberg Code]] are welcome to remain outside the [[Lionsberg Boundary]].  
 
-___
+___  
 Invitations and voluntary consent from the bottom up. 
 
 No [[Old]] / existing organization, institution, or system of governance can impose the [[LIONSBERG System]] on its constituent beings from above, as this would violate the [[Sovereignty]] and [[Self Governance]] of those [[Individuals]]. 
@@ -73,10 +73,10 @@ However any existing organizations, institution, or system of governance can _in
 
 The degree to which any [[Old]] system or domain is participating in [[LIONSBERG]] can be judged by evaluating where its population is at along the [[Lionsberg Adoption Curve]]. 
 
-___
+___  
 The short term objective between Q4 2022 and Q4 2029 is to continuously improve the [[Quality]] of [[LIONSBERG]] as a 1. Community 2. Platform and 3. Experience that connects and empowers the universal "group of groups" / [[Force For Good]] as we advance together towards our overarching and uniting [[Meta Goal]] within the boundaries of our overarching and uniting [[Universal Values]]. 
 
-____
+____  
 As outlined on the [[Lionsberg Adoption Curve]] page, 
 
 The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
@@ -95,7 +95,7 @@ Positing a group size range of 3 to 20, and an average group size of 7, and 7.77
 
 If adoption pattern expands along roughly the Golden Ratio of 1.61803 expansion per reciprocal cycle, we would surpass 1 billion on the 44th cycle assuming zero loss rate. 
 
-If we add is loss / attrition rates, the number of cycles changes as follows: 
+If we add is loss / attrition rates, the number of cycles changes as follows:  
 - 0% Loss Rate - 44 Cycles
 - 10% Loss Rate - 49 Cycles  
 - 20% Loss Rate - 54 Cycles 
@@ -144,12 +144,12 @@ Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] 
 
 These various ratios should be carefully monitored by the [[Program and Process Management Guild]], and made transparent and visible to [[All]]. 
 
-___
+___  
 What are we asking small groups to join? 
 
 A Community, Platform, and Experience that will create the ability for a distributed network of sovereign and autonomous small groups to listen deeply to one another and [[Help One Another]] in the [[Wise Right]] [[Way]], at the Right Time, for the Right Reasons, to progress towards [[The Goal]].  
 
-___
+___  
 What groups can join Lionsberg? 
 
 Any small group is welcome to join the Lionsberg Community / Platform / Experience provided that: 
@@ -157,7 +157,7 @@ Any small group is welcome to join the Lionsberg Community / Platform / Experien
 1. They agree to honor and uphold the [[Meta Agreement]] and [[Universal Values]] 
 2. There is an [[Agreement]] between the Group and the Lionsberg Community based on the [[Voluntary Consent]] of everyone involved  
 3. They advance through the [[Process For Onboarding]]  
-___
+___  
 What individuals can join a small group? 
 
 Any individual is welcome to join a small group provided that: 
@@ -165,7 +165,7 @@ Any individual is welcome to join a small group provided that:
 1. They agree to honor and uphold the [[Meta Agreement]] and [[Universal Values]] 
 2. They agree to honor and uphold the [[Group Agreement]] and [[Group Values]] 
 3. There is an [[Agreement]] between the Group and the Individual based on the [[Voluntary Consent]] of everyone involved  
-___
+___  
 What benefits can Lionsberg offer to Groups now? 
 
 Meaningful Relationship: 
@@ -185,13 +185,13 @@ Meaningful Support:
 - Help with [[Structure]]  
 - Help with [[Aligning Energy]] and [[Aligning Commitments]] and Aligning [[Aim]]  
 
-Meaningful Structure: 
+Meaningful Structure:  
 - All [[Value]] created will be transparently stewarded for the benefit of all through the [[Provisional Structure]] and its subsequent transformations across time  
 
-Meaningful Participation
+Meaningful Participation  
 - A [[Voice]] in the [[Lionsberg System of Governance]]  
 
-Meaningful Alignment 
+Meaningful Alignment  
 - A way to align individual energy, with group energy, with [[Lionsberg Energy]], with the energy of the entire [[Living System]] and its [[Source]]   
 - A way to articulate and align individual stories, with group stories, with the [[Meta Story]] 
 - A way to regularly update our stories as we navigate together towards [[The Goal]]  
@@ -201,10 +201,10 @@ Meaningful Alignment
 	- Where we are going
 	- Why
 
-Vision, Strategy, and Inspiration
+Vision, Strategy, and Inspiration  
 - Access to whatever levels of Vision, Strategy, and Inspiration [[Jordan Nicholas Sukut]] and others provide in the community 
 
-___
+___  
 What additional benefits is Lionsberg working to develop? 
 
 Through the process of deeply listening to the problems, needs, and opportunities faced by individuals, organizations, and communities around the world on their [[Quest]] towards [[The Goal]], Lionsberg is working to develop, in prioritized order of importance, a [[Prototype]] for Individual, Organizational, and Community Development that can be localized and instantiated in any [[Time]], [[Space]], or [[Context]]. 
@@ -213,20 +213,20 @@ This [[Prototype]] will contain [[General Solutions]] to the [[General Problems]
 
 The [[Conditions Of Acceptance]] ensure that the [[LIONSBERG System]] and Infrastructure reach out and connect to with every individual and group on earth that desires to develop towards the fullness of their potential, by helping all others do the same. 
 
-___
+___  
 How will Lionsberg prioritize the [[Time]], [[Energy]], and [[Resources]] entrusted to it? 
 
-Initially through the formative period, [[Jordan Nicholas Sukut]] will be responsible and accountable for working with the group of groups and a small [[Core Team]] and [[Core Enterprise]] to prioritize and 
+Initially through the formative period, [[Jordan Nicholas Sukut]] will be responsible and accountable for working with the group of groups and a small [[Core Team]] and [[Core Enterprise]] to prioritize and  
 allocate resources in response to problems, needs, and opportunities of the Community, and in accordance with the [[Critical Path]] / [[Critical Chain]] that governs [[Throughput]] of [[The Goal]]. 
 
 This will eventually develop into a far more sophisticated [[Goal Delivery System]], as pointed towards in the [[Lionsberg Integrated Delivery Guide]]. 
 
-___
+___  
 The [[Core Team]] and [[Core Enterprise]]
 
 A small [[Core Team]] and [[Core Enterprise]] is being established to work with [[Jordan Nicholas Sukut]] to take in and synthesize information and communications from the distributed network of [[Sovereigns]], and send back out to the network communication, vision, and inspiration regarding both [[Where We Are]], and various potential plans / patterns of action into the future. 
 
-___
+___  
 [[Each Part Of The Body]] / [[Each Tile Of The Mosaic]]
 
 Beyond this basic flow of Communication and [[Conscious Awareness]], we will begin to work with each of the [[Group Of Groups]] to discover their unique fit within the body / mosaic. 

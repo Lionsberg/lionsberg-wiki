@@ -21,6 +21,6 @@ By tapping into the wealth of resources, knowledge, and expertise available thro
 
 ____
 
-Forward to [[26 The Future of The Great Game of Lionsberg]]    
+Forward to [[26 The Future of The Great Game of Lionsberg]]  
 Back to [[24 Training and Capacity Building]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

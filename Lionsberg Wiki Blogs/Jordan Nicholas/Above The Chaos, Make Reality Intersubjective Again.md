@@ -32,8 +32,8 @@ Even more fundamentally, it means that Objects do not exist except as an illusio
 
 Technically, when we Attend to something, we are experiencing an individuated and incarnate fragment of [[Consciousness]] perceiving another dimension or aspect of its Self. 
 
-The awareness of the Ultimately Ineffable Whole can embrace the elementary findings of its partial investigation, however the elementary findings of partial investigation can never embrace the Ultimately Ineffable Whole. 
-____
+The awareness of the Ultimately Ineffable Whole can embrace the elementary findings of its partial investigation, however the elementary findings of partial investigation can never embrace the Ultimately Ineffable Whole.  
+____  
 Which leads us to subject of [[Reputation]]. 
 
  Human beings wear many hats and move through many [[Domains]]. In each Domain, their [[Identity]], [[Roles]], and [[Reputation]] shifts. 
@@ -46,11 +46,11 @@ I learned something very profound working with a vast array of individuals and t
 
 Who am I? What is his reputation? 
 
-It is for this reason that it has been said: 
+It is for this reason that it has been said:  
 - *"Judge not, lest ye be judged. For in the same way you judge others, you will be judged, and with the  standard you measure, it will be measured unto you."* 
 - *"Forgive us our sins / debts, as we forgive those who sin against / are indebted to us."*  
 - *"Let him who is without sin cast the first stone.*
-___
+___  
 So from the standpoint of avoiding totalitarian objectification and embracing intersubjective and interexistent nature of Reality: 
 
 1. The apparent Object of our Perception is an aspect of our mutual interexistence in One  
@@ -64,12 +64,9 @@ So from the standpoint of avoiding totalitarian objectification and embracing in
 	3. That is more or less True, that is to say, more or less in harmony, alignment, and coherence with [[Ultimate Reality]]  
 5. When the State of Being, or level of Coherence or Accordance with Ultimate Reality, of a perceptual Object falls outside a given [[Range of Tolerance]], it must be investigated, and the [[Range of Tolerance]] must be increased, or the [[Information]] discarded.  
 	1. This is akin to (something like) homestatic function in a body   
-	2. The maintenance of Stability within a [[Range of Tolerance]], coupled with ongoing [[Adaptation]] and Conformance to an Intersubjectively Unfurling Reality. 
-___
+	2. The maintenance of Stability within a [[Range of Tolerance]], coupled with ongoing [[Adaptation]] and Conformance to an Intersubjectively Unfurling Reality.  
+___  
 Technical, but important, notes. 
 
-This understanding must inform our [[Living Systems Data Model]], as well as [[The Platform]] that eventually extends Identity to All who voluntarily choose to participate in it. 
+This understanding must inform our [[Living Systems Data Model]], as well as [[The Platform]] that eventually extends Identity to All who voluntarily choose to participate in it.  
 _____
-
-
-

@@ -10,7 +10,7 @@
 - After millennia of deceit, centuries of sabotage, and generations of neglect, the foundations of the [[Existing Order]] are crumbling.  
 - [[Rediscovering Humanity's Cosmic Narrative - Ancient Myths, Sacred Texts, and the Modern Disclosure Movement]] needs more work. 
 - [[The Final Call - A Proclamation to Awaken the World]] - update sections VII and VIII and appendices. 
-___
+___  
 The roots of this philosophy and system of [[Kontrolle]] trace back much further than the 20th century. They are easily traced through World War I, the American Civil and Revolutionary Wars, the architectural layout of Washington D.C., and into the preceding colonial and imperial systems that enslaved and erased cultures and peoples worldwide under the banner of "God and King." Even deeper, they extend into the ancient systems of Rome, Babylon, Sumer, Africa, Asia, and the Americas. 
 
 In each place, the elders of nearly every culture tell the same True story, so cruelly disregarded by modern brainwashed minds as myth: 
@@ -23,6 +23,5 @@ In each place, the elders of nearly every culture tell the same True story, so c
 
 These are not myths. They are the surviving remnants of Our fragmented histories, revealing an ancient system of domination, division, and kontrolle that remains active today, manipulating our institutions and obscuring the truth of humanity’s origins, potential, and destiny. 
 
-The men and women abducted and raped by these entities, the sangomas who recover bodies from crashed crafts and eat them, and the soldiers who encounter them underwater, underground, and in the sky, will tell you that their bodies, flesh, and craft are as real as you and I. No matter what lengths they go to remain hidden in the shadows. 
+The men and women abducted and raped by these entities, the sangomas who recover bodies from crashed crafts and eat them, and the soldiers who encounter them underwater, underground, and in the sky, will tell you that their bodies, flesh, and craft are as real as you and I. No matter what lengths they go to remain hidden in the shadows.  
 ___
-

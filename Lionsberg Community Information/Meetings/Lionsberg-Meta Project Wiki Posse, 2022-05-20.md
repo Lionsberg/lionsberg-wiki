@@ -111,7 +111,3 @@
     - and one startpage that points to - the various amazing wikis... some people, some sovereigns, etc. will end up with different focuses, sets of rules etc.
 - Standardized way to use comments - to add comments... hypothesis... wiki maintainer comes along and sweeps into the wiki... 
 - 
-
-
-
-

@@ -37,6 +37,6 @@ When God’s Spirit comes upon, we are impelled to work and pray without falteri
 
 ___
 
-Forward to [[Co-Creating A Better World - a Biblical Perspective]]   
-Back to [[Transforming Our Lives Towards Perfection]]   
+Forward to [[Co-Creating A Better World - a Biblical Perspective]]  
+Back to [[Transforming Our Lives Towards Perfection]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

@@ -1,6 +1,6 @@
 # Controlled Disclosure Marches Towards Its Peak
-_December 7 2025 (Old Time)_
-_A Post in [[Something Powerful, New, and Good]]_
+_December 7 2025 (Old Time)_  
+_A Post in [[Something Powerful, New, and Good]]_  
 
 Now that Earth's officials and priests  
 Are publicly disclosing militarized work  
@@ -39,6 +39,5 @@ And would like to know more
 We would be glad to help you ReMember  
 And show you the Way towards life and liberty  
 
-In Service of ONE and All, 
+In Service of ONE and All,  
 [[the nameless one]]  
-

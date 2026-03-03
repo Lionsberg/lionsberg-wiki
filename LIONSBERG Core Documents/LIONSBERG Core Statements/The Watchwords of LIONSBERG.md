@@ -62,9 +62,9 @@ These are the **foundational words that define Us**—those who have chosen to s
 
 - **The Threefold Path of [[The First Three Percent]].**
 - A sequence of activation:
-    1. **Awaken** – See the truth. Break the illusion.
-    2. **Rise** – Step into purpose. Prepare for The Test.
-    3. **Unite** – Form the bonds that will enable Us as [[ONE Body]] to outlast The Storm and bring Heaven to Earth
+    1. **Awaken** – See the truth. Break the illusion.  
+    2. **Rise** – Step into purpose. Prepare for The Test.  
+    3. **Unite** – Form the bonds that will enable Us as [[ONE Body]] to outlast The Storm and bring Heaven to Earth  
 - This Watchword is often used as **a rallying call** in critical moments.
 
 > _**"Awaken, Rise, Unite."**_ _(A full command.)_
@@ -205,4 +205,3 @@ They are for **those who will carry The Sacred Flame.**
 They are for **Us.**
 
 And **We Will Prevail.**
-

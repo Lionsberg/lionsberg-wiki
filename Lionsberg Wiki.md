@@ -6,7 +6,7 @@ Hello! You are here on the Lionsberg Wiki.
 
 If you'd like to hear Jordan and Pete discussing some of the background, genesis, and technology behind the Lionsberg Wiki, you may be interested in Above The Chaos Episode 5, available on your favorite podcast platform, YouTube [Here](https://www.youtube.com/watch?v=IwLu5tT3cNs&list=PLLjjoevj7u2YJXdYKAeSxuTL_zs81pSvB&index=1), or X [Here](https://twitter.com/JNicholasOne/status/1710097546436083855). 
 
-Below are a couple former draft homepages for the wiki :) 
+Below are a couple former draft homepages for the wiki :)  
 ______
 
 **To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[Lionsberg Wiki Books]], or the earlier [[LIONSBERG Wiki]] homepage. Everything, everywhere, is a [[Work In Progress]]. 
@@ -412,4 +412,3 @@ This is our moment. We stand together, here and now, as stewards of a transforma
 Let Us arise, unite, and Co-Create Heaven On Earth.  
 
 #### *When you are ready, please [[Join Us]]!* 
-

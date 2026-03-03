@@ -19,12 +19,12 @@ And the Time is short.
 
 I am sorry to alarm you. In case we never speak again, please hear these words: 
 
-**THE BUILDING IS ON FIRE.** 
-**OUR LOVED ONES ARE ASLEEP IN IT.** 
-**THE FORCES OF DARKNESS ARE AT THE GATES.**
-**TIME IS SHORT.**
-**EVERY LIFE IS ON THE LINE.**
-**PLEASE, I BEG YOU, LET'S WAKE EVERYONE UP AND HELP ONE ANOTHER TO SAFETY.** 
+**THE BUILDING IS ON FIRE.**  
+**OUR LOVED ONES ARE ASLEEP IN IT.**  
+**THE FORCES OF DARKNESS ARE AT THE GATES.**  
+**TIME IS SHORT.**  
+**EVERY LIFE IS ON THE LINE.**  
+**PLEASE, I BEG YOU, LET'S WAKE EVERYONE UP AND HELP ONE ANOTHER TO SAFETY.**  
 **BEFORE IT IS TOO LATE.**
 
 This Story, warning, and invitation will take some time to read carefully, consider, and share with your Loved Ones. 
@@ -103,7 +103,7 @@ The communications systems and freedoms humanity enjoys today may be unavailable
 [[17. Crimes Against Humanity, the Creator, and All Creation]]  
 [[18. The Exodus]]  
 [[19. Co-Creating The New World]]  
-[[20. A Call To Arms and Action]]   
+[[20. A Call To Arms and Action]]  
 [[21. The Bottom Line]]  
 [[22. What We Are Going To Become And Do Next]]  
 [[23. A Collection of Loose Ends To Weave]]  
@@ -111,9 +111,3 @@ The communications systems and freedoms humanity enjoys today may be unavailable
 [[25. If We Knew The Wise Right Answer...]]  
 
 What Now Shall We Be and Do In Light of All We Are Coming to Know?
-
-
-
-
-
-

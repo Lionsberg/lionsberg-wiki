@@ -8,7 +8,7 @@
 
 ## Speakers
 
-Jordan, Jonathan, Vincent, Pete, Michael, Judy
+Jordan, Jonathan, Vincent, Pete, Michael, Judy  
 
 ## Topics
 - Review the chat from the workshop 

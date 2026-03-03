@@ -1,13 +1,13 @@
 # MindWeaving LIONSBERG
 
-____
+____  
 This is a [[Work In Progress]].  
 
-**_Program Note_**: Insert [[OmniSpection (2025 Season 4)]] as a backbone... 
+**_Program Note_**: Insert [[OmniSpection (2025 Season 4)]] as a backbone...  
 Expand it out into an initial [[Map of Reality]]  
-Weave in the rest of the thoughts to hang them on the framework as modular content. 
+Weave in the rest of the thoughts to hang them on the framework as modular content.  
 
-______
+______  
 
 
 
@@ -37,31 +37,31 @@ For [[Those Who Will Come After Us]]
 It or its synthesized components may be useful for [[Orientation and Onboarding]]  
 In the event that humanity decides to adopt and cultivate [[The Golden Seed of LIONSBERG]]  
 
-_____
+_____  
 This document, like all things LIONSBERG, is a [[Work In Progress]] that is being progressively published in case it is not finished.  
 
-Present Status: ***~5% complete***. 
-Program Note: 
+Present Status: ***~5% complete***.  
+Program Note:  
 1. Synthesize all [[Mind Maps]] into [[Wiki Words]]  
 2. Weave into a coherent structure for publishing  
 3. Digitize all the Mind Maps  
 4. Draft [[Introduction to MindWeaving]]  
 5. Create [[Template For MindWeaving]]  
 
-___
+___  
 
 # Our InterWoven Current Best Understanding Is Approximately As Follows 
 
 _Subject to the woefully inadequate [[Word Tools]] available to communicate._  
 _The [[LIONSBERG Lexicon]] is a necessary companion to decipher the text that follows._  
 _Please do not assume that We are using [[Word Tools]] in the same way._  
-____
-_What is collectively required, and therefore what We are engaged in,_
-_is an attempt at an [[OmniSynthesis]] of [[Our Collective Inheritance]]_
+____  
+_What is collectively required, and therefore what We are engaged in,_  
+_is an attempt at an [[OmniSynthesis]] of [[Our Collective Inheritance]]_  
 _Of humanity's wisdom and knowledge to date,_  
 _And all that can be introduced to it at this Time._  
 
-_This [[Meta Project]] will remain an eternal [[Work In Progress]]_ 
+_This [[Meta Project]] will remain an eternal [[Work In Progress]]_  
 _As [[The Goal]] expands and recedes as We approach it._  
 
 _It is the [[Process]] and [[Progress]], not the [[Perfection]], that creates [[Value]]._   
@@ -94,12 +94,12 @@ _If [[Wisdom]], [[Knowledge]], and [[Understanding]] are more valuable than gold
 	- [[It Is Up To Us]]  
 	- Some group of Us has to put The System, Strategy, Plan and Play together  
 
-___
+___  
 ## Who is Ready to Hear?
 
 Different thinkers, from the prophets and sages of old, to Nikola Tesla, Walter Russell, and countless others, have always appeared to be, perhaps hopelessly, "ahead of their Time".  
 
-Walter Russell thought that in his day only perhaps 1 in 10,000 were ready for his course. Some believed Tesla to be perhaps 1,000 years ahead of his Time. 
+Walter Russell thought that in his day only perhaps 1 in 10,000 were ready for his course. Some believed Tesla to be perhaps 1,000 years ahead of his Time.  
 
 [[Jordan]] and many elders believed that by the end of 2026, that number had to be 3 out of 100 — [[The First Three Percent]].  
 
@@ -109,7 +109,7 @@ This could be accomplished in two ways:
 
 [[The Path]] of LIONSBERG requires both in order to succeed.  
 
-____
+____  
 ## The Old System & Paradigm 
 
 The Old Systems are collapsing.  
@@ -124,18 +124,18 @@ There is no return.
 There is no going back.  
 There is no looking back.  
 
-___
+___  
 
 ## The New System & Paradigm 
 
-As the Old Systems collapse towards chaos and tyranny, 
-[[There Is Another Way]]. 
+As the Old Systems collapse towards chaos and tyranny,  
+[[There Is Another Way]].  
 LIONSBERG is rising.  
 Humanity must choose its Path.  
 
-"This is [[The Solution]] to all my [[Issues]]."
+"This is [[The Solution]] to all my [[Issues]]."  
 
-____
+____  
 ## EveryThing Is, and Is Not, In Perfect Divine Order 
 
 At one level of analysis, One might say:   
@@ -143,7 +143,7 @@ At one level of analysis, One might say:
 - [[NoThing is Out of Place]]  
 - [[All is As It Should Be]]  
 
-Because that is the Way Reality works. Everything is happening according to the Divine Design. Our present Reality is what happens when in Reality when the Conscious Agents it is subcomposed of are who they are and do what they are doing. It is necessary to be this way. 
+Because that is the Way Reality works. Everything is happening according to the Divine Design. Our present Reality is what happens when in Reality when the Conscious Agents it is subcomposed of are who they are and do what they are doing. It is necessary to be this way.  
 
 On the other hand We must acknowledge [[The Gap]] between [[What Is]] and [[What Ought To Be]].  
 
@@ -159,7 +159,7 @@ They are destined for [[The Life Divine]].
 They are destined to Consciously Co-Create [[Heaven]] — right [[Here And Now]], forever.  
 
 And so as We survey Our [[Perfectly Imperfect]] Reality,  
-There are things that are out of place. 
+There are things that are out of place.  
 There are things that do not belong.  
 There are things that are missing.  
 There are tears not yet wiped  
@@ -177,7 +177,7 @@ As We transform,
 We are meant to transform Our Lives and Our Worlds towards [[Perfection]].  
 
 While understanding that [[Divine Perfection]] expands and recedes as We approach It.  
-___
+___  
 ## The Creator's Invitation  
 
 The best partner We could ever hope for  
@@ -191,7 +191,7 @@ To the omniharmonic manifestation of [[Creator's Intent]] - [[Here And Now]], [[
 
 ## The Current State and Present Trajectory 
 
-At present: 
+At present:  
 - Neither humanity nor Earth are free  
 - Humanity is being stampeded down [[The Chutes]] towards [[Dystopia]]  
 - The lead cars on [[The Train of Civilization]] are already plummeting into [[The Chasm]]  
@@ -281,7 +281,7 @@ What gratitude We have for each and every moment.
 
 We who incarnated for this moment.  
 Avatara energies in varying degrees of power, coherence, and awareness.  
-Timeless Fractals that Incarnate when and where We need to in service of [[ONE]] and [[All]]. 
+Timeless Fractals that Incarnate when and where We need to in service of [[ONE]] and [[All]].  
 In order to Experience Our Selves as One of the Ones of the ONE.  
 
 ## LIONSBERG Universe(ity)  
@@ -319,10 +319,10 @@ And the rediscover Our Place and Roles in [[The Story]].
 - [[Forward Looking Stories]]  
 [[Looking Within]]  
 - [[Inward Looking Stories]]  
-[[Looking Out]]
+[[Looking Out]]  
 - [[Outward Looking Stories]]  
 
-____
+____  
 
 ## Stories   
 
@@ -368,7 +368,7 @@ LIONSBERG incarnated because this was lacking on Earth.
 
 ## Resurrecting and Restoring What Was Lost
 
-Along humanity's Path... 
+Along humanity's Path...  
 - We have lost a lot of instinct, intuition, and spiritual / energetic / consciousness abilities  
 	- Due to technology  
 	- Due to antithetical interference and engineering  
@@ -408,15 +408,15 @@ Along humanity's Path...
 ## The Common Journey  
 
 [[The Pool of Coherence]]  
-Out of [[The Caves]]... 
+Out of [[The Caves]]...  
 Beyond [[The Boundary]]...  
 Into [[The Wilderness]]...  
-Converging into [[The Pool of Coherence]]... 
-Crossing [[The Chasm]]... 
+Converging into [[The Pool of Coherence]]...  
+Crossing [[The Chasm]]...  
 Walking [[The Path]]  
 Climbing [[The Sacred Mountain]]...  
 
-From [[EveryWhere]] and [[EveryWhen]] that [[Every One]] currently is... 
+From [[EveryWhere]] and [[EveryWhen]] that [[Every One]] currently is...  
 Drops into Streams, Streams into Rivers, Rivers into [[The Pool of Coherence]]...  
 
 Each of 8 billion drops afraid.  
@@ -428,7 +428,7 @@ Not understanding that [[The Baptism]] of the [[Old Self]] into [[The Pool]] is 
 - The Transcendence Process  
 	- Leaving behind what no longer serves or belongs in the New  
 
-[[Each One]] of [[The Diverse Many]] emerging out [[The Pool of Coherence]]... 
+[[Each One]] of [[The Diverse Many]] emerging out [[The Pool of Coherence]]...  
 With the opportunity to [[Consciously Choose]] is unique Path...  
 As an integrated and cohered aspect of [[ONE Body]].  
 
@@ -436,7 +436,7 @@ As an integrated and cohered aspect of [[ONE Body]].
 
 This is not just about one generation or seven generations [[Here And Now]].  
 This is about passing [[The Sacred Flame]] through the 52 generations of each millennium (50 generations x 20 years = 1,000... + 1 incoming and 1 outgoing generation).  
-In the years ahead humanity is facing an unprecedented intergenerational turnover of: 
+In the years ahead humanity is facing an unprecedented intergenerational turnover of:  
 - Wisdom  
 - Knowledge  
 - Information  
@@ -456,7 +456,7 @@ The only possibility to avoid catastrophe is [[Jubilee]] and a New System of [[M
 
 [[Our Collective Inheritance]]. A permanent endowment that ensures [[The Great Work]] can continue indefinitely into [[The Future]].  
 
-Leaving a [[Legacy]].
+Leaving a [[Legacy]].  
 
 ## Timelessness
 
@@ -465,7 +465,7 @@ There is no age difference in [[Timelessness]].
 
 ### May 23, 2025
 
-Problems 
+Problems  
 - How do you get to the point of being able to engage in honest and open dialogue?  
 	- About current realities  
 	- About possibilities and futures  
@@ -708,7 +708,7 @@ How do We handle the training and development of [[Facilitators]] / [[Guides]]?
 	- The transformation of local consciousness transforms collective consciousness  
 	- Consciousness is primarily non-local  
 	- Each [[Shift In Consciousness]] affects the [[All]] in some small or large way  
-Ideas From Various Places 
+Ideas From Various Places  
 
 - Movie - Future World  
 	- Reprogramming world leaders  
@@ -750,7 +750,7 @@ What is one's Role to be performed in [[The Divine Drama]]?
 How do We enable the Rise into lives of Purpose, Power, and Passion?  
 How does one come to understand their Purpose, Place, and Role in The Story?  
 
-Fear is rising for the boiling frogs: 
+Fear is rising for the boiling frogs:  
 - Alien Invasion  
 - Pole shifts  
 - Earthquakes  

@@ -56,8 +56,7 @@ _"No."_ The Spirit whispers firmly. _"You were one of those, but now you are awa
 
 Confronted with a terror so profound, a realization so appalling, and a cacophony so deafening, your body rejects the overwhelming horror with another wave of nausea and vomiting, before darkness claims you, and you succumb once again to unconsciousness.
 
-_To Be Continued..._
+_To Be Continued..._  
 ____
 
 The Caves is a concept from [[The Book of LIONSBERG]] - see [[1.5 The Caves]].  
-

@@ -21,4 +21,3 @@ The TVD process evolves through four phases with four different goals:
 **Phase 4: Production Planning** - Goal: Optimizing [[Flow of Work]], productivity, and pre-fabrication. 
 
 This stands in stark contrast to the [[Old World]] methods where designers designed in isolation, and then put their designs “out to bid”. Involving the design, estimating, build, and operations teams throughout the entire process ensures that all aspects of design, buildability, and operational efficiency are optimized in harmony with one another from the start.
-

@@ -24,7 +24,7 @@ At the outer levels of practicality, you have a bounded place, such as Mondragon
 
 For each individual on Earth to have the opportunity to develop into the fullness of their potential and flourish, all individuals would have to have the opportunity to develop into the fullness of their potential and flourish, and the entire [[Human System]] that enabled and optimized for that to occur would have to be rightly related and integrated, not only internally within itself, but externally to the [[Living System]] that contained it. 
 
-___
+___  
 What we can learn from [[Mondragon]]...
 
 Perhaps the most successful and widely known experiment in more loving, just, and good socioeconomic organization is Mondragon. 

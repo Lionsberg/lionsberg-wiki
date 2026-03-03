@@ -64,10 +64,3 @@ The Projects:
 As these projects [[Progress]], they are progressively realizing what humanity has articulated as its [[Universal Goals and Values]]. 
 
 ____
-
-
-
-
-
-
-

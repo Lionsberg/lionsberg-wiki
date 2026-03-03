@@ -91,4 +91,3 @@ Under hypnotic regression, Spencer later recalled being taken aboard the craft b
 - **Documentaries:**
     
     - _The Ilkley Moor Encounter: Britain’s Strangest Alien Abduction_ (1995).
-

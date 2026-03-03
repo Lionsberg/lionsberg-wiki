@@ -7,7 +7,7 @@ Here are a handful of companies that started well, and sold out. What if instead
 It is far more difficult to create than to destroy. 
 
 1. One of Mondragon's Co-Ops 
-	1. Sold out to Cemex 
+	1. Sold out to Cemex  
 2. Burt's Bees 
 	1. [Sold out to Clorox](https://www.theatlantic.com/business/archive/2015/07/burt-shavitz-burts-bees-clorox/397787/)   
 3. Seventh Generation 
@@ -15,7 +15,7 @@ It is far more difficult to create than to destroy.
 4. Tom's of Maine. 
 	1. [Sold out to Colgate-Palmolive](https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-completes-purchase-toms-maine#:~:text=Colgate%2DPalmolive%20Company%20(NYSE%3A,Maine%20for%20approximately%20%24100%20million.)   
 5. Native 
-	1. [Sold out to P&G](https://www.oaklins.com/us/en/deals/103750/#:~:text=dba%20Native%20Cosmetics%2C%20a%20rapidly)
+	1. [Sold out to P&G](https://www.oaklins.com/us/en/deals/103750/#:~:text=dba%20Native%20Cosmetics%2C%20a%20rapidly)  
 6. This is L 
 	1. [Sold out to P&G](https://www.forbes.com/sites/berenicemagistretti/2019/02/06/fembeat-pg-acquires-organic-period-care-startup-this-is-l/?sh=6b4b42247bb6)   
 7. Schmidt's Naturals 
@@ -55,7 +55,7 @@ It is far more difficult to create than to destroy.
 24. Van's Natural Goods 
 	1. [Sold out to Hillshire Brands](https://www.latimes.com/business/la-fi-mo-hilshire-brands-vans-natural-foods-20140421-story.html)   
 25. Cereals from Hearthside Foods 
-	1. Sold out to Post Holding 
+	1. Sold out to Post Holding  
 26. Lara. Bar 
 	1. Sold out to General Mills  
 27. Bear Naked 
@@ -63,7 +63,7 @@ It is far more difficult to create than to destroy.
 28. Hu Chocolate 
 	1. Sold out to Mondelez  
 29. Garden of Life 
-	1. Sold out to Nestle 
+	1. Sold out to Nestle  
 30. Ecover 
-	1. Sold out to SC Johnson 
+	1. Sold out to SC Johnson  
 31. Let's end the trend... 

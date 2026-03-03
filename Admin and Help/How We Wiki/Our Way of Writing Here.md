@@ -42,7 +42,7 @@ Like a complicated system, device, or building, each of these elements is intent
 
 Because of this, the formal body of work needs to be treated with the integrity and quality control processes found on large scale design build projects. 
 
-For now, the process is as follows: 
+For now, the process is as follows:  
 - Jordan is acting in the functional role of [[Architect Working Group]], and making sure that the pieces fit together properly, don't conflict, and that the entire System works in the end. This [[Architect Working Group]] needs new members dedicated to this function so that no one person becomes a bottleneck or single point of failure. 
 - Everyone is acting as co-creators, and is taking responsibility for designing and building various elements of the System.
 - The simple process is intended to create freedom and agency for anyone to propose any change without needing permission, while simultaneously ensuring the integrity and coherence of the Whole is maintained.
@@ -59,7 +59,7 @@ We also gratefully accept and appreciate any new suggestions that affect core de
 
 ## Questions
 
-(See "Making Pages" below for these questions)
+(See "Making Pages" below for these questions)  
 - When / why / how to write in an existing file?
 - When / why / how to create new files?
 - When and how do we use folders in this wiki?
@@ -130,4 +130,3 @@ Copy the following to embed YouTube videos (but not the lines that start with th
 - [[wiki link]] = `[[wiki link]]`
 - [external link to somewhere on the web](https://www.example.com/) =  `[external link to somewhere on the web](https://www.example.com/)`
 - For a bare URL, use angle brackets around it, `<https://example.com/>` or `<mailto:someone@example.com>`. Without angle brackets, some wiki clients will make it a live link, and some won't.
-

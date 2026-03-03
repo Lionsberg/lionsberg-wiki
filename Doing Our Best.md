@@ -7,7 +7,7 @@ From a coaching perspective, two of the most powerful tools are:
 
 1. Ask yourself a series of questions daily, that begin with Did I Do My Best To (fill in the blank)? 
 
-For example: 
+For example:  
 - Did I Do My Best To: manage my total nested hierarchy of relationships with integrity?  
 - Did I Do My Best To: demonstrate unconditional Love to my loved ones?  
 - Did I Do My Best To: Live in Integrity and Right Relationship to [[ONE]] and [[All]]?  

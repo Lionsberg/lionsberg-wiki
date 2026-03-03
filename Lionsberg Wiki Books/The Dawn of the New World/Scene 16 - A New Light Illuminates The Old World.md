@@ -10,7 +10,7 @@ As Xion traversed the community, he was filled with sorrow. The streets were lit
 
 As Xion continued, he saw Earth's people suffering, their pain palpable. His heart broke for them. With each step and new sight, his resolve intensified. He felt himself tingling and transforming as his DNA activated the New coding prepared in advance for this moment in Time.   
 
-___
+___  
 Forward to: [[Scene 17 - The Corrupt Priest]]  
 Back to: [[Scene 15 - Writing In The Spirit]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

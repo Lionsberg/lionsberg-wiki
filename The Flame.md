@@ -37,13 +37,13 @@ This is how every great movement has spread:
 
 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...
 
-The early church: 120 to 6 million in 270 years.
-AA: 2 to 2 million in 90 years.
+The early church: 120 to 6 million in 270 years.  
+AA: 2 to 2 million in 90 years.  
 Cooperatives: 28 weavers to 1 billion members.
 
 **33 to 50 cycles. 3.5 to 7 years. Every person on Earth.**
 
-The question is not whether the math works.
+The question is not whether the math works.  
 The question is whether you will begin.
 
 ___

@@ -3,4 +3,3 @@
 What is Thought? 
 
 What is Mind? 
-

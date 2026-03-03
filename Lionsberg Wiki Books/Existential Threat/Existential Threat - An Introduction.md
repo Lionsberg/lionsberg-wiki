@@ -28,8 +28,8 @@ On his Journey Jordan discovered that for decades government officials have been
 
 Chapter [[12. Extraterrestrial Beings, Crafts, Civilizations, and Federations—From the Lips of the Authorities Themselves]] contains hundreds of testimonies, which collectively point to thousands more. The evidence, official witnesses, presence of alien bodies, beings, and craft, and face to face contact with multiple advanced non-human intelligences cannot be ignored. 
 
-They are real. 
-They are here. 
+They are real.  
+They are here.  
 And Reality as you thought you knew it is about to shift. 
 
 We are standing at a threshold and crossroads of history that will change *everything.*
@@ -80,15 +80,8 @@ Are you ready to catch a glimpse behind The Veil of the The Greatest Secret, Fra
 
 If so, welcome to the adventure of a lifetime. 
 
-Click "forward" to [[1. You Will Never Believe What Happened...]] below to advance. 
+Click "forward" to [[1. You Will Never Believe What Happened...]] below to advance.  
 ____
 
 Forward to: [[1. You Will Never Believe What Happened...]]          
 Back to Table of Contents: [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]     
-
-
-
-
-
-
-

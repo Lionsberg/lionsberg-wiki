@@ -55,7 +55,7 @@ William Tompkins began his career in World War II as part of a Navy intelligence
 ### **Physical Evidence**
 
 - **Documents and Models:**  
-    Tompkins provided hand-drawn designs and detailed descriptions of spacecraft allegedly built by the SSP. Though not conclusively verified, these materials align with reported UFO capabilities.
+    Tompkins provided hand-drawn designs and detailed descriptions of spacecraft allegedly built by the SSP. Though not conclusively verified, these materials align with reported UFO capabilities.  
 - **Witness Corroboration:**  
     Other whistleblowers, including those from the military and aerospace industries, have echoed aspects of Tompkins’s claims, particularly regarding Nazi UFO programs and reverse engineering efforts.
 
@@ -64,7 +64,7 @@ William Tompkins began his career in World War II as part of a Navy intelligence
 ### **Investigations and Reception**
 
 - **Mainstream Skepticism:**  
-    While Tompkins’s story has captivated UFO enthusiasts and researchers, it has been met with skepticism from mainstream scientists and historians due to the extraordinary nature of his claims and limited direct evidence.
+    While Tompkins’s story has captivated UFO enthusiasts and researchers, it has been met with skepticism from mainstream scientists and historians due to the extraordinary nature of his claims and limited direct evidence.  
 - **Supportive Researchers:**  
     Figures like Dr. Michael Salla and Linda Moulton Howe have cited Tompkins’s testimony as critical to understanding the broader SSP narrative and extraterrestrial involvement in human affairs.
 
@@ -73,7 +73,7 @@ William Tompkins began his career in World War II as part of a Navy intelligence
 ### **Outcome and Significance**
 
 - **Impact on SSP Discourse:**  
-    Tompkins’s revelations have become foundational to discussions about secret space programs, inspiring books, documentaries, and further whistleblower testimonies.
+    Tompkins’s revelations have become foundational to discussions about secret space programs, inspiring books, documentaries, and further whistleblower testimonies.  
 - **Call for Transparency:**  
     His accounts have fueled calls for government disclosure of hidden technologies and programs, as well as greater openness about humanity’s place in the cosmos.
 
@@ -97,4 +97,3 @@ William Tompkins began his career in World War II as part of a Navy intelligence
     - Salla, Michael. _Insiders Reveal Secret Space Programs and Extraterrestrial Alliances_
 - **Documentaries:**
     - _The Cosmic Secret_ by David Wilcock
-

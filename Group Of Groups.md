@@ -10,5 +10,5 @@ The Logic of Lionsberg is based on connecting and empowering a distributed netwo
 
 [[Team of Teams]]  
 [[Group Of Groups]]  
-[[Community of Communities]] 
+[[Community of Communities]]  
 [[Superlative of Superlatives]]  

@@ -58,7 +58,7 @@ It only has to be real.
     
 
 Your Quest is your embodied “Yes.”  
-It is how you turn intention into reality.
+It is how you turn intention into reality.  
 It is how the Great Work is accomplished. 
 
 ---

@@ -17,5 +17,5 @@ It will require a commitment to decentralizing power and pushing it away from th
 ___
 
 Forward to [[VI.B. The Power and Potential of the American Spirit]]  
-Back to [[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]]        
+Back to [[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

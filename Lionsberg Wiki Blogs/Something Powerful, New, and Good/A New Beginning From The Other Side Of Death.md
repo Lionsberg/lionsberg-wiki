@@ -19,5 +19,3 @@ Reincarnated / Reassociated with his body
 And is strengthening, healing, and learning how to pilot it  
 
 ***Something Powerful, New, and Good is Emerging***  
-
-

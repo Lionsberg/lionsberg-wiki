@@ -14,6 +14,6 @@ In short, the New American Revolution requires a new-yet-eternal North Star, a N
 
 ___
 
-Forward to [[V.A. A New Vision, Eternal Values]]        
-Back to [[IV.E. Rediscovering What It Means To Be A Citizen]]        
+Forward to [[V.A. A New Vision, Eternal Values]]  
+Back to [[IV.E. Rediscovering What It Means To Be A Citizen]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

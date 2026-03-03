@@ -87,4 +87,3 @@ Soon after the craft’s departure, military personnel arrived at the scene, cor
     
     - Good, Timothy. _Above Top Secret: The Worldwide UFO Cover-Up._
     - Hynek, J. Allen. _The UFO Experience: A Scientific Inquiry._
-

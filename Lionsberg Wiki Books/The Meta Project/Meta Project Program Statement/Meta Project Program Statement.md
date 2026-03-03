@@ -10,8 +10,8 @@ The MPPS is emerging through numerous working sessions on various topics, as wel
 
 The MPPS outlines the programatic components of the [[New System]], and describes how they address the total spiritual, intellectual, and physical needs of the global community. 
 
-It is intended to be a living document that continuously elevates as the elements of the program become more articulated and/or are adjusted as part of the continuous improvement program.
-___
+It is intended to be a living document that continuously elevates as the elements of the program become more articulated and/or are adjusted as part of the continuous improvement program.  
+___  
 The development of the Meta Project Program Statement began in 2017.  The effort initially included strategists, designers, planners, programmers, technologists, attorneys, consultants and operations staff from a variety of different organizations and viewpoints. It was expanded to include a growing array of perspectives between 2020 and 2022. **_The MPPS and [[The Book of LIONSBERG]] are both Works in Progress and are the initial best efforts of the Receiver to distill the wisdom from around the world and across the millennia, couple it with modern realities and best practices, listen carefully to the global community, and articulate a statement of the programmatic needs of a fully functional and flourishing New Era self-operated and self-sustained by a free, sovereign and empowered global community_**. The MPPS contains initial descriptions of the physical attributes, operational descriptions and requirements of of the primary elements that might be contained in the Prototype, which could be rapidly iterated, replicated and scaled relatively simultaneously around the world. The rapid and simultaneous scaling of [[The Prototype]] through shared [[Infrastructure]] is a critical design criteria, given the urgent existential threats. It is also critical that all replications of the Prototype contain the core architecture and system components that forge their **_networked interexistence and interoperability with the total System_**.  
 
 The MPPS incorporates articulations of higher order systems of education, wellbeing, ecology, governance, administration, economy, culture and values, meaning, right relationship, and other information required for all generations of life to discover and achieve their unique potential, and flourish in harmony.
@@ -46,7 +46,7 @@ The architecture of the System is intended to encompass and elevate all aspects 
 
 The [[Core Enterprise]] will provide oversight of the MPPS to ensure it remains consistent with the Receiver’s Intention and Goal, is updated to reflect learning during design, build and operationaliation, and that constructed systems, facilities, and infrastructure comport with the design intent, which is the [[Highest Intention and Greatest Good]] for [[All]]. 
 
-The latest edition of the living [[Meta Project Program Statement]] can be found [[Meta Project Program Statement|here]]. 
+The latest edition of the living [[Meta Project Program Statement]] can be found [[Meta Project Program Statement|here]].  
 ____
 ## The Meta Project Program Statement
 
@@ -59,4 +59,3 @@ ____
 [[6. Continuous Elevation]]  
 
 For additional high level context, see the [[Provisional Declaration]]. 
-

@@ -11,5 +11,5 @@ If you are interested in the total context,
 start at the beginning for more understanding.  
 The entire story is a ~10 minute read.  
 
-For the few that may be interested, 
+For the few that may be interested,  
 [[Above The Chaos]] contains the raw feed of the last few years.  

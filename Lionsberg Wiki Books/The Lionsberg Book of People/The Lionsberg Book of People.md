@@ -3,13 +3,13 @@
 All Great Spirits Arise From [[ONE]], Speak to [[All]], and return to [[ONE]]. 
 
 [[Jesus]]  
-[[Buckminster Fuller]] 
+[[Buckminster Fuller]]  
 [[Martin Luther King Jr.]]  
 [[Mahatma Gandhi]]  
 [[Nelson Mandela]]  
 [[Aristotle]]  
 [[Desmond Tutu]]  
-[[Lao Tzu]] 
+[[Lao Tzu]]  
 [[Socrates]]  
 [[Plato]]  
 [[Confucius]]  

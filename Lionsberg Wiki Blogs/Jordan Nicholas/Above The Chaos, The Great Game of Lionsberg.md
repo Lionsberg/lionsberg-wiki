@@ -44,8 +44,8 @@ During that time, I am I am going to reach out to network allies and see who is 
 12. An equal individual stewardship stake in the Value that will be created as the network effects and critical mass emerges over the coming years  
 13. Access to a collective knowledge repository of wisdom, solutions, and ideas - housed on a distributed network of machines that is not dependent on internet access 
 14. Access to the resources emerging through the Lionsberg | Elevation Initiative
-	1. Integrated Personal Development 
-	2. Integrated Group Development 
+	1. Integrated Personal Development  
+	2. Integrated Group Development  
 	3. Integrated Community Development  
 
 
@@ -70,5 +70,3 @@ While it is not required for the plan to succeed, if I were the world I would ta
 We are curating together a Knowledge Repository of solutions to meet the needs and solve the problems inherent in the life of every individual, group, and community as they strive to progress towards their Potential. 
 
 If you know of any bodies of work that you think should be part of the platform and made available to All, please let us know. 
-
-

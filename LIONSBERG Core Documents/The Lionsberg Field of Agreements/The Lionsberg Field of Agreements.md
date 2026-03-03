@@ -3,9 +3,9 @@
 [[LIONSBERG Manifesto]]  
 [[LIONSBERG Declaration of InterDependence]]  
 [[LIONSBERG Core Statements]]  
-[[Lionsberg Core Documents]]   
+[[Lionsberg Core Documents]]  
 [[LIONSBERG - History, Inception, and Trust Manifesto]]  
-[[The LIONSBERG System of Values]]   
+[[The LIONSBERG System of Values]]  
 [[Provisional Community Agreements]]  
 [[Provisional Code]]  
 [[Provisional Conditions]]  
@@ -21,12 +21,10 @@ ____
 ## Not Currently In Use 
 
 [[Lionsberg Participation Agreement]]  
-[[Lionsberg Membership Agreement]]   
+[[Lionsberg Membership Agreement]]  
 [[Lionsberg Subscription Agreement]]  
 
 
 ## Revisit 
 
 [[Lionsberg Code of Conduct]]  
-
-

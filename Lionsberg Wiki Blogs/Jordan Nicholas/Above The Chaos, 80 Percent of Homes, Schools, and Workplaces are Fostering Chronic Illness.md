@@ -14,7 +14,7 @@ We are now understanding that [[Chronic Inflammation]] is the core driver of [[C
 
 In this post, I link the learnings out to other ongoing conversations with experts on food systems and brain disease. 
 
-To join us on a transformative path towards the fullness of wellbeing, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement)
+To join us on a transformative path towards the fullness of wellbeing, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement)  
 ___
 ## Environmental Toxins 
 
@@ -48,7 +48,7 @@ The basic mechanism can be conceptualized as:
 5. Leading to [[Chronic Inflammation]] 
 6. Leading to a range of symptoms, health issues and [[Chronic Disease]], from depression, to fatigue, to cognitive impairment, to digestive issues, heart issues, musculoskeletal pain, obesity, Parkinson's, Alzheimers, etc. 
 
-In simple terms, the core driver of an array of chronic disease and [[Suffering]] is inflammation resulting from the response of the immune system to toxins in our food, drink, and environment. 
+In simple terms, the core driver of an array of chronic disease and [[Suffering]] is inflammation resulting from the response of the immune system to toxins in our food, drink, and environment.  
 ____
 ## Sources of Toxins
 
@@ -61,7 +61,7 @@ There are a few obvious categories:
 3. Chemical toxins (generally) 
 4. Chemical toxins in [[Food Systems]] 
 
-For example: 
+For example:  
 - **Biotoxins in the Built Environment**: The interview with Drs. McMahon and Shoemaker focused on the presence of biotoxins in up to 80% of buildings. 
 - **Chemical Toxins in the Built Environment**: Dr. Shoemaker mentioned plasticizers and other chemical toxins used in building materials (think paint, drywall, pipes, water systems, air systems, etc.)  
 - **Chemical Toxins (generally)**: The cognitive impairment that resulted around the world from lead in paints and fuels was mentioned in the interview. Another emerging example is plastics and microplastics, especially food containers, food packaging, drink containers, filtering processes prior to packaging, etc. 

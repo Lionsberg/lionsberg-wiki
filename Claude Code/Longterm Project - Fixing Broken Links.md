@@ -19,7 +19,7 @@ The Lionsberg Wiki contains thousands of markdown files with extensive cross-lin
 
 ## Approach Overview
 
-This is NOT a "fix everything at once" project. Instead, we work on it periodically:
+This is NOT a "fix everything at once" project. Instead, we work on it periodically:  
 - Fix a batch of links in one session
 - Document what was done
 - Return later to fix another batch
@@ -40,7 +40,7 @@ find . -name "*.md" -type f > all-pages.txt
 ### 1.2 Find All Wiki Links
 **Goal**: Identify every `[[wiki link]]` used throughout the wiki
 
-**Method**:
+**Method**:  
 - Search for all double-bracket patterns: `\[\[.*?\]\]`
 - Extract the link text
 - Handle variants like `[[Page Name|Display Text]]`
@@ -51,7 +51,7 @@ find . -name "*.md" -type f > all-pages.txt
 ### 1.3 Cross-Reference Links to Pages
 **Goal**: Determine which links point to existing pages vs. non-existent pages
 
-**Method**:
+**Method**:  
 - Compare the list of wiki links against the list of actual files
 - Account for:
   - Case sensitivity
@@ -59,7 +59,7 @@ find . -name "*.md" -type f > all-pages.txt
   - Links with alternate display text
   - Links in subdirectories
 
-**Output**: Three lists:
+**Output**: Three lists:  
 1. **Valid links** - Point to existing pages
 2. **Broken links** - Point to non-existent pages
 3. **Ambiguous links** - May match multiple pages
@@ -67,13 +67,13 @@ find . -name "*.md" -type f > all-pages.txt
 ### 1.4 Categorize Broken Links
 **Goal**: Distinguish intentional incipient links from actual errors
 
-**Method**:
+**Method**:  
 - Review broken links in context
 - Identify patterns (certain concepts are commonly linked but not yet created)
 - Check if the linked concept appears elsewhere in the wiki
 - Look for common typos or misspellings
 
-**Output**:
+**Output**:  
 - **Incipient links** (intentional) - Keep as placeholders
 - **Typos/errors** (unintentional) - Fix or remove
 - **Moved pages** - Update to new location
@@ -82,14 +82,14 @@ find . -name "*.md" -type f > all-pages.txt
 ## Phase 2: Fixing Broken Links
 
 ### 2.1 Establish Priorities
-Work on broken links in this order:
+Work on broken links in this order:  
 1. **High-traffic pages** - Core documents, main navigation
 2. **Recent changes** - Links broken by recent edits
 3. **Common errors** - Patterns that appear multiple times
 4. **Older content** - Historical pages that need cleanup
 
 ### 2.2 Fix in Batches
-For each work session:
+For each work session:  
 1. Choose a batch size (10-50 broken links)
 2. Review each link in context
 3. Decide on action:
@@ -103,7 +103,7 @@ For each work session:
 6. Document what was done
 
 ### 2.3 Create Missing Pages (Selectively)
-For incipient links that point to important concepts:
+For incipient links that point to important concepts:  
 - Create a stub page with the correct filename
 - Add minimal content (title, brief description)
 - Mark as "stub" or "to be expanded"
@@ -112,7 +112,7 @@ For incipient links that point to important concepts:
 ## Phase 3: Documentation & Maintenance
 
 ### 3.1 Work Log
-For each work session, document:
+For each work session, document:  
 - Date of session
 - Number of links reviewed
 - Number of links fixed
@@ -121,14 +121,14 @@ For each work session, document:
 - Next priorities
 
 ### 3.2 Pattern Tracking
-Keep notes on:
+Keep notes on:  
 - Common misspellings
 - Pages that were renamed (old → new mapping)
 - Concepts frequently linked but not yet created
 - Directories where broken links cluster
 
 ### 3.3 Prevention Strategies
-Based on patterns discovered:
+Based on patterns discovered:  
 - Create guidelines for common page naming
 - Document frequently-referenced-but-missing concepts
 - Establish naming conventions for new pages
@@ -145,19 +145,19 @@ grep -r '\[\[.*?\]\]' . --include="*.md" | \
   sort | uniq > all-links.txt
 ```
 
-**Better approach using specialized tools**:
+**Better approach using specialized tools**:  
 - Use Obsidian's built-in link checker
 - Write a Python script to parse markdown and extract links
 - Use existing markdown link-checking tools (adapt for wiki links)
 
 ### Semi-Automated Fixes
 
-Some fixes can be automated:
+Some fixes can be automated:  
 - Simple typos with clear corrections
 - Case inconsistencies
 - Links to recently renamed files (if we track renames)
 
-Others require human judgment:
+Others require human judgment:  
 - Ambiguous links
 - Deciding whether to create missing pages
 - Understanding context and intent
@@ -172,17 +172,17 @@ When working on broken links, follow this template:
 
 **Links Reviewed**: [Number]
 
-**Actions Taken**:
+**Actions Taken**:  
 - Fixed typos: [List]
 - Updated renamed pages: [List]
 - Removed obsolete links: [List]
 - Created stub pages: [List]
 - Marked as intentional incipient: [List]
 
-**Patterns Noticed**:
+**Patterns Noticed**:  
 - [Any common issues]
 
-**Next Session Should Focus On**:
+**Next Session Should Focus On**:  
 - [Recommendations for next batch]
 
 **Git Commit**: [Commit hash or message]
@@ -190,25 +190,25 @@ When working on broken links, follow this template:
 ## Important Considerations
 
 ### Don't Over-Fix
-Not every broken link needs to be "fixed":
+Not every broken link needs to be "fixed":  
 - Incipient links are a feature, not a bug
 - They show where content should eventually exist
 - Removing them loses valuable information about the wiki's knowledge graph
 
 ### Preserve Intent
-When fixing links, understand the author's intent:
+When fixing links, understand the author's intent:  
 - What were they trying to link to?
 - Is there an existing page that serves that purpose under a different name?
 - Should a new page be created?
 
 ### Respect Content Modes
-Remember the wiki's three content types:
+Remember the wiki's three content types:  
 - **Individual Voice** (Blogs/Books): Get author permission before changing their links
 - **Formal System** (Core Docs): Requires careful review to maintain coherence
 - **Community Content**: Generally safe to fix obvious errors
 
 ### Commit Frequently
-When fixing links:
+When fixing links:  
 - Commit after each logical batch
 - Write clear commit messages: "Fixed broken links in Core Documents - typos and renamed pages"
 - This makes it easy to review or revert if needed
@@ -231,7 +231,7 @@ When fixing links:
 
 ## Long-Term Vision
 
-Eventually, this work will result in:
+Eventually, this work will result in:  
 - A healthier wiki knowledge graph
 - Clear understanding of which concepts need pages created
 - Established patterns and guidelines for link maintenance

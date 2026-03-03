@@ -27,7 +27,7 @@ Imagine the gifts, talents, and relationships that the next hundred co-creators 
 
 ### Your Role in This Epic Journey
 
-You have been chosen to be among the first to lead this transformation and forge a movement that will shape our individual and collective destiny. We invite you to join us in this optimally decentralized movement, where connected and empowered small groups coordinate locally and globally to tackle the [[Meaningful Conversations and Quests]] that advance the [[Critical Path]] towards a thriving, regenerative world. Your mission, should you accept it, is to: 
+You have been chosen to be among the first to lead this transformation and forge a movement that will shape our individual and collective destiny. We invite you to join us in this optimally decentralized movement, where connected and empowered small groups coordinate locally and globally to tackle the [[Meaningful Conversations and Quests]] that advance the [[Critical Path]] towards a thriving, regenerative world. Your mission, should you accept it, is to:  
 1. [[Join The Movement]]  
 2. [[Forge or Join a Group]] / Team 
 3. Engage in [[Meaningful Conversations and Quests]]   
@@ -57,6 +57,3 @@ For updates on [[The Movement]] please stay tuned to [[Above The Chaos]].
 [Lionsberg Dispatch - Individuals, Groups, Quests, and the 10 Year Grand Strategy](https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=ApeyWXk0R2qDPgxRi2Nk5g)  
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=Ix9fyN76SS-ERrEqMMBZIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
-
-

@@ -7,7 +7,7 @@ Reciprocal Opening is (something like) the process of "spiraling up" that occurs
 + Yin / Yang  
 + Masculine / Feminine  
 + Being / Doing  
-+ 1 / 0 
++ 1 / 0  
 + Light / Dark  
 
 This may be something like the fundamental creative movement of the universe that causes the basic patterns of Life to manifest, as obviously revealed in places such as DNA, nautalus shells, sunflowers, etc. 

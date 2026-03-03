@@ -50,5 +50,5 @@ The [[Old World]] failed not for lack of good intentions, but for lack of integr
 
 ___
 
-_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._
+_One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
 _See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._

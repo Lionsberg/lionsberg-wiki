@@ -21,6 +21,6 @@ The impact of The Great Game of Lionsberg on spirituality and the human spirit i
 
 ____
 
-Forward to [[22 The Great Game of Lionsberg Toolkit]]    
+Forward to [[22 The Great Game of Lionsberg Toolkit]]  
 Back to [[20 The Impact on Governance]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

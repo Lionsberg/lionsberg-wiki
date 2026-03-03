@@ -12,6 +12,6 @@ It also requires a commitment to being responsible global citizens, working in p
 
 ___
 
-Forward to [[III.F. A Crisis of Culture and Values]]          
-Back to [[III.D. Corruption and Exploitation]]        
+Forward to [[III.F. A Crisis of Culture and Values]]  
+Back to [[III.D. Corruption and Exploitation]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

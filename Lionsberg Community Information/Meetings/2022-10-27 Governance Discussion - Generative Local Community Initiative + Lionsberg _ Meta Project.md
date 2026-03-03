@@ -157,7 +157,7 @@
 - figure it out for one generative community and all of them are different
     - figure out the complexity as we go
 
-Bill Larson
+Bill Larson  
 - lifetime and record that
 - expressing it simply is challenge
 - pull people towards expressing their problems by induction
@@ -193,4 +193,3 @@ Bill Larson
 -  Complexity, applied thinking, learning 
 -  Use of metaphors to explain complexity 
     - 'acorn to oak tree' and 'the whole forest'
-

@@ -19,15 +19,3 @@ ___
 
 As Our lives hang in the balance  
 **EITHER WE UNITE OR DIE**  
-
-
-
-
-
-
-
-
-
-
-
-

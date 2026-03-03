@@ -1,106 +1,106 @@
 # The Lionsberg Strategy and Plan
 
-*Updated May 2024*
+*Updated May 2024*  
 
-*This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*
+*This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*  
 
 [[2026 Q1 Update to the LIONSBERG Strategy and Plan]]  
 [[2024 Q4 Update]]  
 [[1. Introduction to the Lionsberg Strategy and Plan]]  
 [[2. Executive Summary]]  
 [[3. If One and All Will It to Be]]  
-[[4. Our Highest Duty to One, All, Wisdom, and Truth]]   
-[[5. Our Overarching and Uniting Aim and Goal]]   
-[[6. What Is At Stake If We Fail]]   
-[[7. A Historic Opportunity]]   
-[[8. Timing]]   
-[[9. History and Inception]]   
+[[4. Our Highest Duty to One, All, Wisdom, and Truth]]  
+[[5. Our Overarching and Uniting Aim and Goal]]  
+[[6. What Is At Stake If We Fail]]  
+[[7. A Historic Opportunity]]  
+[[8. Timing]]  
+[[9. History and Inception]]  
 [[10. Planetary Context]]  
 [[11. Scope of Work]]  
 [[12. Reintegration of the Human System and Living System]]  
 [[13. Designer's Intent and Creator's Intent]]  
-[[14. Patterns of Success, and a Pattern Language of Success]]   
-[[15. Transforming the Human Pattern Language - FROM The Old, TO The New]]   
+[[14. Patterns of Success, and a Pattern Language of Success]]  
+[[15. Transforming the Human Pattern Language - FROM The Old, TO The New]]  
 [[16. Transforming Human Consciousness, Thought, Speech, Behavior]]  
 [[17. A Universal Movement]]  
 [[18. No One Involuntarily Left Behind]]  
 [[19. None Of Us Until All Of Us]]  
 [[20. A Tipping Point Strategy Led By Transforming Consciousness and Cultural Norms]]  
 [[21. Pathways, Bridges, and Infrastructure]]  
-[[22. The Story - The Quest Towards The Goal of Greatest Worth]]   
-[[23. How Much Time Do We Have?]]   
-[[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World]]   
+[[22. The Story - The Quest Towards The Goal of Greatest Worth]]  
+[[23. How Much Time Do We Have?]]  
+[[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World]]  
 [[25. The Art and Science of Co-Creation]]  
-[[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]   
-[[27. We Have a Lot of Work to Do]]   
+[[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]  
+[[27. We Have a Lot of Work to Do]]  
 [[28.  This Much Work Requires a Purpose-Built System]]  
 [[29. A New System of Systems]]  
 [[30. Unified by The Goal]]  
-[[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]]   
+[[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]]  
 
-(The sections below are being gradually folded into the emergent table of contents above)
+(The sections below are being gradually folded into the emergent table of contents above)  
 ### Waste, Value, and Throughput of The Goal 
 
-The co-creation of a conceptually unified System purpose-built to [[Progressively Realize]] the [[The Goal]] ([[Creator's Intent]] / [[On Earth As it Is In Heaven]]), enables us to technically redefine our understanding of [[Waste]] and [[Value]] relative to [[The Goal]] we are co-operating in pursuit of. 
+The co-creation of a conceptually unified System purpose-built to [[Progressively Realize]] the [[The Goal]] ([[Creator's Intent]] / [[On Earth As it Is In Heaven]]), enables us to technically redefine our understanding of [[Waste]] and [[Value]] relative to [[The Goal]] we are co-operating in pursuit of.  
 
 Coupled with our [[New]] [[Time-Energy Accounting]], this will reveal that the vast majority of meaningless and dangerous work humanity is doing to "earn a living" by exploiting One Another and All Creation is actually [[Waste]] - and that we would be collectively be far better off to pay them to *stop creating waste*, while we reorganize our Selves and learn to co-operate the [[New Human Operating System]].  
 
 These ideas, collectively composed of (what lies beyond) "lean", "agile", "theory of constraints", "the goal", "critical chain", etc., have exposed 60% plus waste in nearly every domain they have touched. We anticipate that the level of [[Waste]] on [[Worksite Earth]] in the 2020s is closer to 80%+.  
 ### Multi-Generational Co-Operation
 
-The [[New Human Operating System]] we are co-creating and learning to co-operate (which I call the [[LIONSBERG System]]), does not just exist for us. 
+The [[New Human Operating System]] we are co-creating and learning to co-operate (which I call the [[LIONSBERG System]]), does not just exist for us.  
 
-It exists in service to all past, current, and future generations of Life and Consciousness, in All Times and Spaces. 
+It exists in service to all past, current, and future generations of Life and Consciousness, in All Times and Spaces.  
 
-This requires that we view all life and consciousness as interexistent aspects of [[ONE Body]] developing through the millennia, and that as we meet needs, solve problems, accomplish goals, and co-create the [[New]], we are continually honoring the Wisdom and contributions of our elders and ancestors, while [[Passing The Flame]] to the rising generations. 
+This requires that we view all life and consciousness as interexistent aspects of [[ONE Body]] developing through the millennia, and that as we meet needs, solve problems, accomplish goals, and co-create the [[New]], we are continually honoring the Wisdom and contributions of our elders and ancestors, while [[Passing The Flame]] to the rising generations.  
 
-Through this lens, we come to understand that the knowledge, technologies and techniques we employ in any given generation are built to be superseded and pass away, and that what remains is the Spirit, Intention, Wisdom, Culture, and Values, whose continuous improvement is our main act of co-creation. 
+Through this lens, we come to understand that the knowledge, technologies and techniques we employ in any given generation are built to be superseded and pass away, and that what remains is the Spirit, Intention, Wisdom, Culture, and Values, whose continuous improvement is our main act of co-creation.  
 ## A System Requires a Structure 
 
-Such a universally and eternally conceptualized System and Approach must Incarnate itself in [[SpaceTime]], and develop by grappling with the Realities at hand in its Embodied Time and Space. 
+Such a universally and eternally conceptualized System and Approach must Incarnate itself in [[SpaceTime]], and develop by grappling with the Realities at hand in its Embodied Time and Space.  
 
-The act of Incarnation requires a concrete and pragmatic structure to house and protect its emergence. 
+The act of Incarnation requires a concrete and pragmatic structure to house and protect its emergence.  
 
-For this reason, the Lionsberg [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another. 
+For this reason, the Lionsberg [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another.  
 
 ## A System of Systems / Structure of Structures 
 
-Further, we understand that the system and structure cannot be a monolith, but rather need to emerge as something like a [[United Yet Optimally Decentralized]] federation of federations / ecosystem of ecosystems / system of systems / structure of structures, etc. 
+Further, we understand that the system and structure cannot be a monolith, but rather need to emerge as something like a [[United Yet Optimally Decentralized]] federation of federations / ecosystem of ecosystems / system of systems / structure of structures, etc.  
 ## A System and a Structure Require a Selectively Permeable Membrane 
 
-Any living organism (which an emerging body of co-creators is), requires a [[Selectively Permeable Membrane]], which protects the finite System and Structure within from the infinite Universe of things without. 
+Any living organism (which an emerging body of co-creators is), requires a [[Selectively Permeable Membrane]], which protects the finite System and Structure within from the infinite Universe of things without.  
 ## A Selectively Permeable Membrane Requires an Immigration Policy and Immune System 
 
-Because [[The Body]] developing within the [[Selectively Permeable Membrane]] must incorporate aspects of the surrounding [[Universe]] to grow and flourish, something akin to an [[Immigration Policy]] must be developed that allows New things to be incorporated in an orderly manner on the basis of [[Mutual Consent]]. 
+Because [[The Body]] developing within the [[Selectively Permeable Membrane]] must incorporate aspects of the surrounding [[Universe]] to grow and flourish, something akin to an [[Immigration Policy]] must be developed that allows New things to be incorporated in an orderly manner on the basis of [[Mutual Consent]].  
 
-Additionally, an [[Immune System]] is required to deal with pathogenic or toxic agents that will inevitably find their way through the membrane. 
+Additionally, an [[Immune System]] is required to deal with pathogenic or toxic agents that will inevitably find their way through the membrane.  
 
-For this reason, the [[LIONSBERG System]] must continuously improve its [[Immigration Policy]] alongside the functioning of its [[Immune System]]. 
+For this reason, the [[LIONSBERG System]] must continuously improve its [[Immigration Policy]] alongside the functioning of its [[Immune System]].  
 
 ## A System and Structure with a Selective Permeable Membrane Requires Governance, Culture and Co-Operation 
 
-Any body divided against itself will eventually fail and die. 
+Any body divided against itself will eventually fail and die.  
 
-Therefore the [[Many Diverse Parts]] of [[The Body]] require a system and way of governance, culture, and co-operation. 
+Therefore the [[Many Diverse Parts]] of [[The Body]] require a system and way of governance, culture, and co-operation.  
 
 ## Governance, Culture and Co-Operation Require Lifelong Learning, Training, and Development 
 
-In the context of a multi-generational body of co-creation that requires ongoing governance, culture, and co-operation, every new member of [[The Body]], whether they enter via the [[Immigration Policy]] or are born into [[The System]], must learn how to co-operate and flourish as part of [[The Body]]. 
+In the context of a multi-generational body of co-creation that requires ongoing governance, culture, and co-operation, every new member of [[The Body]], whether they enter via the [[Immigration Policy]] or are born into [[The System]], must learn how to co-operate and flourish as part of [[The Body]].  
 
-Therefore one of the most foundational among [[The 12 Pillars of Lionsberg]] is the co-creation and continuous improvement of a system of lifelong learning, training, and development, that every co-creator has equal access to. 
+Therefore one of the most foundational among [[The 12 Pillars of Lionsberg]] is the co-creation and continuous improvement of a system of lifelong learning, training, and development, that every co-creator has equal access to.  
 
-Because our purpose on Earth is to Become the fullness of who we are uniquely created to be by collaborating with the Creator and All Creation to Progressively Realize The Goal, the development of each diverse fractal aspect of Creation towards the fullness of [[Potential]] is paramount. 
+Because our purpose on Earth is to Become the fullness of who we are uniquely created to be by collaborating with the Creator and All Creation to Progressively Realize The Goal, the development of each diverse fractal aspect of Creation towards the fullness of [[Potential]] is paramount.  
 ## Measuring Throughput of The Goal 
 
-The System is designed to produce Throughput of [[The Goal]]. 
+The System is designed to produce Throughput of [[The Goal]].  
 
-Because the [[Critical Path]] runs through the tipping points strategy rooted in transformation of [[Consciousness]] and [[Pattern Language]]... 
+Because the [[Critical Path]] runs through the tipping points strategy rooted in transformation of [[Consciousness]] and [[Pattern Language]]...  
 
-...[[Throughput]] can be measured by (something like) how many Individuals, have progressed how far, on [[The Quest]] [[FROM the Old TO the New]]. 
+...[[Throughput]] can be measured by (something like) how many Individuals, have progressed how far, on [[The Quest]] [[FROM the Old TO the New]].  
 
-The Lionsberg [[Lionsberg Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence. 
+The Lionsberg [[Lionsberg Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence.  
 
-The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]]. 
+The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]].  
 
 - Cycle 1: 2 Members  
 - Cycle 2: 3 Members  
@@ -153,28 +153,28 @@ The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to ho
 - Cycle 49: 3 Year Trailing Citizenship (Joining + 3 Years, or Age 15 + 3 Years) 
 - Cycle 50: The New Era Begins  
 
-The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[LIONSBERG System]] produces [[Throughput]] of [[The Goal]]. 
+The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[LIONSBERG System]] produces [[Throughput]] of [[The Goal]].  
 
 Whereas the [[Lionsberg Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
 
 These two dimensions create the basis for [[Measurement]] and [[Continuous Improvement]].  
 ## Fractal Instantiation of The System from the Bottom Up
 
-As each Individual crosses through the [[Selectively Permeable Membrane]] and becomes a Co-Creator of The System... 
+As each Individual crosses through the [[Selectively Permeable Membrane]] and becomes a Co-Creator of The System...  
 
-...they must discover through [[Experiential Learning]] how to instantiate and co-operate [[The System]] for them Selves, for their Family, for their Teams, for their Community, for their Bioregion, etc. 
+...they must discover through [[Experiential Learning]] how to instantiate and co-operate [[The System]] for them Selves, for their Family, for their Teams, for their Community, for their Bioregion, etc.  
 
-One of the obvious-in-hindsight learnings from [[The 7 Year Window of Preparatory Work and Learning]] is that unenlightened beings cannot co-create enlightened systems. 
+One of the obvious-in-hindsight learnings from [[The 7 Year Window of Preparatory Work and Learning]] is that unenlightened beings cannot co-create enlightened systems.  
 
-Therefore [[The Transformation]] has to occur from the [[Bottom Up]] - starting with the hard work of each individual to look within and begin their own process of healing, development, and transformation. 
+Therefore [[The Transformation]] has to occur from the [[Bottom Up]] - starting with the hard work of each individual to look within and begin their own process of healing, development, and transformation.  
 
-As individuals accept [[The Invitation]], connect to [[The Movement]], and share their [[Individual Stories]], they [[Become Visible To The Movement]], they and the movement get to know themselves better, and the process of [[Building Relationships]] accelerates. 
+As individuals accept [[The Invitation]], connect to [[The Movement]], and share their [[Individual Stories]], they [[Become Visible To The Movement]], they and the movement get to know themselves better, and the process of [[Building Relationships]] accelerates.  
 
-Transforming Individuals can then forge or join [[First Degree Groups]] with others they are inspired by and passionate about collaborating with to transform their lives and their world. 
+Transforming Individuals can then forge or join [[First Degree Groups]] with others they are inspired by and passionate about collaborating with to transform their lives and their world.  
 
-[[First Degree Groups]] then articulate and share their [[Group Stories]], so that [[The Movement]] can get to know their identity, purpose, passions, and reason for being. 
+[[First Degree Groups]] then articulate and share their [[Group Stories]], so that [[The Movement]] can get to know their identity, purpose, passions, and reason for being.  
 
-[[Individual Stories]] and [[Group Stories]] are continuously updated and improved to reflect: 
+[[Individual Stories]] and [[Group Stories]] are continuously updated and improved to reflect:  
 
 - [[Who We Are]]  
 - [[Where We Are]]  
@@ -183,28 +183,28 @@ Transforming Individuals can then forge or join [[First Degree Groups]] with oth
 - [[Why]]  
 - Past and Current [[Quarterly Quests]] - Reflected in [[Quest Stories]]  
 
-In general, [[First Degree Groups]] must be and become [[Self-Governing, Self-Sustaining, and Self-Replicating]], drawing strength from The Movement / The Body / The System / The Commons to facilitate their emergence, development, and success, while [[Tithing]] back the first 1/10th of their available flow of time, resources, and attention to strengthen [[The Whole]]. 
+In general, [[First Degree Groups]] must be and become [[Self-Governing, Self-Sustaining, and Self-Replicating]], drawing strength from The Movement / The Body / The System / The Commons to facilitate their emergence, development, and success, while [[Tithing]] back the first 1/10th of their available flow of time, resources, and attention to strengthen [[The Whole]].  
 
-While the first 1/10th of available [[Flow]] is Tithed to strengthen The Commons and The Whole for all current and future generations, 90% of Time, Energy, Attention, and Resources are focused on local [[Quarterly Quests]] undertaken by [[Sovereign]] and [[Autonomous]] Teams. [[Every Quest is a Project]], and [[Quests Are Undertaken By Circles]] (Teams / Groups used here synonymously). 
+While the first 1/10th of available [[Flow]] is Tithed to strengthen The Commons and The Whole for all current and future generations, 90% of Time, Energy, Attention, and Resources are focused on local [[Quarterly Quests]] undertaken by [[Sovereign]] and [[Autonomous]] Teams. [[Every Quest is a Project]], and [[Quests Are Undertaken By Circles]] (Teams / Groups used here synonymously).  
 
-These three basic units form the basis of how [[The System]] is voluntarily and fractally instantiated from the [[Bottom Up]]: 
+These three basic units form the basis of how [[The System]] is voluntarily and fractally instantiated from the [[Bottom Up]]:  
 
 1. [[Individuals]]  
 2. [[Groups]] / [[Teams]]  
 3. [[Quests]] / [[Projects]]  
 
-On the [[Provisional Platform]], you will find these three objects as the basic units of organization and emergence. 
+On the [[Provisional Platform]], you will find these three objects as the basic units of organization and emergence.  
 ## Milestone: 3% of the Population, ~250 Million Leaders, Organized Into Autonomous Teams, Engaged in Quarterly Quests 
 
-The Lionsberg Strategy and Plan, reflecting the wisdom of indigenous, eastern, and western thought, includes a significant early milestone of connecting and empowering 3% of the human population, roughly 250 million leaders, by 2026. 
+The Lionsberg Strategy and Plan, reflecting the wisdom of indigenous, eastern, and western thought, includes a significant early milestone of connecting and empowering 3% of the human population, roughly 250 million leaders, by 2026.  
 
-Assuming an average [[First Degree Group Size]] of 5 to 7 [[Individuals]], this is nominally 50 million [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams. 
+Assuming an average [[First Degree Group Size]] of 5 to 7 [[Individuals]], this is nominally 50 million [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams.  
 
 ## Distribution 
 
-Assuming we avoid the [[Existential Threats]] at hand and the population grows out towards 10 Billion, we can set some broad breakpoints for understanding the distribution of Teams across the various Domains of [[SpaceTime]]. 
+Assuming we avoid the [[Existential Threats]] at hand and the population grows out towards 10 Billion, we can set some broad breakpoints for understanding the distribution of Teams across the various Domains of [[SpaceTime]].  
 
-10 Billion People are Distributed Across Roughly: 
+10 Billion People are Distributed Across Roughly:  
 
 - 12 to 24 Georegions 
 - 150 to 200 Bioregions  
@@ -216,9 +216,9 @@ Assuming we avoid the [[Existential Threats]] at hand and the population grows o
 - 100,000,000 Communities of 100 Individuals  
 - 1,000,000,000 Groups of 10 Individuals  
 
-For comparison, some mapping sources have located approximately 4 million discrete towns and cities across the world. 
+For comparison, some mapping sources have located approximately 4 million discrete towns and cities across the world.  
 
-Accomplishing this milestone would mean that by 2026, 50 Million teams, composed of the most [[Enlightened]] and Ready leaders we can identify, would be distributed as follows: 
+Accomplishing this milestone would mean that by 2026, 50 Million teams, composed of the most [[Enlightened]] and Ready leaders we can identify, would be distributed as follows:  
 
 - ~50 Million Teams across The Whole  
 - ~2 Million to 4 Million Teams Per Georegion  
@@ -229,13 +229,13 @@ Accomplishing this milestone would mean that by 2026, 50 Million teams, composed
 - ~50 Teams per Community of 10,000 Citizens  
 - ~5 Teams per Microlocality of 1,000 Citizens 
 
-If we imagine a given physical place and time, with 10,000 Citizens, we could imagine that group determining, season by season, quarter by quarter, its most important priorities, challenges, needs, and opportunities... 
+If we imagine a given physical place and time, with 10,000 Citizens, we could imagine that group determining, season by season, quarter by quarter, its most important priorities, challenges, needs, and opportunities...  
 
-...and then the 50 trained, equipped, connected and empowered Teams working together to [[Stack Up And Align]] activities across the community to meet the needs, solve the problems, and accomplish the goals at hand via their time bound, measurable, and aligned [[Quarterly Quests]]. 
+...and then the 50 trained, equipped, connected and empowered Teams working together to [[Stack Up And Align]] activities across the community to meet the needs, solve the problems, and accomplish the goals at hand via their time bound, measurable, and aligned [[Quarterly Quests]].  
 
 ## Implementation Hubs and Fractal Commonsing 
 
-If we imagine the distributed array of 500 [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams in a given population center of 100,000 Citizens, and that there are *100,000 of these population centers around the world*, we can imagine that each team, and each group of team working to serve and empower the surrounding community with be faced with a common set of needs and opportunities, encompassing things such as: 
+If we imagine the distributed array of 500 [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams in a given population center of 100,000 Citizens, and that there are *100,000 of these population centers around the world*, we can imagine that each team, and each group of team working to serve and empower the surrounding community with be faced with a common set of needs and opportunities, encompassing things such as:  
 
 - Community / Social Space  
 - Meeting Space  
@@ -255,7 +255,7 @@ If we imagine the distributed array of 500 [[Self-Governing, Self-Sustaining, an
 - Sporting Space  
 - Concert / Conference Space  
 
-Beyond the Spaces required or aspired, there will be common sets of functional needs, such as: 
+Beyond the Spaces required or aspired, there will be common sets of functional needs, such as:  
 
 - Facilitation and Community Engagement Systems and Expertise  
 - Livings Systems Data and Analysis Systems and Expertise 
@@ -270,34 +270,34 @@ Beyond the Spaces required or aspired, there will be common sets of functional n
 - Relationship Development Systems and Expertise  
 - Research and Development Systems and Expertise  
 
-Additionally, we can imagine that there will be many significantly beneficial tools and technologies that would aid any community that had them, but may be very difficult for Teams of Communities to afford in isolation. 
+Additionally, we can imagine that there will be many significantly beneficial tools and technologies that would aid any community that had them, but may be very difficult for Teams of Communities to afford in isolation.  
 
-We therefore imagine a [[Fractal Commonsing]] approach, where basic necessities like energy production, clean water production, sanitation, major farming and construction tools, additive manufacturing capabilities, learning and wellness tools and facilities, etc. would be housed in locally stewarded [[Commons]] providing equal access to every community of ~100,000 Citizens (or as locally appropriate, wise, right and good). 
+We therefore imagine a [[Fractal Commonsing]] approach, where basic necessities like energy production, clean water production, sanitation, major farming and construction tools, additive manufacturing capabilities, learning and wellness tools and facilities, etc. would be housed in locally stewarded [[Commons]] providing equal access to every community of ~100,000 Citizens (or as locally appropriate, wise, right and good).  
 
 ## The Lionsberg Commons 
 
-Linking the [[Fractal Commonsing]] approach would be a highest order [[Lionsberg Commons]] (variously called [[The Commons]]), that would aggregate the leading wisdom, knowledge, solutions, technologies, templates, and patterns from each Fractal Georegional / Bioregional / Local / Community Commons. 
+Linking the [[Fractal Commonsing]] approach would be a highest order [[Lionsberg Commons]] (variously called [[The Commons]]), that would aggregate the leading wisdom, knowledge, solutions, technologies, templates, and patterns from each Fractal Georegional / Bioregional / Local / Community Commons.  
 
-[[Data, Information, Knowledge, and Wisdom Sovereignty]], like the System as a Whole, is designed to co-operate and self-organize from the bottom up, so that each Individual, Team, and Locality can [[Consciously Choose]] what resources, information, and knowledge they share, with which other fractal levels of organization and analysis. 
+[[Data, Information, Knowledge, and Wisdom Sovereignty]], like the System as a Whole, is designed to co-operate and self-organize from the bottom up, so that each Individual, Team, and Locality can [[Consciously Choose]] what resources, information, and knowledge they share, with which other fractal levels of organization and analysis.  
 
-The best solutions would be reconciled and reconfigured into [[The Prototype]], designed and built as an interoperable [[Kit of Parts]]. 
+The best solutions would be reconciled and reconfigured into [[The Prototype]], designed and built as an interoperable [[Kit of Parts]].  
 
-This approach ensures that any Georegion, Bioregion, or Locality that prioritizes, localizes, and adapts any solution from [[The Prototype]] is co-creating a cohesive and ultimately interoperable node of The Network, while gaining access to the continuous improvement and learnings from all Instantiations across The System as a Whole. 
+This approach ensures that any Georegion, Bioregion, or Locality that prioritizes, localizes, and adapts any solution from [[The Prototype]] is co-creating a cohesive and ultimately interoperable node of The Network, while gaining access to the continuous improvement and learnings from all Instantiations across The System as a Whole.  
 ## Regional, Bioregional, and Local Instantiation Hubs 
 
-If [[The Goal]] requires that we inspire and move [[10 Billion People In 10 Years]], and that a functional federated system addressing all aspects of society such as the one described in [[The Prophesy of Mondragon]] might serve nominally 100,000 people... 
+If [[The Goal]] requires that we inspire and move [[10 Billion People In 10 Years]], and that a functional federated system addressing all aspects of society such as the one described in [[The Prophesy of Mondragon]] might serve nominally 100,000 people...  
 
-...[[Success]] requires co-creating something like 100,000 Interlinked [[Local Instantiation Hubs]] over the next 10 years, with each one serving as a [[Commons]] of core services, tools, technologies, and capabilities for the surrounding community / [[Locality]]. 
+...[[Success]] requires co-creating something like 100,000 Interlinked [[Local Instantiation Hubs]] over the next 10 years, with each one serving as a [[Commons]] of core services, tools, technologies, and capabilities for the surrounding community / [[Locality]].  
 
 These ~100,000 interlinked [[Local Hubs]] would connect and support a network of ~1,000,000 [[Community Hubs]], and would be connected to and supported by a network of ~150 to 200 [[Bioregional Hubs]], which in turn would be connected to and supported by a network of 12 to 24 [[Georegional Hubs]].    
 
-The [[Bioregional Hubs]] would house more major capabilities such as chip / semiconductor manufacturing, spacefaring activities, larger scale energy generation and exchange, etc., and would therefore likely be in the range of $10 to $20 Billion. 
+The [[Bioregional Hubs]] would house more major capabilities such as chip / semiconductor manufacturing, spacefaring activities, larger scale energy generation and exchange, etc., and would therefore likely be in the range of $10 to $20 Billion.  
 
-The [[Georegional Hubs]] would need to ensure full interoperability and freedom of ecosystemic resource flows across all [[Bioregional Hubs]] and [[Local Hubs]], as well as hosting the most advanced technological and manufacturing operations being conducted by the human species. The estimated cost for these hubs is likely an order of magnitude higher, in the range of $100 Billion to $200 Billion per Georegion. 
+The [[Georegional Hubs]] would need to ensure full interoperability and freedom of ecosystemic resource flows across all [[Bioregional Hubs]] and [[Local Hubs]], as well as hosting the most advanced technological and manufacturing operations being conducted by the human species. The estimated cost for these hubs is likely an order of magnitude higher, in the range of $100 Billion to $200 Billion per Georegion.  
 
-Assuming the nominal budgets per hub below, the design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion to ~$20 Trillion depending on how much existing infrastructure and built environment can be repurposed and incorporated into the network. 
+Assuming the nominal budgets per hub below, the design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion to ~$20 Trillion depending on how much existing infrastructure and built environment can be repurposed and incorporated into the network.  
 
-Budgets include the resources to network and interconnect the hubs, and will be continuously refined as [[The Prototype]] is continuously improved. 
+Budgets include the resources to network and interconnect the hubs, and will be continuously refined as [[The Prototype]] is continuously improved.  
 
 - 1 [[Core Hub]] x $500 Billion 
 - 12 to 24 [[Georegional Hubs]] x $100 Billion to $200 Billion = $2 Trillion to $4 Trillion  
@@ -310,7 +310,7 @@ Budgets include the resources to network and interconnect the hubs, and will be 
 
 ## Financing The Instantiation Hubs During The 10 Year Grand Strategy - Swords to Ploughshares 
 
-Assuming humanity is presently spending ~$2.4 Trillion / Year on military and defense spending (likely a significant underestimate), and that military and defense costs would rise at a nominal rate of 5% / year due to inflation and the WWIII that is breaking out, military and defense spending would be approximately as follows: 
+Assuming humanity is presently spending ~$2.4 Trillion / Year on military and defense spending (likely a significant underestimate), and that military and defense costs would rise at a nominal rate of 5% / year due to inflation and the WWIII that is breaking out, military and defense spending would be approximately as follows:  
 
 - 2024 - $2.4 Trillion  
 - 2025 - $2.52 Trillion 
@@ -323,13 +323,13 @@ Assuming humanity is presently spending ~$2.4 Trillion / Year on military and de
 - 2032 - $3.55 Trillion 
 - 2033 - $3.72 Trillion 
 
-Total 10 year anticipated military and defense spending (default trajectory)
+Total 10 year anticipated military and defense spending (default trajectory)  
 
 - *$30.19 Trillion*
 
-To accomplish the $10 to $15 Trillion implementation of the [[New Vision and Plan]] and the [[New Human Operating System]], we propose that the Citizens of the world agree to redirect 10% of the resources flowing to military and defense purposes towards the implementation of the [[New Vision and Plan]] starting in 2025, and increasing by 10% each year. 
+To accomplish the $10 to $15 Trillion implementation of the [[New Vision and Plan]] and the [[New Human Operating System]], we propose that the Citizens of the world agree to redirect 10% of the resources flowing to military and defense purposes towards the implementation of the [[New Vision and Plan]] starting in 2025, and increasing by 10% each year.  
 
-Revised military and defense resource flows would then be as follows, with a wise, responsible, and balanced redirected of resources occurring in a phased manner, simultaneously around the world. 
+Revised military and defense resource flows would then be as follows, with a wise, responsible, and balanced redirected of resources occurring in a phased manner, simultaneously around the world.  
 
 - 2024 - $2.4 Trillion (assume budgets already set, political will lacking) 
 - 2025 - $2.27 Trillion - 90% of planned total 
@@ -342,107 +342,107 @@ Revised military and defense resource flows would then be as follows, with a wis
 - 2032 - $0.71 Trillion - 20% of planned total 
 - 2033 - $0.37 Trillion - 10% of planned total  
 
-Total 10 year anticipated military and defense spending ([[New Vision and Plan]])
+Total 10 year anticipated military and defense spending ([[New Vision and Plan]])  
 
 - *$12.99 Trillion*
 
-This single redirection of funds [[FROM Weaponry TO Livingry]] frees up $17 Trillion to accomplish the ~$15 Trillion [[New Vision and Plan]], with a 13.3% Contingency. 
+This single redirection of funds [[FROM Weaponry TO Livingry]] frees up $17 Trillion to accomplish the ~$15 Trillion [[New Vision and Plan]], with a 13.3% Contingency.  
 
-Note that this can be accomplished without dismantling the militaries, by simply training and deploying the existing forces and resources to co-create rather than destroy using a decentralized [[Team of Teams]] approach. 
+Note that this can be accomplished without dismantling the militaries, by simply training and deploying the existing forces and resources to co-create rather than destroy using a decentralized [[Team of Teams]] approach.  
 
 Beyond the military transition, there is already $500 Billion + / year of annual philanthropic flows that can be gradually redirected towards the [[Critical Path]].  
 
-Additionally, there is $100 Billion + present in the Community Foundations network that could be leveraged to build [[Local Hubs]], [[Community Hubs]], and the [[Regenerative Underwriting, Resourcing and Insurance]] mechanisms. 
+Additionally, there is $100 Billion + present in the Community Foundations network that could be leveraged to build [[Local Hubs]], [[Community Hubs]], and the [[Regenerative Underwriting, Resourcing and Insurance]] mechanisms.  
 
-Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource "government" to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).
+Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource "government" to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).  
 
-This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]]. 
+This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]].  
 
-The [[LIONSBERG System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).
+The [[LIONSBERG System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).  
 
-Beyond the ~30% of global GDP being allocated to government waste, there likely exists another 30%+ of global GDP that is being allocated to economic waste (another $30 Trillion / Year), that could also be redirected towards the [[Critical Chain]]. 
+Beyond the ~30% of global GDP being allocated to government waste, there likely exists another 30%+ of global GDP that is being allocated to economic waste (another $30 Trillion / Year), that could also be redirected towards the [[Critical Chain]].  
 
-It thus becomes apparent that the savings of *a single year of government waste* could finance the co-creation of the decentralized, self-governing, and self-sustaining hubs that enable humanity to flourish and usher in the [[New Era]]. 
+It thus becomes apparent that the savings of *a single year of government waste* could finance the co-creation of the decentralized, self-governing, and self-sustaining hubs that enable humanity to flourish and usher in the [[New Era]].  
 
-Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]]. 
+Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]].  
 
-These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[LIONSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered. 
+These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[LIONSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered.  
 
-As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIONSBERG System]], after which it should be essentially self-funding and self-sustaining. 
+As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIONSBERG System]], after which it should be essentially self-funding and self-sustaining.  
 
-**Achieving this milestone merely requires more efficiently allocating *less than 1% of existing philanthropic capital flows* that are currently funding [[Waste]].** 
+**Achieving this milestone merely requires more efficiently allocating *less than 1% of existing philanthropic capital flows* that are currently funding [[Waste]].**  
 
-This very elementary analysis of how we can afford the entire $15 Trillion Grand Strategy / [[New Vision and Plan]] illustrates the ridiculous point that for less than 1/2 of what we are currently on track to spend to wage WWIII and risk destroying 2/3 to 3/4 of the human population over the coming years, and for less *a single year of government waste*, we could take back up responsibility and authority over our lives and our world, embody and enact the [[New Covenant]], beat our swords into tools of life, and co-create [[A Future For All That Is Better Than Any Has Enjoyed In The Past]]. 
+This very elementary analysis of how we can afford the entire $15 Trillion Grand Strategy / [[New Vision and Plan]] illustrates the ridiculous point that for less than 1/2 of what we are currently on track to spend to wage WWIII and risk destroying 2/3 to 3/4 of the human population over the coming years, and for less *a single year of government waste*, we could take back up responsibility and authority over our lives and our world, embody and enact the [[New Covenant]], beat our swords into tools of life, and co-create [[A Future For All That Is Better Than Any Has Enjoyed In The Past]].  
 
-All it requires is enough people [[Believing It Is Possible]], Joining The Movement, and taking up their equal [[New Citizenship]] in the [[New Covenant]] and [[New World]] we are embodying, enacting, and co-creating. 
+All it requires is enough people [[Believing It Is Possible]], Joining The Movement, and taking up their equal [[New Citizenship]] in the [[New Covenant]] and [[New World]] we are embodying, enacting, and co-creating.  
 
 ## Bioregional, Local, and Neighborhood Vision, Values, Strategy, Planning, and Quests 
 
-Recognizing that the Vision, Values, Strategy, Plans and Implementation for any [[SpatioTemporal Domain]] must arise from within that [[Domain]], we will expand upon the success of previous bioregional and local envisioning and planning processes. 
+Recognizing that the Vision, Values, Strategy, Plans and Implementation for any [[SpatioTemporal Domain]] must arise from within that [[Domain]], we will expand upon the success of previous bioregional and local envisioning and planning processes.  
 
-In the face of the [[Meta Crisis]], we will want to ensure that every Domain (Individual, Family, Neighborhood, Community, Locality, Bioregion, Tribe, etc.) has a [[Vision, Strategy, and Plan]], and that those strategies and plans ultimately interoperate in the event of any full or partial [[Collapse]] of the [[Existing Order]]. 
+In the face of the [[Meta Crisis]], we will want to ensure that every Domain (Individual, Family, Neighborhood, Community, Locality, Bioregion, Tribe, etc.) has a [[Vision, Strategy, and Plan]], and that those strategies and plans ultimately interoperate in the event of any full or partial [[Collapse]] of the [[Existing Order]].  
 
-This [[Local Planning Process]] reciprocates with the [[All In One]] [[System Wide Master Planning Process]]. 
+This [[Local Planning Process]] reciprocates with the [[All In One]] [[System Wide Master Planning Process]].  
 
-[[Local Plans]] are surfaced and forged in response to [[The Right Questions]], that illuminate the Spirit and Values of a person, group, or place. 
+[[Local Plans]] are surfaced and forged in response to [[The Right Questions]], that illuminate the Spirit and Values of a person, group, or place.  
 
-[[Local Plans]] become the basis for the [[Local Quests]] that fuel [[The Movement]] towards [[The Goal]]. 
+[[Local Plans]] become the basis for the [[Local Quests]] that fuel [[The Movement]] towards [[The Goal]].  
 
-The Process of envisioning, designing, and building the [[Best Possible Future]] in each [[SpatioTemporal Domain]] will require broadly distributed training and guidance. 
+The Process of envisioning, designing, and building the [[Best Possible Future]] in each [[SpatioTemporal Domain]] will require broadly distributed training and guidance.  
 
-As a starting point, we plan to train 15,000 [[Facilitators]] as the start of a [[Train The Trainer]] / [[Each One Teach One]] approach that will begin spreading through [[The First Three Percent]]. 
+As a starting point, we plan to train 15,000 [[Facilitators]] as the start of a [[Train The Trainer]] / [[Each One Teach One]] approach that will begin spreading through [[The First Three Percent]].  
 
-As [[Local Quests]] are undertaken and begin to succeed, the [[Stories of Transformation]] we tell fuel the [[Resourcing and Engagement Flywheel]], and [[Every Story Is A Prophesy]] of [[Ever Greater Things]] to come. 
+As [[Local Quests]] are undertaken and begin to succeed, the [[Stories of Transformation]] we tell fuel the [[Resourcing and Engagement Flywheel]], and [[Every Story Is A Prophesy]] of [[Ever Greater Things]] to come.  
 
-[[Local Quests]] will be undertaken by [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams, each of which will be faced with a common set of [[General Needs, Issues, and Aspirations]]. In response, [[Guilds]], Services, and Support will emerge in [[The Commons]] to help [[Teams]] meet the needs, solve the issues, and accomplish the goals at hand. 
+[[Local Quests]] will be undertaken by [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams, each of which will be faced with a common set of [[General Needs, Issues, and Aspirations]]. In response, [[Guilds]], Services, and Support will emerge in [[The Commons]] to help [[Teams]] meet the needs, solve the issues, and accomplish the goals at hand.  
 
-In each [[Domain]], the approach to Vision, Strategy, and Planning should balance the emergence of [[Consensus]] from the [[Bottom Up]] with the visionary [[Leadership]] required to forge a System Wide Master Plan that encompasses each of the [[Levels of Analysis]]. 
+In each [[Domain]], the approach to Vision, Strategy, and Planning should balance the emergence of [[Consensus]] from the [[Bottom Up]] with the visionary [[Leadership]] required to forge a System Wide Master Plan that encompasses each of the [[Levels of Analysis]].  
 
-This balance can be approached by identifying, connecting, and empowering [[The First Three Percent]] of the [[Wise Right Leaders]] in any [[Domain]], and training and equipping them to [[Succeed]]. 
+This balance can be approached by identifying, connecting, and empowering [[The First Three Percent]] of the [[Wise Right Leaders]] in any [[Domain]], and training and equipping them to [[Succeed]].  
 
-We may discover that the [[Neighborhood]] is a good level of analysis to begin with, with local leaders then empowering individuals and families as [[Sub Systems]] and communities and bioregions as [[Super Systems]]. 
+We may discover that the [[Neighborhood]] is a good level of analysis to begin with, with local leaders then empowering individuals and families as [[Sub Systems]] and communities and bioregions as [[Super Systems]].  
 
 ## Fractal Self Governance 
 
- Each [[SpatioTemporal Domain]] is trained on the new system of governance and decision making that families, neighborhoods, communities, bioregions, georegions and Beyond can co-operate indefinitely into the future. 
+ Each [[SpatioTemporal Domain]] is trained on the new system of governance and decision making that families, neighborhoods, communities, bioregions, georegions and Beyond can co-operate indefinitely into the future.  
 
 ## Existing Systems of Governance 
 
-In each SpatioTemporal Domain (200 Nation States, 1,000 of sub-states, millions of Counties, Cities, Villages, School Boards, etc.) we forge Vision, Strategy, and Plans of Action around the progressive elevation, alignment, and transformation of the existing systems of governance.
+In each SpatioTemporal Domain (200 Nation States, 1,000 of sub-states, millions of Counties, Cities, Villages, School Boards, etc.) we forge Vision, Strategy, and Plans of Action around the progressive elevation, alignment, and transformation of the existing systems of governance.  
 
-This can be aided by monitoring the [[Lionsberg Cycles of Growth]] in each Domain, from [[The First Three Percent]], through 13%, through 70% etc. alongside the [[Local Election Cycles]]. 
+This can be aided by monitoring the [[Lionsberg Cycles of Growth]] in each Domain, from [[The First Three Percent]], through 13%, through 70% etc. alongside the [[Local Election Cycles]].  
 
-Ultimately, as we cross 70% to 80% adoption of the [[New Paradigm]] in a given domain, we gain access to deeper levers such as [[Constitutional Amendments]]. 
+Ultimately, as we cross 70% to 80% adoption of the [[New Paradigm]] in a given domain, we gain access to deeper levers such as [[Constitutional Amendments]].  
 
 ## The 7 Year Window, and the 3 Year Lag 
 
-The [[10 Year Grand Strategy]] is composed of [[The 7 Year Window of Crisis and Opportunity]], during which we will invite [[All Humanity]] to [[Join The Movement]]...
+The [[10 Year Grand Strategy]] is composed of [[The 7 Year Window of Crisis and Opportunity]], during which we will invite [[All Humanity]] to [[Join The Movement]]...  
 
-...and [[The 3 Year Lag]], which is the approximate amount of time it will take for each of us to heal, learn, reorient, and feel truly connected, empowered, and supported as an equal member and Citizen in the [[New World]]. 
+...and [[The 3 Year Lag]], which is the approximate amount of time it will take for each of us to heal, learn, reorient, and feel truly connected, empowered, and supported as an equal member and Citizen in the [[New World]].  
 
-Every Individual who Joins The Movement will be invited to set their feet on a path of healing, growth, development, and co-creation via [[The LIONSBERG Experience]]. After approximately 3 years and the successful completion of all orientation and onboarding requirements, and successfully demonstrating their commitment to embodying and enacting the Spirit and Values of the [[New Vision and Plan]], each individual will earn their [[New Citizenship]]. 
+Every Individual who Joins The Movement will be invited to set their feet on a path of healing, growth, development, and co-creation via [[The LIONSBERG Experience]]. After approximately 3 years and the successful completion of all orientation and onboarding requirements, and successfully demonstrating their commitment to embodying and enacting the Spirit and Values of the [[New Vision and Plan]], each individual will earn their [[New Citizenship]].  
 
-The youth of Earth will be invited to begin [[The LIONSBERG Experience]] when they turn 15 years old, such that they graduate into their [[New Citizenship]] at 18 years old. 
+The youth of Earth will be invited to begin [[The LIONSBERG Experience]] when they turn 15 years old, such that they graduate into their [[New Citizenship]] at 18 years old.  
 
-This enables the Orientation and Onboarding into the New Pattern Language to continue indefinitely into the future, ensuring that every child born is fully connected, prepared, and empowered for positive participation, self-governance, and co-creation in the [[New Era]]. 
+This enables the Orientation and Onboarding into the New Pattern Language to continue indefinitely into the future, ensuring that every child born is fully connected, prepared, and empowered for positive participation, self-governance, and co-creation in the [[New Era]].  
 ## Why A Named System? Why Not Merely A Pattern, Coupled With Templates and Tools? 
 
-The last issue to address is [[Why Lionsberg?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement? 
+The last issue to address is [[Why Lionsberg?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement?  
 
-In short, the One Thing that makes this possible is Unity. Without Unity, the Diverse Parts of the Body cannot co-operate and co-create as One. 
+In short, the One Thing that makes this possible is Unity. Without Unity, the Diverse Parts of the Body cannot co-operate and co-create as One.  
 
-Without a single Unifying Vision, System, and Goal, there is no possible way that we can avoid further fragmenting and fracturing our attention and interactions, especially as the systems and structures of the [[Old World]] increasingly shake, and in some cases fail, throughout [[The 7 Year Window of Crisis and Opportunity]]. 
+Without a single Unifying Vision, System, and Goal, there is no possible way that we can avoid further fragmenting and fracturing our attention and interactions, especially as the systems and structures of the [[Old World]] increasingly shake, and in some cases fail, throughout [[The 7 Year Window of Crisis and Opportunity]].  
 
-An additional issue is the consideration of Time. None of us know how long [[The Window]] to avoid [[Collapse]], [[Chaos]], and [[Tyranny]] will remain open. 
+An additional issue is the consideration of Time. None of us know how long [[The Window]] to avoid [[Collapse]], [[Chaos]], and [[Tyranny]] will remain open.  
 
-My [[Current Best Understanding]] is that it would take at least 5 years and $50 Million to recreate the [[Starting Point]] we forged through [[The 7 Year Window of Preparatory Work and Learning]]. Which means that I actually don't think it could be recreated, since [[The Window]] will likely close before that time. 
+My [[Current Best Understanding]] is that it would take at least 5 years and $50 Million to recreate the [[Starting Point]] we forged through [[The 7 Year Window of Preparatory Work and Learning]]. Which means that I actually don't think it could be recreated, since [[The Window]] will likely close before that time.  
 
-I have sacrificed all my former wealth and security, and am acting as if I believe everything is at stake, for everyone, and that the only way I can keep my loved ones safe is if we land humanity and our planet towards a safe trajectory towards the [[Best Possible Future]] for [[All]].  For the first time in history, it is possible, and everything we could ever need is at hand. 
+I have sacrificed all my former wealth and security, and am acting as if I believe everything is at stake, for everyone, and that the only way I can keep my loved ones safe is if we land humanity and our planet towards a safe trajectory towards the [[Best Possible Future]] for [[All]].  For the first time in history, it is possible, and everything we could ever need is at hand.  
 
-I invite you to Join Us for the opportunity and adventure of a lifetime. 
+I invite you to Join Us for the opportunity and adventure of a lifetime.  
 ## Details - 100 Steps Towards The Promised Land  
 
-Below is a growing list of steps we are taking to reach [[The Promised Land]]. 
+Below is a growing list of steps we are taking to reach [[The Promised Land]].  
 ### A Shift of Spirit, Consciousness, and Paradigm  
 
 1. We recognize that the [[Meta Crisis]] cannot be solved by the same [[Level of Consciousness]] that is co-creating it.  
@@ -472,30 +472,30 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	5. Harmonics  
 	6. Sounds  
 	7. Wavelengths  
-	8. Continually flowing and transforming 
+	8. Continually flowing and transforming  
 8. We remember that We are part of the [[Living System]], and not separate or distinct from it  
 9. We rediscover our Role as human beings in Universe  
 10. Resources 
-	1. Buckminster Fuller 
-	2. James Webb Space Telescope 
-	3. SETI 
-	4. NASA 
+	1. Buckminster Fuller  
+	2. James Webb Space Telescope  
+	3. SETI  
+	4. NASA  
 	5. NOAA  
-	6. EAMES Powers of 10 
-	7. Forsight Institute 
+	6. EAMES Powers of 10  
+	7. Forsight Institute  
 	8. Biomimicry  
-	9. Spatial Web 
+	9. Spatial Web  
 
 ### Human Beings 
 
 1. We understand that human beings are microcosms of the macrocosm of Universe  
 2. We understand that all humans are related   
-	1. Genetics / AI 
+	1. Genetics / AI  
 3. We understand that all life is related as one interconnected / interdependent / interexistent family 
 4. We reeducate our Selves on physical, cultural, and cognitive differences  
 	1. And we celebrate and embrace our [[Diversity]]  
 5. We understand the implications of our [[Ultimate Interrelationship]] and [[Ultimate Interexistence]]  
-	1. Harmony, Coherence, Alignment, and Flow throughout the Living System is key 
+	1. Harmony, Coherence, Alignment, and Flow throughout the Living System is key  
 	2. Collaboration trumps Competition  
 	3. Conflict / War is Omnicide  
 6. We recognize that every being is unique, and capable of living primarily from the Spiritual / Metaphysical Realm in [[Flow]] and service to the [[Highest Intention and Greatest Good]]
@@ -710,7 +710,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We transform to a [[New Paradigm]] of [[Nature Based]] / Regenerative / Biomimicry Based / [[Comprehensive Anticipatory Design Science]] Based solutions and designs at both local and planetary scale  
 3. We recognize that the Wisdom, Knowledge, Solutions and Technologies developed throughout history are [[Our Collective Inheritance]], and we liberate them from their captivity to [[The Giants]]    
 4. We curate together, celebrate, and cross-pollinate the best regenerative solutions and designs from around the world  
-		1. For example, the many identified in places such as [[Above The Chaos, Breakthrough With George Orbelian]] 
+		1. For example, the many identified in places such as [[Above The Chaos, Breakthrough With George Orbelian]]  
 5. We integrate the leading solutions into a coherent Solution Set / Kit of Parts via [[The Prototype]] housed in [[The Commons]]   
 6. We design and build regeneratively 
 7. We design and build with Quality and Endurance  
@@ -724,7 +724,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	1. [[Above The Chaos, Breakthrough With George Orbelian]]  
 	2. [r3.0](https://www.r3-0.org)  
 	3. At One Ventures  
-	4. etc. etc. 
+	4. etc. etc.  
 
 ### Fractal Offers and Requests Marketplaces 
 
@@ -759,7 +759,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### The New Social Network 
 
 1. We create a [[New]], non-extractive [[Social Network]] that enables: 
-	1. Keepers of wisdom, insights, knowledge, and experiences to communicate securely and privately, while voluntarily sharing across different nodes of the network, or publicly as appropriate 
+	1. Keepers of wisdom, insights, knowledge, and experiences to communicate securely and privately, while voluntarily sharing across different nodes of the network, or publicly as appropriate  
 
 ### The New Wisdom and Intelligence Network 
 
@@ -787,8 +787,8 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 3. Domes as tools to visualize living systems and empower optimal understanding, decision making and collaboration 
 4. Enabling gamified scenario-based strategy and planning, to inform decision making, policy, and practice. 
 5. Resources  
-	1. Evans and Sullivan Domes -  [https://www.es.com/](https://www.es.com/)
-	2. (California Academy of Sciences)
+	1. Evans and Sullivan Domes -  [https://www.es.com/](https://www.es.com/)  
+	2. (California Academy of Sciences)  
 	3. Co-creators behind Vegas Sphere technology...  
 ### Policies, Standards and Codes 
 
@@ -817,16 +817,16 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. We resist the urge of small groups to [[Abdicate Responsibility]], sell out and get rich at the expense of The Whole  
 3. We design and build for multi-generational, ecosystemic, federated co-creation of Value 
 4. We establish a System, Process, and Flow for connecting and integrating millions of non-profits, for-profits, and assets of various kinds into [[The Ecosystem]]   
-	1. [[List of Companies That Have Sold Out to The Giants]]
+	1. [[List of Companies That Have Sold Out to The Giants]]  
 ### The Voice of Nature  
 
 1. We learn to listen to [[The Voice of Nature]]  
 2. We honor and align our Selves with the [[Living System]] we are a part of  
 3. We learn how to prioritize and listen to the most important and silent aspects of our [[Living System]]  
-	1. The Amazon 
-	2. The Arctic 
+	1. The Amazon  
+	2. The Arctic  
 	3. The Oceans  
-	4. Etc. 
+	4. Etc.  
 
 ### The Wisdom of Nature 
 
@@ -846,11 +846,11 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 1. We transform our landfills, waste streams, and existing [[Materiality]] into the primary mines for the raw materials and inputs required by our [[Supply Chains]]   
 2. We consider every photon we are blessed with receiving, and its transformation into flourishing and abundant [[Life]] and [[Materiality]] 
-	1. [[Above The Chaos, Materiality]] 
+	1. [[Above The Chaos, Materiality]]  
 3. We optimize diversified energy and nutrient flows throughout the [[Living System]] to create and abundant matter and life  
 4. We trace the circular economy from inception via bioregional [[Time-Energy Accounting]]  
 5. Resources 
-	1. David Blume 
+	1. David Blume  
 ### Solutions Brokerage / Matchmaking  
 
 1. We recognize that every Individual, Group, and Locality will be facing a set of [[General Needs, Issues, and Aspirations]] shared in common, which can be met with [[General Solutions]] in [[The Prototype]] / [[The Commons]], constructed as an interoperable [[Kit of Parts]] that can be poly-centrically localized and adapted as a [[Pattern Language]].  
@@ -873,11 +873,11 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. By [[Elevating and Transforming Our Lives and Our World]] fractally and relatively simultaneously around the world, starting with our own lives, families, communities, and bioregions, we unleash a exponential tsunami of [[Cascading Benefits]]  
 3. By connecting and empowering leaders and solutionaries around the world through the [[LIONSBERG System]], we unleash a simultaneous and non-linear emergence across the vast array of action and integration domains 
 4. We establish learning and feedback loops that empower the most powerful living, learning, adapting [[Research and Development (R&D)]] infrastructure in the history of life on Earth  
-	1. A planetary Research and Development Network that shares and cross-pollinates best practices, wisdom, solutions, and knowledge 
+	1. A planetary Research and Development Network that shares and cross-pollinates best practices, wisdom, solutions, and knowledge  
 	2. That empowers and informs The Whole / The Commons of geolocated and contextualized developments / trends / emerging patterns and solutions.  
-	3. Rapidly cross-pollinating the breakthroughs in local and collective flow unleashed by our emerging co-creativity 
-	4. Unleashing the exponential evolution of cascading benefits inherent to natural / biomimetic systems that align incentives with objectives to promote planetary scale regeneration, flourishing, and abundance 
-		1. For example https://tracxn.com 
+	3. Rapidly cross-pollinating the breakthroughs in local and collective flow unleashed by our emerging co-creativity  
+	4. Unleashing the exponential evolution of cascading benefits inherent to natural / biomimetic systems that align incentives with objectives to promote planetary scale regeneration, flourishing, and abundance  
+		1. For example https://tracxn.com  
 5. We co-create and curate leading innovative technologies to track the advances and cross-pollinations of innovations and breakthroughs 
 6. Resources 
 	1. [Regeneration.org Cascading Solutions](https://regeneration.org/solutions)  
@@ -887,7 +887,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 1. We take back up [[Responsibility and Authority]] over the [[Domains of Responsibility and Authority]] we have been entrusted with stewarding and influencing 
 	1. The Core Functions of Life and Society  
-	2. Our Selves 
+	2. Our Selves  
 	3. Our Families  
 	4. Our Groups and Teams  
 	5. Our Organizations  
@@ -897,7 +897,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	9. Our Tribes  
 	10. Our Nations  
 	11. Our World  
-	12. Our Solar System
+	12. Our Solar System  
 	13. Our Long Term Journey Beyond This Life and Star System  
 ### Citizen Led Society 
 
@@ -916,16 +916,16 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	10. Cleanup of Landfills, Toxic Waste, and Military Facilities   
 	11. Energy  
 	12. Transportation  
-	13. Clean Water 
+	13. Clean Water  
 	14. Shelter  
-	15. Infrastructure Investment, Maintenance, and Upcycling 
-	16. etc. 
+	15. Infrastructure Investment, Maintenance, and Upcycling  
+	16. etc.  
 
 ### We First Do Not Harm 
 
 1. As we intervene in complex natural and social systems beyond our comprehension, we strive to act with Wisdom and Integrity, and [[First, Do No Harm]]  
 2. We identify, perform root cause analysis, and stop harm, toxicity and pollution of all kinds at their source   
-	1. We prioritize our efforts by [[Pareto Analysis]], repeatedly identifying the 10% to 20% of sources causing 80% to 90% of the outcomes, and forthrightly addressing them
+	1. We prioritize our efforts by [[Pareto Analysis]], repeatedly identifying the 10% to 20% of sources causing 80% to 90% of the outcomes, and forthrightly addressing them  
 		1. For example, identifying the 10% to 20% of rivers generating 80% to 90% of lake and ocean pollution, and the 10% to 20% of sources causing 80% to 90% of the pollution in those rivers   
 3. We remove our energy, attention, and resources from systems that are causing harm, toxicity, or pollution  
 
@@ -933,71 +933,71 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 1. We forge a [[Total Nested Hierarchy of Issues]]  
 2. We identify and prioritize the [[Existential Threats]] 
-	1. [[Collapse]] 
-	2. [[Pollution]] - Valuable chemicals and compounds in the wrong places 
-		1. Carbon 
-		2. Methane 
-		3. Industrial Waste 
-	3. [[Water]] - poisoning of our lifeblood 
-		1. Underwater munitions 
+	1. [[Collapse]]  
+	2. [[Pollution]] - Valuable chemicals and compounds in the wrong places  
+		1. Carbon  
+		2. Methane  
+		3. Industrial Waste  
+	3. [[Water]] - poisoning of our lifeblood  
+		1. Underwater munitions  
 		2. Fukushima (requires investigation)  
-		3. Military installations 
-		4. Industrial installations 
-		5. Groundwater 
-	4. Deforestation 
-	5. Ocean Acidification 
+		3. Military installations  
+		4. Industrial installations  
+		5. Groundwater  
+	4. Deforestation  
+	5. Ocean Acidification  
 	6. Biodiversity Loss  
-	7. Microbiome Destruction 
-	8. Pandemic 
-		1. Food Systems 
-		2. Mass Migration 
-		3. War 
-		4. Environmental Degeneration 
-		5. [[Gain of Function Research]] 
-	9. War 
-		1. AI 
-		2. Nuclear 
-		3. Energy / Communications / Supply Chain / Food Systems Collapse 
-	10. Antibiotic Resistance 
-	11. Resource Depletion 
-		1. Fresh, Clean Water 
-		2. Arable Land 
-		3. Minerals 
+	7. Microbiome Destruction  
+	8. Pandemic  
+		1. Food Systems  
+		2. Mass Migration  
+		3. War  
+		4. Environmental Degeneration  
+		5. [[Gain of Function Research]]  
+	9. War  
+		1. AI  
+		2. Nuclear  
+		3. Energy / Communications / Supply Chain / Food Systems Collapse  
+	10. Antibiotic Resistance  
+	11. Resource Depletion  
+		1. Fresh, Clean Water  
+		2. Arable Land  
+		3. Minerals  
 	12. Artificial Intelligence  
-	13. Cybersecurity / Grid Security 
-		1. Critical Infrastructure 
-		2. Financial Infrastructure 
-		3. Information Infrastructure 
-	14. Political Instability 
-		1. Political Polarization 
-		2. Anarchy / Authoritarianism 
-		3. Failed States 
-	15. Economic Collapse 
-		1. Debt-Based Fiat Monetary Systems 
-		2. Debt 
-		3. Socioeconomic Inequality 
-		4. Opportunity Gap 
-		5. AI + Robotics Replace 2/3 of Jobs 
-		6. Social Unrest 
-	16. Food Prices and Availability 
-		1. Degenerative Agriculture Practices 
-		2. Soil Degradation 
-		3. Chemical Fertilizers and Pesticides 
-	17. Mass Migration 
-		1. Cultural Strain 
-		2. Socioeconomic Strain 
-		3. Pandemics / Disease 
-		4. Conflict 
-		5. Democratic Process 
-	18. Psychological Stability 
-		1. Individual 
-		2. Family 
+	13. Cybersecurity / Grid Security  
+		1. Critical Infrastructure  
+		2. Financial Infrastructure  
+		3. Information Infrastructure  
+	14. Political Instability  
+		1. Political Polarization  
+		2. Anarchy / Authoritarianism  
+		3. Failed States  
+	15. Economic Collapse  
+		1. Debt-Based Fiat Monetary Systems  
+		2. Debt  
+		3. Socioeconomic Inequality  
+		4. Opportunity Gap  
+		5. AI + Robotics Replace 2/3 of Jobs  
+		6. Social Unrest  
+	16. Food Prices and Availability  
+		1. Degenerative Agriculture Practices  
+		2. Soil Degradation  
+		3. Chemical Fertilizers and Pesticides  
+	17. Mass Migration  
+		1. Cultural Strain  
+		2. Socioeconomic Strain  
+		3. Pandemics / Disease  
+		4. Conflict  
+		5. Democratic Process  
+	18. Psychological Stability  
+		1. Individual  
+		2. Family  
 		3. Collective  
-	19. Religious and Ideological Extremism 
-	20. Terrorism and the [[Progressive Ephemeralization]] of superweapons 
+	19. Religious and Ideological Extremism  
+	20. Terrorism and the [[Progressive Ephemeralization]] of superweapons  
 	21. Weaponized Propaganda and [[Anti-Truth]]  
-	22. Biotechnology 
-	23. The Giants 
+	22. Biotechnology  
+	23. The Giants  
 
 ### We Heal and Clean Up The Mess 
 
@@ -1010,21 +1010,21 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	2. Groundwater Pollution  
 	3. Superfund Sites  
 6. We clean up environmental toxins and pollution using plasma technologies, transmutation of the (elements / compounds), and other solutions 
-	1. Eddie Leung and Amoterra - transmutation of elements and clean-up of nuclear waste 
-		1. [[AmoTerra]] - 
+	1. Eddie Leung and Amoterra - transmutation of elements and clean-up of nuclear waste  
+		1. [[AmoTerra]] -  
 			1. [Integrated Waste Solutions Article](https://www.prnewswire.com/news-releases/the-first-integrated-solution-for-waste-management-to-be-built-in-hungary-with-co-funding-from-the-european-union-583598991.html)  
 			2. [From Waste To Wealth](https://fromwastetowealth.com/)  
 			3. [Photo Razor Video]((https://www.youtube.com/watch?v=XrY3BUnn9H4)  
 			4. [Baseline Service For Energy Infrastructure Project](https://fromwastetowealth.com/baseline-service-for-energy-infrastructure-project/)  
-	2. Valentine 
-	3. John Deneen 
+	2. Valentine  
+	3. John Deneen  
 	4. James W. Porter  
-	5. Terrance Patrick Long 
+	5. Terrance Patrick Long  
 	6. Joseph Cerecedes  
-	7. Forrist Lytehausse 
+	7. Forrist Lytehausse  
 7. We release and recycle everything that does not spark joy 
 	1. https://konmari.com/marie-kondo-rules-of-tidying-sparks-joy/  
-	2. [The 6 Rules of Tidying](https://konmari.com/category/marie-kondo-six-rules-of-tidying/)
+	2. [The 6 Rules of Tidying](https://konmari.com/category/marie-kondo-six-rules-of-tidying/)  
 
 ### We Heal Our Selves 
 
@@ -1056,7 +1056,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### Disaster Preparedness and Response, and Local / Collective Resilience 
 
-Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal Location]]s, we: 
+Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal Location]]s, we:  
 
 1. Build disaster preparedness, resilience, and ideally [[Anti-Fragility]] into everything we do.  
 2. Employ comprehensive anticipatory design science to anticipate and mitigate local and planetary disasters by forging social and ecological solutions that build in disaster preparedness, continuity of operations, community resiliency and economic stability.  
@@ -1064,14 +1064,14 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 4. Integrate disaster preparedness into all aspects of our existence  
 5. Rapidly empower communities to develop local resilience and disaster recovery plans  
 6. Develop a standardized system and approach to enable interoperable response, recovery, and restoration co-operations anywhere on the planet to restore Flow as efficiently and effectively as possible in response to: 
-	1. Flood 
-	2. Fire 
-	3. Drought 
-	4. Earthquake 
-	5. Tornado 
-	6. Hurricane 
-	7. Typhoon 
-	8. Volcanic Eruptions 
+	1. Flood  
+	2. Fire  
+	3. Drought  
+	4. Earthquake  
+	5. Tornado  
+	6. Hurricane  
+	7. Typhoon  
+	8. Volcanic Eruptions  
 	9. Extreme Weather  
 	10. Social Upheaval  
 7. We rapidly empower communities and bioregions to relocalize regenerative supply chains 
@@ -1084,26 +1084,26 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	1. Interoperable Modular components  
 	2. Geodesic design  
 	3. Interoperable data / information acquisition and transmission  
-	4. Provides Water / Food / Shelter 
-	5. Transmutes Waste 
-	6. Create a design for a standardized lifeguard training tower and toilet / waste comfort station that will be a data center that global Ocean nomads can drop in and work, study, sleep, shelter, stay, heal, play, etc.
+	4. Provides Water / Food / Shelter  
+	5. Transmutes Waste  
+	6. Create a design for a standardized lifeguard training tower and toilet / waste comfort station that will be a data center that global Ocean nomads can drop in and work, study, sleep, shelter, stay, heal, play, etc.  
 14. We conduct global first responder training so that any expert in any area can travel anywhere in the world and step into co-ordinated action 
 15. Using [[Precision Measurement]] and [[Living Systems Data]], we forecast and proactively prepare for [[Earthquakes]] and [[Natural Disasters]]    
 16. We develop a comprehensive, poly-centric, planetary Disaster Resilience and Regeneration Plan 
-		1. Exponent 
+		1. Exponent  
 		2. [Timothy McGrath](https://www.linkedin.com/in/timmcgrath222/)  
-		3. [Peter Yanev](http://eqeconsulting.com/peteryanevandteam) 
+		3. [Peter Yanev](http://eqeconsulting.com/peteryanevandteam)  
 
 ### The Elevation Initiative - All Things Helping All Things Rise 
 
 1. We recognize that the quest towards optimal wellbeing, flow, and potential is a lifelong journey that plays out across all [[Levels of Abstraction]]   
 2. We recognize that the Universe is a System of Systems, and that to flourish all Systems must become Regenerative to the [[Super Systems]] they are a part of, and the [[Sub Systems]] that are a part of them.  
-	1. For [[Individuals]] to become healthy and flourishing, [[Families]] must become healthy and flourishing 
+	1. For [[Individuals]] to become healthy and flourishing, [[Families]] must become healthy and flourishing  
 	2. For [[Families]] to become healthy and flourishing, [[Marriages]] must become healthy and flourishing  
-	3. ...[[Communities]] must become healthy and flourishing...
-	4. ...[[Groups]] and [[Teams]] must become healthy and flourishing... 
-	5. ...[[Bioregions]] must become healthy and flourishing... 
-	6. etc.. all things helping all things rise. 
+	3. ...[[Communities]] must become healthy and flourishing...  
+	4. ...[[Groups]] and [[Teams]] must become healthy and flourishing...  
+	5. ...[[Bioregions]] must become healthy and flourishing...  
+	6. etc.. all things helping all things rise.  
 3. We establish a universal [[Elevation Initiative]] through which all things [[Help One Another]] rise towards the fullness of their unique [[Potential]] and [[Flourish in Harmony]] by [[Helping All Do The Same]].  
 4. We ensure that everything we do is done in service of [[ONE]] and [[All]] and lifts up All Creation towards the fullness of [[Potential]] - Flow / Flourishing / Expanding / Optimizing 
 
@@ -1126,9 +1126,9 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 1. We imagine, design, and build a [[Living Systems Data Model]] that enables:  
 	1. Universal analysis of condition, offers, requests, and flows etc. across all fractals and [[Levels of Abstraction]] / [[Levels of Analysis]]  
-	2. The normalization of all data to interoperate and inform the model 
+	2. The normalization of all data to interoperate and inform the model  
 	3. [[SpatioTemporal Location]] of synergetic dynamics among related [[Apparent Objects]]   
-	4. [[Measured Compute]] via the transparent connection and transmission between [[Known Objects]] 
+	4. [[Measured Compute]] via the transparent connection and transmission between [[Known Objects]]  
 	5. [[Relational AI and Spatial Web]]  
 	6. [[Geoscopes]]  
 	7. [[The Voice of Nature]] to be heard  
@@ -1141,31 +1141,31 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 8. We Create a new Wisdom + Science + Precision Measurement based "social network" for Nature that celebrates the cooperative genius of Nature free from human intervention  
 9. We create a [[Living Systems Data]] model for the planet and its relationship to the Universe / Living System   
 10. We leverage the leading tools and technologies available to best measure, analyze, and understand universal, planetary and social dynamics 
-	1. Satellites 
+	1. Satellites  
 	2. Space telescopes  
 	3. Military surveillance technologies  
 	4. Drones  
 	5. Robotics  
-	6. Spectroscopic analysis 
-	7. Planetary network of sensors 
-	8. Soil Health / Microbiome / Nutrient Density measurements 
-	9. Sound monitoring + AI to measure biodiversity and levels of flourishing and communicating life 
-	10. Precision Measurement and Instrumentation Networks 
+	6. Spectroscopic analysis  
+	7. Planetary network of sensors  
+	8. Soil Health / Microbiome / Nutrient Density measurements  
+	9. Sound monitoring + AI to measure biodiversity and levels of flourishing and communicating life  
+	10. Precision Measurement and Instrumentation Networks  
 	11. Expanded Stoichiometry (Science of Relationships)  
-	12. Proteomics (How proteins change)
+	12. Proteomics (How proteins change)  
 	13. Internet of Things (IoT)  
 	14. IOBNT (Internet of Biological Nano Things)  
-	15. Pixels
-	16. Voxels (Volumetric Pixels)
-	17. Moxels (Material Pixels) 
+	15. Pixels  
+	16. Voxels (Volumetric Pixels)  
+	17. Moxels (Material Pixels)  
 11. We minimize the [[Impact of Observation]]  
 12. We optimize scale and accuracy  
 13. The (next generation of compute) potentially provides real time transparency into how everything is interconnected, interdependent, and functioning  
 14. Resources 
 	1. [Wildlife Drones](https://www.linkedin.com/company/wildlife-drones/?originalSubdomain=au)  
-	2. Planet.com 
+	2. Planet.com  
 	3. Dendra Systems - Restoration at Scale - [https://dendra.io/](https://dendra.io/)  
-	4. Tom Chi 
+	4. Tom Chi  
 
 ### Planetary Dashboard and Windshield for Vessel Earth 
 
@@ -1194,8 +1194,8 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 1. We work a top forensic science / engineering failure analysis team to use state of the art scientific, engineering, and wisdom analysis to perform a retrospective on the failure of the [[Old World]], and determine a optimally regenerative socioeconomic pathway forward towards [[The Future We Seek]] 
 	1. Multi-year, ~$5 Million phased project  
 	2. See [Exponent](https://www.exponent.com/) (formerly Failure Analysis Corporation) or similar.  
-	3. Use Bucky's Grunch of Giants as a reference 
-	4. Use Tom Chi's Helping Humanity Become Net Positive to Nature as a reference
+	3. Use Bucky's Grunch of Giants as a reference  
+	4. Use Tom Chi's Helping Humanity Become Net Positive to Nature as a reference  
 2. We map the [[New Vision and Plan]] and the [[System Wide Master Planning Process]] to a [[Lionsberg Risk Management System]] 
 	1. Drawing on frameworks as Bow Tie Risk Assessment and Management. [Bow Tie Risk Management Book](https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety)  
 
@@ -1237,12 +1237,12 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 2. We measure Impact via the [[Living Systems Data Model]]   
 3. We leverage Precision Measurement and the Living Systems Data Model to create irrefutable and legally indisputable evidence of impact 
 4. We realign social and economic incentives with social and environmental outcomes, so that: 
-	1. Peace is more profitable than war 
-	2. Wellbeing is more profitable than sickness 
+	1. Peace is more profitable than war  
+	2. Wellbeing is more profitable than sickness  
 	3. Long term optimization is more profitable than short exploitation  
 	4. Co-operation towards mutual success is more profitable than competition towards mutual destruction  
 	5. Co-creating social and environmental flourishing is more profitable than exploiting it  
-	6. Continuously elevating and expanding the health, wellbeing, and flourishing of natural and human potential becomes the basis of a fully regenerative and optimally decentralized [[New Economy]]. 
+	6. Continuously elevating and expanding the health, wellbeing, and flourishing of natural and human potential becomes the basis of a fully regenerative and optimally decentralized [[New Economy]].  
 
 ### The New Economy 
 
@@ -1284,8 +1284,8 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 34. Recognizing that a true accounting of the damage and destruction inflicted by [[The Giants]] upon humanity and the planet vastly outweighs their worth or potential to repay in a majority of cases, we progressively turn them over to a Receiver(s), cease all harmful operations, place all their [[High Science Technology]] into The Commons, liberate all their captives, and reassign all their economic, technological, scientific, and logistical might towards the regeneration and atonement of the world.
 35. We celebrate the best examples of regenerative economics and the transformation of companies and incentives [[FROM the Old TO the New]]  
 	1. David Blume - Permaculture and Circular Economy  
-	2. Vivobarefoot [2019 Annual Report](https://www.vivobarefoot.com/media/wysiwyg/pdf/Vivo_Report.pdf) 
-	3. etc. etc. 
+	2. Vivobarefoot [2019 Annual Report](https://www.vivobarefoot.com/media/wysiwyg/pdf/Vivo_Report.pdf)  
+	3. etc. etc.  
 36. Resources 
 	1.  [Edward DeLeon](https://www.linkedin.com/in/edwarddeleonhickman/) - [www.anatha.io](http://www.anatha.io)  
 	2. Seeds / Hypha  
@@ -1296,8 +1296,8 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 2. We geolocate, track, monitor and continuously improve our [[Supply Chains]] across all [[Creator-Consumer Relationships]] 
 		1. Use Relational AI and Living Systems Data models to track the human system and living system and their interface  
 		2. Geolocation and micro / macro scaling across all fractals and levels of analysis  
-		3. Enable the ability to look at The System and its functions and flows at each fractal level of analysis / scale 
-		4. Enable the ability to look at the inter-relationship and in / out optimization and flows at each level of analysis
+		3. Enable the ability to look at The System and its functions and flows at each fractal level of analysis / scale  
+		4. Enable the ability to look at the inter-relationship and in / out optimization and flows at each level of analysis  
 		5. Immediately recognize externalizations of harm and point source pollutions  
 		6. Allows us to maintain optimal, diversified, nutrient flows  
 
@@ -1318,9 +1318,9 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 ### Energy 
 
 1. We empower the world with regenerative energy through: 
-	1. Alcohol 
-	2. Wind 
-	3. Gravity 
+	1. Alcohol  
+	2. Wind  
+	3. Gravity  
 	4. Geothermal  
 	5. Small Modular Nuclear   
 2. We consider switching from petrochemicals to Alcohol as the primary backbone of a planetary fuel grid   
@@ -1329,12 +1329,12 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 5. We ensure that every family and locality has access to abundant and virtually free clean Energy  
 6. We ensure that We The People steward the meters, and not [[The Giants]]  
 7. Resources 
-	1. David Blume - [Alcohol Can Be A Gas](https://www.alcoholcanbeagas.com) 
+	1. David Blume - [Alcohol Can Be A Gas](https://www.alcoholcanbeagas.com)  
 	2. Geothermic Solution (Now XGS Energy) - https://www.xgsenergy.com  
-		1. Clean energy using existing drilling / turbine technology 24 / 7 / 365
+		1. Clean energy using existing drilling / turbine technology 24 / 7 / 365  
 	3. AmoTerra  
-	4. Thorium Reactors 
-	5. Idum / Valentine (George)
+	4. Thorium Reactors  
+	5. Idum / Valentine (George)  
 
 ### Transportation  
 
@@ -1468,15 +1468,15 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 6. We design and roll out to all businesses and manufacturing operations [[Resource Capture Systems]] that empower each Domain to [[Externalize Waste and Byproducts]] in a way that creates [[Value]] for the Whole  
 7. Preliminary Vision Statement for the [[Lionsberg Resource ReCirculation System]]: 
 
-*Imagine a world where every entity, from individual households to sprawling cities, operates as a harmonious cog in a planetary resource intake and allocation system. At its core, this system embodies a holistic approach to resource management, founded on the principle of waste capture and redistribution for collective benefit.*
+*Imagine a world where every entity, from individual households to sprawling cities, operates as a harmonious cog in a planetary resource intake and allocation system. At its core, this system embodies a holistic approach to resource management, founded on the principle of waste capture and redistribution for collective benefit.*  
 
-*In this vision, every home, business, and community is equipped with advanced technology designed to capture and contain waste at its source. This technology seamlessly integrates into the fabric of daily life, ensuring that no resource is squandered or needlessly externalized. From organic matter to recyclable materials, everything is carefully collected and prepared for the next stage of its journey.*
+*In this vision, every home, business, and community is equipped with advanced technology designed to capture and contain waste at its source. This technology seamlessly integrates into the fabric of daily life, ensuring that no resource is squandered or needlessly externalized. From organic matter to recyclable materials, everything is carefully collected and prepared for the next stage of its journey.*  
 
-*But the true beauty of this system lies in its interconnectedness. Boundaries dissolve as waste flows effortlessly through a network of processing and reallocation hubs. These hubs, strategically located at bioregional, ecoregional, and local levels, serve as the beating hearts of the circulatory operation. Here, waste is transformed into valuable resources through innovative technologies and sustainable practices.*
+*But the true beauty of this system lies in its interconnectedness. Boundaries dissolve as waste flows effortlessly through a network of processing and reallocation hubs. These hubs, strategically located at bioregional, ecoregional, and local levels, serve as the beating hearts of the circulatory operation. Here, waste is transformed into valuable resources through innovative technologies and sustainable practices.*  
 
-*But this is more than just a logistical endeavor; it’s a testament to collective cooperation and shared responsibility. Communities collaborate, pooling their resources and expertise to ensure the smooth operation of the system. Governments, businesses, and citizens alike recognize the interconnectedness of their actions and the profound impact they have on the planet.*
+*But this is more than just a logistical endeavor; it’s a testament to collective cooperation and shared responsibility. Communities collaborate, pooling their resources and expertise to ensure the smooth operation of the system. Governments, businesses, and citizens alike recognize the interconnectedness of their actions and the profound impact they have on the planet.*  
 
-*Through this collaborative effort, a [[New Paradigm]] emerges—one where waste is not an inevitability, but an opportunity for regeneration, renewal, and the co-creation of ever greater Value. As resources are redistributed with care and precision, the health of the planet flourishes, the well-being of all its inhabitants is safeguarded, and our collective [[Real Wealth]] surges.*
+*Through this collaborative effort, a [[New Paradigm]] emerges—one where waste is not an inevitability, but an opportunity for regeneration, renewal, and the co-creation of ever greater Value. As resources are redistributed with care and precision, the health of the planet flourishes, the well-being of all its inhabitants is safeguarded, and our collective [[Real Wealth]] surges.*  
 
 
 #### Air 
@@ -1493,53 +1493,53 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 1. We identify, continually prioritize, and cause to cease sources of water pollution and toxicity  
 2. Via the [[Lionsberg Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Water]] and [[Environment]]     
 3. We clean, regenerate, and help all waters thrive and flow again around the world towards the sacred healing force they are 
-		1. We remove dams 
+		1. We remove dams  
 		2. We move structures out of flood zones  
 		3. We restores natural and historic water flows, clean aquifers, clean groundwater  
-		4. We reenable natural migratory patterns and ecosystemic resource and nutrient flows 
+		4. We reenable natural migratory patterns and ecosystemic resource and nutrient flows  
 4. We rediscover and honor [[Water Cycles]] across all levels of analysis, and reemphasize the [[Small Water Cycle]]  
 5. Recognizing that everything ends up in the ocean, we clean, regenerate, and restore all water flows as sacred, returning and restoring the waters and the ocean as the healing forces they are 
 6. We enable and empower fish migration, and restore the ability of the salmon to return to the the headwaters, unleashing cascading ecosystemic benefits  
 7. We take responsibility for properly stewarding and protecting the Oceans as a primary Domain of Responsibility and Authority 
 8. We identify and cause to cease and desist destructive / degenerative ocean practices, such as: 
-	1. Drilling 
-	2. Mining 
-		1. Deep seabed mining 
-	3. Pollution and Dumping 
-		1. Underwater Munitions 
-		2. Industrial Waste 
-		3. Municipal Waste 
-		4. Household Waste 
+	1. Drilling  
+	2. Mining  
+		1. Deep seabed mining  
+	3. Pollution and Dumping  
+		1. Underwater Munitions  
+		2. Industrial Waste  
+		3. Municipal Waste  
+		4. Household Waste  
 		5. Sewage  
-		6. Trash 
+		6. Trash  
 	4. Seabed destruction  
 	5. Degenerative Fishing Practices  
 	6. Degenerative Aquaculture Practices  
 9. We clean up: 
-	1. Underwater munitions 
+	1. Underwater munitions  
 	2. Underwater dumping sites  
 10. We regenerate kelp forests 
-	1. Resources
-		1. Brian Von Herzen - Climate Foundation 
+	1. Resources  
+		1. Brian Von Herzen - Climate Foundation  
 		2. Edit "Edie" Whidder - ORCA  
-		3. Brian Tsuyoshi Takeda - Urchinomics 
+		3. Brian Tsuyoshi Takeda - Urchinomics  
 11. We regeneratively harvest kelp to produce sustainable fuels and fertilizers 
 12. We learn Marine Permaculture 
 13. We Attend To: 
-	1. Preserving Seabeds 
-	2. Kelps and Corals 
+	1. Preserving Seabeds  
+	2. Kelps and Corals  
 	3. Fisheries  
-	4. Shorelines 
-		1. Mangroves 
+	4. Shorelines  
+		1. Mangroves  
 		2. Sea Level Analysis and Preparation  
-	5. Boat Motors 
+	5. Boat Motors  
 		1. Electric  
-	6. Ocean Acidification 
+	6. Ocean Acidification  
 	7. Ocean Temperatures  
 14. We ensure that all citizens on the planet have access to adequate healthy, clean water 
 15. Resources 
-	1. Paul Holthus - World Ocean Council 
-	2. Water Munk Foundation for the Oceans 
+	1. Paul Holthus - World Ocean Council  
+	2. Water Munk Foundation for the Oceans  
 		1. The "MAP" project as an educational resource that can be replicated to interactively educate and share environmental complexities - [MAP Project](https://www.waltermunkfoundation.org/the-map)  
 	3. [Gina Bria - Hydration Foundation](https://hydrationfoundation.org/about-us/)  
 	4. [Body Water Percentages](https://www.withings.com/fr/en/health-insights/about-body-water)  
@@ -1553,32 +1553,32 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 3. We cease destructive / degenerative practices, such as: 
 	1. Monocropping  
 	2. Chemical fertilizer / pesticide based warfare with the Living System  
-	3. Pollution / Dumping 
+	3. Pollution / Dumping  
 4. We regenerate the soils using beneficial microbes, fungi, fermentation, with: 
 5. We shift to a new paradigm of permaculture and regenerative agriculture 
 6. As we regenerate our bioregions, ecoregions, and watersheds, we focus on the reintroduction of the wisdom of the oldest, largest, and most sacred trees, restoring the right trees to their proper places in particular forests so that the planetary ecosystem function is restored. 
 7. As we regenerate our bioregions, ecoregions, and watersheds, we focus on the reintroduction of the wisdom of the oldest and most sacred plants and animals
 	1. We inspire hope, inspiration, and awe with stories of regeneration and restoration  
-		1. We celebrate the projects of leaders in restoration, permaculture, and regeneration 
+		1. We celebrate the projects of leaders in restoration, permaculture, and regeneration  
 		2. We show examples of seeds thousands of years old being resurrected to life - [Extinct Tree From The Time of Jesus Rises From The Dead](https://www.bbc.com/reel/playlist/unheard-of?vpid=p09m0v51)  
 8. Resources
-	1. Paul Stamets 
+	1. Paul Stamets  
 	2. Rupert Sheldrake  
 	3. Merlin Sheldrake  
 	4. David Blume  
 	5. [Neal Spackman](https://regenerativeresources.co) - Regenerative Resources    
 	6. John D Liu  
 	7. Eliot Coleman  
-	8. Shearer 
-	9. Forrist Lytehausse 
-		1. Planetary Care 
-	10. Justin West - 
+	8. Shearer  
+	9. Forrist Lytehausse  
+		1. Planetary Care  
+	10. Justin West -  
 		1. [Rewild](https://www.rewild.org/team/justin-west)  
-		2. [Thrive Lot](https://www.thrivelot.com) 
-	11. [Ron Finley](https://ronfinley.com/pages/about) - neighborhood gardening 
+		2. [Thrive Lot](https://www.thrivelot.com)  
+	11. [Ron Finley](https://ronfinley.com/pages/about) - neighborhood gardening  
 	12. David Malarch - [Archangel Ancient Tree Archive](https://www.ancienttreearchive.org)  
-	13. Diana Beresford Kroeger - reforestation 
-		1. [Diana Beresford Kroeger Video 1](https://dianaberesford-kroeger.com/) 
+	13. Diana Beresford Kroeger - reforestation  
+		1. [Diana Beresford Kroeger Video 1](https://dianaberesford-kroeger.com/)  
 		2. [Diana Beresford Kroeger Video 2](https://www.youtube.com/watch?v=IBOVet8Ki4g)  
 		3. [Diana Beresford Kroeger Video 3](https://firedrillfridays.com/videos/teach-ins/jane-fonda-and-dr-diana-beresford-kroeger-discuss-what-we-can-learn-about-sustainability-from-ancient-history/)  
 
@@ -1599,9 +1599,9 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 7. We cease all bioweaponization and vaccine-related [[Gain of Function Research]]  
 8. We invest in a massive planetary R&D effort to identify and cross pollinate lifesaving defenses against bioweapons, pathogens, and parasites 
 9. Resources 
-		1. Dr. Dung Trinh 
+		1. Dr. Dung Trinh  
 		2. Dr. Misoon Jang  
-		3. Sound Healing 
+		3. Sound Healing  
 			1. David Gibson - Sound Healing Center  
 			2. [Shattering Cancer With Resonant Frequencies - Anthony Holland]((https://www.youtube.com/watch?v=1w0_kazbb_U)  
 
@@ -1614,10 +1614,10 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 3. We stop producing and consuming via systems that create existential pandemic risks   
 4. We relocalize and revitalize our Food Systems  
 5. We explore and cultivate new collaborative and diverse food ecosystems that expand, enrich, diversity, and relocalize our food sources, while continually enriching soil, microbiome, and biodiversity   
-	1. Sprouts 
+	1. Sprouts  
 	2. Mushrooms  
-	3. Protein rich crops 
-	4. Ancient / Heirloom crops 
+	3. Protein rich crops  
+	4. Ancient / Heirloom crops  
 	5. Ancient / Heirloom animals  
 6. We create food diverse and abundant food forests  
 7. We empower the growth of food and beneficial plants everywhere  
@@ -1625,23 +1625,23 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 9. We reestablish local and bioregional food sovereignty  
 10. We liberate farmers, bioregions, and nations from corrupt and oppressive contracts with [[The Giants]]  
 11. Resources 
-		1. Henrik Stamm Kristensen and Jacob Kristensen Illán
+		1. Henrik Stamm Kristensen and Jacob Kristensen Illán  
 			1. [Chemometric Brain](https://www.chemometricbrain.io/home-eng)  
 			2. [Blendhub](https://blendhub.com)  
-		2. Jospeh Cerecedes - nutrition, mushrooms, mycelium networks, radioactivity 
+		2. Jospeh Cerecedes - nutrition, mushrooms, mycelium networks, radioactivity  
 			1. [Regenerative Innovation with Joseph Cerecedes](https://vimeo.com/309559817)  
-		3. Eliot Coleman - 4 Seasons Farm - permaculture wisdom for food 
+		3. Eliot Coleman - 4 Seasons Farm - permaculture wisdom for food  
 		4. David Blume - Whiskey Hill Farms - permaculture wisdom for regenerative food and energy systems  
 		5. Henry Rowlands - [Detox Project](https://detoxproject.org/about-us/) - pollution / toxicity / standards  
-		6. Forrist Lytehausse - Planetary Care 
+		6. Forrist Lytehausse - Planetary Care  
 		7. Arvind Narula - Urmatt Group  
 		8. Yogesh  
 		9. David Rose  
-		10. Just One Organics 
-		11. John Roulac 
+		10. Just One Organics  
+		11. John Roulac  
 		12. Paloma Lopez  
-		13. Sean Ansett 
-		14. Joseph and Evan 
+		13. Sean Ansett  
+		14. Joseph and Evan  
 		15. Liquid Phi  
 
 ## Lifelong Learning and Development 
@@ -1659,30 +1659,30 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	1. Every school, library, and learning hub is connected and empowered to share practices, geo-located specifics, and cultural perspective   
 10. We develop and continuously improve our systems and understandings that empower every child to develop towards the fullness of their potential  
 11. We leverage Relational AI 
-	1. Education is the perception, integration, mixing, and use of principles and relationships 
-	1. Concentrating on relationships will help catch participant issues before there is trauma 
-	1. Continually informing the community and breaking the relationship between school systems / detention / incarceration / prison 
+	1. Education is the perception, integration, mixing, and use of principles and relationships  
+	1. Concentrating on relationships will help catch participant issues before there is trauma  
+	1. Continually informing the community and breaking the relationship between school systems / detention / incarceration / prison  
 12. We provide universal and equal access to continuously improving program of lifelong learning and development... 
 	1. ...that provides just-in-time delivery of wisdom, information, and knowledge in response to the challenges, needs, inspirations, and curiosities that naturally arise as we explore and co-create  
 13. We empower communities to localize and adapt learning experiences to promote local / tribal wisdom, knowledge, principles, culture, values, rituals, etc.
 14. We appreciate, value, and transform schools of all levels – from kindergartens to the highest universities - empowering the transition towards: 
-	1. Lifelong learning hubs / "mind gyms" - free-flowing sources of intellectual potential
+	1. Lifelong learning hubs / "mind gyms" - free-flowing sources of intellectual potential  
 	1. Providing access to all those with interest in the detailed systemic components of any subject - while helping humanity rediscover the interconnection and interexistence of all things    
 	1. Lifelong, co-creative, curiosity-and-inspiration-based project-based learning  
 	1. Physical sites as optional / additive augmentations to primarily decentralized, home / neighborhood / community based self-organizing and self-learning small groups  
 15. Resources 
-		1. Lionsberg Academy of Co-Creation 
+		1. Lionsberg Academy of Co-Creation  
 		2. [Education Reimagined - About](https://education-reimagined.org/about/)  
 		3. [Education Reimagined - Ecosystem Approach](https://education-reimagined.org/ecosystem-approach/)   
 		4. [Education Reimagined - Transformational Vision for Education in the US](https://education-reimagined.org/wp-content/uploads/2021/01/A-Transformational-Vision-for-Education-in-the-US.pdf)  
-		5. Spatial Web Metaversity - Dan Mapes 
-		6. Biomimicry 
-		7. Gapminder.org 
+		5. Spatial Web Metaversity - Dan Mapes  
+		6. Biomimicry  
+		7. Gapminder.org  
 		8. Visual Capitalist  
-		9. Little Sis, 
-		10. [Hank Patten](https://www.linkedin.com/in/hank-patton-69002b17/) - World Steward 
+		9. Little Sis,  
+		10. [Hank Patten](https://www.linkedin.com/in/hank-patton-69002b17/) - World Steward  
 		11. [Robert Greene: A Process for Finding & Achieving Your Unique Purpose](https://www.youtube.com/watch?v=50BZQRT1dAg)  
-		12. etc.
+		12. etc.  
 
 ### Rule of Law 
 
@@ -1693,7 +1693,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 5. We ensure that all citizens have equal access to Representation 
 6. We decentralize and democratize legal knowledge so that individuals are empowered to collaborate and represent themselves 
 7. Resources and Examples 
-	1. [Safesign](https://www.safesigntechnologies.com) - AI LLM trained by attorneys to democratize legal knowledge 
+	1. [Safesign](https://www.safesigntechnologies.com) - AI LLM trained by attorneys to democratize legal knowledge  
 
 ### Stewardship of Real Property 
 
@@ -1750,13 +1750,13 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 1. We beat our swords into ploughshares, and our [[Weapons Into Tools of Life]]  
 2. We render violence and war obsolete  
 3. We refocus our military, logistical, and elite organizational capabilities on 
-	1. Co-creation rather than mutual destruction 
+	1. Co-creation rather than mutual destruction  
 	2. Helping mitigate natural and social disasters rather than creating them   
 	3. Saving us rather than destroying us    
 4. We embrace the doctrine of [[Minimum Necessary Force]] for [[Self Defense]]  
 5. We stand up to and vanquish the bullies on the playground, and liberate all individuals, families, and communities from fear, violence, oppression and injustice 
 6. We clean the Ocean and Waters of Munitions - 
-	1. [Underwater Munitions](https://www.serdp-estcp.org/Funding-Opportunities/SERDP-Solicitations/Core-SONs/MRSON-23-C1-Detection-Localization-Classification-and-Remediation-of-Military-Munitions-Underwater) 
+	1. [Underwater Munitions](https://www.serdp-estcp.org/Funding-Opportunities/SERDP-Solicitations/Core-SONs/MRSON-23-C1-Detection-Localization-Classification-and-Remediation-of-Military-Munitions-Underwater)  
 	2. Terrance Patrick Long - https://underwatermunitions.org/terrance-p-long/  
 
 ## Corruption, Transparency, and Accountability 
@@ -1806,16 +1806,16 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 ## Retrospection, Continuous Learning and Improvement 
 
 1. We review the last centuries and reexamine every aspect of [[Where We Are]] and [[How We Got Here]] - life, consciousness, air, water, soil, microbiome, food, shelter, education, wellness, opportunity, relationships, governance, society, economy, jobs, energy, transportation, culture, values, beliefs, etc. - every aspect of existence gets examined and brought into the Light    
-	1. We work a top forensic science / engineering failure analysis team to use state of the art scientific, engineering, and wisdom analysis to perform a retrospective on the failure of the [[Old World]], and determine a optimally regenerative socioeconomic pathway forward towards [[The Future We Seek]] 
-		1. Multi-year, ~$5 Million phased project 
+	1. We work a top forensic science / engineering failure analysis team to use state of the art scientific, engineering, and wisdom analysis to perform a retrospective on the failure of the [[Old World]], and determine a optimally regenerative socioeconomic pathway forward towards [[The Future We Seek]]  
+		1. Multi-year, ~$5 Million phased project  
 2. We celebrate and build on what we do well - improving every aspect of our shared systems, standards, culture, and norms at every opportunity  
 3. We continually identify what we would like to do better in the future, and come up with concrete strategies and plans to continuously improve  
 
 ## Individual Flourishing and Flow 
 
-On [[The Quest]] towards [[The Goal]], it will be crucial that every Individual stays connected and in [[Flow]]. 
+On [[The Quest]] towards [[The Goal]], it will be crucial that every Individual stays connected and in [[Flow]].  
 
-We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]. We want to flourish through it, together. 
+We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]. We want to flourish through it, together.  
 
 ### Individual Stories 
 
@@ -1832,7 +1832,7 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 2. We stop drinking toxic [[Anti-Drink]]  
 3. We test our water before we drink it  
 4. Resources 
-	1. Gina Bria - Hydration Foundation 
+	1. Gina Bria - Hydration Foundation  
 
 ### Rediscovering How to Eat  
 
@@ -1848,11 +1848,11 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 ### Rediscovering How to Sleep  
 
 1. 1. Aim for 7-8 hours of sleep a night, and 5 hours of REM / Deep Sleep  
-	1. The more we are in [[Flow State]], the more deep [[Recovery]] time is needed 
+	1. The more we are in [[Flow State]], the more deep [[Recovery]] time is needed  
 2. REM / Deep Sleep is where: 
-	1. Physiological Cleansing, Resetting, Repair 
+	1. Physiological Cleansing, Resetting, Repair  
 	2. Psychological / Cognitive Cleansing, Resetting, Repair  
-	3. Generating 95% of growth hormones 
+	3. Generating 95% of growth hormones  
 3. Resources 
 	1. [Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity](https://www.youtube.com/watch?v=ClxRHJPz8aQ)  
 	2. [Optimize Sleep, Enhance Performance, and More | Dr. Andrew Huberman](https://www.youtube.com/watch?v=Ojkh7qV-OoA)  
@@ -1869,20 +1869,20 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 2. We recognize that by changing the way we breathe, we can change the way our mind, body, and emotions work  
 3. We breath through our nose 
 	1. The nose is our first line of immune defense  
-	2. The nose heats up, pressurizes, moisturizes, and conditions the air
+	2. The nose heats up, pressurizes, moisturizes, and conditions the air  
 	3. Even for peak athletic performance, you get more oxygen, more efficiently, by breathing through your nose  
 4. We slow down our breath
-	1. Buddhist, Yogic, and Catholic prayer traditions all arrived at a respiration rate of about 5.5 seconds in, and 5.5 seconds out, 5.5 breaths per minute. 
+	1. Buddhist, Yogic, and Catholic prayer traditions all arrived at a respiration rate of about 5.5 seconds in, and 5.5 seconds out, 5.5 breaths per minute.  
 5. We improve our lung capacity to improve our lives and longevity 
-	1. Exercise 
-	2. Meditate with proper posture while controlling your breath 
+	1. Exercise  
+	2. Meditate with proper posture while controlling your breath  
 	3. We don't work out harder than we can breathe correctly  
 6. We pause, breathe, say grace, and express gratitude before we eat  
 7. We consider periodic over-breathing and breath holding practices to consciously take control of our subconscious breath functions  
-	1. Sudarshan Kriya / Wim Hof et al 
+	1. Sudarshan Kriya / Wim Hof et al  
 8. Resources 
-	1. Breath - Stig Severinsen - Breathology 
-	2. James Nestor 
+	1. Breath - Stig Severinsen - Breathology  
+	2. James Nestor  
 ### Rediscovering How to Ground 
 
 1. We reconnect our body to the Living System daily via [[Grounding]]  
@@ -1892,9 +1892,9 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 2. We walk with our feet pointed straight ahead and properly aligned  
 3. We walk with proper [[Posture]], [[Presence]], and [[Poise]]  
 4. Resources 
-	1. Vivo Barefoot - Dulma and Galahad Clark 
-	2. Zero 
-	3. [Shoespiracy Movie, Vivo Barefoot](https://www.youtube.com/watch?v=x_rDFa6kZfI)
+	1. Vivo Barefoot - Dulma and Galahad Clark  
+	2. Zero  
+	3. [Shoespiracy Movie, Vivo Barefoot](https://www.youtube.com/watch?v=x_rDFa6kZfI)  
 ### Rediscovering How to Play 
 
 1. We rediscover how to [[Play]]  
@@ -1903,29 +1903,29 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 4. We rediscover how to Organize our selves around Games on the basis of [[Voluntary Consent]]  
 5. Resources 
 	1.  Evo Sports Collective  
-	2. Michael Murphy 
-	3. Esalen 
+	2. Michael Murphy  
+	3. Esalen  
 
 ### Rediscovering How to Flow 
 
 1. We recognize that Flow is a State of Consciousness, marked by rapt [[Attention]] and total [[Focus]] in the [[Present Moment]], that enables peak performance  
-	1. Our sense of self and self consciousness vanishes 
-	2. Time transforms 
+	1. Our sense of self and self consciousness vanishes  
+	2. Time transforms  
 	3. Boundary between Work and Play dissolves  
 		1. We are happiest when we are most engaged  
 	4. The Path becomes what we most enjoy doing  
-	5. Neurochemical coctail release 
+	5. Neurochemical coctail release  
 		1. enables us to experience perhaps the most feel good and addictive state on Earth    
 		2. Causes learning to accelerate by up to ~500%  
-		3. Causes performance / productivity to accelerate by up to ~500% 
-	6. Reduces [[Time To Mastery]] by half 
+		3. Causes performance / productivity to accelerate by up to ~500%  
+	6. Reduces [[Time To Mastery]] by half  
 2. We recognize that we can [[Structure Our Lives]] and use [[Triggers]] / [[Primes]] to help us access [[Flow State]]  
 	1. Creativity  
 	2. Pattern Recognition and Linking Ideas  
 	3. Risk  
 	4. [[Challenge Skills Balance]] / [[Zone Of Optimum Development]] - Challenge slightly exceeds our skill (by ~4%), stretching without breaking us.  
 	5. [[Flow Follows Focus]] - long periods of uninterrupted [[Focus Time]] where we can [[Pat Attention]]    
-		1. Minimum 90 minute blocks 
+		1. Minimum 90 minute blocks  
 3. We recognize that enabling and empowering our individual, local, and collective states of Alignment and Flow is key to a regenerative and flourishing future  
 4. We recognize that this individual, local, and collective Flow and Flourishing are inherently interdependent with Socioeconomic, Environmental, and Planetary Flow and Flourishing  
 5. We create a world where humanity serves and empowers Nature as a co-creative of human potential and flow states   
@@ -1954,57 +1954,57 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 7. We learn together about the best ways to perform burial in a regenerative and honoring way, and we ensure that every being has access to a decent and honoring burial  
 ## Team Flourishing and Flow 
 
-Coming Soon. 
+Coming Soon.  
 ## Community Flourishing and Flow 
 
-Coming Soon
+Coming Soon  
 
 
 ## Closing Thoughts 
 
-We of course might want to sweep the executive branch in the 2024 and 2026 US elections. 
+We of course might want to sweep the executive branch in the 2024 and 2026 US elections.  
 
-There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]]. 
+There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]].  
 
-There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of Lionsberg]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities. 
+There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of Lionsberg]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities.  
 
-There of course will need to be 12,000 Individuals trained in each of 12 Core Functions of The Body just as a starting point to support the emergence of 50 Million connected and empowered Teams. 
+There of course will need to be 12,000 Individuals trained in each of 12 Core Functions of The Body just as a starting point to support the emergence of 50 Million connected and empowered Teams.  
 
-There of course will need to be unprecedented efforts to stop pollutant flows at their sources, clean up the most polluted sites of the world, and transform our landfills and oceanic dumping grounds into sources of energy and raw materials until they are cleansed from the earth. 
+There of course will need to be unprecedented efforts to stop pollutant flows at their sources, clean up the most polluted sites of the world, and transform our landfills and oceanic dumping grounds into sources of energy and raw materials until they are cleansed from the earth.  
 
 There of course will need to be [[Stories of Transformation]] told to inspire, engage, and fuel the [[Resourcing and Engagement Flywheel]].  
 
-There of course will need to be film series, documentary series, and historic cultural events produced. 
+There of course will need to be film series, documentary series, and historic cultural events produced.  
 
-And we will of course need to start planning [[The Greatest Celebration and Jubilee In History]] to inaugurate the [[New Era]]. 
+And we will of course need to start planning [[The Greatest Celebration and Jubilee In History]] to inaugurate the [[New Era]].  
 
-Now that we have a New Vision, System, Strategy, and Plan - everything is possible if we simply arise and unite in partnership with the Creator and All Creation. 
+Now that we have a New Vision, System, Strategy, and Plan - everything is possible if we simply arise and unite in partnership with the Creator and All Creation.  
 
-The [[Lionsberg Wiki Books]] cover this all in more detail. 
+The [[Lionsberg Wiki Books]] cover this all in more detail.  
 
-The [[New Pattern Language]] is clear. 
+The [[New Pattern Language]] is clear.  
 
 The [[Divine Blueprints]] are revealing themselves.  
 
-Now, it purely comes down to the successful execution of the [[10 Year Grand Strategy]]. 
+Now, it purely comes down to the successful execution of the [[10 Year Grand Strategy]].  
 
-We started the [[10 Year Grand Strategy]] March 1st. The [[Lionsberg Co-Creators]] are arising and uniting as a Force For Good to meet this moment in history. We need you. The world needs you. 
+We started the [[10 Year Grand Strategy]] March 1st. The [[Lionsberg Co-Creators]] are arising and uniting as a Force For Good to meet this moment in history. We need you. The world needs you.  
 
-The Creator is inviting us to become Co-Creators of the [[Best Possible Future]] for All. 
+The Creator is inviting us to become Co-Creators of the [[Best Possible Future]] for All.  
 
-With Deep Love and Respect for All Life in All Places and Times, in service of [[ONE]] and [[All]], 
+With Deep Love and Respect for All Life in All Places and Times, in service of [[ONE]] and [[All]],  
 
-~ J 
+~ J  
 
-____
+____  
 
 ## Resources and Relationships 
 
-During [[The 7 Year Window of Preparatory Work and Learning]], a partial-yet-adequate list of resources and relationships was secured to ensure that every solution and solutionary was at hand. 
+During [[The 7 Year Window of Preparatory Work and Learning]], a partial-yet-adequate list of resources and relationships was secured to ensure that every solution and solutionary was at hand.  
 
-A more comprehensive list is found at [[Above The Chaos, Breakthrough With George Orbelian]]. 
+A more comprehensive list is found at [[Above The Chaos, Breakthrough With George Orbelian]].  
 
-Partial / Repetitive List In Progress: 
+Partial / Repetitive List In Progress:  
 
 - Timothy McGrath - Bow Tie Risk Management
 - Joshua Hughes - https://weareblacksheep.org   

@@ -1,5 +1,5 @@
 # Jordan's Short Story
-*Updated 2026.01.18*
+*Updated 2026.01.18*  
 *A 20 minute overview of a 40 year life*
 
 _Following Jordan's death on August 10, 2025, the essential arc of his story has been woven into **[[The Story of LIONSBERG]]**. What follows is the original biographical account, preserved in full for those who wish to know the details._
@@ -142,7 +142,7 @@ The billions of babies torn from mother's wombs.
 The sanctioning and protection of such by church and state.  
 The funding and operating of such with taxes and tithes.  
 The transnational web of domination and deceit.  
-The false elections and illusions of choice.
+The false elections and illusions of choice.  
 The false-flag terror attacks, mass-murders, and endless wars.
 
 These were not artifacts of human corruption. These were _the design_ of non-human and anti-human systems built upon suffering, trauma, blood, sacrifice, and kontrolle that stretched back unbroken over thousands of years and right into the secret societies, “chosen bloodlines”, "holy scriptures", “places of worship”, "god-given constitutions", and "godly rulers" that the imprisoning imposters so cleverly hid behind. 
@@ -195,7 +195,7 @@ Experience bore out the hypothesis that the Meta Project could not be tackled in
 
 In 2023 the LIONSBERG Wiki was established as a transparent open source repository. This would ensure that all the information was freely available globally for poly-centric translation, localization, and adaptation when the time was right. To hear Jordan and Pete discussing the inception and why behind the wiki and other collaborative technologies please see [[Collaborative Technology and AI - Pete Kaminski - EP 5]].   
 
-Additional foundational literature was published including: 
+Additional foundational literature was published including:  
 - The [[LIONSBERG Manifesto]]  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 - [[The Book of LIONSBERG]]  

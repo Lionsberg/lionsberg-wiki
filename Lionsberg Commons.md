@@ -8,6 +8,6 @@ The Lionsberg Commons is the commons that operates at the highest level of abstr
 
 ___
 
-_See [[Commons]] for the fractal commonsing pattern._
-_See [[Holofractal Omnifederation]] for the architecture of the superorganism._
+_See [[Commons]] for the fractal commonsing pattern._  
+_See [[Holofractal Omnifederation]] for the architecture of the superorganism._  
 _See [[Voluntary Tithing]] for how commons are resourced._

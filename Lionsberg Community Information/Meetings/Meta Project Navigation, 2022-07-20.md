@@ -58,44 +58,44 @@
 
 ### Unprocessed Chat
 
-_we didn't get to these comments_
+_we didn't get to these comments_  
 
-David Korton, has been telling and defining clear distinctions between the current story and the thriving "meta story" for a while. He is available to connect with. See this book. It will informat the MetaStory" a lot - https://www.amazon.com/Change-Story-Future-Living-Economy/dp/1626562903
+David Korton, has been telling and defining clear distinctions between the current story and the thriving "meta story" for a while. He is available to connect with. See this book. It will informat the MetaStory" a lot - https://www.amazon.com/Change-Story-Future-Living-Economy/dp/1626562903  
 
-from Wikipedia: "The core concept of cybernetics is circular causality or feedback—where the observed outcomes of actions are taken as inputs for further action in ways that support the pursuit and maintenance of particular conditions, or their disruption."
+from Wikipedia: "The core concept of cybernetics is circular causality or feedback—where the observed outcomes of actions are taken as inputs for further action in ways that support the pursuit and maintenance of particular conditions, or their disruption."  
 
-i wonder if those of us who feel called, can offer their summary of the meeting?
+i wonder if those of us who feel called, can offer their summary of the meeting?  
 
-Or someone who is usually on cam is participating invisibly because they’re in transit!
+Or someone who is usually on cam is participating invisibly because they’re in transit!  
 
-…and therefore can’t type well enough to HackMD
+…and therefore can’t type well enough to HackMD  
 
-(On phone in my case)
+(On phone in my case)  
 
-I need to head out. Excellent meeting Jordan and Pete. Super great value to me and to see the plans and structured thought. I've gone though most of the wiki areas. Excited to see this continued emergence. ❤️
+I need to head out. Excellent meeting Jordan and Pete. Super great value to me and to see the plans and structured thought. I've gone though most of the wiki areas. Excited to see this continued emergence. ❤️  
 
 ## Issues and Commitments
 
 ### Tools and Dashboards
 
-could possibly use this https://osticket.com/
+could possibly use this https://osticket.com/  
 
-I think we are re talking about multiple levels of team practices re issues pacing, training results etc. Clear approaches (perhaps multiple) would afford optimization.
+I think we are re talking about multiple levels of team practices re issues pacing, training results etc. Clear approaches (perhaps multiple) would afford optimization.  
 
-thanks, zeek!  Spirit and I (Pete) had a "tools" discussion about issue trackers and the like here: https://chat.collectivesensecommons.org/agora/pl/g1xq8sqatpb7tedumty99a6gpe  one of the net-net conclusions is that different teams might use different tools for tracking issues, and the critical thing is that we can aggregate dashboard data
+thanks, zeek!  Spirit and I (Pete) had a "tools" discussion about issue trackers and the like here: https://chat.collectivesensecommons.org/agora/pl/g1xq8sqatpb7tedumty99a6gpe  one of the net-net conclusions is that different teams might use different tools for tracking issues, and the critical thing is that we can aggregate dashboard data  
 
 
 ### Why They Need to be Separate
 
-_but note, you want [[Single Source of Truth]]_
+_but note, you want [[Single Source of Truth]]_  
 
-you actually don't want to accept commitments on something that has issues on it, as that means the commitment can't be executed.
+you actually don't want to accept commitments on something that has issues on it, as that means the commitment can't be executed.  
 
-And so there's a very technical reason why process people wouldn't want those combined, because there's a set of there's like a preflight checklist for making a commitment and you wanna make sure it's clean and can be easily acted on
+And so there's a very technical reason why process people wouldn't want those combined, because there's a set of there's like a preflight checklist for making a commitment and you wanna make sure it's clean and can be easily acted on  
 
-And so the issue solving process needs to scrub it and get it to the point where a teams decided that it can be acted on.
+And so the issue solving process needs to scrub it and get it to the point where a teams decided that it can be acted on.  
 
-And then, then, when the team says okay, i'll do that by this date they have a clean line to do that.
+And then, then, when the team says okay, i'll do that by this date they have a clean line to do that.  
 
 ## Intro To Wiki, Collective Notetaking and HackMD
 - [[Introduction To Collective Notetaking and Wiki]]
@@ -178,24 +178,24 @@ And then, then, when the team says okay, i'll do that by this date they have a c
 Purpose: To greet, and set the energy and context for the meeting.  
 
 ## Rapid Orienting Headlines - 3 to 10 Min
-Purpose: To draw out top headlines and orient the group to any significant developments (30 to 60 seconds). 
+Purpose: To draw out top headlines and orient the group to any significant developments (30 to 60 seconds).  
 
 
 ## Pressing Issues To Add To Issue Tracker? - 2 to 5 Min
-Purpose: To assure anyone with bursting with an issue that they can rest and listen because the issue has been placed on the [[Issue Tracker]]. 
-We don't have yet
+Purpose: To assure anyone with bursting with an issue that they can rest and listen because the issue has been placed on the [[Issue Tracker]].  
+We don't have yet  
 
 
 
 ## Navigation Dashboard Reviews - 5 Min
-Purpose: To review [[Navigation Dashboard|Navigation Dashboards]] for any potential issues that need to be added to the [[Issue Tracker]]. 
+Purpose: To review [[Navigation Dashboard|Navigation Dashboards]] for any potential issues that need to be added to the [[Issue Tracker]].  
 - Green, Yellow, Orange or Red
 - No dashboards exist yet
 
 
 
 ## Quarterly Goal Reviews - 5 Min
-Purpose: To review self-reported % complete and [[Green Yellow Orange Red]] indicator, and add potential any issues to Issue Tracker. 
+Purpose: To review self-reported % complete and [[Green Yellow Orange Red]] indicator, and add potential any issues to Issue Tracker.  
 
 
 
@@ -206,8 +206,8 @@ Purpose: To capture and track [[Commitments]] (action items) as they arise, and 
 
 ## Short Term Issue Tracker - Bulk of Meeting 
 
-Purpose: Main focus of the meeting - to Identity, Dialogue, and Resolve issues. 
-Fields: Issue, Who, Date Raised, Date Due, Notes. 
+Purpose: Main focus of the meeting - to Identity, Dialogue, and Resolve issues.  
+Fields: Issue, Who, Date Raised, Date Due, Notes.  
 
 - How to comment on sections of the core content? 
     - deeper than branching and suggested edits
@@ -242,8 +242,8 @@ Fields: Issue, Who, Date Raised, Date Due, Notes.
 
 
 ## Long Term Issue Tracker - 2 Min
-Purpose: To track long term issues that will not be resolved this month / quarter, and see if any need to be transfered up to the [[Short Term Issue Tracker]]. 
-Fields: Issue, Who, Date Raised, Date Due, Notes.
+Purpose: To track long term issues that will not be resolved this month / quarter, and see if any need to be transfered up to the [[Short Term Issue Tracker]].  
+Fields: Issue, Who, Date Raised, Date Due, Notes.  
 
 ## Retrospective - 10 Minutes
 - What worked? 
@@ -279,27 +279,27 @@ Fields: Issue, Who, Date Raised, Date Due, Notes.
 - The [[Meta Story]] is told in the Mythical Context of a [[Meta Quest]] towards the [[Meta Goal]]. 
 - The [[Way]] towards the Goal is marked by [[Milestones]]. 
 
-Contained in the Meta Story is a total nested hierachy of stories that play out at various levels of complexity and abstraction. 
+Contained in the Meta Story is a total nested hierachy of stories that play out at various levels of complexity and abstraction.  
 
-The various levels of abstraction and complexity help orient the distributed network of team to what is happening at various short and long term levels of analysis. 
+The various levels of abstraction and complexity help orient the distributed network of team to what is happening at various short and long term levels of analysis.  
 
 ### Themes
 - The permanent and persistent ideas that are steady throughout the [[Meta Story]] are called [[Themes]]. They are things like Health and Wellness, Learning, Human, Organizational, and Community Development, Energy, Technology, Society, Culture, Art, Infrastructure, Governance, etc. 
 
 ## Stories 
-Stories are told from the standpoint of individual human experiences. 
+Stories are told from the standpoint of individual human experiences.  
 
-They are structured to inform the team about the human issue and experience driving the entire narrative. 
+They are structured to inform the team about the human issue and experience driving the entire narrative.  
 
-They may be expressed as metaphor where ambiguity is needed to support different perspectives.
+They may be expressed as metaphor where ambiguity is needed to support different perspectives.  
 
-They are structured as: 
+They are structured as:  
 1. As a (Persona), 
 2. I want (Some Goal), 
 3. so that (Something is Resolved / Reason). 
 4. This makes possible (X), and avoids the risk / suffering of (Y). 
 
-This framing follows the basic Hero's Journey... 
+This framing follows the basic Hero's Journey...  
 1. A Persona
 2. In pursuit of a Goal
 3. Is facing an Issue / Obstacle they can't resolve
@@ -307,42 +307,42 @@ This framing follows the basic Hero's Journey...
 5. Who gives them a plan / solution / tool
 6. To achieve success (what is possible), and avoid failue / risk / suffering. 
 
-By expressing a human need, people respond better and are empowered to take greater agency to creatively address the true Need. It forces the Actor to not merely blindly build to a specification, but to model in their mind how to actually meet the need or solve the problem inherent in the Sttory. 
+By expressing a human need, people respond better and are empowered to take greater agency to creatively address the true Need. It forces the Actor to not merely blindly build to a specification, but to model in their mind how to actually meet the need or solve the problem inherent in the Sttory.  
 
-The Story allows flexibility in the specification that requires doing the Wise Right Thing to meet the need, rather than blindly doing what you are told.
+The Story allows flexibility in the specification that requires doing the Wise Right Thing to meet the need, rather than blindly doing what you are told.  
 
-What is bigger than a story? 
+What is bigger than a story?  
 
-An Epic.
+An Epic.  
 
 ## Epics
-An epic is a longer "Story of Stories" narrating the epic adventures of multiple heroic or legendary Actors
+An epic is a longer "Story of Stories" narrating the epic adventures of multiple heroic or legendary Actors  
 
-What is bigger than an Epic? 
+What is bigger than an Epic?  
 
-A Saga
+A Saga  
 
 ## Saga
-A Saga is an even longer "Epic of Epics" narrating the heroic achievements across an even larger span of Actors. 
+A Saga is an even longer "Epic of Epics" narrating the heroic achievements across an even larger span of Actors.  
 
-What is bigger than a Saga? 
+What is bigger than a Saga?  
 
-The Meta Story
+The Meta Story  
 
 ### The Meta Story
-The total highest order Saga of Sagas / epic of epics / story of stories is the [[Meta Story]] that contains within itself and orders all other things. 
+The total highest order Saga of Sagas / epic of epics / story of stories is the [[Meta Story]] that contains within itself and orders all other things.  
 
 ## How Actors Relate To The Meta Story
 
-Individuals Forge or Join a Team
-Teams Organize and Federate
-Teams and Organizations Make and Secure Commitments that create Throughput of The Goal
+Individuals Forge or Join a Team  
+Teams Organize and Federate  
+Teams and Organizations Make and Secure Commitments that create Throughput of The Goal  
 
 - Epics, Stories, Sagas, Themes, and Initiatives
 
-Agile Story: As a graphic designer, I want to be able to save my files to a new file format, XYZ, so I can share them with colleagues using the new XYZ Graphic Tool.
+Agile Story: As a graphic designer, I want to be able to save my files to a new file format, XYZ, so I can share them with colleagues using the new XYZ Graphic Tool.  
 
-See Mountain Goat Software, [User Stories and User Story Examples by Mike Cohn](https://www.mountaingoatsoftware.com/agile/user-stories).
+See Mountain Goat Software, [User Stories and User Story Examples by Mike Cohn](https://www.mountaingoatsoftware.com/agile/user-stories).  
 
 
 

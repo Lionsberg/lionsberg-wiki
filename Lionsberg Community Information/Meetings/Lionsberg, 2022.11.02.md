@@ -244,10 +244,10 @@
 - Flow is an invitation... 
 - How might we listen deeply to other, who might have other styles of speaking and hearing, and offer what is of most value to them... 
 - What is valuable to me?
-Knowing about what others are doing in fields I am working in
-Learning from them
-Offering ideas of my own to (perhaps) enrich their practice
-Exploring how all of our practice may fit together, to create a synthesis, and breakthroughs, and move society forward
+Knowing about what others are doing in fields I am working in  
+Learning from them  
+Offering ideas of my own to (perhaps) enrich their practice  
+Exploring how all of our practice may fit together, to create a synthesis, and breakthroughs, and move society forward  
 - clean langauge
 - being willing to speak out what is on my mind and spirit... 
 - What we can grow and learn our way into together, not argue about... 

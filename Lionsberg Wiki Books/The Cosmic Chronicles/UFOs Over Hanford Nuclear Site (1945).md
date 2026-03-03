@@ -103,4 +103,3 @@ Sightings at Hanford persisted into the late 1940s and beyond, aligning with the
     
     - _UFOs and Nukes: The Secret Link Revealed_ – Explores the Hanford incidents and related cases.
     - _The Phenomenon_ – Discusses nuclear site encounters within the broader UFO context.
-

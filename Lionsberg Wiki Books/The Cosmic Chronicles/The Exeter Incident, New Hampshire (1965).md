@@ -107,4 +107,3 @@ The officers and Muscarello witnessed the same pulsating, glowing object as it s
 - **Documentaries:**
     
     - _UFO Encounters: The Exeter Case_ – An in-depth exploration of the incident and its implications.
-

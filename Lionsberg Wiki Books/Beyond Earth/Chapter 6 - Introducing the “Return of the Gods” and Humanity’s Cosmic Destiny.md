@@ -78,4 +78,3 @@ The return of these factions presents both risks and opportunities. Depending on
 The “return of the gods” is humanity’s invitation and initiation into open and direct cosmic citizenship. The choice between alignment with liberating forces and subjugating systems rests with humanity as a whole and with each individual. The convergence of extraterrestrial factions—both those who seek to empower and those who seek to dominate and control—challenges humanity to claim its role in the cosmos with wisdom, discernment, and courage.
 
 In the final chapter, we will explore the steps needed to establish a comprehensive planetary approach that enables humanity to respond to these revelations with clarity, unity, and resilience. By embracing this new cosmic era, humanity can shape its own destiny and co-create a future that reflects its highest potential.
-

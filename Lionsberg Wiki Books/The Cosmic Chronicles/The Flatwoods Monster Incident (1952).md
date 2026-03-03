@@ -111,4 +111,3 @@ The witnesses reported immediate symptoms, including:
 - **Web Resources:**
     
     - West Virginia Folklore: Flatwoods Monster Museum.
-

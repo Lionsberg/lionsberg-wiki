@@ -18,6 +18,6 @@ Overall, the implementation, roll-out, and continuous improvement of the Lionsbe
 
 ___
 
-Forward to [[Alignment Of The Lionsberg System With Biblical Principles And Values]]    
-Back to [[How Lionsberg Fits Into The Global Landscape]]     
+Forward to [[Alignment Of The Lionsberg System With Biblical Principles And Values]]  
+Back to [[How Lionsberg Fits Into The Global Landscape]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

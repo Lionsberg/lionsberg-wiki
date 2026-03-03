@@ -14,7 +14,7 @@ For the first time in centuries, rumors and whispers of civil war spread through
 
 At this crossroads, the people of Earth faced a choice: continue down the path of division and conflict, or come together to face the threat posed by the Forces of Darkness. Their decision would determine the fate of their city and way of life for countless generations to come. 
 
-___
+___  
 Forward to: [[Scene 10 - The Seeds of the Resistance]]  
 Back to: [[Scene 8 - The Forces of Darkness]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

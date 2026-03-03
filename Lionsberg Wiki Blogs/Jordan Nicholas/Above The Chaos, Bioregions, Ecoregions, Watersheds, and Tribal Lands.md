@@ -6,10 +6,10 @@ An entry in [[Above The Chaos]]
 
 As we examine the [[New Pattern Language]], it is evident that bioregions, watersheds, and ancestral tribal lands will play a significant roles. 
 
-A non-profit out of Canada has put together a good head start on mapping tribal lands on a couple continents: 
+A non-profit out of Canada has put together a good head start on mapping tribal lands on a couple continents:  
 - https://native-land.ca   
 
-Our friend Justin Winters and the allies at One Earth have put years into mapping the [[Bioregions]] and [[Ecoregions]]... 
+Our friend Justin Winters and the allies at One Earth have put years into mapping the [[Bioregions]] and [[Ecoregions]]...  
 - https://www.oneearth.org/navigator/  
 - These maps will help form the basis for the layout of [[Bioregional Hubs]] and [[Ecoregional Hubs]]   
 

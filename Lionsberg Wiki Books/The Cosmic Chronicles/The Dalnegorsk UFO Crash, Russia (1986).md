@@ -119,4 +119,3 @@ The materials were analyzed by multiple Soviet laboratories, many of which concl
 - **Documentaries:**
     
     - _UFOs in the Soviet Union_ – Investigative documentary on UFO incidents during the Cold War.
-

@@ -107,5 +107,5 @@ The Lionsberg System emphasizes the importance of continuously improving and rem
 ___
 
 Forward to [[How Lionsberg Fits Into The Global Landscape]]  
-Back to [[The Need For A Biblically Sound Meta Solution]]     
+Back to [[The Need For A Biblically Sound Meta Solution]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

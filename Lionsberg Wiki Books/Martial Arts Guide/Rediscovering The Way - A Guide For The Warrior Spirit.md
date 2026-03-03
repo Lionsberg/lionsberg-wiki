@@ -6,7 +6,7 @@ See also other [[Lionsberg Wiki Books]].
 ## 0. Introduction
 
 [[0.1 Introduction]]  
-[[0.2 A Warning]]   
+[[0.2 A Warning]]  
 [[0.3 A Story]]  
 [[0.4 A Way of Life]]  
 [[0.5 A Teacher is Only a Guide]]  
@@ -49,18 +49,18 @@ See also other [[Lionsberg Wiki Books]].
 ## 2. Energy
 ### Energy Fundamentals 
 
-How to Think About Energy
-Types of Energy 
+How to Think About Energy  
+Types of Energy  
 [[2.1 The Energetic Field]]  
 ### Gathering and Cultivating Energy 
 
-Sources of Energy
+Sources of Energy  
 Testing Energy  
 ### Channeling Energy
 
 ## 3. Biology and Physiology
 
-How Life Builds Itself Up 
+How Life Builds Itself Up  
 The Microbiome 
 
 ## 4. Consciousness and Mind 

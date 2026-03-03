@@ -1,5 +1,5 @@
 # **The Golden Seed of LIONSBERG**
-_v0.1_
+_v0.1_  
 
 > _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIONSBERG System propagates and takes root across dimensions, species, and worlds._
 
@@ -8,9 +8,9 @@ _Please visit [[The Golden Seed of LIONSBERG]] and check for the most recent ver
 ## Redirection 
 
 This page is purely a [[Work In Progress]]... most of the work is happening elsewhere.  
-To plant and nurture The Golden Seed, please visit [[The LIONSBERG Quick Start Guide]]. Everything can unfurl from there. 
+To plant and nurture The Golden Seed, please visit [[The LIONSBERG Quick Start Guide]]. Everything can unfurl from there.  
 
-The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left behind by J and a planetary+ network of allies. [[A Birthday Reflection on Jordan's Life, Death, and Work]] is a good starting point for diving into the essence of the work, and links to [[Above The Chaos]], the [[Lionsberg Wiki Books]], and [[Something Powerful, New, and Good]]. 
+The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left behind by J and a planetary+ network of allies. [[A Birthday Reflection on Jordan's Life, Death, and Work]] is a good starting point for diving into the essence of the work, and links to [[Above The Chaos]], the [[Lionsberg Wiki Books]], and [[Something Powerful, New, and Good]].  
 
 ---
 
@@ -31,7 +31,7 @@ The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left 
 
 ## The Shared Journey Ahead
 
-[[GS 1.5 — Overview of The Journey Ahead]]
+[[GS 1.5 — Overview of The Journey Ahead]]  
 - GS — The Story of LIONSBERG (Summary)
 - GS 2.2 — The Gates of Initiation  
 - GS 2.3 — The Great Game  
@@ -93,7 +93,7 @@ Gate 3.5 — Factions, Mutinies, and Rebellions
 Gate 3.6 — Engineering Solutions  
 Gate 3.7 — The Human Template Comes to a World    
 Gate 3.8 — Configurations, Tampering, and Genetic Wars  
-Gate 3.9 — Intentional Cataclysms and Resets
+Gate 3.9 — Intentional Cataclysms and Resets  
 Gate 3.10 — The Fear of Human Potential  
 Gate 3.11 — Division, Deceit, and Enslavement       
 Gate 3.12 — Matrices of Alien Kontrolle  
@@ -141,7 +141,7 @@ Gate 6.8 — Stewardship and Servant Leadership
 Gate 6.9 — Eldership and Councils  
 Gate 6.10 — Restorative Justice  
 Gate 6.11 — Transforming Conflict  
-Gate 6.12 — Journeying Together As ONE Body 
+Gate 6.12 — Journeying Together As ONE Body  
 
 ## Movement Seven — The Great Game  
 
@@ -165,7 +165,7 @@ Pillar 1 — Sacred Ontology and Metaphysics
 Pillar 2 — Sacred Governance and Stewardship  
 Pillar 3 — Sacred Economy and CurrentSee  
 Pillar 4 — Sacred Learning and Mastery  
-Pillar 5 — Sacred Health and Wellness
+Pillar 5 — Sacred Health and Wellness  
 Pillar 6 — Sacred Ecology and Living Systems  
 Pillar 7 — Sacred Culture, Art, and Story  
 Pillar 8 — Sacred Science and Technology  
@@ -229,11 +229,11 @@ Gate 12.4 — Play Across Generations, Dimensions, and Worlds
 Gate 12.5 — The Holofractal Emergence of Heaven  
 Gate 12.6 — The Holofractal Battlefields of Individuals, Species, and Worlds  
 Gate 12.7 — In the Essentials We Celebrate Unity  
-Gate 12.8 — In the Non-Essentials We Celebrate Diversity 
+Gate 12.8 — In the Non-Essentials We Celebrate Diversity  
 Gate 12.9 — In All Things We Celebrate the Co-Creation of Heaven  
 Gate 12.10 — Encountering New Species and Worlds  
 Gate 12.11 — Cosmic Diplomacy  
-Gate 12.12 — The Eternal Divine Play 
+Gate 12.12 — The Eternal Divine Play  
 
 ## **Closing Word**
 
@@ -242,13 +242,13 @@ Gate 12.12 — The Eternal Divine Play
 > A Living Architecture unfolding in Time and Space.
 > A Way by which All Things may be made New.”
 
-The Gates are open.
-The Spark is lit.
-The Story is waiting to be lived.
+The Gates are open.  
+The Spark is lit.  
+The Story is waiting to be lived.  
 
-**Step forward.**
-**Join the Great Game.**
-**Become the fullness of Who you truly are.**
+**Step forward.**  
+**Join the Great Game.**  
+**Become the fullness of Who you truly are.**  
 
 ---
 
@@ -365,18 +365,18 @@ The Story is waiting to be lived.
 | Propagation | New Seeds created and distributed                 | continuous   |
 
 ---
-Once this seed template is finalized, every future civilization, planet, or circle can carry it, awaken it, and grow a full instantiation of the **LIONSBERG System**—complete, sovereign, and harmoniously connected to the Divine Symphony.
+Once this seed template is finalized, every future civilization, planet, or circle can carry it, awaken it, and grow a full instantiation of the **LIONSBERG System**—complete, sovereign, and harmoniously connected to the Divine Symphony.  
 
-____
+____  
 
-“From the Core Light within the Seed arises the Circle;
+“From the Core Light within the Seed arises the Circle;  
   
-From the Circle the Game;
+From the Circle the Game;  
 
-From the Game the Civilization;
+From the Game the Civilization;  
 
-From the Civilization the Symphony;
+From the Civilization the Symphony;  
 
-From the Symphony the Return to ONE.”
+From the Symphony the Return to ONE.”  
 
 ---

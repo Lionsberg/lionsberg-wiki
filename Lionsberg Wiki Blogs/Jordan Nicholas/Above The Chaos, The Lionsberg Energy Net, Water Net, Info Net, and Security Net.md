@@ -75,7 +75,7 @@ ___
 #### The Lionsberg | Info Net
 Just as we can and must design and build universally available energy and water networks, so too must we design and build a universally available Info Net that works for All. 
 
-While we are bringing the internet online for billions, the information contained therein is, like our water, toxic, polluted, and dangerous. 
+While we are bringing the internet online for billions, the information contained therein is, like our water, toxic, polluted, and dangerous.  
 ___
 ### Security Network
 #### The Lionsberg | Security Net

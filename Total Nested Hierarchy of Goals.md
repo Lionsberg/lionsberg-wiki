@@ -95,7 +95,7 @@ Individual goals are personal objectives and aspirations that align with each la
 3.  Supporting local businesses and community initiatives that align with the Total Nested Hierarchy of Goals.
 4.  Advocating for policy changes and supporting leaders who prioritize values like Truth, Love, Justice, Stewardship, and Wisdom. 
 
-____
+____  
 The Total Nested Hierarchy of Goals arises largely in response to the [[Total Nested Hierarchy of Issues]], which outlines the complex and interconnected challenges inherent in any community of life. While the hierarchy of goals serves as a powerful starting point, the application and implementation of these goals present significant challenges.
 
 Critically, new metrics and measurements are needed to ensure that the Total Nested Hierarchy of Goals is accomplished, and the [[Total Nested Hierarchy of Issues]] is resolved in a way that is eternally regenerative and in alignment with the [[Total Nested Hierarchy of Values.]] This requires a shift in our approach to progress, such that all individuals and localities work towards global goals in a manner that, if replicated by all others, would result in the flourishing of all life and consciousness.

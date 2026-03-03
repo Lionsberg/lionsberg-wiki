@@ -72,4 +72,3 @@ Onward Towards [[The Goal]],
 ~ J 
 
 P.S. if you would like to catch up in more detail, see [[Above The Chaos]], or in particular [[Above The Chaos, Jordan's January 2024 Manifesto|Jordan's January 2024 Manifesto]] and [[Above The Chaos, January 2024 Letter to Friends, Loved Ones, and Network|January 2024 Letter to Friends, Loved Ones, and Network]]. 
-

@@ -103,18 +103,18 @@ As we strive to understand and embody Who We Are Becoming, we will undoubtedly f
      
 5. **Update Your Story - Part II**: Part of Your Story is a Forward Looking Story about Who You Are Becoming, Where You Are Going, and Why. As we develop and clarity our Vision of the New World over the coming days, develop and clarity a Vision of your New Life within. An overarching and uniting Vision / Forward Looking Story for your life must be composed of numerous clearly articulated sub-visions. Start by creating some categories for your life, and jotting down notes about what your aspirational and desired life might be like. If you were loved and could become and have all you need to develop towards your unique potential and flourish, what might the following areas of your life look like? This will take some meaningful time. At a minimum, jot down the categories in a way you can add notes and bullet points as vision and inspiration for each area emerge over the coming days and weeks. 
 
-	1. Relationship to the Creator / God / Source / Ultimate Reality 
-	2. Relationship to Creation / Nature / Reality 
-	3. Relationship to Self 
+	1. Relationship to the Creator / God / Source / Ultimate Reality  
+	2. Relationship to Creation / Nature / Reality  
+	3. Relationship to Self  
 	4. Romantic Relationship  
-	5. Family Relationships (Immediate) 
+	5. Family Relationships (Immediate)  
 	6. Family Relationships (Extended)  
 	7. Meaningful Friendships  
 	8. Meaningful Work  
 	9. Civic Responsibility and Community Development  
-	10. Lifelong Learning and Development 
+	10. Lifelong Learning and Development  
 	11. Productive, Generous, and Aligned Use of Free Time  
-	12. Economic Development, Alignment, and Wellbeing 
+	12. Economic Development, Alignment, and Wellbeing  
 	13. Spiritual, Intellectual, and Physical Development and Wellbeing  
 
 

@@ -79,4 +79,3 @@ And We will rest in the purity of the ONE
 And with that We enter Chapter One  
 ### ➡️ [[MindWeaving Chapter One — The Human Aspiration]]
 ### MindWeaving Chapter Two — Coming Soon 
-

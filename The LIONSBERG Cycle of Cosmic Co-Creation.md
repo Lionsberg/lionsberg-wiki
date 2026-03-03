@@ -218,4 +218,3 @@ To explain and transmit this across species and civilizations:
     
 
 ---
-

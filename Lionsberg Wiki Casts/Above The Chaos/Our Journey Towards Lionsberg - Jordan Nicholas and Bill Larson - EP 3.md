@@ -17,7 +17,7 @@ A WikiCast post in [[Above The Chaos]]
 
 If you resonate, please show your support! 
 
-**1. Join The Movement**
+**1. Join The Movement**  
 - Visit [Jordan's Website](https://jordannicholas.org) and click [Join The Movement](https://jordannicholas.org/join_the_movement) 
 
 **2. Engage on Social Media**  
@@ -29,7 +29,7 @@ If you resonate, please show your support!
 ## Platform Links 
 
 **Video Links**  
-[YouTube Link](https://youtu.be/IqPMWvknIsc)
+[YouTube Link](https://youtu.be/IqPMWvknIsc)  
 X Link  - Coming Soon
 
 **Podcast Links**: 
@@ -78,7 +78,7 @@ Our host Jordan Nicholas and attorney Bill Larson share stories and background o
 - Designing and Building a Better World 
 - Lionsberg  
 
-**Resources and Links**:
+**Resources and Links**:  
 - [Lionsberg Wiki](https://lionsberg.wiki) 
 - [Lionsberg Website](https://www.Lionsberg.org)  
 - Mondragon Corporation [www.wikipedia.org/wiki/Mondragon_Corporation](http://www.wikipedia.org/wiki/Mondragon_Corporation)  

@@ -8,7 +8,7 @@ As Lionsberg takes form, the next pivotal question is: what animates this intric
 
 The first part of Lionsberg's mission is to be a bastion strength and solidarity in the face of the Meta Crisis—a cataclysmic convergence of existential challenges that threatens the spiritual, moral, and physical fabric of the world. By uniting individuals of goodwill, the mission is to coalesce a force capable of not just confronting but overcoming these challenges. However our primary mission is not reactive but profoundly positive in nature - Forging the New World. The Spirit of God impels us to arise and unite to positively and proactively partner with God and One Another to forge the Best Possible Future for All. 
 
-[[Lionsberg Mission]] 
+[[Lionsberg Mission]]  
 
 #### The Aim: A Higher-Order Functional Unity for Global Transformation 
 
@@ -33,4 +33,3 @@ Given the universal and eternal nature of Lionsberg's Aim and Goal, regenerativi
 #### Conclusion: The Ascent to a New Paradigm
 
 Lionsberg is not merely a reaction to the brokenness of our world; it is an aspiration for and roadmap towards what could be. In outlining its Mission, Aim, and Goal, we are not just providing a roadmap; we are etching a covenant with the Divine and with each other, one that transcends time and space. This Covenant relationship with God is the lighthouse guiding Lionsberg as it sets sail on its unprecedented Quest, embodying the aspiration for a New Era, on Earth as it is in Heaven.
-

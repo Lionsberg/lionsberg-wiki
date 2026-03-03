@@ -8,7 +8,7 @@ The [[Idea]] is for [[Individuals]] to be and become in a Way, that helps their 
 
 Each time the [[LIONSBERG System]] is [[Instantiation|Instantiated]] in a Individual, Group, or Community Domain, the learnings, improvements, and adaptations are fed back "up" to the [[Prototype]], so that [[All]] future Instantiations receive the benefit of the learning from [[All]] previous Instantiations. 
 
-___
+___  
 The Program Manager and IPD Teams will use the information contained in the [[Meta Project Program Statement]] to design a prototypical Higher Order System purpose-built to deliver a continuously improving qualify of Life for [[All]].
 
 The Prototype will be developed to meet each of the [[Conditions Of Acceptance]] developed by the [[Meta Project Program Statement]] for the [[New World]].

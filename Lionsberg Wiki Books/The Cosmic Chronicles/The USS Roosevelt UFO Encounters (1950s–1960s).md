@@ -118,4 +118,3 @@ Former crew members, including radar operators, pilots, and deck officers, have 
     
     - _The UFOs and the Military Connection._
     - _Secrets of the Navy’s UFO Encounters._
-

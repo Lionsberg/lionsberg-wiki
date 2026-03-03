@@ -11,7 +11,7 @@ The vision is bold.
 The path is transformative.  
 The goal is transcendent.  
 The plan is wise.  
-It still might work. 
+It still might work.  
 The next steps are challenging, but we'll overcome them.
 
 At the outset of this year, we set a **120 day plan** to secure resources for the next stage. With ~45 days remaining, I am acutely aware that we cannot bring our audacious vision to life without additional resources, participation, and support. As such, I am embarking on an exhilarating mission the next 45 days to secure the necessary support that will propel our collective efforts to new heights.
@@ -37,6 +37,6 @@ With heartfelt gratitude and unwavering determination,
 
 ~ J 
 
-[[Jordan Nicholas Sukut]] 
+[[Jordan Nicholas Sukut]]  
 
 To see the public announcement and invitation, please see [[Above The Chaos, An Invitation]]   

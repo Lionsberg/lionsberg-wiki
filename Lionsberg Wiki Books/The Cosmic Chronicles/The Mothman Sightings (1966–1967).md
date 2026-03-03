@@ -116,4 +116,3 @@ On December 15, 1967, the Silver Bridge connecting Point Pleasant to Gallipolis,
 - **Web Resources:**
     
     - [Mothman Museum Official Site](https://www.mothmanmuseum.com/)
-

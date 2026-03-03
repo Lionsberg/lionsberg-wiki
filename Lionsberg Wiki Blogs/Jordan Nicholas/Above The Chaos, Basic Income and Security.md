@@ -35,5 +35,3 @@ From that plateau we will be able to view our higher order personal, community, 
 Against this higher shared Vision and Intention, the harsh reality is that an Analysis of existing forces and conditions reveals that over 2/3 of us around the world currently fall below this line. 
 
 [[Above The Chaos, We Have Work To Do|We have work to do]]. 
-
-

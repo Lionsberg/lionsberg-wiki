@@ -5,23 +5,23 @@ A post in [[Above The Chaos]].
 
 ## Content
 
-[[#One To One]]   
+[[#One To One]]  
 [[#Bottom Line Up Front]]  
 [[#Action]]  
 [[#A Non-Zero Probability of the Systems Collapse of the Old World]]  
 [[#Heroic Groups Around The World]]  
 [[#A Simple Yet Sophisticated Plan Of Action]]  
-[[#An Invitation To A Game Big Enough That It Might Work]]   
-[[#The Myth of Lionsberg]]   
-[[#Co-Creating The New World]]   
-[[#Crossing The Threshold and Closing The Boundary]]   
-[[#Rules and Structure of The Game]]   
-[[#Stewardship And Protection Of Value and Values]]   
-[[#What Can Enter The Boundary]]   
-[[#Dinner Party Rules]]   
-[[#A Request For Forgiveness and a Clean Slate]]   
-[[#A Request For Resources and Assistance]]   
-[[#Next Steps]]   
+[[#An Invitation To A Game Big Enough That It Might Work]]  
+[[#The Myth of Lionsberg]]  
+[[#Co-Creating The New World]]  
+[[#Crossing The Threshold and Closing The Boundary]]  
+[[#Rules and Structure of The Game]]  
+[[#Stewardship And Protection Of Value and Values]]  
+[[#What Can Enter The Boundary]]  
+[[#Dinner Party Rules]]  
+[[#A Request For Forgiveness and a Clean Slate]]  
+[[#A Request For Resources and Assistance]]  
+[[#Next Steps]]  
 [[#Additional Reading and Resources]]  
 
 
@@ -192,7 +192,7 @@ If you are interested in some of the value created to date, see [[2022.Q2 Presen
 ## Next Steps 
 
 1. Let Jordan know : 
-	1) Are you in or out 
+	1) Are you in or out  
 	2) If you are in, whether you already have a small group of at least 3, or would like help forging or joining one.  
 2. November 16th - The Great Game of Lionsberg begins. 
 3. November 16th through December 24th - training and onboarding of initial 3 to 12 groups, and creation of onboarding pipeline and process for additional groups. 

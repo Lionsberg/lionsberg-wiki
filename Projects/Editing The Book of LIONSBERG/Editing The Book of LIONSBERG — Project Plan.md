@@ -10,7 +10,7 @@ _A proposal for lifting a 186,000-word prophetic work to the full height of its 
 
 It attempts what very few texts in human history have attempted: to hold **sacred scripture, philosophical treatise, civilizational systems design, allegorical narrative, and revolutionary manifesto** in one breath.
 
-Its closest analogues are not modern books. They are:
+Its closest analogues are not modern books. They are:  
 - **Gibran's _The Prophet_** — the aphoristic, voice-from-beyond register
 - **Bunyan's _Pilgrim's Progress_** — the allegorical journey through darkness toward light
 - **Sri Aurobindo's _The Life Divine_** — the synthesis of cosmic metaphysics with practical transformation
@@ -78,7 +78,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 
 **The Problem**: The text shifts between prophetic, narrative, and didactic modes without signaling, creating whiplash. A psalm is interrupted by a systems diagram.
 
-**The Work**: Identify every passage where the register breaks, and either:
+**The Work**: Identify every passage where the register breaks, and either:  
 - Separate the modes (let prophetic be prophetic, systematic be systematic)
 - Smooth the transition so the shift feels intentional rather than accidental
 - Move operational/technical material to its proper home (The LIONSBERG Playbook)
@@ -89,7 +89,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 
 **The Problem**: Half-written sections surrounded by fully realized ones damage the whole more than their absence would.
 
-**The Work**: For each stub section, decide:
+**The Work**: For each stub section, decide:  
 - **Complete it** — Write substance worthy of the surrounding material
 - **Consolidate it** — Merge into an adjacent section
 - **Remove it** — If it adds nothing and cannot be completed
@@ -132,7 +132,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 
 **The Problem**: Across 491 files, there are inevitably typos, inconsistencies, voice drift, formatting issues, and small coherence failures that only surface in a line-by-line read.
 
-**The Work**: A systematic page-by-page pass through all 491 files:
+**The Work**: A systematic page-by-page pass through all 491 files:  
 - Fix typos and grammatical errors
 - Cohere voice within each mode
 - Ensure formatting consistency (markdown style, header levels, dividers)
@@ -150,31 +150,31 @@ The seven dimensions are not independent — they interact. The wisest sequence 
 ### Phase 1: Structural Decisions (Dimensions 1-3)
 _Do the work that changes what exists before polishing what exists._
 
-**Step 1.1 — Identify and relocate operational material from Chapter 11**
+**Step 1.1 — Identify and relocate operational material from Chapter 11**  
 Move sections 11.54-11.67 (project management frameworks) to The LIONSBERG Playbook or mark them for transformation into prophetic register. This is the clearest register violation and the easiest to resolve.
 
-**Step 1.2 — Complete or consolidate stub sections**
+**Step 1.2 — Complete or consolidate stub sections**  
 Systematically work through Chapters 7, 8, 9, and any others with placeholder content. For each stub: complete, merge, or remove.
 
-**Step 1.3 — Develop Chapter 14**
+**Step 1.3 — Develop Chapter 14**  
 The most significant creative work. Requires deep engagement with the voice and vision of the entire book. Best done after Steps 1.1-1.2 so the full architecture is clear.
 
 ### Phase 2: Voice and Language (Dimensions 4-6)
 _Now that structure is settled, refine the language._
 
-**Step 2.1 — Meta-prefix audit and reduction**
+**Step 2.1 — Meta-prefix audit and reduction**  
 Systematic pass identifying every use of "Meta" across the book. Categorize: keep (essential), replace (with specific term), or remove. Apply changes.
 
-**Step 2.2 — Wiki-link thinning in prophetic passages**
+**Step 2.2 — Wiki-link thinning in prophetic passages**  
 Identify the passages where the text is operating in prophetic/narrative mode. Thin links in those passages while preserving them in teaching/reference sections.
 
-**Step 2.3 — Repetition compression**
+**Step 2.3 — Repetition compression**  
 The most judgment-intensive work. Requires reading across chapters to identify where spiral returns add depth vs. where they merely restate. Compress without losing the spiral architecture.
 
 ### Phase 3: Final Polish (Dimension 7)
 _Now that structure and voice are settled, polish every page._
 
-**Step 3.1 — Page-by-page pass, Chapter 0 through Chapter 14**
+**Step 3.1 — Page-by-page pass, Chapter 0 through Chapter 14**  
 Systematic, file-by-file review of all 491 pages. Organized by chapter. Each page: typos, grammar, voice coherence, formatting, link verification, flagged issues.
 
 **Proposed batching for the page-by-page pass:**
@@ -247,7 +247,7 @@ Before beginning work, several decisions will shape the entire project:
 
 ## VII. Recommendation: Where to Begin
 
-**Start with Phase 1, Step 1.1** — the relocation of operational material from Chapter 11. This is:
+**Start with Phase 1, Step 1.1** — the relocation of operational material from Chapter 11. This is:  
 - The clearest problem (register violation is unambiguous)
 - The most contained (specific section range: 11.54-11.67)
 - The most immediately impactful (removing the most jarring voice breaks)
@@ -320,4 +320,3 @@ _The seed is alive. The tree is magnificent. It needs pruning — not to make it
 - [ ] **D4** — Wiki-link boundary: define prophetic vs. teaching passages
 - [x] **D5** — Chapter X: remove, keep as placeholder, or develop?
 - [ ] **D6** — Repetition tolerance: define the line between reinforcement and redundancy
-

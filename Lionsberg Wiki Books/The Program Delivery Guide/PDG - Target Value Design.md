@@ -50,6 +50,6 @@ The site Core Group will develop cross-horizontal clusters to address various co
 
 ___
 
-_Previous: [[PDG - Integrated Project Delivery]]_
-_Next: [[PDG - Program Definition]]_
+_Previous: [[PDG - Integrated Project Delivery]]_  
+_Next: [[PDG - Program Definition]]_  
 _Return to [[The Program Delivery Guide]]_

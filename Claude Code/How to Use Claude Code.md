@@ -56,10 +56,10 @@ This documentation should live in your workspace as markdown files, not in Claud
 
 ### Effective Collaboration Patterns
 
-**Instead of**: "Change line 42 to use a different variable name"
+**Instead of**: "Change line 42 to use a different variable name"  
 **Do this**: "The variable naming in this function isn't clear. Review it and propose better names that follow our conventions."
 
-**Instead of**: "Add error handling here, here, and here"
+**Instead of**: "Add error handling here, here, and here"  
 **Do this**: "This module needs better error handling. Analyze where errors could occur and implement comprehensive error handling with our standard patterns."
 
 ### Iteration Cycle

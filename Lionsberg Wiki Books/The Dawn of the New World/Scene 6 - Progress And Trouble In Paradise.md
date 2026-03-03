@@ -10,7 +10,7 @@ Most terrifying of all, the Monsters and Dragons, once confined to ancient stori
 
 As fear consumed them, the people turned inward, and [[SpatioTemporal Domain]] of Concern tightened. Soon, everyone focused inward on their immediate struggles, allowing the stories of the heroes who ventured beyond The Boundary to fade ever further from their minds. The cracks in The Boundary, once small, grew larger until one day that seemed like any other, the Upward Spiral ceased, and the Downward Spiral began.   
 
-___
+___  
 Forward to: [[Scene 7 - The Beginning of the Perilous Descent]]  
 Back to: [[Scene 5 - The Threshold Of Knowing]]  
 Back to Table of Contents: [[The Dawn of the New World]]  

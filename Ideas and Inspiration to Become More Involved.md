@@ -41,4 +41,3 @@
 39.  Collaborate with others to create and share content that promotes the values of the Quest and the rising movement.
 40.  Attend conferences or events focused on the Meta Crisis and the solutions that are needed.
 41.  Participate in local or global initiatives that work towards creating a better future for all life on Earth.
-

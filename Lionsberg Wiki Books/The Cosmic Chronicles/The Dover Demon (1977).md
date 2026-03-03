@@ -112,4 +112,3 @@ The following night, another local teenager, Abby Brabham, reported seeing a cre
     
     - Cryptozoology Museum: [https://cryptozoologymuseum.com](https://cryptozoologymuseum.com/)
     - Local Legends: [https://weirdus.com](https://weirdus.com/)
-

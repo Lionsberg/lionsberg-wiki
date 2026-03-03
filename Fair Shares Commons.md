@@ -46,7 +46,7 @@ ___
 
 Boyd's insight: **Design the structural DNA so that the system's natural attractor is regeneration rather than extraction.**
 
-This is the same insight expressed in different domains:
+This is the same insight expressed in different domains:  
 - In biology: The DNA determines the organism
 - In architecture: The structure determines the behavior of the building
 - In governance: The constitution determines the behavior of the state

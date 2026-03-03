@@ -9,5 +9,5 @@ Freedom, agency, and responsibility are essential to the success of the New Amer
 ___
 
 Forward to [[V.F. America as a Beacon of Hope, Freedom, and Strength In the World]]  
-Back to [[V.D. Equal Opportunity and Access for All Citizens]]        
+Back to [[V.D. Equal Opportunity and Access for All Citizens]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

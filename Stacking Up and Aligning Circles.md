@@ -1,8 +1,8 @@
 # Stacking Up and Aligning Circles
 
-_One [[Circle]] is a seed.
-A handful of Circles is a garden.
-But when Circles stack up and align at every scale —
+_One [[Circle]] is a seed.  
+A handful of Circles is a garden.  
+But when Circles stack up and align at every scale —  
 a civilization begins to breathe._
 
 The same DNA operates at every level. The same [[Field of Agreements]]. The same governance. The same commitment cycles. Only the scale changes.

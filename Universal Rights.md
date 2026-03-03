@@ -54,5 +54,3 @@ The question again returns to what kind of a Society could guarantee such rights
 If we All desire those rights and freedoms, and desire them for All, what kind of a Society would we have to design and build such that those rights and freedoms could manifest for All? 
 
 And what kind of Way would we need to Co-Operate such that every being on earth had the genuine freedom and opportunity to develop in an environment and society in which they could realize the fullness of their unique potential as part of a harmonious and familial Whole? 
-
-

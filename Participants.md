@@ -2,7 +2,7 @@
 
 The term "Participants" in the context of the Lionsberg System refers to the individuals, teams, organizations, and communities who are engaged in actively working together towards the shared Vision, Goals, and Values.
 
-This term is differentiated from: 
+This term is differentiated from:  
 1. [[Observers|Observers]], who are interested and following along from a distance
 2. [[Members]], who have committed to longer term rights and responsibilities within the system 
 3. [[Citizens]], who have entered into long term relationship and taken up civic and governance responsibilities within Lionsberg   

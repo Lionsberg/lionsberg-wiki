@@ -90,4 +90,3 @@ Back at the base, missile maintenance crews reported strange malfunctions in the
 - **Documentaries:**
     
     - _UFOs and the Military: The Minot Air Force Base Incident_ (2009).
-

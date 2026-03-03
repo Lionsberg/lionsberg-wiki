@@ -65,6 +65,6 @@ The FOP consists of seven steps:
 
 ___
 
-_Previous: [[PDG - Work Structuring and BIM]]_
-_Next: [[PDG - Lessons Learned]]_
+_Previous: [[PDG - Work Structuring and BIM]]_  
+_Next: [[PDG - Lessons Learned]]_  
 _Return to [[The Program Delivery Guide]]_

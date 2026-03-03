@@ -121,4 +121,3 @@ The Everglades have long been a hotspot for cryptid sightings, including reports
 - **Books and Reports:**
     - Quayle, Steve. _Genesis 6 Giants_ – Discusses reptilian beings and their ties to ancient myths.
     - Kasten, Len. _Secret Journey to Planet Serpo_ – Explores extraterrestrial activity and government collaborations.
-

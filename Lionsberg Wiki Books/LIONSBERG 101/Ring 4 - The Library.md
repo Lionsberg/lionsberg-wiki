@@ -10,9 +10,9 @@ The LIONSBERG Wiki contains approximately **2.5 million words** of foundational 
 
 You do not need to read all of it. You do not need to read most of it.
 
-**Ring 0** gave you the center: [[ONE]].
-**Ring 1** gave you the Seed: [[Ring 1 - The Seed|the twelve elements in one page]].
-**Ring 2** gave you the Pattern: [[Ring 2 - The Pattern Unfolded|each element unfolded with enough to begin]].
+**Ring 0** gave you the center: [[ONE]].  
+**Ring 1** gave you the Seed: [[Ring 1 - The Seed|the twelve elements in one page]].  
+**Ring 2** gave you the Pattern: [[Ring 2 - The Pattern Unfolded|each element unfolded with enough to begin]].  
 **Ring 3** gave you the Proof: [[Ring 3 - The Living Proof|1,500 years of evidence across eight movements]].
 
 Ring 4 gives you the **depth** — so that when you encounter a specific challenge in your Circle, your Quest, your community, or your life, you can go deeper into the specific domain you need.
@@ -43,7 +43,7 @@ These books describe **How It Works** — the practical patterns, governance str
 
 These pages articulate the **[[Twelve Irreducible Elements]]** — the DNA that appears in every successful self-replicating movement:
 
-**The Pattern of Cooperation (1-8):**
+**The Pattern of Cooperation (1-8):**  
 - **[[One Purpose Above All]]** — The Purpose governs; leaders serve
 - **[[Holofractal Omnifederation]]** — Complete wholes, fractally federated, with every member holding an equal voice in the Whole
 - **[[Sovereignty At Every Scale]]** — Authority flows from consent, never from command
@@ -53,7 +53,7 @@ These pages articulate the **[[Twelve Irreducible Elements]]** — the DNA that 
 - **[[Self-Sustenance and Self-Replication]]** — The final step of maturity is planting new seeds
 - **[[Structural Immunity]]** — Explicit protections against the diseases that kill movements
 
-**The Pattern of Production (9-12):**
+**The Pattern of Production (9-12):**  
 - **[[Integrated Delivery]]** — Every Circle a node in a planetary production system
 - **[[Design To The Goal]]** — All design constrained by The Goal, not by budget or politics
 - **[[Networks of Commitments]]** — Reliable promises, made, kept, and learned from
@@ -131,6 +131,6 @@ Both are necessary. The DNA without the forest is too thin. The forest without t
 
 ---
 
-Forward to [[Ring 5 - The Game]]
-Back to [[Ring 3 - The Living Proof]]
+Forward to [[Ring 5 - The Game]]  
+Back to [[Ring 3 - The Living Proof]]  
 Table of Contents [[LIONSBERG 101]]

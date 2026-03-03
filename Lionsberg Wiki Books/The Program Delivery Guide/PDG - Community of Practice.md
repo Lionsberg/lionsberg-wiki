@@ -32,6 +32,6 @@ All site teams will have access to the Central Office library. Necessary materia
 
 ___
 
-_Previous: [[PDG - The IPD Agreement and Core Group]]_
-_Next: [[PDG - Target Value Design at Site]]_
+_Previous: [[PDG - The IPD Agreement and Core Group]]_  
+_Next: [[PDG - Target Value Design at Site]]_  
 _Return to [[The Program Delivery Guide]]_

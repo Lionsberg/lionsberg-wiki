@@ -13,5 +13,5 @@ The real pathways towards universal aspirations must be an inspiring call to act
 ___
 
 Forward to [[V.D. Equal Opportunity and Access for All Citizens]]  
-Back to [[V.B. Real Solutions To Universal Problems And Needs]]        
+Back to [[V.B. Real Solutions To Universal Problems And Needs]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

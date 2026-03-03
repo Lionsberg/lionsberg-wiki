@@ -98,8 +98,8 @@
 - Careful not to build a structure that has to fed via old systems resources... the ENTRAPMENT POTENTIAL... 
 - From Killu in Zoom chat - Stuart Kauffman is a scientist very interested in self organizing systems.  You can see his books here. https://www.google.com/boo ks/edition/The_Origins_of_Order/lZcSpRJz0dgC?hl=en.  
  Stuart is also author of the concept: Adjacent possible.  I, with others, have played around with one of his concepts: Patches and Nodes. Patches are groups like LeCiel and all the others we are wanting to partner with.  Nodes are you and I and all the people who live and work within these groups.  It is the nodes here who act like bees looking for honey. Each node is connected to no more than three other nodes each randomly chosen from other groups.  Each node communicates with the other nodes at least monthly with a conversation that : 1 share the health and well being of their patch; 2 Find out what each needs; and what they have to share; and if there is work they should be doing together.  
-    Each node then returns to their home group and shares this information. The patch decides: 1.There is some useful information here, let's learn more; 2 There is real excitement with this patch because they "just got funding", "reached an important goal", etc. etc; ; 3 We have an opportunity to work with this patch; etc. If the nodes do make an effort to connect and report/share, the whole will settle on a higher order over time and forge a new organization. A few of us have played with this concept but it is still waiting a good effort over time with diverse groups.
-    Stuart warns: if there is too much connection -- trying to have whole groups meet with other whole group, you will likely get gridlock and the inability to make worthwhile decisions; if the communication is too scarce, you will get entropy and early death.   He has created all of his models by working with nature's ways: order and randomness working together.  There is a lot of complexity in getting this idea started but with the diversity and # of groups, it might just be a great way to scale and shift into a new reality.
+    Each node then returns to their home group and shares this information. The patch decides: 1.There is some useful information here, let's learn more; 2 There is real excitement with this patch because they "just got funding", "reached an important goal", etc. etc; ; 3 We have an opportunity to work with this patch; etc. If the nodes do make an effort to connect and report/share, the whole will settle on a higher order over time and forge a new organization. A few of us have played with this concept but it is still waiting a good effort over time with diverse groups.  
+    Stuart warns: if there is too much connection -- trying to have whole groups meet with other whole group, you will likely get gridlock and the inability to make worthwhile decisions; if the communication is too scarce, you will get entropy and early death.   He has created all of his models by working with nature's ways: order and randomness working together.  There is a lot of complexity in getting this idea started but with the diversity and # of groups, it might just be a great way to scale and shift into a new reality.  
 
 - Self-organizing systems. Nodes and patches. Multiple working groups. Quick overview of there is a lot of energy around this, here is something happening, 
 - trying to have whole groups meet with other whole group, you will likely get gridlock and the inability to make worthwhile decisions; if the communication is too scarce, you will get entropy and early death.
@@ -156,7 +156,7 @@
 -  how to bring out the best of people - people declare what is most passionate and helpful... 
 
 
-Wendy M's Summary notes: Reflecting on the fizzling that happened last summer
+Wendy M's Summary notes: Reflecting on the fizzling that happened last summer  
 * the lack of such mirror reflecting back, and sense of working into vacuum, is likely what led to prior efforts fizzling Part of the struggle was, we know how this works in hierarchical yraditional organization/group, but not in flat, more self-organizing, decentralized groups
 * Agree that efforts weren’t validated, acknowledged, placed somewhere, appreciated, celebrated by the ecosystem, which are less about the ego and more about validating direction and priorities, so that people know what they’re doing is of value, right now, here, in this ecosystem. I think no matter what the structure of the organization, the feedback / accountability is essential to continued alignment, motivation and engagement.
 
@@ -189,4 +189,3 @@ Wendy M's Summary notes: Reflecting on the fizzling that happened last summer
     - THEN MOVEING INTO GENERATION / FLOW... 
 - Flow of funds is a big monster that keeps people stuck... 
 - 
-

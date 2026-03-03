@@ -1,8 +1,8 @@
 # Share Your Stories of Transformation
 
-The Pattern does not spread through propaganda.
-It does not spread through arguments, campaigns, or clever marketing.
-It spreads the way fire has always spread —
+The Pattern does not spread through propaganda.  
+It does not spread through arguments, campaigns, or clever marketing.  
+It spreads the way fire has always spread —  
 Through the undeniable evidence of **something real that happened**.
 
 A life changed. A neighborhood healed. A [[Circles|Circle]] of strangers became a family. A [[Quest]] that seemed impossible was accomplished — and everyone who touched it was transformed in the process.
@@ -44,10 +44,10 @@ Keep it honest. Keep it specific. The power is not in polish — it is in truth.
 
 ## The Chain of Resonance
 
-Stories create **resonance**.
-Resonance creates **trust**.
-Trust creates **invitation**.
-Invitation creates **Circles**.
+Stories create **resonance**.  
+Resonance creates **trust**.  
+Trust creates **invitation**.  
+Invitation creates **Circles**.  
 Circles create [[Heaven On Earth]].
 
 This is the chain. Every story you tell is a link in it.

@@ -1,6 +1,6 @@
 # Some New Lionsberg Wiki Books
 
-A Post in [[Above The Chaos]] 
+A Post in [[Above The Chaos]]  
 2024.11.19
 
 As We processed [[Jordan]]'s death and rose from The Ashes...

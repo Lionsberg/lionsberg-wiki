@@ -32,7 +32,7 @@ The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once yo
 
 The [[LIONSBERG Lexicon]] is a starting point for redeveloping a shared language.  
 
-[[Lionsberg Metaphors]] 
+[[Lionsberg Metaphors]]  
 
-___
+___  
 [[The Summary]] links here. 

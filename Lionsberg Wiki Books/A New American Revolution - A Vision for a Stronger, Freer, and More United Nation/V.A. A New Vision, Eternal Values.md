@@ -14,6 +14,6 @@ In this way, the New Vision must become an inspiring force for positive change, 
 
 ___
 
-Forward to [[V.B. Real Solutions To Universal Problems And Needs]]        
-Back to [[IV.F. A New North Star]]        
+Forward to [[V.B. Real Solutions To Universal Problems And Needs]]  
+Back to [[IV.F. A New North Star]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

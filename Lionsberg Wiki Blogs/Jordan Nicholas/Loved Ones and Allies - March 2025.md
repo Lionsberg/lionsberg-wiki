@@ -111,5 +111,3 @@ To step forward in courage, stand firmly in Wisdom and Truth, and rise Together 
 With Love, Strength, Hope, and Unshakable Determination,
 
 ~ **J** 
-
-

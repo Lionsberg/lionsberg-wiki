@@ -108,4 +108,3 @@ The study of cryptids offers a unique lens into humanity's relationship with the
 - **Documentaries:**
     - _The Mothman Prophecies_ (2002).
     - _Finding Bigfoot_ (2011–2018).
-

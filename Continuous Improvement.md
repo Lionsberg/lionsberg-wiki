@@ -6,7 +6,7 @@ The most basic form of continuous learning and improvement is the regular practi
 
 In fact, it has been argued that the only truly mandatory element of the System is to Plan, Act, Learn, and Improve.  
 
-___
+___  
 [[Continuous Improvement]] is a philosophy for taking advantage of the lessons learned from planning, design and implementation, and communicating and preserving the learnings, countermeasures, and solutions devised over time.  
 
 It creates an institutional [[Value]] by constantly re-evaluating all Systems to see how they can be improved.  Continuous improvement is at the heart of “lean philosophy”, and is akin to the way that the information contained in the DNA of life progressively tests and improves itself across time. 
@@ -20,7 +20,7 @@ The [[Attend, Plan, Act, Learn, Improve Cycle]] (APALI) cycle is at the heart of
 3. **Act** - Perform a test implementation of the plan on a small scale
 4. **Learn** - Assess the results of the test, and analyze any [[Variance Between Expected And Actual Outcomes]]
 5. **Improve** 
-	1. If the results are satisfactory, implement the plan
+	1. If the results are satisfactory, implement the plan  
 	2. If the results are not satisfactory, improve the plan / hypothesis and repeat the cycle until satisfactory results are achieved that minimize [[Variance Between Expected And Actual Outcomes]].  
 	3. The new improvement becomes the new standard, and process begins again to attain the next improvement. In [[Continuous Improvement]], there is always another improvement to make, always a way to "get a little better every day."
 

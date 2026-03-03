@@ -96,7 +96,7 @@ As an independent and transcendent new system, Lionsberg is not intended to supp
 
 The implementation and roll-out of the Lionsberg System will be a multifaceted process that involves the collaboration of individuals, organizations, and communities around the world. 
 
-Key components of this process include: 
+Key components of this process include:  
 - the development of a global platform and infrastructure  
 - the recruitment and onboarding of new members  
 - the creation of strong community and culture  
@@ -153,5 +153,5 @@ The Lionsberg System is a means of partnering with God and one another in a wise
 ___
 
 Forward to [[The Story Of The Bible]]  
-Back to [[Introduction - Lionsberg - A Biblical Perspective]]      
+Back to [[Introduction - Lionsberg - A Biblical Perspective]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    

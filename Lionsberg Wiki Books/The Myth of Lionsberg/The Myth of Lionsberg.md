@@ -59,5 +59,3 @@ Within the [[Biosphere]] of [[Earth]], the [[Living System]] receives dissociati
 
 
 ## 
-
-

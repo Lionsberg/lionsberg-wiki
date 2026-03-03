@@ -88,7 +88,7 @@ So that is what is next for [[J]].
 
 Jordan's Final Report explains: [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]. 
 
-___
+___  
 **Our simple invitation is this:** 
 
 Let's dialogue and discuss these opportunities and threats to discern the Wise Right Way forward. \

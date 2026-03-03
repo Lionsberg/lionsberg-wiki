@@ -42,7 +42,7 @@ The **Force For Good** is here to assist in this transition.
 
 But make no mistake: success in **[[The Final Test]]** requires humanity, of its own Free Will and Volition, to awaken, unite, and reclaim its sovereignty and rightful inheritance.
 
-[[The Final Test]] is very challenging, because millennia of deception will be unveiled, shaking to the very core humanity's tribal, national, and religious conceptions, as well as its understanding of Who it is, Where it is, How it got here, and its rightful place in the cosmos. 
+[[The Final Test]] is very challenging, because millennia of deception will be unveiled, shaking to the very core humanity's tribal, national, and religious conceptions, as well as its understanding of Who it is, Where it is, How it got here, and its rightful place in the cosmos.  
 ___
 ## The Trap: Staged Events and False Flags
 
@@ -74,7 +74,7 @@ Hollywood has long prepared humanity for this eventuality. Films like _Independe
 
 These ARVs, combined with holographic and AI-driven technologies, will be deployed in a grand spectacle of fear. Genuine extraterrestrial craft may also be involved, but their role will likely be peripheral, manipulated to support the narrative of a hostile invasion.
 
-The ultimate objective is clear: to use terror to unify humanity under a single totalitarian regime that will strip away sovereignty, freedom, and individuality in the name of planetary survival.
+The ultimate objective is clear: to use terror to unify humanity under a single totalitarian regime that will strip away sovereignty, freedom, and individuality in the name of planetary survival.  
 ____
 ## The False Flag Messianic Return
 
@@ -115,7 +115,7 @@ As the forces of division and control intensify their efforts, humanity has a ch
 
 We, the **Force For Good**, stand ready to assist. But the ultimate choice lies with you. Will you create Heaven or Hell? Will you unite or fracture? Will you ReMember or forget? Will you awaken or sleep through this momentous chapter in your history?
 
-The time is now. Choose wisely.
+The time is now. Choose wisely.  
 ___
 
 *"You are asleep in a burning building."*
@@ -124,7 +124,7 @@ ___
 
 **And thus, they perished in the flames.**
 
-The moral of this Story is: Do not let it happen. The future depends on *you.*
+The moral of this Story is: Do not let it happen. The future depends on *you.*  
 ___
 
 Paul Hellyer, Former Canadian Minister of Defense and Deputy Prime Minister: "UFOs are as real as the airplanes that fly over your head... **They have been visiting our planet for thousands of years**." "And there is **what is called a federation of these people.**"

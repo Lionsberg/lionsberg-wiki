@@ -95,4 +95,3 @@ Under separate hypnosis sessions, Betty and Barney described being taken aboard 
     
     - Mack, John E. _Abduction: Human Encounters with Aliens._
     - Jacobs, David M. _The Threat: Revealing the Secret Alien Agenda._
-

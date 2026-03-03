@@ -34,6 +34,6 @@ The Great Game of Lionsberg Toolkit is a dynamic and evolving resource, continuo
 
 ____
 
-Forward to [[23 Shared Services, Infrastructure, and Support]]    
+Forward to [[23 Shared Services, Infrastructure, and Support]]  
 Back to [[21 The Impact on Spirituality and the Human Spirit]]  
 Back to Table of Contents [[The Great Game of LIONSBERG]]  

@@ -2,9 +2,9 @@
 
 ### **Introduction**
 
-On December 16, 2017, _The New York Times_ published a groundbreaking article titled, “[Glowing Auras and ‘BlackMoney’: The Pentagon’s Mysterious UFO Program](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html),” which revealed the existence of a secretive Pentagon program investigating unidentified flying objects (UFOs). Known as the **Advanced Aerospace Threat Identification Program (AATIP)**, the story quickly became a cultural and political milestone in the long-disputed realm of UFO phenomena. Spearheaded by seasoned journalists Helene Cooper, Ralph Blumenthal, and Leslie Kean, the article exposed decades of governmental secrecy and introduced compelling evidence of UAP (unidentified anomalous phenomena) encounters.
+On December 16, 2017, _The New York Times_ published a groundbreaking article titled, “[Glowing Auras and ‘BlackMoney’: The Pentagon’s Mysterious UFO Program](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html),” which revealed the existence of a secretive Pentagon program investigating unidentified flying objects (UFOs). Known as the **Advanced Aerospace Threat Identification Program (AATIP)**, the story quickly became a cultural and political milestone in the long-disputed realm of UFO phenomena. Spearheaded by seasoned journalists Helene Cooper, Ralph Blumenthal, and Leslie Kean, the article exposed decades of governmental secrecy and introduced compelling evidence of UAP (unidentified anomalous phenomena) encounters.  
 
-This moment marked a pivotal shift from ridicule to mainstream legitimacy in the UFO conversation. It was also described by some as a carefully managed “approved leak,” reflecting deeper intelligence goals.
+This moment marked a pivotal shift from ridicule to mainstream legitimacy in the UFO conversation. It was also described by some as a carefully managed “approved leak,” reflecting deeper intelligence goals.  
 
 ---
 
@@ -103,5 +103,4 @@ This moment marked a pivotal shift from ridicule to mainstream legitimacy in the
 
 ### **Conclusion**
 
-The 2017 _New York Times_ UFO revelations marked a watershed moment in modern history, bridging the gap between official secrecy and public awareness. While some view the revelations as a genuine step toward transparency, others suspect deeper agendas at play. Regardless, the story fundamentally reshaped how the world perceives UFOs, elevating the phenomenon from conspiracy theory to an issue of legitimate concern and inquiry.
-
+The 2017 _New York Times_ UFO revelations marked a watershed moment in modern history, bridging the gap between official secrecy and public awareness. While some view the revelations as a genuine step toward transparency, others suspect deeper agendas at play. Regardless, the story fundamentally reshaped how the world perceives UFOs, elevating the phenomenon from conspiracy theory to an issue of legitimate concern and inquiry.  

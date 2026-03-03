@@ -4,6 +4,6 @@ Of all the members of the body, the tongue is the most powerful. In it lies the 
 
 ___
 
-Forward to [[Meditation 23]]        
+Forward to [[Meditation 23]]  
 Back to [[Meditation 21]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  

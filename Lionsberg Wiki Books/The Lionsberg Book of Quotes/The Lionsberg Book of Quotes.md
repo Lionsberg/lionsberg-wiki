@@ -314,7 +314,7 @@ There is no greater tyranny than that which is perpetrated under the shield of t
 
 “Make the world work, for 100% of humanity, in the shortest possible time, through spontaneous cooperation, without ecological offense or the disadvantage of anyone.” - [[Buckminster Fuller]]  
 
-“You must do the thing you think you cannot do.” 
+“You must do the thing you think you cannot do.”  
 – Eleanor Roosevelt 
 
 "Do one thing every day that scares you." - Eleanor Roosevelt 

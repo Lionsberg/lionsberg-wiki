@@ -2,9 +2,9 @@
 
 Our [[Current Best Understanding]] is that [[LIONSBERG]] should instantiate a [[Lionsberg Currency]].  
 
-This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[Lionsberg Goals]]. 
+This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[Lionsberg Goals]].  
 
-The voluntary effort towards shared goals will be measured based on a [[Level Of Commitment]] that ranges from 1 to 7. 
+The voluntary effort towards shared goals will be measured based on a [[Level Of Commitment]] that ranges from 1 to 7.  
 
 ## Why We Are Not Basing Currency On Time
 - We have experienced that accounting for time on task is a major failure mode. 

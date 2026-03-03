@@ -6,7 +6,7 @@ Conscious Intelligence flows through every ounce of Life, continually learning, 
 
 ___
 
-Forward to [[Meditation 660]]   
+Forward to [[Meditation 660]]  
 Back to [[Meditation 658]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
 Read other [[Lionsberg Wiki Books]] 

@@ -48,5 +48,3 @@ Each of these stages requires a System and Infrastructure to support it, before 
 ## Next Learning Exploration  
 
 Having closed [[The 7 Year Window of Preparatory Work and Learning]] and opened the [[10 Year Grand Strategy]] in March 2024, [[The Invitation]] is now circulating to invite a growing network of [[Lionsberg Co-Creators]] to explore how we can unite as One Body and help one another [[Progress]] towards [[The Goal]].  
-
-

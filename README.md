@@ -2,8 +2,8 @@
 
 _There is an ancient story of a golden seed — a tiny vessel bursting with life and liberty, that when planted brings forth Heaven for All. This seed will be known by its fruit. Plant it. Cultivate it. Nurture it. Taste and see — Heaven becoming real, right here and now._
 
-Welcome, beloved.
-Fellow traveler.
+Welcome, beloved.  
+Fellow traveler.  
 Wanderer through fire and flame.
 
 At last you have arrived.
@@ -22,8 +22,8 @@ Ten thousand voices and countless lifetimes of wisdom are woven into the million
 
 Inside, you will find three things as a gateway to infinity beyond:
 
-**A Story** — revealing where we are, how we got here, and what is at stake — spanning the cosmos and touching every world where beings face the great choice.
-**A Pattern** — the irreducible DNA of how sovereign beings throughout the cosmos organize, heal, and co-create Heaven together. Independently discovered and proven across countless civilizations, 1,500 years on Earth, and tens of millions of dollars of research.
+**A Story** — revealing where we are, how we got here, and what is at stake — spanning the cosmos and touching every world where beings face the great choice.  
+**A Pattern** — the irreducible DNA of how sovereign beings throughout the cosmos organize, heal, and co-create Heaven together. Independently discovered and proven across countless civilizations, 1,500 years on Earth, and tens of millions of dollars of research.  
 **A Game** — a cooperative, real-world game of planetary transformation where every person, family, community, and bioregion finds their unique role in co-creating **[[Heaven On Earth]]**.
 
 Think of it as stepping into a living and mythic world — vast, real, and transformative. Like stepping through a wardrobe into Narnia, finding yourself aboard a craft in Star Wars, battling wraith in Lord of the Rings, or being pulled into Jumanji. Except this world is not fiction. The stakes are real. The transformation it offers touches every dimension of your actual life and community. And the Pattern within this Seed, when properly planted and tended, transforms any world it touches towards Heaven.
@@ -72,5 +72,5 @@ _Ready to act now? Gather your circle and begin: [[The LIONSBERG Quick Start Gui
 
 ---
 
-_You are beautiful. You are beloved. You are here for a reason. You belong._
+_You are beautiful. You are beloved. You are here for a reason. You belong._  
 **Welcome Home.**

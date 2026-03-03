@@ -18,7 +18,6 @@ The Meta Crisis demands a [[Meta Solution]]. To overcome the Meta Crisis, it is 
 
 ___
 
-Forward to [[Existing Systems and Approaches]]      
+Forward to [[Existing Systems and Approaches]]  
 Back to [[Co-Creating A Better World - a Biblical Perspective]]  
 Back to table of contents [[Lionsberg - A Biblical Perspective]]    
-

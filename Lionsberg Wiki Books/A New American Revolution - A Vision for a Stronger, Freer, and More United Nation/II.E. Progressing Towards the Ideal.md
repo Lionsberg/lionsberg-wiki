@@ -26,6 +26,6 @@ It remains a struggle for each generation to strive ever closer to the Light, bu
 
 ___
 
-Forward to [[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]        
-Back to [[II.D. The Early Rise of America as a Global Leader]]       
+Forward to [[III.A. God's Name in Vain - The Misrepresentation of God in Religion, Politics, and Culture]]  
+Back to [[II.D. The Early Rise of America as a Global Leader]]  
 Back to table of contents [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  

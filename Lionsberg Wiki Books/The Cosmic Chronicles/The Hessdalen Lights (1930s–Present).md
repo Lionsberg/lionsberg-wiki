@@ -119,4 +119,3 @@ In 1998, the Hessdalen Automatic Measurement Station (HESS) was established to c
 - **Web Resources:**
     
     - Official Hessdalen Research: [Hessdalen.org](http://www.hessdalen.org/)
-

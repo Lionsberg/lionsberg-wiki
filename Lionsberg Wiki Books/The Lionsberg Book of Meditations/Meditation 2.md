@@ -4,7 +4,6 @@ Are we conforming our will and intention to the will and intention of That Which
 
 ___
 
-Forward to [[Meditation 3]]        
+Forward to [[Meditation 3]]  
 Back to [[Meditation 1]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]      
-

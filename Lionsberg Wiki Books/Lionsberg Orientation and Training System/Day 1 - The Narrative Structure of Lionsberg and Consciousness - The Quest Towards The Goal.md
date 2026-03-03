@@ -23,7 +23,7 @@ Please excuse the elementary quality. Now that we have modular content pieces in
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ywfit_fQTPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
-[[Week 1 Day 1 Video Transcript]] 
+[[Week 1 Day 1 Video Transcript]]  
 
 ## Key Concepts
 
@@ -79,4 +79,3 @@ With Love, In Community,
 Return to the [[Lionsberg Orientation and Training System]] 
 
 Video Script 
-

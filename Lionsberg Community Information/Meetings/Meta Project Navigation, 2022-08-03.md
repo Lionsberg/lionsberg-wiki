@@ -175,14 +175,14 @@ Okay, let's all stop our video and close your eyes.
 
 And imagine that we are a group and not an individual.
 
-And that whenever we speak, and whenever we listen. It's the group speaking and we're
+And that whenever we speak, and whenever we listen. It's the group speaking and we're  
 done building up a picture of everything that's gone on, before this meeting among us within channels within the wiki and try to contain it all in our mind, without getting too distracted from what's someone's currently saying. 
 
 Hold on to that and help it build, nurture, help it grow. 
 
 And although we're going to frequently have an idea pop into our head, let it simmer for a bit and let it resonate with the group and let ourselves become as much as we can. 
 
-A true group, a thing that rarely happens in human lives. It's something brand new. 
+A true group, a thing that rarely happens in human lives. It's something brand new.  
 It's something the human race needs. 
 
 And we're here in probably a fairly large sense. We're here to create that possibility. And to learn more we need to be in order to nurture it and develop it and make it come to pass in all our channels, all our meetings, all our one on ones, all our efforts, our projects. 
@@ -204,5 +204,3 @@ That's two minutes to open your eyes and come back.
     - Can we speak as an us, instead of me?
 
 ## 
-
-

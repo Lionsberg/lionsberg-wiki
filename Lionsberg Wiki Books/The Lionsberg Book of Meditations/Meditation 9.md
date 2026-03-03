@@ -4,6 +4,6 @@ We begin in *ignorance*. We then come to *know* the rules of Wisdom. We then com
 
 ___
 
-Forward to [[Meditation 10]]        
+Forward to [[Meditation 10]]  
 Back to [[Meditation 8]]  
 Back to table of contents [[The Lionsberg Book of Meditations]]  
