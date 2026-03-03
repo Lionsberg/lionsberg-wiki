@@ -8,13 +8,14 @@ The purpose of this page is to provide ongoing updates to the current state of [
 Where we left off  
 - Merge and elevate The Sacred Ascent into canonical ve…           
   ◼ Renumber Book of LIONSBERG chapters for coherence                
-  ◻ Rewrite The Invitation to highest form                           
+  ◻ Rewrite The Invitation to highest form [[The Invitation]]                           
   ◻ Articulate The LIONSBERG Pattern Language   
 
 ### Quick Items
-- Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
-- Delete [[The Battle For The Spirit Of America]]  
-- Delete [[The Great Game of LIONSBERG]] book... 
+- ✅ Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] — deleted, all content superseded
+- ✅ Delete [[The Battle For The Spirit Of America]] — deleted, all content superseded
+- ✅ Delete [[The Great Game of LIONSBERG]] book...
+- and [[Lionsberg Orientation and Training System]] 
 - Review [[A Way Beyond Fear, Anxiety, And Depression]]  
 
 ### A Items 
