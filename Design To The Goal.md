@@ -18,7 +18,7 @@ ___
 
 ## The Evidence
 
-Target Value Design reduced costs by approximately 19% in the [[Program Delivery Guide]] while simultaneously improving quality and safety — not by cutting corners, but by aligning every decision to the target outcome from the beginning.
+Target Value Design reduced costs by approximately 19% in [[The Program Delivery Guide]] while simultaneously improving quality and safety — not by cutting corners, but by aligning every decision to the target outcome from the beginning.
 
 Goldratt's Theory of Constraints (_The Goal_) showed that all systems are governed by their constraint — optimize the constraint and throughput increases. Ignore the constraint and every other optimization is wasted effort.
 

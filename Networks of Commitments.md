@@ -20,7 +20,7 @@ ___
 
 ## The Evidence
 
-The [[Program Delivery Guide]] demonstrated the Last Planner System across hundreds of construction projects with transformational results.
+[[The Program Delivery Guide]] demonstrated the Last Planner System across hundreds of construction projects with transformational results.
 
 Traditional management produces approximately 50% plan reliability — half of what is planned actually gets done. The Last Planner System achieves 80-90% plan reliability by shifting the locus of planning to the people who actually do the work, requiring only promises they can keep, and treating the gap between WILL and DID as the primary source of learning.
 

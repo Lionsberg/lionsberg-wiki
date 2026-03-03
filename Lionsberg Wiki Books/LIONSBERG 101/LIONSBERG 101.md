@@ -49,7 +49,7 @@ _How the same irreducible DNA emerged independently from every successful moveme
 **Twenty pages.** Each element unfolded with enough depth to understand and enough specificity to act. Historical examples. Practical expressions. Why each element is irreducible.
 
 ### [[Ring 3 - The Living Proof]]
-**The evidence.** [[Mondragon]] — 70 years, 80,000 worker-owners. [[Fair Shares Commons]] — structural DNA for the regenerative economy. The [[Program Delivery Guide]] — proving the production pattern across multiple billion-dollar programs. Eight movements spanning 1,500 years that independently discovered the same DNA.
+**The evidence.** [[Mondragon]] — 70 years, 80,000 worker-owners. [[Fair Shares Commons]] — structural DNA for the regenerative economy. [[The Program Delivery Guide]] — proving the production pattern across multiple billion-dollar programs. Eight movements spanning 1,500 years that independently discovered the same DNA.
 
 ### [[Ring 4 - The Library]]
 **2.5 million words.** The complete reference library — [[The Story of LIONSBERG]], [[The Book of LIONSBERG]], [[Welcome to LIONSBERG]], [[The Great Game of LIONSBERG]], [[The LIONSBERG Playbook]], and 144+ additional books. Organized so you can find what you need when you need it.

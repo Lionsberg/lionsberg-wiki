@@ -12,7 +12,7 @@ _This is the irreducible pattern. If all else were lost and only this page survi
 
 ## The Twelve Elements
 
-This pattern has appeared independently across 1,500 years of human history — in Benedictine monasteries, the cooperative movement, Alcoholics Anonymous, the early church, open source communities, the Iroquois Confederacy, the Swiss Confederation, and the [[Mondragon]] federation — and has been confirmed by $20 million of funded research in the [[Program Delivery Guide|Architecture, Engineering, and Construction industry]]. Every successful large-scale cooperative transformation contains the same irreducible DNA.
+This pattern has appeared independently across 1,500 years of human history — in Benedictine monasteries, the cooperative movement, Alcoholics Anonymous, the early church, open source communities, the Iroquois Confederacy, the Swiss Confederation, and the [[Mondragon]] federation — and has been confirmed by $20 million of funded research in [[The Program Delivery Guide|the Architecture, Engineering, and Construction industry]]. Every successful large-scale cooperative transformation contains the same irreducible DNA.
 
 These are not human inventions. They are universal principles — the same patterns that already operate coherent civilizations across the cosmos, now localized to Earth.
 
@@ -48,7 +48,7 @@ The pattern explicitly protects against the diseases that kill movements: centra
 
 _How organized beings actually build — the operational DNA that makes every Circle a team of builders on [[Worksite Earth]]._
 
-_Confirmed by $20 million of funded research in the [[Program Delivery Guide]], and rooted in the Toyota Production System, Lean Construction, Integrated Project Delivery, Agile, and the Theory of Constraints ([[The Goal]])._
+_Confirmed by $20 million of funded research in [[The Program Delivery Guide]], and rooted in the Toyota Production System, Lean Construction, Integrated Project Delivery, Agile, and the Theory of Constraints ([[The Goal]])._
 
 **9. [[Integrated Delivery]]**
 Every Circle operates as a node in a planetary system operating _in service of_ ONE, All, and the precious living system we are a part of. The [[LIONSBERG Integrated Delivery System]] — rooted in Lean, the Toyota Production System, and Integrated Project Delivery — coordinates work across all scales from Circle to planetary. These are not new principles. They are universal patterns of how intelligent beings coordinate production. Proven across smaller and larger scales, now optimized for Earth.

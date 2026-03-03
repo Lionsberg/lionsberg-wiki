@@ -144,7 +144,7 @@ The Fair Shares Commons model has been implemented across 39 countries on five c
 
 In 2005, the U.S. District Court placed California's prison health care system in **federal receivership** after finding that, on average, one inmate died every 6 to 7 days due to constitutional deficiencies. The Court ordered a "radical transformation" of the system.
 
-The resulting **[[Program Delivery Guide]]** represents lifetimes of operational wisdom — backed by approximately $20 million of funded research — describing how to deliver **multiple billion-dollar projects simultaneously** around a centrally learning **Prototype** designed as a **Kit of Parts**. Its foundations: Integrated Project Delivery, Lean Construction, and the Toyota Production System.
+The resulting **[[The Program Delivery Guide|Program Delivery Guide]]** represents lifetimes of operational wisdom — backed by approximately $20 million of funded research — describing how to deliver **multiple billion-dollar projects simultaneously** around a centrally learning **Prototype** designed as a **Kit of Parts**. Its foundations: Integrated Project Delivery, Lean Construction, and the Toyota Production System.
 
 ### The Parallel to Earth
 
@@ -275,7 +275,7 @@ It has been discovered independently by:
 - Three mountain communities in the Swiss Alps (Swiss Confederation)
 - 120 people gathered in a room in Jerusalem (Early Church)
 - A physicist turned organizational transformation specialist ([[Fair Shares Commons]])
-- A federal court ordering radical transformation of a broken system ([[Program Delivery Guide]])
+- A federal court ordering radical transformation of a broken system ([[The Program Delivery Guide]])
 - Taiichi Ohno perfecting production flow at Toyota
 - Glenn Ballard and Greg Howell founding Lean Construction
 - Eliyahu Goldratt articulating the Theory of Constraints in _The Goal_

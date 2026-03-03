@@ -595,7 +595,7 @@ _The Game that begins at the kitchen table and ends at the stars — the same Pa
 
 ---
 
-### Chapter 16 - The LIONSBERG Playbook
+### The LIONSBERG Playbook
 
 _The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
 
@@ -696,7 +696,7 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 
 ---
 
-### Chapter 17 - The Program Delivery Guide
+### Chapter Sixteen - The Program Delivery Guide
 
 _The Proven Methodology for the Largest Integrated Delivery Program in History. Where the Pattern becomes Program and the Game becomes buildable._
 
@@ -727,11 +727,11 @@ _The Proven Methodology for the Largest Integrated Delivery Program in History. 
 [[16.16 From Receivership to Sovereignty]]  
 
 
-### Chapter 18 - The Sacred Ascent
+### The Sacred Ascent
 
 _All Things Helping All Things Rise. The eternal spiral from personal awakening to cosmic co-creation._
 
-[[The Sacred Ascent]]  
+[[The Sacred Ascent]]
 
 ---
 

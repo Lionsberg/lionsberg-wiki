@@ -8,7 +8,7 @@ Earth is not merely a planet in crisis. It is a **worksite** — the active cons
 
 Every [[Circle]] is a team of builders. Every [[Quest]] is a project. Every act of [[Meaningful Work]] is a contribution to the total integrated delivery of the [[New Civilization]].
 
-This framing comes directly from the [[Program Delivery Guide]] — $20 million of funded research on how to deliver multiple billion-dollar construction projects simultaneously. The PDG describes a system so broken that existing authorities could not fix it — the parallel to Earth is exact. The operational elements of [[The Core Pattern]] — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — are the production system for Worksite Earth.
+This framing comes directly from [[The Program Delivery Guide]] — $20 million of funded research on how to deliver multiple billion-dollar construction projects simultaneously. The PDG describes a system so broken that existing authorities could not fix it — the parallel to Earth is exact. The operational elements of [[The Core Pattern]] — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — are the production system for Worksite Earth.
 
 These patterns are not human inventions. They are **universal principles of how intelligent beings coordinate production** — the same operating system that already enables coherent civilizations across the cosmos to build, maintain, and improve their worlds. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
 

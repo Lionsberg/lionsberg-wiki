@@ -18,7 +18,7 @@ ___
 
 ## The Evidence
 
-$20 million of funded research in the [[Program Delivery Guide]] demonstrated this across billion-dollar construction programs — proving that when all participants align around shared risk, shared reward, and shared information, the total outcome radically improves.
+$20 million of funded research in [[The Program Delivery Guide]] demonstrated this across billion-dollar construction programs — proving that when all participants align around shared risk, shared reward, and shared information, the total outcome radically improves.
 
 Toyota demonstrated it in manufacturing: the entire value stream, from supplier to customer, treated as one integrated flow. Waste eliminated not at each station, but across the whole.
 

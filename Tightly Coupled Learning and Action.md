@@ -18,7 +18,7 @@ ___
 
 ## The Evidence
 
-The [[Program Delivery Guide]] operationalized PDCA across construction programs, demonstrating that systematic learning loops — embedded into every phase of work — produce dramatically better outcomes than planning alone.
+[[The Program Delivery Guide]] operationalized PDCA across construction programs, demonstrating that systematic learning loops — embedded into every phase of work — produce dramatically better outcomes than planning alone.
 
 Toyota's greatest insight was not the assembly line. It was the **culture of continuous improvement** — _kaizen_ — that made every worker responsible for identifying problems and improving the process. Not top-down mandates. Bottom-up intelligence, continuously flowing.
 

@@ -5,6 +5,12 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 ## Project Backlog / Wishlist 
 
+Where we left off
+- Merge and elevate The Sacred Ascent into canonical ve…           
+  ◼ Renumber Book of LIONSBERG chapters for coherence                
+  ◻ Rewrite The Invitation to highest form                           
+  ◻ Articulate The LIONSBERG Pattern Language   
+
 ### Quick Items
 - Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]]  
 - Delete [[The Battle For The Spirit Of America]]  

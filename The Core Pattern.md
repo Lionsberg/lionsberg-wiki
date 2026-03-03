@@ -54,7 +54,7 @@ ___
 
 ## LIONSBERG
 
-**LIONSBERG is the comprehensive articulation of this universal pattern** — integrating the structural DNA of cooperation with the operational DNA of production. Enriched with the spiritual depth of the world's wisdom traditions, the practical specificity of 7 years of tested infrastructure, $20 million of funded production-system research in the [[Program Delivery Guide]], and the cosmic context of humanity's place in the Story of [[ONE]] and [[All]].
+**LIONSBERG is the comprehensive articulation of this universal pattern** — integrating the structural DNA of cooperation with the operational DNA of production. Enriched with the spiritual depth of the world's wisdom traditions, the practical specificity of 7 years of tested infrastructure, $20 million of funded production-system research in [[The Program Delivery Guide]], and the cosmic context of humanity's place in the Story of [[ONE]] and [[All]].
 
 These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a cosmic-grade operating system that enables any community or world that adopts it to self-organize, self-govern, produce, and federate with other communities and worlds also playing [[The Great Game]].
 
