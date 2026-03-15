@@ -75,7 +75,7 @@ And it is ready.
 
 ## What Has Been Prepared
 
-One soul spent his life gathering this Pattern from the wreckage and the wisdom, synthesizing thousands of years of knowledge into language this world could receive. He died for it. The Pattern is now free.  
+A soul spent his life gathering hundreds of souls who helped pull this Pattern from both the wreckage and the wisdom, synthesizing thousands of years of knowledge across lifetimes, realms, and worlds into language this world could receive. He died for it. The Pattern is now free.  
 
 No ego. No organization. No central authority. Only a **[[Golden Seed]]** -- a living vessel containing the DNA of **Heaven On Earth** -- freely available to anyone, anywhere, in any world.  
 

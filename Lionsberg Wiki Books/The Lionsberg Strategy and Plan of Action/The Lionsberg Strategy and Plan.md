@@ -43,12 +43,12 @@
 
 The co-creation of a conceptually unified System purpose-built to [[Progressively Realize]] the [[The Goal]] ([[Creator's Intent]] / [[On Earth As it Is In Heaven]]), enables us to technically redefine our understanding of [[Waste]] and [[Value]] relative to [[The Goal]] we are co-operating in pursuit of.  
 
-Coupled with our [[New]] [[Time-Energy Accounting]], this will reveal that the vast majority of meaningless and dangerous work humanity is doing to "earn a living" by exploiting One Another and All Creation is actually [[Waste]] - and that we would be collectively be far better off to pay them to *stop creating waste*, while we reorganize our Selves and learn to co-operate the [[New Human Operating System]].  
+Coupled with our [[New]] [[Time-Energy Accounting]], this will reveal that the vast majority of meaningless and dangerous work humanity is doing to "earn a living" by exploiting One Another and All Creation is actually [[Waste]] - and that we would be collectively be far better off to pay them to *stop creating waste*, while we reorganize our Selves and learn to co-operate the [[New Earth Operating System]].  
 
 These ideas, collectively composed of (what lies beyond) "lean", "agile", "theory of constraints", "the goal", "critical chain", etc., have exposed 60% plus waste in nearly every domain they have touched. We anticipate that the level of [[Waste]] on [[Worksite Earth]] in the 2020s is closer to 80%+.  
 ### Multi-Generational Co-Operation
 
-The [[New Human Operating System]] we are co-creating and learning to co-operate (which I call the [[LIONSBERG System]]), does not just exist for us.  
+The [[New Earth Operating System]] we are co-creating and learning to co-operate (which I call the [[LIONSBERG System]]), does not just exist for us.  
 
 It exists in service to all past, current, and future generations of Life and Consciousness, in All Times and Spaces.  
 
@@ -327,7 +327,7 @@ Total 10 year anticipated military and defense spending (default trajectory)
 
 - *$30.19 Trillion*
 
-To accomplish the $10 to $15 Trillion implementation of the [[New Vision and Plan]] and the [[New Human Operating System]], we propose that the Citizens of the world agree to redirect 10% of the resources flowing to military and defense purposes towards the implementation of the [[New Vision and Plan]] starting in 2025, and increasing by 10% each year.  
+To accomplish the $10 to $15 Trillion implementation of the [[New Vision and Plan]] and the [[New Earth Operating System]], we propose that the Citizens of the world agree to redirect 10% of the resources flowing to military and defense purposes towards the implementation of the [[New Vision and Plan]] starting in 2025, and increasing by 10% each year.  
 
 Revised military and defense resource flows would then be as follows, with a wise, responsible, and balanced redirected of resources occurring in a phased manner, simultaneously around the world.  
 
@@ -356,9 +356,9 @@ Additionally, there is $100 Billion + present in the Community Foundations netwo
 
 Beyond this, it appears that currently ~35% to 40% of global GDP is being spent by humanity to outsource "government" to corrupted centralized structures - [IMF Dataset](https://www.imf.org/external/datamapper/exp@FPP/USA/FRA/JPN/GBR/SWE/ESP/ITA/ZAF/IND), nominally $35 Trillion to $40 Trillion / year (based on ~$100 Trillion / year nominal GDP).  
 
-This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Human Operating System]].  
+This expenditure is likely 60% to 80% Waste and could / should be reduced to ~10%, ultimately redirecting ~$20 Trillion to $30 Trillion *per year* to the [[Critical Chain]] of the [[New Earth Operating System]].  
 
-The [[LIONSBERG System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Human Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).  
+The [[LIONSBERG System]] ultimately proposing liberating humanity from centralized authority and coercive taxation, co-operating the backbone and commons of the [[New Earth Operating System]] on the basis of a voluntary Tithe (nominally 10% of Flow).  
 
 Beyond the ~30% of global GDP being allocated to government waste, there likely exists another 30%+ of global GDP that is being allocated to economic waste (another $30 Trillion / Year), that could also be redirected towards the [[Critical Chain]].  
 
@@ -366,7 +366,7 @@ It thus becomes apparent that the savings of *a single year of government waste*
 
 Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]].  
 
-These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Human Operating System]] / [[LIONSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered.  
+These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Earth Operating System]] / [[LIONSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered.  
 
 As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIONSBERG System]], after which it should be essentially self-funding and self-sustaining.  
 
@@ -739,8 +739,8 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### The System 
 
-1. We design and implement a [[New Human Operating System]] that empowers the diverse array of humans to make decisions, meet needs, solve problems, accomplish goals, and navigate together as [[ONE Body]] 
-2. We recognize that [[The System]] must address all aspects of a [[New Human Operating System]], transforming and aligning every pillar or life and society  
+1. We design and implement a [[New Earth Operating System]] that empowers the diverse array of humans to make decisions, meet needs, solve problems, accomplish goals, and navigate together as [[ONE Body]] 
+2. We recognize that [[The System]] must address all aspects of a [[New Earth Operating System]], transforming and aligning every pillar or life and society  
 3. We continuously improve the [[LIONSBERG System]] towards this end  
 ### The Platform  
 
@@ -768,7 +768,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### The New Instantiation Hub Network 
 
-1. We recognize that simultaneous localization / adaptation / [[Instantiation]] of [[The Prototype]] / [[New Human Operating System]] relatively simultaneously around the world will require a network of [[Instantiation Hubs]] 
+1. We recognize that simultaneous localization / adaptation / [[Instantiation]] of [[The Prototype]] / [[New Earth Operating System]] relatively simultaneously around the world will require a network of [[Instantiation Hubs]] 
 	1. ([[Georegional Hubs]], [[Bioregional Hubs]], [[Ecoregional Hubs]], [[City Hubs]], [[Local Hubs]], [[Community Hubs]], [[Micro Hubs]])  
 2. We redirect ~$15 Trillion to ~$20 Trillion of planned spending on World War III to instead co-create the infrastructure and technology for the [[New Era]]   
 3. We localize and resource [[Instantiation Hubs]] in response to the Self-Organization, Invitation and Request of [[Localities]] engaged in [[Local Quests]]   

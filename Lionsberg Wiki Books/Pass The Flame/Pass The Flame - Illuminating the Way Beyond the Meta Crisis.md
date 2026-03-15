@@ -625,7 +625,7 @@ By 2016, we were having hours of weekly discussion attempting to grapple with th
 
 Within the first year or two, we discerned that the most difficult challenge of a [[Universal Joint Venture]] to regenerate Worksite Earth and Beyond would be legal and governance systems and structure, because such a project would have to be initiated by Us, The People, relatively simultaneously around the world, *yet no one could own it.* Because the New supranational Structure would have to connect and empower billions of people, leaving no one involuntarily behind, it would be akin to forging a New Tribe of Tribes or Nation of Nations, unified around a New Covenant.  
 
-A [[New Human Operating System]] would be required that balanced connection, unity, and interoperability among the parts of [[The Body]], with the imperative to protect the Sovereignty, Autonomy, and Agency of each Individual, Group, and Locality.  
+A [[New Earth Operating System]] would be required that balanced connection, unity, and interoperability among the parts of [[The Body]], with the imperative to protect the Sovereignty, Autonomy, and Agency of each Individual, Group, and Locality.  
 
 So we set about ensuring that the legal and governance Commons we were establishing for Us The People to steward Our companies, could also work as a commons for Us The People to govern Our Selves indefinitely into The Future as We reunited as One Family in service of One and All.  
 

@@ -1,3 +1,3 @@
-# New Human Operating System
+# New Earth Operating System
 
 See [[New Operating System]]  

@@ -748,7 +748,7 @@ This domain integrates:
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]
 73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
 74. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]
-75. It is designed to be a [[New Human Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
+75. It is designed to be a [[New Earth Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
 76. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].
 
 ## Tribe of Tribes / Group of Groups / Team of Teams

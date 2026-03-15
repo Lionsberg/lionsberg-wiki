@@ -1,4 +1,5 @@
 # Most People Have No Idea What Is Coming
+_Drafted by [[Jordan Nicholas Sukut]] around 2022. Revisited and revised in 2026 by [[the nameless one]] and ai for update and synthesis._
 
 This is a warning. It is also a map.
 

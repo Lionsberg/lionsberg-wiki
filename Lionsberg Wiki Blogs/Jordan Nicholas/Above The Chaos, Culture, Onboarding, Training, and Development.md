@@ -35,7 +35,7 @@ And so you know that the principle role of every person who ever engages is to [
 Over time, [[The Way]] your Organism Co-Operates becomes its most valuable and irreplaceable asset, organically developed over generations of [[Continuous Learning And Improvement]].  
 
 ____  
-The [[LIONSBERG System]] is being designed and built as a [[New Human Operating System]]. 
+The [[LIONSBERG System]] is being designed and built as a [[New Earth Operating System]]. 
 
 It is meant to be localizable and adaptable to every [[Domain]] across each of the [[Levels of Analysis]]. 
 
@@ -65,7 +65,7 @@ It aims to help each and every element of The Whole find its Way towards The Goa
 
 ____
 
-As we learn how to [[Co-Operate]] our [[New Human Operating System]], it will be crucial to remember that we are building a [[Multi-Generational System]] that requires [[Multi-Generational Stewardship]]. 
+As we learn how to [[Co-Operate]] our [[New Earth Operating System]], it will be crucial to remember that we are building a [[Multi-Generational System]] that requires [[Multi-Generational Stewardship]]. 
 
 We are not just developing Systems and Patterns for "Us". We are developing Systems and Patterns that can continue to serve and lift Us up over millions of years to come. 
 

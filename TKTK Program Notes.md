@@ -6,20 +6,20 @@ The purpose of this page is to provide ongoing updates to the current state of [
 ## Project Backlog / Wishlist 
 
 Where we left off  
-- Merge and elevate The Sacred Ascent into canonical ve…           
-  ◼ Renumber Book of LIONSBERG chapters for coherence                
-  ◻ Rewrite The Invitation to highest form [[The Invitation]]                           
-  ◻ Articulate The LIONSBERG Pattern Language   
-
+◻ Merge and elevate The Sacred Ascent into canonical version…           
+◻ Articulate The LIONSBERG Pattern Language   
+- Evaluate [[Lionsberg Orientation and Training System]] and merge into something and delete  
+- Review and update [[Most People Have No Idea What Is Coming]]  
+- Review and update [[A Way Beyond Fear, Anxiety, And Depression]]  
+- Draw on [[The Great UnVeiling]] and [[A Birthday Reflection on Jordan's Life, Death, and Work]] and all other LIONSBERG work and external knowledge to complete [[The Great UnVeiling]] in its highest form while retaining the break associated with Jordan's death... this is a completion based on his notes and all additional information since learned... 
+- Review [[Most People Have No Idea What Is Coming]] 
 ### Quick Items
-- ✅ Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] — deleted, all content superseded
-- ✅ Delete [[The Battle For The Spirit Of America]] — deleted, all content superseded
-- ✅ Delete [[The Great Game of LIONSBERG]] book...
-- and [[Lionsberg Orientation and Training System]] 
-- Review [[A Way Beyond Fear, Anxiety, And Depression]]  
+
+
 
 ### A Items 
 - Draft a prolegomenon for [[The Book of LIONSBERG]]... 
+- Update [[The Golden Seed of LIONSBERG]]  
 - Possibly LIONSBERG 101 and the concentric rings leading into The Book of LIONSBERG... as part of the book of LIONSBERG... 
 - Finish [[The Story of LIONSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIONSBERG]]... 
 	- Weaving in J's incarnation, nameless one, and full cosmic arc... 
@@ -49,6 +49,14 @@ Where we left off
 - [[Longterm Project - Fixing Broken Links]] is interesting  
 - [[A Program to Play The Great Game]] is interesting  
 - Update [[Most People Have No Idea What Is Coming]]  
+
+## Done 
+
+- ✅ Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] — deleted, all content superseded
+- ✅ Delete [[The Battle For The Spirit Of America]] — deleted, all content superseded
+- ✅ Delete [[The Great Game of LIONSBERG]] book...
+- ✅ Renumber Book of LIONSBERG chapters for coherence                
+- ✅ Rewrite The Invitation to highest form [[The Invitation]]                           
 
 
 ## Current Program 

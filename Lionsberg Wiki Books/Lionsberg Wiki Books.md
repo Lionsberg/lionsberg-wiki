@@ -3,16 +3,15 @@
 The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ONE]].  
 
 Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
-
 ## Featured Works
 
-1. [[LIONSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All
-2. [[The Program Delivery Guide]] — $20M of funded research on Integrated Project Delivery, the core document informing LIONSBERG's localization to Earth
-3. [[The Lionsberg Book of Meditations]]
-3. [[The LIONSBERG Co-Creator's Handbook]]
-4. [[The Book of LIONSBERG]]
-5. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
-6. [[The Lionsberg Strategy and Plan]]
+1. [[LIONSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All  
+2. [[The Book of LIONSBERG]]  
+3. [[Most People Have No Idea What Is Coming]]  
+4. [[The Program Delivery Guide]] — $20M of funded research on Integrated Project Delivery, the core document informing LIONSBERG's localization to Earth  
+5. [[The Lionsberg Book of Meditations]]  
+6. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
+7. [[The Lionsberg Strategy and Plan]]  
 
 ## Something Powerful, New, and Good (Post-August 2025)
 

@@ -279,7 +279,7 @@ As humanity transitions [[FROM the Old TO the New]], We must shed the limiting i
 
 #### **42. Communicating Position, Condition, Offers, and Needs**
 
-Effective communication is the lifeblood of unity. By sharing Our positions, conditions, offers, and needs openly and honestly, We create the foundation for trust and collaboration, while measuring the [[Reciprocity]] and [[Flow]] between nodes. This transparency transforms isolation into connection and conflict into co-creation, while enabling Us to [[Help One Another]] progress. Coupling these expressions via process and technology to the [[New Human Operating System]] will enable an unprecedented ecosystem of reciprocal local, global, and cosmic exchange to flourish. 
+Effective communication is the lifeblood of unity. By sharing Our positions, conditions, offers, and needs openly and honestly, We create the foundation for trust and collaboration, while measuring the [[Reciprocity]] and [[Flow]] between nodes. This transparency transforms isolation into connection and conflict into co-creation, while enabling Us to [[Help One Another]] progress. Coupling these expressions via process and technology to the [[New Earth Operating System]] will enable an unprecedented ecosystem of reciprocal local, global, and cosmic exchange to flourish. 
 
 ---
 
@@ -586,7 +586,7 @@ Just as ecosystems thrive through interconnected relationships, humanity’s reg
 
 #### **86. The New Human Operating System**
 
-Humanity’s current ways of being—rooted in division, exploitation, and fear—must be upgraded. [[Refounding Civilization]] and [[Co-Creating The New World]] within a single generation will require unprecedented local and planetary coordination. The [[New Human Operating System]] is a paradigm shift toward interconnectedness, compassion, and co-creation, enabling humanity to confront and overcome the challenges and hand, and flourish into a future aligned with its highest potential and destiny. The [[LIONSBERG System]] was purpose built to enable this to manifest. It designed based on a [[Pattern Language]] and [[Protocols]] that enable [[Polycentric]] implementation, localization, and adaptation. 
+Humanity’s current ways of being—rooted in division, exploitation, and fear—must be upgraded. [[Refounding Civilization]] and [[Co-Creating The New World]] within a single generation will require unprecedented local and planetary coordination. The [[New Earth Operating System]] is a paradigm shift toward interconnectedness, compassion, and co-creation, enabling humanity to confront and overcome the challenges and hand, and flourish into a future aligned with its highest potential and destiny. The [[LIONSBERG System]] was purpose built to enable this to manifest. It designed based on a [[Pattern Language]] and [[Protocols]] that enable [[Polycentric]] implementation, localization, and adaptation. 
 
 ---
 
@@ -713,7 +713,7 @@ Technology has the power to either liberate or enslave. As We approach the [[Tec
 
 [[Transforming Technology Systems]] requires embedding [[Wisdom]] and [[Universal Principles and Values]] into every aspect of technological design, governance, and application. AI must serve as a tool of co-creation, enhancing humanity’s ability to thrive in harmony with [[ONE]], [[One Another]], and [[All]]. This means ensuring these systems prioritize flourishing, connection, and regeneration over domination, exploitation, or control.
 
-As humanity integrates the [[New Human Operating System]], the [[Critical Path]] includes shaping advanced technologies to align human existence with [[The Goal]] and [[Creator's Intent]]. Only by consciously and collaboratively stewarding these innovations can We ensure they uplift life, deepen unity, and accelerate [[Progress]] [[FROM the Old TO the New]].
+As humanity integrates the [[New Earth Operating System]], the [[Critical Path]] includes shaping advanced technologies to align human existence with [[The Goal]] and [[Creator's Intent]]. Only by consciously and collaboratively stewarding these innovations can We ensure they uplift life, deepen unity, and accelerate [[Progress]] [[FROM the Old TO the New]].
 
 ---
 
