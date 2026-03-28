@@ -81,7 +81,7 @@ Bioregions and guilds emerge.
 A [[New Civilization]] is born.  
 
 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...  
-Like life itself, the new social superorganism unfurls along the Fibonacci sequence. 
+Like life itself, the new living Body unfurls along the Fibonacci sequence. 
 
 In just 50 cycles — 50 growth rings on the tree emerging from the golden seed — every person on Earth receives an invitation from someone they know and trust.  
 

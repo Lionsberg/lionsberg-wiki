@@ -28,7 +28,7 @@ _"What [[Boundary]]?"_
 
 _"My Voice will wake the others if I speak, and what I am about to show you is beyond your ability to conceive of it. Be quiet and try to [[Perceive]], and we will discuss it when we are out safely Beyond."_
 
-The nightmare you witness as your soar through the cavernous darkness stands in stark contrast to the grey dreams that are your only recent memories. 
+The nightmare you witness as you soar through the cavernous darkness stands in stark contrast to the grey dreams that are your only recent memories. 
 
 Pale bodies, billions of them, chained in the darkness. Shallowly breathing. Scarcely alive. 
 
