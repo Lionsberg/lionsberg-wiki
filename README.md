@@ -1,4 +1,4 @@
-# The Golden Seed of LIONSBERG
+# The Golden Seed of LIØNSBERG
 
 _There is an ancient story of a golden seed — a tiny vessel bursting with life and liberty, that when planted brings forth Heaven for All. This seed will be known by its fruit. Plant it. Cultivate it. Nurture it. Taste and see — Heaven becoming real, right here and now._
 
