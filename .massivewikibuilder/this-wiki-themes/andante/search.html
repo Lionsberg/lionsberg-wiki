@@ -1,0 +1,72 @@
+{% set page_title = 'Search — ' ~ wiki_title %}{% include '_header.html' %}
+  <body>
+    {% include '_navbar.html' %}
+    {% include '_drawer.html' %}
+    <main class="main">
+      <div class="search">
+        <h1>Search</h1>
+        {% if lunr_index_sitepath != '' %}
+        <form class="search__form" onsubmit="doSearch(event)">
+          <input class="search__input" type="search" id="searchInput" placeholder="What are you looking for?" autofocus aria-label="Search the wiki">
+          <button class="search__btn" type="submit">Search</button>
+        </form>
+        <ul class="search__results" id="searchResults"></ul>
+        <p class="search__empty" id="searchEmpty" hidden></p>
+        {% else %}
+        <p>The Lunr search index is not present. Build with the <code>--lunr</code> flag to enable search.</p>
+        {% endif %}
+      </div>
+    </main>
+    {% include '_footer.html' %}
+    {% if lunr_index_sitepath != '' %}
+    <script>
+      var lunrIndex = null;
+      function loadIndex() {
+        if (lunrIndex) return lunrIndex;
+        if (typeof lunr_index !== 'undefined') {
+          lunrIndex = lunr.Index.load(lunr_index);
+        }
+        return lunrIndex;
+      }
+      function doSearch(e) {
+        if (e) e.preventDefault();
+        var q = document.getElementById('searchInput').value.trim();
+        var results = document.getElementById('searchResults');
+        var empty = document.getElementById('searchEmpty');
+        results.innerHTML = '';
+        empty.hidden = true;
+        if (!q) return;
+        var idx = loadIndex();
+        if (!idx || typeof lunr_posts === 'undefined') return;
+        var hits = idx.search(q).map(function (item) {
+          return lunr_posts.find(function (p) { return item.ref === p.link; });
+        }).filter(Boolean);
+        if (hits.length === 0) {
+          empty.textContent = 'No results for "' + q + '"';
+          empty.hidden = false;
+          return;
+        }
+        hits.forEach(function (h) {
+          var li = document.createElement('li');
+          li.className = 'search__result';
+          var a = document.createElement('a');
+          a.href = h.link;
+          a.textContent = h.title;
+          li.appendChild(a);
+          results.appendChild(li);
+        });
+      }
+      document.addEventListener('DOMContentLoaded', function () {
+        // run search if ?q=... in URL
+        var p = new URLSearchParams(window.location.search);
+        var q = p.get('q');
+        if (q) {
+          document.getElementById('searchInput').value = q;
+          // wait briefly for lunr scripts to load
+          setTimeout(doSearch, 50);
+        }
+      });
+    </script>
+    {% endif %}
+  </body>
+</html>

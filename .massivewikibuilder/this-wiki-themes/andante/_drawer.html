@@ -1,0 +1,15 @@
+<aside class="drawer" id="drawer" aria-label="Site navigation">
+  <div class="drawer__head">
+    <span class="drawer__title">Navigate</span>
+    <button class="drawer__close" data-drawer-close aria-label="Close menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <line x1="18" y1="6" x2="6" y2="18"/>
+        <line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </button>
+  </div>
+  <div class="drawer__body">
+    {{ sidebar_body }}
+  </div>
+</aside>
+<div class="scrim" data-drawer-close></div>

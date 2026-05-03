@@ -1,0 +1,20 @@
+{% set page_title = 'Recent changes — ' ~ wiki_title %}{% include '_header.html' %}
+  <body>
+    {% include '_navbar.html' %}
+    {% include '_drawer.html' %}
+    <main class="main">
+      <div class="index">
+        <h1>Recent changes</h1>
+        <ul class="index__list">
+          {% for page in pages %}
+          <li class="index__row">
+            <a href="{{ page.path }}">{{page.title}}</a>
+            <span class="index__meta">{{page.date}}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </main>
+    {% include '_footer.html' %}
+  </body>
+</html>

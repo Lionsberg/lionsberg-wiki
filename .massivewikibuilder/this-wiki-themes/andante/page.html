@@ -1,0 +1,24 @@
+{% set page_title = title ~ ' — ' ~ wiki_title if title != 'README' else wiki_title %}{% include '_header.html' %}
+  <body>
+    {% include '_navbar.html' %}
+    {% include '_drawer.html' %}
+    <main class="main">
+      <div class="container">
+        <article class="prose">
+          {{ markdown_body }}
+        </article>
+        {% if backlinks %}
+        <section class="backlinks" aria-labelledby="backlinks-title">
+          <h2 class="backlinks__title" id="backlinks-title">Referenced by</h2>
+          <ul>
+            {% for link in backlinks %}
+              <li><a href="{{link[0]}}">{{link[1]}}</a></li>
+            {%- endfor -%}
+          </ul>
+        </section>
+        {% endif %}
+      </div>
+    </main>
+    {% include '_footer.html' %}
+  </body>
+</html>
