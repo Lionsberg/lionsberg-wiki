@@ -67,4 +67,4 @@ The [[Twelve Irreducible Elements]] are the DNA.
 ___
 
 _Distilled in [[The Emergence of the Core Pattern]]._  
-_The full 101 class: [[LIONSBERG 101]]._
+_The full 101 class: [[LIØNSBERG 101]]._

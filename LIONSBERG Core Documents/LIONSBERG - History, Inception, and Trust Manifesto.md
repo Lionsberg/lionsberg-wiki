@@ -226,7 +226,7 @@ The developmental work through [[The 7 Year Window of Preparatory Work and Learn
 
 A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[Provisional Structure]] was abandoned and the accounts closed. 
 
-All investments and flows from 2026 onward will be through the decentralized structures self-organized by those playing [[The Great Game of LIONSBERG]]. 
+All investments and flows from 2026 onward will be through the decentralized structures self-organized by those playing [[The Great Game of LIØNSBERG]]. 
 
 ---
 
@@ -251,10 +251,10 @@ ______
 1. Continuously improve the [[LIONSBERG Wiki]] and derivative publications   
 2. Broadcast [[The Message]] to create a field of gravitational attraction 
 3. Extend [[The Invitation]] to those who resonate  
-4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIONSBERG]].    
+4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    
 5. Measure Time and Value via [[Lionsberg Units of Value (LUV)]]    
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  
 
-The full strategy is reflected [[The Lionsberg Strategy and Plan]].  
+The full strategy is reflected [[The LIØNSBERG Strategy and Plan]].  
 Following [[J's Death]] a retrospection / [[OmniSpection]] should be performed, and the strategy and plan continually improved by the players of The Game. 

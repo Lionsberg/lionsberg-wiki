@@ -69,4 +69,4 @@ The Fair Shares Commons directly embodies several of the [[Twelve Irreducible El
 
 ___
 
-_See [[Capital Subordinate To Purpose]] and [[Ring 3 - The Living Proof]] in [[LIONSBERG 101]]._
+_See [[Capital Subordinate To Purpose]] and [[Ring 3 - The Living Proof]] in [[LIØNSBERG 101]]._

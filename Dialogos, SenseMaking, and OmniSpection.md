@@ -1,7 +1,7 @@
 # Dialogos, SenseMaking, and OmniSpection
 
 Three practices. Three ways of seeing.  
-Together, they form the **contemplative infrastructure** of [[The Great Game of LIONSBERG|The Great Game]] —  
+Together, they form the **contemplative infrastructure** of [[The Great Game of LIØNSBERG|The Great Game]] —  
 The means by which the living Body stays conscious, adaptive, and coherent  
 As it navigates the greatest transformation in ten thousand years.
 

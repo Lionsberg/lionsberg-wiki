@@ -12,7 +12,7 @@ Growth adds members to an existing Circle. It makes the Circle larger.
 
 **Replication creates entirely new Circles** — sovereign, complete, carrying the full DNA. It makes the movement wider.
 
-Both are necessary. But replication is how [[The Great Game of LIONSBERG|The Great Game]] reaches every neighborhood, every community, every nation. Growth alone cannot do this. Only multiplication can.
+Both are necessary. But replication is how [[The Great Game of LIØNSBERG|The Great Game]] reaches every neighborhood, every community, every nation. Growth alone cannot do this. Only multiplication can.
 
 ---
 

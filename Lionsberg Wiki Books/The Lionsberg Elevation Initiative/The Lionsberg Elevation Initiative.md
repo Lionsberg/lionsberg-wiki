@@ -99,5 +99,5 @@ By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and App
 ## Appendix 
 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
-[[The Lionsberg Pattern Language]]  
+[[The LIØNSBERG Pattern Language]]  
 [[The Lionsberg Toolkit]]  

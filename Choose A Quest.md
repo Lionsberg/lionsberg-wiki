@@ -117,4 +117,4 @@ Now you need to know who carries what.
 
 ---
 See [[The Architecture of The Playbook]] for the full navigation.  
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.
+See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

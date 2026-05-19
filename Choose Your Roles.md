@@ -110,4 +110,4 @@ Now you need the weekly rhythm that turns intention into results.
 
 ---
 See [[The Architecture of The Playbook]] for the full navigation.  
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.
+See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

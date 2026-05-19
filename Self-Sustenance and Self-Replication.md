@@ -54,7 +54,7 @@ ___
 
 ## In LIONSBERG
 
-Self-sustenance and self-replication are encoded in the structure of [[The Great Game of LIONSBERG]] itself:
+Self-sustenance and self-replication are encoded in the structure of [[The Great Game of LIØNSBERG]] itself:
 
 **Sustain the Circle.** Each Circle sustains itself through the commitment and contribution of its members — time, energy, resources, and care flowing among those who have covenanted to walk together. No Circle depends on a center for its life. Each is a complete, sovereign cell of the Body — drawing from and giving back to the [[Commons]] within which all Circles interexist.
 
@@ -78,4 +78,4 @@ The question is whether you will begin.
 ___
 
 _One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
-_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._
+_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIØNSBERG 101]]._

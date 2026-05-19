@@ -58,4 +58,4 @@ ___
 
 _See [[The Lionsberg Approach to Citizen Led Governance]] for the full governance pattern language._  
 _See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Hierarchy of Sovereignties]]._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

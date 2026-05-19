@@ -296,4 +296,4 @@ The window is open.
 
 Forward to [[Ring 4 - The Library]]  
 Back to [[Ring 2 - The Pattern Unfolded]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

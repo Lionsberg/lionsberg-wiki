@@ -119,7 +119,7 @@
 - [[Transparent Impact - Resourcing The LIONSBERG Alliance]]  
 - [[February 2025 - A Letter to Our Loved Ones and Allies]] 
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
-- [[Welcome to LIONSBERG, We Are Glad You Are Here]]  
+- [[Welcome to LIØNSBERG, We Are Glad You Are Here]]  
 - [[Adjusting to the New Language and Narrative Universe of LIONSBERG]]  
 - [[The Core Concepts of LIONSBERG]]  
 - [[The LIONSBERG Operating System (LIOS)]]  
@@ -182,7 +182,7 @@
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 - [[Sampling The Most Important Cosmic Threads]]  
 - Revisiting the framework for [[The Lionsberg Theory of Everything]]  
-- Update to [[The Lionsberg Strategy and Plan]]  
+- Update to [[The LIØNSBERG Strategy and Plan]]  
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[A New Cosmic Narrative]]  

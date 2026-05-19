@@ -13,12 +13,12 @@ At present, humanity appears to entirely lack a coherent process for continually
 
 LIONSBERG was created to remedy this by creating a shared process, pattern, and Way for individuals, groups, communities, planets, and galaxies to collaborate to transform their lives and their worlds towards Heavenly Perfection.  
 
-[[The Great Game of LIONSBERG]] calls for all Co-Creators to continually engage in periodic [[MindWeaving]] and [[Seasonal OmniSpection]]. It has been said that the minimum requirement of any continuously improving system is periodic [[Retrospection]]. Where as Retrospection looks back, [[OmniSpection]] looks both inward and outward in all directions. Periodic OmniSpection enables Us to consciously update the [[Map of Reality]] We are using to Navigate FROM [[Where We Are]] to [[Where We Are Going]]. Recognizing the inherent Finitude of each individual, accurate OmniSpection can only done [[In Community]], and therefore requires [[MindWeaving]]. Continually [[Navigating Towards Truth]] in this Way dramatically increases the probability that We are on the right Path and taking the [[Wise Right Next Steps]] towards [[The Goal]].  
+[[The Great Game of LIØNSBERG]] calls for all Co-Creators to continually engage in periodic [[MindWeaving]] and [[Seasonal OmniSpection]]. It has been said that the minimum requirement of any continuously improving system is periodic [[Retrospection]]. Where as Retrospection looks back, [[OmniSpection]] looks both inward and outward in all directions. Periodic OmniSpection enables Us to consciously update the [[Map of Reality]] We are using to Navigate FROM [[Where We Are]] to [[Where We Are Going]]. Recognizing the inherent Finitude of each individual, accurate OmniSpection can only done [[In Community]], and therefore requires [[MindWeaving]]. Continually [[Navigating Towards Truth]] in this Way dramatically increases the probability that We are on the right Path and taking the [[Wise Right Next Steps]] towards [[The Goal]].  
 
 _For reasons discussed below, this process actively reshapes Our Perception of Reality._  
 
 ## Part I - A Basic Attempt At OmniSpection 
-_The ~200 numbered ideas below are intended to create a broad shared starting approximation for participants in [[The Great Game of LIONSBERG]] of Who We Are, Where We Are, Where We Are Going, and Why. It is a provisional [[Map of Reality]], designed to be continuously updated and improved [[In Community]] through the processes of [[MindWeaving]], [[OmniSpection]], and [[Navigating Towards Truth]]._  
+_The ~200 numbered ideas below are intended to create a broad shared starting approximation for participants in [[The Great Game of LIØNSBERG]] of Who We Are, Where We Are, Where We Are Going, and Why. It is a provisional [[Map of Reality]], designed to be continuously updated and improved [[In Community]] through the processes of [[MindWeaving]], [[OmniSpection]], and [[Navigating Towards Truth]]._  
 
 _It is approximately True [[As Best We Can Currently Discern]], and We also are humbly aware that [[We Do Not Know]]. Each and every Co-Creator will have their own perspective of Reality and important insights to weave into a shared map that gets more and more accurate of Time as We Navigate Towards Truth In Community. The process of [[Map Weaving]] coupled with the processes outlined below is intended to make this collective [[SenseMaking]] more possible._  
 
@@ -589,8 +589,8 @@ And We hear the rustling of The Chains...
 And discover those Seeking of a Path towards Liberation...  
 We will simply invite those who are ready to Self-Organize into The Game.  
 
-[[The Story of LIONSBERG]] tells how it happens.  
-[[The Great Game of LIONSBERG]] is how it is done.  
+[[The Story of LIØNSBERG]] tells how it happens.  
+[[The Great Game of LIØNSBERG]] is how it is done.  
 [[The 144 Gates of Initiation]] constitute The Great ReFounding Journey.  
 
 [[Something Powerful, New, and Good]] is emerging.  

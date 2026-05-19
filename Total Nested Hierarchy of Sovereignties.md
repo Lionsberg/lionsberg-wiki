@@ -56,4 +56,4 @@ In the New World, states are convicted for treason against the individual and th
 ___
 
 _See [[Sovereignty At Every Scale]], [[Fractal Sovereignty]], and [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

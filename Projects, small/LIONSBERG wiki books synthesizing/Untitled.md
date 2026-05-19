@@ -164,7 +164,7 @@ When someone arrives at the LIONSBERG Wiki Books page, they should encounter som
 ### Proposed Primary Library (The Essential Works)
 
 **Tier 1: The Entry and The Seed**
-1. **[[LIONSBERG 101]]** — The complete pattern in concentric rings. Start here.
+1. **[[LIØNSBERG 101]]** — The complete pattern in concentric rings. Start here.
 
 **Tier 2: The Three Great Works** (each covers a distinct, irreducible dimension)
 2. **[[Most People Have No Idea What Is Coming]]** — How reality actually works. Domain by domain, system by system, the full structural analysis of why everything is simultaneously failing — and what lies on the other side. _(Complete — 73,700 words, 45 chapters)_
@@ -172,9 +172,9 @@ When someone arrives at the LIONSBERG Wiki Books page, they should encounter som
 4. **[[The Book of LIONSBERG]]** — The foundational scripture. 15 Quests exploring every dimension of reality — perception, navigation, purpose, creativity, sovereignty, unity, heroism, and the Way. _(Complete — 560 files, the canonical reference)_
 
 **Tier 3: The Operating System**
-5. **[[The Lionsberg Playbook]]** — The field guide for playing The Great Game. How to form a Circle, choose a Quest, and begin.
+5. **[[The LIØNSBERG Playbook]]** — The field guide for playing The Great Game. How to form a Circle, choose a Quest, and begin.
 6. **[[The Program Delivery Guide]]** — The proven methodology. $20M of funded research on delivering transformation at scale.
-7. **[[The Lionsberg Strategy and Plan]]** — The 10 Year Grand Strategy with rolling quarterly updates.
+7. **[[The LIØNSBERG Strategy and Plan]]** — The 10 Year Grand Strategy with rolling quarterly updates.
 
 **Tier 4: Daily Practice and Contemplation**
 8. **[[The Lionsberg Book of Meditations]]** — 664 contemplative fragments for daily practice.

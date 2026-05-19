@@ -38,7 +38,7 @@ Articulated principles help to give concrete form to the central animating spiri
 
 For any personality or society to not be fragmented, anxious, and divided against itself, it must have One Supreme Unifying Principle that integrates, coheres, and orders within itself all other principles. This gives rise to the [[Total Nested Hierarchy of Principles]], integrated and cohered by the [[Meta Principle]]. 
 
-In the Lionsberg System, that [[Ultimate Principle]] is referred to as [[The One]].  
+In the Lionsberg System, that [[Ultimate Principle]] is referred to as [[ØNE]].  
 
 [[ONE]], or [[God]], or the [[Creator]], is the [[Ultimate Reality]] that integrates, coheres, and orders within itself the total set of [[All]] things that rise from, are sustained by, and return to It. 
 

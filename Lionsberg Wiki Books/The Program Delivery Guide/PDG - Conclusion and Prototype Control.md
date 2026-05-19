@@ -57,7 +57,7 @@ ___
 
 ## Connection to [[LIONSBERG]]
 
-The Prototype Control process described here maps directly to the living, evolving nature of [[The Core Pattern]] in LIONSBERG. Just as the PDG's Prototype is continuously updated with lessons learned from every site, LIONSBERG's [[Twelve Irreducible Elements]] and [[The LIONSBERG Playbook]] are continuously refined through the experience of every [[Circle]] in every community worldwide.  
+The Prototype Control process described here maps directly to the living, evolving nature of [[The Core Pattern]] in LIONSBERG. Just as the PDG's Prototype is continuously updated with lessons learned from every site, LIONSBERG's [[Twelve Irreducible Elements]] and [[The LIØNSBERG Playbook]] are continuously refined through the experience of every [[Circle]] in every community worldwide.  
 
 The feedback loop is fractal: what is learned in one Circle informs all Circles. What is learned on one world informs all worlds. The Prototype is never "finished" -- it is a living system that grows wiser with each iteration.  
 

@@ -105,4 +105,4 @@ _This is The Seed. It is ready. It has been tested. Pass it forward._
 
 Forward to [[Ring 2 - The Pattern Unfolded]]  
 Back to [[Ring 0 - ONE]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

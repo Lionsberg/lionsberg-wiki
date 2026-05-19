@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-In **2023**, the United States Congress held a series of high-profile hearings on **Unidentified Aerial Phenomena (UAP)**, reflecting growing bipartisan interest and concern over the potential implications of UAPs for national security, airspace safety, and scientific discovery. These hearings featured testimony from whistleblowers, military officials, and UAP investigators. Although carefully scripted and controlled, they marked a significant step toward [[Controlled Disclosure]] and public discourse on a topic long shrouded in secrecy.
+In **2023**, the United States Congress held a series of high-profile hearings on **Unidentified Aerial Phenomena (UAP)**, reflecting growing bipartisan interest and concern over the potential implications of UAPs for national security, airspace safety, and scientific discovery. These hearings featured testimony from whistleblowers, military officials, and UAP investigators. Although carefully scripted and controlled, they marked a significant step toward [[Kontrolled Disclosure]] and public discourse on a topic long shrouded in secrecy.
 
 ---
 
@@ -17,7 +17,7 @@ In **2023**, the United States Congress held a series of high-profile hearings o
     - Address concerns over national security threats posed by unidentified phenomena.
     - Investigate allegations of secrecy and misappropriation of resources within classified UAP programs.
     - Promote scientific inquiry into UAPs and reduce stigma around reporting.
-    - Advance [[Controlled Disclosure]]  
+    - Advance [[Kontrolled Disclosure]]  
 
 ---
 
@@ -119,4 +119,4 @@ Subsequent hearings highlighted the need for improved governmental transparency 
 
 The 2023 Congressional hearings on UAPs marked a watershed moment in the U.S. government's public engagement with the topic. By bringing together whistleblowers, military officials, and lawmakers, these hearings began to unravel decades of secrecy, fostering a more open and informed dialogue about the mysterious phenomena that have captivated humanity for generations. Congress’s commitment to transparency, oversight, and scientific inquiry signals a pivotal shift toward understanding UAPs in the context of both national security and universal exploration.
 
-See [[Controlled Disclosure]] 
+See [[Kontrolled Disclosure]] 

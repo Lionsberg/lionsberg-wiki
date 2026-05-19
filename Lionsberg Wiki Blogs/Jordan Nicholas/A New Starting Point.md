@@ -25,7 +25,7 @@ Explain the overarching structure of the Lionsberg Operating System, its princip
 - **Pages to Create**:
     
     - [[The Lionsberg Operating System: Overview]]
-    - [[The Lionsberg Pattern Language]]
+    - [[The LIØNSBERG Pattern Language]]
     - [[The Way of Being: Living in Harmony with the Pattern]]
     - [[Seasonal Quests: Aligning Action with The Goal]]
     - [[The First Tenth: Resourcing the Commons]]

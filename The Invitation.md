@@ -81,11 +81,11 @@ No ego. No organization. No central authority. Only a **[[Golden Seed]]** -- a l
 
 Inside, you will find three things as a gateway to infinity beyond:  
 
-**A Story** -- **[[The Story of LIONSBERG]]** -- revealing where we are, how we got here, and what is at stake. The cosmic epic spanning epochs and worlds, touching every being who faces the great choice between fragmentation and flourishing. The Story is not fiction. It is the actual Story we are living, told in archetypal language that transcends culture and time.  
+**A Story** -- **[[The Story of LIØNSBERG]]** -- revealing where we are, how we got here, and what is at stake. The cosmic epic spanning epochs and worlds, touching every being who faces the great choice between fragmentation and flourishing. The Story is not fiction. It is the actual Story we are living, told in archetypal language that transcends culture and time.  
 
-**A Pattern** -- **[[LIONSBERG 101]]** -- the irreducible DNA distilled into concentric rings, from **ONE** word to a library of 2.5 million words. The twelve elements proven across 1,500 years and tens of millions of dollars of research. If all else were lost and only one page survived, it would be enough to begin again.  
+**A Pattern** -- **[[LIØNSBERG 101]]** -- the irreducible DNA distilled into concentric rings, from **ONE** word to a library of 2.5 million words. The twelve elements proven across 1,500 years and tens of millions of dollars of research. If all else were lost and only one page survived, it would be enough to begin again.  
 
-**A Game** -- **[[The Great Game of LIONSBERG]]** -- a cooperative, real-world game of planetary transformation where every person, every family, every community, and every bioregion finds their unique role in co-creating **Heaven On Earth**. Not a metaphor. Not a simulation. A living Game played in your actual life, with actual stakes and actual results.  
+**A Game** -- **[[The Great Game of LIØNSBERG]]** -- a cooperative, real-world game of planetary transformation where every person, every family, every community, and every bioregion finds their unique role in co-creating **Heaven On Earth**. Not a metaphor. Not a simulation. A living Game played in your actual life, with actual stakes and actual results.  
 
 Together, these form the **[[Golden Seed]]**. And the Seed is ready to plant.  
 
@@ -153,15 +153,15 @@ If it does not, set it down freely. Go your way with our blessing and our love. 
 
 ## Come. Begin. Here.
 
-**Step through the gates:** **[[Welcome to LIONSBERG]]**  
+**Step through the gates:** **[[Welcome to LIØNSBERG]]**  
 
-**Gather your Circle and begin:** **[[The LIONSBERG Quick Start Guide]]**  
+**Gather your Circle and begin:** **[[The LIØNSBERG Quick Start Guide]]**  
 
-**Understand the full Pattern:** **[[LIONSBERG 101]]**  
+**Understand the full Pattern:** **[[LIØNSBERG 101]]**  
 
-**Enter the Story:** **[[The Story of LIONSBERG]]**  
+**Enter the Story:** **[[The Story of LIØNSBERG]]**  
 
-**Play the Game:** **[[The Great Game of LIONSBERG]]**  
+**Play the Game:** **[[The Great Game of LIØNSBERG]]**  
 
 **Ascend together:** **[[The Sacred Ascent]]**  
 

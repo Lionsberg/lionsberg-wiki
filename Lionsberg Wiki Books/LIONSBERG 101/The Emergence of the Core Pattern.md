@@ -6,7 +6,7 @@ _How the same irreducible DNA emerged independently from every successful moveme
 
 ## The Context
 
-Between 2017 and 2024, a vast body of foundational work was articulated, tested, and refined across dozens of nations with hundreds of individuals and groups — approximately 3 million words of literature comprising [[The Story of LIONSBERG]], [[The Great Game of LIONSBERG]], [[The Book of LIONSBERG]], [[The LIONSBERG Playbook]], and hundreds of additional books and documents. Seven years of preparation for what the elders describe as humanity's greatest crisis and transformation in ten thousand years.
+Between 2017 and 2024, a vast body of foundational work was articulated, tested, and refined across dozens of nations with hundreds of individuals and groups — approximately 3 million words of literature comprising [[The Story of LIØNSBERG]], [[The Great Game of LIØNSBERG]], [[The Book of LIONSBERG]], [[The LIØNSBERG Playbook]], and hundreds of additional books and documents. Seven years of preparation for what the elders describe as humanity's greatest crisis and transformation in ten thousand years.
 
 By 2026, the preparation phase was complete. **[[The Golden Seed]]** was ready.
 
@@ -110,5 +110,5 @@ The window is open. The clock is ticking. [[The Great Game]] has begun.
 ---
 
 Forward to [[Ring 0 - ONE]]  
-Back to [[LIONSBERG 101]]  
-Table of Contents [[LIONSBERG 101]]
+Back to [[LIØNSBERG 101]]  
+Table of Contents [[LIØNSBERG 101]]

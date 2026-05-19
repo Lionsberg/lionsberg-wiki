@@ -66,7 +66,7 @@ Acknowledging a populated universe poses profound challenges to human philosophy
 
 The Vatican and other [[Visible Power Structures]] are hard at work to ensure that they do not get caught behind the **power curve** associated with the revelation to humanity of a vast diversity of advanced [[Non-Human Intelligence (NHI)]] within and beyond Earth. 
 
-This process of official [[Controlled Disclosure]] represents a massive challenge for institutions that will now be seen as jointly complicit in perpetrating [[The Greatest Fraud, Deception, and Existential Threat in History]]. 
+This process of official [[Kontrolled Disclosure]] represents a massive challenge for institutions that will now be seen as jointly complicit in perpetrating [[The Greatest Fraud, Deception, and Existential Threat in History]]. 
 
 Despite these open admissions by both political and religious officials, societal fear and generations of suppression have hindered open discussion. For centuries, institutions have ***rewritten texts and ridiculed experiences that suggest extraterrestrial contact***. As humanity now awakens and faces [[The Final Test]], what We choose to do next will determine the fate of billions of people, for millennia to come. 
 
@@ -80,9 +80,9 @@ If We so chose, We could awaken, arise, escape [[The Trap]], pass [[The Final Te
 
 The leap to becoming a spacefaring species is not merely technological—it is spiritual, philosophical, and communal. It requires us to transcend fear, embrace our true identity, and unite in Our Divine origins, purpose, and destiny. 
 
-The [[Controlled Disclosure]] being deceitfully unfurled by the false authorities of [[Existing Order]] cannot be trusted. The realization of these Truths must arise from within each of Us, from within Our most sacred and ancient stories, and from the grassroots of Our modern experience. 
+The [[Kontrolled Disclosure]] being deceitfully unfurled by the false authorities of [[Existing Order]] cannot be trusted. The realization of these Truths must arise from within each of Us, from within Our most sacred and ancient stories, and from the grassroots of Our modern experience. 
 
-The official [[Controlled Disclosure]] is merely the public admission of [[The Greatest Fraud, Deception, and Existential Threat in History]]. 
+The official [[Kontrolled Disclosure]] is merely the public admission of [[The Greatest Fraud, Deception, and Existential Threat in History]]. 
 
 What We The People choose to do next will determine the future for billions of lives over millennia to come. This is [[The Final Test]]. 
 
@@ -138,7 +138,7 @@ ___
 - 2023 - 40 witnesses gave sworn testimony to inspector general of intelligence community. (Thomas Monehim). Porgrams, locations of craft, and their non-human pilots. 
 - Overview of The Program - reverse engineering materials and technologies from UAP / USO / UFO retreivals. 
 - Pentagon authenticated these units in 2019. 
-- Some individuals given permission to discuss in public as part of [[Controlled Disclosure]]. 
+- Some individuals given permission to discuss in public as part of [[Kontrolled Disclosure]]. 
 - Letters were written to congress, leading to congressional hearing July 26th, 2023. 
 - The key to understand is that what they were publicly saying **had to be cleared by DOPSR**... 
 - Pattern since 2017 - "approved leak", follow a couple years later by Pentagon / official authentication. 
@@ -146,7 +146,7 @@ ___
 	- Followed by a 2 year period - gauging public response. 
 	- Then In 2019 - pentagon authenticates and admitted units in place for 70+ years devoted to analyzing materials obtained from UAP / UFO retreivals. 
 	- First official disclousre since 1940s. 
-- In the process of [[Controlled Disclosure]] - they cannot answer unapproved questions or information publicly - have to answer in a [[Secure Compartmentalized Information Facility (SCIF)]]. 
+- In the process of [[Kontrolled Disclosure]] - they cannot answer unapproved questions or information publicly - have to answer in a [[Secure Compartmentalized Information Facility (SCIF)]]. 
 - Trillions of dollars of public money into reverse engineering programs. 
 - 2020 December - Haim Eshed... Exopolitics... We have been in contact with ET visitors for over 7 decades. Back to time of Truman. 
 	- ETs chose not to disclose until program succeeded... and we become space faring species... 

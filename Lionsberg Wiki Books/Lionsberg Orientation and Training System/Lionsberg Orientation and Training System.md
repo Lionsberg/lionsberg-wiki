@@ -1,6 +1,6 @@
 # Lionsberg Orientation and Training System
 
-Folded into [[The LIONSBERG Experience]]  
+Folded into [[The LIØNSBERG Experience]]  
 
 ## Old Drafts
 

@@ -15,7 +15,7 @@ Not every Circle needs formal structure. Many never will. But for those whose wo
 **Tier 0 — No Formal Structure**  
 This is where every Circle begins, and where many thrive indefinitely. You are sovereign individuals choosing to gather, work, and grow together. No paperwork. No legal entity. Just a [[Field of Agreements]] and the trust between you.
 
-This is perfectly valid. Most of the transformational work of [[The Great Game of LIONSBERG|The Great Game]] happens here — in kitchens, on walks, around campfires, in living rooms. Do not rush past this stage. It is not a lesser form. It is the root.
+This is perfectly valid. Most of the transformational work of [[The Great Game of LIØNSBERG|The Great Game]] happens here — in kitchens, on walks, around campfires, in living rooms. Do not rush past this stage. It is not a lesser form. It is the root.
 
 **Tier 1 — Private Voluntary Association**  
 When a Circle wants to formalize its commitments without creating a legal entity, a simple written agreement among participants is sufficient. This is your Field of Agreements made explicit and signed — a declaration of shared purpose, principles, and mutual accountability.

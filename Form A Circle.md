@@ -111,4 +111,4 @@ Now it is time to give your Circle its first body of meaningful work.
 
 ---
 See [[The Architecture of The Playbook]] for the full navigation.  
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.
+See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

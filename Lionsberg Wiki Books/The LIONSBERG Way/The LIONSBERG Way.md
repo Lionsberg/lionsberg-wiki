@@ -1,5 +1,5 @@
 # The LIONSBERG Way
-*For inclusion in [[The LIONSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*  
+*For inclusion in [[The LIØNSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*  
 *This is a chaotic [[Work In Progress]]*  
 *You should probably ignore it for now*    
 
@@ -30,7 +30,7 @@ It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[W
 ## The Story of LIONSBERG 
 
 [[The Story]]  
-[[The Story of LIONSBERG]]  
+[[The Story of LIØNSBERG]]  
 
 Should speak to:  
 [[Context]]  
@@ -133,7 +133,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 [[The Strategy]]  
 [[The Plan]]  
-[[The Lionsberg Strategy and Plan]]  
+[[The LIØNSBERG Strategy and Plan]]  
 
 
 ## 12. The LIONSBERG Prototype
@@ -146,14 +146,14 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIONSBERG Playbook
 
-[[The LIONSBERG Playbook]]  
+[[The LIØNSBERG Playbook]]  
 
 ## 11. Polycentric Localization, Adaptation, and Instantiation
 
 
 ## 13. The LIONSBERG Sacred Codex
 
-[[The LIONSBERG Sacred Codex]]  
+[[The LIØNSBERG Sacred Codex]]  
 
 ## 14. The Book of LIONSBERG 
 
@@ -176,7 +176,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. Welcoming and Hospitality 
 
-[[Welcome to LIONSBERG, We Are Glad You Are Here]]  
+[[Welcome to LIØNSBERG, We Are Glad You Are Here]]  
 ## 14. Initiation 
 
 [[The LIONSBERG System of Initiation]]  

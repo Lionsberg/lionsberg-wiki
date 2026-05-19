@@ -6,7 +6,7 @@ By 2026, The Alliance aims to empower [[The First Three Percent]] to forge the [
 
 Related Pages:  
 - [[Above The Chaos, The Lionsberg Alliance]]  
-- [[The Lionsberg Strategy and Plan]]  
+- [[The LIØNSBERG Strategy and Plan]]  
 - [[Agreement to Join The Lionsberg Alliance]]  
 - [[The Seven Commitments of Every Co-Creator]]  
 

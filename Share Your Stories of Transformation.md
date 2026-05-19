@@ -15,7 +15,7 @@ A life changed. A neighborhood healed. A [[Circles|Circle]] of strangers became 
 
 Stories are the oldest technology of transmission. Long before doctrine, before scripture, before systems — there were stories told around fires by people whose lives had been marked by the Real.
 
-In [[The Great Game of LIONSBERG|The Great Game]], stories of transformation serve a sacred function:
+In [[The Great Game of LIØNSBERG|The Great Game]], stories of transformation serve a sacred function:
 
 - They are **living proof** that the Pattern works
 - They are how those still in the Caves begin to see light

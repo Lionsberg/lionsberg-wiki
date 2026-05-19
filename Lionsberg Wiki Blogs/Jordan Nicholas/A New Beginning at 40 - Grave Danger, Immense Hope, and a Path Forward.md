@@ -66,7 +66,7 @@ Before Us lay a battle map, listing not just nations, corporations, and institut
 
 The information that followed shattered Our remaining illusions about reality, and the political, military, religious, and academic institutions that have been systematically deceiving humanity for generations. At the same time, suddenly We ReMembered, and everything made sense again.  
 
-In late 2024, the public headlines of [[Controlled Disclosure]] finally beamed: 
+In late 2024, the public headlines of [[Kontrolled Disclosure]] finally beamed: 
 
 **Humanity Is Not Alone**
 

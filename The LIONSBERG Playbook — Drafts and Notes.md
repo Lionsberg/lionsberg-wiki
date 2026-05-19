@@ -328,7 +328,7 @@ not dead chapters of ink, but living archetypes:
 
 ## **Clarifying the Role of the Playbook**
 
-- **[[The LIONSBERG Experience]]** = the _whole journey_.  
+- **[[The LIØNSBERG Experience]]** = the _whole journey_.  
     Arrival → Initiation → Playbook → Ascent → Codex → Reference → Eternal Game.  
     
 - **The LIONSBERG Playbook** = the _practical, middle sequence_.  

@@ -1,5 +1,5 @@
 # The Patterns of Life and Death 
-[[The Lionsberg Pattern Language]]  
+[[The LIØNSBERG Pattern Language]]  
 
 ## Wisdom, Knowledge, and Understanding 
 

@@ -73,4 +73,4 @@ ___
 
 _See [[Ring 5 - The Game]] for the full action sequence._  
 _See [[Holofractal Omnifederation]] for why the Circle carries the full DNA._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

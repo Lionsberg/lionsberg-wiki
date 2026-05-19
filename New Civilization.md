@@ -58,5 +58,5 @@ This is not utopian aspiration. It is structural architecture proven across cent
 
 ___
 
-_See [[The 10 Year Grand Strategy]] and [[Ring 5 - The Game]] in [[LIONSBERG 101]]._  
+_See [[The 10 Year Grand Strategy]] and [[Ring 5 - The Game]] in [[LIØNSBERG 101]]._  
 _See [[The Core Pattern]] and [[Twelve Irreducible Elements]]._

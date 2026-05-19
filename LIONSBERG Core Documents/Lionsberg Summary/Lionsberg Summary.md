@@ -4,7 +4,7 @@
 
 [[LIONSBERG]] provides an overview. 
 
-[[The Story of LIONSBERG]] provides the narrative context. 
+[[The Story of LIØNSBERG]] provides the narrative context. 
 
 The [[LIONSBERG Manifesto]] lays out the call to action. 
 
@@ -12,7 +12,7 @@ The [[LIONSBERG Manifesto]] lays out the call to action.
 
 The [[The LIONSBERG System of Values]] articulates the Spirit and Values that guide us.  
 
-[[The Lionsberg Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
+[[The LIØNSBERG Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
 
 [[Lionsberg Structure]] charts the evolving legal and governance framework.   
 

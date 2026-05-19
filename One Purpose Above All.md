@@ -53,4 +53,4 @@ The answer must align — fractally, all the way up — with [[Meta Goal|The Met
 ___
 
 _One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
-_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._
+_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIØNSBERG 101]]._

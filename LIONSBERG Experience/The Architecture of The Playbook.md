@@ -15,7 +15,7 @@ and Vision into Reality.
 ## An Evolving Co-Creation
 
 The LIONSBERG Playbook is designed to be co-created  
-by **[[The First Three Percent]]** as they play and embody **[[The Great Game of LIONSBERG|The Great Game]]**.
+by **[[The First Three Percent]]** as they play and embody **[[The Great Game of LIØNSBERG|The Great Game]]**.
 
 The lived experiences of the early players will make the Playbook accurate, organic, and emergent  
 for all who follow.
@@ -26,9 +26,9 @@ What follows is a living starting point — designed for emergence and continuou
 
 ## Quick Start
 
-**[[The LIONSBERG Quick Start Guide]]** provides the essentials to step into **The Great Game** immediately.
+**[[The LIØNSBERG Quick Start Guide]]** provides the essentials to step into **The Great Game** immediately.
 
-If you arrived here via **[[Welcome to LIONSBERG]]**, you have likely already read it.
+If you arrived here via **[[Welcome to LIØNSBERG]]**, you have likely already read it.
 
 Start there, then **form a Circle**, **choose a Quest**, and **get moving**.
 
@@ -38,7 +38,7 @@ Everything that follows can be accessed and co-created as the journey unfolds.
 
 ## The Basic Play That Begins The Great Game
 
-Invite a few people you resonate with to a gathering and follow **[[The LIONSBERG Quick Start Guide]]** — it walks you through reading aloud **[[Prologue to The Story and The Great Game|The Prologue]]**, **[[The Story of LIONSBERG|The Story]]**, and **[[The Great Game of LIONSBERG|The Great Game]]** together. All the steps and gates open from there.
+Invite a few people you resonate with to a gathering and follow **[[The LIØNSBERG Quick Start Guide]]** — it walks you through reading aloud **[[Prologue to The Story and The Great Game|The Prologue]]**, **[[The Story of LIØNSBERG|The Story]]**, and **[[The Great Game of LIØNSBERG|The Great Game]]** together. All the steps and gates open from there.
 
 ---
 

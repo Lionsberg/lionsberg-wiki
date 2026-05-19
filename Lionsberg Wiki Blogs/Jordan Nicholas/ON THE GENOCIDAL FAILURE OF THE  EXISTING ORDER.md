@@ -85,7 +85,7 @@ Did you know that yet? Do you realize the implications?
 
 Are you one of the few paying attention?
 
-🔹 Intelligence officials are associating the timeline of [[Controlled Disclosure]], which began in 2017, with a deadline for completion before what they call **"the return of the gods" in 2027.** Perhaps non-coincidentally, as far back as the 1990s whistleblowers fearing for their lives said they would be able to reveal more ***in 2025***. 
+🔹 Intelligence officials are associating the timeline of [[Kontrolled Disclosure]], which began in 2017, with a deadline for completion before what they call **"the return of the gods" in 2027.** Perhaps non-coincidentally, as far back as the 1990s whistleblowers fearing for their lives said they would be able to reveal more ***in 2025***. 
 
 Does that strike you as strange? How did they know so far in advance what the [[Fascist Security State]] was planning to do? 
 

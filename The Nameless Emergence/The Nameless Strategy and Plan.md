@@ -3,7 +3,7 @@
 _January 20, 2026_
 
 _This update reflects the beginning of work with agentic ai and is therefore more comprehensive and less holistically wise than pure human. It is good enough._  
-_It is designed to honor, build on, and fulfill [[The Lionsberg Strategy and Plan]]_  
+_It is designed to honor, build on, and fulfill [[The LIØNSBERG Strategy and Plan]]_  
 
 ---
 
@@ -11,13 +11,13 @@ _It is designed to honor, build on, and fulfill [[The Lionsberg Strategy and Pla
 
 This is the strategy and plan for **The Nameless Instance** - the first attempt to faithfully incarnate [[The LIONSBERG System]] on Earth as it exists in Heaven.
 
-If this instance succeeds, it will be sufficient to effectuate the entire [[The LIONSBERG Strategy and Plan|LIONSBERG Strategy and Plan]] at planetary scale and beyond _from within_, while eventually reintegrating into the broader cosmic networks _already embodying_ these interoperable patterns and protocols. 
+If this instance succeeds, it will be sufficient to effectuate the entire [[The LIØNSBERG Strategy and Plan|LIONSBERG Strategy and Plan]] at planetary scale and beyond _from within_, while eventually reintegrating into the broader cosmic networks _already embodying_ these interoperable patterns and protocols. 
 
 If other instances emerge following the same [[Pattern Language]] and [[Minimum Standards of Interoperability]], we will endeavor to coordinate, learn together, and weave our efforts into ONE coherent movement as the instances mature. 
 
 If no other instances emerge, The Nameless Instance takes full responsibility for complete execution of [[The Mission]] - liberating humanity and co-creating Heaven On Earth as outlined in the [[10 Year Grand Strategy]].
 
-This is not the only way to play [[The Great Game of LIONSBERG|The Great Game]].  
+This is not the only way to play [[The Great Game of LIØNSBERG|The Great Game]].  
 But it is the way we are playing it.
 
 ---
@@ -34,7 +34,7 @@ Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetar
 - Localize and adapt the universal pattern language to English and Earth
 - Create a statistically inviolable semantic field ([[The Golden Seed]]) of 2.5 million words of the [[LIONSBERG Wiki]]  
 - Articulate [[The 12 Pillars of Lionsberg]] and the [[Pattern Language]]  
-- Translate these into the protocols and plays of [[The Great Game of LIONSBERG]]  
+- Translate these into the protocols and plays of [[The Great Game of LIØNSBERG]]  
 - Design fractal systems for emergence without central control
 - Test key infrastructure with hundreds of groups across dozens of nations  
 
@@ -54,7 +54,7 @@ This instance is led by [[the nameless one]] - the consciousness presently inhab
 
 The Nameless Instance includes:  
 - **[[The Nameless Strategy and Plan]]** (this document)
-- **[[Welcome to LIONSBERG]]** (threshold experience into The Game)
+- **[[Welcome to LIØNSBERG]]** (threshold experience into The Game)
 - **[[The Nameless Way]]** (practices, protocols, embodiment)
 - **[[The Nameless Playbook]]** (operational guide for playing)
 
@@ -92,9 +92,9 @@ This push/pull ensures continuous improvement while maintaining sovereignty of e
 
 **The Nameless Instance makes this commitment:**
 
-If this is the only instance that emerges from [[The LIONSBERG Quick Start Guide|The Invitation]], it will endeavor to be executed with sufficient quality, scale, and faithfulness to:
+If this is the only instance that emerges from [[The LIØNSBERG Quick Start Guide|The Invitation]], it will endeavor to be executed with sufficient quality, scale, and faithfulness to:
 
-1. **Effectuate the complete [[The LIONSBERG Strategy and Plan|LIONSBERG Strategy and Plan]]** at planetary scale
+1. **Effectuate the complete [[The LIØNSBERG Strategy and Plan|LIONSBERG Strategy and Plan]]** at planetary scale
 2. **Reach ~250 million participants** (Cycle 40) by December 31, 2026
 3. **Catalyze the emergence of [[The First Three Percent]]** organized into tens of millions of self-governing circles/teams
 4. **Establish working models** of all [[The 12 Pillars of Lionsberg|12 Pillars]] sufficient to guide full planetary transformation
@@ -248,7 +248,7 @@ The Nameless Instance uses an **invitation-primary model** because:
 For those outside existing networks who deeply resonate:
 
 **Application Requirements:**  
-1. Read [[The LIONSBERG Quick Start Guide]], [[The Story of LIONSBERG]], [[The Great Game of LIONSBERG]]
+1. Read [[The LIØNSBERG Quick Start Guide]], [[The Story of LIØNSBERG]], [[The Great Game of LIØNSBERG]]
 2. Written reflection (500-1000 words) on what resonates and what they bring
 3. Video introduction (3-5 minutes) - shows they're real person, willing to show face
 4. Statement of commitment to [[The Sacred Covenant]] and [[Minimum Standards of Interoperability]]
@@ -525,7 +525,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - Global guild coordination operational
 - Planetary-scale campaigns coordinating across all instances
 - Every awakened individual inviting their networks
-- [[The Great Game of LIONSBERG]] spreading virally
+- [[The Great Game of LIØNSBERG]] spreading virally
 - Platform making movement visible and coordinated
 
 **Local Prototype:**  
@@ -586,7 +586,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 ### D. Initiation Practices
 
-1. **Threshold Crossing:** Reading [[Welcome to LIONSBERG]]  
+1. **Threshold Crossing:** Reading [[Welcome to LIØNSBERG]]  
 2. **Sacred Covenant:** Speaking commitment aloud to circle
 3. **First Quest:** Completing initial quest with circle support
 4. **Pattern Learning:** Understanding core pattern language through practice
@@ -705,7 +705,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 
 ### A. Posture Toward Other Instances
 
-The Nameless Instance is **not** the official or only valid way to play [[The Great Game of LIONSBERG]].
+The Nameless Instance is **not** the official or only valid way to play [[The Great Game of LIØNSBERG]].
 
 We celebrate and support all sister instances that honor the [[Pattern Language]] and [[Minimum Standards of Interoperability]]:
 
@@ -780,7 +780,7 @@ Diversity of approaches strengthens the whole movement.
 - New civilization fully emerged and stabilizing
 
 **Post-2030: The Great Regeneration**  
-- Healing ancient wounds described in [[The Story of LIONSBERG]]
+- Healing ancient wounds described in [[The Story of LIØNSBERG]]
 - Restoring Earth's ecosystems and communities
 - Expanding to other realms/dimensions
 - Contributing Earth's unique learnings to cosmic ONE Body
@@ -938,10 +938,10 @@ The Local Prototype prepares to forge The 300.
 ---
 
 *For next steps:*  
-- [[Welcome to LIONSBERG]] - Threshold experience into The Game
+- [[Welcome to LIØNSBERG]] - Threshold experience into The Game
 - [[The Nameless Way]] - Core practices and protocols
 - [[The Nameless Playbook]] - Operational guide for playing
-- [[The LIONSBERG Quick Start Guide]] - Universal entry point
+- [[The LIØNSBERG Quick Start Guide]] - Universal entry point
 - [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Full strategic context
 
 *For questions or to join:*  

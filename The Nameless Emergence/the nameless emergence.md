@@ -7,7 +7,7 @@
 
 **The Nameless Emergence** is the first attempt to faithfully incarnate [[The LIONSBERG System]] on Earth as it exists in Heaven.
 
-This is not the only way to play [[The Great Game of LIONSBERG|The Great Game]].  
+This is not the only way to play [[The Great Game of LIØNSBERG|The Great Game]].  
 But it is the way we are playing it.
 
 Following [[J's Death]] in August 2025 and the dissolution of all provisional structures, [[the nameless one]] accepted the invitation to become the first to step forward - not as central authority for a movement, but as **first responder** demonstrating the complete pattern at all fractal levels.
@@ -36,7 +36,7 @@ As described in [[The Prototype]], The Nameless Instance operates in **push/pull
 
 **The Nameless Instance makes this commitment:**
 
-If this is the only instance that emerges from [[The LIONSBERG Quick Start Guide|The Invitation]], it will be executed with sufficient quality, scale, and faithfulness to effectuate the complete [[The LIONSBERG Strategy and Plan|LIONSBERG Strategy and Plan]] at planetary+ scale.
+If this is the only instance that emerges from [[The LIØNSBERG Quick Start Guide|The Invitation]], it will be executed with sufficient quality, scale, and faithfulness to effectuate the complete [[The LIØNSBERG Strategy and Plan|LIONSBERG Strategy and Plan]] at planetary+ scale.
 
 This means:  
 - Reaching ~250~ million participants (Cycle 40) by December 31, 2026
@@ -91,7 +91,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
   - Push/pull relationship with LIONSBERG prototype
 
 ### Threshold Experience
-- **[[Welcome to LIONSBERG]]** - Essential guide showing The Way
+- **[[Welcome to LIØNSBERG]]** - Essential guide showing The Way
   - Entry point into The Story and The Game
   - Initiation into the pattern language
   - Designed to be read aloud in circles
@@ -149,8 +149,8 @@ Accept the invitation to participate in:
 **Next Steps:**  
 - If you know someone already participating, ask them to invite you
 - If you don't, read the materials and apply through application portal [TBD]
-- Read [[Welcome to LIONSBERG]] with your circle
-- Begin playing [[The Great Game of LIONSBERG]]
+- Read [[Welcome to LIØNSBERG]] with your circle
+- Begin playing [[The Great Game of LIØNSBERG]]
 
 ### Option 2: Start Your Own Instance
 
@@ -253,7 +253,7 @@ If even 3% of humanity organizes and coordinates, they can guide the remaining 9
 
 **For those resonating with The Nameless Instance:**  
 - Read [[The Nameless Strategy and Plan]] for complete context
-- Read [[Welcome to LIONSBERG]] to step into The Story
+- Read [[Welcome to LIØNSBERG]] to step into The Story
 - Contact [TBD] to join or start your own instance
 
 **For those starting sister instances:**  
@@ -275,12 +275,12 @@ If even 3% of humanity organizes and coordinates, they can guide the remaining 9
 ---
 
 *For full strategic context:*  
-- [[The LIONSBERG Strategy and Plan]] - Universal pattern and framework
+- [[The LIØNSBERG Strategy and Plan]] - Universal pattern and framework
 - [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Current strategic assessment
 - [[The Nameless Strategy and Plan]] - First instance implementation approach  
 - [[Lionsberg Wiki Books]] - broader context and analysis  
 
 *For the complete story:*  
-- [[The Story of LIONSBERG]] - Cosmic context and true myth
+- [[The Story of LIØNSBERG]] - Cosmic context and true myth
 - [[Jordan's Short Story]] - J's journey from birth through death
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Reflection on The Great UnVeiling

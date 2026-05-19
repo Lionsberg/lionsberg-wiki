@@ -11,7 +11,7 @@ the city a civilization._
 
 Every Circle chooses its own Quest — the [[Meaningful Work]] that calls to it, the real problem it is equipped to address, the contribution only it can make. This autonomy is sacred. No one assigns Quests from above.
 
-But individual Quests, pursued in isolation, remain individual. When Quests across many Circles **align toward shared milestones**, the impact multiplies exponentially. This is how [[The Great Game of LIONSBERG|The Great Game]] becomes a coordinated movement without becoming a controlled one.
+But individual Quests, pursued in isolation, remain individual. When Quests across many Circles **align toward shared milestones**, the impact multiplies exponentially. This is how [[The Great Game of LIØNSBERG|The Great Game]] becomes a coordinated movement without becoming a controlled one.
 
 ---
 

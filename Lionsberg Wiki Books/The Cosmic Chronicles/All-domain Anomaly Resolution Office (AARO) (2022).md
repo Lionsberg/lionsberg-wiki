@@ -92,4 +92,4 @@ AARO’s creation reflects growing recognition of the need for a systematic appr
     - Collaborate with international partners to share data and insights on UAPs, recognizing their global nature.
 5. **Intentional Disinformation:**
     
-    - Many aspects of the [[Fascist Security State]] do not want truth and transparency in regards to the issues relating to UAP and extraterrestrials. Concerns immediately emerged that this was the next carefully scripted step in [[Controlled Disclosure]]. 
+    - Many aspects of the [[Fascist Security State]] do not want truth and transparency in regards to the issues relating to UAP and extraterrestrials. Concerns immediately emerged that this was the next carefully scripted step in [[Kontrolled Disclosure]]. 

@@ -97,7 +97,7 @@ A Quest is a concrete project — a body of [[Meaningful Work]] — that advance
 
 - Establish a community food cooperative using the [[Soft Franchises]] model
 - Create a local mutual aid network for your neighborhood
-- Launch a study group using [[LIONSBERG 101]] to form new Circles
+- Launch a study group using [[LIØNSBERG 101]] to form new Circles
 - Address a specific local need (housing, education, food security, elder care, youth mentorship)
 - Build a component of shared digital infrastructure
 - Document and share learnings back to the [[Commons]]
@@ -222,4 +222,4 @@ The time is now.
 
 Forward to [[The 10 Year Grand Strategy]]  
 Back to [[Ring 4 - The Library]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

@@ -44,5 +44,5 @@ From this [[ONE]], the [[Twelve Irreducible Elements]] emanate. To this ONE, all
 
 ___
 
-_See [[Ring 0 - ONE]] in [[LIONSBERG 101]]._  
+_See [[Ring 0 - ONE]] in [[LIØNSBERG 101]]._  
 _See [[Spirit]] and [[Love]]._

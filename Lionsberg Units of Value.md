@@ -47,4 +47,4 @@ This mirrors AA's Tradition 7: "Every AA group ought to be fully self-supporting
 ___
 
 _See [[Meaningful Work]], [[Time Currency]], and [[Capital Subordinate To Purpose]]._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

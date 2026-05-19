@@ -25,7 +25,7 @@ ___
 
 ## How Circles Multiply
 
-This is the heartbeat of [[The Great Game of LIONSBERG|The Great Game]].
+This is the heartbeat of [[The Great Game of LIØNSBERG|The Great Game]].
 
 Every person in a Circle is also part of **a second Circle** — the one they form with the 2 or 3 others they invite. This is the **double helix** through which the DNA of the [[New Civilization]] replicates.
 
@@ -59,6 +59,6 @@ A Circle that only meets but does not act is a study group. A Circle that acts b
 
 ___
 
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.  
-See [[The LIONSBERG Playbook]] for ongoing guidance.  
+See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.  
+See [[The LIØNSBERG Playbook]] for ongoing guidance.  
 See [[Your First Quest]] for choosing your first Quest.

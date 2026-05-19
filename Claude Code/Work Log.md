@@ -136,9 +136,9 @@ Progression: `/init` command → understanding the mission → transforming [[RE
 - `after-initial-claude-onboarding` - Milestone marking completion of initial setup
 
 **Next Session Considerations:**  
-- Begin generating essential plays for [[The LIONSBERG Playbook]] (A Item in program notes)
+- Begin generating essential plays for [[The LIØNSBERG Playbook]] (A Item in program notes)
 - Consider Phase 1 prototyping for computational reflection project (semantic analysis, pattern extraction)
-- Coordinate [[The Story of LIONSBERG]] with other narrative documents
+- Coordinate [[The Story of LIØNSBERG]] with other narrative documents
 - Address frequently asked questions by creating new Plays
 
 **Session End Status:**  
@@ -149,10 +149,10 @@ All work committed and pushed. Repository in clean state. Work log established f
 ## 2026-01-20 - Strategic Analysis & Q1 Update
 
 **Session Summary:**  
-Created comprehensive 2026 Q1 Update to [[The LIONSBERG Strategy and Plan]], integrating full human story context including [[Jordan's Short Story]], [[J's Death]], and the strategic implications of complete structural dissolution. Transformed a tactical progress report into a document carrying the full weight of what's actually happening—a fully decentralized network must self-organize at planetary scale in 11 months, with no central authority, organization, or resources.
+Created comprehensive 2026 Q1 Update to [[The LIØNSBERG Strategy and Plan]], integrating full human story context including [[Jordan's Short Story]], [[J's Death]], and the strategic implications of complete structural dissolution. Transformed a tactical progress report into a document carrying the full weight of what's actually happening—a fully decentralized network must self-organize at planetary scale in 11 months, with no central authority, organization, or resources.
 
 **Accomplished:**  
-- Analyzed [[The LIONSBERG Strategy and Plan]] and all linked documents via Explore agent
+- Analyzed [[The LIØNSBERG Strategy and Plan]] and all linked documents via Explore agent
 - Created [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] (~13,000 words)
 - Integrated human story context: 7-year preparation, political exploration, revelations, J's death, structural dissolution
 - Added Section E: "August 2025: The Ultimate Test of Decentralized Design"
@@ -221,9 +221,9 @@ Every person reading this faces J's question: Will you step forward? Will you fo
 - Consider: "after-q1-2026-strategic-update" (if marking this milestone)
 
 **Next Session Considerations:**  
-- Generate essential plays for [[The LIONSBERG Playbook]] (A Item in [[TKTK Program Notes]])
+- Generate essential plays for [[The LIØNSBERG Playbook]] (A Item in [[TKTK Program Notes]])
 - Begin Phase 1 prototyping for [[A Program to Play The Great Game]] (semantic analysis, AI training)
-- Coordinate [[The Story of LIONSBERG]] with other narrative documents for consistency
+- Coordinate [[The Story of LIØNSBERG]] with other narrative documents for consistency
 - Create invitation materials for existing trust networks (Q1 ignition phase)
 - Consider how to make [[README]] and entry experience even more resonant
 - Document [[Stories of Transformation]] framework and templates
@@ -347,8 +347,8 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 - [[The Threshold]] - Updated reference
 - [[The Architecture of The Playbook]] - Updated references
 - [[LIONSBERG - History, Inception, and Trust Manifesto]] - Updated reference
-- [[The LIONSBERG Playbook]] - Updated reference
-- [[Welcome to LIONSBERG, We Are Glad You Are Here]] - Updated reference
+- [[The LIØNSBERG Playbook]] - Updated reference
+- [[Welcome to LIØNSBERG, We Are Glad You Are Here]] - Updated reference
 - [[The LIONSBERG Playbook is Live]] - Updated reference
 - [[Something Powerful, New, and Good]] - Updated reference
 - [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Updated references (multiple)
@@ -476,7 +476,7 @@ None this session
 **Next Session Considerations:**  
 - Consider whether other files in "The Nameless Emergence" directory need similar resonance review
 - Monitor early reader feedback on [[the nameless book]] resonance in practice
-- Potentially review [[The LIONSBERG Quick Start Guide]] for consistency with refined nameless book voice
+- Potentially review [[The LIØNSBERG Quick Start Guide]] for consistency with refined nameless book voice
 - Consider extracting the resonance assessment framework into reusable tool for other documents
 
 **Session End Status:**  
@@ -495,7 +495,7 @@ Designed and implemented a complete, coherent initiatory arc through the first t
 - Refined [[README]] disclaimer to 93-94% resonance with The Nameless One's manual adjustments
 - Added critical "Gather Your Circle" pivot section to [[the nameless book]] (lines 151-180)
 - Restructured "The Journey Ahead" section in [[the nameless book]] to assume circle is gathered
-- Completely rewrote [[The LIONSBERG Quick Start Guide]] from 70-75% to 94-96% resonance
+- Completely rewrote [[The LIØNSBERG Quick Start Guide]] from 70-75% to 94-96% resonance
 - Verified complete user journey flow with zero redundancy across all three documents
 - Committed and pushed all changes (commit c11ac7b)
 
@@ -517,7 +517,7 @@ None (complete restructures of existing files)
 **Files Modified:**  
 - [[README]] - Subtle adjustment to Step 2 clarifying journey structure
 - [[the nameless book]] - Added "Gather Your Circle" pivot + restructured "The Journey Ahead"
-- [[The LIONSBERG Quick Start Guide]] - Complete replacement with 94-96% resonance version
+- [[The LIØNSBERG Quick Start Guide]] - Complete replacement with 94-96% resonance version
 
 **User Teaching Moments:**  
 1. **"Let's go ahead with option best"**: The Nameless One chose complete restructure over minimal fix - commitment to getting it right now rather than iterating
@@ -629,7 +629,7 @@ Massive multi-day session encompassing the grand reframing of LIONSBERG as Story
 - **Safe perl regex**: `[^\S\n]` instead of `\s` to avoid eating newlines — critical discovery for all future text processing
 
 **Files Created:**
-- [[The LIONSBERG Pattern Language]] — 22,787-word definitive articulation
+- [[The LIØNSBERG Pattern Language]] — 22,787-word definitive articulation
 - 16 new PDG sections (16.1 through 16.16) in `LIONSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/`
 
 **Files Modified:**
@@ -678,7 +678,7 @@ All work committed and pushed. Repository clean. Massive body of work completed.
 ## 2026-03-02 (Session 2) - Complete Rewrite of LIONSBERG 101 (The Book of LIONSBERG)
 
 **Session Summary:**
-Complete rewrite of all sections of [[LIONSBERG 101]] (Welcome to LIONSBERG / The Book of LIONSBERG), organized in six parts. Rewrote Parts I-V plus created new Part III sections and all Playbook pages. Performed full review pass across all sections for voice consistency, then completed a comprehensive spell check and copy-edit across 65+ key content files. Created ~27 new Playbook play pages covering Circle management, communication and culture, federation and scaling, and infrastructure.
+Complete rewrite of all sections of [[LIØNSBERG 101]] (Welcome to LIONSBERG / The Book of LIONSBERG), organized in six parts. Rewrote Parts I-V plus created new Part III sections and all Playbook pages. Performed full review pass across all sections for voice consistency, then completed a comprehensive spell check and copy-edit across 65+ key content files. Created ~27 new Playbook play pages covering Circle management, communication and culture, federation and scaling, and infrastructure.
 
 **Accomplished:**
 - Rewrote Part I (1.1-1.4): How to Use This Book, Your First Day, Key Orienting Facts, Life as Sovereign Agent
@@ -709,7 +709,7 @@ Complete rewrite of all sections of [[LIONSBERG 101]] (Welcome to LIONSBERG / Th
 - [[Discern the Wise Right Next Steps]] — `circles` → `Circles`
 - [[The Invitation]] — `--` → `—` (3 instances)
 - [[16.11 Every Community Is a Construction Site]] — "Five" → "Four" Resource Flow Workflows
-- [[The LIONSBERG Pattern Language]] — multiple fixes: titheing→tithing, circle size 12→16, Seven Moves corrected, `___`→`---`, numbered headings removed
+- [[The LIØNSBERG Pattern Language]] — multiple fixes: titheing→tithing, circle size 12→16, Seven Moves corrected, `___`→`---`, numbered headings removed
 
 **Session End Status:**
 All work committed and pushed. Spell check complete.
@@ -746,7 +746,7 @@ Continuation session completing two major maintenance tasks (global two-space sw
 - [[The LIONSBERG Circle Guide]] — possessive fix
 - [[Discern the Wise Right Next Steps]] — capitalization
 - [[16.11 Every Community Is a Construction Site]] — count fix
-- [[The LIONSBERG Pattern Language]] — multiple fixes
+- [[The LIØNSBERG Pattern Language]] — multiple fixes
 - [[CLAUDE]] — three major additions (architecture, body of work, biographical context)
 
 **User Teaching Moments:**

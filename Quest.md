@@ -22,9 +22,9 @@ ___
 
 In the great traditions, a Quest is a journey toward something that matters — often infused with sacred, symbolic, or allegorical meaning. Tales of Quests figure prominently in the folklore of every tribe, nation, and tradition.
 
-In [[The Great Game of LIONSBERG]], every Quest carries this dual nature: it is both a practical project and a spiritual practice. The outer work of transforming your community is inseparable from the inner work of transforming yourselves.
+In [[The Great Game of LIØNSBERG]], every Quest carries this dual nature: it is both a practical project and a spiritual practice. The outer work of transforming your community is inseparable from the inner work of transforming yourselves.
 
-Every Quest accomplished is a move in [[The Great Game of LIONSBERG|The Great Game]]. Every Circle completing its Quest and passing [[The Flame]] advances the whole. All Quests — from the smallest local act to the greatest planetary endeavor — stack up and align toward [[The Goal]]: the progressive realization of Heaven On Earth.
+Every Quest accomplished is a move in [[The Great Game of LIØNSBERG|The Great Game]]. Every Circle completing its Quest and passing [[The Flame]] advances the whole. All Quests — from the smallest local act to the greatest planetary endeavor — stack up and align toward [[The Goal]]: the progressive realization of Heaven On Earth.
 
 ___
 
@@ -42,5 +42,5 @@ ___
 ___
 
 See [[Your First Quest]] for guidance on choosing and beginning.  
-See [[The LIONSBERG Quick Start Guide]] for how Quests fit into your first gathering.  
-See [[The LIONSBERG Playbook]] for ongoing Quest guidance.
+See [[The LIØNSBERG Quick Start Guide]] for how Quests fit into your first gathering.  
+See [[The LIØNSBERG Playbook]] for ongoing Quest guidance.

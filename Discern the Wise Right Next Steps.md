@@ -98,4 +98,4 @@ Now it is time for the most important play of all.
 
 ---
 See [[The Architecture of The Playbook]] for the full navigation.  
-See [[The LIONSBERG Quick Start Guide]] for your first 90 minutes together.
+See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

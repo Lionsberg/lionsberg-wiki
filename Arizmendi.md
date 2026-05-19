@@ -65,4 +65,4 @@ _"It is not enough to curse the darkness of capitalism. It is necessary to light
 
 ___
 
-_See [[Mondragon]], [[Education As Transformation]], and [[Ring 3 - The Living Proof]] in [[LIONSBERG 101]]._
+_See [[Mondragon]], [[Education As Transformation]], and [[Ring 3 - The Living Proof]] in [[LIØNSBERG 101]]._

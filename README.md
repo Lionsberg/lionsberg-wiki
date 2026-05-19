@@ -66,9 +66,11 @@ It might just bring Heaven to Earth.
 The Way is not an individual. It is not an organization. It is not a movement.  
 It is Pattern. It is Protocol. It is Heart. It is Spirit. It is DNA.  
 
-**➡️ [[Welcome to LIONSBERG]]**
+Cross the threshold. Enter the gates. 
 
-_Ready to act now? Gather your circle and begin: [[The LIONSBERG Quick Start Guide]]_
+**➡️ [[Welcome to LIØNSBERG]]**
+
+_Or, if you are ready to gather and begin now: [[The LIØNSBERG Quick Start Guide]]_
 
 ---
 

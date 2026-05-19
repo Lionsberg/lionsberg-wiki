@@ -2,7 +2,7 @@
 
 ## Current Version
 
-The LIONSBERG Co-Creators Handbook was integrated and evolved into [[The LIONSBERG Playbook]]  in January 2026
+The LIONSBERG Co-Creators Handbook was integrated and evolved into [[The LIØNSBERG Playbook]]  in January 2026
 
 ## Past Versions
 

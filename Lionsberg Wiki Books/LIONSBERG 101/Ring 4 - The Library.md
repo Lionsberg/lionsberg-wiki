@@ -25,16 +25,16 @@ Ring 4 gives you the **depth** — so that when you encounter a specific challen
 
 These books tell **The Story** — the cosmic context of what is happening, why it matters, and where humanity stands.
 
-- **[[The Story of LIONSBERG]]** — The full cosmic narrative spanning epochs and galaxies. Earth as one world where the great Story is unfolding. The Caves, the awakening, the Great Movement.
+- **[[The Story of LIØNSBERG]]** — The full cosmic narrative spanning epochs and galaxies. Earth as one world where the great Story is unfolding. The Caves, the awakening, the Great Movement.
 - **[[The Book of LIONSBERG]]** — The foundational text. Over 12 chapters covering the nature of reality, the quest for unity, the Meta Project, the Meta Game, and the path to Heaven On Earth.
-- **[[Welcome to LIONSBERG]]** — The essential guide showing the Way. The primary entry point for those seeking practical orientation.
+- **[[Welcome to LIØNSBERG]]** — The essential guide showing the Way. The primary entry point for those seeking practical orientation.
 
 ### The Operational System
 
 These books describe **How It Works** — the practical patterns, governance structures, production systems, and economic mechanisms.
 
-- **[[The Great Game of LIONSBERG]]** — The comprehensive game framework. Circles, Quests, the Fibonacci pattern, the rules of the Meta Game, progression through the Seven Gates.
-- **[[The LIONSBERG Playbook]]** — Operational guidance for forming Circles, undertaking Quests, governing communities, and playing the Game.
+- **[[The Great Game of LIØNSBERG]]** — The comprehensive game framework. Circles, Quests, the Fibonacci pattern, the rules of the Meta Game, progression through the Seven Gates.
+- **[[The LIØNSBERG Playbook]]** — Operational guidance for forming Circles, undertaking Quests, governing communities, and playing the Game.
 - **[[The Program Delivery Guide]]** — The core document informing LIONSBERG's production system and localization to Earth — drawing on Integrated Project Delivery, Lean Construction, the Toyota Production System, and decades of proven operational wisdom, distilled into the Prototype/Kit of Parts.
 - **[[The Lionsberg Approach to Citizen Led Governance]]** — The full governance pattern language: Stewarding the Commons, Citizen Led Self-Governance, Voluntarily Organizing and Federating, Voluntary Tithing, Exchanging Units of Value.
 - **[[Organizations The Lionsberg Way]]** — How organizations are structured within the federation.
@@ -101,9 +101,9 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 ## How To Navigate
 
-**If you are awakening and need orientation**: Start with [[Welcome to LIONSBERG]].
+**If you are awakening and need orientation**: Start with [[Welcome to LIØNSBERG]].
 
-**If you want to form a Circle**: Go to [[The LIONSBERG Playbook]] and [[The Great Game of LIONSBERG]].
+**If you want to form a Circle**: Go to [[The LIØNSBERG Playbook]] and [[The Great Game of LIØNSBERG]].
 
 **If you want to understand the governance**: Read [[The Lionsberg Approach to Citizen Led Governance]].
 
@@ -133,4 +133,4 @@ Both are necessary. The DNA without the forest is too thin. The forest without t
 
 Forward to [[Ring 5 - The Game]]  
 Back to [[Ring 3 - The Living Proof]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

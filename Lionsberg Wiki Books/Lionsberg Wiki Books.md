@@ -5,13 +5,13 @@ The books below all explore the same core Challenges, Mission, Vision, and Goal,
 Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
 ## Featured Works
 
-1. [[LIONSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All  
+1. [[LIØNSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All  
 2. [[The Book of LIONSBERG]]  
 3. [[Most People Have No Idea What Is Coming]]  
 4. [[The Program Delivery Guide]] — $20M of funded research on Integrated Project Delivery, the core document informing LIONSBERG's localization to Earth  
 5. [[The Lionsberg Book of Meditations]]  
 6. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
-7. [[The Lionsberg Strategy and Plan]]  
+7. [[The LIØNSBERG Strategy and Plan]]  
 
 ## Something Powerful, New, and Good (Post-August 2025)
 
@@ -36,7 +36,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 4. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]  
 5. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]   
 6. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]  
-7. [[The Lionsberg Strategy and Plan]]  
+7. [[The LIØNSBERG Strategy and Plan]]  
 8. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
 9. [[The Dawn of the New World]]  
 10. [[The Lionsberg Book of Meditations]]  
@@ -50,7 +50,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 19. [[The Way of God]]  
 20. [[Lionsberg - A Biblical Perspective]]  
 21. [[The Lionsberg Book of Quotes]]  
-22. [[The Great Game of LIONSBERG]]  
+22. [[The Great Game of LIØNSBERG]]  
 23. [[The Power of Today]]  
 24. [[The Power of One]]  
 25. [[Playing With Poetry]]  

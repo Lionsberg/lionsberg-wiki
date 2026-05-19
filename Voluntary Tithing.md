@@ -60,4 +60,4 @@ ___
 
 _See [[Capital Subordinate To Purpose]], [[Meaningful Work]], [[Lionsberg Units of Value]], and [[Commons]]._  
 _See [[Holofractal Omnifederation]] for how commons naturally emerge at every scale._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

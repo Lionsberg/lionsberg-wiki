@@ -4,10 +4,10 @@
 
 It contains everything needed to begin aNew:
 
-- **[[The Story of LIONSBERG|The Story]]** — the living epic of [[ONE]] and [[All]], the cosmic context for this moment
+- **[[The Story of LIØNSBERG|The Story]]** — the living epic of [[ONE]] and [[All]], the cosmic context for this moment
 - **The Pattern** — [[Twelve Irreducible Elements]] proven across 1,500 years, billions of dollars of economy, and $20 million of funded research
-- **[[The Great Game of LIONSBERG|The Play]]** — the cooperative real-world game of planetary transformation  
-- [[LIONSBERG 101]] — the living and evolving presentation. From one word, to one page, to ten pages, to libraries of millions of words  
+- **[[The Great Game of LIØNSBERG|The Play]]** — the cooperative real-world game of planetary transformation  
+- [[LIØNSBERG 101]] — the living and evolving presentation. From one word, to one page, to ten pages, to libraries of millions of words  
 
 The Golden Seed is not a metaphor. It is a precise description of what this repository contains — the complete operational DNA of a [[New Civilization]], freely available to anyone, anywhere, in any world.
 
@@ -33,6 +33,6 @@ In just 50 [[Lionsberg Cycles of Growth|cycles]] — 50 growth rings on the tree
 
 ___
 
-See [[LIONSBERG 101]] for the complete pattern in concentric rings.  
+See [[LIØNSBERG 101]] for the complete pattern in concentric rings.  
 See [[The Invitation]] for the shareable invitation to play.  
 See [[Ring 1 - The Seed]] for the pattern in its most compressed form.

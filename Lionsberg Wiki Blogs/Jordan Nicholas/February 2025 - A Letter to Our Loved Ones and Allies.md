@@ -35,7 +35,7 @@ Over the coming weeks, it will become increasingly clear through a stream of pub
 
 ### **The Official False Narratives**
 
-Over the coming weeks, the [[Invisible Power Structures]] puppetting ***both the incoming and outgoing*** American administrations—and governments around the world—are poised to accelerate the program of **[[Controlled Disclosure]]** that has been ongoing since 2017. This program has *long been preplanned to peak between 2025 and 2027.* These are not "new discoveries" by Trump and Musk. **This is part of the carefully scripted plan.**
+Over the coming weeks, the [[Invisible Power Structures]] puppetting ***both the incoming and outgoing*** American administrations—and governments around the world—are poised to accelerate the program of **[[Kontrolled Disclosure]]** that has been ongoing since 2017. This program has *long been preplanned to peak between 2025 and 2027.* These are not "new discoveries" by Trump and Musk. **This is part of the carefully scripted plan.**
 
 In the name "Truth," "Transparency," and "Reform," an array of long-foreknown **atrocities against humanity** and the American public will be revealed, and "an investigation" launched. These will include new disclosures regarding the reality that **humanity is not alone in the universe.**  
 

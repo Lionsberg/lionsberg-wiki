@@ -4,12 +4,12 @@ Welcome to **LIONSBERG**.
 Welcome **HOME**.  
 We are so glad that you are here.  
 ____  
-The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIONSBERG]]**, **[[The Great Game of LIONSBERG]]**, and **[[The LIONSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIONSBERG]]** and begin there.  
+The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIØNSBERG]]**, **[[The Great Game of LIØNSBERG]]**, and **[[The LIØNSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIØNSBERG]]** and begin there.  
 ___
 
 Everything about [[LIONSBERG]] is a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
 
-Across the cosmic order We are doing Our best to progressively articulate **[[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The Lionsberg Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**. Just as you are in your own time and place. 
+Across the cosmic order We are doing Our best to progressively articulate **[[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The LIØNSBERG Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**. Just as you are in your own time and place. 
 
 But make no mistake—**the Reality of Heaven on Earth or in any world is not something handed down from Above.**  
 It is something that must be **co-created**, lived, and embodied **Together**.  
@@ -52,7 +52,7 @@ One of **[[The Watchwords of LIONSBERG]]** is:
 
 ## **Next Steps: Orientation & Integration**
 
-As you **set your feet on [[The Path]]** and begin to **connect with your [[Circles]]**, you will find that **[[The LIONSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIONSBERG Playbook]].  
+As you **set your feet on [[The Path]]** and begin to **connect with your [[Circles]]**, you will find that **[[The LIONSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIØNSBERG Playbook]].  
 
 The most important thing for now is to get into action with your Circles as immediately and powerfully as possible. Memories, insights, and deeper questions and understandings will surface as you take action and begin to connect with others who are playing **The Great Game**.  
 
@@ -61,7 +61,7 @@ The key is continual cycles of [[SenseMaking]], leading to [[Seasonal Quests]], 
 As you sleep each evening, your mind and Spirit will absorb and integrate all you are learning, and each morning you will feel more comfortable.  
 
 If you have questions:  
-        - **First, check [[The LIONSBERG Playbook]] and [[Frequently Asked Questions]].**
+        - **First, check [[The LIØNSBERG Playbook]] and [[Frequently Asked Questions]].**
         - **Second, search the [[LIONSBERG Wiki]].**
         - **Third, ask your Circles.**
         - **If none can answer, [[Submit A Question]] and the core team will do their best to batch and respond to [[Frequently Asked Questions]]**.

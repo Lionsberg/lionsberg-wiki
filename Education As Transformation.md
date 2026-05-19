@@ -56,7 +56,7 @@ Education operates through:
 - **[[Quests]]** — learning through doing real work on real problems
 - **Mutual formation** — teaching one another within Circles
 - **The Wiki** — 2.5 million words of reference material available to all
-- **[[LIONSBERG 101]]** — the concentric rings of understanding
+- **[[LIØNSBERG 101]]** — the concentric rings of understanding
 - **Mentorship** — the Arizmendi model: "Organize a group to do something — elect two coordinators, and I'll be back to check on you"
 
 The **3-year healing/empowerment cycle** accounts for the time individuals need to move from awakening through full empowerment. This is not a deficiency — it is how human transformation actually works.
@@ -72,4 +72,4 @@ Without education as transformation, the pattern cannot replicate through people
 ___
 
 _One of the [[Twelve Irreducible Elements]] of [[The Core Pattern]]._  
-_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIONSBERG 101]]._
+_See [[Ring 1 - The Seed]] and [[Ring 2 - The Pattern Unfolded]] in [[LIØNSBERG 101]]._

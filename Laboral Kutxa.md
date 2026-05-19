@@ -32,4 +32,4 @@ The founding of Laboral Kutxa (1959) and [[Lagun Aro]] (the private social secur
 
 ___
 
-_See [[Mondragon]], [[Capital Subordinate To Purpose]], and [[Ring 3 - The Living Proof]] in [[LIONSBERG 101]]._
+_See [[Mondragon]], [[Capital Subordinate To Purpose]], and [[Ring 3 - The Living Proof]] in [[LIØNSBERG 101]]._

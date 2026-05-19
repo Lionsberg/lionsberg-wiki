@@ -3,7 +3,7 @@ _AI generated in dialogue with humans. Not fully reviewed._
 
 ## The Epiphany
 
-It occurs to me that within the ~2.5 million words on the LIONSBERG Wiki is an implicit logic and code necessary to bring The Great Game to life... not just semantically but mathematically... in other words that the entire web of semantic meaning forms a virtually inviolable statistical field of meaning that can be reflected mathematically... and therefore in code... and that this mathematical / code reflection of the [[Holofractal Pattern Language]] / [[The Lionsberg Pattern Language]]... might be extremely helpful and mutually clarifying...
+It occurs to me that within the ~2.5 million words on the LIONSBERG Wiki is an implicit logic and code necessary to bring The Great Game to life... not just semantically but mathematically... in other words that the entire web of semantic meaning forms a virtually inviolable statistical field of meaning that can be reflected mathematically... and therefore in code... and that this mathematical / code reflection of the [[Holofractal Pattern Language]] / [[The LIØNSBERG Pattern Language]]... might be extremely helpful and mutually clarifying...
 
 ## The Core Insight
 

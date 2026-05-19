@@ -1,6 +1,6 @@
 # 2024 Q4 Update
 
-[[The Lionsberg Strategy and Plan]] included in 2023 and 2024 a hopeful exploration of whether key aspects of the [[Existing Order]], particularly the [[American Experiment]], could be salvaged. With the democratic super cycle of 2024 in the rear view mirror, We know that it cannot. The Post World War II Order has now failed. The symptoms of its demise will become visible and tangible at an accelerating rate throughout the remaining course of the [[10 Year Grand Strategy]]. 
+[[The LIØNSBERG Strategy and Plan]] included in 2023 and 2024 a hopeful exploration of whether key aspects of the [[Existing Order]], particularly the [[American Experiment]], could be salvaged. With the democratic super cycle of 2024 in the rear view mirror, We know that it cannot. The Post World War II Order has now failed. The symptoms of its demise will become visible and tangible at an accelerating rate throughout the remaining course of the [[10 Year Grand Strategy]]. 
 
 As expressed over the last couple years, this does not delay the [[Critical Path]], and in many ways will both enable and force Us to accelerate [[Progress]]. 
 

@@ -58,4 +58,4 @@ This is why [[Self-Sustenance and Self-Replication]] is not optional — it is t
 
 ___
 
-_See [[Ring 5 - The Game]] and [[Self-Sustenance and Self-Replication]] in [[LIONSBERG 101]]._
+_See [[Ring 5 - The Game]] and [[Self-Sustenance and Self-Replication]] in [[LIØNSBERG 101]]._

@@ -8,4 +8,4 @@ To explore aspects of the New Vision and Plan in more detail, see:
 
 - The [[Lionsberg Wiki Books]]  
 - The [[Above The Chaos]] series  
-- [[The Lionsberg Strategy and Plan]]  
+- [[The LIØNSBERG Strategy and Plan]]  

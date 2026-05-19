@@ -1,6 +1,6 @@
 # Continuously Improve Everything
 
-Nothing in [[The Great Game of LIONSBERG|The Great Game]] is fixed.  
+Nothing in [[The Great Game of LIØNSBERG|The Great Game]] is fixed.  
 Everything is a work in progress.  
 Every [[Quest]], every [[Circles|Circle]], every practice, every agreement, every tool —  
 All are subject to the same sacred discipline:  
@@ -34,7 +34,7 @@ The same cycle operates at every level of the living system:
 
 **At Community scale** — Monthly and seasonal review cycles. The [[Seasonal OmniSpection]] is where communities step back, see the whole, and adjust their collective course.
 
-**At Planetary scale** — Annual strategic evaluation. How is [[The Great Game of LIONSBERG|The Great Game]] advancing across the grid? What patterns are working? What needs to change?
+**At Planetary scale** — Annual strategic evaluation. How is [[The Great Game of LIØNSBERG|The Great Game]] advancing across the grid? What patterns are working? What needs to change?
 
 The Pattern improves itself through the **lived experience of those who embody it**. Every Circle that discovers a better way of gathering, every community that finds a more effective way of coordinating Quests, every individual who refines their daily practice — all of this feeds back into the [[Commons]], raising the quality of the Whole.
 

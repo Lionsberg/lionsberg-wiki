@@ -62,7 +62,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Story 
 
-[[The Story of LIONSBERG]]  
+[[The Story of LIØNSBERG]]  
 ## System 
 
 [[Lionsberg System and Approach]]  
@@ -73,7 +73,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Strategy and Plan 
 
-[[The Lionsberg Strategy and Plan]]  
+[[The LIØNSBERG Strategy and Plan]]  
 
 ## Invitation 
 

@@ -42,7 +42,7 @@ The Creator of the Universe is inviting us into a New Covenant, whereby we arise
 
 Over the last 7 years, I convened the wisest people I could find to forge a New Vision, System, Platform, Strategy, and Plan for the future of humanity aboard Earth. 
 
-[[The Lionsberg Strategy and Plan]] proposes that *without dishonoring or forsaking our existing citizenships and affiliations*, during the summer of 2024 we ratify a New Alliance and a New System of Governance transcendent of the lines that divided us in the past, connect and empower the first 3% of the population (250 million leaders strong) by 2026, and reallocate 2/3 of the $30 Trillion currently budgeted for an omnicidal World War III towards the greatest healing and rebuilding project in human history. 
+[[The LIØNSBERG Strategy and Plan]] proposes that *without dishonoring or forsaking our existing citizenships and affiliations*, during the summer of 2024 we ratify a New Alliance and a New System of Governance transcendent of the lines that divided us in the past, connect and empower the first 3% of the population (250 million leaders strong) by 2026, and reallocate 2/3 of the $30 Trillion currently budgeted for an omnicidal World War III towards the greatest healing and rebuilding project in human history. 
 
 The 250 Million strong Lionsberg Alliance / Force For Good will lead neighborhoods, communities, watersheds, and bioregions around the planet through a coordinated process of reimagining, redesigning, and rebuilding their lives and their world. 
 
@@ -62,7 +62,7 @@ I understand that it has been confusing the last 7 years to watch or ignore a bu
 
 ***TO PREVENT RAPID COLLAPSE AND TRANSFORM OUR WEAPONS INTO TOOLS OF LIFE, THE AMERICAN EXPERIMENT MUST BE SAVED.***
 
-To avert a collapse of the Existing Order, the world must promptly ratify, embody and enact [[The Lionsberg Strategy and Plan]] or a genuinely superior alternative, and aggregate the virtually unlimited time, energy, and resources that will be required to successfully achieve it. 
+To avert a collapse of the Existing Order, the world must promptly ratify, embody and enact [[The LIØNSBERG Strategy and Plan]] or a genuinely superior alternative, and aggregate the virtually unlimited time, energy, and resources that will be required to successfully achieve it. 
 
 If we are not meeting this moment in history with *at least* the basic competence, resources and focus with which we approached the Apollo Project or any significant Joint Venture, at planetary scale, we are not even in the ballpark of averting [[Collapse]].  
 

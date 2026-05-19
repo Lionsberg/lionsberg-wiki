@@ -599,8 +599,8 @@ _The Game that begins at the kitchen table and ends at the stars — the same Pa
 
 _The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
 
-**[[The LIONSBERG Playbook]]** — _Start here for the full Playbook overview_  
-**[[The LIONSBERG Quick Start Guide]]** — _Your Circle's first 90 minutes together_
+**[[The LIØNSBERG Playbook]]** — _Start here for the full Playbook overview_  
+**[[The LIØNSBERG Quick Start Guide]]** — _Your Circle's first 90 minutes together_
 
 ### The Next Five Plays
 
@@ -739,7 +739,7 @@ _All Things Helping All Things Rise. The eternal spiral from personal awakening 
 
 _The following companion volumes support and deepen the journey through The Book of LIONSBERG. Each stands on its own while illuminating the whole._
 
-**[[The LIONSBERG Pattern Language]]** — _The Pattern behind all patterns — the living grammar of co-creation_
+**[[The LIØNSBERG Pattern Language]]** — _The Pattern behind all patterns — the living grammar of co-creation_
 
 **[[The Lionsberg Book of Meditations]]** — _Daily contemplations for the Way_
 

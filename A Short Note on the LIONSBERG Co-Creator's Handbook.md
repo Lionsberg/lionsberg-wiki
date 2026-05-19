@@ -1,6 +1,6 @@
 # A Short Note on the LIONSBERG Co-Creator's Handbook
 
-[[The LIONSBERG Co-Creator's Handbook]] will be slowly subsumed into [[The LIONSBERG Playbook]].  
+[[The LIONSBERG Co-Creator's Handbook]] will be slowly subsumed into [[The LIØNSBERG Playbook]].  
 
 It conceptual contents and pragmatic tools and instructions are the same.  
 

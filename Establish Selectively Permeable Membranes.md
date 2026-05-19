@@ -41,7 +41,7 @@ Life changes. Callings shift. A member who needs to leave should be honored for 
 Resources, information, new ideas, inspiration, and — when the time is right — new members. A Circle that seals itself off from the world becomes stagnant. The membrane is permeable. It *selects*, but it does not seal.
 
 **What flows out**  
-Stories of transformation. Offerings to the Commons. Invitations to others who are ready. The fruits of your [[Quest|Quests]], shared freely with the larger Body. This is how Circles nourish the ecosystem they are part of — and how [[The Great Game of LIONSBERG|The Great Game]] grows.
+Stories of transformation. Offerings to the Commons. Invitations to others who are ready. The fruits of your [[Quest|Quests]], shared freely with the larger Body. This is how Circles nourish the ecosystem they are part of — and how [[The Great Game of LIØNSBERG|The Great Game]] grows.
 
 **What is kept out**  
 Exploitation. Manipulation. Capture. Control. Any force that would subvert the Circle's purpose, compromise its members' sovereignty, or redirect its energy toward ends that do not serve [[The Goal]].

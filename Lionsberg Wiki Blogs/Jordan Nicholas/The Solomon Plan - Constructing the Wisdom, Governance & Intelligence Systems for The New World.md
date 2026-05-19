@@ -45,7 +45,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
 - Every human being must be **trained in the principles of self-governance**, learning to rule their **own Spirit, mind, body, and actions** before seeking to influence others.
 - Wisdom training must be **a core part of [[Lifelong Learning and Development]]**, teaching individuals **how to discern Truth from deception, think critically, consciously choose, and act with integrity**.
 - Each person must be **mentally, emotionally, and spiritually prepared** to function as a sovereign being **rather than a kontrolled subject**.
-- After generations of slavery, this will require significant healing, rehabilitation, and effort. This is the purpose of the [[3 Year Healing, Orientation, and Empowerment Process]] outlined in [[The Lionsberg Strategy and Plan]] and the [[10 Year Grand Strategy]].  
+- After generations of slavery, this will require significant healing, rehabilitation, and effort. This is the purpose of the [[3 Year Healing, Orientation, and Empowerment Process]] outlined in [[The LIØNSBERG Strategy and Plan]] and the [[10 Year Grand Strategy]].  
 - Training in the LIONSBERG System of Governance is fractal, transferring seamlessly up through levels of analysis. 
 
 > **If individuals cannot govern themselves, they are unfit to govern with others. The first scale of The Solomon Plan is [[The Soveriegn Self]] in right relationship with [[ONE]] and [[All]].**

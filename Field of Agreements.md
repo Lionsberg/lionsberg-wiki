@@ -57,4 +57,4 @@ ___
 _See [[Holofractal Omnifederation]] for how domains naturally emerge at every scale._  
 _See [[Sovereignty At Every Scale]] for how the membrane protects each domain._  
 _See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] for the governance pattern._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

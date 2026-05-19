@@ -36,7 +36,7 @@ I have answered before, and I will answer again...
 
 ____
 
-[[The Lionsberg Strategy and Plan]] lays out an alternative pathway for humanity into the future. 
+[[The LIØNSBERG Strategy and Plan]] lays out an alternative pathway for humanity into the future. 
 
 [[Above The Chaos, Request For Resources - Tranche 2|Request For Resources - Tranche 2]] lays out a basic resourcing request. 
 

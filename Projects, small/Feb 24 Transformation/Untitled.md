@@ -203,7 +203,7 @@ Every file containing `[[the nameless book]]` must be updated to point to the Co
 
 ### 3. The Nameless Book Disposition
 The file `/the nameless emergence/the nameless book.md` must be handled. Options:  
-- **Replace content with redirect**: "This document has been absorbed into [[Welcome to LIONSBERG]]. Please begin there."
+- **Replace content with redirect**: "This document has been absorbed into [[Welcome to LIØNSBERG]]. Please begin there."
 - **Delete entirely**: Clean but breaks any external links
 - **Redirect via content**: Preserve the file but point all content to the Core Document
 

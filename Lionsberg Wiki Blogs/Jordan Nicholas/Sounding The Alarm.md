@@ -107,7 +107,7 @@ While the [[Critical Path]] addresses complex challenges, the essence of the [[T
 4. **Simplify**: Transition from dependency on fragile global systems and supply chains, fiat currencies, and debt to sovereign, regenerative, and ethical local solutions.
 5. **Act and Pass The Flame**: Commit to [[The Vision]] and work with Us to connect and empower [[The First Three Percent]] by 2026. 
 
-For those wanting more detail, [[The Lionsberg Strategy and Plan]] lays out the [[10 Year Grand Strategy]] in detail. 
+For those wanting more detail, [[The LIØNSBERG Strategy and Plan]] lays out the [[10 Year Grand Strategy]] in detail. 
 
 ---
 ### **A Final Plea**
@@ -162,7 +162,7 @@ No single letter can encompass the scope of the [[Meta Crisis]] We face, but the
 
 ### **The Bottom Line**
 
-None of Us have all the answers. What we do know is this: **Something is profoundly wrong, antithetical forces are in control of the collapsing [[Existing Order]], and civilization on Earth must be refounded within a single generation.** The convergence of these crises demands an unprecedented, unified response as outlined in [[The Lionsberg Strategy and Plan]]. 
+None of Us have all the answers. What we do know is this: **Something is profoundly wrong, antithetical forces are in control of the collapsing [[Existing Order]], and civilization on Earth must be refounded within a single generation.** The convergence of these crises demands an unprecedented, unified response as outlined in [[The LIØNSBERG Strategy and Plan]]. 
 
 We cannot solve this alone. But together, we can rise above the [[Chaos]], rebuild what has been lost and destined, and co-create a flourishing and abundant future for [[All]]. 
 

@@ -72,4 +72,4 @@ From ONE, all else is derived.
 
 Forward to [[Ring 1 - The Seed]]  
 Back to [[The Emergence of the Core Pattern]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

@@ -33,4 +33,4 @@ This is the same pattern expressed by AA's Tradition 7 (self-supporting, declini
 
 ___
 
-_See [[Mondragon]], [[Laboral Kutxa]], [[Capital Subordinate To Purpose]], and [[LIONSBERG 101]]._
+_See [[Mondragon]], [[Laboral Kutxa]], [[Capital Subordinate To Purpose]], and [[LIØNSBERG 101]]._

@@ -27,7 +27,7 @@ Seven years of foundational work.
 - Pattern Language articulated and operational ✅
 - Infrastructure tested with hundreds across dozens of nations ✅
 - [[The Golden Seed]] ready for distribution ✅
-- [[LIONSBERG 101]] articulated ✅
+- [[LIØNSBERG 101]] articulated ✅
 
 ---
 
@@ -183,11 +183,11 @@ Your role is not to wait for instructions from a center. It is not to seek permi
 
 You are not alone. Millions are awakening simultaneously. The Pattern is the same everywhere. When Circles from different communities, different nations, different continents encounter one another — they will recognize the same DNA. They will federate naturally, because they are already aligned.
 
-**This is the meaning of [[The Great Game of LIONSBERG]].**
+**This is the meaning of [[The Great Game of LIØNSBERG]].**
 
 It has already begun.
 
 ---
 
 Back to [[Ring 5 - The Game]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]

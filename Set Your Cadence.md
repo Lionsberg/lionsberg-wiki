@@ -55,7 +55,7 @@ This is the deepest rhythm. It is where the Circle:
 - **Chooses the next Quest** — what is calling us forward?
 - **Passes [[The Flame]]** — each member invites others who are ready
 
-The seasonal rhythm mirrors the pulse of the larger movement. Thousands of Circles, turning together at the solstices and equinoxes, form the great Fibonacci heartbeat of [[The Great Game of LIONSBERG|The Great Game]] itself.
+The seasonal rhythm mirrors the pulse of the larger movement. Thousands of Circles, turning together at the solstices and equinoxes, form the great Fibonacci heartbeat of [[The Great Game of LIØNSBERG|The Great Game]] itself.
 
 ---
 

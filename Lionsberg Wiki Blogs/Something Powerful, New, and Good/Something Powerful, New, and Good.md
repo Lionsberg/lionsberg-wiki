@@ -36,7 +36,7 @@
 	
 - [[The Great Game Beckons]]  
 	
-- Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIONSBERG]]  
+- Major work on the [[LIONSBERG Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIØNSBERG]]  
 	
 - [[Look WithIn]]  
 	
@@ -44,11 +44,11 @@
 	
 - [[The LIONSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth  
 	
-- [[The LIONSBERG Experience]] - work in progress  
+- [[The LIØNSBERG Experience]] - work in progress  
 	
 - [[The Golden Seed of LIONSBERG]] - work in progress 
 	
-- [[The Story of LIONSBERG]] - work in progress  
+- [[The Story of LIØNSBERG]] - work in progress  
 	
 - [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
 	

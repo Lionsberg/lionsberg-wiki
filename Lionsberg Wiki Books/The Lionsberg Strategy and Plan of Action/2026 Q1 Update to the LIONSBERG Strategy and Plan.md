@@ -49,7 +49,7 @@ What began as several years of focused preparation and social experimentation le
 
 ### Progress Against Fibonacci Cycles
 
-According to [[The LIONSBERG Strategy and Plan]], reaching [[The First Three Percent]] requires achieving **Cycle 40** of the Lionsberg Cycles of Growth:
+According to [[The LIØNSBERG Strategy and Plan]], reaching [[The First Three Percent]] requires achieving **Cycle 40** of the Lionsberg Cycles of Growth:
 
 | Target Cycle | Members Required | Percentage | Target Date | Status |
 |--------------|-----------------|------------|-------------|---------|
@@ -75,19 +75,19 @@ This clarification eliminates strategic questions about how and whether to work 
 1. ✅ Confirmed the Tipping Point Strategy as the sole viable path forward
 2. ✅ Established 90%+ resonance with [[The First Three Percent]] as a primary success metric
 3. ✅ Clarified that [[The Golden Seed]] is ready to pass from hand to hand 
-4. ✅ Defined [[Welcome to LIONSBERG]] and [[The Great Game of LIONSBERG]] as the primary invitation and participation framework
+4. ✅ Defined [[Welcome to LIØNSBERG]] and [[The Great Game of LIØNSBERG]] as the primary invitation and participation framework
 5. ✅ Established work logging and continuity practices for sustained decentralized mission execution
 
 ### B. Foundational Infrastructure Completed
 
 **The Wisdom Corpus:**  
 - ✅ ~2.5 million words of foundational literature articulated across [[LIONSBERG Wiki Books]]
-- ✅ [[Welcome to LIONSBERG]] - Essential guide showing the Way
-- ✅ [[The Story of LIONSBERG]] - Cosmic context and true myth
-- ✅ [[The Great Game of LIONSBERG]] - Cooperative real-world game of transformation
-- ✅ [[The LIONSBERG Playbook]] - Practical guidance for circles, quests, embodiment
+- ✅ [[Welcome to LIØNSBERG]] - Essential guide showing the Way
+- ✅ [[The Story of LIØNSBERG]] - Cosmic context and true myth
+- ✅ [[The Great Game of LIØNSBERG]] - Cooperative real-world game of transformation
+- ✅ [[The LIØNSBERG Playbook]] - Practical guidance for circles, quests, embodiment
 - ✅ [[The 12 Pillars of LIONSBERG]] - Complete civilizational work breakdown structure
-- ✅ [[The LIONSBERG Pattern Language]] - Domain-independent patterns of success  
+- ✅ [[The LIØNSBERG Pattern Language]] - Domain-independent patterns of success  
 - ✅ [[Lionsberg Wiki Books]] - Deep additional detail, philosophy, and frameworks   
 
 **The Entry Experience:**  
@@ -224,7 +224,7 @@ Can a fully decentralized network—without central leadership, organization, or
 The answer depends entirely on whether enough people choose to:  
 1. Resonate with The Golden Seed
 2. Gather their circles
-3. Begin playing [[The Great Game of LIONSBERG]]  
+3. Begin playing [[The Great Game of LIØNSBERG]]  
 4. Forge [[The 300]] in their own communities  
 5. Pass the flame to others
 
@@ -255,8 +255,8 @@ This is no longer about following a plan created by someone else. This is about 
 **The Immediate Work:**  
 - Update the invitation to the existing trust networks  
 - Identify and activate the initial Circles   
-- Each circle of 3-12 reads [[Welcome to LIONSBERG]] together
-- Each circle begins playing [[The Great Game of LIONSBERG]]
+- Each circle of 3-12 reads [[Welcome to LIØNSBERG]] together
+- Each circle begins playing [[The Great Game of LIØNSBERG]]
 - Each circle invites others they know who are awakening
 - Document and share [[Stories of Transformation]] 
 
@@ -276,7 +276,7 @@ Following Fibonacci pattern, each cycle invites the next:
 **Scaling Through Networks:**  
 - Cycles 22-28: 75,000 → 832,000
 - Train-the-trainer facilitation begins
-- First [[The LIONSBERG Playbook]] plays tested, refined, and continuously improved 
+- First [[The LIØNSBERG Playbook]] plays tested, refined, and continuously improved 
 - Platform/coordination tools deployed (potentially AI-assisted per [[A Program to Play The Great Game]])
 - Stories of Transformation fuel flywheel
 
@@ -310,7 +310,7 @@ Following Fibonacci pattern, each cycle invites the next:
 **Racing to 3%:**  
 - Cycles 30-40: 2M → 250M  
 - Every awakened individual inviting their network  
-- [[The Great Game of LIONSBERG]] spreading virally  
+- [[The Great Game of LIØNSBERG]] spreading virally  
 - Circles forming spontaneously in every locality
 - [[The 300]] organizing in thousands of communities
 
@@ -345,8 +345,8 @@ Every person who resonates forms a Circle, chooses a Quest, and shares the link 
 
 **Structure:**  
 - 3-12 people (optimal 4-7)
-- Read [[Welcome to LIONSBERG]] together and step into [[The Story of LIONSBERG]]  
-- Begin playing [[The Great Game of LIONSBERG]]
+- Read [[Welcome to LIØNSBERG]] together and step into [[The Story of LIØNSBERG]]  
+- Begin playing [[The Great Game of LIØNSBERG]]
 - Take on [[Seasonal Quests]]  
 - Organize [[The 300]] in your own community 
 - Share Stories of Transformation
@@ -417,8 +417,8 @@ Rapid growth could dilute transformation depth.
 
 **The Mitigation:**  
 - Circle-based structure maintains intimacy and accountability
-- [[Welcome to LIONSBERG]] → [[The Story of LIONSBERG]] → [[The Great Game of LIONSBERG]] creates genuine initiation
-- [[The LIONSBERG Playbook]] provides practical embodiment practices
+- [[Welcome to LIØNSBERG]] → [[The Story of LIØNSBERG]] → [[The Great Game of LIØNSBERG]] creates genuine initiation
+- [[The LIØNSBERG Playbook]] provides practical embodiment practices
 - The 3 Year Lag after invitation allows time for healing and deepening  
 - [[The Sacred Ascent]] provides a framework for true transformational development 
 
@@ -429,7 +429,7 @@ Rapid growth could dilute transformation depth.
 
 **The Solutions:**  
 - Fractal, subsidiary-based governance (self-organizing at all scales)
-- [[The LIONSBERG Pattern Language]] provides common framework
+- [[The LIØNSBERG Pattern Language]] provides common framework
 - Computational tools ([[A Program to Play The Great Game]]) enable coordination beyond human capacity
 - [[The 300]] in each community of 10,000 provide local leadership grid  
 - The [[System Wide Master Planning Process]] and [[LIONSBERG Integrated Delivery System]] should be brought online as soon as possible  
@@ -524,7 +524,7 @@ Existing power structures will resist transformation of this magnitude.
 **Quantitative Reality:**  
 - 268 million individuals have found [[README]] and resonated
 - Tens of millions circles have formed globally
-- Each circle has read [[Welcome to LIONSBERG]] and begun playing [[The Great Game of LIONSBERG]]
+- Each circle has read [[Welcome to LIØNSBERG]] and begun playing [[The Great Game of LIØNSBERG]]
 - [[The 300]] have emerged in thousands communities of 10,000
 - Decentralized working capital has scaled to $100M+
 - Quarterly Quest resource flows approaching hundreds of billions a year  
@@ -568,8 +568,8 @@ Existing power structures will resist transformation of this magnitude.
 
 **Your Path:**  
 1. **Gather** - 2-12 others who resonate
-2. **Read** - [[Welcome to LIONSBERG]] and [[The LIONSBERG Quick Start Guide]] out loud   
-3. **Begin** - Start playing [[The Great Game of LIONSBERG]] together
+2. **Read** - [[Welcome to LIØNSBERG]] and [[The LIØNSBERG Quick Start Guide]] out loud   
+3. **Begin** - Start playing [[The Great Game of LIØNSBERG]] together
 4. **Quest** - Embark on your first Seasonal Quest as a circle
 5. **Share** - Document and share your Stories of Transformation
 6. **Pass The Flame** - Invite others to begin their own circles or join yours  
@@ -593,7 +593,7 @@ We stand at month 22 of the 84-month [[The 7 Year Window of Crisis and Opportuni
 
 [[The Golden Seed]] is complete enough. The pattern language is articulated enough. The systems are designed enough. The invitation is clear. The pathway is evident. Following [[J's Death]], everything else must be accomplished by [[The Emerging Superorganism]] itself. 
 
-What remains is the great work of **invitation**—passing the single link from hand to hand across the awakening population until 268 million have resonated, gathered their circles, and begun playing [[The Great Game of LIONSBERG]].
+What remains is the great work of **invitation**—passing the single link from hand to hand across the awakening population until 268 million have resonated, gathered their circles, and begun playing [[The Great Game of LIØNSBERG]].
 
 **This is not a time for hesitation.**  
 **This is not a time for perfection.**  
@@ -608,8 +608,8 @@ The clock is ticking.
 
 Every person who finds [[README]] and resonates has a choice:  
 - Gather a small circle
-- Read [[Welcome to LIONSBERG]]
-- Begin playing [[The Great Game of LIONSBERG]]
+- Read [[Welcome to LIØNSBERG]]
+- Begin playing [[The Great Game of LIØNSBERG]]
 - ***Pass the flame***
 
 **250 million awakened leaders.**  
@@ -629,16 +629,16 @@ _Next Scheduled Update: 2026 Q2 (April 2026)_
 
 ## Appendix: Key Reference Documents
 
-- [[The LIONSBERG Strategy and Plan]] - Complete strategic framework
+- [[The LIØNSBERG Strategy and Plan]] - Complete strategic framework
 - [[The 10 Year Grand Strategy]] - Overall timeline and phasing
 - [[The 7 Year Window of Crisis and Opportunity]] - Current phase (2024-2030)
 - [[The First Three Percent]] - Critical 3% milestone
 - [[The 12 Pillars of LIONSBERG]] - Civilizational work breakdown structure
 - [[README]] - The Gates of LIONSBERG (share this link)
-- [[Welcome to LIONSBERG]] - Essential guide showing the Way
-- [[The Story of LIONSBERG]] - Cosmic context
-- [[The Great Game of LIONSBERG]] - How to play
-- [[The LIONSBERG Playbook]] - Practical guidance
+- [[Welcome to LIØNSBERG]] - Essential guide showing the Way
+- [[The Story of LIØNSBERG]] - Cosmic context
+- [[The Great Game of LIØNSBERG]] - How to play
+- [[The LIØNSBERG Playbook]] - Practical guidance
 - [[A Program to Play The Great Game]] - Computational reflection project
 - [[Work Log]] - Tactical execution tracking
 - [[TKTK Program Notes]] - Strategic program planning

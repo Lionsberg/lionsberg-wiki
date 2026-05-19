@@ -40,7 +40,7 @@ Per your instructions, through careful consultation and discernment with represe
 
 It is a tipping point strategy, rooted in an invitational movement towards the higher consciousness, unity, reciprocity, collaboration, and flow that must mark our journey together towards [[The Promised Land]] and into the New Era. 
 
-[[The Lionsberg Strategy and Plan]] outlines the specific philosophy, theory, strategy, tactics, and means through which we will work together to equip and empower the leading 3% of most competent, enlightened, and capable leaders across this One Body of Earth by 2026 to respond to whatever needs, challenges, and opportunities arise during The Great Refounding. 
+[[The LIØNSBERG Strategy and Plan]] outlines the specific philosophy, theory, strategy, tactics, and means through which we will work together to equip and empower the leading 3% of most competent, enlightened, and capable leaders across this One Body of Earth by 2026 to respond to whatever needs, challenges, and opportunities arise during The Great Refounding. 
 
 It outlines the strategies and plans of actions through which we will refashion our high science technology from its current weaponization against you and your children, into tools of flourishing and abundant life. 
 
@@ -56,7 +56,7 @@ We are awakening, we are arising, and we coming Mother. Hold fast. Be still. You
 
 To the Elder Brothers and Sisters of Earth: The Eagle and the Condor, the Masculine and Feminine, the North, West, East, and South are uniting and begin to spread their wings; they now prepare to ascend towards the heavens and fly together. 
 
-We look to you to discern and advise how [[The Lionsberg Strategy and Plan]] must be improved to be as Wise, Right, Good, and True as possible, and what resources and support you and our Mother require to heal, restore, and regenerate our lives, our society, and our world. 
+We look to you to discern and advise how [[The LIØNSBERG Strategy and Plan]] must be improved to be as Wise, Right, Good, and True as possible, and what resources and support you and our Mother require to heal, restore, and regenerate our lives, our society, and our world. 
 
 We propose a first General Assembly meeting in late September 2024, and we invite every bioregion and tribe of the Earth to nominate representatives they consider to be most wise and respected to come and take their respective seats at the Round Table. 
 

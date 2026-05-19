@@ -67,4 +67,4 @@ _Distilled in [[The Emergence of the Core Pattern]]._
 _Compressed in [[Ring 1 - The Seed]]._  
 _Unfolded in [[Ring 2 - The Pattern Unfolded]]._  
 _Proven in [[Ring 3 - The Living Proof]]._  
-_See [[LIONSBERG 101]]._
+_See [[LIØNSBERG 101]]._

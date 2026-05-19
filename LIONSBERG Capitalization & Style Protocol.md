@@ -49,7 +49,7 @@ This protocol ensures coherence, legibility, and symbolic integrity across thous
 
 ## 4. **Structures and Institutions**
 
-- **LIONSBERG** — always full capitals when naming the System, Wiki, Commons, or Project.
+- **LIØNSBERG** — the canonical spelling adopted Phase 1.5 (2026-05-18). Always full capitals when naming the System, Wiki, Commons, or Project, with the slashed-Ø replacing the second letter. The Ø ties into Layer ø of the FSx pattern and connotes sacred presence, zero point, nøw. The earlier ASCII spelling **LIONSBERG** (with plain O) remains active across pre-existing wiki content until Phase 4.6 propagates the rename across the corpus; both spellings refer to the same System during the transition.
     
 - **The First Three Percent** — capitalized when naming the vanguard role.
     

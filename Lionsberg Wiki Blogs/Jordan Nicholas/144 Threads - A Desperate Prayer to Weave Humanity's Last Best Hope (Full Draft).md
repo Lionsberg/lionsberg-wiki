@@ -365,7 +365,7 @@ To reverse these trends, humanity must cease its **[[Harm]] to the [[Living Syst
 
 #### **54. Population Decline and Mass Migration**
 
-Global population dynamics are shifting. While some regions face overpopulation, others are experiencing birthrate declines, aging populations, and workforce shortages. Instability and [[Collapse]] create [[Human Osmotic Pressure]], fueling mass migrations and straining resources, systems, and local cultural norms. Declining populations are often unable to generate the resources required to care for the aging generations. [[The Lionsberg Strategy and Plan]] addresses this via the largest building project and resource redistribution in history, aimed at stabilizing each of the millions of around the world to prevent desperation and involuntary [[Migration]], while establishing a New [[Universal Citizenship]]. 
+Global population dynamics are shifting. While some regions face overpopulation, others are experiencing birthrate declines, aging populations, and workforce shortages. Instability and [[Collapse]] create [[Human Osmotic Pressure]], fueling mass migrations and straining resources, systems, and local cultural norms. Declining populations are often unable to generate the resources required to care for the aging generations. [[The LIØNSBERG Strategy and Plan]] addresses this via the largest building project and resource redistribution in history, aimed at stabilizing each of the millions of around the world to prevent desperation and involuntary [[Migration]], while establishing a New [[Universal Citizenship]]. 
 
 ---
 
@@ -465,7 +465,7 @@ The global economy is built on centralized currencies that perpetuate artificial
 
 #### **67. Reversing Global Dependencies**
 
-Globalization has created dependencies that undermine local resilience, sovereignty, and capacity. Reversing these trends does not mean isolation but fostering balanced exchange, local production, and networks that empower communities to stand strong locally when necessary, while collaborating harmoniously when possible. [[The Lionsberg Strategy and Plan]] calls for the establishment of local and bioregional [[Lionsberg Instantiation Hubs]] that ensure all resources and capabilities required to survive a [[Collapse]] of the [[Existing Order]] are locally available. 
+Globalization has created dependencies that undermine local resilience, sovereignty, and capacity. Reversing these trends does not mean isolation but fostering balanced exchange, local production, and networks that empower communities to stand strong locally when necessary, while collaborating harmoniously when possible. [[The LIØNSBERG Strategy and Plan]] calls for the establishment of local and bioregional [[Lionsberg Instantiation Hubs]] that ensure all resources and capabilities required to survive a [[Collapse]] of the [[Existing Order]] are locally available. 
 
 ---
 

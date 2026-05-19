@@ -483,4 +483,4 @@ The only question is whether we will plant it — everywhere, now, in the time r
 
 Forward to [[Ring 3 - The Living Proof]]  
 Back to [[Ring 1 - The Seed]]  
-Table of Contents [[LIONSBERG 101]]
+Table of Contents [[LIØNSBERG 101]]
