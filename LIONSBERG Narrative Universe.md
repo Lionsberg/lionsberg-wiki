@@ -181,7 +181,7 @@ As the Story unfolds, **you** are invited to become a co-creator of the next cha
     
 - [[The 72 ReFoundational Gates]]  
     
-- [[The LIONSBERG Constitution]]
+- [[The LIØNSBERG Constitution]]
     
 - [[The 144 Threads]]
     

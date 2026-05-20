@@ -10,7 +10,7 @@
 [[Provisional Code]]  
 [[Provisional Conditions]]  
 [[LIONSBERG Provisional Documents]]  
-[[The LIONSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
 [[Lionsberg Honor System]]  
 
 ## Misc

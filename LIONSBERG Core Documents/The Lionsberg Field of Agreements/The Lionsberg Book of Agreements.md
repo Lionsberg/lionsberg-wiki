@@ -1,6 +1,6 @@
 # The Lionsberg Book of Agreements
 
-[[The LIONSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
 [[Lionsberg Membership Agreement]]  
 [[Lionsberg Participation Agreement]]  
 

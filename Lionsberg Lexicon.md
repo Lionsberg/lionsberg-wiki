@@ -703,7 +703,7 @@ This domain integrates:
 36. The [[New Covenant]]  
 37. [[Citizens]] / [[Citizen Led]] / [[Citizenship]] / [[New Citizenship]] / [[Highest Citizenship]] / [[One Citizenship Under God]]  
 38. Shared [[Vision]] and [[Values]]  
-39. [[The LIONSBERG Constitution]]  
+39. [[The LIØNSBERG Constitution]]  
 40. [[Sovereignty]] / [[Autonomy]]  
 41. [[Subsidiarity]]  
 42. [[Self Governance]]  

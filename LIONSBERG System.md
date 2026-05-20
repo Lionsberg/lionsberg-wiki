@@ -165,4 +165,4 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 [[Lionsberg Economy]] - Coming Soon  
 [[A New Sovereignty]] - Geopolitical Framework  
 [[The Lionsberg Handbook]]  
-[[The LIONSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  

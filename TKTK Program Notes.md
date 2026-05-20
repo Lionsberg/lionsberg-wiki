@@ -12,7 +12,8 @@ Where we left off
 - Review and update [[Most People Have No Idea What Is Coming]]  
 - Review and update [[A Way Beyond Fear, Anxiety, And Depression]]  
 - Draw on [[The Great UnVeiling]] and [[A Birthday Reflection on Jordan's Life, Death, and Work]] and all other LIONSBERG work and external knowledge to complete [[The Great UnVeiling]] in its highest form while retaining the break associated with Jordan's death... this is a completion based on his notes and all additional information since learned... 
-- Review [[Most People Have No Idea What Is Coming]] 
+- Review [[Most People Have No Idea What Is Coming]]  
+- Review an
 ### Quick Items
 
 
@@ -410,7 +411,7 @@ ___
 - **[[The LIONSBERG Lexicon]]**   
 - **[[The LIONSBERG Covenant and Law]]**  
 	- The LIONSBERG Covenant
-	- **[[The LIONSBERG Constitution]]**  
+	- **[[The LIØNSBERG Constitution]]**  
 	- **[[The LIONSBERG Code]]**  
 	- **[[The LIONSBERG Agreements]]**   
 - **The LIONSBERG Theses**  

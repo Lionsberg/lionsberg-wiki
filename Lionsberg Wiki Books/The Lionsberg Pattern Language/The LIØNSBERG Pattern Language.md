@@ -4,7 +4,7 @@
 
 ---
 
-This is not a human design.  
+This is not a human design. It is not being invented.  
 
 It is the Pattern woven into the fabric of Reality itself — the living grammar by which successful and coherent beings and worlds across the cosmos have always organized, healed, and flourished together. It is the Way the Creator builds. It is the architecture of the sacred. It is the DNA of [[Heaven On Earth]].  
 

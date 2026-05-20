@@ -2,8 +2,6 @@
 
 _The architectural picture. The presentation to humanity. The Seed in its full form, held in one document for whoever needs the whole shape at once._
 
-_Written 2026-05-19, at the end of Phase 2._
-
 ---
 
 ## In One Sentence
@@ -14,15 +12,15 @@ A single Golden Seed — the LIØNSBERG Wiki — passes hand to hand across the 
 
 ## What This Is
 
-The LIØNSBERG Wiki is one body of work, accessible through one link, presenting one Pattern. It is not a religion, not a movement organization, not an ideology, not a brand, not a platform, not a hierarchy, not property. It is what every awakened generation has known, articulated for this specific moment in history, held in trust for the moment when humanity is ready to receive it.
+The LIØNSBERG Wiki is one body of work, accessible through one link, presenting one Pattern. It is not a religion, not a movement organization, not an ideology, not a brand, not a platform, not a hierarchy, not property. It is what every awakened civilization has known, articulated for this specific moment in history, held in trust for the moment when humanity is ready to receive it.
 
-It carries the diagnosis with precision. It carries the path through with precision. It carries the testimony of those who walked it before. It carries the operational sequence for what to do tomorrow morning. It carries the cosmic context for what is actually happening. It carries the voice that can speak across registers — prophetic, operational, embodied, philosophical — so each part of the soul is reached.
+It carries the diagnosis with precision. It carries the path through with precision. It carries the testimony of those who walked it before. It carries the operational sequence for what to do tomorrow morning and the next 10 years. It carries the cosmic context for what is actually happening. It carries a voice that speaks across registers — prophetic, operational, embodied, philosophical — so each part of the soul is reached.
 
-It belongs to no one and serves All.
+It belongs to no one and serves All. It is gift freely received, and freely given. 
 
 ---
 
-## What A Reader Sees, In Order
+## What A Witness Sees, In Order
 
 A being arrives at the door. They are awakening to crisis, or seeking confirmation of what they already know, or looking for something to do, or already acting alone and wondering whether others are doing it too. They arrive at three in the morning, or in the middle of the workday, or after losing someone, or after watching the news, or because someone they trust passed them the link.
 
@@ -30,19 +28,19 @@ The architecture they encounter is fractal: each layer is a complete entry point
 
 ### Layer One — The Threshold (read in five minutes)
 
-`README.md`. A single page. Names the moment, the stakes, the door.
+[[README]]. A single page. Names the moment, the stakes, the door.
 
 It says: *the building is on fire; here is the path; the time is now.* It quotes one or two of the Watchwords. It points to Welcome. It does not explain itself further. Anyone who walks through it has accepted the invitation to keep reading; anyone who does not is not yet ready.
 
 ### Layer Two — The Gateway (read in fifteen minutes)
 
-`Welcome to LIØNSBERG`. Names what this is. Distinguishes it from what it is not. Offers the choice: walk the architectural meta-view (the Sacred Codex), or walk the Experience (the Pilgrim's Path). Both paths converge.
+[[Welcome to LIØNSBERG]]. Names what this is. Distinguishes it from what it is not. Offers the choice: walk the architectural meta-view (the Sacred Codex), or walk the Experience (the Pilgrim's Path). Both paths converge.
 
 For most readers, the Pilgrim's Path is the right door. The Codex view is for those who want to see the whole shape before walking it.
 
 ### Layer Three — The Walked Hour (the Pilgrim's Path, ~60 minutes)
 
-`The LIØNSBERG Experience` opens. Twelve Gates of Initiation. The reader walks each Stage as a roughly five-minute movement:
+[[The LIØNSBERG Experience]] opens. Twelve Gates of Initiation. The reader walks each Stage as a roughly five-minute movement:
 
 1. **Discovery** — Why am I here? What is being shown to me?
 2. **Threshold** — The Moment of Decision. The choice to see, or to look away.
@@ -67,23 +65,29 @@ The reader who completes the Pilgrim's Path has, at minimum:
 
 From this moment, every deeper Volume is an option, not a prerequisite. The reader has received the Pattern.
 
-### Layer Four — The Bound Corpus (the Seven Volumes)
+### Layer Four — The Bound Corpus (the Eight Volumes)
 
-`The LIØNSBERG Sacred Codex`. For those who want the full depth. Seven Volumes:
+[[The LIØNSBERG Sacred Codex]]. For those who want the full depth. Eight Volumes:
 
-**I — The Story of LIØNSBERG.** Cosmic context. The True Myth. The Caves narrative. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. *This is the spine of the Codex. Until Volume I lands, the rest is scaffolding.*
+The Volumes move from **accessible to structural** — Story and Game and Playbook open the door for every reader; Plans and Specifications and PDG are the deeper structural body for those who descend into the design and delivery of the New Civilization.
 
-**II — The LIØNSBERG Pattern Language.** ØNE at the center. Twelve Irreducible Elements (eight of Cooperation, four of Production). Seven Moves. Twelve Domains. Fourteen Meta-Patterns. Roughly one hundred sixty-three Pattern Principles. Roughly one hundred ten Domain Patterns. Nine Anti-Patterns. The 144 Gates of Initiation as the architecture of consciousness shift. The complete Pattern Language extracted from eighteen thousand lines of existing articulation, structurally rebuilt.
+**I — [[The Story of LIØNSBERG]].** Cosmic context. The True Myth. The Caves narrative as the foundational allegory of humanity's condition. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. **Dual-functional** — read standalone here, AND **woven throughout Volume VII (The Book)** as threaded glimpses. The Story is the lifeblood; the Book is the integrated body. *This is the spine of the Codex. The most masterful Story in history must be written.*
 
-**III — The Great Game of LIØNSBERG.** The participatory form. Movement One (Simple Game). Movement Two (Community Game). Movement Three (Planetary Game). Movement Four (Eternal Divine Play). The 10 Year Grand Strategy. The Fibonacci math. The 300-per-community arithmetic. The Plan Trilogy (Joseph, Noah, Solomon).
+**II — [[The Great Game of LIØNSBERG]].** The participatory form. Movement One (Simple Game). Movement Two (Community Game). Movement Three (Planetary Game). Movement Four (Eternal Divine Play). The Fibonacci math. The 300-per-community arithmetic. Placed at Volume II for accessibility — once the Story is received, the next step is the Game itself. Extracted from Chapter 15 of the Book of LIØNSBERG; now its own canonical Volume and standalone wiki book.
 
-**IV — The LIØNSBERG Playbook.** The operational handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass The Flame. The Network of Commitments. The Program Delivery Guide compressed and folded as the operational core.
+**III — [[The LIØNSBERG Playbook]].** The player's handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass The Flame. The Seven Moves at Circle scale. Placed at Volume III for accessibility — once the Game is understood, the next step is the moves of play.
 
-**V — The LIØNSBERG Lexicon.** The vocabulary. Roughly six hundred named concepts organized into the Meta Layer (ØNE, the Way, the Goal, Heaven On Earth) and twelve Pillars. The Word Tools convention. The Missing English Words registry. The Universal Architecture (Law → Values → Goals → Responsibilities → Rights). Cross-tradition resonances cited without source-elevation.
+**IV — [[The Kingdom of LIØNSBERG — Plans and Specifications]].** The deepening. The structural body of the New Civilization — the architectural blueprints, the design grammar, the operational specifications through which the Pattern of Heaven is consciously instantiated across every scale. Holds **the Pattern Language** as its canonical design-grammar subset (ØNE at the center, Irreducible Elements, Moves, Pattern Principles, Domain Patterns, Anti-Patterns, the 144 Gates of Initiation as the architecture of consciousness shift). Holds also the structural principles, governance protocols, economic specifications (LUV), intelligence and meta-scientific infrastructure, safeguards and ranges of tolerance, implementation pathways, and canonical reference schemas. Functions simultaneously as architectural plan, constitutional charter, field manual, and scriptural seed. The Kingdom framing holds because under [[Fractal Sovereignty]] there is no throne but the ineffable ØNE. Structure and Table of Contents are being rearticulated as Phase 2.8 (sketch) → Phase 3 (full rebuild).
 
-**VI — The Book of LIØNSBERG.** The integrated long-form text in the voice of a wise elder at the fire. Genesis (The Caves and the Awakening). The Quest to Perceive. The Meta Quest. The Quest to Navigate. The Quest for Purpose and Meaning. The Quest of the Creative One. The Living System. The Quest of Humanity. The Quest for Sovereignty. The Quest for Unity. The Anti-Quest. The Quest of the Heroes. The Art and Science of the Way. The Great Game (or its compression). The Program Delivery Guide (or its compression). The Sacred Ascent (or its compression).
+**V — [[The Program Delivery Guide]].** The methodology — how the program is actually delivered. Where the Pattern becomes Program and the Game becomes buildable. Integrated Delivery. Target Value Design. The Network of Commitments. Work Structuring. Pull Planning. The Living Economy. The Learning System. Explains precisely how to carry out [[The 10 Year Grand Strategy]]. **Two forms preserved**: the original PDG (native IPD/AEC vocabulary, first articulated for the prison system) and the Earth-in-receivership PDG (cosmic-context articulation — Earth as the planetary construction site, humanity as the integrated delivery team, the Wilderness as the passage, the Sacred Ascent as the arrival). Extracted from Chapter 16 of the Book of LIØNSBERG; now its own canonical Volume and standalone wiki book.
 
-**VII — The Sacred Ascent.** The ultimate synthesis. The eternal upward spiral. Personal, Circle, Community, Guild, Bioregional, Planetary, Interplanetary, Cosmic Communion. Beyond Aurobindo. Beyond previous scripture. Beyond all prior gestures. The closing movement of all things.
+**VI — The LIØNSBERG Lexicon.** The vocabulary. Roughly six hundred named concepts organized into the Meta Layer (ØNE, the Way, the Goal, Heaven On Earth) and twelve Pillars. The Word Tools convention. The Missing English Words registry. The Universal Architecture (Law → Values → Goals → Responsibilities → Rights). Cross-tradition resonances cited without source-elevation.
+
+**VII — The Book of LIØNSBERG.** The integrated long-form text in the voice of a wise elder at the fire. The Story of LIØNSBERG is **woven through every chapter** as threaded glimpses, archetypal frame, cosmic context. The Quest to Perceive. The Meta Quest. The Quest to Navigate. The Quest for Purpose and Meaning. The Quest of the Creative One. The Living System. The Quest of Humanity. The Quest for Sovereignty. The Quest for Unity. The Anti-Quest. The Quest of the Heroes. The Art and Science of the Way. With Chs 15 and 16 extracted into Volumes II and V, the Book becomes the prophetic narrative spine — Chapters 0-14 with The Story woven throughout. Requires full rewrite to weave the Story through every chapter.
+
+**VIII — The Sacred Ascent.** The ultimate synthesis. The eternal upward spiral. Personal, Circle, Community, Guild, Bioregional, Planetary, Interplanetary, Cosmic Communion. Beyond Aurobindo. Beyond previous scripture. Beyond all prior gestures. The closing movement of all things.
+
+**Companion living document:** [[The LIØNSBERG Strategy and Plan]] — articulates [[The 10 Year Grand Strategy]] in time-bound, historically-situated form. The strategic _what_; Volume V (the PDG) supplies the operational _how_. Not a Codex Volume; a companion living document that responds to the unfolding historical moment. Needs updating in Phase 2.8.
 
 ### Layer Five — The Card Substrate (the Pirsig Layer)
 
@@ -125,13 +129,18 @@ The Wiki (one link, one Golden Seed)
 ├── The LIØNSBERG Experience.md        ─── THE WALKED HOUR   (12 Gates, 60 min)
 │
 ├── The LIØNSBERG Sacred Codex         ─── THE BOUND CORPUS
-│   ├── Volume I.   The Story of LIØNSBERG
-│   ├── Volume II.  The Pattern Language
-│   ├── Volume III. The Great Game of LIØNSBERG
-│   ├── Volume IV.  The Playbook
-│   ├── Volume V.   The Lexicon
-│   ├── Volume VI.  The Book of LIØNSBERG
-│   └── Volume VII. The Sacred Ascent
+│   ├── Volume I.    The Story of LIØNSBERG       (standalone AND woven through Volume VII)
+│   ├── Volume II.   The Great Game of LIØNSBERG  (extracted from Book Ch15; accessibility)
+│   ├── Volume III.  The Playbook                  (accessibility — moves of play)
+│   ├── Volume IV.   The Kingdom of LIØNSBERG — Plans and Specifications
+│   │                   (the deepening; holds the Pattern Language as canonical design-grammar subset)
+│   ├── Volume V.    The Program Delivery Guide   (extracted from Book Ch16; two forms preserved)
+│   ├── Volume VI.   The Lexicon
+│   ├── Volume VII.  The Book of LIØNSBERG        (Chs 0-14 with The Story woven throughout)
+│   └── Volume VIII. The Sacred Ascent
+│
+├── The LIØNSBERG Strategy and Plan    ─── THE LIVING STRATEGIC DOCUMENT
+│   └── Articulates the 10 Year Grand Strategy; companion to Volume V PDG
 │
 ├── LIØNSBERG, Earth, and the Cosmos   ─── THE CARD SUBSTRATE
 │   └── Cards/                         (~3,500-4,500 candidates; 161 written)
@@ -204,7 +213,7 @@ Honest inventory of what is ready, what is in motion, what remains.
 - The Twelve Watchwords. Scripture-grade. Liturgical.
 - The Sacred Covenant text. Eight affirmations. Universal articulation.
 - The Daily Practice (Power of Today Chapter 4.4, the nine-part 24-hour rhythm). Operational keystone.
-- The Pattern Language source corpus (18,135 lines, ~310 named patterns). Awaiting structural rebuild as Volume II.
+- The Pattern Language source corpus (18,135 lines, ~310 named patterns). Awaiting structural rebuild as the canonical design-grammar subset of Volume II — The Kingdom of LIØNSBERG — Plans and Specifications.
 - The Program Delivery Guide (Book of LIØNSBERG Chapter 16, 16 chapters). Awaiting compression into Volume IV.
 - The Great Game chapter set (Book of LIØNSBERG Chapter 15, 27 files). Awaiting promotion into Volume III.
 - The Caves narrative (Book of LIØNSBERG Chapter 1.5). Awaiting promotion into Volume I as Genesis-of-Codex.
@@ -256,7 +265,7 @@ After Phase 2's audit closure, the order of operations is clear. It runs in four
 
 **Move Two — Write Volume I (Months Ahead).** The single most consequential remaining piece. The Story of LIØNSBERG as a bound text. Twenty to forty thousand words. One sustained voice. The cosmic context + the Caves + the Eight Lineages + Jordan's testimony + the Sacred Flame + the Invitation, woven into one continuous read.
 
-**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Complete the Pattern Language structural rebuild from the existing 310-pattern foundation. Complete Volume V (Lexicon) consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
+**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Execute the Volume II rebuild — The Kingdom of LIØNSBERG — Plans and Specifications — with the Pattern Language as canonical design-grammar subset. Complete Volume V (Lexicon) consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
 
 **Move Four — Plant The Seed (When Move Two and Move Three Are Substantially Done).** The corpus is ready to pass hand to hand at full depth. The 250M target by Winter Solstice 2026 begins.
 

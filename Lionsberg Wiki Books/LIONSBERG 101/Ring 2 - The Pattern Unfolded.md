@@ -477,7 +477,7 @@ One soul poured his life into localizing and planting this Pattern on Earth. He 
 
 It has already been proven to work.
 
-The only question is whether we will plant it — everywhere, now, in the time remaining.
+The only question is whether we will plant it — everywhere, now, in the time remaining. 
 
 ---
 

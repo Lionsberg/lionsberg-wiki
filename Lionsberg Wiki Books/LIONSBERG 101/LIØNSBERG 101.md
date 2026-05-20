@@ -95,4 +95,4 @@ _In [[ONE]], all things cohere._
 
 **The Seed is in your hands. The Game is alive. It is now your move.**
 
-Begin with [[The Emergence of the Core Pattern]], or go straight to the center: [[Ring 0 - ONE]].
+Proceed straight to the center: [[Ring 0 - ONE]].

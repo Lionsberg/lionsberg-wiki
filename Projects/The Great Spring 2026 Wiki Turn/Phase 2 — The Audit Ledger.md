@@ -63,24 +63,25 @@ A single book may receive multiple fold-targets when it spans Volumes.
 ## First-Pass Inventory (74 folders + 5 root files)
 
 ### Foundational Pre-Canonical (substantive synthesis attempts)
+[[LIØNSBERG 101]] 
 
-| Book | First-Pass Disposition | Notes |
-|---|---|---|
-| LIONSBERG 101 | **F-I + F-II** | Concentric-rings articulation of the Pattern; substantive content informs both the Story and the Pattern Language |
-| A 200 Page Book | **?** | Early synthesis attempt; needs read to know what survives |
-| The LIONSBERG (syn)Thesis | **F-I / F-V** | Synthesis of theses; folds into Story (Volume I) and Lexicon (Volume V) |
-| The Lionsberg Co-Creator Handbook | **F-IV** | Folds into [[The LIØNSBERG Playbook]] (Volume IV) |
-| The Lionsberg Meta Guide | **F-I / Sacred Codex** | Meta-architectural; may inform the Sacred Codex declaration or fold into Story |
-| The Lionsberg Rules | **F-II** | Folds into Pattern Language — likely the Field of Agreements element |
-| The Lionsberg Book of Conventions | **F-V / F-II** | Folds into Lexicon (terms) and Pattern Language (conventions as Patterns) |
-| The Lionsberg Strategy and Plan of Action | **F-III / A** | Operational strategy; may fold into Great Game or archive as historical |
-| The 12 Pillars of LIONSBERG | **F-II** | The 12 Pillars / Elements articulation; canonical for Pattern Language Volume II |
-| The Theses of Lionsberg | **F-I** | The 99 Theses; folds into Story (already named in Sacred Codex Volume I) |
-| The Lionsberg System of Values | **F-II / F-V** | Values as Patterns; folds into Pattern Language and Lexicon |
-| The Lionsberg System Toolkit | **F-IV** | Tools for Circles; folds into Playbook |
-| The Lionsberg Elevation Initiative | **?** | Needs audit — operational program or aspirational? |
-| The Kingdom of LIONSBERG - Plans and Specifications | **F-II / F-III** | Plans and specs; folds into Pattern Language (canonical specification format) and Great Game |
-| The Lionsberg Book of People | **R / A** | List/reference of people; keep as reference or archive |
+| Book                                                | First-Pass Disposition | Notes                                                                                                             |
+| --------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| LIONSBERG 101                                       | **F-I + F-II**         | Concentric-rings articulation of the Pattern; substantive content informs both the Story and the Pattern Language |
+| A 200 Page Book                                     | **?**                  | Early synthesis attempt; needs read to know what survives                                                         |
+| The LIONSBERG (syn)Thesis                           | **F-I / F-V**          | Synthesis of theses; folds into Story (Volume I) and Lexicon (Volume V)                                           |
+| The Lionsberg Co-Creator Handbook                   | **F-IV**               | Folds into [[The LIØNSBERG Playbook]] (Volume IV)                                                                 |
+| The Lionsberg Meta Guide                            | **F-I / Sacred Codex** | Meta-architectural; may inform the Sacred Codex declaration or fold into Story                                    |
+| The Lionsberg Rules                                 | **F-II**               | Folds into Pattern Language — likely the Field of Agreements element                                              |
+| The Lionsberg Book of Conventions                   | **F-V / F-II**         | Folds into Lexicon (terms) and Pattern Language (conventions as Patterns)                                         |
+| The Lionsberg Strategy and Plan of Action           | **F-III / A**          | Operational strategy; may fold into Great Game or archive as historical                                           |
+| The 12 Pillars of LIONSBERG                         | **F-II**               | The 12 Pillars / Elements articulation; canonical for Pattern Language Volume II                                  |
+| The Theses of Lionsberg                             | **F-I**                | The 99 Theses; folds into Story (already named in Sacred Codex Volume I)                                          |
+| The Lionsberg System of Values                      | **F-II / F-V**         | Values as Patterns; folds into Pattern Language and Lexicon                                                       |
+| The Lionsberg System Toolkit                        | **F-IV**               | Tools for Circles; folds into Playbook                                                                            |
+| The Lionsberg Elevation Initiative                  | **?**                  | Needs audit — operational program or aspirational?                                                                |
+| The Kingdom of LIONSBERG - Plans and Specifications | **F-II / F-III**       | Plans and specs; folds into Pattern Language (canonical specification format) and Great Game                      |
+| The Lionsberg Book of People                        | **R / A**              | List/reference of people; keep as reference or archive                                                            |
 
 ### Cosmic / Story Material (Volume I candidates)
 

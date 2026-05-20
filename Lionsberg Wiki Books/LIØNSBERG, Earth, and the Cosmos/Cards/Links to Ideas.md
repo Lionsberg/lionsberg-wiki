@@ -26,7 +26,7 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
     
 	- **[[The LIONSBERG Covenant]]**
         
-    - **[[The LIONSBERG Constitution]]**
+    - **[[The LIØNSBERG Constitution]]**
         
     - **[[The LIONSBERG Code]]**
         

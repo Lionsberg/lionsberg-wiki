@@ -540,7 +540,5 @@ The emergence of the Proto-Quantum Matrix is a crucial phase in the ongoing cosm
 ## 29. Absolute and Unconditional Love 
 
 
-## 30. Beyond Suffering By Sacrifice  
 
-
-## 31. Continuous Improvement and Evolution - Towards a Heaven On Earth That Continues to Get a Little Better Every Day 
+## 30. Continuous Improvement and Evolution - Towards a Heaven On Earth That Continues to Get a Little Better Every Day 

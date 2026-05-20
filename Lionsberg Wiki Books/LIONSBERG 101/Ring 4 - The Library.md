@@ -83,7 +83,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 - **[[Mondragon]]** — Detailed firsthand research notes on the Mondragon cooperative system
 - **[[Arizmendi]]** — Father Jose Maria Arizmendiarrieta, founder of the Mondragon movement
 - **[[The Prophesy of Mondragon]]** — The prophetic significance of the Mondragon experience for the New Civilization
-- **[[Fair Shares Commons]]** — Graham Boyd's multi-stakeholder ownership architecture
+- **[[Fair Shares Commons]]** — Multi-stakeholder ownership architecture
 - **[[Case Study - Soft Franchises - Business In A Box]]** — The practical model for team-based intrapreneurship within the federation
 
 ### The Meta Crisis and Context

@@ -19,16 +19,16 @@ This book begins as a heap of cards. It will eventually become the synthetic art
 
 ## The Method
 
-We follow the process Pirsig points to in Lila.
+We follow [[The Card Method]] — the discipline of capture and emergence.
 
-- One idea per card.
-- Each card is a separate file under `Cards/`.
+- One idea per Card.
+- Each Card is a separate file under `Cards/`.
 - Cards stay short — one screen or less. One thing, well-articulated.
 - Cards link to each other freely.
 - **Structure is resisted until the corpus is dense enough to reveal its own architecture.**
-- When the architecture emerges, the cards are gathered into chapters. Not before.
+- When the architecture emerges, the Cards are gathered into chapters. Not before.
 
-See [[The Pirsig Method]] for the full discipline.
+See [[The Card Method]] for the full discipline, including the **list-Card sub-rule** for curated enumerations.
 
 ---
 

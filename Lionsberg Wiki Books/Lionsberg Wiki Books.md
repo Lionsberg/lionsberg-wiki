@@ -1,17 +1,46 @@
 # Lionsberg Wiki Books 
 
-The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ONE]].  
+The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ØNE]].  
 
 Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the body of thought, progress, and ideation to date. No ownership or originality is implied. 
-## Featured Works
 
-1. [[LIØNSBERG 101]] — The complete pattern in concentric rings. The fastest path from ONE to All  
-2. [[The Book of LIONSBERG]]  
-3. [[Most People Have No Idea What Is Coming]]  
-4. [[The Program Delivery Guide]] — $20M of funded research on Integrated Project Delivery, the core document informing LIONSBERG's localization to Earth  
-5. [[The Lionsberg Book of Meditations]]  
-6. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
-7. [[The LIØNSBERG Strategy and Plan]]  
+## The Sacred Codex — The Eight Volumes
+
+The canonical bound corpus. One work, in eight movements, ordered accessible → structural.
+
+1. **Volume I** — [[The Story of LIØNSBERG]]  _(also woven throughout Volume VII)_
+2. **Volume II** — [[The Great Game of LIØNSBERG]]
+3. **Volume III** — [[The LIØNSBERG Playbook]]
+4. **Volume IV** — [[The Kingdom of LIØNSBERG — Plans and Specifications]]  _(holds the Pattern Language as design-grammar subset)_
+5. **Volume V** — [[The Program Delivery Guide]]  _(two forms — original IPD/AEC + Earth in receivership)_
+6. **Volume VI** — [[The LIØNSBERG Lexicon]]
+7. **Volume VII** — [[The Book of LIØNSBERG]]  _(carries The Story woven throughout)_
+8. **Volume VIII** — [[The Sacred Ascent]]
+
+The wayfinding companion through these Volumes: [[The LIØNSBERG Experience]] (the 12-Stage Pilgrim's Path).
+
+## The Active Extraction Edge — The Card Substrate
+
+**[[LIØNSBERG, Earth, and the Cosmos]]** — the active Card-Book and canonical extraction pipeline for the entire corpus. Each idea surfaces as one Card following [[The Card Method]] (capture and emergence; one idea per Card; resist premature structure; let the architecture emerge). Cards link into the Volumes; the Volumes draw from the Cards. The substrate is the bridge between captured insight and canonical articulation. ~3,500–4,500 unique candidates surfaced across the Phase 2 audit; 161 written as actual Card files; the rest queued for population.
+
+## The Inheritance Manual
+
+**[[The LIØNSBERG Universe Guide]]** — the story bible, convention manual, and author's guide for the entire LIØNSBERG Universe. For subsequent generations of human and AI authors to play with, extend, and embody faithfully. Six Parts: I The Cosmos · II The Voice · III The Pattern · IV The Decisions · V For Future Authors · VI Production Conventions.
+
+## The Living Strategic Document
+
+**[[The LIØNSBERG Strategy and Plan]]** — articulates [[The 10 Year Grand Strategy]] in time-bound, historically-situated form. The strategic _what_; Volume V (the PDG) supplies the operational _how_. Companion living document, NOT a Codex Volume.
+
+---
+
+## Featured Works (Legacy)
+
+_Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into the Sacred Codex above (Book of LIONSBERG → Volume VII; Program Delivery Guide → Volume V; Strategy and Plan → companion). Others remain as featured wiki books._
+
+1. [[LIØNSBERG 101]] — The complete pattern in concentric rings. The fastest path from ØNE to All  
+2. [[Most People Have No Idea What Is Coming]]  
+3. [[The Lionsberg Book of Meditations]]  
+4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
 
 ## Something Powerful, New, and Good (Post-August 2025)
 
@@ -48,8 +77,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 16. [[The Lionsberg Approach to Citizen Led Governance]]
 18. [[A Way Beyond Fear, Anxiety, And Depression]]   
 19. [[The Way of God]]  
-20. [[Lionsberg - A Biblical Perspective]]  
-21. [[The Lionsberg Book of Quotes]]  
+20. [[The Lionsberg Book of Quotes]]  
 22. [[The Great Game of LIØNSBERG]]  
 23. [[The Power of Today]]  
 24. [[The Power of One]]  
