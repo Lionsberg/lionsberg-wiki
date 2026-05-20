@@ -3,8 +3,8 @@ As a quick placeholder / [[Work In Progress]]...
 *Updated June 26, 2025*
 
 1. By participating, 
-2. There is only [[ONE]] overarching and uniting North Star, Aim, and [[The Goal|Goal]].  
-3. We are here in Service of the Highest Intention and Greatest Good of [[ONE]] and [[All]].  
+2. There is only [[ØNE]] overarching and uniting North Star, Aim, and [[The Goal|Goal]].  
+3. We are here in Service of the Highest Intention and Greatest Good of [[ØNE]] and [[All]].  
 4. We will [[Doing Our Best]] to do the [[Wise Right Thing]] in a Spirit of Love, Wisdom, and Goodness.  
 5. Politics, Religion, and Ideology must be checked at the door. LIONSBERG has no state religion, no ideology, no dogma, no orthodoxy, no politics, and no proselytizing. We are navigating towards Wisdom and Truth together in Community.  
 6. Aggregated resources will initially be transparently stewarded through the [[Provisional Structure]] via the Lionsberg 501(c)(3) or one of its special purpose vehicles.   

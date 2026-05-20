@@ -11,7 +11,7 @@ Divergence, the natural emergence of differing paths, perspectives, or approache
     - Divergence arises from the rich diversity of experiences, insights, and callings within individuals and teams. Respecting and valuing these differences is foundational.
 2. **Seek the Higher Unity**:
     
-    - While divergence reflects multiple paths, all roads lead back to the **[[ONE]]**. Transformation involves continually realigning diverse paths with the highest overarching vision and purpose.
+    - While divergence reflects multiple paths, all roads lead back to the **[[ØNE]]**. Transformation involves continually realigning diverse paths with the highest overarching vision and purpose.
 3. **Discover the Hidden Gifts**:
     
     - Divergence often reveals new ideas, unexamined truths, or innovative approaches. Embrace it as an invitation to grow the collective potential.
@@ -67,6 +67,6 @@ Divergence, the natural emergence of differing paths, perspectives, or approache
 
 ### **Divergence and the LIONSBERG Mission**
 
-In the journey to co-create **[[Heaven on Earth]]**, divergence is not an obstacle but a gift. Each divergence is like a new thread that can be continually rewoven back into [[The Divine Tapestry]]. Through the intentional transformation of divergence, **[[LIONSBERG]]** grows stronger, more innovative, and more aligned with the Spirit of **[[ONE]]**.
+In the journey to co-create **[[Heaven on Earth]]**, divergence is not an obstacle but a gift. Each divergence is like a new thread that can be continually rewoven back into [[The Divine Tapestry]]. Through the intentional transformation of divergence, **[[LIONSBERG]]** grows stronger, more innovative, and more aligned with the Spirit of **[[ØNE]]**.
 
 > “Divergence is the music of becoming—a reminder that every note, though unique, belongs to the same Divine Symphony. By transforming divergence, we continually reweave an ever more beautiful Divine Tapestry of unity and infinite possibility.”

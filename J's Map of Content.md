@@ -17,7 +17,7 @@ The [[LIONSBERG Wiki]] homepage now has a more contextual and narrative feel. (S
 - [[LIONSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  
 - [[The Lionsberg Handbook]] migrating to [[The LIONSBERG Co-Creator's Handbook]] and [[The LIONSBERG Way]]  
-- [[LIONSBERG Lexicon]]  
+- [[The LIØNSBERG Lexicon]]  
 - [[The 12 Pillars of Lionsberg]]  
 
 ## Misc

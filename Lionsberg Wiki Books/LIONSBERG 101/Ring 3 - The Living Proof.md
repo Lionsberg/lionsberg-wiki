@@ -282,7 +282,7 @@ It has been discovered independently by:
 
 Each of them found fragments of the same thing.
 
-**LIONSBERG is the comprehensive articulation of this universal Pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of co-creation (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ONE]] and [[All]].
+**LIONSBERG is the comprehensive articulation of this universal Pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of co-creation (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ØNE]] and [[All]].
 
 These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same living architecture that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
 

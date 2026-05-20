@@ -1,6 +1,6 @@
-All Creation is [[ONE]] body. 
+All Creation is [[ØNE]] body. 
 
-[[All]] manifest things are the [[Embodiment]] of the [[ONE]] Supreme transcendent thing.
+[[All]] manifest things are the [[Embodiment]] of the [[ØNE]] Supreme transcendent thing.
 
 ___
 

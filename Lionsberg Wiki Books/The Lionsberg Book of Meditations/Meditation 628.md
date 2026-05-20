@@ -1,4 +1,4 @@
-If there is [[ONE]] Spirit creating and sustaining [[All]] things, it is suicidal to cut our selves off from the inherent underlying [[Unity]] and [[Inter-Existence]] of [[Being]]. 
+If there is [[ØNE]] Spirit creating and sustaining [[All]] things, it is suicidal to cut our selves off from the inherent underlying [[Unity]] and [[Inter-Existence]] of [[Being]]. 
 
 ___
 

@@ -36,7 +36,7 @@ The Force For Good is also a **moral commitment to the future**. The Force fight
 
 The Force is **gathering now**. The Spring Equinox 2024 ignition lit the broader [[The Rising Movement|Movement]]; specific Quests, specific Hubs, specific bioregional engagements call the Force into active configurations as the moments require. By 2030, the Force is substantial. By 2033, the major contests of the present age are largely behind us. By 2040, the Force as a wartime configuration is mostly stood down, returned to peacetime [[Worksite Earth|Worksite Earth]] construction — though the [[Sacred Guardianship — Neutralizing the Predatory|Sacred Guardianship]] function remains, perpetually, in the maintenance of the New Civilization's [[Structural Immunity]].
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume III) as the wartime configuration of the Movement, alongside [[The Tipping Point Strategy]] and [[Pass The Flame]] as one of the central operational architectures of the Game.
+Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the wartime configuration of the Movement, alongside [[The Tipping Point Strategy]] and [[Pass The Flame]] as one of the central operational architectures of the Game.
 
 ---
 

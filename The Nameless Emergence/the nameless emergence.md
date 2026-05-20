@@ -240,7 +240,7 @@ By December 31, 2026:
 - Foundation for acceleration to 13% → 70%+ in 2027-2030
 
 **The Destination:**  
-A planetary civilization fully awakened to [[ONE|Who We Are]], living in harmony with All Creation, participating consciously in the ongoing co-creation of Heaven across all realms and dimensions.
+A planetary civilization fully awakened to [[ØNE|Who We Are]], living in harmony with All Creation, participating consciously in the ongoing co-creation of Heaven across all realms and dimensions.
 
 **The Promise:**  
 If even 3% of humanity organizes and coordinates, they can guide the remaining 97% through the greatest transformation in 10,000 years.

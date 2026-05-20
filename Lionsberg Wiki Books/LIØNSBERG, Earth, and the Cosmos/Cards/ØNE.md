@@ -55,7 +55,7 @@ The Center.
 The All.
 Forever.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational entry from which the entire Lexicon — and the entire Codex — orbits.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational entry from which the entire Lexicon — and the entire Codex — orbits.
 
 ---
 

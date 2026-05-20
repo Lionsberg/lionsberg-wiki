@@ -28,7 +28,7 @@ The protection is structural: **a single faithful dissenter can save a Circle fr
 
 The discipline requires patience. Decisions take longer. But decisions are better — and the trust within the Circle, deeper.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) under Element 4 (Governance and Wise Eldership).
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 4 (Governance and Wise Eldership).
 
 ---
 

@@ -31,7 +31,7 @@ Three disciplines hold the Network together:
 
 The Network is also a **trust technology**. Where there is no trust, commitments are empty performance. Where there is trust, commitments compose into reliability across thousands of nodes. The 9-day cycle time of the Movement, the Fibonacci spread, the bioregional grid — all rest on this Network.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as the operating mechanic, and in [[The LIØNSBERG Pattern Language]] (Volume II) as Element 11 (Network of Commitments).
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the operating mechanic, and in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 11 (Network of Commitments).
 
 ---
 

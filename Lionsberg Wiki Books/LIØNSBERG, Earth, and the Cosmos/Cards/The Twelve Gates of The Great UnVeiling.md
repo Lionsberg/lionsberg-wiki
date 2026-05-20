@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The architecture by which the soul is shown what has been hidden.
 
-The Great UnVeiling is not a flood. The Great UnVeiling is structured. Twelve Gates — twelve thresholds the soul passes through to see what has been concealed for millennia. Each Gate unveils a layer. Each Gate is survivable. The Gates together compose the dramatic architecture of Volume I's central unveiling story.
+The Great UnVeiling is not a flood. The Great UnVeiling is structured. Twelve Gates — twelve thresholds the soul passes through to see what has been concealed for millennia. Each Gate unveils a layer. Each Gate is survivable. The Gates together compose the dramatic architecture of Volume II's central unveiling story.
 
 Without architecture, the unveiling is overwhelming chaos — the seeker stares at the totality of the Caves, the totality of the Anti-Empires, the totality of the harm done to Earth, and is shattered. With the Gates, the seeker has a path through the dark. Each Gate is a step. Each step is bearable. By the Twelfth Gate, the seeker has seen what is, has not been broken by it, and is ready to act.
 
@@ -31,9 +31,9 @@ Twelve is a canonical LIØNSBERG number. It echoes:
 
 The Twelve Gates of The Great UnVeiling are the **shadow architecture** that mirrors these positive twelves. Where the Pillars build, the Gates reveal. Where the Pilgrim's Path forms, the Gates strip falsehood away.
 
-Volume I (The Story of LIØNSBERG) holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
+Volume II (The Story of LIØNSBERG) holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the great unveiling sequence at the heart of the Story.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the great unveiling sequence at the heart of the Story.
 
 ---
 

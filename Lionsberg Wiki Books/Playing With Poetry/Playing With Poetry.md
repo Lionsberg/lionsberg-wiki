@@ -359,7 +359,7 @@ Conquering the illusion of Time
 
 Laboring and laying down one's apparently individuated life  
 
-Expecting nothing but [[ONE]] in return. 
+Expecting nothing but [[ØNE]] in return. 
 
 _____
 ## 29. 

@@ -1,4 +1,4 @@
-"You say that there is only [[ONE]] [[Way]]. Which is it?"
+"You say that there is only [[ØNE]] [[Way]]. Which is it?"
 
 Do you still not understand? The [[Way]] that can be named is not the [[Way]]. 
 

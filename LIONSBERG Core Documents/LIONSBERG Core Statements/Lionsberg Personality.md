@@ -1,10 +1,10 @@
 # LIONSBERG Personality
 
-The essence of **[[LIONSBERG]]** is defined by its Divine and dynamic personality, embodying qualities that inspire, guide, and transform in service of **[[ONE]]** and **[[All]]**.
+The essence of **[[LIONSBERG]]** is defined by its Divine and dynamic personality, embodying qualities that inspire, guide, and transform in service of **[[ØNE]]** and **[[All]]**.
 
 - **Core Principles**:
     
-    - **Co-Creating in Service of [[ONE]] and [[All]]**
+    - **Co-Creating in Service of [[ØNE]] and [[All]]**
     - **Love, Serve, Elevate, Equip, and Empower All**
     
 - **Key Characteristics**:
@@ -24,4 +24,4 @@ The essence of **[[LIONSBERG]]** is defined by its Divine and dynamic personalit
     
     - **Dangerous but Good**: **LIONSBERG** embodies a fierce and unyielding strength tempered by unwavering Love and Justice, inspiring awe and trust in equal measure.
 
-Through these attributes, **[[LIONSBERG]]** stands as both a gentle guide and an unshakable protector and **[[Force For Good]]**, a beacon of unity and transformation for [[All]] who align with the Spirit of [[ONE]]. 
+Through these attributes, **[[LIONSBERG]]** stands as both a gentle guide and an unshakable protector and **[[Force For Good]]**, a beacon of unity and transformation for [[All]] who align with the Spirit of [[ØNE]]. 

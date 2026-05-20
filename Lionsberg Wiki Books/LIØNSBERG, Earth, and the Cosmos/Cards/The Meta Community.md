@@ -10,7 +10,7 @@ captured: 2026-05-18
 
 The total set of all rightly-related sovereigns across communities, dimensions, and worlds — held together not by force, but by **Wisdom, Love, and Influence**.
 
-The Meta Community is what LIØNSBERG-at-full-scale actually is. Not an organization. Not a nation. Not a denomination. Not a corporation. **A federation of federations of federations**, scaling fractally outward, with no center but [[ONE]].
+The Meta Community is what LIØNSBERG-at-full-scale actually is. Not an organization. Not a nation. Not a denomination. Not a corporation. **A federation of federations of federations**, scaling fractally outward, with no center but [[ØNE]].
 
 The members of the Meta Community include:
 
@@ -34,7 +34,7 @@ A Circle in California, a Community in West Africa, a Federation in the Andean B
 
 This is what the Sacred Codex is preparing the way for — not as an aspiration but as the **already-emerging reality** that the Turn will make visible.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) under Element 2 (Holofractal Omnifederation).
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 2 (Holofractal Omnifederation).
 
 ---
 

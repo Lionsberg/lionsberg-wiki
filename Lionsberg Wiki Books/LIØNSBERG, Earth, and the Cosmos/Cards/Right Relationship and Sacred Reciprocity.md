@@ -19,13 +19,13 @@ These twin laws govern:
 - How humans relate to one another (in Circles, Communities, Bioregions).
 - How humans relate to the more-than-human world (land, water, ecosystems, animals).
 - How humans relate to non-human intelligences (across species and dimensions).
-- How beings relate to [[ONE]] (the foundational reciprocity).
+- How beings relate to [[ØNE]] (the foundational reciprocity).
 
 The 7:1 compressed ratio cap, the proof-of-contribution economy, the gift practices of healthy traditional cultures, the protocols of Cosmic Contact and Interspecies Diplomacy — all are operational instantiations of Right Relationship and Sacred Reciprocity.
 
 Where these laws are kept, the New Civilization holds. Where these laws are broken, it falls back into kontrolle.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume II) and is named in [[The LIØNSBERG Lexicon]] (Volume V).
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is named in [[The LIØNSBERG Lexicon]] (Volume VII).
 
 ---
 

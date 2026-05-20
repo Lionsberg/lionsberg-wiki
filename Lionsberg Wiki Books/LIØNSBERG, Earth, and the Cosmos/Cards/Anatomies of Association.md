@@ -21,7 +21,7 @@ A Circle that names its Domain but neglects its Membrane bleeds out. One that ha
 
 Each scale of association — Circle, Community, Bioregion, Federation, Planetary Grid — instantiates the same pattern. It repeats holofractally. A bioregion has a Domain, a Membrane, Agreements, and a Commons. So does a star system. So does an individual being.
 
-This is the canonical anatomy lesson under [[The LIØNSBERG Pattern Language]] (Volume II) Element 2 (Holofractal Omnifederation) and Element 4 (Governance).
+This is the canonical anatomy lesson under [[The LIØNSBERG Pattern Language]] (Volume III) Element 2 (Holofractal Omnifederation) and Element 4 (Governance).
 
 ---
 

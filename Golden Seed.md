@@ -4,7 +4,7 @@
 
 It contains everything needed to begin aNew:
 
-- **[[The Story of LIØNSBERG|The Story]]** — the living epic of [[ONE]] and [[All]], the cosmic context for this moment
+- **[[The Story of LIØNSBERG|The Story]]** — the living epic of [[ØNE]] and [[All]], the cosmic context for this moment
 - **The Pattern** — [[Twelve Irreducible Elements]] proven across 1,500 years, billions of dollars of economy, and $20 million of funded research
 - **[[The Great Game of LIØNSBERG|The Play]]** — the cooperative real-world game of planetary transformation  
 - [[LIØNSBERG 101]] — the living and evolving presentation. From one word, to one page, to ten pages, to libraries of millions of words  

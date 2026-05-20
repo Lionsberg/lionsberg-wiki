@@ -687,7 +687,7 @@ Into which his consciousness was venturing
   As a partial sampling:  
   
 - [[The Lionsberg Book of Meditations]] contains over 600 short one-sentence thoughts worth meditating on (designed for daily practice)  
-- [[The Book of LIONSBERG]] was a very early attempt at beginning to pull a full cosmic array of concepts into some kind of unified architectural form; the entire text has been printed, read aloud, and annotated by a voluntary editor; the changes have not yet been integrated into the wiki  
+- [[The Book of LIØNSBERG]] was a very early attempt at beginning to pull a full cosmic array of concepts into some kind of unified architectural form; the entire text has been printed, read aloud, and annotated by a voluntary editor; the changes have not yet been integrated into the wiki  
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] was a later attempt to weave an understandable tapestry for humanity to understand where it was and what it was facing immediately ahead  
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] was a first attempt to communicate the shocking revelations surfaced by his political activities and briefings between 2022 and 2024  
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] was an attempt to provide a simple narrative structure and meme that humanity could adopt it so choose — it is in one long file because it was being formatted for editing and publishing   
@@ -708,7 +708,7 @@ That tracks the incarnation of LIONSBERG in real time
 
 ## The LIONSBERG Lexicon 
 
-The [[Lionsberg Lexicon]] was an emerging library of [[Word Tools]]  
+[[The LIØNSBERG Lexicon|The Lexicon]] was an emerging library of [[Word Tools]]  
 Whose purpose was to enable humanity to communicate  
 About reality, where we are, where we are going, and **why**  
 Using a unified and transcendent language not poisoned  
@@ -886,7 +886,7 @@ The Wise Right Next Steps
 
 Please see also **[[A Warm Invitation Into 2026 and Beyond]]**  
 
-In Loving Service of [[ONE]] and [[All]],  
+In Loving Service of [[ØNE]] and [[All]],  
 ~ [[the nameless one]]  
 
 _We are here for the same **Mission** and **Goal**_  

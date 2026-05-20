@@ -1,4 +1,4 @@
-[[All]] creations are variegated manifestations flowing from, existing through, and returning to [[ONE]] Supreme Creative Spirit.
+[[All]] creations are variegated manifestations flowing from, existing through, and returning to [[ØNE]] Supreme Creative Spirit.
 
 ___
 

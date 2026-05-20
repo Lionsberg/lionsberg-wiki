@@ -13,7 +13,7 @@ Let the Universe bear witness to Our resolve, and let Future Generations forever
 * We renounce and dissolve all false allegiances, agreements, and fraudulent claims to authority imposed by the Existing Order.  
 * We reclaim our Sacred Sovereignty, bound only to Our Divine Source and the Just and Harmonious Order of Universal Co-Creation.
 * We nullify all coercive and deceptive agreements that have imprisoned humanity in cycles of debt, war, scarcity, ignorance, deception, and suffering, proclaiming in their stead a Universal Jubilee of Liberation, Abundance, and Stewardship for All.  
-* We ReAffirm Our Sovereign InterDependence with [[ONE]], [[One Another]], and [[All Creation]], acknowledging Our Divine InterExistence with the Living System We are a part of and its Ultimate Source.  
+* We ReAffirm Our Sovereign InterDependence with [[ØNE]], [[One Another]], and [[All Creation]], acknowledging Our Divine InterExistence with the Living System We are a part of and its Ultimate Source.  
 
 ### STATEMENT OF ETERNAL TRUTHS
 
@@ -101,7 +101,7 @@ Therefore, we, the Sovereign Citizens of Earth, guided by the supreme principles
 
 Our Divine Birthright as Sovereign Beings—sons and daughters of the ONE— is hereby restored, binding us solely to the ONE and the Sacred Order of Universal Harmony, Coherence, and Co-Creation.  
 
-We hereby break and declare null and void all agreements, debts, ties, subordinations, and allegiances which do not serve the Highest Good of [[ONE]], [[One Another]], and [[All]]. All political, economic, and legal claims imposed without the voluntary, enlightened, and fully informed consent of the governed are hereby declared null and void.  
+We hereby break and declare null and void all agreements, debts, ties, subordinations, and allegiances which do not serve the Highest Good of [[ØNE]], [[One Another]], and [[All]]. All political, economic, and legal claims imposed without the voluntary, enlightened, and fully informed consent of the governed are hereby declared null and void.  
 
 We hereby ReEstablish the Divine Foundations of a New Civilization based upon Truth, Love, Justice, and Coherence with Divine Spirit and Intent, and assume among the powers of the Cosmos the separate and transcendent position to which both Divine Right and Natural Law entitle Us.  
 

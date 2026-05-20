@@ -10,7 +10,7 @@ Every successful movement in history has been held together by a single unifying
 
 **The Purpose governs. Leaders serve.**
 
-This is not a mission statement drafted by a committee. It is the deepest intention of [[ONE]] — the [[Creator's Intent]] for all Creation. It is what [[Love]] itself would accomplish if Love had hands.
+This is not a mission statement drafted by a committee. It is the deepest intention of [[ØNE]] — the [[Creator's Intent]] for all Creation. It is what [[Love]] itself would accomplish if Love had hands.
 
 And it does. Ours.
 

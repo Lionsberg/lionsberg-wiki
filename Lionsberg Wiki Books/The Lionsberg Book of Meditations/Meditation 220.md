@@ -1,6 +1,6 @@
 # Meditation 220
 
-One cannot perceive, think, or act with Wisdom until one fears [[ONE]] above [[All]]. 
+One cannot perceive, think, or act with Wisdom until one fears [[ØNE]] above [[All]]. 
 
 ___
 

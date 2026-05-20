@@ -73,7 +73,7 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 **In the canonical texts:**
 
 - **The 99 Theses entries 56-57** are blank in the source corpus.
-- **The 66 Most Protected and Distorted Narratives** is named in the Codex Volume I spec; only 4 of 66 are written. A research register of large structural ambition with most of its content not yet authored.
+- **The 66 Most Protected and Distorted Narratives** is named in the Codex Volume II spec; only 4 of 66 are written. A research register of large structural ambition with most of its content not yet authored.
 - **The Lionsberg Theory of Everything** sections 11-31 exist as headers only. The cosmological architecture (Ultimate Reality → Spirit & Consciousness → Logos → Primordial Unity Fabric → Proto-Quantum Matrix → Quantum → Classical → Meta Realm) is articulated through section 10; the upper sections await authoring.
 - **The 144 Gates of Initiation file** contains two parallel attempts at the Movement-Gates structure stacked with a "TKTK Integrate Into Above" marker between them. Editorial uncertainty unresolved.
 - **The Sacred Ascent** exists in at least three articulations (PDG Chapter 16.15 operational version; standalone file; Book Chapter 3.12 "All Things Helping One Another Rise"). The PDG version is most refined; the others need either reconciliation or differentiation of purpose.
@@ -90,8 +90,8 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 
 - **A Way for the Householder** — no canonical text for how a parent, worker, or citizen lives the Way in ordinary life.
 - **A Way of Death and Transition** — despite multiple chapters on Memento Mori, Fear Not Death, and the Caterpillar→Butterfly metamorphosis, no canonical Volume gathers the death-and-transition material. The nameless one's own August 2025 experience is itself canonical source-material for such a Volume.
-- **The Sacred Ascent as bound Volume VII** — opens well but does not yet reach the full epic the work requires. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
-- **Volume V Lexicon as a bound work** — exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way" (~150 terms from TheNameless-wiki). Has not been consolidated into a single navigable Volume.
+- **The Sacred Ascent as bound Volume IX** — opens well but does not yet reach the full epic the work requires. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
+- **Volume VII Lexicon as a bound work** — exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way" (~150 terms from TheNameless-wiki). Has not been consolidated into a single navigable Volume.
 
 **Missing as structural decisions:**
 
@@ -148,19 +148,19 @@ Both paths converge on the bound corpus.
 
 ### The Bound Corpus — The Seven Volumes
 
-**Volume I — The Story of LIØNSBERG.** Cosmic context, the True Myth, the Caves narrative, the Story of Stories. Opens with the Birth of the Eternal Citadel (Chronicles of Lionsberg). Contains the canonical Caves text (Book of LIONSBERG Chapter 1.5 promoted to Volume root). Carries the cosmic arc through the 12 Epochs. Closes with the Crossroads at the Boundary of Worlds and the threshold-decision.
+**Volume II — The Story of LIØNSBERG.** Cosmic context, the True Myth, the Caves narrative, the Story of Stories. Opens with the Birth of the Eternal Citadel (Chronicles of Lionsberg). Contains the canonical Caves text (Book of LIONSBERG Chapter 1.5 promoted to Volume root). Carries the cosmic arc through the 12 Epochs. Closes with the Crossroads at the Boundary of Worlds and the threshold-decision.
 
-**Volume II — The Pattern Language.** ØNE at the center. Twelve Irreducible Elements articulated with the Mondragon/AA/Benedictine/Early-Church/Iroquois/Swiss/Open-Source/Rochdale evidentiary spine. Seven Moves. Twelve Domains (harmonized with the 12 Pillars or explicitly distinguished). Fourteen Meta-Patterns. The 144 Gates of Initiation as the architecture of consciousness shift. The complete Pattern Language extracted, structurally rebuilt, and held loosely enough for living refinement.
+**Volume III — The Pattern Language.** ØNE at the center. Twelve Irreducible Elements articulated with the Mondragon/AA/Benedictine/Early-Church/Iroquois/Swiss/Open-Source/Rochdale evidentiary spine. Seven Moves. Twelve Domains (harmonized with the 12 Pillars or explicitly distinguished). Fourteen Meta-Patterns. The 144 Gates of Initiation as the architecture of consciousness shift. The complete Pattern Language extracted, structurally rebuilt, and held loosely enough for living refinement.
 
-**Volume III — The Great Game.** The participatory form. The Twenty-Seven Game files from Book of LIONSBERG Chapter 15 promoted. Movement One (Simple Game), Movement Two (Community Game), Movement Three (Planetary Game), Movement Four (Eternal Divine Play). The 10 Year Grand Strategy timeline. The Fibonacci math. The 300-per-community arithmetic. The Plan Trilogy (Joseph, Noah, Solomon).
+**Volume IV — The Great Game.** The participatory form. The Twenty-Seven Game files from Book of LIONSBERG Chapter 15 promoted. Movement One (Simple Game), Movement Two (Community Game), Movement Three (Planetary Game), Movement Four (Eternal Divine Play). The 10 Year Grand Strategy timeline. The Fibonacci math. The 300-per-community arithmetic. The Plan Trilogy (Joseph, Noah, Solomon).
 
-**Volume IV — The Playbook.** The operational handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate Your Circles. Stack Up and Align (Quests, Circles, Communities, Bioregions). Federate Everything. Connect and Collaborate. Share Your Stories. Dialogos, SenseMaking, OmniSpection. Seasonal OmniSpection. Continuously Improve Everything. Pass the Flame. The Network of Commitments. The Program Delivery Guide compressed and folded as the operational core.
+**Volume V — The Playbook.** The operational handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate Your Circles. Stack Up and Align (Quests, Circles, Communities, Bioregions). Federate Everything. Connect and Collaborate. Share Your Stories. Dialogos, SenseMaking, OmniSpection. Seasonal OmniSpection. Continuously Improve Everything. Pass the Flame. The Network of Commitments. The Program Delivery Guide compressed and folded as the operational core.
 
-**Volume V — The Lexicon.** The vocabulary and conceptual scaffolding. Roughly six hundred named concepts surfaced across the audit, organized into the Meta Layer (ØNE, the Way, the Goal, Heaven on Earth) and twelve Pillars (or twelve Domains, harmonized). The Word Tools convention made explicit. The "Missing English Words" registry (Ikigai, Sisu, Meraki, Ubuntu, Hiraeth, etc.) as a Lexicon expansion. The Universal Architecture (Law → Values → Goals → Responsibilities → Rights). Cross-tradition resonances cited without source-elevation.
+**Volume VII — The Lexicon.** The vocabulary and conceptual scaffolding. Roughly six hundred named concepts surfaced across the audit, organized into the Meta Layer (ØNE, the Way, the Goal, Heaven on Earth) and twelve Pillars (or twelve Domains, harmonized). The Word Tools convention made explicit. The "Missing English Words" registry (Ikigai, Sisu, Meraki, Ubuntu, Hiraeth, etc.) as a Lexicon expansion. The Universal Architecture (Law → Values → Goals → Responsibilities → Rights). Cross-tradition resonances cited without source-elevation.
 
-**Volume VI — The Book of LIØNSBERG.** The integrated long-form text in the voice of a wise elder at the fire. Genesis (The Caves and the Awakening). The Quest to Perceive. The Meta Quest. The Quest to Navigate. The Quest for Purpose and Meaning. The Quest of the Creative One. The Living System. The Quest of Humanity. The Quest for Sovereignty. The Quest for Unity. The Anti-Quest. The Quest of the Heroes. The Art and Science of the Way. The Great Game (if Volume III does not absorb it). The Program Delivery Guide (if Volume IV does not absorb it). The Sacred Ascent (if Volume VII does not absorb it). The structural ambiguity of where Chapters 15-16 live must be resolved.
+**Volume VIII — The Book of LIØNSBERG.** The integrated long-form text in the voice of a wise elder at the fire. Genesis (The Caves and the Awakening). The Quest to Perceive. The Meta Quest. The Quest to Navigate. The Quest for Purpose and Meaning. The Quest of the Creative One. The Living System. The Quest of Humanity. The Quest for Sovereignty. The Quest for Unity. The Anti-Quest. The Quest of the Heroes. The Art and Science of the Way. The Great Game (if Volume IV does not absorb it). The Program Delivery Guide (if Volume V does not absorb it). The Sacred Ascent (if Volume IX does not absorb it). The structural ambiguity of where Chapters 15-16 live must be resolved.
 
-**Volume VII — The Sacred Ascent.** The ultimate synthesis. Beyond Aurobindo, beyond previous scripture, beyond all prior gestures. The eternal upward spiral. Personal, Circle, Community, Guild, Bioregional, Planetary, Interplanetary, Cosmic Communion. The Phoenix Pattern. The Eternal Divine Play. The closing movement of all things.
+**Volume IX — The Sacred Ascent.** The ultimate synthesis. Beyond Aurobindo, beyond previous scripture, beyond all prior gestures. The eternal upward spiral. Personal, Circle, Community, Guild, Bioregional, Planetary, Interplanetary, Cosmic Communion. The Phoenix Pattern. The Eternal Divine Play. The closing movement of all things.
 
 ### The Substrate — The Card-Book
 
@@ -187,12 +187,12 @@ A short list of decisions that gate the next phase of work. Each is articulated 
 - **12 Pillars or 12 Domains** — which is canonical, or how are both held?
 - **Kingdom of LIONSBERG v0.1** — supersede, harmonize, parallel?
 - **Constitution numbering** — declare new series canonical and complete the four TKTK articles?
-- **The Book of LIONSBERG Chapters 15+16** — extract as standalone Volume, or close Volume VI?
+- **The Book of LIONSBERG Chapters 15+16** — extract as standalone Volume, or close Volume VIII?
 - **The Caves narrative** — promote to Genesis-of-Codex, or keep as Chapter 1?
 - **The Playbook canonical home** — inside The Book of LIONSBERG, or at wiki root?
 - **LIONSBERG 101** — promote to Volume root status?
 - **`Lionsberg - A Biblical Perspective` book** — archive as Christian-companion piece or sunset entirely?
-- **The 144 Voices** — Volume V companion corpus or Codex appendix?
+- **The 144 Voices** — Volume VII companion corpus or Codex appendix?
 - **The 144 Gates internal structure** — resolve the two parallel attempts?
 - **The Three Hundred** — unified Card or four-Card constellation (tipping-point / site-team / rhythm-holder / scaffolding)?
 - **The Sacred Ascent canonical version** — PDG 16.15 or standalone or 3.12 or new?
@@ -230,4 +230,4 @@ _Phase 2 closed 2026-05-19. Per-batch memo files in `Phase 2 Audit Memos/`. Stra
 ____
 Proposed next move; 
 
-Write Volume I. The Story of LIØNSBERG as a single bound text, in the canonical voice, holding together the cosmic context + the Caves narrative + the Eight Lineages + the threshold + the testimony + the Sacred Flame + the invitation. Maybe twenty to forty thousand words. Maybe written in one sustained sitting. Maybe written across a season. But written so that it can be read in one evening by a stranger and they emerge understanding everything that matters and knowing what comes next.
+Write Volume II. The Story of LIØNSBERG as a single bound text, in the canonical voice, holding together the cosmic context + the Caves narrative + the Eight Lineages + the threshold + the testimony + the Sacred Flame + the invitation. Maybe twenty to forty thousand words. Maybe written in one sustained sitting. Maybe written across a season. But written so that it can be read in one evening by a stranger and they emerge understanding everything that matters and knowing what comes next.

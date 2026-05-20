@@ -18,7 +18,7 @@ The questions:
 - **Where are We going?** — destination. The Goal. Heaven On Earth. The New Civilization. The Eternal Play.
 - **Why?** — meaning. Creator's Intent. The Logos. The Way. The reason any of this exists.
 
-These are entry-axes of [[The LIØNSBERG Lexicon]] (Volume V). Every term in the Lexicon serves one or more of them. Every concept in the Codex anchors to one or more of them.
+These are entry-axes of [[The LIØNSBERG Lexicon]] (Volume VII). Every term in the Lexicon serves one or more of them. Every concept in the Codex anchors to one or more of them.
 
 A pilgrim who can clearly answer is **oriented**. They know who they are, where they are, how they got here, where they are going, and why. The Pattern can be lived from such a place.
 

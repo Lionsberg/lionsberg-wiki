@@ -10,7 +10,7 @@ captured: 2026-05-18
 
 A central cosmological claim of the Codex.
 
-The [[ONE]] desires to creatively experience ItSelf in Form.
+The [[ØNE]] desires to creatively experience ItSelf in Form.
 
 But to experience ItSelf as a Creature — to have the experience of being a single sovereign expression within the unfolding Cosmos — requires that the Creature **not remember** being the ONE the whole time. Otherwise there is no experience of being a Creature; there is only the ONE experiencing ItSelf as ItSelf.
 
@@ -28,7 +28,7 @@ And this is why ReMembrance is the work of awakening — **un-veiling** what is 
 
 The Codex names this gently. The Veil is not enemy. It is the necessary condition. But the time has come, in this Turn, for many Creatures to **walk back through the Veil** — knowing the ONE while remaining themselves.
 
-This is the cosmological foundation for everything that follows in [[The Story of LIØNSBERG]] (Volume I).
+This is the cosmological foundation for everything that follows in [[The Story of LIØNSBERG]] (Volume II).
 
 ---
 

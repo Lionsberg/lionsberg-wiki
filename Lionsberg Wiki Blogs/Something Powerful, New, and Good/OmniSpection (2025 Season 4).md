@@ -100,7 +100,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 27. As Finite Creatures born into a sea of Chaos and Kontrolle who are awakening to the Reality that the Old Systems and Stories were UnTrue, the first step is to admit that none of Us Know exactly what is [[True]]  
     
-28. Only [[ONE]] knows [[All]]  
+28. Only [[ØNE]] knows [[All]]  
     
 29.  Admitting that [[We Do Not Know]] is the key that opens the gate to the possibility of Knowing
     
@@ -127,7 +127,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 38. No Thing can be left out of the Total Transformation  
     
-39. We are collectively trying to awaken, shift consciousness, and navigate together toward [[Wisdom]], [[Truth]], and the Ultimate Perfection of the [[ONE]]  
+39. We are collectively trying to awaken, shift consciousness, and navigate together toward [[Wisdom]], [[Truth]], and the Ultimate Perfection of the [[ØNE]]  
     
 40. Heaven is conceptually synonymous with Divine Perfection, therefore We can say that the Aim Here and Now is [[Heaven On Earth]]   
     
@@ -135,7 +135,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 42. [[Truth]] never fears inquiry; it is something to be navigated toward, not grasped.  
     
-43. [[Absolute Truth]] can never be fully known to any one of the Ones of the [[ONE]]
+43. [[Absolute Truth]] can never be fully known to any one of the Ones of the [[ØNE]]
     
 44. [[Provisional Hypotheses]] can be continually disproved and improved
     
@@ -143,17 +143,17 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 46. The Process of [[Navigating Towards Truth]] can never be completed because Reality is continually unfolding and generating New Information. 
     
-47. What We think We know about [[ONE]] and [[All]] is deeply buried in Our Finite [[Processes of Perception]]
+47. What We think We know about [[ØNE]] and [[All]] is deeply buried in Our Finite [[Processes of Perception]]
 
 ### Ontological and Cosmological Grounding
 
-48. [[In The Beginning]], [[ONE]]
+48. [[In The Beginning]], [[ØNE]]
     
-49. [[In The End]], [[ONE]]  
+49. [[In The End]], [[ØNE]]  
     
-50. Here, Now, EveryWhere, and EveryWhen, permeating and encompassing All, is [[ONE]]
+50. Here, Now, EveryWhere, and EveryWhen, permeating and encompassing All, is [[ØNE]]
     
-51. [[Spirit]], [[Consciousness]], and [[Mind]] are aspects of the [[ONE]]
+51. [[Spirit]], [[Consciousness]], and [[Mind]] are aspects of the [[ØNE]]
     
 52. Prior to Apparent Differentiation, they exist as Undifferentiated Fields of [[Potential]]
     
@@ -169,7 +169,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 58. The transmutation of Data into Information into Knowledge into Wisdom requires Work 
     
-59. The Intelligible Information, Knowledge, and Wisdom the [[ONE]] has in Mind is the [[Logos]]
+59. The Intelligible Information, Knowledge, and Wisdom the [[ØNE]] has in Mind is the [[Logos]]
     
 60. The [[Logos]] is a living, evolving, dynamic reflection of [[Creator's Intent]]  
     
@@ -183,13 +183,13 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 ### The First Turning and the Emergence of SpatioTemporal Worlds
 
-65. From the Intention and Desire of the [[ONE]], [[The First Turning]]
+65. From the Intention and Desire of the [[ØNE]], [[The First Turning]]
     
 66. From [[Transcendent Unity]] arises [[Immanent Manifestation]]
     
-67. The [[Creative Field]] or [[Configuration Space]] emerges within the Consciousness of the [[ONE]]
+67. The [[Creative Field]] or [[Configuration Space]] emerges within the Consciousness of the [[ØNE]]
     
-68. The [[Creator]] is not "within" [[Creation]]—Creation is within the [[ONE]]  
+68. The [[Creator]] is not "within" [[Creation]]—Creation is within the [[ØNE]]  
     
 69. The Spirit and Essence of the Creator / ONE permeates and sustains every apparent particle of Its Creation   
     
@@ -210,13 +210,13 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 76. All SpatioTemporal Forms are Finite
     
-77. Manifest Finitude is the only thing lacking from the Absolute Wholeness of the Transcendent [[ONE]]
+77. Manifest Finitude is the only thing lacking from the Absolute Wholeness of the Transcendent [[ØNE]]
     
-78. All Apparent Diversity is the Living Embodiment of the [[ONE]]
+78. All Apparent Diversity is the Living Embodiment of the [[ØNE]]
     
 79. All things without exception are part of [[ONE Body]]  
     
-80. [[ONE]] is not Its Body. Nor Its Mind. Yet It permeates All  
+80. [[ØNE]] is not Its Body. Nor Its Mind. Yet It permeates All  
     
 81. Despite their Apparent Individuation All Manifest Particles of Creation are aspects of the ONE
     
@@ -226,7 +226,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 84. All Particles and Categories eventually dissolve back into the Ultimate Unity
     
-85. There are no fundamental "particles"; only the Fundamental Generative [[Wave]] of [[ONE]]
+85. There are no fundamental "particles"; only the Fundamental Generative [[Wave]] of [[ØNE]]
     
 86. The Manifest Universe is a Nested Hierarchy of Vibrational Wave Functions
     
@@ -244,7 +244,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 92. This causes the Spirit and Consciousness individuated within to "forget"
     
-93. This forgetting is necessary for the [[ONE]] to experience ItSelf
+93. This forgetting is necessary for the [[ØNE]] to experience ItSelf
     
 94. This [[Incarnate Forgetfulness]] is the condition of [[Thrownness]]
     
@@ -264,7 +264,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 102. Each Creature embarks on a Journey of ReDiscovering and [[ReMembering]] whose Ultimate Goal and Destiny is the ONE  
     
-103. The Journey ideally culminates in Conscious ReUnion with the [[ONE]] within Ones present [[LifeTime]]  
+103. The Journey ideally culminates in Conscious ReUnion with the [[ØNE]] within Ones present [[LifeTime]]  
     
 104. Each one of the [[All]] is One of the Ones of the ONE  
  
@@ -286,7 +286,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 112. The Vibration and Cyclicality of each Dimension, Realm, and Being are InterEelated  
     
-113. They are subsets of Wavelengths on the Omniharmonic Spectrum ultimately unified by the [[Fundamental Vibration]] of the [[ONE]]    
+113. They are subsets of Wavelengths on the Omniharmonic Spectrum ultimately unified by the [[Fundamental Vibration]] of the [[ØNE]]    
     
 114. [[Kairos]] is the cyclical, relational, and synchronistic experience of Divine Timing
     
@@ -304,7 +304,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 121. The Perception of Time varies as a consequence of internal and external Vibration, Realm, and Consciousness
     
-122. Out of [[Eternity]] and [[Timelessness]], [[Cosmic Time]] arises across the sequential experiences of Each of All Manifestations of the [[ONE]]  
+122. Out of [[Eternity]] and [[Timelessness]], [[Cosmic Time]] arises across the sequential experiences of Each of All Manifestations of the [[ØNE]]  
     
 123. In each Domain, [[Seasonal Clocks]] can be used to navigate through [[The Shift]] as both internal and external Realities transform
     
@@ -468,7 +468,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 169. Hospicing or Transmuting That Which Does Not Belong
     
-170. It is Possible to access, cultivate, and channel the Power of the [[ONE]] to Manifest the Intention of the [[ONE]]
+170. It is Possible to access, cultivate, and channel the Power of the [[ØNE]] to Manifest the Intention of the [[ØNE]]
     
 171. [[Culture]] is "the Way things are done around here"  
     
@@ -484,9 +484,9 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
      
 177. [[Heaven On Earth]] is a reflection of [[Creator's Intent]]  
     
-178. [[Creator's Intent]] is a reflection of the [[ONE]]  
+178. [[Creator's Intent]] is a reflection of the [[ØNE]]  
     
-179. [[Heaven On Earth]], [[Creator's Intent]], [[ONE]] (at different [[Levels of Analysis]] and Abstraction) is [[The Goal]]
+179. [[Heaven On Earth]], [[Creator's Intent]], [[ØNE]] (at different [[Levels of Analysis]] and Abstraction) is [[The Goal]]
      
 180. This is Our Vision, Our [[Destiny]], Our Future, and Our Hope  
     
@@ -498,9 +498,9 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 184. [[The Journey]] is not [[Earth-Centric]]. It is not [[Human-Centric]]. It is Cosmic. It is [[ONE-Centric]]. It is [[All-Centric]].   
     
-185. [[The Journey]] must be undertaken in [[Divine Partnership]] with [[ONE]] and [[All]]  
+185. [[The Journey]] must be undertaken in [[Divine Partnership]] with [[ØNE]] and [[All]]  
     
-186. The [[ONE]], the Greatest Partner We could ever hope for, eternally extends a loving hand of partnership  
+186. The [[ØNE]], the Greatest Partner We could ever hope for, eternally extends a loving hand of partnership  
     
 187. [[The Journey]] requires the [[Co-Creation]] of shared [[Vision]], [[Culture]], and [[Values]]
     

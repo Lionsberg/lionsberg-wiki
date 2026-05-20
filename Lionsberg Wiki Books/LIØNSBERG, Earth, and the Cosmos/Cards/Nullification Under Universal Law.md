@@ -46,7 +46,7 @@ This is the **juridical-philosophical face** of the Pilgrim's restored sovereign
 
 For the Pilgrim entering this recognition for the first time, the experience is often **liberating beyond expectation**. The weight of obligations that never genuinely were obligations — the guilt of failing to comply with systems that never had a moral claim — falls away. The Pilgrim discovers they are **free in a way they did not know they could be**. The freedom is not anarchic; it is **disciplined under [[The Terms of the New Covenant]]**. But it is free of the false bondages that the Old World had imposed by fraud.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as the foundational juridical principle, and in [[The LIØNSBERG Lexicon]] (Volume V) as a Meta Layer doctrine.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the foundational juridical principle, and in [[The LIØNSBERG Lexicon]] (Volume VII) as a Meta Layer doctrine.
 
 ---
 

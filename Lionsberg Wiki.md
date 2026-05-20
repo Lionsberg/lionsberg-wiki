@@ -39,7 +39,7 @@ ______
     
 - [[Frequently Asked Questions (FAQ)]]
     
-- [[LIONSBERG Lexicon]]  
+- [[The LIØNSBERG Lexicon]]  
     
 - [[The LIONSBERG Narrative Universe (Stories, Symbols & Archetypes)]]
     
@@ -332,7 +332,7 @@ ______
 
 - [[Master Index of All Articles]]
     
-- [[LIONSBERG Lexicon]]  
+- [[The LIØNSBERG Lexicon]]  
     
 - [[Maps, Diagrams, and Visuals]]
     

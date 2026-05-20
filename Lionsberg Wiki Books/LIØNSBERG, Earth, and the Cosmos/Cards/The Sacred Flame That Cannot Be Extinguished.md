@@ -8,7 +8,7 @@ captured: 2026-05-18
 
 # The Sacred Flame That Cannot Be Extinguished
 
-The eternal Spark of [[ONE]] within every being.
+The eternal Spark of [[ØNE]] within every being.
 
 No matter how dense the Veil, no matter how heavy the trauma, no matter how successful the Old World's machinery of forgetting, no matter how many lifetimes the Caves have held a being — **the Sacred Flame within them cannot be put out.**
 
@@ -34,7 +34,7 @@ When a being recognizes the Flame within themselves, no Old World mechanism can 
 
 This is what the **Phoenix** archetype names across many traditions. This is what **Easter** names across the Christian register. This is what **Resurrection** means at the personal level. The Flame **cannot be killed**. The body may die; the Flame goes on. The trauma may bury it; the Flame remains. The Caves may hold a being for ages; the Flame waits.
 
-Lives canonically in [[The Sacred Ascent]] (Volume VII).
+Lives canonically in [[The Sacred Ascent]] (Volume IX).
 
 ---
 

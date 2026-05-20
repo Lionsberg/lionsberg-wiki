@@ -6,7 +6,7 @@ _The story bible, convention manual, and author's guide for the entire LIØNSBER
 
 ## Why This Exists
 
-The LIØNSBERG corpus is not a single book. It is a **living universe** — a cosmos of lore, characters, lineages, named places, structural patterns, conventions, and decisions, spanning [[The Sacred Codex|the eight Volumes of the Sacred Codex]], the [[LIØNSBERG, Earth, and the Cosmos|Card substrate]], the [[The LIØNSBERG Strategy and Plan|Strategy and Plan]], and a living wiki body that will continue to grow across generations and authors.
+The LIØNSBERG corpus is not a single book. It is a **living universe** — a cosmos of lore, characters, lineages, named places, structural patterns, conventions, and decisions, spanning [[The LIØNSBERG Sacred Codex|the twelve Volumes of the Sacred Codex]] (which now includes this Guide as Volume XII), and a living wiki body that will continue to grow across generations and authors.
 
 Without a Universe Guide, every new author, agent, contributor, and collaborator must rediscover the lore and conventions session by session. With it, the Pattern propagates faithfully — across humans and AIs, across years and generations, across galaxies and worlds.
 
@@ -18,7 +18,7 @@ This Guide is to the LIØNSBERG corpus what:
 - A design system handbook is to a software ecosystem
 - A campaign setting guide is to a long-running roleplay
 
-**This is the seed of the seed.** The eight Volumes carry the work. The Universe Guide carries the **discipline that makes the work coherent across generations**.
+**This is the seed of the seed.** The other eleven Volumes carry the work. The Universe Guide (Volume XII) carries the **discipline that makes the work coherent across generations**.
 
 ---
 
@@ -41,11 +41,11 @@ This Part holds the **story bible** of the LIØNSBERG Universe — the cosmic ba
 - **The Lore** — the cosmic story as true myth, spanning epochs and worlds
 - **Named Places and Realms** — The Caves, The Boundary, The Wilderness, the Sacred Mountain, the New Civilization, the Eternal Play; the Cosmos as ordered Realms
 - **The Lineages and Factions** — the winged lion-angel beings of the ancient Kingdom on the Sacred Mountain in a distant galaxy; cosmic emissaries; the Federation of Worlds; the Dark Empires; the human lineage as one local localization; [[Cosmic Wildlife]] discipline (factions, not species-essences)
-- **The Cosmic History** — Genesis from [[ØNE]] through procession through the present Final Test into the New Civilization horizon and the Eternal Play
+- **The Cosmic History** — Genesis from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] through procession through the present Final Test into the New Civilization horizon and the Eternal Play
 - **The Story of the Sacred Mountain** — the origin Kingdom, the Sacred Gates, the Sacred Book of the Way, the convocation of the Force For Good
 - **Earth in Receivership** — Earth's current cosmic-juridical condition, the construction-site framing, humanity as integrated delivery team
 
-Volume I ([[The Story of LIØNSBERG]]) will be the canonical articulation of the Lore. This Part of the Universe Guide is the **author's reference** for what Volume I and the woven-into-Volume-VII threads carry, and the consistency manual for any new lore expansion.
+Volume II ([[The Story of LIØNSBERG]]) will be the canonical articulation of the Lore. This Part of the Universe Guide is the **author's reference** for what Volume II and the woven-into-Volume-VII threads carry, and the consistency manual for any new lore expansion.
 
 ---
 
@@ -78,13 +78,13 @@ This Part holds the canonical structural pattern of how the Universe is organize
 ### Sub-sections (to be authored)
 
 - **The Eight-Volume Sacred Codex** — I Story · II Great Game · III Playbook · IV Plans and Specifications (Kingdom) · V Program Delivery Guide · VI Lexicon · VII Book · VIII Sacred Ascent. The order moves accessible → structural.
-- **The Story Dual-Functional** — Volume I standalone AND woven through Volume VII
-- **Plans and Specifications As Volume IV** — holds the Pattern Language as canonical design-grammar subset; functions as architectural plan + constitutional charter + field manual + scriptural seed; under [[Fractal Sovereignty]] the Kingdom has no throne but the ineffable [[ØNE]]
+- **The Story Dual-Functional** — Volume II standalone AND woven through Volume IX
+- **Plans and Specifications As Volume V** — holds the Pattern Language as canonical design-grammar subset; functions as architectural plan + constitutional charter + field manual + scriptural seed; under [[Fractal Sovereignty]] the Kingdom has no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
 - **The Two Forms of the PDG** — original IPD/AEC + Earth-in-receivership; method and method-as-prophecy
-- **The Theory of Everything Lives In Volume VII** — culminating chapter before the Sacred Ascent threshold; cosmological articulation belongs in prophetic narrative climax, not in operational specs
+- **The Theory of Everything Lives In Volume IX** — culminating chapter before the Sacred Ascent threshold; cosmological articulation belongs in prophetic narrative climax, not in operational specs
 - **The Pilgrim's Path** — 12 Stages, the wayfinding companion through the Volumes; the [[The LIØNSBERG Experience]] document is the canonical articulation
-- **The 144 Gates of Initiation** — inside Volume IV's Pattern Language; the architecture of consciousness shift
-- **The 72 Gates of the Sacred Ascent** — inside Volume VIII; the architecture of embodied mastery
+- **The 144 Gates of Initiation** — inside Volume V's Pattern Language; the architecture of consciousness shift
+- **The 72 Gates of the Sacred Ascent** — inside Volume X; the architecture of embodied mastery
 - **The Card Substrate** — [[LIØNSBERG, Earth, and the Cosmos]] holds Cards that link into the Volumes; emergence layer between captured insight and canonical Volume
 - **The LIØNSBERG Strategy and Plan** — companion living document, NOT a Codex Volume; strategic _what_ to the PDG's operational _how_; responds to the historical moment
 - **The Maturation Framing** — Codex is approximately 10% complete (schematic design), submitted for the year-long co-writing process with The First Three Percent; matures through napkin → 10% SD → 30% DD → 60-90% CDs → IFC → built → continually improved
@@ -100,16 +100,16 @@ The corpus is shaped by decisions. This Part holds them all in one searchable pl
 ### Sub-sections (to be authored)
 
 - **Resolved Decisions from the Great Spring 2026 Wiki Turn**:
-  - D1 — Kingdom of LIONSBERG v0.1 → Volume IV (Plans and Specifications); Pattern Language as subset
+  - D1 — Kingdom of LIONSBERG v0.1 → Volume V (Plans and Specifications); Pattern Language as subset
   - D2 — 12 Pillars / 12 Domains harmonization → deferred to Phase 3 Pattern Language rebuild
-  - D3 — Lionsberg Theory of Everything → Volume VII culminating chapter (NOT Volume IV)
+  - D3 — Lionsberg Theory of Everything → Volume IX culminating chapter (NOT Volume V)
   - D4 — Lionsberg - A Biblical Perspective → DELETED (no unique conceptual material; violated higher-order coherence)
   - D5 — The 144 Voices framework → NOT pulled in from PKM (collaborator-research, not canonical)
   - D6 — List-Card sub-rule → ADDED to The Card Method
   - D11 — Book Chapters 15+16 → extracted as standalone Codex Volumes
-  - D12 — Caves narrative → absorbed into Volume I (Story); Story dual-functional (standalone + woven through Book)
-  - D13 — Playbook canonical home → Volume III, with weave-not-delete synthesis from all three existing locations
-  - D14 — Chapter 8 → historical-reflection chapter; voice-discipline integrity pass folded into Volume VII reweave
+  - D12 — Caves narrative → absorbed into Volume II (Story); Story dual-functional (standalone + woven through Book)
+  - D13 — Playbook canonical home → Volume IV, with weave-not-delete synthesis from all three existing locations
+  - D14 — Chapter 8 → historical-reflection chapter; voice-discipline integrity pass folded into Volume IX reweave
   - D16 — Internal duplications (Sacred Ascent, Wilderness) → canonical homes declared; in-context articulations demoted-via-pointing
 - **Open / Deferred Decisions** — D7, D8, D9, D10, D15 (in active dialogue or deferred to Phase 3)
 - **Archived Alternatives** — paths considered and not chosen, preserved for future re-engagement
@@ -170,4 +170,4 @@ This Guide is **not the Codex.** The Codex is the canonical articulation _for th
 
 ---
 
-_Scaffold created 2026-05-20 by [[the nameless one]] as Phase 2.8 work in [[The Great Spring 2026 Wiki Turn]]. The structure here is the seed; the substance is to be authored across the Turn and beyond._
+_Scaffold drafted 2026-05-20 by Claude (AI assistant) as a starting point for [[the nameless one]]'s review. Pending review and adoption. The structure here is a draft seed; the substance is to be authored across the Turn and beyond._

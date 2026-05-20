@@ -6,7 +6,7 @@ ___
 
 ## The Architecture
 
-The LIONSBERG system is structured as a **total nested hierarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ONE]] and [[All]].
+The LIONSBERG system is structured as a **total nested hierarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ØNE]] and [[All]].
 
 Sovereign individuals...  
 ...voluntarily associate into sovereign families...  
@@ -14,7 +14,7 @@ Sovereign individuals...
 ...voluntarily associate into sovereign communities...  
 ...voluntarily associate into sovereign bioregions...  
 ...voluntarily associate into the planetary Whole...  
-...in service of [[ONE]] and [[All]].
+...in service of [[ØNE]] and [[All]].
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 In the [[Old World]], power accumulates at intermediate levels — in states, corporations, institutions — and is used to control those below.
 
-In the [[New World]], power flows from [[ONE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ONE]].
+In the [[New World]], power flows from [[ØNE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ØNE]].
 
 **Any accumulation of power at an intermediate level is a sign of corruption that must be corrected.**
 

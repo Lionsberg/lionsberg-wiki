@@ -169,7 +169,7 @@ When someone arrives at the LIONSBERG Wiki Books page, they should encounter som
 **Tier 2: The Three Great Works** (each covers a distinct, irreducible dimension)
 2. **[[Most People Have No Idea What Is Coming]]** — How reality actually works. Domain by domain, system by system, the full structural analysis of why everything is simultaneously failing — and what lies on the other side. _(Complete — 73,700 words, 45 chapters)_
 3. **[[The Great UnVeiling]]** — What lies behind the veil. The cosmic initiatory journey from the ONE through fall, awakening, disclosure, exodus, battle, and the co-creation of the New World. _(Needs completion — the most important unfinished work)_
-4. **[[The Book of LIONSBERG]]** — The foundational scripture. 15 Quests exploring every dimension of reality — perception, navigation, purpose, creativity, sovereignty, unity, heroism, and the Way. _(Complete — 560 files, the canonical reference)_
+4. **[[The Book of LIØNSBERG]]** — The foundational scripture. 15 Quests exploring every dimension of reality — perception, navigation, purpose, creativity, sovereignty, unity, heroism, and the Way. _(Complete — 560 files, the canonical reference)_
 
 **Tier 3: The Operating System**
 5. **[[The LIØNSBERG Playbook]]** — The field guide for playing The Great Game. How to form a Circle, choose a Quest, and begin.

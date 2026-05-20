@@ -98,7 +98,7 @@ All 17 Cards present verbatim with matching folds and essences. Cards confirmed:
 
 **Per-chapter LIONSBERG Patterns (Ch 0–6):** Ledger preserves all chapter lists with full fidelity.
 
-**"How This Guidebook Becomes Volume IV Playbook" synthesis:** Ledger preserves the three-bucket fold guidance (Folds as-is / Need substantial restructuring / Missing from Guidebook). MATCH.
+**"How This Guidebook Becomes Volume V Playbook" synthesis:** Ledger preserves the three-bucket fold guidance (Folds as-is / Need substantial restructuring / Missing from Guidebook). MATCH.
 
 ---
 
@@ -116,9 +116,9 @@ All 15 transcript Cards present in ledger with matching folds and essences.
 
 **Refinement Cards:** Transcript has 5 refinements. Ledger captures all 5. MATCH.
 
-**Volume V (Lexicon) net-new entries:** Transcript has 10 entries. Ledger captures all 10 (Working from Beyond; Dojo; Safe Sparring; Omnispection cadence refinement; Avatar; Discernment not Invention; Size of Person/Size of Role; Lattice not Tree; Active Constituency; Pass the Flame voice refinement). MATCH.
+**Volume VII (Lexicon) net-new entries:** Transcript has 10 entries. Ledger captures all 10 (Working from Beyond; Dojo; Safe Sparring; Omnispection cadence refinement; Avatar; Discernment not Invention; Size of Person/Size of Role; Lattice not Tree; Active Constituency; Pass the Flame voice refinement). MATCH.
 
-**Volume IV Toolkit material:** Transcript lists 9 toolkit items. Ledger captures all 9. MATCH.
+**Volume V Toolkit material:** Transcript lists 9 toolkit items. Ledger captures all 9. MATCH.
 
 **FSC-Bootstrap Residue:** Ledger preserves the full residue list with high fidelity, including the FairShares Commons / Evolutesix / NEA / BFI / Pacific Domes / Bridge Fund / Village Shire / LUV-TEA / Switchboard / Cross-Fund Ergodic Pool / Ground Pattern / standard codes / #1042 / Year-10 Recalibration residue items. MATCH.
 

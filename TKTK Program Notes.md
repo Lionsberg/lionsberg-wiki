@@ -20,10 +20,10 @@ Where we left off:
 
 
 ### A Items 
-- Draft a prolegomenon for [[The Book of LIONSBERG]]... 
+- Draft a prolegomenon for [[The Book of LIØNSBERG]]... 
 - Update [[The Golden Seed of LIONSBERG]]  
 - Possibly LIONSBERG 101 and the concentric rings leading into The Book of LIONSBERG... as part of the book of LIONSBERG... 
-- Finish [[The Story of LIØNSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIONSBERG]]... 
+- Finish [[The Story of LIØNSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIØNSBERG]]... 
 	- Weaving in J's incarnation, nameless one, and full cosmic arc... 
 - Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[How To Walk]] (and all its counterparts) into The Art and Science of the Way... 
 - Evaluate adding a humble disclaimer up front on [[README]] and / or [[the nameless book]] on the difficulty of words to communicate around some of the most difficult things, the potential strangeness of the stories of Jordan and LIONSBERG, and an invitation to (somehow get past that and into wise right action). 
@@ -93,8 +93,8 @@ Where we left off:
 		1. Weave [[The Caves]] and the wilderness journey into [[The Story of LIØNSBERG]]  
 	
 11. 🔄 **THE PLAY**
-	1. ✅ Have Claude Code redraft [[The Great Game of LIØNSBERG]] into chapter 15 of [[The Book of LIONSBERG]]  
-	2. ✅ Have Claude Code recreate [[The LIØNSBERG Playbook]] in [[The Book of LIONSBERG]]  
+	1. ✅ Have Claude Code redraft [[The Great Game of LIØNSBERG]] into chapter 15 of [[The Book of LIØNSBERG]]  
+	2. ✅ Have Claude Code recreate [[The LIØNSBERG Playbook]] in [[The Book of LIØNSBERG]]  
 	3. Invite some people to play  
 		1. Locally - our networks  
 		2. Globally - our networks  
@@ -110,7 +110,7 @@ Where we left off:
 13. **THE PROJECT DELIVERY GUIDE**
 	1. ✅ Transform the PDG (original form) into an interlinked wiki book  
 		1. [[The Program Delivery Guide]]  
-	2. Reflect the PDG as a new section in [[The Book of LIONSBERG]]  
+	2. Reflect the PDG as a new section in [[The Book of LIØNSBERG]]  
 	3.  
 	
 14. 🔄 **FREQUENTLY ASKED QUESTIONS**
@@ -401,7 +401,7 @@ ___
 - **[[The LIONSBERG Narrative Universe]]**
 	- **[[The Story of LIØNSBERG]]**  
 	- [[The Chronicles of Lionsberg]]  
-	- **[[The Book of LIONSBERG]]**  
+	- **[[The Book of LIØNSBERG]]**  
 		- Metaphysics
 		- Theology  
 		- Philosophy  
@@ -409,7 +409,7 @@ ___
 		- Law  
 		- Cosmic Bluebrints 
 	- **[[The Great UnVeiling]]**  
-- **[[The LIONSBERG Lexicon]]**   
+- **[[The LIØNSBERG Lexicon]]**   
 - **[[The LIONSBERG Covenant and Law]]**  
 	- The LIONSBERG Covenant
 	- **[[The LIØNSBERG Constitution]]**  

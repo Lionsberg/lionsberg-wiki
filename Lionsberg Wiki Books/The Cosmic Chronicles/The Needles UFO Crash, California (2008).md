@@ -119,4 +119,4 @@ Residents reported experiencing unusual disturbances, such as power fluctuations
 - **Books and Documentaries:**
     
     - Dolan, Richard. _UFOs and the National Security State: The Cover-Up Exposed._
-    - Howe, Linda Moulton. _Glimpses of Other Realities, Volume II: High Strangeness._
+    - Howe, Linda Moulton. _Glimpses of Other Realities, Volume III: High Strangeness._

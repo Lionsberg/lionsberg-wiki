@@ -1,4 +1,4 @@
-The [[ONE]] never leaves any one behind. 
+The [[ØNE]] never leaves any one behind. 
 
 ___
 

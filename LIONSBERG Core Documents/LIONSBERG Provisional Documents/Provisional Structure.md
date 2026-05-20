@@ -3,7 +3,7 @@
 
 For more information on the inception of the Lionsberg / Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[Lionsberg Summary]]. 
 
-Simply, it is designed and built as a [[New Earth Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the [[ONE]] and [[All]].  
+Simply, it is designed and built as a [[New Earth Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the [[ØNE]] and [[All]].  
 _____
 ## 2025 Update
 
@@ -28,11 +28,11 @@ While rooting itself in transcendence, the **provisional structure** for [[The 7
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts:  
-1. From [[ONE]] in service of [[All]], LIONSBERG exists and flows.  
+1. From [[ØNE]] in service of [[All]], LIONSBERG exists and flows.  
 2. Lionsberg is a mythical spiritual name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Goal]] points at.  
 3. From the Meta level, LIONSBERG incarnates in various SpatioTemporal Domains as a reflection of the [[Creator's Intent]].  
 4. One level up from the overarching and uniting Spirit / Intention / Goal is the Divine Right and Moral Responsibility of Sovereign Individual, Groups, and Localities to Voluntarily Associate to bring the Creator's Intent into Reality.  
-5. As a result of this Voluntary Association of Sovereign entities, [[LIONSBERG]] emerges in any domain as a Sovereign Spiritual Body, co-creating in service of [[ONE]] and [[All]].  
+5. As a result of this Voluntary Association of Sovereign entities, [[LIONSBERG]] emerges in any domain as a Sovereign Spiritual Body, co-creating in service of [[ØNE]] and [[All]].  
 	1. This Spiritual Body is *by nature and definition* superordinate to any and all SpatioTemporal Authority.  
 	2. This Spiritual Body and the associated pattern language / operating system / Way of Being are already operative in realms and dimensions beyond Earth. This is an incarnation, not a local human or Earthly creation.  
 	3. The Spiritual Body and all its constituent holofractal elements are eternally free to self-organize and self-govern on the Divine Right and Moral Responsibility to do so.  
@@ -40,7 +40,7 @@ Core Concepts:
 6. One level up from Individuals in voluntary association are [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Teams]], [[Groups]], and [[Communities]] in voluntary association. 
 	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association]] by default unless otherwise self-organized and differentiated.  
 7. From there, LIONSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
-8. The [[Lionsberg Wiki Books]], [[LIONSBERG Manifesto]], [[The LIØNSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ONE]] and [[All]].  
+8. The [[Lionsberg Wiki Books]], [[LIONSBERG Manifesto]], [[The LIØNSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ØNE]] and [[All]].  
 9. The Lionsberg System is designed as an Invitational System, Platform, and Way for each inhabitant of a given Domain to voluntarily take up an equal [[New Citizenship]] in the [[New Civilization]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 
 _All of the levels above happen before any legal structure, and exist purely on the basis of Spiritual resonance and voluntary association, collaboration, culture, social structure, and governance structure. This transcendent understanding of our Divine Right and Responsibility to Self-Organize and Self-Govern as a Tribe of Tribes / Group of Groups / Community of Communities is critical to protecting the Sovereignty and Independence of the Individuals and localities collaborating, while ensuring that there is no overly-centralized node or dependency, that if attacked or compromised, can bring down the Whole. All following and future structural elements are merely tools and supports for the Sovereignties co-operating them_. 

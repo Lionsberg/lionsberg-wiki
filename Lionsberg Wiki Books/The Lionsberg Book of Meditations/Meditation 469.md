@@ -1,4 +1,4 @@
-How [[Good]] something is depends on how closely it conforms to the [[Standard]] of Goodness, which is [[ONE]].
+How [[Good]] something is depends on how closely it conforms to the [[Standard]] of Goodness, which is [[ØNE]].
 
 ___
 

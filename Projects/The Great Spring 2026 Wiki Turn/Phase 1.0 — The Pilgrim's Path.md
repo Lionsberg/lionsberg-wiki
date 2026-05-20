@@ -140,7 +140,7 @@ What a pilgrim actually walks, in order:
 - Makes the decision to cross. The Threshold experience.
 
 ### Stage 3 — Orientation
-- Reads **`The Story of LIØNSBERG.md`** (Volume I of the Codex) — receives the cosmic context, the True Myth, the why-now
+- Reads **`The Story of LIØNSBERG.md`** (Volume II of the Codex) — receives the cosmic context, the True Myth, the why-now
 - Reads the broader articulation of the Pattern (in `Welcome to LIØNSBERG.md`) — encounters the 12 Elements as living DNA
 - Reads about the Game (in `Welcome to LIØNSBERG.md`) — sees the form
 
@@ -158,13 +158,13 @@ What a pilgrim actually walks, in order:
 - Each person identifies who they will invite next ([[Pass The Flame]])
 
 ### Stage 6 — Weekly Practice
-- Uses **`The LIØNSBERG Playbook.md`** (Volume IV) for weekly rhythm
+- Uses **`The LIØNSBERG Playbook.md`** (Volume V) for weekly rhythm
 - Runs the [[Seven Moves]]: Form a Circle → Weave Spirit, Hearts, and Minds → Choose a Quest → Do the Work → Celebrate, Learn, and Improve → Share the Stories → Pass The Flame
 - Pursues the quest
 - Maintains the daily practice (The First Practice)
 
 ### Stage 7 — Pattern Encounter
-- As questions arise about deeper structures (governance, economy, conflict, federation), the Circle consults **`The LIØNSBERG Pattern Language.md`** (Volume II / The Way)
+- As questions arise about deeper structures (governance, economy, conflict, federation), the Circle consults **`The LIØNSBERG Pattern Language.md`** (Volume III / The Way)
 - Specific patterns answer specific questions
 - The Pattern is encountered not as theory but as living answer
 
@@ -175,7 +175,7 @@ What a pilgrim actually walks, in order:
 - Individual and Circle reborn
 
 ### Stage 9 — The Sacred Ascent (for those called)
-- Those called to deeper personal practice walk **`The Sacred Ascent.md`** (Volume VII)
+- Those called to deeper personal practice walk **`The Sacred Ascent.md`** (Volume IX)
 - 72-Gate spiral of mastery: spirit, body, mind, craft
 - Martial, yogic, healing, contemplative arts as living synthesis
 - Closes in the Eternal Divine Play — the final movement that becomes the threshold into Stage 12
@@ -213,10 +213,10 @@ This is the complete arc. Every existing entry-point page belongs somewhere on i
 | `Welcome to LIØNSBERG.md` | Layer 2 — Stages 2-3 (Threshold + Orientation) — the **functional gateway** that walks the pilgrim from arrival into action |
 | `The LIØNSBERG Quick Start Guide.md` | Layer 2 — Stage 5 (First 90 Minutes) |
 | `The Invitation.md` | Layer 2 — Stage 2 (Threshold), letter form |
-| `The Story of LIØNSBERG.md` | Layer 3 — Volume I (Codex) |
-| `The Great Game of LIØNSBERG.md` | Layer 3 — Volume III (Codex) |
-| `The LIØNSBERG Playbook.md` | Layer 3 — Volume IV (Codex) |
-| `The Sacred Ascent.md` | Layer 3 — Volume VII (Codex), already substantially begun |
+| `The Story of LIØNSBERG.md` | Layer 3 — Volume II (Codex) |
+| `The Great Game of LIØNSBERG.md` | Layer 3 — Volume IV (Codex) |
+| `The LIØNSBERG Playbook.md` | Layer 3 — Volume V (Codex) |
+| `The Sacred Ascent.md` | Layer 3 — Volume IX (Codex), already substantially begun |
 | `The LIONSBERG Experience.md` + its supporting Experience folder | Layer 2 — the wayfinding spine |
 
 ### Should be folded or repurposed
@@ -236,9 +236,9 @@ The entire `LIONSBERG Experience/` folder is an artifact of a previous build. It
 | Page | Role |
 |---|---|
 | `The LIØNSBERG Sacred Codex.md` (new, at wiki root) | Layer 3 — the binding/cover, single architectural declaration |
-| `The LIØNSBERG Pattern Language.md` | Layer 3 — Volume II, requires Phase 3 rebuild (Pattern = Way unification) |
-| `The LIØNSBERG Lexicon.md` | Layer 3 — Volume V (currently `LIONSBERG Lexicon.md` exists — needs canonical positioning) |
-| `The Book of LIØNSBERG.md` | Layer 3 — Volume VI (the integrated long-form text — folds Genesis/Caves, Sacred Ascent, Playbook into one mythic narrative) |
+| `The LIØNSBERG Pattern Language.md` | Layer 3 — Volume III, requires Phase 3 rebuild (Pattern = Way unification) |
+| `The LIØNSBERG Lexicon.md` | Layer 3 — Volume VII (currently `LIONSBERG Lexicon.md` exists — needs canonical positioning) |
+| `The Book of LIØNSBERG.md` | Layer 3 — Volume VIII (the integrated long-form text — folds Genesis/Caves, Sacred Ascent, Playbook into one mythic narrative) |
 
 ---
 

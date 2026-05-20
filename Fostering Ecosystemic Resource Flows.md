@@ -41,7 +41,7 @@ adapted for the New.
 
 It is not a tax. It is not a fee.  
 It is the economic expression of  
-**Love [[ONE]]. Love One Another. Love All.**
+**Love [[ØNE]]. Love One Another. Love All.**
 
 From the first tenth freely given by each,  
 the Commons builds what no single Circle could build alone:

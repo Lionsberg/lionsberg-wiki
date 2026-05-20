@@ -46,7 +46,7 @@ Work is meaningful when it contains genuine difficulty, real contribution, and a
 
 Arizmendi: _"We are going to help God finish our world."_
 
-This is the deepest understanding of Meaningful Work — co-creation with [[ONE]] in the ongoing emergence of Reality.
+This is the deepest understanding of Meaningful Work — co-creation with [[ØNE]] in the ongoing emergence of Reality.
 
 ___
 

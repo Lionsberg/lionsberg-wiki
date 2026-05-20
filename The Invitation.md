@@ -183,6 +183,6 @@ You are exactly who we have been waiting for.
 
 ---
 
-_From [[ONE]], all things proceed._  
-_To [[ONE]], all things return._  
-_In [[ONE]], all things cohere._  
+_From [[ØNE]], all things proceed._  
+_To [[ØNE]], all things return._  
+_In [[ØNE]], all things cohere._  

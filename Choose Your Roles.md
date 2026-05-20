@@ -4,7 +4,7 @@ From before the foundations of the world,
 There has always been a place only you could fill.  
 Not a title. Not a mask. Not a job description.  
 But the truest expression of **who you really are** —  
-A living note in the Symphony of [[ONE]].
+A living note in the Symphony of [[ØNE]].
 
 Now, gathered in your [[Circle]], with a [[Quest]] before you,  
 The question ripens:

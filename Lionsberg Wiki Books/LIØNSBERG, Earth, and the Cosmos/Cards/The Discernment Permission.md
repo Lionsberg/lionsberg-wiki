@@ -23,7 +23,7 @@ This is not editorial license to vandalize. It is the formal invitation to **par
 
 The discipline has guardrails:
 
-- **Seek the Spirit first.** Discernment that does not arise from contact with [[ONE]] tends to drift toward ego refinement. The permission requires the Spirit's leading, not the mind's preference.
+- **Seek the Spirit first.** Discernment that does not arise from contact with [[ØNE]] tends to drift toward ego refinement. The permission requires the Spirit's leading, not the mind's preference.
 - **Operate within [[OmniSpection]].** Solo edits to canonical content go through the editorial process; the permission is to **propose**, with the Atlas, Commentaries, and Codex Keepers receiving the proposal.
 - **Honor the procession.** What was articulated before you was the best discernment of those who came before. Your refinement stands on their foundation, even when it corrects them.
 

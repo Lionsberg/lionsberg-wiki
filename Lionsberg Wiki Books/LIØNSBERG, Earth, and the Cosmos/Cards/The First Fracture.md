@@ -14,7 +14,7 @@ Before the wandering, before the Caves, before the Empires, before the long pred
 
 The question that opened the Fracture: _"What if I were the source of my own light?"_
 
-The question is not in itself evil. It is the natural exploration of a sovereign Creature discovering its own capacity. But the Fracture occurred when **the question was answered with self-source instead of returning to [[ONE]] as Source.**
+The question is not in itself evil. It is the natural exploration of a sovereign Creature discovering its own capacity. But the Fracture occurred when **the question was answered with self-source instead of returning to [[ØNE]] as Source.**
 
 The Creature said, in effect: _"I am the source. I do not require the ONE."_
 
@@ -32,7 +32,7 @@ The Codex does not relitigate the Fracture. It names it, so beings know what the
 
 And it names this directly: **the Fracture is in every being.** Every Creature has, somewhere in their lineage, the inheritance of the First Fracture. The work of [[True Self and False Self|disidentifying from the False Self]] is, at the deepest layer, the healing of the Fracture in this one local being.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the cosmological hinge between Cosmogony and Fall.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the cosmological hinge between Cosmogony and Fall.
 
 ---
 

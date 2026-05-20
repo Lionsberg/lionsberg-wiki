@@ -57,9 +57,9 @@ ___
 
 ## The Source
 
-All twelve elements emanate from [[ONE]] — the [[Central Animating Spirit]] of [[Love]] from which all patterns flow and to which all patterns return.
+All twelve elements emanate from [[ØNE]] — the [[Central Animating Spirit]] of [[Love]] from which all patterns flow and to which all patterns return.
 
-The elements are the DNA. [[ONE]] is the Source of the DNA. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
+The elements are the DNA. [[ØNE]] is the Source of the DNA. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
 
 ___
 

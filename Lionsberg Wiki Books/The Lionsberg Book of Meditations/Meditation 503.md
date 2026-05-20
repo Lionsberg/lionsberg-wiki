@@ -1,4 +1,4 @@
-[[ONE]] Is, Was, and Will Be, beyond [[All]] Its finite creations that come and go. 
+[[ØNE]] Is, Was, and Will Be, beyond [[All]] Its finite creations that come and go. 
 
 ___
 

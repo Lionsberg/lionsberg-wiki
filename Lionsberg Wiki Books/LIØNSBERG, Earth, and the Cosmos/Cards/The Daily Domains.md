@@ -22,7 +22,7 @@ The implication for [[The Hub Network Topology|the Hub Network]] is concrete: ph
 
 The implication for the individual is also concrete: **a day without all three is a malformed day.** A life without all three is a malformed life. The Old World produced malformed lives at scale; the New Civilization restores the right proportions.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as the daily-life pattern.
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the daily-life pattern.
 
 ---
 

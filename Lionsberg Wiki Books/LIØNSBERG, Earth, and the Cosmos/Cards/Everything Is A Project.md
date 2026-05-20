@@ -31,7 +31,7 @@ The convention also implies a **discipline**: if a piece of work cannot be artic
 
 The exception is **Rest** — Sabbath time, contemplative time, the seventh day. Rest is **not a project**. The convention applies to the work; the Rest is what makes the work sustainable.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as the foundational delivery convention; cross-references to [[The Hub Network Topology]] and the Integrated Delivery patterns within [[The LIØNSBERG Pattern Language]] (Volume II).
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the foundational delivery convention; cross-references to [[The Hub Network Topology]] and the Integrated Delivery patterns within [[The LIØNSBERG Pattern Language]] (Volume III).
 
 ---
 

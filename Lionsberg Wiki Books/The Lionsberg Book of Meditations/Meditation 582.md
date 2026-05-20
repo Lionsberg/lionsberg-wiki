@@ -1,6 +1,6 @@
-[[All]] forms of Life arise from, are sustained by, and return to [[ONE]] Generative Source. 
+[[All]] forms of Life arise from, are sustained by, and return to [[ØNE]] Generative Source. 
 
-There is only [[ONE]] Spirit that creates and sustains the Life in [[All]] things.
+There is only [[ØNE]] Spirit that creates and sustains the Life in [[All]] things.
 
 ___
 

@@ -49,7 +49,7 @@ The DRA also has **exit protocols**. A stakeholder who no longer consents to rem
 
 This is the **architecture** Citizen Led Governance contributes to the Codex. The DRA is the structural form within which the [[The Terms of the New Covenant]] are lived, within which [[The Network of Commitments]] tracks promises, within which [[Throughput of The Goal]] is measured, within which the [[The Quest]] is undertaken. Without the DRA architecture, the Pattern has nowhere to live operationally. With it, the Pattern has its **organ**.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as a foundational Pattern within Element 4 (Governance and Wise Eldership) and Element 2 (Holofractal Omnifederation).
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational Pattern within Element 4 (Governance and Wise Eldership) and Element 2 (Holofractal Omnifederation).
 
 ---
 

@@ -39,7 +39,7 @@ In the [[The LIØNSBERG Lexicon|Lexicon]], Sachchidananda is one of the **bridge
 
 The Pattern does not require the pilgrim to learn Sanskrit. The Pattern requires the pilgrim to know that **the reality these words point toward is real** — and to make contact with it, by whatever path their formation opens.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as a foundational Meta Layer ontological entry, and in [[The Sacred Ascent]] (Volume VII) as the ground-state of the eternal spiral.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational Meta Layer ontological entry, and in [[The Sacred Ascent]] (Volume IX) as the ground-state of the eternal spiral.
 
 ---
 

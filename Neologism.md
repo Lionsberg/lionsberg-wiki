@@ -2,4 +2,4 @@
 
 A newly coined word or expression. 
 
-The [[LIONSBERG Lexicon]] contains many of them. 
+[[The LIØNSBERG Lexicon|The Lexicon]] contains many of them. 

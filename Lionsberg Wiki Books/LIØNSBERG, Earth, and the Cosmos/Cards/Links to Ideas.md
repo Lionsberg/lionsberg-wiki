@@ -20,7 +20,7 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 	- **[[The Great UnVeiling]]**  
     
 
-- **[[The Book of LIONSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
+- **[[The Book of LIØNSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
     
 - **[[The LIONSBERG Covenant and Law]]** 
     

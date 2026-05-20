@@ -26,4 +26,4 @@ When the Codex says **all things rise toward The Goal**, _all things_ means all 
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: [[the nameless one]] decision 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn)._
-_Related: [[The Story of LIØNSBERG]], [[The LIØNSBERG Pattern Language]], [[ONE]]._
+_Related: [[The Story of LIØNSBERG]], [[The LIØNSBERG Pattern Language]], [[ØNE]]._

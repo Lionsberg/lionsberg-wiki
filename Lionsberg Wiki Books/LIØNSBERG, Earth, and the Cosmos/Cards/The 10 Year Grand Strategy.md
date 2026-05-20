@@ -26,7 +26,7 @@ A **20-Year Generational Contingency** is held in reserve if the primary timelin
 
 **Act as if we have 10 years. Build as if we have centuries.**
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume III) as the canonical timeline architecture.
+Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the canonical timeline architecture.
 
 ---
 

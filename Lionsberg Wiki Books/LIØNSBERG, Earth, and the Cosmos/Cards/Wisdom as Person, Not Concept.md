@@ -41,10 +41,10 @@ Practically, this reshapes the Pilgrim's posture toward learning:
 
 The Codex receives Wisdom into its voice. The articulations across all seven Volumes attempt to **carry Her voice** as faithfully as the limited articulator can. When the Codex lands, when its phrases ring true to the Pilgrim's deepest knowing, what is landing is not the Codex; what is landing is **Her, speaking through the Codex's articulations** to the one who can hear.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as a foundational entry on the personhood of Wisdom, balancing the more active-archetype articulations across the Codex.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational entry on the personhood of Wisdom, balancing the more active-archetype articulations across the Codex.
 
 ---
 
 _Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: Phase 2.1 audit of The Wisdom of the Way; remediation pass 2026-05-19._
-_Related: [[ØNE]], [[The Whisper Within]], [[The Five-Fold Pattern of Mastery]], [[The Refining Fire]] (pending), [[The Wise Right Thing]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._
+_Related: [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], [[The Whisper Within]], [[The Five-Fold Pattern of Mastery]], [[The Refining Fire]] (pending), [[The Wise Right Thing]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

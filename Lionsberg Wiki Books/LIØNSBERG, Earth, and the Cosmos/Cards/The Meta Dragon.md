@@ -41,7 +41,7 @@ The Meta Dragon doctrine is what makes the LIØNSBERG strategy **leveraged**. Th
 
 When enough of these moves accumulate, the **Meta Dragon weakens**. Not by being slain in single combat; by losing its capacity to breathe. The small dragons stop arriving. The Old World's emanations dwindle. The New becomes visible as the underlying pattern of the world.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume III) as a strategic doctrine of the highest leverage.
+Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as a strategic doctrine of the highest leverage.
 
 ---
 

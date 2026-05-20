@@ -1,4 +1,4 @@
-The progress we make towards re-union with [[ONE]] and [[All]] is the measure of our lives. 
+The progress we make towards re-union with [[ØNE]] and [[All]] is the measure of our lives. 
 
 ___
 

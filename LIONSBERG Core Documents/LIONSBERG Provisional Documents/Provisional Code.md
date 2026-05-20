@@ -22,7 +22,7 @@ Wrong things are things that are done in a spirit of Fear or Self-Interest that 
 _____  
 [[Love]].
 
-Love [[ONE]] and Love [[All]] as your Self.  
+Love [[ØNE]] and Love [[All]] as your Self.  
 ___  
 From any of these simple word tools, the entire Universal Law and Code can be derived.  
 ___
@@ -41,7 +41,7 @@ From the One Spirit behind the list of Universal Values reflected in [[The LIONS
 
 It is called the Lionsberg | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
 
-This Meta Code is only a shallow and surfacial articulation of the Spirit that impels us to do our best to act perfectly, wisely, and rightly in service of [[ONE]] and [[All]]. 
+This Meta Code is only a shallow and surfacial articulation of the Spirit that impels us to do our best to act perfectly, wisely, and rightly in service of [[ØNE]] and [[All]]. 
 
 Nevertheless, recognizing the need to forge a basis for continuously improving our articulation and embodiment of it, we establish the following as a [[Starting Point]] and approximation: 
 
@@ -247,7 +247,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ## A Return to Simplicity 
 
-The [[Meta Code]] can be described in one word like [[ONE]] or [[Love]]. 
+The [[Meta Code]] can be described in one word like [[ØNE]] or [[Love]]. 
 
 In can be described in Five words like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]]. 
 

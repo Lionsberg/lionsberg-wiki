@@ -41,7 +41,7 @@ The Pattern also has its **counterfeit**. The Old World uses "you already know t
 
 The Pattern names what is happening in this very hour, across the planet, in millions of souls. The awakening of the [[The First Three Percent and Fibonacci Spread|First Three Percent]] is not the acquisition of new knowledge by 250 million people. It is **the simultaneous ReMembering of one Pattern by 250 million souls**, each in their own context, each in their own language, each in their own time-and-place — but all recognizing the same underlying lattice. The convergence is the evidence.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational epistemic entry of the Meta Layer, and informs [[The LIØNSBERG Pattern Language]] (Volume II) at every Pattern's claim to canonicity.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational epistemic entry of the Meta Layer, and informs [[The LIØNSBERG Pattern Language]] (Volume III) at every Pattern's claim to canonicity.
 
 ---
 

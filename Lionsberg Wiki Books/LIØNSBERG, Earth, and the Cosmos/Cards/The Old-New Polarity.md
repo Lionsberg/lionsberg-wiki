@@ -31,7 +31,7 @@ Examples in the operational register:
 > Old: Empire by Force. New: Federation by mutual consent.
 > Old: Anti-Goodness. New: [[Right Relationship and Sacred Reciprocity]].
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational rhetorical form, with cross-reference to every Volume that uses it.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational rhetorical form, with cross-reference to every Volume that uses it.
 
 ---
 

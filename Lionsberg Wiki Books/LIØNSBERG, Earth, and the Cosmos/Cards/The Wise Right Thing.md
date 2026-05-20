@@ -12,7 +12,7 @@ The Compass of action that fits at the heart of the Codex.
 
 When the Pilgrim faces a decision, the Pilgrim does not ask "what is permitted?" or "what is profitable?" or "what is expected?" The Pilgrim asks: **What is the Wise Right Thing?**
 
-The phrase is precise. Not merely the **right** thing — correct, lawful, ethical — because the Old World has produced many corrupted moralities that issue "correct" answers leading to disaster. Not merely the **wise** thing — clever, strategic, advantageous — because cleverness without rightness becomes manipulation. The integration is the test: **wise** AND **right**, fused, answered in the present moment, under the standard of [[The Goal]] and the gaze of [[ONE]].
+The phrase is precise. Not merely the **right** thing — correct, lawful, ethical — because the Old World has produced many corrupted moralities that issue "correct" answers leading to disaster. Not merely the **wise** thing — clever, strategic, advantageous — because cleverness without rightness becomes manipulation. The integration is the test: **wise** AND **right**, fused, answered in the present moment, under the standard of [[The Goal]] and the gaze of [[ØNE]].
 
 The phrase recurs throughout the Codex with deliberate weight. The Book of Meditations (Med 1, 10, 90, and dozens of subsequent meditations) returns to it as a refrain. [[The Lionsberg Rules]] articulates the Operating Rule precisely:
 
@@ -32,7 +32,7 @@ Several disciplines support the discernment:
 
 - **The Whisper Within** — the inner sanctuary the Pilgrim has trained themselves to hear is the primary input. The deep felt-sense of rightness or wrongness. The body's response before the mind has caught up.
 - **The Circle** — the Pilgrim is not alone in the discernment. The Circle holds the Pilgrim's question and offers reflection. Sometimes the Wise Right Thing is what the Pilgrim resists; the Circle helps surface that.
-- **The Pattern** — every Pattern in [[The LIØNSBERG Pattern Language|Volume II]] is a previously-discerned Wise Right Thing in a recurring situation. The Pilgrim uses the Pattern Language as the codified wisdom of those who have faced similar discernments before. New Patterns get added when new Wise Right Things are discovered.
+- **The Pattern** — every Pattern in [[The LIØNSBERG Pattern Language|Volume III]] is a previously-discerned Wise Right Thing in a recurring situation. The Pilgrim uses the Pattern Language as the codified wisdom of those who have faced similar discernments before. New Patterns get added when new Wise Right Things are discovered.
 - **The Elder** — the Elder has walked further. The Elder has discerned Wise Right Things across more terrain. When the Pilgrim is genuinely stuck, the Elder is asked. The Elder does not give the answer; the Elder asks the question that helps the Pilgrim see what the Pilgrim already partly knows.
 - **The fruits** — over time, the Pilgrim learns to recognize their own discernment by its fruits. Decisions made under genuine "Wise Right" produce certain fruits. Decisions made under "Wise without Right" produce other fruits. Decisions made under "Right without Wise" produce yet others. The Pilgrim grows in self-knowledge by tracking the fruits.
 
@@ -50,7 +50,7 @@ The Wise Right Thing also has a **temporal property**. Sometimes the Wise Right 
 
 This is the **Operating Rule** of the Codex made operational. It is the standard the Pilgrim measures themselves against at the end of each day, each cycle, each Quest, each life. It is the compass that orients every other Pattern in the Volume Language. It is the Way made minute-by-minute.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational Meta Layer compass-entry, and reverberates through [[The LIØNSBERG Pattern Language]] (Volume II) at every Pattern's call to discernment.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational Meta Layer compass-entry, and reverberates through [[The LIØNSBERG Pattern Language]] (Volume III) at every Pattern's call to discernment.
 
 ---
 

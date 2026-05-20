@@ -1,4 +1,4 @@
-There is [[ONE]] [[Way]], which is the [[Way]] towards [[ONE]]. 
+There is [[ØNE]] [[Way]], which is the [[Way]] towards [[ØNE]]. 
 
 The [[Way]] towards [[Life]], [[Liberty]], [[Love]], and [[Light]] is to travel towards their [[Source]]. 
 

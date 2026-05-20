@@ -21,7 +21,7 @@ A seventy-seven year old poet in Hope Idaho
 
 Over the course of six months  
 J and Lorenzo spent hundreds of hours [[MindWeaving]]  
-While Lorenzo edited the entirety of [[The Book of LIONSBERG]]  
+While Lorenzo edited the entirety of [[The Book of LIØNSBERG]]  
 
 J mind-mapped many of their dialogues  
 Resulting in the images contained herein  
@@ -53,7 +53,7 @@ ___
 # Our InterWoven Current Best Understanding Is Approximately As Follows 
 
 _Subject to the woefully inadequate [[Word Tools]] available to communicate._  
-_The [[LIONSBERG Lexicon]] is a necessary companion to decipher the text that follows._  
+_[[The LIØNSBERG Lexicon|The Lexicon]] is a necessary companion to decipher the text that follows._  
 _Please do not assume that We are using [[Word Tools]] in the same way._  
 ____  
 _What is collectively required, and therefore what We are engaged in,_  
@@ -218,7 +218,7 @@ This is important because [[If It Is True]]:
 - This is The Big Show  
 - [[The Final Test]] at the end of an age     
 - Who knows about this moment?  
-	- [[ONE]]  
+	- [[ØNE]]  
 	- [[Earth]]  
 	- [[Humanity]]  
 	- [[Non-Human Intelligence (NHI)]]    
@@ -281,7 +281,7 @@ What gratitude We have for each and every moment.
 
 We who incarnated for this moment.  
 Avatara energies in varying degrees of power, coherence, and awareness.  
-Timeless Fractals that Incarnate when and where We need to in service of [[ONE]] and [[All]].  
+Timeless Fractals that Incarnate when and where We need to in service of [[ØNE]] and [[All]].  
 In order to Experience Our Selves as One of the Ones of the ONE.  
 
 ## LIONSBERG Universe(ity)  
@@ -295,7 +295,7 @@ LIONSBERG Universe(ity).
 
 Calling the Called out of [[The Masses]], out of [[The Caves]], and into an environment purpose-built to cultivate and unleash their Divine Potential and Power.  
 
-Cultivating and channeling the Power of the [[ONE]] to accomplish the Will and Intention of the [[ONE]] in service of [[All]].    
+Cultivating and channeling the Power of the [[ØNE]] to accomplish the Will and Intention of the [[ØNE]] in service of [[All]].    
 
 ## Perception  
 
@@ -326,7 +326,7 @@ ____
 
 ## Stories   
 
-[[The Story of LIØNSBERG]] is [[The Story]] of [[ONE]] and [[All]].  
+[[The Story of LIØNSBERG]] is [[The Story]] of [[ØNE]] and [[All]].  
 There is no True Story that is not a part of it.  
 
 [[Conscious Agents]] tend to [[Seek Patterns]] and [[Tell Stories]]  

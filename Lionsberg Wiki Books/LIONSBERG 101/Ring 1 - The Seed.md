@@ -66,7 +66,7 @@ Learning is not separate from doing — it is fused with it. Every action genera
 
 ## The Way It Works
 
-[[ONE]] awakens.  
+[[ØNE]] awakens.  
 ONE shares with another.  
 They form a [[Circle]].  
 The Circle establishes [[Field of Agreements|Agreements]].  

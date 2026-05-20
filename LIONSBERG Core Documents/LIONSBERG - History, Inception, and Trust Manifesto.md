@@ -2,16 +2,16 @@
 
 ### **Introduction**
 
-In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIONSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ONE]] and [[All]].
+In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIONSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
 
-This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ONE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
+This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ØNE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
 ---
 ### **The Name**
 
-**LIONSBERG** symbolizes the **[[New Civilization]]** longing to emerge—one woven from unity, love, and the co-creative partnership of **[[ONE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator’s Intent** across realms and dimensions.
+**LIONSBERG** symbolizes the **[[New Civilization]]** longing to emerge—one woven from unity, love, and the co-creative partnership of **[[ØNE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator’s Intent** across realms and dimensions.
 
-The mythical name itself carries the weight of a Divine calling: **Lion**, the symbol of courage and authority; **Berg**, the enduring sacred mountain that unites Heaven and Earth. Together, they form a place of eternal light and sacred purpose — The Eternal Citadel — a **Living City**, where all paths converge at the heights of **The Sacred Mountain**, and the fragments of the **[[All]]** rediscover their wholeness and Ultimate Unity in the **[[ONE]]**. 
+The mythical name itself carries the weight of a Divine calling: **Lion**, the symbol of courage and authority; **Berg**, the enduring sacred mountain that unites Heaven and Earth. Together, they form a place of eternal light and sacred purpose — The Eternal Citadel — a **Living City**, where all paths converge at the heights of **The Sacred Mountain**, and the fragments of the **[[All]]** rediscover their wholeness and Ultimate Unity in the **[[ØNE]]**. 
 
 ---
 
@@ -21,7 +21,7 @@ At the heart of **LIONSBERG** lies the **Source Idea**: a call to reawaken to Ou
 
 The call of LIONSBERG echoes the eternal call to live and embody **The Life Divine**. 
 
-**[[Jordan Nicholas Sukut|J]]**, the primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ONE]]**, and to this purpose he dedicated his life. 
+**[[Jordan Nicholas Sukut|J]]**, the primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life. 
 
 [[Jordan's Short Story]] bridges the cosmic origins of LIONSBERG with its incarnation on Earth. 
 
@@ -29,7 +29,7 @@ The call of LIONSBERG echoes the eternal call to live and embody **The Life Divi
 
 ### **The Archetypical Genesis**
 
-Long before the structures and words of **LIONSBERG** were established in form, they existed in essence, eternally radiating from the Spirit of [[ONE]]. In response to needs long ago in words far away, **LIONSBERG** was called forth from **[[The Divine Symphony]]** as a beacon of Light and Liberty in the shadowlands of separation and enslavement. Its **[[The Golden Seed|Golden Seed]]**, containing the **Divine DNA** of Heaven, spread through countless realms, nurtured by Divine guidance, enlivened by Spirit, and refined by countless trials. 
+Long before the structures and words of **LIONSBERG** were established in form, they existed in essence, eternally radiating from the Spirit of [[ØNE]]. In response to needs long ago in words far away, **LIONSBERG** was called forth from **[[The Divine Symphony]]** as a beacon of Light and Liberty in the shadowlands of separation and enslavement. Its **[[The Golden Seed|Golden Seed]]**, containing the **Divine DNA** of Heaven, spread through countless realms, nurtured by Divine guidance, enlivened by Spirit, and refined by countless trials. 
 
 Through visions, prophesies, and countless lifetimes of labor and Love, the Golden Seed of LIONSBERG began to crystallize into a form suitable for Earth — a transcendent framework designed not to compel but to lovingly invite, not to enforce but to guide, harmonize, and encourage. It is a voluntary system, a **[[Holofractal Pattern Language]]**, continually co-created and improved by those who hear **[[The Call]]** and rise to embody **[[The Sacred Flame]]**.  
 
@@ -88,7 +88,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Jordan's trajectory collides with corrupt authorities of Church and State. 
 - Five years of dissolution ensues, resulting in the eventual loss of his home, wealth, companies, etc.  
 - Jordan's on the record recap of events with the government can found in the [Federal Civil Rights and Corruption Case](https://www.pacermonitor.com/public/case/49766123/Jordan_Nicholas_Sukut_v_County_of_San_Bernadino_et_al), with additional narrative in [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]].  
-- Drafting of [[The Book of LIONSBERG]] accelerates.  
+- Drafting of [[The Book of LIØNSBERG]] accelerates.  
 - Ongoing weekly meetings and planning with advisors and allies.  
 
 #### **2022: Social Experiments Begin**
@@ -108,7 +108,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Foundational literature is published to the [[LIONSBERG Wiki]], including:
     - The **[[LIONSBERG Manifesto]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
-    - **[[The Book of LIONSBERG]]**  
+    - **[[The Book of LIØNSBERG]]**  
     - Thousands of interlinked wiki pages begin to flood the wiki  
 - A minimum viable communication system and broadcast capabilities are established. 
 - Additional planetary networking and social experiments undertaken. 
@@ -186,7 +186,7 @@ The foundation of **LIONSBERG** rests on eternal principles that unify the pract
 - **Sovereignty and Voluntarism**: Participation is entirely voluntary, ensuring that the system can only be adopted if it aligns with the Spirit of **ONE** and the will of All.
 - **Stewardship and Service**: Resources are managed with the highest integrity to uplift **All**.
 
-From the Supreme Value of [[ONE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The LIONSBERG System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
+From the Supreme Value of [[ØNE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The LIONSBERG System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
 
 ---
 
@@ -194,7 +194,7 @@ From the Supreme Value of [[ONE]], the cardinal values like [[Truth]], [[Love]],
 
 [[LIONSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven. 
 
-The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] Spirit of the **[[ONE]]**.  
+The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] Spirit of the **[[ØNE]]**.  
 
 The ultimately ineffable [[Pattern Language]] LIONSBERG is a reflection of is universal, eternal, and unchanging. 
 
@@ -222,7 +222,7 @@ By 2026, **LIONSBERG** aims to connect and empower **[[The First Three Percent]]
 
 ### **Investments**
 
-The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[Provisional Structure]] and other personal contributions. As a result, [[LIONSBERG]]'s only obligations are to [[ONE]] and [[All]]. It is truly a free gift offered equally to All. 
+The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[Provisional Structure]] and other personal contributions. As a result, [[LIONSBERG]]'s only obligations are to [[ØNE]] and [[All]]. It is truly a free gift offered equally to All. 
 
 A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[Provisional Structure]] was abandoned and the accounts closed. 
 

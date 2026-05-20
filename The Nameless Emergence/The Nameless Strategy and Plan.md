@@ -28,7 +28,7 @@ But it is the way we are playing it.
 
 **LIONSBERG** is not a human invention.
 
-It is a representation of a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial - manifesting wherever and whenever beings choose to remember [[ONE|Who They Are]] and co-create Heaven in their Time and Space.
+It is a representation of a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial - manifesting wherever and whenever beings choose to remember [[ØNE|Who They Are]] and co-create Heaven in their Time and Space.
 
 Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetary and trans-dimensional network of allies to:  
 - Localize and adapt the universal pattern language to English and Earth
@@ -324,7 +324,7 @@ All participants accept [[The Sacred Covenant]]:
 2. **Sovereignty:** Each circle, guild, instance is autonomous within the pattern
 3. **Subsidiarity:** Power flows from bottom-up, not top-down
 4. **Transparency:** Learnings shared openly for benefit of All
-5. **Accountability:** To [[ONE]], to Self, to Circle, to Whole
+5. **Accountability:** To [[ØNE]], to Self, to Circle, to Whole
 6. **Non-Harm:** Do not weaponize pattern against others or movement
 7. **Co-Creation:** We forge Heaven On Earth together, not alone
 
@@ -570,7 +570,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 ### B. Circle Practices
 
 1. **Weekly Gathering:** ~90 minutes for connection, quest progress, mutual support
-2. **Opening Ritual:** Brief centering to remember [[ONE|Who We Are]] and anchor [[The First Practice]]  
+2. **Opening Ritual:** Brief centering to remember [[ØNE|Who We Are]] and anchor [[The First Practice]]  
 3. **Check-In Round:** Each person shares where they are
 4. **Quest Coordination:** Progress, obstacles, support needed
 5. **Learning Harvest:** What are we discovering?

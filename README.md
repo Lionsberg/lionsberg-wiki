@@ -18,7 +18,7 @@ It is not an organization. There is no one to join, no dues to pay, no leader to
 
 This seed is nothing new. It has been born, evolved, and tested across unimaginable expanses of time and space — already lived and embodied by countless civilizations throughout the cosmic order. Now localized and adapted to English and Earth. Not as anything in and of itself, but as one humble reflection of a Divine Pattern, a living Way — for the way that can be named is not the Way.
 
-Ten thousand voices and countless lifetimes of wisdom are woven into the millions of words herein — rooted in absolute and unconditional love for [[ONE]], One Another, and [[All]]. What matters is not the words themselves or who wrote them but the Spirit they carry and the fruit they bear.
+Ten thousand voices and countless lifetimes of wisdom are woven into the millions of words herein — rooted in absolute and unconditional love for [[ØNE]], One Another, and [[All]]. What matters is not the words themselves or who wrote them but the Spirit they carry and the fruit they bear.
 
 Inside, you will find three things as a gateway to infinity beyond:
 
@@ -26,9 +26,9 @@ Inside, you will find three things as a gateway to infinity beyond:
 **A Pattern** — the irreducible DNA of how sovereign beings throughout the cosmos organize, heal, and co-create Heaven together. Independently discovered and proven across countless civilizations, 1,500 years on Earth, and tens of millions of dollars of research.  
 **A Game** — a cooperative, real-world game of planetary transformation where every person, family, community, and bioregion finds their unique role in co-creating **[[Heaven On Earth]]**.
 
-Beyond those like [[The LIØNSBERG Sacred Codex]], complete with a playbook, plans and specifications for the New Civilization, and 
+Beyond those like [[The LIØNSBERG Sacred Codex]], complete with a playbook, plans and specifications for the New Civilization, and millions of dollars of foundational research and writing on how it actually gets built. 
 
-Think of it as stepping into a living and mythic world — vast, real, and transformative. Like stepping through a wardrobe into Narnia, finding yourself aboard a craft in Star Wars, battling wraith in Lord of the Rings, or being pulled into Jumanji. Except this world is not fiction. The stakes are real. The transformation it offers touches every dimension of your actual life and community. And the Pattern within this Seed, when properly planted and tended, transforms any world it touches towards Heaven.
+Think of this as a portal into a living and mythic New World — vast, real, and transformative. Like stepping through a wardrobe into Narnia, finding yourself aboard a craft in Star Wars, battling wraith in Lord of the Rings, or being pulled into Jumanji. Except this world is not fiction. The stakes are real. The transformation it offers touches every dimension of your actual life and community. And the Pattern within this Seed, when properly planted and tended, transforms any world it touches towards Heaven.
 
 The world within is vast. You do not need to read or understand it all.
 

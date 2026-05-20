@@ -1,4 +1,4 @@
-There can only be [[ONE]] [[Central Animating Spirit]]. 
+There can only be [[ØNE]] [[Central Animating Spirit]]. 
 
 ___
 

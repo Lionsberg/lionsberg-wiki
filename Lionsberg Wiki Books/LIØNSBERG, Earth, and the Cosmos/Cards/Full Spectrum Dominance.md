@@ -29,7 +29,7 @@ The phrase "Full Spectrum Dominance" itself comes from military doctrine, then w
 
 Knowing the Anti-Goal makes its operations recognizable. The Goal is **flourishing for all**; the Anti-Goal is **dominance over all**. Every concrete decision can be tested against this axis. Every institution can be evaluated by which Goal it actually serves, regardless of what it claims.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the named opposite of The Goal — the Anti-Pole around which the Old World organizes.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the named opposite of The Goal — the Anti-Pole around which the Old World organizes.
 
 ---
 

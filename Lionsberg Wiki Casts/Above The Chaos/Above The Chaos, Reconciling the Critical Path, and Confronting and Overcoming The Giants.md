@@ -200,7 +200,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - It’s main tenant is divide and conquer, and keep divided to keep conquered 
 - It does this in a number of ways, including by consciously over-specializing people to isolate them from other specialists, as opposed to cultivating general adaptation.  
 - Indigenous cultures around the world had a different view of the land. For instance Chief Seattle said “This we know: the earth does not belong to man;  man belongs to the earth. All things are connected.  We may be brothers after all. We shall see. One  thing we know which the white man may one day discover: our God is the same God.
-- There is only [[ONE]] Creator. All Creation belongs to [[ONE]]. 
+- There is only [[ØNE]] Creator. All Creation belongs to [[ØNE]]. 
 - [[All Creation]] is our collective inheritance. There is more than enough. We are all billionaires. 
 - So how did so many come to be mired in debt and poverty, and a few become so wealthy? 
 
@@ -233,7 +233,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 #### Intentionally Inflicted Darkness 
 
-- We have explored in other places such as [[The Book of LIONSBERG]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
+- We have explored in other places such as [[The Book of LIØNSBERG]] the progress from 1,500 BC to zero, with some enlightened thinking and discoveries that threatened the [[Power Structures]]. 
 - It appears that the [[Invisible Power Structures]] operating behind the Roman Empire and Catholic Church intentionally co-opted, distorted, and destroyed to the best of their ability those shoots of enlightenment, and intentionally threw humanity into a millennium and a half of Darkness. 
 - Mathematics constitutes human mind’s most cosmically powerful faculty.
 - It seems clear that between 200 B.C.  and 200 A.D. a deliberately planned policy was adopted by the combined supreme political and religious power structure of that period, which undertook the conditioning  of the human reflexes to misconceive and mis-see (or  mostly not see at all) the macro-micro-cosmic systems in  which we live. 
@@ -816,7 +816,7 @@ ____
 
 ### Humans in Universe 
 
-- Establishes the role of human beings as local Universe information-gathers and problem-solvers operating in service of [[ONE]] and [[All]]. 
+- Establishes the role of human beings as local Universe information-gathers and problem-solvers operating in service of [[ØNE]] and [[All]]. 
 - Mind possibly may  serve as the essential, anti-entropic (syntropic) function  for eternally conserving the omni-interaccommodative,  nonsimultaneous, and only partially overlapping, omniintertransforming, self-regenerating scenario—which We speak of as Universe.  
 - Mind, operative aboard our planet Earth and probably  elsewhere in Universe in a myriad of effective circumstances, can and may perform the paramount function of  conserving the scenario “Universe.” If so, it will have to  be accomplished by apprehending, comprehending, and  teleologically employing the metaphysical, weightless,  omni-intercooperative generalized principles of Universe  in strategically effective degree and within a critical time  limit. 
 - This can be accomplished in progressively more effective ways—for instance, by Earthians competently “fielding” all those physical energy increments entropically  broadcast by the stars, which happen to impinge kinetically upon our Earth as it orbits the Sun. Employing the  appropriate biological and physiological principles, these  receipts must be collected, sorted, analyzed, synergetically comprehended, and symmetrically combined into  complex but orderly, macro-and-micro-cohering aggregates.

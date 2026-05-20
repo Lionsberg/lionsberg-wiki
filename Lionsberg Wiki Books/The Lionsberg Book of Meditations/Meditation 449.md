@@ -1,6 +1,6 @@
-The [[Wisdom]], [[Principles]], and [[Values]] of the North, South, East and West are all variegated manifestations of the [[ONE]] who is generating them [[All]]. 
+The [[Wisdom]], [[Principles]], and [[Values]] of the North, South, East and West are all variegated manifestations of the [[ØNE]] who is generating them [[All]]. 
 
-The [[Central Animating Spirit]] of [[All]] that is [[Wise]], [[Right]], [[Good]] and [[True]] is [[ONE]].
+The [[Central Animating Spirit]] of [[All]] that is [[Wise]], [[Right]], [[Good]] and [[True]] is [[ØNE]].
 
 ___
 

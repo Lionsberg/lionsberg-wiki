@@ -1,4 +1,4 @@
-The greatest deeds are the most difficult ones, which only [[ONE]] knows you have done. 
+The greatest deeds are the most difficult ones, which only [[ØNE]] knows you have done. 
 
 ___
 

@@ -1,6 +1,6 @@
 # Heaven On Earth
 
-There is only [[ONE]] possible Vision, Intention, and Goal, which is [[Heaven On Earth]].  
+There is only [[ØNE]] possible Vision, Intention, and Goal, which is [[Heaven On Earth]].  
 
 The amazing thing about this Ideal is that it is already perfect, and yet *it continues to get better every day* as All Creation works together to make it so. 
 

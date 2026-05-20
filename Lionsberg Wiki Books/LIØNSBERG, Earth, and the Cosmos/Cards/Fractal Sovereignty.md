@@ -16,7 +16,7 @@ The Community is sovereign within the Bioregion.
 The Bioregion is sovereign within the Planetary Grid.
 The Planet is sovereign within the Star System.
 The Star System is sovereign within the Galactic Order.
-And every level holds sovereignty under [[ONE]].
+And every level holds sovereignty under [[ØNE]].
 
 This is what **holofractal** means: the same Pattern operating at every scale — and at every scale, the same protection of the autonomy, dignity, and self-determination of the unit at that scale.
 
@@ -24,7 +24,7 @@ No higher level may compel a lower level. Federation is **voluntary, by mutual c
 
 Fractal Sovereignty is the structural guarantee that the [[Holofractal Omnifederation]] cannot collapse back into empire. It is the load-bearing reason the [[Field of Agreements]] is voluntary covenant and not imposed law.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume II) when the Pattern Language is rebuilt in Phase 3.
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) when the Pattern Language is rebuilt in Phase 3.
 
 ---
 

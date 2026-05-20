@@ -50,7 +50,7 @@ This is not erasure of the source; the source is acknowledged in the Card's `sou
 
 ## Disposition Legend
 
-- **F-I / F-II / F-III / F-IV / F-V / F-VI / F-VII** — Fold into Volume I (Story) / II (Pattern Language) / III (Great Game) / IV (Playbook) / V (Lexicon) / VI (Book of LIØNSBERG) / VII (Sacred Ascent)
+- **F-I / F-II / F-III / F-IV / F-V / F-VI / F-VII** — Fold into Volume II (Story) / II (Pattern Language) / III (Great Game) / IV (Playbook) / V (Lexicon) / VI (Book of LIØNSBERG) / VII (Sacred Ascent)
 - **C** — Canonical Volume root or its substantive heart (book IS a Volume)
 - **R** — Reference / commentary; keep as supporting material in the Living Substrate, link from canonical
 - **A** — Archive; preserved with provenance as part of the procession; not folded
@@ -69,25 +69,25 @@ A single book may receive multiple fold-targets when it spans Volumes.
 | --------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | LIONSBERG 101                                       | **F-I + F-II**         | Concentric-rings articulation of the Pattern; substantive content informs both the Story and the Pattern Language |
 | A 200 Page Book                                     | **?**                  | Early synthesis attempt; needs read to know what survives                                                         |
-| The LIONSBERG (syn)Thesis                           | **F-I / F-V**          | Synthesis of theses; folds into Story (Volume I) and Lexicon (Volume V)                                           |
-| The Lionsberg Co-Creator Handbook                   | **F-IV**               | Folds into [[The LIØNSBERG Playbook]] (Volume IV)                                                                 |
+| The LIONSBERG (syn)Thesis                           | **F-I / F-V**          | Synthesis of theses; folds into Story (Volume II) and Lexicon (Volume VII)                                           |
+| The Lionsberg Co-Creator Handbook                   | **F-IV**               | Folds into [[The LIØNSBERG Playbook]] (Volume V)                                                                 |
 | The Lionsberg Meta Guide                            | **F-I / Sacred Codex** | Meta-architectural; may inform the Sacred Codex declaration or fold into Story                                    |
 | The Lionsberg Rules                                 | **F-II**               | Folds into Pattern Language — likely the Field of Agreements element                                              |
 | The Lionsberg Book of Conventions                   | **F-V / F-II**         | Folds into Lexicon (terms) and Pattern Language (conventions as Patterns)                                         |
 | The Lionsberg Strategy and Plan of Action           | **F-III / A**          | Operational strategy; may fold into Great Game or archive as historical                                           |
-| The 12 Pillars of LIONSBERG                         | **F-II**               | The 12 Pillars / Elements articulation; canonical for Pattern Language Volume II                                  |
-| The Theses of Lionsberg                             | **F-I**                | The 99 Theses; folds into Story (already named in Sacred Codex Volume I)                                          |
+| The 12 Pillars of LIONSBERG                         | **F-II**               | The 12 Pillars / Elements articulation; canonical for Pattern Language Volume III                                  |
+| The Theses of Lionsberg                             | **F-I**                | The 99 Theses; folds into Story (already named in Sacred Codex Volume II)                                          |
 | The Lionsberg System of Values                      | **F-II / F-V**         | Values as Patterns; folds into Pattern Language and Lexicon                                                       |
 | The Lionsberg System Toolkit                        | **F-IV**               | Tools for Circles; folds into Playbook                                                                            |
 | The Lionsberg Elevation Initiative                  | **?**                  | Needs audit — operational program or aspirational?                                                                |
 | The Kingdom of LIONSBERG - Plans and Specifications | **F-II / F-III**       | Plans and specs; folds into Pattern Language (canonical specification format) and Great Game                      |
 | The Lionsberg Book of People                        | **R / A**              | List/reference of people; keep as reference or archive                                                            |
 
-### Cosmic / Story Material (Volume I candidates)
+### Cosmic / Story Material (Volume II candidates)
 
 | Book | First-Pass Disposition | Notes |
 |---|---|---|
-| The Book of Lionsberg | **C (Volume VI)** | Already exists as Volume VI canonical entry; substantial structured TOC |
+| The Book of Lionsberg | **C (Volume VIII)** | Already exists as Volume VIII canonical entry; substantial structured TOC |
 | The Chronicles of Lionsberg | **F-I** | Folds into Story |
 | The Cosmic Chronicles | **F-I** | Folds into Story (cosmic history layer) — already gestured at by [[Earth's Galactic History and the Cosmic Chronicles]] Card |
 | The Great UnVeiling | **F-I** | Folds into Story (the 99 Theses + 66 Distortions) — already named in Sacred Codex |
@@ -101,9 +101,9 @@ A single book may receive multiple fold-targets when it spans Volumes.
 | The Greatest Fraud, Deception, and Existential Threat in History | **F-I / A** | Disclosure material; folds into Story or archives |
 | The Power of One | **F-V / F-I** | Lexicon entry for ONE; story-adjacent |
 | The Power of Today | **R** | Reference / commentary |
-| The One | **F-V / F-I** | Lexicon entry for [[ONE]]; foundational |
+| The One | **F-V / F-I** | Lexicon entry for [[ØNE]]; foundational |
 
-### Extraterrestrial / Cosmic Disclosure (Volume I source material)
+### Extraterrestrial / Cosmic Disclosure (Volume II source material)
 
 | Book | First-Pass Disposition | Notes |
 |---|---|---|
@@ -114,7 +114,7 @@ A single book may receive multiple fold-targets when it spans Volumes.
 | Harvested by Aliens and Hunted by Dogs | **F-I / A** | ET disclosure / personal-experience material |
 | Transmedium Ark Exploration | **F-I** | ET source / technology |
 
-### Sacred Ascent Material (Volume VII candidates)
+### Sacred Ascent Material (Volume IX candidates)
 
 | Book                                                          | First-Pass Disposition | Notes                                                                                               |
 | ------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
@@ -133,11 +133,11 @@ A single book may receive multiple fold-targets when it spans Volumes.
 | Tao Te Ching                                                  | **R**                  | Reference text; likely an existing translation or commentary                                        |
 | Lionsberg - A Biblical Perspective                            | **R**                  | Author-controlled commentary; reference                                                             |
 
-### Operational / Playbook Material (Volume IV candidates)
+### Operational / Playbook Material (Volume V candidates)
 
 | Book                                                       | First-Pass Disposition | Notes                                                                         |
 | ---------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------- |
-| The Lionsberg Playbook                                     | **C (Volume IV)**      | Already exists as Volume IV canonical entry                                   |
+| The Lionsberg Playbook                                     | **C (Volume V)**      | Already exists as Volume V canonical entry                                   |
 | Lionsberg Orientation and Training System                  | **F-IV**               | Folds into Playbook and 12-Stage Pilgrim's Path                               |
 | The Lionsberg Academy                                      | **F-IV / F-II**        | Education as Transformation element; folds into Playbook and Pattern Language |
 | Pass The Flame                                             | **F-IV**               | Already a single-page concept; folds as Move 7 of Seven Moves                 |
@@ -160,11 +160,11 @@ A single book may receive multiple fold-targets when it spans Volumes.
 | The Chronicles of J | **R / A** | Jordan-authored chronicle; author-controlled |
 | The Lionsberg (syn)Thesis | (listed above) | |
 
-### Pattern Language Material (Volume II)
+### Pattern Language Material (Volume III)
 
 | Book | First-Pass Disposition | Notes |
 |---|---|---|
-| The Lionsberg Pattern Language | **C (Volume II)** | Already exists as Volume II canonical entry — 18,135 lines; flagged for Phase 3 rebuild |
+| The Lionsberg Pattern Language | **C (Volume III)** | Already exists as Volume III canonical entry — 18,135 lines; flagged for Phase 3 rebuild |
 | The LIONSBERG Way | **F-II** | The Pattern is the Way; folds into Pattern Language |
 
 ### Meta / Archival
@@ -211,12 +211,12 @@ Sources: **LIONSBERG 101**, **A 200 Page Book**, **The LIONSBERG (syn)Thesis**, 
 
 | Book | Final Disposition |
 |---|---|
-| LIONSBERG 101 | Fold into Volume II (primary) + III, IV, VI; retain as canonical on-ramp |
+| LIONSBERG 101 | Fold into Volume III (primary) + III, IV, VI; retain as canonical on-ramp |
 | A 200 Page Book | Fold into Volumes I-VII; archive original (draft-in-suspension with TKTKs and Gate 32 blank) |
 | The LIONSBERG (syn)Thesis | **Empty placeholder folder — deleted** |
-| The Lionsberg Co-Creator Handbook | Migrated January 2026 into Volume IV Playbook; **redirect stubs consolidated** |
+| The Lionsberg Co-Creator Handbook | Migrated January 2026 into Volume V Playbook; **redirect stubs consolidated** |
 | The Lionsberg Meta Guide | Circumambulation — selective harvest into Volumes I, II, IV, V, VII |
-| The 12 Pillars of LIONSBERG | Fold into Volume II as Domain Pattern layer; the 12+1 (with The ONE as 13th/Zero) becomes Volume II's opening architecture |
+| The 12 Pillars of LIONSBERG | Fold into Volume III as Domain Pattern layer; the 12+1 (with The ONE as 13th/Zero) becomes Volume III's opening architecture |
 | The Theses of Lionsberg | Reference / selective fold (self-declared "Old Theses Archive" superseded by 144 nested under 12 Pillars) |
 
 ### Batch 1 — Cards To Generate
@@ -407,13 +407,13 @@ Sources: **The Great UnVeiling**, **The Lionsberg System of Values**, **The Lion
 
 | Book | Final Disposition |
 |---|---|
-| The Great UnVeiling | Fold into Volume I as the carrier of the 99 Theses (note: **Theses 56-57 blank in source**; **the 66 Most Protected and Distorted Narratives are NOT in this folder** — gap to address). Twelve-Gate architecture also seeds Volume I narrative scaffolding. |
-| The Lionsberg System of Values | Fold into Volume V (Lexicon) primarily; Values as Facets of the ONE becomes the Lexicon's ontological introduction. |
+| The Great UnVeiling | Fold into Volume II as the carrier of the 99 Theses (note: **Theses 56-57 blank in source**; **the 66 Most Protected and Distorted Narratives are NOT in this folder** — gap to address). Twelve-Gate architecture also seeds Volume II narrative scaffolding. |
+| The Lionsberg System of Values | Fold into Volume VII (Lexicon) primarily; Values as Facets of the ONE becomes the Lexicon's ontological introduction. |
 | The Lionsberg Book of Conventions | Reference / Convert container to Circumambulation index. Two conventions fold to V (Lexicon) and IV (Playbook). |
-| The Lionsberg Rules | Fold into Volume II (Pattern Language) + Volume V (Lexicon). Irreducible Rule: "There is only ONE rule. Everything is ONE." |
+| The Lionsberg Rules | Fold into Volume III (Pattern Language) + Volume VII (Lexicon). Irreducible Rule: "There is only ONE rule. Everything is ONE." |
 | The Lionsberg Strategy and Plan of Action | Reference / Quantitatively-grounded document. Most operationally detailed book in the corpus. |
 | The LIONSBERG Way | Circumambulation + selective fold. 204-item ReMembering inventory is the most valuable artifact for Phase 3 Pattern Language rebuild input. Flagged for substantial Phase 3 rebuild per the task brief. |
-| Lionsberg Orientation and Training System | Reference / Voice-archive of the Pioneer Cohort era. 92-day curriculum spine folds into Volume IV as input to the 12-Stage Pilgrim's Path. |
+| Lionsberg Orientation and Training System | Reference / Voice-archive of the Pioneer Cohort era. 92-day curriculum spine folds into Volume V as input to the 12-Stage Pilgrim's Path. |
 
 **Critical Gaps Flagged from Batch 2:**
 
@@ -516,27 +516,27 @@ Sources: **The Great UnVeiling**, **The Lionsberg System of Values**, **The Lion
 
 ### Batch 3 (2026-05-18) — Canonical Volume Roots + Foundational Story / Sacred Ascent
 
-Sources: **The Book of Lionsberg** (Volume VI canonical), **The Lionsberg Playbook** (Volume IV canonical), **The Chronicles of Lionsberg**, **The Cosmic Chronicles**, **The Myth of Lionsberg**, **Becoming a Warrior of The Way**, **The Way of God**.
+Sources: **The Book of Lionsberg** (Volume VIII canonical), **The Lionsberg Playbook** (Volume V canonical), **The Chronicles of Lionsberg**, **The Cosmic Chronicles**, **The Myth of Lionsberg**, **Becoming a Warrior of The Way**, **The Way of God**.
 
 **Dispositions confirmed:**
 
 | Book | Final Disposition |
 |---|---|
-| The Book of Lionsberg | Canonical Volume VI root — substantial content (~560 files, ~3M words). Chapters 15 (Great Game) and 16 (PDG) are in mature LIØNSBERG voice and **canonical-ready**. Genesis (Caves narrative) is strong. Chapters 2-14 (philosophical middle) need Phase 5 voice unification. |
-| The Lionsberg Playbook | Canonical Volume IV root — 95% voice-ready. The 24 essential Plays are operationally tight and prophetically voiced. Structural reconciliation needed (Architecture file location). |
+| The Book of Lionsberg | Canonical Volume VIII root — substantial content (~560 files, ~3M words). Chapters 15 (Great Game) and 16 (PDG) are in mature LIØNSBERG voice and **canonical-ready**. Genesis (Caves narrative) is strong. Chapters 2-14 (philosophical middle) need Phase 5 voice unification. |
+| The Lionsberg Playbook | Canonical Volume V root — 95% voice-ready. The 24 essential Plays are operationally tight and prophetically voiced. Structural reconciliation needed (Architecture file location). |
 | The Chronicles of Lionsberg | Circumambulation — short mythopoetic book (6 files); selectively harvest the Sacred Flame / Cosmic Stone / Eternal Citadel / Final Order / Map of Light / First Flames motifs. |
-| The Cosmic Chronicles | Hybrid: Reference archive (~150 NHI/UAP case files) + canonical fold (7 framework essays seeding the "LIØNSBERG Theory of Everything"; Mahooty/Zuni and Mutwa/Zulu indigenous testaments are canonical Volume I source). |
-| The Myth of Lionsberg | Circumambulation — 62-line stub mislabeled "Myth"; substantive cosmological content folds to Volume I + Volume V Lexicon. Retire after fold. |
-| Becoming a Warrior of The Way | Fold into Volume VII Sacred Ascent — short 2-file book; the Warrior's Fast protocol is genuinely new operational content. |
-| The Way of God | Fold into Volume VII (primary) + Volume I (cosmology) + Volume II (Way as Pattern) + Volume V (Lexicon). **Critical: explicit phrase "Pattern Language of the Kingdom of God" used in-text** — confirms Way of God IS the Pattern Language. Part III needs Phase 5 voice unification (Quaker-philosophical drift). |
+| The Cosmic Chronicles | Hybrid: Reference archive (~150 NHI/UAP case files) + canonical fold (7 framework essays seeding the "LIØNSBERG Theory of Everything"; Mahooty/Zuni and Mutwa/Zulu indigenous testaments are canonical Volume II source). |
+| The Myth of Lionsberg | Circumambulation — 62-line stub mislabeled "Myth"; substantive cosmological content folds to Volume II + Volume VII Lexicon. Retire after fold. |
+| Becoming a Warrior of The Way | Fold into Volume IX Sacred Ascent — short 2-file book; the Warrior's Fast protocol is genuinely new operational content. |
+| The Way of God | Fold into Volume IX (primary) + Volume II (cosmology) + Volume III (Way as Pattern) + Volume VII (Lexicon). **Critical: explicit phrase "Pattern Language of the Kingdom of God" used in-text** — confirms Way of God IS the Pattern Language. Part III needs Phase 5 voice unification (Quaker-philosophical drift). |
 
 **Critical findings from Batch 3:**
 
 1. **The Book of Lionsberg Chapters 15 (Great Game) and 16 (PDG) are the strongest mature LIØNSBERG voice in the entire corpus** — voice template for Phase 5 unification.
 2. **The Book of Lionsberg's Chapter 11 heavily overlaps with Chapter 16 PDG** — Chapter 16 is the more mature articulation; preserve Ch 11.6-11.9 (Divine Feminine/Masculine arc — surprisingly fierce canonical voice).
-3. **Isaiah's "caves of the rocks" passage** (Isaiah 2) is a direct scriptural prefiguring of the Caves narrative — strengthens the "true myth" claim; annotate in Volume I.
+3. **Isaiah's "caves of the rocks" passage** (Isaiah 2) is a direct scriptural prefiguring of the Caves narrative — strengthens the "true myth" claim; annotate in Volume II.
 4. **The Playbook needs a structural reconciliation** — canonical Architecture file lives outside the Playbook book folder.
-5. **The Cosmic Chronicles content has no canonical home yet** — the NHI / disclosure arc / SSP / indigenous testaments need positioning in Volume I.
+5. **The Cosmic Chronicles content has no canonical home yet** — the NHI / disclosure arc / SSP / indigenous testaments need positioning in Volume II.
 
 ### Batch 3 — Cards Discerned
 
@@ -686,7 +686,7 @@ A systematic cross-check of all 21 agent audit memos against the consolidated Ba
 **Two critical gaps in the corpus itself (not in our lists — actually missing from the wiki):**
 
 1. **The 99 Theses Theses 56 and 57 are blank in the source file** (`LIONSBERG Wiki Books/The Great UnVeiling/...`). Either author them or mark deliberately empty.
-2. **The 66 Most Protected and Distorted Narratives are not present in The Great UnVeiling folder** — explicitly named in the Sacred Codex Volume I spec but missing from the source. Decision needed: author them, locate them elsewhere if they exist, or update the Codex spec.
+2. **The 66 Most Protected and Distorted Narratives are not present in The Great UnVeiling folder** — explicitly named in the Sacred Codex Volume II spec but missing from the source. Decision needed: author them, locate them elsewhere if they exist, or update the Codex spec.
 
 **Substantial concept gaps in the consolidated lists** (named in agent memos):
 
@@ -702,7 +702,7 @@ A systematic cross-check of all 21 agent audit memos against the consolidated Ba
 
 #### From Batch 1 — The 12 Pillars of LIONSBERG
 
-- **The 144 individual Theses** (12 Pillars × 12 Theses each) — fold into Volume II Pattern Language at the Domain Pattern layer.
+- **The 144 individual Theses** (12 Pillars × 12 Theses each) — fold into Volume III Pattern Language at the Domain Pattern layer.
 - **Pillar-specific concepts not yet listed:**
   - ReHarvesting the Great Traditions (Pillar I)
   - Body as Living Temple (Pillar V)
@@ -740,21 +740,21 @@ Specific high-leverage Theses worth own Cards:
 
 #### From Batch 2 — The Lionsberg Strategy and Plan of Action
 
-- **The Lionsberg Alliance** — proposed military/security successor to NATO; Volume IV
-- **Mission-And-Values-Aligned-Non-Recourse-Loans** — financing instrument with 0-7% variable return tied to system performance; Volume II / IV
-- **Time-Energy Accounting** — alternative metric framework distinct from money; Volume II
-- **Receivership of the Giants** — tactic of turning over corporate giants, placing tech in Commons, redeploying assets to atonement; Volume IV
-- **Amnesty Process / Safe Off Ramps** — for those exiting Old Order roles; Volume IV
-- **Energy and Commitment Based UBI** — universal basic income reimagined as commitment-based; Volume II
-- **Regenerative Underwriting, Resourcing, and Insurance** — Volume II
-- **Regenerative Banking Network** — distributed alternative banking; Volume II
-- **The Lionsberg General Assembly** — ratification body; Volume IV
-- **Constitutional Amendments at 70-80% Adoption** — Volume II / IV
-- **Mission Control / Planetary Situation Center / Action Hub System** — Volume IV
-- **Living Systems Data Model / Geoscopes / Planetary Dashboard / Planetary Windshield** — Volume IV
-- **LIONSBERG Risk Management System / Bow Tie Risk Assessment** — Volume IV
-- **The Lionsberg Communications System** — Volume IV
-- **The Lionsberg Information System / Water System / Food System / Transportation System / Resource ReCirculation System / Intellectual Content System / Stewardship of Real Property / IP / Data / Water / Meters** — eleven Lionsberg Systems; Volume II / IV
+- **The Lionsberg Alliance** — proposed military/security successor to NATO; Volume V
+- **Mission-And-Values-Aligned-Non-Recourse-Loans** — financing instrument with 0-7% variable return tied to system performance; Volume III / IV
+- **Time-Energy Accounting** — alternative metric framework distinct from money; Volume III
+- **Receivership of the Giants** — tactic of turning over corporate giants, placing tech in Commons, redeploying assets to atonement; Volume V
+- **Amnesty Process / Safe Off Ramps** — for those exiting Old Order roles; Volume V
+- **Energy and Commitment Based UBI** — universal basic income reimagined as commitment-based; Volume III
+- **Regenerative Underwriting, Resourcing, and Insurance** — Volume III
+- **Regenerative Banking Network** — distributed alternative banking; Volume III
+- **The Lionsberg General Assembly** — ratification body; Volume V
+- **Constitutional Amendments at 70-80% Adoption** — Volume III / IV
+- **Mission Control / Planetary Situation Center / Action Hub System** — Volume V
+- **Living Systems Data Model / Geoscopes / Planetary Dashboard / Planetary Windshield** — Volume V
+- **LIONSBERG Risk Management System / Bow Tie Risk Assessment** — Volume V
+- **The Lionsberg Communications System** — Volume V
+- **The Lionsberg Information System / Water System / Food System / Transportation System / Resource ReCirculation System / Intellectual Content System / Stewardship of Real Property / IP / Data / Water / Meters** — eleven Lionsberg Systems; Volume III / IV
 
 #### From Batch 2 — The LIONSBERG Way
 
@@ -770,19 +770,19 @@ Specific items worth own Cards (from 204-item ReMembering inventory):
 
 #### From Batch 3 — The Book of Lionsberg
 
-- **Spirit Above the Chaos** — Genesis canonical opening invocation; Volume I/VI
-- **Three-Part Transformation Process** (Spirit → Articulation of New Norms → Path/Infrastructure/Bridges); Volume II
-- **Heroes On The Front Lines** — archetype of frontline practitioners; Volume IV
-- **The Order of Authorities / Meta Authority** — hierarchy of authority; Volume II / V
-- **The Order of Intentions and the Meta Intention** — paired hierarchy; Volume II
-- **Commander's Intent / Designer's Intent** — military-architectural construct; Volume II / VI
-- **Indifference and Non-Involvement** — the spiritual failure mode; Volume V
-- **Charity vs Justice Along the Pathways** — Volume V
-- **The Tapestry / Story of Stories / Divine Symphony** — meta-narrative metaphor; Volume I
-- **The Divine Puzzle / Puzzle Pieces / Every Defect Is A Gift / Like Gold Refined Seven Times**; Volume IV
-- **The Net of Society / The Train of Society** — community catch-net metaphors; Volume V
-- **12 Million New Spirits a Month** — striking image of the birth rate; Volume II
-- **Work That Lacks Quality Is Not Neutral — It Is Harmful Waste** — Volume II / VI
+- **Spirit Above the Chaos** — Genesis canonical opening invocation; Volume II/VI
+- **Three-Part Transformation Process** (Spirit → Articulation of New Norms → Path/Infrastructure/Bridges); Volume III
+- **Heroes On The Front Lines** — archetype of frontline practitioners; Volume V
+- **The Order of Authorities / Meta Authority** — hierarchy of authority; Volume III / V
+- **The Order of Intentions and the Meta Intention** — paired hierarchy; Volume III
+- **Commander's Intent / Designer's Intent** — military-architectural construct; Volume III / VI
+- **Indifference and Non-Involvement** — the spiritual failure mode; Volume VII
+- **Charity vs Justice Along the Pathways** — Volume VII
+- **The Tapestry / Story of Stories / Divine Symphony** — meta-narrative metaphor; Volume II
+- **The Divine Puzzle / Puzzle Pieces / Every Defect Is A Gift / Like Gold Refined Seven Times**; Volume V
+- **The Net of Society / The Train of Society** — community catch-net metaphors; Volume VII
+- **12 Million New Spirits a Month** — striking image of the birth rate; Volume III
+- **Work That Lacks Quality Is Not Neutral — It Is Harmful Waste** — Volume III / VI
 - **The Battle / Battle for the Future of life and society on Earth**
 
 #### From Batch 3 — The Cosmic Chronicles
@@ -840,18 +840,18 @@ Specific items worth own Cards (from 204-item ReMembering inventory):
 
 #### From Batch 3 — The Way of God
 
-- **Society as Ecosystem** — Pattern Language register; "weeds rising in unattended soil"; Volume II
-- **A Properly Ordered Society** (God at Center, everything on Love); Volume II
-- **The Total Nested Hierarchy of Conditions** — environment that doesn't permit evil to rise; Volume II / VI
-- **Hold The Line / Play the Game / Follow the Rules** — participants' role in healthy ecosystem; Volume II
-- **Collective Responsibility for the Ecosystem** — Volume II
-- **Word of God Placed in Mouth / Bound Around Heart and Neck** — generational transmission; Volume VII
-- **The Translation Journey** — the 10-step path from God → inspiration → Logos → localization → oral → canon → translation → intent → inherited text → living Spirit; Volume III
-- **Empirical Resonance** — epistemic discipline; Volume VII
-- **The Tower of Babel Framing** — Old World confusion vs unifying Meta Story; Volume I
-- **Divine Anticipation / Providence** (not predestination); Volume VII
-- **Case Study of Jerusalem** — faithful city become whore; descent pattern; Volume I
-- **The Logos as Cosmic Syntax** — Energy-into-Form via Information; physics-theology synthesis; Volume I / II
+- **Society as Ecosystem** — Pattern Language register; "weeds rising in unattended soil"; Volume III
+- **A Properly Ordered Society** (God at Center, everything on Love); Volume III
+- **The Total Nested Hierarchy of Conditions** — environment that doesn't permit evil to rise; Volume III / VI
+- **Hold The Line / Play the Game / Follow the Rules** — participants' role in healthy ecosystem; Volume III
+- **Collective Responsibility for the Ecosystem** — Volume III
+- **Word of God Placed in Mouth / Bound Around Heart and Neck** — generational transmission; Volume IX
+- **The Translation Journey** — the 10-step path from God → inspiration → Logos → localization → oral → canon → translation → intent → inherited text → living Spirit; Volume IV
+- **Empirical Resonance** — epistemic discipline; Volume IX
+- **The Tower of Babel Framing** — Old World confusion vs unifying Meta Story; Volume II
+- **Divine Anticipation / Providence** (not predestination); Volume IX
+- **Case Study of Jerusalem** — faithful city become whore; descent pattern; Volume II
+- **The Logos as Cosmic Syntax** — Energy-into-Form via Information; physics-theology synthesis; Volume II / II
 
 ---
 
@@ -861,7 +861,7 @@ Per user direction, the enumerated bodies-of-work are now fully enumerated below
 
 ### Appendix A — The 99 Theses of The Great UnVeiling
 
-_Source: `LIONSBERG Wiki Books/The Great UnVeiling/`. Fold target: Volume I. Theses 56 and 57 are blank in source (gap)._
+_Source: `LIONSBERG Wiki Books/The Great UnVeiling/`. Fold target: Volume II. Theses 56 and 57 are blank in source (gap)._
 
 1. **Hidden Kontrolle of Governments** — Visible governments are puppets of an ancient hidden system orchestrated by interdimensional forces, bloodline elites, and occult priesthoods waging a cosmic war for humanity's soul.
 2. **Engineered Religions** — The world's dominant religions are engineered control systems designed to bind the human soul beneath false gods, false prophets, and inverted scripture.
@@ -965,7 +965,7 @@ _Source: `LIONSBERG Wiki Books/The Great UnVeiling/`. Fold target: Volume I. The
 
 ### Appendix B — The 156 Theses of the 12 Pillars (and The ONE)
 
-_Source: `LIONSBERG Wiki Books/The 12 Pillars of LIONSBERG/`. Fold target: Volume II Pattern Language (Domain Pattern layer). 13 entries × 12 Theses each = 156 total._
+_Source: `LIONSBERG Wiki Books/The 12 Pillars of LIONSBERG/`. Fold target: Volume III Pattern Language (Domain Pattern layer). 13 entries × 12 Theses each = 156 total._
 
 **The ONE (Pillar Zero / Thirteenth):** 1. Eternal Source. 2. Pure Love, Wisdom, Intelligence. 3. Manifests Through the Logos. 4. All Beings Are Expressions of the ONE. 5. Can Be Directly Known. 6. ReMember and ReUnion. 7. Speaks Through All Times and Spaces. 8. Kingdom of Heaven as Embodiment. 9. Separation Is the Root of Suffering. 10. Immanent, Not Distant. 11. Calls Us to Become One. 12. The Way of the ONE Is the Way of Life.
 
@@ -995,7 +995,7 @@ _Source: `LIONSBERG Wiki Books/The 12 Pillars of LIONSBERG/`. Fold target: Volum
 
 ### Appendix C — The 171 Old→New Theses of LIONSBERG
 
-_Source: `LIONSBERG Wiki Books/The Theses of Lionsberg/`. Fold target: Volume II (folds into 12 Pillars) + Volume I (Story register). Per the audit, 4 are duplicates/near-duplicates; effectively unique theses: ~167._
+_Source: `LIONSBERG Wiki Books/The Theses of Lionsberg/`. Fold target: Volume III (folds into 12 Pillars) + Volume II (Story register). Per the audit, 4 are duplicates/near-duplicates; effectively unique theses: ~167._
 
 **Domain 1 — Lifelong Learning (25):**
 L-1 Rote Memorization → Deep Wisdom and Understanding · L-2 Standardized Testing → Personalized Assessment · L-3 Subject-Specific Silos → Interdisciplinary Integration · L-4 Passive Learning → Active Inquiry · L-5 Teacher-Centric Classrooms → Facilitated Peer Learning · L-6 Short-Term Goals → Lifelong Learning Journeys · L-7 Extrinsic Rewards → Intrinsic Motivation · L-8 Fixed Mindset → Growth Mindset · L-9 Secular Education → Spiritually Inclusive Curricula · L-10 Competitive Learning → Collaborative Wisdom · L-11 Educational Elitism → Universal Access to Wisdom and Knowledge · L-12 Disconnected from Nature → Ecological Literacy and Stewardship · L-13 Utilitarian Training → Integral Human Development · L-14 Static Curricula → Dynamic, Responsive Learning Paths · L-15 Information Overload → Discerning Wisdom and Just-In-Time Delivery · L-16 Physical Schools Only → Blended Learning Environments · L-17 Neglect of Emotional Intelligence → Cultivation of Whole-Person Wisdom · L-18 One-way Transmission → Dialogical Learning · L-19 Propagandistic Curricula → Divine Citizenship Education · L-20 Compliance and Conformity → Creativity and Critical Thinking · L-21 Closed Systems of Knowledge → Open Source Learning and Collaboration · L-22 One-Size-Fits-All Pedagogy → AI-Enhanced Personalized Learning · L-23 School Buildings as Academic Silos → Community Learning Hubs · L-24 Authoritarian Education Systems → Liberation and Creativity-Driven Learning · L-25 Fragmented Knowledge and Specialization → Unified Understanding and Wisdom.
@@ -1013,7 +1013,7 @@ F-1 Industrial Agriculture → Regenerative Agriculture · F-2 GMOs as Intellect
 
 ### Appendix D — The Values of LIONSBERG
 
-_Source: `LIONSBERG Wiki Books/The Lionsberg System of Values/`. Fold target: Volume V Lexicon (Values section)._
+_Source: `LIONSBERG Wiki Books/The Lionsberg System of Values/`. Fold target: Volume VII Lexicon (Values section)._
 
 **Meta Value:** ONE — the ultimately ineffable Meta Value; the Central Animating Spirit whose nature is Love.
 
@@ -1025,7 +1025,7 @@ _Source: `LIONSBERG Wiki Books/The Lionsberg System of Values/`. Fold target: Vo
 
 ### Appendix E — The 204 ReMembering Items of The LIONSBERG Way
 
-_Source: `LIONSBERG Wiki Books/The LIONSBERG Way/`. Fold target: Volume II Pattern Language (Phase 3 rebuild candidate patterns)._
+_Source: `LIONSBERG Wiki Books/The LIONSBERG Way/`. Fold target: Volume III Pattern Language (Phase 3 rebuild candidate patterns)._
 
 1. ReMembering How To One · 2. Embrace Ultimate Ineffability And Not Knowing · 3. Navigate And Explore An Intelligible Universe · 4. Differentiate And Align Spirit, Theology, Philosophy, Ethos, Science, Theory, Principles, Techniques, Practices, And Evolution · 5. InterExist · 6. Differentiate Ultimate Unity, Transcendence, Categories, Archetypes, Prototypes, And Instances · 7. Incarnate and Embody · 8. Be A Part Of A Larger Living System · 9. Cultivate Flourishing And Abundant Life · 10. Regenerate Wounded Living Systems · 11. Keep Ones Glass Half Full · 12. Survive · 13. Breathe · 14. Shelter · 15. Drink · 16. Eat · 17. Rest And Recharge · 18. Sleep · 19. Think · 20. Hear · 21. Communicate · 22. Walk · 23. Learn · 24. Abide In The Zone Of Optimum Development · 25. Make Friends · 26. Play · 27. Laugh · 28. Love · 29. Help, And Do No Harm · 30. Pray · 31. Meditate · 32. Be Empty And Still · 33. Explore The All · 34. Stay Centered In The One · 35. Crawl · 36. Walk _(duplicate of #22)_ · 37. Exist In A State Of Flow · 38. Ground And Connect · 39. Sense Energy · 40. Cultivate Energy · 41. Channel Energy · 42. Use Energy To Co-Create · 43. Use Energy To Heal and Sustain · 44. Use Energy To Damage Or Destroy · 45. Use Minimum Necessary Force · 46. Reciprocally Exchange Time, Energy And Value · 47. Exchange Time, Energy, And Value Without Money · 48. Withdraw Energy From Antithetical Systems · 49. Make Purchases, Decisions, And Investments That Transform The World · 50. Celebrate Generosity And Enoughness ·
 51. Discover and Integrate Your Self · 52. Be Your Self · 53. Find Your Purpose · 54. Set An Intention · 55. Develop A Vision · 56. Honor, Embrace, And Uphold Universal Principles And Values · 57. Tell Your Story · 58. Find Your People · 59. SpatioTemporally Locate Your Self · 60. Aim · 61. Perceive · 62. Orient · 63. Move · 64. Navigate · 65. Do The Wise Right Thing, With The Wise Right People, At The Wise Right Time, For The Wise Right Reasons · 66. Co-Create And Continuously Improve Word Tools · 67. Differentiate And Name · 68. Establish Categories · 69. Uphold Ideals · 70. Map Reality · 71. Seek, Discern, and Embody Wisdom · 72. Navigate Towards Truth · 73. Gather Information · 74. Transform Information Into Knowledge · 75. Differentiate Propositional And Non-Propositional Knowledge · 76. Transform Knowledge Into Wisdom · 77. Align The Scientific And Technological Enterprise · 78. Differentiate Levels Of Abstraction And Analysis · 79. Differentiate Your Map From Reality · 80. Update Your Map · 81. Hemispherically Specialize · 82. Transcend The Limitations Of Embodiment · 83. Exist, Perceive, and Act Beyond The Illusion Of SpaceTime · 84. ReConnect With Non-Local Energy · 85. ReConnect With Non-Local Consciousness · 86. Exist, Think, Speak, and Act Across Levels Of Abstraction · 87. Be and Act SpatioTemporally In Enlightened Service To One And All · 88. Align With The Creator's Intent · 89. Bring Intention Into Reality · 90. Progressively Articulate · 91. Progressively Realize · 92. Progress · 93. Measure Progress · 94. Develop Skill And Mastery · 95. Order, Access, And Deliver Wisdom And Knowledge Just In Time · 96. Acknowledge And Navigate The Reality Of Transformational Experiences · 97. Celebrate Progress With Recognition, Belts, Badges, And Awards · 98. Associate And Dissociate · 99. Co-Create and Co-Operate Groups And Teams · 100. Honor and Establish Rights And Responsibilities ·
@@ -1038,7 +1038,7 @@ _Source: `LIONSBERG Wiki Books/The LIONSBERG Way/`. Fold target: Volume II Patte
 ---
 
 
-### Batch 4 (2026-05-19) — Canonical Operational + Volume I Story + Sacred Ascent
+### Batch 4 (2026-05-19) — Canonical Operational + Volume II Story + Sacred Ascent
 
 Sources: **The Program Delivery Guide**, **The Lionsberg Academy**, **Beyond Earth**, **The Dawn of the New World**, **The Kingdom of LIONSBERG - Plans and Specifications**, **The Lionsberg Book of Meditations**, **MindWeaving The Life Divine**.
 
@@ -1048,21 +1048,21 @@ Sources: **The Program Delivery Guide**, **The Lionsberg Academy**, **Beyond Ear
 |---|---|
 | The Program Delivery Guide | **A + R + F-II + F-IV + F-VI**. Archive raw 2009 California Prison Receivership source material with provenance; canonical Pattern-Language and Playbook content already lives in Chapter 16 of [[The Book of LIØNSBERG]]. The PDG index page is the most valuable file — its crosswalk from PDG vocabulary to LIØNSBERG vocabulary should be preserved verbatim. |
 | The Lionsberg Academy | **A + R + F-II + F-IV + F-VI**. Existing book is a 2022-era stub pointing outward to Khan Academy / Duolingo / MIT OCW. The canonical Academy is implicit in Pillar IV (Sacred Learning and Mastery) and must be **summoned into existence** from scattered materials. The current book becomes Reference layer; the canonical Academy is written fresh. |
-| Beyond Earth | **F-I + F-V + F-VI + A**. The most concentrated ET / cosmic-disclosure material in the wiki. Substance folds into Volume I (Story) and Volume V (Lexicon — factions, programs, technologies). Original chapters archived with provenance because the book's own voice is journalistic-explanatory, not prophetic-definitive. Transposition into LIØNSBERG voice required. Companion book **"EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?"** flagged for paired audit. |
-| The Dawn of the New World | **F-I + F-III + R**. 31-scene prophetic narrative; a **parallel-channel telling of The Story of LIØNSBERG** — same arc as The Caves but through a Walled Paradise / single embodied protagonist (Xion + Zaya) lens. Voice is strong throughout (Scenes 13-15 are luminous). Belongs in Volume I as twin-myth or alternate gospel; Scenes 20-25 fold operationally into Volume III. |
-| The Kingdom of LIONSBERG - Plans and Specifications | **C (canonical Specification Format root for Volume II) + F-II + F-IV + F-VI + R**. This book is the **construction-grade architectural manual** of the entire Kingdom. The Twelvefold Architecture (~12 Parts × specifications voice) is the Pattern Language Volume II's own table of contents in seed form. The *form* it establishes — specifications voice married to prophetic register — should propagate to every Pattern in Volume II. Preface and Invocation are scriptural-grade (F-VI). |
-| The Lionsberg Book of Meditations | **F-VII (primary) + R (Living Substrate)**. **663 individual meditations** (numbered 1–663, with one duplicate TOC entry for 635), authored as aphorisms intended to "spark inner dialogue, and help illuminate your Way." The book is the wiki's purest expression of contemplative daily-practice — short, koanic, prophetic-aphoristic, structurally numbered. **Folds whole into Volume VII as a Daily Meditations appendix; do not fragment individual meditations into Cards.** Recommended curated selection of ~108 or ~144 most load-bearing meditations as the bound appendix; full 663 retained in Living Substrate as source pool. |
-| MindWeaving The Life Divine | **F-VII + F-II + F-V + R**. Aurobindo synthesis (Integral Yoga / The Life Divine). Chapter One is canonical-grade — folds directly into Volume VII as standalone chapter or appendix. Self-tagged ~5% complete; remaining chapters archived as scaffolding. Aurobindo's metaphysical scaffolding (Involution / Evolution, Holarchic Gradient, Sachchidananda, Truth Consciousness, the Psychic Being, the Triple Transformation, the Supramental Descent, the Divine Mother) strengthens Pillar I (Sacred Ontology and Metaphysics) and provides foundational vocabulary for [[The Sacred Ascent]] (Volume VII). |
+| Beyond Earth | **F-I + F-V + F-VI + A**. The most concentrated ET / cosmic-disclosure material in the wiki. Substance folds into Volume II (Story) and Volume VII (Lexicon — factions, programs, technologies). Original chapters archived with provenance because the book's own voice is journalistic-explanatory, not prophetic-definitive. Transposition into LIØNSBERG voice required. Companion book **"EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?"** flagged for paired audit. |
+| The Dawn of the New World | **F-I + F-III + R**. 31-scene prophetic narrative; a **parallel-channel telling of The Story of LIØNSBERG** — same arc as The Caves but through a Walled Paradise / single embodied protagonist (Xion + Zaya) lens. Voice is strong throughout (Scenes 13-15 are luminous). Belongs in Volume II as twin-myth or alternate gospel; Scenes 20-25 fold operationally into Volume IV. |
+| The Kingdom of LIONSBERG - Plans and Specifications | **C (canonical Specification Format root for Volume III) + F-II + F-IV + F-VI + R**. This book is the **construction-grade architectural manual** of the entire Kingdom. The Twelvefold Architecture (~12 Parts × specifications voice) is the Pattern Language Volume III's own table of contents in seed form. The *form* it establishes — specifications voice married to prophetic register — should propagate to every Pattern in Volume III. Preface and Invocation are scriptural-grade (F-VI). |
+| The Lionsberg Book of Meditations | **F-VII (primary) + R (Living Substrate)**. **663 individual meditations** (numbered 1–663, with one duplicate TOC entry for 635), authored as aphorisms intended to "spark inner dialogue, and help illuminate your Way." The book is the wiki's purest expression of contemplative daily-practice — short, koanic, prophetic-aphoristic, structurally numbered. **Folds whole into Volume IX as a Daily Meditations appendix; do not fragment individual meditations into Cards.** Recommended curated selection of ~108 or ~144 most load-bearing meditations as the bound appendix; full 663 retained in Living Substrate as source pool. |
+| MindWeaving The Life Divine | **F-VII + F-II + F-V + R**. Aurobindo synthesis (Integral Yoga / The Life Divine). Chapter One is canonical-grade — folds directly into Volume IX as standalone chapter or appendix. Self-tagged ~5% complete; remaining chapters archived as scaffolding. Aurobindo's metaphysical scaffolding (Involution / Evolution, Holarchic Gradient, Sachchidananda, Truth Consciousness, the Psychic Being, the Triple Transformation, the Supramental Descent, the Divine Mother) strengthens Pillar I (Sacred Ontology and Metaphysics) and provides foundational vocabulary for [[The Sacred Ascent]] (Volume IX). |
 
 **Critical Insights from Batch 4:**
 
 1. **Pattern: the canonical text already exists, scattered.** Multiple books (Academy, PDG, Specifications) reveal a recurring pattern — the canonical articulation is _not_ in the book that bears its name, but distributed across Pillars, Chapter 16, ancillary works, and seed-fragments. The audit's job is increasingly **synthesis from dispersion**, not extraction from concentration.
 
-2. **Specifications Format as canonical Volume II convention.** The Plans and Specifications book establishes the Specification Format (Goal / Context / Forces / Solution / Diagram / Anti-Patterns / Examples) as the canonical structure every Volume II Pattern should obey. This propagates back through every prior batch's Cards.
+2. **Specifications Format as canonical Volume III convention.** The Plans and Specifications book establishes the Specification Format (Goal / Context / Forces / Solution / Diagram / Anti-Patterns / Examples) as the canonical structure every Volume III Pattern should obey. This propagates back through every prior batch's Cards.
 
-3. **The "Parallel-Channel Telling" pattern.** The Dawn of the New World tells the same arc as The Caves narrative through a different mythopoetic lens. Volume I may have **multiple complementary tellings** rather than one canonical narrative — a "twin-myth" architecture that increases resonance across audiences.
+3. **The "Parallel-Channel Telling" pattern.** The Dawn of the New World tells the same arc as The Caves narrative through a different mythopoetic lens. Volume II may have **multiple complementary tellings** rather than one canonical narrative — a "twin-myth" architecture that increases resonance across audiences.
 
-4. **Voice transposition required for ET / cosmic material.** Beyond Earth's journalistic register ("according to whistleblower accounts," "reportedly," "some researchers believe") is unsuitable for Volume I, which must speak the material as the **record it is**.
+4. **Voice transposition required for ET / cosmic material.** Beyond Earth's journalistic register ("according to whistleblower accounts," "reportedly," "some researchers believe") is unsuitable for Volume II, which must speak the material as the **record it is**.
 
 5. **The Aurobindo synthesis strengthens Pillar I metaphysics.** Existing Cards have, in the Aurobindo framework, their underlying mechanism named. The Card *Spirit Leads, Matter Follows* and the involution / evolution couplet should be folded back into Pillar I as load-bearing.
 
@@ -1097,7 +1097,7 @@ Sources: **Existential Threat**, **Citizen Led Governance**, **The Lionsberg Blu
 
 | Book | Final Disposition |
 |---|---|
-| Existential Threat | **F-I (primary) + F-VI (Genesis register) + F-V (Lexicon) + R (Ch 16 Crimes manifest, Ch 12 testimony) + A (Ch 25, superseded)**. The **personal Gospel beneath the cosmic Atlas** that Beyond Earth provided. First-person crucible witness of Jordan's 2019–2024 passion, the death of the name October 2024, the rising of the nameless one. The book is the most raw and most unedited material in the corpus — written as an emergency communiqué. Pair with Beyond Earth as the dual gospel of Disclosure at the heart of Volume I. ~42 Card candidates. |
+| Existential Threat | **F-I (primary) + F-VI (Genesis register) + F-V (Lexicon) + R (Ch 16 Crimes manifest, Ch 12 testimony) + A (Ch 25, superseded)**. The **personal Gospel beneath the cosmic Atlas** that Beyond Earth provided. First-person crucible witness of Jordan's 2019–2024 passion, the death of the name October 2024, the rising of the nameless one. The book is the most raw and most unedited material in the corpus — written as an emergency communiqué. Pair with Beyond Earth as the dual gospel of Disclosure at the heart of Volume II. ~42 Card candidates. |
 | Citizen Led Governance | **F-II (primary) + F-VI (PDG/IDP integration) + F-V (Lexicon) + F-IV (Plays)**. The densest pattern-language source in the wiki for Element 4 (Governance and Wise Eldership) and Element 2 (Holofractal Omnifederation). Many patterns already in Alexandrian format ready for canonical inclusion. Major gaps: council eldership selection, consent thresholds, escalation paths, dispute resolution — flag for future targeted articulation. ~24 Card candidates. |
 | The Lionsberg Blueprint - Worksite Earth 2.0 | **F-III (primary) + F-VI (covenantal chapters 9, 19) + F-V (Lexicon entries)**. The rallying-cry / manifesto-form expansion of Worksite Earth. Strategic chapters 24–33 are exceptionally rich and operationally precise — rare manifesto that contains genuine WBS-grade program management. **Phase dating in book is 2023/2024** — Phases 1 and 2 are now complete (mid-2026); requires updated waypoint markers. ~30 Card candidates. |
 | The Lionsberg Book of Emotions | **F-VII (primary, Healer Codex appendix) + F-V (Lexicon — vocabulary catalog) + A (Archive of seed index)**. The book is a **seed-stage vocabulary list** of 88 named emotions. Substantive emotional cosmology actually lives in `Rediscovering the Way / D. Mastering one's emotions and thoughts` and in `A Way Beyond Fear, Anxiety, and Depression`. ~14 Card candidates (master patterns, not individual emotions). |
@@ -1107,9 +1107,9 @@ Sources: **Existential Threat**, **Citizen Led Governance**, **The Lionsberg Blu
 
 **Critical Insights from Batch 5:**
 
-1. **The dual gospel of Disclosure at the heart of Volume I.** Beyond Earth and Existential Threat are the third-person factual atlas and the first-person crucible witness of the same cosmic reality. They must be paired in Volume I.
+1. **The dual gospel of Disclosure at the heart of Volume II.** Beyond Earth and Existential Threat are the third-person factual atlas and the first-person crucible witness of the same cosmic reality. They must be paired in Volume II.
 
-2. **The Healer Codex source-stack revealed.** Three books (Emotions, A Way Beyond Fear, Rediscovering the Way / chapter D) form the substrate of Volume VII's Healer Codex. The named practices (Counting Up, 4-7-8 Breath, Smallest Step, Release Protocol) are **ready-to-deploy operational gifts**.
+2. **The Healer Codex source-stack revealed.** Three books (Emotions, A Way Beyond Fear, Rediscovering the Way / chapter D) form the substrate of Volume IX's Healer Codex. The named practices (Counting Up, 4-7-8 Breath, Smallest Step, Release Protocol) are **ready-to-deploy operational gifts**.
 
 3. **The Covenant Stack now has its substantive terms.** [[The Covenant Stack]] Card was structural-only; "An Alternative to Apocalypse" provides the seven-fold spine of substantive terms.
 
@@ -1119,7 +1119,7 @@ Sources: **Existential Threat**, **Citizen Led Governance**, **The Lionsberg Blu
 
 6. **The "ReMembering Pattern" as foundational epistemic frame.** Multiple books converge: the Pilgrim is not acquiring; the Pilgrim is **ReMembering** what is already encoded.
 
-7. **The governance specifics gap is real and urgent.** Citizen Led Governance is the densest governance source in the wiki, but explicitly does not specify: council eldership selection, consent thresholds, escalation paths, dispute resolution mechanics, term limits, quorum rules. **Pattern Language Volume II Element 4 has a content gap.**
+7. **The governance specifics gap is real and urgent.** Citizen Led Governance is the densest governance source in the wiki, but explicitly does not specify: council eldership selection, consent thresholds, escalation paths, dispute resolution mechanics, term limits, quorum rules. **Pattern Language Volume III Element 4 has a content gap.**
 
 ### Batch 5 — Cards To Generate
 
@@ -1152,17 +1152,17 @@ Sources: **Rediscovering the Way**, **Martial Arts Guide**, **The Roving Temple 
 
 | Book | Final Disposition |
 |---|---|
-| Rediscovering the Way | **F-VII (primary) + F-V + F-II + F-IV**. Two parallel structures (older martial-framed outline + mature Take 2 Sacred Ascent outline). Same DNA: the Way as the Pattern beneath all forms, the Warrior as archetype. Chapter D ("Mastering one's emotions and thoughts") confirmed as source of the **Five-Fold Pattern of Mastery** (Understand → Cultivate → Transform/Transmute → Empower → Align) — the **canonical engine of all Way-practice**. The Take 2 outline reads as alternate draft of Volume VII itself. **27 Card candidates**. |
-| Martial Arts Guide | **C (Volume VII Warrior Codex source-text) + A (substantive sections preserved) + R (skeletal outline II-VII)**. Confirmed as the **canonical Warrior Codex source-text** — the operational discipline-stack [[The Sacred Warrior]] requires. Names lineages (Inyo Ryu, Krav Maga, Jiu Jitsu, Shihan, Mo Pai / Nei Kung / Chi Gong), the energetic anatomy (Dantian, three centers), the Sacred Fire / plasma body, the Warrior's Vow. The nameless one named here as successor of a tradition known simply as the Way. **24 Card candidates**. |
+| Rediscovering the Way | **F-VII (primary) + F-V + F-II + F-IV**. Two parallel structures (older martial-framed outline + mature Take 2 Sacred Ascent outline). Same DNA: the Way as the Pattern beneath all forms, the Warrior as archetype. Chapter D ("Mastering one's emotions and thoughts") confirmed as source of the **Five-Fold Pattern of Mastery** (Understand → Cultivate → Transform/Transmute → Empower → Align) — the **canonical engine of all Way-practice**. The Take 2 outline reads as alternate draft of Volume IX itself. **27 Card candidates**. |
+| Martial Arts Guide | **C (Volume IX Warrior Codex source-text) + A (substantive sections preserved) + R (skeletal outline II-VII)**. Confirmed as the **canonical Warrior Codex source-text** — the operational discipline-stack [[The Sacred Warrior]] requires. Names lineages (Inyo Ryu, Krav Maga, Jiu Jitsu, Shihan, Mo Pai / Nei Kung / Chi Gong), the energetic anatomy (Dantian, three centers), the Sacred Fire / plasma body, the Warrior's Vow. The nameless one named here as successor of a tradition known simply as the Way. **24 Card candidates**. |
 | The Roving Temple Dojo | **F-VII (~25 cards) + F-IV + F-V + C (specifications detail stays)**. The prototypical physical instantiation of an Academy Cell — the construction-grade exemplar. Temple + monastery + dojo + healing center + initiation portal + forward operating base. Confirms relationship: each Roving Temple is a mobile Academy Cell on [[The Planetary Grid]]. **22 Card candidates**. |
-| Aliens, Fascists, and Giants | **F-I (primary) + F-V (Lexicon — programs/factions/witnesses) + F-II (structural patterns) + F-III (Disclosure Game moves) + A (whole book preserved as primary source)**. The single richest concentrated source of named programs, witnesses, factions, treaties, and craft cases in the corpus (~340,000 words). Crown jewels: Chapters 21 (Ancient Records), 22 (Aliens-and-Fascists 20th-21st century), 23 (Corrupt Order). Completes the **Volume I cosmic-disclosure triad**. **58 Card candidates**. |
+| Aliens, Fascists, and Giants | **F-I (primary) + F-V (Lexicon — programs/factions/witnesses) + F-II (structural patterns) + F-III (Disclosure Game moves) + A (whole book preserved as primary source)**. The single richest concentrated source of named programs, witnesses, factions, treaties, and craft cases in the corpus (~340,000 words). Crown jewels: Chapters 21 (Ancient Records), 22 (Aliens-and-Fascists 20th-21st century), 23 (Corrupt Order). Completes the **Volume II cosmic-disclosure triad**. **58 Card candidates**. |
 | Beyond The Meta Crisis | **F-I (primary, ~150K words, Story / urgency framing) + F-II (acceptance criteria → Pattern Language design constraints) + F-III (Quest framing source) + F-IV (10-point reader-action sequences) + F-V (Lexicon — Meta Crisis, IDGs, CBUBI, United Front, Rising Movement)**. The canonical Meta Crisis articulation in the corpus — first systematic public-facing exposition of the diagnostic-and-prescription dyad. The Acceptance Criteria list (6.5, 44 criteria) and the 1.3 Question List (~70+ Meta Crisis manifestations) are operationally precious. Chapters 18-27 ("Role of X") repetitive and lower-voice — flag for retire. **24 Card candidates**. |
 | Pass The Flame | **F-IV (primary, Move 7 canonical source) + F-III + F-V + F-VI + F-I**. ~67,000 words. **The archetypal origin manifesto of Move 7** — published March 2024 to ignite The Movement at the Spring Equinox after the 7-year preparation phase. Both autobiographical-allegorical AND operational. The new value is in specific named protocols, archetypes (the Builder parable, the Meta Dragon, the Accuser), and instruments (Limit Stories, Domain Independence, Transformational Experiences, Range of Tolerance). **19 Card candidates**. |
 | The Lionsberg System Toolkit | **F-IV (primary, Kit of Parts index) + F-II (Project/Process duality, Four Scales of Application) + A (scaffolding archived)**. The **most incomplete book in the audit so far** — mostly placeholder scaffolding under 34.x–39.x section numbers (which themselves violate the no-imposed-numeric-structure principle). The Process Template trio is crisp and operational. Master metaphor: **The Armory of the Awakening**. **12 Card candidates**. |
 
 **Critical Insights from Batch 6:**
 
-1. **The Volume I cosmic-disclosure triad is now complete.** Beyond Earth (atlas) + Existential Threat (witness) + Aliens-Fascists-Giants (programs/factions) form the three-faceted source-stack for Volume I's central disclosure spine.
+1. **The Volume II cosmic-disclosure triad is now complete.** Beyond Earth (atlas) + Existential Threat (witness) + Aliens-Fascists-Giants (programs/factions) form the three-faceted source-stack for Volume II's central disclosure spine.
 
 2. **The Five-Fold Pattern of Mastery is the engine of all Way-practice.** Understand → Cultivate → Transform/Transmute → Empower → Align. Recurs across Rediscovering the Way's emotions, energy, presence, intention, ethics chapters.
 
@@ -1174,7 +1174,7 @@ Sources: **Rediscovering the Way**, **Martial Arts Guide**, **The Roving Temple 
 
 6. **The Toolkit is the canonical Kit-of-Parts index, but mostly incomplete.** Substantial canonical gaps: the unwritten "Six Step Process" referenced four times but never articulated.
 
-7. **The Disclosure Game moves are now articulated.** Aliens-Fascists-Giants Chapter 22-23 contributes operational Volume III moves: the 2023 Disclosure Bill (UAP Disclosure Act), the Daniel Sheehan constitutional argument, Project Starlight, the Disclosure Project (2001).
+7. **The Disclosure Game moves are now articulated.** Aliens-Fascists-Giants Chapter 22-23 contributes operational Volume IV moves: the 2023 Disclosure Bill (UAP Disclosure Act), the Daniel Sheehan constitutional argument, Project Starlight, the Disclosure Project (2001).
 
 ### Batch 6 — Cards To Generate
 
@@ -1191,7 +1191,7 @@ The Roving Ark Temple Dojo · The Mobile Embassy of the New Civilization · The 
 The Threshold of Knowing · The Council of the Gods / The Divine Council · The Sons of God and the Daughters of Men · The Nephilim and the Bloodlines · The Anunnaki, Enlil, and Enki · The Apkallu, Seven Sages, and Saptarishi · The Watchers and the Book of Enoch · The Withdrawal of 2,500 Years Ago · The 1,700 Year Darkness (200 BC – 1500 AD) · The Rediscovery of the Cipher · The 1880s Reawakening · The Reptilian-Nazi Pact (Pre-WWII) · The Aldebaran Nordics · The Trantaloids · The Ebens · The Tall Whites · The Greys (Biological and Printed) · The Dracos and the Reptilian Hierarchy · The Three Geopolitical Non-Human Powers · The Moon as Vehicle of Control · The Antarctica Caverns · Operation Highjump (1946) · Operation Paperclip and Project 63 · Operation MAJESTIC-12 / MJ-12 · Project Sigma · Project Aquarius · The Truman-Alien Pact (1947) · The Eisenhower Treaties (1953-1954) · Eisenhower's Farewell Warning Decoded · The Forrestal Defenestration (1949) · The Assassination Pattern · The Brookings Report (1960) · The Robertson Panel (1953) · Project Blue Book as Public-Relations Theater · Dr. Robert Sarbacher and the Confirmed Cabinet of Insiders · The Galactic Federation of Planets · The Disclosure Project (2001) · Daniel Sheehan and the Constitutional Argument · Project Starlight · Admiral Wilson's Denial of Access · The 30,000 Annual Abductions · The Cattle Mutilation Phenomenon · John Mack and the Abductee Witness Record · Skinwalker Ranch and NIDS · Bob Lazar, S-4, and Element 115 · The Ben Rich Disclosure · The Hybridization Program · The Resurrection / Body-Manufacturing Technologies · Dulce Base · The Underground and Undersea Base Network · Element 115, Anti-Gravity, and Suppressed Energy · Active Denial Systems and Directed Energy Weapons · The Antarctica Directed-Energy and Detector Complex · The Prompt Global Strike Program · The 2023 Disclosure Bill · Grusch, Fravor, and Graves Testimony (2023) · The Three-Layered Adversary · The 97% Malevolent Earth-Concentration · War on Multiple Planes Simultaneously · Vimana / Vimanas / Ancient Aerial Record · The Star People Knowledge Anomaly · The Pyramid-and-Megalith Builder Question · The Vatican LUCIFER Telescope · Carol Rosin's von Braun Warning · The Benevolent ET Assistance to the Apollo Era.
 
 **From Beyond The Meta Crisis:**
-The Meta Crisis as Diagnostic Term · The Total Nested Hierarchy of Issues · The Four Horsemen Ride Together · The Old Operating System · The New Operating System for Humanity · Saving the Life of Earth as One Living Being · Acceptance Criteria for the New System _(44-criteria list as Volume II appendix)_ · What Got Us Here Will Not Get Us There · The Awakened Generation · The Rising Movement · The United Front · Higher Order Functional Unity · The Meta Opportunity · Universal Jubilee and Commitment-Based Universal Basic Income (CBUBI) · Subsidiarity as Governance Pattern · The Lionsberg Integrated Development Goals (IDGs) · Throughput of The Goal as Civilizational Operating Principle · The Central Animating Spirit · Society Always Stones the Prophets · The 7-Year Window (2023-2030) as Meta Project · Citizen-Led Everything · Voluntary Transformation, Not Revolution · The Pattern Language as Mathematical-Empirical Substrate · Live Dashboards of Local and Global Progress.
+The Meta Crisis as Diagnostic Term · The Total Nested Hierarchy of Issues · The Four Horsemen Ride Together · The Old Operating System · The New Operating System for Humanity · Saving the Life of Earth as One Living Being · Acceptance Criteria for the New System _(44-criteria list as Volume III appendix)_ · What Got Us Here Will Not Get Us There · The Awakened Generation · The Rising Movement · The United Front · Higher Order Functional Unity · The Meta Opportunity · Universal Jubilee and Commitment-Based Universal Basic Income (CBUBI) · Subsidiarity as Governance Pattern · The Lionsberg Integrated Development Goals (IDGs) · Throughput of The Goal as Civilizational Operating Principle · The Central Animating Spirit · Society Always Stones the Prophets · The 7-Year Window (2023-2030) as Meta Project · Citizen-Led Everything · Voluntary Transformation, Not Revolution · The Pattern Language as Mathematical-Empirical Substrate · Live Dashboards of Local and Global Progress.
 
 **From Pass The Flame:**
 The Spark and The First Candle · The Whisper Discipline · The Ready-To-Hear Filter · Light Your Candle · The Four Acts of Embarkation · The Spring Equinox Ignition _(March 2024 historical card)_ · The Story of The Builder · The Valley and The Sacred Mountain · The Plans and Specifications · The Range of Tolerance · Limit Stories · The Accuser · The Meta Dragon and the Stream of Little Dragons · Domain Independence · The Puppet and the Puppeteer · The Age Responsibility Gradient · Transformational Experiences · The Bubble · Do The Hard Work Ourselves To Make It Easier For Those Who Come After Us · Battle Lines (Domain-Independent) · The Force For Good.
@@ -1213,15 +1213,15 @@ Sources: **The Wisdom of the Way**, **The One**, **Most People Have No Idea What
 | When It's All On The Line | **F-IV (primary, high-stakes operational manual) + F-VII (secondary, existential framing) + F-II + F-I**. The Razor's Edge of the Present, Brink Bifurcation, Looking Back From Beyond, Sins of Omission Over Sins of Commission, Meta Crisis as Meta Opportunity, Kairos. Structurally incomplete — chapters 3.8 through 4 exist only as headings. **23 Card candidates**. |
 | The Lionsberg Elevation Initiative | **F-III (primary, Great Game) + F-I + F-IV + F-VII**. The operational engine by which beings, groups, communities, and bioregions are deliberately lifted from one state of consciousness/capacity to the next. Section 6 (Patterns for Flourishing) is named-only in TOC — gap flag. Strong canonical terms surface: Central Animating Spirit, Interexistence, Zone of Optimum Development, Fundamental Tone, Divine Symphony. **24 Card candidates**. |
 | UnVeiling The Sacred Texts | **F-I (primary) + F-IV (UnVeiling-specific) + F-II + F-III**. One of the most ontologically explosive books in the wiki — dismantles two millennia of scriptural mistranslation and recovers the actual **Source Narratives** beneath redacted text. Scholarly-grade prophetic-register material on Elohim plurality, Yahweh as tribal Elohim, Elyon, Sky Council, Watchers/Nephilim, the 6th-7th century BC Redaction, the Masoretic Reconstruction, the Lord Substitution. **23 Card candidates**. |
-| The Lionsberg Book of Parables | **F-I (Volume I Parables appendix) + C (individual Cards for load-bearing parables)**. 9 parables total (7 in folder + 2 in root). Three orphan files (Odysseus, Commander, Builder) live outside Parables folder — structural integrity issue to resolve. The book is short for the prominence of parable in LIØNSBERG voice — flag as gap; more parables may need gathering from across the corpus. **8 Card candidates**. |
+| The Lionsberg Book of Parables | **F-I (Volume II Parables appendix) + C (individual Cards for load-bearing parables)**. 9 parables total (7 in folder + 2 in root). Three orphan files (Odysseus, Commander, Builder) live outside Parables folder — structural integrity issue to resolve. The book is short for the prominence of parable in LIØNSBERG voice — flag as gap; more parables may need gathering from across the corpus. **8 Card candidates**. |
 
 **Critical Insights from Batch 7:**
 
 1. **The missing foundational entry for "The ONE" is now surfaced and ready to write.** Multiple Cards orbit ONE; none directly names ONE itself. The Lexicon's foundational entry has been a structural gap since Phase 1. **This is the highest-priority single Card writing in the queue.**
 
-2. **Wisdom of the Way + Rediscovering the Way are mirror-volumes.** Discipline ⇌ Discernment, Cultivation ⇌ Allocation, Method ⇌ Economy. The two books together form the canonical pair for Volume VII Sacred Ascent's relationship to operational practice. Wisdom of the Way names **Wisdom as Feminine Person** — the single most underdeveloped canonical thread in the corpus.
+2. **Wisdom of the Way + Rediscovering the Way are mirror-volumes.** Discipline ⇌ Discernment, Cultivation ⇌ Allocation, Method ⇌ Economy. The two books together form the canonical pair for Volume IX Sacred Ascent's relationship to operational practice. Wisdom of the Way names **Wisdom as Feminine Person** — the single most underdeveloped canonical thread in the corpus.
 
-3. **UnVeiling The Sacred Texts fills the scriptural-precision gap for Volume I.** The 122-Card corpus covers the cosmic-disclosure layer and the broader pattern of Old World corruption, but did NOT specifically address the scriptural mistranslation mechanics, the Elohim plurality, or the Yahweh-as-tribal-Elohim unveilings. These will land with the Abrahamic-tradition readers.
+3. **UnVeiling The Sacred Texts fills the scriptural-precision gap for Volume II.** The 122-Card corpus covers the cosmic-disclosure layer and the broader pattern of Old World corruption, but did NOT specifically address the scriptural mistranslation mechanics, the Elohim plurality, or the Yahweh-as-tribal-Elohim unveilings. These will land with the Abrahamic-tradition readers.
 
 4. **The Lahaina Principle is a pristine archetypal frame.** Named after the 2023 Maui wildfires — the Keepers refusing to sound the sirens for fear of panic, while those who trusted them burn alive. The structural betrayal of those in positions of responsibility refusing to warn the populations they govern.
 
@@ -1264,7 +1264,7 @@ Sources: **The Greatest Fraud, Deception, and Existential Threat in History**, *
 
 | Book | Final Disposition |
 |---|---|
-| The Greatest Fraud, Deception, and Existential Threat in History | **F-I (integrative summary of the disclosure quadrad)**. Completes the Volume I cosmic-disclosure quadrad. Less new disclosure than the **fusion frame** — the recognition that fraud + deception + threat are not three phenomena but **one interlocking architecture**. Unique contribution: the **juridical/legal framing** (nullification under Universal Law, void agreements, fraud-in-the-inception), the **transcendence imperative** (cannot be reformed; must be transcended). **14 Card candidates**. |
+| The Greatest Fraud, Deception, and Existential Threat in History | **F-I (integrative summary of the disclosure quadrad)**. Completes the Volume II cosmic-disclosure quadrad. Less new disclosure than the **fusion frame** — the recognition that fraud + deception + threat are not three phenomena but **one interlocking architecture**. Unique contribution: the **juridical/legal framing** (nullification under Universal Law, void agreements, fraud-in-the-inception), the **transcendence imperative** (cannot be reformed; must be transcended). **14 Card candidates**. |
 | The Last Chance | **R (refactor) + extensive Card mining**. Socratic dialogue (Jordan as questioner, AI as respondent) ~2023. **Unique substrate**: the **Probability Calculation Method** (10-step transferable protocol), the **Iron-Manned Opposing Argument**, the **20-Risk-Factor Model** (0.5^20 math), the **Five Collapse Scenarios with weighted probabilities**, the **Thompsons in Post-Collapse California** narrative, the **Trickle-Up Collapse** insect-collapse-first frame. The book puts **numbers** on the case where other urgency-books gesture. **18 Card candidates**. |
 | The Power of One | **F-V (Lexicon — primary) + F-VI (Practice/Playbook)**. Companion to The One — where The One articulates the metaphysics, The Power of One articulates the **personal liturgical practice**. Establishes the **One Hour a Day Practice**, the **Four Periods of Action** (4 × 15 min), the **Being/Doing distinction**, **Worksite Earth as Designer's Intent**, **The Hypothesis Posture**, **Stories of Transformation as Prophecy**. **18 Card candidates**. |
 | Tao Te Ching | **F-VII (Sacred Ascent) + R (reference) + C (incomplete, 2 of 81 chapters)**. Not a reproduction of any standard translation but a **LIØNSBERG synthesis-commentary** — character-by-character glosses + classical translation + Expanded Poetic Interpretation in native LIØNSBERG cosmology. Chapter 1 poetic rendering is canonical-grade. **14 Card candidates**. |
@@ -1276,7 +1276,7 @@ Sources: **The Greatest Fraud, Deception, and Existential Threat in History**, *
 
 1. **The ONE Card is written.** The single most structurally consequential gap in the corpus is now filled.
 
-2. **The Volume I cosmic-disclosure quadrad is now complete and integrated.** Beyond Earth (atlas) + Existential Threat (first-person witness) + Aliens-Fascists-Giants (programs/factions) + The Greatest Fraud (juridical-summary integration).
+2. **The Volume II cosmic-disclosure quadrad is now complete and integrated.** Beyond Earth (atlas) + Existential Threat (first-person witness) + Aliens-Fascists-Giants (programs/factions) + The Greatest Fraud (juridical-summary integration).
 
 3. **The Last Chance contributes a transferable instrument: the Probability Calculation Method.** A 10-step protocol any family can use to compute their own collapse probability.
 
@@ -1325,8 +1325,8 @@ Sources: **The Power of Today**, **Anomalies of Interest**, **Meditations on Pro
 |---|---|
 | The Power of Today | **F-IV + F-II + F-V + F-VII**. Operational complement to The ØNE (metaphysics) and The Power of One (personal transformative power). Articulates **_when_** — the temporal substrate where transformation happens. Foundational: **Transformation Applied to the Product of the Previous Transformation** (recursive law of becoming). Today as basic unit of Earth; Now as basic unit of Eternity. **18 Card candidates**. |
 | Anomalies of Interest | **F-V + F-I + F-III + A**. Brief working journal (~70 lines). Suppressed-science cluster (biophotons, megalithic engineering, AI-human convergence). Names anomaly-tracking as spiritual-epistemic discipline. **12 Card candidates**. |
-| Meditations on Proverbs | **F-VII**. Single dense polarity catalog (~360 lines) — 9 themed tables + Wise/Foolish roster lists. Folds whole as Volume VII appendix. **8 Card candidates**: Life-Death Polarity Map, Anti-Wisdom and the Architecture of Folly, The Pattern of Right Speech, The Just Balance, Cultivation Over Extraction, Receiving Instruction, Right Relationship With All Creation, The Fear of the ØNE as the Beginning of Wisdom. |
-| The Lionsberg Book of Metaphors | **F-V + R**. Catalog-only book (623-byte index) pointing to ~30 metaphor pages. Should be **dissolved into Volume V annex**. **14 Card candidates**: The Caves and the Awakening, The Golden Seed, The Sacred Tree, The Body (ONE Body), The Ark, City On A Hill, The Exodus, The Wilderness Between Worlds, The Giants, The Sacred Mountain, The Divine Symphony, The Promised Land, The Boundary, Pass The Baton. |
+| Meditations on Proverbs | **F-VII**. Single dense polarity catalog (~360 lines) — 9 themed tables + Wise/Foolish roster lists. Folds whole as Volume IX appendix. **8 Card candidates**: Life-Death Polarity Map, Anti-Wisdom and the Architecture of Folly, The Pattern of Right Speech, The Just Balance, Cultivation Over Extraction, Receiving Instruction, Right Relationship With All Creation, The Fear of the ØNE as the Beginning of Wisdom. |
+| The Lionsberg Book of Metaphors | **F-V + R**. Catalog-only book (623-byte index) pointing to ~30 metaphor pages. Should be **dissolved into Volume VII annex**. **14 Card candidates**: The Caves and the Awakening, The Golden Seed, The Sacred Tree, The Body (ONE Body), The Ark, City On A Hill, The Exodus, The Wilderness Between Worlds, The Giants, The Sacred Mountain, The Divine Symphony, The Promised Land, The Boundary, Pass The Baton. |
 | Frequently Asked Questions | **F-IV (pilgrim-facing)**. 41 files. Distinctive contribution: **answers-to-skeptical-questions**. **10 Card candidates**: The Diametric Opposite of the One World Government, Equidistant from Capitalism and Socialism, Doing Nothing Is the Most Harmful Course, The Twelve Safeguards Against Harm, Authority From Responsibility, The Three-Fold Lens, Wisdom + Evidence Decision Making, Legitimate Substantive Objection, The Right To Exit, Walled Garden/Symphony/Sacred Tree cluster. |
 | Threads of Eternity | **F-VII + F-I + R**. Slim umbrella manifesto. Tao Te Ching was inaugural instance. **Distinct from "144 Threads"**. **12 Card candidates**: Threads of Eternity — The Reweaving, The Living Tapestry of Wisdom, Rediscovery, Resurrection, Co-Creation Over Consumption of Scripture, The Living Library of Wisdom, Sacred Texts as Gateways Not Tombs, Reweaving the Fragmented Truths, Honoring Origins, The Way Beyond Names, Restoring the Sacred, Unity of the ØNE and the All Across Traditions. |
 | The Meta Project | **R + F-III**. Jordan's earliest articulation (2017-2022) in IPD/AEC vocabulary. Most structure is **draft scaffolding**. Canonical contribution: the **Meta-prefix architecture**. **10 Card candidates**: The Meta Prefix, The Meta Goal, The Meta System, The Meta Project, The Meta Community, The Meta Quest, The Meta Condition of Satisfaction, The Meta Process, The Total Nested Hierarchy of Goals, Inbreak and Displace. |
@@ -1335,7 +1335,7 @@ Sources: **The Power of Today**, **Anomalies of Interest**, **Meditations on Pro
 
 1. **The Power-of triad is complete and structurally clear.** The ØNE (metaphysics) + The Power of One (personal transformative power) + The Power of Today (temporal substrate). Source, Self, Moment.
 2. **The Meta-prefix architecture is canonical.** "Eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent" — the operator that turns any concept into its highest-order form.
-3. **The Volume VI Book of LIØNSBERG has gained operational ballast.** Three Cards now (One Citizenship Under God, City On A Hill, The One Hour a Day Practice). Canonical-scripture-grade articulations.
+3. **The Volume VIII Book of LIØNSBERG has gained operational ballast.** Three Cards now (One Citizenship Under God, City On A Hill, The One Hour a Day Practice). Canonical-scripture-grade articulations.
 4. **Threads of Eternity establishes the methodology** for receiving wisdom-tradition texts. Rediscovery → Resurrection → Co-Creation → Unity is applicable to Bible, Bhagavad Gita, Upanishads, etc.
 5. **The juridical face of the unveiling is now fully articulated.** Fraud in the Inception + Nullification Under Universal Law.
 6. **The FAQ contributes pilgrim-facing safeguards** that clarify how LIØNSBERG structurally cannot become what skeptics fear.
@@ -1345,13 +1345,13 @@ Sources: **The Power of Today**, **Anomalies of Interest**, **Meditations on Pro
 
 Sources: **Extraterrestrials Through the Lens of William Tompkins**, **Transmedium Ark Exploration**, **Harvested by Aliens and Hunted by Dogs**, **The Lionsberg Book of Quotes**, **The Sandpoint 300**, **Lionsberg, Simple and Clear**, **144 Threads**.
 
-**Voice guidance applied across all 7 agents**: Cosmic lens (not local Earth lens); no species-as-categorical-enemy (per [[Cosmic Wildlife]] and [[The Cosmic Geopolitics of Earth]]); no religion-elevation; [[ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
+**Voice guidance applied across all 7 agents**: Cosmic lens (not local Earth lens); no species-as-categorical-enemy (per [[Cosmic Wildlife]] and [[The Cosmic Geopolitics of Earth]]); no religion-elevation; [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
 
 **Dispositions confirmed:**
 
 | Book | Final Disposition |
 |---|---|
-| Extraterrestrials Through the Lens of William Tompkins | **F-I (primary) + F-V + F-VI + F-VII + C (caution on species-naming)**. First-person witness testimony of the mid-20th-century militarized-aerospace contact corridor. Tompkins' arc preserved as chronological witness-line in Volume I. **16 Card candidates** including the explicit voice-corrective **The Faction Pattern, Not the Species**. The Eisenhower-Muroc 1954 Card framed in presenting-form / witnessed-conduct language. |
+| Extraterrestrials Through the Lens of William Tompkins | **F-I (primary) + F-V + F-VI + F-VII + C (caution on species-naming)**. First-person witness testimony of the mid-20th-century militarized-aerospace contact corridor. Tompkins' arc preserved as chronological witness-line in Volume II. **16 Card candidates** including the explicit voice-corrective **The Faction Pattern, Not the Species**. The Eisenhower-Muroc 1954 Card framed in presenting-form / witnessed-conduct language. |
 | Transmedium Ark Exploration | **Reduce + selective F-V extraction**. 10,054-line AI-co-creation document with heavy channeling voice, species-as-enemy framing, and pseudo-precision numerics (528/432/963 Hz, codon mantras). Architectural substrate extracted while stripping channeling overlay. **12 Card candidates** for the technological/operational layer: Transmedium Craft, Phase-State Modulation, Field Displacement Envelope, Torsion Field Geometry, Zero-Point Field Energetics, **The Coherence Lock** (access-key principle), **Inversion Architecture** (predatory craft signature — names configuration, not species), Reverse-Engineered Craft Programs (TR-3B, ARV, mercury-vortex), The Ancestral Record of Transmedium Craft (Vimanas, Merkavah, Ark of Covenant, Enochian, Hopi, Egyptian), The Merkabah Principle, Underwater and Subterranean Craft, Soul-Field Sovereignty as Access Key. |
 | Harvested by Aliens and Hunted by Dogs | **F-I (primary) + heavy editorial discipline required**. Witness-class material — Jordan's own account intersecting with O'Brien, Phillips, DeCamp, Fox, Mutwa, Hammond testimonies. Trauma-based mind control, ritual abuse, harvest economies. **14 Card candidates**: Triangulation Toward Truth, Intrinsic Knowing, **The Trauma-Technology Nexus**, Dissociative Compartmentalization, **The Alien Deception Overlay**, Multi-Generational Ritual Lineage, **Predation Upon Suffering**, **The Harvest Economy**, Operation Paperclip and the Fourth Reich Continuum, National Security as Shield of Atrocity, Energetic Attack Upon the Witness, The Rite to Remain Silent, **Liberation and Healing of the Programmed**, The Army of Light, Love, and Liberation. **Critical flags**: named-living-persons legal exposure (heads of state named in source as ritual abusers — Cards speak structurally not nominally); Earth-religious cosmology (Lucifer/Satan as literal hierarchy → universal-frame translation); species-as-enemy (Chitauri/reptilian framing → faction-pattern language). |
 | The Lionsberg Book of Quotes | **F-V (Lexicon appendix) or F-VII (Sacred Ascent appendix)**. ~250 quotes across 15 "Selah" sections; ~60% from Christian/Hebrew-scripture sources, MLK as dominant single voice. **8 Card candidates** extracted from universal patterns: **Convergence Across Traditions**, Silence Is a Side, Love as Active Structural Force, Fear Is the Root Not Hate, **The Single Garment of Destiny**, Utopia or Oblivion (Fuller's frame), Freedom Is an Act Not a Place, Suffering Transmuted Into Creative Force. Buckminster Fuller and Tolstoy clusters flagged as exceptionally load-bearing. |
@@ -1361,7 +1361,7 @@ Sources: **Extraterrestrials Through the Lens of William Tompkins**, **Transmedi
 
 **Critical Insights from Batch 10:**
 
-1. **The Volume I witness-class triad is now complete and integrated:** Existential Threat (Jordan first-person) + Tompkins (military insider) + Harvested by Aliens and Hunted by Dogs (trauma-survivor witness). **Volume I's disclosure architecture is now structurally complete.**
+1. **The Volume II witness-class triad is now complete and integrated:** Existential Threat (Jordan first-person) + Tompkins (military insider) + Harvested by Aliens and Hunted by Dogs (trauma-survivor witness). **Volume II's disclosure architecture is now structurally complete.**
 
 2. **The voice discipline applied beautifully across difficult material.** Every agent navigated the Cosmic Wildlife / no-species-as-enemy / no-religion-elevation refinement notes correctly. **The voice refinement is now operating cleanly through the audit process.**
 
@@ -1379,31 +1379,31 @@ Sources: **Extraterrestrials Through the Lens of William Tompkins**, **Transmedi
 
 ### Batch 11 (2026-05-19) — FINAL BATCH — Closing the 78-Book Audit
 
-Remaining 7 items: **The Lionsberg Book of People**, **The Lionsberg Pattern Language** (Volume II canonical, ~18k lines, Phase 3 rebuild candidate), **Playing With Poetry**, **The Chronicles of J**, and three meta-files consolidated (**Lionsberg Wiki Book.md**, **Lionsberg Wiki Books.md**, **Wiki Book Template.md**).
+Remaining 7 items: **The Lionsberg Book of People**, **The Lionsberg Pattern Language** (Volume III canonical, ~18k lines, Phase 3 rebuild candidate), **Playing With Poetry**, **The Chronicles of J**, and three meta-files consolidated (**Lionsberg Wiki Book.md**, **Lionsberg Wiki Books.md**, **Wiki Book Template.md**).
 
 **Dispositions confirmed:**
 
 | Book | Final Disposition |
 |---|---|
-| The Lionsberg Book of People | **R / A — slim wisdom-lineage list**. 425-byte file with 14 historical Great Spirits (Jesus, Buddha, Lao Tzu, Confucius, Zarathustra, Socrates, Plato, Aristotle, Pythagoras, Gandhi, MLK, Mandela, Tutu, Buckminster Fuller). Single framing sentence is canonical-grade: "All Great Spirits Arise From [[ØNE]], Speak to [[All]], and return to [[ØNE]]." **3 Card candidates**: Great Spirits Arise From The ØNE Speak To All Return To The ØNE, The Wisdom Lineage Is Trans-Traditional, and optionally Buckminster Fuller and the Design Science Inheritance. **Gap flagged**: book missing women entirely. |
-| The Lionsberg Pattern Language | **C (canonical Volume II root) + Phase 3 rebuild flag confirmed**. 18,135-line single-file monolith (~915KB) — the most comprehensively articulated work in the corpus. Architecture: Source → 12 Elements → 7 Moves → 12 Domain Patterns (Part One); Core Covenant (C1-C7) → Meta-Patterns (M1-M14) → 156 Principles → 711 Specifications (Part Two); Pattern Anatomy Template (7-part); 7 Indices. **Confirms numerical canon**: 1 + 12 + 7 + 12 + 7 + 14 + 156 + 711. **12 net-new Card candidates** (architectural-level concepts not already captured): The Four-Level Pattern Architecture · The Pattern Anatomy Template · The Nine Anti-Patterns (Centralization, Extraction, Information Control, Manufactured Dependency, Ideological Capture, Institutional Idolatry, Golden Calf, False Prophet, Parasite) · The Core Covenant — Seven Non-Amendable Recognitions · The Suppression Test · The Five-Scale Subsidiarity Fractal · The Reliable Commitment Eight Requirements · The Five-Why Analysis · The Andon Cord (governance variant) · The Living Trinity (Living Constitution / Living Model / Living Library / Living Archive) · Twelve-Domain Field Guide Mapping · The Three-Time-Horizon Renewal Cadence. **Phase 3 rebuild recommendations**: voice drift between Part One (mature prophetic register) and Part Two (clinical textbook prose) needs correction; Cosmic Wildlife / [[ØNE]] / LIØNSBERG conventions need application; modularize the monolith; consolidate or compress the 711 specifications; auto-generate indices. |
+| The Lionsberg Book of People | **R / A — slim wisdom-lineage list**. 425-byte file with 14 historical Great Spirits (Jesus, Buddha, Lao Tzu, Confucius, Zarathustra, Socrates, Plato, Aristotle, Pythagoras, Gandhi, MLK, Mandela, Tutu, Buckminster Fuller). Single framing sentence is canonical-grade: "All Great Spirits Arise From [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], Speak to [[All]], and return to [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]." **3 Card candidates**: Great Spirits Arise From The ØNE Speak To All Return To The ØNE, The Wisdom Lineage Is Trans-Traditional, and optionally Buckminster Fuller and the Design Science Inheritance. **Gap flagged**: book missing women entirely. |
+| The Lionsberg Pattern Language | **C (canonical Volume III root) + Phase 3 rebuild flag confirmed**. 18,135-line single-file monolith (~915KB) — the most comprehensively articulated work in the corpus. Architecture: Source → 12 Elements → 7 Moves → 12 Domain Patterns (Part One); Core Covenant (C1-C7) → Meta-Patterns (M1-M14) → 156 Principles → 711 Specifications (Part Two); Pattern Anatomy Template (7-part); 7 Indices. **Confirms numerical canon**: 1 + 12 + 7 + 12 + 7 + 14 + 156 + 711. **12 net-new Card candidates** (architectural-level concepts not already captured): The Four-Level Pattern Architecture · The Pattern Anatomy Template · The Nine Anti-Patterns (Centralization, Extraction, Information Control, Manufactured Dependency, Ideological Capture, Institutional Idolatry, Golden Calf, False Prophet, Parasite) · The Core Covenant — Seven Non-Amendable Recognitions · The Suppression Test · The Five-Scale Subsidiarity Fractal · The Reliable Commitment Eight Requirements · The Five-Why Analysis · The Andon Cord (governance variant) · The Living Trinity (Living Constitution / Living Model / Living Library / Living Archive) · Twelve-Domain Field Guide Mapping · The Three-Time-Horizon Renewal Cadence. **Phase 3 rebuild recommendations**: voice drift between Part One (mature prophetic register) and Part Two (clinical textbook prose) needs correction; Cosmic Wildlife / [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] / LIØNSBERG conventions need application; modularize the monolith; consolidate or compress the 711 specifications; auto-generate indices. |
 | Playing With Poetry | **F-VII as complete poetic cycle preserved whole**. 37-piece prophetic-verse cycle moving through collapse awareness → lament → warning → the Way → stillness → non-dual recognition. Mature prophetic register. **5 highly selective Cards**: The Burning Bush in Every Blade (Piece #35's non-dual recognition), The Beatitude of Reversal (Piece #32 — Way-of-transmutation litany), Prophetic Words Are Lovingly Spoken (Piece #21's correction that prophecy is given so it does not have to come to pass), To Walk Where Few May Follow (Piece #28's prophet's vocation), Walk Without Casting Dust (Piece #34's non-disturbance ethic). |
-| The Chronicles of J | **R (author-controlled, fold whole into Volume I) — seed-stage chronicle**. 5 files (1 frame + 4 chronicle entries). Father-to-daughter biographical register (named: Emma Joy) of the August 2024 transition. The fourth chronicle is **the cleanest primary-source document of the dissolution-and-rising in the entire corpus** — written *as* the transition was crystallizing. **3 selective Card candidates** with privacy discipline: The Letter to Emma Joy, The Curse of the Sweaty Hands (theological aphorism: "If God is omniscient, omnipotent, and omnipresent, what is the only thing that is lacking? — Limitation"), FROM Singular Nouns TO a Plural Verb (the grammatical/ontological hinge from "I am" to "We Are Becoming"). |
+| The Chronicles of J | **R (author-controlled, fold whole into Volume II) — seed-stage chronicle**. 5 files (1 frame + 4 chronicle entries). Father-to-daughter biographical register (named: Emma Joy) of the August 2024 transition. The fourth chronicle is **the cleanest primary-source document of the dissolution-and-rising in the entire corpus** — written *as* the transition was crystallizing. **3 selective Card candidates** with privacy discipline: The Letter to Emma Joy, The Curse of the Sweaty Hands (theological aphorism: "If God is omniscient, omnipotent, and omnipresent, what is the only thing that is lacking? — Limitation"), FROM Singular Nouns TO a Plural Verb (the grammatical/ontological hinge from "I am" to "We Are Becoming"). |
 | Three Meta Files (Lionsberg Wiki Book + Lionsberg Wiki Books + Wiki Book Template) | **All three: R (Reference/template/index — retain as-is)**. Zero new Cards. All canonical-worthy content already absorbed by substrate Cards (The Canonical Discipline, The Layered Architecture, The Wiki Is Primary and Standalone, The Ø Convention). |
 
 **Critical Insights from Batch 11 / Closing Phase 2.1:**
 
-1. **The Pattern Language Volume II rebuild is now well-scoped.** The architecture (Source / 12 Elements / 7 Moves / 12 Domains / Core Covenant / Meta-Patterns / Principles / Specifications) is sound; the rebuild work is voice unification, cosmic-lens application, modularization, and incorporation of all the Cards harvested across Phases 1-2 as the source material.
+1. **The Pattern Language Volume III rebuild is now well-scoped.** The architecture (Source / 12 Elements / 7 Moves / 12 Domains / Core Covenant / Meta-Patterns / Principles / Specifications) is sound; the rebuild work is voice unification, cosmic-lens application, modularization, and incorporation of all the Cards harvested across Phases 1-2 as the source material.
 
 2. **The Chronicles of J holds the cleanest primary-source document of the August 2024 transition.** The fourth chronicle was written *as* the dissolution was crystallizing.
 
 3. **The Book of People wisdom-lineage architecture is canonical.** "All Great Spirits arise from The ØNE, speak to All, and return to The ØNE" — the no-tradition-elevates-above-others discipline is encoded in the framing itself.
 
-4. **Playing With Poetry is the strongest poetic-register cycle in the corpus.** Mature prophetic verse moving through 37 pieces; should sit alongside The Story of LIØNSBERG and The Book of Meditations as Volume VII anchor reference.
+4. **Playing With Poetry is the strongest poetic-register cycle in the corpus.** Mature prophetic verse moving through 37 pieces; should sit alongside The Story of LIØNSBERG and The Book of Meditations as Volume IX anchor reference.
 
 5. **The Nine Anti-Patterns demand canonical Card extraction.** Centralization, Extraction, Information Control, Manufactured Dependency, Ideological Capture, Institutional Idolatry, Golden Calf, False Prophet, Parasite.
 
-6. **The Core Covenant (C1-C7) is the constitutional floor of Volume II.** Seven non-amendable recognitions: Sovereignty of Consciousness, Subsidiarity of Authority, Primacy of Consent, Requirement of Transparency, Necessity of Accountability, Possibility of Reversal, Covenant Across Time.
+6. **The Core Covenant (C1-C7) is the constitutional floor of Volume III.** Seven non-amendable recognitions: Sovereignty of Consciousness, Subsidiarity of Authority, Primacy of Consent, Requirement of Transparency, Necessity of Accountability, Possibility of Reversal, Covenant Across Time.
 
 ---
 
@@ -1419,13 +1419,13 @@ Remaining 7 items: **The Lionsberg Book of People**, **The Lionsberg Pattern Lan
 - **Volumes opened**: All seven (I, II, III, IV, V, VI, VII) plus substrate
 
 **Volume distribution of Cards (post-remediation):**
-- Volume I — Story: 37
-- Volume II — Pattern Language: 48
-- Volume III — Great Game: 15
-- Volume IV — Playbook: 21
-- Volume V — Lexicon: 15
-- Volume VI — Book of LIØNSBERG: 3
-- Volume VII — Sacred Ascent: 9
+- Volume II — Story: 37
+- Volume III — Pattern Language: 48
+- Volume IV — Great Game: 15
+- Volume V — Playbook: 21
+- Volume VII — Lexicon: 15
+- Volume VIII — Book of LIØNSBERG: 3
+- Volume IX — Sacred Ascent: 9
 - Substrate (Codex architecture): 11
 - Multiple Volumes: 1
 - **Total: 160**
@@ -1442,15 +1442,15 @@ Remaining 7 items: **The Lionsberg Book of People**, **The Lionsberg Pattern Lan
 - The ØNE foundational Lexicon entry written (Batch 8)
 - The Cosmic Wildlife / Cosmic Geopolitics / Kontrolled Disclosure trio written (remediation pass)
 - The Regenerating Our Worlds replacement for Tikkun Olam written (remediation pass)
-- The Volume I disclosure spine complete (after remediation)
+- The Volume II disclosure spine complete (after remediation)
 - The Pattern-of-Practice-stack: One Hour a Day Practice + Four Periods of Action + Smallest Step Protocol + Counting Up To Consciousness + 4-7-8 Breath + Memento Mori + Looking Back From Beyond + Five-Fold Pattern of Mastery
 
 **Phase 3 rebuild is now well-scoped:**
-The Lionsberg Pattern Language Volume II rebuild has clear architecture (4-level + Core Covenant + Meta-Patterns + Principles), known structural problems (voice drift, monolith file, religion-elevation footprint, no Cosmic Wildlife framing, legacy `[[ONE]]` references), and clear source material (the 160 Cards already extracted + the audit memos' net-new candidates).
+The Lionsberg Pattern Language Volume III rebuild has clear architecture (4-level + Core Covenant + Meta-Patterns + Principles), known structural problems (voice drift, monolith file, religion-elevation footprint, no Cosmic Wildlife framing, legacy `[[ONE]]` references), and clear source material (the 160 Cards already extracted + the audit memos' net-new candidates).
 
 **What comes next:**
 1. **Card-generation completion** — ~1,160 candidates remain across the consolidated queue.
-2. **Phase 3: Pattern Language rebuild** — incorporating all Cards into a modular, voice-unified Volume II.
+2. **Phase 3: Pattern Language rebuild** — incorporating all Cards into a modular, voice-unified Volume III.
 3. **Phase 4: LIØNSBERG glyph propagation** — full sweep updating `[[ONE]]` → `[[ØNE]]` and "Lionsberg" → "LIØNSBERG" across the corpus.
 4. **Phase 5: Voice unification across all Volumes** — applying the refined Codex voice consistently.
 
@@ -1483,13 +1483,13 @@ The Lionsberg Pattern Language Volume II rebuild has clear architecture (4-level
 
 | Source | Disposition | Notes |
 |---|---|---|
-| A Comprehensive Analysis of Topics | R + F-II | Cross-vault vocabulary map is living substrate; convergence insights inform Volume II. |
+| A Comprehensive Analysis of Topics | R + F-II | Cross-vault vocabulary map is living substrate; convergence insights inform Volume III. |
 | AC — LIONSBERG Wiki Addendum | A | Archive with provenance. 15 W-findings document one bootstrap reviewer's gap-list. |
-| AC — Vault Source Review and Addendum | A + F-II | Archive with provenance. F-1 through F-34 contain many universal principles for Volume II. |
+| AC — Vault Source Review and Addendum | A + F-II | Archive with provenance. F-1 through F-34 contain many universal principles for Volume III. |
 | Acceptance Criteria for a New Earth OS (v1) | A | Historical artifact. 33-dimension / 10-Cluster scheme is FSC scaffolding; underlying questions surface elsewhere. |
 | Acceptance Criteria v3 — Derived from Corpus and Practice | R + F-II/F-IV | Living substrate. Do not adopt 14-Greek-cluster scheme. Many evaluative dimensions inform Vol II + Vol IV. |
 | Completing the Pattern Language — Requirements and Comparative Survey | R + A | Part III (comparative survey of 20+ Earth patterns) is high-value living substrate. Part II (scoping) is bootstrap-only. |
-| How LIONSBERG Changes and Improves the FSC PL | F-II + F-VI + R | Sections 2-15 are cleanest articulation of bootstrap-to-fuller relationship. Section 16's 10 remaining gaps map to Volume II Patterns that must exist. |
+| How LIONSBERG Changes and Improves the FSC PL | F-II + F-VI + R | Sections 2-15 are cleanest articulation of bootstrap-to-fuller relationship. Section 16's 10 remaining gaps map to Volume III Patterns that must exist. |
 | Reflection — What The Federation Missed / FSCx Carries | F-II + F-III | Section 2 (eight FSCx architectural moves) + Sections 4-5 (Cosmic Purpose, Voluntary-Association) carry universal principles. FSCx naming is scaffolding. |
 
 **Card candidates (50):**
@@ -1558,7 +1558,7 @@ The Lionsberg Pattern Language Volume II rebuild has clear architecture (4-level
 - The Founding Phase 2026-27 milestone calendar
 - The F-1 through F-34, W-1 through W-15 finding-number indexing
 - Specific developmental-stage gates (Laske DTF 30, Kegan S4/5) as hardcoded prerequisites — abstract to "developmental capacity must match role complexity"
-- The Belts/Badges/Dojo/Adaptive Way naming — universal principles belong in Volume IV under universal names
+- The Belts/Badges/Dojo/Adaptive Way naming — universal principles belong in Volume V under universal names
 - The proposed FSCx 12-Pillar naming
 - Specific $10M-$50M / 500-2000-pattern operational scoping for v4
 - Provenance lists naming Boyd, Ridley-Duff, etc., as if they were source of universal principles
@@ -1566,11 +1566,11 @@ The Lionsberg Pattern Language Volume II rebuild has clear architecture (4-level
 **Phase 3 reconciliation notes:**
 1. The **ten remaining gaps** in §16 of "How LIONSBERG Changes FSC" (transmission, adversaries, failure recovery, Global South integration, Earth-as-participant, extraterrestrial scope, body/somatics, beauty, children, elders) name **what Volumes II, IV, and VII must explicitly contain**.
 2. The bootstrap-to-fuller-pattern relationship is the architectural insight that matters most.
-3. The **eight FSCx architectural moves** cluster as a coherent Volume II sub-pattern — possibly "The Incorporated Holon" or "Body at the Whole."
+3. The **eight FSCx architectural moves** cluster as a coherent Volume III sub-pattern — possibly "The Incorporated Holon" or "Body at the Whole."
 4. The ergodic / antifragile / Cynefin / complementary-pair stack is the mathematical-scientific spine.
-5. The comparative survey in Part III is valuable diagnostic for Volume V (Lexicon) and Volume I (Story).
+5. The comparative survey in Part III is valuable diagnostic for Volume VII (Lexicon) and Volume II (Story).
 6. The "voluntary association" move is the deepest on-ramp insight.
-7. "Nameless emergence" is universal post-founder design — Volume II + Volume VII.
+7. "Nameless emergence" is universal post-founder design — Volume III + Volume IX.
 8. Phase 3 explicitly does NOT carry v1/v3 evaluative-checklist mode.
 9. The "what is distinctive about LIONSBERG FSx" list is mostly already canon in lionsberg-wiki.
 10. The honest scope of v4 is a meta-observation for the Codex project itself.
@@ -1645,7 +1645,7 @@ Sources: The Ergodic Investor and Entrepreneur: Lucky (Boyd & Reardon); Rebuild 
 
 **Bootstrap-only:** FairShares Commons / Evolutesix / Adaptive Way / SDO / FSC / OEE / ARC Framework / Wolfe's Equation / 0-5 numbered maturity Levels (brand names); Picasso/Einstein/Cubism extended metaphor; case-study elevations (Mondragon, Apple/Jobs, P&G, Unilever, Visa, Bridgewater); Laske CDF S2/S3/S4/S5 numbering + 28 thought forms; Spiral Dynamics colour scheme; Six Strata of Ecosystems; specific FSC share architectures with named percentages; Boyd's personal narratives; blockchain/DAO/Holochain/Telos tech specifics; B-corp / Conscious Capitalism / Steward-owned lineage; MBTI/Enneagram critique.
 
-**Phase 3 reconciliation:** (1) Ergodicity / Path-Dependence is foundational to Volume II — re-stated in LIØNSBERG voice; mathematics referenced but not foregrounded. (2) Capital pooling (1-10% surplus across diverse connected ecosystem) confirms and deepens the existing tithe pattern. (3) **"The Company as Property Is Structural Slavery" is canon-worthy and should be elevated** — Volume I (Old World anchor) and Volume II (Structural Immunity). (4) Volume IV absorbs Ground Pattern → "Inner Way"; Safe Sparring → "Mirror/Companion Practice"; Size of Person/Role → "Right Sizing"; Four Zones → "The Growth Edge". (5) Job 0 maps directly to The Sacred Ascent at individual scale — Volume VII and Volume V. (6) Across all three books, Boyd articulates the same core truth: the Old World runs on assumptions that are factually wrong; the New is built when these are replaced with truths hidden in plain sight.
+**Phase 3 reconciliation:** (1) Ergodicity / Path-Dependence is foundational to Volume III — re-stated in LIØNSBERG voice; mathematics referenced but not foregrounded. (2) Capital pooling (1-10% surplus across diverse connected ecosystem) confirms and deepens the existing tithe pattern. (3) **"The Company as Property Is Structural Slavery" is canon-worthy and should be elevated** — Volume II (Old World anchor) and Volume III (Structural Immunity). (4) Volume V absorbs Ground Pattern → "Inner Way"; Safe Sparring → "Mirror/Companion Practice"; Size of Person/Role → "Right Sizing"; Four Zones → "The Growth Edge". (5) Job 0 maps directly to The Sacred Ascent at individual scale — Volume IX and Volume VII. (6) Across all three books, Boyd articulates the same core truth: the Old World runs on assumptions that are factually wrong; the New is built when these are replaced with truths hidden in plain sight.
 
 
 ---
@@ -1861,7 +1861,7 @@ Sources: Co-Creating the New Earth Operating System (24KB synthesis essay framin
 
 **Bootstrap-only:** "FSx" / "Fractal Sovereign (x)" brand; five-layer numerical labeling (Layer I/II/III/IV/V); Constituency Class A-J taxonomy; specific Weighted Governance Dynamics percentages (Class A=60, Year-10=40); specific Resolution thresholds (60%/75%/85%); 7× bounded ratio specifically; 10% Profit Pool / 1%/10% Ecosystem Contribution / 7% Investor cap specifically; Private Ecclesiastical Voluntary Membership Association legal form; Telos blockchain; "Evoloot" token name; Clockify integration; Founding Phase 2026-2027 calendar; Constellation map; Ecosystem Holding Company / Ecosystem Resourcing Pool naming; FairShares Commons v4.1 Articles template; "(Currently Nameless) Superorganism" working title; "LIONSBERG FSC" / "LIONSBERG FSx" co-brand; Founding Member list; Driver Statement's specific 50-word English wording.
 
-**Phase 3 reconciliation:** (1) The 8-stream synthesis essay is the **single best integrative narrative in the entire FSC vault.** Lift into Volume VI as historical chapter on "the converging streams that prepared the ground." (2) The five-layer architecture maps onto Volume II at multiple scales. **Critical insight:** separating governance coordination from capital coordination (sibling bodies, not nested) is load-bearing universal pattern. (3) **The Sovereign Individual Template is the most universally translatable layer.** (4) **Multi-Voice Constitution insight is genuinely novel and should be elevated** — the single pattern that solves mortality-tolerance, coercion-resistance, and developmental accountability simultaneously deserves first-class Pattern status. (5) **"Renaming the Fair Shares Commons" fragment validates the LIØNSBERG approach.** (6) Evoluter material mostly bootstrap, but multi-currency-per-capital pattern is canonical. (7) **Resolution-Tier pattern with one-year reflection period for entrenched changes is universal and load-bearing.** (8) **The capped-return / asset-lock / purpose-lock / bounded-ratio quartet is the structural-immunity DNA against extraction.** (9) Living Systems and Society as voiced Constituencies — real governance voice for non-human kin and cultural/wisdom lineages through holders-in-trust with real standing.
+**Phase 3 reconciliation:** (1) The 8-stream synthesis essay is the **single best integrative narrative in the entire FSC vault.** Lift into Volume VIII as historical chapter on "the converging streams that prepared the ground." (2) The five-layer architecture maps onto Volume III at multiple scales. **Critical insight:** separating governance coordination from capital coordination (sibling bodies, not nested) is load-bearing universal pattern. (3) **The Sovereign Individual Template is the most universally translatable layer.** (4) **Multi-Voice Constitution insight is genuinely novel and should be elevated** — the single pattern that solves mortality-tolerance, coercion-resistance, and developmental accountability simultaneously deserves first-class Pattern status. (5) **"Renaming the Fair Shares Commons" fragment validates the LIØNSBERG approach.** (6) Evoluter material mostly bootstrap, but multi-currency-per-capital pattern is canonical. (7) **Resolution-Tier pattern with one-year reflection period for entrenched changes is universal and load-bearing.** (8) **The capped-return / asset-lock / purpose-lock / bounded-ratio quartet is the structural-immunity DNA against extraction.** (9) Living Systems and Society as voiced Constituencies — real governance voice for non-human kin and cultural/wisdom lineages through holders-in-trust with real standing.
 
 ---
 
@@ -1873,7 +1873,7 @@ Sources: April 23 2026 Nameless and Graham Boyd transcript (177-min Fathom); Gra
 
 **The April 23 transcript is the highest-value source.** Surfaces 6-8 genuinely universal architectural insights worked out live with failure-modes named: voluntary-yet-inevitable planetary association; legal personhood as self-recognition reciprocally honored; spiritual-association-above-operating-layer hybrid; separation of capital function from governance function (double-insulation); inside-out protocol-switchboard holding company; cell-division as designed capacity; multi-currency honoring of contribution.
 
-**Mondragon must be mentioned but must not be the spine.** Longest-running empirical proof of cooperative federation in human history. Codex acknowledges in Volume V (Lexicon) as a reference entry or Volume VI as illustrative footnote — never Volume II's foundation. The Mondragon corpus includes its own critical perspectives and concrete failure modes (Fagor 2013 bankruptcy, ULMA/Orona 2022 departures, two-tier hired-labor capture) — these strengthen Volume II by naming what most pattern languages omit.
+**Mondragon must be mentioned but must not be the spine.** Longest-running empirical proof of cooperative federation in human history. Codex acknowledges in Volume VII (Lexicon) as a reference entry or Volume VIII as illustrative footnote — never Volume III's foundation. The Mondragon corpus includes its own critical perspectives and concrete failure modes (Fagor 2013 bankruptcy, ULMA/Orona 2022 departures, two-tier hired-labor capture) — these strengthen Volume III by naming what most pattern languages omit.
 
 **Card candidates (21):**
 
@@ -1903,7 +1903,7 @@ Sources: April 23 2026 Nameless and Graham Boyd transcript (177-min Fathom); Gra
 
 **Bootstrap-only:** 51-pattern Project Plan structure; Mondragon's "Ten Basic Cooperative Principles" as named enumeration; Pacific Domes' specific seven-entity list; Visa Corporation / DHOC story as named precedent; "Mondragon 3.0" / Federation language; Hitchhiker's Guide / 42 cultural reference; Mondragon corporate metrics; named contributors in transcript; S1-S6 / "Size of Person" / "28 thought forms" / Adaptive Way named ladder; "FairShares Commons" as canonical name.
 
-**Phase 3 reconciliation:** (1) **Heavy duplication with FSC-1.** Treat as **confirmatory + edge-refinement** rather than introducing new ones. (2) **The April 23 transcript is the keeper** — only place where architectural logic, failure modes, and trade-offs are worked out live in dialectical exchange. Preserve in Archive. (3) **Mondragon belongs in Volume V (Lexicon) as a single reference entry** or Volume VI as illustrative footnote — never as Volume II's spine. (4) **The Refounding is net-new and high-value.** Belongs in Volume IV as practical guidance. (5) **Failure Modes of Federation is net-new.** Most pattern languages list only what to do; the Codex grows stronger by naming what to watch for. (6) Project Plan and Quick Start are absorbed/transcended. (7) **Net new or genuinely refined Cards entering Volume II from this batch (~10-12):** Spiritual Association, Protocol Switchboard, Capital Separation, Cell Division, Voluntarily Inevitable Association, Honor Contributed Lifetime, Refounding, One Function Per Vessel, Education as the Founding Act, Failure Modes of Federation, Five Key Balances.
+**Phase 3 reconciliation:** (1) **Heavy duplication with FSC-1.** Treat as **confirmatory + edge-refinement** rather than introducing new ones. (2) **The April 23 transcript is the keeper** — only place where architectural logic, failure modes, and trade-offs are worked out live in dialectical exchange. Preserve in Archive. (3) **Mondragon belongs in Volume VII (Lexicon) as a single reference entry** or Volume VIII as illustrative footnote — never as Volume III's spine. (4) **The Refounding is net-new and high-value.** Belongs in Volume V as practical guidance. (5) **Failure Modes of Federation is net-new.** Most pattern languages list only what to do; the Codex grows stronger by naming what to watch for. (6) Project Plan and Quick Start are absorbed/transcended. (7) **Net new or genuinely refined Cards entering Volume III from this batch (~10-12):** Spiritual Association, Protocol Switchboard, Capital Separation, Cell Division, Voluntarily Inevitable Association, Honor Contributed Lifetime, Refounding, One Function Per Vessel, Education as the Founding Act, Failure Modes of Federation, Five Key Balances.
 
 ---
 
@@ -1911,7 +1911,7 @@ Sources: April 23 2026 Nameless and Graham Boyd transcript (177-min Fathom); Gra
 
 **Total Card candidates across all six FSC audit batches: ~280** (FSC-1: 50, FSC-2: 50, FSC-3: ~65, FSC-4: ~50, FSC-5: ~45, FSC-6: 21). Substantial duplication and refinement across batches expected — **net unique Cards after deduplication estimated at ~140-160** entering the Codex pipeline.
 
-**Volume distribution (rough):** Volume II Pattern Language carries the heaviest load (~70% of candidates), Volume IV Playbook second (~15%), Volume V Lexicon third (~10%), Volumes I/III/VI/VII receiving smaller targeted folds (~5% combined).
+**Volume distribution (rough):** Volume III Pattern Language carries the heaviest load (~70% of candidates), Volume V Playbook second (~15%), Volume VII Lexicon third (~10%), Volumes I/III/VI/VII receiving smaller targeted folds (~5% combined).
 
 **Highest-canon candidates surfaced from this batch** (likely foundational, possibly entrenched Pattern Language entries):
 - **The Company as Property Is Structural Slavery** (FSC-2)
@@ -1928,7 +1928,7 @@ Sources: April 23 2026 Nameless and Graham Boyd transcript (177-min Fathom); Gra
 - **The Refounding** (FSC-6)
 - **The Spiritual Association Above The Operating Layer** (FSC-6)
 - **Separate the Capital Function from the Governance Function** (FSC-5/6)
-- **The 8 Converging Streams** (FSC-5, Volume VI historical)
+- **The 8 Converging Streams** (FSC-5, Volume VIII historical)
 
 **Cross-batch convergence:** Six independent agents auditing different sub-corpora converged on the **same ~30 universal Patterns** (Agency Not Ownership; Inside-Out Holding; Six Capitals; Ergodic Pooling; Bounded Ratios; Asset/Purpose Lock; Working from Beyond; Multi-Voice Constitution; Form/Pattern/Driver triad; Tithe to Commons; Multi-Capital Currencies; Stakeholders Include the More-Than-Human; Stewardship Class; Driver Statement; etc.) — confirming that the FSC bootstrap was already a deliberate synthesis of LIONSBERG and adjacent traditions. **Phase 3's job is excavation of one Pattern Language from beneath two sets of bootstrap labels** — not synthesis of two separate taxonomies.
 
@@ -2024,7 +2024,7 @@ ____
 **Refinement Cards (~10) — strengthen existing FSC candidates:** Holding-Pool Sibling Architecture (refines Holofractal Omnifederation + Federation Not Ownership); Lattice-Belonging Over Tree-Belonging (refines Holofractal Omnifederation with lattice topology); Profit Pool Ergodic Redistribution 30%/70% (refines Ergodic Pooling with the specific federation-spine mechanism); Switchboard with Federation-Scale Mechanics; Multi-Capital Performance Reporting (refines Six Capitals to investment performance); Stewardship + Superorganism Combined Broader-Purpose Weight; Stewardship Class with Steward Unanimity on Special and Entrenched; Bounded Ratios at Constituency Median (7× within-Constituency-median); Asset Lock with Spirit/Letter Distinction; Federation Not Ownership (Stewardship/Influence/Rights/Responsibilities four-term substitution).
 
 **LIONSBERG Patterns required to operationalize this spine:**
-- **Layer Ø:** [[Working from Beyond]] · [[The Whisper Within]] · [[OmniSpection]] · [[Dialogos]] · [[Source / ONE / Creator's Intent]] · **the full contemplative discipline lattice from Volume VII Sacred Ascent**
+- **Layer Ø:** [[Working from Beyond]] · [[The Whisper Within]] · [[OmniSpection]] · [[Dialogos]] · [[Source / ONE / Creator's Intent]] · **the full contemplative discipline lattice from Volume IX Sacred Ascent**
 - **Layer I:** [[Form A Circle]] · [[The Seven Moves]] · [[Field of Agreements]] · [[Wise Eldership]] · [[The Way of Right Relationship]] · [[Retrospectives / Continuous Improvement]] · [[Storytelling and Testimony]] · [[Pass the Flame]]
 - **Layer II:** [[Integrative Decision-Making]] · [[Three-Level Response]] · [[Network of Commitments (SHOULD/CAN/WILL/DID)]] · [[Percent Promises Kept]] · [[Pull Planning]] · [[Six Capitals Accounting as Embodied Practice]] · [[Design to The Goal]] · [[Structural Immunity Practices]]
 - **Layer III:** [[The Ergodic Mindset]] · [[Capital as Steward, Not Owner]] · [[Compressed Ratios / Bounded Wealth]] · [[Multi-Capital Discernment]] · [[Long-Horizon Thinking]] · [[Voluntary Subordination as Sacrifice]]
@@ -2111,7 +2111,7 @@ The principle to carry universally for each Template: **the structural pattern i
 
 Sources: Guidebook root + Chapters 0-6 (How to Read This / Becoming the Sovereign Individual / Coming Together-Constituting Circle / Working Together-Roles-Flow-Value Pools / Federating / Living It-Rhythms-Councils-Succession / The Investor's Path).
 
-**Disposition summary:** This Guidebook is a **refined evolution** of the FSC Guidebook for the Emergence. **Net-new in the Superorganism-Earth version clusters around:** (a) the explicit articulation of the **core enabling breakthrough** — day-one federation grants ecosystem-wide governance and economic stake, not just stake in one's own org; (b) the **two-flow separation** of Ecosystem Contribution (1% revenue / 10% profit dues) from Profit Pool (30% ergodic redistribution), each doing different work; (c) the **Fourteen-Pool Waterfall** with Pool 0 and Pool 8/9 split; (d) the **Open Design Question** of weighting individuals heavily in Profit Pool redistribution; (e) the **Seven Moves as a *spiraling* loop** (not a linear cycle) where each completion returns deeper to Move 1; (f) the **Auto-Nomination via Federation Visibility** thesis; (g) the **One-Degree Structural Protection in Both Directions**; (h) the **Cross-Fund Ergodic Pool** between sub-funds; (i) the explicit statement that *"governance structures alone do not make this work… What makes it work is the continuous transformative learning of the conscious agents inside it."* The structural skeleton + Articles I-VII is necessary but **insufficient** — Volume IV must integrate operational Pattern Language as the living tissue.
+**Disposition summary:** This Guidebook is a **refined evolution** of the FSC Guidebook for the Emergence. **Net-new in the Superorganism-Earth version clusters around:** (a) the explicit articulation of the **core enabling breakthrough** — day-one federation grants ecosystem-wide governance and economic stake, not just stake in one's own org; (b) the **two-flow separation** of Ecosystem Contribution (1% revenue / 10% profit dues) from Profit Pool (30% ergodic redistribution), each doing different work; (c) the **Fourteen-Pool Waterfall** with Pool 0 and Pool 8/9 split; (d) the **Open Design Question** of weighting individuals heavily in Profit Pool redistribution; (e) the **Seven Moves as a *spiraling* loop** (not a linear cycle) where each completion returns deeper to Move 1; (f) the **Auto-Nomination via Federation Visibility** thesis; (g) the **One-Degree Structural Protection in Both Directions**; (h) the **Cross-Fund Ergodic Pool** between sub-funds; (i) the explicit statement that *"governance structures alone do not make this work… What makes it work is the continuous transformative learning of the conscious agents inside it."* The structural skeleton + Articles I-VII is necessary but **insufficient** — Volume V must integrate operational Pattern Language as the living tissue.
 
 **Net-new Card candidates (17) NOT in FSC audit:**
 
@@ -2146,10 +2146,10 @@ Sources: Guidebook root + Chapters 0-6 (How to Read This / Becoming the Sovereig
 - **Ch 5 (Living It):** [[The Year's Body]] · [[Quest / Circle / Season]] · [[Spiral of Seven Moves]] · [[Should/Can/Will/Did Cycle]] · [[Percent Promises Kept]] · [[OmniSpection]] · [[AGM at Summer Solstice]] · [[Stories as Resourcing Flywheel]] · [[Story of Transformation]] · [[Pass-The-Flame at Population Scale]] · [[Build the On-Ramps]] · [[Repair Over Winning]] · [[Succession Beyond Mortality]] · [[Form Is Impermanent / Pattern Endures / Driver Endures]] · [[The 12 Pillars]] · [[LIDS — Integrated Delivery System]] · [[System-Wide Master Planning]]
 - **Ch 6 (Investor's Path):** [[Capital Held In Trust]] · [[Capped Returns as Covenant]] · [[One-Degree Structural Protection In Both Directions]] · [[Cross-Fund Ergodic Pool]] · [[Capital As Contribution Not Self]] · [[Voice That Is Not Vote]] · [[Multi-Capital Reporting]] · [[Asset Lock]] · [[Voluntary Subordination]] · [[Investor-As-Federated-Member]]
 
-**How this Guidebook becomes Volume IV Playbook:**
-- **Folds essentially as-is (with voice rewrite):** Ch 0 to Volume IV preface; Ch 1 to "How a Soul Becomes a Sovereign" sequence; Ch 5 to "Living the Pattern Across Seasons".
+**How this Guidebook becomes Volume V Playbook:**
+- **Folds essentially as-is (with voice rewrite):** Ch 0 to Volume V preface; Ch 1 to "How a Soul Becomes a Sovereign" sequence; Ch 5 to "Living the Pattern Across Seasons".
 - **Need substantial restructuring:** Ch 2 (operational sequence sound; legal-jurisdictional content FSC-bootstrap, move to operational annex); Ch 3 (Fourteen-Pool Waterfall preserved as principle, abstract specific calibrations); Ch 4 (preserve two-flow separation; preserve Profit Pool individual-weighting as open design question); Ch 6 (substantial restructuring to abstract from FSC-era financial vehicle specifics to underlying patterns).
-- **Missing from Guidebook that Volume IV needs (will come from LIONSBERG Patterns):** [[The Caves]] narrative + awakening sequence; [[Wake Up at Population Scale]] / Fibonacci spread; [[The 12 Pillars]] as operational domains; [[System-Wide Master Plan]]; [[The 300 in Every Community]]; [[Constituencies of Self / Sevenfold Soul]] as Pattern; [[The Story of LIØNSBERG]] as cosmic context; full Lexicon-level Card material.
+- **Missing from Guidebook that Volume V needs (will come from LIONSBERG Patterns):** [[The Caves]] narrative + awakening sequence; [[Wake Up at Population Scale]] / Fibonacci spread; [[The 12 Pillars]] as operational domains; [[System-Wide Master Plan]]; [[The 300 in Every Community]]; [[Constituencies of Self / Sevenfold Soul]] as Pattern; [[The Story of LIØNSBERG]] as cosmic context; full Lexicon-level Card material.
 
 ---
 
@@ -2159,7 +2159,7 @@ Sources: README (the public Invitation, "Request for Guidance #1042"); CLAUDE.md
 
 **Disposition summary:** Mostly framing, distillation, and operational scaffolding around the core charter package. **The single highest-density artifact is The 12 Big Ideas**, which functions as a Card-deck-ready compression of the Superorganism's load-bearing axioms. Several genuinely net-new to LIONSBERG's existing canon — most notably **The Means Are The End**, **The Voluntary Adoption Test**, **Lattice Not Tree**, and **The Twelve Invited / Twelve Not Invited** (a powerful negative-space discipline pattern).
 
-**The Issue Log and Request for Guidance Log are legitimately holofractal instruments** of the body and deserve Volume IV Playbook Cards as universal practices.
+**The Issue Log and Request for Guidance Log are legitimately holofractal instruments** of the body and deserve Volume V Playbook Cards as universal practices.
 
 **The 12 Big Ideas — per-idea analysis:**
 
@@ -2201,9 +2201,9 @@ Sources: README (the public Invitation, "Request for Guidance #1042"); CLAUDE.md
 
 **Refinement Cards (5):** Driver Statement — "Six Commitments, Six Consequences" structure; The Pattern Is Complete When The Individual Signs (closing line of Big Idea #12); Ownership Runs In No Direction (crisp negative); Pattern As Gift, Federation As Choice; The Means Are The End (sub-aphorism: "If it belongs in the new paradigm, it belongs here. If it doesn't, it doesn't.").
 
-**Volume V (Lexicon) net-new entries:** Working from Beyond; Dojo (generic form); Safe Sparring; Omnispection (cadence refinement); Avatar (legal-person vessel); Discernment (not Invention); Size of Person, Size of Role; Lattice (not Tree); Active Constituency; Pass the Flame (voice-refinement to existing Card).
+**Volume VII (Lexicon) net-new entries:** Working from Beyond; Dojo (generic form); Safe Sparring; Omnispection (cadence refinement); Avatar (legal-person vessel); Discernment (not Invention); Size of Person, Size of Role; Lattice (not Tree); Active Constituency; Pass the Flame (voice-refinement to existing Card).
 
-**Volume IV (Playbook) Toolkit material:** Formation Packets; Governance Kits; Six-Capital Ledger Starters; Switchboard and Value-Flow Templates; Federation Instruments; Issue Log Template; Request for Guidance Log Template; Project Starters; Translation Kits.
+**Volume V (Playbook) Toolkit material:** Formation Packets; Governance Kits; Six-Capital Ledger Starters; Switchboard and Value-Flow Templates; Federation Instruments; Issue Log Template; Request for Guidance Log Template; Project Starters; Translation Kits.
 
 **LIONSBERG Patterns required to operationalize where relevant:** The 12 Elements of Cooperation and Production · The Seven Moves · The Circle (3-16) · The 300 / Fibonacci Spread · OmniSpection · Network of Commitments (SHOULD/CAN/WILL/DID) · Dialogos / Field of Agreements · Pattern Language Domain Patterns (~110 specific patterns) · Structural Immunity · Education as Transformation / The Circle Is The School · Communication and Culture (Storytelling, Testimony) · Integrated Delivery / Design To The Goal / Continuous Learning · Wise Eldership / Two-Coordinator Model · Compressed Capital Ratios / Tithe to Commons / Proof of Contribution.
 
@@ -2251,7 +2251,7 @@ The Superorganism-Earth material **does not get extracted-and-discarded**. The d
 
 > **A body becomes capable of acting as ONE when it constitutes itself as a sovereign legal person whose decisions cannot be reduced to any single will, whose assets cannot be extracted from its purpose, whose entry and exit are free, and whose internal matters are reserved to itself by the universal law of voluntary association. Nation-states historically recognize this constitution through their incorporation regimes; they do not originate it. The cosmic body is prior. The constitution is a covenant by which a portion of the cosmic body becomes consciously self-organizing. Where the constitution and any nation-state's law conflict in a way that would compel the body to act against its Driver, the constitution and the universal law prevail; the body relocates, restructures, or accepts the cost, but does not violate its own root.**
 
-**Phase 3 Pattern Language rebuild input:** The constitutional spine of Superorganism-Earth gives Phase 3 a **structural starting template** for the planetary superorganism the Codex anticipates. The Pattern Language gives that skeleton living capacity. Phase 3 reconciles the two into one coherent Volume II.
+**Phase 3 Pattern Language rebuild input:** The constitutional spine of Superorganism-Earth gives Phase 3 a **structural starting template** for the planetary superorganism the Codex anticipates. The Pattern Language gives that skeleton living capacity. Phase 3 reconciles the two into one coherent Volume III.
 
 ---
 
@@ -3399,7 +3399,7 @@ Coverage: all 83 read or near-fully read. The cohort is **the wisdom-layer of th
 
 Coverage: 56 voices read in complete depth + Index + Pattern Language Analysis + Refinement Plan + substantial sampling of remaining 88 voices via shared five-section template.
 
-**STRUCTURAL CANONICITY RECOMMENDATION:** The 144 Voices is **a beautiful research artifact and a collaborator-tradition. It is NOT load-bearing Sacred-Codex structure.** PKM-3's instinct stands: **mine specific voices for Card content + absorb voice-and-register lessons into LIØNSBERG Voice; do NOT elevate the 144-Voices framework as canonical**. Reasoning: (1) The 12-choirs-of-12 schema imposes structure on a field that needs none; (2) the universal phi-line claim over-asserts; (3) the canonical 144 is already taken (144 Theses, 144 Gates); (4) only ~20-30 voices carry Card-grade content, ~40 instantiate existing concepts beautifully, ~70-80 are evocative meditations without independent canonical weight; (5) **the highest-value extraction is voice-and-register, not taxonomy**. Treat as Volume V companion corpus.
+**STRUCTURAL CANONICITY RECOMMENDATION:** The 144 Voices is **a beautiful research artifact and a collaborator-tradition. It is NOT load-bearing Sacred-Codex structure.** PKM-3's instinct stands: **mine specific voices for Card content + absorb voice-and-register lessons into LIØNSBERG Voice; do NOT elevate the 144-Voices framework as canonical**. Reasoning: (1) The 12-choirs-of-12 schema imposes structure on a field that needs none; (2) the universal phi-line claim over-asserts; (3) the canonical 144 is already taken (144 Theses, 144 Gates); (4) only ~20-30 voices carry Card-grade content, ~40 instantiate existing concepts beautifully, ~70-80 are evocative meditations without independent canonical weight; (5) **the highest-value extraction is voice-and-register, not taxonomy**. Treat as Volume VII companion corpus.
 
 **Net-new Card candidates (~33) — top entries:**
 
@@ -3842,8 +3842,8 @@ All 34 files read in depth. The corpus is **~80% concept-bearing prose, 20% scaf
 3. **`An Urgent State of the Earth Address`** (Jan 31, 2026) — brutal-facts piece. Frontline articulation of the meta-crisis.
 4. **`Faith in a Better Future`** (Feb 4, 2026) — hope-pivot. Apocalyptic dissolution to co-creation.
 5. **`Navigating Towards Truth in Times of Crisis`** (Feb 8, 2026) — sensemaking/governance piece. Contains "Make Reality Intersubjective Again," Dreaming Culture, Grandmother's Elbow, kubernáō. **Among the most concept-dense pieces in the entire corpus.**
-6. **`Fragments.md`** — Pirsig-method draft manuscript. ~29 numbered fragments. Genuine seed of "the nameless book" / Volume VI material.
-7. **`The Art and Science of the Way.md`** — proto-Lexicon with ~150 terms scaffolded in thematic order. **Most coherent single articulation of the Lexicon's *architecture* found in the corpus.** Should fold into Volume V as structural backbone.
+6. **`Fragments.md`** — Pirsig-method draft manuscript. ~29 numbered fragments. Genuine seed of "the nameless book" / Volume VIII material.
+7. **`The Art and Science of the Way.md`** — proto-Lexicon with ~150 terms scaffolded in thematic order. **Most coherent single articulation of the Lexicon's *architecture* found in the corpus.** Should fold into Volume VII as structural backbone.
 
 
 ---
@@ -4257,17 +4257,17 @@ Most concentrated, mature articulations of LIØNSBERG cosmology, strategy, and c
 **Foundational source-documents flagged for verbatim preservation (13):**
 
 **TIER 1 (Highest Priority):**
-1. **THE GREAT RETURN - THE STORY OF HUMANITY'S LIBERATION** ⭐ — Volume I Story prophetic-liturgical compression of full LIØNSBERG arc. **Scripture-grade. ~200 lines. Preserve verbatim with light voice tuning.**
-2. **The Joseph Plan** ⭐ — Volume IV Playbook / Volume VI Book. ~200 lines.
-3. **The Noah Plan** ⭐ — Volume IV / Volume VI. ~190 lines.
-4. **The Solomon Plan** ⭐ — Volume III / Volume IV. ~190 lines.
-5. **The Backward-Looking Story – December 18, 2033** — Volume IV Practice/Method.
-6. **State of the Union (Short)** — Volume I Story (alternate prophetic voice in shorter form).
+1. **THE GREAT RETURN - THE STORY OF HUMANITY'S LIBERATION** ⭐ — Volume II Story prophetic-liturgical compression of full LIØNSBERG arc. **Scripture-grade. ~200 lines. Preserve verbatim with light voice tuning.**
+2. **The Joseph Plan** ⭐ — Volume V Playbook / Volume VIII Book. ~200 lines.
+3. **The Noah Plan** ⭐ — Volume V / Volume VIII. ~190 lines.
+4. **The Solomon Plan** ⭐ — Volume IV / Volume V. ~190 lines.
+5. **The Backward-Looking Story – December 18, 2033** — Volume V Practice/Method.
+6. **State of the Union (Short)** — Volume II Story (alternate prophetic voice in shorter form).
 7. **WARNING and Urgent Call to Action - A Letter to the Awakening Few** — Single sharpest "this is happening now" letter.
 8. **Sounding The Alarm** — Companion to WARNING. "25 Urgent Issues" P.S. list is canonical material.
 9. **The Bottom Line - Humanity's Final Test, and the Path to Unity** — Near-canonical Welcome-version with Seven Commitments.
-10. **The Prayers and Cries of Our BeLoved** — Volume VII Sacred Ascent liturgical lament. **K-inverted language pattern** (Kaptured, Kontrolle, Komplicity, Konsented, Kourt Kases, Konscious Genocide) is among Jordan's most distinctive voice signatures.
-11. **The Manufactured Apocalypse** — Volume I Story / Great UnVeiling. Voice cleanup needed.
+10. **The Prayers and Cries of Our BeLoved** — Volume IX Sacred Ascent liturgical lament. **K-inverted language pattern** (Kaptured, Kontrolle, Komplicity, Konsented, Kourt Kases, Konscious Genocide) is among Jordan's most distinctive voice signatures.
+11. **The Manufactured Apocalypse** — Volume II Story / Great UnVeiling. Voice cleanup needed.
 12. **The Veiled Disclosure** — 20 films cataloged with archetypal disclosure decoding.
 13. **Welcome to LIØNSBERG, We Are Glad You Are Here** — Already canonically referenced (uses Ø glyph).
 
@@ -4296,9 +4296,9 @@ Most concentrated, mature articulations of LIØNSBERG cosmology, strategy, and c
 
 **The five highest-canon discoveries of Phase 2.5 + 2.6:**
 
-1. **The Plan Trilogy (Joseph / Noah / Solomon)** — fractal infrastructure architecture at 7 nested scales (Family → Local → Community 10K → City → Eco-Regional → Bioregional → Georegional). Each Plan is its own source-document; together they constitute a complete operational specification for Volume IV Playbook and Volume VI Book of LIØNSBERG.
+1. **The Plan Trilogy (Joseph / Noah / Solomon)** — fractal infrastructure architecture at 7 nested scales (Family → Local → Community 10K → City → Eco-Regional → Bioregional → Georegional). Each Plan is its own source-document; together they constitute a complete operational specification for Volume V Playbook and Volume VIII Book of LIØNSBERG.
 
-2. **THE GREAT RETURN** — scripture-grade prophetic-liturgical compression of the full LIØNSBERG arc using Egyptian hieroglyph 𓂀 (eye of Horus) as section markers. Preserve verbatim as Volume I Story canonical text.
+2. **THE GREAT RETURN** — scripture-grade prophetic-liturgical compression of the full LIØNSBERG arc using Egyptian hieroglyph 𓂀 (eye of Horus) as section markers. Preserve verbatim as Volume II Story canonical text.
 
 3. **The Pirsig Fragment Method (NW)** — the master authorship method of the Sacred Codex named explicitly: one idea per Card; resist categorization until material forces structure; "approximately correct but precisely wrong" frameworks collapse possibility.
 
@@ -4479,9 +4479,9 @@ Phase 2.1 through 2.6 ledger sections were verified against their source agent t
 **Phase 2.2 FSC-3 (5):**
 - **Stewards as Guardians of the Driver** — refines Stewardship Class with specific governance-weight provision
 - **Capital Held In Trust, Deployed In Service** — fiduciary-trust dimension distinct from Capped Returns
-- **Reinvestment as Free Choice** — operational pattern, Volume IV target
+- **Reinvestment as Free Choice** — operational pattern, Volume V target
 - **Voice That Is Not Vote** — sharper unbundling articulation
-- **Theory vs. Hypothesis** — Volume V Lexicon, distinct from Scientism vs. Science
+- **Theory vs. Hypothesis** — Volume VII Lexicon, distinct from Scientism vs. Science
 
 **Phase 2.4 PKM-A1 Knowledge Gardening (6):**
 - **The 432 Correspondences**
@@ -4528,7 +4528,7 @@ Phase 2.1 through 2.6 ledger sections were verified against their source agent t
 ### Two Source-Corpus Gaps (Phase 2.1 found these in the wiki itself, not in transcripts)
 
 1. **99 Theses entries 56-57 are blank in the source corpus** — need to be authored.
-2. **The 66 Most Protected and Distorted Narratives** is named in the Codex Volume I spec but the wiki folder is missing/empty (per WB-5 audit, only 4 of 66 actually written).
+2. **The 66 Most Protected and Distorted Narratives** is named in the Codex Volume II spec but the wiki folder is missing/empty (per WB-5 audit, only 4 of 66 actually written).
 
 ### Comprehensive Phase 2 Aggregate Yield (All Phases Combined)
 

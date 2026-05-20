@@ -1,4 +1,4 @@
-The [[ONE]] who understands how to Properly Order the cosmos understands the necessity of [[Sovereignty]], [[Autonomy]], and [[Free Will]] in the [[Highest Order]] [[Unity]]. 
+The [[ØNE]] who understands how to Properly Order the cosmos understands the necessity of [[Sovereignty]], [[Autonomy]], and [[Free Will]] in the [[Highest Order]] [[Unity]]. 
 
 ___
 

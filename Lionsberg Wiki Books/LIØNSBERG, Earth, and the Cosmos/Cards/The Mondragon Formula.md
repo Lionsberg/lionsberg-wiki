@@ -48,7 +48,7 @@ The active refinements:
 - **Governance** is held by the Pattern's Element 4 articulation and Structural Immunity.
 - **Solidarity** is held by the [[The Covenant Stack]], the [[The InterCosmic Treaty of Non-Subjugation|treaty architecture]], and the operational practice of [[Right Relationship and Sacred Reciprocity]].
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as a composite formula that runs across multiple Elements (1, 2, 4, 5, 6).
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a composite formula that runs across multiple Elements (1, 2, 4, 5, 6).
 
 ---
 

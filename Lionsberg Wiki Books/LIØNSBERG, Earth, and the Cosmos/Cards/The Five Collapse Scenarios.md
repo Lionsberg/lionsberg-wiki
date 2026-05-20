@@ -58,7 +58,7 @@ A Pilgrim sitting with the scenarios is often shaken by them. The shaking is app
 
 For the Pilgrim sharing the scenarios with others: do not exaggerate them. Do not soften them. Read them aloud. Let the listener sit with them. Then ask: _"What does this ask of you?"_ The listener's own answer is the beginning of their awakening.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the named-futures spectrum against which the urgency is calibrated.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the named-futures spectrum against which the urgency is calibrated.
 
 ---
 

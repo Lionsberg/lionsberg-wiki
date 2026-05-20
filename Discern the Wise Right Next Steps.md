@@ -78,7 +78,7 @@ A world where billions of sovereign beings can coordinate their gifts through ne
 
 There is something sacred about a promise kept.
 
-Every time you say *I will* and then *I did*, you weave a thread of **trust** into the fabric of the New Civilization. Every kept commitment is a small act of faithfulness to [[ONE]], to your Circle, and to the world you are building together.
+Every time you say *I will* and then *I did*, you weave a thread of **trust** into the fabric of the New Civilization. Every kept commitment is a small act of faithfulness to [[ØNE]], to your Circle, and to the world you are building together.
 
 Over time, these threads accumulate into something unbreakable — a living network of mutual reliability that can bear the weight of genuine transformation.
 

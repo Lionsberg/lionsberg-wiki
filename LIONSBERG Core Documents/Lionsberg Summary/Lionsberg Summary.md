@@ -30,7 +30,7 @@ The [[Lionsberg Invitation]] can be shared to [[Pass The Flame]] and invite the 
 
 The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
 
-The [[LIONSBERG Lexicon]] is a starting point for redeveloping a shared language.  
+[[The LIØNSBERG Lexicon|The Lexicon]] is a starting point for redeveloping a shared language.  
 
 [[Lionsberg Metaphors]]  
 

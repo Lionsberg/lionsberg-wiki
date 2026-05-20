@@ -166,7 +166,7 @@ This is **not a metaphorical fire**—it is real, and **it is coming.**
 - **Do not fear the destruction and transformation—it is part of the cycle.**  
 - **Voluntarily and forthrightly embark on the [[Opportunity and Adventure of a Lifetime]]. This is crucial to placing your Self in proactive, exploratory, adventure mode, as opposed to reactive victim mode.**
 - **If you find yourself in trouble, remind your Self that some part of you has been through this before, and found a Way to survive.**  
-- **Pray, and partner with God. Although [[All]] the world fails, [[ONE]] eternally remains.**
+- **Pray, and partner with God. Although [[All]] the world fails, [[ØNE]] eternally remains.**
 
 ---
 
@@ -196,7 +196,7 @@ It will come **from the heavens, from the Earth, from human hands, and from with
 
 The choice is Now.
 
-In partnership with [[ONE]] and [[One Another]], We will get through this. 
+In partnership with [[ØNE]] and [[One Another]], We will get through this. 
 
 We were born for this. 
 

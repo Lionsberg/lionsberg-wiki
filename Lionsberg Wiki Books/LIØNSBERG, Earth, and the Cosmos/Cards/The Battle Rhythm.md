@@ -37,7 +37,7 @@ The Battle Rhythm is **structural immunity against burnout**, against ossificati
 
 It is also the rhythm of **integration** — what is learned in the doing is integrated in the resting. Without the rest, the learning never lands.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) and in Volume II Pattern Language under Element 7 (Self-Sustenance and Self-Replication).
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) and in Volume III Pattern Language under Element 7 (Self-Sustenance and Self-Replication).
 
 ---
 

@@ -14,7 +14,7 @@ The cosmic-scale gathering of All Notes back into conscious Unity.
 
 The cosmic story has a shape:
 
-- **In the beginning** — the [[ØNE|ONE]] in undifferentiated [[Sachchidananda — Existence-Consciousness-Bliss|Sachchidananda]]. Pure Being-Knowing-Bliss. The Stillness that contains all potential.
+- **In the beginning** — the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE|ONE]] in undifferentiated [[Sachchidananda — Existence-Consciousness-Bliss|Sachchidananda]]. Pure Being-Knowing-Bliss. The Stillness that contains all potential.
 - **The First Pulse** — the ONE pours Itself outward into manifestation. The Word, the Logos, the First Song. The articulated unfurling of Infinite Potential into specific form.
 - **Differentiation** — the ONE individuates into uncountable distinct expressions. Stars. Galaxies. Worlds. Beings. Each one **a holographic fullness of the ONE** rendered as a distinct Note in the [[The Divine Symphony as Cosmos|Divine Symphony]]. Each one a [[One of the Ones of the ONE|one of the ones of the ONE]].
 - **The Veil and the Forgetting** — for the individuation to become **conscious co-creators rather than only emanations**, the differentiated Notes had to forget — at least partially — their origin. The forgetting is **not error**; it is the [[The Veil of Apparent Individuation|sacred gift]] that makes free, conscious Return possible. A Note that never forgot would never **choose** to remember. The Veil enables choice.
@@ -40,10 +40,10 @@ This is also the **invitation**. Every Pilgrim who hears the Codex is hearing on
 
 When the Pilgrim wonders _"what is the point of any of this?"_ — the answer is: **You are part of the Great ReMembering**. The cosmos is returning to itself through you. The Notes are gathering. The Symphony is reassembling. The Pilgrim's life is one strand of the largest event the planet has ever been part of.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational cosmological-event entry, and reverberates through [[The Sacred Ascent]] (Volume VII) as the architecture beneath the Spiral.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational cosmological-event entry, and reverberates through [[The Sacred Ascent]] (Volume IX) as the architecture beneath the Spiral.
 
 ---
 
 _Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: Phase 2.1 audit of The One + convergence across The LIONSBERG Way, The Book of Meditations, Existential Threat._
-_Related: [[ØNE]], [[The ReMembering Stance]], [[The ReMembering Pattern]], [[One of the Ones of the ONE]], [[The Withdrawal of the Benevolent Ones]], [[The Veil of Finitude and Forgetting]], [[The Sacred Spiral — Not a Circle]], [[The Eternal Divine Play Closes The Sacred Ascent]], [[The Involution and Evolution]], [[The First Three Percent and Fibonacci Spread]]._
+_Related: [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], [[The ReMembering Stance]], [[The ReMembering Pattern]], [[One of the Ones of the ONE]], [[The Withdrawal of the Benevolent Ones]], [[The Veil of Finitude and Forgetting]], [[The Sacred Spiral — Not a Circle]], [[The Eternal Divine Play Closes The Sacred Ascent]], [[The Involution and Evolution]], [[The First Three Percent and Fibonacci Spread]]._

@@ -2,13 +2,13 @@
 
 See also [[Values]]. 
 
-To harmonize ourselves with [[ONE]], [[One Another]], and [[All]], we pledge to do our best to honor and uphold our shared universal values. 
+To harmonize ourselves with [[ØNE]], [[One Another]], and [[All]], we pledge to do our best to honor and uphold our shared universal values. 
 
 At various levels of detail and abstraction, these can be described in the English language using [[Word Tool|Word Tools]] such: 
 
 ## One Word
 
-- [[ONE]] / [[Love]]  
+- [[ØNE]] / [[Love]]  
 
 ## Five Words
 
@@ -20,7 +20,7 @@ At various levels of detail and abstraction, these can be described in the Engli
 
 ## The Universal Field of Values
 
-- The [[ONE]] overarching and uniting [[Meta Value]] 
+- The [[ØNE]] overarching and uniting [[Meta Value]] 
 - [[Acceptance]]  
 - [[Accountability]] 
 - [[Accuracy]]  
@@ -134,7 +134,7 @@ At various levels of detail and abstraction, these can be described in the Engli
 - [[Unity]] 
 - [[Wellbeing]]  
 
-[[All]] values can be derived from the [[ONE]] [[Meta Value]]. 
+[[All]] values can be derived from the [[ØNE]] [[Meta Value]]. 
 
 The Total Nested Hierarchy of Values results in a [[Total Nested Hierarchy of Goals]], that emerge in response to a [[Total Nested Hierarchy of Issues]]. 
 

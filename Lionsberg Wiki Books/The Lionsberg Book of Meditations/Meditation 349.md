@@ -1,4 +1,4 @@
-Deep beneath all [[True]] moral and spiritual teaching is [[ONE]] fundamental Unity. 
+Deep beneath all [[True]] moral and spiritual teaching is [[ØNE]] fundamental Unity. 
 
 If an element of the tradition you were raised in does not conform to this unity, it is by definition not True. 
 

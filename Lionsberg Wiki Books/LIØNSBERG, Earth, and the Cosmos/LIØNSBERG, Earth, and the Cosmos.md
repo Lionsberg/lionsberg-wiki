@@ -44,7 +44,7 @@ captured: YYYY-MM-DD
 ---
 ```
 
-**Canonical-reference convention**: Use [[ØNE]] (with Ø glyph) in all Card cross-references to the foundational center.
+**Canonical-reference convention**: Use [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] (with Ø glyph) in all Card cross-references to the foundational center.
 
 ---
 
@@ -156,7 +156,7 @@ captured: YYYY-MM-DD
 - [[The Mondragon Formula]]
 - [[The Nameless One Is The Speaker]]
 - [[The Network of Commitments]]
-- [[ØNE]]
+- [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
 - [[The Old Operating System]]
 - [[The Old-New Polarity]]
 - [[The One Hour a Day Practice]]
@@ -215,7 +215,7 @@ captured: YYYY-MM-DD
 
 ### By Volume (static mirror)
 
-**Volume I — Story of LIØNSBERG (37)**
+**Volume II — Story of LIØNSBERG (37)**
 - [[Christos and Sophia — The Sacred ReMarriage]]
 - [[Cosmic Wildlife]]
 - [[Earth's Galactic History and the Cosmic Chronicles]]
@@ -254,7 +254,7 @@ captured: YYYY-MM-DD
 - [[We Are In The Window]]
 - [[Yahweh Is Not God]]
 
-**Volume II — LIØNSBERG Pattern Language (48)**
+**Volume III — LIØNSBERG Pattern Language (48)**
 - [[Anatomies of Association]]
 - [[Capital as Subordinate Tool]]
 - [[Consciousness Is Primary]]
@@ -304,7 +304,7 @@ captured: YYYY-MM-DD
 - [[Throughput of The Goal]]
 - [[We Do Not Know]]
 
-**Volume III — Great Game of LIØNSBERG (15)**
+**Volume IV — Great Game of LIØNSBERG (15)**
 - [[Covenant and Jubilee — December 2033]]
 - [[Hospicing the Old Systems]]
 - [[Swords to Ploughshares]]
@@ -321,7 +321,7 @@ captured: YYYY-MM-DD
 - [[Transform Weaponry to Livingry]]
 - [[Worksite Earth]]
 
-**Volume IV — LIØNSBERG Playbook (21)**
+**Volume V — LIØNSBERG Playbook (21)**
 - [[Counting Up To Consciousness]]
 - [[Everything Is A Project]]
 - [[Looking Back From Beyond]]
@@ -344,14 +344,14 @@ captured: YYYY-MM-DD
 - [[The Whisper Campaign]]
 - [[Withdrawal of Consent and Exodus Protocols]]
 
-**Volume V — LIØNSBERG Lexicon (15)**
+**Volume VII — LIØNSBERG Lexicon (15)**
 - [[Anti-Good]]
 - [[One of the Ones of the ONE]]
 - [[Sachchidananda — Existence-Consciousness-Bliss]]
 - [[Stories of Transformation]]
 - [[The Core Values]]
 - [[The Great ReMembering]]
-- [[ØNE]]
+- [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
 - [[The Old-New Polarity]]
 - [[The Orienting Questions]]
 - [[The ReMembering Pattern]]
@@ -361,12 +361,12 @@ captured: YYYY-MM-DD
 - [[We Have Heard]]
 - [[Wisdom as Person, Not Concept]]
 
-**Volume VI — Book of LIØNSBERG (3)**
+**Volume VIII — Book of LIØNSBERG (3)**
 - [[City On A Hill]]
 - [[One Citizenship Under God]]
 - [[The One Hour a Day Practice]]
 
-**Volume VII — Sacred Ascent (9)**
+**Volume IX — Sacred Ascent (9)**
 - [[Anxiety as Default-On]]
 - [[Memento Mori]]
 - [[The Eternal Divine Play Closes The Sacred Ascent]]

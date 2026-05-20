@@ -176,7 +176,7 @@ All Cards verbatim-match. Refinement table (15 entries) matches ledger line 4002
 
 **Voice-and-register patterns:** Three patterns (first-person archetypal address, structural pivot, "What I Need From the ALL" closing) — match.
 
-**Structural canonicity recommendation:** Identical reasoning across both — treat 144 Voices as Volume V companion corpus; do NOT elevate the 144-Voices framework as canonical; mine ~20-30 voices for Card content; absorb voice-and-register lessons into LIØNSBERG Voice.
+**Structural canonicity recommendation:** Identical reasoning across both — treat 144 Voices as Volume VII companion corpus; do NOT elevate the 144-Voices framework as canonical; mine ~20-30 voices for Card content; absorb voice-and-register lessons into LIØNSBERG Voice.
 
 **Ledger completeness: 100%.**
 
@@ -406,7 +406,7 @@ All Cards verbatim-match: The Translator Function, Speak in the Voice of the Aud
 4. **Re-route Dr. Andrija Puharich file** from PKM-A7 to PKM-A3/A4
 5. **Schedule dedicated White Paper Notes deep read** (highest-priority follow-on)
 6. **Adopt wiki-wide frontmatter conventions** from PKM-A1: `confidence:`, `quadrivium:`, `error_registry:`
-7. **Decide canonicity** of 144 Voices framework — PKM-A2 strongly recommends treating as Volume V companion corpus, not Sacred-Codex structure (ledger captures this)
+7. **Decide canonicity** of 144 Voices framework — PKM-A2 strongly recommends treating as Volume VII companion corpus, not Sacred-Codex structure (ledger captures this)
 8. **Decide canonicity** of George's Omniharmonic Engine + Möbius Bootstrap Protocol — both transcripts (PKM-3, PKM-A1) recommend Provenance-only, not canonical
 
 ---

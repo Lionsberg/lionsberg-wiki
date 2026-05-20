@@ -34,13 +34,13 @@ ___
 
 ## In LIONSBERG
 
-The Central Animating Spirit is the unnamed center of everything — [[ONE]].
+The Central Animating Spirit is the unnamed center of everything — [[ØNE]].
 
 Not owned by any religion. Not captured by any ideology. Not contained by any name.
 
 Known by every name. Present in every tradition. Discoverable by every sincere seeker.
 
-From this [[ONE]], the [[Twelve Irreducible Elements]] emanate. To this ONE, all things return. In this ONE, all things cohere.
+From this [[ØNE]], the [[Twelve Irreducible Elements]] emanate. To this ONE, all things return. In this ONE, all things cohere.
 
 ___
 

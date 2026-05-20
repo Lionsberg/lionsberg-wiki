@@ -2,7 +2,7 @@
 A Thread in [[Above The Chaos]]  
 *Initiated July 2025. Updated July 11, 2025*  
 
-As we [[Progress]], the most important thing to [[Focus]] on is [[The Goal]]. [[ONE]] Supreme Focus and Goal for [[All]].  
+As we [[Progress]], the most important thing to [[Focus]] on is [[The Goal]]. [[ØNE]] Supreme Focus and Goal for [[All]].  
 
 And yet—it turns out there are some [[Obstacles]] that lie in the [[Way]] that require our attention.  
 

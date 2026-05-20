@@ -41,12 +41,12 @@ It opens the proper register: **respect, discernment, sovereign engagement, neit
 
 This Card pairs with [[The Cosmic Geopolitics of Earth]], which names the specific factional configurations currently in tension over Earth's trajectory. The Geopolitics Card describes _what is operationally happening_; this Card describes _the posture from which to perceive it_.
 
-The deeper insight: every Cosmic Wildlife being — predator and ally and observer alike — is within the larger field of [[ØNE]]. Even the present cosmic conflict serves, at a level the immediate Earth-human mind cannot fully see, the larger return-arc of the [[The Great ReMembering]]. The Pilgrim's discipline is to engage the proximate reality with discernment while holding the deeper reality with reverence.
+The deeper insight: every Cosmic Wildlife being — predator and ally and observer alike — is within the larger field of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Even the present cosmic conflict serves, at a level the immediate Earth-human mind cannot fully see, the larger return-arc of the [[The Great ReMembering]]. The Pilgrim's discipline is to engage the proximate reality with discernment while holding the deeper reality with reverence.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the foundational posture toward non-human intelligence; pairs operationally with [[The Cosmic Geopolitics of Earth]].
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the foundational posture toward non-human intelligence; pairs operationally with [[The Cosmic Geopolitics of Earth]].
 
 ---
 
 _Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: Phase 2.1 remediation pass; refinement notes for the wiki turn._
-_Related: [[The Cosmic Geopolitics of Earth]], [[The Cosmos Is Not Human-Centric]], [[The Cosmic Gardeners and Earth as Living Laboratory]], [[Earth's Galactic History and the Cosmic Chronicles]], [[The Hybrid Species]], [[The Withdrawal of the Benevolent Ones]], [[ØNE]]._
+_Related: [[The Cosmic Geopolitics of Earth]], [[The Cosmos Is Not Human-Centric]], [[The Cosmic Gardeners and Earth as Living Laboratory]], [[Earth's Galactic History and the Cosmic Chronicles]], [[The Hybrid Species]], [[The Withdrawal of the Benevolent Ones]], [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]._

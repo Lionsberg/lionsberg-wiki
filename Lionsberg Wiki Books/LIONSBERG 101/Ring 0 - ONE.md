@@ -6,7 +6,7 @@ _Before there was a Seed, there was the Source from which all seeds emerge._
 
 ---
 
-**[[ONE]].**
+**[[ØNE]].**
 
 The eternal, universal, ultimate Source and Sustainer of [[All]] That Is.
 
@@ -58,9 +58,9 @@ Not the foundation — the Source from which all foundations are laid.
 
 ---
 
-_From [[ONE]], all things proceed._  
-_To [[ONE]], all things return._  
-_In [[ONE]], all things live, move, breathe, and cohere._
+_From [[ØNE]], all things proceed._  
+_To [[ØNE]], all things return._  
+_In [[ØNE]], all things live, move, breathe, and cohere._
 
 _Love ONE._  
 _Love One Another._  

@@ -10,7 +10,7 @@ The LIONSBERG Wiki contains approximately **2.5 million words** of foundational 
 
 You do not need to read all of it. You do not need to read most of it.
 
-**Ring 0** gave you the center: [[ONE]].  
+**Ring 0** gave you the center: [[ØNE]].  
 **Ring 1** gave you the Seed: [[Ring 1 - The Seed|the twelve elements in one page]].  
 **Ring 2** gave you the Pattern: [[Ring 2 - The Pattern Unfolded|each element unfolded with enough to begin]].  
 **Ring 3** gave you the Proof: [[Ring 3 - The Living Proof|1,500 years of evidence across eight movements]].
@@ -26,7 +26,7 @@ Ring 4 gives you the **depth** — so that when you encounter a specific challen
 These books tell **The Story** — the cosmic context of what is happening, why it matters, and where humanity stands.
 
 - **[[The Story of LIØNSBERG]]** — The full cosmic narrative spanning epochs and galaxies. Earth as one world where the great Story is unfolding. The Caves, the awakening, the Great Movement.
-- **[[The Book of LIONSBERG]]** — The foundational text. Over 12 chapters covering the nature of reality, the quest for unity, the Meta Project, the Meta Game, and the path to Heaven On Earth.
+- **[[The Book of LIØNSBERG]]** — The foundational text. Over 12 chapters covering the nature of reality, the quest for unity, the Meta Project, the Meta Game, and the path to Heaven On Earth.
 - **[[Welcome to LIØNSBERG]]** — The essential guide showing the Way. The primary entry point for those seeking practical orientation.
 
 ### The Operational System
@@ -111,7 +111,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 **If you want to understand the historical evidence**: Read [[Mondragon]], [[The Prophesy of Mondragon]], and [[Ring 3 - The Living Proof]].
 
-**If you want to understand the cosmic context**: Read [[The Book of LIONSBERG]] from the beginning.
+**If you want to understand the cosmic context**: Read [[The Book of LIØNSBERG]] from the beginning.
 
 **If you want to understand the twelve irreducible elements**: Read [[The Core Pattern]] and the [[Twelve Irreducible Elements]], each of which has its own standalone page.
 

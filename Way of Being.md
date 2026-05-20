@@ -8,6 +8,6 @@ From this flows our [[Way of Doing]].
 
 Our [[Way of Being]] and our [[Way of Doing]] are somewhat arbitrary differentiations of One unified [[Way]] of InterExistence.  
 
-In the [[LIONSBERG System]], progressing towards [[The Goal]] requires that we progressively elevate, transform, and conform our [[Way]] towards the perfect, universal, eternal [[Way]] of the [[ONE]]. 
+In the [[LIONSBERG System]], progressing towards [[The Goal]] requires that we progressively elevate, transform, and conform our [[Way]] towards the perfect, universal, eternal [[Way]] of the [[ØNE]]. 
 
 This is the central movement of the [[All]] towards [[Unity]] through [[Love]].  

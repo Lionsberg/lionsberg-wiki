@@ -12,7 +12,7 @@ A cell that cannot sustain itself dies. A cell that cannot replicate ends its li
 
 The fruit of the tree contains new seeds — but the tree draws water from the earth, light from the sun, and life from the mycelial networks woven through the soil by countless other beings. Self-sustenance is not self-sufficiency. It is the capacity to receive from and give back to the Whole — to breathe in and breathe out — as a healthy, sovereign expression of the interexistent [[All]].
 
-**Self-sustenance and self-replication are not independence. They are the marks of a mature, contributing member of [[ONE]] Living Body.**
+**Self-sustenance and self-replication are not independence. They are the marks of a mature, contributing member of [[ØNE]] Living Body.**
 
 The mechanism of sustenance and spread is not separate from the practice — it IS the practice. The final step of maturity is planting new seeds. Recovery requires transmission. Discipleship requires multiplication. The act of passing the pattern forward is integral to the pattern itself.
 

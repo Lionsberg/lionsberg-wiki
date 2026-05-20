@@ -1,6 +1,6 @@
-There are many words. There are many names. There are many ideas. There are many beliefs. There are many religions. There is only [[ONE]] God. 
+There are many words. There are many names. There are many ideas. There are many beliefs. There are many religions. There is only [[ØNE]] God. 
 
-Understanding and rightly relating to [[Ultimate Reality]] does not require that an individual subordinate their [[Self]] to any word, name, idea, belief, or religion but [[ONE]] that remains eternally transcendent. 
+Understanding and rightly relating to [[Ultimate Reality]] does not require that an individual subordinate their [[Self]] to any word, name, idea, belief, or religion but [[ØNE]] that remains eternally transcendent. 
 
 ___
 

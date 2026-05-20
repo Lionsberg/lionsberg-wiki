@@ -36,7 +36,7 @@ The Protocol is the **Healer Codex's contribution to the Playbook**. Most operat
 
 It is named as a named protocol, not a vague suggestion. This matters. When the Pilgrim is in freeze, the Pilgrim does not have the cognitive bandwidth to invent the practice on the fly. The Pilgrim **reaches for a known protocol** the way the wounded soldier reaches for a tourniquet. The Smallest Step is in the kit. It is ready. The Pilgrim only has to remember to use it.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as a named operational practice, and in [[The Sacred Ascent]] (Volume VII) within the Healer Codex as one of the foundational disciplines.
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as a named operational practice, and in [[The Sacred Ascent]] (Volume IX) within the Healer Codex as one of the foundational disciplines.
 
 ---
 

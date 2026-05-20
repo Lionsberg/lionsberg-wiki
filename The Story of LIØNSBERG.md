@@ -41,7 +41,7 @@ At long last it is time to begin
 ## **The Gate of Entry**
 
 The Story of LIONSBERG  
-Is the Story of **[[ONE]] and [[All]]**  
+Is the Story of **[[ØNE]] and [[All]]**  
 
 Every true story is a part of it —  
 Including the most sacred stories  
@@ -96,7 +96,7 @@ of All that could ever Be
 
 Called by a thousand names in a thousand languages  
 the essence of Beginning and End, Source and Destiny  
-is always and everywhere **[[ONE]]**  
+is always and everywhere **[[ØNE]]**  
 
 ### Epoch II — The First Turning
 
@@ -350,7 +350,7 @@ he was assigned a number and a name —
 but he was neither his number nor his name  
 
 By ten or twelve years of age  
-he spoke of things the adults around him  
+he spoke of things those around him  
 could not yet understand —  
 a great war for the future  
 and the total transformation  
@@ -389,8 +389,7 @@ The Pattern was tested
 with hundreds of individuals and groups  
 across dozens of nations  
 
-By 2024  
-[[The Golden Seed]] was ready  
+[[The Golden Seed]] was nearly ready  
 
 ### The Clash with the Existing Order
 

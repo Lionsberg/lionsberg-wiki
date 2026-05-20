@@ -29,7 +29,7 @@ The convention is compatible with [[The Posture — Wise Elder at the Fire, Gene
 
 It is also a protection against [[The Pattern Governs, Not People|personality cults]]. Whoever speaks "I am the source of this teaching" has, by that act, stepped outside the Movement. The Source is the ONE; the speakers are vessels.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as a foundational voice convention of the Meta Layer.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational voice convention of the Meta Layer.
 
 ---
 

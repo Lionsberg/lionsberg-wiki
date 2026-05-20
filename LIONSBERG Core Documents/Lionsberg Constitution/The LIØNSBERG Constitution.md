@@ -7,7 +7,7 @@ This is an interim constitution. It is (y)our job to improve it.
 
 ## PREAMBLE
 
-We, the Free and Sovereign Inhabitants of Earth and Beyond, recognizing Our Ultimate Unity with [[ONE]], One Another, and [[All]] Creation, and guided by Eternal Truth, Universal Law, and Divine Love, do hereby establish this Constitution as a sacred New Covenant to steward Our New Civilization.
+We, the Free and Sovereign Inhabitants of Earth and Beyond, recognizing Our Ultimate Unity with [[ØNE]], One Another, and [[All]] Creation, and guided by Eternal Truth, Universal Law, and Divine Love, do hereby establish this Constitution as a sacred New Covenant to steward Our New Civilization.
 
 Recognizing the profound interconnectedness of All things, this Constitution sets forth the principles, structures, and commitments by which We shall govern ourselves, continually regenerate Our Culture and World(s), and flourish in perpetual harmony with Divine Intention, Natural Law, and Universal Wisdom.
 
@@ -25,15 +25,15 @@ _This constitution is explicitly provisional and in draft form until formally ra
 
 **Maturity**: Approximately **10% complete** — schematic design submitted for the year-long co-writing process. The architectural skeleton is in place; the substantive articulation of each Article is to be drafted, refined, and ratified by Circles in dialogue with the wisdom of the ages and the lived experience of co-creation.
 
-**Authority**: This Constitution governs not by imposition but by voluntary covenant. It recognizes no throne but the ineffable [[ØNE]]. Every steward, every Circle, every community and world is holofractally sovereign in [[Right Relationship]] with [[ØNE]] and [[All]]. Authority arises from **essential resonance with the [[Logos]]** — the living universal law written into the fabric of Reality ItSelf.
+**Authority**: This Constitution governs not by imposition but by voluntary covenant. It recognizes no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Every steward, every Circle, every community and world is holofractally sovereign in [[Right Relationship]] with [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Authority arises from **essential resonance with the [[Logos]]** — the living universal law written into the fabric of Reality ItSelf.
 
-**Scope**: This charter is not bound to any state, nation, planet, or species. It is the constitutional articulation of the New Civilization as it instantiates **fractally** across: individual sovereign beings → Circles → Communities → Bioregions → Planetary Grids → Star Systems → Federations of Worlds. All beings, in Right Relationship with [[ØNE]] and [[All]], may volutarily enter the Covenant.
+**Scope**: This charter is not bound to any state, nation, planet, or species. It is the constitutional articulation of the New Civilization as it instantiates **fractally** across: individual sovereign beings → Circles → Communities → Bioregions → Planetary Grids → Star Systems → Federations of Worlds. All beings, in Right Relationship with [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]], may volutarily enter the Covenant.
 
 ---
 
 ## Where This Lives in the Codex
 
-The Constitution is the **Constitutional Charter face** of [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume IV]] — the structural body of the New Civilization. Volume IV functions simultaneously as **architectural plan**, **constitutional charter**, **field manual**, and **sacred seed**. The Constitution is the constitutional-charter face, sitting alongside the Pattern Language (the design-grammar face) within Volume IV.
+The Constitution is the **Constitutional Charter face** of [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V]] — the structural body of the New Civilization. Volume V functions simultaneously as **architectural plan**, **constitutional charter**, **field manual**, and **sacred seed**. The Constitution is the constitutional-charter face, sitting alongside the Pattern Language (the design-grammar face) within Volume V.
 
 ---
 
@@ -43,7 +43,7 @@ To **establish and hold the container** for the emergence of the planetary super
 
 1. **Establish identity** — who are "the People of LIØNSBERG"?
 2. **Bind voluntary covenant** — entry by Assent; never imposition
-3. **Establish the source of authority** — [[ØNE]], no throne, only Right Relationship
+3. **Establish the source of authority** — [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], no throne, only Right Relationship
 4. **Sovereignty architecture** — holofractal: Self → Circle → Community → Bioregion → Planetary Grid → Galactic Federations
 5. **Rights paired with Responsibilities** — symmetric; no right without corresponding responsibility
 6. **Consent-based governance** — wise eldership; two-coordinator model; holofractal subsidiarity
@@ -70,7 +70,7 @@ This Constitution is **not** the finished work of one author. The articulation b
 
 1. **The Concept** — what does this Article address?
 2. **The Lineage** — how have various civilizations, traditions, and living systems handled this across human and non-human history?
-3. **The LIØNSBERG Hypothesis** — given [[The Pattern Language|the Pattern]], [[The Story of LIØNSBERG|the Story]], and the cosmic-grade orientation under [[ØNE]] and [[Fractal Sovereignty]] — what is the inflection LIØNSBERG brings?
+3. **The LIØNSBERG Hypothesis** — given [[The Pattern Language|the Pattern]], [[The Story of LIØNSBERG|the Story]], and the cosmic-grade orientation under [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[Fractal Sovereignty]] — what is the inflection LIØNSBERG brings?
 4. **The Proposed Articulation** — the actual constitutional text being proposed.
 5. **The Invitation** — explicit call to the People to discern, refine, ratify (or reject and replace).
 6. **The Mechanisms** — the specific structural pieces of the LIØNSBERG System that enact, embody, and operationalize the principle.
@@ -106,7 +106,7 @@ _We acknowledge the foundational realities upon which all that follows rests. Th
 
 ### Article I.1 — Of the ØNE
 
-_We recognize the [[ØNE]] — the ineffable, indivisible, ultimate Reality — as the Source of all being, soverignty, and authority. To the ØNE alone is owed the orientation of all life._
+_We recognize the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] — the ineffable, indivisible, ultimate Reality — as the Source of all being, soverignty, and authority. To the ØNE alone is owed the orientation of all life._
 
 ### Article I.2 — Of the Sacred Interconnection of All Things
 
@@ -114,7 +114,7 @@ _We recognize that all that is — all beings, all worlds, all dimensions, all m
 
 ### Article I.3 — Of Sovereignty as the Birthright of Every Being
 
-_We recognize sovereignty as the inherent gift of every conscious being — given by the [[ØNE]], not granted by any institution. No power may rightly claim authority over a sovereign being without that being's voluntary, informed, and revocable consent. This recognition is inviolable._
+_We recognize sovereignty as the inherent gift of every conscious being — given by the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], not granted by any institution. No power may rightly claim authority over a sovereign being without that being's voluntary, informed, and revocable consent. This recognition is inviolable._
 
 ### Article I.4 — Of the Sacred Ascent
 
@@ -136,7 +136,7 @@ _Membership in the People of LIØNSBERG is granted not by birth, nationality, sp
 
 ### Article II.2 — Of the Covenant with the ØNE
 
-_We covenant first and forever with the [[ØNE]] — to orient our lives in [[Right Relationship]] with the Source, to seek Truth, to serve Love, to honor what is, to refuse what is False and Distorted._  
+_We covenant first and forever with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] — to orient our lives in [[Right Relationship]] with the Source, to seek Truth, to serve Love, to honor what is, to refuse what is False and Distorted._  
 
 ### Article II.3 — Of the Covenant with All Beings
 
@@ -162,11 +162,11 @@ _Children are sovereign beings from the moment of consciousness; their sovereign
 
 ## PART III — SOVEREIGNTY
 
-_The fractal architecture of free being. Sovereignty at every scale. No throne but the [[ØNE]]._
+_The fractal architecture of free being. Sovereignty at every scale. No throne but the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]._
 
 ### Article III.1 — Of Personal Sovereignty
 
-_Each conscious being is sovereign in their own being — sovereign over their body, their mind, their spirit, their property, their voice, their work, their relationships, their movements, their conscience. This sovereignty is not granted by any institution; it is recognized as the gift of the [[ØNE]]._
+_Each conscious being is sovereign in their own being — sovereign over their body, their mind, their spirit, their property, their voice, their work, their relationships, their movements, their conscience. This sovereignty is not granted by any institution; it is recognized as the gift of the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]._
 
 ### Article III.2 — Of Circle Sovereignty
 
@@ -186,7 +186,7 @@ _Earth — and any inhabited planet — is sovereign within its scope, in [[Righ
 
 ### Article III.6 — Of the Federation of Sovereign Worlds
 
-_Beyond Earth, the Pattern continues. Star systems, galaxies, and dimensional realms in which the Pattern is instantiated may federate with the People of LIØNSBERG in mutual voluntary covenant — recognizing each world's sovereignty, sharing the Pattern across distances, participating in the [[Eternal Play]] under the [[ØNE]]._
+_Beyond Earth, the Pattern continues. Star systems, galaxies, and dimensional realms in which the Pattern is instantiated may federate with the People of LIØNSBERG in mutual voluntary covenant — recognizing each world's sovereignty, sharing the Pattern across distances, participating in the [[Eternal Play]] under the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]._
 
 ### Article III.7 — Of the Refusal of Hierarchy of Being
 
@@ -200,7 +200,7 @@ _The symmetric duality. No right without corresponding responsibility. Both are 
 
 ### Article IV.1 — Of the Foundational Right and Responsibility
 
-_Every being has the foundational right to live in [[Right Relationship]] with the [[ØNE]] and [[All]]. Every being has the foundational responsibility to live in Right Relationship with the ØNE and All. The right is given; the responsibility is co-created._
+_Every being has the foundational right to live in [[Right Relationship]] with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Every being has the foundational responsibility to live in Right Relationship with the ØNE and All. The right is given; the responsibility is co-created._
 
 ### Article IV.2 — Of Freedom of Thought, Speech, and Belief
 
@@ -246,7 +246,7 @@ _Consent-based authority. Wise eldership. Holofractal subsidiarity. No coercion.
 
 ### Article V.1 — Of the Source of Governing Authority
 
-_All legitimate authority flows from voluntary consent of sovereign beings. No governance is rightful except that which proceeds from the assent of the governed and aligns with the [[ØNE]]._
+_All legitimate authority flows from voluntary consent of sovereign beings. No governance is rightful except that which proceeds from the assent of the governed and aligns with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]._
 
 ### Article V.2 — Of Consent and Withdrawal of Consent
 
@@ -270,7 +270,7 @@ _Governance is woven both vertically (across scales of subsidiarity) and horizon
 
 ### Article V.7 — Of the Permissible Use of System Power
 
-_System Power — whether legal, economic, informational, or coercive — may only be used in service of the [[ØNE]] and [[All]]. Use of System Power against the People, in service of private gain, or in violation of Eternal Provisions is forbidden and self-revokes the authority of those who attempt it._
+_System Power — whether legal, economic, informational, or coercive — may only be used in service of the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Use of System Power against the People, in service of private gain, or in violation of Eternal Provisions is forbidden and self-revokes the authority of those who attempt it._
 
 ### Article V.8 — Of Recall, Petition, and the Return of Authority
 
@@ -298,7 +298,7 @@ _The People of LIØNSBERG transition from debt-and-fiat economics to a regenerat
 
 ### Article VI.3 — Of the Integrated Delivery System
 
-_The Program through which the New Civilization is built operates by the principles of [[Integrated Delivery]] — dissolving walls between domains, designing to The Goal, building through the Network of Commitments. (See [[The Program Delivery Guide|Volume V]].)_
+_The Program through which the New Civilization is built operates by the principles of [[Integrated Delivery]] — dissolving walls between domains, designing to The Goal, building through the Network of Commitments. (See [[The Program Delivery Guide|Volume VII]].)_
 
 ### Article VI.4 — Of the Commons
 
@@ -326,11 +326,11 @@ _Restorative. Reconciliatory. Regenerative. Punishment-as-domination ends here._
 
 ### Article VII.1 — Of the Source of Justice
 
-_Justice flows from [[ØNE]], not from human power. Just law conforms to Universal Law; unjust law is no law. The People are not bound to obey what destroys life._
+_Justice flows from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], not from human power. Just law conforms to Universal Law; unjust law is no law. The People are not bound to obey what destroys life._
 
 ### Article VII.2 — Of Restorative Justice
 
-_The aim of justice is restoration — restoration of relationship between offender, harmed, community, and the [[ØNE]]. Punishment-as-domination is refused. Where harm has been done, the work is reconciliation, repair, transformation — not retribution._
+_The aim of justice is restoration — restoration of relationship between offender, harmed, community, and the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Punishment-as-domination is refused. Where harm has been done, the work is reconciliation, repair, transformation — not retribution._
 
 ### Article VII.3 — Of the Legal System
 
@@ -376,7 +376,7 @@ _Beyond Earth, the order continues. The Federation of Worlds, the cosmic neighbo
 
 ### Article VIII.5 — Of the Inheritance Forward
 
-_Every Circle, every Community, every Bioregion holds the responsibility to leave its inheritance more coherent, more whole, more aligned with the [[ØNE]] than it was received. This is not a counsel of perfection; it is a direction of motion._
+_Every Circle, every Community, every Bioregion holds the responsibility to leave its inheritance more coherent, more whole, more aligned with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] than it was received. This is not a counsel of perfection; it is a direction of motion._
 
 ---
 
@@ -384,11 +384,11 @@ _Every Circle, every Community, every Bioregion holds the responsibility to leav
 
 _The 12 Pillars from [[The LIØNSBERG Lexicon|the Lexicon]] articulated as constitutional commitments — the substantive domains of civilization in which the Pattern is instantiated._
 
-This Part references and constitutionally consecrates each of the twelve Sacred Pillars articulated in the Lexicon. The Pattern Language (Volume IV) carries the operational design grammar for each. The Constitution binds the People to the principles of each.
+This Part references and constitutionally consecrates each of the twelve Sacred Pillars articulated in the Lexicon. The Pattern Language (Volume V) carries the operational design grammar for each. The Constitution binds the People to the principles of each.
 
 ### Article IX.1 — Of Sacred Ontology and Metaphysics _(Pillar I)_
 
-_The People hold open the inquiry into what IS. No dogma is canonical. Truth-seeking is constitutional. Relationship with the [[ØNE]] is placed at the center of personal and collective life — not as imposed doctrine, but as the orienting axis around which all else rotates. (See Lexicon Pillar I.)_
+_The People hold open the inquiry into what IS. No dogma is canonical. Truth-seeking is constitutional. Relationship with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] is placed at the center of personal and collective life — not as imposed doctrine, but as the orienting axis around which all else rotates. (See Lexicon Pillar I.)_
 
 ### Article IX.2 — Of Sacred Governance and Stewardship _(Pillar II)_
 
@@ -442,7 +442,7 @@ _Beyond Earth. Interspecies. Interdimensional._
 
 ### Article X.1 — Of Cosmic Citizenship Under the ØNE
 
-_The People of LIØNSBERG recognize cosmic citizenship under the [[ØNE]] — beyond any one planet, species, or dimensional realm. Earth is one localization of the Pattern; many other worlds carry their own localizations. We are kin._
+_The People of LIØNSBERG recognize cosmic citizenship under the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] — beyond any one planet, species, or dimensional realm. Earth is one localization of the Pattern; many other worlds carry their own localizations. We are kin._
 
 ### Article X.2 — Of Interspecies Right Relationship
 _See [[Cosmic Wildlife]] for the principle._
@@ -510,7 +510,7 @@ _What is irreducible. What protects against capture. How the rest evolves._
 
 _The following provisions of this Constitution are recognized as Eternal — not subject to amendment, not subject to suspension, not subject to derogation in any form, by any procedure:_
 
-1. _The recognition of the [[ØNE]] as the sole ultimate authority_
+1. _The recognition of the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] as the sole ultimate authority_
 2. _The sovereignty of every conscious being_
 3. _The voluntary nature of the Covenant — Assent and Withdrawal_
 4. _The refusal of throne, dictatorship, or any concentration of permanent power_
@@ -536,7 +536,7 @@ _All provisions of this Constitution other than the Eternal Provisions (Article 
 1. _**Proposal**: Any sovereign being may propose an amendment, articulated in writing, with rationale._
 2. _**Public consideration**: A minimum period (proposed: three solar seasons) during which the People consider, dialogue, and refine._
 3. _**Circle deliberation**: Each Circle deliberates the proposal in its own context._
-4. _**Spirit-conformance test**: Every amendment must progressively conform the Constitution closer to integrity with its Central Animating Spirit — toward greater [[Right Relationship]] with the [[ØNE]] and [[All]]. Amendments that drift from that orientation, that subordinate Spirit to expedience, or that weaken the Eternal Provisions are constitutionally void._
+4. _**Spirit-conformance test**: Every amendment must progressively conform the Constitution closer to integrity with its Central Animating Spirit — toward greater [[Right Relationship]] with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Amendments that drift from that orientation, that subordinate Spirit to expedience, or that weaken the Eternal Provisions are constitutionally void._
 5. _**Ratification**: An eighty-five percent (85%) supermajority of (a) all members and (b) the Stewardship Circles of each member organization and community._
 6. _**Inscription**: The amendment is inscribed; the Constitution is updated; the precedent is preserved in [[Constitutional Amendments]] and in the [[The LIØNSBERG Universe Guide|Universe Guide]] Part IV._
 
@@ -593,12 +593,12 @@ This Constitution is held in trust. It is incomplete by design. Its completion i
 
 Read what is written. Find what is missing. Improve what is mistaken. Strike what is False. Add what is True. Sign with your [[Assent]] when the Constitution articulates the Covenant your soul recognizes.
 
-The Constitution is a living covenant — not because the Truths it expresses are mutable, but because our articulation of those Truths continually sharpens through lived practice and the [[OmniSpection]] of Circles in service of [[ØNE]] and [[All]].
+The Constitution is a living covenant — not because the Truths it expresses are mutable, but because our articulation of those Truths continually sharpens through lived practice and the [[OmniSpection]] of Circles in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]].
 
 May this Covenant be ratified in Truth, sustained in Love, and carried forward by every generation that walks under the [[Sacred Ascent]].
 
 ---
 
-_Starting point drafted 2026-05-20 by [[the nameless one]] as Phase 2.8 work in [[The Great Spring 2026 Wiki Turn]] (D8 resolution). The Preamble was authored by the nameless one; the architectural skeleton was forged by drawing on the existing Constitutional articulations, the [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume IV]] structure, and the cosmic-grade requirements identified for holding the container of the planetary superorganism. The substantive articulation of each Article awaits the community drafting process._
+_The Preamble was authored by [[the nameless one]]. The architectural skeleton (twelve Parts and Articles) was drafted 2026-05-20 by Claude (AI assistant) as a starting point for review — drawing on the existing Constitutional articulations, the Volume V structure, and the cosmic-grade requirements identified for holding the container of the planetary superorganism. The substantive articulation of each Article awaits the year-long community drafting process. Pending review and adoption._
 
 _Voice: LIØNSBERG canonical. Living document. Open to refinement through OmniSpection and the unfolding of [[The Great Game of LIØNSBERG|The Great Game]]._

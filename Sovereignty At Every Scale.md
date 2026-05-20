@@ -34,11 +34,11 @@ Sovereign individuals...
 ...voluntarily associate into sovereign communities...  
 ...voluntarily associate into sovereign bioregions...  
 ...voluntarily associate into the planetary Whole...  
-...in service of [[ONE]] and [[All]].
+...in service of [[ØNE]] and [[All]].
 
 At every level, sovereignty is retained. At every level, participation is voluntary. At every level, members are free to leave.
 
-The power flows from [[ONE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ONE]]. It never accumulates at any intermediate level. Any accumulation of power at an intermediate level is a sign of corruption that must be corrected.
+The power flows from [[ØNE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ØNE]]. It never accumulates at any intermediate level. Any accumulation of power at an intermediate level is a sign of corruption that must be corrected.
 
 ### The Membrane That Protects Sovereignty
 
@@ -57,7 +57,7 @@ ___
 Without sovereignty at every scale, federation becomes empire. The cooperative becomes a corporation. The movement becomes a machine. The individual becomes a cog. History demonstrates this collapse repeatedly: movements that begin with liberation end in centralization when sovereignty is not explicitly protected at every fractal level.
 
 In the [[Old World]], individuals were convicted for treason against the state.  
-In the [[New World]], states are convicted for treason against the individual and the [[ONE]].
+In the [[New World]], states are convicted for treason against the individual and the [[ØNE]].
 
 ___
 

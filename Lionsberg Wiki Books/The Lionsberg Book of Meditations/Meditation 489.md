@@ -1,4 +1,4 @@
-Love [[All]], as [[ONE]] Loves [[All]]. 
+Love [[All]], as [[ØNE]] Loves [[All]]. 
 
 ___
 

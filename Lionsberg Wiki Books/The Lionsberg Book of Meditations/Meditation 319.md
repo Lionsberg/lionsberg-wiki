@@ -1,4 +1,4 @@
-We cannot act with Integrity until our our greatest [[Love]] and our greatest [[Fear]] become [[ONE]]. 
+We cannot act with Integrity until our our greatest [[Love]] and our greatest [[Fear]] become [[ØNE]]. 
 
 ___
 

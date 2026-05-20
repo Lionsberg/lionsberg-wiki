@@ -20,7 +20,7 @@ The Whisper Within speaks:
 - When the body is still
 - When the breath slows
 - When the heart is open
-- When the being makes contact with [[ONE]] without intermediary
+- When the being makes contact with [[ØNE]] without intermediary
 - In the moments **just before** the rationalization arrives to override the Knowing
 
 The Whisper is the **conduit** through which a being receives guidance directly from Source — not through any priest, not through any institution, not through any algorithm, not through any text (the text can point; only the Whisper confirms).
@@ -31,7 +31,7 @@ The practice of [[The Sacred Ascent|Sacred Ascent]] is, at its core, the practic
 
 When enough beings hear the Whisper Within clearly, **the Movement governs itself** without external command. The ONE coordinates through each, and through all. This is the deepest meaning of [[The Sovereign Superorganism]] — a Body of beings each listening to the same Source.
 
-Lives canonically in [[The Sacred Ascent]] (Volume VII).
+Lives canonically in [[The Sacred Ascent]] (Volume IX).
 
 ---
 

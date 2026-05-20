@@ -24,7 +24,7 @@ Operational features (to be articulated through Phase 2-3 work and the audit of 
 
 The LUV system replaces neither human labor markets nor the gift economy of healthy traditional cultures. It is the connective tissue that allows both to operate inside a federation that does not collapse into either coerced commodification or destructive accumulation.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume II) — specifically within the **Economy and Stewardship** element of the Pattern.
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — specifically within the **Economy and Stewardship** element of the Pattern.
 
 ---
 

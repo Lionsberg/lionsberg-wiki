@@ -1,3 +1,3 @@
 # BioSocioEconomy
 
-In the [[LIONSBERG Lexicon]], BioSocioEconomy [[Word Tool]] to contextualize economy, as a part of society, as a part of the [[Living System]]
+In [[The LIØNSBERG Lexicon|the Lexicon]], BioSocioEconomy [[Word Tool]] to contextualize economy, as a part of society, as a part of the [[Living System]]

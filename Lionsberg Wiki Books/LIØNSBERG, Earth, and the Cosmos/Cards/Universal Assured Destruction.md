@@ -36,7 +36,7 @@ This is also why the [[Universal Law and Free Will]] is so structurally central.
 
 UAD is the diagnostic. The Pattern is the response. The window is now.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as a foundational entry naming the present existential-risk architecture, and informs [[The Story of LIØNSBERG]] (Volume I) at the urgency-framing of the current decade.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational entry naming the present existential-risk architecture, and informs [[The Story of LIØNSBERG]] (Volume II) at the urgency-framing of the current decade.
 
 ---
 

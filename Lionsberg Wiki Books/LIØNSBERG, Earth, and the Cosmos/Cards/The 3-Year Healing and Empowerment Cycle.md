@@ -34,7 +34,7 @@ This Cycle is why the larger timeline reads **2024-2030 (assembly) + 2030-2033 (
 
 Trying to compress the Cycle does not work. The depth requires the time. The Pattern that bypasses the Cycle produces shallow Citizens — converts, not transformed beings — who collapse under pressure or drift back into the Old World. The 3-Year Cycle is the floor; deeper transformation continues across a lifetime, but the floor must be reached before a being can responsibly carry the Pattern to others.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as the architecture of the Citizenship Path, and informs the timeline of [[The 10 Year Grand Strategy]] and [[Covenant and Jubilee — December 2033]].
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the architecture of the Citizenship Path, and informs the timeline of [[The 10 Year Grand Strategy]] and [[Covenant and Jubilee — December 2033]].
 
 ---
 

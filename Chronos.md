@@ -33,7 +33,7 @@
 
 In the context of the **[[Existing Order]]**, **Chronos** is often worshipped as the ultimate arbiter of value, productivity, and kontrolle. The **mechanization of time** has led to enslavement to routines, deadlines, and systems that prioritize efficiency over meaning, and quantity over quality.
 
-This **[[Chronocratic]]** obsession is one of the root causes of the alienation from **[[ØNE]]**, **[[The Sacred Pattern]]**, and **[[The Divine Symphony]]**, as beings become trapped in the endless cycle of [[Artificial Scarcity]], "[[Not Enough Time]]" and **disconnection from [[The Eternal Now]]**.
+This **[[Chronocratic]]** obsession is one of the root causes of the alienation from **[[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]**, **[[The Sacred Pattern]]**, and **[[The Divine Symphony]]**, as beings become trapped in the endless cycle of [[Artificial Scarcity]], "[[Not Enough Time]]" and **disconnection from [[The Eternal Now]]**.
 
 ### **Chronos and the Sacred Ascent**
 

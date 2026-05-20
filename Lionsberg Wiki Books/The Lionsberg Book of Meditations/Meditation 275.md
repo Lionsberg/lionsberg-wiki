@@ -1,4 +1,4 @@
-How much [[Value]] something has depends on how closely it conforms its self to the perfection of the [[ONE]]. 
+How much [[Value]] something has depends on how closely it conforms its self to the perfection of the [[ØNE]]. 
 
 ___
 

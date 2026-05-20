@@ -27,7 +27,7 @@ The ReMarriage is part of [[Covenant and Jubilee — December 2033]] at the arch
 
 This is not metaphor about human relationships. It is the cosmological condition that conditions human relationships, civilizational forms, religious imagery, scientific method, political structure. Restoration here ripples through everything else.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as the archetypal layer of the cosmic Story.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the archetypal layer of the cosmic Story.
 
 ---
 

@@ -1,6 +1,6 @@
 # Meditation 226
 
-Be perfect, as [[ONE]] is perfect. 
+Be perfect, as [[ØNE]] is perfect. 
 
 ___
 

@@ -16,7 +16,7 @@ Each being is:
 
 - **One** — a discrete, sovereign expression.
 - **Of the Ones** — among the family of discrete sovereign expressions.
-- **Of the ONE** — within, of, permeated by, and sustained by the [[ONE]].
+- **Of the ONE** — within, of, permeated by, and sustained by the [[ØNE]].
 
 The formula collapses the false binary between individual and collective. A being is **simultaneously**:
 
@@ -32,7 +32,7 @@ Every being can say, accurately and completely:
 
 > _I am one. I am one of the Ones. I am of the ONE._
 
-This formula belongs in [[The LIØNSBERG Lexicon]] (Volume V) as a foundational identity entry, and reverberates through Volume I (the Story), Volume II (the Pattern of [[Fractal Sovereignty]]), and Volume VII (the Sacred Ascent's union-without-dissolution).
+This formula belongs in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational identity entry, and reverberates through Volume II (the Story), Volume III (the Pattern of [[Fractal Sovereignty]]), and Volume IX (the Sacred Ascent's union-without-dissolution).
 
 ---
 

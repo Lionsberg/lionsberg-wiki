@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The total set of all Groups of Groups working together toward The Goal.
 
-[[The Rising Movement]] names the body in motion. [[The Force For Good]] names that body under wartime activation. **The Meta Movement** names the **planetary aggregate** that emerges when many Movements federate around [[ØNE|ONE]] and converge on [[The Goal]].
+[[The Rising Movement]] names the body in motion. [[The Force For Good]] names that body under wartime activation. **The Meta Movement** names the **planetary aggregate** that emerges when many Movements federate around [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE|ONE]] and converge on [[The Goal]].
 
 The distinction is important. A Movement is a body — focused on a specific Issue, oriented toward a specific Cause, animated by a specific Inspiration. There are many Movements. There always have been. The climate movement. The food sovereignty movement. The indigenous rights movement. The healing-justice movement. The cooperative economics movement. The sacred-feminine movement. The conscious-fatherhood movement. The men's circle movement. The decentralization movement. The integral education movement. Each is real. Each is doing genuine work. Each is partial.
 
@@ -52,7 +52,7 @@ The Meta Movement is the **planetary-scale entity** that the [[The 10 Year Grand
 
 This is the strategic frame within which every other Movement Card sits. Every Quest, every Hub, every Circle is a strand of the Meta Movement. Every Pilgrim's daily work serves it. **The aggregation of all this work is what saves the planet.**
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume III) as the planetary-scale aggregation toward which the entire Strategy is oriented.
+Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the planetary-scale aggregation toward which the entire Strategy is oriented.
 
 ---
 

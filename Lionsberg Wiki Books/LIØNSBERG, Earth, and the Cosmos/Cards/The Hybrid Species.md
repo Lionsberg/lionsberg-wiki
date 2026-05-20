@@ -46,7 +46,7 @@ The implications for Pillar I (metaphysics) are also vast. The Pilgrim is not "b
 
 Humanity is hybrid. Humanity is awakening. The two are one process, unfolding now.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as foundational anthropology, and informs [[The LIØNSBERG Lexicon]] (Volume V) at the species-origin entries.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as foundational anthropology, and informs [[The LIØNSBERG Lexicon]] (Volume VII) at the species-origin entries.
 
 ---
 

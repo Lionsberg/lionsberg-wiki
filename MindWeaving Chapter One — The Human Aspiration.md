@@ -22,7 +22,7 @@ Journey across lifetimes and realms
 Towards the Perfection of Wisdom and Truth  
 
 Not that Any of the [[All]] may ever attain  
-That Ultimately Perfect Wisdom of the [[ONE]]   
+That Ultimately Perfect Wisdom of the [[ØNE]]   
 Nonetheless [[Like Gold Refined Seven Times]]  
 We experience [[The Pain of Error and Dross]]  
 Being slowly and surely burnt away  
@@ -36,7 +36,7 @@ Towards [[Freedom]] and [[Truth]]
 And ultimately [[Divine Perfection]]  
 Along with All attendant [[Values]] and [[Forms]]  
 Ultimately unified in the [[Meta Conception]]  
-Of the [[All]]-Encompassing [[ONE]]  
+Of the [[All]]-Encompassing [[ØNE]]  
 Is not aberration of Thought   
 
 The Sovereignty and Omniscience  
@@ -273,7 +273,7 @@ Of All the ONE has in Mind
 
 This impulse towards greater consciousness and complexity  
 Arises universally not out of inconscient materiality  
-But rather from the Spirit of the [[ONE]] working within  
+But rather from the Spirit of the [[ØNE]] working within  
 Every particle and cell of its unfurling Cosmic Body  
 
 This Divine Consciousness involved in All  

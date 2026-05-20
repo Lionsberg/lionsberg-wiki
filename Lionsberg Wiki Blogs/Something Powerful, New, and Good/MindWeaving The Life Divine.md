@@ -52,7 +52,7 @@ From the struggles and progress
 Of any one species or world  
 Can prove illuminating for All —  
 For the principles of [[The Life Divine]]  
-Are Universal and [[ONE]] in All  
+Are Universal and [[ØNE]] in All  
 
 What follows is a synthetic interweaving  
 Of that which arises in the Consciousness  

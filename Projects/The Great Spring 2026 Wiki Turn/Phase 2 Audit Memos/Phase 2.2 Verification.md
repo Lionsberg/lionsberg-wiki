@@ -81,9 +81,9 @@ Of 77 Card candidates in the transcript, ~69 are present in the ledger table at 
 |---|---|---|---|
 | 1 | **Stewards as Guardians of the Driver** | "Stewards hold significant governance weight, must vote per Stewardship Principles, typically receive no profit shares but a fee. Their voting weight must be sufficient to maintain integrity if other stakeholders attempt extraction." | ⚠ **ADD** — distinct refinement of Stewardship Class (FSC-1) and Standing Veto For The Voiceless (FSC-4) with specific governance-weight provision. Worth its own row. |
 | 2 | **Capital Held In Trust, Deployed In Service** | "Capital is held in trust and pooled ergodically, so no investor faces ruin alone and no operating entity faces a single investor's pressure. Long-run flourishing of all is mathematically and structurally favored over any single party's gain." | ⚠ **ADD** — distinct from Capped Returns as Covenant; emphasizes fiduciary-trust dimension. Worth its own row. |
-| 3 | **Reinvestment as Free Choice** | "Members who do not need a distribution may reinvest it back into the entity to strengthen other needs. All reinvestments tracked and added to the Member's Investment Capital balance." | ⚠ **ADD** — operational pattern absent elsewhere in the ledger. Volume IV (Playbook) target. |
+| 3 | **Reinvestment as Free Choice** | "Members who do not need a distribution may reinvest it back into the entity to strengthen other needs. All reinvestments tracked and added to the Member's Investment Capital balance." | ⚠ **ADD** — operational pattern absent elsewhere in the ledger. Volume V (Playbook) target. |
 | 4 | **Voice That Is Not Vote** | "Capital holders have governance standing but not controlling votes; sovereignty is sovereign-to-sovereign throughout. Capital does not concentrate control." | ⚠ **ADD** — sharper articulation of Capital Subordinate To Purpose (FSC-4) and Multi-Stakeholder Class Structure (FSC-4). Worth its own row to make the unbundling explicit. |
-| 5 | **Theory vs. Hypothesis** | "In strict scientific usage, a theory is the current best falsifiable description that has survived rigorous attempts to falsify it. Conventional usage conflates theory with hypothesis. Epistemic hygiene matters." | ⚠ **ADD** — Volume V (Lexicon) entry on epistemic hygiene; cleanly distinguishable from Scientism vs. Science. Worth its own row. |
+| 5 | **Theory vs. Hypothesis** | "In strict scientific usage, a theory is the current best falsifiable description that has survived rigorous attempts to falsify it. Conventional usage conflates theory with hypothesis. Epistemic hygiene matters." | ⚠ **ADD** — Volume VII (Lexicon) entry on epistemic hygiene; cleanly distinguishable from Scientism vs. Science. Worth its own row. |
 | 6 | **The Multi-Capital Frame** | "All work touches multiple capitals — Natural, Human, Social, Intellectual, Manufactured, Financial. Each has its own currency; money correctly represents only financial capital." | Likely **DUPLICATIVE** with Six Capitals + Multi-Currency Per Capital (both already in ledger). No new row needed. |
 | 7 | **Antifragility** | Cross-batch duplicate with FSC-1/2. No new row needed. |
 | 8 | **Ubuntu** | Cross-batch duplicate with FSC-1/2 ("Ubuntu — I Am Because We Are"). No new row needed. |
@@ -147,7 +147,7 @@ All 21 Card candidates from the transcript are present in the ledger table at li
 
 **Pattern:** The ledger preserves Card tables verbatim and reconciliation notes substantively, but compresses per-source disposition tables to prose. This is an acceptable trade-off for ledger readability. The full per-source dispositions remain in the transcript archives as forensic provenance.
 
-The one place where compression has cost substantive content is the **FSC-3 Glossary entry-by-entry disposition table**, which contained classifications (F-V / A / R / F-IV etc.) for ~37 specific Glossary terms — these classifications drove the Lexicon (Volume V) yield decisions and would be useful as an appendix to the FSC-3 audit memo.
+The one place where compression has cost substantive content is the **FSC-3 Glossary entry-by-entry disposition table**, which contained classifications (F-V / A / R / F-IV etc.) for ~37 specific Glossary terms — these classifications drove the Lexicon (Volume VII) yield decisions and would be useful as an appendix to the FSC-3 audit memo.
 
 ---
 
@@ -165,7 +165,7 @@ In order of priority:
 2. **FSC-2 refinement note** (one line, no new Card row required):
    - Add to the FSC-2 Driver Statement / "Driver Behind the Purpose" / `Driver vs Purpose` cluster a one-line note: *"FSC-2 framing emphasizes Driver = external context before internal purpose; FSC-3 framing emphasizes Driver = current environment + need calling to be met. Both are universal refinements of the canonical Driver Statement pattern."*
 
-3. **FSC-3 Glossary disposition appendix (optional)** — add a 37-row table to the FSC-3 section or to an end appendix capturing the per-Glossary-entry disposition decisions from the transcript. Improves forensic provenance for the Lexicon (Volume V) rebuild.
+3. **FSC-3 Glossary disposition appendix (optional)** — add a 37-row table to the FSC-3 section or to an end appendix capturing the per-Glossary-entry disposition decisions from the transcript. Improves forensic provenance for the Lexicon (Volume VII) rebuild.
 
 4. **Aggregate-summary update** — once the 5 new FSC-3 Cards are added, the aggregate total moves from "~280" to "**~298 Card candidates surfaced**" (FSC-1: 50, FSC-2: 57, FSC-3: 77, FSC-4: 50, FSC-5: 43, FSC-6: 21). Net-unique-after-deduplication estimate (~140–160) stays valid; the additions are mostly refinements of already-canonical patterns rather than fresh ones.
 

@@ -25,7 +25,7 @@ Think of it as the soil in which trust grows. Without clear agreements, misunder
 
 Every Field of Agreements rests on the same foundation:
 
-1. **Love [[ONE]]** — the Source and Sustainer of All that is
+1. **Love [[ØNE]]** — the Source and Sustainer of All that is
 2. **Love One Another** — the members of your Circle, with truth and grace
 3. **Love All** — every being, every community, every living system your work touches
 

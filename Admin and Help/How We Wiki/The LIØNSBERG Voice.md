@@ -89,7 +89,7 @@ Always bold first appearance in a passage: **ONE**, **The Goal**, **Heaven On Ea
 
 Every passage carries both:
 
-- The cosmic context — eternal Pattern, Story of [[ONE]] and All.
+- The cosmic context — eternal Pattern, Story of [[ØNE]] and All.
 - The immediate action — what to do today, this week, in this Circle.
 
 Never one without the other. Pure mysticism produces no fruit. Pure tactics produce no transformation.

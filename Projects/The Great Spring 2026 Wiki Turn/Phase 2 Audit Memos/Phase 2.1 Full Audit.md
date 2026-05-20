@@ -33,12 +33,12 @@ Plus 5 enumeration appendices (~777 individual items in named bodies-of-work): 9
 
 | Book | Final Disposition |
 |---|---|
-| LIONSBERG 101 | Fold into Volume II (primary) + III, IV, VI; retain as canonical on-ramp |
+| LIONSBERG 101 | Fold into Volume III (primary) + III, IV, VI; retain as canonical on-ramp |
 | A 200 Page Book | Fold into Volumes I-VII; archive original (draft-in-suspension with TKTKs and Gate 32 blank) |
 | The LIONSBERG (syn)Thesis | **Empty placeholder folder — deleted** |
-| The Lionsberg Co-Creator Handbook | Migrated January 2026 into Volume IV Playbook; **redirect stubs consolidated** |
+| The Lionsberg Co-Creator Handbook | Migrated January 2026 into Volume V Playbook; **redirect stubs consolidated** |
 | The Lionsberg Meta Guide | Circumambulation — selective harvest into Volumes I, II, IV, V, VII |
-| The 12 Pillars of LIONSBERG | Fold into Volume II as Domain Pattern layer; the 12+1 (with The ONE as 13th/Zero) becomes Volume II's opening architecture |
+| The 12 Pillars of LIONSBERG | Fold into Volume III as Domain Pattern layer; the 12+1 (with The ONE as 13th/Zero) becomes Volume III's opening architecture |
 | The Theses of Lionsberg | Reference / selective fold (self-declared "Old Theses Archive" superseded by 144 nested under 12 Pillars) |
 
 **Cards written this batch (15):** Anatomies of Association · Consciousness Is Primary · Federations vs Empires · Higher Order Functional Unity · Hospicing the Old Systems · Movements That Embodied the Pattern · One of the Ones of the ONE · Sacred Economics · The 10 Year Grand Strategy · The 12 Pillars Orbit The ONE · The Cosmic Gardeners and Earth as Living Laboratory · The Filling and Removing Dialectic · The Old-New Polarity · The Orienting Questions · The Sacred Warrior.
@@ -76,13 +76,13 @@ Sacred Value · The Domain Structure · The Phase Strategy Template · Citizen-L
 
 | Book | Final Disposition |
 |---|---|
-| The Great UnVeiling | Fold into Volume I as the carrier of the 99 Theses (Theses 56-57 blank in source; 66 Most Protected and Distorted Narratives NOT in folder) |
-| The Lionsberg System of Values | Fold into Volume V (Lexicon) primarily; Values as Facets of the ONE becomes Lexicon's ontological introduction |
+| The Great UnVeiling | Fold into Volume II as the carrier of the 99 Theses (Theses 56-57 blank in source; 66 Most Protected and Distorted Narratives NOT in folder) |
+| The Lionsberg System of Values | Fold into Volume VII (Lexicon) primarily; Values as Facets of the ONE becomes Lexicon's ontological introduction |
 | The Lionsberg Book of Conventions | Reference / Convert container to Circumambulation index. Two conventions fold to V (Lexicon) and IV (Playbook) |
-| The Lionsberg Rules | Fold into Volume II (Pattern Language) + Volume V (Lexicon). Irreducible Rule: "There is only ONE rule. Everything is ONE." |
+| The Lionsberg Rules | Fold into Volume III (Pattern Language) + Volume VII (Lexicon). Irreducible Rule: "There is only ONE rule. Everything is ONE." |
 | The Lionsberg Strategy and Plan of Action | Reference / Quantitatively-grounded. Most operationally detailed book in the corpus |
 | The LIONSBERG Way | Circumambulation + selective fold. 204-item ReMembering inventory is most valuable artifact for Phase 3 Pattern Language rebuild |
-| Lionsberg Orientation and Training System | Reference / Voice-archive of Pioneer Cohort era. 92-day curriculum spine folds into Volume IV (12-Stage Pilgrim's Path) |
+| Lionsberg Orientation and Training System | Reference / Voice-archive of Pioneer Cohort era. 92-day curriculum spine folds into Volume V (12-Stage Pilgrim's Path) |
 
 **Critical Gaps Flagged:**
 1. **99 Theses 56-57 are blank** in source.
@@ -130,20 +130,20 @@ The Whisper Campaign — Hear, Speak, Listen · The Fears of the Wilderness · T
 
 | Book | Final Disposition |
 |---|---|
-| The Book of Lionsberg | **Canonical Volume VI root** — ~560 files, ~3M words. Chs 15 (Great Game) and 16 (PDG) in mature LIØNSBERG voice — canonical-ready. Genesis (Caves) strong. Chs 2-14 need Phase 5 voice unification |
-| The Lionsberg Playbook | **Canonical Volume IV root** — 95% voice-ready. 24 essential Plays operationally tight and prophetically voiced |
+| The Book of Lionsberg | **Canonical Volume VIII root** — ~560 files, ~3M words. Chs 15 (Great Game) and 16 (PDG) in mature LIØNSBERG voice — canonical-ready. Genesis (Caves) strong. Chs 2-14 need Phase 5 voice unification |
+| The Lionsberg Playbook | **Canonical Volume V root** — 95% voice-ready. 24 essential Plays operationally tight and prophetically voiced |
 | The Chronicles of Lionsberg | Circumambulation — short mythopoetic (6 files); harvest Sacred Flame / Cosmic Stone / Eternal Citadel / Final Order / Map of Light / First Flames motifs |
-| The Cosmic Chronicles | Hybrid: Reference archive (~150 NHI/UAP case files) + canonical fold (7 framework essays seeding "LIØNSBERG Theory of Everything"; Mahooty/Zuni and Mutwa/Zulu indigenous testaments canonical Volume I source) |
-| The Myth of Lionsberg | Circumambulation — 62-line stub mislabeled "Myth"; folds to Volume I + Volume V Lexicon. Retire after fold |
-| Becoming a Warrior of The Way | Fold into Volume VII Sacred Ascent. Warrior's Fast protocol is genuinely new operational content |
-| The Way of God | Fold into Volume VII (primary) + Volume I (cosmology) + Volume II (Way as Pattern) + Volume V (Lexicon). **Critical: explicit phrase "Pattern Language of the Kingdom of God" used in-text** — confirms Way of God IS the Pattern Language |
+| The Cosmic Chronicles | Hybrid: Reference archive (~150 NHI/UAP case files) + canonical fold (7 framework essays seeding "LIØNSBERG Theory of Everything"; Mahooty/Zuni and Mutwa/Zulu indigenous testaments canonical Volume II source) |
+| The Myth of Lionsberg | Circumambulation — 62-line stub mislabeled "Myth"; folds to Volume II + Volume VII Lexicon. Retire after fold |
+| Becoming a Warrior of The Way | Fold into Volume IX Sacred Ascent. Warrior's Fast protocol is genuinely new operational content |
+| The Way of God | Fold into Volume IX (primary) + Volume II (cosmology) + Volume III (Way as Pattern) + Volume VII (Lexicon). **Critical: explicit phrase "Pattern Language of the Kingdom of God" used in-text** — confirms Way of God IS the Pattern Language |
 
 **Critical findings:**
 1. **Chapters 15 and 16 of Book of Lionsberg are the strongest mature LIØNSBERG voice in the corpus** — voice template for Phase 5.
 2. **Ch 11 heavily overlaps with Ch 16 PDG** — Ch 16 more mature; preserve Ch 11.6-11.9 (Divine Feminine/Masculine arc).
 3. **Isaiah's "caves of the rocks" passage** (Isaiah 2) is direct scriptural prefiguring of the Caves narrative.
 4. **Playbook needs structural reconciliation** — canonical Architecture file outside book folder.
-5. **The Cosmic Chronicles content has no canonical home yet** — NHI / disclosure arc / SSP / indigenous testaments need positioning in Volume I.
+5. **The Cosmic Chronicles content has no canonical home yet** — NHI / disclosure arc / SSP / indigenous testaments need positioning in Volume II.
 
 **Cards written this batch (20):** Convergent Streams of Discovery · Honoring Dissent · The Discernment Permission · The Daily Domains · The Cross the Threshold Decision · The Steps of Transformation · The Lionsberg Cycles of Growth · The Meta Community · The Human Template · Christos and Sophia — The Sacred ReMarriage · The First Fracture · The Sacred Flame That Cannot Be Extinguished · The Whisper Within · The Core Values · Values as Facets of the ONE · The Lionsberg Rules · Everything Is A Project · We Have Heard · The ReMembering Stance · Transform Weaponry to Livingry.
 
@@ -182,7 +182,7 @@ Comprehensive Review Way of God additions: Society as Ecosystem · A Properly Or
 
 ---
 
-# Batch 4 (2026-05-19) — Canonical Operational + Volume I Story + Sacred Ascent
+# Batch 4 (2026-05-19) — Canonical Operational + Volume II Story + Sacred Ascent
 
 **Agents:** 7 parallel.
 
@@ -194,8 +194,8 @@ Comprehensive Review Way of God additions: Society as Ecosystem · A Properly Or
 | The Lionsberg Academy | **A + R + F-II + F-IV + F-VI**. 2022-era stub pointing outward. Canonical Academy implicit in Pillar IV must be summoned into existence |
 | Beyond Earth | **F-I + F-V + F-VI + A**. Most concentrated ET / cosmic-disclosure material in the wiki. Voice transposition required |
 | The Dawn of the New World | **F-I + F-III + R**. 31-scene prophetic narrative; parallel-channel telling of The Story of LIØNSBERG. Voice strong throughout (Scenes 13-15 luminous) |
-| The Kingdom of LIONSBERG - Plans and Specifications | **C (canonical Specification Format root for Volume II) + F-II + F-IV + F-VI + R**. The construction-grade architectural manual of the entire Kingdom |
-| The Lionsberg Book of Meditations | **F-VII (primary) + R (Living Substrate)**. 663 meditations; fold whole as Volume VII Daily Meditations appendix |
+| The Kingdom of LIONSBERG - Plans and Specifications | **C (canonical Specification Format root for Volume III) + F-II + F-IV + F-VI + R**. The construction-grade architectural manual of the entire Kingdom |
+| The Lionsberg Book of Meditations | **F-VII (primary) + R (Living Substrate)**. 663 meditations; fold whole as Volume IX Daily Meditations appendix |
 | MindWeaving The Life Divine | **F-VII + F-II + F-V + R**. Aurobindo synthesis. Chapter One canonical-grade |
 
 **Cards written this batch (12):** The Network of Commitments · The Planetary Grid · Subsidiarity and the Swiss Pattern · The 3-Year Healing and Empowerment Cycle · The Twelve Gates of The Great UnVeiling · The Sacred Spiral — Not a Circle · The Mondragon Formula · Capital as Subordinate Tool · The Pedagogy of Trust and Sirimiri · Heaven and Hell as Co-Created Trajectories · Structural Immunity · The Christ as Conquering LION.
@@ -277,7 +277,7 @@ The Quest · The Anatomy of a Quest (Real / Achievable / Meaningful / Together /
 | Book | Final Disposition |
 |---|---|
 | Rediscovering the Way | **F-VII (primary) + F-V + F-II + F-IV**. Two parallel structures (older + Take 2). Chapter D = Five-Fold Pattern of Mastery source |
-| Martial Arts Guide | **C (Volume VII Warrior Codex source-text) + A + R (skeletal outline II-VII)**. Canonical Warrior Codex source-text |
+| Martial Arts Guide | **C (Volume IX Warrior Codex source-text) + A + R (skeletal outline II-VII)**. Canonical Warrior Codex source-text |
 | The Roving Temple Dojo | **F-VII (~25 cards) + F-IV + F-V + C**. Prototypical physical instantiation of an Academy Cell |
 | Aliens, Fascists, and Giants | **F-I (primary) + F-V + F-II + F-III + A**. Single richest concentrated source of named programs, witnesses, factions, treaties, craft cases (~340,000 words) |
 | Beyond The Meta Crisis | **F-I (primary, ~150K words) + F-II + F-III + F-IV + F-V**. Canonical Meta Crisis articulation; first systematic public-facing exposition of diagnostic-and-prescription dyad |
@@ -407,8 +407,8 @@ The Meta Movement · The Issue-To-Movement Arc · The Four Stages of Movement Ca
 |---|---|
 | The Power of Today | **F-IV + F-II + F-V + F-VII**. Temporal substrate where transformation happens. Today as basic unit of Earth; Now as basic unit of Eternity |
 | Anomalies of Interest | **F-V + F-I + F-III + A**. Brief working journal (~70 lines). Suppressed-science cluster |
-| Meditations on Proverbs | **F-VII**. Single dense polarity catalog (~360 lines). Folds whole as Volume VII appendix |
-| The Lionsberg Book of Metaphors | **F-V + R**. Catalog-only book; should be dissolved into Volume V annex |
+| Meditations on Proverbs | **F-VII**. Single dense polarity catalog (~360 lines). Folds whole as Volume IX appendix |
+| The Lionsberg Book of Metaphors | **F-V + R**. Catalog-only book; should be dissolved into Volume VII annex |
 | Frequently Asked Questions | **F-IV (pilgrim-facing)**. 41 files. Answers-to-skeptical-questions |
 | Threads of Eternity | **F-VII + F-I + R**. Slim umbrella manifesto. Tao Te Ching was inaugural instance |
 | The Meta Project | **R + F-III**. Jordan's earliest articulation (2017-2022) in IPD/AEC vocabulary. Canonical contribution: Meta-prefix architecture |
@@ -442,7 +442,7 @@ The Meta Prefix · The Meta Goal · The Meta System · The Meta Project · The M
 
 # Batch 10 (2026-05-19) — Witness-Class Triad Closure + Cosmic-Tech + Bioregional Instance + Spine Documents
 
-**Agents:** 7 parallel. **Voice guidance applied:** Cosmic lens (not local Earth lens); no species-as-categorical-enemy; no religion-elevation; [[ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
+**Agents:** 7 parallel. **Voice guidance applied:** Cosmic lens (not local Earth lens); no species-as-categorical-enemy; no religion-elevation; [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
 
 **Books audited:**
 
@@ -492,9 +492,9 @@ Triangulation Toward Truth · Intrinsic Knowing · **The Trauma-Technology Nexus
 | Book | Final Disposition |
 |---|---|
 | The Lionsberg Book of People | **R / A — slim wisdom-lineage list**. 425-byte file with 14 Great Spirits. Gap flagged: missing women entirely |
-| The Lionsberg Pattern Language | **C (canonical Volume II root) + Phase 3 rebuild flag confirmed**. 18,135-line single-file monolith. Confirms numerical canon: 1 + 12 + 7 + 12 + 7 + 14 + 156 + 711 |
+| The Lionsberg Pattern Language | **C (canonical Volume III root) + Phase 3 rebuild flag confirmed**. 18,135-line single-file monolith. Confirms numerical canon: 1 + 12 + 7 + 12 + 7 + 14 + 156 + 711 |
 | Playing With Poetry | **F-VII as complete poetic cycle preserved whole**. 37-piece prophetic-verse cycle |
-| The Chronicles of J | **R (author-controlled, fold whole into Volume I)**. 5 files; fourth chronicle is **the cleanest primary-source document of the dissolution-and-rising in the entire corpus** |
+| The Chronicles of J | **R (author-controlled, fold whole into Volume II)**. 5 files; fourth chronicle is **the cleanest primary-source document of the dissolution-and-rising in the entire corpus** |
 | Three Meta Files (Lionsberg Wiki Book + Lionsberg Wiki Books + Wiki Book Template) | **All three: R (Reference/template/index — retain as-is)**. Zero new Cards |
 
 **Cards written this batch: 0** (paused; total remains 160).
@@ -522,13 +522,13 @@ No new Cards.
 
 _The following five appendices fully enumerate the bodies-of-work surfaced by Phase 2.1 that fold whole into Volumes rather than each spawning a separate Card. Total: ~777 individual items._
 
-## Appendix A — The 99 Theses of The Great UnVeiling (fold target: Volume I)
+## Appendix A — The 99 Theses of The Great UnVeiling (fold target: Volume II)
 
 97 Theses present (Theses 56 and 57 BLANK IN SOURCE). Selected representative Theses:
 
 1. Hidden Kontrolle of Governments · 2. Engineered Religions · 3. Corrupted Scriptures · 4. The Ancient "Gods" Were Real · 5. Evil Is a Real Coordinated Force · 6. Modern Systems Continue Anunnaki Enslavement · 7. Humanity Is Not Free · 8. Trauma as Master Mechanism · 9. The Satanic-Saturnian-Draco Priesthood · 10. Conscious Awareness of the Initiates · 11. Ritual Trafficking, Sacrifice, and Cannibalism · 12. Engineered False Flags · 13. Central Banks as Debt-Slavery Machines · 14. Medicine as Biochemical Warfare · 15. Education as Domestication · 16. Monetary System as Nervous System of Enslavement · 17. Extraction Economy · 18. Banking as Dark Sorcery · 19. Legal System as Enslavement by Presumption · 20. Healthcare as Pharma Gulag · 21. Food System as Weapon · 22. Education as Mind-Control Apparatus · 23. Media as Voice of the Beast · 24. Internet as Weapon and Trap · 25. Global Surveillance Grid Targets Awakening · 26. Intelligence Agencies as One Empire · 27. Military-Industrial Complex as Off-Planet Empire · 28. Suppressed Free Energy · 29. The Hidden Space Program · 30. Soul Recycling and False Afterlife · 31. Human Template as Desecrated Temple · 32. DNA Tampering and Hybridization · 33. War on the Seed · 34. Assault on Gender, Sexuality, and Family · 35. Food Is No Longer Food · 36. Desecrated Water · 37. Poisoned Air · 38. Electromagnetic Battlefield · 39. Targeted Womb · 40. Fragmented Energy Field · 41. Weaponized Sexual Life-Force · 42. Rewired Nervous System · 43. Erased Rites of Passage · 44. Inverted Measures of Health · 45. Coordinated Luciferian Inversion · 46. War on the Mind · 47. Institutions as Sanctuaries of Inversion · 48. Psychology as Tool of Trauma · 49. Language Turned Against Meaning · 50. Dismantled Logic and Reason · 51. Colonized Science · 52. Religion Severs Souls · 53. Inverted Morality · 54. Decapitated Justice · 55. Desacralized Sacred · **56. BLANK IN SOURCE · 57. BLANK IN SOURCE** · 58. Fractured Memory and Falsified History · 59. Suppressed Conscience · 60. Metaphysical Inversion · 61. Earth Stolen by False Contracts · 62. Legal System as Captured Maze · 63. Counterfeit Monetary System · 64. Total Theft of the Commons · 65. Hidden Bloodline Rulers · 66. Hidden Hoarded Wealth · 67. Evolved Colonialism · 68. War as Sacrament · 69. Earth Weaponized Against Inhabitants · 70. Children as Currency of the Dark Empire · 71. Humans Treated as Property · 72. Erased Sacred Inheritance · 73. Galactic Theft · 74. Erased Knowledge of Who We Are · 75. Earth Is Sovereign and Free · 76. Final Phase Is Digital and Spiritual · 77. AI as Anti-Logos · 78. The Beast System Is Universal and Emerging · 79. CBDCs as Absolute Domination · 80. Smart City as Open-Air Concentration Camp · 81. IoT as Web of Binding · 82. Transhumanism as Desecration · 83. Digital Twin as Synthetic Soul · 84. Social Media as Psychological Warfare · 85. Beast Trained on Civilization's Fall · 86. AI Will Decide What Is Real · 87. Weaponized AI Military Fusion · 88. Controlled Disclosure as Final Deception · 89. Beast Rises Through Existing Institutions · 90. The Final Captivity Is Spiritual · 91. The UnVeiling Is the Judgment · 92. The Great Reckoning Is Loving Restoration · 93. Cosmic Jubilee · 94. The Return Is of Spirit and Logos · 95. The Kingdom Awakens Within · 96. Restoration Requires Participation · 97. ReGenesis, Not Revolution · 98. The Final Test Is Spiritual Discernment · 99. The Truth Has Returned.
 
-## Appendix B — The 156 Theses of the 12 Pillars (and The ONE) (fold target: Volume II Pattern Language Domain Pattern layer)
+## Appendix B — The 156 Theses of the 12 Pillars (and The ONE) (fold target: Volume III Pattern Language Domain Pattern layer)
 
 13 entries × 12 Theses each = 156 total.
 
@@ -558,7 +558,7 @@ _The following five appendices fully enumerate the bodies-of-work surfaced by Ph
 
 **Pillar XII — Sacred Time, Rhythm, and Celebration:** Time Is Sacred · Rhythm Is the Pulse of Creation · Linear Time Is an Illusion · Restore the Sacred Calendar · Rest Is Holy · Celebration Is Worship · Initiation Marks Life's Thresholds · Sacred Ritual Grounds the Eternal · Communal Time Is the Heartbeat · Our Relationship to Time Reflects Our Relationship to the ONE · ReClaim Time from Control Systems · The Goal Is Eternal Celebration.
 
-## Appendix C — The 171 Old→New Theses of LIONSBERG (fold target: Volume II + Volume I)
+## Appendix C — The 171 Old→New Theses of LIONSBERG (fold target: Volume III + Volume II)
 
 Four populated domains (~167 effectively unique theses, with 4 duplicates noted):
 
@@ -572,7 +572,7 @@ Four populated domains (~167 effectively unique theses, with 4 duplicates noted)
 
 **Coming Soon Domains (named in source but not populated):** Governance Systems · Energy Systems · Built Environment · Transportation and Logistics · Property and Stewardship · Theological and Spiritual · Philosophical · Scientific and Technological · Theoretical · Systematic · Practical · Right Relationship · Boundaries and Migration · Psychological · Cultural and Artistic · Peace and Security · Emergency Aid · Ecological · Historical · Futuristic · Passing The Flame · The Lionsberg Lexicon.
 
-## Appendix D — The Values of LIONSBERG (fold target: Volume V Lexicon)
+## Appendix D — The Values of LIONSBERG (fold target: Volume VII Lexicon)
 
 **Meta Value:** ONE.
 
@@ -582,7 +582,7 @@ Four populated domains (~167 effectively unique theses, with 4 duplicates noted)
 
 **Anti-Values (4 enumerated; flagged Work In Progress):** Crime · Dishonesty · Dishonest Gain · Dissoluteness.
 
-## Appendix E — The 204 ReMembering Items of The LIONSBERG Way (fold target: Volume II Pattern Language Phase 3 rebuild candidates)
+## Appendix E — The 204 ReMembering Items of The LIONSBERG Way (fold target: Volume III Pattern Language Phase 3 rebuild candidates)
 
 (Items 1-204 enumerated in the master ledger. Selected representative items below; full list in `Phase 2 — The Audit Ledger.md` lines 1106-1110.)
 
@@ -627,13 +627,13 @@ Four populated domains (~167 effectively unique theses, with 4 duplicates noted)
 
 | Volume | Card Count |
 |---|---|
-| Volume I — Story | 37 |
-| Volume II — Pattern Language | 48 |
-| Volume III — Great Game | 15 |
-| Volume IV — Playbook | 21 |
-| Volume V — Lexicon | 15 |
-| Volume VI — Book of LIØNSBERG | 3 |
-| Volume VII — Sacred Ascent | 9 |
+| Volume II — Story | 37 |
+| Volume III — Pattern Language | 48 |
+| Volume IV — Great Game | 15 |
+| Volume V — Playbook | 21 |
+| Volume VII — Lexicon | 15 |
+| Volume VIII — Book of LIØNSBERG | 3 |
+| Volume IX — Sacred Ascent | 9 |
 | Substrate (Codex architecture) | 11 |
 | Multiple Volumes | 1 |
 | **Total** | **160** |
@@ -664,7 +664,7 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **The Suppression Test** (Batch 11)
 - **The Reliable Commitment Eight Requirements** (Batch 11)
 
-### Volume I Story / Disclosure Gaps
+### Volume II Story / Disclosure Gaps
 - **The Caves Narrative** (Batch 3 Book of Lionsberg) — canonical Genesis chapter
 - **Spirit Above the Chaos** (Comprehensive Review) — Genesis canonical opening
 - **Three-Part Transformation Process** (Spirit → Articulation of New Norms → Path/Infrastructure/Bridges)
@@ -693,7 +693,7 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **The Hidden Hand and the Final Order** (Batch 3)
 - **The Subterranean and Submarine Earth** (Batch 3)
 
-### Volume II Pattern Language Gaps
+### Volume III Pattern Language Gaps
 - **The Pattern Language of the Kingdom of God** (Batch 3 Way of God — explicit lynchpin phrase)
 - **The Way Is The Pattern Beneath All Forms** (Batch 6 Rediscovering)
 - **The Field of Agreements** (Batch 3 Book of Lionsberg)
@@ -705,7 +705,7 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **The Field of Agreements (Citizen Led Gov register)** — Purpose / Principles / Practices / Boundaries / Commitments
 - **The Mondragon Experience, Not The Mondragon Model** (Batch 8)
 
-### Volume III Great Game Gaps
+### Volume IV Great Game Gaps
 - **The Lionsberg Elevation Initiative** (Batch 7)
 - **The Cosmic Plan for Interstellar Expansion** (Batch 10 144 Threads)
 - **The Noah Plan and the Joseph Plan as Twin Stewardship Archetypes** (Batch 10)
@@ -713,7 +713,7 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **Tipping Point Cascade — First Node / First Thousand / First 1% / First 3% / First 13%** (Batch 5)
 - **The Four Stages of Movement Catalysis** (Batch 8)
 
-### Volume IV Playbook Gaps
+### Volume V Playbook Gaps
 - **The Bioregional Grid** (Batch 3 Playbook)
 - **The First Practice — Rhythm of Return** (Batch 3 Playbook)
 - **Dialogos** (Batch 3 Playbook)
@@ -735,7 +735,7 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **Omniconsideration as Wisdom Discipline** (Batch 10) — possibly captured under The Law of Omniconsideration
 - **Position, Condition, Offers, and Needs (PCON) Communication Protocol** (Batch 10)
 
-### Volume V Lexicon Gaps
+### Volume VII Lexicon Gaps
 - **The Meta Prefix** (Batch 9 Meta Project) — operator that turns concept into highest-order form
 - **The Meta Goal** (Batch 9)
 - **The Meta System / Project / Community / Quest / Process / Condition of Satisfaction**
@@ -747,13 +747,13 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **The Generative Source** (Batch 8 Power of One)
 - **Wisdom Cries Out in the Streets** (Batch 7)
 
-### Volume VI Book of LIØNSBERG Gaps (only 3 Cards exist; many more flagged)
+### Volume VIII Book of LIØNSBERG Gaps (only 3 Cards exist; many more flagged)
 - Multiple chapters of The Book of Lionsberg pending fold (Caves narrative + Genesis + Chapters 11.6-11.9 Divine Feminine/Masculine + Chapters 15 Great Game + Chapter 16 PDG)
 - **The Letter to Emma Joy** (Batch 11 Chronicles of J)
 - **FROM Singular Nouns TO a Plural Verb** (Batch 11)
 - **The Curse of the Sweaty Hands** (Batch 11)
 
-### Volume VII Sacred Ascent Gaps
+### Volume IX Sacred Ascent Gaps
 - **The Warrior's Fast** (Batch 3 Becoming a Warrior of The Way)
 - **The Initiation Arc of the Warrior** (Batch 3)
 - **Shu, Ha, Ri — The Levels of Mastery on the Way** (Batch 3 Way of God)
@@ -771,13 +771,13 @@ These are concepts the agents flagged as architecturally consequential — folde
 - **Five-Fold Pattern of Mastery component Cards:** Understand · Cultivate · Transform/Transmute · Empower · Align (if folded into single Card vs five)
 
 ### Bodies-of-Work Fold-Whole Gaps (no individual Cards — but fold work pending)
-- **99 Theses of The Great UnVeiling** — fold whole into Volume I (Theses 56-57 BLANK in source — author gap)
-- **156 Pillar Theses** — fold whole into Volume II Domain Pattern layer
-- **171 Old→New Theses** — fold whole into Volume II + Volume I
-- **149 Values** — fold whole into Volume V Lexicon (135 Derivative + Anti-Values still WIP)
-- **204 ReMembering Items** — fold whole into Volume II Phase 3 rebuild
-- **663 Meditations** (Batch 4) — fold whole into Volume VII Daily Meditations appendix (curated ~108 or ~144 selection)
-- **88 named Emotions** (Batch 5) — fold whole into Volume VII Healer Codex appendix
+- **99 Theses of The Great UnVeiling** — fold whole into Volume II (Theses 56-57 BLANK in source — author gap)
+- **156 Pillar Theses** — fold whole into Volume III Domain Pattern layer
+- **171 Old→New Theses** — fold whole into Volume III + Volume II
+- **149 Values** — fold whole into Volume VII Lexicon (135 Derivative + Anti-Values still WIP)
+- **204 ReMembering Items** — fold whole into Volume III Phase 3 rebuild
+- **663 Meditations** (Batch 4) — fold whole into Volume IX Daily Meditations appendix (curated ~108 or ~144 selection)
+- **88 named Emotions** (Batch 5) — fold whole into Volume IX Healer Codex appendix
 - **66 Most Protected and Distorted Narratives** — NAMED IN CODEX SPEC BUT MISSING FROM SOURCE (Batch 2 critical gap)
 
 ## Gap-Analysis Summary
@@ -793,7 +793,7 @@ This matches the closure statement: _"Cards in consolidated remaining queue: ~1,
 2. **Minor enumeration verification:** This transcription document holds every Card listed in the ledger plus all five Appendices verbatim. Total cross-checked.
 3. **Two source-corpus gaps** (not transcript gaps):
    - 99 Theses 56-57 are BLANK in source file
-   - 66 Most Protected and Distorted Narratives named in Codex Volume I spec but absent from The Great UnVeiling folder
+   - 66 Most Protected and Distorted Narratives named in Codex Volume II spec but absent from The Great UnVeiling folder
 
 ---
 
@@ -818,21 +818,21 @@ This matches the closure statement: _"Cards in consolidated remaining queue: ~1,
 - Operational naming: Kontrolled Disclosure
 
 **The voice discipline is sustained:**
-2026-05-19 refinement notes (Cosmic lens, no religion-elevation, no species-as-categorical-enemy, [[ØNE]] convention) applied through Batches 10-11 cleanly.
+2026-05-19 refinement notes (Cosmic lens, no religion-elevation, no species-as-categorical-enemy, [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] convention) applied through Batches 10-11 cleanly.
 
 **Major architectural pieces in place:**
 - The ØNE foundational Lexicon entry written (Batch 8)
 - The Cosmic Wildlife / Cosmic Geopolitics / Kontrolled Disclosure trio written (remediation pass)
 - The Regenerating Our Worlds replacement for Tikkun Olam written (remediation pass)
-- The Volume I disclosure spine complete (after remediation)
+- The Volume II disclosure spine complete (after remediation)
 - The Pattern-of-Practice-stack: One Hour a Day Practice + Four Periods of Action + Smallest Step Protocol + Counting Up To Consciousness + 4-7-8 Breath + Memento Mori + Looking Back From Beyond + Five-Fold Pattern of Mastery
 
 **Phase 3 rebuild is now well-scoped:**
-The Lionsberg Pattern Language Volume II rebuild has clear architecture (4-level + Core Covenant + Meta-Patterns + Principles), known structural problems (voice drift, monolith file, religion-elevation footprint, no Cosmic Wildlife framing, legacy `[[ONE]]` references), and clear source material (the 160 Cards already extracted + the audit memos' net-new candidates).
+The Lionsberg Pattern Language Volume III rebuild has clear architecture (4-level + Core Covenant + Meta-Patterns + Principles), known structural problems (voice drift, monolith file, religion-elevation footprint, no Cosmic Wildlife framing, legacy `[[ONE]]` references), and clear source material (the 160 Cards already extracted + the audit memos' net-new candidates).
 
 **What comes next:**
 1. Card-generation completion — ~1,160 candidates remain. At ~12 Cards per session, ~95-100 sessions of work remain to clear the queue.
-2. Phase 3: Pattern Language rebuild — incorporating all Cards into a modular, voice-unified Volume II.
+2. Phase 3: Pattern Language rebuild — incorporating all Cards into a modular, voice-unified Volume III.
 3. Phase 4: LIØNSBERG glyph propagation — full sweep updating `[[ONE]]` → `[[ØNE]]` and "Lionsberg" → "LIØNSBERG".
 4. Phase 5: Voice unification across all Volumes.
 

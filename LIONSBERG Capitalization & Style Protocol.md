@@ -77,7 +77,7 @@ This protocol ensures coherence, legibility, and symbolic integrity across thous
 
 - **Voice of the Text**: Transcendent “We/Us” voice preferred for universality.
     
-- **Avoid excess jargon**; define terms in the [[LIONSBERG Lexicon]].
+- **Avoid excess jargon**; define terms in [[The LIØNSBERG Lexicon|the Lexicon]].
     
 - **Simple > Complex** when in doubt. Complexity belongs in deeper layers, not first contact.
     

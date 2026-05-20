@@ -22,7 +22,7 @@ And related, from the same fragment-set:
 
 - **The Restoration Codex** — Cosmos, Earth, Body, Grid — the meta-frame of putting back together what has been broken.
 
-These are not separate Codexes. They are **archetypal domains within [[The LIØNSBERG Pattern Language]]** (Volume II). Each names a region of the Pattern. Each is a gathering of related Patterns oriented around one register of human / trans-human becoming.
+These are not separate Codexes. They are **archetypal domains within [[The LIØNSBERG Pattern Language]]** (Volume III). Each names a region of the Pattern. Each is a gathering of related Patterns oriented around one register of human / trans-human becoming.
 
 Phase 3 must discern whether these archetypal domains are part of the canonical structure of the Pattern Language, or whether they emerge as natural clusterings within it. Either way, they are not lost — they are folded.
 

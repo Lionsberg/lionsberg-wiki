@@ -23,7 +23,7 @@ The deepest insight is that **commons are not designed — they naturally emerge
 
 This is **fractal commonsing** — the natural emergence of shared commons at every scale of voluntary association.
 
-When two individuals form a [[Circle]], a commons is born around that table. When Circles federate into a community, a community commons naturally emerges. When communities federate into a bioregion, a bioregional commons emerges. When bioregions federate into the planetary Whole, the [[Lionsberg Commons]] emerges — the commons operating at the highest level of abstraction in service of [[ONE]] and [[All]].
+When two individuals form a [[Circle]], a commons is born around that table. When Circles federate into a community, a community commons naturally emerges. When communities federate into a bioregion, a bioregional commons emerges. When bioregions federate into the planetary Whole, the [[Lionsberg Commons]] emerges — the commons operating at the highest level of abstraction in service of [[ØNE]] and [[All]].
 
 Each commons is governed by its own [[Field of Agreements]], protected by its own [[Selectively Permeable Membrane]], and resourced by the [[Voluntary Tithing|voluntary contributions]] of the sovereign members who sit at that table. There is no central organization collecting resources. The contributions flow **inward to the center of whatever table you sit at** — because groups naturally want to build shared abundance and access to resources they could never access in isolation.
 

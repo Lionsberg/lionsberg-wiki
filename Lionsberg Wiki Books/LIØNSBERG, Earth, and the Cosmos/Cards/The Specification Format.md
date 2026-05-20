@@ -8,11 +8,11 @@ captured: 2026-05-19
 
 # The Specification Format
 
-The canonical shape every Pattern in Volume II obeys.
+The canonical shape every Pattern in Volume III obeys.
 
 A Pattern is not a paragraph. A Pattern is a **construction-grade specification** — articulated with enough precision that any builder, in any place, in any world, can read it and build from it. The Specification Format is the canonical form that delivers this precision while preserving the prophetic register.
 
-Every Pattern in [[The LIØNSBERG Pattern Language]] (Volume II) is articulated through seven sections:
+Every Pattern in [[The LIØNSBERG Pattern Language]] (Volume III) is articulated through seven sections:
 
 - **Goal** — what the Pattern serves. The end-state the Pattern produces. The Throughput it contributes to The Goal.
 - **Context** — when this Pattern applies. The conditions under which it is the right Pattern. The places it does not apply.
@@ -36,24 +36,24 @@ The Format also establishes the **canonical convention of cross-reference**. Eve
 - The **Element** of the Pattern Language it expresses (one of the 12)
 - **Related Patterns** at adjacent scales (sub-patterns it contains; super-patterns it composes into)
 - **Anti-Patterns** by name with bidirectional link
-- **Foundational Concepts** from Volume V Lexicon used in the articulation
+- **Foundational Concepts** from Volume VII Lexicon used in the articulation
 
-This makes Volume II navigable as a **hypertext architecture**. A pilgrim entering at any Pattern can traverse to its context, its alternatives, its examples, its failures — without leaving the Volume.
+This makes Volume III navigable as a **hypertext architecture**. A pilgrim entering at any Pattern can traverse to its context, its alternatives, its examples, its failures — without leaving the Volume.
 
-The Format is **canonical for Volume II only**. Other Volumes carry different forms:
+The Format is **canonical for Volume III only**. Other Volumes carry different forms:
 
-- Volume I (Story) — liturgical narrative; Twelve Gates architecture
-- Volume III (Great Game) — gameplay loop, move documentation
-- Volume IV (Playbook) — operational plays in step-form
-- Volume V (Lexicon) — entry-form with definitions and cross-references
-- Volume VI (Book of LIØNSBERG) — long-form prophetic prose
-- Volume VII (Sacred Ascent) — practice-form with daily/weekly/seasonal rhythms
+- Volume II (Story) — liturgical narrative; Twelve Gates architecture
+- Volume IV (Great Game) — gameplay loop, move documentation
+- Volume V (Playbook) — operational plays in step-form
+- Volume VII (Lexicon) — entry-form with definitions and cross-references
+- Volume VIII (Book of LIØNSBERG) — long-form prophetic prose
+- Volume IX (Sacred Ascent) — practice-form with daily/weekly/seasonal rhythms
 
-Each Volume's form serves its function. Volume II's function is **architectural specification**, so it carries the Specification Format.
+Each Volume's form serves its function. Volume III's function is **architectural specification**, so it carries the Specification Format.
 
-The Format itself is a Pattern — and obeys its own form. **Goal**: produce buildable, transmissible, evaluable Patterns. **Context**: any canonical articulation of a recurring civilizational Pattern. **Forces**: the tension between mythic depth and engineering precision; between completeness and brevity. **Solution**: the seven-section structure above. **Diagram**: the seven sections rendered as concentric rings around the Pattern's name. **Anti-Patterns**: the bullet-point essay, the abstract paragraph, the dry technical doc, the poetic-but-unbuildable manifesto. **Examples**: every Pattern in Volume II, beginning with this one.
+The Format itself is a Pattern — and obeys its own form. **Goal**: produce buildable, transmissible, evaluable Patterns. **Context**: any canonical articulation of a recurring civilizational Pattern. **Forces**: the tension between mythic depth and engineering precision; between completeness and brevity. **Solution**: the seven-section structure above. **Diagram**: the seven sections rendered as concentric rings around the Pattern's name. **Anti-Patterns**: the bullet-point essay, the abstract paragraph, the dry technical doc, the poetic-but-unbuildable manifesto. **Examples**: every Pattern in Volume III, beginning with this one.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as the format every other Pattern in the Volume inherits.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the format every other Pattern in the Volume inherits.
 
 ---
 

@@ -53,7 +53,7 @@ The Academy is also **bioregional before it is planetary**. Children are formed 
 
 This is what Pillar IV (Sacred Learning and Mastery) becomes in operational form. This is the institution that produces [[The First Three Percent and Fibonacci Spread|the First Three Percent]] in depth, not just in number. Without it, the awakening is shallow. With it, the awakening is woven into Beings who carry it for life.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) within Pillar IV (Sacred Learning and Mastery), and informs [[The LIØNSBERG Playbook]] (Volume IV) at every operational stage from Threshold to Mastery.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) within Pillar IV (Sacred Learning and Mastery), and informs [[The LIØNSBERG Playbook]] (Volume V) at every operational stage from Threshold to Mastery.
 
 ---
 

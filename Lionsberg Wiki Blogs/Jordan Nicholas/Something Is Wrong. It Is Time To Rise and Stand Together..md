@@ -56,7 +56,7 @@ My best understanding is this: The existential war for the future of life and ci
 **Heaven on Earth is within our grasp.**  
 
 If billions of us simply accept **The Invitation**, arise and stand together  
-in Unity and Divine Partnership with [[ONE]] and [[One Another]],  
+in Unity and Divine Partnership with [[ØNE]] and [[One Another]],  
 Heaven on Earth becomes our immediate lived Reality.  
 
 The Creator is inviting Us All to become Co-Creators  

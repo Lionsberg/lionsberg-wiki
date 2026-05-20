@@ -20,7 +20,7 @@ Each Gate is one of the epiphanies along that path. Together they form the stair
 
 The Phase 3 design must discern the wise right order and sequence of initiation to build these reliably. The order is not arbitrary. Some Gates can only be opened after others. The sequence is itself part of the Pattern.
 
-The 144 Gates live inside [[The LIØNSBERG Pattern Language]] (Volume II of the Codex). They are not a separate work. Every being, forever, will need to understand them.
+The 144 Gates live inside [[The LIØNSBERG Pattern Language]] (Volume III of the Codex). They are not a separate work. Every being, forever, will need to understand them.
 
 Together with the [[72 Gates of the Sacred Ascent]], they are the two great gate-systems of the System — the 144 building the conceptual / neural architecture, the 72 building the embodied / developmental capacity.
 

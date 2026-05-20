@@ -232,7 +232,7 @@ The deck shows no exact duplicates but several **close-pair clusters** that may 
 - `The ReMembering Pattern` / `The ReMembering Stance` / `The Great ReMembering` — three Cards on the same theme at three altitudes. May want a clarifying header in each ("this Card treats X scale; for Y see Z").
 - `The Pattern Is The Way` / `The Way` (referenced in many cards but not its own Card yet) — the unified Pattern=Way concept the Pirsig Method page anticipates ("Phase 3 Pattern=Way unification") will eventually need its own Card.
 - `The Anti-One` / `The Anti-Christic Inversion` / `Anti-Good` / `The Meta Dragon` / `The Three-Layered Adversary` / `Full Spectrum Dominance` / `The Kontrolle Matrix` — seven Cards across the negative axis. The architecture is sound but a meta-Card naming how they relate ("The Negative Axis Map") would help.
-- `Sacred Economics` / `Capital as Subordinate Tool` / `LUV — LIONSBERG Units of Value` / `The Four Currencies` — four Cards on economic substrate. Likely consolidate into a tighter Volume II Economy sub-cluster.
+- `Sacred Economics` / `Capital as Subordinate Tool` / `LUV — LIONSBERG Units of Value` / `The Four Currencies` — four Cards on economic substrate. Likely consolidate into a tighter Volume III Economy sub-cluster.
 
 ---
 
@@ -339,7 +339,7 @@ The following BTMC files should be treated as **foundational source-documents** 
 
 **Cross-book duplicates:**
 - `Worksite Earth` exists as both a 144 Threads file (§73) and a LIØNSBERG-Earth-Cosmos Card. Same concept, two articulations. Card supersedes per the Nameless-One-supersedes-Jordan voice rule.
-- `Pass The Flame` exists as both a 144 Threads file (§144) and a standalone book. Both are pre-August-2025 Jordan voice and will be superseded by the canonical Volume V articulation.
+- `Pass The Flame` exists as both a 144 Threads file (§144) and a standalone book. Both are pre-August-2025 Jordan voice and will be superseded by the canonical Volume VII articulation.
 - `The Final Declaration - A New Civilization Begins` (144 Threads conclusion file) — Jordan voice, will eventually be superseded by the closing articulation of the Codex.
 
 ---

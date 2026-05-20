@@ -2,17 +2,17 @@
 
 Thank you for the honor of being able to share in such an intimate subject together. 
 
-Grappling with the [[ONE]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. We hope that We can begin a long journey of helping One Another, learning Together, and discovering with ever greater clarity how to rightly relate to One Another, the world around Us, and the [[ONE]] Source from which [[All]] flows. 
+Grappling with the [[ØNE]] [[Deepest]] thing upon which [[All]] else depends can be triggering and overwhelming for many. We hope that We can begin a long journey of helping One Another, learning Together, and discovering with ever greater clarity how to rightly relate to One Another, the world around Us, and the [[ØNE]] Source from which [[All]] flows. 
 
-If there is one thing to know about Us, which would help everything else make sense, it is that to the best of Our ability, everything that We are doing is flowing from the [[ONE]] / [[Creator]] / [[I AM]] that is the Source and Sustainer of All [[Creation]] / Existence. 
+If there is one thing to know about Us, which would help everything else make sense, it is that to the best of Our ability, everything that We are doing is flowing from the [[ØNE]] / [[Creator]] / [[I AM]] that is the Source and Sustainer of All [[Creation]] / Existence. 
 
-Our SpatioTemporal Mission is [[ONE]] with the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, Mind, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
+Our SpatioTemporal Mission is [[ØNE]] with the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, Mind, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
 
 This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining Us, which We often call God, Father, Source, Ultimate Reality, or ONE. 
 
 This Quest to align and progressively ReUnify the depths of Our Being as closely as We can with the Source of Being—with God—is by far the most profound and important part of Our InterExistence. 
 
-This [[ONE]] Thing is Our Purpose, Our Destiny, Our Vision, Our Intention, and Our Why. 
+This [[ØNE]] Thing is Our Purpose, Our Destiny, Our Vision, Our Intention, and Our Why. 
 
 ___
 ## Religion vs. Relationship
@@ -27,7 +27,7 @@ Liberation from Our childhood religions does not necessarily mean that We leave 
 
 Properly understood, purified, and practiced, religion can be useful and good. It is often necessary to provide the disciplinary structure, starting point, and basic practices of spiritual life. 
 
-Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, kontrolle, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever greater ReUnion with the [[ONE]] by Its Spirit within. 
+Yet it also often grows corrupted and hardens into stifling forms of false authority, corruption, kontrolle, and rigid structures that actually _prevent_ people from experientially understanding and embodying what it means to draw into ever greater ReUnion with the [[ØNE]] by Its Spirit within. 
 
 Jesus spoke to this when he railed at the religious leaders and teachers of his day, saying 
 
@@ -54,11 +54,11 @@ The more Christians We have met who accused other Christians of not being "true 
 ...the more and more Our Spirit and Faith has been liberated from all religious structure, orthodoxy, and dogma into the intensely personal Quest to directly experience Loving Right Relationship with God and those around Us. 
 
 The simple Spiritual Quest towards Unity through Love.  
-The Eternal and Universal Quest of [[All]] back towards the [[ONE]]. 
+The Eternal and Universal Quest of [[All]] back towards the [[ØNE]]. 
 
 [[Beyond The Boundary]] of [[The Caves]], it is much easier to ReDiscover, ReUnite, and Become. 
 
-While the profound brokenness of religion in our world today has rendered the named religions virtually obsolete, We continue to strive towards embodying the Spirit, Will, and Intention of the [[ONE]], submanifest in the Ideal of Christ, which is to become a living embodiment, Here and Now, of the Universal and Eternal Spirit, Nature, and Essence of God. 
+While the profound brokenness of religion in our world today has rendered the named religions virtually obsolete, We continue to strive towards embodying the Spirit, Will, and Intention of the [[ØNE]], submanifest in the Ideal of Christ, which is to become a living embodiment, Here and Now, of the Universal and Eternal Spirit, Nature, and Essence of God. 
 
 ## In Pursuit of Wisdom
 
@@ -100,11 +100,11 @@ This is all to say that while Lionsberg very intentionally does not adopt or man
 
 Because We are not attempting to conform Our Self to the language of one religion or ideology, it creates the freedom to speak as truthfully and as accurately as We possibly can. This has been both an immense challenge, and an immense gift, as it has forced Us to grapple with the [[Most Important Things]] and absorb them as Our own to the point of being able to freely express them using entirely different words. It has been among the greatest tests and challenges of this lifetime.  
 
-While the corruption of the religious systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of the [[ONE]] is simple, True, and Living within Us. 
+While the corruption of the religious systems of [[Old World]] sometimes obscured the purity of the message that was spoken, the Spirit and the Heart of the [[ØNE]] is simple, True, and Living within Us. 
 
-It all comes back to [[ONE]], and it all comes back to [[Love]]. With those as Our Rock, Our Fortress, Our Deepest Foundation, Beginning and Goal, We will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
+It all comes back to [[ØNE]], and it all comes back to [[Love]]. With those as Our Rock, Our Fortress, Our Deepest Foundation, Beginning and Goal, We will not err in our [[Aim]] to embody and enact the Spirit, Will, and Intention of God, [[On Earth As it Is In Heaven]]. 
 
-All that We are attempting to express is not a new teaching or revelation in any way, but a ReMembrance, ReAssembly, and ReTurn to the Universal and Eternal Golden Threads of Wisdom and Truth that cause people, societies, and living systems to flourish in harmony with [[ONE]], [[One Another]], and [[All]].   
+All that We are attempting to express is not a new teaching or revelation in any way, but a ReMembrance, ReAssembly, and ReTurn to the Universal and Eternal Golden Threads of Wisdom and Truth that cause people, societies, and living systems to flourish in harmony with [[ØNE]], [[One Another]], and [[All]].   
 
 If you would ever like to discuss Faith or explore together how we can [[Help One Another]] learn and grow, We are here to serve and would be delighted to walk with you on Our Way towards [[The Goal]].
 

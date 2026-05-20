@@ -14,7 +14,7 @@ _If you are ready to act now, go directly to **[[The LIØNSBERG Quick Start Guid
 
 Before we walk any further, let us begin where all things begin.
 
-**[[ONE]].**
+**[[ØNE]].**
 
 The eternal, universal, ultimate Source and Sustainer of [[All]] That Is. Not owned by any religion. Not captured by any ideology. Not contained by any name. Known by every true name. Present in every genuine tradition. Discoverable by every sincere seeker. Transcendent and ineffable, yet present and indwelling every cell and soul.
 
@@ -128,14 +128,14 @@ Both are required. Pattern without transformation produces institutional religio
 
 The Ascent looks like:
 
-- **Daily practice** — stillness, prayer, meditation, movement, alignment with [[ONE]]
+- **Daily practice** — stillness, prayer, meditation, movement, alignment with [[ØNE]]
 - **Physical and energetic development** — strength, vitality, martial arts, the body as sacred instrument
 - **Emotional integration** — healing old wounds, developing the capacity for Love
 - **Intellectual sharpening** — study, discernment, wisdom
-- **Spiritual deepening** — direct communion with [[ONE]], purification, energy, consciousness
+- **Spiritual deepening** — direct communion with [[ØNE]], purification, energy, consciousness
 - **Relational mastery** — learning to love, to listen, to hold space, to lead without controlling
 
-For those who desire deeper practice, places of learning exist within the Game itself — dojos, training grounds, spaces for direct transmission of the transformative arts of consciousness, energy, healing, and martial practice. Not requirements for playing the Game, but accelerators for those called to develop the fullness of their capacity in service of [[ONE]] and [[All]].
+For those who desire deeper practice, places of learning exist within the Game itself — dojos, training grounds, spaces for direct transmission of the transformative arts of consciousness, energy, healing, and martial practice. Not requirements for playing the Game, but accelerators for those called to develop the fullness of their capacity in service of [[ØNE]] and [[All]].
 
 **All things helping all things rise towards the fullness of their potential.** This is the heart of the Ascent — and the heart of the Game.
 

@@ -25,7 +25,7 @@ Withdrawal is not violent. Withdrawal is not chaotic. Withdrawal is the **discip
 
 The Old World cannot be destroyed by force. It is held together by consent. **When enough consent is withdrawn, it dissolves of its own weight.**
 
-This concept lives canonically inside [[The LIØNSBERG Playbook]] (Volume IV) and is referenced throughout [[The LIØNSBERG Pattern Language]] (Volume II).
+This concept lives canonically inside [[The LIØNSBERG Playbook]] (Volume V) and is referenced throughout [[The LIØNSBERG Pattern Language]] (Volume III).
 
 ---
 

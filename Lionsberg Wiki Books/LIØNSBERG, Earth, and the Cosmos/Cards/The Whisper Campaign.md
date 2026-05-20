@@ -28,7 +28,7 @@ The Old World's marketing-and-virality strategy will not work for the New Civili
 
 This is the operational form of [[Pass The Flame]] at the speech layer.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV).
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V).
 
 ---
 

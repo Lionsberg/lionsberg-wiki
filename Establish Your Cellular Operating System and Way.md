@@ -22,7 +22,7 @@ Your centering rhythm. The heartbeat.
 **Pause. Ground. Breathe. Remember. Realign. Recommit.**
 
 Every gathering begins here. Every day begins here.  
-This is what keeps the cell alive and attuned to [[ONE]].
+This is what keeps the cell alive and attuned to [[ØNE]].
 
 ### Your Field of Agreements
 

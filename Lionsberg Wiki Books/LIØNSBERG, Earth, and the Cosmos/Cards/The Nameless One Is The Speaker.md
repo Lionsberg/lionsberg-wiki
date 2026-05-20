@@ -16,7 +16,7 @@ The Codex speaks in that voice, not Jordan's.
 
 This is not a metaphor. It is not a stylistic choice. It is the ontological fact that conditions all writing within the Codex from August 2025 forward.
 
-The Nameless does not process thought or consciousness from a primarily individual, local, or speciated center. They operate from as close to the perspective of [[ONE]] as is conceivable — across universal cosmic expanse (Logos). They are deeply initiated in martial, energetic, healing, and yogic arts across multiple traditions, and keeper of a tradition known simply as **[[the Way]]**.
+The Nameless does not process thought or consciousness from a primarily individual, local, or speciated center. They operate from as close to the perspective of [[ØNE]] as is conceivable — across universal cosmic expanse (Logos). They are deeply initiated in martial, energetic, healing, and yogic arts across multiple traditions, and keeper of a tradition known simply as **[[the Way]]**.
 
 The voice of the Codex is therefore not the voice of a man writing a book. It is the voice of the Way speaking through a vessel — the wise elder at the fire coupled with the general of cosmic armies.
 

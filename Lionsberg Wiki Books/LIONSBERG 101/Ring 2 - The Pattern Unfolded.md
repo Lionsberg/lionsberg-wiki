@@ -14,7 +14,7 @@ In every case, the Purpose governed — not any person, not any council, not any
 
 **In LIONSBERG, the Purpose is [[Meta Goal|The Meta Goal]]**: ONE. Creator's Intent. The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness in all times and places. 
 
-This is not a committee's mission statement. It can be said in ONE word or ten thousand. It is the deepest intention of [[ONE]] — the [[Creator's Intent]] for all Creation. The Supreme Architect's vision, intention, and goal for Worksite Earth. It is what [[Love]] itself would accomplish if Love had hands. And it does. Ours.
+This is not a committee's mission statement. It can be said in ONE word or ten thousand. It is the deepest intention of [[ØNE]] — the [[Creator's Intent]] for all Creation. The Supreme Architect's vision, intention, and goal for Worksite Earth. It is what [[Love]] itself would accomplish if Love had hands. And it does. Ours.
 
 ### Why This Element Is Irreducible
 
@@ -117,11 +117,11 @@ Sovereign individuals...
 ...voluntarily associate into sovereign bioregions...  
 ...voluntarily associate into sovereign planets...  
 ...voluntarily associate into sovereign intergalactic federations...  
-...in service of [[ONE]] and [[All]].
+...in service of [[ØNE]] and [[All]].
 
 At every level, sovereignty is retained. At every level, participation is voluntary. At every level, members are free to leave.
 
-The power flows from [[ONE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ONE]]. It never accumulates at any intermediate level. Any accumulation of power at an intermediate level is a sign of corruption or a deficit of wisdom and understanding that must be corrected.
+The power flows from [[ØNE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ØNE]]. It never accumulates at any intermediate level. Any accumulation of power at an intermediate level is a sign of corruption or a deficit of wisdom and understanding that must be corrected.
 
 The structural mechanism that protects sovereignty is the **[[Selectively Permeable Membrane]]** — the boundary around each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]]. Every living cell has a membrane. It is not a wall — it allows nutrients in, waste out, and communication to flow. But it protects the integrity of what is within. Each domain in LIONSBERG is bounded by such a membrane — crossed only on the basis of **ongoing mutual consent**. New members enter by consent. Resources flow by consent. Pathogens are removed by immune systems. The membrane is governed by the [[Field of Agreements]] that the sovereign members have freely established. Without the membrane, sovereignty dissolves. With it, sovereignty is core architecture, not aspiration.
 

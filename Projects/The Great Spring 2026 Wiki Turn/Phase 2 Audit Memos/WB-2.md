@@ -34,7 +34,7 @@ This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jor
 
 **Internal evolution:**
 - **Meditations 1–~100**: Plainer language, broader applicability, less specialized vocabulary. Often start with `# Meditation N` header.
-- **Meditations ~100–~400**: Increasing density of wiki-linked terminology ([[ONE]], [[All]], [[Way]], [[Heaven]]). Header pattern starts disappearing (~M270+). Many drop the `# Meditation N` line entirely and open straight into the aphorism.
+- **Meditations ~100–~400**: Increasing density of wiki-linked terminology ([[ØNE]], [[All]], [[Way]], [[Heaven]]). Header pattern starts disappearing (~M270+). Many drop the `# Meditation N` line entirely and open straight into the aphorism.
 - **Meditations ~400–663**: Heavy doctrinal load (Christ-Ideal, Yahweh distinct from ONE, Elohim, etc.). Sometimes paragraph-length. Strong overlap with Pattern Language vocabulary. The very last (~600+) often add a third nav link: `Read other [[Lionsberg Wiki Books]]`.
 
 **Card-readiness assessment:**

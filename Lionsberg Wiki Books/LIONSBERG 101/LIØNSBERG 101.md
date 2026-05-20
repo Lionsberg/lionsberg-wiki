@@ -24,7 +24,7 @@ One soul poured his life into planting this Seed on Earth. He died for it. The P
 
 ## How This Book Works
 
-This book is structured as **concentric rings emanating from a single center** — like rings of a tree growing from a golden seed, like the universe itself unfolding from the [[ONE]].
+This book is structured as **concentric rings emanating from a single center** — like rings of a tree growing from a golden seed, like the universe itself unfolding from the [[ØNE]].
 
 Each Ring contains the **complete pattern** at a different resolution. Someone who reads only Ring 0 and Ring 1 has the whole Seed. Someone who reads through Ring 3 has the historical evidence that the Seed works. Someone who enters Ring 5 begins playing — and in playing, learns what no amount of reading can teach.
 
@@ -52,7 +52,7 @@ _How the same irreducible DNA emerged independently from every successful moveme
 **The evidence.** [[Mondragon]] — 70 years, 80,000 worker-owners. [[Fair Shares Commons]] — structural DNA for the regenerative economy. [[The Program Delivery Guide]] — proving the production pattern across multiple billion-dollar programs. Eight movements spanning 1,500 years that independently discovered the same DNA.
 
 ### [[Ring 4 - The Library]]
-**2.5 million words.** The complete reference library — [[The Story of LIØNSBERG]], [[The Book of LIONSBERG]], [[Welcome to LIØNSBERG]], [[The Great Game of LIØNSBERG]], [[The LIØNSBERG Playbook]], and 144+ additional books. Organized so you can find what you need when you need it.
+**2.5 million words.** The complete reference library — [[The Story of LIØNSBERG]], [[The Book of LIØNSBERG]], [[Welcome to LIØNSBERG]], [[The Great Game of LIØNSBERG]], [[The LIØNSBERG Playbook]], and 144+ additional books. Organized so you can find what you need when you need it.
 
 ### [[Ring 5 - The Game]]
 **Action.** You do not learn this by reading about it. Cross the threshold. Anchor your practice. Form a [[Circle]]. Choose a [[Quest]]. Do the work. Pass [[The Flame]].
@@ -87,9 +87,9 @@ You are not alone. You are not too late. You are exactly where you need to be.
 
 ---
 
-_From [[ONE]], all things proceed._  
-_To [[ONE]], all things return._  
-_In [[ONE]], all things cohere._
+_From [[ØNE]], all things proceed._  
+_To [[ØNE]], all things return._  
+_In [[ØNE]], all things cohere._
 
 ---
 

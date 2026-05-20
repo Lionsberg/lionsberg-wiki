@@ -1,6 +1,6 @@
-Two cannot walk together unless they are aligned. BIllions of individuals cannot each ask God to align to them; therefore we must [[All]] [[Align]] to the [[ONE]] if we want to walk together. 
+Two cannot walk together unless they are aligned. BIllions of individuals cannot each ask God to align to them; therefore we must [[All]] [[Align]] to the [[ØNE]] if we want to walk together. 
 
-If we are [[All]] conforming our [[Being]] to the same [[ONE]], we are [[All]] progressing towards Flourishing [[Unity]] through [[Love]]. 
+If we are [[All]] conforming our [[Being]] to the same [[ØNE]], we are [[All]] progressing towards Flourishing [[Unity]] through [[Love]]. 
 
 ___
 

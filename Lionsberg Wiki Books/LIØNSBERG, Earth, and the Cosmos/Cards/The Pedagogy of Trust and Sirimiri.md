@@ -42,7 +42,7 @@ The Pedagogy stands against the diseases of modern formation:
 
 The cost of the Pedagogy is patience. The reward is people who actually carry the Pattern — and who can therefore safely found the institutions of the New.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as Element 6 (Education as Transformation), and informs [[The LIØNSBERG Playbook]] (Volume IV) at every stage of the Pilgrim's Path.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 6 (Education as Transformation), and informs [[The LIØNSBERG Playbook]] (Volume V) at every stage of the Pilgrim's Path.
 
 ---
 

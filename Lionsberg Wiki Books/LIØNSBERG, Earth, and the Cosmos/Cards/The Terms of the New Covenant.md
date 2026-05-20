@@ -36,7 +36,7 @@ Acceptance of the Covenant is **voluntary**. No one is forced to enter. The Pilg
 
 The Terms are the **substantive content** that [[The Covenant Stack]] structures — Personal Covenant, Circle Covenant, Hub Covenant, Bioregional Covenant, Grid Covenant, Universal Covenant. At every scale, the same Terms apply; only the parties and the specifics differ. This is [[Holofractal Omnifederation]] expressed as covenant: the same agreements at every scale.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) as the substantive Element 3 (Field of Agreements), and in [[The LIØNSBERG Lexicon]] (Volume V) as the Meta Layer articulation of the Covenant's content.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the substantive Element 3 (Field of Agreements), and in [[The LIØNSBERG Lexicon]] (Volume VII) as the Meta Layer articulation of the Covenant's content.
 
 ---
 

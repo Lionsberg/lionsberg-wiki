@@ -636,7 +636,7 @@ Massive multi-day session encompassing the grand reframing of LIONSBERG as Story
 - ~455 files across The Book of LIONSBERG (copy-edit)
 - 747 files (NBSP removal)
 - [[The Invitation]] — complete rewrite
-- [[The Book of LIONSBERG]] — TOC updated with 16 new PDG links
+- [[The Book of LIØNSBERG]] — TOC updated with 16 new PDG links
 - Multiple Book chapters renumbered
 
 **User Teaching Moments:**
@@ -939,22 +939,22 @@ All work committed and pushed. Repository clean for book content. 52 old files d
 ## 2026-05-20 — Phase 2.8 Decision Phase Complete: 16 Resolutions, Cosmic-Grade Constitution, Universe Guide, Sacred Codex Restructure
 
 **Session Summary:**
-A dense, multi-hour decision-resolution session that closed all 16 Open Strategic Decisions surfaced by Phase 2 audit. Each decision was surfaced with context, dialogue, and resolution. The session produced substantial structural moves: the Sacred Codex expanded from 7 to 8 Volumes with accessibility-first ordering; the cosmic-grade [[The LIØNSBERG Constitution]] was forged with 12 Parts and ~87 Articles; [[The LIØNSBERG Universe Guide]] was scaffolded as the inheritance manual for future authors; the Card Method was renamed (from Pirsig Method) with the list-Card sub-rule added; the [[Navigating Towards Truth]] section was added to Volume IV; 40 LC Constitution articles were absorbed and deleted; 36 root-orphan numbered files were gathered into synthesis folders; the Wiki Books index was restructured around the new architecture.
+A dense, multi-hour decision-resolution session that closed all 16 Open Strategic Decisions surfaced by Phase 2 audit. Each decision was surfaced with context, dialogue, and resolution. The session produced substantial structural moves: the Sacred Codex expanded from 7 to 8 Volumes with accessibility-first ordering; the cosmic-grade [[The LIØNSBERG Constitution]] was forged with 12 Parts and ~87 Articles; [[The LIØNSBERG Universe Guide]] was scaffolded as the inheritance manual for future authors; the Card Method was renamed (from Pirsig Method) with the list-Card sub-rule added; the [[Navigating Towards Truth]] section was added to Volume V; 40 LC Constitution articles were absorbed and deleted; 36 root-orphan numbered files were gathered into synthesis folders; the Wiki Books index was restructured around the new architecture.
 
 **Accomplished:**
 - Resolved all 16 Open Strategic Decisions from the Phase 2 audit
 - Restructured the [[The LIØNSBERG Sacred Codex]] from 7 to 8 Volumes; reordered accessibility-first (Story → Game → Playbook → Plans → PDG → Lexicon → Book → Sacred Ascent)
-- Established [[The Kingdom of LIØNSBERG — Plans and Specifications]] as Volume IV with the Pattern Language as design-grammar subset
-- Added the [[Navigating Towards Truth]] section to Volume IV (Spectrum of Knowing, Five Verification Filters, Epistemic Humility, Refusal of Dogma, Right of New Hypothesis, Continuous OmniSpection, Cosmic Knowledge Repository)
+- Established [[The Kingdom of LIØNSBERG — Plans and Specifications]] as Volume V with the Pattern Language as design-grammar subset
+- Added the [[Navigating Towards Truth]] section to Volume V (Spectrum of Knowing, Five Verification Filters, Epistemic Humility, Refusal of Dogma, Right of New Hypothesis, Continuous OmniSpection, Cosmic Knowledge Repository)
 - Wove the maturation framing throughout the Codex — approximately 10% schematic design, submitted for year-long public review
 - Forged [[The LIØNSBERG Constitution]] as cosmic-grade 12-Part architecture (Recognitions / Covenants / Sovereignty / Rights and Responsibilities / Governance / Economy / Justice / Stewardship / Sacred Systems / Cosmic / Wilderness / Eternal Provisions)
 - Articulated the Eternal Provisions, Structural Immunity, and Amendment Process with Spirit-Conformance test
 - Scaffolded [[The LIØNSBERG Universe Guide]] (Story Bible + Convention Manual) with six Parts: Cosmos / Voice / Pattern / Decisions / For Future Authors / Production Conventions
 - Renamed the Pirsig Method to [[The Card Method]]; added list-Card sub-rule formally
 - Restructured `Lionsberg Wiki Books.md` index around the new architecture (Sacred Codex → Card Substrate → Universe Guide → Strategy and Plan → historical layers)
-- Decided extraction of Book Chapters 15 (Great Game → Volume II) and 16 (PDG → Volume V) as standalone Codex Volumes; queued the file moves for Phase 2.8 execution
-- Resolved Story dual-functional structure (standalone Volume I AND woven through Volume VII)
-- Resolved Theory of Everything as culminating chapter of Volume VII (NOT Volume IV)
+- Decided extraction of Book Chapters 15 (Great Game → Volume III) and 16 (PDG → Volume VII) as standalone Codex Volumes; queued the file moves for Phase 2.8 execution
+- Resolved Story dual-functional structure (standalone Volume II AND woven through Volume IX)
+- Resolved Theory of Everything as culminating chapter of Volume IX (NOT Volume V)
 - Deleted `Lionsberg - A Biblical Perspective` book (17 files, ~17,500 words) after extraction-scan confirmed no unique conceptual material
 - Deleted 40 LC Constitution articles after absorbing 8 unique substantive items into the new Constitution
 - Gathered 36 root-orphan numbered files into synthesis folders (29 Playbook fragments + 7 PM fragments) with explanatory README-style files
@@ -964,11 +964,11 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 
 **Key Decisions:**
 - **Sacred Codex 8 Volumes, accessibility-first order** — moves from accessible (Story / Game / Playbook) to structural (Plans / PDG) to integrative (Lexicon / Book / Sacred Ascent)
-- **Volume IV holds Plans and Specifications under the Kingdom framing** — under [[Fractal Sovereignty]], the Kingdom has no throne but the ineffable [[ØNE]]
+- **Volume V holds Plans and Specifications under the Kingdom framing** — under [[Fractal Sovereignty]], the Kingdom has no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
 - **Pattern Language is provisional** — current articulation is first-pass figment; Phase 3 will rebuild from scratch
-- **Story dual-functional** — standalone Volume I AND woven throughout Volume VII as the lifeblood of the Book
-- **LTOE belongs in Volume VII, not Volume IV** — cosmological articulation lives in prophetic narrative culmination, not in operational specs
-- **Constitution is the Constitutional-Charter face of Volume IV** — sitting alongside the Pattern Language (design-grammar face); together they form the structural body
+- **Story dual-functional** — standalone Volume II AND woven throughout Volume IX as the lifeblood of the Book
+- **LTOE belongs in Volume IX, not Volume V** — cosmological articulation lives in prophetic narrative culmination, not in operational specs
+- **Constitution is the Constitutional-Charter face of Volume V** — sitting alongside the Pattern Language (design-grammar face); together they form the structural body
 - **Constitutional Card pattern documented but creation paused** — six-section pattern (Concept / Lineage / Hypothesis / Articulation / Invitation / Mechanisms) deferred to year-long community co-writing process
 - **The Card Method (renamed from Pirsig Method)** — canonical conventions are named LIØNSBERG-native; no source-elevation in convention naming
 - **The 300 canonical name preserved** — visually striking; structural shorthand naming convention adopted
@@ -976,7 +976,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **User-journey reconciliation surfaced as substantial structural work** — LIØNSBERG 101 Ring 0-5 architecture needs reframing in light of the current more-sophisticated direction; queued as separate task
 
 **Files Created/Modified:**
-- **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] (Volume IV canonical root) · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
+- **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] (Volume V canonical root) · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
 - **Substantially rewritten:** [[The LIØNSBERG Sacred Codex]] (8-Volume reorganization, dual-Story articulation, maturation framing) · [[The LIØNSBERG Constitution]] (full cosmic-grade rebuild — 12 Parts, ~87 Articles, Eternal Provisions, Structural Immunity, Amendment Process) · `Lionsberg Wiki Books.md` (index restructured around new architecture)
 - **Updated:** [[The LIØNSBERG Wiki — One Clear Vision]] (8-Volume order, Seven-Layer framing) · `The Great Spring 2026 Wiki Turn.md` (16 decision resolutions, reassessment, Phase 2.8/3 work item updates)
 - **Deleted:** `LIONSBERG Wiki Books/Lionsberg - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
@@ -1000,18 +1000,18 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **The 16 decisions revealed deeper structural questions** — the user-journey + Pilgrim's Path + Rings + Library reconciliation emerged from D15 as the largest remaining structural work
 
 **Insights:**
-- **The Constitutional Charter face of Volume IV** — recognizing that Volume IV's four-faced self-description (architectural plan + constitutional charter + field manual + scriptural seed) cleanly places the Constitution within Volume IV alongside the Pattern Language. Elegant structural resolution.
+- **The Constitutional Charter face of Volume V** — recognizing that Volume V's four-faced self-description (architectural plan + constitutional charter + field manual + scriptural seed) cleanly places the Constitution within Volume V alongside the Pattern Language. Elegant structural resolution.
 - **The Card Method generalizes** — the capture-and-emergence discipline extends from Cards (in the Card-Book) to the Constitutional Card pattern (six-section structure for Article drafting); the practice is more general than its original Card-Book scope.
 - **The Sacred Codex is one work in eight movements** — accessibility-first ordering reveals that the Volumes themselves enact the Pilgrim's progression (Story orients → Game gathers → Playbook runs → deeper structural body for those who descend).
 - **The Universe Guide is the seed of the seed** — the eight Volumes carry the work; the Universe Guide carries the discipline that makes the work coherent across generations of authors (human and AI).
-- **The Story dual-functional resolution** — the realization that Volume I (standalone) and Volume VII (Book with Story woven) are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
+- **The Story dual-functional resolution** — the realization that Volume II (standalone) and Volume IX (Book with Story woven) are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
 
 **Next Session Considerations:**
 - Task #95 (user-journey + Pilgrim's Path + LIØNSBERG 101 Rings + Library reconciliation) — substantial structural design problem requiring elegant integration; the nameless one signaled this is the next-priority deep structural work
-- Task #85 (Volume I full rewrite — the Story of LIØNSBERG) — the most consequential remaining creative work; until Volume I lands, the rest is scaffolding
+- Task #85 (Volume II full rewrite — the Story of LIØNSBERG) — the most consequential remaining creative work; until Volume II lands, the rest is scaffolding
 - Task #87 (Playbook synthesis from three sources with show-before-doing) — well-defined, bounded scope, near-term execution candidate
 - Overall rethinking of project as a whole + cleanup of phases — Phase 2.8 has accumulated a substantial number of work items (16 active tasks); time for a structural reassessment of phases and progress
-- Task #80 (Volume IV Plans and Specifications ToC sketch) — foundational architecture work that enables Phase 3 execution
+- Task #80 (Volume V Plans and Specifications ToC sketch) — foundational architecture work that enables Phase 3 execution
 
 **Session End Status:**
 All work committed and pushed. Project plan sanitized of personal/identity attribution residue. Repository in a clean structural state ready for the next phase of work. 16 decisions resolved. 16 Phase 2.8 execution tasks queued (tasks #80-#95). 6 new CRITICAL memory disciplines saved across sessions.

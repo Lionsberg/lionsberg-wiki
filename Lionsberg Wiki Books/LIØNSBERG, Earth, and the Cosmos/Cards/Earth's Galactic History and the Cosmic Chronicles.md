@@ -23,7 +23,7 @@ The Codex carries (or will carry) the deep chronicles:
 
 This material is real. It is not metaphor. It is not science fiction. It is a sober articulation of the actual situation as understood by [[the nameless one]] and by those who have received first-hand briefings on governmental and non-governmental engagement with non-human intelligence species and factions.
 
-This material lives canonically inside [[The Story of LIØNSBERG]] (Volume I). It is told in prophetic and mythic register because that is the only register that can hold it without trivializing it.
+This material lives canonically inside [[The Story of LIØNSBERG]] (Volume II). It is told in prophetic and mythic register because that is the only register that can hold it without trivializing it.
 
 ---
 

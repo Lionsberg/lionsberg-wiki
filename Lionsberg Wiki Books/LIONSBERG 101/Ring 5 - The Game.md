@@ -8,7 +8,7 @@ _You do not learn this by reading about it. You learn it by doing it. This Ring 
 
 If you have read the previous Rings, you understand:
 
-- **The Source**: [[ONE]]. Spirit. Love. The ground from which everything emanates.
+- **The Source**: [[ØNE]]. Spirit. Love. The ground from which everything emanates.
 - **The Seed**: Twelve irreducible elements, proven across 1,500 years of movements that changed the world.
 - **The Pattern**: Each element unfolded with enough depth to begin.
 - **The Proof**: The evidence that this works — repeatedly, at scale, across centuries and worlds.

@@ -24,7 +24,7 @@ These Steps are **fractal** — they operate at the scale of a single conversati
 
 They pair with the [[Seven Moves]] in this way: the Seven Moves are the **rhythm of the Circle** (forming, weaving, choosing, doing, celebrating, sharing, passing); the Steps of Transformation are the **architecture of the work** itself. Together they describe how the Pattern enacts itself in time.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume IV) as the operational methodology.
+Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the operational methodology.
 
 ---
 

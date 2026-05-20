@@ -1,7 +1,7 @@
 # Most Important Things
 Coming soon / [[Work In Progress]]... 
 
-- In the beginning, middle, end, and [[All]], [[ONE]].  
+- In the beginning, middle, end, and [[All]], [[ØNE]].  
 - Who Are We?  
 - Where Are We?  
 - How Did We Get Here?  
@@ -15,7 +15,7 @@ Coming soon / [[Work In Progress]]...
 - How Now Should We Live / Be / Do in light of all we have come to know?  
 - What are the timeless and universal Wisdom, Principles, and Values that cause people, societies, and living systems to flourish?  
 - How can we [[Cross The Chasm]] between [[Where We Are]] and [[Where We Are Going]]?  
-- How do we [[Right Relationship|Rightly Relate]] to [[ONE]] and [[All]]?  
+- How do we [[Right Relationship|Rightly Relate]] to [[ØNE]] and [[All]]?  
 - Is humanity actually now facing [[The Final Test]]?  
 - Are We actually exposing [[The Greatest Fraud, Deception, and Existential Threat in History]]?  
 - Are billions of lives over millennia to come actually at stake right here and now?  

@@ -1,4 +1,4 @@
-Why do we shy away from attending to [[Perfection]]? It is the [[ONE]] place our [[Attention]] belongs. 
+Why do we shy away from attending to [[Perfection]]? It is the [[ØNE]] place our [[Attention]] belongs. 
 
 ___
 

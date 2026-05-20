@@ -35,7 +35,7 @@ Together, the two Rules are sufficient. **A Circle that has only these two Rules
 
 This is the compression-test of canonical content: does it survive being reduced to these two Rules and re-derived from them? If yes, it is part of the canonical Pattern. If no, it is not Pattern; it is opinion.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume II) at the root of Element 3 (Field of Agreements), and in [[The LIØNSBERG Lexicon]] (Volume V) as the foundational Meta Layer entry.
+Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) at the root of Element 3 (Field of Agreements), and in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational Meta Layer entry.
 
 ---
 

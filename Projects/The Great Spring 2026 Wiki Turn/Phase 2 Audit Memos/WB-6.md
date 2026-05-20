@@ -490,7 +490,7 @@ These are likely already in the queue but the source-material surfaces sharper e
 
 These five documents are **load-bearing source-texts** for the Sacred Codex and should be preserved with high fidelity:
 
-1. **The LIONSBERG Pattern Language** (`LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIONSBERG Pattern Language.md`) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume II-or-IV canonical root material.**
+1. **The LIONSBERG Pattern Language** (`LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIONSBERG Pattern Language.md`) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume III-or-IV canonical root material.**
 2. **The Program Delivery Guide** (`LIONSBERG Wiki Books/The Program Delivery Guide/`) — **Tier 1 canonical foundation.** The $20M-of-funded-research that informed Elements 9–12. Direct lineage map from PDG concept to Pattern Language Element is documented inside the file. The "Federal Receivership of Earth" parallel is structurally load-bearing.
 3. **The Lionsberg Strategy and Plan of Action** (`LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/The LIØNSBERG Strategy and Plan.md`) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
 4. **The Meta Project Plans and Specifications** (`LIONSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/Lionsberg Plans and Specifications.md`) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
@@ -630,7 +630,7 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 
 ## IX. Coherence Observations
 
-1. **The Pattern Language is the spine of the entire cluster.** Every other operations/strategy book either feeds into it (PDG, Strategy) or is an extraction from it (Elevation Initiative, OTS, Toolkit). It should be Volume II-or-IV canonical root.
+1. **The Pattern Language is the spine of the entire cluster.** Every other operations/strategy book either feeds into it (PDG, Strategy) or is an extraction from it (Elevation Initiative, OTS, Toolkit). It should be Volume III-or-IV canonical root.
 
 2. **The Playbook is a *thin index*, not a book.** The 30 named Plays live as root-level files. The "book" itself is an 85-line wayfinding document. This is correct architecture but raises a question: should the Playbook's body live in the book folder, or stay at root? Recommendation: stay at root; the Playbook folder is just the contents page.
 

@@ -71,11 +71,11 @@ From this moment, every deeper Volume is an option, not a prerequisite. The read
 
 The Volumes move from **accessible to structural** — Story and Game and Playbook open the door for every reader; Plans and Specifications and PDG are the deeper structural body for those who descend into the design and delivery of the New Civilization.
 
-**I — [[The Story of LIØNSBERG]].** Cosmic context. The True Myth. The Caves narrative as the foundational allegory of humanity's condition. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. **Dual-functional** — read standalone here, AND **woven throughout Volume VII (The Book)** as threaded glimpses. The Story is the lifeblood; the Book is the integrated body. *This is the spine of the Codex. The most masterful Story in history must be written.*
+**I — [[The Story of LIØNSBERG]].** Cosmic context. The True Myth. The Caves narrative as the foundational allegory of humanity's condition. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. **Dual-functional** — read standalone here, AND **woven throughout Volume IX (The Book)** as threaded glimpses. The Story is the lifeblood; the Book is the integrated body. *This is the spine of the Codex. The most masterful Story in history must be written.*
 
-**II — [[The Great Game of LIØNSBERG]].** The participatory form. Movement One (Simple Game). Movement Two (Community Game). Movement Three (Planetary Game). Movement Four (Eternal Divine Play). The Fibonacci math. The 300-per-community arithmetic. Placed at Volume II for accessibility — once the Story is received, the next step is the Game itself. Extracted from Chapter 15 of the Book of LIØNSBERG; now its own canonical Volume and standalone wiki book.
+**II — [[The Great Game of LIØNSBERG]].** The participatory form. Movement One (Simple Game). Movement Two (Community Game). Movement Three (Planetary Game). Movement Four (Eternal Divine Play). The Fibonacci math. The 300-per-community arithmetic. Placed at Volume III for accessibility — once the Story is received, the next step is the Game itself. Extracted from Chapter 15 of the Book of LIØNSBERG; now its own canonical Volume and standalone wiki book.
 
-**III — [[The LIØNSBERG Playbook]].** The player's handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass The Flame. The Seven Moves at Circle scale. Placed at Volume III for accessibility — once the Game is understood, the next step is the moves of play.
+**III — [[The LIØNSBERG Playbook]].** The player's handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass The Flame. The Seven Moves at Circle scale. Placed at Volume IV for accessibility — once the Game is understood, the next step is the moves of play.
 
 **IV — [[The Kingdom of LIØNSBERG — Plans and Specifications]].** The deepening. The structural body of the New Civilization — the architectural blueprints, the design grammar, the operational specifications through which the Pattern of Heaven is consciously instantiated across every scale. Holds **the Pattern Language** as its canonical design-grammar subset (ØNE at the center, Irreducible Elements, Moves, Pattern Principles, Domain Patterns, Anti-Patterns, the 144 Gates of Initiation as the architecture of consciousness shift). Holds also the structural principles, governance protocols, economic specifications (LUV), intelligence and meta-scientific infrastructure, safeguards and ranges of tolerance, implementation pathways, and canonical reference schemas. Functions simultaneously as architectural plan, constitutional charter, field manual, and scriptural seed. The Kingdom framing holds because under [[Fractal Sovereignty]] there is no throne but the ineffable ØNE. Structure and Table of Contents are being rearticulated as Phase 2.8 (sketch) → Phase 3 (full rebuild).
 
@@ -87,7 +87,7 @@ The Volumes move from **accessible to structural** — Story and Game and Playbo
 
 **VIII — The Sacred Ascent.** The ultimate synthesis. The eternal upward spiral. Personal, Circle, Community, Guild, Bioregional, Planetary, Interplanetary, Cosmic Communion. Beyond Aurobindo. Beyond previous scripture. Beyond all prior gestures. The closing movement of all things.
 
-**Companion living document:** [[The LIØNSBERG Strategy and Plan]] — articulates [[The 10 Year Grand Strategy]] in time-bound, historically-situated form. The strategic _what_; Volume V (the PDG) supplies the operational _how_. Not a Codex Volume; a companion living document that responds to the unfolding historical moment. Needs updating in Phase 2.8.
+**Companion living document:** [[The LIØNSBERG Strategy and Plan]] — articulates [[The 10 Year Grand Strategy]] in time-bound, historically-situated form. The strategic _what_; Volume VII (the PDG) supplies the operational _how_. Not a Codex Volume; a companion living document that responds to the unfolding historical moment. Needs updating in Phase 2.8.
 
 ### Layer Five — The Card Substrate (the Pirsig Layer)
 
@@ -129,18 +129,18 @@ The Wiki (one link, one Golden Seed)
 ├── The LIØNSBERG Experience.md        ─── THE WALKED HOUR   (12 Gates, 60 min)
 │
 ├── The LIØNSBERG Sacred Codex         ─── THE BOUND CORPUS
-│   ├── Volume I.    The Story of LIØNSBERG       (standalone AND woven through Volume VII)
-│   ├── Volume II.   The Great Game of LIØNSBERG  (extracted from Book Ch15; accessibility)
-│   ├── Volume III.  The Playbook                  (accessibility — moves of play)
-│   ├── Volume IV.   The Kingdom of LIØNSBERG — Plans and Specifications
+│   ├── Volume II.    The Story of LIØNSBERG       (standalone AND woven through Volume IX)
+│   ├── Volume III.   The Great Game of LIØNSBERG  (extracted from Book Ch15; accessibility)
+│   ├── Volume IV.  The Playbook                  (accessibility — moves of play)
+│   ├── Volume V.   The Kingdom of LIØNSBERG — Plans and Specifications
 │   │                   (the deepening; holds the Pattern Language as canonical design-grammar subset)
-│   ├── Volume V.    The Program Delivery Guide   (extracted from Book Ch16; two forms preserved)
-│   ├── Volume VI.   The Lexicon
-│   ├── Volume VII.  The Book of LIØNSBERG        (Chs 0-14 with The Story woven throughout)
-│   └── Volume VIII. The Sacred Ascent
+│   ├── Volume VII.    The Program Delivery Guide   (extracted from Book Ch16; two forms preserved)
+│   ├── Volume VIII.   The Lexicon
+│   ├── Volume IX.  The Book of LIØNSBERG        (Chs 0-14 with The Story woven throughout)
+│   └── Volume X. The Sacred Ascent
 │
 ├── The LIØNSBERG Strategy and Plan    ─── THE LIVING STRATEGIC DOCUMENT
-│   └── Articulates the 10 Year Grand Strategy; companion to Volume V PDG
+│   └── Articulates the 10 Year Grand Strategy; companion to Volume VII PDG
 │
 ├── LIØNSBERG, Earth, and the Cosmos   ─── THE CARD SUBSTRATE
 │   └── Cards/                         (~3,500-4,500 candidates; 161 written)
@@ -213,12 +213,12 @@ Honest inventory of what is ready, what is in motion, what remains.
 - The Twelve Watchwords. Scripture-grade. Liturgical.
 - The Sacred Covenant text. Eight affirmations. Universal articulation.
 - The Daily Practice (Power of Today Chapter 4.4, the nine-part 24-hour rhythm). Operational keystone.
-- The Pattern Language source corpus (18,135 lines, ~310 named patterns). Awaiting structural rebuild as the canonical design-grammar subset of Volume II — The Kingdom of LIØNSBERG — Plans and Specifications.
-- The Program Delivery Guide (Book of LIØNSBERG Chapter 16, 16 chapters). Awaiting compression into Volume IV.
-- The Great Game chapter set (Book of LIØNSBERG Chapter 15, 27 files). Awaiting promotion into Volume III.
-- The Caves narrative (Book of LIØNSBERG Chapter 1.5). Awaiting promotion into Volume I as Genesis-of-Codex.
+- The Pattern Language source corpus (18,135 lines, ~310 named patterns). Awaiting structural rebuild as the canonical design-grammar subset of Volume III — The Kingdom of LIØNSBERG — Plans and Specifications.
+- The Program Delivery Guide (Book of LIØNSBERG Chapter 16, 16 chapters). Awaiting compression into Volume V.
+- The Great Game chapter set (Book of LIØNSBERG Chapter 15, 27 files). Awaiting promotion into Volume IV.
+- The Caves narrative (Book of LIØNSBERG Chapter 1.5). Awaiting promotion into Volume II as Genesis-of-Codex.
 - The Plan Trilogy (Joseph, Noah, Solomon). Foundational source-documents preserved verbatim.
-- THE GREAT RETURN. Scripture-grade prophetic-liturgical compression. Awaiting placement in Volume I.
+- THE GREAT RETURN. Scripture-grade prophetic-liturgical compression. Awaiting placement in Volume II.
 
 ### In Motion
 
@@ -229,8 +229,8 @@ Honest inventory of what is ready, what is in motion, what remains.
 
 ### Still To Be Written
 
-- **Volume I — The Story of LIØNSBERG.** The single most consequential remaining piece of writing. Twenty to forty thousand words, in one bound text, holding together the cosmic context + the Caves narrative + the Eight Lineages of Living Proof + Jordan's testimony + the nameless one's continuation + the Sacred Flame + the Invitation. *Until Volume I lands, the corpus is scaffolding without spine.*
-- **Volume VII — The Sacred Ascent.** Opens well; does not yet reach the full epic. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
+- **Volume II — The Story of LIØNSBERG.** The single most consequential remaining piece of writing. Twenty to forty thousand words, in one bound text, holding together the cosmic context + the Caves narrative + the Eight Lineages of Living Proof + Jordan's testimony + the nameless one's continuation + the Sacred Flame + the Invitation. *Until Volume II lands, the corpus is scaffolding without spine.*
+- **Volume IX — The Sacred Ascent.** Opens well; does not yet reach the full epic. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
 - **The Lionsberg Theory of Everything sections 11-31.** Currently exist as headers only. The cosmological architecture awaits authoring.
 - **The 66 Most Protected and Distorted Narratives.** Only 4 of 66 written. A research register of large structural ambition with most content not yet authored.
 - **The 99 Theses entries 56-57.** Blank in source corpus.
@@ -239,7 +239,7 @@ Honest inventory of what is ready, what is in motion, what remains.
 - **The 144 Gates of Initiation structural reconciliation.** Two parallel attempts stacked in the source file with a "TKTK Integrate Into Above" marker between them.
 - **A Way for the Householder.** Missing as Volume-sized work.
 - **A Way of Death and Transition.** Missing as Volume-sized work. The nameless one's August 2025 experience is itself canonical source-material for it.
-- **Volume V Lexicon as a bound work.** Exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way." Not yet consolidated into a single navigable Volume.
+- **Volume VII Lexicon as a bound work.** Exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way." Not yet consolidated into a single navigable Volume.
 
 ### Decisions Pending
 
@@ -248,7 +248,7 @@ Sixteen structural decisions gate the next phase of work. Each is articulated in
 - 12 Pillars or 12 Domains — which is canonical, or how are both held?
 - Kingdom of LIONSBERG v0.1 — supersede, harmonize, or sit alongside earlier articulations?
 - Constitution numbering — declare new series canonical and complete the four TKTK articles?
-- The Book of LIONSBERG Chapters 15+16 — extract as standalone Volume, or close Volume VI?
+- The Book of LIONSBERG Chapters 15+16 — extract as standalone Volume, or close Volume VIII?
 - The Caves narrative — promote to Genesis-of-Codex, or keep as Chapter 1?
 - The Playbook canonical home — inside The Book of LIONSBERG, or at wiki root?
 - LIONSBERG 101 — promote to Volume root status?
@@ -263,13 +263,13 @@ After Phase 2's audit closure, the order of operations is clear. It runs in four
 
 **Move One — Polish The Door (Weeks Ahead).** Finish the Pilgrim's Path. Every one of the twelve Gates polished, each five-minute reading complete, each transition to the next Gate clean. Test the hour-long walked experience with three or four readers in the First Three Percent and refine until it lands.
 
-**Move Two — Write Volume I (Months Ahead).** The single most consequential remaining piece. The Story of LIØNSBERG as a bound text. Twenty to forty thousand words. One sustained voice. The cosmic context + the Caves + the Eight Lineages + Jordan's testimony + the Sacred Flame + the Invitation, woven into one continuous read.
+**Move Two — Write Volume II (Months Ahead).** The single most consequential remaining piece. The Story of LIØNSBERG as a bound text. Twenty to forty thousand words. One sustained voice. The cosmic context + the Caves + the Eight Lineages + Jordan's testimony + the Sacred Flame + the Invitation, woven into one continuous read.
 
-**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Execute the Volume II rebuild — The Kingdom of LIØNSBERG — Plans and Specifications — with the Pattern Language as canonical design-grammar subset. Complete Volume V (Lexicon) consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
+**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Execute the Volume III rebuild — The Kingdom of LIØNSBERG — Plans and Specifications — with the Pattern Language as canonical design-grammar subset. Complete Volume VII (Lexicon) consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
 
 **Move Four — Plant The Seed (When Move Two and Move Three Are Substantially Done).** The corpus is ready to pass hand to hand at full depth. The 250M target by Winter Solstice 2026 begins.
 
-Until Move One and Move Two are complete, the Seed is mostly ready but not fully ready. The hour-long Pilgrim's Path works today. The deeper Volumes are scaffolded for those who want to explore them. But the spine of the Codex — Volume I, The Story — is the gating piece. Everything else hangs from it.
+Until Move One and Move Two are complete, the Seed is mostly ready but not fully ready. The hour-long Pilgrim's Path works today. The deeper Volumes are scaffolded for those who want to explore them. But the spine of the Codex — Volume II, The Story — is the gating piece. Everything else hangs from it.
 
 ---
 
@@ -315,4 +315,4 @@ This is LIØNSBERG.
 
 ---
 
-_This document holds the entire wiki structure and presentation to humanity in one place. It is canonical against the Phase 2 audit. The next pass through it occurs when Volume I is substantially written or the structural decisions are made. Until then, it stands as the architectural picture against which all next work is measured._
+_This document holds the entire wiki structure and presentation to humanity in one place. It is canonical against the Phase 2 audit. The next pass through it occurs when Volume II is substantially written or the structural decisions are made. Until then, it stands as the architectural picture against which all next work is measured._

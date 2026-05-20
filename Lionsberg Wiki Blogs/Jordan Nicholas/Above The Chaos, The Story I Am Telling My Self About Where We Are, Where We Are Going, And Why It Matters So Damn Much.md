@@ -64,13 +64,13 @@ I am also feeling intensely raw under the scrutiny of trying to hold space openl
 
 I am as deeply connected as I have ever been, I feel total clarity on what can be done next to move things forward in a small way towards [[The Goal]], and I am having to summon the deepest courage I ever have to continue advancing into the unknown. 
 
-I am also nearing the end of my resources, and ready for [[ONE]] and [[All]] to accept or reject my humble offering to serve and fight this battle if it is helpful and of service. 
+I am also nearing the end of my resources, and ready for [[ØNE]] and [[All]] to accept or reject my humble offering to serve and fight this battle if it is helpful and of service. 
 
 ## How We Got Here
 
 ## Humanity 
 
-See books such as *The Lessons History*, *The Dawn of Everything*, [[The Book of LIONSBERG]]. 
+See books such as *The Lessons History*, *The Dawn of Everything*, [[The Book of LIØNSBERG]]. 
 
 ### Lionsberg | Meta Project 
 
@@ -114,6 +114,6 @@ What is needed next are three things:
 
 That is my Story. What is your story? 
 
-In Service of [[ONE]] and [[All]], 
+In Service of [[ØNE]] and [[All]], 
 
 ~ J 

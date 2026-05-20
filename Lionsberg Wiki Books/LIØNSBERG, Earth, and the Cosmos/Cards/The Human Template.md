@@ -18,7 +18,7 @@ What the Template carries:
 
 - Bipedal upright form (across most localizations)
 - Bilateral neural architecture with a coherent center of consciousness
-- The capacity for [[Spirit Precedes Pattern|Spirit reception]] — bodies designed to be vessels for incarnated localizations of [[ONE]]
+- The capacity for [[Spirit Precedes Pattern|Spirit reception]] — bodies designed to be vessels for incarnated localizations of [[ØNE]]
 - The capacity for tool-use, abstract symbolic thought, language
 - The capacity for [[One of the Ones of the ONE|sovereign individuation]] while remaining of the ONE
 - The capacity for cosmic-scale co-creation when in Right Relationship
@@ -32,7 +32,7 @@ What the Template is **not**:
 
 The Human Template on Earth is **wounded** — by deliberate tampering, by environmental degradation, by trauma, by genetic insertion / suppression, by the long predation. The Restoration Codex (one of [[The Archetypal Codexes Within The Pattern]]) addresses this wound directly. The work of restoring the Template to its full design is part of what [[Covenant and Jubilee — December 2033]] makes available.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume I) as cosmological foundation.
+Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as cosmological foundation.
 
 ---
 

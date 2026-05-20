@@ -34,7 +34,7 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 
 ## The Lionsberg Lexicon
 
-[[The Lionsberg Lexicon]]  
+[[The LIØNSBERG Lexicon]]  
 
 ## The WatchWords of Lionsberg
 

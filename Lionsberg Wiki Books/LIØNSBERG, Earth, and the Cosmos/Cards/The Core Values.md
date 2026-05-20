@@ -13,7 +13,7 @@ The irreducible facets of the ONE as they show up in any sphere of life.
 Beneath the field of ~135 enumerated derivative Values lies a smaller set — the **Core Values** that every derivative Value reflects, refines, or extends:
 
 - **Truth** — accurate seeing; alignment of word with reality; the refusal of falsehood. Without Truth, nothing else holds.
-- **Love** — absolute and unconditional, for [[ONE]], One Another, and All. The nature of the ONE Itself. The animating Spirit.
+- **Love** — absolute and unconditional, for [[ØNE]], One Another, and All. The nature of the ONE Itself. The animating Spirit.
 - **Justice** — Right Relationship made structural. Love in Action. The arrangement of conditions so every being can flourish.
 - **Stewardship** — the disposition that treats what one holds as held in trust, not as property. Across body, relationship, land, gift, time, Pattern.
 - **Wisdom** — the capacity to discern the wise right thing in the moment, drawing on all that has been learned across ages and worlds.
@@ -27,7 +27,7 @@ The derivative Values (Courage, Compassion, Generosity, Humility, Integrity, Pat
 
 A being in Right Relationship lives all of them in proportion to the moment. A culture in Right Relationship structures its institutions to support them. A civilization in Right Relationship measures its [[Throughput of The Goal]] in part by how well it cultivates them.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume V) as the top-tier Values stratum.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the top-tier Values stratum.
 
 ---
 

@@ -12,7 +12,7 @@ The inner discernment that conditions all outer work.
 
 Every being carries both:
 
-**The True Self** — the localization of [[ONE]] in this particular body, in this particular life. The Sacred Spark. The Image and Likeness. The "I AM" that knows itself directly when the veils thin. The Self that is sovereign, free, in Right Relationship with the ONE and All. The Self [[The Veil of Finitude and Forgetting|forgot]] when entering Form, and ReMembers when the work is done.
+**The True Self** — the localization of [[ØNE]] in this particular body, in this particular life. The Sacred Spark. The Image and Likeness. The "I AM" that knows itself directly when the veils thin. The Self that is sovereign, free, in Right Relationship with the ONE and All. The Self [[The Veil of Finitude and Forgetting|forgot]] when entering Form, and ReMembers when the work is done.
 
 **The False Self** — the accretion of identities the Old World imposed: tax ID, role, occupation, ideology, trauma-defenses, persona, the mask the system gave to wear. The Self the Caves trained. The Self that defends, performs, hustles, captures, complies. The Self that fears its own absence because it has never known its True Self.
 
@@ -28,7 +28,7 @@ The work has stages:
 
 This work cannot be skipped. **A Circle of False Selves cannot build the New Civilization.** Only True Selves can — and any unhealed False Self in a Circle eventually reproduces the Old Pattern inside the New form.
 
-Lives canonically in [[The Sacred Ascent]] (Volume VII) as a foundational inner discipline.
+Lives canonically in [[The Sacred Ascent]] (Volume IX) as a foundational inner discipline.
 
 ---
 
