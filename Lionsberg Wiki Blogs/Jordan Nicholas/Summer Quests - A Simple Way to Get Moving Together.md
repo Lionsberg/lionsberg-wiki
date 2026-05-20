@@ -12,7 +12,7 @@ As [[Summer Quests Begin in Africa and Around the World]], your own Summer Quest
 
 ## Why "Quests"?
 
-Recognizing how challenging it can be to discern clearly [[What To Do]] amidst the overwhelming scale of our shared Mission, the [[LIONSBERG System]] revolves around focused, manageable, 90-day [[Seasonal Quests]]. Each Quest intentionally moves us forward Together along the [[Critical Path]] towards meaningful [[Milestones]] on the [[Way]] to our shared [[The Goal|Goal]].
+Recognizing how challenging it can be to discern clearly [[What To Do]] amidst the overwhelming scale of our shared Mission, the [[LIØNSBERG System]] revolves around focused, manageable, 90-day [[Seasonal Quests]]. Each Quest intentionally moves us forward Together along the [[Critical Path]] towards meaningful [[Milestones]] on the [[Way]] to our shared [[The Goal|Goal]].
 
 A Quest is more than a mere task or project—it is a purposeful and meaningful journey, undertaken alongside a fellowship, circle, or team, toward outcomes of genuine significance and [[Value]]. Quests uniquely hold the power to transform our hearts, minds, and communities through dedicated, aligned action.
 

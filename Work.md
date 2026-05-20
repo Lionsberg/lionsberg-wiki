@@ -16,7 +16,7 @@ The [[Energy]] transferred, via the application of [[Force]], along a displaceme
 
 ___
 
-In the [[LIONSBERG System]], Work and our [[Way of Doing]] is not seen as a curse, but rather as the meaningful and upward opportunity to become Co-Creators with [[ØNE]] and [[All]] of the [[Best Possible Future]] for [[All]]. 
+In the [[LIØNSBERG System]], Work and our [[Way of Doing]] is not seen as a curse, but rather as the meaningful and upward opportunity to become Co-Creators with [[ØNE]] and [[All]] of the [[Best Possible Future]] for [[All]]. 
 
 [[Meaningful Work]] is the positive [[Way]] we develop our [[Selves]] and our [[Society]]. 
 

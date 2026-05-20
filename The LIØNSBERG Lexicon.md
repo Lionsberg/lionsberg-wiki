@@ -602,7 +602,7 @@ This domain integrates:
 65. [[LIONSBERG]]  
 66. [[LIONSBERG Narrative Universe]]  
 67. [[LIØNSBERG Lexicon]]  
-68. [[LIONSBERG System]]  
+68. [[LIØNSBERG System]]  
 69. [[The LIONSBERG Co-Creator's Handbook]]  
 70. [[The Lionsberg Toolkit]]  
 
@@ -744,10 +744,10 @@ This domain integrates:
 68. [[Work]] at scale demands a [[System]].   
 69. A [[System]] demands a [[Goal]], in this case, [[The Goal]] / [[Meta Goal]]. 
 70. The [[Meta Project]] demands a [[Meta System]].  
-71. We call the [[Incarnation]] of this the [[LIONSBERG System]].  
+71. We call the [[Incarnation]] of this the [[LIØNSBERG System]].  
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]
 73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
-74. The [[LIONSBERG System]] is designed as an Interoperable [[System of Systems]]
+74. The [[LIØNSBERG System]] is designed as an Interoperable [[System of Systems]]
 75. It is designed to be a [[New Earth Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
 76. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].
 
@@ -820,7 +820,7 @@ This domain integrates:
 [[LIONSBERG Universe]]  
 [[LIONSBERG Universe(ity)]]  
 [[The LIØNSBERG Strategy and Plan]]  
-[[LIONSBERG System]]  
+[[LIØNSBERG System]]  
 - [[LIONSBERG Integrated Delivery System]]  
 
 [[The Seven Steps of Transformation]]  

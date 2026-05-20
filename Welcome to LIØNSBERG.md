@@ -180,8 +180,8 @@ After your first gathering, **[[The LIØNSBERG Playbook]]** provides detailed gu
 
 For the master architectural view:
 
-- **[[The LIØNSBERG Sacred Codex]]** — The bound seven-Volume corpus, declared as one architecture. Story, Pattern Language, Great Game, Playbook, Lexicon, Book of LIØNSBERG, Sacred Ascent — one work, in seven movements, within one Wiki.
-- **[[The LIØNSBERG Experience]]** — The 12-Stage Pilgrim's Path through the Codex. The wayfinding companion: what to walk, in what order.
+- **[[The LIØNSBERG Sacred Codex]]** — The bound twelve-Volume corpus, declared as one architecture. Experience, Story, Great Game, Playbook, Plans and Specifications, Strategy and Plan, Program Delivery Guide, Lexicon, Book of LIØNSBERG, Sacred Ascent, Living Substrate, Universe Guide — one work, in twelve movements, within one Wiki. _Nothing materially excluded._
+- **[[The LIØNSBERG Experience]]** — Volume I of the Codex. The Pilgrim's Guidebook: the 12-Stage archetypal arc, the Time Horizons (first minute through first year and beyond), the Daily Way in three tiers (Essential · Devoted · Mastery), the [[The LIØNSBERG Experience|Coherent Cosmic Intention Wave]], and the Wider Calendar of lunar and solar rhythms.
 
 For deeper exploration of specific Volumes and themes:
 

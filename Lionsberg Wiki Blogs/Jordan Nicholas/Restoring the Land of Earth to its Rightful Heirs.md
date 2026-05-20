@@ -437,4 +437,4 @@ As humanity awakens, arises, and moves, it might be wise to consider:
 - [[The Noah Plan - Building the Network of Arks]]  
 - [[The Joseph Plan - Building the Network of Hubs]]  
 - [[The Solomon Plan - Constructing the Wisdom, Governance & Intelligence Systems for The New World]]  
-- The [[LIONSBERG System]] purpose built to enable This.  
+- The [[LIØNSBERG System]] purpose built to enable This.  

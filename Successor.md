@@ -17,7 +17,7 @@ See [[11.57 A Logical Network of Commitments]], [[Network of Commitments]], and 
 
 ## The Deeper Truth: Everything Follows the Quest
 
-In the [[LIONSBERG System]], once you understand that there are no [[Predecessor|Predecessors]] to beginning — that [[13.9 Nothing Can Come First|Nothing Can Come First]] — then everything else becomes a Successor to the decision to arise and move.
+In the [[LIØNSBERG System]], once you understand that there are no [[Predecessor|Predecessors]] to beginning — that [[13.9 Nothing Can Come First|Nothing Can Come First]] — then everything else becomes a Successor to the decision to arise and move.
 
 Your healing, your resources, your community, your capacities — these do not precede the [[Quest]]. They are Successors to it. They emerge _because_ you began, not _before_ you begin.
 

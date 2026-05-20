@@ -6,7 +6,7 @@
 
 ## 🌌 Overview
 
-The **LIONSBERG Narrative Universe** is the mythopoetic, transdimensional storytelling architecture of the [[LIONSBERG System]], designed to unify the infinite diversity of lived experience into a single coherent tapestry. It is the living mythos that encodes and expresses the Logos of the emerging [[New Civilization]], weaving together personal transformation, collective awakening, and cosmic context through layered, interlinked narrative streams.
+The **LIONSBERG Narrative Universe** is the mythopoetic, transdimensional storytelling architecture of the [[LIØNSBERG System]], designed to unify the infinite diversity of lived experience into a single coherent tapestry. It is the living mythos that encodes and expresses the Logos of the emerging [[New Civilization]], weaving together personal transformation, collective awakening, and cosmic context through layered, interlinked narrative streams.
 
 More than fiction. More than myth. More than memoir or history.
 

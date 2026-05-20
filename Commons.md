@@ -8,7 +8,7 @@ ___
 
 The commons are shared resources managed and used collectively by a community or group. These resources can be tangible — shared land, tools, buildings, food systems — or intangible — knowledge, culture, wisdom, digital infrastructure. The concept is rooted in the recognition that certain resources should be accessible to all members of a community and not exclusively controlled or owned by individuals, corporations, or the state.
 
-In the [[LIONSBERG System]], the commons are an essential element that fosters collaboration, shared ownership, and collective responsibility. By recognizing and valuing the commons, individuals and groups can work together to preserve, maintain, and sustain these shared resources for the benefit of all, including future generations.
+In the [[LIØNSBERG System]], the commons are an essential element that fosters collaboration, shared ownership, and collective responsibility. By recognizing and valuing the commons, individuals and groups can work together to preserve, maintain, and sustain these shared resources for the benefit of all, including future generations.
 
 ___
 

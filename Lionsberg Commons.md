@@ -1,6 +1,6 @@
 # Lionsberg Commons
 
-In the [[LIONSBERG System]], the concept of [[Commons]] is fractal in nature, emerging naturally with the creation of each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]].
+In the [[LIØNSBERG System]], the concept of [[Commons]] is fractal in nature, emerging naturally with the creation of each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]].
 
 Each time sovereigns voluntarily associate — individuals into Circles, Circles into communities, communities into bioregions — a new commons comes into being, governed by its own [[Field of Agreements]], protected by its own [[Selectively Permeable Membrane]], and resourced by the [[Voluntary Tithing|voluntary contributions]] of its sovereign members.
 

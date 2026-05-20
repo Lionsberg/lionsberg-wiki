@@ -47,7 +47,7 @@ Without a shared intention, vision, and goal, it will be impossible to align our
 - [[Lionsberg Community]] - Work in progress
 
 ## System Resources
-- [[LIONSBERG System]] - Work in progress
+- [[LIØNSBERG System]] - Work in progress
 
 ## Concepts and Ideas
 - [[Concepts And Ideas]] - Work in progress coming soon

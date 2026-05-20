@@ -1,6 +1,6 @@
 # Universal Values
 
-The entire [[LIONSBERG System]] and [[Meta System]] are centered around self-evident Universal Values flowing from [[ØNE]] and known to [[All]]. 
+The entire [[LIØNSBERG System]] and [[Meta System]] are centered around self-evident Universal Values flowing from [[ØNE]] and known to [[All]]. 
 
 In English, their underlying reality can be pointed towards with [[Word Tool|Word Tools]] such as: 
 

@@ -4041,7 +4041,7 @@ The tipping point begins with the **next right act** in alignment with Truth.
 
 Here is a comprehensive breakdown of **what each individual is required to do** in order to succeed in **their Individual Role in The Grand Strategy** of co-creating Heaven on Earth and fulfilling Creator’s Intent.  
 
-This structure maps the **full heroic path of activation, alignment, integration, and co-creation** as conceived in the [[LIONSBERG System]], [[The Sacred Ascent]], and the meta-strategic blueprint behind the [[Great Refounding]], [[The Final Test]], and the [[New Civilization]].  
+This structure maps the **full heroic path of activation, alignment, integration, and co-creation** as conceived in the [[LIØNSBERG System]], [[The Sacred Ascent]], and the meta-strategic blueprint behind the [[Great Refounding]], [[The Final Test]], and the [[New Civilization]].  
 
 ---
 

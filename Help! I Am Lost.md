@@ -18,7 +18,7 @@ Here is a soft table of contents to help you find your [[Way]].
 6. [[Above the Chaos - WikiCast]] was a series of videos and dialogues hosted by [[J]].   
 7. The [[Lionsberg Wiki Books]] are more structured, formalized works. They [[Circumambulate]] the issues, ideas, and opportunities at stake from a number of perspectives.  
 8. To learn more about the technology underlying the [[LIONSBERG Wiki]], explore [[Collaborative Technology and AI - Pete Kaminski - EP 5]] with J + Pete Kaminski.    
-9. [[The LIØNSBERG Lexicon|The Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[LIONSBERG System]]. 
+9. [[The LIØNSBERG Lexicon|The Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[LIØNSBERG System]]. 
 10. [[A Poetic Map of Content]] and [[Welcome to LIØNSBERG]] are other creative maps to begin to navigate the wiki with
 
 There is lots more—well over two million words of interlinked writing—but this should be enough to get you oriented and headed in the right direction. If you would like to see anything added here, let Us know. 

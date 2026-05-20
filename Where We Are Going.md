@@ -1,7 +1,7 @@
 # Where We Are Going
-The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
+The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
-In the [[LIONSBERG System]], [[Where We Are Going]] corresponds to the Step 1 of the Integrated Delivery System: Intention. 
+In the [[LIØNSBERG System]], [[Where We Are Going]] corresponds to the Step 1 of the Integrated Delivery System: Intention. 
 
 It is a [[Word Tool]] used to point at our [[Potential]], our [[Aim]], which is the [[Highest Intention and Greatest Good]] of which we can presently conceive. 
 

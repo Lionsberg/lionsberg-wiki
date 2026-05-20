@@ -30,11 +30,13 @@ They are designed as one. They are read as one. Each Volume points into the othe
 
 ### Volume I — [[The LIØNSBERG Experience]]
 
-_The Pilgrim's Path. Way-finding through the Codex. The 12-Stage developmental arc._
+_The Pilgrim's Guidebook. The 12 Stages, the Time Horizons, the Daily Way, the Wider Calendar. The individual's operational companion to the bound corpus._
 
-The Experience is the canonical companion that walks the pilgrim through the bound corpus. A reader does not begin by reading the eleven other Volumes cover to cover. They walk the 12-Stage Pilgrim's Path — from Discovery and Threshold through Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, [[Covenant and Jubilee — December 2033]], and finally the Eternal Play. The Experience tells the pilgrim which Volume to reach into, and when.
+The Experience is the canonical guidebook for the Pilgrim's walk at the individual scale. Where [[The LIØNSBERG Playbook|Volume IV — The Playbook]] is the Circle's operational handbook and [[The Sacred Ascent|Volume X — The Sacred Ascent]] is the path of embodied mastery for those called, Volume I is what every Pilgrim walks: the daily, weekly, seasonal rhythm of the individual's encounter with the Way.
 
-Placed at Volume I because every entering pilgrim needs the path before they can navigate the journey.
+It holds four complementary frames. **The 12 Stages** — the archetypal arc: Discovery, Threshold, Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, [[Covenant and Jubilee — December 2033]], Eternal Play. **The Time Horizons** — the natural calendar: first minute, first hour, first day, first week, first month, first season, first year, beyond. **The Daily Way** — in three permissive tiers (Essential, Devoted, Mastery), where seven minutes of morning stillness held in the Coherent Cosmic Intention Wave is the structural floor. **The Wider Calendar** — the lunar and solar rhythms: new moon, full moon, equinoxes, solstices.
+
+Placed at Volume I because every entering pilgrim needs the path, the calendar, and the daily rhythm before they can navigate the rest of the journey.
 
 ### Volume II — [[The Story of LIØNSBERG]]
 

@@ -19,7 +19,7 @@ See [[11.57 A Logical Network of Commitments]] and [[Network of Commitments]] fo
 
 ## The Deeper Truth: Nothing Can Come First
 
-In the [[LIONSBERG System]], the concept of Predecessors carries a second, fractal meaning that transforms its technical function into a spiritual and philosophical imperative.
+In the [[LIØNSBERG System]], the concept of Predecessors carries a second, fractal meaning that transforms its technical function into a spiritual and philosophical imperative.
 
 **There are no Predecessors to beginning to act.**
 

@@ -1,6 +1,6 @@
 # Who We Are Going With
 
-The [[LIONSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
+The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Systems of Integrated Delivery and Self Governance. 
 
 [[Who We Are Going With]] corresponds to Step 3 in the System - Engagement. 
 
