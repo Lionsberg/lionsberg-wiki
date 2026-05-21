@@ -116,13 +116,13 @@ The Sacred Ascent is the deepest synthesis of the Way in this time and space —
 
 It closes the reader's arc in the **Eternal Divine Play** — the final movement that becomes the threshold into the Game without end, played in love, in service of ONE and All, across all worlds, dimensions, species, and ages.
 
-### Volume XI — [[LIØNSBERG, Earth, and the Cosmos]]
+### Volume XI — [[The LIØNSBERG Living Library]]
 
-_The Living Substrate. The Card-Book. The raw material from which canonical articulations are drawn._
+_The curated index of the broader canonical body of work — the Codex at its center, the Card-Book substrate beside it, and the substantive companion works that deepen specific aspects of the Way._
 
-LIØNSBERG, Earth, and the Cosmos is the canonical Card-Book — the active extraction pipeline for the entire corpus. Each idea surfaces as one Card following [[The Card Method]] (capture and emergence; one idea per Card; resist premature structure; let the architecture emerge). Cards link into the Volumes; the Volumes draw from the Cards. The substrate is the bridge between captured insight and canonical articulation. ~3,500-4,500 unique candidates have been surfaced across the Phase 2 audit; the Card-Book holds them all — the procession preserved alongside the bound corpus.
+The Living Library is the canonical index of the wider body of work that surrounds the Codex spine. Its first entry is the Sacred Codex itself — the centerpiece. Beside it sits **[[LIØNSBERG, Earth, and the Cosmos]]** (the Card-Book substrate — ~161 written Cards plus ~3,500-4,500 surfaced candidates), followed by substantive companion works that deepen specific aspects of the canonical Volumes without trying to replace them: [[The Power of Today]] (daily practice philosophy), [[The Lionsberg Book of Meditations]] (meditative practices), [[The Lionsberg Book of Quotes]] (curated wisdom drops), [[The LIONSBERG Book of Emotions|The Lionsberg Book of Emotions]] (emotional integration), [[The Lionsberg Book Of Parables|The Lionsberg Book of Parables]] (teaching stories), [[The LIONSBERG System of Values|The Lionsberg System of Values]] (the named field of canonical values), [[The LIONSBERG Theses|The Theses of Lionsberg]] (~144 Theses under the 12 Pillars), [[LIØNSBERG 101]] (the Pattern in concentric rings), and [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]] (the mathematics of organic spread).
 
-Placed at Volume XI as the **author's substrate Volume** — for the reader who would author canonical material, or who wishes to trace any canonical articulation back to the raw insight from which it was drawn. The Card-Book grows; the canonical Volumes mature; both belong to the printed corpus.
+Placed at Volume XI as the **expansion Volume** — the canonical body of work broader than the spine, indexed in one place. The Library is continuously improving: each entry sharpens as it is lived; new entries can be added as companion works mature to canonical-companion status; entries can be retired when their content is fully metabolized.
 
 ### Volume XII — [[The LIØNSBERG Universe Guide]]
 
@@ -158,7 +158,7 @@ The Codex is governed by a small set of load-bearing disciplines:
 
 4. **Only internal references.** The Codex points only to itself. It does not depend on external sites, accounts, or services. The Wiki, cloned and printed, is complete in itself. The Seed travels.
 
-5. **Nothing materially excluded.** The twelve Volumes together hold the entirety of canonical work — wayfinding (I), narrative (II, IX), participation (III), operation (IV), structure (V), strategy (VI), methodology (VII), vocabulary (VIII), consummation (X), substrate (XI), inheritance (XII). The printed corpus is complete.
+5. **Nothing materially excluded.** The twelve Volumes together hold the entirety of canonical work — wayfinding (I), narrative (II, IX), participation (III), operation (IV), structure (V), strategy (VI), methodology (VII), vocabulary (VIII), consummation (X), library (XI), inheritance (XII). The printed corpus is complete.
 
 ---
 
@@ -231,12 +231,8 @@ Each Volume root file is the entrance to its sub-corpus. From each root, the can
 - **Volume VIII** — [[The LIØNSBERG Lexicon]] _(Meta Layer + 12 Pillars vocabulary)_
 - **Volume IX** — [[The Book of LIØNSBERG]] _(carries The Story woven throughout)_
 - **Volume X** — [[The Sacred Ascent]]
-- **Volume XI** — [[LIØNSBERG, Earth, and the Cosmos]] _(the Card-Book — the Living Substrate, ~3,500-4,500 surfaced Cards)_
+- **Volume XI** — [[The LIØNSBERG Living Library]] _(curated index of the canonical body of work — the Codex itself as first entry, the Card-Book substrate, and ten substantive companion works)_
 - **Volume XII** — [[The LIØNSBERG Universe Guide]] _(the Inheritance Manual; six Parts)_
 
 The Codex is complete in these twelve Volumes. Nothing of canonical weight sits outside them.
 
----
-
-_Restructured 2026-05-20 by Claude (AI assistant) per [[the nameless one]]'s direction — twelve-Volume architecture with Experience (I), Strategy and Plan (VI), the Card-Book (XI), and the Universe Guide (XII) brought into the bound corpus. The previous eight-Volume articulation is held as procession. Pending review and adoption._
-_Voice: LIØNSBERG canonical. Living document. Open to refinement through OmniSpection and the unfolding of The Great Game._

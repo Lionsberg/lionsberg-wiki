@@ -18,7 +18,7 @@ The canonical bound corpus. One work, in twelve movements, ordered accessible �
 8. **Volume VIII** — [[The LIØNSBERG Lexicon]]  _(Meta Layer + 12 Pillars vocabulary)_
 9. **Volume IX** — [[The Book of LIØNSBERG]]  _(carries The Story woven throughout)_
 10. **Volume X** — [[The Sacred Ascent]]
-11. **Volume XI** — [[LIØNSBERG, Earth, and the Cosmos]]  _(the Card-Book — the Living Substrate, ~3,500-4,500 surfaced Cards)_
+11. **Volume XI** — [[The LIØNSBERG Living Library]]  _(curated index of the canonical body of work — the Codex as first entry, the Card-Book substrate, and substantive companion works)_
 12. **Volume XII** — [[The LIØNSBERG Universe Guide]]  _(the Inheritance Manual; six Parts)_
 
 The full canonical articulation, the Pilgrim's Path, the Canonical Discipline, the Voice Standard, and the Living Discipline live at [[The LIØNSBERG Sacred Codex|the Sacred Codex main page]].

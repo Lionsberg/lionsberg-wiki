@@ -8,6 +8,38 @@ The purpose of this page is to provide ongoing updates to the current state of [
 Where we left off: 
 - [ ] Presently working on [[The Great Spring 2026 Wiki Turn]]  
 - [ ] Publish the invitation and request for guidance... 1042. 
+- [ ] ---
+  What is not yet done (project plan pending tasks):
+
+  Structural cleanup remaining:
+  - #88 Volume root migration — three Volume root files still at
+  wiki root (need to move into their wiki book folders): Story
+  (II), Plans and Specifications (V), Lexicon (VIII). Sacred Ascent
+   (X) has its folder. Other Volumes are settled. Small, finite — 
+  ~1 turn. 
+  - #89 Wiki book discernment — ~80 wiki books; Archive folder is
+  set up; obvious archival candidates can begin to move.
+  Multi-turn.
+
+  Substantive creative work pending:
+  - #85 Volume II Story rewrite — the biggest unmet creative need.
+  The Story is dual-functional (standalone + woven through Vol IX);
+   the standalone needs a masterful rewrite. Multi-session.
+  - #86 Volume IX Book reweave — follows the Story rewrite.
+  Multi-session.
+  - #87 Volume III Playbook synthesis — three sources to weave into
+   one. Substantial.
+  - #84 Volume VI Strategy and Plan update — time-bound
+  articulation of where we are in history. Substantive update
+  needed.
+  - #83 Earth-in-receivership PDG integrity review — fold with
+  Story once Story rewrite lands.
+  - #91 / #4.9 LTOE completion — 18 unwritten sections.
+  - #98 (NEW) Pillar Old → New Transitions — 11 more Pillars to
+  articulate. Multi-session.
+  - #97 Pattern Card extraction — multi-session ongoing.
+  - #92 Universe Guide population — story bible / author manual
+  content.
 ◻ Merge and elevate The Sacred Ascent into canonical version…           
 ◻ Articulate The LIONSBERG Pattern Language   
 - Evaluate [[Lionsberg Orientation and Training System]] and merge into something and delete  

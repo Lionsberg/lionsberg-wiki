@@ -12,11 +12,11 @@ Any System divided against itself cannot stand, and the existing [[Order]] we th
 
 But the Good News is there is Hope.  
 
-If any part of you resonates and can hear this whisper, I beg you to wake up, arise, and [Join The Movement](https://jordannicholas.org/join_the_movement).  
+If any part of you resonates and can hear this whisper, I beg you to wake up, arise, and [[Join The Movement]].  
 
 As World War III intensifies, supply lines are attacked, food prices skyrocket, currencies falter, ecosystems are destroyed, [[Values]] are sacrificed, populations are divided and conquered, and the [[Invisible Power Structures]] plot their final moves while the Good People Sleep, the time is short to [[Awaken, Arise, and Unite]] for the Adventure and Opportunity of a lifetime.  
 
-Over the coming months, we will rediscover we are all billionaires, all [[One Family]] of [[God]], whose [[Collective Inheritance]] and Identity has been robbed and concealed.  
+Over the coming months, we will rediscover we are all billionaires, all [[One Family]] of [[ØNE]], whose [[Collective Inheritance]] and Identity has been robbed and concealed.  
 
 It is not too late. There is still [[Hope]]. [[The Future]] can and Should be Better for every family on Earth than it has ever been for Any in the past.  
 
