@@ -32,7 +32,7 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 	- et al. - expandable to a growing array of initiatives  
 - Website - [Lionsberg Wiki](https://lionsberg.wiki)  
 - [[One Sentence]]  - Sums up the entire System / Platform / Community in one sentence  
-- [[Lionsberg Introduction]]  
+- [[Welcome to LIØNSBERG]]  
 - [[Lionsberg Intention]] - The Intention  
 - [[LIONSBERG Goal]] - The Aim
 - [[Core Values]] - Briefly outlines the foundation in universal / core Values  

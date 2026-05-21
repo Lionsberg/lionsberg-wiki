@@ -8,7 +8,7 @@ All Provisional Documents are a [[Work In Progress]]  designed to be continually
 [[The LIONSBERG System of Values]]  
 [[Provisional Code]]  
 [[Provisional Structure]]  
-[[Lionsberg Introduction]]  
+[[Welcome to LIØNSBERG]]  
 [[LIØNSBERG Invitation]]  
 [[The LIØNSBERG Constitution]]  
 [[The Book of LIØNSBERG]]  
