@@ -33,7 +33,7 @@ Each archived item is held under a brief disposition note explaining what was ar
 
 _(Populated as material is processed and archived. Each entry: name · date archived · canonical destination · brief note.)_
 
-_None yet — this folder was created 2026-05-20 as the canonical home for material to be moved here as Phase 3.B.2 (Wiki Book Discernment) and Phase 4 (Pattern Card Extraction) progress._
+- **[[LIONSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]** — _Archived 2026-05-20._ Canonical destination: [[README|the Wiki Homepage]] is the current canonical manifesto; the journey through [[Welcome to LIØNSBERG]] · [[The LIØNSBERG Experience]] · [[The Great Game of LIØNSBERG]] · the rest of [[The LIØNSBERG Sacred Codex|the Codex]] carries the manifesto's promise into operational practice. Note: a 7,186-byte 2023 articulation of the LIONSBERG Manifesto. Superseded by the README's stronger Golden Seed framing. Preserved as procession.
 
 ---
 

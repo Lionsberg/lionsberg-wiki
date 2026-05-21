@@ -1,9 +1,9 @@
 # The Lionsberg Field of Agreements
 
-[[LIONSBERG Manifesto]]  
+[[LIØNSBERG Manifesto]]  
 [[LIONSBERG Declaration of InterDependence]]  
 [[LIONSBERG Core Statements]]  
-[[Lionsberg Core Documents]]  
+[[LIØNSBERG Core Documents]]  
 [[LIONSBERG - History, Inception, and Trust Manifesto]]  
 [[The LIONSBERG System of Values]]  
 [[Provisional Community Agreements]]  

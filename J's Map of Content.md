@@ -12,7 +12,7 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 
 ## Components to Track 
 
-- [[Lionsberg Core Documents]]  
+- [[LIØNSBERG Core Documents]]  
 - [[System Wide Master Planning]]  
 - [[LIONSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  

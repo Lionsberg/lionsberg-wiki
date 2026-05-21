@@ -1,6 +1,6 @@
 # Foundational Literature
 
-- [[LIONSBERG Manifesto]]  
+- [[LIØNSBERG Manifesto]]  
 - [[Lionsberg Wiki Books]]  
 - [[The Book of LIØNSBERG]]  
 - [[Above The Chaos]]  
