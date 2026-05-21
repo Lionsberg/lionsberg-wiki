@@ -77,7 +77,7 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Invitation 
 
-[[Lionsberg Invitation]]  
+[[LIØNSBERG Invitation]]  
 
 ## Staying Together 
 

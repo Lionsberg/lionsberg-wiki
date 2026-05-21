@@ -151,7 +151,7 @@ If you are receiving this, you are counted among the first who will **consciousl
 ____  
 ## **Next Steps: What You Must Do Now**
 
-1. **Awaken.** Begin awakening. Begin learning and sharing. Begin opening your eyes. The **[[LIONSBERG Wiki]]** is a starting point. 
+1. **Awaken.** Begin awakening. Begin learning and sharing. Begin opening your eyes. The **[[LIØNSBERG Wiki]]** is a starting point. 
 2. **Prepare.** Secure your family, your food, your shelter, your network for what lies ahead. [[The Noah Plan - Building the Network of Arks|The Noah Plan]] and [[The Joseph Plan - Building the Network of Hubs|The Joseph Plan]] provide an overview of **the strategy**. I would recommend exiting major cities in an orderly and responsible Way.   
 3. **Connect.** Find others. Help connect **The First Three Percent**. *We cannot do this alone.* Passing The Flame *is the [[Critical Path]].*
 4. **Act.** Join Us. Contribute your gifts. Contribute your resources. Help overcome the [[Meta Crisis]] and co-create the [[New World]] in your own domains of influence, *before the [[Old World]] collapses*.

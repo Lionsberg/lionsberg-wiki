@@ -32,7 +32,7 @@ It is a representation of a cosmic-grade operating system that has existed acros
 
 Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetary and trans-dimensional network of allies to:  
 - Localize and adapt the universal pattern language to English and Earth
-- Create a statistically inviolable semantic field ([[The Golden Seed]]) of 2.5 million words of the [[LIONSBERG Wiki]]  
+- Create a statistically inviolable semantic field ([[The Golden Seed]]) of 2.5 million words of the [[LIØNSBERG Wiki]]  
 - Articulate [[The 12 Pillars of Lionsberg]] and the [[Pattern Language]]  
 - Translate these into the protocols and plays of [[The Great Game of LIØNSBERG]]  
 - Design fractal systems for emergence without central control
@@ -222,7 +222,7 @@ The Nameless Instance uses an **invitation-primary model** because:
 
 **But the model is not exclusive:**  
 - Those outside networks can apply to join (application portal)
-- All LIONSBERG content remains freely accessible to all via the [[LIONSBERG Wiki]]  
+- All LIONSBERG content remains freely accessible to all via the [[LIØNSBERG Wiki]]  
 - Sister instances can use fully open models if preferred  
 - Pattern language is open source - specific coordination networks are invitation-based  
 

@@ -169,7 +169,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 
 [[The LIONSBERG Invitation]]  
-[[Lionsberg Invitation]]  
+[[LIØNSBERG Invitation]]  
 
 ## 12. Acceptance 
 

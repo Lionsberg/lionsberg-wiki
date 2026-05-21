@@ -105,7 +105,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 #### **Spring 2023: The Foundation**
 
 - The LIONSBERG Wiki is established as a transparent open source repository  
-- Foundational literature is published to the [[LIONSBERG Wiki]], including:
+- Foundational literature is published to the [[LIØNSBERG Wiki]], including:
     - The **[[LIONSBERG Manifesto]]**
     - **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]**  
     - **[[The Book of LIØNSBERG]]**  
@@ -248,7 +248,7 @@ ______
 
 #### The Basic Strategy 
 
-1. Continuously improve the [[LIONSBERG Wiki]] and derivative publications   
+1. Continuously improve the [[LIØNSBERG Wiki]] and derivative publications   
 2. Broadcast [[The Message]] to create a field of gravitational attraction 
 3. Extend [[The Invitation]] to those who resonate  
 4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    

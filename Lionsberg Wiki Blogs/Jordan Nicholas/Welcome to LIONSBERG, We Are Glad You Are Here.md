@@ -62,7 +62,7 @@ As you sleep each evening, your mind and Spirit will absorb and integrate all yo
 
 If you have questions:  
         - **First, check [[The LIØNSBERG Playbook]] and [[Frequently Asked Questions]].**
-        - **Second, search the [[LIONSBERG Wiki]].**
+        - **Second, search the [[LIØNSBERG Wiki]].**
         - **Third, ask your Circles.**
         - **If none can answer, [[Submit A Question]] and the core team will do their best to batch and respond to [[Frequently Asked Questions]]**.
 

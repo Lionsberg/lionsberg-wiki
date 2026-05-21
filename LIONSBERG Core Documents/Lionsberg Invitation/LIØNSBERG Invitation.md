@@ -1,4 +1,4 @@
-# Lionsberg Invitation
+# LIØNSBERG Invitation
 
 ## Current Iteration
 
@@ -6,6 +6,7 @@
 ## Previous Versions 
 
 ### Spring 2024 Experiment 
+
 ([[Spring 2024 Experiment]] report for reference)  
 [[The Invitation, Cycle 9]]  
 [[The Invitation, Cycle 8]]  

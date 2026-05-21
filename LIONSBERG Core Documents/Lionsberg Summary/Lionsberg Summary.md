@@ -26,7 +26,7 @@ The [[Lionsberg Wiki Books]] provide foundational literature and address [[The M
 
 The [[Above The Chaos]] series follows the unfolding in real time. 
 
-The [[Lionsberg Invitation]] can be shared to [[Pass The Flame]] and invite the wise right next people to [[Join The Movement]]. 
+The [[LIØNSBERG Invitation]] can be shared to [[Pass The Flame]] and invite the wise right next people to [[Join The Movement]]. 
 
 The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
 

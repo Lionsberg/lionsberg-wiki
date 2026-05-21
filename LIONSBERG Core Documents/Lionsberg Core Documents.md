@@ -9,7 +9,7 @@ All Provisional Documents are a [[Work In Progress]]  designed to be continually
 [[Provisional Code]]  
 [[Provisional Structure]]  
 [[Lionsberg Introduction]]  
-[[Lionsberg Invitation]]  
+[[LIØNSBERG Invitation]]  
 [[The LIØNSBERG Constitution]]  
 [[The Book of LIØNSBERG]]  
 

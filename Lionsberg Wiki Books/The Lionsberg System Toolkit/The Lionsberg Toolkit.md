@@ -10,7 +10,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 - [[The LIONSBERG Co-Creator's Handbook]]  
 - [[Lionsberg Wiki Books]]  
 - [[The Book of LIØNSBERG]]  
-- [[Lionsberg Invitation|The Invitation]]   
+- [[LIØNSBERG Invitation|The Invitation]]   
 - [[Frequently Asked Questions]]  
 - [[Lionsberg Case Studies]]  
 - [[Everything Is A Project]]  

@@ -721,7 +721,7 @@ Of 2-3 million words of interlinked writing
 Across thousands upon thousands of files  
 To hear Jordan and Pete discuss the inception and why  
 Behind the LIONSBERG Wiki and its underlying technology  
-You can find a link here ➡️ [[LIONSBERG Wiki]]  
+You can find a link here ➡️ [[LIØNSBERG Wiki]]  
 
 _The entire wiki can be downloaded to any personal computer_  
 _And interfaced with via **local AI** (not internet dependent)_  

@@ -115,7 +115,7 @@ Already, We are **becoming something entirely [[New]].** Together.
 
 ## **IV. How to Engage & Move Forward**
 
-### **1. Read, Absorb and Integrate the [[LIONSBERG Wiki]].**
+### **1. Read, Absorb and Integrate the [[LIØNSBERG Wiki]].**
 
 - Meditate on [[New]] Ideas.  
 - Keep an Open Mind.  

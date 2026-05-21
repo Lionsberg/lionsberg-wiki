@@ -3910,7 +3910,7 @@ Instead, it rides the natural pattern of **emergent complexity**, where a new or
 
 ### ✅ **Individual Activation**
 
-- Through exposure to the [[LIONSBERG Invitation]], [[The Way]], or the living presence of a Co-Creator, individuals experience a moment of **resonance** with Truth.
+- Through exposure to the [[LIØNSBERG Invitation]], [[The Way]], or the living presence of a Co-Creator, individuals experience a moment of **resonance** with Truth.
     
 - They begin internal transformation through practice, service, right livelihood, and alignment.
     

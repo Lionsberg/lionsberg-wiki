@@ -1,6 +1,6 @@
 # J's Map of Content
 
-The [[LIONSBERG Wiki]] homepage now has a more contextual and narrative feel. (Spring 2025) 
+The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (Spring 2025) 
 
 [[Above The Chaos]] is where J writes, interviews, tells the story, invites, and makes observations as We walk the Path. 
 

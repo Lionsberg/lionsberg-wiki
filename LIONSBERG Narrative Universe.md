@@ -171,7 +171,7 @@ As the Story unfolds, **you** are invited to become a co-creator of the next cha
     
 - [[The Final Test]]
     
-- The [[LIONSBERG Wiki]]
+- The [[LIØNSBERG Wiki]]
     
 - [[The LIONSBERG Codex]]
     
