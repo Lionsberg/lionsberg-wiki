@@ -50,4 +50,4 @@ The Circle that chooses its next Quest together, transforms together.**
 This is how Heaven On Earth is built — not in one great leap, but season by season, Quest by Quest, Circle by Circle, each one wiser than the last.
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

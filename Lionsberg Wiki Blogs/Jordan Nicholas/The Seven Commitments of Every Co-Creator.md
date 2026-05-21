@@ -14,8 +14,8 @@ By joining [[LIONSBERG]], each member affirm their willingness to embrace these 
 
 ---
 
-3. **Form Sovereign [[Circles]], Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
-    Forge autonomous Circles, participate in aligned [[Seasonal Quests]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
+3. **Form Sovereign [[Circles]], Engage in [[The LIØNSBERG Calendar]] and Share [[Stories of Transformation]]:**  
+    Forge autonomous Circles, participate in aligned [[The LIØNSBERG Calendar]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
 
 ---
 

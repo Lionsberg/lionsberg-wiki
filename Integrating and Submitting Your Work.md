@@ -62,4 +62,4 @@ This is not accounting. This is communion.
 This is how We build together.
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

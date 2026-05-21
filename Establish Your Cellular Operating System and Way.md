@@ -119,4 +119,4 @@ each one drawing from and contributing to
 [[The Goal]] we share.
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

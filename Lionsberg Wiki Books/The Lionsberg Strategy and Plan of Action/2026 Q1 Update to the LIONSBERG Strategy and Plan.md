@@ -347,7 +347,7 @@ Every person who resonates forms a Circle, chooses a Quest, and shares the link 
 - 3-12 people (optimal 4-7)
 - Read [[Welcome to LIØNSBERG]] together and step into [[The Story of LIØNSBERG]]  
 - Begin playing [[The Great Game of LIØNSBERG]]
-- Take on [[Seasonal Quests]]  
+- Take on [[The LIØNSBERG Calendar]]  
 - Organize [[The 300]] in your own community 
 - Share Stories of Transformation
 - Invite others to form their own circles

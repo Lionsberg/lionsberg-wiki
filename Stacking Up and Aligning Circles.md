@@ -75,4 +75,4 @@ At every level, the same Pattern. The same Field of Agreements. The same rhythm 
 **This is how a New Civilization grows — not by imposing structure from above, but by allowing the same living Pattern to express itself at every scale, from the smallest Circle to the largest Community and beyond.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

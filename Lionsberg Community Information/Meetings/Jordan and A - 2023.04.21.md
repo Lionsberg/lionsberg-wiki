@@ -27,7 +27,7 @@
 - [[Citizens]] as the empowered heroes 
 - [[Jordan]] as a servant leader / guide 
 - [[LIONSBERG]] as enabling platform / community / gathering place / game / place of voluntary organizing and federating (also servant leader / guide) 
-- Every Citizen finding their own heroic place / role in [[The Story]]
+- Every Citizen finding their own heroic place / role in [[The Story of LIØNSBERG]]
 
 ## 4. Story based messaging and progressive enlightenment 
 - Where are we? 

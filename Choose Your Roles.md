@@ -109,5 +109,5 @@ Now you need the weekly rhythm that turns intention into results.
 **The next play is [[Discern the Wise Right Next Steps]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

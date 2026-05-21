@@ -42,7 +42,7 @@ If you want to dive into more detail, explore:
 
 ## The Invitation
 
-This invitation is going to several select several individuals globally, as well as here locally in Sandpoint, Idaho. If a few Individuals in each group accept, we will be on the Path, and will work together to refine [[The Story]] and craft the invitation to subsequent Individuals in our networks. 
+This invitation is going to several select several individuals globally, as well as here locally in Sandpoint, Idaho. If a few Individuals in each group accept, we will be on the Path, and will work together to refine [[The Story of LIØNSBERG]] and craft the invitation to subsequent Individuals in our networks. 
 
 All that is required in the next few [[Lionsberg Cycles of Growth]] is to expand from 3, to 5, to 8, and then to 13 Co-Creators. 
 

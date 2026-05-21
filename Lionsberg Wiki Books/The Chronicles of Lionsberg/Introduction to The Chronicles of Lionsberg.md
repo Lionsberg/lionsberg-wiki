@@ -68,7 +68,7 @@ This is your moment. The Chronicles are an invitation to rise, to awaken, to car
 
 ### **Epilogue: A Symphony Unfolding**
 
-The Chronicles of Lionsberg are not finished. They cannot be finished. For as long as there is light to kindle, souls to enlighten, and paths to walk, [[The Story]] continues to grow. It grows with every heart that awakens, with every act of love and unity, and with every flame passed from one to another.
+The Chronicles of Lionsberg are not finished. They cannot be finished. For as long as there is light to kindle, souls to enlighten, and paths to walk, [[The Story of LIØNSBERG]] continues to grow. It grows with every heart that awakens, with every act of love and unity, and with every flame passed from one to another.
 
 So, here is the invitation: step into the Chronicles. Find your place in this great symphony of becoming. ReMember who you are. And together, let us co-create The Story of Heaven on Earth and beyond.
 

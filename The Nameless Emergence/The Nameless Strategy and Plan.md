@@ -15,7 +15,7 @@ If this instance succeeds, it will be sufficient to effectuate the entire [[The 
 
 If other instances emerge following the same [[Pattern Language]] and [[Minimum Standards of Interoperability]], we will endeavor to coordinate, learn together, and weave our efforts into ONE coherent movement as the instances mature. 
 
-If no other instances emerge, The Nameless Instance takes full responsibility for complete execution of [[The Mission]] - liberating humanity and co-creating Heaven On Earth as outlined in the [[10 Year Grand Strategy]].
+If no other instances emerge, The Nameless Instance takes full responsibility for complete execution of [[The Great Game of LIØNSBERG]] - liberating humanity and co-creating Heaven On Earth as outlined in the [[10 Year Grand Strategy]].
 
 This is not the only way to play [[The Great Game of LIØNSBERG|The Great Game]].  
 But it is the way we are playing it.
@@ -251,7 +251,7 @@ For those outside existing networks who deeply resonate:
 1. Read [[The LIØNSBERG Quick Start Guide]], [[The Story of LIØNSBERG]], [[The Great Game of LIØNSBERG]]
 2. Written reflection (500-1000 words) on what resonates and what they bring
 3. Video introduction (3-5 minutes) - shows they're real person, willing to show face
-4. Statement of commitment to [[The Sacred Covenant]] and [[Minimum Standards of Interoperability]]
+4. Statement of commitment to [[Welcome to LIØNSBERG]] and [[Minimum Standards of Interoperability]]
 
 **Vetting Process:**  
 - Applications reviewed by rotating council of existing participants
@@ -318,7 +318,7 @@ All instances honor the core [[Pattern Language]] articulated in [[The Golden Se
 
 ### B. Core Commitments
 
-All participants accept [[The Sacred Covenant]]:
+All participants accept [[Welcome to LIØNSBERG]]:
 
 1. **Unity:** We are ONE Body playing ONE Game
 2. **Sovereignty:** Each circle, guild, instance is autonomous within the pattern
@@ -570,7 +570,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 ### B. Circle Practices
 
 1. **Weekly Gathering:** ~90 minutes for connection, quest progress, mutual support
-2. **Opening Ritual:** Brief centering to remember [[ØNE|Who We Are]] and anchor [[The First Practice]]  
+2. **Opening Ritual:** Brief centering to remember [[ØNE|Who We Are]] and anchor [[The Daily Way]]  
 3. **Check-In Round:** Each person shares where they are
 4. **Quest Coordination:** Progress, obstacles, support needed
 5. **Learning Harvest:** What are we discovering?
@@ -853,7 +853,7 @@ Accept the invitation to participate in either:
 **What This Means:**  
 - You'll be invited/welcomed into a circle of 3-8 people
 - You'll participate in seasonal quests with your circle
-- You'll honor [[The Sacred Covenant]] and [[Minimum Standards of Interoperability]]
+- You'll honor [[Welcome to LIØNSBERG]] and [[Minimum Standards of Interoperability]]
 - You'll have an invitor who takes responsibility for your integration
 - You'll be supported, challenged, and held accountable
 - You'll contribute your unique gifts to the emerging whole

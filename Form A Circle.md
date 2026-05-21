@@ -74,7 +74,7 @@ Two, not one — so the weight is shared, so neither carries it alone, so accoun
 
 Weekly at minimum. In person when possible. By video when geography demands it. **Consistency matters more than perfection.**
 
-Open every gathering with **[[The First Practice]]** — the shared rhythm of pausing, grounding, breathing, remembering, realigning, and recommitting. This is the heartbeat. Without it, you are a committee. With it, you are a living cell of the New.
+Open every gathering with **[[The Daily Way]]** — the shared rhythm of pausing, grounding, breathing, remembering, realigning, and recommitting. This is the heartbeat. Without it, you are a committee. With it, you are a living cell of the New.
 
 A Circle is not a discussion group.  
 A Circle is not a support group.  
@@ -110,5 +110,5 @@ Now it is time to give your Circle its first body of meaningful work.
 **The next play is [[Choose A Quest]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

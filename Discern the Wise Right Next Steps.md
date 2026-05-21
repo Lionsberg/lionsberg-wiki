@@ -34,7 +34,7 @@ At the next gathering, each person reports: *Here is what I promised. Here is wh
 
 Each week when your Circle gathers, this cycle lives at the center of your coordination time:
 
-1. **Open with [[The First Practice]]** — Pause. Ground. Breathe. Remember. Realign. Recommit.
+1. **Open with [[The Daily Way]]** — Pause. Ground. Breathe. Remember. Realign. Recommit.
 
 2. **Review: What DID we accomplish?** — Go around the Circle. Each person shares what they committed to and what they delivered. Celebrate what was completed. Note what was not — without judgment.
 
@@ -97,5 +97,5 @@ Now it is time for the most important play of all.
 **The next play is [[Pass The Flame]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

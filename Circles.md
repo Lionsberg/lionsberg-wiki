@@ -61,4 +61,4 @@ ___
 
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.  
 See [[The LIØNSBERG Playbook]] for ongoing guidance.  
-See [[Your First Quest]] for choosing your first Quest.
+See [[The LIØNSBERG Quick Start Guide]] for choosing your first Quest.

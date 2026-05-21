@@ -198,13 +198,13 @@ Passing through **[[The 144 Gates of Initiation]]**
 
 3. **[[The Threshold]]** ✅ (372 words)
     
-4. **[[The First Step]]** ✅ (209 words)
+4. **[[Welcome to LIØNSBERG]]** ✅ (209 words)
     
 5. **[[The Invitation]]** ✅ (314 words)
     
-6. **[[The Sacred Covenant]]** ✅ (498 words)
+6. **[[Welcome to LIØNSBERG]]** ✅ (498 words)
     
-7. **[[The Story]]**  ✅ (566 words)
+7. **[[The Story of LIØNSBERG]]**  ✅ (566 words)
     
 
 ### 2. **The Great Game** — Orientation to the Whole
@@ -216,35 +216,35 @@ Passing through **[[The 144 Gates of Initiation]]**
 
 ### 3. **Embodiment Sequence** — Role, Practice, Quest
 
-9. **[[Your Role in the Story]]** ✅ (895 words)  
+9. **[[The LIØNSBERG Experience]]** ✅ (895 words)  
     
-10. **[[Circles and Guilds]]** ✅ (606 words)  
+10. **[[The Great Game of LIØNSBERG]]** ✅ (606 words)  
     
-11. **[[The First Practice]]** ✅ (721 words)  
+11. **[[The Daily Way]]** ✅ (721 words)  
     
-12. **[[Your First Quest]]** ✅ (916 words)  
+12. **[[The LIØNSBERG Quick Start Guide]]** ✅ (916 words)  
     
 
 ### 4. **Mission & Beyond** — Collective Convergence
 
-13. **[[The Mission]]** ✅ (761 words)  
+13. **[[The Great Game of LIØNSBERG]]** ✅ (761 words)  
     
-14. **[[Seasonal Quests]]** ✅ (719 words)
+14. **[[The LIØNSBERG Calendar]]** ✅ (719 words)
     
-15. **[[The Great Convergence and Goal]]** ✅ (878 words)
+15. **[[The Goal]]** ✅ (878 words)
     
 16. **[[The Great Game of LIØNSBERG]]** ✅ (993 words)
 
 
 ____  
-Crafted: [[The Strategy For the First 100]]  
+Crafted: [[The LIØNSBERG Strategy and Plan]]  
 
 _____  
 ## The LIONSBERG Playbook
 
 17. **[[The LIØNSBERG Playbook]]** ✅ (541 words) (mythic entry)  
 
-18. **[[The Architecture of The Playbook]]**  ✅  (632 words)
+18. **[[The LIØNSBERG Playbook]]**  ✅  (632 words)
 
 ## The Story of LIONSBERG
 
@@ -262,15 +262,15 @@ _The First Contact, Gates of Entry, and Outer Courts_
     
 - **[[The Threshold]]** — The first crossing into the Experience.
     
-- **[[The Journey Ahead]]** — Orientation for the Path.
+- **[[The LIØNSBERG Experience]]** — Orientation for the Path.
     
-- **[[The First Step]]** — Grounding and remembering.
+- **[[Welcome to LIØNSBERG]]** — Grounding and remembering.
     
 - **[[The Invitation]]** — The call into The Story.
     
-- **[[The Sacred Covenant]]** — The shared vow.
+- **[[Welcome to LIØNSBERG]]** — The shared vow.
     
-- **[[The Story]]** — The mythos and history of this moment in Time.
+- **[[The Story of LIØNSBERG]]** — The mythos and history of this moment in Time.
     
 
 ---
@@ -284,22 +284,22 @@ _The Awakening and Initiation Gates_
 
 **The Foundations of Play**  
 
-- **[[Your Role in the Story]]** — Discovering your part.
+- **[[The LIØNSBERG Experience]]** — Discovering your part.
     
-- **[[Circles and Guilds]]** — First structures of community.
+- **[[The Great Game of LIØNSBERG]]** — First structures of community.
     
-- **[[The First Practice]]** — Anchoring in alignment.
+- **[[The Daily Way]]** — Anchoring in alignment.
     
-- **[[Your First Quest]]** — First embodiment in action.
+- **[[The LIØNSBERG Quick Start Guide]]** — First embodiment in action.
         
 
 **The Rising Convergence**  
 
-- **[[The Mission]]** — The collective convergence.
+- **[[The Great Game of LIØNSBERG]]** — The collective convergence.
     
-- **[[Seasonal Quests]]** — Living in rhythm with Creation.
+- **[[The LIØNSBERG Calendar]]** — Living in rhythm with Creation.
     
-- **[[The Great Convergence and Goal]]** — The Vision of fulfillment.
+- **[[The Goal]]** — The Vision of fulfillment.
         
 
 **The Climactic Reveal**  
@@ -319,7 +319,7 @@ The Playbook is the **practical guide**: how to actually play the Great Game in 
     
 - **[[Opening Page of The Playbook]]** — First activation.
     
-- **[[The Architecture of The Playbook]]** — The map of its Seven Books.
+- **[[The LIØNSBERG Playbook]]** — The map of its Seven Books.
     
 - **Quick Start Kit** — One-page orientation + tools.
     

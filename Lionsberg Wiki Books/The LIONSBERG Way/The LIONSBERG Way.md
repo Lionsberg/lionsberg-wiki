@@ -29,7 +29,7 @@ It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[W
 
 ## The Story of LIONSBERG 
 
-[[The Story]]  
+[[The Story of LIØNSBERG]]  
 [[The Story of LIØNSBERG]]  
 
 Should speak to:  
@@ -95,7 +95,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIONSBERG Mission 
 
-[[The Mission]]  
+[[The Great Game of LIØNSBERG]]  
 [[Lionsberg Mission]]  
 
 ## 14. The LIONSBERG Mandate 

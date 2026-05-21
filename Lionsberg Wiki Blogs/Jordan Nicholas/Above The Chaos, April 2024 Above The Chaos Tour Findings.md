@@ -42,7 +42,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 - National Geographic Photographers Project 
 	- Tag and SpatioTemporally locate photos and make visible  
 	- Surfacing cultures and biodiversity from around the world  
-- [[Zachary Marlow]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story]]. 
+- [[Zachary Marlow]] - via [[Day Waterbury]] - has a 5 year backlog of film footage and interviews from around the world. We will help set up a production team and unfurl [[The Story of LIØNSBERG]]. 
 - Planet.com - via [[George Orbelian]]  
 - Planetlive.at - via [[George Orbelian]]   
 - [[Barbara Merz]] - via [[George Orbelian]]  
@@ -173,8 +173,8 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- Protection  
 	- Access in 100 or 1,000 years  
 	- [[Interoperability]] across [[SpaceTime]] 
-	- How do we tell [[The Story]] / [[The People's History]]?  
-	- How do we better protect contributors who are putting their lives at risk to tell their side of [[The Story]]?  
+	- How do we tell [[The Story of LIØNSBERG]] / [[The People's History]]?  
+	- How do we better protect contributors who are putting their lives at risk to tell their side of [[The Story of LIØNSBERG]]?  
 	- [[Natalie Cadranel]] - Open Archive - speaker at Funding The Commons - [[Jordan Nicholas Sukut]] debriefed with her. 
 	- [[Brian Roemmele]] - https://twitter.com/BrianRoemmele is another expert 
 	- Witness, Guardian of the Press, Freedom of the Press are other orgs [[Natalie Cadranel]] mentioned 

@@ -33,7 +33,7 @@ ______
     
 - [[What is LIONSBERG?]] — quick definition and why it matters now.
     
-- [[Your Role in the Story]] — personalize the invitation.
+- [[The LIØNSBERG Experience]] — personalize the invitation.
     
 - [[How to Use This Wiki]]
     

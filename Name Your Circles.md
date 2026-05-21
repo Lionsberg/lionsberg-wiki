@@ -61,4 +61,4 @@ Now it needs its foundation — the shared covenant that makes trust possible.
 **The next play is [[Forge a Field of Agreements]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

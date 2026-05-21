@@ -27,7 +27,7 @@ This decentralized yet aligned structure is essential for humanity to pass [[The
 **Structure**  
 The First Three Percent will organize themselves into:
 
-1. **Impact Teams**: Autonomous teams of 3 to 16 individuals (optimally 5 to 7) actively engaged in [[Seasonal Quests]]—focused, time-bound missions designed to generate transformative action.
+1. **Impact Teams**: Autonomous teams of 3 to 16 individuals (optimally 5 to 7) actively engaged in [[The LIØNSBERG Calendar]]—focused, time-bound missions designed to generate transformative action.
 2. **Local Groups**: Anchor groups of 300 individuals within each community of 10,000, fostering resilience and coherence at the local level.
 3. **Regional and Bioregional Networks**: Interconnected clusters of local groups and teams, sharing knowledge, resources, and strategies to strengthen broader bioregional resilience.
 4. **Universal Alliance**: A planetary and cosmic network dedicated to co-creating harmony and flourishing on Earth and beyond.

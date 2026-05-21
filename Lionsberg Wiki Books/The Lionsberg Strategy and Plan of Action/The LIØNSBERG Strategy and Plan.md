@@ -539,7 +539,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### Refounding Civilization 
 
 1. We understand that nothing short of [[The Great Refounding]] of our Civilization is sufficient to prevent a [[Collapse]] of the [[Existing Order]]    
-2. We collectively forge a historic Foundational moment in [[The Story]], paving the [[Way]] for Life and Society to flourish through the Millennia to come. 
+2. We collectively forge a historic Foundational moment in [[The Story of LIØNSBERG]], paving the [[Way]] for Life and Society to flourish through the Millennia to come. 
 ### Mission Control and the 10 Year Grand Strategy  
 
 1. Zooming back in, we recognize our [[SpatioTemporal Location]] aboard Earth  
@@ -1821,7 +1821,7 @@ We do not want to merely survive [[The 7 Year Window of Crisis and Opportunity]]
 
 1. We invite each individual to progressively articulate their [[Individual Stories]]  
 2. We ensure that every individual is clear on Where They Are, How They Got Here, Where They Are Going, With Who, and Why.  
-3. We invite each individual to weave their [[Individual Story]] into [[The Tapestry]] / [[The Story]].   
+3. We invite each individual to weave their [[Individual Story]] into [[The Tapestry]] / [[The Story of LIØNSBERG]].   
 ### Daily Practice 
 
 1. Recognizing [[The Power of Today]], we forge a new [[Daily Practice]] and set of [[Protocols For Flourishing]]  

@@ -629,7 +629,7 @@ This domain integrates:
 
 ## Story 
 
-88. [[Story]] / [[Stories]] / [[Story of Stories]] / [[The Story]]  
+88. [[Story]] / [[Stories]] / [[Story of Stories]] / [[The Story of LIØNSBERG]]  
 89. [[Narrative]] / [[Narrative Framework]] / [[Narrative Structure]] / [[Narrative Universe]] / [[The Narrative Universe]] / [[Narrative Lens]]  
 90. [[Meta Ideal]] / [[Categories]] / [[Ideal]] / [[Archetypical]] / [[Archetype]] / [[Prototype]] / [[Incarnation]] / [[Instance]]  
 91. [[Who We Are]], [[Where We Are]],  [[How We Got Here]], [[Where We Are Going]], [[Who We Are Going With]], and [[Why]]  

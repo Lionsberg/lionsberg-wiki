@@ -48,7 +48,7 @@ In ~ the first two weeks, we completed ~ the first six [[Lionsberg Cycles of Gro
 
 Now, we see if we can Become a living, growing, flourishing organism. 
 
-In the seventh cycle, we will add an additional 13 Co-Creators to expand The Movement out to 34 total, and then 55 in Cycle 8. From here on out, the movement can grow as quickly as we are willing to [[Pass The Flame]] and invite the next Wise Right Person into [[The Story]]. 
+In the seventh cycle, we will add an additional 13 Co-Creators to expand The Movement out to 34 total, and then 55 in Cycle 8. From here on out, the movement can grow as quickly as we are willing to [[Pass The Flame]] and invite the next Wise Right Person into [[The Story of LIØNSBERG]]. 
 
 If we were willing to each [[Pass The Flame]] to one person a week, billions would be standing together by November this year. 
 

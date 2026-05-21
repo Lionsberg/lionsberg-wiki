@@ -5113,10 +5113,10 @@ ______
 
 TKTK - Left off Here... Published... then folded into the logic of The LIONSBERG Experience folder:  
 - [[README]]  
-- [[The First Step]]  
+- [[Welcome to LIØNSBERG]]  
 - [[The Invitation]]  
-- [[The Sacred Covenant]]  
-- [[The Story]]  
+- [[Welcome to LIØNSBERG]]  
+- [[The Story of LIØNSBERG]]  
 - [[The Great Game]]  
 - The LIONSBERG Playbook  
 - The LIONSBERG Sacred Codex 

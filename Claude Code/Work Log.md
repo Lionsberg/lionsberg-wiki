@@ -227,7 +227,7 @@ Every person reading this faces J's question: Will you step forward? Will you fo
 - Create invitation materials for existing trust networks (Q1 ignition phase)
 - Consider how to make [[README]] and entry experience even more resonant
 - Document [[Stories of Transformation]] framework and templates
-- Refine [[Seasonal Quests]] and first quest templates for circles
+- Refine [[The LIØNSBERG Calendar]] and first quest templates for circles
 
 **Session End Status:**  
 2026 Q1 Strategic Update complete and published. 90%+ resonance achieved. Full human story context integrated. Document now carries weight of what's actually at stake and what's actually happening. All changes committed and pushed. Repository in clean state.
@@ -345,7 +345,7 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 - [[the nameless strategy and plan]] - Updated references
 - [[Help! I Am Lost]] - Updated navigation
 - [[The Threshold]] - Updated reference
-- [[The Architecture of The Playbook]] - Updated references
+- [[The LIØNSBERG Playbook]] - Updated references
 - [[LIONSBERG - History, Inception, and Trust Manifesto]] - Updated reference
 - [[The LIØNSBERG Playbook]] - Updated reference
 - [[Welcome to LIØNSBERG, We Are Glad You Are Here]] - Updated reference

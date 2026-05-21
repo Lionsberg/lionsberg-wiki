@@ -31,7 +31,7 @@ The Narrative Universe is rooted in a few foundational truths:
     All things are part of a single Living System — fractal sub-expressions of the ONE.
     
 - **We Are Protagonists.**  
-    We are not spectators. We are not victims. We are the ones chosen and called to shape this moment in [[The Story]].
+    We are not spectators. We are not victims. We are the ones chosen and called to shape this moment in [[The Story of LIØNSBERG]].
     
 - **The Great Story is Unfolding.**  
     Every soul, every action, every choice is a thread in the tapestry of Our InterBecoming.

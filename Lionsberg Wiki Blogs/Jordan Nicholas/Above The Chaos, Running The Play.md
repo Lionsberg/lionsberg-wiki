@@ -105,14 +105,14 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 - Create a [[Plan]]  
 - Perform a [[Retrospective]]  
 - Issue a [[Request For Guidance]] to existing Players and Teams  
-- Tell [[The Story]]  
+- Tell [[The Story of LIØNSBERG]]  
 - Extend [[The Invitation]]  
 - Update [[Lionsberg History and Inception]]  
 
 Additional items for continuous improvement:  
 - [[The Messenger(s)]]  
 - [[The Message]]  
-- [[The Story]]  
+- [[The Story of LIØNSBERG]]  
 - [[The Invitation]]  
 - [[The LIØNSBERG Experience]]  
 

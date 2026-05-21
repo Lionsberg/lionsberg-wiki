@@ -10,7 +10,7 @@ Through that time, I have have come to know things I cannot unknow, triangulated
 
 What is evident is that the new society and order that rises from the ashes of the old has the potential to be far, far worse... approaching Hell on Earth... or far, far better... approaching Heaven on Earth. 
 
-Whether we accelerate towards Heaven or Hell depends on entirely on Us, the Citizens of Earth, and whether and how we *consciously choose* to inter-exist and inter-act at this crucial juncture in [[The Story]]. We are the co-creators of our [[Destiny]]. 
+Whether we accelerate towards Heaven or Hell depends on entirely on Us, the Citizens of Earth, and whether and how we *consciously choose* to inter-exist and inter-act at this crucial juncture in [[The Story of LIØNSBERG]]. We are the co-creators of our [[Destiny]]. 
 
 What is also apparent is that our actions exist in a [[Context]], and that context includes the collapsing [[Order]], the forces of [[Evil]] consciously working towards that end, and the expanding [[Suffering]] that inevitably encompasses these dynamics. 
 

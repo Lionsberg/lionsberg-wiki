@@ -41,6 +41,6 @@ ___
 
 ___
 
-See [[Your First Quest]] for guidance on choosing and beginning.  
+See [[The LIØNSBERG Quick Start Guide]] for guidance on choosing and beginning.  
 See [[The LIØNSBERG Quick Start Guide]] for how Quests fit into your first gathering.  
 See [[The LIØNSBERG Playbook]] for ongoing Quest guidance.

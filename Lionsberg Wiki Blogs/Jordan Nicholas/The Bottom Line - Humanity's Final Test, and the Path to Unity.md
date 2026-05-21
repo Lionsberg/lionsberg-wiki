@@ -86,8 +86,8 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 2. **Embrace Shared Principles and Protocols:**  
     Align with [[Truth]], [[Love]], [[Justice]], [[Wisdom]], [[Stewardship]], and [[Co-Creation]], while abiding by the [[Minimum Standards of Interoperability]].  
     
-3. **Engage in [[Seasonal Quests]]:**  
-    Forge autonomous teams, and collaborate on 90-day [[Seasonal Quests]] that create measurable progress and advance the [[Critical Path]]. 
+3. **Engage in [[The LIØNSBERG Calendar]]:**  
+    Forge autonomous teams, and collaborate on 90-day [[The LIØNSBERG Calendar]] that create measurable progress and advance the [[Critical Path]]. 
     
 4. **Contribute [[The First Tenth]]:**  
     Dedicate 10% of your time and resources to [[The Commons]], empowering mutual aid and collective flourishing.

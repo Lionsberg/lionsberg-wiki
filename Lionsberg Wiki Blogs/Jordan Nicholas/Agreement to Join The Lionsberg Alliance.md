@@ -48,8 +48,8 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 
 ---
 
-3. **Engage in [[Seasonal Quests]] and Share [[Stories of Transformation]]:**  
-    Forge autonomous teams, participate in aligned 90-day [[Seasonal Quests]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
+3. **Engage in [[The LIØNSBERG Calendar]] and Share [[Stories of Transformation]]:**  
+    Forge autonomous teams, participate in aligned 90-day [[The LIØNSBERG Calendar]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
 
 ---
 
@@ -84,7 +84,7 @@ By accepting this invitation, you affirm your willingness to:
 
 - Join as a sovereign individual, free and unbound.
 - Embrace the principles of truth, love, justice and co-creation.
-- Forge Teams and engage in meaningful [[Seasonal Quests]] that advance the [[Critical Path]] towards [[The Goal]]. 
+- Forge Teams and engage in meaningful [[The LIØNSBERG Calendar]] that advance the [[Critical Path]] towards [[The Goal]]. 
 - Contribute [[The First Tenth]] of your unique gifts and the resources We co-create to [[The Commons]], knowing that as you lift up All others, you too will rise.
 - [[Pass The Flame]], doing your part to invite, connect, and empower [[The First Three Percent]] by 2026. 
 - Walk [[The Path]] of [[The Sacred Ascent]], rising towards the fullness of your potential and co-creating a [[New Civilization]], by helping [[All]] others do the same. 

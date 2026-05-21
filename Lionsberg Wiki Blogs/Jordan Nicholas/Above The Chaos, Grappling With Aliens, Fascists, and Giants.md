@@ -7,7 +7,7 @@ Over the last months as We advanced Our Quest towards [[Heaven On Earth]], I was
 
 The findings, if True, affect your family and loved ones more than you may be able to imagine, so please, take the 10 minutes to read this, and continue on to [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]] if you find the information relevant to your survival. 
 
-As [[The Story]] predicts, it turns out that [[The Promised Land]] We are advancing towards is guarded by quite an array of fearsome creatures and giants, representing multiple advanced civilizations. Life-in-Universe turns out to be quite a bit more diverse and inter-active than most humans have been led to believe. 
+As [[The Story of LIØNSBERG]] predicts, it turns out that [[The Promised Land]] We are advancing towards is guarded by quite an array of fearsome creatures and giants, representing multiple advanced civilizations. Life-in-Universe turns out to be quite a bit more diverse and inter-active than most humans have been led to believe. 
 
 I have begun to summarize some of what is being revealed in a new [[Lionsberg Wiki Books|Lionsberg Wiki Book]] called [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]. 
 
@@ -17,7 +17,7 @@ As difficult as it might be to hear and believe, for at least a couple thousand 
 
 Each of us that is Here Now was born into a multi-dimensional war that we did not choose, but that we must recognize and finish if we are to avoid generations of suffering, tyranny, and slavery under aliens, giants, and fascists. 
 
-Modern stories like The Lord of the Rings, The Chronicles of Narnia, The Matrix, The Truman Show, the Marvel series, Star Wars, Stargate Atlantis, and the Foundation series prepared us for aspects of [[The Story]] that would be revealed in our lifetimes. They touched our hearts and minds for a reason. 
+Modern stories like The Lord of the Rings, The Chronicles of Narnia, The Matrix, The Truman Show, the Marvel series, Star Wars, Stargate Atlantis, and the Foundation series prepared us for aspects of [[The Story of LIØNSBERG]] that would be revealed in our lifetimes. They touched our hearts and minds for a reason. 
 
 Ancient stories from indigenous tribes, preserved tablets, and sacred scriptures carried memories and "myths" through the ages, that we are finally rediscovering to be True. 
 
@@ -106,7 +106,7 @@ As it turns out, our local [[Fascist Security State]] here on Earth has been col
 
 We are now in the opening stages of [[The 7 Year Window of Crisis and Opportunity]], during which humanity is faced with a once-in-a-millennia opportunity to awaken, transform our consciousness, transcend the lines that have separated us in the past, and reunite as [[ONE Body]] to escape [[Employee Consumer Debt Slavery]] and co-create [[Heaven On Earth]]. 
 
-However there is a very uncomfortable part of [[The Story]] that we cannot skip over:  
+However there is a very uncomfortable part of [[The Story of LIØNSBERG]] that we cannot skip over:  
 [[The Promised Land]] is guarded by aliens, demons, and giants that won't simply allow us to enter in. To get there, we must first journey through [[The Wilderness]] and prevail in [[The War]] for the future of Civilization.  
 
 Further, in order to avoid an outright [[Collapse]], the [[New]] and [[Higher Order Functional Unity]] must be rapidly and voluntarily forged from the Bottom Up ***before*** the [[Existing Order]] disintegrates into [[Chaos]] or Tyranny, and the [[Fascist Security State]](s) move to consolidate power absolutely. 

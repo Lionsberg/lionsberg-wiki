@@ -71,4 +71,4 @@ The Great Game advances not only through action, but through the telling of what
 **Tell the story. [[Pass The Flame]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

@@ -135,5 +135,5 @@ And watch the ancient pattern come alive — one Circle becoming two, two becomi
 **ONE by ONE by ONE, until All are Free.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.

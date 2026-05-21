@@ -63,4 +63,4 @@ You do not need permission to federate. You need only shared purpose, mutual tru
 **The Body is assembling itself. Your Circle is one of its cells. Together, We become something none of Us could become alone.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

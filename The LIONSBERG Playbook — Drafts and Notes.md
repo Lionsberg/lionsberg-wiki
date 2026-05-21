@@ -81,7 +81,7 @@ _The Structures of the Game — Entering and Playing Well_
     
 - **[[Fields of Agreement]]** — Membranes and covenants that shape Domains.
     
-- **[[Circles and Guilds]]** — Basic units of trust and collaboration.
+- **[[The Great Game of LIØNSBERG]]** — Basic units of trust and collaboration.
     
 - **[[Quests and Seasons]]** — Cycles of action, renewal, and alignment with Creation.
     

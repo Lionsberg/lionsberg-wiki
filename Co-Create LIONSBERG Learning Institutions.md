@@ -98,4 +98,4 @@ It needs learning institutions that produce **free, empowered, sovereign beings*
 ready to take their place in the Great Work.  
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  

@@ -69,4 +69,4 @@ This is how [[The First Three Percent]] emerges.
 This is how the world changes — one Circle planting the next, the flame passing from hand to hand, until the whole Earth is alight.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

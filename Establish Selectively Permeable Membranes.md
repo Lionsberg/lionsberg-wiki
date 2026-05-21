@@ -65,4 +65,4 @@ Set it with care. Tend it with discernment. And remember: the purpose of the mem
 Your Circle is named, covenanted, rhythmed, structured, governed, and bounded.  
 It is alive. Now tend it — and when the time comes, help it multiply.
 
-Return to [[The Architecture of The Playbook]] for the full navigation.
+Return to [[The LIØNSBERG Playbook]] for the full navigation.

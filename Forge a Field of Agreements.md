@@ -90,4 +90,4 @@ Now it is time to set the rhythm that keeps your Circle alive.
 **The next play is [[Set Your Cadence]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

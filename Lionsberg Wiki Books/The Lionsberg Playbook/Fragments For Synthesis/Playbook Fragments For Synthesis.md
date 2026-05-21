@@ -6,7 +6,7 @@ _Held here pending integration into the elevated Volume IV — The LIØNSBERG Pl
 
 ## What These Are
 
-29 numbered fragment files (1.1 through 5.2) that were previously orphaned at the wiki root. They appear to belong to an **earlier draft of the Playbook** — linked from `[[The Architecture of The Playbook]]` (in `LIONSBERG Experience/`) which references them as Parts I-V of a Playbook structure.
+29 numbered fragment files (1.1 through 5.2) that were previously orphaned at the wiki root. They appear to belong to an **earlier draft of the Playbook** — linked from `[[The LIØNSBERG Playbook]]` (in `LIONSBERG Experience/`) which references them as Parts I-V of a Playbook structure.
 
 These fragments are **one of three sources** to be metabolized in the [[The Great Spring 2026 Wiki Turn|Phase 2.8 Playbook synthesis]] (project plan task #87):
 

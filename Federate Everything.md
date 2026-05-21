@@ -82,4 +82,4 @@ Cell by cell, Circle by Circle,
 until the Body is Whole.  
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  

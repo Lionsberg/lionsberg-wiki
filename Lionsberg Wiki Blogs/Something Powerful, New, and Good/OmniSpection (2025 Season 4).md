@@ -24,7 +24,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 ### _A Context of Crisis_
 
-1. It is evident to [[Many of Us]] that [[The Story]] humanity was told is [[UnTrue]]
+1. It is evident to [[Many of Us]] that [[The Story of LIØNSBERG]] humanity was told is [[UnTrue]]
     
 2. It is evident to [[Many of Us]] that We find Our Selves in a Time of Crisis  
     

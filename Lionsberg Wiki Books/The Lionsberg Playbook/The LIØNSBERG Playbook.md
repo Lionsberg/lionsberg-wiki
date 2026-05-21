@@ -77,7 +77,7 @@ If you have already gathered your Circle, **[[The LIØNSBERG Quick Start Guide]]
 
 ## The Full Architecture
 
-For the complete index of every Part, chapter, and play, see **[[The Architecture of The Playbook]]**.
+For the complete index of every Part, chapter, and play, see **[[The LIØNSBERG Playbook]]**.
 
 ---
 

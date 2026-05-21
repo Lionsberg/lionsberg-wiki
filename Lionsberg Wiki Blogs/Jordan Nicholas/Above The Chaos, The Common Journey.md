@@ -52,7 +52,7 @@ The crucial thing about belief is that it is possible for a [[Vision]] to become
 
 ## Becoming The Heroes of The Story 
 
-Bringing the [[Better World]] we have envisioned into [[Reality]] requires that we [[All]] awaken, arise, unite, and become [[The Heroes]] of [[The Story]]. 
+Bringing the [[Better World]] we have envisioned into [[Reality]] requires that we [[All]] awaken, arise, unite, and become [[The Heroes]] of [[The Story of LIØNSBERG]]. 
 
 It requires remembering that [[We Are The Ones We Have Been Waiting For]], and rediscovering the Spirit, Hope, and Faith that impel us to move, together, towards [[The Goal]]. 
 

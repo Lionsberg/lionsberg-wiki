@@ -56,7 +56,7 @@ As you **set your feet on [[The Path]]** and begin to **connect with your [[Circ
 
 The most important thing for now is to get into action with your Circles as immediately and powerfully as possible. Memories, insights, and deeper questions and understandings will surface as you take action and begin to connect with others who are playing **The Great Game**.  
 
-The key is continual cycles of [[SenseMaking]], leading to [[Seasonal Quests]], [[Retrospection]] and renewed action. Over and over again, in 90 days cycles, as Heaven comes to Earth. 
+The key is continual cycles of [[SenseMaking]], leading to [[The LIØNSBERG Calendar]], [[Retrospection]] and renewed action. Over and over again, in 90 days cycles, as Heaven comes to Earth. 
 
 As you sleep each evening, your mind and Spirit will absorb and integrate all you are learning, and each morning you will feel more comfortable.  
 

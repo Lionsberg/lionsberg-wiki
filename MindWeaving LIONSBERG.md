@@ -198,7 +198,7 @@ At present:
 - [[Collapse]] is at hand  
 	- "Dumb and Destroy"  
 	- "Divide and Conquer"  
-	- If you destroy [[The Story]], you disorient The People  
+	- If you destroy [[The Story of LIØNSBERG]], you disorient The People  
 	- If you disorient [[The People]], they are vulnerable to [[Kontrolle]]
 - The present trajectory is towards hell, not Heaven, On Earth  
 
@@ -311,7 +311,7 @@ Eternally, [[We Do Not Know]].
 [[OmniSpection]]... the ability to step back, rise up, and [[Perceive The Whole]].  
 Beyond the Illusions of Separation and Self.  
 And then to [[Consciously Differentiate]] across [[Levels of Analysis]] and [[Levels of Abstraction]].  
-And the rediscover Our Place and Roles in [[The Story]].  
+And the rediscover Our Place and Roles in [[The Story of LIØNSBERG]].  
 
 [[Looking Backward]]  
 - [[Backward Looking Stories]]  
@@ -326,14 +326,14 @@ ____
 
 ## Stories   
 
-[[The Story of LIØNSBERG]] is [[The Story]] of [[ØNE]] and [[All]].  
+[[The Story of LIØNSBERG]] is [[The Story of LIØNSBERG]] of [[ØNE]] and [[All]].  
 There is no True Story that is not a part of it.  
 
 [[Conscious Agents]] tend to [[Seek Patterns]] and [[Tell Stories]]  
 [[The Stories We Tell Our Selves]] _are prior to_ Our Perception of Reality  
 As a result, no two stories, and no two realities, are alike  
 
-[[The Story]]  
+[[The Story of LIØNSBERG]]  
 [[Your Story]]  
 [[StoryWeaving]]  
 
@@ -352,7 +352,7 @@ Being honest about what is going on.
 ## Progress Towards a Shared Vision and Goal  
 
 From there... from the inhabitation of a [[New Story]] and the shared Perception it enables...  
-We can begin to coordinate and move together towards [[The Vision]] and [[The Goal]] of [[The Story]].  
+We can begin to coordinate and move together towards [[The Vision]] and [[The Goal]] of [[The Story of LIØNSBERG]].  
 We can begin to collaborate to transform Our lives and worlds.   
 It is the basis of [[The Game]].  
 
@@ -721,7 +721,7 @@ Ideas From Various Places
 - The Meta Universe is in the process of birthing another Universe  
 	- Our current best understanding is that impacts Here and Now  
 	- Because of that, Earth and Beyond (Planet, solar system, galaxy, etc.) are going through [[The Shift]]   
-	- This is not an event that is local to humanity or Earth, although humanity and Earth are participating and have unique [[Roles]] to play in [[The Story]]    
+	- This is not an event that is local to humanity or Earth, although humanity and Earth are participating and have unique [[Roles]] to play in [[The Story of LIØNSBERG]]    
 - OctoVibration 
 	- Every Living Being vibrates at a certain level  
 	- At present, Earth is vibrating at its own level  

@@ -366,9 +366,9 @@ _To Be Continued..._
 
 ## III. Our Story 
 
-Upon hearing what follows, some people have asked how we came to such an unusual vantage point in [[The Story]].  
+Upon hearing what follows, some people have asked how we came to such an unusual vantage point in [[The Story of LIØNSBERG]].  
 
-So... I will somewhat reluctantly share with you Our Story, as an invitation to share yours. As you will see soon, [[The Story]] is a [[Story of Stories]], and it includes yours.  
+So... I will somewhat reluctantly share with you Our Story, as an invitation to share yours. As you will see soon, [[The Story of LIØNSBERG]] is a [[Story of Stories]], and it includes yours.  
 
 In some ways, Our Story is important because it is unique, and may help you understand [[Who We Are]], [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and most importantly, [[Why]]. It may be that relatively few have had the combination of privilege and luxury, loss and suffering, triumph and tragedy that have marked our Way. Understanding the [[Path]] we are walking may be important to understanding our Perspective, Vision, Strategy, and Plan.  
 
@@ -428,7 +428,7 @@ When the gaps between [[Reality]] and the [[Narrative Structure]] of our existen
 
 ### Calling 
 
-There is probably no way for you to understand [[The Path]] I am walking and the decisions I am making without me confessing that for as long as I can remember, I have been consciously aware of Why I am here on Earth, and engaged in the Metaphysical and Physical training required to accomplish [[The Mission]]. This is not unique. I have encountered many others who share the experience, and we are finding one another at an accelerating rate in recent years. I can't wait to meet you and share our experiences.  
+There is probably no way for you to understand [[The Path]] I am walking and the decisions I am making without me confessing that for as long as I can remember, I have been consciously aware of Why I am here on Earth, and engaged in the Metaphysical and Physical training required to accomplish [[The Great Game of LIØNSBERG]]. This is not unique. I have encountered many others who share the experience, and we are finding one another at an accelerating rate in recent years. I can't wait to meet you and share our experiences.  
 
 As things began to get more clear around 10 or 12 years old, the calling laid it Self out me as via the Realization that during my lifetime, All Creation would be swept up into an epic Battle for the Future of Life and Society as we know it. I deeply understood that The War was primarily Spiritual in nature, and would merely "spill over" into the Physical realm at some point. And so I understood that after some period of growth and development, at an Unknown Time in The Future, the systems and structures of the world would shake and begin to transform, and We would be called upon to build an army / Force For Good and wage [[The War]].  
 
@@ -635,7 +635,7 @@ What would have to unfold would be a Story of Stories. The Great and Tragic Stor
 
 And so, The Myth of Lionsberg was born.  
 
-Welcome to [[The Story]].  
+Welcome to [[The Story of LIØNSBERG]].  
 ### Martial Arts, Malevolence, and War 
 
 I mentioned that when it was first presented to me Spiritually, the moment in history we are now in laid itself out as something like an epic Spiritual War for the future of life and society.  
@@ -1090,7 +1090,7 @@ The Dragon is growing stronger by the day, and the Final Order of Self-Serving C
 
 ### In the End... God 
 
-Like [[The Story]], Our Story begins and ends with [[God]].  
+Like [[The Story of LIØNSBERG]], Our Story begins and ends with [[God]].  
 
 The [[Keepers of The Caves]] intentionally confused the [[Ultimate Reality]] of [[God]] with [[Religion]] and Politics in strange ways, and did their best to make humanity forget that God does not dwell in and is not contained by the little religions, dogmas, institutions, buildings, ideologies, and Caves built in The Name.  
 
@@ -1207,7 +1207,7 @@ Arising from the [[Way of Being]] of the Human Species imprisoned in [[The Caves
 
 The [[Meta Crisis]] demanded a [[Meta Project]] in response.  
 
-By the early 2020s, [[The Story]] escalated to a climactic tension, teetering on the edge of absurd comedy and despair, with the fate of our heroes—and the human species aboard Earth itself—shrouded in uncertainty.  
+By the early 2020s, [[The Story of LIØNSBERG]] escalated to a climactic tension, teetering on the edge of absurd comedy and despair, with the fate of our heroes—and the human species aboard Earth itself—shrouded in uncertainty.  
 
 ## V. The Story of Stories 
 
@@ -1237,7 +1237,7 @@ The Guides among them were wise enough to understand that without a uniting [[Vi
 
 They were also wise enough to understand that [[Consciousness]] fundamentally lays its Self out in a [[Narrative Framework]], such that the [[Vision]] had to be contextualized within an overarching and uniting [[Story]].  
 
-The Project of resurrecting and reconstructing [[The Story]] of humanity aboard [[Worksite Earth]] was one of the most profound early challenges of [[The Quest]].  
+The Project of resurrecting and reconstructing [[The Story of LIØNSBERG]] of humanity aboard [[Worksite Earth]] was one of the most profound early challenges of [[The Quest]].  
 
 After generations enslaved in [[The Caves]], humanity had entirely lost the plot. It had forgotten Who It Was. It had forgotten Where It Was. It had forgotten How It Had Got Here. It had forgotten Where It Was Going. It had forgotten Why. It had lost the Sacred [[Vision]]. It had lost the Sacred [[Values]]. It had lost the [[Divine Blueprints]]. It had lost [[The Plot]].  
 
@@ -1262,19 +1262,19 @@ They understood that the [[Meta Story]] they would need to reconstruct included 
 Rediscovering Who and Where They Were, they also understood that the [[Meta Story]] would need to include a shared [[Forward Looking Story]] that contextualized Who They Were Becoming, Where They Were Going, With Who, How, and Why.  
 ### The Story of Stories 
 
-[[The Spirit]] helped them understand that [[The Story]] would need to be both a [[Unity]] and a [[Diversity]]. And in fact that the closer The Story came to Absolute Unity at the Highest Level of Abstraction, the vaster an array of diversity could flourish within it.  
+[[The Spirit]] helped them understand that [[The Story of LIØNSBERG]] would need to be both a [[Unity]] and a [[Diversity]]. And in fact that the closer The Story came to Absolute Unity at the Highest Level of Abstraction, the vaster an array of diversity could flourish within it.  
 
 They began to refer to the [[Meta Story]] as a [[Story of Stories]].  
 
-It would be co-created and [[Emerge]] as each individual, family, group, tribe, and nation awakened, arose, rearticulated their own [[Individual And Local Story]], and wove their unique [[Golden Thread]] of all that was most Wise, Right, Good and True into [[The Story]] that was progressively reorienting and reuniting them [[All]].  
+It would be co-created and [[Emerge]] as each individual, family, group, tribe, and nation awakened, arose, rearticulated their own [[Individual And Local Story]], and wove their unique [[Golden Thread]] of all that was most Wise, Right, Good and True into [[The Story of LIØNSBERG]] that was progressively reorienting and reuniting them [[All]].  
 
-Day by day, as the [[Individual And Local]] threads of [[The Story]] were woven into [[The Tapestry]], a clearer and clearer [[Image]] began to [[Emerge]].  
+Day by day, as the [[Individual And Local]] threads of [[The Story of LIØNSBERG]] were woven into [[The Tapestry]], a clearer and clearer [[Image]] began to [[Emerge]].  
 
 The clearer the [[Image]] became, the more their [[Imagination]] opened, and the more [[Wisdom]], [[Courage]], and [[Strength]] [[The Movement]] gained.  
 
 After generations and generations of Darkness, Isolation, and Conflict, they were discovering that they were no longer alone.  
 
-As they reconstructed [[The Story]], everyone was consciously aware that what they were constructing was in essence a Myth. For a soon as they articulated a Word and began to Concretize an aspect of The Story, it fell at least slightly short of the ineffable and Absolute Perfection the Spirit was revealing to them.  
+As they reconstructed [[The Story of LIØNSBERG]], everyone was consciously aware that what they were constructing was in essence a Myth. For a soon as they articulated a Word and began to Concretize an aspect of The Story, it fell at least slightly short of the ineffable and Absolute Perfection the Spirit was revealing to them.  
 
 However at the same time they understood that the New Words they were articulating were only an [[Icon]] pointing towards something ineffably and Ultimately Deep, they also knew that the Myth they were co-creating was far more [[True]] than the stories they used to believe. In fact, they came to understand that it was the Truest thing they collectively knew, for while it did not precisely and factually reflect the exact experience of each Family, it captured The Essence of the Universal Experience of All Families, Tribes, and Nations.  
 
@@ -1298,13 +1298,13 @@ They [[All]] knew that it was something beyond simple human will or desire. Some
 
 As they continued to look [[Deeper]], they Ultimately rediscovered the [[ØNE]] that united [[All]] of its expressions. If you looked Deep enough into any aspect of Creation, you could eventually rediscover It at its Beginning and End. The eternal and unchanging. The unmoved mover. The uncaused cause. The Absolute. The Transcendent Generative [[Source and Sustainer]] of the Manifest Universe. The Ultimate Unity giving rise to inexhaustible Creative Diversity that existed through Its [[Central Animating Spirit]].  
 
-The [[ØNE]]. The Supreme Author of [[The Story]] writing its Self through them.  
+The [[ØNE]]. The Supreme Author of [[The Story of LIØNSBERG]] writing its Self through them.  
 
 The Creator was inviting them [[All]] to become [[Co-Creators]] of a Better World.  
 
 ## VI. The Ten Realizations
 
-As [[The Image]] of [[The Story]] became progressively clearer in everyone's Minds, a series of Profound Realizations began to dawn on them.  
+As [[The Image]] of [[The Story of LIØNSBERG]] became progressively clearer in everyone's Minds, a series of Profound Realizations began to dawn on them.  
 
 Among the hundreds of epiphanies, a small handful began to rise to the top as the [[Deepest]] and [[Most Essential]].  
 ### Epiphany One: In The Beginning, One
@@ -1317,9 +1317,9 @@ The [[Ultimate Reality]] guiding the subsequent transformations of [[Reality]] a
 
 That which in English we point towards with [[Word Tools]] such as [[God]], [[Creator]], [[Ultimate Reality]], [[Absolute]], [[Source]], [[ØNE]].  
 
-The beginning of [[The Story]] was different different across the diversity of tribes, and nations, yet [[All]] pointed back to [[ØNE]].  
+The beginning of [[The Story of LIØNSBERG]] was different different across the diversity of tribes, and nations, yet [[All]] pointed back to [[ØNE]].  
 
-The beginning of [[The Story]] sounded [[Something Like]]:  
+The beginning of [[The Story of LIØNSBERG]] sounded [[Something Like]]:  
 
 In the beginning...  
 
@@ -1355,13 +1355,13 @@ Before and beyond every name; before and beyond every attempt to grasp and compr
 
 *I Am.*  
 
-They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], and [[In The End]], [[The Story]] was [[ØNE]].  
+They realized to their great delight that beyond religion, tribe, and nation, [[In The Beginning]], and [[In The End]], [[The Story of LIØNSBERG]] was [[ØNE]].  
 
 The rediscovery of the [[Knowledge of God]] beyond religion swept the Earth like floodwaters, paving the Way towards the [[New Covenant]].  
 
 ### Epiphany Two: One Interexistence 
 
-The second great epiphany from [[The Story]] was that [[All]] things arising from the [[ØNE]] were ultimately interconnected and interexistent.  
+The second great epiphany from [[The Story of LIØNSBERG]] was that [[All]] things arising from the [[ØNE]] were ultimately interconnected and interexistent.  
 
 All things were ultimately [[ONE Body]] of Co-Creation.  
 
@@ -1415,7 +1415,7 @@ Finally, the Words of the Prophets and Teachers were being Understood, Embodied,
 
 ### Epiphany Three: Billions of Backward and Forward Looking Stories 
 
-As humanity reconstructed [[The Story]], rediscovered their [[ØNE]] Divine Beginning and End, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before.  
+As humanity reconstructed [[The Story of LIØNSBERG]], rediscovered their [[ØNE]] Divine Beginning and End, and Progressively Realized their Ultimate Interexistence, the vast Diversity of their billions of unique stories were illuminated in greater detail than ever before.  
 
 Far from suppressing their [[Diversity]], the dawning realization of their Ultimate Unity created the fundamental [[Conditions]] within which each [[Individual]] and [[Locality]] could freely express their unique [[Story]] without fear, and be Heard, for the first time.  
 
@@ -1445,21 +1445,21 @@ They discovered that the [[Personalities]] in their stories were motivated by a 
 
 And they discovered that the Experiences reflected in their stories arrayed themselves around a set of [[Principles]] and [[Patterns]] that revealed the Nature of Society and the Living System.  
 
-The more they articulated and listened to their Stories, the more they came to understand [[The Story]] of the interexistence of humanity and All Creation aboard [[Worksite Earth]].  
+The more they articulated and listened to their Stories, the more they came to understand [[The Story of LIØNSBERG]] of the interexistence of humanity and All Creation aboard [[Worksite Earth]].  
 
 They discovered that Experiences in their stories could be grouped into [[Categories]], that [[The Essence]] of what the stories in a category shared In Common reflected something like an [[Archetype]] or [[Ideal]], and that the total set of [[Principles]], [[Values]], [[Patterns]], [[Archetypes]], and [[Ideals]] interexisted in [[ØNE]] Coherent and Intelligible [[Archetypical Narrative Structure]] that could be mathematically analyzed and studied to reveal new Depths of [[Collective Consciousness]].  
 
-The Deeper they came to understand [[The Story]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed that they were the only ones who dreaded their existence in [[The Caves]]. They had assumed they were the only ones who harbored these deep [[Fears]], [[Desires]], and [[Aspirations]]. They had assumed they were the only ones who longed for a [[Better World]] in which they were Free.  
+The Deeper they came to understand [[The Story of LIØNSBERG]], the more they came to understand that they were not alone. For generations, they had felt isolated. They had been told it was [[Us vs. Them]]. They had assumed that they were the only ones who were suffering in these ways. They had assumed that they were the only ones who dreaded their existence in [[The Caves]]. They had assumed they were the only ones who harbored these deep [[Fears]], [[Desires]], and [[Aspirations]]. They had assumed they were the only ones who longed for a [[Better World]] in which they were Free.  
 
-As they shared, and as they listened, they realized that they were profoundly United not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, fears, and desires. And beyond this, as [[The Story]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared One [[Destiny]]; they would either succeed or fail [[Together As One]].  
+As they shared, and as they listened, they realized that they were profoundly United not only by their Divine Origin, by also by the Deepest shared patterns of their experiences, longings, hopes, fears, and desires. And beyond this, as [[The Story of LIØNSBERG]] further illuminated the [[Meta Crisis]], it became clear that humanity also shared One [[Destiny]]; they would either succeed or fail [[Together As One]].  
 
-The Image of [[The Story]] grew more beautiful and clear day by day, as more and more individuals, families, tribes, and nations awakened, shared, listened, and wove the [[Golden Thread]] of [[The Tapestry]] back together.  
+The Image of [[The Story of LIØNSBERG]] grew more beautiful and clear day by day, as more and more individuals, families, tribes, and nations awakened, shared, listened, and wove the [[Golden Thread]] of [[The Tapestry]] back together.  
 
-As [[The Story]] illuminated [[The Narrative Universe]] big enough to encompass and unite them [[All]], it became easier and easier to orient, navigate, and advance together towards [[The Goal]], and to [[Help One Another]] along the [[Way]].  
+As [[The Story of LIØNSBERG]] illuminated [[The Narrative Universe]] big enough to encompass and unite them [[All]], it became easier and easier to orient, navigate, and advance together towards [[The Goal]], and to [[Help One Another]] along the [[Way]].  
 
 ### Epiphany Five: One Highest Identity 
 
-One of the most profound Realizations that emerged from [[The Story]] related to the Deep concept of [[Identity]].  
+One of the most profound Realizations that emerged from [[The Story of LIØNSBERG]] related to the Deep concept of [[Identity]].  
 
 As [[The Narrative Universe]] unveiled itself, they realized that after generations enslaved in [[The Caves]], they had forgotten Who They Were.  
 
@@ -1471,13 +1471,13 @@ The stronger the fear, hatred, and division between groups grew, the more they d
 
 Over the generations, this had resulted in the Primary [[Identity]] of humanity shifting further and further away from [[Unity]] of its Divine Beginning and End, and growing more and more polarized and divided along a vast array of chaotic fractures and fault lines.  
 
-As [[The Story]] came back together, so too did [[The Memories]] of humanity about Who They Were. They remembered that [[In The Beginning]], and [[In The End]], they were [[All]] [[ØNE]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
+As [[The Story of LIØNSBERG]] came back together, so too did [[The Memories]] of humanity about Who They Were. They remembered that [[In The Beginning]], and [[In The End]], they were [[All]] [[ØNE]]. They remembered that spiritually, biologically, psychologically, and practically, at the Highest and Deepest levels of analysis, they were [[All]] [[One Family]].  
 
 One [[Family of Families]]. One [[Tribe Of Tribes]]. One [[Nation of Nations]]. One [[Story of Stories]].  
 
 As they looked back towards the [[Highest]] and [[Deepest]] thing they [[All]] shared in common, the [[One Thing]] that United the vast [[Diversity]], it always and inevitably stretched out to encompass [[All]] of [[Nature]] and the [[Cosmos]], and then came back to the [[ØNE]]. [[God]]. [[Creator]]. The Source and Sustainer. The Alpha and the Omega. The Beginning and the End. The [[I Am]].  
 
-The remembrance of their [[ØNE]] [[Highest Identity]] was a crucial turning point in [[The Story]]. The memory felt like coming home, and rediscovering the Love and Belonging they had all so desperately been longing for without knowing it.  
+The remembrance of their [[ØNE]] [[Highest Identity]] was a crucial turning point in [[The Story of LIØNSBERG]]. The memory felt like coming home, and rediscovering the Love and Belonging they had all so desperately been longing for without knowing it.  
 
 The revelation of their [[ØNE]] [[Highest Identity]] as [[One Family]] of [[God]] did not require that they abandon any of their other [[Lower Order]] Names. They had beautiful and treasured individual names. Team names. Company names. Local names. Bioregional names. Tribal names. Group names. National names. And they could keep them all, and celebrate them all, and help each one Arise and Become all it was Uniquely Created to Be.  
 
@@ -1499,7 +1499,7 @@ It was as simple as voluntarily taking up a [[New Name]], and voluntarily beginn
 
 ### Epiphany Seven: One Highest Vision, Aim, and Goal 
 
-Before long, [[The Story]] had revealed Who They Were, Where They Were, and How They Got There. The [[Backward Looking Story]] was nearly complete, even as each Day revealed new mysteries and created New Stories.  
+Before long, [[The Story of LIØNSBERG]] had revealed Who They Were, Where They Were, and How They Got There. The [[Backward Looking Story]] was nearly complete, even as each Day revealed new mysteries and created New Stories.  
 
 As they began weaving their individual and local stories into a shared [[Forward Looking Story]], they discovered a Treasure of Immeasurable Worth.  
 
@@ -1543,9 +1543,9 @@ They also came to understand that [[The Quest]] towards [[The Goal]] Of Greatest
 
 One of the final and most dreadful Challenges was the [[Existential Threat]] posed by [[The Giants]] who guarded [[The Promised Land]].  
 
-Based on the conditions of those in [[The Caves]], the realities of the [[Meta Crisis]], and the heart of [[Love]] that desired for none to suffer in slavery, perish in [[The Fire]], or be [[Involuntarily Left Behind]], they patterned [[The Story]] after the idea of One human species aboard [[Vessel Earth]], navigating together through the generations on an epic [[Quest]] towards [[Destiny]].  
+Based on the conditions of those in [[The Caves]], the realities of the [[Meta Crisis]], and the heart of [[Love]] that desired for none to suffer in slavery, perish in [[The Fire]], or be [[Involuntarily Left Behind]], they patterned [[The Story of LIØNSBERG]] after the idea of One human species aboard [[Vessel Earth]], navigating together through the generations on an epic [[Quest]] towards [[Destiny]].  
 
-In this part of [[The Story]], the adventure required attempting to [[Move]] the entire human population, [[FROM the Old TO the New]], within a single generation.  
+In this part of [[The Story of LIØNSBERG]], the adventure required attempting to [[Move]] the entire human population, [[FROM the Old TO the New]], within a single generation.  
 
 The Epic Quest Towards Destiny, towards [[The Goal]] of Greatest Worth, was already under [[Way]].  
 
@@ -1592,7 +1592,7 @@ And so it was established [[The Goal]] of [[The Quest]] and [[The Victory]] of [
 The Reunification of [[All Creation]] with [[One Another]] and its [[Source]] was the only [[Way]] towards Victory.  
 ## VII. A New System, Strategy, and Plan 
 
-Having recaptured [[The Plot]] of [[The Story]] and reunited around the [[Most Important Things]], they were now progressively illuminating the [[Darkness]] of [[The Caves]], and embarking on the Epic [[Quest]] towards [[Destiny]].  
+Having recaptured [[The Plot]] of [[The Story of LIØNSBERG]] and reunited around the [[Most Important Things]], they were now progressively illuminating the [[Darkness]] of [[The Caves]], and embarking on the Epic [[Quest]] towards [[Destiny]].  
 
 Moved by [[The Spirit]] and the [[Absolute And Unconditional Love]] of [[ØNE]] for [[All]], and desiring that none should perish or be [[Involuntarily Left Behind]] in [[The Caves]], a system, strategy, and plan began to [[Emerge]] to move the entire population [[FROM the Old TO the New]].  
 

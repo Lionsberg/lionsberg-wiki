@@ -91,4 +91,4 @@ They only need to be **liberated from the Old patterns**
 and **set flowing through the New**.
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

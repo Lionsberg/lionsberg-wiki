@@ -121,7 +121,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 
 - 99% of humanity ***Does Not Know*** that [[We All]] have the option to “make it” socially and economically on this planet. 
 - We therefore must transmit the minimum information and experiential learning… 
-- …leading to ultimate comprehension of the fact that humanity now, for the first time in [[The Story]], has the realistic opportunity to collaborate to transform our lives and our world into one omni-considerate harmonious family that is sustainingly successful. 
+- …leading to ultimate comprehension of the fact that humanity now, for the first time in [[The Story of LIØNSBERG]], has the realistic opportunity to collaborate to transform our lives and our world into one omni-considerate harmonious family that is sustainingly successful. 
 
 ### Is There Enough? 
 

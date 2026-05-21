@@ -57,7 +57,7 @@ While models like [[Mondragon]] in Spain offer glimpses of what is possible at s
 - **Peer Coaching Circles**: Leaders growing together through dialogue, problem-solving, and knowledge-sharing.
 - **Diversity and Resilience**: Unique gifts woven into a [[Whole]] far greater than the sum of its parts.
 - **The Lionsberg System**: A New Operating System enabling interoperability and resource flow across the emerging ecosystem / [[Team of Teams]]. 
-- **Mentorship**: J will personally mentor the top 12 team leaders in 90-day [[Seasonal Quests]], deepening relationships and empowering aligned collective action.
+- **Mentorship**: J will personally mentor the top 12 team leaders in 90-day [[The LIØNSBERG Calendar]], deepening relationships and empowering aligned collective action.
 
 ---
 ### **How to Join**
@@ -75,7 +75,7 @@ While models like [[Mondragon]] in Spain offer glimpses of what is possible at s
     Join via simple agreement to embrace the vision, collaborate as part of the larger body, and contribute The First Tenth to The Commons, while retaining full self-governance, autonomy, and freedom to exit at any time.
     
 5. **Co-Create Abundance**  
-    Begin integrating your strengths into The Alliance through aligned 90-day [[Seasonal Quests]], receiving coaching and support to overcome challenges and succeed.
+    Begin integrating your strengths into The Alliance through aligned 90-day [[The LIØNSBERG Calendar]], receiving coaching and support to overcome challenges and succeed.
     
 6. **Evolve the System**  
     The Lionsberg System is a living, emergent body of wisdom and action. Help continuously improve and expand it as We transform together towards [[The Goal]].

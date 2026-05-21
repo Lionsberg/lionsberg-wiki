@@ -4,7 +4,7 @@ By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.17)_
 
 A post in [[Above The Chaos]]  
 
-The [[LIONSBERG Wiki]] is an artifact that will be hard to understand until later in [[The Story]]. As local AI emerges and the world connections, internet, and cloud shake, it will become evident why thousands of interlinked files stored on local devices in each bioregion, containing the plans and specifications for the New Era, and which can periodically sync up with one another is crucial. 
+The [[LIONSBERG Wiki]] is an artifact that will be hard to understand until later in [[The Story of LIØNSBERG]]. As local AI emerges and the world connections, internet, and cloud shake, it will become evident why thousands of interlinked files stored on local devices in each bioregion, containing the plans and specifications for the New Era, and which can periodically sync up with one another is crucial. 
 
 Today we did some work fixing issues that required uploading a batch of files relating to the Constitution, a couple books, and other works in progress that I would not have otherwise uploaded due to their elementary / draft status. 
 

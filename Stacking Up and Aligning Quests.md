@@ -60,4 +60,4 @@ Each Quest is meaningful on its own. But stacked and aligned, they become someth
 **This is how Heaven On Earth is built — not by one grand project, but by a thousand aligned Quests, carried out by sovereign Circles, converging toward the same Goal.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

@@ -616,13 +616,13 @@ Power and resources must flow to where they are most needed. Optimal decentraliz
 
 #### **91. Forging and Federating Teams**
 
-Collaboration is the heart of co-creation. Forging strong teams and federating them into networks of mutual support accelerates innovation, amplifies impact, and weaves a fabric of resilience that transcends individual efforts. [[Teams]] engaged in [[Seasonal Quests]] that [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]] is the heart of the [[LIONSBERG Integrated Delivery System]]. 
+Collaboration is the heart of co-creation. Forging strong teams and federating them into networks of mutual support accelerates innovation, amplifies impact, and weaves a fabric of resilience that transcends individual efforts. [[Teams]] engaged in [[The LIØNSBERG Calendar]] that [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]] is the heart of the [[LIONSBERG Integrated Delivery System]]. 
 
 ---
 
 #### **92. Seasonal Quests**
 
-Transformation is not a sprint—it is a cyclical journey. [[Seasonal Quests]] align individual and collective action with the rhythms of nature in 90 days cycles, guiding humanity through iterative cycles of growth, retrospection, learning, story telling, and renewal.
+Transformation is not a sprint—it is a cyclical journey. [[The LIØNSBERG Calendar]] align individual and collective action with the rhythms of nature in 90 days cycles, guiding humanity through iterative cycles of growth, retrospection, learning, story telling, and renewal.
 
 ---
 
@@ -630,7 +630,7 @@ Transformation is not a sprint—it is a cyclical journey. [[Seasonal Quests]] a
 
 Fragmentation weakens progress; integration strengthens it. By aligning energy, resources, and action across systems and scales, humanity can achieve breakthroughs that resonate globally while remaining rooted in local realities. The [[LIONSBERG Integrated Delivery System]] and [[System Wide Master Planning Process]] ensures that this alignment is both intentional and fractal, maintaining harmony across the Whole while honoring local diversity.
 
-At the heart of this process are [[Seasonal Quests]], iterative cycles of action, reflection, and story telling that [[Stack Up And Align]] individual, local, and collective efforts to produce measurable [[Throughput]] of [[The Goal]] for [[All]]. This approach weaves the contributions of every participant into a cohesive and ever-evolving tapestry, where each thread strengthens the fabric of humanity’s regenerative future.
+At the heart of this process are [[The LIØNSBERG Calendar]], iterative cycles of action, reflection, and story telling that [[Stack Up And Align]] individual, local, and collective efforts to produce measurable [[Throughput]] of [[The Goal]] for [[All]]. This approach weaves the contributions of every participant into a cohesive and ever-evolving tapestry, where each thread strengthens the fabric of humanity’s regenerative future.
 
 ---
 
@@ -931,7 +931,7 @@ Progress is both an internal and external journey. [[Measuring Progress]] requir
 
 #### **139. Continuous Retrospection, Learning, and Improvement**
 
-Spanning eternities beyond the temporality of Our [[Apparent Individuation]] in [[SpaceTime]], [[The Journey]] is never complete; it is an eternal process of growth, exploration, and [[Becoming]]. [[Continuous Retrospection, Learning, and Improvement]] ensures that each step forward is guided by wisdom, grounded in experience, and inspired by the infinite potential of life and love flowing from their [[Source]]. By anchoring Our progress towards the goal into 90 day [[Seasonal Quests]], the [[LIØNSBERG System]] ensures that across the millennia, at all fractal levels, humanity is reflecting, learning, telling stories, and improving. Together as [[ONE Body]]. 
+Spanning eternities beyond the temporality of Our [[Apparent Individuation]] in [[SpaceTime]], [[The Journey]] is never complete; it is an eternal process of growth, exploration, and [[Becoming]]. [[Continuous Retrospection, Learning, and Improvement]] ensures that each step forward is guided by wisdom, grounded in experience, and inspired by the infinite potential of life and love flowing from their [[Source]]. By anchoring Our progress towards the goal into 90 day [[The LIØNSBERG Calendar]], the [[LIØNSBERG System]] ensures that across the millennia, at all fractal levels, humanity is reflecting, learning, telling stories, and improving. Together as [[ONE Body]]. 
 
 ### **Section X: Culmination and Action**
 

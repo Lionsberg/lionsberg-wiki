@@ -8,4 +8,4 @@ One of the places humanity can turn to discover [[What Is Going On Around Here]]
 
 While the masses mourn and lament the [[The Collapse]] of the [[Old]], something massive, Divine, and Good will suddenly rise [[Rise From The Ashes]] like a [[Phoenix]]. 
 
-This is a product of both the Faith, Hope, and Geniune [[Best Effort]] of [[The Protagonists]] in [[The Story]], and the overriding Divine Intention, Grace, and Assistance that perennially pours forth from Beyond. 
+This is a product of both the Faith, Hope, and Geniune [[Best Effort]] of [[The Protagonists]] in [[The Story of LIØNSBERG]], and the overriding Divine Intention, Grace, and Assistance that perennially pours forth from Beyond. 

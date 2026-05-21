@@ -96,4 +96,4 @@ Now it needs the living boundary that protects what grows within — while allow
 **The next play is [[Establish Selectively Permeable Membranes]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

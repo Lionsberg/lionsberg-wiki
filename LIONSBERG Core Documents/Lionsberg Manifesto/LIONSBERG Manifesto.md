@@ -2,8 +2,8 @@
 
 ## Current Version 
 
-[[LIONSBERG Manifesto (2023.10.10)]]  
+N/A
 
 ## Previous Versions
 
-N/A
+- [[LIONSBERG Manifesto (2023.10.10)]]  

@@ -49,7 +49,7 @@ Success on this front would significantly mitigate a number of existential threa
 ____  
 We are beginning to make the right connections around the movie series, documentary series, interviews, and [[Stories of Transformation]] that need to be illuminated and spread as [[The Movement]] towards [[The Goal]] advances. 
 
-We are beginning to shoot early foundational footage to begin to empower [[The Movement]] to spread [[The Story]]. 
+We are beginning to shoot early foundational footage to begin to empower [[The Movement]] to spread [[The Story of LIØNSBERG]]. 
 
 [Zachary Marlow and Jordan Nicholas Raw Footage- Take One](https://www.dropbox.com/scl/fi/h2qksgfedin185t5v1416/Jordan.mov?rlkey=9e498bhn7afygiw0q34letodi&e=1&dl=0)  
 ____  

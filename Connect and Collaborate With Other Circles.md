@@ -75,4 +75,4 @@ Not through force. Through the ancient, organic mathematics of trust.
 **Reach out. Make yourself known. Find the others. The Body is assembling itself — and your Circle is part of it.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

@@ -66,4 +66,4 @@ But through an imperfect plan improved ten thousand times by the people who are 
 **Improve everything. Always. Together.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

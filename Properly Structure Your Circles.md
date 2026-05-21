@@ -60,4 +60,4 @@ Now learn how free souls govern themselves — together.
 **The next play is [[Govern Your Circles]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

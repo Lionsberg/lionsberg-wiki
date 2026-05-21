@@ -12,9 +12,9 @@ Now, We see with clarity a truth that ignites [[The Path]]: _**the existing syst
 
 What We have discovered and written about the extraterrestrial and interdimensional forces influencing human and planetary affairs may shock and repel some. Many will experience deep [[Ontological Shock]] and resist these truths. Yet, We implore you: do not turn away. These realities will soon burst into the collective consciousness, and if humanity remains unaware, it will panic, fragment, and fall into [[The Trap]]. [[The First Three Percent]] must awaken fully to these realities, ready to guide humanity through the trauma of disclosure with clarity and wisdom.
 
-As We enter this New Year, [[The Mission]] and Milestones are clear: **to connect and empower [[The First Three Percent]] by 2026, creating 300 awakened leaders in every community of 10,000 citizens. Together, these leaders will form a decentralized, 250-million-strong [[Force For Good]] capable of guiding humanity through the challenges ahead.**
+As We enter this New Year, [[The Great Game of LIØNSBERG]] and Milestones are clear: **to connect and empower [[The First Three Percent]] by 2026, creating 300 awakened leaders in every community of 10,000 citizens. Together, these leaders will form a decentralized, 250-million-strong [[Force For Good]] capable of guiding humanity through the challenges ahead.**
 
-These leaders will self-organize into [[Self-Governing, Self-Sustaining, and Self-Replicating]] **Teams** of 5-7 individuals, aligning their efforts through 90-day [[Seasonal Quests]] to produce measurable [[Progress]] along the [[Critical Path]]. This is how We will forge the Way toward [[The Goal]].
+These leaders will self-organize into [[Self-Governing, Self-Sustaining, and Self-Replicating]] **Teams** of 5-7 individuals, aligning their efforts through 90-day [[The LIØNSBERG Calendar]] to produce measurable [[Progress]] along the [[Critical Path]]. This is how We will forge the Way toward [[The Goal]].
 
 The diversity of individuals and teams will reflect the infinite diversity of life on Earth. Some will build what is needed, others will repair what can be saved, and still others will dismantle what no longer belongs in Our [[New World]]. Some will teach, all will learn. Some will design, some will build, some will guide, and others will follow.
 
@@ -38,7 +38,7 @@ This year must not repeat the patterns of idle meetings, explorations, or commit
 
 What will be different this time? We have transformed. We have dismantled illusions. We have tried and failed, and We have learned. This time, We demand far greater **COMMITMENT** from a more selective group.
 
-If you are ready to join [[The Lionsberg Alliance]], forge or join a Team, embark on meaningful [[Seasonal Quests]], and [[Pass The Flame]] to [[The First Three Percent]], please see one or more of the invitations below and [RSVP Here](x).
+If you are ready to join [[The Lionsberg Alliance]], forge or join a Team, embark on meaningful [[The LIØNSBERG Calendar]], and [[Pass The Flame]] to [[The First Three Percent]], please see one or more of the invitations below and [RSVP Here](x).
 
 **You do not need to read everything.** If you feel the Spirit move you, simply answer [[The Call]] and [RSVP Here](x) to Join Us.  
 ___

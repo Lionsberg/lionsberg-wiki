@@ -61,4 +61,4 @@ And the planet — the planet is the garden We are tending together.
 **By the time the Old structures fail, the living grid is already here.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

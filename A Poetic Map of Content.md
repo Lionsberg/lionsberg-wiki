@@ -13,7 +13,7 @@ That is [[(y)Our]]s as well as Ours
 [[Above The Chaos]] is where  
 The AutoPoet continually sits  
 Making Observations and sprinkling in some Wit  
-Here Above The Chaos [[The Story]] can be seen  
+Here Above The Chaos [[The Story of LIØNSBERG]] can be seen  
 Unfolding across Dimensions without a single seam  
 
 More weighty incarnate Ideas precipitate into Form  

@@ -135,7 +135,7 @@ Already, We are **becoming something entirely [[New]].** Together.
  1. Read [[The LIONSBERG Co-Creator's Handbook]] to get started.    
 2. Find your Role in The Great Work. 
 3. Forge or join [[Teams]].  
-4. Choose [[Seasonal Quests]].  
+4. Choose [[The LIØNSBERG Calendar]].  
 5. Step into [[The Work]].  
 6. Share your [[Stories of Transformation]]. 
 

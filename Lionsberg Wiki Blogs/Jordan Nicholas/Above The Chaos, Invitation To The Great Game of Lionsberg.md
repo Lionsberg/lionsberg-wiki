@@ -20,7 +20,7 @@ Yet struggling isolation, we are [[All]] on a pathway towards inevitable [[Failu
 
 ## An Invitation And Proposal
 
-Over the last 5 years, we have synthesized lifetimes of preparation into a [[Vision]], [[The Plan|Plan]], [[Provisional Structure|Structure]], [[The Story|Story]], and [[The Great Game of LIØNSBERG|Game]] to empower humanity arise and unite to meet the needs, solve the problems, and accomplish the goals inherent in this critical moment in the universal Story. 
+Over the last 5 years, we have synthesized lifetimes of preparation into a [[Vision]], [[The Plan|Plan]], [[Provisional Structure|Structure]], [[The Story of LIØNSBERG|Story]], and [[The Great Game of LIØNSBERG|Game]] to empower humanity arise and unite to meet the needs, solve the problems, and accomplish the goals inherent in this critical moment in the universal Story. 
 
 [[The Great Table]] has been prepared, 170 organizations in 17 countries have already adopted and tested the external side of the platform, and plans have been reviewed by dozens of people over the last months. It is time to commence the movement / game. 
 

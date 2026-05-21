@@ -4,7 +4,7 @@
 
 In the context of the Lionsberg System, **The Story** refers to the all-encompassing story of our existence as a human species in a vast intelligible universe, presently aboard [[Worksite Earth]]... 
 
-[[The Story of LIØNSBERG]] is one telling of [[The Story]], encompassing: 
+[[The Story of LIØNSBERG]] is one telling of [[The Story of LIØNSBERG]], encompassing: 
 
 Who We Are ([[Identity]])  
 Where We Are ([[Analysis]])  

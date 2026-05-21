@@ -83,4 +83,4 @@ Even as the world shifts beneath its feet.
 **A movement that can see clearly, listen deeply, and understand the Whole — that movement cannot be stopped.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

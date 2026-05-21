@@ -68,7 +68,7 @@ To fulfill the Cosmic Mandate, humanity must develop and embrace:
 
 1. **[[The New Operating System]]**: A framework for governance, economy, education, and healing aligned with the principles of the Mandate.
 2. **[[The Pattern Language]]**: A universal set of patterns and principles guiding the regeneration of Earth and humanity’s alignment with the cosmic order.
-3. **[[Seasonal Quests]]**: Transformative cycles of action, reflection, and storytelling that enable individuals and communities to embody the Mandate.
+3. **[[The LIØNSBERG Calendar]]**: Transformative cycles of action, reflection, and storytelling that enable individuals and communities to embody the Mandate.
 4. **Sacred Technologies**: Tools and systems that enhance life, sovereignty, and spiritual connection without exploitation or domination.
 
 ---

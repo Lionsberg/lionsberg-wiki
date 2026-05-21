@@ -17,7 +17,7 @@ Plan for **90 minutes minimum**. Less than that, and there is not enough space f
 
 A weekly gathering follows a simple arc:
 
-- **Open with [[The First Practice]]** — pause, ground, breathe, remember, realign, recommit
+- **Open with [[The Daily Way]]** — pause, ground, breathe, remember, realign, recommit
 - **Check in** — each member shares briefly: What is alive in me? What am I carrying? Where am I in my commitments?
 - **Coordinate [[Quest]] work** — what needs to happen this week? Who is doing what? Where are we stuck?
 - **Harvest learnings** — what have we discovered? What is working? What is not?
@@ -75,4 +75,4 @@ Now, as your Circle grows and its work deepens, you may need to consider how it 
 **The next play is [[Properly Structure Your Circles]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

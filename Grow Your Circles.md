@@ -55,4 +55,4 @@ You have doubled the light.
 **This is growth. This is the Way.**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.
+See [[The LIØNSBERG Playbook]] for the full navigation.

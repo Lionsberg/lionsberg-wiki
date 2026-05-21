@@ -34,7 +34,7 @@ The simple problem is that the interpretation, aside from all complex theologica
 
 As we reengage the [[Source Narratives]], it becomes immediately clear that what we are reading in the bible are heavily redacted and ideologically manipulated summaries of the actual events the Israelites experienced in their relationship with (multiple) powerful and real Elohim. 
 
-When we then begin looking at the [[Source Narratives]] present in other adjacent cultures, such as ancient Mesopotamia, Sumeria, Babylonia, Akkadia, Assryia, etc., and comparing those with [[Source Narratives]] and sacred texts from around the world, we can begin piecing back together [[The Story]] of what was, and is, actually going on around here. 
+When we then begin looking at the [[Source Narratives]] present in other adjacent cultures, such as ancient Mesopotamia, Sumeria, Babylonia, Akkadia, Assryia, etc., and comparing those with [[Source Narratives]] and sacred texts from around the world, we can begin piecing back together [[The Story of LIØNSBERG]] of what was, and is, actually going on around here. 
 
 To refute this most deceitful and disastrous mistranslation, it is sufficient to look at the numerous examples where the word Elohim is clearly referring to a class, or plurality, of entities, among whom Yahweh is the one assigned to the Israelites. 
 

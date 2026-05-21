@@ -43,7 +43,7 @@ Your first Quest should be achievable within **weeks**, not months. Early succes
 ## How to Choose Your First Quest
 
 Gather your [[Circle]].  
-Open with **[[The First Practice]]**.  
+Open with **[[The Daily Way]]**.  
 Then dialog and discern together:
 
 - **What need do we sense most strongly around us?** Look at your neighborhood, your community, your lives. What is crying out for attention?
@@ -116,5 +116,5 @@ Now you need to know who carries what.
 **The next play is [[Choose Your Roles]].**
 
 ---
-See [[The Architecture of The Playbook]] for the full navigation.  
+See [[The LIØNSBERG Playbook]] for the full navigation.  
 See [[The LIØNSBERG Quick Start Guide]] for your first 90 minutes together.
