@@ -13,7 +13,7 @@ A pilgrim does not read the Codex cover to cover from arrival. They walk a journ
 
 The Experience guides the pilgrim **what to do next**. The Codex provides **what to draw from**.
 
-This Volume is the Pilgrim's operational companion at the individual scale. [[The LIØNSBERG Playbook|Volume IV — The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|Volume X — The Sacred Ascent]] opens for those called to embodied mastery. Together these three Volumes hold the lived practice of the Way — individual, collective, and consummate.
+This Volume is the Pilgrim's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] opens for those called to embodied mastery. Together these three Volumes hold the lived practice of the Way — individual, collective, and consummate.
 
 ---
 
@@ -67,17 +67,17 @@ Three additional pages address the lived moments of the walk:
 
 The Experience opens onto the rest of the Codex:
 
-- **[[The Story of LIØNSBERG|Volume II — The Story]]** — read at Stage 3 (Orientation). The cosmic context. The true myth. Returned to throughout the journey.
-- **[[The Great Game of LIØNSBERG|Volume III — The Great Game]]** — read at Stage 3 and embodied from Stage 5 onward. The participatory form. The Movements (Simple → Community → Planetary → Eternal Divine Play).
-- **[[The LIØNSBERG Playbook|Volume IV — The Playbook]]** — opened at Stage 6 (Weekly Practice). The Circle's operational handbook. Where the Experience is the individual's guide, the Playbook is the group's guide.
-- **[[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V — Plans and Specifications]]** — encountered at Stage 7 (Pattern Encounter) for the Pattern Language, and progressively as the Pilgrim's questions deepen. Holds the structural body of the New Civilization.
-- **[[The LIØNSBERG Strategy and Plan|Volume VI — Strategy and Plan]]** — read when the Pilgrim wants the time-bound articulation of where we are in history.
-- **[[The Program Delivery Guide|Volume VII — The PDG]]** — read when the Circle is delivering at scale.
-- **[[The LIØNSBERG Lexicon|Volume VIII — The Lexicon]]** — referenced throughout as questions of vocabulary arise.
-- **[[The Book of LIØNSBERG|Volume IX — The Book]]** — the integrated prophetic narrative.
-- **[[The Sacred Ascent|Volume X — The Sacred Ascent]]** — opens at Stage 9 for those called to embodied mastery. The Daily Way's Mastery tier flows into here.
-- **[[LIØNSBERG, Earth, and the Cosmos|Volume XI — Living Substrate]]** — for those who wish to trace canonical articulations back to their source insight. The Daily Way Card, the LIØNSBERG Calendar Card, and the Coherent Cosmic Intention Wave Card all live in the Substrate.
-- **[[The LIØNSBERG Universe Guide|Volume XII — Universe Guide]]** — the inheritance manual for future authors.
+- **[[The Story of LIØNSBERG|The Story]]** — read at Stage 3 (Orientation). The cosmic context. The true myth. Returned to throughout the journey.
+- **[[The Great Game of LIØNSBERG|The Great Game]]** — read at Stage 3 and embodied from Stage 5 onward. The participatory form. The Movements (Simple → Community → Planetary → Eternal Divine Play).
+- **[[The LIØNSBERG Playbook|The Playbook]]** — opened at Stage 6 (Weekly Practice). The Circle's operational handbook. Where the Experience is the individual's guide, the Playbook is the group's guide.
+- **[[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]** — encountered at Stage 7 (Pattern Encounter) for the Pattern Language, and progressively as the Pilgrim's questions deepen. Holds the structural body of the New Civilization.
+- **[[The LIØNSBERG Strategy and Plan|Strategy and Plan]]** — read when the Pilgrim wants the time-bound articulation of where we are in history.
+- **[[The Program Delivery Guide|The PDG]]** — read when the Circle is delivering at scale.
+- **[[The LIØNSBERG Lexicon|The Lexicon]]** — referenced throughout as questions of vocabulary arise.
+- **[[The Book of LIØNSBERG|The Book]]** — the integrated prophetic narrative.
+- **[[The Sacred Ascent|The Sacred Ascent]]** — opens at Stage 9 for those called to embodied mastery. The Daily Way's Mastery tier flows into here.
+- **[[LIØNSBERG, Earth, and the Cosmos|Living Substrate]]** — for those who wish to trace canonical articulations back to their source insight. The Daily Way Card, the LIØNSBERG Calendar Card, and the Coherent Cosmic Intention Wave Card all live in the Substrate.
+- **[[The LIØNSBERG Universe Guide|Universe Guide]]** — the inheritance manual for future authors.
 
 [[The Power of Today]] sits alongside the Experience as the philosophical companion to the Daily Way — the deeper meditation on _why_ the day matters as it does, one of the foundational expressions of this Way.
 

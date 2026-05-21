@@ -31,4 +31,4 @@ This is why the Codex begins at Ring 0 with the ONE — not with the Pattern. Th
 
 **Spirit > Pattern > Practice > Outcome.** Each layer depends on the one above. Spirit cannot be skipped.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the **opening claim** — Ring 0 / Pillar 0 / before any Element is named.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as the **opening claim** — Ring 0 / Pillar 0 / before any Element is named.

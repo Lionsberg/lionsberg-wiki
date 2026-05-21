@@ -39,4 +39,4 @@ The Pilgrim doing serious study of the sacred texts adopts a simple discipline: 
 
 The Codex offers this restoration not to attack the Pilgrim's existing faith. The Codex offers this restoration to **deepen the Pilgrim's relationship with the actual Source** — beyond the institutional overlay that has obscured Him for two millennia.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational scriptural unveiling within the larger [[The Great UnVeiling|Great UnVeiling]].
+Lives canonically in [[The Story of LIØNSBERG]] as a foundational scriptural unveiling within the larger [[The Great UnVeiling|Great UnVeiling]].

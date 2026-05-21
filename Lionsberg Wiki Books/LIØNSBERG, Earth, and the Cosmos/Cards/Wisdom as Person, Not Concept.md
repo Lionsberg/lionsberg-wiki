@@ -41,4 +41,4 @@ Practically, this reshapes the Pilgrim's posture toward learning:
 
 The Codex receives Wisdom into its voice. The articulations across all seven Volumes attempt to **carry Her voice** as faithfully as the limited articulator can. When the Codex lands, when its phrases ring true to the Pilgrim's deepest knowing, what is landing is not the Codex; what is landing is **Her, speaking through the Codex's articulations** to the one who can hear.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational entry on the personhood of Wisdom, balancing the more active-archetype articulations across the Codex.
+Lives canonically in [[The LIØNSBERG Lexicon]] as a foundational entry on the personhood of Wisdom, balancing the more active-archetype articulations across the Codex.

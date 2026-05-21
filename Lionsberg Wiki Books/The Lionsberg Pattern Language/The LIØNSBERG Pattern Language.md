@@ -12,7 +12,7 @@ The Pattern is the [[Way]]. Same Reality. Different rendering.
 
 Each Pattern is its own canonical Card — one Pattern per file. This page is the index that articulates the structure and links to each Pattern Card.
 
-**Single source per Pattern.** Many of these Patterns appear as Plays in [[The LIØNSBERG Playbook|Volume IV (the Playbook)]]. The Playbook **points to** the Pattern Card — it does not restate the canonical articulation. The Pattern Card is the complete canonical home; the Playbook is the lived-practice navigation that sends the player to the Pattern [[Just In Time]] when the Pattern is needed.
+**Single source per Pattern.** Many of these Patterns appear as Plays in [[The LIØNSBERG Playbook|[[The Book of LIØNSBERG]]]]. The Playbook **points to** the Pattern Card — it does not restate the canonical articulation. The Pattern Card is the complete canonical home; the Playbook is the lived-practice navigation that sends the player to the Pattern [[Just In Time]] when the Pattern is needed.
 
 The same discipline holds elsewhere: every Volume, every Card, every page that touches a Pattern links to the canonical Pattern Card. No two places describe the same Pattern.
 

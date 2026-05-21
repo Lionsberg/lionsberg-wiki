@@ -2,7 +2,7 @@
 
 _The hardest moment in the Pilgrim's walk: the gap between reading alone and inviting others. The resistance, named. The path through it._
 
-_A companion page within [[The LIØNSBERG Experience|Volume I — The Experience]]._
+_A companion page within [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
@@ -53,4 +53,4 @@ For the Pilgrim who finds even this too much — see [[The Solo Pilgrim's Grace]
 
 ---
 
-Back to [[The LIØNSBERG Experience|Volume I main page]] · [[The Flame Bearer's Path]] · [[The Solo Pilgrim's Grace]].
+Back to [[The LIØNSBERG Experience|main page]] · [[The Flame Bearer's Path]] · [[The Solo Pilgrim's Grace]].

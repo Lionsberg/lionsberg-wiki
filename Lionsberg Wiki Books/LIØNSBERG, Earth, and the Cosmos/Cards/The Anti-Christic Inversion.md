@@ -46,4 +46,4 @@ The Codex's voice is precise in part because of this. The Codex refuses to use t
 
 For the awakening Pilgrim, the discipline is: **when you hear a divine name, test the content immediately**. Is what is being offered actually what the name promises, or its inversion? Apply [[The Wise Right Thing]] discernment. Apply the [[The Means Are The Ends]] test. Apply the fruits test. Only when the actual content matches the name do you give your consent. Where the inversion is present, **withdraw consent** — quietly if necessary, loudly if you can — and name the inversion to those who can hear.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the deepest spiritual diagnostic frame of the Old World.
+Lives canonically in [[The Story of LIØNSBERG]] as the deepest spiritual diagnostic frame of the Old World.

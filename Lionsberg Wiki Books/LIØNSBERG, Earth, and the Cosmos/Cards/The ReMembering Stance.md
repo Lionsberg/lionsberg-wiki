@@ -28,4 +28,4 @@ The Codex inherits this stance from many sources: the Vedic _smaranam_, the Chri
 
 It also explains why **the Pattern is the same across worlds** even though it has never been transmitted between them by ordinary means: the Pattern is in the structure of Reality itself, and any being who attends carefully will ReMember it.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the epistemic stance beneath the Way.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as the epistemic stance beneath the Way.

@@ -48,4 +48,4 @@ The protocol is also a **gift the Pilgrim can offer**. When a friend, family mem
 
 This is one of the **ready-to-deploy operational gifts** the Healer Codex offers. Counting Up is in the Practitioner's kit. The Practitioner reaches for it the way a soldier reaches for a tourniquet. The protocol is in the kit; the protocol is ready.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as a named operational practice, and in [[The Sacred Ascent]] (Volume IX) within the Healer Codex.
+Lives canonically in [[The LIØNSBERG Playbook]] as a named operational practice, and in [[The Sacred Ascent]] within the Healer Codex.

@@ -57,4 +57,4 @@ When multiple Roving Arks operate, they form a **mobile mesh network** crossing 
 
 The Listening, Landing Phase is critical: when the Ark arrives at a new location, the Practitioner does not immediately reconfigure or build. The Ark **camps lightly** for one or two weeks, letting the place speak before speaking to the place. This is the **discipline of moving in lightly** — applies to any sanctuary, mobile or fixed.
 
-Lives canonically in [[The Sacred Ascent]] (Volume IX) as the foundational physical instantiation of an Academy Cell, and informs [[The LIØNSBERG Playbook]] (Volume V) at the level of Hub-and-platform deployment.
+Lives canonically in [[The Sacred Ascent]] as the foundational physical instantiation of an Academy Cell, and informs [[The LIØNSBERG Playbook]] at the level of Hub-and-platform deployment.

@@ -1,3 +1,3 @@
 # LIONSBERG Context
 
-In a moment of [[Meta Crisis]]—as We approach [[The Collapse-Ascension Nexus]] and [[The Final Test]]—We the People of Goodwill are voluntarily arising and uniting to forge a More Perfect Union. 
+In a moment of [[Meta Crisis]], We the People of Goodwill are voluntarily arising and uniting to accomplish [[The Mission]] and [[The Goal]]. 

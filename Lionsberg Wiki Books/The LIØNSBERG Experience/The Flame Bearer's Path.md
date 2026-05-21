@@ -2,7 +2,7 @@
 
 _Pass-the-Flame designed from the giver's experience. The Pilgrim who shares the Seed becomes a different Pilgrim than the one who only received it._
 
-_A companion page within [[The LIØNSBERG Experience|Volume I — The Experience]]._
+_A companion page within [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
@@ -58,4 +58,4 @@ For the Pilgrim who has shared and watched the other respond yes and then lose m
 
 ---
 
-Back to [[The LIØNSBERG Experience|Volume I main page]] · [[The 1-Day to 1-Week Threshold]] · [[Pass The Flame]].
+Back to [[The LIØNSBERG Experience|main page]] · [[The 1-Day to 1-Week Threshold]] · [[Pass The Flame]].

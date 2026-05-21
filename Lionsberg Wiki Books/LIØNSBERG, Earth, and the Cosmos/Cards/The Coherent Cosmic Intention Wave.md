@@ -94,4 +94,4 @@ This Card is a **continuously improving** canonical articulation. The Wave is in
 
 ---
 
-_Linked from: [[The LIØNSBERG Experience|Volume I — The Experience]] · [[The Daily Way]] (where the morning stillness is specified) · [[The LIØNSBERG Calendar]] (where the wider rhythms extend the practice on inflection days) · [[The First Three Percent]] (the population scale at which the Wave reaches planetary thickness)._
+_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The Daily Way]] (where the morning stillness is specified) · [[The LIØNSBERG Calendar]] (where the wider rhythms extend the practice on inflection days) · [[The First Three Percent]] (the population scale at which the Wave reaches planetary thickness)._

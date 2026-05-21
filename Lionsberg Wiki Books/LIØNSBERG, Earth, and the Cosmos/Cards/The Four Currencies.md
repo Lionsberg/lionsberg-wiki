@@ -59,4 +59,4 @@ For each currency, the Pilgrim asks the same question: **am I spending this in a
 
 The discipline is fractal. It applies in the hour (where am I placing Attention right now?). It applies in the day (how did I spend Time today?). It applies in the season (where is my Energy going this quarter?). It applies in the life (what am I willing to Sacrifice for what is most worthy?). The Being who runs this discipline across all four currencies at all four scales is the Being whose life **converges** on alignment with the ONE — and that convergence is what produces the lived fruit of [[The Wise Right Thing|wise right action]].
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the foundational economic articulation of the incarnate Being's operating reality.
+Lives canonically in [[The LIØNSBERG Playbook]] as the foundational economic articulation of the incarnate Being's operating reality.

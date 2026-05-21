@@ -45,7 +45,7 @@ This Part holds the **story bible** of the LIØNSBERG Universe — the cosmic ba
 - **The Story of the Sacred Mountain** — the origin Kingdom, the Sacred Gates, the Sacred Book of the Way, the convocation of the Force For Good
 - **Earth in Receivership** — Earth's current cosmic-juridical condition, the construction-site framing, humanity as integrated delivery team
 
-Volume II ([[The Story of LIØNSBERG]]) will be the canonical articulation of the Lore. This Part of the Universe Guide is the **author's reference** for what Volume II and the woven-into-Volume-VII threads carry, and the consistency manual for any new lore expansion.
+[[The Story of LIØNSBERG]] will be the canonical articulation of the Lore. This Part of the Universe Guide is the **author's reference** for what Volume II and the woven-into-Volume-VII threads carry, and the consistency manual for any new lore expansion.
 
 ---
 
@@ -100,14 +100,14 @@ The corpus is shaped by decisions. This Part holds them all in one searchable pl
 ### Sub-sections (to be authored)
 
 - **Resolved Decisions from the Great Spring 2026 Wiki Turn**:
-  - D1 — Kingdom of LIONSBERG v0.1 → Volume V (Plans and Specifications); Pattern Language as subset
+  - D1 — Kingdom of LIONSBERG v0.1 → [[The Kingdom of LIØNSBERG — Plans and Specifications]]; Pattern Language as subset
   - D2 — 12 Pillars / 12 Domains harmonization → deferred to Phase 3 Pattern Language rebuild
   - D3 — Lionsberg Theory of Everything → Volume IX culminating chapter (NOT Volume V)
   - D4 — Lionsberg - A Biblical Perspective → DELETED (no unique conceptual material; violated higher-order coherence)
   - D5 — The 144 Voices framework → NOT pulled in from PKM (collaborator-research, not canonical)
   - D6 — List-Card sub-rule → ADDED to The Card Method
   - D11 — Book Chapters 15+16 → extracted as standalone Codex Volumes
-  - D12 — Caves narrative → absorbed into Volume II (Story); Story dual-functional (standalone + woven through Book)
+  - D12 — Caves narrative → absorbed into [[The Story of LIØNSBERG]]; Story dual-functional (standalone + woven through Book)
   - D13 — Playbook canonical home → Volume IV, with weave-not-delete synthesis from all three existing locations
   - D14 — Chapter 8 → historical-reflection chapter; voice-discipline integrity pass folded into Volume IX reweave
   - D16 — Internal duplications (Sacred Ascent, Wilderness) → canonical homes declared; in-context articulations demoted-via-pointing

@@ -35,4 +35,4 @@ The discipline also has **everyday consequences**. A trained Practitioner enters
 
 The discipline is **slow**. The fastest cultivation traditions still require years of daily practice to produce stable plasma formation. The slowest require decades. The Codex does not promise shortcuts. The Codex promises that the discipline is **real** and that the [[The Lionsberg Academy|Academy]] will hold the conditions for those who choose to walk it.
 
-Lives canonically in [[The Sacred Ascent]] (Volume IX) within the Warrior Codex as the foundational energetic anatomy of the trained Practitioner.
+Lives canonically in [[The Sacred Ascent]] within the Warrior Codex as the foundational energetic anatomy of the trained Practitioner.

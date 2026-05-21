@@ -27,4 +27,4 @@ The phrase "Swords to Ploughshares" is from the prophet Isaiah, deeply rooted in
 
 **$15-20 trillion is approximately what it costs to build the Hub Network at full scale.** The reallocation and the construction are the same act, completed across the same window.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) and crosses into [[Sacred Economics|Volume III's Sacred Economics]].
+Lives canonically in [[The Great Game of LIØNSBERG]] and crosses into [[Sacred Economics]].

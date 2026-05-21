@@ -15,7 +15,7 @@ It is the **closing movement** of [[The Sacred Ascent]] — the seventh and fina
 The Eternal Divine Play is therefore the inner threshold by which a being passes from Stage 11 ([[Covenant and Jubilee — December 2033]]) into Stage 12 (Eternal Play) of [[The 12-Stage Pilgrim's Path]].
 
 In the Codex architecture:
-- The Sacred Ascent is **Volume IX**.
-- The Eternal Divine Play is its closing movement — the final chapters of Volume IX, not a Volume X.
+- The Sacred Ascent.
+- The Eternal Divine Play is its closing movement — the final chapters of Volume IX, not a separate Volume.
 
 This collapses what previously read as eight bodies of work into seven, and resolves the long-standing question of whether the Eternal Play needed its own canonical home. It does not. It has one — the heart of the Sacred Ascent, where the Path becomes the Play.

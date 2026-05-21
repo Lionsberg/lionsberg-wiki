@@ -87,7 +87,7 @@ _The orienting telos. Equated to **Creator's Intent for Worksite Earth**. The re
 
 - **[[Heaven On Earth]] for [[All]]** — the consummate telos. Not for some. Not later. Not maybe. For All. As soon as can be co-created.
 - **[[Right Relationship]] Across All Scales** — between sovereign beings, between Circles, between Communities, between humanity and the kin of this planet, between Earth and the cosmos, between every being and [[ØNE]].
-- **The Sacred Ascent** — All things rising toward The Goal. The eternal upward spiral. Volume V is the structural body that holds the ascent; [[The Sacred Ascent|Volume X]] is its embodied articulation.
+- **The Sacred Ascent** — All things rising toward The Goal. The eternal upward spiral. Volume V is the structural body that holds the ascent; [[The Sacred Ascent]] is its embodied articulation.
 - **Sovereignty of Every Conscious Being** — never compromised in service of the design; the design exists to serve sovereignty, not the reverse.
 - **The Voluntary Nature of the Covenant** — no coercion; no enforcement except by consent; the entire structure stands or falls on the freely-chosen participation of sovereign beings.
 - **Love as the Supreme Law** — the unconditional ground from which every Plan and Specification proceeds, and to which every dispute returns for adjudication.
@@ -95,7 +95,7 @@ _The orienting telos. Equated to **Creator's Intent for Worksite Earth**. The re
 **Articulation:**
 
 - The full articulation of [[Heaven On Earth]] as the telos of Worksite Earth — what it actually means, what it actually looks like, how it is recognized when present and how it is recognized when absent.
-- The cosmic arc — from [[ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG|Volume II]] and the [[Lionsberg Theory of Everything]] chapter of [[The Book of LIØNSBERG|Volume IX]]).
+- The cosmic arc — from [[ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG]] and the [[Lionsberg Theory of Everything]] chapter of [[The Book of LIØNSBERG]]).
 - **Worksite Earth as a Specific Local Articulation of Designer's Intent** — Earth is one world within a vast cosmic Story. The Plans and Specifications of Volume V are tuned to this world's specific conditions: the Meta Crisis, the Wilderness passage, the planetary grid emerging, the awakening population, the technological inflection. Volume V is universal in its DNA and specific in its present form.
 - **The Reference Test** — every Plan, every Specification, every Pattern is tested against this Intent. Does this move toward [[Heaven On Earth]] for [[All]] in [[Right Relationship]] — or away from it? Does it honor sovereignty, the voluntary, and Love as supreme — or compromise them? The Intent is the canonical reference.
 
@@ -352,7 +352,7 @@ The full Pattern Language rebuild is Phase 4 work. The current canonical structu
 - **The 12 Sacred Pillars** — each Pillar's domain-specific Patterns (Pillar I Patterns, Pillar II Patterns, ... Pillar XII Patterns)
 - **Integrated Program Delivery** — the 32 canonical IPD Patterns (from $20M+ of integrated delivery research) clustered into 9 operational families, placed as the integration / program-management layer above the Pillars
 - **Continuous Improvement** — the Pattern by which all Patterns are continuously refined
-- **Eternal Divine Play** — the Pattern threshold into [[The Sacred Ascent|Volume X]] — the recursive return to [[ØNE]]
+- **Eternal Divine Play** — the Pattern threshold into [[The Sacred Ascent]] — the recursive return to [[ØNE]]
 
 **Patterns:** _All of them. This Part IS the Pattern catalog._ Pointer: [[The LIØNSBERG Pattern Language]] for the canonical articulation.
 
@@ -388,7 +388,7 @@ _How the structural body protects itself against the diseases of governance and 
 
 ## Part VIII — Implementation Pathway
 
-_How the Plans and Specifications are actually instantiated. Where [[The Program Delivery Guide|Volume VII]] provides the program-delivery methodology, Part VIII provides the canonical pathways the PDG operationalizes._
+_How the Plans and Specifications are actually instantiated. Where [[The Program Delivery Guide]] provides the program-delivery methodology, Part VIII provides the canonical pathways the PDG operationalizes._
 
 **Intent:** Operationalize the path from individual awakening to local Circle to Community to Bioregion to Planetary Grid to Federation of Worlds. Implementation is not optional; it is how the Pattern becomes life. Part VIII is the canonical map of that path.
 
@@ -417,7 +417,7 @@ _How the Plans and Specifications are actually instantiated. Where [[The Program
 
 ## Part IX — Reference Schemas and Appendices
 
-_The canonical reference layer — schemas, geometries, glossaries, change logs. The closing artifacts of Volume V. And the threshold gesture toward [[The Sacred Ascent|Volume X — The Sacred Ascent]] and the [[Eternal Divine Play]]._
+_The canonical reference layer — schemas, geometries, glossaries, change logs. The closing artifacts of Volume V. And the threshold gesture toward [[The Sacred Ascent|The Sacred Ascent]] and the [[Eternal Divine Play]]._
 
 **Intent:** Hold the encoded artifacts — the schemas, the gestural notations, the geometries, the change log — through which the Pattern is rendered in machine-readable, ritual-readable, and reference form. And close Volume V by gesturing toward what lies beyond: [[The Sacred Ascent]], where the structural body is embodied as eternal upward spiral, and the Game continues forever in service of [[ØNE]] and [[All]].
 
@@ -427,10 +427,10 @@ _The canonical reference layer — schemas, geometries, glossaries, change logs.
 - **Rite Texts and Gestural Notations** — the canonical liturgical material; the gestural notations for the canonical Rites.
 - **Geometry Blueprints and Symbol Canon** — sacred geometry; the Ø glyph; the 𓂀 hieroglyph; the Concentric Mandala; other canonical symbols.
 - **Seasonal Clock Charts** — the canonical Rite Wheel rendered as reference.
-- **Lexicon Cross-Reference** — pointer into [[The LIØNSBERG Lexicon|Volume VIII]] (the vocabulary lives there; Volume V uses its terms).
+- **Lexicon Cross-Reference** — pointer into [[The LIØNSBERG Lexicon]] (the vocabulary lives there; Volume V uses its terms).
 - **Glossary** — Volume V's own internal terms not covered by the Lexicon.
 - **Revision History and Change Log** — every amendment to Volume V preserved with rationale.
-- **Closing Benediction — Threshold to the Sacred Ascent** — the gesture beyond Volume V: the structural body completes here; the embodied ascent continues in [[The Sacred Ascent|Volume X]]; the Game continues forever in [[Eternal Divine Play]].
+- **Closing Benediction — Threshold to the Sacred Ascent** — the gesture beyond Volume V: the structural body completes here; the embodied ascent continues in [[The Sacred Ascent]]; the Game continues forever in [[Eternal Divine Play]].
 
 ---
 
@@ -438,13 +438,13 @@ _The canonical reference layer — schemas, geometries, glossaries, change logs.
 
 The single-source-per-concept rule is honored explicitly:
 
-- **Cosmic context, the True Myth, the procession from ØNE** → [[The Story of LIØNSBERG|Volume II]]. Volume V references but does not articulate the Story.
-- **The Game as participatory form, the Movements, the planetary arithmetic** → [[The Great Game of LIØNSBERG|Volume III]]. Volume V provides the structural blueprints the Game is played within.
-- **The Plays, the Seven Moves at Circle scale, how a being actually engages** → [[The LIØNSBERG Playbook|Volume IV]]. Volume V provides the Pattern Language from which Plays draw; the Playbook holds the lived-practice articulation.
-- **Program delivery methodology, integrated delivery, target value design, network of commitments, the rhythms of execution** → [[The Program Delivery Guide|Volume VII]]. Volume V provides the canonical Plans and Specifications; the PDG provides the canonical method for delivering them.
-- **Vocabulary, named concepts, the Word Tools, cross-tradition resonances** → [[The LIØNSBERG Lexicon|Volume VIII]]. Volume V uses Lexicon terms; the Lexicon defines them.
-- **The integrated long-form prophetic narrative, the Quests, the Theory of Everything as culminating chapter** → [[The Book of LIØNSBERG|Volume IX]]. Volume V provides the structural body that the Book narrates the building of.
-- **Embodied mastery, the eternal upward spiral, the 72 Gates** → [[The Sacred Ascent|Volume X]]. Volume V provides the architectural body; Volume X provides the path of embodied rising.
+- **Cosmic context, the True Myth, the procession from ØNE** → [[The Story of LIØNSBERG]]. Volume V references but does not articulate the Story.
+- **The Game as participatory form, the Movements, the planetary arithmetic** → [[The Great Game of LIØNSBERG]]. Volume V provides the structural blueprints the Game is played within.
+- **The Plays, the Seven Moves at Circle scale, how a being actually engages** → [[The LIØNSBERG Playbook]]. Volume V provides the Pattern Language from which Plays draw; the Playbook holds the lived-practice articulation.
+- **Program delivery methodology, integrated delivery, target value design, network of commitments, the rhythms of execution** → [[The Program Delivery Guide]]. Volume V provides the canonical Plans and Specifications; the PDG provides the canonical method for delivering them.
+- **Vocabulary, named concepts, the Word Tools, cross-tradition resonances** → [[The LIØNSBERG Lexicon]]. Volume V uses Lexicon terms; the Lexicon defines them.
+- **The integrated long-form prophetic narrative, the Quests, the Theory of Everything as culminating chapter** → [[The Book of LIØNSBERG]]. Volume V provides the structural body that the Book narrates the building of.
+- **Embodied mastery, the eternal upward spiral, the 72 Gates** → [[The Sacred Ascent]]. Volume V provides the architectural body; Volume X provides the path of embodied rising.
 - **The Pilgrim's Path through the Volumes** → [[The LIØNSBERG Experience]] (companion). Volume V is one of the destinations along the path; not the path itself.
 - **The 10 Year Grand Strategy in time-bound form** → [[The LIØNSBERG Strategy and Plan]] (living companion document). Volume V is the eternal structural Plans; the Strategy and Plan is the present-moment historical strategy.
 
@@ -472,7 +472,7 @@ The earlier v0.1 articulation of the Plans and Specifications lives at [[The Kin
 
 ## Position in the Sacred Codex
 
-Volume V sits between [[The LIØNSBERG Playbook|Volume IV — The Playbook]] and [[The Program Delivery Guide|Volume VII — The Program Delivery Guide]]:
+Volume V sits between [[The LIØNSBERG Playbook|The Playbook]] and [[The Program Delivery Guide|The Program Delivery Guide]]:
 
 - **Volume II** orients (the Story).
 - **Volume III** gathers (the Game).

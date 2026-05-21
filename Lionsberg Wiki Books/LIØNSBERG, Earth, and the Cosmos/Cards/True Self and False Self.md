@@ -28,4 +28,4 @@ The work has stages:
 
 This work cannot be skipped. **A Circle of False Selves cannot build the New Civilization.** Only True Selves can — and any unhealed False Self in a Circle eventually reproduces the Old Pattern inside the New form.
 
-Lives canonically in [[The Sacred Ascent]] (Volume IX) as a foundational inner discipline.
+Lives canonically in [[The Sacred Ascent]] as a foundational inner discipline.

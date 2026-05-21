@@ -24,4 +24,4 @@ This is the **Structural Immunity** of the Body. It pairs with the **Immunity Pr
 
 The Codex is therefore not a pacifist document in the naïve sense. It carries the [[Warrior Codex]] (one of the [[Archetypal Codexes Within The Pattern]]) — the disciplined art of right defense, in service of [[ØNE]] and All.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — specifically within the **Structural Immunity** element of the Pattern.
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] — specifically within the **Structural Immunity** element of the Pattern.

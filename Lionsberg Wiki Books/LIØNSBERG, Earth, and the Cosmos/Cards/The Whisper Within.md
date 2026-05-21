@@ -31,4 +31,4 @@ The practice of [[The Sacred Ascent|Sacred Ascent]] is, at its core, the practic
 
 When enough beings hear the Whisper Within clearly, **the Movement governs itself** without external command. The ONE coordinates through each, and through all. This is the deepest meaning of [[The Sovereign Superorganism]] — a Body of beings each listening to the same Source.
 
-Lives canonically in [[The Sacred Ascent]] (Volume IX).
+Lives canonically in [[The Sacred Ascent]].

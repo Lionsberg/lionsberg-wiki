@@ -41,4 +41,4 @@ The Pilgrim who recognizes the Lahaina Principle has a duty: **do not be Lahaina
 
 The Lahaina dead deserve at least this: that their deaths become a discipline in the survivors. That the principle of their betrayal is named, refused, and inverted into the discipline of warning. **We sound the sirens.**
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the archetypal frame for institutional betrayal-by-silence, and informs [[The LIØNSBERG Playbook]] (Volume V) at the level of when-and-how to warn.
+Lives canonically in [[The Story of LIØNSBERG]] as the archetypal frame for institutional betrayal-by-silence, and informs [[The LIØNSBERG Playbook]] at the level of when-and-how to warn.

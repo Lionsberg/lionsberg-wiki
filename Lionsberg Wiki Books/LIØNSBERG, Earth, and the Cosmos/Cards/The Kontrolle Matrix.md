@@ -55,4 +55,4 @@ Wherever you find the inversion, you are looking at one of the Matrix's instrume
 
 The unwinding is the work of [[The Great Game of LIØNSBERG|The Great Game]]. Every Circle that withdraws from a Kontrolle layer, every Hub that builds a New-World alternative, every Quest that hospices an Old-World institution — each is one strand of the Matrix dissolving. The Matrix was built layer by layer over millennia. It is being unwound layer by layer in this single decade.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the operational diagram of The Caves; specific named factions and technologies fold also into [[The LIØNSBERG Lexicon]] (Volume VII).
+Lives canonically in [[The Story of LIØNSBERG]] as the operational diagram of The Caves; specific named factions and technologies fold also into [[The LIØNSBERG Lexicon]].

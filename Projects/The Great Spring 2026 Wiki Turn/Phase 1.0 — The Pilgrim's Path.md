@@ -237,8 +237,8 @@ The entire `LIONSBERG Experience/` folder is an artifact of a previous build. It
 |---|---|
 | `The LIØNSBERG Sacred Codex.md` (new, at wiki root) | Layer 3 — the binding/cover, single architectural declaration |
 | `The LIØNSBERG Pattern Language.md` | Layer 3 — Volume III, requires Phase 3 rebuild (Pattern = Way unification) |
-| `The LIØNSBERG Lexicon.md` | Layer 3 — Volume VII (currently `LIONSBERG Lexicon.md` exists — needs canonical positioning) |
-| `The Book of LIØNSBERG.md` | Layer 3 — Volume VIII (the integrated long-form text — folds Genesis/Caves, Sacred Ascent, Playbook into one mythic narrative) |
+| `The LIØNSBERG Lexicon.md` | Layer 3 — [[The LIØNSBERG Lexicon]] |
+| `The Book of LIØNSBERG.md` | Layer 3 — [[The Sacred Ascent]] |
 
 ---
 

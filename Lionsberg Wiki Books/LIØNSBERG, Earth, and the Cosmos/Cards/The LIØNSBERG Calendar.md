@@ -112,4 +112,4 @@ This Card is a **continuously improving** canonical articulation. As Circles and
 
 ---
 
-_Linked from: [[The LIØNSBERG Experience|Volume I — The Experience]] · [[The Daily Way]] (the daily rhythm beneath the wider rhythms) · [[The Time Horizons]] (First Season onward) · [[The Great Game of LIØNSBERG|Volume III — The Great Game]] (seasonal Quests) · [[Covenant and Jubilee — December 2033]] (the December 2033 anchor)._
+_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The Daily Way]] (the daily rhythm beneath the wider rhythms) · [[The Time Horizons]] (First Season onward) · [[The Great Game of LIØNSBERG|The Great Game]] (seasonal Quests) · [[Covenant and Jubilee — December 2033]] (the December 2033 anchor)._

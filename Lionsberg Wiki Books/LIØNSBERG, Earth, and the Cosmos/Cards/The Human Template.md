@@ -32,4 +32,4 @@ What the Template is **not**:
 
 The Human Template on Earth is **wounded** — by deliberate tampering, by environmental degradation, by trauma, by genetic insertion / suppression, by the long predation. The Restoration Codex (one of [[The Archetypal Codexes Within The Pattern]]) addresses this wound directly. The work of restoring the Template to its full design is part of what [[Covenant and Jubilee — December 2033]] makes available.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as cosmological foundation.
+Lives canonically in [[The Story of LIØNSBERG]] as cosmological foundation.

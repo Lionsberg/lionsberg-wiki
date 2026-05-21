@@ -28,4 +28,4 @@ And this is why ReMembrance is the work of awakening — **un-veiling** what is 
 
 The Codex names this gently. The Veil is not enemy. It is the necessary condition. But the time has come, in this Turn, for many Creatures to **walk back through the Veil** — knowing the ONE while remaining themselves.
 
-This is the cosmological foundation for everything that follows in [[The Story of LIØNSBERG]] (Volume II).
+This is the cosmological foundation for everything that follows in [[The Story of LIØNSBERG]].

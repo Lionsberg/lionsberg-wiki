@@ -26,4 +26,4 @@ Under the Treaty:
 - Diplomacy is welcomed.
 - **Subjugation, manipulation, abduction, coercion, predation, parasitic extraction, and covert domination are not welcomed.**
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is foundational to the operational protocols of Cosmic Contact and Interspecies Diplomacy.
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] and is foundational to the operational protocols of Cosmic Contact and Interspecies Diplomacy.

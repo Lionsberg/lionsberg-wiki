@@ -79,12 +79,12 @@ _The Game beyond Earth. Cosmic Diplomacy; the Federation of Worlds; the Cycle of
 
 The Game is the entry. Playing it opens deeper engagement with the Codex.
 
-- For the **operational handbook** of play — how to actually run each Move at the Circle and individual scale — see [[The LIØNSBERG Playbook|Volume IV — The Playbook]]
-- For the **structural body** that every Move embodies — the canonical Plans and Specifications of the New Civilization, with [[The LIØNSBERG Pattern Language|the Pattern Language]] at its core — see [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V — Plans and Specifications]]
-- For the **integrated delivery methodology** that scales the Game from Circle to Bioregion to Planet — proven across $20M+ of research and billion-dollar programs — see [[The Program Delivery Guide|Volume VII — The Program Delivery Guide]]
-- For the **vocabulary** that gives every Move its precise meaning — see [[The LIØNSBERG Lexicon|Volume VIII — The Lexicon]]
-- For the **integrated long-form narrative** that holds the whole journey as one prophetic text — see [[The Book of LIØNSBERG|Volume IX — The Book]]
-- For the **embodied mastery** of the eternal upward spiral — the path of the Player who has played long and now rises — see [[The Sacred Ascent|Volume X — The Sacred Ascent]]
+- For the **operational handbook** of play — how to actually run each Move at the Circle and individual scale — see [[The LIØNSBERG Playbook|The Playbook]]
+- For the **structural body** that every Move embodies — the canonical Plans and Specifications of the New Civilization, with [[The LIØNSBERG Pattern Language|the Pattern Language]] at its core — see [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]
+- For the **integrated delivery methodology** that scales the Game from Circle to Bioregion to Planet — proven across $20M+ of research and billion-dollar programs — see [[The Program Delivery Guide|The Program Delivery Guide]]
+- For the **vocabulary** that gives every Move its precise meaning — see [[The LIØNSBERG Lexicon|The Lexicon]]
+- For the **integrated long-form narrative** that holds the whole journey as one prophetic text — see [[The Book of LIØNSBERG|The Book]]
+- For the **embodied mastery** of the eternal upward spiral — the path of the Player who has played long and now rises — see [[The Sacred Ascent|The Sacred Ascent]]
 
 The Game begins simply. A Circle of three to sixteen souls. A Quest. A weekly rhythm. The first work.
 

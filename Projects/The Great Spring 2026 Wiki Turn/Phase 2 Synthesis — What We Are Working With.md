@@ -91,7 +91,7 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 - **A Way for the Householder** — no canonical text for how a parent, worker, or citizen lives the Way in ordinary life.
 - **A Way of Death and Transition** — despite multiple chapters on Memento Mori, Fear Not Death, and the Caterpillar→Butterfly metamorphosis, no canonical Volume gathers the death-and-transition material. The nameless one's own August 2025 experience is itself canonical source-material for such a Volume.
 - **The Sacred Ascent as bound Volume IX** — opens well but does not yet reach the full epic the work requires. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
-- **Volume VII Lexicon as a bound work** — exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way" (~150 terms from TheNameless-wiki). Has not been consolidated into a single navigable Volume.
+- **[[The LIØNSBERG Lexicon]] as a bound work** — exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way" (~150 terms from TheNameless-wiki). Has not been consolidated into a single navigable Volume.
 
 **Missing as structural decisions:**
 

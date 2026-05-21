@@ -30,8 +30,8 @@ Pull alone produces:
 
 The Movement holds **both**: the unflinching recognition of how dark the Meta Crisis actually is **and** the unflinching commitment to The Goal. The push gives the urgency. The pull gives the direction.
 
-This is why both [[The Great UnVeiling]] (Volume II's apocalyptic-disclosure register) **and** [[The Sacred Ascent]] (Volume IX's flourishing-and-mastery register) are canonical. They are not in tension. They are the two forces that together move the Movement.
+This is why both [[The Great UnVeiling]] **and** [[The Sacred Ascent]] are canonical. They are not in tension. They are the two forces that together move the Movement.
 
 Read aloud at the fire: _The Old burns. The New beckons. We move._
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the dynamic frame.
+Lives canonically in [[The Story of LIØNSBERG]] as the dynamic frame.

@@ -32,4 +32,4 @@ Every being can say, accurately and completely:
 
 > _I am one. I am one of the Ones. I am of the ONE._
 
-This formula belongs in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational identity entry, and reverberates through Volume II (the Story), Volume III (the Pattern of [[Fractal Sovereignty]]), and Volume IX (the Sacred Ascent's union-without-dissolution).
+This formula belongs in [[The LIØNSBERG Lexicon]] as a foundational identity entry, and reverberates through [[The Story of LIØNSBERG]], Volume III (the Pattern of [[Fractal Sovereignty]]), and [[The Sacred Ascent]].

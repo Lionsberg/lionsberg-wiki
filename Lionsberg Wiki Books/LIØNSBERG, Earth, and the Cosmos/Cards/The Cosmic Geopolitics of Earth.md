@@ -59,4 +59,4 @@ Three principles hold the Pilgrim's posture in this material:
 
 The accurate cosmic frame is sobering AND empowering — sobering because the stakes are real and the players are sophisticated; empowering because Earth-human is not alone, the cosmic order has not failed, and the deepest cosmic story is one of progressive return to the ØNE that all genuine awakenings participate in.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the foundational cosmic-geopolitical frame within which Earth's current moment is held; pairs with [[Cosmic Wildlife]].
+Lives canonically in [[The Story of LIØNSBERG]] as the foundational cosmic-geopolitical frame within which Earth's current moment is held; pairs with [[Cosmic Wildlife]].

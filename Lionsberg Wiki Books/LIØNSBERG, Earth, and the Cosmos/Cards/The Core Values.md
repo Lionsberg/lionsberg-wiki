@@ -27,4 +27,4 @@ The derivative Values (Courage, Compassion, Generosity, Humility, Integrity, Pat
 
 A being in Right Relationship lives all of them in proportion to the moment. A culture in Right Relationship structures its institutions to support them. A civilization in Right Relationship measures its [[Throughput of The Goal]] in part by how well it cultivates them.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the top-tier Values stratum.
+Lives canonically in [[The LIØNSBERG Lexicon]] as the top-tier Values stratum.

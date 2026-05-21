@@ -52,4 +52,4 @@ The discipline is also the answer to a recurring temptation: _"The Old World is 
 
 The principle is one of the [[Structural Immunity|Structural Immunities]] of the Codex. Without it, the Pattern is captured at the first urgent moment. With it, the Pattern survives every urgency intact — and arrives at the destination still recognizable as itself.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational principle running across all 12 Elements, and in [[The LIØNSBERG Lexicon]] (Volume VII) as a Meta Layer principle.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as a foundational principle running across all 12 Elements, and in [[The LIØNSBERG Lexicon]] as a Meta Layer principle.

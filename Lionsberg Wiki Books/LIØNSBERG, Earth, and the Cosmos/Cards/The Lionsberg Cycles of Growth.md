@@ -37,4 +37,4 @@ This is the disciplined math beneath the prophetic horizon. The First Three Perc
 
 **The Flame passes at the speed of trust.** That is the rate-limiting variable. The Cycles wait for trust to be earned, person-by-person, Circle-by-Circle. The math is downstream of the relationships.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the operational tempo.
+Lives canonically in [[The Great Game of LIØNSBERG]] as the operational tempo.

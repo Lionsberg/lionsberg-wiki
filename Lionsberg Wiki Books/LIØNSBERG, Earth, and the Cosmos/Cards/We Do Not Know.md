@@ -31,4 +31,4 @@ The Matrix Cannot Be Reasoned Out Of — reason was constructed inside the Matri
 
 This is potentially **the final Gate** of [[The 144 Gates as Architecture of Consciousness Shift|the 144 Gates]] — the Crossing of The Boundary itself. The author of [[A 200 Page Book]] marked this in margin: "Gate 88 or 144 (final gate) might be Crossing The Boundary."
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational epistemic Pattern.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as a foundational epistemic Pattern.

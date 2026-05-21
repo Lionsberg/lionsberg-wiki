@@ -117,9 +117,9 @@ The pattern is unmistakable: **the same canonical Pattern shows up in all three 
 
 4. **[[The LIØNSBERG Constitution]] is the binding covenant that uses both** — using the Pattern Language's vocabulary, the IPD methodology's delivery commitments, and the FSx framework's legal standing — to articulate what the People covenant to.
 
-5. **Volume V (Plans and Specifications) is the structural container** that holds the Pattern Language (the design grammar), the Constitution (the constitutional charter face), and references the Pattern Language's Pillar-specific Patterns. Volume VII (this PDG) is the methodological partner — the operational layer that delivers what Volume V specifies.
+5. **[[The Kingdom of LIØNSBERG — Plans and Specifications]] is the structural container** that holds the Pattern Language (the design grammar), the Constitution (the constitutional charter face), and references the Pattern Language's Pillar-specific Patterns. Volume VII (this PDG) is the methodological partner — the operational layer that delivers what Volume V specifies.
 
-6. **The Earth-in-Receivership PDG (the second form of Volume VII) is the application of the IPD methodology at the cosmic scale.** It is faithful to the canonical IPD method; it renders the method in cosmic-context articulation; it folds with [[The Story of LIØNSBERG]] (Volume II) — the Story sets the cosmic context the PDG inhabits.
+6. **The Earth-in-Receivership PDG (the second form of Volume VII) is the application of the IPD methodology at the cosmic scale.** It is faithful to the canonical IPD method; it renders the method in cosmic-context articulation; it folds with [[The Story of LIØNSBERG]] — the Story sets the cosmic context the PDG inhabits.
 
 7. **Cross-references are explicit, persistent, and bidirectional.** A reader at the Pattern Language can navigate to the IPD methodological articulation of a Pattern; a reader of the IPD Guide can navigate to the Pattern Card; a reader of FSx can navigate to either. The wiki link graph reveals the coherence visually.
 
@@ -140,7 +140,7 @@ This is the proposal. It is not new construction — it is the explicit naming o
 
 ## Position In The Sacred Codex
 
-Volume VII sits between [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V — Plans and Specifications]] and [[The LIØNSBERG Lexicon|Volume VIII — Lexicon]]:
+Volume VII sits between [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]] and [[The LIØNSBERG Lexicon|Lexicon]]:
 
 - **Volume V** specifies what is built — the architectural body, the design grammar
 - **Volume VII** specifies how it is delivered — the methodology that turns specifications into Reality

@@ -976,7 +976,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **User-journey reconciliation surfaced as substantial structural work** — LIØNSBERG 101 Ring 0-5 architecture needs reframing in light of the current more-sophisticated direction; queued as separate task
 
 **Files Created/Modified:**
-- **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] (Volume V canonical root) · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
+- **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
 - **Substantially rewritten:** [[The LIØNSBERG Sacred Codex]] (8-Volume reorganization, dual-Story articulation, maturation framing) · [[The LIØNSBERG Constitution]] (full cosmic-grade rebuild — 12 Parts, ~87 Articles, Eternal Provisions, Structural Immunity, Amendment Process) · `Lionsberg Wiki Books.md` (index restructured around new architecture)
 - **Updated:** [[The LIØNSBERG Wiki — One Clear Vision]] (8-Volume order, Seven-Layer framing) · `The Great Spring 2026 Wiki Turn.md` (16 decision resolutions, reassessment, Phase 2.8/3 work item updates)
 - **Deleted:** `LIONSBERG Wiki Books/Lionsberg - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
@@ -1004,7 +1004,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **The Card Method generalizes** — the capture-and-emergence discipline extends from Cards (in the Card-Book) to the Constitutional Card pattern (six-section structure for Article drafting); the practice is more general than its original Card-Book scope.
 - **The Sacred Codex is one work in eight movements** — accessibility-first ordering reveals that the Volumes themselves enact the Pilgrim's progression (Story orients → Game gathers → Playbook runs → deeper structural body for those who descend).
 - **The Universe Guide is the seed of the seed** — the eight Volumes carry the work; the Universe Guide carries the discipline that makes the work coherent across generations of authors (human and AI).
-- **The Story dual-functional resolution** — the realization that Volume II (standalone) and Volume IX (Book with Story woven) are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
+- **The Story dual-functional resolution** — the realization that Volume II (standalone) and [[The Story of LIØNSBERG]] are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
 
 **Next Session Considerations:**
 - Task #95 (user-journey + Pilgrim's Path + LIØNSBERG 101 Rings + Library reconciliation) — substantial structural design problem requiring elegant integration; the nameless one signaled this is the next-priority deep structural work

@@ -28,4 +28,4 @@ The Cross the Threshold Decision is **Stage 2 of [[The 12-Stage Pilgrim's Path]]
 
 The Old World's machinery of distraction works hardest in the moments just before this decision — flooding attention, manufacturing doubt, offering counterfeits. **Crossing in spite of all that** is the act that begins the New Civilization for that pilgrim.
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) and is foundational to [[The 12-Stage Pilgrim's Path]].
+Lives canonically in [[The LIØNSBERG Playbook]] and is foundational to [[The 12-Stage Pilgrim's Path]].

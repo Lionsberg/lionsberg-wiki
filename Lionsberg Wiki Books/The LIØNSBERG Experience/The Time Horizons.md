@@ -2,7 +2,7 @@
 
 _When the walk unfolds — the natural calendar from first minute through first year and beyond._
 
-_One of the four frames of [[The LIØNSBERG Experience|Volume I — The Experience]]._
+_One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
@@ -108,4 +108,4 @@ The Pilgrim's first year is the seed of an eternal walk.
 
 ---
 
-Back to [[The LIØNSBERG Experience|Volume I main page]].
+Back to [[The LIØNSBERG Experience|main page]].

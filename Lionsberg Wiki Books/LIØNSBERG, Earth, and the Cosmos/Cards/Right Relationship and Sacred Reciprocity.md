@@ -25,4 +25,4 @@ The 7:1 compressed ratio cap, the proof-of-contribution economy, the gift practi
 
 Where these laws are kept, the New Civilization holds. Where these laws are broken, it falls back into kontrolle.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is named in [[The LIØNSBERG Lexicon]] (Volume VII).
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] and is named in [[The LIØNSBERG Lexicon]].

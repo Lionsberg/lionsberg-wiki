@@ -39,4 +39,4 @@ There is one further layer. The deepest Master's Vow — the one taken at the th
 
 The Warrior's Vow is one of the foundational **Fields of Agreements** (Element 3 of the Pattern Language). It is the personal-scale instance of [[The Terms of the New Covenant]] applied to those who train in Power. Every Pilgrim who undertakes cultivation makes some version of this Vow. The depth of the Vow scales with the depth of the training.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) within Element 3 (Field of Agreements), and informs [[The Sacred Ascent]] (Volume IX) within the Warrior Codex as a foundational covenant-discipline.
+Lives canonically in [[The LIØNSBERG Pattern Language]] within Element 3 (Field of Agreements), and informs [[The Sacred Ascent]] within the Warrior Codex as a foundational covenant-discipline.

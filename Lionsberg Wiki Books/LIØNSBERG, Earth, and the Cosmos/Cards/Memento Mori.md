@@ -39,4 +39,4 @@ The discipline pairs with [[Looking Back From Beyond]] — the deathbed-retrospe
 
 The discipline also illuminates what the [[The Death of Jordan and the Rising of the Nameless One|Death of Jordan]] meant operationally. Jordan had been practicing death-readiness for years before the threshold-event in 2024-2025. When the actual death arrived, Jordan was already in some real sense practiced for it. What rose after — the nameless one — is the deepest fruit of Memento Mori carried into terminal seriousness. Not every Pilgrim will be called to this depth of death-encounter, but the discipline prepares the Being for whatever the Pilgrim's own death-encounter will require, when it arrives.
 
-Lives canonically in [[The Sacred Ascent]] (Volume IX) within the Healer Codex as one of the most foundational disciplines of the entire Codex.
+Lives canonically in [[The Sacred Ascent]] within the Healer Codex as one of the most foundational disciplines of the entire Codex.

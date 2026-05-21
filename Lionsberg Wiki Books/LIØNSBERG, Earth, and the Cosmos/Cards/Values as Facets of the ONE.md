@@ -28,4 +28,4 @@ This epistemology has consequences:
 
 This is why the Lexicon is not merely vocabulary. The Lexicon is the **named architecture of how the ONE shows up in language** — and through language, in shared reality.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the ontological introduction.
+Lives canonically in [[The LIØNSBERG Lexicon]] as the ontological introduction.

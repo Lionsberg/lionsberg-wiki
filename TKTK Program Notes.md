@@ -29,12 +29,12 @@ Where we left off:
   Multi-turn.
 [[ØNE]] 
   Substantive creative work pending:
-  - #85 Volume II Story rewrite — the biggest unmet creative need.
+  - #85 [[The Story of LIØNSBERG]] rewrite — the biggest unmet creative need.
   The Story is dual-functional (standalone + woven through Vol IX);
    the standalone needs a masterful rewrite. Multi-session.
-  - #86 Volume IX Book reweave — follows the Story rewrite.
+  - #86 [[The Book of LIØNSBERG]] reweave — follows the Story rewrite.
   Multi-session.
-  - #87 Volume III Playbook synthesis — three sources to weave into
+  - #87 [[The LIØNSBERG Playbook]] synthesis — three sources to weave into
    one. Substantial.
   - #84 Volume VI Strategy and Plan update — time-bound
   articulation of where we are in history. Substantive update

@@ -41,4 +41,4 @@ The discipline produces strategic clarity. _When you are tempted to spend your h
 
 This is the operational answer to the recurring temptation to "work within the system." The Pattern's answer: there is no system to work within that has not already failed. Build the New. **New wine. New wineskins. Both preserved.**
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational principle, deeply paired with [[Hospicing the Old Systems]] and [[The Voluntary Leap Forward]].
+Lives canonically in [[The LIØNSBERG Pattern Language]] as a foundational principle, deeply paired with [[Hospicing the Old Systems]] and [[The Voluntary Leap Forward]].

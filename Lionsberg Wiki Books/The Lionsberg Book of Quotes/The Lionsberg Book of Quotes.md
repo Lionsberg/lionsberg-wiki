@@ -1,6 +1,6 @@
 # The Lionsberg Book of Quotes
 
-_One of the entries in [[The LIØNSBERG Living Library|Volume XI — The Living Library]]. The compression of wisdom into pointed lines that can be read aloud in Circles, written on walls, returned to in stillness, carried in the heart._
+_One of the entries in [[The LIØNSBERG Living Library|The Living Library]]. The compression of wisdom into pointed lines that can be read aloud in Circles, written on walls, returned to in stillness, carried in the heart._
 
 ---
 
@@ -412,4 +412,4 @@ _Yes. This is true. I will live by this today._
 
 ---
 
-_The Lionsberg Book of Quotes. One of the entries in [[The LIØNSBERG Living Library|Volume XI — The Living Library]]. A continuously improving canonical companion to [[The LIØNSBERG Sacred Codex|the Sacred Codex]]._
+_The Lionsberg Book of Quotes. One of the entries in [[The LIØNSBERG Living Library|The Living Library]]. A continuously improving canonical companion to [[The LIØNSBERG Sacred Codex|the Sacred Codex]]._

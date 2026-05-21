@@ -31,4 +31,4 @@ The total budget topology (per The Lionsberg Strategy and Plan of Action) aggreg
 
 The Hub Network is **how Heaven on Earth gets built physically**. Without the Hubs, the Pattern stays in conversation. With the Hubs, the Pattern stands in the land, becomes a place beings can come to, becomes the visible alternative the awakening can see and join.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) and [[The LIØNSBERG Playbook]] (Volume V) as the physical implementation infrastructure.
+Lives canonically in [[The Great Game of LIØNSBERG]] and [[The LIØNSBERG Playbook]] as the physical implementation infrastructure.

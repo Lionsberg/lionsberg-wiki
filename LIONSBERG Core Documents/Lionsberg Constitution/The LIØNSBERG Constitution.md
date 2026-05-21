@@ -33,7 +33,7 @@ _This constitution is explicitly provisional and in draft form until formally ra
 
 ## Where This Lives in the Codex
 
-The Constitution is the **Constitutional Charter face** of [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V]] — the structural body of the New Civilization. Volume V functions simultaneously as **architectural plan**, **constitutional charter**, **field manual**, and **sacred seed**. The Constitution is the constitutional-charter face, sitting alongside the Pattern Language (the design-grammar face) within Volume V.
+The Constitution is the **Constitutional Charter face** of [[The Kingdom of LIØNSBERG — Plans and Specifications]] — the structural body of the New Civilization. Volume V functions simultaneously as **architectural plan**, **constitutional charter**, **field manual**, and **sacred seed**. The Constitution is the constitutional-charter face, sitting alongside the Pattern Language (the design-grammar face) within Volume V.
 
 ---
 
@@ -298,7 +298,7 @@ _The People of LIØNSBERG transition from debt-and-fiat economics to a regenerat
 
 ### Article VI.3 — Of the Integrated Delivery System
 
-_The Program through which the New Civilization is built operates by the principles of [[Integrated Delivery]] — dissolving walls between domains, designing to The Goal, building through the Network of Commitments. (See [[The Program Delivery Guide|Volume VII]].)_
+_The Program through which the New Civilization is built operates by the principles of [[Integrated Delivery]] — dissolving walls between domains, designing to The Goal, building through the Network of Commitments. (See [[The Program Delivery Guide]].)_
 
 ### Article VI.4 — Of the Commons
 

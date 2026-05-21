@@ -20,4 +20,4 @@ Three companion structures sit alongside the seven Volumes:
 
 Together: the Atlas reveals where; the Commentaries record what is being learned; the Keepers protect what is canonical. The three are the connective tissue between the bound Codex and the living Body that grows around it.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — within the **Governance and Wise Eldership** element — and is foundational to the long-term stewardship phase of [[The Great Spring 2026 Wiki Turn]] (Phase 8).
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] — within the **Governance and Wise Eldership** element — and is foundational to the long-term stewardship phase of [[The Great Spring 2026 Wiki Turn]] (Phase 8).

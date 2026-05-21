@@ -2,7 +2,7 @@
 
 _The archetypal arc. Every pilgrim, every Circle, every Community walks them. The order is not arbitrary; the order is the Way._
 
-_One of the four frames of [[The LIØNSBERG Experience|Volume I — The Experience]]._
+_One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
@@ -32,7 +32,7 @@ The "yes" lights a fire that aligns countless others.
 
 **Remember.**
 
-Having crossed, the pilgrim receives the cosmic context. They read [[The Story of LIØNSBERG]] ([[The Story of LIØNSBERG|Volume II of the Codex]]) — the true myth, the cosmic history of this star system and beyond, the place of Earth in the larger Cosmos. They begin to encounter [[The Great Game of LIØNSBERG|Volume III — the Great Game]] as the participatory form the Pattern takes in real life.
+Having crossed, the pilgrim receives the cosmic context. They read [[The Story of LIØNSBERG]] ([[The Story of LIØNSBERG|Volume II of the Codex]]) — the true myth, the cosmic history of this star system and beyond, the place of Earth in the larger Cosmos. They begin to encounter [[The Great Game of LIØNSBERG|the Great Game]] as the participatory form the Pattern takes in real life.
 
 Orientation is the layer at which the Pilgrim begins to understand **what is happening**, **why now**, and **what is at stake**.
 
@@ -73,7 +73,7 @@ The Circle is formed. The Game begins.
 
 The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
 
-[[The LIØNSBERG Playbook]] ([[The LIØNSBERG Playbook|Volume IV]]) is the working document at the Circle scale. **[[The Daily Way]]** is the working rhythm at the individual scale. The Pilgrim no longer studies the Way — they live it. Daily practice. Weekly Circle. Seasonal Quest.
+[[The LIØNSBERG Playbook]] ([[The LIØNSBERG Playbook]]) is the working document at the Circle scale. **[[The Daily Way]]** is the working rhythm at the individual scale. The Pilgrim no longer studies the Way — they live it. Daily practice. Weekly Circle. Seasonal Quest.
 
 ---
 
@@ -81,7 +81,7 @@ The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, W
 
 **Encounter.**
 
-As real questions arise about real things — governance, economy, conflict, federation, healing, education, the more-than-human world, the cosmic — the Circle reaches into [[The LIØNSBERG Pattern Language|the Pattern Language]] (Part VI of [[The Kingdom of LIØNSBERG — Plans and Specifications|Volume V — Plans and Specifications]]) for the specific Patterns that answer specific questions. The Pattern is met not as theory but as living answer.
+As real questions arise about real things — governance, economy, conflict, federation, healing, education, the more-than-human world, the cosmic — the Circle reaches into [[The LIØNSBERG Pattern Language|the Pattern Language]] (Part VI of [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]) for the specific Patterns that answer specific questions. The Pattern is met not as theory but as living answer.
 
 The Pattern is the Way. The Way is the Pattern. Every question of how-to-do-this-rightly is a question of which Pattern is operating here.
 
@@ -103,7 +103,7 @@ By the end, both the individual and the Circle are reborn — and the New Civili
 
 **Evolve.**
 
-For those called to deeper personal practice, [[The Sacred Ascent]] ([[The Sacred Ascent|Volume X]]) opens — the 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, and contemplative arts converge into one living synthesis.
+For those called to deeper personal practice, [[The Sacred Ascent]] ([[The Sacred Ascent]]) opens — the 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, and contemplative arts converge into one living synthesis.
 
 The Pilgrim learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks.
 

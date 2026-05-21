@@ -41,4 +41,4 @@ The Hour rests on the deeper claim of [[The Power of One]] — that **one being,
 
 Begin tomorrow morning. One Hour. Four Periods. In service of [[ØNE]] and All. **Do not break it.** And see what the year becomes.
 
-Lives canonically in [[The Book of LIØNSBERG]] (Volume VIII) as the operational personal-Practice discipline, and in [[The LIØNSBERG Playbook]] (Volume V) as the foundational daily commitment of every Citizen.
+Lives canonically in [[The Book of LIØNSBERG]] as the operational personal-Practice discipline, and in [[The LIØNSBERG Playbook]] as the foundational daily commitment of every Citizen.

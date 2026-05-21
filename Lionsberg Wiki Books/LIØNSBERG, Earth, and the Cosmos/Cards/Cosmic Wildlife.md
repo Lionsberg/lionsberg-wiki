@@ -43,4 +43,4 @@ This Card pairs with [[The Cosmic Geopolitics of Earth]], which names the specif
 
 The deeper insight: every Cosmic Wildlife being — predator and ally and observer alike — is within the larger field of [[ØNE]]. Even the present cosmic conflict serves, at a level the immediate Earth-human mind cannot fully see, the larger return-arc of the [[The Great ReMembering]]. The Pilgrim's discipline is to engage the proximate reality with discernment while holding the deeper reality with reverence.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the foundational posture toward non-human intelligence; pairs operationally with [[The Cosmic Geopolitics of Earth]].
+Lives canonically in [[The Story of LIØNSBERG]] as the foundational posture toward non-human intelligence; pairs operationally with [[The Cosmic Geopolitics of Earth]].

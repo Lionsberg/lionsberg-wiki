@@ -34,4 +34,4 @@ A Circle in California, a Community in West Africa, a Federation in the Andean B
 
 This is what the Sacred Codex is preparing the way for — not as an aspiration but as the **already-emerging reality** that the Turn will make visible.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 2 (Holofractal Omnifederation).
+Lives canonically in [[The LIØNSBERG Pattern Language]] under Element 2 (Holofractal Omnifederation).

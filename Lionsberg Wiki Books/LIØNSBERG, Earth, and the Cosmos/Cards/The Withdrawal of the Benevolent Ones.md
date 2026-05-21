@@ -37,4 +37,4 @@ The Pattern's posture toward the Return is **discerning welcome**. We do not yet
 
 But the **authentic Return is real**. The Withdrawal is dating. The 2,500 years was the gestation period. The cohort that is now arriving as adult souls in human bodies is the **first cohort the benevolent are showing themselves to in full**. We are the ones the Withdrawal was timed to produce.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the dating anchor of the present darkness and as the seed-event of the Axial Age inheritance.
+Lives canonically in [[The Story of LIØNSBERG]] as the dating anchor of the present darkness and as the seed-event of the Axial Age inheritance.

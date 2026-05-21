@@ -25,4 +25,4 @@ The Codex does not pretend Anti-Good does not exist. To pretend it does not exis
 
 The Codex does not give Anti-Good more attention than it deserves. The orientation is toward The Goal. But it does name Anti-Good clearly, so the New Civilization is not built atop unrecognized predation.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the explicit negative axis. Foundational to [[The InterCosmic Treaty of Non-Subjugation]], [[Sacred Guardianship — Neutralizing the Predatory]], and the moral discernment of Volume V.
+Lives canonically in [[The LIØNSBERG Lexicon]] as the explicit negative axis. Foundational to [[The InterCosmic Treaty of Non-Subjugation]], [[Sacred Guardianship — Neutralizing the Predatory]], and the moral discernment of Volume V.

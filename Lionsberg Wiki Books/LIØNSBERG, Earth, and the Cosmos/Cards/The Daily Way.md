@@ -10,7 +10,7 @@ captured: 2026-05-20
 
 _The rhythm by which every Pilgrim walks the Way through each rising and setting of the sun. The smallest complete unit of life lived consciously._
 
-The day is the smallest complete unit of life. _To know the Way, one must live it_ — and to live it, one must walk it through each day. The Daily Way is the canonical Pattern of how a Pilgrim of [[The LIØNSBERG Experience|Volume I — the Experience]] holds the practice at the individual scale.
+The day is the smallest complete unit of life. _To know the Way, one must live it_ — and to live it, one must walk it through each day. The Daily Way is the canonical Pattern of how a Pilgrim of [[The LIØNSBERG Experience|the Experience]] holds the practice at the individual scale.
 
 It is held in **three permissive tiers**, walked at the Pilgrim's chosen depth. Every Pilgrim walks the Essential. The Devoted and Mastery tiers are chosen, not required — the Pilgrim deepens as they are called.
 
@@ -66,7 +66,7 @@ Adds to the Essential:
 
 ## Tier 3 — The Mastery Way
 
-_For those on the path toward embodied mastery. Multi-hour integrated practice. The foothills of [[The Sacred Ascent|Volume X — The Sacred Ascent]]._
+_For those on the path toward embodied mastery. Multi-hour integrated practice. The foothills of [[The Sacred Ascent|The Sacred Ascent]]._
 
 Adds to the Devoted Way:
 
@@ -74,7 +74,7 @@ Adds to the Devoted Way:
 - **Daily martial / yogic / energetic practice** — a discipline taken seriously. Tai chi, qi gong, yoga, martial art, breathwork. Daily for years. The body becomes the instrument.
 - **Healing arts practice** — for those called: the cultivation of the gift of healing, in self and others. Touch, energy, presence.
 - **Periodic retreats** — a weekly day of silence; seasonal multi-day retreats; annual longer immersions. The Pilgrim withdraws periodically to return more fully.
-- **Cross-references and feeds [[The Sacred Ascent|Volume X]]** — the 72 Gates of embodied mastery open. The Mastery Way is the path that leads into the Ascent; the Ascent is the path's culmination.
+- **Cross-references and feeds [[The Sacred Ascent]]** — the 72 Gates of embodied mastery open. The Mastery Way is the path that leads into the Ascent; the Ascent is the path's culmination.
 
 The Mastery Way is not for everyone. It is not required. It is offered for those whose calling will not let them walk a smaller path. The Way honors the Pilgrim who walks the Essential and lives well — and honors the Pilgrim who walks the Mastery and is consumed in the cultivation.
 
@@ -92,4 +92,4 @@ This Card is a **continuously improving** canonical articulation. It will be ref
 
 ---
 
-_Linked from: [[The LIØNSBERG Experience|Volume I — The Experience]] · [[The 12 Stages of the Pilgrim's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Cosmic Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent|Volume X]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._
+_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The 12 Stages of the Pilgrim's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Cosmic Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._

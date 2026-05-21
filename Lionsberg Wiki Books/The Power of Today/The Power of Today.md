@@ -1,13 +1,13 @@
 # The Power of Today
 
 _By [[Jordan Nicholas Sukut]] (2024)._
-_The philosophical companion to **[[The LIØNSBERG Experience|The Daily Way]]** in [[The LIØNSBERG Experience|Volume I of the Sacred Codex]]._
+_The philosophical companion to **[[The LIØNSBERG Experience|The Daily Way]]** in [[The LIØNSBERG Experience]]._
 
 ---
 
 ## What This Is
 
-The Power of Today is the deep philosophical meditation behind the Daily Way. Where [[The LIØNSBERG Experience|Volume I — The Experience]] articulates the operational template of the Pilgrim's daily walk in three tiers (Essential · Devoted · Mastery), this Book holds the prophetic ground — _why_ the day matters as it does, _why_ Now is the basic unit of eternity, _why_ Practice is the engine through which a being transforms a world.
+The Power of Today is the deep philosophical meditation behind the Daily Way. Where [[The LIØNSBERG Experience|The Experience]] articulates the operational template of the Pilgrim's daily walk in three tiers (Essential · Devoted · Mastery), this Book holds the prophetic ground — _why_ the day matters as it does, _why_ Now is the basic unit of eternity, _why_ Practice is the engine through which a being transforms a world.
 
 It is one of the foundational expressions of this Way, written before LIØNSBERG was fully named. It carries the lineage of the daily articulation. It is preserved as procession — the operational Daily Way in Volume I draws its essence; this Book draws its depth.
 
@@ -91,11 +91,11 @@ The operational articulation. The integrated daily template that brings the phil
 
 ## How This Relates to the Canonical Daily Way
 
-[[The LIØNSBERG Experience|Volume I — The Experience]] holds the canonical operational articulation of the Daily Way in three tiers:
+[[The LIØNSBERG Experience|The Experience]] holds the canonical operational articulation of the Daily Way in three tiers:
 
 - **The Essential Way** — every Pilgrim. ~30 minutes total per day. The seven-minute morning stillness held in the [[The LIØNSBERG Experience|Coherent Cosmic Intention Wave]] · midday recentering · evening reflection.
 - **The Devoted Way** — fuller chosen practice. ~60-90 minutes total per day.
-- **The Mastery Way** — embodied mastery; the foothills of [[The Sacred Ascent|Volume X — The Sacred Ascent]].
+- **The Mastery Way** — embodied mastery; the foothills of [[The Sacred Ascent|The Sacred Ascent]].
 
 This Book — The Power of Today — articulates the deeper _why_ behind that operational template. Read this when the daily template is established and the Pilgrim wants the philosophical roots. The operational Way is in Volume I; the philosophical depth is here.
 

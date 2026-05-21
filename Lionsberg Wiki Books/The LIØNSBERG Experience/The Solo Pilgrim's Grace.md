@@ -2,7 +2,7 @@
 
 _For the Pilgrim who reads alone for weeks or months before gathering. This is not deviation; this is also the path._
 
-_A companion page within [[The LIØNSBERG Experience|Volume I — The Experience]]._
+_A companion page within [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
@@ -20,7 +20,7 @@ The Pattern is held by [[ØNE]], not by any timeline. The Pilgrim who is not yet
 
 **Walk [[The Daily Way|the Essential Way]].** Even alone, the seven-minute morning stillness anchors the Pilgrim in the [[The Coherent Cosmic Intention Wave|Wave]] — and the Wave forms whether or not the Pilgrim has a Circle. The field exists because each Pilgrim individually holds it.
 
-**Read the Codex slowly.** [[The Story of LIØNSBERG|The Story]] (Volume II) first. Then [[The Great Game of LIØNSBERG|The Game]] (Volume III). Then [[Welcome to LIØNSBERG]] revisited. Then whatever calls — perhaps [[The Power of Today]] for the deeper meditation on the daily, perhaps [[The LIØNSBERG Pattern Language|the Pattern Language]] for the structural body.
+**Read the Codex slowly.** [[The Story of LIØNSBERG|The Story]] first. Then [[The Great Game of LIØNSBERG|The Game]]. Then [[Welcome to LIØNSBERG]] revisited. Then whatever calls — perhaps [[The Power of Today]] for the deeper meditation on the daily, perhaps [[The LIØNSBERG Pattern Language|the Pattern Language]] for the structural body.
 
 **Hold the question.** _Who are the 2 or 3 I would invite when the moment comes?_ Hold the question lightly. The names will surface.
 
@@ -46,4 +46,4 @@ The Way honors both rhythms. The fast and the slow. The early caller and the dee
 
 ---
 
-Back to [[The LIØNSBERG Experience|Volume I main page]].
+Back to [[The LIØNSBERG Experience|main page]].

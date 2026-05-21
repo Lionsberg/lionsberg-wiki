@@ -31,6 +31,6 @@ Twelve is a canonical LIØNSBERG number. It echoes:
 
 The Twelve Gates of The Great UnVeiling are the **shadow architecture** that mirrors these positive twelves. Where the Pillars build, the Gates reveal. Where the Pilgrim's Path forms, the Gates strip falsehood away.
 
-Volume II (The Story of LIØNSBERG) holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
+[[The Story of LIØNSBERG]] holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the great unveiling sequence at the heart of the Story.
+Lives canonically in [[The Story of LIØNSBERG]] as the great unveiling sequence at the heart of the Story.

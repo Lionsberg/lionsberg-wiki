@@ -44,4 +44,4 @@ Three implications:
 
 The Involution / Evolution mechanism strengthens every Pillar I articulation. [[Consciousness Is Primary]] gains its mechanism: Spirit leads, Matter follows, because Matter is Spirit in maximal veiling that is now unveiling. [[Spirit Precedes Pattern]] gains its mechanism: the Pattern is the form Spirit takes as it re-emerges. [[The Eternal Divine Play Closes The Sacred Ascent|The Eternal Divine Play]] gains its mechanism: the Play is the joy of the ONE experiencing Its own return through every Being that participates.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as foundational metaphysics within Pillar I (Sacred Ontology and Metaphysics), and reverberates through [[The Sacred Ascent]] (Volume IX) as the cosmological architecture of the eternal upward spiral.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as foundational metaphysics within Pillar I (Sacred Ontology and Metaphysics), and reverberates through [[The Sacred Ascent]] as the cosmological architecture of the eternal upward spiral.

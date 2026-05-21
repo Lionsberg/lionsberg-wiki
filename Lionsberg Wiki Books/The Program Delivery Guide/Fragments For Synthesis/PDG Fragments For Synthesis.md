@@ -16,7 +16,7 @@ _Held here pending integration into the canonical Volume VII — The Program Del
 - `3.3 Communications and Reporting`
 - `3.4 Project Management Foundations`
 
-The numbering scheme (`0.3`, `2.0`, `3.0`, `3.1.5`, `3.1.6`) and content focus on PM Backbone, PM Narrative Structure, and Project Management Foundations suggests these are from a different document hierarchy than the Playbook fragments — likely an earlier articulation of program management methodology that may inform [[The Program Delivery Guide|Volume VII — The Program Delivery Guide]].
+The numbering scheme (`0.3`, `2.0`, `3.0`, `3.1.5`, `3.1.6`) and content focus on PM Backbone, PM Narrative Structure, and Project Management Foundations suggests these are from a different document hierarchy than the Playbook fragments — likely an earlier articulation of program management methodology that may inform [[The Program Delivery Guide|The Program Delivery Guide]].
 
 ## Disposition
 

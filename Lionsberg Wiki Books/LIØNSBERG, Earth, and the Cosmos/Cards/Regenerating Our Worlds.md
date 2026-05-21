@@ -49,4 +49,4 @@ Across the long cosmic arc, this is part of what the awakening Earth-human cohor
 
 Begin where you are. The smallest World you can regenerate is the breath you just took. The largest is the cosmic field your conscious orientation contributes to. Both are real. Both are work. **Begin.**
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the canonical articulation of the cosmic-and-personal work the Pilgrim is invited into.
+Lives canonically in [[The Story of LIØNSBERG]] as the canonical articulation of the cosmic-and-personal work the Pilgrim is invited into.

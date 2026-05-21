@@ -16,6 +16,6 @@ The **Eternal Logos** is the structuring Word — the ordering principle by whic
 
 The Codex begins not in the human realm but in the Divine Intention, descends through the Eternal Logos, and only then enters the Pattern Language, the Story, the Game, and the Path. To attempt to articulate the New Civilization without naming its metaphysical ground is to build on sand.
 
-This card holds the seed of what will eventually become a foundational articulation within [[The Story of LIØNSBERG]] (Volume II) and [[The LIØNSBERG Lexicon]] (Volume VII) — and which will reverberate through every other Volume.
+This card holds the seed of what will eventually become a foundational articulation within [[The Story of LIØNSBERG]] and [[The LIØNSBERG Lexicon]] — and which will reverberate through every other Volume.
 
 Related to the Source / Spirit / Sovereignty triad: all that is, is held in Source; expressed through Spirit; sovereign within itself. The three are one.

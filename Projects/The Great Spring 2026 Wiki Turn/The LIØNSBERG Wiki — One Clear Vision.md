@@ -71,7 +71,7 @@ From this moment, every deeper Volume is an option, not a prerequisite. The read
 
 The Volumes move from **accessible to structural** — Story and Game and Playbook open the door for every reader; Plans and Specifications and PDG are the deeper structural body for those who descend into the design and delivery of the New Civilization.
 
-**I — [[The Story of LIØNSBERG]].** Cosmic context. The True Myth. The Caves narrative as the foundational allegory of humanity's condition. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. **Dual-functional** — read standalone here, AND **woven throughout Volume IX (The Book)** as threaded glimpses. The Story is the lifeblood; the Book is the integrated body. *This is the spine of the Codex. The most masterful Story in history must be written.*
+**I — [[The Story of LIØNSBERG]].** Cosmic context. The True Myth. The Caves narrative as the foundational allegory of humanity's condition. The Eight Lineages of Living Proof (Mondragon, Alcoholics Anonymous, the Benedictines, the Iroquois Confederation, the Swiss Confederation, Open Source, the Rochdale Pioneers, the early church). Jordan's testimony and the nameless one's continuation. The Story of Stories. **Dual-functional** — read standalone here, AND **woven throughout [[The Book of LIØNSBERG]]** as threaded glimpses. The Story is the lifeblood; the Book is the integrated body. *This is the spine of the Codex. The most masterful Story in history must be written.*
 
 **II — [[The Great Game of LIØNSBERG]].** The participatory form. Movement One (Simple Game). Movement Two (Community Game). Movement Three (Planetary Game). Movement Four (Eternal Divine Play). The Fibonacci math. The 300-per-community arithmetic. Placed at Volume III for accessibility — once the Story is received, the next step is the Game itself. Extracted from Chapter 15 of the Book of LIØNSBERG; now its own canonical Volume and standalone wiki book.
 
@@ -239,7 +239,7 @@ Honest inventory of what is ready, what is in motion, what remains.
 - **The 144 Gates of Initiation structural reconciliation.** Two parallel attempts stacked in the source file with a "TKTK Integrate Into Above" marker between them.
 - **A Way for the Householder.** Missing as Volume-sized work.
 - **A Way of Death and Transition.** Missing as Volume-sized work. The nameless one's August 2025 experience is itself canonical source-material for it.
-- **Volume VII Lexicon as a bound work.** Exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way." Not yet consolidated into a single navigable Volume.
+- **[[The LIØNSBERG Lexicon]] as a bound work.** Exists as scattered concept-pages plus the proto-Lexicon "Art and Science of the Way." Not yet consolidated into a single navigable Volume.
 
 ### Decisions Pending
 
@@ -265,7 +265,7 @@ After Phase 2's audit closure, the order of operations is clear. It runs in four
 
 **Move Two — Write Volume II (Months Ahead).** The single most consequential remaining piece. The Story of LIØNSBERG as a bound text. Twenty to forty thousand words. One sustained voice. The cosmic context + the Caves + the Eight Lineages + Jordan's testimony + the Sacred Flame + the Invitation, woven into one continuous read.
 
-**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Execute the Volume III rebuild — The Kingdom of LIØNSBERG — Plans and Specifications — with the Pattern Language as canonical design-grammar subset. Complete Volume VII (Lexicon) consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
+**Move Three — Consolidate and Voice-Distill (Months Ahead).** Apply the consolidation map (75 books → 25). Apply the voice-distillation pass to the ~50% of corpus in pre-canonical voice. Resolve the sixteen structural decisions. Execute the Volume III rebuild — The Kingdom of LIØNSBERG — Plans and Specifications — with the Pattern Language as canonical design-grammar subset. Complete [[The LIØNSBERG Lexicon]] consolidation. Adopt the `epistemic_status:` frontmatter schema and the list-Card sub-rule.
 
 **Move Four — Plant The Seed (When Move Two and Move Three Are Substantially Done).** The corpus is ready to pass hand to hand at full depth. The 250M target by Winter Solstice 2026 begins.
 

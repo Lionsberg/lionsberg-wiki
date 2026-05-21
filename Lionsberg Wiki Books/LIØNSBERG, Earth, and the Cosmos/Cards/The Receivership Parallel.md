@@ -35,4 +35,4 @@ When the Old World asks for our credentials, we point to the Receivership preced
 
 This is the **provenance trail** of LIØNSBERG. Not philosophy. Not utopia. **A methodology that already worked at the scale of a billion-dollar healthcare system, now lifted to planetary scale.** The bones of the New Civilization are AEC bones — Architecture, Engineering, Construction — woven with prophetic spirit.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the historical-provenance frame for the Codex's claim to legitimate authority, and in [[The Book of LIØNSBERG]] (Volume VIII) Chapter 16 as the methodological foundation.
+Lives canonically in [[The Story of LIØNSBERG]] as the historical-provenance frame for the Codex's claim to legitimate authority, and in [[The Book of LIØNSBERG]] Chapter 16 as the methodological foundation.

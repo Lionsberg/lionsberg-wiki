@@ -27,4 +27,4 @@ The **Universal Ontological Rosetta** is the work of ensuring these encodings ar
 
 This is why the Codex must eventually be **livable** as well as readable. The deepest transmission happens through Circles that embody the Pattern, not through paragraphs that describe it.
 
-This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — within the **Communication and Culture** element — and is foundational to [[The Sacred Ascent]] (Volume IX).
+This concept lives canonically inside [[The LIØNSBERG Pattern Language]] — within the **Communication and Culture** element — and is foundational to [[The Sacred Ascent]].

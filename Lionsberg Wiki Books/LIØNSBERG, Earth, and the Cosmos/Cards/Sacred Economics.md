@@ -8,7 +8,7 @@ captured: 2026-05-18
 
 # Sacred Economics
 
-The unifying name for Volume III's Economy Domain.
+The unifying name for [[The LIØNSBERG Pattern Language]]'s Economy Domain.
 
 **Sacred Economics** treats economic activity as **divine service in form** — the flow of value through the Body of [[ØNE]], in service of the flourishing of All.
 
@@ -36,4 +36,4 @@ The operational mechanisms of Sacred Economics include:
 - [[Hospicing the Old Systems|Hospicing]] the extractive industries
 - Fair Shares Commons share-class architecture
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the Economy Pillar (Pillar III of the 12 Sacred Domains) and Element 5 (Capital Subordinate To Purpose) of the foundational DNA.
+Lives canonically in [[The LIØNSBERG Pattern Language]] as the Economy Pillar (Pillar III of the 12 Sacred Domains) and Element 5 (Capital Subordinate To Purpose) of the foundational DNA.

@@ -45,4 +45,4 @@ This is also what binds the planetary Movement together across deep cultural dif
 
 The phrase "Under God" appears in the pledge of one nation; the Pattern lifts it from any national context and restores it to its true scope. **One Citizenship.** **Under One God.** **For All beings.** Forever.
 
-Lives canonically in [[The Book of LIØNSBERG]] (Volume VIII) as a foundational political-theological articulation, and within [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational governance Pattern.
+Lives canonically in [[The Book of LIØNSBERG]] as a foundational political-theological articulation, and within [[The LIØNSBERG Pattern Language]] as a foundational governance Pattern.

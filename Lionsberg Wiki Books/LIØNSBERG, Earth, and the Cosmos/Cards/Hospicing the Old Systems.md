@@ -29,4 +29,4 @@ Hospicing is the operational complement to [[Withdrawal of Consent and Exodus Pr
 
 **The Old World cannot be destroyed by force. It is held together by consent. When enough consent is withdrawn, it dissolves of its own weight.** The Movement's task is to ensure something better is already standing when that happens — and that no being is left without a place to go.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the theory of change at civilizational scale.
+Lives canonically in [[The Great Game of LIØNSBERG]] as the theory of change at civilizational scale.

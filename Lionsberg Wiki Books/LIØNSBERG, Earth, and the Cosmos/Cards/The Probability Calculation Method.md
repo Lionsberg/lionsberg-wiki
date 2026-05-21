@@ -48,4 +48,4 @@ The protocol also pairs with [[The Asymmetry of Consequences]]. Once the Pilgrim
 
 For the deeply analytical skeptic, the Pilgrim, this is the path. Skeptics often resist prophetic urgency. They rarely resist their own honest math. **Hand them the protocol. Let the math do the work.**
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a transferable urgency-instrument the Pilgrim deploys with the analytically-minded.
+Lives canonically in [[The Story of LIØNSBERG]] as a transferable urgency-instrument the Pilgrim deploys with the analytically-minded.

@@ -48,4 +48,4 @@ The discipline has structural protections:
 
 The deep insight is that **cooperation and competition are not moral opposites; they are functional complements**. The Old World moralized them into opposites because the Old World's competitive arrangements were so predatory that those who recognized the predation became suspicious of competition itself. The Pattern restores the integration: **healthy competition outside; deep cooperation inside; both fully alive; the body strong because of both**.
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational strategic Pattern, deeply paired with [[The Mondragon Formula]] and [[Subsidiarity and the Swiss Pattern]].
+Lives canonically in [[The LIØNSBERG Pattern Language]] as a foundational strategic Pattern, deeply paired with [[The Mondragon Formula]] and [[Subsidiarity and the Swiss Pattern]].

@@ -48,4 +48,4 @@ A diagnostic check at any moment in the campaign:
 
 If we are reaching wide and shallow, we are losing the cascade. If we are reaching deep and resonant, we are winning it. The 3% must be **real**, not nominal — actually carrying the Pattern, actually living the Cycle, actually woven into the Grid. Nominal 3% does not tip anything. **Real 3% tips everything.**
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the central strategic doctrine of the 10-Year Grand Strategy.
+Lives canonically in [[The Great Game of LIØNSBERG]] as the central strategic doctrine of the 10-Year Grand Strategy.

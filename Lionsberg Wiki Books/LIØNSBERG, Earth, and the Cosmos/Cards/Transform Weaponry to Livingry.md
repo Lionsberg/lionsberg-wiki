@@ -27,4 +27,4 @@ The transformation has structural requirements:
 
 This is **the central operational move** of [[The 10 Year Grand Strategy]]. Without it, the Old World economy continues producing Weaponry until it bankrupts itself or destroys the planet. With it, the same capacity becomes the engine of [[The Hub Network Topology|the Hub Network]] and the regenerative economies of every Pillar.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) and reverberates through [[The LIØNSBERG Pattern Language]] (Volume III) under Element 5 (Capital Subordinate to Purpose).
+Lives canonically in [[The Great Game of LIØNSBERG]] and reverberates through [[The LIØNSBERG Pattern Language]] under Element 5 (Capital Subordinate to Purpose).

@@ -52,4 +52,4 @@ For the awakening Muslim, the unveiling honors the Sufi insistence that Allah (l
 
 The unveiling restores [[ØNE]] to its proper position as the eternal unconditioned Source above all named tribal Elohim. Yahweh, like Chemosh, like Baal, like all the other named Elohim, was a specific being operating at a specific tier in a populated cosmic field. The Pilgrim's allegiance — primary, ultimate — belongs to **the ONE**, not to any specific Elohim, however ancient or institutionally privileged.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational scriptural unveiling within [[The Great UnVeiling]].
+Lives canonically in [[The Story of LIØNSBERG]] as a foundational scriptural unveiling within [[The Great UnVeiling]].

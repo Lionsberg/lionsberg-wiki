@@ -40,4 +40,4 @@ This is also the **invitation**. Every Pilgrim who hears the Codex is hearing on
 
 When the Pilgrim wonders _"what is the point of any of this?"_ — the answer is: **You are part of the Great ReMembering**. The cosmos is returning to itself through you. The Notes are gathering. The Symphony is reassembling. The Pilgrim's life is one strand of the largest event the planet has ever been part of.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational cosmological-event entry, and reverberates through [[The Sacred Ascent]] (Volume IX) as the architecture beneath the Spiral.
+Lives canonically in [[The LIØNSBERG Lexicon]] as the foundational cosmological-event entry, and reverberates through [[The Sacred Ascent]] as the architecture beneath the Spiral.

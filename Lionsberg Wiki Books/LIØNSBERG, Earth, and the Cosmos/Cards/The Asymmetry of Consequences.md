@@ -49,4 +49,4 @@ For the awakened, the Asymmetry of Consequences is the **rhetorical capstone**. 
 
 The matrix is one of the cleanest decision-theory arguments in the entire LIØNSBERG corpus. It deserves frequent deployment, in every form — written, spoken, illustrated, discussed at the dinner table. It ends the debate that should never have been a debate.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the decision-theory anchor for the urgency-framing, and informs [[The Great Game of LIØNSBERG]] (Volume IV) at the strategic-recruitment level.
+Lives canonically in [[The Story of LIØNSBERG]] as the decision-theory anchor for the urgency-framing, and informs [[The Great Game of LIØNSBERG]] at the strategic-recruitment level.

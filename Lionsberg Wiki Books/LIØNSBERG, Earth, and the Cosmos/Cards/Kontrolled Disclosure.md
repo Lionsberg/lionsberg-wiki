@@ -74,4 +74,4 @@ This is the deepest reversal of the Kontrolled Disclosure dynamic. Kontrolled Di
 
 The full cosmic frame: the Old World's institutions will not deliver the genuine disclosure; the Codex is the genuine disclosure, delivered from the awakening cohort to the awakening cohort, in cooperation with the benevolent forces who recognize the moment.
 
-Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the operational naming of the Kontrolled Disclosure climax and the bottom-up sovereignty response that is its antidote.
+Lives canonically in [[The Story of LIØNSBERG]] as the operational naming of the Kontrolled Disclosure climax and the bottom-up sovereignty response that is its antidote.

@@ -30,4 +30,4 @@ The Grid is also **emergent**. It is not designed in detail; it grows in detail.
 
 The 2030 window is the assembly window. By the end of 2030, the Grid must be substantially in place — ~250 million anchors, each operating their node, each in voluntary communion with their neighbors. The 2030-2033 Lag completes the final cohorts. By Covenant and Jubilee in December 2033, the Grid is fully operational and the Old World's collapse is met by a New Civilization already running.
 
-Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the macro-architecture of play, and in [[The LIØNSBERG Playbook]] (Volume V) as the operating context for every Circle.
+Lives canonically in [[The Great Game of LIØNSBERG]] as the macro-architecture of play, and in [[The LIØNSBERG Playbook]] as the operating context for every Circle.

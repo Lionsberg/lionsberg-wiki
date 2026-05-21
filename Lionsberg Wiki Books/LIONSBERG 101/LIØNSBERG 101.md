@@ -4,7 +4,7 @@ _The irreducible pattern for co-creating Heaven On Earth — the same living DNA
 
 _For a guided introduction to LIONSBERG, begin with **[[Welcome to LIØNSBERG]]**. This book offers the systematic deepening of the Pattern in concentric rings — from ØNE word to the full library — for those who want to go further._
 
-_LIØNSBERG 101 is one of the entries in **[[The LIØNSBERG Living Library|Volume XI — The Living Library]]**, the curated index of the canonical body of work surrounding **[[The LIØNSBERG Sacred Codex|the twelve-Volume Sacred Codex]]**. The Codex is the bound spine; LIØNSBERG 101 is one of its concentric-rings companions; the Library indexes them all._
+_LIØNSBERG 101 is one of the entries in **[[The LIØNSBERG Living Library|The Living Library]]**, the curated index of the canonical body of work surrounding **[[The LIØNSBERG Sacred Codex|the twelve-Volume Sacred Codex]]**. The Codex is the bound spine; LIØNSBERG 101 is one of its concentric-rings companions; the Library indexes them all._
 
 ---
 

@@ -24,4 +24,4 @@ The two moves are paired. **Either alone is incomplete.**
 
 The dialectic answers the daily question of [[The LIØNSBERG Playbook|every Co-Creator]]: **What is mine to fill today? What is mine to remove?**
 
-Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the paired Co-Creation moves running underneath [[The Seven Moves]] rhythm.
+Lives canonically in [[The LIØNSBERG Playbook]] as the paired Co-Creation moves running underneath [[The Seven Moves]] rhythm.

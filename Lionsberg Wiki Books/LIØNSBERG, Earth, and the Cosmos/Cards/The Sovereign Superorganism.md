@@ -29,4 +29,4 @@ Two failure modes it must structurally resist:
 
 The Sovereign Superorganism holds the middle that no Old World form has held at scale: **One Body. Many Sovereigns. No center but ONE.**
 
-Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 2 (Holofractal Omnifederation).
+Lives canonically in [[The LIØNSBERG Pattern Language]] under Element 2 (Holofractal Omnifederation).

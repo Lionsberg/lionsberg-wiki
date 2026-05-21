@@ -31,7 +31,7 @@ And the 13th — not a Domain but the **Center from which the twelve orbit**:
 
 Without the 13th, the twelve collapse. With it, they cohere as a living architecture.
 
-The 12 Pillars are **not the same as the 12 Elements** (8 of Cooperation + 4 of Production) that LIONSBERG 101 articulates. The Elements are the **DNA Patterns**; the Pillars are the **Domains of life** into which the DNA must be applied. Both belong in [[The LIØNSBERG Pattern Language]] (Volume III) at different layers — Elements at the foundational layer, Pillars at the domain layer above.
+The 12 Pillars are **not the same as the 12 Elements** (8 of Cooperation + 4 of Production) that LIONSBERG 101 articulates. The Elements are the **DNA Patterns**; the Pillars are the **Domains of life** into which the DNA must be applied. Both belong in [[The LIØNSBERG Pattern Language]] at different layers — Elements at the foundational layer, Pillars at the domain layer above.
 
 Each Pillar has its own 12 Theses (12 × 12 = 144 Theses across the Pillars; with the 13th's 12 more, 156 Theses total).
 
