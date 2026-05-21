@@ -2,7 +2,7 @@
 
 This document was superseded by:  
 1. [[LIØNSBERG Manifesto]]  
-2. [[LIONSBERG Declaration of InterDependence]]  
+2. [[Welcome to LIØNSBERG]]  
 
 
 **Process**: Our process is to connect and empower a community / network / federation of individuals, organizations, and communities to "pull" our total nested hierarchy of goals into reality. 

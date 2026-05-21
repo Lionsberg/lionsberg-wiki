@@ -50,7 +50,7 @@ Successfully accomplishing that nearly impossible milestone over the next 15 mon
 The basic plan is to build an integrated  system / flywheel that: 
 
 1. Broadcasts [[The Message]] of **Unity Under God** and [[Stories of Transformation]]  
-2. Invites those who resonate to respond ([[The Invitation]])  
+2. Invites those who resonate to respond ([[LIØNSBERG Invitation]])  
 3. Invites those who respond into a transformational program of integrated wellbeing and development ([[The Program]])  
 4. Invites participants to forge a unified and transformational community composed of decentralized groups and teams ([[The Community]])  
 5. Encourages and empowers the community to transform their lives and their world [[The Transformation]]  

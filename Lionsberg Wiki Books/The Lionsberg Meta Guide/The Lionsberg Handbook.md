@@ -109,7 +109,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 [[The LIØNSBERG Constitution]]  
 
 [[Structure]]  
-[[Lionsberg Structure]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 [[Flexibility And Compatibility]]  
 [[Legal Infrastructure]]  
 
@@ -279,7 +279,7 @@ A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [
 [[New Language]]  
 [[The Lionsberg Critical Path]]  
 [[The Lionsberg System And Structure]]  
-[[Provisional Structure]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 [[The Lionsberg Platform]]  
 [[Social Dimensions]]  
 [[Social Experiment]]  
@@ -399,15 +399,15 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Intention
 
-[[Lionsberg Intention]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 
 ## The Mission 
 
-[[Lionsberg Mission]]  
+[[Welcome to LIØNSBERG]]  
 
 ## The Process 
 
-[[LIONSBERG Process]]  
+[[The Daily Way]]  
 
 ## The Lionsberg Way
 
@@ -415,7 +415,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Lionsberg System and Approach 
 
-[[Lionsberg System and Approach]]  
+[[The LIØNSBERG Sacred Codex]]  
 [[LIØNSBERG System]]  
 
 ## The Transformative Quest 

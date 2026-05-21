@@ -58,4 +58,4 @@ ____
 [[5. Action]]  
 [[6. Continuous Elevation]]  
 
-For additional high level context, see the [[Provisional Declaration]]. 
+For additional high level context, see the [[Welcome to LIØNSBERG]]. 

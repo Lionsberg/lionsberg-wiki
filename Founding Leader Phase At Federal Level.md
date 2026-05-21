@@ -10,4 +10,4 @@ The tentative target is to have a full-functioning Lionsberg General Assembly th
 
 It is anticipated that Jordan will serve the first two four year terms as President of the [[Core Enterprise]] as it expands out towards the [[Aim]] of 1 billion small groups in 7 years. 
 
-Jordan is also serving as a placeholder Board member of the [[Provisional Structure]] until such a time as the [[Lionsberg General Assembly]] can appoint a sub-committee to govern the entity. 
+Jordan is also serving as a placeholder Board member of the [[The Kingdom of LIØNSBERG — Plans and Specifications]] until such a time as the [[Lionsberg General Assembly]] can appoint a sub-committee to govern the entity. 

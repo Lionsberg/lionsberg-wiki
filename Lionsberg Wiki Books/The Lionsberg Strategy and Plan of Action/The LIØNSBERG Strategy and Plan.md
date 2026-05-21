@@ -61,7 +61,7 @@ Such a universally and eternally conceptualized System and Approach must Incarna
 
 The act of Incarnation requires a concrete and pragmatic structure to house and protect its emergence.  
 
-For this reason, the Lionsberg [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another.  
+For this reason, the Lionsberg [[The Kingdom of LIØNSBERG — Plans and Specifications]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another.  
 
 ## A System of Systems / Structure of Structures 
 
@@ -168,7 +168,7 @@ One of the obvious-in-hindsight learnings from [[The 7 Year Window of Preparator
 
 Therefore [[The Transformation]] has to occur from the [[Bottom Up]] - starting with the hard work of each individual to look within and begin their own process of healing, development, and transformation.  
 
-As individuals accept [[The Invitation]], connect to [[The Movement]], and share their [[Individual Stories]], they [[Become Visible To The Movement]], they and the movement get to know themselves better, and the process of [[Building Relationships]] accelerates.  
+As individuals accept [[LIØNSBERG Invitation]], connect to [[The Movement]], and share their [[Individual Stories]], they [[Become Visible To The Movement]], they and the movement get to know themselves better, and the process of [[Building Relationships]] accelerates.  
 
 Transforming Individuals can then forge or join [[First Degree Groups]] with others they are inspired by and passionate about collaborating with to transform their lives and their world.  
 
@@ -650,7 +650,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### Onboarding, Orientation, Connection, and Empowerment 
 
 1. Recognizing that individuals will be joining the movement from a vast diversity of contexts, we develop a profound orientation and onboarding process to welcome everyone to the movement and help them find their Way. 
-2. We recognize that it will likely take each individual an average of 3 years to feel fully embraced, connected, empowered, and "part" of the [[New System]] - therefore we recognize [[The 3 Year Lag]] between the acceptance of [[The Invitation]], and taking up full Citizenship in the [[New Era]], and design an onboarding, orientation, and experiential learning process leading to [[New Citizenship]]. 
+2. We recognize that it will likely take each individual an average of 3 years to feel fully embraced, connected, empowered, and "part" of the [[New System]] - therefore we recognize [[The 3 Year Lag]] between the acceptance of [[LIØNSBERG Invitation]], and taking up full Citizenship in the [[New Era]], and design an onboarding, orientation, and experiential learning process leading to [[New Citizenship]]. 
 3. [[The 7 Year Window of Crisis and Opportunity]] plus [[The 3 Year Lag]] constitute the [[10 Year Grand Strategy]].  
 
 ### Gamification 
@@ -748,7 +748,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 2. This provides the backbone to connect and empower the diverse parts of [[The Body]]  
 3. This makes [[The Movement]] visible to itself  
 4. This provides the digital infrastructure for an emergent and self-learning ecosystem to flourish  
-5. This ensures that for the first time in human history, every human that accepts [[The Invitation]] has equal access to a pathway of lifelong learning, wellbeing, and development, along with the leading tools and technologies to facilitate their [[Quest]] towards [[The Goal]]  
+5. This ensures that for the first time in human history, every human that accepts [[LIØNSBERG Invitation]] has equal access to a pathway of lifelong learning, wellbeing, and development, along with the leading tools and technologies to facilitate their [[Quest]] towards [[The Goal]]  
 
 ### The Lexicon 
 

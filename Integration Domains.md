@@ -5,7 +5,7 @@ The skill of [[Integration]] relates to the [[General Management]] of all the sp
 
 It is contrasted with the [[Technical Management]] required within a specialized Action Domain or Function. 
 
-The [[Provisional Ontology]] articulates 12 Geo-Cultural and 12 Spiritual-Cultural Integration Domains. 
+The [[The Kingdom of LIØNSBERG — Plans and Specifications]] articulates 12 Geo-Cultural and 12 Spiritual-Cultural Integration Domains. 
 
 ## 12 Geo-Cultural Integration Domains
 1. Sub-Saharan Africa

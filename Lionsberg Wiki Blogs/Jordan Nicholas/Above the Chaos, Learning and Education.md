@@ -128,7 +128,7 @@ Eventually, a System dedicated to producing throughput of the GOAL of flourishin
 ## Legal Stewardship
 As you can imagine, such a platform and program will become exceptionally valuable and need to be carefully stewarded and structured. 
 
-We spent several years advancing a next-generation [[Provisional Structure]] for stewarding the value this Program and Platform creates for the good of all generations of life. 
+We spent several years advancing a next-generation [[The Kingdom of LIØNSBERG — Plans and Specifications]] for stewarding the value this Program and Platform creates for the good of all generations of life. 
 
 Built for multi-generational stewardship and governance, the system is currently taking in and allocating resources through the Lionsberg United States 501(c)(3) public charity to ensure transparency and accountability. 
 

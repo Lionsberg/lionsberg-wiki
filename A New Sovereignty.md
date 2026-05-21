@@ -162,7 +162,7 @@ Who shall we include in this New Sovereignty? [[All]] that flow from [[ØNE]]. E
 
 We are [[All]] [[ØNE]] family. One body. One Sovereignty. One super nation. 
 
-There is a citizenship in the New World available for everyone without exception who abides by the [[Provisional Code]] and honors the [[Values]]. How quickly can we invite humanity to take up their New citizenships, and gain access to all the benefits of the New? 
+There is a citizenship in the New World available for everyone without exception who abides by the [[The LIØNSBERG Constitution]] and honors the [[Values]]. How quickly can we invite humanity to take up their New citizenships, and gain access to all the benefits of the New? 
 
 We have seen damaging technologies virally scale to billions of users quickly. 
 

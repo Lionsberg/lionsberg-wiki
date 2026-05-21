@@ -1,8 +1,8 @@
 # The Lionsberg Book of Agreements
 
 [[The LIØNSBERG Constitution]]  
-[[Lionsberg Membership Agreement]]  
-[[Lionsberg Participation Agreement]]  
+[[The LIØNSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
 
 [[Agreement With Self]]  
 [[Agreement With One And All]]  

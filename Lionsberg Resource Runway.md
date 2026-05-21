@@ -2,7 +2,7 @@
 
 Financial models for movements are tricky. 
 
-The [[Provisional Structure]] of Lionsberg enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 
+The [[The Kingdom of LIØNSBERG — Plans and Specifications]] of Lionsberg enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 
 
 _____
 ## Baseline Runway 

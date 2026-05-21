@@ -219,9 +219,9 @@ Eleven Invitation files exist. Tracing the evolution:
 | `The Invitation, Cycle 8.md` | Spring 2024 | After 7 Cycles complete, 30-40 co-creators | **Archive** |
 | `The Invitation, Cycle 9.md` | Spring 2024 | Most refined of the Spring 2024 set — clear 5-step mission, Sacred Tree metaphor | **Archive (notable)** |
 | `Reflection and Invitation - Summer 2025.md` | June 23, 2025 | **MOST CURRENT** — post-veil-tearing, post-2027/2028 protocol awareness, post-Greatest-Fraud articulation, includes Founder's Fund and One Member One Voice | **CANONICAL — most recent invitation; flag for post-J update if/when a Phase 2 successor is written** |
-| `Lionsberg Invitation.md` (the folder index) | n/a | Points at "Current Iteration: [[The Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
+| `Lionsberg Invitation.md` (the folder index) | n/a | Points at "Current Iteration: [[LIØNSBERG Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
 
-**Key finding: The Invitation index file points to "[[The Invitation]]" which does not exist as a page in this folder.** This is a broken canonical pointer. Either:
+**Key finding: The Invitation index file points to "[[LIØNSBERG Invitation]]" which does not exist as a page in this folder.** This is a broken canonical pointer. Either:
 - (a) Create `The Invitation.md` as a forward-looking January 2026 invitation written by the nameless one, OR
 - (b) Update the index to point to `Reflection and Invitation - Summer 2025.md`.
 
@@ -310,7 +310,7 @@ The seven OLD-series stubs (LC22, 23, 25, 26, 33, 34) should either be **archive
 5. **`Provisional Declaration.md`** is explicitly superseded by the Manifesto + Declaration of InterDependence. **Archive.**
 6. **`Provisional Ontology.md`** is just 5 wiki links. **Either expand into substantive ontology articulation, or archive and move the links into the canonical 12 Pillars Card.**
 7. **`The Invitation, Cycle 7 (old).md`** is a duplicate of Cycle 7. **Archive.**
-8. **`Lionsberg Invitation.md`** — folder index with broken pointer to "[[The Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
+8. **`Lionsberg Invitation.md`** — folder index with broken pointer to "[[LIØNSBERG Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
 9. **`The Invitation, Cycle 1 (draft not sent).md`** — could be archived as historic artifact (or moved to `Archive/` folder).
 10. **Two manifesto files (current pointer + dated):** Same pattern as #1.
 

@@ -109,7 +109,7 @@ This New Confederation would constitute the largest private economic federation 
 We plan to monitor the [[Lionsberg Cycles of Growth]] against the list of [[Countries By Population]], and begin expanding the exchange of [[Diplomatic Recognition]] with various tribes and nations through 2025 and 2026. 
 ### Working Capital 
 
-The [[Provisional Structure]] has been instantiated to deal with a combination of philanthropic, investment, and political capital flows. 
+The [[The Kingdom of LIØNSBERG — Plans and Specifications]] has been instantiated to deal with a combination of philanthropic, investment, and political capital flows. 
 
 Following the example of [[Mondragon]] that successfully grew out beyond $10 Billion / year, investment capital in [[The System]] will be paid an annual rate of return varying from 0% to 7% based on system performance, as determined by the [[Lionsberg General Assembly]]. 
 

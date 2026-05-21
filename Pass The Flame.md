@@ -41,7 +41,7 @@ Look around your life. There are two or three people — maybe more — who:
 
 They do not need to be persuaded. They need to be **found**.
 
-When you share [[The Invitation]] with them, the resonance will be immediate — or it will not be. Both outcomes are right. Those who are ready will know it. Those who are not yet ready will come in their own time.
+When you share [[LIØNSBERG Invitation]] with them, the resonance will be immediate — or it will not be. Both outcomes are right. Those who are ready will know it. Those who are not yet ready will come in their own time.
 
 **Attraction, not promotion. Always.**
 
@@ -52,7 +52,7 @@ When you share [[The Invitation]] with them, the resonance will be immediate —
 **1. Identify your two or three — and act within one week.**  
 Before your Circle's first gathering is over, name them. Write the names down. Within seven days of receiving the Seed yourself, pass it forward. This is the natural pace of fire between ready souls — and it is the pace that carries the movement from 144 to [[The First Three Percent]] within a single year.
 
-**2. Share [[The Invitation]].**  
+**2. Share [[LIØNSBERG Invitation]].**  
 A single link is all it takes. Share the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Share your own story of what your Circle has done and what it has meant. Let the fire in your own experience do the speaking.
 
 **3. Help them form their own sovereign Circle.**  
@@ -128,7 +128,7 @@ You have the Flame. You have the Seed. You have your own living experience of wh
 
 **That is enough.**
 
-Share [[The Invitation]].  
+Share [[LIØNSBERG Invitation]].  
 Walk beside them as they begin.  
 And watch the ancient pattern come alive — one Circle becoming two, two becoming five, five becoming thirteen, until the whole Earth is alight.
 

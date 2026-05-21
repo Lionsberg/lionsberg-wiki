@@ -1,15 +1,15 @@
 # The Lionsberg Field of Agreements
 
 [[LIØNSBERG Manifesto]]  
-[[LIONSBERG Declaration of InterDependence]]  
-[[LIONSBERG Core Statements]]  
+[[Welcome to LIØNSBERG]]  
+[[Welcome to LIØNSBERG]]  
 [[LIØNSBERG Core Documents]]  
-[[LIONSBERG - History, Inception, and Trust Manifesto]]  
+[[Welcome to LIØNSBERG]]  
 [[The LIONSBERG System of Values]]  
-[[Provisional Community Agreements]]  
-[[Provisional Code]]  
-[[Provisional Conditions]]  
-[[LIONSBERG Provisional Documents]]  
+[[The LIØNSBERG Pattern Language]]  
+[[The LIØNSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
 [[The LIØNSBERG Constitution]]  
 [[Lionsberg Honor System]]  
 
@@ -20,8 +20,8 @@
 ____
 ## Not Currently In Use 
 
-[[Lionsberg Participation Agreement]]  
-[[Lionsberg Membership Agreement]]  
+[[The LIØNSBERG Constitution]]  
+[[The LIØNSBERG Constitution]]  
 [[Lionsberg Subscription Agreement]]  
 
 

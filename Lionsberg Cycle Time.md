@@ -16,7 +16,7 @@ However, to achieve **[[The 2026 Milestone]]** of reaching **3% of the populatio
     During this phase, a cycle time of **3.66 weeks per cycle** (140 weeks for 40 cycles) was required. In comparison: 
     
     - **8 cycles** were completed in approximately **11 weeks** for an average cycle time of **1.4 weeks per cycle**.
-    - The [[Lionsberg Acceptance Rate]] for [[The Invitation]] exceeded **80%**, affirming the scalability of the model.
+    - The [[Lionsberg Acceptance Rate]] for [[LIØNSBERG Invitation]] exceeded **80%**, affirming the scalability of the model.
 2. **2025 - Season 1 - Rising From The Ashes:**  
 	Entering February 2025, We have only 23 months remain to reach **3% of the population (~250 million)** by **2026**.
 

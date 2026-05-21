@@ -15,7 +15,7 @@ We are therefore making an effort to encourage ourselves and our networks to rap
 
 It is going to take legal infrastructure, process infrastructure, social infrastructure, technological infrastructure, communications and coordination infrastructure, and an absolutely world class effort to create a field of shared culture and values powerful enough to unite us above the lines that formerly divided us. 
 
-We have been working at that the last several years, and places like the [[2022.07.05 Request For Guidance]], [[Provisional Structure]], and [[2022.Q2 Presentation of Value Creation]] contain information and links to get up to speed on some of the foundational work that has been going on below the ground.
+We have been working at that the last several years, and places like the [[2022.07.05 Request For Guidance]], [[The Kingdom of LIØNSBERG — Plans and Specifications]], and [[2022.Q2 Presentation of Value Creation]] contain information and links to get up to speed on some of the foundational work that has been going on below the ground.
 
 When we use the term "we" below, we are referring to all of us, including you. Many people scoff if resource needs in the billions or trillions are casually thrown out, however there is already hundreds of billions of dollars a year in philanthropic capital and trillions of dollars a year in government capital flowing. 
 
@@ -32,7 +32,7 @@ How do we organize ourselves, and how do we organize our resources, so that they
 ____
 ## Other Resources and Guides
 
-This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The Lionsberg Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[Lionsberg Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[Provisional Structure]]. 
+This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The Lionsberg Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[Lionsberg Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[The Kingdom of LIØNSBERG — Plans and Specifications]]. 
 
 ___
 

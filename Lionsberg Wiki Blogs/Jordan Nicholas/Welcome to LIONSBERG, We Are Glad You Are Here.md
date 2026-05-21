@@ -45,7 +45,7 @@ Throughout the **[[10 Year Grand Strategy]]**, We can expect to **Co-Create with
 
 This is not a burden—it is the **Refiner’s Fire** that will forge us into the kinds of **Powerful, Competent, Loving, Wise, and Good beings** capable of bringing **Heaven to Earth for millennia to come**.
 
-One of **[[The Watchwords of LIONSBERG]]** is:  
+One of **[[Welcome to LIØNSBERG]]** is:  
 >_**“Dangerous But Good.”**_
 
 ---

@@ -1,6 +1,6 @@
 # The Code Of Integrated Delivery
 
-To implement the [[Five Big Ideas of Integrated Delivery]], the [[Program of Action]] needs not only a [[Provisional Structure|Structure]], but also a [[Behavioral Code]] / [[Culture]] that makes Integrated Delivery possible. 
+To implement the [[Five Big Ideas of Integrated Delivery]], the [[Program of Action]] needs not only a [[The Kingdom of LIØNSBERG — Plans and Specifications|Structure]], but also a [[Behavioral Code]] / [[Culture]] that makes Integrated Delivery possible. 
 
 Integrated Delivery requires specific behaviors and cultural norms in order to succeed.  These behaviors support a change in mindset **FROM** individual contracts and [[Self Optimization]] **TO** a collective endeavor and global optimization.  
 
@@ -41,4 +41,4 @@ Critical behaviors necessary for Integrated Delivery to be successful include:
 -   [[Commitment Based Management]]
 -   [[Continuous Improvement]]
 
-See [[Provisional Code]]. 
+See [[The LIØNSBERG Constitution]]. 

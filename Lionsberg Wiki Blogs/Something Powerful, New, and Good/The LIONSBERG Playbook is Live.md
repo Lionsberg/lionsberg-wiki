@@ -6,6 +6,6 @@ _January 16, 2026 (Old Time)_
 
 [[README|The LIONSBERG Wiki Homepage]] now concisely points to  [[the nameless book]]... which points to [[The LIØNSBERG Quick Start Guide]] and Playbook. 
 
-[[Jordan's Short Story]] update and woven with [[LIONSBERG - History, Inception, and Trust Manifesto]].  
+[[Jordan's Short Story]] update and woven with [[Welcome to LIØNSBERG]].  
 
 Another major step forward towards accessibility. 

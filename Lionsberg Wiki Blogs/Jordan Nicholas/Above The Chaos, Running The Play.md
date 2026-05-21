@@ -92,7 +92,7 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 3. [[The Messenger(s)]] will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
 4. Those who resonate will be encouraged to [Join The Movement](https://jordannicholas.org/join_the_movement)     
 5. In February 2024, Jordan will invite a select few to become founding members of Lionsberg   
-6. The **Lionsberg Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
+6. The **Lionsberg Members** in each Cycle will co-create and extend [[LIØNSBERG Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
 7. We will attempt to progress through the Milestones as quickly as possible without sacrificing [[Quality]] to [[Quantity]]  
 8. The participants in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
 9. [[Everything Is A Project]], and every Project is a Quest 
@@ -106,14 +106,14 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 - Perform a [[Retrospective]]  
 - Issue a [[Request For Guidance]] to existing Players and Teams  
 - Tell [[The Story of LIØNSBERG]]  
-- Extend [[The Invitation]]  
+- Extend [[LIØNSBERG Invitation]]  
 - Update [[Lionsberg History and Inception]]  
 
 Additional items for continuous improvement:  
 - [[The Messenger(s)]]  
 - [[The Message]]  
 - [[The Story of LIØNSBERG]]  
-- [[The Invitation]]  
+- [[LIØNSBERG Invitation]]  
 - [[The LIØNSBERG Experience]]  
 
 

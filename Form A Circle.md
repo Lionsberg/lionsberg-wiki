@@ -36,7 +36,7 @@ Start with who is in front of you. Three is enough to begin. Twelve is the natur
 
 ## Share the Seed
 
-Once you have identified your resonant souls, share [[The Invitation]]. Give them the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Read together. Let the words land. Let questions arise.
+Once you have identified your resonant souls, share [[LIØNSBERG Invitation]]. Give them the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Read together. Let the words land. Let questions arise.
 
 Do not argue anyone into participation.  
 **Attraction, not promotion.**  

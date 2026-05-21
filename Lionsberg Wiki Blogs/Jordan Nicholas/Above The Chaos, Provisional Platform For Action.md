@@ -16,7 +16,7 @@ The near term objective is to forge, out of the many enlightened individuals aro
 
 **To prepare for this, [[We]] have**: 
 
-1. Built a minimum viable shared Structure - [[Provisional Structure]]  
+1. Built a minimum viable shared Structure - [[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 2. Built a minimum viable shared Backbone - [[Provisional Backbone]]  
 3. Started a minimum viable shared Mind - [[Provisional Mind]]  
 4. Articulated minimum viable shared Goals and Values - [[Universal Goals and Values]]  

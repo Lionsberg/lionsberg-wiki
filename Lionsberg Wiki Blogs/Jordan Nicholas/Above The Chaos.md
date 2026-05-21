@@ -121,14 +121,14 @@
 - [[WARNING and Urgent Call to Action - A Letter to the Awakening Few]]  
 - [[Welcome to LIØNSBERG, We Are Glad You Are Here]]  
 - [[Adjusting to the New Language and Narrative Universe of LIONSBERG]]  
-- [[The Core Concepts of LIONSBERG]]  
-- [[The LIONSBERG Operating System (LIOS)]]  
+- [[Welcome to LIØNSBERG]]  
+- [[The LIØNSBERG Sacred Codex]]  
 - [[From Full Disclosure, to Debt Free Billionaires Co-Creating Heaven On Earth]]  
 - [[Watchwords - Guardians of Meaning, Memory, and Mission]]  
-- [[The Watchwords of LIONSBERG]]  
+- [[Welcome to LIØNSBERG]]  
 - [[Pole Shift Tracker is Down]]  
 - [[ON THE GENOCIDAL FAILURE OF THE  EXISTING ORDER]]  
-- [[LIONSBERG Declaration of InterDependence]]  
+- [[Welcome to LIØNSBERG]]  
 - [[Preparing for Cleansing by Fire - Understanding the Coming Purification and How to Survive It]]  
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
 - [[The Noah Plan - Building the Network of Arks]]  
@@ -153,7 +153,7 @@
 
 ## January 2025 - Rising From The Ashes
 
-- [[LIONSBERG Declaration of InterDependence]]  
+- [[Welcome to LIØNSBERG]]  
 - [[The Time is Now - Humanity's Call to Action]]  
 - [[The "Tick" of Time]]  
 - [[Space and Time in the LIONSBERG Theory of Everything]]  
@@ -491,7 +491,7 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2018 
 
-- Forged the [[Provisional Structure]] to advance the Critical Path via the legal and governance predecessors necessary to enable resourcing and build of the Provisional Platform. 
+- Forged the [[The Kingdom of LIØNSBERG — Plans and Specifications]] to advance the Critical Path via the legal and governance predecessors necessary to enable resourcing and build of the Provisional Platform. 
 
 ## 2017 
 

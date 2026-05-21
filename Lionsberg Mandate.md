@@ -1,3 +1,3 @@
 # Lionsberg Mandate
 
-To realize the [[Lionsberg Vision]] as set forth in the [[New Vision and Plan]]. 
+To realize the [[Welcome to LIØNSBERG]] as set forth in the [[New Vision and Plan]]. 

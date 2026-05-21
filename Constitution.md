@@ -5,7 +5,7 @@ ____
 
 ## Universality
 
-Each Individual, Group, and Community must honor and uphold the highest overarching and uniting Constitution. See [[Provisional Declaration]] and [[Provisional Constitution]]. 
+Each Individual, Group, and Community must honor and uphold the highest overarching and uniting Constitution. See [[Welcome to LIØNSBERG]] and [[Provisional Constitution]]. 
 
 [[The LIØNSBERG Constitution]] should be incorporated by reference into each individual, group, and community constitution. 
 
@@ -33,4 +33,4 @@ A typical sequence might be:
 [[Template For Assent]]  
 [[Template For Declaration]]  
 [[Template For Constitution]]  
-[[Provisional Declaration]]  
+[[Welcome to LIØNSBERG]]  

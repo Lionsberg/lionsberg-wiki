@@ -625,7 +625,7 @@ The future is in your hands
 
 ---
 
-**[[The Invitation]]** — the shareable Seed to pass to others  
+**[[LIØNSBERG Invitation]]** — the shareable Seed to pass to others  
 **[[LIØNSBERG 101]]** — the complete Pattern in concentric rings  
 **[[Welcome to LIØNSBERG]]** — the essential guide showing the Way  
 

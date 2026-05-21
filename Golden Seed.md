@@ -34,5 +34,5 @@ In just 50 [[Lionsberg Cycles of Growth|cycles]] — 50 growth rings on the tree
 ___
 
 See [[LIØNSBERG 101]] for the complete pattern in concentric rings.  
-See [[The Invitation]] for the shareable invitation to play.  
+See [[LIØNSBERG Invitation]] for the shareable invitation to play.  
 See [[Ring 1 - The Seed]] for the pattern in its most compressed form.

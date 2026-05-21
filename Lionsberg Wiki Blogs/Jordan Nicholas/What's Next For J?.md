@@ -30,7 +30,7 @@ In accordance with our Divine rights and moral duty, We are therefore rejecting 
 
 ...and assuming among the diverse powers of the Universe the separate and transcendent position to which Nature, Nature's God, and the Universal Law entitle Us.  
 
-Now that the integrity of the American Experiment has failed, We will begin dissolving the [[Provisional Structure]] and all elements of Jordan's work through Lionsberg that were based on ***compliance*** with the Existing Order. 
+Now that the integrity of the American Experiment has failed, We will begin dissolving the [[The Kingdom of LIØNSBERG — Plans and Specifications]] and all elements of Jordan's work through Lionsberg that were based on ***compliance*** with the Existing Order. 
 
 It is evident that We will not be able to comply our Way out of Tyranny and [[The Final Order]]. 
 

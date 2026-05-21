@@ -17,7 +17,7 @@ And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, C
 
 [[LIØNSBERG]] is One of these reflections, emanating from the [[ØNE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good.  
 
-When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within.  
+When each inhabitant of each domain voluntarily accepts [[LIØNSBERG Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within.  
 
 ## The LIONSBERG Way
 
@@ -54,7 +54,7 @@ A comprehensive system of systems, community of community etc.
 
 ## 4. InterExistence
 
-[[LIONSBERG Declaration of InterDependence]]  
+[[Welcome to LIØNSBERG]]  
 
 ## 5. Spirit 
 
@@ -82,7 +82,7 @@ A comprehensive system of systems, community of community etc.
 ## 11. The LIONSBERG Intention
 
 [[Creator's Intent]]  
-[[Lionsberg Intention]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 
 ## 12. The LIONSBERG Vision 
 
@@ -90,13 +90,13 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 [[Vision]]  
 [[The Vision]]  
-[[Lionsberg Vision]]  
+[[Welcome to LIØNSBERG]]  
 [[Heaven on Earth and Beyond]]  
 
 ## 13. The LIONSBERG Mission 
 
 [[The Great Game of LIØNSBERG]]  
-[[Lionsberg Mission]]  
+[[Welcome to LIØNSBERG]]  
 
 ## 14. The LIONSBERG Mandate 
 

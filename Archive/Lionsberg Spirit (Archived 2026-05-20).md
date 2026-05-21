@@ -4,4 +4,4 @@ The **[[Central Animating Spirit]]** of **[[LIØNSBERG]]** is [[ØNE]] with the 
 
 It radiates **[[Absolute and Unconditional Love]]**, infinite **[[Wisdom]]**, **[[Justice]]**, and **[[Divine Co-Creativity]]**, calling **[[All]]** to reawaken and ReMember with the **[[ØNE]]**.  
 ___  
-An entry in [[LIONSBERG Core Statements]]  
+An entry in [[Welcome to LIØNSBERG]]  

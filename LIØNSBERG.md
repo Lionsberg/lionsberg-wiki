@@ -50,26 +50,26 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 
 ## Metaphors
 
-[[Lionsberg Metaphors]]  
+[[Welcome to LIØNSBERG]]  
 
 ## Characteristics 
 
-[[Lionsberg Spirit]]  
-[[Lionsberg Intention]]  
-[[Lionsberg Mission]]  
-[[Lionsberg Personality]]  
-[[LIONSBERG Values]]  
+[[Welcome to LIØNSBERG]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
+[[Welcome to LIØNSBERG]]  
+[[Welcome to LIØNSBERG]]  
+[[The LIONSBERG System of Values]]  
 
 ## Story 
 
 [[The Story of LIØNSBERG]]  
 ## System 
 
-[[Lionsberg System and Approach]]  
+[[The LIØNSBERG Sacred Codex]]  
 
 ## Structure 
 
-[[Lionsberg Structure]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 
 ## Strategy and Plan 
 

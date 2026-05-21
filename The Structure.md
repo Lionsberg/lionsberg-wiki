@@ -1,3 +1,3 @@
 # The Structure
 
-See [[Provisional Structure]]  
+See [[The Kingdom of LIØNSBERG — Plans and Specifications]]  

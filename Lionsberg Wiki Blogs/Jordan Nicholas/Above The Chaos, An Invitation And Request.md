@@ -145,7 +145,7 @@ The **Goal** of The Game is the total integrated wellbeing, development, and rig
 
 ## Stewardship And Protection Of Value and Values 
 
-We have established a sophisticated [[Provisional Structure]] to steward the Value that will be created as The Game succeeds, and uphold our [[Universal Values]].  The initial protective structure within which the play can manifest is rooted in a transparent and accountable 501(c)(3) Public Charity, which also stewards rights to the data and technology. 
+We have established a sophisticated [[The Kingdom of LIØNSBERG — Plans and Specifications]] to steward the Value that will be created as The Game succeeds, and uphold our [[Universal Values]].  The initial protective structure within which the play can manifest is rooted in a transparent and accountable 501(c)(3) Public Charity, which also stewards rights to the data and technology. 
 
 No one owns The Game. It is transparently stewarded for the Good of all past, present, and future generations of life. If it works, it will be the collective inheritance of humanity. 
 

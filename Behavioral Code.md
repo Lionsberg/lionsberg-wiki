@@ -25,7 +25,7 @@ This relates to the fundamental [[Reciprocal Opening]] that is occurring between
 
 Generally, these explicit and implicit Codes relate to [[Values]]. 
 
-For an example of a Behavioral Code, see [[Provisional Code]]. 
+For an example of a Behavioral Code, see [[The LIØNSBERG Constitution]]. 
 
 For more on the Values that inform Behavioral Codes, see [[Values]]. 
 

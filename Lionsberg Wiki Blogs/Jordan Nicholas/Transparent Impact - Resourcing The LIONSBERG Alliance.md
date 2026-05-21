@@ -8,14 +8,14 @@
 
 LIONSBERG is not an institution. It is **a living, emergent superorganism**—a **voluntary spiritual association** of **individuals of goodwill** bound together not by contract or coercion, but by shared **Purpose, Principles, and Path.**  
 
-For [[The 7 Year Window of Preparatory Work and Learning]], it was necessary to allocate the first resources in transparent and publicly accountable way, which We accomplished through the [[Provisional Structure]]. The Provisional Structure was always designed to transform as We learned and grew together.  
+For [[The 7 Year Window of Preparatory Work and Learning]], it was necessary to allocate the first resources in transparent and publicly accountable way, which We accomplished through the [[The Kingdom of LIØNSBERG — Plans and Specifications]]. The Provisional Structure was always designed to transform as We learned and grew together.  
 
 Now, We are **closing down the non-profit entity and top-level legal infrastructure**, based on Our discovery that:  
 
 1. **The Existing Order is Corrupt and Unredeemable.**
     - We have **seen firsthand the impossibility of complying our way out of tyranny.**  
     - The Old legal systems are being abused **to entrap, limit, surveil, and kontrolle.**
-    - **[[LIONSBERG Declaration of InterDependence]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
+    - **[[Welcome to LIØNSBERG]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
 2. **We Must Build the New, Not Reform the Old.**
     - LIONSBERG is a [[New]] **self-governing, self-sustaining, self-replicating force.**  
     - It cannot be contained within the failing legal, governance, and financial structures of the old world.  

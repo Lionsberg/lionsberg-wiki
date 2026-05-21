@@ -5,7 +5,7 @@ _"The purpose of Organizing and Federating is to forge, out of many individual e
 
 From the Book of Lionsberg - [[1.21 Organizing and Federating Sovereign Vessels]]
 
-[[Provisional Structure]]  
+[[The Kingdom of LIØNSBERG — Plans and Specifications]]  
 [[Fiscal Sponsorship]]  
 
 The Individual  

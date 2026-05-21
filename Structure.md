@@ -13,4 +13,4 @@ Over time, all structures should strive to conform themselves towards the Most F
 
 A federated [[Stewardship Structure]] is the [[Ideal]], and should be activated in all areas where possible as a pragmatic aid to governance. 
 
-For an example of a federated Stewardship Structure, see [[Provisional Structure]].  
+For an example of a federated Stewardship Structure, see [[The Kingdom of LIØNSBERG — Plans and Specifications]].  

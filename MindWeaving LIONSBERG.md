@@ -631,7 +631,7 @@ How do We handle the training and development of [[Facilitators]] / [[Guides]]?
 	- [[How to Open Hearts and Minds]]  
 - [[The First Three Percent]]  
 	- [[How to Engage The First Three Percent]]  
-- [[The Invitation]]  
+- [[LIØNSBERG Invitation]]  
 	- How to Continuously Improve The Invitation  
 	- How to Extend The Invitation  
 	- How to Accept The Invitation  

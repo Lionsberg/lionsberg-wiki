@@ -1,6 +1,6 @@
 # The Lionsberg Elevation Initiative - A Way towards Universal Flourishing and Harmony
 
-By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and Approach]], this is a [[Work In Progress]]. 
+By [[Jordan Nicholas Sukut]]. Like all aspects of the [[The LIØNSBERG Sacred Codex]], this is a [[Work In Progress]]. 
 
 ## 1.  Introduction 
 

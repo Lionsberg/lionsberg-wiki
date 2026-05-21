@@ -1,3 +1,3 @@
 # Lionsberg History and Inception
 
-Replaced by [[LIONSBERG - History, Inception, and Trust Manifesto]] in January 2025. 
+Replaced by [[Welcome to LIØNSBERG]] in January 2025. 
