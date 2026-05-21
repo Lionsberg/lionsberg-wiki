@@ -32,5 +32,5 @@ Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the **p
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Emergence essay)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Emergence essay)._
 _Related: [[The Pattern Is The Way]], [[Movements That Embodied the Pattern]], [[Spirit Precedes Pattern]]._

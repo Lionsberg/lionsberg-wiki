@@ -31,5 +31,5 @@ The Old World treated Earth as an asset to extract from. The New Civilization tr
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 2) and [[The Lionsberg Meta Guide]]._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 2) and [[The Lionsberg Meta Guide]]._
 _Related: [[The 10 Year Grand Strategy]], [[The Pattern Is The Way]], [[Anatomies of Association]]._

@@ -34,5 +34,5 @@ Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Elem
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 2)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 2)._
 _Related: [[Fractal Sovereignty]], [[Higher Order Functional Unity]], [[Federations vs Empires]], [[Anatomies of Association]]._

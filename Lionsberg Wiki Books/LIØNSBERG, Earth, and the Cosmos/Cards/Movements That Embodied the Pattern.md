@@ -39,5 +39,5 @@ This is what the Codex captures and re-articulates for civilization scale: not a
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 3 — Living Proof)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 3 — Living Proof)._
 _Related: [[The Pattern Is The Way]], [[Sacred Guardianship — Neutralizing the Predatory]] (the structural immunity each carried)._

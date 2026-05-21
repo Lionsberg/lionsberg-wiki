@@ -42,5 +42,5 @@ Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the operati
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] + The Lionsberg Strategy and Plan of Action._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] + The Lionsberg Strategy and Plan of Action._
 _Related: [[The 10 Year Grand Strategy]], [[The First Three Percent and Fibonacci Spread]], [[Covenant and Jubilee — December 2033]]._

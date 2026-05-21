@@ -36,5 +36,5 @@ Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the **o
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 0)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 0)._
 _Related: [[Divine Intention and Eternal Logos]], [[The Pattern Is The Way]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

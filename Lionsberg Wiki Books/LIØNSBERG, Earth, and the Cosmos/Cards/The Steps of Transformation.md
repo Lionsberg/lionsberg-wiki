@@ -29,5 +29,5 @@ Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the operational m
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 5 / 9-Step Your Role)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 5 / 9-Step Your Role)._
 _Related: [[The Seven Moves]], [[The Sacred Onboarding Arc]], [[Throughput of The Goal]]._

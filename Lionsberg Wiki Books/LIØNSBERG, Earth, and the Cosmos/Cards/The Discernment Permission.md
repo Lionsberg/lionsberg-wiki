@@ -36,5 +36,5 @@ Lives canonically in the Wiki Substrate as a governing principle for all canonic
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 0)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 0)._
 _Related: [[The Codex Is Never Finished]], [[The Filling and Removing Dialectic]], [[The Pattern Governs, Not People]]._

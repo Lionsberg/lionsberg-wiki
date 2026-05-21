@@ -26,5 +26,5 @@ This is the canonical anatomy lesson under [[The LIØNSBERG Pattern Language]] (
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 2)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 2)._
 _Related: [[Fractal Sovereignty]], [[The Covenant Stack]], [[Right Relationship and Sacred Reciprocity]], [[Higher Order Functional Unity]]._

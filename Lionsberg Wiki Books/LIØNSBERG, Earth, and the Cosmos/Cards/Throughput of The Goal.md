@@ -33,5 +33,5 @@ Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the uni
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit — appears in [[LIONSBERG 101]], [[The Lionsberg Meta Guide]], and The Lionsberg Strategy and Plan as the unified metric._
+_Source: Phase 2.1 audit — appears in [[LIØNSBERG 101]], [[The Lionsberg Meta Guide]], and The Lionsberg Strategy and Plan as the unified metric._
 _Related: [[Sacred Economics]], [[The Pattern Is The Way]], [[Anatomies of Association]]._

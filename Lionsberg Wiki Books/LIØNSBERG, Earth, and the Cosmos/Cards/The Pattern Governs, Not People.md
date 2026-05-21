@@ -29,5 +29,5 @@ Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Elem
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 3, articulated across all eight Movements That Embodied the Pattern)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 3, articulated across all eight Movements That Embodied the Pattern)._
 _Related: [[Movements That Embodied the Pattern]], [[Sacred Guardianship — Neutralizing the Predatory]], [[The Nameless One Is The Speaker]]._

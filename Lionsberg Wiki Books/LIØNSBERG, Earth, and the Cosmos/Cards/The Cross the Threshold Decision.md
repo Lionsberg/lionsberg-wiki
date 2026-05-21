@@ -33,5 +33,5 @@ Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) and is foundational 
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (Ring 5)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 5)._
 _Related: [[The 12-Stage Pilgrim's Path]], [[The Sacred Onboarding Arc]], [[The Whisper Campaign]]._

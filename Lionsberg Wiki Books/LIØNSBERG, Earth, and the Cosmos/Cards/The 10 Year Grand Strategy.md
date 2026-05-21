@@ -31,5 +31,5 @@ Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the canonic
 ---
 
 _Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIONSBERG 101]] (10 Year Grand Strategy section)._
+_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (10 Year Grand Strategy section)._
 _Related: [[Covenant and Jubilee — December 2033]], [[The First Three Percent and Fibonacci Spread]], [[We Are In The Window]]._
