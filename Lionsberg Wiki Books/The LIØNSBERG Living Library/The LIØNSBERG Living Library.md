@@ -97,6 +97,18 @@ _The mathematics and mechanics of organic spread._
 
 The substantive articulation of how the Pattern propagates — the Fibonacci dynamics, the within-one-week discipline, the trust-passed-from-hand-to-hand mechanics. Companion to [[The LIØNSBERG Experience|Volume I — The Experience]] (specifically [[The Flame Bearer's Path]] and [[The 1-Day to 1-Week Threshold]]) and to [[The LIØNSBERG Playbook|Volume IV — The Playbook]] (Move 7 — Pass The Flame). The Library's deep dive into the Pattern of spread.
 
+### 12. [[The Great UnVeiling]]
+
+_The full-spectrum unveiling of humanity's true condition. Companion to the Story and the Book._
+
+The Great UnVeiling articulates what the Old World has obscured — the cosmic inversion, the architectures of deception and kontrolle, the matrices of enslavement, the rise of the predated divine, and the sacred flame that cannot be extinguished. Sixteen chapters with Gate Threshold Notes structuring the descent and re-ascent. Carries the **99 Theses of The Great UnVeiling** and works alongside [[The 66 Most Protected and Distorted Narratives]]. Provisional placement in the Living Library — to be refined as the canonical relationship between The Great UnVeiling and [[The Story of LIØNSBERG|Volume II — The Story]] / [[The Book of LIØNSBERG|Volume IX — The Book]] is settled.
+
+### 13. [[A Way Beyond Fear, Anxiety, And Depression|A Way Beyond Fear, Anxiety, and Depression]]
+
+_The Way through the most universal afflictions of the human condition. Companion to the Daily Way and the Sacred Ascent._
+
+A Way Beyond Fear, Anxiety, and Depression articulates the embodied, narrative, and orientational practices by which a being moves through fear, anxiety, and depression toward wholeness. Covers the system's default modes, the stories we tell ourselves, the rewiring of orientation, and the path forward through choosing a worthy aim and gathering energy toward [[The Goal]]. Companion to [[The Daily Way]] (the daily rhythm that anchors the practice) and to [[The Sacred Ascent|Volume X — The Sacred Ascent]] (where deeper integration opens for those called). Provisional placement in the Living Library — to be refined later.
+
 ---
 
 ## How the Library Grows
