@@ -155,7 +155,7 @@ This is **not a metaphorical fire**—it is real, and **it is coming.**
 	- Note that this requires preparing for the Digital Kontrolle Grid that will seek to restrict [[Human Osmotic Pressure]].  
 - **Build Arks**—As the world transforms, secure, self-sufficient, networked Arks, composed of New materials, underground, in proper geophysical localities, etc. See [[The Arks]] and [[The Noah Plan]]. 
 - **Build Hubs**—If each family and locality begins to hoard, the systems will [[Collapse]] and billions will die. Rapidly construct a fractal network of interoperable [[Hubs]] at different scales and levels of analysis, with the essential for local sovereignty and self-sufficiency present for each. (See [[The Hubs]] and [[The Joseph Plan]]). 
-- **Build Networks and Supply Lines**—Leverage the [[LIONSBERG]] operating system to enable interoperability and the ecosystemic flow of information and resources across Arks and Hubs. 
+- **Build Networks and Supply Lines**—Leverage the [[LIØNSBERG]] operating system to enable interoperability and the ecosystemic flow of information and resources across Arks and Hubs. 
 
 ---
 

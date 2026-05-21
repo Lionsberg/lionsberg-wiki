@@ -1,6 +1,6 @@
 # LIONSBERG Structure
 
-Flowing from the **[[Spirit of ONE]]**, **[[LIONSBERG]]** is a transcendent Ideal progressively realized through the co-creative embodiment of the **[[Conscious Agents]]** it connects, empowers, and serves.
+Flowing from the **[[Spirit of ONE]]**, **[[LIØNSBERG]]** is a transcendent Ideal progressively realized through the co-creative embodiment of the **[[Conscious Agents]]** it connects, empowers, and serves.
 
 Designed as a **[[Holofractal Pattern Language]]** and **[[Way]]** of being, it is entirely transcendent of any juridical authority except the **[[ØNE]]**.
 
@@ -8,7 +8,7 @@ Designed as a **[[Holofractal Pattern Language]]** and **[[Way]]** of being, it 
 
 1. **Transcendence and Incarnation**:
     
-    - While inherently transcendent, **[[LIONSBERG]]** continually incarnates in given domains as a **sovereign, voluntary association of individuals of Goodwill**, forming dynamic frameworks for locally appropriate emergence and co-creation.
+    - While inherently transcendent, **[[LIØNSBERG]]** continually incarnates in given domains as a **sovereign, voluntary association of individuals of Goodwill**, forming dynamic frameworks for locally appropriate emergence and co-creation.
     
 2. **Self-Governing Teams**:
     
@@ -57,6 +57,6 @@ This **[[Holofractal Pattern Language]]** is essential for humanity to:
 
 ### **Provisional Structure on Worksite Earth**
 
-Initially instantiated in the United States, **[[LIONSBERG]]**’s **[[Provisional Structure]]** was designed to facilitate emergence and hybrid ecosystemic resource flows through [[The 7 Year Window of Preparatory Work and Learning]]. However, due to the abject corruption of the **[[Existing Order]]**, this structure was transcended, enabling the framework to continue to evolve free from systemic constraints. 
+Initially instantiated in the United States, **[[LIØNSBERG]]**’s **[[Provisional Structure]]** was designed to facilitate emergence and hybrid ecosystemic resource flows through [[The 7 Year Window of Preparatory Work and Learning]]. However, due to the abject corruption of the **[[Existing Order]]**, this structure was transcended, enabling the framework to continue to evolve free from systemic constraints. 
 
 ---

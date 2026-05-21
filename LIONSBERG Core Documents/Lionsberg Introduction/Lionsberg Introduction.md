@@ -2,7 +2,7 @@
 
 ## Current Version 
 
-- [[Lionsberg Summary]]  
+- [[LIØNSBERG Summary]]  
 - [[One Sentence]]  
 
 ## Previous Versions

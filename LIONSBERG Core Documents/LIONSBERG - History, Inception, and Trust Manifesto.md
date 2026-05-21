@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIONSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
+In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
 
 This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ØNE]]** and **LIONSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIONSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
@@ -99,7 +99,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - The [[Holofractal Pattern Language]] is born and begins adaptation and localization to English and Earth. 
 - In response to the profound corruption being exposed, Jordan begins work with the independent movement exploring pathways to an independent sweep of the executive branch in 2024.  
 - The question must be answered: can and should any of the existing order be saved?  
-- By Winter 2022, the experiments demonstrate that in order to have a chance to succeed, the [[Meta Project]] likely requires something specific, concrete, and trainable like [[LIONSBERG]] as a specific **enabling mechanism**.  
+- By Winter 2022, the experiments demonstrate that in order to have a chance to succeed, the [[Meta Project]] likely requires something specific, concrete, and trainable like [[LIØNSBERG]] as a specific **enabling mechanism**.  
 - "This much work requires and operating and coordinating system". 
 
 #### **Spring 2023: The Foundation**
@@ -146,7 +146,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 
 - As the final embers of the **[[Old World]]** smoldered, a definitive conclusion was reached: the existing systems of power and governance could not be salvaged. The **[[Existing Order]]** humanity had relied upon for centuries had not merely failed; it had become antithetical to the Spirit, Will, and Intention of **ONE** and **All**. 
 - In this season of death, the remaining energies of the **Old Order** were released. It was a time of mourning and release, but also a time of anticipation. Like the winter that precedes spring, this period marked the preparation for a profound rebirth.
-- The groundwork for **[[LIONSBERG]]** was solidified, ensuring that the **New Civilization** would not repeat the errors of the past. The **[[10-Year Grand Strategy]]** narrowed its focus to transcending the [[Old]] and fully embodying the **[[New]]**.  
+- The groundwork for **[[LIØNSBERG]]** was solidified, ensuring that the **New Civilization** would not repeat the errors of the past. The **[[10-Year Grand Strategy]]** narrowed its focus to transcending the [[Old]] and fully embodying the **[[New]]**.  
 - [[Existential Threat - Reporting Back From Battle]] published laying out the basic shocking discoveries.  
 
 #### **Spring Quest 2025: Connecting and Empowering The First Three Percent?**
@@ -192,7 +192,7 @@ From the Supreme Value of [[ØNE]], the cardinal values like [[Truth]], [[Love]]
 
 ### **Pattern Integrity**
 
-[[LIONSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven. 
+[[LIØNSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven. 
 
 The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] Spirit of the **[[ØNE]]**.  
 
@@ -202,13 +202,13 @@ The ultimately ineffable [[Pattern Language]] LIONSBERG is a reflection of is un
 
 ### **Transformations Over Time**
 
-While the Spirit, Intention, and Goal of [[LIONSBERG]] is eternal and unchanging, its SpatioTemporal manifestations are designed to continuously improve and transform over Time as [[All]] things rise Together towards [[The Goal]]. Because its principles are implemented poly-centrically across the cosmic order, localization, adaptation, and variation are both welcomed and prized. 
+While the Spirit, Intention, and Goal of [[LIØNSBERG]] is eternal and unchanging, its SpatioTemporal manifestations are designed to continuously improve and transform over Time as [[All]] things rise Together towards [[The Goal]]. Because its principles are implemented poly-centrically across the cosmic order, localization, adaptation, and variation are both welcomed and prized. 
 
 ---
 
 ### **Transformational Purpose**
 
-The transformational purpose of [[LIONSBERG]] is to bring Heaven to every life and world it touches. 
+The transformational purpose of [[LIØNSBERG]] is to bring Heaven to every life and world it touches. 
 
 ---
 
@@ -222,7 +222,7 @@ By 2026, **LIONSBERG** aims to connect and empower **[[The First Three Percent]]
 
 ### **Investments**
 
-The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[Provisional Structure]] and other personal contributions. As a result, [[LIONSBERG]]'s only obligations are to [[ØNE]] and [[All]]. It is truly a free gift offered equally to All. 
+The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[Provisional Structure]] and other personal contributions. As a result, [[LIØNSBERG]]'s only obligations are to [[ØNE]] and [[All]]. It is truly a free gift offered equally to All. 
 
 A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[Provisional Structure]] was abandoned and the accounts closed. 
 

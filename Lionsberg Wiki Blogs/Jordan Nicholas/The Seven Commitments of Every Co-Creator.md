@@ -1,6 +1,6 @@
 # The Seven Commitments of Every Co-Creator
 
-By joining [[LIONSBERG]], each member affirm their willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]]:
+By joining [[LIØNSBERG]], each member affirm their willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]]:
 
 ---
 

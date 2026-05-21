@@ -1,6 +1,6 @@
 # Cultivating Healthy Interdependencies
 
-Healthy **Interdependencies** are the dynamic connections that bind individuals, teams, systems, and realms within the **[[LIONSBERG]]** framework, enabling **[[Co-Creation]]**, fostering resilience, and amplifying the flow of **[[Value]]** across **[[The Body]]**. They are designed to balance autonomy and unity, creating harmony while driving forward collective progress toward **[[The Goal]]**.
+Healthy **Interdependencies** are the dynamic connections that bind individuals, teams, systems, and realms within the **[[LIØNSBERG]]** framework, enabling **[[Co-Creation]]**, fostering resilience, and amplifying the flow of **[[Value]]** across **[[The Body]]**. They are designed to balance autonomy and unity, creating harmony while driving forward collective progress toward **[[The Goal]]**.
 
 ---
 

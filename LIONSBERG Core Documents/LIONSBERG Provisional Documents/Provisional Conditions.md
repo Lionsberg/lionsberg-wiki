@@ -21,10 +21,10 @@ We anticipate that the [[Critical Path]] lies along a tipping point strategy cen
 Our hypothesis is that the stories and experiences will flow from getting into action as a community on a series of projects to meet needs and solve problems, that can grow in their scope and complexity over time. 
 
 ## Embodiment 
-While we recognize that what is trying to emerge is universal in scope, we also recognize that we need a structure and place to act out the "Spirit" of it - for that reason we have established [[LIONSBERG]] and the Lionsberg [[Provisional Structure]]. 
+While we recognize that what is trying to emerge is universal in scope, we also recognize that we need a structure and place to act out the "Spirit" of it - for that reason we have established [[LIØNSBERG]] and the Lionsberg [[Provisional Structure]]. 
 
 ## Clear Written Articulations   
-- Clear mythical name: [[LIONSBERG]]  
+- Clear mythical name: [[LIØNSBERG]]  
 - Sample descriptive name(s): 
 	- Lionsberg | Meta Project  
 	- Lionsberg | Meta Game

@@ -40,7 +40,7 @@ ____
 
 [[Above The Chaos, Request For Resources - Tranche 2|Request For Resources - Tranche 2]] lays out a basic resourcing request. 
 
-The [[Lionsberg Summary]] is a one page link to most things relevant. 
+The [[LIØNSBERG Summary]] is a one page link to most things relevant. 
 
 [[The Invitation, Cycle 9]] is an invitation to join us and contribute. 
 

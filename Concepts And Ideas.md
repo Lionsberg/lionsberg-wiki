@@ -10,7 +10,7 @@ This is a 2% list that is just a placeholder...
 - [[Agreements]]  
 - [[Federating]]  
 - [[Forging Or Joining A Team]]  
-- [[LIONSBERG]]  
+- [[LIØNSBERG]]  
 - [[LIØNSBERG System]]  
 - [[Lionsberg Community]]  
 - [[Mapping]]  

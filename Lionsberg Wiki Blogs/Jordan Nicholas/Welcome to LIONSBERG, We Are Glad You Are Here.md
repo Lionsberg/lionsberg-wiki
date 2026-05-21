@@ -7,7 +7,7 @@ ____
 The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIØNSBERG]]**, **[[The Great Game of LIØNSBERG]]**, and **[[The LIØNSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIØNSBERG]]** and begin there.  
 ___
 
-Everything about [[LIONSBERG]] is a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
+Everything about [[LIØNSBERG]] is a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
 
 Across the cosmic order We are doing Our best to progressively articulate **[[The Divine Blueprints]]**, analyze the **[[Existing Forces and Conditions]]**, and map out a **[[The LIØNSBERG Strategy and Plan|Strategy and Plan]]** to manifest the **[[Creator's Intent]]** in Reality—**Right Here, Right Now**. Just as you are in your own time and place. 
 

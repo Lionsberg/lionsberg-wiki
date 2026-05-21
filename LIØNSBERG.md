@@ -1,4 +1,4 @@
-# LIONSBERG
+# LIØNSBERG
 
 **LIONSBERG** is a mythical name invoking [[The Sacred Mountain]] and the Divine Archetype of Unity, Love, and Infinite Becoming. It stands as both a gathering place beyond [[Time]] and [[Space]] and a sacred [[Way]] of being—an eternal beacon calling **ALL** to return to the **ONE**.
 

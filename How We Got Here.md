@@ -22,4 +22,4 @@ Integrated Delivery Framework (Parallel):
 5. Action  
 6. Continuous Improvement  
 
-For [[LIONSBERG]] as a Whole, How We Got Here is covered in the [[Lionsberg Trust Manifesto]] and the [[Lionsberg History and Inception]].  
+For [[LIØNSBERG]] as a Whole, How We Got Here is covered in the [[Lionsberg Trust Manifesto]] and the [[Lionsberg History and Inception]].  

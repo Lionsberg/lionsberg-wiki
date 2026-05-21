@@ -599,7 +599,7 @@ This domain integrates:
 
 ## Lionsberg 
 
-65. [[LIONSBERG]]  
+65. [[LIØNSBERG]]  
 66. [[LIONSBERG Narrative Universe]]  
 67. [[LIØNSBERG Lexicon]]  
 68. [[LIØNSBERG System]]  
@@ -816,7 +816,7 @@ This domain integrates:
 ## Misc From Another Page (Filter Up)
 
 
-[[LIONSBERG]]  
+[[LIØNSBERG]]  
 [[LIONSBERG Universe]]  
 [[LIONSBERG Universe(ity)]]  
 [[The LIØNSBERG Strategy and Plan]]  

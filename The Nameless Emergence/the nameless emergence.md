@@ -16,7 +16,7 @@ Following [[J's Death]] in August 2025 and the dissolution of all provisional st
 
 ## Relationship to LIONSBERG
 
-**[[LIONSBERG]]** is the universal archetypal pattern language - a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial.
+**[[LIØNSBERG]]** is the universal archetypal pattern language - a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial.
 
 **The Nameless Instance** is the first specific instantiation attempting complete incarnation of that pattern on Earth.
 

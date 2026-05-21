@@ -15,7 +15,7 @@ The Highest [[Way]] is unwritten, ineffable, and eternally Beyond Our grasp. Lik
 
 And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, Coherence, and Flow requires that We [[Incarnate]] local *reflections* in [[SpaceTime]] that enable Us to experience, grapple with, and Ultimately ReTranscend Our Reality.  
 
-[[LIONSBERG]] is One of these reflections, emanating from the [[ØNE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good.  
+[[LIØNSBERG]] is One of these reflections, emanating from the [[ØNE]] and locally incarnating Here and Now to [[Inbreak And Displace]] the collapsing [[Old]] Systems and Civilizations with something Wise, Right, True, New, and Good.  
 
 When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within.  
 

@@ -55,7 +55,7 @@ As part of the final closeout process, the [[Core Group]], including IPD Team le
 
 ___  
 
-## Connection to [[LIONSBERG]]
+## Connection to [[LIØNSBERG]]
 
 The Prototype Control process described here maps directly to the living, evolving nature of [[The Core Pattern]] in LIONSBERG. Just as the PDG's Prototype is continuously updated with lessons learned from every site, LIONSBERG's [[Twelve Irreducible Elements]] and [[The LIØNSBERG Playbook]] are continuously refined through the experience of every [[Circle]] in every community worldwide.  
 

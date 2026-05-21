@@ -14,4 +14,4 @@ The Receiver also is often tasked with facilitating the resolution of disputes a
 
 ___
 
-When the [[Old World]] went off the rails, [[LIONSBERG]] was appointed as Receiver, and given the [[Mandate]] of forging the [[New Civilization]]. 
+When the [[Old World]] went off the rails, [[LIØNSBERG]] was appointed as Receiver, and given the [[Mandate]] of forging the [[New Civilization]]. 

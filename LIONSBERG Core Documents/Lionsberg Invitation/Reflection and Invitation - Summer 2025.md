@@ -64,7 +64,7 @@ Together, we have the potential to birth an authentic, spiritually realigned, li
 
 ## LIONSBERG: A Starting Point and Sacred Blueprint
 
-For this very purpose, a Sacred Blueprint and Starting Point has been forged out of diverse lifetimes of wisdom and work: [[LIONSBERG]].
+For this very purpose, a Sacred Blueprint and Starting Point has been forged out of diverse lifetimes of wisdom and work: [[LIØNSBERG]].
 
 Lionsberg is not merely an organization or initiative—it is a living architecture and framework for the rebirth and regeneration of both humanity and this planet. It contains the essential patterns, principles, and pathways required to **transcend collapse** and **initiate humanity’s true destiny**.
 

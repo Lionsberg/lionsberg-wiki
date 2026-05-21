@@ -1,6 +1,6 @@
 # Transforming Conflict 
 
-Conflict, when approached with wisdom and intention, becomes a powerful catalyst for growth, alignment, and co-creation. In the **[[LIONSBERG]]** framework, **Transforming Conflict** is the process of shifting discord into harmony, division into unity, and misunderstanding into deeper connection. It is not about avoiding or suppressing conflict but engaging it as an opportunity to elevate all involved.
+Conflict, when approached with wisdom and intention, becomes a powerful catalyst for growth, alignment, and co-creation. In the **[[LIØNSBERG]]** framework, **Transforming Conflict** is the process of shifting discord into harmony, division into unity, and misunderstanding into deeper connection. It is not about avoiding or suppressing conflict but engaging it as an opportunity to elevate all involved.
 
 ---
 
@@ -66,7 +66,7 @@ Conflict, when approached with wisdom and intention, becomes a powerful catalyst
 
 ### **Conflict Transformation in LIONSBERG**
 
-In the **[[LIONSBERG]]** ecosystem, conflict is seen as an integral part of growth and evolution. When expected, embraced and transformed, it becomes a vital force for alignment, innovation, and the advancement of **[[The Goal]]**.
+In the **[[LIØNSBERG]]** ecosystem, conflict is seen as an integral part of growth and evolution. When expected, embraced and transformed, it becomes a vital force for alignment, innovation, and the advancement of **[[The Goal]]**.
 
 > “Conflict is not the end; it is the beginning of a deeper truth waiting to emerge. Through love and wisdom, we transform discord into harmony and division into unity.”
 

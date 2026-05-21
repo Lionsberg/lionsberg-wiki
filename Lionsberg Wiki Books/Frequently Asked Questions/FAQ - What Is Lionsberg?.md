@@ -6,6 +6,6 @@ Already operational in various cosmic realms, it includes systems, infrastructur
 
 [[Lionsberg Metaphors]]  
 
-See also [[LIONSBERG]]  
+See also [[LIØNSBERG]]  
 
 See more [[Frequently Asked Questions]]  

@@ -42,7 +42,7 @@ In Unwavering Faith, Hope, and Love,
 
 ____
 
-**[[LIONSBERG]]** is a sovereign and unincorporated private association.  
+**[[LIØNSBERG]]** is a sovereign and unincorporated private association.  
 **[[Lionsberg Inc.]]** is a registered 501(c)(3) dedicated to designing and  
 building the Best Possible Future For All.  
 **[[The Founder's Fund]]** is an independent fund fiscally hosted by Lionsberg Inc.  

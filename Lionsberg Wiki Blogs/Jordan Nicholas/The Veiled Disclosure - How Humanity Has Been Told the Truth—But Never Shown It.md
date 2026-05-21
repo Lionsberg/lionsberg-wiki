@@ -557,4 +557,4 @@ They have warned you of Truth in fiction.
 
 **Will you wake up, or will you sleep until [[The Window]] closes and [[The Door]] is sealed?**
 
-Meet Us at [[LIONSBERG]].  
+Meet Us at [[LIØNSBERG]].  

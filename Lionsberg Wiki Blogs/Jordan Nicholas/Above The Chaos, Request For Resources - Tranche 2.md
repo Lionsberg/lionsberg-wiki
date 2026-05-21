@@ -4,7 +4,7 @@ By [[Jordan Nicholas Sukut]], 2024.05.30 _(updated 2024.06.03)_
 
 An entry in [[Above The Chaos]]. 
 
-For a scannable Lionsberg table of contents, see [[Lionsberg Summary]]. 
+For a scannable Lionsberg table of contents, see [[LIØNSBERG Summary]]. 
 
 ## Abstract 
 
