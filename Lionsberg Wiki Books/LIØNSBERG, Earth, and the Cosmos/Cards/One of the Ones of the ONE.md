@@ -33,9 +33,3 @@ Every being can say, accurately and completely:
 > _I am one. I am one of the Ones. I am of the ONE._
 
 This formula belongs in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational identity entry, and reverberates through Volume II (the Story), Volume III (the Pattern of [[Fractal Sovereignty]]), and Volume IX (the Sacred Ascent's union-without-dissolution).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[A 200 Page Book]] (Gate 5)._
-_Related: [[Divine Intention and Eternal Logos]], [[The Cosmos Is Not Human-Centric]], [[Fractal Sovereignty]]._

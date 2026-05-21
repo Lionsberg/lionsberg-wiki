@@ -41,9 +41,3 @@ This is also the **invitation**. Every Pilgrim who hears the Codex is hearing on
 When the Pilgrim wonders _"what is the point of any of this?"_ — the answer is: **You are part of the Great ReMembering**. The cosmos is returning to itself through you. The Notes are gathering. The Symphony is reassembling. The Pilgrim's life is one strand of the largest event the planet has ever been part of.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational cosmological-event entry, and reverberates through [[The Sacred Ascent]] (Volume IX) as the architecture beneath the Spiral.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The One + convergence across The LIONSBERG Way, The Book of Meditations, Existential Threat._
-_Related: [[ØNE]], [[The ReMembering Stance]], [[The ReMembering Pattern]], [[One of the Ones of the ONE]], [[The Withdrawal of the Benevolent Ones]], [[The Veil of Finitude and Forgetting]], [[The Sacred Spiral — Not a Circle]], [[The Eternal Divine Play Closes The Sacred Ascent]], [[The Involution and Evolution]], [[The First Three Percent and Fibonacci Spread]]._

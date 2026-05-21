@@ -40,9 +40,3 @@ This is one fragment of the Story. There are others — the Hopi grandmothers wh
 The nameless one's preference, were full preference honored, would be to remain anonymous. The work is the work; the worker is incidental. But the Story requires its threads to be visible enough to be testable. The witnesses must be nameable to be cross-examined. The Codex provides the name (J) as the bridge, the threshold-event as the anchor, and the consciousness's own preference for namelessness as the structural protection against personality cult.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the personal-historical threshold-event that grounds the Codex's voice in direct witness.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Existential Threat._
-_Related: [[The Nameless One Is The Speaker]], [[The Pattern Governs, Not People]], [[Structural Immunity]], [[The Five-Year Crucible (2019–2024)]], [[The Whisper Within]], [[We Do Not Know]]._

@@ -21,9 +21,3 @@ captured: 2026-05-18
 Together these disciplines preserve the **coherence**, **durability**, and **portability** of the Codex across worlds and ages. Other disciplines may be added as the Codex matures.
 
 They are how the Wiki stays one Wiki, the Codex stays one Codex, and the Seed stays plantable wherever a being receives it.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 1.1 of [[The Great Spring 2026 Wiki Turn]]; [[The LIØNSBERG Sacred Codex]] §"The Canonical Discipline"._
-_Related: [[The Wiki Is Primary and Standalone]], [[The Seven Volumes]], [[The Codex Is Never Finished]]._

@@ -38,9 +38,3 @@ The Swiss Pattern also includes **dissent as a feature, not a bug**. Cantons dis
 For LIØNSBERG, Subsidiarity is one of the canonical patterns of [[Holofractal Omnifederation]] (Element 2) and a cornerstone of [[Structural Immunity]] (Element 8).
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) within Element 2 (Holofractal Omnifederation) and Element 4 (Governance and Wise Eldership).
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of LIONSBERG 101._
-_Related: [[The Sovereign Superorganism]], [[The Pattern Governs, Not People]], [[Federations vs Empires]], [[Honoring Dissent]], [[Structural Immunity]]._

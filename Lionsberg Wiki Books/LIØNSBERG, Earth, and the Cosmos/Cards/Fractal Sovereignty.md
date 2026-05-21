@@ -25,9 +25,3 @@ No higher level may compel a lower level. Federation is **voluntary, by mutual c
 Fractal Sovereignty is the structural guarantee that the [[Holofractal Omnifederation]] cannot collapse back into empire. It is the load-bearing reason the [[Field of Agreements]] is voluntary covenant and not imposed law.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) when the Pattern Language is rebuilt in Phase 3.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 5 (Transdimensional Constitution), Section II of the prior Codex stub._
-_Related: [[Holofractal Omnifederation]], [[The Law of Omniconsideration]], [[Right Relationship and Sacred Reciprocity]]._

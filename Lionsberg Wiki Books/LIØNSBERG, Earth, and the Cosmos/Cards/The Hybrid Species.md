@@ -47,9 +47,3 @@ The implications for Pillar I (metaphysics) are also vast. The Pilgrim is not "b
 Humanity is hybrid. Humanity is awakening. The two are one process, unfolding now.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as foundational anthropology, and informs [[The LIØNSBERG Lexicon]] (Volume VII) at the species-origin entries.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Beyond Earth._
-_Related: [[The Human Template]], [[The Withdrawal of the Benevolent Ones]], [[Earth's Galactic History and the Cosmic Chronicles]], [[The Cosmic Gardeners and Earth as Living Laboratory]], [[The Veil of Finitude and Forgetting]], [[The Anunnaki]]._

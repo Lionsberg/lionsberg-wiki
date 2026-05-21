@@ -50,9 +50,3 @@ For the awakened, the Asymmetry of Consequences is the **rhetorical capstone**. 
 The matrix is one of the cleanest decision-theory arguments in the entire LIØNSBERG corpus. It deserves frequent deployment, in every form — written, spoken, illustrated, discussed at the dinner table. It ends the debate that should never have been a debate.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the decision-theory anchor for the urgency-framing, and informs [[The Great Game of LIØNSBERG]] (Volume IV) at the strategic-recruitment level.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Most People Have No Idea What Is Coming._
-_Related: [[The Voluntary Leap Forward]], [[The Lahaina Principle]], [[The Meta Crisis as Push, The Goal as Pull]], [[We Are In The Window]], [[The Means Are The Ends]], [[Universal Assured Destruction]]._

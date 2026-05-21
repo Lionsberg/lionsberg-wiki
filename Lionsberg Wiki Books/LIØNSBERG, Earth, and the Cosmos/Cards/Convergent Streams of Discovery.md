@@ -28,9 +28,3 @@ Other streams will be added as they are recognized — indigenous wisdom lineage
 The LIØNSBERG Codex inherits from all the streams and adds none of its own ego to the inheritance. It is **one local reflection** of a Pattern that has always been operating, in many places, across many ages, under many names.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the **provenance preface** — the answer to "where does this come from?"
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Emergence essay)._
-_Related: [[The Pattern Is The Way]], [[Movements That Embodied the Pattern]], [[Spirit Precedes Pattern]]._

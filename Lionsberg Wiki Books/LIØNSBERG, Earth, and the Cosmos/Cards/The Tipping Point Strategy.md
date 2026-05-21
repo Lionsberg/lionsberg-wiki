@@ -49,9 +49,3 @@ A diagnostic check at any moment in the campaign:
 If we are reaching wide and shallow, we are losing the cascade. If we are reaching deep and resonant, we are winning it. The 3% must be **real**, not nominal — actually carrying the Pattern, actually living the Cycle, actually woven into the Grid. Nominal 3% does not tip anything. **Real 3% tips everything.**
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the central strategic doctrine of the 10-Year Grand Strategy.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Dawn of the New World + The Lionsberg Strategy and Plan of Action._
-_Related: [[The First Three Percent and Fibonacci Spread]], [[The 10 Year Grand Strategy]], [[The Planetary Grid]], [[The Whisper Campaign]], [[Covenant and Jubilee — December 2033]], [[The Means Are The Ends]], [[Movements That Embodied the Pattern]]._

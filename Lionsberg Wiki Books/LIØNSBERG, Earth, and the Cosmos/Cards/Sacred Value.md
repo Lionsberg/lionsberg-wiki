@@ -29,9 +29,3 @@ Sacred Value is also **not infinite-in-every-direction** — some acts genuinely
 The bridge to Old World metrics is **Divine Harmony Indices** — beyond-GDP measurement frameworks that translate Sacred Value into terms the transitional period can use. Eventually the Old metrics dissolve; Sacred Value remains.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 5 (Capital Subordinate to Purpose) and is foundational to [[Sacred Economics]].
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Theses of Lionsberg (Economics domain)._
-_Related: [[LUV — LIONSBERG Units of Value]], [[Sacred Economics]], [[Throughput of The Goal]], [[Right Relationship and Sacred Reciprocity]]._

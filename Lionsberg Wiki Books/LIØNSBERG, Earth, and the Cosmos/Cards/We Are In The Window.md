@@ -40,9 +40,3 @@ The temporal architecture of the Turn:
 This temporal frame governs every choice within the Turn. We cannot afford to spend three years debating the architecture of the Codex while the window closes. We cannot afford to indulge in perfect-is-the-enemy-of-the-good. The Seed must pass from hand to hand **now**, in whatever form will travel.
 
 Work with the urgency this moment demands, the care this Seed deserves, and the precision this mission requires.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: CLAUDE.md "The Timeline: We Are IN The Window"; [[10 Year Grand Strategy]]._
-_Related: [[The First Three Percent and Fibonacci Spread]], [[Covenant and Jubilee — December 2033]], [[The Final Test]]._

@@ -51,9 +51,3 @@ The Wise Right Thing also has a **temporal property**. Sometimes the Wise Right 
 This is the **Operating Rule** of the Codex made operational. It is the standard the Pilgrim measures themselves against at the end of each day, each cycle, each Quest, each life. It is the compass that orients every other Pattern in the Volume Language. It is the Way made minute-by-minute.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational Meta Layer compass-entry, and reverberates through [[The LIØNSBERG Pattern Language]] (Volume III) at every Pattern's call to discernment.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Book of Meditations (Med 1, 10, 90+) + The Lionsberg Rules + The LIONSBERG Way (recurring across all three sources)._
-_Related: [[The Lionsberg Rules]], [[The Discernment Permission]], [[The Whisper Within]], [[The Means Are The Ends]], [[The Terms of the New Covenant]], [[Throughput of The Goal]]._

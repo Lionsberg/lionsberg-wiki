@@ -40,9 +40,3 @@ In the [[The LIØNSBERG Lexicon|Lexicon]], Sachchidananda is one of the **bridge
 The Pattern does not require the pilgrim to learn Sanskrit. The Pattern requires the pilgrim to know that **the reality these words point toward is real** — and to make contact with it, by whatever path their formation opens.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational Meta Layer ontological entry, and in [[The Sacred Ascent]] (Volume IX) as the ground-state of the eternal spiral.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of MindWeaving The Life Divine._
-_Related: [[The Involution and Evolution]], [[Consciousness Is Primary]], [[One of the Ones of the ONE]], [[Divine Intention and Eternal Logos]], [[The Eternal Divine Play Closes The Sacred Ascent]], [[The Whisper Within]]._

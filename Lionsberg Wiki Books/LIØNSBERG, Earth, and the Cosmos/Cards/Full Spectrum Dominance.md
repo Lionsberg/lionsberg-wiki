@@ -30,9 +30,3 @@ The phrase "Full Spectrum Dominance" itself comes from military doctrine, then w
 Knowing the Anti-Goal makes its operations recognizable. The Goal is **flourishing for all**; the Anti-Goal is **dominance over all**. Every concrete decision can be tested against this axis. Every institution can be evaluated by which Goal it actually serves, regardless of what it claims.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the named opposite of The Goal — the Anti-Pole around which the Old World organizes.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[A 200 Page Book]] (Gate 25) + The Great UnVeiling (Gate IV)._
-_Related: [[Federations vs Empires]], [[The InterCosmic Treaty of Non-Subjugation]], [[Sacred Guardianship — Neutralizing the Predatory]], [[Earth's Galactic History and the Cosmic Chronicles]]._

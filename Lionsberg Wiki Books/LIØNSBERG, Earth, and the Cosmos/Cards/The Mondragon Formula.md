@@ -49,9 +49,3 @@ The active refinements:
 - **Solidarity** is held by the [[The Covenant Stack]], the [[The InterCosmic Treaty of Non-Subjugation|treaty architecture]], and the operational practice of [[Right Relationship and Sacred Reciprocity]].
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a composite formula that runs across multiple Elements (1, 2, 4, 5, 6).
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of LIONSBERG 101 (the deep Mondragon study)._
-_Related: [[Subsidiarity and the Swiss Pattern]], [[Capital as Subordinate Tool]], [[The Pedagogy of Trust and Sirimiri]], [[Sacred Economics]], [[The Sovereign Superorganism]], [[Structural Immunity]]._

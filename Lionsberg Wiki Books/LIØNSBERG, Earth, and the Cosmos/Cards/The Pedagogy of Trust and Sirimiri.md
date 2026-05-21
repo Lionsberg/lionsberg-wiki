@@ -43,9 +43,3 @@ The Pedagogy stands against the diseases of modern formation:
 The cost of the Pedagogy is patience. The reward is people who actually carry the Pattern — and who can therefore safely found the institutions of the New.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 6 (Education as Transformation), and informs [[The LIØNSBERG Playbook]] (Volume V) at every stage of the Pilgrim's Path.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of LIONSBERG 101 (the Arizmendi formation study)._
-_Related: [[The 3-Year Healing and Empowerment Cycle]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]], [[The Mondragon Formula]], [[The ReMembering Stance]], [[The Sacred Onboarding Arc]], [[The 12-Stage Pilgrim's Path]]._

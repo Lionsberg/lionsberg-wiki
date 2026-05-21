@@ -36,9 +36,3 @@ Together, the two Rules are sufficient. **A Circle that has only these two Rules
 This is the compression-test of canonical content: does it survive being reduced to these two Rules and re-derived from them? If yes, it is part of the canonical Pattern. If no, it is not Pattern; it is opinion.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) at the root of Element 3 (Field of Agreements), and in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational Meta Layer entry.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Rules]]._
-_Related: [[The Pattern Is The Way]], [[Throughput of The Goal]], [[The Seven Moves]], [[Spirit Precedes Pattern]]._

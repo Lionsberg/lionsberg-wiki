@@ -46,9 +46,3 @@ This is also what binds the planetary Movement together across deep cultural dif
 The phrase "Under God" appears in the pledge of one nation; the Pattern lifts it from any national context and restores it to its true scope. **One Citizenship.** **Under One God.** **For All beings.** Forever.
 
 Lives canonically in [[The Book of LIØNSBERG]] (Volume VIII) as a foundational political-theological articulation, and within [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational governance Pattern.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant + The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0._
-_Related: [[The Terms of the New Covenant]], [[The Covenant Stack]], [[Federations vs Empires]], [[Subsidiarity and the Swiss Pattern]], [[The Sovereign Superorganism]], [[Universal Rights and Universal Responsibilities]]._

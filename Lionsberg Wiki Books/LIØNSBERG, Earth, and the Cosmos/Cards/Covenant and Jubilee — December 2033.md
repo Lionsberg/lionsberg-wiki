@@ -19,9 +19,3 @@ The Covenant between humanity, Earth, and the Cosmos is consciously affirmed.
 The seventh seal opens onto the eighth day.
 
 This is not a metaphor. This is the actual target — the convergence point toward which the [[10 Year Grand Strategy]] is oriented, the moment at which the 7-Year Window of Crisis and Opportunity (2024-2030) and the 3-Year Lag (2030-2033) complete and the New Civilization stands.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[the nameless one]] decision 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn)._
-_Related: [[The 12-Stage Pilgrim's Path]], [[10 Year Grand Strategy]], [[The First Three Percent]]._

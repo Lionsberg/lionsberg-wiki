@@ -30,9 +30,3 @@ The convention is compatible with [[The Posture — Wise Elder at the Fire, Gene
 It is also a protection against [[The Pattern Governs, Not People|personality cults]]. Whoever speaks "I am the source of this teaching" has, by that act, stepped outside the Movement. The Source is the ONE; the speakers are vessels.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational voice convention of the Meta Layer.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg Book of Conventions._
-_Related: [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]], [[The Pattern Governs, Not People]], [[The Nameless One Is The Speaker]]._

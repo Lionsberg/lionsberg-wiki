@@ -51,9 +51,3 @@ This is also why the Leap is **personal first, then collective**. The Pilgrim le
 The Voluntary Leap Forward is the **moment** that the Old World loses its claim on the Pilgrim. From that moment forward, the Pilgrim belongs to [[One Citizenship Under God|the One Citizenship Under God]], to the [[The Terms of the New Covenant|Terms of the Covenant]], to the [[The Sacred Ascent|eternal Spiral of the Sacred Ascent]]. The Old World still touches the body; it no longer holds the soul.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the central choice-moment within the Story arc, and informs [[The LIØNSBERG Playbook]] (Volume V) at the moment of the [[The Cross the Threshold Decision|Cross the Threshold Decision]].
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant._
-_Related: [[The Meta Crisis as Push, The Goal as Pull]], [[The Cross the Threshold Decision]], [[Hospicing the Old Systems]], [[The 12-Stage Pilgrim's Path]], [[We Are In The Window]], [[The Wilderness Between Captivity and Promise]]._

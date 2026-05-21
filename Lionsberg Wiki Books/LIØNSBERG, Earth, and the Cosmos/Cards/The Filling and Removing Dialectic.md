@@ -25,9 +25,3 @@ The two moves are paired. **Either alone is incomplete.**
 The dialectic answers the daily question of [[The LIØNSBERG Playbook|every Co-Creator]]: **What is mine to fill today? What is mine to remove?**
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the paired Co-Creation moves running underneath [[The Seven Moves]] rhythm.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]] (Filling Up + Removing essay dyad)._
-_Related: [[The Seven Moves]], [[Withdrawal of Consent and Exodus Protocols]], [[Hospicing the Old Systems]]._

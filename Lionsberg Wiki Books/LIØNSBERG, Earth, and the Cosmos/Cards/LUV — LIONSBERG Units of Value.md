@@ -25,9 +25,3 @@ Operational features (to be articulated through Phase 2-3 work and the audit of 
 The LUV system replaces neither human labor markets nor the gift economy of healthy traditional cultures. It is the connective tissue that allows both to operate inside a federation that does not collapse into either coerced commodification or destructive accumulation.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — specifically within the **Economy and Stewardship** element of the Pattern.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book III of the prior Codex stub. Resonates with FSC Acceptance Criteria v3 economic principles._
-_Related: [[Sacred Shared Infrastructure]], [[Right Relationship and Sacred Reciprocity]], [[Fractal Sovereignty]]._

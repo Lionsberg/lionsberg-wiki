@@ -29,9 +29,3 @@ The Old World's marketing-and-virality strategy will not work for the New Civili
 This is the operational form of [[Pass The Flame]] at the speech layer.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Lionsberg Orientation and Training System (Week 1 — Awakening and Calling)._
-_Related: [[Pass The Flame]] (existing wiki concept), [[The First Three Percent and Fibonacci Spread]], [[The Seven Moves]]._

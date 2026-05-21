@@ -21,9 +21,3 @@ If the wider internet collapses, the Wiki — cloned, distributed, printed — c
 The Wiki is therefore designed for **portability, durability, and self-sufficiency**. Markdown files. Plain text. Wiki links. No proprietary formats. No hidden dependencies. Forkable. Cloneable. Printable.
 
 This is what it means for the Wiki to be the Golden Seed.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 0.1 of [[The Great Spring 2026 Wiki Turn]]; Foundational Principles._
-_Related: [[Golden Seed]], [[The LIØNSBERG Sacred Codex]], [[Pass The Flame]]._

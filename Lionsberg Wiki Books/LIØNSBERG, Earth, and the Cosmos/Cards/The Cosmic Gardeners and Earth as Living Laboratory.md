@@ -30,9 +30,3 @@ Long before recorded human history, Earth entered the Goldilocks Zone of its sta
 The current Turn is in part **Earth's claim of sovereignty against the predatory lineage and re-alignment with the gardening lineage.** It is what [[Sacred Guardianship — Neutralizing the Predatory]] enacts at planetary scale. It is what [[The InterCosmic Treaty of Non-Subjugation]] declares.
 
 This is the cosmic-historical context [[The Story of LIØNSBERG]] (Volume II) carries.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[A 200 Page Book]] (Story of Earth section)._
-_Related: [[Earth's Galactic History and the Cosmic Chronicles]], [[The InterCosmic Treaty of Non-Subjugation]], [[Federations vs Empires]]._

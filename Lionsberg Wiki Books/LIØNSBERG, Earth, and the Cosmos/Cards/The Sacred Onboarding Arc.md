@@ -31,9 +31,3 @@ The arc moves through:
 This entire arc maps directly onto [[The 12-Stage Pilgrim's Path]] — Stages 4 through 10 are the Sacred Onboarding Arc, lived in sequence.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the operational onboarding pattern.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Lionsberg Orientation and Training System (Sections I-IX of the master Onboarding Process)._
-_Related: [[The 12-Stage Pilgrim's Path]], [[The Seven Moves]], [[The Covenant Stack]]._

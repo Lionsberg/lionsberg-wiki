@@ -60,9 +60,3 @@ For each currency, the Pilgrim asks the same question: **am I spending this in a
 The discipline is fractal. It applies in the hour (where am I placing Attention right now?). It applies in the day (how did I spend Time today?). It applies in the season (where is my Energy going this quarter?). It applies in the life (what am I willing to Sacrifice for what is most worthy?). The Being who runs this discipline across all four currencies at all four scales is the Being whose life **converges** on alignment with the ONE — and that convergence is what produces the lived fruit of [[The Wise Right Thing|wise right action]].
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the foundational economic articulation of the incarnate Being's operating reality.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Wisdom of the Way._
-_Related: [[Attention as the Ultimate Scarce Resource]] (pending), [[The 15-Minute Frame]] (pending), [[Everything Is Energy]] (pending), [[Sacrifice for Something Better]] (pending), [[The Wise Right Thing]], [[Memento Mori]], [[The Warrior's Vow]], [[The Battle Rhythm]]._

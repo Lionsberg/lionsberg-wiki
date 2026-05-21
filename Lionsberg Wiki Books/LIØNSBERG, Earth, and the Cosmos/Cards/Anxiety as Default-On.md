@@ -40,9 +40,3 @@ The reframe also has an ethical dimension. The Pilgrim who has lived with anxiet
 This is the **Healer Codex's posture** toward anxiety. Not pathologization. Not minimization. Not generic reassurance. **Accurate diagnosis followed by operational practice**. The Pilgrim learns to read their own ANS, to deploy the recalibration practices, to live with the activation when it cannot yet be dissolved, and to gradually — over months and years — bring the baseline downward into the activation appropriate to the conditions the Pilgrim is actually building rather than the conditions the Pilgrim inherited.
 
 Lives canonically in [[The Sacred Ascent]] (Volume IX) within the Healer Codex as the foundational diagnostic that opens the operational practices.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of A Way Beyond Fear, Anxiety, and Depression._
-_Related: [[Trauma as Master Key of Slavery]], [[The Whisper Within]], [[The Sacred Spiral — Not a Circle]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]], [[The Filling and Removing Dialectic]]._

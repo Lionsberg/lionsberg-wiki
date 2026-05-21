@@ -27,9 +27,3 @@ A **20-Year Generational Contingency** is held in reserve if the primary timelin
 **Act as if we have 10 years. Build as if we have centuries.**
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the canonical timeline architecture.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (10 Year Grand Strategy section)._
-_Related: [[Covenant and Jubilee — December 2033]], [[The First Three Percent and Fibonacci Spread]], [[We Are In The Window]]._

@@ -35,9 +35,3 @@ What every one of them shared:
 **The Pattern governs, not people.** The Rule of Benedict governs the abbot. The Twelve Traditions govern AA. The Great Law of Peace governs the chiefs. The GPL governs the code.
 
 This is what the Codex captures and re-articulates for civilization scale: not a new pattern, but the same Pattern that has always worked, made readable.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 3 — Living Proof)._
-_Related: [[The Pattern Is The Way]], [[Sacred Guardianship — Neutralizing the Predatory]] (the structural immunity each carried)._

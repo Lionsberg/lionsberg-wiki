@@ -19,9 +19,3 @@ Omniconsideration is also the meta-method by which the **[[OmniSpection]]** revi
 The Law of Omniconsideration is closely paired with **The Law of Right Relationship** and **The Principle of Fractal Sovereignty** — together they form a triad: consider all, relate rightly, preserve sovereignty.
 
 When in doubt, **consider more.** Consider what you have not yet considered. Consider whom you have not yet considered. Consider when you have not yet considered. The Pattern that holds across the most considerations is the truer Pattern.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 5 (Transdimensional Constitution), Section II of the prior Codex stub. Also operationally used throughout [[The Great Spring 2026 Wiki Turn]] ("omniconsiderate audit")._
-_Related: [[OmniSpection]], [[Fractal Sovereignty]], [[Right Relationship and Sacred Reciprocity]]._

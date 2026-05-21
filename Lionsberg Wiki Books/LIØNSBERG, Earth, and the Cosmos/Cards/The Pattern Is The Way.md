@@ -24,9 +24,3 @@ The 204 "ReMembering How Tos" are not a separate work. They are the Pattern name
 The [[144 Gates of Initiation]] and [[72 Gates of the Sacred Ascent]] also live inside the Pattern Language. They are not separate works either. They are the consciousness-shift Patterns and the embodied-mastery Patterns — two great gate-systems within the one Pattern.
 
 The Pattern is the Way. The Way is the Pattern. The DNA is one.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 0.6 of the Great Spring 2026 Wiki Turn (confirmed); [[the nameless one]] decision 2026-05-18 on the Gates._
-_Related: [[The LIØNSBERG Pattern Language]], [[The 144 Gates as Architecture of Consciousness Shift]], [[The 12-Stage Pilgrim's Path]]._

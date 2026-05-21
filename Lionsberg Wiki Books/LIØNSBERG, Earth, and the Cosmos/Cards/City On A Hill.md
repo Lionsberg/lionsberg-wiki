@@ -34,9 +34,3 @@ The image also has a **diagnostic function**. A Hub that is **invisible** — op
 The image holds the standard. _Are we a City On A Hill?_ The Hub asks itself this question annually. The drift, when detected, is corrected. The Pattern is restored.
 
 Lives canonically in [[The Book of LIØNSBERG]] (Volume VIII) as one of the foundational architectural images of the New Civilization, and informs every Hub's self-design.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Lionsberg - A Biblical Perspective + Pass The Flame._
-_Related: [[The Story of The Builder]], [[The Hub Network Topology]], [[The Planetary Grid]], [[The Roving Ark Temple Dojo]], [[Worksite Earth]], [[The Lionsberg Academy]], [[On Earth As It Is In Heaven]] (pending), [[The Knowledge of God Covers The Earth]] (pending)._

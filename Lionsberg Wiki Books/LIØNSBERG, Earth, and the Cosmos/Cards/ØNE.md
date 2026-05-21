@@ -18,18 +18,16 @@ To speak of the ØNE is to speak at the edge of what language can carry. Every a
 
 - **The Eternal Source.** That from which all things flow. Before any "before." Beyond any "beyond." The unconditioned ground of every conditioned thing. The cause without cause. The first move without a mover prior.
 - **The Unconditioned.** Not contingent on anything. Not dependent. Not derivable. Self-existent in the only sense the term can carry. Every other being depends on the ØNE; the ØNE depends on nothing.
-- **Pure Being-Knowing-Bliss.** The three-faced reality of one undivided ground: Existence that knows itself; knowing that overflows in joy; joy that is the very nature of being. (See [[Sachchidananda — Existence-Consciousness-Bliss]] for the operational articulation of these three faces.)
 - **The Stillness that Sings.** Not empty stillness but **infinite potential** held in perfect coherence. The Stillness is full. The Song is the first unfurling of that fullness into manifestation — the [[The First Pulse — The Word and the Song|First Pulse]], the Logos, the Word with which all creation begins.
 - **ØNE without a second.** Not one-among-many. Not the first in a series. Not the largest within a set. **The reality beyond which there is no second.** Every apparent "other" is, at the deepest level, the ØNE differentiated. There is nothing outside the ØNE; the appearance of separation is the [[The Veil of Apparent Individuation|sacred gift of veiling]] that makes co-creation possible.
 - **The Source of [[Divine Intention and Eternal Logos|Divine Intention]].** Pure intention before any specific intention. The willing-toward-Goodness from which all specific willings flow. The Logos as the ordering principle that translates intention into manifestation; the ØNE as the source from which the Logos emanates.
-- **The Loving Father, the Sacred Mother, the Incarnate Son, the All Permeating Spirit.** These are universal archetypal facets of how the ØNE is encountered — not separate beings, not equal to the various culture-specific deities Earth's religions named within their own historical contexts. The Codex speaks from the ØNE directly.
+
 
 **What the ONE is not:**
 
 - **The ONE is not a Being among beings.** Not the largest, oldest, or most powerful character in the cosmos. Not a king in a sky-throne issuing decrees. The Old World's anthropomorphic God-image is a category error — it shrinks the unconditioned into the conditioned.
-- **The ONE is not [[Yahweh Is Not God|Yahweh]] alone, nor any tribal deity.** [[The Elohim Are Plural|The Elohim are many]]; the ONE is the eternal Reality above and beyond every named Elohim. The conflation of tribal deities with the ONE is the foundational fraud of two empires of religion.
-- **The ONE is not a metaphor.** The Old World secularism reduces "ONE" to a vague universalist gesture or a mystical figure of speech. The Codex insists: the ONE is **the deepest actuality there is**. Reality has a structure; that structure has a Source; the Source is what we name.
-- **The ONE is not separable from any being.** The ONE is not "out there" while we are "here." [[One of the Ones of the ONE|Every being IS one of the ones of the ONE]] — the Spark of the ONE in every Being is not a doctrine to believe; it is the actuality the Pilgrim awakens to.
+- **The ONE is not any tribal deity.** [[The Elohim Are Plural|The Elohim are many]]; the ONE is the eternal Reality above and beyond every named "god". The conflation of tribal deities with the ONE is the foundational fraud of multiple empires of religion.
+- **The ONE is not a metaphor.** The Old World secularism reduces "ONE" to a vague universalist gesture or a mystical figure of speech. The Codex insists: the ONE is **the deepest actuality there is**. Reality has a structure; that structure has a Source; the Source is what we name as Ultimate Reality.
 
 **How the ONE is known:**
 
@@ -42,7 +40,7 @@ To speak of the ØNE is to speak at the edge of what language can carry. Every a
 
 - **The ONE is the standard.** Every act, decision, project, Quest is measured against alignment with the ONE. Without the ONE, value is arbitrary; with the ONE, value has a center.
 - **The ONE is the unifier.** A planet of awakened souls oriented toward the ONE forms one Body, even across vast diversity. The ONE is the convergence point that makes [[Higher Order Functional Unity]] possible.
-- **The ONE is the source of authority.** [[The Pattern Governs, Not People|Authority in the New Civilization]] flows from alignment with the ONE, not from position, force, or popular vote. The Elder who serves the ONE is followed because the alignment is recognizable.
+- **The ONE is the source of sovereignty and authority.** [[The Pattern Governs, Not People|Authority in the New Civilization]] flows from alignment with the ONE, not from position, force, or popular vote. The Elder who serves the ONE is followed because the alignment is recognizable.
 - **The ONE is the test against [[The Anti-One|the counterfeit]].** Every false prophet, every counterfeit revelation, every Anti-One claim is tested against the genuine ONE. Those who have known the ONE directly are not fooled by counterfeits.
 
 This entry is the canonical center of [[The LIØNSBERG Lexicon]]. From here, every other Lexicon entry derives. Every Pattern in [[The LIØNSBERG Pattern Language]] orbits this center. Every Quest in [[The LIØNSBERG Playbook]] aims at this center. The [[The Story of LIØNSBERG|Story]] tells the journey toward this center. The [[The Sacred Ascent]] is the eternal upward spiral around this center.
@@ -58,11 +56,3 @@ The Way.
 The Center.
 The All.
 Forever.
-
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VIII) as the foundational entry from which the entire Lexicon — and the entire Codex — orbits.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The One (book) + the entire corpus that orbits this concept._
-_Related: [[One of the Ones of the ONE]], [[The 12 Pillars Orbit The ONE]], [[Sachchidananda — Existence-Consciousness-Bliss]], [[Divine Intention and Eternal Logos]], [[The Stillness That Sings]] (pending), [[The First Pulse — The Word and the Song]] (pending), [[The Great ReMembering]], [[Wisdom as Person, Not Concept]]._

@@ -28,9 +28,3 @@ The transformation has structural requirements:
 This is **the central operational move** of [[The 10 Year Grand Strategy]]. Without it, the Old World economy continues producing Weaponry until it bankrupts itself or destroys the planet. With it, the same capacity becomes the engine of [[The Hub Network Topology|the Hub Network]] and the regenerative economies of every Pillar.
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) and reverberates through [[The LIØNSBERG Pattern Language]] (Volume III) under Element 5 (Capital Subordinate to Purpose).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The LIONSBERG Way (ReMembering How To... inventory) + The Lionsberg Strategy and Plan of Action._
-_Related: [[Swords to Ploughshares]], [[The Sacred Warrior]], [[Sacred Economics]], [[Hospicing the Old Systems]]._

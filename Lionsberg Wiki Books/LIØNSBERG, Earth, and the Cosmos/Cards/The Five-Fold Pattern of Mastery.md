@@ -35,9 +35,3 @@ This is why [[The Lionsberg Academy]] does not split into disciplinary silos. Th
 The Pattern names itself five-fold. The five is canonical, inherited from the source teaching — not imposed. (The same Pattern in some traditions appears as four-fold, six-fold, or seven-fold; the LIØNSBERG synthesis settles on five as the most operationally clear articulation.)
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational meta-Pattern that operates within every Element and every Pillar, and informs [[The Sacred Ascent]] (Volume IX) as the engine of the eternal Spiral.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Rediscovering the Way (Chapter D explicitly, but recurring across nearly every cultivation chapter)._
-_Related: [[The Pattern Is The Way]], [[The Sacred Spiral — Not a Circle]], [[The Steps of Transformation]], [[The Pedagogy of Trust and Sirimiri]], [[The 3-Year Healing and Empowerment Cycle]], [[The ReMembering Pattern]]._

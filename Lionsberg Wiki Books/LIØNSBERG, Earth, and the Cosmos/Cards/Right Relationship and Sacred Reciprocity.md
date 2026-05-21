@@ -26,9 +26,3 @@ The 7:1 compressed ratio cap, the proof-of-contribution economy, the gift practi
 Where these laws are kept, the New Civilization holds. Where these laws are broken, it falls back into kontrolle.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is named in [[The LIØNSBERG Lexicon]] (Volume VII).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 5 (Transdimensional Constitution), Section II of the prior Codex stub._
-_Related: [[Fractal Sovereignty]], [[The Law of Omniconsideration]], [[The InterCosmic Treaty of Non-Subjugation]]._

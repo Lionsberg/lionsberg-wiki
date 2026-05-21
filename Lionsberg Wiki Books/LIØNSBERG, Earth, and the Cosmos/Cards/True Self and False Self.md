@@ -29,9 +29,3 @@ The work has stages:
 This work cannot be skipped. **A Circle of False Selves cannot build the New Civilization.** Only True Selves can — and any unhealed False Self in a Circle eventually reproduces the Old Pattern inside the New form.
 
 Lives canonically in [[The Sacred Ascent]] (Volume IX) as a foundational inner discipline.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]] (Who We Are essay)._
-_Related: [[The Veil of Finitude and Forgetting]], [[Trauma as Master Key of Slavery]], [[One of the Ones of the ONE]]._

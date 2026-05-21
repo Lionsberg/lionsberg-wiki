@@ -54,9 +54,3 @@ The Academy is also **bioregional before it is planetary**. Children are formed 
 This is what Pillar IV (Sacred Learning and Mastery) becomes in operational form. This is the institution that produces [[The First Three Percent and Fibonacci Spread|the First Three Percent]] in depth, not just in number. Without it, the awakening is shallow. With it, the awakening is woven into Beings who carry it for life.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) within Pillar IV (Sacred Learning and Mastery), and informs [[The LIØNSBERG Playbook]] (Volume V) at every operational stage from Threshold to Mastery.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg Academy + Pillar IV + The Sacred Onboarding Arc._
-_Related: [[The Pedagogy of Trust and Sirimiri]], [[The 3-Year Healing and Empowerment Cycle]], [[The Sacred Onboarding Arc]], [[The 12-Stage Pilgrim's Path]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]], [[The Hub Network Topology]]._

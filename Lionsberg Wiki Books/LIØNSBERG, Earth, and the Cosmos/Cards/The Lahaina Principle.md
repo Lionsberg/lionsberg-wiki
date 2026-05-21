@@ -42,9 +42,3 @@ The Pilgrim who recognizes the Lahaina Principle has a duty: **do not be Lahaina
 The Lahaina dead deserve at least this: that their deaths become a discipline in the survivors. That the principle of their betrayal is named, refused, and inverted into the discipline of warning. **We sound the sirens.**
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the archetypal frame for institutional betrayal-by-silence, and informs [[The LIØNSBERG Playbook]] (Volume V) at the level of when-and-how to warn.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Most People Have No Idea What Is Coming._
-_Related: [[The Asymmetry of Consequences]], [[The Kontrolle Matrix]], [[The Institutional Control Inventory]], [[The Whisper Campaign]], [[The Catastrophic-Disclosure Scream]] (pending), [[Pass The Flame]], [[The Censorship-Industrial Complex]] (pending)._

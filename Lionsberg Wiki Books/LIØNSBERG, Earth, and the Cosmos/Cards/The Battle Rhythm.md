@@ -38,9 +38,3 @@ The Battle Rhythm is **structural immunity against burnout**, against ossificati
 It is also the rhythm of **integration** — what is learned in the doing is integrated in the resting. Without the rest, the learning never lands.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) and in Volume III Pattern Language under Element 7 (Self-Sustenance and Self-Replication).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Lionsberg Orientation and Training System (Week 1 — Day of Rest)._
-_Related: [[The Seven Moves]], [[Worksite Earth]], [[Covenant and Jubilee — December 2033]]._

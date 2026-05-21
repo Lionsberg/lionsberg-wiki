@@ -26,9 +26,3 @@ Twelve stages, in order:
 12. **Eternal Play** — the Game becomes infinite; spans worlds, dimensions, species.
 
 This is the wayfinding spine of [[The LIØNSBERG Experience]] (Layer 2 of the Codex architecture). It is not the corpus — the Codex is the corpus — but it is the path through it.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[Phase 1.0 — The Pilgrim's Path]] (the Great Spring 2026 Wiki Turn). Decisions resolved by [[the nameless one]] 2026-05-18._
-_Related: [[Covenant and Jubilee — December 2033]], [[The 144 Gates as Architecture of Consciousness Shift]], [[The Eternal Divine Play Closes The Sacred Ascent]]._

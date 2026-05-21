@@ -43,9 +43,3 @@ This is more than engineering discipline. It is a **moral commitment** carried i
 [[The Network of Commitments]] holds the project's promises. **TVD holds the project's integrity.** Together, they are the operating system of [[Integrated Delivery]] — the architectural mode by which the New Civilization actually gets built.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 10 (Design to The Goal — Scope Is Sacred), and in [[The LIØNSBERG Playbook]] (Volume V) as an operating discipline for every Quest, Hub, and Pillar.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Program Delivery Guide._
-_Related: [[The Network of Commitments]], [[Throughput of The Goal]], [[Capital as Subordinate Tool]], [[Everything Is A Project]], [[The Means Are The Ends]], [[The Mondragon Formula]]._

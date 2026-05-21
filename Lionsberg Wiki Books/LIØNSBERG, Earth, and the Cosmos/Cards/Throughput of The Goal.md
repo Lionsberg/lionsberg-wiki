@@ -29,9 +29,3 @@ Throughput of The Goal is the **Theory-of-Constraints metric** of LIØNSBERG: id
 It is also the **shared scoreboard** across the whole Body. Every Volume of the Codex eventually reports back to it. Every Pattern in the Pattern Language is judged by how much it increases or hinders Throughput of The Goal at scale.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the unified metric beneath every Element.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit — appears in [[LIØNSBERG 101]], [[The Lionsberg Meta Guide]], and The Lionsberg Strategy and Plan as the unified metric._
-_Related: [[Sacred Economics]], [[The Pattern Is The Way]], [[Anatomies of Association]]._

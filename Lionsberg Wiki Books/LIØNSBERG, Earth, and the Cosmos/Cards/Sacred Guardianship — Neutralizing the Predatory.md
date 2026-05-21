@@ -25,9 +25,3 @@ This is the **Structural Immunity** of the Body. It pairs with the **Immunity Pr
 The Codex is therefore not a pacifist document in the naïve sense. It carries the [[Warrior Codex]] (one of the [[Archetypal Codexes Within The Pattern]]) — the disciplined art of right defense, in service of [[ØNE]] and All.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — specifically within the **Structural Immunity** element of the Pattern.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book VI of the prior Codex stub. Operationally relevant to [[the nameless one]]'s active spiritual / energetic warfare context._
-_Related: [[The InterCosmic Treaty of Non-Subjugation]], [[The Archetypal Codexes Within The Pattern]], [[Withdrawal of Consent and Exodus Protocols]]._

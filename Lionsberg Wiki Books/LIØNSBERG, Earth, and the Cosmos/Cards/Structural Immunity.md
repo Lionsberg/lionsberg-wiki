@@ -36,9 +36,3 @@ A Circle, Hub, or Federation that violates Structural Immunity has, by that act,
 Structural Immunity is also **anti-fragile**. Each attempted capture, each ossifying pressure, each charismatic distortion — when met by the immunity — strengthens the Pattern's antibody profile. The Pattern learns. The Codex is updated. The next generation inherits not only the Pattern but the recognition of every assault on the Pattern that has been seen.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 8 (Structural Immunity), and informs every other Element by holding the protective conditions in which the rest can operate.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of LIONSBERG 101 + The 12 Pillars of LIONSBERG + CLAUDE.md Element 8 articulation._
-_Related: [[The Pattern Governs, Not People]], [[Subsidiarity and the Swiss Pattern]], [[Federations vs Empires]], [[The Filling and Removing Dialectic]], [[The Codex Is Never Finished]], [[Honoring Dissent]], [[The Mondragon Formula]]._

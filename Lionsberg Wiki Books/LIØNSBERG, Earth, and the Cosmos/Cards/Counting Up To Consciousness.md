@@ -49,9 +49,3 @@ The protocol is also a **gift the Pilgrim can offer**. When a friend, family mem
 This is one of the **ready-to-deploy operational gifts** the Healer Codex offers. Counting Up is in the Practitioner's kit. The Practitioner reaches for it the way a soldier reaches for a tourniquet. The protocol is in the kit; the protocol is ready.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as a named operational practice, and in [[The Sacred Ascent]] (Volume IX) within the Healer Codex.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of A Way Beyond Fear, Anxiety, and Depression._
-_Related: [[Anxiety as Default-On]], [[The 4-7-8 Breath]], [[The Smallest Step Protocol]], [[The Whisper Within]], [[True Self and False Self]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

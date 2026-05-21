@@ -23,9 +23,3 @@ The Phase 3 design must discern the wise right order and sequence of initiation 
 The 144 Gates live inside [[The LIØNSBERG Pattern Language]] (Volume III of the Codex). They are not a separate work. Every being, forever, will need to understand them.
 
 Together with the [[72 Gates of the Sacred Ascent]], they are the two great gate-systems of the System — the 144 building the conceptual / neural architecture, the 72 building the embodied / developmental capacity.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[the nameless one]] articulation 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn)._
-_Related: [[The 12-Stage Pilgrim's Path]], [[72 Gates of the Sacred Ascent]], [[The LIØNSBERG Pattern Language]]._

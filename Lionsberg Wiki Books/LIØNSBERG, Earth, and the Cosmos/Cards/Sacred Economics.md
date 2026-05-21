@@ -37,9 +37,3 @@ The operational mechanisms of Sacred Economics include:
 - Fair Shares Commons share-class architecture
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the Economy Pillar (Pillar III of the 12 Sacred Domains) and Element 5 (Capital Subordinate To Purpose) of the foundational DNA.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Theses of Lionsberg]] (Economics domain) + [[The 12 Pillars of LIONSBERG]] (Pillar III)._
-_Related: [[LUV — LIONSBERG Units of Value]], [[Right Relationship and Sacred Reciprocity]], [[Hospicing the Old Systems]], [[Covenant and Jubilee — December 2033]]._

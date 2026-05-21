@@ -33,9 +33,3 @@ The Codex does not relitigate the Fracture. It names it, so beings know what the
 And it names this directly: **the Fracture is in every being.** Every Creature has, somewhere in their lineage, the inheritance of the First Fracture. The work of [[True Self and False Self|disidentifying from the False Self]] is, at the deepest layer, the healing of the Fracture in this one local being.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the cosmological hinge between Cosmogony and Fall.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling (Gate II — The Great Descent)._
-_Related: [[The Veil of Finitude and Forgetting]], [[Anti-Good]], [[Full Spectrum Dominance]], [[True Self and False Self]]._

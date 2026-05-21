@@ -47,9 +47,3 @@ There is also a discipline of **exit**. Not every Quest succeeds; not every Circ
 The Quest is the **vehicle by which the Pilgrim is transformed**. The Old World said: study first, then act. The Pattern says: act, retrospect, refine, act again, retrospect again — and the Pilgrim becomes by the doing. [[The Pedagogy of Trust and Sirimiri|Sirimiri formation]] happens primarily through Quests. The Academy is the curriculum; the Quest is the laboratory.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the central operational mechanic, and reverberates through [[The Great Game of LIØNSBERG]] (Volume IV) as the unit-of-play of the Game itself.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Quest Towards The Goal + supporting files (Choose A Quest, Seasonal Quests, Every Quest Is A Project)._
-_Related: [[The Seven Moves]], [[Everything Is A Project]], [[The Battle Rhythm]], [[The Network of Commitments]], [[Throughput of The Goal]], [[The Steps of Transformation]], [[The Sacred Onboarding Arc]]._

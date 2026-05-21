@@ -48,9 +48,3 @@ The cascade is the **operational answer** to the question "how does the Pilgrim'
 This is also why the Pilgrim who has been adrift often experiences a quality of **homecoming** when the cascade is articulated for the first time. The pieces of the life suddenly fit together. The Tasks have always been there; what was missing was the **structure that gave them meaning**. Once the structure is articulated, the Tasks become sacred — each one a strand of the rope by which the Pilgrim's life climbs toward the ONE.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the foundational architecture of intentional life, and informs every other operational practice through providing the framework against which decisions are made.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of When It's All On The Line._
-_Related: [[The Quest]], [[The Network of Commitments]], [[Throughput of The Goal]], [[Everything Is A Project]], [[Target Value Design]], [[The Battle Rhythm]], [[The 10 Year Grand Strategy]], [[The Goal]]._

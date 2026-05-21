@@ -19,9 +19,3 @@ In the Codex architecture:
 - The Eternal Divine Play is its closing movement — the final chapters of Volume IX, not a Volume X.
 
 This collapses what previously read as eight bodies of work into seven, and resolves the long-standing question of whether the Eternal Play needed its own canonical home. It does not. It has one — the heart of the Sacred Ascent, where the Path becomes the Play.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[the nameless one]] decision 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn)._
-_Related: [[The Sacred Ascent]], [[The 12-Stage Pilgrim's Path]], [[Covenant and Jubilee — December 2033]]._

@@ -23,9 +23,3 @@ Four nested layers, from most foundational to most operational:
 This four-layer Covenant Stack is **not** a top-down legal system. Each layer is entered voluntarily, by mutual consent, and may be exited by withdrawal of consent. The Covenant is the deepest level a being affirms. The Agreements are the most local level. Each is sovereign within its scale (see [[Fractal Sovereignty]]).
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is referenced throughout [[The LIØNSBERG Playbook]] (Volume V).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 1 ("The LIONSBERG Covenant and Law") and Vision 4 (Book II) of the prior Codex stub._
-_Related: [[The InterCosmic Treaty of Non-Subjugation]], [[Field of Agreements]], [[Fractal Sovereignty]]._

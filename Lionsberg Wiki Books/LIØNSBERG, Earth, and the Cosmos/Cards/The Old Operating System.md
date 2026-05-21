@@ -51,9 +51,3 @@ The Old OS is also what makes the Pilgrim **recognizable** to other Pilgrims. Th
 The Old OS will not be replaced everywhere. Some Beings will not awaken; some will choose the Old OS even after seeing the New. The Pattern does not require universal replacement; the Pattern requires sufficient critical-mass replacement that the **collective default** shifts — that the social-fabric defaults of communities, then bioregions, then the planet, run primarily on the New OS while the Old OS dwindles to a minority residual.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational diagnostic frame, and in [[The LIØNSBERG Lexicon]] (Volume VII) as a load-bearing term.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Beyond The Meta Crisis._
-_Related: [[The Kontrolle Matrix]], [[The Institutional Control Inventory]], [[Hospicing the Old Systems]], [[The Old-New Polarity]], [[The Meta Crisis as Push, The Goal as Pull]], [[The New Operating System]] (pending)._

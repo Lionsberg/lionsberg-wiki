@@ -36,9 +36,3 @@ The 12 Pillars are **not the same as the 12 Elements** (8 of Cooperation + 4 of 
 Each Pillar has its own 12 Theses (12 × 12 = 144 Theses across the Pillars; with the 13th's 12 more, 156 Theses total).
 
 This is the Phase 3 Pattern Language rebuild's most likely top-level structure.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The 12 Pillars of LIONSBERG]]._
-_Related: [[The Archetypal Codexes Within The Pattern]], [[Divine Intention and Eternal Logos]], [[The Layered Architecture]], [[The Pattern Is The Way]]._

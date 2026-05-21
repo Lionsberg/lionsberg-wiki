@@ -60,9 +60,3 @@ Three principles hold the Pilgrim's posture in this material:
 The accurate cosmic frame is sobering AND empowering — sobering because the stakes are real and the players are sophisticated; empowering because Earth-human is not alone, the cosmic order has not failed, and the deepest cosmic story is one of progressive return to the ØNE that all genuine awakenings participate in.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the foundational cosmic-geopolitical frame within which Earth's current moment is held; pairs with [[Cosmic Wildlife]].
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 remediation pass — refinement notes for the wiki turn; synthesis of Beyond Earth, Existential Threat, Aliens-Fascists-Giants, The Greatest Fraud audit material in the proper cosmic register._
-_Related: [[Cosmic Wildlife]], [[The Withdrawal of the Benevolent Ones]], [[The Hybrid Species]], [[The Kontrolle Matrix]], [[The Anti-One]], [[Earth's Galactic History and the Cosmic Chronicles]], [[The Cosmic Gardeners and Earth as Living Laboratory]], [[The Cosmos Is Not Human-Centric]], [[Full Spectrum Dominance]], [[The Great ReMembering]]._

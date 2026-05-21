@@ -25,9 +25,3 @@ The corollary: **whoever places themselves above the Pattern has, in that moment
 This is the load-bearing reason LIØNSBERG is **not a religion of personality**. The Codex is what governs. Whoever lives the Codex is in. Whoever places themselves above it is, by their own act, outside.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 8 (Structural Immunity).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 3, articulated across all eight Movements That Embodied the Pattern)._
-_Related: [[Movements That Embodied the Pattern]], [[Sacred Guardianship — Neutralizing the Predatory]], [[The Nameless One Is The Speaker]]._

@@ -42,9 +42,3 @@ The Hour rests on the deeper claim of [[The Power of One]] — that **one being,
 Begin tomorrow morning. One Hour. Four Periods. In service of [[ØNE]] and All. **Do not break it.** And see what the year becomes.
 
 Lives canonically in [[The Book of LIØNSBERG]] (Volume VIII) as the operational personal-Practice discipline, and in [[The LIØNSBERG Playbook]] (Volume V) as the foundational daily commitment of every Citizen.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Power of One._
-_Related: [[ØNE]], [[The Power of One]] (book reference), [[The Battle Rhythm]], [[The Daily Domains]], [[The Four Currencies]], [[Counting Up To Consciousness]], [[The 4-7-8 Breath]], [[Memento Mori]], [[The Wise Right Thing]], [[The Whisper Within]]._

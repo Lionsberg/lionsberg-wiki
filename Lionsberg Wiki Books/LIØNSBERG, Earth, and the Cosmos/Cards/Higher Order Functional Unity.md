@@ -31,9 +31,3 @@ HOFU is **the Pattern that lets sovereignty scale**. Without it, sovereignty sto
 The **Meta Community of LIØNSBERG** is the all-scales HOFU that the Turn is co-creating: the totality of rightly-related sovereigns across communities, dimensions, and worlds — held together not by Force but by Wisdom, Love, and Influence.
 
 This is the operational form of [[Fractal Sovereignty]] at the federation layer.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]]._
-_Related: [[Fractal Sovereignty]], [[Anatomies of Association]], [[The InterCosmic Treaty of Non-Subjugation]]._

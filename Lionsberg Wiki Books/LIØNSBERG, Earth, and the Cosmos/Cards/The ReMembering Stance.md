@@ -29,9 +29,3 @@ The Codex inherits this stance from many sources: the Vedic _smaranam_, the Chri
 It also explains why **the Pattern is the same across worlds** even though it has never been transmitted between them by ordinary means: the Pattern is in the structure of Reality itself, and any being who attends carefully will ReMember it.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the epistemic stance beneath the Way.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The LIONSBERG Way._
-_Related: [[The Pattern Is The Way]], [[The Veil of Finitude and Forgetting]], [[We Do Not Know]], [[Spirit Precedes Pattern]]._

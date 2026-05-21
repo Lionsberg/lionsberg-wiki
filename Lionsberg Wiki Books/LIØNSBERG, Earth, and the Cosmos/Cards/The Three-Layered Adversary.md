@@ -34,9 +34,3 @@ The **good news** within the Pattern: knock out Layer 3 (or remove its consent t
 This is also why the Pattern can win without coercive force at Layer 1. The Pattern is not primarily about defeating visible enemies. The Pattern is about **withdrawing the spiritual substrate that keeps the visible enemies coherent**. As [[The First Three Percent and Fibonacci Spread|the First Three Percent]] become spiritually mature enough that their refusal to participate is total, the [[The Anti-One|Anti-One]] loses his grip, the Layer 2 networks lose coordination, and Layer 1 collapses into the New Civilization that has been growing beside it.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the foundational structural diagnosis of opposition, and informs [[The Great Game of LIØNSBERG]] (Volume IV) at the strategic-architectural level.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Aliens, Fascists, and Giants._
-_Related: [[The Anti-One]], [[The Kontrolle Matrix]], [[The Institutional Control Inventory]], [[The Sacred Warrior]], [[Sacred Guardianship — Neutralizing the Predatory]], [[War on Multiple Planes Simultaneously]], [[Withdrawal of Consent and Exodus Protocols]]._

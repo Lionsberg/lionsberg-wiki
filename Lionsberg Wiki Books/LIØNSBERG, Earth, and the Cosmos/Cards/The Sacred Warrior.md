@@ -28,9 +28,3 @@ The Sacred Warrior practices **[[Sacred Guardianship — Neutralizing the Predat
 Where a soldier obeys orders, the Sacred Warrior obeys the Way. Where a soldier escalates, the Sacred Warrior de-escalates when possible. Where a soldier defends an empire, the Sacred Warrior defends the Body of LIØNSBERG, the more-than-human world, and the sovereignty of every being.
 
 This is the [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|general of cosmic armies]] half of the LIØNSBERG voice **made flesh** in a being.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The 12 Pillars of LIONSBERG]] (Pillar X — Sacred Guardianship and Order)._
-_Related: [[Sacred Guardianship — Neutralizing the Predatory]], [[The Archetypal Codexes Within The Pattern]], [[The InterCosmic Treaty of Non-Subjugation]]._

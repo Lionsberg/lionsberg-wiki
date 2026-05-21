@@ -35,9 +35,3 @@ When a being recognizes the Flame within themselves, no Old World mechanism can 
 This is what the **Phoenix** archetype names across many traditions. This is what **Easter** names across the Christian register. This is what **Resurrection** means at the personal level. The Flame **cannot be killed**. The body may die; the Flame goes on. The trauma may bury it; the Flame remains. The Caves may hold a being for ages; the Flame waits.
 
 Lives canonically in [[The Sacred Ascent]] (Volume IX).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling (Gate III — The Great Awakening)._
-_Related: [[One of the Ones of the ONE]], [[The Veil of Finitude and Forgetting]], [[True Self and False Self]]._

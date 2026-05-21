@@ -29,9 +29,3 @@ The Wiki is organized **bottom-up** — every page either lives inside a Volume 
 Top-down and bottom-up meet in the canonical middle.
 
 This is the architectural decision that gives the Wiki coherence at every scale.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 1.0 of [[The Great Spring 2026 Wiki Turn]] — [[Phase 1.0 — The Pilgrim's Path]] §3 ("Proposed Four-Layer Architecture"); [[the nameless one]] resolution 2026-05-18._
-_Related: [[Experience Is Gateway, Codex Is Corpus]], [[The 12-Stage Pilgrim's Path]], [[The Seven Volumes]]._

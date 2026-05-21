@@ -162,4 +162,3 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
 5. The One Body of All
     
 6. The 12 Pillars of the New Civilization
-    

@@ -38,9 +38,3 @@ Practically, this reshapes the pilgrim's relationship to repetition:
 The Sacred Ascent (Volume IX) is the entire eternal upward Spiral of all things rising. Every being's life, every Circle's becoming, every Civilization's arc, every Cosmos's evolution — all are turns of the same Spiral. The pilgrim's work is not to escape it. The pilgrim's work is to spiral well.
 
 Lives canonically in [[The Sacred Ascent]] (Volume IX) as the foundational geometric image of the path.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling + The LIONSBERG Way._
-_Related: [[The Eternal Divine Play]], [[The Steps of Transformation]], [[The Lionsberg Cycles of Growth]], [[The 12-Stage Pilgrim's Path]], [[Spirit Precedes Pattern]]._

@@ -36,9 +36,3 @@ This is the **Theological Inversion** the New Story performs. The Old Story said
 [[The Great Game of LIØNSBERG|The Great Game]] is the operational expression of choosing the Heavenward trajectory at scale. Every Quest, every Circle, every Hub, every Pillar is one more vector contributing to the Heavenward sum. The Pattern itself is the **angle of ascent**.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational theological articulation, and reverberates through every Volume — for the Pattern of the Codex is, ultimately, the angle of Heaven applied to every domain.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of A 200 Page Book + The Book of LIONSBERG._
-_Related: [[The Sacred Spiral — Not a Circle]], [[The Eternal Divine Play]], [[The Goal]], [[Worksite Earth]], [[The Meta Crisis as Push, The Goal as Pull]], [[Anti-Good]]._

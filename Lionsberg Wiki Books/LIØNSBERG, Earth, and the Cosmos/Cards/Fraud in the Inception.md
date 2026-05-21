@@ -51,9 +51,3 @@ This is the **juridical face** of the unveiling. The unveiling is not only spiri
 For the Pilgrim, this matters operationally. When the imperial enforcement apparatus demands compliance with a fraudulent obligation, the Pilgrim has clear moral standing to refuse — to do so tactically (when the cost is bearable) and with full conscience (always). The Pilgrim does not owe the fraudulent system the obedience the system demands. The Pilgrim owes the actual ONE the alignment the ONE invites. **These are not in tension once the fraud is named.**
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the juridical-doctrinal face of the unveiling, alongside [[The Elohim Are Plural]] and [[Yahweh Is Not God]] as the scriptural-doctrinal faces.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Greatest Fraud, Deception, and Existential Threat in History._
-_Related: [[Nullification Under Universal Law]] (pending), [[Void Agreements]] (pending), [[The Kontrolle Matrix]], [[The Institutional Control Inventory]], [[Covenant and Jubilee — December 2033]], [[Withdrawal of Consent and Exodus Protocols]], [[The Anti-Christic Inversion]], [[The Imperative to Transcend]] (pending)._

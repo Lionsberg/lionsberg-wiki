@@ -42,9 +42,3 @@ The Meta Dragon doctrine is what makes the LIØNSBERG strategy **leveraged**. Th
 When enough of these moves accumulate, the **Meta Dragon weakens**. Not by being slain in single combat; by losing its capacity to breathe. The small dragons stop arriving. The Old World's emanations dwindle. The New becomes visible as the underlying pattern of the world.
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as a strategic doctrine of the highest leverage.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Pass The Flame._
-_Related: [[The Three-Layered Adversary]], [[The Anti-One]], [[The Kontrolle Matrix]], [[Domain Independence]] (pending), [[The Puppet and the Puppeteer]] (pending), [[The Means Are The Ends]], [[Structural Immunity]]._

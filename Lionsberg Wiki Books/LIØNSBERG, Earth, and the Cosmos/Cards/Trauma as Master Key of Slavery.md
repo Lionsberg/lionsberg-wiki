@@ -27,9 +27,3 @@ The implication for the New Civilization is profound: **all liberation work even
 This is why the **Healer Codex** (one of [[The Archetypal Codexes Within The Pattern]]) is not optional. The body must be returned to safety. The nervous system must be re-regulated. The Spirit must be re-rooted. The memory must be re-membered.
 
 The Movement that liberates without healing is not yet finished.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling (Thesis 8)._
-_Related: [[Sacred Guardianship — Neutralizing the Predatory]], [[The Archetypal Codexes Within The Pattern]], [[Withdrawal of Consent and Exodus Protocols]]._

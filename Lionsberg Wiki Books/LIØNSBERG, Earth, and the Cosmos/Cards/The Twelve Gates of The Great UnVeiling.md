@@ -34,9 +34,3 @@ The Twelve Gates of The Great UnVeiling are the **shadow architecture** that mir
 Volume II (The Story of LIØNSBERG) holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the great unveiling sequence at the heart of the Story.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling._
-_Related: [[The First Fracture]], [[Christos and Sophia — The Sacred ReMarriage]], [[The Sacred Flame That Cannot Be Extinguished]], [[The Whisper Within]], [[Full Spectrum Dominance]], [[Trauma as Master Key of Slavery]]._

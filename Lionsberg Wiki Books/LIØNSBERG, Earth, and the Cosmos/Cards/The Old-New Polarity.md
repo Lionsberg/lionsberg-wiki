@@ -32,9 +32,3 @@ Examples in the operational register:
 > Old: Anti-Goodness. New: [[Right Relationship and Sacred Reciprocity]].
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational rhetorical form, with cross-reference to every Volume that uses it.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Theses of Lionsberg]] (structural observation across all four populated domains)._
-_Related: [[Hospicing the Old Systems]], [[The Filling and Removing Dialectic]]._

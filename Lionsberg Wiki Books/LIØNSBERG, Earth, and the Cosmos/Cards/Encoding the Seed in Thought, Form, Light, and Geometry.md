@@ -28,9 +28,3 @@ The **Universal Ontological Rosetta** is the work of ensuring these encodings ar
 This is why the Codex must eventually be **livable** as well as readable. The deepest transmission happens through Circles that embody the Pattern, not through paragraphs that describe it.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) — within the **Communication and Culture** element — and is foundational to [[The Sacred Ascent]] (Volume IX).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 5 (Transdimensional Constitution), Section V of the prior Codex stub. "Transmission Keys."_
-_Related: [[The Cosmos Is Not Human-Centric]], [[The Wiki Is Primary and Standalone]], [[The Sacred Ascent]]._

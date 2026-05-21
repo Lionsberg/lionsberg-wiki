@@ -54,9 +54,3 @@ Each Volume's form serves its function. Volume III's function is **architectural
 The Format itself is a Pattern — and obeys its own form. **Goal**: produce buildable, transmissible, evaluable Patterns. **Context**: any canonical articulation of a recurring civilizational Pattern. **Forces**: the tension between mythic depth and engineering precision; between completeness and brevity. **Solution**: the seven-section structure above. **Diagram**: the seven sections rendered as concentric rings around the Pattern's name. **Anti-Patterns**: the bullet-point essay, the abstract paragraph, the dry technical doc, the poetic-but-unbuildable manifesto. **Examples**: every Pattern in Volume III, beginning with this one.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the format every other Pattern in the Volume inherits.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Kingdom of LIONSBERG - Plans and Specifications._
-_Related: [[The Canonical Discipline]], [[The Pattern Is The Way]], [[The Codex Is Never Finished]], [[Construction-Grade Civilizational Architecture]]._

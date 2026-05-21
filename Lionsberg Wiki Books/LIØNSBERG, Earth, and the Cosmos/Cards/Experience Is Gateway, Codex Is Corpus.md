@@ -21,9 +21,3 @@ The Codex is printable as seven physical volumes.
 The Experience remains living and adaptive — the wayfinding refines as we learn more about how pilgrims actually walk.
 
 Both are needed. Neither subsumes the other.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[the nameless one]] decision 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn). Option A confirmed._
-_Related: [[The 12-Stage Pilgrim's Path]], [[The LIØNSBERG Sacred Codex]], [[The LIØNSBERG Experience]]._

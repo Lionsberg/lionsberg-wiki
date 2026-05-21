@@ -27,9 +27,3 @@ A pilgrim who cannot — is **lost**. The work begins precisely with helping the
 The Old World gives bad answers (or no answers). The fragmentation of the Old is the fragmentation of these answers. "Who are you?" — a tax ID. "Where are you?" — a coordinate. "How did you get here?" — a Darwinian accident. "Where are you going?" — a grave. "Why?" — no reason given.
 
 The New Civilization gives true, livable answers. The whole of the Codex can be read as one long answer to these questions.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]] ("In The Beginning…" essay)._
-_Related: [[The Story of LIØNSBERG]], [[Divine Intention and Eternal Logos]], [[The 12-Stage Pilgrim's Path]]._

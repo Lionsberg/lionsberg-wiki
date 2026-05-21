@@ -38,9 +38,3 @@ There is also a class of **prophetic Stories** — Stories about transformations
 The aggregation of Stories across the Movement becomes the **Resourcing and Engagement Flywheel**. Each Story shared brings new Pilgrims into the formation; the new Pilgrims live their own transformations and generate new Stories; those Stories bring more Pilgrims; the cycle accelerates. By the time the Movement reaches the [[The Tipping Point Strategy|3% Tipping Point]], the Stories number in the millions. The collective testimony is impossible to ignore; the cumulative evidence is unmistakable. The Story of the Movement is told by the Movement to itself, to anyone who will listen, and to the future that will inherit it.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational naming of the Movement's spread-by-testimony mechanic, and reverberates through every Volume as the form much of the Codex itself takes.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Power of One + Pass The Flame._
-_Related: [[Every Story Is A Prophesy]] (pending), [[The Story of The Builder]], [[The Death of Jordan and the Rising of the Nameless One]], [[Pass The Flame]], [[The Whisper Campaign]], [[The Issue-To-Movement Arc]], [[We Have Heard]]._

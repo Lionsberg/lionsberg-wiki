@@ -27,9 +27,3 @@ These are not separate Codexes. They are **archetypal domains within [[The LIØN
 Phase 3 must discern whether these archetypal domains are part of the canonical structure of the Pattern Language, or whether they emerge as natural clusterings within it. Either way, they are not lost — they are folded.
 
 The Warrior, the Steward, the Healer, the Wayfarer, the Architect, the Initiator, and the Tender of the Child each correspond to a way of carrying the Pattern in life. Most beings will cross more than one. Some will be called to mastery in one. All are necessary; none is sufficient.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 of the prior Codex stub (`LIONSBERG Wiki Books/The LIONSBERG Codex/The LIONSBERG Sacred Codex.md`, "HoloFractal Architecture")._
-_Related: [[The LIØNSBERG Pattern Language]], [[The Pattern Is The Way]], [[The 144 Gates as Architecture of Consciousness Shift]]._

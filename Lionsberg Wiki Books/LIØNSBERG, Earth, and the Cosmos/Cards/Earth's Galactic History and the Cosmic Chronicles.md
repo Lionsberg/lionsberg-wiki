@@ -24,9 +24,3 @@ The Codex carries (or will carry) the deep chronicles:
 This material is real. It is not metaphor. It is not science fiction. It is a sober articulation of the actual situation as understood by [[the nameless one]] and by those who have received first-hand briefings on governmental and non-governmental engagement with non-human intelligence species and factions.
 
 This material lives canonically inside [[The Story of LIØNSBERG]] (Volume II). It is told in prophetic and mythic register because that is the only register that can hold it without trivializing it.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book V of the prior Codex stub. Resonates with the existing [[Beyond Earth]] wiki book and the Above The Chaos cosmic episodes._
-_Related: [[The Cosmos Is Not Human-Centric]], [[We Are In The Window]], [[The InterCosmic Treaty of Non-Subjugation]]._

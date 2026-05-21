@@ -59,9 +59,3 @@ A Pilgrim sitting with the scenarios is often shaken by them. The shaking is app
 For the Pilgrim sharing the scenarios with others: do not exaggerate them. Do not soften them. Read them aloud. Let the listener sit with them. Then ask: _"What does this ask of you?"_ The listener's own answer is the beginning of their awakening.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the named-futures spectrum against which the urgency is calibrated.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Last Chance — A Revolutionary Approach to Averting Global Collapse._
-_Related: [[The Probability Calculation Method]], [[The Asymmetry of Consequences]], [[The Voluntary Leap Forward]], [[The 10 Year Grand Strategy]], [[The Lahaina Principle]], [[Universal Assured Destruction]], [[The Four Horsemen Ride Together]]._

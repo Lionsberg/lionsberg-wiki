@@ -49,9 +49,3 @@ The Pilgrim using Looking Back From Beyond can therefore deploy this empirical f
 Looking Back From Beyond is, ultimately, a discipline of **trust** — trusting that the future-Pilgrim will see what the present-Pilgrim cannot quite see, and acting now on what the future-Pilgrim will want you to have done. Over time, the trust deepens. The Pilgrim becomes practiced enough that the future-view becomes available even in moments of acute pressure, when the analysis cannot complete. The discipline becomes a reflex. The reflex is one of the marks of the [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|wise elder]].
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as a foundational discernment instrument, paired with [[Memento Mori]] in [[The Sacred Ascent]] (Volume IX).
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of When It's All On The Line._
-_Related: [[Memento Mori]], [[Sins of Omission Over Sins of Commission]] (pending), [[The Last-Day Question]] (pending), [[The Wise Right Thing]], [[The Discernment Permission]], [[The Means Are The Ends]], [[The Voluntary Leap Forward]]._

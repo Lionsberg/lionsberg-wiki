@@ -27,9 +27,3 @@ This is how every great movement in recorded history actually spread.
 The mathematics work: from one Circle to two to three to five to eight to thirteen — twenty-one — thirty-four — fifty-five — eighty-nine — one hundred forty-four — and from one hundred forty-four, the rest follow.
 
 Each Circle [[Pass The Flame|passes the flame]] to the next within one week. The Fibonacci spread is what bends the curve from "impossible" to "inevitable."
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: CLAUDE.md "The Pattern of Spread: The 300 and Fibonacci"; [[10 Year Grand Strategy]]._
-_Related: [[The First Three Percent]], [[The 300]], [[Pass The Flame]], [[Covenant and Jubilee — December 2033]]._

@@ -46,9 +46,3 @@ The protocol is also a **gift the Pilgrim can offer**. When someone in the Pilgr
 The discipline is **slow on purpose**. The named ratio cannot be rushed. The Pilgrim who tries to do 2-3.5-4 because they are impatient gets a small effect. The Pilgrim who actually takes the seven full counts on the hold and the eight full counts on the exhale gets the full effect. **The slowness is the practice.**
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as a named operational practice, and in [[The Sacred Ascent]] (Volume IX) within the Healer Codex as one of the foundational disciplines.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of A Way Beyond Fear, Anxiety, and Depression._
-_Related: [[Anxiety as Default-On]], [[Counting Up To Consciousness]], [[The Smallest Step Protocol]], [[Trauma as Master Key of Slavery]], [[The Sacred Fire and the Plasma Body]], [[The Filling and Removing Dialectic]]._

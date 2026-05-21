@@ -36,9 +36,3 @@ The diagnostic question: **Does this capital flow toward the Throughput of The G
 Capital subordinate to Purpose is the operational answer to [[Sacred Economics]]. Without this subordination, every other economic reform is overrun by the gravity of accumulation. With it, the entire economy becomes a servant of the flourishing of Life — and the New Civilization is funded from within its own integrity.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as Element 5 (Economy and Stewardship) and within Pillar III (Sacred Economy and CurrentSee) of [[The 12 Pillars Orbit The ONE]].
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Theses of Lionsberg + The 12 Pillars of LIONSBERG (Pillar III)._
-_Related: [[Sacred Economics]], [[Sacred Value]], [[LUV — LIONSBERG Units of Value]], [[The Mondragon Formula]], [[Hospicing the Old Systems]], [[Swords to Ploughshares]]._

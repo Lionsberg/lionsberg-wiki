@@ -37,9 +37,3 @@ This is also why the [[Universal Law and Free Will]] is so structurally central.
 UAD is the diagnostic. The Pattern is the response. The window is now.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational entry naming the present existential-risk architecture, and informs [[The Story of LIØNSBERG]] (Volume II) at the urgency-framing of the current decade.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant._
-_Related: [[Full Spectrum Dominance]], [[The Final Order]], [[The Kontrolle Matrix]], [[The Anti-One]], [[The Means Are The Ends]], [[The 10 Year Grand Strategy]], [[We Are In The Window]]._

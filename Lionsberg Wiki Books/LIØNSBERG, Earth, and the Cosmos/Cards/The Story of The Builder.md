@@ -50,9 +50,3 @@ The parable is **already operational**. The City on the Hill is the Pattern at w
 The parable is also **personal**. Every Pilgrim faces the same choice Nicholas faced. The Valley is collapsing where the Pilgrim lives. The Sacred Mountain rises behind the Pilgrim. The Plans are available. The question is only whether the Pilgrim begins to build.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as one of the foundational parables, opening to the work of [[The Great Game of LIØNSBERG|Volume IV]] and [[Worksite Earth|Volume V]].
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Pass The Flame (the parable that opens the book)._
-_Related: [[Worksite Earth]], [[Hospicing the Old Systems]], [[The Voluntary Leap Forward]], [[The Plans and Specifications]] (pending), [[Range of Tolerance]] (pending), [[The Means Are The Ends]], [[The Robber and the Master]] (pending)._

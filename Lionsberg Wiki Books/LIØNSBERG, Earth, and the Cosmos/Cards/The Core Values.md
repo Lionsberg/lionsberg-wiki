@@ -28,9 +28,3 @@ The derivative Values (Courage, Compassion, Generosity, Humility, Integrity, Pat
 A being in Right Relationship lives all of them in proportion to the moment. A culture in Right Relationship structures its institutions to support them. A civilization in Right Relationship measures its [[Throughput of The Goal]] in part by how well it cultivates them.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the top-tier Values stratum.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg System of Values._
-_Related: [[Values as Facets of the ONE]], [[Divine Intention and Eternal Logos]], [[Right Relationship and Sacred Reciprocity]]._

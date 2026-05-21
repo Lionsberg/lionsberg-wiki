@@ -47,9 +47,3 @@ This is the **juridical-philosophical face** of the Pilgrim's restored sovereign
 For the Pilgrim entering this recognition for the first time, the experience is often **liberating beyond expectation**. The weight of obligations that never genuinely were obligations — the guilt of failing to comply with systems that never had a moral claim — falls away. The Pilgrim discovers they are **free in a way they did not know they could be**. The freedom is not anarchic; it is **disciplined under [[The Terms of the New Covenant]]**. But it is free of the false bondages that the Old World had imposed by fraud.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the foundational juridical principle, and in [[The LIØNSBERG Lexicon]] (Volume VII) as a Meta Layer doctrine.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Greatest Fraud, Deception, and Existential Threat in History._
-_Related: [[Fraud in the Inception]], [[Void Agreements]] (pending), [[The Terms of the New Covenant]], [[Withdrawal of Consent and Exodus Protocols]], [[The Lionsberg Rules]], [[Universal Law and Free Will]] (pending), [[Covenant and Jubilee — December 2033]], [[The Kontrolle Matrix]]._

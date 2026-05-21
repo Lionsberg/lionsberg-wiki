@@ -23,9 +23,3 @@ The Codex is therefore **not finished**. It is open. It will always be open.
 The closing is the [[Eternal Play]] — and that is no closing at all.
 
 This is why the Codex must be stewarded, not preserved. Stewardship is what living things require. Preservation is what dead things receive.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 1.1 of [[The Great Spring 2026 Wiki Turn]]; [[The LIØNSBERG Sacred Codex]] §"The Living Discipline"._
-_Related: [[OmniSpection]], [[The Atlas, Commentaries, and Codex Keepers]], [[The Seven Volumes]], [[The Canonical Discipline]]._

@@ -53,9 +53,3 @@ The discipline is also the answer to a recurring temptation: _"The Old World is 
 The principle is one of the [[Structural Immunity|Structural Immunities]] of the Codex. Without it, the Pattern is captured at the first urgent moment. With it, the Pattern survives every urgency intact — and arrives at the destination still recognizable as itself.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as a foundational principle running across all 12 Elements, and in [[The LIØNSBERG Lexicon]] (Volume VII) as a Meta Layer principle.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Dawn of the New World + The Book of LIONSBERG._
-_Related: [[Structural Immunity]], [[The Pattern Governs, Not People]], [[Honoring Dissent]], [[Restorative Justice Over Vengeance]], [[The Pedagogy of Trust and Sirimiri]], [[The 3-Year Healing and Empowerment Cycle]]._

@@ -53,9 +53,3 @@ The Meta Movement is the **planetary-scale entity** that the [[The 10 Year Grand
 This is the strategic frame within which every other Movement Card sits. Every Quest, every Hub, every Circle is a strand of the Meta Movement. Every Pilgrim's daily work serves it. **The aggregation of all this work is what saves the planet.**
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the planetary-scale aggregation toward which the entire Strategy is oriented.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg Guide To Movement Building + Beyond The Meta Crisis._
-_Related: [[The Rising Movement]], [[The Force For Good]], [[The 10 Year Grand Strategy]], [[Higher Order Functional Unity]], [[The Issue-To-Movement Arc]], [[The Hub Network Topology]], [[The Planetary Grid]], [[The First Three Percent and Fibonacci Spread]]._

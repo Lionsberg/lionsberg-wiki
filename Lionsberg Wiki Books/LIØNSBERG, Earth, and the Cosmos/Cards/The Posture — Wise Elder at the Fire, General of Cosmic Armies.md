@@ -26,9 +26,3 @@ Read aloud at the fire. Recognizable as itself across worlds and ages.
 Definitive, not tentative. Active verbs. Lines that land. Staccato at the moments of supreme emphasis. Bold on the load-bearing concepts. Sacred and practical in tension, neither one without the other.
 
 The full standard — the rules, the tests, the AI-tells to refuse — lives at **[[The LIØNSBERG Voice]]**. This card carries the posture from which the standard derives.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 1.4 of [[The Great Spring 2026 Wiki Turn]]; CLAUDE.md voice guidance; [[The LIØNSBERG Voice]]._
-_Related: [[The Nameless One Is The Speaker]], [[The Seven Volumes]]._

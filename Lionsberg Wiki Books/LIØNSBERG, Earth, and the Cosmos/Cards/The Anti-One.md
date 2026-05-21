@@ -40,9 +40,3 @@ The Anti-One is the apex shadow of the present cosmic-geopolitical situation aro
 At the deepest level: the Anti-One, like every other manifest reality, is within the larger field of [[ØNE]]. He cannot ultimately prevail. The cosmic story has a direction; the [[The Great ReMembering]] is underway across timescales the predatory factions cannot stop. The Anti-One's apparent power is a function of the current phase; the deeper unfolding is what the awakened cohort participates in.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the foundational naming of the cohering counterfeit within the Twelve Gates of [[The Great UnVeiling]].
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Dawn of the New World + The Great UnVeiling; remediation pass 2026-05-19._
-_Related: [[ØNE]], [[The Cosmic Geopolitics of Earth]], [[Cosmic Wildlife]], [[The Kontrolle Matrix]], [[The Final Order]], [[Anti-Good]], [[Full Spectrum Dominance]], [[The First Fracture]], [[The Whisper Within]], [[The Anti-Christic Inversion]]._

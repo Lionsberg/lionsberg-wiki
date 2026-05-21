@@ -37,9 +37,3 @@ Earth is at the **end** of an Empire epoch and the **beginning** of a Federation
 This axis is the spine of [[The InterCosmic Treaty of Non-Subjugation]] — Empires violate the Treaty by their very nature; Federations honor it by their very nature.
 
 Cosmic history is largely the record of Federations and Empires across worlds. Most worlds eventually choose. The choice is binding for generations.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[A 200 Page Book]] (Gate 24)._
-_Related: [[The InterCosmic Treaty of Non-Subjugation]], [[Fractal Sovereignty]], [[Earth's Galactic History and the Cosmic Chronicles]], [[Sacred Guardianship — Neutralizing the Predatory]]._

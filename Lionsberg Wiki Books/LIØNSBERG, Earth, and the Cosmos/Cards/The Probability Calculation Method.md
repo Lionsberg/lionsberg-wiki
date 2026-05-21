@@ -49,9 +49,3 @@ The protocol also pairs with [[The Asymmetry of Consequences]]. Once the Pilgrim
 For the deeply analytical skeptic, the Pilgrim, this is the path. Skeptics often resist prophetic urgency. They rarely resist their own honest math. **Hand them the protocol. Let the math do the work.**
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a transferable urgency-instrument the Pilgrim deploys with the analytically-minded.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Last Chance — A Revolutionary Approach to Averting Global Collapse._
-_Related: [[The Asymmetry of Consequences]], [[The Five Collapse Scenarios]], [[The Voluntary Leap Forward]], [[The Lahaina Principle]], [[The Meta Crisis as Push, The Goal as Pull]], [[We Are In The Window]]._

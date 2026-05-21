@@ -21,9 +21,3 @@ The Pattern is the Pattern wherever it operates — in cell, in human, in commun
 In writing every part of the Codex, this is held by default. We do not need to flag it. We do not need to qualify it. We do not need to defend it. We simply write as if it is true — because it is.
 
 When the Codex says **all things rise toward The Goal**, _all things_ means all things.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: [[the nameless one]] decision 2026-05-18 (Phase 1.0 of the Great Spring 2026 Wiki Turn)._
-_Related: [[The Story of LIØNSBERG]], [[The LIØNSBERG Pattern Language]], [[ØNE]]._

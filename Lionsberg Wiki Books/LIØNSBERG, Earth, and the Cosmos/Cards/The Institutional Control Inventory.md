@@ -58,9 +58,3 @@ The Inventory pairs with **structural responses**. For each captured Domain, the
 The Inventory is therefore both **a diagnostic of where we are** and **a map of what must be built**. A Pilgrim or Circle running the Inventory against their actual context produces an action plan: here is where we withdraw, here is where we build, here is where we hospice, here is where we wait.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) within the Twelve Gates of [[The Great UnVeiling]] as the operational unveiling of how kontrolle acts; informs every other Volume by naming the conditions the Pattern is responding to.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant._
-_Related: [[The Kontrolle Matrix]], [[Full Spectrum Dominance]], [[Hospicing the Old Systems]], [[Withdrawal of Consent and Exodus Protocols]], [[Trauma as Master Key of Slavery]], [[Anti-Good]]._

@@ -32,9 +32,3 @@ This is why the Codex begins at Ring 0 with the ONE — not with the Pattern. Th
 **Spirit > Pattern > Practice > Outcome.** Each layer depends on the one above. Spirit cannot be skipped.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) as the **opening claim** — Ring 0 / Pillar 0 / before any Element is named.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 0)._
-_Related: [[Divine Intention and Eternal Logos]], [[The Pattern Is The Way]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

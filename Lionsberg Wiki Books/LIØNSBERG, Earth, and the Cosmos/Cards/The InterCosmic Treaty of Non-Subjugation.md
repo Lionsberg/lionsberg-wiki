@@ -27,9 +27,3 @@ Under the Treaty:
 - **Subjugation, manipulation, abduction, coercion, predation, parasitic extraction, and covert domination are not welcomed.**
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] (Volume III) and is foundational to the operational protocols of Cosmic Contact and Interspecies Diplomacy.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book II of the prior Codex stub._
-_Related: [[The Covenant Stack]], [[Sacred Guardianship — Neutralizing the Predatory]], [[The Cosmos Is Not Human-Centric]], [[Fractal Sovereignty]]._

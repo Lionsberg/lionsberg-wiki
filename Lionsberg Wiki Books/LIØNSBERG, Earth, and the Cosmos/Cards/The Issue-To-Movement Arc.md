@@ -50,9 +50,3 @@ The Arc also pairs with **The Dual Need of Movements** (pending Card): every Mov
 The Arc names **the content-and-arc dimension of catalysis**, distinct from the topology-and-spread dimension covered by [[Pass The Flame]], [[The Whisper Campaign]], [[The First Three Percent and Fibonacci Spread]], and [[The Tipping Point Strategy]]. Movements need both. The topology Cards describe **how** a Movement spreads through the population; the Issue-To-Movement Arc describes **what** a Movement is about — and how its substance matures over time.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the content-and-arc architecture of catalysis, paired with the topology-and-spread Cards.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg Guide To Movement Building._
-_Related: [[The Meta Movement]], [[The Rising Movement]], [[Pass The Flame]], [[The Whisper Campaign]], [[The First Three Percent and Fibonacci Spread]], [[The Tipping Point Strategy]], [[The Four Stages of Movement Catalysis]] (pending), [[Pinnacle Action]] (pending)._

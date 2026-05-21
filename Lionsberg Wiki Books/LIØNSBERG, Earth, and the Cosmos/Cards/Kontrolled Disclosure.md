@@ -75,9 +75,3 @@ This is the deepest reversal of the Kontrolled Disclosure dynamic. Kontrolled Di
 The full cosmic frame: the Old World's institutions will not deliver the genuine disclosure; the Codex is the genuine disclosure, delivered from the awakening cohort to the awakening cohort, in cooperation with the benevolent forces who recognize the moment.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the operational naming of the Kontrolled Disclosure climax and the bottom-up sovereignty response that is its antidote.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 remediation pass — refinement guidance 2026-05-19._
-_Related: [[The Cosmic Geopolitics of Earth]], [[Cosmic Wildlife]], [[The Kontrolle Matrix]], [[The Anti-One]], [[The Lahaina Principle]], [[The Withdrawal of the Benevolent Ones]], [[The Anti-Christic Inversion]], [[Withdrawal of Consent and Exodus Protocols]], [[The Final Order]], [[Universal Assured Destruction]]._

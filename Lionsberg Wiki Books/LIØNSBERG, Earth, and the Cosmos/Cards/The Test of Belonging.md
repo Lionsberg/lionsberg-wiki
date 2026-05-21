@@ -34,9 +34,3 @@ The Test of Belonging is what allows the New Civilization to **harvest from ever
 It pairs with [[The Filling and Removing Dialectic]]: the Test of Belonging tells you **what** to fill or remove; the Dialectic is **how** to fill or remove.
 
 Lives canonically in [[The LIØNSBERG Playbook]] (Volume V) as the operational discernment criterion.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]] (Elements Of The New)._
-_Related: [[The Filling and Removing Dialectic]], [[Anti-Good]], [[Hospicing the Old Systems]]._

@@ -47,9 +47,3 @@ The Codex's voice is precise in part because of this. The Codex refuses to use t
 For the awakening Pilgrim, the discipline is: **when you hear a divine name, test the content immediately**. Is what is being offered actually what the name promises, or its inversion? Apply [[The Wise Right Thing]] discernment. Apply the [[The Means Are The Ends]] test. Apply the fruits test. Only when the actual content matches the name do you give your consent. Where the inversion is present, **withdraw consent** — quietly if necessary, loudly if you can — and name the inversion to those who can hear.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the deepest spiritual diagnostic frame of the Old World.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Most People Have No Idea What Is Coming._
-_Related: [[The Anti-One]], [[The Kontrolle Matrix]], [[The Institutional Control Inventory]], [[Anti-Good]], [[The Whisper Within]], [[The Wise Right Thing]], [[The Means Are The Ends]], [[Manufactured Consent — The Five Filters]] (pending)._

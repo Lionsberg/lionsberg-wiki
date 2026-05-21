@@ -29,9 +29,3 @@ This epistemology has consequences:
 This is why the Lexicon is not merely vocabulary. The Lexicon is the **named architecture of how the ONE shows up in language** — and through language, in shared reality.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the ontological introduction.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Lionsberg System of Values._
-_Related: [[The Core Values]], [[Divine Intention and Eternal Logos]], [[Anti-Good]]._

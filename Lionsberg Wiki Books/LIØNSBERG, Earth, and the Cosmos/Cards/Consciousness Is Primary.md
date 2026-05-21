@@ -25,9 +25,3 @@ This is not a fringe claim within LIØNSBERG. It is the **load-bearing ontologic
 **The opposing claim** — consciousness as emergent byproduct of matter — has produced the Old World's reduction of beings to assets, of minds to brains, of meaning to chemistry, of life to mechanism. **The Codex refuses that reduction.**
 
 The reclamation of Sacred Science (Pillar VIII) is essentially this single claim made operational across every domain. It is the metaphysical floor that supports the entire civilizational rebuild.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The 12 Pillars of LIONSBERG]] (Pillars I and VIII)._
-_Related: [[Divine Intention and Eternal Logos]], [[Encoding the Seed in Thought, Form, Light, and Geometry]], [[The Cosmos Is Not Human-Centric]], [[One of the Ones of the ONE]]._

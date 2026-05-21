@@ -19,9 +19,3 @@ The Codex begins not in the human realm but in the Divine Intention, descends th
 This card holds the seed of what will eventually become a foundational articulation within [[The Story of LIØNSBERG]] (Volume II) and [[The LIØNSBERG Lexicon]] (Volume VII) — and which will reverberate through every other Volume.
 
 Related to the Source / Spirit / Sovereignty triad: all that is, is held in Source; expressed through Spirit; sovereign within itself. The three are one.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book I of the prior Codex stub._
-_Related: [[ØNE]], [[The Story of LIØNSBERG]], [[Right Relationship and Sacred Reciprocity]]._

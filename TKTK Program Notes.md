@@ -7,7 +7,10 @@ The purpose of this page is to provide ongoing updates to the current state of [
 
 Where we left off: 
 - [ ] Presently working on [[The Great Spring 2026 Wiki Turn]]  
-- [ ] Publish the invitation and request for guidance... 1042. 
+- [ ] Pull in the FSx pattern language so immediately actionable  
+- [ ] Publish the invitation and request for guidance... 1042  
+- [ ] Figure out the software / ERP to run it all (Open Impact)  
+- [ ] Easyway to adopt / adapt sign the agreements and join  
 - [ ] The Story of LIONSBERG is next big creative task... 
 - [ ] Updating Earth PDG to cohere with everything... 
 - [ ] Pulling in superorganism.earth / FSx pattern language and templates. 
@@ -24,7 +27,7 @@ Where we left off:
   - #89 Wiki book discernment — ~80 wiki books; Archive folder is
   set up; obvious archival candidates can begin to move.
   Multi-turn.
-
+[[ØNE]] 
   Substantive creative work pending:
   - #85 Volume II Story rewrite — the biggest unmet creative need.
   The Story is dual-functional (standalone + woven through Vol IX);

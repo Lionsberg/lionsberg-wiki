@@ -36,9 +36,3 @@ When the Old World asks for our credentials, we point to the Receivership preced
 This is the **provenance trail** of LIØNSBERG. Not philosophy. Not utopia. **A methodology that already worked at the scale of a billion-dollar healthcare system, now lifted to planetary scale.** The bones of the New Civilization are AEC bones — Architecture, Engineering, Construction — woven with prophetic spirit.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the historical-provenance frame for the Codex's claim to legitimate authority, and in [[The Book of LIØNSBERG]] (Volume VIII) Chapter 16 as the methodological foundation.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Program Delivery Guide (the raw 2009 California Prison Receivership source material)._
-_Related: [[Worksite Earth]], [[The Network of Commitments]], [[The 10 Year Grand Strategy]], [[Hospicing the Old Systems]], [[From Receivership to Sovereignty]], [[The Pattern Governs, Not People]]._

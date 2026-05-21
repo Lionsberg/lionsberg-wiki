@@ -26,9 +26,3 @@ Withdrawal is not violent. Withdrawal is not chaotic. Withdrawal is the **discip
 The Old World cannot be destroyed by force. It is held together by consent. **When enough consent is withdrawn, it dissolves of its own weight.**
 
 This concept lives canonically inside [[The LIØNSBERG Playbook]] (Volume V) and is referenced throughout [[The LIØNSBERG Pattern Language]] (Volume III).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Vision 4 (HoloFractal Architecture), Book VI; Vision 5 (Transdimensional Constitution), Section VIII of the prior Codex stub._
-_Related: [[Sacred Guardianship — Neutralizing the Predatory]], [[The Covenant Stack]], [[We Are In The Window]]._

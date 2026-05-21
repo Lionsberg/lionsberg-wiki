@@ -35,9 +35,3 @@ A Circle in California, a Community in West Africa, a Federation in the Andean B
 This is what the Sacred Codex is preparing the way for — not as an aspiration but as the **already-emerging reality** that the Turn will make visible.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] (Volume III) under Element 2 (Holofractal Omnifederation).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 2)._
-_Related: [[The Sovereign Superorganism]], [[Higher Order Functional Unity]], [[Fractal Sovereignty]], [[Federations vs Empires]]._

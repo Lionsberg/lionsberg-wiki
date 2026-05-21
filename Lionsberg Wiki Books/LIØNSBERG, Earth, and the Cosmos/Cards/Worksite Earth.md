@@ -27,9 +27,3 @@ It also names the **team** — every being who shows up to work the site is a me
 And it names the **temporal horizon** — a worksite has a project schedule, a target completion, milestones, and the discipline that comes from knowing the work will be inspected. [[The 10 Year Grand Strategy]] is the schedule. [[Covenant and Jubilee — December 2033]] is the substantial completion. The Sacred Ascent is the punch list that runs forever.
 
 The Old World treated Earth as an asset to extract from. The New Civilization treats Earth as a worksite where Heaven is built. Same planet. Different relationship.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[LIØNSBERG 101]] (Ring 2) and [[The Lionsberg Meta Guide]]._
-_Related: [[The 10 Year Grand Strategy]], [[The Pattern Is The Way]], [[Anatomies of Association]]._

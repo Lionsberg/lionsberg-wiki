@@ -32,9 +32,3 @@ The practice of [[The Sacred Ascent|Sacred Ascent]] is, at its core, the practic
 When enough beings hear the Whisper Within clearly, **the Movement governs itself** without external command. The ONE coordinates through each, and through all. This is the deepest meaning of [[The Sovereign Superorganism]] — a Body of beings each listening to the same Source.
 
 Lives canonically in [[The Sacred Ascent]] (Volume IX).
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of The Great UnVeiling (Gate III — The Great Awakening)._
-_Related: [[True Self and False Self]], [[The Sacred Flame That Cannot Be Extinguished]], [[One of the Ones of the ONE]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

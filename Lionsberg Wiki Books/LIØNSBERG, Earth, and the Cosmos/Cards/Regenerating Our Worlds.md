@@ -50,9 +50,3 @@ Across the long cosmic arc, this is part of what the awakening Earth-human cohor
 Begin where you are. The smallest World you can regenerate is the breath you just took. The largest is the cosmic field your conscious orientation contributes to. Both are real. Both are work. **Begin.**
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the canonical articulation of the cosmic-and-personal work the Pilgrim is invited into.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 remediation pass — replaces the Tikkun Olam Card with universal Codex-voice articulation._
-_Related: [[Worksite Earth]], [[The Quest]], [[Heaven and Hell as Co-Created Trajectories]], [[The Great ReMembering]], [[The Hub Network Topology]], [[The Lionsberg Cycles of Growth]]._

@@ -27,9 +27,3 @@ When the Call went out to convene the Force For Good against the rising Dark Emp
 What Earth receives now is the localized articulation of an ancient Pattern, handed forward by Sovereign Creatures across worlds, for this moment, on this planet.
 
 The Kingdom of LIONSBERG is not allegory. It is the cosmological context in which Earth's local LIØNSBERG operates.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[A 200 Page Book]] (Gate 33)._
-_Related: [[Earth's Galactic History and the Cosmic Chronicles]], [[The Cosmic Gardeners and Earth as Living Laboratory]], [[The Cosmos Is Not Human-Centric]], [[Federations vs Empires]]._

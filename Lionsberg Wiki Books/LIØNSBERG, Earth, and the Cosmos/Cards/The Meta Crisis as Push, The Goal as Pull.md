@@ -35,9 +35,3 @@ This is why both [[The Great UnVeiling]] (Volume II's apocalyptic-disclosure reg
 Read aloud at the fire: _The Old burns. The New beckons. We move._
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as the dynamic frame.
-
----
-
-_Captured 2026-05-18 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of [[The Lionsberg Meta Guide]]._
-_Related: [[We Are In The Window]], [[Hospicing the Old Systems]], [[Full Spectrum Dominance]] (the named Anti-Goal)._

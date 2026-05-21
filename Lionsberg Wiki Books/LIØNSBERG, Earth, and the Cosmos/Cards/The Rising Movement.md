@@ -42,9 +42,3 @@ The Movement's **timeline** is the [[The 10 Year Grand Strategy|10-Year Grand St
 The Movement is **already in motion**. The Pilgrim reading this is part of it, or in resonance with it, or about to join it. No application is required. No central registry exists. The Movement gathers each soul who recognizes the Pattern and chooses to walk it. **Recognition is enrollment.**
 
 Lives canonically in [[The Great Game of LIØNSBERG]] (Volume IV) as the central body the Game is played by, and informs every other Volume by naming the living agent of the Codex's articulation.
-
----
-
-_Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
-_Source: Phase 2.1 audit of Beyond The Meta Crisis + Pass The Flame._
-_Related: [[The First Three Percent and Fibonacci Spread]], [[The Tipping Point Strategy]], [[The Awakened Generation]] (pending), [[The United Front]] (pending), [[The Force For Good]], [[The Planetary Grid]], [[The 10 Year Grand Strategy]]._
