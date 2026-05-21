@@ -964,7 +964,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 
 **Key Decisions:**
 - **Sacred Codex 8 Volumes, accessibility-first order** — moves from accessible (Story / Game / Playbook) to structural (Plans / PDG) to integrative (Lexicon / Book / Sacred Ascent)
-- **Volume V holds Plans and Specifications under the Kingdom framing** — under [[Fractal Sovereignty]], the Kingdom has no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- **Volume V holds Plans and Specifications under the Kingdom framing** — under [[Fractal Sovereignty]], the Kingdom has no throne but the ineffable [[ØNE]]
 - **Pattern Language is provisional** — current articulation is first-pass figment; Phase 3 will rebuild from scratch
 - **Story dual-functional** — standalone Volume II AND woven throughout Volume IX as the lifeblood of the Book
 - **LTOE belongs in Volume IX, not Volume V** — cosmological articulation lives in prophetic narrative culmination, not in operational specs

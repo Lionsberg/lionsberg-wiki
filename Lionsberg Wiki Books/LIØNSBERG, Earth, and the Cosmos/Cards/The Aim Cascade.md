@@ -22,7 +22,7 @@ The cascade has named tiers:
 - **Objectives** — what this week or this month aims to accomplish in service of the Goals. The middle-resolution unit.
 - **Tasks** — what this day or this hour requires. The smallest unit. _Write the email. Make the call. Read the chapter. Have the conversation._ Tasks are the actual texture of the cascade made flesh.
 
-Each tier flows from the one above it. **Tasks serve Objectives. Objectives serve Goals. Goals serve Milestones. Milestones serve the Work Breakdown Structure. The WBS serves the Uniting Aim. The Uniting Aim serves Purpose. Purpose serves [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[The Goal]] — the ultimate cosmic-scale alignment that all Pilgrims share.**
+Each tier flows from the one above it. **Tasks serve Objectives. Objectives serve Goals. Goals serve Milestones. Milestones serve the Work Breakdown Structure. The WBS serves the Uniting Aim. The Uniting Aim serves Purpose. Purpose serves [[ØNE]] and [[The Goal]] — the ultimate cosmic-scale alignment that all Pilgrims share.**
 
 When the cascade is intact, the discipline of each day becomes integrated. The Pilgrim does not have to decide each task in isolation. The Pilgrim asks: _"What Tasks today serve this week's Objectives? What Objectives this week serve the next 90-day Goals? Are the Goals still aligned with the Milestones and the WBS? Is the WBS still serving the Uniting Aim?"_ The cascade self-checks at every step.
 

@@ -63,7 +63,7 @@ _The Game as Communities federate into Bioregions and the Planetary Grid. [[The 
 
 ### Movement IV — The Eternal Divine Play
 
-_The Game beyond Earth. Cosmic Diplomacy; the Federation of Worlds; the Cycle of Cosmic Co-Creation; the Game without end, played forever in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]._
+_The Game beyond Earth. Cosmic Diplomacy; the Federation of Worlds; the Cycle of Cosmic Co-Creation; the Game without end, played forever in service of [[ØNE]] and [[All]]._
 
 - [[21. The Game Beyond Earth]]
 - [[22. The Holofractal Pattern Language]]
@@ -90,7 +90,7 @@ The Game begins simply. A Circle of three to sixteen souls. A Quest. A weekly rh
 
 It deepens without end. Through the Pattern Language. Through the Program Delivery Guide. Through the Sacred Ascent. Through the Game beyond Earth, beyond this body, beyond this age.
 
-The Player who begins today walks the same Path as the Sovereigns of every world who have ever served [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]].
+The Player who begins today walks the same Path as the Sovereigns of every world who have ever served [[ØNE]] and [[All]].
 
 ---
 

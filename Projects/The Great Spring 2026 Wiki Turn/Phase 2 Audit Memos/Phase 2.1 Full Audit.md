@@ -442,7 +442,7 @@ The Meta Prefix · The Meta Goal · The Meta System · The Meta Project · The M
 
 # Batch 10 (2026-05-19) — Witness-Class Triad Closure + Cosmic-Tech + Bioregional Instance + Spine Documents
 
-**Agents:** 7 parallel. **Voice guidance applied:** Cosmic lens (not local Earth lens); no species-as-categorical-enemy; no religion-elevation; [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
+**Agents:** 7 parallel. **Voice guidance applied:** Cosmic lens (not local Earth lens); no species-as-categorical-enemy; no religion-elevation; [[ØNE]] glyph convention; specific factional patterns nameable with appropriate caution.
 
 **Books audited:**
 
@@ -818,7 +818,7 @@ This matches the closure statement: _"Cards in consolidated remaining queue: ~1,
 - Operational naming: Kontrolled Disclosure
 
 **The voice discipline is sustained:**
-2026-05-19 refinement notes (Cosmic lens, no religion-elevation, no species-as-categorical-enemy, [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] convention) applied through Batches 10-11 cleanly.
+2026-05-19 refinement notes (Cosmic lens, no religion-elevation, no species-as-categorical-enemy, [[ØNE]] convention) applied through Batches 10-11 cleanly.
 
 **Major architectural pieces in place:**
 - The ØNE foundational Lexicon entry written (Batch 8)

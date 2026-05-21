@@ -79,12 +79,6 @@ Where we left off:
 
 ## Done 
 
-- ✅ Delete [[A New American Revolution - A Vision for a Stronger, Freer, and More United Nation]] — deleted, all content superseded
-- ✅ Delete [[The Battle For The Spirit Of America]] — deleted, all content superseded
-- ✅ Delete [[The Great Game of LIØNSBERG]] book...
-- ✅ Renumber Book of LIONSBERG chapters for coherence                
-- ✅ Rewrite The Invitation to highest form [[The Invitation]]                           
-
 
 ## Current Program 
 
@@ -139,7 +133,7 @@ Where we left off:
 	3.  
 	
 14. 🔄 **FREQUENTLY ASKED QUESTIONS**
-	1. Respond to [[Frequently Asked Questions]] by creating new Plays.  
+	1. Respond to [[Frequently Asked Questions]] by creating new Patterns and  Plays.  
 	
 15. **THE ARK** 
 	1. The bookmobile - means for surviving 5 to 10 years to travel between worlds and spread [[The Message]]  
@@ -149,7 +143,7 @@ Where we left off:
 	
 16. **STEWARDSHIP** 
 	1. There is an emergent need to form a church or other similar shared stewardship structure    
-		1. to establish an LLC  
+		1. to establish an basic legal structure FSx / emergin superorganism  
 			1. That can steward the bus and other assets  
 	
 17. **COMMUNICATIONS**
@@ -341,121 +335,6 @@ The Playbook is the **practical guide**: how to actually play the Great Game in 
 
 
 ---
-
-## **IV. The Sacred Ascent**
-
-_The Path Towards Mastery — The Art and Science of the Way_  
-
-The Ascent is the **discipline of mastery** — weaving together spiritual, martial, healing, yogic, artistic and builder traditions into one grand synthesis and Way.  
-
-- **The Way of Embodiment** — Living in alignment.
-	 How to eat, walk, speak, build.     
-    
-- **The 72 Gates** — The developmental spiral.
-    
-- **Practices of Mastery** — Spirit, breath, body, mind, craft.
-    
-- **Mysteries of ReUnion** — Reconciling spirit and matter.
-    
-
----
-
-## **V. The LIONSBERG Sacred Codex**
-
-[[The LIØNSBERG Sacred Codex]]  
-
-   
----
-
-## 📚 **VI. The Reference Library**
-
-_Tools, Mediations, and Threads_  
-
-- **[[The LIONSBERG Book of Meditations]]**
-    
-- **[[The LIONSBERG Book of Quotes]]**
-    
-- **[[The LIONSBERG Book of Emotions]]**
-    
-- **[[The LIONSBERG Reading List]]**
-    
-- **[[LIONSBERG Wiki Books]]**
-    
-- **[[Above The Chaos]]**
-    
-- **[[Something Powerful, New, and Good]]**
-    
-
-
----
-
-## 🌌 **VII. The Eternal Game**
-
-_The Horizon Beyond_  
-
-Here the path expands into the **living continuum** — the universal and eternal dimensions of a Game with no beginning or end but ONE.  
-
-- The Great Game as a Living System
-    
-- How the Invitation Expands
-    
-- How the Playbook Evolves
-    
-- How the Map is Updated
-    
-- How the Strategy and Plan Adapts
-    
-- How the Codex Deepens
-    
-- The Role of Story and Collective Memory  
-    
-- The Spiral of Renewal— Adapting Across Generations
-    
-- Beyond Earth — the Infinite Horizon
-    
-- The Game Without End
-    
-
----
-
-___  
-
-## The LIONSBERG Sacred Codex
-⏳ (the highest and deepest architecture — theology, metaphysics, law, cosmic blueprint)  
-
-- **[[The LIONSBERG Narrative Universe]]**
-	- **[[The Story of LIØNSBERG]]**  
-	- [[The Chronicles of Lionsberg]]  
-	- **[[The Book of LIØNSBERG]]**  
-		- Metaphysics
-		- Theology  
-		- Philosophy  
-		- Theory  
-		- Law  
-		- Cosmic Bluebrints 
-	- **[[The Great UnVeiling]]**  
-- **[[The LIØNSBERG Lexicon]]**   
-- **[[The LIONSBERG Covenant and Law]]**  
-	- The LIONSBERG Covenant
-	- **[[The LIØNSBERG Constitution]]**  
-	- **[[The LIONSBERG Code]]**  
-	- **[[The LIONSBERG Agreements]]**   
-- **The LIONSBERG Theses**  
-- **The LIONSBERG Blueprints**  
-	- The 12 Pillars of LIONSBERG 
-	- The LIONSBERG Pattern Language  
-- **The LIONSBERG Atlas and Timelines**  
-- **[[The LIONSBERG Commentaries]]**  
-
-## The LIONSBERG Reference Materials
-
-- **[[The Lionsberg Book of Meditations]]**  
-- **[[The Lionsberg Book of Quotes]]**  
-- **[[The LIONSBERG Book of Emotions]]**  
-- **[[The LIONSBERG Reading List]]**  
-- **[[Lionsberg Wiki Books]]**  
-- **[[Above The Chaos]]**  
-- **[[Something Powerful, New, and Good]]**  
 
 
 _____  

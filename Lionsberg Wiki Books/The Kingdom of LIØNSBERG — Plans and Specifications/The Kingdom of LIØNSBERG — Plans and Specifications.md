@@ -12,7 +12,7 @@ This Volume is the **structural body** of the [[New Civilization]] — the archi
 
 It functions simultaneously as **architectural plan**, **constitutive charter**, **field manual**, and **sacred seed** — four faces of one body.
 
-It is called the **Kingdom of LIØNSBERG** because the design it carries is sovereign — but its King is not a being. Its King is the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Within the Kingdom, _[[All]] are sovereign and free_, for it recognizes no True Authority except that flowing from the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Under [[Fractal Sovereignty]] there is no throne but [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] — and every being, every Circle, every world is sovereign in [[Right Relationship]] with that [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and All.
+It is called the **Kingdom of LIØNSBERG** because the design it carries is sovereign — but its King is not a being. Its King is the ineffable [[ØNE]]. Within the Kingdom, _[[All]] are sovereign and free_, for it recognizes no True Authority except that flowing from the [[ØNE]]. Under [[Fractal Sovereignty]] there is no throne but [[ØNE]] — and every being, every Circle, every world is sovereign in [[Right Relationship]] with that [[ØNE]] and All.
 
 ---
 
@@ -66,7 +66,7 @@ This discipline solves the overlap problem structurally. The Sacred Economy (Pil
 **Principles:**
 
 - **The Four Faces** — Volume V functions simultaneously as architectural plan, constitutive charter, field manual, and scriptural seed. Each face requires a different reading.
-- **The Kingdom Framing Under Fractal Sovereignty** — no throne but [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]; every being sovereign in [[Right Relationship]].
+- **The Kingdom Framing Under Fractal Sovereignty** — no throne but [[ØNE]]; every being sovereign in [[Right Relationship]].
 - **The Living Discipline of Revision** — these are not decrees. They are living blueprints of invitation and initiation, to be discerned, localized, and continually refined.
 - **The Maturation Framing** — approximately ten percent complete; the year-long co-writing process with [[The First Three Percent]]; the Pattern of maturation.
 - **Voice and Authority** — the authority of Volume V arises from essential resonance with the [[Logos]], not from any institution.
@@ -86,7 +86,7 @@ _The orienting telos. Equated to **Creator's Intent for Worksite Earth**. The re
 **Principles:**
 
 - **[[Heaven On Earth]] for [[All]]** — the consummate telos. Not for some. Not later. Not maybe. For All. As soon as can be co-created.
-- **[[Right Relationship]] Across All Scales** — between sovereign beings, between Circles, between Communities, between humanity and the kin of this planet, between Earth and the cosmos, between every being and [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]].
+- **[[Right Relationship]] Across All Scales** — between sovereign beings, between Circles, between Communities, between humanity and the kin of this planet, between Earth and the cosmos, between every being and [[ØNE]].
 - **The Sacred Ascent** — All things rising toward The Goal. The eternal upward spiral. Volume V is the structural body that holds the ascent; [[The Sacred Ascent|Volume X]] is its embodied articulation.
 - **Sovereignty of Every Conscious Being** — never compromised in service of the design; the design exists to serve sovereignty, not the reverse.
 - **The Voluntary Nature of the Covenant** — no coercion; no enforcement except by consent; the entire structure stands or falls on the freely-chosen participation of sovereign beings.
@@ -95,7 +95,7 @@ _The orienting telos. Equated to **Creator's Intent for Worksite Earth**. The re
 **Articulation:**
 
 - The full articulation of [[Heaven On Earth]] as the telos of Worksite Earth — what it actually means, what it actually looks like, how it is recognized when present and how it is recognized when absent.
-- The cosmic arc — from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG|Volume II]] and the [[Lionsberg Theory of Everything]] chapter of [[The Book of LIØNSBERG|Volume IX]]).
+- The cosmic arc — from [[ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG|Volume II]] and the [[Lionsberg Theory of Everything]] chapter of [[The Book of LIØNSBERG|Volume IX]]).
 - **Worksite Earth as a Specific Local Articulation of Designer's Intent** — Earth is one world within a vast cosmic Story. The Plans and Specifications of Volume V are tuned to this world's specific conditions: the Meta Crisis, the Wilderness passage, the planetary grid emerging, the awakening population, the technological inflection. Volume V is universal in its DNA and specific in its present form.
 - **The Reference Test** — every Plan, every Specification, every Pattern is tested against this Intent. Does this move toward [[Heaven On Earth]] for [[All]] in [[Right Relationship]] — or away from it? Does it honor sovereignty, the voluntary, and Love as supreme — or compromise them? The Intent is the canonical reference.
 
@@ -113,7 +113,7 @@ _The Constitutional Charter face of Volume V is fulfilled by [[The LIØNSBERG Co
 
 **Principles:**
 
-- **The Eternal Provisions** of [[The LIØNSBERG Constitution]] (Article XII.1) are the irreducible inviolables: the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] as sole ultimate authority; sovereignty of every conscious being; voluntary nature of the Covenant; refusal of throne or concentrated power; orientation toward the [[Sacred Ascent]]; Love as supreme law.
+- **The Eternal Provisions** of [[The LIØNSBERG Constitution]] (Article XII.1) are the irreducible inviolables: the [[ØNE]] as sole ultimate authority; sovereignty of every conscious being; voluntary nature of the Covenant; refusal of throne or concentrated power; orientation toward the [[Sacred Ascent]]; Love as supreme law.
 - **The Spirit-Conformance Test** (Constitution Article XII.3) is the test every amendment to Volume V must pass.
 - **The Constitution Holds; the Plans and Specifications Serve** — when conflict arises, the Constitution prevails. Volume V is operational; the Constitution is constitutive.
 
@@ -149,7 +149,7 @@ _The structural-legal body through which the Pattern operates. The 8-Layer Archi
 
 The canonical legal-structural stack. Each layer is a concrete instrument — a Charter or Template — through which the Pattern takes lawful form at its scale:
 
-- **Layer Ø — The Eternally Nameless Superorganism** — the irreducible source-layer; the relationship to [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] from which every subordinate form proceeds. Not a legal entity; the ground from which legal entities are constituted.
+- **Layer Ø — The Eternally Nameless Superorganism** — the irreducible source-layer; the relationship to [[ØNE]] from which every subordinate form proceeds. Not a legal entity; the ground from which legal entities are constituted.
 - **Layer I — The Stewardship Agreement** — the foundational covenant by which a sovereign being or body steps into Right Relationship with the Pattern and the Whole.
 - **Layer II — The Ecosystem Holding Charter** — the constitutive charter for the bioregional / ecosystem-scale body that holds the commons of a defined territory.
 - **Layer III — The Ecosystem Resourcing Pool Charter** — the constitutive charter for the resource-flow body that funds and provisions ecosystem operations.
@@ -200,7 +200,7 @@ _The 12 Sacred Pillars operationalized. The substantive systems through which a 
 **Principles:**
 
 - **The Twelvefold Cut** — the 12 Pillars are the canonical structural decomposition of civilization. The same twelvefold cut threads [[The LIØNSBERG Lexicon|the Lexicon]] (vocabulary), this Volume (specifications), and [[The Theses of Lionsberg|the Theses]] (normative content).
-- **Each Pillar as a Sacred System** — every domain is held _sacredly_. There is no merely-secular Pillar. Economy is sacred. Governance is sacred. Science is sacred. Each Pillar is the structural articulation of how the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] Order of Reality manifests within that domain.
+- **Each Pillar as a Sacred System** — every domain is held _sacredly_. There is no merely-secular Pillar. Economy is sacred. Governance is sacred. Science is sacred. Each Pillar is the structural articulation of how the [[ØNE]] Order of Reality manifests within that domain.
 - **The Twelve Form ONE Body** — the Pillars are not independent. Governance constrains Economy. Economy constrains Architecture. Culture suffuses all. Each Pillar operates in [[Right Relationship]] with every other Pillar.
 - **The ~144 Theses** — approximately 12 Theses per Pillar, articulated from Old → New (the existing 144/156 Theses corpus lives under each Pillar; canonical home: [[The Theses of Lionsberg|the Theses wiki book]] nested under [[The 12 Pillars of LIONSBERG]]).
 
@@ -211,8 +211,8 @@ _The 12 Sacred Pillars operationalized. The substantive systems through which a 
 _What is. The orienting recognitions of Reality. The patterns by which sovereign beings hold their relationship with the Real._
 
 - **Intent:** Anchor every other Pillar in clear sight of what is actually Real. No Plan, no Specification, no Pattern can be true if it is built on illusion about the nature of Reality.
-- **Principles:** The [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] as ground. Sacred Interconnection across all beings and scales. The refusal of dogma. The holding open of the deepest questions. The recognition that articulation is provisional; what articulation points to is not.
-- **Articulation:** The ~12 Theses for Sacred Ontology and Metaphysics (canonical home: [[The Theses of Lionsberg]] under this Pillar). The contemplative disciplines; the practices of truth-seeking; the canonical recognitions of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]].
+- **Principles:** The [[ØNE]] as ground. Sacred Interconnection across all beings and scales. The refusal of dogma. The holding open of the deepest questions. The recognition that articulation is provisional; what articulation points to is not.
+- **Articulation:** The ~12 Theses for Sacred Ontology and Metaphysics (canonical home: [[The Theses of Lionsberg]] under this Pillar). The contemplative disciplines; the practices of truth-seeking; the canonical recognitions of [[ØNE]].
 - **Patterns:** Pointers to Part VI's Foundational Patterns of ontology and the Pattern Cards specific to this domain.
 
 ### Pillar II — Sacred Governance and Stewardship
@@ -279,7 +279,7 @@ _How we inquire, and what we build. **The methodology for navigating toward Trut
   - **Truth-Seeking Is Constitutional** — no dogma is canonical; no received doctrine is exempt from inquiry; the Quest to Perceive, to Know, to ReMember, to Discern is perpetual.
   - **The Spectrum of Knowing** — the seven legitimate modes of knowing, each appropriate to its domain. No single mode is sovereign.
   - **The Hierarchy of Epistemic Standards** — empirical evidence; logical inference; hypothetical modeling (held provisionally); symbolic / archetypal narrative; metaphorical framing. Claims explicitly labeled by mode.
-  - **The Five Verification Filters** — every substantive claim aspiring to canonical status passes through: (1) Coherence with [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]; (2) Coherence with the Pattern Language; (3) Suppression analysis; (4) Cross-domain integration; (5) Harmonic resonance.
+  - **The Five Verification Filters** — every substantive claim aspiring to canonical status passes through: (1) Coherence with [[ØNE]]; (2) Coherence with the Pattern Language; (3) Suppression analysis; (4) Cross-domain integration; (5) Harmonic resonance.
   - **Epistemic Humility** — all canonical articulation is provisional. The Pattern itself does not change; the words used to render it continually sharpen. This humility extends even to the Eternal Provisions: those are recognized as eternal not because the People claim infallibility in articulating them, but because what they point to is itself the eternal ground.
   - **The Refusal of Dogma** — truth-seeking is constitutional; received doctrine is not.
   - **The Right of New Hypothesis** — sovereign beings retain the constitutional right to propose new hypotheses without penalty.
@@ -337,7 +337,7 @@ _The cross-cutting design grammar that threads every Part and every Pillar. The 
 
 - **Single source per Pattern** — every Pattern lives canonically in Part VI; every other Part that uses it points to its Part VI entry.
 - **Patterns are reusable** — a Pattern is a context-problem-solution unit that applies at multiple scales, in multiple domains, by multiple actors. If it cannot be reused, it is not a Pattern; it is a specification, a stage, or a container.
-- **The Pattern Language Holds Architecturally** — from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] (Source) → Core Pattern (12 Irreducible Elements) → Foundational Patterns and Plays → 12 Sacred Pillars (Pattern clusters) → IPD Integration Layer → Continuous Improvement → Eternal Divine Play.
+- **The Pattern Language Holds Architecturally** — from [[ØNE]] (Source) → Core Pattern (12 Irreducible Elements) → Foundational Patterns and Plays → 12 Sacred Pillars (Pattern clusters) → IPD Integration Layer → Continuous Improvement → Eternal Divine Play.
 
 **Articulation:**
 
@@ -345,14 +345,14 @@ Volume V Part VI integrates by pointer with the canonical Pattern Language wiki 
 
 The full Pattern Language rebuild is Phase 4 work. The current canonical structure:
 
-- **Source — [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]** — every Pattern derives from and returns to ØNE
+- **Source — [[ØNE]]** — every Pattern derives from and returns to ØNE
 - **Core Pattern — The 12 Irreducible Elements** — the DNA distilled from every successful movement in recorded history (8 Elements of Cooperation + 4 Elements of Production)
 - **Foundational Patterns and Plays** — the 16 Foundational Patterns + 27 Plays (the foundational operational Patterns that hold beneath all twelve Pillars)
 - **Legal Personhood and Fractal Sovereignty (FSx)** — the abstract Pattern principles (concrete charters and templates live in Part IV)
 - **The 12 Sacred Pillars** — each Pillar's domain-specific Patterns (Pillar I Patterns, Pillar II Patterns, ... Pillar XII Patterns)
 - **Integrated Program Delivery** — the 32 canonical IPD Patterns (from $20M+ of integrated delivery research) clustered into 9 operational families, placed as the integration / program-management layer above the Pillars
 - **Continuous Improvement** — the Pattern by which all Patterns are continuously refined
-- **Eternal Divine Play** — the Pattern threshold into [[The Sacred Ascent|Volume X]] — the recursive return to [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- **Eternal Divine Play** — the Pattern threshold into [[The Sacred Ascent|Volume X]] — the recursive return to [[ØNE]]
 
 **Patterns:** _All of them. This Part IS the Pattern catalog._ Pointer: [[The LIØNSBERG Pattern Language]] for the canonical articulation.
 
@@ -419,7 +419,7 @@ _How the Plans and Specifications are actually instantiated. Where [[The Program
 
 _The canonical reference layer — schemas, geometries, glossaries, change logs. The closing artifacts of Volume V. And the threshold gesture toward [[The Sacred Ascent|Volume X — The Sacred Ascent]] and the [[Eternal Divine Play]]._
 
-**Intent:** Hold the encoded artifacts — the schemas, the gestural notations, the geometries, the change log — through which the Pattern is rendered in machine-readable, ritual-readable, and reference form. And close Volume V by gesturing toward what lies beyond: [[The Sacred Ascent]], where the structural body is embodied as eternal upward spiral, and the Game continues forever in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]].
+**Intent:** Hold the encoded artifacts — the schemas, the gestural notations, the geometries, the change log — through which the Pattern is rendered in machine-readable, ritual-readable, and reference form. And close Volume V by gesturing toward what lies beyond: [[The Sacred Ascent]], where the structural body is embodied as eternal upward spiral, and the Game continues forever in service of [[ØNE]] and [[All]].
 
 **Articulation:**
 

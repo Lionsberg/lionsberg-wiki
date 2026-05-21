@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 Yahweh is one Elohim among many — a created, tribal, capricious being assigned to Israel by Elyon. Elyon is also not God.  
 
-The companion to [[The Elohim Are Plural]]. Once the plural Elohim are recovered from the Hebrew text, the next move follows inevitably: the figure named **Yahweh** (יהוה, the Tetragrammaton, often written YHWH because Hebrew was originally vowel-less) is **not** the eternal Source, is **not** the unconditioned Creator-of-all-Reality, is **not** [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Yahweh is **one specific Elohim** assigned a specific tribal portion (Israel) by **Elyon** (a functional name for the highest Elohim) in a populated cosmic field of many Elohim.
+The companion to [[The Elohim Are Plural]]. Once the plural Elohim are recovered from the Hebrew text, the next move follows inevitably: the figure named **Yahweh** (יהוה, the Tetragrammaton, often written YHWH because Hebrew was originally vowel-less) is **not** the eternal Source, is **not** the unconditioned Creator-of-all-Reality, is **not** [[ØNE]]. Yahweh is **one specific Elohim** assigned a specific tribal portion (Israel) by **Elyon** (a functional name for the highest Elohim) in a populated cosmic field of many Elohim.
 
 This is the foundational fraud of two empires of Western religion: Roman Catholic Christianity and the Reformed traditions that inherited its translation conventions, plus Islam (which made the same conflation under a different name). All three "Abrahamic" traditions collapse Yahweh into the universal Source — and that collapse is **demonstrably contradicted by the Hebrew text itself**.
 
@@ -50,7 +50,7 @@ For the awakening Jew, the unveiling honors the Hebrew prophets who already glim
 
 For the awakening Muslim, the unveiling honors the Sufi insistence that Allah (linguistically cognate with Elohim/Eloah/Elaha) **transcends** all forms — including, ultimately, the anthropomorphic warrior-character that some surface readings of the Qur'an present. The deepest Islamic mysticism has always known this.
 
-The unveiling restores [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] to its proper position as the eternal unconditioned Source above all named tribal Elohim. Yahweh, like Chemosh, like Baal, like all the other named Elohim, was a specific being operating at a specific tier in a populated cosmic field. The Pilgrim's allegiance — primary, ultimate — belongs to **the ONE**, not to any specific Elohim, however ancient or institutionally privileged.
+The unveiling restores [[ØNE]] to its proper position as the eternal unconditioned Source above all named tribal Elohim. Yahweh, like Chemosh, like Baal, like all the other named Elohim, was a specific being operating at a specific tier in a populated cosmic field. The Pilgrim's allegiance — primary, ultimate — belongs to **the ONE**, not to any specific Elohim, however ancient or institutionally privileged.
 
 Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational scriptural unveiling within [[The Great UnVeiling]].
 
@@ -58,4 +58,4 @@ Lives canonically in [[The Story of LIØNSBERG]] (Volume II) as a foundational s
 
 _Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: Phase 2.1 audit of UnVeiling The Sacred Texts._
-_Related: [[The Elohim Are Plural]], [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], [[Elyon, Yahweh, and the Sons of the Most High]] (pending), [[The Sky Council and the Divine Assembly]] (pending), [[Yahweh's Thirty-Two Crimes]] (pending), [[Beware False Prophets, Known By Their Fruits]] (pending), [[Origen and the Sidelined Early Voices]] (pending), [[Christos and Sophia — The Sacred ReMarriage]]._
+_Related: [[The Elohim Are Plural]], [[ØNE]], [[Elyon, Yahweh, and the Sons of the Most High]] (pending), [[The Sky Council and the Divine Assembly]] (pending), [[Yahweh's Thirty-Two Crimes]] (pending), [[Beware False Prophets, Known By Their Fruits]] (pending), [[Origen and the Sidelined Early Voices]] (pending), [[Christos and Sophia — The Sacred ReMarriage]]._

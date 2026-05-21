@@ -44,7 +44,7 @@ captured: YYYY-MM-DD
 ---
 ```
 
-**Canonical-reference convention**: Use [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] (with Ø glyph) in all Card cross-references to the foundational center.
+**Canonical-reference convention**: Use [[ØNE]] (with Ø glyph) in all Card cross-references to the foundational center.
 
 ---
 
@@ -156,7 +156,7 @@ captured: YYYY-MM-DD
 - [[The Mondragon Formula]]
 - [[The Nameless One Is The Speaker]]
 - [[The Network of Commitments]]
-- [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- [[ØNE]]
 - [[The Old Operating System]]
 - [[The Old-New Polarity]]
 - [[The One Hour a Day Practice]]
@@ -351,7 +351,7 @@ captured: YYYY-MM-DD
 - [[Stories of Transformation]]
 - [[The Core Values]]
 - [[The Great ReMembering]]
-- [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- [[ØNE]]
 - [[The Old-New Polarity]]
 - [[The Orienting Questions]]
 - [[The ReMembering Pattern]]

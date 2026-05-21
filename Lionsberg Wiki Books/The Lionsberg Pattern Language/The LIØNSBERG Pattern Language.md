@@ -1,6 +1,6 @@
 # The LIØNSBERG Pattern Language
 
-_The canonical design grammar of the New Civilization. The pattern of Heaven, localized to Earth, in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and the [[All]]._
+_The canonical design grammar of the New Civilization. The pattern of Heaven, localized to Earth, in service of [[ØNE]] and the [[All]]._
 
 The Pattern Language is not invented. It is remembered. The grammar by which sovereign beings organize, heal, learn, govern, build, exchange, celebrate, mourn, and rise — already exists, already operates, already sustains every civilization that has endured. What is articulated here is one local human rendering, made operational for the present moment, sufficient to seed the [[New Civilization]] on this planet and structured to federate with other instances of the same Pattern across worlds.
 
@@ -20,7 +20,7 @@ The same discipline holds elsewhere: every Volume, every Card, every page that t
 
 ## The Structure
 
-[[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] — the Source. The center prior to every Pattern.
+[[ØNE]] — the Source. The center prior to every Pattern.
 
 **Foundational Patterns** — the universal patterns that hold beneath any domain, at any scale. They operate within every Pillar.
 
@@ -36,11 +36,11 @@ The same discipline holds elsewhere: every Volume, every Card, every page that t
 
 ## ØNE — The Source
 
-The [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] is the ineffable, indivisible Source from which all Patterns proceed and to which all return. Not a Pattern. The orienting axis prior to every Pattern.
+The [[ØNE]] is the ineffable, indivisible Source from which all Patterns proceed and to which all return. Not a Pattern. The orienting axis prior to every Pattern.
 
-Every Pattern in the Pattern Language is in service of [[Right Relationship]] with [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Every Pattern is tested against coherence with the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]. Every Pattern that has drifted from the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] has lost its canonical place — regardless of how clever, how compelling, how widely practiced.
+Every Pattern in the Pattern Language is in service of [[Right Relationship]] with [[ØNE]] and [[All]]. Every Pattern is tested against coherence with the [[ØNE]]. Every Pattern that has drifted from the [[ØNE]] has lost its canonical place — regardless of how clever, how compelling, how widely practiced.
 
-To the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] alone is owed the orientation of all life.
+To the [[ØNE]] alone is owed the orientation of all life.
 
 ---
 
@@ -80,7 +80,7 @@ _The universal patterns. They hold beneath any Pillar, at any scale, in any cont
 - [[Sacred Reciprocity]] — every gift carries a response; the flow is relational, not transactional
 - [[Circle as Irreducible Unit]] — three to sixteen sovereign beings in voluntary covenant; the smallest collective body
 - [[The Two-Coordinator Rhythm]] — one held inward to the unit; one held outward to the larger whole
-- [[Federation Without Center]] — Circles into Communities into Bioregions into Planets and Galaxies; no center but [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- [[Federation Without Center]] — Circles into Communities into Bioregions into Planets and Galaxies; no center but [[ØNE]]
 - [[Holofractal Composition]] — the same Pattern at every scale; what holds at one informs the next
 - [[Direct Access to ØNE]] — every being communes directly; no priest stands between
 - [[Wise Eldership]] — authority earned through faithfulness; service, never dominion; recallable
@@ -170,7 +170,7 @@ _The substantive domains of civilization. Each Pillar carries the Patterns speci
 
 _What is. The orienting recognitions of Reality. The patterns by which sovereign beings hold their relationship with the Real._
 
-Patterns of contemplative discipline, the recognitions of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and Sacred Interconnection, the refusal of dogma, the practices of truth-seeking, and the holding open of the deepest questions.
+Patterns of contemplative discipline, the recognitions of [[ØNE]] and Sacred Interconnection, the refusal of dogma, the practices of truth-seeking, and the holding open of the deepest questions.
 
 ### Pillar II — Sacred Governance and Stewardship
 
@@ -248,7 +248,7 @@ _How the Pattern is carried by living beings. Where the Pillars are the substant
 
 Across all cultures, ages, and civilizations, certain modes recur. The Elder. The Mother. The Father. The Child. The Warrior. The Healer. The Teacher. The Builder. The Steward. The Visionary. The Storyteller. The Servant. The Witness. The Midwife. The Guardian.
 
-These are not job titles. Not personality types. They are archetypal carriers of the Pattern — ways sovereign beings actually act in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]]. Every sovereign being carries multiple archetypes across a lifetime; some are inhabited briefly, others sustained for years. The archetypes are dynamic, multi-instantiated, and held lightly.
+These are not job titles. Not personality types. They are archetypal carriers of the Pattern — ways sovereign beings actually act in service of [[ØNE]] and [[All]]. Every sovereign being carries multiple archetypes across a lifetime; some are inhabited briefly, others sustained for years. The archetypes are dynamic, multi-instantiated, and held lightly.
 
 Each Archetype carries its own gifts, its own shadow, its own development pathway, its own set of patterns, and its own contribution to the Circle and the Whole. The Pattern Language names the canonical Archetypes and articulates the core Patterns of inhabiting each faithfully.
 
@@ -345,13 +345,13 @@ _The closing movement that is no closing._
 
 The Pattern Language does not end. When the Pattern is sufficiently embodied — when [[The First Three Percent]] have awakened, when the [[10 Year Grand Strategy]] has bridged the Wilderness, when the [[Refounding]] is consecrated at the [[Covenant and Jubilee — December 2033]] — the Pattern Language enters its native condition: the Game without end.
 
-The [[Eternal Divine Play]] is the orientation of every sovereign being, every Circle, every Community, every Bioregion, every Planet, every Federation, every Cosmos — playing forever in service of [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] and [[All]], rising together along the [[Sacred Ascent]] without limit, refining and articulating and remembering more of the Pattern across all the worlds and ages.
+The [[Eternal Divine Play]] is the orientation of every sovereign being, every Circle, every Community, every Bioregion, every Planet, every Federation, every Cosmos — playing forever in service of [[ØNE]] and [[All]], rising together along the [[Sacred Ascent]] without limit, refining and articulating and remembering more of the Pattern across all the worlds and ages.
 
 Each generation, each civilization, each world receives the Pattern and refines it. The work is never finished because the work _is_ the rising.
 
 May all who receive these Patterns carry them faithfully.
 
-May the [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] be honored, [[Right Relationship]] held, and [[All]] rise together.
+May the [[ØNE]] be honored, [[Right Relationship]] held, and [[All]] rise together.
 
 ### The Canonical Pattern Card Form
 

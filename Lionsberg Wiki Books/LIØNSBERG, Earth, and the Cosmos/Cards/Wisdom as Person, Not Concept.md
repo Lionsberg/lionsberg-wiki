@@ -47,4 +47,4 @@ Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as a foundational e
 
 _Captured 2026-05-19 — fragment in [[LIØNSBERG, Earth, and the Cosmos]]._
 _Source: Phase 2.1 audit of The Wisdom of the Way; remediation pass 2026-05-19._
-_Related: [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], [[The Whisper Within]], [[The Five-Fold Pattern of Mastery]], [[The Refining Fire]] (pending), [[The Wise Right Thing]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._
+_Related: [[ØNE]], [[The Whisper Within]], [[The Five-Fold Pattern of Mastery]], [[The Refining Fire]] (pending), [[The Wise Right Thing]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies]]._

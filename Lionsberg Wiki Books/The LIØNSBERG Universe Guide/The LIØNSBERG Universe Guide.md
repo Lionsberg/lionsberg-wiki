@@ -41,7 +41,7 @@ This Part holds the **story bible** of the LIØNSBERG Universe — the cosmic ba
 - **The Lore** — the cosmic story as true myth, spanning epochs and worlds
 - **Named Places and Realms** — The Caves, The Boundary, The Wilderness, the Sacred Mountain, the New Civilization, the Eternal Play; the Cosmos as ordered Realms
 - **The Lineages and Factions** — the winged lion-angel beings of the ancient Kingdom on the Sacred Mountain in a distant galaxy; cosmic emissaries; the Federation of Worlds; the Dark Empires; the human lineage as one local localization; [[Cosmic Wildlife]] discipline (factions, not species-essences)
-- **The Cosmic History** — Genesis from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] through procession through the present Final Test into the New Civilization horizon and the Eternal Play
+- **The Cosmic History** — Genesis from [[ØNE]] through procession through the present Final Test into the New Civilization horizon and the Eternal Play
 - **The Story of the Sacred Mountain** — the origin Kingdom, the Sacred Gates, the Sacred Book of the Way, the convocation of the Force For Good
 - **Earth in Receivership** — Earth's current cosmic-juridical condition, the construction-site framing, humanity as integrated delivery team
 
@@ -79,7 +79,7 @@ This Part holds the canonical structural pattern of how the Universe is organize
 
 - **The Eight-Volume Sacred Codex** — I Story · II Great Game · III Playbook · IV Plans and Specifications (Kingdom) · V Program Delivery Guide · VI Lexicon · VII Book · VIII Sacred Ascent. The order moves accessible → structural.
 - **The Story Dual-Functional** — Volume II standalone AND woven through Volume IX
-- **Plans and Specifications As Volume V** — holds the Pattern Language as canonical design-grammar subset; functions as architectural plan + constitutional charter + field manual + scriptural seed; under [[Fractal Sovereignty]] the Kingdom has no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]]
+- **Plans and Specifications As Volume V** — holds the Pattern Language as canonical design-grammar subset; functions as architectural plan + constitutional charter + field manual + scriptural seed; under [[Fractal Sovereignty]] the Kingdom has no throne but the ineffable [[ØNE]]
 - **The Two Forms of the PDG** — original IPD/AEC + Earth-in-receivership; method and method-as-prophecy
 - **The Theory of Everything Lives In Volume IX** — culminating chapter before the Sacred Ascent threshold; cosmological articulation belongs in prophetic narrative climax, not in operational specs
 - **The Pilgrim's Path** — 12 Stages, the wayfinding companion through the Volumes; the [[The LIØNSBERG Experience]] document is the canonical articulation

@@ -47,6 +47,10 @@ To speak of the ØNE is to speak at the edge of what language can carry. Every a
 
 This entry is the canonical center of [[The LIØNSBERG Lexicon]]. From here, every other Lexicon entry derives. Every Pattern in [[The LIØNSBERG Pattern Language]] orbits this center. Every Quest in [[The LIØNSBERG Playbook]] aims at this center. The [[The Story of LIØNSBERG|Story]] tells the journey toward this center. The [[The Sacred Ascent]] is the eternal upward spiral around this center.
 
+**WARNING — Do Not Concretize the Absolute.**
+
+The articulations above are pointers, not the ØNE itself. The instant any articulation is treated as the final, complete, or exhaustive truth about the ØNE, [[Concretizing The Absolute|the Absolute has been concretized]] — and the System fails. In religious terms, reducing [[Ultimate Reality]] to a human-made set of "orthodox" forms or propositions is the foundational act of [[Idolatry]]. The Codex intentionally leaves the ØNE in the abstract so it remains transcendent of all human ideology and idolatry, and so beings from many traditions can relate to it for eternity. The articulations sharpen across generations; what they point to does not change. Hold the articulations lightly. Return to the direct encounter.
+
 **ONE.**
 The Source.
 The Goal.
@@ -55,7 +59,7 @@ The Center.
 The All.
 Forever.
 
-Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VII) as the foundational entry from which the entire Lexicon — and the entire Codex — orbits.
+Lives canonically in [[The LIØNSBERG Lexicon]] (Volume VIII) as the foundational entry from which the entire Lexicon — and the entire Codex — orbits.
 
 ---
 

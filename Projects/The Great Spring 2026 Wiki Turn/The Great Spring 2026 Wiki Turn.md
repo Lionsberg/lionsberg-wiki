@@ -210,7 +210,7 @@ The extraction proceeds at a sustainable pace through the year-long co-writing p
 
 _The most consequential creative writing remaining. Three Volume-class undertakings. Until Volume II lands, everything downstream is scaffolding._
 
-- [ ] **5.1** **Write [[The Story of LIØNSBERG]] (Volume II) as a full rewrite** — the most masterful Story in history. Cosmic context. The True Myth. The Caves narrative as foundational allegory. The procession from [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] through the Final Test into the New Civilization and the Eternal Play. The Eight Lineages of Living Proof. Jordan's testimony and the nameless one's continuation. _(Task #85 — the lifeblood of the entire Codex. Existing draft at root as starting material.)_
+- [ ] **5.1** **Write [[The Story of LIØNSBERG]] (Volume II) as a full rewrite** — the most masterful Story in history. Cosmic context. The True Myth. The Caves narrative as foundational allegory. The procession from [[ØNE]] through the Final Test into the New Civilization and the Eternal Play. The Eight Lineages of Living Proof. Jordan's testimony and the nameless one's continuation. _(Task #85 — the lifeblood of the entire Codex. Existing draft at root as starting material.)_
 
 - [ ] **5.2** **Reweave The Story throughout [[The Book of LIØNSBERG]] (Volume IX)** — once Volume II lands, the Book is restructured so that The Story is threaded through every chapter as cosmic context, archetypal frame, and prophetic glimpse. The Caves narrative (currently 33 sub-files in Chapter 1 - Genesis/) is reconciled — the canonical Caves articulation lives in Volume II; the Book references and weaves the Story rather than owning the Caves narrative outright. Full Book rewrite required to thread Story through Chs 0-14. _(Task #86 — includes the Chapter 8 voice-discipline integrity pass folded in.)_
 
@@ -226,7 +226,7 @@ _Once the canonical articulations exist, every duplicate reference across the Wi
 
 - [ ] **6.1** The 7 Moves — every appearance across the Wiki updated to the new canonical sequence and pointing to the single canonical entry.
 - [ ] **6.2** The 12 Elements / 12 Pillars / Domain Patterns / How Tos — every appearance becomes a link to the single canonical Pattern Language entry.
-- [ ] **6.3** [[The Goal]] / [[Heaven On Earth]] / [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]] / [[Creator's Intent]] / [[The First Three Percent]] — every appearance becomes a wiki link to the canonical Lexicon entry.
+- [ ] **6.3** [[The Goal]] / [[Heaven On Earth]] / [[ØNE]] / [[Creator's Intent]] / [[The First Three Percent]] — every appearance becomes a wiki link to the canonical Lexicon entry.
 - [ ] **6.4** [[The Caves]] / [[The Wilderness]] / [[The 300]] / the Anti-Patterns / the 99 Theses / the 66 Most Protected and Distorted Narratives — each gets one canonical home with all other references demoted to links.
 - [ ] **6.5** Each of the ~50 wiki books that has been folded (per Phase 3.B.2 discernment) gets either replaced with a stub-pointing-to-canonical, or moved to an `_archive/` directory with provenance preserved.
 - [ ] **6.6** **Propagate LIØNSBERG spelling across the entire Wiki.** Every appearance of `Lionsberg` / `LIONSBERG` (capital O) becomes `LIØNSBERG` (Ø). Careful handling for filenames, wiki links, frontmatter, and any external integrations.
@@ -283,7 +283,7 @@ _The Codex is not finished. It is a living seed. Ongoing co-creation through Omn
 _Detailed resolutions of all sixteen Strategic Decisions from Phase 2.5. See each decision for the canonical rationale that future authors will need to understand the canonical structure._
 
 ### D1 — Kingdom of LIONSBERG v0.1 disposition ✅
-**RESOLUTION:** Plans and Specifications becomes **Volume V of the Sacred Codex** (after the accessibility reorder per D12), with the Pattern Language as a subset. The Kingdom framing is kept — under [[Fractal Sovereignty]] there is no throne but the ineffable [[LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/ØNE]], so the Kingdom carries no monarchy. The v0.1 articulation is held as input and reference; the full structure and Table of Contents is to be rearticulated in Phase 3.A.1 (ToC sketch) → Phase 4 (full rebuild). Canonical Volume V root file: `The Kingdom of LIØNSBERG — Plans and Specifications.md`.
+**RESOLUTION:** Plans and Specifications becomes **Volume V of the Sacred Codex** (after the accessibility reorder per D12), with the Pattern Language as a subset. The Kingdom framing is kept — under [[Fractal Sovereignty]] there is no throne but the ineffable [[ØNE]], so the Kingdom carries no monarchy. The v0.1 articulation is held as input and reference; the full structure and Table of Contents is to be rearticulated in Phase 3.A.1 (ToC sketch) → Phase 4 (full rebuild). Canonical Volume V root file: `The Kingdom of LIØNSBERG — Plans and Specifications.md`.
 
 ### D2 — 12 Pillars / 12 Domains harmonization ✅
 **RESOLUTION:** Deferred to Phase 4. The current Pattern Language structure (12 Elements → 7 Moves → 12 Domain Patterns) is a first-pass figment and will be completely rearticulated as part of the Volume V rebuild. No harmonization work is needed in Phase 3; the rebuild will resolve the structural question natively.
