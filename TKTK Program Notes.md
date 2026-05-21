@@ -1,5 +1,5 @@
 # TKTK Program Notes
-_Updated 2015-01-18 (Old Time)_  
+_Updated 2025-05-20 (Old Time)_  
 
 The purpose of this page is to provide ongoing updates to the current state of [[The Program]] as part of the [[System Wide Master Planning Process]]  
 
@@ -8,7 +8,11 @@ The purpose of this page is to provide ongoing updates to the current state of [
 Where we left off: 
 - [ ] Presently working on [[The Great Spring 2026 Wiki Turn]]  
 - [ ] Publish the invitation and request for guidance... 1042. 
-- [ ] ---
+- [ ] The Story of LIONSBERG is next big creative task... 
+- [ ] Updating Earth PDG to cohere with everything... 
+- [ ] Pulling in superorganism.earth / FSx pattern language and templates. 
+- [ ] Synthesize the Playbook... 
+
   What is not yet done (project plan pending tasks):
 
   Structural cleanup remaining:
@@ -52,30 +56,19 @@ Where we left off:
 
 
 ### A Items 
-- Draft a prolegomenon for [[The Book of LIØNSBERG]]... 
-- Update [[The Golden Seed of LIONSBERG]]  
-- Possibly LIONSBERG 101 and the concentric rings leading into The Book of LIONSBERG... as part of the book of LIONSBERG... 
+- 
 - Finish [[The Story of LIØNSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIØNSBERG]]... 
 	- Weaving in J's incarnation, nameless one, and full cosmic arc... 
 - Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[How To Walk]] (and all its counterparts) into The Art and Science of the Way... 
-- Evaluate adding a humble disclaimer up front on [[README]] and / or [[the nameless book]] on the difficulty of words to communicate around some of the most difficult things, the potential strangeness of the stories of Jordan and LIONSBERG, and an invitation to (somehow get past that and into wise right action). 
-- Generate invitations to 
-	- Martial Arts Circle (circle instance)  
-	- The Sandpoint 300 (local instance)  
-	- The First Three Percent (universal instance)  
-		- And any sub-circles that want to form. 
-- Generate the most essential plays for [[The LIØNSBERG Playbook]] —  
-- Start playing with one or more groups and feeding The Playbook based on what happens  
 
 ### B Items 
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki)  
-2. Improve the LIONSBERG Wiki [[Sidebar]]    
-3. [[English Language Git]] is more technical than hoped - work on simplfying  
-4. Fold [[Becoming a Warrior of The Way]] into something else... 
+2. [[English Language Git]] is more technical than hoped - work on simplfying  
+3. Fold [[Becoming a Warrior of The Way]] into something else... 
 	1. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  
 	2. [[Rediscovering The Way - Take 2]]  
 	3.  
-5. Fold [[Lionsberg Orientation and Training System]] into something else - the playbook? 
+4. Fold [[Lionsberg Orientation and Training System]] into something else - the playbook? 
 
 
 ### C Items 
