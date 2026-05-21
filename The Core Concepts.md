@@ -1,3 +1,3 @@
 # The Core Concepts
 
-See [[Welcome to LIØNSBERG]] 
+See [[The Core Concepts of LIONSBERG]] 

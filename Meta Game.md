@@ -22,7 +22,7 @@ Like the [[Meta Project]], no one "owns" the universal and eternal Meta Game tha
 
 And yet in order for us to play it, pragmatic requirements emerge around structure, governance, currencies, and other pragmatic issues that demand that a framework emerge. 
 
-The Lionsberg [[The Kingdom of LIØNSBERG — Plans and Specifications]] was purpose-built to empower the Meta Community to act out and embody the Meta Project / Meta Game / Meta Idea. 
+The Lionsberg [[Provisional Structure]] was purpose-built to empower the Meta Community to act out and embody the Meta Project / Meta Game / Meta Idea. 
 
 Therefore as a bridge between the [[Meta]] level of abstraction, the incarnation of that framework / spirit / goal in our time and place, we are proposing that we try to figure out how to play the Lionsberg | Meta Game in parallel with the Lionsberg | Meta Project. 
 

@@ -79,8 +79,8 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - The companies Jordan is stewarding win $100 Million in new contracts in their first few years, creating cash flow and opportunities to resource living experiments in human and team dynamics across multiple companies and teams. 
 #### **January 2019: LIONSBERG Provisional Structure Approved, Platform Development Begins**
 
-- Informed by lifetimes of research and pilot projects such as [[Mondragon]], the LIONSBERG [[The Kingdom of LIØNSBERG — Plans and Specifications]] is approved by the United States IRS, enabling initial resources to flow to the non-profit / open-source side of the mission. 
-- The [[The Kingdom of LIØNSBERG — Plans and Specifications]] is used to resource and accelerate the co-creation of the Lionsberg Platform. 
+- Informed by lifetimes of research and pilot projects such as [[Mondragon]], the LIONSBERG [[Provisional Structure]] is approved by the United States IRS, enabling initial resources to flow to the non-profit / open-source side of the mission. 
+- The [[Provisional Structure]] is used to resource and accelerate the co-creation of the Lionsberg Platform. 
 - Over subsequent years, the first 10% of the main technological platform is tested with hundreds of groups in dozens of countries under the Open Impact banner. 
 
 #### **2019: Collision with the Corruption of Church and State** 
@@ -160,7 +160,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - While he is there, hundreds of young leaders are shot, arrested, disappeared, or killed by government forces, while children go hungry for lack of ten cent daily rations of gruel. Powerful new insights and breakthroughs occur.   
 - Upon returning, spiritual and energetic warfare intensifies dramatically.  
 - On [[August 10th]], 2025, [[J]] is killed in [[The War]] (see [[Oops, We Lost J - Final Post]]).  
-- The emerging body of LIONSBERG, including its [[The Kingdom of LIØNSBERG — Plans and Specifications]] and accounts, is laid to rest with J. 
+- The emerging body of LIONSBERG, including its [[Provisional Structure]] and accounts, is laid to rest with J. 
 - Because the structure was provisional by design, the valuable parts were not lost. What remains is the open source and decentralized writings, protocols, plays, and technologies now freely available for any circle or community on Earth to adopt and embody if they so desire.  
 - [[J's Death]] is necessary, good, and paves the Way for [[Something Powerful, New, and Good]] to emerge.  
 
@@ -222,9 +222,9 @@ By 2026, **LIONSBERG** aims to connect and empower **[[The First Three Percent]]
 
 ### **Investments**
 
-The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[The Kingdom of LIØNSBERG — Plans and Specifications]] and other personal contributions. As a result, [[LIØNSBERG]]'s only obligations are to [[ØNE]] and [[All]]. It is truly a free gift offered equally to All. 
+The developmental work through [[The 7 Year Window of Preparatory Work and Learning]] was financed entirely by [[Jordan Nicholas Sukut]] through the LIONSBERG [[Provisional Structure]] and other personal contributions. As a result, [[LIØNSBERG]]'s only obligations are to [[ØNE]] and [[All]]. It is truly a free gift offered equally to All. 
 
-A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[The Kingdom of LIØNSBERG — Plans and Specifications]] was abandoned and the accounts closed. 
+A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[Provisional Structure]] was abandoned and the accounts closed. 
 
 All investments and flows from 2026 onward will be through the decentralized structures self-organized by those playing [[The Great Game of LIØNSBERG]]. 
 
@@ -250,7 +250,7 @@ ______
 
 1. Continuously improve the [[LIØNSBERG Wiki]] and derivative publications   
 2. Broadcast [[The Message]] to create a field of gravitational attraction 
-3. Extend [[LIØNSBERG Invitation]] to those who resonate  
+3. Extend [[The Invitation]] to those who resonate  
 4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    
 5. Measure Time and Value via [[Lionsberg Units of Value (LUV)]]    
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  

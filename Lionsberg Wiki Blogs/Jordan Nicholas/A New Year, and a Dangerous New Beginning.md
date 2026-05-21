@@ -34,7 +34,7 @@ The formula for passing [[The Final Test]] is not easy, but it is **simple**:
 2. **Awaken and Unite [[The First Three Percent]] by 2026.** This group must lead humanity in overcoming the [[Meta Crisis]] and forging a [[New Era]].
 3. **Develop [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams, Groups, and Localities.** Each must stand independently, while cooperating harmoniously with others.
 4. **Adopt the New Patterns and Protocols from the [[Bottom Up]].** Interoperability and harmony must emerge organically through voluntary poly-centric adoption of the [[New Paradigm]].  
-5. **Extend [[LIØNSBERG Invitation]] to Humanity by 2030.** Ensure that no individual or locality is [[Involuntarily Left Behind]].
+5. **Extend [[The Invitation]] to Humanity by 2030.** Ensure that no individual or locality is [[Involuntarily Left Behind]].
 
 This task is monumental, and the risks of failure are immense. After all, humanity has never consciously reorganized itself at this scale before.
 

@@ -101,14 +101,14 @@ But before we can change the world, we need to heal and transform our Selves, Co
 
 As mentioned above, March is the pivotal month where The Seed formulated during [[The 7 Year Window of Preparatory Work and Learning]] will be planted into the ground, and hopefully spring to life and begin self-sustaining and self-replicating. 
 
-In March, the game plan is for [[Jordan]] first, and then [[Us]], to extend [[LIØNSBERG Invitation]] so that the offering can be accepted or rejected, and see if it is possible to get through the first 5 [[Lionsberg Cycles of Growth]] that form the initial 12+1 [[Co-Creators]]. 
+In March, the game plan is for [[Jordan]] first, and then [[Us]], to extend [[The Invitation]] so that the offering can be accepted or rejected, and see if it is possible to get through the first 5 [[Lionsberg Cycles of Growth]] that form the initial 12+1 [[Co-Creators]]. 
 
 [[Jordan]] is going to initiate the individual invitations on two polar  fronts: 
 
 1. Universally (to people around the world)  
 2. Locally (to people in Sandpoint, Idaho)  
 
-The role of the Sandpoint [[Instantiation]] is to force the hard work of testing how to bring the [[The LIØNSBERG Sacred Codex]] to bear locally / bioregionally, while Jordan is available to personally guide it through [[Inception]] phase as a Prototype. 
+The role of the Sandpoint [[Instantiation]] is to force the hard work of testing how to bring the [[Lionsberg System and Approach]] to bear locally / bioregionally, while Jordan is available to personally guide it through [[Inception]] phase as a Prototype. 
 
 The role of the universal invitation is to begin to forge from the outset the broadest voluntary association of Individuals of Goodwill, to support group formation and implementation by [[Individuals and Localities]] around the world. 
 
@@ -120,11 +120,11 @@ Goals should be SMART - Specific, Measurable, Achievable, Relevant and Time boun
 
 Because we do not yet have a formal Team structure, Jordan is going to break the rules, select 5 Goals for March, and try to coalesce a small group to ensure they are achieved. 
 
-The individuals accepting [[LIØNSBERG Invitation]] and helping accomplish The Goals for March will together, in [[Teams]], then formulate [[Quarterly Quests]] for Q2 2024. 
+The individuals accepting [[The Invitation]] and helping accomplish The Goals for March will together, in [[Teams]], then formulate [[Quarterly Quests]] for Q2 2024. 
 
 ### Goal 1: Invitation, Inception, and 3 to 5 Cycles of Growth (Complete) 
 
-1. Plant [[The Golden Seed]] via [[LIØNSBERG Invitation]], and complete the first three to five [[Lionsberg Cycles of Growth]].  
+1. Plant [[The Golden Seed]] via [[The Invitation]], and complete the first three to five [[Lionsberg Cycles of Growth]].  
 	1. Bonus: Complete three to five cycles locally, AND three to five cycles universally, so two parallel starting points are growing.  
 	2. Cycle Structure  
 		1. Cycle 1: 2 Co-Creators  
@@ -146,7 +146,7 @@ The individuals accepting [[LIØNSBERG Invitation]] and helping accomplish The G
 
 ### Goal 4: Publish a Book (Scheduled For First Week of April) 
 
-4. Finish consolidating a summary of Jordan's writing on [[Lionsberg Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[LIØNSBERG Invitation]] in future cycles to help [[Individuals]] get up to speed. 
+4. Finish consolidating a summary of Jordan's writing on [[Lionsberg Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[The Invitation]] in future cycles to help [[Individuals]] get up to speed. 
 	1. Bonus - Get one local store in Sandpoint to agree to carry physical copies 
 
 ### Goal 5: Resource Runway 

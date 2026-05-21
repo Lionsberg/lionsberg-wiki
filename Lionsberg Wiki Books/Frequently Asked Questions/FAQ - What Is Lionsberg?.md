@@ -4,7 +4,7 @@
 
 Already operational in various cosmic realms, it includes systems, infrastructure, and technology purpose built to enable humanity to regenerate the world and co-create a New Civilization. 
 
-[[Welcome to LIØNSBERG]]  
+[[Lionsberg Metaphors]]  
 
 See also [[LIØNSBERG]]  
 

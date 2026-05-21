@@ -6,4 +6,4 @@ All published content is assigned to the emergent [[Lionsberg Intellectual Conte
 
 As an open and transparent system, Lionsberg is built to cultivate, steward, and distribute information, knowledge, and wisdom as widely as possible for the Good of All. 
 
-Additional information can be found in the [[The LIØNSBERG Constitution]]. Participants should expect that wise, right, true and good ideas they express will be celebrated, curated, and synergized into the [[Lionsberg Commons]] for free access, use, and expression by Members. 
+Additional information can be found in the [[Lionsberg Participation Agreement]]. Participants should expect that wise, right, true and good ideas they express will be celebrated, curated, and synergized into the [[Lionsberg Commons]] for free access, use, and expression by Members. 

@@ -30,7 +30,7 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 
 ## The Lionsberg History, Inception, and Trust Manifesto
 
-[[Welcome to LIØNSBERG]]  
+[[LIONSBERG - History, Inception, and Trust Manifesto]]  
 
 ## The Lionsberg Lexicon
 
@@ -38,17 +38,17 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 
 ## The WatchWords of Lionsberg
 
-[[Welcome to LIØNSBERG]]  
+[[The Watchwords of LIONSBERG]]  
 ## The Lionsberg Core Documents
 
 - [[OneLionsberg]]
-- [[Welcome to LIØNSBERG]]  
-- [[The Kingdom of LIØNSBERG — Plans and Specifications]]   
-- [[Welcome to LIØNSBERG]]  
-- [[Welcome to LIØNSBERG]]  
-- [[Welcome to LIØNSBERG]]  
-- [[Welcome to LIØNSBERG]]  
-- [[The Kingdom of LIØNSBERG — Plans and Specifications]]  
-- [[The LIØNSBERG Sacred Codex]]  
+- [[Lionsberg Spirit]]  
+- [[Lionsberg Intention]]   
+- [[Lionsberg Vision]]  
+- [[Lionsberg Mission]]  
+- [[Lionsberg Metaphors]]  
+- [[Lionsberg Personality]]  
+- [[Lionsberg Structure]]  
+- [[Lionsberg System and Approach]]  
 
 [[The Lionsberg Core Documents]]  

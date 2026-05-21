@@ -3,7 +3,7 @@ In the [[LIØNSBERG System]], Action Domains refer to specific spheres of knowle
 
 Action Domains are integrated and coordinated within [[Integration Domains]]. 
 
-The [[The Kingdom of LIØNSBERG — Plans and Specifications]] articulates 12 "For Profit" and 12 "Non Profit" Action Domains, while advancing towards the elimination of this false dichotomy. 
+The [[Provisional Ontology]] articulates 12 "For Profit" and 12 "Non Profit" Action Domains, while advancing towards the elimination of this false dichotomy. 
 
 ## 12 For-Profit Action Domains
 1. Environmental 

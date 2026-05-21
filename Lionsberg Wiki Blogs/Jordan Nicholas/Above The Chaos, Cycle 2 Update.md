@@ -13,9 +13,9 @@ For some thoughts on where we are, where we are going, and why, see the reflecti
 
 For some thoughts on how we can integrate and align our activities across time into a coherent Whole, there is a book in progress called the Lionsberg [[Lionsberg Integrated Delivery Guide]]. 
 
-For some thoughts on Structure, see [[The Kingdom of LIØNSBERG — Plans and Specifications]], which includes a video of Bill Larson and I discussing some of what was designed and built as a starting point and why.
+For some thoughts on Structure, see [[Provisional Structure]], which includes a video of Bill Larson and I discussing some of what was designed and built as a starting point and why.
 
-For a super high level simple statement, see the [[Welcome to LIØNSBERG]] (Draft for Review). 
+For a super high level simple statement, see the [[Provisional Declaration]] (Draft for Review). 
 
 For a detailed statement at a higher level of analysis, see the [[Meta Project Program Statement]] (Draft For Review).
 

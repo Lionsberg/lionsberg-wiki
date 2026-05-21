@@ -21,7 +21,7 @@ We anticipate that the [[Critical Path]] lies along a tipping point strategy cen
 Our hypothesis is that the stories and experiences will flow from getting into action as a community on a series of projects to meet needs and solve problems, that can grow in their scope and complexity over time. 
 
 ## Embodiment 
-While we recognize that what is trying to emerge is universal in scope, we also recognize that we need a structure and place to act out the "Spirit" of it - for that reason we have established [[LIØNSBERG]] and the Lionsberg [[The Kingdom of LIØNSBERG — Plans and Specifications]]. 
+While we recognize that what is trying to emerge is universal in scope, we also recognize that we need a structure and place to act out the "Spirit" of it - for that reason we have established [[LIØNSBERG]] and the Lionsberg [[Provisional Structure]]. 
 
 ## Clear Written Articulations   
 - Clear mythical name: [[LIØNSBERG]]  
@@ -31,21 +31,21 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 	- Lionsberg | Elevation Initiative 
 	- et al. - expandable to a growing array of initiatives  
 - Website - [Lionsberg Wiki](https://lionsberg.wiki)  
-- [[Welcome to LIØNSBERG]]  - Sums up the entire System / Platform / Community in one sentence  
+- [[One Sentence]]  - Sums up the entire System / Platform / Community in one sentence  
 - [[Welcome to LIØNSBERG]]  
-- [[The Kingdom of LIØNSBERG — Plans and Specifications]] - The Intention  
-- [[The Goal]] - The Aim
+- [[Lionsberg Intention]] - The Intention  
+- [[LIONSBERG Goal]] - The Aim
 - [[Core Values]] - Briefly outlines the foundation in universal / core Values  
-- [[Welcome to LIØNSBERG]] - Briefly paints a picture of the outcome  
-- [[Welcome to LIØNSBERG]] - Briefly explains what we do to realize the vision / intention / Goal  
-- [[The LIØNSBERG Constitution]] - Briefly outlines the inception, history, and resourcing of the initiative to date to create transparency into origins  
-- [[Welcome to LIØNSBERG]] - Placeholder as Constitution is developed 
+- [[Lionsberg Vision]] - Briefly paints a picture of the outcome  
+- [[Lionsberg Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
+- [[Provisional Trust Manifesto]] - Briefly outlines the inception, history, and resourcing of the initiative to date to create transparency into origins  
+- [[Provisional Declaration]] - Placeholder as Constitution is developed 
 - [Lionsberg Wiki](https://www.Lionsberg.wiki) - Portal to hundreds pages of supporting content, details, and concepts  
 
 ## Clear Legal and Governance Structure 
 We have instantiated an innovative hybrid legal and governance structure capable of dealing with holofractal cosmic scales, non-profit, for-profit, public, and political resource flows. 
 
-- [[The Kingdom of LIØNSBERG — Plans and Specifications]]  
+- [[Provisional Structure]]  
 - [[The Lionsberg Handbook]]  
 
 ## Clear Focus For Action / Doing 

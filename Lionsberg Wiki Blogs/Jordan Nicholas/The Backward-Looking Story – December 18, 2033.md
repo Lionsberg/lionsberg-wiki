@@ -56,7 +56,7 @@ We reached out through every channel—stories, networks, personal connections, 
 
 **The response was extraordinary.**
 
-By 2030, every human being on Earth had been touched by [[LIØNSBERG Invitation]], from someone they loved and trusted. Some accepted immediately, others hesitated, and of course there were [[The Last Three Percent]] most entrenched in the [[Old]] and opposed to the [[New]]. But all were offered the opportunity to participate and add their unique Voice to the Symphony of transformation. The shift was not forced—it was chosen. Voluntarily, one by one, from the bottom up. The power of the New Operating System was self-evident, and its principles—such as Truth, Love, Justice, Stewardship, Wisdom, Liberty and mutual empowerment—were universally compelling.
+By 2030, every human being on Earth had been touched by [[The Invitation]], from someone they loved and trusted. Some accepted immediately, others hesitated, and of course there were [[The Last Three Percent]] most entrenched in the [[Old]] and opposed to the [[New]]. But all were offered the opportunity to participate and add their unique Voice to the Symphony of transformation. The shift was not forced—it was chosen. Voluntarily, one by one, from the bottom up. The power of the New Operating System was self-evident, and its principles—such as Truth, Love, Justice, Stewardship, Wisdom, Liberty and mutual empowerment—were universally compelling.
 
 In 2030, the transition became official: the old systems were being hospiced and retired, and the New Operating System was being fully embraced. Humanity was crossing the threshold into a New Era.
 

@@ -25,7 +25,7 @@ Until we have something better in place, here are some starting points that begi
 ## Intention, Vision, and Goal
 Without a shared intention, vision, and goal, it will be impossible to align our Selves and move together.  
 
-- [[Welcome to LIØNSBERG]]  - A very basic articulation  
+- [[Provisional Declaration]]  - A very basic articulation  
 - [[Best Possible Future]] - Includes a working Vision  
 
 ## Individual Resources

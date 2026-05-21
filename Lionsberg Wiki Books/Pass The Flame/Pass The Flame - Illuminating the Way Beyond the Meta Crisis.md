@@ -1641,9 +1641,9 @@ As they approached the Spring Equinox of 2024, after lifetimes and preparation a
 
 As The Awakening Lit Their Candles, whispered, and began to Move together, those who were ready to awaken would hear and begin stirring. As they stirred, those already [[On The Path]] would hear the rustling of chains, attend to the awakening, and do whatever was required to inspire and breathe Life and Hope back into the individual.  
 
-At the [[Wise Right]] Time, they would extend [[LIØNSBERG Invitation]] to [[Join The Movement]].  
+At the [[Wise Right]] Time, they would extend [[The Invitation]] to [[Join The Movement]].  
 
-Upon accepting [[LIØNSBERG Invitation]], the individual would be led through an [[Orientation and Onboarding Process]] to ensure they understood [[The Rules]] of the [[New Game]], and knew how to follow the [[Milestones]] that marked the Way towards [[The Goal]].  
+Upon accepting [[The Invitation]], the individual would be led through an [[Orientation and Onboarding Process]] to ensure they understood [[The Rules]] of the [[New Game]], and knew how to follow the [[Milestones]] that marked the Way towards [[The Goal]].  
 
 To their astonishment and joy, it began working! As the awakened simply Whispered, Passed The Flame, and made their Way towards The Boundary, those who were ready to hear heard.  
 

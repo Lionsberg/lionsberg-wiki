@@ -5114,7 +5114,7 @@ ______
 TKTK - Left off Here... Published... then folded into the logic of The LIONSBERG Experience folder:  
 - [[README]]  
 - [[Welcome to LIØNSBERG]]  
-- [[LIØNSBERG Invitation]]  
+- [[The Invitation]]  
 - [[Welcome to LIØNSBERG]]  
 - [[The Story of LIØNSBERG]]  
 - [[The Great Game]]  

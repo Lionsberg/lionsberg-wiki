@@ -33,34 +33,8 @@ Each archived item is held under a brief disposition note explaining what was ar
 
 _(Populated as material is processed and archived. Each entry: name · date archived · canonical destination · brief note.)_
 
-### 2026-05-20 Bootstrap Documents Archive (Great Spring 2026 Wiki Turn)
-
-The pre-Spring-2026-Turn bootstrap documents from `LIONSBERG Core Documents/` — written 2022-2024, before the present canonical structure emerged. Each is preserved as procession; canonical content now lives in the entry points and Volumes named.
-
-**The Manifesto and Summary:**
-- **[[LIONSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]** → Canonical now: [[README|Wiki Homepage]] + the journey through [[Welcome to LIØNSBERG]] · [[The LIØNSBERG Experience]] · [[The Great Game of LIØNSBERG]] · [[The LIØNSBERG Sacred Codex|the Codex]]
-- **[[Lionsberg Summary (Archived 2026-05-20)]]** → Canonical now: [[LIØNSBERG Summary]] stub at root of Core Documents pointing to README + Welcome + Codex + Experience + Wiki Books
-
-**Declaration of InterDependence (2 versions):**
-- **[[LIONSBERG Declaration of InterDependence (Archived 2026-05-20)]]** · **[[LIONSBERG Declaration of Interdependence (v.01) (Archived 2026-05-20)]]** → Canonical now: [[Welcome to LIØNSBERG]]
-
-**Core Statements folder (Vision · Mission · Values · Goal · Context · Process · Intention · Metaphors · One Sentence · Personality · Spirit · Structure · System and Approach · Core Concepts · Watchwords):**
-- **[[LIONSBERG Context (Archived 2026-05-20)]]** · **[[LIONSBERG Core Statements (Archived 2026-05-20)]]** · **[[LIONSBERG Goal (Archived 2026-05-20)]]** · **[[LIONSBERG Process (Archived 2026-05-20)]]** · **[[LIONSBERG Values (Archived 2026-05-20)]]** · **[[Lionsberg Intention (Archived 2026-05-20)]]** · **[[Lionsberg Metaphors (Archived 2026-05-20)]]** · **[[Lionsberg Mission (Archived 2026-05-20)]]** · **[[One Sentence (Archived 2026-05-20)]]** · **[[Lionsberg Personality (Archived 2026-05-20)]]** · **[[Lionsberg Spirit (Archived 2026-05-20)]]** · **[[Lionsberg Structure (Archived 2026-05-20)]]** · **[[Lionsberg System and Approach (Archived 2026-05-20)]]** · **[[Lionsberg Vision (Archived 2026-05-20)]]** · **[[The Core Concepts of LIONSBERG (Archived 2026-05-20)]]** · **[[The Watchwords of LIONSBERG (Archived 2026-05-20)]]** → Canonical now: [[Welcome to LIØNSBERG]] · [[The LIONSBERG System of Values]] · [[The Daily Way]] · [[The Goal]] · [[The Kingdom of LIØNSBERG — Plans and Specifications]] · [[The LIØNSBERG Sacred Codex]]
-
-**Provisional Documents folder (Code · Community Agreements · Conditions · Declaration · Ontology · Structure · Trust Manifesto · main):**
-- **[[LIONSBERG Provisional Documents (Archived 2026-05-20)]]** · **[[Provisional Code (Archived 2026-05-20)]]** · **[[Provisional Community Agreements (Archived 2026-05-20)]]** · **[[Provisional Conditions (Archived 2026-05-20)]]** · **[[Provisional Declaration (Archived 2026-05-20)]]** · **[[Provisional Ontology (Archived 2026-05-20)]]** · **[[Provisional Structure (Archived 2026-05-20)]]** · **[[Provisional Trust Manifesto (Archived 2026-05-20)]]** → Canonical now: [[The LIØNSBERG Constitution]] · [[The Kingdom of LIØNSBERG — Plans and Specifications]] · [[The LIØNSBERG Pattern Language]]
-
-**Field of Agreements folder (Membership Agreement · Participation Agreement · Book of Agreements · main):**
-- **[[Lionsberg Membership Agreement (Archived 2026-05-20)]]** · **[[Lionsberg Participation Agreement (Archived 2026-05-20)]]** · **[[The Lionsberg Book of Agreements (Archived 2026-05-20)]]** · **[[The Lionsberg Field of Agreements (Archived 2026-05-20)]]** → Canonical now: [[The LIØNSBERG Constitution]] · [[The LIØNSBERG Pattern Language]] (Element 3 — Field of Agreements)
-
-**History / Operating System (root files):**
-- **[[LIONSBERG - History, Inception, and Trust Manifesto (Archived 2026-05-20)]]** → Canonical now: [[Welcome to LIØNSBERG]]
-- **[[The LIONSBERG Operating System (LIOS) (Archived 2026-05-20)]]** → Canonical now: [[The LIØNSBERG Sacred Codex]] (the Codex IS the Operating System)
-
-**Invitation cycles and drafts (Spring 2024 Experiment + earlier v.0.1-v.0.4 + Summer 2025 Reflection):**
-- **[[The Invitation, Cycle 1 (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 1 (draft not sent) (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 3 (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 7 (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 7 (old) (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 8 (Archived 2026-05-20)]]** · **[[The Invitation, Cycle 9 (Archived 2026-05-20)]]** · **[[The Invitation, v.0.4 (Archived 2026-05-20)]]** · **[[Lionsberg Invitation v.01 (Archived 2026-05-20)]]** · **[[Lionsberg Invitation v0.2 (Archived 2026-05-20)]]** · **[[Lionsberg Invitation v.0.3 (Archived 2026-05-20)]]** · **[[Reflection and Invitation - Summer 2025 (Archived 2026-05-20)]]** → Canonical now: [[LIØNSBERG Invitation]] (canonical pointer stub at root of Core Documents) pointing to [[README]]
-
-Total archived 2026-05-20: ~44 files. The procession is honored; the canonical body now stands clear at the entry points named above.
+- **[[LIONSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]** — _Archived 2026-05-20._ Canonical destination: [[README|the Wiki Homepage]] is the current canonical manifesto; the journey through [[Welcome to LIØNSBERG]] · [[The LIØNSBERG Experience]] · [[The Great Game of LIØNSBERG]] · the rest of [[The LIØNSBERG Sacred Codex|the Codex]] carries the manifesto's promise into operational practice. Note: a 7,186-byte 2023 articulation of the LIONSBERG Manifesto. Superseded by the README's stronger Golden Seed framing. Preserved as procession.
+- **[[Lionsberg Summary (Archived 2026-05-20)]]** — _Archived 2026-05-20._ Canonical destination: [[LIØNSBERG Summary]] (the canonical pointer stub at the root of LIONSBERG Core Documents) lists the current entry points — [[README]] · [[Welcome to LIØNSBERG]] · [[The LIØNSBERG Sacred Codex]] · [[The LIØNSBERG Experience]] · [[Lionsberg Wiki Books]]. Note: a 38-line curated map listing 15 documents with one-sentence orientations, created in an earlier era of the wiki when no single canonical entry point existed. The function it served — "give me the lay of the land in 15 links" — is now carried by the canonical entry points above. Preserved as procession.
 
 ---
 

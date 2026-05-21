@@ -55,7 +55,7 @@ We are beginning to shoot early foundational footage to begin to empower [[The M
 ____  
 We are laying the framework for a series of historic [[Citizen Led Joint Ventures]] to clean up the most polluted sites around the world, stop the toxic pollution of our air, water, and soil at their sources, and transform the landfills that blight our landscapes and poison our groundwater into sources of energy and materials to fuel the reconstruction and regeneration of our communities and our world.  
 ___  
-We are examining how we can continuously improve and advance the Lionsberg [[The Kingdom of LIØNSBERG — Plans and Specifications]] that enables every human being on Earth to take up an equal Citizenship in The Commons and the New Era we are co-creating over the course of the [[10 Year Grand Strategy]]. 
+We are examining how we can continuously improve and advance the Lionsberg [[Provisional Structure]] that enables every human being on Earth to take up an equal Citizenship in The Commons and the New Era we are co-creating over the course of the [[10 Year Grand Strategy]]. 
 
 This promises to connect and empower every human being on earth, for the first time in history, with equal access to a lifelong journey of learning and development towards the fullness of their unique potential, while shattering the paywalls and obstacles that separate citizens around the world from their [[Collective Inheritance]] and [[Collective Intelligence]].  
 _____  
@@ -95,7 +95,7 @@ Our most important job is to Embody the Way, and Pass The Flame.
 
 We will know The Flame has been successfully passed when each new co-creator: 
 
-1. Accepts [[LIØNSBERG Invitation]] to [[Join The Movement]]  
+1. Accepts [[The Invitation]] to [[Join The Movement]]  
 2. Forges or Joins a Group / Team  
 3. Initiates a [[Quarterly Quest]]   
 4. Contributes - Time / Energy / Resources / Relationships  

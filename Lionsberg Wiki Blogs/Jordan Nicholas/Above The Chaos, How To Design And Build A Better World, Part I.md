@@ -36,7 +36,7 @@ From this, we derived the notion of a single highest overarching and uniting Goa
 ### Part 2: Design and Build a Container for the Energy and Resources Required
 Designing and building a better world will require that we coordinate the [[Flow]] of billions of dollars of resources, and billions of hours of human [[Time]] and [[Potential]]. This cannot happen in the abstract. We must be able to take in resources and metabolize them into energy that produces [[Throughput]] of [[The Goal]]. 
 
-We brought together lifetimes of work to co-create a [[The Kingdom of LIØNSBERG — Plans and Specifications]] as a starting point. 
+We brought together lifetimes of work to co-create a [[Provisional Structure]] as a starting point. 
 
 ### Part 3: Create a Mythical Name, and Descriptive Names
 Setting up structures, bank accounts, and relating to the world requires a Name. 
@@ -53,7 +53,7 @@ We brought together lifetimes of work to co-create a provisional [[LIONSBERG Int
 ### Part 5: Create a Philosophy, Ethic, and Structure of Values to Integrate and Guide the System towards the Goal 
 Integrating diverse elements into [[Higher Order Functional Unity]] requires a uniting [[Philosophy]], Ethic, and Structure of [[Values]]. 
 
-See [[Core Values]], [[Values]], [[The LIØNSBERG Constitution]], [[Value]], [[Meta]], [[ØNE]]. 
+See [[Core Values]], [[Values]], [[Provisional Code]], [[Value]], [[Meta]], [[ØNE]]. 
 
 ## Step 2: Forge a Starting Point
 Because we are attempting the total transformation of a complex adaptive System, the specific entry point is not as important as beginning. 

@@ -172,7 +172,7 @@ The following morning (August 10, 2025), the attacks reached their peak. J relea
 
 **The Dissolution of All Central Structures**
 
-Following J's death, the [[The Kingdom of LIØNSBERG — Plans and Specifications]] that enabled LIONSBERG to emerge was vacated and dissolved. This meant:
+Following J's death, the [[Provisional Structure]] that enabled LIONSBERG to emerge was vacated and dissolved. This meant:
 
 - **No central organization** remained
 - **No bank accounts or employees** to pay

@@ -97,7 +97,7 @@ The tens of thousands of Concepts
 And millions of Words herein.  
 Here is One Path:  
 
-1. **[[LIØNSBERG Invitation]]** — Accept the Call.
+1. **[[The Invitation]]** — Accept the Call.
     
 2. **[[Overview of the System & Way]]** — See the Pattern.
     

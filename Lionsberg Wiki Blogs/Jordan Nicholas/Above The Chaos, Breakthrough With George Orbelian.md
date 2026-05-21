@@ -6,7 +6,7 @@ A post in [[Above The Chaos]]
 
 [[George Orbelian]] has spent the last 10 years curating and mapping the people and solutions required to accomplish [[The Goal]]. He has assembled these in an epic document he calls BREAKTHROUGH.  
 
-Below we begin to weave and interlink the solutions and concepts with the [[The LIØNSBERG Sacred Codex]], and make the combination available to the public for the first time.  
+Below we begin to weave and interlink the solutions and concepts with the [[Lionsberg System and Approach]], and make the combination available to the public for the first time.  
 
 The 116,000 words below, along with hundreds of links to videos, websites, solutions, and themes, already represent a university degree full of information on the transformation of our lives and our world.  
 

@@ -2,4 +2,4 @@
 
 What we do to [[Realize]] our Vision, Intention, and Goal. 
 
-See [[Welcome to LIØNSBERG]]  
+See [[Lionsberg Mission]]  

@@ -111,7 +111,7 @@ Where we left off:
 	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
 	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files.  
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
-	3. 🔄 Weave into [[The Story of LIØNSBERG]] and [[Welcome to LIØNSBERG]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
+	3. 🔄 Weave into [[The Story of LIØNSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
 		1. Weave [[The Caves]] and the wilderness journey into [[The Story of LIØNSBERG]]  
 	
 11. 🔄 **THE PLAY**
@@ -175,7 +175,7 @@ Easy...
 - Drafted [[The Story of LIØNSBERG]]  
 - Drafted [[The Great Game of LIØNSBERG]]  
 - Drafted [[The LIØNSBERG Playbook]]  
-- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[LIØNSBERG Invitation]] which leads to [[The Threshold Experience]] of [[the nameless book]]...  
+- At the Wise Right Time, drop [[The Seed]] into a one or two groups and see what happens via [[The Invitation]] which leads to [[The Threshold Experience]] of [[the nameless book]]...  
 - With [[The LIØNSBERG Experience]] now outlined, and [[The Story of LIØNSBERG]] approximated in outline... 
 - Forged the overall structure, approximation of The Gates, and Threshold experience that will define each movement (still needs a lot of work)
 
@@ -200,7 +200,7 @@ Passing through **[[The 144 Gates of Initiation]]**
     
 4. **[[Welcome to LIØNSBERG]]** ✅ (209 words)
     
-5. **[[LIØNSBERG Invitation]]** ✅ (314 words)
+5. **[[The Invitation]]** ✅ (314 words)
     
 6. **[[Welcome to LIØNSBERG]]** ✅ (498 words)
     
@@ -266,7 +266,7 @@ _The First Contact, Gates of Entry, and Outer Courts_
     
 - **[[Welcome to LIØNSBERG]]** — Grounding and remembering.
     
-- **[[LIØNSBERG Invitation]]** — The call into The Story.
+- **[[The Invitation]]** — The call into The Story.
     
 - **[[Welcome to LIØNSBERG]]** — The shared vow.
     

@@ -101,7 +101,7 @@
 - Therefore there are two levels to work with: 
 	- Increase the understanding of the current and coming pain if we remain complacent, divided, dysfunctional, deceived 
 	- Reduce the *perceived pain* of "letting go" of the Old they are grasping to, and grabbing onto *something better.*
-- It so happens that we may be on the verge of suffering that could affect many generations over centuries to come if some of the patterns in [[1.3 Questions to Explore the Meta Crisis]] come to pass and existing systems fail before a [[New System]] / [[The LIØNSBERG Sacred Codex]] are in place. 
+- It so happens that we may be on the verge of suffering that could affect many generations over centuries to come if some of the patterns in [[1.3 Questions to Explore the Meta Crisis]] come to pass and existing systems fail before a [[New System]] / [[Lionsberg System and Approach]] are in place. 
 
 ## 10. Transcendence and Evolution, not Revolution - Honoring and Hospicing the Old while co-creating the New.
 
@@ -134,7 +134,7 @@ We The People, in order to establish a More Perfection Union:
 2. Are going to base everything on Light and Love (do no evil or harm, and help)
 3. Are going to lay down deceit and ideologies and navigate towards [[Wisdom]] and [[Truth]] 
 4. Are going to take back up our rightful responsibility and authority over our lives, our families, our communities, and our world via [[Citizen Led]] governance and impact 
-5. Are going to connect and empower one another through the [[The LIØNSBERG Sacred Codex]] 
+5. Are going to connect and empower one another through the [[Lionsberg System and Approach]] 
 6. Are going to resurrect the Spirit of America, and place her back in service of [[ØNE]] and [[All]]. 
 
 ## 13. Challenge: Reaching the ears of the deaf instead of preaching to the Choir

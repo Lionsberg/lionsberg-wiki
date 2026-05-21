@@ -10,4 +10,4 @@ Place holders were added to the conceptual structure for subsequent elements of 
 
 It was further recognized that these initial structures would need to be guided and coordinated as instruments deployed in concert with what would eventually be dozens of hundreds or instantiations around the world. 
 
-See [[The Kingdom of LIØNSBERG — Plans and Specifications]]. 
+See [[Provisional Structure]]. 

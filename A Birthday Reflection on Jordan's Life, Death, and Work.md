@@ -766,7 +766,7 @@ _Technology stack that humanity will require in the very near future_
 
 ## The Dissolution of All Provisional Structures
 
-Following [[J's Death]] the [[The Kingdom of LIØNSBERG — Plans and Specifications]]  
+Following [[J's Death]] the [[Provisional Structure]]  
 That enabled LIONSBERG to emerge   
 Was vacated and / or dissolved  
 Leaving no centralized organization, technology, or accounts  

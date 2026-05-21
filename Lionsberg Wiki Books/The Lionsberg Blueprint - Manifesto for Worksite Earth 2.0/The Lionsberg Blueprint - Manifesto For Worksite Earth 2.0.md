@@ -5,7 +5,7 @@ Welcome to the [[Force For Good]]. We are glad you are here.
 ## A Brief Orientation
 
 1. For a brief overview of the Lionsberg System and Approach, the following are the best starting points: 
-	1. The [[Welcome to LIØNSBERG]] question  
+	1. The [[One Sentence]] question  
 	2. The [[Welcome to LIØNSBERG]]  
 	3. The [[LIØNSBERG Manifesto]]  
 	4. The One Page and Executive Summaries below.  

@@ -4,7 +4,7 @@ Many of the governance systems of the [[Old World]] are corrupted beyond repair.
 
 Nevertheless, they are our bulwark against a [[Collapse]] into [[Tyranny]]. 
 
-The [[New Covenant]] and the [[The LIØNSBERG Sacred Codex]] is designed to be evolutionary rather than revolutionary. 
+The [[New Covenant]] and the [[Lionsberg System and Approach]] is designed to be evolutionary rather than revolutionary. 
 
 As we [[Pass The Flame]] and [[The Body]] self-organizes from the [[Bottom Up]], we can voluntarily take up our New and [[Highest Citizenship]] without sacrificing or laying down any of our existing memberships, affiliations, or citizenships. 
 

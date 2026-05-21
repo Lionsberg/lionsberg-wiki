@@ -117,7 +117,7 @@ The Lionsberg System emphasizes the importance of continuously improving and rem
 The Lionsberg System is designed to be a comprehensive and integrated approach to addressing the social, governmental, economic, spiritual, and environmental challenges of our time. It is based on a set of core values and principles that are aligned with the Meta Goal of establishing a more loving and just world in which all can flourish. The system includes the following components:
 
 -   A clear vision and mandate for the Lionsberg System, including a statement of purpose and goals, as well as a roadmap for how to achieve them. 
-	- [[Welcome to LIØNSBERG]]  
+	- [[Lionsberg Vision]]  
 	- [[Lionsberg Roadmap]]  
 -   A set of core values and principles to guide the behavior and decision-making of individuals and organizations within Lionsberg, and ensure that they are aligned with the Meta Goal. 
 	- [[The LIONSBERG System of Values]]   
@@ -143,15 +143,15 @@ The Lionsberg System is designed to be a comprehensive and integrated approach t
 -   A system for healthcare and wellness.
 
 [[LIØNSBERG System]] - System Intent  
-[[Welcome to LIØNSBERG]]  
-[[Welcome to LIØNSBERG]] - Vision & Intention  
+[[LIONSBERG - History, Inception, and Trust Manifesto]]  
+[[Provisional Declaration]] - Vision & Intention  
 [[Universal Values]] - Overarching & Uniting Values  
 [[Lionsberg Community]] - Community  
 [[Meta Project]] - Overarching & Uniting Project  
 [[Meta Story]] - Overarching & Uniting Story  
-[[The LIØNSBERG Constitution]] - Behavioral Code  
+[[Provisional Code]] - Behavioral Code  
 [[The Lionsberg Handbook]]  
-[[The Kingdom of LIØNSBERG — Plans and Specifications]] - Structure to Facilitate Emergence  
+[[Provisional Structure]] - Structure to Facilitate Emergence  
 [[Lionsberg Integrated Delivery Guide]] - Lionsberg Integrated Delivery System  
 [[Lionsberg Planning System]]  
 [[Lionsberg Engagement System]]  

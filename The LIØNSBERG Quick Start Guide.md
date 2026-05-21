@@ -151,7 +151,7 @@ Before closing, each person answers one question:
 
 > "Who are the 2 or 3 people I already know who are ready for this?"
 
-Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[LIØNSBERG Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
+Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
 
 You are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
 
@@ -225,7 +225,7 @@ This is not a later step. It begins **now** — in the first gathering.
 
 Each person in your circle already named 2 or 3 others who are ready. Within one week:
 
-1. **Share [[LIØNSBERG Invitation]]** with them — a single link is all it takes
+1. **Share [[The Invitation]]** with them — a single link is all it takes
 2. **Support them** as they read and gather their own circle
 3. **Be present** for their first gathering if they ask
 

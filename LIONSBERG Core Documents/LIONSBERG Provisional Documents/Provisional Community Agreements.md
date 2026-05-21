@@ -7,7 +7,7 @@ As a quick placeholder / [[Work In Progress]]...
 3. We are here in Service of the Highest Intention and Greatest Good of [[ØNE]] and [[All]].  
 4. We will [[Doing Our Best]] to do the [[Wise Right Thing]] in a Spirit of Love, Wisdom, and Goodness.  
 5. Politics, Religion, and Ideology must be checked at the door. LIONSBERG has no state religion, no ideology, no dogma, no orthodoxy, no politics, and no proselytizing. We are navigating towards Wisdom and Truth together in Community.  
-6. Aggregated resources will initially be transparently stewarded through the [[The Kingdom of LIØNSBERG — Plans and Specifications]] via the Lionsberg 501(c)(3) or one of its special purpose vehicles.   
+6. Aggregated resources will initially be transparently stewarded through the [[Provisional Structure]] via the Lionsberg 501(c)(3) or one of its special purpose vehicles.   
 7. All official meetings will be recorded, broadcasted and otherwise used as part of the [[LIONSBERG Media Project]] to engage hearts, minds, and momentum around the world.  
 8. If individuals wish to discuss non-public or proprietary information, individuals should set up separate forums for those discussions. 
 9. All ideas and thought generated in community is for the Common Good and will be stewarded as part of The LIONSBERG Commons. Until a successor agreement is developed, the Creative Commons license at the bottom of this web page will apply.  
@@ -18,8 +18,8 @@ As a quick placeholder / [[Work In Progress]]...
 14. All shared infrastructure, resources, and services will be stewarded and continuously improved as part of the [[Lionsberg Commons]].  
 15. We will continuously learn, grow, improve, and refine by engaging in regular [[Retrospection]] across all [[Levels of Analysis]].  
 16. We are committed to the Health, Wellbeing, and Development of flourishing and abundant Life and Consciousness at all levels - individual, group, local, social, planetary, and out to universal scale.  
-17. We will Do Our Best to abide by the Spirit, Intention, and Orientation from which the types of behaviors outlined in the [[The LIØNSBERG Constitution]] flow.  
-18. We will Do Our Best to affirm and uphold the Intention, Wisdom, Principles, Values, and Practices outlined in the Lionsberg Literature, which are foundational to the [[The LIØNSBERG Sacred Codex]].  
+17. We will Do Our Best to abide by the Spirit, Intention, and Orientation from which the types of behaviors outlined in the [[Provisional Code]] flow.  
+18. We will Do Our Best to affirm and uphold the Intention, Wisdom, Principles, Values, and Practices outlined in the Lionsberg Literature, which are foundational to the [[Lionsberg System and Approach]].  
 19. Members have the right and responsibility to participate in the governance, decision-making, and conflict resolution processes of the Lionsberg Community.
 20. Members have the responsibility to actively contribute to the maintenance, stewardship, and continuous improvement of the Lionsberg Community and Lionsberg Commons, ensuring its vitality and regenerativity for current and future generations. This includes making a [[Meaningful Monthly Contribution]].  
 21. The Lionsberg Community, System and Approach are purpose-built to evolve and transform over millennia.  

@@ -24,7 +24,7 @@ The Lionsberg System operates on the spiritual principle of multi-generational *
 
 Each **Intrapreneurial Team** of 5 to 7 individuals will have the autonomy to set up their local legal and governance structures in a manner that enables collective governance and stewardship. Additionally, each individual will have a voice in the system, adhering to the principle of [[One Citizen One Voice]]. 
 
-The [[The Kingdom of LIØNSBERG — Plans and Specifications]] for [[The Federation]] has been established to ensure multi-generational stewardship and self-sustainability over the coming millennia.
+The [[Provisional Structure]] for [[The Federation]] has been established to ensure multi-generational stewardship and self-sustainability over the coming millennia.
 
 ## **Freely Received, Freely Given**
 

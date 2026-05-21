@@ -30,7 +30,7 @@ The governments, institutions, and systems we once trusted to uphold justice and
 
 ### A New Beginning
 
-Since compliance with tyranny is not an option, we are dissolving the [[The Kingdom of LIØNSBERG — Plans and Specifications]] and beginning anew in January with:
+Since compliance with tyranny is not an option, we are dissolving the [[Provisional Structure]] and beginning anew in January with:
 
 **[[2025 - Season 1 - Rising From The Ashes]].**
 

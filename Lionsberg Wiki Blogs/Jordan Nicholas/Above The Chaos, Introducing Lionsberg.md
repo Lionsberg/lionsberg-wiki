@@ -186,7 +186,7 @@ Meaningful Support:
 - Help with [[Aligning Energy]] and [[Aligning Commitments]] and Aligning [[Aim]]  
 
 Meaningful Structure:  
-- All [[Value]] created will be transparently stewarded for the benefit of all through the [[The Kingdom of LIØNSBERG — Plans and Specifications]] and its subsequent transformations across time  
+- All [[Value]] created will be transparently stewarded for the benefit of all through the [[Provisional Structure]] and its subsequent transformations across time  
 
 Meaningful Participation  
 - A [[Voice]] in the [[Lionsberg System of Governance]]  

@@ -9,7 +9,7 @@ To confront and overcome the Meta Crisis, we must:
 3.  Embrace a [[New Vision]] for the future that is grounded in our shared values and principles, and that reflects the diverse perspectives and needs of all people and the planet.
 4.  Empower individuals and communities to take individual, local and collective action towards this vision through purposeful engagement, collaboration, and co-creation.
 5.  Innovate and leverage technology and other tools to drive rapid and scalable change towards a flourishing future for all. 
-6. Forge a [[Higher Order Functional Unity]] through the [[The LIØNSBERG Sacred Codex]] (or better). 
+6. Forge a [[Higher Order Functional Unity]] through the [[Lionsberg System and Approach]] (or better). 
 
 Confronting and overcoming the Meta Crisis is not an easy task, but it is a necessary one. It requires us to step outside of our comfort zones and work together towards a common goal, with a shared sense of purpose, determination, and hope. It requires us to be bold, courageous, and persistent in the face of challenges and setbacks.
 

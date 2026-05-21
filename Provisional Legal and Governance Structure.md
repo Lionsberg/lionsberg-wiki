@@ -1,11 +1,11 @@
 # Provisional Legal and Governance Structure
-As a [[Starting Point]] towards a legal infrastructure that will continue to complexify as required, the association has developed a hybrid [[The Kingdom of LIØNSBERG — Plans and Specifications]] as a legal commons that includes a 501(c)(3) and a solely owned Holding Company. 
+As a [[Starting Point]] towards a legal infrastructure that will continue to complexify as required, the association has developed a hybrid [[Provisional Structure]] as a legal commons that includes a 501(c)(3) and a solely owned Holding Company. 
 
 Additionally, it contains the provisions for distinct legal entities to operate in areas where non-profits are prohibited from operating by current US law. 
 
 All governance aspects of the various entities will be handled distinctly and as separate functions where required to maintain compliance with state and federal law. 
 
-The [[The Kingdom of LIØNSBERG — Plans and Specifications]] page contains deeper descriptions of the various levels of structure (or intentional lack thereof). 
+The [[Provisional Structure]] page contains deeper descriptions of the various levels of structure (or intentional lack thereof). 
 
 This starts with the Meta Idea, and moves to an international voluntary association around shared Vision / Intention / Goals / Values. This Idea and voluntary association exists independently of any legal structure. 
 

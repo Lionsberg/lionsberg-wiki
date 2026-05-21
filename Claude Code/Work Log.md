@@ -346,7 +346,7 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 - [[Help! I Am Lost]] - Updated navigation
 - [[The Threshold]] - Updated reference
 - [[The LIØNSBERG Playbook]] - Updated references
-- [[Welcome to LIØNSBERG]] - Updated reference
+- [[LIONSBERG - History, Inception, and Trust Manifesto]] - Updated reference
 - [[The LIØNSBERG Playbook]] - Updated reference
 - [[Welcome to LIØNSBERG, We Are Glad You Are Here]] - Updated reference
 - [[The LIONSBERG Playbook is Live]] - Updated reference
@@ -635,7 +635,7 @@ Massive multi-day session encompassing the grand reframing of LIONSBERG as Story
 **Files Modified:**
 - ~455 files across The Book of LIONSBERG (copy-edit)
 - 747 files (NBSP removal)
-- [[LIØNSBERG Invitation]] — complete rewrite
+- [[The Invitation]] — complete rewrite
 - [[The Book of LIØNSBERG]] — TOC updated with 16 new PDG links
 - Multiple Book chapters renumbered
 
@@ -707,7 +707,7 @@ Complete rewrite of all sections of [[LIØNSBERG 101]] (Welcome to LIONSBERG / T
 - All existing Part I-V sections of LIONSBERG 101
 - [[The LIONSBERG Circle Guide]] — `circles capacity` → `circle's capacity`
 - [[Discern the Wise Right Next Steps]] — `circles` → `Circles`
-- [[LIØNSBERG Invitation]] — `--` → `—` (3 instances)
+- [[The Invitation]] — `--` → `—` (3 instances)
 - [[16.11 Every Community Is a Construction Site]] — "Five" → "Four" Resource Flow Workflows
 - [[The LIØNSBERG Pattern Language]] — multiple fixes: titheing→tithing, circle size 12→16, Seven Moves corrected, `___`→`---`, numbered headings removed
 
@@ -742,7 +742,7 @@ Continuation session completing two major maintenance tasks (global two-space sw
 
 **Files Modified:**
 - 3,802 files across the entire wiki (two-space sweep)
-- [[LIØNSBERG Invitation]] — `--` → `—`
+- [[The Invitation]] — `--` → `—`
 - [[The LIONSBERG Circle Guide]] — possessive fix
 - [[Discern the Wise Right Next Steps]] — capitalization
 - [[16.11 Every Community Is a Construction Site]] — count fix

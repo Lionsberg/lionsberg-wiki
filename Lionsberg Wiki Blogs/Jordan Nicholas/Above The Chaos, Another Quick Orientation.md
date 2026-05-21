@@ -38,7 +38,7 @@ Anticipating this moment, several years ago I began convening the wisest minds I
 
 It became clear we would need a governance and legal system that no one owned, which existed as a multi-generational Stewardship Vessel for the [[Value]] that would be Co-Created...  
 
-...so we instantiated a [[The Kingdom of LIØNSBERG — Plans and Specifications]].  
+...so we instantiated a [[Provisional Structure]].  
 
 It became clear we would need an Integrated Delivery System... 
 

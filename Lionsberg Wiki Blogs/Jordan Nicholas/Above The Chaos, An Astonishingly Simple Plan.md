@@ -232,7 +232,7 @@ If our current patterns lead towards suffering and death, it is time to discern 
 
 On behalf of the Creator, All Creation, and The Spirit that creates and sustains the Universe, I extend to you a hand of fellowship, and offer to you this Flame of Unity, Light, and Love. 
 
-Would you allow me to set your candle Aflame, and will you Join Us in extending [[LIØNSBERG Invitation]] to someone you love and trust each week? 
+Would you allow me to set your candle Aflame, and will you Join Us in extending [[The Invitation]] to someone you love and trust each week? 
 
 If we simply choose to awaken, unite, and [[Pass The Flame]], within a few short months *everything else will become possible*. 
 
@@ -244,7 +244,7 @@ To [[Pass The Flame]] each week, simply find one person you know, love and trust
 
 So here the 3 Simple Steps that every Individual can take, today: 
 
-1. When you receive [[LIØNSBERG Invitation]], accept it and [Join The Movement](https://jordannicholas.org/join_the_movement). 
+1. When you receive [[The Invitation]], accept it and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 2. Forge or join a Group / Team 
 	1. Aim for 3 to 16 other Individuals you enjoy being around and Co-Creating with. This should be fun and joyful.  
 	2. Love one another, help one another, discuss these issues, and send me questions. I will pool those into [[Frequently Asked Questions]] and answer them.  
