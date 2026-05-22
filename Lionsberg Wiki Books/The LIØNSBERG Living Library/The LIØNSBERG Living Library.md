@@ -53,7 +53,7 @@ By [[Jordan Nicholas Sukut]] (2024). Four chapters covering the philosophical gr
 
 _Meditative practices. Companion to the Daily Way and the Sacred Ascent._
 
-A growing collection of meditations articulated as instruments of contemplative practice. Each meditation a discrete, repeatable opening. Used as deepening material alongside the seven-minute morning stillness of [[The Coherent Cosmic Intention Wave|the Wave]], and as gateway material for those drawn from [[The Daily Way|the Essential Way]] into the Devoted and Mastery tiers.
+A growing collection of meditations articulated as instruments of contemplative practice. Each meditation a discrete, repeatable opening. Used as deepening material alongside the seven-minute morning stillness of [[The Coherent Divine Intention Wave|the Wave]], and as gateway material for those drawn from [[The Daily Way|the Essential Way]] into the Devoted and Mastery tiers.
 
 ### 5. [[The Lionsberg Book of Quotes]]
 

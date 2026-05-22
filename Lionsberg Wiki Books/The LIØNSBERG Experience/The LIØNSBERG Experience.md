@@ -37,7 +37,7 @@ First Minute · First Five Minutes · First Half Hour · First Hour · First Day
 
 _How it is walked — the daily rhythm._
 
-In three permissive tiers — **Essential · Devoted · Mastery** — held by the seven-minute morning stillness in the [[The Coherent Cosmic Intention Wave|Coherent Cosmic Intention Wave]]. The Daily Way is a continually improving Card in [[LIØNSBERG, Earth, and the Cosmos|the Living Substrate]], drawn from to be lived.
+In three permissive tiers — **Essential · Devoted · Mastery** — held by the seven-minute morning stillness in the [[The Coherent Divine Intention Wave|Coherent Divine Intention Wave]]. The Daily Way is a continually improving Card in [[LIØNSBERG, Earth, and the Cosmos|the Living Substrate]], drawn from to be lived.
 
 ### [[The LIØNSBERG Calendar]]
 
@@ -59,7 +59,7 @@ Three additional pages address the lived moments of the walk:
 
 ## The Field Beneath the Work
 
-**[[The Coherent Cosmic Intention Wave]]** — the seven-minute morning stillness held at dawn local time by every Pilgrim. Because dawn rolls continuously around the Earth, the wave is always in motion somewhere. A continuous ring of coherent consciousness circles the planet — never broken, always renewed. There is always someone, somewhere, holding the highest intention right now. The Wave is the simplest, most powerful contribution every Pilgrim makes — before any Quest, before any Circle, before any visible work. The field comes first. From the field, the Pattern emerges.
+**[[The Coherent Divine Intention Wave]]** — the seven-minute morning stillness held at dawn local time by every Pilgrim. Because dawn rolls continuously around the Earth, the wave is always in motion somewhere. A continuous ring of coherent consciousness circles the planet — never broken, always renewed. There is always someone, somewhere, holding the highest intention right now. The Wave is the simplest, most powerful contribution every Pilgrim makes — before any Quest, before any Circle, before any visible work. The field comes first. From the field, the Pattern emerges.
 
 ---
 
@@ -76,7 +76,7 @@ The Experience opens onto the rest of the Codex:
 - **[[The LIØNSBERG Lexicon|The Lexicon]]** — referenced throughout as questions of vocabulary arise.
 - **[[The Book of LIØNSBERG|The Book]]** — the integrated prophetic narrative.
 - **[[The Sacred Ascent|The Sacred Ascent]]** — opens at Stage 9 for those called to embodied mastery. The Daily Way's Mastery tier flows into here.
-- **[[LIØNSBERG, Earth, and the Cosmos|Living Substrate]]** — for those who wish to trace canonical articulations back to their source insight. The Daily Way Card, the LIØNSBERG Calendar Card, and the Coherent Cosmic Intention Wave Card all live in the Substrate.
+- **[[LIØNSBERG, Earth, and the Cosmos|Living Substrate]]** — for those who wish to trace canonical articulations back to their source insight. The Daily Way Card, the LIØNSBERG Calendar Card, and the Coherent Divine Intention Wave Card all live in the Substrate.
 - **[[The LIØNSBERG Universe Guide|Universe Guide]]** — the inheritance manual for future authors.
 
 [[The Power of Today]] sits alongside the Experience as the philosophical companion to the Daily Way — the deeper meditation on _why_ the day matters as it does, one of the foundational expressions of this Way.
@@ -99,7 +99,7 @@ The 12 Stages are the archetypal arc.
 The Time Horizons are the natural calendar.
 The Daily Way is the rhythm by which both are walked.
 The LIØNSBERG Calendar is the breath that holds the year.
-The Coherent Cosmic Intention Wave is the field beneath the work.
+The Coherent Divine Intention Wave is the field beneath the work.
 
 This is the Experience. This is the Way. This is the Walk.
 

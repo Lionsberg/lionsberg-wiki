@@ -10,7 +10,7 @@ Some Pilgrims read alone for weeks before gathering. Some read for months. Some 
 
 **This is not deviation. This is also the path.**
 
-The Pattern is held by [[ØNE]], not by any timeline. The Pilgrim who is not yet ready to gather is not failing. They are integrating. **[[The Daily Way]]** can be walked alone. The morning stillness joins the [[The Coherent Cosmic Intention Wave|Wave]] whether or not the Pilgrim has a Circle. The evening reflection serves whether or not anyone else is listening.
+The Pattern is held by [[ØNE]], not by any timeline. The Pilgrim who is not yet ready to gather is not failing. They are integrating. **[[The Daily Way]]** can be walked alone. The morning stillness joins the [[The Coherent Divine Intention Wave|Wave]] whether or not the Pilgrim has a Circle. The evening reflection serves whether or not anyone else is listening.
 
 ---
 
@@ -18,7 +18,7 @@ The Pattern is held by [[ØNE]], not by any timeline. The Pilgrim who is not yet
 
 **Trust the timing.** When the moment comes to invite, the Pilgrim will know. Not before.
 
-**Walk [[The Daily Way|the Essential Way]].** Even alone, the seven-minute morning stillness anchors the Pilgrim in the [[The Coherent Cosmic Intention Wave|Wave]] — and the Wave forms whether or not the Pilgrim has a Circle. The field exists because each Pilgrim individually holds it.
+**Walk [[The Daily Way|the Essential Way]].** Even alone, the seven-minute morning stillness anchors the Pilgrim in the [[The Coherent Divine Intention Wave|Wave]] — and the Wave forms whether or not the Pilgrim has a Circle. The field exists because each Pilgrim individually holds it.
 
 **Read the Codex slowly.** [[The Story of LIØNSBERG|The Story]] first. Then [[The Great Game of LIØNSBERG|The Game]]. Then [[Welcome to LIØNSBERG]] revisited. Then whatever calls — perhaps [[The Power of Today]] for the deeper meditation on the daily, perhaps [[The LIØNSBERG Pattern Language|the Pattern Language]] for the structural body.
 

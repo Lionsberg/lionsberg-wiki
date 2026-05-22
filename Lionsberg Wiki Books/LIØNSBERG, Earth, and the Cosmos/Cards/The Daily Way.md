@@ -27,7 +27,7 @@ This is the minimum that holds the Pattern in the body. It is the daily floor. B
 ### Morning (~12–15 minutes)
 
 1. **Wake with gratitude** — _before_ rising. One breath. One simple thanks for the gift of another day. Commit the day to [[ØNE]] in whatever words ring true. _(~1 min)_
-2. **Seven-minute stillness** — in [[The Coherent Cosmic Intention Wave]]. Sit. Breathe. Hold the highest intention — for [[Heaven On Earth]] for [[All]]. This is the structural floor. Less than seven minutes, and the Wave does not form. _(7 min minimum)_
+2. **Seven-minute stillness** — in [[The Coherent Divine Intention Wave]]. Sit. Breathe. Hold the highest intention — for [[Heaven On Earth]] for [[All]]. This is the structural floor. Less than seven minutes, and the Wave does not form. _(7 min minimum)_
 3. **Clear the fog** — write down what is on the mind. Fears, anxieties, lingering thoughts. Get them out of the head and onto the page. _(~2-3 min)_
 4. **Set today's One Intention** — what is the single most important thing this day asks of the Pilgrim? Write it. _(~1-2 min)_
 
@@ -92,4 +92,4 @@ This Card is a **continuously improving** canonical articulation. It will be ref
 
 ---
 
-_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The 12 Stages of the Pilgrim's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Cosmic Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._
+_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The 12 Stages of the Pilgrim's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Divine Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._

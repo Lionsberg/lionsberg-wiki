@@ -93,7 +93,7 @@ The operational articulation. The integrated daily template that brings the phil
 
 [[The LIØNSBERG Experience|The Experience]] holds the canonical operational articulation of the Daily Way in three tiers:
 
-- **The Essential Way** — every Pilgrim. ~30 minutes total per day. The seven-minute morning stillness held in the [[The LIØNSBERG Experience|Coherent Cosmic Intention Wave]] · midday recentering · evening reflection.
+- **The Essential Way** — every Pilgrim. ~30 minutes total per day. The seven-minute morning stillness held in the [[The LIØNSBERG Experience|Coherent Divine Intention Wave]] · midday recentering · evening reflection.
 - **The Devoted Way** — fuller chosen practice. ~60-90 minutes total per day.
 - **The Mastery Way** — embodied mastery; the foothills of [[The Sacred Ascent|The Sacred Ascent]].
 
