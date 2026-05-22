@@ -36,7 +36,7 @@ Ecoregions matter to LIØNSBERG because:
 
 - **[[Bioregion|Bioregions]]** — integrative cultural-ecological territories. Larger and more humanly-inhabited than a single Ecoregion typically; Bioregions usually span several Ecoregions.
 - **[[Watershed|Watersheds]]** — hydrological drainage units. An Ecoregion may contain many watersheds or be defined partly by a watershed; the two classifications use different lenses.
-- **Biomes** — the largest ecological unit (tropical rainforest, boreal forest, tundra). Biomes contain many Ecoregions.
+- **[[Biomes]]** — the largest ecological unit (tropical rainforest, boreal forest, tundra). Biomes contain many Ecoregions.
 
 ## See Also
 

@@ -81,7 +81,7 @@ What is true for the individual is true for the Circle. What is true for the Cir
 - **The Circle's Sovereign Path** — formation, first Quest, growth, replication, federation, eldership, dissolution-into-greater-whole. (See [[The LIØNSBERG Playbook|The Playbook]].)
 - **The Guild's Sovereign Path** — practitioners of a craft, domain, or discipline federating across geographic boundaries — Healers, Builders, Teachers, Stewards, Farmers, Artists — finding one another and weaving a craft-Body that runs through every Community.
 - **The Community's Sovereign Path** — prototype, [[The 300]], the Living Economy, federation into Bioregion.
-- **The Bioregion's Sovereign Path** — the watershed remembering itself as a Sovereign Body; the Communities and Guilds within it federating without surrendering autonomy.
+- **The Bioregion's Sovereign Path** — the integrated cultural-ecological territory remembering itself as a Sovereign Body; the Communities and Guilds within it federating without surrendering autonomy. (See [[Bioregion]] · [[Watershed]] · [[Ecoregion]] — distinct place-scales the Bioregion holds and integrates.)
 - **The Planetary Sovereign Path** — [[The 10 Year Grand Strategy]]; the Transition; All Domains Moving Together; the moment the New becomes Functional.
 - **The Cosmic Sovereign Path** — the Federation of Worlds; Cosmic Diplomacy; the Eternal Divine Play; the Cycle of Cosmic Co-Creation that has no end.
 
