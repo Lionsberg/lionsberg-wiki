@@ -73,19 +73,29 @@ These Rhythms are fractal. They breathe at the scale of a Sovereign's day, a Cir
 
 ## The Holofractal Scaling — The Same Path At Every Scale
 
-What is true for the individual is true for the Circle. What is true for the Circle is true for the Guild and the Community. What is true for them is true for the Bioregion, the Planet, the Cosmos.
+What is true for the Sovereign is true for the Circle, the Neighborhood, the Village. What is true for them is true for the Microlocality, the Community, the Mediolocality. What is true for them is true for the Macrolocality, the Macrocomplex, the Ecoregion, the Bioregion. What is true for them is true for the Georegional, the Planet, the Star System, the Cosmos. **The same Pattern, at every scale, walked by [[Fractal Sovereignty|Fractal Sovereigns]] at every scale.**
 
-**The same Pattern, at every scale, walked by [[Fractal Sovereignty|Fractal Sovereigns]] at every scale.**
+The full canonical articulation of these scales is held in **[[Levels of Scale]]**. The Sovereign Path is walked by each scale, in its own rhythm:
 
 - **The Individual Sovereign Path** — one lifetime, from Threshold to Eternal Play.
-- **The Circle's Sovereign Path** — formation, first Quest, growth, replication, federation, eldership, dissolution-into-greater-whole. (See [[The LIØNSBERG Playbook|The Playbook]].)
-- **The Guild's Sovereign Path** — practitioners of a craft, domain, or discipline federating across geographic boundaries — Healers, Builders, Teachers, Stewards, Farmers, Artists — finding one another and weaving a craft-Body that runs through every Community.
-- **The Community's Sovereign Path** — prototype, [[The 300]], the Living Economy, federation into Bioregion.
-- **The Bioregion's Sovereign Path** — the integrated cultural-ecological territory remembering itself as a Sovereign Body; the Communities and Guilds within it federating without surrendering autonomy. (See [[Bioregion]] · [[Watershed]] · [[Ecoregion]] — distinct place-scales the Bioregion holds and integrates.)
-- **The Planetary Sovereign Path** — [[The 10 Year Grand Strategy]]; the Transition; All Domains Moving Together; the moment the New becomes Functional.
-- **The Cosmic Sovereign Path** — the Federation of Worlds; Cosmic Diplomacy; the Eternal Divine Play; the Cycle of Cosmic Co-Creation that has no end.
+- **The Circle's Sovereign Path** ([[Circle]], 3-13) — formation, first Quest, growth, replication, federation, eldership, dissolution-into-greater-whole. (See [[The LIØNSBERG Playbook|The Playbook]].)
+- **The Neighborhood's Path** ([[Neighborhood]], 15-40) — the immediate cluster of households; functional sub-unit within Villages and Communities.
+- **The Village's Path** ([[Village]], 50-150) — direct knowing of everyone-by-everyone; the last scale where direct relationship alone suffices.
+- **The Microlocality's Path** ([[Microlocality]], ~1,000) — cluster of Villages held in direct relation across a small territory.
+- **The Community's Sovereign Path** ([[Community]], ~10,000) — anchored by [[The 300]]; the Pattern-bearing unit at scale; the Living Economy.
+- **The Mediolocality's Path** ([[Mediolocality]], ~100,000) — federation of Communities; the "Local Hub" of [[The LIØNSBERG Strategy and Plan|the Strategy and Plan]].
+- **The Macrolocality's Path** ([[Macrolocality]], ~1,000,000) — federation of Mediolocalities; the major city scale; "City Hub" of the Strategy and Plan.
+- **The Macrocomplex's Path** ([[Macrocomplex]], ~2-20M) — megacity / megaregion / metropolitan complex; federation of Macrolocalities.
+- **The Ecoregion's Path** ([[Ecoregion]]) — Communities of many Mediolocalities and Macrolocalities sharing one ecological substrate, federating to steward it together.
+- **The Bioregion's Sovereign Path** ([[Bioregion]]) — the integrated cultural-ecological territory remembering itself as a Sovereign Body; the Communities, Macrolocalities, and Ecoregions within it federating without surrendering autonomy.
+- **The Georegional Path** ([[Georegional]]) — continental / major-infrastructure scale; spacefaring, advanced manufacturing, planetary-coordinated capacities.
+- **The Planetary Sovereign Path** ([[Planet as Biome]]) — [[The 10 Year Grand Strategy]]; the Transition; All Domains Moving Together; the moment the New becomes Functional.
+- **The Star System Path** ([[Star System as Biome]]) — the Federation of Worlds within the System.
+- **The Cosmic Sovereign Path** — Cosmic Diplomacy; the Eternal Divine Play; the Cycle of Cosmic Co-Creation that has no end.
 
 Each Sovereign Path nests inside larger ones and is composed of smaller ones. The Sovereign who walks their own Path faithfully is, at the same moment, walking the Path of every Scale to which they belong.
+
+Beyond the nested scales, the Sovereign also belongs to **cross-cutting fellowships** — [[Guild|Guilds]] of craft, [[Tribe|Tribes]] of lineage, [[Species]] of kind, [[Voluntary Association|Voluntary Associations]] of chosen affinity — which weave through every scale and across spatiotemporal expanses. (See [[Levels of Scale]] for the canonical articulation of both the nested scales and the cross-cutting axes.)
 
 ---
 

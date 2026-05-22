@@ -206,15 +206,19 @@ Assuming we avoid the [[Existential Threats]] at hand and the population grows o
 
 10 Billion People are Distributed Across Roughly:  
 
-- 12 to 24 Georegions 
-- 150 to 200 Bioregions  
-- 750 to 1,000 Ecoregions  
-- 10,000 Communities of 1,000,000 Individuals  
-- 100,000 Communities of 100,000 Individuals  
-- 1,000,000 Communities of 10,000 Individuals   
-- 10,000,000 Communities of 1,000 Individuals  
-- 100,000,000 Communities of 100 Individuals  
-- 1,000,000,000 Groups of 10 Individuals  
+- 12 to 24 [[Georegional|Georegions]]  
+- 150 to 200 [[Bioregion|Bioregions]]  
+- 750 to 1,000 [[Ecoregion|Ecoregions]]  
+- ~500 to 2,000 [[Macrocomplex|Macrocomplexes]] of 2 to 20 million Sovereigns  
+- 10,000 [[Macrolocality|Macrolocalities]] of 1,000,000 Sovereigns each  
+- 100,000 [[Mediolocality|Mediolocalities]] of 100,000 Sovereigns each  
+- 1,000,000 [[Community|Communities]] of 10,000 Sovereigns each (each anchored by [[The 300]])  
+- 10,000,000 [[Microlocality|Microlocalities]] of 1,000 Sovereigns each  
+- 100,000,000 [[Village|Villages]] of ~100 Sovereigns each  
+- Hundreds of millions of [[Neighborhood|Neighborhoods]] of 15 to 40 Sovereigns each  
+- 1,000,000,000 [[Circle|Circles]] of ~10 Sovereigns each  
+
+_The canonical articulation of these scales — including the cross-cutting axes of [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] — lives in [[Levels of Scale]]._
 
 For comparison, some mapping sources have located approximately 4 million discrete towns and cities across the world.  
 

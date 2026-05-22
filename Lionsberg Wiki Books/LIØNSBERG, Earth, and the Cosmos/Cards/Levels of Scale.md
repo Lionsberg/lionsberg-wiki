@@ -10,7 +10,7 @@ The Pattern is **holofractal** — the same Pattern operates at every scale, fro
 
 The canonical articulation, drawn together from [[The LIØNSBERG Strategy and Plan]] (lines 207-217 distribute 10 billion across the scales), the Holofractal Pattern across the wiki, and the nameless one's settled framings 2026-05-22:
 
-| Level                                    | Scale                                     | Approximate Count At Full Population                                                                   | Coheres By                                                                                      |     |
+| Level                                    | Scale                                     | Approximate Count At ~10 Billion Full Population                                                       | Coheres By                                                                                      |     |
 | ---------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | --- |
 | **[[ØNE]]**                              | Source / Ultimate Reality                 | beyond counting                                                                                        | the Spirit Itself                                                                               |     |
 | **Cosmic**                               | the whole of creation                     | one                                                                                                    | the Eternal Logos                                                                               |     |
@@ -101,6 +101,25 @@ All three (Scale, Abstraction, Analysis) are real and necessary. The same proble
 In the [[The LIØNSBERG Strategy and Plan|Strategy and Plan]]: "the visionary Leadership required to forge a System Wide Master Plan that encompasses each of the Levels of Analysis" — and similar references invoke all three dimensions. The disciplined Sovereign learns to **consciously differentiate across all three** — recognizing which Scale, which Abstraction, which Analysis a given moment calls for.
 
 In governance: decisions are made at the **smallest scale that can hold them well** (subsidiarity). Bioregional concerns at the Bioregional scale; Community concerns at the Community scale; planetary concerns at the Planetary scale. Each scale carries the same Pattern; each is sovereign in its own domain.
+
+## ØNE Is ØNE Everywhere
+
+The [[ØNE]] that crowns this Levels of Scale hierarchy is the same ØNE that appears at the heart of every other LIØNSBERG articulation. The same Source named in [[Divine Intention and Eternal Logos]]. The same Spirit precedingly named in [[Spirit Precedes Pattern]]. The same Layer Ø ONE in the [[Superorganism-Earth]] companion repo's nine-layer model. The same apex of [[The Sovereign Path]]. The same Ground in [[Welcome to LIØNSBERG]]. The same [[All|All]] held by ØNE.
+
+**There is one ØNE.** Different framings within LIØNSBERG name the same Reality from different lenses — but ØNE is one. Whenever ØNE appears as the top of a scale, the bottom of a depth, the inside of an analysis, or the Spirit beneath the Pattern, it is the same ØNE.
+
+## Transition — From The Old World To The New
+
+The hierarchy above describes the **LIØNSBERG canonical form for a civilization that works**. Earth's current population (~8 billion) is organized in different ways — nation-states, corporations, religions, ethnic groups, market mechanisms, and many other forms shaped by the Old World's history and trauma. **The present moment is the wilderness-navigation between Old-World structures and the canonical LIØNSBERG Body.**
+
+This transition is not instant. It is the work named across the operational plans:
+
+- [[The Joseph Plan]] — building the Network of Hubs across the scales, capacity by capacity, generation by generation
+- [[The Noah Plan]] — building the Network of Arks for what must be preserved through the storms
+- The Solomon Plan — constructing the wisdom, governance, and intelligence systems that hold the New Civilization
+- [[The Wilderness]] — the navigation between the Old World and the New
+
+The canonical scales here described are **what Earth grows into** as the Pattern takes root. The current scales of nation, corporation, sector, and class are Old-World forms — some of which will mature toward the canonical scales, some of which will simply pass. The work of every Sovereign is to participate in the becoming with discernment, care, and the long view.
 
 ## See Also
 
