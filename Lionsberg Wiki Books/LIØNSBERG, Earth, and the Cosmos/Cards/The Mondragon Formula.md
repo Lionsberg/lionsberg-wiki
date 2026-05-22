@@ -42,7 +42,7 @@ LIØNSBERG inherits the Formula, refines it, and applies it civilizationally. Mo
 
 The active refinements:
 
-- **People formation** is held by the 12-Stage Pilgrim's Path and the 3-Year Healing and Empowerment Cycle.
+- **People formation** is held by the 12-Stage Sovereign's Path and the 3-Year Healing and Empowerment Cycle.
 - **Structure** is held by the Hub Network Topology and the Planetary Grid.
 - **Capital** is held by Sacred Economics, Sacred Value (asset-backed currency), and Capital as Subordinate Tool.
 - **Governance** is held by the Pattern's Element 4 articulation and Structural Immunity.

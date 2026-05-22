@@ -1,4 +1,4 @@
-# The 12 Stages of the Pilgrim's Path
+# The 12 Stages of the Sovereign's Path
 
 _The archetypal arc. Every pilgrim, every Circle, every Community walks them. The order is not arbitrary; the order is the Way._
 

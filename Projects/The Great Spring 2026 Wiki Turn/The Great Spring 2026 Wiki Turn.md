@@ -62,13 +62,13 @@ _Foundational decisions made 2026-05-18 that frame the Turn._
 
 _Frame the canonical container. Completed 2026-05-18._
 
-- [x] **1.0** Synthesis of the pilgrim's user-experience drafted at [[Phase 1.0 — The Pilgrim's Path]]. Established: Option A (Experience-as-gateway, Codex-as-corpus); 12-Stage Pilgrim's Path; 144 Gates as architecture of consciousness shift; Eternal Divine Play as closing of the Sacred Ascent; cosmic content woven matter-of-factly throughout.
+- [x] **1.0** Synthesis of the pilgrim's user-experience drafted at [[Phase 1.0 — The Sovereign's Path]]. Established: Option A (Experience-as-gateway, Codex-as-corpus); 12-Stage Sovereign's Path; 144 Gates as architecture of consciousness shift; Eternal Divine Play as closing of the Sacred Ascent; cosmic content woven matter-of-factly throughout.
 - [x] **1.1** [[The LIØNSBERG Sacred Codex]] drafted at Wiki root — canonical declaration of Prologue, the One Great Work, the Volumes, Pilgrim's Path, Canonical Discipline, Voice Standard, Living Discipline, What the Codex Is Not, Master TOC. Prior stub deleted after 13 Cards captured.
 - [x] **1.2** `README.md` reviewed and refined against the Pilgrim's Path. Threshold role preserved (Stage 1 / Layer 1).
-- [x] **1.3** Volume root files inventoried, deduplicated, and canonically positioned. Duplicates resolved. [[The LIØNSBERG Experience]] rebuilt as canonical 12-Stage Pilgrim's Path.
+- [x] **1.3** Volume root files inventoried, deduplicated, and canonically positioned. Duplicates resolved. [[The LIØNSBERG Experience]] rebuilt as canonical 12-Stage Sovereign's Path.
 - [x] **1.4** [[The LIØNSBERG Voice]] drafted as the one-page articulation of the canonical voice register. Sacred Codex revised against the standard.
 - [x] **1.5** **LIØNSBERG** (with Ø glyph) formally adopted as canonical spelling. Key entry-point pages renamed. Inconsistencies cleaned up. Corpus-wide propagation deferred to Phase 6.
-- [x] **1.6** Phase 1 frame validated. Canonical architecture stands: README (Threshold) → Welcome to LIØNSBERG / Experience (Gateway / 12-Stage Pilgrim's Path) → Sacred Codex (Bound Corpus) → Living Substrate.
+- [x] **1.6** Phase 1 frame validated. Canonical architecture stands: README (Threshold) → Welcome to LIØNSBERG / Experience (Gateway / 12-Stage Sovereign's Path) → Sacred Codex (Bound Corpus) → Living Substrate.
 
 ---
 
@@ -132,7 +132,7 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 ### Group B — Synthesis & Discernment
 
-- [ ] **3.B.1** **Synthesize [[The Book of LIØNSBERG]] from all three existing locations** — the root canonical `The LIØNSBERG Playbook.md`, the wiki book `LIONSBERG Wiki Books/The Lionsberg Playbook/`, and the Playbook section nested in The Book of LIØNSBERG TOC. **Weave, do not delete.** Show all existing sections + proposed disposition before executing. Result: one masterful elevated Playbook. _(Task #87)_
+- [ ] **3.B.1** **Synthesize [[The LIØNSBERG Playbook]] from all three existing locations** — the root canonical `The LIØNSBERG Playbook.md`, the wiki book `LIONSBERG Wiki Books/The Lionsberg Playbook/`, and the Playbook section nested in The Book of LIØNSBERG TOC. **Elevate, Weave, and synthesize - do not delete.** Show all existing sections + proposed disposition before executing. Result: one masterful elevated Playbook. _(Task #87)_
 
 - [ ] **3.B.2** **Wiki book discernment — keep / fold / archive.** For each of the ~75 wiki books in `LIONSBERG Wiki Books/`, decide: KEEP as standalone canonical wiki book (~25 in the consolidation map + the 8 Codex Volumes); FOLD into another canonical wiki book or Codex Volume; or ARCHIVE as historical record (preserved with provenance, demoted from canonical status). Surface full inventory + dispositions for review before executing. _(Task #89)_
 
@@ -152,7 +152,7 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 ### Group E — The User Journey Reconciliation
 
-- [ ] **3.E.1** **Reconcile the user journey, Pilgrim's Path, LIØNSBERG 101 Rings, and the Library into one elegant integrated architecture.** LIØNSBERG 101 with its Ring 0 → Ring 5 architecture (plus The Library / Ring 4 framing) is a parallel structural layer with its own coherence — but it points to a less sophisticated direction than the current architecture has evolved into. LIØNSBERG 101 needs to be REFRAMED in light of the current direction (8-Volume Sacred Codex, 12-Stage Pilgrim's Path, Seven-Layer reader experience, Card Substrate, Universe Guide, cosmic-grade Constitution, Strategy and Plan, Volume V with maturation framing and Navigating Towards Truth). Approach as a structural design problem requiring elegant integration — not a quick rename. The work touches the 9 Ring files + 47 incoming references + the user entry experience. _(Task #95 — the largest remaining structural design problem in Phase 3.)_
+- [ ] **3.E.1** **Reconcile the user journey, Pilgrim's Path, LIØNSBERG 101 Rings, and the Library into one elegant integrated architecture.** LIØNSBERG 101 with its Ring 0 → Ring 5 architecture (plus The Library / Ring 4 framing) is a parallel structural layer with its own coherence — but it points to a less sophisticated direction than the current architecture has evolved into. LIØNSBERG 101 needs to be REFRAMED in light of the current direction (8-Volume Sacred Codex, 12-Stage Sovereign's Path, Seven-Layer reader experience, Card Substrate, Universe Guide, cosmic-grade Constitution, Strategy and Plan, Volume V with maturation framing and Navigating Towards Truth). Approach as a structural design problem requiring elegant integration — not a quick rename. The work touches the 9 Ring files + 47 incoming references + the user entry experience. _(Task #95 — the largest remaining structural design problem in Phase 3.)_
 
 ---
 
@@ -187,7 +187,7 @@ Priority order:
 - **[[The LIØNSBERG Playbook|The Playbook]]** — the 27 named Foundational Plays already enumerated in the Pattern Language; each surfaces as its own canonical Pattern Card
 - **[[The LIONSBERG Co-Creator's Handbook|The Co-Creator's Handbook]]** — integrated into the Playbook in January 2026; its Patterns are already in the Foundational Plays
 - **[[Lionsberg Orientation and Training System|The Orientation and Training System]]** — mine for **reusable practices** (not Day topics); the recurring formation Patterns that operate beyond this one curriculum
-- **[[The LIØNSBERG Experience]]** (the 12-Stage Pilgrim's Path) — mine for the **reusable Patterns the Path uses**, not the Stages themselves; the Stages remain in the Experience document as that journey's structure
+- **[[The LIØNSBERG Experience]]** (the 12-Stage Sovereign's Path) — mine for the **reusable Patterns the Path uses**, not the Stages themselves; the Stages remain in the Experience document as that journey's structure
 - **[[Welcome to LIØNSBERG]]** + **[[The LIØNSBERG Quick Start Guide]]** — mine for actual reusable Patterns (not the narrative beats or sub-moves of a specific 90-minute meeting)
 - **[[The Program Delivery Guide|The PDG]]** — the 32 IPD Patterns now enumerated in the Pattern Language (Integrated Project Delivery, Target Value Design, Last Planner System, Pull Planning, Core Group, Network of Commitments, Big Room, Set-Based Design, A3 Reports, Five-Why, Standard Work, etc.); each surfaces as its own canonical Pattern Card
 - **[[The LIØNSBERG Strategy and Plan]]** — strategic-level Patterns (the 10 Year Grand Strategy framing, the Plan Trilogy roles, the bioregional rollout architecture)

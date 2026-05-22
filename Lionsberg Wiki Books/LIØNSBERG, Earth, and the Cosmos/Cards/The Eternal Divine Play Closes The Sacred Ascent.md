@@ -12,7 +12,7 @@ The Eternal Divine Play is not a separate volume of the Codex.
 
 It is the **closing movement** of [[The Sacred Ascent]] — the seventh and final stage of the 72-Gate spiral, the moment at which the embodied / developmental Path resolves into the infinite Play that continues across worlds, dimensions, and ages.
 
-The Eternal Divine Play is therefore the inner threshold by which a being passes from Stage 11 ([[Covenant and Jubilee — December 2033]]) into Stage 12 (Eternal Play) of [[The 12-Stage Pilgrim's Path]].
+The Eternal Divine Play is therefore the inner threshold by which a being passes from Stage 11 ([[Covenant and Jubilee — December 2033]]) into Stage 12 (Eternal Play) of [[The 12 Stages of the Sovereign's Path]].
 
 In the Codex architecture:
 - The Sacred Ascent.

@@ -188,7 +188,7 @@ _How value circulates without extraction._
 
 _How a being becomes._
 
-Formation through doing. Apprenticeship to elders. The Circle as the school. Patterns of transformation. The 12-Stage Pilgrim's Path. The pathways of mastery in every craft. Lifelong learning as constitutional right.
+Formation through doing. Apprenticeship to elders. The Circle as the school. Patterns of transformation. The 12-Stage Sovereign's Path. The pathways of mastery in every craft. Lifelong learning as constitutional right.
 
 ### Pillar V — Sacred Health and Healing
 

@@ -28,6 +28,6 @@ The arc moves through:
 
 **Holonic Citizenship.** At the completion of the 3-Year Foundations, the Pilgrim — now a Citizen — is welcomed into full standing within the Body. The citizenship ceremony marks not the end of the journey but its true beginning.
 
-This entire arc maps directly onto [[The 12-Stage Pilgrim's Path]] — Stages 4 through 10 are the Sacred Onboarding Arc, lived in sequence.
+This entire arc maps directly onto [[The 12 Stages of the Sovereign's Path]] — Stages 4 through 10 are the Sacred Onboarding Arc, lived in sequence.
 
 Lives canonically in [[The LIØNSBERG Playbook]] as the operational onboarding pattern.

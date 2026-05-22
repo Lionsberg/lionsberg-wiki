@@ -54,7 +54,7 @@ See [[The 1-Day to 1-Week Threshold]] for the resistance encountered before the 
 
 For the Pilgrim who has shared once and the other did not respond: this is normal. The Seed travels through trust; not all trust is mutual; not all trusted others are ready. Hold the question of who else might be ready. The answer will come.
 
-For the Pilgrim who has shared and watched the other respond yes and then lose momentum: this is also normal. Some Pilgrims integrate fast; some slow. See [[The Solo Pilgrim's Grace]]. The Seed has its own timing in each life.
+For the Pilgrim who has shared and watched the other respond yes and then lose momentum: this is also normal. Some Pilgrims integrate fast; some slow. See [[The Solo Sovereign's Grace]]. The Seed has its own timing in each life.
 
 ---
 

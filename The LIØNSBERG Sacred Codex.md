@@ -138,7 +138,7 @@ Placed at Volume XII as the closing Volume — the inheritance handed forward, t
 
 The Codex is the corpus. **[[The LIØNSBERG Experience]] (Volume I) is the path through it.**
 
-A pilgrim does not begin by reading the twelve Volumes cover to cover. They walk the 12-Stage Pilgrim's Path that Volume I articulates — from Discovery and Threshold through Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, the Covenant and Jubilee of December 2033, and the Eternal Play.
+A pilgrim does not begin by reading the twelve Volumes cover to cover. They walk the 12-Stage Sovereign's Path that Volume I articulates — from Discovery and Threshold through Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, the Covenant and Jubilee of December 2033, and the Eternal Play.
 
 The Experience tells the pilgrim which Volume to reach into, and when. The eleven other Volumes sit behind it — bound, complete, ready to be drawn from.
 

@@ -88,7 +88,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 48 | Target Value Design | TVD methodology — Target Quality is fixed, cost flexes | C |
 | 49 | The 10 Year Grand Strategy | The 2024-2033 strategic frame | C |
 | 50 | The 12 Pillars Orbit The ONE | The 12 Pillars arranged around the foundational center | C |
-| 51 | The 12-Stage Pilgrim's Path | The 12-stage developmental arc | C |
+| 51 | The 12-Stage Sovereign's Path | The 12-stage developmental arc | C |
 | 52 | The 144 Gates as Architecture of Consciousness Shift | The 144-gate framework as architecture | C |
 | 53 | The 3-Year Healing and Empowerment Cycle | The 2030-2033 lag — 3 years for full embodiment | C |
 | 54 | The 4-7-8 Breath | The specific ANS-recalibration breath protocol | C |

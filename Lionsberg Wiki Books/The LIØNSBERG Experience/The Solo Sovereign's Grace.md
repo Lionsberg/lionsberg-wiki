@@ -1,4 +1,4 @@
-# The Solo Pilgrim's Grace
+# The Solo Sovereign's Grace
 
 _For the Pilgrim who reads alone for weeks or months before gathering. This is not deviation; this is also the path._
 

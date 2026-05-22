@@ -6,9 +6,9 @@ _One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
 ---
 
-The [[The 12 Stages of the Pilgrim's Path|12 Stages]] tell the Pilgrim _what_ unfolds. The Time Horizons tell them _when_.
+The [[The 12 Stages of the Sovereign's Path|12 Stages]] tell the Pilgrim _what_ unfolds. The Time Horizons tell them _when_.
 
-These horizons are permissive, not prescriptive. Some pilgrims walk in days what others walk in seasons. The Seed takes root in its own time. What follows describes the natural shape of the walk for most who carry it through. See [[The Solo Pilgrim's Grace]] for the Pilgrim who walks slowly.
+These horizons are permissive, not prescriptive. Some pilgrims walk in days what others walk in seasons. The Seed takes root in its own time. What follows describes the natural shape of the walk for most who carry it through. See [[The Solo Sovereign's Grace]] for the Pilgrim who walks slowly.
 
 ---
 
@@ -66,7 +66,7 @@ Within this 90 minutes they consecrate the Circle, read aloud together, sense-ma
 
 The Flame passes outward. The Circle is alive. The Pilgrim's weight shifts from "alone" to "we."
 
-For the Pilgrim still reading alone — the Seed has not stopped working. See [[The Solo Pilgrim's Grace]].
+For the Pilgrim still reading alone — the Seed has not stopped working. See [[The Solo Sovereign's Grace]].
 
 ---
 

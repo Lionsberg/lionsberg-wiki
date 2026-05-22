@@ -25,7 +25,7 @@ The Gates progress through three movements:
 Twelve is a canonical LIØNSBERG number. It echoes:
 
 - The [[The 12 Pillars Orbit The ONE|12 Pillars]] — the positive structure of the New that mirrors the negative structure unveiled
-- The [[The 12-Stage Pilgrim's Path|12-Stage Pilgrim's Path]] — the personal architecture of the Codex's experience
+- The [[The 12 Stages of the Sovereign's Path|12-Stage Sovereign's Path]] — the personal architecture of the Codex's experience
 - The twelve hours of day and the twelve hours of night
 - The twelve tribes, the twelve apostles, the twelve gates of the New Jerusalem (Rev 21)
 

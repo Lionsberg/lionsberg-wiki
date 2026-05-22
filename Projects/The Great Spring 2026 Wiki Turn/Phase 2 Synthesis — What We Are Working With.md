@@ -38,7 +38,7 @@ The 10 Year Grand Strategy (2024-2033). The 7+3+20 timeline (Preparation Window 
 
 ### The Embodied Practice Layer
 
-The 12-Stage Pilgrim's Path. The Daily Practice (Power of Today Chapter 4.4, the nine-part 24-hour rhythm). The Warrior's Intermittent Fasting Protocol. The 4-7-8 Breath. The 90-Day Quest Cycle synced to solstice and equinox. Seasonal OmniSpection. The Roving Temple Dojo specification. The Rhythm of Return (Pause → Ground → Breathe → Remember → Realign → Recommit). The First Practice. The Sacred Covenant's eight affirmations. The Eight Archetypal Constellations of Role. The Quest Spiral (Begin → Act → Complete → Reflect → Return → Begin Again). The Way Beyond Fear, Anxiety, and Depression's complete healing canon.
+The 12-Stage Sovereign's Path. The Daily Practice (Power of Today Chapter 4.4, the nine-part 24-hour rhythm). The Warrior's Intermittent Fasting Protocol. The 4-7-8 Breath. The 90-Day Quest Cycle synced to solstice and equinox. Seasonal OmniSpection. The Roving Temple Dojo specification. The Rhythm of Return (Pause → Ground → Breathe → Remember → Realign → Recommit). The First Practice. The Sacred Covenant's eight affirmations. The Eight Archetypal Constellations of Role. The Quest Spiral (Begin → Act → Complete → Reflect → Return → Begin Again). The Way Beyond Fear, Anxiety, and Depression's complete healing canon.
 
 ---
 
@@ -56,7 +56,7 @@ Beneath the inventory, a structural pattern surfaces that the corpus has been gr
 
 **The Holofractal Omnifederation** is the structural rule — sovereign units, selectively permeable membranes, fields of agreements, commons that emerge wherever sovereigns associate, federation that preserves the autonomy of every nested whole at every scale.
 
-**The 12-Stage Pilgrim's Path** is the entry sequence — Discovery, Threshold, Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, 144 Gates, Sacred Ascent, Convergence, Covenant and Jubilee December 2033, Eternal Play.
+**The 12-Stage Sovereign's Path** is the entry sequence — Discovery, Threshold, Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, 144 Gates, Sacred Ascent, Convergence, Covenant and Jubilee December 2033, Eternal Play.
 
 **The 144 Gates of Initiation** are the architecture of consciousness shift inside the Pattern Language — the inner work that mirrors the outer Pattern.
 

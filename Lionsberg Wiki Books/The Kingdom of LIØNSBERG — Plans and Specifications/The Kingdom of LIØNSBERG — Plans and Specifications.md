@@ -238,9 +238,9 @@ _How value circulates without extraction._
 _How a being becomes._
 
 - **Intent:** Operationalize lifelong formation and mastery. Learning as the core developmental Pattern of every sovereign being, from birth through the [[Sacred Ascent]].
-- **Principles:** Formation through doing. Apprenticeship to elders. The Circle as the school. Lifelong learning as constitutional right. Mastery as a path open to every sovereign being. The [[12-Stage Pilgrim's Path]] as the canonical developmental arc.
-- **Articulation:** The ~12 Theses for Sacred Learning. The Learning System architecture. The 12-Stage Pilgrim's Path. The pathways of mastery in every craft. The Guild system (canonical Guilds and how new Guilds are constituted).
-- **Patterns:** _Pointers to Part VI:_ [[Formation Through Doing]] · [[Apprenticeship to Elders]] · [[The Circle as the School]] · [[The 12-Stage Pilgrim's Path]] · [[Mastery Pathways]] · [[Guild Constitution]].
+- **Principles:** Formation through doing. Apprenticeship to elders. The Circle as the school. Lifelong learning as constitutional right. Mastery as a path open to every sovereign being. The [[12-Stage Sovereign's Path]] as the canonical developmental arc.
+- **Articulation:** The ~12 Theses for Sacred Learning. The Learning System architecture. The 12-Stage Sovereign's Path. The pathways of mastery in every craft. The Guild system (canonical Guilds and how new Guilds are constituted).
+- **Patterns:** _Pointers to Part VI:_ [[Formation Through Doing]] · [[Apprenticeship to Elders]] · [[The Circle as the School]] · [[The 12 Stages of the Sovereign's Path]] · [[Mastery Pathways]] · [[Guild Constitution]].
 
 ### Pillar V — Sacred Health and Healing
 

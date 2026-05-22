@@ -24,8 +24,8 @@ The decision is **internal**, but it has **external markers**:
 
 The decision is **always voluntary** — and always reversible in spirit (a being can always step back), but the crossing leaves a mark. Few who truly cross fully un-cross.
 
-The Cross the Threshold Decision is **Stage 2 of [[The 12-Stage Pilgrim's Path]]** — the Threshold proper. It is the hinge on which the whole journey turns.
+The Cross the Threshold Decision is **Stage 2 of [[The 12 Stages of the Sovereign's Path]]** — the Threshold proper. It is the hinge on which the whole journey turns.
 
 The Old World's machinery of distraction works hardest in the moments just before this decision — flooding attention, manufacturing doubt, offering counterfeits. **Crossing in spite of all that** is the act that begins the New Civilization for that pilgrim.
 
-Lives canonically in [[The LIØNSBERG Playbook]] and is foundational to [[The 12-Stage Pilgrim's Path]].
+Lives canonically in [[The LIØNSBERG Playbook]] and is foundational to [[The 12 Stages of the Sovereign's Path]].

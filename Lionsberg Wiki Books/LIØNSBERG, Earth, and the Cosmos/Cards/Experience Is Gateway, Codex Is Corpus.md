@@ -10,7 +10,7 @@ captured: 2026-05-18
 
 The canonical relationship between [[The LIØNSBERG Experience]] and [[The LIØNSBERG Sacred Codex]]:
 
-- **The Experience is the gateway.** The 12-Stage Pilgrim's Path. The wayfinding. The verb. The journey through the corpus.
+- **The Experience is the gateway.** The 12-Stage Sovereign's Path. The wayfinding. The verb. The journey through the corpus.
 - **The Codex is the corpus.** The seven bound volumes. The bookshelf. The noun. The thing the Experience moves a pilgrim through.
 
 A pilgrim enters through the Experience and reaches into the volumes of the Codex as the journey calls for them.

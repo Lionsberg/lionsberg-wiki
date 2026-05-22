@@ -101,7 +101,7 @@ captured: YYYY-MM-DD
 - [[Target Value Design]]
 - [[The 10 Year Grand Strategy]]
 - [[The 12 Pillars Orbit The ONE]]
-- [[The 12-Stage Pilgrim's Path]]
+- [[The 12 Stages of the Sovereign's Path]]
 - [[The 144 Gates as Architecture of Consciousness Shift]]
 - [[The 3-Year Healing and Empowerment Cycle]]
 - [[The 4-7-8 Breath]]
@@ -379,7 +379,7 @@ captured: YYYY-MM-DD
 
 **Substrate — Wiki/Codex architecture (11)**
 - [[Experience Is Gateway, Codex Is Corpus]]
-- [[The 12-Stage Pilgrim's Path]]
+- [[The 12 Stages of the Sovereign's Path]]
 - [[The Canonical Discipline]]
 - [[The Codex Is Never Finished]]
 - [[The Discernment Permission]]

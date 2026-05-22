@@ -1,4 +1,4 @@
-# Phase 1.0 — The Pilgrim's Path
+# Phase 1.0 — The Sovereign's Path
 
 _Synthesis and proposal for how the LIØNSBERG Wiki weaves and coheres into One Great Work, as experienced by [[The First Three Percent]] who discover the [[Golden Seed]]._
 
@@ -221,12 +221,12 @@ This is the complete arc. Every existing entry-point page belongs somewhere on i
 
 ### Should be folded or repurposed
 
-The entire `LIONSBERG Experience/` folder is an artifact of a previous build. It is fully reviewed and either rebuilt as the canonical Layer 2 wayfinding (the 12-Stage Pilgrim's Path), or its insights are folded into canonical homes and the folder deleted. No half-states.
+The entire `LIONSBERG Experience/` folder is an artifact of a previous build. It is fully reviewed and either rebuilt as the canonical Layer 2 wayfinding (the 12-Stage Sovereign's Path), or its insights are folded into canonical homes and the folder deleted. No half-states.
 
 | Page | Recommendation |
 |---|---|
 | `START HERE — The First Steps of Our Shared Journey.md` | **Fold into Welcome to LIØNSBERG.md** as a section; archive the standalone page. Currently duplicates the threshold function. |
-| `LIONSBERG Experience/The LIONSBERG Experience.md` | Either fully rebuilt as the canonical 12-Stage Pilgrim's Path articulation, or replaced by a new canonical wayfinding document and the folder deleted. Decide in Phase 1.1. |
+| `LIONSBERG Experience/The LIONSBERG Experience.md` | Either fully rebuilt as the canonical 12-Stage Sovereign's Path articulation, or replaced by a new canonical wayfinding document and the folder deleted. Decide in Phase 1.1. |
 | `LIONSBERG Experience/The Threshold.md` | Already folded per its own note. Replace with redirect or delete. |
 | `LIONSBERG Experience/The Story.md` | Likely duplicate of `The Story of LIØNSBERG.md`. Reconcile / fold / delete. |
 | `LIONSBERG Experience/The Great Game.md` | Likely duplicate of `The Great Game of LIØNSBERG.md`. Reconcile / fold / delete. |
@@ -294,7 +294,7 @@ That is all.
 
 The canonical relationship between The LIØNSBERG Experience and The LIØNSBERG Sacred Codex is **Option A — Experience as gateway, Codex as corpus.**
 
-The Experience (the 12-Stage Pilgrim's Path) is the master functional map (Layer 2). The Sacred Codex is the bound seven-volume corpus (Layer 3). A pilgrim enters through the Experience and reaches into Codex volumes as the journey calls for them.
+The Experience (the 12-Stage Sovereign's Path) is the master functional map (Layer 2). The Sacred Codex is the bound seven-volume corpus (Layer 3). A pilgrim enters through the Experience and reaches into Codex volumes as the journey calls for them.
 
 This preserves both the bound-corpus value of the Codex and the wayfinding value of the Experience. It matches how all great traditions actually work — there is a corpus (scripture, canon, source-texts) and there is a path through it (lectionary, catechism, sequence-of-practice). It leaves the Codex printable as seven physical volumes while the Experience remains living and adaptive.
 
@@ -321,7 +321,7 @@ Phase 1.1 (drafting `The LIØNSBERG Sacred Codex.md`) is now unblocked. The fram
 The Phase 1.1 deliverable set:
 
 - `The LIØNSBERG Sacred Codex.md` (new, at wiki root) — the bound-corpus declaration of the seven volumes
-- A canonical rebuild (or replacement) of `LIONSBERG Experience/The LIONSBERG Experience.md` as the 12-Stage Pilgrim's Path articulation — or the folder is deleted and the canonical wayfinding lives in a new file at the Wiki root
+- A canonical rebuild (or replacement) of `LIONSBERG Experience/The LIONSBERG Experience.md` as the 12-Stage Sovereign's Path articulation — or the folder is deleted and the canonical wayfinding lives in a new file at the Wiki root
 - A reconciliation note for `LIONSBERG Wiki Books/The LIONSBERG Codex/The LIONSBERG Sacred Codex.md` (the existing stub) — its valuable fragments fold into the new canonical file; the stub itself becomes a redirect or is archived
 - The capture file for **"LIØNSBERG, Earth, and the Cosmos"** opened, so it can begin receiving fragments as Phase 2 audit work commences
 

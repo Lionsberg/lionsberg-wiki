@@ -92,4 +92,4 @@ This Card is a **continuously improving** canonical articulation. It will be ref
 
 ---
 
-_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The 12 Stages of the Pilgrim's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Divine Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._
+_Linked from: [[The LIØNSBERG Experience|The Experience]] · [[The 12 Stages of the Sovereign's Path]] (Stage 6 Weekly Practice) · [[The Time Horizons]] (First Day onward) · [[The Coherent Divine Intention Wave]] (the field beneath the morning stillness) · [[The LIØNSBERG Calendar]] (the wider rhythms) · [[The Sacred Ascent]] (where the Mastery tier flows) · [[The Power of Today]] (the philosophical companion)._

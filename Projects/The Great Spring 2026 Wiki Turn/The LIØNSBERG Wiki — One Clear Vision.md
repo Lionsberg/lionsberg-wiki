@@ -207,7 +207,7 @@ Honest inventory of what is ready, what is in motion, what remains.
 
 ### Ready Now
 
-- The minimum viable Golden Seed: README + Welcome + the 12-Stage Pilgrim's Path. These exist today, work today, and can be passed hand to hand today.
+- The minimum viable Golden Seed: README + Welcome + the 12-Stage Sovereign's Path. These exist today, work today, and can be passed hand to hand today.
 - The LIØNSBERG Voice standard. Mature. Documented.
 - The 161 Cards already written in the Card-Book. Quality: ~87% canonical, ~12% needs refinement, 1 archive candidate (the Yahweh Card, pending refactor).
 - The Twelve Watchwords. Scripture-grade. Liturgical.

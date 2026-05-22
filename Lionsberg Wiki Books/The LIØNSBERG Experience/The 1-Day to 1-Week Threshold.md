@@ -49,8 +49,8 @@ The threshold is crossed by walking through it, not by preparing further.
 
 The Pilgrim who hesitates indefinitely never crosses. The Pilgrim who sends imperfectly within one week is the Pilgrim who plants the Seed forward.
 
-For the Pilgrim who finds even this too much — see [[The Solo Pilgrim's Grace]]. The walk can be slower. But not infinitely slower. At some point, the invitation must be sent. The Seed cannot grow alone.
+For the Pilgrim who finds even this too much — see [[The Solo Sovereign's Grace]]. The walk can be slower. But not infinitely slower. At some point, the invitation must be sent. The Seed cannot grow alone.
 
 ---
 
-Back to [[The LIØNSBERG Experience|main page]] · [[The Flame Bearer's Path]] · [[The Solo Pilgrim's Grace]].
+Back to [[The LIØNSBERG Experience|main page]] · [[The Flame Bearer's Path]] · [[The Solo Sovereign's Grace]].

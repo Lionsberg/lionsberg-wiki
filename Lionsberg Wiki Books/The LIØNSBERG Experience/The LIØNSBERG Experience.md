@@ -21,7 +21,7 @@ This Volume is the Pilgrim's operational companion at the individual scale. [[Th
 
 The Pilgrim's walk is held by four complementary frames — each a separate page within this wiki book, each cross-linked, each a living document continuously refined as more is learned about how Pilgrims actually walk the Path:
 
-### [[The 12 Stages of the Pilgrim's Path]]
+### [[The 12 Stages of the Sovereign's Path]]
 
 _What unfolds — the archetypal arc._
 
@@ -51,7 +51,7 @@ The new moon (seed-planting). The full moon (fullness and release). The equinoxe
 
 Three additional pages address the lived moments of the walk:
 
-- **[[The Solo Pilgrim's Grace]]** — for the Pilgrim who reads alone for weeks or months before gathering. This is not deviation; this is also the path.
+- **[[The Solo Sovereign's Grace]]** — for the Pilgrim who reads alone for weeks or months before gathering. This is not deviation; this is also the path.
 - **[[The 1-Day to 1-Week Threshold]]** — the hardest moment in the walk: the gap between reading alone and inviting others. The resistance, named. The path through it, articulated.
 - **[[The Flame Bearer's Path]]** — Pass-the-Flame as experienced by the giver. The Pilgrim who shares the Seed becomes a different Pilgrim than the one who only received it.
 

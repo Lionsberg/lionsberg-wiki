@@ -43,13 +43,13 @@ These five — **Observe · Orient · Decide · Act · Learn** — are the rhyth
 
 ## The Walk — Stages of the Sovereign Lifetime
 
-The Sovereign Path has stages — archetypal phases that unfold as the Walk deepens. The current canonical articulation is held in **[[The 12 Stages of the Pilgrim's Path|The 12 Stages of the Sovereign's Path]]** (Volume I), structured as:
+The Sovereign Path has stages — archetypal phases that unfold as the Walk deepens. The current canonical articulation is held in **[[The 12 Stages of the Sovereign's Path]]** (Volume I), structured as:
 
 > Discovery · Threshold · Orientation · Gather · First 90 Minutes · Weekly Practice · Pattern Encounter · [[The 144 Gates]] · [[The Sacred Ascent]] · Convergence · Covenant and Jubilee · Eternal Play
 
 This articulation is held provisionally. The shape of the Walk — how many stages, what they are named, where one ends and the next begins — is open for refinement as the map of the whole Path resolves. Each stage names what the Sovereign is **becoming**, not what they are **doing**.
 
-The Walk is permissive. Some Sovereigns walk in days what others walk in seasons. Some return to a stage many times before passing through. The Seed takes root in its own time, and [[The Solo Pilgrim's Grace|the Sovereign who walks alone]] is also walking the Path.
+The Walk is permissive. Some Sovereigns walk in days what others walk in seasons. Some return to a stage many times before passing through. The Seed takes root in its own time, and [[The Solo Sovereign's Grace|the Sovereign who walks alone]] is also walking the Path.
 
 ---
 

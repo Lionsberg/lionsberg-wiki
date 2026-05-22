@@ -8,7 +8,7 @@ captured: 2026-05-18
 
 # Covenant and Jubilee — December 2033
 
-Stage 11 of [[The 12-Stage Pilgrim's Path]].
+Stage 11 of [[The 12 Stages of the Sovereign's Path]].
 
 The moment when the [[New Earth Operating System]] is fully embodied and adopted for this star system and civilization.
 
