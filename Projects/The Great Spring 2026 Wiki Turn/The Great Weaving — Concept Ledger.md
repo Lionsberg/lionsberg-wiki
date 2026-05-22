@@ -112,18 +112,18 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### A.3 — Layer III: LIØNSBERG as Prototype / Weaving vs. Starting New
 
 - **View**: Cosmic / Layer Ø
-- **Canonical home (proposed)**:
-  - NEW root file `Weaving vs. Starting New.md` (the existential framing)
-  - NEW Card `LIØNSBERG Is A Prototype, Not The Eternal Essence.md`
+- **Canonical home**:
+  - ✅ Card `Cards/LIØNSBERG Is A Prototype, Not The Eternal Essence.md` — **woven 2026-05-22**
+  - NEW root file `Weaving vs. Starting New.md` (the existential framing) — pending
+  - NEW root file `The LIØNSBERG Offering.md` (what is articulated and cohered in LIØNSBERG, why weaving in is wiser than starting from scratch) — pending; tracked at A.7
 - **Source material**:
   - Closest fragments: `Federate With Lionsberg.md` (root — treats LIØNSBERG as singular option, needs reframing)
   - `Cards/The Pattern Governs, Not People.md`
   - `Cards/The Sovereign Superorganism.md` (describes the FORM but never names LIØNSBERG as one instance)
   - `Welcome to LIØNSBERG.md`
-  - Per Agent E: **articulated almost nowhere explicitly — one of the most consequential gaps in the entire corpus**
-- **Weaving approach**: NET-NEW authorship. The Sovereign's existential framing — Weave into the Prototype-that-is, or refuse to weave. Acknowledge the freedom to start new while showing why weaving is wiser. The Prototype invites contribution; it does not coerce.
-- **Disposition of scatter**: `Federate With Lionsberg.md` updated to reflect the Weaving frame.
-- **Status**: `awaiting-superorganism-earth`
+- **Weaving approach**: Card 1 (Prototype, Not Eternal Essence) authored. The Sovereign's existential framing — Weave into the Prototype-that-is, or refuse to weave — articulated in Card and (partially) in Superorganism-Earth README + Constitution main page. Root-level Weaving vs. Starting New page pending.
+- **Disposition of scatter**: `Federate With Lionsberg.md` to be updated to reflect the Weaving frame.
+- **Status**: `in-progress` (Card 1 woven; root-level page pending)
 
 ### A.4 — The Cosmic Symphony / Divine Tapestry
 
@@ -148,7 +148,24 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 - **Disposition of scatter**: Capture in PDG root + Layer III Card + Weaving Discipline memory. Already noted in `weaving_discipline.md`.
 - **Status**: `pending` (Card authorship)
 
-### A.6 — The LIONSBERG Cycle of Cosmic Co-Creation
+### A.7 — The LIØNSBERG Offering Page
+
+- **View**: Cosmic / Layer III · Cross-repo (Superorganism-Earth points here)
+- **Canonical home (proposed)**: NEW root file in lionsberg-wiki, likely `The LIØNSBERG Offering.md` or `Why Weave Into The LIØNSBERG Golden Seed.md`
+- **Purpose**: Articulate what is **already articulated and cohered** in LIØNSBERG (pattern language, governance, program management, Grand Strategy, 12 Pillars, technological substrate, fractal sovereignty framework, Sovereign Path, Playbook, Cards, etc.) and **why weaving in is wiser than starting from scratch**. Offering, not promotion. Frames LIØNSBERG as one available named Superorganism — one of potentially many — operationally a substantial way down the road.
+- **Where it is referenced from**: 
+  - Superorganism-Earth README §"Request For Guidance" paragraph naming FSx pattern lineage (Evolutesix and LIØNSBERG)
+  - Superorganism-Earth README §P.S. ("For those who would rather not start from scratch...")
+  - Future: external materials referencing LIØNSBERG's Golden Seed
+- **Voice disciplines applied**:
+  - "a Prototype" (not "the Prototype")
+  - "articulated, cohered, named" (not "already operational")
+  - Truth to ONE, errors to Us
+  - LIØNSBERG is one named Superorganism, not "(Currently Nameless)" — that distinction matters
+  - Cross-link to Card [[LIØNSBERG Is A Prototype, Not The Eternal Essence]]
+- **Status**: `pending` — Task #13 in backlog
+
+### A.8 — The LIONSBERG Cycle of Cosmic Co-Creation
 
 - **View**: Cosmic / Layer Ø
 - **Canonical home**: Root `The LIONSBERG Cycle of Cosmic Co-Creation.md` (already exists — 16-stage detailed structure)
@@ -460,7 +477,12 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 _Populated as concepts find their canonical homes and scattered files are archived/redirected._
 
-(none yet)
+| Date | Concept | Canonical Home | Notes |
+|---|---|---|---|
+| 2026-05-22 | LIØNSBERG-as-Prototype articulation | `Cards/LIØNSBERG Is A Prototype, Not The Eternal Essence.md` | Names the Prototype-not-essence posture, the kit-of-parts framing, and the wise move of weaving |
+| 2026-05-22 | Truth-to-ONE / Errors-to-Us epistemic posture | `Cards/Truth To ONE, Errors To Us.md` | Voice-discipline Card paired with [[memory/error_attribution_principle]] |
+| 2026-05-22 | Every Defect Is A Gift refinement ethos | `Cards/Every Defect Is A Gift.md` | The eternal process of learning and improvement; Like Gold refined seven times; surfacing what is not yet Wise, Right, Good, and True |
+| 2026-05-22 | Superorganism-Earth 9-layer cascade (cross-repo) | `Superorganism-Earth/The (Currently Nameless) Superorganism/` (commits 4daa62e..0ec5b2f) | 8 file renames (Ø-VII → I-VIII); new Layer Ø = ONE articulated only in layer table; Constitution main page §FSx breakthrough genericized; Template VII genericized; Founding Members specific naming removed; README LIØNSBERG mention unobtrusive |
 
 ---
 
