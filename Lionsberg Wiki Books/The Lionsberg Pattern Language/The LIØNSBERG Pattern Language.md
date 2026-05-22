@@ -27,7 +27,7 @@ The same discipline holds throughout: every Volume, every Card, every page that 
 
 ## The Playbook Chart — Where Plays And Patterns Are Cross-Indexed
 
-**[[The Playbook Chart]]** is the continuously-improving cross-reference between every Play in the Playbook and the Patterns that compose it. Its **Reverse Index** lists each Pattern alongside the Plays that invoke it — so when a Pattern is articulated, the invocation-contexts it must serve are visible. This Chart is co-canonical with this Pattern Language and with **[[The LIØNSBERG Playbook|Vol IV — The Playbook]]**.
+The continuously-improving cross-reference between every Play and the Patterns that compose it lives within **[[The LIØNSBERG Playbook]]** itself — as **The Playbook Chart** section of the Playbook's root page. Its **Reverse Index** lists each Pattern alongside the Plays that invoke it — so when a Pattern is articulated, the invocation-contexts it must serve are visible. The Chart is co-canonical with this Pattern Language and with the Playbook.
 
 The Chart is how the Pattern Language and the Playbook are **interexistent**: not two separate documents but two facings of one architecture — wisdom and arrangement, notes and riffs, the Symphony seen from both directions.
 
