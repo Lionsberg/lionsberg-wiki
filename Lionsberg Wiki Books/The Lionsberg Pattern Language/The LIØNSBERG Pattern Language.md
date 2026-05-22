@@ -8,21 +8,33 @@ The Pattern is the [[Way]]. Same Reality. Different rendering.
 
 ---
 
+## Where This Volume Sits — Lexicon · Pattern Language · Playbook
+
+The three operational Volumes of the Codex each carry a distinct content role. The same concept may appear in all three — held differently in each.
+
+- **[[The LIØNSBERG Lexicon|Lexicon]]** defines _**WHAT**_ — the canonical definition of every term in the LIØNSBERG vocabulary. One entry per term. Etymology, function, distinction from distorted uses, linkages.
+- **Pattern Language** articulates _**HOW**_ — the operational wisdom of establishing and maintaining the concept in lived practice. Context · Forces · Solution · Scale · Examples · Related Patterns. The grammar of action.
+- **[[The LIØNSBERG Playbook|Playbook]]** composes _**WHEN**_ — the riffs that invoke Patterns in sequence for common operational needs. Context · Sequence · Improvisation · Outcome. The field music-book; the choreography.
+
+**Example: [[Selectively Permeable Membrane]]** — the **Lexicon** defines what a Selectively Permeable Membrane _is_; **this Pattern Language** articulates _how_ it is established and maintained; the **Playbook** composes the Plays that invoke it ([[Play — Establish Selectively Permeable Membranes]], [[Play — Forge Your Field Of Agreements]], [[Play — Connect With Another Circle]]) when the operational moment calls for it.
+
+The three Volumes are interexistent. Each holds its facing canonically; the others reference. The cross-linking is rich; the wisdom is held once.
+
 ## Patterns Are The Notes; Plays Are The Riffs
 
-**The Pattern Language is architecturally primary.** Patterns are the fundamental units of wisdom — the notes in the Divine Symphony. Each Pattern is articulated **once**, in its own canonical Card. Context, forces, the pattern itself, examples, the scale(s) at which it operates, the related Patterns.
+**The Pattern Language is architecturally primary among the operational Volumes.** Patterns are the fundamental units of wisdom — the notes in the Divine Symphony. Each Pattern is articulated **once**, in its own canonical Card. Context, forces, the pattern itself, examples, the scale(s) at which it operates, the related Patterns.
 
-**Plays** — the compositions/riffs that arrange Patterns for common operational needs — live in **[[The LIØNSBERG Playbook|Vol IV — The Playbook]]**. Plays do not duplicate Pattern wisdom; they invoke Patterns in sequence/weave for a specific situation. The Playbook is the field music-book; the Pattern Language is the source of the music itself.
+**Plays** — the compositions/riffs that arrange Patterns for common operational needs — live in **[[The LIØNSBERG Playbook|Vol IV — The Playbook]]**. Plays invoke Patterns in sequence/weave for a specific situation. The Playbook is the field music-book; the Pattern Language is the source of the music itself.
 
 **Single source per Pattern.** A Pattern lives in one canonical Card. Plays and other documents link to it. The Pattern Card is the complete canonical home; the Playbook is the lived-practice navigation that sends the player to the Pattern [[Just In Time]] when the Pattern is needed.
 
-The same discipline holds throughout: every Volume, every Card, every page that touches a Pattern links to the canonical Pattern Card. No two places describe the same Pattern.
+The same discipline holds throughout: every Volume, every Card, every page that touches a Pattern links to the canonical Pattern Card. The wisdom of each Pattern is held in one place.
 
 ## Naming Convention
 
 - **Pattern Cards** carry name-based filenames: `Form A Circle.md`, `Spirit Precedes Pattern.md`, `Holofractal Omnifederation.md`. No numbering.
 - **Pattern Cards live in** `LIONSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/`
-- **Plays** in the Playbook use the `Play — Title.md` convention with em-dash separator: `Play — Form A Circle.md`, `Play — Run A Meeting.md`. The `Play —` prefix is self-describing and prevents duplicate-filename conflict with the same-named Pattern Card.
+- **Plays** in the Playbook use the `Play — Title.md` convention with em-dash separator: `Play — Create Or Join A Circle.md`, `Play — Run A Meeting.md`. The `Play —` prefix is self-describing and prevents duplicate-filename conflict with the same-named Pattern Card.
 - Same name can appear as both a Pattern and a (simple) Play — the Pattern holds the wisdom; the Play of the same name is the simplest riff that invokes just that Pattern.
 
 ## The Playbook Chart — Where Plays And Patterns Are Cross-Indexed
@@ -346,6 +358,198 @@ _How the Patterns articulated across the Twelve Pillars are actually delivered, 
 - [[Advantage-Based Decision Making]] — structure decisions on importance of advantages; record rationale for future reference (also called Choosing By Advantages)
 
 
+
+## The Reverse Facing — Patterns And The Plays They Serve
+
+_The cross-reference between every Pattern and the Plays that invoke it. This is the **reverse facing** of the architecture; the **forward facing** — every Play and the Patterns it invokes — lives in **[[The LIØNSBERG Playbook]]**. Together the two facings make the architecture interexistent. Each Pattern is articulated once in its canonical Card; this index ensures the Pattern is authored to serve every Play that depends on it._
+
+Each Pattern Card also carries this list locally (the **Plays That Invoke This Pattern** section), so a reader who lands on a Pattern can see — in one glance — every operational context the Pattern serves.
+
+### Foundational (Cross-Pillar)
+
+| Pattern | Invoked By |
+|---|---|
+| [[ØNE]] | every Play (implicit) |
+| [[Spirit Precedes Pattern]] | • [[Play — Cross The Threshold]]<br>• every Play (implicit discipline) |
+| [[Begin From ØNE]] | • [[Play — Begin The Daily Way]]<br>• every Play (implicit discipline) |
+| [[Sovereignty At Every Scale]] | • [[Play — Create Or Join A Circle]]<br>• [[Play — Govern Your Circle]]<br>• [[Play — Establish Selectively Permeable Membranes]]<br>• [[Play — Federate Across Scales]] |
+| [[Voluntary Covenant]] | • [[Play — Create Or Join A Circle]]<br>• [[Play — Forge Your Field Of Agreements]]<br>• [[Play — Create Or Join A Voluntary Association]]<br>• [[Play — Cross The Threshold]] |
+| [[Right of Withdrawal]] | • [[Play — Forge Your Field Of Agreements]]<br>• [[Play — Hold A Healthy Exit]]<br>• [[Play — Establish Selectively Permeable Membranes]] |
+| [[Right Relationship]] | • [[Play — Hold A Difficult Conversation]]<br>• [[Play — Steward A Watershed]]<br>• [[Play — Honor Inter-Species Relationship]] |
+| [[Sacred Reciprocity]] | • [[Play — Engage Conflict]]<br>• [[Play — Hold A Healthy Exit]]<br>• [[Play — Connect With Another Circle]]<br>• [[Play — Tithe To The Commons]]<br>• [[Play — Create Or Join A Tribe]]<br>• [[Play — Foster Ecosystemic Resource Flows]]<br>• [[Play — Honor Inter-Species Relationship]]<br>• [[Play — Steward A Watershed]]<br>• [[Play — Share A Story Of Transformation]]<br>• [[Play — Pass The Flame]] |
+| [[Holofractal Composition]] | • [[Play — Create Or Join A Community]]<br>• [[Play — Create Or Join A Guild]]<br>• [[Play — Create Or Join A Village]]<br>• [[Play — Self-Replicate Your Circle]]<br>• [[Play — Stack Up And Align]]<br>• [[Play — Establish Your Cellular Operating System]]<br>• [[Play — Onboard A New Member]] |
+
+### Pillar II — Governance and Stewardship
+
+| Pattern | Invoked By |
+|---|---|
+| [[Create A Circle]] | • [[Play — Create Or Join A Circle]] _(create-side wisdom)_ |
+| [[Join A Circle]] | • [[Play — Create Or Join A Circle]] _(join-side wisdom)_ |
+| [[Create A Village]] | • [[Play — Create Or Join A Village]] _(create-side wisdom)_ |
+| [[Join A Village]] | • [[Play — Create Or Join A Village]] _(join-side wisdom)_ |
+| [[Create A Community]] | • [[Play — Create Or Join A Community]] _(create-side wisdom)_ |
+| [[Join A Community]] | • [[Play — Create Or Join A Community]] _(join-side wisdom)_ |
+| [[Create A Guild]] | • [[Play — Create Or Join A Guild]] _(create-side wisdom)_ |
+| [[Join A Guild]] | • [[Play — Create Or Join A Guild]] _(join-side wisdom)_ |
+| [[Create A Tribe]] | • [[Play — Create Or Join A Tribe]] _(create-side wisdom)_ |
+| [[Join A Tribe]] | • [[Play — Create Or Join A Tribe]] _(join-side wisdom)_ |
+| [[Create A Voluntary Association]] | • [[Play — Create Or Join A Voluntary Association]] _(create-side wisdom)_ |
+| [[Join A Voluntary Association]] | • [[Play — Create Or Join A Voluntary Association]] _(join-side wisdom)_ |
+| [[Create A Company]] | • [[Play — Create Or Join A Company]] _(create-side wisdom)_ |
+| [[Join A Company]] | • [[Play — Create Or Join A Company]] _(join-side wisdom)_ |
+| [[Field of Agreements]] | • [[Play — Forge Your Field Of Agreements]]<br>• [[Play — Create Or Join A Community]]<br>• [[Play — Create Or Join A Village]]<br>• [[Play — Create Or Join A Company]]<br>• [[Play — Establish Your Cellular Operating System]]<br>• [[Play — Connect With Another Circle]]<br>• [[Play — Onboard A New Member]]<br>• [[Play — Establish Selectively Permeable Membranes]]<br>• [[Play — Build A Local Hub]] |
+| [[Selectively Permeable Membrane]] | • [[Play — Establish Selectively Permeable Membranes]]<br>• [[Play — Forge Your Field Of Agreements]]<br>• [[Play — Create Or Join A Community]]<br>• [[Play — Create Or Join A Company]]<br>• [[Play — Connect With Another Circle]]<br>• [[Play — Establish Your Cellular Operating System]] |
+| [[The Gathered Circle]] | • [[Play — Run A Meeting]]<br>• [[Play — Convene A Council]] |
+| [[Opening Ritual]] | • [[Play — Run A Meeting]] |
+| [[Check-In Round]] | • [[Play — Run A Meeting]] |
+| [[Three-Level Response]] | • [[Play — Run A Meeting]]<br>• [[Play — Make A Proposal]]<br>• [[Play — Make A Decision]] |
+| [[Integrative Decision-Making]] | • [[Play — Run A Meeting]]<br>• [[Play — Make A Proposal]]<br>• [[Play — Make A Decision]] |
+| [[Consent vs Consensus]] | • [[Play — Make A Decision]]<br>• [[Play — Govern Your Circle]] |
+| [[Choosing By Advantages]] | • [[Play — Make A Decision]] |
+| [[Wise Eldership]] | • [[Play — Run A Meeting]]<br>• [[Play — Make A Decision]]<br>• [[Play — Engage Conflict]]<br>• [[Play — Govern Your Circle]]<br>• [[Play — Convene A Council]]<br>• [[Play — Construct Wisdom Systems]]<br>• [[Play — Choose Your Roles]] |
+| [[The Facilitator's Stance]] | • [[Play — Run A Meeting]]<br>• [[Play — Make A Proposal]]<br>• [[Play — Hold A Difficult Conversation]] |
+| [[Closing Ritual]] | • [[Play — Run A Meeting]] |
+| [[Time-Held Container]] | • [[Play — Run A Meeting]]<br>• [[Play — Set Your Cadence]] |
+| [[Frame The Question Cleanly]] | • [[Play — Make A Proposal]] |
+| [[Listen Before Speaking]] | • [[Play — Make A Proposal]]<br>• [[Play — Hold A Difficult Conversation]] |
+| [[Trust The Group's Wisdom]] | • [[Play — Make A Proposal]] |
+| [[Decision Records]] | • [[Play — Make A Decision]] |
+| [[Subsidiarity]] | • [[Play — Make A Decision]]<br>• [[Play — Identify And Solve An Issue]]<br>• [[Play — Discern The Wise Right Next Steps]]<br>• [[Play — Federate Across Scales]]<br>• [[Play — Govern Your Circle]] |
+| [[Dialogos]] | • [[Play — Run A Meeting]]<br>• [[Play — Engage Conflict]]<br>• [[Play — Convene A Council]]<br>• [[Play — Construct Wisdom Systems]] |
+| [[The Escalation Ladder]] | • [[Play — Identify And Solve An Issue]]<br>• [[Play — Engage Conflict]] |
+| [[Truth-Telling With Love]] | • [[Play — Engage Conflict]]<br>• [[Play — Hold A Difficult Conversation]]<br>• [[Play — Share A Story Of Transformation]] |
+| [[Repair]] | • [[Play — Engage Conflict]]<br>• [[Play — Hold A Healthy Exit]] |
+| [[Direct Resolution]] | • [[Play — Engage Conflict]] |
+| [[The Two-Coordinator Rhythm]] | • [[Play — Create Or Join A Circle]]<br>• [[Play — Choose Your Roles]]<br>• [[Play — Govern Your Circle]] |
+| [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] | • [[Play — Govern Your Circle]] |
+| [[Federation Without Center]] | • [[Play — Federate Across Scales]] |
+| [[Federation Without Subordination]] | • [[Play — Federate Across Scales]] |
+| [[The Two-Stake Principle]] | • [[Play — Federate Across Scales]] |
+| [[Holofractal Omnifederation]] | • [[Play — Federate Across Scales]] |
+| [[Multi-Voice Constitutive Requirement]] | • [[Play — Convene A Council]] |
+| [[Light-Touch Governance]] | • [[Play — Create Or Join A Voluntary Association]] |
+
+### Pillar III — Sacred Economy
+
+| Pattern | Invoked By |
+|---|---|
+| [[Capital Subordinate To Purpose]] | • [[Play — Create Or Join A Company]]<br>• [[Play — Tithe To The Commons]]<br>• [[Play — Build A Local Hub]] |
+| [[Voluntary Tithing]] | • [[Play — Tithe To The Commons]] |
+| [[Fractal Commonsing]] | • [[Play — Tithe To The Commons]] |
+| [[Commons]] | • [[Play — Foster Ecosystemic Resource Flows]] |
+| [[Ergodic Pooling]] | • [[Play — Foster Ecosystemic Resource Flows]] |
+| [[Fostering Ecosystemic Resource Flows]] | • [[Play — Foster Ecosystemic Resource Flows]] |
+| [[FSx Pattern]] | • [[Play — Create Or Join A Company]] |
+| [[Honest Past Contributions]] | • [[Play — Hold A Healthy Exit]] |
+
+### Pillar IV — Sacred Learning and Mastery
+
+| Pattern | Invoked By |
+|---|---|
+| [[Continuous Learning]] | • [[Play — Do The Work]]<br>• [[Play — Integrate And Submit Your Work]]<br>• [[Play — Establish Your Cellular Operating System]] |
+| [[Continuously Improve Everything]] | • [[Play — Continuously Improve Everything]]<br>• [[Play — Identify And Solve An Issue]]<br>• [[Play — Hold Seasonal OmniSpection]] |
+| [[Every Defect Is A Gift]] | • [[Play — Continuously Improve Everything]] |
+| [[OmniSpection]] | • [[Play — Hold Seasonal OmniSpection]]<br>• [[Play — Identify And Solve An Issue]]<br>• [[Play — Continuously Improve Everything]] |
+| [[Seasonal OmniSpection]] | • [[Play — Hold Seasonal OmniSpection]] |
+| [[Integrating And Submitting Your Work]] | • [[Play — Integrate And Submit Your Work]] |
+| [[Knowledge Commons Contribution]] | • [[Play — Integrate And Submit Your Work]] |
+| [[Lineage And Transmission]] | • [[Play — Create Or Join A Guild]] |
+| [[Standards Of Craft]] | • [[Play — Create Or Join A Guild]] |
+
+### Pillar VII — Sacred Culture, Art, and Story
+
+| Pattern | Invoked By |
+|---|---|
+| [[Sharing Your Story]] | • [[Play — Share A Story Of Transformation]] |
+| [[Testimony As Vehicle Of Culture]] | • [[Play — Share A Story Of Transformation]] |
+| [[Sacred Naming]] | • [[Play — Name Your Circle]] |
+| [[Naming as Constitution]] | • [[Play — Name Your Circle]] |
+| [[Honor The Procession]] | • [[Play — Hold A Healthy Exit]] |
+
+### Pillar XII — Sacred Time, Rhythm, and Celebration
+
+| Pattern | Invoked By |
+|---|---|
+| [[The Daily Way]] | • [[Play — Begin The Daily Way]]<br>• [[Play — Set Your Cadence]] |
+| [[The Weekly Heartbeat]] | • [[Play — Set Your Cadence]] |
+| [[The LIØNSBERG Calendar]] | • [[Play — Hold Seasonal OmniSpection]] |
+| [[The Coherent Divine Intention Wave]] | • [[Play — Begin The Daily Way]] |
+| [[Rhythm As Backbone]] | • [[Play — Set Your Cadence]] |
+| [[Rest and Regeneration]] | • [[Play — Begin The Daily Way]]<br>• [[Play — Hold Seasonal OmniSpection]]<br>• [[Play — Build An Ark]] |
+
+### Cross-Cutting Axes — Function · Lineage · Species · Affinity
+
+| Pattern | Invoked By |
+|---|---|
+| [[Guild As Functional Federation]] | • [[Play — Create Or Join A Guild]] |
+| [[Lineage As Federation]] | • [[Play — Create Or Join A Tribe]] |
+| [[Diaspora As One Body]] | • [[Play — Create Or Join A Tribe]] |
+| [[Living Systems Member]] | • [[Play — Honor Inter-Species Relationship]]<br>• [[Play — Steward A Watershed]] |
+| [[All Our Relatives]] | • [[Play — Honor Inter-Species Relationship]] |
+| [[Watershed]] | • [[Play — Steward A Watershed]] |
+
+### Foundational (Operational)
+
+| Pattern | Invoked By |
+|---|---|
+| [[Network of Commitments]] | • [[Play — Discern The Wise Right Next Steps]]<br>• [[Play — Do The Work]]<br>• [[Play — Stack Up And Align]] |
+| [[Percent Promises Kept]] | • [[Play — Do The Work]] |
+| [[Integrated Delivery]] | • [[Play — Do The Work]]<br>• [[Play — Build A Local Hub]] |
+| [[Pull Planning]] | • [[Play — Discern The Wise Right Next Steps]] |
+| [[Discern The Wise Right Next Steps]] | • [[Play — Discern The Wise Right Next Steps]] |
+| [[Wise Right Discernment]] | • [[Play — Choose A Quest]]<br>• [[Play — Navigate The Wilderness]] |
+| [[Functional Differentiation]] | • [[Play — Choose Your Roles]]<br>• [[Play — Create Or Join A Company]]<br>• [[Play — Establish Your Cellular Operating System]] |
+| [[Domains of Responsibility and Authority]] | • [[Play — Create Or Join A Company]] |
+| [[Roles As Service]] | • [[Play — Choose Your Roles]] |
+| [[Rotation]] | • [[Play — Choose Your Roles]] |
+| [[Right Sized Response]] | • [[Play — Identify And Solve An Issue]] |
+| [[Surface The Issue]] | • [[Play — Identify And Solve An Issue]] |
+| [[Achievable Within A Season]] | • [[Play — Choose A Quest]] |
+| [[Total Nested Hierarchy of Goals]] | • [[Play — Stack Up And Align]] |
+| [[Stacking Up And Aligning]] | • [[Play — Stack Up And Align]] |
+| [[Self-Replication]] | • [[Play — Grow Your Circle]]<br>• [[Play — Self-Replicate Your Circle]]<br>• [[Play — Pass The Flame]] |
+| [[Self-Sustenance and Self-Replication]] | • [[Play — Self-Replicate Your Circle]] |
+| [[Self-Sustenance]] | • [[Play — Build An Ark]] |
+| [[Fibonacci Spread]] | • [[Play — Pass The Flame]] |
+| [[Pass The Flame]] | • [[Play — Pass The Flame]]<br>• [[Play — Grow Your Circle]] |
+| [[Crossing A Threshold]] | • [[Play — Cross The Threshold]] |
+| [[Receive The Seed]] | • [[Play — Cross The Threshold]]<br>• [[Play — Onboard A New Member]]<br>• [[Play — Pass The Flame]] |
+| [[The Sovereign Path]] | • [[Play — Cross The Threshold]] |
+| [[Voluntary Assent]] | • [[Play — Forge Your Field Of Agreements]]<br>• [[Play — Onboard A New Member]]<br>• [[Play — Grow Your Circle]] |
+| [[Shared Purpose]] | • [[Play — Create Or Join A Circle]]<br>• [[Play — Name Your Circle]]<br>• [[Play — Choose A Quest]] |
+| [[Direct Access to ØNE]] | • [[Play — Begin The Daily Way]] |
+| [[Circle as Irreducible Unit]] | • [[Play — Create Or Join A Circle]] |
+| [[The Three Supreme Agreements]] | • [[Play — Forge Your Field Of Agreements]] |
+| [[The Village Threshold]] | • [[Play — Create Or Join A Village]] |
+| [[Direct Knowing]] | • [[Play — Create Or Join A Village]] |
+| [[The 300]] | • [[Play — Create Or Join A Community]] |
+| [[The Pattern-Anchor]] | • [[Play — Create Or Join A Community]] |
+| [[Sacred Welcome]] | • [[Play — Onboard A New Member]] |
+| [[Discrete Birth And Discrete Death]] | • [[Play — Create Or Join A Voluntary Association]] |
+| [[Sacred Guardianship]] | • [[Play — Build An Ark]] |
+| [[Choose A Quest]] | • [[Play — Choose A Quest]] |
+| [[The Goal]] | • [[Play — Choose A Quest]] |
+| [[Connect and Collaborate With Other Circles]] | • [[Play — Connect With Another Circle]] |
+| [[Grow Your Circles]] | • [[Play — Grow Your Circle]] |
+| [[Self-Replicate Your Circles]] | • [[Play — Self-Replicate Your Circle]] |
+| [[Federate Everything]] | • [[Play — Federate Across Scales]] |
+
+### Wilderness And Strategic Plans
+
+| Pattern | Invoked By |
+|---|---|
+| [[The Wilderness]] | • [[Play — Navigate The Wilderness]] |
+| [[Withdrawal of Consent and Exodus Protocols]] | • [[Play — Navigate The Wilderness]] |
+| [[Network of Hubs]] | • [[Play — Navigate The Wilderness]]<br>• [[Play — Build A Local Hub]] |
+| [[Network of Arks]] | • [[Play — Navigate The Wilderness]]<br>• [[Play — Build An Ark]] |
+| [[The Joseph Plan]] | • [[Play — Build A Local Hub]] |
+| [[The Noah Plan]] | • [[Play — Build An Ark]] |
+| [[The Solomon Plan]] | • [[Play — Construct Wisdom Systems]] |
+| [[The Living Library]] | • [[Play — Construct Wisdom Systems]] |
+| [[Truth To ONE, Errors To Us]] | • [[Play — Continuously Improve Everything]] |
+
+---
+
 ## Omnispection and Continuous Improvement
 
 _The discipline by which the Pattern Language stays alive._
@@ -379,14 +583,8 @@ Each Pattern Card carries:
 - **Solution** — the canonical move
 - **Composes With** — which Patterns nest above, below, beside
 - **Variations Across Scales** — Self / Circle / Community / Bioregion / Planet / Federation
-- **Lineage** — exa
--mples where this Pattern has been articulated before 
+- **Lineage** — examples where this Pattern has been articulated before
+- **Plays That Invoke This Pattern** — the operational contexts this Pattern must serve, drawn from the **Reverse Facing** above
 - **Improvement** — how it is continuously improved through [[OmniSpection]]
 
 Continuous improvement is structural. The corpus is open.
-
----
-
----
-
-_Index drafted 2026-05-20 by Claude (AI assistant) and [[the nameless one]]. Pending review and adoption._

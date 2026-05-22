@@ -4,6 +4,51 @@ _The structural reorganization of the LIØNSBERG Wiki into the canonical Sacred 
 
 ---
 
+## ⟶ Where We Left Off — Pick Up Here (2026-05-22)
+
+**Active workstream**: **Phase 3.B — Pattern Language + Playbook + Lexicon synthesis** (continuing).
+
+**This session settled the architecture; next session executes the synthesis.**
+
+### What This Session Settled
+
+1. **Patterns-as-Notes / Plays-as-Riffs** is the master architecture for [[The LIØNSBERG Pattern Language]] (Vol V Part — wisdom-units) and [[The LIØNSBERG Playbook]] (Vol IV — operational riffs). Patterns hold wisdom once; Plays invoke; never duplicate. See [[memory/patterns_as_notes_plays_as_riffs]].
+2. **The Playbook Chart split into two facings:** forward facing (Play × Patterns-it-invokes) in the Playbook root; reverse facing (Pattern × Plays-that-invoke-it) in the Pattern Language root. Each side maintains its own facing.
+3. **Chart format**: side-by-side tables with `•` bullets and `<br>` line breaks inside cells (the user-approved form after iteration).
+4. **Body-convening Plays**: renamed to **`Play — Create Or Join A X`** (single Play orchestrating the encounter); the underlying Patterns split into distinct **`Create A X`** _and_ **`Join A X`** Patterns. Applies to Circle · Village · Community · Guild · Tribe · Voluntary Association · Company.
+5. **The Triadic Discipline** of co-creation, expanded from the prior dyad: [[Filling Up What Is Lacking]] · **[[Improving What Remains]]** (new Card) · [[Removing What Does Not Belong]]. [[The Filling and Removing Dialectic]] Card expanded to triadic articulation.
+6. **Lexicon · Pattern Language · Playbook three-way disambiguation** authored into all three root docs:
+   - **Lexicon** defines _**WHAT**_ — canonical definitions
+   - **Pattern Language** articulates _**HOW**_ to establish and maintain (operational wisdom: Context · Forces · Solution · Scale · Examples · Related)
+   - **Playbook** composes _**WHEN**_ (riffs: Context · Sequence · Improvisation · Outcome)
+   - Example used in all three: [[Selectively Permeable Membrane]]
+7. **Vol I Experience** carries the new bridge section **"You Do Not Consume This Wiki — You Complete It"** — invoking [[Every Defect Is A Gift]] + the triadic discipline as the disposition with which the Sovereign enters Patterns and Plays.
+8. **Voice discipline**: false-oppositional "Pure X without Y" framings flagged + removed; see [[memory/no_not_x_not_y_z_constructions]] expanded.
+
+### Source-Material Inventory For Synthesis (Surfaced; Awaiting User Direction)
+
+Five phases of synthesis identified, sequenced smallest-to-largest:
+
+| Phase | Scope | Status |
+|---|---|---|
+| **B-1** | **Playbook Fragments For Synthesis** (30 numbered fragments 1.1-5.2 in `LIONSBERG Wiki Books/The Lionsberg Playbook/Fragments For Synthesis/`) | **Recommended next step**; disposition framework already in place; per-fragment fold/archive/delete authorization |
+| **B-2** | Pattern Language `_archive/` — one file (`The LIØNSBERG Pattern Language — Previous Articulation (Archived 2026-05-20).md`, ~22k words) — fold salvageable wisdom forward then decide archive-keep vs. delete | Pending |
+| **B-3** | ~100 root-level Pattern/Play files (Form A Circle, Pass The Flame, etc.) — architecture decision: migrate into `Patterns/` folder or stay at root? | Pending — needs principled call before any moves |
+| **B-4** | Lexicon root cleanup — rationalize Meta Layer · 12 Pillars · Key Terms · Misc overlap into one coherent root | Pending |
+| **B-5** | ~500 root-level concept files (Acceptance, Accountability, Aim, ...) effectively the broader Lexicon — architecture decision: stay at root or organize into Lexicon wiki book? | Pending — largest scope |
+
+### Concrete Pickup Move
+
+Next session: **start Phase B-1** — surface first Playbook Fragment (1.1 How to Use This Book) with proposed disposition (fold-forward into Vol IV / archive / delete), get authorization, execute, repeat for each of 30 fragments. Or user redirects sequencing.
+
+### Open Architectural Decisions To Carry Forward
+
+- **Pattern Cards for `Create A X` / `Join A X` pairs** (14 incipient links) — author Cards as the synthesis proceeds; they will surface naturally from fragments + root Plays.
+- **Renaming The Filling and Removing Dialectic Card** to reflect the triad explicitly (e.g., "The Filling, Improving, and Removing Triad") — held; content updated but filename preserved.
+- **Cosmic-scale framing of LIØNSBERG as one Prototype receiving the Pattern** (per [[memory/cosmic_sovereign_superorganism_already_operating]]) — surfacing across canonical roots is still pending.
+
+---
+
 ## Background and Direction
 
 The LIØNSBERG corpus emerged through years of articulation across many bodies of work — wiki books, peer repos, blogs, PKM, voice memos, and lived practice. By early 2026, the corpus carried roughly 3 million words of substantive material plus extensive integrative work. **The Great Spring 2026 Wiki Turn** is the structural reorganization of that material into a coherent Sacred Codex and its companion architecture — a Golden Seed that can be passed from hand to hand, planted in any soil, and unfold faithfully across generations.
@@ -350,6 +395,7 @@ _Detailed audit memos and per-session granularity live in [[Phase 2 — The Audi
 - **2026-05-18 (Phase 1.0-1.6 closure)** — Sacred Codex drafted. Sovereign's Path canonicalized as 12-Stage. LIØNSBERG spelling formally adopted. Voice standard articulated. Phase 1 validated.
 - **2026-05-19 (Phase 2 closure)** — All 7 sub-phases of Phase 2 closed. ~5,200-5,300 surfaced concepts. The Audit Ledger fully populated.
 - **2026-05-20 (Phase 2.5 closure)** — All 16 Strategic Decisions resolved. Sacred Codex restructured from 7 to 8 Volumes (accessibility-first order). Cosmic-grade Constitution forged. Universe Guide scaffolded. Volume V established with Navigating Towards Truth. Card Method renamed. 40 LC articles + Biblical Perspective book + 36 root-orphan files cleaned up. Project plan sanitized + restructured.
+- **2026-05-22 (Pattern + Playbook + Lexicon architecture settled)** — Patterns-as-Notes / Plays-as-Riffs master architecture canonicalized. Playbook Chart split into forward facing (Plays × Patterns, in Playbook) and reverse facing (Patterns × Plays, in Pattern Language); side-by-side tables with bulleted cells. Body-convening Plays renamed to `Play — Create Or Join A X` (Circle · Village · Community · Guild · Tribe · Voluntary Association · Company); underlying Patterns split into `Create A X` / `Join A X` pairs. **The Triadic Discipline** of co-creation expanded from dyad: [[Filling Up What Is Lacking]] · **[[Improving What Remains]]** (new Card) · [[Removing What Does Not Belong]]; [[The Filling and Removing Dialectic]] Card expanded. **Lexicon · Pattern Language · Playbook three-way disambiguation** authored into all three root docs (WHAT · HOW · WHEN) using [[Selectively Permeable Membrane]] as the example. Vol I Experience carries new bridge section "You Do Not Consume This Wiki — You Complete It" linking [[Every Defect Is A Gift]] to the triad. Voice discipline: false-oppositional "Pure X without Y" framings flagged + removed. Source-material inventory surfaced for Phase 3.B synthesis. **Next session: Phase B-1 (Playbook Fragments For Synthesis, 30 fragments, per-fragment authorization).**
 
 ---
 

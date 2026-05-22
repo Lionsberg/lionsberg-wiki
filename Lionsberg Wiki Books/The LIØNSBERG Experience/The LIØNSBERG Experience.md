@@ -57,6 +57,26 @@ Three additional pages address the lived moments of the walk:
 
 ---
 
+## You Do Not Consume This Wiki — You Complete It
+
+The Sovereign arrives as a Co-Creator whose lived practice **matures the corpus itself**.
+
+The Pattern is eternal. The articulation continually sharpens. Every Volume, every [[The LIØNSBERG Pattern Language|Pattern]], every [[The LIØNSBERG Playbook|Play]], every Card, every line in the [[The LIØNSBERG Lexicon|Lexicon]] is **open to the work of three moves**:
+
+- **[[Filling Up What Is Lacking]]** — what is missing, you add. The Pattern that has no Card yet. The Play that no one has composed. The scale that has no entry. The relationship that no one has named. If you see it missing, the seeing is itself the call.
+- **[[Improving What Remains]]** — what is half-articulated, you refine. The Card that almost lands. The wisdom that needs one more turn. The line that should be sharper. If you see how it could be truer, the seeing is itself the gift.
+- **[[Removing What Does Not Belong]]** — what is drifted, false, or obsolete, you prune. The articulation that no longer carries. The duplicate. The vestige. The fragment that contradicts the Whole. If you see what does not belong, the seeing is itself the discernment.
+
+The three moves are paired and inseparable. The disciplined Body practices all three. The corpus matures through all three. See **[[The Filling and Removing Dialectic|the triadic articulation]]** for the full operational discipline.
+
+**[[Every Defect Is A Gift]].** The eye that sees the imperfection is the same eye that can refine it. The Sovereign who notices the missing Pattern is the Sovereign who fills it. The Sovereign who senses the drift is the Sovereign who prunes it. **The wiki grows through you.**
+
+This is how the Pattern Language and the Playbook grow — through every Sovereign who walks the Way bringing back what they discovered in the walking. The corpus you are about to enter is **a Living Architecture you are part of completing**.
+
+[[The LIØNSBERG Pattern Language]] and [[The LIØNSBERG Playbook]] are a Body of articulation that has been carried this far and is waiting for what you bring next.
+
+---
+
 ## The Field Beneath the Work
 
 **[[The Coherent Divine Intention Wave]]** — the seven-minute morning stillness held at dawn local time by every Sovereign. Because dawn rolls continuously around the Earth, the wave is always in motion somewhere. A continuous ring of coherent consciousness circles the planet — never broken, always renewed. There is always someone, somewhere, holding the highest intention right now. The Wave is the simplest, most powerful contribution every Sovereign makes — before any Quest, before any Circle, before any visible work. The field comes first. From the field, the Pattern emerges.

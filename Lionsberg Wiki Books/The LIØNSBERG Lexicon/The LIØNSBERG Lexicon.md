@@ -1,9 +1,27 @@
 # LIØNSBERG Lexicon
 *Definitions of Key Terms used throughout the [[LIONSBERG Narrative Universe]]*
 
-This Lexicon is the semantic bloodstream of the LIONSBERG Body. Learning to speak [[The Language of LIONSBERG]] enables information and resources to Flow. 
+This Lexicon is the semantic bloodstream of the LIONSBERG Body. Learning to speak [[The Language of LIONSBERG]] enables information and resources to Flow.
 
-This page is a [[Work In Progress]]. 
+This page is a [[Work In Progress]].
+
+---
+
+## Where This Volume Sits — Lexicon · Pattern Language · Playbook
+
+The three operational Volumes of the Codex each carry a distinct content role. The same concept may appear in all three — held differently in each.
+
+- **Lexicon** defines _**WHAT**_ — the canonical definition of every term in the LIØNSBERG vocabulary. One entry per term. Etymology, function, distinction from distorted uses, linkages.
+- **[[The LIØNSBERG Pattern Language|Pattern Language]]** articulates _**HOW**_ — the operational wisdom of establishing and maintaining the concept in lived practice. Context · Forces · Solution · Scale · Examples · Related Patterns. The grammar of action.
+- **[[The LIØNSBERG Playbook|Playbook]]** composes _**WHEN**_ — the riffs that invoke Patterns in sequence for common operational needs. Context · Sequence · Improvisation · Outcome. The field music-book; the choreography.
+
+**Example: [[Selectively Permeable Membrane]]**
+
+- **Lexicon** defines what a Selectively Permeable Membrane _is_ — a conscious boundary that filters exchange while honoring sovereignty.
+- **Pattern Language** articulates _how_ a Selectively Permeable Membrane is established and maintained — context, forces, the canonical move, the scale-variations, related Patterns.
+- **Playbook** composes _when_ to invoke the Pattern — [[Play — Establish Selectively Permeable Membranes]], [[Play — Forge Your Field Of Agreements]], [[Play — Connect With Another Circle]] each invoke it at the moment that calls for it.
+
+The three Volumes are interexistent. Each holds its facing canonically; the others reference. The cross-linking is rich; the wisdom is held once.
 
 ---
 
