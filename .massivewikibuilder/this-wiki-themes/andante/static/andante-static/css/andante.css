@@ -470,7 +470,6 @@ body.no-scroll { overflow: hidden; }
   font-style: italic;
 }
 .prose blockquote p { margin-bottom: var(--s-3); }
-.prose blockquote em { font-style: normal; }
 .prose blockquote cite { font-style: normal; font-size: 0.9em; color: var(--ink-faint); display: block; margin-top: var(--s-2); }
 .prose blockquote cite::before { content: "— "; }
 
