@@ -42,7 +42,7 @@ The power flows from [[ØNE]], through the individual, upward through increasing
 
 ### The Membrane That Protects Sovereignty
 
-If the [[Holofractal Omnifederation]] is a sovereign superorganism, sovereignty at every scale is what keeps each cell alive and whole. The mechanism is the **[[Selectively Permeable Membrane]]** — the boundary that protects each domain while allowing life to flow in and out.
+If the [[Holofractal Omnifederation]] is a sovereign superorganism, sovereignty at every scale is what keeps each cell alive and whole. The mechanism is the **[[Selectively Permeable Membrane]]** — the boundary that protects each domain while allowing life to flow in and out. Every scale preserves its sovereignty — from [[Sovereign]] to [[Circle]] to [[Community]] to [[Bioregion]] to [[Planet as Biome]] and beyond, across all **[[Levels of Scale]]**, including the cross-cutting [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]].
 
 Every living cell has a membrane. It is not a wall — it is a *selectively permeable* boundary. It allows nutrients in. It allows waste out. It allows communication. But it protects the integrity of what is within. Without it, the cell dissolves.
 

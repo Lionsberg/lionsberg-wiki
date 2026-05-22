@@ -50,7 +50,7 @@ The Story is **dual-functional** — read standalone as the mythic articulation 
 
 _The participatory form. The Game played in real life, with real stakes._
 
-The Great Game is the cooperative, real-world Game of cosmic-scale transformation. It is how the Pattern is lived — through Circles of 3-13 sovereign beings nesting into Communities, Bioregions, Guilds, and Galaxies. The Game unfolds in four Movements: the Simple Game (Circle to Circle), the Community Game (Circles into Communities), the Planetary Game (Communities into the Planetary Grid), and the Eternal Divine Play (worlds into the federation of worlds).
+The Great Game is the cooperative, real-world Game of cosmic-scale transformation. It is how the Pattern is lived — through Circles of 3-13 sovereign beings nesting upward through Communities, Bioregions, the Planet as Biome, and beyond, across all [[Levels of Scale]], with cross-cutting [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] weaving through every scale across time and worlds. The Game unfolds in four Movements: the Simple Game (Circle to Circle), the Community Game (Circles into Communities), the Planetary Game (Communities into the Planetary Grid), and the Eternal Divine Play (worlds into the federation of worlds).
 
 Placed at Volume III for accessibility — once the reader has received the Story, the next step is the Game itself.
 

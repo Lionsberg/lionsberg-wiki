@@ -124,7 +124,7 @@ As Circles multiply and federate:
 - **Bioregions and Guilds** weave together into the **Planetary Grid**
 - The **Planetary Grid** becomes the living infrastructure of the **[[New Civilization]]**
 
-At every level the same Pattern operates. Coherent from individual to planetary and beyond. **By the time the existing structures fully collapse, the New Civilization is already functional** — a living alternative, already governing, already feeding, already educating, already healing.
+At every level the same Pattern operates. Coherent from Sovereign to Circle to Community to Bioregion to Planet — and beyond — across all **[[Levels of Scale]]**, with cross-cutting [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] weaving through. **By the time the existing structures fully collapse, the New Civilization is already functional** — a living alternative, already governing, already feeding, already educating, already healing.
 
 ---
 

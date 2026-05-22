@@ -48,7 +48,7 @@ A Circle is not a committee, a task force, or a working group. It is a **complet
 
 If a Circle can do all five, it carries the full DNA. It is not dependent on any center. It is a whole tree grown from the same Seed — and it bears fruit containing new Seeds.
 
-AND — crucially — this does not stop at the Circle. Circles naturally reach out and find one another. They begin cooperating on larger challenges. Communities emerge — not designed from above, but grown organically from below. Communities discover other communities. Bioregions emerge. A planetary federation emerges.
+AND — crucially — this does not stop at the Circle. Circles naturally reach out and find one another. Communities emerge — not designed from above, but grown organically from below. Communities federate into larger bodies. Bioregions emerge as integrative cultural-ecological territories. The Planetary Grid emerges as the whole Body of Earth. Across the cosmos, the Federation of Worlds extends the same Pattern beyond a single planet. The same Pattern operates at every scale, across all **[[Levels of Scale]]**, with cross-cutting [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] weaving through.
 
 No center plans this. No authority imposes it. **The emergence of the omnifederation on Earth is the emergence of a sovereign superorganism — organically, from the bottom up.** Sovereign individuals self-organizing into sovereign Circles, sovereign Circles reaching out to cooperate with other sovereign Circles, sovereign communities discovering and federating with other sovereign communities — until the Whole is alive.
 
