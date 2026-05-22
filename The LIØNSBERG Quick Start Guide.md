@@ -44,7 +44,7 @@ Keep it short. This is connection, not explanation.
 
 Reading order:
 
-1. **[[Prologue to The Story and The Great Game]]** (~10 min)
+1. **[[0.1 Prologue]]** and **[[0.2 The Opening Invocation]]** (~10 min total) — the threshold into the Game
 2. **[[The Story of LIØNSBERG]]** (~10 min)
 3. **[[The Great Game of LIØNSBERG]]** (~10 min)
 

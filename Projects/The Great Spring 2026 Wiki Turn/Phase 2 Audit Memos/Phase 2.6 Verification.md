@@ -3,7 +3,7 @@
 **Verification date:** 2026-05-19
 **Verifier:** T-8 (Phase 2.3 / 2.5 / 2.6 verification agent)
 **Source transcripts:** Five ATC agent JSONL files dated 2026-05-19
-**Ledger section verified:** `Projects/The Great Spring 2026 Wiki Turn/Phase 2 — The Audit Ledger.md` lines 4442–4922
+**Ledger section verified:** [[Phase 2 — The Audit Ledger]] lines 4442–4922
 
 ---
 
@@ -19,7 +19,7 @@ Transcripts located at:
 - ATC-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a448c54bb8d84a858.jsonl` (meta: "ATC-4: Above The Chaos batch 4")
 - ATC-5 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a42569c26292f5aea.jsonl` (meta: "ATC-5: Above The Chaos batch 5")
 
-Memos extracted to `Workspaces/Phase 2.7 Transcription/_scripts/extracted_memos/ATC-{1,2,3,4,5}.md`.
+Memos extracted to [[ATC-{1,2,3,4,5}]].
 
 ---
 

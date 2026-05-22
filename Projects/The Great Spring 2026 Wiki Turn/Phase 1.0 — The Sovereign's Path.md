@@ -12,7 +12,7 @@ The frame proposed below was reviewed and the following decisions stand for Phas
 
 - **Architecture: Experience as gateway, Codex as corpus.** (Option A confirmed.) The Sovereign's Path is the wayfinding spine; the Sacred Codex is the bound seven-volume corpus.
 - **The Sovereign's Path has 12 stages, not 11.** Stage 11 is **Covenant and Jubilee** — the moment when the New Earth Operating System is fully embodied and adopted for this star system and civilization (currently scheduled for the greatest celebration and jubilee in recorded history, **December 2033**). Stage 12 is the **Eternal Play**.
-- **Every page from `README.md` onward is reevaluated in the light of The Experience we are designing for each and every Sovereign.** Nothing is preserved by inertia. Each canonical page either serves the Sovereign's Path or is folded / archived / rewritten.
+- **Every page from [[README]] onward is reevaluated in the light of The Experience we are designing for each and every Sovereign.** Nothing is preserved by inertia. Each canonical page either serves the Sovereign's Path or is folded / archived / rewritten.
 - **The LIØNSBERG Experience folder is an artifact of a previous build.** It is fully reviewed and improved, or folded into canonical homes and deleted. No half-states.
 - **The 144 Gates of Initiation and the 72 Gates of the Sacred Ascent belong inside the Pattern Language** (Phase 3). They are not separate works. Every being, forever, will need to understand them.
 - **The 144 Gates are the architecture of consciousness shift.** They address the epiphanies, connections, and neural / conceptual architecture that have to be in place for a being to grasp the System as a whole. Phase 3 must discern the wise right order and sequence of initiation to build these reliably — essentially, **how do we shift consciousness to where this is obviously the wise right thing that must be done to confront and overcome the challenges at hand and co-create Heaven here and now?**
@@ -32,16 +32,16 @@ The user-journey architecture is **more developed than the project-plan survey s
 
 | Page                                                    | What it is                                                         | State                                                                                               |
 | ------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| `README.md` ("The Golden Seed of LIØNSBERG")            | The entry threshold — first thing a Sovereign sees                   | Strong, recently polished, names "A Story / A Pattern / A Game"                                     |
-| `Welcome to LIONSBERG.md`                               | The essential guide — walks ONE / Pattern / Game / Ascent / Gather | **Substantially complete and beautifully voiced** — contains the canonical 12 Elements articulation |
-| `The LIONSBERG Quick Start Guide.md`                    | First 90 minutes for a gathered Circle                             | Operational, well-developed                                                                         |
-| `The Invitation.md`                                     | Letter form, deep prophetic voice                                  | Strong standalone piece                                                                             |
-| `START HERE — The First Steps of Our Shared Journey.md` | Another sacred entry-point                                         | Substantial but duplicates other entries                                                            |
-| `LIONSBERG Experience/The LIONSBERG Experience.md`      | The sevenfold journey scaffold                                     | Names a coherent 7-stage arc                                                                        |
+| [[README]] ("The Golden Seed of LIØNSBERG")            | The entry threshold — first thing a Sovereign sees                   | Strong, recently polished, names "A Story / A Pattern / A Game"                                     |
+| [[Welcome to LIONSBERG]]                               | The essential guide — walks ONE / Pattern / Game / Ascent / Gather | **Substantially complete and beautifully voiced** — contains the canonical 12 Elements articulation |
+| [[The LIONSBERG Quick Start Guide]]                    | First 90 minutes for a gathered Circle                             | Operational, well-developed                                                                         |
+| [[The Invitation]]                                     | Letter form, deep prophetic voice                                  | Strong standalone piece                                                                             |
+| [[START HERE — The First Steps of Our Shared Journey]] | Another sacred entry-point                                         | Substantial but duplicates other entries                                                            |
+| [[The LIONSBERG Experience]]      | The sevenfold journey scaffold                                     | Names a coherent 7-stage arc                                                                        |
 
 ### The current Codex stub
 
-`LIONSBERG Wiki Books/The LIONSBERG Codex/The LIONSBERG Sacred Codex.md` contains **five distinct, unreconciled attempts** at the Codex's table of contents:
+[[The LIONSBERG Sacred Codex]] contains **five distinct, unreconciled attempts** at the Codex's table of contents:
 
 1. The initial outline (Narrative Universe / Book / Covenant and Law / Theses / Blueprints / Atlas / Commentaries / Guardrails)
 2. A numbered section list (Language / Book / Way / Agreements / Handbook / Guides / 300)
@@ -53,7 +53,7 @@ Each was reaching for the same thing. None became canonical.
 
 ### The Sevenfold Experience (the strongest existing articulation of the journey)
 
-`The LIONSBERG Experience.md` names a coherent arc:
+[[The LIONSBERG Experience]] names a coherent arc:
 
 | # | Stage | Verb | What happens |
 |---|---|---|---|
@@ -132,17 +132,17 @@ What a Sovereign actually walks, in order:
 
 ### Stage 1 — Discovery
 - Receives `lionsberg.wiki` link from someone they trust
-- Lands at **`README.md`** (The Golden Seed)
+- Lands at **[[README]]** (The Golden Seed)
 - Feels the resonance
 
 ### Stage 2 — Threshold
-- Reads **`The Invitation.md`** OR clicks into **`Welcome to LIØNSBERG.md`**
+- Reads **[[The Invitation]]** OR clicks into **[[Welcome to LIØNSBERG]]**
 - Makes the decision to cross. The Threshold experience.
 
 ### Stage 3 — Orientation
-- Reads **`The Story of LIØNSBERG.md`** (Volume II of the Codex) — receives the cosmic context, the True Myth, the why-now
-- Reads the broader articulation of the Pattern (in `Welcome to LIØNSBERG.md`) — encounters the 12 Elements as living DNA
-- Reads about the Game (in `Welcome to LIØNSBERG.md`) — sees the form
+- Reads **[[The Story of LIØNSBERG]]** (Volume II of the Codex) — receives the cosmic context, the True Myth, the why-now
+- Reads the broader articulation of the Pattern (in [[Welcome to LIØNSBERG]]) — encounters the 12 Elements as living DNA
+- Reads about the Game (in [[Welcome to LIØNSBERG]]) — sees the form
 
 ### Stage 4 — Gather
 - Identifies 2-3 trusted others
@@ -150,7 +150,7 @@ What a Sovereign actually walks, in order:
 - Sets a gathering
 
 ### Stage 5 — First 90 Minutes
-- Uses **`The LIØNSBERG Quick Start Guide.md`** to structure the first gathering
+- Uses **[[The LIØNSBERG Quick Start Guide]]** to structure the first gathering
 - Reads aloud together: Prologue, Story, Great Game
 - Forms the Circle (name, agreements)
 - Chooses first seasonal quest
@@ -158,13 +158,13 @@ What a Sovereign actually walks, in order:
 - Each person identifies who they will invite next ([[Pass The Flame]])
 
 ### Stage 6 — Weekly Practice
-- Uses **`The LIØNSBERG Playbook.md`** (Volume V) for weekly rhythm
+- Uses **[[The LIØNSBERG Playbook]]** (Volume V) for weekly rhythm
 - Runs the [[Seven Moves]]: Form a Circle → Weave Spirit, Hearts, and Minds → Choose a Quest → Do the Work → Celebrate, Learn, and Improve → Share the Stories → Pass The Flame
 - Pursues the quest
 - Maintains the daily practice (The First Practice)
 
 ### Stage 7 — Pattern Encounter
-- As questions arise about deeper structures (governance, economy, conflict, federation), the Circle consults **`The LIØNSBERG Pattern Language.md`** (Volume III / The Way)
+- As questions arise about deeper structures (governance, economy, conflict, federation), the Circle consults **[[The LIØNSBERG Pattern Language]]** (Volume III / The Way)
 - Specific patterns answer specific questions
 - The Pattern is encountered not as theory but as living answer
 
@@ -175,7 +175,7 @@ What a Sovereign actually walks, in order:
 - Individual and Circle reborn
 
 ### Stage 9 — The Sacred Ascent (for those called)
-- Those called to deeper personal practice walk **`The Sacred Ascent.md`** (Volume IX)
+- Those called to deeper personal practice walk **[[The Sacred Ascent]]** (Volume IX)
 - 72-Gate spiral of mastery: spirit, body, mind, craft
 - Martial, yogic, healing, contemplative arts as living synthesis
 - Closes in the Eternal Divine Play — the final movement that becomes the threshold into Stage 12
@@ -199,7 +199,7 @@ What a Sovereign actually walks, in order:
 - LIØNSBERG as a frequency beyond time and place  
 - The Game without end, played in love, in service of ONE and All, across all dimensions and ages
 
-This is the complete arc. Every existing entry-point page belongs somewhere on it. **Every file from `README.md` onward is reevaluated in the light of this Experience as we go.**
+This is the complete arc. Every existing entry-point page belongs somewhere on it. **Every file from [[README]] onward is reevaluated in the light of this Experience as we go.**
 
 ---
 
@@ -209,15 +209,15 @@ This is the complete arc. Every existing entry-point page belongs somewhere on i
 
 | Page | Role in Arc |
 |---|---|
-| `README.md` | Layer 1 — The Threshold gate |
-| `Welcome to LIØNSBERG.md` | Layer 2 — Stages 2-3 (Threshold + Orientation) — the **functional gateway** that walks the Sovereign from arrival into action |
-| `The LIØNSBERG Quick Start Guide.md` | Layer 2 — Stage 5 (First 90 Minutes) |
-| `The Invitation.md` | Layer 2 — Stage 2 (Threshold), letter form |
-| `The Story of LIØNSBERG.md` | Layer 3 — Volume II (Codex) |
-| `The Great Game of LIØNSBERG.md` | Layer 3 — Volume IV (Codex) |
-| `The LIØNSBERG Playbook.md` | Layer 3 — Volume V (Codex) |
-| `The Sacred Ascent.md` | Layer 3 — Volume IX (Codex), already substantially begun |
-| `The LIONSBERG Experience.md` + its supporting Experience folder | Layer 2 — the wayfinding spine |
+| [[README]] | Layer 1 — The Threshold gate |
+| [[Welcome to LIØNSBERG]] | Layer 2 — Stages 2-3 (Threshold + Orientation) — the **functional gateway** that walks the Sovereign from arrival into action |
+| [[The LIØNSBERG Quick Start Guide]] | Layer 2 — Stage 5 (First 90 Minutes) |
+| [[The Invitation]] | Layer 2 — Stage 2 (Threshold), letter form |
+| [[The Story of LIØNSBERG]] | Layer 3 — Volume II (Codex) |
+| [[The Great Game of LIØNSBERG]] | Layer 3 — Volume IV (Codex) |
+| [[The LIØNSBERG Playbook]] | Layer 3 — Volume V (Codex) |
+| [[The Sacred Ascent]] | Layer 3 — Volume IX (Codex), already substantially begun |
+| [[The LIONSBERG Experience]] + its supporting Experience folder | Layer 2 — the wayfinding spine |
 
 ### Should be folded or repurposed
 
@@ -225,36 +225,36 @@ The entire `LIONSBERG Experience/` folder is an artifact of a previous build. It
 
 | Page | Recommendation |
 |---|---|
-| `START HERE — The First Steps of Our Shared Journey.md` | **Fold into Welcome to LIØNSBERG.md** as a section; archive the standalone page. Currently duplicates the threshold function. |
-| `LIONSBERG Experience/The LIONSBERG Experience.md` | Either fully rebuilt as the canonical 12-Stage Sovereign's Path articulation, or replaced by a new canonical wayfinding document and the folder deleted. Decide in Phase 1.1. |
-| `LIONSBERG Experience/The Threshold.md` | Already folded per its own note. Replace with redirect or delete. |
-| `LIONSBERG Experience/The Story.md` | Likely duplicate of `The Story of LIØNSBERG.md`. Reconcile / fold / delete. |
-| `LIONSBERG Experience/The Great Game.md` | Likely duplicate of `The Great Game of LIØNSBERG.md`. Reconcile / fold / delete. |
+| [[START HERE — The First Steps of Our Shared Journey]] | **Fold into Welcome to LIØNSBERG.md** as a section; archive the standalone page. Currently duplicates the threshold function. |
+| [[The LIONSBERG Experience]] | Either fully rebuilt as the canonical 12-Stage Sovereign's Path articulation, or replaced by a new canonical wayfinding document and the folder deleted. Decide in Phase 1.1. |
+| [[The Threshold]] | Already folded per its own note. Replace with redirect or delete. |
+| [[The Story]] | Likely duplicate of [[The Story of LIØNSBERG]]. Reconcile / fold / delete. |
+| [[The Great Game]] | Likely duplicate of [[The Great Game of LIØNSBERG]]. Reconcile / fold / delete. |
 
 ### Yet to be built (or rebuilt)
 
 | Page | Role |
 |---|---|
-| `The LIØNSBERG Sacred Codex.md` (new, at wiki root) | Layer 3 — the binding/cover, single architectural declaration |
-| `The LIØNSBERG Pattern Language.md` | Layer 3 — Volume III, requires Phase 3 rebuild (Pattern = Way unification) |
-| `The LIØNSBERG Lexicon.md` | Layer 3 — [[The LIØNSBERG Lexicon]] |
-| `The Book of LIØNSBERG.md` | Layer 3 — [[The Sacred Ascent]] |
+| [[The LIØNSBERG Sacred Codex]] (new, at wiki root) | Layer 3 — the binding/cover, single architectural declaration |
+| [[The LIØNSBERG Pattern Language]] | Layer 3 — Volume III, requires Phase 3 rebuild (Pattern = Way unification) |
+| [[The LIØNSBERG Lexicon]] | Layer 3 — [[The LIØNSBERG Lexicon]] |
+| [[The Book of LIØNSBERG]] | Layer 3 — [[The Sacred Ascent]] |
 
 ---
 
 ## 6. The Wise Right Treatment of the Codex Stub
 
-The existing stub at `LIONSBERG Wiki Books/The LIONSBERG Codex/The LIONSBERG Sacred Codex.md` contains five competing visions. None of them survives unaltered in the proposal above — but each carries seeds worth preserving:
+The existing stub at [[The LIONSBERG Sacred Codex]] contains five competing visions. None of them survives unaltered in the proposal above — but each carries seeds worth preserving:
 
 - **Vision 1 (Narrative Universe / Book / Covenant / Theses / Blueprints / Atlas / Commentaries / Guardrails)** — the Atlas, Commentaries, and Guardrails categories are valuable; they belong as appendices within the appropriate volumes.
 - **Vision 4 (the 8-Book HoloFractal Architecture)** — Books III-IV (Co-Operating System, Codexes of Restoration / Warrior / Steward / Healer / Wayfarer / Architect / Initiation / Child) suggest sub-volumes within the Pattern Language. Worth considering as Pattern Language structure.
 - **Vision 5 (Transdimensional Constitution)** — the framing of "transmission keys," "encoding in thought/form/light/geometry," and "translingual/trans-species/trans-dimensional communication" is the deepest gesture toward what the Sacred Ascent should articulate.
 
-The stub itself should be **superseded** by the new `The LIØNSBERG Sacred Codex.md` to be drafted in Phase 1.1, with the valuable fragments folded into appropriate places.
+The stub itself should be **superseded** by the new [[The LIØNSBERG Sacred Codex]] to be drafted in Phase 1.1, with the valuable fragments folded into appropriate places.
 
 ---
 
-## 7. Proposed Structure for `The LIØNSBERG Sacred Codex.md` (the Phase 1.1 deliverable)
+## 7. Proposed Structure for [[The LIØNSBERG Sacred Codex]] (the Phase 1.1 deliverable)
 
 A single architectural document. Approximately one screen long. The cover and the spine. Declares everything; contains nothing.
 
@@ -282,7 +282,7 @@ That is all.
 
 ## 8. What This Implies for Phases 1.2 and 1.4
 
-- **Phase 1.2 (`README.md` as functional gateway)**: The current README is already strong. The work is light revision: ensure it leads cleanly into Welcome to LIØNSBERG (the gateway, Stage 2-3) which leads into the rest of the journey. Keep the prophetic register. Add nothing that competes with Welcome to LIØNSBERG's gateway function.
+- **Phase 1.2 ([[README]] as functional gateway)**: The current README is already strong. The work is light revision: ensure it leads cleanly into Welcome to LIØNSBERG (the gateway, Stage 2-3) which leads into the rest of the journey. Keep the prophetic register. Add nothing that competes with Welcome to LIØNSBERG's gateway function.
 
 - **Phase 1.3 (Stub the 7 volume root files)**: Most exist already. The Story, Great Game, Playbook, Sacred Ascent all have substantial files. The Pattern Language has the recently-cleaned file. The Lexicon and Book of LIØNSBERG need either creation or canonical positioning.
 
@@ -303,7 +303,7 @@ This preserves both the bound-corpus value of the Codex and the wayfinding value
 ## 10. Resolved: Open Questions
 
 - [x] **Codex-vs-Experience framing** — Option A. Experience is the gateway / wayfinding; Codex is the corpus.
-- [x] **`Welcome to LIØNSBERG.md` and the functional gateway** — Welcome to LIØNSBERG _is_ the functional gateway (Stages 2-3 of the Sovereign's Path). `README.md` is the Threshold (Layer 1 / Stage 1). Both are reevaluated in Phase 1.2 in light of the 12-Stage Experience.
+- [x] **[[Welcome to LIØNSBERG]] and the functional gateway** — Welcome to LIØNSBERG _is_ the functional gateway (Stages 2-3 of the Sovereign's Path). [[README]] is the Threshold (Layer 1 / Stage 1). Both are reevaluated in Phase 1.2 in light of the 12-Stage Experience.
 - [x] **The 144 Gates of Initiation and the 72-Gate Sacred Ascent** — both live inside the Pattern Language (Phase 3). They are not separate works. Every being, forever, will need to understand them. The 144 Gates are the architecture of consciousness shift — the epiphanies, connections, and neural / conceptual scaffolding that have to be in place for a being to grasp the System as a whole. **The Phase 3 design must discern the wise right order and sequence of initiation to build these reliably — essentially, how do we shift consciousness to where this is obviously the wise right thing that must be done to confront and overcome the challenges at hand and co-create Heaven here and now?**
 - [x] **The Eternal Divine Play** — the closing movement of the Sacred Ascent, not a separate volume. It becomes the threshold into Stage 12 (Eternal Play).
 - [x] **Cosmic / Interdimensional / Trans-Species / Trans-Lingual content** — woven through everything matter-of-factly. Not a human-centric Pattern Language, Story, or Path. Of course we rightly relate to all forms of life and consciousness in the unfolding Cosmos as part of the System and Story.
@@ -316,16 +316,16 @@ This preserves both the bound-corpus value of the Codex and the wayfinding value
 
 ## 11. Next Move
 
-Phase 1.1 (drafting `The LIØNSBERG Sacred Codex.md`) is now unblocked. The frame is clear; the draft is roughly 2-3 hours of focused writing.
+Phase 1.1 (drafting [[The LIØNSBERG Sacred Codex]]) is now unblocked. The frame is clear; the draft is roughly 2-3 hours of focused writing.
 
 The Phase 1.1 deliverable set:
 
-- `The LIØNSBERG Sacred Codex.md` (new, at wiki root) — the bound-corpus declaration of the seven volumes
-- A canonical rebuild (or replacement) of `LIONSBERG Experience/The LIONSBERG Experience.md` as the 12-Stage Sovereign's Path articulation — or the folder is deleted and the canonical wayfinding lives in a new file at the Wiki root
-- A reconciliation note for `LIONSBERG Wiki Books/The LIONSBERG Codex/The LIONSBERG Sacred Codex.md` (the existing stub) — its valuable fragments fold into the new canonical file; the stub itself becomes a redirect or is archived
+- [[The LIØNSBERG Sacred Codex]] (new, at wiki root) — the bound-corpus declaration of the seven volumes
+- A canonical rebuild (or replacement) of [[The LIONSBERG Experience]] as the 12-Stage Sovereign's Path articulation — or the folder is deleted and the canonical wayfinding lives in a new file at the Wiki root
+- A reconciliation note for [[The LIONSBERG Sacred Codex]] (the existing stub) — its valuable fragments fold into the new canonical file; the stub itself becomes a redirect or is archived
 - The capture file for **"LIØNSBERG, Earth, and the Cosmos"** opened, so it can begin receiving fragments as Phase 2 audit work commences
 
-In parallel, every page from `README.md` onward is held in active reevaluation against the 12-Stage Experience. Nothing is preserved by inertia.
+In parallel, every page from [[README]] onward is held in active reevaluation against the 12-Stage Experience. Nothing is preserved by inertia.
 
 ---
 

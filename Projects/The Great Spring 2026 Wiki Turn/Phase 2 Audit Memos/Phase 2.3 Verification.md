@@ -3,7 +3,7 @@
 **Verification date:** 2026-05-19
 **Verifier:** T-8 (Phase 2.3 / 2.5 / 2.6 verification agent)
 **Source transcripts:** Four SOE agent JSONL files dated 2026-05-19
-**Ledger section verified:** `Projects/The Great Spring 2026 Wiki Turn/Phase 2 — The Audit Ledger.md` lines 2399–2670
+**Ledger section verified:** [[Phase 2 — The Audit Ledger]] lines 2399–2670
 
 ---
 
@@ -18,7 +18,7 @@ Transcripts located at:
 - SOE-3 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a1d2b30ee2ad83893.jsonl` (meta: "SOE-3 Guidebook for the Emergence audit")
 - SOE-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-af5602450e880dd91.jsonl` (meta: "SOE-4 Appendices + Toolkit + Surrounding audit")
 
-Memos extracted to `Workspaces/Phase 2.7 Transcription/_scripts/extracted_memos/SOE-{1,2,3,4}.md`.
+Memos extracted to [[SOE-{1,2,3,4}]].
 
 ---
 

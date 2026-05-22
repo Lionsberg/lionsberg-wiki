@@ -246,7 +246,7 @@ Per [[the nameless one]] 2026-05-22: across nearly every canonical area of the w
 
 **Important distinction**: The Atlas is for **cleanup, consolidation, deletion decisions, and historical awareness** — NOT for feeding the centerpiece rewrites (see Phase 2B above). Major rewrites are co-creative authorship from current consciousness; the Atlas is reference companion.
 
-The Atlas will be built by a focused agent swarm catalog. Output: `Projects/The Great Spring 2026 Wiki Turn/The Synthesis Source Atlas.md`.
+The Atlas will be built by a focused agent swarm catalog. Output: [[The Synthesis Source Atlas]].
 
 Areas to catalog:
 - Welcome / Doorway / Entry — Invitation cycles, Golden Seed v0.1, Co-Creator's Handbook, Meta Guide §Welcome, LIØNSBERG 101 opening, etc.
@@ -268,7 +268,3 @@ Areas to catalog:
 - Move completed items to the bottom of each section as **✓ DONE 2026-XX-XX**
 - New pages discovered during Phase 2 work get added with disposition
 - This is a **design tool**, not canonical reader-facing content — it lives in `Projects/The Great Spring 2026 Wiki Turn/` alongside the [[The Great Weaving — Concept Ledger|Concept Ledger]]
-
----
-
-_Drafted 2026-05-22 by the AI assistant per [[the nameless one]]'s direction. Surveyed entry pages, sub-pages, and key links. Living document — refines as the rebuild work unfolds._

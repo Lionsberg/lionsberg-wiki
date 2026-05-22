@@ -216,7 +216,7 @@ These files should be considered **canonical sources** that may need direct incl
 
 - **`Rediscovering the Way/`** — Mostly universal voice (Generative Source, ONE, Logos, Way) — but periodically slips into "the LORD/God/Spirit of God" phrasing. The C. Secrets of the Way page mentions "Generative Source [...] which in English we call God" — this is exactly the right voice-discipline move. The book has been **mostly translated already**.
 
-- **`The Wisdom of the Way/`** — Mostly clean universal voice, but `1. One.md` cites "Father, I pray that they might be One, even as We are One ~ After Jesus" and `0.1 Wisdom Cries Out` is a near-direct paraphrase of Proverbs. The "After [tradition]" attribution convention is honorable but elevates Jesus over other traditions. Either cite multiple traditions or drop attributions in favor of universal voice.
+- **`The Wisdom of the Way/`** — Mostly clean universal voice, but [[1. One]] cites "Father, I pray that they might be One, even as We are One ~ After Jesus" and `0.1 Wisdom Cries Out` is a near-direct paraphrase of Proverbs. The "After [tradition]" attribution convention is honorable but elevates Jesus over other traditions. Either cite multiple traditions or drop attributions in favor of universal voice.
 
 ### Mild (already universal but with occasional drift):
 
@@ -324,33 +324,33 @@ This reduces 15 books to **~6-7 canonical works** plus archived precursors.
 
 ## Files That Struck Me
 
-- **`/A Way Beyond Fear, Anxiety, and Depression/4.5 Making Our Selves Strong.md`** — The 10-line page that distills the entire fear-confrontation pattern into "Safety is a fragile condition that is always, eventually, shattered." This is the voice the entire cluster aspires to.
+- **[[4.5 Making Our Selves Strong]]** — The 10-line page that distills the entire fear-confrontation pattern into "Safety is a fragile condition that is always, eventually, shattered." This is the voice the entire cluster aspires to.
 
-- **`/A Way Beyond Fear/0.1 About.md`** — The unusual humility of the closing "~ J" signature and "We claim no credit." After reading 50+ files, this signature land different. It carries the weight of the practice it commends.
+- **[[0.1 About]]** — The unusual humility of the closing "~ J" signature and "We claim no credit." After reading 50+ files, this signature land different. It carries the weight of the practice it commends.
 
-- **`/Playing With Poetry/Playing With Poetry.md` Section 28** — "To write the Words that no one may read / To speak the Words that no one may hear / To sing the Songs that no one may know / To make the Art that no one may see / To walk the Path that no one may find / To offer a Way that no one may seek / To utter the Warnings that no one may heed..." This is the prophet's loneliness articulated cleanly. Cluster keystone.
+- **[[Playing With Poetry]] Section 28** — "To write the Words that no one may read / To speak the Words that no one may hear / To sing the Songs that no one may know / To make the Art that no one may see / To walk the Path that no one may find / To offer a Way that no one may seek / To utter the Warnings that no one may heed..." This is the prophet's loneliness articulated cleanly. Cluster keystone.
 
 - **`/Playing With Poetry/` Section 32** — The "Having been X, become Y" beatitudes inversion. 12 lines, each one a Pattern. "Having been Killed, become Resurrection. Having been Individuated, become All. Having been All, become One." A perfect liturgical compression of the entire path.
 
-- **`/The Power of Today/4.4 A New Daily Practice.md`** — The 9-part Daily Practice. This is the single most operationally dense document in the cluster and one of the most important in the entire wiki. Should be carefully preserved.
+- **[[4.4 A New Daily Practice]]** — The 9-part Daily Practice. This is the single most operationally dense document in the cluster and one of the most important in the entire wiki. Should be carefully preserved.
 
-- **`/The One/13. Sovereignty In Unity.md`** — Cleanest articulation of the Sovereignty-vs-Unity dance. This single chapter justifies the existence of The One as a separate book and should anchor the holofractal omnifederation pattern.
+- **[[13. Sovereignty In Unity]]** — Cleanest articulation of the Sovereignty-vs-Unity dance. This single chapter justifies the existence of The One as a separate book and should anchor the holofractal omnifederation pattern.
 
-- **`/The Way of God/The Patterns Of Spiraling Up, And Spiraling Down.md`** — The 14-stage civilizational cycle (Creation → Spirit → Way → Departure → Estrangement → Corruption → Conflict → Perishing → Prophesy → Return → Exodus → New World). **Universal pattern, currently wrapped in Christian language. Translates cleanly.**
+- **[[The Patterns Of Spiraling Up, And Spiraling Down]]** — The 14-stage civilizational cycle (Creation → Spirit → Way → Departure → Estrangement → Corruption → Conflict → Perishing → Prophesy → Return → Exodus → New World). **Universal pattern, currently wrapped in Christian language. Translates cleanly.**
 
-- **`/The Way of God/The One That Unites The Many.md`** — The *by-definition* argument: "Whatever else God is, by definition God is the ONE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition." **This argument-pattern is foundational** and should be placed at the very beginning of the canonical Way Volume.
+- **[[The One That Unites The Many]]** — The *by-definition* argument: "Whatever else God is, by definition God is the ONE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition." **This argument-pattern is foundational** and should be placed at the very beginning of the canonical Way Volume.
 
-- **`/Rediscovering the Way/Rediscovering The Way - Take 2.md`** — The 21-chapter spine for what The Way Volume should become.
+- **[[Rediscovering The Way - Take 2]]** — The 21-chapter spine for what The Way Volume should become.
 
-- **`/Becoming a Warrior of The Way/The Warrior's Intermittent Fasting Protocol.md`** — Operationally complete, voice-disciplined, embodied. Model for what every practice-canon page should look like.
+- **[[The Warrior's Intermittent Fasting Protocol]]** — Operationally complete, voice-disciplined, embodied. Model for what every practice-canon page should look like.
 
-- **`/The Roving Temple Dojo/The Roving Ark Temple Dojo.md`** — The fact that this is in the Spiritual/Way cluster (rather than in a "Practical Builds" cluster) signals something important: **the bus IS spiritual practice in this lineage**. The infrastructure IS the sanctuary IS the temple IS the dojo. The Way includes building the vessel that carries the Way through collapse.
+- **[[The Roving Ark Temple Dojo]]** — The fact that this is in the Spiritual/Way cluster (rather than in a "Practical Builds" cluster) signals something important: **the bus IS spiritual practice in this lineage**. The infrastructure IS the sanctuary IS the temple IS the dojo. The Way includes building the vessel that carries the Way through collapse.
 
-- **`/An Alternative to Apocalypse/Chapter 9 - The Spiritual War.md`** — The fractal-spiritual-war pattern. Universal frame extractable from Christian wrapper.
+- **[[Chapter 9 - The Spiritual War]]** — The fractal-spiritual-war pattern. Universal frame extractable from Christian wrapper.
 
-- **`/Lionsberg, Simple and Clear/16. Traps and Pitfalls to Avoid.md`** — The 14 failure-mode patterns. Each one Card-worthy.
+- **[[16. Traps and Pitfalls to Avoid]]** — The 14 failure-mode patterns. Each one Card-worthy.
 
-- **`/The Quest Towards The Goal/The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life.md`** — The book Jordan hoped to write. The 70+ "Remembering Why and How to..." pattern list is itself the book's payload. The lament "Maybe some day this book will write ItSelf" — and the fact that perhaps it has been writing itself, distributed across all the other books in this cluster, all along.
+- **[[The Quest Towards The Goal - A Guide Towards Flourishing and Abundant Life]]** — The book Jordan hoped to write. The 70+ "Remembering Why and How to..." pattern list is itself the book's payload. The lament "Maybe some day this book will write ItSelf" — and the fact that perhaps it has been writing itself, distributed across all the other books in this cluster, all along.
 
 ---
 

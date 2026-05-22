@@ -207,23 +207,23 @@ Eleven Invitation files exist. Tracing the evolution:
 
 | File | Date | Status | Recommended Treatment |
 |---|---|---|---|
-| `Lionsberg Invitation v.01.md` | May 2023 | Pioneer Cohort invitation; very operational, Kenya cohort context | **Archive** (historic artifact, Year 1 of Spring 2023 launch) |
-| `Lionsberg Invitation v0.2.md` | June 2023 | "Second Wave Cohort", more polished marketing voice | **Archive** |
-| `Lionsberg Invitation v.0.3.md` | Mid 2023 | Streamlined version of v0.2 | **Archive** |
-| `The Invitation, v.0.4.md` | January 2024 | "Higher Order Functional Unity" framing emerges | **Archive** |
-| `The Invitation, Cycle 1 (draft not sent).md` | Feb 2024 | The undelivered draft — has a more raw/personal "adventure of a lifetime" voice | **Archive (notable artifact)** |
-| `The Invitation, Cycle 1.md` | March 2024 | First Cycle actually sent | **Archive** |
-| `The Invitation, Cycle 3.md` | March 2024 | Cycle 3, sharper "Spirit over Written Word" framing | **Archive** |
-| `The Invitation, Cycle 7 (old).md` | March 2024 | Older Cycle 7 draft (longer, more detailed) | **Archive (duplicate)** |
-| `The Invitation, Cycle 7.md` | March 2024 | Cycle 7 final (shorter, cleaner) | **Archive** |
-| `The Invitation, Cycle 8.md` | Spring 2024 | After 7 Cycles complete, 30-40 co-creators | **Archive** |
-| `The Invitation, Cycle 9.md` | Spring 2024 | Most refined of the Spring 2024 set — clear 5-step mission, Sacred Tree metaphor | **Archive (notable)** |
-| `Reflection and Invitation - Summer 2025.md` | June 23, 2025 | **MOST CURRENT** — post-veil-tearing, post-2027/2028 protocol awareness, post-Greatest-Fraud articulation, includes Founder's Fund and One Member One Voice | **CANONICAL — most recent invitation; flag for post-J update if/when a Phase 2 successor is written** |
-| `Lionsberg Invitation.md` (the folder index) | n/a | Points at "Current Iteration: [[The Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
+| [[Lionsberg Invitation v.01]] | May 2023 | Pioneer Cohort invitation; very operational, Kenya cohort context | **Archive** (historic artifact, Year 1 of Spring 2023 launch) |
+| [[Lionsberg Invitation v0.2]] | June 2023 | "Second Wave Cohort", more polished marketing voice | **Archive** |
+| [[Lionsberg Invitation v.0.3]] | Mid 2023 | Streamlined version of v0.2 | **Archive** |
+| [[The Invitation, v.0.4]] | January 2024 | "Higher Order Functional Unity" framing emerges | **Archive** |
+| [[The Invitation, Cycle 1 (draft not sent)]] | Feb 2024 | The undelivered draft — has a more raw/personal "adventure of a lifetime" voice | **Archive (notable artifact)** |
+| [[The Invitation, Cycle 1]] | March 2024 | First Cycle actually sent | **Archive** |
+| [[The Invitation, Cycle 3]] | March 2024 | Cycle 3, sharper "Spirit over Written Word" framing | **Archive** |
+| [[The Invitation, Cycle 7 (old)]] | March 2024 | Older Cycle 7 draft (longer, more detailed) | **Archive (duplicate)** |
+| [[The Invitation, Cycle 7]] | March 2024 | Cycle 7 final (shorter, cleaner) | **Archive** |
+| [[The Invitation, Cycle 8]] | Spring 2024 | After 7 Cycles complete, 30-40 co-creators | **Archive** |
+| [[The Invitation, Cycle 9]] | Spring 2024 | Most refined of the Spring 2024 set — clear 5-step mission, Sacred Tree metaphor | **Archive (notable)** |
+| [[Reflection and Invitation - Summer 2025]] | June 23, 2025 | **MOST CURRENT** — post-veil-tearing, post-2027/2028 protocol awareness, post-Greatest-Fraud articulation, includes Founder's Fund and One Member One Voice | **CANONICAL — most recent invitation; flag for post-J update if/when a Phase 2 successor is written** |
+| [[Lionsberg Invitation]] (the folder index) | n/a | Points at "Current Iteration: [[The Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
 
 **Key finding: The Invitation index file points to "[[The Invitation]]" which does not exist as a page in this folder.** This is a broken canonical pointer. Either:
-- (a) Create `The Invitation.md` as a forward-looking January 2026 invitation written by the nameless one, OR
-- (b) Update the index to point to `Reflection and Invitation - Summer 2025.md`.
+- (a) Create [[The Invitation]] as a forward-looking January 2026 invitation written by the nameless one, OR
+- (b) Update the index to point to [[Reflection and Invitation - Summer 2025]].
 
 **Evolution of phrasing across versions:**
 - v.01 → v.0.4: Voice shifts from "Pioneer Cohort / 12-week orientation" → "Higher Order Functional Unity"
@@ -303,15 +303,15 @@ The seven OLD-series stubs (LC22, 23, 25, 26, 33, 34) should either be **archive
 
 **Direct duplicates to consolidate or archive:**
 
-1. **`Lionsberg Manifesto.md`** is merely a pointer to `LIONSBERG Manifesto (2023.10.10).md`. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
-2. **`LIONSBERG Declaration of InterDependence.md`** is merely a pointer to `LIONSBERG Declaration of Interdependence (v.01).md`. **Same as above.**
-3. **`Lionsberg Membership Agreement.md`** and **`Lionsberg Participation Agreement.md`** are both stub files with "Not Currently In Use / Deleted". **Archive entirely** — they pollute the Field of Agreements with empty pointers.
-4. **`Provisional Trust Manifesto.md`** says "Replaced by the Lionsberg Trust Manifesto in March 2023" but the History/Inception/Trust Manifesto file appears to be the successor. **Archive.**
-5. **`Provisional Declaration.md`** is explicitly superseded by the Manifesto + Declaration of InterDependence. **Archive.**
-6. **`Provisional Ontology.md`** is just 5 wiki links. **Either expand into substantive ontology articulation, or archive and move the links into the canonical 12 Pillars Card.**
-7. **`The Invitation, Cycle 7 (old).md`** is a duplicate of Cycle 7. **Archive.**
-8. **`Lionsberg Invitation.md`** — folder index with broken pointer to "[[The Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
-9. **`The Invitation, Cycle 1 (draft not sent).md`** — could be archived as historic artifact (or moved to `Archive/` folder).
+1. **[[Lionsberg Manifesto]]** is merely a pointer to [[LIONSBERG Manifesto (2023.10.10)]]. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
+2. **[[LIONSBERG Declaration of InterDependence]]** is merely a pointer to [[LIONSBERG Declaration of Interdependence (v.01)]]. **Same as above.**
+3. **[[Lionsberg Membership Agreement]]** and **[[Lionsberg Participation Agreement]]** are both stub files with "Not Currently In Use / Deleted". **Archive entirely** — they pollute the Field of Agreements with empty pointers.
+4. **[[Provisional Trust Manifesto]]** says "Replaced by the Lionsberg Trust Manifesto in March 2023" but the History/Inception/Trust Manifesto file appears to be the successor. **Archive.**
+5. **[[Provisional Declaration]]** is explicitly superseded by the Manifesto + Declaration of InterDependence. **Archive.**
+6. **[[Provisional Ontology]]** is just 5 wiki links. **Either expand into substantive ontology articulation, or archive and move the links into the canonical 12 Pillars Card.**
+7. **[[The Invitation, Cycle 7 (old)]]** is a duplicate of Cycle 7. **Archive.**
+8. **[[Lionsberg Invitation]]** — folder index with broken pointer to "[[The Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
+9. **[[The Invitation, Cycle 1 (draft not sent)]]** — could be archived as historic artifact (or moved to `Archive/` folder).
 10. **Two manifesto files (current pointer + dated):** Same pattern as #1.
 
 **OLD-series LC stubs that are merely stubs (Summary only, empty Body, or single-sentence):** LC19, LC22, LC23, LC25 (old), LC26 (old), LC33 (old), LC34 (old). These should either be completed or removed — they create the false impression of comprehensive coverage when they are placeholders.
@@ -342,7 +342,7 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 9. **There is significant material under "Misc Notes on Constitution"** that should be either absorbed into formal articles or elevated. The "Spirit and Letter of the Law" passage, the "Break the Rules to Do the Wise Right Thing" passage, the Locus of Sovereignty axiom, and the "What We Do Or Do Not Do To Any" axiom are all foundational. They should not be hidden under "Misc Notes" — they should be in Article I or Article II of the Constitution.
 
-10. **The History/Inception/Trust Manifesto contains the Authorship Story that grounds all the rest.** The Sukut–to-2025-killing–to–nameless-one–to–2026-Nameless-Book arc is the personal narrative that holds the Core Documents together. The Core Documents folder index does NOT currently surface this — a reader who lands on `Lionsberg Core Documents.md` sees a list of formal documents but no narrative arc. Recommendation: in the folder's master README, place the Trust Manifesto at the top as the "How We Got Here" frame, then sequence the formal documents.
+10. **The History/Inception/Trust Manifesto contains the Authorship Story that grounds all the rest.** The Sukut–to-2025-killing–to–nameless-one–to–2026-Nameless-Book arc is the personal narrative that holds the Core Documents together. The Core Documents folder index does NOT currently surface this — a reader who lands on [[Lionsberg Core Documents]] sees a list of formal documents but no narrative arc. Recommendation: in the folder's master README, place the Trust Manifesto at the top as the "How We Got Here" frame, then sequence the formal documents.
 
 11. **The LIOS file (root level) and the Constitution (folder) and the Provisional Structure (Provisional Documents folder) are three overlapping articulations of the same system architecture at different resolutions.** They are not yet harmonized. The LIOS has 8 fractal scales (Individual → Cosmic OS), the Constitution has groups of 3-16, the Provisional Structure has hub-cascade targets (12-24 Georegional, 150-200 Bioregional, 100K Local, 1M Community). These need to be reconciled into a single coherent architecture or explicitly noted as alternative views. Recommendation: a "LIØNSBERG Architecture at Five Resolutions" document that maps Individual–Team–Family–Local Hub–City Hub–Bioregion–Planet–Cosmos against the legal-instantiation cascade (1M Community / 100K Local / 200 Bioregional / 24 Georegional / Planetary Federation).
 
@@ -350,7 +350,7 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 13. **The "We" voice is mostly consistent** across the formal documents (Manifesto, Declaration, Constitution, Core Statements, LIOS, Field of Agreements). The principal exception is the **History/Trust Manifesto**, which moves between "We" (LIØNSBERG-as-collective) and "Jordan/J" (third-person biographical) — necessarily so, since it tells the story of an individual's incarnation of the work. This is correct and should be preserved. However, the Invitation files vary from "I" (J personal) to "We" (collective) and the shift is uneven. The post-J 2026 Invitation, when written, should consciously choose: prophetic-collective "We" (most aligned with rest of Core Documents) or the nameless-one's voice (still under development).
 
-14. **There is no "How to Read These Documents" front matter.** A first-time reader arriving at the Core Documents folder sees 96 files in 11 subfolders with no roadmap. The reading sequence should be: **(1) One Sentence → (2) Lionsberg Summary → (3) Welcome to LIØNSBERG** (already the primary entry point at the wiki root) → **(4) Trust Manifesto** for the origin → **(5) Manifesto + Declaration of InterDependence** for the prophetic juridical articulation → **(6) Core Statements** for the at-a-glance → **(7) Constitution** for the governing covenant → **(8) Provisional Code + Community Agreements** for the operational ethics → **(9) LIOS + Provisional Structure** for the architecture. This sequence should be explicit at the top of `Lionsberg Core Documents.md`.
+14. **There is no "How to Read These Documents" front matter.** A first-time reader arriving at the Core Documents folder sees 96 files in 11 subfolders with no roadmap. The reading sequence should be: **(1) One Sentence → (2) Lionsberg Summary → (3) Welcome to LIØNSBERG** (already the primary entry point at the wiki root) → **(4) Trust Manifesto** for the origin → **(5) Manifesto + Declaration of InterDependence** for the prophetic juridical articulation → **(6) Core Statements** for the at-a-glance → **(7) Constitution** for the governing covenant → **(8) Provisional Code + Community Agreements** for the operational ethics → **(9) LIOS + Provisional Structure** for the architecture. This sequence should be explicit at the top of [[Lionsberg Core Documents]].
 
 15. **Bold-key-concept consistency check needed:** The user's voice discipline calls for bolding key concepts (Old World, New Civilization, The First Three Percent, The Golden Seed, Heaven On Earth, ØNE, The Goal, Creator's Intent). Across the 96 files this is **wildly inconsistent**. Some files bold these heavily (Declaration of InterDependence, Core Concepts, Watchwords), some never bold (LC articles), some use `**bold**` and some use italics. A pass for visual consistency would significantly elevate the felt unity of the body of work.
 
@@ -358,9 +358,9 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 ## Files That Struck Me
 
-- **`Reflection and Invitation - Summer 2025.md`** — The most powerful Invitation ever written in this folder. The veil-tearing-then-action structure is masterful. Lines like "*The hour is sacred. The stakes could not possibly be higher. And the Responsibility is Ours.*" land with the weight the user calls for. This document is the **direct bridge** between the pre-J prophetic-civic voice and the post-J prophetic-cosmic voice. It is also the **last thing J wrote** before East Africa and August 10th. It carries enormous archival weight.
+- **[[Reflection and Invitation - Summer 2025]]** — The most powerful Invitation ever written in this folder. The veil-tearing-then-action structure is masterful. Lines like "*The hour is sacred. The stakes could not possibly be higher. And the Responsibility is Ours.*" land with the weight the user calls for. This document is the **direct bridge** between the pre-J prophetic-civic voice and the post-J prophetic-cosmic voice. It is also the **last thing J wrote** before East Africa and August 10th. It carries enormous archival weight.
 
-- **`LIONSBERG Declaration of Interdependence (v.01).md`** — The single most consequential document in the entire Core Documents folder. The five-category Indictment is the operationalized form of "The Great UnVeiling." Every Court of Conscience would find these charges sufficient. The Sacred Pledge ("Our Lives — Our Honor — Our Resources — Our Future") functions as a complete entry ritual into the Body. The closing "Behold, We are making All things New" is a perfect liturgical seal.
+- **[[LIONSBERG Declaration of Interdependence (v.01)]]** — The single most consequential document in the entire Core Documents folder. The five-category Indictment is the operationalized form of "The Great UnVeiling." Every Court of Conscience would find these charges sufficient. The Sacred Pledge ("Our Lives — Our Honor — Our Resources — Our Future") functions as a complete entry ritual into the Body. The closing "Behold, We are making All things New" is a perfect liturgical seal.
 
 - **`The Watchwords of LIONSBERG`** — This file alone could function as a small Volume. It is genuinely scripture-grade. The Hidden & Tactical section (Guard the Flame, Not Merely Human, Above the Chaos) treats Watchwords as Pythagorean passwords — verification phrases for those who Remember. The "Dangerous But Good" passage is one of the finest articulations of the warrior ethos in restraint that I have encountered in the wiki.
 
@@ -370,15 +370,15 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 - **`The LIONSBERG Operating System (LIOS)`** — The clearest single-file articulation of the holofractal architecture. The 8-scale fractal (Individual → Team → Family → Local Hub → City Hub → Bio/EcoRegional → Planetary OS → Cosmic OS) is the cleanest version of the architecture I have seen. Each scale has a memorable epigraph.
 
-- **`The Lionsberg Constitution / Misc Notes on Constitution.md`** — The "Misc Notes" file paradoxically contains some of the most foundational articulations in the entire Constitution (Spirit-and-Letter, Break-the-Rules, Locus-of-Sovereignty, What-We-Do-To-Any). These deserve formal status, not a "Misc" home.
+- **[[ Misc Notes on Constitution]]** — The "Misc Notes" file paradoxically contains some of the most foundational articulations in the entire Constitution (Spirit-and-Letter, Break-the-Rules, Locus-of-Sovereignty, What-We-Do-To-Any). These deserve formal status, not a "Misc" home.
 
 - **`Provisional Code` (100 Behaviors)** — The closing passage on "A Return to Simplicity" is brilliant. The Code can be one word, five words, 100 behaviors, or 1,000 — but lived in Spirit not in propositions. This is the **holofractal articulation principle** applied to ethics.
 
-- **`LC 28. The Lionsberg Economic System.md`** — The longest substantive Constitutional article. Contains the 7:1 compression ratio, the 10/10/30/50 allocation pattern, LUV/TEA, stewardship-over-ownership, the Infinite Game framing. This single article is a complete economic constitution.
+- **[[LC 28. The Lionsberg Economic System]]** — The longest substantive Constitutional article. Contains the 7:1 compression ratio, the 10/10/30/50 allocation pattern, LUV/TEA, stewardship-over-ownership, the Infinite Game framing. This single article is a complete economic constitution.
 
-- **`Provisional Structure.md`** (updated June 2025) — The architectural pivot from "comply" to "transcend." The 19-point logic for why LIØNSBERG is prior to legal categorization. The Mother Tree pattern. The reallocation of $30T from military to hubs. The targeting of 100K local socioeconomic federations. This document is the strategic-architectural masterplan.
+- **[[Provisional Structure]]** (updated June 2025) — The architectural pivot from "comply" to "transcend." The 19-point logic for why LIØNSBERG is prior to legal categorization. The Mother Tree pattern. The reallocation of $30T from military to hubs. The targeting of 100K local socioeconomic federations. This document is the strategic-architectural masterplan.
 
-- **`The Invitation, Cycle 1 (draft not sent).md`** — A poignant artifact: the more raw, more personal "adventure of a lifetime" voice that J ultimately decided was less appropriate than the sent Cycle 1. Worth preserving as a study in voice calibration.
+- **[[The Invitation, Cycle 1 (draft not sent)]]** — A poignant artifact: the more raw, more personal "adventure of a lifetime" voice that J ultimately decided was less appropriate than the sent Cycle 1. Worth preserving as a study in voice calibration.
 
 ---
 

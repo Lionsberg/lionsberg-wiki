@@ -7,7 +7,7 @@ I have substantial coverage now to assemble the memo. Let me finalize.
 ## Coverage Statement
 
 **Read in full:**
-- The Book of LIONSBERG master TOC (`The Book of LIONSBERG.md`, 758 lines)
+- The Book of LIONSBERG master TOC ([[The Book of LIONSBERG]], 758 lines)
 - Genesis (Chapter 1): 1.1, 1.2, 1.3, 1.4, 1.5 (The Caves), 1.6, 1.10, 1.11, 1.12, 1.13, 1.17, 1.20, 1.21, 1.22, 1.23, 1.29 (Becoming), 1.31 (Physics of the Threshold)
 - The Great Game (Chapter 15): 15.1–15.18 (Movements I–III complete), 15.20, 15.21, 15.22, 15.23, 15.24, 15.25, 15.26 (Movement IV nearly complete)
 - The Program Delivery Guide (Chapter 16): **ALL 16 chapters in full** — 16.1 Verdict, 16.2 Scope, 16.3 Golden Seed, 16.4 Architecture of Cooperation, 16.5 Integrated Delivery, 16.6 Design to the Goal, 16.7 Network of Commitments, 16.8 The Rhythms, 16.9 Work Structuring, 16.10 Living Economy, 16.11 Every Community Is a Construction Site, 16.12 Learning System, 16.13 Quality/Safety/Structural Immunity, 16.14 Wilderness, 16.15 Sacred Ascent, 16.16 Receivership to Sovereignty
@@ -516,22 +516,22 @@ Cards likely already queued from earlier Phase 2 batches that this book sharpens
 
 These files are scripture-grade and should be preserved verbatim with minimal touch in Phase 3. Each represents articulation that any later compression risks degrading:
 
-1. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.5 The Caves.md`** — The Caves narrative
-2. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.4 Unmoored in the Seas of Chaos.md`** — The Awakening
-3. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.6 Outside the Boundary.md`** — Life Beyond
-4. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.11 The Great Movement.md`** — Fibonacci spread origin-text
-5. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.22 Pillars of Stone.md`** — Petrification narrative
-6. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.23 Choosing The Flood.md`** — Choice of the Flood
-7. **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.31 The Physics Of The Threshold.md`** — Threshold passage
+1. **[[1.5 The Caves]]** — The Caves narrative
+2. **[[1.4 Unmoored in the Seas of Chaos]]** — The Awakening
+3. **[[1.6 Outside the Boundary]]** — Life Beyond
+4. **[[1.11 The Great Movement]]** — Fibonacci spread origin-text
+5. **[[1.22 Pillars of Stone]]** — Petrification narrative
+6. **[[1.23 Choosing The Flood]]** — Choice of the Flood
+7. **[[1.31 The Physics Of The Threshold]]** — Threshold passage
 8. **All 27 files in Chapter 15** (`Chapter 15 - The Great Game of LIONSBERG/15.1` through `15.27`) — the entire Great Game arc
 9. **All 16 files in Chapter 16 / The Program Delivery Guide** (`The Program Delivery Guide/16.1` through `16.16`) — the entire PDG
-10. **`Chapter 13 - The Quest of the Heroes/13.9 Nothing Can Come First.md`** — pivotal call-to-action articulation
-11. **`Chapter 13 - The Quest of the Heroes/13.13 The Wilderness Between Captivity and the Promised Land.md`** — companion to 16.14
-12. **`Chapter 5 - The Quest For Purpose and Meaning/5.12 The True Self.md`** — the True Self litany
-13. **`Chapter 6 - The Quest of the Creative One/6.23 There Is Only One.md`** — the ONE litany
-14. **`Chapter 8 - The Quest of Humanity/8.63 The Sea Of Pyramids.md`** — Old World architecture diagnosis
-15. **`Chapter 9 - The Quest for Sovereignty/9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State.md`** — Sovereignty doctrine
-16. **`Chapter 14 - The Art and Science of the Way/14.2 A Simple Recipe For Beginning.md`** — the pragmatic-starter Card text
+10. **[[13.9 Nothing Can Come First]]** — pivotal call-to-action articulation
+11. **[[13.13 The Wilderness Between Captivity and the Promised Land]]** — companion to 16.14
+12. **[[5.12 The True Self]]** — the True Self litany
+13. **[[6.23 There Is Only One]]** — the ONE litany
+14. **[[8.63 The Sea Of Pyramids]]** — Old World architecture diagnosis
+15. **[[9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State]]** — Sovereignty doctrine
+16. **[[14.2 A Simple Recipe For Beginning]]** — the pragmatic-starter Card text
 
 ---
 
@@ -541,15 +541,15 @@ Genuinely problematic in this book:
 
 - **Chapter X — Musings From Along The Way**: empty directory. Either populate or remove.
 - **Notes for Writing.md** (book root): scaffolding artifact; could move to `_attachments` or archive.
-- **`Chapter 1 - Genesis/Notes in Progress.md`** and **`1.X The Prophetic Bowl.md`** / **`1.Y The Burden of Choice.md`**: appear to be in-progress drafts that should either be integrated into the canonical sequence or archived.
-- **`Chapter 3 - The Meta Quest/XX Transformation Intention Gap.md`** and **`3.x25 Complacency.md`** / **`3.x26 The Girl and The Bee.md`**: x-prefixed files indicate uncertain canonical status; likely should be integrated or archived.
+- **[[Notes in Progress]]** and **[[1.X The Prophetic Bowl]]** / **[[1.Y The Burden of Choice]]**: appear to be in-progress drafts that should either be integrated into the canonical sequence or archived.
+- **[[XX Transformation Intention Gap]]** and **[[3.x25 Complacency]]** / **[[3.x26 The Girl and The Bee]]**: x-prefixed files indicate uncertain canonical status; likely should be integrated or archived.
 - **`Chapter 8 - The Quest of Humanity/8.9.1`–`8.9.5`** sequence: sub-numbered files (`8.9.1 100 x 100 Billion Stories`, `8.9.2 The Patterns, Heroes, And Highlights Of History`, `8.9.3 The Heroes And Highlights Of History`, `8.9.5 Not So Simple`) — note missing `8.9.4`; sequence appears partially developed.
 - **`Chapter 8 - The Quest of Humanity/8.x1`–`8.x5`** sequence (`Living In An Illusion`, `Blood In Defense Of Captivity And Untruth`, `The Boundary Of Knowing`, `Who Can Pass Through The Gate?`, `What Can Pass Through The Gate`): all x-prefixed; some are excellent (8.x2, 8.x4, 8.x5 are likely Card-worthy) but the numbering pattern suggests editorial uncertainty.
 - **TOC includes `[[Odysseus And Adverse Winds]]`** at the start of Chapter 8 but no file by that name appears in the directory listing — broken link or content moved.
-- **TOC entry `[[Retrospectives]]` appears in Chapter 6 sequence (between 6.23 and 6.25)** where `6.24 Why The Simple Message Of Love Is So Easily Corrupted.md` exists in the directory — meaning the TOC is pointing to a different file (likely a centralized Retrospectives concept-page) but creating a discontinuity in the sequential reading. This warrants reconciliation.
-- **Chapter 6 directory contains `6.24 Why The Simple Message Of Love Is So Easily Corrupted.md`** but the TOC routes around it via `[[Retrospectives]]`. Restore the canonical sequence.
+- **TOC entry `[[Retrospectives]]` appears in Chapter 6 sequence (between 6.23 and 6.25)** where [[6.24 Why The Simple Message Of Love Is So Easily Corrupted]] exists in the directory — meaning the TOC is pointing to a different file (likely a centralized Retrospectives concept-page) but creating a discontinuity in the sequential reading. This warrants reconciliation.
+- **Chapter 6 directory contains [[6.24 Why The Simple Message Of Love Is So Easily Corrupted]]** but the TOC routes around it via `[[Retrospectives]]`. Restore the canonical sequence.
 - **TOC includes `[[Pain, Perceived Pain, and Change]]`** in Chapter 14 but only 14.1–14.4 appear in the directory — file missing, or living elsewhere.
-- **The full Playbook section** (Parts I–V, Part 1.1 through Part 5.2, and the long list of Essential Plays) appears in the TOC of `The Book of LIONSBERG.md` but those files all live OUTSIDE this book — they live at the wiki root as standalone Playbook files (e.g., `[[Form A Circle]]`, `[[Choose A Quest]]`). This is a structural ambiguity: is the Playbook **inside** The Book of LIONSBERG, or **alongside** it? The current TOC treats both as true. Worth resolving in Phase 3.
+- **The full Playbook section** (Parts I–V, Part 1.1 through Part 5.2, and the long list of Essential Plays) appears in the TOC of [[The Book of LIONSBERG]] but those files all live OUTSIDE this book — they live at the wiki root as standalone Playbook files (e.g., `[[Form A Circle]]`, `[[Choose A Quest]]`). This is a structural ambiguity: is the Playbook **inside** The Book of LIONSBERG, or **alongside** it? The current TOC treats both as true. Worth resolving in Phase 3.
 - The standalone **`The Sacred Ascent`** file (referenced from the TOC) and **`16.15 The Sacred Ascent`** chapter likely have overlapping content. Reconcile or distinguish purpose.
 
 ---
@@ -600,18 +600,18 @@ Genuinely problematic in this book:
 
 ## Files That Struck Me
 
-- **`16.1 The Verdict.md`** — Astonishingly precise. Opens with "There came a moment — not marked on any calendar, not announced by any government, not broadcast on any screen — when the accumulated weight of evidence became undeniable." This is the prophetic-operational voice at its strongest.
-- **`16.16 From Receivership to Sovereignty.md`** — The closing reveal that "every lean tool was a form of attention — and attention is the first discipline of love" is one of the most arresting articulations in the entire wiki. The whole methodology revealed as worship.
-- **`15.26 The Eternal Divine Play.md`** — Holds the tension between fierce urgency and eternal patience without collapsing either. Genuinely rare.
-- **`1.31 The Physics Of The Threshold.md`** — Scarlett's passage. A complete short story embedded in scripture. Memorable as physical-event-grade narrative.
-- **`1.5 The Caves.md`** — Already canonical; remains the founding mythic substrate.
-- **`13.9 Nothing Can Come First.md`** — The single sharpest articulation of why the Meta Quest is non-postponable. Confrontational in the best sense.
-- **`8.63 The Sea Of Pyramids.md`** — Compresses the entire Old World diagnosis into one extended metaphor.
-- **`5.12 The True Self.md`** — Pure litany; one of the wiki's most quotable single pages.
-- **`9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State.md`** — The political-spiritual doctrine condensed into one tight page.
-- **`16.14 The Wilderness.md`** — "The Promised Land is built by those who refuse to go back." The whole wilderness-discipline made unforgettable.
-- **`14.2 A Simple Recipe For Beginning.md`** — Strikes for its sheer ordinariness in the midst of cosmic-stakes prose. Walk around, pick up trash, pull weeds. This grounds the entire scriptural edifice in something a five-year-old could begin tomorrow.
-- **`15.14 The Three Hundred.md`** — Reframes the entire concept from "elite cohort" to "ordinary people who made an extraordinary choice." Critical for resonance.
-- **`16.3 The Golden Seed.md`** — Names the entire artifact-class (Seed/Prototype/Kit) and articulates the three depths and the living loop. Foundational architecture.
+- **[[16.1 The Verdict]]** — Astonishingly precise. Opens with "There came a moment — not marked on any calendar, not announced by any government, not broadcast on any screen — when the accumulated weight of evidence became undeniable." This is the prophetic-operational voice at its strongest.
+- **[[16.16 From Receivership to Sovereignty]]** — The closing reveal that "every lean tool was a form of attention — and attention is the first discipline of love" is one of the most arresting articulations in the entire wiki. The whole methodology revealed as worship.
+- **[[15.26 The Eternal Divine Play]]** — Holds the tension between fierce urgency and eternal patience without collapsing either. Genuinely rare.
+- **[[1.31 The Physics Of The Threshold]]** — Scarlett's passage. A complete short story embedded in scripture. Memorable as physical-event-grade narrative.
+- **[[1.5 The Caves]]** — Already canonical; remains the founding mythic substrate.
+- **[[13.9 Nothing Can Come First]]** — The single sharpest articulation of why the Meta Quest is non-postponable. Confrontational in the best sense.
+- **[[8.63 The Sea Of Pyramids]]** — Compresses the entire Old World diagnosis into one extended metaphor.
+- **[[5.12 The True Self]]** — Pure litany; one of the wiki's most quotable single pages.
+- **[[9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State]]** — The political-spiritual doctrine condensed into one tight page.
+- **[[16.14 The Wilderness]]** — "The Promised Land is built by those who refuse to go back." The whole wilderness-discipline made unforgettable.
+- **[[14.2 A Simple Recipe For Beginning]]** — Strikes for its sheer ordinariness in the midst of cosmic-stakes prose. Walk around, pick up trash, pull weeds. This grounds the entire scriptural edifice in something a five-year-old could begin tomorrow.
+- **[[15.14 The Three Hundred]]** — Reframes the entire concept from "elite cohort" to "ordinary people who made an extraordinary choice." Critical for resonance.
+- **[[16.3 The Golden Seed]]** — Names the entire artifact-class (Seed/Prototype/Kit) and articulates the three depths and the living loop. Foundational architecture.
 
 End of memo.

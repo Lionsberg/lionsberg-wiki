@@ -581,7 +581,3 @@ Note: tradition-naming (Sachchidananda, Yahweh, Elohim) functions differently fr
 - **Voice modernization passes**: identifying AI-voice / older-stratum content for refresh.
 
 **NOT used for**: feeding centerpiece rewrites. See [[memory/co_creator_not_synthesizer]] — co-creative authorship from current consciousness, not synthesis of past artifacts.
-
----
-
-_Atlas built 2026-05-22 by 5-agent parallel inventory swarm at the direction of [[the nameless one]]. Living reference — refines as the consolidation work surfaces additional material._

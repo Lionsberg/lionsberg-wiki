@@ -79,12 +79,12 @@ The overwhelming bulk of this folder stays personal. The discipline is firm.
 
 ## Duplicates / Archive Candidates
 
-- **`Lionsberg Africa 2022.10.13.md` and `Lionsberg Africa 2022.10.13 1.md`** — appear to be a duplicate pair. The ` 1` suffix is Obsidian's standard "duplicate filename" artifact. One should be merged or deleted.
-- **`Jordan and Pete 2022.10.17.md` and `Jordan and Peter 2022.10.17.md`** — appear to be a duplicate pair (or two parallel notes from the same call). Worth reconciling.
-- **`Lionsberg Meta Project Navigation, 2022.10.12.md` and `Lionsberg Meta Project Navigation, 2022.10.12 1.md`** — duplicate pair, same Obsidian artifact.
-- **Empty / near-empty stubs** (3 lines each): `Meta Project Navigation, 2022-08-24.md`, `Lionsberg 2023.02.08.md`, `Lionsberg Africa, 2022.10.27.md`. These are placeholder shells. Either populate or remove.
-- **`Lionsberg Special Session on Flow, 2022-12-07.md`** — contains only artifact links (YouTube, chat, transcript). It is effectively a reference page, not a notes page. Fine to keep as is or fold into a parent artifacts index.
-- **`Topics for Future Meetings.md`** — 7 lines, never developed. Archive candidate.
+- **[[Lionsberg Africa 2022.10.13]] and [[Lionsberg Africa 2022.10.13 1]]** — appear to be a duplicate pair. The ` 1` suffix is Obsidian's standard "duplicate filename" artifact. One should be merged or deleted.
+- **[[Jordan and Pete 2022.10.17]] and [[Jordan and Peter 2022.10.17]]** — appear to be a duplicate pair (or two parallel notes from the same call). Worth reconciling.
+- **[[Lionsberg Meta Project Navigation, 2022.10.12]] and [[Lionsberg Meta Project Navigation, 2022.10.12 1]]** — duplicate pair, same Obsidian artifact.
+- **Empty / near-empty stubs** (3 lines each): [[Meta Project Navigation, 2022-08-24]], [[Lionsberg 2023.02.08]], [[Lionsberg Africa, 2022.10.27]]. These are placeholder shells. Either populate or remove.
+- **[[Lionsberg Special Session on Flow, 2022-12-07]]** — contains only artifact links (YouTube, chat, transcript). It is effectively a reference page, not a notes page. Fine to keep as is or fold into a parent artifacts index.
+- **[[Topics for Future Meetings]]** — 7 lines, never developed. Archive candidate.
 - The entire **Lionsberg Africa / Lionsberg Kenya** series could be archived to a clearly-marked subfolder (e.g., `Meetings/Archive — Kenya 2022-2023/`) since this work has a specific identity and a clear historical bracket.
 - The entire **Meta Project Navigation** series (2022-07-20 through 2022.10.05) could similarly be archived as a clearly-marked sub-folder. The "Meta Project" naming itself was superseded — first by Lionsberg, then by the current canonical framework.
 
@@ -112,19 +112,19 @@ The overwhelming bulk of this folder stays personal. The discipline is firm.
 
 ## Files That Struck Me
 
-- **`2022-05-27 Stories.md`** — extraordinarily dense with proto-canonical patterns. The "Stone Soup," "Every Defect Is A Gift," "Safe To Fail," "Old Game / New Game," "Mechanics of Stories," "Coherence or integrity is when the words match what we are doing" formulations are remarkably close to mature canonical voice already, expressed by Wendy and Judy in May 2022. This file is the closest thing in the folder to a Cards-source document.
+- **[[2022-05-27 Stories]]** — extraordinarily dense with proto-canonical patterns. The "Stone Soup," "Every Defect Is A Gift," "Safe To Fail," "Old Game / New Game," "Mechanics of Stories," "Coherence or integrity is when the words match what we are doing" formulations are remarkably close to mature canonical voice already, expressed by Wendy and Judy in May 2022. This file is the closest thing in the folder to a Cards-source document.
 
-- **`Jordan And Pete - How To Build A Superbrain - 2022.10.24.md`** — contains Jordan's "Closing Thoughts" section (lines 228–287) which reads as an early proto-articulation of the entire LIONSBERG mission statement: small groups of 3-20, the Goal, citizenship, the rights of self-governance, the commitment to non-extraction. This file is *very* close to becoming canonical and represents one of Jordan's clearest early articulations. Worth preserving as a foundational historical document.
+- **[[Jordan And Pete - How To Build A Superbrain - 2022.10.24]]** — contains Jordan's "Closing Thoughts" section (lines 228–287) which reads as an early proto-articulation of the entire LIONSBERG mission statement: small groups of 3-20, the Goal, citizenship, the rights of self-governance, the commitment to non-extraction. This file is *very* close to becoming canonical and represents one of Jordan's clearest early articulations. Worth preserving as a foundational historical document.
 
-- **`Jordan and A - 2023.04.21.md`** — the longest, densest, and most politically/personally charged file in the folder. Documents Jordan's serious consideration of a 2024 US Presidential run as the mechanism for advancing the Plan. Now superseded by the post-August-2025 reality. This file is historically significant but must stay clearly bracketed as personal/historical and NOT extracted to canon. Even the conceptual frames (the Plan, the New Vision and Plan, etc.) have evolved.
+- **[[Jordan and A - 2023.04.21]]** — the longest, densest, and most politically/personally charged file in the folder. Documents Jordan's serious consideration of a 2024 US Presidential run as the mechanism for advancing the Plan. Now superseded by the post-August-2025 reality. This file is historically significant but must stay clearly bracketed as personal/historical and NOT extracted to canon. Even the conceptual frames (the Plan, the New Vision and Plan, etc.) have evolved.
 
-- **`Lionsberg 2023.02.09.md`** — pure Christian devotional voice from the Kenyan group; "We ended up spending nearly the entire time sitting quietly in the presence of God." This stays personal; it is not the universal LIONSBERG voice but rather a specific cultural and devotional moment.
+- **[[Lionsberg 2023.02.09]]** — pure Christian devotional voice from the Kenyan group; "We ended up spending nearly the entire time sitting quietly in the presence of God." This stays personal; it is not the universal LIONSBERG voice but rather a specific cultural and devotional moment.
 
-- **`Lionsberg 2023.01.18 Pre Flight Checklist.md`** — the highest-density gathering recorded in the folder (Bill, Donna, George Orbelian, Wendy E, Judy, Jason, Michael, Killu, Matt, Bill). Functions as a kind of capstone for the 2022–2023 formation cycle. Matt's closing observation about complicity ("we may just need to stop... we have messed it up... I don't see willingness to own that") is one of the rare moments of genuine prophetic confrontation captured in the folder.
+- **[[Lionsberg 2023.01.18 Pre Flight Checklist]]** — the highest-density gathering recorded in the folder (Bill, Donna, George Orbelian, Wendy E, Judy, Jason, Michael, Killu, Matt, Bill). Functions as a kind of capstone for the 2022–2023 formation cycle. Matt's closing observation about complicity ("we may just need to stop... we have messed it up... I don't see willingness to own that") is one of the rare moments of genuine prophetic confrontation captured in the folder.
 
-- **`Jordan and Peter 2022.10.31.md`** — the cleanest single articulation of the Fellowship Meeting / Weighty Friends / Weak Signal / Fundamental Tone pattern in the folder. Worth preserving as the source-text for these Cards.
+- **[[Jordan and Peter 2022.10.31]]** — the cleanest single articulation of the Fellowship Meeting / Weighty Friends / Weak Signal / Fundamental Tone pattern in the folder. Worth preserving as the source-text for these Cards.
 
-- **`Currency and Measurement, 2022-07-25.md`** — Grace's cautions at the end (lines 149–167) are the sharpest critical voice in the folder: "Let's not delude ourselves that we really have a useful circular economy where we can fund one another... It's arrogant or naive to think you are going to succeed." This kind of internal challenge is precious and worth preserving precisely as the kind of voice that should be welcome in canon-formation.
+- **[[Currency and Measurement, 2022-07-25]]** — Grace's cautions at the end (lines 149–167) are the sharpest critical voice in the folder: "Let's not delude ourselves that we really have a useful circular economy where we can fund one another... It's arrogant or naive to think you are going to succeed." This kind of internal challenge is precious and worth preserving precisely as the kind of voice that should be welcome in canon-formation.
 
 ---
 

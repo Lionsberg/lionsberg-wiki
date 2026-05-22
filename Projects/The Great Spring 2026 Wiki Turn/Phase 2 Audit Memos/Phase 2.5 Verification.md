@@ -3,7 +3,7 @@
 **Verification date:** 2026-05-19
 **Verifier:** T-8 (Phase 2.3 / 2.5 / 2.6 verification agent)
 **Source transcript:** Single NW agent JSONL file dated 2026-05-19
-**Ledger section verified:** `Projects/The Great Spring 2026 Wiki Turn/Phase 2 — The Audit Ledger.md` lines 4371–4441
+**Ledger section verified:** [[Phase 2 — The Audit Ledger]] lines 4371–4441
 
 ---
 
@@ -15,7 +15,7 @@ Transcript located at:
 
 - NW — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-ac5138c99cf25735f.jsonl` (meta: "NW: TheNameless-wiki audit")
 
-Memo extracted to `Workspaces/Phase 2.7 Transcription/_scripts/extracted_memos/NW.md` (21,784 chars).
+Memo extracted to [[NW]] (21,784 chars).
 
 ---
 

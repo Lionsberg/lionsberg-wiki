@@ -341,25 +341,25 @@ This leaves: 8 books consolidated into 4 books + 1 registry. Substantial Voice w
 
 ## 9. Files That Struck Me
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Most People Have No Idea What Is Coming/8.1 The Architecture of Kontrolle.md`** — The clearest articulation in the entire cluster of why this is not a conspiracy but a structural architecture. The "Beyond Conspiracy" section is the most useful single paragraph in the cluster for translating disclosure material to a Voice-disciplined reader.
+**[[8.1 The Architecture of Kontrolle]]** — The clearest articulation in the entire cluster of why this is not a conspiracy but a structural architecture. The "Beyond Conspiracy" section is the most useful single paragraph in the cluster for translating disclosure material to a Voice-disciplined reader.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Most People Have No Idea What Is Coming/8.4 Spiritual Warfare and the Battle for Consciousness.md`** — The Anti-Christic Inversion table (Love→dependency, Truth→propaganda, etc.) is the cluster's most generative single Pattern. It generates seven independent Cards plus their integrating frame.
+**[[8.4 Spiritual Warfare and the Battle for Consciousness]]** — The Anti-Christic Inversion table (Love→dependency, Truth→propaganda, etc.) is the cluster's most generative single Pattern. It generates seven independent Cards plus their integrating frame.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Most People Have No Idea What Is Coming/8.3 The Great Unveiling.md`** — "Apocalypse means unveiling." "Deception requires energy; truth requires nothing." The cluster's most quotable lines.
+**[[8.3 The Great Unveiling]]** — "Apocalypse means unveiling." "Deception requires energy; truth requires nothing." The cluster's most quotable lines.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Most People Have No Idea What Is Coming/11.3 What To Do Now.md`** — The cluster's correct ending. Five steps. Wake Up → Find Others → Choose a Quest → Build the New → Pass the Flame. This is the **handoff template** every disclosure articulation should land at.
+**[[11.3 What To Do Now]]** — The cluster's correct ending. Five steps. Wake Up → Find Others → Choose a Quest → Build the New → Pass the Flame. This is the **handoff template** every disclosure articulation should land at.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Great UnVeiling/The 99 Theses of The Great UnVeiling.md`** — The cluster's prophetic-propositional summit. ~17K words. Densest articulation of the diagnostic argument anywhere in the wiki. Should be treated as a primary artifact.
+**[[The 99 Theses of The Great UnVeiling]]** — The cluster's prophetic-propositional summit. ~17K words. Densest articulation of the diagnostic argument anywhere in the wiki. Should be treated as a primary artifact.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Great UnVeiling/Chapter 13 — Shattering the Lie.md`** — The cluster's prophetic-liturgical peak. "Only those who dare to gaze into the Abyss can find the Path back to the Stars." Captures the Voice the consolidation should aim for.
+**[[Chapter 13 — Shattering the Lie]]** — The cluster's prophetic-liturgical peak. "Only those who dare to gaze into the Abyss can find the Path back to the Stars." Captures the Voice the consolidation should aim for.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Great UnVeiling/Chapter 15 — Demonic-Alien Matrices and Possession.md`** — The cluster's most theologically dense disclosure articulation. Names the six mechanics of enslavement (spiritual, psychological, energetic, biological, genetic, cultural). Pattern-rich, Voice-disciplined.
+**[[Chapter 15 — Demonic-Alien Matrices and Possession]]** — The cluster's most theologically dense disclosure articulation. Names the six mechanics of enslavement (spiritual, psychological, energetic, biological, genetic, cultural). Pattern-rich, Voice-disciplined.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Existential Threat/16. Jordan's Interpretation and Hypothesis.md`** — The personal-testimony pole. Jordan's master hypothesis in 25 numbered points + 60-item indictment list. Most direct, raw, Voice-untranslated articulation. Source-document of the cluster.
+**[[16. Jordan's Interpretation and Hypothesis]]** — The personal-testimony pole. Jordan's master hypothesis in 25 numbered points + 60-item indictment list. Most direct, raw, Voice-untranslated articulation. Source-document of the cluster.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The 66 Most Protected and Distorted Narratives/The Implantation of the YHWH Control Matrix.md`** — The cluster's most theologically incendiary single Card. Worth keeping; carefully discipline its Voice; treat as exemplar for the other 65.
+**[[The Implantation of the YHWH Control Matrix]]** — The cluster's most theologically incendiary single Card. Worth keeping; carefully discipline its Voice; treat as exemplar for the other 65.
 
-**`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Most People Have No Idea What Is Coming/1.1 The Building Is On Fire.md`** — The cluster's canonical opening. The Lahaina Principle. The Dashboard of Civilization. All gauges red. This is how the integrated diagnosis should begin.
+**[[1.1 The Building Is On Fire]]** — The cluster's canonical opening. The Lahaina Principle. The Dashboard of Civilization. All gauges red. This is how the integrated diagnosis should begin.
 
 ---
 

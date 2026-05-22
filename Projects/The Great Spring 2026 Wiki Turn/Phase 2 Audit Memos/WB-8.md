@@ -57,10 +57,10 @@ The base text published by Jordan as "the first sampling" — a multi-genre work
 - **Tools For The Journey** — closing pointer to Co-Creator's Handbook, Wiki Books, Toolkit
 
 Four file variants exist:
-- `Pass The Flame - Illuminating the Way Beyond the Meta Crisis.md` (2,124 lines)
-- `Pass The Flame - Illuminating the Way Beyond the Meta Crisis (bold).md` (2,124 lines)
-- `Pass The Flame - Illuminating the Way Beyond the Meta Crisis (glossary).md` (567 lines)
-- `Pass The Flame - Illuminating the Way Beyond the Meta Crisis (pagebreak).md` (2,135 lines)
+- [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] (2,124 lines)
+- [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis (bold)]] (2,124 lines)
+- [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis (glossary)]] (567 lines)
+- [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis (pagebreak)]] (2,135 lines)
 These are publication-format variants. **Substantial duplication risk.**
 
 ### Martial Arts Guide (Embodied Practice Canon)
@@ -84,7 +84,7 @@ A 10-line stub. The actual page consists of external links to Sandpoint, Idaho l
 9 lines. Explicitly stated: "The LIONSBERG Co-Creators Handbook was integrated and evolved into [[The LIØNSBERG Playbook]] in January 2026." **This is already a redirect.** Old version preserved as `LIONSBERG Co-Creator's Handbook (v.0.1)`.
 
 ### The Lionsberg Meta Guide
-10 files. The root `The Lionsberg Handbook.md` (590 lines) explicitly notes: "The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIONSBERG Way.**
+10 files. The root [[The Lionsberg Handbook]] (590 lines) explicitly notes: "The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIONSBERG Way.**
 
 ### The Lionsberg Book of People
 22 lines. A list of archetypal great spirits (Jesus, Buckminster Fuller, MLK, Gandhi, Mandela, Aristotle, Desmond Tutu, Lao Tzu, Socrates, Plato, Confucius, Buddha, Zoroaster, Pythagoras) — each presented as a wikilink but none of the linked pages necessarily exist. **Marked as `[[Work In Progress]]` at the bottom.** Not personal (no living individuals). Universal in nature.
@@ -130,7 +130,7 @@ The 99 Theses material. Front matter is explicit: "The Theses of LIONSBERG now l
 A single-file working draft of bulleted notes adapted from "Social Movements From Good" — exploratory brainstorming, not finished writing. Contains useful conceptual scaffolding (Initial Group of Believers, Distributed Action, Pinnacle Action, Sustaining The Movement) but reads as notes-to-self, not as a deliverable book.
 
 ### Wiki Book Template + Lionsberg Wiki Book + Lionsberg Wiki Books
-Templates and index. The index (`Lionsberg Wiki Books.md`) is current as of 2025-2026 and lists Featured Works, Something Powerful New and Good (Post-August 2025 era), and works interrupted by J's death August 2025. **The index is well-maintained.**
+Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-2026 and lists Featured Works, Something Powerful New and Good (Post-August 2025 era), and works interrupted by J's death August 2025. **The index is well-maintained.**
 
 ---
 
@@ -313,7 +313,7 @@ This cluster contains **substantial duplication** that should be addressed in co
 - **Pass The Flame (bold).md** — formatting variant
 - **Pass The Flame (pagebreak).md** — formatting variant
 - **Pass The Flame (glossary).md** — possibly the most useful variant; check whether the glossary content is unique
-- Keep the base `Pass The Flame - Illuminating the Way Beyond the Meta Crisis.md` as canonical; archive the rest or move to a `_variants/` subfolder.
+- Keep the base [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] as canonical; archive the rest or move to a `_variants/` subfolder.
 
 ### Already-Redirected / In-Migration
 - **The Lionsberg Co-Creator Handbook** — explicitly redirected to Playbook (Jan 2026)
@@ -387,27 +387,27 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 ## 9. Files That Struck Me
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIONSBERG 101/Ring 1 - The Seed.md`** — The most compressed canonical articulation of the entire Pattern in the wiki. If only one page survived, this is what would be enough. The single sentence containing the entire Pattern is itself a Card candidate of the highest order: "Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ONE and All…" 
+- **[[Ring 1 - The Seed]]** — The most compressed canonical articulation of the entire Pattern in the wiki. If only one page survived, this is what would be enough. The single sentence containing the entire Pattern is itself a Card candidate of the highest order: "Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ONE and All…" 
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Pass The Flame/Pass The Flame - Illuminating the Way Beyond the Meta Crisis.md`** lines 1054-1106 — Jordan's articulation of "the Meta Dragon" and the strategic insight that fighting individual instances is unwinnable; one must identify and confront the generative source. This is one of the most operationally important strategic frames in the corpus and deserves a standalone Card.
+- **[[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]** lines 1054-1106 — Jordan's articulation of "the Meta Dragon" and the strategic insight that fighting individual instances is unwinnable; one must identify and confront the generative source. This is one of the most operationally important strategic frames in the corpus and deserves a standalone Card.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Pass The Flame/Pass The Flame - Illuminating the Way Beyond the Meta Crisis.md`** lines 760-840 — The South Shores Church / "Pontius Pilate" sequence. This is one of the most operationally significant testimonies in the corpus — the structural pattern by which a corrupt religious institution weaponizes sacred narrative to silence the abused. The Card on **"Suffering In Silence Like Jesus Before Pontius Pilate (Coercive Sacred Narrative Pattern)"** is uniquely sourced here.
+- **[[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]** lines 760-840 — The South Shores Church / "Pontius Pilate" sequence. This is one of the most operationally significant testimonies in the corpus — the structural pattern by which a corrupt religious institution weaponizes sacred narrative to silence the abused. The Card on **"Suffering In Silence Like Jesus Before Pontius Pilate (Coercive Sacred Narrative Pattern)"** is uniquely sourced here.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Martial Arts Guide/1.11 Non-Propositional Knowing.md`** — The cleanest articulation in the entire wiki of why the Way cannot be reduced to propositions. This file is itself near-canonical and could stand alone as a foundational philosophy-of-knowing page. Key insight: "The moment one believes they Know the Way propositionally, they have severed themselves from Right Relationship with the universal and eternal Ultimate Reality they were formerly striving towards, and traded the infinite potential of That Which is Creating and Sustaining the Entire Universe for a measly figment of their own imagination."
+- **[[1.11 Non-Propositional Knowing]]** — The cleanest articulation in the entire wiki of why the Way cannot be reduced to propositions. This file is itself near-canonical and could stand alone as a foundational philosophy-of-knowing page. Key insight: "The moment one believes they Know the Way propositionally, they have severed themselves from Right Relationship with the universal and eternal Ultimate Reality they were formerly striving towards, and traded the infinite potential of That Which is Creating and Sustaining the Entire Universe for a measly figment of their own imagination."
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Martial Arts Guide/1.4 Keepers of the Way.md`** — A short, devastatingly compressed statement of the universal-priesthood theology: "We are the Kings and Queens of the New, all of us… Lay down every one of your Old titles, in order to take up the ultimate title and identity that we All share, because We are All the family of the ONE." This is the structural theology underneath the Federation pattern.
+- **[[1.4 Keepers of the Way]]** — A short, devastatingly compressed statement of the universal-priesthood theology: "We are the Kings and Queens of the New, all of us… Lay down every one of your Old titles, in order to take up the ultimate title and identity that we All share, because We are All the family of the ONE." This is the structural theology underneath the Federation pattern.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/A 200 Page Book/A 200 Page Book.md`** lines 287-440 — The dark cosmic empire sequence (Full Spectrum Dominance → Dark Fleet → Multigenerational Mind Kontrolle → LifeForce Extraction → Carnage and Trauma → Interlude "let us pause and grieve and remember the lost and vow — never again"). This is the most explicit articulation of the cosmic adversary's pattern in the corpus, and the **Interlude moment of grief** is one of the most affecting passages in the entire wiki.
+- **[[A 200 Page Book]]** lines 287-440 — The dark cosmic empire sequence (Full Spectrum Dominance → Dark Fleet → Multigenerational Mind Kontrolle → LifeForce Extraction → Carnage and Trauma → Interlude "let us pause and grieve and remember the lost and vow — never again"). This is the most explicit articulation of the cosmic adversary's pattern in the corpus, and the **Interlude moment of grief** is one of the most affecting passages in the entire wiki.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Prophesy of Mondragon.md`** lines 120-135 — The Mondragon governance principle: "Powerful Help, With No Guarantees." This is the cleanest statement in the wiki of how a Federation's core/headquarters should relate to its sovereign members. Sixty members serving 268 organizations and ~70,000 worker-owners, with no guarantees and no claim. This single passage refutes most of how modern federations actually operate.
+- **[[The Prophesy of Mondragon]]** lines 120-135 — The Mondragon governance principle: "Powerful Help, With No Guarantees." This is the cleanest statement in the wiki of how a Federation's core/headquarters should relate to its sovereign members. Sixty members serving 268 organizations and ~70,000 worker-owners, with no guarantees and no claim. This single passage refutes most of how modern federations actually operate.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Citizen Led Governance/2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation.md`** — The cleanest articulation of the LUV/Goodwill currency design in the wiki, including the explicit regulatory-compliance frame: "ensuring that Lionsberg LUV, as a myth originated through a game (The Great Game of Lionsberg), does not become a fiat or cryptocurrency." The choice to keep LUV explicitly within the game-mythic register, rather than crossing into currency-as-such, is structurally important.
+- **[[2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation]]** — The cleanest articulation of the LUV/Goodwill currency design in the wiki, including the explicit regulatory-compliance frame: "ensuring that Lionsberg LUV, as a myth originated through a game (The Great Game of Lionsberg), does not become a fiat or cryptocurrency." The choice to keep LUV explicitly within the game-mythic register, rather than crossing into currency-as-such, is structurally important.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIONSBERG 101/The 10 Year Grand Strategy.md`** lines 38-72 — The math of "30 cycles in 9 months, cycle time ~9 days, from 144 at Spring Equinox 2026 to 268M by Winter Solstice 2026." This is the most ambitious and date-anchored strategic claim in the wiki, and the "Act as if we have 10 years. Build as if we have centuries" closing balance is one of the most operationally useful framings in the corpus.
+- **[[The 10 Year Grand Strategy]]** lines 38-72 — The math of "30 cycles in 9 months, cycle time ~9 days, from 144 at Spring Equinox 2026 to 268M by Winter Solstice 2026." This is the most ambitious and date-anchored strategic claim in the wiki, and the "Act as if we have 10 years. Build as if we have centuries" closing balance is one of the most operationally useful framings in the corpus.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIONSBERG 101/Ring 3 - The Living Proof.md`** lines 60-90 — The Mondragon "What Failed and What It Teaches" section, including Fagor Electrodomesticos' 2013 bankruptcy and the Barcelona sellout. This honest treatment of failure modes is unusual in movement literature and deserves preservation as canonical. The Card on **"The Moment You Become Satisfied Is The Beginning Of The End"** is uniquely sourced here.
+- **[[Ring 3 - The Living Proof]]** lines 60-90 — The Mondragon "What Failed and What It Teaches" section, including Fagor Electrodomesticos' 2013 bankruptcy and the Barcelona sellout. This honest treatment of failure modes is unusual in movement literature and deserves preservation as canonical. The Card on **"The Moment You Become Satisfied Is The Beginning Of The End"** is uniquely sourced here.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Pass The Flame/Pass The Flame - Illuminating the Way Beyond the Meta Crisis.md`** lines 1078-1086 — "If ever I have to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon and The Giants, I want to make damn sure I died trying to slay them, and wasn't cowering ashamed in some Dark corner of The Village. I am heading out Beyond The Boundary to go confront and overcome The Dragon in its lair, liberate the captives it holds, and release the Treasure it guards, which is the Collective Inheritance of humanity." This passage encodes the personal stakes that gave rise to the entire mission, in voice. Foundational.
+- **[[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]** lines 1078-1086 — "If ever I have to look down and see my daughter suffering under the Tyranny and Oppression of The Dragon and The Giants, I want to make damn sure I died trying to slay them, and wasn't cowering ashamed in some Dark corner of The Village. I am heading out Beyond The Boundary to go confront and overcome The Dragon in its lair, liberate the captives it holds, and release the Treasure it guards, which is the Collective Inheritance of humanity." This passage encodes the personal stakes that gave rise to the entire mission, in voice. Foundational.
 
 ---
 

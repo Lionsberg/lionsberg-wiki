@@ -490,11 +490,11 @@ These are likely already in the queue but the source-material surfaces sharper e
 
 These five documents are **foundational source-texts** for the Sacred Codex and should be preserved with high fidelity:
 
-1. **The LIONSBERG Pattern Language** (`LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIONSBERG Pattern Language.md`) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume III-or-IV canonical root material.**
+1. **The LIONSBERG Pattern Language** ([[The LIONSBERG Pattern Language]]) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume III-or-IV canonical root material.**
 2. **The Program Delivery Guide** (`LIONSBERG Wiki Books/The Program Delivery Guide/`) — **Tier 1 canonical foundation.** The $20M-of-funded-research that informed Elements 9–12. Direct lineage map from PDG concept to Pattern Language Element is documented inside the file. The "Federal Receivership of Earth" parallel is structurally central.
-3. **The Lionsberg Strategy and Plan of Action** (`LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/The LIØNSBERG Strategy and Plan.md`) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
-4. **The Meta Project Plans and Specifications** (`LIONSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/Lionsberg Plans and Specifications.md`) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
-5. **The Lionsberg Blueprint Ch.21** (`LIONSBERG Wiki Books/The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action.md`) — **Tier 1 work-breakdown canonical source.** The 12 Pillars articulated as WBS.
+3. **The Lionsberg Strategy and Plan of Action** ([[The LIØNSBERG Strategy and Plan]]) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
+4. **The Meta Project Plans and Specifications** ([[Lionsberg Plans and Specifications]]) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
+5. **The Lionsberg Blueprint Ch.21** ([[Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action]]) — **Tier 1 work-breakdown canonical source.** The 12 Pillars articulated as WBS.
 
 Secondary high-fidelity sources to preserve: **The Kingdom of LIONSBERG - Plans and Specifications** (v0.1 — most recent architectural articulation), **The Lionsberg Playbook root + the ~30 root-level Plays**, and **The Rules** (Rule 1 and Rule 2 are the maximally compressed form of the entire system).
 
@@ -664,21 +664,21 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 
 ## X. Files That Struck Me
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIONSBERG Pattern Language.md`** — The single densest articulation in the entire corpus. 18,135 lines. This is *the* extraction target for Phase 3. Every domain has named patterns; every pattern is articulated; the Anti-Patterns section is one of the sharpest texts in the wiki.
+- **[[The LIONSBERG Pattern Language]]** — The single densest articulation in the entire corpus. 18,135 lines. This is *the* extraction target for Phase 3. Every domain has named patterns; every pattern is articulated; the Anti-Patterns section is one of the sharpest texts in the wiki.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Program Delivery Guide/The Program Delivery Guide.md`** — The intellectual provenance document. The Five Big Ideas → Twelve Elements lineage table is one of very few places where the wiki shows *where* a canonical concept came from. The "Federal Receivership of Earth" framing is structural — it claims the LIONSBERG approach has an exact precedent in CA prison reform.
+- **[[The Program Delivery Guide]]** — The intellectual provenance document. The Five Big Ideas → Twelve Elements lineage table is one of very few places where the wiki shows *where* a canonical concept came from. The "Federal Receivership of Earth" framing is structural — it claims the LIONSBERG approach has an exact precedent in CA prison reform.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/The LIØNSBERG Strategy and Plan.md`** — 2,143 lines. The Fibonacci Cycles of Growth table (50 cycles from 2 members to All Who Desire in Perpetuity, with explicit milestones at 1%, 3%, 13%, 1/3, center-of-mass, last 1/3) is one of the most strategically clarifying tables in the corpus. The Swords-to-Ploughshares accounting ($30.19T default → $12.99T redirected → $17T freed) is genuinely operational.
+- **[[The LIØNSBERG Strategy and Plan]]** — 2,143 lines. The Fibonacci Cycles of Growth table (50 cycles from 2 members to All Who Desire in Perpetuity, with explicit milestones at 1%, 3%, 13%, 1/3, center-of-mass, last 1/3) is one of the most strategically clarifying tables in the corpus. The Swords-to-Ploughshares accounting ($30.19T default → $12.99T redirected → $17T freed) is genuinely operational.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/2026 Q1 Update to the LIONSBERG Strategy and Plan.md`** — The freshest strategic ground-truth. The acknowledgment that "In August 2025, Jordan Nicholas Sukut... died" and "All provisional structures dissolved" is structurally important. The Cycle 40 = 268M = 3.2% by end-2026 target is the live critical milestone.
+- **[[2026 Q1 Update to the LIONSBERG Strategy and Plan]]** — The freshest strategic ground-truth. The acknowledgment that "In August 2025, Jordan Nicholas Sukut... died" and "All provisional structures dissolved" is structurally important. The Cycle 40 = 268M = 3.2% by end-2026 target is the live critical milestone.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Kingdom of LIONSBERG - Plans and Specifications/The Kingdom of LIONSBERG — Plans and Specifications.md`** — v0.1 dated recently. Most recent architectural articulation. Introduces LUV, the Concentric Mandala, the Kernel, Core Services, the Rites Engine. **This may be the document that supersedes or harmonizes the others.**
+- **[[The Kingdom of LIONSBERG — Plans and Specifications]]** — v0.1 dated recently. Most recent architectural articulation. Introduces LUV, the Concentric Mandala, the Kernel, Core Services, the Rites Engine. **This may be the document that supersedes or harmonizes the others.**
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Lionsberg Rules/Rule Number One.md`** — Maximally compressed canonical wisdom. "There is only ONE rule. Everything is ONE."
+- **[[Rule Number One]]** — Maximally compressed canonical wisdom. "There is only ONE rule. Everything is ONE."
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/Lionsberg Plans and Specifications.md`** — The "construction-document" framing for the whole system. "Every Defect Is A Gift." "Like Gold Refined Seven Times." "Progressive Articulation, Progressive Realization, Continuous Improvement." This is the engineering-ethic document.
+- **[[Lionsberg Plans and Specifications]]** — The "construction-document" framing for the whole system. "Every Defect Is A Gift." "Like Gold Refined Seven Times." "Progressive Articulation, Progressive Realization, Continuous Improvement." This is the engineering-ethic document.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/The LIONSBERG Way/The LIONSBERG Way.md`** — Striking *because* it's so empty for such a foundationally-named book. Self-marked "chaotic Work In Progress." The 16 ReMembering stubs are mostly link-rolodexes. **This is the book most in need of either deep articulation or honest archival.**
+- **[[The LIONSBERG Way]]** — Striking *because* it's so empty for such a foundationally-named book. Self-marked "chaotic Work In Progress." The 16 ReMembering stubs are mostly link-rolodexes. **This is the book most in need of either deep articulation or honest archival.**
 
 ---
 

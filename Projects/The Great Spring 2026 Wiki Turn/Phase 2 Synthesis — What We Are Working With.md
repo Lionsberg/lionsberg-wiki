@@ -136,7 +136,7 @@ The Sacred Codex's seven-Volume architecture already exists as a frame. What the
 
 ### The Outer Layer — The Single Shared Link
 
-`README.md` — The Threshold. The Golden Seed in its compressed form. Three to five paragraphs that name the moment, the stakes, and the door. Sized to be received at three in the morning by someone awakening to crisis. No further architecture visible until the reader chooses to walk through.
+[[README]] — The Threshold. The Golden Seed in its compressed form. Three to five paragraphs that name the moment, the stakes, and the door. Sized to be received at three in the morning by someone awakening to crisis. No further architecture visible until the reader chooses to walk through.
 
 ### The Gateway — Welcome to LIØNSBERG and The Sovereign's Path
 
@@ -207,7 +207,7 @@ A short list of decisions that gate the next phase of work. Each is articulated 
 
 A reader awakening to crisis at three in the morning, opening the wiki for the first time, does not need the seven Volumes finished or the consolidation complete. They need: clear entry, immediate orientation, a path. The minimal viable Golden Seed exists already and consists of three things:
 
-- `README.md` (the threshold)
+- [[README]] (the threshold)
 - `Welcome to LIØNSBERG` (the gateway)
 - The Twelve-Stage Sovereign's Path (the walkable hour)
 

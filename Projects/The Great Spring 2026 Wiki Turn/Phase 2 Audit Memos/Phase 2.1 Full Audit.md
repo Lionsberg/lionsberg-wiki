@@ -1,6 +1,6 @@
 # Phase 2.1 Full Audit — Complete Transcription
 
-_Comprehensive enumeration of all 11 Phase 2.1 agent batches that audited 78 wiki books in `LIONSBERG Wiki Books/`. Surfaces ~1,320 concepts (160 written Cards + ~1,160 candidates). Verbatim Card names preserved. Source: agent transcripts in `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` and consolidated synthesis at `Projects/The Great Spring 2026 Wiki Turn/Phase 2 — The Audit Ledger.md`._
+_Comprehensive enumeration of all 11 Phase 2.1 agent batches that audited 78 wiki books in `LIONSBERG Wiki Books/`. Surfaces ~1,320 concepts (160 written Cards + ~1,160 candidates). Verbatim Card names preserved. Source: agent transcripts in `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` and consolidated synthesis at [[Phase 2 — The Audit Ledger]]._
 
 ---
 
@@ -584,7 +584,7 @@ Four populated domains (~167 effectively unique theses, with 4 duplicates noted)
 
 ## Appendix E — The 204 ReMembering Items of The LIONSBERG Way (fold target: [[The LIØNSBERG Pattern Language]] Phase 3 rebuild candidates)
 
-(Items 1-204 enumerated in the master ledger. Selected representative items below; full list in `Phase 2 — The Audit Ledger.md` lines 1106-1110.)
+(Items 1-204 enumerated in the master ledger. Selected representative items below; full list in [[Phase 2 — The Audit Ledger]] lines 1106-1110.)
 
 1-50: ReMembering How To One · Embrace Ultimate Ineffability And Not Knowing · Navigate And Explore An Intelligible Universe · Differentiate And Align Spirit/Theology/Philosophy/Ethos/Science/Theory/Principles/Techniques/Practices/Evolution · InterExist · Differentiate Ultimate Unity, Transcendence, Categories, Archetypes, Prototypes, Instances · Incarnate and Embody · Be A Part Of A Larger Living System · Cultivate Flourishing And Abundant Life · Regenerate Wounded Living Systems · ... · Use Energy To Co-Create · Use Energy To Heal and Sustain · Use Minimum Necessary Force · Reciprocally Exchange Time, Energy And Value · Exchange Without Money · Withdraw Energy From Antithetical Systems · Make Purchases, Decisions, And Investments That Transform The World · Celebrate Generosity And Enoughness.
 
@@ -840,4 +840,4 @@ The Lionsberg Pattern Language Volume III rebuild has clear architecture (4-leve
 
 ---
 
-_Transcription compiled 2026-05-19 from agent transcripts at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` and consolidated ledger at `Projects/The Great Spring 2026 Wiki Turn/Phase 2 — The Audit Ledger.md`. Every Card-candidate, refinement, source-document, and disposition memo preserved verbatim per user instruction._
+_Transcription compiled 2026-05-19 from agent transcripts at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` and consolidated ledger at [[Phase 2 — The Audit Ledger]]. Every Card-candidate, refinement, source-document, and disposition memo preserved verbatim per user instruction._
