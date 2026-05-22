@@ -32,7 +32,7 @@ ___
 
 Each [[Circle]] operates as a self-governing production unit executing [[Quests]] — concrete projects advancing [[Meta Goal|The Meta Goal]].
 
-Circles federate into communities. Communities federate into bioregions. Bioregions federate into the planetary whole. At every scale, the [[LIONSBERG Integrated Delivery System]] provides shared protocols for planning, executing, measuring, and improving.
+Circles federate into Communities. Communities federate into Bioregions. Bioregions federate into the Planetary whole — and across all [[Levels of Scale]] beyond. At every scale, the [[LIONSBERG Integrated Delivery System]] provides shared protocols for planning, executing, measuring, and improving.
 
 [[The Prototype]] — a centrally learning Kit of Parts — ensures every lesson learned in any Circle feeds back into the shared knowledge base, improving every subsequent effort.
 

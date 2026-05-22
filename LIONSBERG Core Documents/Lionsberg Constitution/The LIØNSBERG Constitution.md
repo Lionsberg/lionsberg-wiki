@@ -27,7 +27,7 @@ _This constitution is explicitly provisional and in draft form until formally ra
 
 **Authority**: This Constitution governs not by imposition but by voluntary covenant. It recognizes no throne but the ineffable [[ØNE]]. Every steward, every Circle, every community and world is holofractally sovereign in [[Right Relationship]] with [[ØNE]] and [[All]]. Authority arises from **essential resonance with the [[Logos]]** — the living universal law written into the fabric of Reality ItSelf.
 
-**Scope**: This charter is not bound to any state, nation, planet, or species. It is the constitutional articulation of the New Civilization as it instantiates **fractally** across: individual sovereign beings → Circles → Communities → Bioregions → Planetary Grids → Star Systems → Federations of Worlds. All beings, in Right Relationship with [[ØNE]] and [[All]], may volutarily enter the Covenant.
+**Scope**: This charter is not bound to any state, nation, planet, or species. It is the constitutional articulation of the New Civilization as it instantiates **fractally** across all [[Levels of Scale]] — from the individual Sovereign through Circles, Communities, Bioregions, Planet as Biome, Star Systems, and the Federation of Worlds — and across the cross-cutting [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] that weave through every scale. All beings, in Right Relationship with [[ØNE]] and [[All]], may voluntarily enter the Covenant.
 
 ---
 

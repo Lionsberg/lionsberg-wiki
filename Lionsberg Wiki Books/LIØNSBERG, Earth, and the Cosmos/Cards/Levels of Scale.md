@@ -1,6 +1,6 @@
 # Levels of Scale
 
-_**DRAFT for review.** The canonical articulation of the holofractal nesting of scales — each scale a **domain** and a **superorganism** within ONE Living System — from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the systems / subsystems / supersystems nesting of the Body._
+_The canonical articulation of the holofractal nesting of scales — each scale a **domain** and a **superorganism** within ONE Living System — from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the systems / subsystems / supersystems nesting of the Body._
 
 ---
 

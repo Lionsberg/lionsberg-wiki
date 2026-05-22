@@ -28,6 +28,7 @@ The same principle applies at every scale:
 - **Federate your Circles into Communities** — local networks of Circles serving a shared place
 - **Federate your Communities into Bioregions** — coordinating across geography for larger-scale transformation
 - **Federate your Guilds across geographies** — so that mastery in one domain serves All, everywhere
+- **Federate across all [[Levels of Scale]]** — the same Pattern operates at every scale; [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] weave through every scale
 - **Federate your economic activity through shared commons** — so that resources flow where they are most needed
 
 At every level, sovereignty is preserved. At every level, collaboration multiplies capacity.  

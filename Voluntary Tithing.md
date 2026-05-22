@@ -10,7 +10,7 @@ Each time sovereigns voluntarily associate, a [[Commons]] naturally emerges. Tha
 
 There is no central organization to tithe to. No priesthood. No headquarters collecting dues. The contributions flow **inward to the center of whatever table you sit at** — to the commons of whatever federated level actually exists.
 
-If all that exists is a single [[Circle]], the voluntary contributions flow to the center of that one table. If Circles have federated into a community, the community commons is resourced by the Circles that sit at that table. If communities have federated into a bioregion, the bioregional commons is resourced by the communities that sit at that table. Resources flow to the highest federated level that each sovereign is actually a voluntary member of.
+If all that exists is a single [[Circle]], the voluntary contributions flow to the center of that one table. If Circles have federated into a Community, the community commons is resourced by the Circles that sit at that table. If Communities have federated into a Bioregion, the bioregional commons is resourced by the Communities that sit at that table. The pattern holds across all [[Levels of Scale]]: resources flow to the highest federated level that each sovereign is actually a voluntary member of.
 
 **And because each member is sovereign, there is no imposed percentage.** No authority dictates how much to give. It is only an invitation — an invitation to recognize the obvious: that groups naturally want to establish, resource, and nurture a commons that builds shared abundance for all. The amount is freely chosen by each sovereign in response to the needs of the commons and the capacity of the giver.
 
