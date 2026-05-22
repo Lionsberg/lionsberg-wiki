@@ -164,6 +164,16 @@ Properly viewed, the [[Left Hemisphere]] / Analytical / Differentiated view affo
 
 The Lionsberg System attempts to afford a useful philosophical and conceptual hierarchy to promote understanding and organization, while protecting the primacy of right relationship in the Whole.  
 
+## Maps In Service Of Spirit
+
+The Levels of Abstraction articulated here — Source, Pure Consciousness, Energy and Information, Embodied Being, Direct Experience, Perception, and the rest — are categories. **The categories are not the depth.** Naming the Level prevents collapse; mistaking the Level for the Truth is its own collapse.
+
+**The category that can be named is not the category.** The depth that can be diagrammed is not the depth. These Levels are useful as a map for the work — but only when held lightly, in service of Spirit and Truth. **[[Spirit Precedes Pattern]].**
+
+When the Wise Right thought, the Wise Right action, the Wise Right surrender does not fit the named Level — **act on the Wise Right.** The map is the servant; the soul is the work.
+
+This holds for [[Levels of Abstraction]] (this page), [[Levels of Scale]], [[Levels of Analysis]], and every other map LIØNSBERG holds. **Intellect in service of Spirit. Always.**
+
 ## Conclusion
 
 In summary, the concept of levels of abstraction is a powerful framework that allows us to navigate complex problems and ideas by breaking them down into smaller, more manageable layers of thinking. By understanding the different levels of abstraction and their relationships, we can develop more effective strategies and plans, and take more informed and effective actions.  
