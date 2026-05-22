@@ -43,13 +43,13 @@ The Georegional Guild federation likewise nests — Healers, Builders, Stewards,
 ## Distinguished From
 
 - **[[Bioregion]]** — the integrative cultural-ecological territory (~150-200 globally); the scale of place-based federation
-- **[[Earth as Biome]]** — the whole planet as one living unit; one of one
+- **[[Planet as Biome]]** — the whole planet as one living unit; one of one
 - **Continental** — Georegional may track continental geography but is defined by capacity-of-undertaking rather than purely by tectonic continents
 - **Empire** — the Old World form of coordinated continental scale, imposed by force and extraction. The Georegional federation is sovereign-cooperative; the opposite of empire.
 
 ## See Also
 
-- [[Bioregion]] · [[Earth as Biome]] — the scales below and above
+- [[Bioregion]] · [[Planet as Biome]] — the scales below and above
 - [[Guild]] — the cross-cutting functional axis present at this scale too
 - [[The LIØNSBERG Strategy and Plan]] — articulates the Local / Community / Bioregional / Georegional Hub network
 - [[Levels of Scale]] — the canonical articulation of the scale hierarchy

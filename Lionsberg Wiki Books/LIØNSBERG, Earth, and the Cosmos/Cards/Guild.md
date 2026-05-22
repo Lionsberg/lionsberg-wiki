@@ -61,6 +61,6 @@ The exact taxonomy of Guilds will emerge in practice. At the planetary scale, li
 ## See Also
 
 - [[Circle]] (3 to 13) — the irreducible unit; a Guild is composed of Circles of practitioners of the same craft
-- [[Village]] · [[Community]] · [[Bioregion]] · [[Georegional]] · [[Earth as Biome]] — the place-scales the Guild axis cuts across
+- [[Village]] · [[Community]] · [[Bioregion]] · [[Georegional]] · [[Planet as Biome]] — the place-scales the Guild axis cuts across
 - [[Levels of Scale]] — the canonical articulation of the scale hierarchy
 - [[Holofractal Omnifederation]] — the Pattern by which the federation nests across both place and function axes

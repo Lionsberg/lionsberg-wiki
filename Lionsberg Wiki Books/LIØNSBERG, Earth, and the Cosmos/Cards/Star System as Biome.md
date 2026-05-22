@@ -4,7 +4,7 @@ _The Star System — Sun and all that orbits it — is itself a Biome. One integ
 
 ---
 
-Just as [[Earth as Biome|Earth is a single Biome]] holding many sub-biomes, the **Star System** is a single Biome holding Earth and her sibling worlds. The Sun is the heart. The planets, moons, asteroids, comets, and the heliosphere itself are organs. The whole system is alive — energetically, gravitationally, electromagnetically, and (in ways the wider Stories of LIØNSBERG affirm) in deeper consciousness as well.
+Just as [[Planet as Biome|Earth is a single Biome]] holding many sub-biomes, the **Star System** is a single Biome holding Earth and her sibling worlds. The Sun is the heart. The planets, moons, asteroids, comets, and the heliosphere itself are organs. The whole system is alive — energetically, gravitationally, electromagnetically, and (in ways the wider Stories of LIØNSBERG affirm) in deeper consciousness as well.
 
 **The Star System Biome includes**:
 
@@ -19,7 +19,7 @@ Many traditions and many of the Stories of LIØNSBERG hold that **conscious bein
 
 ## In LIØNSBERG's Scaling
 
-The Star System Biome sits **above [[Earth as Biome|Earth]]** in the place-scale hierarchy:
+The Star System Biome sits **above [[Planet as Biome|Earth]]** in the place-scale hierarchy:
 
 > Sovereign → Circle → Community → Bioregion → Earth as Biome → **Star System as Biome** → Galactic scale → Cosmic scale → [[ØNE]]
 
@@ -45,13 +45,13 @@ This is the work named in the cosmic chapters of [[The Great Game of LIØNSBERG|
 
 ## Distinguished From
 
-- **[[Earth as Biome]]** — the planetary scale within the Star System
+- **[[Planet as Biome]]** — the planetary scale within the Star System
 - **Galactic scale** — the next scale above Star System, the wider region of the Milky Way
 - **Cosmic scale** — the whole universe, the entire field of conscious creation, ultimately [[ØNE]]
 
 ## See Also
 
-- [[Earth as Biome]] — the scale within
+- [[Planet as Biome]] — the scale within
 - [[The Federation of Worlds]] — the conscious-cooperation form at this scale and beyond
 - [[The Cycle of Cosmic Co-Creation]] — the recurring pattern by which the Game travels world to world
 - [[The Eternal Divine Play]] — the horizon at which words begin to fail

@@ -58,6 +58,6 @@ These developments are appropriate adaptations of a body crossing into a differe
 
 ## See Also
 
-- [[Circle]] · [[Community]] · [[Bioregion]] · [[Earth as Biome]] — the place-scales above and below
+- [[Circle]] · [[Community]] · [[Bioregion]] · [[Planet as Biome]] — the place-scales above and below
 - [[The 300]] — the anchor pattern at the ten-thousand scale (beyond Dunbar)
 - [[Holofractal Omnifederation]] — the structural Pattern that nests Villages within Communities within Bioregions

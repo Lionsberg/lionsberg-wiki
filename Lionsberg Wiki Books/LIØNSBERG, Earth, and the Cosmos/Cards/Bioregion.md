@@ -27,7 +27,7 @@ The Bioregion is where coordinated stewardship of the cultural-ecological whole 
 - Bioregions hold the **place-based** dimension — sovereignty rooted in a specific land.
 - Guilds hold the **craft-based** dimension — sovereignty rooted in a specific practice that runs across many lands.
 
-Both are needed. Neither is sufficient alone. Together they nest upward into [[Georegional]], [[Earth as Biome]], and beyond.
+Both are needed. Neither is sufficient alone. Together they nest upward into [[Georegional]], [[Planet as Biome]], and beyond.
 
 ## Distinguished From
 
