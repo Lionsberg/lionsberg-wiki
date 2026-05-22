@@ -26,6 +26,8 @@ Where we left off:
 	- [ ] in current form 0.1 and blah are encountered twice - incoherent. 
 - [x] Eliminate vol I provenance footer  
 - [x] Proposals / Decisions / Meetings - need to be cohered into patterns / plays.  
+- [ ] [[The LIØNSBERG Playbook]]  
+- [ ] [[The LIØNSBERG Pattern Language]]  
 - [ ] Pass The Flame - cohering multiple duplicate formats into one - deleting the others. 
 - [ ] carrying the highest voice throughout [[The LIONSBERG Cycle of Cosmic Co-Creation]] 
 - [ ] Make LIONSBERG Concept page? Could be super valuable companion. 
