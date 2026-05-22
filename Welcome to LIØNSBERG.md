@@ -118,9 +118,9 @@ In just forty to fifty cycles, every awakening soul on Earth receives the invita
 As Circles multiply and federate:
 
 - **Circles** of three to twelve become **Communities** of thousands — cohered by [[The 300]] empowered leaders per community of ten thousand
-- **Communities** federate into **Bioregions**  
-- **Archetypes** coalesce into **Guilds**  
-- **Bioregions** form the **Planetary Grid**
+- **Communities** federate into **Bioregions** — about 150 to 200 across the Earth, each a watershed remembering itself as a Sovereign body  
+- **Archetypes** federate into **Guilds** — vocational fellowships of practitioners weaving a craft across geographies  
+- **Bioregions and Guilds** weave together into the **Planetary Grid**
 - The **Planetary Grid** becomes the living infrastructure of the **[[New Civilization]]**
 
 At every level the same Pattern operates. Coherent from individual to planetary and beyond. **By the time the existing structures fully collapse, the New Civilization is already functional** — a living alternative, already governing, already feeding, already educating, already healing.
