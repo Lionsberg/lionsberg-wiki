@@ -8,13 +8,22 @@ The Pattern is the [[Way]]. Same Reality. Different rendering.
 
 ---
 
-## How This Pattern Language Is Organized
+## Patterns Are The Notes; Plays Are The Riffs
 
-Each Pattern is its own canonical Card — one Pattern per file. This page is the index that articulates the structure and links to each Pattern Card.
+**The Pattern Language is architecturally primary.** Patterns are the fundamental units of wisdom — the notes in the Divine Symphony. Each Pattern is articulated **once**, in its own canonical Card. Context, forces, the pattern itself, examples, the scale(s) at which it operates, the related Patterns.
 
-**Single source per Pattern.** Many of these Patterns appear as Plays in [[The LIØNSBERG Playbook|[[The Book of LIØNSBERG]]]]. The Playbook **points to** the Pattern Card — it does not restate the canonical articulation. The Pattern Card is the complete canonical home; the Playbook is the lived-practice navigation that sends the player to the Pattern [[Just In Time]] when the Pattern is needed.
+**Plays** — the compositions/riffs that arrange Patterns for common operational needs — live in **[[The LIØNSBERG Playbook|Vol IV — The Playbook]]**. Plays do not duplicate Pattern wisdom; they invoke Patterns in sequence/weave for a specific situation. The Playbook is the field music-book; the Pattern Language is the source of the music itself.
 
-The same discipline holds elsewhere: every Volume, every Card, every page that touches a Pattern links to the canonical Pattern Card. No two places describe the same Pattern.
+**Single source per Pattern.** A Pattern lives in one canonical Card. Plays and other documents link to it. The Pattern Card is the complete canonical home; the Playbook is the lived-practice navigation that sends the player to the Pattern [[Just In Time]] when the Pattern is needed.
+
+The same discipline holds throughout: every Volume, every Card, every page that touches a Pattern links to the canonical Pattern Card. No two places describe the same Pattern.
+
+## Naming Convention
+
+- **Pattern Cards** carry name-based filenames: `Form A Circle.md`, `Spirit Precedes Pattern.md`, `Holofractal Omnifederation.md`. No numbering.
+- **Pattern Cards live in** `LIONSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/`
+- **Plays** in the Playbook use the `Play — Title.md` convention with em-dash separator: `Play — Form A Circle.md`, `Play — Run A Meeting.md`. The `Play —` prefix is self-describing and prevents duplicate-filename conflict with the same-named Pattern Card.
+- Same name can appear as both a Pattern and a (simple) Play — the Pattern holds the wisdom; the Play of the same name is the simplest riff that invokes just that Pattern.
 
 ---
 
@@ -95,9 +104,9 @@ _The universal patterns. They hold beneath any Pillar, at any scale, in any cont
 - [[Receiving a Story]] — the witnessing counterpart; presence, attention, and right relationship with another's narrative
 - [[Crossing a Threshold]] — the recurring move from one state, domain, or scale into the next; the canonical practice of conscious passage
 
-### The Foundational Plays
+### The Foundational Patterns
 
-_The canonical Patterns at Circle and individual scale. Each is at once a structural Pattern (articulated here as its own Pattern Card) and a Play in [[The LIØNSBERG Playbook|the Playbook]] (the lived-practice rendering). One Pattern, one canonical Card; the Playbook navigates to each [[Just In Time]]._
+_The canonical Patterns at Circle and individual scale. The wisdom-units that compose many Plays. Each is its own canonical Pattern Card in the `Patterns/` folder; the [[The LIØNSBERG Playbook|Playbook]] composes them into operational riffs (Plays) for specific common needs._
 
 **Circle Formation and Life**
 

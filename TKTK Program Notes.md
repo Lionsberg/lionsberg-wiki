@@ -23,11 +23,13 @@ Where we left off:
 - [x] Separate out LIONSBERG from FSx on superorganism
 - [x] Welcome to LIONSBERG rethink... and 
 - [ ] fix quick start guide prologue reference... (think through experience - draft or delete) 
+	- [ ] in current form 0.1 and blah are encountered twice - incoherent. 
 - [x] Eliminate vol I provenance footer  
-- [ ] Proposals / Decisions / Meetings - need to be cohered into patterns / plays.  
+- [x] Proposals / Decisions / Meetings - need to be cohered into patterns / plays.  
 - [ ] Pass The Flame - cohering multiple duplicate formats into one - deleting the others. 
 - [ ] carrying the highest voice throughout [[The LIONSBERG Cycle of Cosmic Co-Creation]] 
 - [ ] Make LIONSBERG Concept page? Could be super valuable companion. 
+- [ ] Introduce the Pattern (note), Play (rif), Plays (song), entire System (symphony) metaphorical architecture. 
 - [ ] LIONSBERG Offering Page... why wiser than starting from scratch? 
 	- [ ] Create a page... on the value already in the LIONSBERG Commons and Golden Seed. 
 - [ ] Pull in the FSx pattern language so immediately actionable 

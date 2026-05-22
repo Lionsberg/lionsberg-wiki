@@ -1,85 +1,153 @@
 # The LIØNSBERG Playbook
-_The Living Guide of The Great Game_
 
-The Playbook is where the Pattern becomes Practice. It contains the plays, rhythms, and guides your Circle needs to navigate every phase of The Great Game — from first gathering to planetary federation.
+_The Living Guide of The Great Game. The field music-book for the operational riffs a Body actually performs._
+
+The Playbook is where the Pattern becomes Practice. It is the **field music-book** of LIØNSBERG — the gathered set of common-need compositions a Circle, Community, Bioregion, or any Body opens when they need to perform a specific operational riff.
+
+---
+
+## Plays Are Riffs; Patterns Are The Notes
+
+**Plays are compositions of Patterns.** Each Play in this Playbook is a brief score for a recurring operational need: how to run a meeting, how to make a proposal, how to make a decision, how to form a Circle, how to convene a Healing Council, how to onboard a new member, how to release a member gracefully, how to choose a Quest, how to pass the Flame.
+
+A Play does not duplicate the wisdom of its underlying Patterns — that wisdom lives canonically in **[[The LIØNSBERG Pattern Language]]**. A Play **invokes** Patterns in sequence or weave, with brief choreographic notes about transitions, timing, and improvisation. The Play is the riff. The Patterns are the notes. The Pattern Language is the source of the music.
+
+When a Body opens a Play, the Play sends them to the canonical Patterns for the deeper wisdom of HOW to perform each move. The Play orchestrates; the Pattern Cards deliver.
+
+This is the architecture that lets the Body grow without duplication: every Pattern lives in **one** canonical place; every Play arranges them.
+
+## The Architecture
+
+```
+Pattern Language (Vol V Part) — Architecturally Primary
+   Patterns live at: LIONSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/
+   Each Pattern: name-based filename — Form A Circle.md, Spirit Precedes Pattern.md
+   Wisdom articulated ONCE per Pattern Card
+
+Playbook (Vol IV) — The Field Music-Book
+   Plays live at: LIONSBERG Wiki Books/The Lionsberg Playbook/Plays/
+   Each Play: Play — Title.md filename — Play — Form A Circle.md, Play — Run A Meeting.md
+   Play composes Patterns for a specific operational need
+```
+
+A Play's form:
+
+- **Name** — the operational moment (Run a Meeting, Form a Circle, Pass the Flame, Make a Decision)
+- **Context** — when this riff fires; what situation calls for it
+- **The Sequence** — Patterns invoked in order or weave, with brief timing/transition notes
+- **Improvisation Notes** — common variations; when to adapt
+- **Outcome** — what the riff aims for
+- **Related Plays** — adjacent compositions
+
+The actual wisdom of HOW to perform each Pattern lives in the Pattern Card. The Play is the choreography.
 
 ---
 
 ## Start Here
 
-If you are new to LIONSBERG, begin with **[[Welcome to LIØNSBERG]]** — the essential introduction to the Story, Pattern, and Game.
+If you are new to LIØNSBERG, begin with **[[Welcome to LIØNSBERG]]** — the essential introduction to the Story, Pattern, and Game.
 
 If you have already gathered your Circle, **[[The LIØNSBERG Quick Start Guide]]** walks you through your first 90 minutes together.
 
 ---
 
-## Your First Move
+## Your First Moves
 
-1. **Cross The Threshold** — Step beyond the boundary of the Old World and into the New.
-2. **Anchor The First Practice** — Root yourself in the daily rhythm that keeps the Pattern alive.
-3. **Form a Circle** — Gather 3 to 13 sovereign souls you resonate with and trust.
-4. **Choose a Quest** — Give your Circle a body of meaningful work that makes life measurably more like Heaven.
-5. **Enter the Game** — Do the work. Track commitments. Learn from every cycle. Grow.
-6. **Pass the Flame** — Help others form their own Circles. The fruit of the tree contains new seeds.
+The earliest Plays in a Sovereign's walk:
 
----
-
-## The Essential Plays
-
-### Getting Started
-
-- [[Form A Circle]] — _Gather your first band of sovereign souls_
-- [[Choose A Quest]] — _Give your Circle a body of meaningful work_
-- [[Choose Your Roles]] — _Discover the gifts each member brings_
-- [[Discern the Wise Right Next Steps]] — _Turn intention into reliable, faithful action_
-- [[Pass The Flame]] — _Help others form their own Circles and begin_
-
-### Circle Life
-
-- [[Name Your Circles]] — _Give your Circle its first shared act of co-creation_
-- [[Set Your Cadence]] — _Establish the weekly heartbeat that keeps your Circle alive_
-- [[Forge a Field of Agreements]] — _Build the structure of trust from spoken, shared, and honored commitments_
-- [[Govern Your Circles]] — _Self-governance rooted in love and mutual accountability_
-- [[Establish Selectively Permeable Membranes]] — _Protect the interior while allowing vital exchange with the world_
-- [[Establish Your Cellular Operating System and Way]] — _The internal processes that keep your Circle alive, healthy, and productive_
-
-### Quests and Discernment
-
-- [[Choose A Quest]] — _Select a tangible body of meaningful work_
-- [[Discern the Wise Right Next Steps]] — _Turn vision into reliable promises, faithfully kept_
-- [[Integrating and Submitting Your Work]] — _Return your results, learnings, and tools to the Whole_
-
-### Communication, Culture, and Learning
-
-- [[Share Your Stories of Transformation]] — _Let the undeniable evidence of something real spread the Pattern_
-- [[Dialogos, SenseMaking, and OmniSpection]] — _The contemplative infrastructure that keeps the living Body conscious and adaptive_
-- [[Seasonal OmniSpection]] — _Pause at every solstice and equinox to see from above, celebrate, and renew_
-- [[Continuously Improve Everything]] — _The sacred discipline of making everything closer to Heaven with every cycle_
-- [[Co-Create LIONSBERG Learning Institutions]] — _Education as transformation — the slow, steady rain that liberates a soul_
-
-### Growth and Federation
-
-- [[Connect and Collaborate With Other Circles]] — _Find the other living cells forming across your city, region, and world_
-- [[Grow Your Circles]] — _Tend the growth when new souls are drawn to your fire_
-- [[Self-Replicate Your Circles]] — _Birth new sovereign Circles carrying the full DNA_
-- [[Circle of Circles and Team of Teams]] — _When cells connect, a Body begins to form_
-- [[Stacking Up and Aligning Quests]] — _Align individual Quests toward shared milestones for exponential impact_
-- [[Stacking Up and Aligning Circles]] — _From Circles to Tribes to Communities — the same DNA at every scale_
-- [[Stacking Up and Aligning Communities Into Bioregions]] — _Organize human cooperation along the living lines of the Earth itself_
-- [[Federate Everything]] — _Sovereign beings and groups weaving themselves into something far greater, without surrendering autonomy_
-
-### Resources and Infrastructure
-
-- [[Fostering Ecosystemic Resource Flows]] — _Resources flowing to where they are most needed, pooled and distributed through the Commons_
-- [[Pass The Flame]] — _The fruit of the tree contains new seeds — carry the fire forward_
+1. **Cross The Threshold** — Step beyond the boundary of the Old World into the New.
+2. **Anchor The First Practice** — Root yourself in the daily rhythm. (See Pattern: [[The Daily Way]].)
+3. **Form A Circle** — Gather 3 to 13 sovereign souls. (See Play: `Play — Form A Circle`; invokes Pattern: [[Form A Circle]].)
+4. **Choose A Quest** — Give your Circle a body of meaningful work. (Play and Pattern of the same name.)
+5. **Enter The Game** — Do the work. Track commitments. Learn from every cycle. Grow.
+6. **Pass The Flame** — Help others form their own Circles.
 
 ---
 
-## The Full Architecture
+## The Plays (under construction)
 
-For the complete index of every Part, chapter, and play, see **[[The LIØNSBERG Playbook]]** / [[The LIONSBERG Playbook — Drafts and Notes]]
+The canonical set of Plays organized by lifecycle category. Each Play in this index lives at `Plays/Play — Title.md`. Most Plays will be authored or migrated during the Pattern Language + Playbook rebuild currently underway.
+
+### Foundation — Convening The Body
+
+Plays for forming, naming, and establishing the irreducible cooperative unit at any scale.
+
+- `Play — Form A Circle` — gather 3 to 13 sovereign souls in shared purpose _(invokes [[Form A Circle]], [[Voluntary Covenant]], [[Sovereignty At Every Scale]], [[Field of Agreements]])_
+- `Play — Forge a Field of Agreements` — establish the shared commitments
+- `Play — Set Your Cadence` — establish the [[The Weekly Heartbeat|Weekly Heartbeat]]
+- `Play — Name Your Circle`
+- `Play — Choose Your Roles`
+- `Play — Form a Village`, `Play — Form a Community`, `Play — Form a Guild`, `Play — Form a Voluntary Association`, `Play — Form a Company` — compositions at larger scales
+
+### Operations — The Basic Moves
+
+Plays for the operational moments every Body encounters again and again.
+
+- `Play — Run A Meeting` — _(invokes [[The Gathered Circle]], [[Opening Ritual]], [[Three-Level Response]], [[Dialogos]], [[Wise Eldership]], [[Closing Ritual]])_
+- `Play — Make A Proposal` — _(invokes [[The Three-Level Response]], [[Integrative Decision-Making]])_
+- `Play — Make A Decision` — _(invokes [[Consent vs Consensus]], [[Choosing By Advantages]], [[Wise Eldership]])_
+- `Play — Identify And Solve An Issue` — _(invokes [[The Escalation Ladder]], [[OmniSpection]])_
+- `Play — Engage Conflict`
+- `Play — Onboard A New Member`
+- `Play — Hold A Healthy Exit`
+
+### Cycle — The Quest Rhythm
+
+Plays for the Quest cycle and seasonal rhythms.
+
+- `Play — Choose A Quest`
+- `Play — Discern The Wise Right Next Steps`
+- `Play — Do The Work`
+- `Play — Integrate And Submit Your Work`
+- `Play — Share Your Story Of Transformation`
+- `Play — Hold Seasonal OmniSpection`
+- `Play — Continuously Improve Everything`
+- `Play — Pass The Flame`
+
+### Federation — Weaving Bodies Together
+
+Plays for the work of connection between Bodies — within and across scales.
+
+- `Play — Govern Your Circle`
+- `Play — Connect And Collaborate With Other Circles`
+- `Play — Grow Your Circle`
+- `Play — Self-Replicate Your Circle`
+- `Play — Stack Up And Align`
+- `Play — Federate Across Scales`
+- `Play — Convene a Guild`
+- `Play — Federate Tribes`
+- `Play — Honor Inter-Species Relationship`
+- `Play — Foster Ecosystemic Resource Flows`
+
+### Cross-Cutting — Across All Scales And Axes
+
+Plays that fire at any scale, in any axis (Place, Guild, Tribe, Species, Voluntary Association).
+
+- `Play — Forge a Field of Agreements`
+- `Play — Establish Selectively Permeable Membranes`
+- `Play — Establish Your Cellular Operating System`
+- `Play — Dialogos, SenseMaking, and OmniSpection`
 
 ---
 
-**The Playbook is a living document — growing as The Great Game unfolds.**  
-_It cannot be finished. It can only be lived._
+## On The Existing Root Plays
+
+Many of the existing root-level "Plays" in the wiki ([[Form A Circle]], [[Pass The Flame]], [[Govern Your Circles]], [[Forge a Field of Agreements]], etc.) carry **substantial wisdom** — they read more as canonical Pattern articulations than as operational riff compositions. As the Pattern Language + Playbook rebuild proceeds, most of these will **migrate to the Patterns folder** as canonical Pattern Cards, with simple `Play — Title` riffs in the Plays folder that invoke them.
+
+The migration is gradual. During the transition, both old root-Plays and new `Play — Title` Plays will coexist; broken links will be resolved as Patterns and Plays settle.
+
+---
+
+## The Disciplines That Govern The Playbook
+
+- **No duplication.** Wisdom lives in the Pattern Card. Plays reference; never restate.
+- **Plays are compositions.** A Play is a brief score, not a manual.
+- **Patterns are scale-aware.** Each Pattern declares the [[Levels of Scale]] it operates at; Plays invoke Patterns at appropriate scales for the operational context.
+- **Cross-cutting axes** ([[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], [[Voluntary Association|Voluntary Associations]]) inform when and how Plays apply.
+- **Maps in service of Spirit.** The Plays in this Playbook are tools, not idols. **[[Spirit Precedes Pattern]].** When the Wise Right Thing in this moment, in this Body, in this place contradicts the Play as written — do the Wise Right Thing. The Play is the servant. The Spirit is the work.
+
+---
+
+**The Playbook is a living document — growing as The Great Game unfolds.**
+
+_The Pattern is articulated in [[The LIØNSBERG Pattern Language]]. The Plays compose the Patterns. The Spirit moves through both. Together — Pattern + Play + Spirit — the Body of LIØNSBERG plays the Game._
