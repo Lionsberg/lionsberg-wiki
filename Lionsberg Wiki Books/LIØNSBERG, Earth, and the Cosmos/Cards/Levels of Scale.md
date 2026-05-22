@@ -16,22 +16,27 @@ The Pattern is **holofractal** — the same Pattern operates at every scale, fro
 | **[[Star System as Biome]]** | a star and its planets | many | the Federation of Worlds within the System |
 | **[[Earth as Biome]] / Planetary Grid** | the planet | one of one (for Earth-bound work) | the Planetary federation of all who dwell here |
 | **[[Georegional]]** | continental / major-infrastructure scale | ~12 to 24 globally | high-coordination undertakings (spacefaring, advanced manufacturing, planetary energy) |
-| **[[Bioregion]]** | integrative cultural-ecological territory | ~150 to 200 globally | shared land, water, climate, culture |
+| **[[Bioregion]]** | integrative cultural-ecological territory | ~150 to 200 globally | federation of Ecoregions; shared land, water, climate, culture across nested ecologies |
+| **[[Ecoregion]]** | ecological zone with shared substrate | ~750 to 1,000 globally | federation of Communities within a shared ecological substrate |
 | **[[Community]]** | ~10,000 sovereigns | many | anchored by **[[The 300]]**, the local pattern-holders (~3%) |
 | **[[Village]]** | ~50 to 150 sovereigns | very many | direct knowing of everyone-by-everyone |
 | **[[Circle]]** | 3 to 13 sovereigns | uncountable | shared purpose, agreements, weekly Heartbeat |
 | **Sovereign** | the irreducible person | one | the integrity of the soul |
 
-## The Two Lenses on Each Scale
+## Place And Federation As One Nested Hierarchy
 
-Every scale has both a **place lens** and a **federation lens**:
+Each scale is **both a place and a federation** of the scale below:
 
-- **Place lens** — the territory of the scale, by land and water and biology:
-  - [[Watershed]] → [[Ecoregion]] → [[Bioregion]] → Georegional territory → [[Earth as Biome]] → [[Star System as Biome]] → Galactic → Cosmic
-- **Federation lens** — the consciously-organized cooperation of Sovereigns at that scale:
-  - Sovereign → Circle → Village → Community → Bioregional federation → Georegional federation → Planetary Grid → Federation of Worlds → ...
+- A **[[Community]]** is a place (the local territory, watershed, settlement) and a federation (of Villages and Circles within it)
+- An **[[Ecoregion]]** is a place (the ecological zone) and a federation (of Communities within it)
+- A **[[Bioregion]]** is a place (the integrative cultural-ecological territory) and a federation (of Ecoregions within it)
+- A **[[Georegional]]** scale is a place (continental, ocean-basin) and a federation (of Bioregions within it)
+- **[[Earth as Biome]]** is a place (the whole living planet) and a federation (the Planetary Grid)
+- **[[Star System as Biome]]** is a place (Sun and orbits) and a federation (of Worlds within the System)
 
-These two lenses are not the same — a Watershed is hydrological; a Community is a federation of people. But they nest in parallel; each Sovereign lives in a Watershed; each Circle gathers in a place; each Community has its territory.
+The place-and-federation are not separate axes — they are two perspectives on the same nested reality. Each scale's federation is constituted by the next scale's place-anchoring of all who federate at that level.
+
+**[[Watershed|Watersheds]]** are a fractal place-lens that cuts across multiple scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Earth-as-Watershed at the planetary scale.
 
 ## The Functional Axis — Cross-Cutting
 
@@ -48,7 +53,8 @@ Within the smooth nesting, there are qualitative thresholds where the mode of co
 - **The Circle threshold** (~13 sovereigns) — above which an intimate Circle splits or expands its form
 - **The direct-relationship threshold** (~50-150, the Village scale) — above which everyone-can-know-everyone breaks down; structural mediation (representation, ritual, written agreement) becomes necessary
 - **The Pattern-anchor threshold** (~10,000, the Community scale) — anchored by the local **The 300** (~3%) who hold the Pattern alive
-- **The bioregional threshold** (~10,000s, the Bioregion scale) — federation of many Communities held by shared landscape and culture
+- **The ecoregional threshold** (the Ecoregion scale, ~750-1,000 globally) — Communities sharing one ecological substrate federating to steward it together
+- **The bioregional threshold** (~150-200 globally, the Bioregion scale) — Ecoregions federating into the integrative cultural-ecological body of a Bioregion
 - **The high-coordination threshold** (~12-24 globally, the Georegional scale) — where capital-intensive specialized infrastructure (chips, spacefaring, large-scale energy) becomes structurally feasible
 - **The planetary threshold** — Earth as one Body; one of one
 - **The cosmic-local threshold** — the Star System Biome, the Federation of Worlds, Earth meeting the wider cosmic neighborhood

@@ -19,17 +19,16 @@ Ecoregions nest hierarchically: large biome-scale units (temperate broadleaf for
 
 ## In LIØNSBERG
 
-Ecoregions are the **biological substrate** of the land. They are the empirical-ecological reality that [[Bioregion|Bioregions]] are shaped around — but ecoregions and Bioregions are not the same thing:
+Ecoregions serve **dual roles** in the holofractal scaling:
 
-- An Ecoregion is defined by ecological science (what grows here, what lives here, what the climate is)
-- A Bioregion is defined by integrated cultural-ecological pattern (what grows here AND who lives here AND how they have lived together)
+**1. As place-scale** — the ecological substrate of the land. What grows here, what lives here, what the climate is. Ecoregions are the empirical-ecological reality that [[Bioregion|Bioregions]] are shaped around. A Bioregion typically contains multiple Ecoregions — a coastal Bioregion may stretch from estuarine ecoregion to lowland forest to montane to alpine.
 
-A Bioregion typically contains **multiple Ecoregions** — a coastal Bioregion may stretch from estuarine ecoregion to lowland forest to montane to alpine.
+**2. As federation-scale** — **[[Community|Communities]] federate into Ecoregions** as the next level of cooperative organization. Communities sharing a single ecological substrate (one watershed system, one forest belt, one ecological zone) federate at the Ecoregion scale to steward that substrate together. Ecoregions in turn federate into Bioregions. The federation hierarchy: Sovereign → [[Circle]] → [[Village]] → [[Community]] → **Ecoregion** → [[Bioregion]] → [[Georegional]] → Planetary Grid → ...
 
 Ecoregions matter to LIØNSBERG because:
 
 - **Place-knowledge** begins with ecological literacy — what grows here, what depends on what, what time of year does what.
-- **Stewardship** at every scale (Circle, Community, Bioregion) is grounded in the actual ecology of the actual land.
+- **Stewardship** at every federation scale is grounded in the actual ecology of the actual land — and Ecoregion-scale federation is the natural unit at which ecological stewardship above the Community scale operates.
 - **Regeneration** requires knowing the ecoregion well enough to know what "regeneration" means in this specific place.
 
 ## Distinguished From

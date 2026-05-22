@@ -118,7 +118,8 @@ In just forty to fifty cycles, every awakening soul on Earth receives the invita
 As Circles multiply and federate:
 
 - **Circles** of three to thirteen coalesce into **Communities** — typically around ten thousand Sovereigns at full scale, anchored by **[[The 300]]** who hold the local Pattern alive
-- **Communities** federate into **Bioregions** — about 150 to 200 across the Earth, each an integrative cultural-ecological territory holding its nested watersheds, ecoregions, and peoples  
+- **Communities** federate into **Ecoregions** — about 750 to 1,000 across the Earth, each a shared ecological substrate stewarded together by the Communities within it  
+- **Ecoregions** federate into **Bioregions** — about 150 to 200 across the Earth, each an integrative cultural-ecological territory holding many nested ecologies and the peoples shaped by them  
 - **Archetypes** federate into **Guilds** — vocational fellowships of practitioners weaving a craft across geographies  
 - **Bioregions and Guilds** weave together into the **Planetary Grid**
 - The **Planetary Grid** becomes the living infrastructure of the **[[New Civilization]]**

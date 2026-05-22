@@ -18,14 +18,16 @@ Roughly **150 to 200 Bioregions** across the Earth, depending on how the integra
 
 ## In LIØNSBERG
 
-In the holofractal scaling, **Bioregions** are the layer at which **[[Community|Communities]]** federate. Each Bioregion may contain dozens to hundreds of Communities, each Community anchored by its own **[[The 300]]**. The Bioregion is where coordinated stewardship of the watershed, the soils, the wild kin, and the long arcs of land-care happens.
+In the holofractal scaling, **Bioregions** federate **Ecoregions**. [[Community|Communities]] federate into [[Ecoregion|Ecoregions]] (sharing an ecological substrate); Ecoregions federate into Bioregions (integrating multiple ecologies and the cultures shaped by them). Each Bioregion may contain several Ecoregions; each Ecoregion may contain many Communities; each Community is anchored by its own **[[The 300]]**.
 
-**Bioregions and [[Guild|Guilds]]** together weave into the **Planetary Grid**:
+The Bioregion is where coordinated stewardship of the cultural-ecological whole happens — the watersheds, the soils, all the relatives of the land, the long arcs of place-care.
+
+**Bioregions and [[Guild|Guilds]]** together weave into larger federations:
 
 - Bioregions hold the **place-based** dimension — sovereignty rooted in a specific land.
 - Guilds hold the **craft-based** dimension — sovereignty rooted in a specific practice that runs across many lands.
 
-Both are needed. Neither is sufficient alone.
+Both are needed. Neither is sufficient alone. Together they nest upward into [[Georegional]], [[Earth as Biome]], and beyond.
 
 ## Distinguished From
 
