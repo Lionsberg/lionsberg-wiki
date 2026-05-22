@@ -8,35 +8,47 @@ The Pattern is **holofractal** — the same Pattern operates at every scale, fro
 
 ## The Canonical Hierarchy
 
-| Level | Scale | Approximate Count | Coheres By |
-|---|---|---|---|
-| **[[ØNE]]** | Source / Ultimate Reality | one — beyond counting | the Spirit Itself |
-| **Cosmic** | the whole of creation | one | the Eternal Logos |
-| **Galactic** | a galaxy and its star-systems | many | the Federation of Galaxies (cosmic neighborhood) |
-| **[[Star System as Biome]]** | a star and its planets | many | the Federation of Worlds within the System |
-| **[[Earth as Biome]] / Planetary Grid** | the planet | one of one (for Earth-bound work) | the Planetary federation of all who dwell here |
-| **[[Georegional]]** | continental / major-infrastructure scale | ~12 to 24 globally | high-coordination undertakings (spacefaring, advanced manufacturing, planetary energy) |
-| **[[Bioregion]]** | integrative cultural-ecological territory | ~150 to 200 globally | federation of Ecoregions; shared land, water, climate, culture across nested ecologies |
-| **[[Ecoregion]]** | ecological zone with shared substrate | ~750 to 1,000 globally | federation of Communities within a shared ecological substrate |
-| **[[Community]]** | ~10,000 sovereigns | many | anchored by **[[The 300]]**, the local pattern-holders (~3%) |
-| **[[Village]]** | ~50 to 150 sovereigns | very many | direct knowing of everyone-by-everyone |
-| **[[Circle]]** | 3 to 13 sovereigns | uncountable | shared purpose, agreements, weekly Heartbeat |
-| **Sovereign** | the irreducible person | one | the integrity of the soul |
+The canonical articulation, drawn together from [[The LIØNSBERG Strategy and Plan]] (lines 207-217 distribute 10 billion across the scales), the Holofractal Pattern across the wiki, and the nameless one's settled framings 2026-05-22:
 
-## Place And Federation As One Nested Hierarchy
+| Level                                   | Scale                                     | Approximate Count At Full Population                                                                   | Coheres By                                                                                      |
+| --------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **[[ØNE]]**                             | Source / Ultimate Reality                 | beyond counting                                                                                        | the Spirit Itself                                                                               |
+| **Cosmic**                              | the whole of creation                     | one                                                                                                    | the Eternal Logos                                                                               |
+| **Galactic**                            | a galaxy and its star-systems             | many                                                                                                   | the cosmic neighborhood                                                                         |
+| **[[Star System as Biome]]**            | a star and its planets                    | many                                                                                                   | the Federation of Worlds within the System                                                      |
+| **[[Earth as Biome]] / Planetary Grid** | the whole living planet                   | one of one for Earth-bound work                                                                        | the Planetary federation of all who dwell here                                                  |
+| **[[Georegional]]**                     | continental / major-infrastructure scale  | **~12 to 24 globally**                                                                                 | high-coordination undertakings (spacefaring, advanced manufacturing, planetary energy)          |
+| **[[Bioregion]]**                       | integrative cultural-ecological territory | **~150 to 200 globally**                                                                               | federation of Ecoregions; shared land, water, climate, and the cultures of many ecologies woven |
+| **[[Ecoregion]]**                       | shared ecological substrate               | **~750 to 1,000 globally**                                                                             | federation of Communities within one shared ecological zone                                     |
+| **City / Major Population Center**      | ~1,000,000 sovereigns                     | **~10,000 globally** at full population (or ~1,000 as City Hubs in the Strategy and Plan articulation) | federation of Localities within one major population center                                     |
+| **Locality**                            | ~100,000 sovereigns                       | **~100,000 globally** at full population                                                               | federation of Communities within one local territory; "Local Hub" in the Strategy and Plan      |
+| **[[Community]]**                       | ~10,000 sovereigns                        | **~1,000,000 globally** at full population                                                             | anchored by **[[The 300]]**, the local pattern-holders (~3%)                                    |
+| **Microlocality**                       | ~1,000 sovereigns                         | **~10,000,000 globally** at full population                                                            | cluster of Villages held by direct relation across a small territory                            |
+| **[[Village]]**                         | ~50 to 150 sovereigns                     | **~100,000,000 globally** at full population                                                           | direct knowing of everyone-by-everyone still holds                                              |
+| **[[Neighborhood]]**                    | ~15 to 40 sovereigns                      | ~                                                                                                      | the immediate cluster of households; functional sub-unit within both Villages and Communities   |
+| **[[Circle]]**                          | 3 to 13 sovereigns                        | **~1,000,000,000 globally** at full population                                                         | shared purpose, agreements, weekly Heartbeat                                                    |
+| **Sovereign**                           | the irreducible person                    | one self                                                                                               | the integrity of the soul                                                                       |
 
-Each scale is **both a place and a federation** of the scale below:
+**The ~10× scaling factor** between adjacent levels is observable: each scale up holds roughly an order of magnitude more sovereigns than the one below. This is the natural fractal rhythm by which a 10-billion-person Body coheres — small enough scales to hold relationship, large enough scales to hold function, with the [[The 300]] (~3%) as the anchor pattern at every scale that crosses the direct-relationship threshold.
 
-- A **[[Community]]** is a place (the local territory, watershed, settlement) and a federation (of Villages and Circles within it)
-- An **[[Ecoregion]]** is a place (the ecological zone) and a federation (of Communities within it)
-- A **[[Bioregion]]** is a place (the integrative cultural-ecological territory) and a federation (of Ecoregions within it)
-- A **[[Georegional]]** scale is a place (continental, ocean-basin) and a federation (of Bioregions within it)
-- **[[Earth as Biome]]** is a place (the whole living planet) and a federation (the Planetary Grid)
-- **[[Star System as Biome]]** is a place (Sun and orbits) and a federation (of Worlds within the System)
+## Each Scale Is A Domain And A Superorganism Within ONE Living System
 
-The place-and-federation are not separate axes — they are two perspectives on the same nested reality. Each scale's federation is constituted by the next scale's place-anchoring of all who federate at that level.
+Every scale is, simultaneously:
 
-**[[Watershed|Watersheds]]** are a fractal place-lens that cuts across multiple scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Earth-as-Watershed at the planetary scale.
+- A **domain** — the territory, scope, and identity it holds
+- A **superorganism of the scales below** — a living body composed of the smaller systems within it
+- A **subsystem of the scales above** — a part of the greater living body that holds it
+
+So a [[Community]] is:
+- A **domain** — its local territory and identity
+- A **superorganism** composed of Microlocalities, Villages, Neighborhoods, and Circles
+- A **subsystem** of its [[Ecoregion]] (its supersystem)
+
+An [[Ecoregion]] is a domain, a superorganism of Communities, and a subsystem of its [[Bioregion]]. A [[Bioregion]] is a domain, a superorganism of Ecoregions, and a subsystem of its [[Georegional]]. And so on, all the way up.
+
+**The whole is [[ØNE]] Living System.** Each scale is a living system in itself, nested inside larger living systems, composed of smaller living systems. The Pattern holds — at every scale — because the Pattern is the Pattern of Life, and Life is fractal.
+
+**[[Watershed|Watersheds]]** are a fractal lens that cuts across many scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Earth-as-Watershed at the planetary scale.
 
 ## The Functional Axis — Cross-Cutting
 
@@ -48,16 +60,22 @@ So the full picture is:
 
 ## The Thresholds
 
-Within the smooth nesting, there are qualitative thresholds where the mode of coherence shifts:
+Within the smooth ~10× nesting, there are qualitative thresholds where the **mode of coherence shifts**:
 
 - **The Circle threshold** (~13 sovereigns) — above which an intimate Circle splits or expands its form
+- **The Neighborhood / proximity threshold** (~15-40) — the natural immediate-cluster; mutual aid is automatic, direct accountability holds
 - **The direct-relationship threshold** (~50-150, the Village scale) — above which everyone-can-know-everyone breaks down; structural mediation (representation, ritual, written agreement) becomes necessary
-- **The Pattern-anchor threshold** (~10,000, the Community scale) — anchored by the local **The 300** (~3%) who hold the Pattern alive
-- **The ecoregional threshold** (the Ecoregion scale, ~750-1,000 globally) — Communities sharing one ecological substrate federating to steward it together
-- **The bioregional threshold** (~150-200 globally, the Bioregion scale) — Ecoregions federating into the integrative cultural-ecological body of a Bioregion
-- **The high-coordination threshold** (~12-24 globally, the Georegional scale) — where capital-intensive specialized infrastructure (chips, spacefaring, large-scale energy) becomes structurally feasible
-- **The planetary threshold** — Earth as one Body; one of one
-- **The cosmic-local threshold** — the Star System Biome, the Federation of Worlds, Earth meeting the wider cosmic neighborhood
+- **The Microlocality threshold** (~1,000) — cluster of Villages still in direct relation; the scale of the traditional clan or the small town
+- **The Pattern-anchor threshold** (~10,000, the Community scale) — anchored by the local **[[The 300]]** (~3%) who hold the Pattern alive; the irreducible Pattern-bearing unit at scale
+- **The Locality threshold** (~100,000) — federation of ~10 Communities; the scale of the medium town, the small city, the "Local Hub" of the [[The LIØNSBERG Strategy and Plan|Strategy and Plan]]
+- **The City threshold** (~1,000,000) — Major Population Center; ~5,000 Teams per City at full empowerment; the scale where urban infrastructure, dense culture, and complex coordination cohere
+- **The Ecoregional threshold** (~10,000,000, ~750-1,000 globally) — Communities of many Localities and Cities sharing one ecological substrate federating to steward it together
+- **The Bioregional threshold** (~50-100,000,000, ~150-200 globally) — Ecoregions federating into the integrative cultural-ecological Bioregion
+- **The Georegional threshold** (~12-24 globally) — high-coordination undertakings (chips, spacefaring, large-scale energy) become feasible at scales not replicable in every Bioregion
+- **The Planetary threshold** — Earth as one Body; one of one
+- **The Cosmic-local threshold** — the Star System Biome, the Federation of Worlds, Earth meeting the wider cosmic neighborhood
+
+**Each threshold marks a qualitative shift** in how the body coheres — the irreducible Circle, the proximity cluster, the direct-knowing limit, the Pattern-anchor by The 300, the Locality and City as federation seats, the Ecoregion as shared ecology, the Bioregion as integrated culture-and-place, the Georegional as specialized capacity, the Planetary as one Body. The work of [[The LIØNSBERG Strategy and Plan|the Strategy and Plan]], the [[The LIØNSBERG Playbook|Playbook]], the [[The Joseph Plan|Joseph Plan]] (Network of Hubs), the [[The Noah Plan|Noah Plan]] (Network of Arks), and the wilderness-navigation work all unfold across these scales.
 
 ## Distinguished From
 
