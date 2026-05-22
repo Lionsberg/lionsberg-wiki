@@ -25,7 +25,7 @@ The Microlocality is the scale at which the **shared market, the local school, t
 
 Between [[Village]] (~50-150) and [[Community]] (~10,000):
 
-> [[Sovereign]] → [[Circle]] (3-13) → [[Neighborhood]] (15-40) → [[Village]] (50-150) → **Microlocality (~1,000)** → [[Community]] (~10,000 with [[The 300]]) → Locality (~100,000) → Macrolocality (~1,000,000) → [[Ecoregion]] → [[Bioregion]] → [[Georegional]] → [[Planet as Biome]] → ...
+> [[Sovereign]] → [[Circle]] (3-13) → [[Neighborhood]] (15-40) → [[Village]] (50-150) → **Microlocality (~1,000)** → [[Community]] (~10,000 with [[The 300]]) → Mediolocality (~100,000) → Macrolocality (~1,000,000) → [[Ecoregion]] → [[Bioregion]] → [[Georegional]] → [[Planet as Biome]] → ...
 
 The Microlocality is a **domain** (its small territory), a **superorganism of Villages, Neighborhoods, and Circles**, and a **subsystem of its Community**. Per [[The LIØNSBERG Strategy and Plan]]: about **5 Teams per Microlocality** of 1,000 citizens at full empowerment.
 
@@ -48,4 +48,4 @@ The Microlocality is a **domain** (its small territory), a **superorganism of Vi
 - [[Village]] · [[Community]] — the immediately adjacent scales
 - [[Levels of Scale]] — the canonical articulation of the full scale hierarchy
 - [[The 300]] — the Pattern-anchor at the next scale up (Community)
-- [[Holofractal Omnifederation]] — the structural Pattern that nests Microlocality within Community within Locality
+- [[Holofractal Omnifederation]] — the structural Pattern that nests Microlocality within Community within Mediolocality
