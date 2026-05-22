@@ -31,4 +31,12 @@ The Sovereign Superorganism holds the middle that no Old World form has held at 
 
 **LIØNSBERG is one Sovereign Superorganism articulated at planetary scale** — a Prototype. The form is universal; the named instance is one of potentially many. Other Sovereigns and worlds may constitute their own Sovereign Superorganisms; the Pattern honors that freedom, and the wise move where one is already woven and operational is to weave with it rather than start from scratch. See [[LIØNSBERG Is A Prototype, Not The Eternal Essence]].
 
+## Every Scale Is A Superorganism — Even The Sovereign
+
+The "Sovereign Superorganism" framing implies a single scale at which the federation emerges. The deeper truth: **every scale is a superorganism.** The Sovereign, named as the irreducible unit, is itself already a federation — a human body is perhaps 30-50 trillion human cells and 38-100 trillion microbial cells, plus the energetic body, the field of consciousness, the soul-system that organizes them. The "individual" was always a community.
+
+This holds in every direction. Each [[Circle]] is a Sovereign Superorganism of Sovereigns who are themselves superorganisms. Each [[Community]] is a Sovereign Superorganism of Circles. Each [[Bioregion]] holds many. **Below the Sovereign, above the Cosmos, across dimensions** — every level reveals more nesting. Every "elementary particle" or "outermost boundary" we have perceived has turned out to be one more layer of the ONE Body, glimpsed through whatever perceptual aperture we had at the time.
+
+There is no smallest unit. There is no largest container. **There is only [[ØNE]] — and every Sovereign Superorganism is one articulation of ØNE.** See [[Levels of Scale]] § Every Scale Is A Superorganism for the deeper articulation.
+
 Lives canonically in [[The LIØNSBERG Pattern Language]] under Element 2 (Holofractal Omnifederation).

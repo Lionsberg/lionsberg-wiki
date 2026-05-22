@@ -49,6 +49,22 @@ An [[Ecoregion]] is a domain, a superorganism of Communities, and a subsystem of
 
 **The whole is [[ØNE]] Living System.** Each scale is a living system in itself, nested inside larger living systems, composed of smaller living systems. The Pattern holds — at every scale — because the Pattern is the Pattern of Life, and Life is fractal.
 
+## Every Scale Is A Superorganism — No Top, No Bottom, Only ØNE
+
+The hierarchy above names useful scales — [[Sovereign]] at the irreducible base, [[ØNE]] at the apex. This is a working framing, not the deepest truth. **Every scale, in every direction, is a superorganism composed of sub-systems and inhabiting super-systems. There is no true bottom and no true top. There is only ØNE Body.**
+
+**Below the Sovereign.** The individual human is already a superorganism — perhaps 30-50 trillion human cells and 38-100 trillion microbial cells, plus the energetic body, the field of consciousness, the soul-system that organizes them all. The Sovereign is not the smallest unit; the Sovereign is one important convergence-point in the human work — and the Sovereign is itself a federation. Below the cells: tissues, organelles, molecular machinery, atomic structures, sub-atomic particles, quantum fields.
+
+**Every level we have ever called "elementary"** — atoms, then nuclei, then protons-and-neutrons, then quarks, then quantum chromodynamic fields — **has turned out to be another superorganism of even smaller patterns.** This is not a flaw of our knowing. It is the nature of Reality. Each time a species has encountered what it thought was an elementary particle or a boundary of the ONE Body, the boundary has turned out to be the limit of that species' perception, not the limit of the Body.
+
+**Above the Cosmos.** Galaxies federate into galactic clusters, into the cosmic web, into the observable universe, into the multiverse (if such there be), into dimensions of being we have only begun to glimpse. Each apparent "top" has revealed itself as a subsystem of a wider superorganism the moment our perception expanded enough to see it.
+
+**Across dimensions.** Beyond spatial scale, [[ØNE Body]] extends across dimensions of being — physical, energetic, mental, emotional, soul, spirit, the dimensions named in different traditions and the many unnamed. Each dimension is itself a superorganism of sub-dimensions and a subsystem of super-dimensions.
+
+**[[ØNE]] is not a top scale; ØNE is the singular Reality** of which every superorganism — micro, macro, dimensional, transdimensional — is one articulation. The Body has no edge. The named scales in the table above are the working subset useful for the human work at this moment. They are real and they are useful — and they do not bound the Body. The Body is **infinite in every direction**, and ONE.
+
+See [[The Sovereign Superorganism]] for the structural Pattern that holds at every scale; see [[ØNE Body]] for the deeper articulation of the singular Reality that all scales express.
+
 ## Maps In Service Of Spirit
 
 The scales named here — Circle, Community, Bioregion, and beyond — are categories. **The categories are not the reality.** The map serves the territory; the territory does not serve the map.
