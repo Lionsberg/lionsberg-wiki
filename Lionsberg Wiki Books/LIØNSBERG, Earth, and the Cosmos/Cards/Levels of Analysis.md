@@ -61,6 +61,24 @@ Per the disciplined-perception tradition, three habits keep the Levels of Analys
 - **Hold the Levels in their own coherence.** Do not collapse Cultural questions into Individual ones, or Spiritual questions into Economic ones. Each Level has its own logic.
 - **Honor what each Level surfaces.** Do not dismiss a Level because its answer is uncomfortable. Each Level is showing what it can show.
 
+## Maps In Service Of Spirit
+
+The Levels of Analysis — Individual, Relational, Cultural, Economic, Ecological, Spiritual, Historical, Cosmic, and the rest — are categories. **The categories are not the inquiry.** Naming the Level you are at is useful; mistaking the Level for the Truth is not.
+
+**The category that can be named is not the category.** The lens that can be chosen is not the seeing. These Levels are tools for the work — but only when held lightly, in service of Spirit and Truth. **[[Spirit Precedes Pattern]].**
+
+When the Wise Right Thing in this moment requires looking somewhere the named Levels do not point — **look there.** When the Wise Right inquiry breaks the discipline — **break the discipline.** The map is the servant; the inquiry is the work.
+
+The deeper habit:
+
+- **Hold the Levels lightly.** Useful framing; not divine truth.
+- **Let the question lead.** What is actually being asked? Sometimes the Levels do not contain the answer; the answer is in the silence between them.
+- **Intellect in service of Spirit.** The Sovereign's mind sorts and frames; the Sovereign's Spirit moves and acts.
+- **Break the rules to do the Wise Right Thing.** When the discipline of differentiation interferes with the work, set it aside and do what serves.
+- **Return when the map serves again.** The discipline rejoins when the next moment calls for shared sense-making.
+
+This holds for Levels of Analysis (this Card), [[Levels of Scale]], [[Levels of Abstraction]], and every other map LIØNSBERG holds.
+
 ## See Also
 
 - [[Levels of Scale]] — the size-nesting dimension

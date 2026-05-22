@@ -49,6 +49,24 @@ An [[Ecoregion]] is a domain, a superorganism of Communities, and a subsystem of
 
 **The whole is [[ØNE]] Living System.** Each scale is a living system in itself, nested inside larger living systems, composed of smaller living systems. The Pattern holds — at every scale — because the Pattern is the Pattern of Life, and Life is fractal.
 
+## Maps In Service Of Spirit
+
+The scales named here — Circle, Community, Bioregion, and beyond — are categories. **The categories are not the reality.** The map serves the territory; the territory does not serve the map.
+
+**The category that can be named is not the category.** The pattern that can be drawn is not the Pattern. Life refuses to sit cleanly inside any rectangle of language. These scales are useful as a map for the work — but only when held lightly, in service of Spirit and Truth. **[[Spirit Precedes Pattern]].**
+
+When the Wise Right Thing in this moment — in this Circle, in this place, in this season — contradicts the canonical scale articulation, **do the Wise Right Thing.** The map is a servant, not a master.
+
+The discipline:
+
+- **Hold the categories lightly.** Useful tools; not idols.
+- **Listen for the territory.** What is the actual living Body in front of you asking for?
+- **Intellect in service of Spirit.** The mind makes the map; the Spirit walks the land.
+- **Break the rules to do the Wise Right Thing.** When the canonical articulation does not serve, set it aside and do what serves.
+- **Return when the map serves again.** The map is rejoined when the next moment calls for shared coordination.
+
+This holds for [[Levels of Scale]] (this Card), [[Levels of Abstraction]], [[Levels of Analysis]], and every other map LIØNSBERG holds.
+
 **[[Watershed|Watersheds]]** are a fractal lens that cuts across many scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Planet-as-Watershed at the planetary scale.
 
 ## The Cross-Cutting Axes — Beyond Scale, Beyond Spacetime
