@@ -35,7 +35,7 @@ The DRA also has **decision-rights specificity**. Not every decision in a Domain
 - **Boundary-touching decisions** — decisions that affect what enters or exits the Domain — require explicit DRA process. Often consent-thresholds (not consensus, not majority).
 - **Foundational decisions** — decisions that would alter the Field of Agreements itself — require unanimous-consent thresholds or near-unanimous, with explicit [[Honoring Dissent|honoring of dissent]] for the few who do not consent.
 
-These thresholds are documented in the DRA's Field of Agreements. The Pilgrim entering the Domain knows what is being asked. Surprise governance — the Old World's bait-and-switch — is structurally impossible.
+These thresholds are documented in the DRA's Field of Agreements. The Sovereign entering the Domain knows what is being asked. Surprise governance — the Old World's bait-and-switch — is structurally impossible.
 
 The DRA scales **upward through federation**, not through hierarchy:
 

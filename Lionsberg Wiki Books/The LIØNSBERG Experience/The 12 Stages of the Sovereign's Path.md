@@ -1,6 +1,6 @@
 # The 12 Stages of the Sovereign's Path
 
-_The archetypal arc. Every pilgrim, every Circle, every Community walks them. The order is not arbitrary; the order is the Way._
+_The archetypal arc. Every Sovereign, every Circle, every Community walks them. The order is not arbitrary; the order is the Way._
 
 _One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
@@ -10,7 +10,7 @@ _One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
 **Receive.**
 
-A trusted person sends a link. The pilgrim arrives at `lionsberg.wiki`. They land at the Golden Seed. Something in them recognizes what they are seeing — not because they were convinced, but because they already knew.
+A trusted person sends a link. The Sovereign arrives at `lionsberg.wiki`. They land at the Golden Seed. Something in them recognizes what they are seeing — not because they were convinced, but because they already knew.
 
 Discovery is the moment the Seed is first received. Nothing more is required.
 
@@ -20,7 +20,7 @@ Discovery is the moment the Seed is first received. Nothing more is required.
 
 **Awaken.**
 
-The pilgrim stands between worlds. Behind them, the Old. Ahead, the New. They read [[Welcome to LIØNSBERG]] — the deeper invitation and orientation. They feel the weight of the moment.
+The Sovereign stands between worlds. Behind them, the Old. Ahead, the New. They read [[Welcome to LIØNSBERG]] — the deeper invitation and orientation. They feel the weight of the moment.
 
 Then they choose. Yes. Or no.
 
@@ -32,9 +32,9 @@ The "yes" lights a fire that aligns countless others.
 
 **Remember.**
 
-Having crossed, the pilgrim receives the cosmic context. They read [[The Story of LIØNSBERG]] ([[The Story of LIØNSBERG|Volume II of the Codex]]) — the true myth, the cosmic history of this star system and beyond, the place of Earth in the larger Cosmos. They begin to encounter [[The Great Game of LIØNSBERG|the Great Game]] as the participatory form the Pattern takes in real life.
+Having crossed, the Sovereign receives the cosmic context. They read [[The Story of LIØNSBERG]] ([[The Story of LIØNSBERG|Volume II of the Codex]]) — the true myth, the cosmic history of this star system and beyond, the place of Earth in the larger Cosmos. They begin to encounter [[The Great Game of LIØNSBERG|the Great Game]] as the participatory form the Pattern takes in real life.
 
-Orientation is the layer at which the Pilgrim begins to understand **what is happening**, **why now**, and **what is at stake**.
+Orientation is the layer at which the Sovereign begins to understand **what is happening**, **why now**, and **what is at stake**.
 
 ---
 
@@ -42,9 +42,9 @@ Orientation is the layer at which the Pilgrim begins to understand **what is hap
 
 **Call.**
 
-The pilgrim identifies 2 to 3 trusted others — those who are already awakening, already sensing the urgency. They send the link. They set a date. The first gathering is scheduled.
+The Sovereign identifies 2 to 3 trusted others — those who are already awakening, already sensing the urgency. They send the link. They set a date. The first gathering is scheduled.
 
-This is not an act of organization. It is an act of recognition. The pilgrim already knows who is ready.
+This is not an act of organization. It is an act of recognition. The Sovereign already knows who is ready.
 
 See [[The 1-Day to 1-Week Threshold]] for the resistance often encountered here, and [[The Flame Bearer's Path]] for the experience of inviting from the giver's perspective.
 
@@ -73,7 +73,7 @@ The Circle is formed. The Game begins.
 
 The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
 
-[[The LIØNSBERG Playbook]] ([[The LIØNSBERG Playbook]]) is the working document at the Circle scale. **[[The Daily Way]]** is the working rhythm at the individual scale. The Pilgrim no longer studies the Way — they live it. Daily practice. Weekly Circle. Seasonal Quest.
+[[The LIØNSBERG Playbook]] ([[The LIØNSBERG Playbook]]) is the working document at the Circle scale. **[[The Daily Way]]** is the working rhythm at the individual scale. The Sovereign no longer studies the Way — they live it. Daily practice. Weekly Circle. Seasonal Quest.
 
 ---
 
@@ -105,7 +105,7 @@ By the end, both the individual and the Circle are reborn — and the New Civili
 
 For those called to deeper personal practice, [[The Sacred Ascent]] ([[The Sacred Ascent]]) opens — the 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, and contemplative arts converge into one living synthesis.
 
-The Pilgrim learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks.
+The Sovereign learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks.
 
 The Sacred Ascent closes in the **Eternal Divine Play** — the final movement of Volume X that becomes the threshold into Stage 12.
 

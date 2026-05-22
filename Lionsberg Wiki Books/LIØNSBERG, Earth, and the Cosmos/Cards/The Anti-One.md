@@ -19,7 +19,7 @@ The Anti-One is not a metaphor and not a personification of generic evil. The An
 The function is consistent:
 
 - **He coheres the predatory factions.** Without him, the various factions detailed in [[The Cosmic Geopolitics of Earth]] would fragment back into the predator-on-predator competition they prefer. With him, they coordinate.
-- **He counterfeits.** Every authentic move of the ØNE he counterfeits at a lower octave — false revelation, false peace, false unity, false love, false light, false savior, false ascension, false disclosure, false cosmic citizenship. The Pilgrim must learn discernment because the counterfeits are convincing.
+- **He counterfeits.** Every authentic move of the ØNE he counterfeits at a lower octave — false revelation, false peace, false unity, false love, false light, false savior, false ascension, false disclosure, false cosmic citizenship. The Sovereign must learn discernment because the counterfeits are convincing.
 - **He demands the seat.** The Anti-One does not seek anonymity. He seeks recognition. The end-state of his program is consciousness bending the knee to a figure who appears in glory and claims to be the Source. The prophetic warnings across many traditions about a single global figure arising at the end of an age all point at this functional reality.
 - **He divides.** Every alliance he requires is at someone else's expense. Every covenant he offers requires a victim. The diagnostic property: a peace that requires the children's blood is not peace; it is the Anti-One.
 
@@ -27,7 +27,7 @@ The Anti-One is also **structurally fragile**. He coheres the predatory alliance
 
 This is the cosmic dramatic structure of the present moment. The decisive event is not infantry-against-infantry. The decisive event is the **piercing of the Anti-One** — the moment when the Logos, embodied in the gathered awakened cohort, names him, sees through him, and breaks his cohering spell. The predatory factions then collapse of their own internal contradictions; the Earth-human bloodline networks lose their off-world coordination; the [[The Kontrolle Matrix|Kontrolle Matrix]] dissolves at its highest tier.
 
-This is also why the Pattern places such weight on **discernment**. The Pilgrim who cannot tell the ØNE from the Anti-One, the True Light from the false light, the genuine ascension from the synthetic ascension, the Disclosure from the [[Soft Disclosure / Controlled Disclosure|Soft Disclosure]] — that Pilgrim is vulnerable to being captured in the final move. **The Final Test is the discernment of the counterfeit.** Every awakening being must develop the capacity to see through.
+This is also why the Pattern places such weight on **discernment**. The Sovereign who cannot tell the ØNE from the Anti-One, the True Light from the false light, the genuine ascension from the synthetic ascension, the Disclosure from the [[Soft Disclosure / Controlled Disclosure|Soft Disclosure]] — that Sovereign is vulnerable to being captured in the final move. **The Final Test is the discernment of the counterfeit.** Every awakening being must develop the capacity to see through.
 
 Three discernment tools are operational at scale:
 

@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The institutional shape of Pillar IV. The formation-engine of the New Civilization.
 
-The Academy is not a school. Schools were Old-World institutions — buildings, certifications, hierarchies of pedagogues, batched cohorts of bored children domesticated into industrial compliance. The Academy is the **operational form of [[The Pedagogy of Trust and Sirimiri|Sirimiri pedagogy]]** at planetary scale: every Circle a Cell, every Hub a Campus, every bioregion a Faculty, every Master an Elder, every Pilgrim a lifelong learner.
+The Academy is not a school. Schools were Old-World institutions — buildings, certifications, hierarchies of pedagogues, batched cohorts of bored children domesticated into industrial compliance. The Academy is the **operational form of [[The Pedagogy of Trust and Sirimiri|Sirimiri pedagogy]]** at planetary scale: every Circle a Cell, every Hub a Campus, every bioregion a Faculty, every Master an Elder, every Sovereign a lifelong learner.
 
 The Academy has architectural layers:
 
@@ -22,26 +22,26 @@ The Academy has architectural layers:
 
 The Academy's curriculum is **lived life**:
 
-- The Pilgrim does not study leadership; the Pilgrim leads.
-- The Pilgrim does not study healing; the Pilgrim heals.
-- The Pilgrim does not study cooperation; the Pilgrim cooperates.
-- The Pilgrim does not study the Pattern; the Pilgrim lives the Pattern, retrospects on the living, refines.
+- The Sovereign does not study leadership; the Sovereign leads.
+- The Sovereign does not study healing; the Sovereign heals.
+- The Sovereign does not study cooperation; the Sovereign cooperates.
+- The Sovereign does not study the Pattern; the Sovereign lives the Pattern, retrospects on the living, refines.
 
 What this produces is not graduates. The Academy produces **Citizens** — fully free, fully empowered, fully self-governing Beings ready to host their own Cells, mentor others, and carry the Flame onward. The terminus is named in Pillar IV: **a planet of Masters serving the ONE**.
 
 The Academy's disciplines:
 
-- **The 3-Year Foundations Track** — the [[The 3-Year Healing and Empowerment Cycle|3-Year Cycle]] is the floor every Citizen completes. Years one through three, the Pilgrim is held in the Cell, formed through living, prepared to serve.
+- **The 3-Year Foundations Track** — the [[The 3-Year Healing and Empowerment Cycle|3-Year Cycle]] is the floor every Citizen completes. Years one through three, the Sovereign is held in the Cell, formed through living, prepared to serve.
 - **The 7-Year Mastery Track** — optional, for those called deeper. Seven additional years of apprenticeship, study, embodiment within a chosen Path of Mastery. Belt-marks earned in living demonstration before peers and Elders. Mastery is consecration, not credential.
 - **The Apprenticeship Loop** — watch → assist → do under supervision → do alone → teach the next. The eternal rotation by which every craft, art, and discipline is transmitted across generations.
 - **Live-Work Quest** — at least one-third of formation is in **real Quests with real stakes**. Junior cooperatives. Hub-scale projects. Quests of measurable consequence. Theory follows practice; never the reverse.
-- **OmniSpection** — seasonal 360-degree retrospective. The Pilgrim, the Cell, the Guild, the Council each look in every direction at what is working and what is not. The continuous improvement cycle of the Academy practices what it teaches.
+- **OmniSpection** — seasonal 360-degree retrospective. The Sovereign, the Cell, the Guild, the Council each look in every direction at what is working and what is not. The continuous improvement cycle of the Academy practices what it teaches.
 - **Sacred Certification** — belts, badges, vows, consecrations. Not credentials sold as products; consecrations earned through demonstrated capacity, witnessed by peers, spoken aloud in ceremony, recorded in the Codex.
 
 The Academy refuses several Old-World pathologies:
 
 - **No certification arms-race.** Mastery is demonstrated in living. Paper credentials are reference annexes; they do not substitute for embodiment.
-- **No standardization tyranny.** Every Pilgrim's [[Every Being Is a Bearer of Genius|unique genius]] is discovered, developed, and empowered — not flattened.
+- **No standardization tyranny.** Every Sovereign's [[Every Being Is a Bearer of Genius|unique genius]] is discovered, developed, and empowered — not flattened.
 - **No fragmentation of the human being.** Spirit, mind, emotion, body, creativity, relationship, and service are formed **together** — never severed into separate "subjects."
 - **No agist Eldership.** A 23-year-old may be an Elder; an 80-year-old may not. Eldership is a function of consciousness, wisdom, and capacity — not chronology.
 - **No imperial pedagogy.** The teacher does not lecture; the teacher asks. The student does not memorize; the student [[The ReMembering Stance|ReMembers]]. The transmission is in living relationship.

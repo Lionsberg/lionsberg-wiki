@@ -24,19 +24,19 @@ The Vow is **the Field of Agreements between the Warrior and the ONE**. Without 
 
 The Pattern is operationally protective. Lineages that have preserved the genuine Vow have produced healers, protectors, guardians, peacemakers across millennia. Lineages that lost the Vow (or never had it) have produced tyrants, predators, parasitic gurus, weapons-trained operatives serving destruction. The same training, the same techniques, the same capacities — utterly different uses depending on whether the Vow was taken.
 
-The Vow also operates at **graduated scale**. A Pilgrim does not take the full Warrior's Vow on Day One. The Vow is layered:
+The Vow also operates at **graduated scale**. A Sovereign does not take the full Warrior's Vow on Day One. The Vow is layered:
 
 - **The Beginner's Vow** — first 90 days. _"I will not harm anyone with what I learn here."_ Simple. Bounded.
 - **The Apprentice's Vow** — Years 1-3. _"I will use what I learn only in defense of myself, those I love, and those who cannot defend themselves."_ Broader. Begins to include responsibility to others.
 - **The Journeyman's Vow** — Years 4-7. _"I will use what I learn in active protection of the Pattern, the Circle, the Hub, and the bioregion entrusted to me."_ Active engagement; the Warrior begins to participate in [[Sacred Guardianship — Neutralizing the Predatory|Sacred Guardianship]].
 - **The Master's Vow** — Year 7+. The full Vow above, with all its terminal clauses.
 
-Each level of Vow opens access to a level of training. The Pilgrim who has not earned the Apprentice's Vow does not receive Apprentice-level transmission. The Pattern protects itself by not transmitting capacity to those who have not yet committed to the corresponding covenant. This is not gatekeeping; it is protection — of the Pattern, of the Pilgrim, and of those the Pilgrim will encounter.
+Each level of Vow opens access to a level of training. The Sovereign who has not earned the Apprentice's Vow does not receive Apprentice-level transmission. The Pattern protects itself by not transmitting capacity to those who have not yet committed to the corresponding covenant. This is not gatekeeping; it is protection — of the Pattern, of the Sovereign, and of those the Sovereign will encounter.
 
 The Vow also has a **public dimension**. The Vow is **spoken aloud, in the presence of the Circle and the Elder**, before the Pattern's witnesses. Private vows are insufficient; the human Being's accountability to the unseen ONE is supplemented by the visible accountability to the gathered Circle. When the Vow is broken, the Circle holds the Warrior accountable. The Warrior does not get to be the sole judge of their own faithfulness.
 
 There is one further layer. The deepest Master's Vow — the one taken at the threshold of full transmission — includes the willingness to **lay down one's own life** in defense of the Vow. The Warrior who reaches this level has answered, in advance, the question of what they will choose if forced to choose between violating the Vow and dying. The answer is recorded. Some Warriors, across the ages, have been called to honor that recorded answer in actuality. They are remembered as saints, martyrs, paragons. The Pattern names them and trains those who walk after them.
 
-The Warrior's Vow is one of the foundational **Fields of Agreements** (Element 3 of the Pattern Language). It is the personal-scale instance of [[The Terms of the New Covenant]] applied to those who train in Power. Every Pilgrim who undertakes cultivation makes some version of this Vow. The depth of the Vow scales with the depth of the training.
+The Warrior's Vow is one of the foundational **Fields of Agreements** (Element 3 of the Pattern Language). It is the personal-scale instance of [[The Terms of the New Covenant]] applied to those who train in Power. Every Sovereign who undertakes cultivation makes some version of this Vow. The depth of the Vow scales with the depth of the training.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] within Element 3 (Field of Agreements), and informs [[The Sacred Ascent]] within the Warrior Codex as a foundational covenant-discipline.

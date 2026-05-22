@@ -58,7 +58,7 @@ This book introduces 7 of the 7-Move loop motifs in mythic-allegorical form. It 
 
 **What it is:** A **finished 31-scene fictional allegory** (Genesis → Boundary built → Decline → Forces of Darkness → Xion's Awakening → Corrupt Priest / Corrupt Governor → Escape → Whisper Campaign → Day of Battle → Hidden Treasure → New World built → Bright Future). By Jordan Nicholas Sukut. Authored well before The Book of Lionsberg / The Caves.
 
-**Relationship to Genesis (Book of LIONSBERG Chapter 1):** This is **the proto-version of The Caves narrative**. The Boundary / Known Territory / Unknown Beyond / Gate of Knowledge / winged lions / the threshold-crosser / corrupt priest and governor / hidden treasure across the threshold — all of these are the mythic seedlings that later flowered into The Caves. Xion is the proto-Pilgrim. Many specific images (the Spirit descending on Xion while the village trembles, the discovery of advanced suppressed knowledge across the Boundary, the people pleading for vengeance and the threshold-crosser staying their hand) are direct ancestors of Caves-canon scenes.
+**Relationship to Genesis (Book of LIONSBERG Chapter 1):** This is **the proto-version of The Caves narrative**. The Boundary / Known Territory / Unknown Beyond / Gate of Knowledge / winged lions / the threshold-crosser / corrupt priest and governor / hidden treasure across the threshold — all of these are the mythic seedlings that later flowered into The Caves. Xion is the proto-Sovereign. Many specific images (the Spirit descending on Xion while the village trembles, the discovery of advanced suppressed knowledge across the Boundary, the people pleading for vengeance and the threshold-crosser staying their hand) are direct ancestors of Caves-canon scenes.
 
 Voice: third-person prose narrative, mythic-allegorical, mid-range — neither prophetic-staccato nor scholarly. Quality variable: some scenes are powerful (1 Inception, 12 Xion's Awakening, 28 Hidden Treasure), others slip into platitudes (30 New World in Harmony reads like a checklist).
 
@@ -85,7 +85,7 @@ Voice: third-person prose narrative, mythic-allegorical, mid-range — neither p
 | Perfectly Imperfect Embodiment | The body as the necessary site of Divine self-knowledge; imperfection as feature, not bug | The Curse of the Sweaty Hands |
 | The Boundary (proto-Caves) | The walled enclosure that begins as protection and becomes prison; the gate watched by winged lions; the threshold no one is supposed to cross | Dawn scenes 3-7 |
 | The Gate of Knowledge | The single guarded passage between Known and Unknown; the place where threshold-crossers are tested | Dawn scene 3 |
-| The Threshold-Crosser (Xion-archetype) | The youth-Pilgrim called by Spirit to ascend the ramparts, see what others refuse to see, and return with vision; proto-Pilgrim figure | Dawn scene 12 |
+| The Threshold-Crosser (Xion-archetype) | The youth-Sovereign called by Spirit to ascend the ramparts, see what others refuse to see, and return with vision; proto-Sovereign figure | Dawn scene 12 |
 | The Corrupt Priest | The religious authority whose reptilian coldness reveals itself when the threshold-crosser brings authentic vision; archetype of mediating-class capture | Dawn scene 17 |
 | The Corrupt Governor | The political authority parallel to the Corrupt Priest; institutional capture's civic face | Dawn scene 18 |
 | The Hidden Treasure Beyond the Threshold | What the awakened find on the other side: suppressed knowledge, advanced technologies, abundance hoarded by elites within and adversaries without | Dawn scene 28 |
@@ -228,7 +228,7 @@ This cluster is the **single most consolidation-ripe** cluster encountered so fa
 
 - **/LIONSBERG Wiki Books/The Cosmic Chronicles/Integration and Transcendence of Existing Scientific and Cosmological Models.md** — explicitly names "The Lionsberg Theory of Everything" and outlines its scope. This is buried in a UAP dossier but it is metaphysical canon material.
 
-- **/LIONSBERG Wiki Books/The Dawn of the New World/Scene 12 - Xion's Awakening.md** — the threshold-crossing scene that became The Caves' awakening pattern. The Spirit-descends-while-village-trembles, ascent-of-the-ramparts, vision-of-the-darkness-without-and-within, courage-rising-from-deeper-than-fear. Direct ancestor of canonical Pilgrim imagery.
+- **/LIONSBERG Wiki Books/The Dawn of the New World/Scene 12 - Xion's Awakening.md** — the threshold-crossing scene that became The Caves' awakening pattern. The Spirit-descends-while-village-trembles, ascent-of-the-ramparts, vision-of-the-darkness-without-and-within, courage-rising-from-deeper-than-fear. Direct ancestor of canonical Sovereign imagery.
 
 - **/LIONSBERG Wiki Books/The Dawn of the New World/Scene 28 - Discovering the Hidden Treasure.md** — contains "The Means Are The Ends" — Xion's refusal of vengeance against the deposed old order. One of the cluster's strongest single passages of operational ethics in mythic register.
 

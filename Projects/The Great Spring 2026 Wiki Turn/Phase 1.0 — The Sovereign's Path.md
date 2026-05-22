@@ -12,7 +12,7 @@ The frame proposed below was reviewed and the following decisions are now load-b
 
 - **Architecture: Experience as gateway, Codex as corpus.** (Option A confirmed.) The Sovereign's Path is the wayfinding spine; the Sacred Codex is the bound seven-volume corpus.
 - **The Sovereign's Path has 12 stages, not 11.** Stage 11 is **Covenant and Jubilee** — the moment when the New Earth Operating System is fully embodied and adopted for this star system and civilization (currently scheduled for the greatest celebration and jubilee in recorded history, **December 2033**). Stage 12 is the **Eternal Play**.
-- **Every page from `README.md` onward is reevaluated in the light of The Experience we are designing for each and every pilgrim.** Nothing is preserved by inertia. Each canonical page either serves the Sovereign's Path or is folded / archived / rewritten.
+- **Every page from `README.md` onward is reevaluated in the light of The Experience we are designing for each and every Sovereign.** Nothing is preserved by inertia. Each canonical page either serves the Sovereign's Path or is folded / archived / rewritten.
 - **The LIØNSBERG Experience folder is an artifact of a previous build.** It is fully reviewed and improved, or folded into canonical homes and deleted. No half-states.
 - **The 144 Gates of Initiation and the 72 Gates of the Sacred Ascent belong inside the Pattern Language** (Phase 3). They are not separate works. Every being, forever, will need to understand them.
 - **The 144 Gates are the architecture of consciousness shift.** They address the epiphanies, connections, and neural / conceptual architecture that have to be in place for a being to grasp the System as a whole. Phase 3 must discern the wise right order and sequence of initiation to build these reliably — essentially, **how do we shift consciousness to where this is obviously the wise right thing that must be done to confront and overcome the challenges at hand and co-create Heaven here and now?**
@@ -26,13 +26,13 @@ These decisions supersede the open questions in Sections 9 and 10 below.
 
 ## 1. What Already Exists
 
-The user-journey architecture is **more developed than the project-plan survey suggested**. A pilgrim arriving cold today encounters at least six substantial gateway documents, plus a sevenfold journey scaffold, plus a partially-realized Sacred Codex stub. The problem is not absence — it is **multiplicity without canonical hierarchy**.
+The user-journey architecture is **more developed than the project-plan survey suggested**. A Sovereign arriving cold today encounters at least six substantial gateway documents, plus a sevenfold journey scaffold, plus a partially-realized Sacred Codex stub. The problem is not absence — it is **multiplicity without canonical hierarchy**.
 
 ### The current gateway pages (all overlapping)
 
 | Page                                                    | What it is                                                         | State                                                                                               |
 | ------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| `README.md` ("The Golden Seed of LIØNSBERG")            | The entry threshold — first thing a pilgrim sees                   | Strong, recently polished, names "A Story / A Pattern / A Game"                                     |
+| `README.md` ("The Golden Seed of LIØNSBERG")            | The entry threshold — first thing a Sovereign sees                   | Strong, recently polished, names "A Story / A Pattern / A Game"                                     |
 | `Welcome to LIONSBERG.md`                               | The essential guide — walks ONE / Pattern / Game / Ascent / Gather | **Substantially complete and beautifully voiced** — contains the canonical 12 Elements articulation |
 | `The LIONSBERG Quick Start Guide.md`                    | First 90 minutes for a gathered Circle                             | Operational, well-developed                                                                         |
 | `The Invitation.md`                                     | Letter form, deep prophetic voice                                  | Strong standalone piece                                                                             |
@@ -57,7 +57,7 @@ Each was reaching for the same thing. None became canonical.
 
 | # | Stage | Verb | What happens |
 |---|---|---|---|
-| 1 | **The Threshold** | Awaken | Arrival, invitation, ignition — the pilgrim crosses |
+| 1 | **The Threshold** | Awaken | Arrival, invitation, ignition — the Sovereign crosses |
 | 2 | **The Gates** | Move | The 144 Gates of Initiation — progressive deepening for circles |
 | 3 | **The Story** | Remember | _[[The Story of LIØNSBERG]]_ — cosmic context |
 | 4 | **The Game** | Create | _[[The Great Game of LIØNSBERG]]_ + _[[The LIØNSBERG Playbook]]_ — circles + quests + seasons |
@@ -73,12 +73,12 @@ This is **the user journey already articulated**. It is the wayfinding spine.
 
 The project plan currently frames the Sacred Codex as **the binding** containing seven volumes (Story / Pattern Language / Great Game / Playbook / Lexicon / Book of LIONSBERG / Sacred Ascent).
 
-The Experience document frames the Sacred Codex as **the sixth stage of the user journey** — the moment when, after walking through Story, Game, and Ascent, the pilgrim "understands" by encountering the Codex's deeper structure.
+The Experience document frames the Sacred Codex as **the sixth stage of the user journey** — the moment when, after walking through Story, Game, and Ascent, the Sovereign "understands" by encountering the Codex's deeper structure.
 
 Both framings are useful, and they need not conflict. The resolution: **the Codex and the Experience are different layers of the same architecture.**
 
 - The **Codex** is the bound corpus — the architecture, the container, the bookshelf.
-- The **Experience** is the pilgrim's path through the Codex — the wayfinding, the journey, the order in which the books are opened.
+- The **Experience** is the Sovereign's path through the Codex — the wayfinding, the journey, the order in which the books are opened.
 
 The Codex is a noun. The Experience is a verb.
 
@@ -122,13 +122,13 @@ The Codex is a noun. The Experience is a verb.
    └──────────────────────────────────────────────────────────────┘
 ```
 
-**A pilgrim experiences the architecture top-down** (from the Seed inward through the Experience to the appropriate volume of the Codex). **The Wiki is organized bottom-up** (every page either lives within a Codex volume or supports it). The two motions meet in the middle.
+**A Sovereign experiences the architecture top-down** (from the Seed inward through the Experience to the appropriate volume of the Codex). **The Wiki is organized bottom-up** (every page either lives within a Codex volume or supports it). The two motions meet in the middle.
 
 ---
 
-## 4. The Pilgrim's Arc
+## 4. The Sovereign's Arc
 
-What a pilgrim actually walks, in order:
+What a Sovereign actually walks, in order:
 
 ### Stage 1 — Discovery
 - Receives `lionsberg.wiki` link from someone they trust
@@ -210,7 +210,7 @@ This is the complete arc. Every existing entry-point page belongs somewhere on i
 | Page | Role in Arc |
 |---|---|
 | `README.md` | Layer 1 — The Threshold gate |
-| `Welcome to LIØNSBERG.md` | Layer 2 — Stages 2-3 (Threshold + Orientation) — the **functional gateway** that walks the pilgrim from arrival into action |
+| `Welcome to LIØNSBERG.md` | Layer 2 — Stages 2-3 (Threshold + Orientation) — the **functional gateway** that walks the Sovereign from arrival into action |
 | `The LIØNSBERG Quick Start Guide.md` | Layer 2 — Stage 5 (First 90 Minutes) |
 | `The Invitation.md` | Layer 2 — Stage 2 (Threshold), letter form |
 | `The Story of LIØNSBERG.md` | Layer 3 — Volume II (Codex) |
@@ -266,7 +266,7 @@ Sections:
 
 **3. The Seven Volumes.** Each named, briefly described, with its one-line essence. Links to the volume root files.
 
-**4. The Sovereign's Path.** A short articulation of how a pilgrim moves through the Codex — pointing into `The LIØNSBERG Experience` as the wayfinding companion.
+**4. The Sovereign's Path.** A short articulation of how a Sovereign moves through the Codex — pointing into `The LIØNSBERG Experience` as the wayfinding companion.
 
 **5. The Canonical Discipline.** Declares: one source per concept; every page either lives within a volume or supports one; every reference points to the canonical home; archived material is preserved with provenance.
 
@@ -294,7 +294,7 @@ That is all.
 
 The canonical relationship between The LIØNSBERG Experience and The LIØNSBERG Sacred Codex is **Option A — Experience as gateway, Codex as corpus.**
 
-The Experience (the 12-Stage Sovereign's Path) is the master functional map (Layer 2). The Sacred Codex is the bound seven-volume corpus (Layer 3). A pilgrim enters through the Experience and reaches into Codex volumes as the journey calls for them.
+The Experience (the 12-Stage Sovereign's Path) is the master functional map (Layer 2). The Sacred Codex is the bound seven-volume corpus (Layer 3). A Sovereign enters through the Experience and reaches into Codex volumes as the journey calls for them.
 
 This preserves both the bound-corpus value of the Codex and the wayfinding value of the Experience. It matches how all great traditions actually work — there is a corpus (scripture, canon, source-texts) and there is a path through it (lectionary, catechism, sequence-of-practice). It leaves the Codex printable as seven physical volumes while the Experience remains living and adaptive.
 

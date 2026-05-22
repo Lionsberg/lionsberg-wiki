@@ -12,9 +12,9 @@ The moment a spectator becomes a Co-Creator.
 
 There is a difference between **knowing about** the Movement and **being in** the Movement. The difference is one decision, made consciously, in a particular moment, by a particular being.
 
-Before the decision: the pilgrim has read the Seed. They feel the resonance. They see what the Codex is naming. They observe.
+Before the decision: the Sovereign has read the Seed. They feel the resonance. They see what the Codex is naming. They observe.
 
-After the decision: the pilgrim has crossed. They are no longer outside the work; they are inside it. Their hands are on the Pattern. The Circle they form is real. The Quest they choose is real. They have stopped being an audience for the New Civilization and started being one of its co-creators.
+After the decision: the Sovereign has crossed. They are no longer outside the work; they are inside it. Their hands are on the Pattern. The Circle they form is real. The Quest they choose is real. They have stopped being an audience for the New Civilization and started being one of its co-creators.
 
 The decision is **internal**, but it has **external markers**:
 
@@ -26,6 +26,6 @@ The decision is **always voluntary** — and always reversible in spirit (a bein
 
 The Cross the Threshold Decision is **Stage 2 of [[The 12 Stages of the Sovereign's Path]]** — the Threshold proper. It is the hinge on which the whole journey turns.
 
-The Old World's machinery of distraction works hardest in the moments just before this decision — flooding attention, manufacturing doubt, offering counterfeits. **Crossing in spite of all that** is the act that begins the New Civilization for that pilgrim.
+The Old World's machinery of distraction works hardest in the moments just before this decision — flooding attention, manufacturing doubt, offering counterfeits. **Crossing in spite of all that** is the act that begins the New Civilization for that Sovereign.
 
 Lives canonically in [[The LIØNSBERG Playbook]] and is foundational to [[The 12 Stages of the Sovereign's Path]].

@@ -20,9 +20,9 @@ The questions:
 
 These are entry-axes of [[The LIØNSBERG Lexicon]]. Every term in the Lexicon serves one or more of them. Every concept in the Codex anchors to one or more of them.
 
-A pilgrim who can clearly answer is **oriented**. They know who they are, where they are, how they got here, where they are going, and why. The Pattern can be lived from such a place.
+A Sovereign who can clearly answer is **oriented**. They know who they are, where they are, how they got here, where they are going, and why. The Pattern can be lived from such a place.
 
-A pilgrim who cannot — is **lost**. The work begins precisely with helping them answer.
+A Sovereign who cannot — is **lost**. The work begins precisely with helping them answer.
 
 The Old World gives bad answers (or no answers). The fragmentation of the Old is the fragmentation of these answers. "Who are you?" — a tax ID. "Where are you?" — a coordinate. "How did you get here?" — a Darwinian accident. "Where are you going?" — a grave. "Why?" — no reason given.
 

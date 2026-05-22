@@ -38,7 +38,7 @@ The Format also establishes the **canonical convention of cross-reference**. Eve
 - **Anti-Patterns** by name with bidirectional link
 - **Foundational Concepts** from [[The LIØNSBERG Lexicon]] used in the articulation
 
-This makes Volume III navigable as a **hypertext architecture**. A pilgrim entering at any Pattern can traverse to its context, its alternatives, its examples, its failures — without leaving the Volume.
+This makes Volume III navigable as a **hypertext architecture**. A Sovereign entering at any Pattern can traverse to its context, its alternatives, its examples, its failures — without leaving the Volume.
 
 The Format is **canonical for Volume III only**. Other Volumes carry different forms:
 

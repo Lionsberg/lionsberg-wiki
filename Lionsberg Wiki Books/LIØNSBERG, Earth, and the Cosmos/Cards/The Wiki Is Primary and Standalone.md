@@ -14,7 +14,7 @@ It is complete in itself. The Sacred Codex is fully contained within the Wiki. T
 
 This is the architectural rule that conditions every other choice.
 
-A pilgrim who receives the Wiki receives **everything they need to begin** — the Story, the Pattern, the Game, the Playbook, the Lexicon, the Book, the Sacred Ascent. Nothing essential lives outside the Wiki. Nothing essential requires an account, an app, a paywall, or a remote service.
+A Sovereign who receives the Wiki receives **everything they need to begin** — the Story, the Pattern, the Game, the Playbook, the Lexicon, the Book, the Sacred Ascent. Nothing essential lives outside the Wiki. Nothing essential requires an account, an app, a paywall, or a remote service.
 
 If the wider internet collapses, the Wiki — cloned, distributed, printed — can replant the Seed anywhere. Wherever it lands, the New Civilization can begin again.
 

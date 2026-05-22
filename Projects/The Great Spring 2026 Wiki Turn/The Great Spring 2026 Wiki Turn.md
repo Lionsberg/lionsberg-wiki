@@ -62,7 +62,7 @@ _Foundational decisions made 2026-05-18 that frame the Turn._
 
 _Frame the canonical container. Completed 2026-05-18._
 
-- [x] **1.0** Synthesis of the pilgrim's user-experience drafted at [[Phase 1.0 — The Sovereign's Path]]. Established: Option A (Experience-as-gateway, Codex-as-corpus); 12-Stage Sovereign's Path; 144 Gates as architecture of consciousness shift; Eternal Divine Play as closing of the Sacred Ascent; cosmic content woven matter-of-factly throughout.
+- [x] **1.0** Synthesis of the Sovereign's user-experience drafted at [[Phase 1.0 — The Sovereign's Path]]. Established: Option A (Experience-as-gateway, Codex-as-corpus); 12-Stage Sovereign's Path; 144 Gates as architecture of consciousness shift; Eternal Divine Play as closing of the Sacred Ascent; cosmic content woven matter-of-factly throughout.
 - [x] **1.1** [[The LIØNSBERG Sacred Codex]] drafted at Wiki root — canonical declaration of Prologue, the One Great Work, the Volumes, Sovereign's Path, Canonical Discipline, Voice Standard, Living Discipline, What the Codex Is Not, Master TOC. Prior stub deleted after 13 Cards captured.
 - [x] **1.2** `README.md` reviewed and refined against the Sovereign's Path. Threshold role preserved (Stage 1 / Layer 1).
 - [x] **1.3** Volume root files inventoried, deduplicated, and canonically positioned. Duplicates resolved. [[The LIØNSBERG Experience]] rebuilt as canonical 12-Stage Sovereign's Path.

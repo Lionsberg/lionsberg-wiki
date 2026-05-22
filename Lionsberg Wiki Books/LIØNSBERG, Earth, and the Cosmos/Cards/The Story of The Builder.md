@@ -47,6 +47,6 @@ This is the **archetypal parable** of the Movement's strategy:
 
 The parable is **already operational**. The City on the Hill is the Pattern at work in every place a Circle is forming, a Hub is being built, a bioregional federation is taking shape. The Plans and Specifications are the Codex itself — open to every visitor, inviting improvement, holding the architecture firm.
 
-The parable is also **personal**. Every Pilgrim faces the same choice Nicholas faced. The Valley is collapsing where the Pilgrim lives. The Sacred Mountain rises behind the Pilgrim. The Plans are available. The question is only whether the Pilgrim begins to build.
+The parable is also **personal**. Every Sovereign faces the same choice Nicholas faced. The Valley is collapsing where the Sovereign lives. The Sacred Mountain rises behind the Sovereign. The Plans are available. The question is only whether the Sovereign begins to build.
 
 Lives canonically in [[The Story of LIØNSBERG]] as one of the foundational parables, opening to the work of [[The Great Game of LIØNSBERG]] and [[Worksite Earth]].

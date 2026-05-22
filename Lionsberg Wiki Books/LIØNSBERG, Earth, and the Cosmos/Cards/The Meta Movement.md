@@ -50,6 +50,6 @@ The Codex offers these. The Codex does not require their adoption. The Codex say
 
 The Meta Movement is the **planetary-scale entity** that the [[The 10 Year Grand Strategy|10-Year Grand Strategy]] is gathering. The [[The First Three Percent and Fibonacci Spread|First Three Percent]] is the operational name for the population required to constitute the Meta Movement in active form. By [[Covenant and Jubilee — December 2033|Covenant and Jubilee in December 2033]], the Meta Movement is substantially in place. By 2040, the Meta Movement is the recognized planetary phenomenon. By 2050, the Meta Movement has substantially replaced the Old World's political/economic/cultural architecture as the operating reality of human civilization.
 
-This is the strategic frame within which every other Movement Card sits. Every Quest, every Hub, every Circle is a strand of the Meta Movement. Every Pilgrim's daily work serves it. **The aggregation of all this work is what saves the planet.**
+This is the strategic frame within which every other Movement Card sits. Every Quest, every Hub, every Circle is a strand of the Meta Movement. Every Sovereign's daily work serves it. **The aggregation of all this work is what saves the planet.**
 
 Lives canonically in [[The Great Game of LIØNSBERG]] as the planetary-scale aggregation toward which the entire Strategy is oriented.

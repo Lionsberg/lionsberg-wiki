@@ -6,7 +6,7 @@ _One of the entries in [[The LIØNSBERG Living Library|The Living Library]]. The
 
 ## We Have Heard It Said
 
-What follows is gathered without attribution — not to erase lineage, but to honor the wisdom itself. _The wisdom is the wisdom whether or not we name who carried it._ Every quotation that follows has been borne forward through many hands across many ages. What matters is whether it speaks true, and whether it speaks _into this moment, into this Pilgrim, into this Circle, into this turning of the world._
+What follows is gathered without attribution — not to erase lineage, but to honor the wisdom itself. _The wisdom is the wisdom whether or not we name who carried it._ Every quotation that follows has been borne forward through many hands across many ages. What matters is whether it speaks true, and whether it speaks _into this moment, into this Sovereign, into this Circle, into this turning of the world._
 
 Read aloud. Hold the words. Let them work.
 
@@ -402,11 +402,11 @@ Read aloud. Hold the words. Let them work.
 
 ## A Closing Word
 
-These quotations are the compression of wisdom that has passed through many hands across many ages. They are offered as a working library — to be quoted in Circles, written on walls, taken into stillness, carried into action. They are not the Codex; the Codex carries the canonical articulation. They are companions to the Codex — pointed lines that compress whole arguments into single sentences a Pilgrim can hold in the heart.
+These quotations are the compression of wisdom that has passed through many hands across many ages. They are offered as a working library — to be quoted in Circles, written on walls, taken into stillness, carried into action. They are not the Codex; the Codex carries the canonical articulation. They are companions to the Codex — pointed lines that compress whole arguments into single sentences a Sovereign can hold in the heart.
 
 The Book grows. Add what you receive. Refine what is here. Return again. Let the words work.
 
-The Way is older than any of these voices. The Way will outlive all of them. And the Way speaks through whoever can hear it — Pilgrim, Circle, Community, or whoever, in whatever time, in whatever world, says of any of these lines:
+The Way is older than any of these voices. The Way will outlive all of them. And the Way speaks through whoever can hear it — Sovereign, Circle, Community, or whoever, in whatever time, in whatever world, says of any of these lines:
 
 _Yes. This is true. I will live by this today._
 

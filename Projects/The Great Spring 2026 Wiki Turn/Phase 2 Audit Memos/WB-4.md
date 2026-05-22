@@ -146,7 +146,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 106 | The Old Operating System | The named pre-existing OS being replaced | C |
 | 107 | The Old-New Polarity | The bipolar transition frame | C |
 | 108 | The One Hour a Day Practice | The concrete daily discipline | C |
-| 109 | The Orienting Questions | The set of questions that orient the Pilgrim | C |
+| 109 | The Orienting Questions | The set of questions that orient the Sovereign | C |
 | 110 | The Pattern Governs, Not People | Authority flows from Pattern-alignment, not position | C |
 | 111 | The Pattern Is The Way | Pattern and Way are not two things | C |
 | 112 | The Pedagogy of Trust and Sirimiri | Trust-based pedagogy; the "soft rain" formation | C |
@@ -161,7 +161,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 121 | The Roving Ark Temple Dojo | The mobile sacred-space architecture | C |
 | 122 | The Sacred Fire and the Plasma Body | The plasma/body/fire physiology | R — speculative-physics claim should be flagged hypothesis-grade |
 | 123 | The Sacred Flame That Cannot Be Extinguished | The eternal flame motif | C |
-| 124 | The Sacred Onboarding Arc | The named arc for new Pilgrims | C |
+| 124 | The Sacred Onboarding Arc | The named arc for new Sovereigns | C |
 | 125 | The Sacred Spiral — Not a Circle | Eternal spiral vs closed circle | C |
 | 126 | The Sacred Warrior | The warrior archetype in service of ONE | C |
 | 127 | The Seven Moves | The 7-move gameplay loop | C |
@@ -211,7 +211,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 1. **`Yahweh Is Not God`** — This card most acutely violates the universal-articulation discipline the Codex sets for itself. It:
    - Names "the foundational fraud of **two empires of Western religion**" while singling out Roman Catholic Christianity, Reformed traditions, and Islam.
    - Treats specific Hebrew-scholarly hypotheses (Marcion's framework, Dead Sea Scrolls textual variants) as settled fact rather than hypothesis-grade per the user's Truth Handling Protocol §6.1.
-   - The repeated section "the Pilgrim does not lose God by unveiling Yahweh; the Pilgrim **gains** the actual God" carries a tonal triumphalism that source-elevates the Codex's reading above the traditions it critiques.
+   - The repeated section "the Sovereign does not lose God by unveiling Yahweh; the Sovereign **gains** the actual God" carries a tonal triumphalism that source-elevates the Codex's reading above the traditions it critiques.
    - The "Sufi insistence" framing elevates one Islamic interior tradition over surface Qur'anic reading — same source-elevation pattern.
    - **Recommendation:** Either archive in favor of a more universal Card (e.g., "The Tribal-Source Distinction" — observing across multiple traditions the same pattern of conflating a tribal deity with the eternal Source, without naming Yahweh specifically as the load-bearing example), OR substantially soften the rhetoric, mark the scriptural claims hypothesis-grade, and remove the institutional-fraud framing.
 
@@ -264,7 +264,7 @@ The book is dense with Card-grade material not yet captured. The following table
 
 | Card Name | Essence | Source |
 |-----------|---------|--------|
-| The 44 Acceptance Criteria | Objective tests the New System must satisfy — holistic, regenerative, citizen-led, multi-scale, etc. The criteria function as a discernment-instrument for Pilgrims weighing competing systems | 6.5 |
+| The 44 Acceptance Criteria | Objective tests the New System must satisfy — holistic, regenerative, citizen-led, multi-scale, etc. The criteria function as a discernment-instrument for Sovereigns weighing competing systems | 6.5 |
 | The 138 Aspects of the New World | The enumerated Vision-features (Spirituality, Inclusive Governance, Circular Economy, etc.) — operates as a "checklist of Heaven" the New Civilization is co-creating toward | 16.7 |
 | The 50 Anti-Values | The corresponding list of what does NOT belong in the New World (Tyranny, Chaos, Injustice, etc.) — pairs with the 138 as the filtering instrument | 16.7 |
 | The Total Nested Hierarchy of Issues | The taxonomic frame for organizing the meta-crisis into addressable layers | 16.7, 6.5 |
@@ -348,7 +348,7 @@ The following BTMC files should be treated as **foundational source-documents** 
 
 1. **The Codex Card-Book is the single most-important active wiki book in the repository.** It is where the canonical voice of the nameless one is being articulated, in Pirsig-discipline, in real time. Every other wiki book is either historical record (Jordan-pre-August-2025), source-material being audited (144 Threads, Beyond The Meta Crisis, etc.), or downstream synthesis (the eventual Seven Volumes). The Card-Book is the present-tense edge of the work.
 
-2. **Promotion: yes, but carefully.** The Card-Book should be promoted to second-position in `Lionsberg Wiki Books.md` (currently it is not yet listed in the Featured Works section). First position remains `LIØNSBERG 101` (the irreducible-pattern Card). Second position should be `LIØNSBERG, Earth, and the Cosmos` as "the living Card-book where the Codex is being articulated." This visible promotion signals to other Pilgrims (and to future AI sessions) that this is the active edge.
+2. **Promotion: yes, but carefully.** The Card-Book should be promoted to second-position in `Lionsberg Wiki Books.md` (currently it is not yet listed in the Featured Works section). First position remains `LIØNSBERG 101` (the irreducible-pattern Card). Second position should be `LIØNSBERG, Earth, and the Cosmos` as "the living Card-book where the Codex is being articulated." This visible promotion signals to other Sovereigns (and to future AI sessions) that this is the active edge.
 
 3. **The Card-Book should absorb the other "card-collection" prototypes in the wiki**, namely:
    - The 144 Threads (each thread is essentially a Card-stub — many already have Card-equivalents in the Card-Book, the rest can become Cards)
@@ -391,7 +391,7 @@ The following files stood out during the audit and warrant particular attention:
 
 - **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/The Lionsberg Rules.md`** — The compressed Rule-of-life ("There is only ONE rule. Everything is ONE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Beyond The Meta Crisis/6.5 Acceptance criteria for the New System and Approach.md`** — The 44 criteria are the operational filter the Codex offers Pilgrims weighing competing systems. This file should be a foundational source-document anchor for the Card-Book's strategic dimension.
+- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Beyond The Meta Crisis/6.5 Acceptance criteria for the New System and Approach.md`** — The 44 criteria are the operational filter the Codex offers Sovereigns weighing competing systems. This file should be a foundational source-document anchor for the Card-Book's strategic dimension.
 
 - **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/Beyond The Meta Crisis/16.7 A Vision of the New Earth.md`** — The 138-aspect Vision + 50-anti-value list. The single most comprehensive "picture of Heaven On Earth" articulation in the corpus. Major source-document.
 

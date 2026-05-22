@@ -12,7 +12,7 @@ The canonical operational unit of the Playbook.
 
 The Circle is the unit of gathering. The Quest is the unit of doing. Move 3 of the [[The Seven Moves|Seven Moves]] is **Choose a Quest** — and the Quest, once chosen, becomes the center of gravity around which the Circle's life organizes until the Quest is closed.
 
-A Quest is **not** a project in the Old World sense. A project is a deliverable bounded by scope, schedule, cost. A Quest is **a deliverable bounded by transformation** — it produces an outer mark on the world AND an inner transformation in the Pilgrims who undertake it. Both happen. Neither alone is the Quest.
+A Quest is **not** a project in the Old World sense. A project is a deliverable bounded by scope, schedule, cost. A Quest is **a deliverable bounded by transformation** — it produces an outer mark on the world AND an inner transformation in the Sovereigns who undertake it. Both happen. Neither alone is the Quest.
 
 The Anatomy of a Quest:
 
@@ -26,14 +26,14 @@ The Quest moves through a Spiral:
 
 - **Discernment** — what does the Circle sense? Where does the fire burn? What is needed that the Circle is positioned to provide?
 - **Naming and Definition** — the Quest is given a name, defined in writing, with steps articulated. The discipline forces clarity. _If we cannot name it, we have not yet discerned it._
-- **Commitment** — the Circle promises. The commitment becomes part of [[The Network of Commitments]]. The Pilgrim's word is given; the Pilgrim's word is kept.
+- **Commitment** — the Circle promises. The commitment becomes part of [[The Network of Commitments]]. The Sovereign's word is given; the Sovereign's word is kept.
 - **Doing** — the work itself. Daily practice. Weekly rhythm. Monthly retrospective. The Circle moves through obstacles, adjusts approach, holds the line on the means.
-- **Closing the Loop** — the Quest is completed. The mark on the world is made. The Pilgrims who undertook it are measurably transformed. The Circle celebrates, retrospects, harvests learning.
+- **Closing the Loop** — the Quest is completed. The mark on the world is made. The Sovereigns who undertook it are measurably transformed. The Circle celebrates, retrospects, harvests learning.
 - **Choosing What Comes Next** — the Circle's next Quest emerges from what the present Quest revealed. The Spiral continues.
 
 The Quest exists in **fractal nesting**:
 
-- Individual Pilgrims may have **personal Quests** within the Circle's collective Quest.
+- Individual Sovereigns may have **personal Quests** within the Circle's collective Quest.
 - The Circle's Quest may nest inside a **Hub-scale Quest** that several Circles undertake together.
 - Hub Quests nest inside **bioregional Quests** the federated Hubs pursue.
 - Bioregional Quests nest inside the **planetary Quest** — the 10-Year Grand Strategy, the assembly of the [[The First Three Percent and Fibonacci Spread|First Three Percent]], the construction of [[Worksite Earth]] itself.
@@ -42,8 +42,8 @@ This is **Quest → Project → Program → Meta Program** — the stacking arch
 
 The First Quest matters. The first Quest a new Circle takes on is **shorter than seasonal** — weeks, not months. Walk before running. Early success builds trust. The Circle learns to keep promises, learns to close loops, learns to retrospect. Only then is the Circle ready for 90-day seasonal Quests, and only after several of those is the Circle ready for multi-year mastery-track Quests.
 
-There is also a discipline of **exit**. Not every Quest succeeds; not every Circle holds; not every Pilgrim is meant to remain with the Quest they began. The Pattern honors honest exit: better a clean release than a forced retention. The Quest that ends in honest learning is not a failure; the Quest that completes by violating the means is not a success. [[The Means Are The Ends]] applies at every step.
+There is also a discipline of **exit**. Not every Quest succeeds; not every Circle holds; not every Sovereign is meant to remain with the Quest they began. The Pattern honors honest exit: better a clean release than a forced retention. The Quest that ends in honest learning is not a failure; the Quest that completes by violating the means is not a success. [[The Means Are The Ends]] applies at every step.
 
-The Quest is the **vehicle by which the Pilgrim is transformed**. The Old World said: study first, then act. The Pattern says: act, retrospect, refine, act again, retrospect again — and the Pilgrim becomes by the doing. [[The Pedagogy of Trust and Sirimiri|Sirimiri formation]] happens primarily through Quests. The Academy is the curriculum; the Quest is the laboratory.
+The Quest is the **vehicle by which the Sovereign is transformed**. The Old World said: study first, then act. The Pattern says: act, retrospect, refine, act again, retrospect again — and the Sovereign becomes by the doing. [[The Pedagogy of Trust and Sirimiri|Sirimiri formation]] happens primarily through Quests. The Academy is the curriculum; the Quest is the laboratory.
 
 Lives canonically in [[The LIØNSBERG Playbook]] as the central operational mechanic, and reverberates through [[The Great Game of LIØNSBERG]] as the unit-of-play of the Game itself.

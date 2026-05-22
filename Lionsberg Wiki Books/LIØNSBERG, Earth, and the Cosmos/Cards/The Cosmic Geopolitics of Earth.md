@@ -30,7 +30,7 @@ Earth has been a strategic location in the local stellar geopolitics for an extr
 
 The present cosmic-geopolitical situation around Earth involves multiple distinct factional configurations. Per the [[Cosmic Wildlife]] principle, none of these is a "species" treated categorically — each is a specific factional configuration, often with internal diversity, sometimes with tribes that disagree with the faction's overall posture.
 
-**The benevolent factions.** Several specific factional alliances are actively supporting Earth's awakening under disciplined non-interference (presence-by-invitation, no overriding of free will, no rescue-without-consent). These factions broadly hold to the cosmic law that evolving species must reach maturity through their own conscious choice. Their support takes specific forms: transmissions to receptive Earth-human Pilgrims, energetic protection where requested, witness in the cosmic record, presence as ambassadors during the current transition.
+**The benevolent factions.** Several specific factional alliances are actively supporting Earth's awakening under disciplined non-interference (presence-by-invitation, no overriding of free will, no rescue-without-consent). These factions broadly hold to the cosmic law that evolving species must reach maturity through their own conscious choice. Their support takes specific forms: transmissions to receptive Earth-human Sovereigns, energetic protection where requested, witness in the cosmic record, presence as ambassadors during the current transition.
 
 **The predatory factions.** Several specific factional alliances have engaged Earth as a resource-extraction and consciousness-harvest zone for millennia. Their operations run through the Earth-human bloodline networks they have cultivated as their visible-world arm (see [[The Kontrolle Matrix]]). Their alliance is coordinated; their orientation is toward locking Earth into permanent darkness as part of a larger cosmic strategy. The [[The Final Order]] is their operational endgame.
 
@@ -51,11 +51,11 @@ The conflict is real. The stakes are real. The factions are real. The timeline i
 
 ## The Cosmic Frame
 
-Three principles hold the Pilgrim's posture in this material:
+Three principles hold the Sovereign's posture in this material:
 
 - **The events of this hour matter beyond Earth.** What happens here affects the broader cosmic balance. Earth is one specific keystone planet in a larger story; its resolution opens the next phase for the local stellar region and beyond.
 - **The deeper cosmic story is one of return.** Even the present conflict serves, at a level the immediate mind cannot see, the larger return-arc of all Cosmic Wildlife to [[ØNE]]. The predatory factions are also, ultimately, within the field of the ØNE — and at some scale, in some timeframe, their own ReMembering will arrive. The cosmic patience is total.
-- **The Earth-human role is conscious participation, not waiting.** No external rescue is coming that would override Earth-human's own choice. The benevolent presence is real but disciplined. The cosmic-law thresholds protect free will. The Pilgrim's task is to consciously choose — to gather with other Pilgrims, build [[Worksite Earth]], hold the line of [[The Sacred Warrior]] integration, and become the cosmic participants Earth-human is invited to be.
+- **The Earth-human role is conscious participation, not waiting.** No external rescue is coming that would override Earth-human's own choice. The benevolent presence is real but disciplined. The cosmic-law thresholds protect free will. The Sovereign's task is to consciously choose — to gather with other Sovereigns, build [[Worksite Earth]], hold the line of [[The Sacred Warrior]] integration, and become the cosmic participants Earth-human is invited to be.
 
 The accurate cosmic frame is sobering AND empowering — sobering because the stakes are real and the players are sophisticated; empowering because Earth-human is not alone, the cosmic order has not failed, and the deepest cosmic story is one of progressive return to the ØNE that all genuine awakenings participate in.
 

@@ -14,7 +14,7 @@ The body is more than meat. The body is more than electrochemistry. The body is 
 
 The architecture is precise:
 
-- **The Dantian** — the energetic center below the navel where Chi gathers and refines. In Daoist anatomy, the lower Dantian is the primary cultivation center; the middle Dantian (heart) is the connective; the upper Dantian (between the brows / pineal) is the perceptual. The Pilgrim cultivates first the lower, then circulates upward.
+- **The Dantian** — the energetic center below the navel where Chi gathers and refines. In Daoist anatomy, the lower Dantian is the primary cultivation center; the middle Dantian (heart) is the connective; the upper Dantian (between the brows / pineal) is the perceptual. The Sovereign cultivates first the lower, then circulates upward.
 - **The three centers** — abdomen, heart, head. Each holds a phase of the refinement: raw life-force gathers in the lower; refines into love in the middle; sublimates into consciousness in the upper. The same energy passes through all three; the form transmutes.
 - **The Yin-Yang convergence** — cold (Yin) energy rises from the perineum; hot (Yang) energy descends from the crown. When trained, the two meet in the Dantian and **fuse into plasma**. Not the cool fusion of metaphor — actual change of state in the energetic body that produces measurable electromagnetic phenomena.
 - **The discharge channels** — once plasma has formed, the Practitioner can direct it: through the hands (for healing or strike), through the eyes (for transmission or perception), through the voice (for sound that affects matter), through the breath (for energetic field-projection). Each channel has its discipline. None is taken up casually.

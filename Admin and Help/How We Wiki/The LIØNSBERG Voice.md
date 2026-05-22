@@ -100,7 +100,7 @@ Never one without the other. Pure mysticism produces no fruit. Pure tactics prod
 
 Formal when the moment calls for it. _have found_ over _'ve found_. _it is_ over _it's_.
 
-Warm where the pilgrim is met. _Dear Awakening Soul. Beloved. Fellow traveler._
+Warm where the Sovereign is met. _Dear Awakening Soul. Beloved. Fellow traveler._
 
 The Codex addresses the reader directly. It does not narrate at them from a distance.
 

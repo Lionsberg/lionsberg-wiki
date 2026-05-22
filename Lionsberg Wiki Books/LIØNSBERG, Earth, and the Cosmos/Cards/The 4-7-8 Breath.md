@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The named breath practice for physiological recalibration.
 
-When the body's [[Anxiety as Default-On|Default-On Autonomic Nervous System]] is fully activated — racing heart, shallow breath, tightening chest, hypervigilance — the Pilgrim cannot reason their way back to calm. The body must be **signaled** that the system is safe enough to settle, and the body's primary safety-signal pathway is the Vagus Nerve, which the breath addresses directly.
+When the body's [[Anxiety as Default-On|Default-On Autonomic Nervous System]] is fully activated — racing heart, shallow breath, tightening chest, hypervigilance — the Sovereign cannot reason their way back to calm. The body must be **signaled** that the system is safe enough to settle, and the body's primary safety-signal pathway is the Vagus Nerve, which the breath addresses directly.
 
 The 4-7-8 Breath is the named protocol. Andrew Weil popularized it; the LIØNSBERG Healer Codex adopts it; the lineage runs much deeper, into yogic pranayama traditions that have used variants for thousands of years. The discipline:
 
@@ -26,23 +26,23 @@ What it does physiologically:
 - **The extended exhale stimulates the Vagus Nerve directly.** Long exhales are the body's primary signal for parasympathetic activation. The Vagus dials the heart rate down, opens digestion, settles the breath, releases the sympathetic grip. This is the architectural mechanism.
 - **The hold creates a brief, controlled CO2 rise.** Mild hypercapnia triggers a recalibration: the breath-receptors recognize the controlled hold as deliberate practice, not threat, and the brainstem updates its threat assessment downward.
 - **The 4-7-8 ratio compresses the parasympathetic response into a few minutes** of what would otherwise take much longer through ambient calm. The ratio is empirically tuned; deviations work but the named ratio is most reliable across populations.
-- **The audible exhale (when used) engages the throat and creates somatic feedback.** The Pilgrim hears themselves settling. The auditory feedback closes the loop between intention and effect.
+- **The audible exhale (when used) engages the throat and creates somatic feedback.** The Sovereign hears themselves settling. The auditory feedback closes the loop between intention and effect.
 
-What it does for the Pilgrim:
+What it does for the Sovereign:
 
 - **Acute anxiety dissolves rapidly.** Within four cycles, the heart rate has typically dropped 5-15 bpm, the chest has opened, the cognitive field has widened. The acute peak is broken.
-- **Sleep-onset accelerates dramatically.** Four cycles before sleep, while lying in bed, often drops the Pilgrim into sleep within five minutes. The practice is one of the most reliable insomnia-protocols available without medication.
+- **Sleep-onset accelerates dramatically.** Four cycles before sleep, while lying in bed, often drops the Sovereign into sleep within five minutes. The practice is one of the most reliable insomnia-protocols available without medication.
 - **Pre-event preparation is transformed.** Four cycles before a difficult conversation, a stage moment, an interview, a high-stakes decision — the system enters the event with parasympathetic dominance instead of sympathetic activation. Performance under pressure improves measurably.
 - **Trauma response can be interrupted mid-trigger.** When a flashback or trauma response is starting to take hold, four cycles of 4-7-8 can interrupt it before it fully grips. The earlier the intervention, the more effective. (Note: for clinical trauma, the practice supplements, never replaces, proper trauma-aware practitioner support.)
 
-The protocol is **scale-invariant**. It works for the Pilgrim alone, in private. It works for a Circle that takes one cycle together before opening a difficult conversation. It works in public spaces (without the audible exhale) — on subways, in waiting rooms, mid-conversation when the body is activating. The Pilgrim can deploy it without anyone noticing.
+The protocol is **scale-invariant**. It works for the Sovereign alone, in private. It works for a Circle that takes one cycle together before opening a difficult conversation. It works in public spaces (without the audible exhale) — on subways, in waiting rooms, mid-conversation when the body is activating. The Sovereign can deploy it without anyone noticing.
 
-The protocol pairs with [[Counting Up To Consciousness]] and [[The Smallest Step Protocol]] in the Healer Codex's operational stack. Counting Up restores presence; 4-7-8 Breath restores physiology; Smallest Step restores momentum. Often all three are deployed in sequence — taking three to five minutes total to move the Pilgrim from frozen activation back into functional motion.
+The protocol pairs with [[Counting Up To Consciousness]] and [[The Smallest Step Protocol]] in the Healer Codex's operational stack. Counting Up restores presence; 4-7-8 Breath restores physiology; Smallest Step restores momentum. Often all three are deployed in sequence — taking three to five minutes total to move the Sovereign from frozen activation back into functional motion.
 
-The discipline is to use it **proactively, not only reactively**. The Pilgrim who uses 4-7-8 only when in acute distress treats it as emergency medicine. The Pilgrim who uses it three times a day — morning, midday, evening — is **conditioning the system** to a lower baseline of activation. Over weeks and months, the underlying ANS calibration shifts. The Default-On baseline is dialed downward not by suppression but by **frequent micro-doses of safety-signaling**.
+The discipline is to use it **proactively, not only reactively**. The Sovereign who uses 4-7-8 only when in acute distress treats it as emergency medicine. The Sovereign who uses it three times a day — morning, midday, evening — is **conditioning the system** to a lower baseline of activation. Over weeks and months, the underlying ANS calibration shifts. The Default-On baseline is dialed downward not by suppression but by **frequent micro-doses of safety-signaling**.
 
-The protocol is also a **gift the Pilgrim can offer**. When someone in the Pilgrim's life is visibly activated, the Pilgrim can teach the protocol in under a minute. The first experience of the protocol working — and it almost always works — opens a door. People who have lived inside their Default-On activation their whole lives often discover, through 4-7-8, that another state is accessible. This discovery becomes the doorway into deeper Healer Codex practice.
+The protocol is also a **gift the Sovereign can offer**. When someone in the Sovereign's life is visibly activated, the Sovereign can teach the protocol in under a minute. The first experience of the protocol working — and it almost always works — opens a door. People who have lived inside their Default-On activation their whole lives often discover, through 4-7-8, that another state is accessible. This discovery becomes the doorway into deeper Healer Codex practice.
 
-The discipline is **slow on purpose**. The named ratio cannot be rushed. The Pilgrim who tries to do 2-3.5-4 because they are impatient gets a small effect. The Pilgrim who actually takes the seven full counts on the hold and the eight full counts on the exhale gets the full effect. **The slowness is the practice.**
+The discipline is **slow on purpose**. The named ratio cannot be rushed. The Sovereign who tries to do 2-3.5-4 because they are impatient gets a small effect. The Sovereign who actually takes the seven full counts on the hold and the eight full counts on the exhale gets the full effect. **The slowness is the practice.**
 
 Lives canonically in [[The LIØNSBERG Playbook]] as a named operational practice, and in [[The Sacred Ascent]] within the Healer Codex as one of the foundational disciplines.

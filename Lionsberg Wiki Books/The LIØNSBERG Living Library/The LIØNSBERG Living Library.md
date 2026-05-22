@@ -65,7 +65,7 @@ A continuously growing collection of canonical quotations — concentrated sente
 
 _Emotional integration. Companion to the Sacred Ascent and the Daily Way._
 
-The named field of emotional experience and integration — what emotions are, how they move, how the Pilgrim works with them through daily and seasonal practice. Companion to [[The Sacred Ascent]]'s embodied mastery (emotional integration as one of the dimensions of the spiral) and to [[The Daily Way]]'s evening reflection (where emotional notice settles into the day's close).
+The named field of emotional experience and integration — what emotions are, how they move, how the Sovereign works with them through daily and seasonal practice. Companion to [[The Sacred Ascent]]'s embodied mastery (emotional integration as one of the dimensions of the spiral) and to [[The Daily Way]]'s evening reflection (where emotional notice settles into the day's close).
 
 ### 7. [[The Lionsberg Book Of Parables|The Lionsberg Book of Parables]]
 
@@ -89,7 +89,7 @@ The canonical home for the 12 Pillars. Each Pillar page carries three things: a 
 
 _The complete Pattern in concentric rings — from ØNE word to the full library._
 
-A pedagogical companion that articulates the full Pattern in successively widening rings of depth. From the single word ØNE outward through the foundational elements, the systems, the practices, the full canonical body. Companion to [[The LIØNSBERG Experience|The Experience]] for the Pilgrim who wants the rings-of-depth articulation alongside the Stages-and-Horizons walk.
+A pedagogical companion that articulates the full Pattern in successively widening rings of depth. From the single word ØNE outward through the foundational elements, the systems, the practices, the full canonical body. Companion to [[The LIØNSBERG Experience|The Experience]] for the Sovereign who wants the rings-of-depth articulation alongside the Stages-and-Horizons walk.
 
 ### 11. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]]
 

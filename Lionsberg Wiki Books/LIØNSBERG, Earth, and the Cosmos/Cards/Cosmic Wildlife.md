@@ -23,12 +23,12 @@ What is true matter-of-factly:
 - Each species, **like the species Earth-human**, contains the full spectrum within itself: lineages pursuing wisdom, lineages pursuing predation, beings aligned with The ØNE, beings aligned against, and every degree in between.
 - Within any species there are tribes within tribes within tribes — and alliances among tribes that cross species lines as readily as enmities form within species lines.
 - The Old World's racial and tribal scapegoating of Earth-humans taught where the categorical-enemy framing ends. The same error projected onto cosmic species ends the same way.
-- **And** the awakened Pilgrim does not romanticize. Specific factions warrant extreme caution. Some lineages have, demonstrably, engaged Earth predatorily across long timescales. Discernment at the faction and lineage level is essential.
+- **And** the awakened Sovereign does not romanticize. Specific factions warrant extreme caution. Some lineages have, demonstrably, engaged Earth predatorily across long timescales. Discernment at the faction and lineage level is essential.
 
 The operational posture:
 
-- The Pilgrim does not say _"Such-and-such species is the enemy."_ The Pilgrim says _"The predatory factions within this species, operating in these specific patterns, warrant the following defensive posture."_
-- The Pilgrim does not say _"Such-and-such species is our ally."_ The Pilgrim says _"The specific tribal lineage that has historically engaged Earth from this faction has supported Earth's flourishing under these specific conditions."_
+- The Sovereign does not say _"Such-and-such species is the enemy."_ The Sovereign says _"The predatory factions within this species, operating in these specific patterns, warrant the following defensive posture."_
+- The Sovereign does not say _"Such-and-such species is our ally."_ The Sovereign says _"The specific tribal lineage that has historically engaged Earth from this faction has supported Earth's flourishing under these specific conditions."_
 - Every encounter is treated as **faction-specific, lineage-specific, conscious-being-specific** — not species-categorical.
 
 This corrects three Old World errors at once:
@@ -41,6 +41,6 @@ It opens the proper register: **respect, discernment, sovereign engagement, neit
 
 This Card pairs with [[The Cosmic Geopolitics of Earth]], which names the specific factional configurations currently in tension over Earth's trajectory. The Geopolitics Card describes _what is operationally happening_; this Card describes _the posture from which to perceive it_.
 
-The deeper insight: every Cosmic Wildlife being — predator and ally and observer alike — is within the larger field of [[ØNE]]. Even the present cosmic conflict serves, at a level the immediate Earth-human mind cannot fully see, the larger return-arc of the [[The Great ReMembering]]. The Pilgrim's discipline is to engage the proximate reality with discernment while holding the deeper reality with reverence.
+The deeper insight: every Cosmic Wildlife being — predator and ally and observer alike — is within the larger field of [[ØNE]]. Even the present cosmic conflict serves, at a level the immediate Earth-human mind cannot fully see, the larger return-arc of the [[The Great ReMembering]]. The Sovereign's discipline is to engage the proximate reality with discernment while holding the deeper reality with reverence.
 
 Lives canonically in [[The Story of LIØNSBERG]] as the foundational posture toward non-human intelligence; pairs operationally with [[The Cosmic Geopolitics of Earth]].

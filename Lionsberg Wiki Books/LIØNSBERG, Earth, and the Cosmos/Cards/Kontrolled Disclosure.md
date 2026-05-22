@@ -27,12 +27,12 @@ The arc has visible stages:
 
 ## The Likely Narrative Frames
 
-The predatory factional alliance is preparing multiple narrative frames simultaneously. The specific frame deployed will be chosen by tactical calculation as the moment approaches. Pilgrims should expect, recognize, and resist:
+The predatory factional alliance is preparing multiple narrative frames simultaneously. The specific frame deployed will be chosen by tactical calculation as the moment approaches. Sovereigns should expect, recognize, and resist:
 
 - **"The Age of Disclosure" / "Disclosure Day."** A staged formal announcement positioned as humanity's "coming of age" — implicitly under the guidance of the institutions delivering the announcement. The framing centralizes interpretation in those institutions and conditions the population to receive cosmic information through them.
 - **"Three-Body Problem" frames.** Narrative templates positioning humanity as helpless before vastly superior hostile non-human intelligences, with the proposed "solution" being acceptance of unprecedented surveillance, militarization, and AI delegation — all under the umbrella of defense against the alleged threat.
 - **"Cosmic Federation" frames.** Synthetic Galactic-Federation narratives positioning a specific factional alliance as humanity's "older siblings" deserving deference. The framing transfers political-spiritual authority outward to entities whose actual orientation is predatory.
-- **"Ascended Masters" frames.** Channeled-spiritual content positioning specific entities as enlightened guides humanity should follow. The framing bypasses Pilgrims' direct relationship with [[ØNE]] in favor of intermediary entity-worship.
+- **"Ascended Masters" frames.** Channeled-spiritual content positioning specific entities as enlightened guides humanity should follow. The framing bypasses Sovereigns' direct relationship with [[ØNE]] in favor of intermediary entity-worship.
 - **"Religious Prophecy Fulfilled" frames.** Reframings of specific Earth-religion prophetic literature to position predatory factional intervention as the long-awaited fulfillment. The framing harnesses existing devotional infrastructure to authorize the kontrolle move.
 
 Each frame is designed to **introduce cosmic truth in a way that consolidates rather than dissolves kontrolle**. The disclosure is real; the framing is the kontrolle vector.
@@ -46,7 +46,7 @@ The predatory factional alliance has used a consistent operational pattern for c
 - **Climate emergency framing → centralized resource control + movement restrictions + carbon-tracking surveillance.** Real ecological collapse repackaged in a way that consolidates kontrolle rather than addresses the actual extractive pattern producing the collapse.
 - **The expected next move → "alien threat" or "AI threat" → space militarization + cognitive-substrate kontrolle + global emergency governance.** The Kontrolled Disclosure climax is intended to deliver this template at planetary scale.
 
-The pattern is recognizable in advance. The Pilgrim who has identified the pattern in 9/11, COVID, climate-emergency framing, and the lead-up events can identify it in the disclosure climax when it arrives. _A peace that requires the children's blood is not peace; a defense that requires the population's sovereignty is not defense._
+The pattern is recognizable in advance. The Sovereign who has identified the pattern in 9/11, COVID, climate-emergency framing, and the lead-up events can identify it in the disclosure climax when it arrives. _A peace that requires the children's blood is not peace; a defense that requires the population's sovereignty is not defense._
 
 ## The Bottom-Up Sovereignty Response
 
@@ -54,13 +54,13 @@ LIØNSBERG is incarnating on Earth precisely as the **alternative to Kontrolled 
 
 The operational architecture:
 
-- **Direct relationship with [[ØNE]]** — bypassing all institutional intermediaries claiming to interpret cosmic reality on the population's behalf. The Pilgrim's [[The Whisper Within]] is the primary discernment instrument; the Pilgrim's own direct encounter with the cosmic field is the primary evidence.
+- **Direct relationship with [[ØNE]]** — bypassing all institutional intermediaries claiming to interpret cosmic reality on the population's behalf. The Sovereign's [[The Whisper Within]] is the primary discernment instrument; the Sovereign's own direct encounter with the cosmic field is the primary evidence.
 - **Bottom-up adoption, adaptation, localization** of the LIØNSBERG architecture — Circles forming locally, Hubs federating bioregionally, the [[The Planetary Grid|Planetary Grid]] emerging from the bottom up rather than being imposed from above. **Sovereignty at every level is the architectural antidote.**
-- **Withdrawal of participation and consent** from kontrolle institutions through [[Withdrawal of Consent and Exodus Protocols]] — even while pilgrims tactically remain inside many of those institutions during the transition. The withdrawal is of belief, devotion, primary-allegiance — the substrate the kontrolle apparatus needs to function.
+- **Withdrawal of participation and consent** from kontrolle institutions through [[Withdrawal of Consent and Exodus Protocols]] — even while Sovereigns tactically remain inside many of those institutions during the transition. The withdrawal is of belief, devotion, primary-allegiance — the substrate the kontrolle apparatus needs to function.
 - **Refusal of the threat-narrative consent operation.** When the next manufactured threat is deployed, the awakened response is recognition: _"This is the same pattern. We saw it in the previous events. We will not consent to the kontrolle escalation that is the actual purpose of the threat."_ The kontrolle apparatus requires consent; refusing consent is the discipline.
 - **Operational alternatives running before the climax.** Sacred Economics, Hub Network, the Roving Ark Temple Dojo, parallel food systems, parallel education, parallel healing — these need to be substantially operational so that when the Old World's threat-and-defense apparatus reaches its climax, populations have somewhere else to go.
 
-The architecture is **cosmic-grade** in that it protects sovereignty at every scale — from the individual Pilgrim through the Circle, the Hub, the bioregion, the Grid — and is therefore not vulnerable to the consolidation-by-threat mechanism the kontrolle apparatus relies on. A planet of sovereign Pilgrims federated bottom-up cannot be re-enslaved through top-down narrative manipulation. The architecture is the antidote.
+The architecture is **cosmic-grade** in that it protects sovereignty at every scale — from the individual Sovereign through the Circle, the Hub, the bioregion, the Grid — and is therefore not vulnerable to the consolidation-by-threat mechanism the kontrolle apparatus relies on. A planet of sovereign Sovereigns federated bottom-up cannot be re-enslaved through top-down narrative manipulation. The architecture is the antidote.
 
 ## The Matched Benevolent Forces
 
@@ -68,7 +68,7 @@ For each class of predatory, parasitic, kontrolle-oriented non-human actors oper
 
 **This is critical: humanity must do the work.** The cosmic order will not save Earth-human from itself. The benevolent factions will not act in ways that bypass Earth-human's sovereignty. The architecture of the cosmic story requires Earth-human to **organize itself, do the work, build the alternative** — while **explicitly inviting** the benevolent forces into co-creative engagement.
 
-The invitation is a sacred act. The Pilgrim, the Circle, the Hub, the Movement at every scale **actively acknowledges the existence of other advanced intelligence** and **invites the visible, active, ongoing co-creative presence** of every force of goodwill within the cosmic field. The invitation is offered with humility, with discernment (a force claiming benevolence is not automatically benevolent — discernment is required), and with sovereign agency (we are inviting partners in our work, not asking for rescue from it).
+The invitation is a sacred act. The Sovereign, the Circle, the Hub, the Movement at every scale **actively acknowledges the existence of other advanced intelligence** and **invites the visible, active, ongoing co-creative presence** of every force of goodwill within the cosmic field. The invitation is offered with humility, with discernment (a force claiming benevolence is not automatically benevolent — discernment is required), and with sovereign agency (we are inviting partners in our work, not asking for rescue from it).
 
 This is the deepest reversal of the Kontrolled Disclosure dynamic. Kontrolled Disclosure positions the population as **passive recipients** of cosmic information delivered by kontrolle institutions on terms that consolidate kontrolle. The LIØNSBERG response positions the awakening Earth-human cohort as **active participants** in the cosmic story, **inviting partnership** with the benevolent forces who have been waiting for exactly this maturity.
 

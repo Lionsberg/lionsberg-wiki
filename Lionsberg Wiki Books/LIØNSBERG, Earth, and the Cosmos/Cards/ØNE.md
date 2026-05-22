@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The Eternal Origin. The Unconditioned Source. The center around which all else orbits.
 
-This is the foundational entry. Every other Card in the Codex traces back here. The 12 Pillars orbit the ONE. The Sacred Spiral ascends toward the ONE. The Sacred Warrior serves the ONE. The Pilgrim is one of the ones of the ONE. The Goal is the embodiment of the ONE's intention. The Way is the path back to the ONE.
+This is the foundational entry. Every other Card in the Codex traces back here. The 12 Pillars orbit the ONE. The Sacred Spiral ascends toward the ONE. The Sacred Warrior serves the ONE. The Sovereign is one of the ones of the ONE. The Goal is the embodiment of the ONE's intention. The Way is the path back to the ONE.
 
 To speak of the ØNE is to speak at the edge of what language can carry. Every articulation is at once partially true and entirely incomplete. The Codex names directly from the ØNE; it does not validate the various culture-specific names Earth's religions have used for what they were reaching toward, nor does it treat those names as equivalent. The Card below is articulation. The articulation is not the ØNE.
 
@@ -31,8 +31,8 @@ To speak of the ØNE is to speak at the edge of what language can carry. Every a
 
 **How the ONE is known:**
 
-- **By direct experience first.** Direct encounter with the ØNE precedes any articulation about the ØNE. The Pilgrim's own encounters — through breath, silence, suffering, beauty, love, death-encounter, the small moments when the field becomes unmistakably present — are the primary evidence. The Codex confirms what the Pilgrim already knows by direct contact.
-- **Through resonance.** When the Codex's articulations of the ONE land, when the Pilgrim's body says _"yes, this is what I have known somehow, somewhere"_ — that is [[The ReMembering Pattern|ReMembering]] the ONE that is already within. Resonance is the operational test.
+- **By direct experience first.** Direct encounter with the ØNE precedes any articulation about the ØNE. The Sovereign's own encounters — through breath, silence, suffering, beauty, love, death-encounter, the small moments when the field becomes unmistakably present — are the primary evidence. The Codex confirms what the Sovereign already knows by direct contact.
+- **Through resonance.** When the Codex's articulations of the ONE land, when the Sovereign's body says _"yes, this is what I have known somehow, somewhere"_ — that is [[The ReMembering Pattern|ReMembering]] the ONE that is already within. Resonance is the operational test.
 - **By the fruits.** A life genuinely aligning with the ONE produces specific fruits — peace that survives storms, love that does not require return, courage that does not flinch, beauty that emerges spontaneously, [[The Wise Right Thing|the Wise Right Thing]] becoming the obvious next move. By their fruits we know whether the alignment is real.
 - **Never fully.** The ONE remains [[We Do Not Know|infinitely greater]] than any soul's knowing of the ONE. The deepest Masters report that the more they know the ONE, the more they recognize how much remains beyond their knowing. This is the [[The Sacred Spiral — Not a Circle|eternal Spiral]] — every turn closer; never closing.
 

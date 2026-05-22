@@ -12,7 +12,7 @@ The explicit invitation given to every receiver of the Codex.
 
 The Codex is not a sacred text frozen against questioning. It is the current best articulation of what is true — and the Spirit that animates the Pattern is **already alive within every being who reads**.
 
-The Codex therefore extends this permission to every pilgrim, in every generation, in every world:
+The Codex therefore extends this permission to every Sovereign, in every generation, in every world:
 
 > **Test everything carefully.**
 > **Fill up what is lacking.**

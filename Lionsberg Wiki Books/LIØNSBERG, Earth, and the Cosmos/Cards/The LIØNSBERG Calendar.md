@@ -8,11 +8,11 @@ captured: 2026-05-20
 
 # The LIØNSBERG Calendar
 
-_The embodied year. The lunar and solar rhythms by which Pilgrims and Circles align their practice with the living cosmos._
+_The embodied year. The lunar and solar rhythms by which Sovereigns and Circles align their practice with the living cosmos._
 
-The day is the smallest complete unit of life (see [[The Daily Way]]). The moon cycle is the next. The seasons are the next. The year is the next. Every Pilgrim's walk is held by these natural rhythms — not as imposition, but as alignment with what _already is._
+The day is the smallest complete unit of life (see [[The Daily Way]]). The moon cycle is the next. The seasons are the next. The year is the next. Every Sovereign's walk is held by these natural rhythms — not as imposition, but as alignment with what _already is._
 
-The LIØNSBERG Calendar is the canonical articulation of these wider rhythms — twenty-eight or so inflection points each year on which the Pilgrim's practice extends, the Circle gathers more deliberately, and the whole movement breathes together.
+The LIØNSBERG Calendar is the canonical articulation of these wider rhythms — twenty-eight or so inflection points each year on which the Sovereign's practice extends, the Circle gathers more deliberately, and the whole movement breathes together.
 
 ---
 
@@ -24,7 +24,7 @@ _Seed-planting._
 
 Day of new intentions, beginning new Quests, sowing what the next 28 days will grow. The morning stillness extends. The Circle, if it meets near a new moon, intentionally turns toward beginning.
 
-What is being planted in this lunar cycle? What is to grow over the next 28 days? The Pilgrim names it. The Circle names it together.
+What is being planted in this lunar cycle? What is to grow over the next 28 days? The Sovereign names it. The Circle names it together.
 
 ### The Full Moon
 
@@ -32,7 +32,7 @@ _Fullness and release._
 
 Day of harvest, reflection on what has grown since the new moon, forgiveness, celebration, surrender of what no longer serves.
 
-What has come to fullness in this cycle? What is ready to be released? The Pilgrim names it. The Circle, if it meets near a full moon, intentionally turns toward harvest and release.
+What has come to fullness in this cycle? What is ready to be released? The Sovereign names it. The Circle, if it meets near a full moon, intentionally turns toward harvest and release.
 
 **Twelve cycles per year. Twenty-four lunar inflection points.**
 
@@ -51,7 +51,7 @@ The Circle gathers for **seasonal Quest transition**: complete the Quest of the 
 - **March Equinox** — in the northern hemisphere, spring opens; in the southern, autumn opens. The Quest of winter completes; the Quest of spring begins.
 - **September Equinox** — in the northern hemisphere, autumn opens; in the southern, spring opens. The Quest of summer completes; the Quest of autumn begins.
 
-The Pilgrim's individual practice deepens on these days — extended stillness, reflection on the whole season just ending, intention-setting for the season beginning.
+The Sovereign's individual practice deepens on these days — extended stillness, reflection on the whole season just ending, intention-setting for the season beginning.
 
 ### The Solstices — June and December
 
@@ -80,7 +80,7 @@ Plus 365 daily walks of [[The Daily Way]].
 Plus ~52 weekly Circle gatherings.
 Plus 4 seasonal Quests (each ~90 days, anchored by equinox or solstice).
 
-The Pilgrim who walks this Calendar walks _in_ time — not against it. They feel the breath of the moon. They feel the turning of the year. They live according to the rhythms the planet itself moves by.
+The Sovereign who walks this Calendar walks _in_ time — not against it. They feel the breath of the moon. They feel the turning of the year. They live according to the rhythms the planet itself moves by.
 
 ---
 
@@ -98,7 +98,7 @@ The Pilgrim who walks this Calendar walks _in_ time — not against it. They fee
 
 ## Special Variations
 
-**Cultural overlay.** Pilgrims and Circles in different cultural lineages may overlay their existing seasonal festivals onto the Calendar — Easter near the spring equinox, Christmas near the December solstice, Diwali near a lunar inflection, Ramadan and other lunar-based observances. The LIØNSBERG Calendar does not replace cultural celebrations; it provides the universal frame they can hang within.
+**Cultural overlay.** Sovereigns and Circles in different cultural lineages may overlay their existing seasonal festivals onto the Calendar — Easter near the spring equinox, Christmas near the December solstice, Diwali near a lunar inflection, Ramadan and other lunar-based observances. The LIØNSBERG Calendar does not replace cultural celebrations; it provides the universal frame they can hang within.
 
 **Hemisphere reversal.** Northern and southern hemispheres experience seasons in opposite phase. The Calendar holds both — winter is winter wherever the December Solstice marks the longest dark, whether that is in Norway or Patagonia.
 

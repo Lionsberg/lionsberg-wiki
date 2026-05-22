@@ -285,7 +285,7 @@ Freedom · Faith · Courage · Solidarity · Resourcefulness · Non-Attachment
 
 42 Empowering Action and Movement
 
-43 Serving the Fellow Pilgrim
+43 Serving the Fellow Sovereign
 
 44 Communing in Shared Deliverance
 

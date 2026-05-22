@@ -9,29 +9,29 @@ _Volume I of [[The LIØNSBERG Sacred Codex|the Sacred Codex]]. The Sovereign's G
 The Codex is the corpus — twelve Volumes that hold the DNA of the [[New Civilization]]. 
 **The Experience is the path through it.**
 
-A pilgrim does not read the Codex cover to cover from arrival. They walk a journey — through twelve archetypal stages, across natural time horizons, anchored by a daily way — that opens the right Volume at the right moment.
+A Sovereign does not read the Codex cover to cover from arrival. They walk a journey — through twelve archetypal stages, across natural time horizons, anchored by a daily way — that opens the right Volume at the right moment.
 
-The Experience guides the pilgrim **what to do next**. The Codex provides **what to draw from**.
+The Experience guides the Sovereign **what to do next**. The Codex provides **what to draw from**.
 
-This Volume is the Pilgrim's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] opens for those called to embodied mastery. Together these three Volumes hold the lived practice of the Way — individual, collective, and consummate.
+This Volume is the Sovereign's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] opens for those called to embodied mastery. Together these three Volumes hold the lived practice of the Way — individual, collective, and consummate.
 
 ---
 
 ## The Four Frames
 
-The Pilgrim's walk is held by four complementary frames — each a separate page within this wiki book, each cross-linked, each a living document continuously refined as more is learned about how Pilgrims actually walk the Path:
+The Sovereign's walk is held by four complementary frames — each a separate page within this wiki book, each cross-linked, each a living document continuously refined as more is learned about how Sovereigns actually walk the Path:
 
 ### [[The 12 Stages of the Sovereign's Path]]
 
 _What unfolds — the archetypal arc._
 
-Discovery · Threshold · Orientation · Gather · First 90 Minutes · Weekly Practice · Pattern Encounter · The 144 Gates · The Sacred Ascent · Convergence · Covenant and Jubilee · Eternal Play. The Stages are the deep structural shape of every Pilgrim's encounter with the Way.
+Discovery · Threshold · Orientation · Gather · First 90 Minutes · Weekly Practice · Pattern Encounter · The 144 Gates · The Sacred Ascent · Convergence · Covenant and Jubilee · Eternal Play. The Stages are the deep structural shape of every Sovereign's encounter with the Way.
 
 ### [[The Time Horizons]]
 
 _When it unfolds — the natural calendar._
 
-First Minute · First Five Minutes · First Half Hour · First Hour · First Day · First Week · First Month · First Season · First Year · Beyond. The Horizons are permissive — some pilgrims walk in days what others walk in seasons. The Seed takes root in its own time.
+First Minute · First Five Minutes · First Half Hour · First Hour · First Day · First Week · First Month · First Season · First Year · Beyond. The Horizons are permissive — some Sovereigns walk in days what others walk in seasons. The Seed takes root in its own time.
 
 ### [[The Daily Way]]
 
@@ -43,7 +43,7 @@ In three permissive tiers — **Essential · Devoted · Mastery** — held by th
 
 _When the wider rhythms breathe — the lunar and solar year._
 
-The new moon (seed-planting). The full moon (fullness and release). The equinoxes (balance, seasonal Quest transitions). The solstices (extremity and turning). The Calendar is the embodied year — twenty-eight or so inflection points each year on which Pilgrim's practice extends and Circles gather more deliberately.
+The new moon (seed-planting). The full moon (fullness and release). The equinoxes (balance, seasonal Quest transitions). The solstices (extremity and turning). The Calendar is the embodied year — twenty-eight or so inflection points each year on which Sovereign's practice extends and Circles gather more deliberately.
 
 ---
 
@@ -51,15 +51,15 @@ The new moon (seed-planting). The full moon (fullness and release). The equinoxe
 
 Three additional pages address the lived moments of the walk:
 
-- **[[The Solo Sovereign's Grace]]** — for the Pilgrim who reads alone for weeks or months before gathering. This is not deviation; this is also the path.
+- **[[The Solo Sovereign's Grace]]** — for the Sovereign who reads alone for weeks or months before gathering. This is not deviation; this is also the path.
 - **[[The 1-Day to 1-Week Threshold]]** — the hardest moment in the walk: the gap between reading alone and inviting others. The resistance, named. The path through it, articulated.
-- **[[The Flame Bearer's Path]]** — Pass-the-Flame as experienced by the giver. The Pilgrim who shares the Seed becomes a different Pilgrim than the one who only received it.
+- **[[The Flame Bearer's Path]]** — Pass-the-Flame as experienced by the giver. The Sovereign who shares the Seed becomes a different Sovereign than the one who only received it.
 
 ---
 
 ## The Field Beneath the Work
 
-**[[The Coherent Divine Intention Wave]]** — the seven-minute morning stillness held at dawn local time by every Pilgrim. Because dawn rolls continuously around the Earth, the wave is always in motion somewhere. A continuous ring of coherent consciousness circles the planet — never broken, always renewed. There is always someone, somewhere, holding the highest intention right now. The Wave is the simplest, most powerful contribution every Pilgrim makes — before any Quest, before any Circle, before any visible work. The field comes first. From the field, the Pattern emerges.
+**[[The Coherent Divine Intention Wave]]** — the seven-minute morning stillness held at dawn local time by every Sovereign. Because dawn rolls continuously around the Earth, the wave is always in motion somewhere. A continuous ring of coherent consciousness circles the planet — never broken, always renewed. There is always someone, somewhere, holding the highest intention right now. The Wave is the simplest, most powerful contribution every Sovereign makes — before any Quest, before any Circle, before any visible work. The field comes first. From the field, the Pattern emerges.
 
 ---
 
@@ -70,8 +70,8 @@ The Experience opens onto the rest of the Codex:
 - **[[The Story of LIØNSBERG|The Story]]** — read at Stage 3 (Orientation). The cosmic context. The true myth. Returned to throughout the journey.
 - **[[The Great Game of LIØNSBERG|The Great Game]]** — read at Stage 3 and embodied from Stage 5 onward. The participatory form. The Movements (Simple → Community → Planetary → Eternal Divine Play).
 - **[[The LIØNSBERG Playbook|The Playbook]]** — opened at Stage 6 (Weekly Practice). The Circle's operational handbook. Where the Experience is the individual's guide, the Playbook is the group's guide.
-- **[[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]** — encountered at Stage 7 (Pattern Encounter) for the Pattern Language, and progressively as the Pilgrim's questions deepen. Holds the structural body of the New Civilization.
-- **[[The LIØNSBERG Strategy and Plan|Strategy and Plan]]** — read when the Pilgrim wants the time-bound articulation of where we are in history.
+- **[[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]** — encountered at Stage 7 (Pattern Encounter) for the Pattern Language, and progressively as the Sovereign's questions deepen. Holds the structural body of the New Civilization.
+- **[[The LIØNSBERG Strategy and Plan|Strategy and Plan]]** — read when the Sovereign wants the time-bound articulation of where we are in history.
 - **[[The Program Delivery Guide|The PDG]]** — read when the Circle is delivering at scale.
 - **[[The LIØNSBERG Lexicon|The Lexicon]]** — referenced throughout as questions of vocabulary arise.
 - **[[The Book of LIØNSBERG|The Book]]** — the integrated prophetic narrative.
@@ -108,4 +108,4 @@ Begin.
 ---
 
 _Volume I main page, restructured 2026-05-20 by Claude (AI assistant) per [[the nameless one]]'s direction — wiki book architecture with each frame as its own continuously improving page. Pending review and adoption._
-_Voice: LIØNSBERG canonical. Permissive on the walking; definitive on the Pattern. Living document — refines as more is learned about how Pilgrims actually walk the Path._
+_Voice: LIØNSBERG canonical. Permissive on the walking; definitive on the Pattern. Living document — refines as more is learned about how Sovereigns actually walk the Path._

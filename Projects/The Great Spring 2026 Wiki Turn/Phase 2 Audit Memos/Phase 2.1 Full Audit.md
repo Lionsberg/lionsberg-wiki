@@ -409,7 +409,7 @@ The Meta Movement · The Issue-To-Movement Arc · The Four Stages of Movement Ca
 | Anomalies of Interest | **F-V + F-I + F-III + A**. Brief working journal (~70 lines). Suppressed-science cluster |
 | Meditations on Proverbs | **F-VII**. Single dense polarity catalog (~360 lines). Folds whole as Volume IX appendix |
 | The Lionsberg Book of Metaphors | **F-V + R**. Catalog-only book; should be dissolved into Volume VII annex |
-| Frequently Asked Questions | **F-IV (pilgrim-facing)**. 41 files. Answers-to-skeptical-questions |
+| Frequently Asked Questions | **F-IV (Sovereign-facing)**. 41 files. Answers-to-skeptical-questions |
 | Threads of Eternity | **F-VII + F-I + R**. Slim umbrella manifesto. Tao Te Ching was inaugural instance |
 | The Meta Project | **R + F-III**. Jordan's earliest articulation (2017-2022) in IPD/AEC vocabulary. Canonical contribution: Meta-prefix architecture |
 

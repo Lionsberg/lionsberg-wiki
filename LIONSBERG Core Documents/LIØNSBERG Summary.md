@@ -1,6 +1,6 @@
 # The LIØNSBERG Summary
 
-_The canonical summary of LIØNSBERG is the journey itself — held in the entry points each Pilgrim walks._
+_The canonical summary of LIØNSBERG is the journey itself — held in the entry points each Sovereign walks._
 
 - **[[README|Wiki Homepage]]** — the Golden Seed. What this is, what is at stake, the sacred invitation, the call to [[The First Three Percent]].
 - **[[Welcome to LIØNSBERG]]** — the deeper orientation. The Ground ([[ØNE]]), the Pattern (twelve irreducible elements), the Game (Circles · Quests · Rhythm), the Ascent.

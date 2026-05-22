@@ -32,11 +32,11 @@ They are designed as one. They are read as one. Each Volume points into the othe
 
 _The Sovereign's Guidebook. The 12 Stages, the Time Horizons, the Daily Way, the Wider Calendar. The individual's operational companion to the bound corpus._
 
-The Experience is the canonical guidebook for the Pilgrim's walk at the individual scale. Where [[The LIØNSBERG Playbook|Volume IV — The Playbook]] is the Circle's operational handbook and [[The Sacred Ascent|Volume X — The Sacred Ascent]] is the path of embodied mastery for those called, Volume I is what every Pilgrim walks: the daily, weekly, seasonal rhythm of the individual's encounter with the Way.
+The Experience is the canonical guidebook for the Sovereign's walk at the individual scale. Where [[The LIØNSBERG Playbook|Volume IV — The Playbook]] is the Circle's operational handbook and [[The Sacred Ascent|Volume X — The Sacred Ascent]] is the path of embodied mastery for those called, Volume I is what every Sovereign walks: the daily, weekly, seasonal rhythm of the individual's encounter with the Way.
 
 It holds four complementary frames. **The 12 Stages** — the archetypal arc: Discovery, Threshold, Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, [[Covenant and Jubilee — December 2033]], Eternal Play. **The Time Horizons** — the natural calendar: first minute, first hour, first day, first week, first month, first season, first year, beyond. **The Daily Way** — in three permissive tiers (Essential, Devoted, Mastery), where seven minutes of morning stillness held in the Coherent Divine Intention Wave is the structural floor. **The Wider Calendar** — the lunar and solar rhythms: new moon, full moon, equinoxes, solstices.
 
-Placed at Volume I because every entering pilgrim needs the path, the calendar, and the daily rhythm before they can navigate the rest of the journey.
+Placed at Volume I because every entering Sovereign needs the path, the calendar, and the daily rhythm before they can navigate the rest of the journey.
 
 ### Volume II — [[The Story of LIØNSBERG]]
 
@@ -138,11 +138,11 @@ Placed at Volume XII as the closing Volume — the inheritance handed forward, t
 
 The Codex is the corpus. **[[The LIØNSBERG Experience]] (Volume I) is the path through it.**
 
-A pilgrim does not begin by reading the twelve Volumes cover to cover. They walk the 12-Stage Sovereign's Path that Volume I articulates — from Discovery and Threshold through Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, the Covenant and Jubilee of December 2033, and the Eternal Play.
+A Sovereign does not begin by reading the twelve Volumes cover to cover. They walk the 12-Stage Sovereign's Path that Volume I articulates — from Discovery and Threshold through Orientation, Gather, First 90 Minutes, Weekly Practice, Pattern Encounter, the 144 Gates, the Sacred Ascent, Convergence, the Covenant and Jubilee of December 2033, and the Eternal Play.
 
-The Experience tells the pilgrim which Volume to reach into, and when. The eleven other Volumes sit behind it — bound, complete, ready to be drawn from.
+The Experience tells the Sovereign which Volume to reach into, and when. The eleven other Volumes sit behind it — bound, complete, ready to be drawn from.
 
-The pilgrim moves top-down — from the Seed, through the Experience, into the Volume that serves the moment. The Wiki itself is built bottom-up — every page either lives inside a Volume or serves one. Top-down and bottom-up meet in the canonical middle.
+The Sovereign moves top-down — from the Seed, through the Experience, into the Volume that serves the moment. The Wiki itself is built bottom-up — every page either lives inside a Volume or serves one. Top-down and bottom-up meet in the canonical middle.
 
 ---
 

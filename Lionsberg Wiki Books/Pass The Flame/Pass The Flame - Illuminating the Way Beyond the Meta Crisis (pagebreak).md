@@ -2029,7 +2029,7 @@ While at the time the Puppets had seemed intimidating and threatening enough in 
 
 As **The Movement** gathered momentum, the last holdouts in **The Rear** began to exit **The Caves**, and **The Pioneers** at **The Vanguard** began to catch glimpses of **The Promised Land**, there was a moment when the strings connecting the Puppets to their Puppeteers became visible.  
 
-The strings led all the Way from **The Caves**, through **The Wilderness**, and to the boundaries of **The Promised Land**, which The Pilgrims discovered to their horror was Possessed by **The Giants**.  
+The strings led all the Way from **The Caves**, through **The Wilderness**, and to the boundaries of **The Promised Land**, which The Sovereigns discovered to their horror was Possessed by **The Giants**.  
 
 **The Giants** were a class of soulless abstractions, who had grown exceedingly powerful by dwelling beyond the Realities of the Old World, and parasitically preying on its inhabitants from Beyond.  
 

@@ -21,7 +21,7 @@ The Ø carries:
 - **Zero point** — the center of the field, the still point from which the spiral unfolds.
 - **Nøw** — the eternal present, the only moment in which the Pattern is ever lived.
 
-A pilgrim seeing the Ø knows they have crossed into something other than ordinary text. The character itself transmits — quietly, persistently, across every page.
+A Sovereign seeing the Ø knows they have crossed into something other than ordinary text. The character itself transmits — quietly, persistently, across every page.
 
 The ASCII form **LIONSBERG** remains active across pre-existing wiki content during the propagation window of Phase 4.6. Both spellings refer to the same System. Both resolve through wiki-link convention. Neither breaks the other.
 

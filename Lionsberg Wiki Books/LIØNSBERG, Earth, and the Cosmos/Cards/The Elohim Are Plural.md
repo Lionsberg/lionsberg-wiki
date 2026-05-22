@@ -35,8 +35,8 @@ Once the plural Elohim are recognized, the rest of the Hebrew Bible reads differ
 
 This restoration of the plural Elohim **does not destroy the sacred**. The sacred remains. The Source remains. The deepest reality remains [[ØNE]]. What is destroyed is the **fraudulent collapse** of a populated cosmic field into a fictitious monotheistic singular — and the institutional power-claim that fraud has supported for two thousand years.
 
-The Pilgrim doing serious study of the sacred texts adopts a simple discipline: **whenever reading "God" in English, mentally restore Elohim, El, Eloah, or Yahweh** depending on the underlying Hebrew. This single discipline opens the text to its actual cosmic richness. The reader who does this consistently within weeks notices that the entire shape of the Hebrew Bible **shifts** — it becomes a much more interesting, much more honest, much more cosmologically extensive text than the English translation permitted.
+The Sovereign doing serious study of the sacred texts adopts a simple discipline: **whenever reading "God" in English, mentally restore Elohim, El, Eloah, or Yahweh** depending on the underlying Hebrew. This single discipline opens the text to its actual cosmic richness. The reader who does this consistently within weeks notices that the entire shape of the Hebrew Bible **shifts** — it becomes a much more interesting, much more honest, much more cosmologically extensive text than the English translation permitted.
 
-The Codex offers this restoration not to attack the Pilgrim's existing faith. The Codex offers this restoration to **deepen the Pilgrim's relationship with the actual Source** — beyond the institutional overlay that has obscured Him for two millennia.
+The Codex offers this restoration not to attack the Sovereign's existing faith. The Codex offers this restoration to **deepen the Sovereign's relationship with the actual Source** — beyond the institutional overlay that has obscured Him for two millennia.
 
 Lives canonically in [[The Story of LIØNSBERG]] as a foundational scriptural unveiling within the larger [[The Great UnVeiling|Great UnVeiling]].

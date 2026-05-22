@@ -12,7 +12,7 @@ The work of conscious co-creators.
 
 The Cosmos is alive. The Worlds within it — planets, biospheres, cultures, civilizations, the inner Worlds of each Being — are themselves living realities. Living realities can flourish; they can decay; they can be regenerated. **Regeneration is the work.**
 
-The plural matters. "Our Worlds" — not "the world" or "our world." The Pilgrim attends to many Worlds at once:
+The plural matters. "Our Worlds" — not "the world" or "our world." The Sovereign attends to many Worlds at once:
 
 - **The inner World** of the Self — the body, the consciousness, the field, the relational web
 - **The intimate Worlds** of family, household, Circle
@@ -21,7 +21,7 @@ The plural matters. "Our Worlds" — not "the world" or "our world." The Pilgrim
 - **The biospheric World** of Earth as a living planetary being
 - **The cosmic Worlds** beyond Earth that participate in the larger return
 
-Each World is real. Each World can be flourishing or degenerating at any moment. Each World is the site of work. The Pilgrim regenerates each, in turn, across a lifetime — and the Worlds regenerate the Pilgrim in return.
+Each World is real. Each World can be flourishing or degenerating at any moment. Each World is the site of work. The Sovereign regenerates each, in turn, across a lifetime — and the Worlds regenerate the Sovereign in return.
 
 What Regeneration looks like operationally:
 
@@ -34,14 +34,14 @@ The principle has direction:
 
 - **Toward greater life, never less.** The Cosmos breathes outward into greater complexity, consciousness, coherence, beauty. Regeneration aligns with this breath.
 - **Toward The ØNE, never away.** Every act of genuine Regeneration is movement of return — the Wound becoming whole; the dispersed Notes returning toward the Symphony; the fragmented World remembering its participation in the larger ONE.
-- **Toward [[Heaven and Hell as Co-Created Trajectories|Heaven On Earth]], never less.** The Pilgrim is not regenerating to baseline; the Pilgrim is regenerating toward what is being born — the Worlds as they were always meant to be.
+- **Toward [[Heaven and Hell as Co-Created Trajectories|Heaven On Earth]], never less.** The Sovereign is not regenerating to baseline; the Sovereign is regenerating toward what is being born — the Worlds as they were always meant to be.
 
 The work has signatures:
 
 - **It is real.** Measurable. The soil tests differently after years of regenerative agriculture. The community feels different after years of [[The Pedagogy of Trust and Sirimiri|patient formation]]. The body shows different markers after consistent practice. Regeneration leaves evidence.
-- **It is multigenerational.** Most Worlds take longer than a single life to fully regenerate. The Pilgrim accepts that their work seeds what later generations will harvest. The discipline carries across centuries, transmitted through covenant, lineage, and Pattern.
-- **It is communal.** No Pilgrim regenerates a World alone. The Circle, the Hub, the bioregional federation — each is the operational vessel of Regeneration at its scale.
-- **It is sacred.** The Pilgrim doing the work is doing the work of the ØNE. The ØNE regenerates Worlds through the conscious participation of those willing to be vessels. The work and the worker are not separate; the work is one of the ways the ØNE moves.
+- **It is multigenerational.** Most Worlds take longer than a single life to fully regenerate. The Sovereign accepts that their work seeds what later generations will harvest. The discipline carries across centuries, transmitted through covenant, lineage, and Pattern.
+- **It is communal.** No Sovereign regenerates a World alone. The Circle, the Hub, the bioregional federation — each is the operational vessel of Regeneration at its scale.
+- **It is sacred.** The Sovereign doing the work is doing the work of the ØNE. The ØNE regenerates Worlds through the conscious participation of those willing to be vessels. The work and the worker are not separate; the work is one of the ways the ØNE moves.
 
 Many Earth-traditions have touched this work and given it names — covenant partnership with the Source, conscious stewardship of creation, the sacred work of repair, the Great Work, the building of the City, the restoration of right relationship. The names differ; the work is one. The Codex names it simply: **Regenerating Our Worlds**.
 
@@ -49,4 +49,4 @@ Across the long cosmic arc, this is part of what the awakening Earth-human cohor
 
 Begin where you are. The smallest World you can regenerate is the breath you just took. The largest is the cosmic field your conscious orientation contributes to. Both are real. Both are work. **Begin.**
 
-Lives canonically in [[The Story of LIØNSBERG]] as the canonical articulation of the cosmic-and-personal work the Pilgrim is invited into.
+Lives canonically in [[The Story of LIØNSBERG]] as the canonical articulation of the cosmic-and-personal work the Sovereign is invited into.

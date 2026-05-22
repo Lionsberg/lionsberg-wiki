@@ -34,7 +34,7 @@ The principle generalizes. Wherever the Pattern operates:
 - **A bioregion cooperates internally** — and **engages externally** with the broader planetary economy through trade that respects [[Capital as Subordinate Tool|Capital as Subordinate Tool]] and [[The Means Are The Ends|the Means Are The Ends]].
 - **The Movement cooperates internally** ([[Honoring Dissent]], distributed leadership, federation) — and **engages externally** with the Old World by **building the alternative so visibly that it cannot be ignored**.
 
-The discipline also resolves a common confusion among the awakened. Some Pilgrims arrive at the Pattern with an aversion to competition — having recognized that Old-World competition is often predatory, destructive, and reduces life to status games. They imagine that the New Civilization will be purely cooperative, with no competition anywhere. **This is a misunderstanding.**
+The discipline also resolves a common confusion among the awakened. Some Sovereigns arrive at the Pattern with an aversion to competition — having recognized that Old-World competition is often predatory, destructive, and reduces life to status games. They imagine that the New Civilization will be purely cooperative, with no competition anywhere. **This is a misunderstanding.**
 
 There is **healthy competition**: the competition for excellence within a craft, the competition between athletes pushing each other higher, the competition between Circles whose Quests overlap, the competition between alternative articulations of a Pattern. Healthy competition raises the floor; predatory competition lowers the ceiling. The Pattern preserves the former while refusing the latter.
 

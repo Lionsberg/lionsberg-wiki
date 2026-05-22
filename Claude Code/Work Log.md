@@ -1002,7 +1002,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 **Insights:**
 - **The Constitutional Charter face of Volume V** — recognizing that Volume V's four-faced self-description (architectural plan + constitutional charter + field manual + scriptural seed) cleanly places the Constitution within Volume V alongside the Pattern Language. Elegant structural resolution.
 - **The Card Method generalizes** — the capture-and-emergence discipline extends from Cards (in the Card-Book) to the Constitutional Card pattern (six-section structure for Article drafting); the practice is more general than its original Card-Book scope.
-- **The Sacred Codex is one work in eight movements** — accessibility-first ordering reveals that the Volumes themselves enact the Pilgrim's progression (Story orients → Game gathers → Playbook runs → deeper structural body for those who descend).
+- **The Sacred Codex is one work in eight movements** — accessibility-first ordering reveals that the Volumes themselves enact the Sovereign's progression (Story orients → Game gathers → Playbook runs → deeper structural body for those who descend).
 - **The Universe Guide is the seed of the seed** — the eight Volumes carry the work; the Universe Guide carries the discipline that makes the work coherent across generations of authors (human and AI).
 - **The Story dual-functional resolution** — the realization that Volume II (standalone) and [[The Story of LIØNSBERG]] are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
 

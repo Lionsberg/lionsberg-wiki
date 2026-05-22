@@ -38,11 +38,11 @@ It also explains the **internal contradictions** of the human:
 
 The contradictions are not paradoxes of philosophy; they are **registers in the genome**. Different lineages, different blendings, different activations. The hybrid is unstable by design — and the instability is the **opening**. A purebred species cannot transform. A hybrid species can choose which strands to activate and which to compost.
 
-This is what the awakening is, at the biological layer: **the conscious activation of dormant inheritance, and the conscious deactivation of contaminated inheritance**. The Pilgrim who awakens is not becoming someone they are not. The Pilgrim is **switching on what was always there**, switching off what was inserted by the predators.
+This is what the awakening is, at the biological layer: **the conscious activation of dormant inheritance, and the conscious deactivation of contaminated inheritance**. The Sovereign who awakens is not becoming someone they are not. The Sovereign is **switching on what was always there**, switching off what was inserted by the predators.
 
-The implications for Pillar V (Sacred Health and Wellness) are vast. Healing is not symptom-management; healing is genetic-and-energetic reactivation. The medicines, foods, practices, and frequencies that align with the Pilgrim's authentic lineage are healing. The medicines, foods, practices, and frequencies that activate the contaminated strands are deepening the disease.
+The implications for Pillar V (Sacred Health and Wellness) are vast. Healing is not symptom-management; healing is genetic-and-energetic reactivation. The medicines, foods, practices, and frequencies that align with the Sovereign's authentic lineage are healing. The medicines, foods, practices, and frequencies that activate the contaminated strands are deepening the disease.
 
-The implications for Pillar I (metaphysics) are also vast. The Pilgrim is not "becoming spiritual"; the Pilgrim is **ReMembering** what is encoded in the body — and the body is willing, because the dormant inheritance has been waiting for activation since the Withdrawal.
+The implications for Pillar I (metaphysics) are also vast. The Sovereign is not "becoming spiritual"; the Sovereign is **ReMembering** what is encoded in the body — and the body is willing, because the dormant inheritance has been waiting for activation since the Withdrawal.
 
 Humanity is hybrid. Humanity is awakening. The two are one process, unfolding now.
 

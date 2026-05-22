@@ -8,7 +8,7 @@ captured: 2026-05-18
 
 # The Layered Architecture
 
-The LIØNSBERG Wiki is built in layers — top-down for the pilgrim, bottom-up for the corpus:
+The LIØNSBERG Wiki is built in layers — top-down for the Sovereign, bottom-up for the corpus:
 
 **The Seed (Threshold).**
 `README.md` — The Golden Seed of LIØNSBERG. The single shared link, the first crossing. Stage 1 of [[The 12 Stages of the Sovereign's Path]].
@@ -22,7 +22,7 @@ The LIØNSBERG Wiki is built in layers — top-down for the pilgrim, bottom-up f
 **The Living Substrate.**
 Every other page in the Wiki. Each lives within a Volume or in service of one. Pattern entries, Lexicon entries, Plays, Quests, supporting articulation, archived precursors — all of it.
 
-The pilgrim experiences the architecture **top-down** — from the Seed inward through the Experience to the Volume that serves the moment.
+The Sovereign experiences the architecture **top-down** — from the Seed inward through the Experience to the Volume that serves the moment.
 
 The Wiki is organized **bottom-up** — every page either lives inside a Volume or serves one.
 
