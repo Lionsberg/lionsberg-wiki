@@ -25,6 +25,6 @@ The Sacred Warrior exists because **the New Civilization is not pacifist in the 
 
 The Sacred Warrior practices **[[Sacred Guardianship — Neutralizing the Predatory]]** as their living discipline. They are the Warrior archetype within [[The Archetypal Codexes Within The Pattern]] of the Pattern Language.
 
-Where a soldier obeys orders, the Sacred Warrior obeys the Way. Where a soldier escalates, the Sacred Warrior de-escalates when possible. Where a soldier defends an empire, the Sacred Warrior defends the Body of LIØNSBERG, the more-than-human world, and the sovereignty of every being.
+Where a soldier obeys orders, the Sacred Warrior obeys the Way. Where a soldier escalates, the Sacred Warrior de-escalates when possible. Where a soldier defends an empire, the Sacred Warrior defends the Body of LIØNSBERG, the living world, and the sovereignty of every being.
 
 This is the [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|general of cosmic armies]] half of the LIØNSBERG voice **made flesh** in a being.

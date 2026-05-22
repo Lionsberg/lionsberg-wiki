@@ -12,7 +12,7 @@ A constitutional declaration of sovereignty across species, worlds, and dimensio
 
 **No being shall subjugate another.**
 
-Not human over human. Not human over more-than-human. Not non-human intelligence over human. Not higher-density being over lower-density being. Not any species, faction, or order over any other.
+Not human over human. Not human over the wider community of life. Not other intelligences over human. Not higher-density being over lower-density being. Not any species, faction, or order over any other.
 
 This is not a wish. It is the constitutional commitment of LIØNSBERG. The New Civilization is constituted on the explicit, public, declarable position that the era of subjugation — across the Cosmos, not just on Earth — is over. Whoever enters LIØNSBERG enters under this Treaty. Whoever attempts to violate it is met with the protocols of [[Sacred Guardianship — Neutralizing the Predatory]].
 

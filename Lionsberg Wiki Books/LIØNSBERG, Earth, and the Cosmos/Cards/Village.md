@@ -1,6 +1,6 @@
 # Village
 
-_The scale at which everyone can still know everyone. Roughly 50 to 150 sovereigns. The Dunbar break — beyond which individual voices, names, faces, and relationships become structurally hard to hold, and a different kind of mediation is required._
+_The scale at which everyone can still know everyone. Roughly 50 to 150 sovereigns. Beyond which individual voices, names, faces, and relationships become structurally hard to hold, and a different kind of mediation is required._
 
 ---
 
@@ -8,7 +8,7 @@ A **Village** is the scale where direct human relationship still works.
 
 Below a few hundred people, **every person can still know every other person** — their name, their family, their craft, their gift, their grief, their joy. Decisions can be made by direct conversation. Trust is built face to face over time. Conflicts can be resolved without intermediaries. The whole is small enough to be held in human attention.
 
-**Above 150 or so**, this changes. Names start to slip. Faces become unfamiliar. Direct relationship gives way to representation, structure, story, and ritual as the means by which a body coheres. This is the **Dunbar break** — the cognitive limit on the number of stable social relationships any one person can hold.
+**Above 150 or so**, this changes. Names start to slip. Faces become unfamiliar. Direct relationship gives way to representation, structure, story, and ritual as the means by which a body coheres. Anthropology, primatology, organizational studies, military history, and lived village experience all point to this same threshold from different angles. Robin Dunbar's research on neocortex-to-social-group ratios is one well-known pointer; Hutterite colonies splitting at ~150 is another; hunter-gatherer band sizes are another; effective military company sizes are another. The threshold is real and consistent.
 
 The Village sits **between [[Circle|the Circle]] and [[Community|the Community]]** in the holofractal scaling:
 
@@ -38,16 +38,16 @@ The Village in LIØNSBERG holds:
 - **Cultural texture** — the songs, the foods, the seasonal rhythms, the local stories
 - **The natural unit of secession** — when something larger fails, the Village can stand alone
 
-## The Dunbar Break
+## Crossing The Threshold
 
-The number ~150 is not arbitrary. Robin Dunbar's research on neocortex size in primates found a consistent ratio between brain capacity and stable social-group size. Humans land at approximately 150 stable relationships at maximum. Crossing this break requires:
+The number ~150 is not arbitrary, though no single discipline owns it. Many independent lines of evidence point to the same cognitive-relational ceiling: the maximum stable social network a human can hold by direct knowing alone. Crossing this threshold requires:
 
-- **Structural representation** — not everyone can speak to everyone
-- **Named anchors** — [[The 300]] at the ten-thousand scale, etc.
+- **Structural representation** — not everyone can speak to everyone directly
+- **Named anchors** — [[The 300]] at the ten-thousand scale; analogous patterns at every scale beyond
 - **Pattern, not personality** — the Body coheres by shared Pattern, not by everyone knowing the chief
 - **Written agreement and ritual** — what was held in direct memory now needs to be held in form
 
-These developments are not failures. They are the appropriate adaptations of a body crossing into a different scale of organization. The Village is the last scale where direct knowing alone suffices.
+These developments are appropriate adaptations of a body crossing into a different scale of organization. The Village is the last scale where direct knowing alone suffices.
 
 ## Distinguished From
 

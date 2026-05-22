@@ -27,7 +27,7 @@ What the Template is **not**:
 
 - An accident of random mutation on this planet
 - The pinnacle of evolution (it is one form among many in the Cosmos)
-- A privileged status that subordinates other Earth life (the Template carries responsibility for the more-than-human, not dominion over it)
+- A privileged status that subordinates other Earth life (the Template carries responsibility for all our relatives, not dominion over them)
 - Fixed and unchangeable (the Template has been tampered with across the millennia; restoration is part of the Turn's work — see [[Trauma as Master Key of Slavery]] and the engineered assaults on biology / hormones / fertility / genome)
 
 The Human Template on Earth is **wounded** — by deliberate tampering, by environmental degradation, by trauma, by genetic insertion / suppression, by the long predation. The Restoration Codex (one of [[The Archetypal Codexes Within The Pattern]]) addresses this wound directly. The work of restoring the Template to its full design is part of what [[Covenant and Jubilee — December 2033]] makes available.

@@ -17,7 +17,7 @@ The relational law of the New Civilization.
 These twin laws govern:
 
 - How humans relate to one another (in Circles, Communities, Bioregions).
-- How humans relate to the more-than-human world (land, water, ecosystems, animals).
+- How humans relate to the living world (land, water, ecosystems, animals).
 - How humans relate to non-human intelligences (across species and dimensions).
 - How beings relate to [[ØNE]] (the foundational reciprocity).
 

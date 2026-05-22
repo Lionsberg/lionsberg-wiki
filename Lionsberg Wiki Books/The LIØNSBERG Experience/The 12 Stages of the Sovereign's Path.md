@@ -81,7 +81,7 @@ The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, W
 
 **Encounter.**
 
-As real questions arise about real things — governance, economy, conflict, federation, healing, education, the more-than-human world, the cosmic — the Circle reaches into [[The LIØNSBERG Pattern Language|the Pattern Language]] (Part VI of [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]) for the specific Patterns that answer specific questions. The Pattern is met not as theory but as living answer.
+As real questions arise about real things — governance, economy, conflict, federation, healing, education, the living world, the cosmic — the Circle reaches into [[The LIØNSBERG Pattern Language|the Pattern Language]] (Part VI of [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]]) for the specific Patterns that answer specific questions. The Pattern is met not as theory but as living answer.
 
 The Pattern is the Way. The Way is the Pattern. Every question of how-to-do-this-rightly is a question of which Pattern is operating here.
 
