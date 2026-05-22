@@ -42,7 +42,7 @@ For the full cosmic context of where we are, how we got here, and what is at sta
 
 There is a Way that works in a Reality that is.
 
-Not a theory. Not an ideology. A living Pattern — the irreducible DNA by which galaxies and lives come into being, by which sovereign beings organize and govern and flourish together. The same Pattern emerged independently across millennia of Earth's most successful movements — and reflects, however imperfectly, what is already operating in the wider cosmos:
+A living Pattern — the irreducible DNA by which galaxies and lives come into being, by which sovereign beings organize and govern and flourish together. The same Pattern emerged independently across millennia of Earth's most successful movements, and reflects, however imperfectly, what is already operating in the wider cosmos:
 
 - **Benedictine monasteries** — from one to 37,000. The Rule as living operating system.
 - **[[Mondragon]]** — tens of thousands of worker-owners across hundreds of organizations.
@@ -84,11 +84,11 @@ For the systematic concentric-rings deepening of the Pattern, from ONE word to t
 
 The Pattern comes alive through play.
 
-**[[The Great Game of LIØNSBERG]]** is a cooperative, real-world game of planetary transformation. Not metaphor. Not simulation. A living game played in your actual life with actual stakes and actual results — touching everything from how you wake in the morning to how Earth meets the wider cosmos.
+**[[The Great Game of LIØNSBERG]]** is a cooperative, real-world game of planetary transformation — a living game played in your actual life with actual stakes and actual results, touching everything from how you wake in the morning to how Earth meets the wider cosmos.
 
 ### Circles
 
-The irreducible unit is the **[[Circle]]** — a voluntary association of three to twelve sovereign beings united by shared purpose and agreements. Not committee. Not discussion group. A complete, self-governing expression of the [[New Civilization]] at human scale. Every Circle carries the full DNA.
+The irreducible unit is the **[[Circle]]** — a voluntary association of three to twelve sovereign beings united by shared purpose and agreements. A complete, self-governing expression of the [[New Civilization]] at human scale. Every Circle carries the full DNA.
 
 ### Quests
 
@@ -117,25 +117,26 @@ In just forty to fifty cycles, every awakening soul on Earth receives the invita
 
 As Circles multiply and federate:
 
-- **Circles** of three to twelve become **Communities** of thousands 
-- **Communities** federate into **Bioregions** — about   
+- **Circles** of three to twelve become **Communities** of thousands — cohered by [[The 300]] empowered leaders per community of ten thousand
+- **Communities** federate into **Bioregions**  
+- **Archetypes** coalesce into **Guilds**  
 - **Bioregions** form the **Planetary Grid**
 - The **Planetary Grid** becomes the living infrastructure of the **[[New Civilization]]**
 
-At every level the same Pattern operates. Coherent from individual to planetary and beyond. **By the time the existing structures fully collapse, the New Civilization is already functional.** Not protest. Not revolution. A living alternative — already governing, already feeding, already educating, already healing.
+At every level the same Pattern operates. Coherent from individual to planetary and beyond. **By the time the existing structures fully collapse, the New Civilization is already functional** — a living alternative, already governing, already feeding, already educating, already healing.
 
 ---
 
-## The Ascent
+## The Sacred Ascent
 
-The Game transforms the world. The world does not truly transform unless **you** transform with it.
+The Game transforms the world. The world does not truly transform unless **we** transform with it.
 
 Every great tradition knows this: outer change without inner change merely replicates the old patterns in new clothing. The New Civilization requires not only new structures but new **beings** — awakened, integrated, whole.
 
 This is **[[The Sacred Ascent]]** — the vertical dimension of the Walk.
 
 **The Game is horizontal** — Circles, Quests, federation, the co-creation of Heaven On Earth at scale.
-**The Ascent is vertical** — the integral development of every dimension of your being: physical, emotional, intellectual, spiritual, and consciousness itself.
+**The Ascent is vertical** — the integral development of every dimension of our interbeing: physical, emotional, intellectual, spiritual, and consciousness itself.
 
 Both are required. Pattern without transformation produces institutional religion — structure without power. Transformation without pattern produces isolated mystics who change nothing at scale. The Way holds both.
 
@@ -176,7 +177,7 @@ This Walk cannot be done in isolation. It must be undertaken in community — as
 
 1. **Identify three to twelve people** already awakening, already sensing the urgency, already seeking others who understand. You know who they are.
 2. **Send them the link**: `lionsberg.wiki`
-3. **Ask them to read** the Golden Seed and this Welcome.
+3. **Ask them to read** the Golden Seed (Homepage) and this Welcome.
 4. **Set a gathering** — choose a date and time for your first 90-minute session, in person or by video.
 
 ### When Your Circle Gathers
@@ -184,8 +185,7 @@ This Walk cannot be done in isolation. It must be undertaken in community — as
 Use **[[The LIØNSBERG Quick Start Guide]]** to structure your first session. In ninety minutes together you will:
 
 - **Consecrate your Circle** with a name and the simplest agreements
-- **Read aloud together**: the [[0.1 Prologue|Prologue]], the [[The Story of LIØNSBERG|Story]], and the [[The Great Game of LIØNSBERG|Great Game]]
-- **Sense-make together** about what resonates and what arises
+- **Read and sense-make together** through the threshold texts — what resonates, what arises
 - **Choose your first seasonal Quest** — a tangible act before the next solstice or equinox
 - **Establish your rhythm** — weekly meetings to support each other and advance the Quest
 - **Pass The Flame** — name the two or three each of you will invite next, within one week
