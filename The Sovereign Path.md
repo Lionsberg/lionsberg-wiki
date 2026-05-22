@@ -9,6 +9,10 @@ The Sovereign Path is the lifetime arc — from the moment the **[[Golden Seed]]
 
 The actor of the Path is the **Sovereign**. Many Sovereigns walking together at every scale are **[[Fractal Sovereignty|Fractal Sovereigns]]**. The Walk does not erase the one in favor of the many or the many in favor of the one — it holds them as [[ØNE Body]] composed of sovereign cells, sovereign tissues, sovereign organs, sovereign systems, all walking the same Path.
 
+**LIØNSBERG is a Prototype, not the eternal essence.** It is one faithful articulation of conscious and competent participation in the underlying reality that already interis — one operational seed available to those who would rather not start from scratch. The Codex points to Reality; it does not claim to contain it. See [[LIØNSBERG Is A Prototype, Not The Eternal Essence|the Prototype Card]].
+
+_(The 9-layer model — Layer Ø ONE / Layer I Eternally Nameless Superorganism / Layer II Currently or Already Named Superorganism / Layers III–VIII the operational stack — is in active refinement on the [[Superorganism-Earth]] companion repo. The cosmic frame imports here once it stabilizes there.)_
+
 ---
 
 ## The Threshold — Crossing Into The World

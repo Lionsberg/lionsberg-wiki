@@ -3,7 +3,7 @@
 
 ## You Are Here
 
-You have read [[Welcome to LIØNSBERG]]. You have gathered your circle of 3 to 12 resonant souls. You are sitting together — in person or connected by video.
+You have crossed the threshold. You have read [[Welcome to LIØNSBERG]]. You have gathered your circle of 3 to 12 resonant souls. You are sitting together — in person or connected by video. **The Walk begins here.**
 
 This guide will walk you through **your first 90 minutes together** — what to read aloud, how to sense-make as a group, and how to choose your first quest.
 
