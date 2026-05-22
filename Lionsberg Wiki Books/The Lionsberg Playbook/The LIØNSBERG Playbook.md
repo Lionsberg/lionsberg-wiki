@@ -64,9 +64,15 @@ The earliest Plays in a Sovereign's walk:
 
 ---
 
+## The Playbook Chart
+
+The canonical Plays × Patterns composition map lives at **[[The Playbook Chart]]** — the continuously-improving cross-reference between every Play and the Patterns that compose it. Read it top-to-bottom for Plays-and-their-Patterns; read the Reverse Index for Patterns-and-the-Plays-that-invoke-them.
+
+The Chart is the **shared navigation tool** between this Playbook and **[[The LIØNSBERG Pattern Language|Vol V Part — The Pattern Language]]**. When a new Pattern is articulated, its invocation-contexts are visible. When a new Play is composed, the Patterns it needs are visible. The two Volumes are **interexistent through the Chart.**
+
 ## The Plays (under construction)
 
-The canonical set of Plays organized by lifecycle category. Each Play in this index lives at `Plays/Play — Title.md`. Most Plays will be authored or migrated during the Pattern Language + Playbook rebuild currently underway.
+The canonical set of Plays organized by lifecycle category. Each Play in this index lives at `Plays/Play — Title.md`. Most Plays will be authored or migrated during the Pattern Language + Playbook rebuild currently underway. **See [[The Playbook Chart]] for what Patterns each Play invokes.**
 
 ### Foundation — Convening The Body
 
