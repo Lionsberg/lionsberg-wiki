@@ -265,7 +265,7 @@ _How Earth is held._
 _How meaning is carried._
 
 - **Intent:** Operationalize the shared narrative life through which a People is constituted. Culture is not decoration; it is the medium through which the Pattern actually transmits across generations.
-- **Principles:** Story as the primary vehicle. Art as sacred practice. Music, ceremony, ritual as load-bearing structures of collective meaning. Cultural transmission as a Commons. The refusal of cultural enclosure and appropriation.
+- **Principles:** Story as the primary vehicle. Art as sacred practice. Music, ceremony, ritual as the structures that carry collective meaning. Cultural transmission as a Commons. The refusal of cultural enclosure and appropriation.
 - **Articulation:** The ~12 Theses for Sacred Culture. The Social and Cultural System. The Communications System. Cultural commons standards. Sacred arts forms — geometry, sound, light, language. The Storyteller's craft. The relationship between local cultural expression and the unifying Pattern.
 - **Patterns:** _Pointers to Part VI:_ [[Story as the Vehicle]] · [[Sacred Arts]] · [[Cultural Commons]] · [[The Storyteller's Craft]] · [[Local Expression Universal Pattern]].
 

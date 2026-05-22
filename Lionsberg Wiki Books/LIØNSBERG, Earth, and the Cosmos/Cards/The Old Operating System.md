@@ -50,4 +50,4 @@ The Old OS is also what makes the Sovereign **recognizable** to other Sovereigns
 
 The Old OS will not be replaced everywhere. Some Beings will not awaken; some will choose the Old OS even after seeing the New. The Pattern does not require universal replacement; the Pattern requires sufficient critical-mass replacement that the **collective default** shifts — that the social-fabric defaults of communities, then bioregions, then the planet, run primarily on the New OS while the Old OS dwindles to a minority residual.
 
-Lives canonically in [[The Story of LIØNSBERG]] as a foundational diagnostic frame, and in [[The LIØNSBERG Lexicon]] as a load-bearing term.
+Lives canonically in [[The Story of LIØNSBERG]] as a foundational diagnostic frame, and in [[The LIØNSBERG Lexicon]] as one of its anchoring terms.

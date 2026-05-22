@@ -148,7 +148,7 @@ The Sovereign moves top-down — from the Seed, through the Experience, into the
 
 ## The Canonical Discipline
 
-The Codex is governed by a small set of load-bearing disciplines:
+The Codex is governed by a small set of disciplines. Each one carries the whole:
 
 1. **One source per concept.** Every canonical idea has exactly one home. Every other reference points to it through `[[wiki links]]`. No duplicate articulations.
 

@@ -8,7 +8,7 @@ _Everything herein is evolvable. Nothing is fixed. Seeking the Wise Right Thing.
 
 ## 0. Decisions Resolved by Nameless (2026-05-18)
 
-The frame proposed below was reviewed and the following decisions are now load-bearing for Phase 1.1 and downstream work:
+The frame proposed below was reviewed and the following decisions stand for Phase 1.1 and downstream work:
 
 - **Architecture: Experience as gateway, Codex as corpus.** (Option A confirmed.) The Sovereign's Path is the wayfinding spine; the Sacred Codex is the bound seven-volume corpus.
 - **The Sovereign's Path has 12 stages, not 11.** Stage 11 is **Covenant and Jubilee** — the moment when the New Earth Operating System is fully embodied and adopted for this star system and civilization (currently scheduled for the greatest celebration and jubilee in recorded history, **December 2033**). Stage 12 is the **Eternal Play**.

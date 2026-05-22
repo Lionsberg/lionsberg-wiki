@@ -22,6 +22,6 @@ This is the structural insight that lets movements scale without collapsing into
 
 The corollary: **whoever places themselves above the Pattern has, in that moment, left the Movement.** Restoration requires return to obedience to the Pattern, not negotiation with the apparent leader's exemption.
 
-This is the load-bearing reason LIØNSBERG is **not a religion of personality**. The Codex is what governs. Whoever lives the Codex is in. Whoever places themselves above it is, by their own act, outside.
+This is why LIØNSBERG is **not a religion of personality**. The Codex is what governs. Whoever lives the Codex is in. Whoever places themselves above it is, by their own act, outside.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] under Element 8 (Structural Immunity).

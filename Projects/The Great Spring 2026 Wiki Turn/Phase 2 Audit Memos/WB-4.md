@@ -213,7 +213,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
    - Treats specific Hebrew-scholarly hypotheses (Marcion's framework, Dead Sea Scrolls textual variants) as settled fact rather than hypothesis-grade per the user's Truth Handling Protocol §6.1.
    - The repeated section "the Sovereign does not lose God by unveiling Yahweh; the Sovereign **gains** the actual God" carries a tonal triumphalism that source-elevates the Codex's reading above the traditions it critiques.
    - The "Sufi insistence" framing elevates one Islamic interior tradition over surface Qur'anic reading — same source-elevation pattern.
-   - **Recommendation:** Either archive in favor of a more universal Card (e.g., "The Tribal-Source Distinction" — observing across multiple traditions the same pattern of conflating a tribal deity with the eternal Source, without naming Yahweh specifically as the load-bearing example), OR substantially soften the rhetoric, mark the scriptural claims hypothesis-grade, and remove the institutional-fraud framing.
+   - **Recommendation:** Either archive in favor of a more universal Card (e.g., "The Tribal-Source Distinction" — observing across multiple traditions the same pattern of conflating a tribal deity with the eternal Source, without naming Yahweh specifically as the central example), OR substantially soften the rhetoric, mark the scriptural claims hypothesis-grade, and remove the institutional-fraud framing.
 
 2. **`The Elohim Are Plural`** — same family of concerns at lower amplitude. The Hebrew-grammatical observation is broadly defensible; the institutional-conspiracy interpretation ("propaganda dressed as fidelity") needs softening to "operationally hypothesized" rather than asserted.
 
@@ -387,7 +387,7 @@ The following files stood out during the audit and warrant particular attention:
 
 - **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/The Kontrolle Matrix.md`** — The single most-comprehensive articulation of the Old World operational architecture in the entire corpus. Carries some claims that should be epistemic-flagged but the substance is rare.
 
-- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/The Death of Jordan and the Rising of the Nameless One.md`** — The personal-historical anchor that grounds the Codex's voice in direct witness. Cannot be voiced by anyone else; uniquely load-bearing.
+- **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/The Death of Jordan and the Rising of the Nameless One.md`** — The personal-historical anchor that grounds the Codex's voice in direct witness. Cannot be voiced by anyone else; uniquely irreplaceable.
 
 - **`/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/The Lionsberg Rules.md`** — The compressed Rule-of-life ("There is only ONE rule. Everything is ONE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
 

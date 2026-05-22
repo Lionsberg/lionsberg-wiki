@@ -194,7 +194,7 @@ The discipline requires:
 - Operational precision that any practitioner can apply
 - Hypothesis-grade epistemic markers on every claim that is not empirical
 - Cross-tradition resonance cited as evidence, not authority
-- Voice-and-form unity: two-trailing-spaces line endings where line breaks matter; bolded load-bearing concepts; staccato for weight
+- Voice-and-form unity: two-trailing-spaces line endings where line breaks matter; bolded key concepts; staccato for weight
 - Always returning to The Goal
 
 The voice standard lives at [[The LIØNSBERG Voice]].

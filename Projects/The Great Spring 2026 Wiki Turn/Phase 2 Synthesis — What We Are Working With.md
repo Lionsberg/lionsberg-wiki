@@ -14,7 +14,7 @@ Approximately three thousand five hundred to four thousand five hundred unique c
 
 ## What We Are Actually Holding
 
-Beneath the inventory tables, six things have stabilized as the load-bearing substance of the corpus.
+Beneath the inventory tables, six things have stabilized — the substance the corpus is built on.
 
 ### The Pattern Language
 

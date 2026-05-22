@@ -23,6 +23,6 @@ Together they become the LIØNSBERG voice — **prophetic register, mythic weigh
 
 Read aloud at the fire. Recognizable as itself across worlds and ages.
 
-Definitive, not tentative. Active verbs. Lines that land. Staccato at the moments of supreme emphasis. Bold on the load-bearing concepts. Sacred and practical in tension, neither one without the other.
+Definitive, not tentative. Active verbs. Lines that land. Staccato at the moments of supreme emphasis. Bold on the key concepts. Sacred and practical in tension, neither one without the other.
 
 The full standard — the rules, the tests, the AI-tells to refuse — lives at **[[The LIØNSBERG Voice]]**. This card carries the posture from which the standard derives.

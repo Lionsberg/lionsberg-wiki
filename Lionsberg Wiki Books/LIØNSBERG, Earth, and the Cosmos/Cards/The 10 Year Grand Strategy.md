@@ -20,7 +20,7 @@ The temporal architecture of the Turn unfolds across milestone moments between 2
 
 - **Winter Solstice, December 21, 2033 — [[Covenant and Jubilee — December 2033|Covenant and Jubilee]].** Cycle 50. The greatest celebration and Jubilee in recorded history. The New Civilization stands. The Old World is released.
 
-Other moments will surface along the way. The named milestones are the load-bearing inflection points, not an exhaustive enumeration.
+Other moments will surface along the way. The named milestones are the decisive inflection points, not an exhaustive enumeration.
 
 A **20-Year Generational Contingency** is held in reserve if the primary timeline does not fully complete. This is the backup timeline because the Movement is unprecedented at this scale.
 

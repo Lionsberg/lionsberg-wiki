@@ -604,7 +604,7 @@ Genuinely problematic in this book:
 - **`16.16 From Receivership to Sovereignty.md`** — The closing reveal that "every lean tool was a form of attention — and attention is the first discipline of love" is one of the most arresting articulations in the entire wiki. The whole methodology revealed as worship.
 - **`15.26 The Eternal Divine Play.md`** — Holds the tension between fierce urgency and eternal patience without collapsing either. Genuinely rare.
 - **`1.31 The Physics Of The Threshold.md`** — Scarlett's passage. A complete short story embedded in scripture. Memorable as physical-event-grade narrative.
-- **`1.5 The Caves.md`** — Already canonical; remains the load-bearing mythic substrate.
+- **`1.5 The Caves.md`** — Already canonical; remains the founding mythic substrate.
 - **`13.9 Nothing Can Come First.md`** — The single sharpest articulation of why the Meta Quest is non-postponable. Confrontational in the best sense.
 - **`8.63 The Sea Of Pyramids.md`** — Compresses the entire Old World diagnosis into one extended metaphor.
 - **`5.12 The True Self.md`** — Pure litany; one of the wiki's most quotable single pages.

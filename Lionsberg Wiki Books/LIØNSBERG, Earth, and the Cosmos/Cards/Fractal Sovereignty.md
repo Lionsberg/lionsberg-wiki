@@ -22,6 +22,6 @@ This is what **holofractal** means: the same Pattern operating at every scale �
 
 No higher level may compel a lower level. Federation is **voluntary, by mutual consent, in service of shared purpose**. The Old World ran the opposite pattern — concentration of power upward, extraction of consent and resource from below. The New runs the inverse: power held at the smallest level capable of holding it well; coordination upward only by free agreement.
 
-Fractal Sovereignty is the structural guarantee that the [[Holofractal Omnifederation]] cannot collapse back into empire. It is the load-bearing reason the [[Field of Agreements]] is voluntary covenant and not imposed law.
+Fractal Sovereignty is the structural guarantee that the [[Holofractal Omnifederation]] cannot collapse back into empire. It is why the [[Field of Agreements]] is voluntary covenant and not imposed law.
 
 This concept lives canonically inside [[The LIØNSBERG Pattern Language]] when the Pattern Language is rebuilt in Phase 3.

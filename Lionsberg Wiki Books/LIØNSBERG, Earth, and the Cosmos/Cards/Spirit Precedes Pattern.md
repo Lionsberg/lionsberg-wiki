@@ -13,7 +13,7 @@ The first claim of the Codex about itself.
 **If the Spirit is right, the Wise Right Pattern will emerge.**
 **If the Spirit is absent, no Pattern can save us.**
 
-This is the load-bearing condition on every other claim. The Pattern Language can be perfectly articulated, the Volumes flawlessly bound, the Cards exhaustively gathered — and **none of it works** if the Spirit beneath is wrong.
+This is the precondition for every other claim. The Pattern Language can be perfectly articulated, the Volumes flawlessly bound, the Cards exhaustively gathered — and **none of it works** if the Spirit beneath is wrong.
 
 The Spirit that must be present:
 

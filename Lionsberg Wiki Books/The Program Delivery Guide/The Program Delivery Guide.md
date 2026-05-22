@@ -88,7 +88,7 @@ The temptation when encountering three substantive frameworks is to treat them a
 
 The three lenses are not parallel. **The Pattern Language is the superset.** Both IPD and FSx are specialized layers _within_ the Pattern Language — focused respectively on production methodology and on legal/structural infrastructure. The Pattern Language's existing structure already reflects this: the IPD Patterns and the FSx Patterns are sections within the Pattern Language main page.
 
-Specific compositions are dense and load-bearing:
+Specific compositions are dense and structurally central:
 
 | Pattern Language | IPD Methodology | FSx Framework | The Same Pattern |
 |---|---|---|---|

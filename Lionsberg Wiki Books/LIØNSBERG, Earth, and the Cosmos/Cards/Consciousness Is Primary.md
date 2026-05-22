@@ -12,7 +12,7 @@ The metaphysical foundation of the Codex.
 
 **Consciousness is not a byproduct of matter. Consciousness is the primary reality from which matter, energy, and form emerge.**
 
-This is not a fringe claim within LIØNSBERG. It is the **load-bearing ontological commitment** that conditions every other claim:
+This is not a fringe claim within LIØNSBERG. It is the **ontological commitment every other claim rests on**:
 
 - If consciousness is primary, then beings have intrinsic dignity (they are localizations of the primary, not accidents of complexity).
 - If consciousness is primary, then the Pattern can be received directly (not only constructed from data).

@@ -123,7 +123,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 
 ## III. Net-New Card Candidates
 
-**Note on naming discipline:** Per the no-imposed-numeric-structure rule, I've avoided "The Twelve X" / "The Seven Y" framings unless the number is canonical architectural decision. Where numbered (12 Elements, 7 Moves, 12 Pillars, 12 Domains, 14 Meta-Patterns), the number IS canonical and load-bearing.
+**Note on naming discipline:** Per the no-imposed-numeric-structure rule, I've avoided "The Twelve X" / "The Seven Y" framings unless the number is canonical architectural decision. Where numbered (12 Elements, 7 Moves, 12 Pillars, 12 Domains, 14 Meta-Patterns), the number IS canonical and structurally fixed.
 
 ### A. From The Pattern Language (Layer Zero — Core Covenant)
 
@@ -488,10 +488,10 @@ These are likely already in the queue but the source-material surfaces sharper e
 
 ## V. Foundational Source-Documents Flagged
 
-These five documents are **load-bearing source-texts** for the Sacred Codex and should be preserved with high fidelity:
+These five documents are **foundational source-texts** for the Sacred Codex and should be preserved with high fidelity:
 
 1. **The LIONSBERG Pattern Language** (`LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIONSBERG Pattern Language.md`) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume III-or-IV canonical root material.**
-2. **The Program Delivery Guide** (`LIONSBERG Wiki Books/The Program Delivery Guide/`) — **Tier 1 canonical foundation.** The $20M-of-funded-research that informed Elements 9–12. Direct lineage map from PDG concept to Pattern Language Element is documented inside the file. The "Federal Receivership of Earth" parallel is structurally load-bearing.
+2. **The Program Delivery Guide** (`LIONSBERG Wiki Books/The Program Delivery Guide/`) — **Tier 1 canonical foundation.** The $20M-of-funded-research that informed Elements 9–12. Direct lineage map from PDG concept to Pattern Language Element is documented inside the file. The "Federal Receivership of Earth" parallel is structurally central.
 3. **The Lionsberg Strategy and Plan of Action** (`LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/The LIØNSBERG Strategy and Plan.md`) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
 4. **The Meta Project Plans and Specifications** (`LIONSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/Lionsberg Plans and Specifications.md`) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
 5. **The Lionsberg Blueprint Ch.21** (`LIONSBERG Wiki Books/The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action.md`) — **Tier 1 work-breakdown canonical source.** The 12 Pillars articulated as WBS.
@@ -636,7 +636,7 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 
 3. **The 12 Pillars (Blueprint) and the 12 Domains (Pattern Language) are NOT the same taxonomy.** This is a critical observation. The 12 Pillars are a **work-breakdown structure** (functional civilizational domains — Spiritual, Governance, Economic, Educational, Health, Agriculture, Energy, Arts, Built Environment, Peace/Security, Science/Tech, Stewardship). The 12 Domains are a **pattern-language structure** (governed by the 12 Elements — Purpose/Covenant, Federation, Sovereignty, Governance, Economy, Education, Life/Regeneration, Protection, Integration, Quality, Commitment, Learning). They overlap but are not identical. The Sacred Codex must distinguish these clearly or harmonize them.
 
-4. **The PDG-to-PL lineage is load-bearing and explicit.** The PDG file itself provides the direct mapping table. Elements 9-12 (Integrated Delivery, Design to The Goal, Networks of Commitments, Tightly Coupled Learning and Action) are direct lifts from PDG's Five Big Ideas. **This makes the PDG one of the very few documents in the corpus with a documented intellectual lineage to the canonical pattern.** It must be preserved.
+4. **The PDG-to-PL lineage is foundational and explicit.** The PDG file itself provides the direct mapping table. Elements 9-12 (Integrated Delivery, Design to The Goal, Networks of Commitments, Tightly Coupled Learning and Action) are direct lifts from PDG's Five Big Ideas. **This makes the PDG one of the very few documents in the corpus with a documented intellectual lineage to the canonical pattern.** It must be preserved.
 
 5. **The LIONSBERG Way is mostly empty.** Despite being one of the highest-priority books listed in this audit, the body is self-marked as chaotic WIP. The ReMembering files are link-stubs. **The Way's true articulation is the Pattern Language.** The Way book may be archive material.
 

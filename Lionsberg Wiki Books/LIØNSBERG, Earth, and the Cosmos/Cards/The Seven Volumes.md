@@ -22,4 +22,4 @@ They are not seven separate books. They are seven movements of one symphony — 
 
 Each Volume points into the others. Each draws from the same DNA.
 
-The number seven is not load-bearing. The Codex may grow over time. But seven is what is named now, and seven is sufficient to articulate the totality of what is required to co-create the [[New Civilization]] on this Earth, in this Cosmos, in this age.
+The number seven is not fixed. The Codex may grow over time. But seven is what is named now, and seven is sufficient to articulate the totality of what is required to co-create the [[New Civilization]] on this Earth, in this Cosmos, in this age.

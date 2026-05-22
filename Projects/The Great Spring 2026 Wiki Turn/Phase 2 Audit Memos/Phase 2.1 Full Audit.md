@@ -325,7 +325,7 @@ The Armory of the Awakening · Everything Is A Process · The Process Template �
 | When It's All On The Line | **F-IV (primary, high-stakes operational manual) + F-VII + F-II + F-I**. Structurally incomplete — chs 3.8-4 only as headings |
 | The Lionsberg Elevation Initiative | **F-III (primary, Great Game) + F-I + F-IV + F-VII**. Operational engine of elevation. Section 6 (Patterns for Flourishing) named-only in TOC |
 | UnVeiling The Sacred Texts | **F-I (primary) + F-IV + F-II + F-III**. Dismantles two millennia of scriptural mistranslation. Ch 7 incomplete; Ch X is AI-generated raw material |
-| The Lionsberg Book of Parables | **F-I + C (individual Cards for load-bearing parables)**. 9 parables total (7 in folder + 2 in root). Three orphan files |
+| The Lionsberg Book of Parables | **F-I + C (individual Cards for the most resonant parables)**. 9 parables total (7 in folder + 2 in root). Three orphan files |
 
 **Cards written this batch (12):** The Five-Fold Pattern of Mastery · The Three-Layered Adversary · The Rising Movement · The Story of The Builder · The Meta Dragon · The Sacred Fire and the Plasma Body · The Warrior's Vow · The Roving Ark Temple Dojo · Counting Up To Consciousness · The 4-7-8 Breath · The Old Operating System · The Force For Good.
 
@@ -650,7 +650,7 @@ Anatomies of Association · Anti-Good · Anxiety as Default-On · Capital as Sub
 
 # Gap Analysis: Cards Surfaced But NOT Yet Written
 
-## Highest-Priority Gaps (Cards explicitly named in Batches as load-bearing or canonical-grade but not yet in `Cards/` directory)
+## Highest-Priority Gaps (Cards explicitly named in Batches as essential or canonical-grade but not yet in `Cards/` directory)
 
 These are concepts the agents flagged as architecturally consequential — folded but not written:
 

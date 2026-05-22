@@ -388,7 +388,7 @@ All Cards verbatim-match: The Translator Function, Speak in the Voice of the Aud
 
 **The 4-5 PKM-A3 omissions are operationally consequential:** TEA Currency, Progressive Pledging, 42-Day Quest Cycles, Auditable by Default, and Progressive Trust are all Card-grade economic/coordination primitives that the ledger Card pipeline appears to have missed.
 
-**Phase 3 Pattern Language Rebuild Notes** are consistently strong across all batches — six operating principles in PKM-A3 (convergence-as-evidence, divergence-as-load-bearing, paired cross-references, inquiries as first-class, scale-invariant claims with scale-explicit evidence, the form chooses you) are particularly load-bearing.
+**Phase 3 Pattern Language Rebuild Notes** are consistently strong across all batches — six operating principles in PKM-A3 (convergence-as-evidence, divergence-as-signal, paired cross-references, inquiries as first-class, scale-invariant claims with scale-explicit evidence, the form chooses you) carry the most weight for the rebuild.
 
 **Voice-and-Register patterns from PKM-A2 (144 Voices)** — first-person archetypal address, structural pivot from poetic image to operational truth, "What I Need From the ALL" closing — are correctly captured in the ledger and should inform Phase 3 Card writing.
 

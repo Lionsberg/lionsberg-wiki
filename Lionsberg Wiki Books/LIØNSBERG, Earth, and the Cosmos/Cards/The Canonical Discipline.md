@@ -8,7 +8,7 @@ captured: 2026-05-18
 
 # The Canonical Discipline
 
-[[The LIØNSBERG Sacred Codex|The Codex]] is governed by a small set of load-bearing disciplines:
+[[The LIØNSBERG Sacred Codex|The Codex]] is governed by a small set of disciplines. Each one carries the whole:
 
 - **One source per concept.** Every canonical idea has exactly one home. Every other reference points to it through `[[wiki links]]`. No duplicate articulations.
 
