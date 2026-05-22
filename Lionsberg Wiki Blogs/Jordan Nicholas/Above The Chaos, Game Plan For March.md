@@ -90,7 +90,7 @@ The [[Lionsberg Cycles of Growth]] mark the [[Progress]] along the Path [[Toward
 
 *As [[The Body]] grows and becomes more capable, everything else becomes [[Possible]].* 
 
-As [[The Body]] grows, we will begin tackling [[Quests]] in self-governing, self-sustaining, and self-replicating [[Groups]] / [[Teams]] of 3 to 16 individuals. 
+As [[The Body]] grows, we will begin tackling [[Quests]] in self-governing, self-sustaining, and self-replicating [[Groups]] / [[Teams]] of 3 to 13 individuals. 
 
 Each of those Teams will take on as much [[Responsibility]] as they are able to each Quarter, while stacking up and aligning [[Quests]] across the decentralized [[Team of Teams]] to ensure we are collectively making [[Critical Path]] [[Progress]] towards [[The Goal]]. 
 

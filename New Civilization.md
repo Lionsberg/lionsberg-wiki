@@ -11,7 +11,7 @@ The New Civilization is not a government. It is not an institution. It is not a 
 **The New Civilization is the total set of properly functioning, rightly related communities, economies, and governance structures** operating according to [[The Core Pattern]] — the [[Twelve Irreducible Elements]] proven across 1,500 years of human history.
 
 It is built from the ground up through:  
-- **[[Circles]]** of 5-16 people as the basic unit
+- **[[Circles]]** of 3-13 people as the basic unit
 - **Communities** of federated Circles addressing real needs at local scale
 - **Bioregional Networks** coordinating food systems, education, healthcare, governance
 - **The Planetary Grid** — **[[The 300]]** in every community of 10,000, connected globally

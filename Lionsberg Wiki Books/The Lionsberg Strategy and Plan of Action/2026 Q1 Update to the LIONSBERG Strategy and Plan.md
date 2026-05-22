@@ -255,7 +255,7 @@ This is no longer about following a plan created by someone else. This is about 
 **The Immediate Work:**  
 - Update the invitation to the existing trust networks  
 - Identify and activate the initial Circles   
-- Each circle of 3-12 reads [[Welcome to LIØNSBERG]] together
+- Each circle of 3-13 reads [[Welcome to LIØNSBERG]] together
 - Each circle begins playing [[The Great Game of LIØNSBERG]]
 - Each circle invites others they know who are awakening
 - Document and share [[Stories of Transformation]] 
@@ -344,7 +344,7 @@ Every person who resonates forms a Circle, chooses a Quest, and shares the link 
 #### 2. The Circle Formation Pattern
 
 **Structure:**  
-- 3-12 people (optimal 4-7)
+- 3-13 people (optimal 4-7)
 - Read [[Welcome to LIØNSBERG]] together and step into [[The Story of LIØNSBERG]]  
 - Begin playing [[The Great Game of LIØNSBERG]]
 - Take on [[The LIØNSBERG Calendar]]  

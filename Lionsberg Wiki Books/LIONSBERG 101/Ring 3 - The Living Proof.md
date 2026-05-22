@@ -172,7 +172,7 @@ The PDG's architecture maps directly to [[The Core Pattern]]:
 |---|---|
 | The Receivership (system in crisis) | [[The Meta Crisis]] — Earth under receivership |
 | The Prototype / Kit of Parts | [[The Core Pattern]] / [[The Prototype]] |
-| The Core Group (4-6 leaders) | The [[Circle]] (5-16 people) |
+| The Core Group (4-6 leaders) | The [[Circle]] (3-13 people) |
 | The Single Lean Enterprise | The federation of [[Circles]] |
 | Integrated Project Delivery | [[Integrated Delivery]] |
 | Target Value Design | [[Design To The Goal]] |

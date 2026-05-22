@@ -58,7 +58,7 @@ This is not optional preparation before the "real" work. **This IS the real work
 
 ## Step 3: Form A Circle
 
-You cannot do this alone. The Pattern is inherently relational. The basic unit is not the individual — it is the **[[Circle]]**: a voluntary association of 3 to 12 people united by shared purpose and agreements.
+You cannot do this alone. The Pattern is inherently relational. The basic unit is not the individual — it is the **[[Circle]]**: a voluntary association of 3 to 13 people united by shared purpose and agreements.
 
 ### How To Form A Circle
 
@@ -165,7 +165,7 @@ The question is whether enough of us will begin.
 
 As Circles multiply and federate, something emerges that is greater than the sum of its parts:
 
-- **Circles** of 3-12 people become **Communities** of hundreds
+- **Circles** of 3-13 people become **Communities** of hundreds
 - **Communities** federate into **Bioregional Networks** of thousands
 - **Bioregional Networks** federate into **The Planetary Grid** — approximately 300 empowered leaders per community of 10,000, connected globally
 - **The Planetary Grid** becomes the living infrastructure of the [[New Civilization]]

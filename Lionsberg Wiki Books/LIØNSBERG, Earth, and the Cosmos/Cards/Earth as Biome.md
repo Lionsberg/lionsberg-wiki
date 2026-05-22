@@ -19,7 +19,7 @@ The conventional understanding of "biome" names sub-planetary ecological zones �
 
 ## Earth in LIØNSBERG's Scaling
 
-In the holofractal scaling, Earth-as-Biome is the **planetary scale** — beyond [[Bioregion|Bioregions]], above the [[Planetary Grid]] of human federation, the natural ground in which all human and more-than-human scales are held.
+In the holofractal scaling, Earth-as-Biome is the **planetary scale** — beyond [[Bioregion|Bioregions]], above the [[Planetary Grid]] of human federation, the natural ground in which all the relatives of Earth are held at every scale.
 
 The Planetary Grid is the human-conscious federation rooted in the Earth Biome. The Earth Biome is the underlying living reality on which the Grid stands. Both must be honored:
 
@@ -50,5 +50,5 @@ The work at every smaller scale must honor the Earth-Biome as ground:
 - **[[Star System as Biome]]** — the scale above; the wider biome of which Earth is a part
 - [[Bioregion]] · [[Ecoregion]] · [[Watershed]] — the scales nested within
 - [[Heaven On Earth]] — the Goal at the Earth-Biome scale
-- [[Living Systems Member]] — the Constituency that holds standing for Earth and her more-than-human kin in the federated ecosystem
+- [[Living Systems Member]] — the Constituency that holds standing for Earth and all her relatives in the federated ecosystem
 - [[Holofractal Omnifederation]] — the Pattern by which all scales nest

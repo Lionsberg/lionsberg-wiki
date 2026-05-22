@@ -60,7 +60,7 @@ Each early church house church — 5 to 40 people in someone's home — was a co
 
 ### The Practical Expression
 
-In LIONSBERG, the basic holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 16 people united by shared purpose and agreements.
+In LIONSBERG, the basic holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 13 people united by shared purpose and agreements.
 
 A Circle is not a committee, a task force, or a working group that reports to a larger body. It is a **complete, self-governing expression of the New Civilization at human scale**. Within it, all the essential functions operate:
 

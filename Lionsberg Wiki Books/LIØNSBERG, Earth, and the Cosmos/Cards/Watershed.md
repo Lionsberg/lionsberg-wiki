@@ -6,7 +6,9 @@ _A drainage basin — all the land from which water flows to a common outlet. Th
 
 A **Watershed** is a unit of place defined by water. Every drop of rain that falls within a watershed eventually flows to the same outlet — a creek, a river, a lake, a sea. The land knows its watershed; the water itself draws the lines.
 
-Watersheds are **strictly hydrological** — they follow ridgelines and divides, not human boundaries. They nest fractally: a small creek watershed sits inside a tributary watershed sits inside a river watershed sits inside a major river basin sits inside an ocean drainage. Several hundred thousand watersheds of meaningful size exist on Earth.
+Watersheds are **strictly hydrological** — they follow ridgelines and divides, not human boundaries. They nest fractally at every scale: a small creek watershed sits inside a tributary watershed sits inside a river watershed sits inside a major river basin. Tens of thousands of named watersheds at meaningful scale exist across the Earth — and many more at finer resolution.
+
+**In final analysis, Earth itself is a single Watershed.** All rivers, all rains, all aquifers, all melt, all evaporation — every drop of water on this planet flows within one closed planetary hydrological cycle. The ocean is the common outlet. Earth-as-Watershed is the integrated whole; every smaller watershed is a nested sub-watershed of that One.
 
 ## In LIØNSBERG
 
@@ -34,5 +36,5 @@ Where political lines fail, watersheds do not. The land remembers its drainage e
 - [[Bioregion]] — the cultural-ecological integration
 - [[Ecoregion]] — the strict ecological classification
 - [[Community]] — the human scale shaped by Watershed
-- [[Living Systems Member]] — Class G representation of the Watershed in Layer III governance
+- [[Living Systems Member]] — the Constituency that holds standing for the Watershed and all her relatives in the federated ecosystem
 - [[Holofractal Omnifederation]] — the Pattern that nests all scales

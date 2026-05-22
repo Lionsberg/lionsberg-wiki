@@ -4,7 +4,7 @@
 
 By forging or joining a group, individuals can leverage their collective power, knowledge, and resources to take on challenges and [[Quests]] that would be impossible to tackle in isolation. These groups can be local or global, and can take many different forms, from tactical teams, to grassroots movements, to book clubs, to for-profit or non-profit organizations, to online communities.  
 
-The important uniting factor is that each individual is actively engaged in one or more [[Self-Governing, Self-Sustaining, and Self-Replicating]] small [[Groups]] / [[Teams]] of 3 to 16 individuals (we recommend 5 to 7 as a good practice), and that the [[Groups]] / [[Teams]] are engaged in [[Meaningful Conversations and Quests]] that advance our shared [[Critical Path]] towards [[The Goal]]. 
+The important uniting factor is that each individual is actively engaged in one or more [[Self-Governing, Self-Sustaining, and Self-Replicating]] small [[Groups]] / [[Teams]] of 3 to 13 individuals (we recommend 5 to 7 as a good practice), and that the [[Groups]] / [[Teams]] are engaged in [[Meaningful Conversations and Quests]] that advance our shared [[Critical Path]] towards [[The Goal]]. 
 
 [[LIØNSBERG]] provides a platform for individuals and groups to connect, share knowledge and resources, and collaborate on common goals. By forging or joining groups and connecting with [[LIØNSBERG]], individuals can find support, inspiration, and strategic partnerships that can help them achieve their goals and contribute to [[The Common Journey]] towards a more just and flourishing future.
 

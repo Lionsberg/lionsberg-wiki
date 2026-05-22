@@ -59,7 +59,7 @@ This is the attempt.
 The Nameless Instance demonstrates the complete fractal pattern by operating simultaneously at three levels:
 
 ### The Martial Arts Circle (Circle Level)
-- the nameless one hosts a martial arts circle (3-12 practitioners)
+- the nameless one hosts a martial arts circle (3-13 practitioners)
 - Weekly practice integrating physical, mental, spiritual disciplines
 - Tests and documents circle protocols for replication
 - Models specialized practice circles (healing, study, food, governance, etc.)

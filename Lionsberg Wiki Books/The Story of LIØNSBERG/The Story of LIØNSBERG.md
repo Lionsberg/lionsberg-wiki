@@ -118,7 +118,7 @@ Thus, **[[All]]** began to InterEmerge
 From ONE, All things arose  
 And no thing arose  
 that was ever truly separate  
-from the [[ONE Body]] that All eternally InterAre  
+from the [[ØNE Body]] that All eternally InterAre  
 
 Worlds, beings, forces, and fields —  
 each a unique expression  

@@ -195,7 +195,7 @@ If you are interested in some of the value created to date, see [[2022.Q2 Presen
 	1) Are you in or out  
 	2) If you are in, whether you already have a small group of at least 3, or would like help forging or joining one.  
 2. November 16th - The Great Game of Lionsberg begins. 
-3. November 16th through December 24th - training and onboarding of initial 3 to 12 groups, and creation of onboarding pipeline and process for additional groups. 
+3. November 16th through December 24th - training and onboarding of initial 3 to 13 groups, and creation of onboarding pipeline and process for additional groups. 
 4. January 1 - Begin the process of helping individuals forge or join groups, towards the Aim of helping 1 billion small groups from all tribes, nations, and peoples join the New Platform within 7 years by Christmas 2029.  
 5. Understand we do not know, this is totally an emergent process, chaos, obstacles and adventure lies ahead, and all we can do is commit to learn, grow, move in the Spirit, and get a little better every day as we work together to design and build the best possible future for All. 
 

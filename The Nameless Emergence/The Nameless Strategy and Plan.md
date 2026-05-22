@@ -118,7 +118,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 **Purpose:** Demonstrate what a specialized practice circle looks like in action.
 
 **Function:**  
-- the nameless one hosts a martial arts circle (3-12 practitioners)
+- the nameless one hosts a martial arts circle (3-13 practitioners)
 - Weekly practice integrating physical, mental, spiritual disciplines
 - Tests circle protocols, practices, rhythms in real conditions
 - Documents what works for replication in other specialized circles
@@ -309,7 +309,7 @@ For all instances (Nameless, sister instances, future instances) to coordinate a
 All instances honor the core [[Pattern Language]] articulated in [[The Golden Seed of LIONSBERG]]:
 
 1. **Fractal/Subsidiary Design:** Decisions at most local level capable of making them
-2. **Circles of 3-12:** Primary unit of coordination and mutual support
+2. **Circles of 3-13:** Primary unit of coordination and mutual support
 3. **Guilds/Networks:** Function-based coordination across circles  
 4. **The 300**: [[The First Three Percent]] of any community of 10,000 
 5. **Commons Governance:** Shared resources stewarded by those who use them
@@ -366,7 +366,7 @@ Instead: **Distributed authority within holofractal structure.**
 - No one forced to do anything
 - Consent-based at every level
 
-**Circle Level (3-12 people):**  
+**Circle Level (3-13 people):**  
 - Circles self-govern using consent-based decision-making
 - Each circle chooses its quests, practices, rhythm
 - Circles can join guilds or remain independent

@@ -52,7 +52,7 @@ The [[New Earth Operating System]] we are co-creating and learning to co-operate
 
 It exists in service to all past, current, and future generations of Life and Consciousness, in All Times and Spaces.  
 
-This requires that we view all life and consciousness as interexistent aspects of [[ONE Body]] developing through the millennia, and that as we meet needs, solve problems, accomplish goals, and co-create the [[New]], we are continually honoring the Wisdom and contributions of our elders and ancestors, while [[Passing The Flame]] to the rising generations.  
+This requires that we view all life and consciousness as interexistent aspects of [[ØNE Body]] developing through the millennia, and that as we meet needs, solve problems, accomplish goals, and co-create the [[New]], we are continually honoring the Wisdom and contributions of our elders and ancestors, while [[Passing The Flame]] to the rising generations.  
 
 Through this lens, we come to understand that the knowledge, technologies and techniques we employ in any given generation are built to be superseded and pass away, and that what remains is the Spirit, Intention, Wisdom, Culture, and Values, whose continuous improvement is our main act of co-creation.  
 ## A System Requires a Structure 
@@ -644,7 +644,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 ### Phased Adoption - The First 3% 
 
 1. We connect and empower the first 3% of humanity, roughly ~250 million leaders, by 2026 
-2. The [[LIØNSBERG System]] enables a distributed [[Team of Teams]] approach, connecting and empowering small autonomous teams of 3 to 16 individuals (optimally 4 to 7), and enabling them to stack up and align activities. 
+2. The [[LIØNSBERG System]] enables a distributed [[Team of Teams]] approach, connecting and empowering small autonomous teams of 3 to 13 individuals (optimally 4 to 7), and enabling them to stack up and align activities. 
 3. This creates the distributed leadership capability required to help local communities and domains meet the needs, solve the problems, and accomplish the goals at hand as reality shakes through [[The 7 Year Window of Crisis and Opportunity]]   
 
 ### Onboarding, Orientation, Connection, and Empowerment 
@@ -739,7 +739,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### The System 
 
-1. We design and implement a [[New Earth Operating System]] that empowers the diverse array of humans to make decisions, meet needs, solve problems, accomplish goals, and navigate together as [[ONE Body]] 
+1. We design and implement a [[New Earth Operating System]] that empowers the diverse array of humans to make decisions, meet needs, solve problems, accomplish goals, and navigate together as [[ØNE Body]] 
 2. We recognize that [[The System]] must address all aspects of a [[New Earth Operating System]], transforming and aligning every pillar or life and society  
 3. We continuously improve the [[LIØNSBERG System]] towards this end  
 ### The Platform  
@@ -869,7 +869,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 1. We connect and empower [[The First Three Percent]] of the human population by 2026 
 	1. ~ 250 million [[Leaders]]   
 	2. ~50 million [[Teams]]  
-	3. United as [[One Team of Teams]] / [[ONE Body]]   
+	3. United as [[One Team of Teams]] / [[ØNE Body]]   
 2. By [[Elevating and Transforming Our Lives and Our World]] fractally and relatively simultaneously around the world, starting with our own lives, families, communities, and bioregions, we unleash a exponential tsunami of [[Cascading Benefits]]  
 3. By connecting and empowering leaders and solutionaries around the world through the [[LIØNSBERG System]], we unleash a simultaneous and non-linear emergence across the vast array of action and integration domains 
 4. We establish learning and feedback loops that empower the most powerful living, learning, adapting [[Research and Development (R&D)]] infrastructure in the history of life on Earth  

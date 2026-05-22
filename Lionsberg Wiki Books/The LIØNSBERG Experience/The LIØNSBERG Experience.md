@@ -104,8 +104,3 @@ The Coherent Divine Intention Wave is the field beneath the work.
 This is the Experience. This is the Way. This is the Walk.
 
 Begin.
-
----
-
-_Volume I main page, restructured 2026-05-20 by Claude (AI assistant) per [[the nameless one]]'s direction — wiki book architecture with each frame as its own continuously improving page. Pending review and adoption._
-_Voice: LIØNSBERG canonical. Permissive on the walking; definitive on the Pattern. Living document — refines as more is learned about how Sovereigns actually walk the Path._

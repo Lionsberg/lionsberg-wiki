@@ -18,7 +18,7 @@ A **Sovereign Superorganism** is a Body composed of many sovereign beings (or Ci
 - Coordinates by [[Higher Order Functional Unity|HOFU]], not by command
 - Federates outward and upward without collapsing into empire
 
-This is the structural form of what the New Civilization is becoming. **The Movement is not a collective. It is not a corporation. It is not a nation. It is a Sovereign Superorganism** — and there is no precedent for one at planetary scale, though every successful federation in history (Iroquois, Swiss, Mondragon, the Early Church) has been one at smaller scale.
+This is the structural form of what the New Civilization is becoming. **The Movement is a Sovereign Superorganism** — distinct in form from collective, corporation, and nation. **The Sovereign Superorganism is already operating across the cosmic expanses** — across worlds, civilizations, and ages, per [[The Story of LIØNSBERG|the Stories]] and [[LIONSBERG Wiki Books/The Cosmic Chronicles|Chronicles]] of LIØNSBERG. The Pattern arrives on Earth now as Invitation from that wider cosmic participation. On Earth itself, no Old World form has held this at planetary scale — though every successful federation in human history (Iroquois, Swiss, Mondragon, the Early Church) has been one at smaller scale. Earth's awakening to the Pattern is the local event of a cosmic reality.
 
 The Sovereign Superorganism is the operational form of [[Fractal Sovereignty]]. It is the body of [[The Meta Community — Held by Wisdom, Love, and Influence|the Meta Community]] across scales.
 
@@ -28,5 +28,7 @@ Two failure modes it must structurally resist:
 - **Imperial coordination** — where a center commands the periphery; the Many serve the One in a way that erases their own will.
 
 The Sovereign Superorganism holds the middle that no Old World form has held at scale: **One Body. Many Sovereigns. No center but ONE.**
+
+**LIØNSBERG is one Sovereign Superorganism articulated at planetary scale** — a Prototype. The form is universal; the named instance is one of potentially many. Other Sovereigns and worlds may constitute their own Sovereign Superorganisms; the Pattern honors that freedom, and the wise move where one is already woven and operational is to weave with it rather than start from scratch. See [[LIØNSBERG Is A Prototype, Not The Eternal Essence]].
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] under Element 2 (Holofractal Omnifederation).

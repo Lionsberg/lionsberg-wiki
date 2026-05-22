@@ -1,12 +1,11 @@
 # The Lionsberg Field of Agreements
 
-[[LIØNSBERG Manifesto]]  
 [[LIONSBERG Declaration of InterDependence]]  
 [[LIONSBERG Core Statements]]  
 [[LIØNSBERG Core Documents]]  
 [[LIONSBERG - History, Inception, and Trust Manifesto]]  
-[[The LIONSBERG System of Values]]  
-[[Provisional Community Agreements]]  
+
+
 [[Provisional Code]]  
 [[Provisional Conditions]]  
 [[LIONSBERG Provisional Documents]]  
@@ -16,14 +15,6 @@
 ## Misc
 
 [[Levels of Participation]]  
-
-____
-## Not Currently In Use 
-
-[[Lionsberg Participation Agreement]]  
-[[Lionsberg Membership Agreement]]  
-[[Lionsberg Subscription Agreement]]  
-
 
 ## Revisit 
 

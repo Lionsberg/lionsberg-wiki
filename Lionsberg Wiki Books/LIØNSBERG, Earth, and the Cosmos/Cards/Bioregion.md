@@ -6,7 +6,7 @@ _A coherent geographical region defined by integrated landforms, watersheds, cli
 
 A **Bioregion** is a "life-place" — a continuous territory in which the natural systems and the cultures that have grown out of them are inseparable. Larger than any single watershed. Smaller than a continent. Distinct from political units (which were imposed on the land) and distinct from purely-ecological units like [[Ecoregion|ecoregions]] (which are finer-grained scientific classifications).
 
-Roughly **150 to 200 Bioregions** across the Earth, depending on how the integrative cultural-ecological lines are drawn. The integrative scale at which the relationship between humans and the more-than-human-world is most directly held.
+Roughly **150 to 200 Bioregions** across the Earth, depending on how the integrative cultural-ecological lines are drawn. The integrative scale at which the relationships between all who dwell here — soil and water, plant and creature, sovereign and circle, language and song — are most directly held.
 
 ## Examples
 

@@ -86,7 +86,7 @@ The Game is the entry. Playing it opens deeper engagement with the Codex.
 - For the **integrated long-form narrative** that holds the whole journey as one prophetic text — see [[The Book of LIØNSBERG|The Book]]
 - For the **embodied mastery** of the eternal upward spiral — the path of the Player who has played long and now rises — see [[The Sacred Ascent|The Sacred Ascent]]
 
-The Game begins simply. A Circle of three to sixteen souls. A Quest. A weekly rhythm. The first work.
+The Game begins simply. A Circle of three to thirteen souls. A Quest. A weekly rhythm. The first work.
 
 It deepens without end. Through the Pattern Language. Through the Program Delivery Guide. Through the Sacred Ascent. Through the Game beyond Earth, beyond this body, beyond this age.
 

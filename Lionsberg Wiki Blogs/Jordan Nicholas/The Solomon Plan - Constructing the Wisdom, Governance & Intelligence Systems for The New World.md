@@ -65,7 +65,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
 
 ### **3. LIONSBERG Teams: The Core Unit of Action and Governance**
 
-- The fundamental unit of governance and co-creation in the **New Civilization** is the **LIONSBERG Team**—a **small, highly functional, self-organizing group** composed of **3 to 16 individuals, optimally 5 to 7**.  
+- The fundamental unit of governance and co-creation in the **New Civilization** is the **LIONSBERG Team**—a **small, highly functional, self-organizing group** composed of **3 to 13 individuals, optimally 5 to 7**.  
 - These Teams operate as the **primary level of coordination, decision-making, and execution**, ensuring that **nearly everything required to build [[Heaven On Earth]] is done at the most effective and decentralized scale possible.**  
 - Every **LIONSBERG Individual** should be part of at least one **LIONSBERG Team**, and most will participate in multiple, each aligned with their **gifts, purpose, and mission**.  
 - Often, individuals may fulfill the same [[Roles]] in the multiple [[Teams]] they are part of according to their greatest areas of skill and joyful service (for instance Project Management, Story Telling, or Administration).  

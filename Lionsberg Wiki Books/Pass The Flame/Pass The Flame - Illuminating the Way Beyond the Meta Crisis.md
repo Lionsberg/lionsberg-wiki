@@ -1909,7 +1909,7 @@ Following the [[Rule of Sixteen]], it encouraged Groups to split and Self Replic
 
 These constraints defined the [[First Degree Group Size]].  
 
-Bounding the fundamental unit of Decision Making, Questing, and Progress in [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams of 3 to 16 [[Individuals]] established the basic framework for decentralization, empowerment, [[Self Governance]], and subsidiarity across [[The Movement]]  
+Bounding the fundamental unit of Decision Making, Questing, and Progress in [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams of 3 to 13 [[Individuals]] established the basic framework for decentralization, empowerment, [[Self Governance]], and subsidiarity across [[The Movement]]  
 
 #### Second Degree Groups 
 
@@ -1921,7 +1921,7 @@ Like [[First Degree Groups]], [[Second Degree Groups]] were also encouraged to f
 
 This established an average [[Second Degree Group Size]] of 100 to 200 individuals. [[Second Degree Groups]] often discovered that as a healthy Group of Groups approached 150 total members, it was Wise to begin preparing to become [[Self Replicating]] by splitting the growing group into two smaller groups, that could then each continue growing, developing, and [[Self Replicating]].  
 
-The [[Governance Circle]], or [[Stewardship Council]], of each second and higher degree group was composed of one [[Elder]] nominated by each of the lower degree groups that composed it. This ensured that the governance circle at each level of analysis was composed of a circle of the three to sixteen individuals considered most wise and capable of [[Higher Order Wisdom, Discernment, and Governance]] by the members of each constituent group.  
+The [[Governance Circle]], or [[Stewardship Council]], of each second and higher degree group was composed of one [[Elder]] nominated by each of the lower degree groups that composed it. This ensured that the governance circle at each level of analysis was composed of a circle of the three to thirteen individuals considered most wise and capable of [[Higher Order Wisdom, Discernment, and Governance]] by the members of each constituent group.  
 
 #### Third and Higher Degree Groups 
 

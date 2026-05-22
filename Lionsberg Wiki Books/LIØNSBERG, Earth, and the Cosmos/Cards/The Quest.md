@@ -19,7 +19,7 @@ The Anatomy of a Quest:
 - **Real** — the Quest addresses an actual need or opportunity in the world. Not a thought-experiment. Not a curriculum exercise. The world is measurably different when the Quest is complete than when it was undertaken.
 - **Achievable** — the Quest is sized to the Circle that bears it. Not impossible. Not trivial. At the edge of capacity, where stretch produces growth without breakage.
 - **Meaningful** — the Quest connects upward, through the Circle's purpose, through the Hub's covenant, through the bioregion's needs, into [[The Goal]] itself. Every Quest contributes Throughput. A Quest with no path to The Goal is not yet a Quest; it is a hobby.
-- **Together** — the Quest is undertaken by a Circle, not a solo. The Circle's distinctive genius — the gathered capacities of 3-16 sovereign Beings — is what the Quest requires. If one person could do it, it is not a Quest of the Circle; it is a task.
+- **Together** — the Quest is undertaken by a Circle, not a solo. The Circle's distinctive genius — the gathered capacities of 3-13 sovereign Beings — is what the Quest requires. If one person could do it, it is not a Quest of the Circle; it is a task.
 - **Seasonal** — the Quest is bounded in time. 90 days is the canonical Quest length — long enough for meaningful work, short enough to retrospect-and-renew. The solstice-and-equinox rhythm of the Earth provides the natural cadence.
 
 The Quest moves through a Spiral:

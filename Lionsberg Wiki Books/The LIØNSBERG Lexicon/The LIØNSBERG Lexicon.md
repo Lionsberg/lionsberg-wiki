@@ -535,7 +535,7 @@ This domain integrates:
 	4. [[Absolute]]  
 2. [[All]]  
 3. Diverse Unity  
-4. [[ONE Body]]  
+4. [[ØNE Body]]  
 5. [[The Goal]]  
 6. [[Universal Values]]  
 7. [[Meta Crisis]]  
@@ -749,7 +749,7 @@ This domain integrates:
 73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
 74. The [[LIØNSBERG System]] is designed as an Interoperable [[System of Systems]]
 75. It is designed to be a [[New Earth Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
-76. [[The System]] is what enables [[The Whole]] to co-operate as [[ONE Body]].
+76. [[The System]] is what enables [[The Whole]] to co-operate as [[ØNE Body]].
 
 ## Tribe of Tribes / Group of Groups / Team of Teams
 

@@ -32,7 +32,7 @@ Every person in a Circle is also part of **a second Circle** — the one they fo
 The pattern is simple:
 
 1. **Receive the invitation** from someone you know and trust
-2. **Join or form a Circle** — gather 3 to 12 resonant souls
+2. **Join or form a Circle** — gather 3 to 13 resonant souls
 3. **Choose a [[Quest]]** — a tangible act of goodwill that transforms your community
 4. **Do the work** — meet weekly, track commitments, learn, grow
 5. **Pass [[The Flame]]** — each person invites 2 or 3 others who are ready

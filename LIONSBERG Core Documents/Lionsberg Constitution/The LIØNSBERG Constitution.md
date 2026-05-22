@@ -170,7 +170,7 @@ _Each conscious being is sovereign in their own being — sovereign over their b
 
 ### Article III.2 — Of Circle Sovereignty
 
-_Circles of 3-16 sovereign beings, voluntarily formed, form the irreducible unit of collective life. Each Circle is sovereign within its own scope, governed by its own [[Field of Agreements]], in [[Right Relationship]] with this Constitution and with other Circles._
+_Circles of 3-13 sovereign beings, voluntarily formed, form the irreducible unit of collective life. Each Circle is sovereign within its own scope, governed by its own [[Field of Agreements]], in [[Right Relationship]] with this Constitution and with other Circles._
 
 ### Article III.3 — Of Community Sovereignty
 

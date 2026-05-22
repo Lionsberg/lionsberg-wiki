@@ -58,7 +58,7 @@ The LIONSBERG OS operates **holofractally**—meaning:
 
 ---
 
-### **2. Small Groups and Teams (3-16 Individuals)**
+### **2. Small Groups and Teams (3-13 Individuals)**
 
 - **The Core Unit of Discernment, Decision Making, and Action.**
 - **Small, self-governing, interdependent groups** that function as the foundation of all larger structures within the emergent [[Superorganism]].  

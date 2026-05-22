@@ -36,7 +36,7 @@ ___
 
 ## In LIONSBERG
 
-The holofractal unit is the **[[Circle]]** — a voluntary association of 5 to 16 people united by shared purpose and agreements.
+The holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 13 people united by shared purpose and agreements.
 
 A Circle is not a committee, a task force, or a working group. It is a **complete, self-governing expression of the [[New Civilization]] at human scale**. Within it, all the essential functions operate:
 

@@ -78,7 +78,7 @@ _The universal patterns. They hold beneath any Pillar, at any scale, in any cont
 - [[Right of Withdrawal]] — the test that confirms the covenant is real; the door that opens from the inside
 - [[Right Relationship]] — mutual flourishing, [[Sacred Reciprocity]], the orientation of each toward the rising of [[All]]
 - [[Sacred Reciprocity]] — every gift carries a response; the flow is relational, not transactional
-- [[Circle as Irreducible Unit]] — three to sixteen sovereign beings in voluntary covenant; the smallest collective body
+- [[Circle as Irreducible Unit]] — three to thirteen sovereign beings in voluntary covenant; the smallest collective body
 - [[The Two-Coordinator Rhythm]] — one held inward to the unit; one held outward to the larger whole
 - [[Federation Without Center]] — Circles into Communities into Bioregions into Planets and Galaxies; no center but [[ØNE]]
 - [[Holofractal Composition]] — the same Pattern at every scale; what holds at one informs the next
@@ -101,7 +101,7 @@ _The canonical Patterns at Circle and individual scale. Each is at once a struct
 
 **Circle Formation and Life**
 
-- [[Form A Circle]] — gather three to sixteen sovereign souls who choose to see, serve, and build together
+- [[Form A Circle]] — gather three to thirteen sovereign souls who choose to see, serve, and build together
 - [[Name Your Circles]] — the first shared act of co-creation
 - [[Set Your Cadence]] — establish the weekly heartbeat that keeps the Circle alive
 - [[Forge a Field of Agreements]] — build the structure of trust from spoken, shared, honored commitments

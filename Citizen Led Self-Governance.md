@@ -20,7 +20,7 @@ The same governance pattern repeats fractally at every scale:
 
 **Individual**: Each person governs themselves first. Inner transformation — alignment with [[Spirit]], with Purpose, with the [[Field of Agreements]] — is the foundation of all governance. You cannot govern a community if you cannot govern yourself.
 
-**[[Circle]]**: 5 to 16 people united by shared purpose and agreements. Consent-based decisions. Elected coordinators (servant-leaders, not bosses). Mutual accountability. Regular meetings. Transparent operations.
+**[[Circle]]**: 3 to 13 people united by shared purpose and agreements. Consent-based decisions. Elected coordinators (servant-leaders, not bosses). Mutual accountability. Regular meetings. Transparent operations.
 
 **Community**: Assemblies of Circles. Transparent resource allocation. Collaborative planning. The role of **[[The 300]]** — approximately 300 empowered leaders per community of 10,000 — forming the backbone of local self-governance.
 

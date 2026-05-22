@@ -78,7 +78,7 @@ Our near term aim is to aggregate $10M in working capital against the tens of mi
 
 Leadership and management training for [[The First Three Percent]] begins in June, and [[The Invitation, Cycle 9|you are invited]].  
 
-In the event you would like to dialogue or have Jordan present to your group, please gather a small group of 3 to 16 interested individuals together and email [[Jordan]] to schedule a video call. 
+In the event you would like to dialogue or have Jordan present to your group, please gather a small group of 3 to 13 interested individuals together and email [[Jordan]] to schedule a video call. 
 
 It's time to advance quickly and wisely towards [[The Goal]]. 
 

@@ -88,7 +88,7 @@ The Pattern comes alive through play.
 
 ### Circles
 
-The irreducible unit is the **[[Circle]]** — a voluntary association of three to twelve sovereign beings united by shared purpose and agreements. A complete, self-governing expression of the [[New Civilization]] at human scale. Every Circle carries the full DNA.
+The irreducible unit is the **[[Circle]]** — a voluntary association of three to thirteen sovereign beings united by shared purpose and agreements. A complete, self-governing expression of the [[New Civilization]] at human scale. Every Circle carries the full DNA.
 
 ### Quests
 
@@ -117,7 +117,7 @@ In just forty to fifty cycles, every awakening soul on Earth receives the invita
 
 As Circles multiply and federate:
 
-- **Circles** of three to twelve coalesce into **Communities** — typically around ten thousand Sovereigns at full scale, anchored by **[[The 300]]** who hold the local Pattern alive
+- **Circles** of three to thirteen coalesce into **Communities** — typically around ten thousand Sovereigns at full scale, anchored by **[[The 300]]** who hold the local Pattern alive
 - **Communities** federate into **Bioregions** — about 150 to 200 across the Earth, each a watershed remembering itself as a Sovereign body  
 - **Archetypes** federate into **Guilds** — vocational fellowships of practitioners weaving a craft across geographies  
 - **Bioregions and Guilds** weave together into the **Planetary Grid**
@@ -175,7 +175,7 @@ This Walk cannot be done in isolation. It must be undertaken in community — as
 
 ### How to Begin
 
-1. **Identify three to twelve people** already awakening, already sensing the urgency, already seeking others who understand. You know who they are.
+1. **Identify three to thirteen people** already awakening, already sensing the urgency, already seeking others who understand. You know who they are.
 2. **Send them the link**: `lionsberg.wiki`
 3. **Ask them to read** the Golden Seed (Homepage) and this Welcome.
 4. **Set a gathering** — choose a date and time for your first 90-minute session, in person or by video.

@@ -60,7 +60,7 @@ This is also the day **[[The Daily Way]]** can begin — even before the Circle 
 
 ## First Week
 
-**Gather and Begin.** Those who resonated respond. The Circle of 3 to 12 sovereign souls is convened. They meet for 90 minutes — in person or by video — using [[The LIØNSBERG Quick Start Guide]] as the template.
+**Gather and Begin.** Those who resonated respond. The Circle of 3 to 13 sovereign souls is convened. They meet for 90 minutes — in person or by video — using [[The LIØNSBERG Quick Start Guide]] as the template.
 
 Within this 90 minutes they consecrate the Circle, read aloud together, sense-make, choose the first seasonal Quest, set the weekly rhythm, and each member names the 2-3 they will invite next.
 

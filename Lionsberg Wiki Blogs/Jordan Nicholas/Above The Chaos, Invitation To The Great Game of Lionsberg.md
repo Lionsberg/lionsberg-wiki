@@ -60,7 +60,7 @@ The infrastructure has been vetted and tested by ~170+ Impact Organizations in 1
 
 We are now embarking on a tipping point strategy of progressively onboarding a billion small groups, effectively encompassing all of humanity, within 7 years. 
 
-This is possible if just 3 to 12 small groups begin learning [[How To Play The Game]] in Q4 2022, and [[The Game]] expands itself along the Golden Ratio of 62% every 4 to 6 weeks for 7 years. 
+This is possible if just 3 to 13 small groups begin learning [[How To Play The Game]] in Q4 2022, and [[The Game]] expands itself along the Golden Ratio of 62% every 4 to 6 weeks for 7 years. 
 
 This strategy, if successful, will result in an invitation being extended to all 8 billion humans, by someone they love and trust, to forge or join a small group that can help them progress towards the fullness of their unique potential and flourish in a harmonious and properly ordered society. 
 

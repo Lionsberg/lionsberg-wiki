@@ -17,7 +17,7 @@ If you have already gathered your Circle, **[[The LIØNSBERG Quick Start Guide]]
 
 1. **Cross The Threshold** — Step beyond the boundary of the Old World and into the New.
 2. **Anchor The First Practice** — Root yourself in the daily rhythm that keeps the Pattern alive.
-3. **Form a Circle** — Gather 3 to 12 sovereign souls you resonate with and trust.
+3. **Form a Circle** — Gather 3 to 13 sovereign souls you resonate with and trust.
 4. **Choose a Quest** — Give your Circle a body of meaningful work that makes life measurably more like Heaven.
 5. **Enter the Game** — Do the work. Track commitments. Learn from every cycle. Grow.
 6. **Pass the Flame** — Help others form their own Circles. The fruit of the tree contains new seeds.
@@ -77,7 +77,7 @@ If you have already gathered your Circle, **[[The LIØNSBERG Quick Start Guide]]
 
 ## The Full Architecture
 
-For the complete index of every Part, chapter, and play, see **[[The LIØNSBERG Playbook]]**.
+For the complete index of every Part, chapter, and play, see **[[The LIØNSBERG Playbook]]** / [[The LIONSBERG Playbook — Drafts and Notes]]
 
 ---
 

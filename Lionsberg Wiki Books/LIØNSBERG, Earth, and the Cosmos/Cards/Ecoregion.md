@@ -6,12 +6,14 @@ _A defined ecological zone characterized by distinctive flora, fauna, climate, s
 
 An **Ecoregion** is a unit of ecological classification — a contiguous geographical area sharing similar climate, dominant vegetation, characteristic species, and ecosystem function. The unit used by conservation biology, ecosystem mapping, and biodiversity science.
 
-Common classifications:
+**Approximately 750 to 1,000 terrestrial ecoregions** across the Earth, depending on the classification system. Common mappings:
 
-- **WWF Global 200** — 200+ priority ecoregions worldwide
+- **Olson et al. (2001) WWF terrestrial ecoregions** — 867 named ecoregions worldwide
+- **WWF Global 200** — 200+ priority ecoregions singled out for conservation focus
 - **Bailey's Ecoregions** (US Forest Service)
-- **EPA Ecoregions** (Levels I-IV, from coarse to fine)
-- **Olson et al.** terrestrial ecoregion mapping
+- **EPA Ecoregions** (Levels I through IV, from coarse to fine — the US alone has ~967 Level IV ecoregions)
+
+Marine ecoregions add hundreds more (Spalding et al. mapped 232 coastal/shelf marine ecoregions).
 
 Ecoregions nest hierarchically: large biome-scale units (temperate broadleaf forest, tropical rainforest, tundra) contain many smaller Level III and IV ecoregions with specific community compositions.
 
@@ -40,5 +42,5 @@ Ecoregions matter to LIØNSBERG because:
 
 - [[Bioregion]] — the cultural-ecological integration
 - [[Watershed]] — the hydrological unit
-- [[Living Systems Member]] — Class G representation of the land in Layer III governance
+- [[Living Systems Member]] — the Constituency that holds standing for the land and all her relatives in the federated ecosystem
 - [[Holofractal Omnifederation]] — the structural Pattern that nests all scales

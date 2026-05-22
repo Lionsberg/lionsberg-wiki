@@ -246,7 +246,7 @@ So here the 3 Simple Steps that every Individual can take, today:
 
 1. When you receive [[The Invitation]], accept it and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 2. Forge or join a Group / Team 
-	1. Aim for 3 to 16 other Individuals you enjoy being around and Co-Creating with. This should be fun and joyful.  
+	1. Aim for 3 to 13 other Individuals you enjoy being around and Co-Creating with. This should be fun and joyful.  
 	2. Love one another, help one another, discuss these issues, and send me questions. I will pool those into [[Frequently Asked Questions]] and answer them.  
 	3. Choose something to do together that makes your lives and your world a better place, and embark on your Quest. We are going to get really good at forming small groups to tackle the most meaningful projects and ideas we can identify.  
 	4. Figure out how to leverage and continuously improve the Lionsberg System to make your individual and group experience ever more joyful.  

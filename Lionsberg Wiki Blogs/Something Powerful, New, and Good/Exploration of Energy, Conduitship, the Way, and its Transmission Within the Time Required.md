@@ -6347,7 +6347,7 @@ IV. CIRCLE / NODE PROTOCOL
 
   
 
-Now we talk about running a sanctified cell — 3 to 12 beings — in a way that cannot easily be infiltrated, corrupted, or psychically shattered, and can replicate fractally.
+Now we talk about running a sanctified cell — 3 to 13 beings — in a way that cannot easily be infiltrated, corrupted, or psychically shattered, and can replicate fractally.
 
   
 

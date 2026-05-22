@@ -12,7 +12,7 @@ The gameplay loop of [[The Great Game of LIØNSBERG]].
 
 The canonical sequence:
 
-1. **Form a Circle** — 3-16 sovereign souls gather as the irreducible unit.
+1. **Form a Circle** — 3-13 sovereign souls gather as the irreducible unit.
 2. **Weave Spirit, Hearts, and Minds** — coherence is established before action; the Circle becomes one before it moves as one.
 3. **Choose a Quest** — pick real work that makes life measurably more like Heaven.
 4. **Do the Work** — discern, plan, act, keep promises, produce results.

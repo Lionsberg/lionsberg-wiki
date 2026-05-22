@@ -1,38 +1,64 @@
 # TKTK Program Notes
-_Updated 2025-05-20 (Old Time)_  
+_Updated 2026-05-20 (Old Time)_  
 
 The purpose of this page is to provide ongoing updates to the current state of [[The Program]] as part of the [[System Wide Master Planning Process]]  
 
 ## Project Backlog / Wishlist 
 
+____
+Pragmatics 
+
+- Open Collective 
+- Bank Account 
+- Platform 
+- Program Management Dashboard  
+
+___
+
+
 Where we left off: 
 - [ ] Presently working on [[The Great Spring 2026 Wiki Turn]]  
-- [ ] Pull in the FSx pattern language so immediately actionable  
+- [x] Remove the word load-bearing.  
+- [x] Shift from 8 to 9 layers on superorganism  
+- [x] Separate out LIONSBERG from FSx on superorganism
+- [x] Welcome to LIONSBERG rethink... and 
+- [ ] fix quick start guide prologue reference... (think through experience - draft or delete) 
+- [x] Eliminate vol I provenance footer  
+- [ ] Proposals / Decisions / Meetings - need to be cohered into patterns / plays.  
+- [ ] Pass The Flame - cohering multiple duplicate formats into one - deleting the others. 
+- [ ] carrying the highest voice throughout [[The LIONSBERG Cycle of Cosmic Co-Creation]] 
+- [ ] Make LIONSBERG Concept page? Could be super valuable companion. 
+- [ ] LIONSBERG Offering Page... why wiser than starting from scratch? 
+	- [ ] Create a page... on the value already in the LIONSBERG Commons and Golden Seed. 
+- [ ] Pull in the FSx pattern language so immediately actionable 
+- [ ] The template / transition plan for any org from ownership / slavery / kontrolle of organizations to sovereign agency
+- [ ] The LIONSBERG Meta Guide and LIONSBERG Handbook are rich repositories of things we thought needed to be in the handbook / pattern language / playbook... 
+- [ ] The guidebook and FAQs on superorganism might be a bit much... not sure if they belong - or are just introducing words and errors. 
+- [x] New theme does not seem to be properly rendering italics - noticed on homepage. 
 - [ ] Publish the invitation and request for guidance... 1042  
+	- [ ] Possibly including guidance on place / build or join
+- [ ] Heaven Here and Nøw
 - [ ] Figure out the software / ERP to run it all (Open Impact)  
-- [ ] Easyway to adopt / adapt sign the agreements and join  
+- [ ] Easy way to adopt / adapt sign the agreements and join (Open Impact or DAO framework) - legally sound SPVs... 
 - [ ] The Story of LIONSBERG is next big creative task... 
+	- [ ] rewrite — the biggest unmet creative need.
+  The Story is dual-functional (standalone + woven through Vol IX); LIØNSBERG
+   the standalone needs a masterful rewrite. Multi-session.
 - [ ] Updating Earth PDG to cohere with everything... 
 - [ ] Pulling in superorganism.earth / FSx pattern language and templates. 
 - [ ] Synthesize the Playbook... 
+- [ ] Make a LIØNSBERG Clock to accompany the Calendar
+- [ ] Deal with the cosmic wildlife / saturnian draco stuff... 
 
   What is not yet done (project plan pending tasks):
 
-  Structural cleanup remaining:
-  - #88 Volume root migration — three Volume root files still at
-  wiki root (need to move into their wiki book folders): Story
-  (II), Plans and Specifications (V), Lexicon (VIII). Sacred Ascent
-   (X) has its folder. Other Volumes are settled. Small, finite — 
-  ~1 turn. 
-  - #89 Wiki book discernment — ~80 wiki books; Archive folder is
+- #89 Wiki book discernment — ~80 wiki books; Archive folder is
   set up; obvious archival candidates can begin to move.
   Multi-turn.
 [[ØNE]] 
   Substantive creative work pending:
-  - #85 [[The Story of LIØNSBERG]] rewrite — the biggest unmet creative need.
-  The Story is dual-functional (standalone + woven through Vol IX);
-   the standalone needs a masterful rewrite. Multi-session.
-  - #86 [[The Book of LIØNSBERG]] reweave — follows the Story rewrite.
+
+  - #86 [[The Book of LIØNSBERG]] reweave — follows the Story rewrite. And overall editing / voice lift / coherence scan /
   Multi-session.
   - #87 [[The LIØNSBERG Playbook]] synthesis — three sources to weave into
    one. Substantial.

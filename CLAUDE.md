@@ -110,7 +110,7 @@ LIONSBERG is presented as a **Golden Seed** — the DNA of Heaven On Earth — f
 
 _Eight Elements of Cooperation:_
 1. **Shared Vision and Purpose** — ONE Goal: Creator's Intent / Heaven On Earth
-2. **Holofractal Omnifederation** — Circles of 3-16 sovereign beings, nesting into communities, bioregions, planetary grid. No center but ONE.
+2. **Holofractal Omnifederation** — Circles of 3-13 sovereign beings, nesting into communities, bioregions, planetary grid. No center but ONE.
 3. **Field of Agreements** — voluntary covenants governing right relationship (not imposed law)
 4. **Governance and Wise Eldership** — consent-based, two-coordinator model (one internal, one connecting outward)
 5. **Economy and Stewardship** — capital serves life, compressed ratios (7:1), tithe to commons, proof-of-contribution
@@ -126,7 +126,7 @@ _Four Elements of Production:_
 
 **The Seven Moves** (the gameplay loop of The Great Game):
 1. **Wake Up** — recognize the collapse, feel the call, choose to act
-2. **Form a Circle** — gather 3-16 resonant souls as the irreducible unit
+2. **Form a Circle** — gather 3-13 resonant souls as the irreducible unit
 3. **Choose a Quest** — pick real work that makes life measurably more like Heaven
 4. **Do the Work** — discern, plan, act, keep promises, produce results
 5. **Share Your Stories** — testimony as the primary vehicle of culture and spread

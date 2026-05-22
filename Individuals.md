@@ -15,7 +15,7 @@ Individuals are regarded as:
 
 To establish [[The Movement]], Individuals, of their own [[Free Will]], voluntary come into resonance and coherence, and accept The Invitation. 
 
-Individuals self-organize into [[First Degree Groups]] of 3 to 16 individuals. 
+Individuals self-organize into [[First Degree Groups]] of 3 to 13 individuals. 
 
 Groups organize and federate into Groups of Groups / Teams of Teams to tackle larger goals, cover more ground, or Steward larger [[Domains]]. 
 

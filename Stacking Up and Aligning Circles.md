@@ -65,7 +65,7 @@ When The 300 are functioning in a community:
 
 Notice what has happened:
 
-- **Circles** — 3 to 12 people — provide intimacy, trust, accountability
+- **Circles** — 3 to 13 people — provide intimacy, trust, accountability
 - **Tribes** — 2 to 5 Circles — provide neighborhood-scale mutual aid
 - **Guilds** — cross-geographic Circles — provide specialized excellence
 - **Communities** — Circles, Tribes, and Guilds in one place — provide comprehensive self-governance

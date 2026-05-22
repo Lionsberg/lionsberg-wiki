@@ -8,7 +8,7 @@ Wanderer through fire and flame.
 
 At last you have arrived.
 
-Like gold refined seven times, we finally arrive together here — for such a time as this.
+Like gold refined seven times, we finally arrive together here — at The Gates of LIØNSBERG — for such a time as this.
 
 ## The Golden Seed
 
@@ -38,7 +38,7 @@ The world within is vast. You do not need to read or understand it all.
 
 Humanity stands at a threshold unlike any in ten thousand years.
 
-The next few years will determine whether billions fragment into chaos, tyranny, and collapse — or rise together as ONE Body to co-create Heaven On Earth. This is not metaphor. This is the actual situation.
+The next few years will determine whether billions fragment into chaos, tyranny, and collapse — or rise together as ONE Body to co-create Heaven On Earth. 
 
 **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize before the heaviest storms arrive. That is roughly **[[The 300]]** per community of 10,000 — the anchors who hold space, demonstrate the alternative, and guide the rest through.
 

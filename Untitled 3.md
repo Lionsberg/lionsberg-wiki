@@ -150,7 +150,7 @@ Everyone has a role. The question is not whether you have the right credentials.
 
 ## HOW TO RESPOND
 
-**Step into the Game.** Form or join a Circle of 3-12 people who trust each other. Make the pledge: 42 hours and any contribution to the shared Commons. Choose a Quest — real work that makes life measurably more like Heaven on Earth. Pass the flame to the 2-3 you trust most.
+**Step into the Game.** Form or join a Circle of 3-13 people who trust each other. Make the pledge: 42 hours and any contribution to the shared Commons. Choose a Quest — real work that makes life measurably more like Heaven on Earth. Pass the flame to the 2-3 you trust most.
 
 **Contribute a puzzle piece.** If you are building something that belongs in this picture — a protocol, a platform, a community, a body of research, a governance model, a tradition of knowledge — bring it forward.
 
