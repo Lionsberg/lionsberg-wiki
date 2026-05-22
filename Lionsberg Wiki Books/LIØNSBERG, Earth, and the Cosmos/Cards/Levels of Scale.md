@@ -1,6 +1,6 @@
 # Levels of Scale
 
-_**DRAFT for review.** The canonical articulation of the holofractal nesting of place and federation, from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the spatial-federation nesting._
+_**DRAFT for review.** The canonical articulation of the holofractal nesting of scales — each scale a **domain** and a **superorganism** within ONE Living System — from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the systems / subsystems / supersystems nesting of the Body._
 
 ---
 
@@ -16,7 +16,7 @@ The canonical articulation, drawn together from [[The LIØNSBERG Strategy and Pl
 | **Cosmic**                   | the whole of creation                     | one                                                                                                    | the Eternal Logos                                                                               |                                                |
 | **Galactic**                 | a galaxy and its star-systems             | trillions, one per galaxy                                                                              | the cosmic neighborhood                                                                         |                                                |
 | **[[Star System as Biome]]** | a star and its planets                    | trillions of trillions, one per star                                                                   | the Federation of Worlds within the System                                                      |                                                |
-| **[[Planet as Biome]]**      | Planet as Biome]] / Planetary Grid**      | a whole living planet                                                                                  | tens of trillions of trillions, one per planet                                                  | the Planetary federation of all who dwell here |
+| **[[Planet as Biome]]** / Planetary Grid | a whole living planet | tens of trillions of trillions, one per planet | the Planetary federation of all who dwell here |  |
 | **[[Georegional]]**          | continental / major-infrastructure scale  | **~12 to 24 globally**                                                                                 | high-coordination undertakings (spacefaring, advanced manufacturing, planetary energy)          |                                                |
 | **[[Bioregion]]**            | integrative cultural-ecological territory | **~150 to 200 globally**                                                                               | federation of Ecoregions; shared land, water, climate, and the cultures of many ecologies woven |                                                |
 | **[[Ecoregion]]**            | shared ecological substrate               | **~750 to 1,000 globally**                                                                             | federation of Communities within one shared ecological zone                                     |                                                |
@@ -48,15 +48,15 @@ An [[Ecoregion]] is a domain, a superorganism of Communities, and a subsystem of
 
 **The whole is [[ØNE]] Living System.** Each scale is a living system in itself, nested inside larger living systems, composed of smaller living systems. The Pattern holds — at every scale — because the Pattern is the Pattern of Life, and Life is fractal.
 
-**[[Watershed|Watersheds]]** are a fractal lens that cuts across many scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Earth-as-Watershed at the planetary scale.
+**[[Watershed|Watersheds]]** are a fractal lens that cuts across many scales — a small creek-watershed within a Community, a river-watershed across an Ecoregion or Bioregion, a continental drainage across a Georegional, and ultimately Planet-as-Watershed at the planetary scale.
 
-## The Functional Axis — Cross-Cutting
+## The Functional Axis — Cross-Cutting Every Scale
 
-Beyond place and federation, there is a third axis: **function**. **[[Guild|Guilds]]** are vocational fellowships of practitioners — Healers, Builders, Teachers, Stewards, Farmers, Artists, Sages, Warriors — federated by craft rather than by place. Guilds emerge at the [[Community]] scale and federate at every scale above. The Guild axis cuts across all place-scales from Community up.
+Beyond the domain-and-superorganism nesting of scale, there is a cross-cutting axis: **function**. **[[Guild|Guilds]]** are vocational fellowships of practitioners — Healers, Builders, Teachers, Stewards, Farmers, Artists, Sages, Warriors — federated by craft rather than by territory. Guilds emerge at the [[Community]] scale and federate at every scale above. The Guild axis cuts across all domain-and-superorganism scales from Community up.
 
 So the full picture is:
 
-> Place-scale × Federation-scale × Functional-scale = three orthogonal axes of the holofractal Pattern
+> The nested scales of the Living System × the cross-cutting Guild fellowships of function = the holofractal Body in both its place-rooting and its craft-weaving.
 
 ## The Thresholds
 
@@ -72,8 +72,8 @@ Within the smooth ~10× nesting, there are qualitative thresholds where the **mo
 - **The Ecoregional threshold** (~10,000,000, ~750-1,000 globally) — Communities of many Localities and Cities sharing one ecological substrate federating to steward it together
 - **The Bioregional threshold** (~50-100,000,000, ~150-200 globally) — Ecoregions federating into the integrative cultural-ecological Bioregion
 - **The Georegional threshold** (~12-24 globally) — high-coordination undertakings (chips, spacefaring, large-scale energy) become feasible at scales not replicable in every Bioregion
-- **The Planetary threshold** — Earth as one Body; one of one
-- **The Cosmic-local threshold** — the Star System Biome, the Federation of Worlds, Earth meeting the wider cosmic neighborhood
+- **The Planetary threshold** — a planet as one Body; for Earth, the moment the Planetary Grid honors Planet-as-Biome as ground
+- **The Cosmic-local threshold** — the Star System Biome, the Federation of Worlds, a planet meeting the wider cosmic neighborhood
 
 **Each threshold marks a qualitative shift** in how the body coheres — the irreducible Circle, the proximity cluster, the direct-knowing limit, the Pattern-anchor by The 300, the Locality and City as federation seats, the Ecoregion as shared ecology, the Bioregion as integrated culture-and-place, the Georegional as specialized capacity, the Planetary as one Body. The work of [[The LIØNSBERG Strategy and Plan|the Strategy and Plan]], the [[The LIØNSBERG Playbook|Playbook]], the [[The Joseph Plan|Joseph Plan]] (Network of Hubs), the [[The Noah Plan|Noah Plan]] (Network of Arks), and the wilderness-navigation work all unfold across these scales.
 
