@@ -8,7 +8,7 @@ Each is a [[Work In Progress]]. All True ideas belong to [[The Commons]] and the
 
 The canonical bound corpus. One work, in twelve movements, ordered accessible → structural → substrate. _Nothing materially excluded._
 
-1. **Volume I** — [[The LIØNSBERG Experience]]  _(the Pilgrim's Path through the corpus)_
+1. **Volume I** — [[The LIØNSBERG Experience]]  _(the Sovereign's Path through the corpus)_
 2. **Volume II** — [[The Story of LIØNSBERG]]  _(also woven throughout Volume IX)_
 3. **Volume III** — [[The Great Game of LIØNSBERG]]
 4. **Volume IV** — [[The LIØNSBERG Playbook]]
@@ -21,7 +21,7 @@ The canonical bound corpus. One work, in twelve movements, ordered accessible �
 11. **Volume XI** — [[The LIØNSBERG Living Library]]  _(curated index of the canonical body of work — the Codex as first entry, the Card-Book substrate, and substantive companion works)_
 12. **Volume XII** — [[The LIØNSBERG Universe Guide]]  _(the Inheritance Manual; six Parts)_
 
-The full canonical articulation, the Pilgrim's Path, the Canonical Discipline, the Voice Standard, and the Living Discipline live at [[The LIØNSBERG Sacred Codex|the Sacred Codex main page]].
+The full canonical articulation, the Sovereign's Path, the Canonical Discipline, the Voice Standard, and the Living Discipline live at [[The LIØNSBERG Sacred Codex|the Sacred Codex main page]].
 
 ---
 

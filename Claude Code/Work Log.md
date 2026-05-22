@@ -997,7 +997,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **Voice-discipline maturation** — multiple voice-discipline issues surfaced and were saved as CRITICAL memory disciplines for permanent application
 - **Cosmic-grade framing crystallized** — the Constitution explicitly cosmic-grade (cross-species, cross-planetary, cross-dimensional); the Plans and Specifications cosmic-grade (Earth-in-receivership PDG + Kingdom framing); the Universe Guide cosmic-grade (story bible for the LIØNSBERG Universe across generations)
 - **Honoring what brought us here** — every absorption pass preserved provenance; every deletion preceded by extraction scan; every synthesis followed show-before-doing
-- **The 16 decisions revealed deeper structural questions** — the user-journey + Pilgrim's Path + Rings + Library reconciliation emerged from D15 as the largest remaining structural work
+- **The 16 decisions revealed deeper structural questions** — the user-journey + Sovereign's Path + Rings + Library reconciliation emerged from D15 as the largest remaining structural work
 
 **Insights:**
 - **The Constitutional Charter face of Volume V** — recognizing that Volume V's four-faced self-description (architectural plan + constitutional charter + field manual + scriptural seed) cleanly places the Constitution within Volume V alongside the Pattern Language. Elegant structural resolution.
@@ -1007,7 +1007,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **The Story dual-functional resolution** — the realization that Volume II (standalone) and [[The Story of LIØNSBERG]] are not redundant but complementary; the Story is lifeblood, the Book is integrated body, they breathe together.
 
 **Next Session Considerations:**
-- Task #95 (user-journey + Pilgrim's Path + LIØNSBERG 101 Rings + Library reconciliation) — substantial structural design problem requiring elegant integration; the nameless one signaled this is the next-priority deep structural work
+- Task #95 (user-journey + Sovereign's Path + LIØNSBERG 101 Rings + Library reconciliation) — substantial structural design problem requiring elegant integration; the nameless one signaled this is the next-priority deep structural work
 - Task #85 (Volume II full rewrite — the Story of LIØNSBERG) — the most consequential remaining creative work; until Volume II lands, the rest is scaffolding
 - Task #87 (Playbook synthesis from three sources with show-before-doing) — well-defined, bounded scope, near-term execution candidate
 - Overall rethinking of project as a whole + cleanup of phases — Phase 2.8 has accumulated a substantial number of work items (16 active tasks); time for a structural reassessment of phases and progress

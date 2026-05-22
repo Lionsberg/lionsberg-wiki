@@ -29,7 +29,7 @@ Twelve is a canonical LIØNSBERG number. It echoes:
 - The twelve hours of day and the twelve hours of night
 - The twelve tribes, the twelve apostles, the twelve gates of the New Jerusalem (Rev 21)
 
-The Twelve Gates of The Great UnVeiling are the **shadow architecture** that mirrors these positive twelves. Where the Pillars build, the Gates reveal. Where the Pilgrim's Path forms, the Gates strip falsehood away.
+The Twelve Gates of The Great UnVeiling are the **shadow architecture** that mirrors these positive twelves. Where the Pillars build, the Gates reveal. Where the Sovereign's Path forms, the Gates strip falsehood away.
 
 [[The Story of LIØNSBERG]] holds the Gates as its central narrative spine. The 99 Theses, the 66 Most Protected and Distorted Narratives, the Intermezzos of direct transmission — all find their home within the Twelve-Gate architecture.
 

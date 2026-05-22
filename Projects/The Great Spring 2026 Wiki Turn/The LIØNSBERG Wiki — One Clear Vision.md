@@ -34,11 +34,11 @@ It says: *the building is on fire; here is the path; the time is now.* It quotes
 
 ### Layer Two — The Gateway (read in fifteen minutes)
 
-[[Welcome to LIØNSBERG]]. Names what this is. Distinguishes it from what it is not. Offers the choice: walk the architectural meta-view (the Sacred Codex), or walk the Experience (the Pilgrim's Path). Both paths converge.
+[[Welcome to LIØNSBERG]]. Names what this is. Distinguishes it from what it is not. Offers the choice: walk the architectural meta-view (the Sacred Codex), or walk the Experience (the Sovereign's Path). Both paths converge.
 
-For most readers, the Pilgrim's Path is the right door. The Codex view is for those who want to see the whole shape before walking it.
+For most readers, the Sovereign's Path is the right door. The Codex view is for those who want to see the whole shape before walking it.
 
-### Layer Three — The Walked Hour (the Pilgrim's Path, ~60 minutes)
+### Layer Three — The Walked Hour (the Sovereign's Path, ~60 minutes)
 
 [[The LIØNSBERG Experience]] opens. Twelve Gates of Initiation. The reader walks each Stage as a roughly five-minute movement:
 
@@ -55,7 +55,7 @@ For most readers, the Pilgrim's Path is the right door. The Codex view is for th
 11. **Covenant and Jubilee — December 2033** — The named threshold. The end of the 10 Year Grand Strategy.
 12. **Eternal Play** — The Lila. The Game that does not end.
 
-The reader who completes the Pilgrim's Path has, at minimum:
+The reader who completes the Sovereign's Path has, at minimum:
 - Heard the diagnosis of the moment
 - Seen the Witness — eight historical movements that walked this Pattern; one man who lived it to his death
 - Walked the Path — the Seven Moves at first resolution
@@ -261,7 +261,7 @@ Sixteen structural decisions gate the next phase of work. Each is articulated in
 
 After Phase 2's audit closure, the order of operations is clear. It runs in four moves.
 
-**Move One — Polish The Door (Weeks Ahead).** Finish the Pilgrim's Path. Every one of the twelve Gates polished, each five-minute reading complete, each transition to the next Gate clean. Test the hour-long walked experience with three or four readers in the First Three Percent and refine until it lands.
+**Move One — Polish The Door (Weeks Ahead).** Finish the Sovereign's Path. Every one of the twelve Gates polished, each five-minute reading complete, each transition to the next Gate clean. Test the hour-long walked experience with three or four readers in the First Three Percent and refine until it lands.
 
 **Move Two — Write Volume II (Months Ahead).** The single most consequential remaining piece. The Story of LIØNSBERG as a bound text. Twenty to forty thousand words. One sustained voice. The cosmic context + the Caves + the Eight Lineages + Jordan's testimony + the Sacred Flame + the Invitation, woven into one continuous read.
 
@@ -269,7 +269,7 @@ After Phase 2's audit closure, the order of operations is clear. It runs in four
 
 **Move Four — Plant The Seed (When Move Two and Move Three Are Substantially Done).** The corpus is ready to pass hand to hand at full depth. The 250M target by Winter Solstice 2026 begins.
 
-Until Move One and Move Two are complete, the Seed is mostly ready but not fully ready. The hour-long Pilgrim's Path works today. The deeper Volumes are scaffolded for those who want to explore them. But the spine of the Codex — Volume II, The Story — is the gating piece. Everything else hangs from it.
+Until Move One and Move Two are complete, the Seed is mostly ready but not fully ready. The hour-long Sovereign's Path works today. The deeper Volumes are scaffolded for those who want to explore them. But the spine of the Codex — Volume II, The Story — is the gating piece. Everything else hangs from it.
 
 ---
 
@@ -287,7 +287,7 @@ This is the Welcome.
 
 They follow the marked stones through the clearing, and each stone is a Gate, and each Gate takes about five minutes to read, and there are twelve Gates, and by the time they reach the twelfth Gate they are at the edge of the clearing with the city visible in the distance, and they know the names of two or three people from their own life they will go back and tell.
 
-This is the Pilgrim's Path.
+This is the Sovereign's Path.
 
 Beyond the twelfth Gate, the path continues into a great library. The library has seven rooms, and each room holds a Volume of the Sacred Codex, and the traveler is told they are welcome to enter any room at any time but they do not need to enter any room to live what they have already received.
 

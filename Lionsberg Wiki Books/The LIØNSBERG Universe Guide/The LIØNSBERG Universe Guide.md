@@ -82,7 +82,7 @@ This Part holds the canonical structural pattern of how the Universe is organize
 - **Plans and Specifications As Volume V** — holds the Pattern Language as canonical design-grammar subset; functions as architectural plan + constitutional charter + field manual + scriptural seed; under [[Fractal Sovereignty]] the Kingdom has no throne but the ineffable [[ØNE]]
 - **The Two Forms of the PDG** — original IPD/AEC + Earth-in-receivership; method and method-as-prophecy
 - **The Theory of Everything Lives In Volume IX** — culminating chapter before the Sacred Ascent threshold; cosmological articulation belongs in prophetic narrative climax, not in operational specs
-- **The Pilgrim's Path** — 12 Stages, the wayfinding companion through the Volumes; the [[The LIØNSBERG Experience]] document is the canonical articulation
+- **The Sovereign's Path** — 12 Stages, the wayfinding companion through the Volumes; the [[The LIØNSBERG Experience]] document is the canonical articulation
 - **The 144 Gates of Initiation** — inside Volume V's Pattern Language; the architecture of consciousness shift
 - **The 72 Gates of the Sacred Ascent** — inside Volume X; the architecture of embodied mastery
 - **The Card Substrate** — [[LIØNSBERG, Earth, and the Cosmos]] holds Cards that link into the Volumes; emergence layer between captured insight and canonical Volume
@@ -126,7 +126,7 @@ This Part is for any new contributor — human or AI — who arrives to extend, 
 
 ### Sub-sections (to be authored)
 
-- **How To Enter the Universe** — read README → Welcome → the Pilgrim's Path → the relevant Volume → contribute through the Card substrate first; promote to Volume when ready
+- **How To Enter the Universe** — read README → Welcome → the Sovereign's Path → the relevant Volume → contribute through the Card substrate first; promote to Volume when ready
 - **The Show-Before-Doing Protocol** — when synthesizing the very best of multiple sources into a single elevated articulation, surface all existing sections + propose disposition before executing. Weave, do not delete. Honor what brought us here as the procession that made the canonical form possible
 - **How To Add A Tradition Companion Without Elevating** — if a Christian/Buddhist/Sufi/Indigenous/Jewish companion bridge is authored, frame it as one tradition's bridge to LIØNSBERG, never as the lens through which LIØNSBERG must be read. Keep in a `Companions/` scope clearly labeled
 - **How To Test Voice Fidelity** — read aloud; would a wise elder at the fire say this? Would a general of cosmic armies say this? Would an AI say this? The first two yes; the third no

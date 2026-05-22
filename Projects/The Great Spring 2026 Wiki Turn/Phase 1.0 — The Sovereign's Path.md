@@ -10,9 +10,9 @@ _Everything herein is evolvable. Nothing is fixed. Seeking the Wise Right Thing.
 
 The frame proposed below was reviewed and the following decisions are now load-bearing for Phase 1.1 and downstream work:
 
-- **Architecture: Experience as gateway, Codex as corpus.** (Option A confirmed.) The Pilgrim's Path is the wayfinding spine; the Sacred Codex is the bound seven-volume corpus.
-- **The Pilgrim's Path has 12 stages, not 11.** Stage 11 is **Covenant and Jubilee** — the moment when the New Earth Operating System is fully embodied and adopted for this star system and civilization (currently scheduled for the greatest celebration and jubilee in recorded history, **December 2033**). Stage 12 is the **Eternal Play**.
-- **Every page from `README.md` onward is reevaluated in the light of The Experience we are designing for each and every pilgrim.** Nothing is preserved by inertia. Each canonical page either serves the Pilgrim's Path or is folded / archived / rewritten.
+- **Architecture: Experience as gateway, Codex as corpus.** (Option A confirmed.) The Sovereign's Path is the wayfinding spine; the Sacred Codex is the bound seven-volume corpus.
+- **The Sovereign's Path has 12 stages, not 11.** Stage 11 is **Covenant and Jubilee** — the moment when the New Earth Operating System is fully embodied and adopted for this star system and civilization (currently scheduled for the greatest celebration and jubilee in recorded history, **December 2033**). Stage 12 is the **Eternal Play**.
+- **Every page from `README.md` onward is reevaluated in the light of The Experience we are designing for each and every pilgrim.** Nothing is preserved by inertia. Each canonical page either serves the Sovereign's Path or is folded / archived / rewritten.
 - **The LIØNSBERG Experience folder is an artifact of a previous build.** It is fully reviewed and improved, or folded into canonical homes and deleted. No half-states.
 - **The 144 Gates of Initiation and the 72 Gates of the Sacred Ascent belong inside the Pattern Language** (Phase 3). They are not separate works. Every being, forever, will need to understand them.
 - **The 144 Gates are the architecture of consciousness shift.** They address the epiphanies, connections, and neural / conceptual architecture that have to be in place for a being to grasp the System as a whole. Phase 3 must discern the wise right order and sequence of initiation to build these reliably — essentially, **how do we shift consciousness to where this is obviously the wise right thing that must be done to confront and overcome the challenges at hand and co-create Heaven here and now?**
@@ -96,7 +96,7 @@ The Codex is a noun. The Experience is a verb.
    │           ↓                                                  │
    │                                                              │
    │   LAYER 2 — THE LIØNSBERG EXPERIENCE                         │
-   │   The Pilgrim's Path — the wayfinding through the Codex      │
+   │   The Sovereign's Path — the wayfinding through the Codex      │
    │   (7 stages: Threshold → Gates → Story → Game → Ascent →     │
    │    Codex → Eternal Play)                                     │
    │                                                              │
@@ -266,7 +266,7 @@ Sections:
 
 **3. The Seven Volumes.** Each named, briefly described, with its one-line essence. Links to the volume root files.
 
-**4. The Pilgrim's Path.** A short articulation of how a pilgrim moves through the Codex — pointing into `The LIØNSBERG Experience` as the wayfinding companion.
+**4. The Sovereign's Path.** A short articulation of how a pilgrim moves through the Codex — pointing into `The LIØNSBERG Experience` as the wayfinding companion.
 
 **5. The Canonical Discipline.** Declares: one source per concept; every page either lives within a volume or supports one; every reference points to the canonical home; archived material is preserved with provenance.
 
@@ -303,7 +303,7 @@ This preserves both the bound-corpus value of the Codex and the wayfinding value
 ## 10. Resolved: Open Questions
 
 - [x] **Codex-vs-Experience framing** — Option A. Experience is the gateway / wayfinding; Codex is the corpus.
-- [x] **`Welcome to LIØNSBERG.md` and the functional gateway** — Welcome to LIØNSBERG _is_ the functional gateway (Stages 2-3 of the Pilgrim's Path). `README.md` is the Threshold (Layer 1 / Stage 1). Both are reevaluated in Phase 1.2 in light of the 12-Stage Experience.
+- [x] **`Welcome to LIØNSBERG.md` and the functional gateway** — Welcome to LIØNSBERG _is_ the functional gateway (Stages 2-3 of the Sovereign's Path). `README.md` is the Threshold (Layer 1 / Stage 1). Both are reevaluated in Phase 1.2 in light of the 12-Stage Experience.
 - [x] **The 144 Gates of Initiation and the 72-Gate Sacred Ascent** — both live inside the Pattern Language (Phase 3). They are not separate works. Every being, forever, will need to understand them. The 144 Gates are the architecture of consciousness shift — the epiphanies, connections, and neural / conceptual scaffolding that have to be in place for a being to grasp the System as a whole. **The Phase 3 design must discern the wise right order and sequence of initiation to build these reliably — essentially, how do we shift consciousness to where this is obviously the wise right thing that must be done to confront and overcome the challenges at hand and co-create Heaven here and now?**
 - [x] **The Eternal Divine Play** — the closing movement of the Sacred Ascent, not a separate volume. It becomes the threshold into Stage 12 (Eternal Play).
 - [x] **Cosmic / Interdimensional / Trans-Species / Trans-Lingual content** — woven through everything matter-of-factly. Not a human-centric Pattern Language, Story, or Path. Of course we rightly relate to all forms of life and consciousness in the unfolding Cosmos as part of the System and Story.

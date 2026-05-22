@@ -138,11 +138,11 @@ The Sacred Codex's seven-Volume architecture already exists as a frame. What the
 
 `README.md` — The Threshold. The Golden Seed in its compressed form. Three to five paragraphs that name the moment, the stakes, and the door. Sized to be received at three in the morning by someone awakening to crisis. No further architecture visible until the reader chooses to walk through.
 
-### The Gateway — Welcome to LIØNSBERG and The Pilgrim's Path
+### The Gateway — Welcome to LIØNSBERG and The Sovereign's Path
 
 The reader who walks through reaches `Welcome to LIØNSBERG`. From there, two paths:
 - The architectural meta-view: `The LIØNSBERG Sacred Codex` (the bound seven-Volume corpus)
-- The walked Experience: `The LIØNSBERG Experience` (the twelve-stage Pilgrim's Path designed to be walked in approximately one hour)
+- The walked Experience: `The LIØNSBERG Experience` (the twelve-stage Sovereign's Path designed to be walked in approximately one hour)
 
 Both paths converge on the bound corpus.
 
@@ -209,9 +209,9 @@ A reader awakening to crisis at three in the morning, opening the wiki for the f
 
 - `README.md` (the threshold)
 - `Welcome to LIØNSBERG` (the gateway)
-- The Twelve-Stage Pilgrim's Path (the walkable hour)
+- The Twelve-Stage Sovereign's Path (the walkable hour)
 
-These exist today. They work today. The reader who completes the Pilgrim's Path knows what LIØNSBERG is, knows where the Pattern lives, knows how to form a Circle, knows how to choose a Quest, knows how to Pass the Flame. From that point, every deeper Volume is an option, not a prerequisite.
+These exist today. They work today. The reader who completes the Sovereign's Path knows what LIØNSBERG is, knows where the Pattern lives, knows how to form a Circle, knows how to choose a Quest, knows how to Pass the Flame. From that point, every deeper Volume is an option, not a prerequisite.
 
 The Codex completion is the work of years. The Seed is ready now.
 

@@ -445,7 +445,7 @@ The single-source-per-concept rule is honored explicitly:
 - **Vocabulary, named concepts, the Word Tools, cross-tradition resonances** → [[The LIØNSBERG Lexicon]]. Volume V uses Lexicon terms; the Lexicon defines them.
 - **The integrated long-form prophetic narrative, the Quests, the Theory of Everything as culminating chapter** → [[The Book of LIØNSBERG]]. Volume V provides the structural body that the Book narrates the building of.
 - **Embodied mastery, the eternal upward spiral, the 72 Gates** → [[The Sacred Ascent]]. Volume V provides the architectural body; Volume X provides the path of embodied rising.
-- **The Pilgrim's Path through the Volumes** → [[The LIØNSBERG Experience]] (companion). Volume V is one of the destinations along the path; not the path itself.
+- **The Sovereign's Path through the Volumes** → [[The LIØNSBERG Experience]] (companion). Volume V is one of the destinations along the path; not the path itself.
 - **The 10 Year Grand Strategy in time-bound form** → [[The LIØNSBERG Strategy and Plan]] (living companion document). Volume V is the eternal structural Plans; the Strategy and Plan is the present-moment historical strategy.
 
 The **Constitution** lives within Volume V (as Part III — The Constitutional Charter) yet is its own canonical document. The **Pattern Language** lives within Volume V (as Part VI — the canonical design grammar) yet substantively threads every other Part. The relationship is: **Volume V is the structural body of the New Civilization; the other Volumes are its life, voice, vocabulary, story, mastery, and pathway.**

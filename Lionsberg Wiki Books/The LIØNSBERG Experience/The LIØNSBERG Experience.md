@@ -1,6 +1,6 @@
 # The LIØNSBERG Experience
 
-_Volume I of [[The LIØNSBERG Sacred Codex|the Sacred Codex]]. The Pilgrim's Guidebook through the bound corpus — the path each sovereign being walks, the daily way they live, the temporal calendar by which they mature, from the moment the Seed is received to the moment the Game becomes infinite._
+_Volume I of [[The LIØNSBERG Sacred Codex|the Sacred Codex]]. The Sovereign's Guidebook through the bound corpus — the path each sovereign being walks, the daily way they live, the temporal calendar by which they mature, from the moment the Seed is received to the moment the Game becomes infinite._
 
 ---
 

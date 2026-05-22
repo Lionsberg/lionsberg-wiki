@@ -58,7 +58,7 @@ The mapping is structural:
 - **The Budget is what the Earth and her People can give without harm** — capital subordinate to purpose; jubilee cycles preventing accumulation; LUV measuring contribution
 - **The Contract is [[The LIØNSBERG Constitution]]** — the cosmic-grade IPD Agreement; the binding under which all parties work
 - **The IPD Agreement and Core Group are constitutional bodies** — federation councils, Stewardship Circles, the Bioregional Assemblies
-- **The Big Room is co-located practice** — Circles meeting weekly; Communities gathering seasonally; the Convergence at Stage 10 of the Pilgrim's Path; the Refounding at Covenant and Jubilee — December 2033
+- **The Big Room is co-located practice** — Circles meeting weekly; Communities gathering seasonally; the Convergence at Stage 10 of the Sovereign's Path; the Refounding at Covenant and Jubilee — December 2033
 - **Target Value Design becomes Design To The Goal** — every Pattern, every Pillar, every Volume designed against Heaven On Earth as the irreducible Target; cost flexes through innovation, quality cannot lower
 - **The Last Planner System becomes Pull Planning at Civilizational Scale** — backward from [[Covenant and Jubilee — December 2033]] through the seasonal milestones; reliable commitments at every Circle; constraint analysis and removal at every cadence
 - **The Network of Commitments operates at every scale** — the same SHOULD / CAN / WILL / DID cycle of reliable promises that holds an IPD project together holds a Circle, a Community, a Bioregion, a Planet

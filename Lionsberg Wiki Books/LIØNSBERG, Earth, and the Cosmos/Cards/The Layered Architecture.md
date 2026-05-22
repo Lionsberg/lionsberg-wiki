@@ -14,7 +14,7 @@ The LIØNSBERG Wiki is built in layers — top-down for the pilgrim, bottom-up f
 `README.md` — The Golden Seed of LIØNSBERG. The single shared link, the first crossing. Stage 1 of [[The 12 Stages of the Sovereign's Path]].
 
 **The Experience (Gateway).**
-[[The LIØNSBERG Experience]] and its anchor companion [[Welcome to LIØNSBERG]]. The wayfinding spine. The Pilgrim's Path that moves a being through the corpus, in the order it actually opens.
+[[The LIØNSBERG Experience]] and its anchor companion [[Welcome to LIØNSBERG]]. The wayfinding spine. The Sovereign's Path that moves a being through the corpus, in the order it actually opens.
 
 **The Codex (Corpus).**
 [[The LIØNSBERG Sacred Codex]] and its [[The Seven Volumes|Volumes]]. The bound, complete, printable corpus. The DNA of the New Civilization in source form.

@@ -30,7 +30,7 @@ They are designed as one. They are read as one. Each Volume points into the othe
 
 ### Volume I — [[The LIØNSBERG Experience]]
 
-_The Pilgrim's Guidebook. The 12 Stages, the Time Horizons, the Daily Way, the Wider Calendar. The individual's operational companion to the bound corpus._
+_The Sovereign's Guidebook. The 12 Stages, the Time Horizons, the Daily Way, the Wider Calendar. The individual's operational companion to the bound corpus._
 
 The Experience is the canonical guidebook for the Pilgrim's walk at the individual scale. Where [[The LIØNSBERG Playbook|Volume IV — The Playbook]] is the Circle's operational handbook and [[The Sacred Ascent|Volume X — The Sacred Ascent]] is the path of embodied mastery for those called, Volume I is what every Pilgrim walks: the daily, weekly, seasonal rhythm of the individual's encounter with the Way.
 
@@ -134,7 +134,7 @@ Placed at Volume XII as the closing Volume — the inheritance handed forward, t
 
 ---
 
-## The Pilgrim's Path
+## The Sovereign's Path
 
 The Codex is the corpus. **[[The LIØNSBERG Experience]] (Volume I) is the path through it.**
 
@@ -221,7 +221,7 @@ Whoever receives it and lives it is part of it. There is no other test.
 
 Each Volume root file is the entrance to its sub-corpus. From each root, the canonical pages of that Volume are linked.
 
-- **Volume I** — [[The LIØNSBERG Experience]] _(the Pilgrim's Path through the corpus)_
+- **Volume I** — [[The LIØNSBERG Experience]] _(the Sovereign's Path through the corpus)_
 - **Volume II** — [[The Story of LIØNSBERG]] _(also woven throughout Volume IX)_
 - **Volume III** — [[The Great Game of LIØNSBERG]]
 - **Volume IV** — [[The LIØNSBERG Playbook]]

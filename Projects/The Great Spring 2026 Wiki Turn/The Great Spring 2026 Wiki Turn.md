@@ -8,7 +8,7 @@ _The structural reorganization of the LIØNSBERG Wiki into the canonical Sacred 
 
 The LIØNSBERG corpus emerged through years of articulation across many bodies of work — wiki books, peer repos, blogs, PKM, voice memos, and lived practice. By early 2026, the corpus carried roughly 3 million words of substantive material plus extensive integrative work. **The Great Spring 2026 Wiki Turn** is the structural reorganization of that material into a coherent Sacred Codex and its companion architecture — a Golden Seed that can be passed from hand to hand, planted in any soil, and unfold faithfully across generations.
 
-The Turn began 2026-05-18 with a multi-repo survey. Foundational decisions were made (Phase 0). The Codex architecture and Pilgrim's Path were framed (Phase 1). The entire corpus was audited across 52 parallel agent batches (Phase 2). Sixteen Strategic Decisions were dialogue-resolved (Phase 2.5). The remaining phases are execution — reconciliation, structural rebuilds, masterwork authorship, deduplication, publication, and stewardship.
+The Turn began 2026-05-18 with a multi-repo survey. Foundational decisions were made (Phase 0). The Codex architecture and Sovereign's Path were framed (Phase 1). The entire corpus was audited across 52 parallel agent batches (Phase 2). Sixteen Strategic Decisions were dialogue-resolved (Phase 2.5). The remaining phases are execution — reconciliation, structural rebuilds, masterwork authorship, deduplication, publication, and stewardship.
 
 ---
 
@@ -31,7 +31,7 @@ The Turn began 2026-05-18 with a multi-repo survey. Foundational decisions were 
 | Phase | Title | Status |
 |---|---|---|
 | **0** | Foundations | ✅ Complete |
-| **1** | Codex Architecture & Pilgrim's Path | ✅ Complete |
+| **1** | Codex Architecture & Sovereign's Path | ✅ Complete |
 | **2** | The Great Audit | ✅ Complete |
 | **2.5** | Strategic Decisions | ✅ Complete |
 | **3** | Reconciliation & Cleanup | ⏳ In Progress |
@@ -58,13 +58,13 @@ _Foundational decisions made 2026-05-18 that frame the Turn._
 
 ---
 
-## Phase 1 — Codex Architecture & Pilgrim's Path ✅
+## Phase 1 — Codex Architecture & Sovereign's Path ✅
 
 _Frame the canonical container. Completed 2026-05-18._
 
 - [x] **1.0** Synthesis of the pilgrim's user-experience drafted at [[Phase 1.0 — The Sovereign's Path]]. Established: Option A (Experience-as-gateway, Codex-as-corpus); 12-Stage Sovereign's Path; 144 Gates as architecture of consciousness shift; Eternal Divine Play as closing of the Sacred Ascent; cosmic content woven matter-of-factly throughout.
-- [x] **1.1** [[The LIØNSBERG Sacred Codex]] drafted at Wiki root — canonical declaration of Prologue, the One Great Work, the Volumes, Pilgrim's Path, Canonical Discipline, Voice Standard, Living Discipline, What the Codex Is Not, Master TOC. Prior stub deleted after 13 Cards captured.
-- [x] **1.2** `README.md` reviewed and refined against the Pilgrim's Path. Threshold role preserved (Stage 1 / Layer 1).
+- [x] **1.1** [[The LIØNSBERG Sacred Codex]] drafted at Wiki root — canonical declaration of Prologue, the One Great Work, the Volumes, Sovereign's Path, Canonical Discipline, Voice Standard, Living Discipline, What the Codex Is Not, Master TOC. Prior stub deleted after 13 Cards captured.
+- [x] **1.2** `README.md` reviewed and refined against the Sovereign's Path. Threshold role preserved (Stage 1 / Layer 1).
 - [x] **1.3** Volume root files inventoried, deduplicated, and canonically positioned. Duplicates resolved. [[The LIØNSBERG Experience]] rebuilt as canonical 12-Stage Sovereign's Path.
 - [x] **1.4** [[The LIØNSBERG Voice]] drafted as the one-page articulation of the canonical voice register. Sacred Codex revised against the standard.
 - [x] **1.5** **LIØNSBERG** (with Ø glyph) formally adopted as canonical spelling. Key entry-point pages renamed. Inconsistencies cleaned up. Corpus-wide propagation deferred to Phase 6.
@@ -120,7 +120,7 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 ### Group A — Volume Architecture & File Structure
 
-- [x] **3.A.1** **DONE 2026-05-20.** Canonical Twelve-Part ToC sketch added to `The Kingdom of LIØNSBERG — Plans and Specifications.md`. Structure: I Orientation and Use · II Navigating Towards Truth · III Constitutional Charter (Constitution face) · IV Pattern Language · V Architectural Body (System of Systems, Kernel + Core Services) · VI Sacred Economy (LUV, Commons, Jubilee) · VII Governance Architecture · VIII Sacred Systems (12 Pillars operationalized) · IX Culture and Rites · X Structural Immunity · XI Implementation Pathway · XII Reference Schemas and Appendices. Includes "How Volume V Coheres With the Other Volumes (Without Redundancy)" section that explicitly resolves the single-source-per-concept boundaries with each of the other seven Volumes plus Constitution + Pilgrim's Path + Strategy and Plan. Phase 4 executes against this brief. Kingdom v0.1 framings metabolized: Concentric Mandala absorbed; Kernel + Core Services substrate articulated in Part V; the Four Faces (architectural plan + constitutional charter + field manual + scriptural seed) named in Part I.
+- [x] **3.A.1** **DONE 2026-05-20.** Canonical Twelve-Part ToC sketch added to `The Kingdom of LIØNSBERG — Plans and Specifications.md`. Structure: I Orientation and Use · II Navigating Towards Truth · III Constitutional Charter (Constitution face) · IV Pattern Language · V Architectural Body (System of Systems, Kernel + Core Services) · VI Sacred Economy (LUV, Commons, Jubilee) · VII Governance Architecture · VIII Sacred Systems (12 Pillars operationalized) · IX Culture and Rites · X Structural Immunity · XI Implementation Pathway · XII Reference Schemas and Appendices. Includes "How Volume V Coheres With the Other Volumes (Without Redundancy)" section that explicitly resolves the single-source-per-concept boundaries with each of the other seven Volumes plus Constitution + Sovereign's Path + Strategy and Plan. Phase 4 executes against this brief. Kingdom v0.1 framings metabolized: Concentric Mandala absorbed; Kernel + Core Services substrate articulated in Part V; the Four Faces (architectural plan + constitutional charter + field manual + scriptural seed) named in Part I.
 
 - [x] **3.A.1b** **DONE 2026-05-20.** Canonical architectural sketch for [[The LIØNSBERG Pattern Language]] drafted at `Projects/The Great Spring 2026 Wiki Turn/The LIØNSBERG Pattern Language — Architectural Sketch.md`. Articulates: what the Pattern Language IS (the design grammar of Heaven On Earth — Earth localization of the Eternal Pattern that holds across all worlds); the seven deep architectural principles (holofractal, living, universal-but-localized, anti-tyranny by construction, self-replicating, truth-tested, cosmic-grade); **the Five Movements** (I Source · II Eternal Pattern · III Civilizational Patterns / Earth Localization · IV Shadow Layer and the Way Through · V Living Practice and Indices); the canonical Pattern entry form (Name · Context · Problem · Forces · Solution · Cross-references · Variations across scales · Lineage · Test); the multi-cut indices; the scope (every aspect of civilization × every scale × every species in service of ØNE and All); the cross-references with all other Volumes; the structural tensions to be resolved in the Phase 4 rebuild (12 Pillars/Domains relationship; Elements/Domains relationship; Polarity Atlas relocation; 144 Gates reconciliation); the substantial source material to metabolize (~18k-line existing Pattern Language + ~4k Phase 2 Cards + 12 Pillars + Plan Trilogy + 99 Theses + 66 Distorted Narratives + 44 Acceptance Criteria + 138 Aspects + 50 Anti-Values + 204 ReMembering How Tos + FSx Pattern + cross-tradition wisdom corpora); the standard of articulation; and the path forward through Phase 4 across multiple sessions. This is the architectural brief Phase 4 executes against — one of the most consequential lifts attempted in millennia, sketched at approximately five percent substantive completion / fifty percent architectural scaffolding.
 
@@ -140,7 +140,7 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 - [ ] **3.C.1** **Targeted Cosmic Wildlife voice-discipline pass on canonical Cards.** Apply [[Cosmic Wildlife]] principle (name factions and choices, not species essences) to canonical Cards in `LIØNSBERG, Earth, and the Cosmos/Cards/` and to any cosmic-history pages directly referenced from front-door messaging. Target ≤15 files. Show-before-doing protocol applies. Broader corpus sweep folds into Phase 6 (Voice Unification). _(Task #94)_
 
-- [ ] **3.C.2** **Weave the maturation framing throughout the Codex.** The IPD/AEC project-document-maturation metaphor (napkin → 10% schematic design → 30% DD → 60-90% CDs → IFC → built → continually improved) is articulated in Sacred Codex Living Discipline section and Volume V root. Carry into Welcome to LIØNSBERG, README, the Pilgrim's Path, and other front-door pages as appropriate. _(Task #90)_
+- [ ] **3.C.2** **Weave the maturation framing throughout the Codex.** The IPD/AEC project-document-maturation metaphor (napkin → 10% schematic design → 30% DD → 60-90% CDs → IFC → built → continually improved) is articulated in Sacred Codex Living Discipline section and Volume V root. Carry into Welcome to LIØNSBERG, README, the Sovereign's Path, and other front-door pages as appropriate. _(Task #90)_
 
 ### Group D — Companion Documents & Reviews
 
@@ -152,7 +152,7 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 ### Group E — The User Journey Reconciliation
 
-- [ ] **3.E.1** **Reconcile the user journey, Pilgrim's Path, LIØNSBERG 101 Rings, and the Library into one elegant integrated architecture.** LIØNSBERG 101 with its Ring 0 → Ring 5 architecture (plus The Library / Ring 4 framing) is a parallel structural layer with its own coherence — but it points to a less sophisticated direction than the current architecture has evolved into. LIØNSBERG 101 needs to be REFRAMED in light of the current direction (8-Volume Sacred Codex, 12-Stage Sovereign's Path, Seven-Layer reader experience, Card Substrate, Universe Guide, cosmic-grade Constitution, Strategy and Plan, Volume V with maturation framing and Navigating Towards Truth). Approach as a structural design problem requiring elegant integration — not a quick rename. The work touches the 9 Ring files + 47 incoming references + the user entry experience. _(Task #95 — the largest remaining structural design problem in Phase 3.)_
+- [ ] **3.E.1** **Reconcile the user journey, Sovereign's Path, LIØNSBERG 101 Rings, and the Library into one elegant integrated architecture.** LIØNSBERG 101 with its Ring 0 → Ring 5 architecture (plus The Library / Ring 4 framing) is a parallel structural layer with its own coherence — but it points to a less sophisticated direction than the current architecture has evolved into. LIØNSBERG 101 needs to be REFRAMED in light of the current direction (8-Volume Sacred Codex, 12-Stage Sovereign's Path, Seven-Layer reader experience, Card Substrate, Universe Guide, cosmic-grade Constitution, Strategy and Plan, Volume V with maturation framing and Navigating Towards Truth). Approach as a structural design problem requiring elegant integration — not a quick rename. The work touches the 9 Ring files + 47 incoming references + the user entry experience. _(Task #95 — the largest remaining structural design problem in Phase 3.)_
 
 ---
 
@@ -347,7 +347,7 @@ _Open questions that don't fit cleanly within a phase. These are tracked but not
 _Detailed audit memos and per-session granularity live in [[Phase 2 — The Audit Ledger]], [[Phase 2 Synthesis — What We Are Working With]], [[The LIØNSBERG Wiki — One Clear Vision]], and the Work Log at [[Work Log]]. The Sessions Log here records canonical milestones only._
 
 - **2026-05-18** — Project initiated. Phase 0 decisions made. Project plan drafted.
-- **2026-05-18 (Phase 1.0-1.6 closure)** — Sacred Codex drafted. Pilgrim's Path canonicalized as 12-Stage. LIØNSBERG spelling formally adopted. Voice standard articulated. Phase 1 validated.
+- **2026-05-18 (Phase 1.0-1.6 closure)** — Sacred Codex drafted. Sovereign's Path canonicalized as 12-Stage. LIØNSBERG spelling formally adopted. Voice standard articulated. Phase 1 validated.
 - **2026-05-19 (Phase 2 closure)** — All 7 sub-phases of Phase 2 closed. ~5,200-5,300 surfaced concepts. The Audit Ledger fully populated.
 - **2026-05-20 (Phase 2.5 closure)** — All 16 Strategic Decisions resolved. Sacred Codex restructured from 7 to 8 Volumes (accessibility-first order). Cosmic-grade Constitution forged. Universe Guide scaffolded. Volume V established with Navigating Towards Truth. Card Method renamed. 40 LC articles + Biblical Perspective book + 36 root-orphan files cleaned up. Project plan sanitized + restructured.
 

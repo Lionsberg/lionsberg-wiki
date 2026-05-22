@@ -2451,7 +2451,7 @@ The Philosophy folder shows Jordan's deep integrative engagement with the perenn
 | **The Universal Witness / I AM as Seat of Consciousness** | F-V / F-VII | The continuity of being — the One who sees through the eyes, hears through the ears, watches the dreams — is the Witness, the Atman, the Soul, the I AM. You are not your thoughts or emotions or body. |
 | The Container-Substance-Energy Alchemical Triad | F-IV / F-VII | All transformation requires: (1) a substance to be transformed, (2) a container (awareness) to hold the reaction, (3) energy to drive the reaction. Cross-tradition operational principle behind all transformative practice. |
 
-**Refinement Cards (~8):** Designer's Intent (operational specificity); Force = Mass × Acceleration of transformation (quantifies First Three Percent / Fibonacci spread); Stewardship vs. Capitalism/Communism/Socialism (refines Economy element); Voluntary Asymmetry (Wise Eldership); The Common Journey (refines Pilgrim's Path / Sacred Ascent); Walled Garden / Bounded Chaos (Play as Education element); The Practitioner's Three Elements (refines transformation patterns); The Hierarchy of Truth Standards (empirical > logical > hypothetical > symbolic > metaphorical).
+**Refinement Cards (~8):** Designer's Intent (operational specificity); Force = Mass × Acceleration of transformation (quantifies First Three Percent / Fibonacci spread); Stewardship vs. Capitalism/Communism/Socialism (refines Economy element); Voluntary Asymmetry (Wise Eldership); The Common Journey (refines Sovereign's Path / Sacred Ascent); Walled Garden / Bounded Chaos (Play as Education element); The Practitioner's Three Elements (refines transformation patterns); The Hierarchy of Truth Standards (empirical > logical > hypothetical > symbolic > metaphorical).
 
 **Notes for Phase 3 Pattern Language Rebuild:**
 1. **The Seed is the Substrate, not the Manifesto.** Aggressively compress toward the irreducible DNA — principles surviving across Christianity, Islam, Buddhism, Hinduism, Taoism, Indigenous wisdom, Stoicism, and modern complexity science.
@@ -4407,7 +4407,7 @@ Most concentrated, mature articulations of LIØNSBERG cosmology, strategy, and c
 - **The Power of Today Ch. 4.4 A New Daily Practice** (WB-7) — operational keystone of spiritual cluster
 - **A Way Beyond Fear, Anxiety, and Depression** (WB-7, 60 files) — irreplaceable embodied-healing canon
 - **Playing With Poetry** (WB-7) — 37 numbered poems usable as direct liturgical inserts at Volume transitions
-- **The LIØNSBERG Experience folder** (EX, 13 files) — complete 12-Gate Pilgrim's Path walkable in ~one hour
+- **The LIØNSBERG Experience folder** (EX, 13 files) — complete 12-Gate Sovereign's Path walkable in ~one hour
 - **All 13 Experience files** (EX) — possibly the highest concentration of Codex-ready material outside The Book of LIONSBERG
 - **Untitled 3.md / RFG-1042** (R-10) — must be renamed; 18-week sprint architecture, 42-hour pledge, COHERE/BUILD/READY cycle, Steve Crocker 1969 → 2026 lineage
 - **The Pirsig Method** (WB-4) — discipline-document for the canonical Card-Book
