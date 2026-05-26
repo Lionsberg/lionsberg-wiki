@@ -5,7 +5,7 @@ themes: [articulation, rendering, epistemology, LIØNSBERG-architecture]
 
 # Current Best Articulation
 
-A **Current Best Articulation** is what has been put into words, written down, drawn, named, or otherwise rendered into shareable form — the **rendered version** of a [[Current Best Understanding]].
+A **Current Best Articulation** is what has been put into words, written down, drawn, named, or otherwise rendered into shareable form — the **rendered version** of a [[Current Best Understanding]] that inevitably falls short of it. 
 
 Every entry in [[The LIØNSBERG Corpus]] is a Current Best Articulation. So is this Card. So is every Pattern Card, every Story chapter, every Codex Volume, every memory file, every spoken testimony.
 
