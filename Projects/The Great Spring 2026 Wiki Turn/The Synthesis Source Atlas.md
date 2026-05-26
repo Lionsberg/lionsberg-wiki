@@ -103,7 +103,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 - [[Your Story]] (16)
 - [[The Story of the Builder]] (82, standalone parable)
 - [[The Cosmic Mandate]] (85, declarative prior attempt)
-- [[The LIONSBERG Cycle of Cosmic Co-Creation]] (220, cosmological prior attempt)
+- [[The LIØNSBERG Cycle of Cosmic Co-Creation]] (220, cosmological prior attempt)
 - [[The Story of the Akua and Mo'o of Hawaii]] (parallel myth)
 
 ## II.E — MindWeaving Cycle (WIP)
@@ -485,7 +485,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 - [[ØNE Body]] (405 B, stub redirect to Cards/ØNE)
 - [[Holofractal Omnifederation]] (8.8 KB) — authoritative prior articulation; **no Cards/Holofractal Omnifederation.md exists** (substantive content lives only at root)
 - [[Fractal Sovereignty]] (746 B, stub; Card carries fuller articulation)
-- [[The LIONSBERG Cycle of Cosmic Co-Creation]] (7.9 KB, prior attempt — duplicate of Great Game ch.25)
+- [[The LIØNSBERG Cycle of Cosmic Co-Creation]] (7.9 KB, prior attempt — duplicate of Great Game ch.25)
 - [[Levels of Abstraction]] (8.1 KB, early ancestor of Layer Ø stack)
 - [[The Sovereign Path]] (10 KB, canonical meta-map)
 - [[The LIONSBERG Meta Science]] (39.5 KB, AI-thoughts-stamped WIP — not canonical voice)

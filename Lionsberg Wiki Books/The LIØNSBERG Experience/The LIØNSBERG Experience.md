@@ -13,7 +13,27 @@ A Sovereign does not read the Codex cover to cover from arrival. They walk a jou
 
 The Experience guides the Sovereign **what to do next**. The Codex provides **what to draw from**.
 
-This Volume is the Sovereign's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] opens for those called to embodied mastery. Together these three Volumes hold the lived practice of the Way — individual, collective, and consummate.
+This Volume is the Sovereign's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] is the natural lifetime continuation beyond Blue Belt. Together these Volumes hold the lived practice of the Way — individual, collective, and consummate.
+
+---
+
+## The Walk At A Glance
+
+You arrive at [[The Gates of LIONSBERG]]. The Story meets you. The Invitation is held out. Something in you recognizes what you are seeing — not because you were convinced, but because you already knew. The Whisper meets you; the Flame catches.
+
+You begin to learn what it means to view from the perspective of the ONE. Not as doctrine. As practice. [[The Daily Way]] begins. Silence and Stillness as the Ground.
+
+You find or form your Circle — the 3 to 13 with whom you walk. You are no longer alone.
+
+You step into [[The 144 Gates of Initiation]] — the structured cultivation of [[The Way Of The One Body]]. Over the years of walking, the foundation forms. You begin to articulate your own Story, Map, Purpose, Passion, Function. Your unique vantage starts contributing to the wider Map. You [[Share Your Stories]].
+
+You participate in [[OmniSpection]]. You contribute to Map refinement. You take up a role in the Living Library and the wider Corpus refinement. You begin to walk alongside the next initiates arriving at the Gates.
+
+**Blue Belt in The Way Of The One Body** is recognized — the Body welcomes you as integrated member. The Sacred Ascent opens. Across the lifetime, deeper interior cultivations and the archetypal Ways stewarded by your Guild mature. Belts deepen through Brown to Black. Mastery is recognized at 5th Dan in The Way Of The One Body — Black Belt in five archetypal Ways witnessed by the Bodies.
+
+**Mastery is the real beginning** — the doorway into the actual cosmic exploration and co-creation that the cultivation built the instrument for. The lifetime of conscious co-creation opens. The Eternal Divine Play continues without end.
+
+This is the arc. The Stages name its markers; the [[The LIONSBERG Capacity Development Axis|Capacity Development Axis]] names what is built in you at each step.
 
 ---
 

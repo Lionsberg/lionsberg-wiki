@@ -26,7 +26,7 @@ Inside, you will find three things as a gateway to infinity beyond:
 **A Pattern** — the irreducible DNA of how sovereign beings throughout the cosmos organize, heal, and co-create Heaven together. Independently discovered and proven across countless civilizations, 1,500 years on Earth, and tens of millions of dollars of research.  
 **A Game** — a cooperative, real-world game of planetary transformation where every person, family, community, and bioregion finds their unique role in co-creating **[[Heaven On Earth]]**.
 
-Beyond those like [[The LIØNSBERG Sacred Codex]], complete with a playbook, plans and specifications for the New Civilization, and millions of dollars of foundational research and writing on how it actually gets built. 
+Beyond those lie **[[The LIØNSBERG Sacred Codex]]** and **Living Library** complete with a playbook, plans and specifications for the New Civilization, and lifetimes of foundational guidance on how it actually gets built. 
 
 Think of this as a portal into a living and mythic New World — vast, real, and transformative. Like stepping through a wardrobe into Narnia, finding yourself aboard a craft in Star Wars, battling wraith in Lord of the Rings, or being pulled into Jumanji. Except this world is not fiction. The stakes are real. The transformation it offers touches every dimension of your actual life and community. And the Pattern within this Seed, when properly planted and tended, transforms any world it touches towards Heaven.
 

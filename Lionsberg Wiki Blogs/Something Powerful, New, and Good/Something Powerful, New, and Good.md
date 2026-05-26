@@ -42,7 +42,7 @@
 	
 - [[Exploration of Energy, Conduitship, the Way, and its Transmission Within the Time Required]]  
 	
-- [[The LIONSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth  
+- [[The LIØNSBERG Cycle of Cosmic Co-Creation]] - now incarnating on Earth  
 	
 - [[The LIØNSBERG Experience]] - work in progress  
 	

@@ -28,8 +28,15 @@ Where we left off:
 - [x] Proposals / Decisions / Meetings - need to be cohered into patterns / plays.  
 - [ ] [[The LIØNSBERG Playbook]]  
 - [ ] [[The LIØNSBERG Pattern Language]]  
+- [ ] [[The Story of LIØNSBERG]]  
+- [ ] The LIONSBERG Guidebook 
+- [ ] The LIONSBERG Living Architecture (page)  
+- [ ] Book of emotions and card for every emotion 
+- [ ] The warriors vow - review and refine... 
+- [ ] Review Warriors Handbook. 
+	- [ ] What did that work teach us about the overall pattern language, strategy, and plan? How should we reflect it? 
 - [ ] Pass The Flame - cohering multiple duplicate formats into one - deleting the others. 
-- [ ] carrying the highest voice throughout [[The LIONSBERG Cycle of Cosmic Co-Creation]] 
+- [ ] carrying the highest voice throughout [[The LIØNSBERG Cycle of Cosmic Co-Creation]] 
 - [ ] Make LIONSBERG Concept page? Could be super valuable companion. 
 - [ ] Introduce the Pattern (note), Play (rif), Plays (song), entire System (symphony) metaphorical architecture. 
 - [ ] LIONSBERG Offering Page... why wiser than starting from scratch? 
@@ -42,12 +49,12 @@ Where we left off:
 - [ ] Publish the invitation and request for guidance... 1042  
 	- [ ] Possibly including guidance on place / build or join
 - [ ] Heaven Here and Nøw
-- [ ] Figure out the software / ERP to run it all (Open Impact)  
+- [ ] Figure out the software / ERP to run it all (Open Impact + Open Collective + ? )  
 - [ ] Easy way to adopt / adapt sign the agreements and join (Open Impact or DAO framework) - legally sound SPVs... 
 - [ ] The Story of LIONSBERG is next big creative task... 
 	- [ ] rewrite — the biggest unmet creative need.
   The Story is dual-functional (standalone + woven through Vol IX); LIØNSBERG
-   the standalone needs a masterful rewrite. Multi-session.
+   the standalone needs a masterful rewrite. Multi-session.  
 - [ ] Updating Earth PDG to cohere with everything... 
 - [ ] Pulling in superorganism.earth / FSx pattern language and templates. 
 - [ ] Synthesize the Playbook... 
@@ -92,7 +99,7 @@ Where we left off:
 - 
 - Finish [[The Story of LIØNSBERG]] weaving it all together, and reflecting it throughout [[The Book of LIØNSBERG]]... 
 	- Weaving in J's incarnation, nameless one, and full cosmic arc... 
-- Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[How To Walk]] (and all its counterparts) into The Art and Science of the Way... 
+- Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[Walking]] (and all its counterparts) into The Art and Science of the Way... 
 
 ### B Items 
 1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki)  
@@ -196,7 +203,7 @@ Easy...
 - [[The Story of LIØNSBERG]] is good enough for now 
 - [[The Great Game of LIØNSBERG]] is good enough for now 
 - [[The LIØNSBERG Playbook]] needs to be co-created as we play 
-- Articulated [[The LIONSBERG Cycle of Cosmic Co-Creation]]  
+- Articulated [[The LIØNSBERG Cycle of Cosmic Co-Creation]]  
 - Drafted [[The Golden Seed of LIONSBERG]] page  
 	- Ensure there is a README type page that leads to a  quickstart guide. 
 - Consider how to finalize [[The 144 Gates of Initiation]]  

@@ -65,7 +65,7 @@ When scattered files are consolidated, their net-new insight is woven into the c
 
 The full 9-layer model (Layer Ø → Layer VIII) is in active refinement on the **Superorganism-Earth wiki**. The complete 9-layer articulation imports into this Wiki only after it stabilizes there. Layer Ø / I / II / III framings shown here are provisional until that import lands.
 
-**[[The LIONSBERG Cycle of Cosmic Co-Creation]]** holds the rhythm by which weaving unfolds at cosmic scale (16 stages of cosmic co-creation). Once the 9-layer articulation stabilizes, the Cycle is to be inter-informed by and inter-informing of this Ledger's Layer Ø / II / III frame — the cosmic rhythm cohered with the cosmic ontology.
+**[[The LIØNSBERG Cycle of Cosmic Co-Creation]]** holds the rhythm by which weaving unfolds at cosmic scale (16 stages of cosmic co-creation). Once the 9-layer articulation stabilizes, the Cycle is to be inter-informed by and inter-informing of this Ledger's Layer Ø / II / III frame — the cosmic rhythm cohered with the cosmic ontology.
 
 ---
 
@@ -168,7 +168,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### A.8 — The LIONSBERG Cycle of Cosmic Co-Creation
 
 - **View**: Cosmic / Layer Ø
-- **Canonical home**: Root [[The LIONSBERG Cycle of Cosmic Co-Creation]] (already exists — 16-stage detailed structure)
+- **Canonical home**: Root [[The LIØNSBERG Cycle of Cosmic Co-Creation]] (already exists — 16-stage detailed structure)
 - **Source material**:
   - Root file (canonical — 16 stages)
   - [[25. The Cycle of Cosmic Co-Creation]] (narrative form)

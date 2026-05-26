@@ -36,33 +36,32 @@ This is not just a nutritional protocol—it is a sacred rhythm of alignment wit
 
 ---
 
-### **Daily Structure: Choose a 16/8 or 20/4 Window**
+### **Daily Structure**
 
-- **16 to 20 hours fasting**
-    
-- **4 to 8-hour eating window**
-    
-- Aligned with **circadian rhythm**, **solar light cycles**, and **natural energetic cycles**.
-    
+**The standard: 12:00 to 18:00 feeding window** — six daylight hours of feeding, eighteen hours of fast. Aligned with circadian rhythm, solar light cycles, and natural energetic cycles. Closes the feeding window well before sleep so the night's restoration and dream work proceed undisturbed.
 
-One large or two smaller meals a day within [[The Fueling Window]].  
+**For 16/8 practitioners — select the most resonant 8-hour window for your constitution.** Common variations:
+
+- **Morning to early afternoon** (roughly 08:00–16:00) — for those whose energy is strongest fed in the morning
+- **Midday standard** (roughly 11:00–19:00 or 12:00–20:00) — extends the standard by an hour or two
+- **Afternoon to evening** (roughly 14:00–22:00) — only if family/social rhythm requires; close attention to ensure late-evening eating does not compromise sleep
+
+One large or two smaller meals within [[The Fueling Window]].  
 
 ---
 
-### **Example Daily Schedule**
+### **Example Daily Schedule (Standard 18/6)**
 
-- **06:00 – 12:00**  
+- **05:00 – 12:00**  
     Morning hydration (spring/mineral water, optionally warm lemon water, Celtic or Himalayan Sea salt, coffee or tea)  
-    Movement, meditation, breathwork, prayer, writing  
+    Dawn stillness, movement, meditation, breathwork, prayer, writing  
     Elements: cold plunge, dip in river or lake, sauna, sun exposure, etc.  
+    Deep work in the fasted state  
     
-- **12:00 – 18:00**  
-    Deep work, creative contribution, community collaboration, strength training or martial arts  
-    Continue hydration, supplemented with targeted herbal / plant-based infusions as needed or called  
-    
-- **18:00 – 22:00 (Feeding Window)**  
-    Single large sacred meal, or two small intentional meals  
-    Feast with prayer and gratitude on nutrient-dense, high-vibration whole foods that have been energetically tested for health and coherence    
+- **12:00 – 18:00 (Feeding Window)**  
+    One or two intentional meals with prayer and gratitude  
+    Feast on nutrient-dense, high-vibration whole foods that have been energetically tested for health and coherence  
+    Strength training or martial arts often fits within or just before this window  
     Macronutrients guided by training load:  
     
     - High protein (wild or regenerative sources)
@@ -71,10 +70,13 @@ One large or two smaller meals a day within [[The Fueling Window]].
         
     - Clean carbs ideally from root vegetables, quinoa, rice, fruit if desired
         
-- **22:00 – 06:00**  
+- **18:00 – 21:00**  
+    Fast resumed. Continued work, family time, community engagement, evening movement (gentler than morning), preparation for sleep  
+    
+- **21:00 – 05:00**  
     Rest, integration, dream work  
     Optional: herbal sleep support, magnesium rubs, gratitude practice, breath or sound ritual  
-    Adequate sleep is essential. Aim for 7-8 hours.  
+    Adequate sleep is essential. Aim for 7-9 hours.  
     
 
 

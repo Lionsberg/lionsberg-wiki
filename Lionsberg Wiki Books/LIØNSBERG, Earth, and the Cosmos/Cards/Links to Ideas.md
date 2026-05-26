@@ -37,7 +37,7 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
     
 - The LIONSBERG Blueprints
     
-    - **[[The LIONSBERG Cycle of Cosmic Co-Creation]]**
+    - **[[The LIØNSBERG Cycle of Cosmic Co-Creation]]**
           
 	- **[[The Golden Seed of LIONSBERG]]**
         
