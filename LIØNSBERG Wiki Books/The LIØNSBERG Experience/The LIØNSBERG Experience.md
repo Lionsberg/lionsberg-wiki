@@ -13,7 +13,7 @@ A Sovereign does not read the Codex cover to cover from arrival. They walk a jou
 
 The Experience guides the Sovereign **what to do next**. The Codex provides **what to draw from**.
 
-This Volume is the Sovereign's operational companion at the individual scale. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] is the natural lifetime continuation beyond Blue Belt. Together these Volumes hold the lived practice of the Way — individual, collective, and consummate.
+This Volume is the **path through the Codex** at the individual scale — which Volume opens at which Stage. [[The LIØNSBERG Guidebook]] is the **field guide carried while walking the path** — the companion voice in the Sovereign's pocket, distinct from this Volume and complementary to it. [[The LIØNSBERG Playbook|The Playbook]] is the operational companion at the group scale. [[The Sacred Ascent|The Sacred Ascent]] is the natural lifetime continuation beyond Blue Belt. Together these works hold the lived practice of the Way — individual, collective, and consummate.
 
 ---
 

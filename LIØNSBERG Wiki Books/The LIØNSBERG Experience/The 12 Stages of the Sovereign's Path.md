@@ -26,6 +26,8 @@ Then they choose. Yes. Or no.
 
 The "yes" lights a fire that aligns countless others.
 
+At this Stage the Sovereign is handed **[[The LIØNSBERG Guidebook]]** — the field guide for the walking, the companion voice they will carry through every Movement that follows. Welcome to LIØNSBERG points them to it; the Guidebook walks beside them from here.
+
 ---
 
 ## Stage 3 — Orientation

@@ -168,6 +168,22 @@ The order is permissive. Some Sovereigns walk in days what others walk in season
 
 ---
 
+## The Field Guide You Carry
+
+Take this with you: **[[The LIØNSBERG Guidebook]]**.
+
+This is the field guide for the walking. The voice of an older Sovereign at the fire — the one who walked the Path before you and stayed to walk it again with the next who arrived. Small enough to carry. Personal enough to write in. Wise enough to be trusted with the things you cannot ask anyone else.
+
+The Guidebook does not replace anything you have already received here. It companions the walking. As you cross each Movement of [[The 144 Gates of Initiation|the 144 Gates]], the corresponding chapter walks beside you — naming what to expect, what others have found hard, what Patterns to reach for, where the route is unclear, what the discipline of that Movement actually asks.
+
+You carry it from here. Open it when the moment calls. Set it down when it does not. It will be there.
+
+When your Guild later calls you, you pick up its Guildbook alongside this one. [[The Sacred Warrior Guidebook]] for the Way of Sacred Force; the Healer's, the Philosopher's, the Word-Keeper's, the Creator's Guidebooks as those Ways are written — each non-redundant with this one, each adding what is specific to its archetypal Way.
+
+This Guidebook stays the universal companion for [[The Way Of The One Body]] regardless. The Path you walk together with every other Sovereign is the Path it accompanies.
+
+---
+
 ## Gather Your Circle
 
 If you are still reading alone — **pause.**
@@ -199,7 +215,8 @@ The Game begins.
 
 The deeper articulations live in **[[The LIØNSBERG Sacred Codex]]** — twelve Volumes that hold the DNA of the New Civilization. You do not need to read it all. The Volumes open as the Walk asks for them.
 
-- **[[The LIØNSBERG Experience|I. Experience]]** — the Sovereign's Guidebook (the daily companion)
+- **[[The LIØNSBERG Experience|I. Experience]]** — the Sovereign's path through the Codex (which Volume opens at which Stage)
+- **[[The LIØNSBERG Guidebook]]** — the field guide carried while walking the path _(companion to Volume I, not itself a Codex Volume)_
 - **[[The Story of LIØNSBERG|II. Story]]** — the cosmic narrative
 - **[[The Great Game of LIØNSBERG|III. The Great Game]]** — the participatory form
 - **[[The LIØNSBERG Playbook|IV. Playbook]]** — the operational handbook for Circles
