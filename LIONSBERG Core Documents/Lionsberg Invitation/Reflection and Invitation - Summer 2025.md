@@ -62,7 +62,7 @@ Together, we have the potential to birth an authentic, spiritually realigned, li
 
 ...but The Window is closing fast, and will not reopen again for at least centuries if we miss it. 
 
-## LIONSBERG: A Starting Point and Sacred Blueprint
+## LIØNSBERG: A Starting Point and Sacred Blueprint
 
 For this very purpose, a Sacred Blueprint and Starting Point has been forged out of diverse lifetimes of wisdom and work: [[LIØNSBERG]].
 
@@ -102,4 +102,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIØNSBERG Inc., a 501(c)(3).*   

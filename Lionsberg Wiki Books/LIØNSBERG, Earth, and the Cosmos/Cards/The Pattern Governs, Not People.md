@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, structural-immunity, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Ring 3 — Living Proof)
+source: Phase 2.1 audit of LIØNSBERG 101 (Ring 3 — Living Proof)
 captured: 2026-05-18
 ---
 

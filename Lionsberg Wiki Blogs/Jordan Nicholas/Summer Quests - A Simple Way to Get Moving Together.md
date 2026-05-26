@@ -28,12 +28,12 @@ The principle we follow is simple: **The Rule of Three**.
 
 Circles provide mutual support, shared accountability, sustained motivation, and joyful co-creation.
 
-As detailed in [[The LIONSBERG Co-Creator's Handbook]], a Circle ideally comprises between 3 and 12–16 committed individuals. Often 4 to 7 is a sweet spot.  
+As detailed in [[The LIØNSBERG Co-Creator's Handbook]], a Circle ideally comprises between 3 and 12–16 committed individuals. Often 4 to 7 is a sweet spot.  
 
 ## How It Works
 
 
-1. **Join** LIONSBERG as a Member. (Via Link Below)
+1. **Join** LIØNSBERG as a Member. (Via Link Below)
     
 2. **Form or Join** a Circle (also called a Team, Fellowship, or Group).
     
@@ -48,7 +48,7 @@ This cycle of action, reflection, and sharing creates ongoing momentum, learning
 
 ## Example Summer Quests:
 
-- **Community Circle Quest:** Host or participate in regular gatherings that strengthen local relationships, build trust, and deepen shared understanding of the LIONSBERG System, Community, and Approach.
+- **Community Circle Quest:** Host or participate in regular gatherings that strengthen local relationships, build trust, and deepen shared understanding of the LIØNSBERG System, Community, and Approach.
     
 - **Resilience Garden Quest:** Create or expand community gardens or food forests, building collective skill, local food sovereignty, and ecological harmony.
     
@@ -60,7 +60,7 @@ This cycle of action, reflection, and sharing creates ongoing momentum, learning
     
 - **Mapping Quest:** Before embarking on something entirely new, undertake a local or domain-specific mapping Quest to discover existing initiatives, groups, and assets that might be supported, leveraged, or integrated.  
     
-- **Decentralized / Open Source Technology Quest**: Discern key tools and technologies that the emerging LIONSBERG superorganism will need over the next two to three seasons, and begin designing and building the Technology Roadmap alongside the community.   
+- **Decentralized / Open Source Technology Quest**: Discern key tools and technologies that the emerging LIØNSBERG superorganism will need over the next two to three seasons, and begin designing and building the Technology Roadmap alongside the community.   
     
 
 Wherever possible, ensure each Quest empowers both Lionsberg and your local communities immediately, cultivating essential skills, resources, and networks needed to successfully navigate the coming times.
@@ -69,7 +69,7 @@ Wherever possible, ensure each Quest empowers both Lionsberg and your local comm
 
 This is your invitation to **Join Us**:
 
-- Become a LIONSBERG **Member**.  
+- Become a LIØNSBERG **Member**.  
     
 - Form or join a **Circle**.  
     
@@ -106,4 +106,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*   
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIØNSBERG Inc., a 501(c)(3).*   

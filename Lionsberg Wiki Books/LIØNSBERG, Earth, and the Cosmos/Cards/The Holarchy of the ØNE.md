@@ -51,7 +51,7 @@ The work is to keep refining each articulation toward more faithful reflection o
 - [[ØNE]] — the only canonized ground; the Absolute the Holarchy emerges from and serves
 - [[The Cosmic Sovereign Superorganism Already Operating]] — the wider whole within which LIØNSBERG operates
 - [[Essences, Renderings, And Ineffable Referents]] — how renderings relate to ineffable referents within the Holarchy
-- [[What LIONSBERG Is]] — LIØNSBERG's place in the Holarchy
-- [[The LIONSBERG Function]] — what LIØNSBERG does within the Holarchy
+- [[What LIØNSBERG Is]] — LIØNSBERG's place in the Holarchy
+- [[The LIØNSBERG Function]] — what LIØNSBERG does within the Holarchy
 - [[All Scales Of Chapters]] — how The Story plays at every scale of the Holarchy
 - [[Holofractal Scaling]] — the architectural consequence of the Holarchy

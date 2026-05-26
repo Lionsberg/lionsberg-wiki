@@ -24,15 +24,15 @@ The Ledger is alive. It grows as concepts are woven. It tracks the work. It ensu
 ## The Disciplines That Hold The Weaving
 
 **1. LIØNSBERG is a Prototype, not the eternal essence.**  
-LIØNSBERG proposes a Pattern — one faithful articulation of conscious and competent participation in the underlying reality that already interis. The Pattern is what LIØNSBERG offers; the **eternal essence** (Layer Ø — ONE / Source / the ineffable) is what the Pattern points to but cannot capture. LIØNSBERG is _a_ Prototype, not _the_ Prototype — one of potentially many that the [[The Program Delivery Guide|PDG]]'s integrated delivery methodology can produce. **The Codex is not Reality; it points to Reality.**
+LIØNSBERG proposes a Pattern — one faithful articulation of conscious and competent participation in the underlying reality that already interis. The Pattern is what LIØNSBERG offers; the **eternal essence** (Layer Ø — ØNE / Source / the ineffable) is what the Pattern points to but cannot capture. LIØNSBERG is _a_ Prototype, not _the_ Prototype — one of potentially many that the [[The Program Delivery Guide|PDG]]'s integrated delivery methodology can produce. **The Codex is not Reality; it points to Reality.**
 
-**2. The LIØNSBERG perspective speaks from as close to the view of the ONE as possible** — while recognizing that the ONE recedes and expands as we approach it. The voice never claims the throne; it points to the throne and bows.
+**2. The LIØNSBERG perspective speaks from as close to the view of the ØNE as possible** — while recognizing that the ØNE recedes and expands as we approach it. The voice never claims the throne; it points to the throne and bows.
 
 **3. Weaving, not founding.**  
 The underlying unity already interis. Every Sovereign who awakens is awakening into a Pattern already operating — they are not founding it. **One hundred competing superorganisms does not Divine Harmony make.** The wise move is to weave your unique insight, experience, and lineage into the One Divine Tapestry — not to imagine you must assemble it from scratch yourself. Every Sovereign is of course free to start their own instance; the Pattern honors that freedom. But the cosmic-grade operating system is **already operational and continuously learning and improving**. Weave into it.
 
-**4. Error Attribution — Truth to ONE, errors to Us.**  
-**Anything True about LIØNSBERG belongs freely to ONE and All.** Truth is not owned; it is recognized and shared.  
+**4. Error Attribution — Truth to ØNE, errors to Us.**  
+**Anything True about LIØNSBERG belongs freely to ØNE and All.** Truth is not owned; it is recognized and shared.  
 **Any errors or mistakes belong to Us — The People of LIØNSBERG.** Errors are owned and corrected, never disowned, never attributed elsewhere.
 
 **5. One canonical home per concept.**  
@@ -46,7 +46,7 @@ When scattered files are consolidated, their net-new insight is woven into the c
 ## The Architectural Picture (Current Understanding)
 
 ```
-                Layer Ø — ONE / Source / Ultimate Reality
+                Layer Ø — ØNE / Source / Ultimate Reality
                           (Absolute · ineffable · transcendent)
                                        │
                 Layer II — All / Reality / Eternally Nameless Superorganism
@@ -81,7 +81,7 @@ Status values: `pending` · `in-progress` · `woven` · `awaiting-superorganism-
 
 _These entries depend on the 9-layer model stabilizing on Superorganism-Earth before authoring here._
 
-### A.1 — Layer Ø: ONE / Source / Eternally Nameless
+### A.1 — Layer Ø: ØNE / Source / Eternally Nameless
 
 - **View**: Cosmic / Layer Ø
 - **Canonical home (proposed)**: NEW root file [[The Eternally Nameless]]
@@ -100,7 +100,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 - **View**: Cosmic / Layer Ø
 - **Canonical home (proposed)**: Either same root file as A.1, or companion [[The Cosmic Body]]
 - **Source material**:
-  - [[One of the Ones of the ONE]]
+  - [[One of the Ones of the ØNE]]
   - [[The Great ReMembering]]
   - [[The Story of LIØNSBERG]] (Epochs I–XII)
   - [[14. The Three Hundred]] and surrounding chapters
@@ -160,12 +160,12 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 - **Voice disciplines applied**:
   - "a Prototype" (not "the Prototype")
   - "articulated, cohered, named" (not "already operational")
-  - Truth to ONE, errors to Us
+  - Truth to ØNE, errors to Us
   - LIØNSBERG is one named Superorganism, not "(Currently Nameless)" — that distinction matters
   - Cross-link to Card [[LIØNSBERG Is A Prototype, Not The Eternal Essence]]
 - **Status**: `pending` — Task #13 in backlog
 
-### A.8 — The LIONSBERG Cycle of Cosmic Co-Creation
+### A.8 — The LIØNSBERG Cycle of Cosmic Co-Creation
 
 - **View**: Cosmic / Layer Ø
 - **Canonical home**: Root [[The LIØNSBERG Cycle of Cosmic Co-Creation]] (already exists — 16-stage detailed structure)
@@ -229,7 +229,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 - **Source material (18 files, ~10,700 words of overlap — CRITICAL severity)**:
   - PDG [[PDG - Integrated Project Delivery]] (3178w)
   - PDG [[16.5 Integrated Delivery]] (1957w)
-  - Root [[LIONSBERG Integrated Delivery System]] (20 lines, light)
+  - Root [[LIØNSBERG Integrated Delivery System]] (20 lines, light)
   - ~15 supporting root IPD files
   - Pattern Language entry `[[Integrated Delivery]]` (Element 9)
 - **Weaving approach**: PDG canonical (both forms per memory). Pattern Language holds the abstracted Pattern Card. Root stub remains for navigation.
@@ -272,7 +272,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
   - [[7.33 Superorganisms]]
   - [[7.34 Co-Operative Superorganisms]]
   - [[Systems Thinking]], [[Living System]], [[Values]] (scattered "complex adaptive" language)
-- **Weaving approach**: **Most significant gap in the System view per Agent B**. No article anywhere names LIØNSBERG as the superorganism / complex adaptive living system whose sub-systems are X, Y, Z, all federating into ONE Body. NET-NEW articulation required — likely a section within the Layer III canonical pages (A.3) or its own root file.
+- **Weaving approach**: **Most significant gap in the System view per Agent B**. No article anywhere names LIØNSBERG as the superorganism / complex adaptive living system whose sub-systems are X, Y, Z, all federating into ØNE Body. NET-NEW articulation required — likely a section within the Layer III canonical pages (A.3) or its own root file.
 - **Disposition of scatter**: Existing Cards remain; new canonical names what is currently implicit.
 - **Status**: `awaiting-superorganism-earth`
 
@@ -283,7 +283,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### C.1 — Form a Circle
 
 - **View**: Playbook
-- **Canonical home**: [[The LIONSBERG Circle Guide]] (root, 1385w — comprehensive) + [[Form A Circle]] (root Play, 114 lines)
+- **Canonical home**: [[The LIØNSBERG Circle Guide]] (root, 1385w — comprehensive) + [[Form A Circle]] (root Play, 114 lines)
 - **Source material (13 files + 39 references)**: [[Form A Circle]]; [[Forging Or Joining A Team]] (13w stub); [[Forge or Join a Group]] (11w stub); [[2.7 Forging Or Joining Circles]] (79 lines)
 - **Weaving approach**: Circle Guide stands as comprehensive doc; root Play as entry point. Weave Fragment content into root Play if missing.
 - **Disposition of scatter**: Stubs redirect; Fragment archived after weaving.
@@ -302,7 +302,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: Playbook + System (Pillar II adjacent) + Core Doctrine
 - **Canonical home**: [[Forge a Field of Agreements]] (root Play) AS Play; [[The Lionsberg Field of Agreements]] AS institutional/doctrinal layer (currently 47-word stub) — **needs migration of 683w content from root Play into Core Doc**
-- **Source material (10 articulations — HIGH severity)**: Above + [[Field of Agreements]] (root concept, 60 lines) + [[Template For Field of Agreements]] + [[2.3 Domains and Field of Agreement]] + [[9. The Field of Agreements]] + [[The LIONSBERG Field of Agreements (Summer 2025)]] (blog)
+- **Source material (10 articulations — HIGH severity)**: Above + [[Field of Agreements]] (root concept, 60 lines) + [[Template For Field of Agreements]] + [[2.3 Domains and Field of Agreement]] + [[9. The Field of Agreements]] + [[The LIØNSBERG Field of Agreements (Summer 2025)]] (blog)
 - **Weaving approach**: Three-tier distinction: **Play** (operational — root) + **Concept** (definitional — [[Field of Agreements]]) + **Institutional Doctrine** (Core Doc — needs upgrade from 47w stub). Migrate Play content into Core Doc; preserve root Play as operational entry.
 - **Disposition of scatter**: Fragment archived; Great Game chapter cross-links canonical; blog preserved per author-consent.
 - **Status**: `pending` — high-priority structural win
@@ -414,7 +414,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: System (Pillars) · Pattern Language (Pillar Patterns layer)
 - **Canonical home**: Each Pillar's wiki book + Pattern Language Pillar Patterns layer
-- **Source material**: `Lionsberg Wiki Books/The 12 Pillars of LIONSBERG/` (14 files — ONE + 12 Pillars + root); aligned with `The LIØNSBERG Lexicon`
+- **Source material**: `Lionsberg Wiki Books/The 12 Pillars of LIØNSBERG/` (14 files — ØNE + 12 Pillars + root); aligned with `The LIØNSBERG Lexicon`
 - **Weaving approach**: 12 Pillars become the canonical domain taxonomy (resolving the Pillars vs Domains vs Named Systems tension). Pillar Patterns become the largest Pattern Language layer (~144).
 - **Disposition of scatter**: Archive's 12 Domains content folds into Pillar Patterns layer in Phase 4 rebuild.
 - **Status**: `pending` — Phase 4
@@ -425,16 +425,16 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 ### E.1 — The Meta Guide / The Lionsberg Handbook
 
-- **State**: Hollowed; header-only outline; every section marked `*Migrated to [[The LIONSBERG Way]]*`
+- **State**: Hollowed; header-only outline; every section marked `*Migrated to [[The LIØNSBERG Way]]*`
 - **Source material**: [[The Lionsberg Handbook]] (590 lines) + 9 chapter files
 - **Weaving approach**: Once each Handbook section's content is woven into the appropriate canonical home (Pillars, Plays, Pattern Language, Cards), the Meta Guide is archived with provenance.
 - **Disposition of scatter**: Archive [[The Lionsberg Meta Guide (Archived YYYY-MM-DD)]] with full provenance pointer to where each section's content now lives.
 - **Status**: `pending` — depends on Pillar and Play consolidation completing
 
-### E.2 — The LIONSBERG Way
+### E.2 — The LIØNSBERG Way
 
 - **State**: Chaotic WIP; receiving Handbook content; 16 `ReMembering How To...` stubs (3–15 lines each)
-- **Source material**: `Lionsberg Wiki Books/The LIONSBERG Way/` (17 files)
+- **Source material**: `Lionsberg Wiki Books/The LIØNSBERG Way/` (17 files)
 - **Weaving approach**: Once root Plays are mature (C.1–C.10) and Pillar pages complete (B.1–B.7), archive The Way; promote any ReMembering content into matching Plays before archival.
 - **Disposition of scatter**: Archive with provenance.
 - **Status**: `pending` — depends on Plays + Pillars
@@ -442,7 +442,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### E.3 — The Co-Creator's Handbook (folder)
 
 - **State**: Pointer-only stub (8 lines). Migration to Playbook declared January 2026.
-- **Source material**: [[The LIONSBERG Co-Creator's Handbook]] (8 lines); v.0.1 was already a 4-line redirect when deleted 2026-05-19 in commit `c7ab7781`
+- **Source material**: [[The LIØNSBERG Co-Creator's Handbook]] (8 lines); v.0.1 was already a 4-line redirect when deleted 2026-05-19 in commit `c7ab7781`
 - **Weaving approach**: 7 Commitments rescued from blog folder (see C.9); folder itself can archive once 7 Commitments find canonical home.
 - **Disposition of scatter**: Archive folder; root [[The Handbook]] stub redirects.
 - **Status**: `pending` — depends on C.9
@@ -480,9 +480,9 @@ _Populated as concepts find their canonical homes and scattered files are archiv
 | Date | Concept | Canonical Home | Notes |
 |---|---|---|---|
 | 2026-05-22 | LIØNSBERG-as-Prototype articulation | [[LIØNSBERG Is A Prototype, Not The Eternal Essence]] | Names the Prototype-not-essence posture, the kit-of-parts framing, and the wise move of weaving |
-| 2026-05-22 | Truth-to-ONE / Errors-to-Us epistemic posture | [[Truth To ONE, Errors To Us]] | Voice-discipline Card paired with [[memory/error_attribution_principle]] |
+| 2026-05-22 | Truth-to-ØNE / Errors-to-Us epistemic posture | [[Truth To ØNE, Errors To Us]] | Voice-discipline Card paired with [[memory/error_attribution_principle]] |
 | 2026-05-22 | Every Defect Is A Gift refinement ethos | [[Every Defect Is A Gift]] | The eternal process of learning and improvement; Like Gold refined seven times; surfacing what is not yet Wise, Right, Good, and True |
-| 2026-05-22 | Superorganism-Earth 9-layer cascade (cross-repo) | `Superorganism-Earth/The (Currently Nameless) Superorganism/` (commits 4daa62e..0ec5b2f) | 8 file renames (Ø-VII → I-VIII); new Layer Ø = ONE articulated only in layer table; Constitution main page §FSx breakthrough genericized; Template VII genericized; Founding Members specific naming removed; README LIØNSBERG mention unobtrusive |
+| 2026-05-22 | Superorganism-Earth 9-layer cascade (cross-repo) | `Superorganism-Earth/The (Currently Nameless) Superorganism/` (commits 4daa62e..0ec5b2f) | 8 file renames (Ø-VII → I-VIII); new Layer Ø = ØNE articulated only in layer table; Constitution main page §FSx breakthrough genericized; Template VII genericized; Founding Members specific naming removed; README LIØNSBERG mention unobtrusive |
 
 ---
 
@@ -490,10 +490,10 @@ _Populated as concepts find their canonical homes and scattered files are archiv
 
 The following concepts depend on the 9-layer model stabilizing on the Superorganism-Earth wiki before authoring here:
 
-- A.1 Layer Ø (Eternally Nameless / ONE / Source)
+- A.1 Layer Ø (Eternally Nameless / ØNE / Source)
 - A.2 Layer II (Eternally Nameless Superorganism / cosmic All)
 - A.3 Layer III (LIØNSBERG as Prototype / Weaving vs. Starting New)
-- A.5 The LIONSBERG Cycle of Cosmic Co-Creation (Layer Ø / II / III inter-information)
+- A.5 The LIØNSBERG Cycle of Cosmic Co-Creation (Layer Ø / II / III inter-information)
 - B.7 Levels of Abstraction (9-layer expansion)
 - B.8 The Superorganism / Complex Adaptive Living System meta-frame
 

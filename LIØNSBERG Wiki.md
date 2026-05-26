@@ -11,13 +11,13 @@ ______
 
 **To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[Lionsberg Wiki Books]], or the earlier [[LIØNSBERG Wiki]] homepage. Everything, everywhere, is a [[Work In Progress]]. 
 
-*We are working towards resynthesizing the millions of words and thousands of files on the wiki into a comprehensive new wiki structure that enables the complete decentralized propagation and adoption of the **LIONSBERG System & Way**.*
+*We are working towards resynthesizing the millions of words and thousands of files on the wiki into a comprehensive new wiki structure that enables the complete decentralized propagation and adoption of the **LIØNSBERG System & Way**.*
 
 # 🧭 COMPREHENSIVE WIKI ARCHITECTURE
 
 ### — _The Living Interface to the New Civilization_ —
 
-*The LIONSBERG Wiki is a living library, training ground, and pattern language for the co-creation of a New Civilization in harmony with Logos and Creator's Intent. Here you will find the Invitation, the Grand Strategy, the Way, and the tools to journey together from the Old World to the New.*  
+*The LIØNSBERG Wiki is a living library, training ground, and pattern language for the co-creation of a New Civilization in harmony with Logos and Creator's Intent. Here you will find the Invitation, the Grand Strategy, the Way, and the tools to journey together from the Old World to the New.*  
 
 ---
 
@@ -31,7 +31,7 @@ ______
     
 - [[The Great Story So Far]] — narrative context to activate memory and belonging.
     
-- [[What is LIONSBERG?]] — quick definition and why it matters now.
+- [[What is LIØNSBERG?]] — quick definition and why it matters now.
     
 - [[The LIØNSBERG Experience]] — personalize the invitation.
     
@@ -41,7 +41,7 @@ ______
     
 - [[The LIØNSBERG Lexicon]]  
     
-- [[The LIONSBERG Narrative Universe (Stories, Symbols & Archetypes)]]
+- [[The LIØNSBERG Narrative Universe (Stories, Symbols & Archetypes)]]
     
 - [[Overview of the Movement’s DNA and Ethics]]    
     
@@ -72,7 +72,7 @@ ______
     
 - [[The Process of Exodus and ReFounding]]
     
-- [[The LIONSBERG Model of Sovereign Transformation]]
+- [[The LIØNSBERG Model of Sovereign Transformation]]
     
 - [[The Simulation—A World on the Brink]] — interactive collapse / rebirth visualizer
     
@@ -83,7 +83,7 @@ ______
 
 ---
 
-## 🔑 III. THE LIONSBERG SYSTEM
+## 🔑 III. THE LIØNSBERG SYSTEM
 
 **Purpose**: Articulate the full architecture of the New Civilization.  
 
@@ -95,19 +95,19 @@ ______
     
 - [[The Divine Blueprints]]  
     
-- [[LIONSBERG System — The Architecture of the New]]  
+- [[LIØNSBERG System — The Architecture of the New]]  
     
 - [[The 12 Pillars of the New Civilization]] — infographic + full breakdown.
     
-- [[LIONSBERG Pattern Language — The Grammar of the New Civilization]]
+- [[LIØNSBERG Pattern Language — The Grammar of the New Civilization]]
     
-- [[LIONSBERG Constitution]]
+- [[LIØNSBERG Constitution]]
     
-- [[LIONSBERG Declaration of Interdependence]]
+- [[LIØNSBERG Declaration of Interdependence]]
     
-- [[LIONSBERG Commons]]
+- [[LIØNSBERG Commons]]
     
-- [[LIONSBERG Units of Value (LUV)]]  
+- [[LIØNSBERG Units of Value (LUV)]]  
     
 - [[Holofractal Governance and the Architecture of Authority]] — systems of sacred stewardship.
     
@@ -140,7 +140,7 @@ ______
     
 - [[The Role of the Mentor / Guide]]
     
-- [[Journey Companion — LIONSBERG AI]] (LIONSBERG.AI prototype and specs)
+- [[Journey Companion — LIØNSBERG AI]] (LIØNSBERG.AI prototype and specs)
     
 
 ---
@@ -182,7 +182,7 @@ ______
     
 - [[How to Start a Local Circle]]  
     
-- [[The LIONSBERG Circle Kit]]  
+- [[The LIØNSBERG Circle Kit]]  
     
 - [[First 30-Day Launch Guide]]  
 
@@ -199,7 +199,7 @@ ______
 
 **Purpose**: Open-source co-creation of all systems and tools needed for the New Civilization.
 
-- [[The LIONSBERG Commons Overview]]  
+- [[The LIØNSBERG Commons Overview]]  
     
 - [[Open Source Development Pattern]]  
     
@@ -224,9 +224,9 @@ ______
 
 - [[Core Messaging, Symbols and Memes Kit]]  
     
-- [[The LIONSBERG Print Shop]] — downloadable posters, pamphlets, stickers.
+- [[The LIØNSBERG Print Shop]] — downloadable posters, pamphlets, stickers.
     
-- [[The LIONSBERG Handbook (Print)]] — 40-page guide for print.
+- [[The LIØNSBERG Handbook (Print)]] — 40-page guide for print.
     
 - [[Video Archive and Share Library]]
     
@@ -375,7 +375,7 @@ You are the living bridge between the Old and the New. 🦁
 ____
 
 
-# THE LIONSBERG WIKI
+# THE LIØNSBERG WIKI
 
 **Welcome to the Bridge Between Civilizations.** We are honored by your presence here.
 
@@ -383,7 +383,7 @@ You have arrived at a crucial nexus, a threshold where the 10 billion paths of h
 
 As articulated in **[[The Story of LIØNSBERG]]**, this moment—this system, this process—is not unique to Earth or the human species. While it is true that **[[The War]]** on Earth now approaches its climactic peak, and humanity stands at the brink of **[[The Final Test]]**, this is but one chapter in a far grander, cosmic saga. The forces shaping this Time and Space extend across civilizations, star systems, and dimensions, reaching out to all that has ever been and ever will be.
 
-**LIONSBERG** incarnates now as a living expression of the Path forward known to All beings of Goodwill, a **Way** to step off the trajectory that would lead life and civilization to **Collapse**—a path that threatens billions of lives and countless species—and onto the **Sacred Pathway towards Heaven on Earth**. This is not a distant hope; it is a sacred, immediate call to action; a Divine Right and Moral Imperative. 
+**LIØNSBERG** incarnates now as a living expression of the Path forward known to All beings of Goodwill, a **Way** to step off the trajectory that would lead life and civilization to **Collapse**—a path that threatens billions of lives and countless species—and onto the **Sacred Pathway towards Heaven on Earth**. This is not a distant hope; it is a sacred, immediate call to action; a Divine Right and Moral Imperative. 
 
 ### The First Steps
 
@@ -397,9 +397,9 @@ The **[[Above The Chaos]]** series narrates the unfolding Story from **[[J]]'s**
 
 Within the **[[Lionsberg Wiki Books]]**, you will find more structured pathways for diving deep into key concepts and ideas. The tables of contents provide an accessible map for those seeking to orient themselves in this vast field, and find New pathways of interest, passion, and resonance. Whether you are just beginning or deep into the journey, there is always more to discover.
 
-### Your Guide to the LIONSBERG Universe
+### Your Guide to the LIØNSBERG Universe
 
-To assist you on your journey, we are developing an **AI Guide**—a living, evolving assistant that will help **All** navigate the complexities of the **LIONSBERG Universe**. This guide will be an essential companion as you forge your own learning pathways through **LIONSBERG Universe(ity)**, facilitating your understanding and integration of the knowledge contained here.
+To assist you on your journey, we are developing an **AI Guide**—a living, evolving assistant that will help **All** navigate the complexities of the **LIØNSBERG Universe**. This guide will be an essential companion as you forge your own learning pathways through **LIØNSBERG Universe(ity)**, facilitating your understanding and integration of the knowledge contained here.
 
 ### The Power of Unity
 

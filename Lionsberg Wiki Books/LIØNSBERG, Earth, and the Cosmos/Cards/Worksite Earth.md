@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, earth, worksite, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 + The Lionsberg Meta Guide
+source: Phase 2.1 audit of LIØNSBERG 101 + The Lionsberg Meta Guide
 captured: 2026-05-18
 ---
 

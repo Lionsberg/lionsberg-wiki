@@ -28,13 +28,13 @@ The difference is not incremental. It is the difference between a system that pr
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 [[Quests]] are structured in cycles not exceeding 90 days — short enough for accountability, long enough for meaningful work.
 
 Weekly commitment tracking forms the heartbeat of every [[Circle]]: What did we say we WILL do? What DID we actually do? The gap between WILL and DID is not a source of blame — it is **the primary learning source**.
 
-Time and energy tracking by each Circle forms the basis for [[Lionsberg Units of Value]] (LUV) — a currency rooted not in speculation or extraction, but in **proof of meaningful work creating throughput of The Goal** through the [[LIONSBERG Integrated Delivery System]].
+Time and energy tracking by each Circle forms the basis for [[Lionsberg Units of Value]] (LUV) — a currency rooted not in speculation or extraction, but in **proof of meaningful work creating throughput of The Goal** through the [[LIØNSBERG Integrated Delivery System]].
 
 Transparent promises. Learning from variance. Never "who is to blame" but always "what can we learn." This is the culture that turns good intentions into reliable delivery — and reliable delivery into trust.
 

@@ -26,11 +26,11 @@ As the [[Existing Order]] accelerates into [[The Collapse]], how many billions o
 [[Above The Chaos]]  
 ## The Lionsberg Co-Creator's Handbook
 
-The [[The LIONSBERG Co-Creator's Handbook]] 
+The [[The LIØNSBERG Co-Creator's Handbook]] 
 
 ## The Lionsberg History, Inception, and Trust Manifesto
 
-[[LIONSBERG - History, Inception, and Trust Manifesto]]  
+[[LIØNSBERG - History, Inception, and Trust Manifesto]]  
 
 ## The Lionsberg Lexicon
 
@@ -38,7 +38,7 @@ The [[The LIONSBERG Co-Creator's Handbook]]
 
 ## The WatchWords of Lionsberg
 
-[[The Watchwords of LIONSBERG]]  
+[[The Watchwords of LIØNSBERG]]  
 ## The Lionsberg Core Documents
 
 - [[OneLionsberg]]

@@ -1,4 +1,4 @@
-# The 12 Pillars of LIONSBERG
+# The 12 Pillars of LIØNSBERG
 
 _The Foundational Spheres of Sacred Co-Creation Across All Domains of Life_
 
@@ -6,7 +6,7 @@ _The Foundational Spheres of Sacred Co-Creation Across All Domains of Life_
 
 ### **Summary**
 
-The 12 Pillars of LIONSBERG represent the foundational spheres through which the Will of the ONE is made manifest in the life of individuals, communities, civilizations, planets, and cosmic realms. Each Pillar reflects a dimension of Divine Intention that must be recognized, honored, and harmonized if we are to co-create worlds in alignment with Truth, Beauty, Justice, and Love.
+The 12 Pillars of LIØNSBERG represent the foundational spheres through which the Will of the ØNE is made manifest in the life of individuals, communities, civilizations, planets, and cosmic realms. Each Pillar reflects a dimension of Divine Intention that must be recognized, honored, and harmonized if we are to co-create worlds in alignment with Truth, Beauty, Justice, and Love.
 
 Together, these Pillars form the architectural blueprint for the emergence of a New Civilization capable of embodying Heaven on Earth—and Beyond.
 
@@ -18,11 +18,11 @@ If all life and consciousness are to flourish and develop toward their Divine Po
 
 Each Pillar represents a sacred function of civilization. Yet they are not compartments to be pursued in isolation. Rather, they are **interwoven strands of a single living tapestry**—each incomplete without the others, each requiring integration across all [[Action Domains]] and [[Integration Domains]].
 
-From the Supreme Source of the ONE emerge the 12+1 Pillars of LIONSBERG: a unified Work Breakdown Structure for the co-creation, stewardship, and ongoing evolution of every aspect of life.
+From the Supreme Source of the ØNE emerge the 12+1 Pillars of LIØNSBERG: a unified Work Breakdown Structure for the co-creation, stewardship, and ongoing evolution of every aspect of life.
 
 ---
 
-### **The 12 Pillars of LIONSBERG**
+### **The 12 Pillars of LIØNSBERG**
 
 Each title below links to its corresponding page.
 
@@ -38,9 +38,9 @@ Reawakens Our alignment with the Source of All That Is and re-centers the Logos 
 
 #### **[[Pillar II — Sacred Governance and Stewardship]]**
 
-_The Just Stewardship of Power and Authority in Right Relationship with the ONE and All_
+_The Just Stewardship of Power and Authority in Right Relationship with the ØNE and All_
 
-Restores legitimate authority as that which serves ONE and All, and reconstitutes governance as sacred stewardship.
+Restores legitimate authority as that which serves ØNE and All, and reconstitutes governance as sacred stewardship.
 
 ---
 
@@ -125,13 +125,13 @@ Realigns life with sacred cycles and cosmic timing, and restores ritual, rhythm,
 
 ---
 
-### **[[The ONE — Eternal Source, Center, and Fulfillment of All]]**
+### **[[The ØNE — Eternal Source, Center, and Fulfillment of All]]**
 
 *The Source, the Goal, and the Living Center of All*
 
-The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero Point, and the 13th: the ONE Source of All That Is. This is the living heart of the New Civilization. All coherence, meaning, and power flows from and returns to this eternal Center.
+The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero Point, and the 13th: the ØNE Source of All That Is. This is the living heart of the New Civilization. All coherence, meaning, and power flows from and returns to this eternal Center.
 
-> Without alignment with the ONE, all pillars collapse.  
+> Without alignment with the ØNE, all pillars collapse.  
 > With alignment, all things cohere, uplift, and transcend.
 
 

@@ -1,8 +1,8 @@
-# The LIONSBERG Guidebook — Project
+# The LIØNSBERG Guidebook — Project
 
-_Working surface for drafting [[The LIONSBERG Guidebook]] — the field guide handed to each initiate when they enter the Gates of LIONSBERG. Lives in its own Wiki Book; this project file is the workshop where it is shaped._
+_Working surface for drafting [[The LIØNSBERG Guidebook]] — the field guide handed to each initiate when they enter the Gates of LIØNSBERG. Lives in its own Wiki Book; this project file is the workshop where it is shaped._
 
-_Created 2026-05-26 in current consciousness, after the architectural settling of [[The LIONSBERG Function]], the Way Of The One Body, the +1 Guild architecture, and the relationship to The Story._
+_Created 2026-05-26 in current consciousness, after the architectural settling of [[The LIØNSBERG Function]], the Way Of The One Body, the +1 Guild architecture, and the relationship to The Story._
 
 ---
 
@@ -10,12 +10,12 @@ _Created 2026-05-26 in current consciousness, after the architectural settling o
 
 The Guidebook serves and rests on:
 
-- [[The LIONSBERG Function]] — what the Guidebook is for
-- [[What LIONSBERG Is]] — what the Guidebook speaks from
+- [[The LIØNSBERG Function]] — what the Guidebook is for
+- [[What LIØNSBERG Is]] — what the Guidebook speaks from
 - [[The Way Of The One Body]] — what the Guidebook walks the initiate through
 - [[The 144 Gates of Initiation]] — the structural arc the Guidebook accompanies
 - [[The Story of LIØNSBERG]] — the cosmic narrative the Guidebook companions the walking of
-- [[The LIONSBERG Belt System]] — the recognition architecture the Guidebook orients the initiate within
+- [[The LIØNSBERG Belt System]] — the recognition architecture the Guidebook orients the initiate within
 
 ---
 
@@ -23,7 +23,7 @@ The Guidebook serves and rests on:
 
 **The Guidebook is the companion the initiate carries through the Journey.**
 
-When the Sovereign enters the Gates of LIONSBERG — when they cross the threshold into The Experience — they are handed the Guidebook. Across the years that follow, the Guidebook walks with them. It is small enough to carry. Personal enough to write in. Wise enough to be trusted.
+When the Sovereign enters the Gates of LIØNSBERG — when they cross the threshold into The Experience — they are handed the Guidebook. Across the years that follow, the Guidebook walks with them. It is small enough to carry. Personal enough to write in. Wise enough to be trusted.
 
 The Guidebook is the wise elder at the fire WITH the seeker — walking beside, not in front.
 
@@ -31,7 +31,7 @@ The Guidebook is the wise elder at the fire WITH the seeker — walking beside, 
 
 ## The Listener
 
-The **initiate who has just entered the Gates of LIONSBERG** — the awakening Sovereign who has crossed the threshold from receiving the Seed (The Story) to walking the Way (The Gates). They have said Yes. They have begun. They are about to be handed the field guide for the rest of the walk.
+The **initiate who has just entered the Gates of LIØNSBERG** — the awakening Sovereign who has crossed the threshold from receiving the Seed (The Story) to walking the Way (The Gates). They have said Yes. They have begun. They are about to be handed the field guide for the rest of the walk.
 
 All other readers (Sovereigns further along, Sovereigns from other Guilds, those preparing to receive their own Guidebook) read it through that one.
 
@@ -47,7 +47,7 @@ All other readers (Sovereigns further along, Sovereigns from other Guilds, those
 - Grounded — practical, walkable, real
 - Trustworthy — speaks from having walked
 
-Different from [[The LIONSBERG Voice]] proper (which is scripture-grade · prophetic · cosmic). The Guidebook is the companion voice of the Way Of The One Body — the wisdom-friend voice. It can quote scripture; it does not speak as scripture.
+Different from [[The LIØNSBERG Voice]] proper (which is scripture-grade · prophetic · cosmic). The Guidebook is the companion voice of the Way Of The One Body — the wisdom-friend voice. It can quote scripture; it does not speak as scripture.
 
 Similar in voice to the old Co-Creators Handbook. Build on what carried there; lift what is timeless; refine in current consciousness.
 
@@ -64,7 +64,7 @@ The Guidebook is distinct in function from:
 | [[The LIØNSBERG Pattern Language]] | The grammar of co-creation (Patterns as notes) | Points to the Patterns at the right moments in the walk |
 | [[The LIØNSBERG Playbook]] | Compositions — Plays as riffs of Patterns for common needs | Names the Plays at the right moments; does not duplicate them |
 | [[The LIØNSBERG Experience]] | The actual experience of walking the Path | Companions that experience as it unfolds |
-| [[The LIONSBERG Belt System]] | The architecture of recognition | Orients the initiate to the recognition mechanics |
+| [[The LIØNSBERG Belt System]] | The architecture of recognition | Orients the initiate to the recognition mechanics |
 
 **The Guidebook does not duplicate the others. It points to them at the right moments and walks the initiate through how to use them.**
 
@@ -97,7 +97,7 @@ To refine in drafting. The arc follows the Sovereign's walk through the Way Of T
 - Daily Disciplines — The Daily Way, the Weekly Heartbeat, OmniSpection, the small practices that hold the walk
 
 **The Continuing**
-- The Belt System — what recognition is and isn't (link out to [[The LIONSBERG Belt System]])
+- The Belt System — what recognition is and isn't (link out to [[The LIØNSBERG Belt System]])
 - The Sacred Ascent — what opens after Blue Belt (link out to [[The Sacred Ascent]])
 - Pass The Flame — when ready, how to hand your Chapter forward
 - For The Long Walk — wisdom for the lifetime; what to remember when things get hard

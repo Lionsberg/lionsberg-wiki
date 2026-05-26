@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, pedagogy, formation, sirimiri, mondragon, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Arizmendi formation study)
+source: Phase 2.1 audit of LIØNSBERG 101 (Arizmendi formation study)
 captured: 2026-05-19
 ---
 
@@ -16,7 +16,7 @@ José María Arizmendiarrieta's formation methodology — the pattern by which M
 
 This is the LIØNSBERG formation methodology. The Pedagogy of Trust and Sirimiri.
 
-**Trust** is the corresponding inner posture. The teacher trusts the student _before the student has earned it_. The teacher trusts that the Pattern is already encoded in the student's Spark — that the student is [[One of the Ones of the ONE]] who has merely forgotten — and that the teacher's work is not to install the Pattern but to ask the questions that allow the student to [[The ReMembering Stance|ReMember]].
+**Trust** is the corresponding inner posture. The teacher trusts the student _before the student has earned it_. The teacher trusts that the Pattern is already encoded in the student's Spark — that the student is [[One of the Ones of the ØNE]] who has merely forgotten — and that the teacher's work is not to install the Pattern but to ask the questions that allow the student to [[The ReMembering Stance|ReMember]].
 
 The teacher does not give the Pattern. The teacher confirms what the student already knows beneath the noise. When the resonance lands — when the student says _"yes, I have known this somehow, somewhere"_ — the teaching is doing its work.
 

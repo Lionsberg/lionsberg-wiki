@@ -20,7 +20,7 @@ The Terms are a seven-fold spine. Each Term names a face of right relationship t
 
 **Justice.** Right relationship made operational. The Sovereign does not extract. The Sovereign does not exploit. The Sovereign does not collaborate with extractive systems beyond what survival in the transition requires — and the Sovereign minimizes that. Justice under the Covenant is **restorative**, not retributive — but restorative justice still names the violation, still requires the restoration, still protects the harmed.
 
-**Stewardship.** Nothing is owned. Everything is held in trust. The Earth, the body, the gift, the resource, the relationship — all are loaned to the Sovereign by ONE for the term of the Sovereign's incarnation. The Sovereign leaves what they touch better than they found it, or dies trying.
+**Stewardship.** Nothing is owned. Everything is held in trust. The Earth, the body, the gift, the resource, the relationship — all are loaned to the Sovereign by ØNE for the term of the Sovereign's incarnation. The Sovereign leaves what they touch better than they found it, or dies trying.
 
 **Wisdom.** The Sovereign seeks counsel. The Sovereign respects elders. The Sovereign does not act in haste against the Discernment of their Circle. The Sovereign is teachable, even when ranked high; even the Master is a student of the Way. Wisdom under the Covenant requires humility — the recognition that no Sovereign has the whole, and that the whole emerges through the gathering.
 

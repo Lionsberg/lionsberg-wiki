@@ -1,8 +1,8 @@
-# LIONSBERG Mission
+# LIØNSBERG Mission
 
 The Mission of **[[LIØNSBERG]]** is to bring the [[Creator's Intent]]—**[[Heaven]]**—to every realm it touches.
 
-As Earth enters the **[[New Era]]**, **LIONSBERG** seeks to guide and empower humanity in its Quest to: 
+As Earth enters the **[[New Era]]**, **LIØNSBERG** seeks to guide and empower humanity in its Quest to: 
 
 1. Enlighten Consciousness  
 2. Resolve the **[[Meta Crisis]]**  
@@ -10,4 +10,4 @@ As Earth enters the **[[New Era]]**, **LIONSBERG** seeks to guide and empower hu
 
 The next milestone on this sacred mission and [[Critical Path]] is to connect and empower **[[The First Three Percent]]** by 2026.  
 ____  
-An entry in [[LIONSBERG Core Statements]]  
+An entry in [[LIØNSBERG Core Statements]]  

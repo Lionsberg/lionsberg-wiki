@@ -2,7 +2,7 @@
 _An Entry in [[Something Powerful, New, and Good]]_  
 _And possibly [[Lionsberg Wiki Books]]_  
 
-One of Us The People of LIONSBERG  
+One of Us The People of LIØNSBERG  
 Recently proposed that We [[MindWeaving|MindWeave]]  
 **The Life Divine** —  
 Both ItSelf As Such,  
@@ -22,7 +22,7 @@ Yin and Yang
 Spirit and Matter  
 Heart and Mind  
 And All other dichotomies  
-Back into ONE Divine Tapestry  
+Back into ØNE Divine Tapestry  
 
 First articulated in English in the 1910s  
 Aurobindo's work has been recognized by many  
@@ -74,7 +74,7 @@ With each New Perspective and InterWeaving
 
 [[Like Gold Refined Seven Times]]  
 Eventually Our Understanding will become clear  
-And We will rest in the purity of the ONE  
+And We will rest in the purity of the ØNE  
 
 And with that We enter Chapter One  
 ### ➡️ [[MindWeaving Chapter One — The Human Aspiration]]

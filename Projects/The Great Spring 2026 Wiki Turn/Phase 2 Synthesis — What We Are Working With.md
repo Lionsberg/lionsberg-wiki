@@ -26,7 +26,7 @@ The Book of Lionsberg Chapters Fifteen and Sixteen — twenty-seven Great Game f
 
 ### The Mythic Substrate
 
-The Caves narrative. Outside the Boundary. The Great Movement. The Pillars of Stone. Choosing the Flood. The Physics of the Threshold. Thirty-six Genesis files in The Book of LIONSBERG carry the true-myth load — the archetypal language describing humanity's actual condition and the actual path out. Plus The Story of LIONSBERG, the Chronicles of Lionsberg (Sacred Flame, Eternal Citadel, Cosmic Stone, First Flames), Pass The Flame's autobiographical bridge, and A 200 Page Book's unique cosmic-dark-empire gates (24-31 — Full Spectrum Dominance, Dark Fleet, Mind Kontrolle, LifeForce Extraction, the Interlude moment of grief) that exist nowhere else in the corpus.
+The Caves narrative. Outside the Boundary. The Great Movement. The Pillars of Stone. Choosing the Flood. The Physics of the Threshold. Thirty-six Genesis files in The Book of LIØNSBERG carry the true-myth load — the archetypal language describing humanity's actual condition and the actual path out. Plus The Story of LIØNSBERG, the Chronicles of Lionsberg (Sacred Flame, Eternal Citadel, Cosmic Stone, First Flames), Pass The Flame's autobiographical bridge, and A 200 Page Book's unique cosmic-dark-empire gates (24-31 — Full Spectrum Dominance, Dark Fleet, Mind Kontrolle, LifeForce Extraction, the Interlude moment of grief) that exist nowhere else in the corpus.
 
 ### The Strategic Spine
 
@@ -82,7 +82,7 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 - **MindWeaving The Life Divine** is an empty directory.
 - **Tao Te Ching** has only Chapter 1 fully developed; ToC promises 80 more chapters.
 - **The Book of Emotions** is a seed-stage list of ~80 emotion names with no per-emotion substance.
-- **The Book of LIONSBERG Chapter X (Musings)** is empty.
+- **The Book of LIØNSBERG Chapter X (Musings)** is empty.
 - **The Quest Towards The Goal** — a book Jordan hoped to write but didn't; its 70+ "Remembering Why and How to..." outline functions as an unfilled promise.
 - **The Lionsberg Way** is self-marked as "chaotic Work In Progress; ignore for now." Its 16 ReMembering stubs are mostly link-rolodexes.
 
@@ -96,9 +96,9 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 **Missing as structural decisions:**
 
 - **Volume binding strategy** — seven separate volumes, boxed set, or single bound omnibus? Not yet decided.
-- **Where the Playbook lives** — inside The Book of LIONSBERG (per its TOC) or alongside it at the wiki root (per actual file location)? Both treated as true.
-- **Kingdom of LIONSBERG v0.1 disposition** — supersede, harmonize, or sit alongside earlier architectural articulations? Decision pending.
-- **The Book of LIONSBERG Chapters 15+16 disposition** — extract as standalone Volume or keep as the closing chapters of Book One? Decision pending.
+- **Where the Playbook lives** — inside The Book of LIØNSBERG (per its TOC) or alongside it at the wiki root (per actual file location)? Both treated as true.
+- **Kingdom of LIØNSBERG v0.1 disposition** — supersede, harmonize, or sit alongside earlier architectural articulations? Decision pending.
+- **The Book of LIØNSBERG Chapters 15+16 disposition** — extract as standalone Volume or keep as the closing chapters of Book One? Decision pending.
 - **The Caves narrative promotion** — out of "Chapter 1 of Book 1" into Genesis-of-Codex or Volume-root status? Decision pending.
 - **The 12 Pillars / 12 Domains harmonization** — explicit reconciliation method needed.
 
@@ -108,7 +108,7 @@ Honest inventory of gaps in the corpus itself — not gaps in the audit, but gap
 - **The Yahweh Card** (LIØNSBERG Earth Cosmos) and the **`Lionsberg - A Biblical Perspective` book** carry the heaviest religion-elevation that the Codex elsewhere explicitly rejects. Refactor or sunset decisions pending.
 - **Beyond Earth Note 2** is the most concentrated [[Cosmic Wildlife]] violation in the wiki. The ufology species-essentialist roster needs translation to faction-based framing.
 - **Twelve Meta-X family files** open with identical paragraphs. Consolidation to one Meta-Pattern Card with facets is overdue.
-- **The Book of LIONSBERG Chapter 8** (Quest of Humanity) is heavily Western-tradition-weighted and names Jesus, Muhammad with prophetic framing. Either rebalance for universal articulation or hold as honest historical-reflection chapter.
+- **The Book of LIØNSBERG Chapter 8** (Quest of Humanity) is heavily Western-tradition-weighted and names Jesus, Muhammad with prophetic framing. Either rebalance for universal articulation or hold as honest historical-reflection chapter.
 
 **Missing as Card-Book maturity:**
 
@@ -148,11 +148,11 @@ Both paths converge on the bound corpus.
 
 ### The Bound Corpus — The Seven Volumes
 
-**Volume II — The Story of LIØNSBERG.** Cosmic context, the True Myth, the Caves narrative, the Story of Stories. Opens with the Birth of the Eternal Citadel (Chronicles of Lionsberg). Contains the canonical Caves text (Book of LIONSBERG Chapter 1.5 promoted to Volume root). Carries the cosmic arc through the 12 Epochs. Closes with the Crossroads at the Boundary of Worlds and the threshold-decision.
+**Volume II — The Story of LIØNSBERG.** Cosmic context, the True Myth, the Caves narrative, the Story of Stories. Opens with the Birth of the Eternal Citadel (Chronicles of Lionsberg). Contains the canonical Caves text (Book of LIØNSBERG Chapter 1.5 promoted to Volume root). Carries the cosmic arc through the 12 Epochs. Closes with the Crossroads at the Boundary of Worlds and the threshold-decision.
 
 **Volume III — The Pattern Language.** ØNE at the center. Twelve Irreducible Elements articulated with the Mondragon/AA/Benedictine/Early-Church/Iroquois/Swiss/Open-Source/Rochdale evidentiary spine. Seven Moves. Twelve Domains (harmonized with the 12 Pillars or explicitly distinguished). Fourteen Meta-Patterns. The 144 Gates of Initiation as the architecture of consciousness shift. The complete Pattern Language extracted, structurally rebuilt, and held loosely enough for living refinement.
 
-**Volume IV — The Great Game.** The participatory form. The Twenty-Seven Game files from Book of LIONSBERG Chapter 15 promoted. Movement One (Simple Game), Movement Two (Community Game), Movement Three (Planetary Game), Movement Four (Eternal Divine Play). The 10 Year Grand Strategy timeline. The Fibonacci math. The 300-per-community arithmetic. The Plan Trilogy (Joseph, Noah, Solomon).
+**Volume IV — The Great Game.** The participatory form. The Twenty-Seven Game files from Book of LIØNSBERG Chapter 15 promoted. Movement One (Simple Game), Movement Two (Community Game), Movement Three (Planetary Game), Movement Four (Eternal Divine Play). The 10 Year Grand Strategy timeline. The Fibonacci math. The 300-per-community arithmetic. The Plan Trilogy (Joseph, Noah, Solomon).
 
 **Volume V — The Playbook.** The operational handbook. Form A Circle. Choose A Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate Your Circles. Stack Up and Align (Quests, Circles, Communities, Bioregions). Federate Everything. Connect and Collaborate. Share Your Stories. Dialogos, SenseMaking, OmniSpection. Seasonal OmniSpection. Continuously Improve Everything. Pass the Flame. The Network of Commitments. The Program Delivery Guide compressed and folded as the operational core.
 
@@ -185,12 +185,12 @@ The Codex is never finished. The Pirsig Method governs Card writing. OmniSpectio
 A short list of decisions that gate the next phase of work. Each is articulated in the Project Reassessment section of the project plan; here as concentrate:
 
 - **12 Pillars or 12 Domains** — which is canonical, or how are both held?
-- **Kingdom of LIONSBERG v0.1** — supersede, harmonize, parallel?
+- **Kingdom of LIØNSBERG v0.1** — supersede, harmonize, parallel?
 - **Constitution numbering** — declare new series canonical and complete the four TKTK articles?
-- **The Book of LIONSBERG Chapters 15+16** — extract as standalone Volume, or close Volume VIII?
+- **The Book of LIØNSBERG Chapters 15+16** — extract as standalone Volume, or close Volume VIII?
 - **The Caves narrative** — promote to Genesis-of-Codex, or keep as Chapter 1?
-- **The Playbook canonical home** — inside The Book of LIONSBERG, or at wiki root?
-- **LIONSBERG 101** — promote to Volume root status?
+- **The Playbook canonical home** — inside The Book of LIØNSBERG, or at wiki root?
+- **LIØNSBERG 101** — promote to Volume root status?
 - **`Lionsberg - A Biblical Perspective` book** — archive as Christian-companion piece or sunset entirely?
 - **The 144 Voices** — Volume VII companion corpus or Codex appendix?
 - **The 144 Gates internal structure** — resolve the two parallel attempts?

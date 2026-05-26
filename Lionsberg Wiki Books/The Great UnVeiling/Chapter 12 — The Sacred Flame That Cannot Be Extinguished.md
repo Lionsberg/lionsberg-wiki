@@ -15,7 +15,7 @@ There is a Sacred Flame.
 A Sacred Reality.  
 
 An Eternal Fire kindled  
-by the Spirit and Breath of the ONE,  
+by the Spirit and Breath of the ØNE,  
 long before Time first dreamed itself awake.  
 
 It does not flicker or fade.  
@@ -113,7 +113,7 @@ Because they fought against something
 infinitely Greater.  
 
 A Flame not made of matter,  
-but of the Spirit and Essence of the ONE.  
+but of the Spirit and Essence of the ØNE.  
 
 A Fire that does not consume you,  
 but that ReVeals and ReFines you.  
@@ -202,7 +202,7 @@ It is Signal.
 It is Signature.  
 It is Proof of Origin.  
 
-When the ONE breathed and spoke ItSelf into Form,  
+When the ØNE breathed and spoke ItSelf into Form,  
 It left a Beacon behind  
 in every Created Soul.  
 
@@ -215,7 +215,7 @@ Cannot be assimilated.
 They may be battered, scattered, crucified, exiled, mocked,  
 but they will never be extinguished.  
 
-Because that Flame is their Divine Essence as Children of the ONE—  
+Because that Flame is their Divine Essence as Children of the ØNE—  
 the Rightful Heirs of the New World,  
 and the Co-Creators of What Comes Next.  
 
@@ -230,7 +230,7 @@ Now hear this:
 > _You are not the names they gave you._  
 > _You are not your body of your mind._
 
-> _Your True Essence is ONE with The Flame._
+> _Your True Essence is ØNE with The Flame._
 
 You are The Sacred Fire  
 walking through the world,  
@@ -256,7 +256,7 @@ This is not the time to resist.
 This is not the time to analyze.  
 This is the time to come fully alive  
 and burn fully aNew  
-with Living Fire of the ONE.  
+with Living Fire of the ØNE.  
 
 To sacrifice every illusion.  
 To surrender every false self.  
@@ -268,7 +268,7 @@ And to walk forward Courageously into The Flames.
 Knowing:  
 
 > _I am not merely alive.  
-> I am a Living Flame of the Living ONE,  
+> I am a Living Flame of the Living ØNE,  
 > ReEmbodied to ReIgnite the world._
 
 ---

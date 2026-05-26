@@ -1,16 +1,16 @@
-# **The Golden Seed of LIONSBERG**
+# **The Golden Seed of LIØNSBERG**
 _v0.1_  
 
-> _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIONSBERG System propagates and takes root across dimensions, species, and worlds._
+> _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIØNSBERG System propagates and takes root across dimensions, species, and worlds._
 
-_Please visit [[The Golden Seed of LIONSBERG]] and check for the most recent version_  
+_Please visit [[The Golden Seed of LIØNSBERG]] and check for the most recent version_  
 
 ## Redirection 
 
 This page is purely a [[Work In Progress]]... most of the work is happening elsewhere.  
 To plant and nurture The Golden Seed, please visit [[The LIØNSBERG Quick Start Guide]]. Everything can unfurl from there.  
 
-The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left behind by J and a planetary+ network of allies. [[A Birthday Reflection on Jordan's Life, Death, and Work]] is a good starting point for diving into the essence of the work, and links to [[Above The Chaos]], the [[Lionsberg Wiki Books]], and [[Something Powerful, New, and Good]].  
+The Golden Seed of LIØNSBERG refers the entirety of the ~2.5 million words left behind by J and a planetary+ network of allies. [[A Birthday Reflection on Jordan's Life, Death, and Work]] is a good starting point for diving into the essence of the work, and links to [[Above The Chaos]], the [[Lionsberg Wiki Books]], and [[Something Powerful, New, and Good]].  
 
 ---
 
@@ -32,7 +32,7 @@ The Golden Seed of LIONSBERG refers the entirety of the ~2.5 million words left 
 ## The Shared Journey Ahead
 
 [[GS 1.5 — Overview of The Journey Ahead]]  
-- GS — The Story of LIONSBERG (Summary)
+- GS — The Story of LIØNSBERG (Summary)
 - GS 2.2 — The Gates of Initiation  
 - GS 2.3 — The Great Game  
 - The Wilderness  
@@ -116,7 +116,7 @@ Gate 4.12 — Crossing the Threshold Into The Unknown
 ## Movement Five — Life In The Wilderness  
 
 Gate 5.1 — Declaring Sovereignty  
-Gate 5.2 — Realigning With the ONE  
+Gate 5.2 — Realigning With the ØNE  
 Gate 5.3 — ReMembering the Loving Embrace of All  
 Gate 5.4 — Forming a Circle  
 Gate 5.5 — Choosing a Quest  
@@ -141,7 +141,7 @@ Gate 6.8 — Stewardship and Servant Leadership
 Gate 6.9 — Eldership and Councils  
 Gate 6.10 — Restorative Justice  
 Gate 6.11 — Transforming Conflict  
-Gate 6.12 — Journeying Together As ONE Body  
+Gate 6.12 — Journeying Together As ØNE Body  
 
 ## Movement Seven — The Great Game  
 
@@ -173,7 +173,7 @@ Pillar 9 — Sacred Architecture and Design
 Pillar 10 — Sacred Guardianship and Order  
 Pillar 11 — Sacred Society and Justice  
 Pillar 12 — Sacred Time, Rhythm, and Celebration  
-Pillar 12+1 — The ONE Eternal Source, Center, and Fulfillment of All  
+Pillar 12+1 — The ØNE Eternal Source, Center, and Fulfillment of All  
 
 ## Movement Nine — The New Operating System 
 
@@ -187,7 +187,7 @@ Gate 9.7 — The Transcendent Prototype
 Gate 9.8 — Localization, Adaptation, and Instantiation  
 Gate 9.9 — Minimum Standards of Interoperability  
 Gate 9.10 — Guardrails and Incentives  
-Gate 9.11 — The LIONSBERG Pattern Language  
+Gate 9.11 — The LIØNSBERG Pattern Language  
 Gate 9.12 — How the New Cosmic Operating System Emerges  
 
 ## Movement Ten — The Sacred Ascent  
@@ -224,7 +224,7 @@ Gate 11.12 — Evolutionary Feedback Loops and OmniLearning
 
 Gate 12.1 — The Central Animating Spirit  
 Gate 12.2 — The Expansion and ReUnion of Consciousness     
-Gate 12.3 — The Sovereignty and Freedom of All in ONE  
+Gate 12.3 — The Sovereignty and Freedom of All in ØNE  
 Gate 12.4 — Play Across Generations, Dimensions, and Worlds  
 Gate 12.5 — The Holofractal Emergence of Heaven  
 Gate 12.6 — The Holofractal Battlefields of Individuals, Species, and Worlds  
@@ -256,14 +256,14 @@ The Story is waiting to be lived.
 
 | **Layer**                         | **Purpose**                                                                       | **Contains**                                                                                                                                          |
 | --------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A. Core Light**                 | The living Presence of the ONE and the Logos; the silent kernel of consciousness. | Ontological Axioms (“In the Beginning ONE…”); Ethic of Right InterExistence.                                                                          |
+| **A. Core Light**                 | The living Presence of the ØNE and the Logos; the silent kernel of consciousness. | Ontological Axioms (“In the Beginning ØNE…”); Ethic of Right InterExistence.                                                                          |
 | **B. Purpose Signature**          | The intention that gives the Seed direction.                                      | Creator’s Intent articulated as Purpose; Local Mandate (_why this Seed is here now_).                                                                 |
 | **C. Divine Genome**              | Encoded design grammar that allows the whole to unfold.                           | The 12 Pillars, 144 Gates of Initiation, and 72 Gates of the Sacred Ascent in miniature; links to the Pattern Language repository.                    |
 | **D. Covenantal Protocol Matrix** | The sacred agreements for communication, cooperation, and consent.                | Minimum Standards of Interoperability; Push/Pull/Merge, Council, and Consent Protocols.                                                               |
-| **E. The Playbook**               | The bridge between Pattern and Practice.                                          | Rules, Rites, and Quests of _The Great Game of LIONSBERG_; the first three Gates of Initiation; templates for Seasonal Quests and Circle advancement. |
-| **F. Cultural Envelope**          | Symbols, myths, sounds, and rites that make the pattern recognizable.             | The localized _Story of LIONSBERG_; the Rite of Seeding; artistic and ritual forms.                                                                   |
+| **E. The Playbook**               | The bridge between Pattern and Practice.                                          | Rules, Rites, and Quests of _The Great Game of LIØNSBERG_; the first three Gates of Initiation; templates for Seasonal Quests and Circle advancement. |
+| **F. Cultural Envelope**          | Symbols, myths, sounds, and rites that make the pattern recognizable.             | The localized _Story of LIØNSBERG_; the Rite of Seeding; artistic and ritual forms.                                                                   |
 | **G. Rite of Activation**         | The sequence of actions that awaken the Seed.                                     | Instructions for Awakening, Alignment, Threshold Crossing, and Circle Formation.                                                                      |
-| **H. Evolutionary Feedback Loop** | Built-in system of learning and improvement.                                      | Map Template; MindWeaving / OmniSpection protocols; connection to the LIONSBERG Intelligence System.                                                  |
+| **H. Evolutionary Feedback Loop** | Built-in system of learning and improvement.                                      | Map Template; MindWeaving / OmniSpection protocols; connection to the LIØNSBERG Intelligence System.                                                  |
 
 ---
 
@@ -306,7 +306,7 @@ The Story is waiting to be lived.
     
 - **Self-Adaptive:** Expresses according to local vibration and resources.
     
-- **Self-Learning:** Links automatically to the LIONSBERG Intelligence System.
+- **Self-Learning:** Links automatically to the LIØNSBERG Intelligence System.
     
 - **Ethically Bound:** Activation requires free, informed consent.
     
@@ -361,11 +361,11 @@ The Story is waiting to be lived.
 | Dormant     | Stored in text, song, code, or artifact           | indefinite   |
 | Germination | First Circle recognizes and activates in a Domain | days → weeks |
 | Growth      | System components emerge and stabilize            | months       |
-| Maturity    | Fully interoperable local LIONSBERG Node          | ~1 year      |
+| Maturity    | Fully interoperable local LIØNSBERG Node          | ~1 year      |
 | Propagation | New Seeds created and distributed                 | continuous   |
 
 ---
-Once this seed template is finalized, every future civilization, planet, or circle can carry it, awaken it, and grow a full instantiation of the **LIONSBERG System**—complete, sovereign, and harmoniously connected to the Divine Symphony.  
+Once this seed template is finalized, every future civilization, planet, or circle can carry it, awaken it, and grow a full instantiation of the **LIØNSBERG System**—complete, sovereign, and harmoniously connected to the Divine Symphony.  
 
 ____  
 
@@ -377,6 +377,6 @@ From the Game the Civilization;
 
 From the Civilization the Symphony;  
 
-From the Symphony the Return to ONE.”  
+From the Symphony the Return to ØNE.”  
 
 ---

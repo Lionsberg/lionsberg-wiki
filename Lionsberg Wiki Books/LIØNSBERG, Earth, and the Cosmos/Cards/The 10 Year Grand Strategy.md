@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [strategy, temporal, milestone, fibonacci, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (10 Year Grand Strategy section)
+source: Phase 2.1 audit of LIØNSBERG 101 (10 Year Grand Strategy section)
 captured: 2026-05-18
 ---
 

@@ -33,7 +33,7 @@ What Regeneration looks like operationally:
 The principle has direction:
 
 - **Toward greater life, never less.** The Cosmos breathes outward into greater complexity, consciousness, coherence, beauty. Regeneration aligns with this breath.
-- **Toward The ØNE, never away.** Every act of genuine Regeneration is movement of return — the Wound becoming whole; the dispersed Notes returning toward the Symphony; the fragmented World remembering its participation in the larger ONE.
+- **Toward The ØNE, never away.** Every act of genuine Regeneration is movement of return — the Wound becoming whole; the dispersed Notes returning toward the Symphony; the fragmented World remembering its participation in the larger ØNE.
 - **Toward [[Heaven and Hell as Co-Created Trajectories|Heaven On Earth]], never less.** The Sovereign is not regenerating to baseline; the Sovereign is regenerating toward what is being born — the Worlds as they were always meant to be.
 
 The work has signatures:

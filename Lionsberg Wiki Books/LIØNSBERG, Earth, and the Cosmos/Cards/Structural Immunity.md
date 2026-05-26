@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, immunity, anti-fragility, anti-corruption, element-eight, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 + The 12 Pillars + CLAUDE.md (Element 8)
+source: Phase 2.1 audit of LIØNSBERG 101 + The 12 Pillars + CLAUDE.md (Element 8)
 captured: 2026-05-19
 ---
 
@@ -23,9 +23,9 @@ The known pathologies and their immunities:
 - **Wealth accumulation by leaders** → compressed ratios (~7:1 or lower), voluntary tithing inward, [[Capital as Subordinate Tool]], sunset clauses on accumulation, Jubilee restoration.
 - **Capture by external interests** → [[The Covenant Stack]], fields of agreements that bind each Circle to its purpose, structural exit protocols, [[Withdrawal of Consent and Exodus Protocols]].
 - **Bureaucratic suffocation** → Circles are sovereign over their own work. Patterns are short and transmissible. Plan as Pattern, not as bureaucracy. Decisions at the lowest competent level.
-- **Schism and tribalism** → [[Honoring Dissent]]. Consent (not consensus). The [[The Meta Community]] holds all the diversity within ONE Body. Disagreement is a feature, not a failure.
+- **Schism and tribalism** → [[Honoring Dissent]]. Consent (not consensus). The [[The Meta Community]] holds all the diversity within ØNE Body. Disagreement is a feature, not a failure.
 - **Imperial drift** → [[Federations vs Empires|Federations of Federations]], never Empire. Sovereignty preserved at every scale. The Pattern explicitly rejects centralizing impulses, even when they would be efficient.
-- **Hierarchical priesthood** → Direct relationship to the ONE for every Being. No intermediary class. [[The Discernment Permission|Discernment]] belongs to each Citizen, supported by Circle and Elder, never imposed from above.
+- **Hierarchical priesthood** → Direct relationship to the ØNE for every Being. No intermediary class. [[The Discernment Permission|Discernment]] belongs to each Citizen, supported by Circle and Elder, never imposed from above.
 - **Generational drift** — the founders' fire fading in the next cohort → built-in apprenticeship, [[The Pedagogy of Trust and Sirimiri]], the [[The 3-Year Healing and Empowerment Cycle]], elder/youth pairings, [[Pass The Flame]] within one week as a non-optional discipline.
 - **Surveillance and coercion** → the Pattern operates by attraction, not promotion; by invitation, not enforcement. No node may surveil another. No node may coerce another. The boundary between voluntary and compelled is sacred.
 

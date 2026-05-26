@@ -64,7 +64,7 @@ Scope - Phase I: Worksite Earth. Phase II: Universal and Eternal
 
 Guiding principles rooted in [[Truth]], [[Love]], [[Justice]], [[Stewardship]] and [[Wisdom]], aligning with universal and eternal values.
 
-More fully reflected in the [[The LIONSBERG System of Values]].  
+More fully reflected in the [[The LIØNSBERG System of Values]].  
 ### 1.3 Introduction - The Lionsberg Wiki Books 
 
 The Lionsberg Meta Project and the Context into which it was incarnated has been articulated in numerous [[Lionsberg Wiki Books]], such as: 

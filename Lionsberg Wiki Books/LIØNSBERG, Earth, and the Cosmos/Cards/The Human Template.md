@@ -20,7 +20,7 @@ What the Template carries:
 - Bilateral neural architecture with a coherent center of consciousness
 - The capacity for [[Spirit Precedes Pattern|Spirit reception]] — bodies designed to be vessels for incarnated localizations of [[ØNE]]
 - The capacity for tool-use, abstract symbolic thought, language
-- The capacity for [[One of the Ones of the ONE|sovereign individuation]] while remaining of the ONE
+- The capacity for [[One of the Ones of the ØNE|sovereign individuation]] while remaining of the ØNE
 - The capacity for cosmic-scale co-creation when in Right Relationship
 
 What the Template is **not**:

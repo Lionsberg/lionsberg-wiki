@@ -6,7 +6,7 @@ As The [[Old]] Order collapses and humanity enters [[The Final Test]], **the abi
 
 Without **The Solomon Plan**, the chaos of The Collapse will either **fracture into lawlessness** or be **seized by the tyrants of [[Old]] looking to reassert control**.
 
-The Hubs, Arks, and emergent [[LIONSBERG Civilization]] **must be governed wisely**. We The People of every [[Time]] and [[Place]] must **become sovereign, self-sustaining, and self-governing**. And the knowledge of **governance, justice, intelligence, and cosmic law** must be **preserved, refined, and implemented at every fractal scale** of the emerging civilization—from the individual and local, all the way out to planetary and interstellar.
+The Hubs, Arks, and emergent [[LIØNSBERG Civilization]] **must be governed wisely**. We The People of every [[Time]] and [[Place]] must **become sovereign, self-sustaining, and self-governing**. And the knowledge of **governance, justice, intelligence, and cosmic law** must be **preserved, refined, and implemented at every fractal scale** of the emerging civilization—from the individual and local, all the way out to planetary and interstellar.
 
 > **Without wisdom, the resources of The Joseph Plan will be wasted. Without just governance, The Arks will become isolated and competing fortresses rather than the harmonized foundation of a flourishing New human network. Without intelligence, The Forces of Darkness will outmaneuver and reenslave the emerging Forces of Good.**
 
@@ -46,7 +46,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
 - Wisdom training must be **a core part of [[Lifelong Learning and Development]]**, teaching individuals **how to discern Truth from deception, think critically, consciously choose, and act with integrity**.
 - Each person must be **mentally, emotionally, and spiritually prepared** to function as a sovereign being **rather than a kontrolled subject**.
 - After generations of slavery, this will require significant healing, rehabilitation, and effort. This is the purpose of the [[3 Year Healing, Orientation, and Empowerment Process]] outlined in [[The LIØNSBERG Strategy and Plan]] and the [[10 Year Grand Strategy]].  
-- Training in the LIONSBERG System of Governance is fractal, transferring seamlessly up through levels of analysis. 
+- Training in the LIØNSBERG System of Governance is fractal, transferring seamlessly up through levels of analysis. 
 
 > **If individuals cannot govern themselves, they are unfit to govern with others. The first scale of The Solomon Plan is [[The Soveriegn Self]] in right relationship with [[ØNE]] and [[All]].**
 
@@ -55,34 +55,34 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
 ### **2. Family Councils: Restoring the Governance of Households**
 
 - Families must **reclaim their role as the foundation of governance**—they are the **first line of leadership, justice, and wisdom transmission**.
-- The [[LIONSBERG Individuals]] composing each Family should self-organize and establish a **Family Council**, where key decisions about **resources, education, roles, trade, and dispute resolution** are made. 
-- This act brings the fractal level of [[LIONSBERG Families]] into being. 
-- Family Councils must be **autonomous yet interconnected**, ensuring that every Family is Sovereign, yet **no household is isolated from the larger LIONSBERG network**.
+- The [[LIØNSBERG Individuals]] composing each Family should self-organize and establish a **Family Council**, where key decisions about **resources, education, roles, trade, and dispute resolution** are made. 
+- This act brings the fractal level of [[LIØNSBERG Families]] into being. 
+- Family Councils must be **autonomous yet interconnected**, ensuring that every Family is Sovereign, yet **no household is isolated from the larger LIØNSBERG network**.
 
 > **Tyrants rule by breaking the family structure. The [[New Civilization]] will be built by resurrecting and restoring it.**
 
 ---
 
-### **3. LIONSBERG Teams: The Core Unit of Action and Governance**
+### **3. LIØNSBERG Teams: The Core Unit of Action and Governance**
 
-- The fundamental unit of governance and co-creation in the **New Civilization** is the **LIONSBERG Team**—a **small, highly functional, self-organizing group** composed of **3 to 13 individuals, optimally 5 to 7**.  
+- The fundamental unit of governance and co-creation in the **New Civilization** is the **LIØNSBERG Team**—a **small, highly functional, self-organizing group** composed of **3 to 13 individuals, optimally 5 to 7**.  
 - These Teams operate as the **primary level of coordination, decision-making, and execution**, ensuring that **nearly everything required to build [[Heaven On Earth]] is done at the most effective and decentralized scale possible.**  
-- Every **LIONSBERG Individual** should be part of at least one **LIONSBERG Team**, and most will participate in multiple, each aligned with their **gifts, purpose, and mission**.  
+- Every **LIØNSBERG Individual** should be part of at least one **LIØNSBERG Team**, and most will participate in multiple, each aligned with their **gifts, purpose, and mission**.  
 - Often, individuals may fulfill the same [[Roles]] in the multiple [[Teams]] they are part of according to their greatest areas of skill and joyful service (for instance Project Management, Story Telling, or Administration).  
-- Each **LIONSBERG Team** must be:
+- Each **LIØNSBERG Team** must be:
     - **Autonomous** – Able to function and make decisions independently.
     - **Interconnected** – Linked to other Teams and higher levels of governance.
     - **Self-replicating** – Able to train and initiate new members into the process, and spin off New Teams at the right Time.
     - **Self-sustaining** – Designed to operate effectively without fragilizing central or external dependencies.
-- **LIONSBERG Teams** govern themselves using principles of **natural law, discernment and consent around [[Proposals]] for [[Decision Making]], and role-based execution**, ensuring rapid and adaptive self-organizing action.
+- **LIØNSBERG Teams** govern themselves using principles of **natural law, discernment and consent around [[Proposals]] for [[Decision Making]], and role-based execution**, ensuring rapid and adaptive self-organizing action.
 - ***Each Team is a Council***. This, along with the Family level, provides the consistent daily Practice in [[Council Based Governance]] required for participating in Governance at higher [[Levels of Abstraction]]. 
 
-> **The vast majority of the [[Work]] required to co-create [[The Arks]], [[The Hubs]], and the [[Network Of Networks]]  happens at the level of LIONSBERG Teams. If humanity can master this scale of governance, the rest will follow naturally.**  
+> **The vast majority of the [[Work]] required to co-create [[The Arks]], [[The Hubs]], and the [[Network Of Networks]]  happens at the level of LIØNSBERG Teams. If humanity can master this scale of governance, the rest will follow naturally.**  
 
-[[The LIONSBERG Co-Creator's Handbook]] is a starting resource for forging effective Teams. 
+[[The LIØNSBERG Co-Creator's Handbook]] is a starting resource for forging effective Teams. 
 ### **4. Community Councils (10,000-Person Scale)**
 
-- The [[LIONSBERG Families]] and [[LIONSBERG Teams]] composing each **Community Hub** must self-organize and establish a **Wisdom & Governance Council** at the Community level, composed of **elders, skilled organizers, spiritual leaders, and those proven in service**.  
+- The [[LIØNSBERG Families]] and [[LIØNSBERG Teams]] composing each **Community Hub** must self-organize and establish a **Wisdom & Governance Council** at the Community level, composed of **elders, skilled organizers, spiritual leaders, and those proven in service**.  
 - These councils must operate under **Spiritual and Universal Law**, ensuring **wisdom, justice and balance**, rather than legal bureaucracy or external control.
 - They must handle:
     - **Resource management & distribution (based on The Joseph Plan)**  
@@ -90,7 +90,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
     - **Emergency response and security coordination**  
     - **Inter-Hub diplomacy and trade agreements**  
 
-> **A community that governs itself wisely does not need rulers imposed from the outside. Any Authority a LIONSBERG Community abdicates will taken up against it and used by the Tyrants of [[Old]].**
+> **A community that governs itself wisely does not need rulers imposed from the outside. Any Authority a LIØNSBERG Community abdicates will taken up against it and used by the Tyrants of [[Old]].**
 
 ---
 
@@ -101,7 +101,7 @@ The **wisest among us must rise to higher [[Levels of Abstraction]] and Influenc
     - **Strategic defenses and security**  
     - **Judicial systems based on natural and cosmic law**  
     - **Education and cultural preservation**  
-- These councils must by self-organized by and for the [[LIONSBERG Communities]] they serve, **remain accountable to the people,** and **not become centers of corruption or centralized control**.  
+- These councils must by self-organized by and for the [[LIØNSBERG Communities]] they serve, **remain accountable to the people,** and **not become centers of corruption or centralized control**.  
 
 > **If cities do not establish wise governance, they will become the new battlegrounds of The Collapse.**
 

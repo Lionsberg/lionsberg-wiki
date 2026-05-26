@@ -143,7 +143,7 @@ Each gate will strip illusion and strengthen sight.
     
 7. [[Gate 7 — The Mirror Gate — Witness Together]]
     
-8. [[Gate 8 — ReMember the ONE]]
+8. [[Gate 8 — ReMember the ØNE]]
     
 9. [[Gate 9 — The Decision to Be Free]]
     

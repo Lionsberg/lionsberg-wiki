@@ -41,8 +41,8 @@ _Retelling in current consciousness is underway. See [[The Story of LIØNSBERG R
 
 - [[The 144 Gates of Initiation]] — The Story walked. The Gates are the embodied operationalization of the Story's active arc.
 - [[The Way Of The One Body]] — what the 144 Gates cultivate as the Sovereign walks The Story
-- [[The LIONSBERG Function]] — what The Story is for
+- [[The LIØNSBERG Function]] — what The Story is for
 - [[Essences, Renderings, And Ineffable Referents]] — The Story is one rendering of the Eternally Nameless Story of ØNE and All
 - [[The Holarchy of the ØNE]] — the nested whole within which The Story unfolds
 - [[The LIØNSBERG Sacred Codex]] — The Story is Volume II of the Codex
-- [[The Story of LIONSBERG — Drafts and Explorations]] — prior drafts and explorations, preserved for mining as the retelling proceeds
+- [[The Story of LIØNSBERG — Drafts and Explorations]] — prior drafts and explorations, preserved for mining as the retelling proceeds

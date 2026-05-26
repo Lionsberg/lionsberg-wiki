@@ -1,4 +1,4 @@
-# The LIONSBERG Circle Guide
+# The LIØNSBERG Circle Guide
 
 ## What a Circle Is
   
@@ -27,7 +27,7 @@ Begin being, acting, and living differently—together.
   
 History shows this pattern again and again.  
   
-LIONSBERG circles exist to:  
+LIØNSBERG circles exist to:  
 
 - Awaken shared clarity
     

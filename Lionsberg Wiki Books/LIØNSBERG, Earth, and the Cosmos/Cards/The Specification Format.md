@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, specification-format, canonical-convention, volume-ii, foundational]
-source: Phase 2.1 audit of The Kingdom of LIONSBERG - Plans and Specifications
+source: Phase 2.1 audit of The Kingdom of LIØNSBERG - Plans and Specifications
 captured: 2026-05-19
 ---
 

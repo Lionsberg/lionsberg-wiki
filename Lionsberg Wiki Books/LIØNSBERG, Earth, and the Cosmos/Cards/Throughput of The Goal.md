@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, metric, integrated-delivery]
-source: Phase 2.1 audit of LIONSBERG 101 + Meta Guide + Strategy and Plan
+source: Phase 2.1 audit of LIØNSBERG 101 + Meta Guide + Strategy and Plan
 captured: 2026-05-18
 ---
 

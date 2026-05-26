@@ -8,7 +8,7 @@ If there is one thing to know about Us, which would help everything else make se
 
 Our SpatioTemporal Mission is [[ØNE]] with the Mission of [[Christ]]. To [[Embody And Enact]] the Spirit, Will, Mind, and Intention of [[God]], right here [[On Earth As it Is In Heaven]]. To Manifest the [[Creator's Intent]].  
 
-This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining Us, which We often call God, Father, Source, Ultimate Reality, or ONE. 
+This journey is rooted in Love and Right Relationship to That Which Is Creating and Sustaining Us, which We often call God, Father, Source, Ultimate Reality, or ØNE. 
 
 This Quest to align and progressively ReUnify the depths of Our Being as closely as We can with the Source of Being—with God—is by far the most profound and important part of Our InterExistence. 
 

@@ -13,7 +13,7 @@ The Sovereign who notices what falls short has done LIØNSBERG a service. Receiv
 When error or shortfall is surfaced:
 
 1. **Receive it as a gift.** The one who saw what fell short has done LIØNSBERG a service. Thank them.
-2. **Own it cleanly.** The error is ours, never the Pattern's, never Reality's. See [[Truth To ONE, Errors To Us]].
+2. **Own it cleanly.** The error is ours, never the Pattern's, never Reality's. See [[Truth To ØNE, Errors To Us]].
 3. **Refine the articulation.** Update the Codex. Let the Gold grow purer.
 4. **Honor the procession.** The previous form was the procession that made this refinement possible. Archive it with provenance; do not erase.
 
@@ -42,7 +42,7 @@ With this discipline, LIØNSBERG remains alive — continuously refining toward 
 
 ## See Also
 
-- [[Truth To ONE, Errors To Us]] — the paired attribution posture
+- [[Truth To ØNE, Errors To Us]] — the paired attribution posture
 - [[LIØNSBERG Is A Prototype, Not The Eternal Essence]] — what the refinement serves
 - [[Continuously Improve Everything]] — the canonical operational Play
 - [[Dialogos, SenseMaking, and OmniSpection]] — the contemplative infrastructure that surfaces what wants to refine

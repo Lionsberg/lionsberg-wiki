@@ -67,13 +67,13 @@ These items were flagged by the lenient matcher but verified present in the ledg
 | B06 | Three Streams as Pattern for Lifelong Citizenship | Refinements line 3443 ("Three Streams of Lifelong Citizenship") |
 | B07 | The 7-Year Window of Crisis (2023–2030) | Net-new line 3459 ("The Seven-Year Window (2023-2030)") |
 | B07b | The Hierarchical Integration Of The Psyche Toward A Superordinate End | Refinements line 3213 |
-| B07b | The Operating System For Humanity | Refinements line 3213 ("LIONSBERG as Continuously Improving OS") |
+| B07b | The Operating System For Humanity | Refinements line 3213 ("LIØNSBERG as Continuously Improving OS") |
 | B08 | Aim → Character: Transformation of Aims | Refinements line 3559 ("Aim → Character (Quest formation)") |
 | B08 | Collaboration Requires Ongoing Mutual Consent | Already canonized — line 4726 ("Ongoing Mutual Consent") plus 2958 |
-| B08 | Two Contracts (BFI + LIONSBERG) | Correctly excluded by the agent itself ("Not a Card — Program Notes only") |
+| B08 | Two Contracts (BFI + LIØNSBERG) | Correctly excluded by the agent itself ("Not a Card — Program Notes only") |
 | B09 | The Tenth — clarify Personal vs Institutional | Refinements line 3613 ("The Tenth (clarify Personal vs Institutional)") |
 | B09 | The 15-Point Non-Local Adversary | Refinements line 3613 ("15-Point Non-Local Adversary — Dec 21 specifics") |
-| B11 | Halt the Advance of the Giants | Already in ledger line 3043 ("LIONSBERG's Three Founding Purposes") + cross-ref |
+| B11 | Halt the Advance of the Giants | Already in ledger line 3043 ("LIØNSBERG's Three Founding Purposes") + cross-ref |
 | B11 | Reptilians War: Liberation Not Domination | Already canonized via Volumes I cosmology (lines 1179, 1411) |
 | B11 | Now That Jordan Is Dead | Personal/reserved by agent — correctly excluded; categorized as personal lines 2823, 3059, 3805 |
 | B11 | State of the Earth Address | Already in ledger lines 4427, 4432 |
@@ -111,7 +111,7 @@ These are net-new, low-but-non-zero-stakes Cards that were dropped between trans
 | Card | Fold | Verbatim essence | Source |
 |---|---|---|---|
 | **Disruption Measured by Depth of Assumption Violated** | II Pattern Language / III Great Game | Trauma/transformation depth is a function of how foundational the violated assumption was. Frames the Great Turning as a controlled disruption of the deepest civilizational priors. | 2024-01-22 |
-| **The Theological-to-Practical Coherence Stack** | I Story / II Pattern Language | A non-religious, non-ideological system that nonetheless integrates and coheres all levels from theological through philosophical into theory and practice — without demanding subordination to any set of ideas at any level. One-sentence self-description of LIONSBERG. | 2024-01-30 |
+| **The Theological-to-Practical Coherence Stack** | I Story / II Pattern Language | A non-religious, non-ideological system that nonetheless integrates and coheres all levels from theological through philosophical into theory and practice — without demanding subordination to any set of ideas at any level. One-sentence self-description of LIØNSBERG. | 2024-01-30 |
 | **The Tyranny of the Disembodied Eye** | I Story / refinement | "Like the Eye of Sauron." Refines the Surveillance-State / Layer Ø substrate critique. | refines Layer Ø |
 
 ### B11 — verified 2 genuinely missing among 137

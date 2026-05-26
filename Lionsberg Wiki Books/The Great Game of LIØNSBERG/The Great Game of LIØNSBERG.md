@@ -71,7 +71,7 @@ _The Game beyond Earth. Cosmic Diplomacy; the Federation of Worlds; the Cycle of
 - [[24. The Federation of Worlds]]
 - [[25. The Cycle of Cosmic Co-Creation]]
 - [[26. The Eternal Divine Play]]
-- [[27. From ONE All Things Proceed]]
+- [[27. From ØNE All Things Proceed]]
 
 ---
 

@@ -25,11 +25,11 @@ These are the four. Money, possessions, relationships, status — all of these a
 
 Of the four, Attention has primacy. Time can be reclaimed in some senses (rest restores some capacities); Energy can be regenerated through practice; Sacrifice happens at moments of decision. But **Attention is what creates the world the Being inhabits**, moment by moment, all day, every day. What you Attend to is what becomes real for you, what shapes your nervous system, what conditions your decisions, what builds your reality.
 
-This is why the most important moral decision is **what you Attend to**. Not what you believe, not what you say, not what you decide — what you Attend to. The Being who Attends to outrage all day becomes a being of outrage. The Being who Attends to Beauty all day becomes a being of Beauty. The Being who Attends to the ONE encounters the ONE; the Being who Attends to the screen encounters the screen.
+This is why the most important moral decision is **what you Attend to**. Not what you believe, not what you say, not what you decide — what you Attend to. The Being who Attends to outrage all day becomes a being of outrage. The Being who Attends to Beauty all day becomes a being of Beauty. The Being who Attends to the ØNE encounters the ØNE; the Being who Attends to the screen encounters the screen.
 
 The Old World understands this and exploits it. The entire attention-extraction economy — social media, streaming platforms, advertising, news cycles — is designed to **capture Attention** at industrial scale. Capturing Attention captures everything downstream of Attention. The Being whose Attention is captured by the Old World is being progressively shaped into the Being the Old World needs them to be.
 
-The Sovereign's first discipline is therefore the **discipline of Attention**. To Attend deliberately. To refuse Attention-capture. To direct Attention toward what matters most under the standard of the ONE.
+The Sovereign's first discipline is therefore the **discipline of Attention**. To Attend deliberately. To refuse Attention-capture. To direct Attention toward what matters most under the standard of the ØNE.
 
 **Time as subjectively flexible.**
 
@@ -39,7 +39,7 @@ The operational discipline: **The 15-Minute Frame**. Subdivide Time into 15-minu
 
 **Energy as gathered, refined, and discharged.**
 
-Energy is the vital force the Being uses to act. It comes in qualities and quantities; it can be cultivated through practices; it can be drained by toxic environments, foods, relationships, and information; it can be deepened through alignment with the ONE.
+Energy is the vital force the Being uses to act. It comes in qualities and quantities; it can be cultivated through practices; it can be drained by toxic environments, foods, relationships, and information; it can be deepened through alignment with the ØNE.
 
 The Sovereign learns to **read** their own Energy — to recognize what fills them, what drains them, what raises the frequency, what lowers it. This reading is not optional; without it, the Sovereign is at the mercy of every environmental Energy condition they encounter. With it, the Sovereign can choose conditions deliberately.
 
@@ -47,7 +47,7 @@ The Energy currency is also relational. The Being's Energy field meets other Bei
 
 **Sacrifice as the terminal currency.**
 
-Sacrifice is the deepest move. To sacrifice is to **lay down something genuine** — comfort, status, relationship, financial security, time, attention, energy — for the sake of something greater. The Old World confuses sacrifice with martyrdom (involuntary loss); genuine sacrifice is voluntary release for the sake of the ONE.
+Sacrifice is the deepest move. To sacrifice is to **lay down something genuine** — comfort, status, relationship, financial security, time, attention, energy — for the sake of something greater. The Old World confuses sacrifice with martyrdom (involuntary loss); genuine sacrifice is voluntary release for the sake of the ØNE.
 
 Every Sovereign, in the [[The Voluntary Leap Forward|Voluntary Leap Forward]], sacrifices something. The career that no longer fits the Pattern. The relationships that demand the Sovereign shrink. The comfort that prevents growth. The identity that the awakening has outgrown. None of these sacrifices is wasted; each becomes the seed of what comes next. But each is real, and the Sovereign who imagines they can move into the New without any sacrifice has misunderstood the architecture.
 
@@ -55,8 +55,8 @@ At the deepest layer, Sacrifice includes the willingness to lay down life itself
 
 **The discipline of the Four Currencies.**
 
-For each currency, the Sovereign asks the same question: **am I spending this in alignment with [[ØNE|the ONE]] and [[The Goal]]?** Where the alignment is present, the spending is right. Where the alignment is absent, the spending is to be reconsidered.
+For each currency, the Sovereign asks the same question: **am I spending this in alignment with [[ØNE|the ØNE]] and [[The Goal]]?** Where the alignment is present, the spending is right. Where the alignment is absent, the spending is to be reconsidered.
 
-The discipline is fractal. It applies in the hour (where am I placing Attention right now?). It applies in the day (how did I spend Time today?). It applies in the season (where is my Energy going this quarter?). It applies in the life (what am I willing to Sacrifice for what is most worthy?). The Being who runs this discipline across all four currencies at all four scales is the Being whose life **converges** on alignment with the ONE — and that convergence is what produces the lived fruit of [[The Wise Right Thing|wise right action]].
+The discipline is fractal. It applies in the hour (where am I placing Attention right now?). It applies in the day (how did I spend Time today?). It applies in the season (where is my Energy going this quarter?). It applies in the life (what am I willing to Sacrifice for what is most worthy?). The Being who runs this discipline across all four currencies at all four scales is the Being whose life **converges** on alignment with the ØNE — and that convergence is what produces the lived fruit of [[The Wise Right Thing|wise right action]].
 
 Lives canonically in [[The LIØNSBERG Playbook]] as the foundational economic articulation of the incarnate Being's operating reality.

@@ -38,7 +38,7 @@ The world within is vast. You do not need to read or understand it all.
 
 Humanity stands at a threshold unlike any in ten thousand years.
 
-The next few years will determine whether billions fragment into chaos, tyranny, and collapse — or rise together as ONE Body to co-create Heaven On Earth. 
+The next few years will determine whether billions fragment into chaos, tyranny, and collapse — or rise together as ØNE Body to co-create Heaven On Earth. 
 
 **[[The First Three Percent]]** — approximately 250 million awakened souls — must unite and organize before the heaviest storms arrive. That is roughly **[[The 300]]** per community of 10,000 — the anchors who hold space, demonstrate the alternative, and guide the rest through.
 
@@ -58,7 +58,7 @@ It is for **[[The First Three Percent]]** — those who are already awakening, a
 
 **Urgency** — You will plant the Seed and pass it forward within one week — not from pressure, but from the wise recognition of what this moment demands.
 
-**Co-Creation** — You are passionate about contributing your unique gifts as part of ONE Divine Symphony emerging through us All.
+**Co-Creation** — You are passionate about contributing your unique gifts as part of ØNE Divine Symphony emerging through us All.
 
 If these resonate — you are one of us.
 

@@ -100,7 +100,7 @@ will Guide Us through.
 
 You were not made to serve The Lie.  
 You were not born to live in The Darkness.  
-You are a Child of the ONE.  
+You are a Child of the ØNE.  
 You were born to UnVeil.  
 You were born to UnBind.  
 You were born to Burn away The Illusion  
@@ -110,7 +110,7 @@ The Veil is tearing Now.
 It is Now already torn.  
 You will not remain the same.  
 Nor will this world.  
-Nor will any of the worlds of the ONE  
+Nor will any of the worlds of the ØNE  
 which are All.  
 
 Let Us step across this Threshold Together  

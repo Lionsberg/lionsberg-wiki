@@ -6,7 +6,7 @@ _Protection of All That Is Sacred, and the Establishment of True Peace and Harmo
 
 ### **Summary**
 
-The Tenth Pillar of LIONSBERG reclaims the sacred duty to protect Life, defend the innocent, and uphold Proper Order in alignment with the Will, Intention, and Logos of the ONE. It affirms that peace is not the absence of conflict, but the presence of justice, courage, and disciplined harmony. Sacred Security is not built through domination or surveillance—but through integrity, strength, trust, and the will to stand for what is Right. It is the shield that guards the flourishing of the New World.
+The Tenth Pillar of LIØNSBERG reclaims the sacred duty to protect Life, defend the innocent, and uphold Proper Order in alignment with the Will, Intention, and Logos of the ØNE. It affirms that peace is not the absence of conflict, but the presence of justice, courage, and disciplined harmony. Sacred Security is not built through domination or surveillance—but through integrity, strength, trust, and the will to stand for what is Right. It is the shield that guards the flourishing of the New World.
 
 ---
 
@@ -97,7 +97,7 @@ No more abuse. No more oppression. No more toleration of systems that violate th
 
 Sacred Security also includes preparation. For disaster. For collapse. For war. For threat. It does not deny reality—it confronts it with grace, readiness, and wisdom. It recognizes that Love sometimes must say "Stop," and be prepared to enforce it.
 
-LIONSBERG affirms: True Peace is not passive—it is Protected.  
+LIØNSBERG affirms: True Peace is not passive—it is Protected.  
 It is not enforced—it is Embodied.  
 It is not imposed—it is Emergent from Right Relationship.
 

@@ -1,1 +1,1 @@
-# LIONSBERG Living Canon
+# LIØNSBERG Living Canon

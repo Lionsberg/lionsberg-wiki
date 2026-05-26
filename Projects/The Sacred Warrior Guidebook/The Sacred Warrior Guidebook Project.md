@@ -156,7 +156,7 @@ In all the great traditions, those on the truest pathways towards Mastery are ne
 7. Music  
 8. Mathematics  
 
-Like was known in the ancient mystery schools and advanced civilizations beyond, these disciplines are not actually separate from other. There is only ONE Living System. Consciousness is the substrate. Energy the field. Everything in motion. Everything in vibration. Everything in flow. The Art and Science of the Way encompasses every aspect of how we transformationally interare in that intersubjective experience of the interreality we are co-creating.  
+Like was known in the ancient mystery schools and advanced civilizations beyond, these disciplines are not actually separate from other. There is only ØNE Living System. Consciousness is the substrate. Energy the field. Everything in motion. Everything in vibration. Everything in flow. The Art and Science of the Way encompasses every aspect of how we transformationally interare in that intersubjective experience of the interreality we are co-creating.  
 
 If these topics are of interest to you, let us Walk together and Practice the sacred Way. 
 

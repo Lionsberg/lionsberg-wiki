@@ -19,9 +19,9 @@ This Volume is the Sovereign's operational companion at the individual scale. [[
 
 ## The Walk At A Glance
 
-You arrive at [[The Gates of LIONSBERG]]. The Story meets you. The Invitation is held out. Something in you recognizes what you are seeing — not because you were convinced, but because you already knew. The Whisper meets you; the Flame catches.
+You arrive at [[The Gates of LIØNSBERG]]. The Story meets you. The Invitation is held out. Something in you recognizes what you are seeing — not because you were convinced, but because you already knew. The Whisper meets you; the Flame catches.
 
-You begin to learn what it means to view from the perspective of the ONE. Not as doctrine. As practice. [[The Daily Way]] begins. Silence and Stillness as the Ground.
+You begin to learn what it means to view from the perspective of the ØNE. Not as doctrine. As practice. [[The Daily Way]] begins. Silence and Stillness as the Ground.
 
 You find or form your Circle — the 3 to 13 with whom you walk. You are no longer alone.
 
@@ -33,7 +33,7 @@ You participate in [[OmniSpection]]. You contribute to Map refinement. You take 
 
 **Mastery is the real beginning** — the doorway into the actual cosmic exploration and co-creation that the cultivation built the instrument for. The lifetime of conscious co-creation opens. The Eternal Divine Play continues without end.
 
-This is the arc. The Stages name its markers; the [[The LIONSBERG Capacity Development Axis|Capacity Development Axis]] names what is built in you at each step.
+This is the arc. The Stages name its markers; the [[The LIØNSBERG Capacity Development Axis|Capacity Development Axis]] names what is built in you at each step.
 
 ---
 

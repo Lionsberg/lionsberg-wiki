@@ -80,7 +80,7 @@ I would add only to Confucius that knowledge can never be complete until it tran
 [[Good Faith]]  
 [[Poise]]  
 [[Courtesy]]  
-[[The LIONSBERG System of Values]]  
+[[The LIØNSBERG System of Values]]  
 
 Clear enunciation of the [[Golden Rule]]  
 
@@ -109,7 +109,7 @@ No wonder Emerson awarded to the Republic the words which the occasionally pious
 
 Consider the Academy which he founded, the first and longest-lived of the universities of the world.  
 
-The [[LIONSBERG Academy]].  
+The [[LIØNSBERG Academy]].  
 The [[Lionsberg House of Wisdom]]  
 The [[Lionsberg House of Culture]]  
 

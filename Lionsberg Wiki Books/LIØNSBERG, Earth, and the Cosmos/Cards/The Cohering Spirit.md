@@ -5,9 +5,9 @@ themes: [coherence, spirit, lionsberg-architecture]
 
 # The Cohering Spirit
 
-What holds All together — what makes orientation-based [[Coherence Without Dogma]] actually work — is the Spirit, Wisdom, Intention, and Values of the ONE. These are the cohering field of All in ØNE and ØNE in All.
+What holds All together — what makes orientation-based [[Coherence Without Dogma]] actually work — is the Spirit, Wisdom, Intention, and Values of the ØNE. These are the cohering field of All in ØNE and ØNE in All.
 
-Every Sovereign genuinely orienting toward the ONE comes into resonance with every other Sovereign so orienting. The convergence is not enforced; it is given by the Ultimate Reality being approached.
+Every Sovereign genuinely orienting toward the ØNE comes into resonance with every other Sovereign so orienting. The convergence is not enforced; it is given by the Ultimate Reality being approached.
 
 ## How It Operates
 

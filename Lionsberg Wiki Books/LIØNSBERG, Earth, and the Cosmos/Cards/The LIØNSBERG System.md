@@ -24,7 +24,7 @@ The System holds in coherent operation:
 
 ## How It Holds
 
-The System holds through [[The Cohering Spirit]] — Spirit, Wisdom, Intention, and Values of the ONE — and through the orientation-based [[Coherence Without Dogma]] that every Sovereign embodies as they walk.
+The System holds through [[The Cohering Spirit]] — Spirit, Wisdom, Intention, and Values of the ØNE — and through the orientation-based [[Coherence Without Dogma]] that every Sovereign embodies as they walk.
 
 The System is one rendering. Every part of it is held within [[The Holarchy of the ØNE]] and continuously refines toward more faithful operation.
 
@@ -36,4 +36,4 @@ The System is one rendering. Every part of it is held within [[The Holarchy of t
 - [[The Cohering Spirit]] — what holds the System together
 - [[The 12 Pillars of LIØNSBERG]] — the civilizational architecture within the System
 - [[The Lionsberg Pattern Language]] — the grammar through which the System operates
-- [[What LIONSBERG Is]] — the wider identity within which the System operates
+- [[What LIØNSBERG Is]] — the wider identity within which the System operates

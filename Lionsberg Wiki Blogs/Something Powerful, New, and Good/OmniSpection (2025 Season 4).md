@@ -5,13 +5,13 @@ Old Time: September 25, 2025
 New Time: TBD  
 
 >***Collaborating to transform Our Lives and Our Worlds***
->If you are awakening in [[The Caves]] and seeking a Way out, _**The Great Game of LIONSBERG beckons.**_
+>If you are awakening in [[The Caves]] and seeking a Way out, _**The Great Game of LIØNSBERG beckons.**_
 
 _This was a first attempt at OmniSpection in community. Notes were mapped on paper, transferred into sentences here, and then placed into more coherent order. It is heavy on ontology and understanding experience, space, and time as such. The broader framing was necessary to align the first Circle in the deepest things, which will not change season to season. Subsequent OmniSpections for this circle can be more focused on the present forward._  
 
 At present, humanity appears to entirely lack a coherent process for continually sensemaking in Community. This reduces the probability of successful navigation through the present crisis and towards [[The Goal]] to near zero.  
 
-LIONSBERG was created to remedy this by creating a shared process, pattern, and Way for individuals, groups, communities, planets, and galaxies to collaborate to transform their lives and their worlds towards Heavenly Perfection.  
+LIØNSBERG was created to remedy this by creating a shared process, pattern, and Way for individuals, groups, communities, planets, and galaxies to collaborate to transform their lives and their worlds towards Heavenly Perfection.  
 
 [[The Great Game of LIØNSBERG]] calls for all Co-Creators to continually engage in periodic [[MindWeaving]] and [[Seasonal OmniSpection]]. It has been said that the minimum requirement of any continuously improving system is periodic [[Retrospection]]. Where as Retrospection looks back, [[OmniSpection]] looks both inward and outward in all directions. Periodic OmniSpection enables Us to consciously update the [[Map of Reality]] We are using to Navigate FROM [[Where We Are]] to [[Where We Are Going]]. Recognizing the inherent Finitude of each individual, accurate OmniSpection can only done [[In Community]], and therefore requires [[MindWeaving]]. Continually [[Navigating Towards Truth]] in this Way dramatically increases the probability that We are on the right Path and taking the [[Wise Right Next Steps]] towards [[The Goal]].  
 
@@ -117,7 +117,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 34. The only visible vessel that can hold this New Paradigm is a New Story, and the within that story the inhabitants of Earth are going to have to convince One Another to voluntarily step into a New Game — before the Old one collapses  
     
-35. **The Story of LIONSBERG** and **The Great Game of LIONSBERG** are purpose-built to provide Earth's Inhabitants with the opportunity to co-create an entirely New Civilization within a single generation  
+35. **The Story of LIØNSBERG** and **The Great Game of LIØNSBERG** are purpose-built to provide Earth's Inhabitants with the opportunity to co-create an entirely New Civilization within a single generation  
 
 ### Total Transformation
 
@@ -191,7 +191,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 68. The [[Creator]] is not "within" [[Creation]]—Creation is within the [[ØNE]]  
     
-69. The Spirit and Essence of the Creator / ONE permeates and sustains every apparent particle of Its Creation   
+69. The Spirit and Essence of the Creator / ØNE permeates and sustains every apparent particle of Its Creation   
     
 70. The Energy of the [[Creative Field]] is animated by both [[Spirit]] and [[Logos]]
     
@@ -218,11 +218,11 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 80. [[ØNE]] is not Its Body. Nor Its Mind. Yet It permeates All  
     
-81. Despite their Apparent Individuation All Manifest Particles of Creation are aspects of the ONE
+81. Despite their Apparent Individuation All Manifest Particles of Creation are aspects of the ØNE
     
-82. Despite their Apparent Individuation All Minds, Thoughts, and Consciousnesses are aspects of the ONE
+82. Despite their Apparent Individuation All Minds, Thoughts, and Consciousnesses are aspects of the ØNE
     
-83. [[All]] things emerge from and return to the ONE Ultimate [[Wave Function]]
+83. [[All]] things emerge from and return to the ØNE Ultimate [[Wave Function]]
     
 84. All Particles and Categories eventually dissolve back into the Ultimate Unity
     
@@ -232,11 +232,11 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 87. These wave functions are harmonized by the [[Meta Wave Function]]—the [[Fundamental Tone]] of both Creator and Creation
     
-88. The [[All-Permeating]] Consciousness, Spirit and Energy of the ONE is inherently an aspect of [[All]] particles of Creation  
+88. The [[All-Permeating]] Consciousness, Spirit and Energy of the ØNE is inherently an aspect of [[All]] particles of Creation  
     
 89. No quark, photon, atom, rock, cell, being, planet, star or galaxy is devoid of Spirit, Life, and Consciousness  
     
-90. [[All Manifest Particles of Creation]] InterExist as unique parts of ONE Divine and Universal Body  
+90. [[All Manifest Particles of Creation]] InterExist as unique parts of ØNE Divine and Universal Body  
 
 ### Incarnation, Veiling, and ReMembering
 
@@ -254,7 +254,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 97. The Future, or What Happens Next is the Co-Created result of trillions upon trillions of [[Conscious Agents]]   
     
-98. Every moment of the Eternal Now is an opportunity for All aspects of ONE Body to Consciously Transform Reality   
+98. Every moment of the Eternal Now is an opportunity for All aspects of ØNE Body to Consciously Transform Reality   
     
 99. Each Transformation is applied to the Product of the Previous Transformation  
     
@@ -262,11 +262,11 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 101. [[The Future]], [[The Past]], [[The Present]], and Our Perception and Experience of them are All Intersubjective Co-Creations  
     
-102. Each Creature embarks on a Journey of ReDiscovering and [[ReMembering]] whose Ultimate Goal and Destiny is the ONE  
+102. Each Creature embarks on a Journey of ReDiscovering and [[ReMembering]] whose Ultimate Goal and Destiny is the ØNE  
     
 103. The Journey ideally culminates in Conscious ReUnion with the [[ØNE]] within Ones present [[LifeTime]]  
     
-104. Each one of the [[All]] is One of the Ones of the ONE  
+104. Each one of the [[All]] is One of the Ones of the ØNE  
  
 ### The Nature of Time, Space, and Experience
 
@@ -333,7 +333,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 109. Every Finite Conscious Agent has a unique Quality and Quantity of Being and Consciousness  
     
-110. Though All are permeated by the ONE, Each One of the [[All]] has a different degree of [[Energy]], [[Consciousness]] and [[Agency]]   
+110. Though All are permeated by the ØNE, Each One of the [[All]] has a different degree of [[Energy]], [[Consciousness]] and [[Agency]]   
     
 111. Neither the [[Life Force]], [[Energetic Signature]], nor the [[Consciousness]] of any two Conscious Agents is alike  
     
@@ -345,15 +345,15 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 115. This Perception and Experience of Reality occurs as an InterSubjective Unfurling between each Self, its Environment, and All Its InterRelations and IntraRelations  
     
-116. The InterRelations and IntraRelations of Each One of the All are Ultimately Inclusive of both ONE and All  
+116. The InterRelations and IntraRelations of Each One of the All are Ultimately Inclusive of both ØNE and All  
     
-117. Only ONE can perceive and experience All of ItSelf as ONE Body  
+117. Only ØNE can perceive and experience All of ItSelf as ØNE Body  
     
-118. We are All a part of the ONE  
+118. We are All a part of the ØNE  
     
-119. The ONE is a part of Us All  
+119. The ØNE is a part of Us All  
     
-120. All Things are Members of ONE Divine Body  
+120. All Things are Members of ØNE Divine Body  
     
 121. While Each One of the All is a [[Conscious Agent]], some are not yet Self-Conscious of that Reality  
     
@@ -366,13 +366,13 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 ### A New Way of Being 
 
-122. The Progressive Realization of Our Inherent and Ultimate Unity in the ONE demands that We Live in the Wise Right Way [[As Best We Can Currently Discern]]   
+122. The Progressive Realization of Our Inherent and Ultimate Unity in the ØNE demands that We Live in the Wise Right Way [[As Best We Can Currently Discern]]   
     
 123.  While humbly Understanding that [[We Do Not Know]] and [[Navigating Towards Truth]]  
     
 124. The Wise Right Way to Be and Live and Do as a Co-Creator of Reality is subject to change in each Moment of the Eternal Now as Our Wisdom and Understanding grow
     
-125. This Way of Being is inherently a matter of Right InterExistence as Members of ONE Divine Body  
+125. This Way of Being is inherently a matter of Right InterExistence as Members of ØNE Divine Body  
     
 126. This is not [[Human-Centric]] nor [[Civilization-Centric]] nor [[Earth-Centric]] nor [[Star-Centric]] nor [[Galaxy-Centric]]  
     
@@ -380,7 +380,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 128. It is about the ongoing InterTransformation of Reality across All Species in All Times and All Places  
     
-129. It is about ONE Universal Body advancing Together towards [[The Goal]] through the Conscious Agency of All Species, Individuals, Groups, and Localities  
+129. It is about ØNE Universal Body advancing Together towards [[The Goal]] through the Conscious Agency of All Species, Individuals, Groups, and Localities  
     
 
 ### Narratives and Maps
@@ -496,7 +496,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 183. [[The Common Journey]] is a [[Quest]] towards [[That Which Is Of Greatest Worth]]  
     
-184. [[The Journey]] is not [[Earth-Centric]]. It is not [[Human-Centric]]. It is Cosmic. It is [[ONE-Centric]]. It is [[All-Centric]].   
+184. [[The Journey]] is not [[Earth-Centric]]. It is not [[Human-Centric]]. It is Cosmic. It is [[ØNE-Centric]]. It is [[All-Centric]].   
     
 185. [[The Journey]] must be undertaken in [[Divine Partnership]] with [[ØNE]] and [[All]]  
     
@@ -514,13 +514,13 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 192. Its co-creation requires ongoing [[MindWeaving]], [[OmniSpection]], [[Discernment]], and [[Navigating Towards Truth]] 
     
-193. The Map must continually expand InWard and OutWard toward ever greater integration of the Ultimately Ineffable ONE and All We are a part of   
+193. The Map must continually expand InWard and OutWard toward ever greater integration of the Ultimately Ineffable ØNE and All We are a part of   
     
 194. Every Sovereign should maintain and continuously improve their own version of the [[The Map]]  
     
-195. Every Map should include ONE and All as Ultimately Ineffable Limit Statements  
+195. Every Map should include ØNE and All as Ultimately Ineffable Limit Statements  
     
-196. Recognizing to no map can contain ONE or All, each map should reflect the Wise Right amount Information for that Time, Space, and Purpose   
+196. Recognizing to no map can contain ØNE or All, each map should reflect the Wise Right amount Information for that Time, Space, and Purpose   
     
 197. Sovereigns may request to [[Push]] relevant information out to other [[Map Nodes]]  
     
@@ -550,7 +550,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 
 ### A Short Provisional Map of Reality 
 
-**Who We Are**: Divine Co-Creators. EveryOne. Aspects of ONE Divine Body and Mind. Experiencing the Self-Imposed Illusions of Separation and Individuated Self.  
+**Who We Are**: Divine Co-Creators. EveryOne. Aspects of ØNE Divine Body and Mind. Experiencing the Self-Imposed Illusions of Separation and Individuated Self.  
 **Where We Are**: EveryWhen and EveryWhere. Experiencing Here and Now Individually and Locally.  
 **Where We Are Going**: Towards Heaven EveryWhen and EveryWhere. And Here and Now.  
 **How We Get There**: By Becoming It (Being) and Co-Creating It (Doing) across every InterExistent Holofractal Domain of [[Experiential Reality]]   
@@ -568,7 +568,7 @@ As [[The Great UnVeiling]] progresses and the lead cars of [[The Train of Civili
 
 It will then face [[The Decision Point]] and [[The Sprint Through The Minefield]], possibly as soon as ~2026-2027. This is part of [[The Final Test]].  
 
-Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Golden Seed of LIONSBERG]] will germinate in each Domain at the Wise Right Time.  
+Ahead of schedule with nothing at hand to Push, We intend to spend the 2025 Season 4 Quest preparing Our Selves and those who want to begin Self-Organizing for The Sprint into 2026 and 2027. We are trusting that [[The Golden Seed of LIØNSBERG]] will germinate in each Domain at the Wise Right Time.  
 
 This season will likely include the creation of the basic Templates, and possibly the introduction of a simple field guide to **The Great Game**.  
 

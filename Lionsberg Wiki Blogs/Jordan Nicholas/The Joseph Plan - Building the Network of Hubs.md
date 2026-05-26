@@ -39,7 +39,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **Seed banks and essential knowledge archives**
     - **Basic self-defense and security measures**
 - These Hubs **must be designed to last 7-10 years**, ensuring continuity beyond the initial shock of The Collapse.
-- Family hubs must be governed by the [[LIONSBERG Individuals]] they serve.
+- Family hubs must be governed by the [[LIØNSBERG Individuals]] they serve.
 
 > **The first layer of The Joseph Plan is the family storehouse—without it, survival is left to chance.**
 
@@ -56,7 +56,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **Solar chargers and off-grid power sources**
     - **Backup digital and hardcopy knowledge archives**
 - These caches must be **discreetly placed and known only to trusted local network members**.
-- Micro hubs must be governed by the [[LIONSBERG Families]] they serve.
+- Micro hubs must be governed by the [[LIØNSBERG Families]] they serve.
 
 > **If a single point of failure can wipe out an entire supply chain, the system is too fragile. The Hubs ensure continuity under all conditions.**
 
@@ -78,7 +78,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
 - While utilizing existing facilities for speed of deployment, The Commons housing key resources should be gradually moved to The Arks or other secure locations as they become available. 
 - ***DO NOT WAIT FOR THE ARKS TO BE COMPLETED TO BEGIN CO-OPERATING THE COMMUNITY HUBS***. 
 - Practice makes perfect, and the Hubs should begin co-operating *immediately* so that the [[New System]] begins organically emerging in response to needs. 
-- Community hubs must be governed by the [[LIONSBERG Families]] they serve.
+- Community hubs must be governed by the [[LIØNSBERG Families]] they serve.
 
 > **A lone wolf may manage to survive alone—but a networked community thrives.**
 
@@ -96,7 +96,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **Security operations to defend against looters and chaos**  
     - Providing a Commons of more costly tools, technologies, and solutions that are impractical to recreate at the 10,000 member community level. 
 - **Underground storage, repurposed warehouses, and fortified locations are ideal.**  
-- City hubs must be governed by the [[LIONSBERG Communities]] they serve, and ***not the municipal / Old governments of the Collapsing [[Existing Order]].***
+- City hubs must be governed by the [[LIØNSBERG Communities]] they serve, and ***not the municipal / Old governments of the Collapsing [[Existing Order]].***
 
 > **If cities do not establish independent Hubs, they will become death zones within weeks of collapse.**
 
@@ -118,7 +118,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **Fertile agricultural regions**  
     - **Near clean water sources**  
     - **In areas with favorable [[Resilience Factors]]**    
-- Ecoregional hubs must be governed by the [[LIONSBERG Cities]] they serve, and ***not the municipal / Old governments of the Collapsing [[Existing Order]].***
+- Ecoregional hubs must be governed by the [[LIØNSBERG Cities]] they serve, and ***not the municipal / Old governments of the Collapsing [[Existing Order]].***
 
 
 > **A city without a supply line is a city of the dead. Eco-Regional Hubs ensure the arteries of civilization remain open.**
@@ -139,7 +139,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **The skills and wisdom of one region can benefit all others**
     - **Surplus resources can be redistributed as needed**
     - **A new planetary operating system can emerge, independent of the Old World’s control**
-- Bioregional hubs must be governed by the [[LIONSBERG Ecoregions]] they serve, and ***not the Old governments of the Collapsing [[Existing Order]].***
+- Bioregional hubs must be governed by the [[LIØNSBERG Ecoregions]] they serve, and ***not the Old governments of the Collapsing [[Existing Order]].***
 
 > **These 150-200 Hubs are the foundation of post-collapse civilization. They must be prepared before the Collapse, not after.**
 
@@ -156,7 +156,7 @@ Each level must be **autonomous but interconnected**, ensuring **resilience, red
     - **Centers of decentralized governance, ensuring no return to tyranny**
 - These must be **shielded from AI control systems and structured to resist infiltration**.  
 - They will serve as **the last line of planetary civilization before humanity’s next expansion phase**.  
-- Georegional hubs must be governed by the [[LIONSBERG Bioregions]] they serve, and ***not the Old governments of the Collapsing [[Existing Order]].***
+- Georegional hubs must be governed by the [[LIØNSBERG Bioregions]] they serve, and ***not the Old governments of the Collapsing [[Existing Order]].***
 
 > **These Hubs ensure that we do not merely survive—we consciously evolve Together into the [[New Era]].**
 
@@ -173,12 +173,12 @@ Each level of The Hub Network must:
 1. **Ramp up local production and stockpile essential food, water, medicine, and tools before supply chains collapse.**
 	1. Each locality accelerating local production and becoming a [[Centers of Distribution|Center of Distribution]] rather than accumulation / hoarding is key to avoiding accelerating [[Collapse]].  
 2. **Build parallel economic and governance systems to replace the failing centralized model.**
-	1. The LIONSBERG System was purpose-built for this.  
+	1. The LIØNSBERG System was purpose-built for this.  
 3. **Develop rapid-response teams to protect supply chains and distribution networks, and respond to emergencies.**  
 4. **Establish underground, off-grid, and mobile storage for extreme scenarios.**  
-5. **Use The LIONSBERG Platform and Pattern Language to ensure interoperability and mutual assistance across all scales.**
+5. **Use The LIØNSBERG Platform and Pattern Language to ensure interoperability and mutual assistance across all scales.**
 
-***The key to success is to rapidly connect and empower [[The First Three Percent]] at every fractal level to self-organize and execute this plan via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams coordinating across local, regional, and planetary scales via the LIONSBERG System.**  
+***The key to success is to rapidly connect and empower [[The First Three Percent]] at every fractal level to self-organize and execute this plan via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams coordinating across local, regional, and planetary scales via the LIØNSBERG System.**  
 
 > **If we do not store up now, millions will perish when the famine arrives.**
 
@@ -199,4 +199,4 @@ ___
 Additional details can be found in the [[The LIØNSBERG Strategy and Plan]] and other [[Lionsberg Wiki Books]].  
 ____  
 
-P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIONSBERG System for interoperable use by the [[Force For Good]]. 
+P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIØNSBERG System for interoperable use by the [[Force For Good]]. 

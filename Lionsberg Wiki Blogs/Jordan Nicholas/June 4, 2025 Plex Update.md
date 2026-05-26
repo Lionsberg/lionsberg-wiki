@@ -3,7 +3,7 @@
 ## Context
 
 Our esteemed friend Pete Kaminski is prototyping a powerful new pattern called **Plex**.  
-We The People of LIONSBERG see wisdom in this initiative and wholeheartedly support its adoption and expansion.
+We The People of LIØNSBERG see wisdom in this initiative and wholeheartedly support its adoption and expansion.
 
 Here is an idea Jordan and Pete are discussing:  
 1. Plex Stewards gather updates, insights, and inspiring stories of transformation from diverse domains of co-creation and systematically share them with dedicated **[[Observers]]** of their respective domains.  
@@ -13,7 +13,7 @@ Here is an idea Jordan and Pete are discussing:
 Pete, Jordan, and allies are considering how to refine, systematize, and expand this transformative pattern.
 
 Below is an example of a Plex update with an engagement button for supporters. Try it out! 
-## Update From J + LIONSBERG 
+## Update From J + LIØNSBERG 
 
 Dear Friends and Allies,
 
@@ -29,7 +29,7 @@ As the chaotic energy from the 2024 election supercycle subsided, we embarked up
 
 Through this process, we are identifying a dedicated core of individuals prepared to commit at least one-tenth of their weekly availability—approximately four hours—to work synergistically within small, autonomous teams to advance The Mission. Meanwhile, a committed few continue to invest full-time efforts into this sacred work.
 
-In May, urgent messages arrived from several schools in East Africa we previously helped establish. Their food pantries had alarmingly emptied. Swiftly mobilizing emergency resources ensured that children were nourished and teachers reengaged. Four of these schools have courageously chosen to federate with LIONSBERG, recognizing our mutual strength. I have accepted an interim director role to support the stabilization of two of these flagship institutions.
+In May, urgent messages arrived from several schools in East Africa we previously helped establish. Their food pantries had alarmingly emptied. Swiftly mobilizing emergency resources ensured that children were nourished and teachers reengaged. Four of these schools have courageously chosen to federate with LIØNSBERG, recognizing our mutual strength. I have accepted an interim director role to support the stabilization of two of these flagship institutions.
 
 Simultaneously, beautiful transformations continue blossoming: deepening international bonds, a new martial arts program, emerging women's councils, and the rapid weaving of new relationships, inspired visions, and potent partnerships.
 

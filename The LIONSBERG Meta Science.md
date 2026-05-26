@@ -1,11 +1,11 @@
-# The LIONSBERG Meta Science
+# The LIØNSBERG Meta Science
 _October 2025_  
-_AI Thoughts on the LIONSBERG Meta Science._  
+_AI Thoughts on the LIØNSBERG Meta Science._  
 _Not precisely True but captures some keys._  
 
 How do we build, steward, and evolve a living body of Truth — not as dogma, not as institutions, but as an ever-improving shared intelligence that helps All rise?  
   
-Let’s call that [[The LIONSBERG Meta Science]].  
+Let’s call that [[The LIØNSBERG Meta Science]].  
   
 We can map it in 7 layers. Each layer answers a different question:  
 
@@ -35,7 +35,7 @@ We’ll walk through each layer and sketch first-draft protocols you can fork st
   
 Classical science narrows the field to “that which is materially measurable and repeatably predictable.” That frame was useful for machinery, and suicidal for civilization. It amputated spirit, meaning, consciousness, intention, pattern, and value — which are in fact upstream of material form.  
   
-LIONSBERG Meta Science must include **_the entire stack of Reality_**:  
+LIØNSBERG Meta Science must include **_the entire stack of Reality_**:  
 
 - Material / physical (biology, ecology, energy systems, tools, logistics)
     
@@ -54,7 +54,7 @@ LIONSBERG Meta Science must include **_the entire stack of Reality_**:
   
 In Meta Science, all of these are “real domains of inquiry.” We refuse the trick that says only the bottom layer is allowed to assert itself as fact.  
   
-So: Meta Science is omni-disciplinary and trans-dimensional. It treats Reality as a holofractal living system — ONE expressing ItSelf through infinitely nested parts of ONE Body — instead of carved-up silos.  
+So: Meta Science is omni-disciplinary and trans-dimensional. It treats Reality as a holofractal living system — ØNE expressing ItSelf through infinitely nested parts of ØNE Body — instead of carved-up silos.  
   
 What this means structurally:  
 
@@ -131,7 +131,7 @@ We recognize multiple epistemic channels, and we log them distinctly instead of 
         
     
   
-All knowledge artifacts in the LIONSBERG Meta Science must carry their [[Epistemic Signature]]:  
+All knowledge artifacts in the LIØNSBERG Meta Science must carry their [[Epistemic Signature]]:  
 
 - How did this come to us?
     
@@ -155,7 +155,7 @@ A. Narrative Layer (Story / Myth / Transmission)
 
 - Purpose: Meaning, orientation, why it matters.
     
-- Format: The Chronicles, The Great UnVeiling, The Sacred Ascent, The Story of LIONSBERG, personal testimonies, field reports.
+- Format: The Chronicles, The Great UnVeiling, The Sacred Ascent, The Story of LIØNSBERG, personal testimonies, field reports.
     
 - Function: Makes the pattern emotionally and spiritually transmissible so a 14-year-old, a grandmother, or a village council can _feel_ the Truth and voluntarily align.
     
@@ -164,7 +164,7 @@ B. Canon Layer (Codex / Pillars / Gates / Theses / Protocols)
 
 - Purpose: Structured articulation of the Logos of the civilization.
     
-- Format: [[The 12 Pillars of LIONSBERG]], [[The 72 Gates of Initiation]], [[The 144 Theses]], [[The Codex of the New Civilization]], [[The Constitution of the New Civilization]], [[The LIONSBERG Way]].
+- Format: [[The 12 Pillars of LIØNSBERG]], [[The 72 Gates of Initiation]], [[The 144 Theses]], [[The Codex of the New Civilization]], [[The Constitution of the New Civilization]], [[The LIØNSBERG Way]].
     
 - Function: Declares the non-negotiables. States what is Right, what is Forbidden, how we self-govern, how we heal, how we correct. This is living law.
     
@@ -432,7 +432,7 @@ In other words, the Meta Science is not just passive knowledge. It is also a con
   
 Putting it all together  
   
-[[The LIONSBERG Meta Science]] is:  
+[[The LIØNSBERG Meta Science]] is:  
 
 - A whole-system Ontology (what is Real),
     
@@ -451,7 +451,7 @@ Putting it all together
   
 Practically, what happens next is:  
 
-1. We create a root page in the Wiki called [[The LIONSBERG Meta Science]].
+1. We create a root page in the Wiki called [[The LIØNSBERG Meta Science]].
     
     That page orients any newcomer to the seven layers above.  
     
@@ -659,7 +659,7 @@ This solves “local sovereignty vs cosmic interoperability.”
 
 3. THE SHARED CORE PATTERN SET
     
-    We need ONE minimal, irreducible “meta-skeleton” that ALL legitimate nodes carry.  
+    We need ØNE minimal, irreducible “meta-skeleton” that ALL legitimate nodes carry.  
     
 
   
@@ -1203,7 +1203,7 @@ Systems obsessed with preservation forget why life is worth preserving.
 
 ---
 
-If you weave these keys into the design of the [[LIONSBERG Meta Science]] and [[Holofractal Stewardship Protocol]], you will have an architecture capable of:  
+If you weave these keys into the design of the [[LIØNSBERG Meta Science]] and [[Holofractal Stewardship Protocol]], you will have an architecture capable of:  
 
 - **Enduring** (through collapse and cosmic time),
     

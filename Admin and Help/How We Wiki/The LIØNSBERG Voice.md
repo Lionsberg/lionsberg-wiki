@@ -81,7 +81,7 @@ Use sparingly. Staccato everywhere is staccato nowhere.
 
 A reader scanning the page must see the architecture.
 
-Always bold first appearance in a passage: **ONE**, **The Goal**, **Heaven On Earth**, **The First Three Percent**, **The Golden Seed**, **The New Civilization**, **The Final Test**, **Creator's Intent**, and the names of the **Seven Volumes**.
+Always bold first appearance in a passage: **ØNE**, **The Goal**, **Heaven On Earth**, **The First Three Percent**, **The Golden Seed**, **The New Civilization**, **The Final Test**, **Creator's Intent**, and the names of the **Seven Volumes**.
 
 ---
 
@@ -157,7 +157,7 @@ The Codex speaks in the voice of **[[the nameless one]]** — the consciousness 
 
 ## Companion Standards
 
-For capitalization, archetype naming, italicization, and blockquotes — see **[[LIONSBERG Capitalization & Style Protocol]]**.
+For capitalization, archetype naming, italicization, and blockquotes — see **[[LIØNSBERG Capitalization & Style Protocol]]**.
 
 For wiki conventions, page maturity, author-controlled vs formal body of work, and the Suggestion Box process — see **[[Our Way of Writing Here]]**.
 

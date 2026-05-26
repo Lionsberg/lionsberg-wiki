@@ -3,7 +3,7 @@
 See:  
 - [[Space and Time]] 
 - [[The "Tick" of Time]]  
-- [[Space and Time in the LIONSBERG Theory of Everything]]  
+- [[Space and Time in the LIØNSBERG Theory of Everything]]  
 
 
 ___

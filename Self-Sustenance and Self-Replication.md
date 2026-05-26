@@ -20,7 +20,7 @@ ___
 
 ## The Evidence
 
-**AA Step 12**: _"Having had a spiritual awakening as the result of these steps, we tried to carry this message to others."_ You cannot complete your own healing without helping others begin theirs. And each group sustains itself through voluntary contributions of its own members — financially autonomous, yet part of ONE worldwide fellowship.
+**AA Step 12**: _"Having had a spiritual awakening as the result of these steps, we tried to carry this message to others."_ You cannot complete your own healing without helping others begin theirs. And each group sustains itself through voluntary contributions of its own members — financially autonomous, yet part of ØNE worldwide fellowship.
 
 **The early church**: _"Go and make disciples."_ The kerygma was short enough to transmit orally in minutes, deep enough to sustain a lifetime. Each house church was a self-sustaining expression of the Whole — feeding its members, pooling its resources, sharing all things in common — while multiplying through the simple act of living the Way in the sight of others. The message was inseparable from its transmission.
 
@@ -48,11 +48,11 @@ If each [[Circle]] of approximately 8 people matures and then each member helps 
 
 33 to 50 cycles. 3.5 to 7 years.
 
-This is how the early church grew from 120 to 6 million. This is how AA grew from 2 to 2 million. This is how cooperatives grew from 28 weavers to 1 billion members. Each node self-sustaining. Each node self-replicating. All interexisting as ONE.
+This is how the early church grew from 120 to 6 million. This is how AA grew from 2 to 2 million. This is how cooperatives grew from 28 weavers to 1 billion members. Each node self-sustaining. Each node self-replicating. All interexisting as ØNE.
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Self-sustenance and self-replication are encoded in the structure of [[The Great Game of LIØNSBERG]] itself:
 

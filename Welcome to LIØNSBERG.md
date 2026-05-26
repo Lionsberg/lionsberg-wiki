@@ -16,7 +16,7 @@ _If you are ready to begin now, go directly to **[[The LIØNSBERG Quick Start Gu
 
 The eternal, universal, ultimate Source and Sustainer of [[All]] That Is. Not owned by any religion. Not captured by any ideology. Not contained by any name. Known by every true name. Present in every genuine tradition. Discoverable by every sincere seeker. Transcendent and ineffable, yet present and indwelling every cell and soul.
 
-From ONE pours [[Love]] — absolute, unconditional, universal. ONE and All. ONE Body. The [[Central Animating Spirit]] of all Creation.
+From ØNE pours [[Love]] — absolute, unconditional, universal. ØNE and All. ØNE Body. The [[Central Animating Spirit]] of all Creation.
 
 Everything that follows emanates from this Source and returns to it. Where the Spirit is right, the Wise Right Pattern emerges. Where the Spirit is absent, no pattern saves. This is the precondition. From Source, to Source. **[[Spirit Precedes Pattern]].**
 
@@ -28,7 +28,7 @@ Use your discernment. Test what is offered. If something is lacking, fill it up.
 
 You stand at a threshold unlike any in ten thousand years.
 
-The Old World is collapsing — by design, by the working of its own contradictions, by the natural arc of a system that long ago forgot its Source. The next few years will determine whether billions fragment into chaos and tyranny, or rise together as ONE Body to co-create [[Heaven On Earth]].
+The Old World is collapsing — by design, by the working of its own contradictions, by the natural arc of a system that long ago forgot its Source. The next few years will determine whether billions fragment into chaos and tyranny, or rise together as ØNE Body to co-create [[Heaven On Earth]].
 
 This is not the first such threshold. Across the cosmic expanses, on uncounted worlds, in uncounted ages, sovereign beings have stood at thresholds like this and made the choice that is now yours. **The Pattern is older than this Earth, older than this age, older than any name we give it.** It arrives now as Invitation from that wider cosmic participation — a Living Way unfolding through the Many across worlds and times. Earth's awakening to the Pattern is the local event of a cosmic reality.
 
@@ -54,7 +54,7 @@ A living Pattern — the irreducible DNA by which galaxies and lives come into b
 - **The Swiss Confederation** — 735 years of radical local sovereignty within federal unity.
 - **Indigenous lineages and advanced science** — pointing together at what is.
 
-The one that can be named is not the ONE. The way that can be named is not the Way. And yet we must humbly do our best to reflect them in thought, word, symbol, and practice that actually carry across generations.
+The one that can be named is not the ØNE. The way that can be named is not the Way. And yet we must humbly do our best to reflect them in thought, word, symbol, and practice that actually carry across generations.
 
 The current canonical articulation distills the Pattern into **twelve irreducible elements** — eight of Cooperation, four of Production. These are working refinements that will continue to mature as understanding deepens. They are not the Pattern itself; they are humble articulations of what the Pattern is showing us, here, now.
 
@@ -62,7 +62,7 @@ The current canonical articulation distills the Pattern into **twelve irreducibl
 
 1. **[[One Purpose Above All]]** — the Purpose governs; leaders serve.
 2. **[[Holofractal Omnifederation]]** — complete wholes, fractally federated, growing organically.
-3. **[[Sovereignty At Every Scale]]** — authority flows from ONE, through the individual, through consent.
+3. **[[Sovereignty At Every Scale]]** — authority flows from ØNE, through the individual, through consent.
 4. **[[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]** — one member, one voice. Agreements govern. Elders are respected.
 5. **[[Capital Subordinate To Purpose]]** — capital serves; it never captures.
 6. **[[Education As Transformation]]** — form people; people form organizations.
@@ -76,7 +76,7 @@ The current canonical articulation distills the Pattern into **twelve irreducibl
 11. **[[Networks of Commitments]]** — reliable promises made, kept, and learned from.
 12. **[[Tightly Coupled Learning and Action]]** — discern, plan, do, check, adjust at every fractal level.
 
-For the systematic concentric-rings deepening of the Pattern, from ONE word to the full library, see **[[LIØNSBERG 101]]**.
+For the systematic concentric-rings deepening of the Pattern, from ØNE word to the full library, see **[[LIØNSBERG 101]]**.
 
 ---
 
@@ -172,7 +172,7 @@ The order is permissive. Some Sovereigns walk in days what others walk in season
 
 If you are still reading alone — **pause.**
 
-This Walk cannot be done in isolation. It must be undertaken in community — as fellow members of ONE Body.
+This Walk cannot be done in isolation. It must be undertaken in community — as fellow members of ØNE Body.
 
 ### How to Begin
 

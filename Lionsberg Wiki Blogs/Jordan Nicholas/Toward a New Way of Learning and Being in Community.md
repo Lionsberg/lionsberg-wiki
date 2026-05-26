@@ -104,4 +104,4 @@ Something powerful is stirring. Let’s keep tending the flame.
 **[CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSeetE-adQr9micA5zgdKhUQOkFwDPNXFb-pzH5SwYcWMA2GUA/viewform?usp=header) TO RSVP AND JOIN THE QUEST.**
 
 In Service of One and All,  
-**~ J & The LIONSBERG Team**  
+**~ J & The LIØNSBERG Team**  

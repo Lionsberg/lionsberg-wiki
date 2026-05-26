@@ -20,8 +20,8 @@ Where we left off:
 - [ ] Presently working on [[The Great Spring 2026 Wiki Turn]]  
 - [x] Remove the word load-bearing.  
 - [x] Shift from 8 to 9 layers on superorganism  
-- [x] Separate out LIONSBERG from FSx on superorganism
-- [x] Welcome to LIONSBERG rethink... and 
+- [x] Separate out LIØNSBERG from FSx on superorganism
+- [x] Welcome to LIØNSBERG rethink... and 
 - [ ] fix quick start guide prologue reference... (think through experience - draft or delete) 
 	- [ ] in current form 0.1 and blah are encountered twice - incoherent. 
 - [x] Eliminate vol I provenance footer  
@@ -29,21 +29,21 @@ Where we left off:
 - [ ] [[The LIØNSBERG Playbook]]  
 - [ ] [[The LIØNSBERG Pattern Language]]  
 - [ ] [[The Story of LIØNSBERG]]  
-- [ ] The LIONSBERG Guidebook 
-- [ ] The LIONSBERG Living Architecture (page)  
+- [ ] The LIØNSBERG Guidebook 
+- [ ] The LIØNSBERG Living Architecture (page)  
 - [ ] Book of emotions and card for every emotion 
 - [ ] The warriors vow - review and refine... 
 - [ ] Review Warriors Handbook. 
 	- [ ] What did that work teach us about the overall pattern language, strategy, and plan? How should we reflect it? 
 - [ ] Pass The Flame - cohering multiple duplicate formats into one - deleting the others. 
 - [ ] carrying the highest voice throughout [[The LIØNSBERG Cycle of Cosmic Co-Creation]] 
-- [ ] Make LIONSBERG Concept page? Could be super valuable companion. 
+- [ ] Make LIØNSBERG Concept page? Could be super valuable companion. 
 - [ ] Introduce the Pattern (note), Play (rif), Plays (song), entire System (symphony) metaphorical architecture. 
-- [ ] LIONSBERG Offering Page... why wiser than starting from scratch? 
-	- [ ] Create a page... on the value already in the LIONSBERG Commons and Golden Seed. 
+- [ ] LIØNSBERG Offering Page... why wiser than starting from scratch? 
+	- [ ] Create a page... on the value already in the LIØNSBERG Commons and Golden Seed. 
 - [ ] Pull in the FSx pattern language so immediately actionable 
 - [ ] The template / transition plan for any org from ownership / slavery / kontrolle of organizations to sovereign agency
-- [ ] The LIONSBERG Meta Guide and LIONSBERG Handbook are rich repositories of things we thought needed to be in the handbook / pattern language / playbook... 
+- [ ] The LIØNSBERG Meta Guide and LIØNSBERG Handbook are rich repositories of things we thought needed to be in the handbook / pattern language / playbook... 
 - [ ] The guidebook and FAQs on superorganism might be a bit much... not sure if they belong - or are just introducing words and errors. 
 - [x] New theme does not seem to be properly rendering italics - noticed on homepage. 
 - [ ] Publish the invitation and request for guidance... 1042  
@@ -51,7 +51,7 @@ Where we left off:
 - [ ] Heaven Here and Nøw
 - [ ] Figure out the software / ERP to run it all (Open Impact + Open Collective + ? )  
 - [ ] Easy way to adopt / adapt sign the agreements and join (Open Impact or DAO framework) - legally sound SPVs... 
-- [ ] The Story of LIONSBERG is next big creative task... 
+- [ ] The Story of LIØNSBERG is next big creative task... 
 	- [ ] rewrite — the biggest unmet creative need.
   The Story is dual-functional (standalone + woven through Vol IX); LIØNSBERG
    the standalone needs a masterful rewrite. Multi-session.  
@@ -85,11 +85,11 @@ Where we left off:
   - #92 Universe Guide population — story bible / author manual
   content.
 ◻ Merge and elevate The Sacred Ascent into canonical version…           
-◻ Articulate The LIONSBERG Pattern Language   
+◻ Articulate The LIØNSBERG Pattern Language   
 - Evaluate [[Lionsberg Orientation and Training System]] and merge into something and delete  
 - Review and update [[Most People Have No Idea What Is Coming]]  
 - Review and update [[A Way Beyond Fear, Anxiety, And Depression]]  
-- Draw on [[The Great UnVeiling]] and [[A Birthday Reflection on Jordan's Life, Death, and Work]] and all other LIONSBERG work and external knowledge to complete [[The Great UnVeiling]] in its highest form while retaining the break associated with Jordan's death... this is a completion based on his notes and all additional information since learned... 
+- Draw on [[The Great UnVeiling]] and [[A Birthday Reflection on Jordan's Life, Death, and Work]] and all other LIØNSBERG work and external knowledge to complete [[The Great UnVeiling]] in its highest form while retaining the break associated with Jordan's death... this is a completion based on his notes and all additional information since learned... 
 - Review and update the Provisional Structure  
 ### Quick Items
 
@@ -102,7 +102,7 @@ Where we left off:
 - Fold [[When It's All On The Line - A Guide To Living Like It Matters]]... and [[Walking]] (and all its counterparts) into The Art and Science of the Way... 
 
 ### B Items 
-1. Update [[MarkPub]] (tech underlying the LIONSBERG Wiki)  
+1. Update [[MarkPub]] (tech underlying the LIØNSBERG Wiki)  
 2. [[English Language Git]] is more technical than hoped - work on simplfying  
 3. Fold [[Becoming a Warrior of The Way]] into something else... 
 	1. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  
@@ -127,10 +127,10 @@ Where we left off:
 	1. This enables the Players to co-create the balance of The Great Work with or without the aid of AI  
 3. ✅ Run a few years of social experiments (2021 - 2024)   
 4. ✅ Expose [[The Greatest Fraud, Deception, and Existential Threat in History]] via [[The Great UnVeiling]] (2025)  
-5. ✅ Draft LIONSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
+5. ✅ Draft LIØNSBERG Intelligence System MVP: Learn how to run a local AI model on the local content on a local machine  
 6. ✅ Draft [[The LIØNSBERG Quick Start Guide]] - a basic and immediate way for anyone to get moving 
-7. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIONSBERG Experience that transmits [[The Golden Seed of LIONSBERG]] - 50k to 150k words  
-	1. [[The Gates of LIONSBERG]] (out of sequence requires editing)  
+7. ✅ **THE BOOK / THE STORY / THE GREAT GAME**: Articulate a 200 to 350 page book  mirroring the LIØNSBERG Experience that transmits [[The Golden Seed of LIØNSBERG]] - 50k to 150k words  
+	1. [[The Gates of LIØNSBERG]] (out of sequence requires editing)  
 		1. ✅ [[The LIØNSBERG Quick Start Guide]]  
 			1. ✅ Leads to [[The Story of LIØNSBERG]]  
 				1. ✅ Leads to [[The Great Game of LIØNSBERG]]  
@@ -140,15 +140,15 @@ Where we left off:
 		1. Criteria  
 			1. It will be designed to initiate the reader through a series of gates into a shared Story, Strategy, and Game  
 			2. It should be sufficient to build the New Civilization from  
-			3. It will be progressively published on the LIONSBERG Wiki so that it is decentralized and censorship proof from the start  
+			3. It will be progressively published on the LIØNSBERG Wiki so that it is decentralized and censorship proof from the start  
 	3. ✅ Lost interest on this. World events accelerated. Quickly synthesized The Nameless Book into a minimum viable starting point for the emergence of the story and game.  
 8. ✅ Have Claude Code do an initial resonance review and improvement on all the main files linked to from [[README]] and [[the nameless book]] so the "entrance" is clean and tidy. 
 9. ✅ End up deleting [[the nameless book]] and creating [[LIØNSBERG 101]]
 10. 🔄 **THE STORY**
 	1. ✅ Revise [[Jordan's Short Story]] to reflect climactic summer events  
-	2. ✅ Fix the wiki and push all changes. Broke when updated LIONSBERG to caps in something and it affected 500+ files.  
+	2. ✅ Fix the wiki and push all changes. Broke when updated LIØNSBERG to caps in something and it affected 500+ files.  
 		1. Resulted in the update to Claude Code Jan 2026. Which is pretty amazing.  
-	3. 🔄 Weave into [[The Story of LIØNSBERG]] and [[LIONSBERG - History, Inception, and Trust Manifesto]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
+	3. 🔄 Weave into [[The Story of LIØNSBERG]] and [[LIØNSBERG - History, Inception, and Trust Manifesto]] and [[Jordan's Short Story]] - these all need to be coordinated and smoothed out.  
 		1. Weave [[The Caves]] and the wilderness journey into [[The Story of LIØNSBERG]]  
 	
 11. 🔄 **THE PLAY**
@@ -163,7 +163,7 @@ Where we left off:
 12. ✅ **THE PLAYBOOK**
 	1. ✅ Now that [[the nameless book]] is in minimum viable form, it seems that a wise right next step might be to articulate the following  
 		1. ✅ [[The LIØNSBERG Playbook]]  
-			1. ✅ Weave in [[The LIONSBERG Co-Creator's Handbook]]  
+			1. ✅ Weave in [[The LIØNSBERG Co-Creator's Handbook]]  
 			2. ✅ Define the most important plays...  
 	
 13. **THE PROJECT DELIVERY GUIDE**
@@ -204,7 +204,7 @@ Easy...
 - [[The Great Game of LIØNSBERG]] is good enough for now 
 - [[The LIØNSBERG Playbook]] needs to be co-created as we play 
 - Articulated [[The LIØNSBERG Cycle of Cosmic Co-Creation]]  
-- Drafted [[The Golden Seed of LIONSBERG]] page  
+- Drafted [[The Golden Seed of LIØNSBERG]] page  
 	- Ensure there is a README type page that leads to a  quickstart guide. 
 - Consider how to finalize [[The 144 Gates of Initiation]]  
 	- Starting by drafting the Threshold to each Movement, which finalizes the structure of each of The Gates and writes The Story 
@@ -277,13 +277,13 @@ ____
 Crafted: [[The LIØNSBERG Strategy and Plan]]  
 
 _____  
-## The LIONSBERG Playbook
+## The LIØNSBERG Playbook
 
 17. **[[The LIØNSBERG Playbook]]** ✅ (541 words) (mythic entry)  
 
 18. **[[The LIØNSBERG Playbook]]**  ✅  (632 words)
 
-## The Story of LIONSBERG
+## The Story of LIØNSBERG
 
 - Stepped back from The Playbook to look at The Story as the container of the entire experience.  
 - Rearchitected [[The Story of LIØNSBERG]] ✅
@@ -346,7 +346,7 @@ _The Awakening and Initiation Gates_
 
 ---
 
-## **III. The LIONSBERG Playbook**
+## **III. The LIØNSBERG Playbook**
 
 _The Living Guide to Embodiment_  
 
@@ -385,7 +385,7 @@ _____
     
 - There must be **visible lifeboats**: food networks, local energy, commons currencies, circles of safety.
     
-- If LIONSBERG becomes synonymous with “here is where you eat, here is where you live,” the migration accelerates.
+- If LIØNSBERG becomes synonymous with “here is where you eat, here is where you live,” the migration accelerates.
     
 - Spiritual and mythic resonance matters — but _basic needs first_ is the lever for mass adoption.
     
@@ -489,4 +489,4 @@ To move the _entire population_, you must:
 - And continuously **show visible wins**.
     
 
-That’s what converts LIONSBERG from a mythic initiatory framework for seekers into a _planetary migration architecture_.
+That’s what converts LIØNSBERG from a mythic initiatory framework for seekers into a _planetary migration architecture_.

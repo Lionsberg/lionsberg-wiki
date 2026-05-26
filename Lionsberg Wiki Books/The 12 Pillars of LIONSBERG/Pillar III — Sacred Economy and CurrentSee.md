@@ -6,7 +6,7 @@ _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 
 ### **Summary**
 
-The Third Pillar of LIONSBERG reclaims the definition and [[Flow]] of [[Value]] as a sacred current of Life itself—meant not for exploitation and accumulation, but for regeneration, reciprocity, and the flourishing of All. Sacred Economics abolishes false scarcity, debt-based domination, and extractive systems, reestablishing trust, stewardship, reciprocity, and mutual upliftment as the foundations of exchange. It is the architecture through which resources flow in harmony with Divine Intention, empowering all beings and communities to thrive as co-create Throughput of The Goal.
+The Third Pillar of LIØNSBERG reclaims the definition and [[Flow]] of [[Value]] as a sacred current of Life itself—meant not for exploitation and accumulation, but for regeneration, reciprocity, and the flourishing of All. Sacred Economics abolishes false scarcity, debt-based domination, and extractive systems, reestablishing trust, stewardship, reciprocity, and mutual upliftment as the foundations of exchange. It is the architecture through which resources flow in harmony with Divine Intention, empowering all beings and communities to thrive as co-create Throughput of The Goal.
 
 ---
 
@@ -28,7 +28,7 @@ We are not consumers—we are contributors. We are not owners—we are stewards.
 
 ### **12 Theses of Sacred Economics**
 
-1. **All Value Flows from the ONE** — and all value creation and exchange must remain aligned with Divine Intention.
+1. **All Value Flows from the ØNE** — and all value creation and exchange must remain aligned with Divine Intention.
     
 2. **The Purpose of Economics Is Regeneration and Abundance** — not profit or control, but the thriving of All.
     
@@ -38,7 +38,7 @@ We are not consumers—we are contributors. We are not owners—we are stewards.
     
 5. **Debt-Based Money Is a Tool of Enslavement** — and must be transcended through systems based on contribution, commitments, and trust.
     
-6. **Land, Water, Air, and Nature Cannot Be Owned** — they are sacred trusts to be stewarded for the Good of ONE and All present and future generations.
+6. **Land, Water, Air, and Nature Cannot Be Owned** — they are sacred trusts to be stewarded for the Good of ØNE and All present and future generations.
     
 7. **Every Being Has the Right to Participate in the Economy of Life** — through meaningful work, fair exchange, and dignified contribution.
     

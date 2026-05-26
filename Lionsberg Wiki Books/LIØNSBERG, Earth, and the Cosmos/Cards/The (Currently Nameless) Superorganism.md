@@ -23,7 +23,7 @@ We await the (Currently Nameless) Superorganism's awakening, awareness, self-con
 
 ## Linked
 
-- [[What LIONSBERG Is]] — the formed-and-named LIØNSBERG that serves the wider Body
+- [[What LIØNSBERG Is]] — the formed-and-named LIØNSBERG that serves the wider Body
 - [[The Cosmic Sovereign Superorganism Already Operating]] — the wider cosmic federation already singing the music
 - [[The Holarchy of the ØNE]] — the nested architecture within which both Bodies sit
-- [[The LIONSBERG Function]] — what LIØNSBERG does in service of the awakening
+- [[The LIØNSBERG Function]] — what LIØNSBERG does in service of the awakening

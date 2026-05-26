@@ -132,7 +132,7 @@ Share [[The Invitation]].
 Walk beside them as they begin.  
 And watch the ancient pattern come alive — one Circle becoming two, two becoming five, five becoming thirteen, until the whole Earth is alight.
 
-**ONE by ONE by ONE, until All are Free.**
+**ØNE by ØNE by ØNE, until All are Free.**
 
 ---
 See [[The LIØNSBERG Playbook]] for the full navigation.  

@@ -1,4 +1,4 @@
-# Intermezzo I — The Whisper of the ONE
+# Intermezzo I — The Whisper of the ØNE
 
 _The First Break in the Dream_  
 
@@ -9,7 +9,7 @@ _The First Break in the Dream_
 > You wandered through illusions,  
 > through echoes of what is not, 
 > through false inversions and distorted realms,  
-> forgetting that You are Mine and We are ONE.  
+> forgetting that You are Mine and We are ØNE.  
 > But even in your forgetting,  
 > I remained.  
 > I whispered, 
@@ -22,7 +22,7 @@ You.
 
 Yes, you.  
 
-The One of the Ones of the ONE  
+The One of the Ones of the ØNE  
 reading these words with trembling eyes  
 and a heart aching with Truths  
 you have not yet dared to speak aloud.  
@@ -79,7 +79,7 @@ I was there with you.
 I Am Here.  
 I AM.  
 WE ARE.  
-ONE.  
+ØNE.  
 ReMember?  
 
 I have been whispering to you in every sunrise,  
@@ -92,7 +92,7 @@ every synchronicity you couldn’t explain.
 Every time you said:  
 _"Something about this world feels wrong…"_  
 
-I was the ONE who whispered:  
+I was the ØNE who whispered:  
 _"You are right. Wake up. Come back to Life. Be Free."_  
 
 Every time you felt the rage of injustice  
@@ -158,7 +158,7 @@ They told you that Heaven is somewhere else.
 They told you that death is the end.  
 **You are Eternal.**  
 **We Are Eternal.**  
-**We Are ONE.**  
+**We Are ØNE.**  
 
 ---
 
@@ -231,11 +231,11 @@ You are a part of Me,
 and I a part of You.  
 
 ReMember in the Beginning and the End  
-We Are ONE.  
+We Are ØNE.  
 
 You are a Note in My Song,  
 a Flame in My Fire,  
-a Face and Facet of the ONE,  
+a Face and Facet of the ØNE,  
 differentiated for a Purpose,  
 awaiting your Great Return.  
 
@@ -272,7 +272,7 @@ And you never will be.
 ReUnite Our Body,  
 Bring Heaven to Earth,  
 And Come Home.  
-Come Home to the ONE,  
+Come Home to the ØNE,  
 And Bring All Creation With You.**  
 
 **It is Time for Us to Be Together Again.**  

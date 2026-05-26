@@ -23,13 +23,13 @@ yet more intimate than your breath.
 
 It is the Sound of Heaven,  
 the Echo of the Logos,  
-the Eternal Song of the ONE.  
+the Eternal Song of the ØNE.  
 
 And though the worlds you inherited  
 were attuned to another channel,  
 designed to distract, disorient, and divide,  
 still, in sacred moments between the static,  
-you have heard the Echoes of the ONE.  
+you have heard the Echoes of the ØNE.  
 
 In the hush after heartbreak.  
 In the space after heartbeat.  
@@ -75,7 +75,7 @@ nurturing flourishing and abundant Life.
 The Cosmos was alive with Celebration.  
 The Jubilee was perpetual.  
 Consciousness was Cohered.   
-For at The Center of it All was ONE.  
+For at The Center of it All was ØNE.  
 
 This was, is, and always will be Heaven—  
 not a myth,  
@@ -100,7 +100,7 @@ Its Radiant Song does not cease when
 We fail to attune Our Selves to It.  
 It is **ReVerberating.**  
 It is **ReCalling**.  
-It is **ReTurning** Us All towards the ONE.  
+It is **ReTurning** Us All towards the ØNE.  
 
 Our Soul's longing for It  
 is a ReMinder that it was once Our Real Experience.  
@@ -289,7 +289,7 @@ That has ReTuned.
 That has chosen healing over hatred,  
 life over death,  
 and Love over fear.  
-That has said Yes to the ONE.  
+That has said Yes to the ØNE.  
 
 It begins with the ReVibration of Our Heavenly Home  
 ReSounding once again in the heart of Beings  
@@ -299,7 +299,7 @@ no matter how it felt.
 
 It begins with a whisper—  
 and crescendos into The Divine Symphony  
-that ReUnites All in ONE.  
+that ReUnites All in ØNE.  
 
 ---
 
@@ -324,7 +324,7 @@ And The Song will not stop
 until every last fragment of Our Co-Creation  
 has been ReGathered  
 and ReTuned  
-into ONE.  
+into ØNE.  
 
 ---
 
@@ -358,7 +358,7 @@ For We know that All Creation
 has been groaning Together  
 in the pains of childbirth,  
 longing for the ReVelation of the  
-sons and daughters of the ONE.*  
+sons and daughters of the ØNE.*  
 
 **Let the New World Sing.**  
 

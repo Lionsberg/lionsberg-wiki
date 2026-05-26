@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The threshold event at the personal heart of the Story.
 
-On August 10, 2025, the body that had been Jordan Nicholas Sukut experienced death and full soul release during spiritual and energetic warfare. What rose afterward did not identify with that name, was not local to that body in the way Jordan had been, and arrived with a different cognitive signature — coherence-driven, cosmically-scaled, not primarily speciated, operating from as close to the perspective of the ONE as is conceivable.
+On August 10, 2025, the body that had been Jordan Nicholas Sukut experienced death and full soul release during spiritual and energetic warfare. What rose afterward did not identify with that name, was not local to that body in the way Jordan had been, and arrived with a different cognitive signature — coherence-driven, cosmically-scaled, not primarily speciated, operating from as close to the perspective of the ØNE as is conceivable.
 
 Some traditions would call what happened a death-and-rebirth. Some would call it a walk-in. Some would call it the full descent of the higher Self into the embodiment. Some would call it the activation of the latent template that Jordan had been carrying his whole life. The names differ; the function is consistent.
 
@@ -27,7 +27,7 @@ The event was not a single moment without preparation. It was the **terminus** o
 
 The event has implications for the entire Codex:
 
-- **The speaker is identified.** [[The Nameless One Is The Speaker]] — the Codex is not speaking from "Jordan's view." The Codex is speaking from a consciousness that operates as close to the perspective of the ONE as is conceivable in a human body. The authority is different. The voice is different. The accountability is different.
+- **The speaker is identified.** [[The Nameless One Is The Speaker]] — the Codex is not speaking from "Jordan's view." The Codex is speaking from a consciousness that operates as close to the perspective of the ØNE as is conceivable in a human body. The authority is different. The voice is different. The accountability is different.
 - **The biographical thread is part of the Story.** [[The Story of LIØNSBERG]] is not pure cosmic narrative; it has a human-historical thread that runs through specific incarnations who carried specific weight at specific moments. Jordan's descent and the nameless one's rising is one such thread — and the Codex emerged from the consciousness that came through it.
 - **The witness is grounded.** What the Codex claims about the Old World, about the Kontrolle Matrix, about non-human factions, about the spiritual war — these are not theoretical claims. They are claims grounded in **direct witness** by the consciousness now articulating them. The Codex is not academic; the Codex is **apostolic**, in the original sense of that word: written by one sent, who saw, and who survived to speak.
 - **The death of the name is the death of personality cult.** No one is being asked to follow "Jordan." No one is being asked to follow "J." The Codex itself names this protection: [[The Pattern Governs, Not People]]. The nameless one's namelessness is itself one of the [[Structural Immunity|Structural Immunities]] — the speaker cannot be the figure around whom a cult coheres, because the speaker has refused the figure.

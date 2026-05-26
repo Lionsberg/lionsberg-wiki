@@ -10,7 +10,7 @@ The Warriors' home Pillar is **[[Pillar X — Sacred Guardianship and Order]]**.
 
 A Warrior cannot do their work without holding [[Right Relationship]] with the metaphysics (Pillar I), the governance (Pillar II), the economy (Pillar III), the learning (Pillar IV), the healing arts (Pillar V), the ecology (Pillar VI), the culture (Pillar VII), the technology (Pillar VIII), the architecture (Pillar IX), the broader guardianship (Pillar X), the society and justice (Pillar XI), and the time and rhythm (Pillar XII) that compose the wider civilization the Warrior serves. The Warrior who operates inside Pillar X alone is operating in a vacuum that does not actually exist.
 
-What follows is the Warrior's specific relationship with each Pillar — what the Warrior brings to it, what it brings to the Warrior. The full articulation of each Pillar lives in [[The 12 Pillars of LIONSBERG|the 12 Pillars wiki book]] and in the wider canon.
+What follows is the Warrior's specific relationship with each Pillar — what the Warrior brings to it, what it brings to the Warrior. The full articulation of each Pillar lives in [[The 12 Pillars of LIØNSBERG|the 12 Pillars wiki book]] and in the wider canon.
 
 ---
 

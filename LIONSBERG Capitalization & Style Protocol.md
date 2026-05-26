@@ -1,8 +1,8 @@
-# **LIONSBERG Capitalization & Style Protocol**
+# **LIØNSBERG Capitalization & Style Protocol**
 
 ### — _For the Coherence of the Sacred Texts and the Wiki_ —
 
-The LIONSBERG Wiki is a **living library and training ground**. Its words are meant to transmit both clarity and sacred resonance. The way we write matters.
+The LIØNSBERG Wiki is a **living library and training ground**. Its words are meant to transmit both clarity and sacred resonance. The way we write matters.
 
 This protocol ensures coherence, legibility, and symbolic integrity across thousands of pages.
 
@@ -10,7 +10,7 @@ This protocol ensures coherence, legibility, and symbolic integrity across thous
 
 ## 1. **Divine and Transcendent Terms**
 
-- **ONE** — always in full capitals, to indicate Source / Unity / the Infinite.
+- **ØNE** — always in full capitals, to indicate Source / Unity / the Infinite.
     
 - **Logos** — capitalized, as the Eternal Word / Pattern / Ordering Principle.
     
@@ -49,7 +49,7 @@ This protocol ensures coherence, legibility, and symbolic integrity across thous
 
 ## 4. **Structures and Institutions**
 
-- **LIØNSBERG** — the canonical spelling adopted Phase 1.5 (2026-05-18). Always full capitals when naming the System, Wiki, Commons, or Project, with the slashed-Ø replacing the second letter. The Ø ties into Layer ø of the FSx pattern and connotes sacred presence, zero point, nøw. The earlier ASCII spelling **LIONSBERG** (with plain O) remains active across pre-existing wiki content until Phase 4.6 propagates the rename across the corpus; both spellings refer to the same System during the transition.
+- **LIØNSBERG** — the canonical spelling adopted Phase 1.5 (2026-05-18). Always full capitals when naming the System, Wiki, Commons, or Project, with the slashed-Ø replacing the second letter. The Ø ties into Layer ø of the FSx pattern and connotes sacred presence, zero point, nøw. The earlier ASCII spelling **LIØNSBERG** (with plain O) remains active across pre-existing wiki content until Phase 4.6 propagates the rename across the corpus; both spellings refer to the same System during the transition.
     
 - **The First Three Percent** — capitalized when naming the vanguard role.
     

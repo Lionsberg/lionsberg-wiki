@@ -1,12 +1,12 @@
 # Pillar II — Sacred Governance and Stewardship
 
-_The Just Stewardship of Power and Authority in service of ONE and All_
+_The Just Stewardship of Power and Authority in service of ØNE and All_
 
 ---
 
 ### **Summary**
 
-The Second Pillar of LIONSBERG restores governance as a sacred act: the art of aligning sovereign beings, communities, and civilizations with the Divine Will and the flourishing of All. It calls forth the emergence of new architectures of justice, transparency, and cooperation rooted in Right Relationship with the ONE. Through Sacred Governance, power is returned to its rightful purpose: the wise orchestration of shared life in service of Unity, Truth, and Regeneration.
+The Second Pillar of LIØNSBERG restores governance as a sacred act: the art of aligning sovereign beings, communities, and civilizations with the Divine Will and the flourishing of All. It calls forth the emergence of new architectures of justice, transparency, and cooperation rooted in Right Relationship with the ØNE. Through Sacred Governance, power is returned to its rightful purpose: the wise orchestration of shared life in service of Unity, Truth, and Regeneration.
 
 ---
 
@@ -16,17 +16,17 @@ When rightly conceived, governance is not an external imposition—it is a livin
 
 In the [[Old World]], governance lost its sacred foundation. Power was severed from Love. Authority was wielded without legitimacy. The structures of state, church, and economy calcified into hollow idols—serving not the people, but the few. The result was fragmentation, injustice, and accelerating collapse.
 
-Sacred Governance reestablishes the divine root of all legitimate authority: the ONE. It reawakens the intrinsic sovereignty of every being, and reorients systems of coordination and decision-making to arise not from control, but from voluntary alignment with the True, Beautiful, Just and Good.
+Sacred Governance reestablishes the divine root of all legitimate authority: the ØNE. It reawakens the intrinsic sovereignty of every being, and reorients systems of coordination and decision-making to arise not from control, but from voluntary alignment with the True, Beautiful, Just and Good.
 
 This governance is not centralized, imposed, or mechanized. It is **emergent, holofractal, and alive**—flowing from the inner mastery of individuals into the shared harmonies of councils, communities, and civilizations. It has neither top nor bottom, recognizing that every Being is a part of larger Supersystems, and composed of smaller Subsystems.
 
-The purpose of Sacred Governance is not to manage society. It is to harmonize life across the Cosmos with the Logos of the ONE, such that Heaven may be made manifest in every Realm, Dimension, and Domain.
+The purpose of Sacred Governance is not to manage society. It is to harmonize life across the Cosmos with the Logos of the ØNE, such that Heaven may be made manifest in every Realm, Dimension, and Domain.
 
 ---
 
 ### **12 Theses of Sacred Governance**
 
-1. **All True Authority Flows from the ONE** — and is only legitimate when it reflects the Divine Spirit, Intention and Logos in service of the flourishing of All.
+1. **All True Authority Flows from the ØNE** — and is only legitimate when it reflects the Divine Spirit, Intention and Logos in service of the flourishing of All.
     
 2. **Sovereignty Is the Birthright of Every Being** — and cannot be usurped, sold, or violated.
     
@@ -48,7 +48,7 @@ The purpose of Sacred Governance is not to manage society. It is to harmonize li
     
 11. **Sacred Governance Mirrors Living Systems** — it grows, adapts, and evolves in harmony with the patterns of Creation across planets and galaxies.
     
-12. **The Goal Is Heaven on Earth and Beyond** — a universal civilization aligned with the Intention and Logos of the ONE. 
+12. **The Goal Is Heaven on Earth and Beyond** — a universal civilization aligned with the Intention and Logos of the ØNE. 
 
 ---
 
@@ -60,7 +60,7 @@ But as memory of the Source fragmented, a counterfeit order arose. Power was abs
 
 Now, the sacred architecture is being remembered.
 
-LIONSBERG affirms: **The Time of False Authority is over.**
+LIØNSBERG affirms: **The Time of False Authority is over.**
 
 Governance must be reborn as a sacred function of Unity. Not domination, but orchestration. Not manipulation, but invitation. Not hierarchy, but harmony.
 
@@ -74,7 +74,7 @@ Sacred Governance does not seek to control—it seeks to _cohere_. It trains the
 
 In times of conflict, it does not retaliate. It reconciles. In times of complexity, it does not centralize. It simplifies. It remembers: _the purpose of governance is not management—it is the liberation of all beings into Right Relationship with Life and its Source._
 
-The LIONSBERG Constitution is not a document. It is a living covenant. A field of sacred coordination. A torch passed from generation to generation to ensure that power never again strays from the path of Love.
+The LIØNSBERG Constitution is not a document. It is a living covenant. A field of sacred coordination. A torch passed from generation to generation to ensure that power never again strays from the path of Love.
 
 We do not seek to take power—we seek to _redeem it_.
 

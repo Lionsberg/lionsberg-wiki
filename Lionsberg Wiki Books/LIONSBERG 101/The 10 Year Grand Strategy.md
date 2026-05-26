@@ -1,6 +1,6 @@
 # The 10 Year Grand Strategy
 
-_Heaven On Earth is not a destination. It is a process — a conscious, coordinated transformation of human civilization from the ground up, unfolding along the Fibonacci sequence from ONE to All._
+_Heaven On Earth is not a destination. It is a process — a conscious, coordinated transformation of human civilization from the ground up, unfolding along the Fibonacci sequence from ØNE to All._
 
 ---
 

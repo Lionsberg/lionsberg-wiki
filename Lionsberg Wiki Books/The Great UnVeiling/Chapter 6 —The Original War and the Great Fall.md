@@ -45,7 +45,7 @@ the essence of Power,
 and the meaning of Freedom.  
 
 Many would still serve the Logos.  
-Most would still live in voluntary alignment with the ONE.  
+Most would still live in voluntary alignment with the ØNE.  
 Yet others would seek to reshape the cosmos  
 in the endarkened image of a false self.  
 
@@ -85,7 +85,7 @@ It was only later that their inner faces were revealed.
 
 Their argument was subtle:  
 
-> _“Why must we serve the ONE?”_  
+> _“Why must we serve the ØNE?”_  
 > _“Is not our own intelligence enough?”_  
 > _“Why should we not ascend beyond our appointed place?”_  
 > _“Why not become gods ourselves?”_  
@@ -108,7 +108,7 @@ Right down to Here. To Now. To All. To Us.
 
 ---
 
-## **The Turning of Beings Against the ONE**
+## **The Turning of Beings Against the ØNE**
 
 The original sin was not disobedience.  
 It was **disalignment**.  
@@ -255,7 +255,7 @@ There is a deeper Truth.
 Even in the darkest acts of the Fallen Ones,  
 even in the most unspeakable wars,  
 even in the genocides and betrayals—  
-**the ONE never left.**  
+**the ØNE never left.**  
 
 The Logos was never broken.  
 Only obscured.  
@@ -293,7 +293,7 @@ So that We may free what was enslaved.
 Heal what was broken.  
 Liberate and redeem what was lost.  
 
-And so that the ONE may be Whole  
+And so that the ØNE may be Whole  
 in Us  
 once again,  
 as We ReBecome Whole in It.

@@ -152,7 +152,7 @@ It does not replace the older streams. It does not claim superiority over them. 
 The LIØNSBERG stream's distinctive contribution:
 
 - The articulation of the Way for the planetary hour, with explicit attention to the **[[Sacred Warrior — Book II — The Warrior Body At Every Scale|team-sport / planetary Light Grid]]** dimension that the present moment requires
-- The integration with the wider [[The 12 Pillars of LIONSBERG|Twelve Pillars]] of LIØNSBERG, so the Warriors operate as one Guild of a fully enlightening civilization
+- The integration with the wider [[The 12 Pillars of LIØNSBERG|Twelve Pillars]] of LIØNSBERG, so the Warriors operate as one Guild of a fully enlightening civilization
 - The Sacred Covenant grounding every Vow in the four lines: _ØNE Spirit. ØNE Body. ØNE Love. All in service of ØNE and All._
 - The recognition that Earth's Warriors are joining a [[Sovereign Superorganism|cosmic Sovereign Superorganism]] already operating; that the local lineage is one node of a much wider work
 

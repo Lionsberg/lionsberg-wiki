@@ -39,7 +39,7 @@ Every movement that endured developed these protections. Every movement that did
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Structural immunity is built into the architecture:
 

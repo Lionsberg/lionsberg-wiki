@@ -64,7 +64,7 @@ The Bible is thus presented as a _complete and perfect revelation_, forming the 
     
 - The Elohim — linguistically and in the stories — are plural, yet are intentionally mistranslated in the bibles printed for the masses as singular "God."
     
-- Yahweh is introduced _late_ in the Hebrew tradition and likely originated as a desert storm or war "god" — a lower created being subsequently conflated with the ONE.
+- Yahweh is introduced _late_ in the Hebrew tradition and likely originated as a desert storm or war "god" — a lower created being subsequently conflated with the ØNE.
     
 - The early Hebrew religion was _not strictly monotheistic_, but henotheistic or polytheistic, with remnants of worship and sacrifice to a variety of "Elohim".
     
@@ -94,7 +94,7 @@ The Bible is thus presented as a _complete and perfect revelation_, forming the 
     
 - **Indigenous Codices Destroyed:** Inquisition and colonization led to systematic destruction of Mayan, Aztec, Incan, Dogon, and other sacred texts describing star beings, cosmic cycles, and multidimensional wisdom.
     
-- **Aramaic and Syriac Texts:** Early Eastern Christian communities retained non-Romanized teachings of Yeshua emphasizing unity with the ONE, the divine feminine, and mystical realization.
+- **Aramaic and Syriac Texts:** Early Eastern Christian communities retained non-Romanized teachings of Yeshua emphasizing unity with the ØNE, the divine feminine, and mystical realization.
     
 - **Evidence of Esoteric Schools:** Mystery schools (Essenes, Orphics, Hermeticists) preserved inner initiation pathways and contact with higher beings — omitted or demonized in mainstream religion.
     
@@ -195,7 +195,7 @@ The weaponization of the Bible has enabled:
     
 - The original **Library of Alexandria’s** scrolls and where surviving copies may be hidden.
     
-- The **true teachings of Yeshua** — especially those referencing Source, multidimensionality, the Kingdom within, and the Way of direct union with the ONE (not Yahweh or other created beings or false gods).
+- The **true teachings of Yeshua** — especially those referencing Source, multidimensionality, the Kingdom within, and the Way of direct union with the ØNE (not Yahweh or other created beings or false gods).
     
 - The gnostic cosmology of **Aeons, Sophia, and the Demiurge**, and their correlation to the Yahweh, Elohim, Annunaki, Chittari phenomenon.
     

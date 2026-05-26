@@ -35,7 +35,7 @@ The cascade also nests **across scales**:
 - A **Hub** has its own Aim Cascade — bioregional in scope, integrating multiple Circles' cascades.
 - A **Bioregion** has its own.
 - The **Planetary Grid** has its own — the [[The 10 Year Grand Strategy|10-Year Grand Strategy]] is the Grid-scale Aim Cascade made explicit.
-- The **ONE** is the apex Purpose at the top of every cascade at every scale.
+- The **ØNE** is the apex Purpose at the top of every cascade at every scale.
 
 This nesting is **holofractal** — the same architecture at every scale, with each scale's cascade serving the cascade of the scale above it without being absorbed into it. [[Subsidiarity and the Swiss Pattern]] applies: the higher cascade does not impose Tasks on the lower; the lower cascade voluntarily aligns its work with the higher.
 
@@ -43,8 +43,8 @@ The Aim Cascade also makes [[The Network of Commitments|the Network of Commitmen
 
 The cascade is **subject to revision** as the Sovereign grows. The 25-year-old Sovereign's Uniting Aim may shift by 40. The Circle's WBS will be restructured every few seasons as the work reveals what the work actually needs. The discipline is not to set the cascade once and freeze it; the discipline is to **revisit it deliberately** — at the end of each Quest cycle (quarterly), at each major life threshold, whenever the felt sense of "this no longer fits" arises. Revision keeps the cascade alive.
 
-The cascade is the **operational answer** to the question "how does the Sovereign's daily life connect to the planetary transformation?" Through the cascade. Tasks serve Objectives serve Goals serve Milestones serve WBS serves Uniting Aim serves Purpose serves The Goal serves The ONE. Each daily task — even the smallest — is part of the cosmic transformation when the cascade is intact.
+The cascade is the **operational answer** to the question "how does the Sovereign's daily life connect to the planetary transformation?" Through the cascade. Tasks serve Objectives serve Goals serve Milestones serve WBS serves Uniting Aim serves Purpose serves The Goal serves The ØNE. Each daily task — even the smallest — is part of the cosmic transformation when the cascade is intact.
 
-This is also why the Sovereign who has been adrift often experiences a quality of **homecoming** when the cascade is articulated for the first time. The pieces of the life suddenly fit together. The Tasks have always been there; what was missing was the **structure that gave them meaning**. Once the structure is articulated, the Tasks become sacred — each one a strand of the rope by which the Sovereign's life climbs toward the ONE.
+This is also why the Sovereign who has been adrift often experiences a quality of **homecoming** when the cascade is articulated for the first time. The pieces of the life suddenly fit together. The Tasks have always been there; what was missing was the **structure that gave them meaning**. Once the structure is articulated, the Tasks become sacred — each one a strand of the rope by which the Sovereign's life climbs toward the ØNE.
 
 Lives canonically in [[The LIØNSBERG Playbook]] as the foundational architecture of intentional life, and informs every other operational practice through providing the framework against which decisions are made.

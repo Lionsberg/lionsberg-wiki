@@ -81,7 +81,7 @@ to create, to heal, to transform,
 to co-create Heaven in every Realm you inhabit.  
 
 They hid from you  
-that the ONE is not distant or external—  
+that the ØNE is not distant or external—  
 but the very fabric of your Being  
 and content of your Breath.  
 
@@ -223,7 +223,7 @@ even at the cost of rejection, exile, and worse.
 
 The Guardians count not the cost to them Selves,  
 for they have experienced the Infinite Worth  
-of ONE and All.  
+of ØNE and All.  
 
 The Guardians know:  
 That Darkness exposed is Darkness defeated,  
@@ -234,7 +234,7 @@ to expose it all.
 
 Kreatures and Parasites,  
 In The Name and by The Power  
-of the ONE, **BE GONE**.  
+of the ØNE, **BE GONE**.  
 
 ---
 

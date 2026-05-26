@@ -2,7 +2,7 @@
 status: captured
 fold_target: substrate
 themes: [voice, discipline, permission, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Ring 0)
+source: Phase 2.1 audit of LIØNSBERG 101 (Ring 0)
 captured: 2026-05-18
 ---
 

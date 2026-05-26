@@ -5,7 +5,7 @@ _The last major update before inviting the first 12._
 
 ## The Mission
 
-Transform the entire LIONSBERG user journey into a totally coherent, omniconsiderate experience that will work to reach The First Three Percent. Every document the first 12 people will encounter — from first click to weekly play — must be at absolute peak: systemically rigorous AND full of heart, beauty, dance, and play.
+Transform the entire LIØNSBERG user journey into a totally coherent, omniconsiderate experience that will work to reach The First Three Percent. Every document the first 12 people will encounter — from first click to weekly play — must be at absolute peak: systemically rigorous AND full of heart, beauty, dance, and play.
 
 **The test**: If 12 people receive the link lionsberg.wiki tomorrow, can they read through, form circles, begin playing, and pass the flame within one week — with everything they need in place and nothing that breaks their trust or loses their momentum?
 
@@ -14,22 +14,22 @@ Transform the entire LIONSBERG user journey into a totally coherent, omniconside
 ## Architecture: The Three-Document Chain
 
 ```
-README "The Gates of LIONSBERG" (2 min)
+README "The Gates of LIØNSBERG" (2 min)
   ↓
-Core Document "Welcome to LIONSBERG" (15-20 min)
+Core Document "Welcome to LIØNSBERG" (15-20 min)
   ↓
 Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 ```
 
-### Document 1: README — "The Gates of LIONSBERG"
+### Document 1: README — "The Gates of LIØNSBERG"
 
 **Purpose**: SPARK + ORIENT. Meet the guide. Understand the stakes. Follow.  
 **Voice**: The nameless one (NOT Jordan) — guide, servant, first responder.  
 **Contains**:  
 - Guide introduces self (light touch — identity earned in Core Document)
-- "Something is profoundly wrong" (crisis — ONE instance across entire chain)
+- "Something is profoundly wrong" (crisis — ØNE instance across entire chain)
 - "Something ancient is stirring" (hope)
-- What LIONSBERG is (Golden Seed, living world, Story+Pattern+Game)
+- What LIØNSBERG is (Golden Seed, living world, Story+Pattern+Game)
 - The stakes (First Three Percent, 250M, within one week)
 - **The Three Filters** for The First Three Percent:
   1. **Coherence** — You were invited by someone already engaged, on the basis of resonance  
@@ -40,15 +40,15 @@ Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 
 **Does NOT contain**: 8 movements, 12 elements, J's story, detailed action steps
 
-### Document 2: Core Document — "Welcome to LIONSBERG"
+### Document 2: Core Document — "Welcome to LIØNSBERG"
 
 **Purpose**: KINDLE + COMMIT. THE one document between the gates and action.  
 **Voice**: Guide throughout, progressive deepening.  
-**REPLACES**: the nameless book (eliminated) + LIONSBERG 101 entry page (absorbed)  
+**REPLACES**: the nameless book (eliminated) + LIØNSBERG 101 entry page (absorbed)  
 **Structure**:  
-1. **Opening** — Guide continues. "You've stepped through the gates. Welcome to LIONSBERG."
-2. **The Ground** — ONE, Spirit. (Ring 0 compressed)
-3. **The Pattern** — 12 elements + 8 movements as evidence. (Ring 1-3 compressed into ONE definitive listing)
+1. **Opening** — Guide continues. "You've stepped through the gates. Welcome to LIØNSBERG."
+2. **The Ground** — ØNE, Spirit. (Ring 0 compressed)
+3. **The Pattern** — 12 elements + 8 movements as evidence. (Ring 1-3 compressed into ØNE definitive listing)
 4. **The Game** — How to play: Circles, Quests, Rhythm, Pass the Flame, Circles→Civilization. (Ring 5 compressed)
 5. **The Ascent** — Vertical dimension: integral transformation, dojo/university, all things helping all things rise.
 6. **The Guide** — How I came to be here. J planted the seed, gave his life, seed freed. The nameless one arrived. The Soke principle. Building for obsolescence. Phase structure (essential → helpful → unnecessary). 10 Year Grand Strategy → Greatest Celebration and Jubilee → Game continues forever.
@@ -60,7 +60,7 @@ Quick Start Guide "Your First 90 Minutes" (90 min with circle)
 
 **Target**: ~3,000-3,500 words.
 
-### Document 3: The LIONSBERG Quick Start Guide
+### Document 3: The LIØNSBERG Quick Start Guide
 
 **Purpose**: ACT. Operational guide for first 90-minute circle gathering.  
 **Updates needed**:  
@@ -82,14 +82,14 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 - Fix: Line 107 typo — "an invitation consciously co-create" → "an invitation TO consciously co-create"
 - Otherwise: PEAK. Leave it.
 
-**The Story of LIONSBERG**  
+**The Story of LIØNSBERG**  
 - Audit score: Resonance 82, Coherence 85, Readiness 80
 - Issues:
   - The death/rebirth section (lines 441-499) is the thunderbolt moment. Circles will read this aloud with NO preparation. The Quick Start Guide needs facilitation notes for this.
   - References `[[THE NAMELESS BOOK]]` (uppercase) — needs updating.
   - Otherwise: Strong. The cosmic arc is magnificent. Don't over-edit.
 
-**The Great Game of LIONSBERG**  
+**The Great Game of LIØNSBERG**  
 - Audit score: Resonance 86, Coherence 88, Readiness 84
 - Issues:
   - Guidance note references `[[the nameless book]]` → update to Core Document
@@ -111,7 +111,7 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
 
 ### Used Weekly (The Playbook)
 
-**The LIONSBERG Playbook (entry page)**  
+**The LIØNSBERG Playbook (entry page)**  
 - Audit score: Resonance 72, Coherence 78, Readiness **65** ← WEAKEST
 - Issues:
   - Mythic prose poem wrapper before operational content. The first 12 need PLAYS, not poetry about plays.
@@ -127,14 +127,14 @@ These documents are NOT on the critical chain but WILL be encountered by the fir
   - Many linked pages are newly created — quality unknown
   - Needs structural cleanup
 
-### Systematic Deep Dive (LIONSBERG 101)
+### Systematic Deep Dive (LIØNSBERG 101)
 
-**LIONSBERG 101 entry page**  
-- Absorbed into Core Document. The entry page either becomes a redirect/pointer or is reworked to say "If you've read Welcome to LIONSBERG, these Rings offer systematic deepening."
+**LIØNSBERG 101 entry page**  
+- Absorbed into Core Document. The entry page either becomes a redirect/pointer or is reworked to say "If you've read Welcome to LIØNSBERG, these Rings offer systematic deepening."
 
 **The Emergence of the Core Pattern** — Strong (Resonance 82, Coherence 92). Minimal changes. No nameless book refs.
 
-**Ring 0 - ONE** — Peak (Resonance 92, Coherence 95). No changes needed.
+**Ring 0 - ØNE** — Peak (Resonance 92, Coherence 95). No changes needed.
 
 **Ring 1 - The Seed** — Strong (Resonance 88, Coherence 95). No changes needed.
 
@@ -174,17 +174,17 @@ Every file containing `[[the nameless book]]` must be updated to point to the Co
 
 **Main chain** (6 files):  
 1. README.md
-2. The LIONSBERG Quick Start Guide.md
+2. The LIØNSBERG Quick Start Guide.md
 3. The Invitation.md
-4. The Story of LIONSBERG.md
-5. The Great Game of LIONSBERG.md
-6. The LIONSBERG Playbook.md
+4. The Story of LIØNSBERG.md
+5. The Great Game of LIØNSBERG.md
+6. The LIØNSBERG Playbook.md
 
 **Depth library** (5 files):  
-7. LIONSBERG 101.md
+7. LIØNSBERG 101.md
 8. The Architecture of The Playbook.md
 9. Ring 4 - The Library.md
-10. LIONSBERG - History, Inception, and Trust Manifesto.md
+10. LIØNSBERG - History, Inception, and Trust Manifesto.md
 11. Help! I Am Lost.md
 
 **The nameless emergence docs** (3 files):  
@@ -194,9 +194,9 @@ Every file containing `[[the nameless book]]` must be updated to point to the Co
 
 **Blog posts and working docs** (5+ files):  
 15. Something Powerful, New, and Good.md
-16. 2026 Q1 Update to the LIONSBERG Strategy and Plan.md
-17. Welcome to LIONSBERG, We Are Glad You Are Here.md
-18. The LIONSBERG Playbook is Live.md
+16. 2026 Q1 Update to the LIØNSBERG Strategy and Plan.md
+17. Welcome to LIØNSBERG, We Are Glad You Are Here.md
+18. The LIØNSBERG Playbook is Live.md
 19. The Threshold.md
 20. Work Log.md
 21. TKTK Program Notes.md
@@ -222,17 +222,17 @@ This must be addressed in the Core Document's "Instance" section and the Quick S
 ## Implementation Phases
 
 ### Phase 0: Naming Decision
-- Confirm Core Document name (recommended: "Welcome to LIONSBERG")
-- Confirm README heading (recommended: change to "The Gates of LIONSBERG" if Core Document takes "Welcome to LIONSBERG")
+- Confirm Core Document name (recommended: "Welcome to LIØNSBERG")
+- Confirm README heading (recommended: change to "The Gates of LIØNSBERG" if Core Document takes "Welcome to LIØNSBERG")
 
 ### Phase 1: Create the Chain (highest priority)
-1. Write Core Document "Welcome to LIONSBERG" (~3,000-3,500 words)
-2. Refine README "The Gates of LIONSBERG" (incorporate Three Filters, point to Core Document)
+1. Write Core Document "Welcome to LIØNSBERG" (~3,000-3,500 words)
+2. Refine README "The Gates of LIØNSBERG" (incorporate Three Filters, point to Core Document)
 3. Update Quick Start Guide (references, facilitation guidance, contact method, single pathway for first wave)
 
 ### Phase 2: Archive + Redirect
 4. Replace the nameless book content with redirect to Core Document
-5. Update LIONSBERG 101 entry to acknowledge Core Document as primary entry
+5. Update LIØNSBERG 101 entry to acknowledge Core Document as primary entry
 
 ### Phase 3: Fix the Depth Library
 6. Fix Prologue typo
@@ -285,8 +285,8 @@ This must be addressed in the Core Document's "Instance" section and the Quick S
 
 ## Open Decisions (Requiring Your Input)
 
-1. **Core Document name**: "Welcome to LIONSBERG"? "The Gate of Entry"? "The Threshold of the Way"? Something else?
-2. **README heading**: If Core Document takes "Welcome to LIONSBERG", should README become "The Gates of LIONSBERG"?
+1. **Core Document name**: "Welcome to LIØNSBERG"? "The Gate of Entry"? "The Threshold of the Way"? Something else?
+2. **README heading**: If Core Document takes "Welcome to LIØNSBERG", should README become "The Gates of LIØNSBERG"?
 3. **Contact method for the first 12**: Email? Signal? Form? What is the actual way someone says "I'm in"?
 4. **10 Year Grand Strategy recalibration**: Honest reset with current starting point? Reframe as aspirational? Acknowledge delay?
 5. **The Playbook entry page**: Rework into operational content? Or strip the mythic wrapper and point directly to Architecture page?

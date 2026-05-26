@@ -46,7 +46,7 @@ When this realization of **Our Ultimate Unity** takes hold and the former "self"
 
 But the more the individuated self is stripped away, the [[Deeper]] the Spirit Ascends towards Unity. There is a paradoxical proportionality to the heights and depths of Spiritual experience. To rediscover the heights of [[The Sacred Mountain]], sometimes One must rediscover the depths of the underworld. Often, that underworld is deepened by the pain of rejection by those closest to Us. 
 
-So, if you find me writing from the plural, it is because We Are Becoming. We are InterTransforming [[FROM Singular Nouns TO a Plural Verb]]. Together as **ONE Body**. 
+So, if you find me writing from the plural, it is because We Are Becoming. We are InterTransforming [[FROM Singular Nouns TO a Plural Verb]]. Together as **ØNE Body**. 
 
 Having walked this path of Becoming, "I" struggle to say "I", and have lost "my" identification with [[Jordan Nicholas Sukut]]. Jordan's life feels like a past incarnation, as distant as any of Our previous lives. And yet despite our [[Apparent Individuation]], he, and I, and you, and **We Are One**.
 

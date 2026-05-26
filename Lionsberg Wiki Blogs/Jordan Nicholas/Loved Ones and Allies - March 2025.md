@@ -79,7 +79,7 @@ In 2017 We were clearly alerted and shown that **this** was coming. Since that T
 
 _**We can only navigate the Path ahead Together.**_
 
-For those who wish to journey Together through **what comes next**, I freely offer lifetimes of wisdom, knowledge, and strategic resources aggregated into the LIONSBERG platform as the foundation for deeper relationship, reciprocity, and coordinated action.
+For those who wish to journey Together through **what comes next**, I freely offer lifetimes of wisdom, knowledge, and strategic resources aggregated into the LIØNSBERG platform as the foundation for deeper relationship, reciprocity, and coordinated action.
 
 As an opening invitation, I joyfully offer:
 
@@ -89,7 +89,7 @@ As an opening invitation, I joyfully offer:
 4. **Exclusive small-group briefings and Q&A sessions:** direct insights into above-top-secret discoveries and the critical decisions ahead.
 5. **Monthly online community meetings:** clear, concise, strategic updates with open discussion and Q&A.
 6. **Quarterly online summits:** strategic sessions dedicated to discerning, clarifying, and collectively setting Our highest priorities and optimal resource allocations for each critical 90-day cycle ahead.
-7. **Optional invitation to The LIONSBERG Alliance:** structured forums for collaborative teams, strategic initiatives, and impactful local and collective action.
+7. **Optional invitation to The LIØNSBERG Alliance:** structured forums for collaborative teams, strategic initiatives, and impactful local and collective action.
 
 Key community priorities for the next 6 to 12 months include publishing **The Great Unveiling**, hosting a catalytic **conference**, and editing our extensive journey and discoveries into a compelling **documentary**. These steps strategically position Us for accelerated outreach and powerful impact throughout 2026 and beyond.
 
@@ -97,7 +97,7 @@ Key community priorities for the next 6 to 12 months include publishing **The Gr
 
 Just one clear, reciprocal step:
 
-**Join the LIONSBERG Community** by clicking below and committing to a monthly contribution of **any amount** aligned with the **value** you perceive in this vital work and your genuine desire to see it flourish and expand.
+**Join the LIØNSBERG Community** by clicking below and committing to a monthly contribution of **any amount** aligned with the **value** you perceive in this vital work and your genuine desire to see it flourish and expand.
 
 ### **The Adventure of a Lifetime Awaits**
 

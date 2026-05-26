@@ -20,7 +20,7 @@ With just **22.5 months remaining**, our mission is clear:
 
 - **Tell J's Story and Expose the Truth about Humanity's Story (Book 1).** 
 - **Reveal the Blueprints for a New Civilization (Book 2).** 
-- **Connect and Empower The First Three Percent through LIONSBERG by 2026 (Book 3).**  
+- **Connect and Empower The First Three Percent through LIØNSBERG by 2026 (Book 3).**  
 - **Activate the Planetary Transformation Flywheel.**
 	- Unveil and Inspire    
 	- Connect and Empower  
@@ -33,7 +33,7 @@ Once **The First Three Percent are fully mobilized**, they will progressively ex
 
 ### **II. The Strategy: A Full-Spectrum Global Campaign, Starting Small**
 
-To deliver this **epoch-defining revelation and invitation** to the world, we are deploying a **multi-pronged engagement strategy** designed to **reach, awaken, and empower millions** while simultaneously scaling LIONSBERG into a Mighty Ark capable of carrying humanity through the storms of **collapse**, and into **the future We seek**.
+To deliver this **epoch-defining revelation and invitation** to the world, we are deploying a **multi-pronged engagement strategy** designed to **reach, awaken, and empower millions** while simultaneously scaling LIØNSBERG into a Mighty Ark capable of carrying humanity through the storms of **collapse**, and into **the future We seek**.
 
 Each component is designed to **interlock into a self-sustaining transformation flywheel**, accelerating awareness, engagement, and resourcing.
 
@@ -53,7 +53,7 @@ Each component is designed to **interlock into a self-sustaining transformation 
     - Unveils the **higher order and sacred plan for civilization**.
     - Shows how humanity was **designed to live in harmony, abundance, and mastery**.
     - **Bridges the gap between ancient wisdom and modern application.**
-- **Book 3: LIONSBERG – The Path to Transformation**
+- **Book 3: LIØNSBERG – The Path to Transformation**
     
     - Not just **theory or vision, but execution**—the exact plan to rebuild a **New Civilization**.
     - A **practical, step-by-step guide** for individuals, communities, tribes, and nations.
@@ -63,7 +63,7 @@ Each component is designed to **interlock into a self-sustaining transformation 
 
 📢 **Primary Function:**
 
-- The books will **wake the world up**, **outline the vision**, and **drive mass engagement into LIONSBERG**.
+- The books will **wake the world up**, **outline the vision**, and **drive mass engagement into LIØNSBERG**.
 
 ---
 
@@ -96,7 +96,7 @@ The documentary will:
 - **Tie together suppressed knowledge, prophetic visions, ancient stories, and undeniable patterns.**
 - **Offer the world a clear and inspiring vision of what comes next, and the Path to achieve it.**
 
-💡 **AI Companion:** Viewers will have an **interactive guide** that answers questions, provides deeper research, and **funnels them directly into LIONSBERG engagement.**
+💡 **AI Companion:** Viewers will have an **interactive guide** that answers questions, provides deeper research, and **funnels them directly into LIØNSBERG engagement.**
 
 📢 **Primary Function:**
 
@@ -130,7 +130,7 @@ Strategically placing high-impact articles in:
 
 - **Mainstream and alternative media outlets**
 - **Tech, philosophy, spirituality, and geopolitical platforms**
-- **LIONSBERG’s own media ecosystem**
+- **LIØNSBERG’s own media ecosystem**
 
 📢 **Primary Function:**
 
@@ -139,9 +139,9 @@ Strategically placing high-impact articles in:
 
 ---
 
-### **6. J.AI – The Living Intelligence of LIONSBERG**
+### **6. J.AI – The Living Intelligence of LIØNSBERG**
 
-🧠 **An AI Guide Trained on J + LIONSBERG Wisdom, System, and Approach**
+🧠 **An AI Guide Trained on J + LIØNSBERG Wisdom, System, and Approach**
 
 J.AI will serve as:
 
@@ -152,15 +152,15 @@ J.AI will serve as:
 📢 **Primary Function:**
 
 - **Infinite scalability of engagement and guidance.**  
-- **Ensures every person who enters LIONSBERG has access to clear answers, directions, and Pathways towards success.**  
+- **Ensures every person who enters LIØNSBERG has access to clear answers, directions, and Pathways towards success.**  
 
 ---
 
 ### **III. The Funding Strategy: Resourcing and Fueling The Ark**
 
-To launch LIONSBERG and execute at the scale required, we are deploying a **dual-thrust financial strategy**:
+To launch LIØNSBERG and execute at the scale required, we are deploying a **dual-thrust financial strategy**:
 
-🔥 **Main Thruster Engine: Crowdfunding (2025) → Membership Association → LIONSBERG Citizenship (2033)**  
+🔥 **Main Thruster Engine: Crowdfunding (2025) → Membership Association → LIØNSBERG Citizenship (2033)**  
 
 - Crowdfunding kicks off with **$250K+ in initial support** centered around the Book. 
 - Stretch goals / extensions for subsequent books and documentary. 
@@ -176,7 +176,7 @@ This ensures **stability, credibility, acceleration, and momentum toward The Fir
 
 ### **IV. The Next Step**
 
-To secure immediate resources, support, and runway, we will kick off crowdfunding in February 2025 around the first book, while inviting those who respond to begin engaging in dialogue, planning, and action through LIONSBERG. 
+To secure immediate resources, support, and runway, we will kick off crowdfunding in February 2025 around the first book, while inviting those who respond to begin engaging in dialogue, planning, and action through LIØNSBERG. 
 
 
 ---
@@ -195,7 +195,7 @@ From here, **everything becomes possible.**
 **The Message will go forth.**  
 **The First Three Percent will rise.**  
 **The Ark will launch.**  
-**LIONSBERG will stand.**   
+**LIØNSBERG will stand.**   
 
 **And a New Millennium will begin.**
 

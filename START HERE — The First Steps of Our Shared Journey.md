@@ -35,7 +35,7 @@ Its fulfillment.
 This living **Wiki** exists to serve as the **architectural and initiatory framework** for a **[[New Civilization]]**.  
 
 It is a **Sacred Invitation**, a **Guide**, and a **Toolkit** —  
-to help Us co-create a world in **Right Relationship** with **ONE**, One Another, and All.  
+to help Us co-create a world in **Right Relationship** with **ØNE**, One Another, and All.  
 
 It exists because the **Old Systems** were never designed to deliver Justice, Truth, Beauty, Sovereignty, or Life.  
 
@@ -55,7 +55,7 @@ Others are rising.
 
 All across the Earth, the **Great Circle** is reforming —  
 not around any central figure, nation, ideology, or institution —  
-but around the **ONE** and its **Logos**,  
+but around the **ØNE** and its **Logos**,  
 the Ineffable Living Pattern that sustains and guides All.  
 
 ---
@@ -67,7 +67,7 @@ The world We inherited is not the world We were born for.
 It is fragmented, inverted, and misaligned.  
 It has been abused and mistreated for generations.  
 
-**LIONSBERG** is not a simple answer to a simple problem —  
+**LIØNSBERG** is not a simple answer to a simple problem —  
 It is a comprehensive response to **total systems failure**.  
 
 What You will encounter here is vast.  

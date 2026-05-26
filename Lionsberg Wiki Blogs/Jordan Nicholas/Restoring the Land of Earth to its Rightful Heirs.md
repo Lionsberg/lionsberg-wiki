@@ -247,7 +247,7 @@ She does not recognize titles forged in fraud.
 She responds to **Spirit**, not paperwork or bureaucracy.  
 
 > And the day is near when the ancient wrongs will be righted.  
-> Not by the court of man, but by the **Justice of Heaven**, and the rising of the People in alignment with the Spirit and Logos of the ONE.
+> Not by the court of man, but by the **Justice of Heaven**, and the rising of the People in alignment with the Spirit and Logos of the ØNE.
 
 The ReInheriting of the Earth is not just a legal matter.  
 It is a cosmic, spiritual, and moral revolution.
@@ -347,7 +347,7 @@ Where there was once "law" based on domination, humanity begins to re-enshrine:
     
 - **Cosmic Law** – the universal patterns of balance, harmony, reciprocity, reverence, and flow.
     
-- **Spiritual Law** – what flows from the Heart of the ONE, through Love, Discernment, and Sovereignty.
+- **Spiritual Law** – what flows from the Heart of the ØNE, through Love, Discernment, and Sovereignty.
     
 
 Laws are no longer written _over_ the people, but emerge _from_ them, rooted in the wisdom of elders, mothers, poets, philosophers, builders, and peacemakers.  

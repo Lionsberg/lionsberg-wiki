@@ -6,7 +6,7 @@ _Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lif
 
 ### **Summary**
 
-The Fourth Pillar of LIONSBERG reclaims learning as a sacred, lifelong journey of awakening, development, and contribution. It recognizes every being as a bearer of unique gifts, genius, and purpose—inviting humanity to co-create regenerative learning ecosystems that cultivate wisdom, character, and mastery in alignment with the Logos. Sacred Learning transcends rote instruction, returning education to its original aim: the flourishing of the soul in service of ONE and All.
+The Fourth Pillar of LIØNSBERG reclaims learning as a sacred, lifelong journey of awakening, development, and contribution. It recognizes every being as a bearer of unique gifts, genius, and purpose—inviting humanity to co-create regenerative learning ecosystems that cultivate wisdom, character, and mastery in alignment with the Logos. Sacred Learning transcends rote instruction, returning education to its original aim: the flourishing of the soul in service of ØNE and All.
 
 ---
 
@@ -46,7 +46,7 @@ In Sacred Learning, education is not a system for youth—it is a sacred Way for
     
 11. **Paths of Mastery Must Be Restored** — through which individuals can commit to long-term development in service of the Whole.
     
-12. **The Goal Is a Planet of Masters Serving the ONE** — a world in which each being is developed to the fullness of their potential in alignment with Love, Truth, and Purpose.
+12. **The Goal Is a Planet of Masters Serving the ØNE** — a world in which each being is developed to the fullness of their potential in alignment with Love, Truth, and Purpose.
 
 
 ---
@@ -105,7 +105,7 @@ It asks not “How will you make a living?”—but “How will you live?" and "
 
 It empowers the formation of Learning Guilds, Circles, and Academies where the old and the young co-create pathways of mastery in arts, sciences, healing, cultivation, leadership, and the spiritual disciplines of the Way. It cultivates not workers, but wise stewards. Not test-takers, but truth-seekers. Not consumers, but co-creators.
 
-LIONSBERG envisions a future where every being is fully developed, fully empowered, and fully free to walk their sacred path in harmony with the Whole.
+LIØNSBERG envisions a future where every being is fully developed, fully empowered, and fully free to walk their sacred path in harmony with the Whole.
 
 This is the foundation of any true civilization. And it begins now.
 

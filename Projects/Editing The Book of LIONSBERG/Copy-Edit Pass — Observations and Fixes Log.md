@@ -1,6 +1,6 @@
 # Copy-Edit Pass — Observations and Fixes Log
 
-_Full pass completed February 28, 2026. All chapters (0-14) of The Book of LIONSBERG reviewed file by file._
+_Full pass completed February 28, 2026. All chapters (0-14) of The Book of LIØNSBERG reviewed file by file._
 
 ---
 
@@ -67,7 +67,7 @@ Several files use single brackets `[term]` where double brackets `[[term]]` (wik
 
 ### Possessive "Its" vs. Contraction "It's"
 
-The text consistently uses "It's" (contraction) where "Its" (possessive) is needed when referring to ONE/God/Spirit. Fixed where clearly wrong, but this pattern recurs throughout and may warrant a global audit. Key locations fixed: 4.24, 12.1, 13.26.
+The text consistently uses "It's" (contraction) where "Its" (possessive) is needed when referring to ØNE/God/Spirit. Fixed where clearly wrong, but this pattern recurs throughout and may warrant a global audit. Key locations fixed: 4.24, 12.1, 13.26.
 
 ### Inconsistent Formatting Patterns
 
@@ -92,7 +92,7 @@ The text consistently uses "It's" (contraction) where "Its" (possessive) is need
 
 ### Structural Suggestions
 
-1. **Chapter 7 TOC in The Book of LIONSBERG.md** — Sections 7.24-7.33 were listed twice (duplicate removed in this session's TOC fix)
+1. **Chapter 7 TOC in The Book of LIØNSBERG.md** — Sections 7.24-7.33 were listed twice (duplicate removed in this session's TOC fix)
 2. **Chapter 8 "8.9" duplication** — Two different files share section number 8.9. One should be renumbered.
 3. **Chapter 12 "12.18" duplication** — Two different files share section number 12.18. One should be renumbered.
 4. **Chapter 8 "8.x" files** — Need final section numbers assigned

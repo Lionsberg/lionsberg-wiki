@@ -1,4 +1,4 @@
-# MindWeaving LIONSBERG
+# MindWeaving LIØNSBERG
 
 ____  
 This is a [[Work In Progress]].  
@@ -35,10 +35,10 @@ It is also intended to cut hundreds of hours off [[The Path]]
 For [[Those Who Will Come After Us]]  
 
 It or its synthesized components may be useful for [[Orientation and Onboarding]]  
-In the event that humanity decides to adopt and cultivate [[The Golden Seed of LIONSBERG]]  
+In the event that humanity decides to adopt and cultivate [[The Golden Seed of LIØNSBERG]]  
 
 _____  
-This document, like all things LIONSBERG, is a [[Work In Progress]] that is being progressively published in case it is not finished.  
+This document, like all things LIØNSBERG, is a [[Work In Progress]] that is being progressively published in case it is not finished.  
 
 Present Status: ***~5% complete***.  
 Program Note:  
@@ -89,7 +89,7 @@ _If [[Wisdom]], [[Knowledge]], and [[Understanding]] are more valuable than gold
 	- [[A Better World Is Possible]]  
 	- [[There Is Another Way]]  
 - The Creator is inviting Us All to become Conscious Co-Creators of [[Heaven on Earth and Beyond]]  
-- LIONSBERG was not invented. It incarnated to show the Way  
+- LIØNSBERG was not invented. It incarnated to show the Way  
 	- [[There Is No Them]] "out there" coming to save Us  
 	- [[It Is Up To Us]]  
 	- Some group of Us has to put The System, Strategy, Plan and Play together  
@@ -107,7 +107,7 @@ This could be accomplished in two ways:
 - By translating and transmuting [[The Message]] to make it more accessible  
 - By transforming [[Consciousness]] to a place it was capable of higher and deeper [[Perception]]  
 
-[[The Path]] of LIONSBERG requires both in order to succeed.  
+[[The Path]] of LIØNSBERG requires both in order to succeed.  
 
 ____  
 ## The Old System & Paradigm 
@@ -130,7 +130,7 @@ ___
 
 As the Old Systems collapse towards chaos and tyranny,  
 [[There Is Another Way]].  
-LIONSBERG is rising.  
+LIØNSBERG is rising.  
 Humanity must choose its Path.  
 
 "This is [[The Solution]] to all my [[Issues]]."  
@@ -282,16 +282,16 @@ What gratitude We have for each and every moment.
 We who incarnated for this moment.  
 Avatara energies in varying degrees of power, coherence, and awareness.  
 Timeless Fractals that Incarnate when and where We need to in service of [[ØNE]] and [[All]].  
-In order to Experience Our Selves as One of the Ones of the ONE.  
+In order to Experience Our Selves as One of the Ones of the ØNE.  
 
-## LIONSBERG Universe(ity)  
+## LIØNSBERG Universe(ity)  
 
 There is a New School for Us.  
 It is a [[Place of Practice]].  
 Where We learn to [[Play The Game]].  
 
 Academia Avatara.  
-LIONSBERG Universe(ity).  
+LIØNSBERG Universe(ity).  
 
 Calling the Called out of [[The Masses]], out of [[The Caves]], and into an environment purpose-built to cultivate and unleash their Divine Potential and Power.  
 
@@ -364,7 +364,7 @@ Requires the [[Progressive Articulation]] a shared System and Way
 That can be continuously improved and transmitted  
 From generation to generation  
 
-LIONSBERG incarnated because this was lacking on Earth.  
+LIØNSBERG incarnated because this was lacking on Earth.  
 
 ## Resurrecting and Restoring What Was Lost
 
@@ -452,7 +452,7 @@ An entirely New Social Contract and Covenant.
 
 When the [[Old System]] collapses, humanity will discover multiple synthetic (false) claims on every particle and ounce of their world.  
 
-The only possibility to avoid catastrophe is [[Jubilee]] and a New System of [[Multi-Generational Stewardship]] in service of ONE and All past, present, and future generations of [[Life]] and [[Consciousness]].  
+The only possibility to avoid catastrophe is [[Jubilee]] and a New System of [[Multi-Generational Stewardship]] in service of ØNE and All past, present, and future generations of [[Life]] and [[Consciousness]].  
 
 [[Our Collective Inheritance]]. A permanent endowment that ensures [[The Great Work]] can continue indefinitely into [[The Future]].  
 
@@ -593,7 +593,7 @@ How do We handle the training and development of [[Facilitators]] / [[Guides]]?
 - The Threshold  
 	- People have to feel seen, secure, loved  
 - The Story  
-	- The ONE  
+	- The ØNE  
 	- The Fracture  
 	- The Dark Empires  
 	- Systems of Kontrolle  
@@ -602,7 +602,7 @@ How do We handle the training and development of [[Facilitators]] / [[Guides]]?
 		- Humanity... 
 		- on its Quest towards Destiny... 
 		- Faces a challenge it cannot overcome... 
-		- Meets a Guide (LIONSBERG)  
+		- Meets a Guide (LIØNSBERG)  
 		- Who shows the Way  
 		- To avoid the collapse into Hell and Co-Create [[Heaven On Earth]]  
 - The Kingdom  

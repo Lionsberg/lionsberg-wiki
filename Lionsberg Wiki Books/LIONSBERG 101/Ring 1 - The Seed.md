@@ -6,7 +6,7 @@ _This is the irreducible pattern. If all else were lost and only this page survi
 
 ## The Seed In One Sentence
 
-**Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ONE and All — carrying the same DNA of governance, economics, learning, culture, and mutual accountability coherently from the individual to the planetary and beyond — thereby co-creating Heaven everywhere and everywhen for everyone.**  
+**Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ØNE and All — carrying the same DNA of governance, economics, learning, culture, and mutual accountability coherently from the individual to the planetary and beyond — thereby co-creating Heaven everywhere and everywhen for everyone.**  
 
 ---
 
@@ -51,7 +51,7 @@ _How organized beings actually build — the operational DNA that makes every Ci
 _Confirmed by $20 million of funded research in [[The Program Delivery Guide]], and rooted in the Toyota Production System, Lean Construction, Integrated Project Delivery, Agile, and the Theory of Constraints ([[The Goal]])._
 
 **9. [[Integrated Delivery]]**  
-Every Circle operates as a node in a planetary system operating _in service of_ ONE, All, and the precious living system we are a part of. The [[LIONSBERG Integrated Delivery System]] — rooted in Lean, the Toyota Production System, and Integrated Project Delivery — coordinates work across all scales from Circle to planetary. These are not new principles. They are universal patterns of how intelligent beings coordinate production. Proven across smaller and larger scales, now optimized for Earth.
+Every Circle operates as a node in a planetary system operating _in service of_ ØNE, All, and the precious living system we are a part of. The [[LIØNSBERG Integrated Delivery System]] — rooted in Lean, the Toyota Production System, and Integrated Project Delivery — coordinates work across all scales from Circle to planetary. These are not new principles. They are universal patterns of how intelligent beings coordinate production. Proven across smaller and larger scales, now optimized for Earth.
 
 **10. [[Design To The Goal]]**  
 All design is constrained by the highest overarching and uniting [[Meta Goal]], not by budget, politics, or precedent. The Goal determines what is built, how it is built, and what it costs. This is Target Value Design applied to civilization itself — design to the target, never exceed it, continuously improve toward it.
@@ -67,7 +67,7 @@ Learning is not separate from doing — it is fused with it. Every action genera
 ## The Way It Works
 
 [[ØNE]] awakens.  
-ONE shares with another.  
+ØNE shares with another.  
 They form a [[Circle]].  
 The Circle establishes [[Field of Agreements|Agreements]].  
 The Circle chooses a [[Quest]].  
@@ -104,5 +104,5 @@ _This is The Seed. It is ready. It has been tested. Pass it forward._
 ---
 
 Forward to [[Ring 2 - The Pattern Unfolded]]  
-Back to [[Ring 0 - ONE]]  
+Back to [[Ring 0 - ØNE]]  
 Table of Contents [[LIØNSBERG 101]]

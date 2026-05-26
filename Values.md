@@ -5,7 +5,7 @@
 
 The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ØNE]] Absolute [[Meta Value]]. 
 
-These are reflected in [[The LIONSBERG System of Values]]. 
+These are reflected in [[The LIØNSBERG System of Values]]. 
 
 Some of the core values underpinning the [[New Vision and Plan]] and the [[LIØNSBERG System]] include:
 

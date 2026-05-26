@@ -109,7 +109,7 @@ The pattern is unmistakable: **the same canonical Pattern shows up in all three 
 
 **The Wise Right way to cohere them all:**
 
-1. **The Pattern Language is the canonical home of every Pattern.** Each Pattern (Network of Commitments, Wise Eldership, Federation Without Center, etc.) lives as ONE canonical Pattern Card in the Pattern Language wiki book. The card holds the full articulation.
+1. **The Pattern Language is the canonical home of every Pattern.** Each Pattern (Network of Commitments, Wise Eldership, Federation Without Center, etc.) lives as ØNE canonical Pattern Card in the Pattern Language wiki book. The card holds the full articulation.
 
 2. **The IPD Guide (this Volume) is the methodological articulation of the production-focused Patterns.** It is not a parallel canon — it is the canonical methodology document that organizes the production-related Patterns into a coherent delivery practice. Where IPD names a Pattern (Target Value Design, Last Planner, Core Group), it points to the canonical Pattern Card in the Pattern Language and articulates how that Pattern operates within the integrated delivery methodology.
 

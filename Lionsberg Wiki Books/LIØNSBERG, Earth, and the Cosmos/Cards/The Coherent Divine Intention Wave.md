@@ -60,7 +60,7 @@ Sovereigns walking [[The Daily Way|the Devoted or Mastery tiers]] contribute lon
 
 **Breathe naturally.** No special technique required. Sovereigns with established practices (anapanasati, qi gong breath, prayer-of-the-heart, others) may use them.
 
-**Hold the highest intention.** Not in words. Not as petition. As _orientation._ The Sovereign turns the heart and mind toward [[Heaven On Earth]], toward [[ONE]] and [[All]], toward the Sovereigns and Circles around the world who are sitting at this very moment.
+**Hold the highest intention.** Not in words. Not as petition. As _orientation._ The Sovereign turns the heart and mind toward [[Heaven On Earth]], toward [[ØNE]] and [[All]], toward the Sovereigns and Circles around the world who are sitting at this very moment.
 
 **When thought arises** — and it will — return gently to the intention. No struggle. No self-criticism. Just return.
 

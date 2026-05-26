@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, pattern-language, integrated-delivery, commitments, pdg, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 + The Book of LIONSBERG Chapter 16 (PDG)
+source: Phase 2.1 audit of LIØNSBERG 101 + The Book of LIØNSBERG Chapter 16 (PDG)
 captured: 2026-05-19
 ---
 

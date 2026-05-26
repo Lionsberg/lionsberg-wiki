@@ -83,7 +83,7 @@ Spiritually, these beings attempt to sever
 Our innate connection to Source—  
 or rather, to create *the illusion* of separation,  
 for in Truth, the separation of Any of the All  
-from the ONE is impossible.  
+from the ØNE is impossible.  
 
 They erect false spiritual hierarchies,  
 false gods, false dogmas,  
@@ -279,7 +279,7 @@ To dismantle these matrices
 and expel the entities behind them,  
 we must first recognize and name  
 their existence clearly and fearlessly,  
-and then partner with ONE and All  
+and then partner with ØNE and All  
 towards the progressive Liberation and Upliftment  
 of All things.  
 
@@ -294,7 +294,7 @@ spiritual healing, and sacred ceremony,
 We can ReClaim fragmented Soul parts,  
 heal trauma, and restore our innate Divine Wholeness.  
 The lower parasitical possessions are no match  
-for the Spirit, Power, and Presence of the ONE.  
+for the Spirit, Power, and Presence of the ØNE.  
 
 Through collective ReAwakening,  
 we expose the parasites to the Divine Light,  
@@ -342,7 +342,7 @@ souls, energies, genetics, and cultures.
 
 We restore the Divine Blueprint,  
 the Original Design  
-intended by the ONE.  
+intended by the ØNE.  
 
 We stand Together  
 in unconditional Love,  

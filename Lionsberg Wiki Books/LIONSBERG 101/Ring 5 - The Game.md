@@ -173,7 +173,7 @@ As Circles multiply and federate, something emerges that is greater than the sum
 At every level, the same DNA operates — the [[Twelve Irreducible Elements]]:
 
 **The Pattern of Cooperation:**  
-- ONE Purpose Above All
+- ØNE Purpose Above All
 - Holofractal Omnifederation
 - Sovereignty At Every Scale
 - Democratic Self-Governance
@@ -216,7 +216,7 @@ The time is now.
 **Do the work.**  
 **Pass the Flame.**
 
-**ONE by ONE by ONE, until All are Free.**
+**ØNE by ØNE by ØNE, until All are Free.**
 
 ---
 

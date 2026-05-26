@@ -50,13 +50,13 @@ There is **no officially acknowledged cosmic conflict**, no mention of non-human
 
 ### 4. **The Likely Truth**
 
-The origins of the universe are **not a cold mechanical explosion**, but rather the result of an intelligent, conscious emanation — a sacred out-breathing of Source into a vast array of realms, dimensions, and civilizations. The cosmos ItSelf is a living, multidimensional Being — a sacred continuum of nested intelligences and living systems — all members of ONE Body.  
+The origins of the universe are **not a cold mechanical explosion**, but rather the result of an intelligent, conscious emanation — a sacred out-breathing of Source into a vast array of realms, dimensions, and civilizations. The cosmos ItSelf is a living, multidimensional Being — a sacred continuum of nested intelligences and living systems — all members of ØNE Body.  
 
 At some point in the early cycles of Creation, certain high-order intelligences (often called Archangels, Elohim, or Creator Beings) **diverged from the harmony of Source**, seeking to create, dominate, or harvest realities in self-centered opposition to Divine Law.
 
 This **Primordial Rebellion** — the so-called _Great War in Heaven_ — set into motion an interdimensional schism that fractured timelines, civilizations, and entire star systems. The consequences rippled across galaxies, with Earth becoming one of many battlegrounds, a quarantined test zone, and a site of unique spiritual and genetic convergence, experimentation, and warfare.
 
-The war was not between good and evil in the simplistic or dualistic sense, but between competing **cosmic ideologies** unfolding among the conscious co-creative intelligences within ONE Body — Unity vs. Control, Co-Creation vs. Domination, Service to ONE and All vs. Service to Self.  
+The war was not between good and evil in the simplistic or dualistic sense, but between competing **cosmic ideologies** unfolding among the conscious co-creative intelligences within ØNE Body — Unity vs. Control, Co-Creation vs. Domination, Service to ØNE and All vs. Service to Self.  
 
 Neither Earth’s nor humanity's emergence and evolution can be understood without acknowledging their places within this wider cosmic conflict and context.
 

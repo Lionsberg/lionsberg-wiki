@@ -3,11 +3,11 @@ _AI generated in dialogue with humans. Not fully reviewed._
 
 ## The Epiphany
 
-It occurs to me that within the ~2.5 million words on the LIONSBERG Wiki is an implicit logic and code necessary to bring The Great Game to life... not just semantically but mathematically... in other words that the entire web of semantic meaning forms a virtually inviolable statistical field of meaning that can be reflected mathematically... and therefore in code... and that this mathematical / code reflection of the [[Holofractal Pattern Language]] / [[The LIØNSBERG Pattern Language]]... might be extremely helpful and mutually clarifying...
+It occurs to me that within the ~2.5 million words on the LIØNSBERG Wiki is an implicit logic and code necessary to bring The Great Game to life... not just semantically but mathematically... in other words that the entire web of semantic meaning forms a virtually inviolable statistical field of meaning that can be reflected mathematically... and therefore in code... and that this mathematical / code reflection of the [[Holofractal Pattern Language]] / [[The LIØNSBERG Pattern Language]]... might be extremely helpful and mutually clarifying...
 
 ## The Core Insight
 
-**The LIONSBERG Wiki contains 2,593,838 words across 4,278 interconnected markdown files.**
+**The LIØNSBERG Wiki contains 2,593,838 words across 4,278 interconnected markdown files.**
 
 This is not merely documentation—it is a **living semantic field** that encodes:  
 - The logic and rules of The Great Game
@@ -59,7 +59,7 @@ The wiki already has:
 **From static text → To dynamic intelligence that understands The Way**
 
 **Goal**: Create an AI model that:  
-- Understands the full context of LIONSBERG (all 2.5M words)
+- Understands the full context of LIØNSBERG (all 2.5M words)
 - Can answer questions about The Great Game
 - Guides individuals through their journey
 - Suggests quests appropriate to their context
@@ -131,7 +131,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 **Goal**: Reflect the semantic field mathematically and computationally
 
 **2.1 AI Model Training**  
-- Fine-tune language model on LIONSBERG corpus
+- Fine-tune language model on LIØNSBERG corpus
 - Train on specific tasks (quest generation, guidance, pattern recognition)
 - Create retrieval-augmented generation (RAG) system
 - Build question-answering capability
@@ -152,7 +152,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 - Enable real-time coordination and communication
 
 **Deliverables**:  
-- Trained LIONSBERG AI model
+- Trained LIØNSBERG AI model
 - Computational rule engine
 - Game state tracking system
 - Coordination platform (alpha)
@@ -200,7 +200,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 - **Lexicon**: Core vocabulary and definitions
 
 ### Layer 2: Computational Intelligence
-- **AI Model**: Fine-tuned on LIONSBERG corpus
+- **AI Model**: Fine-tuned on LIØNSBERG corpus
 - **RAG System**: Retrieval-augmented generation for contextual responses
 - **Rule Engine**: Game logic, quest workflows, coordination protocols
 - **Analytics**: Pattern recognition, metric calculation, insight generation
@@ -247,7 +247,7 @@ This project bridges the gap between:
 ### Semantic Clarity
 - Complete knowledge graph with all concepts mapped
 - Pattern language catalog with 100+ documented patterns
-- High-quality AI model that understands LIONSBERG context
+- High-quality AI model that understands LIØNSBERG context
 
 ### Computational Power
 - Rule engine that correctly encodes game logic
@@ -273,7 +273,7 @@ This project bridges the gap between:
 
 **Imagine**:
 
-1. Someone awakens at 3am, finds the LIONSBERG link, arrives at README.md
+1. Someone awakens at 3am, finds the LIØNSBERG link, arrives at README.md
 2. They resonate, want to begin
 3. They access the coordination platform
 4. An AI guide (trained on all 2.5M words) helps them understand their context
@@ -302,7 +302,7 @@ This project bridges the gap between:
    - Validate the approach
 
 2. **AI Model Experiment**
-   - Fine-tune a small model on LIONSBERG subset
+   - Fine-tune a small model on LIØNSBERG subset
    - Test question-answering capability
    - Evaluate contextual understanding
    - Assess feasibility

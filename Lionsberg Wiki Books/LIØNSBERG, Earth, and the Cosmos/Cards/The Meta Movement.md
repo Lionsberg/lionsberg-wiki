@@ -10,7 +10,7 @@ captured: 2026-05-19
 
 The total set of all Groups of Groups working together toward The Goal.
 
-[[The Rising Movement]] names the body in motion. [[The Force For Good]] names that body under wartime activation. **The Meta Movement** names the **planetary aggregate** that emerges when many Movements federate around [[ØNE|ONE]] and converge on [[The Goal]].
+[[The Rising Movement]] names the body in motion. [[The Force For Good]] names that body under wartime activation. **The Meta Movement** names the **planetary aggregate** that emerges when many Movements federate around [[ØNE|ØNE]] and converge on [[The Goal]].
 
 The distinction is important. A Movement is a body — focused on a specific Issue, oriented toward a specific Cause, animated by a specific Inspiration. There are many Movements. There always have been. The climate movement. The food sovereignty movement. The indigenous rights movement. The healing-justice movement. The cooperative economics movement. The sacred-feminine movement. The conscious-fatherhood movement. The men's circle movement. The decentralization movement. The integral education movement. Each is real. Each is doing genuine work. Each is partial.
 
@@ -19,7 +19,7 @@ The Meta Movement is what arises when **the Movements recognize each other as fa
 The Meta Movement has structural properties:
 
 - **It is a Movement of Movements.** Not a single movement with branches. Not a coalition. Not an umbrella organization. A **federation of sovereign Movements** that have recognized their interdependence and begun coordinating without surrendering identity.
-- **It is held by ONE, not by any human organization.** No central headquarters. No founding institution. The convergence is **resonant**, not administrative. The Movements recognize each other by alignment with the same underlying Pattern — even though they articulate it in different languages, through different cultural forms, and serve different specific Causes.
+- **It is held by ØNE, not by any human organization.** No central headquarters. No founding institution. The convergence is **resonant**, not administrative. The Movements recognize each other by alignment with the same underlying Pattern — even though they articulate it in different languages, through different cultural forms, and serve different specific Causes.
 - **It is operationally observable.** Look at the people in any of the constituent Movements who are deepest in the work, and you will find them showing up in multiple Movements — the climate worker who also runs a Circle, the cooperative founder who also teaches meditation, the parable-teller who also organizes the bioregional food council. The cross-pollination at the edges is the Meta Movement appearing.
 - **It is what LIØNSBERG is gathering toward.** The Codex does not claim to BE the Meta Movement. The Codex offers a **language and architecture** within which many Movements can recognize each other and coordinate. LIØNSBERG is **one Movement among many** in the Meta Movement. The Pattern's articulation aspires to be useful to the whole.
 - **It is required for planetary transition.** A single Movement, however powerful, cannot accomplish the planetary transition. The transition requires the **integrated convergence of all the genuine Movements** that have been laying foundations for decades — sometimes centuries. The Meta Movement is the form that integration takes when it actually happens.

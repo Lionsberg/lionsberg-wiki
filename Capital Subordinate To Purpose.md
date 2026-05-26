@@ -40,7 +40,7 @@ ___
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 The economic system is built around **[[Meaningful Work]] and time**, not profit extraction:
 

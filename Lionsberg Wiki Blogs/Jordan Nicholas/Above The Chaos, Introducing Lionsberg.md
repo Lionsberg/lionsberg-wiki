@@ -233,7 +233,7 @@ Beyond this basic flow of Communication and [[Conscious Awareness]], we will beg
 
 "Body" and "Mosaic" are [[Metaphors]] we use to help us understand the [[Higher Order Functional Unity]] we are [[All]] being invited up into. 
 
-Since our near term [[Aim]] is one billion groups within 7 years, and since there is only ONE Body / Mosaic, composed of 1, 7, 12, or 144 major functions at various levels of analysis, it is clear that each major function or domain will eventually be composed of dozens, hundreds, or millions of groups with similar functions. 
+Since our near term [[Aim]] is one billion groups within 7 years, and since there is only ØNE Body / Mosaic, composed of 1, 7, 12, or 144 major functions at various levels of analysis, it is clear that each major function or domain will eventually be composed of dozens, hundreds, or millions of groups with similar functions. 
 
 Each Function / Domain / Tile will have (something like) a [[Guilds|Guild]] to cross-pollinate learning and [[Current Best Understanding]] across groups of similar function. 
 

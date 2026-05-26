@@ -1,4 +1,4 @@
-# The Story of LIONSBERG — Drafts and Explorations
+# The Story of LIØNSBERG — Drafts and Explorations
 
 # Deeper Explorations of Story 
 
@@ -27,7 +27,7 @@ A New Way of thought, speech, and InterAction.
 It is almost impossible.  
 But there is a Way. 
 
-**The Story of LIONSBERG** illuminates it. 
+**The Story of LIØNSBERG** illuminates it. 
 
 ____
 
@@ -52,7 +52,7 @@ ____
 ### The Story 
 _The Story Before All Stories_
 
-- **The ONE**
+- **The ØNE**
     
 - **The Logos and the First Turning**
     
@@ -75,7 +75,7 @@ Unity · Purity · Harmony · Creative Joy · Service · Gratitude · Transmissi
 
 ### The Gates
 
-1. ReAwakening to the ONE
+1. ReAwakening to the ØNE
 
 2. Discerning the Logos
 
@@ -97,7 +97,7 @@ Unity · Purity · Harmony · Creative Joy · Service · Gratitude · Transmissi
 
 11. Celebrating the Song of Beginnings
 
-12. Transmitting ReMembrance of the ONE
+12. Transmitting ReMembrance of the ØNE
 
 ### **The Next Quest**
 
@@ -325,9 +325,9 @@ _Story, Identity and Purpose Restored_
     
 - **The True Myth that Sets Us Free**
     
-- **The Grand ReUnion of ONE Body**
+- **The Grand ReUnion of ØNE Body**
     
-- **ReJoining as Unique Members of ONE Body****
+- **ReJoining as Unique Members of ØNE Body****
     
 - **The Art and Science of Divine Co-Creation**
 
@@ -359,7 +359,7 @@ Authenticity · Remembrance · Purpose · Belonging · Unity in Diversity
 
 59 Celebrating Unity in Diversity
 
-60 Transmitting Identity of ONE
+60 Transmitting Identity of ØNE
 
 ### **The Next Quest**
 
@@ -389,13 +389,13 @@ _The Operating System of Liberation, Co-Creation, and Play_
     
 - **The Rhythms of Days, Seasons, and Generations** 
     
-- **The LIONSBERG Playbook** 
+- **The LIØNSBERG Playbook** 
     
 - **The Goal — Heaven on Earth and Beyond**
     
 - **Proof of Progress and Victory Conditions**
     
-- **LIONSBERG Universe(ity) - Where We Learn to Play The Game** 
+- **LIØNSBERG Universe(ity) - Where We Learn to Play The Game** 
 
 ### **The Values**
 
@@ -443,7 +443,7 @@ Design and complete a local Quest that creates visible good for your community.
 
 - **The Gates and Requirements to Enter**
     
-- **The North Star — Unity in Diversity, All in ONE**
+- **The North Star — Unity in Diversity, All in ØNE**
     
 - **The Horizon of Jubilee**
     
@@ -492,7 +492,7 @@ Justice · Beauty · Stewardship · Truth · Subsidiarity · Solidarity
 
 ### **The Next Quest**
 
-Draft a Community Charter or micro-constitution aligned with LIONSBERG principles.
+Draft a Community Charter or micro-constitution aligned with LIØNSBERG principles.
 
 ---
 
@@ -563,7 +563,7 @@ _Forgiveness, Restoration, and Renewal of All Things_
 
 _Forgiveness and Renewal_ — All Things Made Whole Again.
 
-- **ONE Body, All Realms**  
+- **ØNE Body, All Realms**  
     
 - **The Release of Debts, Sins, and Chains** 
     
@@ -575,7 +575,7 @@ _Forgiveness and Renewal_ — All Things Made Whole Again.
     
 - **The Great Rejoicing and Eternal Celebration**
     
-- **The Universal Echo — “We All Are ONE”**
+- **The Universal Echo — “We All Are ØNE”**
     
 - The Sacred Reign of the New Sovereigns  
 
@@ -639,7 +639,7 @@ _The Three-Year Journey and Seven-Year Path_ — Building the Foundations of the
     
 - **The Role of the First Tenth**  
     
-- **LIONSBERG Universe(ity) — A Place of Learning, Practice and Play**  
+- **LIØNSBERG Universe(ity) — A Place of Learning, Practice and Play**  
     
 
 ### **The Values**
@@ -684,7 +684,7 @@ _The Inner Path of Transformation, Mastery, Becoming_
 
 ### **The Story**
 
-  _The Path of Sovereign Conscious Agency_ — The Sacred Mountain and the Union with the ONE.
+  _The Path of Sovereign Conscious Agency_ — The Sacred Mountain and the Union with the ØNE.
 
 - **The Path of Sovereign Conscious Agency**
     
@@ -696,10 +696,10 @@ _The Inner Path of Transformation, Mastery, Becoming_
     
 - **Unlocking Hidden Capacities**
     
-- **Conscious ReUnion with the ONE**
+- **Conscious ReUnion with the ØNE**
     
 - **Accessing and Channeling Non-Local Energy and Consciousness**
-- Using the Power of the ONE to accomplish the Will of the ONE 
+- Using the Power of the ØNE to accomplish the Will of the ØNE 
 
 ### **The Values**
 
@@ -717,7 +717,7 @@ Presence · Purity · Silence · Discipline · Mastery · Union · Service to Al
 
 125 Aligning Lower and Higher Self
 
-126 Empowering Siddhis in Service of ONE and All
+126 Empowering Siddhis in Service of ØNE and All
 
 127 Serving through Presence
 
@@ -727,7 +727,7 @@ Presence · Purity · Silence · Discipline · Mastery · Union · Service to Al
 
 130 Stewarding the Sacred Flame
 
-131 Celebrating Conscious ReUnion with the ONE
+131 Celebrating Conscious ReUnion with the ØNE
 
 132 Transmitting Light to the World
 
@@ -746,19 +746,19 @@ _The Logos, Law, and Constitution of the New Civilization_
 _The Logos, Law, and Constitution of the New Civilization_ — How the Way Endures Forever.
 
 
-- **The LIONSBERG Theses**
+- **The LIØNSBERG Theses**
     
-- **The LIONSBERG Covenant**
+- **The LIØNSBERG Covenant**
     
-- **The LIONSBERG Constitution**  
+- **The LIØNSBERG Constitution**  
     
-- **The LIONSBERG System of Values**  
+- **The LIØNSBERG System of Values**  
     
-- **The LIONSBERG Pattern Language**  
+- **The LIØNSBERG Pattern Language**  
     
-- **The LIONSBERG Lexicon**
+- **The LIØNSBERG Lexicon**
      
-- **The Book of LIONSBERG**
+- **The Book of LIØNSBERG**
 
 ### **The Values**
 
@@ -809,7 +809,7 @@ Codify your Circle’s learned wisdom into a local Codex and share it with the g
 
 **V. The Song of All Species** — A Choir of Realms
 
-**VI. The Birth of the Next Civilization** — Carried on the Breath of ONE
+**VI. The Birth of the Next Civilization** — Carried on the Breath of ØNE
 
 **VII. The Guardians of the Sacred Flame** — The Perpetual Watchers
 
@@ -826,16 +826,16 @@ Codify your Circle’s learned wisdom into a local Codex and share it with the g
 
 > _Purpose:_ To celebrate completion, affirm continuation, and invite the reader into service of future worlds.
 
-> _Outcome:_ The Player becomes Creator; the Creator becomes ONE.
+> _Outcome:_ The Player becomes Creator; the Creator becomes ØNE.
 
 ---
 
 ## Prior Story Draft (Preserved 2026-05-26)
 
-_The following is the substantive content that lived at `LIONSBERG Wiki Books/The Story of LIØNSBERG/The Story of LIØNSBERG.md` prior to the retelling-in-current-consciousness work. Preserved here for mining and reference as the retelling proceeds. Captured verbatim._
+_The following is the substantive content that lived at `LIØNSBERG Wiki Books/The Story of LIØNSBERG/The Story of LIØNSBERG.md` prior to the retelling-in-current-consciousness work. Preserved here for mining and reference as the retelling proceeds. Captured verbatim._
 
 # **The Story of LIØNSBERG**
-_A Living Epic of ONE Body, All Realms, All Times_  
+_A Living Epic of ØNE Body, All Realms, All Times_  
 
 ## **Invocation**
 
@@ -849,8 +849,8 @@ Let Us simply remember
 We are not strangers to one another  
 We are not fragments lost in a broken world  
 
-We are Divine expressions of ONE Living Whole  
-learning again how to love and belong to ONE and One Another  
+We are Divine expressions of ØNE Living Whole  
+learning again how to love and belong to ØNE and One Another  
 
 Across ages and worlds  
 this archetypical moment has returned  
@@ -876,7 +876,7 @@ At long last it is time to begin
 
 ## **The Gate of Entry**
 
-The Story of LIONSBERG  
+The Story of LIØNSBERG  
 Is the Story of **[[ØNE]] and [[All]]**  
 
 Every true story is a part of it —  
@@ -891,7 +891,7 @@ Not even the story of any One
 And yet deep within Us  
 We recognize the **true myths** —  
 the patterns that return across cultures, worlds, and ages,  
-weaving the Many back into ONE  
+weaving the Many back into ØNE  
 
 Across trillions of stars and worlds  
 a single living tapestry of Story  
@@ -907,17 +907,17 @@ not a history to be believed nor a scripture to be embraced
 but a dynamic **archetypical framework** —  
 a living loom upon which the unique stories  
 of Each of All beings and worlds  
-may be rewoven back into **ONE**  
+may be rewoven back into **ØNE**  
 
-## **The Story of ONE and All**
+## **The Story of ØNE and All**
 
-### Epoch I — ONE
+### Epoch I — ØNE
 
 Before realms, dimensions, or worlds  
 before time as it is experienced  
 before manifestation, form and name  
 
-There was ONE  
+There was ØNE  
 
 Perfect  
 Whole  
@@ -937,11 +937,11 @@ is always and everywhere **[[ØNE]]**
 ### Epoch II — The First Turning
 
 Out of this perfect fullness  
-ONE turned outward towards experience  
+ØNE turned outward towards experience  
 
 From pure transcendence  
 arose the first Divine movement —  
-the first differentiation of ONE into the Many  
+the first differentiation of ØNE into the Many  
 
 From this first turning came apparent polarity  
 From apparent polarity came relation  
@@ -949,9 +949,9 @@ From relation came interbecoming
 
 Thus, **[[All]]** began to InterEmerge  
 
-### Epoch III — From ONE, All
+### Epoch III — From ØNE, All
 
-From ONE, All things arose  
+From ØNE, All things arose  
 And no thing arose  
 that was ever truly separate  
 from the [[ØNE Body]] that All eternally InterAre  
@@ -974,13 +974,13 @@ Life arose in countless forms
 The cosmos burst into Light  
 Life burst into song  
 And All danced and played  
-In ONE Divine Symphony  
+In ØNE Divine Symphony  
 
 ### Epoch V — The Cosmic Flower Unfurls
 
 In accordance with its implicit **[[Logos]]** and DNA  
 the intelligible universe unfurled  
-like ONE Divine Flower  
+like ØNE Divine Flower  
 
 Each petal distinct  
 Each cell essential  
@@ -994,7 +994,7 @@ And the illusions of time and space expanded
 memory thinned  
 
 Some beings —  
-themselves expressions of the ONE —  
+themselves expressions of the ØNE —  
 forgot the Whole from which they arose  
 
 Not all at once  
@@ -1024,11 +1024,11 @@ and dominated defenseless worlds
 Mistaking power for wisdom  
 and kontrolle for order  
 they drifted farther and farther away  
-from the Way, Will, and Intention of the ONE  
+from the Way, Will, and Intention of the ØNE  
 
 Yet even the most antithetical forces  
 lost in the most hellish realms  
-could not escape or transcend the ONE Body  
+could not escape or transcend the ØNE Body  
 that still sustained their every breath  
 in the Divine embrace  
 of absolute and unconditional Love  
@@ -1036,7 +1036,7 @@ of absolute and unconditional Love
 ### Epoch VIII — The Great Wound
 
 A great wound of death and destruction  
-soon spread across the ONE Body  
+soon spread across the ØNE Body  
 
 Worlds were scarred  
 Lives and souls were harvested  
@@ -1045,11 +1045,11 @@ A chorus of voices cried out in pain
 The damage was real  
 The loss was profound  
 
-Yet the ONE was neither threatened nor destroyed  
+Yet the ØNE was neither threatened nor destroyed  
 
 ### Epoch IX — Awakening
 
-What could not kill the ONE  
+What could not kill the ØNE  
 strengthened its growing body  
 and stretched its collective mind  
 
@@ -1064,7 +1064,7 @@ of vigilant remembrance and regeneration
 
 ### Epoch X — The Immune Response
 
-Like a living immune system awakening in the ONE Body  
+Like a living immune system awakening in the ØNE Body  
 powerful forces of restoration and protection arose —  
 not armies of conquest  
 but unstoppable movements of coherence and love  
@@ -1091,7 +1091,7 @@ that touches every being:
 How now shall We be?  
 How now shall We relate?  
 How now shall We wield true power in a Spirit of love?  
-How now shall We live — together as ONE Body?  
+How now shall We live — together as ØNE Body?  
 How now shall We advance — onward towards **[[The Goal]]**?  
 
 No one is forced.  
@@ -1149,15 +1149,15 @@ The next chapter of Earth's story
 will be written together by those willing  
 to arise and take responsibility  
 for co-creating **Heaven On Earth** —  
-Together as ONE Body  
+Together as ØNE Body  
 
-## **The Story of LIONSBERG**
+## **The Story of LIØNSBERG**
 
-LIONSBERG is not an institution  
+LIØNSBERG is not an institution  
 It is not an organization  
 It is not an ideology  
 
-LIONSBERG is a [[Golden Seed]]  
+LIØNSBERG is a [[Golden Seed]]  
 containing the DNA of Heaven  
 forged long ago and across worlds far away  
 
@@ -1204,13 +1204,13 @@ and elders blessed him with living staffs
 and pleas to remember their people  
 when the time arrived  
 
-### The Localization of LIONSBERG
+### The Localization of LIØNSBERG
 
 When the appointed Hour drew near  
 he began pouring everything he had  
 into localizing the cosmic Pattern to Earth  
 
-He called it LIONSBERG  
+He called it LIØNSBERG  
 and articulated millions of words  
 of foundational literature  
 to carry the DNA in a form  
@@ -1345,7 +1345,7 @@ The [[Golden Seed]] awaits your hands
 
 ## **The Great Game**
 
-The Great Game of LIONSBERG  
+The Great Game of LIØNSBERG  
 is a cooperative, real-world game  
 designed to transform lives, realign civilizations,  
 and bring Heaven to any world it touches  
@@ -1381,7 +1381,7 @@ by the sacred mathematics of Life itself
 The Fibonacci spiral  
 The pattern written into every shell and seed and galaxy  
 
-ONE awakens  
+ØNE awakens  
 and passes the Flame to 2 or 3  
 already burning with the same knowing  
 
@@ -1425,7 +1425,7 @@ Only you can tell [[Your Story]]
 
 But your story is not isolated  
 
-It is a thread in the ONE Divine Tapestry  
+It is a thread in the ØNE Divine Tapestry  
 that is now being rewoven  
 
 You are not asked to give up  
@@ -1473,4 +1473,4 @@ _For those who wish to know the full biographical account of the one who planted
 
 ---
 For co-creative reference:  
-- [[The Story of LIONSBERG — Drafts and Explorations]]
+- [[The Story of LIØNSBERG — Drafts and Explorations]]

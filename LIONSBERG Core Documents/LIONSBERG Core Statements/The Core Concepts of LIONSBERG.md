@@ -1,8 +1,8 @@
-# **The Core Concepts of LIONSBERG**
+# **The Core Concepts of LIØNSBERG**
 
 ### **The Foundations of a New Civilization**
 
-LIONSBERG is built upon **Core Concepts**—principles, values, frameworks, and fundamental Truths that form the **bedrock of The New Civilization**.
+LIØNSBERG is built upon **Core Concepts**—principles, values, frameworks, and fundamental Truths that form the **bedrock of The New Civilization**.
 
 These are not **theories**.  
 These are not **philosophies**.  
@@ -10,7 +10,7 @@ These are **Reality-aligned Truths**—the **Living Code** from which We **resto
 
 By integrating these principles into **thought, word, and action**, We align with the **[[Creator's Intent]]** and activate **Heaven on Earth.**
 
-The following are among the **Core Concepts of LIONSBERG.**
+The following are among the **Core Concepts of LIØNSBERG.**
 
 ---
 
@@ -59,9 +59,9 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ## **II. The Core Structures**
 
-### **5. The LIONSBERG System**
+### **5. The LIØNSBERG System**
 
-- **LIONSBERG is an emergent Living System.**
+- **LIØNSBERG is an emergent Living System.**
 - It is **not an institution, not a government, not a movement—it is a Meta System of Sovereign Networks and Nodes.**
 - It is built on **Self-Governance, Fractal Design, and Mutual Aid,** operating holonically across the Cosmos. 
 
@@ -198,11 +198,11 @@ The following are among the **Core Concepts of LIONSBERG.**
 
 ## **V. The Final Word**
 
-LIONSBERG is **not a movement.**  
-LIONSBERG is **not a government.**  
-LIONSBERG is **not an institution.**  
+LIØNSBERG is **not a movement.**  
+LIØNSBERG is **not a government.**  
+LIØNSBERG is **not an institution.**  
 
-LIONSBERG is **a living, breathing New Civilization, the Golden Seed of Heaven on Earth, rising from the ashes of the Old.**
+LIØNSBERG is **a living, breathing New Civilization, the Golden Seed of Heaven on Earth, rising from the ashes of the Old.**
 
 It is **a Nation without borders.**  
 It is **a Kingdom without a king.**  
@@ -218,6 +218,6 @@ You are here because **you are called to Build, Protect, Nurture, and Lead.**
 
 **Welcome to The Work.**  
 **Welcome to The Future.**  
-**Welcome to LIONSBERG.**
+**Welcome to LIØNSBERG.**
 
 **Now, We Begin.**

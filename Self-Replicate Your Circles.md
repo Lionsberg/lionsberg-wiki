@@ -24,7 +24,7 @@ Each mature Circle plants new Circles by [[Pass The Flame|Passing The Flame]]. E
 
 The pattern unfolds naturally:
 
-- ONE becomes 1, becomes 2, becomes 3
+- ØNE becomes 1, becomes 2, becomes 3
 - 3 become 5 become 8 become 13
 - 13 become 21 become 34 become 55 become 144
 - 144 become thousands, become millions

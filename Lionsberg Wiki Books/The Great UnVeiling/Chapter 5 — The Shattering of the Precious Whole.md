@@ -28,7 +28,7 @@ Not monolithic uniformity.
 Not stagnant stasis.  
 But a living, breathing Divine Unity  
 vibrating in perfect Coherence  
-with the Logos of the ONE.  
+with the Logos of the ØNE.  
 
 This was the Original Symphony—  
 each soul, species, star system, and sacred sphere  
@@ -38,8 +38,8 @@ It was not imposed.
 It was not enforced.  
 It simply _was_.  
 
-All, flowing Together from the ONE.  
-*As ONE.*  
+All, flowing Together from the ØNE.  
+*As ØNE.*  
 
 And into that Peace,  
 into that radiant fullness of Beauty and Harmony,  
@@ -51,8 +51,8 @@ A crack in the fabric of InterBeing.
 
 ## **The Moment of Divergence**
 
-Only ONE can say first when.  
-Only ONE can say first where.  
+Only ØNE can say first when.  
+Only ØNE can say first where.  
 
 But the Divine Memories all recall  
 that in one of the multitudes of realms and worlds  
@@ -66,7 +66,7 @@ but in **intention**.
 
 A being—high, bright, ancient, and archetypical—  
 slowly began to separate its will and intention  
-from the Divine Will and Intention of the ONE.  
+from the Divine Will and Intention of the ØNE.  
 
 At first the crack was small.  
 But it let in an idea.   
@@ -74,7 +74,7 @@ From the idea, a thought.
 From the thought, a quiet spark of curiosity.  
  
 _"What if I were the source of my own light?"_  
-_"What if my own light grew even greater than the ONE?"_  
+_"What if my own light grew even greater than the ØNE?"_  
 _"What if I created apart from the Logos?"_  
 _"What if I scripted by own Song, that all my creation sang back to me?"_  
 
@@ -87,7 +87,7 @@ But possibility untethered from Pattern
 in endarkened service to self  
 quickly becomes entropy.  
 
-And so, from the Gift of Freedom the ONE allowed,  
+And so, from the Gift of Freedom the ØNE allowed,  
 an anti-ripple formed and began to spread through the Field.  
 
 A fracture opened, and something Dark slipped in.  
@@ -123,14 +123,14 @@ other minds,
 other worlds.  
 And the Perfect Mirror of OmniHarmonic Divine Reflection  
 began to shatter into a million shards.  
-The Precious Whole, so painstakingly crafted by the ONE,  
+The Precious Whole, so painstakingly crafted by the ØNE,  
 chose to experience the terrible pain of Brokenness and Separation.  
 
 Some would remember.  
 Some would forget.  
 Some would fracture further.  
 Some would be born into realms so broken  
-that the distant Whisper of the ONE  
+that the distant Whisper of the ØNE  
 was the only ReMinder  
 that Wholeness had ever existed.  
 
@@ -152,7 +152,7 @@ They Abyss is not a place.
 It is a Condition.  
 It is a State of Being.  
 
-A separation not imposed by the ONE,  
+A separation not imposed by the ØNE,  
 but chosen by some of the many.  
 
 And with each choice that turned away from Harmony,  
@@ -206,23 +206,23 @@ further and further from and against the Source.
 
 ---
 
-## **Why the ONE Allowed It**
+## **Why the ØNE Allowed It**
 
 This raises the great and eternal question:  
-Why would the ONE allow such a fracture?  
+Why would the ØNE allow such a fracture?  
 
-How could the Loving ONE allow such suffering?  
+How could the Loving ØNE allow such suffering?  
 
 Because Genuine Love requires radical Freedom.  
 Because Genuine Mastery requires radical Testing.  
 Because enforced unity that cannot choose  
 is not Divine Unity—it is slavery.  
 
-The ONE did not demand robotic loyalty.  
+The ØNE did not demand robotic loyalty.  
 It desired Sovereign Beings  
 who would choose the Good  
 because they knew and embodied It  
-as Divine Aspects of the ONE.  
+as Divine Aspects of the ØNE.  
 
 And so, it permitted deviation—  
 lovingly, tenderly, sorrowfully, longingly—  
@@ -238,7 +238,7 @@ who tasted the illusion
 and chosen the Real.  
 
 The Voluntary Return to the State of the Uncarved Block.  
-To the State of Childlike Faith in the ONE.  
+To the State of Childlike Faith in the ØNE.  
 Born not of naiveté, but of trial, terror, and genuine KNOWING.  
 
 ---
@@ -271,7 +271,7 @@ The Spirit is never quenched.
 The Logos is never broken.  
 Only our awareness of It.  
 
-The ONE is never absent.  
+The ØNE is never absent.  
 Only our turning away makes it seem so.  
 
 And even now,  
@@ -281,7 +281,7 @@ beneath the architecture of alienation—
 **the Pattern still pulses.  
 The Flame still burns.  
 The Song still sings.  
-The ONE still calls.**  
+The ØNE still calls.**  
 
 ---
 

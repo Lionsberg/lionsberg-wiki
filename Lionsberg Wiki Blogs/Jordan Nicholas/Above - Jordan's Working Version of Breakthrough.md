@@ -1193,7 +1193,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - Dr. Chris Luebkeman – ETH Switzerland: [https://ethz.ch/en/the-eth-zurich/organisation/staff-units/office-of-the-president/chris-luebkeman.html](https://ethz.ch/en/the-eth-zurich/organisation/staff-units/office-of-the-president/chris-luebkeman.html)
 
-- Dr. Chris Luebkeman - Y(OUR) Future (UN)INTENDED – WHAT IS IT YOU PLAN TO DO WITH YOUR ONE WILD AND PRECIOUS LIFE?: [https://vimeo.com/502822983](https://vimeo.com/502822983)
+- Dr. Chris Luebkeman - Y(OUR) Future (UN)INTENDED – WHAT IS IT YOU PLAN TO DO WITH YOUR ØNE WILD AND PRECIOUS LIFE?: [https://vimeo.com/502822983](https://vimeo.com/502822983)
 
 - DIRK ROSEN – MARE – MARINE PROTECTED AREAS: [https://www.linkedin.com/in/dirk-rosen-b551204/](https://www.linkedin.com/in/dirk-rosen-b551204/)
 
@@ -1415,7 +1415,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - THE THEORY THAT COULD REWRITE THE LAWS OF PHYSICS: [https://www.youtube.com/watch?v=yb0y6MRwmd4](https://www.youtube.com/watch?v=yb0y6MRwmd4)
 
-- ALAN WATTS - DEATH – ONE OF THE GREAT WONDERS OF LIFE: [https://www.youtube.com/watch?v=V3jH4rWh12Q](https://www.youtube.com/watch?v=V3jH4rWh12Q)
+- ALAN WATTS - DEATH – ØNE OF THE GREAT WONDERS OF LIFE: [https://www.youtube.com/watch?v=V3jH4rWh12Q](https://www.youtube.com/watch?v=V3jH4rWh12Q)
 
 - DR. JOHN CAMPBELL – YOUTUBE: [https://www.youtube.com/channel/UCF9IOB2TExg3QIBupFtBDxg](https://www.youtube.com/channel/UCF9IOB2TExg3QIBupFtBDxg)
 
@@ -2205,11 +2205,11 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - STARLINK LIVE 24/7 – LAUNCHES REPLY: [https://www.youtube.com/watch?v=T2LDbKlOZMI](https://www.youtube.com/watch?v=T2LDbKlOZMI)
 
-- ONE EARTH NAVIGATOR: [https://www.oneearth.org/navigator/](https://www.oneearth.org/navigator/)
+- ØNE EARTH NAVIGATOR: [https://www.oneearth.org/navigator/](https://www.oneearth.org/navigator/)
 
-- ONE EARTH – GLOBAL SAFETY NET: [https://www.globalsafetynet.app/viewer/](https://www.globalsafetynet.app/viewer/)
+- ØNE EARTH – GLOBAL SAFETY NET: [https://www.globalsafetynet.app/viewer/](https://www.globalsafetynet.app/viewer/)
 
-- ONE EARTH – BIOREGIONS: [https://www.oneearth.org/bioregions-2020/](https://www.oneearth.org/bioregions-2020/)
+- ØNE EARTH – BIOREGIONS: [https://www.oneearth.org/bioregions-2020/](https://www.oneearth.org/bioregions-2020/)
 
 - At One Ventures - Tom Chi: [https://www.atoneventures.com/](https://www.atoneventures.com/)
 
@@ -2247,7 +2247,7 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - VERITASIUM – WHY GRAVITY IS NOT A FORCE: [https://www.youtube.com/watch?v=XRr1kaXKBsU](https://www.youtube.com/watch?v=XRr1kaXKBsU)
 
-- VERITASIUM – WHY NO ONE HAS MEASURED THE SPEED OF LIGHT: [https://www.youtube.com/watch?v=pTn6Ewhb27k](https://www.youtube.com/watch?v=pTn6Ewhb27k)
+- VERITASIUM – WHY NO ØNE HAS MEASURED THE SPEED OF LIGHT: [https://www.youtube.com/watch?v=pTn6Ewhb27k](https://www.youtube.com/watch?v=pTn6Ewhb27k)
 
 - The Promise of Human Regeneration: Forever Young: [https://www.youtube.com/watch?v=e0vKOYQUmgg](https://www.youtube.com/watch?v=e0vKOYQUmgg)
 
@@ -2547,11 +2547,11 @@ We have relationships with top firms in the world of global data, foresight, ris
 
 - GREEN MIND THEORY: HOW BRAIN-BODY-BEHAVIOUR LINKS INTO NATURAL AND SOCIAL ENVIRONMENTS FOR HEALTHY HABITS: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5551144/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5551144/)
 
-- BIOREGIONS 2020 / ONE EARTH: [https://www.oneearth.org/bioregions-2020/](https://www.oneearth.org/bioregions-2020/)
+- BIOREGIONS 2020 / ØNE EARTH: [https://www.oneearth.org/bioregions-2020/](https://www.oneearth.org/bioregions-2020/)
 
 - GLOBAL SAFETY NET – BIOREGIONS: [https://www.globalsafetynet.app/viewer/](https://www.globalsafetynet.app/viewer/)
 
-- ONE EARTH NAVIGATOR: [https://www.oneearth.org/navigator/](https://www.oneearth.org/navigator/)
+- ØNE EARTH NAVIGATOR: [https://www.oneearth.org/navigator/](https://www.oneearth.org/navigator/)
 
 - ERIC BERLOW: [https://www.ericberlow.com/](https://www.ericberlow.com/)
 
@@ -3477,7 +3477,7 @@ Left off here
 
 - YUKON TERRITORY REPORT – 2020: [https://yukon.ca/sites/yukon.ca/files/env/env-yukon-state-environment-report-2020.pdf](https://yukon.ca/sites/yukon.ca/files/env/env-yukon-state-environment-report-2020.pdf)
 
-- BBC EARTH – ONE HOUR OF AMAZING OCEAN MOMENTS: [https://www.youtube.com/watch?v=CSgDjZ_Vv8g](https://www.youtube.com/watch?v=CSgDjZ_Vv8g)
+- BBC EARTH – ØNE HOUR OF AMAZING OCEAN MOMENTS: [https://www.youtube.com/watch?v=CSgDjZ_Vv8g](https://www.youtube.com/watch?v=CSgDjZ_Vv8g)
 
 - BBC – Manta Rays inspire new device to filter micro-plastics: [https://www.bbc.com/news/av/science-environment-58573451](https://www.bbc.com/news/av/science-environment-58573451)
 
@@ -3607,7 +3607,7 @@ Left off here
 
 - SUSTAINABLE OCEAN ALLIANCE: [https://www.soalliance.org/](https://www.soalliance.org/)
 
-- ONE BLUE OCEAN: [https://oneblueocean.org/](https://oneblueocean.org/)
+- ØNE BLUE OCEAN: [https://oneblueocean.org/](https://oneblueocean.org/)
 
 - HENTHORNE: [https://henthorne.com/about/ocean-advocacy/](https://henthorne.com/about/ocean-advocacy/)
 
@@ -3733,7 +3733,7 @@ Left off here
 
 - THE SEVEN BEST COMPOSTING TOILETS OF 2022: [https://www.thespruce.com/best-composting-toilets-4693560](https://www.thespruce.com/best-composting-toilets-4693560)
 
-- BIONEERS – PUBLIC HEALTH / PLANETARY HEALTH / ONE HEALTH: [https://www.youtube.com/watch?v=WnVMkfEEbhc](https://www.youtube.com/watch?v=WnVMkfEEbhc)
+- BIONEERS – PUBLIC HEALTH / PLANETARY HEALTH / ØNE HEALTH: [https://www.youtube.com/watch?v=WnVMkfEEbhc](https://www.youtube.com/watch?v=WnVMkfEEbhc)
 
 - WHY LIFESTYLE IS THE BEST MEDICINE / MEAGAN L. GREGA / TEDXLEHIGHRIVER: [https://www.youtube.com/watch?v=efGa8QD8pU4](https://www.youtube.com/watch?v=efGa8QD8pU4)
 
@@ -3991,7 +3991,7 @@ Left off here
 
 - ELECTRIC PLANES – THEY HAVE ARRIVED: [https://www.youtube.com/watch?v=Kj4PE9uATJA](https://www.youtube.com/watch?v=Kj4PE9uATJA)
 
-- QUANTA MAGAZINE – ONE LAB’S QUEST TO BUILD SPACE-TIM OUT OF QUANTUM PARTICLES: [https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/](https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/)
+- QUANTA MAGAZINE – ØNE LAB’S QUEST TO BUILD SPACE-TIM OUT OF QUANTUM PARTICLES: [https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/](https://www.quantamagazine.org/one-labs-quest-to-build-space-time-out-of-quantum-particles-20210907/)
 
 - EXPLOSIVE SCIENCE – PROFESSOR CHRIS BISHOP: [https://www.youtube.com/watch?v=uFQdcKJUijQ](https://www.youtube.com/watch?v=uFQdcKJUijQ)
 
@@ -4003,7 +4003,7 @@ Left off here
 
 - TESLA – EVERYTHING IS THE LIGHT – INTERVIEW WITH NIKOLA TESLA: [https://www.youtube.com/watch?v=177vg1pEGbo](https://www.youtube.com/watch?v=177vg1pEGbo)
 
-- HOW ONE MAN ADVANCED THE WORLD INTO AN NEW ERA / TESLA’S CHILDREN / SPARK: [https://www.youtube.com/watch?v=xPmUjobCfhE](https://www.youtube.com/watch?v=xPmUjobCfhE)
+- HOW ØNE MAN ADVANCED THE WORLD INTO AN NEW ERA / TESLA’S CHILDREN / SPARK: [https://www.youtube.com/watch?v=xPmUjobCfhE](https://www.youtube.com/watch?v=xPmUjobCfhE)
 
 - THE TESLA FILES – HISTORY CHANNEL: [https://www.history.com/shows/the-tesla-files](https://www.history.com/shows/the-tesla-files)
 
@@ -4121,7 +4121,7 @@ Left off here
 
 - VITALIK BUTERIN: ETHEREUM 2.0 / LEX FRIDMAN PODCAST #188: [https://www.youtube.com/watch?v=XW0QZmtbjvs](https://www.youtube.com/watch?v=XW0QZmtbjvs)
 
-- COMPUTER SCIENTIST EXPLAINS ONE CONCEPT IN 5 LEVELS OF DIFFICULTY / WIRED: [https://www.youtube.com/watch?v=fOGdb1CTu5c](https://www.youtube.com/watch?v=fOGdb1CTu5c)
+- COMPUTER SCIENTIST EXPLAINS ØNE CONCEPT IN 5 LEVELS OF DIFFICULTY / WIRED: [https://www.youtube.com/watch?v=fOGdb1CTu5c](https://www.youtube.com/watch?v=fOGdb1CTu5c)
 
 - RegenBiomass – Phil Cruver: [https://www.regenbiomass.com/team](https://www.regenbiomass.com/team)
 
@@ -5075,7 +5075,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FUTURE OF HUMANITY INSTITUTE UNIVERSITY OF OXFORD – REFRAMING SUPERINTELLIGENCE – COMPREHENSIVE AI SERVICES AS GENERAL ITELLIGENCE – K. ERIC DREXLER: [https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
 
-- DEE HOCK – ONE FROM NAMY: VISA AND THE RISE OF CHAORDIC ORGANIZATION: [https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328](https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328)
+- DEE HOCK – ØNE FROM NAMY: VISA AND THE RISE OF CHAORDIC ORGANIZATION: [https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328](https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328)
 
 - MARKETS AND COMPUTATION: AGORIC OPEN SYSTEMS – MARK S. MILLER / K. ERIC DREXLER: [https://agoric.com/assets/pdf/papers/markets-and-computation-agoric-open-systems.pdf](https://agoric.com/assets/pdf/papers/markets-and-computation-agoric-open-systems.pdf)
 
@@ -5093,7 +5093,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - DOLLAR DONATION CLUB: [https://dollardonationclub.com/](https://dollardonationclub.com/)
 
-- FINDING THAT CONNECTION – NEURONS CONNECTING TO ONE ANOTHER IN A PETRI DISH – GROWTH CONES: [https://www.youtube.com/watch?v=Rvmvt7gscIM](https://www.youtube.com/watch?v=Rvmvt7gscIM)
+- FINDING THAT CONNECTION – NEURONS CONNECTING TO ØNE ANOTHER IN A PETRI DISH – GROWTH CONES: [https://www.youtube.com/watch?v=Rvmvt7gscIM](https://www.youtube.com/watch?v=Rvmvt7gscIM)
 
 - LILA LANDOWSKI - HOW DO NEURONS CONNECT TO EACH OTHERS? BLUE BRAIN PROJECT OPENS NEW INSIGHTS: [https://www.youtube.com/watch?v=ySgmZOTkQA8](https://www.youtube.com/watch?v=ySgmZOTkQA8)
 
@@ -5331,7 +5331,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - CRAIG VENTER – SAMPLING THE OCEAN’S DNA – TED: [https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=en](https://www.ted.com/talks/craig_venter_sampling_the_ocean_s_dna?language=en)
 
-- CRAIG VENTER – OCEANS, HUMAN HEALTH AND THE GENOMIC FUTURE – MICROBES MAKE UP OVER ½ OF THE EARTH’S BIOMASS – EACH ML OF SEA WATER HAS ONE MILLION BACTERIA AND 10 MILLION VIRUSES: [https://www.youtube.com/watch?v=YZZY8Jppmg4](https://www.youtube.com/watch?v=YZZY8Jppmg4)
+- CRAIG VENTER – OCEANS, HUMAN HEALTH AND THE GENOMIC FUTURE – MICROBES MAKE UP OVER ½ OF THE EARTH’S BIOMASS – EACH ML OF SEA WATER HAS ØNE MILLION BACTERIA AND 10 MILLION VIRUSES: [https://www.youtube.com/watch?v=YZZY8Jppmg4](https://www.youtube.com/watch?v=YZZY8Jppmg4)
 
 - CRAIG VENTER – CRACKING THE LONGEVITY CODE: [https://www.youtube.com/watch?v=gNtQmpcNge0](https://www.youtube.com/watch?v=gNtQmpcNge0)
 
@@ -5357,7 +5357,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - F1 EXPLAINED: [https://www.youtube.com/playlist?list=PLJq8Rv5Ns4FfZtrggcCWNKAJ-CNx1gPez](https://www.youtube.com/playlist?list=PLJq8Rv5Ns4FfZtrggcCWNKAJ-CNx1gPez)
 
-- MERCEDES – AMG PETRONAS FORMULA ONE TEAM: [https://www.youtube.com/c/MercedesAMGF1](https://www.youtube.com/c/MercedesAMGF1)
+- MERCEDES – AMG PETRONAS FORMULA ØNE TEAM: [https://www.youtube.com/c/MercedesAMGF1](https://www.youtube.com/c/MercedesAMGF1)
 
 - HAMILTON LANE – NOVATA: [https://www.hamiltonlane.com/en-US/News/694f356b-1e84-4b21-a7dd-6053299b1f87/Non-Profit-For-Profit-Leaders-Form-Novata,-a-New-T?utm_source=GaggleAMP-Hamilton%20Lane&utm_medium=LinkedIn%20(GaggleAMP)&utm_campaign=PR%20(GaggleAMP)&utm_content=were-excited-to-unveil-novata-an-esg-focused-technology-platf-3252754](https://www.hamiltonlane.com/en-US/News/694f356b-1e84-4b21-a7dd-6053299b1f87/Non-Profit-For-Profit-Leaders-Form-Novata,-a-New-T?utm_source=GaggleAMP-Hamilton%20Lane&utm_medium=LinkedIn%20(GaggleAMP)&utm_campaign=PR%20(GaggleAMP)&utm_content=were-excited-to-unveil-novata-an-esg-focused-technology-platf-3252754)
 
@@ -5499,7 +5499,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - MICHAEL GOSNEY / SYNERGETICS PRESS: [https://synergeticpress.com/team/michael-gosney/](https://synergeticpress.com/team/michael-gosney/)
 
-- JUST ONE ORGANICS: [https://justoneorganics.com/](https://justoneorganics.com/)
+- JUST ØNE ORGANICS: [https://justoneorganics.com/](https://justoneorganics.com/)
 
 - FUTURE FIT FOODS: [https://www.futurefitfoods.com/](https://www.futurefitfoods.com/)
 
@@ -5607,7 +5607,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - VALENTINO ROSSI – YAMAHA R1GYTR VR46 EDITION: [https://www.youtube.com/watch?v=8x7z_rg-6iU](https://www.youtube.com/watch?v=8x7z_rg-6iU)
 
-- VALENTINO ROSSI – ONE MORE LAP – EICMA 2021 – FULL EVENT: [https://www.youtube.com/watch?v=IhT9hQ_d_TQ](https://www.youtube.com/watch?v=IhT9hQ_d_TQ)
+- VALENTINO ROSSI – ØNE MORE LAP – EICMA 2021 – FULL EVENT: [https://www.youtube.com/watch?v=IhT9hQ_d_TQ](https://www.youtube.com/watch?v=IhT9hQ_d_TQ)
 
 - VALENTINO ROSSI – VALENTINO ROSSI HAS REGURED / SPECIAL DOCUMENTARY: [https://www.youtube.com/watch?v=B4CkroulVF4](https://www.youtube.com/watch?v=B4CkroulVF4)
 
@@ -5651,7 +5651,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - AYRTON SENNA – 1994 – BBC DOCUMENTARY: [https://www.youtube.com/watch?v=XqpvkfCwcdM](https://www.youtube.com/watch?v=XqpvkfCwcdM)
 
-- AYRTON SENNA – THE GOD OF FORUMLA ONE – INSIDE OUT: [https://www.youtube.com/watch?v=elT8BdLmkDo](https://www.youtube.com/watch?v=elT8BdLmkDo)
+- AYRTON SENNA – THE GOD OF FORUMLA ØNE – INSIDE OUT: [https://www.youtube.com/watch?v=elT8BdLmkDo](https://www.youtube.com/watch?v=elT8BdLmkDo)
 
 - ON ANY SUNDAY 2: [https://www.youtube.com/watch?v=DWAxdl_XeG0](https://www.youtube.com/watch?v=DWAxdl_XeG0)
 
@@ -5717,7 +5717,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FORESIGHT INSTITUTE – THE ECOLOGY OF COMPUTATION: [https://agoric.com/assets/pdf/papers/markets-and-computation-agoric-open-systems.pdf](https://agoric.com/assets/pdf/papers/markets-and-computation-agoric-open-systems.pdf)
 
-- ONE FROM MANY: VISA AND THE RISE OF CHAORDIC ORGANIZATION: [https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328](https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328)
+- ØNE FROM MANY: VISA AND THE RISE OF CHAORDIC ORGANIZATION: [https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328](https://www.amazon.com/One-Many-VISA-Chaordic-Organization/dp/1576753328)
 
 - REFRAMING SUPERINTELLIGENCE: [https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
 
@@ -5735,7 +5735,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - TOM CHI – DOES GOD EXIST? - [https://www.youtube.com/watch?v=rdwzi5mx_3M](https://www.youtube.com/watch?v=rdwzi5mx_3M)
 
-- TOM CHI – WE ARE ONE AND ALL: [https://www.youtube.com/watch?v=p8WwIOyANYE](https://www.youtube.com/watch?v=p8WwIOyANYE)
+- TOM CHI – WE ARE ØNE AND ALL: [https://www.youtube.com/watch?v=p8WwIOyANYE](https://www.youtube.com/watch?v=p8WwIOyANYE)
 
 - TOM CHI – KNOWING IS THE ENEMY OF LEARING: [https://www.youtube.com/watch?v=_WtsMrkfG1w](https://www.youtube.com/watch?v=_WtsMrkfG1w)
 
@@ -5864,7 +5864,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 - [Sadhguru on Squatting and Sitting]([https://www.youtube.com/watch?v=UQ39-Qhc1ZM](https://www.youtube.com/watch?v=UQ39-Qhc1ZM))  
 
 
-- SADHGURU: YOU CAN ADD 26 YEARS IN YOUR LIFE BY DOING THIS ONE THING 9 TIMES EVERYDAY: [https://www.youtube.com/watch?v=KrMNzufc82w](https://www.youtube.com/watch?v=KrMNzufc82w)
+- SADHGURU: YOU CAN ADD 26 YEARS IN YOUR LIFE BY DOING THIS ØNE THING 9 TIMES EVERYDAY: [https://www.youtube.com/watch?v=KrMNzufc82w](https://www.youtube.com/watch?v=KrMNzufc82w)
 
 - SADHGURU: MECHANICS OF HEALTH – “TRY TO FIX THE CAR WHEN IT IS RUNNING” - DR. DEVI PRASAD SHETTY WITH SADHGURU: [https://www.youtube.com/watch?v=lEp3qxdMGmk](https://www.youtube.com/watch?v=lEp3qxdMGmk)
 
@@ -5934,7 +5934,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - FORMULA 1 – STEVE NICHOLS & THE McLAREN MP4/4: [https://www.youtube.com/watch?v=5Mz9nAzsLXU](https://www.youtube.com/watch?v=5Mz9nAzsLXU)
 
-- STEVE NICHOLS: AN ORAL HISTORY OF FORUMLA ONE’S GREATEST ERA (1980 – 2000): [https://www.youtube.com/watch?v=wDE2XzqGV6s](https://www.youtube.com/watch?v=wDE2XzqGV6s)
+- STEVE NICHOLS: AN ORAL HISTORY OF FORUMLA ØNE’S GREATEST ERA (1980 – 2000): [https://www.youtube.com/watch?v=wDE2XzqGV6s](https://www.youtube.com/watch?v=wDE2XzqGV6s)
 
 - THE GREATEST CARS OF THE 20ST CENTURY: [https://www.youtube.com/watch?v=FodQB-EWbEk](https://www.youtube.com/watch?v=FodQB-EWbEk)
 
@@ -6064,7 +6064,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - 7 DIMENSIONS OF DEPRESSION, EXPLAINED / DANIEL GOLEMAN, PETE HOLMES & MORE / BIG THINK: [https://www.youtube.com/watch?v=GnCS_TGYZPA](https://www.youtube.com/watch?v=GnCS_TGYZPA)
 
-- WHY ONE OF AUSTRALIA’S RICHEST FAMILIES IS GIVING AWAY MAJORITY OF MINDING FORTUNE / AUSTRALIAN STORY: https://www.youtube.com/watch?v=IorIaIHvJ_Y
+- WHY ØNE OF AUSTRALIA’S RICHEST FAMILIES IS GIVING AWAY MAJORITY OF MINDING FORTUNE / AUSTRALIAN STORY: https://www.youtube.com/watch?v=IorIaIHvJ_Y
 
 - SUPERHUMAN GENIUSES (EXTRAORDINARY PEOPLE DOCUMENTARY) / REAL STORIES: [https://www.youtube.com/watch?v=wlJEGJvI1UA](https://www.youtube.com/watch?v=wlJEGJvI1UA)
 
@@ -6178,7 +6178,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - GEORGE WESTREN ART – “ZEB”: [https://georgewestren.org/products/zeb?pr_prod_strat=collection_fallback&pr_rec_id=a94ecfed7&pr_rec_pid=7554025488546&pr_ref_pid=7554690449570&pr_seq=uniform](https://georgewestren.org/products/zeb?pr_prod_strat=collection_fallback&pr_rec_id=a94ecfed7&pr_rec_pid=7554025488546&pr_ref_pid=7554690449570&pr_seq=uniform)
 
-- THE ONE HEART MOVEMENT: [https://theoneheartmovement.org/global-initiative](https://theoneheartmovement.org/global-initiative)
+- THE ØNE HEART MOVEMENT: [https://theoneheartmovement.org/global-initiative](https://theoneheartmovement.org/global-initiative)
 
 - WHAT A NUCLEAR BOMB EXPLOSION FEELS LIKE: [https://www.youtube.com/watch?v=dLSaFerdWQE](https://www.youtube.com/watch?v=dLSaFerdWQE)
 
@@ -6233,7 +6233,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - CRAIG NEWMARK PHILANTHROPIES: [https://craignewmarkphilanthropies.org/](https://craignewmarkphilanthropies.org/)
 
-- ONE FOUNDATION: [https://www.weareone.one/](https://www.weareone.one/)
+- ØNE FOUNDATION: [https://www.weareone.one/](https://www.weareone.one/)
 
 - BE THE EARTH FOUNDATION: [https://www.betheearth.foundation/](https://www.betheearth.foundation/)
 
@@ -6323,7 +6323,7 @@ The militaries of the world will be repurposed, using their technology, equipmen
 
 - TWIST BIOSCIENCE: [https://www.twistbioscience.com/](https://www.twistbioscience.com/)
 
-- **ROSWELL BIOTECHNOLOGIES:** [https://www.roswellbiotech.com/](https://www.roswellbiotech.com/)  - **DIGITIZING BIOLOGY TO TRANSFORM ALL OMICS: PUTTING GENOMICS, TRANSCRIPTOMICS, EPIGENOMICS, PROTEOMICS, AND METABOLOMICS ON ONE PLATFORM**
+- **ROSWELL BIOTECHNOLOGIES:** [https://www.roswellbiotech.com/](https://www.roswellbiotech.com/)  - **DIGITIZING BIOLOGY TO TRANSFORM ALL OMICS: PUTTING GENOMICS, TRANSCRIPTOMICS, EPIGENOMICS, PROTEOMICS, AND METABOLOMICS ON ØNE PLATFORM**
 
 - Deep Green: Using Underwater Kites to Generate Clean Electricity: [https://www.power-technology.com/features/underwater-kite-energy/](https://www.power-technology.com/features/underwater-kite-energy/)
 
@@ -7152,7 +7152,7 @@ FATHER GREGORY BOYLE – FOUNDER OF HOMEBOY INDUSTRIES: [https://en.wikipedia.or
 
 FATHER GREG BOYLE IS BECOMING A MYSTIC WITH THE HELP OF FORMER GANG MEMBERS: [https://www.youtube.com/watch?v=NePb3BT2KN0](https://www.youtube.com/watch?v=NePb3BT2KN0)  
 
-ONE OF THE MOST INSPIRATIONAL SPEECHES FROM GANGSTERS / FATHER GREGORY BOYLE / GOALCAST: [https://www.youtube.com/watch?v=zk--XN4ozr8](https://www.youtube.com/watch?v=zk--XN4ozr8)  
+ØNE OF THE MOST INSPIRATIONAL SPEECHES FROM GANGSTERS / FATHER GREGORY BOYLE / GOALCAST: [https://www.youtube.com/watch?v=zk--XN4ozr8](https://www.youtube.com/watch?v=zk--XN4ozr8)  
 
 HOMEBOY INDUSTRIES 2020 / STORIES BEHIND THE MISSION: [https://www.youtube.com/watch?v=JDs9tMB-Wow](https://www.youtube.com/watch?v=JDs9tMB-Wow)  
 
@@ -7540,7 +7540,7 @@ SADHGURU – THE GREATEST FEAR – HOW TO DEAL WITH IT: [https://www.youtube.com
 
 SADHGURU’S FEARLESS & HONEST SPEECH ABOUT WORLD PEACE: [https://www.youtube.com/watch?v=Zh3Urj3jVxc](https://www.youtube.com/watch?v=Zh3Urj3jVxc)  
 
-SADHGURU – ONE POSTURE THAT WILL DRAMATICALLY CHANGE YOUR LIFE: [https://www.youtube.com/watch?v=Y6cupjQzpOw](https://www.youtube.com/watch?v=Y6cupjQzpOw)  
+SADHGURU – ØNE POSTURE THAT WILL DRAMATICALLY CHANGE YOUR LIFE: [https://www.youtube.com/watch?v=Y6cupjQzpOw](https://www.youtube.com/watch?v=Y6cupjQzpOw)  
 
 SADHGURU – SHOCKING!! // MUST DO THIS 2 THING WITH YOUR FEET & INCREASE YOUR BRAIN POWER 500% // SADGHURU MOW: [https://www.youtube.com/watch?v=UQ39-Qhc1ZM](https://www.youtube.com/watch?v=UQ39-Qhc1ZM)  
 
@@ -7614,7 +7614,7 @@ TWELVE LEVERATE POINTS: [https://en.wikipedia.org/wiki/Twelve_leverage_points](h
 
 THE LIMITS TO GROWTH+50 – THE CLUB OF ROME: [https://www.clubofrome.org/ltg50/](https://www.clubofrome.org/ltg50/)  
 
-REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)  
+REGENERATION – ENDING THE CLIMATE CRISIS IN ØNE GENERATION – PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)  
 
 PAUL HAWKEN: [https://paulhawken.com/](https://paulhawken.com/)  
 
@@ -7699,7 +7699,7 @@ TOM CHI – HOW TO SAVE THE PLANET FROM GLOBAL WARMING – MINDVALLEY HQ: [https
 
 TOM CHI – CHANGE ACCELERATOR: INVENTION CATALYST – NEW CAPABILITIES SHAPE OUR BELIEFS OF WHAT’S POSSIBLE AND CAN DRIVE RAPID TRANSFORMATION: [https://vimeo.com/294975140](https://vimeo.com/294975140)  
 
-TOM CHI – AT ONE VENTURES: [https://www.atoneventures.com/](https://www.atoneventures.com/)  
+TOM CHI – AT ØNE VENTURES: [https://www.atoneventures.com/](https://www.atoneventures.com/)  
 
 THE SECRET LIFE OF FORMULA 1: [https://www.youtube.com/watch?v=TApeW5USC1Y](https://www.youtube.com/watch?v=TApeW5USC1Y)  
 
@@ -7862,7 +7862,7 @@ VERITASIUM – THE 4 THINGS IT TAKES TO BE AN EXPERT: [https://www.youtube.com/w
 
 COLLECTIVE DYNAMICS OF SPERM CELLS: [https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0384](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0384)  
 
-A WOMAN’S EGG MAY PREFER ONE SPERM TO ANOTHER: [https://www.webmd.com/infertility-and-reproduction/news/20200610/a-womans-egg-may-prefer-one-sperm-to-another](https://www.webmd.com/infertility-and-reproduction/news/20200610/a-womans-egg-may-prefer-one-sperm-to-another)  
+A WOMAN’S EGG MAY PREFER ØNE SPERM TO ANOTHER: [https://www.webmd.com/infertility-and-reproduction/news/20200610/a-womans-egg-may-prefer-one-sperm-to-another](https://www.webmd.com/infertility-and-reproduction/news/20200610/a-womans-egg-may-prefer-one-sperm-to-another)  
 
 HARMONIC EGG: [https://harmonicegg.com/](https://harmonicegg.com/)  
 
@@ -8067,7 +8067,7 @@ Jacqueline Miller - Partnerships For Change
 
 **JOHAN SCHOTTE FOUNDATION:** [https://johanschottefoundation.org/about/](https://johanschottefoundation.org/about/)  
 
-**TOM CHI – AT ONE VENTURES:** [https://www.atoneventures.com/](https://www.atoneventures.com/)  
+**TOM CHI – AT ØNE VENTURES:** [https://www.atoneventures.com/](https://www.atoneventures.com/)  
 
 **TOM CHI ON MAKING ECOLOGICAL RESTORATION AN IMPERATIVE FOR TECH:** [https://www.youtube.com/watch?v=MDcj7tiVauY](https://www.youtube.com/watch?v=MDcj7tiVauY)  
 
@@ -8129,7 +8129,7 @@ Jacqueline Miller - Partnerships For Change
 
 **THE ART OF LIFE:** [https://www.youtube.com/watch?v=7gUh8j5ui0o](https://www.youtube.com/watch?v=7gUh8j5ui0o)  
 
-**DAVID ROSE – JUST ONE ORGANICS:** [https://justoneorganics.com/pages/about-david](https://justoneorganics.com/pages/about-david)  
+**DAVID ROSE – JUST ØNE ORGANICS:** [https://justoneorganics.com/pages/about-david](https://justoneorganics.com/pages/about-david)  
 
 **SARAH WALKER – RECOGNIZING THE ALIEN IN US:** [https://www.youtube.com/watch?v=vWqVA0s5K3U](https://www.youtube.com/watch?v=vWqVA0s5K3U)  
 
@@ -8309,9 +8309,9 @@ TOM CHI – FUTURE SKILLS TOOLBOX: [https://futureskills.mystrikingly.com/](http
 
 TOM CHI – RAPID PROTOTYPING: [https://www.prototypethinking.live/](https://www.prototypethinking.live/)  
 
-AT ONE VENTURES ABOUT US: [https://www.atoneventures.com/about](https://www.atoneventures.com/about)  
+AT ØNE VENTURES ABOUT US: [https://www.atoneventures.com/about](https://www.atoneventures.com/about)  
 
-TOM CHI – FOUNDER, AT ONE VENTURES: [https://www.youtube.com/watch?v=EhFNJ92VGF8](https://www.youtube.com/watch?v=EhFNJ92VGF8)  
+TOM CHI – FOUNDER, AT ØNE VENTURES: [https://www.youtube.com/watch?v=EhFNJ92VGF8](https://www.youtube.com/watch?v=EhFNJ92VGF8)  
 
 WALTER MUNK FOUNDATION FOR THE OCEANS: [https://www.waltermunkfoundation.org/](https://www.waltermunkfoundation.org/)  
 
@@ -8447,7 +8447,7 @@ KEN WINDES: [https://studylib.net/doc/8819692/the-script---international-transac
 
 **YUVAL HARARI ON THE FUTURE OF JOBS & TECHNOLOGY, INTELLIGENCE VS CONSCIOUSNESS & THREATS TO HUMANITY:** [**https://www.youtube.com/watch?v=GMLjljKBXRA**](https://www.youtube.com/watch?v=GMLjljKBXRA)  
 
-REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – BY PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)    ,     [https://paulhawken.com/](https://paulhawken.com/)  
+REGENERATION – ENDING THE CLIMATE CRISIS IN ØNE GENERATION – BY PAUL HAWKEN: [https://regeneration.org/home](https://regeneration.org/home)    ,     [https://paulhawken.com/](https://paulhawken.com/)  
 
 **AN UNCENSORED HISTORY OF DARPA / ANNIE JACOBSEN / TALKS AT GOOGLE:** [**https://www.youtube.com/watch?v=_JZot1YANL4**](https://www.youtube.com/watch?v=_JZot1YANL4)  
 
@@ -8477,7 +8477,7 @@ REGENERATION – ENDING THE CLIMATE CRISIS IN ONE GENERATION – BY PAUL HAWKEN:
 
 **NEO MARTINEZ, “COMPLEXITY IN ECOLOGICAL NETWORKS: FRIEND OR FOE?” – STANFORD COMPLEXITY:** [**https://www.youtube.com/watch?v=IshBFBbQRIc**](https://www.youtube.com/watch?v=IshBFBbQRIc)  
 
-**THE POWER OF BIG OIL, PART ONE / FRONTLINE:** [**https://www.youtube.com/watch?v=QAAbcNl4Lb8**](https://www.youtube.com/watch?v=QAAbcNl4Lb8)  
+**THE POWER OF BIG OIL, PART ØNE / FRONTLINE:** [**https://www.youtube.com/watch?v=QAAbcNl4Lb8**](https://www.youtube.com/watch?v=QAAbcNl4Lb8)  
 
 **THE POWER OF BIG OIL, PART TWO / FRONTLINE:** [**https://www.youtube.com/watch?v=qMe-BYUIPLU**](https://www.youtube.com/watch?v=qMe-BYUIPLU)  
 

@@ -6,7 +6,7 @@ A Predecessor is an [[Activity]] that must be completed before a dependent Activ
 
 ## Technical Function
 
-In the [[LIONSBERG Integrated Delivery System]] and [[Lean]] project management, every [[Activity]] in a [[Network of Commitments]] is linked to at least one Predecessor and at least one [[Successor]]. These logical relationships form the backbone of the [[Critical Path]] toward [[The Goal]].
+In the [[LIØNSBERG Integrated Delivery System]] and [[Lean]] project management, every [[Activity]] in a [[Network of Commitments]] is linked to at least one Predecessor and at least one [[Successor]]. These logical relationships form the backbone of the [[Critical Path]] toward [[The Goal]].
 
 When thousands or millions of Activities are properly linked through their Predecessor and Successor relationships, the total logical network enables:
 

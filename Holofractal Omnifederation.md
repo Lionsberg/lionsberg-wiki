@@ -34,7 +34,7 @@ In every case: **complete at every scale AND connected across all scales AND one
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 The holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 13 people united by shared purpose and agreements.
 

@@ -19,7 +19,7 @@ We have also come to universally understand that each of us has precious gifts a
 We have reached the end of what can be figured out intellectually.  
 The rest of the Path lies in transformative embodied learning, action, and interbecoming.  
 
-There is no center, foundation, or top to "this" but the ONE Absolute and Ultimately Ineffable principle among All.  
+There is no center, foundation, or top to "this" but the ØNE Absolute and Ultimately Ineffable principle among All.  
 
 Whatever we do together belongs to no one except its sovereign co-creators. 
 

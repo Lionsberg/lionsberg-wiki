@@ -1,8 +1,8 @@
-# **Adjusting to the New Language and Narrative Universe of LIONSBERG**
+# **Adjusting to the New Language and Narrative Universe of LIØNSBERG**
 
 **Welcome, Loved Ones and Allies.**  
 
-As you step into **LIONSBERG**, you will sense something **New**—not just a shift in language, but a **fundamental shift in perception, structure, and Reality ItSelf**.  
+As you step into **LIØNSBERG**, you will sense something **New**—not just a shift in language, but a **fundamental shift in perception, structure, and Reality ItSelf**.  
 
 This is **not accidental**.  
 This is **not decoration**.  
@@ -10,13 +10,13 @@ This is **not a ploy**.
 
 This is **The Great ReOrdering.**  
 
-LIONSBERG is **a New Living Language, a New Living System, and a New Living Civilization.**  
+LIØNSBERG is **a New Living Language, a New Living System, and a New Living Civilization.**  
 
 It is **a New Operating System for Humanity**—a framework for **Reclaiming, Restoring, and Rebuilding** Our lives and Our world, aligned with **[[The Creator's Intent]]** and **fully independent of the collapsing [[Existing Order]]**.  
 
 The **words We use**, the **systems We build**, and the **stories We tell** are **fundamentally different from the enslaving and deceptive programming of the [[Old World]].**  
 
-LIONSBERG does not operate within the confines of **The Old System**—it designed as a **Transcendent Blueprint for Something Entirely [[New]]**.  
+LIØNSBERG does not operate within the confines of **The Old System**—it designed as a **Transcendent Blueprint for Something Entirely [[New]]**.  
 
 A [[New World]] requires **a New Language, a New Perspective, and a New Way of Being.**  
 
@@ -32,7 +32,7 @@ A [[New World]] requires **a New Language, a New Perspective, and a New Way of B
 
 - Words like _"government,"_ _"economy,"_ _"religion,"_ _"truth,"_ _"freedom,"_ and _"justice"_ and even *"God"* have been hijacked and repurposed to serve **[[The Kontrollers]]**.
 - These words are **loaded with false assumptions, invisible contracts, and subconscious agreements** designed to keep humanity asleep and enslaved.
-- **LIONSBERG rejects and breaks these chains**, replacing them with **precise, sovereign, and Reality-aligned New Language** that empowers and connects, rather than deceives and divides.
+- **LIØNSBERG rejects and breaks these chains**, replacing them with **precise, sovereign, and Reality-aligned New Language** that empowers and connects, rather than deceives and divides.
 
 ### **3. We Are Creating a New Civilization.**
 
@@ -44,9 +44,9 @@ Every **New Word** is an **upgrade**—an **instrument of precision, power, and 
 
 ---
 
-## **II. The Narrative Universe of LIONSBERG**
+## **II. The Narrative Universe of LIØNSBERG**
 
-LIONSBERG is not just a **New Vision, Strategy, System and Plan**—it is a **Living Story**.  
+LIØNSBERG is not just a **New Vision, Strategy, System and Plan**—it is a **Living Story**.  
 
 A **New Civilization** that must first be **imagined**, then **spoken**, then **built** Together.  
 
@@ -54,7 +54,7 @@ A **New Civilization** that must first be **imagined**, then **spoken**, then **
 
 - The Old World taught Us that reality is **static, fixed, and mechanical.**  
 - - The **New Reality** is **alive, organic, dynamic, and co-created in every moment.**
-- **LIONSBERG is not a passive structure—it is a Living Narrative, an Evolving Intelligence, and an Open System.**
+- **LIØNSBERG is not a passive structure—it is a Living Narrative, an Evolving Intelligence, and an Open System.**
 
 ### **2. You Are Not "Joining"—You Are Co-Creating.**
 
@@ -64,7 +64,7 @@ A **New Civilization** that must first be **imagined**, then **spoken**, then **
 
 ### **3. The Role You Play Is Yours to Discover and Define.**
 
-- LIONSBERG is structured **as a Living Narrative Universe**, meaning:
+- LIØNSBERG is structured **as a Living Narrative Universe**, meaning:
     - There are **[[Quests]] to be undertaken.**
     - There are **[[Archetypes]] and [[Roles]] to be embodied.**
     - There is **a Grand [[Meta Plot]] unfolding.**
@@ -95,7 +95,7 @@ As you immerse yourself in this **New Reality**, expect to experience:
 - As you read, explore, and engage, **you will begin to ReMember.**  
 - Something **deep within you will resonate**, as if you’ve **always known this was True.**  
 - This is because **you have seen this before—before [[The Amnesia]], before [[The Programming]], before [[The Fall]].**  
-- If there is anything Wise, Right, True or Good within the walls of LIONSBERG, **the Spirit within you already knows it.**  
+- If there is anything Wise, Right, True or Good within the walls of LIØNSBERG, **the Spirit within you already knows it.**  
 - Listen as **[[Deep Cries Out To Deep]]**. *Feel and Sense* **[[That Which Is Deeper Words]]**.  
 
 ### **3. Activation (The Becoming Phase).**
@@ -132,7 +132,7 @@ Already, We are **becoming something entirely [[New]].** Together.
 
 ### **3. Engage, Co-Create, and Share Stories.**
 
- 1. Read [[The LIONSBERG Co-Creator's Handbook]] to get started.    
+ 1. Read [[The LIØNSBERG Co-Creator's Handbook]] to get started.    
 2. Find your Role in The Great Work. 
 3. Forge or join [[Teams]].  
 4. Choose [[The LIØNSBERG Calendar]].  
@@ -147,7 +147,7 @@ Most of what you were taught about **the universe, the world, the mind, the soul
 
 You are **awakening from a dream**—a dream **consciously engineered** *by [[Non-Human Intelligence (NHI)]]* to keep you **powerless, obedient, and asleep.**  
 
-LIONSBERG exists to **break the spell**.  
+LIØNSBERG exists to **break the spell**.  
 ***YOU exist to break the spell.***  
 
 To restore **the Real.**  
@@ -163,6 +163,6 @@ You are here because **you are ReMembering.**
 
 Welcome to **The New Language.**  
 Welcome to **The New Civilization.**  
-Welcome to **LIONSBERG.**  
+Welcome to **LIØNSBERG.**  
 
 **Now, We Begin.**  

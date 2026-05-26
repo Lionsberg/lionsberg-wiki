@@ -6,7 +6,7 @@ _Reverent Regeneration of the Living Systems That Sustain Us and All_
 
 ### **Summary**
 
-The Sixth Pillar of LIONSBERG reawakens humanity to its rightful place within the sacred web of Life. It calls for the regeneration of Our living systems and the restoration of Right Relationship with all forms of Life and Being. Sacred Ecology and InterBeing recognizes the Earth and every other planet and domain not as a resource, but as a Living Being—a conscious, intelligent, and beloved member of the cosmic family. It invites us to transition from exploitation to stewardship, from separation to symbiosis, and from collapse to co-creation.
+The Sixth Pillar of LIØNSBERG reawakens humanity to its rightful place within the sacred web of Life. It calls for the regeneration of Our living systems and the restoration of Right Relationship with all forms of Life and Being. Sacred Ecology and InterBeing recognizes the Earth and every other planet and domain not as a resource, but as a Living Being—a conscious, intelligent, and beloved member of the cosmic family. It invites us to transition from exploitation to stewardship, from separation to symbiosis, and from collapse to co-creation.
 
 ---
 
@@ -75,7 +75,7 @@ It honors Indigenous wisdom. It reveres the patterns of permaculture. It celebra
 
 In Sacred Ecology, every act is a ritual of reciprocity. Every field is a temple. Every compost pile is an altar. Every child is a steward. Every elder is a storyteller. Every meal is communion.
 
-LIONSBERG affirms: The Earth is not dying. She is calling. She is waiting for her children to return—not as conquerors, but as liberators and caretakers.
+LIØNSBERG affirms: The Earth is not dying. She is calling. She is waiting for her children to return—not as conquerors, but as liberators and caretakers.
 
 Let us go to her, barefoot and humble, ready to learn again how to live in love with her.
 

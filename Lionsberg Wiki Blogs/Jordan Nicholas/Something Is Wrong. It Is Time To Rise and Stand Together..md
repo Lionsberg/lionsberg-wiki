@@ -73,11 +73,11 @@ At this critical juncture—an unprecedented crisis matched by unprecedented opp
 
 **Who Will Rise and Stand With Us?**  
 
-For the last seven years, I've devoted everything I had—my old life, resources, and world—to forging a foundation I call _**LIONSBERG**_, a free gift to all now ready to align and co-create our shared Future.
+For the last seven years, I've devoted everything I had—my old life, resources, and world—to forging a foundation I call _**LIØNSBERG**_, a free gift to all now ready to align and co-create our shared Future.
 
 From now until **July 1st**, I hold open the door for you, my personal network, to step forward as **Supporters** or **Founding Members** of an emergent sovereign superorganism created by and for **Us The People**.  
 
-My prayer is that by this date, at least 12 to 20 of us formally become **We The People of LIONSBERG**—to begin making decisions together, allocating resources together, supporting one another, and consciously navigating together towards [[The Goal]]. After that point, it will no longer be up to me.  
+My prayer is that by this date, at least 12 to 20 of us formally become **We The People of LIØNSBERG**—to begin making decisions together, allocating resources together, supporting one another, and consciously navigating together towards [[The Goal]]. After that point, it will no longer be up to me.  
 
 In the coming weeks, I will also be extending this equal and sacred invitation to some of **Us The People of East Africa**. It matters not where the Founding Members come from, only that The First Few of Us Rise, Stand Together, and Advance. 
 

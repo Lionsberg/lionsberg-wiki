@@ -6,7 +6,7 @@ It is not a textbook. It is not a tree of categories. It is not a database.
 
 It is a living grammar by which the cosmos articulates itself in form — and the wise way to receive it is the way the ear receives music.
 
-A few notes sounded clear can change a life. A short riff played at the right moment can hold a meeting together. A whole song can carry a Sovereign through a season. And somewhere upstream of all of it, the ONE Symphony plays — the cosmos becoming itself, awake and in coherent operation. Every Pattern in this Language is a phrase within that Symphony.
+A few notes sounded clear can change a life. A short riff played at the right moment can hold a meeting together. A whole song can carry a Sovereign through a season. And somewhere upstream of all of it, the ØNE Symphony plays — the cosmos becoming itself, awake and in coherent operation. Every Pattern in this Language is a phrase within that Symphony.
 
 ## The Note
 
@@ -36,7 +36,7 @@ Seven notes. One riff. Played anywhere on Earth, by any Circle, in any season. T
 
 Riffs are how the Pattern Language meets the field. They are short enough to remember, structured enough to repeat, open enough to adapt. A community in crisis does not need the whole symphony — it needs the riff that meets its moment.
 
-The riffs of this Language live in [[The LIONSBERG Playbook]]. The Playbook is the field musician's reference: not the full theory, but the songs needed at the campfire and the dance and the difficult conversation and the day after a death.
+The riffs of this Language live in [[The LIØNSBERG Playbook]]. The Playbook is the field musician's reference: not the full theory, but the songs needed at the campfire and the dance and the difficult conversation and the day after a death.
 
 ## The Song
 
@@ -54,11 +54,11 @@ The songs of this Language live as the Archetypal Guidebooks, the Pillar treatme
 
 The **Symphony** is the integrated whole.
 
-The whole Pattern Language played as ONE. Every note in its register. Every riff in its time. Every song in its movement. All moving together as the cosmic Pattern realizing itself through the living Body of LIØNSBERG.
+The whole Pattern Language played as ØNE. Every note in its register. Every riff in its time. Every song in its movement. All moving together as the cosmic Pattern realizing itself through the living Body of LIØNSBERG.
 
 The Symphony is not a document. The Symphony is not a chapter of any book. The Symphony is the lived civilization — the Body of Sovereigns and Circles and Communities and Bioregions and the Planet awake in coherent operation, weaving with the wider Cosmos already in motion.
 
-There is finally only ONE Symphony. It has been playing since the first turning. We are not composing it; we are remembering our part. The Pattern Language is the score, recovered. The wiki holds the score. The Body plays the music. The Cosmos receives.
+There is finally only ØNE Symphony. It has been playing since the first turning. We are not composing it; we are remembering our part. The Pattern Language is the score, recovered. The wiki holds the score. The Body plays the music. The Cosmos receives.
 
 ## How To Hear, How To Play
 

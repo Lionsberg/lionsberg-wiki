@@ -16,7 +16,7 @@ It is **not socialism**. It is **not capitalism**. It is **not** the false dicho
 
 Sacred Economics holds:
 
-- **Value flows from ONE** through the work of conscious co-creators in [[Right Relationship and Sacred Reciprocity]].
+- **Value flows from ØNE** through the work of conscious co-creators in [[Right Relationship and Sacred Reciprocity]].
 - **Capital is subordinate to Purpose** — capital rents itself to life, never the reverse.
 - **Wealth is the capacity to provision flourishing**, not the accumulation of claim-tickets.
 - **Scarcity is fabricated** in most domains; the Old World economy runs on artificial scarcity.
@@ -28,7 +28,7 @@ Sacred Economics holds:
 
 The operational mechanisms of Sacred Economics include:
 
-- [[LUV — LIONSBERG Units of Value]] and Interoperable Local CurrentSees
+- [[LUV — LIØNSBERG Units of Value]] and Interoperable Local CurrentSees
 - Asset-and-value-backed currencies replacing debt-fiat
 - Proof-of-contribution rather than proof-of-stake or proof-of-extraction
 - **From Tax to Tithe** — voluntary first-tenth replacing coerced taxation

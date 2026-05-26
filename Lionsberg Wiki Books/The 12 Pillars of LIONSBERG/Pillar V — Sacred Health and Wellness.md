@@ -6,7 +6,7 @@ _Restoring the Temple of the Body and the Harmony of Spirit, Mind, and Nature_
 
 ### **Summary**
 
-The Fifth Pillar of LIONSBERG restores health and healing to their rightful place as sacred expressions of harmony with the Logos of the ONE. It redefines wellness as the integrated flourishing of body, mind, spirit, and environment—and calls for the regeneration of systems and practices that honor the wholeness, sovereignty, and sacred potential of every being. Through Sacred Health and Healing, we reclaim the ancient and future knowledge necessary to restore vitality, coherence, and joy—within ourselves, our communities, and the Living World.
+The Fifth Pillar of LIØNSBERG restores health and healing to their rightful place as sacred expressions of harmony with the Logos of the ØNE. It redefines wellness as the integrated flourishing of body, mind, spirit, and environment—and calls for the regeneration of systems and practices that honor the wholeness, sovereignty, and sacred potential of every being. Through Sacred Health and Healing, we reclaim the ancient and future knowledge necessary to restore vitality, coherence, and joy—within ourselves, our communities, and the Living World.
 
 ---
 
@@ -46,7 +46,7 @@ In Sacred Healing, the practitioner is not the authority, but the guide. The com
     
 11. **The Systems That Profit from Sickness Must Be Transcended** — and replaced by ones that cultivate health, agency, and flourishing.
     
-12. **The Goal Is the Regeneration of All Life** — a world in which health is the default, healing is sacred, and all beings thrive in communion with ONE and All.
+12. **The Goal Is the Regeneration of All Life** — a world in which health is the default, healing is sacred, and all beings thrive in communion with ØNE and All.
     
 
 ---
@@ -77,6 +77,6 @@ In Sacred Health and Healing, hospitals become sanctuaries. Clinics become commu
 
 This is not just about feeling better. It is about becoming Whole, Together.
 
-LIONSBERG affirms: You were not made to survive in dysfunction. You were made to thrive in Divine Harmony and Wholeness.
+LIØNSBERG affirms: You were not made to survive in dysfunction. You were made to thrive in Divine Harmony and Wholeness.
 
 This is Sacred Healing. This is the Way.

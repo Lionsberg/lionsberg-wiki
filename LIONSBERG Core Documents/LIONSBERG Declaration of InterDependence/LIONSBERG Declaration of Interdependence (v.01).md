@@ -1,4 +1,4 @@
-# LIONSBERG Declaration of Interdependence 
+# LIØNSBERG Declaration of Interdependence 
 *v.01 synthesized from previous drafts June 26, 2025*
 ## A Sacred Proclamation by the Sovereign Citizens of Earth
 
@@ -21,12 +21,12 @@ We affirm these truths to be universal, eternal, and self-evident:
 
 * That All beings are sacred manifestations of One Infinite Source, inherently endowed with Divine Rights and Sacred Responsibilities.  
 * Among these Sacred Rights are Life, Liberty, Truth, Justice, and the pursuit of Harmony and Happiness.  
-* All legitimate authority respects Free Will, derives solely from the enlightened and continuous consent of the governed, and exists exclusively for the purpose of securing the well-being and flourishing of All in service of ONE.  
+* All legitimate authority respects Free Will, derives solely from the enlightened and continuous consent of the governed, and exists exclusively for the purpose of securing the well-being and flourishing of All in service of ØNE.  
 * Should any authority or system violate these sacred truths, it is not only the Right but the solemn Duty of the People to alter or abolish it and institute a New Governance aligned with Natural and Divine Law.
 
 ### INDICTMENT OF THE EXISTING ORDER
 
-The Existing Order, through deliberate and systematic corruption and deception, has committed grievous crimes against Truth, Humanity, Life, Earth, and Source. Let these crimes be recorded as evidence before ONE and All of the causes which impel Us The People of Earth to reassert Our Sovereignty and Authority over Our Lives and Our World.  
+The Existing Order, through deliberate and systematic corruption and deception, has committed grievous crimes against Truth, Humanity, Life, Earth, and Source. Let these crimes be recorded as evidence before ØNE and All of the causes which impel Us The People of Earth to reassert Our Sovereignty and Authority over Our Lives and Our World.  
 
 #### I. Crimes Against Truth and Consciousness
 
@@ -62,7 +62,7 @@ The Existing Order, through deliberate and systematic corruption and deception, 
 * Deliberate poisoning of air, water, soil, food and bodies to weaken, dominate, and reduce populations.  
 * Suppression of beneficial technologies to intentionally perpetuate dependency, subjugation, poverty, and kontrolle.  
 * Conscious annihilation of countless species and irrevocable harm to the diversity, abundance, and flourishing of life on Earth.  
-- The ruthless exploitation of natural resources for the benefit of the few, at the expense of the many, ONE and All.  
+- The ruthless exploitation of natural resources for the benefit of the few, at the expense of the many, ØNE and All.  
 
 #### IV. Crimes Against Peace and Sovereignty
 
@@ -99,7 +99,7 @@ These documented atrocities represent only a small fraction of the transgression
 
 Therefore, we, the Sovereign Citizens of Earth, guided by the supreme principles of Divine Intention and Natural Law, solemnly redeclare Our Sovereignty, transcendent and superordinate to all existing power and authority on Earth.  
 
-Our Divine Birthright as Sovereign Beings—sons and daughters of the ONE— is hereby restored, binding us solely to the ONE and the Sacred Order of Universal Harmony, Coherence, and Co-Creation.  
+Our Divine Birthright as Sovereign Beings—sons and daughters of the ØNE— is hereby restored, binding us solely to the ØNE and the Sacred Order of Universal Harmony, Coherence, and Co-Creation.  
 
 We hereby break and declare null and void all agreements, debts, ties, subordinations, and allegiances which do not serve the Highest Good of [[ØNE]], [[One Another]], and [[All]]. All political, economic, and legal claims imposed without the voluntary, enlightened, and fully informed consent of the governed are hereby declared null and void.  
 
@@ -113,7 +113,7 @@ With unwavering Faith in Divine Providence and for the Highest Good of All, We d
 * Restoration of genuine leadership and eldership derived from truth, wisdom, and continuous recognition and consent.
 * Initiation of a Great Jubilee to liberate humanity from all accumulated debts and artificial constraints, ushering in unprecedented freedom, abundance, and conscious co-creation.
 * ReAlignment of human systems with eternal Natural Laws, the Creator’s Sacred Intent, and the Living System Our InterExistence is a part of.  
-* Harmonious ReUnification of humanity and planet beyond division, co-creating a shared destiny in Alignment with the Will and Intention of the ONE.
+* Harmonious ReUnification of humanity and planet beyond division, co-creating a shared destiny in Alignment with the Will and Intention of the ØNE.
 
 Let this declaration mark the turning point of human destiny. May a New Civilization arise, rooted not in conquest, tyranny, or kontrolle, but in the awakening and co-creative empowerment of humanity in partnership with the Creator and All Creation, towards the flourishing of All Generations of Life.
 

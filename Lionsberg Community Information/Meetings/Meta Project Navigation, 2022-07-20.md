@@ -274,7 +274,7 @@ Fields: Issue, Who, Date Raised, Date Due, Notes.
     - These narrative terms carve out 5 different levels of analysis / abstraction / complexity. 
 
 ### The Meta Story
-- There is only ONE [[Meta Story]] and ONE [[Meta Goal]]. This is the highest overarching and uniting level of abstraction and complexity that by definition in the System contains within itself and orders all other Stories and Goals. 
+- There is only ØNE [[Meta Story]] and ØNE [[Meta Goal]]. This is the highest overarching and uniting level of abstraction and complexity that by definition in the System contains within itself and orders all other Stories and Goals. 
 - The Meta Story is Absolute and can never be concretized, but contains our [[Current Best Understanding]] of Where We Are, How We Got Here, Where We Are Going, Why It Matters, and how we advance through various milestones that approximately mark the way towards The Meta Goal.
 - The [[Meta Story]] is told in the Mythical Context of a [[Meta Quest]] towards the [[Meta Goal]]. 
 - The [[Way]] towards the Goal is marked by [[Milestones]]. 

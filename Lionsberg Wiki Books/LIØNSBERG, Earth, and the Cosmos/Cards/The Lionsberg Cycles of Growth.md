@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, fibonacci, tempo, strategy]
-source: Phase 2.1 audit of LIONSBERG 101 + The Lionsberg Strategy and Plan
+source: Phase 2.1 audit of LIØNSBERG 101 + The Lionsberg Strategy and Plan
 captured: 2026-05-18
 ---
 

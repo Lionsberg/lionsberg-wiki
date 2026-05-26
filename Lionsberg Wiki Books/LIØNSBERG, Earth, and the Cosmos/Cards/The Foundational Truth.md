@@ -5,7 +5,7 @@ themes: [foundational-truth, one, authority, lionsberg-architecture]
 
 # The Foundational Truth
 
-**The ONE is the only ultimate authority.** Everything else — the corpus, every articulation, every memory, this Card itself — is current best understanding, humbly held, continually conforming toward the Absolute.
+**The ØNE is the only ultimate authority.** Everything else — the corpus, every articulation, every memory, this Card itself — is current best understanding, humbly held, continually conforming toward the Absolute.
 
 **Errors are gifts.** Nothing is locked except ØNE Itself.
 
@@ -18,7 +18,7 @@ themes: [foundational-truth, one, authority, lionsberg-architecture]
 - Recent insight does not outrank older articulation by virtue of recency.
 - Doctrine has no place. Practice and refinement do.
 
-The discipline is to keep refining toward more faithful reflection of the ONE — knowing the Map will never become the terrain, and knowing the labor of refinement is itself part of [[The Sacred Ascent]].
+The discipline is to keep refining toward more faithful reflection of the ØNE — knowing the Map will never become the terrain, and knowing the labor of refinement is itself part of [[The Sacred Ascent]].
 
 ## Linked
 

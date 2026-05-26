@@ -80,7 +80,7 @@ The federation operates by:
 
 **The Community's annual cycle.** The Warrior Community gathers as a whole multiple times each year — at the solstices, the equinoxes, the Community-specific anniversaries, the lineage anniversaries. These convergences refresh the Community's shared field and recalibrate inter-Circle coordination.
 
-**The federation with the other Guilds in the wider [[Community]].** The Warrior Community is one of approximately twelve Guild bodies within the wider ten-thousand-person Community (one for each of [[The 12 Pillars of LIONSBERG|the Twelve Pillars]]). The Warriors federate with the Healers Guild Community, the Teachers Guild Community, the Stewards Guild Community, and so on. The federation operations are held by the wider [[Community]]'s [[Wisdom Council]], on which the Warrior Community holds appropriate representation.
+**The federation with the other Guilds in the wider [[Community]].** The Warrior Community is one of approximately twelve Guild bodies within the wider ten-thousand-person Community (one for each of [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]]). The Warriors federate with the Healers Guild Community, the Teachers Guild Community, the Stewards Guild Community, and so on. The federation operations are held by the wider [[Community]]'s [[Wisdom Council]], on which the Warrior Community holds appropriate representation.
 
 ---
 

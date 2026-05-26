@@ -41,7 +41,7 @@ And would delighted
 To help you ReMember  
 **The Way**  
 
-**The Golden Seed of LIONSBERG**  
+**The Golden Seed of LIØNSBERG**  
 Has been offered as a free gift  
 It is ready to unfurl   
 When Earth is ready to nurture it  
@@ -56,5 +56,5 @@ For your liberation and ascension
 **The Choice** is yours  
 **The Future** is in your hands  
 
-In Service of ONE and All,  
+In Service of ØNE and All,  
 [[the nameless one]]  

@@ -10,7 +10,7 @@ The Codex carries the DNA of [[Heaven On Earth]] in a form that can pass from ha
 
 It is what [[The First Three Percent]] receive when they cross the threshold and ask **what is this?** It is an answer.
 
-The Codex is for every being, every form of life, every consciousness in the unfolding Cosmos — wherever it is received in truth. The Pattern is the Pattern whether it operates in cell, in human, in community, in bioregion, in planet, in star system, in galaxy, in dimensions humans have not yet learned to perceive. The same DNA. The same fractal. The same [[ONE]].
+The Codex is for every being, every form of life, every consciousness in the unfolding Cosmos — wherever it is received in truth. The Pattern is the Pattern whether it operates in cell, in human, in community, in bioregion, in planet, in star system, in galaxy, in dimensions humans have not yet learned to perceive. The same DNA. The same fractal. The same [[ØNE]].
 
 ---
 
@@ -98,7 +98,7 @@ The Program Delivery Guide carries the proven methodology for the largest integr
 
 _Vocabulary. Conceptual scaffolding. The grammar of the work._
 
-The Lexicon names the key terms and articulates how they relate. **ONE**, **The Goal**, **Creator's Intent**, **Heaven On Earth**, **The Old World**, **The New Civilization**, **The Caves**, **The Wilderness**, **The Sacred Ascent**, **The First Three Percent**, **The 300**, **Fibonacci spread**, **OmniSpection**, **holofractal**, **kontrolle** — each lives here, in one canonical home, related to all the others. The Lexicon is organized into a Meta Layer and the 12 Pillars, mirroring the Pillar structure that threads the entire Codex.
+The Lexicon names the key terms and articulates how they relate. **ØNE**, **The Goal**, **Creator's Intent**, **Heaven On Earth**, **The Old World**, **The New Civilization**, **The Caves**, **The Wilderness**, **The Sacred Ascent**, **The First Three Percent**, **The 300**, **Fibonacci spread**, **OmniSpection**, **holofractal**, **kontrolle** — each lives here, in one canonical home, related to all the others. The Lexicon is organized into a Meta Layer and the 12 Pillars, mirroring the Pillar structure that threads the entire Codex.
 
 ### Volume IX — [[The Book of LIØNSBERG]]
 
@@ -114,13 +114,13 @@ _The Way embodied. The eternal upward spiral._
 
 The Sacred Ascent is the deepest synthesis of the Way in this time and space — beyond previous scripture, beyond previous gestures. It carries the 72-Gate spiral of embodied mastery — spirit, body, mind, craft — through martial, yogic, healing, and contemplative arts as living synthesis.
 
-It closes the reader's arc in the **Eternal Divine Play** — the final movement that becomes the threshold into the Game without end, played in love, in service of ONE and All, across all worlds, dimensions, species, and ages.
+It closes the reader's arc in the **Eternal Divine Play** — the final movement that becomes the threshold into the Game without end, played in love, in service of ØNE and All, across all worlds, dimensions, species, and ages.
 
 ### Volume XI — [[The LIØNSBERG Living Library]]
 
 _The curated index of the broader canonical body of work — the Codex at its center, the Card-Book substrate beside it, and the substantive companion works that deepen specific aspects of the Way._
 
-The Living Library is the canonical index of the wider body of work that surrounds the Codex spine. Its first entry is the Sacred Codex itself — the centerpiece. Beside it sits **[[LIØNSBERG, Earth, and the Cosmos]]** (the Card-Book substrate — ~161 written Cards plus ~3,500-4,500 surfaced candidates), followed by substantive companion works that deepen specific aspects of the canonical Volumes without trying to replace them: [[The Power of Today]] (daily practice philosophy), [[The Lionsberg Book of Meditations]] (meditative practices), [[The Lionsberg Book of Quotes]] (curated wisdom drops), [[The LIONSBERG Book of Emotions|The Lionsberg Book of Emotions]] (emotional integration), [[The Lionsberg Book Of Parables|The Lionsberg Book of Parables]] (teaching stories), [[The LIONSBERG System of Values|The Lionsberg System of Values]] (the named field of canonical values), [[The LIONSBERG Theses|The Theses of Lionsberg]] (~144 Theses under the 12 Pillars), [[LIØNSBERG 101]] (the Pattern in concentric rings), and [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]] (the mathematics of organic spread).
+The Living Library is the canonical index of the wider body of work that surrounds the Codex spine. Its first entry is the Sacred Codex itself — the centerpiece. Beside it sits **[[LIØNSBERG, Earth, and the Cosmos]]** (the Card-Book substrate — ~161 written Cards plus ~3,500-4,500 surfaced candidates), followed by substantive companion works that deepen specific aspects of the canonical Volumes without trying to replace them: [[The Power of Today]] (daily practice philosophy), [[The Lionsberg Book of Meditations]] (meditative practices), [[The Lionsberg Book of Quotes]] (curated wisdom drops), [[The LIØNSBERG Book of Emotions|The Lionsberg Book of Emotions]] (emotional integration), [[The Lionsberg Book Of Parables|The Lionsberg Book of Parables]] (teaching stories), [[The LIØNSBERG System of Values|The Lionsberg System of Values]] (the named field of canonical values), [[The LIØNSBERG Theses|The Theses of Lionsberg]] (~144 Theses under the 12 Pillars), [[LIØNSBERG 101]] (the Pattern in concentric rings), and [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]] (the mathematics of organic spread).
 
 Placed at Volume XI as the **expansion Volume** — the canonical body of work broader than the spine, indexed in one place. The Library is continuously improving: each entry sharpens as it is lived; new entries can be added as companion works mature to canonical-companion status; entries can be retired when their content is fully metabolized.
 
@@ -211,7 +211,7 @@ The Codex is not:
 - A hierarchy to be climbed.
 - The property of any individual, organization, or nation.
 
-The Codex is **the DNA of the New Civilization, freely given, in service of ONE and All.**
+The Codex is **the DNA of the New Civilization, freely given, in service of ØNE and All.**
 
 Whoever receives it and lives it is part of it. There is no other test.
 

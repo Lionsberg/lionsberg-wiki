@@ -86,6 +86,6 @@ _— A 7-Fold Sacred Framework for Temporal ReAlignment and Action —_
 |---|---|
 |📢 Local Circle|[What update will you share with your local fellowship?]|
 |🛰 Global Circle|[What message will you send to the broader network?]|
-|🧭 Guidance Request|[What do you need from Spirit / Allies / ONE this season?]|
+|🧭 Guidance Request|[What do you need from Spirit / Allies / ØNE this season?]|
 |🧬 Code Update|[What new protocols or data are you encoding into the Commons?]|
 |📖 Archive Entry|[Save a record of this OmniSpection in the seasonal chronicle]|

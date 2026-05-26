@@ -554,7 +554,7 @@ This chapter is a [[Work In Progress]]
 [[14.4 Creative Right Action Expecting Nothing in Return]]  
 [[Pain, Perceived Pain, and Change]]  
 
-### Chapter Fifteen - The Great Game of LIONSBERG
+### Chapter Fifteen - The Great Game of LIØNSBERG
 
 _The Game that begins at the kitchen table and ends at the stars — the same Pattern at every scale, the same seven moves from the first Circle to the federation of worlds._
 
@@ -591,11 +591,11 @@ _The Game that begins at the kitchen table and ends at the stars — the same Pa
 [[15.24 The Federation of Worlds]]  
 [[15.25 The Cycle of Cosmic Co-Creation]]  
 [[15.26 The Eternal Divine Play]]  
-[[15.27 From ONE All Things Proceed]]  
+[[15.27 From ØNE All Things Proceed]]  
 
 ---
 
-### The LIONSBERG Playbook
+### The LIØNSBERG Playbook
 
 _The Living Guide of The Great Game. Where the Pattern becomes Practice and the Game becomes playable._
 
@@ -633,8 +633,8 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 [[2.14 Aggregating and Coordinating The First Tenth]]  
 [[2.15 Leveraging The Commons to Begin]]  
 
-### Part III: The LIONSBERG Experience
-[[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]  
+### Part III: The LIØNSBERG Experience
+[[3.1 LIØNSBERG On Earth Will Become Whatever We Co-Create it to Be]]  
 [[3.2 Cultural Norms and Expectations]]  
 [[3.3 Finding Out What is Happening]]  
 [[3.4 How the Players of The Great Game Collectively Decide What Is Most Important and Valuable to Do Next]]  
@@ -676,7 +676,7 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 - [[Dialogos, SenseMaking, and OmniSpection]]
 - [[Seasonal OmniSpection]]
 - [[Continuously Improve Everything]]
-- [[Co-Create LIONSBERG Learning Institutions]]
+- [[Co-Create LIØNSBERG Learning Institutions]]
 
 #### Federation and Scaling
 
@@ -737,7 +737,7 @@ _All Things Helping All Things Rise. The eternal spiral from personal awakening 
 
 ## Companion Works
 
-_The following companion volumes support and deepen the journey through The Book of LIONSBERG. Each stands on its own while illuminating the whole._
+_The following companion volumes support and deepen the journey through The Book of LIØNSBERG. Each stands on its own while illuminating the whole._
 
 **[[The LIØNSBERG Pattern Language]]** — _The Pattern behind all patterns — the living grammar of co-creation_
 
@@ -745,9 +745,9 @@ _The following companion volumes support and deepen the journey through The Book
 
 **[[The Lionsberg Book of Quotes]]** — _Voices of wisdom across ages and traditions_
 
-**[[The LIONSBERG Book of Emotions]]** — _The vocabulary of the inner life_
+**[[The LIØNSBERG Book of Emotions]]** — _The vocabulary of the inner life_
 
-**[[The LIØNSBERG Lexicon]]** — _The language of LIONSBERG — key terms, their origins, and their living meaning_
+**[[The LIØNSBERG Lexicon]]** — _The language of LIØNSBERG — key terms, their origins, and their living meaning_
 
 ---
 

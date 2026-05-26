@@ -6,7 +6,7 @@ Conflict, when approached with wisdom and intention, becomes a powerful catalyst
 
 ### **Principles of Transforming Conflict**
 
-1. **Alignment with the Spirit of ONE**:
+1. **Alignment with the Spirit of ØNE**:
     
     - All approaches to conflict are rooted in **[[Truth]]**, **[[Love]]**, **[[Justice]]**, and **[[Stewardship]]**, ensuring that the process uplifts and aligns with the greatest Whole.
 2. **Conflict as Opportunity**:
@@ -64,7 +64,7 @@ Conflict, when approached with wisdom and intention, becomes a powerful catalyst
 
 ---
 
-### **Conflict Transformation in LIONSBERG**
+### **Conflict Transformation in LIØNSBERG**
 
 In the **[[LIØNSBERG]]** ecosystem, conflict is seen as an integral part of growth and evolution. When expected, embraced and transformed, it becomes a vital force for alignment, innovation, and the advancement of **[[The Goal]]**.
 

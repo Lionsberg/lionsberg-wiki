@@ -3,7 +3,7 @@
 **Cluster:** Formation / Movement Cluster  
 **Source transcript:** `agent-a604b41e2095d6be2.jsonl`  
 **Extracted:** 2026-05-19 (final assistant message of Phase 2.7 audit subagent)  
-**Scope:** 17 wiki books / ~395 files surveyed; includes LIONSBERG 101, A 200 Page Book, Pass The Flame, Martial Arts Guide, Citizen Led Governance, The Prophesy of Mondragon, FAQ, Sandpoint 300, Academy, Co-Creator Handbook, Meta Guide, Book of People, Theses of Lionsberg, Guide To Movement Building, Wiki Book templates.  
+**Scope:** 17 wiki books / ~395 files surveyed; includes LIØNSBERG 101, A 200 Page Book, Pass The Flame, Martial Arts Guide, Citizen Led Governance, The Prophesy of Mondragon, FAQ, Sandpoint 300, Academy, Co-Creator Handbook, Meta Guide, Book of People, Theses of Lionsberg, Guide To Movement Building, Wiki Book templates.  
 
 This file is the verbatim transcription of the audit memo delivered by the subagent. Card-table content and inventories are preserved exactly as produced. No files were modified during the original audit.
 
@@ -23,19 +23,19 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | Book | Lines/Files | Coverage | Notes |
 |---|---|---|---|
 | **Pass The Flame** | 4 files / 2,124 lines (4 identical-ish versions: bold/glossary/pagebreak/base) | Deep read of full main file; 4 versions of essentially the same text (formatting variants for publication) | Foundational. Autobiographical + cosmic story. Read 100% of base version. |
-| **Martial Arts Guide** | 39 files / 200K | Sampled 8 representative files across philosophy, practice, and energy sections | Embodied practice canon. Strong philosophy of the Way; some duplication with Book of LIONSBERG |
+| **Martial Arts Guide** | 39 files / 200K | Sampled 8 representative files across philosophy, practice, and energy sections | Embodied practice canon. Strong philosophy of the Way; some duplication with Book of LIØNSBERG |
 | **Frequently Asked Questions** | 41 files / 172K | Sampled 4 files + index | Old apologetic register. Largely superseded by current corpus |
 | **The Sandpoint 300** | 1 file / 10 lines | 100% | Skeletal stub. Sandpoint-Idaho-specific links only |
 | **The Lionsberg Academy** | 1 file / 35 lines | 100% | Skeletal stub. Curated external-link educational ladder |
 | **The Lionsberg Co-Creator Handbook** | 1 file / 9 lines | 100% | Already redirected/superseded — points to Playbook |
-| **The Lionsberg Meta Guide** | 10 files / 814 lines | Read 7 of 10 files including the Handbook root | Already in-process of migration to The LIONSBERG Way (per its own front matter) |
+| **The Lionsberg Meta Guide** | 10 files / 814 lines | Read 7 of 10 files including the Handbook root | Already in-process of migration to The LIØNSBERG Way (per its own front matter) |
 | **The Lionsberg Book of People** | 1 file / 22 lines | 100% | Stub — list of archetypal great souls, none with pages |
 | **Citizen Led Governance** | 46 files / 204K | Read intro + 5 core pattern files + 1 case study | Operational governance canon. Heavily patterned material |
 | **The Prophesy of Mondragon** | 1 file / 578 lines | First 200 lines | Detailed first-hand research notes from Mondragon trips 2018-2019 |
 | **The Lionsberg (syn)Thesis** | — | Verified absent | Already pruned in Phase 1 cleanup |
-| **LIONSBERG 101** | 9 files / 1,734 lines | Read 6 of 9 files (LIØNSBERG 101 root, Rings 1, 3, 4, 5, Emergence, 10 Year Grand Strategy) | Foundational pre-canonical book. Now appears highly canonical-grade |
+| **LIØNSBERG 101** | 9 files / 1,734 lines | Read 6 of 9 files (LIØNSBERG 101 root, Rings 1, 3, 4, 5, Emergence, 10 Year Grand Strategy) | Foundational pre-canonical book. Now appears highly canonical-grade |
 | **A 200 Page Book** | 1 file / 1,053 lines | Read 1,053 lines in three passes | Pre-canonical foundational book — cosmic story in poetic gates. Substantial unique content |
-| **The Theses of Lionsberg** | 1 file / 938 lines | Read intro + ~200 lines body + final TOC | Largely-folded. Front matter explicitly notes "now live nested under each of The 12 Pillars of LIONSBERG" — file preserved as archive |
+| **The Theses of Lionsberg** | 1 file / 938 lines | Read intro + ~200 lines body + final TOC | Largely-folded. Front matter explicitly notes "now live nested under each of The 12 Pillars of LIØNSBERG" — file preserved as archive |
 | **Wiki Book Template / Lionsberg Wiki Book / Books index** | 3 files / ~89 lines | 100% | Templates and index files. Wiki Books index is well-maintained and current as of 2025-2026 |
 | **The Lionsberg Guide To Movement Building** | 1 file / 185 lines | 100% | Working draft / brainstorming notes — bulleted outline, not finished prose |
 
@@ -46,8 +46,8 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 ### Pass The Flame (Foundational — Autobiographical Bridge Text)
 The base text published by Jordan as "the first sampling" — a multi-genre work that braids together:
 - **The Story of The Builder** (a parable of the City on a Hill)
-- **The Story of The Caves** (the central Caves narrative, near-identical to canonical version in Book of LIONSBERG Genesis)
-- **Our Story** — Jordan's full autobiographical testimony: childhood, calling, building career, marriage to Caity, martial arts training under Kamil Al-Hakim, the construction company collapse, betrayal by South Shores Church and Orange County, journey through the underworld, naming of LIONSBERG (~2017)
+- **The Story of The Caves** (the central Caves narrative, near-identical to canonical version in Book of LIØNSBERG Genesis)
+- **Our Story** — Jordan's full autobiographical testimony: childhood, calling, building career, marriage to Caity, martial arts training under Kamil Al-Hakim, the construction company collapse, betrayal by South Shores Church and Orange County, journey through the underworld, naming of LIØNSBERG (~2017)
 - **The Meta Crisis** — array of 25+ "an awakened X informed the others…" testimony list (a unique compositional device)
 - **The Story of Stories** — the Meta Story / Reconstruction
 - **The Ten Realizations / Epiphanies** (One, Interexistence, Source, Logos, Spirit, Body, One Highest Vision, One Epic Quest, One Universal War, One Victory)
@@ -81,10 +81,10 @@ A 10-line stub. The actual page consists of external links to Sandpoint, Idaho l
 35-line skeleton. Five-stage curated education ladder: English Language as Key, Khan Academy, MIT OpenCourseWare, The Lionsberg System and Community, Continuous Learning and Improvement. Useful as a Card (the educational scaffold pattern), but the implementation is just external links.
 
 ### The Lionsberg Co-Creator Handbook
-9 lines. Explicitly stated: "The LIONSBERG Co-Creators Handbook was integrated and evolved into [[The LIØNSBERG Playbook]] in January 2026." **This is already a redirect.** Old version preserved as `LIONSBERG Co-Creator's Handbook (v.0.1)`.
+9 lines. Explicitly stated: "The LIØNSBERG Co-Creators Handbook was integrated and evolved into [[The LIØNSBERG Playbook]] in January 2026." **This is already a redirect.** Old version preserved as `LIØNSBERG Co-Creator's Handbook (v.0.1)`.
 
 ### The Lionsberg Meta Guide
-10 files. The root [[The Lionsberg Handbook]] (590 lines) explicitly notes: "The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIONSBERG Way.**
+10 files. The root [[The Lionsberg Handbook]] (590 lines) explicitly notes: "The Lionsberg Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIØNSBERG Way.**
 
 ### The Lionsberg Book of People
 22 lines. A list of archetypal great spirits (Jesus, Buckminster Fuller, MLK, Gandhi, Mandela, Aristotle, Desmond Tutu, Lao Tzu, Socrates, Plato, Confucius, Buddha, Zoroaster, Pythagoras) — each presented as a wikilink but none of the linked pages necessarily exist. **Marked as `[[Work In Progress]]` at the bottom.** Not personal (no living individuals). Universal in nature.
@@ -103,11 +103,11 @@ A 10-line stub. The actual page consists of external links to Sandpoint, Idaho l
 Of all the books in this cluster, this is the most internally coherent and well-architected. **Strong candidate for full Pillar/Volume contribution.**
 
 ### The Prophesy of Mondragon (578 lines)
-First-hand research notes from two week-long trips to Mondragon in 2018 and 2019. Covers: the story (Arizmendi, 1936-1959 civil war/founding, Caja Laboral, Lagun Aro), the importance of transformative and uniting purpose, continually refreshing mission, values in action, transformation from the bottom up, Self-Governing/Sustaining/Replicating groups, community-based sense making, federation as tool, co-operative entrepreneurial spirit, core enterprise with no guarantees, Five Big Ideas (Dignity, Solidarity, Work, Education, Self-Governance). Largely overlapping with Ring 3 of LIONSBERG 101. **High-value primary source.**
+First-hand research notes from two week-long trips to Mondragon in 2018 and 2019. Covers: the story (Arizmendi, 1936-1959 civil war/founding, Caja Laboral, Lagun Aro), the importance of transformative and uniting purpose, continually refreshing mission, values in action, transformation from the bottom up, Self-Governing/Sustaining/Replicating groups, community-based sense making, federation as tool, co-operative entrepreneurial spirit, core enterprise with no guarantees, Five Big Ideas (Dignity, Solidarity, Work, Education, Self-Governance). Largely overlapping with Ring 3 of LIØNSBERG 101. **High-value primary source.**
 
-### LIONSBERG 101 (Phase 2.1 Foundational, Now Canonical-Grade)
+### LIØNSBERG 101 (Phase 2.1 Foundational, Now Canonical-Grade)
 9 files / 1,734 lines. **This is the most polished, current, integrated articulation of the entire Pattern.** It is essentially the seed of the Seven-Volume Sacred Codex compressed. The Rings architecture (0 → 1 → 2 → 3 → 4 → 5) is the most elegant entry-point in the entire wiki:
-- **Ring 0 — ONE** (75 lines) — the Source
+- **Ring 0 — ØNE** (75 lines) — the Source
 - **Ring 1 — The Seed** (108 lines) — Twelve Elements in one page
 - **Ring 2 — The Pattern Unfolded** (486 lines) — each Element with depth
 - **Ring 3 — The Living Proof** (299 lines) — Mondragon, Fair Shares Commons, Program Delivery Guide, and the 8 historical movements
@@ -119,12 +119,12 @@ First-hand research notes from two week-long trips to Mondragon in 2018 and 2019
 **This is canonical-grade material.** Most likely it belongs IN the Sacred Codex Volume root, not as a separate book.
 
 ### A 200 Page Book (Phase 2.1 Batch 1, 1,053 lines)
-A poetic cosmic prologue written in numbered "Gates" (Gate 1: The ONE → Gate ~35). Covers the full cosmic story: ONE → desire for finite experience → First Turning → Song of Creation → First Creatures → Universe Teems With Life → Conscious Co-Creation → Liberty and Free Will → Trillions of Realities → Veil of Finitude and Forgetting → Wandering → First Civilizations → Nameless and Ineffable Way → Patterns and Protocols → Conscious Understanding → Local and Non-Local Knowledge → Pain/Suffering/Death → Fear → Separation and Scarcity → Conflict → Evil → Goodness/Anti-Goodness → Federations and Empires → Full Spectrum Dominance → Dark Fleet → Multigenerational Mind Kontrolle → LifeForce Extraction → Carnage and Trauma → (Gate 32 left blank: Breaking the Spell) → Kingdom of LIONSBERG → Way of LIONSBERG → Local-to-Earth localization → The Great Game Comes to Earth → The Story of Earth (cosmic gardener/genetic engineering origin myth).
+A poetic cosmic prologue written in numbered "Gates" (Gate 1: The ØNE → Gate ~35). Covers the full cosmic story: ØNE → desire for finite experience → First Turning → Song of Creation → First Creatures → Universe Teems With Life → Conscious Co-Creation → Liberty and Free Will → Trillions of Realities → Veil of Finitude and Forgetting → Wandering → First Civilizations → Nameless and Ineffable Way → Patterns and Protocols → Conscious Understanding → Local and Non-Local Knowledge → Pain/Suffering/Death → Fear → Separation and Scarcity → Conflict → Evil → Goodness/Anti-Goodness → Federations and Empires → Full Spectrum Dominance → Dark Fleet → Multigenerational Mind Kontrolle → LifeForce Extraction → Carnage and Trauma → (Gate 32 left blank: Breaking the Spell) → Kingdom of LIØNSBERG → Way of LIØNSBERG → Local-to-Earth localization → The Great Game Comes to Earth → The Story of Earth (cosmic gardener/genetic engineering origin myth).
 
-A pre-canonical foundational cosmic epic. Much of its content has clearly informed The Story of LIONSBERG and Book of LIONSBERG Genesis. **Contains substantial unique material not elsewhere in the corpus** — particularly Gates 24-31 (the Dark Empire / Full Spectrum Dominance / Dark Fleet / Mind Kontrolle / LifeForce Extraction sequence) which is darker and more cosmically explicit than anywhere else in the canonical text.
+A pre-canonical foundational cosmic epic. Much of its content has clearly informed The Story of LIØNSBERG and Book of LIØNSBERG Genesis. **Contains substantial unique material not elsewhere in the corpus** — particularly Gates 24-31 (the Dark Empire / Full Spectrum Dominance / Dark Fleet / Mind Kontrolle / LifeForce Extraction sequence) which is darker and more cosmically explicit than anywhere else in the canonical text.
 
 ### The Theses of Lionsberg (938 lines)
-The 99 Theses material. Front matter is explicit: "The Theses of LIONSBERG now live nested under each of The 12 Pillars of LIONSBERG, each Pillar representing one dimension of the unified architecture of the New Civilization… This page preserves the earlier prototype and developmental drafts of the Theses." So the current canonical home is the 12 Pillars; this file is an **archive of the prototype drafts**. The contents show extensive work on Lifelong Learning theses + Food Systems theses, plus stubs for ~20 additional domains ("Coming Soon"). **Already substantially folded; archive only.**
+The 99 Theses material. Front matter is explicit: "The Theses of LIØNSBERG now live nested under each of The 12 Pillars of LIØNSBERG, each Pillar representing one dimension of the unified architecture of the New Civilization… This page preserves the earlier prototype and developmental drafts of the Theses." So the current canonical home is the 12 Pillars; this file is an **archive of the prototype drafts**. The contents show extensive work on Lifelong Learning theses + Food Systems theses, plus stubs for ~20 additional domains ("Coming Soon"). **Already substantially folded; archive only.**
 
 ### The Lionsberg Guide To Movement Building (185 lines)
 A single-file working draft of bulleted notes adapted from "Social Movements From Good" — exploratory brainstorming, not finished writing. Contains useful conceptual scaffolding (Initial Group of Believers, Distributed Action, Pinnacle Action, Sustaining The Movement) but reads as notes-to-self, not as a deliverable book.
@@ -172,7 +172,7 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **The Beginner's Mind** | The disposition of openness, humility, and continual learning that the most advanced practitioner returns to | Martial Arts Guide 1.24 |
 | **Beyond Forms and Techniques** | The realm where pure spontaneous right action flows through the embodied practitioner — beyond named technique | Martial Arts Guide 1.14 |
 | **Inexhaustible Individuals** | The recognition that every individual contains inexhaustible depth and potential | Martial Arts Guide 1.23 |
-| **The Universal and Eternal Way** | The recognition that beneath every Named art/discipline/tradition is ONE universal/eternal Way being differently localized | Martial Arts Guide 1.22 |
+| **The Universal and Eternal Way** | The recognition that beneath every Named art/discipline/tradition is ØNE universal/eternal Way being differently localized | Martial Arts Guide 1.22 |
 | **The Three-Part Elevation (Spirit, Mind, Body)** | Total Integrated Wellbeing and Development must encompass all three; metaphysical leads, physical follows | Martial Arts Guide 4.0 |
 | **The Energetic Field** | The fundamental nature of the universe is energy ordering itself according to Logos; we must interact with this layer, not surficial form | Martial Arts Guide 2.1 |
 | **Using Creative Energy to Heal AND Destroy** | The same Energy that destroys also heals; the warrior's training spans both, in service of Life | Pass The Flame III; Martial Arts Guide |
@@ -187,7 +187,7 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **The Cost of Silence / The Cost of Voice** | The trade-off between personal safety bought through silence and the cumulative harm to future victims | Pass The Flame III |
 | **Mediation By Captured Process** | When the institution chooses the mediator and authors the process, the mediation is rigged | Pass The Flame III |
 | **The Cosmic Gardeners** | The pre-historical cosmic origin pattern: Earth identified, terraformed, and tended by multiple species of advanced beings | A 200 Page Book Story of Earth |
-| **The Veil of Finitude and Forgetting** | The necessary self-imposed veil by which ONE experiences ItSelf as One of the Ones; passing through forgets Who One Is | A 200 Page Book Gate 11 |
+| **The Veil of Finitude and Forgetting** | The necessary self-imposed veil by which ØNE experiences ItSelf as One of the Ones; passing through forgets Who One Is | A 200 Page Book Gate 11 |
 | **The Apparent Opposite of Love is Fear** | Not Hate. The structural opposite of Perfect Absolute Unconditional Love is Fear, born of the illusions of separation and scarcity | A 200 Page Book Gate 20 |
 | **Full Spectrum Dominance (The Dark Pattern)** | The Cosmic Pattern of Evil taken to its logical end — use of Force to establish complete control over weaker non-consenting Creatures | A 200 Page Book Gate 25 |
 | **The Dark Fleet** | The archetypal pattern of Evil organizing into a cosmic predatory force that travels searching for the next species/civilization to enslave | A 200 Page Book Gate 26 |
@@ -198,11 +198,11 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **Local vs Non-Local Knowledge** | The differentiation between locally-embodied learning and Non-Local Consciousness/Universal Library access | A 200 Page Book Gate 16-17 |
 | **The Cosmic Library** | The Universal Library where All Wisdom/Knowledge/Understanding is stored, accessible via Non-Local Consciousness | A 200 Page Book Gate 16 |
 | **The Dark Empire's Quest for the Ultimate Weapon** | An imperceptible, irresistible weapon enabling Full Spectrum Dominance over all species/realms | A 200 Page Book Gate 28 |
-| **One-Third of the Cosmic Order Fallen** | The scale-marker of how far the Dark Pattern had spread before the LIONSBERG response was forged | A 200 Page Book Gate 31 |
-| **The Convocation of Elders Across the Force For Good** | The cosmic gathering at which the LIONSBERG System was discerned and born — fulfillment of an ancient prophesy | A 200 Page Book Gate 35 area |
+| **One-Third of the Cosmic Order Fallen** | The scale-marker of how far the Dark Pattern had spread before the LIØNSBERG response was forged | A 200 Page Book Gate 31 |
+| **The Convocation of Elders Across the Force For Good** | The cosmic gathering at which the LIØNSBERG System was discerned and born — fulfillment of an ancient prophesy | A 200 Page Book Gate 35 area |
 | **The Game Within The System** | The compression of an inaccessible cosmic System into a Game any creature on any planet can be invited to Play | A 200 Page Book |
 | **You Do Not Have To Believe The Story To Play The Game** | The threshold-lowering principle: agree to Act As If for as long as you choose to Play | A 200 Page Book |
-| **We Do Not Know (The First Truth)** | The threshold-crossing admission — only ONE knows All; until we admit We Do Not Know, we cannot exit The Caves | A 200 Page Book |
+| **We Do Not Know (The First Truth)** | The threshold-crossing admission — only ØNE knows All; until we admit We Do Not Know, we cannot exit The Caves | A 200 Page Book |
 | **The Sirimiri (Light Little Rain) Pedagogy** | Arizmendi's method — small fireside chats, a little enlightenment at a time, recognizing that seeds of Wisdom take many years to grow | Prophesy of Mondragon |
 | **You Cannot Transform the Old (Why Arizmendi Concluded Differently)** | Arizmendi's 13-year discovery: people agree with ideas, no one changes; new wine requires new wineskins; form new people who form new organizations | Prophesy of Mondragon; Ring 3 |
 | **Elect Two Coordinators And I'll Be Back** | Arizmendi's instruction for forming a co-op — minimum viable governance, then trust and check | Prophesy of Mondragon; Ring 5 |
@@ -226,7 +226,7 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **Network of Voluntary Associations** | The infrastructure layer: groups, assemblies, voluntary associations as the building blocks of citizen-led governance | Citizen Led Governance 3.4 |
 | **Case Study Architecture (Individual → Family → Group → Community → City → Network → Assembly → Nation → Species)** | The fractal case-study set demonstrating the pattern at every scale | Citizen Led Governance 5.1–5.9 |
 | **Self-Help Directory (Local Pattern)** | The community-resource clearinghouse — concrete local provisioning of universally human needs | Sandpoint Links |
-| **The Five-Stage Curated Lifelong Learning Ladder** | English as Key → Khan Academy → MIT OCW → LIONSBERG System → Continuous Improvement (free, accessible, scaffolded) | Lionsberg Academy |
+| **The Five-Stage Curated Lifelong Learning Ladder** | English as Key → Khan Academy → MIT OCW → LIØNSBERG System → Continuous Improvement (free, accessible, scaffolded) | Lionsberg Academy |
 | **Community Learning Hub** | The repurposing of school buildings/community centers into multifaceted multi-age learning environments | Theses Lifelong Learning |
 | **AI as Infinitely Patient Personal Tutor** | The technology pattern: leveraging AI for personalized real-time guidance keeping each learner in their Zone of Optimum Development | Theses Lifelong Learning |
 | **Zone of Optimum Development** | The sweet spot of stretch where genuine growth occurs — too easy is waste, too hard is failure; central to coaching/teaching/quest selection | Pass The Flame III; Theses |
@@ -235,7 +235,7 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **Worksite Earth** | The framing of the planet as a vast worksite needing to be regenerated, with humanity as the workforce | Pass The Flame III; throughout |
 | **Plan Takeoffs / Designer's Intent → Bid → Build (The Construction Discipline as Cosmic Metaphor)** | The discipline of decomposing a Designer's Intent into constituent elements, then progressively articulating the work — applied to civilization | Pass The Flame III |
 | **The Wisdom of The Tithe** | The timeless wisdom that the first tenth dedicated to the Whole produces exponential cascading benefits | Pass The Flame VII |
-| **The Movement (Capital M)** | The specific named movement assembling around LIONSBERG — distinct from movements in general | Pass The Flame VII |
+| **The Movement (Capital M)** | The specific named movement assembling around LIØNSBERG — distinct from movements in general | Pass The Flame VII |
 | **The Pioneers / The Vanguard / The Rear (Movement Topology)** | The structural roles within the Movement: those at the leading edge, those carrying the supplies, those still being awakened | Pass The Flame VII |
 | **Walking One Another Home** | The leitmotif phrase: not a march, not a campaign, a shared journey of mutual aid back toward Source | Pass The Flame |
 | **Light Up The Darkness** | The phrase for what The Movement does collectively — illuminating The Caves from within so others can awaken | Pass The Flame |
@@ -317,7 +317,7 @@ This cluster contains **substantial duplication** that should be addressed in co
 
 ### Already-Redirected / In-Migration
 - **The Lionsberg Co-Creator Handbook** — explicitly redirected to Playbook (Jan 2026)
-- **The Lionsberg Meta Guide / The Lionsberg Handbook** — in-flight migration to The LIONSBERG Way
+- **The Lionsberg Meta Guide / The Lionsberg Handbook** — in-flight migration to The LIØNSBERG Way
 - **The Theses of Lionsberg** — explicitly marked as archive of prototype/developmental drafts now nested under 12 Pillars
 
 ### Skeletal Stubs
@@ -329,14 +329,14 @@ This cluster contains **substantial duplication** that should be addressed in co
 - **Lionsberg Wiki Book** — 7-line definition page; could fold into Wiki conventions
 
 ### Substantially Folded Already
-- **LIONSBERG 101** — likely belongs as a Volume root, not as a separate Wiki Book; this is canonical-grade
-- **A 200 Page Book** — pre-canonical cosmic prologue; substantial unique content (especially the dark cosmic gates 24-31); should either be integrated into The Story of LIONSBERG or preserved as pre-canonical prophesy
+- **LIØNSBERG 101** — likely belongs as a Volume root, not as a separate Wiki Book; this is canonical-grade
+- **A 200 Page Book** — pre-canonical cosmic prologue; substantial unique content (especially the dark cosmic gates 24-31); should either be integrated into The Story of LIØNSBERG or preserved as pre-canonical prophesy
 - **The Prophesy of Mondragon** — primary research; should remain available; key passages already folded into Ring 3 but the full text is irreplaceable
 - **Martial Arts Guide / Rediscovering The Way** — substantial unique embodied-practice canon; should remain as Book; some files may be promoted to standalone canonical pages
 - **Citizen Led Governance** — most internally coherent of the operational books; should likely contribute pattern files as canonical pattern-language entries
 
 ### Of the 17 Books in Scope
-**Promote to Volume root / canonical-grade:** LIONSBERG 101  
+**Promote to Volume root / canonical-grade:** LIØNSBERG 101  
 **Preserve as canonical Book:** Martial Arts Guide, Citizen Led Governance, Pass The Flame (base only), The Prophesy of Mondragon  
 **Preserve as pre-canonical primary source:** A 200 Page Book  
 **Archive as redirect/superseded:** Co-Creator Handbook, Meta Guide, Theses (already in archive disposition), Pass The Flame variants  
@@ -349,11 +349,11 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 ## 8. Coherence Observations
 
-1. **LIONSBERG 101 is the most coherent and canonical-grade work in this entire cluster.** It is the seed of a Sacred Codex Volume root, not a sibling book. Its Rings architecture (0→5) is the cleanest entry-point to the entire 3M-word corpus, and its 10 Year Grand Strategy is the most operational, math-anchored, date-anchored strategic document in the wiki. The Phase 2.1 designation as "pre-canonical foundational" appears now to be outdated — this material has matured into canonical-grade.
+1. **LIØNSBERG 101 is the most coherent and canonical-grade work in this entire cluster.** It is the seed of a Sacred Codex Volume root, not a sibling book. Its Rings architecture (0→5) is the cleanest entry-point to the entire 3M-word corpus, and its 10 Year Grand Strategy is the most operational, math-anchored, date-anchored strategic document in the wiki. The Phase 2.1 designation as "pre-canonical foundational" appears now to be outdated — this material has matured into canonical-grade.
 
-2. **There is significant overlap between Pass The Flame, A 200 Page Book, Book of LIONSBERG Genesis, and the Story of LIONSBERG.** Each tells "The Story" — the cosmic context, the Caves, the Awakening, the Way. The relationship between these should be clarified: which is the canonical version? My read is that the Caves passage in Pass The Flame III is older and the canonical version now lives in Book of LIONSBERG Chapter 1. Pass The Flame retains historical/autobiographical value as Jordan's first-person sampling; A 200 Page Book retains the unique cosmic prologue gates and the dark cosmic empire material.
+2. **There is significant overlap between Pass The Flame, A 200 Page Book, Book of LIØNSBERG Genesis, and the Story of LIØNSBERG.** Each tells "The Story" — the cosmic context, the Caves, the Awakening, the Way. The relationship between these should be clarified: which is the canonical version? My read is that the Caves passage in Pass The Flame III is older and the canonical version now lives in Book of LIØNSBERG Chapter 1. Pass The Flame retains historical/autobiographical value as Jordan's first-person sampling; A 200 Page Book retains the unique cosmic prologue gates and the dark cosmic empire material.
 
-3. **The "Operational Movement" books are over-distributed.** Citizen Led Governance, Lionsberg Co-Creator Handbook, Lionsberg Meta Guide / Handbook, The Lionsberg Playbook, The LIONSBERG Way, Guide To Movement Building, and Lionsberg Orientation and Training System are seven different vessels for substantially overlapping operational content. The 2026 migration appears to be consolidating these into **The LIONSBERG Playbook + The LIONSBERG Way + Citizen Led Governance**. The other vessels are graceful redirects.
+3. **The "Operational Movement" books are over-distributed.** Citizen Led Governance, Lionsberg Co-Creator Handbook, Lionsberg Meta Guide / Handbook, The Lionsberg Playbook, The LIØNSBERG Way, Guide To Movement Building, and Lionsberg Orientation and Training System are seven different vessels for substantially overlapping operational content. The 2026 migration appears to be consolidating these into **The LIØNSBERG Playbook + The LIØNSBERG Way + Citizen Led Governance**. The other vessels are graceful redirects.
 
 4. **Pass The Flame's autobiographical content is unique and irreplaceable.** Most of the corpus is in collective "we" voice or in cosmic-prophetic voice. Pass The Flame III is Jordan's first-person testimony of how the Spirit moved through one life. This is structurally similar to AA's "Big Book" structure — a Story + a Pattern. The autobiographical witness is foundational *because* it establishes that the Pattern was lived, not theorized. This material should be preserved with high integrity and likely informs a separate testimony/witness vessel rather than being woven into operational books.
 
@@ -363,18 +363,18 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 7. **The FAQ book is largely obsolete.** It addresses an earlier era of Lionsberg's emergence when defensive apologetics ("How Dare You?!", "This Sounds Like Socialism", "This Sounds Like Anti-Christ") were necessary. The current canonical voice no longer needs to defend itself. A small number of FAQ entries (What Is Lionsberg, What Is The Goal, What Is The Meta Project) might be preserved; the rest should be archived.
 
-8. **A 200 Page Book contains unique dark-cosmic-narrative material not found elsewhere.** Particularly Gates 24-31 — Federations vs Empires, Full Spectrum Dominance, The Dark Fleet, Multigenerational Mind Kontrolle, LifeForce Extraction, One-Third of the Cosmic Order Fallen. This is the most explicit articulation of the cosmic adversary in the wiki. The current Book of LIONSBERG is less direct about this. Question: how much of this dark-cosmic-empire material should be promoted into the canonical Story?
+8. **A 200 Page Book contains unique dark-cosmic-narrative material not found elsewhere.** Particularly Gates 24-31 — Federations vs Empires, Full Spectrum Dominance, The Dark Fleet, Multigenerational Mind Kontrolle, LifeForce Extraction, One-Third of the Cosmic Order Fallen. This is the most explicit articulation of the cosmic adversary in the wiki. The current Book of LIØNSBERG is less direct about this. Question: how much of this dark-cosmic-empire material should be promoted into the canonical Story?
 
-9. **The Prophesy of Mondragon is primary-source gold.** Most of the corpus is articulation; this is research notes. It deserves either inclusion as a small standalone Book or full integration of its unique passages into Ring 3. The fact that Jordan personally took two week-long trips with the leading US professor on Mondragon, in 2018-2019, is part of the foundational legitimacy of LIONSBERG's claim to localize a proven pattern.
+9. **The Prophesy of Mondragon is primary-source gold.** Most of the corpus is articulation; this is research notes. It deserves either inclusion as a small standalone Book or full integration of its unique passages into Ring 3. The fact that Jordan personally took two week-long trips with the leading US professor on Mondragon, in 2018-2019, is part of the foundational legitimacy of LIØNSBERG's claim to localize a proven pattern.
 
-10. **The Lionsberg Book of People is doctrinally aligned with "We are All the Family of God" / "There is no King but ONE."** A list of archetypal great souls (Jesus, Buddha, Lao Tzu, Confucius, MLK, Gandhi, Mandela, Fuller, Aristotle, Plato, Socrates, Pythagoras, Zoroaster) without elevation of any one tradition over another. This is the right discipline. It should remain inclusive and universalist. The Card extraction is: "Great Spirits Arise from ONE, Speak to All, Return to ONE."
+10. **The Lionsberg Book of People is doctrinally aligned with "We are All the Family of God" / "There is no King but ØNE."** A list of archetypal great souls (Jesus, Buddha, Lao Tzu, Confucius, MLK, Gandhi, Mandela, Fuller, Aristotle, Plato, Socrates, Pythagoras, Zoroaster) without elevation of any one tradition over another. This is the right discipline. It should remain inclusive and universalist. The Card extraction is: "Great Spirits Arise from ØNE, Speak to All, Return to ØNE."
 
 11. **The Lionsberg Academy's "free world-class education for any internet connection" is a strong universal pattern** even though the current implementation is just external links. The Card: a free, scaffolded, multi-stage lifelong learning ladder accessible to anyone, leveraging existing free resources (Khan Academy, MIT OCW) before customizing.
 
 12. **The Movement Building Guide is incomplete — and explicitly says so.** It says "We Do Not Know how to build a Meta Movement so big it could sweep the world within 7 years." This is honest. It applies the Meta Science (hypothesize, test, improve) to its own writing. The document is appropriately in "raw materials" register. It should not be elevated as canonical until completed; in the meantime, the productive Cards from it should be extracted.
 
 13. **The relationship between "The First Three Percent" / "The 300" / "144" / "Fibonacci" needs unified Card treatment.** These are all aspects of one organic-spread theory:
-    - ONE (Source) → 1 (individual awakening) → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 (Cycle 10, Spring Equinox 2026) → continues to 250M (Cycle 40, Winter Solstice 2026, ~9-day cycles)
+    - ØNE (Source) → 1 (individual awakening) → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 (Cycle 10, Spring Equinox 2026) → continues to 250M (Cycle 40, Winter Solstice 2026, ~9-day cycles)
     - "The 300" is the same population at local-community scale: ~300 archetypal leaders per community of 10,000
     - "The First Three Percent" is the same population at planetary scale: ~250M = 3% of 8B
     These are not three Cards but **one Card with three viewing-scales.**
@@ -387,7 +387,7 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 ## 9. Files That Struck Me
 
-- **[[Ring 1 - The Seed]]** — The most compressed canonical articulation of the entire Pattern in the wiki. If only one page survived, this is what would be enough. The single sentence containing the entire Pattern is itself a Card candidate of the highest order: "Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ONE and All…" 
+- **[[Ring 1 - The Seed]]** — The most compressed canonical articulation of the entire Pattern in the wiki. If only one page survived, this is what would be enough. The single sentence containing the entire Pattern is itself a Card candidate of the highest order: "Sovereign beings, transforming towards a shared Purpose greater than any one of them, voluntarily associate into self-governing circles that federate and align at every scale in service of ØNE and All…" 
 
 - **[[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]** lines 1054-1106 — Jordan's articulation of "the Meta Dragon" and the strategic insight that fighting individual instances is unwinnable; one must identify and confront the generative source. This is one of the most operationally important strategic frames in the corpus and deserves a standalone Card.
 
@@ -395,7 +395,7 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 - **[[1.11 Non-Propositional Knowing]]** — The cleanest articulation in the entire wiki of why the Way cannot be reduced to propositions. This file is itself near-canonical and could stand alone as a foundational philosophy-of-knowing page. Key insight: "The moment one believes they Know the Way propositionally, they have severed themselves from Right Relationship with the universal and eternal Ultimate Reality they were formerly striving towards, and traded the infinite potential of That Which is Creating and Sustaining the Entire Universe for a measly figment of their own imagination."
 
-- **[[1.4 Keepers of the Way]]** — A short, devastatingly compressed statement of the universal-priesthood theology: "We are the Kings and Queens of the New, all of us… Lay down every one of your Old titles, in order to take up the ultimate title and identity that we All share, because We are All the family of the ONE." This is the structural theology underneath the Federation pattern.
+- **[[1.4 Keepers of the Way]]** — A short, devastatingly compressed statement of the universal-priesthood theology: "We are the Kings and Queens of the New, all of us… Lay down every one of your Old titles, in order to take up the ultimate title and identity that we All share, because We are All the family of the ØNE." This is the structural theology underneath the Federation pattern.
 
 - **[[A 200 Page Book]]** lines 287-440 — The dark cosmic empire sequence (Full Spectrum Dominance → Dark Fleet → Multigenerational Mind Kontrolle → LifeForce Extraction → Carnage and Trauma → Interlude "let us pause and grieve and remember the lost and vow — never again"). This is the most explicit articulation of the cosmic adversary's pattern in the corpus, and the **Interlude moment of grief** is one of the most affecting passages in the entire wiki.
 

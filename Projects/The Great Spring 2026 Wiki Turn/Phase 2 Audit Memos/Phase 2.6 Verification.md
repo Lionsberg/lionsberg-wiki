@@ -43,7 +43,7 @@ Memos extracted to [[ATC-{1,2,3,4,5}]].
 | **The Bell That Rings With Every New Citizen** | IV Playbook | The moment a person truly demonstrates universal citizenship — what does that look like for a billionaire CEO vs. an impoverished widow? Open question worth holding as a Card. |
 | **Stewardship of Resources** | III Great Game / IV Playbook | The named gift/responsibility: we own nothing; we steward what is temporarily entrusted to us. Framing for Resource Stewards. (Note: appears in ledger only in "Concepts at risk" list at line 4540; absent from Net-New Card table.) |
 | **The Army of Leadership, Light, and Love** | III Great Game / V Lexicon | The named character of what the Force For Good becomes. |
-| **The Living Systems Framework** | II Pattern Language | Embedding human systems into the regenerative cycles of nature and cosmos; harm/healing ripples outward through ONE Body. |
+| **The Living Systems Framework** | II Pattern Language | Embedding human systems into the regenerative cycles of nature and cosmos; harm/healing ripples outward through ØNE Body. |
 | **The Human System / Living System Interface** | II Pattern Language | Measurable, transparent basis for transforming humanity from parasitic force to keystone species. |
 | **The Twelve Domains of Action / Pillars Pattern** | II Pattern Language | Engaging multiple domains in parallel (governance, learning, water, food, energy, etc.) as part of Domain-based bioregional planning. (Likely refinement of existing 12 Pillars.) |
 | **The Lionsberg Cycles of Growth** | III Great Game / IV Playbook | The numbered cycle/growth model — already canonical, but the specific time-bound trajectory model (Cycle 1, Cycle 7, Cycle 40 representing First Three Percent engagement) deserves a Card. (Note: appears as bare line item in ledger at line 314 and 715, never as a Card row in the ATC-1 Net-New table.) |
@@ -174,7 +174,7 @@ All 25 transcript Cards present in ledger Net-New table with matching folds and 
 | Card Name | Fold (transcript) | Essence (transcript verbatim) |
 |---|---|---|
 | **The 22.8 Months Window** | I Story / V Lexicon | "23 months remaining" (from Feb 2025) to forge the largest-scale program of action in human history. The hard countdown to the closing window. (Now historical — but the principle of the explicit countdown is canonical.) |
-| **Cosmic Wildlife (already in MEMORY)** | V Lexicon | Reaffirmed: Predators, Parasites, Neutrals, Allies — name factions and behaviors, never species essences. Welcome to LIONSBERG provides clean operational language. (Transcript notes this is reaffirmation of an existing canonical principle, not a fresh Card. Ledger correctly omits.) |
+| **Cosmic Wildlife (already in MEMORY)** | V Lexicon | Reaffirmed: Predators, Parasites, Neutrals, Allies — name factions and behaviors, never species essences. Welcome to LIØNSBERG provides clean operational language. (Transcript notes this is reaffirmation of an existing canonical principle, not a fresh Card. Ledger correctly omits.) |
 
 (So effectively one genuinely missing ATC-5 Card: **The 22.8 Months Window**.)
 

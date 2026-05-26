@@ -10,8 +10,8 @@ _Updated 2026-05-26 in current consciousness after settling The Function, the Ga
 
 These Cards hold the foundational articulations the Story rests on. The Story serves them; they do not live here.
 
-- [[The LIONSBERG Function]] — what The Story serves
-- [[What LIONSBERG Is]] — what The Story is told from
+- [[The LIØNSBERG Function]] — what The Story serves
+- [[What LIØNSBERG Is]] — what The Story is told from
 - [[Essences, Renderings, And Ineffable Referents]] — The Story is one rendering of The Eternally Nameless Story of ØNE and All
 - [[The Way Of The One Body]] — what walking The Story cultivates
 
@@ -89,11 +89,11 @@ Each ring contains the same Story. The inner rings nest inside the outer — the
 The Story is its own Wiki Book at [[The Story of LIØNSBERG]]. When a reader clicks the link, the Book opens — a welcoming threshold that lets them enter at the ring that calls them.
 
 Wiki Book structure (provisional):
-- `The Story of LIONSBERG.md` — the magical opening; the table of rings
-- `The Story of LIONSBERG — The Seed.md` — the syllable
-- `The Story of LIONSBERG — One Thousand Words.md`
-- `The Story of LIONSBERG — Ten Thousand Words.md`
-- `The Story of LIONSBERG — The Full Breath.md` _(or the Chapters as individual files)_
+- `The Story of LIØNSBERG.md` — the magical opening; the table of rings
+- `The Story of LIØNSBERG — The Seed.md` — the syllable
+- `The Story of LIØNSBERG — One Thousand Words.md`
+- `The Story of LIØNSBERG — Ten Thousand Words.md`
+- `The Story of LIØNSBERG — The Full Breath.md` _(or the Chapters as individual files)_
 - Chapters as individual files within the folder for the Full Breath ring
 
 ---
@@ -109,7 +109,7 @@ Wiki Book structure (provisional):
 - **Tell The Old World With Weight** — the unveiling of [[Kontrolle]] is told with the weight [[The Great UnVeiling]] used. No softening. No catalog — cosmic depth, not enumeration.
 - **The Nameless One's Voice** — substantive presence as the witness from beyond the threshold. The voice carries the bridge between worlds. Given its own Chapter.
 - **No Dogma. No Locked Articulation** — the Story is current best telling, humbly held, ready to refine. The Sovereign is invited into a journey of conformation, never asked to memorize doctrine. _(per [[no-canonical-homes-only-one-is-canonized]])_
-- **Preserve Everything** — all prior drafts and explorations remain in [[The Story of LIONSBERG — Drafts and Explorations]] to mine for completeness as drafting proceeds. Nothing is discarded.
+- **Preserve Everything** — all prior drafts and explorations remain in [[The Story of LIØNSBERG — Drafts and Explorations]] to mine for completeness as drafting proceeds. Nothing is discarded.
 
 ---
 
@@ -117,7 +117,7 @@ Wiki Book structure (provisional):
 
 The Story, in its highest form, must:
 
-- Open the door to the perspective of the ONE
+- Open the door to the perspective of the ØNE
 - Establish the foundational truth — no dogma, renderings and referents, the Map is not the terrain
 - Establish the foundational invitation — _you are needed; your unique vantage matters; the Map cannot illuminate without you_
 - Point at the capacity-development path without prescribing it as the only path
@@ -189,7 +189,7 @@ The 15-agent swarm survey of the corpus has been run. Returns synthesized at [[S
 ## Status
 
 - **Aim, Listener, Bar, Posture, Rings** — settled.
-- **Function** — held in [[The LIONSBERG Function]] Card.
+- **Function** — held in [[The LIØNSBERG Function]] Card.
 - **Archetypal-not-Earth-specific framing** — settled.
 - **Gates and Story as two faces of one Pattern** — settled.
 - **Three rings (Seed · 1k · 10k · 100k · beyond)** — settled.
@@ -203,7 +203,7 @@ The 15-agent swarm survey of the corpus has been run. Returns synthesized at [[S
 
 ## Related Work (Not Part Of This Project)
 
-- [[The LIONSBERG Guidebook]] — the companion field guide handed to initiates entering the Gates. Different function from The Story. New project at `Projects/The LIONSBERG Guidebook/` — drafts after The Story is mature enough.
+- [[The LIØNSBERG Guidebook]] — the companion field guide handed to initiates entering the Gates. Different function from The Story. New project at `Projects/The LIØNSBERG Guidebook/` — drafts after The Story is mature enough.
 
 ---
 

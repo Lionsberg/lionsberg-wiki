@@ -12,7 +12,7 @@ captured: 2026-05-18
 
 Adopted Phase 1.5 of [[The Great Spring 2026 Wiki Turn]] (2026-05-18).
 
-The slashed **Ø** replaces the second letter of the older ASCII form LIONSBERG. The Ø is not decoration. It is signature.
+The slashed **Ø** replaces the second letter of the older ASCII form LIØNSBERG. The Ø is not decoration. It is signature.
 
 The Ø carries:
 
@@ -23,6 +23,6 @@ The Ø carries:
 
 A Sovereign seeing the Ø knows they have crossed into something other than ordinary text. The character itself transmits — quietly, persistently, across every page.
 
-The ASCII form **LIONSBERG** remains active across pre-existing wiki content during the propagation window of Phase 4.6. Both spellings refer to the same System. Both resolve through wiki-link convention. Neither breaks the other.
+The ASCII form **LIØNSBERG** remains active across pre-existing wiki content during the propagation window of Phase 4.6. Both spellings refer to the same System. Both resolve through wiki-link convention. Neither breaks the other.
 
 But the spelling printed in the bound seven Volumes is **LIØNSBERG**. The spelling carried in the Seed is **LIØNSBERG**. The spelling that will be remembered across worlds and ages is **LIØNSBERG**.

@@ -1,5 +1,5 @@
-# The LIONSBERG Way
-*For inclusion in [[The LIØNSBERG Sacred Codex|The LIONSBERG Sacred Codex]]*  
+# The LIØNSBERG Way
+*For inclusion in [[The LIØNSBERG Sacred Codex|The LIØNSBERG Sacred Codex]]*  
 *This is a chaotic [[Work In Progress]]*  
 *You should probably ignore it for now*    
 
@@ -19,15 +19,15 @@ And yet **Our Divine Quest** towards this Ultimate Unity, Perfection, Harmony, C
 
 When each inhabitant of each domain voluntarily accepts [[The Invitation]] that The Whole has already selected and accepted HerSelf, We will Join Together in [[The Greatest Celebration and Jubilee In History]], take up Our New Citizenship, and continue the Eternal Work of bringing Heaven to every Domain We InterExist within.  
 
-## The LIONSBERG Way
+## The LIØNSBERG Way
 
-By differentiating out and naming, among [[All]] the potential ways, **One LIONSBERG Way**, We create the profound opportunity to collaborate to continuously improve a **System** purpose-built to bring Heaven into Reality.  
+By differentiating out and naming, among [[All]] the potential ways, **One LIØNSBERG Way**, We create the profound opportunity to collaborate to continuously improve a **System** purpose-built to bring Heaven into Reality.  
 
 It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[Way of Being]], sub-composed the Deepest Wisdom Knowledge regarding **[[How]]** to InterExist in a State that approaches Heaven.  
 
-*Note: The LIONSBERG Way is in the process of transcending, encompassing, and replacing [[The Lionsberg Handbook]].*  
+*Note: The LIØNSBERG Way is in the process of transcending, encompassing, and replacing [[The Lionsberg Handbook]].*  
 
-## The Story of LIONSBERG 
+## The Story of LIØNSBERG 
 
 [[The Story of LIØNSBERG]]  
 [[The Story of LIØNSBERG]]  
@@ -50,11 +50,11 @@ A comprehensive system of systems, community of community etc.
 
 ## 3. Sovereignty
 
-[[The LIONSBERG Declaration of Sovereignty]]  
+[[The LIØNSBERG Declaration of Sovereignty]]  
 
 ## 4. InterExistence
 
-[[LIONSBERG Declaration of InterDependence]]  
+[[LIØNSBERG Declaration of InterDependence]]  
 
 ## 5. Spirit 
 
@@ -62,7 +62,7 @@ A comprehensive system of systems, community of community etc.
 ## 6. Logos, Principles, and Values
 
 
-[[The LIONSBERG System of Values]]  
+[[The LIØNSBERG System of Values]]  
 ## 7. Science and Philosophy
 
 
@@ -79,12 +79,12 @@ A comprehensive system of systems, community of community etc.
 
 
 
-## 11. The LIONSBERG Intention
+## 11. The LIØNSBERG Intention
 
 [[Creator's Intent]]  
 [[Lionsberg Intention]]  
 
-## 12. The LIONSBERG Vision 
+## 12. The LIØNSBERG Vision 
 
 Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]].  
 
@@ -93,82 +93,82 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 [[Lionsberg Vision]]  
 [[Heaven on Earth and Beyond]]  
 
-## 13. The LIONSBERG Mission 
+## 13. The LIØNSBERG Mission 
 
 [[The Great Game of LIØNSBERG]]  
 [[Lionsberg Mission]]  
 
-## 14. The LIONSBERG Mandate 
+## 14. The LIØNSBERG Mandate 
 
 [[Lionsberg Mandate]]  
 
-## 11. The LIONSBERG Community 
+## 11. The LIØNSBERG Community 
 
 
-## 11. The LIONSBERG Covenant
+## 11. The LIØNSBERG Covenant
 
 
-## 12. The LIONSBERG Constitution
+## 12. The LIØNSBERG Constitution
 
 
-## 12. The LIONSBERG Commons
+## 12. The LIØNSBERG Commons
 
 
-## 13. The LIONSBERG Solution
+## 13. The LIØNSBERG Solution
 
 [[The Solution]]  
 
 
-## 13. The LIONSBERG System  
+## 13. The LIØNSBERG System  
 
 [[The System]]  
 [[LIØNSBERG System]]  
 
 
-## 14. The LIONSBERG Structure
+## 14. The LIØNSBERG Structure
 
 [[The Structure]]  
 
-## 14. The LIONSBERG Strategy and Plan 
+## 14. The LIØNSBERG Strategy and Plan 
 
 [[The Strategy]]  
 [[The Plan]]  
 [[The LIØNSBERG Strategy and Plan]]  
 
 
-## 12. The LIONSBERG Prototype
+## 12. The LIØNSBERG Prototype
 
 [[The Prototype]]  
 
-## 13. The LIONSBERG Platform
+## 13. The LIØNSBERG Platform
 
 [[The Lionsberg Platform]]  
 
-## 13. The LIONSBERG Playbook
+## 13. The LIØNSBERG Playbook
 
 [[The LIØNSBERG Playbook]]  
 
 ## 11. Polycentric Localization, Adaptation, and Instantiation
 
 
-## 13. The LIONSBERG Sacred Codex
+## 13. The LIØNSBERG Sacred Codex
 
 [[The LIØNSBERG Sacred Codex]]  
 
-## 14. The Book of LIONSBERG 
+## 14. The Book of LIØNSBERG 
 
 [[The Book of LIØNSBERG]]  
 
-## 13. The LIONSBERG Manifesto 
+## 13. The LIØNSBERG Manifesto 
 
 [[LIØNSBERG Manifesto]]  
-## 13. Introduction to LIONSBERG 
+## 13. Introduction to LIØNSBERG 
 
 [[Welcome to LIØNSBERG]]  
-## Invitation to LIONSBERG
+## Invitation to LIØNSBERG
 
 
-[[The LIONSBERG Invitation]]  
+[[The LIØNSBERG Invitation]]  
 [[LIØNSBERG Invitation]]  
 
 ## 12. Acceptance 
@@ -179,7 +179,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 [[Welcome to LIØNSBERG, We Are Glad You Are Here]]  
 ## 14. Initiation 
 
-[[The LIONSBERG System of Initiation]]  
+[[The LIØNSBERG System of Initiation]]  
 ## 14. Orientation and Onboarding 
 
 
@@ -240,7 +240,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 ## 19. Continuous Learning and Improvement   
 
 
-## 20. The 12 Pillars of LIONSBERG 
+## 20. The 12 Pillars of LIØNSBERG 
 
 [[The 12 Pillars of Lionsberg]]  
 
@@ -502,13 +502,13 @@ Measurement
 
 
 
-# **THE LIONSBERG COMMUNITY INVITATION, ONBOARDING, AND ORIENTATION PROCESS**
+# **THE LIØNSBERG COMMUNITY INVITATION, ONBOARDING, AND ORIENTATION PROCESS**
 
 ## **I. The Sacred Invitation**
 
 ### **Purpose**
 
-The Invitation clearly conveys the magnitude, sacredness, and seriousness of joining LIONSBERG, attracting individuals deeply aligned with the Mission, ready to commit fully, and possessing genuine resonance.  
+The Invitation clearly conveys the magnitude, sacredness, and seriousness of joining LIØNSBERG, attracting individuals deeply aligned with the Mission, ready to commit fully, and possessing genuine resonance.  
 
 ### **Elements of the Invitation**
 
@@ -536,7 +536,7 @@ The Invitation clearly conveys the magnitude, sacredness, and seriousness of joi
 
 ### **Purpose**
 
-An explicit process for candidates to express serious interest and for LIONSBERG members to assess alignment, readiness, and potential for mutual resonance.  
+An explicit process for candidates to express serious interest and for LIØNSBERG members to assess alignment, readiness, and potential for mutual resonance.  
 
 ### **Steps**
 
@@ -578,11 +578,11 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 
 - Comprehensive materials clearly defining:
     
-    - LIONSBERG's Vision, Mission, and Values.
+    - LIØNSBERG's Vision, Mission, and Values.
         
     - Sacred Principles, Protocols, and Practices.
         
-    - Core documents (e.g., LIONSBERG Constitution, Co-Operating System, Declaration of Interdependence).
+    - Core documents (e.g., LIØNSBERG Constitution, Co-Operating System, Declaration of Interdependence).
         
     - Cosmic Disclosure and Contextual Education.
         
@@ -591,7 +591,7 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 
 #### 3. **Mentorship Assignment**
 
-- Pairing with a seasoned LIONSBERG guide for regular check-ins, Q&A, and support.
+- Pairing with a seasoned LIØNSBERG guide for regular check-ins, Q&A, and support.
     
 - Mentor helps new members integrate lessons, practices, and principles deeply and practically.
     
@@ -622,7 +622,7 @@ A structured, supportive entry phase ensuring new members clearly understand, em
 
 ### **Purpose**
 
-A profoundly meaningful formal ceremony marking the conscious choice, sacred oath, and full integration into the LIONSBERG Community.  
+A profoundly meaningful formal ceremony marking the conscious choice, sacred oath, and full integration into the LIØNSBERG Community.  
 
 ### **Elements of the Ceremony**
 
@@ -669,7 +669,7 @@ Structured guidance and supportive oversight during initial 90 days to ensure se
 
 ### **Purpose**
 
-Clear pathways for continuous growth, deepening mastery, and contribution within LIONSBERG.  
+Clear pathways for continuous growth, deepening mastery, and contribution within LIØNSBERG.  
 
 ### **Structured Tracks**
 
@@ -708,7 +708,7 @@ Clearly defined path from individual membership towards full-fledged Holonic Cit
 
 ### **Criteria for Holonic Citizenship**
 
-- Demonstrated consistent embodiment of all LIONSBERG principles and values.
+- Demonstrated consistent embodiment of all LIØNSBERG principles and values.
     
 - Successful completion of foundational and mastery programs.
     
@@ -749,7 +749,7 @@ By following this structured Invitation, Onboarding, and Orientation process, ea
     
 - Fully integrated within community structures, supported by mentors, and deeply woven into the community fabric.
     
-- Clearly oriented towards lifelong mastery, service, and citizenship within LIONSBERG, continually evolving and contributing toward our collective goal of co-creating Heaven on Earth.
+- Clearly oriented towards lifelong mastery, service, and citizenship within LIØNSBERG, continually evolving and contributing toward our collective goal of co-creating Heaven on Earth.
     
 
 ---

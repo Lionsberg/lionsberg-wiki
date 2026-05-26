@@ -6,7 +6,7 @@ _The Creative Flowering of the Divine Through Embodied Being_
 
 ### **Summary**
 
-The Seventh Pillar of LIONSBERG honors culture, art, and expression as sacred channels through which the Infinite and Eternal speaks into SpatioTemporal Form. It calls forth a renaissance of beauty, meaning, and soulfulness that uplifts the spirit, reveals Truth, and unites the family of Embodied Being in celebration of the Divine. Sacred Culture reclaims the role of creativity not as luxury or entertainment, but as essential nourishment for civilization—mirroring the harmony of Heaven in the patterns of Earth.
+The Seventh Pillar of LIØNSBERG honors culture, art, and expression as sacred channels through which the Infinite and Eternal speaks into SpatioTemporal Form. It calls forth a renaissance of beauty, meaning, and soulfulness that uplifts the spirit, reveals Truth, and unites the family of Embodied Being in celebration of the Divine. Sacred Culture reclaims the role of creativity not as luxury or entertainment, but as essential nourishment for civilization—mirroring the harmony of Heaven in the patterns of Earth.
 
 ---
 
@@ -28,7 +28,7 @@ Culture is not a product. It is a Portal.
 
 ### **12 Theses of Sacred Culture, Art, and Expression**
 
-1. **Creativity Is a Divine Inheritance** — every being is a unique expression of the ONE, capable of birthing beauty and creativity into the world.
+1. **Creativity Is a Divine Inheritance** — every being is a unique expression of the ØNE, capable of birthing beauty and creativity into the world.
     
 2. **Art Is a Sacred Language** — a way the soul speaks what cannot be spoken and the Infinite is revealed in form.
     
@@ -50,7 +50,7 @@ Culture is not a product. It is a Portal.
     
 11. **Festivals, Rituals, and Sacred Celebration Are Essential to Healthy Societies** — and must be restored as communal anchors of joy and remembrance.
     
-12. **The Goal Is the Renaissance of the Spirit and Soul** — a flowering of human creativity in alignment with the Logos, offering back to the ONE experiential gifts of the beauty that has been given to Us.
+12. **The Goal Is the Renaissance of the Spirit and Soul** — a flowering of human creativity in alignment with the Logos, offering back to the ØNE experiential gifts of the beauty that has been given to Us.
     
 
 ---
@@ -75,13 +75,13 @@ It lived in the street musicians and graffiti poets. It lived in the quiet hands
 
 Sacred Culture is that rebirth.
 
-It is the restoration of art and creativity to its rightful role as the heartbeat of the people, the pulse of civilization, and the whisper of the Spirit of ONE into time.
+It is the restoration of art and creativity to its rightful role as the heartbeat of the people, the pulse of civilization, and the whisper of the Spirit of ØNE into time.
 
 In Sacred Culture, every person is recognized as an artist of the Real. Every child is nurtured to discover their voice, their rhythm, their vision, their passion, their purpose. Every festival becomes a sacrament. Every story a transmission. Every mural a mirror of the soul.
 
 Culture is not decoration—it is direction. It tells us who we are, where we come from,  where we are going, and why. It encodes memory. It transmits possibility. It reminds us that we are not just bodies—we are dreaming minds, singing hearts, creating hands, immortal spirits yearning to transcend the limitations of Reality and ReTouch the Infinite and Eternal.
 
-LIONSBERG invites the artists, poets, musicians, builders, actors, dancers, designers, weavers, and storytellers of the world to rise again—not to entertain, but to initiate. Not to distract, but to direct. Not to conform, but to reveal.
+LIØNSBERG invites the artists, poets, musicians, builders, actors, dancers, designers, weavers, and storytellers of the world to rise again—not to entertain, but to initiate. Not to distract, but to direct. Not to conform, but to reveal.
 
 Let the colors return. Let the drums begin. Let the sacred myths be told anew. Let us paint and sing the New World into being.
 

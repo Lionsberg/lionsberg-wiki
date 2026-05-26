@@ -1,4 +1,4 @@
-# The LIONSBERG Book of Emotions
+# The LIØNSBERG Book of Emotions
 
 To start, this is simply a list of feelings to help us answer the question and communicate: 
 

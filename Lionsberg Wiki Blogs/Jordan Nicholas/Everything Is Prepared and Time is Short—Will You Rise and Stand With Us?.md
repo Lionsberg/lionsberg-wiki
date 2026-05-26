@@ -4,15 +4,15 @@ Beloved Friends, Family, and Allies,
 
 We stand at a pivotal crossroads. Clearly, something is deeply wrong: bombs fall, nations fragment, billions suffer. Yet **a better world** is within our reach—***if*** we imagine and co-create it **now**, before the **[[Old]]** fully collapses into chaos, tyranny, and kontrolle.
 
-As many of you know, we have dedicated our lives to preparing **LIONSBERG**, a sacred blueprint and starting point for the **New Sovereign Community** that must rapidly emerge to prevail in **The War** and guide humanity into a flourishing **New Civilization**.
+As many of you know, we have dedicated our lives to preparing **LIØNSBERG**, a sacred blueprint and starting point for the **New Sovereign Community** that must rapidly emerge to prevail in **The War** and guide humanity into a flourishing **New Civilization**.
 
-As [[Summer Quests Begin in Africa and Around the World]], I am standing in East Africa, responding to the cries of children starving for lack of **ten-cent daily rations of gruel**, and beginning to extend the **LIONSBERG Invitation** to some of the most impoverished, vulnerable, and beautiful people on Earth. At this critical moment, I am pausing to personally hold **The Gate** of LIONSBERG wide open for you until **July 1st**.  
+As [[Summer Quests Begin in Africa and Around the World]], I am standing in East Africa, responding to the cries of children starving for lack of **ten-cent daily rations of gruel**, and beginning to extend the **LIØNSBERG Invitation** to some of the most impoverished, vulnerable, and beautiful people on Earth. At this critical moment, I am pausing to personally hold **The Gate** of LIØNSBERG wide open for you until **July 1st**.  
 
 By responding now with a meaningful contribution, you will immediately gain:
 
 - **Provisional Membership**
     
-- Access to the **LIONSBERG Universe(ity), Platform, and Commons**
+- Access to the **LIØNSBERG Universe(ity), Platform, and Commons**
     
 - A complimentary digital copy of _**The Great UnVeiling**_ upon its summer release
     
@@ -36,7 +36,7 @@ By July 15th, **Founding Membership** will be offered to all are on the board wi
 5. A **Summer Quest**  
     
 
-After July 1st, LIONSBERG will become **[[A New Sovereignty]]**, entry will be determined solely by Members, and requirements will naturally rise.
+After July 1st, LIØNSBERG will become **[[A New Sovereignty]]**, entry will be determined solely by Members, and requirements will naturally rise.
 
 Explore further or RSVP directly below:
 
@@ -58,4 +58,4 @@ With Love, Gratitude, and Respect,
 
 > _"As the Existing Order Kollapses, the Creator is inviting Us All to become Co-Creators of a Better World. You Are Invited!"_  
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*  
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIØNSBERG Inc., a 501(c)(3).*  

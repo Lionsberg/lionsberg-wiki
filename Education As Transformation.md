@@ -48,7 +48,7 @@ And the concept of **Sirimiri** — the Basque word for a light, gentle rain. Ar
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Education operates through:
 

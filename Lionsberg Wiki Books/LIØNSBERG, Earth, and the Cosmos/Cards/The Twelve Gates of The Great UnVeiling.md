@@ -16,7 +16,7 @@ Without architecture, the unveiling is overwhelming chaos — the seeker stares 
 
 The Gates progress through three movements:
 
-**The Cosmic Frame (Gates I-III)** — the seeker learns where the Story begins. The original ONE. The Logos. The first creation. The first fracture. The Sacred Flame that cannot be extinguished. The seeker is grounded in the source before being shown the wound.
+**The Cosmic Frame (Gates I-III)** — the seeker learns where the Story begins. The original ØNE. The Logos. The first creation. The first fracture. The Sacred Flame that cannot be extinguished. The seeker is grounded in the source before being shown the wound.
 
 **The Domains and Mechanics of Kontrolle (Gates IV-IX)** — the seeker is taken through the architecture of the prison. Spiritual kontrolle. Mental kontrolle. Material kontrolle. The mechanisms — trauma, ritual, technology, debt, deception. The institutions — government, religion, money, media, medicine, education. The factions — bloodlines, cabals, dark fleets, parasitic orders. The seeker comes to see that the Old World is not a series of accidents; it is an integrated system of long-running domination.
 
@@ -24,7 +24,7 @@ The Gates progress through three movements:
 
 Twelve is a canonical LIØNSBERG number. It echoes:
 
-- The [[The 12 Pillars Orbit The ONE|12 Pillars]] — the positive structure of the New that mirrors the negative structure unveiled
+- The [[The 12 Pillars Orbit The ØNE|12 Pillars]] — the positive structure of the New that mirrors the negative structure unveiled
 - The [[The 12 Stages of the Sovereign's Path|12-Stage Sovereign's Path]] — the personal architecture of the Codex's experience
 - The twelve hours of day and the twelve hours of night
 - The twelve tribes, the twelve apostles, the twelve gates of the New Jerusalem (Rev 21)

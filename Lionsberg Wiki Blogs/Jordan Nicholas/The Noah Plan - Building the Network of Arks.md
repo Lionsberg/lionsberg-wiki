@@ -150,7 +150,7 @@ A **network of Arks**, **strategically positioned and interconnected**, is **ind
     - **Sacred texts, DNA archives, and irreplaceable knowledge**
     - **Technology that must be protected from hostile forces**  
     - **Keys to rebuilding civilization after the storm has passed**  
-    - **A local copy of the LIONSBERG Wiki in its most current form** 
+    - **A local copy of the LIØNSBERG Wiki in its most current form** 
     - **[[The Divine Blueprints]] in their most complete form**   
 
 > **Not all will know where these sanctuaries are—but their presence ensures the survival of Truth and Life.**
@@ -166,7 +166,7 @@ Those who **wait too long will not make it inside.**
 To prepare, each individual, family, and locality must, as rapidly as possible without rushing, hoarding, disadvantaging others, or accelerating [[Collapse]]:
 
 1. **Break free from reliance on centralized systems—food, energy, money, debt, governance, digital, and economic.**
-2. **Find or forge an Ark in The LIONSBERG Network—a community, a sanctuary, or a refuge that will survive The Shift.**
+2. **Find or forge an Ark in The LIØNSBERG Network—a community, a sanctuary, or a refuge that will survive The Shift.**
 3. **Develop the skills necessary to contribute—whether in survival, medicine, defense, agriculture, construction, or energy, playing with the animals, or baking cookies and giving hugs. Every child and every grandmother must have a place.**
 4. **Create redundancy—multiple fallback plans, escape routes, and caches of critical supplies.**
 5. **Mentally and spiritually commit to the task—knowing that to Build Together is to ensure the continuity of humanity itself.**
@@ -189,4 +189,4 @@ This is **The Noah Plan.**
 
 Further details can be found in [[The LIØNSBERG Strategy and Plan]] and other [[Lionsberg Wiki Books]]. 
 
-P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIONSBERG System for interoperable use by the [[Force For Good]]. 
+P.S. As The War is gradually won, the resources, bases, supplies and technologies of [[The Dark Empires]] and collapsing [[Existing Order]] will gradually become available to Us. It would be beneficial to accelerate this process as rapidly as possible. [[The Greatest Fraud, Deception, and Existential Threat in History]] has already allocated trillions of Our Resources to a trove of sites and technologies that rightfully belong to Us, The People of Earth. They will not be reclaimed through courts or permission. They will be reclaimed and repurposed for Good at the [[Wise Right Time]], as each locality is ready to cause that to happen. These sites, tools, and technologies should be progressively brought back under Our Authority, inventoried, and connected to the LIØNSBERG System for interoperable use by the [[Force For Good]]. 

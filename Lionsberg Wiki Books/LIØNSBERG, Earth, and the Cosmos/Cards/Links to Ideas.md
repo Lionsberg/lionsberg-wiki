@@ -11,7 +11,7 @@ captured: 2026-05-18
 
 Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].  
 
-- **[[The LIONSBERG Narrative Universe]]**
+- **[[The LIØNSBERG Narrative Universe]]**
     
 	- **[[The Story of LIØNSBERG]]**  
         
@@ -22,40 +22,40 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
 
 - **[[The Book of LIØNSBERG]]**  (Metaphysics, Theology, Philosophy, Law, Cosmic Blueprints.)
     
-- **[[The LIONSBERG Covenant and Law]]** 
+- **[[The LIØNSBERG Covenant and Law]]** 
     
-	- **[[The LIONSBERG Covenant]]**
+	- **[[The LIØNSBERG Covenant]]**
         
     - **[[The LIØNSBERG Constitution]]**
         
-    - **[[The LIONSBERG Code]]**
+    - **[[The LIØNSBERG Code]]**
         
-    - **[[The LIONSBERG Agreements]]**
+    - **[[The LIØNSBERG Agreements]]**
         
     
-- **[[The LIONSBERG Theses]]**
+- **[[The LIØNSBERG Theses]]**
     
-- The LIONSBERG Blueprints
+- The LIØNSBERG Blueprints
     
     - **[[The LIØNSBERG Cycle of Cosmic Co-Creation]]**
           
-	- **[[The Golden Seed of LIONSBERG]]**
+	- **[[The Golden Seed of LIØNSBERG]]**
         
     - **[[The 12 Pillars of Lionsberg]]**
         
     - **[[The LIØNSBERG Pattern Language]]**
         
-    - **[[The Kingdom of LIONSBERG — Plans and Specifications]]**  
+    - **[[The Kingdom of LIØNSBERG — Plans and Specifications]]**  
         
-- **The LIONSBERG Atlas and Timelines**
+- **The LIØNSBERG Atlas and Timelines**
     
-- **[[The LIONSBERG Commentaries]]**
+- **[[The LIØNSBERG Commentaries]]**
     
-- **[[The LIONSBERG Guardrails]]**  — What LIONSBERG is _not_, preserving integrity.
+- **[[The LIØNSBERG Guardrails]]**  — What LIØNSBERG is _not_, preserving integrity.
 
-[[The LIONSBERG Field of Agreements]]  
+[[The LIØNSBERG Field of Agreements]]  
 
-[[The LIONSBERG Co-Creator's Handbook]]  
+[[The LIØNSBERG Co-Creator's Handbook]]  
 
 _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReUnification of Heaven on Earth and Beyond_  
 ## **BOOK I – THE DIVINE INTENTION, ETERNAL LOGOS, AND FIRST PRINCIPLES**
@@ -74,7 +74,7 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
     
 12. The New Covenant  
     
-13. The LIONSBERG Constitution  
+13. The LIØNSBERG Constitution  
     
 14. The Seven Commitments of Every Co-Creator  
     
@@ -135,21 +135,21 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
     
 42. The Living Codex as Bridge Between Worlds
 
-- **The LIONSBERG Theses**
+- **The LIØNSBERG Theses**
     
-- **The LIONSBERG Covenant**
+- **The LIØNSBERG Covenant**
     
-- **The LIONSBERG Constitution**  
+- **The LIØNSBERG Constitution**  
     
-- **The LIONSBERG System of Values**  
+- **The LIØNSBERG System of Values**  
     
-- **The LIONSBERG Pattern Language**  
+- **The LIØNSBERG Pattern Language**  
     
-- **The LIONSBERG Playbook**
+- **The LIØNSBERG Playbook**
     
-- **The LIONSBERG Lexicon**
+- **The LIØNSBERG Lexicon**
      
-- **The Book of LIONSBERG**
+- **The Book of LIØNSBERG**
 
 1. Why It Must Be Transmitted Now
     

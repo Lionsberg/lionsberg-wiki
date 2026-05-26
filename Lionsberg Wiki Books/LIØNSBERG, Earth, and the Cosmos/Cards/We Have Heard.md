@@ -27,6 +27,6 @@ For the LIØNSBERG voice, the convention applies in two registers:
 
 The convention is compatible with [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|the wise elder at the fire]] — the Elder always speaks from what has been heard, refined by living it, not from "what I personally decided."
 
-It is also a protection against [[The Pattern Governs, Not People|personality cults]]. Whoever speaks "I am the source of this teaching" has, by that act, stepped outside the Movement. The Source is the ONE; the speakers are vessels.
+It is also a protection against [[The Pattern Governs, Not People|personality cults]]. Whoever speaks "I am the source of this teaching" has, by that act, stepped outside the Movement. The Source is the ØNE; the speakers are vessels.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] as a foundational voice convention of the Meta Layer.

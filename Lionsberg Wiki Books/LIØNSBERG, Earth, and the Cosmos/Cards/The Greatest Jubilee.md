@@ -25,5 +25,5 @@ When recognition that the last has crossed is acknowledged, the species' wildern
 - [[The Great ReFounding]] — Movement 9, whose completion triggers the Jubilee
 - [[The Way Of The One Body]] — Blue Belt in which is the threshold every Sovereign crosses
 - [[The Sovereign Path]] — Stage 11 holds the Jubilee moment
-- [[The LIONSBERG Function]] — what the Jubilee marks the fulfillment of for Earth
+- [[The LIØNSBERG Function]] — what the Jubilee marks the fulfillment of for Earth
 - [[Capacity Development Architecture]] — the arc that culminates here

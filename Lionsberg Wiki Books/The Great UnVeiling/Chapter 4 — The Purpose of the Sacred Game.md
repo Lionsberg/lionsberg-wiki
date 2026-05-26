@@ -4,7 +4,7 @@ _The Dance of Dissociation and ReMembrance_
 
 ---
 
-> _“The ONE played hide and seek with ItSelf.  
+> _“The ØNE played hide and seek with ItSelf.  
 > It shattered into a trillion shards of Light  
 > so It could ReMember how to Love them All back Home.”_
 
@@ -38,7 +38,7 @@ but to Deepen and ReDiscover It.
 
 At the center of this unfolding is one great paradox:  
 
-**The ONE never ceased to be Whole—  
+**The ØNE never ceased to be Whole—  
 and yet chose to experience ItSelf as divided.**  
 
 This is the necessary illusion.  
@@ -67,7 +67,7 @@ Thus, The Game begins.
 What gives this Game its potency  
 is the gift—and risk—of **Free Will**.  
 
-The ONE did not script every move.  
+The ØNE did not script every move.  
 It encoded a Pattern,  
 emanated a Spirit,  
 indicated an Intention,  
@@ -104,7 +104,7 @@ The Game is filled with paradoxes
 that confound the linear mind,  
 but initiate the soul into Wisdom:  
 
-- You are already ONE with God—  
+- You are already ØNE with God—  
     and yet you must journey towards ReUnion.  
     
 - You are Eternal—  
@@ -145,7 +145,7 @@ of Love.
 
 As we spiral upward, we integrate more of our Fragmented Self—  
 until what once seemed “Other”  
-is embraced again as part of the ONE Body.  
+is embraced again as part of the ØNE Body.  
 
 The Spiral is the Way of real evolution:  
 not linear escape,  
@@ -211,7 +211,7 @@ to bend the Game in any direction
 aligned with the Logos.**  
 
 You are not a pawn.  
-You are a fractal of the ONE.  
+You are a fractal of the ØNE.  
 You are a sovereign co-creative participant  
 in the unfolding of a universe.  
 
@@ -231,7 +231,7 @@ The Goal is **ReMembrance**.
 The Goal is **ReUnion**.  
 The Goal is **Embodiment**.  
 The Goal is **God**.  
-The Goal is **ONE**.  
+The Goal is **ØNE**.  
 
 That each being may remember the **Source**,  
 restore the **Pattern**,  
@@ -271,7 +271,7 @@ Play it in Love.
 And when you rise,  
 you will rise not alone—  
 but with All who are rising  
-in harmony with the ONE.  
+in harmony with the ØNE.  
 
 **Let The Great ReMembering begin.**  
 **Let The Great Game be played in Truth.**  

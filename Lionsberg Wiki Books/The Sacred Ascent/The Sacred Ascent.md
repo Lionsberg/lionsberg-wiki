@@ -69,7 +69,7 @@ All the Ways braided into one fluent instrument. Operating across scales — Cir
 
 Each Guild stewards its own complete belt system for its archetypal Way. The Way Of The One Body — stewarded by the +1 Guild — awards stripes (dans) on Black Belt for each Guild Black Belt attained. **5th Dan in The Way Of The One Body = Mastery** = Black Belt held in 5 archetypal Ways, witnessed by the Bodies.
 
-See [[The LIONSBERG Belt System]] for the architecture of belts, recognition mechanics, and dan progression.
+See [[The LIØNSBERG Belt System]] for the architecture of belts, recognition mechanics, and dan progression.
 
 ---
 

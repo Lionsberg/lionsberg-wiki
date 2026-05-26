@@ -3,7 +3,7 @@ status: settled
 themes: [capacity-development, sovereign-path, axis, lionsberg-architecture]
 ---
 
-# The LIONSBERG Capacity Development Axis
+# The LIØNSBERG Capacity Development Axis
 
 The Sovereign Path has two axes. The **event axis** names what happens at each Stage — Discovery, Threshold, Orientation, Gather, and so on. The **capacity axis** names what is built in the Sovereign at each Stage. The events are the markers; the capacity is the substance.
 
@@ -30,5 +30,5 @@ The Path is the cultivation of capacity. Each Stage names both what the Sovereig
 - [[Capacity Development Architecture]] — the nested arcs (Years 0–3, 3–7/10, lifetime) that hold these Stages
 - [[The 144 Gates of Initiation]] — the substantive cultivation across Stage 8
 - [[The Sacred Ascent]] — the substantive cultivation across Stage 9
-- [[The LIONSBERG Belt System]] — the recognition architecture
+- [[The LIØNSBERG Belt System]] — the recognition architecture
 - [[The Greatest Jubilee]] — what Stage 11 culminates in

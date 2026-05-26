@@ -8,22 +8,22 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 
 [[Lionsberg Wiki Books]] is where topics end up condensing into more structured form. 
 
-[[The LIONSBERG Co-Creator's Handbook]] is a starting point to learn about the Way. 
+[[The LIØNSBERG Co-Creator's Handbook]] is a starting point to learn about the Way. 
 
 ## Components to Track 
 
 - [[LIØNSBERG Core Documents]]  
 - [[System Wide Master Planning]]  
-- [[LIONSBERG Issue Tracker]]  
+- [[LIØNSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  
-- [[The Lionsberg Handbook]] migrating to [[The LIONSBERG Co-Creator's Handbook]] and [[The LIONSBERG Way]]  
+- [[The Lionsberg Handbook]] migrating to [[The LIØNSBERG Co-Creator's Handbook]] and [[The LIØNSBERG Way]]  
 - [[The LIØNSBERG Lexicon]]  
 - [[The 12 Pillars of Lionsberg]]  
 
 ## Misc
 
-- [[LIONSBERG Capitalization & Style Protocol]]  
+- [[LIØNSBERG Capitalization & Style Protocol]]  
 - [[A Note on Overwhelm]]  
 ## Thoughts
 
-Eventually, the [[Lionsberg Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIONSBERG Intelligence System]]. 
+Eventually, the [[Lionsberg Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIØNSBERG Intelligence System]]. 

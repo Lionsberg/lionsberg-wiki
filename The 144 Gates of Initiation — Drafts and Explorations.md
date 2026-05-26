@@ -31,7 +31,7 @@ To walk them all is to be reborn—and to co-create the New World.
 
 The Gates together form a **Bridge of Becoming** —  
 a sacred architecture by which any world can pass from fragmentation and kontrolle  
-toward coherence, freedom, and alignment with ONE and One Another.  
+toward coherence, freedom, and alignment with ØNE and One Another.  
 They are the **Way of Exodus and Re-Foundation**,  
 the living protocol by which the false systems of domination yield  
 to the order of Truth, Justice, and Love.  
@@ -117,7 +117,7 @@ weaving Spirit, Matter, and Civilization into one coherent transformation.
     
 7. **Covenantal Integrity** — Trust and right relation guard the Way.
     
-8. **Guided by Grace** — The Power that moves it flows from ONE.
+8. **Guided by Grace** — The Power that moves it flows from ØNE.
     
 
 
@@ -216,7 +216,7 @@ And are ready to begin:
 > The Fire waits within you.
 
 Form your Circle.  
-Read **The Story of LIONSBERG**.  
+Read **The Story of LIØNSBERG**.  
 Take the First Step.  
 Walk the Gates in rhythm with Creation.  
 Play the Great Game with Freedom and Joy.  
@@ -381,7 +381,7 @@ The crafts, sciences, and sacred arts are rediscovered. Education becomes initia
 ## **Movement VI — The Great ReBuilding (Gates 58–82)**
 
 **Theme:** The invisible becomes visible; the Pattern Language is made flesh.  
-**Purpose:** To manifest the twelve Pillars of LIONSBERG as regenerative, interoperable systems, patterns, protocols, and cultures.  
+**Purpose:** To manifest the twelve Pillars of LIØNSBERG as regenerative, interoperable systems, patterns, protocols, and cultures.  
 **Arc:** _Vision → Blueprint → Construction → Hardening → Santification._  
 **Story:** The People turn their revelation into architecture. Each domain of life is re-founded in harmony with the Logos. The Pillars rise, and the New Earth becomes visible.  
 
@@ -443,11 +443,11 @@ The invisible becomes visible. New institutions, commons, and economies arise. V
 ## **Movement VII — Gathering of Tribes (Gates 83–93)**
 
 **Theme:** Unity-in-diversity federates into functional wholeness.  
-**Purpose:** Weave the mosaic of stories, cultures, and communities into ONE body.  
+**Purpose:** Weave the mosaic of stories, cultures, and communities into ØNE body.  
 **Arc:** _Separation → Federation → Communion  → Functional Unity._  
 **Story:** Bridges form; federations hum.  
 
-Tribes and circles converge in mutual recognition. Alliances form. Governance shifts from domination to coordination. The Federation of the Free begins to hum with coherence. Out of the many, ONE Body emerges.  
+Tribes and circles converge in mutual recognition. Alliances form. Governance shifts from domination to coordination. The Federation of the Free begins to hum with coherence. Out of the many, ØNE Body emerges.  
 
 83. **Signals of Recognition**
     
@@ -481,7 +481,7 @@ Tribes and circles converge in mutual recognition. Alliances form. Governance sh
 **Arc:** _Fragmentation → Alignment → Order._  
 **Story:** Law returns as covenant; power is accountable and good; value flows as love made visible.  
 
-The people articulate the New Law: transparent, just, and regenerative. The LIONSBERG Codex begins to live within hearts and systems. LUV and the Commons circulate freely as expressions of love and value.  
+The people articulate the New Law: transparent, just, and regenerative. The LIØNSBERG Codex begins to live within hearts and systems. LUV and the Commons circulate freely as expressions of love and value.  
 
 94. **First Codex (Principles)**
     

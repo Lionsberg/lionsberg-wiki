@@ -24,7 +24,7 @@ In every case, the Purpose governed — not any person, not any council, not any
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 The Purpose is [[Meta Goal|The Meta Goal]]: the total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness.
 

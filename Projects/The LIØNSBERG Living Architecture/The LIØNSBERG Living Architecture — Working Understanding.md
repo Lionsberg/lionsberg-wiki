@@ -12,11 +12,11 @@ Lives at [[The Foundational Truth]].
 
 ## What LIØNSBERG Is — Linked
 
-Lives at [[What LIONSBERG Is]]. 
+Lives at [[What LIØNSBERG Is]]. 
 
 ## The Function — Linked
 
-Lives at [[The LIONSBERG Function]]. 
+Lives at [[The LIØNSBERG Function]]. 
 
 ---
 
@@ -105,7 +105,7 @@ Reading the corpus content on the Sovereign Path and the 12 Stages through curre
 
 ## The Belt System — Linked
 
-Lives at [[The LIONSBERG Belt System]].
+Lives at [[The LIØNSBERG Belt System]].
 
 ## The Way Of The One Body — Linked
 
@@ -115,9 +115,9 @@ Lives at [[The Way Of The One Body]].
 
 Lives at [[The Greatest Jubilee]].
 
-## The LIONSBERG Capacity Development Axis — Linked
+## The LIØNSBERG Capacity Development Axis — Linked
 
-Lives at [[The LIONSBERG Capacity Development Axis]].
+Lives at [[The LIØNSBERG Capacity Development Axis]].
 
 ## The 144 Gates of Initiation — Linked
 

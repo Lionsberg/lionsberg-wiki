@@ -137,13 +137,13 @@ In 1776, there were **2.5 million people** in America.
 By 2026, there *must be* **250 million people enacting The New Vision and Plan.**  
 
 ____  
-## **LIONSBERG**
+## **LIØNSBERG**
 
 We have spent the last ~8 years synthesizing lifetimes of wisdom and work from a planetary network into a **Foundational Starting Point** and **Gathering Place** for this historic endeavor, with guidance from a diverse array of citizens and elders around the world.  
 
 ***WARNING: A suitable Starting Point cannot be recreated within the [[Critically Effective Time Limit]].***  We are already decades into the [[Critical Path]]. With only 23 months remaining to the next **Milestone**, We must begin connecting and empowering [[The First Three Percent]] **NOW**. There is no Time to delay.  
 
-The logic is simple: An optimally decentralized array of Ten Billion [[Sovereign]] Individuals, Groups, and Communities, ***Powered by LIONSBERG***, constitute the coordinating [[Force For Good]] capable of confronting and overcoming the [[Meta Crisis]], and co-creating [[Heaven On Earth]].  
+The logic is simple: An optimally decentralized array of Ten Billion [[Sovereign]] Individuals, Groups, and Communities, ***Powered by LIØNSBERG***, constitute the coordinating [[Force For Good]] capable of confronting and overcoming the [[Meta Crisis]], and co-creating [[Heaven On Earth]].  
 
 It all begins as [[The First Three Percent]] receive and accept **The Invitation** over the next 22.8 months.  
 
@@ -177,10 +177,10 @@ Having no idea how people will respond to this, We have set up a simple [RSVP Fo
 
 ~ J  
 
-P.S. For those who desire more information, We have articulated nearly 2.3 million words in the LIONSBERG Wiki. The most timely entry point is the [[Above The Chaos]] series. A more structured starting point can be found in the [[Lionsberg Wiki Books]]. If you encounter aliens, demons, and other challenging topics therein, do not be afraid.  
+P.S. For those who desire more information, We have articulated nearly 2.3 million words in the LIØNSBERG Wiki. The most timely entry point is the [[Above The Chaos]] series. A more structured starting point can be found in the [[Lionsberg Wiki Books]]. If you encounter aliens, demons, and other challenging topics therein, do not be afraid.  
 
 P.P.S. As [[The First Three Percent]] join Together, We will present the material in Wiki in a variety of more artistic, moving, and engaging ways.  
 
-P.P.S. I am opting out of the political, social, and technological systems of the [[Existing Order]], including social media. If you need me, come find me at LIONSBERG.  
+P.P.S. I am opting out of the political, social, and technological systems of the [[Existing Order]], including social media. If you need me, come find me at LIØNSBERG.  
 
 [RSVP Here Now](https://docs.google.com/forms/d/e/1FAIpQLSeRTdzUwK9bvQMvC3EKKZANLCHTNz1ccojy3hbPUlZ80zOrgw/viewform?usp=header)

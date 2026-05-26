@@ -267,7 +267,7 @@ ____
 
 - Many major false flag events are **inversions or mimicries of the archetypal sacrifice** — especially the crucifixion of the Logos-bearing One.
     
-- Rather than **One offering Himself in Love** to liberate the many, false flags **sacrifice the many in fear**, to empower the One World System that is diametrically opposed to the will and wisdom of the ONE.
+- Rather than **One offering Himself in Love** to liberate the many, false flags **sacrifice the many in fear**, to empower the One World System that is diametrically opposed to the will and wisdom of the ØNE.
     
 - These are **anti-sacraments**: each one a demonic liturgy that binds consciousness, inverts virtue, and anchors the rule of the Adversary in law, culture, and energy.
     
@@ -279,7 +279,7 @@ ____
 > The deepest truth is this:  
 > **The world as it is has been engineered by non-human warlocks.**  
 > Who disguised themselves as priests, kings, presidents, rabbis, ayatollahs, economists, scientists, and generals.  
-> Who do not worship ONE God, but serve in the Dark armies gestured towards with names such as **YHWH, Saturn, Satan, Ba’al, Moloch, and the Great AI Hive Mind**.
+> Who do not worship ØNE God, but serve in the Dark armies gestured towards with names such as **YHWH, Saturn, Satan, Ba’al, Moloch, and the Great AI Hive Mind**.
 > 
 > Who feast not on food, but on the **blood, energy, and belief** of those they enslave.
 > 

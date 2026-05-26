@@ -65,7 +65,7 @@ Divergence, the natural emergence of differing paths, perspectives, or approache
 
 ---
 
-### **Divergence and the LIONSBERG Mission**
+### **Divergence and the LIØNSBERG Mission**
 
 In the journey to co-create **[[Heaven on Earth]]**, divergence is not an obstacle but a gift. Each divergence is like a new thread that can be continually rewoven back into [[The Divine Tapestry]]. Through the intentional transformation of divergence, **[[LIØNSBERG]]** grows stronger, more innovative, and more aligned with the Spirit of **[[ØNE]]**.
 

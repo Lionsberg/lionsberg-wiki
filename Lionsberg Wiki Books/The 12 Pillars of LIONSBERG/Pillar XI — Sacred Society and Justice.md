@@ -6,11 +6,11 @@ _ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Po
 
 ### **Summary**
 
-The Eleventh Pillar of LIONSBERG restores **relationship and justice** as the sacred fabric of co-creation—calling us to reweave the web of life through love, truth, courage, reciprocity, reconciliation, and Right Relationship.  
+The Eleventh Pillar of LIØNSBERG restores **relationship and justice** as the sacred fabric of co-creation—calling us to reweave the web of life through love, truth, courage, reciprocity, reconciliation, and Right Relationship.  
 
-It recognizes that All is InterBeing in ONE Body, and that the health of every person and community depends upon the integrity of the relationships that bind them. Sacred Society is the living field of harmony through which Heaven is made manifest in the social order of each realm, dimension, and domain. It invites us to heal the fractures of history, restore trust, and build systems of justice that protect the innocent, correct the unjust, and reconcile the divided.  
+It recognizes that All is InterBeing in ØNE Body, and that the health of every person and community depends upon the integrity of the relationships that bind them. Sacred Society is the living field of harmony through which Heaven is made manifest in the social order of each realm, dimension, and domain. It invites us to heal the fractures of history, restore trust, and build systems of justice that protect the innocent, correct the unjust, and reconcile the divided.  
 
-Justice is love made visible in the ordering of relationship; reconciliation is its practice. Together they form the heart of the New Covenant between beings, peoples, worlds, and the ONE.  
+Justice is love made visible in the ordering of relationship; reconciliation is its practice. Together they form the heart of the New Covenant between beings, peoples, worlds, and the ØNE.  
 
 ---
 
@@ -61,7 +61,7 @@ This Pillar therefore bridges the personal and the collective, the spiritual and
     
 11. **Healing Begins in Community** — every household, neighborhood, and people must become a sanctuary of reconciliation and harmony.
     
-12. **The Goal Is the Beloved Kingdom and Commonwealth** — a civilization of conscious, just, and co-creative beings living in omniconsiderate harmony with ONE, One Another, and All. 
+12. **The Goal Is the Beloved Kingdom and Commonwealth** — a civilization of conscious, just, and co-creative beings living in omniconsiderate harmony with ØNE, One Another, and All. 
     
 
 ---
@@ -105,5 +105,5 @@ When we learn again to walk in Right Relationship—with ourselves, one another,
 
 This is Sacred Society.  
 This is the restoration of Justice.  
-This is the reconciliation of All Things in ONE.  
+This is the reconciliation of All Things in ØNE.  
 This is the Way.  

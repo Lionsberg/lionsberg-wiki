@@ -6,7 +6,7 @@ ___
 
 ## The Architecture
 
-The LIONSBERG system is structured as a **total nested hierarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ØNE]] and [[All]].
+The LIØNSBERG system is structured as a **total nested hierarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ØNE]] and [[All]].
 
 Sovereign individuals...  
 ...voluntarily associate into sovereign families...  
@@ -51,7 +51,7 @@ In the [[New World]], power flows from [[ØNE]], through the individual, upward 
 **Any accumulation of power at an intermediate level is a sign of corruption that must be corrected.**
 
 In the Old World, individuals were convicted for treason against the state.  
-In the New World, states are convicted for treason against the individual and the ONE.
+In the New World, states are convicted for treason against the individual and the ØNE.
 
 ___
 

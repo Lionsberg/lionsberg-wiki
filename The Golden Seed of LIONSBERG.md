@@ -1,8 +1,8 @@
-# The Golden Seed of LIONSBERG
+# The Golden Seed of LIØNSBERG
 
 ## Current Version 
 
-[[The Golden Seed of LIONSBERG — v0.1]]  
+[[The Golden Seed of LIØNSBERG — v0.1]]  
 
 ## Previous Versions 
 

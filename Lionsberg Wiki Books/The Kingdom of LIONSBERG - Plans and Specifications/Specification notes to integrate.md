@@ -13,7 +13,7 @@
     
 2. **Ontological Axioms**
     
-    In the Beginning ONE … the foundational truths of Being.
+    In the Beginning ØNE … the foundational truths of Being.
     
 3. **Ethic of Right InterExistence**
     
@@ -21,7 +21,7 @@
     
 4. **Statement of Mandate**
     
-    The commission of LIONSBERG.
+    The commission of LIØNSBERG.
     
 
 ---
@@ -30,7 +30,7 @@
 
 5. Ongoing Cosmic Co-Creation and Panspermia.
     
-6. The Seed of LIONSBERG.
+6. The Seed of LIØNSBERG.
     
 7. Localization and Adaptation.
     
@@ -42,13 +42,13 @@
 
 ____
 
-### **Part III — The LIONSBERG Experience** 
+### **Part III — The LIØNSBERG Experience** 
 
-10. **The Seed of LIONSBERG**
+10. **The Seed of LIØNSBERG**
       
 11. **The Threshold Experience — The First Crossing**
     
-12. **The Story — ReMembering the ONE**
+12. **The Story — ReMembering the ØNE**
     
 13. **The Gates — The Path of Initiation**
     
@@ -69,12 +69,12 @@ ___
     
 19. **The Twelve Pillars** — structural principles of divine civilization.
     
-20. **The LIONSBERG Pattern Language** — canonical design grammar for all systems.
+20. **The LIØNSBERG Pattern Language** — canonical design grammar for all systems.
     
 
 ---
 
-### **Part V — The LIONSBERG System of Systems**
+### **Part V — The LIØNSBERG System of Systems**
 
 21. **Kernel (Immutable Core)** — ontology, ethic, and authority.
     
@@ -89,7 +89,7 @@ ___
 
 ---
 
-### **Part VI — The Seed of LIONSBERG**
+### **Part VI — The Seed of LIØNSBERG**
 
 26. **Purpose and Essence of the Seed.**
     
@@ -119,7 +119,7 @@ ___
 
 ### **Part VII — Economy and Commons**
 
-27. LUV (LIONSBERG Units of Value).
+27. LUV (LIØNSBERG Units of Value).
     
 28. Contribution Accounting and Commons Ledger.
     
@@ -175,7 +175,7 @@ ___
 
 ### **Part XI — Intelligence and The Map of Reality**
 
-45. Architecture of the LIONSBERG Intelligence System.
+45. Architecture of the LIØNSBERG Intelligence System.
     
 46. Map Schema and Metadata Standards.
     
@@ -188,7 +188,7 @@ ___
 
 ### **Part XII — Learning, Meta-Science, and Evolution**
 
-49. The LIONSBERG Meta-Scientific Method.
+49. The LIØNSBERG Meta-Scientific Method.
     
 50. Feedback Cycles and Mutation Protocols.
     

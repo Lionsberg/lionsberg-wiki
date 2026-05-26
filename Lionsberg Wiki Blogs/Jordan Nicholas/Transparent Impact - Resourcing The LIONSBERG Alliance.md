@@ -1,12 +1,12 @@
-# Transparent Impact - Restructuring and Resourcing The LIONSBERG Alliance
+# Transparent Impact - Restructuring and Resourcing The LIØNSBERG Alliance
 
 #### **A Transcendent, Voluntary Spiritual Association of Individuals of Goodwill**
 
 ---
 
-## **I. Introduction: The Eternal Evolution of LIONSBERG**
+## **I. Introduction: The Eternal Evolution of LIØNSBERG**
 
-LIONSBERG is not an institution. It is **a living, emergent superorganism**—a **voluntary spiritual association** of **individuals of goodwill** bound together not by contract or coercion, but by shared **Purpose, Principles, and Path.**  
+LIØNSBERG is not an institution. It is **a living, emergent superorganism**—a **voluntary spiritual association** of **individuals of goodwill** bound together not by contract or coercion, but by shared **Purpose, Principles, and Path.**  
 
 For [[The 7 Year Window of Preparatory Work and Learning]], it was necessary to allocate the first resources in transparent and publicly accountable way, which We accomplished through the [[Provisional Structure]]. The Provisional Structure was always designed to transform as We learned and grew together.  
 
@@ -15,9 +15,9 @@ Now, We are **closing down the non-profit entity and top-level legal infrastruct
 1. **The Existing Order is Corrupt and Unredeemable.**
     - We have **seen firsthand the impossibility of complying our way out of tyranny.**  
     - The Old legal systems are being abused **to entrap, limit, surveil, and kontrolle.**
-    - **[[LIONSBERG Declaration of InterDependence]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
+    - **[[LIØNSBERG Declaration of InterDependence]]** asserts our **Divine Right and *Duty* to self-organize transcendent of existing governance systems.**  
 2. **We Must Build the New, Not Reform the Old.**
-    - LIONSBERG is a [[New]] **self-governing, self-sustaining, self-replicating force.**  
+    - LIØNSBERG is a [[New]] **self-governing, self-sustaining, self-replicating force.**  
     - It cannot be contained within the failing legal, governance, and financial structures of the old world.  
     - Nor would it be possible to comply the corrupted Existing Order from the top down as a Whole.   
 
@@ -25,9 +25,9 @@ Therefore We are dissolving all top level legal infrastructure that was based on
 
 ---
 
-## **II. The LIONSBERG Alliance: Structure and Function**
+## **II. The LIØNSBERG Alliance: Structure and Function**
 
-The **LIONSBERG Alliance** operates as a **self-organizing, self-funding, self-governing superorgansim** of:  
+The **LIØNSBERG Alliance** operates as a **self-organizing, self-funding, self-governing superorgansim** of:  
 
 - **Individuals of Goodwill** (Alliance Members)
 - **Teams** (Small, focused units with specific missions and quests)
@@ -63,7 +63,7 @@ Teams and localities are free to self-organize, structure themselves, and self-g
 
 ---
 
-### **2. The LIONSBERG Commons (All Other Resources)**
+### **2. The LIØNSBERG Commons (All Other Resources)**
 
 **Purpose:**  
 
@@ -90,7 +90,7 @@ Teams and localities are free to self-organize, structure themselves, and self-g
 
 ## **IV. The Founder’s Role: Unique and Separate**
 
-J holds **a singular role as the Founder** of LIONSBERG, requiring:  
+J holds **a singular role as the Founder** of LIØNSBERG, requiring:  
 
 1. **Independence from operations and governance.**
     
@@ -106,20 +106,20 @@ J holds **a singular role as the Founder** of LIONSBERG, requiring:
     
     - An Architect can design and a Guide can show the Way, but each individual and locality must walk the Path. 
     - J designed the New System and **influences, inspires, and guides the Path but does not control or enforce.**  
-    - LIONSBERG eternally **remains an emergent self-governing superorganism** composed of its incoming co-creators who accept The Invitation, adapting and evolving **independently of J** over generations toward **Our Highest Shared Purpose and Goal.**  
+    - LIØNSBERG eternally **remains an emergent self-governing superorganism** composed of its incoming co-creators who accept The Invitation, adapting and evolving **independently of J** over generations toward **Our Highest Shared Purpose and Goal.**  
 
 ---
 
 ## **V. The Larger Vision: The Emergence of The New Civilization**
 
-This restructuring ensures that LIONSBERG is:  
+This restructuring ensures that LIØNSBERG is:  
 
 ✅ **Resilient Against Attack:** No single point of failure or "center" to attack.  
 ✅ **Impossible to Co-Opt:** Cannot be captured or kontrolled by external forces.  
 ✅ **Rapidly Scalable:** Able to emerge rapidly and organically as millions join.  
 ✅ **Infinitely Reconfigurable**: The protocols and [[Pattern Language]] enable infinite flexibility, adaptability, and reconfigurability among the diverse parts of The Ecosystem.  
 
-Through **voluntary association** and a **[[Holofractal Pattern Language]]**, The LIONSBERG Alliance is:  
+Through **voluntary association** and a **[[Holofractal Pattern Language]]**, The LIØNSBERG Alliance is:  
 
 - **A decentralized, networked superorganism of self-governing and interoperable parts.**  
 - **Advancing with collective wisdom, intelligence, and capacity.**  
@@ -132,7 +132,7 @@ If The First Three Percent and then All 8 billion of Us accept The Invitation, i
 
 ## **VI. The Next Steps: The Call to Action**
 
-🚀 **LIONSBERG is now structuring The Alliance.**  
+🚀 **LIØNSBERG is now structuring The Alliance.**  
 🚀 **We are activating the Funding and Resource Flow Model immediately.**  
 🚀 **The Next Teams and Seasonal Quests are being initiated.**  
 🚀 **Crowdfunding and Targeted Fundraising is Underway**  
@@ -153,7 +153,7 @@ If The First Three Percent and then All 8 billion of Us accept The Invitation, i
     
 3. **Support the Movement.**
     
-    - Contribute time, expertise, or resources to The LIONSBERG Commons.  
+    - Contribute time, expertise, or resources to The LIØNSBERG Commons.  
     - Engage with the **funding structures** that ensure resilience and rapid execution.  
 
 ---
@@ -162,7 +162,7 @@ If The First Three Percent and then All 8 billion of Us accept The Invitation, i
 
 The existing order is collapsing. **The New Civilization must rise.**  
 
-LIONSBERG is not an organization. It is not a movement. It is not a government.  
+LIØNSBERG is not an organization. It is not a movement. It is not a government.  
 It is **a living force**, an emergent **body**, bound by **Purpose, Principle, and Path**, moving toward **The Goal.**  
 
 **J's Journey unveiled the Truth and paved a Way.**  
@@ -171,7 +171,7 @@ It is **a living force**, an emergent **body**, bound by **Purpose, Principle, a
 🔥 **We are unveiling and inspiring**.  
 🔥 **The Alliance is forming.**  
 🔥 **The Old World is collapsing.**  
-🚀 **LIONSBERG is rising.**  
+🚀 **LIØNSBERG is rising.**  
 🌎 **The Future is Ours to Build.**  
 
 **Will you stand with us?**  

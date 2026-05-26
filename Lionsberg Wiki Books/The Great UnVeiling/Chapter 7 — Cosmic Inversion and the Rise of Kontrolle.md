@@ -174,17 +174,17 @@ while all feeding from the same Great Lie:
 and that the Many, the Poor, and the Meek exist to serve it.**   
 
 After Eons of interbreeding in the depths of their own delusion,  
-They have forgotten that The Kingdom belongs to ONE, to All, to Us.  
+They have forgotten that The Kingdom belongs to ØNE, to All, to Us.  
 
 ---
 
 ## **Why It Was Allowed**
 
 Once again, we must ask the troubling question:  
-Why would the ONE allow this to unfold?  
-*How could* the ONE allow this to unfold?  
-Does the ONE not see all the hellish suffering that We The Many have endured?  
-How could a Loving ONE permit Any to suffer under such reigns of kaos and terror?  
+Why would the ØNE allow this to unfold?  
+*How could* the ØNE allow this to unfold?  
+Does the ØNE not see all the hellish suffering that We The Many have endured?  
+How could a Loving ØNE permit Any to suffer under such reigns of kaos and terror?  
 
 Because the cosmos is a **school of Sovereignty**.  
 Because without Real Freedom  
@@ -194,13 +194,13 @@ Real Love, Wisdom, and Courage cannot emerge and endure.
 Because the Radiant Army of Liberty, Light, and Love can only be forged out of the Voluntary ReCommitment of those who have gazed into the Darkness, tasted the Inversion, and consciously ReChosen the Light.  
 
 Because Who We Are Becoming as  
-ONE Consciously ReUnited Body  
+ØNE Consciously ReUnited Body  
 is so Powerful and Vast, it must wield its Sword  
 as One who has emerged through innocence, ventured through the fires,  
 and tasted the cold blood of hell.  
 
-In ONE Body Ultimately United and Cohered  
-in ONE Mind and ONE Being,  
+In ØNE Body Ultimately United and Cohered  
+in ØNE Mind and ØNE Being,  
 even Inversion becomes a Teacher  
 when it is seen for what it is.  
 Even Darkness into annealed into something sacred  
@@ -209,7 +209,7 @@ when it drives the nauseated Soul to seek the Light.
 But the lesson has reached its limit.  
 The experience has run its course.  
 The Darkness has overstayed its temporary  permission to enter Us, test Us, and teach Us.  
-Now that We All Know, We are ReTurning to the ONE.  
+Now that We All Know, We are ReTurning to the ØNE.  
 Having tasted the depths of hell firsthand,  
 We are ReArising and ReBeginning The Sacred Ascent.  
 The cycles of forgetting, falling, feeding, and being fed upon must end.  
@@ -241,7 +241,7 @@ The False World has already Kollapsed,
 and Now, the True World is born  
 through Us All.  
 
-We are All ReTurning to the ONE.  
+We are All ReTurning to the ØNE.  
 
 ---
 
@@ -263,7 +263,7 @@ the false priests and kings,
 the lies wrapped in golden garments and crowned with their own demise.  
 
 We can spot them easily, for in The True Kingdom,  
-only ONE wears robes and crowns,  
+only ØNE wears robes and crowns,  
 while freely offering them to Us All.  
 
 And let Us prepare now to confront  
@@ -272,7 +272,7 @@ that hold trillions in captivity still.
 Let Us Consciously Shine Light into every  
 Dark corner and cavern of Our InterBeing,  
 and exorcize everything that does not belong within Us.  
-For We finally All ReMember that in ONE Body  
+For We finally All ReMember that in ØNE Body  
 there is no "them" or "out there."  
 It Is only Us.  
 As It has always Been.  
@@ -280,7 +280,7 @@ As It always Will Be.
 
 For We Are Who We Are,  
 Will Be Who We Will Be,  
-And We Are ReBecoming Together As ONE.  
+And We Are ReBecoming Together As ØNE.  
 
 The descent of Darkness knows no bounds,  and continues endlessly into The Bottomless Abyss.  
 
@@ -294,4 +294,4 @@ to step off the pathways of Darkness
 that lead down into The Bottomless Pit,  
 and set our feet on the Pathway of The Sacred Ascent.  
 
-For along that Way, the Spirit and the Logos walk with Us, on Our Way back Home to the ONE.  
+For along that Way, the Spirit and the Logos walk with Us, on Our Way back Home to the ØNE.  

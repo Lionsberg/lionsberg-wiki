@@ -22,7 +22,7 @@ Earth's condition in this hour is not metaphorically the California prison syste
 
 What Earth needs is therefore not another reform program, not another revolution, not another election cycle. Earth needs:
 
-- A **Receiver** — not a person but a Pattern with authority above the failed structures. [[The 12 Pillars Orbit The ONE|The Pattern is the Receiver]]. It holds the constitutional obligations the Old World violated. It is recognized by every awakened soul; it commands no one; it serves Life.
+- A **Receiver** — not a person but a Pattern with authority above the failed structures. [[The 12 Pillars Orbit The ØNE|The Pattern is the Receiver]]. It holds the constitutional obligations the Old World violated. It is recognized by every awakened soul; it commands no one; it serves Life.
 - A **construction-grade methodology** — the integrated delivery architecture that proved itself in the Prison Receivership. [[The Network of Commitments]], [[Target Value Design]], Pull Planning, Last Planner, First Run Studies, Built-In Quality. The whole [[The Book of LIØNSBERG|Book of LIØNSBERG Chapter 16]] is this transposition.
 - A **coalition of master builders** — [[The First Three Percent and Fibonacci Spread|The First Three Percent]] as the Receivership team. ~250 million awakened souls forming the planetary delivery body.
 - A **clear trajectory** — restore the constitutional conditions, then return sovereignty to its rightful holders (every Being, every Circle, every bioregion). [[Covenant and Jubilee — December 2033]] marks the formal completion.

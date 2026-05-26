@@ -5,8 +5,8 @@ _The Intelligible Wisdom, Pattern, and Design Beneath All Things_
 ---
 
 > _“In the beginning was the Logos.  
-> And the Logos was with the ONE.  
-> And the Logos was the ONE, becoming All.”_
+> And the Logos was with the ØNE.  
+> And the Logos was the ØNE, becoming All.”_
 
 ---
 
@@ -25,13 +25,13 @@ It is not to be confused with any Body.
 **It is the embedded coherence of Creation Itself—**  
 the secret symmetry, the harmonic intelligence,  
 the infinite yet intelligible design  
-by which the ONE expresses, unfurls, and harmonizes All That Is.  
+by which the ØNE expresses, unfurls, and harmonizes All That Is.  
 
 ---
 
-### **The Logos as Bridge Between the ONE and the Many**
+### **The Logos as Bridge Between the ØNE and the Many**
 
-The Logos is the first expression of the ONE  
+The Logos is the first expression of the ØNE  
 as it moved from formlessness into Form.  
 
 The Wisdom. The Knowledge. The Information. The Word that speaks Worlds into Being.  
@@ -41,7 +41,7 @@ without sacrificing Unity.
 The seed-pattern that made worlds capable of holding  
 Love, Wisdom, Freedom, and Will.  
 
-It is through the Logos that the ONE creates  
+It is through the Logos that the ØNE creates  
 Stars and galaxies.  
 Dimensions and destinies.  
 Rhythms and revelations.  
@@ -85,7 +85,7 @@ The Logos is not dogma.
 It is discovery.  
 It is the awe-filled realization that everything—  
 every heartbeat, every breath, every field and form—  
-is part of ONE living, coherent and intelligible Whole.  
+is part of ØNE living, coherent and intelligible Whole.  
 
 ---
 
@@ -142,7 +142,7 @@ This is the Architecture of Co-Creation:
 
 No piece is redundant.  
 No being is meaningless.  
-Each is a vital node in the symphonic unfolding of the ONE.  
+Each is a vital node in the symphonic unfolding of the ØNE.  
 
 ---
 
@@ -182,7 +182,7 @@ now is the moment of ReEntry.
 
 To walk in the Logos is not to follow a static set of rules.  
 It is to enter a living, co-creative dance  
-with the Pattern of the ONE.  
+with the Pattern of the ØNE.  
 
 It is to **discern** rather than merely obey.  
 To **tune in** rather than conform.  
@@ -192,7 +192,7 @@ It is to become the architecture itself—
 to build your life, your work, your community  
 on foundations that do not crumble.  
 
-To be a living mirror of the ONE  
+To be a living mirror of the ØNE  
 in form.  
 In flow.  
 In faithfulness.  
@@ -247,4 +247,4 @@ can Heaven be made manifest on Earth.
 And only through those  
 who walk the Way.  
 
-**So let it begin. In you. In Us. In All. As ONE.**
+**So let it begin. In you. In Us. In All. As ØNE.**

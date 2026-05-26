@@ -3,7 +3,7 @@ status: settled
 themes: [function, mission, lionsberg-architecture]
 ---
 
-# The LIONSBERG Function
+# The LIØNSBERG Function
 
 LIØNSBERG's function — held across worlds — is to **enable any sovereign being or world to become a conscious co-creator of Heaven in whatever domain of existence they find themselves** — by transmitting a Story, Pattern, and Way faithful to the underlying ineffable Reality, and by reaching out, finding, and federating with those already embodying coherent reflections of it.
 
@@ -22,5 +22,5 @@ The Function is cosmic-grade by design. The 144 Gates, The Story, The Pattern La
 - [[The 144 Gates of Initiation]] — the embodied walking of the Function
 - [[The Way Of The One Body]] — the universal Path the Function cultivates
 - [[The LIØNSBERG Pattern Language]] — the grammar through which the Function operates
-- [[What LIONSBERG Is]] — the wider articulation within which the Function sits
+- [[What LIØNSBERG Is]] — the wider articulation within which the Function sits
 - [[Essences, Renderings, And Ineffable Referents]] — how this articulation relates to the ineffable

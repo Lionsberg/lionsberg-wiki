@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, provenance, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Emergence essay)
+source: Phase 2.1 audit of LIØNSBERG 101 (Emergence essay)
 captured: 2026-05-18
 ---
 

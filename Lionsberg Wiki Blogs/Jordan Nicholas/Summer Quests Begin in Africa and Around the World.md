@@ -17,7 +17,7 @@ And then came the unforgettable words—
 
 > _“Every woman who has given birth understands… every child is one of her children.”_
 
-> _“We The People of LIONSBERG will not let children go hungry.”_
+> _“We The People of LIØNSBERG will not let children go hungry.”_
 
 Voices cracked with exhaustion and broke with tears,  
 but shone with the Light of something eternal and True.  
@@ -60,7 +60,7 @@ It is up to **Us who receive the call**.
 In recent years, we have been co-creating a new platform, a new pattern, and a new community—  
 One that dares to believe **a better world is possible**, that it begins with **Us**, and that the time is **Now**.  
 
-We call it **LIONSBERG**.  
+We call it **LIØNSBERG**.  
 
 It exists to empower people like you and me to collaborate to meet real needs  
 and solve real problems together—immediately where we are—  
@@ -154,7 +154,7 @@ in East Africa, in your own neighborhood or area of expertise, or on the global 
 
 Those who contribute and stand up a meaningful **Circle**, **Team**, or **Quest** by July 1st will be eligible for  
 **founding membership** and a **One Member One Voice** seat at the governance table—  
-as with all things LIONSBERG, on the basis of ongoing mutual consent and alignment.  
+as with all things LIØNSBERG, on the basis of ongoing mutual consent and alignment.  
 We'll follow up with each responder personally to share how it works.  
 
 ## Are You Ready? 
@@ -168,4 +168,4 @@ With unwavering Love, Faith, and Hope,
 
 **~ J**   
 
-*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIONSBERG Inc., a 501(c)(3).*  
+*Resources aggregated via this link are transparently stewarded through **[[The Founder's Fund]]**, fiscally hosted by LIØNSBERG Inc., a 501(c)(3).*  

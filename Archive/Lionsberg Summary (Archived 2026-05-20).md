@@ -8,15 +8,15 @@
 
 The [[LIØNSBERG Manifesto]] lays out the call to action. 
 
-[[LIONSBERG - History, Inception, and Trust Manifesto]] traces the idea of Lionsberg back to its origins. 
+[[LIØNSBERG - History, Inception, and Trust Manifesto]] traces the idea of Lionsberg back to its origins. 
 
-The [[The LIONSBERG System of Values]] articulates the Spirit and Values that guide us.  
+The [[The LIØNSBERG System of Values]] articulates the Spirit and Values that guide us.  
 
 [[The LIØNSBERG Strategy and Plan]] lays out the out the rough [[10 Year Grand Strategy]].   
 
 [[Lionsberg Structure]] charts the evolving legal and governance framework.   
 
-[[LIONSBERG Core Statements]] clarifies intention, vision, mission, values, etc. 
+[[LIØNSBERG Core Statements]] clarifies intention, vision, mission, values, etc. 
 
 The [[Lionsberg Resource Runway]] provides a basic look at the resources required to catalyze and sustain [[The Movement]].  
 
@@ -28,7 +28,7 @@ The [[Above The Chaos]] series follows the unfolding in real time.
 
 The [[LIØNSBERG Invitation]] can be shared to [[Pass The Flame]] and invite the wise right next people to [[Join The Movement]]. 
 
-The [[The LIONSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
+The [[The LIØNSBERG Co-Creator's Handbook]] can help get you up to speed once you join. 
 
 [[The LIØNSBERG Lexicon|The Lexicon]] is a starting point for redeveloping a shared language.  
 

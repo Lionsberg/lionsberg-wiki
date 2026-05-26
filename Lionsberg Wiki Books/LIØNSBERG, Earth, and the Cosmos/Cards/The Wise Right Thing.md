@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, meta-rule, discernment, foundational]
-source: Phase 2.1 audit of The Book of Meditations + The Lionsberg Rules + The LIONSBERG Way
+source: Phase 2.1 audit of The Book of Meditations + The Lionsberg Rules + The LIØNSBERG Way
 captured: 2026-05-19
 ---
 
@@ -40,7 +40,7 @@ There are also **diagnostic questions** the Sovereign can ask to test their own 
 
 - _If everyone in the New Civilization eventually moved this way, would the New still be the New?_ — the [[The Means Are The Ends|Means-Are-the-Ends]] test
 - _Does this action serve [[Throughput of The Goal|Throughput of The Goal]], or does it siphon Throughput away from it?_
-- _Would I be willing to defend this action openly, to my Circle, to my Elder, to the ONE?_
+- _Would I be willing to defend this action openly, to my Circle, to my Elder, to the ØNE?_
 - _Is my Whisper Within in resonance with this, or in resistance?_
 - _Does this honor [[The Terms of the New Covenant|the Terms of the Covenant]] in all seven faces — Truth, Love, Justice, Stewardship, Wisdom, Unity, Liberty/Beauty/Goodness?_
 

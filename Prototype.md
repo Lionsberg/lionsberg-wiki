@@ -2,4 +2,4 @@
 
 A Prototype is a first or typical model of a solution or system, from which subsequent instances are developed and instantiated. 
 
-In the [[LIØNSBERG System]], Prototype has a specific meaning relative to the mechanics of the [[LIONSBERG Integrated Delivery System]]. 
+In the [[LIØNSBERG System]], Prototype has a specific meaning relative to the mechanics of the [[LIØNSBERG Integrated Delivery System]]. 

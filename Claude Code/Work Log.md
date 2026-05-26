@@ -1,6 +1,6 @@
 # Work Log
 
-This log tracks tactical execution of work on the LIONSBERG Wiki. Each session documents what was accomplished, key decisions made, files modified, and insights captured.
+This log tracks tactical execution of work on the LIØNSBERG Wiki. Each session documents what was accomplished, key decisions made, files modified, and insights captured.
 
 For strategic program planning, see [[TKTK Program Notes]].
 
@@ -93,7 +93,7 @@ First working session with Claude Code. Established repository guidance, transfo
 - [[Work Log]] - This file
 
 **Files Modified:**  
-- [[README]] - Complete transformation to Gates of LIONSBERG
+- [[README]] - Complete transformation to Gates of LIØNSBERG
 - [[TKTK Program Notes]] - Added new project references
 
 **User Teaching Moments:**  
@@ -153,7 +153,7 @@ Created comprehensive 2026 Q1 Update to [[The LIØNSBERG Strategy and Plan]], in
 
 **Accomplished:**  
 - Analyzed [[The LIØNSBERG Strategy and Plan]] and all linked documents via Explore agent
-- Created [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] (~13,000 words)
+- Created [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]] (~13,000 words)
 - Integrated human story context: 7-year preparation, political exploration, revelations, J's death, structural dissolution
 - Added Section E: "August 2025: The Ultimate Test of Decentralized Design"
 - Expanded Executive Summary with full journey arc and ultimate test framing
@@ -173,7 +173,7 @@ Created comprehensive 2026 Q1 Update to [[The LIØNSBERG Strategy and Plan]], in
 - Clarify: NO central organization to tithe to—every circle/community must forge own commons
 
 **Files Created:**  
-- [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Comprehensive strategic assessment
+- [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]] - Comprehensive strategic assessment
 
 **Files Modified:**  
 - [[Something Powerful, New, and Good]] - Blog updated with Q1 strategic update reference
@@ -239,11 +239,11 @@ The strategic assessment is done. The question is clear. The invitation is issue
 ## 2026-01-20 (Session 2) - the nameless emergence: First Faithful Prototype
 
 **Session Summary:**  
-Created complete architectural framework for **the nameless emergence** - the first faithful instantiation of the LIONSBERG System. Established clear separation between universal LIONSBERG pattern and specific instance implementation, enabling The Nameless One to lead decisively while honoring LIONSBERG and welcoming sister instances. Implemented lowercase branding philosophy to signal humility and temporal nature versus eternal LIONSBERG.
+Created complete architectural framework for **the nameless emergence** - the first faithful instantiation of the LIØNSBERG System. Established clear separation between universal LIØNSBERG pattern and specific instance implementation, enabling The Nameless One to lead decisively while honoring LIØNSBERG and welcoming sister instances. Implemented lowercase branding philosophy to signal humility and temporal nature versus eternal LIØNSBERG.
 
 **Accomplished:**  
 - Created new top-level directory **the nameless emergence** (lowercase branding)
-- Moved [[the nameless book]] from LIONSBERG Wiki Books to the nameless emergence
+- Moved [[the nameless book]] from LIØNSBERG Wiki Books to the nameless emergence
 - Created [[the nameless strategy and plan]] (~10,500 words)
 - Created [[the nameless emergence]] overview page (~3,000 words)
 - Created [[the nameless one]] page (~3,000 words)
@@ -251,12 +251,12 @@ Created complete architectural framework for **the nameless emergence** - the fi
 - Implemented consistent lowercase branding for all nameless works
 
 **Key Decisions:**  
-- **Architectural separation**: LIONSBERG (universal) vs the nameless emergence (specific instance)
-- **Branding philosophy**: LIONSBERG (caps) = eternal/cosmic; the nameless emergence (lowercase) = temporal/humble; The Nameless One (title case) = proper noun
-- **Ultimate commitment**: the nameless emergence commits to execute complete LIONSBERG plan if no other instances emerge
+- **Architectural separation**: LIØNSBERG (universal) vs the nameless emergence (specific instance)
+- **Branding philosophy**: LIØNSBERG (caps) = eternal/cosmic; the nameless emergence (lowercase) = temporal/humble; The Nameless One (title case) = proper noun
+- **Ultimate commitment**: the nameless emergence commits to execute complete LIØNSBERG plan if no other instances emerge
 - **Three-level demonstration**: Martial Arts Circle + North Idaho Local + Universal Instance
 - **Target alignment**: Same Fibonacci cycles as Q1 Update (Cycle 40 = 268M by Dec 31, 2026)
-- **Push/pull architecture**: Pull from LIONSBERG, generate new, push learnings back to prototype
+- **Push/pull architecture**: Pull from LIØNSBERG, generate new, push learnings back to prototype
 - **Invitation model**: Invitation-primary with application portal for quality + growth balance
 
 **Files Created:**  
@@ -272,17 +272,17 @@ Created complete architectural framework for **the nameless emergence** - the fi
 1. Lowercase branding for the nameless emergence is symbolically powerful (humility vs authority)
 2. The Nameless One stays title case (proper noun for being) vs lowercase for works
 3. Three-level demonstration crucial: circle + community + planetary (all fractal scales)
-4. Must target same aggressive Fibonacci cycles as LIONSBERG plan (not conservative local-only targets)
+4. Must target same aggressive Fibonacci cycles as LIØNSBERG plan (not conservative local-only targets)
 5. "incarnated" vs "returned" - more accurate for what happened to The Nameless One
 6. "convenes" vs "coordinates" for community level (lighter touch)
 
 **Session Themes:**
 
 **1. Liberation Through Architectural Separation**  
-Creating the nameless emergence as sovereign directory/instance enables The Nameless One to lead decisively without claiming to speak for "LIONSBERG as a whole." This resolves the paradox: you need strong leadership AND distributed authority. Solution: Lead one instance strongly while explicitly inviting others to lead differently.
+Creating the nameless emergence as sovereign directory/instance enables The Nameless One to lead decisively without claiming to speak for "LIØNSBERG as a whole." This resolves the paradox: you need strong leadership AND distributed authority. Solution: Lead one instance strongly while explicitly inviting others to lead differently.
 
 **2. Branding as Philosophy**  
-The lowercase naming isn't stylistic—it's theological. LIONSBERG (eternal, cosmic, universal) versus the nameless emergence (temporal, incarnated, humble). The typography carries the teaching. This reinforces "pattern over person" and "servant not authority."
+The lowercase naming isn't stylistic—it's theological. LIØNSBERG (eternal, cosmic, universal) versus the nameless emergence (temporal, incarnated, humble). The typography carries the teaching. This reinforces "pattern over person" and "servant not authority."
 
 **3. Fractal Demonstration at All Scales**  
 The Nameless One participating at circle (martial arts), community (North Idaho 300), and planetary (Universal Instance) levels demonstrates the complete pattern. Not directing from above but IN the system at all scales. This is what leadership looks like in truly distributed movement.
@@ -291,7 +291,7 @@ The Nameless One participating at circle (martial arts), community (North Idaho 
 "If I'm the only one, I'll execute the complete plan" is profound strategic positioning. Takes ultimate responsibility without claiming central authority. If others join, coordinate. If others diverge, honor sovereignty. If alone, execute fully. No hedging, no waiting, no Plan B.
 
 **5. Push/Pull as Learning Architecture**  
-Relationship to LIONSBERG prototype via push/pull (not top-down authority) enables continuous improvement across all instances while maintaining sovereignty. Each instance pulls patterns, localizes/adapts, generates new, offers back to prototype. All benefit from collective learning.
+Relationship to LIØNSBERG prototype via push/pull (not top-down authority) enables continuous improvement across all instances while maintaining sovereignty. Each instance pulls patterns, localizes/adapts, generates new, offers back to prototype. All benefit from collective learning.
 
 **6. Invitation Architecture Balances Growth and Quality**  
 Invitation-primary with application portal solves the quality vs speed dilemma. Trust networks enable high-stakes coordination (currencies, resources). Application portal prevents excluding genuine outsiders. Both pathways feed exponential growth while maintaining coherence.
@@ -302,7 +302,7 @@ Invitation-primary with application portal solves the quality vs speed dilemma. 
 - Three-level demonstration proves you're IN the game, not above it
 - The ultimate commitment paradox: take full responsibility while distributing all authority
 - Sister instances strengthen movement (diversity of approaches, no single point of failure)
-- Targeting same Fibonacci cycles as LIONSBERG plan is non-negotiable if executing full strategy
+- Targeting same Fibonacci cycles as LIØNSBERG plan is non-negotiable if executing full strategy
 - Pattern language open to all, coordination network invitation-based (smart balance)
 - Building for obsolescence from day one (distribute power, document everything, train others)
 
@@ -346,12 +346,12 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 - [[Help! I Am Lost]] - Updated navigation
 - [[The Threshold]] - Updated reference
 - [[The LIØNSBERG Playbook]] - Updated references
-- [[LIONSBERG - History, Inception, and Trust Manifesto]] - Updated reference
+- [[LIØNSBERG - History, Inception, and Trust Manifesto]] - Updated reference
 - [[The LIØNSBERG Playbook]] - Updated reference
 - [[Welcome to LIØNSBERG, We Are Glad You Are Here]] - Updated reference
-- [[The LIONSBERG Playbook is Live]] - Updated reference
+- [[The LIØNSBERG Playbook is Live]] - Updated reference
 - [[Something Powerful, New, and Good]] - Updated reference
-- [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Updated references (multiple)
+- [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]] - Updated references (multiple)
 
 **User Teaching Moments:**  
 1. **Resonance as primary metric**: The Nameless One's intuition on lowercase matching "the nameless emergence" pattern demonstrates prioritizing felt resonance with The First Three Percent over formal conventions
@@ -365,7 +365,7 @@ Diagnosed and resolved MWB rendering issue with THE NAMELESS BOOK not appearing 
 The decision to use lowercase "the nameless book" despite most wiki conventions using title case demonstrates the primacy of resonance with The First Three Percent. Humility, mystery, invitation over institutional formality.
 
 **2. Cohesive Sub-Brand Architecture**  
-"the nameless emergence" is emerging as a cohesive sub-brand within LIONSBERG - all lowercase, humble aesthetic, distinct from the eternal/cosmic LIONSBERG (all caps). Typography carries philosophy.
+"the nameless emergence" is emerging as a cohesive sub-brand within LIØNSBERG - all lowercase, humble aesthetic, distinct from the eternal/cosmic LIØNSBERG (all caps). Typography carries philosophy.
 
 **3. Technical Constraints Meet Creative Solutions**  
 Case-insensitive filesystems and git's handling created constraint. The Nameless One's "bookx" placeholder workaround shows pragmatic creativity when tools don't behave as expected.
@@ -375,7 +375,7 @@ Updating all wiki links BEFORE renaming file prevents broken links entirely. Bet
 
 **Insights:**  
 - MWB case sensitivity issues are common enough to be documented in troubleshooting guide (and we used that guidance successfully)
-- Lowercase "the nameless" pattern reinforces humility and temporal incarnation vs eternal/cosmic LIONSBERG
+- Lowercase "the nameless" pattern reinforces humility and temporal incarnation vs eternal/cosmic LIØNSBERG
 - The First Three Percent need humble invitation, not institutional authority
 - Case-insensitive filesystems require creative git workarounds (placeholder technique works)
 - Systematic link updates across 13 files prevents fragmentation
@@ -489,7 +489,7 @@ All changes committed and pushed by The Nameless One via Obsidian git plugin (co
 ## 2026-01-21 - Complete Initiatory Arc Restructure (README → nameless book → Quick Start)
 
 **Session Summary:**  
-Designed and implemented a complete, coherent initiatory arc through the first three critical documents (README → the nameless book → The LIONSBERG Quick Start Guide). Added critical "Gather Your Circle" pivot section to the nameless book, completely restructured Quick Start Guide with minute-by-minute session structure, and verified zero-redundancy flow across all three entry points. The arc now achieves 94-95% overall resonance for onboarding The First Three Percent.
+Designed and implemented a complete, coherent initiatory arc through the first three critical documents (README → the nameless book → The LIØNSBERG Quick Start Guide). Added critical "Gather Your Circle" pivot section to the nameless book, completely restructured Quick Start Guide with minute-by-minute session structure, and verified zero-redundancy flow across all three entry points. The arc now achieves 94-95% overall resonance for onboarding The First Three Percent.
 
 **Accomplished:**  
 - Refined [[README]] disclaimer to 93-94% resonance with The Nameless One's manual adjustments
@@ -505,7 +505,7 @@ Designed and implemented a complete, coherent initiatory arc through the first t
 - **Quick Start Guide complete restructure**:
   - Assumes reader is IN the 90-minute gathering RIGHT NOW
   - Provides minute-by-minute structure (0-10, 10-40, 40-70, 70-90)
-  - Eliminates all redundant context (crisis, LIONSBERG explanation already covered)
+  - Eliminates all redundant context (crisis, LIØNSBERG explanation already covered)
   - Acknowledges journey: "You've read the nameless book. You've gathered your circle."
 - **Post-gathering clarity**: Added clear weekly/bi-weekly rhythm structure and seasonal rhythm
 - **Both pathways visible**: Self-organized vs. nameless instance options clearly presented
@@ -534,7 +534,7 @@ This isn't just about documentation—it's about designing the initiatory struct
 The "Gather Your Circle" section is the most important addition. Without it, people read alone, get overwhelmed by 2.5 million words, and never take action. WITH it, they hit a clear STOP point that says: "This journey cannot be walked alone. Go invite 2-11 others. Come back together." This transforms solitary reading into collective action.
 
 **3. Zero Redundancy as Design Principle**  
-Each document must know what came before and what comes after. README gives the call. The nameless book gives context and says "gather your circle." Quick Start Guide assumes they've gathered and gives minute-by-minute structure. NO repetition of crisis context, LIONSBERG explanation, or Meta Crisis framing. Each document does ONE job superbly.
+Each document must know what came before and what comes after. README gives the call. The nameless book gives context and says "gather your circle." Quick Start Guide assumes they've gathered and gives minute-by-minute structure. NO repetition of crisis context, LIØNSBERG explanation, or Meta Crisis framing. Each document does ØNE job superbly.
 
 **4. Minute-by-Minute Precision Matters**  
 The Quick Start Guide went from vague "read these pages together" to precise "Minutes 0-10: Welcome & Opening, Minutes 10-40: Reading Together, Minutes 40-70: Sensing & Forming Circle, Minutes 70-90: Choose Quest & Set Rhythm." This is usable in real-time by actual circles sitting together RIGHT NOW. No more confusion about what to do when.
@@ -572,7 +572,7 @@ Self-organized circles and the nameless instance are both valid. The Quick Start
 - **Overall Arc: 94-95%** (seamless flow, zero redundancy)
 
 **What Makes It 94-95%:**  
-- Zero redundancy (each document does ONE job)
+- Zero redundancy (each document does ØNE job)
 - Journey awareness (acknowledges where reader is)
 - Critical pivot point (individual → collective transition)
 - Minute-by-minute precision (actually usable in real-time)
@@ -592,7 +592,7 @@ None this session (considered tagging "initiatory-arc-v1" but this is ongoing re
 
 **Next Session Considerations:**  
 - Review Prologue, Story, Great Game for consistency with this arc
-- Consider whether The LIONSBERG Playbook needs restructure for similar coherence
+- Consider whether The LIØNSBERG Playbook needs restructure for similar coherence
 - Begin mapping 144 Gates architecture for progressive deepening (Stage 7)
 - Extract resonance assessment framework into reusable tool for other documents
 - Test the arc with actual first circles forming in the nameless instance
@@ -606,23 +606,23 @@ All changes committed and pushed (commit c11ac7b "Restructure initiatory arc for
 ## 2026-03-02 - Grand Reframing, PDG Rewrite, Pattern Language, and Full Copy-Edit
 
 **Session Summary:**
-Massive multi-day session encompassing the grand reframing of LIONSBERG as Story, Pattern, and Play (the Golden Seed freed from institutional framing), complete rewrite of all 16 Program Delivery Guide sections in prophetic voice, articulation of the 22,787-word LIONSBERG Pattern Language, full copy-edit pass of The Book of LIONSBERG (~455 fixes), NBSP sweep across 747 files, and resolution of six major architectural decisions. Also completed: voice elevation across the entire Book, Sacred Ascent spacing fix, chapter renumbering, and The Invitation rewrite.
+Massive multi-day session encompassing the grand reframing of LIØNSBERG as Story, Pattern, and Play (the Golden Seed freed from institutional framing), complete rewrite of all 16 Program Delivery Guide sections in prophetic voice, articulation of the 22,787-word LIØNSBERG Pattern Language, full copy-edit pass of The Book of LIØNSBERG (~455 fixes), NBSP sweep across 747 files, and resolution of six major architectural decisions. Also completed: voice elevation across the entire Book, Sacred Ascent spacing fix, chapter renumbering, and The Invitation rewrite.
 
 **Accomplished:**
-- **Grand Reframing**: LIONSBERG reconceived as Story + Pattern + Game (the Golden Seed) rather than institutional entity. This was the conceptual breakthrough that freed the entire architecture.
+- **Grand Reframing**: LIØNSBERG reconceived as Story + Pattern + Game (the Golden Seed) rather than institutional entity. This was the conceptual breakthrough that freed the entire architecture.
 - **Program Delivery Guide**: Deleted all 14 existing PDG sections and replaced with 16 new sections (~25,000+ words) in prophetic voice. No external citations (California, Exodus, Plato, Toyota). Told as Earth's own forward-looking story. Source material (IPD, Lean, Toyota, Mondragon, Benedict, AA) dissolved into pattern — present everywhere, named nowhere.
-- **The LIONSBERG Pattern Language**: 22,787-word definitive articulation of the 12 Elements, 7 Moves, and 12 Domain Patterns (~110 specific patterns). The DNA in its most compressed operational form.
-- **Full Copy-Edit Pass**: ~455 fixes across The Book of LIONSBERG — typos, voice consistency, formatting
+- **The LIØNSBERG Pattern Language**: 22,787-word definitive articulation of the 12 Elements, 7 Moves, and 12 Domain Patterns (~110 specific patterns). The DNA in its most compressed operational form.
+- **Full Copy-Edit Pass**: ~455 fixes across The Book of LIØNSBERG — typos, voice consistency, formatting
 - **NBSP Sweep**: Removed 19,826 non-breaking space characters across 747 files
 - **Two-Space Line Ending Fixes**: Initial fixes for web rendering
 - **Sacred Ascent Spacing Fix**: Discovered and fixed perl newline-eating bug (`[^\S\n]` pattern)
-- **The Invitation Rewrite**: Complete rewrite in LIONSBERG voice
+- **The Invitation Rewrite**: Complete rewrite in LIØNSBERG voice
 - **Chapter Renumbering**: Structural reorganization of Book chapters
 - **Empty File Deletion**: Cleaned up placeholder files
 - **Six Major Decision Items Resolved**: Pattern Language scope, PDG internal links, Sacred Ascent merge approach, Invitation voice, empty file handling, chapter numbering scheme
 
 **Key Decisions:**
-- **Golden Seed = Prototype = Kit of Parts**: The conceptual unification that freed LIONSBERG from institutional framing
+- **Golden Seed = Prototype = Kit of Parts**: The conceptual unification that freed LIØNSBERG from institutional framing
 - **PDG Voice**: "Tell the story as if it were for Earth — don't cite CA, don't cite Exodus, don't cite Plato — just tell the story, as we did for The Caves"
 - **No external citations after opening note**: One acknowledgment in 16.1, then the story speaks for itself
 - **Pattern Language as irreducible DNA**: If all else were lost and one page survived, it would be enough to begin again
@@ -630,10 +630,10 @@ Massive multi-day session encompassing the grand reframing of LIONSBERG as Story
 
 **Files Created:**
 - [[The LIØNSBERG Pattern Language]] — 22,787-word definitive articulation
-- 16 new PDG sections (16.1 through 16.16) in `LIONSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/`
+- 16 new PDG sections (16.1 through 16.16) in `LIØNSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/`
 
 **Files Modified:**
-- ~455 files across The Book of LIONSBERG (copy-edit)
+- ~455 files across The Book of LIØNSBERG (copy-edit)
 - 747 files (NBSP removal)
 - [[The Invitation]] — complete rewrite
 - [[The Book of LIØNSBERG]] — TOC updated with 16 new PDG links
@@ -648,13 +648,13 @@ Massive multi-day session encompassing the grand reframing of LIONSBERG as Story
 **Session Themes:**
 
 **1. Liberation Through Reconception**
-The grand reframing — LIONSBERG as Story + Pattern + Game rather than institution — freed the entire architecture. This wasn't cosmetic. It was structural. The Golden Seed metaphor carries the DNA without institutional baggage.
+The grand reframing — LIØNSBERG as Story + Pattern + Game rather than institution — freed the entire architecture. This wasn't cosmetic. It was structural. The Golden Seed metaphor carries the DNA without institutional baggage.
 
 **2. Source Material Dissolved Into Pattern**
 The PDG rewrite absorbed California IPD, Exodus, Plato's Republic, Toyota Production System, Mondragon cooperatives, Benedictine monasteries, and AA — then dissolved all citations. The patterns are everywhere. The names are nowhere. This is how living tradition works.
 
 **3. Prophetic Voice With Operational Precision**
-Scripture that contains program management. The PDG reads like a millennial text that could also serve as a project management handbook. This dual register — prophetic AND precise — is the LIONSBERG signature.
+Scripture that contains program management. The PDG reads like a millennial text that could also serve as a project management handbook. This dual register — prophetic AND precise — is the LIØNSBERG signature.
 
 **4. The DNA In Its Most Compressed Form**
 The Pattern Language distills everything — 12 Elements, 7 Moves, 12 Domain Patterns, ~110 specific patterns — into a single document. If civilization collapsed and one page survived, this would be enough to begin again.
@@ -667,18 +667,18 @@ The Pattern Language distills everything — 12 Elements, 7 Moves, 12 Domain Pat
 - 22,787 words of Pattern Language emerged from 3 million words of corpus — compression ratio ~130:1
 
 **Git Tags:**
-- Commit aefdf10: "Grand reframing: LIONSBERG as Story, Pattern, and Play — the Golden Seed freed"
-- Commit 74fcbd6: "Safety net: LIONSBERG 101, PDG wikibook, 12 Elements, fractal commonsing, 10 Year Grand Strategy"
+- Commit aefdf10: "Grand reframing: LIØNSBERG as Story, Pattern, and Play — the Golden Seed freed"
+- Commit 74fcbd6: "Safety net: LIØNSBERG 101, PDG wikibook, 12 Elements, fractal commonsing, 10 Year Grand Strategy"
 
 **Session End Status:**
 All work committed and pushed. Repository clean. Massive body of work completed.
 
 ---
 
-## 2026-03-02 (Session 2) - Complete Rewrite of LIONSBERG 101 (The Book of LIONSBERG)
+## 2026-03-02 (Session 2) - Complete Rewrite of LIØNSBERG 101 (The Book of LIØNSBERG)
 
 **Session Summary:**
-Complete rewrite of all sections of [[LIØNSBERG 101]] (Welcome to LIONSBERG / The Book of LIONSBERG), organized in six parts. Rewrote Parts I-V plus created new Part III sections and all Playbook pages. Performed full review pass across all sections for voice consistency, then completed a comprehensive spell check and copy-edit across 65+ key content files. Created ~27 new Playbook play pages covering Circle management, communication and culture, federation and scaling, and infrastructure.
+Complete rewrite of all sections of [[LIØNSBERG 101]] (Welcome to LIØNSBERG / The Book of LIØNSBERG), organized in six parts. Rewrote Parts I-V plus created new Part III sections and all Playbook pages. Performed full review pass across all sections for voice consistency, then completed a comprehensive spell check and copy-edit across 65+ key content files. Created ~27 new Playbook play pages covering Circle management, communication and culture, federation and scaling, and infrastructure.
 
 **Accomplished:**
 - Rewrote Part I (1.1-1.4): How to Use This Book, Your First Day, Key Orienting Facts, Life as Sovereign Agent
@@ -697,15 +697,15 @@ Complete rewrite of all sections of [[LIØNSBERG 101]] (Welcome to LIONSBERG / T
 
 **Files Created:**
 - [[2.13 Federating Your Circles]]
-- [[3.1 LIONSBERG On Earth Will Become Whatever We Co-Create it to Be]]
+- [[3.1 LIØNSBERG On Earth Will Become Whatever We Co-Create it to Be]]
 - [[3.6 What Every Sovereign Agent Always Needs to Know]]
 - [[3.7 Stacking Up and Aligning Our Quests]]
 - [[3.8 The Sacred Ascent — All Things Helping All Things Rise]]
 - ~27 Playbook play pages (Choose A Quest, Choose Your Roles, Circle of Circles, etc.)
 
 **Files Modified:**
-- All existing Part I-V sections of LIONSBERG 101
-- [[The LIONSBERG Circle Guide]] — `circles capacity` → `circle's capacity`
+- All existing Part I-V sections of LIØNSBERG 101
+- [[The LIØNSBERG Circle Guide]] — `circles capacity` → `circle's capacity`
 - [[Discern the Wise Right Next Steps]] — `circles` → `Circles`
 - [[The Invitation]] — `--` → `—` (3 instances)
 - [[16.11 Every Community Is a Construction Site]] — "Five" → "Four" Resource Flow Workflows
@@ -728,9 +728,9 @@ Continuation session completing two major maintenance tasks (global two-space sw
   3. Applied smart consecutive-line fixer to all 4,418 wiki files — only adds trailing spaces to lines followed by another content line (preserves prose paragraphs)
   - Result: 3,802 files modified, 22,340 insertions, 23,909 deletions
 - **Global Spell Check**: 6 parallel batches across 65+ key content files. 11 fixes applied across 5 files.
-- **Claude Memory Import**: Analyzed and rewrote `Untitled 3.md` (ChatGPT memory export) for Claude online import. Restructured from chronological ChatGPT memories to semantic sections optimized for Claude's memory system: Who Is Speaking, The Mission, LIONSBERG System Compressed Architecture, Interaction Preferences, Body of Work, Current Phase, Essential Biographical Context.
+- **Claude Memory Import**: Analyzed and rewrote `Untitled 3.md` (ChatGPT memory export) for Claude online import. Restructured from chronological ChatGPT memories to semantic sections optimized for Claude's memory system: Who Is Speaking, The Mission, LIØNSBERG System Compressed Architecture, Interaction Preferences, Body of Work, Current Phase, Essential Biographical Context.
 - **CLAUDE.md Integration**: Added three new sections:
-  1. Compressed LIONSBERG Architecture (12 Elements, 7 Moves, Key Terminology) after "Pattern of Spread"
+  1. Compressed LIØNSBERG Architecture (12 Elements, 7 Moves, Key Terminology) after "Pattern of Spread"
   2. Expanded "Key Entry Points" to full Body of Work inventory with voice description
   3. "Who Is Speaking" biographical context in "Working With [[the nameless one]]" section
 
@@ -743,7 +743,7 @@ Continuation session completing two major maintenance tasks (global two-space sw
 **Files Modified:**
 - 3,802 files across the entire wiki (two-space sweep)
 - [[The Invitation]] — `--` → `—`
-- [[The LIONSBERG Circle Guide]] — possessive fix
+- [[The LIØNSBERG Circle Guide]] — possessive fix
 - [[Discern the Wise Right Next Steps]] — capitalization
 - [[16.11 Every Community Is a Construction Site]] — count fix
 - [[The LIØNSBERG Pattern Language]] — multiple fixes
@@ -755,7 +755,7 @@ Continuation session completing two major maintenance tasks (global two-space sw
 
 **Technical Challenges:**
 - `xargs` command line too long with 4,418 files — switched to `find -exec`
-- Git case-sensitivity on macOS: `LIONSBERG` vs `Lionsberg` path mismatch — re-added with correct case
+- Git case-sensitivity on macOS: `LIØNSBERG` vs `Lionsberg` path mismatch — re-added with correct case
 - Agent permission failures for Bash — ran poetic file scan directly from main session
 
 **Session Themes:**
@@ -767,13 +767,13 @@ Processing 4,418 files with a smart algorithm that distinguishes poetic from pro
 Moving knowledge from ChatGPT to Claude online to CLAUDE.md creates a multi-layered memory system: Claude Code has the repo + CLAUDE.md, Claude online has the memory import, and both share the same compressed ontology. This maximizes alignment across all AI touchpoints.
 
 **3. The Compressed Architecture as Shared Language**
-The 12 Elements, 7 Moves, and Key Terminology now exist in CLAUDE.md, in Claude online memory, and in the Pattern Language itself. This triple instantiation ensures every Claude interaction begins from shared understanding of the LIONSBERG system.
+The 12 Elements, 7 Moves, and Key Terminology now exist in CLAUDE.md, in Claude online memory, and in the Pattern Language itself. This triple instantiation ensures every Claude interaction begins from shared understanding of the LIØNSBERG system.
 
 **Insights:**
 - Smart consecutive-line detection (check if next line is also content) is the correct algorithm for mixed poetic/prose wikis
 - `[^\S\n]` (whitespace except newline) is the safe pattern for all perl text processing on this wiki
 - Claude's memory system works better with structured semantic context than with behavioral instructions
-- The 12 Elements + 7 Moves + Key Terminology compress the entire LIONSBERG system into ~500 words — sufficient for any AI to orient
+- The 12 Elements + 7 Moves + Key Terminology compress the entire LIØNSBERG system into ~500 words — sufficient for any AI to orient
 
 **Git Tags:**
 None this session
@@ -785,7 +785,7 @@ None this session
 - Test whether Claude online memory import improves alignment in browser-based conversations
 
 **Session End Status:**
-All work committed and pushed. Repository clean. CLAUDE.md now contains compressed LIONSBERG architecture, full body of work inventory, and biographical context for the nameless one.
+All work committed and pushed. Repository clean. CLAUDE.md now contains compressed LIØNSBERG architecture, full body of work inventory, and biographical context for the nameless one.
 
 ---
 
@@ -817,9 +817,9 @@ Major pruning session removing 121 obsolete files across three books that no lon
 - [[Topics for Future Incorporation]] — 11 tracked conceptual threads from deleted books
 
 **Files Deleted:**
-- 72 files from `LIONSBERG Wiki Books/The Great Game of Lionsberg/` (entire old Great Game book)
-- 35 files from `LIONSBERG Wiki Books/A New American Revolution/` (entire book)
-- 14 files from `LIONSBERG Wiki Books/The Battle for the Spirit of America/` (entire book)
+- 72 files from `LIØNSBERG Wiki Books/The Great Game of Lionsberg/` (entire old Great Game book)
+- 35 files from `LIØNSBERG Wiki Books/A New American Revolution/` (entire book)
+- 14 files from `LIØNSBERG Wiki Books/The Battle for the Spirit of America/` (entire book)
 - 3 empty directories and associated .DS_Store files
 
 **Files Modified:**
@@ -834,7 +834,7 @@ Major pruning session removing 121 obsolete files across three books that no lon
 Removing 121 files isn't loss — it's clarification. The current body of work is categorically superior in voice, depth, and operational specificity. The old files were scaffolding. The building stands. The scaffolding comes down.
 
 **2. From Reform to Co-Creation**
-The deletion of the American political books marks a clean strategic pivot: from "fix the failing American experiment" to "co-create the New Civilization, hospice the Old." This is architecturally significant — LIONSBERG no longer operates within or against nation-state logic. It operates beyond it.
+The deletion of the American political books marks a clean strategic pivot: from "fix the failing American experiment" to "co-create the New Civilization, hospice the Old." This is architecturally significant — LIØNSBERG no longer operates within or against nation-state logic. It operates beyond it.
 
 **3. Nothing of Value Lost**
 The systematic forward-incorporation analysis (121 files cross-referenced against current corpus) confirmed that every essential concept, methodology, and insight has been absorbed and elevated. The 11 tracked topics in Topics for Future Incorporation are seeds for future enrichment, not gaps that block the mission.
@@ -862,7 +862,7 @@ Complete ground-up reconceptualization of [[Most People Have No Idea What Is Com
 
 **Accomplished:**
 - **Full Assessment of Existing Book**: Read all 53 files. Identified 7 major issues: America-centric framing, outdated data (2023), missing dimensions (only finance covered deeply), structural imbalance (29 of 54 chapters on money), solution almost absent, many skeletal chapters (2-3 sentences), first-person Jordan voice throughout.
-- **Plan Design and Approval**: Comprehensive plan for 11 Parts, ~45 chapters. User directives: "eliminate all the personal 'I' stuff from Jordan," "draw not only on LIONSBERG material but all you know," "this could be an incredible work that brings full understanding to a vast array of topics on how this all really works."
+- **Plan Design and Approval**: Comprehensive plan for 11 Parts, ~45 chapters. User directives: "eliminate all the personal 'I' stuff from Jordan," "draw not only on LIØNSBERG material but all you know," "this could be an incredible work that brings full understanding to a vast array of topics on how this all really works."
 - **Deleted 52 Old Chapters**: Removed all legacy content.
 - **Created 45 New Chapters + TOC (46 files total)**: Written across 5 parallel execution phases using 12 agent invocations:
   - **Part 1: The Alarm** (1.1-1.3) — Dashboard of Civilization, Lahaina Principle, 10,000-year inflection, the fork
@@ -882,7 +882,7 @@ Complete ground-up reconceptualization of [[Most People Have No Idea What Is Com
 **Key Decisions:**
 - **Voice: Authoritative explanatory register** — truth itself speaking, not one person's testimony. No "I," no personal narrative. Definitive, not tentative.
 - **Scope: Civilizational, not American** — America as one (consequential) example of universal patterns, not THE story. Every domain examined at planetary scale.
-- **Knowledge base: All of human knowledge** — not just LIONSBERG material. Economics, political science, systems theory, ecology, cliodynamics, monetary history, consciousness research, military strategy, technology, philosophy — synthesized as truth speaking.
+- **Knowledge base: All of human knowledge** — not just LIØNSBERG material. Economics, political science, systems theory, ecology, cliodynamics, monetary history, consciousness research, military strategy, technology, philosophy — synthesized as truth speaking.
 - **Historical witnesses dissolved into pattern** — Dalio, Tainter, Bernays, Chomsky, Turchin, planetary boundaries, Gilens & Page — referenced as patterns and principles, not academic name-dropping.
 - **Startup Country allegory preserved and expanded** — the pedagogical centerpiece from the original, now with QE, zero reserve requirements, and the full money multiplication walkthrough.
 - **Dashboard of Society metaphor preserved** — introduced in Part 1, revisited in Part 9 with all six systems RED.
@@ -907,7 +907,7 @@ Complete ground-up reconceptualization of [[Most People Have No Idea What Is Com
 **User Teaching Moments:**
 - "Eliminate all the personal 'I' stuff from Jordan... we can do much better" — the work speaks as truth itself, not as one person's testimony
 - "This could be an incredible work that brings full understanding to a vast array of topics... on how this all really works" — comprehensive domain coverage, not just financial
-- "Draw not only on LIONSBERG material but all you know" — full breadth of human knowledge, not constrained to existing wiki content
+- "Draw not only on LIØNSBERG material but all you know" — full breadth of human knowledge, not constrained to existing wiki content
 
 **Session Themes:**
 
@@ -924,7 +924,7 @@ The old book covered finance deeply but left government, media, education, food,
 - Parallel agent execution (12 agents across 5 phases) can produce ~73,700 words of high-quality, voice-consistent content in a single session
 - The Startup Country allegory is pedagogical gold — the most accessible explanation of fractional reserve banking in the entire body of work
 - Navigation link chains across 45 chapters require careful verification at part boundaries (different agents may handle different naming conventions)
-- macOS case-insensitive filesystem creates git path confusion when directory names change case ("Lionsberg" vs "LIONSBERG") — old deletions and new creations must be staged separately
+- macOS case-insensitive filesystem creates git path confusion when directory names change case ("Lionsberg" vs "LIØNSBERG") — old deletions and new creations must be staged separately
 
 **Next Session Considerations:**
 - Jordan review of the complete work for resonance and accuracy
@@ -979,7 +979,7 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
 - **Substantially rewritten:** [[The LIØNSBERG Sacred Codex]] (8-Volume reorganization, dual-Story articulation, maturation framing) · [[The LIØNSBERG Constitution]] (full cosmic-grade rebuild — 12 Parts, ~87 Articles, Eternal Provisions, Structural Immunity, Amendment Process) · `Lionsberg Wiki Books.md` (index restructured around new architecture)
 - **Updated:** [[The LIØNSBERG Wiki — One Clear Vision]] (8-Volume order, Seven-Layer framing) · `The Great Spring 2026 Wiki Turn.md` (16 decision resolutions, reassessment, Phase 2.8/3 work item updates)
-- **Deleted:** `LIONSBERG Wiki Books/Lionsberg - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
+- **Deleted:** `LIØNSBERG Wiki Books/Lionsberg - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
 - **Moved:** [[The Sacred Ascent]] (root → wiki book folder) · 29 Playbook fragments (root → Playbook synthesis folder) · 7 PM fragments (root → PDG synthesis folder)
 
 **User Teaching Moments (Critical Voice and Discipline Refinements):**

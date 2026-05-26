@@ -107,7 +107,7 @@ This New System and Approach afforded humanity the ability to act in a far more 
 
 Because the existing conditions on [[Worksite Earth]] included over 8 billion individual human beings, who ranged from newborn, helpless, and illiterate to enlightened, advanced, and spacefaring, it was recognized that each of 8+ billion humans beings would need to be met right where they were, wherever they were, so that they could learn to play their unique and important individual role in [[Co-Operating]] the [[New System]]. 
 
-For this purpose, the [[LIONSBERG Academy]] was established to ensure that every individual who connected to the [[LIØNSBERG System]] had access to a world-class pre-school through advanced university education, for free, alongside the modules that taught them the specifics of how to grow into every greater responsibility and participation in co-operating the [[LIØNSBERG System]]. 
+For this purpose, the [[LIØNSBERG Academy]] was established to ensure that every individual who connected to the [[LIØNSBERG System]] had access to a world-class pre-school through advanced university education, for free, alongside the modules that taught them the specifics of how to grow into every greater responsibility and participation in co-operating the [[LIØNSBERG System]]. 
 
 ## Organizing and Structuring the Joint Venture / Public Private Partnership
 

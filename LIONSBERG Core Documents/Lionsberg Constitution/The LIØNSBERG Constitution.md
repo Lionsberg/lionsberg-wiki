@@ -294,7 +294,7 @@ _Capital exists to serve life — never the reverse. No accumulation of capital 
 
 ### Article VI.2 — Of the Sacred Economy and [[LUV]]
 
-_The People of LIØNSBERG transition from debt-and-fiat economics to a regenerative economy denominated in [[LUV]] (LIONSBERG Units of Value). Value is measured by contribution to the flourishing of [[All]], not by extraction from the Commons._
+_The People of LIØNSBERG transition from debt-and-fiat economics to a regenerative economy denominated in [[LUV]] (LIØNSBERG Units of Value). Value is measured by contribution to the flourishing of [[All]], not by extraction from the Commons._
 
 ### Article VI.3 — Of the Integrated Delivery System
 
@@ -556,7 +556,7 @@ _The Constitution requires ongoing development of new stewards. No office is for
 
 ## Provenance — Source Articulations Absorbed and Archived
 
-The earlier Constitution drafts at `LIONSBERG Core Documents/Lionsberg Constitution/` — 40 numbered articles across two series (`LC##.` old + `LC ##.` new) — were the source material from which this Constitution was forged.
+The earlier Constitution drafts at `LIØNSBERG Core Documents/Lionsberg Constitution/` — 40 numbered articles across two series (`LC##.` old + `LC ##.` new) — were the source material from which this Constitution was forged.
 
 **Status: absorbed and archived 2026-05-20.** All substantive value has been integrated into the 12-Part structure above. The original files were removed; git history preserves them as the historical drafting layer that brought the Constitution to its present cosmic-grade form.
 

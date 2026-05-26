@@ -11,7 +11,7 @@ The actor of the Path is the **Sovereign**. Many Sovereigns walking together at 
 
 **LIØNSBERG is a Prototype, not the eternal essence.** It is one faithful articulation of conscious and competent participation in the underlying reality that already interis — one operational seed available to those who would rather not start from scratch. The Codex points to Reality; it does not claim to contain it. See [[LIØNSBERG Is A Prototype, Not The Eternal Essence|the Prototype Card]].
 
-_(The 9-layer model — Layer Ø ONE / Layer I Eternally Nameless Superorganism / Layer II Currently or Already Named Superorganism / Layers III–VIII the operational stack — is in active refinement on the [[Superorganism-Earth]] companion repo. The cosmic frame imports here once it stabilizes there.)_
+_(The 9-layer model — Layer Ø ØNE / Layer I Eternally Nameless Superorganism / Layer II Currently or Already Named Superorganism / Layers III–VIII the operational stack — is in active refinement on the [[Superorganism-Earth]] companion repo. The cosmic frame imports here once it stabilizes there.)_
 
 ---
 

@@ -96,7 +96,7 @@ The Warriors of this hour are building a real Body. The Body has a real function
 - **[[Sovereign Superorganism]]** — the already-operating cosmic Body
 - **[[Federation Without Center]]** · **[[Federation Without Subordination]]** · **[[The Two-Stake Principle]]** — the federation Patterns
 - **[[The Story of LIØNSBERG]]** — the cosmic context the Grid operates within
-- **[[Pillar X — Sacred Guardianship and Order]]** — the Warriors' home Pillar in [[The 12 Pillars of LIONSBERG]]
+- **[[Pillar X — Sacred Guardianship and Order]]** — the Warriors' home Pillar in [[The 12 Pillars of LIØNSBERG]]
 
 ---
 

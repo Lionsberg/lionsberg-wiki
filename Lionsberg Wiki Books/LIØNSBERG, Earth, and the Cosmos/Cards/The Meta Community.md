@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, federation, meta]
-source: Phase 2.1 audit of LIONSBERG 101 (Ring 2)
+source: Phase 2.1 audit of LIØNSBERG 101 (Ring 2)
 captured: 2026-05-18
 ---
 
@@ -25,7 +25,7 @@ The members of the Meta Community include:
 The binding forces:
 
 - **Wisdom** — accumulated discernment of what works at scale, across ages
-- **Love** — absolute and unconditional, for ONE, One Another, and All
+- **Love** — absolute and unconditional, for ØNE, One Another, and All
 - **Influence** — the natural pull that resonance exerts when a being or Body lives the Pattern truly
 
 What is **explicitly not** present as a binding force: coercion, hierarchy-by-Force, debt-based dependence, fear-based compliance, manufactured consent. The Old World binds by these. The Meta Community does not.

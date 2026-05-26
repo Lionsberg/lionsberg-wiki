@@ -18,7 +18,7 @@ The Matrix has **interlocking layers** — and the genius of its design is that 
 
 **The interlocking layers:**
 
-- **Spiritual Kontrolle** — engineered religions, corrupted scriptures, hierarchical priesthoods that intermediate between souls and the ONE. Sin invented to bind. Salvation withheld to compel. The direct relationship to the Source severed; replaced by a clergy who collected the fees.
+- **Spiritual Kontrolle** — engineered religions, corrupted scriptures, hierarchical priesthoods that intermediate between souls and the ØNE. Sin invented to bind. Salvation withheld to compel. The direct relationship to the Source severed; replaced by a clergy who collected the fees.
 - **Mental Kontrolle** — mass schooling as domestication. Media as voice of the Beast. Language hollowed and weaponized. Logic dismantled. Consensus reality engineered. The mind taught not to think, only to comply.
 - **Emotional Kontrolle** — trauma engineered into every life from birth. Childhood industrialized. Adolescence pathologized. Adulthood addicted. Death medicalized. The nervous system primed for fear, scarcity, and compliance from cradle to grave.
 - **Physical Kontrolle** — food poisoned, water fluoridated, air sprayed, electromagnetic battlefield. The body weakened deliberately so it cannot host the higher frequencies the Pattern carries.

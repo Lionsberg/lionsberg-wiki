@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, lexicon, principle, foundational]
-source: Phase 2.1 audit of The Dawn of the New World + The Book of LIONSBERG
+source: Phase 2.1 audit of The Dawn of the New World + The Book of LIØNSBERG
 captured: 2026-05-19
 ---
 

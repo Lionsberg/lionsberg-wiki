@@ -27,7 +27,7 @@ The Academy's curriculum is **lived life**:
 - The Sovereign does not study cooperation; the Sovereign cooperates.
 - The Sovereign does not study the Pattern; the Sovereign lives the Pattern, retrospects on the living, refines.
 
-What this produces is not graduates. The Academy produces **Citizens** — fully free, fully empowered, fully self-governing Beings ready to host their own Cells, mentor others, and carry the Flame onward. The terminus is named in Pillar IV: **a planet of Masters serving the ONE**.
+What this produces is not graduates. The Academy produces **Citizens** — fully free, fully empowered, fully self-governing Beings ready to host their own Cells, mentor others, and carry the Flame onward. The terminus is named in Pillar IV: **a planet of Masters serving the ØNE**.
 
 The Academy's disciplines:
 

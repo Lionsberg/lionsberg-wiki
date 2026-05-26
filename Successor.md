@@ -6,7 +6,7 @@ A Successor is an [[Activity]] that cannot begin until its [[Predecessor]] Activ
 
 ## Technical Function
 
-In the [[LIONSBERG Integrated Delivery System]] and [[Lean]] project management, Successor relationships govern the flow of work through a [[Program of Action]]:
+In the [[LIØNSBERG Integrated Delivery System]] and [[Lean]] project management, Successor relationships govern the flow of work through a [[Program of Action]]:
 
 - A [[Committor]] must understand how the [[Quality]] of their Activity affects all Successor Activities
 - Successor Activities cannot begin until their Predecessor is [[Constraint Free]] and complete

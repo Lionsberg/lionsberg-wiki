@@ -4,6 +4,6 @@ Lionsberg aligns with universal spiritual and philosophical values such as truth
 
 Developed in service to [[ØNE]] and [[All]], it prohibits "state religion" and encourages each individual to humbly learn from One Another and Help One Another Progress towards Right Relationship with the Creator, One Another, and All Creation in accordance with the dictates of their own Spirit and Conscience.  
 
-LIONSBERG neither imposes any religious or ideological dogma on any Sovereign, nor allows the imposition of any dogma upon it.  
+LIØNSBERG neither imposes any religious or ideological dogma on any Sovereign, nor allows the imposition of any dogma upon it.  
 
 See more [[Frequently Asked Questions]]  

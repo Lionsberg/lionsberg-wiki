@@ -1,10 +1,10 @@
-# Welcome to LIONSBERG, We Are Glad You Are Here
+# Welcome to LIØNSBERG, We Are Glad You Are Here
 
-Welcome to **LIONSBERG**.  
+Welcome to **LIØNSBERG**.  
 Welcome **HOME**.  
 We are so glad that you are here.  
 ____  
-The Path of LIONSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIØNSBERG]]**, **[[The Great Game of LIØNSBERG]]**, and **[[The LIØNSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIØNSBERG]]** and begin there.  
+The Path of LIØNSBERG is structured using a series of initiatory gates. If you have reached this page without absorbing **[[The Story of LIØNSBERG]]**, **[[The Great Game of LIØNSBERG]]**, and **[[The LIØNSBERG Quick Start Guide]]**, we strongly advise you to gather up your Circle, return to the opening page of **[[Welcome to LIØNSBERG]]** and begin there.  
 ___
 
 Everything about [[LIØNSBERG]] is a **[[Work In Progress]]**. This will never be a finished structure—it is a **living, evolving, co-created effort** to **bring Heaven to All Worlds**, one **step, one decision, one life, one community at a time**. 
@@ -17,7 +17,7 @@ It is a State of Being that We must **Become**.
 
 It is something that **emerges** through each **individual, circle, team, and locality** as a direct **consequence of Who We Are Becoming**.
 
-LIONSBERG was purpose-built to bring Heaven to any realm it touches within a single generation—but it can only become Reality through the conscious decision to voluntarily **Accept The Invitation** and **Play The Great Game**, one individual and locality at a Time.
+LIØNSBERG was purpose-built to bring Heaven to any realm it touches within a single generation—but it can only become Reality through the conscious decision to voluntarily **Accept The Invitation** and **Play The Great Game**, one individual and locality at a Time.
 
 We are so delighted that you have decided to take this simple yet extraordinary first step. 
  
@@ -35,7 +35,7 @@ As you settle in, you might also notice:
 
 Most entities will leave you alone. But there are **predators, parasites, and self-defense mechanisms you do not want to be in contact with.**
 
-Everything in LIONSBERG operates on **Sovereignty and Free Will**. Every **Individual, Team, and Community** is **self-governing**, free to act as they see fit **within the bounds of Love and Universal Law**.  
+Everything in LIØNSBERG operates on **Sovereignty and Free Will**. Every **Individual, Team, and Community** is **self-governing**, free to act as they see fit **within the bounds of Love and Universal Law**.  
 
 Every Sovereign is not only free, but morally required to continually [[Break The Rules In Order To Do The Wise Right Thing]].  
 
@@ -45,14 +45,14 @@ Throughout the **[[10 Year Grand Strategy]]**, We can expect to **Co-Create with
 
 This is not a burden—it is the **Refiner’s Fire** that will forge us into the kinds of **Powerful, Competent, Loving, Wise, and Good beings** capable of bringing **Heaven to Earth for millennia to come**.
 
-One of **[[The Watchwords of LIONSBERG]]** is:  
+One of **[[The Watchwords of LIØNSBERG]]** is:  
 >_**“Dangerous But Good.”**_
 
 ---
 
 ## **Next Steps: Orientation & Integration**
 
-As you **set your feet on [[The Path]]** and begin to **connect with your [[Circles]]**, you will find that **[[The LIONSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIØNSBERG Playbook]].  
+As you **set your feet on [[The Path]]** and begin to **connect with your [[Circles]]**, you will find that **[[The LIØNSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIØNSBERG Playbook]].  
 
 The most important thing for now is to get into action with your Circles as immediately and powerfully as possible. Memories, insights, and deeper questions and understandings will surface as you take action and begin to connect with others who are playing **The Great Game**.  
 

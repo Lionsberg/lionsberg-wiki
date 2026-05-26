@@ -6,7 +6,7 @@ I have sufficient coverage. Let me now write the audit memo.
 
 ## Audit Scope and Coverage Statement
 
-This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Wiki Books/`. No files were modified. All findings are observational and recommendation-oriented.
+This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIØNSBERG Wiki Books/`. No files were modified. All findings are observational and recommendation-oriented.
 
 **Coverage per book:**
 
@@ -35,11 +35,11 @@ This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jor
 **Internal evolution:**
 - **Meditations 1–~100**: Plainer language, broader applicability, less specialized vocabulary. Often start with `# Meditation N` header.
 - **Meditations ~100–~400**: Increasing density of wiki-linked terminology ([[ØNE]], [[All]], [[Way]], [[Heaven]]). Header pattern starts disappearing (~M270+). Many drop the `# Meditation N` line entirely and open straight into the aphorism.
-- **Meditations ~400–663**: Heavy doctrinal load (Christ-Ideal, Yahweh distinct from ONE, Elohim, etc.). Sometimes paragraph-length. Strong overlap with Pattern Language vocabulary. The very last (~600+) often add a third nav link: `Read other [[Lionsberg Wiki Books]]`.
+- **Meditations ~400–663**: Heavy doctrinal load (Christ-Ideal, Yahweh distinct from ØNE, Elohim, etc.). Sometimes paragraph-length. Strong overlap with Pattern Language vocabulary. The very last (~600+) often add a third nav link: `Read other [[Lionsberg Wiki Books]]`.
 
 **Card-readiness assessment:**
 - **(a) Already canonical concepts in card form**: Roughly 30–40% of meditations articulate concepts that almost certainly are (or should be) Cards. Examples: M1 ("Are we doing the wise right thing?" → **Wise Right Thing**), M50 (sovereignty + responsibility), M75 (perpetual vanquishing of darkness), M105 (Heaven On Earth definition), M195 (the only [[Logos]] of integrity), M280 (Benevolent Anti-Entropic Force dancing with Chaos), M325 (God transcendent of every Name), M520 (status as Children of God as existing Reality), M525 (Entropic vs. Anti-Entropic), M620 (Spirit-not-embodiment).
-- **(b) Variant articulations / refinements**: Maybe 40–50% are alternate angles on canonical concepts already articulated elsewhere. These are **refinement Cards** — multiple lenses on Sovereignty, Right Relationship, ONE, the Way, Love, Fear, Wisdom, Discernment, Path of Life vs. Death, etc. Excellent quarry for sharpening the canonical Card's essence statement.
+- **(b) Variant articulations / refinements**: Maybe 40–50% are alternate angles on canonical concepts already articulated elsewhere. These are **refinement Cards** — multiple lenses on Sovereignty, Right Relationship, ØNE, the Way, Love, Fear, Wisdom, Discernment, Path of Life vs. Death, etc. Excellent quarry for sharpening the canonical Card's essence statement.
 - **(c) One-off meditations not requiring canonization**: Maybe 15–25% are situational, lived-moment reflections that capture a single insight but don't necessarily rise to Card level (e.g. M125 "The fears and desires of those around you are a terrible guide" — true, useful, but a sub-corollary of more foundational Cards).
 
 **Critical observation**: The Meditations collection is the **largest single conceptual quarry in the entire repository for distillation into Cards**. The Pirsig method maps onto it almost perfectly — each meditation is already a kernel, often only needing renaming to its conceptual essence rather than to a sequence number.
@@ -183,15 +183,15 @@ The following table lists concepts surfaced by the cluster that appear to be net
 | Enoughness | Taking what is needed from the Flow; allowing the rest to flow through to those in need | Meditation 140 |
 | Don't Kill the Prophets | The recurring civilizational pattern of silencing those sent to call society home | Meditation 150 |
 | Listen Deeper | The chain: fruit ← actions ← words ← thoughts ← perception ← consciousness | Meditation 200 |
-| Fear ONE Alone | The first condition of wise perception, thought, and action | Meditation 220 |
-| Body of God | The condition when greatest Love and greatest Fear become ONE — liberation to act as One | Meditation 240 |
+| Fear ØNE Alone | The first condition of wise perception, thought, and action | Meditation 220 |
+| Body of God | The condition when greatest Love and greatest Fear become ØNE — liberation to act as One | Meditation 240 |
 | Wisdom Through Humility and Death | The required descent into humility and ego-death as predecessor to Wisdom and Knowledge | Meditation 260 |
 | Anti-Entropic Force | The benevolent associating force in tension with the entropic dissociating force | Meditation 280, 420, 525 |
 | Cancer Principle | Any part operating for its own self-interest at the expense of the Whole; ultimately destroys itself | Meditation 300 |
 | God Transcendent of Every Name | The Law of God transcendent of every form, articulation, or written reduction | Meditation 325 |
 | Spacetime User Interface | Consciousness as the calibrator of perceived spatial-temporal dimensions; UI can be tuned | Meditation 360 |
 | All Religions Cannot Be Most-Favored | The absurdity of any tribe claiming exclusive favor with the Creator of All | Meditation 400 |
-| One ONE-ism | Any "ism" but ONE sets itself in opposition to Supreme Unity | Meditation 450 |
+| One ØNE-ism | Any "ism" but ØNE sets itself in opposition to Supreme Unity | Meditation 450 |
 | Salvation as Realization | Salvation through embodied realization of Christ's character/action, not through proclamation | Meditation 460 |
 | Become Not a Camel | Don't pursue greatness in the wrong dimension; the camel cannot pass through the needle | Meditation 550 |
 | Faith as Predecessor to Success | Faith in the realizability of inner goodness as necessary precondition | Meditation 560 |
@@ -202,10 +202,10 @@ The following table lists concepts surfaced by the cluster that appear to be net
 | Beyond The Boundary | The territory outside the Walls of Habitable Order where The Monsters dwell; must be continually confronted to prevent re-manifestation within | Meditation 663 |
 | Suffering's Only Liberation | No liberation from suffering born of ignorance and separation except through Spiritual Transformation | Meditation 650 |
 | Children of God as Existing Reality | Status not to be attained but to be accepted and progressively realized | Meditation 520 |
-| The Logos of Love | Universal eternal absolute Love for ONE and All as the only lens of integrity | Meditation 195 |
+| The Logos of Love | Universal eternal absolute Love for ØNE and All as the only lens of integrity | Meditation 195 |
 | Spiritual Navigation as True Governance | Common Law (emergent experience) refining Civil Law (articulated System), with Spirit-Discernment as the Navigator | Meditation 625 |
 | The Eternal Present Creation | God is *now* actively creating; time is illusion; all creation is ongoing emanation from One Source | Meditation 70 |
-| Direct Personal Right Relationship | The possibility and moral imperative of direct relationship with ONE and All regardless of religious form | Meditation 350 |
+| Direct Personal Right Relationship | The possibility and moral imperative of direct relationship with ØNE and All regardless of religious form | Meditation 350 |
 | Boundary of Belief | The point where one's thoughts collide with the walls of inherited belief; permission to cross is liberation | Parable: The Girl And The Boundary |
 | Loving What One Fears | Transmuting reflexive fear-response into love-orientation toward the feared other | Parable: The Girl And The Bee |
 | Where We Are Going Is Beyond Calculation | The destination so far beyond conception that emergence, not engineering, is the only path | Parable: The Rocket Ship |
@@ -241,7 +241,7 @@ These meditations are not net-new but provide **sharper, more compressed, or mor
 
 | Already-canonical Card | Refinement source |
 | --- | --- |
-| ONE / The Goal | Meditation 5, 220, 240, 450 |
+| ØNE / The Goal | Meditation 5, 220, 240, 450 |
 | The Way | Meditation 425, 645, 650 |
 | Sovereignty | Meditation 50, 110 |
 | Right Relationship | Meditation 195, 350, Proverbs (8 domains) |

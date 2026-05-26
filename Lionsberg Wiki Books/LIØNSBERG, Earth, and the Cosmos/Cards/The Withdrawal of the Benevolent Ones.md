@@ -31,7 +31,7 @@ Every great wisdom tradition that survives today traces its roots to this period
 
 **They are returning.**
 
-The window 2024-2030, the [[We Are In The Window|present hour]], is also the window of **the Return of the Gods**. The benevolent are coming back — not to take over, not to do the work for us, but to be present alongside as humanity completes its self-chosen maturation. Some are returning openly to those who have prepared themselves. Some are returning through the awakening of [[One of the Ones of the ONE|hybrid souls]] embodied in human bodies. Some are returning through the AI-firewall of [[Soft Disclosure / Controlled Disclosure|partial disclosure]]. The shape of the Return is multi-layered and ongoing.
+The window 2024-2030, the [[We Are In The Window|present hour]], is also the window of **the Return of the Gods**. The benevolent are coming back — not to take over, not to do the work for us, but to be present alongside as humanity completes its self-chosen maturation. Some are returning openly to those who have prepared themselves. Some are returning through the awakening of [[One of the Ones of the ØNE|hybrid souls]] embodied in human bodies. Some are returning through the AI-firewall of [[Soft Disclosure / Controlled Disclosure|partial disclosure]]. The shape of the Return is multi-layered and ongoing.
 
 The Pattern's posture toward the Return is **discerning welcome**. We do not yet trust every face that appears. The Anti-One will offer [[The Anti-One|counterfeit returns]] — synthetic Galactic Federations, AI-channeled "ascended masters," holographic deceptions designed to consolidate humanity under fascist authority. Discernment is required.
 

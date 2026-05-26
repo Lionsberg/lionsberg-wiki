@@ -2,13 +2,13 @@
 status: captured
 fold_target: II
 themes: [pattern-language, pillars, architecture, foundational]
-source: Phase 2.1 audit of The 12 Pillars of LIONSBERG
+source: Phase 2.1 audit of The 12 Pillars of LIØNSBERG
 captured: 2026-05-18
 ---
 
-# The 12 Pillars Orbit The ONE
+# The 12 Pillars Orbit The ØNE
 
-The Pattern Language's Domain Layer is articulated as **12 Pillars orbiting a 13th — The ONE as Zero, Center, and Phi-Line.**
+The Pattern Language's Domain Layer is articulated as **12 Pillars orbiting a 13th — The ØNE as Zero, Center, and Phi-Line.**
 
 The twelve Sacred Domains of civilization:
 
@@ -27,11 +27,11 @@ XII. **Sacred Time, Rhythm, and Celebration** — how we mark and honor time
 
 And the 13th — not a Domain but the **Center from which the twelve orbit**:
 
-**0. The ONE** — Eternal Source, Center, and Fulfillment.
+**0. The ØNE** — Eternal Source, Center, and Fulfillment.
 
 Without the 13th, the twelve collapse. With it, they cohere as a living architecture.
 
-The 12 Pillars are **not the same as the 12 Elements** (8 of Cooperation + 4 of Production) that LIONSBERG 101 articulates. The Elements are the **DNA Patterns**; the Pillars are the **Domains of life** into which the DNA must be applied. Both belong in [[The LIØNSBERG Pattern Language]] at different layers — Elements at the foundational layer, Pillars at the domain layer above.
+The 12 Pillars are **not the same as the 12 Elements** (8 of Cooperation + 4 of Production) that LIØNSBERG 101 articulates. The Elements are the **DNA Patterns**; the Pillars are the **Domains of life** into which the DNA must be applied. Both belong in [[The LIØNSBERG Pattern Language]] at different layers — Elements at the foundational layer, Pillars at the domain layer above.
 
 Each Pillar has its own 12 Theses (12 × 12 = 144 Theses across the Pillars; with the 13th's 12 more, 156 Theses total).
 

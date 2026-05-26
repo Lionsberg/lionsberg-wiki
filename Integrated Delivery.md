@@ -8,7 +8,7 @@ ___
 
 Every [[Circle]] is not just a community — it is a **production unit**. Every [[Quests|Quest]] is not just meaningful work — it is a **project contributing to the total integrated delivery** of [[Heaven On Earth]].
 
-The [[LIONSBERG Integrated Delivery System]] — rooted in Integrated Project Delivery (IPD), the Toyota Production System, and Lean Construction — coordinates work across all scales.
+The [[LIØNSBERG Integrated Delivery System]] — rooted in Integrated Project Delivery (IPD), the Toyota Production System, and Lean Construction — coordinates work across all scales.
 
 **You cannot optimize the pieces and expect the Whole to work. You must optimize the Whole — the Single Lean Enterprise.**
 
@@ -28,11 +28,11 @@ The core insight is universal: **fragmented delivery produces fragmented results
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Each [[Circle]] operates as a self-governing production unit executing [[Quests]] — concrete projects advancing [[Meta Goal|The Meta Goal]].
 
-Circles federate into Communities. Communities federate into Bioregions. Bioregions federate into the Planetary whole — and across all [[Levels of Scale]] beyond. At every scale, the [[LIONSBERG Integrated Delivery System]] provides shared protocols for planning, executing, measuring, and improving.
+Circles federate into Communities. Communities federate into Bioregions. Bioregions federate into the Planetary whole — and across all [[Levels of Scale]] beyond. At every scale, the [[LIØNSBERG Integrated Delivery System]] provides shared protocols for planning, executing, measuring, and improving.
 
 [[The Prototype]] — a centrally learning Kit of Parts — ensures every lesson learned in any Circle feeds back into the shared knowledge base, improving every subsequent effort.
 

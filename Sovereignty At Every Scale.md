@@ -24,7 +24,7 @@ In [[Mondragon]], sovereignty is expressed through the **arm's-length federation
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 This is described as the **[[Total Nested Hierarchy of Sovereignties]]**:
 
@@ -46,7 +46,7 @@ If the [[Holofractal Omnifederation]] is a sovereign superorganism, sovereignty 
 
 Every living cell has a membrane. It is not a wall — it is a *selectively permeable* boundary. It allows nutrients in. It allows waste out. It allows communication. But it protects the integrity of what is within. Without it, the cell dissolves.
 
-Each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]] in LIONSBERG is bounded by such a membrane. The membrane is crossed only on the basis of **ongoing mutual consent**. New members enter by mutual consent. Resources flow in and out by mutual consent. The membrane is governed by the [[Field of Agreements]] that the sovereign members of that domain have freely established.
+Each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]] in LIØNSBERG is bounded by such a membrane. The membrane is crossed only on the basis of **ongoing mutual consent**. New members enter by mutual consent. Resources flow in and out by mutual consent. The membrane is governed by the [[Field of Agreements]] that the sovereign members of that domain have freely established.
 
 This is how sovereignty is *structurally* protected — not by rules imposed from above, but by the living boundary that each domain maintains around itself. The membrane is the cell wall of the superorganism. Without it, sovereignty is rhetoric. With it, sovereignty is architecture.
 

@@ -18,7 +18,7 @@ This book has been written to be read slowly. Read it with your body. Let what l
 
 This is one of the **Archetypal Guides** of LIØNSBERG.
 
-The Warriors are one [[Guild]] of the awakening [[ØNE Body|LIØNSBERG Body]] — one organ among many. The Healers, the Teachers, the Builders, the Stewards, the Storytellers, the Midwives, the Witnesses, the Guardians, the Cosmic Diplomats, the Cooks, the Architects, the Warriors — many Guilds across [[The 12 Pillars of LIONSBERG|the Twelve Pillars]], each holding one functional facet of a fully enlightening civilization. Each Guild has its own Archetypal Guide. This is the Warriors' guide.
+The Warriors are one [[Guild]] of the awakening [[ØNE Body|LIØNSBERG Body]] — one organ among many. The Healers, the Teachers, the Builders, the Stewards, the Storytellers, the Midwives, the Witnesses, the Guardians, the Cosmic Diplomats, the Cooks, the Architects, the Warriors — many Guilds across [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]], each holding one functional facet of a fully enlightening civilization. Each Guild has its own Archetypal Guide. This is the Warriors' guide.
 
 The Body the Warriors serve is the local incarnation of the cosmic [[Sovereign Superorganism]] **already operating across the wider universe**. Earth is one of many nodes incarnating [[The Golden Seed]] in this hour. The Warriors of Earth are joining a lineage that has held the field across many worlds and many ages. **The work is local. The power is non-local. The lineage is cosmic.**
 
@@ -126,7 +126,7 @@ The Warriors as one organ of the larger Body. Federation with the other Guilds. 
 
 ## The Starting Cohort — 12,000 × 12
 
-If we are truly building a powerful [[ØNE Body|Body]] in this hour, the operational starting point is straightforward: **the most conscious and competent twelve thousand members of each of the twelve archetypal Guilds** corresponding to each of [[The 12 Pillars of LIONSBERG|the Twelve Pillars]]. **One hundred forty-four thousand** awakened Sovereigns, organized as twelve coherent Guilds, operating across all twelve Pillars, federated through every [[Levels of Scale|scale]].
+If we are truly building a powerful [[ØNE Body|Body]] in this hour, the operational starting point is straightforward: **the most conscious and competent twelve thousand members of each of the twelve archetypal Guilds** corresponding to each of [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]]. **One hundred forty-four thousand** awakened Sovereigns, organized as twelve coherent Guilds, operating across all twelve Pillars, federated through every [[Levels of Scale|scale]].
 
 This is not aspirational. This is the basic starting reality of consciously and competently meeting this moment in history as [[ØNE Body]]. The number is small relative to the species. The number is sufficient — if the twelve Guilds are operationally coherent and federated — to hold the field through the passage and seed every higher scale of the planetary Body.
 
@@ -176,7 +176,7 @@ This Guide composes; it does not duplicate. For substantive articulations that l
 - **[[The LIØNSBERG Pattern Language]]** — the Patterns the Warrior Body invokes at every scale
 - **[[The LIØNSBERG Playbook]]** — the operational Plays the Patterns compose into
 - **[[The LIØNSBERG Lexicon]]** — definitions of every term
-- **[[The 12 Pillars of LIONSBERG]]** — the substantive domains of civilization
+- **[[The 12 Pillars of LIØNSBERG]]** — the substantive domains of civilization
 - **[[The Sacred Ascent]]** — the eternal upward spiral
 - **[[The Daily Way]]** — the daily rhythm every Sovereign holds
 - **[[The Coherent Divine Intention Wave]]** — the dawn stillness practice

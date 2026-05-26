@@ -1,4 +1,4 @@
-# Co-Create LIONSBERG Learning Institutions
+# Co-Create LIØNSBERG Learning Institutions
 
 Education in the Old World was designed to produce compliance —  
 standardized minds for standardized roles  

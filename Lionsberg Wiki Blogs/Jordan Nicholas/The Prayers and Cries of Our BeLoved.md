@@ -67,19 +67,19 @@ We The People of Earth stand Together and say "No More."
 
 Is it not Time Now?  
 
-**WE THE PEOPLE OF LIONSBERG** have had enough.  
+**WE THE PEOPLE OF LIØNSBERG** have had enough.  
 
-**WE THE PEOPLE OF LIONSBERG** are awake.  
+**WE THE PEOPLE OF LIØNSBERG** are awake.  
 
-**WE THE PEOPLE OF LIONSBERG** will not stand idly by.  
+**WE THE PEOPLE OF LIØNSBERG** will not stand idly by.  
 
-**WE THE PEOPLE OF LIONSBERG** will not quietly submit.  
+**WE THE PEOPLE OF LIØNSBERG** will not quietly submit.  
 
-**WE THE PEOPLE OF LIONSBERG** will not ignorantly participate.  
+**WE THE PEOPLE OF LIØNSBERG** will not ignorantly participate.  
 
-**WE THE PEOPLE OF LIONSBERG** will not **Konsciously Konsent**.  
+**WE THE PEOPLE OF LIØNSBERG** will not **Konsciously Konsent**.  
 
-**WE THE PEOPLE OF LIONSBERG** will not allow Our silence to become **Komplicity**,  
+**WE THE PEOPLE OF LIØNSBERG** will not allow Our silence to become **Komplicity**,  
 Our inaction to become genocide, nor Our participation—  
 whether through apathy, ignorance, or **Kompliance**—  
 to become an unthinkable betrayal of the Spirit, Future Generations,  
@@ -101,7 +101,7 @@ It is The Great ReFounding of an entirely New Civilization.
 
 In response to the prayers and cries  
 of billions of suffering souls,  
-**WE THE PEOPLE OF LIONSBERG** are emerging  
+**WE THE PEOPLE OF LIØNSBERG** are emerging  
 as a **Conscious New Superorganism**  
 capable of **Co-Creating a Conscious New Civilization**.  
 
@@ -109,13 +109,13 @@ We invite you to ReMember you are One of US.
 We can only do this Together as One Body.  
 We can only do this Together with One Mind.  
 We can only do this Together with One Heart, Spirit, and Soul.  
-We can only do this Together with ONE.  
-We can only do this Together as ONE.  
+We can only do this Together with ØNE.  
+We can only do this Together as ØNE.  
 When We ReMember, We will ReDiscover  
-that We All are ONE,  
+that We All are ØNE,  
 and that All Things are possible  
 for those Who Believe.  
 
-In Service of ONE and All,  
+In Service of ØNE and All,  
 
 ~ J.One  

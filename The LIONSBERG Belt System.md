@@ -1,4 +1,4 @@
-# The LIONSBERG Belt System
+# The LIØNSBERG Belt System
 
 The cultivation of a Sovereign across the Ways of LIØNSBERG is real, observable, and recognizable. The Belt System is how the Body sees and confirms what is.
 

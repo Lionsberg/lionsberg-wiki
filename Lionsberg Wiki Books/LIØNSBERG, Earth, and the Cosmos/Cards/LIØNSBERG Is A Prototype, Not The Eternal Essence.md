@@ -29,7 +29,7 @@ Every Sovereign is free to start their own prototype. The underlying unity, howe
 
 ## See Also
 
-- [[Truth To ONE, Errors To Us]] — the paired epistemic posture
+- [[Truth To ØNE, Errors To Us]] — the paired epistemic posture
 - [[Every Defect Is A Gift]] — what surfacing dross enables
 - [[The Sovereign Path]] — the lifetime arc this Prototype invites
 - [[The Program Delivery Guide|The PDG]] — the methodology this Prototype is an emergent of

@@ -105,7 +105,7 @@ In the quiet of your own Space and Soul, light a single candle or lamp and speak
   
 > “I withdraw my consent from all false powers and hidden chains.
 > I declare all false agreements null and avoid. 
-> By the Name and in the Power of the ONE,  
+> By the Name and in the Power of the ØNE,  
 > I break and dissolve all parasitical ties.
 > I declare my Self Sovereign and Free.”
   

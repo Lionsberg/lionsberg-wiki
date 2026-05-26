@@ -27,7 +27,7 @@ The full canonical articulation, the Sovereign's Path, the Canonical Discipline,
 
 ## Featured Works (Legacy)
 
-_Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into the Sacred Codex above (Book of LIONSBERG → Volume IX; Program Delivery Guide → Volume VII; Strategy and Plan → Volume VI; LIØNSBERG, Earth, and the Cosmos → Volume XI; Universe Guide → Volume XII). Others remain as featured wiki books._
+_Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into the Sacred Codex above (Book of LIØNSBERG → Volume IX; Program Delivery Guide → Volume VII; Strategy and Plan → Volume VI; LIØNSBERG, Earth, and the Cosmos → Volume XI; Universe Guide → Volume XII). Others remain as featured wiki books._
 
 1. [[LIØNSBERG 101]] — The complete pattern in concentric rings. The fastest path from ØNE to All
 2. [[Most People Have No Idea What Is Coming]]
@@ -52,7 +52,7 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 ## Books by Jordan+ (Through 2024)
 
 1. [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]]
-2. [[The LIONSBERG Co-Creator's Handbook]]
+2. [[The LIØNSBERG Co-Creator's Handbook]]
 3. [[The Book of LIØNSBERG]]
 4. [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]
 5. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]
@@ -65,7 +65,7 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 12. [[Most People Have No Idea What Is Coming]]
 13. [[An Alternative to Apocalypse - The New Covenant]]
 14. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]]
-15. [[The LIONSBERG Theses]]
+15. [[The LIØNSBERG Theses]]
 16. [[The Lionsberg Approach to Citizen Led Governance]]
 18. [[A Way Beyond Fear, Anxiety, And Depression]]
 19. [[The Way of God]]

@@ -2,15 +2,15 @@
 
 _The irreducible pattern for co-creating Heaven On Earth — the same living DNA discovered independently by every successful movement in recorded history, reflecting an ancient and eternal Way that spans all worlds._
 
-_For a guided introduction to LIONSBERG, begin with **[[Welcome to LIØNSBERG]]**. This book offers the systematic deepening of the Pattern in concentric rings — from ØNE word to the full library — for those who want to go further._
+_For a guided introduction to LIØNSBERG, begin with **[[Welcome to LIØNSBERG]]**. This book offers the systematic deepening of the Pattern in concentric rings — from ØNE word to the full library — for those who want to go further._
 
 _LIØNSBERG 101 is one of the entries in **[[The LIØNSBERG Living Library|The Living Library]]**, the curated index of the canonical body of work surrounding **[[The LIØNSBERG Sacred Codex|the twelve-Volume Sacred Codex]]**. The Codex is the bound spine; LIØNSBERG 101 is one of its concentric-rings companions; the Library indexes them all._
 
 ---
 
-## What is LIONSBERG?
+## What is LIØNSBERG?
 
-LIONSBERG is **Story, Pattern, and Play**.
+LIØNSBERG is **Story, Pattern, and Play**.
 
 It is not an organization, institution, or brand. There is no one to join, no dues to pay, no leader to follow. It is a **[[Golden Seed]]** — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
 
@@ -20,7 +20,7 @@ It is not an organization, institution, or brand. There is no one to join, no du
 
 **The Play** is **[[The Great Game of LIØNSBERG]]** — a cooperative, real-world game where every person, family, and community finds their role in co-creating **[[Heaven On Earth]]**.
 
-One soul poured his life into planting this Seed on Earth. He died for it. The Pattern is now free. What remains is the Seed, the People, and the Story. This book distills the Pattern into concentric rings — from ONE word to the full library.
+One soul poured his life into planting this Seed on Earth. He died for it. The Pattern is now free. What remains is the Seed, the People, and the Story. This book distills the Pattern into concentric rings — from ØNE word to the full library.
 
 ---
 
@@ -41,7 +41,7 @@ If you are ready to act now, go directly to [[Ring 5 - The Game]]. The Pattern w
 ### [[The Emergence of the Core Pattern]]
 _How the same irreducible DNA emerged independently from every successful movement in recorded history._
 
-### [[Ring 0 - ONE]]
+### [[Ring 0 - ØNE]]
 **The Center.** One word. Spirit. The Source from which all patterns flow and to which all patterns return.
 
 ### [[Ring 1 - The Seed]]
@@ -57,7 +57,7 @@ _How the same irreducible DNA emerged independently from every successful moveme
 **The complete reference library — the canonical body of work that surrounds this 101 articulation.**
 
 - **[[The LIØNSBERG Sacred Codex]]** — the twelve-Volume bound corpus. The canonical spine: [[The LIØNSBERG Experience|Experience]] (I), [[The Story of LIØNSBERG|Story]] (II), [[The Great Game of LIØNSBERG|Great Game]] (III), [[The LIØNSBERG Playbook|Playbook]] (IV), [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]] (V), [[The LIØNSBERG Strategy and Plan|Strategy and Plan]] (VI), [[The Program Delivery Guide|Program Delivery Guide]] (VII), [[The LIØNSBERG Lexicon|Lexicon]] (VIII), [[The Book of LIØNSBERG|Book]] (IX), [[The Sacred Ascent|Sacred Ascent]] (X), [[The LIØNSBERG Living Library|Living Library]] (XI), [[The LIØNSBERG Universe Guide|Universe Guide]] (XII).
-- **[[The LIØNSBERG Living Library]]** — Volume XI of the Codex; the curated index of canonical companion works that deepen specific aspects of the spine, including this LIØNSBERG 101, [[The Power of Today]], [[The Lionsberg Book of Meditations]], [[The Lionsberg Book of Quotes]], [[The Lionsberg Book of Emotions]], [[The Lionsberg Book Of Parables|Book of Parables]], [[The LIONSBERG System of Values|System of Values]], [[The 12 Pillars of Lionsberg]], [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]], and other living companion works.
+- **[[The LIØNSBERG Living Library]]** — Volume XI of the Codex; the curated index of canonical companion works that deepen specific aspects of the spine, including this LIØNSBERG 101, [[The Power of Today]], [[The Lionsberg Book of Meditations]], [[The Lionsberg Book of Quotes]], [[The Lionsberg Book of Emotions]], [[The Lionsberg Book Of Parables|Book of Parables]], [[The LIØNSBERG System of Values|System of Values]], [[The 12 Pillars of Lionsberg]], [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]], and other living companion works.
 - **The wider wiki** — [[Lionsberg Wiki Books|the broader procession]] of articulations that brought the present canonical body of work into being, preserved with provenance.
 
 Organized so you can find what you need when you need it. The Codex is the bound spine. The Library is the canonical-companion field around it. The wider wiki is the procession from which both have grown.
@@ -103,4 +103,4 @@ _In [[ØNE]], all things cohere._
 
 **The Seed is in your hands. The Game is alive. It is now your move.**
 
-Proceed straight to the center: [[Ring 0 - ONE]].
+Proceed straight to the center: [[Ring 0 - ØNE]].

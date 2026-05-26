@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, epistemology, foundational]
-source: Phase 2.1 audit of The LIONSBERG Way
+source: Phase 2.1 audit of The LIØNSBERG Way
 captured: 2026-05-18
 ---
 
@@ -14,7 +14,7 @@ The Way is **not learned anew**. The Way is **ReMembered**.
 
 The capitalization carries the meaning: **Re-Member** — to put the members back together, to restore the Body, to recover the original integration. The being is not acquiring something foreign; the being is **recognizing something already present**.
 
-This is consistent with the deep cosmological claim: every being is [[One of the Ones of the ONE]]. The Pattern is **already encoded** in the Spark within. The work of awakening is not to install new programming, but to **remove the veils** that have obscured what was always there.
+This is consistent with the deep cosmological claim: every being is [[One of the Ones of the ØNE]]. The Pattern is **already encoded** in the Spark within. The work of awakening is not to install new programming, but to **remove the veils** that have obscured what was always there.
 
 The stance has practical implications:
 

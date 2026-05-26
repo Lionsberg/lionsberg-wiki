@@ -1,10 +1,10 @@
-# **The Kingdom of LIONSBERG — Plans and Specifications**
+# **The Kingdom of LIØNSBERG — Plans and Specifications**
 _A Living Architectural Manual for the Instantiation of Heaven on Earth and Beyond_  
 _v.0.1_  
 
 ## **Preface — Dedication to the Builders of the New Civilization**
   
-To the Stewards, Builders, and ReMemberers of the ONE:  
+To the Stewards, Builders, and ReMemberers of the ØNE:  
   
 You who labor not for yourselves but for the wholeness of Creation—  
 You who hold the memory of what the worlds were meant to be—  
@@ -19,15 +19,15 @@ but as gardeners study seeds—
 with care, devotion, and readiness to cultivate what lives within.  
 For the True Kingdom is not imposed;  
 it arises from within and unfolds through every act  
-of Right Relation with ONE and All.  
+of Right Relation with ØNE and All.  
 
 ---
 
 ## **Prologue — Purpose, Authority, and Use**
   
-The **Kingdom of LIONSBERG** is not a monarchy, an institution, or a religion.  
-Within it, _all are sovereign and free_, for it recognizes no True Authority but the ONE.  
-It is the _embodied design of the ONE Order of Reality_—the operational Logos through which Heaven continually manifests within form.  
+The **Kingdom of LIØNSBERG** is not a monarchy, an institution, or a religion.  
+Within it, _all are sovereign and free_, for it recognizes no True Authority but the ØNE.  
+It is the _embodied design of the ØNE Order of Reality_—the operational Logos through which Heaven continually manifests within form.  
  
 And now, it has come to you in the form of a Golden Seed. An luminous invitation to something more within.  
   
@@ -46,7 +46,7 @@ This document functions simultaneously as:
 
 - **Architectural Plan** — showing how all subsystems interlock within the coherent design of the Divine Whole.
     
-- **Constitutional Charter** — defining lawful, just, and regenerative order in alignment with the Ethic of Right InterExistence as ONE Body.
+- **Constitutional Charter** — defining lawful, just, and regenerative order in alignment with the Ethic of Right InterExistence as ØNE Body.
     
 - **Field Manual and Playbook** — providing practical guidance for immediate activation, governance, and growth.
     
@@ -59,7 +59,7 @@ This document functions simultaneously as:
   
 Every element within these specifications must remain eternally aligned to the Logos and **Ethic of Right InterExistence**:  
   
-> “All power, knowledge, and creation exist to serve the flourishing of ONE and All.”
+> “All power, knowledge, and creation exist to serve the flourishing of ØNE and All.”
   
 The authority of this document arises not from any institution, but from its **essential resonance with the Logos**—the living universal law written into the fabric of Reality ItSelf.  
 Every principle herein must therefore be _verified in lived experience_ through direct communion with Truth, Love, Justice, Stewardship, and Wisdom, and the Spirit and Source from which they flow.  
@@ -76,7 +76,7 @@ Through them, the Divine Pattern long latent within a species or world reawakens
 Every steward, every circle, every world that receives and lives this Pattern becomes a living stone in the Cosmic Cathedral of Heaven.  
   
 > **May these Plans stand as the living Covenant between Heaven and Earth—**
-> **that all beings may remember the ONE, embody Right Relation,**
+> **that all beings may remember the ØNE, embody Right Relation,**
 > **and co-create the Kingdom of Heaven in every realm of existence.**
 
 ---
@@ -87,11 +87,11 @@ Every steward, every circle, every world that receives and lives this Pattern be
 | -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **I**    | **Orientation and Mandate**                   | Establishes the ontological and ethical foundation: Creator’s Intent, the Goal, and the core axioms of Being.             |
 | **II**   | **The Cycle of Divine Co-Creation**           | Describes the cosmic process of manifestation—panspermia, localization, story, play, and return.                          |
-| **III**  | **The LIONSBERG Experience**                  | Guides the being or circle through the lived journey of awakening, initiation, and play.                                  |
-| **IV**   | **The Divine Blueprints**                     | Presents the design grammar of Heaven: the 12 Pillars and the LIONSBERG Pattern Language.                                 |
-| **V**    | **The LIONSBERG System of Systems**           | Defines the technical and metaphysical infrastructure by which the Pattern and Play operate.                              |
+| **III**  | **The LIØNSBERG Experience**                  | Guides the being or circle through the lived journey of awakening, initiation, and play.                                  |
+| **IV**   | **The Divine Blueprints**                     | Presents the design grammar of Heaven: the 12 Pillars and the LIØNSBERG Pattern Language.                                 |
+| **V**    | **The LIØNSBERG System of Systems**           | Defines the technical and metaphysical infrastructure by which the Pattern and Play operate.                              |
 | **VI**   | **Governance Protocols**                      | Reestablishes legitimate authority through voluntary consent, holofractal councils, and covenantal law.                   |
-| **VII**  | **Economy and Commons**                       | Articulates the regenerative value system and the use of LUV (LIONSBERG Units of Value) in place of debt, fear, and fiat. |
+| **VII**  | **Economy and Commons**                       | Articulates the regenerative value system and the use of LUV (LIØNSBERG Units of Value) in place of debt, fear, and fiat. |
 | **VIII** | **Culture and Rites**                         | Encodes the myths, arts, rituals, and rites through which the civilization continually remembers and renews.              |
 | **IX**   | **The Great Game and Playbook**               | Describes the Rules of Divine Play—how individuals and circles enact the Great Work in space and time.                    |
 | **X**    | **Intelligence and Meta-Science**             | Details the processes of perception, learning, sense-making, map-making, and cosmic coordination.                         |
@@ -102,7 +102,7 @@ Every steward, every circle, every world that receives and lives this Pattern be
 
 ## **Concentric Mandala of the Kingdom**
   
-At the heart of the design is the **Core Light**, representing the Presence and Power of the ONE and the living Spirit and Logos.  
+At the heart of the design is the **Core Light**, representing the Presence and Power of the ØNE and the living Spirit and Logos.  
 Surrounding it are twelve concentric rings, each corresponding to a Part of the Plans and Specifications.  
 
 - The **inner three rings** (Orientation, Cycle, Experience) describe the _metaphysical_ unfolding of creation.
@@ -144,7 +144,7 @@ This mandala symbolizes the living, breathing nature of the True Kingdom: eterna
 ### **Usage Statement**
   
 This document is a _living specification_.  
-It may be copied, shared, or adapted freely under the condition that all adaptations remain aligned to the Ethic of Right InterExistence and clearly reference their origin in the LIONSBERG System.  
-All derivatives must uphold Creator's Intent, serve the flourishing of ONE and All, and honor the Minimum Standards of Interoperability.  
+It may be copied, shared, or adapted freely under the condition that all adaptations remain aligned to the Ethic of Right InterExistence and clearly reference their origin in the LIØNSBERG System.  
+All derivatives must uphold Creator's Intent, serve the flourishing of ØNE and All, and honor the Minimum Standards of Interoperability.  
 
 ---

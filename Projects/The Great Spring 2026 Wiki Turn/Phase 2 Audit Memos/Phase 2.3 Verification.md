@@ -9,7 +9,7 @@
 
 ## Methodology
 
-For each SOE batch the final assistant message was extracted from the original subagent transcript and compared row-by-row against the corresponding ledger section. Card names checked verbatim; refinements, source-documents, FSC-bootstrap residue, and required LIONSBERG-Pattern lists were also cross-checked.
+For each SOE batch the final assistant message was extracted from the original subagent transcript and compared row-by-row against the corresponding ledger section. Card names checked verbatim; refinements, source-documents, FSC-bootstrap residue, and required LIØNSBERG-Pattern lists were also cross-checked.
 
 Transcripts located at:
 
@@ -40,9 +40,9 @@ Memos extracted to [[SOE-{1,2,3,4}]].
 
 **Refinements:** Ledger captures ~10. Transcript has 10 refinement Cards. Match.
 
-**Source files / LIONSBERG Patterns / FSC-Bootstrap Residue:** Ledger captures the full set with high fidelity. The "cosmic legal personhood" universal-articulation block is preserved verbatim in the ledger.
+**Source files / LIØNSBERG Patterns / FSC-Bootstrap Residue:** Ledger captures the full set with high fidelity. The "cosmic legal personhood" universal-articulation block is preserved verbatim in the ledger.
 
-**Universal-articulation block preservation:** The ledger preserves the climactic "A body becomes capable of acting as ONE when…" universal-articulation paragraph verbatim (ledger line 2487). MATCH.
+**Universal-articulation block preservation:** The ledger preserves the climactic "A body becomes capable of acting as ØNE when…" universal-articulation paragraph verbatim (ledger line 2487). MATCH.
 
 ---
 
@@ -60,7 +60,7 @@ Memos extracted to [[SOE-{1,2,3,4}]].
 
 **Refinements:** 14 transcript / 14 ledger. MATCH.
 
-**LIONSBERG Patterns per Layer (IV / V / VI / VII):** Ledger captures all four lists with full fidelity. MATCH.
+**LIØNSBERG Patterns per Layer (IV / V / VI / VII):** Ledger captures all four lists with full fidelity. MATCH.
 
 **FSC-bootstrap residue:** Ledger preserves the full residue list verbatim. MATCH.
 
@@ -96,7 +96,7 @@ All 17 Cards present verbatim with matching folds and essences. Cards confirmed:
 
 **Refinements:** 7 transcript / 7 ledger. MATCH.
 
-**Per-chapter LIONSBERG Patterns (Ch 0–6):** Ledger preserves all chapter lists with full fidelity.
+**Per-chapter LIØNSBERG Patterns (Ch 0–6):** Ledger preserves all chapter lists with full fidelity.
 
 **"How This Guidebook Becomes [[The LIØNSBERG Playbook]]" synthesis:** Ledger preserves the three-bucket fold guidance (Folds as-is / Need substantial restructuring / Missing from Guidebook). MATCH.
 
@@ -152,7 +152,7 @@ All 15 transcript Cards present in ledger with matching folds and essences.
 
 4. **Confirm whether "Steward Term Limits (7 Years, Renewable Once)"** and the SOE-2 refinement Card **"Seven-Year Steward Terms, Staggered, Renewable Once"** should remain as two parallel entries or be merged.
 
-5. **Phase 2.3 ledger is otherwise highly accurate.** SOE-3 and SOE-4 are 100% complete. SOE-1 and SOE-2 have a small number of additions/clarifications needed but no foundational omissions. The universal-articulation blocks (cosmic legal personhood; Pattern is Genus / FSC is Species) are preserved verbatim. The FSC-bootstrap residue lists are preserved. The LIONSBERG-Pattern-requirement lists per Layer are preserved. **No material loss of audit signal.**
+5. **Phase 2.3 ledger is otherwise highly accurate.** SOE-3 and SOE-4 are 100% complete. SOE-1 and SOE-2 have a small number of additions/clarifications needed but no foundational omissions. The universal-articulation blocks (cosmic legal personhood; Pattern is Genus / FSC is Species) are preserved verbatim. The FSC-bootstrap residue lists are preserved. The LIØNSBERG-Pattern-requirement lists per Layer are preserved. **No material loss of audit signal.**
 
 ---
 

@@ -1,4 +1,4 @@
-# Editing The Book of LIONSBERG — Project Plan
+# Editing The Book of LIØNSBERG — Project Plan
 
 _A proposal for lifting a 186,000-word prophetic work to the full height of its intention._
 
@@ -6,7 +6,7 @@ _A proposal for lifting a 186,000-word prophetic work to the full height of its 
 
 ## I. Synopsis — What This Text Is
 
-**The Book of LIONSBERG** is a 186,049-word prophetic-pedagogical spiral — 491 files across 14 chapters (plus an empty Chapter X) — pieced together over several years of sustained visionary output.
+**The Book of LIØNSBERG** is a 186,049-word prophetic-pedagogical spiral — 491 files across 14 chapters (plus an empty Chapter X) — pieced together over several years of sustained visionary output.
 
 It attempts what very few texts in human history have attempted: to hold **sacred scripture, philosophical treatise, civilizational systems design, allegorical narrative, and revolutionary manifesto** in one breath.
 
@@ -22,7 +22,7 @@ Its deepest aspiration is to be a new **Bhagavad Gita** — a text spoken from t
 
 The text operates in **three distinct modes**:
 
-1. **Prophetic/Mythic** — Speaking from ONE, through the voice of Spirit. This is where the text reaches its heights. The Caves. The Song of Creation. The invocations.
+1. **Prophetic/Mythic** — Speaking from ØNE, through the voice of Spirit. This is where the text reaches its heights. The Caves. The Song of Creation. The invocations.
 2. **Narrative/Allegorical** — The journey of awakening souls through darkness toward light. The Dark Tale and Light Tale. The Hero's confession. The practical ending.
 3. **Didactic/Systems** — The teaching voice that explains governance, sovereignty, production, coordination. This is where the text most often loses its prophetic power.
 
@@ -37,13 +37,13 @@ The book follows a **graduated spiral**, building from individual awakening thro
 | 0 | Introduction | 8 | 2,144 | Framing |
 | 1 | Genesis | 36 | 20,948 | **The Seed** — contains the whole book. The Caves narrative. Literary peak. |
 | 2 | The Quest to Perceive | 10 | 3,904 | Perception beyond the Boundary |
-| 3 | The Meta Quest | 26 | 5,853 | The overarching quest toward ONE |
+| 3 | The Meta Quest | 26 | 5,853 | The overarching quest toward ØNE |
 | 4 | The Quest to Navigate | 34 | 8,973 | Orientation, engagement, learning cycles |
 | 5 | The Quest For Purpose and Meaning | 23 | 7,573 | True self, becoming, higher purpose |
-| 6 | The Quest of the Creative One | 28 | 16,296 | **Theological center.** God/ONE. Song of Creation. Most dangerous chapter (dismantles institutional religion while affirming Spirit). |
+| 6 | The Quest of the Creative One | 28 | 16,296 | **Theological center.** God/ØNE. Song of Creation. Most dangerous chapter (dismantles institutional religion while affirming Spirit). |
 | 7 | The Quest of the Living System | 36 | 9,381 | Ontological ascent through physical structure. Middle sections thin to stubs. |
 | 8 | The Quest of Humanity | 75 | 25,290 | Panoramic history survey. Longest by file count (with Ch.11). |
-| 9 | The Quest for Sovereignty | 53 | 14,990 | **Philosophical core.** Progressive abstraction of law to ONE. |
+| 9 | The Quest for Sovereignty | 53 | 14,990 | **Philosophical core.** Progressive abstraction of law to ØNE. |
 | 10 | The Quest for Unity | 41 | 11,554 | Bridge between sovereignty and action |
 | 11 | The Meta Quest. The Meta Project. The Meta Game. The Meta Goal. | 85 | 30,943 | **Architectural center.** Dark/Light Tales. Operational vision. Largest chapter. |
 | 12 | The Anti-Quest | 20 | 6,423 | Descent into evil. The counterforce. |
@@ -58,7 +58,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 - **The Dark Tale and Light Tale (11.1-11.2)** — Two parallel futures told side by side. The most effective literary device in the book.
 - **The Confession passages (13.19-13.20)** — The heroic voice cracks open. Shame, failure, inadequacy confessed. The emotional climax.
 - **The practical ending (14.2)** — After 186,000 words of cosmic vision: _pick up trash, pull weeds, help your neighbor._ Landing through humility.
-- **The progressive abstraction of law to ONE (9.8)** — The intellectual spine. Thousands of rules → hundreds of principles → ONE.
+- **The progressive abstraction of law to ØNE (9.8)** — The intellectual spine. Thousands of rules → hundreds of principles → ØNE.
 
 ### What Falls Below
 
@@ -67,7 +67,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 - **Wiki-link density** — `[[brackets]]` every few words in prophetic passages, breaking the spell
 - **Placeholder/stub sections** — Especially in Chapters 7 (7.20-7.40 range), 8 (8.55-8.56), 9 (9.23), and Chapter 14 (entire chapter)
 - **Chapter 14 underdeveloped** — Only 4 sections for what should be the culminating embodied wisdom
-- **Chapter 11 operational sections (11.54-11.67)** — Project management frameworks that belong in The LIONSBERG Playbook
+- **Chapter 11 operational sections (11.54-11.67)** — Project management frameworks that belong in The LIØNSBERG Playbook
 - **Repetition** — Spiral returns without sufficient deepening. Same words, same phrasing, chapter after chapter
 
 ---
@@ -81,7 +81,7 @@ The book follows a **graduated spiral**, building from individual awakening thro
 **The Work**: Identify every passage where the register breaks, and either:  
 - Separate the modes (let prophetic be prophetic, systematic be systematic)
 - Smooth the transition so the shift feels intentional rather than accidental
-- Move operational/technical material to its proper home (The LIONSBERG Playbook)
+- Move operational/technical material to its proper home (The LIØNSBERG Playbook)
 
 **Scope**: Affects primarily Chapters 3, 4, 7, 10, 11
 
@@ -151,7 +151,7 @@ The seven dimensions are not independent — they interact. The wisest sequence 
 _Do the work that changes what exists before polishing what exists._
 
 **Step 1.1 — Identify and relocate operational material from Chapter 11**  
-Move sections 11.54-11.67 (project management frameworks) to The LIONSBERG Playbook or mark them for transformation into prophetic register. This is the clearest register violation and the easiest to resolve.
+Move sections 11.54-11.67 (project management frameworks) to The LIØNSBERG Playbook or mark them for transformation into prophetic register. This is the clearest register violation and the easiest to resolve.
 
 **Step 1.2 — Complete or consolidate stub sections**  
 Systematically work through Chapters 7, 8, 9, and any others with placeholder content. For each stub: complete, merge, or remove.
@@ -233,7 +233,7 @@ Before beginning work, several decisions will shape the entire project:
 
 1. **Chapter 14 — What does the culminating wisdom chapter contain?** This is the most significant creative decision. Should it be intimate/personal (how to live the Way daily)? Practical/communal (how to organize)? Or something else entirely?
 
-2. **Chapter 11 operational sections — Relocate or transform?** Should sections 11.54-11.67 be moved to The LIONSBERG Playbook? Or rewritten in prophetic register to stay in the book?
+2. **Chapter 11 operational sections — Relocate or transform?** Should sections 11.54-11.67 be moved to The LIØNSBERG Playbook? Or rewritten in prophetic register to stay in the book?
 
 3. **"Meta" prefix — How aggressively to reduce?** A light touch (reduce by 30-40%) or a deep cut (reduce by 70-80%, keeping only the most essential uses)?
 
@@ -273,7 +273,7 @@ _The seed is alive. The tree is magnificent. It needs pruning — not to make it
 
 ### Phase 1: Structural Decisions
 
-- [x] Integrate The Great Game of LIONSBERG
+- [x] Integrate The Great Game of LIØNSBERG
 - [x] Integrate The Playbook
 - [x] Integrate the Project Delivery Guide
 - [ ] Make a total pass through all files for typos, grammar, major mistakes... 

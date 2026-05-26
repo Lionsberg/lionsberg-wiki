@@ -32,12 +32,12 @@ Every Pattern lives in **one** canonical place; every Play arranges them.
 
 ```
 Pattern Language (Vol V Part) — Architecturally Primary
-   Patterns live at: LIONSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/
+   Patterns live at: LIØNSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/
    Each Pattern Card: name-based filename — Form A Circle.md, Spirit Precedes Pattern.md
    Wisdom articulated ONCE per Pattern Card
 
 Playbook (Vol IV) — The Field Music-Book
-   Plays live at: LIONSBERG Wiki Books/The Lionsberg Playbook/Plays/
+   Plays live at: LIØNSBERG Wiki Books/The Lionsberg Playbook/Plays/
    Each Play: "Play — Title.md" filename — Play — Create Or Join A Circle.md, Play — Run A Meeting.md
    Play composes Patterns for a specific operational need
 ```
@@ -134,7 +134,7 @@ _Each body-convening Play orchestrates a single operational moment — but invok
 | [[Play — Integrate And Submit Your Work]] | • [[Integrating And Submitting Your Work]]<br>• [[Knowledge Commons Contribution]]<br>• [[Continuous Learning]] |
 | [[Play — Share A Story Of Transformation]] | • [[Sharing Your Story]]<br>• [[Testimony As Vehicle Of Culture]]<br>• [[Sacred Reciprocity]]<br>• [[Truth-Telling With Love]] |
 | [[Play — Hold Seasonal OmniSpection]] | • [[Seasonal OmniSpection]]<br>• [[OmniSpection]]<br>• [[Continuously Improve Everything]]<br>• [[Rest and Regeneration]]<br>• [[The LIØNSBERG Calendar]] |
-| [[Play — Continuously Improve Everything]] | • [[Continuously Improve Everything]]<br>• [[OmniSpection]]<br>• [[Every Defect Is A Gift]]<br>• [[Truth To ONE, Errors To Us]] |
+| [[Play — Continuously Improve Everything]] | • [[Continuously Improve Everything]]<br>• [[OmniSpection]]<br>• [[Every Defect Is A Gift]]<br>• [[Truth To ØNE, Errors To Us]] |
 | [[Play — Pass The Flame]] | • [[Pass The Flame]]<br>• [[Fibonacci Spread]]<br>• [[Self-Replication]]<br>• [[Sacred Reciprocity]]<br>• [[Receive The Seed]] |
 
 ### Federation — Weaving Bodies Together

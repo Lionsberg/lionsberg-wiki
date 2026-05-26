@@ -41,7 +41,7 @@ _What the reader meets in the Golden Seed opening — the names that orient the 
 | Page | Role | State | Disposition |
 |---|---|---|---|
 | **[[ØNE]]** | The Source / Ultimate Reality. Layer Ø in the emerging 9-layer model. | Strong Card. "Do Not Concretize the Absolute." | **KEEP** |
-| **[[All]]** | The cosmic All / ONE Body. | Card. | **KEEP** (verify state) |
+| **[[All]]** | The cosmic All / ØNE Body. | Card. | **KEEP** (verify state) |
 | **[[Heaven On Earth]]** | The Goal. Heaven for All. | Concept. | **KEEP** (verify state) |
 | **[[The First Three Percent]]** | ~250M awakened souls; the strategic frame. | Concept page. | **KEEP** |
 | **[[The 300]]** | ~300 per community of 10,000. Local anchors. | Card. | **KEEP** |
@@ -78,7 +78,7 @@ _The 12 Elements + foundational concept Cards. All HOLD pending Phase 4 Pattern 
 |---|---|---|---|
 | **[[Central Animating Spirit]]** | The Spirit that animates the body. | Card. | **KEEP** (verify state) |
 | **[[Love]]** | Absolute, unconditional, universal Love. | Concept. | **KEEP** (verify state) |
-| **[[LIØNSBERG 101]]** | The concentric-rings deepening of the Pattern (Ring 0 ONE → Ring 5 The Game). | **Strong companion work** in the Living Library. Self-aware as one of LIØNSBERG's offerings. | **KEEP** |
+| **[[LIØNSBERG 101]]** | The concentric-rings deepening of the Pattern (Ring 0 ØNE → Ring 5 The Game). | **Strong companion work** in the Living Library. Self-aware as one of LIØNSBERG's offerings. | **KEEP** |
 
 ---
 
@@ -149,7 +149,7 @@ _The disciplined posture that holds the Prototype humble. Some authored this ses
 | Page | Role | Authored | Disposition |
 |---|---|---|---|
 | **[[LIØNSBERG Is A Prototype, Not The Eternal Essence]]** | Prototype-not-essence ontological posture | 2026-05-22 (this session) | **KEEP** |
-| **[[Truth To ONE, Errors To Us]]** | Disciplined attribution posture | 2026-05-22 (this session) | **KEEP** |
+| **[[Truth To ØNE, Errors To Us]]** | Disciplined attribution posture | 2026-05-22 (this session) | **KEEP** |
 | **[[Every Defect Is A Gift]]** | The refinement ethos. "Like Gold refined seven times." | 2026-05-22 (this session) | **KEEP** |
 | **[[The Pattern Governs, Not People]]** | LIØNSBERG is not a religion of personality | Existing | **KEEP** |
 | **[[Spirit Precedes Pattern]]** | If the Spirit is right, the Pattern emerges | Existing | **KEEP** |
@@ -221,9 +221,9 @@ Once this map is reviewed and the dispositions agreed, the design work for **Wel
 
 - **How long does the mythic frame carry?** The README sets up the Jumanji-drop-in beautifully. Should Welcome stay in mythic register for the full first section, only pivoting to operational language after the reader is fully "inside the World"?
 - **What does the new Pattern section say?** Currently 12 Elements with empirical-confidence claims. Could be reframed as "the current canonical articulation of the Pattern LIØNSBERG offers — one of many faithful articulations of the underlying Reality." Less authoritative, more invitational.
-- **Where do the new disciplines surface?** Truth-to-ONE / Errors-to-Us, Every Defect Is A Gift, a-Prototype-not-THE-Prototype — could weave through, or be concentrated in a "Disciplines of the Way" subsection.
+- **Where do the new disciplines surface?** Truth-to-ØNE / Errors-to-Us, Every Defect Is A Gift, a-Prototype-not-THE-Prototype — could weave through, or be concentrated in a "Disciplines of the Way" subsection.
 - **What's the relationship between Welcome and The Sovereign Path map?** Currently Welcome doesn't link to The Sovereign Path. Should it? The Sovereign Path is the meta-map; Welcome is the entry experience. They serve different functions but the connection could be drawn.
-- **What about Layer Ø / ONE articulation?** The 9-layer model from Superorganism-Earth isn't yet imported. Should Welcome introduce Layer Ø explicitly when the model lands? Or stay implicit?
+- **What about Layer Ø / ØNE articulation?** The 9-layer model from Superorganism-Earth isn't yet imported. Should Welcome introduce Layer Ø explicitly when the model lands? Or stay implicit?
 - **How does Welcome echo the Welcome-Home close?** The README's "Welcome Home" is one of the most powerful moments in the canon. Could Welcome close with its own homecoming echo, completing the arc?
 - **What does the reader feel at each moment?** Designing for felt experience — not just structural correctness.
 
@@ -257,7 +257,7 @@ Areas to catalog:
 - Way / Self-Sustenance / Practice
 - Economy / Capital / Commons
 - Governance / Decision Making
-- Cosmic / Layer Ø / ONE Body
+- Cosmic / Layer Ø / ØNE Body
 - Cross-cutting (Cards, Theses, etc.)
 
 ---

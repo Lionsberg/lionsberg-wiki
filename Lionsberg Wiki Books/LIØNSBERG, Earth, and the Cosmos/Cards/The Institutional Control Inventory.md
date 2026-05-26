@@ -21,7 +21,7 @@ The Twelve Domains of Capture:
 - **Governance** — election theater operating above an unelected permanent apparatus. Intelligence agencies, regulatory bodies, the trans-national NGO network. The captured branch of every visible government, beyond constitutional reach.
 - **Finance** — central banking. Compound interest as alchemical extraction. Asset price inflation transferring wealth from labor to capital across decades. The financial-priesthood class that creates and destroys money for its own purposes.
 - **Currency** — debt-based fiat at scale, programmable currency emerging now. CBDCs designed to make spending itself the lever of control. The Old World's final monetary instrument before the Final Order.
-- **Religion** — the captured religious institutions of every tradition. Sin invented and sold. Salvation withheld and rationed. The intermediary priesthood that severed the Sovereign's direct relationship with the ONE.
+- **Religion** — the captured religious institutions of every tradition. Sin invented and sold. Salvation withheld and rationed. The intermediary priesthood that severed the Sovereign's direct relationship with the ØNE.
 - **Assembly** — restrictions on physical gathering. Permits required to meet. Surveillance of who associates with whom. The systematic prevention of the Circles, Hubs, and gatherings the New Civilization requires.
 - **Education** — mass schooling as domestication. Curricula crafted to produce compliant workers, dependent consumers, unquestioning subjects. The accreditation cartels that exclude the unaligned from teaching.
 - **Health** — the pharma-medical complex weaponized. Iatrogenic harm at scale. Withholding of healing modalities. Pathologization of the awakened. The captured priesthood of body-and-mind.
@@ -46,11 +46,11 @@ The Inventory pairs with **structural responses**. For each captured Domain, the
 - Captured Speech → encrypted networks, trusted-circle conversation, [[The Whisper Campaign]]
 - Captured Culture → [[Sacred Culture, Art, and Story|sacred culture and storytelling]]
 - Captured Commerce → bioregional markets, mutual credit, contribution accounting
-- Captured Currency → [[LUV — LIONSBERG Units of Value]], asset-backed Sacred Value
+- Captured Currency → [[LUV — LIØNSBERG Units of Value]], asset-backed Sacred Value
 - Captured Governance → [[Subsidiarity and the Swiss Pattern]], [[Federations vs Empires]], the [[The Planetary Grid]]
 - Captured Education → [[The Lionsberg Academy]], [[The Pedagogy of Trust and Sirimiri]]
 - Captured Health → the Healer Codex, somatic healing, [[Trauma as Master Key of Slavery|trauma-aware practice]]
-- Captured Religion → direct relationship with the ONE, [[The Whisper Within|the inner sanctuary]]
+- Captured Religion → direct relationship with the ØNE, [[The Whisper Within|the inner sanctuary]]
 - Captured Assembly → the Circle, the Hub, the bioregional gathering
 - Captured Speech-Culture-Commerce-Trade-Finance-Currency-Governance-Education-Health-Religion-Assembly → the **entire Pattern of the New Civilization** as the comprehensive answer
 - Weaponized Fear → the practices of [[A Way Beyond Fear, Anxiety, and Depression|the Healer Codex]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|the Wise Elder posture]], the [[The Lionsberg Cycles of Growth|disciplined cultivation of courage]]

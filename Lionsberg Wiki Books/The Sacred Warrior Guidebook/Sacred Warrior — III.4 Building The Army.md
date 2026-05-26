@@ -29,7 +29,7 @@ The twelve thousand Warriors are not one big organization. They are:
 - **Coordinated by a planetary Warrior Wisdom Council** of representative Elders from across the bioregional bodies
 - **Connected to the cosmic Warrior lineage** through the channels of [[Sacred Warrior — II.6 The Cosmic Grid And Lineage|Chapter II.6]]
 
-The twelve thousand Warriors are not the entire LIØNSBERG Body — they are one Guild of twelve, federated with the other eleven Guilds across all twelve [[The 12 Pillars of LIONSBERG|Pillars]], composing the integrated planetary [[ØNE Body|Body]] this hour requires.
+The twelve thousand Warriors are not the entire LIØNSBERG Body — they are one Guild of twelve, federated with the other eleven Guilds across all twelve [[The 12 Pillars of LIØNSBERG|Pillars]], composing the integrated planetary [[ØNE Body|Body]] this hour requires.
 
 ---
 

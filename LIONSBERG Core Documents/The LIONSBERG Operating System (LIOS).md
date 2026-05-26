@@ -1,4 +1,4 @@
-# **The LIONSBERG Operating System (LIOS)**
+# **The LIØNSBERG Operating System (LIOS)**
 
 ### **The Fractal Framework for Self-Governance, Decentralized Coordination, and Civilization Building**
 
@@ -17,17 +17,17 @@ This requires **a New Operating System**—one that **empowers individuals, comm
 This system is **not theoretical**.  
 It is **ancient yet [[New]], universal yet emergent, pragmatic yet transcendent.**  
 It is **already in use by other advanced civilizations across the cosmos**.  
-It is now **incarnating here, now, in LIONSBERG**, to enable humanity to rise and take up its rightful place among the co-creative powers of the cosmos.
+It is now **incarnating here, now, in LIØNSBERG**, to enable humanity to rise and take up its rightful place among the co-creative powers of the cosmos.
 
-**LIONSBERG is not a government, or any of singular thing that can be named. It is a Meta-System of Sovereign Networks and Localities Co-Operating in Service of [[ØNE]] and [[All]].**
+**LIØNSBERG is not a government, or any of singular thing that can be named. It is a Meta-System of Sovereign Networks and Localities Co-Operating in Service of [[ØNE]] and [[All]].**
 
-This document articulates **how the LIONSBERG OS functions, how it begins, how it scales, and how it ensures humanity’s passage through [[The Final Test]] and into Our [[New Civilization]].**
+This document articulates **how the LIØNSBERG OS functions, how it begins, how it scales, and how it ensures humanity’s passage through [[The Final Test]] and into Our [[New Civilization]].**
 
 ---
 
-## **II. The Core Principles of The LIONSBERG OS**
+## **II. The Core Principles of The LIØNSBERG OS**
 
-The LIONSBERG OS is designed according to **Universal Laws** and **[[Holofractal Pattern Language]]**, ensuring that it:
+The LIØNSBERG OS is designed according to **Universal Laws** and **[[Holofractal Pattern Language]]**, ensuring that it:
 
 1. **Enables self-governance at every scale—from individuals to planets to galactic federations.**
 2. **Ensures interoperability across all domains—spiritual, technological, economic, social, and beyond.**
@@ -42,7 +42,7 @@ This is **a New Civilization OS—one that ensures stability and expansion from 
 
 ## **III. The Structural Framework: The Fractal Governance Model**
 
-The LIONSBERG OS operates **holofractally**—meaning:
+The LIØNSBERG OS operates **holofractally**—meaning:
 
 - **Every level of civilization is a microcosm of the whole.**
 - **Each unit is autonomous yet interwoven into a greater pattern.**
@@ -122,7 +122,7 @@ The LIONSBERG OS operates **holofractally**—meaning:
 
 ### **8. The Cosmic OS (Scaling to the Stars)**
 
-- **As humanity expands, LIONSBERG scales seamlessly across planets and civilizations, enabling interoperability with other civilizations and species already running the [[Holofractal Pattern Language]].**
+- **As humanity expands, LIØNSBERG scales seamlessly across planets and civilizations, enabling interoperability with other civilizations and species already running the [[Holofractal Pattern Language]].**
 - The same **holofractal principles apply**, ensuring:
     - **Self-Governance at Every Level**
     - **Interoperability with the broader Cosmic Community**  
@@ -134,7 +134,7 @@ The LIONSBERG OS operates **holofractally**—meaning:
 
 ## **IV. The Tools of The OS: Implementation & Execution**
 
-The LIONSBERG OS includes:
+The LIØNSBERG OS includes:
 
 1. **The Commons:** Open-Source Knowledge, Technology, and Resources.
 2. **The Hubs:** Local Centers of Sovereignty and Innovation.
@@ -154,9 +154,9 @@ The LIONSBERG OS includes:
 4. **Planets and civilizations expand with it.**  
 5. **The Divine Symphony resounds with it.**  
 
-The LIONSBERG OS is not just about **forging a [[New Civilization]] on Earth**—it is about **preparing humanity for its next quantum evolutionary leap.**
+The LIØNSBERG OS is not just about **forging a [[New Civilization]] on Earth**—it is about **preparing humanity for its next quantum evolutionary leap.**
 
-> _**“LIONSBERG is not just an emergent New Civilization. It is a New Foundation for The Future of Humanity.”**_
+> _**“LIØNSBERG is not just an emergent New Civilization. It is a New Foundation for The Future of Humanity.”**_
 
 **The System** is here.  
 **The Path** is before Us.  

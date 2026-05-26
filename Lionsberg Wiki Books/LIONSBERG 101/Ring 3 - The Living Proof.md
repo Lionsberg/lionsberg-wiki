@@ -168,7 +168,7 @@ Where Mondragon proves the **structural pattern** (cooperative governance, feder
 
 The PDG's architecture maps directly to [[The Core Pattern]]:
 
-| PDG Concept | LIONSBERG Element |
+| PDG Concept | LIØNSBERG Element |
 |---|---|
 | The Receivership (system in crisis) | [[The Meta Crisis]] — Earth under receivership |
 | The Prototype / Kit of Parts | [[The Core Pattern]] / [[The Prototype]] |
@@ -184,9 +184,9 @@ The PDG's architecture maps directly to [[The Core Pattern]]:
 
 ### The Teaching
 
-The PDG is not a new document. It is a **core piece** that informed the localization and adaptation of LIONSBERG — whose patterns are already operating coherent civilizations across the cosmos — to Earth.
+The PDG is not a new document. It is a **core piece** that informed the localization and adaptation of LIØNSBERG — whose patterns are already operating coherent civilizations across the cosmos — to Earth.
 
-The principles in the PDG are not specific to prisons, or construction, or even to Earth. They are **universal patterns of how intelligent beings organize to co-create complex systems in service of a shared Goal.** Eliyahu Goldratt, Taiichi Ohno, Glenn Ballard, Greg Howell, and the Agile movement — all discovered fragments of the same universal pattern of co-creation. The PDG integrated these fragments into a proven system. LIONSBERG integrates them into a living architecture for civilization itself.
+The principles in the PDG are not specific to prisons, or construction, or even to Earth. They are **universal patterns of how intelligent beings organize to co-create complex systems in service of a shared Goal.** Eliyahu Goldratt, Taiichi Ohno, Glenn Ballard, Greg Howell, and the Agile movement — all discovered fragments of the same universal pattern of co-creation. The PDG integrated these fragments into a proven system. LIØNSBERG integrates them into a living architecture for civilization itself.
 
 The four operational elements — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — complete the pattern. The first eight elements tell you how to organize. The final four tell you how to build.
 
@@ -282,9 +282,9 @@ It has been discovered independently by:
 
 Each of them found fragments of the same thing.
 
-**LIONSBERG is the comprehensive articulation of this universal Pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of co-creation (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ØNE]] and [[All]].
+**LIØNSBERG is the comprehensive articulation of this universal Pattern** — integrating the structural DNA of cooperation (Elements 1-8) with the operational DNA of co-creation (Elements 9-12). Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the Story of [[ØNE]] and [[All]].
 
-These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same living architecture that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIONSBERG is the localization of this cosmic-grade operating system to Earth.
+These are not human inventions. They are **universal principles, protocols, patterns, and plays** — the same living architecture that already enables coherent civilizations across the cosmos to self-organize, self-govern, and federate. LIØNSBERG is the localization of this cosmic-grade operating system to Earth.
 
 The DNA works.  
 The Seed is ready.  

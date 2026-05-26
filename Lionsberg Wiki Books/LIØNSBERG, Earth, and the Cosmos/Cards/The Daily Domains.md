@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, daily-practice, rhythm]
-source: Phase 2.1 audit of LIONSBERG 101 (Ring 5)
+source: Phase 2.1 audit of LIØNSBERG 101 (Ring 5)
 captured: 2026-05-18
 ---
 

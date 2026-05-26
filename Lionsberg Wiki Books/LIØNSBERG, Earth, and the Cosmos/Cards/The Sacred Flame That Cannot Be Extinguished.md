@@ -12,7 +12,7 @@ The eternal Spark of [[ØNE]] within every being.
 
 No matter how dense the Veil, no matter how heavy the trauma, no matter how successful the Old World's machinery of forgetting, no matter how many lifetimes the Caves have held a being — **the Sacred Flame within them cannot be put out.**
 
-This is not optimism. It is ontological. The Flame is the localization of the ONE itself in that being. To extinguish the Flame would be to undo the act by which the Cosmos came into existence — which the Cosmos cannot do, because the act is upstream of the Cosmos.
+This is not optimism. It is ontological. The Flame is the localization of the ØNE itself in that being. To extinguish the Flame would be to undo the act by which the Cosmos came into existence — which the Cosmos cannot do, because the act is upstream of the Cosmos.
 
 The Flame **can be**:
 
@@ -25,7 +25,7 @@ The Flame **cannot be**:
 
 - Destroyed
 - Replaced by anything else
-- Owned by anyone other than the ONE who placed it there
+- Owned by anyone other than the ØNE who placed it there
 - Faked or counterfeited by Anti-Goodness, however convincingly
 
 This is the structural guarantee of the Turn. Every being on Earth carries the Flame. Every being can, in the right conditions, **ReMember** the Flame and have it ignite their own awareness. The work of the Movement is to **make those conditions available** — through Circles, through teaching, through healing, through the patient Whisper Campaign that names what is already true.

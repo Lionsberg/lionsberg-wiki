@@ -1,3 +1,3 @@
 # Core Values
 
-See [[The LIONSBERG System of Values]]. 
+See [[The LIØNSBERG System of Values]]. 

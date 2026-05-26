@@ -18,11 +18,11 @@ Sacred Value asks:
 - Did this strengthen Right Relationship?
 - Did this regenerate, or did it extract?
 - Did this rise toward Heaven, or did it sink toward Anti-Good?
-- Will this still be valued in a thousand years, across other civilizations, in front of the ONE?
+- Will this still be valued in a thousand years, across other civilizations, in front of the ØNE?
 
 A loaf of bread shared with the hungry has high Sacred Value. A derivative trade that extracts value from real labor has negative Sacred Value, regardless of its price.
 
-Sacred Value is **not arbitrary** — it can be discerned, debated, refined through OmniSpection, encoded into the [[LUV — LIONSBERG Units of Value|LUV]] system as **proof-of-contribution**. It is what LUV measures.
+Sacred Value is **not arbitrary** — it can be discerned, debated, refined through OmniSpection, encoded into the [[LUV — LIØNSBERG Units of Value|LUV]] system as **proof-of-contribution**. It is what LUV measures.
 
 Sacred Value is also **not infinite-in-every-direction** — some acts genuinely create more, some destroy. The economy of the New Civilization rewards creation and refuses to compensate destruction. This is the foundational shift from extraction economies to regenerative economies.
 

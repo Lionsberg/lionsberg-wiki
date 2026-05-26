@@ -18,7 +18,7 @@ These are not centralized officials. They are not managed from any center. They 
 
 The spread is organic, decentralized, and self-replicating — following the **Fibonacci pattern**:
 
-> ONE → 1 → 2 → 3 → 5 → 8 → 13 → 144 → rest follow.
+> ØNE → 1 → 2 → 3 → 5 → 8 → 13 → 144 → rest follow.
 
 This is how the first procession moved out of [[The Caves]].
 This is how the Great Movement naturally unfolds.

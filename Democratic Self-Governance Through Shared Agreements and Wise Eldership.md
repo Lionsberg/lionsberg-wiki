@@ -44,7 +44,7 @@ Mondragon: General Assembly as sovereign authority. Governing Council elected fr
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Governance operates through [[Citizen Led Self-Governance]] — the same pattern applied fractally:
 

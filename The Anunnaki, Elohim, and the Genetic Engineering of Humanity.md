@@ -65,7 +65,7 @@ This narrative isolates humanity as a biological and spiritual anomaly in a vast
 
 ### 4. **The Likely Truth**
 
-Humanity was not solely a product of random evolution, nor was it created in a singular divine act by the ONE in the image of the Infinite. Instead, the human genome was **intervened upon, engineered, and hybridized** by multiple factions of **extraterrestrial and interdimensional beings**—some benevolent, others malevolent—over many millennia before being localized to Earth.
+Humanity was not solely a product of random evolution, nor was it created in a singular divine act by the ØNE in the image of the Infinite. Instead, the human genome was **intervened upon, engineered, and hybridized** by multiple factions of **extraterrestrial and interdimensional beings**—some benevolent, others malevolent—over many millennia before being localized to Earth.
 
 - The **Anunnaki** were one such species — technologically advanced, hierarchically structured, and driven by resource extraction and genetic experimentation.
     

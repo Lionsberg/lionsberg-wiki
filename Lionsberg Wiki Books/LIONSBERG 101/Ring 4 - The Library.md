@@ -6,7 +6,7 @@ _The previous Rings gave you the DNA. This Ring gives you the forest — 2.5 mil
 
 ## How To Use The Library
 
-The LIONSBERG Wiki contains approximately **2.5 million words** of foundational literature, written and tested over seven years (2017-2024) across dozens of nations with hundreds of individuals and groups.
+The LIØNSBERG Wiki contains approximately **2.5 million words** of foundational literature, written and tested over seven years (2017-2024) across dozens of nations with hundreds of individuals and groups.
 
 You do not need to read all of it. You do not need to read most of it.
 
@@ -35,7 +35,7 @@ These books describe **How It Works** — the practical patterns, governance str
 
 - **[[The Great Game of LIØNSBERG]]** — The comprehensive game framework. Circles, Quests, the Fibonacci pattern, the rules of the Meta Game, progression through the Seven Gates.
 - **[[The LIØNSBERG Playbook]]** — Operational guidance for forming Circles, undertaking Quests, governing communities, and playing the Game.
-- **[[The Program Delivery Guide]]** — The core document informing LIONSBERG's production system and localization to Earth — drawing on Integrated Project Delivery, Lean Construction, the Toyota Production System, and decades of proven operational wisdom, distilled into the Prototype/Kit of Parts.
+- **[[The Program Delivery Guide]]** — The core document informing LIØNSBERG's production system and localization to Earth — drawing on Integrated Project Delivery, Lean Construction, the Toyota Production System, and decades of proven operational wisdom, distilled into the Prototype/Kit of Parts.
 - **[[The Lionsberg Approach to Citizen Led Governance]]** — The full governance pattern language: Stewarding the Commons, Citizen Led Self-Governance, Voluntarily Organizing and Federating, Voluntary Tithing, Exchanging Units of Value.
 - **[[Organizations The Lionsberg Way]]** — How organizations are structured within the federation.
 
@@ -94,8 +94,8 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 ### Individual Voice
 
-- **[[LIONSBERG Wiki Blogs]]** — Individual journals and reflections from participants
-- **[[LIONSBERG Wiki Books]]** — The complete catalogue of 144+ books by various authors
+- **[[LIØNSBERG Wiki Blogs]]** — Individual journals and reflections from participants
+- **[[LIØNSBERG Wiki Books]]** — The complete catalogue of 144+ books by various authors
 
 ---
 

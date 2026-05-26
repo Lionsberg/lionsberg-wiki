@@ -1,3 +1,3 @@
 # Dangerous But Good
 
-See [[The Watchwords of LIONSBERG]] 
+See [[The Watchwords of LIØNSBERG]] 

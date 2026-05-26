@@ -16,13 +16,13 @@ The question that opened the Fracture: _"What if I were the source of my own lig
 
 The question is not in itself evil. It is the natural exploration of a sovereign Creature discovering its own capacity. But the Fracture occurred when **the question was answered with self-source instead of returning to [[ØNE]] as Source.**
 
-The Creature said, in effect: _"I am the source. I do not require the ONE."_
+The Creature said, in effect: _"I am the source. I do not require the ØNE."_
 
 From that single Fracture, layered consequences cascaded across the Cosmos:
 
 - The first dissociation from [[Divine Intention and Eternal Logos]] became possible
 - The first claim of independent ownership of light became possible
-- The first attempt to power Creation from a non-ONE source became possible
+- The first attempt to power Creation from a non-ØNE source became possible
 - The first organized rebellion against the Way became possible
 - The first inversion — Anti-Goodness, Anti-Logos, Anti-Pattern — became possible
 

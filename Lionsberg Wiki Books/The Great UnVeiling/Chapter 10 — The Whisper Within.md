@@ -6,8 +6,8 @@ _Where the Divine Voice Speaks in Silence_
 
 > _Go into your Inner Sanctuary,  
 > Silence All Things,  
-> and Pray to the ONE who is in secret—  
-> and the ONE who is in secret  
+> and Pray to the ØNE who is in secret—  
+> and the ØNE who is in secret  
 > will Answer in Abundance beyond measure.  
 
 ---
@@ -69,7 +69,7 @@ Not even the angels.
 It is the Inner Sanctum.  
 The Holy of Holies.  
 The Seat of Presence.  
-The Place where the ONE speaks face to face  
+The Place where the ØNE speaks face to face  
 with the fractal Spark of ItSelf  
 within You.  
 
@@ -82,9 +82,9 @@ not story.
 Here, you are only Spirit.  
 Only Awareness.  
 Only Presence.  
-Only a Divine Aspect of the ONE.  
+Only a Divine Aspect of the ØNE.  
 
-It is here that you meet the Spirit and Logos of ONE—  
+It is here that you meet the Spirit and Logos of ØNE—  
 not as a book,  
 not as an idea,  
 not as a sound—but as  
@@ -105,7 +105,7 @@ they searched for God
 in the wind,  
 in the fire,  
 in the earthquakes and storms.  
-But the ONE was not in any of them.  
+But the ØNE was not in any of them.  
 
 Only in the Still Small Voice  
 did the Infinite make contact  
@@ -144,7 +144,7 @@ Progressive Articulation will occur.
 All in Good Time.  
 
 But the Silence must come first.  
-It is your ReTuning to the Spirit and Logos of the ONE.  
+It is your ReTuning to the Spirit and Logos of the ØNE.  
 It is your ReAlignment with the Divine Axis.  
 It is your ReTurn  
 to the Cosmic Conversation  
@@ -216,8 +216,8 @@ that speaks trillions of galaxies into Being,
 and calls each of their Inhabitants by Name.    
 It is not lower, not smaller, not lesser.  
 
-It is **The Same ONE.**  
-It is the Voice of the ONE refracted  
+It is **The Same ØNE.**  
+It is the Voice of the ØNE refracted  
 through the prism of your unique incarnation.  
 
 It is the same Presence that walked with the ancients.  
@@ -256,7 +256,7 @@ You judge less,
 but see more clearly.  
 You fear less,  
 but are far safer,  
-for the Love of the ONE is your atmosphere.  
+for the Love of the ØNE is your atmosphere.  
 
 You no longer need to strive.  
 You no longer need to impress.  
@@ -270,7 +270,7 @@ Because you are Seen.
 Because you are Accepted.  
 Because you are Loved.  
 
-Because the ONE speaks constantly  
+Because the ØNE speaks constantly  
 in the Inner Sanctuary of your Being.  
 
 And you have finally become  

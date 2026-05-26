@@ -12,7 +12,7 @@ Not love as sentiment. Not love as emotion. Not love as preference.
 
 **Love as the fundamental creative force of the universe** — the force that draws all things toward unity, coherence, and mutual flourishing. The force that holds atoms together, that causes cells to cooperate into organisms, that draws beings into community, that calls civilizations toward justice.
 
-This is what [[Ring 0 - ONE]] points to — the ground upon which all steps are taken, the Source from which all foundations are laid.
+This is what [[Ring 0 - ØNE]] points to — the ground upon which all steps are taken, the Source from which all foundations are laid.
 
 ___
 
@@ -32,7 +32,7 @@ Every failed movement was a movement where the Spirit was displaced — by ego, 
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 The Central Animating Spirit is the unnamed center of everything — [[ØNE]].
 
@@ -40,9 +40,9 @@ Not owned by any religion. Not captured by any ideology. Not contained by any na
 
 Known by every name. Present in every tradition. Discoverable by every sincere seeker.
 
-From this [[ØNE]], the [[Twelve Irreducible Elements]] emanate. To this ONE, all things return. In this ONE, all things cohere.
+From this [[ØNE]], the [[Twelve Irreducible Elements]] emanate. To this ØNE, all things return. In this ØNE, all things cohere.
 
 ___
 
-_See [[Ring 0 - ONE]] in [[LIØNSBERG 101]]._  
+_See [[Ring 0 - ØNE]] in [[LIØNSBERG 101]]._  
 _See [[Spirit]] and [[Love]]._

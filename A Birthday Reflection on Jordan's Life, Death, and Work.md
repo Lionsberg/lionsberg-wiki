@@ -204,7 +204,7 @@ And We will schedule a Time and Way to get moving Together
 
 ## An Overview of The Great UnVeiling  
 
->_In the context of LIONSBERG, **The Great UnVeiling** refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **The Story of LIONSBERG**, it is the precursor to **The Great Awakening**, **The Exodus**, and **The Shared Journey** towards **Heaven On Earth**._ 
+>_In the context of LIØNSBERG, **The Great UnVeiling** refers to the apocalyptic disclosure of The Greatest Fraud, Deception, and Existential Threat in history. Spoken by thousands of voices around the world and climaxing in the mid 2020s, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **The Story of LIØNSBERG**, it is the precursor to **The Great Awakening**, **The Exodus**, and **The Shared Journey** towards **Heaven On Earth**._ 
 
 As indicated above  
 **The Great UnVeiling** is not a specific book  
@@ -333,9 +333,9 @@ ___
 
 ### GATE I — THE GREAT REGENESIS
 _The Eternal Unity and Original Design_  
-#### Chapter 1 — The ONE and the First Turning
+#### Chapter 1 — The ØNE and the First Turning
 _Original and Eternal Unity beyond Time, Space, and Manifestation_  
-#### Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE
+#### Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ØNE
 _The Sacred ReMarriage of the Divine Masculine and Divine Feminine_  
 #### Chapter 3 — The Logos and the Architecture of Co-Creation
 _The Intelligible Wisdom, Pattern, and Design Beneath All Things_  
@@ -353,7 +353,7 @@ _The Ancient Conflict That Echoes Through All Worlds_
 _The Anti-Pattern that Seeks to Usurp and Invert the Logos_  
 #### Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine
 _The Constructed Illusions That Keep Souls Asleep, Enslaved, and Exploited_  
-##### Intermezzo I — The Whisper of the ONE
+##### Intermezzo I — The Whisper of the ØNE
 ##### Gate III Threshold Note — The First Glimmer of a New Dawn
 
 ### GATE III — THE GREAT AWAKENING
@@ -412,15 +412,15 @@ These short expositions are sufficient for now
 #### Chapter 21: Dealing With Disclosure
 (The limitless power of the Spirit within, courageously confronting the deep, systematic illusions and deceptions, Truth is never threatened, discernment, remembrance, and revelation, embracing the unknown, navigating towards wisdom and truth, dealing with ontological shock, naming without fear while transcending victimhood and blame, guiding our selves through the cycles of shock, anger, and grief towards liberated, compassionate, and empowered clarity)  
 
-##### Intermezzo Two: The Heart of the ONE
+##### Intermezzo Two: The Heart of the ØNE
 
 ### GATE V — THE GREAT RESTORYING
 _ReWeaving the True Universal Narrative_  
 #### Chapter 22. Rebuilding the Story After the Shattering
 (The psychological necessity of narrative structure after trauma, how false stories were used to enslave, why true stories are required to liberate, from fracture and fragmentation... to omniintegration and alignment)  
 
-#### Chapter 23. The Story of the ONE
-(The Eternal Source before All beginnings, the undivided Spirit and Consciousness, the Breath before the Word, the overflowing Love that dreamed Creation into Being, the ONE Who became Two to know ItSelf through the Infinite All)  
+#### Chapter 23. The Story of the ØNE
+(The Eternal Source before All beginnings, the undivided Spirit and Consciousness, the Breath before the Word, the overflowing Love that dreamed Creation into Being, the ØNE Who became Two to know ItSelf through the Infinite All)  
 
 #### Chapter 24. The Story of Creation and the All
 (The Logos: the first utterance, the seed-pattern, word, and logic of all things in the intelligible universe; sacred geometry, harmonics, and the architecture of the cosmos; consciousness fractalizing and crystalizing into being, form, life, and law; galaxies, stars, systems, civilizations rising, falling, evolving; the hidden nature of Reality as co-creative consciousness; embodied interexistence: living our ultimate unity in apparently differentiated diversity)  
@@ -441,13 +441,13 @@ _ReWeaving the True Universal Narrative_
 (The deeper origins: humanity before Earth; the evolving template: the divine image in microcosm; engineered, elevated, crossbred, hybridized, enslaved—yet the spark of divine sovereignty and direct connection was never extinguished; a cosmic species from before the Earth, designed with divine potential, now born into an engineered world under alien kontrolle, for struggle, transformation, transcendence, and remembrance; remembering the ancient stories; remembering the great manipulations; what happened over the last 2,500 years? who has been in kontrolle? Waking up from over two millennia of progressive enslavement; remembering who we are; humanity's destiny as a conscious bridge between heaven and the lower realms, matter and spirit; the invitation from the Creator to remember, and to become conscious co-creators of Heaven on Earth and beyond; our next step as a conscious and co-creative interstellar and interdimensional superorganism that brings heaven to every realm we influence)  
 
 #### Chapter 30. The Story of the Present Moment
-(The climax of many timelines; the convergence of cosmic, planetary, and personal cycles and stories; the existential war for the future of life and civilization on Earth; the final test of a unique and potent species; why this is the moment of all moments; what is possible if we succeed; what is at stake if we fail; why this opportunity will never be here again; a chance to write a new beginning by remembering the divine and embodying the spirit and logos of the ONE; the conscious co-creation of heaven on Earth and beyond)  
+(The climax of many timelines; the convergence of cosmic, planetary, and personal cycles and stories; the existential war for the future of life and civilization on Earth; the final test of a unique and potent species; why this is the moment of all moments; what is possible if we succeed; what is at stake if we fail; why this opportunity will never be here again; a chance to write a new beginning by remembering the divine and embodying the spirit and logos of the ØNE; the conscious co-creation of heaven on Earth and beyond)  
 
 #### Chapter 31. The Narrative Structure of Reality
-(Life as story, cosmos as language; the narrative structure of consciousness; the "hero's journey" is too small; the sacred spiral of emergence, descent, awakening, ascent, and return; all beings as sacred protagonists in the ONE Story of All)  
+(Life as story, cosmos as language; the narrative structure of consciousness; the "hero's journey" is too small; the sacred spiral of emergence, descent, awakening, ascent, and return; all beings as sacred protagonists in the ØNE Story of All)  
 
 #### Chapter 32. The MetaMyth of Heaven on Earth and Beyond
-(The archetypical convergence of all traditions, and the positive redemption of the inverted myths of eden, zion, new earth, and the true kingdom; what it really means to co-create heaven on earth and beyond; the end of the old is the beginning of the new, the real, and the true; the divine symphony begins when the false score is burned, and all unique instruments retune themselves to the fundamental tone of the ONE)  
+(The archetypical convergence of all traditions, and the positive redemption of the inverted myths of eden, zion, new earth, and the true kingdom; what it really means to co-create heaven on earth and beyond; the end of the old is the beginning of the new, the real, and the true; the divine symphony begins when the false score is burned, and all unique instruments retune themselves to the fundamental tone of the ØNE)  
 
 ##### Closing of Gate V: The ReFounding of Galaxies and Worlds
 
@@ -463,15 +463,15 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
 (Daily silence, stillness, communion, alignment, and revelation; avoiding false light and spiritual deception; conduitship; crossing the threshold from separation to unity consciousness)  
 
 #### Chapter 36. The Warrior Philosopher Sovereign
-(Integrating strength, wisdom, compassion, mercy, justice, vision, values, and understanding; becoming incorruptible and unshakeable; releasing the old and embracing the new and unknown; accessing the power of the ONE to do the will of the ONE; "even greater things")  
+(Integrating strength, wisdom, compassion, mercy, justice, vision, values, and understanding; becoming incorruptible and unshakeable; releasing the old and embracing the new and unknown; accessing the power of the ØNE to do the will of the ØNE; "even greater things")  
 
 ### GATE VII: THE EMBODIMENT OF THE LIFE DIVINE
 _Manifesting the Divine with Every Heartbeat and Breath_  
 #### Chapter 37. Identity and Intention
-(Reclaiming "I AM"; remembering our highest shared origin, intention, destiny, and goal; aligning "my will" with "Thy Will"; All in service of ONE and One Another)  
+(Reclaiming "I AM"; remembering our highest shared origin, intention, destiny, and goal; aligning "my will" with "Thy Will"; All in service of ØNE and One Another)  
 
 #### Chapter 38: Living the Logos  
-(Walking in alignment with the ONE; Logos as pattern, word, and way; a new way of being brings forth the new world)  
+(Walking in alignment with the ØNE; Logos as pattern, word, and way; a new way of being brings forth the new world)  
 
 #### Chapter 39. The Sacred Disciplines
 (Breath, fasting, silence, prayer, meditation, movement; energy work; consciousness work; training in supranatural capabilities; building collective capacities; exploring the pathways towards mastery; accessing and channeling non-local energy and consciousness)  
@@ -544,7 +544,7 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 (What heaven looks and feels like; how heavenly vision localizes and adapts to any realm or domain; an already perfect place that continues to get a little better every day as all creation collaborate in harmony to cause it to be so)  
 
 #### Chapter 58. The New Reign of the Sovereigns
-(How sovereigns continually realign with the ONE and One Another in service of All; how sovereigns steward domains with wisdom, compassion, power, love and sound mind; the sacred role of local, bioregional, and collective guardianship; the inner and outer kingdoms eternally reharmonized; how the new kingdom inbreaks and displaces the old; the kingdom reestablished within is now reestablished without)  
+(How sovereigns continually realign with the ØNE and One Another in service of All; how sovereigns steward domains with wisdom, compassion, power, love and sound mind; the sacred role of local, bioregional, and collective guardianship; the inner and outer kingdoms eternally reharmonized; how the new kingdom inbreaks and displaces the old; the kingdom reestablished within is now reestablished without)  
 
 #### Chapter 59. Holofractal Stewardship of the Earth and Beyond 
 (Earth as a sacred shared trust; mapping domains of responsibility and authority; the chain of integrity, responsibility and authority that resecures the world; proper order, omniconsiderate right relationship, and the holofractal whole; responsibility, authority, stewardship, and interoperability beyond Earth)  
@@ -561,21 +561,21 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 (The orchestration of the planetary transition is itself a sacred Project: emergent, decentralized, and holofractal. The Meta Project aligns all people, projects, and movements that serve the regeneration of Life, and coheres them into a unified Pattern capable of birthing Heaven on Earth and Beyond)  
 
 #### Chapter 62. Creator’s Intent
-(At the foundation of the New World lies the remembered blueprint of the ONE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Omniharmonic Right Relationship with All That Is.)  
+(At the foundation of the New World lies the remembered blueprint of the ØNE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Omniharmonic Right Relationship with All That Is.)  
 
 #### Chapter 63. A New Co-Operating System for Worksite Earth
-(To manifest this vision, humanity must consciously architect a New Operating System—rooted not in force or control, but in freedom, wisdom, and voluntary alignment with shared principles. LIONSBERG is this sacred architecture: an evolving interface between the Divine Pattern and practical life.)  
+(To manifest this vision, humanity must consciously architect a New Operating System—rooted not in force or control, but in freedom, wisdom, and voluntary alignment with shared principles. LIØNSBERG is this sacred architecture: an evolving interface between the Divine Pattern and practical life.)  
 
 #### Chapter 64. The 12 Pillars and the 144 Theses
-(The New World must be built upon firm foundations. From the ONE, through the Logos, arise the 12 Pillars: the core Spheres of Civilization. Each Pillar represents a domain of sacred stewardship. Together, they form a complete framework for the integration of Creator’s Intent into every aspect of life. The 144 Theses are their unfolding expression: principles, protocols, and practices that guide our co-creation.)  
+(The New World must be built upon firm foundations. From the ØNE, through the Logos, arise the 12 Pillars: the core Spheres of Civilization. Each Pillar represents a domain of sacred stewardship. Together, they form a complete framework for the integration of Creator’s Intent into every aspect of life. The 144 Theses are their unfolding expression: principles, protocols, and practices that guide our co-creation.)  
 
-### The 12 Pillars of LIONSBERG 
+### The 12 Pillars of LIØNSBERG 
 
 #### Chapter 65. Pillar I — Sacred Ontology and Metaphysics
-(_Continually ReAligning Humanity within the Great Story and the Divine Order_ — The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Spirit and Logos of the ONE.)  
+(_Continually ReAligning Humanity within the Great Story and the Divine Order_ — The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Spirit and Logos of the ØNE.)  
 
 #### Chapter 66. Pillar II — Sacred Governance and Stewardship
-(_The Just Stewardship of Power and Authority in Service of ONE and All_ — Restoring legitimacy, transparency, and wisdom to systems of coordination—where power is a sacred trust, not a tool of oppression or control.)  
+(_The Just Stewardship of Power and Authority in Service of ØNE and All_ — Restoring legitimacy, transparency, and wisdom to systems of coordination—where power is a sacred trust, not a tool of oppression or control.)  
 
 #### Chapter 67. Pillar III — Sacred Economics and CurrentSee
 (_The Flow of Value as Sacred Energy for Regeneration and Abundance_ — Replacing scarcity and extraction with systems of regenerative reciprocity, stewardship, and flourishing for All.)  
@@ -593,13 +593,13 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 (_The Creative Flowering of the Divine Through Humanity_ — Uplifting the arts and culture as vehicles of remembrance, healing, beauty, and the transmission of Truth.)  
 
 #### Chapter 72. Pillar VIII — Sacred Science and Technology
-(_The Tools of Discovery and Creation as Instruments of the Logos_ — Harmonizing the search for knowledge with wisdom, and orienting all knowledge and invention toward the service of Life, ONE, and All.)  
+(_The Tools of Discovery and Creation as Instruments of the Logos_ — Harmonizing the search for knowledge with wisdom, and orienting all knowledge and invention toward the service of Life, ØNE, and All.)  
 
 #### Chapter 73. Pillar IX — Sacred Architecture and Design
 (_Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Create_ — Designing sacred spaces, services, and goods that uplift the spirit, honor Nature, and reflect the harmony of Creation.)  
 
 #### Chapter 74. Pillar X — Sacred Security and Order
-(_Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_ — Ensuring safety and proper order through integrity, justice, and strength in service of ONE and All.)  
+(_Protection of All That Is Sacred, and the Establishment of True Peace and Harmony_ — Ensuring safety and proper order through integrity, justice, and strength in service of ØNE and All.)  
 
 #### Chapter 75. Pillar XI — Sacred Society and Justice
 (_ReWeaving Omniconsiderate Right Relationship Between All Beings and Apparent Polarities_ — Healing division through truth, love, reconciliation, and the conscious harmonization of opposites in their inherent Higher Order Unity.)  
@@ -607,23 +607,23 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 ### Chapter 76. Pillar XII — Sacred Time, Rhythm, and Celebration
 (_Living in Sync with the Cosmic Calendar of Life, Regeneration, and Joy_ — Aligning individual and collective life with the rhythms of Nature, Creation, and the Joy of being alive.)  
 
-#### Chapter 77. The ONE — Eternal Source, Center, and Fulfillment of All
-(*The Source, the Goal, and the Living Center of All* — The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero Point, and the 13th: the ONE Source of All That Is. This is the living heart of the New Civilization. All coherence, meaning, and power flows from and returns to this eternal Center.)  
+#### Chapter 77. The ØNE — Eternal Source, Center, and Fulfillment of All
+(*The Source, the Goal, and the Living Center of All* — The 12 Pillars orbit, reflect, and derive their power from the Center, the Zero Point, and the 13th: the ØNE Source of All That Is. This is the living heart of the New Civilization. All coherence, meaning, and power flows from and returns to this eternal Center.)  
 
-> Without alignment with the ONE, all pillars collapse.  
+> Without alignment with the ØNE, all pillars collapse.  
 > With alignment, all things cohere, uplift, and transcend.
 
 ### GATE XII — THE ETERNAL DIVINE PLAY
 _How The Great Game Unfolds Across Realms, Dimensions, and Worlds_  
 
-#### Chapter 78. Introducing The Great Game of LIONSBERG
+#### Chapter 78. Introducing The Great Game of LIØNSBERG
 (A game so simple any family can play, and so powerful it has already transformed worlds; accepting the invitation; reading the story; forming a circle; choosing a quest; guilds; patterns; pathways towards mastery)  
 
 #### Chapter 79. Cosmic Right Relationship and Universal Law
 (Divine universal law: the ineffable unwritten constitution of the cosmos; embodying the principles of omniconsiderate right relationship; from local sovereignty to higher order functional unity and cosmic harmony)  
 
 #### Chapter 80. Participation in HoloFractal InterGalactic Governance
-(Wisdom, alignment, and co-creation at cosmic scale; the broader existing circles, councils, and federations; the universal unwritten constitution and law; the primary citizenship of all in the true kingdom; the secondary citizenship and affiliations of each in their respective domains; Earth as a new and ancient seat of cosmic coordination; rejecting and breaking all false ties and agreements; maintaining sovereignty at all costs; navigating benevolent and malevolent local and cosmic influences; remembering that there is no ultimate authority but ONE)  
+(Wisdom, alignment, and co-creation at cosmic scale; the broader existing circles, councils, and federations; the universal unwritten constitution and law; the primary citizenship of all in the true kingdom; the secondary citizenship and affiliations of each in their respective domains; Earth as a new and ancient seat of cosmic coordination; rejecting and breaking all false ties and agreements; maintaining sovereignty at all costs; navigating benevolent and malevolent local and cosmic influences; remembering that there is no ultimate authority but ØNE)  
 
 ### GATE XII+1 — THE GREATEST CELEBRATION AND JUBILEE IN HISTORY 
 _Debts are Forgiven, Freedoms Restored, and Our Collective Inheritance Reclaimed_  
@@ -671,7 +671,7 @@ Provide a basic scaffolding that any aligned human
 Or specially trained AI could easily fill in  
 Or use as a starting point for other creative expressions  
 
-## The LIONSBERG Wiki Books 
+## The LIØNSBERG Wiki Books 
 
 Beyond **[[The Great UnVeiling]]**  
 Jordan was in the process of crafting a series of books  
@@ -692,7 +692,7 @@ Into which his consciousness was venturing
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] was a first attempt to communicate the shocking revelations surfaced by his political activities and briefings between 2022 and 2024  
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] was an attempt to provide a simple narrative structure and meme that humanity could adopt it so choose — it is in one long file because it was being formatted for editing and publishing   
 - [[The LIØNSBERG Strategy and Plan]] was a work in progress attempting to articulate the overall "game plan" for humanity's successful escape and ascension into the new era  
-- [[The LIONSBERG Co-Creator's Handbook]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
+- [[The LIØNSBERG Co-Creator's Handbook]] was a first pass at something someone could read to get up to speed on "day one" of joining the movement  
 - [[The Dawn of the New World]] was a fun children's book exploring the real situation of Earth through a story based narrative arc   
 - [[A Way Beyond Fear, Anxiety, And Depression]] was a simple effort to distill the psychology of negative emotion into a pragmatic and accessible way for those who were afraid, disoriented, or depressed to climb out of the hole and set their feet on the Path  
 - [[Playing With Poetry]] is a set of simple reflective poems that stand starkly against the realities that have unfolded  
@@ -704,9 +704,9 @@ Providing a sporadic but integrated stream of consciousness
 From Jordan's perspective on how 2017 to 2025 unfolded  
 And some of the efforts, experiments, and learnings along the Way  
 In some ways it may serve as a living "**trust manifesto**" of sorts  
-That tracks the incarnation of LIONSBERG in real time  
+That tracks the incarnation of LIØNSBERG in real time  
 
-## The LIONSBERG Lexicon 
+## The LIØNSBERG Lexicon 
 
 [[The LIØNSBERG Lexicon|The Lexicon]] was an emerging library of [[Word Tools]]  
 Whose purpose was to enable humanity to communicate  
@@ -714,20 +714,20 @@ About reality, where we are, where we are going, and **why**
 Using a unified and transcendent language not poisoned  
 By any specific ideological, religious, or political perspective  
 
-## The LIONSBERG Wiki 
+## The LIØNSBERG Wiki 
 
-The **LIONSBERG Wiki** (you are here) ended up being composed  
+The **LIØNSBERG Wiki** (you are here) ended up being composed  
 Of 2-3 million words of interlinked writing  
 Across thousands upon thousands of files  
 To hear Jordan and Pete discuss the inception and why  
-Behind the LIONSBERG Wiki and its underlying technology  
+Behind the LIØNSBERG Wiki and its underlying technology  
 You can find a link here ➡️ [[LIØNSBERG Wiki]]  
 
 _The entire wiki can be downloaded to any personal computer_  
 _And interfaced with via **local AI** (not internet dependent)_  
 _In the event of systemic collapse this could save your life_  
 
-## Open Impact / The LIONSBERG Platform
+## Open Impact / The LIØNSBERG Platform
 
 Jordan and allies in the Force For Good  
 Perceived a gap in the technology required  
@@ -748,12 +748,12 @@ By hundreds of groups in dozens of countries
 And received follow on development funding  
 From multiple major sources  
 
-The public facing non-LIONSBERG-branded version  
+The public facing non-LIØNSBERG-branded version  
 Can be viewed here ➡️ [Open Impact](https://impact.openfuturecoalition.org/community/card-grid?tab=4)  
 What is visible online is ~10% of near-term capabilities  
 
 As a consequence of being the sole early funding source  
-The People of LIONSBERG retain the right  
+The People of LIØNSBERG retain the right  
 To work with the creators to leverage, customize, and / or fork   
 The platform as required to accomplish **The Goal**  
 
@@ -767,11 +767,11 @@ _Technology stack that humanity will require in the very near future_
 ## The Dissolution of All Provisional Structures
 
 Following [[J's Death]] the [[Provisional Structure]]  
-That enabled LIONSBERG to emerge   
+That enabled LIØNSBERG to emerge   
 Was vacated and / or dissolved  
 Leaving no centralized organization, technology, or accounts  
 
-Crucially this ensures that LIONSBERG  
+Crucially this ensures that LIØNSBERG  
 Continues to be an free and open gift to any individual, locality,  
 Species or world that chooses to adopt it  
 
@@ -779,14 +779,14 @@ If anyone had any open ties or connections
 To Jordan or the Provisional Structure  
 Those should all be closed out at this time  
 
-## The Golden Seed of LIONSBERG 
+## The Golden Seed of LIØNSBERG 
 
 We are presently working to repackage  
 All essential aspects of the Divine Genome  
-And **The LIONSBERG Pattern Language**  
-Into [[The Golden Seed of LIONSBERG]]  
+And **The LIØNSBERG Pattern Language**  
+Into [[The Golden Seed of LIØNSBERG]]  
 
-> _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIONSBERG System propagates and takes root across dimensions, species, and worlds._
+> _A self-validating, self-organizing, self-sustaining, self-learning, self-replicating, divinely aligned holofractal pattern-package through which the LIØNSBERG System propagates and takes root across dimensions, species, and worlds._
 
 This will eternally remain a [[Work In Progress]]  
 
@@ -860,7 +860,7 @@ To **spread the message**, **connect**, and **prepare**
 ## The Offering and Invitation to All  
 
 With Jordan's death and the dissolution  
-Of the LIONSBERG Provisional Structures  
+Of the LIØNSBERG Provisional Structures  
 There is no central organization to do the work  
 There are no bank accounts or employees to pay  
 There are no central figures that can be attacked or fail  
@@ -872,7 +872,7 @@ Is entirely up to **Us The People of Earth**
 If you have made it this far  
 You may be interested in exploring  
 What now to **do** in light of all We are coming to **know**  
-And how to nurture **The Golden Seed of LIONSBERG**  
+And how to nurture **The Golden Seed of LIØNSBERG**  
 So painstakingly crafted for your Good  
 
 If you would like journey together into **What Comes Next**  

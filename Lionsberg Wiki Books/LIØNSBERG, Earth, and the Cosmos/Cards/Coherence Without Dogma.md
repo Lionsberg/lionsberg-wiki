@@ -11,11 +11,11 @@ LIØNSBERG holds together not because everyone believes the same things, but bec
 
 ## How It Works
 
-- Every initiate progressively develops their own capacity to view from the perspective of the ONE.
+- Every initiate progressively develops their own capacity to view from the perspective of the ØNE.
 - Each Sovereign contributes their unique vantage — Story, Map, Purpose, Passion, Function — to the progressively illuminated shared Map.
 - Different vantages **diverge in details** (the gift of diversity) and **converge in essence** (the gift of the shared Reality being approached).
 - The best present view of Reality shifts from subjective to intersubjective, while held humbly knowing it does not fully reflect the perspective of the ØNE.
-- The shared orientation toward the ONE is the centripetal force that holds the Body together while celebrating the process and practices of [[Navigating Towards Truth]].
+- The shared orientation toward the ØNE is the centripetal force that holds the Body together while celebrating the process and practices of [[Navigating Towards Truth]].
 
 ## The Meta Science Is The Discipline
 
@@ -23,7 +23,7 @@ LIØNSBERG holds together not because everyone believes the same things, but bec
 
 ## The Initiate's Invitation
 
-The initiate is not asked to memorize a doctrine. The initiate is invited into a shared journey toward the Wisdom, Perspective, and Way of the ONE — and from there, to see, articulate, and contribute back as they progress along the Path.
+The initiate is not asked to memorize a doctrine. The initiate is invited into a shared journey toward the Wisdom, Perspective, and Way of the ØNE — and from there, to see, articulate, and contribute back as they progress along the Path.
 
 ## Linked
 

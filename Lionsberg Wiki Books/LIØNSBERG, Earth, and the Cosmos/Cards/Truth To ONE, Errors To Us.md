@@ -1,6 +1,6 @@
-# Truth To ONE, Errors To Us
+# Truth To ØNE, Errors To Us
 
-_Anything True about LIØNSBERG belongs freely to ONE and All. Any errors or mistakes belong to Us, The People of LIØNSBERG._
+_Anything True about LIØNSBERG belongs freely to ØNE and All. Any errors or mistakes belong to Us, The People of LIØNSBERG._
 
 ---
 
@@ -33,13 +33,13 @@ This posture is what prevents LIØNSBERG from drifting into the historical traps
 
 - **Institutional self-importance** — claiming Truth as proprietary
 - **Defensive rigidity** — refusing to acknowledge error
-- **Source-elevation** — attributing the Pattern's authority to LIØNSBERG's articulation rather than to ONE
+- **Source-elevation** — attributing the Pattern's authority to LIØNSBERG's articulation rather than to ØNE
 
 A Prototype humble before the Reality it serves cannot fall into these traps. The discipline is structural: the asymmetry of attribution — Truth shared, errors owned — is the immune system against ego capture.
 
 ## In Practice
 
-- The wise elder at the fire speaks from as close to the view of the ONE as humanly possible, while recognizing the ONE recedes and expands as we approach it.
+- The wise elder at the fire speaks from as close to the view of the ØNE as humanly possible, while recognizing the ØNE recedes and expands as we approach it.
 - Authorship is acknowledged where it is right to acknowledge (the procession that brought us here). Authority for the Pattern itself is never claimed.
 - The Codex is signed not as proprietary work but as faithful service. The signature names the servant, not the source.
 

@@ -1,4 +1,4 @@
-# LIONSBERG Issue Tracker
+# LIØNSBERG Issue Tracker
 
 ## A Issues 
 

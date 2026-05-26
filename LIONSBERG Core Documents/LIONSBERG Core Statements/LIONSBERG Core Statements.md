@@ -1,15 +1,15 @@
-# LIONSBERG Core Statements
+# LIØNSBERG Core Statements
 
-[[LIONSBERG Context]]  
+[[LIØNSBERG Context]]  
 [[Lionsberg Intention]]  
 [[Lionsberg Spirit]]  
 [[Lionsberg Mission]]  
 [[Lionsberg Vision]]  
-[[LIONSBERG Goal]]  
-[[LIONSBERG Values]]  
-[[LIONSBERG Process]]  
+[[LIØNSBERG Goal]]  
+[[LIØNSBERG Values]]  
+[[LIØNSBERG Process]]  
 [[Lionsberg Personality]]  
 [[Lionsberg Metaphors]]  
 [[Lionsberg Structure]]  
 [[Lionsberg System and Approach]]  
-[[The Core Concepts of LIONSBERG]]  
+[[The Core Concepts of LIØNSBERG]]  

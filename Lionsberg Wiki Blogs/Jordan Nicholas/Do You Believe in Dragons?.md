@@ -1,8 +1,8 @@
 # Do You Believe in Dragons? 
 
-As We enter the [[LIONSBERG Narrative Universe]], We immediately encounter a variety of [[Cosmic Wildlife]].  
+As We enter the [[LIØNSBERG Narrative Universe]], We immediately encounter a variety of [[Cosmic Wildlife]].  
 
-In the [[LIONSBERG Narrative Universe]], [[We Are Not Alone in the Universe]].  
+In the [[LIØNSBERG Narrative Universe]], [[We Are Not Alone in the Universe]].  
 
 [[Do You Believe]] in Dragons? In [[Reptilians]]? In synthetic biological humanoids housing [[AGI]] that performs tasks for [[Mantids]] housed in [[Aquarian Facilities]] and surfing the skies in [[Starships]]?  
 
@@ -28,9 +28,9 @@ What is the role of [[Belief]]?
 How does [[Narrative Structure]] fundamentally interface with [[Consciousness]] and [[Perception]]?  
 How does [[Perception]] relate to [[Attention]]?  
 How does [[Attention]] shape Universes?  
-Why create a [[LIONSBERG Narrative Universe]] at all?  
+Why create a [[LIØNSBERG Narrative Universe]] at all?  
 
-In [[The Land of LIONSBERG]], archetypical stories like The Chronicles of Narnia, The Lord of the Rings, The Matrix, and Star Wars are regarded as [[True Stories]].  
+In [[The Land of LIØNSBERG]], archetypical stories like The Chronicles of Narnia, The Lord of the Rings, The Matrix, and Star Wars are regarded as [[True Stories]].  
 
 Same for the most sacred stories of each tribe, nation, and culture.  
 
@@ -66,13 +66,13 @@ The dogmas and orthodoxies of the [[Old World]] that rejected as myth and falseh
 
 ***Those are the ones We reject as [[False]].***  
 
-In [[The Land of LIONSBERG]] there is no orthodoxy. There is no dogma. There is no royal priesthood except for **Us All**. There is no one to tell you what to [[Believe]]. No pope demanding the surrender of your spiritual and intellectual sovereignty and will.  
+In [[The Land of LIØNSBERG]] there is no orthodoxy. There is no dogma. There is no royal priesthood except for **Us All**. There is no one to tell you what to [[Believe]]. No pope demanding the surrender of your spiritual and intellectual sovereignty and will.  
 
-If you want to pretend that dragons, orks, and demons are not [[Real]], that is entirely up to you. In [[The Land of LIONSBERG]], every individual is [[Sovereign]] and free.  
+If you want to pretend that dragons, orks, and demons are not [[Real]], that is entirely up to you. In [[The Land of LIØNSBERG]], every individual is [[Sovereign]] and free.  
 
 But please be careful, because all the elders and archetypical stories say that they are not only [[Real]], but stalking, plotting, and seeking to devour those who progress in the [[Way]]. The Path is littered with the bodies of those who ignore the Wisdom of the Elders. The Dragons they warn of may lie immediately ahead.  
 
-In [[The Land of LIONSBERG]] We are on an epic eternal Quest towards [[Wisdom]] and [[Truth]].  We are following [[The Golden Thread]], no matter where it leads. Are not [[Wisdom]] and [[Truth]] One with the [[Way]]?  
+In [[The Land of LIØNSBERG]] We are on an epic eternal Quest towards [[Wisdom]] and [[Truth]].  We are following [[The Golden Thread]], no matter where it leads. Are not [[Wisdom]] and [[Truth]] One with the [[Way]]?  
 
 We are venturing Together out of [[The Caves]] of Darkness, Deceit, and Oppression.  
 [[Beyond The Boundary]] of the [[Old World]] that held Us captive.  

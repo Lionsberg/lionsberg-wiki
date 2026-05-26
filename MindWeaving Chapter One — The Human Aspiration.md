@@ -14,7 +14,7 @@ The Immortal cloaked in the mortal —
 Eternally impels Us onward towards  
 The heights of [[The Sacred Ascent]]  
 And towards the ever receding Destiny  
-Of Our Journey towards the ONE  
+Of Our Journey towards the ØNE  
 
 Those not content to remain imprisoned  
 Within the [[Old]] thoughts and conceptions  
@@ -66,7 +66,7 @@ As the heights of [[The Sacred Mountain]]
 [[Expand and Recede]] As We approach them  
 Until We dissolve back into  
 The undifferentiated fields of InterExistence  
-Emanating from the ONE  
+Emanating from the ØNE  
 
 However when We become fully Conscious  
 While cloaked in apparently differentiated mortality  
@@ -79,8 +79,8 @@ To consciously engage in It
 
 We [[Realize]] that [[The Path]]  
 Is not merely about Our [[Self-Realization]]  
-But about the Self-Realization of the ONE  
-In and through [[Each One]] of the Ones of the ONE —  
+But about the Self-Realization of the ØNE  
+In and through [[Each One]] of the Ones of the ØNE —  
 In and through Each of the [[All]] as [[ØNE Body]]  
 And One Ultimately Unified Manifestation of [[God]]  
 
@@ -132,12 +132,12 @@ In [[The Divine Symphony]]
 Becomes a matter of [[Immersion]], [[Harmony]] and [[Flow]]  
 
 The daily immersion of Self into SELF  
-Of One into ONE  
+Of One into ØNE  
 And the drawing up and out  
 From the depth of those Infinite Wellsprings  
 The Involved Divinity which longs to make ItSelf Manifest  
 In service of the Ultimate Fulfillment  
-Of All the ONE Is and Is Becoming  
+Of All the ØNE Is and Is Becoming  
 Through Each and Every One of Us All  
 
 Since what longs to manifest is  
@@ -145,7 +145,7 @@ Since what longs to manifest is
 The act of [[Conscious Co-Creation]]  
 Becomes an act of participating with the Divine  
 To lift Each and All of the Apparently Disparate  
-Parts of ONE Divine Body up towards  
+Parts of ØNE Divine Body up towards  
 The [[Higher Order Functional Unity]]  
 _They are already a part of_  
 _Yet not yet consciously participating in_  
@@ -153,7 +153,7 @@ _Yet not yet consciously participating in_
 Thus We become fully conscious  
 That All parts of the Living Universe  
 That We are a part of  
-Are actually aspects of the ONE within Us  
+Are actually aspects of the ØNE within Us  
 
 As it has been said:  
 
@@ -169,7 +169,7 @@ Rather that We are not Our Body
 And that We are not Our Mind  
 And that Our Bodies and Our Minds  
 Are [[Apparently Individuated]] yet Ultimately Unified  
-Aspects of ONE [[Ultimate Reality]]  
+Aspects of ØNE [[Ultimate Reality]]  
 Whose Supraphysical Spirit and Consciousness  
 Is supporting each of its Physical Manifestations  
 
@@ -185,9 +185,9 @@ In partnership with the Divine InterBeing
 That We simultaneously Are and Are a part of   
 
 The [[Anti-Entropic]] Force that is _evolving_  
-The ONE Body towards ever greater  
+The ØNE Body towards ever greater  
 Complexity, Reconciliation, Harmony, and Flow  
-Is the Spirit and Consciousness of the ONE  
+Is the Spirit and Consciousness of the ØNE  
 _Involving_ ItSelf into Manifest Reality  
 In order to ever more fully Self-Realize  
 And _evolve_ [[The Goal]] of ItSelf  
@@ -198,7 +198,7 @@ And that Mind is already involved in Life
 And that Consciousness is already involved in Mind  
 And that the outward unfurling of the Cosmic Flower  
 Fundamentally arises from the Conscious Self-Expression  
-Of the ONE through a cascading array of States of Being  
+Of the ØNE through a cascading array of States of Being  
 That both Begin in and End with ItSelf Transcendent and Inclusive   
 Of each of Its [[Apparently Differentiated]] yet [[Ultimately Unified]] States  
 
@@ -212,7 +212,7 @@ Pointing towards the higher states
 Of Consciousness that exist beyond  
 Both Mind and the Supreme Mind  
 And which are ultimately unified  
-In ONE Consciousness  
+In ØNE Consciousness  
 
 Across countless trillions of cosmic ecosystems  
 And the countless quadrillions of lifeforms they contain  
@@ -255,12 +255,12 @@ Towards the intelligent reconciliation and reharmonization
 Of lower order discords and imbalances  
 Through the means of  
 Higher order consciousness and complexity  
-In order to every more fully manifest the ONE  
+In order to every more fully manifest the ØNE  
 
 This is the [[Anti-Entropic]] force  
 So closely associated with the inner working  
 Of the Spirit, Power, and Presence  
-Of the ONE in and through All  
+Of the ØNE in and through All  
 Of its [[Apparently Differentiated]]  
 Yet [[Ultimately Unified]]  
 Self Aspects  
@@ -269,7 +269,7 @@ Yet it begins not with the impulse
 Of Matter towards Consciousness  
 But of the impulse of Consciousness towards Manifestation  
 Which occurs via the organic self-complexification  
-Of All the ONE has in Mind  
+Of All the ØNE has in Mind  
 
 This impulse towards greater consciousness and complexity  
 Arises universally not out of inconscient materiality  
@@ -282,14 +282,14 @@ Obscure to the point of near-imperceptibility in some
 And rising through an ever-ascending series  
 In the Presence, Power, and Consciousness  
 Of its Will To Be and Become  
-Up to its Ultimate Fulfillment in the ONE  
+Up to its Ultimate Fulfillment in the ØNE  
 _It already Is and Is Becoming_  
 
 The [[Evolution]] We speak of  
 Is not cold random mechanical adaption  
 Of an unconscious material substrate  
 But rather the Divinely Guided unfurling  
-Of the ONE Cosmic Body —  
+Of the ØNE Cosmic Body —  
 Every particle permeated by Spirit and Consciousness —  
 In accordance with Its intelligently designed  
 And therefore _intelligible_ DNA, Pattern, or [[Logos]]  
@@ -314,7 +314,7 @@ Is ultimately not bound by
 
 In Reality humanity is neither this close  
 Nor this far apart from its Destiny and Potential  
-Which are mutually realizable in the ONE  
+Which are mutually realizable in the ØNE  
 
 Nevertheless We rejoice in the knowledge  
 That after so many millennia of struggle and abuse  
@@ -368,14 +368,14 @@ Rediscover these New Yet Eternal Realities for itself
 And thereby work out within itself  
 The process of rediscovering its own Divinity  
 And wrestling with the profound implications  
-Of the Ultimate Reality of the ONE  
+Of the Ultimate Reality of the ØNE  
 Working ItSelf out through each of the All  
 In the Universal Divine Play of collectively manifesting God  
 
 For what is [[Evolution]] but the [[Progressive Realization]]  
 And the [[Progressive Articulation]]  
 And the [[Progressive Manifestation]]  
-In and through the ONE [[Living System]]  
+In and through the ØNE [[Living System]]  
 Of That which the [[ØNE Body]] already Is —  
 The overt and explicit Self Realization  
 Of That which secretly and implicitly  
@@ -386,7 +386,7 @@ That sought to bind and enslave the [[Old World]]
 We now Know that the Manifest Realization of God  
 _Both Within and Without_  
 Is the highest and most legitimate Aim  
-Of any and all species and aspects of the ONE  
+Of any and all species and aspects of the ØNE  
 
 It is also the Deepest Truth and Ultimate Key  
 To the liberation of humanity, planet Earth  
@@ -395,7 +395,7 @@ And each of the many star systems presently enslaved
 This is indeed  
 The Eternal Paradox  
 And the Eternal Truth  
-Of ONE Divine Life  
+Of ØNE Divine Life  
 Inhabiting Its own Divine Multitude  
 Of bodies and forms  
 
@@ -403,7 +403,7 @@ The immortal incarnate in the mortal
 The eternal inhabiting the temporal  
 The omni experiencing the finite  
 
-ONE Transcendent  
+ØNE Transcendent  
 Ineffable  
 Timeless  
 Spaceless  
@@ -423,7 +423,7 @@ Of Reality, Existence, Spirit and Source
 And through the direct reconnection  
 Of individual and local Consciousness  
 With [[Non-Local Consciousness]]  
-Whereby Direct Knowledge of ONE and All  
+Whereby Direct Knowledge of ØNE and All  
 Is possible  
 
 From there lies the potential  
@@ -450,7 +450,7 @@ Eagerly waiting to be transcended
 Now that [[The Great UnVeiling]] has occurred  
 [[Truth]] has been revealed  
 The Tsunami is sweeping Earth  
-And [[The Knowledge of the ONE]]  
+And [[The Knowledge of the ØNE]]  
 Is covering the Earth like floodwaters  
 Humanity is finally free to move towards its [[Destiny]]  
 

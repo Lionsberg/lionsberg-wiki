@@ -60,16 +60,16 @@ Compressed wisdom book — short pithy pages. Wisdom Cries Out, One, A Few, The 
 **Most operational/clinical book in cluster**. Four parts: (1) Emotions & Biology — Autonomic Nervous System as default-on, Body↔Brain signaling, Dopamine, Mania/Depression poles, rewiring the brain, Choosing a Worthy Aim, Advance/Remain/Retreat, Green/Yellow/Red signal system; (2) Conscious Agency — envisioning futures, boundaries, losing/regaining consciousness; (3) Stories — forward & backward-looking stories, self-limiting beliefs, narrative coherence; (4) Navigating/Moving — Smallest Step, Proper Orientation/Stance, Making Selves Strong, Confronting What We Fear, Raising the Standard, Co-Creating Heaven. **Net-new patterns galore** for healing/practice work. Voice is gentle, accessible, science-aware-but-spiritual.
 
 ### 7. The Power of One (11 files)
-**Short, partial book**. Anchored on the experiment of devoting **One Hour A Day** to ONE and All. Substantial overlap with Power of Today. Strong concept: One Hour broken into Four 15-Minute Periods of Action.
+**Short, partial book**. Anchored on the experiment of devoting **One Hour A Day** to ØNE and All. Substantial overlap with Power of Today. Strong concept: One Hour broken into Four 15-Minute Periods of Action.
 
 ### 8. An Alternative to Apocalypse - The New Covenant (18 files)
 **Eschatology** book. Part I: Current Path Towards Apocalypse (American collapse, supply chain, famine/migration/plague, world war shadow, environmental collapse). Part II: New Covenant (principles: Truth/Love/Justice/Stewardship/Wisdom/Unity Under God; Spiritual War; Building Bridges & Alliances; Resisting). Part III: Jubilee — radical reset; debt/property/economic reset; Co-Creating conditions for new era. **Spiritual War chapter** is operationally rich: not-against-flesh-and-blood, fractal nature of the war, strategies (personal transformation → family → community → ethical leadership → inter-belief dialogue → prayer → integrated wellbeing). **Heavy Christian framing** — Jesus, Paul, scripture citations, "Unity Under God" as foundational principle.
 
 ### 9. Lionsberg, Simple and Clear (18 files)
-**Comforting/accessible** entry-point book. 17 chapters cover the entire LIONSBERG architecture (Story, Meta Crisis, Vision/Plan, Manifesto, System/Approach, Great Game, Economic System, Governance, Education, Structure, Values, Hope/Resilience, Action, Traps/Pitfalls). Strong Traps/Pitfalls chapter (14 distinct failure-mode patterns). Voice is well-disciplined, accessible.
+**Comforting/accessible** entry-point book. 17 chapters cover the entire LIØNSBERG architecture (Story, Meta Crisis, Vision/Plan, Manifesto, System/Approach, Great Game, Economic System, Governance, Education, Structure, Values, Hope/Resilience, Action, Traps/Pitfalls). Strong Traps/Pitfalls chapter (14 distinct failure-mode patterns). Voice is well-disciplined, accessible.
 
 ### 10. Lionsberg - A Biblical Perspective (17 files)
-**Explicit Christian apologetic** for LIONSBERG. Frames Jordan as addressing "esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." Defends LIONSBERG as not-Anti-Christ / not-one-world-government per Revelation. Contains **100-numbered list of "God is X" with scripture citations** (Perfect Nature, Character, Intention of God). **Highest religion-elevation risk in the entire cluster.** May be appropriate as a translated companion piece for Christian audiences but cannot stand as canonical universal Lionsberg.
+**Explicit Christian apologetic** for LIØNSBERG. Frames Jordan as addressing "esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." Defends LIØNSBERG as not-Anti-Christ / not-one-world-government per Revelation. Contains **100-numbered list of "God is X" with scripture citations** (Perfect Nature, Character, Intention of God). **Highest religion-elevation risk in the entire cluster.** May be appropriate as a translated companion piece for Christian audiences but cannot stand as canonical universal Lionsberg.
 
 ### 11. The Quest Towards The Goal (1 file, outline only)
 A book Jordan **hoped to write but didn't**. The single file is a 70+ link outline of "Remembering Why and How to..." patterns: Breathe, Eat, Drink, Sleep, Walk, Learn, Laugh, Play, Perceive, Orient, Move, Navigate, Map, Ground, Love (and commune with One/Self/Neighbor/All), Wrestle with God/Reality, Incarnate/Transcend, Differentiate Levels of Abstraction, Cultivate/Channel/Exchange/Create/Heal/Destroy with Energy, Receive/Channel from Beyond, Think/Speak/Write, Collaborate, Co-Create, Forge Groups, Establish Boundaries, Govern Selves, Quest, transform Quests→Projects→Programs→Meta Programs, Pull Plan, Set Milestones, Make Decisions, Transform Conflict, Coach/Mentor, Tell Stories, Co-Create Systems/Tools/Technology. **This outline is itself a Pattern Language compression** of huge value.
@@ -81,7 +81,7 @@ Operational/technical specification for a **mobile sanctuary** built from a 2000
 Short prelude + **The Warrior's Intermittent Fasting Protocol** (16/8 or 20/4 window, weekly extended fast, seasonal deep fast, initiatory deep fasts, training integration, electrolyte balance, Forbidden Practices, Warrior Variations table). Practice-canon entry. References Rule #2: Do The Wise Right Thing at The Wise Right Time with The Wise Right People to Progressively Realize The Goal.
 
 ### 14. Playing With Poetry (1 file, 37 numbered poems)
-Liturgical/prophetic poetry. Major themes: the building burning while people sleep, the prophets crying out unheeded, the cliff-edge backward steps, Wisdom/Truth/Sane becoming pariahs, the Four Horsemen at the horizon, "having been X, become Y" beatitudes, every blade of grass as burning bush. **One of the highest-voice files in the entire cluster.** Section 32 ("Having been Hardened, become Soft...") is a complete prophetic beatitudes pattern; Section 35 ("Look closer / Every blade of grass is a burning bush / Every quanta reveals the ONE") is one of the cleanest distillations in the wiki.
+Liturgical/prophetic poetry. Major themes: the building burning while people sleep, the prophets crying out unheeded, the cliff-edge backward steps, Wisdom/Truth/Sane becoming pariahs, the Four Horsemen at the horizon, "having been X, become Y" beatitudes, every blade of grass as burning bush. **One of the highest-voice files in the entire cluster.** Section 32 ("Having been Hardened, become Soft...") is a complete prophetic beatitudes pattern; Section 35 ("Look closer / Every blade of grass is a burning bush / Every quanta reveals the ØNE") is one of the cleanest distillations in the wiki.
 
 ### 15. When It's All On The Line (14 files + outline)
 Operational + reckoning book. Three chapters written; rest are outlined. Core: existential crucible moments, who-you-are-when-it-matters, A Once In A Millennia Meta Opportunity, How to Be/Aim/Perceive/Orient/Think/Analyze/Navigate/Plan/Decide/Act/Work/Eat/Drink/Sleep/Walk/Talk/Love/Fear/Focus/Fight/Protect/Play/Live/Transcend when it's all on the line. **Mirrors Quest Towards the Goal's outline structure** but in different register. Open with: "The crises we face are existential: environmental collapse, social unraveling, political decay, economic exploitation, spiritual apathy... and an extraterrestrial and demonic army, along with their fascist human puppets, hell bent on forcing humanity into a dystopian Final Order." — strongest unveiling-of-stakes opening in the cluster.
@@ -145,7 +145,7 @@ Below: Voice-disciplined, universal articulation. "Source" = book.
 | When It's All On The Line | The crucible-of-decision moment. Complex adaptive systems at the brink either collapse into chaos or leap to higher-order. | When It's All On The Line 1.1 |
 | The Once-In-A-Millennia Meta Opportunity | The shadow of the Obstacle contains an Opportunity of equal and opposite proportion. The greatest crisis IS the greatest opportunity. | When It's All On The Line 2.3 |
 | Having Been Hardened, Become Soft (The Beatitudes Inversion) | Having been Robbed → become Generosity; Slandered → Truth; Betrayed → Loyalty; Rejected → Love; Killed → Resurrection. The 12-step inversion pattern. | Playing With Poetry 32 |
-| Every Blade of Grass is a Burning Bush | The cleanest distillation: every quanta reveals the ONE. | Playing With Poetry 35 |
+| Every Blade of Grass is a Burning Bush | The cleanest distillation: every quanta reveals the ØNE. | Playing With Poetry 35 |
 | The Building is on Fire (Trinity of Warnings) | The Exit / The Ark / Repent — three archetypal speakings of authority into a slumbering populace, three rejections, three perishings. | Playing With Poetry 23-25 |
 | The Patient Search & Perfectly Timed Divine Gift | The pattern of long discernment followed by the gift arriving at the right time. | Roving Temple Dojo (concept frame) |
 | The Anatomy of the Soul (Layers of Being) | Physical / Energetic / Emotional / Mental / Spiritual. Temporary association of energy, spirit, consciousness into individuated Form. Eternal interexistence of each aspect to The Whole. | Rediscovering Take 2 Ch 5 |
@@ -172,7 +172,7 @@ Approximately **65 strong net-new Card candidates** surfaced from this cluster.
 Existing Cards (queued ~1,500) that this cluster sharpens:
 
 - **The Way** — Sharpened by Power of Today 1.3 ("It is a Way of Being / Way of Life / Way We walk / Way We breathe...") as the staccato litany pattern.
-- **ØNE** — Sharpened by Way of God ("The One That Unites The Many") with the *by-definition* argument: "Whatever else God is, *by definition* ØNE is the ONE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition."
+- **ØNE** — Sharpened by Way of God ("The One That Unites The Many") with the *by-definition* argument: "Whatever else God is, *by definition* ØNE is the ØNE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition."
 - **Heaven On Earth** — Sharpened by Way Beyond Fear 4.12: the integrated Aim of the Highest Intention and Greatest Good.
 - **The Goal** — Sharpened by Rediscovering Take 2: the Summit recedes as We approach; every peak is a new beginning on an endless journey.
 - **The Sacred Ascent** — Strongly sharpened by Rediscovering Take 2's structure (Sacred Context → Foundations → Journey → Mastery → Eternal Horizon). This 21-chapter outline is itself a refinement of the Sacred Ascent spine.
@@ -189,7 +189,7 @@ Existing Cards (queued ~1,500) that this cluster sharpens:
 
 These files should be considered **canonical sources** that may need direct inclusion or near-direct excerpting in the Seven-Volume Codex:
 
-1. **The One — Chapters 1 through 14** (`/LIONSBERG Wiki Books/The One/`) — Especially Chs 1, 3, 4, 10, 12, 13, 14. **Closest-to-Codex liturgical material in the entire wiki.**
+1. **The One — Chapters 1 through 14** (`/LIØNSBERG Wiki Books/The One/`) — Especially Chs 1, 3, 4, 10, 12, 13, 14. **Closest-to-Codex liturgical material in the entire wiki.**
 2. **Playing With Poetry** (`/Playing With Poetry/`) — The 37 poems are usable as direct liturgical inserts at Volume transitions. Sections 23-25 (The Building / The Ark / Repent), 32 (Beatitudes Inversion), 35 (Burning Bush), 37 (Look Within) are exceptional.
 3. **The Power of Today — 4.4 A New Daily Practice** — The most operationally complete Daily Practice document. Should be a Volume reference or full inclusion in The Playbook.
 4. **A Way Beyond Fear, Anxiety, and Depression — full book** — Healing/practice canon. Operational backbone for the post-collapse mental-health domain.
@@ -206,7 +206,7 @@ These files should be considered **canonical sources** that may need direct incl
 
 ### Severe (require translation before any Codex inclusion):
 
-- **`Lionsberg - A Biblical Perspective/`** (entire book, 17 files) — Opens "Esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." 100-item numbered list of "God is X (scripture citation)." Frames LIONSBERG as Christian apologetic. **Status: NOT canonical for universal Codex.** Two options: (a) archive as a Christian-audience companion piece clearly marked as such; (b) translate the underlying patterns to universal voice and let the original sunset.
+- **`Lionsberg - A Biblical Perspective/`** (entire book, 17 files) — Opens "Esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." 100-item numbered list of "God is X (scripture citation)." Frames LIØNSBERG as Christian apologetic. **Status: NOT canonical for universal Codex.** Two options: (a) archive as a Christian-audience companion piece clearly marked as such; (b) translate the underlying patterns to universal voice and let the original sunset.
 
 - **`The Way of God/`** — Title alone elevates a religious framing. Three of four Parts are lensed through Isaiah, Jesus, and the Canonical (heavily Christian-Hebrew). Voice repeatedly says "God" where universal articulation would say "ØNE." Strong material in the book — pattern language of Spiraling Up/Down, Logos, Avoiding Idolatry, Word Tools, Universal Wisdom — but each chapter needs translation. **The Patterns of Spiraling Up/Down** is the highest-priority extraction candidate (universal civilizational pattern); the Christian wrapper can be stripped.
 
@@ -214,28 +214,28 @@ These files should be considered **canonical sources** that may need direct incl
 
 - **`An Alternative to Apocalypse - The New Covenant/`** — "Unity Under God" as foundational principle. Heavy scripture-quotation. Jesus and Paul cited as authorities. **However**, the underlying patterns (Spiritual War as fractal, Not Against Flesh and Blood, Jubilee, Building Bridges) are universal and translate cleanly. Cards extractable.
 
-- **`Rediscovering the Way/`** — Mostly universal voice (Generative Source, ONE, Logos, Way) — but periodically slips into "the LORD/God/Spirit of God" phrasing. The C. Secrets of the Way page mentions "Generative Source [...] which in English we call God" — this is exactly the right voice-discipline move. The book has been **mostly translated already**.
+- **`Rediscovering the Way/`** — Mostly universal voice (Generative Source, ØNE, Logos, Way) — but periodically slips into "the LORD/God/Spirit of God" phrasing. The C. Secrets of the Way page mentions "Generative Source [...] which in English we call God" — this is exactly the right voice-discipline move. The book has been **mostly translated already**.
 
 - **`The Wisdom of the Way/`** — Mostly clean universal voice, but [[1. One]] cites "Father, I pray that they might be One, even as We are One ~ After Jesus" and `0.1 Wisdom Cries Out` is a near-direct paraphrase of Proverbs. The "After [tradition]" attribution convention is honorable but elevates Jesus over other traditions. Either cite multiple traditions or drop attributions in favor of universal voice.
 
 ### Mild (already universal but with occasional drift):
 
-- **`The Power of Today/`** — Generally clean. **4.4 A New Daily Practice** explicitly acknowledges the issue: "Because the System is rooted in the ONE Highest and Deepest thing, it includes references to the English words commonly used to point at such things, including God and Prayer. We recognize how problematic and misused the word God has become, so please look beyond the Word Tool to the Ultimate Reality it is pointing at." **This is exemplary voice-discipline meta-framing.** Should be the model for how the cluster handles language-elevation tension.
+- **`The Power of Today/`** — Generally clean. **4.4 A New Daily Practice** explicitly acknowledges the issue: "Because the System is rooted in the ØNE Highest and Deepest thing, it includes references to the English words commonly used to point at such things, including God and Prayer. We recognize how problematic and misused the word God has become, so please look beyond the Word Tool to the Ultimate Reality it is pointing at." **This is exemplary voice-discipline meta-framing.** Should be the model for how the cluster handles language-elevation tension.
 
-- **`A Way Beyond Fear/`** — Mostly universal; occasional "ONE" and "God" used interchangeably.
+- **`A Way Beyond Fear/`** — Mostly universal; occasional "ØNE" and "God" used interchangeably.
 
 - **`The One/`** — Cleanest universal voice in the cluster. Symphony cosmology transcends religious framing. **Outline drift**: Ch 16 "The Art and Science of Divine Collaboration", Ch 18 "Wrestling with the All", Part IV "Becoming Co-Creators With God" — "God" word should be reviewed against `[[ØNE]]` convention.
 
 - **`Lionsberg, Simple and Clear/`** — Clean universal voice. Strong example.
 
-- **`When It's All On The Line/`** — Mostly clean. Outline mentions "the full armor of God" (Pauline reference) and "the Spirit of God"; section 2.3 uses "ONE" extensively.
+- **`When It's All On The Line/`** — Mostly clean. Outline mentions "the full armor of God" (Pauline reference) and "the Spirit of God"; section 2.3 uses "ØNE" extensively.
 
 - **`Becoming a Warrior of The Way/`** — Clean universal voice. Strong example.
 
 ### Convention drift across the cluster:
-- `[[ONE]]` is the prevailing form; some pages use `[[The One]]`; the new canonical is `[[ØNE]]` (no "The"). All 15 books will need a glyph sweep.
+- `[[ØNE]]` is the prevailing form; some pages use `[[The One]]`; the new canonical is `[[ØNE]]` (no "The"). All 15 books will need a glyph sweep.
 - `God` and `the LORD` appear hundreds of times across the cluster. Voice-discipline pass needs to convert most instances to `[[ØNE]]`, `[[Source]]`, `[[Creator]]`, or `[[ØNE Highest Thing]]` per context.
-- "LIONSBERG" → `LIØNSBERG` glyph sweep also needed.
+- "LIØNSBERG" → `LIØNSBERG` glyph sweep also needed.
 
 ---
 
@@ -245,15 +245,15 @@ With **15 books** in this cluster, consolidation is urgent. Candidate consolidat
 
 ### High-confidence consolidations:
 
-1. **The Way of God + Rediscovering the Way + The Wisdom of the Way + The LIONSBERG Way** → **ONE canonical Volume: "The Way"** (or "The Way of ØNE"). The four books cover the same ground from different angles:
+1. **The Way of God + Rediscovering the Way + The Wisdom of the Way + The LIØNSBERG Way** → **ØNE canonical Volume: "The Way"** (or "The Way of ØNE"). The four books cover the same ground from different angles:
    - The Way of God = Hebrew/Christian lens
    - Rediscovering the Way = Martial-arts lens
    - The Wisdom of the Way = Compressed pithy lens
-   - The LIONSBERG Way = (not read but title alone signals the same domain)
+   - The LIØNSBERG Way = (not read but title alone signals the same domain)
    
    These should merge into a single canonical Way Volume that integrates all four lenses without privileging any tradition. **This is the most important consolidation in the cluster.**
 
-2. **The Power of Today + The Power of One** → **ONE consolidated work** — The Power of One is essentially a section of Power of Today. The "One Hour a Day / Four Periods of Action" pattern fits naturally inside Power of Today's Chapter 4 (Daily Practice).
+2. **The Power of Today + The Power of One** → **ØNE consolidated work** — The Power of One is essentially a section of Power of Today. The "One Hour a Day / Four Periods of Action" pattern fits naturally inside Power of Today's Chapter 4 (Daily Practice).
 
 3. **Lionsberg, Simple and Clear + Lionsberg - A Biblical Perspective** → Simple and Clear is the universal version; Biblical Perspective is the Christian apologetic translation. Either (a) archive Biblical Perspective as a companion piece clearly marked "translation for Christian audiences," or (b) sunset it entirely since Simple and Clear covers the same architecture in universal voice.
 
@@ -269,7 +269,7 @@ With **15 books** in this cluster, consolidation is urgent. Candidate consolidat
 
 ### Recommended final cluster topology (post-consolidation):
 
-- **The Way** (consolidated from Way of God, Rediscovering, Wisdom of the Way, LIONSBERG Way) — canonical Volume
+- **The Way** (consolidated from Way of God, Rediscovering, Wisdom of the Way, LIØNSBERG Way) — canonical Volume
 - **The Power of Today** (with Power of One absorbed) — operational/devotional Volume
 - **The One** (kept as cosmological/liturgical Volume) — needs completion of Chs 15-30
 - **A Way Beyond Fear, Anxiety, and Depression** — healing-practice canon, kept
@@ -285,7 +285,7 @@ This reduces 15 books to **~6-7 canonical works** plus archived precursors.
 
 ## Coherence Observations
 
-1. **Too many "Way" books is the cluster's most urgent coherence issue.** Way of God / Rediscovering the Way / Wisdom of the Way / The LIONSBERG Way / The Power of Today (which is about the Way) / Becoming a Warrior of The Way — six titles converging on the same essential domain. The reader needs **ONE canonical Way**, with other works as lenses or supporting practice.
+1. **Too many "Way" books is the cluster's most urgent coherence issue.** Way of God / Rediscovering the Way / Wisdom of the Way / The LIØNSBERG Way / The Power of Today (which is about the Way) / Becoming a Warrior of The Way — six titles converging on the same essential domain. The reader needs **ØNE canonical Way**, with other works as lenses or supporting practice.
 
 2. **Pirsig question: what is the right shape of "The Way"?** Three plausible architectures:
    - **By lens** (Hebrew/Christian, Martial, Wisdom, Operational, Cosmological) — risks fragmentation
@@ -338,7 +338,7 @@ This reduces 15 books to **~6-7 canonical works** plus archived precursors.
 
 - **[[The Patterns Of Spiraling Up, And Spiraling Down]]** — The 14-stage civilizational cycle (Creation → Spirit → Way → Departure → Estrangement → Corruption → Conflict → Perishing → Prophesy → Return → Exodus → New World). **Universal pattern, currently wrapped in Christian language. Translates cleanly.**
 
-- **[[The One That Unites The Many]]** — The *by-definition* argument: "Whatever else God is, by definition God is the ONE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition." **This argument-pattern is foundational** and should be placed at the very beginning of the canonical Way Volume.
+- **[[The One That Unites The Many]]** — The *by-definition* argument: "Whatever else God is, by definition God is the ØNE thing that unites the Many. This is not a matter of religious belief. It is a strict matter of definition." **This argument-pattern is foundational** and should be placed at the very beginning of the canonical Way Volume.
 
 - **[[Rediscovering The Way - Take 2]]** — The 21-chapter spine for what The Way Volume should become.
 

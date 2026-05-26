@@ -2,13 +2,13 @@
 *This Series Is the interim successor to [[Above The Chaos]]*  
 ***Emerging from Beyond, We are orienting and discerning What's Next***  
 
-- [[2026 Q1 Update to the LIONSBERG Strategy and Plan]]  
+- [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]]  
 	
 - Started a [[Work Log]] in addition to [[TKTK Program Notes]] as we began work with Claude Code  
 	
 - [[A Program to Play The Great Game]]  
 	
-- [[The LIONSBERG Playbook is Live]]  
+- [[The LIØNSBERG Playbook is Live]]  
 	
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]]  
 	
@@ -24,9 +24,9 @@
 	
 - [[Caution On the Powerful Creatures from Above]]  
 	
-- [[A Short Note on the LIONSBERG Wiki]]  
+- [[A Short Note on the LIØNSBERG Wiki]]  
 	
-- [[A Short Note on the LIONSBERG Co-Creator's Handbook]]  
+- [[A Short Note on the LIØNSBERG Co-Creator's Handbook]]  
 	
 - [[MindWeaving The Life Divine]]  
 	
@@ -46,15 +46,15 @@
 	
 - [[The LIØNSBERG Experience]] - work in progress  
 	
-- [[The Golden Seed of LIONSBERG]] - work in progress 
+- [[The Golden Seed of LIØNSBERG]] - work in progress 
 	
 - [[The Story of LIØNSBERG]] - work in progress  
 	
-- [[The Kingdom of LIONSBERG — Plans and Specifications]] - work in progress  
+- [[The Kingdom of LIØNSBERG — Plans and Specifications]] - work in progress  
 	
 - [[The 144 Gates of Initiation]] - work in Progress  
 	
-- [[The LIONSBERG Meta Science]]  - work in progress  
+- [[The LIØNSBERG Meta Science]]  - work in progress  
 	
 - [[Template For Seasonal OmniSpection]]  
 	

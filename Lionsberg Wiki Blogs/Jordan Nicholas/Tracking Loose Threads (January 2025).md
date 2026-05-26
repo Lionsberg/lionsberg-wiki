@@ -6,7 +6,7 @@
 - [[The First Tenth]] of Time should be blocked and committed to [[The Commons]].  
 - Opportunities, Offers, and Needs Marketplaces  
 - The [[System Wide Master Planning Process]] is critical to navigate through the [[Milestones]] on the [[Critical Path]].  
-- [[LIONSBERG - History, Inception, and Trust Manifesto]] documents [[How We Got Here]] and [[Where We Are]]. 
+- [[LIØNSBERG - History, Inception, and Trust Manifesto]] documents [[How We Got Here]] and [[Where We Are]]. 
 - After millennia of deceit, centuries of sabotage, and generations of neglect, the foundations of the [[Existing Order]] are crumbling.  
 - [[Rediscovering Humanity's Cosmic Narrative - Ancient Myths, Sacred Texts, and the Modern Disclosure Movement]] needs more work. 
 - [[The Final Call - A Proclamation to Awaken the World]] - update sections VII and VIII and appendices. 

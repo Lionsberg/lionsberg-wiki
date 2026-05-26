@@ -39,5 +39,5 @@ And would like to know more
 We would be glad to help you ReMember  
 And show you the Way towards life and liberty  
 
-In Service of ONE and All,  
+In Service of ØNE and All,  
 [[the nameless one]]  

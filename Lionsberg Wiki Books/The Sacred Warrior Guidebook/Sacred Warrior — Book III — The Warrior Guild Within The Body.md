@@ -10,7 +10,7 @@ The Warriors are a **Guild**. One organ of the [[ØNE Body|LIØNSBERG Body]]. No
 
 Book I trained the individual Warrior. Book II built the Warrior Body at every [[Levels of Scale|scale]]. Book III places the whole Warrior facet **within the larger civilizational Body** that it serves — and the larger civilization Body within the cosmic [[Sovereign Superorganism]] already operating across the wider universe.
 
-This is where the framing rises to its proper height. The work is not to build an army. The work is to build an **enlightened army within an enlightened civilization** — operating across enlightened governance, enlightened economy, enlightened culture, enlightened learning, enlightened healing, enlightened ecology, enlightened architecture, enlightened time and rhythm, enlightened justice. **Each of the [[The 12 Pillars of LIONSBERG|Twelve Pillars]] holofractally operationalized through every part of a powerful, fully enlightening Sovereign Superorganism.** The Warriors are one limb of that Body. They serve [[ØNE]] and [[All]] from inside the Body, federated with every other limb, governed by the same architecture, accountable to the same Vow at the species and cosmic scale that the individual is accountable to at the personal scale.
+This is where the framing rises to its proper height. The work is not to build an army. The work is to build an **enlightened army within an enlightened civilization** — operating across enlightened governance, enlightened economy, enlightened culture, enlightened learning, enlightened healing, enlightened ecology, enlightened architecture, enlightened time and rhythm, enlightened justice. **Each of the [[The 12 Pillars of LIØNSBERG|Twelve Pillars]] holofractally operationalized through every part of a powerful, fully enlightening Sovereign Superorganism.** The Warriors are one limb of that Body. They serve [[ØNE]] and [[All]] from inside the Body, federated with every other limb, governed by the same architecture, accountable to the same Vow at the species and cosmic scale that the individual is accountable to at the personal scale.
 
 This is fundamentally different from any military arrangement Earth has experienced in recent millennia. It is the LIØNSBERG kind of a world — **already operational across cosmic expanses, incarnating here through [[The Golden Seed]]**.
 
@@ -58,7 +58,7 @@ How the Warrior Guild federates with each other major Guild of the LIØNSBERG Bo
 
 ### **[[Sacred Warrior — III.3 The Twelve Pillars Through Warrior Eyes]]**
 
-How each of [[The 12 Pillars of LIONSBERG|the Twelve Pillars]] looks from inside the Warrior Guild — what the Warrior contributes to each Pillar's domain, what each Pillar contributes back to the Warrior. Pillar I (Sacred Ontology). Pillar II (Sacred Governance). Pillar III (Sacred Economy). Pillar IV (Sacred Learning). Pillar V (Sacred Health and Healing). Pillar VI (Sacred Ecology). Pillar VII (Sacred Culture, Art, Story). Pillar VIII (Sacred Science and Technology). Pillar IX (Sacred Architecture and Design). Pillar X — the Warriors' home — Sacred Guardianship and Order. Pillar XI (Sacred Society and Justice). Pillar XII (Sacred Time, Rhythm, and Celebration).
+How each of [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]] looks from inside the Warrior Guild — what the Warrior contributes to each Pillar's domain, what each Pillar contributes back to the Warrior. Pillar I (Sacred Ontology). Pillar II (Sacred Governance). Pillar III (Sacred Economy). Pillar IV (Sacred Learning). Pillar V (Sacred Health and Healing). Pillar VI (Sacred Ecology). Pillar VII (Sacred Culture, Art, Story). Pillar VIII (Sacred Science and Technology). Pillar IX (Sacred Architecture and Design). Pillar X — the Warriors' home — Sacred Guardianship and Order. Pillar XI (Sacred Society and Justice). Pillar XII (Sacred Time, Rhythm, and Celebration).
 
 The Warriors operate across all twelve. The Warriors are accountable to all twelve. The Body is whole only when all twelve are operating.
 
@@ -92,7 +92,7 @@ May every Warrior walk faithfully. May every Guild operate cleanly. May the Body
 
 ## What Book III Refers To
 
-- **[[The 12 Pillars of LIONSBERG]]** — the twelve substantive domains the Body operationalizes
+- **[[The 12 Pillars of LIØNSBERG]]** — the twelve substantive domains the Body operationalizes
 - **[[The LIØNSBERG Pattern Language]]** — the grammar every Guild uses
 - **[[Pillar X — Sacred Guardianship and Order]]** — the Warriors' home Pillar
 - **[[Holofractal Omnifederation]]** — the federation architecture without center

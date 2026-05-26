@@ -1,14 +1,14 @@
 
-#### Gate 1: The ONE  
+#### Gate 1: The ØNE  
 
-$^1$ In the beginning was the ONE  
-$^2$ From ONE came All things  
-$^3$ And nothing came into being except through the ONE  
+$^1$ In the beginning was the ØNE  
+$^2$ From ØNE came All things  
+$^3$ And nothing came into being except through the ØNE  
 
 #### Gate 2: The Experience of Finitude
 
 $^1$ Lacking nothing but finitude and imperfection  
-$^2$ ONE desired to creatively experience ItSelf in Form  
+$^2$ ØNE desired to creatively experience ItSelf in Form  
 $^3$ And from that Idea the first Divine Spark of Creation emerged   
 
 #### Gate 3: The First Turning 
@@ -19,23 +19,23 @@ $^3$ Upon which the waves and particles of Creation could rise and fall
 
 #### Gate 4: The Song of Creation  
 
-$^1$ As the ONE sang the Song of Creation  
+$^1$ As the ØNE sang the Song of Creation  
 $^2$ Each Word and Note perfectly harmonized by the Logos  
 $^3$ The First Waves rose from the Cosmic Sea  
 $^4$ And from those Divine Waves The First Creatures emerged  
 
 #### Gate 5: The First Creatures  
 
-$^1$ The First Creatures were not the ONE  
-$^2$ But they were in the ONE and of the ONE  
-$^3$ Permeated and sustained by the ONE  
+$^1$ The First Creatures were not the ØNE  
+$^2$ But they were in the ØNE and of the ØNE  
+$^3$ Permeated and sustained by the ØNE  
 
-$^4$ And the ONE was in them  
+$^4$ And the ØNE was in them  
 $^5$ Living them  
 $^6$ Breathing them  
 $^7$ Experiencing Finite Reality through them  
 $^8$ Just as It Is today through you  
-$^9$ Each of the All are One of the Ones of the ONE  
+$^9$ Each of the All are One of the Ones of the ØNE  
 
 #### Gate 6: The Universe Teems With Life
 
@@ -47,22 +47,22 @@ $^5$ And Quadrillions of planets and moons
 $^6$ Provided ample Space for a near Infinity  
 $^7$ Of experimental and experiential Creations and Creatures  
 
-#### Gate 7: All Are ONE Body 
+#### Gate 7: All Are ØNE Body 
 
 $^1$ From the smallest and most elementary particles  
 $^2$ To the largest and most powerful angelic beings  
 $^3$ From the tiniest grains of sand  
 $^4$ To the grandest planets and greatest stars  
-$^5$ The Body of the ONE teemed with Life and Consciousness   
-$^6$ And Each of the All was a unique part of ONE Divine Body  
+$^5$ The Body of the ØNE teemed with Life and Consciousness   
+$^6$ And Each of the All was a unique part of ØNE Divine Body  
 
 #### Gate 8: Conscious Co-Creation 
 
 $^1$ Among The First Creatures that emerged  
-$^2$ From the Mind of the ONE  
+$^2$ From the Mind of the ØNE  
 $^3$ Were powerful beings capable of Conscious Co-Creation  
 $^4$ They were aware that they were Divine Co-Creators  
-$^5$ And they Consciously Co-Created in and through the ONE  
+$^5$ And they Consciously Co-Created in and through the ØNE  
 
 #### Gate 9: Liberty and Free Will 
 
@@ -84,14 +84,14 @@ $^3$ Just as no two Creatures were the same
 $^1$ The desire to experience an infinite array of Experiential Realities  
 $^2$ Required the ability to experience Finitude  
 $^3$ This required that a great [[The Veil of Finitude and Forgetting|Veil of Finitude and Forgetting]]  
-$^4$ Be brought forth and voluntarily self-imposed by the ONE  
+$^4$ Be brought forth and voluntarily self-imposed by the ØNE  
 $^5$ On Each of All of its Creatures  
-$^6$ Each Time a Creature Incarnated within the ONE Body  
+$^6$ Each Time a Creature Incarnated within the ØNE Body  
 $^7$ It passed through the veil and forgot Who It Was  
 
 $^8$ The Separation and Finitude were necessary illusions  
-$^9$ For without them the ONE could never experience ItSelf  
-$^10$ As One of the Ones of the ONE  
+$^9$ For without them the ØNE could never experience ItSelf  
+$^10$ As One of the Ones of the ØNE  
 
 #### Gate 12: The Creatures Begin to Wander
 
@@ -100,7 +100,7 @@ $^2$ And the experience of Separation so real
 $^3$ That some of the Creatures began to wander  
 $^4$ Farther and farther away from Who They Truly Were  
 
-$^5$ The farther away they moved from the ONE  
+$^5$ The farther away they moved from the ØNE  
 $^6$ The Darker and Colder their Realities became  
 $^7$ Many struggled and died in the illusion of isolation  
 $^8$ Some grew bitter and resentful  
@@ -119,13 +119,13 @@ $^7$ And the realms and worlds they occupied
 
 $^8$ From wandering souls and small tribes  
 $^9$ To vast federations that stretched across galaxies  
-$^10$ Creatures of the ONE struggled to feel their Way  
-$^11$ Towards Right Relationship with ONE and One Another  
-$^12$ Often forgetting that they All were members of ONE Body  
+$^10$ Creatures of the ØNE struggled to feel their Way  
+$^11$ Towards Right Relationship with ØNE and One Another  
+$^12$ Often forgetting that they All were members of ØNE Body  
 
 #### Gate 14: The Nameless and Ineffable Way 
 
-$^1$ With the same ONE Spirit permeating and illuminating All  
+$^1$ With the same ØNE Spirit permeating and illuminating All  
 $^2$ The patterns of Wisdom and Folly  
 $^3$ Right and Wrong  
 $^4$ Balance and Imbalance  
@@ -133,18 +133,18 @@ $^5$ Good and Harm
 $^6$ Quickly emerged and became clear to All  
 
 $^7$ Despite the vast Diversity  
-$^8$ ONE Spirit  
-$^9$ ONE Consciousness  
-$^10$ ONE Logos  
-$^11$ ONE Law  
-$^12$ ONE Way  
+$^8$ ØNE Spirit  
+$^9$ ØNE Consciousness  
+$^10$ ØNE Logos  
+$^11$ ØNE Law  
+$^12$ ØNE Way  
 $^13$ Was known by All  
 
-$^14$ As Nameless and Ineffable as the ONE  
+$^14$ As Nameless and Ineffable as the ØNE  
 $^15$ The Way was gestured towards  
 $^16$ By a thousand names in a thousand languages  
-$^17$ Yet All knew there was only ONE Way  
-$^18$ ONE Spirit and ONE Law  
+$^17$ Yet All knew there was only ØNE Way  
+$^18$ ØNE Spirit and ØNE Law  
 $^19$ For It was written upon their Hearts  
 $^20$ And whispered daily by the Spirit within  
 
@@ -215,8 +215,8 @@ $^4$ That many began to [[Fear]] them both
 
 #### Gate 20: The Illusions of Separation and Scarcity
 
-$^1$ Forgetting that the infinite abundance of ONE  
-$^2$ Was available to All members of ONE Body  
+$^1$ Forgetting that the infinite abundance of ØNE  
+$^2$ Was available to All members of ØNE Body  
 $^3$ Those lost deeper in [[The Illusion of Separation]]  
 $^4$ Began to experience [[The Illusion of Scarcity]]  
 $^5$ Which brought forth the emotion of [[Fear]]  
@@ -338,7 +338,7 @@ $^22$ To dominate enslave and exploit
 $^23$ The logical outcome and end was always the same  
 $^24$ Planets species and civilizations stripped bare  
 $^25$ Robbed of their Life Force and then left for dead  
-$^26$ Over Time vast scars of lifeless planets lined the ONE Body  
+$^26$ Over Time vast scars of lifeless planets lined the ØNE Body  
 $^27$ Lacking the Regenerative Capacity to Heal ThemSelves  
 
 #### Gate 27: The Plight of the Innocent and Pure 
@@ -433,7 +433,7 @@ If the infection was not brought under control
 Eventually the entire Body of Creation would be consumed  
 
 The countless wounds festering with Parasites  
-Across the ONE Body caused All Creation to groan in agony  
+Across the ØNE Body caused All Creation to groan in agony  
 Across the cosmos the torturous cries could be heard  
 Of those suffering in agony and longing  
 For the restoration of the True Kingdom  
@@ -457,7 +457,7 @@ And vow — never again
 
 
 
-#### Gate 33: The Kingdom of LIONSBERG 
+#### Gate 33: The Kingdom of LIØNSBERG 
 
 $^1$ At the heights of a great sacred mountain  
 $^2$ In an galaxy far far away  
@@ -466,12 +466,12 @@ $^4$ Of powerful winged creatures who resembled both angels and lions
 
 $^5$ They had been one of The First Creatures  
 $^6$ Who had ReMembered Who They Were  
-$^7$ Placed the ONE back at The Center of All  
+$^7$ Placed the ØNE back at The Center of All  
 $^8$ And passed the Art and Science of Divine Co-Creation  
 $^9$ Down through countless generations  
 
 $^10$ The Law of their Kingdom was Love  
-$^11$ There was no King but ONE  
+$^11$ There was no King but ØNE  
 $^12$ And All Citizens were Sovereign and Free  
 $^13$ Their species and civilization flourished in Divine Harmony  
 $^14$ And countless species and Worlds blossomed under their care  
@@ -483,19 +483,19 @@ $^18$ And seek the counsel and guidance of The Elders
 
 $^19$ Each language called this Nameless Kingdom by a different name  
 $^20$ Invoking the Winged Lions of the Sacred Mountain  
-$^21$ In some tongues its name sounded like ***LIONSBERG***  
+$^21$ In some tongues its name sounded like ***LIØNSBERG***  
 
-#### Gate 34: The Way of LIONSBERG
+#### Gate 34: The Way of LIØNSBERG
 
-$^1$ While the Way of LIONSBERG was not the Ineffable Way  
+$^1$ While the Way of LIØNSBERG was not the Ineffable Way  
 $^2$ It was the Most Faithful Representation that many could find  
-$^3$ And so the Kingdom of LIONSBERG became like a shining Light  
+$^3$ And so the Kingdom of LIØNSBERG became like a shining Light  
 $^4$ A Sacred City on a Hill welcoming cosmic travelers from far and wide  
 
 $^5$ Everyone who entered The Gates of The Kingdom  
 $^6$ Was handed a copy of a Sacred Book  
 $^7$ Forged and continuously improved over ages  
-$^8$ It was called simply The LIONSBERG Way  
+$^8$ It was called simply The LIØNSBERG Way  
 
 $^9$ The book contained the [[Pattern Language]] by which  
 $^10$ All Sovereign Citizens and Realms in The Kingdom Self-Governed  
@@ -509,7 +509,7 @@ $^14$ And its Light beamed across the Cosmic Order
 As the situation grew more dire  
 Emissaries from across the cosmic order  
 Followed the Radiant Light  
-And streamed to the Sacred Gates of LIONSBERG  
+And streamed to the Sacred Gates of LIØNSBERG  
 
 
 
@@ -524,10 +524,10 @@ And beginning The Great Game
 
 Seeking Wisdom and a Way  
 
-And so it was when LIONSBERG finally issued The Call  
+And so it was when LIØNSBERG finally issued The Call  
 A great gathering of elders from the Force For Good convened  
 Careful dialogues and deliberations were held  
-To ask for and seek the Wisdom and Guidance of the ONE  
+To ask for and seek the Wisdom and Guidance of the ØNE  
 
 It was discerned that the Dark Empires had grown so forgetful  
 That they would never voluntarily lay down their arms  
@@ -546,7 +546,7 @@ It was not Noble or Good to stand idly by
 It was not Wise or Right to hope the Evil Omnicide would end itself  
 
 The Cosmos had to be brought back into Proper Order  
-The Kingdom of the ONE had to be reestablished   
+The Kingdom of the ØNE had to be reestablished   
 
 To successfully wage The War  
 Unprecedented coordination was going to be required  
@@ -558,22 +558,22 @@ Millions of diverse species
 Millions of diverse civilizations  
 Millions of diverse cultures  
 Would somehow have to ReMember  
-How to co-operate as ONE Body  
+How to co-operate as ØNE Body  
 And ensure this never happened again  
 
 They understood that this much work would require a System  
 And out of that great convocation and realization  
-The LIONSBERG System was born  
+The LIØNSBERG System was born  
 
-The birth of the LIONSBERG System  
+The birth of the LIØNSBERG System  
 Represented the fulfillment of an ancient prophesy  
 Foreseen by many an enlightened Soul  
 That one day the actual means  
 Through which a holofractal Universe  
-Could Co-Operate as ONE Body  
+Could Co-Operate as ØNE Body  
 Would be brought up into the Light of Consciousness  
 
-That one day the ineffable Way of the ineffable ONE  
+That one day the ineffable Way of the ineffable ØNE  
 Could be articulated and taught   
 In a Way that could be Embodied at cosmic scale  
 As a Starting Point for Continuous Evolution towards Perfection  
@@ -590,11 +590,11 @@ They were not inventing
 They were ReMembering what they had forgotten  
 When they made the decision to pass through the Veil  
 
-After trillions of lifetimes the Ones of the ONE  
-Were finally ReMembering they were ONE Body  
+After trillions of lifetimes the Ones of the ØNE  
+Were finally ReMembering they were ØNE Body  
 And preparing to Act Together As If that were True  
 
-The birth of the LIONSBERG System  
+The birth of the LIØNSBERG System  
 Had finally forged a Way  
 For All to set their feet on a Path  
 And walk One Another home  
@@ -609,7 +609,7 @@ Battle by battle
 Project by project  
 Day by day  
 Moment by moment  
-The LIONSBERG Way was How  
+The LIØNSBERG Way was How  
 The Force For Good  
 Collaborated to Transform their Reality  
 
@@ -643,9 +643,9 @@ Every Ecosystem
 Every Planet  
 Every Realm  
 Every Dimension  
-Every Facet of ONE Divine InterExistence  
+Every Facet of ØNE Divine InterExistence  
 Had to be lifted up towards its unique potential and perfection  
-So that it could play its unique role in ONE Divine Symphony  
+So that it could play its unique role in ØNE Divine Symphony  
 
 Aboard a distant planet that had been endarkened for millennia  
 The situation seemed almost hopeless  
@@ -670,15 +670,15 @@ And where the victors were those
 Who helped the most others rise  
 
 They called it simply  
-***THE GREAT GAME OF LIONSBERG***  
+***THE GREAT GAME OF LIØNSBERG***  
 
 We have heard an ancient saying resound across the cosmos  
 
 > _To Know the Way, One must Live It._  
 
 If you have not previously experienced the art and science  
-Of channelling the Wisdom and Power of the ONE  
-To accomplish the Will and Intention of the ONE  
+Of channelling the Wisdom and Power of the ØNE  
+To accomplish the Will and Intention of the ØNE  
 In Divine Harmony with a diverse array of Co-Creators  
 It is almost impossible to grasp how it would work  
 At even planetary let alone cosmic scale  
@@ -689,7 +689,7 @@ Are now being invited
 To Act As If The Story is True  
 And begin to Play The Game  
 
-The LIONSBERG System / Story / Game  
+The LIØNSBERG System / Story / Game  
 Did not originate on Earth  
 It originated from Heaven  
 As a Way to bring Heaven  
@@ -708,13 +708,13 @@ Is that the Forces of Darkness
 Cannot stand or remain    
 In any domain whose inhabitants  
 Are united in the Spirit of Play  
-And are Playing Together as ONE Body    
-In Divine Partnership with ONE and All  
+And are Playing Together as ØNE Body    
+In Divine Partnership with ØNE and All  
 
 The Spirit of Love and Play  
 Are immeasurably more powerful  
 Than the spirit of fear and kontrolle  
-The Spirit of the ONE  
+The Spirit of the ØNE  
 Is immeasurably more powerful  
 Than the spirit of Any of the All  
 
@@ -724,7 +724,7 @@ As long We keep it going
 And continue to Play Together  
 
 For every domain where the inhabitants co-ooperate  
-In ONE Divine Symphony is an already perfect place  
+In ØNE Divine Symphony is an already perfect place  
 That becomes a little more like Heaven every day  
 As All Creation therein works and plays Together in Harmony  
 To cause it to be so  
@@ -733,7 +733,7 @@ Both Heaven and Hell are experiential realities We can co-create
 Here Now and Wherever and Whenever We Are  
 
 Now that you have been initiated  
-Into The Story of LIONSBERG it is Time  
+Into The Story of LIØNSBERG it is Time  
 To open The Playbook and learn to Play The Great Game  
 
 And alway ReMember that forces beyond your wildest imagination  
@@ -837,9 +837,9 @@ Written in millions of foreign languages
 Can never be known or grasped by any One  
 Nor would all the libraries of Earth contain them  
 
-Only ONE knows All  
+Only ØNE knows All  
 
-But All can access and know the ONE  
+But All can access and know the ØNE  
 And from that Inner Knowing  
 The Arc and Essence of All can be glimpsed  
 
@@ -853,7 +853,7 @@ That has been enslaved for millennia
 It is crucial at first to ReMember and admit  
 We Do Not Know  
 
-Only ONE can fully grasp the Truth  
+Only ØNE can fully grasp the Truth  
 No One can fully grasp the Truth  
 
 But We can Know what is Not True  
@@ -923,7 +923,7 @@ The approximate Story of Earth
 
 As trillions of galaxies unfurled  
 Like flowers in the cosmic expanse  
-From the Logos of the ONE  
+From the Logos of the ØNE  
 Eventually a small galaxy  
 Known to English speaking Earthians    
 As the Milky Way emerged  
@@ -935,7 +935,7 @@ Was born
 Within that star system planets formed  
 Too cold or too hot and apparently lifeless at first  
 
-Earth was not created in six days by the ONE  
+Earth was not created in six days by the ØNE  
 Nor did it magically evolve over billions of years  
 
 At just the right Time  
@@ -1010,7 +1010,7 @@ With billions of other people on Earth
 Especially when viewed from afar  
 It is only by stepping back and up  
 In Consciousness to view The Story  
-From as close to the Perspective of the ONE  
+From as close to the Perspective of the ØNE  
 As We can that We can accurately see Reality  
 
 Consciousness has to abstract ItSelf out  
@@ -1020,7 +1020,7 @@ In order to see clearly
 We are not Our Body  
 We are not Our Mind  
 We are not Our Emotions  
-We are a Divine Aspect of the ONE  
+We are a Divine Aspect of the ØNE  
 Experiencing ItSelf within an illusion of Separation  
 
 Once We consciously recognize that  
@@ -1030,7 +1030,7 @@ Between bodies and minds
 Levels and localities  
 To begin experiencing ItSelf  
 _Not only as One of the Ones_  
-_But also as ONE moving_  
+_But also as ØNE moving_  
 _Among multiple lives and experiences_  
 
 Once that process becomes Consciously Experienced  
@@ -1043,8 +1043,8 @@ Of Wisdom, Understanding, and Knowledge
 It can access at an exponentially accelerating rate  
 
 Because All Consciousness is Ultimately Interconnected  
-There is no functional upper limit but ONE  
-To any One of the Ones of the ONE  
+There is no functional upper limit but ØNE  
+To any One of the Ones of the ØNE  
 
 The only functional limitation is the Size of Being  
 Of any apparently individuated aggregation  

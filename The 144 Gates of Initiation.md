@@ -4,7 +4,7 @@
 
 The 144 Gates of Initiation are the cultivation of [[The Way Of The One Body]] — the universal +1 Path every Sovereign walks before and alongside any Guild-specific specialization.
 
-This is **ONE initiatory journey**. The Sovereign's walk from the Old World — Old Paradigm, Old Patterns, Old Perspectives — into the New. There is one story, one walk.
+This is **ØNE initiatory journey**. The Sovereign's walk from the Old World — Old Paradigm, Old Patterns, Old Perspectives — into the New. There is one story, one walk.
 
 It is not strictly individual. The Sovereign walks at all scales simultaneously — their own life, their Circle, their Community, their Bioregion, the planetary Body, the cosmic Story. Each Gate is held at every scale. The interior cultivations (Body · Heart · Mind · Spirit · Field · Voice · Hands) are the medium through which the walk happens, not the architecture of the walk itself.
 
@@ -274,7 +274,7 @@ The [[The Greatest Jubilee]] arrives when the last cohort of Earth-Sovereigns cr
 - [[The Way Of The One Body]] — what the 144 Gates cultivate
 - [[The Story of LIØNSBERG]] — the cosmic narrative; two faces of one Pattern
 - [[The Sacred Ascent]] — what opens after Blue Belt
-- [[The LIONSBERG Belt System]] — Blue Belt and beyond
+- [[The LIØNSBERG Belt System]] — Blue Belt and beyond
 - [[The Lionsberg Pattern Language]] — the Patterns invoked within Gate walking
 - [[The LIØNSBERG Sacred Codex]] — the wider Codex within which the Gates sit
 - [[Pass The Flame]] — handing the Chapter forward

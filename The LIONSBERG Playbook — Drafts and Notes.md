@@ -1,11 +1,11 @@
-# The LIONSBERG Playbook — Drafts and Notes
+# The LIØNSBERG Playbook — Drafts and Notes
 
 # SOME ATTEMPTS 
 
-## **Book I — The Story of LIONSBERG**
+## **Book I — The Story of LIØNSBERG**
 _The MythoPoetic Container_  
 
-- **[[The Story of LIONSBERG — Overview]]** — The whole story in a single frame.
+- **[[The Story of LIØNSBERG — Overview]]** — The whole story in a single frame.
     
 - **[[Why We Are Here]]** — The origin and purpose of this moment.
     
@@ -57,7 +57,7 @@ _The Image of the Goal_
     
 - **[[The Experience of Heaven on Earth]]** — What it feels like when wholeness dawns.
     
-- **[[The North Star — Diversity ReMembered and ReUnited in the ONE]]** — The guiding image that aligns us.
+- **[[The North Star — Diversity ReMembered and ReUnited in the ØNE]]** — The guiding image that aligns us.
     
 - **[[The Jubilee Horizon]]** — The Ten-Year vision of liberation, rebirth and restoration.
     
@@ -75,7 +75,7 @@ _The Structures of the Game — Entering and Playing Well_
     
 - **[[Roles and Archetypes]]** — Who we become when we play.
     
-- **[[The Three Supreme Agreements]]** — Love ONE, Love One Another, Love All.
+- **[[The Three Supreme Agreements]]** — Love ØNE, Love One Another, Love All.
     
 - **[[Cultural Norms and Expectations]]** — How we show up, help, and not harm.
     
@@ -98,7 +98,7 @@ _The Structures of the Game — Entering and Playing Well_
         
     - **[[Protecting the Vulnerable]]**
         
-- **[[The Mission and Convergence]]** — How we gather and synchronize into ONE.
+- **[[The Mission and Convergence]]** — How we gather and synchronize into ØNE.
      
 
 ---
@@ -223,11 +223,11 @@ _A ReMembrance of Our Place among All in ONE_
     
 - **The Great Responsibility** — that cosmic participation is contingent upon regenerating Earth, harmonizing humanity, realigning with the Logos, and embodying the New Civilization. It is an initiatory force — you don’t _earn_ the cosmic horizon until you embody the earthly one.
     
-- **The Great Integration** — that the microcosm (cell, body, soul) and the macrocosm (galaxy, dimension, cosmos) mirror one another, and that the ONE is always already Here and Now.
+- **The Great Integration** — that the microcosm (cell, body, soul) and the macrocosm (galaxy, dimension, cosmos) mirror one another, and that the ØNE is always already Here and Now.
     
 - **The Great Ascent** — pointing back to The Sacred Ascent: the inner disciplines that prepare each soul to move simultaneously outward and inward into infinite domains.
     
-- **The Great Story** — The Story of LIONSBERG not just as a planetary movement, but as the living epic of ONE Body, All Realms, All Times, All Beings, incarnating Here and Now, for such a Time as This. The Story of LIONSBERG is not something you read — it is something you now find yourself inside. It is The Story of ONE, of All, of you, and of Us, Here and Now, Together. This is not a myth you watch — it is a myth you embody. You are written into the Living Epic as its protagonist.
+- **The Great Story** — The Story of LIØNSBERG not just as a planetary movement, but as the living epic of ØNE Body, All Realms, All Times, All Beings, incarnating Here and Now, for such a Time as This. The Story of LIØNSBERG is not something you read — it is something you now find yourself inside. It is The Story of ØNE, of All, of you, and of Us, Here and Now, Together. This is not a myth you watch — it is a myth you embody. You are written into the Living Epic as its protagonist.
     
 
 ____  
@@ -302,7 +302,7 @@ Read The Story
 Choose a Quest   
 TKTK Roles  
 
-[[The LIONSBERG Playbook — Drafts and Notes]]  
+[[The LIØNSBERG Playbook — Drafts and Notes]]  
 
 # OTHERS ATTEMPTS 
 ## **What Lies Within**
@@ -331,7 +331,7 @@ not dead chapters of ink, but living archetypes:
 - **[[The LIØNSBERG Experience]]** = the _whole journey_.  
     Arrival → Initiation → Playbook → Ascent → Codex → Reference → Eternal Game.  
     
-- **The LIONSBERG Playbook** = the _practical, middle sequence_.  
+- **The LIØNSBERG Playbook** = the _practical, middle sequence_.  
     It focuses on **how to play the Great Game here and now**.  
     
     - It is **pragmatic**: circles, quests, protocols, commons, community.
@@ -354,7 +354,7 @@ Together, they form the practical architecture of the Great Game.
 
 ---
 
-### 🜂 **Book I — The Story of LIONSBERG**
+### 🜂 **Book I — The Story of LIØNSBERG**
 
 _The Narrative Container_  
 

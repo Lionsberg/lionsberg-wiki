@@ -33,7 +33,7 @@ The same discipline holds throughout: every Volume, every Card, every page that 
 ## Naming Convention
 
 - **Pattern Cards** carry name-based filenames: `Form A Circle.md`, `Spirit Precedes Pattern.md`, `Holofractal Omnifederation.md`. No numbering.
-- **Pattern Cards live in** `LIONSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/`
+- **Pattern Cards live in** `LIØNSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/`
 - **Plays** in the Playbook use the `Play — Title.md` convention with em-dash separator: `Play — Create Or Join A Circle.md`, `Play — Run A Meeting.md`. The `Play —` prefix is self-describing and prevents duplicate-filename conflict with the same-named Pattern Card.
 - Same name can appear as both a Pattern and a (simple) Play — the Pattern holds the wisdom; the Play of the same name is the simplest riff that invokes just that Pattern.
 
@@ -238,7 +238,7 @@ _The canonical Patterns at Circle and individual scale. The wisdom-units that co
 - [[Dialogos, SenseMaking, and OmniSpection]] — the contemplative infrastructure that keeps the living Body conscious and adaptive
 - [[Seasonal OmniSpection]] — pause at every solstice and equinox to see from above, celebrate, and renew
 - [[Continuously Improve Everything]] — the sacred discipline of making everything closer to Heaven with every cycle
-- [[Co-Create LIONSBERG Learning Institutions]] — education as transformation; the slow, steady rain that liberates a soul
+- [[Co-Create LIØNSBERG Learning Institutions]] — education as transformation; the slow, steady rain that liberates a soul
 
 **Federation and Scaling**
 
@@ -297,7 +297,7 @@ Consent-based authority. [[Wise Eldership]]. Holofractal subsidiarity. [[The Two
 
 _How value circulates without extraction._
 
-[[LUV]] (LIONSBERG Units of Value). The Commons. Capital subordinate to purpose. The Jubilee Cycles. Contribution accounting. Mutual credit. Regenerative resource stewardship. The patterns by which abundance flows toward the work and life is provisioned without harm.
+[[LUV]] (LIØNSBERG Units of Value). The Commons. Capital subordinate to purpose. The Jubilee Cycles. Contribution accounting. Mutual credit. Regenerative resource stewardship. The patterns by which abundance flows toward the work and life is provisioned without harm.
 
 ### Pillar IV — Sacred Learning and Mastery
 
@@ -634,7 +634,7 @@ Each Pattern Card also carries this list locally (the **Plays That Invoke This P
 | [[The Noah Plan]] | • [[Play — Build An Ark]] |
 | [[The Solomon Plan]] | • [[Play — Construct Wisdom Systems]] |
 | [[The Living Library]] | • [[Play — Construct Wisdom Systems]] |
-| [[Truth To ONE, Errors To Us]] | • [[Play — Continuously Improve Everything]] |
+| [[Truth To ØNE, Errors To Us]] | • [[Play — Continuously Improve Everything]] |
 
 ---
 

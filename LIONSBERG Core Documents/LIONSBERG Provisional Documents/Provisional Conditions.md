@@ -34,7 +34,7 @@ While we recognize that what is trying to emerge is universal in scope, we also 
 - [[One Sentence]]  - Sums up the entire System / Platform / Community in one sentence  
 - [[Welcome to LIØNSBERG]]  
 - [[Lionsberg Intention]] - The Intention  
-- [[LIONSBERG Goal]] - The Aim
+- [[LIØNSBERG Goal]] - The Aim
 - [[Core Values]] - Briefly outlines the foundation in universal / core Values  
 - [[Lionsberg Vision]] - Briefly paints a picture of the outcome  
 - [[Lionsberg Mission]] - Briefly explains what we do to realize the vision / intention / Goal  
@@ -58,7 +58,7 @@ We have instantiated an innovative hybrid legal and governance structure capable
 The Lionsberg | Meta Project is rooted in the balance of both [[Being]] in [[Community]], and [[Doing]] in an effective way through the [[LIØNSBERG System]]  
 
 - [[LIØNSBERG System]]  
-- [[LIONSBERG Integrated Delivery System]]  
+- [[LIØNSBERG Integrated Delivery System]]  
 - [[Lionsberg Integrated Delivery Guide]]  
 
 

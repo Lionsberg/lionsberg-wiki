@@ -1,9 +1,9 @@
-# LIONSBERG Declaration of InterDependence
+# LIØNSBERG Declaration of InterDependence
 
 
 ## Current Version 
 
-[[LIONSBERG Declaration of Interdependence (v.01)]]  
+[[LIØNSBERG Declaration of Interdependence (v.01)]]  
 
 ## Previous Versions
 

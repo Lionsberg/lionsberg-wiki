@@ -2,97 +2,97 @@
 
 The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
 
-***The Lionsberg Handbook is in the process of migrating its pieces into [[The LIONSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.***
+***The Lionsberg Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.***
 
 ## Welcome 
 
-*Migrated to [[The LIONSBERG Way]]*
+*Migrated to [[The LIØNSBERG Way]]*
 
 ## The Story 
 
-*Migrated to [[The LIONSBERG Way]]*
+*Migrated to [[The LIØNSBERG Way]]*
 ## The Context 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The Solution 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The Structure 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The System 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The Strategy
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The Plan 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## Your Starting Point and Role 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 
 ## The Playbook 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ### A Vision Of A More Perfect World  
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ### Aiming At The Goal 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ### Progressing Towards The Goal
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ### Universal Principles and Values 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## Levels of Abstraction 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## A Comprehensive System of Systems 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 ## The Lionsberg System of Self-Governance 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 #### Organization, Federation, and Co-Operation 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 #### Roles 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 #### Proposals and Quests 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 #### Meetings 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 #### Decision Making  
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 #### Rights and Responsibilities 
 
-*Migrated to [[The LIONSBERG Way]]*  
+*Migrated to [[The LIØNSBERG Way]]*  
 
 #### Wisdom 
 
@@ -156,7 +156,7 @@ The [[Lionsberg System of Work]]
 
 The [[LIØNSBERG System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
-[[LIONSBERG Integrated Delivery System]]  
+[[LIØNSBERG Integrated Delivery System]]  
 [[Projects]]  
 [[Program]]  
 [[Everything Is A Project]]  
@@ -254,7 +254,7 @@ Wisdom Flow
 [[Target Value Design (TVD)]]  
 [[The Economic Case For IPD]]  
 [[Work]]  
-[[LIONSBERG Integrated Delivery System]]  
+[[LIØNSBERG Integrated Delivery System]]  
 [[Value]]  
 [[Waste]]  
 [[Lionsberg Integrated Delivery System Warning]]  
@@ -275,7 +275,7 @@ Wisdom Flow
 [[Meta Community Framework]]  
 [[Embodying The Abstract]]  
 [[The Myth Of Lionsberg]]  
-A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [[ReProcessing the LIONSBERG Wiki]]  
+A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [[ReProcessing the LIØNSBERG Wiki]]  
 [[New Language]]  
 [[The Lionsberg Critical Path]]  
 [[The Lionsberg System And Structure]]  
@@ -289,7 +289,7 @@ A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [
 [[The Charge Of The Receiver]]  
 [[The Sovereignty Of The Receiver]]  
 [[Co-Creating The New World]]  
-A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProcessing the LIONSBERG Wiki]]  
+A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProcessing the LIØNSBERG Wiki]]  
 [[Mission Control]]  
 [[Meta Fund]]  
 [[Proposed Systems, Facilities, Services, and Infrastructure]]  
@@ -335,7 +335,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 
 1. The [[Lionsberg System of Governance]]  
-2. The [[LIONSBERG Integrated Delivery System]]  
+2. The [[LIØNSBERG Integrated Delivery System]]  
 3. The [[Lionsberg System of Work]]  
 4. The [[Lionsberg Economic System]]  
 5. The [[Lionsberg System of Culture and Community]] 
@@ -349,7 +349,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 13. The [[Lionsberg Integrated Wellbeing and Development System]]  
 14. The [[Lionsberg House of Wisdom]]    
 15. The [[Lionsberg House of Culture]]  
-16. The [[LIONSBERG Academy]]  
+16. The [[LIØNSBERG Academy]]  
 17. The [[Lionsberg Outreach and Broadcast System]] 
 18. The [[Lionsberg Integrated Wellbeing and Development System]]  
 19. The [[Human System Living System Interface]]
@@ -407,7 +407,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Process 
 
-[[LIONSBERG Process]]  
+[[LIØNSBERG Process]]  
 
 ## The Lionsberg Way
 
@@ -526,7 +526,7 @@ We will navigate together by continuously improving the [[Lionsberg Navigation S
 
 ## The Lionsberg Integrated Delivery System 
 
-We will progressively implement the [[LIONSBERG Integrated Delivery System]] to stack up, align, and resource [[Throughput]] of [[The Goal]]. 
+We will progressively implement the [[LIØNSBERG Integrated Delivery System]] to stack up, align, and resource [[Throughput]] of [[The Goal]]. 
 
 The Lionsberg Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
 

@@ -23,7 +23,7 @@ This is fullness beyond language.
 A fullness that can only be felt  
 in the Deep and Quiet Center.  
 
-Where the ONE Voice once seemed faint and fleeting,  
+Where the ØNE Voice once seemed faint and fleeting,  
 now the Soul begins to ReSense its eternal presence—  
 like a River of Life that has always flowed beneath The Ruins,  
 waiting only for the Old debris to be cleared.  
@@ -62,7 +62,7 @@ Not "out there".
 But WithIn.  
 
 It is the still, luminous Core  
-where Spirit and Form meet as One in ONE.  
+where Spirit and Form meet as One in ØNE.  
 Where Logos speaks not in syllables—  
 but in symmetry, sensation, synchronicity,  
 and most of all, Silence.  
@@ -72,7 +72,7 @@ It is not to strive.
 It is not to exert.  
 It is not to attempt.  
 It is to ReMember where Stillness always Is.  
-It is to ReDiscover the Phi Line that leads back to the ONE.  
+It is to ReDiscover the Phi Line that leads back to the ØNE.  
 To ReTurn WithIn to what never left.  
 To come back to Rest in the Divine Heart of Reality.  
 
@@ -91,7 +91,7 @@ There is only Presence.
 There is only Being.  
 There is only Flow.  
 
-There is only spontaneous Right Action Flowing from The Heart, Spirit, and Center of the ONE.  
+There is only spontaneous Right Action Flowing from The Heart, Spirit, and Center of the ØNE.  
 
 To ReQuiet is to dethrone the tyranny of reaction.  
 To cease bouncing between distractions and demands.  
@@ -142,8 +142,8 @@ or a drop of water
 or your own hand  
 with Absolute Awareness.  
 
-The moment you turn toward the ONE—  
-the ONE rushes to meet you.  
+The moment you turn toward the ØNE—  
+the ØNE rushes to meet you.  
 
 Suddenly, every bush is burning,  
 every blade is speaking,  
@@ -155,7 +155,7 @@ Every movement becomes music
 in the Divine Symphony of Our InterBecoming.  
 
 We have ReMembered that We All  
-are aspects of the ONE.  
+are aspects of the ØNE.  
 
 ---
 
@@ -206,7 +206,7 @@ Not from frenzy.
 
 But from an unshakable interior Knowing  
 that flows directly from the Source.  
-From the Spirit and Authority of the ONE.  
+From the Spirit and Authority of the ØNE.  
 
 You begin to make decisions  
 without mental torment.  
@@ -233,7 +233,7 @@ without being _of_ its distortions.
 You carry the Stillness into the storm.  
 You carry the Presence into the noise.  
 You carry the Sanctuary into the marketplace.  
-You carry the ONE into the All.  
+You carry the ØNE into the All.  
 
 And slowly,  
 without forcing,  
@@ -256,7 +256,7 @@ wherever it Flows.
 > eliminating the False Self,  
 > and channeling ever more  
 > of the Ultimately Intoxicating Flow  
-> of the ONE._  
+> of the ØNE._  
 
 
 ---
@@ -315,7 +315,7 @@ Let It speak the Next Word.
 Let It write the Next Chapter.  
 Let It awaken the Next World.  
 
-The ONE is here.  
+The ØNE is here.  
 Within.  
 Around.  
 In you.  

@@ -61,7 +61,7 @@ _Curated wisdom drops. The quotable canon._
 
 A continuously growing collection of canonical quotations — concentrated sentences that carry weight enough to be read aloud in Circles, written on walls, returned to in stillness. Companion to the prophetic voice of [[The Book of LIØNSBERG]] and the cosmic register of [[The Story of LIØNSBERG]]. The Library's compression of the Way into pointed lines.
 
-### 6. [[The LIONSBERG Book of Emotions|The Lionsberg Book of Emotions]]
+### 6. [[The LIØNSBERG Book of Emotions|The Lionsberg Book of Emotions]]
 
 _Emotional integration. Companion to the Sacred Ascent and the Daily Way._
 
@@ -73,7 +73,7 @@ _Teaching stories. Companion to the prophetic narrative._
 
 A growing collection of parables in the LIØNSBERG voice — short narrative-form teachings that carry the Pattern in story rather than in proposition. Companion to [[The Book of LIØNSBERG]] (the integrated prophetic narrative) and to [[The Story of LIØNSBERG]] (the cosmic Story). Where the Volumes teach by articulation, the Parables teach by example.
 
-### 8. [[The LIONSBERG System of Values|The Lionsberg System of Values]]
+### 8. [[The LIØNSBERG System of Values|The Lionsberg System of Values]]
 
 _The named field of canonical values._
 

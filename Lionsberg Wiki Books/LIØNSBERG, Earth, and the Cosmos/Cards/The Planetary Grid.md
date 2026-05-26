@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, hub-network, fibonacci, planetary, architecture, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 + The Lionsberg Strategy and Plan of Action
+source: Phase 2.1 audit of LIØNSBERG 101 + The Lionsberg Strategy and Plan of Action
 captured: 2026-05-19
 ---
 

@@ -38,7 +38,7 @@ _____
 
 Yet, within this profound darkness lies the Divine Seed of an extraordinary **Light**, a rare and precious **opportunity** to co-create within a single generation a **New and Enlightened Civilization**, born—not from corruption, exploitation, and fear—but, for the first time in history, from radical Truth, Authenticity, Wisdom, Justice, and Unconditional Love.
 
-With absolute devotion and lifetimes of careful preparation, We have crafted a transcendent platform—a practical, **protective ark** and **sacred bridge** designed to guide Us safely Together beyond the collapsing Old World and into a radiant New Civilization. Its name is **LIONSBERG**.
+With absolute devotion and lifetimes of careful preparation, We have crafted a transcendent platform—a practical, **protective ark** and **sacred bridge** designed to guide Us safely Together beyond the collapsing Old World and into a radiant New Civilization. Its name is **LIØNSBERG**.
 
 **No one owns Lionsberg.**  
 **It is an archetypal blueprint.**  

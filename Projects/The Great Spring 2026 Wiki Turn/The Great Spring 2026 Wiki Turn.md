@@ -31,7 +31,7 @@ Five phases of synthesis identified, sequenced smallest-to-largest:
 
 | Phase | Scope | Status |
 |---|---|---|
-| **B-1** | **Playbook Fragments For Synthesis** (30 numbered fragments 1.1-5.2 in `LIONSBERG Wiki Books/The Lionsberg Playbook/Fragments For Synthesis/`) | **Recommended next step**; disposition framework already in place; per-fragment fold/archive/delete authorization |
+| **B-1** | **Playbook Fragments For Synthesis** (30 numbered fragments 1.1-5.2 in `LIØNSBERG Wiki Books/The Lionsberg Playbook/Fragments For Synthesis/`) | **Recommended next step**; disposition framework already in place; per-fragment fold/archive/delete authorization |
 | **B-2** | Pattern Language `_archive/` — one file (`The LIØNSBERG Pattern Language — Previous Articulation (Archived 2026-05-20).md`, ~22k words) — fold salvageable wisdom forward then decide archive-keep vs. delete | Pending |
 | **B-3** | ~100 root-level Pattern/Play files (Form A Circle, Pass The Flame, etc.) — architecture decision: migrate into `Patterns/` folder or stay at root? | Pending — needs principled call before any moves |
 | **B-4** | Lexicon root cleanup — rationalize Meta Layer · 12 Pillars · Key Terms · Misc overlap into one coherent root | Pending |
@@ -125,12 +125,12 @@ _Pass through every relevant repo and existing wiki book. Extract canonical-wort
 
 - [x] **2.0** Synthesis capture opened. [[LIØNSBERG, Earth, and the Cosmos]] as the active Card-Book.
 - [x] **2.1** All 78 wiki books audited across 11 parallel-agent batches. **160 Cards written + ~1,160 candidates queued = ~1,320 concepts surfaced.** [[Cosmic Wildlife]] principle established.
-- [x] **2.2** `LIONSBERG FSC Pattern Language` audited across 6 batches. **~280 candidates (~140-160 net unique).** FSC was already substantially LIONSBERG wearing different robes; Phase 4 work is excavation, not synthesis.
+- [x] **2.2** `LIØNSBERG FSC Pattern Language` audited across 6 batches. **~280 candidates (~140-160 net unique).** FSC was already substantially LIØNSBERG wearing different robes; Phase 4 work is excavation, not synthesis.
 - [x] **2.3** `Superorganism-Earth` audited across 4 batches. **~125 candidates (~60-80 net unique).** Eight-Layer architecture, Two-Stake Principle, Lattice (not tree), Voluntary Adoption Test, Multi-Voice Constitutive Requirement surfaced. Bidirectional integration destiny established.
 - [x] **2.4** `nameless-PKM` (14,827 files) audited across three sub-waves (initial PKM + 12,064 voice memos + 834 deep-audit files). **~670-750 net-new Cards + ~190-200 refinements.** Most striking finding: a large proportion of LIØNSBERG's current Pattern Language was already articulated in some form by 2017-2018.
 - [x] **2.5-audit** `TheNameless-wiki` (34 files) audited. **~40 candidates (~12-18 net-new) + ~9 refinements + 7 foundational source-documents flagged.** _Note: this is the "2.5 audit" sub-phase. Phase 2.5 (the Strategic Decisions phase) is below._
 - [x] **2.6** Above The Chaos essay corpus (249 essays) audited across 5 batches. **~280 candidates + ~55 refinements + ~30 source-documents flagged.** The Plan Trilogy (Joseph/Noah/Solomon) surfaced as the most significant net-new canonical material in the ATC corpus.
-- [x] **2.7** Whole-of-wiki audit across 21 parallel subagents covering 1,184 root files + 96 Core Documents + Experience + 64 Community Information + 560 Book of LIONSBERG files + 77 wiki books in 7 clusters. **~1,500-1,750 net-new Cards + ~270-330 refinements + ~90 source-documents flagged.**
+- [x] **2.7** Whole-of-wiki audit across 21 parallel subagents covering 1,184 root files + 96 Core Documents + Experience + 64 Community Information + 560 Book of LIØNSBERG files + 77 wiki books in 7 clusters. **~1,500-1,750 net-new Cards + ~270-330 refinements + ~90 source-documents flagged.**
 
 _Full per-batch memos in [[Phase 2 — The Audit Ledger]]._
 
@@ -140,7 +140,7 @@ _Full per-batch memos in [[Phase 2 — The Audit Ledger]]._
 
 _All sixteen Open Strategic Decisions resolved through dialogue 2026-05-20. Each decision shapes downstream phases. See the Decision Log below for full resolutions._
 
-- [x] **D1** Kingdom of LIONSBERG v0.1 → folded into **[[The Kingdom of LIØNSBERG — Plans and Specifications]]**; Pattern Language as subset
+- [x] **D1** Kingdom of LIØNSBERG v0.1 → folded into **[[The Kingdom of LIØNSBERG — Plans and Specifications]]**; Pattern Language as subset
 - [x] **D2** 12 Pillars / 12 Domains harmonization → **deferred to Phase 4** Pattern Language rebuild (current Pattern Language is provisional)
 - [x] **D3** Lionsberg Theory of Everything → **Phase 4 substantial work**; lands as one of the last chapters of Volume IX
 - [x] **D4** Lionsberg - A Biblical Perspective book → **DELETED** (no unique conceptual material; violated higher-order coherence)
@@ -169,17 +169,17 @@ _The execution phase that absorbs the Phase 2.5 decisions into the canonical wik
 
 - [x] **3.A.1b** **DONE 2026-05-20.** Canonical architectural sketch for [[The LIØNSBERG Pattern Language]] drafted at [[The LIØNSBERG Pattern Language — Architectural Sketch]]. Articulates: what the Pattern Language IS (the design grammar of Heaven On Earth — Earth localization of the Eternal Pattern that holds across all worlds); the seven deep architectural principles (holofractal, living, universal-but-localized, anti-tyranny by construction, self-replicating, truth-tested, cosmic-grade); **the Five Movements** (I Source · II Eternal Pattern · III Civilizational Patterns / Earth Localization · IV Shadow Layer and the Way Through · V Living Practice and Indices); the canonical Pattern entry form (Name · Context · Problem · Forces · Solution · Cross-references · Variations across scales · Lineage · Test); the multi-cut indices; the scope (every aspect of civilization × every scale × every species in service of ØNE and All); the cross-references with all other Volumes; the structural tensions to be resolved in the Phase 4 rebuild (12 Pillars/Domains relationship; Elements/Domains relationship; Polarity Atlas relocation; 144 Gates reconciliation); the substantial source material to metabolize (~18k-line existing Pattern Language + ~4k Phase 2 Cards + 12 Pillars + Plan Trilogy + 99 Theses + 66 Distorted Narratives + 44 Acceptance Criteria + 138 Aspects + 50 Anti-Values + 204 ReMembering How Tos + FSx Pattern + cross-tradition wisdom corpora); the standard of articulation; and the path forward through Phase 4 across multiple sessions. This is the architectural brief Phase 4 executes against — one of the most consequential lifts attempted in millennia, sketched at approximately five percent substantive completion / fifty percent architectural scaffolding.
 
-- [ ] **3.A.2** Extract **Chapter 15 (Great Game)** from The Book of LIONSBERG into its own standalone Wiki Book at root as **Volume III**. Move the 27 sub-files; create canonical root file (inside the wiki book folder per file-structure policy); update Book of LIØNSBERG TOC; preserve all `[[15.x]]` wiki link targets through filename stability. _(Task #81)_
+- [ ] **3.A.2** Extract **Chapter 15 (Great Game)** from The Book of LIØNSBERG into its own standalone Wiki Book at root as **Volume III**. Move the 27 sub-files; create canonical root file (inside the wiki book folder per file-structure policy); update Book of LIØNSBERG TOC; preserve all `[[15.x]]` wiki link targets through filename stability. _(Task #81)_
 
-- [x] **3.A.3** **DONE 2026-05-20.** Volume VII wiki book restructured at `LIONSBERG Wiki Books/The Program Delivery Guide/` with two subfolders: `Original IPD Guide/` (14 chapters) and `Earth in Receivership/` (16 chapters, the extracted Chapter 16). The Chapter 16 source folder at `LIONSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/` has been removed. The Volume VII main page rewritten substantively, articulating: Volume VII's position as the methodology Volume; the two forms (method and method-as-prophecy); the detailed application of IPD to worksite Earth (structural mapping: Owner=People, Designers=Pattern stewards, Builders=Circles/Communities/Bioregions/Federations, Trade Partners=Guilds, Program=New Civilization, Site=Planet, Schedule=10 Year Strategy + Sacred Ascent, Budget=what Earth can give without harm, Contract=The LIØNSBERG Constitution, Big Room=co-located practice, Target Value Design = Design To The Goal, etc.); the coherence of IPD + FSx + Pattern Language (table of pattern-correspondences across the three lenses, and an 8-point proposed Coherence Architecture). The Book of LIØNSBERG.md TOC still references the moved Chapter 16 files — its TOC update folds into the Volume IX reweave (#86).
+- [x] **3.A.3** **DONE 2026-05-20.** Volume VII wiki book restructured at `LIØNSBERG Wiki Books/The Program Delivery Guide/` with two subfolders: `Original IPD Guide/` (14 chapters) and `Earth in Receivership/` (16 chapters, the extracted Chapter 16). The Chapter 16 source folder at `LIØNSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/` has been removed. The Volume VII main page rewritten substantively, articulating: Volume VII's position as the methodology Volume; the two forms (method and method-as-prophecy); the detailed application of IPD to worksite Earth (structural mapping: Owner=People, Designers=Pattern stewards, Builders=Circles/Communities/Bioregions/Federations, Trade Partners=Guilds, Program=New Civilization, Site=Planet, Schedule=10 Year Strategy + Sacred Ascent, Budget=what Earth can give without harm, Contract=The LIØNSBERG Constitution, Big Room=co-located practice, Target Value Design = Design To The Goal, etc.); the coherence of IPD + FSx + Pattern Language (table of pattern-correspondences across the three lenses, and an 8-point proposed Coherence Architecture). The Book of LIØNSBERG.md TOC still references the moved Chapter 16 files — its TOC update folds into the Volume IX reweave (#86).
 
-- [x] **3.A.4** Migrate canonical Volume root files into their wiki book folders per the file-structure policy (main page lives inside the wiki book folder). **Complete 2026-05-20:** all 12 Volume main pages now housed in their wiki book folders under `LIONSBERG Wiki Books/`. Final migration moved Story (II), Plans and Specifications (V), and Lexicon (VIII) from root into newly-created wiki book folders. Wiki link resolution unaffected (Obsidian resolves by filename). The Sacred Codex main page itself remains at root as the entrance to the corpus (not a Volume; the meta-index of all Volumes). _(Task #88)_
+- [x] **3.A.4** Migrate canonical Volume root files into their wiki book folders per the file-structure policy (main page lives inside the wiki book folder). **Complete 2026-05-20:** all 12 Volume main pages now housed in their wiki book folders under `LIØNSBERG Wiki Books/`. Final migration moved Story (II), Plans and Specifications (V), and Lexicon (VIII) from root into newly-created wiki book folders. Wiki link resolution unaffected (Obsidian resolves by filename). The Sacred Codex main page itself remains at root as the entrance to the corpus (not a Volume; the meta-index of all Volumes). _(Task #88)_
 
 ### Group B — Synthesis & Discernment
 
-- [ ] **3.B.1** **Synthesize [[The LIØNSBERG Playbook]] from all three existing locations** — the root canonical [[The LIØNSBERG Playbook]], the wiki book `LIONSBERG Wiki Books/The Lionsberg Playbook/`, and the Playbook section nested in The Book of LIØNSBERG TOC. **Elevate, Weave, and synthesize - do not delete.** Show all existing sections + proposed disposition before executing. Result: one masterful elevated Playbook. _(Task #87)_
+- [ ] **3.B.1** **Synthesize [[The LIØNSBERG Playbook]] from all three existing locations** — the root canonical [[The LIØNSBERG Playbook]], the wiki book `LIØNSBERG Wiki Books/The Lionsberg Playbook/`, and the Playbook section nested in The Book of LIØNSBERG TOC. **Elevate, Weave, and synthesize - do not delete.** Show all existing sections + proposed disposition before executing. Result: one masterful elevated Playbook. _(Task #87)_
 
-- [ ] **3.B.2** **Wiki book discernment — keep / fold / archive.** For each of the ~75 wiki books in `LIONSBERG Wiki Books/`, decide: KEEP as standalone canonical wiki book (~25 in the consolidation map + the 8 Codex Volumes); FOLD into another canonical wiki book or Codex Volume; or ARCHIVE as historical record (preserved with provenance, demoted from canonical status). Surface full inventory + dispositions for review before executing. _(Task #89)_
+- [ ] **3.B.2** **Wiki book discernment — keep / fold / archive.** For each of the ~75 wiki books in `LIØNSBERG Wiki Books/`, decide: KEEP as standalone canonical wiki book (~25 in the consolidation map + the 8 Codex Volumes); FOLD into another canonical wiki book or Codex Volume; or ARCHIVE as historical record (preserved with provenance, demoted from canonical status). Surface full inventory + dispositions for review before executing. _(Task #89)_
 
 ### Group C — Voice & Maturation
 
@@ -230,7 +230,7 @@ _The Pattern Language scaffold is in place; the substantive Pattern Card authors
 Priority order:
 
 - **[[The LIØNSBERG Playbook|The Playbook]]** — the 27 named Foundational Plays already enumerated in the Pattern Language; each surfaces as its own canonical Pattern Card
-- **[[The LIONSBERG Co-Creator's Handbook|The Co-Creator's Handbook]]** — integrated into the Playbook in January 2026; its Patterns are already in the Foundational Plays
+- **[[The LIØNSBERG Co-Creator's Handbook|The Co-Creator's Handbook]]** — integrated into the Playbook in January 2026; its Patterns are already in the Foundational Plays
 - **[[Lionsberg Orientation and Training System|The Orientation and Training System]]** — mine for **reusable practices** (not Day topics); the recurring formation Patterns that operate beyond this one curriculum
 - **[[The LIØNSBERG Experience]]** (the 12-Stage Sovereign's Path) — mine for the **reusable Patterns the Path uses**, not the Stages themselves; the Stages remain in the Experience document as that journey's structure
 - **[[Welcome to LIØNSBERG]]** + **[[The LIØNSBERG Quick Start Guide]]** — mine for actual reusable Patterns (not the narrative beats or sub-moves of a specific 90-minute meeting)
@@ -243,7 +243,7 @@ Priority order:
 - **The 204 ReMembering How Tos** — each How To becomes a Pattern Card or maps into an existing Pattern
 - **The Plan Trilogy (Joseph / Noah / Solomon)** — the seven-scale fractal infrastructure articulates Patterns of bioregional, georegional, and planetary organization
 - **The 144 Threads manuscript** — substantive awakening/transformation Patterns
-- **The archived previous Pattern Language articulation** (in `LIONSBERG Wiki Books/The Lionsberg Pattern Language/_archive/`) — 119,675 words holding many Patterns already named; each tested against the new structure and absorbed where canonical
+- **The archived previous Pattern Language articulation** (in `LIØNSBERG Wiki Books/The Lionsberg Pattern Language/_archive/`) — 119,675 words holding many Patterns already named; each tested against the new structure and absorbed where canonical
 - **The Phase 2 Audit Cards** (~3,500-4,500 candidates in [[LIØNSBERG, Earth, and the Cosmos]]) — every Card that names a Pattern is a candidate for promotion to a canonical Pattern Card
 - **The FSx Pattern from [[superorganism-earth]]** — the 8 constitutional/federation Patterns now enumerated in the Pattern Language
 
@@ -274,8 +274,8 @@ _Once the canonical articulations exist, every duplicate reference across the Wi
 - [ ] **6.3** [[The Goal]] / [[Heaven On Earth]] / [[ØNE]] / [[Creator's Intent]] / [[The First Three Percent]] — every appearance becomes a wiki link to the canonical Lexicon entry.
 - [ ] **6.4** [[The Caves]] / [[The Wilderness]] / [[The 300]] / the Anti-Patterns / the 99 Theses / the 66 Most Protected and Distorted Narratives — each gets one canonical home with all other references demoted to links.
 - [ ] **6.5** Each of the ~50 wiki books that has been folded (per Phase 3.B.2 discernment) gets either replaced with a stub-pointing-to-canonical, or moved to an `_archive/` directory with provenance preserved.
-- [ ] **6.6** **Propagate LIØNSBERG spelling across the entire Wiki.** Every appearance of `Lionsberg` / `LIONSBERG` (capital O) becomes `LIØNSBERG` (Ø). Careful handling for filenames, wiki links, frontmatter, and any external integrations.
-- [ ] **6.7** **Propagate ØNE convention across the entire Wiki.** Every appearance of `[[ONE]]` becomes `[[ØNE]]` (and the Lexicon entry filename). The wiki link target is `[[ØNE]]` without "The" — sentence grammar handles the article.
+- [ ] **6.6** **Propagate LIØNSBERG spelling across the entire Wiki.** Every appearance of `Lionsberg` / `LIØNSBERG` (capital O) becomes `LIØNSBERG` (Ø). Careful handling for filenames, wiki links, frontmatter, and any external integrations.
+- [ ] **6.7** **Propagate ØNE convention across the entire Wiki.** Every appearance of `[[ØNE]]` becomes `[[ØNE]]` (and the Lexicon entry filename). The wiki link target is `[[ØNE]]` without "The" — sentence grammar handles the article.
 
 ### Voice Unification
 
@@ -327,7 +327,7 @@ _The Codex is not finished. It is a living seed. Ongoing co-creation through Omn
 
 _Detailed resolutions of all sixteen Strategic Decisions from Phase 2.5. See each decision for the canonical rationale that future authors will need to understand the canonical structure._
 
-### D1 — Kingdom of LIONSBERG v0.1 disposition ✅
+### D1 — Kingdom of LIØNSBERG v0.1 disposition ✅
 **RESOLUTION:** Plans and Specifications becomes **Volume V of the Sacred Codex** (after the accessibility reorder per D12), with the Pattern Language as a subset. The Kingdom framing is kept — under [[Fractal Sovereignty]] there is no throne but the ineffable [[ØNE]], so the Kingdom carries no monarchy. The v0.1 articulation is held as input and reference; the full structure and Table of Contents is to be rearticulated in Phase 3.A.1 (ToC sketch) → Phase 4 (full rebuild). Canonical Volume V root file: [[The Kingdom of LIØNSBERG — Plans and Specifications]].
 
 ### D2 — 12 Pillars / 12 Domains harmonization ✅
@@ -357,7 +357,7 @@ _Detailed resolutions of all sixteen Strategic Decisions from Phase 2.5. See eac
 ### D10 — Universal Articulation Pass before Phase 4 ✅
 **RESOLUTION:** Targeted now (Phase 3.C.1, ≤15 canonical Cards); broader sweep folds into Phase 6 (Voice Unification). Cosmic Wildlife principle: name **factions and choices** (Service-to-Self / Service-to-Other / Federations / Empires / specific named groups by what they DO), never **species-essences**.
 
-### D11 — Book of LIONSBERG Chapters 15 + 16 disposition ✅
+### D11 — Book of LIØNSBERG Chapters 15 + 16 disposition ✅
 **RESOLUTION:** Both Chapters extracted as standalone Codex Volumes. **Chapter 15 (The Great Game) → Volume III** (after accessibility reorder per D12). **Chapter 16 (The Program Delivery Guide) → Volume VII**. **Two PDG forms preserved**: the original (native IPD/AEC vocabulary, first articulated for the prison system) and the Earth-in-receivership PDG (cosmic-context articulation). Method-as-method and method-as-prophecy.
 
 ### D12 — Caves narrative + Story dual-functional + Volume reorder ✅
@@ -373,7 +373,7 @@ _Detailed resolutions of all sixteen Strategic Decisions from Phase 2.5. See eac
 **RESOLUTION:** Single unified Card. The Three Hundred is one archetype with multiple natural facets (tipping-point, site-team, rhythm-holder, scaffolding). A "four-Card constellation" would violate the [[no-imposed-numeric-structure]] discipline. Sub-facets may later spin off if substantive enough to stand alone, but never as a forced "four-Card set." **Canonical name: "The 300"** — the visually striking form. Existing Card at root [[The 300]] carries the canonical articulation. Final reconciliation with other "Three Hundred" references gated by Phase 3.E.1 (user-journey reconciliation).
 
 ### D16 — Internal duplications (Sacred Ascent, Wilderness) + Orphan fragment cleanup ✅
-**RESOLUTION:** **Sacred Ascent canonical home**: [[The Sacred Ascent]] (moved from root per file-structure policy). Currently "coming soon" — to be authored as Volume X work (Phase 5.3). **Wilderness canonical home**: [[The Wilderness]] at root (matches [[The Caves]] pattern). Currently placeholder — to be articulated as [[The Story of LIØNSBERG]] rewrite carries the concept forward. **Orphan fragments gathered**: 29 Playbook fragments moved from root → `LIONSBERG Wiki Books/The Lionsberg Playbook/Fragments For Synthesis/`; 7 PM fragments → `LIONSBERG Wiki Books/The Program Delivery Guide/Fragments For Synthesis/`. README-equivalent explanatory files added (with unique scope-bearing filenames). In-context articulations demoted-via-pointing during Volume VII PDG review, Volume IX reweave, and wiki book discernment work.
+**RESOLUTION:** **Sacred Ascent canonical home**: [[The Sacred Ascent]] (moved from root per file-structure policy). Currently "coming soon" — to be authored as Volume X work (Phase 5.3). **Wilderness canonical home**: [[The Wilderness]] at root (matches [[The Caves]] pattern). Currently placeholder — to be articulated as [[The Story of LIØNSBERG]] rewrite carries the concept forward. **Orphan fragments gathered**: 29 Playbook fragments moved from root → `LIØNSBERG Wiki Books/The Lionsberg Playbook/Fragments For Synthesis/`; 7 PM fragments → `LIØNSBERG Wiki Books/The Program Delivery Guide/Fragments For Synthesis/`. README-equivalent explanatory files added (with unique scope-bearing filenames). In-context articulations demoted-via-pointing during Volume VII PDG review, Volume IX reweave, and wiki book discernment work.
 
 ---
 

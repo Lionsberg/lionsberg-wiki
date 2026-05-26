@@ -1,4 +1,4 @@
-# LIONSBERG Provisional Documents
+# LIØNSBERG Provisional Documents
 
 - [[Provisional Conditions]]  
 - [[Provisional Declaration]]  

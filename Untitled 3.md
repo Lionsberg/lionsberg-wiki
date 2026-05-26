@@ -14,7 +14,7 @@ For those who have seen enough to understand that the existing order is collapsi
 ____
 Around 2017, many of us became aware of an emerging "meta crisis" that was anticipated to end in the systemic collapse of the existing order we were born into. 
 
-Towards this end, many lifetimes of thought, work, and solutions are converging. All the key puzzle pieces are present. All the requisite relationships lie within one degree. The great question is how we coordinate and weave the diverse many into ONE cohesive, coherent tapestry that actually works for all Earth's inhabitants.
+Towards this end, many lifetimes of thought, work, and solutions are converging. All the key puzzle pieces are present. All the requisite relationships lie within one degree. The great question is how we coordinate and weave the diverse many into ØNE cohesive, coherent tapestry that actually works for all Earth's inhabitants.
 
 ---
 
@@ -226,7 +226,7 @@ Independent researchers are developing approaches based on structural separation
 
 **Current** — a holofractal data architecture with 10+ years of development. Sovereign data spaces at every level — individual, Circle, community, bioregion, planetary grid. Tested in compliance-demanding contexts (FAA-compliant operations, university systems).
 
-**Open Impact** — built "API-up" on Current. SDK documentation underway. LIONSBERG funded the opening sprint (2021-2024) through the Open Future Coalition.
+**Open Impact** — built "API-up" on Current. SDK documentation underway. LIØNSBERG funded the opening sprint (2021-2024) through the Open Future Coalition.
 
 **CRDTs** (Conflict-Free Replicated Data Types) — each person edits on their own device, all copies eventually converge. Essential for offline-first operation. Leading implementations: Automerge, Yjs.
 
@@ -238,7 +238,7 @@ Independent researchers are developing approaches based on structural separation
 
 ### Coordination and Measurement
 
-**Open Impact** (built on Current) — serving 300+ organizations across 60+ countries. Individual, organization, and project profiles, measurable goals, progress reporting, resource matching, story sharing, federated network spaces. Built in alignment with the Pattern Language through LIONSBERG's collaboration with Open Future Coalition and Current.
+**Open Impact** (built on Current) — serving 300+ organizations across 60+ countries. Individual, organization, and project profiles, measurable goals, progress reporting, resource matching, story sharing, federated network spaces. Built in alignment with the Pattern Language through LIØNSBERG's collaboration with Open Future Coalition and Current.
 
 ---
 
@@ -256,7 +256,7 @@ AT Protocol/Atmosphere, Podcasting 2.0/RSS, IPFS. All decentralized or federable
 
 ### Economy and Stewardship
 
-**Cyclos** (mature open-source mutual credit). **Simple ledger** (a spreadsheet — how LETS systems operated for decades). **Open Money** (Michael Linton). **Grassroots Economics** and proof-points in Kenya. **LIONSBERG Units of Value (LUV)** enabled by The Great Game and Open Impact measurement paradigms.
+**Cyclos** (mature open-source mutual credit). **Simple ledger** (a spreadsheet — how LETS systems operated for decades). **Open Money** (Michael Linton). **Grassroots Economics** and proof-points in Kenya. **LIØNSBERG Units of Value (LUV)** enabled by The Great Game and Open Impact measurement paradigms.
 
 **Guidance needed:** Interoperability and flows between Circles, communities, bioregions. The bridge towards non-monetary federation economics.
 
@@ -264,7 +264,7 @@ AT Protocol/Atmosphere, Podcasting 2.0/RSS, IPFS. All decentralized or federable
 
 ### Legal and Governance
 
-LIONSBERG, the Hitchhiker's Guide IP holders, and other groups are forming a **Commons** — reflective of consensus patterns from Mondragon, ReGovern, Fair Shares Commons, and others. The first tens of millions of dollars of rights and intellectual work are expected to be placed into this Commons upon joint ratification. Every participant in the Game is invited to take up an equal voice and stake.
+LIØNSBERG, the Hitchhiker's Guide IP holders, and other groups are forming a **Commons** — reflective of consensus patterns from Mondragon, ReGovern, Fair Shares Commons, and others. The first tens of millions of dollars of rights and intellectual work are expected to be placed into this Commons upon joint ratification. Every participant in the Game is invited to take up an equal voice and stake.
 
 **Guidance needed:** Optimal legal interfaces across diverse jurisdictions. Strategy for interfacing with the Old while protecting sovereignty and bootstrapping the New.
 
@@ -284,7 +284,7 @@ The irreducible foundation upon which everything else rests. Enactable at any te
 
 Compatible patterns exist across many traditions — Mondragon, indigenous governance, commons-based resource management. The question is not which articulation is "right" but how they inform and strengthen each other.
 
-The **LIONSBERG Pattern Language** (lionsberg.wiki) is a reasonably comprehensive attempt to distill the essence of the divine blueprints into something immediately localizable and adaptable — ~3 million words across 4,400+ pages, plus a one-page Golden Seed distillation. 12 Elements of Cooperation, 7 Moves to the Game, the Story, the Lexicon, the Circle Guide, the Playbook, the Program Delivery Guide. Freely available and forkable online.
+The **LIØNSBERG Pattern Language** (lionsberg.wiki) is a reasonably comprehensive attempt to distill the essence of the divine blueprints into something immediately localizable and adaptable — ~3 million words across 4,400+ pages, plus a one-page Golden Seed distillation. 12 Elements of Cooperation, 7 Moves to the Game, the Story, the Lexicon, the Circle Guide, the Playbook, the Program Delivery Guide. Freely available and forkable online.
 
 A 12-week "101 Course" structuring onboarding into the Pattern Language and the Game launches March 21. Designed so that anyone completing it can form a Circle, choose a Quest, and pass the flame.
 

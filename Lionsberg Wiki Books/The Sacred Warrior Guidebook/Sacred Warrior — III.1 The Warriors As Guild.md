@@ -8,7 +8,7 @@ _The Warriors as one Guild of the LIØNSBERG Body. The Guild's internal architec
 
 A [[Guild]] in LIØNSBERG is a voluntary association of those who practice a shared craft or carry a shared calling. Guilds operate **horizontally** across every [[Levels of Scale|scale]] — from individual to planetary to cosmic — each holding its specific functional contribution to the [[ØNE Body|LIØNSBERG Body]].
 
-The Warriors are one Guild among approximately twelve archetypal Guilds corresponding to each of [[The 12 Pillars of LIONSBERG|the Twelve Pillars]]. The Healers Guild. The Teachers Guild. The Builders Guild. The Stewards Guild. The Storytellers Guild. The Midwives Guild. The Witnesses Guild. The Guardians Guild. The Cosmic Diplomats Guild. The Cooks Guild. The Architects Guild. The Warriors Guild.
+The Warriors are one Guild among approximately twelve archetypal Guilds corresponding to each of [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]]. The Healers Guild. The Teachers Guild. The Builders Guild. The Stewards Guild. The Storytellers Guild. The Midwives Guild. The Witnesses Guild. The Guardians Guild. The Cosmic Diplomats Guild. The Cooks Guild. The Architects Guild. The Warriors Guild.
 
 Each Guild is **sovereign within its craft**. The Warriors do not tell the Healers how to heal. The Healers do not tell the Warriors when to engage. Each Guild holds its specific function with its own training, its own lineage, its own protocols, its own Wisdom Council. Each is accountable to the wider Body for the contribution of its craft, and federates with the other Guilds in [[Right Relationship]].
 

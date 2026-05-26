@@ -110,7 +110,7 @@ Facets of [[ØNE]]. State and active practice paired where the active practice c
 - [[Freedom]] · [[Liberty]] · [[Liberation]]
 - [[Responsibility]] · [[Taking Responsibility]]
 
-The fuller corpus lives in [[The LIONSBERG System Of Values]].
+The fuller corpus lives in [[The LIØNSBERG System Of Values]].
 
 ## The Sovereign's Inner Architecture
 
@@ -229,8 +229,8 @@ Cross-cutting non-geographic scales: [[Guild]] · [[Tribe]] · [[Species]] · [[
 
 ## The Cooperative Architecture — Eight Elements
 
-1. **[[Shared Vision And Purpose]]** — ONE Goal.
-2. **[[Holofractal Omnifederation]]** — Circles of 3–13 nesting into Communities, Bioregions, Planetary Grid. No center but ONE. With: [[Federations vs Empires]] · [[Subsidiarity]] · [[The Two-Stake Principle]] · [[Holofractal Scaling]].
+1. **[[Shared Vision And Purpose]]** — ØNE Goal.
+2. **[[Holofractal Omnifederation]]** — Circles of 3–13 nesting into Communities, Bioregions, Planetary Grid. No center but ØNE. With: [[Federations vs Empires]] · [[Subsidiarity]] · [[The Two-Stake Principle]] · [[Holofractal Scaling]].
 3. **[[Field Of Agreements]]** — voluntary covenants; not imposed law. With: [[The Sacred Covenant]] · [[The Covenant Stack]] · [[Voluntary Covenant]] · [[Consent]] · [[Mutual Consent]] · [[Withdrawal Of Consent]].
 4. **[[Governance And Wise Eldership]]** — consent-based, two-coordinator. With: [[Servant Leadership]] · [[The Wisdom Council]] · [[Democratic Self-Governance]] · [[Consent-Based Decision-Making]] · [[Meaningful Objection]] · [[Range Of Tolerance]] · [[Recalling Authority]].
 5. **[[Economy And Stewardship]]** — capital serves life; compressed ratios; tithe to commons; proof-of-contribution. With: [[Capital Subordinate To Purpose]] · [[Compressed Pay Ratios]] · [[Voluntary Tithing]] · [[LUV]] · [[Sacred Economics]] · [[Jubilee]] · [[The Commons]] · [[Fractal Commonsing]] · [[Gift Economy]].
@@ -240,14 +240,14 @@ Cross-cutting non-geographic scales: [[Guild]] · [[Tribe]] · [[Species]] · [[
 
 ## The Production Architecture — Four Elements
 
-9. **[[Integrated Delivery]]** — dissolving walls between domains; concurrent design; functional organization treating all as ONE body. With: [[IPD]] · [[Lean Project Delivery]] · [[Cross-Functional Integration]].
+9. **[[Integrated Delivery]]** — dissolving walls between domains; concurrent design; functional organization treating all as ØNE body. With: [[IPD]] · [[Lean Project Delivery]] · [[Cross-Functional Integration]].
 10. **[[Design To The Goal]]** — budget is a design criterion; Target Quality cannot be lowered; cost flexes through innovation. With: [[Target Value Design]] · [[Choosing By Advantages]] · [[Set-Based Design]].
 11. **[[Networks Of Commitments]]** — SHOULD / CAN / WILL / DID cycle; pull planning; Percent Promises Kept; constraint cycling. With: [[Pull Planning]] · [[Last Planner System]] · [[Look-Ahead Planning]] · [[Make-Ready Process]] · [[Constraint Analysis And Removal]] · [[Reliable Promises]] · [[SHOULD-CAN-WILL-DID]] · [[Percent Promises Kept]] · [[The Weekly Reckoning]].
 12. **[[Continuous Learning And Improvement]]** — planning as learning engine; retrospectives; fractal feedback loops. With: [[Retrospectives]] · [[PDCA]] · [[First Run Studies]] · [[A3 Reports]] · [[Lessons Learned]] · [[Root Cause Analysis]] · [[The 5 Whys]] · [[Stop-Keep-Start]] · [[The Triadic Discipline]] (Fill / Improve / Remove) · [[Every Defect Is A Gift]].
 
 ## Story, Voice, Culture, Art
 
-- [[The Story Of LIONSBERG]]
+- [[The Story Of LIØNSBERG]]
 - [[Your Story]]
 - [[The True Myth]]
 - [[Forward-Looking Story]] · [[Backward-Looking Story]]

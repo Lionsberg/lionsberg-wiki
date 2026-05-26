@@ -1,4 +1,4 @@
-# LIONSBERG Process
+# LIØNSBERG Process
 
 Our process is to progressively connect and empower a community / network / federation of individuals, organizations, and communities to "pull" our total nested hierarchy of goals into reality.  
 

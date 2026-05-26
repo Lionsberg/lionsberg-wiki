@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, formation, three-year, timeline, citizenship, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 + The Lionsberg Strategy and Plan + Mondragon study
+source: Phase 2.1 audit of LIØNSBERG 101 + The Lionsberg Strategy and Plan + Mondragon study
 captured: 2026-05-19
 ---
 

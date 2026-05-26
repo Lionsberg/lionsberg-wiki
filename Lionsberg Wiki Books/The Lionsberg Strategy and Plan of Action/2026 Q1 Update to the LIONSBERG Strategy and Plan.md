@@ -1,4 +1,4 @@
-# 2026 Q1 Update to the LIONSBERG Strategy and Plan
+# 2026 Q1 Update to the LIØNSBERG Strategy and Plan
 _January 20, 2026_  
 _This update reflects the beginning of work with agentic ai and is therefore more comprehensive and less holistically wise than pure human. It is good enough._
 
@@ -11,11 +11,11 @@ _This update reflects the beginning of work with agentic ai and is therefore mor
 **Time Remaining to Critical Milestone:** 11 months until the end of 2026 deadline to reach [[The First Three Percent]] (~250 million awakened leaders self-organized into tens of millions of self-governing [[Circles]] / teams).
 
 **The Journey So Far:**  
-Seven years of intensive preparation (2017-2024) laid the foundations—articulating [[The Golden Seed]], accomplishing [[The Great UnVeiling]], designing the systems, building the [[LIONSBERG Pattern Language]], gathering tens of millions of dollars of value into [[The Commons]], and testing key infrastructure with hundreds of groups across dozens of nations.
+Seven years of intensive preparation (2017-2024) laid the foundations—articulating [[The Golden Seed]], accomplishing [[The Great UnVeiling]], designing the systems, building the [[LIØNSBERG Pattern Language]], gathering tens of millions of dollars of value into [[The Commons]], and testing key infrastructure with hundreds of groups across dozens of nations.
 
 By Summer 2024, political exploration into the possibility of salvaging existing institutions reached its conclusion: the American Experiment and Post World War II Order had failed and could not be saved. The Critical Path shifted entirely to the Tipping Point Strategy—co-creating a New Civilization before the Old collapses into chaos and tyranny by design.
 
-In August 2025, [[Jordan Nicholas Sukut]] (J)—the primary steward of LIONSBERG—died while completing [[The Great UnVeiling]], a work revealing [[The Greatest Fraud, Deception, and Existential Threat in History]]. All provisional structures dissolved. No central organization or accounts remained. This was necessary and not accidental.
+In August 2025, [[Jordan Nicholas Sukut]] (J)—the primary steward of LIØNSBERG—died while completing [[The Great UnVeiling]], a work revealing [[The Greatest Fraud, Deception, and Existential Threat in History]]. All provisional structures dissolved. No central organization or accounts remained. This was necessary and not accidental.
 
 **The New Reality:**  
 What began as several years of focused preparation and social experimentation led by J and allies is now becoming an entirely decentralized movement that must be carried forward by [[The Emerging Superorganism]] itself. Every person who awakens, every circle that forms, every quest undertaken—all are now acts of direct co-creation by the network, not directed by any center.
@@ -81,19 +81,19 @@ This clarification eliminates strategic questions about how and whether to work 
 ### B. Foundational Infrastructure Completed
 
 **The Wisdom Corpus:**  
-- ✅ ~2.5 million words of foundational literature articulated across [[LIONSBERG Wiki Books]]
+- ✅ ~2.5 million words of foundational literature articulated across [[LIØNSBERG Wiki Books]]
 - ✅ [[Welcome to LIØNSBERG]] - Essential guide showing the Way
 - ✅ [[The Story of LIØNSBERG]] - Cosmic context and true myth
 - ✅ [[The Great Game of LIØNSBERG]] - Cooperative real-world game of transformation
 - ✅ [[The LIØNSBERG Playbook]] - Practical guidance for circles, quests, embodiment
-- ✅ [[The 12 Pillars of LIONSBERG]] - Complete civilizational work breakdown structure
+- ✅ [[The 12 Pillars of LIØNSBERG]] - Complete civilizational work breakdown structure
 - ✅ [[The LIØNSBERG Pattern Language]] - Domain-independent patterns of success  
 - ✅ [[Lionsberg Wiki Books]] - Deep additional detail, philosophy, and frameworks   
 
 **The Entry Experience:**  
-- ✅ [[README]] as an entry into [[The Gates of LIONSBERG]] 
-- ✅ Clear pathway: README → Welcome to LIONSBERG → Story → Game → Playbook → Pass the Flame
-- ✅ Fibonacci-based spread pattern articulated (ONE → 1 → 2 → 3 → 5 → 8 → 13 → 144)
+- ✅ [[README]] as an entry into [[The Gates of LIØNSBERG]] 
+- ✅ Clear pathway: README → Welcome to LIØNSBERG → Story → Game → Playbook → Pass the Flame
+- ✅ Fibonacci-based spread pattern articulated (ØNE → 1 → 2 → 3 → 5 → 8 → 13 → 144)
 - ✅ [[The 300]] archetypal role defined (in every community of 10,000)
 
 **Operational Systems:**  
@@ -172,7 +172,7 @@ The following morning (August 10, 2025), the attacks reached their peak. J relea
 
 **The Dissolution of All Central Structures**
 
-Following J's death, the [[Provisional Structure]] that enabled LIONSBERG to emerge was vacated and dissolved. This meant:
+Following J's death, the [[Provisional Structure]] that enabled LIØNSBERG to emerge was vacated and dissolved. This meant:
 
 - **No central organization** remained
 - **No bank accounts or employees** to pay
@@ -180,7 +180,7 @@ Following J's death, the [[Provisional Structure]] that enabled LIONSBERG to eme
 - **No legal entities** to attack or co-opt
 - **No single point of failure** in the system
 
-All ties and connections to J or the Provisional Structure were closed. LIONSBERG became what it was always designed to be: a **free and open gift** to any individual, locality, species, or world that chooses to adopt it.
+All ties and connections to J or the Provisional Structure were closed. LIØNSBERG became what it was always designed to be: a **free and open gift** to any individual, locality, species, or world that chooses to adopt it.
 
 **Why This Matters Strategically**
 
@@ -283,7 +283,7 @@ Following Fibonacci pattern, each cycle invites the next:
 **Resource Flow Emergence:**  
 - Working capital: $10M → $100M range
 - Quarterly Quest resource flows begin
-- Joint Ventures form around each of [[The 12 Pillars of LIONSBERG]]
+- Joint Ventures form around each of [[The 12 Pillars of LIØNSBERG]]
 	- These were formerly described as "Citizen Led"... that language should be changed. 
 
 **By end Q2 2026:** Achieve Cycle 20-22 (~20,000-40,000 participants)
@@ -330,7 +330,7 @@ At 3% (~250 million leaders, ~50 million teams), the movement achieves:
 #### 1. The Single Link Strategy
 
 **The Mechanism:**  
-[[README]] (Entrance to **The Gates of LIONSBERG**) passed from person to person via single link.
+[[README]] (Entrance to **The Gates of LIØNSBERG**) passed from person to person via single link.
 
 **Why This Works:**  
 - One link contains entire entry and initiation experience
@@ -377,7 +377,7 @@ Per [[A Program to Play The Great Game]], the 2.5M word corpus can be:
 **Timeline:**  
 Phase 1 prototyping could begin Q1 2026, with MVP deployment by Q2-Q3 to assist the sprint.
 
-See also [[LIONSBERG Intelligence System]]. 
+See also [[LIØNSBERG Intelligence System]]. 
 
 #### 4. Stories of Transformation as Fuel
 
@@ -432,7 +432,7 @@ Rapid growth could dilute transformation depth.
 - [[The LIØNSBERG Pattern Language]] provides common framework
 - Computational tools ([[A Program to Play The Great Game]]) enable coordination beyond human capacity
 - [[The 300]] in each community of 10,000 provide local leadership grid  
-- The [[System Wide Master Planning Process]] and [[LIONSBERG Integrated Delivery System]] should be brought online as soon as possible  
+- The [[System Wide Master Planning Process]] and [[LIØNSBERG Integrated Delivery System]] should be brought online as soon as possible  
 
 ### Challenge 4: Resource Constraints
 
@@ -497,7 +497,7 @@ Existing power structures will resist transformation of this magnitude.
 1. **README Transformation**
    - Evolved from informational to invitational and initiatory  
    - Increased resonance with The First Three Percent
-   - Now functions as The Gates of LIONSBERG—true threshold experience
+   - Now functions as The Gates of LIØNSBERG—true threshold experience
 
 2. **Voice and Tone Standards**
    - Definitive not tentative
@@ -541,7 +541,7 @@ Existing power structures will resist transformation of this magnitude.
 - System Wide Master Planning Groups coordinating across bioregions
 - First General Assembly convened
 - Platform making movement visible to itself operational
-- Joint Ventures addressing each of [[The 12 Pillars of LIONSBERG]]
+- Joint Ventures addressing each of [[The 12 Pillars of LIØNSBERG]]
 - First Instantiation Hubs planned and resourced
 
 **Strategic Position:**  
@@ -580,7 +580,7 @@ Existing power structures will resist transformation of this magnitude.
 Do you sense something is profoundly wrong? Do you see the Old systems collapsing? Do you feel the urgency but struggle to know where to begin?
 
 **The Answer:**  
-[[README]] - The Gates of LIONSBERG await. Click the link. Read with a few others. Begin playing. The entire pathway is clear from there.
+[[README]] - The Gates of LIØNSBERG await. Click the link. Read with a few others. Begin playing. The entire pathway is clear from there.
 
 **The Timeline:**  
 We have 10 months. Billions of lives hang in the balance. There could not possibly be more at stake.
@@ -633,8 +633,8 @@ _Next Scheduled Update: 2026 Q2 (April 2026)_
 - [[The 10 Year Grand Strategy]] - Overall timeline and phasing
 - [[The 7 Year Window of Crisis and Opportunity]] - Current phase (2024-2030)
 - [[The First Three Percent]] - Critical 3% milestone
-- [[The 12 Pillars of LIONSBERG]] - Civilizational work breakdown structure
-- [[README]] - The Gates of LIONSBERG (share this link)
+- [[The 12 Pillars of LIØNSBERG]] - Civilizational work breakdown structure
+- [[README]] - The Gates of LIØNSBERG (share this link)
 - [[Welcome to LIØNSBERG]] - Essential guide showing the Way
 - [[The Story of LIØNSBERG]] - Cosmic context
 - [[The Great Game of LIØNSBERG]] - How to play

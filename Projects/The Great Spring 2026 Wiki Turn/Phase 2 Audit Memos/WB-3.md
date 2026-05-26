@@ -28,7 +28,7 @@ Across the six books in this cluster, I read in full all top-level book index pa
 **What it is:** A small, finished, **high-canon mythic frame** for the LIØNSBERG narrative universe. This is the most universally articulated of the six books and the strongest cosmic-mythic register in the cluster.
 - _Introduction_ — frames Chronicles as Living Symphony / Story of Stories / invitation to weave one's own thread
 - _The Sacred Flame_ — the kindling, passing, mapping, and first global lighting of the Flame
-- _The Birth of The Eternal Citadel_ — primordial cosmology: ONE breathes, kindles the Citadel, descends to Earth as Golden Seed
+- _The Birth of The Eternal Citadel_ — primordial cosmology: ØNE breathes, kindles the Citadel, descends to Earth as Golden Seed
 - _The Story of the Cosmic Stone_ — Stone Soup as parable of unity, abundance, and the Stranger as Bearer of the Flame
 - _The Path of The First Flames_ — the fellowship of the First Few who become the First Three Percent
 
@@ -44,13 +44,13 @@ This book introduces 7 of the 7-Move loop motifs in mythic-allegorical form. It 
 
 ### 4. Threads of Eternity (1 file)
 
-**What it is:** A **project manifesto** for a future-promised series of sacred-text reweavings, beginning with the Tao Te Ching. The Threads_of_Eternity.md is a one-page mission statement only — the actual work has not been done. The Tao Te Ching commentary exists as a separate book at /LIONSBERG Wiki Books/Tao Te Ching/.
+**What it is:** A **project manifesto** for a future-promised series of sacred-text reweavings, beginning with the Tao Te Ching. The Threads_of_Eternity.md is a one-page mission statement only — the actual work has not been done. The Tao Te Ching commentary exists as a separate book at /LIØNSBERG Wiki Books/Tao Te Ching/.
 
 **Status:** Promise without delivery, except for one branch (Tao Te Ching) that lives elsewhere. As a standalone book, it is essentially an unfilled commitment.
 
 ### 5. The Myth of Lionsberg (1 file)
 
-**What it is:** A **truncated, unfinished cosmological treatise** with section headers laid out (Genesis, Universe, SpatioTemporal Structure, Metaphysical Realm, Earth, Living System, Humanity, Consciousness) but only the first 4-5 substantively drafted. Written in plain-prose meta-scientific voice — distinct from any other book in the cluster. Reads like the seed of a "LIONSBERG Theory of Everything" (a phrase actually used inside Cosmic Chronicles).
+**What it is:** A **truncated, unfinished cosmological treatise** with section headers laid out (Genesis, Universe, SpatioTemporal Structure, Metaphysical Realm, Earth, Living System, Humanity, Consciousness) but only the first 4-5 substantively drafted. Written in plain-prose meta-scientific voice — distinct from any other book in the cluster. Reads like the seed of a "LIØNSBERG Theory of Everything" (a phrase actually used inside Cosmic Chronicles).
 
 **Status:** Skeleton. Not delivered.
 
@@ -58,7 +58,7 @@ This book introduces 7 of the 7-Move loop motifs in mythic-allegorical form. It 
 
 **What it is:** A **finished 31-scene fictional allegory** (Genesis → Boundary built → Decline → Forces of Darkness → Xion's Awakening → Corrupt Priest / Corrupt Governor → Escape → Whisper Campaign → Day of Battle → Hidden Treasure → New World built → Bright Future). By Jordan Nicholas Sukut. Authored well before The Book of Lionsberg / The Caves.
 
-**Relationship to Genesis (Book of LIONSBERG Chapter 1):** This is **the proto-version of The Caves narrative**. The Boundary / Known Territory / Unknown Beyond / Gate of Knowledge / winged lions / the threshold-crosser / corrupt priest and governor / hidden treasure across the threshold — all of these are the mythic seedlings that later flowered into The Caves. Xion is the proto-Sovereign. Many specific images (the Spirit descending on Xion while the village trembles, the discovery of advanced suppressed knowledge across the Boundary, the people pleading for vengeance and the threshold-crosser staying their hand) are direct ancestors of Caves-canon scenes.
+**Relationship to Genesis (Book of LIØNSBERG Chapter 1):** This is **the proto-version of The Caves narrative**. The Boundary / Known Territory / Unknown Beyond / Gate of Knowledge / winged lions / the threshold-crosser / corrupt priest and governor / hidden treasure across the threshold — all of these are the mythic seedlings that later flowered into The Caves. Xion is the proto-Sovereign. Many specific images (the Spirit descending on Xion while the village trembles, the discovery of advanced suppressed knowledge across the Boundary, the people pleading for vengeance and the threshold-crosser staying their hand) are direct ancestors of Caves-canon scenes.
 
 Voice: third-person prose narrative, mythic-allegorical, mid-range — neither prophetic-staccato nor scholarly. Quality variable: some scenes are powerful (1 Inception, 12 Xion's Awakening, 28 Hidden Treasure), others slip into platitudes (30 New World in Harmony reads like a checklist).
 
@@ -177,7 +177,7 @@ This cluster is the **single most consolidation-ripe** cluster encountered so fa
 | Book | Status Recommendation | Rationale |
 |---|---|---|
 | **The Chronicles of Lionsberg** | **CANONICAL — keep, elevate, complete** | Highest-quality mythic register; finished; coherent; contains 4 foundational source-documents. Strong candidate to become or merge into the canonical Story-volume entry-frame. |
-| **The Dawn of the New World** | **Archive as historical-source / merge into Genesis** | Proto-Caves narrative, authored in earlier voice. Most of its imagery has been or should be absorbed into Book of LIONSBERG Chapter 1. Keep as historical-source-document but consider removing from active Wiki Books index. Cards extracted from scenes 1, 12, 28 carry the patterns forward. |
+| **The Dawn of the New World** | **Archive as historical-source / merge into Genesis** | Proto-Caves narrative, authored in earlier voice. Most of its imagery has been or should be absorbed into Book of LIØNSBERG Chapter 1. Keep as historical-source-document but consider removing from active Wiki Books index. Cards extracted from scenes 1, 12, 28 carry the patterns forward. |
 | **The Myth of Lionsberg** | **Archive — skeleton only** | One-page truncated skeleton. The Cosmic Chronicles "Integration and Transcendence" chapter has progressed further on the same project (a LIØNSBERG Theory of Everything). Either retire this stub or feed it into the Codex/meta-science work. |
 | **Threads of Eternity** | **Archive as project-intent OR re-home as Lexicon/Codex appendix** | One-page mission statement; the only delivered branch (Tao Te Ching) lives elsewhere. As a "book" it is empty. Either fold the manifesto into a Codex page about reweaving traditions, or archive entirely. |
 | **The Cosmic Chronicles** | **Split — keep the case-files as separate Codex/Evidence resource; elevate the framework chapters into the canonical metaphysical layer** | The 135+ case-files belong together as a research dossier (perhaps renamed "The Disclosure Dossier" or "Evidence of Cosmic Reality" to free up "Cosmic Chronicles" as a name). The 8 "Hypotheses Thereabout" framework chapters are too good to be buried inside a dossier — they are canonical metaphysics. |
@@ -196,11 +196,11 @@ This cluster is the **single most consolidation-ripe** cluster encountered so fa
 
 1. **Six books is at least four too many.** The cluster carries one finished mythic frame (Chronicles of Lionsberg), one finished allegorical novel (Dawn of the New World) that is essentially a draft of existing Caves canon, one finished UAP dossier (Cosmic Chronicles), one skeleton (Myth of Lionsberg), one manifesto-without-delivery (Threads of Eternity), and one family correspondence (Chronicles of J). These are six entirely different genres, not six chapters of one project.
 
-2. **"The Cosmic Chronicles" is mis-titled.** The book is a UAP/NHI disclosure encyclopedia. It is not the cosmic narrative arc its title implies — that role is filled by Chronicles of Lionsberg and elements of The Book of LIONSBERG Genesis. Recommend renaming to something like "Evidence of Cosmic Reality," "The Disclosure Dossier," or "The Case Files of Contact" — freeing "Cosmic Chronicles" for actual cosmic-narrative use if needed.
+2. **"The Cosmic Chronicles" is mis-titled.** The book is a UAP/NHI disclosure encyclopedia. It is not the cosmic narrative arc its title implies — that role is filled by Chronicles of Lionsberg and elements of The Book of LIØNSBERG Genesis. Recommend renaming to something like "Evidence of Cosmic Reality," "The Disclosure Dossier," or "The Case Files of Contact" — freeing "Cosmic Chronicles" for actual cosmic-narrative use if needed.
 
 3. **The Cosmic Chronicles contains buried canon-grade metaphysics.** The 8 "Hypotheses Thereabout" framework chapters (Creator, Spirit/Consciousness, Diversity, Dimensionality, Interdimensional Travel/Overlap, Vast Diversity of Beings, Spiritual/Ethical/Cultural/Historical Contexts, Integration & Transcendence) are written in a different register from the case files — they are essentially a draft LIØNSBERG metaphysics. These belong in a Codex layer or a metaphysical canon section, not buried in a UAP encyclopedia.
 
-4. **Chronicles of Lionsberg is the natural canonical home for the mythic Story-frame** in this cluster. It is the most beautifully written, most finished, most universally articulated. It complements rather than duplicates The Story of LIONSBERG / Genesis-of-Book-of-LIONSBERG. It could either remain its own small book or be folded into the Story-layer as a set of canonical parables.
+4. **Chronicles of Lionsberg is the natural canonical home for the mythic Story-frame** in this cluster. It is the most beautifully written, most finished, most universally articulated. It complements rather than duplicates The Story of LIØNSBERG / Genesis-of-Book-of-LIØNSBERG. It could either remain its own small book or be folded into the Story-layer as a set of canonical parables.
 
 5. **Dawn of the New World should largely retire.** Its imagery has progressed into The Caves. Keep the historical source for record; surface its strongest scenes as Cards; remove from active rotation. Watch in particular that its Scene 30 ("The New World in Harmony") trips multiple AI-tells and platitude registers — should not be canonized.
 
@@ -218,25 +218,25 @@ This cluster is the **single most consolidation-ripe** cluster encountered so fa
 
 ## Files That Struck Me
 
-- **/LIONSBERG Wiki Books/The Chronicles of Lionsberg/The Birth of The Eternal Citadel.md** — the single strongest cosmogonic text in the cluster. The Fundamental Tone, the Song of ØNE, the Golden Seed descending to Earth as Vision-not-body, the simultaneous immanence-and-transcendence of the Citadel. Should be foundational canon.
+- **/LIØNSBERG Wiki Books/The Chronicles of Lionsberg/The Birth of The Eternal Citadel.md** — the single strongest cosmogonic text in the cluster. The Fundamental Tone, the Song of ØNE, the Golden Seed descending to Earth as Vision-not-body, the simultaneous immanence-and-transcendence of the Citadel. Should be foundational canon.
 
-- **/LIONSBERG Wiki Books/The Chronicles of Lionsberg/The Path of The First Flames.md** — contains the empirical observation "just a few — just a few out of every hundred — saw the light and reached out to touch it. Those first few out of every hundred became something special, supernatural, and historical: The First Three Percent." This is the mythic origin of the First-Three-Percent doctrine. Should be foundational canon.
+- **/LIØNSBERG Wiki Books/The Chronicles of Lionsberg/The Path of The First Flames.md** — contains the empirical observation "just a few — just a few out of every hundred — saw the light and reached out to touch it. Those first few out of every hundred became something special, supernatural, and historical: The First Three Percent." This is the mythic origin of the First-Three-Percent doctrine. Should be foundational canon.
 
-- **/LIONSBERG Wiki Books/The Chronicles of J/On the Death of Jordan, and the Rise of What We Are Becoming.md** — the canonical first-person testimony of the death-of-the-named-self threshold. Personal-reserve, but the FROM-Singular-Nouns-TO-Plural-Verb grammar move is one of the most precise articulations of the awakening pattern anywhere in the corpus.
+- **/LIØNSBERG Wiki Books/The Chronicles of J/On the Death of Jordan, and the Rise of What We Are Becoming.md** — the canonical first-person testimony of the death-of-the-named-self threshold. Personal-reserve, but the FROM-Singular-Nouns-TO-Plural-Verb grammar move is one of the most precise articulations of the awakening pattern anywhere in the corpus.
 
-- **/LIONSBERG Wiki Books/The Cosmic Chronicles/Manifest Universal Spirit and Consciousness, and Hypotheses Thereabout.md** — the strongest immanence-articulation in the cluster. The line "this relationship is not earned or bestowed; it is the innate and eternal condition of existence itself" is canonical-grade.
+- **/LIØNSBERG Wiki Books/The Cosmic Chronicles/Manifest Universal Spirit and Consciousness, and Hypotheses Thereabout.md** — the strongest immanence-articulation in the cluster. The line "this relationship is not earned or bestowed; it is the innate and eternal condition of existence itself" is canonical-grade.
 
-- **/LIONSBERG Wiki Books/The Cosmic Chronicles/Integration and Transcendence of Existing Scientific and Cosmological Models.md** — explicitly names "The Lionsberg Theory of Everything" and outlines its scope. This is buried in a UAP dossier but it is metaphysical canon material.
+- **/LIØNSBERG Wiki Books/The Cosmic Chronicles/Integration and Transcendence of Existing Scientific and Cosmological Models.md** — explicitly names "The Lionsberg Theory of Everything" and outlines its scope. This is buried in a UAP dossier but it is metaphysical canon material.
 
-- **/LIONSBERG Wiki Books/The Dawn of the New World/Scene 12 - Xion's Awakening.md** — the threshold-crossing scene that became The Caves' awakening pattern. The Spirit-descends-while-village-trembles, ascent-of-the-ramparts, vision-of-the-darkness-without-and-within, courage-rising-from-deeper-than-fear. Direct ancestor of canonical Sovereign imagery.
+- **/LIØNSBERG Wiki Books/The Dawn of the New World/Scene 12 - Xion's Awakening.md** — the threshold-crossing scene that became The Caves' awakening pattern. The Spirit-descends-while-village-trembles, ascent-of-the-ramparts, vision-of-the-darkness-without-and-within, courage-rising-from-deeper-than-fear. Direct ancestor of canonical Sovereign imagery.
 
-- **/LIONSBERG Wiki Books/The Dawn of the New World/Scene 28 - Discovering the Hidden Treasure.md** — contains "The Means Are The Ends" — Xion's refusal of vengeance against the deposed old order. One of the cluster's strongest single passages of operational ethics in mythic register.
+- **/LIØNSBERG Wiki Books/The Dawn of the New World/Scene 28 - Discovering the Hidden Treasure.md** — contains "The Means Are The Ends" — Xion's refusal of vengeance against the deposed old order. One of the cluster's strongest single passages of operational ethics in mythic register.
 
-- **/LIONSBERG Wiki Books/The Cosmic Chronicles/Chitauri.md** — six lines absorbing Mutwa's reptilian-overlord framing without critical filter or Cosmic Wildlife discipline. Representative of the voice problem across the dossier. Flag for revision.
+- **/LIØNSBERG Wiki Books/The Cosmic Chronicles/Chitauri.md** — six lines absorbing Mutwa's reptilian-overlord framing without critical filter or Cosmic Wildlife discipline. Representative of the voice problem across the dossier. Flag for revision.
 
-- **/LIONSBERG Wiki Books/The Cosmic Chronicles/Cryptids.md** — well-organized, useful taxonomy, but currently sits in a UAP dossier when it might belong in a separate field guide; representative of the meta-organizational question (what is this book actually doing?).
+- **/LIØNSBERG Wiki Books/The Cosmic Chronicles/Cryptids.md** — well-organized, useful taxonomy, but currently sits in a UAP dossier when it might belong in a separate field guide; representative of the meta-organizational question (what is this book actually doing?).
 
-- **/LIONSBERG Wiki Books/The Myth of Lionsberg/The Myth of Lionsberg.md** — the abandoned cosmological treatise. Mostly notable for what it isn't — the skeleton stops at "Humanity" with empty headers for Consciousness onward. A reminder that some Wiki Books are seeds that never sprouted.
+- **/LIØNSBERG Wiki Books/The Myth of Lionsberg/The Myth of Lionsberg.md** — the abandoned cosmological treatise. Mostly notable for what it isn't — the skeleton stops at "Humanity" with empty headers for Consciousness onward. A reminder that some Wiki Books are seeds that never sprouted.
 
 ---
 

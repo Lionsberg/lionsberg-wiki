@@ -1,6 +1,6 @@
 # Levels of Scale
 
-_The canonical articulation of the holofractal nesting of scales — each scale a **domain** and a **superorganism** within ONE Living System — from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the systems / subsystems / supersystems nesting of the Body._
+_The canonical articulation of the holofractal nesting of scales — each scale a **domain** and a **superorganism** within ØNE Living System — from Sovereign to ØNE. Distinct from [[Levels of Abstraction]] (the depth dimension) and from [[Levels of Analysis]] (the system-thinking unit-of-focus dimension). All three are real; this Card holds the systems / subsystems / supersystems nesting of the Body._
 
 ---
 
@@ -32,7 +32,7 @@ The canonical articulation, drawn together from [[The LIØNSBERG Strategy and Pl
 
 **Roughly an order of magnitude** between adjacent levels — varying in the small-scale and large-scale ranges (Circle to Village is closer to 5×; some larger jumps are 5× to 20×), but in the canonical Body-sized range from Microlocality through Macrolocality the ~10× factor holds remarkably. This is the natural fractal rhythm by which a 10-billion-person Body coheres — small enough scales to hold relationship, large enough scales to hold function.
 
-## Each Scale Is A Domain And A Superorganism Within ONE Living System
+## Each Scale Is A Domain And A Superorganism Within ØNE Living System
 
 Every scale is, simultaneously:
 
@@ -55,13 +55,13 @@ The hierarchy above names useful scales — [[Sovereign]] at the irreducible bas
 
 **Below the Sovereign.** The individual human is already a superorganism — perhaps 30-50 trillion human cells and 38-100 trillion microbial cells, plus the energetic body, the field of consciousness, the soul-system that organizes them all. The Sovereign is not the smallest unit; the Sovereign is one important convergence-point in the human work — and the Sovereign is itself a federation. Below the cells: tissues, organelles, molecular machinery, atomic structures, sub-atomic particles, quantum fields.
 
-**Every level we have ever called "elementary"** — atoms, then nuclei, then protons-and-neutrons, then quarks, then quantum chromodynamic fields — **has turned out to be another superorganism of even smaller patterns.** This is not a flaw of our knowing. It is the nature of Reality. Each time a species has encountered what it thought was an elementary particle or a boundary of the ONE Body, the boundary has turned out to be the limit of that species' perception, not the limit of the Body.
+**Every level we have ever called "elementary"** — atoms, then nuclei, then protons-and-neutrons, then quarks, then quantum chromodynamic fields — **has turned out to be another superorganism of even smaller patterns.** This is not a flaw of our knowing. It is the nature of Reality. Each time a species has encountered what it thought was an elementary particle or a boundary of the ØNE Body, the boundary has turned out to be the limit of that species' perception, not the limit of the Body.
 
 **Above the Cosmos.** Galaxies federate into galactic clusters, into the cosmic web, into the observable universe, into the multiverse (if such there be), into dimensions of being we have only begun to glimpse. Each apparent "top" has revealed itself as a subsystem of a wider superorganism the moment our perception expanded enough to see it.
 
 **Across dimensions.** Beyond spatial scale, [[ØNE Body]] extends across dimensions of being — physical, energetic, mental, emotional, soul, spirit, the dimensions named in different traditions and the many unnamed. Each dimension is itself a superorganism of sub-dimensions and a subsystem of super-dimensions.
 
-**[[ØNE]] is not a top scale; ØNE is the singular Reality** of which every superorganism — micro, macro, dimensional, transdimensional — is one articulation. The Body has no edge. The named scales in the table above are the working subset useful for the human work at this moment. They are real and they are useful — and they do not bound the Body. The Body is **infinite in every direction**, and ONE.
+**[[ØNE]] is not a top scale; ØNE is the singular Reality** of which every superorganism — micro, macro, dimensional, transdimensional — is one articulation. The Body has no edge. The named scales in the table above are the working subset useful for the human work at this moment. They are real and they are useful — and they do not bound the Body. The Body is **infinite in every direction**, and ØNE.
 
 See [[The Sovereign Superorganism]] for the structural Pattern that holds at every scale; see [[ØNE Body]] for the deeper articulation of the singular Reality that all scales express.
 
@@ -138,7 +138,7 @@ In governance: decisions are made at the **smallest scale that can hold them wel
 
 ## ØNE Is ØNE Everywhere
 
-The [[ØNE]] that crowns this Levels of Scale hierarchy is the same ØNE that appears at the heart of every other LIØNSBERG articulation. The same Source named in [[Divine Intention and Eternal Logos]]. The same Spirit precedingly named in [[Spirit Precedes Pattern]]. The same Layer Ø ONE in the [[Superorganism-Earth]] companion repo's nine-layer model. The same apex of [[The Sovereign Path]]. The same Ground in [[Welcome to LIØNSBERG]]. The same [[All|All]] held by ØNE.
+The [[ØNE]] that crowns this Levels of Scale hierarchy is the same ØNE that appears at the heart of every other LIØNSBERG articulation. The same Source named in [[Divine Intention and Eternal Logos]]. The same Spirit precedingly named in [[Spirit Precedes Pattern]]. The same Layer Ø ØNE in the [[Superorganism-Earth]] companion repo's nine-layer model. The same apex of [[The Sovereign Path]]. The same Ground in [[Welcome to LIØNSBERG]]. The same [[All|All]] held by ØNE.
 
 **There is one ØNE.** Different framings within LIØNSBERG name the same Reality from different lenses — but ØNE is one. Whenever ØNE appears as the top of a scale, the bottom of a depth, the inside of an analysis, or the Spirit beneath the Pattern, it is the same ØNE.
 

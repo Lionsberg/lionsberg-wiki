@@ -462,7 +462,7 @@ Look closer
 
 Every blade of grass is a burning bush  
 
-Every quanta reveals the ONE  
+Every quanta reveals the ØNE  
 
 ___
 
@@ -484,4 +484,4 @@ To See that the entire Universe
 
 Is WithIn "you"  
 
-"You" are One with the ONE  
+"You" are One with the ØNE  

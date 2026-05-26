@@ -61,11 +61,11 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 21 | Fraud in the Inception | Juridical doctrine — fraud at origin voids legitimacy downstream | C |
 | 22 | Full Spectrum Dominance | The named Old-World strategic doctrine being unwound | C |
 | 23 | Heaven and Hell as Co-Created Trajectories | Both as outcomes of choice, not pre-existing places | C |
-| 24 | Higher Order Functional Unity | The phase-transition from fragmented many to coherent ONE-Body | C |
+| 24 | Higher Order Functional Unity | The phase-transition from fragmented many to coherent ØNE-Body | C |
 | 25 | Honoring Dissent | Dissent as structural immunity, not threat | C |
 | 26 | Hospicing the Old Systems | Right-relating with what is dying so it ends gracefully | C |
 | 27 | Kontrolled Disclosure | The pattern of staged/managed revelation versus the Great UnVeiling | C |
-| 28 | LUV — LIONSBERG Units of Value | Proof-of-contribution currency framework | C |
+| 28 | LUV — LIØNSBERG Units of Value | Proof-of-contribution currency framework | C |
 | 29 | Links to Ideas | Workspace file — uncaptured fragments awaiting Cards | C (workspace) |
 | 30 | Looking Back From Beyond | The retrospective imaginal practice | C |
 | 31 | Memento Mori | Remember death; the practice that orders the living | C |
@@ -73,7 +73,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 33 | New Wine Requires New Wineskins | Replacement vs reform — when old containers cannot hold the new | C |
 | 34 | Nullification Under Universal Law | Restored sovereignty doctrine under universal law | C |
 | 35 | One Citizenship Under God | The universal civic identity beneath all nationalities | C |
-| 36 | One of the Ones of the ONE | Every being as differentiated localization of the ONE | C |
+| 36 | One of the Ones of the ØNE | Every being as differentiated localization of the ØNE | C |
 | 37 | Regenerating Our Worlds | Plural — Earth as one of many worlds being regenerated | C |
 | 38 | Right Relationship and Sacred Reciprocity | Foundational covenant of every healthy exchange | C |
 | 39 | Sachchidananda — Existence-Consciousness-Bliss | Sanskrit-bridge — threefold nature of ØNE in itself | R — slight Sanskrit/Vedic elevation; voice-line "the deepest ontological articulation any tradition has reached" elevates one source-tradition above others, contra universal articulation discipline |
@@ -87,7 +87,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 47 | Swords to Ploughshares | The conversion arc — weaponry to livingry | C |
 | 48 | Target Value Design | TVD methodology — Target Quality is fixed, cost flexes | C |
 | 49 | The 10 Year Grand Strategy | The 2024-2033 strategic frame | C |
-| 50 | The 12 Pillars Orbit The ONE | The 12 Pillars arranged around the foundational center | C |
+| 50 | The 12 Pillars Orbit The ØNE | The 12 Pillars arranged around the foundational center | C |
 | 51 | The 12-Stage Sovereign's Path | The 12-stage developmental arc | C |
 | 52 | The 144 Gates as Architecture of Consciousness Shift | The 144-gate framework as architecture | C |
 | 53 | The 3-Year Healing and Empowerment Cycle | The 2030-2033 lag — 3 years for full embodiment | C |
@@ -127,7 +127,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 87 | The InterCosmic Treaty of Non-Subjugation | The named cosmic covenant | C |
 | 88 | The Involution and Evolution | The descent into form, the ascent back to Source | C |
 | 89 | The Issue-To-Movement Arc | The catalysis pattern — issue becoming movement | C |
-| 90 | The Kingdom of LIONSBERG | The civic-architectural frame | C |
+| 90 | The Kingdom of LIØNSBERG | The civic-architectural frame | C |
 | 91 | The Kontrolle Matrix | Full operational diagram of The Caves | R — substance is excellent; the 12-layer inventory carries some claim-density that should be flagged hypothesis-grade. Voice is canonical, but specific named architectures (Saturn-Black-Cube grid, astral grid traps, soul-recycling) should be marked as transmitted-witness-grade hypothesis |
 | 92 | The Lahaina Principle | The principle named after the Lahaina event | C |
 | 93 | The Law of Omniconsideration | Universal consideration as design principle | C |
@@ -163,7 +163,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 123 | The Sacred Flame That Cannot Be Extinguished | The eternal flame motif | C |
 | 124 | The Sacred Onboarding Arc | The named arc for new Sovereigns | C |
 | 125 | The Sacred Spiral — Not a Circle | Eternal spiral vs closed circle | C |
-| 126 | The Sacred Warrior | The warrior archetype in service of ONE | C |
+| 126 | The Sacred Warrior | The warrior archetype in service of ØNE | C |
 | 127 | The Seven Moves | The 7-move gameplay loop | C |
 | 128 | The Seven Volumes | The 7-volume Codex architecture | C |
 | 129 | The Smallest Step Protocol | The next-smallest-step technique | C |
@@ -190,7 +190,7 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 150 | Trauma as Master Key of Slavery | Trauma as the operative leverage of kontrolle | C |
 | 151 | True Self and False Self | The classical distinction — capitalized Self per user pref | C |
 | 152 | Universal Assured Destruction | The named destruction-threshold | C |
-| 153 | Values as Facets of the ONE | Values as faces of the foundational center | C |
+| 153 | Values as Facets of the ØNE | Values as faces of the foundational center | C |
 | 154 | We Are In The Window | The temporal anchor — we are inside the critical window | C |
 | 155 | We Do Not Know | Epistemic humility as foundational stance | C |
 | 156 | We Have Heard | The citation convention — wisdom as received, not invented | C |
@@ -232,7 +232,7 @@ The deck shows no exact duplicates but several **close-pair clusters** that may 
 - `The ReMembering Pattern` / `The ReMembering Stance` / `The Great ReMembering` — three Cards on the same theme at three altitudes. May want a clarifying header in each ("this Card treats X scale; for Y see Z").
 - `The Pattern Is The Way` / `The Way` (referenced in many cards but not its own Card yet) — the unified Pattern=Way concept the Pirsig Method page anticipates ("Phase 3 Pattern=Way unification") will eventually need its own Card.
 - `The Anti-One` / `The Anti-Christic Inversion` / `Anti-Good` / `The Meta Dragon` / `The Three-Layered Adversary` / `Full Spectrum Dominance` / `The Kontrolle Matrix` — seven Cards across the negative axis. The architecture is sound but a meta-Card naming how they relate ("The Negative Axis Map") would help.
-- `Sacred Economics` / `Capital as Subordinate Tool` / `LUV — LIONSBERG Units of Value` / `The Four Currencies` — four Cards on economic substrate. Likely consolidate into a tighter Volume III Economy sub-cluster.
+- `Sacred Economics` / `Capital as Subordinate Tool` / `LUV — LIØNSBERG Units of Value` / `The Four Currencies` — four Cards on economic substrate. Likely consolidate into a tighter Volume III Economy sub-cluster.
 
 ---
 
@@ -242,7 +242,7 @@ The deck shows no exact duplicates but several **close-pair clusters** that may 
 
 The blog file ([[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope (Full Draft)]], 1,037 lines) is the **monolithic full draft** authored by Jordan pre-August 2025.
 
-The wiki book (`LIONSBERG Wiki Books/144 Threads/`, 147 files) is the **split-by-thread form** of the same content, where each numbered thread becomes its own file (e.g., [[1. Sounding the Alarm]] contains the same paragraph as Section I §1 of the blog). The book also contains two scaffolding files:
+The wiki book (`LIØNSBERG Wiki Books/144 Threads/`, 147 files) is the **split-by-thread form** of the same content, where each numbered thread becomes its own file (e.g., [[1. Sounding the Alarm]] contains the same paragraph as Section I §1 of the blog). The book also contains two scaffolding files:
 - [[144 Threads — A Desperate Prayer to Weave Humanity's Last Best Hope]] (table of contents with `[[wiki links]]` to each thread file)
 - [[144 Threads — A Final Call to Awaken and Act]] (the introduction)
 
@@ -352,10 +352,10 @@ The following BTMC files should be treated as **foundational source-documents** 
 
 3. **The Card-Book should absorb the other "card-collection" prototypes in the wiki**, namely:
    - The 144 Threads (each thread is essentially a Card-stub — many already have Card-equivalents in the Card-Book, the rest can become Cards)
-   - The 12 Pillars of LIONSBERG content (already partially absorbed)
-   - The LIONSBERG Pattern Language entries (specific patterns can become Cards)
+   - The 12 Pillars of LIØNSBERG content (already partially absorbed)
+   - The LIØNSBERG Pattern Language entries (specific patterns can become Cards)
    - The 66 Most Protected and Distorted Narratives (each narrative = a Card)
-   - The LIONSBERG Theses (each thesis = a Card)
+   - The LIØNSBERG Theses (each thesis = a Card)
    
    **But not by force.** The Pirsig discipline is to let Cards emerge as they cluster — not to mass-import existing fragments and call them Cards. The right move is to flag each of these collections as **source-feeder books** that the Card-Book pulls from, and to add Cards organically as the audits proceed.
 
@@ -389,7 +389,7 @@ The following files stood out during the audit and warrant particular attention:
 
 - **[[The Death of Jordan and the Rising of the Nameless One]]** — The personal-historical anchor that grounds the Codex's voice in direct witness. Cannot be voiced by anyone else; uniquely irreplaceable.
 
-- **[[The Lionsberg Rules]]** — The compressed Rule-of-life ("There is only ONE rule. Everything is ONE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
+- **[[The Lionsberg Rules]]** — The compressed Rule-of-life ("There is only ØNE rule. Everything is ØNE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
 
 - **[[6.5 Acceptance criteria for the New System and Approach]]** — The 44 criteria are the operational filter the Codex offers Sovereigns weighing competing systems. This file should be a foundational source-document anchor for the Card-Book's strategic dimension.
 

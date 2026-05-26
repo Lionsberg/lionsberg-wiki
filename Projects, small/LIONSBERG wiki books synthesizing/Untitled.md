@@ -1,17 +1,17 @@
-# Contemplation: Synthesizing the LIONSBERG Wiki Books
+# Contemplation: Synthesizing the LIØNSBERG Wiki Books
 
 ## The Situation
 
-~80 books and directories in LIONSBERG Wiki Books. Together they contain perhaps 2-3 million words of hard-won thought. Nearly all of them circumambulate the same ONE thing from different angles, written at different moments, for different audiences, in different registers.
+~80 books and directories in LIØNSBERG Wiki Books. Together they contain perhaps 2-3 million words of hard-won thought. Nearly all of them circumambulate the same ØNE thing from different angles, written at different moments, for different audiences, in different registers.
 
 Jordan's assessment: "The 30 books are unlikely to ever be read." Not because they lack value — they contain extraordinary value — but because no one arriving at a page listing 80 books will read any of them. The paradox of abundance: the more there is, the less gets encountered.
 
 Three books Jordan identified as **feeling important** in their own right:
 - **The Great UnVeiling** — the cosmic initiatory journey
-- **The Book of LIONSBERG** — the foundational scripture
+- **The Book of LIØNSBERG** — the foundational scripture
 - **Most People Have No Idea What Is Coming** — how all systems actually work
 
-The question: **What do we want people to find when they arrive at the LIONSBERG Wiki Books page? How can we synthesize without losing a drop of the thought so hard won?**
+The question: **What do we want people to find when they arrive at the LIØNSBERG Wiki Books page? How can we synthesize without losing a drop of the thought so hard won?**
 
 ---
 
@@ -31,7 +31,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | An Alternative to Apocalypse | 18 | Abrahamic/Jubilee theological-political frame |
 | The Lionsberg Blueprint | 37 | Manifesto. "Worksite Earth 2.0" framing. Architecture from crisis through measurement. |
 | Pass The Flame | 4 | Raw parable pamphlet — confessional, personal, emotionally immediate |
-| Lionsberg, Simple and Clear | 18 | Full overview in accessible language — "LIONSBERG in one book" |
+| Lionsberg, Simple and Clear | 18 | Full overview in accessible language — "LIØNSBERG in one book" |
 | When It's All On The Line | 9 | Crisis survival/embodiment guide — how to eat, sleep, fight, love during collapse |
 
 **Assessment:** Most People now covers the "how it works" domain comprehensively. The _unique_ thought in the others that is NOT captured includes: the explicit Jubilee framework (Alt to Apocalypse), the probabilistic reasoning and post-collapse fiction (Last Chance), the 10 justice/reform domain analysis (Beyond Meta Crisis), the Worksite Earth framing (Blueprint), the "how to live during crisis" embodiment curriculum (When It's All On The Line), and the raw emotional pamphlet energy (Pass The Flame).
@@ -61,7 +61,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
-| The Book of LIONSBERG | 560 | **The canonical scripture.** 15 Quests covering every dimension — perception, navigation, purpose, creativity, sovereignty, unity, heroism. The sourcebook. |
+| The Book of LIØNSBERG | 560 | **The canonical scripture.** 15 Quests covering every dimension — perception, navigation, purpose, creativity, sovereignty, unity, heroism. The sourcebook. |
 | The Way of God | 48 | Theological scholarship — Isaiah, Jesus, canonical hermeneutics |
 | Lionsberg - A Biblical Perspective | 17 | Apologetic bridge for evangelical/conservative audiences |
 | The One | 3 | Pure metaphysical consciousness activation text |
@@ -70,10 +70,10 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | The Sacred Ascent | 1 | The grand arc narrative — 7 movements at every scale |
 | Rediscovering the Way | 35 | Martial/spiritual philosophy — universal warrior path |
 | Threads of Eternity / Tao Te Ching | 7 | Inter-tradition wisdom synthesis |
-| The LIONSBERG Theses | 1 | Systematic propositional manifesto — old vs. new paradigm |
+| The LIØNSBERG Theses | 1 | Systematic propositional manifesto — old vs. new paradigm |
 | Meditations on Proverbs | 1 | Life/Death pattern diagnostic |
 
-**Assessment:** The Book of LIONSBERG is the gravitational center. At 560 files, it IS the body of thought. The unique thought in the other books includes: the explicit canonical hermeneutics (Way of God), the Christian apologetic (Biblical Perspective), the pure consciousness technology (The One), the sacred-text reinterpretation (also in Cluster 2), the warrior philosophy (Rediscovering the Way), and the cross-tradition synthesis (Threads of Eternity).
+**Assessment:** The Book of LIØNSBERG is the gravitational center. At 560 files, it IS the body of thought. The unique thought in the other books includes: the explicit canonical hermeneutics (Way of God), the Christian apologetic (Biblical Perspective), the pure consciousness technology (The One), the sacred-text reinterpretation (also in Cluster 2), the warrior philosophy (Rediscovering the Way), and the cross-tradition synthesis (Threads of Eternity).
 
 ### Cluster 4: "How to Play — The Operational System"
 
@@ -81,13 +81,13 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
-| LIONSBERG 101 | 9 | **The compressed golden seed.** Concentric rings from ONE to action. |
+| LIØNSBERG 101 | 9 | **The compressed golden seed.** Concentric rings from ØNE to action. |
 | The Lionsberg Playbook | 30+ | Current operational field guide — specific plays for every phase |
-| The LIONSBERG Way | 17 | Operational philosophy — the reasoning behind the plays |
+| The LIØNSBERG Way | 17 | Operational philosophy — the reasoning behind the plays |
 | Citizen Led Governance | 46 | Step-by-step governance at every scale — patterns, case studies, monitoring |
 | The Lionsberg Pattern Language | 1 | DNA documentation of The Golden Seed |
 | The 12 Pillars | 14 | Civilizational domain architecture — the complete work breakdown |
-| The Program Delivery Guide | 15 | External methodology: lean construction mapped to LIONSBERG |
+| The Program Delivery Guide | 15 | External methodology: lean construction mapped to LIØNSBERG |
 | The Meta Project | 30 | Program management discipline applied to civilization-building |
 | Kingdom Plans & Specs | 2 | Complete civilization blueprint — the most architecturally complete single document |
 | The Lionsberg Strategy and Plan | 35 | Living operational strategy with quarterly updates |
@@ -96,7 +96,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | The Lionsberg System Toolkit | 5 | Operational tools and templates |
 | The Lionsberg Rules | 3 | Axiomatic ruleset (Rule One + derivatives) |
 
-**Assessment:** LIONSBERG 101, the Playbook, and the PDG are already strong. The unique thought scattered across the others includes: the full governance manual (Citizen Led Governance), the civilizational WBS (12 Pillars), the Kingdom Plans & Specs (the "if you could only have one document" blueprint), and the human development architecture (Elevation Initiative).
+**Assessment:** LIØNSBERG 101, the Playbook, and the PDG are already strong. The unique thought scattered across the others includes: the full governance manual (Citizen Led Governance), the civilizational WBS (12 Pillars), the Kingdom Plans & Specs (the "if you could only have one document" blueprint), and the human development architecture (Elevation Initiative).
 
 ### Cluster 5: "Daily Practice and Personal Transformation"
 
@@ -121,7 +121,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
 | The Dawn of the New World | 32 | The only full fiction — screenplay with named characters |
-| The Chronicles of Lionsberg | 6 | Mythological history of LIONSBERG as cosmic archetype |
+| The Chronicles of Lionsberg | 6 | Mythological history of LIØNSBERG as cosmic archetype |
 | The Chronicles of J | 5 | Jordan's personal memoir |
 | Playing With Poetry | 1 | Pure poetry |
 | The Lionsberg Book of Parables | 8 | Teaching parables |
@@ -140,17 +140,17 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | The Lionsberg System of Values | 1 | Value ontology |
 | Frequently Asked Questions | 41 | Objection handling |
 | Anomalies of Interest | 1 | Real-time intelligence |
-| The LIONSBERG Codex | 1 | Meta-index / architecture map |
+| The LIØNSBERG Codex | 1 | Meta-index / architecture map |
 
 ### The Deprecated, Empty, and Migrated:
 
 - The Lionsberg Co-Creator Handbook (2 files) — absorbed into Playbook
-- Lionsberg Orientation and Training (4 files) — migrated to LIONSBERG Experience
+- Lionsberg Orientation and Training (4 files) — migrated to LIØNSBERG Experience
 - The Lionsberg Meta Guide (10 files) — migrating
 - MindWeaving The Life Divine (0 files) — empty
 - The Roving Temple Dojo (1 file) — concept seed
 - The Sandpoint 300 (1 file) — local seed
-- The LIONSBERG (syn)Thesis — empty directory
+- The LIØNSBERG (syn)Thesis — empty directory
 - The Quest Towards The Goal (1 file) — index only
 - Transmedium Ark Exploration (1 file) — speculative AI exploration
 - Lionsberg Guide to Movement Building (1 file) — methodology notes
@@ -159,7 +159,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 
 ## The Vision: What Should People Find?
 
-When someone arrives at the LIONSBERG Wiki Books page, they should encounter something like a **sacred library** — not 80 books, but **a clear architecture of essential works**, each with a distinct purpose, each irreplaceable, together forming a complete whole.
+When someone arrives at the LIØNSBERG Wiki Books page, they should encounter something like a **sacred library** — not 80 books, but **a clear architecture of essential works**, each with a distinct purpose, each irreplaceable, together forming a complete whole.
 
 ### Proposed Primary Library (The Essential Works)
 
@@ -168,7 +168,7 @@ When someone arrives at the LIONSBERG Wiki Books page, they should encounter som
 
 **Tier 2: The Three Great Works** (each covers a distinct, irreducible dimension)
 2. **[[Most People Have No Idea What Is Coming]]** — How reality actually works. Domain by domain, system by system, the full structural analysis of why everything is simultaneously failing — and what lies on the other side. _(Complete — 73,700 words, 45 chapters)_
-3. **[[The Great UnVeiling]]** — What lies behind the veil. The cosmic initiatory journey from the ONE through fall, awakening, disclosure, exodus, battle, and the co-creation of the New World. _(Needs completion — the most important unfinished work)_
+3. **[[The Great UnVeiling]]** — What lies behind the veil. The cosmic initiatory journey from the ØNE through fall, awakening, disclosure, exodus, battle, and the co-creation of the New World. _(Needs completion — the most important unfinished work)_
 4. **[[The Book of LIØNSBERG]]** — The foundational scripture. 15 Quests exploring every dimension of reality — perception, navigation, purpose, creativity, sovereignty, unity, heroism, and the Way. _(Complete — 560 files, the canonical reference)_
 
 **Tier 3: The Operating System**
@@ -192,7 +192,7 @@ The unique thought in each cluster gets woven into one of the primary works:
 
 - **Crisis cluster** → unique thought absorbed into **Most People** (which already covers most of it) or a new companion volume
 - **Disclosure cluster** → unique thought absorbed into a completed **Great UnVeiling**
-- **Sacred foundations** → unique thought already lives in **The Book of LIONSBERG** (which is 560 files and IS the body of thought)
+- **Sacred foundations** → unique thought already lives in **The Book of LIØNSBERG** (which is 560 files and IS the body of thought)
 - **Operational cluster** → unique thought absorbed into an expanded **Playbook** or companion operational guide
 - **Personal transformation** → unique thought absorbed into a synthesis or retained as a few distinct works
 - **Reference materials** → retained as reference shelf
@@ -216,7 +216,7 @@ Keep all books, but radically restructure the Wiki Books page into clear tiers:
 
 1. **Complete The Great UnVeiling** by weaving in the unique thought from the disclosure cluster
 2. **Create one new synthesis** (perhaps "The Sacred Foundations" or "The Inner Way") from the personal transformation + sacred philosophy clusters
-3. **Retain the strongest standalone works** (Meditations, 144 Threads, Book of LIONSBERG, Playbook, PDG)
+3. **Retain the strongest standalone works** (Meditations, 144 Threads, Book of LIØNSBERG, Playbook, PDG)
 4. **Archive** the rest as "Earlier Works and Historical Record" — accessible but not featured
 5. **Create a clear, beautiful Wiki Books page** with 8-12 featured works and a link to the archive
 
@@ -245,13 +245,13 @@ This is painstaking but possible. And it honors the thought.
 
 1. **Does the Primary Library feel right?** Are there books that should be promoted or demoted?
 
-2. **Is The Book of LIONSBERG (560 files) the right form?** It IS the body of thought — but is it navigable? Does it need its own reconceptualization, or is its density part of its nature as the canonical reference?
+2. **Is The Book of LIØNSBERG (560 files) the right form?** It IS the body of thought — but is it navigable? Does it need its own reconceptualization, or is its density part of its nature as the canonical reference?
 
 3. **How important is the disclosure cluster?** The Great UnVeiling was designed to hold it all — should completing that work be a priority? Or should the disclosure material remain distributed?
 
 4. **What about the narrative/creative works?** The Dawn of the New World (fiction), The Chronicles of J (memoir), Playing With Poetry — these serve a different function than the analytical/operational works. Do they belong in the primary library? In a separate "Stories and Art" section?
 
-5. **What about the reference materials?** The lexicons (Emotions, Metaphors, Values, People) are small but serve a real function. Do they stay as-is? Get folded into a single "LIONSBERG Reference Library"?
+5. **What about the reference materials?** The lexicons (Emotions, Metaphors, Values, People) are small but serve a real function. Do they stay as-is? Get folded into a single "LIØNSBERG Reference Library"?
 
 6. **What about the explicitly Christian bridge documents?** A Biblical Perspective and An Alternative to Apocalypse serve a specific audience. Should they be preserved as-is for that audience?
 
@@ -269,7 +269,7 @@ If we proceed with Option C (the hybrid):
 
 **Priority 3:** Create a synthesis of the personal transformation / sacred philosophy cluster — perhaps called "The Way" or "The Sacred Foundations" — absorbing the unique thought from Way of God, A Way Beyond Fear, The Power of Today, Rediscovering the Way, The One, etc.
 
-**Priority 4:** Evaluate whether the crisis cluster books (Beyond Meta Crisis, Last Chance, Blueprint, etc.) have significant unique thought not captured in Most People + The Book of LIONSBERG. If so, synthesize. If not, archive.
+**Priority 4:** Evaluate whether the crisis cluster books (Beyond Meta Crisis, Last Chance, Blueprint, etc.) have significant unique thought not captured in Most People + The Book of LIØNSBERG. If so, synthesize. If not, archive.
 
 **Priority 5:** Consolidate the operational cluster into a single comprehensive operational guide (absorbing Citizen Led Governance, 12 Pillars, Kingdom Plans & Specs, etc. into the Playbook or a companion work).
 

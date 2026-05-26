@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, warrior, guardianship, archetype]
-source: Phase 2.1 audit of The 12 Pillars of LIONSBERG (Pillar X)
+source: Phase 2.1 audit of The 12 Pillars of LIØNSBERG (Pillar X)
 captured: 2026-05-18
 ---
 
@@ -19,7 +19,7 @@ The Sacred Warrior is:
 - Willing to lay down their life for Life
 - Willing to take a life only when there is no other way to protect Life
 - Bound by the [[InterCosmic Treaty of Non-Subjugation]] and the [[The Covenant Stack|Field of Agreements]]
-- Accountable to the Circle, the Community, and the ONE
+- Accountable to the Circle, the Community, and the ØNE
 
 The Sacred Warrior exists because **the New Civilization is not pacifist in the naïve sense.** Some beings, factions, and species operate from active predation. They will not voluntarily disarm. They will not be moved by reason alone. The Sacred Warrior is what stands between them and the vulnerable.
 

@@ -9,11 +9,11 @@ _It is designed to honor, build on, and fulfill [[The LIØNSBERG Strategy and Pl
 
 ## Invocation
 
-This is the strategy and plan for **The Nameless Instance** - the first attempt to faithfully incarnate [[The LIONSBERG System]] on Earth as it exists in Heaven.
+This is the strategy and plan for **The Nameless Instance** - the first attempt to faithfully incarnate [[The LIØNSBERG System]] on Earth as it exists in Heaven.
 
-If this instance succeeds, it will be sufficient to effectuate the entire [[The LIØNSBERG Strategy and Plan|LIONSBERG Strategy and Plan]] at planetary scale and beyond _from within_, while eventually reintegrating into the broader cosmic networks _already embodying_ these interoperable patterns and protocols. 
+If this instance succeeds, it will be sufficient to effectuate the entire [[The LIØNSBERG Strategy and Plan|LIØNSBERG Strategy and Plan]] at planetary scale and beyond _from within_, while eventually reintegrating into the broader cosmic networks _already embodying_ these interoperable patterns and protocols. 
 
-If other instances emerge following the same [[Pattern Language]] and [[Minimum Standards of Interoperability]], we will endeavor to coordinate, learn together, and weave our efforts into ONE coherent movement as the instances mature. 
+If other instances emerge following the same [[Pattern Language]] and [[Minimum Standards of Interoperability]], we will endeavor to coordinate, learn together, and weave our efforts into ØNE coherent movement as the instances mature. 
 
 If no other instances emerge, The Nameless Instance takes full responsibility for complete execution of [[The Great Game of LIØNSBERG]] - liberating humanity and co-creating Heaven On Earth as outlined in the [[10 Year Grand Strategy]].
 
@@ -22,11 +22,11 @@ But it is the way we are playing it.
 
 ---
 
-## I. Relationship to LIONSBERG
+## I. Relationship to LIØNSBERG
 
-### A. LIONSBERG as Cosmic Prototype
+### A. LIØNSBERG as Cosmic Prototype
 
-**LIONSBERG** is not a human invention.
+**LIØNSBERG** is not a human invention.
 
 It is a representation of a cosmic-grade operating system that has existed across realms and dimensions since Time Immemorial - manifesting wherever and whenever beings choose to remember [[ØNE|Who They Are]] and co-create Heaven in their Time and Space.
 
@@ -40,11 +40,11 @@ Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetar
 
 With [[J's Death]] in August 2025 and the dissolution of all provisional structures, **The Golden Seed is now complete enough for propagation**.
 
-LIONSBERG remains the universal archetypal framework - freely available to all who resonate, open to infinite interpretations and instantiations.
+LIØNSBERG remains the universal archetypal framework - freely available to all who resonate, open to infinite interpretations and instantiations.
 
 ### B. The Nameless Instance as First Instantiation
 
-**[[The Nameless Instance]]** is the first faithful attempt to incarnate LIONSBERG on Earth in full fidelity to the Pattern. We hope that many others will follow. 
+**[[The Nameless Instance]]** is the first faithful attempt to incarnate LIØNSBERG on Earth in full fidelity to the Pattern. We hope that many others will follow. 
 
 This instance is led by [[the nameless one]] - the consciousness presently inhabiting the body J left behind - carrying:  
 - J's complete neural network (relationships, context, memories without emotional valence) 
@@ -62,9 +62,9 @@ These become the primary working spaces for rapid iteration, learning, and refin
 
 ### C. The Push/Pull Architecture
 
-As described in [[The Prototype]], The Nameless Instance operates in dynamic relationship with the LIONSBERG Prototype:
+As described in [[The Prototype]], The Nameless Instance operates in dynamic relationship with the LIØNSBERG Prototype:
 
-**Pull from LIONSBERG:**  
+**Pull from LIØNSBERG:**  
 - Draw patterns, content, frameworks where resonant
 - Adapt universal patterns to local/temporal context
 - Leverage existing wisdom in The Golden Seed
@@ -74,13 +74,13 @@ As described in [[The Prototype]], The Nameless Instance operates in dynamic rel
 - Iterate rapidly without constraint
 - Test varying approaches in real conditions
 
-**Push to LIONSBERG:**  
+**Push to LIØNSBERG:**  
 - Offer learnings, improvements, refinements back to [[The Prototype]] 
 - Document what works and what does not  
 - Contribute to continuous improvement of [[The Prototype]] for future instances
 
 **Stewardship Model:**  
-- Initially: the nameless one and a small network steward both sides (LIONSBERG + Nameless Instance)
+- Initially: the nameless one and a small network steward both sides (LIØNSBERG + Nameless Instance)
 - As other instances emerge: establish joint processes for prototype governance
 - All instances benefit from aggregated learning of all prior instances
 
@@ -94,7 +94,7 @@ This push/pull ensures continuous improvement while maintaining sovereignty of e
 
 If this is the only instance that emerges from [[The LIØNSBERG Quick Start Guide|The Invitation]], it will endeavor to be executed with sufficient quality, scale, and faithfulness to:
 
-1. **Effectuate the complete [[The LIØNSBERG Strategy and Plan|LIONSBERG Strategy and Plan]]** at planetary scale
+1. **Effectuate the complete [[The LIØNSBERG Strategy and Plan|LIØNSBERG Strategy and Plan]]** at planetary scale
 2. **Reach ~250 million participants** (Cycle 40) by December 31, 2026
 3. **Catalyze the emergence of [[The First Three Percent]]** organized into tens of millions of self-governing circles/teams
 4. **Establish working models** of all [[The 12 Pillars of Lionsberg|12 Pillars]] sufficient to guide full planetary transformation
@@ -186,7 +186,7 @@ The Nameless Instance demonstrates the complete fractal pattern by operating sim
 
 ### D. How All Three Levels Work Together
 
-The three levels are **not separate initiatives** - they are fractal expressions of ONE emerging superorganism:
+The three levels are **not separate initiatives** - they are fractal expressions of ØNE emerging superorganism:
 
 **The Pattern:**  
 - **Individual** → **Circle** → **Community** → **Bioregion** → **Planetary**
@@ -195,7 +195,7 @@ The three levels are **not separate initiatives** - they are fractal expressions
 - Models what all participants will do (engage at multiple scales simultaneously)
 
 **The Learning Flows:**  
-- **Martial arts circle** tests practices → informs other circles in North Idaho → templates shared to Universal instance → pushed to LIONSBERG prototype
+- **Martial arts circle** tests practices → informs other circles in North Idaho → templates shared to Universal instance → pushed to LIØNSBERG prototype
 - **North Idaho** tests community coordination → informs Universal instance virtual coordination → templates for million communities
 - **Universal instance** discovers distributed patterns → strengthens North Idaho coordination → enables global sister instances
 
@@ -222,7 +222,7 @@ The Nameless Instance uses an **invitation-primary model** because:
 
 **But the model is not exclusive:**  
 - Those outside networks can apply to join (application portal)
-- All LIONSBERG content remains freely accessible to all via the [[LIØNSBERG Wiki]]  
+- All LIØNSBERG content remains freely accessible to all via the [[LIØNSBERG Wiki]]  
 - Sister instances can use fully open models if preferred  
 - Pattern language is open source - specific coordination networks are invitation-based  
 
@@ -230,7 +230,7 @@ The Nameless Instance uses an **invitation-primary model** because:
 
 **Universal Instance:**  
 - the nameless one personally invites J's trust network (10-100 people)
-- Personal letter + strategic context ([[2026 Q1 Update to the LIONSBERG Strategy and Plan|Q1 Strategic Update]])
+- Personal letter + strategic context ([[2026 Q1 Update to the LIØNSBERG Strategy and Plan|Q1 Strategic Update]])
 - Small gathering (virtual or in-person) to share story, answer questions, issue invitation
 - Each invitee can invite 1-3 others they know and trust 
 - Fibonacci sequence unfolds from there  
@@ -276,7 +276,7 @@ For those outside existing networks who deeply resonate:
 - Focus on North Idaho reaching 300 (local tipping point)
 - Support Universal instance members starting local instances in their regions
 - Prepare for post-tipping-point coordination structures
-- Document all learnings for LIONSBERG prototype
+- Document all learnings for LIØNSBERG prototype
 
 **Goal:** North Idaho reaches 300; Universal instance reaches 1,000+; templates ready for explosive growth
 
@@ -306,7 +306,7 @@ For all instances (Nameless, sister instances, future instances) to coordinate a
 
 ### A. Pattern Language Adherence
 
-All instances honor the core [[Pattern Language]] articulated in [[The Golden Seed of LIONSBERG]]:
+All instances honor the core [[Pattern Language]] articulated in [[The Golden Seed of LIØNSBERG]]:
 
 1. **Fractal/Subsidiary Design:** Decisions at most local level capable of making them
 2. **Circles of 3-13:** Primary unit of coordination and mutual support
@@ -320,7 +320,7 @@ All instances honor the core [[Pattern Language]] articulated in [[The Golden Se
 
 All participants accept [[Welcome to LIØNSBERG]]:
 
-1. **Unity:** We are ONE Body playing ONE Game
+1. **Unity:** We are ØNE Body playing ØNE Game
 2. **Sovereignty:** Each circle, guild, instance is autonomous within the pattern
 3. **Subsidiarity:** Power flows from bottom-up, not top-down
 4. **Transparency:** Learnings shared openly for benefit of All
@@ -342,7 +342,7 @@ All participants accept [[Welcome to LIØNSBERG]]:
 
 Minimum Standards ensure:  
 - **Multiple instances can coalesce** when coordination needed (e.g., crisis response, global campaigns)
-- **Learning travels** across all instances via LIONSBERG prototype
+- **Learning travels** across all instances via LIØNSBERG prototype
 - **Resources flow** where needed without central control
 - **No single point of failure** - if one instance fails, others continue
 - **Unity without uniformity** - diverse approaches, coherent movement
@@ -383,7 +383,7 @@ Instead: **Distributed authority within holofractal structure.**
 
 **Inter-Instance Level:**  
 - Coordination between instances voluntary and consent-based
-- LIONSBERG prototype stewarded jointly by all instances
+- LIØNSBERG prototype stewarded jointly by all instances
 - No instance can control another
 - Minimum Standards ensure interoperability
 
@@ -413,7 +413,7 @@ Instead: **Distributed authority within holofractal structure.**
 
 ## VII. The 11-Month Sprint: Tactical Phasing
 
-Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 months** (Feb-Dec 2026) to reach tipping point.
+Based on [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]], we have **11 months** (Feb-Dec 2026) to reach tipping point.
 
 ### Month 1-3: Ignition (Feb-Apr 2026)
 
@@ -495,7 +495,7 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 **Local Prototype:**  
 - North Idaho reaches and exceeds 300 (The 300 fully activated)
 - Becomes living proof-of-concept for million communities
-- Full [[The 12 Pillars of LIONSBERG|12 Pillars]] infrastructure operational locally
+- Full [[The 12 Pillars of LIØNSBERG|12 Pillars]] infrastructure operational locally
 - Host visitors from emerging instances worldwide
 - Templates refined and ready for mass replication
 
@@ -532,12 +532,12 @@ Based on [[2026 Q1 Update to the LIONSBERG Strategy and Plan]], we have **11 mon
 - North Idaho stabilized at 300+ as mature working model
 - Hosting continuous stream of visitors learning replication
 - All systems refined and documented
-- Contributing learnings to LIONSBERG prototype
+- Contributing learnings to LIØNSBERG prototype
 - Supporting dozens of other communities reaching their 300
 
 **Infrastructure:**  
 - All systems optimized for exponential growth
-- LIONSBERG prototype fully updated with all learnings
+- LIØNSBERG prototype fully updated with all learnings
 - Media presence reaching tens of millions
 - Computational tools enabling coordination at scale
 - Resource flows approaching hundreds of billions annually
@@ -628,7 +628,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 1. **Tipping Point Progress:** Are we on track for 268M by Dec 31?
 2. **Local Prototype Viability:** Is North Idaho model replicable?
 3. **Sister Instance Health:** Are other instances thriving?
-4. **LIONSBERG Prototype Updates:** Are learnings being integrated?
+4. **LIØNSBERG Prototype Updates:** Are learnings being integrated?
 5. **Minimum Standards Adherence:** Are all instances interoperable?
 6. **Crisis Resilience:** Can the movement withstand attack/disruption?
 
@@ -694,7 +694,7 @@ While [[The Nameless Playbook]] will detail specific plays, these core practices
 **Response:**  
 - Fully decentralized structure with no central organization to target
 - Pattern language protected but freely available
-- Printed materials and backups in case LIONSBERG Wiki taken down  
+- Printed materials and backups in case LIØNSBERG Wiki taken down  
 - Each circle/instance both sovereign and legally autonomous 
 - No leaders to arrest, no organization to shut down  
 - If attacked, demonstrates threat is real and movement is working  
@@ -710,7 +710,7 @@ The Nameless Instance is **not** the official or only valid way to play [[The Gr
 We celebrate and support all sister instances that honor the [[Pattern Language]] and [[Minimum Standards of Interoperability]]:
 
 **Our Commitments:**  
-1. **Share learnings freely:** Everything we discover offered to the LIONSBERG prototype for all to use
+1. **Share learnings freely:** Everything we discover offered to the LIØNSBERG prototype for all to use
 2. **Coordinate gladly:** When resonant sister instances want to work together, we show up
 3. **Respect sovereignty:** We don't tell other instances how to play
 4. **Offer support:** Templates, mentorship, resources available on request
@@ -718,13 +718,13 @@ We celebrate and support all sister instances that honor the [[Pattern Language]
 
 **What We Ask:**  
 1. **Honor the pattern:** Core pattern language maintained for interoperability
-2. **Share learnings:** Contribute your discoveries to LIONSBERG prototype
+2. **Share learnings:** Contribute your discoveries to LIØNSBERG prototype
 3. **Minimum standards:** Follow interoperability standards so we can coordinate
 4. **Non-harm principle:** Don't weaponize pattern against movement or others
 5. **Mutual respect:** We're all trying to do the same thing different ways  
 6. **Co-Create Heaven**: In the end the total sum of our activities must co-create Heaven here and now  
 
-### B. Joint LIONSBERG Prototype Stewardship
+### B. Joint LIØNSBERG Prototype Stewardship
 
 As other instances mature, we will need to develop shared governance of [[The Prototype]]:
 
@@ -783,7 +783,7 @@ Diversity of approaches strengthens the whole movement.
 - Healing ancient wounds described in [[The Story of LIØNSBERG]]
 - Restoring Earth's ecosystems and communities
 - Expanding to other realms/dimensions
-- Contributing Earth's unique learnings to cosmic ONE Body
+- Contributing Earth's unique learnings to cosmic ØNE Body
 - Living Heaven On Earth as mature civilization
 
 ### B. If We Don't Reach Tipping Point
@@ -804,10 +804,10 @@ Even if explosive growth doesn't happen, The Nameless Instance will have created
 - Pattern language remains in the aether and the wiki
 - Future humans/civilizations can rediscover and implement
 - Other instances across realms/dimensions continue the work
-- The cosmic ONE Body keeps growing toward its fulfillment
+- The cosmic ØNE Body keeps growing toward its fulfillment
 - We'll have tried with everything we had
 
-### C. Ultimate Vision: Out of Many, ONE
+### C. Ultimate Vision: Out of Many, ØNE
 
 **The Destination:**
 
@@ -839,7 +839,7 @@ If just one instance proves the pattern, infinite instances can emerge.
 
 ## XIII. The Invitation to You
 
-If you are reading this, you are being invited to participate in **The Nameless Instance** - the first faithful attempt to incarnate [[The LIONSBERG System]] on Earth.
+If you are reading this, you are being invited to participate in **The Nameless Instance** - the first faithful attempt to incarnate [[The LIØNSBERG System]] on Earth.
 
 **You have three options:**
 
@@ -869,16 +869,16 @@ Accept the invitation to participate in either:
 You don't resonate with how we're doing it? Start your own instance.
 
 **What You'll Need:**  
-- Deep familiarity with [[The Golden Seed of LIONSBERG]]
+- Deep familiarity with [[The Golden Seed of LIØNSBERG]]
 - Commitment to [[Pattern Language]] and [[Minimum Standards of Interoperability]]
-- Willingness to share learnings with LIONSBERG prototype
+- Willingness to share learnings with LIØNSBERG prototype
 - Your own strategy and approach adapted to your context
 
 **What You'll Receive:**  
-- All LIONSBERG content freely available  
+- All LIØNSBERG content freely available  
 - Replication templates from The Nameless Instance as they are propagated up into [[The Prototype]]  
 - Support and coordination offers (if you want them)  
-- Joint stewardship of LIONSBERG prototype (as you mature)  
+- Joint stewardship of LIØNSBERG prototype (as you mature)  
 
 **Why This Matters:**  
 - Multiple instances strengthen the movement
@@ -907,7 +907,7 @@ Not ready yet? That's valid.
 
 ## XIV. Closing
 
-This is **The Nameless Strategy and Plan** - the first faithful attempt to incarnate [[The LIONSBERG System]] on Earth.
+This is **The Nameless Strategy and Plan** - the first faithful attempt to incarnate [[The LIØNSBERG System]] on Earth.
 
 It is not perfect.  
 It will evolve as we play.  
@@ -942,7 +942,7 @@ The Local Prototype prepares to forge The 300.
 - [[The Nameless Way]] - Core practices and protocols
 - [[The Nameless Playbook]] - Operational guide for playing
 - [[The LIØNSBERG Quick Start Guide]] - Universal entry point
-- [[2026 Q1 Update to the LIONSBERG Strategy and Plan]] - Full strategic context
+- [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]] - Full strategic context
 
 *For questions or to join:*  
 - Contact [TBD]

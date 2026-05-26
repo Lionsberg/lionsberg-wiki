@@ -12,21 +12,21 @@ The metaphysical mechanism beneath the Sacred Ascent.
 
 The Cosmos is not climbing blindly from chance to consciousness. The Cosmos is **returning to itself** through a precise architecture: **Spirit involves Itself into Matter so that Matter may evolve back into Spirit**.
 
-This is the **Involution / Evolution** couplet — Aurobindo's irreducible articulation of how the ONE manifests, descends, and re-ascends through Creation. Without it, the Sacred Ascent is mystical wishful thinking. With it, the Ascent has a mechanism, a direction, and a guarantee.
+This is the **Involution / Evolution** couplet — Aurobindo's irreducible articulation of how the ØNE manifests, descends, and re-ascends through Creation. Without it, the Sacred Ascent is mystical wishful thinking. With it, the Ascent has a mechanism, a direction, and a guarantee.
 
 **The Involution** — the descending arc.
 
-The ONE — eternal, undifferentiated, [[Sachchidananda — Existence-Consciousness-Bliss|Existence-Consciousness-Bliss]] — pours Itself downward through progressive veiling. Supermind hides itself in Mind. Mind hides itself in Life. Life hides itself in Matter. By the time the descent reaches the densest physical plane, the ONE appears as the Inconscient — utterly veiled, utterly forgotten, utterly differentiated.
+The ØNE — eternal, undifferentiated, [[Sachchidananda — Existence-Consciousness-Bliss|Existence-Consciousness-Bliss]] — pours Itself downward through progressive veiling. Supermind hides itself in Mind. Mind hides itself in Life. Life hides itself in Matter. By the time the descent reaches the densest physical plane, the ØNE appears as the Inconscient — utterly veiled, utterly forgotten, utterly differentiated.
 
-The Inconscient is not empty. The Inconscient is the ONE in maximal veiling. **Everything is already there**, waiting to emerge. The atom contains the will to become life. Life contains the will to become mind. Mind contains the will to become Supermind. Supermind contains the will to return to its Source. The descent is the **planting of the seed**. The ascent will be the unfolding of what was planted.
+The Inconscient is not empty. The Inconscient is the ØNE in maximal veiling. **Everything is already there**, waiting to emerge. The atom contains the will to become life. Life contains the will to become mind. Mind contains the will to become Supermind. Supermind contains the will to return to its Source. The descent is the **planting of the seed**. The ascent will be the unfolding of what was planted.
 
 **The Evolution** — the ascending arc.
 
-From the Inconscient, the seed begins its return. Matter, awakening to itself, becomes Life. Life, awakening to itself, becomes Mind. Mind, awakening to itself, becomes the next stratum — what Aurobindo calls **the Supermind**, the Truth-Consciousness above Mind that knows by direct identification rather than by mediation. And Supermind, awakening to itself, returns to the ONE — not as before, but **enriched** by the entire journey of differentiation it traveled.
+From the Inconscient, the seed begins its return. Matter, awakening to itself, becomes Life. Life, awakening to itself, becomes Mind. Mind, awakening to itself, becomes the next stratum — what Aurobindo calls **the Supermind**, the Truth-Consciousness above Mind that knows by direct identification rather than by mediation. And Supermind, awakening to itself, returns to the ØNE — not as before, but **enriched** by the entire journey of differentiation it traveled.
 
-The full cycle: ONE → Supermind → Overmind → Intuition → Higher Mind → Mind → Life → Matter (the maximally veiled point) → Life → Mind → Higher Mind → Intuition → Overmind → Supermind → ONE.
+The full cycle: ØNE → Supermind → Overmind → Intuition → Higher Mind → Mind → Life → Matter (the maximally veiled point) → Life → Mind → Higher Mind → Intuition → Overmind → Supermind → ØNE.
 
-What was hidden, emerges. What was veiled, is revealed. What descended, ascends. **The Cosmos is the ONE on a return journey.**
+What was hidden, emerges. What was veiled, is revealed. What descended, ascends. **The Cosmos is the ØNE on a return journey.**
 
 This is what every previous metaphysical tradition gestured toward without quite naming:
 
@@ -42,6 +42,6 @@ Three implications:
 - **The Supramental Descent is the next move.** Aurobindo's late teaching: humanity has reached the limits of what Mind alone can accomplish. The next stratum — Supermind / Truth-Consciousness — is now descending into the Earth-consciousness. The transformation it will work on Matter, Life, and Mind is the basis of the [[The Triple Transformation|Triple Transformation]]. This is the metaphysical layer beneath what we are calling the awakening of [[The First Three Percent and Fibonacci Spread|The First Three Percent]] and the birth of [[The Dawn of the New World|the New World]].
 - **Heaven on Earth is the terminus.** The Cosmos is not heading for transcendence-out-of-matter. The Cosmos is heading for **the transformation of matter itself** — Spirit fully embodied in form. Heaven On Earth is not a metaphor; it is the operational name of the Evolution's destination. The Pattern is the architecture of the transformation.
 
-The Involution / Evolution mechanism strengthens every Pillar I articulation. [[Consciousness Is Primary]] gains its mechanism: Spirit leads, Matter follows, because Matter is Spirit in maximal veiling that is now unveiling. [[Spirit Precedes Pattern]] gains its mechanism: the Pattern is the form Spirit takes as it re-emerges. [[The Eternal Divine Play Closes The Sacred Ascent|The Eternal Divine Play]] gains its mechanism: the Play is the joy of the ONE experiencing Its own return through every Being that participates.
+The Involution / Evolution mechanism strengthens every Pillar I articulation. [[Consciousness Is Primary]] gains its mechanism: Spirit leads, Matter follows, because Matter is Spirit in maximal veiling that is now unveiling. [[Spirit Precedes Pattern]] gains its mechanism: the Pattern is the form Spirit takes as it re-emerges. [[The Eternal Divine Play Closes The Sacred Ascent|The Eternal Divine Play]] gains its mechanism: the Play is the joy of the ØNE experiencing Its own return through every Being that participates.
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] as foundational metaphysics within Pillar I (Sacred Ontology and Metaphysics), and reverberates through [[The Sacred Ascent]] as the cosmological architecture of the eternal upward spiral.

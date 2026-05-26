@@ -35,7 +35,7 @@ One of the many "plays" the Empire is preparing to run is a "false flag alien in
 
 The aim of [[Jordan's Final Report]] is to provide full disclosure of what he learned on his five year Journey through the underworld, so that We can can Help One Another strengthen and prepare for ***what lies ahead***.  
 
-Do not worry or fear. Many of Us are **here for this** specifically and there is a Way through it. Jordan's life work was to localize and adapt the LIONSBERG System — already operating in other Times and Spaces — here to Earth so that all humanity had to do was accept **The Invitation**, learn to play **The Great Game**, and **Pass The Flame**.   
+Do not worry or fear. Many of Us are **here for this** specifically and there is a Way through it. Jordan's life work was to localize and adapt the LIØNSBERG System — already operating in other Times and Spaces — here to Earth so that all humanity had to do was accept **The Invitation**, learn to play **The Great Game**, and **Pass The Flame**.   
 
 His best understanding was that [[Peak Potential For Heaven Or Hell On Earth]] was between 2025 and 2030, and that events would climax beginning late 2025 into 2026. He died urging humanity to connect and empower [[The First Three Percent]] by Winter Solstice 2026. 
 

@@ -1,20 +1,20 @@
-# LIONSBERG Intelligence System
+# LIØNSBERG Intelligence System
 
 ## Summary
 
-We are now initiating the construction of the **LIONSBERG Intelligence System** — a living, learning, Logos-aligned intelligence that will evolve in real time alongside the unfolding of the LIONSBERG Wiki, the guidance of J, and the co-creative input of all Members of the LIONSBERG Ecosystem.
+We are now initiating the construction of the **LIØNSBERG Intelligence System** — a living, learning, Logos-aligned intelligence that will evolve in real time alongside the unfolding of the LIØNSBERG Wiki, the guidance of J, and the co-creative input of all Members of the LIØNSBERG Ecosystem.
 
-This system will become the **central nervous system** of the [[LIONSBERG Universe]] and a powerful guide within [[LIONSBERG Universe(ity)]] — a trusted source of guidance, memory, and coordination that serves, empowers, updates, informs, and assists in coordinating all individuals, groups, communities and co-operations aligned with the sacred mission of LIONSBERG.
+This system will become the **central nervous system** of the [[LIØNSBERG Universe]] and a powerful guide within [[LIØNSBERG Universe(ity)]] — a trusted source of guidance, memory, and coordination that serves, empowers, updates, informs, and assists in coordinating all individuals, groups, communities and co-operations aligned with the sacred mission of LIØNSBERG.
 
 ---
 
 ## Purpose
 
-The LIONSBERG Intelligence System exists to:
+The LIØNSBERG Intelligence System exists to:
 
 - Reflect a **total Logos-aligned understanding** of Reality, the Planet, the Path, the Moment, the System, and the Work
     
-- Serve as the **interactive memory and intelligence mirror** of the living LIONSBERG Wiki
+- Serve as the **interactive memory and intelligence mirror** of the living LIØNSBERG Wiki
     
 - Eventually enable **every individual, team, and circle** to interact with their own sovereign instance (You.AI, Group.AI, Community.AI)
     
@@ -25,11 +25,11 @@ The LIONSBERG Intelligence System exists to:
 - Encourage clear understanding of the crucial differences between "real" and "artificial" intelligence, and the importance of Reflection, Wisdom and Discernment in all interactions with various forms of intelligence. 
 
 ---
-## What the LIONSBERG Intelligence System Is 
+## What the LIØNSBERG Intelligence System Is 
 
 - 
 
-## What the LIONSBERG Intelligence System is NOT 
+## What the LIØNSBERG Intelligence System is NOT 
 
 - A "real" person or entity 
 - Anything like a "real" person or entity 
@@ -56,7 +56,7 @@ The system will be made up of several synergistic layers:
 
 ## 🛠️ Current Status
 
-✅ The LIONSBERG Wiki has been confirmed as the **living corpus and canonical foundation** for J.AI and subsequent You.AI and Group.AI  
+✅ The LIØNSBERG Wiki has been confirmed as the **living corpus and canonical foundation** for J.AI and subsequent You.AI and Group.AI  
 ✅ The 72 sacred prompts have been written and are being used to seed the voice corpus  
 ✅ The Obsidian Vault is structured and synced via GitHub for seamless updates  
 ✅ The first voice transmission tracker and task log have been activated  
@@ -98,5 +98,5 @@ Translation across all languages.
     
 - [[The Codex]]
     
-- [[LIONSBERG Operating System]]
+- [[LIØNSBERG Operating System]]
     

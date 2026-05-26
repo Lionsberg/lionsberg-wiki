@@ -20,7 +20,7 @@ The question becomes: **What is the irreducible pattern at the center of all the
 
 To answer this, six streams of discovery were brought together — each independently pointing to the same living Pattern:
 
-**1. The LIONSBERG Pattern Language**  
+**1. The LIØNSBERG Pattern Language**  
 A deep exploration of the wiki's core architecture and articulations
 
 **2. The [[Mondragon]] Cooperative Corporation**  
@@ -29,8 +29,8 @@ Seventy years of living proof. From 5 people in 1956 to 80,000+ worker-owners ac
 **3. Graham Boyd and the [[Fair Shares Commons]]**  
 The insight that **the ownership structure of an organization is the deepest attractor in the system** — it determines behavior more powerfully than values statements, leadership intentions, or strategic plans. Boyd's contribution: designing the structural DNA so that the system's natural attractor is regeneration rather than extraction. Multi-stakeholder governance with multiple share classes (Founder, Coworkers, Investors, Community). The enterprise as a collaborative commons, not property. Purpose structurally sovereign, protected from capture by any stakeholder group.
 
-**4. The Great Game of LIONSBERG and the Playbook**  
-The practical operational layer — how [[Circles]] form, how [[Quests]] are undertaken, how [[Meaningful Work]] is validated, how value flows through the system, how governance operates at every fractal scale, how the [[Fibonacci]] pattern of awakening spreads the movement from ONE to All.
+**4. The Great Game of LIØNSBERG and the Playbook**  
+The practical operational layer — how [[Circles]] form, how [[Quests]] are undertaken, how [[Meaningful Work]] is validated, how value flows through the system, how governance operates at every fractal scale, how the [[Fibonacci]] pattern of awakening spreads the movement from ØNE to All.
 
 **5. Eight Movements That Changed The World**  
 The most successful self-replicating patterns in human history:
@@ -49,7 +49,7 @@ In 2005, the U.S. District Court placed California's prison health care system i
 
 The parallel to Earth is exact. A system so broken that existing authorities cannot fix it. People suffering and dying unnecessarily. A federal receivership — an external intervention — required to radically transform the system. A new operating system deployed. A prototype developed. Teams organized around shared purpose rather than competing contracts.
 
-This document was a **core piece** informing the localization and adaptation of LIONSBERG to Earth. Its principles are not specific to construction, or even to this world. They are **universal patterns of how intelligent beings organize to co-create complex systems** in service of a shared Goal — the same patterns already operating coherent civilizations across the cosmos. The PDG's key contributions to The Core Pattern include the four operational elements — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — which complete the structural DNA with the production DNA needed to actually build **Heaven On Earth**. 
+This document was a **core piece** informing the localization and adaptation of LIØNSBERG to Earth. Its principles are not specific to construction, or even to this world. They are **universal patterns of how intelligent beings organize to co-create complex systems** in service of a shared Goal — the same patterns already operating coherent civilizations across the cosmos. The PDG's key contributions to The Core Pattern include the four operational elements — [[Integrated Delivery]], [[Design To The Goal]], [[Networks of Commitments]], and [[Tightly Coupled Learning and Action]] — which complete the structural DNA with the production DNA needed to actually build **Heaven On Earth**. 
 
 ---
 
@@ -85,17 +85,17 @@ These twelve elements are not a theory. They are living observation — the comm
 
 ## The Implication
 
-**The LIONSBERG system, as articulated across 2.5 million words, is a comprehensive expression of this same universal pattern** — integrating the structural DNA of cooperation with the operational DNA of production. Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the universal Story of [[ØNE]] and [[All]].
+**The LIØNSBERG system, as articulated across 2.5 million words, is a comprehensive expression of this same universal pattern** — integrating the structural DNA of cooperation with the operational DNA of production. Enriched with the spiritual depth of the world's wisdom traditions, seven years of tested infrastructure, and the cosmic context of humanity's place in the universal Story of [[ØNE]] and [[All]].
 
 What [[Arizmendi]] discovered through a lifetime of practice in the Basque Country, what Bill Wilson encoded in 600 words, what Benedict codified in his Rule, what the Peacemaker articulated in the Great Law, what the apostolic networks demonstrated across the Roman Empire, what Elinor Ostrom proved through decades of research on commons governance, what Graham Boyd operationalized in the Fair Shares Commons, what Taiichi Ohno perfected at Toyota, what Glenn Ballard and Greg Howell founded as Lean Construction, what Eliyahu Goldratt articulated as the Theory of Constraints, what [[The Program Delivery Guide]] demonstrated across multiple billion-dollar projects — all of it converges.
 
-These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a faithful reflection of the ancient and eternal [[Way]] by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. LIONSBERG is the localization of this Way to Earth — Story, Pattern, and Play adapted to this world, this species, this moment.
+These are not human inventions. They are **universal principles, protocols, patterns, and plays** — a faithful reflection of the ancient and eternal [[Way]] by which sovereign beings and worlds across the cosmos have always organized, healed, and flourished. LIØNSBERG is the localization of this Way to Earth — Story, Pattern, and Play adapted to this world, this species, this moment.
 
-One soul poured his life into this work of localization and planting. He died for it — and in dying, freed it. Like the early church, whose founder's death liberated the pattern from any single personality, LIONSBERG belongs to no one. It is not an organization. It has no center to capture, no leader to follow, no institution to join. It is a living myth, a proven pattern, and a playable game — freely available, infinitely forkable, belonging to All.
+One soul poured his life into this work of localization and planting. He died for it — and in dying, freed it. Like the early church, whose founder's death liberated the pattern from any single personality, LIØNSBERG belongs to no one. It is not an organization. It has no center to capture, no leader to follow, no institution to join. It is a living myth, a proven pattern, and a playable game — freely available, infinitely forkable, belonging to All.
 
 The 2.5 million words are the forest.  
 The twelve elements are the DNA.  
-[[Ring 0 - ONE|Ring 0]] is the Source from which the DNA emanates.
+[[Ring 0 - ØNE|Ring 0]] is the Source from which the DNA emanates.
 
 **[[The Golden Seed]] is ready.**
 
@@ -109,6 +109,6 @@ The window is open. The clock is ticking. [[The Great Game]] has begun.
 
 ---
 
-Forward to [[Ring 0 - ONE]]  
+Forward to [[Ring 0 - ØNE]]  
 Back to [[LIØNSBERG 101]]  
 Table of Contents [[LIØNSBERG 101]]

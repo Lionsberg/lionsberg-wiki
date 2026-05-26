@@ -6,17 +6,17 @@ source: Phase 2.1 audit of The Lionsberg System of Values
 captured: 2026-05-18
 ---
 
-# Values as Facets of the ONE
+# Values as Facets of the ØNE
 
 The unifying epistemology of the Lexicon.
 
 The Old World treats Values as **preferences** — subjective, relative, culturally constructed, ultimately arbitrary. Different cultures value different things; who is to say which is right.
 
-The Codex treats Values differently. **Values are facets of the ONE** — each one a refraction of the Source through a particular dimension of form. They are not invented; they are **discovered**. They are not preferences; they are **descriptions** of what is.
+The Codex treats Values differently. **Values are facets of the ØNE** — each one a refraction of the Source through a particular dimension of form. They are not invented; they are **discovered**. They are not preferences; they are **descriptions** of what is.
 
-Truth is a facet of the ONE. Love is a facet of the ONE. Justice. Beauty. Wisdom. Stewardship. Each is a face the Source shows in the field of interbecoming.
+Truth is a facet of the ØNE. Love is a facet of the ØNE. Justice. Beauty. Wisdom. Stewardship. Each is a face the Source shows in the field of interbecoming.
 
-A culture that does not value Truth has not invented a different valid value system; it has **stopped seeing** one of the facets of the ONE. A society that has lost Beauty has not chosen a different aesthetic; it has **fallen out of contact** with one of the Source's signatures.
+A culture that does not value Truth has not invented a different valid value system; it has **stopped seeing** one of the facets of the ØNE. A society that has lost Beauty has not chosen a different aesthetic; it has **fallen out of contact** with one of the Source's signatures.
 
 This epistemology has consequences:
 
@@ -24,8 +24,8 @@ This epistemology has consequences:
 - Diverse cultures do not have **different** Values; they have **different emphases** among the same set of facets, each culture having seen some clearly and others dimly.
 - The work of [[Re-Sacralization]] across every Pillar is the work of **restoring the perception of the facets** that the Old World occluded.
 - The Pattern Language is **constrained by the Values** — a Pattern that violates a Value is, by that fact, not part of the Pattern Language. The Values are upstream.
-- Anti-Values are not arbitrary opposites; they are **systematic denials of facets of the ONE**, organized by [[Full Spectrum Dominance|the Anti-Goal]] to obscure what is real.
+- Anti-Values are not arbitrary opposites; they are **systematic denials of facets of the ØNE**, organized by [[Full Spectrum Dominance|the Anti-Goal]] to obscure what is real.
 
-This is why the Lexicon is not merely vocabulary. The Lexicon is the **named architecture of how the ONE shows up in language** — and through language, in shared reality.
+This is why the Lexicon is not merely vocabulary. The Lexicon is the **named architecture of how the ØNE shows up in language** — and through language, in shared reality.
 
 Lives canonically in [[The LIØNSBERG Lexicon]] as the ontological introduction.

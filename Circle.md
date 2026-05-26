@@ -6,7 +6,7 @@ ___
 
 ## What A Circle Is
 
-A Circle is a voluntary association of **3 to 13 people** united by shared purpose, shared agreements, and mutual accountability. It is the fundamental building block of everything in LIONSBERG — from local action to planetary transformation.
+A Circle is a voluntary association of **3 to 13 people** united by shared purpose, shared agreements, and mutual accountability. It is the fundamental building block of everything in LIØNSBERG — from local action to planetary transformation.
 
 A Circle is not a committee. It is not a task force. It is not a working group that reports to a larger body.
 

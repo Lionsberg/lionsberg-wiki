@@ -1,4 +1,4 @@
-# LIONSBERG Goal
+# LIØNSBERG Goal
 
 The **Core Goal** of [[LIØNSBERG]] is [[The Goal]] / [[Meta Goal]], which can be articulated as (something like) _the total integrated wellbeing, development, and right relationship of All generations of life and consciousness._  
 

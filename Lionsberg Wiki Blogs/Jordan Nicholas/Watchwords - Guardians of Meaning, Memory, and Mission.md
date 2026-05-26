@@ -42,7 +42,7 @@ When a **watchword is spoken**, it can **awaken memory, trigger encoded meaning,
 
 ---
 
-## **The Role of Watchwords in LIONSBERG & The Final Test**
+## **The Role of Watchwords in LIØNSBERG & The Final Test**
 
 In the face of **the greatest fraud, deception, and existential threat in human history**, the use of **Watchwords** is essential.
 
@@ -63,9 +63,9 @@ In the face of **the greatest fraud, deception, and existential threat in human 
 
 ---
 
-## **Examples of LIONSBERG Watchwords & Their Power**
+## **Examples of LIØNSBERG Watchwords & Their Power**
 
-Here are some **potential Watchwords** that hold deep meaning in the context of LIONSBERG and The Final Test:
+Here are some **potential Watchwords** that hold deep meaning in the context of LIØNSBERG and The Final Test:
 
 - **“One and All.”** → _A reminder of unity in purpose and destiny._
 - **“The Time is Now.”** → _A call to action, awakening urgency and alignment._

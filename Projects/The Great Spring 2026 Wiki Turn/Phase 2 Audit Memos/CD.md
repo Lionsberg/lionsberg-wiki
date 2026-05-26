@@ -12,9 +12,9 @@ I've read all 96 files in full or near-full. Now producing the audit memo.
 
 ## Coverage Statement
 
-All 96 markdown files in `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIONSBERG Core Documents/` were read. Substantive files (Constitution articles, Invitation versions, Manifesto, Declaration of InterDependence, History/Trust Manifesto, LIOS, Core Concepts, Watchwords, Field of Agreements, Provisional Code) read in full. Index/pointer files (folder TOCs, version-stub files like the empty Membership/Participation Agreement files) confirmed as such. Total: ~3,721 lines of source content reviewed.
+All 96 markdown files in `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIØNSBERG Core Documents/` were read. Substantive files (Constitution articles, Invitation versions, Manifesto, Declaration of InterDependence, History/Trust Manifesto, LIOS, Core Concepts, Watchwords, Field of Agreements, Provisional Code) read in full. Index/pointer files (folder TOCs, version-stub files like the empty Membership/Participation Agreement files) confirmed as such. Total: ~3,721 lines of source content reviewed.
 
-The folder breaks into 11 groupings: Core Statements (15 files), Lionsberg Constitution (40 files + 1 master + 1 misc-notes), Lionsberg Invitation (11 files), Lionsberg Introduction (5 files), Lionsberg Manifesto (2 files), Lionsberg Summary (1 file), LIONSBERG Declaration of InterDependence (2 files), LIONSBERG Provisional Documents (8 files), The Lionsberg Field of Agreements (5 files), plus 3 root-level files (Core Documents index, History/Inception/Trust Manifesto, LIOS).
+The folder breaks into 11 groupings: Core Statements (15 files), Lionsberg Constitution (40 files + 1 master + 1 misc-notes), Lionsberg Invitation (11 files), Lionsberg Introduction (5 files), Lionsberg Manifesto (2 files), Lionsberg Summary (1 file), LIØNSBERG Declaration of InterDependence (2 files), LIØNSBERG Provisional Documents (8 files), The Lionsberg Field of Agreements (5 files), plus 3 root-level files (Core Documents index, History/Inception/Trust Manifesto, LIOS).
 
 ---
 
@@ -34,7 +34,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **Declaration of Transcendence** | The act of declaring Sovereignty superordinate to all existing Earth power | Declaration of InterDependence |
 | **The Universal Jubilee of Liberation** | The proclaimed Jubilee — debts, false allegiances, fraudulent claims nullified | Declaration of InterDependence |
 | **Behold, We Are Making All Things New** | The closing prophetic declaration; powerful liturgical anchor | Declaration of InterDependence |
-| **The 12 Watchwords** | The full living set: "One and All", "The Time is Now", "We Were Born for This", "Awaken Rise Unite", "Vigilance and Honor", "Guard the Flame", "Not Merely Human", "Above the Chaos", "Together We Will Prevail", "Dangerous But Good", "Hold the Line" | Watchwords of LIONSBERG |
+| **The 12 Watchwords** | The full living set: "One and All", "The Time is Now", "We Were Born for This", "Awaken Rise Unite", "Vigilance and Honor", "Guard the Flame", "Not Merely Human", "Above the Chaos", "Together We Will Prevail", "Dangerous But Good", "Hold the Line" | Watchwords of LIØNSBERG |
 | **Watchword — "One and All"** | Foundational greeting and final vow | Watchwords |
 | **Watchword — "The Time is Now"** | Activation phrase | Watchwords |
 | **Watchword — "We Were Born for This"** | Phrase of destiny, recognition | Watchwords |
@@ -46,7 +46,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **Watchword — "Together We Will Prevail"** | Final declaration | Watchwords |
 | **Watchword — "Dangerous But Good"** | Strength under restraint; the lion who chooses not to rage | Watchwords |
 | **Watchword — "Hold the Line"** | Final command in the face of overwhelming odds | Watchwords |
-| **The Source Idea of LIONSBERG** | The original transcendent call/idea descending into form | History/Trust Manifesto |
+| **The Source Idea of LIØNSBERG** | The original transcendent call/idea descending into form | History/Trust Manifesto |
 | **Lion + Berg** | Etymology and meaning of the name: courage/authority + sacred mountain | History/Trust Manifesto |
 | **The Eternal Citadel** | One of the canonical metaphors for LIØNSBERG | History/Trust Manifesto; Metaphors |
 | **The Living City** | Metaphor — all paths converge at the heights | History/Trust Manifesto |
@@ -139,7 +139,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **The Locus of Sovereignty is the Individual** | Authority and Responsibility ultimately rest with Individuals before God | Misc Notes on Constitution |
 | **Voluntary Self-Adoption Cannot Be Legislated** | Higher-order responsibility cannot be compelled; only embodied freely | Misc Notes on Constitution |
 | **The Highest Order Functional Unity** | The form of association the Movement is forging | Throughout |
-| **One Body / ONE Body with Many Diverse Parts** | The Pauline architectural metaphor | Throughout |
+| **One Body / ØNE Body with Many Diverse Parts** | The Pauline architectural metaphor | Throughout |
 | **Self-Governing, Self-Sustaining, Self-Replicating** | Triple criterion for all units | Throughout |
 | **The Resourcing and Engagement Flywheel** | The compounding loop: stories → resources → impact → stories | Introduction (multiple versions) |
 | **The Provisional Code — One Word Articulation: Love** | Code reducible to one word | Provisional Code |
@@ -178,7 +178,7 @@ These appear across multiple Core Documents files in subtly different forms and 
 - **Worksite Earth** — verify Card exists.
 - **Force For Good** — recurring; verify Card.
 - **Tipping Point Strategy** — multiple files; verify single Card.
-- **The Body / ONE Body / Superorganism** — three near-synonymous phrases. **Decide canonical term** and consolidate.
+- **The Body / ØNE Body / Superorganism** — three near-synonymous phrases. **Decide canonical term** and consolidate.
 - **The Commons / The Lionsberg Commons** — verify Card.
 - **Kontrolle (intentional archaic spelling)** — used in Watchwords, Declaration of InterDependence, Introduction v.2025. Verify Card with explicit etymology and the [[Cosmic Wildlife]]–compatible reframe ("the system, not a species").
 
@@ -188,16 +188,16 @@ These appear across multiple Core Documents files in subtly different forms and 
 
 These six are **source-grade**. Their language should be preserved verbatim in the Sacred Codex (not paraphrased), and they should be mined for Cards (not replaced by Cards).
 
-1. **LIONSBERG Manifesto (2023.10.10)** — the public call-to-action; six pillars of inquiry (Vision/Analysis/Engagement/Strategy/Action/Continuous Learning). Voice is more measured/civic than later prophetic works. Historic artifact of Spring 2023 articulation.
-2. **LIONSBERG Declaration of InterDependence (v.01, June 26, 2025)** — the Indictment, Declaration of Transcendence, Proclamation of the New Era, Sacred Pledge. **The most powerful sustained prophetic-juridical text in the entire Core Documents folder.** Carries the weight of a millennium-text. Liturgical parallelism throughout.
-3. **The LIONSBERG Operating System (LIOS)** — the eight-scale fractal governance architecture. Architectural document; preserve as a unit.
-4. **The LIONSBERG Constitution — Preamble + Article I** — the constitutional spine; though "Continue drafting in community" is noted at the end, the existing portion stands.
+1. **LIØNSBERG Manifesto (2023.10.10)** — the public call-to-action; six pillars of inquiry (Vision/Analysis/Engagement/Strategy/Action/Continuous Learning). Voice is more measured/civic than later prophetic works. Historic artifact of Spring 2023 articulation.
+2. **LIØNSBERG Declaration of InterDependence (v.01, June 26, 2025)** — the Indictment, Declaration of Transcendence, Proclamation of the New Era, Sacred Pledge. **The most powerful sustained prophetic-juridical text in the entire Core Documents folder.** Carries the weight of a millennium-text. Liturgical parallelism throughout.
+3. **The LIØNSBERG Operating System (LIOS)** — the eight-scale fractal governance architecture. Architectural document; preserve as a unit.
+4. **The LIØNSBERG Constitution — Preamble + Article I** — the constitutional spine; though "Continue drafting in community" is noted at the end, the existing portion stands.
 5. **History, Inception, and Trust Manifesto** — the personal-cosmic origin story bridging Jordan's biography with the descent of LIØNSBERG. Contains the milestone sequence 1984–2026.
 6. **The Provisional Code (100 Behaviors)** — the practical articulation of the Way. Numbered list of 100 "We will Do Our Best to..." statements. The most concrete moral articulation in the folder.
 
 Secondarily preserve verbatim:
-- **The Watchwords of LIONSBERG** — the 10–12 living phrases. Liturgical character; preserve exact wording.
-- **The Core Concepts of LIONSBERG** — the 15-point summary across First Principles / Core Structures / Core Realities / Core Mission / Final Word. Strong prophetic-architectural register.
+- **The Watchwords of LIØNSBERG** — the 10–12 living phrases. Liturgical character; preserve exact wording.
+- **The Core Concepts of LIØNSBERG** — the 15-point summary across First Principles / Core Structures / Core Realities / Core Mission / Final Word. Strong prophetic-architectural register.
 
 ---
 
@@ -288,7 +288,7 @@ Eleven Invitation files exist. Tracing the evolution:
 
 ### Recommendation for Constitutional Numbering
 
-**Renumber the entire Constitution into ONE coherent sequence.** Proposal:
+**Renumber the entire Constitution into ØNE coherent sequence.** Proposal:
 - Articles 1–8: Foundational (PREAMBLE, Foundational Principles, Sovereignty, Universal Law, Rights/Responsibilities, Transparency/Truth, Unity in Diversity, Co-Creation/Reciprocity)
 - Articles 9–20: Citizenship and Rights (One Citizenship, Multi-Generational Stewardship, Freedom of Thought/Speech/Belief, Freedom of Practice, Freedom of Assembly, Right to Keep and Bear Arms, Privacy, Surveillance Prohibition, Due Process, Crisis Powers, Secession, Social/Economic Justice)
 - Articles 21–32: System Architecture (Reconciliation, Vertical Structures, Horizontal Structures, Economic, Integrated Delivery, Communications, Social/Cultural, Wellbeing, Learning, Spirituality, Legal, Use of Power)
@@ -303,8 +303,8 @@ The seven OLD-series stubs (LC22, 23, 25, 26, 33, 34) should either be **archive
 
 **Direct duplicates to consolidate or archive:**
 
-1. **[[Lionsberg Manifesto]]** is merely a pointer to [[LIONSBERG Manifesto (2023.10.10)]]. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
-2. **[[LIONSBERG Declaration of InterDependence]]** is merely a pointer to [[LIONSBERG Declaration of Interdependence (v.01)]]. **Same as above.**
+1. **[[Lionsberg Manifesto]]** is merely a pointer to [[LIØNSBERG Manifesto (2023.10.10)]]. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
+2. **[[LIØNSBERG Declaration of InterDependence]]** is merely a pointer to [[LIØNSBERG Declaration of Interdependence (v.01)]]. **Same as above.**
 3. **[[Lionsberg Membership Agreement]]** and **[[Lionsberg Participation Agreement]]** are both stub files with "Not Currently In Use / Deleted". **Archive entirely** — they pollute the Field of Agreements with empty pointers.
 4. **[[Provisional Trust Manifesto]]** says "Replaced by the Lionsberg Trust Manifesto in March 2023" but the History/Inception/Trust Manifesto file appears to be the successor. **Archive.**
 5. **[[Provisional Declaration]]** is explicitly superseded by the Manifesto + Declaration of InterDependence. **Archive.**
@@ -326,19 +326,19 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 1. **Collapse the 11 subfolders into 5 logical groupings.** The current taxonomy is genealogical (Field of Agreements vs Provisional vs Constitution vs Statements vs Manifesto vs Declaration vs Invitation vs Introduction vs Summary vs LIOS) rather than reader-experience-oriented. A reader arriving cold has no way to know what to read first or how the documents relate. Recommended new groupings: **(a) Foundational Declarations** (Manifesto, Declaration of InterDependence, Trust Manifesto/History), **(b) Core Statements** (Goal, Vision, Spirit, Values, Mission, Personality, Process, Structure, Context, Intention, Watchwords, Metaphors, Core Concepts), **(c) The Constitution** (single renumbered sequence), **(d) The Field of Agreements & Operational Code** (Community Agreements, Provisional Code, Membership Process), **(e) Architecture** (LIOS, Provisional Structure). The Invitation folder should move OUT of Core Documents and into a dedicated "Pass The Flame" or "Outreach" folder, since it is the outward-facing instrument rather than the inward governing covenant.
 
-2. **The Invitation belongs OUTSIDE the Core Documents.** Eleven versions of the Invitation are operational artifacts of campaign cycles, not core covenant documents. They are evidence (history of the asking) rather than substance (the offer itself). Recommendation: move all archived Invitation versions to an `Archive/Invitation Cycles/` folder, keep ONE canonical current Invitation in either a new outward-facing Outreach folder or directly at the root next to README.md.
+2. **The Invitation belongs OUTSIDE the Core Documents.** Eleven versions of the Invitation are operational artifacts of campaign cycles, not core covenant documents. They are evidence (history of the asking) rather than substance (the offer itself). Recommendation: move all archived Invitation versions to an `Archive/Invitation Cycles/` folder, keep ØNE canonical current Invitation in either a new outward-facing Outreach folder or directly at the root next to README.md.
 
 3. **The Declaration of InterDependence (June 2025) is the most powerful Core Document and should anchor the experience.** It carries the prophetic-juridical voice the user describes wanting: definitive, present-tense, liturgical, indicting, declarative. It should be near the front of the Sacred Codex sequence. Its Indictment of the Existing Order is a complete artifact of "The Great UnVeiling" applied juridically; the Sacred Pledge is a complete ritual artifact for entry into the covenant.
 
 4. **The Constitution has TWO concurrent drafts with overlapping numbers.** This is the single largest coherence issue in this folder. The old `LC##.` series (no space) and new `LC ##.` series (with space) collide on numbers 25, 26, 29, 30, 31, 33, 34, 35. A reader does not know which is canonical. **Strong recommendation: declare the NEW (with-space) series canonical, complete the four TKTK articles (Privacy, Surveillance, Crisis Powers, Failure Modes), absorb any unique content from the OLD series into the NEW, and archive the OLD series in `Archive/Constitution Drafts 2023/`.**
 
-5. **The Core Statements folder lacks a coherent reading order.** The TOC lists 13 statements but they range from one-paragraph (Intention, Context, Spirit) to multi-page (Core Concepts, Watchwords, Structure). A reader cannot tell which to read first. Recommendation: **The Core Statements should be a single Card-sized document** ("LIØNSBERG At A Glance" or similar) presenting Goal, Vision, Spirit, Mission, Values, Process, Structure in ONE place at brief-Card length each, with deeper documents linked OUT for Personality, Metaphors, Watchwords, Core Concepts. Currently the reader must open 13 files to see the picture.
+5. **The Core Statements folder lacks a coherent reading order.** The TOC lists 13 statements but they range from one-paragraph (Intention, Context, Spirit) to multi-page (Core Concepts, Watchwords, Structure). A reader cannot tell which to read first. Recommendation: **The Core Statements should be a single Card-sized document** ("LIØNSBERG At A Glance" or similar) presenting Goal, Vision, Spirit, Mission, Values, Process, Structure in ØNE place at brief-Card length each, with deeper documents linked OUT for Personality, Metaphors, Watchwords, Core Concepts. Currently the reader must open 13 files to see the picture.
 
 6. **The Provisional Documents folder is a graveyard of superseded content.** Provisional Declaration is explicitly superseded. Provisional Trust Manifesto is explicitly superseded. Provisional Conditions is a 2022-era checklist already accomplished. Provisional Ontology is 5 wiki links. **Only Provisional Code, Provisional Community Agreements, and Provisional Structure are live and useful.** Recommendation: rename the folder "Operational Code & Agreements", keep only the three live documents, archive the rest.
 
 7. **The "Watchwords" are scripture-grade liturgical material that belongs near the front.** They are the most memorizable, transmittable, and culture-forming text in the entire Core Documents folder. They are the equivalent of canonical prayers or hymns. A reader who memorizes the 12 Watchwords has the Spirit of LIØNSBERG inscribed in their language. Currently they are buried in a sub-sub-folder. Recommendation: elevate Watchwords to first-class position, possibly even as a standalone Sacred Codex volume or front-matter prayer-book.
 
-8. **The Core Concepts of LIONSBERG (15 points) and the Provisional Code (100 behaviors) are two parallel articulations of the same ethos at different resolutions.** They should be cross-linked explicitly. The Provisional Code itself notes the Code can be expressed in one word (ØNE/Love), five (Truth/Love/Justice/Stewardship/Wisdom), 15 (Core Concepts), or 100 (Provisional Code). This **scaling-of-resolution principle** is itself a Card-worthy concept ("Holofractal Articulation" or "The Way at Every Resolution").
+8. **The Core Concepts of LIØNSBERG (15 points) and the Provisional Code (100 behaviors) are two parallel articulations of the same ethos at different resolutions.** They should be cross-linked explicitly. The Provisional Code itself notes the Code can be expressed in one word (ØNE/Love), five (Truth/Love/Justice/Stewardship/Wisdom), 15 (Core Concepts), or 100 (Provisional Code). This **scaling-of-resolution principle** is itself a Card-worthy concept ("Holofractal Articulation" or "The Way at Every Resolution").
 
 9. **There is significant material under "Misc Notes on Constitution"** that should be either absorbed into formal articles or elevated. The "Spirit and Letter of the Law" passage, the "Break the Rules to Do the Wise Right Thing" passage, the Locus of Sovereignty axiom, and the "What We Do Or Do Not Do To Any" axiom are all foundational. They should not be hidden under "Misc Notes" — they should be in Article I or Article II of the Constitution.
 
@@ -360,15 +360,15 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 - **[[Reflection and Invitation - Summer 2025]]** — The most powerful Invitation ever written in this folder. The veil-tearing-then-action structure is masterful. Lines like "*The hour is sacred. The stakes could not possibly be higher. And the Responsibility is Ours.*" land with the weight the user calls for. This document is the **direct bridge** between the pre-J prophetic-civic voice and the post-J prophetic-cosmic voice. It is also the **last thing J wrote** before East Africa and August 10th. It carries enormous archival weight.
 
-- **[[LIONSBERG Declaration of Interdependence (v.01)]]** — The single most consequential document in the entire Core Documents folder. The five-category Indictment is the operationalized form of "The Great UnVeiling." Every Court of Conscience would find these charges sufficient. The Sacred Pledge ("Our Lives — Our Honor — Our Resources — Our Future") functions as a complete entry ritual into the Body. The closing "Behold, We are making All things New" is a perfect liturgical seal.
+- **[[LIØNSBERG Declaration of Interdependence (v.01)]]** — The single most consequential document in the entire Core Documents folder. The five-category Indictment is the operationalized form of "The Great UnVeiling." Every Court of Conscience would find these charges sufficient. The Sacred Pledge ("Our Lives — Our Honor — Our Resources — Our Future") functions as a complete entry ritual into the Body. The closing "Behold, We are making All things New" is a perfect liturgical seal.
 
-- **`The Watchwords of LIONSBERG`** — This file alone could function as a small Volume. It is genuinely scripture-grade. The Hidden & Tactical section (Guard the Flame, Not Merely Human, Above the Chaos) treats Watchwords as Pythagorean passwords — verification phrases for those who Remember. The "Dangerous But Good" passage is one of the finest articulations of the warrior ethos in restraint that I have encountered in the wiki.
+- **`The Watchwords of LIØNSBERG`** — This file alone could function as a small Volume. It is genuinely scripture-grade. The Hidden & Tactical section (Guard the Flame, Not Merely Human, Above the Chaos) treats Watchwords as Pythagorean passwords — verification phrases for those who Remember. The "Dangerous But Good" passage is one of the finest articulations of the warrior ethos in restraint that I have encountered in the wiki.
 
-- **`The Core Concepts of LIONSBERG`** — A single-file articulation of fifteen Core Concepts spanning First Principles → Core Structures → Core Realities → Core Mission → Final Word. This is itself almost a complete short volume. The Final Word ("LIONSBERG is a Nation without borders. A Kingdom without a king. A Temple without a priest. A People without chains. A Civilization without end.") is liturgical perfection.
+- **`The Core Concepts of LIØNSBERG`** — A single-file articulation of fifteen Core Concepts spanning First Principles → Core Structures → Core Realities → Core Mission → Final Word. This is itself almost a complete short volume. The Final Word ("LIØNSBERG is a Nation without borders. A Kingdom without a king. A Temple without a priest. A People without chains. A Civilization without end.") is liturgical perfection.
 
-- **`LIONSBERG - History, Inception, and Trust Manifesto`** — The chronological milestone sequence (December 1984 → January 2026) is the spine of the entire endeavor. The August 10th, 2025 entry ("J is killed in The War") is the rawest moment in the entire Core Documents folder. The honesty of "The emerging body of LIONSBERG, including its Provisional Structure and accounts, is laid to rest with J" is structurally clarifying — it explains why the post-J body is properly decentralized.
+- **`LIØNSBERG - History, Inception, and Trust Manifesto`** — The chronological milestone sequence (December 1984 → January 2026) is the spine of the entire endeavor. The August 10th, 2025 entry ("J is killed in The War") is the rawest moment in the entire Core Documents folder. The honesty of "The emerging body of LIØNSBERG, including its Provisional Structure and accounts, is laid to rest with J" is structurally clarifying — it explains why the post-J body is properly decentralized.
 
-- **`The LIONSBERG Operating System (LIOS)`** — The clearest single-file articulation of the holofractal architecture. The 8-scale fractal (Individual → Team → Family → Local Hub → City Hub → Bio/EcoRegional → Planetary OS → Cosmic OS) is the cleanest version of the architecture I have seen. Each scale has a memorable epigraph.
+- **`The LIØNSBERG Operating System (LIOS)`** — The clearest single-file articulation of the holofractal architecture. The 8-scale fractal (Individual → Team → Family → Local Hub → City Hub → Bio/EcoRegional → Planetary OS → Cosmic OS) is the cleanest version of the architecture I have seen. Each scale has a memorable epigraph.
 
 - **[[ Misc Notes on Constitution]]** — The "Misc Notes" file paradoxically contains some of the most foundational articulations in the entire Constitution (Spirit-and-Letter, Break-the-Rules, Locus-of-Sovereignty, What-We-Do-To-Any). These deserve formal status, not a "Misc" home.
 

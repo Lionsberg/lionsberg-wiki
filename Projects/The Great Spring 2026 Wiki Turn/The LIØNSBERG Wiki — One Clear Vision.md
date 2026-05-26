@@ -246,12 +246,12 @@ Honest inventory of what is ready, what is in motion, what remains.
 Sixteen structural decisions gate the next phase of work. Each is articulated in the project plan. The most consequential:
 
 - 12 Pillars or 12 Domains — which is canonical, or how are both held?
-- Kingdom of LIONSBERG v0.1 — supersede, harmonize, or sit alongside earlier articulations?
+- Kingdom of LIØNSBERG v0.1 — supersede, harmonize, or sit alongside earlier articulations?
 - Constitution numbering — declare new series canonical and complete the four TKTK articles?
-- The Book of LIONSBERG Chapters 15+16 — extract as standalone Volume, or close Volume VIII?
+- The Book of LIØNSBERG Chapters 15+16 — extract as standalone Volume, or close Volume VIII?
 - The Caves narrative — promote to Genesis-of-Codex, or keep as Chapter 1?
-- The Playbook canonical home — inside The Book of LIONSBERG, or at wiki root?
-- LIONSBERG 101 — promote to Volume root status?
+- The Playbook canonical home — inside The Book of LIØNSBERG, or at wiki root?
+- LIØNSBERG 101 — promote to Volume root status?
 - `Lionsberg - A Biblical Perspective` book — archive as Christian-companion piece or sunset entirely?
 - Volume binding strategy — seven separate volumes, boxed set, or single bound omnibus?
 

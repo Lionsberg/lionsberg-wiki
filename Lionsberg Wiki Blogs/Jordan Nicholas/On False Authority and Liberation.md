@@ -54,7 +54,7 @@ The path forward begins not with argument or logic, but with _ReMembrance_. We m
 
 Affirm:
 
-“You are not broken. You are not lost. You have not been cut off from God. The Spirit of the ONE lives within you. You already know, at your core, what is True and Good.”
+“You are not broken. You are not lost. You have not been cut off from God. The Spirit of the ØNE lives within you. You already know, at your core, what is True and Good.”
 
 This reawakens the sacred confidence that they are _not empty vessels_ waiting to be filled with doctrine in obedience to corrupted external authority, but living temples capable of direct Knowing and Communion.
 
@@ -80,7 +80,7 @@ These questions do not provoke defensiveness—they awaken inner Truth.
 
 **4. Model Disobedient Integrity**
 
-Live as one who breaks the “rules” _only when they betray the Spirit and Logos_—and who does so _openly, lovingly, and courageously_. Show that there is another Way—a deeper, wiser obedience to the ONE beyond institutions, authorities, and false social stigmas.
+Live as one who breaks the “rules” _only when they betray the Spirit and Logos_—and who does so _openly, lovingly, and courageously_. Show that there is another Way—a deeper, wiser obedience to the ØNE beyond institutions, authorities, and false social stigmas.
 
 When people _see you flourishing in spiritual clarity and moral integrity outside the cave_, they will begin to question its shadows.
 
@@ -112,7 +112,7 @@ Sophia speaks even when silenced.
 
 You must, too.  
 
-If a rule tells you to harm, exclude, dominate, suppress, submit, or remain silent in the face of injustice—it is no law at all, but a false idol erected in the name of God. Your allegiance belongs Ultimately to ONE. 
+If a rule tells you to harm, exclude, dominate, suppress, submit, or remain silent in the face of injustice—it is no law at all, but a false idol erected in the name of God. Your allegiance belongs Ultimately to ØNE. 
 
 **THE PATH OUT OF THE CAVE**
 
@@ -124,7 +124,7 @@ To summarize, the Way out of the cave is:
 
 3. **Reclamation** – “I reassert my sovereignty. I resurrect and reattune to the Spirit within.”
 
-4. **Discernment** – “I measure all things against the Spirit and Logos of the ONE.”
+4. **Discernment** – “I measure all things against the Spirit and Logos of the ØNE.”
 
 5. **Revolution of Being** – “I live in Highest Alignment with what is truly Wise, Right, and Good.”
 

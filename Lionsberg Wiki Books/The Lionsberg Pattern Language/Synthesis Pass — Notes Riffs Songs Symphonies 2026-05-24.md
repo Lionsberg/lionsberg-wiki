@@ -22,7 +22,7 @@ A note is **atomic** — playing it requires the full note, not a piece of it. T
 
 A **riff** is a short, recognizable, repeatable composition of notes — a phrase that can be played in many songs. The Seven Moves of The Great Game is a riff: [[Form A Circle]] → [[Choose A Quest]] → [[Do The Work]] → [[Share The Stories]] → [[Learn And Improve]] → [[Pass The Flame]] (six notes; a complete riff).
 
-Riffs live in the [[The LIONSBERG Playbook]]. They are operational — the field practitioner reaches for a riff when a specific situation calls for one.
+Riffs live in the [[The LIØNSBERG Playbook]]. They are operational — the field practitioner reaches for a riff when a specific situation calls for one.
 
 ## Song — The Extended Composition
 
@@ -32,18 +32,18 @@ Songs live in the [[Sacred Codex]] volumes, archetypal guidebooks, and major can
 
 ## Symphony — The Integrated Whole
 
-A **symphony** is the integrated cosmos played as ONE — many movements, many themes, many keys, held together by the master architecture. The full **Pattern Language** played as ONE is the symphony of civilization-becoming-itself. The [[Sacred Codex]] in totality is the score; the lived civilization is the performance.
+A **symphony** is the integrated cosmos played as ØNE — many movements, many themes, many keys, held together by the master architecture. The full **Pattern Language** played as ØNE is the symphony of civilization-becoming-itself. The [[Sacred Codex]] in totality is the score; the lived civilization is the performance.
 
-There is finally only **ONE Symphony** — the cosmic Pattern playing itself out through every Sovereign, Circle, Community, Bioregion, Planet, and Star Nation. All other compositions are movements within it.
+There is finally only **ØNE Symphony** — the cosmic Pattern playing itself out through every Sovereign, Circle, Community, Bioregion, Planet, and Star Nation. All other compositions are movements within it.
 
 ## The Diagnostic For Each Level
 
 | If the surfaced candidate is... | It belongs as... | In the canonical home... |
 |---|---|---|
 | An irreducible wisdom-unit | **Note** | [[The LIØNSBERG Pattern Language]] / Patterns folder |
-| A small repeatable composition of notes | **Riff** | [[The LIONSBERG Playbook]] / Plays folder |
+| A small repeatable composition of notes | **Riff** | [[The LIØNSBERG Playbook]] / Plays folder |
 | A coherent extended composition | **Song** | Archetypal Guidebook · Pillar · Volume chapter |
-| The integrated whole | **Symphony** | The Pattern Language played as ONE; the lived civilization |
+| The integrated whole | **Symphony** | The Pattern Language played as ØNE; the lived civilization |
 
 ---
 
@@ -116,7 +116,7 @@ Working through the master inventory, the following convergence clusters are vis
 
 **Canonical Note**: [[ØNE]]
 
-**Aliases (fold)**: ONE · The ONE · The One · ØNE Source · The Source · The Ultimate · Ultimate Substrate · Creator · The Creator · God · Source · The Absolute · The Deepest Thing · The Uncaused Cause · The Ground of Being · The Pinnacle Of Being · The Big Man In The Sky _(this last is the deconstructed-anthropomorphic form, not a separate note)_ · The Spark · The Fount Of Being And Becoming.
+**Aliases (fold)**: ØNE · The ØNE · The One · ØNE Source · The Source · The Ultimate · Ultimate Substrate · Creator · The Creator · God · Source · The Absolute · The Deepest Thing · The Uncaused Cause · The Ground of Being · The Pinnacle Of Being · The Big Man In The Sky _(this last is the deconstructed-anthropomorphic form, not a separate note)_ · The Spark · The Fount Of Being And Becoming.
 
 **Adjacent Notes (preserve)**:
 - [[The Logos]] — ØNE's intelligible-information-bringing-forth-the-world aspect. Distinct note: ØNE is the source; Logos is the speaking of the source.
@@ -395,7 +395,7 @@ The Daily Way is a song; the specific moments are notes that compose it.
 ## Cluster Story — The Narrative Notes
 
 **Distinct notes (preserve)**:
-- [[The Story Of LIONSBERG]] — the specific articulated story
+- [[The Story Of LIØNSBERG]] — the specific articulated story
 - [[Your Story]] — the individual-Sovereign articulation
 - [[Stories Of Transformation]] — the testimony-form
 - [[Story Pattern And Play]] — the structural form _(may fold)_
@@ -450,9 +450,9 @@ After folding, the canonical Pattern Card count looks to settle in the range of:
 
 - **12 Pillar songs** (one per Pillar)
 - **12+ Archetypal Guidebook songs** (Warrior, Healer, Steward, Storyteller, Cook, Midwife, Witness, Guardian, Builder, Teacher, Cosmic Diplomat, Elder, and possibly more)
-- **The Story of LIONSBERG** (cosmic-narrative song)
-- **The Great Game of LIONSBERG** (gameplay song)
-- **The Book of LIONSBERG** (prophetic-narrative song)
+- **The Story of LIØNSBERG** (cosmic-narrative song)
+- **The Great Game of LIØNSBERG** (gameplay song)
+- **The Book of LIØNSBERG** (prophetic-narrative song)
 - **The Daily Way / Weekly Heartbeat / Seasonal OmniSpection** (rhythm songs)
 - **The Sovereign's Path** (lifetime-arc song)
 - **The Sacred Ascent** (eternal-spiral song)
@@ -460,7 +460,7 @@ After folding, the canonical Pattern Card count looks to settle in the range of:
 
 ## The Symphony
 
-The full Pattern Language played as ONE, manifesting through the lived Body of LIØNSBERG at planetary and cosmic scale — the **Sovereign Superorganism** in coherent operation. The symphony is not a document; the symphony is the lived civilization.
+The full Pattern Language played as ØNE, manifesting through the lived Body of LIØNSBERG at planetary and cosmic scale — the **Sovereign Superorganism** in coherent operation. The symphony is not a document; the symphony is the lived civilization.
 
 The wiki holds the score. The Body plays the music. The cosmos receives.
 

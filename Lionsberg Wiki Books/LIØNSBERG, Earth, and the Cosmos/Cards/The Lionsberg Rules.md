@@ -16,7 +16,7 @@ The Lionsberg Rules are two.
 
 **The Meta Rule:**
 
-> _There is only ONE rule. Everything is ONE._
+> _There is only ØNE rule. Everything is ØNE._
 
 From this alone, all else can be **spiritually discerned**, **energetically sensed**, and **logically derived** in any Time or Space. It is the irreducible foundation. Strip everything else away and this remains.
 

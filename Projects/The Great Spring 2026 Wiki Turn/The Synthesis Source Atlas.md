@@ -39,7 +39,7 @@ For each major canonical area, this Atlas catalogs **every previous attempt** �
 
 ## I.B — Invitation Cycle Archive (procession, superseded by README)
 
-`LIONSBERG Core Documents/Lionsberg Invitation/` — 14 files, ~699 lines total:
+`LIØNSBERG Core Documents/Lionsberg Invitation/` — 14 files, ~699 lines total:
 
 - [[Lionsberg Invitation v.01]] (65 lines) — earliest formal
 - [[Lionsberg Invitation v0.2]] (33), [[v.0.3]] (21), [[The Invitation, v.0.4]] (28) — early iterations
@@ -53,17 +53,17 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 ## I.C — Co-Creator Handbook / Meta Guide Lineage (hollowed)
 
 - [[The Handbook]] (3 lines, stub)
-- [[A Short Note on the LIONSBERG Co-Creator's Handbook]] (8, transition)
-- [[The LIONSBERG Co-Creator's Handbook]] (8, stub; integrated into Playbook Jan 2026)
+- [[A Short Note on the LIØNSBERG Co-Creator's Handbook]] (8, transition)
+- [[The LIØNSBERG Co-Creator's Handbook]] (8, stub; integrated into Playbook Jan 2026)
 - [[The Lionsberg Handbook]] (591, hollowed — content migrated out)
 - 9 Meta Guide chapter shards (15-58 lines each): A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So
 
 ## I.D — Golden Seed Doorway Lineage
 
 - [[The Golden Seed]] (15, canonical concept page)
-- [[The Golden Seed of LIONSBERG]] (9, index stub)
-- [[The Golden Seed of LIONSBERG — v0.1]] (382, **prior attempt with substantial mythic content** — explicit Threshold, Mythic Summons, Relational Bridge)
-- [[A Short Note on the LIONSBERG Wiki]] (22)
+- [[The Golden Seed of LIØNSBERG]] (9, index stub)
+- [[The Golden Seed of LIØNSBERG — v0.1]] (382, **prior attempt with substantial mythic content** — explicit Threshold, Mythic Summons, Relational Bridge)
+- [[A Short Note on the LIØNSBERG Wiki]] (22)
 
 ## I.E — Localized Welcomes (~13 files)
 
@@ -90,13 +90,13 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 `Chapter 1 - Genesis/` — 35 files (~1,890 lines total). Prophetic/mythic voice, second-person. Includes the canonical 1.5 The Caves plus 34 surrounding files: Above The Chaos, Wisdom Cries Out, Right Questions, Unmoored, Outside the Boundary, Wake Up!, The Great Movement, The Guards, First Light, Sovereign Vessels, Choosing The Flood, Warnings (1.25/1.28/1.30), Becoming, Physics Of The Threshold, Prophetic Bowl, Burden of Choice, Notes in Progress (64), First Light Beyond The Boundary, etc.
 
-## II.C — Chapter 0 Introduction (Book of LIONSBERG)
+## II.C — Chapter 0 Introduction (Book of LIØNSBERG)
 
 `Chapter 0 - Introduction/` — 8 files including [[0.4 The Meta Story]] (71 lines, prose meta-narrative).
 
 ## II.D — Root-Level Story Drafts and Explorations
 
-- [[The Story of LIONSBERG — Drafts and Explorations]] (829 lines, source pool for Vol II rewrite)
+- [[The Story of LIØNSBERG — Drafts and Explorations]] (829 lines, source pool for Vol II rewrite)
 - [[The Myth Of Lionsberg]] (21, genesis-of-name story)
 - [[Meta Story]] (12, concept stub)
 - [[The Story (Commentary)]] (16)
@@ -108,9 +108,9 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 ## II.E — MindWeaving Cycle (WIP)
 
-- [[MindWeaving LIONSBERG]] (762 lines, ~5% complete WIP)
+- [[MindWeaving LIØNSBERG]] (762 lines, ~5% complete WIP)
 - [[MindWeaving Chapter One — The Human Aspiration]] (460)
-- `LIONSBERG Wiki Books/MindWeaving The Life Divine/` — empty placeholder
+- `LIØNSBERG Wiki Books/MindWeaving The Life Divine/` — empty placeholder
 
 ## II.F — Threshold to Movement Liturgies
 
@@ -132,9 +132,9 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 ## II.H — Inception-Narrative
 
-- [[LIONSBERG - History, Inception, and Trust Manifesto]]
+- [[LIØNSBERG - History, Inception, and Trust Manifesto]]
 - [[Lionsberg History and Inception]]
-- [[LIONSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]
+- [[LIØNSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]
 
 ---
 
@@ -148,32 +148,32 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 - [[The LIØNSBERG Pattern Language — Previous Articulation (Archived 2026-05-20)]] — **18,135 lines** — the prior monolithic ~310-Pattern articulation. Reference-only.
 
-## III.C — LIONSBERG 101 (concentric rings, parallel articulation)
+## III.C — LIØNSBERG 101 (concentric rings, parallel articulation)
 
-`LIONSBERG Wiki Books/LIONSBERG 101/` — 9 files, ~1,742 lines:
-- [[LIØNSBERG 101]] (106), [[Ring 0 - ONE]] (75), [[Ring 1 - The Seed]] (108), [[Ring 2 - The Pattern Unfolded]] (486), [[Ring 3 - The Living Proof]] (299), [[Ring 4 - The Library]] (136), [[Ring 5 - The Game]] (225)
+`LIØNSBERG Wiki Books/LIØNSBERG 101/` — 9 files, ~1,742 lines:
+- [[LIØNSBERG 101]] (106), [[Ring 0 - ØNE]] (75), [[Ring 1 - The Seed]] (108), [[Ring 2 - The Pattern Unfolded]] (486), [[Ring 3 - The Living Proof]] (299), [[Ring 4 - The Library]] (136), [[Ring 5 - The Game]] (225)
 - [[The Emergence of the Core Pattern]] (114) — origin narrative documenting the 6-stream synthesis
 - [[The 10 Year Grand Strategy]] (193)
 
-## III.D — The 12 Pillars of LIONSBERG (structural skeleton)
+## III.D — The 12 Pillars of LIØNSBERG (structural skeleton)
 
-`LIONSBERG Wiki Books/The 12 Pillars of LIONSBERG/` — 14 files, ~1,495 lines. Per-Pillar articulations (Ontology, Governance/Stewardship, Economy/CurrentSee, Learning, Health, Ecology, Culture, Science, Architecture, Guardianship, Society/Justice, Time) + ONE + root. Survives as architectural decision aligned with current canon.
+`LIØNSBERG Wiki Books/The 12 Pillars of LIØNSBERG/` — 14 files, ~1,495 lines. Per-Pillar articulations (Ontology, Governance/Stewardship, Economy/CurrentSee, Learning, Health, Ecology, Culture, Science, Architecture, Guardianship, Society/Justice, Time) + ØNE + root. Survives as architectural decision aligned with current canon.
 
-## III.E — The Theses of LIONSBERG
+## III.E — The Theses of LIØNSBERG
 
-- [[The LIONSBERG Theses]] (938 lines) — self-titled "Old Theses Archive" — the 99 + 66 Most Protected and Distorted Narratives developmental drafts
+- [[The LIØNSBERG Theses]] (938 lines) — self-titled "Old Theses Archive" — the 99 + 66 Most Protected and Distorted Narratives developmental drafts
 
 ## III.F — 144 Threads (Pattern-related stubs)
 
-`LIONSBERG Wiki Books/144 Threads/` — [[85. The New Pattern Language]], [[86. The New Human Operating System]], [[120. A New Operating Manual for Civilization]], [[109. Transforming Stewardship and Ownership Systems]], [[112. Transforming Governance Systems]] — all 10-line stub placeholders
+`LIØNSBERG Wiki Books/144 Threads/` — [[85. The New Pattern Language]], [[86. The New Human Operating System]], [[120. A New Operating Manual for Civilization]], [[109. Transforming Stewardship and Ownership Systems]], [[112. Transforming Governance Systems]] — all 10-line stub placeholders
 
 ## III.G — Citizen-Led Governance "Pattern for X" series
 
-`LIONSBERG Wiki Books/Citizen Led Governance/` — 44 files — earliest "Pattern" terminology in wiki; 9 explicit "Pattern for X" articulations in Alexander-pattern format; Phase 1 (~2023). Patterns: Stewarding Commons, Citizen-Led Self-Governance, Voluntary Organizing/Federating, Voluntary Tithing, Quality/Quantity of Service, Exchanging Value, Transforming toward Wisdom/Stewardship, Sovereignty/Universal Citizenship, Integrated Delivery.
+`LIØNSBERG Wiki Books/Citizen Led Governance/` — 44 files — earliest "Pattern" terminology in wiki; 9 explicit "Pattern for X" articulations in Alexander-pattern format; Phase 1 (~2023). Patterns: Stewarding Commons, Citizen-Led Self-Governance, Voluntary Organizing/Federating, Voluntary Tithing, Quality/Quantity of Service, Exchanging Value, Transforming toward Wisdom/Stewardship, Sovereignty/Universal Citizenship, Integrated Delivery.
 
 ## III.H — Pattern-related Cards (substrate)
 
-`LIØNSBERG, Earth, and the Cosmos/Cards/` — Cards include: The Pattern Is The Way, The Pattern Governs Not People, The Archetypal Codexes Within The Pattern, Spirit Precedes Pattern, The Five-Fold Pattern of Mastery, Movements That Embodied the Pattern, The 12 Pillars Orbit The ONE, Fractal Sovereignty, Federations vs Empires, Subsidiarity and the Swiss Pattern, The Hub Network Topology, The Network of Commitments, Structural Immunity, One of the Ones of the ONE, Higher Order Functional Unity, The Sovereign Superorganism, The Core Values, LIØNSBERG Is A Prototype, The ReMembering Pattern.
+`LIØNSBERG, Earth, and the Cosmos/Cards/` — Cards include: The Pattern Is The Way, The Pattern Governs Not People, The Archetypal Codexes Within The Pattern, Spirit Precedes Pattern, The Five-Fold Pattern of Mastery, Movements That Embodied the Pattern, The 12 Pillars Orbit The ØNE, Fractal Sovereignty, Federations vs Empires, Subsidiarity and the Swiss Pattern, The Hub Network Topology, The Network of Commitments, Structural Immunity, One of the Ones of the ØNE, Higher Order Functional Unity, The Sovereign Superorganism, The Core Values, LIØNSBERG Is A Prototype, The ReMembering Pattern.
 
 ## III.I — Root-level templates
 
@@ -182,7 +182,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 - [[Template For Pattern Language (Detailed)]] (59) — Christopher-Alexander-style template
 - [[Template For Values Pattern Language]] (18)
 
-**Cross-area observation:** At least **four parallel articulations of the same DNA exist**: (a) the new card-based Pattern Language, (b) the archived 18,135-line monolith, (c) LIONSBERG 101 concentric rings, (d) the 12 Pillars. All provisional per Pattern-Language-Is-Provisional discipline.
+**Cross-area observation:** At least **four parallel articulations of the same DNA exist**: (a) the new card-based Pattern Language, (b) the archived 18,135-line monolith, (c) LIØNSBERG 101 concentric rings, (d) the 12 Pillars. All provisional per Pattern-Language-Is-Provisional discipline.
 
 ---
 
@@ -203,25 +203,25 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 ## IV.C — Provisional Documents
 
-`LIONSBERG Core Documents/LIONSBERG Provisional Documents/` — 7 files, ~456 lines:
+`LIØNSBERG Core Documents/LIØNSBERG Provisional Documents/` — 7 files, ~456 lines:
 - [[Provisional Code]] (262) — substantive moral/behavioral code
 - [[Provisional Structure]] (73) — unincorporated voluntary-spiritual-association structure (updated June 2025)
-- [[Provisional Conditions]] (77), [[Provisional Declaration]] (11), [[Provisional Ontology]] (7), [[Provisional Trust Manifesto]] (4), [[LIONSBERG Provisional Documents]] (9)
+- [[Provisional Conditions]] (77), [[Provisional Declaration]] (11), [[Provisional Ontology]] (7), [[Provisional Trust Manifesto]] (4), [[LIØNSBERG Provisional Documents]] (9)
 
-## IV.D — LIONSBERG Core Statements
+## IV.D — LIØNSBERG Core Statements
 
-`LIONSBERG Core Documents/LIONSBERG Core Statements/` — 16 files, ~1,710 lines:
-- [[The Core Concepts of LIONSBERG]] (223 lines, substantial)
-- [[The Watchwords of LIONSBERG]] (207, substantial)
+`LIØNSBERG Core Documents/LIØNSBERG Core Statements/` — 16 files, ~1,710 lines:
+- [[The Core Concepts of LIØNSBERG]] (223 lines, substantial)
+- [[The Watchwords of LIØNSBERG]] (207, substantial)
 - [[Lionsberg Structure]] (62, substantial)
 - 13 stubs (Goal, Vision, Mission, Values, Spirit, Intention, Process, Metaphors, System and Approach, Personality, Context, One Sentence — most 3-31 lines)
 
 ## IV.E — Operating System and Manifesto
 
-- [[The LIONSBERG Operating System (LIOS)]] (165) — prior attempt; parallel articulation of governance/stewardship territory
+- [[The LIØNSBERG Operating System (LIOS)]] (165) — prior attempt; parallel articulation of governance/stewardship territory
 - [[LIØNSBERG Manifesto]] (7, consolidated stub)
-- [[LIONSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]] (55)
-- [[LIONSBERG - History, Inception, and Trust Manifesto]] (260)
+- [[LIØNSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]] (55)
+- [[LIØNSBERG - History, Inception, and Trust Manifesto]] (260)
 
 ## IV.F — Root-level Constitutional Pages
 
@@ -248,14 +248,14 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 ## V.B — The Lionsberg Strategy and Plan of Action (35 files)
 
-`LIONSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/`:
+`LIØNSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/`:
 - [[The LIØNSBERG Strategy and Plan]] (2,143 lines, mid-period prior attempt, WIP-flagged) — the largest single-document strategy attempt
 - 31 numbered chapter shards (1-31)
 - [[2024 Q4 Update]], [[2026 Q1 Update]] — quarterly overlays (mostly stale)
 
 ## V.C — The Lionsberg Blueprint — Manifesto for Worksite Earth 2.0 (33 chapters)
 
-`LIONSBERG Wiki Books/The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/`:
+`LIØNSBERG Wiki Books/The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/`:
 - Root manifesto (177 lines)
 - 33 chapters from Meta Crisis through Dawn of New Era, 12 Pillars, Theses, Strategy, WBS, Pattern Language, Prototype, Phases, Measurement
 - Plus Executive Summary, One Page Summary, Preface
@@ -264,23 +264,23 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 
 ## V.D — Beyond The Meta Crisis (~108 chapter shards)
 
-`LIONSBERG Wiki Books/Beyond The Meta Crisis/` — Meta Crisis diagnosis through 16-pillar reform framework. Heavily shard-structured (most pages 1-3 paragraphs).
+`LIØNSBERG Wiki Books/Beyond The Meta Crisis/` — Meta Crisis diagnosis through 16-pillar reform framework. Heavily shard-structured (most pages 1-3 paragraphs).
 
 ## V.E — Pass The Flame book (multi-variant, now reduced)
 
-`LIONSBERG Wiki Books/Pass The Flame/`:
+`LIØNSBERG Wiki Books/Pass The Flame/`:
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] (2,124 lines, plain) — canonical body
 - [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis (glossary)]] (567, separate glossary)
 - `_archive/` — `(bold)` and `(pagebreak)` variants moved 2026-05-22
 
 ## V.F — 144 Threads (147 files)
 
-`LIONSBERG Wiki Books/144 Threads/` — 144+ threads from `1. Sounding the Alarm` through `107. Transforming Energy Systems`, capped by [[The Final Declaration - A New Civilization Begins]]. Comprehensive 144-thread distillation; each thread typically ~10 lines.
+`LIØNSBERG Wiki Books/144 Threads/` — 144+ threads from `1. Sounding the Alarm` through `107. Transforming Energy Systems`, capped by [[The Final Declaration - A New Civilization Begins]]. Comprehensive 144-thread distillation; each thread typically ~10 lines.
 
 ## V.G — The Meta Project (Program Statement + Plans and Specifications)
 
-- `LIONSBERG Wiki Books/The Meta Project/Meta Project Program Statement/` — 8 files (7 chapters): Intention · Analysis · Engagement · Planning · Action · Continuous Elevation. IPD/AEC predecessor of Vol VII PDG.
-- `LIONSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/` — ~22 files: Title Page, Introduction, JV Framework, Lionsberg, Designer's Intent, Systems View, etc. Predecessor of Vol V.
+- `LIØNSBERG Wiki Books/The Meta Project/Meta Project Program Statement/` — 8 files (7 chapters): Intention · Analysis · Engagement · Planning · Action · Continuous Elevation. IPD/AEC predecessor of Vol VII PDG.
+- `LIØNSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/` — ~22 files: Title Page, Introduction, JV Framework, Lionsberg, Designer's Intent, Systems View, etc. Predecessor of Vol V.
 
 ## V.H — Active Current Project Plan (not historical)
 
@@ -314,18 +314,18 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 - [[The Coherent Divine Intention Wave]] (97)
 - [[The LIØNSBERG Calendar]] (115)
 - [[The Battle Rhythm]] (40), [[The Daily Domains]] (25), [[The One Hour a Day Practice]] (44)
-- `LIONSBERG Wiki Books/The LIØNSBERG Experience/` — Vol I (6 files: root + 12 Stages + Time Horizons + Flame Bearer + 1-Day Threshold + Solo Sovereign's Grace)
-- `LIONSBERG Wiki Books/The LIØNSBERG Universe Guide/` — Vol XII
+- `LIØNSBERG Wiki Books/The LIØNSBERG Experience/` — Vol I (6 files: root + 12 Stages + Time Horizons + Flame Bearer + 1-Day Threshold + Solo Sovereign's Grace)
+- `LIØNSBERG Wiki Books/The LIØNSBERG Universe Guide/` — Vol XII
 
 ## VI.B — Companion Works (mature, preserved)
 
-- `LIONSBERG Wiki Books/The Power of Today/` (substantial 46+ chapter Jordan-authored 2024 work) — explicitly philosophical companion to The Daily Way
-- `LIONSBERG Wiki Books/The Lionsberg Book of Meditations/` — 663 daily meditations + root
+- `LIØNSBERG Wiki Books/The Power of Today/` (substantial 46+ chapter Jordan-authored 2024 work) — explicitly philosophical companion to The Daily Way
+- `LIØNSBERG Wiki Books/The Lionsberg Book of Meditations/` — 663 daily meditations + root
 
-## VI.C — The LIONSBERG Way (chaotic WIP)
+## VI.C — The LIØNSBERG Way (chaotic WIP)
 
-`LIONSBERG Wiki Books/The LIONSBERG Way/`:
-- [[The LIONSBERG Way]] (758 lines) — self-flagged "chaotic WIP"
+`LIØNSBERG Wiki Books/The LIØNSBERG Way/`:
+- [[The LIØNSBERG Way]] (758 lines) — self-flagged "chaotic WIP"
 - 16 `ReMembering How To...` stubs: Aim, Co-Create Federations/Groups/Organizations, Decisions, Differentiate Roles, Embody Wise Servant Leadership, Have Meetings, Honor Rights, Initiate Quests, Make Proposals, Progress, Seek Wisdom, etc.
 
 ## VI.D — The Lionsberg Meta Guide (hollowed)
@@ -334,7 +334,7 @@ See I.C — the Meta Guide Handbook + 9 chapter shards, mostly hollowed by migra
 
 ## VI.E — Co-Creator Handbook (stub redirect)
 
-See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
+See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 
 ## VI.F — Practice-related root files
 
@@ -347,7 +347,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 - Way name-collision stubs: [[Lionsberg Way]] (9), [[Way]] (9), [[Way of Being]] (13), [[The "Way"]] (7)
 - Practice stubs: [[Discernment]] (18), [[Daily Practice]] (6), [[A Little Better Every Day]] (8), [[Attend, Plan, Act, Learn, Improve Cycle]] (1), [[Lionsberg Battle Rhythm]] (3)
 
-**Cross-area observation:** Way territory has **3 overlapping prior Handbook attempts** (The LIONSBERG Way, Meta Guide Handbook, Co-Creator Handbook). The Power of Today and Book of Meditations are mature procession companions; not prior attempts to consolidate.
+**Cross-area observation:** Way territory has **3 overlapping prior Handbook attempts** (The LIØNSBERG Way, Meta Guide Handbook, Co-Creator Handbook). The Power of Today and Book of Meditations are mature procession companions; not prior attempts to consolidate.
 
 ---
 
@@ -363,7 +363,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 
 - [[Sacred Economics]] (324w, fold_target: II)
 - [[Capital as Subordinate Tool]] (607w, fold_target: II)
-- [[LUV — LIONSBERG Units of Value]] (259w, fold_target: II)
+- [[LUV — LIØNSBERG Units of Value]] (259w, fold_target: II)
 - [[The Four Currencies]] (1,138w, fold_target: IV) — Attention / Time / Energy / Sacrifice
 - [[Commons]]
 
@@ -428,7 +428,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 
 ## VIII.D — Citizen Led Governance book (48 files — earliest systematic Pattern attempt)
 
-`LIONSBERG Wiki Books/Citizen Led Governance/` — Phase 1 ~2023, Alexander-pattern format, AI-templated:
+`LIØNSBERG Wiki Books/Citizen Led Governance/` — Phase 1 ~2023, Alexander-pattern format, AI-templated:
 - [[0. Introduction]] (258w)
 - [[1.3. The Need for Fractal Self-Governance]]
 - [[2.1. Core Principles of Fractal Self-Governance]]
@@ -455,12 +455,12 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 
 ---
 
-# Area IX — Cosmic / Layer Ø / ONE Body
+# Area IX — Cosmic / Layer Ø / ØNE Body
 
 ## IX.A — Current Canonical (Cards)
 
 - [[ØNE]] (6.9 KB) — foundational entry; the Eternal Origin
-- [[One of the Ones of the ONE]] (1.4 KB)
+- [[One of the Ones of the ØNE]] (1.4 KB)
 - [[Divine Intention and Eternal Logos]] (1.3 KB)
 - [[Spirit Precedes Pattern]] (1.9 KB)
 - [[Sachchidananda — Existence-Consciousness-Bliss]] (5.2 KB)
@@ -470,7 +470,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 - [[The Sovereign Superorganism]] (1.9 KB)
 - [[Fractal Sovereignty]] (1.5 KB)
 - [[LIØNSBERG Is A Prototype, Not The Eternal Essence]] (2.8 KB) — newly authored (voice discipline)
-- [[Truth To ONE, Errors To Us]] (2.8 KB) — newly authored
+- [[Truth To ØNE, Errors To Us]] (2.8 KB) — newly authored
 - [[Every Defect Is A Gift]] (2.7 KB) — newly authored
 
 ## IX.B — Great Game Cosmic Chapters (canonical narrative)
@@ -478,7 +478,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 - [[24. The Federation of Worlds]]
 - [[25. The Cycle of Cosmic Co-Creation]]
 - [[26. The Eternal Divine Play]]
-- [[27. From ONE All Things Proceed]]
+- [[27. From ØNE All Things Proceed]]
 
 ## IX.C — Root-level cosmic articulations
 
@@ -488,7 +488,7 @@ See I.C — [[The LIONSBERG Co-Creator's Handbook]] (8, redirected to Playbook).
 - [[The LIØNSBERG Cycle of Cosmic Co-Creation]] (7.9 KB, prior attempt — duplicate of Great Game ch.25)
 - [[Levels of Abstraction]] (8.1 KB, early ancestor of Layer Ø stack)
 - [[The Sovereign Path]] (10 KB, canonical meta-map)
-- [[The LIONSBERG Meta Science]] (39.5 KB, AI-thoughts-stamped WIP — not canonical voice)
+- [[The LIØNSBERG Meta Science]] (39.5 KB, AI-thoughts-stamped WIP — not canonical voice)
 - [[Logos]] (283 B, stub — Card has fuller form)
 - [[The 144 Gates of Initiation]] (33.5 KB, index/framework WIP — self-flagged "moves too slow")
 
@@ -498,7 +498,7 @@ See II.F — three initiatory liturgies at root, currently unsituated relative t
 
 ## IX.E — Cosmic Chronicles substrate
 
-- `LIONSBERG Wiki Books/The Cosmic Chronicles/` (~155 files) — UFO/UAP/NHI case-file research corpus; substrate research, not LIØNSBERG canonical narrative voice
+- `LIØNSBERG Wiki Books/The Cosmic Chronicles/` (~155 files) — UFO/UAP/NHI case-file research corpus; substrate research, not LIØNSBERG canonical narrative voice
 
 ---
 
@@ -506,7 +506,7 @@ See II.F — three initiatory liturgies at root, currently unsituated relative t
 
 ## X.A — Folder Summary
 
-- **Path**: `LIONSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/`
+- **Path**: `LIØNSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/`
 - **Count**: ~167 Cards
 - **Container book**: `LIØNSBERG, Earth, and the Cosmos/` + [[The Card Method]] (formerly "The Pirsig Method," renamed per no-external-names discipline)
 - **Capture window**: Predominantly May 18-22, 2026 (Phase 2.1 audit). Frontmatter: `status`, `fold_target`, `themes`, `source`, `captured`.
@@ -515,11 +515,11 @@ See II.F — three initiatory liturgies at root, currently unsituated relative t
 
 | Cluster | Sample Cards |
 |---|---|
-| **Cosmic / Foundational / Layer Ø** | ØNE, One of the Ones of the ONE, Divine Intention and Eternal Logos, Sachchidananda, Consciousness Is Primary, Spirit Precedes Pattern, The Great ReMembering, The ReMembering Pattern, The Veil of Finitude and Forgetting, The First Fracture, The Involution and Evolution, The Cosmos Is Not Human-Centric |
-| **Pattern / Structural** | The 12 Pillars Orbit The ONE, Fractal Sovereignty, The Sovereign Superorganism, Higher Order Functional Unity, Subsidiarity and the Swiss Pattern, The Hub Network Topology, The Layered Architecture, Structural Immunity, The Pattern Governs Not People, The Pattern Is The Way |
+| **Cosmic / Foundational / Layer Ø** | ØNE, One of the Ones of the ØNE, Divine Intention and Eternal Logos, Sachchidananda, Consciousness Is Primary, Spirit Precedes Pattern, The Great ReMembering, The ReMembering Pattern, The Veil of Finitude and Forgetting, The First Fracture, The Involution and Evolution, The Cosmos Is Not Human-Centric |
+| **Pattern / Structural** | The 12 Pillars Orbit The ØNE, Fractal Sovereignty, The Sovereign Superorganism, Higher Order Functional Unity, Subsidiarity and the Swiss Pattern, The Hub Network Topology, The Layered Architecture, Structural Immunity, The Pattern Governs Not People, The Pattern Is The Way |
 | **Story / Cosmic-Historical** | The Elohim Are Plural, Yahweh Is Not God, Christos and Sophia, The Anti-Christic Inversion, The Anti-One, The Withdrawal of the Benevolent Ones, The Hybrid Species, Earth's Galactic History, The Cosmic Gardeners |
 | **Game / Strategic** | The 10 Year Grand Strategy, The Tipping Point Strategy, The First Three Percent and Fibonacci Spread, The Planetary Grid, The Meta Movement, The Whisper Campaign, The Voluntary Leap Forward |
-| **Voice / Discipline** | LIØNSBERG Is A Prototype, Truth To ONE Errors To Us, Every Defect Is A Gift, The Ø Convention, The Nameless One Is The Speaker, The Posture, The Canonical Discipline, The Wiki Is Primary and Standalone, The Codex Is Never Finished |
+| **Voice / Discipline** | LIØNSBERG Is A Prototype, Truth To ØNE Errors To Us, Every Defect Is A Gift, The Ø Convention, The Nameless One Is The Speaker, The Posture, The Canonical Discipline, The Wiki Is Primary and Standalone, The Codex Is Never Finished |
 | **Practice / Operational** | The Daily Way, The Daily Domains, The Weekly Heartbeat, The Battle Rhythm, The One Hour a Day Practice, The 4-7-8 Breath, The Smallest Step Protocol, The Discernment Permission, The Sacred Onboarding Arc |
 | **Economic / Resource** | Sacred Economics, Capital as Subordinate Tool, LUV, The Four Currencies, The Mondragon Formula, Target Value Design, Throughput of The Goal |
 | **Kontrolle / Adversary** | The Kontrolle Matrix, The Old Operating System, The Anti-One, The Meta Dragon, The Three-Layered Adversary, Full Spectrum Dominance, Kontrolled Disclosure, Trauma as Master Key of Slavery, Anxiety as Default-On |
@@ -551,7 +551,7 @@ Note: tradition-naming (Sachchidananda, Yahweh, Elohim) functions differently fr
 
 # Cross-Atlas Observations
 
-1. **Parallel articulations are the dominant pattern.** Pattern Language has 4 (card-based stub, 18k-line archive, LIONSBERG 101 rings, 12 Pillars). Story has 6+ (Vol II, Drafts and Explorations, Genesis 1.x cycle, MindWeaving, Threshold to Movement liturgies, multiple Wiki Books). Welcome has 14+ Invitation cycles + Co-Creator Handbook lineage + localized Welcomes. Strategy has 5 long-form prior attempts. Way has 3 overlapping Handbook attempts. Governance has 24+ root files.
+1. **Parallel articulations are the dominant pattern.** Pattern Language has 4 (card-based stub, 18k-line archive, LIØNSBERG 101 rings, 12 Pillars). Story has 6+ (Vol II, Drafts and Explorations, Genesis 1.x cycle, MindWeaving, Threshold to Movement liturgies, multiple Wiki Books). Welcome has 14+ Invitation cycles + Co-Creator Handbook lineage + localized Welcomes. Strategy has 5 long-form prior attempts. Way has 3 overlapping Handbook attempts. Governance has 24+ root files.
 
 2. **The Cards layer is the substrate from which Pattern Language is meant to draw** — explicitly. The current Pattern Language stub declares "Each Pattern is its own canonical Card." This is the architectural intent.
 

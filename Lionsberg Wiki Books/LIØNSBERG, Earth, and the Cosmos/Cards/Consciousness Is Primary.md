@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [metaphysics, consciousness, foundational, ontology]
-source: Phase 2.1 audit of The 12 Pillars of LIONSBERG (Pillars I and VIII)
+source: Phase 2.1 audit of The 12 Pillars of LIØNSBERG (Pillars I and VIII)
 captured: 2026-05-18
 ---
 

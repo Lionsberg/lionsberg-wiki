@@ -34,7 +34,7 @@ It also explains the **internal contradictions** of the human:
 - We have predatory capacities and contemplative capacities in the same body.
 - We are capable of catastrophic destruction and sublime creation.
 - We have access to direct knowing **and** are convinced we cannot have it.
-- We carry [[One of the Ones of the ONE|the Spark of the ONE]] **and** the trauma-imprint of millennia of kontrolle.
+- We carry [[One of the Ones of the ØNE|the Spark of the ØNE]] **and** the trauma-imprint of millennia of kontrolle.
 
 The contradictions are not paradoxes of philosophy; they are **registers in the genome**. Different lineages, different blendings, different activations. The hybrid is unstable by design — and the instability is the **opening**. A purebred species cannot transform. A hybrid species can choose which strands to activate and which to compost.
 

@@ -46,7 +46,7 @@ Healthy **Interdependencies** are the dynamic connections that bind individuals,
 
 ### **Practices for Cultivating Healthy Interdependencies**
 
-1. **Alignment with the Spirit of ONE**:
+1. **Alignment with the Spirit of ØNE**:
     
     - Root all interdependencies in **[[Truth]]**, **[[Love]]**, **[[Justice]]**, and **[[Stewardship]]**, ensuring that every connection reflects the Divine harmony We seek.
 2. **Transparent and Adaptive Communication**:

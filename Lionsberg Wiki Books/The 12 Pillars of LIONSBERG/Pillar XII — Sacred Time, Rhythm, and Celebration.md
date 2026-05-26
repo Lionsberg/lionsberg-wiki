@@ -6,7 +6,7 @@ _Living in Harmony with the Cycles of Life, the Seasons of the Soul, and the Ete
 
 ### **Summary**
 
-The Twelfth Pillar of LIONSBERG restores our relationship with Time—not as a commodity to be consumed, but as a sacred rhythm to be attuned to. It reclaims the cycles of day and night, the seasons of Earth and Spirit, the initiatory thresholds of life, and the festivals of joy as core dimensions of a regenerative civilization. Sacred Time, Rhythm, and Celebration bring us back into harmony with the pulse of Creation, liberating us from artificial urgency and reconnecting us to the joy, beauty, and Divine Kairos of InterExistence.
+The Twelfth Pillar of LIØNSBERG restores our relationship with Time—not as a commodity to be consumed, but as a sacred rhythm to be attuned to. It reclaims the cycles of day and night, the seasons of Earth and Spirit, the initiatory thresholds of life, and the festivals of joy as core dimensions of a regenerative civilization. Sacred Time, Rhythm, and Celebration bring us back into harmony with the pulse of Creation, liberating us from artificial urgency and reconnecting us to the joy, beauty, and Divine Kairos of InterExistence.
 
 ---
 
@@ -44,7 +44,7 @@ This pillar is the culmination of the previous eleven. For it is through time, r
     
 9. **Communal Time Is the Heartbeat of a Healthy Society** — shared meals, ceremonies, and festivals are the glue of belonging.
     
-10. **Our Relationship to Time Reflects Our Relationship to the ONE** — anxiety dissolves when we trust the rhythm of the Logos.
+10. **Our Relationship to Time Reflects Our Relationship to the ØNE** — anxiety dissolves when we trust the rhythm of the Logos.
     
 11. **Time Must Be ReClaimed from Systems of Control** — no being should be enslaved to clocks, quotas, or artificial urgency.
     
@@ -73,7 +73,7 @@ It teaches us that you cannot have Heaven on Earth without joy. That without son
 
 In Sacred Time, every day becomes a liturgy. Every season a scripture. Every act of presence a prayer.
 
-LIONSBERG calls for the sanctification of time—not to escape the world, but to inhabit it fully. To attune to the dance of the cosmos. To slow down, open up, and re-enter the sacred flow.
+LIØNSBERG calls for the sanctification of time—not to escape the world, but to inhabit it fully. To attune to the dance of the cosmos. To slow down, open up, and re-enter the sacred flow.
 
 We do not merely wish for a better world. We gather to celebrate its arrival.
 

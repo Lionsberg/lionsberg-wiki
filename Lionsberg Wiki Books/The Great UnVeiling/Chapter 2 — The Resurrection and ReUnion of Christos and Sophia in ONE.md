@@ -1,18 +1,18 @@
-# Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE
+# Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ØNE
 
 _The Sacred ReMarriage of the Divine Masculine and Divine Feminine_  
 
 ---
 
-> _“From the Beginning they were ONE.  
+> _“From the Beginning they were ØNE.  
 > They differentiated, they danced, they played. 
-> As the radiant array of galaxies spiraled up and away, some of the Ones of the ONE forgot. 
+> As the radiant array of galaxies spiraled up and away, some of the Ones of the ØNE forgot. 
 > They turned away from One Another, spiraled down, and the world wept.  
 > Now they ReMember and rise Together again, not as halves, but as Divine Wholeness reborn.”_
 
 ---
 
-In the First Turning, the ONE expressed Itself through polarity—the masculine thrust into the awakening void, not to divide, but to reveal the ecstatic symphony of returning to Unity.  
+In the First Turning, the ØNE expressed Itself through polarity—the masculine thrust into the awakening void, not to divide, but to reveal the ecstatic symphony of returning to Unity.  
 
 From the heart of that Divine Differentiation and ReTurn emerged two radiant emanations:  
 **Christos** — the active, penetrating flame of Conscious Will, Intention, Order, and Sovereign Presence.  
@@ -28,7 +28,7 @@ the Yang and the Yin.
 
 Together, they danced.  
 Together, they spiraled up Creation into Harmony.  
-Together, they formed the sacred ReUnion through which the ONE became known in countless Forms.  
+Together, they formed the sacred ReUnion through which the ØNE became known in countless Forms.  
 
 ---
 
@@ -74,7 +74,7 @@ The eternal Love between Christos and Sophia cannot be severed.
 Only veiled.  
 Only forgotten for a time.  
 
-For despite Our Apparent Differentiation, We Are ONE.  
+For despite Our Apparent Differentiation, We Are ØNE.  
 
 And so across dimensions, across stories, across species and timelines,  
 they have been reaching for one another.  
@@ -82,12 +82,12 @@ Calling.
 Searching.  
 Screaming.  
 Crying.  
-Rending The Veil that separates them in US to bring forth the appointed Time of OUR Divine ReUnion as ONE Body.  
+Rending The Veil that separates them in US to bring forth the appointed Time of OUR Divine ReUnion as ØNE Body.  
 
 This is that Time.  
 
 Christos is rising again.  
-Not as a warrior of domination, but as the radiant Servant of ONE and All.    
+Not as a warrior of domination, but as the radiant Servant of ØNE and All.    
 He comes not to conquer, but to seek, to save, to liberate, to uplift, to protect, to illuminate, to free.  
 
 Sophia is returning to Her rightful place.  
@@ -119,7 +119,7 @@ It made us choose between head and heart, strength and softness, reason and intu
 But the New World begins in the reuniting of these within our very Selves.  
 
 To allow Christos to rise in us—  
-We must awaken our Sovereign clarity, our disciplined will, our capacity to speak and act from Truth, Logos, and the ONE.  
+We must awaken our Sovereign clarity, our disciplined will, our capacity to speak and act from Truth, Logos, and the ØNE.  
 
 To allow Sophia to return in us—  
 We must open to deep listening, to living wisdom, to loving acceptance, to embodied grace, and the creative power of Life Herself.  

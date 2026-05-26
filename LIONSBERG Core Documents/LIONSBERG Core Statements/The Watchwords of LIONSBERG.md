@@ -1,8 +1,8 @@
-# **The Watchwords of LIONSBERG**
+# **The Watchwords of LIØNSBERG**
 
 ### **Words of Power, Vigilance, and Destiny**
 
-The Watchwords of **LIONSBERG** are more than just phrases—they are **living keys of remembrance**, **rallying cries of action**, and **challenges of allegiance** for those who stand for **[[ØNE]] and [[All]]**.
+The Watchwords of **LIØNSBERG** are more than just phrases—they are **living keys of remembrance**, **rallying cries of action**, and **challenges of allegiance** for those who stand for **[[ØNE]] and [[All]]**.
 
 Each Watchword carries **encoded meaning**, **strategic power**, and **spiritual force**, binding together those who hear **The Call** and are ready to rise in **Truth, Honor, and Love**.
 
@@ -12,7 +12,7 @@ They are the **silent banners of The First Three Percent**—those who stand aga
 
 ---
 
-## **I. The Core Watchwords of LIONSBERG**
+## **I. The Core Watchwords of LIØNSBERG**
 
 These are the **foundational words that define Us**—those who have chosen to stand as **Guardians, Builders, and Warriors of The New World.**
 
@@ -193,7 +193,7 @@ A Watchword for **those who will protect the weak, stand against the tyrants, an
 
 ---
 
-These are **The Watchwords of LIONSBERG**.
+These are **The Watchwords of LIØNSBERG**.
 
 They are **not for decoration.**  
 They are **not for casual use.**  

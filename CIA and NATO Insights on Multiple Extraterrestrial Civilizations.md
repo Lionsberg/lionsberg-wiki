@@ -106,5 +106,5 @@ With their non-human origins and roots
 If you would like to be part of this incredible exploration  
 Please reach out  
 
-In Service of ONE and All,  
+In Service of ØNE and All,  
 ~ [[the nameless one]]  

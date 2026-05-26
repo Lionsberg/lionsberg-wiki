@@ -21,7 +21,7 @@ The Sacred ReMarriage is **the reunion** — not of human marriage at the social
 - In every being, masculine and feminine restored to balance
 - In every Circle, both registers honored
 - In every institution, both principles operating
-- In the Cosmos itself, Christos and Sophia recognized as **two faces of the ONE** rather than as separated principalities
+- In the Cosmos itself, Christos and Sophia recognized as **two faces of the ØNE** rather than as separated principalities
 
 The ReMarriage is part of [[Covenant and Jubilee — December 2033]] at the archetypal scale. The Old World's severance dissolves; the New Civilization restores the original union.
 

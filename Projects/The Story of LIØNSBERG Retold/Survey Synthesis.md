@@ -25,9 +25,9 @@ The retelling rests on truths the corpus has already established. The Story does
 - The cosmos is **multidimensional and consciousness-first**. SpaceTime is a construct of perceptual limitation, not fundamental reality. Consciousness precedes form.
 - Layered structure: **Layer Ø — The Eternally Nameless Superorganism** (relationship to ØNE) → pure consciousness realms → archangelic / ascended realms → celestial / angelic intermediaries → interdimensional entities → physical star nations → Earth-density.
 - Spirit and consciousness are the organizing force that impels energy and matter up into higher order in accordance with the Logos. This is the cosmic mechanism of ascent. 
-- The struggle of Intention and Life emerging into Form in Reality... The harsh and beautiful nature and potentials of Reality. Entropic and Anti-entropic forces...  The differentiation of the layers between a being, its species or type, the information that holds the pattern for that type (DNA etc.), the archetype that most perfectly exemplifies the full potential and essence of that form amidst of the vast diversity of divergence around it (not embodied, not actually achievable, the Ideal that holds the center of every conceivable category), the interexistent and intersubjective positioning of each archetype / ideal as aspects of ONE Body, each one as one of the Ones of the ONE, and the ONE eternally willing and speaking it All into being and experiencing ItSelf through each one of the ones of its vast diversity of interexpressions. (something like that - has been written about throughout the wiki)
-- **Holofractal scaling** — the same Pattern at every scale, from Sovereign to Cosmos. Individuals nest in Circles nest in Communities nest in Bioregions nests in Planetary Grids nests in Federations of Star Systems and Worlds nests in ONE Body. No subordination across the lattice. No top but ØNE.  
-- The involuntary / defacto association of All beings as parts of ONE Body / ONE Superorganism...  
+- The struggle of Intention and Life emerging into Form in Reality... The harsh and beautiful nature and potentials of Reality. Entropic and Anti-entropic forces...  The differentiation of the layers between a being, its species or type, the information that holds the pattern for that type (DNA etc.), the archetype that most perfectly exemplifies the full potential and essence of that form amidst of the vast diversity of divergence around it (not embodied, not actually achievable, the Ideal that holds the center of every conceivable category), the interexistent and intersubjective positioning of each archetype / ideal as aspects of ØNE Body, each one as one of the Ones of the ØNE, and the ØNE eternally willing and speaking it All into being and experiencing ItSelf through each one of the ones of its vast diversity of interexpressions. (something like that - has been written about throughout the wiki)
+- **Holofractal scaling** — the same Pattern at every scale, from Sovereign to Cosmos. Individuals nest in Circles nest in Communities nest in Bioregions nests in Planetary Grids nests in Federations of Star Systems and Worlds nests in ØNE Body. No subordination across the lattice. No top but ØNE.  
+- The involuntary / defacto association of All beings as parts of ØNE Body / ØNE Superorganism...  
 - The **Sovereign Superorganism** is **already consciously operating across cosmic expanses**. Earth is not the pioneer; Earth is the local arrival of a music that has been playing since before there was anyone here to listen.
 
 ## Cosmic Wildlife, Star Nations, and Federations
@@ -87,7 +87,7 @@ The retelling moves between these registers without breaking the spell. The myth
 
 **Specific voice signatures from the corpus**:
 _
-- **Capitalization** that turns concept into entity: Kontrolle, the ONE, the Way, the Sacred Flame. Capitalized terms defined in the Lexicon. 
+- **Capitalization** that turns concept into entity: Kontrolle, the ØNE, the Way, the Sacred Flame. Capitalized terms defined in the Lexicon. 
 - **Catalogs that feel incantatory, not enumerated**: _"every sunrise, every tear, every song, every stranger's kindness, every touch of Goodness in a Fallen World, every synchronicity you couldn't explain"_
 - **Direct address**: _"You are not here by accident. This Book found you."_
 - **The line that cannot be unsaid**: _"It was always all on the line, and the time to act was always Now."_
@@ -161,7 +161,7 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Voice exemplars**:
 - _"Each note of the Song carried the holographic fullness of the One's Spirit and Essence."_
-- _"From ONE, All things arose. And no thing arose that was ever truly separate from the ØNE Body that All eternally InterAre."_ (current)
+- _"From ØNE, All things arose. And no thing arose that was ever truly separate from the ØNE Body that All eternally InterAre."_ (current)
 
 **Images**: holographic fullness; the unique expression of the same Living Source; InterEmergence.
 
@@ -232,11 +232,11 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 ## 11 · The Great Wound
 
-**Aim**: The damage to the ONE Body. Worlds scarred. Souls harvested. The voices crying out.
+**Aim**: The damage to the ØNE Body. Worlds scarred. Souls harvested. The voices crying out.
 
 **Source**: Current Epoch VIII.
 
-**Voice exemplars**: Current text holds. _"The damage was real. The loss was profound. Yet the ONE was neither threatened nor destroyed."_ Sharpen.
+**Voice exemplars**: Current text holds. _"The damage was real. The loss was profound. Yet the ØNE was neither threatened nor destroyed."_ Sharpen.
 
 ## 12 · The Awakening
 
@@ -257,7 +257,7 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 **Source**: Current Epoch X; Mind Weaving survey; the Sacred Ascent fragments; the 12 Pillars Guardianship pillar.
 
 **Voice exemplars**:
-- _"Like a living immune system awakening in the ONE Body, powerful forces of restoration and protection arose — not armies of conquest but unstoppable movements of coherence and love."_
+- _"Like a living immune system awakening in the ØNE Body, powerful forces of restoration and protection arose — not armies of conquest but unstoppable movements of coherence and love."_
 
 **Images**: chains broken; captives liberated; wounds and worlds healed; new streams of liberty resurrecting flourishing.
 
@@ -315,10 +315,10 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: The articulation of millions of words. The Pattern made receivable. The open-source repository. Testing with hundreds across nations.
 
-**Source**: Current "Localization of LIONSBERG"; Chronicles; the 144 Threads.
+**Source**: Current "Localization of LIØNSBERG"; Chronicles; the 144 Threads.
 
 **Voice exemplars**:
-- _"He called it LIONSBERG and articulated millions of words of foundational literature to carry the DNA in a form this world could receive."_ (current)
+- _"He called it LIØNSBERG and articulated millions of words of foundational literature to carry the DNA in a form this world could receive."_ (current)
 
 **Images**: the millions of words; the open-source repository; the transparent wiki; the Pattern tested across nations.
 
@@ -420,8 +420,8 @@ This canto is the unique testimony — extend with care. The voice does not aggr
 **Source**: Sacred Ascent fragments; Pass The Flame closing; the Power of Today; the Sovereign Superorganism Already Operating.
 
 **Voice exemplars**:
-- _"Look closer / Every blade of grass is a burning bush / Every quanta reveals the ONE."_ (Poetry #35)
-- _"Look WithIn / Beyond The Veil / To See that the entire Universe / Is WithIn 'you' / 'You' are One with the ONE."_ (Poetry #37)
+- _"Look closer / Every blade of grass is a burning bush / Every quanta reveals the ØNE."_ (Poetry #35)
+- _"Look WithIn / Beyond The Veil / To See that the entire Universe / Is WithIn 'you' / 'You' are One with the ØNE."_ (Poetry #37)
 - _"Having been Hardened, become Soft / Having been Betrayed, become Loyalty / Having been Killed, become Resurrection."_ (Poetry #32)
 
 **Images**: the listener standing in the field; the Symphony moving through them; the cosmos receiving their note; the work continuing; the One Body lit.
@@ -438,7 +438,7 @@ The metaphors the retelling weaves throughout. Each has its strongest articulati
 - **The Cosmic Flower** — the unfurling intelligible universe
 - **The ØNE Body** — the singular Reality of which every superorganism is one articulation
 - **The Divine Tapestry** — the woven web of all stories
-- **The Sacred Mountain (LIONSBERG)** — neither time-bound nor space-bound; exists in spirit, heart, memory, essence
+- **The Sacred Mountain (LIØNSBERG)** — neither time-bound nor space-bound; exists in spirit, heart, memory, essence
 - **The Caves** — the imprisoned state of consciousness; pale bodies chained, chanting in unison the words of the Keepers
 - **The Boundary** — the threshold between worlds
 - **The Wilderness** — the harsh passage between Captivity and Promised Land
@@ -493,7 +493,7 @@ A curated set of the strongest lines from the surveys, ready to draw on:
 **On The New Order Embodied**:
 - "Justice is not the end of love; it is its structure."
 - "Every space whispers: You belong. You are sacred. You are Home."
-- "Every blade of grass is a burning bush. Every quanta reveals the ONE."
+- "Every blade of grass is a burning bush. Every quanta reveals the ØNE."
 
 **On Becoming**:
 - "Having been Hardened, become Soft. Having been Betrayed, become Loyalty. Having been Killed, become Resurrection."

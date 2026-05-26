@@ -37,7 +37,7 @@ Because Values are abstract, and we have difficulty translating them into the co
 
 The Code articulates, in concrete and relatable ways, how the Values show up in our [[Way of Being]] and our [[Way of Doing]]. 
 
-From the One Spirit behind the list of Universal Values reflected in [[The LIONSBERG System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
+From the One Spirit behind the list of Universal Values reflected in [[The LIØNSBERG System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
 
 It is called the Lionsberg | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
 
@@ -123,7 +123,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 39. We will [[Doing Our Best|Do Our Best]] to Transform Our Weapons into Tools of Life   
 
-### 40. We will [[Doing Our Best|Do Our Best]] to Be Perfect, as ONE is Perfect   
+### 40. We will [[Doing Our Best|Do Our Best]] to Be Perfect, as ØNE is Perfect   
 
 ### 41. We will [[Doing Our Best|Do Our Best]] to Measure Progress, Not Perfection   
 
@@ -131,7 +131,7 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 43. We will [[Doing Our Best|Do Our Best]] to Bear with One Another's Weaknesses, Imperfections, and Burdens  
 
-### 44. We will [[Doing Our Best|Do Our Best]] to Forgive, as ONE Forgives  
+### 44. We will [[Doing Our Best|Do Our Best]] to Forgive, as ØNE Forgives  
 
 ### 45. We will [[Doing Our Best|Do Our Best]] to Vanquish Corruption, Injustice, and Oppression  
 
@@ -237,13 +237,13 @@ Nevertheless, recognizing the need to forge a basis for continuously improving o
 
 ### 96. We will [[Doing Our Best|Do Our Best]] to Develop Towards the Fullness of Our Unique Potential by Serving Others and Helping All Others do the Same  
 
-### 97. We will [[Doing Our Best|Do Our Best]] to Surrender All and Trust ONE and All to Provide    
+### 97. We will [[Doing Our Best|Do Our Best]] to Surrender All and Trust ØNE and All to Provide    
 
 ### 98. We will [[Doing Our Best|Do Our Best]] to Discover the Highest Levels of Abstraction at Which All Things can be Reconciled   
 
 ### 99. We will [[Doing Our Best|Do Our Best]] to Reconcile and Align our Stories  
 
-### 100. We will [[Doing Our Best|Do Our Best]] to Learn How to Partner with ONE and All to accomplish The Goal of ONE and All  
+### 100. We will [[Doing Our Best|Do Our Best]] to Learn How to Partner with ØNE and All to accomplish The Goal of ØNE and All  
 
 ## A Return to Simplicity 
 
@@ -257,6 +257,6 @@ Or it can be described in 1,000 things that one should do, and 1,000 things that
 
 For this reason, [[The Way]] must be understood and applied in Spirit, and not in fixed propositions or techniques. 
 
-If you do not resonate with the Code above, develop your own! Make sure it all flows from the [[Fundamental Tone]] of ONE [[Love]], and try to make it [[A Little Better Every Day]].  
+If you do not resonate with the Code above, develop your own! Make sure it all flows from the [[Fundamental Tone]] of ØNE [[Love]], and try to make it [[A Little Better Every Day]].  
 
 One can never discover the [[Way]] through intellectual learning. To know the Way, one must live it and discover it experientially by learning how to allow the Spirit of It to flow through them spontaneously and accurately into whatever time, place, or situation they find themselves in. 

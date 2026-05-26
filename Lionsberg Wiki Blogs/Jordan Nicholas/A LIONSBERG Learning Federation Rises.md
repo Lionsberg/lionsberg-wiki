@@ -1,4 +1,4 @@
-# A LIONSBERG Learning Federation Rises
+# A LIØNSBERG Learning Federation Rises
 A Post in [[Above The Chaos]]  
 *2025.05.28* 
 

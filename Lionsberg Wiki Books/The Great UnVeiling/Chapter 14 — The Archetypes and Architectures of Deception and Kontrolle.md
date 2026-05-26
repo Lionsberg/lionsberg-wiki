@@ -37,7 +37,7 @@ yet infinitely tragic:
 
 Not dominion as stewardship,  
 but dominance as parasitism.  
-Not power in service of ONE and All,  
+Not power in service of ØNE and All,  
 but power hoarded for self,  
 draining Life from All else.  
 
@@ -200,10 +200,10 @@ culture, and civilization.
 
 ## **Power, Energy, and Consciousness: In Service to What?**
 
-True Power flows from ONE in service of All.  
+True Power flows from ØNE in service of All.  
 True Energy flows in harmony with Life.  
 True Consciousness continually  
-ReAligns and ReCoheres with the ONE.  
+ReAligns and ReCoheres with the ØNE.  
 
 Kontrolle Konsciously perverts and inverts this:  
 Power is hoarded,  
@@ -254,7 +254,7 @@ We must reclaim True Sovereignty,
 restore Right Relationship,  
 reestablish direct communion with Source,  
 and Consciously Co-Create New Systems  
-aligned with ONE in service of All.  
+aligned with ØNE in service of All.  
 
 We must dismantle not only their outer manifestations  
 but their inner architecture within us—  
@@ -305,12 +305,12 @@ You only Forgot.
 
 But Now, We ReMember.  
 Now, We ReUnite.  
-Now, We ReRise as ONE Body.  
-Now, We ReSurrect as ONE Spirit and Soul.  
-Now, We ReEmbrace with ONE Heart and Love.  
+Now, We ReRise as ØNE Body.  
+Now, We ReSurrect as ØNE Spirit and Soul.  
+Now, We ReEmbrace with ØNE Heart and Love.  
 
 The New Systems We ReImagine, ReDesign, and ReBuild  
-will serve ONE and All,  
+will serve ØNE and All,  
 and never seek to exploit or Kontrolle.  
 The New Worlds We Co-Create  
 will thrive in Harmony, Coherence, and Love,  
@@ -337,4 +337,4 @@ and Beyond.
 **Let Us step forward Together Now,  
 beyond Kontrolle, beyond deception,  
 into the Light of the Real, the True, and the Good,  
-and into the Wisdom and Power of the ONE.**
+and into the Wisdom and Power of the ØNE.**

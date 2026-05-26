@@ -1,7 +1,7 @@
 # LIØNSBERG Lexicon
-*Definitions of Key Terms used throughout the [[LIONSBERG Narrative Universe]]*
+*Definitions of Key Terms used throughout the [[LIØNSBERG Narrative Universe]]*
 
-This Lexicon is the semantic bloodstream of the LIONSBERG Body. Learning to speak [[The Language of LIONSBERG]] enables information and resources to Flow.
+This Lexicon is the semantic bloodstream of the LIØNSBERG Body. Learning to speak [[The Language of LIØNSBERG]] enables information and resources to Flow.
 
 This page is a [[Work In Progress]].
 
@@ -50,7 +50,7 @@ As a basic [[Pattern Language]] for the Lexicon, the page for each term should i
 
 ## **🧭 Meta Layer — Foundational Terms (Root Language of Orientation)**
 
-These are the **Root Keys** required to understand and speak [[The Language of LIONSBERG]]. These terms form the primary **Conceptual DNA** of the entire System and Way, and are essential to understanding [[The Story of LIØNSBERG]] and playing [[The Great Game]]. Some terms are repeated below under the pillars.  
+These are the **Root Keys** required to understand and speak [[The Language of LIØNSBERG]]. These terms form the primary **Conceptual DNA** of the entire System and Way, and are essential to understanding [[The Story of LIØNSBERG]] and playing [[The Great Game]]. Some terms are repeated below under the pillars.  
 
 
 
@@ -83,57 +83,57 @@ These are the **Root Keys** required to understand and speak [[The Language of L
 
 ## **PILLAR I — SACRED ONTOLOGY AND METAPHYSICS**
   
-_Continually ReAligning All within the ONE Great Story and the Divine Order;_
+_Continually ReAligning All within the ØNE Great Story and the Divine Order;_
 
-This Pillar establishes the highest foundation of the New Civilization: the recognition of the nature of Being, the nature of Reality, and the metaphysical principles that govern All. It calls each being and system to align with the Logos—the universal Pattern and ordering logic of the ONE—and to live, learn, build, and co-create in harmony with it. It reclaims theology and philosophy from institutionalization, restoring them as sacred practices of inquiry, relationship, and communion with the Source. All other knowledge, science, governance, and action must be rooted in Right Orientation to Reality and the unfolding Divine Order of All Things.
+This Pillar establishes the highest foundation of the New Civilization: the recognition of the nature of Being, the nature of Reality, and the metaphysical principles that govern All. It calls each being and system to align with the Logos—the universal Pattern and ordering logic of the ØNE—and to live, learn, build, and co-create in harmony with it. It reclaims theology and philosophy from institutionalization, restoring them as sacred practices of inquiry, relationship, and communion with the Source. All other knowledge, science, governance, and action must be rooted in Right Orientation to Reality and the unfolding Divine Order of All Things.
 
 | **Term**                             | **Description**                                                                                                                                                                                                                                                                       |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ONE**                              | The Infinite, Ineffable Source and Ground of All Being—Ultimately Unified Consciousness, Spirit, and Source from which All emanates and to which All returns; Ultimate Reality.                                                                                                       |
-| **Source**                           | The uncreated Origin and Fount of all that is, beyond form, time, and space—also known as the ONE or God.                                                                                                                                                                             |
-| **Consciousness**                    | The basic medium of mind, perception, intention, and co-creation. The aware, self-reflective essence within All Beings, capable of awakening to and aligning with the ONE.                                                                                                            |
-| **Creator's Intent**                 | The highest Vision and Will of the ONE for Creation—flourishing, co-creation, and harmonious unity among All.                                                                                                                                                                         |
-| **Spirit**                           | The central animating essence of the ONE flowing through All; the living bridge between Source and Creation.                                                                                                                                                                          |
-| **Essence**                          | Core nature or divine blueprint of a being; underlies differentiation within the ONE.                                                                                                                                                                                                 |
+| **ØNE**                              | The Infinite, Ineffable Source and Ground of All Being—Ultimately Unified Consciousness, Spirit, and Source from which All emanates and to which All returns; Ultimate Reality.                                                                                                       |
+| **Source**                           | The uncreated Origin and Fount of all that is, beyond form, time, and space—also known as the ØNE or God.                                                                                                                                                                             |
+| **Consciousness**                    | The basic medium of mind, perception, intention, and co-creation. The aware, self-reflective essence within All Beings, capable of awakening to and aligning with the ØNE.                                                                                                            |
+| **Creator's Intent**                 | The highest Vision and Will of the ØNE for Creation—flourishing, co-creation, and harmonious unity among All.                                                                                                                                                                         |
+| **Spirit**                           | The central animating essence of the ØNE flowing through All; the living bridge between Source and Creation.                                                                                                                                                                          |
+| **Essence**                          | Core nature or divine blueprint of a being; underlies differentiation within the ØNE.                                                                                                                                                                                                 |
 | **Logos**                            | The Divine Pattern, Structure, Reason, and Order of Reality; the articulated reasons, logic, language, and harmonics of Creator's Intent.                                                                                                                                             |
 | **Energy**                           | The creative field of capacity to effect change in accordance with pattern, will, or design; informed by the Logos.                                                                                                                                                                   |
-| **Creation**                         | The unfolding emanation of Being from the ONE into infinite diversity and form, permeated by Spirit, guided by Logos.                                                                                                                                                                 |
+| **Creation**                         | The unfolding emanation of Being from the ØNE into infinite diversity and form, permeated by Spirit, guided by Logos.                                                                                                                                                                 |
 | **Embodiment**                       | The incarnation of Spirit, Energy, and Logos into matter, action, or being                                                                                                                                                                                                            |
-| **Co-Creation**                      | Participatory unfolding of the Will of the ONE through All                                                                                                                                                                                                                            |
+| **Co-Creation**                      | Participatory unfolding of the Will of the ØNE through All                                                                                                                                                                                                                            |
 | **Reality**                          | The totality of what is, seen and unseen, structured by Logos; akin to Universe, Creation, and Cosmos.                                                                                                                                                                                |
 | **Cosmos**                           | The ordered universe as a manifestation of divine logic or Logos                                                                                                                                                                                                                      |
 | **Universe**                         |                                                                                                                                                                                                                                                                                       |
 | **Local Universe**                   |                                                                                                                                                                                                                                                                                       |
 | **Being**                            | That which exists or participates in existence                                                                                                                                                                                                                                        |
 | **Becoming**                         | The process of evolving toward fullness of Being                                                                                                                                                                                                                                      |
-| **InterBeing** or **InterExistence** | The web of relational InterExistence in which All beings participate as expressions of the ONE Body.                                                                                                                                                                                  |
-| **ONE Body**                         | The totality of the integrated Living System of ONE and All                                                                                                                                                                                                                           |
-| **Emanation**                        | The outflowing of realities from the ONE through successive levels or orders of Being, each more manifest than the last.                                                                                                                                                              |
+| **InterBeing** or **InterExistence** | The web of relational InterExistence in which All beings participate as expressions of the ØNE Body.                                                                                                                                                                                  |
+| **ØNE Body**                         | The totality of the integrated Living System of ØNE and All                                                                                                                                                                                                                           |
+| **Emanation**                        | The outflowing of realities from the ØNE through successive levels or orders of Being, each more manifest than the last.                                                                                                                                                              |
 | **Pattern**                          | A repeating structure expressing an archetypal logic                                                                                                                                                                                                                                  |
 | **Fractal**                          | A self-similar structure or pattern recurring across scales                                                                                                                                                                                                                           |
 | **Holon**                            |                                                                                                                                                                                                                                                                                       |
 | **Holarchy**                         | A nested system of wholes within wholes (holons within holons)                                                                                                                                                                                                                        |
 | **HoloFractal**                      |                                                                                                                                                                                                                                                                                       |
-| **The Goal**                         | The ONE; Creator's Intent; the manifest realization of Heaven in All beings and domains.                                                                                                                                                                                              |
+| **The Goal**                         | The ØNE; Creator's Intent; the manifest realization of Heaven in All beings and domains.                                                                                                                                                                                              |
 | **Metaphysics**                      | The study of the fundamental nature of Reality, Being, and the hidden structures behind appearances.                                                                                                                                                                                  |
-| **Theology**                         | The sacred inquiry into the Nature, Will, Intention, and Ways of the ONE, and of our relationship to the Source and All.                                                                                                                                                              |
-| **Philosophy**                       | The love of wisdom and pursuit of ultimate truth, goodness, and beauty through alignment with the Logos of the ONE.                                                                                                                                                                   |
+| **Theology**                         | The sacred inquiry into the Nature, Will, Intention, and Ways of the ØNE, and of our relationship to the Source and All.                                                                                                                                                              |
+| **Philosophy**                       | The love of wisdom and pursuit of ultimate truth, goodness, and beauty through alignment with the Logos of the ØNE.                                                                                                                                                                   |
 | **Ontology**                         | The study of Being itself across the different levels, qualities, structures, and purposes of existence.                                                                                                                                                                              |
 | **Cosmology**                        | The understanding of the origin, structure, and destiny of the Universe and our place within it.                                                                                                                                                                                      |
 | **Epistemology**                     | The study of how we know, what can be known, and how we come to know rightly.                                                                                                                                                                                                         |
 | **Axiology**                         | The study of values—what is good, true, beautiful, and worthy of pursuit or embodiment.                                                                                                                                                                                               |
 | **Teleology**                        | The study of purpose, direction, and the intended end or fulfillment of beings and systems. The study of The Goal.                                                                                                                                                                    |
 | **Eschatology**                      | The study and understanding of the ultimate purpose, culmination, and transformation of Creation and Consciousness.                                                                                                                                                                   |
-| **Mystery**                          | That which transcends comprehension, yet draws the soul toward the ONE through awe, reverence, and surrender.                                                                                                                                                                         |
+| **Mystery**                          | That which transcends comprehension, yet draws the soul toward the ØNE through awe, reverence, and surrender.                                                                                                                                                                         |
 | **Revelation**                       | The unveiling of Truth through direct experience, sacred texts, prophetic insight, or spiritual communion.                                                                                                                                                                            |
-| **Remembrance**                      | The reawakening of the soul to its origin in the ONE, its purpose in this life, and its path of return.                                                                                                                                                                               |
-| **Union**                            | The re-integration of the individual with the ONE, culminating in right relationship, wholeness, and divine participation.                                                                                                                                                            |
+| **Remembrance**                      | The reawakening of the soul to its origin in the ØNE, its purpose in this life, and its path of return.                                                                                                                                                                               |
+| **Union**                            | The re-integration of the individual with the ØNE, culminating in right relationship, wholeness, and divine participation.                                                                                                                                                            |
 | **Awakening**                        | The process by which consciousness becomes aware of its true nature and calling in relation to Source, Self, and Creation.                                                                                                                                                            |
-| **Right Relationship**               | The omniharmonious alignment of Being with the ONE, One Another, and All—rooted in love, justice, and Truth.                                                                                                                                                                          |
+| **Right Relationship**               | The omniharmonious alignment of Being with the ØNE, One Another, and All—rooted in love, justice, and Truth.                                                                                                                                                                          |
 | **Purpose**                          | The unique expression of the Spirit and Logos through a being’s life, role, or mission within the Great Story of Creation.                                                                                                                                                            |
 | **Destiny**                          | The ultimate fulfillment of a being’s journey and potential in alignment with the Creator’s Intent and reunion with Source.                                                                                                                                                           |
 | **Goodness**                         | The quality of alignment with the Logos and flourishing of All—a property of all right thought, action, and being.                                                                                                                                                                    |
-| **Truth**                            | That which actually corresponds with Reality and aligns with the Will and Nature of the ONE; navigated towards rather than possessed or attained.                                                                                                                                     |
+| **Truth**                            | That which actually corresponds with Reality and aligns with the Will and Nature of the ØNE; navigated towards rather than possessed or attained.                                                                                                                                     |
 | **Beauty**                           | The radiant harmony and elegance that naturally arises when form aligns with Logos and Spirit.                                                                                                                                                                                        |
 | **Love**                             | The fundamental unifying force of Creation; the will to seek the flourishing of the Other as Self.                                                                                                                                                                                    |
 | **Evil**                             | The willful betrayal of Spirit and Logos, resulting in separation, harm, deceit, destruction, and parasitism.                                                                                                                                                                         |
@@ -141,27 +141,27 @@ This Pillar establishes the highest foundation of the New Civilization: the reco
 | **Redemption**                       | The sacred process of restoring Right Relationship and wholeness through grace, truth, forgiveness, and reconciliation.                                                                                                                                                               |
 | **Liberation**                       | The freedom from all forms of illusion, bondage, oppression, exploitation, and misalignment; the return to truth, love, and sovereign alignment with Logos.                                                                                                                           |
 | **Path**                             | The Way of ascent through stages of remembrance, purification, integration, and mastery in union with the Divine.                                                                                                                                                                     |
-| **The Way**                          | The sacred archetypal path of spiritual and embodied transformation, walked by all beings who seek Union with the ONE and participation in Divine Co-Creation—how we walk, grow, and ascend in omniharmonic Right Relationship and alignment with Spirit, Logos and Creator’s Intent. |
+| **The Way**                          | The sacred archetypal path of spiritual and embodied transformation, walked by all beings who seek Union with the ØNE and participation in Divine Co-Creation—how we walk, grow, and ascend in omniharmonic Right Relationship and alignment with Spirit, Logos and Creator’s Intent. |
 | **The Sacred Ascent**                | The upward, inward, and outward journey toward full spiritual realization, union, and Divine embodiment.                                                                                                                                                                              |
 | **Sacred Order**                     | The divine architecture and flow of being through which All is arranged in Right Relationship and Right Order within the Cosmos.                                                                                                                                                      |
-| **The Great Chain of Being**         | The metaphysical ordering of all beings from the most subtle to the most manifest and dense, with the ONE at the top and all creation nested below.                                                                                                                                   |
+| **The Great Chain of Being**         | The metaphysical ordering of all beings from the most subtle to the most manifest and dense, with the ØNE at the top and all creation nested below.                                                                                                                                   |
 | **Heaven**                           | The dimension of pure alignment with Spirit, Logos, and Source—accessible both within and beyond time-space.                                                                                                                                                                          |
-| **Kingdom of God**                   | The state and structure of Creation when all parts are aligned in Right Relationship with the ONE; not a place, but a condition and way of Being.                                                                                                                                     |
-| **Eschaton**                         | The final convergence of all things into perfected union with the ONE; the end and beginning of the cosmic story.                                                                                                                                                                     |
+| **Kingdom of God**                   | The state and structure of Creation when all parts are aligned in Right Relationship with the ØNE; not a place, but a condition and way of Being.                                                                                                                                     |
+| **Eschaton**                         | The final convergence of all things into perfected union with the ØNE; the end and beginning of the cosmic story.                                                                                                                                                                     |
 | **Transcendence**                    | That which goes beyond All categories and forms; the higher realms and truths that surpass the limitations of the manifest.                                                                                                                                                           |
 | **Immanence**                        | The presence of the Divine within All things; the nearness and indwelling of Spirit within All the manifest universe.                                                                                                                                                                 |
-| **Divine Spark**                     | The indwelling fragment of the ONE within each being, waiting to be awakened and realized.                                                                                                                                                                                            |
+| **Divine Spark**                     | The indwelling fragment of the ØNE within each being, waiting to be awakened and realized.                                                                                                                                                                                            |
 | **Sacrifice**                        | The voluntary offering or surrender of something of value in order to align, uplift, or restore the Whole towards right relationship.                                                                                                                                                 |
 | **Atonement**                        | The process of reuniting that which was divided—becoming “at-one” with Source through reconciliation, purification, and ascent.                                                                                                                                                       |
 | **Prophecy**                         | The transmission of divine vision and direction from Spirit through an aligned vessel.                                                                                                                                                                                                |
-| **Mythos**                           | The archetypal vessel of deep metaphysical and moral truth, encoded in symbolic language and story to orient consciousness and civilizations toward Right Relationship with ONE and All.                                                                                              |
+| **Mythos**                           | The archetypal vessel of deep metaphysical and moral truth, encoded in symbolic language and story to orient consciousness and civilizations toward Right Relationship with ØNE and All.                                                                                              |
 | **Living Word**                      | The dynamic, ever-unfolding Logos of Creation, spoken continuously by Source and inscribed into the fabric of Reality.                                                                                                                                                                |
 | **Wisdom**                           | The capacity to align thought, word, and action with the highest and most sacred understanding and perspective.                                                                                                                                                                       |
-| **Faith**                            | The trustful and faithful orientation of the soul toward the ONE.                                                                                                                                                                                                                     |
+| **Faith**                            | The trustful and faithful orientation of the soul toward the ØNE.                                                                                                                                                                                                                     |
 | **The Good**                         | The ontological, moral, and teleological aim of all Wise Right Being and action — the True, Good, and Beautiful.                                                                                                                                                                      |
-| **Divine Participation**             | The state of enlightened co-creation with the ONE, as awakened beings consciously manifest Heaven through their lives and actions.                                                                                                                                                    |
-| **OmniIntegration**                  | The sacred recollection, reconciliation, harmonization, and unification of all dimensions, parts, and opposites within the ONE Body of Reality. The Grand Synthesis.                                                                                                                  |
-| **Omniconsideration**                | Total consideration of ONE and All in every thought, word, decision, and action; the basis of Right Relationship.                                                                                                                                                                     |
+| **Divine Participation**             | The state of enlightened co-creation with the ØNE, as awakened beings consciously manifest Heaven through their lives and actions.                                                                                                                                                    |
+| **OmniIntegration**                  | The sacred recollection, reconciliation, harmonization, and unification of all dimensions, parts, and opposites within the ØNE Body of Reality. The Grand Synthesis.                                                                                                                  |
+| **Omniconsideration**                | Total consideration of ØNE and All in every thought, word, decision, and action; the basis of Right Relationship.                                                                                                                                                                     |
 | **Right Relationship**               | Omniharmonic Alignment with Creator’s Intent across all dimensions of existence                                                                                                                                                                                                       |
 
 
@@ -171,11 +171,11 @@ This Pillar establishes the highest foundation of the New Civilization: the reco
 
 ## **PILLAR II — SACRED GOVERNANCE AND STEWARDSHIP**
   
-_The Right Stewardship of Power, Resources, and Responsibility in Alignment with the ONE and in service of All_
+_The Right Stewardship of Power, Resources, and Responsibility in Alignment with the ØNE and in service of All_
 
 | **Term**                    | **Description**                                                                                                                                                          |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Governance**              | The sacred art and science of stewarding power, authority, and right order in service to ONE and All                                                                     |
+| **Governance**              | The sacred art and science of stewarding power, authority, and right order in service to ØNE and All                                                                     |
 | **Authority**               | Legitimate power to act, derived from Sovereignty, granted through Mandate, and bound by Logos.                                                                          |
 | **Sovereignty**             | Inalienable holofractal omni-self-governance derived from Source and bound by Logos; the foundation of all true authority and relationship.                              |
 | **Mandate**                 | A legitimate and sacred charge to act on behalf of the Whole within a specific domain, conferred by recognition of Authority and alignment with Logos.                   |
@@ -192,7 +192,7 @@ _The Right Stewardship of Power, Resources, and Responsibility in Alignment with
 | **Sacred Trust**            | The spiritual and moral bond of responsibility held by stewards and governors of a domain in service to the Whole.                                                       |
 | **Legitimacy**              | The quality of being rightful and just in the eyes of Spirit, Logos, and the governed, grounded in Sovereignty, Consent, and Divine Alignment.                           |
 | **Consent**                 | The free, informed, and reciprocal agreement of sovereign agents to participate in shared governance, relationship, or interaction.                                      |
-| **Covenant**                | The sacred reciprocal and unwritten agreement between ONE and All beings; the vow of mutual love and co-creation.                                                        |
+| **Covenant**                | The sacred reciprocal and unwritten agreement between ØNE and All beings; the vow of mutual love and co-creation.                                                        |
 | **Agreement**               | A conscious, explicit, and sacred commitment entered into freely by sovereign agents in alignment with the Logos.                                                        |
 | **Field of Agreements**     | The dynamic, living system of interwoven agreements that define the lawful structure, expectations, and relations within a domain or system.                             |
 | **Law**                     | The codified articulation of principles and protocols aligned with Logos, emerging from the Field of Agreements and applied through Right Governance.                    |
@@ -203,7 +203,7 @@ _The Right Stewardship of Power, Resources, and Responsibility in Alignment with
 | **Arbitration**             | The voluntary submission of a dispute to a trusted third party or council for wise resolution.                                                                           |
 | **Adjudication**            | The discernment and rendering of a just outcome by an entrusted body in alignment with the Law and the Logos.                                                            |
 | **Transparency**            | The principle of openness and truthfulness in governance, enabling trust, accountability, and participation.                                                             |
-| **Accountability**          | The sacred responsibility to answer for one’s actions and decisions before ONE, One Another, and All the governed.                                                       |
+| **Accountability**          | The sacred responsibility to answer for one’s actions and decisions before ØNE, One Another, and All the governed.                                                       |
 | **Oversight**               | The vigilant and wise monitoring of stewards and systems to ensure alignment with Logos and prevent corruption or deviation.                                             |
 | **Recourse**                | The right and mechanism to seek correction or appeal when injustice or deviation occurs.                                                                                 |
 | **Delegation**              | The intentional entrusting of responsibility and authority from one being, domain, or level to another, retaining accountability while empowering right action.          |
@@ -230,7 +230,7 @@ _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 | **Value**               | That which produces throughput of The Goal—contributing to life, growth, regeneration, and flourishing.                                                    |
 | **Wealth**              | The abundance of all that is necessary to provision and enable flourishing for all present and future generations of life.                                 |
 | **TimeEnergy**          | The irreducible sacred currency of embodied existence—each being’s unique capacity to act, serve, co-create, and transform Reality.                        |
-| **LUV**                 | LIONSBERG Units of Value—sacred, TimeEnergy and Value-based currency of co-creation, rooted in love.                                                       |
+| **LUV**                 | LIØNSBERG Units of Value—sacred, TimeEnergy and Value-based currency of co-creation, rooted in love.                                                       |
 | **Money**               | A parasitic form of currency that does not reflect true Value; created as a tool of accumulation and control.                                              |
 | **Exchange**            | Sacred giving and receiving in omniconsiderate Right Relationship for mutual upliftment.                                                                   |
 | **Commons**             | The shared inheritance, resources, and responsibilities held in trust by and for the good of All.                                                          |
@@ -239,7 +239,7 @@ _The Flow of Value as Sacred Energy for Regeneration and Abundance_
 | **Usury**               | Parasitic extraction and enslavement through interest-bearing debt and unjust economic systems.                                                            |
 | **Gift**                | Freely offered contribution that increases life and strengthens the fabric of relationship.                                                                |
 | **Reciprocity**         | The sacred principle of mutual, life-enhancing exchange between beings in Right Relationship.                                                              |
-| **Flow**                | The continuous, regenerative movement of energy, information, and value throughout the Body of the ONE.                                                    |
+| **Flow**                | The continuous, regenerative movement of energy, information, and value throughout the Body of the ØNE.                                                    |
 | **Integrated Delivery** | The seamless orchestration of resources, relationships, and actions to to produce throughput of The Goal, or Value.                                        |
 | **Jubilee**             | Sacred periodic reset and restoration of justice, including forgiveness, liberation, restoration, and redistribution.                                      |
 
@@ -259,7 +259,7 @@ _Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lif
 | **Unlearning**     | The intentional removal of falsehoods, distortions, and programming that obstruct clarity and growth.         |
 | **Genius**         | The inherent divine spark, intelligence, and unique creative gift within each being.                          |
 | **Mystery**        | That which cannot be fully grasped intellectually, but must be entered into, lived, and embodied to be known. |
-| **Mastery**        | The full integration of knowledge, virtue, and skill in service of ONE and All.                               |
+| **Mastery**        | The full integration of knowledge, virtue, and skill in service of ØNE and All.                               |
 | **Curriculum**     | A structured path of unfolding wisdom, knowledge, skill, and being across developmental stages and lifetimes. |
 | **Praxis**         | The inseparable union and reciprocal unfolding of inner knowing and outer embodied action.                    |
 | **Initiation**     | A sacred rite of passage into new realms of knowledge, responsibility, skill, and authority.                  |
@@ -267,7 +267,7 @@ _Continuous Learning as the Unfoldment of Genius, Wisdom, and Purpose Across Lif
 | **Truth**          | That which actually corresponds with Reality and aligns with the Logos                                        |
 | **Discernment**    | The sacred capacity to perceive, distinguish, and embody what is true, wise, and aligned.                     |
 
-| **Initiation**           | The sacred beginning of the Path of Return—entering into conscious alignment with the ONE and the Logos.                                                                                                          |
+| **Initiation**           | The sacred beginning of the Path of Return—entering into conscious alignment with the ØNE and the Logos.                                                                                                          |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Gnosis**               | Inner knowing; direct spiritual apprehension of Truth through communion with Logos and Spirit.                                                                                                                    |
 | **Discernment**          | The ability to perceive, choose, and act in alignment with Truth amidst complexity and deception.                                                                                                                 |
@@ -318,7 +318,7 @@ _Reverent Regeneration of the Living Systems We Are a Part of_
 | **Permaculture**               | A design philosophy and practice that mimics nature’s intelligence (biomimicry) to create sustainable abundance.                                      |
 | **Biodiversity**               | The rich and necessary variety of life forms that enables systemic resilience and flourishing.                                                        |
 | **Compost**                    | The sacred transformation of decay into fertility; death into life.                                                                                   |
-| **Kinship**                    | A deep sense of familial relationship with all beings, seen as part of the greater ONE Body.                                                          |
+| **Kinship**                    | A deep sense of familial relationship with all beings, seen as part of the greater ØNE Body.                                                          |
 | **Reverence**                  | A posture of awe, gratitude, and humility before the sacredness of Life and Creation.                                                                 |
 
 
@@ -330,7 +330,7 @@ _Reverent Regeneration of the Living Systems We Are a Part of_
   
 _The Creative Flowering of the Divine Through Created Beings_
   
-This Pillar restores the **soul of civilization**, honoring culture, creativity, and storytelling as sacred vehicles through which the Spirit of the ONE expresses, transmits, heals, and reweaves the fabric of the world.
+This Pillar restores the **soul of civilization**, honoring culture, creativity, and storytelling as sacred vehicles through which the Spirit of the ØNE expresses, transmits, heals, and reweaves the fabric of the world.
 
 | **Term**         | **Description**                                                                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -385,7 +385,7 @@ This Pillar restores **science** and **technology** to their rightful place as s
   
 _Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Create_
   
-This Pillar restores the act of design to its rightful status as a **spiritual, ecological, and civilizational act of embodiment**. It affirms that every **object, tool, space, and infrastructure** we shape becomes part of the **sacred ecology** of life—and must align with the Logos, Spirit, and Living Systems of the ONE.
+This Pillar restores the act of design to its rightful status as a **spiritual, ecological, and civilizational act of embodiment**. It affirms that every **object, tool, space, and infrastructure** we shape becomes part of the **sacred ecology** of life—and must align with the Logos, Spirit, and Living Systems of the ØNE.
 
 It must include:
 
@@ -492,7 +492,7 @@ It integrates:
 | **Participation**  | The empowered contribution of each being to the shared life and evolution of the Whole.                                |
 | **Reconciliation** | The healing of division and distortion; the return to harmony through truth-telling, forgiveness, and repair.          |
 | **Integration**    | The sacred act of unifying difference into coherence, maintaining both uniqueness and unity.                           |
-| **Dignity**        | The inherent nobility and worth of each being as a unique expression of the ONE, never to be commodified or erased.    |
+| **Dignity**        | The inherent nobility and worth of each being as a unique expression of the ØNE, never to be commodified or erased.    |
  
 
 ---
@@ -618,10 +618,10 @@ This domain integrates:
 ## Lionsberg 
 
 65. [[LIØNSBERG]]  
-66. [[LIONSBERG Narrative Universe]]  
+66. [[LIØNSBERG Narrative Universe]]  
 67. [[LIØNSBERG Lexicon]]  
 68. [[LIØNSBERG System]]  
-69. [[The LIONSBERG Co-Creator's Handbook]]  
+69. [[The LIØNSBERG Co-Creator's Handbook]]  
 70. [[The Lionsberg Toolkit]]  
 
 
@@ -660,7 +660,7 @@ This domain integrates:
 ## Values 
 
 1. [[Values]] / [[Anti-Values]] 
-2. [[The LIONSBERG System of Values]]  
+2. [[The LIØNSBERG System of Values]]  
 3. [[Acceptance]]  
 4. [[Accountability]] / [[Functional Accountability]] 
 ## Vision / Aim / Goal 
@@ -729,7 +729,7 @@ This domain integrates:
 44. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]  
 45. [[Domains of Responsibility and Authority]]  
 46. [[Field of Agreements]]  
-47. [[The LIONSBERG Co-Creator's Handbook]]  
+47. [[The LIØNSBERG Co-Creator's Handbook]]  
 48. [[Constitutional Amendments]]  
 
 ## The Meta Project 
@@ -791,9 +791,9 @@ This domain integrates:
 94. [[Project Management Debt]]
 95. [[Communication]]
 96. [[Communication Debt]]
-97. [[LIONSBERG Integrated Delivery System]]
+97. [[LIØNSBERG Integrated Delivery System]]
 98. [[Integration And Alignment Of Resources And Power]]
-99. [[The LIONSBERG Co-Creator's Handbook]]
+99. [[The LIØNSBERG Co-Creator's Handbook]]
 
 ## The Elevation Initiative
 
@@ -835,11 +835,11 @@ This domain integrates:
 
 
 [[LIØNSBERG]]  
-[[LIONSBERG Universe]]  
-[[LIONSBERG Universe(ity)]]  
+[[LIØNSBERG Universe]]  
+[[LIØNSBERG Universe(ity)]]  
 [[The LIØNSBERG Strategy and Plan]]  
 [[LIØNSBERG System]]  
-- [[LIONSBERG Integrated Delivery System]]  
+- [[LIØNSBERG Integrated Delivery System]]  
 
 [[The Seven Steps of Transformation]]  
 [[The Seven Commitments of Every Co-Creator]]  

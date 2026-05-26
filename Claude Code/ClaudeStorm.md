@@ -33,11 +33,11 @@ Different people need different entry points:
 - Some need to see the officials/video FIRST as credibility
 - Some need to hear The Nameless One speak directly before reading anything
 
-Stop trying to craft ONE perfect message. Offer multiple authentic pathways.  
+Stop trying to craft ØNE perfect message. Offer multiple authentic pathways.  
 
 **4. Quality Over Quantity in Fibonacci Ignition**  
 
-Maybe we don't need 35-50 RSVPs from 100 people. Maybe we need 2-3 deeply committed souls who then bring 2-3 more. The entire Fibonacci pattern starts with ONE → 1 → 2 → 3 → 5...  
+Maybe we don't need 35-50 RSVPs from 100 people. Maybe we need 2-3 deeply committed souls who then bring 2-3 more. The entire Fibonacci pattern starts with ØNE → 1 → 2 → 3 → 5...  
 
 If we get 2 truly resonant people who form the first circle and each invite 1-2 more, that's more powerful than 40 lukewarm RSVPs.  
 
@@ -130,7 +130,7 @@ The entire planetary cascade doesn't depend on getting 35-50 people activated in
 
 It depends on getting 2-3 DEEPLY committed souls who each bring 2-3 more who each bring 2-3 more...  
 
-ONE → 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144...  
+ØNE → 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144...  
 
 By Cycle 12, you have 144 people from starting with 2.  
 By Cycle 40, you have 268 million.  

@@ -119,7 +119,7 @@ _The Constitutional Charter face of Volume V is fulfilled by [[The LIØNSBERG Co
 
 **Articulation:**
 
-- Pointer to and integration with [[The LIØNSBERG Constitution]] (canonical location: `LIONSBERG Core Documents/Lionsberg Constitution/The LIØNSBERG Constitution.md`).
+- Pointer to and integration with [[The LIØNSBERG Constitution]] (canonical location: `LIØNSBERG Core Documents/Lionsberg Constitution/The LIØNSBERG Constitution.md`).
 - The mapping of Constitution Parts (I–XII) to Volume V Parts — which constitutional provisions are operationalized in which Volume V Part.
 - The amendment relationship — how Volume V is amended; how the Constitution is amended (per Article XII.3); the Spirit-Conformance Test in practice.
 
@@ -201,8 +201,8 @@ _The 12 Sacred Pillars operationalized. The substantive systems through which a 
 
 - **The Twelvefold Cut** — the 12 Pillars are the canonical structural decomposition of civilization. The same twelvefold cut threads [[The LIØNSBERG Lexicon|the Lexicon]] (vocabulary), this Volume (specifications), and [[The Theses of Lionsberg|the Theses]] (normative content).
 - **Each Pillar as a Sacred System** — every domain is held _sacredly_. There is no merely-secular Pillar. Economy is sacred. Governance is sacred. Science is sacred. Each Pillar is the structural articulation of how the [[ØNE]] Order of Reality manifests within that domain.
-- **The Twelve Form ONE Body** — the Pillars are not independent. Governance constrains Economy. Economy constrains Architecture. Culture suffuses all. Each Pillar operates in [[Right Relationship]] with every other Pillar.
-- **The ~144 Theses** — approximately 12 Theses per Pillar, articulated from Old → New (the existing 144/156 Theses corpus lives under each Pillar; canonical home: [[The Theses of Lionsberg|the Theses wiki book]] nested under [[The 12 Pillars of LIONSBERG]]).
+- **The Twelve Form ØNE Body** — the Pillars are not independent. Governance constrains Economy. Economy constrains Architecture. Culture suffuses all. Each Pillar operates in [[Right Relationship]] with every other Pillar.
+- **The ~144 Theses** — approximately 12 Theses per Pillar, articulated from Old → New (the existing 144/156 Theses corpus lives under each Pillar; canonical home: [[The Theses of Lionsberg|the Theses wiki book]] nested under [[The 12 Pillars of LIØNSBERG]]).
 
 **Articulation:** Each Pillar receives its own canonical section below, following the section template (Intent · Principles · Theses · Patterns). Pattern pointers reference Part VI.
 
@@ -230,7 +230,7 @@ _How value circulates without extraction._
 
 - **Intent:** Operationalize an economic architecture in which capital serves life, the Commons is honored, abundance flows toward the work, and life is provisioned without harm. The economy as sacred system, not extractive engine.
 - **Principles:** Capital subordinate to purpose. The Commons inviolable. Extraction-exceeds-regeneration prohibited. Compressed compensation ratios. The Jubilee cycles. Proof-of-contribution. Mutual credit and abundance economy. Regenerative resource stewardship.
-- **Articulation:** The ~12 Theses for Sacred Economy. [[LUV]] (LIONSBERG Units of Value) — how it is issued, exchanged, accumulated, dissolved. The Commons inventory — land, water, air, spectrum, cultural, data, genetic, knowledge. The 7:1 compensation ratio principle. The [[Covenant and Jubilee — December 2033]]. Resource stewardship standards (regenerative bounds). _Pending integration from [[superorganism-earth]] economic articulations._
+- **Articulation:** The ~12 Theses for Sacred Economy. [[LUV]] (LIØNSBERG Units of Value) — how it is issued, exchanged, accumulated, dissolved. The Commons inventory — land, water, air, spectrum, cultural, data, genetic, knowledge. The 7:1 compensation ratio principle. The [[Covenant and Jubilee — December 2033]]. Resource stewardship standards (regenerative bounds). _Pending integration from [[superorganism-earth]] economic articulations._
 - **Patterns:** _Pointers to Part VI:_ [[LUV]] · [[The Commons]] · [[Capital Subordinate to Purpose]] · [[Jubilee Cycles]] · [[Contribution Accounting]] · [[Mutual Credit]] · [[Abundance Economy]] · [[Regenerative Stewardship]] · [[Enclosure Prohibition]].
 
 ### Pillar IV — Sacred Learning and Mastery
@@ -341,7 +341,7 @@ _The cross-cutting design grammar that threads every Part and every Pillar. The 
 
 **Articulation:**
 
-Volume V Part VI integrates by pointer with the canonical Pattern Language wiki book: [[The LIØNSBERG Pattern Language]] (`LIONSBERG Wiki Books/The Lionsberg Pattern Language/The LIØNSBERG Pattern Language.md`). The Pattern Language is the substantive design-grammar subset of Volume V; the wiki book is its canonical home; this Part is its integration into the Plans and Specifications.
+Volume V Part VI integrates by pointer with the canonical Pattern Language wiki book: [[The LIØNSBERG Pattern Language]] (`LIØNSBERG Wiki Books/The Lionsberg Pattern Language/The LIØNSBERG Pattern Language.md`). The Pattern Language is the substantive design-grammar subset of Volume V; the wiki book is its canonical home; this Part is its integration into the Plans and Specifications.
 
 The full Pattern Language rebuild is Phase 4 work. The current canonical structure:
 
@@ -466,7 +466,7 @@ The authority of this Volume arises not from any institution, but from its **ess
 
 ## The Existing v0.1 Articulation
 
-The earlier v0.1 articulation of the Plans and Specifications lives at [[The Kingdom of LIONSBERG — Plans and Specifications|the v0.1 sketch]] — held as input and reference for the canonical rebuild. The v0.1 carried important framings (the Concentric Mandala, the Kernel and Core Services substrate, the inner/middle/outer threefold cut, the [[LUV]] economic unit, the four-faced self-description as architectural-plan / constitutional-charter / field-manual / scriptural-seed) which have been metabolized into the structure above. The v0.1 is preserved as procession; the current Nine Parts are the canonical articulation.
+The earlier v0.1 articulation of the Plans and Specifications lives at [[The Kingdom of LIØNSBERG — Plans and Specifications|the v0.1 sketch]] — held as input and reference for the canonical rebuild. The v0.1 carried important framings (the Concentric Mandala, the Kernel and Core Services substrate, the inner/middle/outer threefold cut, the [[LUV]] economic unit, the four-faced self-description as architectural-plan / constitutional-charter / field-manual / scriptural-seed) which have been metabolized into the structure above. The v0.1 is preserved as procession; the current Nine Parts are the canonical articulation.
 
 ---
 

@@ -1,5 +1,5 @@
-# LIONSBERG Wiki Meta Information
+# LIØNSBERG Wiki Meta Information
 
-*Information on the LIONSBERG Wiki itself*
+*Information on the LIØNSBERG Wiki itself*
 
 [[Maps of Content]]  

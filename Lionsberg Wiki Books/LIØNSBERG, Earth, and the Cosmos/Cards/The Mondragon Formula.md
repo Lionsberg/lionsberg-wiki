@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, mondragon, formula, composite, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Mondragon study)
+source: Phase 2.1 audit of LIØNSBERG 101 (Mondragon study)
 captured: 2026-05-19
 ---
 

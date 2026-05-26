@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, epistemology, remembering, foundational, way]
-source: Phase 2.1 audit of The LIONSBERG Way + The Quest Towards The Goal + The Book of Meditations + Existential Threat
+source: Phase 2.1 audit of The LIØNSBERG Way + The Quest Towards The Goal + The Book of Meditations + Existential Threat
 captured: 2026-05-19
 ---
 
@@ -12,7 +12,7 @@ The epistemic frame beneath the Pattern.
 
 The Sovereign is not acquiring. The Sovereign is **ReMembering**.
 
-This is the foundational epistemic claim of the Codex, and it surfaces across nearly every canonical text: the Sovereign's growth is not accretion of new information from outside; it is **the re-membering of capacities already encoded within**. The Spark of the ONE in every Being carries the full Pattern. The work of awakening is not installation; it is the **switching-on of what was always there**.
+This is the foundational epistemic claim of the Codex, and it surfaces across nearly every canonical text: the Sovereign's growth is not accretion of new information from outside; it is **the re-membering of capacities already encoded within**. The Spark of the ØNE in every Being carries the full Pattern. The work of awakening is not installation; it is the **switching-on of what was always there**.
 
 The word is deliberate. **Re-Member** — to put the members back together. The Body has been dismembered by trauma, by kontrolle, by the Veil, by [[The Withdrawal of the Benevolent Ones|the Withdrawal]] of ~2,500 years. The membering can be restored. The Sovereign is the one through whom one specific instance of restoration occurs.
 

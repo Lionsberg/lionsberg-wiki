@@ -138,7 +138,7 @@ And the host of other lies
 Permeating the Earth  
 
 Jordan ended up believing  
-**The Story of LIONSBERG**  
+**The Story of LIØNSBERG**  
 And [[The Great UnVeiling]]  
 
 What do you believe?  

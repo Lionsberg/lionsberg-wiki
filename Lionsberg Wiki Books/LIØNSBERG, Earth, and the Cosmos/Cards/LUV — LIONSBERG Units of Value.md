@@ -6,15 +6,15 @@ source: prior Sacred Codex stub
 captured: 2026-05-18
 ---
 
-# LUV — LIONSBERG Units of Value
+# LUV — LIØNSBERG Units of Value
 
 The economic protocol of the New Civilization.
 
-**LUV** (LIONSBERG Units of Value) and the broader system of **Interoperable Local CurrentSees** is the economic substrate by which value flows through the Body of LIØNSBERG without recreating the extraction economies of the Old World.
+**LUV** (LIØNSBERG Units of Value) and the broader system of **Interoperable Local CurrentSees** is the economic substrate by which value flows through the Body of LIØNSBERG without recreating the extraction economies of the Old World.
 
 The principle: **value flows toward the work that serves life**.
 
-Operational features (to be articulated through Phase 2-3 work and the audit of [[Superorganism-Earth]] and [[LIONSBERG FSC Pattern Language]]):
+Operational features (to be articulated through Phase 2-3 work and the audit of [[Superorganism-Earth]] and [[LIØNSBERG FSC Pattern Language]]):
 
 - **Proof-of-contribution**, not proof-of-stake or proof-of-work-as-extraction.
 - **Local CurrentSees** that circulate within Communities and Bioregions, interoperable across the broader Federation but not extractable by distant capital.

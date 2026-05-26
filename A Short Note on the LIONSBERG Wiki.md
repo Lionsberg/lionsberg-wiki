@@ -1,11 +1,11 @@
-# A Short Note on the LIONSBERG Wiki
+# A Short Note on the LIØNSBERG Wiki
 
 All the basics that must  
 Be ReMembered  
 To avoid calamity  
 And succeed  
 Are reflected  
-In the **[[README|LIONSBERG Wiki]]**  
+In the **[[README|LIØNSBERG Wiki]]**  
 
 Its millions of words  
 Form an inviolable  

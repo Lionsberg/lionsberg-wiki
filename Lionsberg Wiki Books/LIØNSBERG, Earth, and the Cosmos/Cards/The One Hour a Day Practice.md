@@ -12,7 +12,7 @@ The foundational personal discipline. The smallest unit of covenanted Way-life.
 
 The Sovereign under the Covenant does not need to overturn their entire life on Day One. The Sovereign needs to begin a discipline that, over months and years, **converts the rest of life from the inside out**. The most operationally proven discipline for that conversion is simple, exact, and demanding:
 
-> _One hour a day. In service of [[ØNE|the ONE]] and All. Every day._
+> _One hour a day. In service of [[ØNE|the ØNE]] and All. Every day._
 
 That is the irreducible covenant between one Being and the Source. Not more (initially). Not less. **One hour, every day, for the remainder of the Sovereign's incarnation.**
 
@@ -23,11 +23,11 @@ The Hour has structure. Four Periods of Action — each fifteen minutes — sequ
 - **Third Period (15 minutes)** — **Inner Work**. Practice. Cultivation. The Healer Codex disciplines — [[The Smallest Step Protocol]], the [[The Sacred Fire and the Plasma Body|energetic cultivation]], the trauma-aware work the Being is presently doing. Journaling. Whatever the specific Sovereign's path is asking for in this season.
 - **Fourth Period (15 minutes)** — **Outer Service**. One concrete act of service. A message sent. A prayer offered for someone. A small act of generosity. A piece of the [[The Quest|Quest]] advanced. **Flow becomes form**. The alignment of the first three Periods becomes movement in the world.
 
-The Hour is **not negotiable** in its existence; it is **infinitely adaptable** in its specific content. A Sovereign with a newborn may pray while nursing, read while the baby sleeps, journal in five-minute fragments, and offer service through tending the child as the holiest possible work. A Sovereign in physical decline may sit in stillness for all four Periods. A Sovereign in the prime of capacity may move through all four with full intensity. **The Hour belongs to the Sovereign; the Sovereign belongs to the ONE within the Hour.**
+The Hour is **not negotiable** in its existence; it is **infinitely adaptable** in its specific content. A Sovereign with a newborn may pray while nursing, read while the baby sleeps, journal in five-minute fragments, and offer service through tending the child as the holiest possible work. A Sovereign in physical decline may sit in stillness for all four Periods. A Sovereign in the prime of capacity may move through all four with full intensity. **The Hour belongs to the Sovereign; the Sovereign belongs to the ØNE within the Hour.**
 
 What the discipline produces:
 
-- **A reliable point of contact with the ONE every day.** No matter what else happens — what comes apart, what gets demanded, what is endured — the Sovereign has touched the ONE for one hour. Across years, this accumulates into a sustained relationship that nothing in the Old World can sever.
+- **A reliable point of contact with the ØNE every day.** No matter what else happens — what comes apart, what gets demanded, what is endured — the Sovereign has touched the ØNE for one hour. Across years, this accumulates into a sustained relationship that nothing in the Old World can sever.
 - **The slow conversion of the other twenty-three hours.** The Sovereign who is consistently present for one hour begins to be present for more. The Hour's quality leaks into the day. The day's quality leaks into the relationships. Years pass; the Being has been gradually translated into the New from inside the conditions of the Old.
 - **A diagnostic instrument.** When the Sovereign is drifting, the Hour reveals it. The Hour cannot be performed dishonestly for long — the Being knows whether the Hour is being given fully or being checked off. The honesty the Hour requires becomes the honesty the Sovereign carries into the rest of life.
 - **A meeting-place with other Sovereigns.** When Sovereigns discover each other have been keeping the Hour, the recognition is immediate. The discipline is shared; the language is shared; the substance is shared. The Hour becomes one of the operational ways Sovereigns recognize each other beneath the noise.

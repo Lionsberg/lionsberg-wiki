@@ -170,7 +170,7 @@ Read aloud. Hold the words. Let them work.
 
 "But this truth was so interwoven everywhere with all kinds of falsehoods which distorted it, that finally nothing of it remained but words."
 
-"All that exists is [[ONE|One]]. People only call this One by different names."
+"All that exists is [[ØNE|One]]. People only call this One by different names."
 
 "Education is the most powerful weapon which you can use to change the world."
 

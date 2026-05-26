@@ -224,7 +224,7 @@ When fixing links:
 - [ ] Update this project plan with any learnings
 
 ### Recommended Starting Points
-1. **LIONSBERG Core Documents** - High priority, high visibility
+1. **LIØNSBERG Core Documents** - High priority, high visibility
 2. **README.md and main navigation** - Ensure entry points work
 3. **THE NAMELESS BOOK** - Key user-facing content
 4. **Recent additions** - Fix links while context is fresh

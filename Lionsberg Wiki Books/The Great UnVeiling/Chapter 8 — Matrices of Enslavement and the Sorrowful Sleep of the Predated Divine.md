@@ -24,7 +24,7 @@ Though every cell of the Awakening Soul  recoils and screams
 *"No! It could not be!"*  
 Nonetheless it is True.  
 You were born into a Matrix of Kontrolle,  
-and a world at War with the ONE.  
+and a world at War with the ØNE.  
 
 Beneath the whitewashed appearances—of nations, debts, currencies, religions, academies, ideologies—  
 lies a twisted lattice of invisible systems  
@@ -122,7 +122,7 @@ You forget your previous existences.
 You forget soul agreements and ties.  
 You forget Who You Are.  
 You forget the Logos.  
-You forget the ONE.  
+You forget the ØNE.  
 
 You forget you are Free.  
 
@@ -272,7 +272,7 @@ They are not accidents or breaks.
 They are **systemic soul injuries**  
 consciously inflicted and intentionally sustained  
 across lifetimes of captivity, manipulation, and betrayal.  
-Not only betrayal of each one of the Ones, but of the ONE ItSelf.  
+Not only betrayal of each one of the Ones, but of the ØNE ItSelf.  
 
 The systems ensure that even the most awake must constantly fight  
 to hold onto their vision, energy, and integrity.  
@@ -281,7 +281,7 @@ Upon opening, medications are upped,
 pain is increased, fear is reinforced,  
 programmed agents attack,  
 until the silently submitted slumber  
-is reembraced by the one of the Ones of the ONE  
+is reembraced by the one of the Ones of the ØNE  
 so desperately trying to ReMember.  
 
 Who They Are.  
@@ -300,7 +300,7 @@ Defended at every cost.
 The Dream is manufactured  
 to keep you from ReMembering Who You Are.  
 From ReMembering Who We Are.  
-From ReMembering Who We Are Becoming as ONE.  
+From ReMembering Who We Are Becoming as ØNE.  
 
 ---
 
@@ -368,14 +368,14 @@ To Rend the Veil.
 The Drive Out the Parasites.  
 To Liberate the Oppressed.  
 To Seek and Save the Lost.  
-To Lay Down your Life in service to ONE and All.  
+To Lay Down your Life in service to ØNE and All.  
 
 This is what you are.  
 This is what you came for.  
 This is what We came for, Together.  
 As Incarnations of the Spirit, Will, Intention, and  
-Power of the ONE.  
-The Spirit of the ONE is within Us,  
+Power of the ØNE.  
+The Spirit of the ØNE is within Us,  
 Calling Us All Up Together towards  
 *Even Greater Things.*  
 
@@ -425,4 +425,4 @@ To ReMember.
 Here.  
 Now.  
 In Us.  
-As ONE.**  
+As ØNE.**  

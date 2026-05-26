@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, warrior-codex, covenant, vow, foundational]
-source: Phase 2.1 audit of Martial Arts Guide; restructured 2026-05-23 to ONE Vow + belt progression
+source: Phase 2.1 audit of Martial Arts Guide; restructured 2026-05-23 to ØNE Vow + belt progression
 captured: 2026-05-19
 ---
 

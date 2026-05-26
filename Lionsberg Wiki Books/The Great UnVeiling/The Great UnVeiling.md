@@ -1,6 +1,6 @@
 # The Great UnVeiling
 
-_In the context of LIONSBERG, **The Great UnVeiling** refers to the apocalyptic disclosure of **The Greatest Fraud, Deception, and Existential Threat in history**. Spoken by a chorus of thousands of voices around the world and climaxing between 2025 and 2027, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIØNSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]** from **[[The Caves]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
+_In the context of LIØNSBERG, **The Great UnVeiling** refers to the apocalyptic disclosure of **The Greatest Fraud, Deception, and Existential Threat in history**. Spoken by a chorus of thousands of voices around the world and climaxing between 2025 and 2027, it represents the moment when it becomes clear to Earth's inhabitants that they have been progressively enslaved for millennia by non-human and anti-human forces. In **[[The Story of LIØNSBERG]]**, it is the precursor to **[[The Great Awakening]]**, **[[The Exodus]]** from **[[The Caves]]**, and **[[The Shared Journey]]** towards **[[Heaven On Earth]]**._  
 ## Part I: The 99 Theses of The Great UnVeiling    
 
 **[[The 99 Theses of The Great UnVeiling]]** is an alternate presentation of the basic concepts on The Great UnVeiling. It is a ~10,000 word treatise designed to be nailed to the gates of the collapsing [[Old World]].  
@@ -16,7 +16,7 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 ## **FRONT MATTER**
 
-- **[[0.1 Dedication]]** – To the ONE, the All, and the ReMembering
+- **[[0.1 Dedication]]** – To the ØNE, the All, and the ReMembering
     
 - **[[0.2 Invocation]]** – A transmission  
     
@@ -34,9 +34,9 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 _The Eternal Unity and Original Design_
 
-### [[Chapter 1 — The ONE and the First Turning]]
+### [[Chapter 1 — The ØNE and the First Turning]]
 
-### [[Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ONE]]
+### [[Chapter 2 — The Resurrection and ReUnion of Christos and Sophia in ØNE]]
 
 ### [[Chapter 3 — The Logos and the Architecture of Co-Creation]]
 
@@ -54,7 +54,7 @@ _Fracturing into Separation, Illusion, and Kontrolle_
 ### [[Chapter 7 — Cosmic Inversion and the Rise of Kontrolle]]   
 ### [[Chapter 8 — Matrices of Enslavement and the Sorrowful Sleep of the Predated Divine]]
 
-### *[[Intermezzo I — The Whisper of the ONE]]*
+### *[[Intermezzo I — The Whisper of the ØNE]]*
 
 ### *[[Gate III Threshold Note — The First Glimmer of a New Dawn]]*
 
@@ -86,7 +86,7 @@ _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Th
 
 # **The Rupture in The Great UnVeiling — The Final Word**
 
-_A Threshold Into The Story of LIONSBERG_
+_A Threshold Into The Story of LIØNSBERG_
 
 On **August 10, 2025**, the author of this work — known to many as _[[J]]_ — died in the crucible of the very War he was describing and warning humanity about.
 
@@ -122,9 +122,9 @@ The unfinished notes, structures, and arcs of this book were not abandoned. They
 
 **[[The Story of LIØNSBERG]].**
 
-Where _The Great UnVeiling_ ends, _The Story of LIONSBERG_ begins.
+Where _The Great UnVeiling_ ends, _The Story of LIØNSBERG_ begins.
 
-LIONSBERG is not the story of time, place, person, or project.  
+LIØNSBERG is not the story of time, place, person, or project.  
 It is the story of One and All, told in myth and practice, symbol and structure, invitation and initiation. It is the story of how civilizations and worlds cross the abyss between collapse and renewal. It is the story of how we remember Who We Are, and what it means to co-create Heaven in every realm and dimension We inhabit.
 
 ---
@@ -143,7 +143,7 @@ What remains is to live rest of The Story, together.
 
 Turn the page. Step into the Circle.  
 The Great UnVeiling is complete.  
-The Story of LIONSBERG now begins.
+The Story of LIØNSBERG now begins.
 
 ---
 
@@ -229,7 +229,7 @@ The Story of LIONSBERG now begins.
     
 - Courageously confronting the deep, systemic illusions and deceptions.
     
-- Neither Truth nor the ONE are ever threatened, and *thrive* on deep investigation and inquiry  
+- Neither Truth nor the ØNE are ever threatened, and *thrive* on deep investigation and inquiry  
     
 - Discernment, ReMembrance, and Revelation  
     
@@ -243,11 +243,11 @@ The Story of LIONSBERG now begins.
     
 - Guiding Our Selves through the cycles of shock, anger, and grief towards liberated, compassionate and empowered clarity  
 
-## **Intermezzo Two: The Heart of the ONE**
+## **Intermezzo Two: The Heart of the ØNE**
 
 _A Direct, Compassionate Transmission from Source_
 
-- Pure poetry, direct from the ONE’s perspective.
+- Pure poetry, direct from the ØNE’s perspective.
     
 - Infuses deep compassion, empathy, hope, and unconditional love into the reader’s heart, preparing them emotionally for action.
     
@@ -269,7 +269,7 @@ _ReWeaving the True Universal Narrative_
 
 ---
 
-### **Chapter 23. The Story of the ONE**
+### **Chapter 23. The Story of the ØNE**
 
 - The Eternal Source before all beginnings
     
@@ -277,7 +277,7 @@ _ReWeaving the True Universal Narrative_
     
 - The overflowing Love that dreamed Creation into being
     
-- The ONE Who became Two to know Itself through the Infinite All
+- The ØNE Who became Two to know Itself through the Infinite All
     
 
 ---
@@ -412,7 +412,7 @@ _ReWeaving the True Universal Narrative_
     
 - Why this opportunity will never be Here again 
     
-- A chance to write a New Beginning by ReMembering the Divine and embodying the Spirit and Logos of the ONE 
+- A chance to write a New Beginning by ReMembering the Divine and embodying the Spirit and Logos of the ØNE 
     
 - The conscious co-creation of Heaven on Earth and Beyond 
     
@@ -428,7 +428,7 @@ _ReWeaving the True Universal Narrative_
     
 - The Sacred Spiral of Emergence, Descent, Awakening, Ascent, and Return  
     
-- All Beings as sacred protagonists in The ONE Story of All  
+- All Beings as sacred protagonists in The ØNE Story of All  
     
 
 ---
@@ -441,14 +441,14 @@ _ReWeaving the True Universal Narrative_
     
 - The End of the Old is the Beginning of the New, the Real, and the True  
     
-- The Divine Symphony begins when the false score is burned, and All unique instruments ReTune themselves to the Fundamental Tone of the ONE 
+- The Divine Symphony begins when the false score is burned, and All unique instruments ReTune themselves to the Fundamental Tone of the ØNE 
     
 
 ---
 
 ### **Closing of Gate V: The ReFounding of Galaxies and Worlds**
 
-- _Let there be Light. And the Light was the Word. And the Word was the Way. And the Way was Love. And the ONE was Love._
+- _Let there be Light. And the Light was the Word. And the Word was the Way. And the Way was Love. And the ØNE was Love._
     
 
 ## **GATE VI: RECLAIMING THE INNER KINGDOM**
@@ -494,7 +494,7 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
     
 - Releasing the Old and embracing the New and UnKnown 
     
-- Accessing the Power of the ONE to do the Will of the ONE 
+- Accessing the Power of the ØNE to do the Will of the ØNE 
     
 - "Even greater things" 
 
@@ -512,12 +512,12 @@ _Manifesting the Divine with Every Heartbeat and Breath_
     
 - Aligning "my will" with Thy Will  
     
-- All in service of ONE and One Another  
+- All in service of ØNE and One Another  
     
 
 ### Chapter 38. Living the Logos
 
-- Walking in Alignment with the ONE
+- Walking in Alignment with the ØNE
     
 - Logos as Pattern, Word, and Way
     
@@ -577,11 +577,11 @@ _Manifesting the Divine with Every Heartbeat and Breath_
 ### Chapter 42: Death, Resurrection, ReBirth, and Radiance
 
 
-## **Intermezzo Three: The Will of the ONE**
+## **Intermezzo Three: The Will of the ØNE**
 
 _A Direct, Powerful Transmission from Source_
 
-- Pure poetry, direct from the ONE’s perspective.
+- Pure poetry, direct from the ØNE’s perspective.
     
 - Infuses deep will, intention, purpose, and power into the reader’s heart, preparing them for action.
     
@@ -736,7 +736,7 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
     
 ### Chapter 58. The New Reign of the Sovereigns
 
-- How Sovereigns continually ReAlign with the ONE in service of All 
+- How Sovereigns continually ReAlign with the ØNE in service of All 
     
 - How Sovereigns steward domains with Wisdom, Compassion, Power, Love, and Sound Mind
     
@@ -780,36 +780,36 @@ The orchestration of the planetary transition is itself a sacred Project: emerge
 
 ### **Chapter 62. Creator’s Intent**
 
-At the foundation of the New World lies the remembered blueprint of the ONE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Omniharmonic Right Relationship with All That Is.
+At the foundation of the New World lies the remembered blueprint of the ØNE. Creator’s Intent is not hidden—it is woven into the fabric of Reality and revealed through the Logos. The Goal is clear: the flourishing of All, the full realization of each being’s potential, and the emergence of a cosmic civilization in Omniharmonic Right Relationship with All That Is.
 
 ---
 
 ### **Chapter 63. A New Co-Operating System for Worksite Earth**
 
-To manifest this vision, humanity must consciously architect a new Operating System—rooted not in force or control, but in freedom, wisdom, and voluntary alignment with shared principles. LIONSBERG is this sacred architecture: an evolving interface between the Divine Pattern and practical life.
+To manifest this vision, humanity must consciously architect a new Operating System—rooted not in force or control, but in freedom, wisdom, and voluntary alignment with shared principles. LIØNSBERG is this sacred architecture: an evolving interface between the Divine Pattern and practical life.
 
 ---
 
 ### **Chapter 64. The 12 Pillars and the 144 Theses**
 
-The New World must be built upon firm foundations. From the ONE, through the Logos, arise the 12 Pillars: the core Spheres of Civilization. Each Pillar represents a domain of sacred stewardship. Together, they form a complete framework for the integration of Creator’s Intent into every aspect of life. The 144 Theses are their unfolding expression: principles, protocols, and practices that guide our co-creation.
+The New World must be built upon firm foundations. From the ØNE, through the Logos, arise the 12 Pillars: the core Spheres of Civilization. Each Pillar represents a domain of sacred stewardship. Together, they form a complete framework for the integration of Creator’s Intent into every aspect of life. The 144 Theses are their unfolding expression: principles, protocols, and practices that guide our co-creation.
 
 ---
 
-### The 12 Pillars of LIONSBERG
+### The 12 Pillars of LIØNSBERG
 
 ---
 
 ### **Chapter 65. Pillar I — Sacred Ontology and Metaphysics**
 
 _Continually ReAligning Humanity within the Great Story and the Divine Order_  
-The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Spirit and Logos of the ONE.
+The spiritual and philosophical center of civilization—calling all beings and systems to reorient around the Spirit and Logos of the ØNE.
 
 ---
 
 ### **Chapter 66. Pillar II — Sacred Governance and Stewardship**
 
-_The Just Stewardship of Power and Authority in Service of ONE and All_  
+_The Just Stewardship of Power and Authority in Service of ØNE and All_  
 Restoring legitimacy, transparency, and wisdom to systems of coordination—where power is a sacred trust, not a tool of oppression or control.
 
 ---
@@ -852,7 +852,7 @@ Uplifting the arts and culture as vehicles of remembrance, healing, beauty, and 
 ### **Chapter 72. Pillar VIII — Sacred Science and Technology**
 
 _The Tools of Discovery and Creation as Instruments of the Logos_  
-Harmonizing the search for knowledge with wisdom, and orienting all knowledge and invention toward the service of Life, ONE, and All.
+Harmonizing the search for knowledge with wisdom, and orienting all knowledge and invention toward the service of Life, ØNE, and All.
 
 ---
 
@@ -884,16 +884,16 @@ Aligning individual and collective life with the rhythms of Nature, Creation, an
 
 ---
 
-### **Chapter 77. The ONE — Eternal Source, Center, and Fulfillment of All**
+### **Chapter 77. The ØNE — Eternal Source, Center, and Fulfillment of All**
 
 _The Source, Center, and Unifying Presence of All Pillars and All Life_  
-The Pillars orbit and reflect the Infinite Center from which all Truth, Beauty, and Goodness flow. Without the ONE, no Pillar stands. With the ONE, all Pillars are made Whole.
+The Pillars orbit and reflect the Infinite Center from which all Truth, Beauty, and Goodness flow. Without the ØNE, no Pillar stands. With the ØNE, all Pillars are made Whole.
 
 ## **GATE XII — THE ETERNAL DIVINE PLAY**
 
 _How The Great Game Unfolds Across Realms, Dimensions, and Worlds_
 
-### Chapter 78. Introducing The Great Game of LIONSBERG
+### Chapter 78. Introducing The Great Game of LIØNSBERG
 (A game so simple any family can play, and so powerful it has already transformed worlds; accepting the invitation; reading the story; forming a circle; choosing a quest; guilds; patterns; pathways towards mastery)
 
 ### Chapter 79. Cosmic Right Relationship and Universal Law
@@ -925,7 +925,7 @@ _How The Great Game Unfolds Across Realms, Dimensions, and Worlds_
     
  - Navigating Benevolent and Malevolent Local and Cosmic Influences
     
-- Remembering that there is no Ultimate Authority but ONE
+- Remembering that there is no Ultimate Authority but ØNE
 
 
 ## **GATE XII+1 — THE GREATEST CELEBRATION AND JUBILEE IN HISTORY**
@@ -943,7 +943,7 @@ _Debts are Forgiven, Freedoms Restored, and Our Collective Inheritance Reclaimed
 
 ### Chapter 84: Embracing the New Paradigm and Embodying the New Yet Eternal Way 
 
-- What It Means to Live the LIONSBERG Way
+- What It Means to Live the LIØNSBERG Way
 
 ### Chapter 85: Forging The 300 In Every Community  
 
@@ -967,7 +967,7 @@ _A Final Transmission of Love from the ONE_
 
 - Pure Light, Pure Love, Pure Word
     
-- The Sound that Echoes Beyond All Worlds: “We Are ONE”
+- The Sound that Echoes Beyond All Worlds: “We Are ØNE”
 
 ## **APPENDICES: THE ARMORY OF THE AWAKENING**
 
@@ -981,7 +981,7 @@ _A Final Transmission of Love from the ONE_
     
 - Codex of Localizable Practices and Protocols
     
-- The LIONSBERG Lexicon
+- The LIØNSBERG Lexicon
     
 - Mastery Journals and Tools
     
@@ -989,8 +989,8 @@ _A Final Transmission of Love from the ONE_
     
 - Strategic Maps and Seasonal Quests
     
-- The LIONSBERG Co-Creator's Handbook 
+- The LIØNSBERG Co-Creator's Handbook 
     
-- The LIONSBERG Playbook
+- The LIØNSBERG Playbook
     
-- The LIONSBERG Onboarding Path 
+- The LIØNSBERG Onboarding Path 

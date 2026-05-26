@@ -100,7 +100,7 @@ The corpus is shaped by decisions. This Part holds them all in one searchable pl
 ### Sub-sections (to be authored)
 
 - **Resolved Decisions from the Great Spring 2026 Wiki Turn**:
-  - D1 — Kingdom of LIONSBERG v0.1 → [[The Kingdom of LIØNSBERG — Plans and Specifications]]; Pattern Language as subset
+  - D1 — Kingdom of LIØNSBERG v0.1 → [[The Kingdom of LIØNSBERG — Plans and Specifications]]; Pattern Language as subset
   - D2 — 12 Pillars / 12 Domains harmonization → deferred to Phase 3 Pattern Language rebuild
   - D3 — Lionsberg Theory of Everything → Volume IX culminating chapter (NOT Volume V)
   - D4 — Lionsberg - A Biblical Perspective → DELETED (no unique conceptual material; violated higher-order coherence)

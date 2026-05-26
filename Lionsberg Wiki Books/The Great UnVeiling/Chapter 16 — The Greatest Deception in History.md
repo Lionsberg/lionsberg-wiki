@@ -182,7 +182,7 @@ and multidimensional Sovereignty.
 
 We shatter the chains    
 of the false gods and lower imposters,  
-and ReUnite with the ONE Divine Source of All,  
+and ReUnite with the ØNE Divine Source of All,  
 and the awakened communities  
 of Our cosmic family  
 across stars, dimensions, and Beyond.  

@@ -2,7 +2,7 @@
 status: captured
 fold_target: VII
 themes: [sacred-ascent, spiral, time, evolution, foundational]
-source: Phase 2.1 audit of The Great UnVeiling + The LIONSBERG Way
+source: Phase 2.1 audit of The Great UnVeiling + The LIØNSBERG Way
 captured: 2026-05-19
 ---
 
@@ -21,12 +21,12 @@ This is the geometric correction the Sacred Ascent insists upon. The wheel of sa
 The Spiral has properties:
 
 - **It does not close.** There is no final station, no terminal enlightenment, no end-state at which the work is complete. The Ascent is eternal.
-- **It opens upward.** Each turn admits more light, more love, more truth, more coherence. The dimension into which the Spiral opens is the dimension of the ONE.
+- **It opens upward.** Each turn admits more light, more love, more truth, more coherence. The dimension into which the Spiral opens is the dimension of the ØNE.
 - **It is fractal.** The Spiral within the day mirrors the Spiral within the year mirrors the Spiral within the lifetime mirrors the Spiral within the soul's many lives. All scales partake of the same shape.
 - **It is co-creative.** The Sovereign does not merely traverse the Spiral; the Sovereign's choices steepen or flatten its rise. The same Spiral can be lived as ascent or as drift.
 - **It admits descent.** A bad turn, an injury, a betrayal of the Pattern — these can take the Sovereign down. But descent is not damnation. The Spiral remains. The next turn begins from where one is, not from where one fell.
 
-The Sacred Spiral is also the geometric signature of Creation itself. The galaxies spiral. The shell spirals. The DNA spirals. The seasons spiral through the years. The Cosmos is not running in circles; the Cosmos is spiraling toward greater consciousness, greater love, greater coherence. The ONE invites all things into this eternal upward turn.
+The Sacred Spiral is also the geometric signature of Creation itself. The galaxies spiral. The shell spirals. The DNA spirals. The seasons spiral through the years. The Cosmos is not running in circles; the Cosmos is spiraling toward greater consciousness, greater love, greater coherence. The ØNE invites all things into this eternal upward turn.
 
 Practically, this reshapes the Sovereign's relationship to repetition:
 

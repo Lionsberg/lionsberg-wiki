@@ -1,4 +1,4 @@
-# The Gates of LIONSBERG
+# The Gates of LIØNSBERG
 
 ## _The Threshold To The Kingdom Of LIØNSBERG_
 
@@ -10,7 +10,7 @@ It is a Kingdom forged across worlds and ages — alive across the cosmos — op
 
 ## The Nested Gates
 
-The Gates of LIONSBERG are the first crossing. Three further gate-systems wait beyond them for those who walk on.
+The Gates of LIØNSBERG are the first crossing. Three further gate-systems wait beyond them for those who walk on.
 
 **[[The 144 Gates of Initiation]]** — the universal Path every Sovereign walks. The Way from the Old World to the New. Cultivation of [[The Way Of The One Body]]. Twelve Movements, twelve Gates each — walked at all scales (Self · Circle · Community · Bioregion · Earth · Cosmos). Blue Belt in The Way Of The One Body is recognized at the close of Movement 8. The species-scale Great ReFounding completes when the last cohort crosses. Then comes the Greatest Jubilee. Then the millennia of Heaven. Then the Eternal Divine Play.
 
@@ -20,7 +20,7 @@ The Gates of LIONSBERG are the first crossing. Three further gate-systems wait b
 
 ## What The Crossing Is
 
-To cross The Gates of LIONSBERG is to:
+To cross The Gates of LIØNSBERG is to:
 
 - Receive [[The Story of LIØNSBERG]] — the cosmic narrative
 - Be met by [[The Invitation]] — the offering held out to those who can hear
@@ -61,6 +61,6 @@ The Gates remain open.
 - [[The 144 Gates of Initiation]] — the universal Path of initiation
 - [[The Sacred Ascent]] — the lifetime arc beyond Blue Belt
 - [[The Kingdom of LIØNSBERG]] — what lies within the Gates _(currently best held within [[The LIØNSBERG Sacred Codex]])_
-- [[The LIONSBERG Function]] — what the Kingdom serves
-- [[The LIONSBERG Belt System]] — the recognition architecture
+- [[The LIØNSBERG Function]] — what the Kingdom serves
+- [[The LIØNSBERG Belt System]] — the recognition architecture
 - [[Pass The Flame]] — the handing-forward of one's Chapter

@@ -128,7 +128,7 @@ Go around the circle. Each person suggests one possibility:
 - Clear and maintain a local trail or natural space  
 - Map and begin a directory of local offers and needs  
 
-**Choose ONE Quest** (~7 min)
+**Choose ØNE Quest** (~7 min)
 
 Discuss which quest resonates most with the group. Look for:  
 - What lights people up when they talk about it?
@@ -259,7 +259,7 @@ You have everything you need to play — you are sovereign, self-governing, and 
 
 ### Practical Guides (Use These Weekly)
 - [[The LIØNSBERG Playbook]] - Detailed plays and practices for circles
-- [[The LIONSBERG Circle Guide]] - Circle formation, health, and evolution
+- [[The LIØNSBERG Circle Guide]] - Circle formation, health, and evolution
 - [[Frequently Asked Questions]] - Common concerns and questions addressed
 
 ### Strategy & Depth (Explore When Ready)

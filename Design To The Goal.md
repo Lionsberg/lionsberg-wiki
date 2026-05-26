@@ -26,7 +26,7 @@ Applied to civilization: [[Heaven On Earth]] is the Target. All design must serv
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Target Value Design operates at every fractal scale:
 

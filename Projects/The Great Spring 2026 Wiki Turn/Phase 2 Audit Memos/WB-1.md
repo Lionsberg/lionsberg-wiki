@@ -7,12 +7,12 @@ I have substantial coverage now to assemble the memo. Let me finalize.
 ## Coverage Statement
 
 **Read in full:**
-- The Book of LIONSBERG master TOC ([[The Book of LIONSBERG]], 758 lines)
+- The Book of LIØNSBERG master TOC ([[The Book of LIØNSBERG]], 758 lines)
 - Genesis (Chapter 1): 1.1, 1.2, 1.3, 1.4, 1.5 (The Caves), 1.6, 1.10, 1.11, 1.12, 1.13, 1.17, 1.20, 1.21, 1.22, 1.23, 1.29 (Becoming), 1.31 (Physics of the Threshold)
 - The Great Game (Chapter 15): 15.1–15.18 (Movements I–III complete), 15.20, 15.21, 15.22, 15.23, 15.24, 15.25, 15.26 (Movement IV nearly complete)
 - The Program Delivery Guide (Chapter 16): **ALL 16 chapters in full** — 16.1 Verdict, 16.2 Scope, 16.3 Golden Seed, 16.4 Architecture of Cooperation, 16.5 Integrated Delivery, 16.6 Design to the Goal, 16.7 Network of Commitments, 16.8 The Rhythms, 16.9 Work Structuring, 16.10 Living Economy, 16.11 Every Community Is a Construction Site, 16.12 Learning System, 16.13 Quality/Safety/Structural Immunity, 16.14 Wilderness, 16.15 Sacred Ascent, 16.16 Receivership to Sovereignty
 - Introduction (Chapter 0): 0.4 The Meta Story
-- Spot-reads: 4.18 (the eight-stage navigation cycle), 5.12 (True Self), 6.23 (Only ONE), 7.13 (Logos), 8.44 (Greatest Heist), 8.63 (Sea of Pyramids), 9.21 (Sovereignty), 10.27 (Properly Ordered Beings), 12.14 (The Abyss), 13.9 (Nothing Can Come First), 13.13 (Wilderness), 14.2 (Simple Recipe for Beginning)
+- Spot-reads: 4.18 (the eight-stage navigation cycle), 5.12 (True Self), 6.23 (Only ØNE), 7.13 (Logos), 8.44 (Greatest Heist), 8.63 (Sea of Pyramids), 9.21 (Sovereignty), 10.27 (Properly Ordered Beings), 12.14 (The Abyss), 13.9 (Nothing Can Come First), 13.13 (Wilderness), 14.2 (Simple Recipe for Beginning)
 
 **Surveyed via filename indexing (titles read):** all 560 files. Chapter directory listings produced.
 
@@ -32,7 +32,7 @@ The PDG (Chapter 16) and Chapter 15 (Great Game) are clearly the most explicitly
 | **3 — Meta Quest** | Meta Goal, Universal Movement, Logic of Love, Powerful/Fierce Love, Logical End of Love | 25 | Definitional / prophetic | Mature | High — many concept-cards |
 | **4 — Quest to Navigate** | The 8-stage navigation cycle (Remember-Perceive-Orient-Engage-Plan-Adapt-Move-Learn), Goods/Anti-Goods, First Moral Decision, Towards Oneness Through Love, Truth Beyond Horizon, Take Your Shoes Off | 34 | Philosophical with operational hints | Mature | High |
 | **5 — Purpose & Meaning** | True Self / False Self, 90-10 fallacy, 10-90 truth, Becoming and Doing are One, Source of Time and Energy | 22 | Contemplative / formational | Mature | High |
-| **6 — Creative One** | Source/Uncaused Cause, Ground of Being, Golden Thread, Decomposing/Recomposing notions of the One, Spirit/Archetypes/Prototypes/Instantiations, Concrete and Abstract Idolatry, Beyond the Masculine Anthropomorphic God, There Is Only ONE, Hemlock and Gods of the State | 28 | Mystical / theological | Mature | High |
+| **6 — Creative One** | Source/Uncaused Cause, Ground of Being, Golden Thread, Decomposing/Recomposing notions of the One, Spirit/Archetypes/Prototypes/Instantiations, Concrete and Abstract Idolatry, Beyond the Masculine Anthropomorphic God, There Is Only ØNE, Hemlock and Gods of the State | 28 | Mystical / theological | Mature | High |
 | **7 — Living System** | What's Fundamental, Meta Conscious Agent, Potential, Logos, Creative Field, Energy/Information/Conditions, then the ascending levels — particles, atoms, molecules, life, microbiome, cells, tissues, organs, organisms, superorganisms, Co-Operative Superorganisms, One Living System | 36 | Cosmological / scientific-poetic | Mature | High (each level a Card) |
 | **8 — Quest of Humanity** | History of philosophy/religion: Philo-Sophia, Confucius/Li/Yi, Taoism, Jodo, Mo Tzu, Buddha, Zoroaster, Pythagoras, Plato, Socrates, Aristotle, Stoicism, Ashoka, Mahavira, Judaism, Hinduism, Philo-Nikia, Legalism, Alexander, Fall of Egypt, Rise of Rome, **Greatest Scandal and Heist**, **Spirit/Heart/Intention of Jesus**, **Co-Opting of Christianity**, **Prophesy of Muhammad**, Heaven and Hell, At-One-Ment, Enlightenment, Death of God, Stunning Boom, Weaponization, Great Dichotomy, **Classic Game of Empire and Oligarchy**, Judging by the Fruit, **Sea of Pyramids** | 75 | Historiographical with prophetic frame | Mature in concept, some files terse | **Extremely high — single richest density of concept-Cards in entire book** |
 | **9 — Sovereignty** | Subversive nature of Meta Game, Order of Authorities, Lower/Higher Law, House of Wisdom, Conscious Evolution of Law, Meta Law, Sovereignty lies with Individual not State, All Generations Sacred and Sovereign, Right Relationship and Inter-Existence, Supreme Identity and Citizenship, Humanity's Desire for a King, **Sovereignty/Authority/Loyalty of every individual Soldier, Institutional Leader, Political Leader, Citizen, Gang/Cartel Leader**, Indifference and Non-Involvement, Charity vs Justice, **We Come in the Name and Power of One and All** | 53 | Political / spiritual | Mature | High |
@@ -41,7 +41,7 @@ The PDG (Chapter 16) and Chapter 15 (Great Game) are clearly the most explicitly
 | **12 — Anti-Quest** | Anti-Hero, Nature/Reality of Evil, Knowledge of Anti-Goodness, Pain/Suffering/Death and their causes, Fear and Anxiety as gift/curse, Ignorance/Unintentional Harm vs Evil/Malevolence/Intentional Harm, Forsaking One and All in Service of Self, Anti-Good in Good's Clothing, Supreme Anti-Good, **Spirit of Evil**, **The Abyss**, Meta Punishment, Progressive Invention of Hell, Liberating from Fear of Hell, Hell is Real and We Can Co-Create It, Fairy Tales and Myths Are More Than Real, Heaven and Hell Are More Than Real | 20 | Prophetic / theological | Mature | Medium-high |
 | **13 — Quest of the Heroes** | Logos that Brings Forth the World, Call and Embarkation, Completion/Fulfillment/Shalom, Serpent in the Garden Part II, **Generation of Transformation**, **Nothing Can Come First**, There Is No Turning Back, Courage and Perseverance, Wilderness Between Captivity and Promised Land, Sacrificing Others Instead of Your Self, **Giants Guarding the Land of Promise**, Waiting for a Meta Hero, **Becoming a Hero**, What Do I Do and Where Do I Begin, Embarrassing Shadows of Our Past, Fear/Mistakes/Shame, **Embracing the Light and the Darkness**, **Integrating All We Are in Service of the One**, Freedom and Forgiveness, Liberation From Propositional Knowing, Rediscovering Transcendent Reality, Re-Anchoring Identity/Knowledge/Loyalty/Faith, **Loving Right Relationship**, Cleaning Up the Messes We Have Made, Infinite Walk of Faith, **Lanterns in the Darkness**, No Excuses, **Choice is Ours**, **Why Us?**, **Power of God**, **Everything is Impossible Until it Happens**, **Something For Everyone To Do**, **Co-Creation with the Best Partner We Could Ever Hope For** | 38 | Hero-archetypal / formational / prophetic | Mature | High |
 | **14 — Art and Science of the Way** | To Know the Way One Must Live It, **A Simple Recipe For Beginning**, Rediscovering Our True Selves, Creative Right Action Expecting Nothing in Return | 4 | Operational summary | Mature; small chapter | Medium |
-| **15 — Great Game of LIONSBERG** | **Movement I (Simple Game):** 15.1 Game, 15.2 Goal, 15.3 Players, 15.4 Moves, 15.5 Seasons, 15.6 How We Win, 15.7 Begin. **Movement II (Community Game):** 15.8 Circles to Communities, 15.9 Field of Agreements, 15.10 Governance Without Rulers, 15.11 Living Economy, 15.12 Transformation of Culture, 15.13 The Prototype, 15.14 The Three Hundred. **Movement III (Planetary Game):** 15.15 Communities to Bioregions, 15.16 Planetary Grid, 15.17 Ten Year Grand Strategy, 15.18 Transition, 15.19 All Domains Moving Together, 15.20 Moment the New Becomes Functional. **Movement IV (Eternal Divine Play):** 15.21 Game Beyond Earth, 15.22 Holofractal Pattern Language, 15.23 Cosmic Diplomacy, 15.24 Federation of Worlds, 15.25 Cycle of Cosmic Co-Creation, 15.26 Eternal Divine Play, 15.27 From ONE All Things Proceed | 27 | **Definitive prophetic-operational** | **Canonical, recently completed** | **Highest density of refined Cards in the wiki** |
+| **15 — Great Game of LIØNSBERG** | **Movement I (Simple Game):** 15.1 Game, 15.2 Goal, 15.3 Players, 15.4 Moves, 15.5 Seasons, 15.6 How We Win, 15.7 Begin. **Movement II (Community Game):** 15.8 Circles to Communities, 15.9 Field of Agreements, 15.10 Governance Without Rulers, 15.11 Living Economy, 15.12 Transformation of Culture, 15.13 The Prototype, 15.14 The Three Hundred. **Movement III (Planetary Game):** 15.15 Communities to Bioregions, 15.16 Planetary Grid, 15.17 Ten Year Grand Strategy, 15.18 Transition, 15.19 All Domains Moving Together, 15.20 Moment the New Becomes Functional. **Movement IV (Eternal Divine Play):** 15.21 Game Beyond Earth, 15.22 Holofractal Pattern Language, 15.23 Cosmic Diplomacy, 15.24 Federation of Worlds, 15.25 Cycle of Cosmic Co-Creation, 15.26 Eternal Divine Play, 15.27 From ØNE All Things Proceed | 27 | **Definitive prophetic-operational** | **Canonical, recently completed** | **Highest density of refined Cards in the wiki** |
 | **16 — Program Delivery Guide** | 16.1 Verdict, 16.2 Scope, 16.3 Golden Seed, 16.4 Architecture of Cooperation (Twelve Elements), 16.5 Integrated Delivery, 16.6 Design to the Goal, 16.7 Network of Commitments (SHOULD-CAN-WILL-DID), 16.8 Rhythms, 16.9 Work Structuring, 16.10 Living Economy, 16.11 Every Community Is a Construction Site, 16.12 Learning System, 16.13 Quality/Safety/Structural Immunity, 16.14 Wilderness, 16.15 Sacred Ascent, 16.16 Receivership to Sovereignty | 16 | **Scripture-grade prophetic-operational** | **Canonical, the operational core** | **Extreme — every section is Card-worthy** |
 | **Chapter X — Musings** | Empty | 0 | — | — | None |
 | **The Program Delivery Guide** (folder) | Same as Ch 16 above | — | — | — | — |
@@ -75,13 +75,13 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **The Wing-Carry** | The Spirit lifts the newly awakened who cannot yet stand on their own (operational, not metaphor) | 1.4 |
 | **The Roar of Many Waters** | The Spoken Word's quality at the moment of awakening — gentle whisper that lands like thunder | 1.4 |
 | **Wisdom Cries Out in the Streets** | The Voice is already speaking publicly; the question is whether we have ears to hear | 1.2 |
-| **The Right Questions** | The eternal/universal interrogations whose pursuit always lands at ONE | 1.3 |
+| **The Right Questions** | The eternal/universal interrogations whose pursuit always lands at ØNE | 1.3 |
 | **Infrastructure for All Who Come After** | The first-movers' duty: bridge the rivers, not just ford them, because billions follow | 1.17 |
 | **Pillars of Stone** | The visible petrification of those who turned back, naming the cost of betrayal of the Way | 1.22 |
 | **Pioneers as Vanguard** | Those who awakened first did so because they were most ready; not better, but earlier | 1.23 |
 | **Becoming Generalizes** | Courage gained in one domain transfers to others; obstacle-overcoming is meta-capacity | 1.29 |
 | **Once Awakened, Cannot Return** | The Point of No Return after which Old beds will no longer hold the New consciousness | 1.29 |
-| **Meta Fear = Meta Love** | When greatest love and greatest fear are ONE and the Same, nothing can stand in the Way | 1.29 |
+| **Meta Fear = Meta Love** | When greatest love and greatest fear are ØNE and the Same, nothing can stand in the Way | 1.29 |
 | **The Obstacles Mark the Way** | What appears to block the path is, properly understood, the actual path itself | 1.29 |
 
 ### From The Quest to Navigate (Chapter 4) — operational discernment
@@ -99,7 +99,7 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 
 | Card | Essence | Source |
 |---|---|---|
-| **The True Self** | The integrated, loving, transforming self that recognizes time/space/death as illusions and serves ONE | 5.12 |
+| **The True Self** | The integrated, loving, transforming self that recognizes time/space/death as illusions and serves ØNE | 5.12 |
 | **The False Self** | The construct mistaken for self; the illusion that the True Self sees through | 5.13 |
 | **The Fallacy of 90-10** | The lie that we should give 90% to the Old and 10% to the New | 5.20 |
 | **The Truth of 10-90** | The reality: give the 10% to surviving the Old, the 90% to building the New | 5.21 |
@@ -118,16 +118,16 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **The Golden Thread** | The single thread of truth running through every genuine tradition across history | 6.7 |
 | **The Failed Institutionalization of Truth** | Why every container of the Way eventually freezes and must be re-vivified | 6.8 |
 | **Spirit, Archetypes, Prototypes, Instantiations** | The ontological levels through which Logos descends into form | 6.15 |
-| **Concrete and Abstract Idolatry** | Both the statue and the proposition can become idols when they replace the ONE they point to | 6.16 |
+| **Concrete and Abstract Idolatry** | Both the statue and the proposition can become idols when they replace the ØNE they point to | 6.16 |
 | **Beyond the Masculine Anthropomorphic God** | The image-trap to be transcended without descending into nothing | 6.17 |
-| **Hemlock and the Gods of the State** | The structural pattern by which state-religion silences the philosophers who name ONE truly | 6.25 |
+| **Hemlock and the Gods of the State** | The structural pattern by which state-religion silences the philosophers who name ØNE truly | 6.25 |
 | **The Tsunami** | The wave of awakening already in motion across consciousness | 6.26 |
 
 ### From Living System (Chapter 7) — the cosmological ascent
 
 | Card | Essence | Source |
 |---|---|---|
-| **The Meta Conscious Agent** | The conscious agency at the deepest level; the ONE whose agency precedes ours | 7.11 |
+| **The Meta Conscious Agent** | The conscious agency at the deepest level; the ØNE whose agency precedes ours | 7.11 |
 | **The Creative Field** | The field within which possibility precipitates into actuality | 7.14 |
 | **Logos as Metaphysical DNA** | The total instruction-set that tells Energy how to manifest as Form | 7.13 |
 | **The Hierarchy of Structure** | Particles → atoms → molecules → cells → tissues → organs → organisms → superorganisms → Co-Operative Superorganisms → One Living System | 7.35 |
@@ -167,15 +167,15 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 
 | Card | Essence | Source |
 |---|---|---|
-| **Sovereignty Flows From Source** | Authority is not granted by states; it is inherent to life because life flows from ONE | 9.21 |
+| **Sovereignty Flows From Source** | Authority is not granted by states; it is inherent to life because life flows from ØNE | 9.21 |
 | **All Generations of Life Are Sacred and Sovereign** | Sentient/conscious life across generations holds inherent dignity | 9.22 |
 | **Right Relationship and Inter-Existence** | The architecture of relating-rightly between sovereigns | 9.24 |
-| **Supreme Identity and Citizenship** | Our citizenship in ONE precedes and outranks any state | 9.25 |
-| **The Order of Authorities** | The nested hierarchy of authority with ONE at the top and temporal authority strictly subordinate | 9.6 |
+| **Supreme Identity and Citizenship** | Our citizenship in ØNE precedes and outranks any state | 9.25 |
+| **The Order of Authorities** | The nested hierarchy of authority with ØNE at the top and temporal authority strictly subordinate | 9.6 |
 | **The Lower/Higher Law Distinction** | Secular/temporal law vs eternal/spiritual law and how they relate | 9.8 |
 | **The Law All People Know Deeper Than Words** | The pre-linguistic moral knowing common to all humans | 9.9 |
 | **The Meta Law** | The law that contains and judges all subordinate laws | 9.18 |
-| **The House of Wisdom** | The body that wisely interprets the Spirit and Law of ONE | 9.16 |
+| **The House of Wisdom** | The body that wisely interprets the Spirit and Law of ØNE | 9.16 |
 | **Conscious Evolution of Law and Authority** | Law as living, evolving with consciousness, not fixed | 9.17 |
 | **The Propagation of Evil Intent Through a System** | How harmful intent at the top diffuses through structures | 9.37 |
 | **Commander's Intent** | The military-derived principle: hold intent, free the means | 9.38 |
@@ -229,7 +229,7 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **Conformance to the Ideal** | The measurement of any thing against what it is intended to be | 11.18 |
 | **The Total Nested Hierarchy of Ideals** | The complete map of ideals at every level | 11.19 |
 | **Potential Relative to the Total Nested Hierarchy of Goals** | What latent potential the architecture is calling forth | 11.20 |
-| **Optimizing For The One Vs Optimizing For One** | The grammatical/ethical distinction between serving ONE and serving the self | 11.21 |
+| **Optimizing For The One Vs Optimizing For One** | The grammatical/ethical distinction between serving ØNE and serving the self | 11.21 |
 | **Acceptance Criteria for the Meta Game** | What the New must demonstrate to qualify | 11.4 |
 | **Acceptance Criteria For Our New Lives and New World** | The personal-scale acceptance criteria | 11.25 |
 | **The Spirit of the Game** | The animating spirit that makes the rules workable | 11.36 |
@@ -251,7 +251,7 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **Decreasing Waste** | The continuous-improvement discipline | 11.64 |
 | **The Myth of Too Big/Complex/Chaotic to Plan** | The named rationalization-pattern that excuses inaction | 11.65 |
 | **When Plans Are Attacked by Chaos** | The resilience-discipline for held intent under variable conditions | 11.66 |
-| **Billions of Parallel Paths** | The reality that the program runs as billions of simultaneous paths to ONE Goal | 11.67 |
+| **Billions of Parallel Paths** | The reality that the program runs as billions of simultaneous paths to ØNE Goal | 11.67 |
 | **Speaking the New World into Being** | The Logos-discipline of articulation as creation | 11.68 |
 | **Like a Pattern, But More Like a Spirit** | The recognition that the Pattern is alive, not mechanical | 11.69 |
 | **Data, Information, Knowledge, Wisdom, The Way, The One** | The named ascent through epistemic levels to Source | 11.70 |
@@ -273,7 +273,7 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **The Spirit of Evil** | The animating spirit that opposes the Spirit of Truth | 12.13 |
 | **The Abyss** | The dwelling-place suitable for the ultimate Anti-Good when bound | 12.14 |
 | **Anti-Good in Good's Clothing** | The deepest counterfeit — evil that wears the form of good | 12.11 |
-| **The Supreme Anti-Good** | The named apex of opposition to ONE | 12.12 |
+| **The Supreme Anti-Good** | The named apex of opposition to ØNE | 12.12 |
 | **Hell Is Real and We Can Co-Create It** | The honest naming of hell as collective product, not divine punishment | 12.18 |
 | **Heaven and Hell Are More Than Real** | Both states as ontological realities expressible at planetary scale | 12.20 |
 | **Fairy Tales and Myths Are More Than Real** | The literal status of "true myth" — archetypal language describing actual reality | 12.19 |
@@ -314,7 +314,7 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **Why Us?** | The question whose answer is: because no one else is coming | 13.33 |
 | **Everything Is Impossible Until It Happens** | The pragmatic truth about every historical breakthrough | 13.36 |
 | **Something For Everyone To Do** | The participation-truth: every soul has a role | 13.37 |
-| **Co-Creation With the Best Partner We Could Ever Hope For** | The frame of our work as partnership with ONE | 13.38 |
+| **Co-Creation With the Best Partner We Could Ever Hope For** | The frame of our work as partnership with ØNE | 13.38 |
 | **The Power of God** | The actual force available to the awakened sovereign | 13.34 |
 
 ### From Art and Science of the Way (Chapter 14) — practice
@@ -351,7 +351,7 @@ Earlier batches likely captured the Seven Moves and many top-level Game concepts
 | **Each Holon Is Whole and Part** | The simultaneous-completeness of each level | 15.22 |
 | **The Pattern Is Ontological, Not Cultural** | Why the Pattern works across utterly different beings | 15.22 / 15.23 |
 | **The Game Is Already Happening** | Awakening is to a Play already in progress, not a Play to be started | 15.26 |
-| **From ONE All Things Proceed** | The unifying closing articulation of Chapter 15 | 15.27 |
+| **From ØNE All Things Proceed** | The unifying closing articulation of Chapter 15 | 15.27 |
 | **In the Essentials Unity, In the Non-Essentials Liberty, In All Things Love** | The ancient maxim made operational at every scale | 15.9 / 15.24 |
 | **The Pattern Governs, Not People** | The deepest governance principle of the system | 15.10 |
 | **Consent, Not Majority Rule** | The decision-architecture distinction | 15.10 |
@@ -418,7 +418,7 @@ Earlier batches captured Twelve Elements, SHOULD/CAN/WILL/DID, Seasonal OmniSpec
 | **Quest as Fundamental Work Unit** | The named atomic unit of purposeful action that decomposes fractally | 16.9 |
 | **Fractal Decomposition: Planetary → Bioregional → Community → Circle → Individual** | The specific decomposition hierarchy | 16.9 |
 | **Risk-Shifting as Violence** | The naming of the Old Economy's fundamental act as harm | 16.10 |
-| **ONE Keeps Every Account** | The deep frame: there is no actual externalization — only relocation | 16.10 |
+| **ØNE Keeps Every Account** | The deep frame: there is no actual externalization — only relocation | 16.10 |
 | **The Tithe as Foundational Commitment** | Voluntary commons-contribution as the structural mechanism | 16.10 / 16.11 |
 | **Capital Serves, Never Governs** | The named inversion — element-five made operational | 16.10 |
 | **Seven-to-One Pay Ratio Compression** | The specific compression ratio | 16.10 / 16.13 |
@@ -446,7 +446,7 @@ Earlier batches captured Twelve Elements, SHOULD/CAN/WILL/DID, Seasonal OmniSpec
 | **Sharing Lessons as Reward Criterion** | The explicit incentive: hoarding penalized, sharing honored | 16.12 |
 | **The Fractal Feedback Loop** | What one learns informs all; intelligence compounds | 16.12 |
 | **The Planetary Mind** | The nervous-system metaphor made literal: planetary cognition through Circles | 16.12 |
-| **The Customer Is ONE** | The named ultimate-stakeholder of every quality decision | 16.13 |
+| **The Customer Is ØNE** | The named ultimate-stakeholder of every quality decision | 16.13 |
 | **Quality Cannot Be Inspected In** | It is built in from the beginning or it does not exist | 16.13 |
 | **Appearance of Transformation as Most Dangerous Counterfeit** | The pathology to watch for above all others | 16.13 |
 | **Zero Defects as Commitment, Not Slogan** | Every escape is a system-failure | 16.13 |
@@ -499,7 +499,7 @@ Cards likely already queued from earlier Phase 2 batches that this book sharpens
 - **Pull Planning** — 11.56 and 16.7 give the full backward-from-Goal articulation
 - **Network of Commitments / SHOULD-CAN-WILL-DID** — 16.7 provides the canonical four-level frame
 - **Field of Agreements** — 15.9 and 16.5 give the universal-language version (purpose/principles/practices/boundaries/commitments)
-- **Heaven On Earth For All Forever** — 15.2 gives the staccato compression ("ONE. Creator's Intent. Heaven. On Earth. For All. Forever.")
+- **Heaven On Earth For All Forever** — 15.2 gives the staccato compression ("ØNE. Creator's Intent. Heaven. On Earth. For All. Forever.")
 - **The Caves** — 1.5 is the canonical text
 - **The Boundary** — Genesis articulates the topology more sharply than later abbreviations
 - **The Way** — multiple chapters refine; 14.1 gives the lived-not-known articulation
@@ -523,12 +523,12 @@ These files are scripture-grade and should be preserved verbatim with minimal to
 5. **[[1.22 Pillars of Stone]]** — Petrification narrative
 6. **[[1.23 Choosing The Flood]]** — Choice of the Flood
 7. **[[1.31 The Physics Of The Threshold]]** — Threshold passage
-8. **All 27 files in Chapter 15** (`Chapter 15 - The Great Game of LIONSBERG/15.1` through `15.27`) — the entire Great Game arc
+8. **All 27 files in Chapter 15** (`Chapter 15 - The Great Game of LIØNSBERG/15.1` through `15.27`) — the entire Great Game arc
 9. **All 16 files in Chapter 16 / The Program Delivery Guide** (`The Program Delivery Guide/16.1` through `16.16`) — the entire PDG
 10. **[[13.9 Nothing Can Come First]]** — pivotal call-to-action articulation
 11. **[[13.13 The Wilderness Between Captivity and the Promised Land]]** — companion to 16.14
 12. **[[5.12 The True Self]]** — the True Self litany
-13. **[[6.23 There Is Only One]]** — the ONE litany
+13. **[[6.23 There Is Only One]]** — the ØNE litany
 14. **[[8.63 The Sea Of Pyramids]]** — Old World architecture diagnosis
 15. **[[9.21 The Fullness Of Sovereignty And Authority Lies With The Individual, Not The State]]** — Sovereignty doctrine
 16. **[[14.2 A Simple Recipe For Beginning]]** — the pragmatic-starter Card text
@@ -549,7 +549,7 @@ Genuinely problematic in this book:
 - **TOC entry `[[Retrospectives]]` appears in Chapter 6 sequence (between 6.23 and 6.25)** where [[6.24 Why The Simple Message Of Love Is So Easily Corrupted]] exists in the directory — meaning the TOC is pointing to a different file (likely a centralized Retrospectives concept-page) but creating a discontinuity in the sequential reading. This warrants reconciliation.
 - **Chapter 6 directory contains [[6.24 Why The Simple Message Of Love Is So Easily Corrupted]]** but the TOC routes around it via `[[Retrospectives]]`. Restore the canonical sequence.
 - **TOC includes `[[Pain, Perceived Pain, and Change]]`** in Chapter 14 but only 14.1–14.4 appear in the directory — file missing, or living elsewhere.
-- **The full Playbook section** (Parts I–V, Part 1.1 through Part 5.2, and the long list of Essential Plays) appears in the TOC of [[The Book of LIONSBERG]] but those files all live OUTSIDE this book — they live at the wiki root as standalone Playbook files (e.g., `[[Form A Circle]]`, `[[Choose A Quest]]`). This is a structural ambiguity: is the Playbook **inside** The Book of LIONSBERG, or **alongside** it? The current TOC treats both as true. Worth resolving in Phase 3.
+- **The full Playbook section** (Parts I–V, Part 1.1 through Part 5.2, and the long list of Essential Plays) appears in the TOC of [[The Book of LIØNSBERG]] but those files all live OUTSIDE this book — they live at the wiki root as standalone Playbook files (e.g., `[[Form A Circle]]`, `[[Choose A Quest]]`). This is a structural ambiguity: is the Playbook **inside** The Book of LIØNSBERG, or **alongside** it? The current TOC treats both as true. Worth resolving in Phase 3.
 - The standalone **`The Sacred Ascent`** file (referenced from the TOC) and **`16.15 The Sacred Ascent`** chapter likely have overlapping content. Reconcile or distinguish purpose.
 
 ---
@@ -592,7 +592,7 @@ Genuinely problematic in this book:
 
 18. **Conversely, Chapters 2–11 do not yet point forward to where their concepts get operationalized.** A reader of Ch 9 ("Sovereignty") would benefit from a forward-link to 15.10 ("Governance Without Rulers") and 16.13 (Structural Immunity protections).
 
-19. **The book is currently labeled simply "The Book of LIONSBERG"** but it functions as **multiple books bound together** — a Genesis narrative, a philosophical treatise, a historical critique, a game manual, and a program delivery guide. Phase 3 could either acknowledge this honestly (renaming sections) or compress and edit toward a more unified voice (much harder).
+19. **The book is currently labeled simply "The Book of LIØNSBERG"** but it functions as **multiple books bound together** — a Genesis narrative, a philosophical treatise, a historical critique, a game manual, and a program delivery guide. Phase 3 could either acknowledge this honestly (renaming sections) or compress and edit toward a more unified voice (much harder).
 
 20. **The internal book itself currently lacks a Sidebar/contents document distinct from the master TOC.** This is fine for a 758-line TOC, but as the book is reorganized, a navigation aid would help readers.
 

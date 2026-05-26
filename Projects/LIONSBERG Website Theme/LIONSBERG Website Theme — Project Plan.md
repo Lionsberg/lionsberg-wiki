@@ -1,4 +1,4 @@
-# LIONSBERG Website Theme — Project Plan
+# LIØNSBERG Website Theme — Project Plan
 
 _A proposal for lifting the visual presentation of **lionsberg.wiki** to match the weight of the work it carries._
 
@@ -6,7 +6,7 @@ _A proposal for lifting the visual presentation of **lionsberg.wiki** to match t
 
 ## I. Synopsis — What This Is
 
-The LIONSBERG Wiki contains a millennial text — prophetic register with operational precision, scripture that contains program management. Roughly 3 million words across ~3,000 files, built by **Massive Wiki Builder** into a static site and served at **lionsberg.wiki**.
+The LIØNSBERG Wiki contains a millennial text — prophetic register with operational precision, scripture that contains program management. Roughly 3 million words across ~3,000 files, built by **Massive Wiki Builder** into a static site and served at **lionsberg.wiki**.
 
 The current shell is a stock [Bulma](https://bulma.io) starter: a teal `is-info` navbar, GitHub-style markdown CSS, system sans-serif body, a one-fifth sidebar column, no hero, no imagery, no motif, no visual identity. `custom.css` is a single empty comment.
 
@@ -31,7 +31,7 @@ The gap between the content's ambition and the visual presentation is the first 
 **Claude** (rotating sessions) — scaffolds the theme, writes the CSS and Jinja templates, iterates against the Steward's direction.
 
 ### Reviewer
-**the nameless one** — reviews each round of iteration, pushes back on AI-tells, over-design, and any drift from the LIONSBERG voice.
+**the nameless one** — reviews each round of iteration, pushes back on AI-tells, over-design, and any drift from the LIØNSBERG voice.
 
 ---
 
@@ -167,7 +167,7 @@ Every design decision returns to one question: does this carry the weight of the
 
 ## XII. Notes and Open Questions
 
-- Should the navbar read **LIONSBERG** (all caps, matching the canonical spelling) instead of "Lionsberg Wiki"?
+- Should the navbar read **LIØNSBERG** (all caps, matching the canonical spelling) instead of "Lionsberg Wiki"?
 - Is there an existing logo or visual mark the theme should incorporate, or do we commission/design the motif fresh?
 - Does the Steward want the book pages to carry a visible chapter identifier (e.g., small ornament or color tint per chapter), or should all chapters render identically?
 - Should blog posts have a visually distinct treatment from the book chapters (different type color, slightly different chrome) to preserve individual voice?

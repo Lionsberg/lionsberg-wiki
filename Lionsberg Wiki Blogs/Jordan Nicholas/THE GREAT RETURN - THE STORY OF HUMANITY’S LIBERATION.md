@@ -2,7 +2,7 @@
 
 🔥 _From Darkness to Light. From Slavery to Sovereignty. From Fragmentation to One._ 🔥
 
-It began **as all great shifts begin**—not with a thunderclap, not with an explosion, not with an army, but with a still, small Voice. The **Divine Whisper** of the ONE. 
+It began **as all great shifts begin**—not with a thunderclap, not with an explosion, not with an army, but with a still, small Voice. The **Divine Whisper** of the ØNE. 
 
 A whisper that **became a ripple**.  
 A ripple that **became a wave**.  

@@ -28,7 +28,7 @@ First Run Studies — small-scale tests before full deployment — proved that l
 
 ___
 
-## In LIONSBERG
+## In LIØNSBERG
 
 Retrospectives are built into every [[Quests|Quest]] cycle. At the end of each 90-day Quest, every [[Circle]] asks: What did we plan? What happened? What did we learn? What will we do differently?
 

@@ -28,7 +28,7 @@ ___
 
 ## How Meaningful Work Creates Value
 
-In LIONSBERG, Meaningful Work is the basis of the internal economy:
+In LIØNSBERG, Meaningful Work is the basis of the internal economy:
 
 - **[[Time Currency]]**: Each unit of Meaningful Work performed = one unit of value. The basic measure is time invested in work that the Circle validates as meaningful
 - **[[Lionsberg Units of Value]] (LUV)**: A broader currency of goodwill that circulates within the system

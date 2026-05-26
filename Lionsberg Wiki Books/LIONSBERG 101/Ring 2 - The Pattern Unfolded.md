@@ -12,9 +12,9 @@ For the Benedictines, it was the [[Glory of God]] expressed through a balanced l
 
 In every case, the Purpose governed — not any person, not any council, not any institution.
 
-**In LIONSBERG, the Purpose is [[Meta Goal|The Meta Goal]]**: ONE. Creator's Intent. The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness in all times and places. 
+**In LIØNSBERG, the Purpose is [[Meta Goal|The Meta Goal]]**: ØNE. Creator's Intent. The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness in all times and places. 
 
-This is not a committee's mission statement. It can be said in ONE word or ten thousand. It is the deepest intention of [[ØNE]] — the [[Creator's Intent]] for all Creation. The Supreme Architect's vision, intention, and goal for Worksite Earth. It is what [[Love]] itself would accomplish if Love had hands. And it does. Ours.
+This is not a committee's mission statement. It can be said in ØNE word or ten thousand. It is the deepest intention of [[ØNE]] — the [[Creator's Intent]] for all Creation. The Supreme Architect's vision, intention, and goal for Worksite Earth. It is what [[Love]] itself would accomplish if Love had hands. And it does. Ours.
 
 ### Why This Element Is Irreducible
 
@@ -30,7 +30,7 @@ Not "Who is in charge?" Not "How will we profit?" Not "What are the rules?"
 
 **In service of what?**
 
-The answer must align — fractally, all the way up — with [[Meta Goal|The Meta Goal]]. All the Way back to the ONE. A family's purpose aligns with a Circle's purpose, which aligns with a community's purpose, which aligns with a bioregion's purpose, which aligns with a planetary purpose, which aligns with universal purpose. If any level's purpose conflicts with the Whole, something is misaligned and must be corrected — not from above by force, but from within by discernment.
+The answer must align — fractally, all the way up — with [[Meta Goal|The Meta Goal]]. All the Way back to the ØNE. A family's purpose aligns with a Circle's purpose, which aligns with a community's purpose, which aligns with a bioregion's purpose, which aligns with a planetary purpose, which aligns with universal purpose. If any level's purpose conflicts with the Whole, something is misaligned and must be corrected — not from above by force, but from within by discernment.
 
 The [[Field of Agreements]] at every level begins here: a shared articulation of Purpose that all members consent to honor and uphold.
 
@@ -60,12 +60,12 @@ Each early church house church — 5 to 40 people in someone's home — was a co
 
 ### The Practical Expression
 
-In LIONSBERG, the basic holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 13 people united by shared purpose and agreements.
+In LIØNSBERG, the basic holofractal unit is the **[[Circle]]** — a voluntary association of 3 to 13 people united by shared purpose and agreements.
 
 A Circle is not a committee, a task force, or a working group that reports to a larger body. It is a **complete, self-governing expression of the New Civilization at human scale**. Within it, all the essential functions operate:
 
 - **Governance**: The Circle governs itself through shared agreements and consent-based decision-making
-- **Economics**: The Circle generates and exchanges value through [[Meaningful Work]] — structured as [[Quests]], validated by members, and generating [[LIONSBERG Units of Value]]. 
+- **Economics**: The Circle generates and exchanges value through [[Meaningful Work]] — structured as [[Quests]], validated by members, and generating [[LIØNSBERG Units of Value]]. 
 - **Education**: Members teach and transform one another through practice, reflection, peer coaching, and mutual accountability
 - **Mission**: The [[Quests]] — concrete projects advancing [[The Goal]] — measurably make local lives and communities more like Heaven
 - **Replication**: Mature Circles share stories, invite and inspire others, and plant and nurture new Circles
@@ -105,9 +105,9 @@ In Mondragon, sovereignty is expressed through the **arm's-length federation**. 
 
 ### The Practical Expression
 
-LIONSBERG describes this as the **[[Total Nested Hierarchy of Sovereignties]]**:
+LIØNSBERG describes this as the **[[Total Nested Hierarchy of Sovereignties]]**:
 
-ONE — ultimate Source of Sovereignty.  
+ØNE — ultimate Source of Sovereignty.  
 Flowing not through institutions but through **individuals**. 
 
 Sovereign individuals...  
@@ -123,10 +123,10 @@ At every level, sovereignty is retained. At every level, participation is volunt
 
 The power flows from [[ØNE]], through the individual, upward through increasingly higher orders of voluntary association, and returns to [[ØNE]]. It never accumulates at any intermediate level. Any accumulation of power at an intermediate level is a sign of corruption or a deficit of wisdom and understanding that must be corrected.
 
-The structural mechanism that protects sovereignty is the **[[Selectively Permeable Membrane]]** — the boundary around each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]]. Every living cell has a membrane. It is not a wall — it allows nutrients in, waste out, and communication to flow. But it protects the integrity of what is within. Each domain in LIONSBERG is bounded by such a membrane — crossed only on the basis of **ongoing mutual consent**. New members enter by consent. Resources flow by consent. Pathogens are removed by immune systems. The membrane is governed by the [[Field of Agreements]] that the sovereign members have freely established. Without the membrane, sovereignty dissolves. With it, sovereignty is core architecture, not aspiration.
+The structural mechanism that protects sovereignty is the **[[Selectively Permeable Membrane]]** — the boundary around each [[Domains of Responsibility and Authority|Domain of Responsibility and Authority]]. Every living cell has a membrane. It is not a wall — it allows nutrients in, waste out, and communication to flow. But it protects the integrity of what is within. Each domain in LIØNSBERG is bounded by such a membrane — crossed only on the basis of **ongoing mutual consent**. New members enter by consent. Resources flow by consent. Pathogens are removed by immune systems. The membrane is governed by the [[Field of Agreements]] that the sovereign members have freely established. Without the membrane, sovereignty dissolves. With it, sovereignty is core architecture, not aspiration.
 
 In the [[Old World]], individuals were convicted for treason against corrupt states.  
-In the [[New World]], corrupt states are convicted for treason against the individual and the ONE. Or simply ignored and dissolved by withdrawing participation and consent from the parasitical relationship.  
+In the [[New World]], corrupt states are convicted for treason against the individual and the ØNE. Or simply ignored and dissolved by withdrawing participation and consent from the parasitical relationship.  
 
 When dealing with parasitical empires such as those dominating Earth, the path towards Heaven here and now must run through the reestablishment of individual, local, and planetary sovereignty across all scales and levels of analysis as a baseline for the proper flow of power. Parasitical empires and oligarchies have no place in Heaven. They are not tolerated. They are not participated in. They are not consented to. 
 
@@ -152,7 +152,7 @@ The pattern is simple and repeats at every scale:
 
 ### The Practical Expression
 
-In LIONSBERG, governance operates through **holofractal self governance** — the same pattern applied fractally from the individual to the planetary:
+In LIØNSBERG, governance operates through **holofractal self governance** — the same pattern applied fractally from the individual to the planetary:
 
 - **Individual**: Each person governs themselves first — inner transformation as the foundation of all governance
 - **Circle**: Shared agreements, consent-based decisions, elected coordinators, mutual accountability
@@ -185,7 +185,7 @@ In the New World, capital is **instrumental and subordinate**. This is Mondragon
 
 ### The Practical Expression
 
-In LIONSBERG, the economic system is built around **[[Meaningful Work]] and the conscious co-creative application of time, energy, and resources in service of The Goal**, not profit extraction:
+In LIØNSBERG, the economic system is built around **[[Meaningful Work]] and the conscious co-creative application of time, energy, and resources in service of The Goal**, not profit extraction:
 
 - **[[Time Currency]]**: Each unit of Meaningful Work performed = one unit of value. Value is measured in contribution, not scarcity.
 - **[[Lionsberg Units of Value]] (LUV)**: A time-energy currency of goodwill that circulates at high velocity within the system. Each unit of Meaningful Work performed multiplied by its [[Value Factor]] = units of value. Value is measured in voluntary contribution and capacity, not scarcity or fiat.
@@ -236,11 +236,11 @@ From Mondragon's own experience, confirmed by executives:
 
 **It takes 2-3 years for a person to truly feel connected, empowered, and part of a New culture and process.**
 
-LIONSBERG's own framework mirrors this: the **3-year healing/empowerment cycle** through which individuals move from awakening through full empowerment. The 2030 to 2033 lag in the 10 year grand strategy accounts for this: the final cohorts complete their formation during this window. 
+LIØNSBERG's own framework mirrors this: the **3-year healing/empowerment cycle** through which individuals move from awakening through full empowerment. The 2030 to 2033 lag in the 10 year grand strategy accounts for this: the final cohorts complete their formation during this window. 
 
 ### The Practical Expression
 
-In LIONSBERG, education operates through:
+In LIØNSBERG, education operates through:
 
 - **The Pattern itself** — studying, discussing, and applying [[Twelve Irreducible Elements|The Twelve Elements]] in Circles 
 - **[[Quests]]** — learning through doing real work on real problems  
@@ -273,13 +273,13 @@ Mondragon: Mature cooperatives spin off new ones through team-based intrapreneur
 
 ### The Practical Expression
 
-In LIONSBERG, replication is encoded in the structure of [[The Great Game]] itself:
+In LIØNSBERG, replication is encoded in the structure of [[The Great Game]] itself:
 
 **The Fibonacci Pattern of Awakening**:
 
-ONE → 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...
+ØNE → 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...
 
-From the ONE Source of All, each person who awakens and is transformed reaches others. Each Circle that matures plants new Circles. Each community that flourishes becomes a living demonstration that draws others.
+From the ØNE Source of All, each person who awakens and is transformed reaches others. Each Circle that matures plants new Circles. Each community that flourishes becomes a living demonstration that draws others.
 
 **[[The First Three Percent]]** — approximately 250 million awakened individuals globally — represents the critical mass. That is approximately 300 per community of 10,000. These are **[[The 300]]** — the empowered local leaders and teams who form the planetary grid of the [[New Civilization]] and steward its emergence into reality. 
 
@@ -295,16 +295,16 @@ Movements often die not from external opposition but from internal corruption. T
 
 | Disease                   | How It Kills                                                                   | Historical Protection                                                                                                                                                                                                                                               |
 | ------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Personality cult**      | A charismatic leader becomes the center instead of the shared Purpose and Goal | AA: Anonymity. Mondragon: No campaigning. Benedictines: The Rule governs the abbot. LIONSBERG: The Purpose and Pattern governs, not any person                                                                                                                      |
-| **Centralization**        | Power accumulates at the center until it suffocates the periphery              | AA: Never be organized. Mondragon: 60 people for 268 organizations. Swiss: Radical subsidiarity. Iroquois: National sovereignty within federal unity. LIONSBERG: self-assembling sovereign superorganism                                                            |
-| **Financial corruption**  | External money creates dependency; internal money creates temptation           | AA: Self-supporting, declining outside contributions. Mondragon: Member capital control, compressed pay. Fair Shares: Anti-enclosure mechanisms. LIONSBERG: No central treasury. Decentralized self-stewardship of all.                                             |
-| **Mission drift**         | The organization gradually serves itself instead of its purpose                | AA: One primary purpose. Mondragon: 4-year mission reevaluation. Fair Shares: Purpose structurally sovereign, cannot be voted away. Benedictines: The stability vow. LIONSBERG: The entire system is aimed at The Goal.                                             |
-| **Institutional capture** | External forces co-opt the movement for their own ends                         | AA: No opinions on outside issues. Mondragon: Arm's-length federation. Open Source: Fork rights. LIONSBERG: Freedom to leave at any time, no center to capture or control.                                                                                          |
-| **Professionalization**   | Paid professionals replace the living practice of formed citizens              | AA: Forever nonprofessional. Benedictines: _Ora et labora_ — every monk works. Mondragon: Worker = Member = Owner. No separation between doers and governors. LIONSBERG: All functions of society performed via holofractal pattern language. No rulers or priests. |
+| **Personality cult**      | A charismatic leader becomes the center instead of the shared Purpose and Goal | AA: Anonymity. Mondragon: No campaigning. Benedictines: The Rule governs the abbot. LIØNSBERG: The Purpose and Pattern governs, not any person                                                                                                                      |
+| **Centralization**        | Power accumulates at the center until it suffocates the periphery              | AA: Never be organized. Mondragon: 60 people for 268 organizations. Swiss: Radical subsidiarity. Iroquois: National sovereignty within federal unity. LIØNSBERG: self-assembling sovereign superorganism                                                            |
+| **Financial corruption**  | External money creates dependency; internal money creates temptation           | AA: Self-supporting, declining outside contributions. Mondragon: Member capital control, compressed pay. Fair Shares: Anti-enclosure mechanisms. LIØNSBERG: No central treasury. Decentralized self-stewardship of all.                                             |
+| **Mission drift**         | The organization gradually serves itself instead of its purpose                | AA: One primary purpose. Mondragon: 4-year mission reevaluation. Fair Shares: Purpose structurally sovereign, cannot be voted away. Benedictines: The stability vow. LIØNSBERG: The entire system is aimed at The Goal.                                             |
+| **Institutional capture** | External forces co-opt the movement for their own ends                         | AA: No opinions on outside issues. Mondragon: Arm's-length federation. Open Source: Fork rights. LIØNSBERG: Freedom to leave at any time, no center to capture or control.                                                                                          |
+| **Professionalization**   | Paid professionals replace the living practice of formed citizens              | AA: Forever nonprofessional. Benedictines: _Ora et labora_ — every monk works. Mondragon: Worker = Member = Owner. No separation between doers and governors. LIØNSBERG: All functions of society performed via holofractal pattern language. No rulers or priests. |
 
 ### The Practical Expression
 
-In LIONSBERG, structural immunity is built into the architecture:
+In LIØNSBERG, structural immunity is built into the architecture:
 
 - **No central authority can override local sovereignty.** The federation serves; it does not govern.
 - **Leaders are servants of the Pattern**, not its masters. The emergent [[Field of Agreements]] governs — not any person.
@@ -322,7 +322,7 @@ In LIONSBERG, structural immunity is built into the architecture:
 
 _The first eight elements describe how sovereign beings organize, govern, and protect their cooperation. The final four describe how organized beings actually **build Heaven here and now** — transforming every Circle from a self-governing community into a team of builders on [[Worksite Earth]]._
 
-_These four elements are drawn from decades of operational wisdom — the Toyota Production System, Lean Construction, Integrated Project Delivery, and the principles encoded in [[The Program Delivery Guide]]. They are not new to LIONSBERG — they are universal patterns of how intelligent beings coordinate creation, confirmed independently across disciplines and worlds, now integrated into the complete DNA of the New Civilization for Earth._  
+_These four elements are drawn from decades of operational wisdom — the Toyota Production System, Lean Construction, Integrated Project Delivery, and the principles encoded in [[The Program Delivery Guide]]. They are not new to LIØNSBERG — they are universal patterns of how intelligent beings coordinate creation, confirmed independently across disciplines and worlds, now integrated into the complete DNA of the New Civilization for Earth._  
 
 ---
 
@@ -332,13 +332,13 @@ Every Circle is not just a community — it is a **living team of builders**. Ev
 
 The approach is rooted in [[Integrated Program Delivery (IPD)]] — a way of organizing teams drawn from the Toyota Production System and adapted to complex real-world delivery by pioneers like Glenn Ballard, Greg Howell, Dan Fauchier, and the Lean Construction Institute.
 
-The core insight: **you cannot optimize the pieces and expect the whole to work.** A system of locally optimized components produces globally suboptimal results _by definition_. You _must_ optimize for the Whole — the total project, the total program, the total civilization, the whole world as a flourishing part of ONE living cosmic ecosystem.
+The core insight: **you cannot optimize the pieces and expect the whole to work.** A system of locally optimized components produces globally suboptimal results _by definition_. You _must_ optimize for the Whole — the total project, the total program, the total civilization, the whole world as a flourishing part of ØNE living cosmic ecosystem.
 
 In the Architecture, Engineering, and Construction industry, IPD transformed how billion-dollar projects are delivered. Instead of competing contractors each optimizing their own scope, IPD creates a **Single Lean Enterprise** — all parties sharing risk, sharing reward, collaborating as one team with aligned incentives toward a shared Target Cost and shared Goal.
 
 ### The Practical Expression
 
-In LIONSBERG, Integrated Delivery operates through the federation of [[Circles]]:
+In LIØNSBERG, Integrated Delivery operates through the federation of [[Circles]]:
 
 - **Each Circle** is a self-governing team of builders executing [[Quests]] — concrete projects advancing [[Meta Goal|The Goal]]
 - **Circles federate** into communities, bioregions, and the planetary Whole — coordinating co-creative effort across all scales
@@ -346,7 +346,7 @@ In LIONSBERG, Integrated Delivery operates through the federation of [[Circles]]
 - **[[The Prototype]]** — a centrally learning Kit of Parts — ensures that every local adaptation benefits the Whole and every lesson learned feeds back into the pattern
 - **Value creation is tracked and shared** through federated systems and interface protocols — enabling coordination, learning, and continuous improvement across scales without central fragility
 
-This is not theoretical. [[The Program Delivery Guide]] demonstrated this approach across multiple billion-dollar construction programs. Taiichi Ohno demonstrated it at Toyota. The Agile movement demonstrated it in software. LIONSBERG applies it to civilization itself — by helping the diverse many self-optimize towards the highest conceivable Whole and Goal, and giving each participant an equal stake in the extraordinary value being co-created. 
+This is not theoretical. [[The Program Delivery Guide]] demonstrated this approach across multiple billion-dollar construction programs. Taiichi Ohno demonstrated it at Toyota. The Agile movement demonstrated it in software. LIØNSBERG applies it to civilization itself — by helping the diverse many self-optimize towards the highest conceivable Whole and Goal, and giving each participant an equal stake in the extraordinary value being co-created. 
 
 ### Why This Element Is Irreducible
 
@@ -366,7 +366,7 @@ Applied to civilization: [[Heaven On Earth]] is the Target. All design — of go
 
 ### The Practical Expression
 
-In LIONSBERG, Design To The Goal operates at every scale:
+In LIØNSBERG, Design To The Goal operates at every scale:
 
 - **Individual**: Each person designs their day — sleep, work, love, and life — in service of The Goal
 - **Circle**: Each Quest is designed to its target outcome. The Goal constrains and focuses the scope. Resources are allocated to maximize **progress toward The Goal** — focusing energy where it matters most, as Goldratt taught in the Theory of Constraints
@@ -397,7 +397,7 @@ The cycle is simple and fractal:
 
 ### The Practical Expression
 
-In LIONSBERG, Networks of Commitments operate through:
+In LIØNSBERG, Networks of Commitments operate through:
 
 - **[[Quests]]** — concrete projects not exceeding **90 days**. Long enough for meaningful work. Short enough for accountability and learning. The 90-day boundary prevents scope creep, prevents drift, and ensures regular completion, retrospective, and renewal.
 - **Weekly commitment tracking** — Each Circle member articulates what they WILL do this week. At the next meeting, they report what they DID. The gap between WILL and DID is not a failure — it is the primary source of learning. Beyond the Circle level, commitments are tracked _between Circles_ and recorded as part of the interface process. 
@@ -417,7 +417,7 @@ The Last Planner System doubled plan reliability from ~50% to 80-90% in construc
 
 The [[Old World]] often separates thinking from doing, planning from executing, learning from acting. Experts plan. Workers execute. Consultants evaluate. The gap between plan and reality grows until the plan is abandoned or the project fails.
 
-In the [[New World]], **learning and action are fused at every scale in ONE co-creative body.**
+In the [[New World]], **learning and action are fused at every scale in ØNE co-creative body.**
 
 This is the living cycle of **Discern → Plan → Do → Check → Adjust** — drawn from W. Edwards Deming's application of the scientific method, perfected by Taiichi Ohno at Toyota, and proven across every domain where learning and action are fused.
 
@@ -430,7 +430,7 @@ The cycle is fractal:
 
 ### The Practical Expression
 
-In LIONSBERG, Tightly Coupled Learning and Action operates through:
+In LIØNSBERG, Tightly Coupled Learning and Action operates through:
 
 - **Retrospectives** built into every Circle and Quest cycle — not optional add-ons, but integral to the process
 - **Lessons learned** captured and shared through the [[Commons]] — every Circle's learning benefits every other Circle
@@ -473,7 +473,7 @@ This is not a human invention. It is a faithful reflection of the ancient and et
 
 This is the DNA of **[[Heaven On Earth]]**.
 
-One soul poured his life into localizing and planting this Pattern on Earth. He died for it — and in dying, freed it. LIONSBERG belongs to no one. It is **Story, Pattern, and Play** — freely available, infinitely forkable, belonging to All.
+One soul poured his life into localizing and planting this Pattern on Earth. He died for it — and in dying, freed it. LIØNSBERG belongs to no one. It is **Story, Pattern, and Play** — freely available, infinitely forkable, belonging to All.
 
 It has already been proven to work.
 

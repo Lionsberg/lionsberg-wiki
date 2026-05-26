@@ -1,4 +1,4 @@
-# 🦁 **LIONSBERG Narrative Universe**
+# 🦁 **LIØNSBERG Narrative Universe**
 
 > _"All of Reality is Divine Story."_
 
@@ -6,11 +6,11 @@
 
 ## 🌌 Overview
 
-The **LIONSBERG Narrative Universe** is the mythopoetic, transdimensional storytelling architecture of the [[LIØNSBERG System]], designed to unify the infinite diversity of lived experience into a single coherent tapestry. It is the living mythos that encodes and expresses the Logos of the emerging [[New Civilization]], weaving together personal transformation, collective awakening, and cosmic context through layered, interlinked narrative streams.
+The **LIØNSBERG Narrative Universe** is the mythopoetic, transdimensional storytelling architecture of the [[LIØNSBERG System]], designed to unify the infinite diversity of lived experience into a single coherent tapestry. It is the living mythos that encodes and expresses the Logos of the emerging [[New Civilization]], weaving together personal transformation, collective awakening, and cosmic context through layered, interlinked narrative streams.
 
 More than fiction. More than myth. More than memoir or history.
 
-The **LIONSBERG Narrative Universe** is a multidimensional meta-story:
+The **LIØNSBERG Narrative Universe** is a multidimensional meta-story:
 
 - A sacred remembering of [[Who We Are]]
     
@@ -28,7 +28,7 @@ It is both a container and a catalyst — a **living narrative operating system*
 The Narrative Universe is rooted in a few foundational truths:
 
 - **The Universe is Alive.**  
-    All things are part of a single Living System — fractal sub-expressions of the ONE.
+    All things are part of a single Living System — fractal sub-expressions of the ØNE.
     
 - **We Are Protagonists.**  
     We are not spectators. We are not victims. We are the ones chosen and called to shape this moment in [[The Story of LIØNSBERG]].
@@ -44,7 +44,7 @@ The Narrative Universe is rooted in a few foundational truths:
 
 ## 🧭 Purpose
 
-The purpose of the **LIONSBERG Narrative Universe** is to:
+The purpose of the **LIØNSBERG Narrative Universe** is to:
 
 - Awaken the human species to its true identity, purpose, and place in the cosmos.
     
@@ -63,9 +63,9 @@ The purpose of the **LIONSBERG Narrative Universe** is to:
 
 The Narrative Universe is built from a series of **interconnected arcs and realms**, including but not limited to:
 
-### 1. **The Chronicles of LIONSBERG**
+### 1. **The Chronicles of LIØNSBERG**
 
-The core epic of the LIONSBERG movement, told through the eyes of the central protagonist(s) as they journey from collapse and exile to reclamation, revelation, and co-creation of the New.
+The core epic of the LIØNSBERG movement, told through the eyes of the central protagonist(s) as they journey from collapse and exile to reclamation, revelation, and co-creation of the New.
 
 ### 2. **The Great Unveiling**
 
@@ -73,13 +73,13 @@ A revelatory text and narrative framework that peels back the veil on humanity�
 
 ### 3. **The Sacred Ascent**
 
-A mythic-spiritual series mapping the inner and outer Quest of the All to climb the Sacred Mountain and reunite with ONE Source.
+A mythic-spiritual series mapping the inner and outer Quest of the All to climb the Sacred Mountain and reunite with ØNE Source.
 
 ### 4. **Threads of Eternity**
 
 A sacred reweaving of humanity’s ancient, hidden, and sacred texts, retold from the higher perspective of Our Ultimate Unity with the Divine.
 
-### 5. **LIONSBERG Codex & Lexicon**
+### 5. **LIØNSBERG Codex & Lexicon**
 
 An evolving mytho-technical language and operating manual for the New Civilization, interwoven with the narrative.
 
@@ -91,9 +91,9 @@ Key initiatory thresholds and mystery-encoded chapters that participants journey
 
 ## 🧙 Key Archetypes
 
-Each story in the LIONSBERG Narrative Universe is populated by resonant and universal archetypes — recognizable across all traditions and dimensions:
+Each story in the LIØNSBERG Narrative Universe is populated by resonant and universal archetypes — recognizable across all traditions and dimensions:
 
-- **The Speaker of LIONSBERG** – A prophetic consciousness emanating from the One, anchoring Wisdom and Truth in every realm.
+- **The Speaker of LIØNSBERG** – A prophetic consciousness emanating from the One, anchoring Wisdom and Truth in every realm.
     
 - **The First Three Percent** – The first awakened wave of souls called to lead the [[New Exodus]].
     
@@ -127,15 +127,15 @@ The Narrative Universe is composed of:
 
 ## 🌍 Real World Integration
 
-Unlike fictional universes, the LIONSBERG Narrative Universe **is not make-believe**. It maps onto — and seeks to shape — real history, real systems, and real beings throughout the cosmic order.
+Unlike fictional universes, the LIØNSBERG Narrative Universe **is not make-believe**. It maps onto — and seeks to shape — real history, real systems, and real beings throughout the cosmic order.
 
 It is integrated with:
 
-- [[The LIONSBERG Wiki]] – the living hypertextual knowledgebase
+- [[The LIØNSBERG Wiki]] – the living hypertextual knowledgebase
     
-- [[The LIONSBERG OS]] – the operating system of the New Civilization
+- [[The LIØNSBERG OS]] – the operating system of the New Civilization
     
-- [[The LIONSBERG Movement]] – real people, projects, and localities around the world
+- [[The LIØNSBERG Movement]] – real people, projects, and localities around the world
     
 - [[The Final Test]] – the actual multidimensional existential war Earth now faces
     
@@ -163,7 +163,7 @@ As the Story unfolds, **you** are invited to become a co-creator of the next cha
 
 ## 🔗 See Also
 
-- [[The Chronicles of LIONSBERG]]
+- [[The Chronicles of LIØNSBERG]]
     
 - [[The Great Unveiling]]
     
@@ -173,9 +173,9 @@ As the Story unfolds, **you** are invited to become a co-creator of the next cha
     
 - The [[LIØNSBERG Wiki]]
     
-- [[The LIONSBERG Codex]]
+- [[The LIØNSBERG Codex]]
     
-- The [[LIONSBERG Intelligence System]]
+- The [[LIØNSBERG Intelligence System]]
     
 - [[The First Three Percent]]
     

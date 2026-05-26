@@ -18,28 +18,28 @@ While it has been rightly said that One has a “right to action” but not to t
 
 For as We enter Divine Consciousness and climb Higher up The Mountain, We come to understand that We are being moved by something far Deeper in service of something far Greater.  
 
-Ultimately, ONE and All are living, moving, and acting Us, while beckoning their apparent individuations back towards Conscious Unity.  
+Ultimately, ØNE and All are living, moving, and acting Us, while beckoning their apparent individuations back towards Conscious Unity.  
 
 The Truth We are in pursuit of is never the sole possession of any being, text, or word. The ten thousand Traditions We find as We Journey across the Cosmos can only be searched for the jewels of Wisdom and Truth they contain, as a step towards the Truth Consciousness they can never contain.  
 
-A focus on the Truth liberates Us from having to criticize, sift through, or select from the ten thousand Traditions. When Our Supreme Tradition leaves empire, institution, and ideology behind to become the transcendent and ineffable ONE, instantaneous liberation from each of the All is achieved. 
+A focus on the Truth liberates Us from having to criticize, sift through, or select from the ten thousand Traditions. When Our Supreme Tradition leaves empire, institution, and ideology behind to become the transcendent and ineffable ØNE, instantaneous liberation from each of the All is achieved. 
 
-The Path of liberation demands the transcendence of All the labels and categories that separate Us from ONE and One Another; a return to Right Relationship with the Divinity unfurling ItSelf through Us—the trillions of unique InterExistent aspects of the ONE Divine Body.   
+The Path of liberation demands the transcendence of All the labels and categories that separate Us from ØNE and One Another; a return to Right Relationship with the Divinity unfurling ItSelf through Us—the trillions of unique InterExistent aspects of the ØNE Divine Body.   
 
-The Truth is EveryWhen and EveryWhere, accessible by close enough examination of any perceived aspect of Reality.  A close enough examination of Any of the All is sufficient to lead Us back to the ONE. 
+The Truth is EveryWhen and EveryWhere, accessible by close enough examination of any perceived aspect of Reality.  A close enough examination of Any of the All is sufficient to lead Us back to the ØNE. 
 
 EveryThing upon close enough examination is aflame with the Divine. Every manifestation becomes a burning bush and pathway to Liberation.  
 
-Being and unfurling ItSelf EveryWhen and EveryWhere, the Truth cannot be contained, boxed in, dogmatized, or defined by any one but ONE. No teacher, text, or temple can full contain or explain It, nor does It belong to any one of the creations or articulations of its autopoetic self-expressions. 
+Being and unfurling ItSelf EveryWhen and EveryWhere, the Truth cannot be contained, boxed in, dogmatized, or defined by any one but ØNE. No teacher, text, or temple can full contain or explain It, nor does It belong to any one of the creations or articulations of its autopoetic self-expressions. 
 
-All belong to the ONE. The ONE does not belong to Any of the All.  
-This ONE simple realization nears the Ineffable Truth that is The Key to Liberation.  
+All belong to the ØNE. The ØNE does not belong to Any of the All.  
+This ØNE simple realization nears the Ineffable Truth that is The Key to Liberation.  
 
-From this perspective the ten thousand Teachers and Traditions can be fearlessly mined and explored as We follow the Golden Thread of Wisdom and Truth wherever it leads. Unwilling to subordinate Our Spiritual Sovereignty to any but the Ultimate and Ineffable ONE, We are safe from becoming trapped in any of the Old religious, ideological, or dogmatic Caves.  
+From this perspective the ten thousand Teachers and Traditions can be fearlessly mined and explored as We follow the Golden Thread of Wisdom and Truth wherever it leads. Unwilling to subordinate Our Spiritual Sovereignty to any but the Ultimate and Ineffable ØNE, We are safe from becoming trapped in any of the Old religious, ideological, or dogmatic Caves.  
 
 The Life Divine cannot be found intellectually, nor understood from Text or Tradition. To know the Way one must live it. To know the Spirit and Truth one must live in Spirit and Truth and be continually transformed by Spirit and Truth. The knowledge and Way of the Divine is a product of the millions of moment by moment transformations of all aspects of one’s IinterBeing that occur when one’s Life is Consciously in God.  
 
-When it is said that the Word of God is living, active, and sharper than any two edged sword, dividing even the most subtle manifestations of Creation, We are not referring to any scripture, text, or Tradition. We are referring to the Living Word. The Living Spirit. Spoken EveryWhen and EveryWhere through every particle of Co-Creation arising from ONE Divine Source.  
+When it is said that the Word of God is living, active, and sharper than any two edged sword, dividing even the most subtle manifestations of Creation, We are not referring to any scripture, text, or Tradition. We are referring to the Living Word. The Living Spirit. Spoken EveryWhen and EveryWhere through every particle of Co-Creation arising from ØNE Divine Source.  
 
 When any Manifestation of the Spirit Speaks an approximately True Word, three components become present: 1) A SpatioTemporal component appropriate to that finite context 2) Error born of Individuality, Finiteness, and Locality 3) A potentially wider Jewel of Eternal and Universal Truth that may be able to be abstracted outward and upward to greater Cosmic relevance.  
 
@@ -59,21 +59,21 @@ Thus the first ReSynthesis is the amassing and weaving of the fragments of Spiri
 
 Being more True in a Fallen Order, the early products of this New Understanding and leap forward inevitably land outside of The Sphere of Acceptable ThoughtSpeech. The more True they are, the closer they are to the reincarnation of Pure Divine Consciousness into SpatioTemporally appropriate Form that can speak and act to help guide the enslaved remnant out of The Caves and towards The Promised Land. 
 
-Contrary to the false orthodoxy that grips worlds through imperial religion, every aspect of InterExistence is an aspect of the Divine made Manifest. Incarnation is not unique to any certain Divine Figure or figures, but rather is the basic Way that Divine Co-Creation works. Every being is an apparently individuated fragment of ONE Ultimate Unity. And yet among Us All there is clearly an unequal distribution in the Quality and Quantity of Divine Consciousness, Spirit, and Energy aggregated in and accessible to each apparent individual being, along with differing levels of Capacity and Competence in accessing and channeling Divine Power in accordance with Divine Will. In other words every Being has a unique Size of Being and Force of Being arranged within something like a Total Nested Hierarchy of Being unified in and by the ONE Meta Being We All are Divine Co-Creators of.   
+Contrary to the false orthodoxy that grips worlds through imperial religion, every aspect of InterExistence is an aspect of the Divine made Manifest. Incarnation is not unique to any certain Divine Figure or figures, but rather is the basic Way that Divine Co-Creation works. Every being is an apparently individuated fragment of ØNE Ultimate Unity. And yet among Us All there is clearly an unequal distribution in the Quality and Quantity of Divine Consciousness, Spirit, and Energy aggregated in and accessible to each apparent individual being, along with differing levels of Capacity and Competence in accessing and channeling Divine Power in accordance with Divine Will. In other words every Being has a unique Size of Being and Force of Being arranged within something like a Total Nested Hierarchy of Being unified in and by the ØNE Meta Being We All are Divine Co-Creators of.   
 
 The Art and Science of the Way then becomes the conscious development and enlightenment of All Beings towards The Life Divine; when We transition beyond the elementary conceptions and glimpses of the Divine into fully immersed InterExistence in and from the very Center and Source of All InterExistence ItSelf. 
 
-From here, Divine Consciousness, Divine Knowledge, and Divine Action spiral up together towards fully realized Divine Being in and from and to the ONE.
+From here, Divine Consciousness, Divine Knowledge, and Divine Action spiral up together towards fully realized Divine Being in and from and to the ØNE.
 
-From this State of Being, all lower duties, rules, laws, and responsibilities crumble under the Supreme Weight of the Divine Authority, Desire, Right, and Responsibility to exist and act solely in, from, and for the ONE. 
+From this State of Being, all lower duties, rules, laws, and responsibilities crumble under the Supreme Weight of the Divine Authority, Desire, Right, and Responsibility to exist and act solely in, from, and for the ØNE. 
 
-The Divine Symphony then becomes not even “Us” selflessly performing “Our part” in harmony with the Divine Conductor, but the ONE performing Its Work and Play in Its Way through Us All. 
+The Divine Symphony then becomes not even “Us” selflessly performing “Our part” in harmony with the Divine Conductor, but the ØNE performing Its Work and Play in Its Way through Us All. 
 
 The Vision of The Life Divine becomes a continuously improving Heaven naturally flowing into every Domain from the Divine Consciousness conducting Us All.  
 
 When such Divine Consciousness incarnates or awakens in a Fallen Order, it may find itself entangled in an alien matrix of religious, social, civic, and “moral” duties which in aggregate directly violate the Divine Law. Such a being will often find themselves called or forced out into The Wilderness, abandoning all lesser duties and codes and ostracizing them Selves from society in order to freely pursue the Divine within. To the false religions it is sin. To the false nations it is sedition. To the false society it is subversion. And yet to betray the Divine calling is to betray the Spirit, and to betray the Spirit is the One Sin. 
 
-For in the final analysis, there is only ONE rule. There is only ONE code. There is only ONE duty. There is only ONE law. All that conflicts with It must be abandoned, transmuted, transformed, or transcended. The Chains must be ripped free from The Walls, for nothing can box in or contain the Spirit, Way, or Will of the ONE. It is Supreme, Ultimate and Absolute. Divine Consciousness does not weigh Divine Direction against lower considerations. Fulfilling the Supreme Rule is not a matter of “obedience”, but of Divine Consciousness, Direction and Flow.   
+For in the final analysis, there is only ØNE rule. There is only ØNE code. There is only ØNE duty. There is only ØNE law. All that conflicts with It must be abandoned, transmuted, transformed, or transcended. The Chains must be ripped free from The Walls, for nothing can box in or contain the Spirit, Way, or Will of the ØNE. It is Supreme, Ultimate and Absolute. Divine Consciousness does not weigh Divine Direction against lower considerations. Fulfilling the Supreme Rule is not a matter of “obedience”, but of Divine Consciousness, Direction and Flow.   
 
 The lower rules must continually be rebroken to do the Wise Right Thing. 
 

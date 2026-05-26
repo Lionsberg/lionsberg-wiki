@@ -6,7 +6,7 @@
 
 ### **0. Ongoing Cosmic Co-Creation and Panspermia**
 
-- The LIONSBERG System is not invented—it is a continuously improving discernment, reflection, and embodiment the underlying, implicit, and ultimately ineffable operational pattern through which the Spirit flowing from the [[ØNE]] continually seeds and harmonizes life across civilizations, realms and dimensions in harmony with the Logos.
+- The LIØNSBERG System is not invented—it is a continuously improving discernment, reflection, and embodiment the underlying, implicit, and ultimately ineffable operational pattern through which the Spirit flowing from the [[ØNE]] continually seeds and harmonizes life across civilizations, realms and dimensions in harmony with the Logos.
     
 - Across galaxies, consciousness, matter, energy, and civilizations co-evolve through feedback and resonance.
     
@@ -39,7 +39,7 @@
 
 ### **3. Story**
 
-- Meaning precedes motion. The Story of LIONSBERG gives the local instantiation a _mythic and motivational narrative_.
+- Meaning precedes motion. The Story of LIØNSBERG gives the local instantiation a _mythic and motivational narrative_.
     
 - It explains why the Seed has come, what crisis or opportunity it addresses, and how the community participates in the universal cosmic drama.
     
@@ -98,7 +98,7 @@
     
 - It provides missions, quests, and feedback loops through which participants **practice co-creation**.
     
-- The Great Game of LIONSBERG aligns individual, local, and cosmic progress toward shared milestones and goals in service of ONE and All.
+- The Great Game of LIØNSBERG aligns individual, local, and cosmic progress toward shared milestones and goals in service of ØNE and All.
     
 
 ---
@@ -107,7 +107,7 @@
 
 - The Map records where we are, what we know, where we are going, and what we must do next.
     
-- It links local reality to the larger cosmic topology—the LIONSBERG Map of Reality.
+- It links local reality to the larger cosmic topology—the LIØNSBERG Map of Reality.
     
 - Every update (derived from MindWeaving and OmniSpection) refines the collective understanding.
     
@@ -129,7 +129,7 @@
 
 - Economy is the circulation of value, energy, and resources in right relation in order to provision all current and future generations of life.
     
-- In the LIONSBERG System, Value arises from **co-creation of the Good**; the medium of exchange is **LUV** (LIONSBERG Units of Value).
+- In the LIØNSBERG System, Value arises from **co-creation of the Good**; the medium of exchange is **LUV** (LIØNSBERG Units of Value).
     
 - Economic design guarantees regeneration, justice, and abundance without debt or scarcity illusions.
     
@@ -153,7 +153,7 @@
     
 - It operates through the nested cadence of **Perception → MindWeaving → OmniSpection → Map Update**.
     
-- The LIONSBERG Intelligence System ensures coherence between the unfolding of the individual and local and the intent of the Whole.
+- The LIØNSBERG Intelligence System ensures coherence between the unfolding of the individual and local and the intent of the Whole.
     
 
 ---
@@ -210,7 +210,7 @@ To explain and transmit this across species and civilizations:
     
 2. **Narrative Layer:** told in The Story as a part of the mythic Journey—from the arrival of the Seed to the sending of new Seeds.
     
-3. **Pedagogical Layer:** each stage becomes a module in the **LIONSBERG Curriculum**, with Story, Practice, Protocol, and Pattern templates.
+3. **Pedagogical Layer:** each stage becomes a module in the **LIØNSBERG Curriculum**, with Story, Practice, Protocol, and Pattern templates.
     
 4. **Operational Layer:** every domain embeds this cycle in its governance rhythm (e.g., each year = one full turn of the local coil).
     

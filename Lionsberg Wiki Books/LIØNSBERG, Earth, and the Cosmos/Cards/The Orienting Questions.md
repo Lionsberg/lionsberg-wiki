@@ -12,7 +12,7 @@ Every being who enters the Codex needs to be oriented.
 
 The questions:
 
-- **Who are We?** — identity. Self. Family. People. Species. All Life. The ONE.
+- **Who are We?** — identity. Self. Family. People. Species. All Life. The ØNE.
 - **Where are We?** — location. Body. Earth. Star system. Galaxy. Dimension. Cosmos.
 - **How did We get here?** — history. Personal. Familial. Civilizational. Cosmic. Pre-cosmic.
 - **Where are We going?** — destination. The Goal. Heaven On Earth. The New Civilization. The Eternal Play.

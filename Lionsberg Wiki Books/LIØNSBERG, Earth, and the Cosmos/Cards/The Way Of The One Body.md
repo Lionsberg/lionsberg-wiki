@@ -13,7 +13,7 @@ The Way Of The One Body is the +1 architecture above the Guild-stewarded archety
 
 The Sovereign walking The Way Of The One Body cultivates:
 
-- The capacity to see and serve from the perspective of the ONE Body, not just the individual
+- The capacity to see and serve from the perspective of the ØNE Body, not just the individual
 - The capacity to operate consciously and competently across all scales of the Body — Self · Circle · Community · Bioregion · Earth · Cosmos
 - The capacity to hold the entire LIØNSBERG System with composure
 - Participation as integrated member, recognized by the Body
@@ -22,7 +22,7 @@ The Sovereign walking The Way Of The One Body cultivates:
 
 The [[The 144 Gates of Initiation]] are the cultivation of The Way Of The One Body. Walking them is how the Sovereign comes into integrated participation in the Body. **Blue Belt in The Way Of The One Body** is the recognition that the Sovereign has walked the 144 Gates and stands as a fully participating integrated member.
 
-The Sovereign continues to deepen in The Way Of The One Body across the lifetime — beyond Blue Belt to Brown and Black. The dans of Black come as each archetypal Guild Black Belt is also attained. See [[The LIONSBERG Belt System]].
+The Sovereign continues to deepen in The Way Of The One Body across the lifetime — beyond Blue Belt to Brown and Black. The dans of Black come as each archetypal Guild Black Belt is also attained. See [[The LIØNSBERG Belt System]].
 
 ## The +1 Guild
 
@@ -33,9 +33,9 @@ The +1 architecture preserves both **unity** (everyone walks The Way Of The One 
 ## Linked
 
 - [[The 144 Gates of Initiation]] — the cultivation of The Way Of The One Body
-- [[The LIONSBERG Belt System]] — the recognition architecture and dan progression
+- [[The LIØNSBERG Belt System]] — the recognition architecture and dan progression
 - [[The Sacred Ascent]] — the lifetime arc that deepens The Way Of The One Body alongside the archetypal Ways
 - [[The Way Of Sacred Force]] · [[The Way Of Healing]] · [[The Way Of Philosophy]] · [[The Way Of The Word]] · [[The Way Of Creativity]] — the archetypal Ways the +1 Guild integrates
-- [[What LIONSBERG Is]] — the wider context within which The Way Of The One Body sits
-- [[The LIONSBERG Function]] — what The Way Of The One Body serves
+- [[What LIØNSBERG Is]] — the wider context within which The Way Of The One Body sits
+- [[The LIØNSBERG Function]] — what The Way Of The One Body serves
 - [[The Story of LIØNSBERG]] — the cosmic narrative the Sovereign walks while cultivating The Way

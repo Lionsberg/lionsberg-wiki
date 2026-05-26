@@ -6,7 +6,7 @@ _The Tools of Discovery and Creation as Instruments of the Logos_
 
 ### **Summary**
 
-The Eighth Pillar of LIONSBERG reclaims science and technology as sacred disciplines—methods of perceiving, understanding, and co-creating in harmony with the Wisdom, Will, and Intention of the ONE. It calls for a unification of the rational and the intuitive, the seen and the unseen, the spiritual and material, the measurable and the ineffable. Sacred Science and Technology are not ends in themselves, but sacred means for revealing Truth, serving Life, and building the infrastructure for Heaven on Earth and Beyond. 
+The Eighth Pillar of LIØNSBERG reclaims science and technology as sacred disciplines—methods of perceiving, understanding, and co-creating in harmony with the Wisdom, Will, and Intention of the ØNE. It calls for a unification of the rational and the intuitive, the seen and the unseen, the spiritual and material, the measurable and the ineffable. Sacred Science and Technology are not ends in themselves, but sacred means for revealing Truth, serving Life, and building the infrastructure for Heaven on Earth and Beyond. 
 
 ---
 
@@ -20,7 +20,7 @@ Sacred Science and Technology reweave what was torn.
 
 It affirms that the pursuit of knowledge must be guided by Wisdom, and the application of power must be governed by Love. It restores reverence to inquiry and integrates the intuitive with the empirical. It recognizes the Cosmos as intelligent and relational, not random and dead.
 
-This pillar invites a renaissance of sacred innovation—where discovery arises from humility, and design aligns with the rhythms of Nature, the needs of the Whole, and the Will of the ONE.
+This pillar invites a renaissance of sacred innovation—where discovery arises from humility, and design aligns with the rhythms of Nature, the needs of the Whole, and the Will of the ØNE.
 
 ---
 
@@ -28,7 +28,7 @@ This pillar invites a renaissance of sacred innovation—where discovery arises 
 
 1. **The Intelligible Cosmos Is Ordered by the Logos** — and true science seeks to perceive, understand, and harmonize with this intrinsic order.
     
-2. **Knowledge Must Serve Life** — and all scientific and technological endeavors must be evaluated by their impact on the flourishing of ONE and All.
+2. **Knowledge Must Serve Life** — and all scientific and technological endeavors must be evaluated by their impact on the flourishing of ØNE and All.
     
 3. **Truth Is Whole** — and cannot be fully known through material analysis alone; intuition, Spirit, revelation, and direct experience must be integrated.
     
@@ -65,7 +65,7 @@ As the old empires rose, knowledge was divided. Science was severed from Spirit.
 
 Weapons were built. Surveillance was normalized. Technologies were designed to addict and distract. The climate was destabilized. Biology was manipulated. AI was unleashed without conscience. All in the name of progress.
 
-But LIONSBERG declares: **True science is sacred. True technology is wise.**
+But LIØNSBERG declares: **True science is sacred. True technology is wise.**
 
 Sacred Science and Technology begins not with domination, but with reverent awe.
 
@@ -83,11 +83,11 @@ And so we must choose.
 
 Will we build machines that consume—or tools that create? Will we weaponize intelligence—or sanctify it? Will we allow AI to replace us—or teach it to serve what is Highest and Best?
 
-LIONSBERG proclaims: The tools are here. The wisdom is returning. The builders are awakening.
+LIØNSBERG proclaims: The tools are here. The wisdom is returning. The builders are awakening.
 
 This is Sacred Science and Technology.  
 This is the Way.
 
 ____
 
-See also [[The LIONSBERG Meta Science]]  
+See also [[The LIØNSBERG Meta Science]]  

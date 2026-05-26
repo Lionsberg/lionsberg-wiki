@@ -1,4 +1,4 @@
-# The LIONSBERG System of Values
+# The LIØNSBERG System of Values
 
 ## Introduction 
 

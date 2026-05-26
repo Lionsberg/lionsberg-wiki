@@ -6,7 +6,7 @@ _Manifesting the Divine in the Systems, Structures, Spaces, and Objects We Co-Cr
 
 ### **Summary**
 
-The Ninth Pillar of LIONSBERG reclaims the act of building as a sacred responsibility and creative expression of the Divine. It calls us to design and construct environments that uplift the soul, honor the Earth, and reflect the beauty, order, and intelligence of the Cosmos. Sacred Architecture is not merely about shelter—it is about coherence, reverence, and resonance. It invites us to co-create spaces in which Heaven may dwell on Earth, and We may dwell within them.
+The Ninth Pillar of LIØNSBERG reclaims the act of building as a sacred responsibility and creative expression of the Divine. It calls us to design and construct environments that uplift the soul, honor the Earth, and reflect the beauty, order, and intelligence of the Cosmos. Sacred Architecture is not merely about shelter—it is about coherence, reverence, and resonance. It invites us to co-create spaces in which Heaven may dwell on Earth, and We may dwell within them.
 
 ---
 
@@ -48,7 +48,7 @@ This pillar challenges us to reimagine construction not as industry, but as sacr
     
 10. **The Village Is the Foundation of the New World** — and must be restored as a fractal of Heaven on Earth.
     
-11. **The Sacred and the Secular Must Be Reunified** — every place is a place of worship when built in alignment with the ONE.
+11. **The Sacred and the Secular Must Be Reunified** — every place is a place of worship when built in alignment with the ØNE.
     
 12. **The Goal Is to Build for Generations** — crafting environments that endure, inspire, and evolve in service to Life.
     
@@ -100,7 +100,7 @@ It recognizes that when our spaces are whole, we become whole. When our environm
 
 This is not the luxury of the elite. It is the birthright of every being, and the desire of every soul. 
 
-LIONSBERG affirms: The Kingdom cannot be built in soulless structures.  
+LIØNSBERG affirms: The Kingdom cannot be built in soulless structures.  
 Heaven cannot dwell in poisoned walls.
 
 Let us build as if God would walk our halls.  

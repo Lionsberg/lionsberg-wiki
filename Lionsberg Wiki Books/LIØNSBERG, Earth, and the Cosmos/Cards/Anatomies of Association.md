@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, association, governance, foundational]
-source: Phase 2.1 audit of LIONSBERG 101 (Ring 2)
+source: Phase 2.1 audit of LIØNSBERG 101 (Ring 2)
 captured: 2026-05-18
 ---
 

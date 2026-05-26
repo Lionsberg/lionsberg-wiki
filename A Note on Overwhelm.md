@@ -64,7 +64,7 @@ Wherever you enter,
 you will begin to see the same Logos echoing through it all:  
 The Pattern of Right Being and Right Action,  
 The Path of Exodus and Ascent,  
-The Way of the ONE and the All.  
+The Way of the ØNE and the All.  
 
 The further you go, the simpler it gets.  
 The deeper you walk, the clearer it becomes.  
@@ -93,5 +93,5 @@ Welcome.
 
 → [[START HERE — The First Steps of Our Shared Journey]]  
 → [[The Invitation to All Humanity]]  
-→ [[The Overview of the LIONSBERG System & Way]]  
+→ [[The Overview of the LIØNSBERG System & Way]]  
 → [[How To Use This Wiki]]  

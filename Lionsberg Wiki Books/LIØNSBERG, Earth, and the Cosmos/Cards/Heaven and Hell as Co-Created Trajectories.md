@@ -2,7 +2,7 @@
 status: captured
 fold_target: I
 themes: [story, theology, heaven, hell, trajectory, foundational]
-source: Phase 2.1 audit of A 200 Page Book + The Book of LIONSBERG
+source: Phase 2.1 audit of A 200 Page Book + The Book of LIØNSBERG
 captured: 2026-05-19
 ---
 
@@ -29,7 +29,7 @@ Three implications of this seeing:
 
 - **The choice is not whether to believe in Heaven or Hell.** The choice is which trajectory we are running, today, this hour, in this decision. Belief follows trajectory. The Heavenward life produces Heavenward belief; the Hellward life produces Hellward belief. The doing is the proof.
 - **Death does not award the destination.** Death is a passage. What we have become along the trajectory is what we carry. The Heavenward being meets Death and continues onward in the same direction at a different layer. The Hellward being meets Death and continues onward in the same direction at a different layer. The trajectory does not pause for the passage; the architecture is continuous.
-- **Co-creation is total.** No one is given Heaven or Hell. Everyone is co-creating one or the other — alone and together. The ONE does not impose; the ONE invites. The choosing is ours. The terminus is what we have made.
+- **Co-creation is total.** No one is given Heaven or Hell. Everyone is co-creating one or the other — alone and together. The ØNE does not impose; the ØNE invites. The choosing is ours. The terminus is what we have made.
 
 This is the **Theological Inversion** the New Story performs. The Old Story said: _Heaven and Hell are out there; behave so you reach the right one._ The New Story says: _Heaven and Hell are trajectories you are running right now; the doing is the destination._
 

@@ -11,7 +11,7 @@ Having exposed [[The Greatest Fraud, Deception, and Existential Threat in Histor
 
 Our structure for 2025 onward is rooted in the rapid transcendence of the [[Existing Order]]. 
 
-LIONSBERG is an unincorporated voluntary spiritual association of individuals, teams, and communities co-operating towards [[The Goal]]. 
+LIØNSBERG is an unincorporated voluntary spiritual association of individuals, teams, and communities co-operating towards [[The Goal]]. 
 
 This Association of Associations is *inherently and by definition* supranational and prior to any human or political authority. It and all its constituent / fractal elements are eternally free to self-organize and self-govern on the basis of the inalienable universal right to Freedom of Assembly and Freedom of Spirituality / Religion / Conscience. 
 
@@ -28,9 +28,9 @@ While rooting itself in transcendence, the **provisional structure** for [[The 7
 For a consolidated visual diagram, please see the embedded PDF below. 
 
 Core Concepts:  
-1. From [[ØNE]] in service of [[All]], LIONSBERG exists and flows.  
+1. From [[ØNE]] in service of [[All]], LIØNSBERG exists and flows.  
 2. Lionsberg is a mythical spiritual name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Goal]] points at.  
-3. From the Meta level, LIONSBERG incarnates in various SpatioTemporal Domains as a reflection of the [[Creator's Intent]].  
+3. From the Meta level, LIØNSBERG incarnates in various SpatioTemporal Domains as a reflection of the [[Creator's Intent]].  
 4. One level up from the overarching and uniting Spirit / Intention / Goal is the Divine Right and Moral Responsibility of Sovereign Individual, Groups, and Localities to Voluntarily Associate to bring the Creator's Intent into Reality.  
 5. As a result of this Voluntary Association of Sovereign entities, [[LIØNSBERG]] emerges in any domain as a Sovereign Spiritual Body, co-creating in service of [[ØNE]] and [[All]].  
 	1. This Spiritual Body is *by nature and definition* superordinate to any and all SpatioTemporal Authority.  
@@ -39,7 +39,7 @@ Core Concepts:
 	4. While transcending legal categorization *inherently and by definition* as a spiritual entity operating across realms and dimensions, it activities are free and tax exempt under Earth-specific codes such as US 6033(a)(3)(A)(i) relating to [[Private Ecclesiastical Voluntary Membership Association]].  
 6. One level up from Individuals in voluntary association are [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Teams]], [[Groups]], and [[Communities]] in voluntary association. 
 	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association]] by default unless otherwise self-organized and differentiated.  
-7. From there, LIONSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
+7. From there, LIØNSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
 8. The [[Lionsberg Wiki Books]], [[LIØNSBERG Manifesto]], [[The LIØNSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ØNE]] and [[All]].  
 9. The Lionsberg System is designed as an Invitational System, Platform, and Way for each inhabitant of a given Domain to voluntarily take up an equal [[New Citizenship]] in the [[New Civilization]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 

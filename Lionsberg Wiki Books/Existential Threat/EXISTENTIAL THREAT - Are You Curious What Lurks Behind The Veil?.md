@@ -24,7 +24,7 @@ I am sorry to alarm you. In case we never speak again, please hear these words:
 **THE FORCES OF DARKNESS ARE AT THE GATES.**  
 **TIME IS SHORT.**  
 **EVERY LIFE IS ON THE LINE.**  
-**PLEASE, I BEG YOU, LET'S WAKE EVERYONE UP AND HELP ONE ANOTHER TO SAFETY.**  
+**PLEASE, I BEG YOU, LET'S WAKE EVERYONE UP AND HELP ØNE ANOTHER TO SAFETY.**  
 **BEFORE IT IS TOO LATE.**
 
 This Story, warning, and invitation will take some time to read carefully, consider, and share with your Loved Ones. 

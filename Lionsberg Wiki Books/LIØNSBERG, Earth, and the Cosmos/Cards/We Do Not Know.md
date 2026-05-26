@@ -23,7 +23,7 @@ We Do Not Know:
 - Who has actually been governing the planet
 - What the Cosmos actually contains
 - Who we ourselves actually are
-- What the ONE actually is
+- What the ØNE actually is
 
 We have **glimpses**. We have **archetypal pattern recognition**. We have **inner Knowing** from the Non-Local Consciousness that permeates all things. But these are not the same as the Old World's **claimed certainty about facts that turn out to be lies.**
 

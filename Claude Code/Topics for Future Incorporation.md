@@ -1,6 +1,6 @@
 # Topics for Future Incorporation
 
-Concepts identified during systematic review of the old Great Game of LIONSBERG book (deleted March 2026) that are not yet fully present in the current body of work. These are seeds — not gaps that block the mission, but threads worth weaving in as the work matures.
+Concepts identified during systematic review of the old Great Game of LIØNSBERG book (deleted March 2026) that are not yet fully present in the current body of work. These are seeds — not gaps that block the mission, but threads worth weaving in as the work matures.
 
 ---
 
@@ -38,7 +38,7 @@ An accountability framing: "Acknowledge your role in co-creating, tolerating, an
 
 ### Family as Distinct Operational Unit
 
-The family level is structurally acknowledged in Ring 2's sovereignty hierarchy but has no dedicated operational content comparable to the [[The LIONSBERG Circle Guide]]. Families with children represent a fundamentally different social unit than a peer Circle — intergenerational dynamics, parent-child relationships, legacy thinking, family rituals, and modeling values for the next generation all operate differently. If families are expected to operate as Circles, this should be stated explicitly. If families deserve their own guidance, it is worth developing.
+The family level is structurally acknowledged in Ring 2's sovereignty hierarchy but has no dedicated operational content comparable to the [[The LIØNSBERG Circle Guide]]. Families with children represent a fundamentally different social unit than a peer Circle — intergenerational dynamics, parent-child relationships, legacy thinking, family rituals, and modeling values for the next generation all operate differently. If families are expected to operate as Circles, this should be stated explicitly. If families deserve their own guidance, it is worth developing.
 
 **Source**: Old chapters 6.1-6.4
 **Potential home**: A "Family Circle Guide" or a section within the Circle Guide addressing family-specific dynamics
@@ -92,7 +92,7 @@ The current architecture treats the Living System as an integral constituency wo
 
 ### Levels of Participation — Citizenship Pathway
 
-The 6-tier participation framework (Observer → Supporter → Participant → Member → Citizen → Steward) with a specific 2-3 year pathway to full LIONSBERG Citizenship exists as a standalone page ([[Levels of Participation]]) but has not been elevated into the new body of work. The governance mechanism — especially the Citizenship pathway's timeline, application process, and associated rights and responsibilities — is important for the long-term health and governance of the movement.
+The 6-tier participation framework (Observer → Supporter → Participant → Member → Citizen → Steward) with a specific 2-3 year pathway to full LIØNSBERG Citizenship exists as a standalone page ([[Levels of Participation]]) but has not been elevated into the new body of work. The governance mechanism — especially the Citizenship pathway's timeline, application process, and associated rights and responsibilities — is important for the long-term health and governance of the movement.
 
 **Source**: Old chapter 3.12, standalone [[Levels of Participation]]
 **Potential home**: Ring 2 Element 4 (Governance), or the Circle Guide's advanced governance section
